@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 44f04a16f46854fdcbbf09d5a256fcf2aa449f0d121844b4eac8b0d7616639f7
+kind: fix
+machine_hash: 535488f5a56a49f01d7c157071db6b0a0262720edeb8760faf18412571f671e6
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Fixed custom status line showing nothing when workspace trust is blocking
       it
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.79
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: fix
   product: claude-code
   product_name: Claude Code
   slug: fixed-custom-status-line-showing-nothing-when-workspace-trust-is-blocking-it
@@ -43,12 +45,12 @@ record:
     it
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-17-added-allowread-sandbox-filesystem-setting-to-re-allow-read-access-within-denyre|Added
-  allowRead sandbox filesystem setting to re-allow read access within…]]'
-- '[[Changes/Claude Code/2026-03-17-fixed-always-allow-on-compound-bash-commands-e-g-cd-src-npm-test-saving-a-single|Fixed
-  "Always Allow" on compound bash commands (e.g. cd src && npm test) saving…]]'
-- '[[Changes/Claude Code/2026-03-17-fixed-pretooluse-hooks-returning-allow-bypassing-deny-permission-rules-including|Fixed
-  PreToolUse hooks returning "allow" bypassing deny permission rules…]]'
+- '[[Changes/Claude Code/2026-03-14-3-safety-and-privacy-changes-in-v2-1-76|3 Safety
+  and Privacy changes in v2.1.76]]'
+- '[[Changes/Claude Code/2026-03-17-2-safety-and-privacy-changes-in-v2-1-78|2 Safety
+  and Privacy changes in v2.1.78]]'
+- '[[Changes/Claude Code/2026-03-17-3-safety-and-privacy-changes-in-v2-1-77|3 Safety
+  and Privacy changes in v2.1.77]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd|claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd]]'
 source_type: github_releases
 theme: safety-privacy
@@ -59,7 +61,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Fixed custom status line showing nothing when workspace trust is blocking it
 
-**Claude Code** · 2026-03-18 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.79) · from [[Releases/Claude Code/claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd|v2.1.79]]
+**Claude Code** · 2026-03-18 · [[Themes/safety-privacy|Safety and Privacy]] · Fix · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.79) · from [[Releases/Claude Code/claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd|v2.1.79]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -71,17 +73,17 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-03-18-2-apps-and-integrations-changes-in-v2-1-79|2 Apps and Integrations changes in v2.1.79]] · Apps and Integrations
 - [[Changes/Claude Code/2026-03-18-added-console-flag-to-claude-auth-login-for-anthropic-console-api-billing-authen|Added --console flag to claude auth login for Anthropic Console (API billing)…]] · Account and Access
-- [[Changes/Claude Code/2026-03-18-improved-startup-memory-usage-by-18mb-across-all-scenarios|Improved startup memory usage by ~18MB across all scenarios]] · Reliability and Performance
+- [[Changes/Claude Code/2026-03-18-2-reliability-and-performance-changes-in-v2-1-79|2 Reliability and Performance changes in v2.1.79]] · Reliability and Performance
 - [[Changes/Claude Code/2026-03-18-added-show-turn-duration-toggle-to-the-config-menu|Added "Show turn duration" toggle to the /config menu]] · Interface Experience
-- [[Changes/Claude Code/2026-03-18-improved-non-streaming-api-fallback-with-a-2-minute-per-attempt-timeout-preventi|Improved non-streaming API fallback with a 2-minute per-attempt timeout, preventing…]] · Reliability and Performance
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-fixed-pretooluse-hooks-returning-allow-bypassing-deny-permission-rules-including|Fixed PreToolUse hooks returning "allow" bypassing deny permission rules…]]
-- Later: 2026-03-20 · Claude Code · [[Changes/Claude Code/2026-03-20-added-channels-permission-relay-channel-servers-that-declare-the-permission-capa|Added --channels permission relay]]
+- Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-3-safety-and-privacy-changes-in-v2-1-77|3 Safety and Privacy changes in v2.1.77]]
+- Later: 2026-03-20 · Claude Code · [[Changes/Claude Code/2026-03-20-2-safety-and-privacy-changes-in-v2-1-81|2 Safety and Privacy changes in v2.1.81]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

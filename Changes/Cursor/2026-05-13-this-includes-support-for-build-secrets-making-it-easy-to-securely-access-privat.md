@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: b319041329fd1202679551731271f741b6d26fffd59b3f7a9f7979216d59b919
+machine_hash: b6c3413e98b0a187fe7ac3901cfa688b44a5d5f53de31fcbf01a0a2f98c84d78
 product: cursor
 product_name: Cursor
 record:
@@ -54,6 +54,7 @@ related_changes:
   agents and automations now support multi-repo environments, building off our…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c|cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: This includes support for build secrets, making it easy to securely access
   private…

@@ -2,7 +2,7 @@
 changes_count: 0
 date: '2023-09-08'
 description: 'Cursor release Styling tweaks on 2023-09-08: no tracked changes'
-machine_hash: 9086f650da53362234f53200de7079bd6abb0c0422cfa2d66235a289e80a8254
+machine_hash: 898fcdcfd7dbeb3ec1bed9b17a73d42e45a6f25affbe9f2fc748a51cb03573fd
 product: cursor
 product_name: Cursor
 record:
@@ -37,7 +37,7 @@ version: 0.10.1-nightly
 <!-- chronolog:begin region="summary" -->
 Updated some css!
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

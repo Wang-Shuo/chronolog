@@ -4,8 +4,8 @@ date: '2025-09-29'
 description: 'ChatGPT · 2025-09-29 · Voice and Audio: Turn off voice mode, to remove
   the option to use voice mode in ChatGPT.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use
-    voice to engage in a back-and-forth conversation with your assistant]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
+    are beginning to roll out new voice and image capabilities in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 735
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 54c2944c9a4fe5bb7c2e3057827a5605e211b12dcd12e5e41424deb54a0ff59a
+kind: change
+machine_hash: 4b6394f45d51bc93da15c1f9a09c47c21d1b2c8f7910ffcf42f837e6f28f3e99
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Turn off voice mode, to remove the option to use voice mode in ChatGPT.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: turn-off-voice-mode-to-remove-the-option-to-use-voice-mode-in-chatgpt
@@ -40,11 +42,10 @@ record:
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-08-07-today-we-re-rolling-out-improvements-to-voice-mode-to-make-it-more-accessible-an-055388|ChatGPT
-  rolls out improvements to Voice Mode to make it more accessible and useful…]]'
-- '[[Changes/ChatGPT/2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali-b6826c|Choose
-  from four distinct personalities or use the Default personality…]]'
-- '[[Changes/ChatGPT/2025-09-09-last-month-we-announced-that-everyone-now-has-access-to-advanced-voice-mode-with-d861d2|Last
-  month we announced that everyone now has access to Advanced Voice Mode…]]'
+  Voice updates]]'
+- '[[Changes/ChatGPT/2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali-b6826c|Personalities]]'
+- '[[Changes/ChatGPT/2025-09-09-last-month-we-announced-that-everyone-now-has-access-to-advanced-voice-mode-with-d861d2|ChatGPT
+  Voice Update]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|chatgpt-2025-09-29-parental-controls-8b95b69a]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -68,21 +69,22 @@ type: change
 ## Also in this release
 
 - [[Changes/ChatGPT/2025-09-29-remove-image-generation-so-chatgpt-won-t-have-the-ability-to-create-or-edit-imag|Remove image generation, so ChatGPT won’t have the ability to create or edit images]] · Image Generation
-- [[Changes/ChatGPT/2025-09-29-we-re-rolling-out-parental-controls-globally-in-chatgpt-to-help-families-guide-h-86eaab|ChatGPT rolls out parental controls globally to help families guide how ChatGPT…]] · Safety and Privacy
+- [[Changes/ChatGPT/2025-09-29-we-re-rolling-out-parental-controls-globally-in-chatgpt-to-help-families-guide-h-289d0a|ChatGPT rolls out parental controls globally to help families guide how ChatGPT…]] · Safety and Privacy
+- [[Changes/ChatGPT/2025-09-29-opt-out-of-model-training-so-their-teen-s-conversations-won-t-be-used-to-improve|Opt out of model training, so their teen’s conversations won’t be used to improve…]] · Model Support
 - [[Changes/ChatGPT/2025-09-29-turn-off-memory-so-chatgpt-won-t-save-and-use-memories-when-responding|Turn off memory, so ChatGPT won’t save and use memories when responding]] · Memory and Personalization
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-09-09 · ChatGPT · [[Changes/ChatGPT/2025-09-09-last-month-we-announced-that-everyone-now-has-access-to-advanced-voice-mode-with-d861d2|Last month we announced that everyone now has access to Advanced Voice Mode…]]
-- Later: 2025-11-25 · ChatGPT · [[Changes/ChatGPT/2025-11-25-type-back-when-you-can-t-talk-and-still-get-a-voice-response|Type back when you can’t talk and still get a Voice response]]
+- Earlier: 2025-09-09 · ChatGPT · [[Changes/ChatGPT/2025-09-09-last-month-we-announced-that-everyone-now-has-access-to-advanced-voice-mode-with-d861d2|ChatGPT Voice Update]]
+- Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-voice-mode|Voice Mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use voice to engage in a back-and-forth conversation with your assistant]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

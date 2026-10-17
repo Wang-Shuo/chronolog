@@ -14,9 +14,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 4755d10ae3f838a276498ff09c47933ece79ddf5d240a299e2cca6e9fdccba85
+kind: change
+machine_hash: ee68f0e7b4dbca00996cf74da1a59013013febac8aa1ad4ed3827a01b38e7cd4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,8 +32,9 @@ record:
       after installation, helping relevant options surface across ChatGPT on web and
       mobile.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: find-more-useful-plugins-rankings-now-prioritize-plugins-people-keep-using-after
@@ -56,8 +58,8 @@ related_changes:
   Computer History in more regions]]'
 - '[[Changes/ChatGPT/2026-08-20-keep-pinned-chats-in-sync-pinned-chats-now-stay-in-sync-between-the-chatgpt-desk|Keep
   pinned chats in sync]]'
-- '[[Changes/ChatGPT/2026-08-21-available-in-the-chatgpt-app-for-android-version-1-2026-216-or-later|Available
-  in the ChatGPT app for Android, version 1.2026.216 or later]]'
+- '[[Changes/Claude Code/2026-08-20-improved-startup-bare-claude-starts-sooner-on-macos|Improved
+  startup: bare claude starts sooner on macOS]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-21-improved-plugin-discovery-on-web-and-mobile-4a2c9c9b|chatgpt-2026-08-21-improved-plugin-discovery-on-web-and-mobile-4a2c9c9b]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -87,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-21 · ChatGPT · [[Changes/ChatGPT/2026-08-21-available-in-the-chatgpt-app-for-android-version-1-2026-216-or-later|Available in the ChatGPT app for Android, version 1.2026.216 or later]]
-- Later: 2026-08-25 · ChatGPT · [[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Plus and Pro users can ask Work on web, iOS, and Android to respond when a new Gmail…]]
+- Earlier: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-improved-startup-bare-claude-starts-sooner-on-macos|Improved startup: bare claude starts sooner on macOS]]
+- Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-remote-sessions-images-uploaded-from-mobile-now-include-their-saved-file-path-so|Remote sessions: images uploaded from mobile now include their saved file path…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

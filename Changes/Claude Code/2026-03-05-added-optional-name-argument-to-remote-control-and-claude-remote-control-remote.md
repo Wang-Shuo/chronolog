@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 39009650fb0f63bf914b149db6aa782f8df9abb86798f01c07e80c0f76f05c10
+machine_hash: 6dab38e41f12b92f891a1350def4a9bd7b7ca6afdea631e05546b4718ffa9bfb
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   the /claude-api skill for building applications with the Claude API…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added optional name argument to /remote-control and claude remote-control…
 type: change

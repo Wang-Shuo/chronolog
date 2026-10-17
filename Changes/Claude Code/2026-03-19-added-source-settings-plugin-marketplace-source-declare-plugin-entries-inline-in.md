@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b17fd1ae45ef4369bd9b4d530f0b05691bd154a70d414073b4ebc05623bd5c88
+machine_hash: f3ff9081d327a9a75078329dd21a0540cba7683b6705474ce33f9448724e581e
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   ${CLAUDE_PLUGIN_DATA} variable for plugin persistent state that survives…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a|claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: 'Added source: ''settings'' plugin marketplace source'
 type: change

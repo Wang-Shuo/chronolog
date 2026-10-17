@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-06-08 · Files and Data: Full-screen writing block
   longer-form work: Writing blocks now cover long-form writing use cases, including
   essays…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|ChatGPT
-    rolls out code interpreter to all ChatGPT Plus users over the next week]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
+    interpreter is now rolling out in beta on web]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1068
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 2d4e0a0434210db5d7efe1d82830f9d7589b7582aa2c1c551de9bed2c096ba19
+kind: change
+machine_hash: 67461327111cd3755660bde7d40c7bade2ab56a30a3e1150a4acc54f9a21198f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,10 +44,12 @@ record:
       titles, a table of contents for long documents, download support, undo and redo
       fixes, improved save behavior, and clearer loading states.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
+  scope: Web
   slug: full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo
   source_release: chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5
   source_type: chatgpt_changelog
@@ -68,12 +71,13 @@ record:
   title: Full-screen writing blocks for longer-form work
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-20-canvases-are-interactive-artifacts-created-by-agents-like-reports-dashboards-and|Canvases
-  are interactive artifacts created by agents, like reports, dashboards…]]'
-- '[[Changes/Cursor/2026-06-04-design-mode-is-now-available-in-canvases|Design Mode
-  is now available in canvases]]'
+- '[[Changes/Cursor/2026-06-04-improved-the-agent-s-ability-to-fix-canvas-type-errors|Improved
+  the agent''s ability to fix canvas type errors]]'
+- '[[Changes/Cursor/2026-06-04-0-1-6-release-and-analytics-cursor-sdk-0-1-6-documents-the-buildkite-release-pat|0.1.6
+  release and analytics]]'
 - '[[Changes/ChatGPT/2026-06-08-interactive-charts-in-answers-chatgpt-can-now-turn-some-answers-into-rich-and-in|Interactive
   charts in answers]]'
+scope: Web
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
 theme: file-data
@@ -84,7 +88,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Full-screen writing blocks for longer-form work
 
-**ChatGPT** · 2026-06-08 · [[Themes/file-data|Files and Data]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
+**ChatGPT** · 2026-06-08 · [[Themes/file-data|Files and Data]] · Web · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -99,20 +103,25 @@ type: change
 - [[Changes/ChatGPT/2026-06-08-send-an-email-directly-from-within-a-chat-if-you-ve-connected-gmail-or-outlook-y|Send an email directly from within a chat]] · Enterprise and Administration
 - [[Changes/ChatGPT/2026-06-08-improvement-to-charts-table-of-contents-and-full-screen-writing-also-fixes-long|Improvement to charts, table of contents and full screen writing]] · Interface Experience
 - [[Changes/ChatGPT/2026-06-08-interactive-charts-in-answers-chatgpt-can-now-turn-some-answers-into-rich-and-in|Interactive charts in answers]] · Files and Data
+- [[Changes/ChatGPT/2026-06-08-cleaner-edit-message-flow-android-now-makes-it-clearer-when-you-re-editing-a-pre|Cleaner edit-message flow]] · Mobile and Desktop
 - [[Changes/ChatGPT/2026-06-08-table-of-contents-in-longer-conversations-conversations-longer-than-five-respons|Table of contents in longer conversations]] · Interface Experience
+- [[Changes/ChatGPT/2026-06-08-long-press-send-to-choose-a-model-users-on-paid-plans-can-now-long-press-the-sen|Long-press send to choose a model]] · Model Support
+- [[Changes/ChatGPT/2026-06-08-immediate-image-previews-after-sending-when-you-upload-an-image-on-ios-chatgpt-u|Immediate image previews after sending]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-06-08-cleaned-up-logged-out-mobile-web-experience-logged-out-users-now-see-a-composer|Cleaned up logged-out mobile web experience]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-06-08-edit-messages-with-attachments-you-can-now-edit-messages-that-include-attachment|Edit messages with attachments]] · Editor Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-design-mode-is-now-available-in-canvases|Design Mode is now available in canvases]]
-- Later: 2026-06-26 · ChatGPT · [[Changes/ChatGPT/2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u|The personal finance experience in ChatGPT is rolling out to Plus users…]]
+- Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-0-1-6-release-and-analytics-cursor-sdk-0-1-6-documents-the-buildkite-release-pat|0.1.6 release and analytics]]
+- Later: 2026-06-26 · ChatGPT · [[Changes/ChatGPT/2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u|Personal finance in ChatGPT expands to Plus users and Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|ChatGPT rolls out code interpreter to all ChatGPT Plus users over the next week]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

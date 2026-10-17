@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 27f6eeed3cd613b584c6ca4680f677feec6774a3696dffefe027aced057b4fb1
+kind: change
+machine_hash: 0648934f7b3b20b349c9269e807c2020c3003126d95ac2b63a09ddbf3c56d612
 product: claude-code
 product_name: Claude Code
 record:
@@ -32,8 +33,9 @@ record:
       `tips` with an array of custom tip strings, and optionally set `excludeDefault:
       true` to show only your custom tips instead of the built-in ones'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.45
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-spinnertipsoverride-setting-to-customize-spinner-tips-configure-tips-with
@@ -74,16 +76,17 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-02-17-improved-startup-performance-by-removing-eager-loading-of-session-history-for-st|Improved startup performance by removing eager loading of session history for stats…]] · Projects and Workspaces
-- [[Changes/Claude Code/2026-02-17-added-support-for-reading-enabledplugins-and-extraknownmarketplaces-from-add-dir|Added support for reading enabledPlugins and extraKnownMarketplaces…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-02-17-added-support-for-claude-sonnet-4-6|Added support for Claude Sonnet 4.6]] · Model Support
-- [[Changes/Claude Code/2026-02-17-added-sdkratelimitinfo-and-sdkratelimitevent-types-to-the-sdk-enabling-consumers|Added SDKRateLimitInfo and SDKRateLimitEvent types to the SDK, enabling…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-02-17-improved-memory-usage-for-shell-commands-that-produce-large-output-rss-no-longer|Improved memory usage for shell commands that produce large output]] · Reliability and Performance
+- [[Changes/Claude Code/2026-02-17-vscode-improved-permission-destination-choice-project-user-session-to-persist-ac|VSCode Improved permission destination choice (project/user/session) to persist…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-02-17-2-apps-and-integrations-changes-in-v2-1-45|2 Apps and Integrations changes in v2.1.45]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-improved-narrow-terminal-layout-for-prompt-footer|Improved narrow terminal layout for prompt footer]]
-- Later: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-typing-plan-takes-you-back-to-your-current-plan-and-its-action-menu-we-ve-also-a|Typing /plan takes you back to your current plan and its action menu]]
+- Later: 2026-02-17 · Cursor · [[Changes/Cursor/2026-02-17-3-interface-experience-changes-in-2-5|3 Interface Experience changes in 2.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

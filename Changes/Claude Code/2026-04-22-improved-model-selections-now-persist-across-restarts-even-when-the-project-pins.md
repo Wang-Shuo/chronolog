@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 4b8aaee3ebcc01cbf46c765b1441c03cea2a2413372cfd0ba7e68adf0fb83cf4
+machine_hash: 245a69b63a05c9543e95af2e310873e13c154294cb633fd58df00545dc934baa
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   xhigh effort level for Opus 4.7, sitting between high and max]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-22-v2-1-117-github-311984967-1d917373|claude-code-2026-04-22-v2-1-117-github-311984967-1d917373]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: 'Improved /model: selections now persist across restarts even when the project
   pins…'

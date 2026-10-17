@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: aceb0ead2ea09dfd36c24bf1f7f9ae159341cfa0c9230ecfe1730e4513af452c
+machine_hash: 1f8b484397c52fc63121702312ec41b41ad3495d349daf052344199905c2ad4a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -59,6 +59,7 @@ related_changes:
   what you want changed into the text box at the bottom of the memory summary…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-12-additional-controls-for-memory-summary-37c89b72|chatgpt-2026-06-12-additional-controls-for-memory-summary-37c89b72]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: memory
 title: If you don’t want information from a chat to be used to personalize responses,
   you…

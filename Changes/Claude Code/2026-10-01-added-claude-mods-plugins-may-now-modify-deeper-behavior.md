@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 57013d00fcf5e031c15a5419bd331c1f26d5f1d19d60bff24a40d2cfa25ca11e
+machine_hash: d4b56423653f01a9ae05ec01c1862e8a17e8d77cc12d4d08c77662572b852e32
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,6 +47,7 @@ related_changes:
   claude plugin configure plugin to show a plugin''s options and…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: 'Added Claude Mods: plugins may now modify deeper behavior'
 type: change

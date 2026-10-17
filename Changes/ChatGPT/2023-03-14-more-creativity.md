@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e96ce88ad881bf51dd3f888ff02339ec1b8b0dcb76c81ada1186fb303de7c4d5
+machine_hash: 8a9bb3a207121a4baaeb1a64fb9c28e591dd187dd1a2ee3731f659de45c170ee
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,6 +45,7 @@ related_changes:
 - '[[Changes/ChatGPT/2023-03-14-complex-instructions|Complex instructions]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-03-14-announcing-gpt-4-in-chatgpt-43063370|chatgpt-2023-03-14-announcing-gpt-4-in-chatgpt-43063370]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: More creativity
 type: change

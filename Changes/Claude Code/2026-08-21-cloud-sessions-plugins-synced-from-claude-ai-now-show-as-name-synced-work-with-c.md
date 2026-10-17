@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: bcc639627c5452c2d411b028a6a407e5c1eab5f4e3f72fd450c0e3c4c28acc4e
+machine_hash: 5ca8a26eff8b034cc244a3118116ee751356fbaa1ef798beed9a2e3d5bf45d1c
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   availability depends on your plan, region, and workspace settings]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918|claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: 'Cloud sessions: plugins synced from claude.ai now show as name@synced, work…'
 type: change

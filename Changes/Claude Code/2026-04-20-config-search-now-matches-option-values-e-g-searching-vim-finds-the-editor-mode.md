@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0867409dba74d9dbbe4b4cf136c080219c0b8b865abdfb8306ea0f57be64f3c5
+machine_hash: 1de54f5f16699fde9eb13792d3837b071d6fc09b049912d67b5f12a74a7110a9
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   CLAUDE_CODE_PERFORCE_MODE env var]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e|claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e]]'
 source_type: github_releases
+superseded: true
 theme: editor-experience
 title: /config search now matches option values…
 type: change

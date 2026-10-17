@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 44d62ca40604cee0da96872e4786d61a06c90dd64465fcdce97cd4e62fbc7942
+machine_hash: 034de25e79be41c3e40673b727349650588cecc5dda4d649011d0fda95121002
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   a slash command in the autocomplete menu now fills it into your prompt…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988|claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added a "c to copy" shortcut to /btw that copies the raw markdown answer…
 type: change

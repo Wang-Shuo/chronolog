@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: aba75816a9db2843b8fa53a7f28ed9c4abd4f390a49cf26f76890169cc65b14d
+machine_hash: 6e8fb09ab63198478eeb77a432fb20d72229c1faa72974c68c78443ff729b0a8
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   claude self-hosted-runner --proxy-authorization-command…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2|claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added a keybindingFlavor setting
 type: change

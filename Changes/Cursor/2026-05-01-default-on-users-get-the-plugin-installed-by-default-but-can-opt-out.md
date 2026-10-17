@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 230d2b8e80041b64ea7c3ee1073798e0c5b819c26c39f58b5dbc9cc6bd4b54d4
+machine_hash: 36a2d6cc385b8b9c3301172a1ebf008cd6257cc71acd8837192c3dac6efe9023
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   users always have the plugin and cannot uninstall it]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-01-team-marketplace-updates-https-cursor-com-changelog-05-01-26-3036cead|cursor-2026-05-01-team-marketplace-updates-https-cursor-com-changelog-05-01-26-3036cead]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: 'Default On: users get the plugin installed by default, but can opt out'
 type: change

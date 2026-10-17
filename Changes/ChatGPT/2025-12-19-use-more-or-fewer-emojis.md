@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 69c0cb9f81b5cd0741d4ef96b5d0408b555445af595f25b5455e6be0a3524b3a
+machine_hash: e889f4622e0ed789bee3db813567f06b069239ffca26371612900954a5a46316
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,6 +48,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-12-19-be-more-or-less-warm|Be more or less warm]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-19-new-detailed-characteristic-controls-fa363df4|chatgpt-2025-12-19-new-detailed-characteristic-controls-fa363df4]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: memory
 title: Use more or fewer emojis
 type: change

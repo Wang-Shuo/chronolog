@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-08-12'
 description: 'ChatGPT release Gmail, Google Calendar, and Google Contacts Connectors
   in ChatGPT (Pro) on 2025-08-12: 1 tracked change across Model Support'
-machine_hash: 8d3311f122514a4daf1a3b77def49c673f6bb07c3d22a276f2ba146d88358871
+machine_hash: eb7574229315d34fb9b9a52cc904a37d0232ced811aea4f3a4958ffea591a790
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,10 +43,10 @@ version: Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Pro)
 <!-- chronolog:begin region="summary" -->
 Gmail, Google Calendar, and Google Contacts are now available to connect and use in chat. Once you enable them, ChatGPT will automatically reference them when relevant, making it faster and easier to bring information from these tools into your conversations without having to manually select them each time.This…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-08-12-gmail-google-calendar-and-google-contacts-are-now-available-to-connect-and-use-i-9ea6d6|Gmail, Google Calendar, and Google Contacts are now available to connect and use in chat]] · Model Support
+- [[Changes/ChatGPT/2025-08-12-gmail-google-calendar-and-google-contacts-are-now-available-to-connect-and-use-i-9ea6d6|Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Pro)]] · Model Support · Launch
 <!-- chronolog:end -->

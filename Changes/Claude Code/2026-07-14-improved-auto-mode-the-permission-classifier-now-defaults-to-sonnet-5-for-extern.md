@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4ea415e40bf928c64a4d2ab6d37fef8a95bc02e5287605496cd0da7f01a8cae5
+machine_hash: 6ef3c6e7a9754726f23f86c6cb11b146ec874649cce84f4cb662e34165332e5b
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,6 +61,7 @@ related_changes:
   remote managed settings from a non-interactive run (claude -p, the SDK)…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-210-github-354034085-7eba9ec7|claude-code-2026-07-14-v2-1-210-github-354034085-7eba9ec7]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Improved auto mode
 type: change

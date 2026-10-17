@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: ada606589bba3b9771d77b91b27709874b5325f1448e402d8ec3b67d42180ea7
+machine_hash: 63fbb6a06ffae47de681035cfee98d796ac533b9319972ef5f3d8c1321562199
 product: claude-code
 product_name: Claude Code
 record:
@@ -64,6 +64,7 @@ related_changes:
   Claude Mods: plugins may now modify deeper behavior]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added You should know, a built-in mod where a side agent watches your back
   and flags…

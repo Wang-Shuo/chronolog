@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a08c7869665859b037f3967001013707abf2be5c17a0e0f621acae64f0f68329
+machine_hash: caae03d435d8e6a35019325f135cee0fbc8349f31e9a2bea4003ca6667f2a98d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -67,6 +67,7 @@ related_changes:
   with Custom Actions currently support GPT-4o and 4.1]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-16-expanded-model-support-for-custom-gpts-55f4555f|chatgpt-2025-06-16-expanded-model-support-for-custom-gpts-55f4555f]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: Enterprise and Edu users can also now choose from the full set of ChatGPT models…
 type: change

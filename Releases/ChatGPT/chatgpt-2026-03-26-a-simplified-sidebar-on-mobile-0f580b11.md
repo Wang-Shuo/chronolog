@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-03-26'
 description: 'ChatGPT release A simplified sidebar on mobile on 2026-03-26: 1 tracked
   change across Mobile and Desktop'
-machine_hash: 60d61bff701339c26ee94c41a099d5f5d9d69210895aa460ecaf20de405905dc
+machine_hash: f0b5f5de6817e0b722b17ee4309b20293ec5f5466a4263aaabcb091b275a79ca
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: A simplified sidebar on mobile
 <!-- chronolog:begin region="summary" -->
 To give you more space to view your most critical chats and projects, the sidebar menu is now simplified on iOS and Android. ChatGPT experiences available to you based on your plan and usage—like Images, Codex, Pulse, and Apps—now appear in a horizontal bar above your chats and projects.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|To give you more space to view your most critical chats and projects, the sidebar…]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|A simplified sidebar on mobile]] · Mobile and Desktop
 <!-- chronolog:end -->

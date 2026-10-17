@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f368c912e0c1a1e180fe45c8067db9be03f966208718ffcf13340e0f2777fbb1
+kind: change
+machine_hash: ad06b5fb6858751d314ce4ee457922fe0886fa9af1d7250a19acf080a2a22ba1
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added Updates section to `/doctor` showing auto-update channel and available
       npm versions (stable/latest)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.6
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-updates-section-to-doctor-showing-auto-update-channel-and-available-npm-ve
@@ -43,10 +45,10 @@ record:
     npm…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-09-added-release-channel-stable-or-latest-toggle-to-config|Added
-  release channel (stable or latest) toggle to /config]]'
-- '[[Changes/Claude Code/2026-01-09-improved-terminal-rendering-stability-by-preventing-uncontrolled-writes-from-cor|Improved
-  terminal rendering stability by preventing uncontrolled writes…]]'
+- '[[Changes/Cursor/2025-12-22-3-interface-experience-changes-in-2-3|3 Interface Experience
+  changes in 2.3]]'
+- '[[Changes/Claude Code/2026-01-09-2-interface-experience-changes-in-v2-1-3|2 Interface
+  Experience changes in v2.1.3]]'
 - '[[Changes/Claude Code/2026-01-09-added-shift-tab-keyboard-shortcut-in-plan-mode-to-quickly-select-auto-accept-edi|Added
   Shift+Tab keyboard shortcut in plan mode to quickly select…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a|claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a]]'
@@ -73,9 +75,11 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-01-13-added-context-window-used-percentage-and-context-window-remaining-percentage-fie|Added context_window.used_percentage and context_window.remaining_percentage…]] · Context Window
-- [[Changes/Claude Code/2026-01-13-added-automatic-discovery-of-skills-from-nested-claude-skills-directories-when-w|Added automatic discovery of skills from nested .claude/skills directories…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-01-13-added-date-range-filtering-to-stats-command-press-r-to-cycle-between-last-7-days|Added date range filtering to /stats command - press r to cycle between Last 7…]] · Developer Workflow
-- [[Changes/Claude Code/2026-01-13-added-search-functionality-to-config-command-for-quickly-filtering-settings|Added search functionality to /config command for quickly filtering settings]] · Developer Workflow
+- [[Changes/Claude Code/2026-01-13-updated-help-improve-claude-setting-fetch-to-refresh-oauth-and-retry-when-it-fai|Updated "Help improve Claude" setting fetch to refresh OAuth and retry when it fails…]] · Account and Access
+- [[Changes/Claude Code/2026-01-13-2-apps-and-integrations-changes-in-v2-1-6|2 Apps and Integrations changes in v2.1.6]] · Apps and Integrations
+- [[Changes/Claude Code/2026-01-13-3-developer-workflow-changes-in-v2-1-6|3 Developer Workflow changes in v2.1.6]] · Developer Workflow
+- [[Changes/Claude Code/2026-01-13-fixed-permission-bypass-via-shell-line-continuation-that-could-allow-blocked-com|Fixed permission bypass via shell line continuation that could allow blocked…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-01-13-2-editor-experience-changes-in-v2-1-6|2 Editor Experience changes in v2.1.6]] · Editor Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

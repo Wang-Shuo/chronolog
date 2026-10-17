@@ -14,9 +14,10 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: aa4def33235de73c0051ffddafe15b9d635246c9229c68f110a7d557779248e8
+kind: change
+machine_hash: 8070b7cfe942c5d94dea0f79fd92bb90473a75159e94fcc59db31e1d5603c001
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,8 +31,9 @@ record:
   evidence:
   - quote: Starting a new project directly from a chat
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: starting-a-new-project-directly-from-a-chat
@@ -71,6 +73,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload files and access model selector on mobile]] · Mobile and Desktop
 - [[Changes/ChatGPT/2025-06-12-sharing-chats-from-projects|Sharing chats from projects]] · Collaboration
 - [[Changes/ChatGPT/2025-06-12-starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d|Starting today, we’re adding several updates to projects in ChatGPT to help you do…]] · Collaboration
 - [[Changes/ChatGPT/2025-06-12-improvements-to-memory-to-reference-past-chats-in-a-project|Improvements to memory to reference past chats in a project]] · Memory and Personalization
@@ -81,7 +84,7 @@ type: change
 ## Nearby in Projects and Workspaces
 
 - Earlier: 2024-10-09 · Cursor · [[Changes/Cursor/2024-10-09-composer-history-lets-you-access-previous-composer-sessions-after-restart-you-ca|Composer history lets you access previous composer sessions after restart]]
-- Later: 2025-09-04 · ChatGPT · [[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21|Branch conversations in ChatGPT, making it easier to explore different directions…]]
+- Later: 2025-09-04 · ChatGPT · [[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21|Branch conversations on web]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

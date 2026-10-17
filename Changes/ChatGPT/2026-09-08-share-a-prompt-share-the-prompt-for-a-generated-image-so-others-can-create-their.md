@@ -4,19 +4,19 @@ date: '2026-09-08'
 description: 'ChatGPT · 2026-09-08 · Collaboration: Share a prompt. Share the prompt
   for a generated image so others can create their own version.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
-    can also share private docs]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1096
+  lag_days: 1203
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: b20e5c49fcebb6de82155e7d67b7e0e126939ec650ef3dda7602759b4483aa23
+kind: change
+machine_hash: 64642530f198c45ac1f4b24fe2b65483de451ca0301b275d44408c522a0463e1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,8 +30,9 @@ record:
   - quote: Share a prompt. Share the prompt for a generated image so others can create
       their own version.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their
@@ -47,8 +48,8 @@ related_changes:
   a read-only snapshot of a Codex chat]]'
 - '[[Changes/ChatGPT/2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o|Share
   your stickers in messaging apps]]'
-- '[[Changes/ChatGPT/2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside|Eligible
-  Site owners can now share a live ChatGPT Site with named people outside…]]'
+- '[[Changes/ChatGPT/2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside|Share
+  Sites with people outside your workspace]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d|chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -71,22 +72,22 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2026-09-08-chatgpt-images-2-5-brings-sharper-details-more-precise-editing-and-faster-image|ChatGPT Images 2.5 brings sharper details, more precise editing, and faster image…]] · Image Generation
 - [[Changes/ChatGPT/2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add|Edit and comment]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-09-08-chatgpt-images-2-5-brings-sharper-details-more-precise-editing-and-faster-image-66acb5|ChatGPT Images 2.5 brings sharper details, more precise editing, and faster image…]] · Image Generation
 - [[Changes/ChatGPT/2026-09-08-turn-a-sketch-into-an-image-on-mobile-type-in-the-message-box-and-select-sketch|Turn a sketch into an image]] · Mobile and Desktop
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-03 · ChatGPT · [[Changes/ChatGPT/2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside|Eligible Site owners can now share a live ChatGPT Site with named people outside…]]
-- Later: 2026-09-09 · ChatGPT · [[Changes/ChatGPT/2026-09-09-share-with-specific-people-invite-recipients-and-assign-viewer-or-editor-access|Share with specific people]]
+- Earlier: 2026-09-03 · ChatGPT · [[Changes/ChatGPT/2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside|Share Sites with people outside your workspace]]
+- Later: 2026-09-09 · ChatGPT · [[Changes/ChatGPT/2026-09-09-4-collaboration-changes-in-share-files-and-folders|4 Collaboration changes in Share files and folders…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

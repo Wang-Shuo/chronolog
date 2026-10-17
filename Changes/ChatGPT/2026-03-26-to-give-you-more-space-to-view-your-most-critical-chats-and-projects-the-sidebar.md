@@ -15,9 +15,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: e0dfcee21cde5afa99d38ad313c19ec207d3f7d552ac07bd1e55cf1e203e3c35
+kind: change
+machine_hash: fcf5c5f1a73b537fa774284a32228e784d49b2a0b6ca9c4e56442d0c2b15c177
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,8 +36,9 @@ record:
       to you based on your plan and usage—like Images, Codex, Pulse, and Apps—now
       appear in a horizontal bar above your chats and projects.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar
@@ -59,24 +61,24 @@ record:
     score: 50
     theme: apps-integrations
   theme_resolution: manual-semantic-rule-v1
-  title: To give you more space to view your most critical chats and projects, the
-    sidebar…
+  title: A simplified sidebar on mobile
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-24-cloud-agents-are-available-anywhere-you-use-cursor-including-web-desktop-mobile|Cloud
-  agents are available anywhere you use Cursor, including web, desktop, mobile…]]'
-- '[[Changes/Cursor/2026-03-03-desktop-improvements-15|Desktop Improvements (15)↓↑]]'
-- '[[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|Now,
-  it’s easier to find, reuse, and build on your files over time]]'
+- '[[Changes/Claude Code/2026-03-11-improved-clipboard-image-pasting-performance-on-macos|Improved
+  clipboard image pasting performance on macOS]]'
+- '[[Changes/Claude Code/2026-03-17-2-mobile-and-desktop-changes-in-v2-1-77|2 Mobile
+  and Desktop changes in v2.1.77]]'
+- '[[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|File
+  Library in ChatGPT]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-26-a-simplified-sidebar-on-mobile-0f580b11|chatgpt-2026-03-26-a-simplified-sidebar-on-mobile-0f580b11]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: To give you more space to view your most critical chats and projects, the sidebar…
+title: A simplified sidebar on mobile
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# To give you more space to view your most critical chats and projects, the sidebar…
+# A simplified sidebar on mobile
 
 **ChatGPT** · 2026-03-26 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-26-a-simplified-sidebar-on-mobile-0f580b11|A simplified sidebar on mobile]]
 <!-- chronolog:end -->
@@ -94,8 +96,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-03-23 · ChatGPT · [[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|Now, it’s easier to find, reuse, and build on your files over time]]
-- Later: 2026-03-26 · ChatGPT · [[Changes/ChatGPT/2026-03-26-users-can-now-choose-to-share-their-device-location-so-chatgpt-can-provide-more-7907ed|Users can now choose to share their device location so ChatGPT can provide more…]]
+- Earlier: 2026-03-23 · ChatGPT · [[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|File Library in ChatGPT]]
+- Later: 2026-03-26 · ChatGPT · [[Changes/ChatGPT/2026-03-26-users-can-now-choose-to-share-their-device-location-so-chatgpt-can-provide-more-7907ed|Location Sharing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

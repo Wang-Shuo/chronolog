@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-03-25'
 description: 'Cursor release v0.1.7 (2023-03-25) on 2023-03-25: 1 tracked change across
   Editor Experience'
-machine_hash: 8c83a8aebf510cd555fb51a6996f23a126fafec39d7b0ffd79314765f692c4db
+machine_hash: f2100057374074081b6e3b48d19575571b9e33a1476500800b8c128eb9628c10
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.1.7
 <!-- chronolog:begin region="summary" -->
 1 tracked change across 1 theme: Editor Experience.
 
-Tracked 1 of 4 candidate lines.
+Tracked 1 card from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

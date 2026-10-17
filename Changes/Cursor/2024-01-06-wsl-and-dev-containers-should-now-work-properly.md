@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: de0700911b4dce69e17beed888d786a673a2334ca70c96bc6c2bd15a3db8b205
+kind: change
+machine_hash: 506f6b1eaa68e9854cdbe7453b18127f03dd6ce867e919f08f6db1188410a211
 product: cursor
 product_name: Cursor
 record:
@@ -27,19 +28,20 @@ record:
   evidence:
   - quote: WSL and Dev Containers should now work properly.
     source_release: https://cursor.com/changelog/0-21-6-nightly
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: wsl-and-dev-containers-should-now-work-properly
   source_release: cursor-2024-01-06-0-21-6-nightly-https-cursor-com-changelog-0-21-6-nightly-197640be
   source_type: cursor_changelog
   theme: developer-workflow
-  title: WSL and Dev Containers should now work properly
+  title: Better Remote Support
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-23-never-lets-your-root-directory-be-in-the-gitignore|never
-  lets your root directory be in the gitignore]]'
+- '[[Changes/Cursor/2023-09-23-never-lets-your-root-directory-be-in-the-gitignore|gitignore
+  and search hotfix]]'
 - '[[Changes/Cursor/2023-10-01-ask-about-git-commits-and-prs-using-git-in-chat|Ask
   about git commits and PRs using @git in chat!]]'
 - '[[Changes/Cursor/2023-10-20-also-there-s-an-experimental-bash-mode-enable-it-in-the-settings-and-let-the-cha|Also,
@@ -47,12 +49,12 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-01-06-0-21-6-nightly-https-cursor-com-changelog-0-21-6-nightly-197640be|cursor-2024-01-06-0-21-6-nightly-https-cursor-com-changelog-0-21-6-nightly-197640be]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: WSL and Dev Containers should now work properly
+title: Better Remote Support
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# WSL and Dev Containers should now work properly
+# Better Remote Support
 
 **Cursor** · 2024-01-06 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://cursor.com/changelog/0-21-6-nightly) · from [[Releases/Cursor/cursor-2024-01-06-0-21-6-nightly-https-cursor-com-changelog-0-21-6-nightly-197640be|Better Remote Support]]
 <!-- chronolog:end -->

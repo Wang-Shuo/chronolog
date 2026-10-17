@@ -15,9 +15,10 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 9e9c5d06f62d176e8d7eb5dd99080a4e2e4b30e6975fc0485972e52291e02356
+kind: pricing
+machine_hash: 961c6fde540011c853b35edfd558a4deb5ac84d27cb30a7ca593fd74be8b15cc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,8 +54,9 @@ record:
       Edu route instead. The program covers ChatGPT access, not API credits.Read the
       full eligibility and program details in ChatGPT for Academic Researchers.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: pricing
   product: chatgpt
   product_name: ChatGPT
   slug: research-rarely-happens-alone-chatgpt-for-academic-researchers-gives-faculty-and
@@ -71,26 +73,26 @@ record:
     score: 50
     theme: collaboration
   theme_resolution: manual-semantic-rule-v2
-  title: Research rarely happens alone
+  title: ChatGPT for Academic Researchers
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-22-cost-good-quality-reaching-the-highest-available-intelligence-while-optimizing-t|Cost:
-  Good quality, reaching the highest available intelligence while optimizing…]]'
+- '[[Changes/Cursor/2026-07-22-2-pricing-model-changes-in-cursor-router|2 Pricing
+  Model changes in Cursor Router]]'
+- '[[Changes/Cursor/2026-07-28-local-pricing-at-649-per-month-tax-inclusive-billed-in-inr-with-upi-or-card|Local
+  pricing at ₹649 per month, tax inclusive, billed in INR with UPI or card]]'
 - '[[Changes/Cursor/2026-07-28-we-re-introducing-cursor-start-a-new-649-monthly-plan-for-developers-in-india-ma|Cursor
   introduces Cursor Start, a new ₹649 monthly plan for developers in India…]]'
-- '[[Changes/Cursor/2026-07-28-start-bills-monthly-with-auto-renewal-and-is-available-from-july-28-2026|Start
-  bills monthly with auto-renewal and is available from July 28, 2026]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-29-chatgpt-for-academic-researchers-9c67fb00|chatgpt-2026-07-29-chatgpt-for-academic-researchers-9c67fb00]]'
 source_type: chatgpt_changelog
 theme: pricing-model
-title: Research rarely happens alone
+title: ChatGPT for Academic Researchers
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Research rarely happens alone
+# ChatGPT for Academic Researchers
 
-**ChatGPT** · 2026-07-29 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-29-chatgpt-for-academic-researchers-9c67fb00|ChatGPT for Academic Researchers]]
+**ChatGPT** · 2026-07-29 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-29-chatgpt-for-academic-researchers-9c67fb00|ChatGPT for Academic Researchers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -106,8 +108,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-07-28 · Cursor · [[Changes/Cursor/2026-07-28-start-bills-monthly-with-auto-renewal-and-is-available-from-july-28-2026|Start bills monthly with auto-renewal and is available from July 28, 2026]]
-- Later: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-added-a-per-session-prompt-cache-line-to-cost-hit-ratio-misses-tokens-re-cached|Added a per-session prompt-cache line to /cost…]]
+- Earlier: 2026-07-28 · Cursor · [[Changes/Cursor/2026-07-28-we-re-introducing-cursor-start-a-new-649-monthly-plan-for-developers-in-india-ma|Cursor introduces Cursor Start, a new ₹649 monthly plan for developers in India…]]
+- Later: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-changed-fast-mode-to-report-on-the-stream-when-usage-credits-run-out-mid-session|Changed fast mode to report on the stream when usage credits run out mid-session…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

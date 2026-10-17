@@ -4,8 +4,8 @@ date: '2023-12-14'
 description: 'Cursor · 2023-12-14 · Editor Experience: We made Copilot++ faster, smarter,
   more constrained, and switched to a ghost-text + hit-Tab-to-accept UI. Would love…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 275
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: d95bf5d58feac840e60b0c1ac7d2f1e3e8a7c53944f0960747aa5a67734e01f5
+kind: change
+machine_hash: 9c794447ca4e1dd12921759a5ede2f5fa9419b310e0f69d9ba9e9e4c5f1b868e
 product: cursor
 product_name: Cursor
 record:
@@ -30,8 +31,9 @@ record:
   - quote: We made Copilot++ faster, smarter, more constrained, and switched to a
       ghost-text + hit-Tab-to-accept UI. Would love your feedback.
     source_release: https://cursor.com/changelog/0-19-0
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit
@@ -48,24 +50,24 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
-  title: We made Copilot++ faster, smarter, more constrained, and switched to a ghost-text…
+  title: Copilot++ Improvements
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-11-27-interpreter-mode-beta-you-can-now-enable-interpreter-mode-in-the-more-tab-this-g|Interpreter
   Mode Beta: You can now enable Interpreter Mode in the "More" tab]]'
 - '[[Changes/Cursor/2023-11-30-more-reliable-copilot-changes-less-flashing-better-highlighting-of-what-s-new|More
   reliable Copilot++ changes: less flashing, better highlighting of what''s new]]'
-- '[[Changes/Cursor/2023-12-02-running-cmd-enter-on-followups-should-result-in-much-better-codebase-results|Running
-  Cmd+enter on followups should result in much better codebase results]]'
+- '[[Changes/Cursor/2023-12-02-running-cmd-enter-on-followups-should-result-in-much-better-codebase-results|Smarter
+  Followups]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-14-0-19-0-https-cursor-com-changelog-0-19-0-d991f76e|cursor-2023-12-14-0-19-0-https-cursor-com-changelog-0-19-0-d991f76e]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: We made Copilot++ faster, smarter, more constrained, and switched to a ghost-text…
+title: Copilot++ Improvements
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We made Copilot++ faster, smarter, more constrained, and switched to a ghost-text…
+# Copilot++ Improvements
 
 **Cursor** · 2023-12-14 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://cursor.com/changelog/0-19-0) · from [[Releases/Cursor/cursor-2023-12-14-0-19-0-https-cursor-com-changelog-0-19-0-d991f76e|Copilot++ Improvements]]
 <!-- chronolog:end -->
@@ -83,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-12-02 · Cursor · [[Changes/Cursor/2023-12-02-running-cmd-enter-on-followups-should-result-in-much-better-codebase-results|Running Cmd+enter on followups should result in much better codebase results]]
+- Earlier: 2023-12-02 · Cursor · [[Changes/Cursor/2023-12-02-running-cmd-enter-on-followups-should-result-in-much-better-codebase-results|Smarter Followups]]
 - Later: 2023-12-16 · Cursor · [[Changes/Cursor/2023-12-16-update-0-20-1-0-20-2-we-added-tldrs-to-make-it-easier-to-sort-through-the-bugs-f|UPDATE (0.20.1-0.20.2): We added TLDRs to make it easier to sort through the bugs…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

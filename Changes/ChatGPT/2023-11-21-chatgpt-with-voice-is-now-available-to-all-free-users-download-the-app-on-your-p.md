@@ -4,8 +4,8 @@ date: '2023-11-21'
 description: 'ChatGPT · 2023-11-21 · Voice and Audio: ChatGPT with voice is now available
   to all free users. Download the app on your phone and tap the headphones icon to…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use
-    voice to engage in a back-and-forth conversation with your assistant]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
+    are beginning to roll out new voice and image capabilities in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 57
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: b094c34e9943586e01569372269928b0f20cca3bb932d5ea197f7f6a44d44890
+kind: expansion
+machine_hash: 2489e0965ca01a8b0c3b5ac8e172e8cba03921b3e15cd7c49f18dd933993a88f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,32 +31,31 @@ record:
   - quote: ChatGPT with voice is now available to all free users. Download the app
       on your phone and tap the headphones icon to start a conversation.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: expansion
   product: chatgpt
   product_name: ChatGPT
   slug: chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p
   source_release: chatgpt-2023-11-21-chatgpt-with-voice-is-available-to-all-users-d2d904ca
   source_type: chatgpt_changelog
   theme: voice
-  title: ChatGPT with voice is now available to all free users
+  title: ChatGPT with voice is available to all users
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use
-  voice to engage in a back-and-forth conversation with your assistant]]'
 - '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
   are beginning to roll out new voice and image capabilities in ChatGPT]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-11-21-chatgpt-with-voice-is-available-to-all-users-d2d904ca|chatgpt-2023-11-21-chatgpt-with-voice-is-available-to-all-users-d2d904ca]]'
 source_type: chatgpt_changelog
 theme: voice
-title: ChatGPT with voice is now available to all free users
+title: ChatGPT with voice is available to all users
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT with voice is now available to all free users
+# ChatGPT with voice is available to all users
 
-**ChatGPT** · 2023-11-21 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-11-21-chatgpt-with-voice-is-available-to-all-users-d2d904ca|ChatGPT with voice is available to all users]]
+**ChatGPT** · 2023-11-21 · [[Themes/voice|Voice and Audio]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-11-21-chatgpt-with-voice-is-available-to-all-users-d2d904ca|ChatGPT with voice is available to all users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use voice to engage in a back-and-forth conversation with your assistant]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

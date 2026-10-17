@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: aadf0e3b3b5eed01bcec0344b876ce324a6b32a54b2d87bebc931b82667d4222
+machine_hash: d8873e3020d345342d6c54da35f82056fceb668337ed73238332b1958a075aa9
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   /claude-api cost-optimize to profile an existing project''s Claude API spend…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96|claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Added PreModelSwitch and PostModelSwitch hook events…
 type: change

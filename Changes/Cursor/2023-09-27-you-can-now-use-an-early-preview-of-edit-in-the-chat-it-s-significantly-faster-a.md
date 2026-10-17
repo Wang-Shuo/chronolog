@@ -4,8 +4,8 @@ date: '2023-09-27'
 description: 'Cursor · 2023-09-27 · Editor Experience: You can now use an early preview
   of /edit in the chat! It''s significantly faster at editing entire files than just…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 197
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 726303c62b73bb178a6f4ea88084d3cebd2d56905c575f73c2ef6ca2de7f6988
+kind: change
+machine_hash: df8d6bc7b4a2c33a38b21974529fda063186ea8a7d9e95b145d2fe8474293cba
 product: cursor
 product_name: Cursor
 record:
@@ -33,8 +34,9 @@ record:
       only supported if you do not use your own API key, since it relies on non-public
       models.
     source_release: https://cursor.com/changelog/0-11-15-nightly
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: you-can-now-use-an-early-preview-of-edit-in-the-chat-it-s-significantly-faster-a
@@ -55,24 +57,24 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
-  title: Use an early preview of /edit in the chat!
+  title: /edit in chat
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-09-05-cmd-k-will-no-longer-output-backticks-if-you-do-file|Cmd-K
   will no longer output backticks if you do @file]]'
-- '[[Changes/Cursor/2023-09-19-you-can-now-alternate-between-diffs-and-texts-responses-in-cmd-k-this-can-be-hel|Alternate
-  between diffs and texts responses in Cmd-K]]'
-- '[[Changes/Cursor/2023-09-21-hacky-first-version-of-cmd-k-in-the-terminal-let-us-know-what-you-think|Hacky
-  first version of cmd-K in the terminal!]]'
+- '[[Changes/Cursor/2023-09-19-you-can-now-alternate-between-diffs-and-texts-responses-in-cmd-k-this-can-be-hel|Inline
+  Chat]]'
+- '[[Changes/Cursor/2023-09-21-hacky-first-version-of-cmd-k-in-the-terminal-let-us-know-what-you-think|Cmd-K
+  in the terminal!]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-27-0-11-15-nightly-https-cursor-com-changelog-0-11-15-nightly-eb6f797e|cursor-2023-09-27-0-11-15-nightly-https-cursor-com-changelog-0-11-15-nightly-eb6f797e]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: Use an early preview of /edit in the chat!
+title: /edit in chat
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Use an early preview of /edit in the chat!
+# /edit in chat
 
 **Cursor** · 2023-09-27 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://cursor.com/changelog/0-11-15-nightly) · from [[Releases/Cursor/cursor-2023-09-27-0-11-15-nightly-https-cursor-com-changelog-0-11-15-nightly-eb6f797e|/edit in chat]]
 <!-- chronolog:end -->
@@ -90,14 +92,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-09-21 · Cursor · [[Changes/Cursor/2023-09-21-hacky-first-version-of-cmd-k-in-the-terminal-let-us-know-what-you-think|Hacky first version of cmd-K in the terminal!]]
-- Later: 2023-10-01 · Cursor · [[Changes/Cursor/2023-10-01-cmd-k-is-now-in-the-terminal-a-bit-hackily-implemented-but-surprisingly-useful|Cmd-k is now in the terminal!]]
+- Earlier: 2023-09-21 · Cursor · [[Changes/Cursor/2023-09-21-hacky-first-version-of-cmd-k-in-the-terminal-let-us-know-what-you-think|Cmd-K in the terminal!]]
+- Later: 2023-11-03 · Cursor · [[Changes/Cursor/2023-11-03-cmd-k-diffs-these-now-obey-word-wrap-you-can-also-copy-from-the-red-text|Cmd-K diffs: these now obey word-wrap!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

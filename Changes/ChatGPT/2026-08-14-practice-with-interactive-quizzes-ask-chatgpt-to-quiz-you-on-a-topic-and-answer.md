@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e84ab68065c5616221392802b791a39584f3751ae0faa91217c243b63b47c83d
+machine_hash: 7d9ef878b387ec71a9b935bb85f0c50b363bf0be0921696460e7802d37ee7008
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,6 +51,7 @@ related_changes:
   can now help you find available restaurant reservations with OpenTable…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: mobile-desktop
 title: Practice with interactive quizzes
 type: change

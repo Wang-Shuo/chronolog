@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d2157c18d4b5f4e8fc0d9362ba1454d4d38e432ea8aa102e731d81f2655f2520
+machine_hash: b49a9bd171de7cf856810aade72f7005bc18b83926d952021c88a2122874da2e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,6 +47,7 @@ related_changes:
   with tables and charts in a new expandable view]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572|chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: file-data
 title: Customize and download presentation-ready charts and documents
 type: change

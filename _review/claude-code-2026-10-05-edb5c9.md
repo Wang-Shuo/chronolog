@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: dd79fbd326fae9d7ac4bf30747e43d7899606ec16339f0bc0c34b606521a9bc1
+machine_hash: d7271f93bf4602c4129ae7e553eb240f288cd0ab4e0736a96c2264aab4409d9d
 product: claude-code
 record:
   card_id: claude-code-2026-10-05-edb5c9
@@ -14,8 +14,9 @@ record:
       tool calls the API ran itself (the advisor), each with its id, name, input,
       start and end'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.290
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-servertooluses-to-the-result-of-a-mod-s-turn-step-hook-the-tool-calls-the

@@ -14,9 +14,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 19efd2722c65aa661732c75be7b682afb0747e5dd775e9e308d2f640eb4b1661
+kind: change
+machine_hash: 76c0bf93034c88aa3960ec6d27f33b48c70621e1af6d49bd475f1e90e239198c
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Faster Cursor Tab Suggestions!
     source_release: https://cursor.com/changelog/0-39-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: faster-cursor-tab-suggestions
@@ -85,7 +87,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-07-23 · Cursor · [[Changes/Cursor/2024-07-23-copilot-now-has-chunked-streaming-currently-in-beta-it-will-surface-edits-faster|Copilot++ now has chunked streaming (currently in Beta)!]]
-- Later: 2024-09-17 · Cursor · [[Changes/Cursor/2024-09-17-apply-and-composer-are-slightly-faster-in-this-release|Apply and Composer are slightly faster in this release]]
+- Later: 2024-09-17 · Cursor · [[Changes/Cursor/2024-09-17-cursor-tab-now-auto-imports-symbols-in-python-files-we-ve-also-significantly-imp|Cursor Tab now auto-imports symbols in Python files!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

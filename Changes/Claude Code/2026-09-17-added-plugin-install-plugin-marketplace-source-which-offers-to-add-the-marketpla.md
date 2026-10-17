@@ -4,8 +4,8 @@ date: '2026-09-17'
 description: 'Claude Code · 2026-09-17 · Apps and Integrations: Added `/plugin install
   <plugin> --marketplace <source>`, which offers to add the marketplace before…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1274
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: c679f73244712a378ba899190e560156377a34c381704ca81b451b0818faf940
+kind: change
+machine_hash: 2f2311845476a21ccf8bd375c3f27880b7a2eb7952cbf59680b3ef721496b43e
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added `/plugin install <plugin> --marketplace <source>`, which offers to
       add the marketplace before installing the plugin
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.275
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-plugin-install-plugin-marketplace-source-which-offers-to-add-the-marketpla
@@ -41,12 +43,12 @@ record:
     add…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-15-added-a-notification-when-an-mcp-server-disconnects-mid-session-and-automatic-re|Added
-  a notification when an MCP server disconnects mid-session and automatic…]]'
-- '[[Changes/Claude Code/2026-09-17-added-store-connect-timeout-seconds-to-the-claude-apps-gateway-config-to-lengthe|Added
-  store.connect_timeout_seconds to the Claude apps gateway config to lengthen…]]'
-- '[[Changes/Claude Code/2026-09-17-added-claude-code-mcp-startup-wait-ms-to-bound-how-long-the-first-non-interactiv|Added
-  CLAUDE_CODE_MCP_STARTUP_WAIT_MS to bound how long the first non-interactive…]]'
+- '[[Changes/Claude Code/2026-09-15-3-apps-and-integrations-changes-in-v2-1-273|3
+  Apps and Integrations changes in v2.1.273]]'
+- '[[Changes/Claude Code/2026-09-17-10-apps-and-integrations-changes-in-v2-1-274|10
+  Apps and Integrations changes in v2.1.274]]'
+- '[[Changes/Claude Code/2026-09-17-6-apps-and-integrations-changes-in-v2-1-275|6
+  Apps and Integrations changes in v2.1.275]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd|claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd]]'
 source_type: github_releases
 theme: apps-integrations
@@ -69,22 +71,30 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-09-17-vscode-improved-the-agent-map-the-pill-counts-running-agents-and-turns-red-after|VSCode Improved the agent map]] · Agent Mode
+- [[Changes/Claude Code/2026-09-17-6-apps-and-integrations-changes-in-v2-1-275|6 Apps and Integrations changes in v2.1.275]] · Apps and Integrations
+- [[Changes/Claude Code/2026-09-17-10-editor-experience-changes-in-v2-1-275|10 Editor Experience changes in v2.1.275]] · Editor Experience
+- [[Changes/Claude Code/2026-09-17-vscode-added-viewing-editing-and-deleting-a-saved-memory-inside-the-memory-dialo|VSCode Added viewing, editing and deleting a saved memory inside the Memory dialog]] · Memory and Personalization
+- [[Changes/Claude Code/2026-09-17-7-safety-and-privacy-changes-in-v2-1-275|7 Safety and Privacy changes in v2.1.275]] · Safety and Privacy
+- [[Changes/Claude Code/2026-09-17-claude-tag-improved-claude-s-notices-in-enterprise-grid-channels-shared-across-w|Claude Tag Improved Claude's notices in Enterprise Grid channels shared across…]] · Enterprise and Administration
 - [[Changes/Claude Code/2026-09-17-added-a-send-now-key-ctrl-enter-or-ctrl-x-ctrl-s-that-interrupts-the-current-tur|Added a send-now key (ctrl+enter, or ctrl+x ctrl+s) that interrupts the current turn…]] · Model Support
+- [[Changes/Claude Code/2026-09-17-2-developer-workflow-changes-in-v2-1-275|2 Developer Workflow changes in v2.1.275]] · Developer Workflow
 - [[Changes/Claude Code/2026-09-17-added-the-signed-in-account-to-claude-apps-gateway-sign-in-when-the-gateway-name|Added the signed-in account to Claude apps gateway sign-in]] · Account and Access
-- [[Changes/Claude Code/2026-09-17-added-syncing-of-the-skills-and-plugins-enabled-on-your-claude-ai-account-to-ter|Added syncing of the skills and plugins enabled on your claude.ai account…]] · Developer Workflow
+- [[Changes/Claude Code/2026-09-17-improved-the-desktop-error-when-claude-desktop-does-not-open-it-now-says-why-and|Improved the /desktop error when Claude Desktop does not open]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-09-17-improved-the-artifact-tool-s-publish-and-read-results-they-now-say-who-can-open|Improved the Artifact tool's publish and read results]] · Interface Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-added-claude-code-mcp-startup-wait-ms-to-bound-how-long-the-first-non-interactiv|Added CLAUDE_CODE_MCP_STARTUP_WAIT_MS to bound how long the first non-interactive…]]
-- Later: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-added-claude-gateway-proxy-is-egress-boundary-1-for-claude-apps-gateways-whose-o|Added CLAUDE_GATEWAY_PROXY_IS_EGRESS_BOUNDARY=1 for Claude apps gateways whose…]]
+- Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-10-apps-and-integrations-changes-in-v2-1-274|10 Apps and Integrations changes in v2.1.274]]
+- Later: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-6-apps-and-integrations-changes-in-v2-1-277|6 Apps and Integrations changes in v2.1.277]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

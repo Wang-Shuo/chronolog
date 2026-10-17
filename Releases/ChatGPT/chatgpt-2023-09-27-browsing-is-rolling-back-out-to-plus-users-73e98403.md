@@ -3,7 +3,7 @@ changes_count: 2
 date: '2023-09-27'
 description: 'ChatGPT release Browsing is rolling back out to Plus users on 2023-09-27:
   2 tracked changes across Model Support, Search and Browsing'
-machine_hash: 5782352e6a644f6e6e26b46a14e9c89f0e01c9b7913b80e04fdba85a8a528c99
+machine_hash: 663ef2987cb7d660bbce59f365aa991ca2ee71edb03dcaca0e4c5e94eda873ff
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ version: Browsing is rolling back out to Plus users
 <!-- chronolog:begin region="summary" -->
 Browsing is rolling out to all Plus users. ChatGPT can now browse the internet to provide you with current and authoritative information, complete with direct links to sources. It is no longer limited to data before September 2021.To try it out, enable Browsing in your beta features setting.
 
-Tracked 2 of 5 candidate lines.
+Tracked 2 cards from 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

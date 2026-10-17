@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 841e7e2874000920ab7fd98231510296f4a4770d590a8f84edaa4bf3e144f871
+machine_hash: 35e45090af23c7baaf86a22b0c02761dbdd82a02aabc5392fb545b7116d15788
 product: cursor
 product_name: Cursor
 record:
@@ -59,6 +59,7 @@ related_changes:
   can now set more granular allow or blocklists at the model and provider level]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-06-3-3-https-cursor-com-changelog-05-06-26-2cf56c40|cursor-2026-05-06-3-3-https-cursor-com-changelog-05-06-26-2cf56c40]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: Use these stats to diagnose context issues and improve your setup across rules…
 type: change

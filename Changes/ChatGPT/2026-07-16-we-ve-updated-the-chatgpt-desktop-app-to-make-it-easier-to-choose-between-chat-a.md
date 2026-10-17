@@ -15,9 +15,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 98288e007b4b65f9a2165cd563cd388f82b06879be95ff62fd62cfb55f26ce24
+kind: change
+machine_hash: 4c25f3e8628b03e98e5b229449f62b1829ca5494c2b27fd4b670c966bc1e01ac
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,8 +34,9 @@ record:
       Chat and Work, find your conversations and Projects, and continue Work across
       devices. These updates are now live for all plans on macOS and Windows.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-ve-updated-the-chatgpt-desktop-app-to-make-it-easier-to-choose-between-chat-a
@@ -47,8 +49,8 @@ record:
 related_changes:
 - '[[Changes/ChatGPT/2026-07-09-beginning-july-9-users-on-web-ios-and-android-will-no-longer-be-able-to-create-n|Beginning
   July 9, users on web, iOS, and Android will no longer be able to create…]]'
-- '[[Changes/ChatGPT/2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327|We’ve
-  rolled out a new way to search your chats, projects, images, and documents…]]'
+- '[[Changes/ChatGPT/2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327|Search
+  across chats, projects, and files is now supercharged]]'
 - '[[Changes/ChatGPT/2026-07-16-a-clearer-desktop-layout-a-global-switcher-lets-you-choose-between-chatgpt-and-c|A
   clearer desktop layout: A global switcher lets you choose between ChatGPT and Codex]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad|chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad]]'
@@ -83,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-14 · ChatGPT · [[Changes/ChatGPT/2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327|We’ve rolled out a new way to search your chats, projects, images, and documents…]]
-- Later: 2026-07-23 · ChatGPT · [[Changes/ChatGPT/2026-07-23-available-on-web-and-ios-health-lets-you-view-lab-results-medications-activity-s|Available on web and iOS, Health lets you view lab results, medications, activity…]]
+- Earlier: 2026-07-14 · ChatGPT · [[Changes/ChatGPT/2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327|Search across chats, projects, and files is now supercharged]]
+- Later: 2026-07-29 · Cursor · [[Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and|A full review surface]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

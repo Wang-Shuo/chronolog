@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a44be925e41283ea5b95b8c44ad5b6a42385a82acc101f0343ed9663bbf2f8d8
+machine_hash: 27e2c338f8fff39e4cec79595abe9d2797df417309e2529b4c97d0e07e7083e5
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   agents in our new editor, with a sidebar for your agents and plans]]'
 source_release: '[[Releases/Cursor/cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490|cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490]]'
 source_type: cursor_changelog
+superseded: true
 theme: interface-experience
 title: You can also ⌘+F to search inside generated plans
 type: change

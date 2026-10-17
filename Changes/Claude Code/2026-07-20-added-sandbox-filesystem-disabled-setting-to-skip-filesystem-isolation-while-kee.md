@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2e76c086562e01d6a0ab54db5da944340238d2d756d61a1d55694375c7e8dbe4
+machine_hash: e90b8ae20502712f8904ccc5db5dda74d842f6f896eca894a0b09ed218db3b7b
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   telemetry misreporting permission denials]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae|claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Added sandbox.filesystem.disabled setting to skip filesystem isolation…
 type: change

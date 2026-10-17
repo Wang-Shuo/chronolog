@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5f4358136f7662c08a5dd4a79078d60f9f023cbdf8910fc62782745a0acca854
+machine_hash: a1684a3ab253e9f8206527ba3f345b20043658748cf60a07a336c214fe588b9e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,6 +51,7 @@ related_changes:
   can now include interactive panels, sidebar views, and viewers or editors…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3|chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: apps-integrations
 title: This is a limited preview with participating integrations
 type: change

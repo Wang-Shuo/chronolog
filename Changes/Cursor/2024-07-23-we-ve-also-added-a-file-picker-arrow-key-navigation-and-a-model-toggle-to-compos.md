@@ -15,9 +15,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 02edcea59cf2edf867304c01d885ceea096d0bd69483b3e8f5144b5084206914
+kind: change
+machine_hash: 589335ffae57d443baa3447f904d85b310877335feea213fb0cc7b248131ca2e
 product: cursor
 product_name: Cursor
 record:
@@ -33,8 +34,9 @@ record:
   - quote: We've also added a file picker, arrow key navigation, and a model toggle
       to Composer. This release also patches a few outstanding Composer bugs.
     source_release: https://cursor.com/changelog/0-38-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: we-ve-also-added-a-file-picker-arrow-key-navigation-and-a-model-toggle-to-compos

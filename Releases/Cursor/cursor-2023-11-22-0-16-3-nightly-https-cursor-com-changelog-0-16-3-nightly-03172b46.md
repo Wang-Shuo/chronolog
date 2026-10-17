@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-11-22'
 description: 'Cursor release Interpreter Mode Beta on 2023-11-22: 1 tracked change
   across Editor Experience'
-machine_hash: 9bac0c3cba9f4a88da31388f03606cf21609f83d809d7de34ec030b20bc8790f
+machine_hash: 2f671510a40985d47f317867a7c3f1ddb2ce0aba276a88176b0465966ed26a96
 product: cursor
 product_name: Cursor
 record:
@@ -41,7 +41,7 @@ version: 0.16.3-nightly
 <!-- chronolog:begin region="summary" -->
 Experimental feature: go to "More" > "Interpreter Mode" to enable it. Gives the model access to a Python notebook where it can take actions in the editor. Please give us feedback in the Discord! We'd love to know if you find it useful.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

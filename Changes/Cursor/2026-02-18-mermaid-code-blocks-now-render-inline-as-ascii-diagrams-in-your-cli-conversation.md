@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e895bbe22f375283cedbe23760d9ef44d123bc1ddfc51195684a599d5ad1e1e9
+machine_hash: 604a0d63213cdb944205a578622e16c595f4e5b5d01b63ce88c0aff645011e5d
 product: cursor
 product_name: Cursor
 record:
@@ -50,6 +50,7 @@ related_changes:
   heredoc delimiter parsing to prevent command smuggling]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7|cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7]]'
 source_type: cursor_changelog
+superseded: true
 theme: developer-workflow
 title: Mermaid code blocks now render inline as ASCII diagrams in your CLI conversation
 type: change

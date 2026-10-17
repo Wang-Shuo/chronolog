@@ -14,9 +14,10 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 4eda3ff4a40c337dc5d28748bd2207355f495753cc69d4eb2e39344b47c29292
+kind: change
+machine_hash: 3e1b79a07cc367add31538c106c767ffe0157e5a0293f252d277b773746f5d42
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: You can now search through past chats.
     source_release: https://cursor.com/changelog/0-25-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: you-can-now-search-through-past-chats
@@ -41,12 +43,12 @@ record:
   title: Search through past chats
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-21-can-see-recent-folders-on-the-new-window-screen|Can
-  see recent folders on the new window screen]]'
-- '[[Changes/Cursor/2023-09-07-ux-for-producing-a-project-end-to-end|UX for producing
-  a project end-to-end]]'
-- '[[Changes/Cursor/2023-09-07-it-still-struggles-with-coherently-producing-large-complex-projects-but-produces|It
-  still struggles with coherently producing large complex projects, but produces…]]'
+- '[[Changes/Cursor/2023-05-18-reintroduces-the-new-ai-project|Reintroduces the "New
+  AI Project"]]'
+- '[[Changes/Cursor/2023-07-21-can-see-recent-folders-on-the-new-window-screen|SSH
+  and WSL fixes]]'
+- '[[Changes/Cursor/2023-09-07-ux-for-producing-a-project-end-to-end-b8d638|UX for
+  producing a project end-to-end]]'
 source_release: '[[Releases/Cursor/cursor-2024-02-02-0-25-x-https-cursor-com-changelog-0-25-x-29976ab7|cursor-2024-02-02-0-25-x-https-cursor-com-changelog-0-25-x-29976ab7]]'
 source_type: cursor_changelog
 theme: projects-workspaces
@@ -77,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2023-09-07 · Cursor · [[Changes/Cursor/2023-09-07-it-still-struggles-with-coherently-producing-large-complex-projects-but-produces|It still struggles with coherently producing large complex projects, but produces…]]
+- Earlier: 2023-09-07 · Cursor · [[Changes/Cursor/2023-09-07-ux-for-producing-a-project-end-to-end-b8d638|UX for producing a project end-to-end]]
 - Later: 2024-09-17 · Cursor · [[Changes/Cursor/2024-09-17-composer-notepads-previously-called-projects-can-now-include-tagged-files-and-be|Composer Notepads (previously called Projects) can now include tagged files…]]
 <!-- chronolog:end -->
 

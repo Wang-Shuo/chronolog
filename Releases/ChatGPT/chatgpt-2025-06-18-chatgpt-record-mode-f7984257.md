@@ -3,7 +3,7 @@ changes_count: 2
 date: '2025-06-18'
 description: 'ChatGPT release ChatGPT record mode on 2025-06-18: 2 tracked changes
   across Voice and Audio'
-machine_hash: e98d0c7452ee77b1275a1445b7607d0010e6e93a9b08e5ae855aa91ce190ff1f
+machine_hash: 4e58eb49d682dbe3f09b93d218eddf85a694bd2869a6f0d142300b0d42b1878d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +40,7 @@ version: ChatGPT record mode
 <!-- chronolog:begin region="summary" -->
 Capture meetings, brainstorms, or voice notes. Launching today for Pro, Enterprise, and Edu users. Previously launched for Team users on June 4, 2025.
 
-Tracked 2 of 4 candidate lines.
+Tracked 2 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

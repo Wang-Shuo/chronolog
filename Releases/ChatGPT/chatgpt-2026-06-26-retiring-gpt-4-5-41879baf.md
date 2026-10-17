@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-06-26'
 description: 'ChatGPT release Retiring GPT-4.5 on 2026-06-26: 1 tracked change across
   Model Support'
-machine_hash: 335db20faa4d9582e4d1f4501601c8c4173628fd674eac99123df5965103914a
+machine_hash: ec1e6409bc412914a518eb2ed09e58519cf99b4f1caf702f424ee9c09ce860ba
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Retiring GPT-4.5
 <!-- chronolog:begin region="summary" -->
 As of June 26, 2026, GPT-4.5 is no longer available in ChatGPT, including for custom GPTs. Existing conversations that used GPT-4.5 can continue with GPT-5.5.This retirement was previously announced on May 28, 2026. It applies to ChatGPT only; there are no changes to the API.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-06-26-as-of-june-26-2026-gpt-4-5-is-no-longer-available-in-chatgpt-including-for-custo|As of June 26, 2026, GPT-4.5 is no longer available in ChatGPT, including for custom GPTs]] · Model Support
+- [[Changes/ChatGPT/2026-06-26-as-of-june-26-2026-gpt-4-5-is-no-longer-available-in-chatgpt-including-for-custo|Retiring GPT-4.5]] · Model Support · Policy
 <!-- chronolog:end -->

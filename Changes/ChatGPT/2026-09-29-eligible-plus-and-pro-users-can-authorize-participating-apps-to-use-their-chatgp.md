@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: e323e29579338c7f2652a4812777f0e65d2916697a5c5a93e521bd9d08489f54
+machine_hash: 88bc0aa4c584e89ea579f8ff20632b540126131d5a350c6608bc9a560f5310e3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -67,6 +67,7 @@ related_changes:
   Sol improves on GPT-6 Sol in agentic coding, computer use, and professional work]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3|chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: Eligible Plus and Pro users can authorize participating apps to use their ChatGPT…
 type: change

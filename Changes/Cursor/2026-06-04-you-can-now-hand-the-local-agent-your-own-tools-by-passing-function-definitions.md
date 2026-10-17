@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: c7531feda5455345459700418d08eb92f29b75e0aba44110dd2b386d00a543a9
+machine_hash: 8823a323ed813952af2964165c7ab81a22cdcab84e4d1b96fb15300093a3eb12
 product: cursor
 product_name: Cursor
 record:
@@ -72,6 +72,7 @@ related_changes:
   Mode is now available to all logged-in users across account types and workspaces]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856|cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856]]'
 source_type: cursor_changelog
+superseded: true
 theme: safety-privacy
 title: Hand the local agent your own tools by passing function definitions through…
 type: change

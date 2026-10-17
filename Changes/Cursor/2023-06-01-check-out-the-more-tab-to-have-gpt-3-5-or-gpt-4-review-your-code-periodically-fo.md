@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 91ac85649e0bb9b3d212064decffff9812bac5a6ad76182df3308377aa5a0c70
+kind: change
+machine_hash: b614584931377c97fe9b7239c68a41bcbbd31970c126d2d3746850d740f1573f
 product: cursor
 product_name: Cursor
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Check out the "more" tab to have GPT-3.5 or GPT-4 review your code periodically
       for any problems.
     source_release: https://cursor.com/changelog/0-2-23
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: check-out-the-more-tab-to-have-gpt-3-5-or-gpt-4-review-your-code-periodically-fo
@@ -47,24 +49,23 @@ record:
     score: 50
     theme: editor-experience
   theme_resolution: manual-semantic-rule-v2
-  title: Check out the "more" tab to have GPT-3.5 or GPT-4 review your code periodically…
+  title: AI Linting
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-05-03-we-are-deprecating-the-legacy-gpt-3-5-model-on-may-10th-users-will-be-able-to-co|We
   are deprecating the Legacy (GPT-3.5) model on May 10th]]'
-- '[[Changes/Cursor/2023-05-20-switching-between-models-is-a-lot-more-easy-and-the-transition-to-gpt-4-is-a-lot|Switching
-  between models is a lot more easy, and the transition to gpt-4 is a lot smoother]]'
-- '[[Changes/Cursor/2023-05-20-all-users-get-10-free-gpt-4-requests|All users get
-  10 free gpt-4 requests !!!]]'
+- '[[Changes/Cursor/2023-05-04-gpt-4-support-now-available-for-project-generation|GPT-4
+  support now available for project generation]]'
+- '[[Changes/Cursor/2023-05-20-upgrades-to-gpt-4-e59675|Upgrades to GPT-4]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-01-0-2-23-https-cursor-com-changelog-0-2-23-23c82096|cursor-2023-06-01-0-2-23-https-cursor-com-changelog-0-2-23-23c82096]]'
 source_type: cursor_changelog
 theme: model-support
-title: Check out the "more" tab to have GPT-3.5 or GPT-4 review your code periodically…
+title: AI Linting
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Check out the "more" tab to have GPT-3.5 or GPT-4 review your code periodically…
+# AI Linting
 
 **Cursor** · 2023-06-01 · [[Themes/model-support|Model Support]] · [Official source](https://cursor.com/changelog/0-2-23) · from [[Releases/Cursor/cursor-2023-06-01-0-2-23-https-cursor-com-changelog-0-2-23-23c82096|AI Linting (2023-06-01)]]
 <!-- chronolog:end -->
@@ -82,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-05-20 · Cursor · [[Changes/Cursor/2023-05-20-all-users-get-10-free-gpt-4-requests|All users get 10 free gpt-4 requests !!!]]
+- Earlier: 2023-05-20 · Cursor · [[Changes/Cursor/2023-05-20-upgrades-to-gpt-4-e59675|Upgrades to GPT-4]]
 - Later: 2023-06-22 · ChatGPT · [[Changes/ChatGPT/2023-06-22-browsing-plus-users-can-now-use-browsing-to-get-comprehensive-answers-and-curren|Browsing: Plus users can now use Browsing to get comprehensive answers and current…]]
 <!-- chronolog:end -->
 

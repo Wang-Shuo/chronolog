@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: a754c3871d921a0ff148b3a7b96340632cc9a21e168fd0be4def8532c4974e76
+machine_hash: 443094fbc7ab2a56e2154e9607a35cef47261870cc058d01902a9acfa16d6e73
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,6 +62,7 @@ related_changes:
   TaskCreated hook that fires when a task is created via TaskCreate]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-89-github-303967782-358023f0|claude-code-2026-04-01-v2-1-89-github-303967782-358023f0]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added PermissionDenied hook that fires after auto mode classifier denials
 type: change

@@ -14,9 +14,10 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 3a041a7c17c48829d87e92296188343fc1e97ae8664db68c8d4cf2b8f99b4e54
+kind: pricing
+machine_hash: c1e6d3ec00895b2a2f886e86db8105b8ed649ffc6eb1dc9e26213c69f0d3838b
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Added a per-session prompt-cache line to `/cost` (hit ratio, misses, tokens
       re-cached, warm/cold) and a matching `prompt_cache` object for status line scripts
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.251
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: pricing
   product: claude-code
   product_name: Claude Code
   slug: added-a-per-session-prompt-cache-line-to-cost-hit-ratio-misses-tokens-re-cached
@@ -51,12 +53,12 @@ record:
   title: Added a per-session prompt-cache line to `/cost`…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-28-we-re-introducing-cursor-start-a-new-649-monthly-plan-for-developers-in-india-ma|Cursor
-  introduces Cursor Start, a new ₹649 monthly plan for developers in India…]]'
-- '[[Changes/Cursor/2026-07-28-start-bills-monthly-with-auto-renewal-and-is-available-from-july-28-2026|Start
-  bills monthly with auto-renewal and is available from July 28, 2026]]'
-- '[[Changes/ChatGPT/2026-07-29-research-rarely-happens-alone-chatgpt-for-academic-researchers-gives-faculty-and|Research
-  rarely happens alone]]'
+- '[[Changes/Claude Code/2026-08-19-usage-now-shows-the-usage-credits-spend-row-for-team-and-enterprise-members-and|/usage
+  now shows the usage-credits spend row for Team and Enterprise members…]]'
+- '[[Changes/Claude Code/2026-08-21-persistent-retry-mode-claude-code-retry-watchdog-now-fails-immediately-on-organi|Persistent
+  retry mode (CLAUDE_CODE_RETRY_WATCHDOG) now fails immediately…]]'
+- '[[Changes/Claude Code/2026-08-27-added-usage-credits-for-enterprise-organizations-billed-through-aws-marketplace|Added
+  /usage-credits for Enterprise organizations billed through AWS Marketplace…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96|claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96]]'
 source_type: github_releases
 theme: pricing-model
@@ -67,7 +69,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Added a per-session prompt-cache line to `/cost`…
 
-**Claude Code** · 2026-08-28 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.251) · from [[Releases/Claude Code/claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96|v2.1.251]]
+**Claude Code** · 2026-08-28 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.251) · from [[Releases/Claude Code/claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96|v2.1.251]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -79,16 +81,21 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-08-28-added-premodelswitch-and-postmodelswitch-hook-events-block-confirm-or-annotate-a|Added PreModelSwitch and PostModelSwitch hook events…]] · Model Support
-- [[Changes/Claude Code/2026-08-28-added-attach-logs-stop-respawn-and-rm-to-claude-help-the-resume-message-for-a-ru|Added attach, logs, stop, respawn, and rm to claude --help]] · Developer Workflow
-- [[Changes/Claude Code/2026-08-28-added-live-streaming-of-a-foreground-subagent-s-tool-calls-and-results-to-remote|Added live streaming of a foreground subagent's tool calls and results to Remote…]] · Agent Mode
+- [[Changes/Claude Code/2026-08-28-changed-analytics-to-no-longer-turn-off-before-sign-in-solely-because-managed-se|Changed analytics to no longer turn off before sign-in solely because managed…]] · Account and Access
+- [[Changes/Claude Code/2026-08-28-4-model-support-changes-in-v2-1-251|4 Model Support changes in v2.1.251]] · Model Support
+- [[Changes/Claude Code/2026-08-28-4-apps-and-integrations-changes-in-v2-1-251|4 Apps and Integrations changes in v2.1.251]] · Apps and Integrations
+- [[Changes/Claude Code/2026-08-28-3-developer-workflow-changes-in-v2-1-251|3 Developer Workflow changes in v2.1.251]] · Developer Workflow
+- [[Changes/Claude Code/2026-08-28-improved-retry-when-the-model-s-tool-call-is-malformed-the-broken-output-is-now|Improved retry when the model's tool call is malformed]] · Context Window
+- [[Changes/Claude Code/2026-08-28-4-agent-mode-changes-in-v2-1-251|4 Agent Mode changes in v2.1.251]] · Agent Mode
+- [[Changes/Claude Code/2026-08-28-improved-amazon-bedrock-session-start-under-claude-code-provider-managed-by-host|Improved Amazon Bedrock session start under CLAUDE_CODE_PROVIDER_MANAGED_BY_HOST…]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-08-28-6-safety-and-privacy-changes-in-v2-1-251|6 Safety and Privacy changes in v2.1.251]] · Safety and Privacy
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-07-29 · ChatGPT · [[Changes/ChatGPT/2026-07-29-research-rarely-happens-alone-chatgpt-for-academic-researchers-gives-faculty-and|Research rarely happens alone]]
-- Later: 2026-09-09 · ChatGPT · [[Changes/ChatGPT/2026-09-09-pro-100-month-up-to-15-hours-with-gpt-live-1|Pro ($100/month): Up to 15 hours with GPT-Live-1]]
+- Earlier: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-added-usage-credits-for-enterprise-organizations-billed-through-aws-marketplace|Added /usage-credits for Enterprise organizations billed through AWS Marketplace…]]
+- Later: 2026-09-09 · ChatGPT · [[Changes/ChatGPT/2026-09-09-pro-200-month-unlimited-gpt-live-1-usage|Pro ($200/month): Unlimited GPT-Live-1 usage]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

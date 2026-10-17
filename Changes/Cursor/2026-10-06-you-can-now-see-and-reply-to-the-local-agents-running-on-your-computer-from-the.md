@@ -14,9 +14,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: beb964f49c6810070beee04ecd206c987b0156986df4be3b4e6dd2a21c5a6afb
+kind: change
+machine_hash: 81a978e695ac12b0d6b3c4d183bf9b903ed1c58cc64582d6a5f8f55276456bd4
 product: cursor
 product_name: Cursor
 record:
@@ -29,8 +30,9 @@ record:
   - quote: You can now see and reply to the local agents running on your computer
       from the Cursor iOS app.
     source_release: https://cursor.com/changelog/remote-control-local-agents
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: you-can-now-see-and-reply-to-the-local-agents-running-on-your-computer-from-the
@@ -51,12 +53,12 @@ record:
     iOS app
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-01-available-in-chatgpt-on-mobile-and-web|Available in
-  ChatGPT on mobile and web]]'
+- '[[Changes/Claude Code/2026-10-01-2-mobile-and-desktop-changes-in-v2-1-287|2 Mobile
+  and Desktop changes in v2.1.287]]'
 - '[[Changes/ChatGPT/2026-10-02-finances-in-chatgpt-is-rolling-out-to-free-and-go-users-in-the-u-s-on-web-ios-an|Finances
-  in ChatGPT is rolling out to Free and Go users in the U.S. on web, iOS…]]'
-- '[[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer|To
-  stop your computer from sleeping while you''re away, turn…]]'
+  expands to Free and Go users]]'
+- '[[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer|Keep
+  your computer awake]]'
 source_release: '[[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd]]'
 source_type: cursor_changelog
 theme: mobile-desktop
@@ -80,17 +82,17 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer|To stop your computer from sleeping while you're away, turn…]] · Mobile and Desktop
-- [[Changes/Cursor/2026-10-06-remote-control-is-on-by-default-except-for-enterprise-organizations-enterprise-a|Remote control is on by default, except for Enterprise organizations]] · Enterprise and Administration
+- [[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer|Keep your computer awake]] · Mobile and Desktop
 - [[Changes/Cursor/2026-10-06-remote-control-is-on-by-default-for-everyone-except-enterprise-organizations|Remote Control is on by default for everyone except Enterprise organizations]] · Enterprise and Administration
-- [[Changes/Cursor/2026-10-06-remote-control-doesn-t-move-your-agents-anywhere-it-keeps-running-on-your-comput|Remote control doesn't move your agents anywhere]] · Agent Mode
+- [[Changes/Cursor/2026-10-06-remote-control-doesn-t-move-your-agents-anywhere-it-keeps-running-on-your-comput|Agents keep running on your computer]] · Agent Mode
+- [[Changes/Cursor/2026-10-06-for-enterprise-teams|For Enterprise teams]] · Enterprise and Administration
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-02 · ChatGPT · [[Changes/ChatGPT/2026-10-02-finances-in-chatgpt-is-rolling-out-to-free-and-go-users-in-the-u-s-on-web-ios-an|Finances in ChatGPT is rolling out to Free and Go users in the U.S. on web, iOS…]]
-- Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-added-a-code-key-to-the-claude-apps-gateway-s-managed-policies-the-same-settings|Added a code key to the Claude apps gateway's managed.policies]]
+- Earlier: 2026-10-02 · ChatGPT · [[Changes/ChatGPT/2026-10-02-finances-in-chatgpt-is-rolling-out-to-free-and-go-users-in-the-u-s-on-web-ios-an|Finances expands to Free and Go users]]
+- Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-2-mobile-and-desktop-changes-in-v2-1-295|2 Mobile and Desktop changes in v2.1.295]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

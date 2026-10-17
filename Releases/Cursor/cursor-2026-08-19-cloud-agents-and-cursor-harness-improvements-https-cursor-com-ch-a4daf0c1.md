@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 6
 date: '2026-08-19'
 description: 'Cursor release Cloud Agents and Cursor Harness Improvements on 2026-08-19:
-  5 tracked changes across Agent Mode, Apps and Integrations'
-machine_hash: 9f69bd69638b01ffbf7261e43105e37cf2e6762b14c9653d35d43956bdc4a3de
+  6 tracked changes across Agent Mode'
+machine_hash: 26d197c8b4ce86b2081505cc4fea7980d2d0e5fcf3644170d2dc80fe32845498
 product: cursor
 product_name: Cursor
 record:
@@ -40,14 +40,15 @@ version: Cloud Agents and Cursor Harness Improvements
 <!-- chronolog:begin region="summary" -->
 We're continuing to improve cloud agents and the Cursor harness so always-on agents can operate as a system, building and shipping software on their own without the need for intervention at each loop.
 
-Tracked 5 of 12 candidate lines.
+Tracked 6 cards from 12 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-08-19-with-this-release-cloud-agents-can-automatically-pick-up-work-in-response-to-eve|With this release, cloud agents can automatically pick up work in response…]] · Agent Mode
-- [[Changes/Cursor/2026-08-19-use-any-skill-as-a-custom-mode-a-skill-that-stays-pinned-in-the-chat-custom-mode|Use any skill as a Custom Mode: a skill that stays pinned in the chat]] · Agent Mode
-- [[Changes/Cursor/2026-08-19-cloud-agents-automatically-subscribe-to-prs-they-create-and-drive-them-to-comple|Cloud agents automatically subscribe to PRs they create and drive them…]] · Apps and Integrations
-- [[Changes/Cursor/2026-08-19-cursor-can-now-monitor-your-prs-watch-a-slack-thread-or-run-scheduled-tasks-curs|Cursor can now monitor your PRs, watch a Slack thread, or run scheduled tasks]] · Agent Mode
-- [[Changes/Cursor/2026-08-19-we-re-continuing-to-improve-cloud-agents-and-the-cursor-harness-so-always-on-age|We're continuing to improve cloud agents and the Cursor harness so always-on agents…]] · Agent Mode
+- [[Changes/Cursor/2026-08-19-custom-modes|Custom modes]] · Agent Mode · Launch
+- [[Changes/Cursor/2026-08-19-we-re-continuing-to-improve-cloud-agents-and-the-cursor-harness-so-always-on-age-1d1294|We're continuing to improve cloud agents and the Cursor harness so always-on agents…]] · Agent Mode
+- [[Changes/Cursor/2026-08-19-subscriptions|Subscriptions]] · Agent Mode · Launch
+- [[Changes/Cursor/2026-08-19-steering-improvements|Steering improvements]] · Agent Mode · Launch
+- [[Changes/Cursor/2026-08-19-subagents-on-their-own-machines|Subagents on their own machines]] · Agent Mode · Launch
+- [[Changes/Cursor/2026-08-19-goal|/goal]] · Agent Mode · Launch
 <!-- chronolog:end -->

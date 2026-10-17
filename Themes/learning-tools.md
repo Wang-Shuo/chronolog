@@ -3,7 +3,7 @@ created: '2025-07-29'
 date: '2026-04-01'
 description: Cross-product timeline of Learning Tools changes in ChatGPT and Claude
   Code.
-machine_hash: 430b496123229bddc920a3e8b66adc9267a2745b7375cf00e2b7ac35ec94833d
+machine_hash: 70851f45e2b1fa3b8bb0fbd5e9b9f6940801e941999547231b502a13a3d84d17
 modified: '2026-04-01'
 products_involved:
 - ChatGPT
@@ -33,7 +33,7 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 ### 2026
 
 - 2026-04-01 · Claude Code: [[Changes/Claude Code/2026-04-01-added-powerup-interactive-lessons-teaching-claude-code-features-with-animated-de|Added /powerup — interactive lessons teaching Claude Code features with animated demos]]
-- 2026-03-10 · ChatGPT: [[Changes/ChatGPT/2026-03-10-when-you-ask-chatgpt-about-certain-topics-it-can-now-present-an-interactive-visu|When you ask ChatGPT about certain topics, it can now present an interactive visual…]]
+- 2026-03-10 · ChatGPT: [[Changes/ChatGPT/2026-03-10-when-you-ask-chatgpt-about-certain-topics-it-can-now-present-an-interactive-visu|Interactive learning for math and science]]
 
 ### 2025
 

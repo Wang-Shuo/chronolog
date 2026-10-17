@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 3
 date: '2024-12-12'
 description: 'ChatGPT release Santa Voice and Video and Screen Share in Voice Chats
-  on 2024-12-12: 5 tracked changes across Voice and Audio, Multimodal Input'
-machine_hash: d7826ec442896bbebc52a989f28c08565a65dd79a521b1601f107de05da586b4
+  on 2024-12-12: 3 tracked changes across Voice and Audio, Multimodal Input'
+machine_hash: 3291bbb63ea8d0e83c00d3b615bea3ec68a4411e7aafb9dac303ff9dcbd7c605
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,14 +38,12 @@ version: Santa Voice and Video and Screen Share in Voice Chats
 <!-- chronolog:begin region="summary" -->
 Today we started rolling out two updates to voice mode in ChatGPT:
 
-Tracked 5 of 5 candidate lines.
+Tracked 3 cards from 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - [[Changes/ChatGPT/2024-12-12-video-and-screenshare-in-our-latest-mobile-apps-we-are-starting-to-roll-out-real|Video and screenshare]] · Voice and Audio
 - [[Changes/ChatGPT/2024-12-12-use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get|Use the controls at the bottom of the screen, like the camera button below, to get started]] · Multimodal Input
-- [[Changes/ChatGPT/2024-12-12-today-we-started-rolling-out-two-updates-to-voice-mode-in-chatgpt|Today we started rolling out two updates to voice mode in ChatGPT]] · Voice and Audio
-- [[Changes/ChatGPT/2024-12-12-santa-voice-you-can-now-chat-with-santa-in-chatgpt-until-early-january-you-can-f|Santa voice: You can now chat with Santa in ChatGPT!]] · Voice and Audio
-- [[Changes/ChatGPT/2024-12-12-the-first-time-you-chat-with-santa-your-advanced-voice-limit-will-reset-one-time|The first time you chat with Santa, your advanced voice limit will reset one time]] · Voice and Audio
+- [[Changes/ChatGPT/2024-12-12-today-we-started-rolling-out-two-updates-to-voice-mode-in-chatgpt-8ade79|Today we started rolling out two updates to voice mode in ChatGPT]] · Voice and Audio
 <!-- chronolog:end -->

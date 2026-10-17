@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 38fc50b6de959b6e61026f503a10ca52d3135c8e32fa02bf1584d2d247765137
+kind: change
+machine_hash: 44078b08870708cf76ec76f25503803a1b6fa0e51f20e55dc18654f5120ff5f1
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
   - quote: Added `effort` frontmatter support for skills and slash commands to override
       the model effort level when invoked
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.80
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-effort-frontmatter-support-for-skills-and-slash-commands-to-override-the-m
@@ -46,8 +48,8 @@ related_changes:
   – deeper reasoning for more complex tasks]]'
 - '[[Changes/Claude Code/2026-03-17-increased-default-maximum-output-token-limits-for-claude-opus-4-6-to-64k-tokens|Increased
   default maximum output token limits for Claude Opus 4.6 to 64k tokens…]]'
-- '[[Changes/ChatGPT/2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and|ChatGPT
-  rolls out GPT-5.4 mini]]'
+- '[[Changes/ChatGPT/2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and|GPT-5.4
+  mini in ChatGPT]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a|claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a]]'
 source_type: github_releases
 theme: model-support
@@ -70,17 +72,17 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-03-19-added-source-settings-plugin-marketplace-source-declare-plugin-entries-inline-in|Added source: 'settings' plugin marketplace source]] · Apps and Integrations
-- [[Changes/Claude Code/2026-03-19-added-channels-research-preview-allow-mcp-servers-to-push-messages-into-your-ses|Added --channels (research preview)]] · Apps and Integrations
-- [[Changes/Claude Code/2026-03-19-added-rate-limits-field-to-statusline-scripts-for-displaying-claude-ai-rate-limi|Added rate_limits field to statusline scripts for displaying Claude.ai rate limit…]] · Interface Experience
-- [[Changes/Claude Code/2026-03-19-added-cli-tool-usage-detection-to-plugin-tips-in-addition-to-file-pattern-matchi|Added CLI tool usage detection to plugin tips, in addition to file pattern matching]] · Apps and Integrations
+- [[Changes/Claude Code/2026-03-19-4-apps-and-integrations-changes-in-v2-1-80|4 Apps and Integrations changes in v2.1.80]] · Apps and Integrations
+- [[Changes/Claude Code/2026-03-19-improved-permissions-tab-and-arrow-keys-now-switch-tabs-from-within-a-list|Improved /permissions — Tab and arrow keys now switch tabs from within a list]] · Editor Experience
+- [[Changes/Claude Code/2026-03-19-reduced-memory-usage-on-startup-in-large-repositories-80-mb-saved-on-250k-file-r|Reduced memory usage on startup in large repositories (~80 MB saved on 250k-file repos)]] · Reliability and Performance
+- [[Changes/Claude Code/2026-03-19-2-interface-experience-changes-in-v2-1-80|2 Interface Experience changes in v2.1.80]] · Interface Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-18 · ChatGPT · [[Changes/ChatGPT/2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and|ChatGPT rolls out GPT-5.4 mini]]
-- Later: 2026-03-25 · Cursor · [[Changes/Cursor/2026-03-25-self-hosted-cloud-agents-offer-the-same-capabilities-as-cursor-hosted-cloud-agen|Self-hosted cloud agents offer the same capabilities as Cursor-hosted cloud agents…]]
+- Earlier: 2026-03-18 · ChatGPT · [[Changes/ChatGPT/2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and|GPT-5.4 mini in ChatGPT]]
+- Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-added-anthropic-default-opus-sonnet-haiku-model-supports-env-vars-to-override-ef|Added ANTHROPIC_DEFAULT{OPUS,SONNET,HAIKU}MODEL_SUPPORTS env vars to override…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

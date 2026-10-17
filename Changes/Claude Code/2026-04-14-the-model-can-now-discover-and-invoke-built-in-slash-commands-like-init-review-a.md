@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 531511aa8c2bdc5df387ac608bc0d2063b666897ec69583d618e6854a32a6408
+machine_hash: ef19f7e98efb65189fce69e75078a30e227fa0395a0c528f5685331f5442dfa6
 product: claude-code
 product_name: Claude Code
 record:
@@ -60,6 +60,7 @@ related_changes:
   subprocess sandboxing with PID namespace isolation on Linux…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-14-v2-1-108-github-309009167-35123bd5|claude-code-2026-04-14-v2-1-108-github-309009167-35123bd5]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: The model can now discover and invoke built-in slash commands like /init…
 type: change

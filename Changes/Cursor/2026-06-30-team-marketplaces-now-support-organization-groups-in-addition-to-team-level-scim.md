@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: f176dc212b275ab397e1dfd05f46298ae9795c94232fd8f80cace8005839a2e7
+machine_hash: 8cff1b08de8dbc7fec6e303b3c62c765249fab8e0b0baa4c31108aa75a7637b9
 product: cursor
 product_name: Cursor
 record:
@@ -51,6 +51,7 @@ related_changes:
   Dashboard - Plugins & MCPs - Team Marketplaces, restrict marketplace access…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-30-3-10-https-cursor-com-changelog-team-marketplace-updates-eb3caab2|cursor-2026-06-30-3-10-https-cursor-com-changelog-team-marketplace-updates-eb3caab2]]'
 source_type: cursor_changelog
+superseded: true
 theme: collaboration
 title: Team marketplaces now support organization groups, in addition to team-level
   SCIM…

@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a2403da43b3521cda5ef21e5b0422ea93dd7a520f7811acbd1316db743be037a
+machine_hash: af830de73b16560e228fddfddb55e7115e818128984e87fd15420645964d8947
 product: cursor
 product_name: Cursor
 record:
@@ -48,6 +48,7 @@ related_changes:
   UX: Suggestion previews now have syntax highlighting, which we find makes…]]'
 source_release: '[[Releases/Cursor/cursor-2024-05-26-0-34-x-https-cursor-com-changelog-0-34-x-a468f0bc|cursor-2024-05-26-0-34-x-https-cursor-com-changelog-0-34-x-a468f0bc]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: Merges VS Code 1.89 into Cursor
 type: change

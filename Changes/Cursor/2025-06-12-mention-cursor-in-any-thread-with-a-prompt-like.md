@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e229aa43df64fd0f9700f28413d42b570c2fa04445f96a9b48d7175d0a6b31c3
+machine_hash: 747e468f520934893fd49b3fd42e2a8feea744be46ae2ce1270df5917386ecde
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   reads the entire Slack thread before starting, so Background Agents…]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc|cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: Mention @Cursor in any thread with a prompt like
 type: change

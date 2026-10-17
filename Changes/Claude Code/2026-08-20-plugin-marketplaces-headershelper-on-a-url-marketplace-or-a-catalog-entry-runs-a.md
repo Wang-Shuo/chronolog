@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b1c89687cdf35bb960c14249944b5ebfde7ff9e98ff1e2976687d782653a09d4
+machine_hash: e50aaaa1e63030e7401237ba0b4370340cb4f8cc8d973540902e528b1bbf10fc
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   catalog entry''s headersHelper runs only when you install or update that plugin…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2|claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: 'Plugin marketplaces: headersHelper on a url marketplace or a catalog entry
   runs…'

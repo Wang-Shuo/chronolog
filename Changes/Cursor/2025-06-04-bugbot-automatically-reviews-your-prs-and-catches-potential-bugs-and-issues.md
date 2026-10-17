@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8516ac9a891384020c05072160b5aeb36733d0b068b5386a35aa828df862bcdd
+machine_hash: b6f00dbecd28e6ada70e072921c74d37d96a56fb46827217c966abc07d50db0c
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   Fixed newline errors in Chat Codeblocks and resolved auto-uninstallation issues]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
 source_type: cursor_changelog
+superseded: true
 theme: developer-workflow
 title: Bugbot automatically reviews your PRs and catches potential bugs and issues
 type: change

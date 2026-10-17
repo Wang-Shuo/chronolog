@@ -14,9 +14,10 @@ diffusion:
   theme: accessibility-localization
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f16d7af517522c85071c424f32a0cf13597a480a5cb80ca2d9728bef140fd502
+kind: change
+machine_hash: 0da56b4da081f9f1776df3c5087184c3d2be27ffdb5ec7f653f10c1c6bf3e655
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
       users. Run `claude --ax-screen-reader`, set CLAUDE_AX_SCREEN_READER=1, or add
       "axScreenReader": true to settings.'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.208
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-screen-reader-mode-opt-in-plain-text-rendering-for-screen-reader-users-run
@@ -71,10 +73,13 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-07-14-3-apps-and-integrations-changes-in-v2-1-208|3 Apps and Integrations changes in v2.1.208]] · Apps and Integrations
+- [[Changes/Claude Code/2026-07-14-agent-view-ctrl-x-now-deletes-renamed-branch-worktrees-never-destroys-unpushed-c|Agent view: Ctrl+X now deletes renamed-branch worktrees, never destroys unpushed…]] · Developer Workflow
 - [[Changes/Claude Code/2026-07-14-added-mouse-click-support-for-multi-select-menus-and-other-input-rows-in-fullscr|Added mouse-click support for multi-select menus and "Other" input rows in fullscreen mode]] · Interface Experience
-- [[Changes/Claude Code/2026-07-14-added-viminsertmoderemaps-setting-map-two-key-insert-mode-sequences-like-jj-to-e|Added vimInsertModeRemaps setting]] · Editor Experience
+- [[Changes/Claude Code/2026-07-14-2-editor-experience-changes-in-v2-1-208|2 Editor Experience changes in v2.1.208]] · Editor Experience
+- [[Changes/Claude Code/2026-07-14-4-agent-mode-changes-in-v2-1-208|4 Agent Mode changes in v2.1.208]] · Agent Mode
+- [[Changes/Claude Code/2026-07-14-3-reliability-and-performance-changes-in-v2-1-208|3 Reliability and Performance changes in v2.1.208]] · Reliability and Performance
 - [[Changes/Claude Code/2026-07-14-fixed-multi-second-per-turn-slowdowns-in-sessions-with-many-permission-deny-ask|Fixed multi-second per-turn slowdowns in sessions with many permission deny/ask rules]] · Safety and Privacy
-- [[Changes/Claude Code/2026-07-14-added-claude-code-process-wrapper-agent-view-and-the-background-service-now-hono|Added CLAUDE_CODE_PROCESS_WRAPPER: agent view and the background service now honor…]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

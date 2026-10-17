@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-10-03'
 description: 'ChatGPT release Updating GPT-5 on 2025-10-03: 1 tracked change across
   Model Support'
-machine_hash: 8f5ef00329923cbccc18e3673b8cd3609d08ef0b0fef79115bea4810434f67af
+machine_hash: 41fa1066e213b9093793d99f28ee44edaf48bc17b74130d9bc2e89c651f19a26
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: Updating GPT-5
 <!-- chronolog:begin region="summary" -->
 We’re updating GPT-5 Instant to better recognize and support people in moments of distress.The model is trained to more accurately detect and respond to potential signs of mental and emotional distress. These updates were guided by mental health experts, and help ChatGPT de-escalate conversations and point people to…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-10-03-we-re-updating-gpt-5-instant-to-better-recognize-and-support-people-in-moments-o-ea32fc|We’re updating GPT-5 Instant to better recognize and support people in moments of distress]] · Model Support
+- [[Changes/ChatGPT/2025-10-03-we-re-updating-gpt-5-instant-to-better-recognize-and-support-people-in-moments-o-ea32fc|Updating GPT-5]] · Model Support
 <!-- chronolog:end -->

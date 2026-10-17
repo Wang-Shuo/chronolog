@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 4bea0afd56031e0c82dcdc2b5c24e8e90bda4234e5aba5402b30fa46a631c5f2
+kind: change
+machine_hash: e02297c29a2e84ce42f4cfd4c3bc7f574b25816bea91f73278ab7b042b68a750
 product: claude-code
 product_name: Claude Code
 record:
@@ -33,8 +34,9 @@ record:
       on the Anthropic API — 1M context, $0.10/$0.50 per Mtok ($0.50/$2.50 for prompts
       over 100K)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.293
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-claude-haiku-5-5-claude-haiku-5-5-now-the-default-haiku-model-on-the-anthr
@@ -54,12 +56,12 @@ record:
   title: Added Claude Haiku 5.5 (`claude-haiku-5-5`), now the default Haiku model…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp|Eligible
-  Plus and Pro users can authorize participating apps to use their ChatGPT…]]'
+- '[[Changes/Claude Code/2026-10-05-2-model-support-changes-in-v2-1-290|2 Model Support
+  changes in v2.1.290]]'
 - '[[Changes/Claude Code/2026-10-06-added-prompt-caching-to-model-complete-for-mods-prompt-and-system-take-blocks-of|Added
   prompt caching to $.model.complete for mods]]'
-- '[[Changes/ChatGPT/2026-10-07-we-re-introducing-gpt-6-with-intelligent-ui-in-chatgpt-chatgpt-can-now-combine-t|ChatGPT
-  introduces GPT-6 with Intelligent UI]]'
+- '[[Changes/ChatGPT/2026-10-07-we-re-introducing-gpt-6-with-intelligent-ui-in-chatgpt-chatgpt-can-now-combine-t|GPT-6
+  and Intelligent UI in ChatGPT]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d|claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d]]'
 source_type: github_releases
 theme: model-support
@@ -82,15 +84,19 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-10-07-fixed-claude-being-told-to-continue-or-message-subagents-with-sendmessage-in-ses|Fixed Claude being told to continue or message subagents with SendMessage…]] · Safety and Privacy
-- [[Changes/Claude Code/2026-10-07-fixed-claude-agents-offering-bypass-permissions-that-background-sessions-then-ig|Fixed claude agents offering bypass permissions that background sessions then…]] · Safety and Privacy
-- [[Changes/Claude Code/2026-10-07-added-agenttype-to-the-subagentstatusline-payload-so-scripts-can-tell-custom-sub|Added agentType to the subagentStatusLine payload, so scripts can tell custom…]] · Agent Mode
+- [[Changes/Claude Code/2026-10-07-3-enterprise-and-administration-changes-in-v2-1-293|3 Enterprise and Administration changes in v2.1.293]] · Enterprise and Administration
+- [[Changes/Claude Code/2026-10-07-improved-the-bash-edit-diff-note-to-say-the-listed-files-changed-while-the-comma|Improved the Bash edit diff note to say the listed files changed while the command…]] · Editor Experience
+- [[Changes/Claude Code/2026-10-07-code-review-improved-code-review-s-add-a-repository-dialog-to-list-each-reposito|Code Review Improved Code Review's Add a repository dialog to list each repository…]] · Developer Workflow
+- [[Changes/Claude Code/2026-10-07-3-safety-and-privacy-changes-in-v2-1-293|3 Safety and Privacy changes in v2.1.293]] · Safety and Privacy
+- [[Changes/Claude Code/2026-10-07-3-apps-and-integrations-changes-in-v2-1-293|3 Apps and Integrations changes in v2.1.293]] · Apps and Integrations
+- [[Changes/Claude Code/2026-10-07-2-agent-mode-changes-in-v2-1-293|2 Agent Mode changes in v2.1.293]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-07 · ChatGPT · [[Changes/ChatGPT/2026-10-07-we-re-introducing-gpt-6-with-intelligent-ui-in-chatgpt-chatgpt-can-now-combine-t|ChatGPT introduces GPT-6 with Intelligent UI]]
+- Earlier: 2026-10-07 · ChatGPT · [[Changes/ChatGPT/2026-10-07-we-re-introducing-gpt-6-with-intelligent-ui-in-chatgpt-chatgpt-can-now-combine-t|GPT-6 and Intelligent UI in ChatGPT]]
+- Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-2-model-support-changes-in-v2-1-295|2 Model Support changes in v2.1.295]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

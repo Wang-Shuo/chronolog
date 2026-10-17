@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-09-10'
 description: 'ChatGPT release Data plugin in ChatGPT Work and Codex on 2026-09-10:
   1 tracked change across Apps and Integrations'
-machine_hash: c54ff66358a3f1a7b66153a700ee474957be2aa3c422d1cbfabc89ac98b9e44c
+machine_hash: 4cc27bc436bba9047bda7afb5927c9ff6cf81f6510e05c915fae2b2477643938
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Data plugin in ChatGPT Work and Codex
 <!-- chronolog:begin region="summary" -->
 The Data plugin helps you analyze connected business data in ChatGPT Work and Codex. Ask a business question, investigate changes, or create an interactive dashboard or report. You can refine the analysis with follow-up questions and bring in your team’s metric definitions and other business context.To get started…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-09-10-the-data-plugin-helps-you-analyze-connected-business-data-in-chatgpt-work-and-co|The Data plugin helps you analyze connected business data in ChatGPT Work and Codex]] · Apps and Integrations
+- [[Changes/ChatGPT/2026-09-10-the-data-plugin-helps-you-analyze-connected-business-data-in-chatgpt-work-and-co|Data plugin in ChatGPT Work and Codex]] · Apps and Integrations
 <!-- chronolog:end -->

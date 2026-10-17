@@ -2,7 +2,7 @@
 changes_count: 0
 date: '2023-12-12'
 description: 'Cursor release Minor Bug Fixes on 2023-12-12: no tracked changes'
-machine_hash: f59a4c30a892e874c123767cd0c41ede9a5239eecc75cad4f5e097b47878bd98
+machine_hash: 9a51a207052bc74ae166a9be777e833a1c213546e5e9698595c76d2659542785
 product: cursor
 product_name: Cursor
 record:
@@ -37,7 +37,7 @@ version: 0.18.10-nightly
 <!-- chronolog:begin region="summary" -->
 Mino bug fixes.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

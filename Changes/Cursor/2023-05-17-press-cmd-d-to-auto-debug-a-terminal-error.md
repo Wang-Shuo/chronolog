@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 58bc46f8a9ce98f2f4acc516d5acebd0933d4c754a1285063ddc053079fed9b4
+machine_hash: f42da2357bfca803dc3a67c39d839e16185ac69e3692e833a9eb4b61bf59fdc0
 product: cursor
 product_name: Cursor
 record:
@@ -46,6 +46,7 @@ related_changes:
   Working remote ssh support through the "OpenRemote - SSH" extension]]'
 source_release: '[[Releases/Cursor/cursor-2023-05-17-0-2-16-https-cursor-com-changelog-0-2-16-e0618ec3|cursor-2023-05-17-0-2-16-https-cursor-com-changelog-0-2-16-e0618ec3]]'
 source_type: cursor_changelog
+superseded: true
 theme: developer-workflow
 title: Press Cmd+D to auto-debug a terminal error
 type: change

@@ -14,9 +14,10 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 2c7314d12f54b621bfe110b5462b76e72014ea2eae102f19cd32cd999bcf396a
+kind: change
+machine_hash: fe9f0f05638250f7931a01d42d6bdebd17324d8eb555d1d7af8927633e5b1de9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,8 +30,9 @@ record:
   - quote: 'Search History Improvements: Tapping on a search result takes you directly
       to the respective point in the conversation.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: search-history-improvements-tapping-on-a-search-result-takes-you-directly-to-the
@@ -46,8 +48,6 @@ related_changes:
   An experimental model that knows when and how to browse the internet]]'
 - '[[Changes/ChatGPT/2023-05-12-web-browsing-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-browse-the|Web
   browsing: Try a new version of ChatGPT that knows when and how to browse…]]'
-- '[[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|Browse
-  with Bing]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98|chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|Browse with Bing]]
-- Later: 2023-07-03 · ChatGPT · [[Changes/ChatGPT/2023-07-03-we-ve-learned-that-the-browsing-beta-can-occasionally-display-content-in-ways-we|We've learned that the browsing beta can occasionally display content in ways we…]]
+- Earlier: 2023-05-12 · ChatGPT · [[Changes/ChatGPT/2023-05-12-web-browsing-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-browse-the|Web browsing: Try a new version of ChatGPT that knows when and how to browse…]]
+- Later: 2023-07-03 · ChatGPT · [[Changes/ChatGPT/2023-07-03-we-ve-learned-that-the-browsing-beta-can-occasionally-display-content-in-ways-we|Browsing is temporarily disabled]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

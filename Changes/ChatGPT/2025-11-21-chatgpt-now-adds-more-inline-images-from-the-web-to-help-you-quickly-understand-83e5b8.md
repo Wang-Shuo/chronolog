@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 297fbd2d709b9630f62f40aecd609c192b52f3b833ac76275b45ba0d3b27bacb
+kind: change
+machine_hash: bcd2669641197a5aee98ef8d26d24cf7621f8db88de0e9b7597d515ef7a4b12a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,8 +39,9 @@ record:
       improvements are gradually rolling out globally across all ChatGPT plans, on
       web, iOS, and Android for responses using GPT 5.1.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: chatgpt-now-adds-more-inline-images-from-the-web-to-help-you-quickly-understand
@@ -58,24 +60,24 @@ record:
     score: 100
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v2
-  title: ChatGPT now adds more inline images from the web to help you quickly understand…
+  title: More images in answers
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th-d3a253|We’re
-  updating ChatGPT’s tone controls so it’s easier to make responses sound…]]'
-- '[[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4|We’re
-  updating GPT-5 to GPT-5.1 Instant and GPT-5.1 Thinking, making answers both…]]'
-- '[[Changes/ChatGPT/2025-11-19-today-we-re-updating-gpt-5-pro-to-gpt-5-1-pro-in-early-testing-users-consistentl-191826|Today
-  we’re updating GPT-5 Pro to GPT-5.1 Pro]]'
+- '[[Changes/ChatGPT/2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th-d3a253|New
+  tone and personalization controls]]'
+- '[[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4|GPT-5.1
+  in ChatGPT]]'
+- '[[Changes/ChatGPT/2025-11-19-today-we-re-updating-gpt-5-pro-to-gpt-5-1-pro-in-early-testing-users-consistentl-191826|GPT-5.1
+  Pro: Clearer, more capable answers for complex work]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-21-more-images-in-answers-f12c1477|chatgpt-2025-11-21-more-images-in-answers-f12c1477]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: ChatGPT now adds more inline images from the web to help you quickly understand…
+title: More images in answers
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT now adds more inline images from the web to help you quickly understand…
+# More images in answers
 
 **ChatGPT** · 2025-11-21 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-11-21-more-images-in-answers-f12c1477|More images in answers]]
 <!-- chronolog:end -->
@@ -93,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-19 · ChatGPT · [[Changes/ChatGPT/2025-11-19-today-we-re-updating-gpt-5-pro-to-gpt-5-1-pro-in-early-testing-users-consistentl-191826|Today we’re updating GPT-5 Pro to GPT-5.1 Pro]]
-- Later: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-cursor-instruments-your-app-with-runtime-logs-to-find-the-root-cause-it-works-ac|Cursor instruments your app with runtime logs to find the root cause]]
+- Earlier: 2025-11-19 · ChatGPT · [[Changes/ChatGPT/2025-11-19-today-we-re-updating-gpt-5-pro-to-gpt-5-1-pro-in-early-testing-users-consistentl-191826|GPT-5.1 Pro: Clearer, more capable answers for complex work]]
+- Later: 2025-12-11 · ChatGPT · [[Changes/ChatGPT/2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-series-gpt-5-2-is-sm|Today, we’re releasing GPT-5.2, the next upgrade to the GPT-5 series]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

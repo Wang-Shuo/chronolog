@@ -4,8 +4,8 @@ date: '2023-04-29'
 description: 'Cursor · 2023-04-29 · Editor Experience: Experimental support for multi-file
   diffs'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 46
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 55b5b778b2ded496b249fc551d3aae4fcc4e7ed94416f6fb14a9eadb4f4584d2
+kind: change
+machine_hash: 228e9a6085f525fd70e9daee53bcc0b2d3916df198be93ec81b0da1fa23aa9fc
 product: cursor
 product_name: Cursor
 record:
@@ -30,8 +31,9 @@ record:
   evidence:
   - quote: Experimental support for multi-file diffs
     source_release: https://cursor.com/changelog/0-2-8
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: experimental-support-for-multi-file-diffs
@@ -43,8 +45,8 @@ record:
   title: Experimental support for multi-file diffs
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-04-06-our-goal-is-to-create-an-ide-optimized-for-pair-programming-with-ai|Our
-  goal is to create an IDE optimized for pair-programming with AI]]'
+- '[[Changes/Cursor/2023-04-06-transitioned-to-building-cursor-on-top-of-a-fork-of-vscodium|Transitioned
+  to building Cursor on top of a fork of VSCodium]]'
 - '[[Changes/Cursor/2023-04-14-hover-over-an-error-to-have-the-ai-explain-it-fix-it|Hover
   over an error to have the AI explain it/fix it]]'
 - '[[Changes/Cursor/2023-04-16-nicer-edits-now-work-with-cmd-z|Nicer edits, now work
@@ -84,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

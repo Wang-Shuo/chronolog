@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 63ba7054ed8512fc666b3b53b03f0e26271cf38ca75cfd9d61ed0bf05fa5877d
+machine_hash: d02c1bfd734b15816191ed3ccc64d7a1823fabd7e10500d67845fb074b9968ff
 product: cursor
 product_name: Cursor
 record:
@@ -50,6 +50,7 @@ related_changes:
   @Codebase support in the chat (and coming to the cmd-k soon!)]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991|cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: But copilot can be slow and sometimes just not smart enough :(
 type: change

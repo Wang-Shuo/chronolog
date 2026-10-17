@@ -15,9 +15,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 1a69f3d17d5160386bc4afd32cd20af4e35e2792fd50043fcab1ae320d5de60b
+kind: change
+machine_hash: 8de68a69e6dabfeff82ad4abc325a711f0db1b35acb0f759fadeaac3df903167
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,8 +35,9 @@ record:
       Windows app. Support for mobile (iOS and Android) and macOS app will follow
       in the coming weeks.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: this-feature-will-initially-only-be-available-on-the-chatgpt-website-and-windows
@@ -46,12 +48,12 @@ record:
     Windows app
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-96fd94|Study
+- '[[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|Record
+  mode is now available to ChatGPT Plus users globally in the macOS desktop app]]'
+- '[[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-6e22f0|Study
   mode is currently available to users in Free, Plus, Pro, and Teams plans…]]'
-- '[[Changes/ChatGPT/2025-08-07-you-can-now-set-an-accent-color-that-applies-to-elements-in-chatgpt-including-yo-865968|Set
-  an accent color that applies to elements in ChatGPT, including your conversation…]]'
-- '[[Changes/ChatGPT/2025-08-18-available-on-web-mobile-ios-android-and-desktop-macos-windows-chatgpt-go-is-geo|Available
-  on web, mobile (iOS & Android), and desktop (macOS & Windows)]]'
+- '[[Changes/ChatGPT/2025-08-07-you-can-now-set-an-accent-color-that-applies-to-elements-in-chatgpt-including-yo-865968|Accent
+  Colors]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-22-project-only-memory-3424a221|chatgpt-2025-08-22-project-only-memory-3424a221]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -75,15 +77,14 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2025-08-22-personal-memory-must-be-enabled-to-utilize-this-feature-settings-personalization|Personal Memory must be enabled to utilize this feature]] · Memory and Personalization
-- [[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-aa77f4|An improvement to projects is now available]] · Memory and Personalization
+- [[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-87f79a|An improvement to projects is now available]] · Memory and Personalization
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-08-18 · ChatGPT · [[Changes/ChatGPT/2025-08-18-available-on-web-mobile-ios-android-and-desktop-macos-windows-chatgpt-go-is-geo|Available on web, mobile (iOS & Android), and desktop (macOS & Windows)]]
-- Later: 2025-10-08 · ChatGPT · [[Changes/ChatGPT/2025-10-08-available-on-web-mobile-ios-android-and-desktop-macos-windows-note-in-cambodia-l|Available on web, mobile (iOS & Android), and desktop (macOS & Windows)]]
+- Earlier: 2025-08-07 · ChatGPT · [[Changes/ChatGPT/2025-08-07-you-can-now-set-an-accent-color-that-applies-to-elements-in-chatgpt-including-yo-865968|Accent Colors]]
+- Later: 2025-09-17 · ChatGPT · [[Changes/ChatGPT/2025-09-17-the-thinking-time-toggle-is-live-today-on-chatgpt-com-settings-you-choose-on-the|The thinking-time toggle is live today on chatgpt.com]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

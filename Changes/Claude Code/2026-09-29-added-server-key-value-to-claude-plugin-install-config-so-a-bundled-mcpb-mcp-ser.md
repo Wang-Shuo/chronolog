@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6e4ee0a4ee9cf8e0c11ef0a47df61167817d7b1a934e66eabcc66fe58c85472f
+machine_hash: 082bfcb76c556e7bea92ae6c5e99bcf4301798c06b3bed19b8552e7dceadbab2
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   plugins can use MCP events to start an automation when something changes…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc|claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added server.key=value to claude plugin install --config, so a bundled…
 type: change

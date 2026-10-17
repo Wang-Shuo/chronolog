@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: a3963451481fd4efb9a7ff31992d2c3ede7fe4a60c27ff492bff8e782dd01b37
+machine_hash: 445619f813685733c78c18f27184da28059266e94f928b1e8c2a165ece486600
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   tool call failures and denials to debug logs]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2|claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added support for additional git log and git show flags in read-only mode…
 type: change

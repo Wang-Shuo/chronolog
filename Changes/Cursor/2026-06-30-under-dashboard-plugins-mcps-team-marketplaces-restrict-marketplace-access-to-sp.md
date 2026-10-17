@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 95ddf8539388ce20c7fbd1dad269f5877f5916f1a3b2d7d1c98438ad6d9096f3
+machine_hash: 60e0b0c11b3fbde09d9fac01757bc43ab76ee9d2aef55fbcc66ee6442f9ae878
 product: cursor
 product_name: Cursor
 record:
@@ -62,6 +62,7 @@ related_changes:
   now shows you a leaderboard of the most popular plugins, skills, and MCPs…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-30-3-10-https-cursor-com-changelog-team-marketplace-updates-eb3caab2|cursor-2026-06-30-3-10-https-cursor-com-changelog-team-marketplace-updates-eb3caab2]]'
 source_type: cursor_changelog
+superseded: true
 theme: collaboration
 title: Under Dashboard - Plugins & MCPs - Team Marketplaces, restrict marketplace
   access…

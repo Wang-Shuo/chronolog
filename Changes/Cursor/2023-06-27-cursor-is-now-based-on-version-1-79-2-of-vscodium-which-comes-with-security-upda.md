@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 3e4df8df7cb294aec8310de659c9d74f1b0df7385a464baee15a0b3c34dc913a
+kind: change
+machine_hash: 773465da6737b6101df508f83f21a0324c828f85853ae847cdca8171dc359905
 product: cursor
 product_name: Cursor
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Cursor is now based on version 1.79.2 of VSCodium, which comes with security
       updates and minor features
     source_release: https://cursor.com/changelog/0-2-36
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: cursor-is-now-based-on-version-1-79-2-of-vscodium-which-comes-with-security-upda
@@ -66,17 +68,16 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2023-06-27-you-can-now-use-run-debug-in-cursor-again-the-toolbar-is-back|Use Run & debug in Cursor again (the toolbar is back)]] · Developer Workflow
 - [[Changes/Cursor/2023-06-27-cursor-deep-linking-works-now-so-you-should-be-able-to-log-in-to-extensions|cursor:// deep linking works now, so you should be able to log in to extensions]] · Apps and Integrations
 - [[Changes/Cursor/2023-06-27-if-you-re-not-logged-in-we-show-the-popup-to-log-in-again|If you're not logged in, we show the popup to log in again]] · Account and Access
-- [[Changes/Cursor/2023-06-27-early-support-for-slash-commands|Early support for slash commands]] · Developer Workflow
+- [[Changes/Cursor/2023-06-27-you-can-now-use-run-debug-in-cursor-again-the-toolbar-is-back-db8146|Use Run & debug in Cursor again (the toolbar is back)]] · Developer Workflow
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
 - Earlier: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
-- Later: 2023-08-28 · ChatGPT · [[Changes/ChatGPT/2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security-4958cf|ChatGPT launches ChatGPT Enterprise, which offers enterprise-grade security…]]
+- Later: 2023-08-28 · ChatGPT · [[Changes/ChatGPT/2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security-4958cf|Introducing ChatGPT Enterprise]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

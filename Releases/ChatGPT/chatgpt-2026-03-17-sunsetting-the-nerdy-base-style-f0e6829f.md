@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-03-17'
 description: 'ChatGPT release Sunsetting the “Nerdy” base style on 2026-03-17: 1 tracked
   change across Memory and Personalization'
-machine_hash: 055bfa53c54d857e49fda0b8c74cdbdcb78e711500cbda3fb3e77e5af7a5ca4a
+machine_hash: 8ee1f6199ce0fa317da4d1a43fc0f90493310ae883044878d98174c9d4c5473e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Sunsetting the “Nerdy” base style
 <!-- chronolog:begin region="summary" -->
 We’re sunsetting the preset Nerdy base style to simplify options and improve response quality. Users who selected it will be moved to the default personality. You can manage personality settings anytime in ChatGPT under Settings → Personalization.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|We’re sunsetting the preset Nerdy base style to simplify options and improve…]] · Memory and Personalization
+- [[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|Sunsetting the “Nerdy” base style]] · Memory and Personalization · Policy
 <!-- chronolog:end -->

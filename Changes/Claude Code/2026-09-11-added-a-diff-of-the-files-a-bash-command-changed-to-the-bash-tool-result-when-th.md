@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ac95304507adf596bb17d1008b38dd3b4e123fbb09b3172ff7d9facfbe68b7af
+machine_hash: 1b4d3e76681790e0ddca2a1c8b7f72c8f88635414e7db0398309c461b74c97ae
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   the agent''s build is to your liking, click the Create repo button to save…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-11-v2-1-269-github-387243742-288e9189|claude-code-2026-09-11-v2-1-269-github-387243742-288e9189]]'
 source_type: github_releases
+superseded: true
 theme: editor-experience
 title: Added a diff of the files a Bash command changed to the Bash tool result…
 type: change

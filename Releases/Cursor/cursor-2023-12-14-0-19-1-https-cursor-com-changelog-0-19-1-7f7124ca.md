@@ -3,7 +3,7 @@ changes_count: 0
 date: '2023-12-14'
 description: 'Cursor release Interpreter Mode Windows Bug on 2023-12-14: no tracked
   changes'
-machine_hash: 331ddb26f63171e39cb5052b9bdc5a22f0d97a840a92b67cdb1a3bc64c540454
+machine_hash: 1863f247896912a846a08dddbc951f8c9f36ce03ef8b41ed4fa7688c9364091f
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.19.1
 <!-- chronolog:begin region="summary" -->
 Fixes a CRLF bug in interpreter mode: getcursor/cursor#1131.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

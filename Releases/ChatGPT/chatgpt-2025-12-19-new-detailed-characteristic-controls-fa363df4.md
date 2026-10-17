@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 1
 date: '2025-12-19'
 description: 'ChatGPT release New detailed characteristic controls on 2025-12-19:
-  5 tracked changes across Memory and Personalization'
-machine_hash: 6fc6918f0fb3c4b336479d5810694f65d0376533024ced9712f5e1fa43a6322e
+  1 tracked change across Memory and Personalization'
+machine_hash: 9d1e9c72e5fb888b76611321b5237b43727f2d208490d559478865e1123184d1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,14 +40,10 @@ version: New detailed characteristic controls
 <!-- chronolog:begin region="summary" -->
 In addition to selecting a base style and tone preset—like candid and friendly—you can now adjust specific characteristics individually. From the ‘personalization’ pane in settings, you can adjust ChatGPT to:
 
-Tracked 5 of 5 candidate lines.
+Tracked 1 card from 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-12-19-be-more-or-less-warm|Be more or less warm]] · Memory and Personalization
-- [[Changes/ChatGPT/2025-12-19-use-more-or-fewer-emojis|Use more or fewer emojis]] · Memory and Personalization
-- [[Changes/ChatGPT/2025-12-19-be-more-or-less-enthusiastic|Be more or less enthusiastic]] · Memory and Personalization
-- [[Changes/ChatGPT/2025-12-19-in-addition-to-selecting-a-base-style-and-tone-preset-like-candid-and-friendly-y|In addition to selecting a base style and tone preset—like candid and friendly—you…]] · Memory and Personalization
-- [[Changes/ChatGPT/2025-12-19-use-more-or-fewer-headers-lists|Use more or fewer headers & lists]] · Memory and Personalization
+- [[Changes/ChatGPT/2025-12-19-in-addition-to-selecting-a-base-style-and-tone-preset-like-candid-and-friendly-y-21da79|New detailed characteristic controls]] · Memory and Personalization
 <!-- chronolog:end -->

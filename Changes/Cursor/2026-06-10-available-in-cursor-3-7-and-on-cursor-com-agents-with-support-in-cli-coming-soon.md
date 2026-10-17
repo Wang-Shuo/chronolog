@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: b58022dee547abf949d67d2d873bc54c6ca48b0ac6d507b14b0622002d7c4dd6
+machine_hash: 1a1f9c290ffbdb9641a2ef86d717ed2fd9fd25ed5a0bd090f43e70724130d61c
 product: cursor
 product_name: Cursor
 record:
@@ -52,6 +52,7 @@ related_changes:
   can now spawn their own sub-agents (up to 5 levels deep)]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-10-bugbot-is-now-over-3x-faster-22-cheaper-and-finds-10-more-bugs-h-c1721c78|cursor-2026-06-10-bugbot-is-now-over-3x-faster-22-cheaper-and-finds-10-more-bugs-h-c1721c78]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Available in Cursor 3.7+ and on cursor.com/agents, with support in CLI coming
   soon

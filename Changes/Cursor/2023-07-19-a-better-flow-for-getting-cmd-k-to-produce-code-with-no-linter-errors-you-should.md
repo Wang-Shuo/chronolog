@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4bfe95a9f2a8a9fabe7c9921e3bdd67e7a6db739f616b7f835471ef04328554e
+machine_hash: 0473b299997827c56a09988c2fe4eb593b8320b8772ccad1ac290c9bf3689420
 product: cursor
 product_name: Cursor
 record:
@@ -58,6 +58,7 @@ related_changes:
 - '[[Changes/Cursor/2023-07-12-semantic-search-in-cmd-shift-f|Semantic search in Cmd-Shift-F]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-19-0-2-49-https-cursor-com-changelog-0-2-49-69872598|cursor-2023-07-19-0-2-49-https-cursor-com-changelog-0-2-49-69872598]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: A better flow for getting CMD-k to produce code with no linter errors…
 type: change

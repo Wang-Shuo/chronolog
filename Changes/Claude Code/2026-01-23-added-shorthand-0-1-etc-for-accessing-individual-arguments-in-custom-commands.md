@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 542d65a90f021eaeaf8c9eed590fa23567a5550bf27d96b5b91ffa7804cf73b3
+machine_hash: 69b29ddc9ee3c955ee0cbe97221f9b5139fe44d54c92851d621bf97eeefe9730
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   indexed argument syntax from $ARGUMENTS.0 to $ARGUMENTS0 (bracket syntax)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640|claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added shorthand $0, $1, etc. for accessing individual arguments in custom commands
 type: change

@@ -14,9 +14,10 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 78ed0f3d07b9e875f8fb4a50cd8b077efb0100a4e73dfc40f8e8d0934f9bf631
+kind: change
+machine_hash: e3d846d4150c246167fe93f09605e68e33afb62da9c947325235f54a1f05655b
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: '[VSCode] Added ability for OAuth users to browse and resume remote Claude
       sessions from the Sessions dialog'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.16
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: vscode-added-ability-for-oauth-users-to-browse-and-resume-remote-claude-sessions
@@ -51,12 +53,11 @@ record:
     sessions…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-25-you-can-now-chat-with-any-codebase-no-need-to-have-a-github-repo-login-through-g|Chat
-  with any codebase]]'
-- '[[Changes/Cursor/2023-09-01-you-should-now-be-able-to-sign-in-with-github-again|You
-  should now be able to sign in with GitHub again]]'
-- '[[Changes/ChatGPT/2024-04-01-we-re-making-it-easier-for-people-to-experience-the-benefits-of-ai-without-needi|We’re
-  making it easier for people to experience the benefits of AI without needing…]]'
+- '[[Changes/Claude Code/2026-01-13-updated-help-improve-claude-setting-fetch-to-refresh-oauth-and-retry-when-it-fai|Updated
+  "Help improve Claude" setting fetch to refresh OAuth and retry when it fails…]]'
+- '[[Changes/Claude Code/2026-01-14-changed-oauth-and-api-console-urls-from-console-anthropic-com-to-platform-claude|Changed
+  OAuth and API Console URLs from console.anthropic.com to platform.claude.com]]'
+- '[[Changes/Cursor/2026-01-16-one-click-mcp-authentication|One-click MCP authentication]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428|claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428]]'
 source_type: github_releases
 theme: account-access
@@ -81,14 +82,13 @@ type: change
 
 - [[Changes/Claude Code/2026-01-22-vscode-added-native-plugin-management-support|VSCode Added native plugin management support]] · Apps and Integrations
 - [[Changes/Claude Code/2026-01-22-added-new-task-management-system-including-new-capabilities-like-dependency-trac|Added new task management system, including new capabilities like dependency tracking]] · Developer Workflow
-- [[Changes/Claude Code/2026-01-22-ide-fixed-a-race-condition-on-windows-where-the-claude-code-sidebar-view-contain|IDE Fixed a race condition on Windows where the Claude Code sidebar view container…]] · Mobile and Desktop
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2024-04-01 · ChatGPT · [[Changes/ChatGPT/2024-04-01-we-re-making-it-easier-for-people-to-experience-the-benefits-of-ai-without-needi|We’re making it easier for people to experience the benefits of AI without needing…]]
-- Later: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-added-pre-configured-oauth-client-credentials-for-mcp-servers-that-don-t-support|Added pre-configured OAuth client credentials for MCP servers that don't support…]]
+- Earlier: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-one-click-mcp-authentication|One-click MCP authentication]]
+- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-browser-can-now-request-local-network-permissions-fixing-authentication-flows-wi|Browser can now request local network permissions, fixing authentication flows…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

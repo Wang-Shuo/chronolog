@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 3c9a4b51875ed46248e829e20bed4e1196fbd4548781fa798c0943560d2440dc
+kind: change
+machine_hash: 2ebddd4c44f8cfd281f337b2a0507df0d48290906a7a0297eff141989065996a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,8 +43,9 @@ record:
       using canvas for a limited time through legacy models until those models are
       sunset.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-updating-gpt-5-5-instant-in-chatgpt-and-the-api-to-improve-response-style
@@ -61,25 +63,24 @@ record:
     score: 50
     theme: file-data
   theme_resolution: manual-semantic-rule-v2
-  title: We’re updating GPT-5.5 Instant in ChatGPT and the API to improve response
-    style…
+  title: GPT-5.5 Instant Update
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-18-it-s-a-substantial-improvement-in-intelligence-and-behavior-over-composer-2-it-i|It''s
-  a substantial improvement in intelligence and behavior over Composer 2]]'
-- '[[Changes/Claude Code/2026-05-27-skills-and-slash-commands-can-now-set-disallowed-tools-in-frontmatter-to-remove|Skills
-  and slash commands can now set disallowed-tools in frontmatter to remove…]]'
-- '[[Changes/ChatGPT/2026-05-28-today-we-re-continuing-to-retire-older-models-with-limited-usage-in-chatgpt-so-w|Today,
-  we’re continuing to retire older models with limited usage in ChatGPT so we…]]'
+- '[[Changes/Claude Code/2026-05-19-resumed-sessions-now-keep-the-model-they-were-using-instead-of-picking-up-anothe|Resumed
+  sessions now keep the model they were using instead of picking up another…]]'
+- '[[Changes/Claude Code/2026-05-27-2-model-support-changes-in-v2-1-152|2 Model Support
+  changes in v2.1.152]]'
+- '[[Changes/ChatGPT/2026-05-28-today-we-re-continuing-to-retire-older-models-with-limited-usage-in-chatgpt-so-w|Retiring
+  OpenAI o3 and GPT-4.5]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-28-gpt-5-5-instant-update-6c17e30e|chatgpt-2026-05-28-gpt-5-5-instant-update-6c17e30e]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We’re updating GPT-5.5 Instant in ChatGPT and the API to improve response style…
+title: GPT-5.5 Instant Update
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We’re updating GPT-5.5 Instant in ChatGPT and the API to improve response style…
+# GPT-5.5 Instant Update
 
 **ChatGPT** · 2026-05-28 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-05-28-gpt-5-5-instant-update-6c17e30e|GPT-5.5 Instant Update]]
 <!-- chronolog:end -->
@@ -97,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-28 · ChatGPT · [[Changes/ChatGPT/2026-05-28-today-we-re-continuing-to-retire-older-models-with-limited-usage-in-chatgpt-so-w|Today, we’re continuing to retire older models with limited usage in ChatGPT so we…]]
-- Later: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-the-lean-system-prompt-is-now-the-default-for-all-models-except-haiku-sonnet-and|The lean system prompt is now the default for all models except Haiku, Sonnet…]]
+- Earlier: 2026-05-28 · ChatGPT · [[Changes/ChatGPT/2026-05-28-today-we-re-continuing-to-retire-older-models-with-limited-usage-in-chatgpt-so-w|Retiring OpenAI o3 and GPT-4.5]]
+- Later: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-5-model-support-changes-in-v2-1-154|5 Model Support changes in v2.1.154]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

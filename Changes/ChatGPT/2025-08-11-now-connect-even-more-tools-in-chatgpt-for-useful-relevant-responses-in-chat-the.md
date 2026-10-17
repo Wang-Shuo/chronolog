@@ -14,9 +14,10 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f6c402f3585243740be768f601e425126ec2eeeaea27f1ee1f84c79a2a19d9a9
+kind: change
+machine_hash: 1e892105b25a57c29c37d0a81906db0bed27b461ae6783a0677cfdf9a54ea1b8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,8 +32,9 @@ record:
       chat.The following connectors are now available to search by chat in addition
       to deep research.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: now-connect-even-more-tools-in-chatgpt-for-useful-relevant-responses-in-chat-the
@@ -53,12 +55,12 @@ record:
     chat
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-04-chatgpt-team-enterprise-and-edu-customers-globally-can-use-connectors-in-deep-re|ChatGPT
-  Team, Enterprise, and Edu customers globally can use connectors in deep…]]'
+- '[[Changes/Cursor/2025-06-04-link-and-web-search-can-now-parse-pdfs-and-include-in-context|@Link
+  and web search can now parse PDFs and include in context]]'
 - '[[Changes/ChatGPT/2025-06-13-we-ve-upgraded-chatgpt-search-for-all-users-to-provide-even-more-comprehensive-u|We’ve
   upgraded ChatGPT search for all users to provide even more comprehensive…]]'
-- '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2|Pro
-  users can now connect to Canva and Notion for both chat search and deep research]]'
+- '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2|Canva
+  and Notion connectors (Pro)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a|chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -88,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-07-24 · ChatGPT · [[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2|Pro users can now connect to Canva and Notion for both chat search and deep research]]
+- Earlier: 2025-07-24 · ChatGPT · [[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2|Canva and Notion connectors (Pro)]]
 - Later: 2025-09-16 · ChatGPT · [[Changes/ChatGPT/2025-09-16-we-ve-made-further-improvements-to-search-in-chatgpt-making-results-more-accurat|ChatGPT makes further improvements to search, making results more accurate…]]
 <!-- chronolog:end -->
 

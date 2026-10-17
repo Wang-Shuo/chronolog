@@ -14,9 +14,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 06b526bbfc568fdd296cbcaba7f185e5d71b24d9bd104a9c5fcf31e84fb39275
+kind: change
+machine_hash: 42010527dbe10f2bca5866b974fd178ccd50ebe7d1e34d1a70b54565191cb6cc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,8 +32,9 @@ record:
   - quote: We’ve updated performance of the ChatGPT model on our free plan in order
       to serve more users.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-ve-updated-performance-of-the-chatgpt-model-on-our-free-plan-in-order-to-serv

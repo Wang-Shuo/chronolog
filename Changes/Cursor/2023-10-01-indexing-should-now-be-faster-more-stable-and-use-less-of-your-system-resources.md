@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b61ed591429f2e68cc9aaa9f0c36897a2fc0024256700bb8c8604f8a3a0c64e3
+machine_hash: 04624a07815d56f6676063600ab4ec57e64875650d23b1a56dec7e3cac619e4a
 product: cursor
 product_name: Cursor
 record:
@@ -61,6 +61,7 @@ related_changes:
   version of indexing. this should be much more stable than previous versions]]'
 source_release: '[[Releases/Cursor/cursor-2023-10-01-0-12-0-https-cursor-com-changelog-0-12-0-2555ff30|cursor-2023-10-01-0-12-0-https-cursor-com-changelog-0-12-0-2555ff30]]'
 source_type: cursor_changelog
+superseded: true
 theme: reliability-performance
 title: Indexing should now be faster, more stable, and use less of your system resources
 type: change

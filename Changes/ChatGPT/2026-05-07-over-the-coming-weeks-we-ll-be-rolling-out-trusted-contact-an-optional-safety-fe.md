@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: f2e3d7e31b2ba3417078d46de3138128241c27bc3cdc84dea1b7fea764496305
+kind: change
+machine_hash: 71725f1b24b615e5d61336c6c7b44455419f0993d65fa1845aefbe7898814e49
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,8 +51,9 @@ record:
       or Edu workspaces.For more information about this feature and eligibility requirements,
       see Trusted contact in ChatGPT and our blog post.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: over-the-coming-weeks-we-ll-be-rolling-out-trusted-contact-an-optional-safety-fe
@@ -68,25 +70,24 @@ record:
     score: 50
     theme: safety-privacy
   theme_resolution: manual-semantic-rule-v1
-  title: Over the coming weeks, we'll be rolling out trusted contact, an optional
-    safety…
+  title: Trusted contact in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-01-dangerously-skip-permissions-now-bypasses-prompts-for-writes-to-claude-git-vscod|--dangerously-skip-permissions
-  now bypasses prompts for writes to .claude/…]]'
-- '[[Changes/Cursor/2026-05-01-default-off-users-can-discover-and-opt-in|Default Off:
-  users can discover and opt in]]'
+- '[[Changes/Claude Code/2026-05-04-sdk-hosts-now-receive-a-persistent-localsettings-suggestion-for-bash-permission|SDK
+  hosts now receive a persistent localSettings suggestion for Bash permission…]]'
 - '[[Changes/Claude Code/2026-05-06-fixed-permission-mode-flag-being-ignored-when-resuming-a-plan-mode-session-with|Fixed
   --permission-mode flag being ignored when resuming a plan-mode session…]]'
+- '[[Changes/Claude Code/2026-05-06-fixed-session-title-chip-from-rename-disappearing-while-a-permission-or-other-di|Fixed
+  session title chip from /rename disappearing while a permission or other…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-07-trusted-contact-in-chatgpt-941ecbdd|chatgpt-2026-05-07-trusted-contact-in-chatgpt-941ecbdd]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
-title: Over the coming weeks, we'll be rolling out trusted contact, an optional safety…
+title: Trusted contact in ChatGPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Over the coming weeks, we'll be rolling out trusted contact, an optional safety…
+# Trusted contact in ChatGPT
 
 **ChatGPT** · 2026-05-07 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-05-07-trusted-contact-in-chatgpt-941ecbdd|Trusted contact in ChatGPT]]
 <!-- chronolog:end -->
@@ -104,7 +105,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-fixed-permission-mode-flag-being-ignored-when-resuming-a-plan-mode-session-with|Fixed --permission-mode flag being ignored when resuming a plan-mode session…]]
+- Earlier: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-fixed-session-title-chip-from-rename-disappearing-while-a-permission-or-other-di|Fixed session title chip from /rename disappearing while a permission or other…]]
 - Later: 2026-05-07 · Claude Code · [[Changes/Claude Code/2026-05-07-added-sandbox-bwrappath-and-sandbox-socatpath-managed-settings-linux-wsl-to-spec|Added sandbox.bwrapPath and sandbox.socatPath managed settings (Linux/WSL)…]]
 <!-- chronolog:end -->
 

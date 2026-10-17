@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 4db548faa700eb3b49e1c18cbb3cd6a28d7536b6cf37fa34b46b4310849f2786
+kind: change
+machine_hash: 103e34ca853684528d1a8898b95b0daea356581c9318c8c9c39e6f59771bc206
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Better @ symbol keyboard ergonomics
     source_release: https://cursor.com/changelog/0-2-44
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: better-symbol-keyboard-ergonomics
@@ -41,12 +43,12 @@ record:
   title: Better @ symbol keyboard ergonomics
   type: change
 related_changes:
+- '[[Changes/Cursor/2023-06-24-the-chat-has-been-revamped-you-can-now-use-symbols-to-show-files-code-docs-to-th|Chat
+  v2]]'
 - '[[Changes/Cursor/2023-06-27-better-symbol-keyboard-ergonomics|Better @ symbol keyboard
   ergonomics]]'
 - '[[Changes/Cursor/2023-07-03-also-you-can-now-use-up-down-arrows-for-history-in-chat|(Also,
   you can now use up/down arrows for history in chat.)]]'
-- '[[Changes/Cursor/2023-07-07-chat-edit-tooltip-blocks-less-code|Chat/Edit tooltip
-  blocks less code]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-07-0-2-44-https-cursor-com-changelog-0-2-44-d76d2226|cursor-2023-07-07-0-2-44-https-cursor-com-changelog-0-2-44-d76d2226]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -69,10 +71,11 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2023-07-07-chat-edit-tooltip-blocks-less-code|Chat/Edit tooltip blocks less code]] · Interface Experience
-- [[Changes/Cursor/2023-07-07-makes-it-clearer-which-docs-are-being-looked-at-by-the-ai|Makes it clearer which docs are being looked at by the AI]] · Apps and Integrations
+- [[Changes/Cursor/2023-07-07-chat-edit-tooltip-blocks-less-code-3a1e6b|Chat/Edit tooltip blocks less code]] · Interface Experience
+- [[Changes/Cursor/2023-07-07-cmd-k-should-work-better-for-long-diffs-greater-than-100-lines-of-code|Cmd-k should work better for long diffs (greater than 100 lines of code)]] · Editor Experience
 - [[Changes/Cursor/2023-07-07-improved-the-add-new-doc-experience|Improved the "@Add new doc" experience]] · Apps and Integrations
-- [[Changes/Cursor/2023-07-07-ai-will-respond-with-citations-when-you-reference-docs|AI will respond with citations when you reference docs]] · Apps and Integrations
+- [[Changes/Cursor/2023-07-07-makes-it-clearer-which-docs-are-being-looked-at-by-the-ai-c07254|Makes it clearer which docs are being looked at by the AI]] · Apps and Integrations
+- [[Changes/Cursor/2023-07-07-importing-vs-code-extensions-now-takes-into-account-enabled-disabled|Importing VS Code extensions now takes into account enabled/disabled]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

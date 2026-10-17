@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 39b516c3c810dca4d7448a7a8a763812f3df647a06cac0d37b2da674310da3ec
+machine_hash: 2af1ddabd1f3edd6cb998ff50f62ea3340c2e5b01b085fd8dc5403fd95c0a27e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,6 +50,7 @@ related_changes:
   making ChatGPT Voice a seamless part of the ChatGPT experience, so you can use…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37|chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: voice
 title: Refer back to earlier messages without interrupting the conversation
 type: change

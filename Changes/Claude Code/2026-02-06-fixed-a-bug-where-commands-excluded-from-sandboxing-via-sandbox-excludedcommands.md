@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f95d2ee2ae08828228d9122b5a3f64f8d51f0572831ed6c4803937f74702049e
+kind: fix
+machine_hash: 11099edf84e61b654e1a4dd6ec02e9c1d3b802ccb55d7342ab955a9e79af9e26
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
       or `dangerouslyDisableSandbox`) could bypass the Bash ask permission rule when
       `autoAllowBashIfSandboxed` was enabled
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.34
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: fix
   product: claude-code
   product_name: Claude Code
   slug: fixed-a-bug-where-commands-excluded-from-sandboxing-via-sandbox-excludedcommands
@@ -44,12 +46,12 @@ record:
   title: Fixed a bug where commands excluded from sandboxing…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-14-fixed-security-vulnerability-where-wildcard-permission-rules-could-match-compoun|Fixed
-  security vulnerability where wildcard permission rules could match compound…]]'
 - '[[Changes/Claude Code/2026-01-29-fixed-per-user-temp-directory-isolation-to-prevent-permission-conflicts-on-share|Fixed
   per-user temp directory isolation to prevent permission conflicts on shared systems]]'
 - '[[Changes/Claude Code/2026-01-30-permissions-now-respect-content-level-ask-over-tool-level-allow-previously-allow|Permissions
   now respect content-level ask over tool-level allow]]'
+- '[[Changes/Claude Code/2026-02-03-fixed-permission-dialogs-stealing-focus-while-actively-typing|Fixed
+  permission dialogs stealing focus while actively typing]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-06-v2-1-34-github-283772587-e48b5e29|claude-code-2026-02-06-v2-1-34-github-283772587-e48b5e29]]'
 source_type: github_releases
 theme: safety-privacy
@@ -60,7 +62,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Fixed a bug where commands excluded from sandboxing…
 
-**Claude Code** · 2026-02-06 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.34) · from [[Releases/Claude Code/claude-code-2026-02-06-v2-1-34-github-283772587-e48b5e29|v2.1.34]]
+**Claude Code** · 2026-02-06 · [[Themes/safety-privacy|Safety and Privacy]] · Fix · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.34) · from [[Releases/Claude Code/claude-code-2026-02-06-v2-1-34-github-283772587-e48b5e29|v2.1.34]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -76,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-01-30 · Claude Code · [[Changes/Claude Code/2026-01-30-permissions-now-respect-content-level-ask-over-tool-level-allow-previously-allow|Permissions now respect content-level ask over tool-level allow]]
-- Later: 2026-02-10 · Claude Code · [[Changes/Claude Code/2026-02-10-blocked-writes-to-claude-skills-directory-in-sandbox-mode|Blocked writes to .claude/skills directory in sandbox mode]]
+- Earlier: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-fixed-permission-dialogs-stealing-focus-while-actively-typing|Fixed permission dialogs stealing focus while actively typing]]
+- Later: 2026-02-10 · Claude Code · [[Changes/Claude Code/2026-02-10-2-safety-and-privacy-changes-in-v2-1-38|2 Safety and Privacy changes in v2.1.38]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

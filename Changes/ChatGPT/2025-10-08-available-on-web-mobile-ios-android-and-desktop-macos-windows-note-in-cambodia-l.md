@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8e50617ceb732efd72a5f6c779587e91783dd113fd1c9e642f6635db82ad926f
+machine_hash: c2f5d64571a9b4b92e7afb33191a858af2f53fcec42bcffd1b450366bcfa3e28
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,6 +53,7 @@ related_changes:
   feature will initially only be available on the ChatGPT website and Windows app]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-08-chatgpt-go-expansion-37d00d9f|chatgpt-2025-10-08-chatgpt-go-expansion-37d00d9f]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: mobile-desktop
 title: Available on web, mobile (iOS & Android), and desktop (macOS & Windows)
 type: change

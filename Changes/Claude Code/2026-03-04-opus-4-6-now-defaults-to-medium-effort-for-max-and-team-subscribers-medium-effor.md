@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 14602ca261be11743cc738ff6ba8aa77d0083fb7f40ea1036ddab06ad00fce47
+machine_hash: d19a8fd8c9ed5ccb41235a129dd1d83e04eab6f044bd8d6e2551abdd44ac3ed7
 product: claude-code
 product_name: Claude Code
 record:
@@ -67,6 +67,7 @@ related_changes:
   Opus 4 and 4.1 from Claude Code on the first-party API]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-04-v2-1-68-github-292908895-c7aaa3de|claude-code-2026-03-04-v2-1-68-github-292908895-c7aaa3de]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Opus 4.6 now defaults to medium effort for Max and Team subscribers
 type: change

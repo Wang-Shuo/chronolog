@@ -4,8 +4,8 @@ date: '2023-06-27'
 description: 'Cursor · 2023-06-27 · Apps and Integrations: Better support for extensions
   (specifically re-enables the welcomeView)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 96
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: f0de81f2a81a3ab15f4391a2fefedbfa93b1ba28c141d7f4b26ce687b1990c9e
+kind: change
+machine_hash: dba6262047a2978162bac5a011cd4a1952dfdc47e62ebc83897d559cf3210dd1
 product: cursor
 product_name: Cursor
 record:
@@ -30,8 +31,9 @@ record:
   evidence:
   - quote: Better support for extensions (specifically re-enables the welcomeView)
     source_release: https://cursor.com/changelog/0-2-37
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: better-support-for-extensions-specifically-re-enables-the-welcomeview
@@ -43,10 +45,10 @@ record:
   title: Better support for extensions (specifically re-enables the welcomeView)
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-06-09-you-can-now-have-the-ai-read-documentation-on-your-behalf-this-will-improve-it-s|Have
-  the AI read documentation on your behalf!]]'
-- '[[Changes/Cursor/2023-06-16-we-ve-added-support-for-using-your-azure-openai-credentials-also-small-improveme|Cursor
-  adds support for using your Azure OpenAI credentials]]'
+- '[[Changes/Cursor/2023-06-09-you-can-now-have-the-ai-read-documentation-on-your-behalf-this-will-improve-it-s|Show
+  the AI documentation]]'
+- '[[Changes/Cursor/2023-06-16-we-ve-added-support-for-using-your-azure-openai-credentials-also-small-improveme|Azure
+  Support]]'
 - '[[Changes/Cursor/2023-06-27-cursor-deep-linking-works-now-so-you-should-be-able-to-log-in-to-extensions|cursor://
   deep linking works now, so you should be able to log in to extensions]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-27-0-2-37-https-cursor-com-changelog-0-2-37-335b554a|cursor-2023-06-27-0-2-37-https-cursor-com-changelog-0-2-37-335b554a]]'
@@ -84,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

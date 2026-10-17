@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 17451e17b8f6e90d77c1b44b2a87ff06cd910943cdbc4525529ad6271510aeb5
+machine_hash: 60ded90d121ac65cca46379a49fda10955bc10b34450d357e41d650719571d9a
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   a regression in 2.1.290 where cloud sessions could drop answers to permission…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d|claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed Claude being told to continue or message subagents with SendMessage…
 type: change

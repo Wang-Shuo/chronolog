@@ -3,7 +3,7 @@ changes_count: 1
 date: '2024-03-01'
 description: 'Cursor release Polish on 2024-03-01: 1 tracked change across Interface
   Experience'
-machine_hash: 6ecf99b1ba861f1a9163ef5fb7041aaac927b81242897708009b3bcbfb8dedac
+machine_hash: 479abd9c0d38fc104c56fb1a90da2e2195a930e9cf088f38cc6e4152108fa2fb
 product: cursor
 product_name: Cursor
 record:
@@ -40,10 +40,10 @@ version: 0.29.x
 <!-- chronolog:begin region="summary" -->
 AI Notes enabled by default (hold shift on any symbol), better in-editor chat, auto-execute interpreter mode, better onboarding styling, nicer feedback modal, and a few stability fixes.
 
-Tracked 1 of 2 candidate lines.
+Tracked 1 card from 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|AI Notes enabled by default (hold shift on any symbol), better in-editor chat…]] · Interface Experience
+- [[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|Polish]] · Interface Experience
 <!-- chronolog:end -->

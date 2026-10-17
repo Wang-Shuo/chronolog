@@ -4,8 +4,8 @@ date: '2023-05-17'
 description: 'Cursor · 2023-05-17 · Apps and Integrations: You can Pin custom extensions
   to your activity bar in the top left'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 55
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 65b39739740a50b28e35d94b348871ad83104ad3627e5d95da824c53d444a5ef
+kind: launch
+machine_hash: 065440d9c1183bc9864af21154676dc58fb8f40d8745c372c042fa9117359f70
 product: cursor
 product_name: Cursor
 record:
@@ -28,17 +29,18 @@ record:
   evidence:
   - quote: You can Pin custom extensions to your activity bar in the top left
     source_release: https://cursor.com/changelog/0-2-16
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: you-can-pin-custom-extensions-to-your-activity-bar-in-the-top-left
+  slug: activity-bar-pinning
   source_release: cursor-2023-05-17-0-2-16-https-cursor-com-changelog-0-2-16-e0618ec3
   source_type: cursor_changelog
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: You can Pin custom extensions to your activity bar in the top left
+  title: Activity Bar pinning
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-05-04-one-click-extension-import-from-vs-code-beta-as-a-highly-requested-feature-we-re|One-Click
@@ -50,14 +52,14 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-05-17-0-2-16-https-cursor-com-changelog-0-2-16-e0618ec3|cursor-2023-05-17-0-2-16-https-cursor-com-changelog-0-2-16-e0618ec3]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: You can Pin custom extensions to your activity bar in the top left
+title: Activity Bar pinning
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# You can Pin custom extensions to your activity bar in the top left
+# Activity Bar pinning
 
-**Cursor** · 2023-05-17 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://cursor.com/changelog/0-2-16) · from [[Releases/Cursor/cursor-2023-05-17-0-2-16-https-cursor-com-changelog-0-2-16-e0618ec3|Terminal Debugger, and our biggest bug bash yet]]
+**Cursor** · 2023-05-17 · [[Themes/apps-integrations|Apps and Integrations]] · Launch · [Official source](https://cursor.com/changelog/0-2-16) · from [[Releases/Cursor/cursor-2023-05-17-0-2-16-https-cursor-com-changelog-0-2-16-e0618ec3|Terminal Debugger, and our biggest bug bash yet]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -69,22 +71,24 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2023-05-17-press-cmd-shift-l-and-the-model-will-add-the-terminal-context-to-chat|Press Cmd+Shift+L, and the model will add the terminal context to chat]] · Context Window
-- [[Changes/Cursor/2023-05-17-context-ingestion-across-a-full-notebook|Context ingestion across a full notebook]] · Context Window
-- [[Changes/Cursor/2023-05-17-press-cmd-d-to-auto-debug-a-terminal-error|Press Cmd+D to auto-debug a terminal error]] · Developer Workflow
+- [[Changes/Cursor/2023-05-17-better-jupyter-support|Better Jupyter Support]] · Context Window
+- [[Changes/Cursor/2023-05-17-a-better-cursor-tutor-onboarding|A better Cursor Tutor onboarding!]] · Interface Experience
+- [[Changes/Cursor/2023-05-17-diff-generate-improvements|Diff/Generate improvements]] · Editor Experience
+- [[Changes/Cursor/2023-05-17-remote-ssh-is-easier-to-use|Remote SSH is easier to use!]] · Developer Workflow
+- [[Changes/Cursor/2023-05-17-in-terminal-debugging-f140b2|In-terminal Debugging]] · Developer Workflow
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
 - Earlier: 2023-05-12 · ChatGPT · [[Changes/ChatGPT/2023-05-12-in-the-plugins-dropdown-click-plugin-store-to-install-and-enable-new-plugins|In the “Plugins” dropdown, click “Plugin Store” to install and enable new plugins]]
-- Later: 2023-06-09 · Cursor · [[Changes/Cursor/2023-06-09-you-can-now-have-the-ai-read-documentation-on-your-behalf-this-will-improve-it-s|Have the AI read documentation on your behalf!]]
+- Later: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|Bing Plugin]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

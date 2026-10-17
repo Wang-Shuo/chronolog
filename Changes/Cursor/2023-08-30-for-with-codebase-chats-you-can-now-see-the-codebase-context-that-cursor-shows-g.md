@@ -5,8 +5,8 @@ description: 'Cursor · 2023-08-30 · Context Window: For "with codebase" chats,
   can now see the codebase context that Cursor shows GPT-4. We hope this will make
   it easier…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
-    prompt length for project generation]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 118
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 238af133424c6a4abcfbe58a9fbc8189dc85c2c0500b0d784205c4dd85bb8904
+kind: change
+machine_hash: 39cd43c6663ebda9efdad80276d575241d5dc192948aeffbf6ed10dd2429b73e
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +32,9 @@ record:
   - quote: For "with codebase" chats, you can now see the codebase context that Cursor
       shows GPT-4. We hope this will make it easier to prompt codebase answers.
     source_release: https://cursor.com/changelog/0-9-0
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: for-with-codebase-chats-you-can-now-see-the-codebase-context-that-cursor-shows-g
@@ -57,8 +59,8 @@ related_changes:
   chat messages to "with codebase" will keep the codebase context]]'
 - '[[Changes/Cursor/2023-08-22-if-you-reference-a-long-file-that-will-be-cutoff-by-the-context-limit-you-ll-be|If
   you @ reference a long file that will be cutoff by the context limit, you''ll…]]'
-- '[[Changes/Cursor/2023-08-26-have-the-advanced-context-button-show-up-for-non-git-repos|Have
-  the advanced context button show up for non git repos]]'
+- '[[Changes/Cursor/2023-08-26-have-the-advanced-context-button-show-up-for-non-git-repos|Advanced
+  Button]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-30-0-9-0-https-cursor-com-changelog-0-9-0-1c913df4|cursor-2023-08-30-0-9-0-https-cursor-com-changelog-0-9-0-1c913df4]]'
 source_type: cursor_changelog
 theme: context-window
@@ -89,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2023-08-26 · Cursor · [[Changes/Cursor/2023-08-26-have-the-advanced-context-button-show-up-for-non-git-repos|Have the advanced context button show up for non git repos]]
-- Later: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-you-can-also-paste-a-url-into-the-chat-and-the-model-will-automatically-include|You can also paste a url into the chat and the model will automatically include…]]
+- Earlier: 2023-08-26 · Cursor · [[Changes/Cursor/2023-08-26-have-the-advanced-context-button-show-up-for-non-git-repos|Advanced Button]]
+- Later: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-long-files-in-chat|Long files in chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

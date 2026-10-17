@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d06dcd6908a840ee7776ac741b388f1020e71d8ab1433f6c6e1745679397c040
+machine_hash: d40503c76107815e4ab321778abec28e212bdb4d8b26aac0428926135e15757d
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   agents session rows now show pull-request links as bare ♯N without…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-10-v2-1-206-github-351694341-0226036e|claude-code-2026-07-10-v2-1-206-github-351694341-0226036e]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: EnterWorktree now asks for confirmation before entering a git worktree outside…
 type: change

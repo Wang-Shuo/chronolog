@@ -4,8 +4,8 @@ date: '2026-01-16'
 description: 'Claude Code · 2026-01-16 · Agent Mode: Added `plansDirectory` setting
   to customize where plan files are stored'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 925
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 4e6396c58a8ccdc630c2a095ed0bbebeda8ecfe1b1755e307423d72976a7f2a4
+kind: change
+machine_hash: fb5d469fdc5899f54eda7682f4c6dc7a8a0b66cbad843672627a7def3345514a
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Added `plansDirectory` setting to customize where plan files are stored
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.9
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-plansdirectory-setting-to-customize-where-plan-files-are-stored
@@ -41,8 +43,8 @@ record:
   title: Added `plansDirectory` setting to customize where plan files are stored
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-22-this-includes-the-core-agent-layout-controls-viewing-code-diffs-and-more-we-will|This
-  includes the core agent, layout controls, viewing code diffs, and more]]'
+- '[[Changes/Claude Code/2026-01-09-added-agent-type-to-sessionstart-hook-input-populated-if-agent-is-specified|Added
+  agent_type to SessionStart hook input, populated if --agent is specified]]'
 - '[[Changes/Claude Code/2026-01-11-added-claude-code-disable-background-tasks-environment-variable-to-disable-all-b|Added
   CLAUDE_CODE_DISABLE_BACKGROUND_TASKS environment variable to disable all…]]'
 - '[[Changes/Claude Code/2026-01-14-added-inline-display-of-agent-s-final-response-in-task-notifications-making-it-e|Added
@@ -79,13 +81,13 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-01-14 · Claude Code · [[Changes/Claude Code/2026-01-14-added-inline-display-of-agent-s-final-response-in-task-notifications-making-it-e|Added inline display of agent's final response in task notifications, making…]]
-- Later: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-push-your-local-conversation-to-a-cloud-agent-and-let-it-keep-running-while-you|Push your local conversation to a Cloud Agent and let it keep running while you're away]]
+- Later: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-push-your-local-conversation-to-a-cloud-agent-and-let-it-keep-running-while-you|Handoff to Cloud Agents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

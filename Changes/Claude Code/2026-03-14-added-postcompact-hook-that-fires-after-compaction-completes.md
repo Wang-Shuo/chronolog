@@ -4,8 +4,8 @@ date: '2026-03-14'
 description: 'Claude Code · 2026-03-14 · Context Window: Added `PostCompact` hook
   that fires after compaction completes'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
-    prompt length for project generation]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1045
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: dd017aa748f5167eb4d7acdba68b8209398f15420fbe98db510b4c3025a43306
+kind: change
+machine_hash: 4274fe924de8577813dc1b5b809d06cccf3b2bca67c0022cacb83f7c2fd5df83
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Added `PostCompact` hook that fires after compaction completes
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.76
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-postcompact-hook-that-fires-after-compaction-completes
@@ -41,12 +43,12 @@ record:
   title: Added `PostCompact` hook that fires after compaction completes
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-25-ad-hoc-text-sources-paste-notes-briefs-or-reference-material-directly-to-capture|Ad-hoc
-  text sources]]'
-- '[[Changes/ChatGPT/2026-02-25-projects-now-make-it-easy-to-build-a-living-knowledge-base-by-adding-sources-whe|Projects
-  now make it easy to build a living knowledge base by adding sources…]]'
-- '[[Changes/ChatGPT/2026-03-05-gpt-5-4-brings-together-the-best-of-our-recent-advances-in-reasoning-coding-and|GPT‑5.4
-  brings together the best of our recent advances in reasoning, coding…]]'
+- '[[Changes/ChatGPT/2026-03-05-gpt-5-4-brings-together-the-best-of-our-recent-advances-in-reasoning-coding-and|GPT-5.4
+  Thinking in ChatGPT]]'
+- '[[Changes/Claude Code/2026-03-05-3-context-window-changes-in-v2-1-69|3 Context
+  Window changes in v2.1.69]]'
+- '[[Changes/Claude Code/2026-03-11-improved-the-remote-control-spawn-mode-selection-prompt-with-better-context|Improved
+  the Remote Control spawn mode selection prompt with better context]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc]]'
 source_type: github_releases
 theme: context-window
@@ -69,23 +71,28 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-03-14-added-new-elicitation-and-elicitationresult-hooks-to-intercept-and-override-resp|Added new Elicitation and ElicitationResult hooks to intercept and override…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-03-14-added-session-quality-survey-enterprise-admins-can-configure-the-sample-rate-via|Added session quality survey]] · Enterprise and Administration
+- [[Changes/Claude Code/2026-03-14-added-effort-slash-command-to-set-model-effort-level|Added /effort slash command to set model effort level]] · Model Support
+- [[Changes/Claude Code/2026-03-14-3-safety-and-privacy-changes-in-v2-1-76|3 Safety and Privacy changes in v2.1.76]] · Safety and Privacy
 - [[Changes/Claude Code/2026-03-14-added-n-name-name-cli-flag-to-set-a-display-name-for-the-session-at-startup|Added -n / --name name CLI flag to set a display name for the session at startup]] · Projects and Workspaces
-- [[Changes/Claude Code/2026-03-14-added-mcp-elicitation-support-mcp-servers-can-now-request-structured-input-mid-t|Added MCP elicitation support]] · Apps and Integrations
-- [[Changes/Claude Code/2026-03-14-added-worktree-sparsepaths-setting-for-claude-worktree-in-large-monorepos-to-che|Added worktree.sparsePaths setting for claude --worktree in large monorepos…]] · Developer Workflow
+- [[Changes/Claude Code/2026-03-14-improved-voice-to-show-your-dictation-language-on-enable-and-warn-when-your-lang|Improved /voice to show your dictation language on enable and warn…]] · Voice and Audio
+- [[Changes/Claude Code/2026-03-14-4-developer-workflow-changes-in-v2-1-76|4 Developer Workflow changes in v2.1.76]] · Developer Workflow
+- [[Changes/Claude Code/2026-03-14-improved-background-agent-behavior-killing-a-background-agent-now-preserves-its|Improved background agent behavior]] · Agent Mode
+- [[Changes/Claude Code/2026-03-14-improved-model-fallback-notifications-now-always-visible-instead-of-hidden-behin|Improved model fallback notifications]] · Model Support
+- [[Changes/Claude Code/2026-03-14-4-apps-and-integrations-changes-in-v2-1-76|4 Apps and Integrations changes in v2.1.76]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-03-05 · ChatGPT · [[Changes/ChatGPT/2026-03-05-gpt-5-4-brings-together-the-best-of-our-recent-advances-in-reasoning-coding-and|GPT‑5.4 brings together the best of our recent advances in reasoning, coding…]]
-- Later: 2026-03-25 · ChatGPT · [[Changes/ChatGPT/2026-03-25-starting-today-for-chatgpt-plus-pro-and-business-users-long-pastes-are-handled-d|Starting today for ChatGPT Plus, Pro, and Business users, long pastes are handled…]]
+- Earlier: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-improved-the-remote-control-spawn-mode-selection-prompt-with-better-context|Improved the Remote Control spawn mode selection prompt with better context]]
+- Later: 2026-03-20 · Claude Code · [[Changes/Claude Code/2026-03-20-changed-plan-mode-to-hide-the-clear-context-option-by-default-restore-with-showc|Changed plan mode to hide the "clear context" option by default…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

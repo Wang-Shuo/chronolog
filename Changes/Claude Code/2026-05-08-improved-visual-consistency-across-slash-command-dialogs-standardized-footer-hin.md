@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 986dae0864ea590c272539095b9cb43e0961a2a393419c97f7de5471d8f7c47e
+machine_hash: aaf7f98290bea641effdc7f8ec14c9e3ffd93efc063cbd66ba0bc2fb51f5c1d0
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   introduces a new PR review experience, faster execution on plans through…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-08-v2-1-136-github-319609716-58f21368|claude-code-2026-05-08-v2-1-136-github-319609716-58f21368]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Improved visual consistency across slash command dialogs
 type: change

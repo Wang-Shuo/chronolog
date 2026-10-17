@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-01-30'
 description: 'ChatGPT release More visual responses on 2026-01-30: 1 tracked change
   across Interface Experience'
-machine_hash: e896cc98a677ca3b1133976fa361ad05d4401bb99e6f62e784bff729234d6ec4
+machine_hash: 4e488532371b8935b63e410d6e96f7e0203e8cc55ea43c6de8264bd4df9a3d7c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: More visual responses
 <!-- chronolog:begin region="summary" -->
 Responses in ChatGPT are now more visual and easier to scan.For everyday questions, responses may include at-a-glance visuals—like checking your team’s latest stats, converting units, or doing a quick calculation.Answers now also highlight important people, places, products, and ideas. You can tap any highlight to open…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-01-30-responses-in-chatgpt-are-now-more-visual-and-easier-to-scan-for-everyday-questio|Responses in ChatGPT are now more visual and easier to scan]] · Interface Experience
+- [[Changes/ChatGPT/2026-01-30-responses-in-chatgpt-are-now-more-visual-and-easier-to-scan-for-everyday-questio|More visual responses]] · Interface Experience
 <!-- chronolog:end -->

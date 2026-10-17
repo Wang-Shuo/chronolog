@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-04-22'
 description: 'ChatGPT release ChatGPT for Clinicians on 2026-04-22: 1 tracked change
   across Account and Access'
-machine_hash: a57149851277c7afa194e908c9de4c1f68b4d35ecdbd910e7e392422c7572da6
+machine_hash: 0dc190a25f5af49fa3d89d9c6e400b8f1371fcb02b316e52c2981ba3c83b9c0f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: ChatGPT for Clinicians
 <!-- chronolog:begin region="summary" -->
 We’re launching ChatGPT for Clinicians, a free version of ChatGPT for verified clinicians in the United States. It’s designed to support real clinical work at the time of care, including evidence review, documentation, and medical research, with trusted clinical search, citations, reusable skills, deep research across…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-04-22-we-re-launching-chatgpt-for-clinicians-a-free-version-of-chatgpt-for-verified-cl|ChatGPT launches ChatGPT for Clinicians, a free version of ChatGPT for verified…]] · Account and Access
+- [[Changes/ChatGPT/2026-04-22-we-re-launching-chatgpt-for-clinicians-a-free-version-of-chatgpt-for-verified-cl|ChatGPT for Clinicians]] · Account and Access · Launch
 <!-- chronolog:end -->

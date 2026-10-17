@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: c94fa5f1f4719fbdaf3b61af768935150a56939f932e3cb3b27a426c2d34ff33
+kind: change
+machine_hash: 27779ab8bc7eb104e143c9a5a08740ba2767d27a0dcf270dbfb0d54cb893911f
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
   - quote: Merged slash commands and skills, simplifying the mental model with no
       change in behavior
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.3
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: merged-slash-commands-and-skills-simplifying-the-mental-model-with-no-change-in
@@ -43,12 +45,12 @@ record:
     in behavior
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-21-chatgpt-now-adds-more-inline-images-from-the-web-to-help-you-quickly-understand-83e5b8|ChatGPT
-  now adds more inline images from the web to help you quickly understand…]]'
-- '[[Changes/Cursor/2025-12-10-cursor-instruments-your-app-with-runtime-logs-to-find-the-root-cause-it-works-ac|Cursor
-  instruments your app with runtime logs to find the root cause]]'
+- '[[Changes/ChatGPT/2025-11-21-chatgpt-now-adds-more-inline-images-from-the-web-to-help-you-quickly-understand-83e5b8|More
+  images in answers]]'
 - '[[Changes/ChatGPT/2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-series-gpt-5-2-is-sm|Today,
   we’re releasing GPT-5.2, the next upgrade to the GPT-5 series]]'
+- '[[Changes/Cursor/2026-01-08-use-the-new-agent-models-command-list-models-flag-or-models-slash-command-to-lis|Model
+  list and selection]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-3-github-275638643-101f767c|claude-code-2026-01-09-v2-1-3-github-275638643-101f767c]]'
 source_type: github_releases
 theme: model-support
@@ -72,16 +74,15 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-01-09-added-release-channel-stable-or-latest-toggle-to-config|Added release channel (stable or latest) toggle to /config]] · Interface Experience
+- [[Changes/Claude Code/2026-01-09-2-interface-experience-changes-in-v2-1-3|2 Interface Experience changes in v2.1.3]] · Interface Experience
 - [[Changes/Claude Code/2026-01-09-improved-slash-command-suggestion-readability-by-truncating-long-descriptions-to|Improved slash command suggestion readability by truncating long descriptions to 2 lines]] · Developer Workflow
-- [[Changes/Claude Code/2026-01-09-improved-terminal-rendering-stability-by-preventing-uncontrolled-writes-from-cor|Improved terminal rendering stability by preventing uncontrolled writes…]] · Interface Experience
-- [[Changes/Claude Code/2026-01-09-added-detection-and-warnings-for-unreachable-permission-rules-with-warnings-in-d|Added detection and warnings for unreachable permission rules, with warnings…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-01-09-2-safety-and-privacy-changes-in-v2-1-3|2 Safety and Privacy changes in v2.1.3]] · Safety and Privacy
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-12-11 · ChatGPT · [[Changes/ChatGPT/2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-series-gpt-5-2-is-sm|Today, we’re releasing GPT-5.2, the next upgrade to the GPT-5 series]]
+- Earlier: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-use-the-new-agent-models-command-list-models-flag-or-models-slash-command-to-lis|Model list and selection]]
 - Later: 2026-01-16 · Claude Code · [[Changes/Claude Code/2026-01-16-added-support-for-pretooluse-hooks-to-return-additionalcontext-to-the-model|Added support for PreToolUse hooks to return additionalContext to the model]]
 <!-- chronolog:end -->
 

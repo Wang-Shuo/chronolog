@@ -4,8 +4,8 @@ date: '2026-07-08'
 description: 'Claude Code · 2026-07-08 · Context Window: Improved auto mode to ask
   before running `rm -rf` on a variable it can''t resolve from context'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
-    prompt length for project generation]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1161
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 2662ccd2d7a232349c0d8e2af91571f652e0d6992c5dde802928c6ae2067bedf
+kind: change
+machine_hash: 2fa80f7db3fe5ba092351898f3cae1be7b4ac79ea3131ac4d31dee0eb0312dca
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Improved auto mode to ask before running `rm -rf` on a variable it can't
       resolve from context
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.205
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-auto-mode-to-ask-before-running-rm-rf-on-a-variable-it-can-t-resolve-fr
@@ -51,12 +53,12 @@ record:
     resolve…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-08-added-cd-command-to-move-a-session-to-a-new-working-directory-without-breaking-t|Added
-  /cd command to move a session to a new working directory without breaking…]]'
-- '[[Changes/Claude Code/2026-06-12-vscode-added-usage-attribution-to-the-account-usage-dialog-usage-showing-cache-m|VSCode
-  Added usage attribution to the Account & usage dialog (/usage) showing…]]'
-- '[[Changes/ChatGPT/2026-06-22-starting-today-for-chatgpt-free-and-go-users-long-pastes-are-handled-differently|Starting
-  today for ChatGPT Free and Go users, long pastes are handled differently…]]'
+- '[[Changes/ChatGPT/2026-06-22-starting-today-for-chatgpt-free-and-go-users-long-pastes-are-handled-differently|Large
+  pastes are now handled as attachments for more plans]]'
+- '[[Changes/Claude Code/2026-06-22-bash-commands-now-trigger-claude-to-respond-to-the-output-automatically-set-resp|!
+  bash commands now trigger Claude to respond to the output automatically]]'
+- '[[Changes/Claude Code/2026-07-01-subagents-and-context-compaction-now-inherit-the-session-s-extended-thinking-con|Subagents
+  and context compaction now inherit the session''s extended thinking…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba|claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba]]'
 source_type: github_releases
 theme: context-window
@@ -79,8 +81,8 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-07-08-added-an-auto-mode-rule-that-blocks-tampering-with-session-transcript-files|Added an auto mode rule that blocks tampering with session transcript files]] · Agent Mode
-- [[Changes/Claude Code/2026-07-08-improved-agent-view-sessions-that-edit-merge-comment-on-or-push-to-an-existing-p|Improved agent view]] · Agent Mode
+- [[Changes/Claude Code/2026-07-08-reserved-the-claude-browser-mcp-server-name-alongside-claude-preview-ahead-of-th|Reserved the "Claude Browser" MCP server name (alongside "Claude Preview") ahead…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-07-08-3-agent-mode-changes-in-v2-1-205|3 Agent Mode changes in v2.1.205]] · Agent Mode
 - [[Changes/Claude Code/2026-07-08-auto-update-binary-downloads-now-stream-to-disk-instead-of-buffering-in-memory-c|Auto-update binary downloads now stream to disk instead of buffering in memory…]] · Reliability and Performance
 - [[Changes/Claude Code/2026-07-08-background-task-notifications-now-explicitly-state-that-no-human-input-has-occur|Background task notifications now explicitly state that no human input has occurred…]] · Safety and Privacy
 <!-- chronolog:end -->
@@ -88,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-06-22 · ChatGPT · [[Changes/ChatGPT/2026-06-22-starting-today-for-chatgpt-free-and-go-users-long-pastes-are-handled-differently|Starting today for ChatGPT Free and Go users, long pastes are handled differently…]]
-- Later: 2026-07-10 · Cursor · [[Changes/Cursor/2026-07-10-each-side-chat-is-a-durable-full-agent-conversation-that-you-can-follow-up-on-re|Each side chat is a durable, full agent conversation that you can follow up…]]
+- Earlier: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-subagents-and-context-compaction-now-inherit-the-session-s-extended-thinking-con|Subagents and context compaction now inherit the session's extended thinking…]]
+- Later: 2026-07-10 · Cursor · [[Changes/Cursor/2026-07-10-side-chats|Side chats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

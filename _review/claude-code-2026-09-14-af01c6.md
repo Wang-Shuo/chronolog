@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: 7a0e8f1a73ba036135608c92d964ec880c7d404e07ef18b0016671fdac6f8857
+machine_hash: 4021d8490bcaf2683eca634abf63914a5652b4e54f939e2383f1588dfd6a2ff0
 product: claude-code
 record:
   card_id: claude-code-2026-09-14-af01c6
@@ -14,8 +14,9 @@ record:
       runners): the host''s fast-mode setting or `/fast` typed in the session applies
       where your organization allows it'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.271
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-fast-mode-in-claude-code-remote-sessions-cloud-and-self-hosted-runners-the

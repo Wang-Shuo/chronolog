@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 411216d934f0ab8f8f96bc8626d8c38938d6d45780fe0816e59cedf5ee0fb877
+machine_hash: f5e6685bee2fd802d2b5795e740d1afbdfa96ce480567d68e582d22ee9b78a7a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -74,6 +74,7 @@ related_changes:
   any text in the memory summary to make a specific correction]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-12-additional-controls-for-memory-summary-37c89b72|chatgpt-2026-06-12-additional-controls-for-memory-summary-37c89b72]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: memory
 title: Delete the memories shown on your memory summary page and turn memory off…
 type: change

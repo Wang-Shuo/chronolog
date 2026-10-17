@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 0b49f8ad03f37df11f8f86ae66053ed4970dabc207da58cff9b62ab019eb5703
+kind: change
+machine_hash: e08629069da6c109c0737342a2764316cebc421ff6d10ba3a978fe1921833acd
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Prompt history no longer records consecutive duplicate entries — recalling
       a prompt with arrow-up and submitting it again won't add another copy
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.147
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: prompt-history-no-longer-records-consecutive-duplicate-entries-recalling-a-promp
@@ -43,10 +45,9 @@ record:
   title: Prompt history no longer records consecutive duplicate entries
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-enter-and-exit-full-screen-by-clicking-on-the-expand-contract-button-in-the-pane|Enter
-  and exit full screen by clicking on the expand/contract button in the panel…]]'
-- '[[Changes/Claude Code/2026-05-19-status-line-json-input-now-includes-github-repo-and-pr-information-when-detected|Status
-  line JSON input now includes GitHub repo and PR information when detected]]'
+- '[[Changes/Cursor/2026-05-13-full-screen-tabs-faa5d2|Full-screen tabs]]'
+- '[[Changes/Claude Code/2026-05-19-2-interface-experience-changes-in-v2-1-145|2 Interface
+  Experience changes in v2.1.145]]'
 - '[[Changes/Claude Code/2026-05-19-model-now-changes-the-model-for-the-current-session-only-press-d-in-the-model-pi|/model
   now changes the model for the current session only]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd|claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd]]'
@@ -71,9 +72,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-05-21-improved-diff-rendering-performance-for-large-file-edits|Improved diff rendering performance for large file edits]] · Reliability and Performance
-- [[Changes/Claude Code/2026-05-21-improved-auto-updater-retries-transient-network-failures-reports-specific-error|Improved auto-updater: retries transient network failures, reports specific error…]] · Reliability and Performance
-- [[Changes/Claude Code/2026-05-21-pinned-background-sessions-ctrl-t-in-claude-agents-now-stay-alive-when-idle-are|Pinned background sessions (Ctrl+T in claude agents) now stay alive when idle…]] · Reliability and Performance
+- [[Changes/Claude Code/2026-05-21-3-reliability-and-performance-changes-in-v2-1-147|3 Reliability and Performance changes in v2.1.147]] · Reliability and Performance
 - [[Changes/Claude Code/2026-05-21-renamed-simplify-to-code-review-it-now-reports-correctness-bugs-at-a-chosen-effo|Renamed /simplify to /code-review]] · Developer Workflow
 <!-- chronolog:end -->
 

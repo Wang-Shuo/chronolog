@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 795b099577ec29b6640104daf1e7756429b8ad6d71abf0f517f7d829798981c8
+machine_hash: 1975a003d6def7939786d5036c1761c3033f54b420fdc3132ad65642751dc56c
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   --plugin-dir so local dev copies now override installed marketplace…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added new Elicitation and ElicitationResult hooks to intercept and override…
 type: change

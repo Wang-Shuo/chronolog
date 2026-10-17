@@ -5,19 +5,20 @@ description: 'ChatGPT · 2025-12-16 · Image Generation: We’ve introduced a ne
   improved version of ChatGPT Images, powered by our best image generation model yet.
   With…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The
-    store features a diverse range of GPTs developed by our partners and the community]]'
+  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
+    3 for ChatGPT Free users]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 706
+  lag_days: 495
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: c08e899a75c0e2bd6f19a9d4ddc9c0d468d533ce08974904865903b8cb866bd2
+kind: change
+machine_hash: 9f4741871f0b057b7d0ed2ea8ae84fd98a27b8116d8eeb55d732c9084cd098f9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,8 +47,9 @@ record:
       Images FAQ.Available on Free, Go, Plus, Edu, and Pro plans. Business and Enterprise
       are coming soon!
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes
@@ -71,8 +73,7 @@ record:
     - browse
     score: 50
     theme: search-browsing
-  title: We’ve introduced a new and improved version of ChatGPT Images, powered by
-    our best…
+  title: ChatGPT Images on Web and Mobile (iOS & Android)
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-10-14-more-messages-larger-file-uploads-and-expanded-image-generation|More
@@ -84,13 +85,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-16-chatgpt-images-on-web-and-mobile-ios-android-bd6b2208|chatgpt-2025-12-16-chatgpt-images-on-web-and-mobile-ios-android-bd6b2208]]'
 source_type: chatgpt_changelog
 theme: image-generation
-title: We’ve introduced a new and improved version of ChatGPT Images, powered by our
-  best…
+title: ChatGPT Images on Web and Mobile (iOS & Android)
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We’ve introduced a new and improved version of ChatGPT Images, powered by our best…
+# ChatGPT Images on Web and Mobile (iOS & Android)
 
 **ChatGPT** · 2025-12-16 · [[Themes/image-generation|Image Generation]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-12-16-chatgpt-images-on-web-and-mobile-ios-android-bd6b2208|ChatGPT Images on Web and Mobile (iOS & Android)]]
 <!-- chronolog:end -->
@@ -109,13 +109,13 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2025-10-30 · ChatGPT · [[Changes/ChatGPT/2025-10-30-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
-- Later: 2026-04-21 · ChatGPT · [[Changes/ChatGPT/2026-04-21-we-re-introducing-chatgpt-images-2-0-our-new-image-generation-model-in-chatgpt-c|ChatGPT introduces ChatGPT Images 2.0, our new image generation model]]
+- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-image-generation|Image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The store features a diverse range of GPTs developed by our partners and the community]]
+- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 8b4dd8d3a63140e01c9c44eb9729dfba836dd5b1905dff5b6e3e351f818b1e5d
+kind: change
+machine_hash: 9cb6ac17f5c5e2fb171841c41483a7be16d09d99e35c5a7a408642cde5ae0084
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Gemini 1.5 Flash is available in long-context mode
     source_release: https://cursor.com/changelog/0-34-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: gemini-1-5-flash-is-available-in-long-context-mode
@@ -50,12 +52,12 @@ record:
   title: Gemini 1.5 Flash is available in long-context mode
   type: change
 related_changes:
+- '[[Changes/Cursor/2024-03-20-stable-claude-support-all-the-newest-claude-models-are-available-for-pro-and-api|Stable
+  Claude Support]]'
 - '[[Changes/Cursor/2024-04-12-new-gpt-4-model-as-of-a-couple-of-days-ago-you-can-try-out-gpt-4-turbo-2024-04-0|New
   GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09…]]'
-- '[[Changes/ChatGPT/2024-05-13-gpt-4o-is-our-newest-flagship-model-that-provides-gpt-4-level-intelligence-that-297427|GPT-4o
-  is our newest flagship model that provides GPT-4-level intelligence…]]'
-- '[[Changes/ChatGPT/2024-05-16-data-analysis-improvements-are-available-in-our-new-flagship-model-gpt-4o-for-ch|Data
-  analysis improvements are available in our new flagship model, GPT-4o…]]'
+- '[[Changes/ChatGPT/2024-05-13-gpt-4o-is-our-newest-flagship-model-that-provides-gpt-4-level-intelligence-that-297427|Introducing
+  GPT-4o]]'
 source_release: '[[Releases/Cursor/cursor-2024-05-26-0-34-x-https-cursor-com-changelog-0-34-x-a468f0bc|cursor-2024-05-26-0-34-x-https-cursor-com-changelog-0-34-x-a468f0bc]]'
 source_type: cursor_changelog
 theme: model-support
@@ -78,16 +80,15 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2024-05-26-merges-vs-code-1-89-into-cursor|Merges VS Code 1.89 into Cursor]] · Editor Experience
-- [[Changes/Cursor/2024-05-26-new-cursor-prediction-ui|New Cursor Prediction UI]] · Editor Experience
-- [[Changes/Cursor/2024-05-26-better-performance-of-copilot-on-linter-errors|Better performance of Copilot++ on linter errors]] · Editor Experience
-- [[Changes/Cursor/2024-05-26-accept-partial-completions-with-copilot|Accept partial completions with Copilot++]] · Editor Experience
+- [[Changes/Cursor/2024-05-26-merges-vs-code-1-89-into-cursor-38031f|Merges VS Code 1.89 into Cursor]] · Editor Experience
+- [[Changes/Cursor/2024-05-26-gpt-4o-in-interpreter-mode|GPT-4o in Interpreter Mode]] · Model Support
+- [[Changes/Cursor/2024-05-26-accept-partial-completions-with-copilot-ce6049|Accept partial completions with Copilot++]] · Editor Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-05-16 · ChatGPT · [[Changes/ChatGPT/2024-05-16-data-analysis-improvements-are-available-in-our-new-flagship-model-gpt-4o-for-ch|Data analysis improvements are available in our new flagship model, GPT-4o…]]
+- Earlier: 2024-05-13 · ChatGPT · [[Changes/ChatGPT/2024-05-13-gpt-4o-is-our-newest-flagship-model-that-provides-gpt-4-level-intelligence-that-297427|Introducing GPT-4o]]
 - Later: 2024-06-08 · Cursor · [[Changes/Cursor/2024-06-08-update-0-35-1-disables-copilot-partial-accepts-by-default-and-makes-the-keybindi|UPDATE (0.35.1): Disables Copilot++ partial accepts by default and makes…]]
 <!-- chronolog:end -->
 

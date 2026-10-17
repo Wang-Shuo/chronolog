@@ -5,19 +5,19 @@ description: 'Cursor · 2026-10-13 · Collaboration: Starting today, the marketp
   is also open to public submissions, so any team building developer tools can publish
   an…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
-    can also share private docs]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1131
+  lag_days: 1238
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 47fefbf44847e8ef2b022e5e2b9599a66dcb16bff88cb25325e6fcaba3930bba
+kind: change
+machine_hash: cc936060660aca1e6b5df69f99eca8bc1bdbddf4e9f6296f0b1a54044da9a72c
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +31,9 @@ record:
   - quote: Starting today, the marketplace is also open to public submissions, so
       any team building developer tools can publish an app for Origin.
     source_release: https://cursor.com/changelog/origin-app-marketplace
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: starting-today-the-marketplace-is-also-open-to-public-submissions-so-any-team-bu
@@ -53,12 +54,12 @@ record:
     team…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-17-chatgpt-for-word-is-available-on-all-chatgpt-plans-including-free-your-plan-s-to|ChatGPT
-  for Word is available on all ChatGPT plans, including Free]]'
-- '[[Changes/ChatGPT/2026-09-29-space-brings-your-pages-files-and-related-work-together-in-chatgpt-create-a-spac|Space
-  brings your Pages, files, and related work together in ChatGPT]]'
-- '[[Changes/ChatGPT/2026-09-29-your-chatgpt-profile-now-brings-together-your-bio-activity-and-sites-you-choose|Your
-  ChatGPT profile now brings together your bio, activity, and Sites you choose…]]'
+- '[[Changes/Claude Code/2026-09-28-2-collaboration-changes-in-v2-1-284|2 Collaboration
+  changes in v2.1.284]]'
+- '[[Changes/ChatGPT/2026-09-29-your-chatgpt-profile-now-brings-together-your-bio-activity-and-sites-you-choose-09d5dd|Share
+  your profile and showcase your Sites]]'
+- '[[Changes/ChatGPT/2026-09-29-space-brings-your-pages-files-and-related-work-together-in-chatgpt-create-a-spac|Organize
+  your work in ChatGPT Space]]'
 source_release: '[[Releases/Cursor/cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c|cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -83,19 +84,21 @@ type: change
 ## Also in this release
 
 - [[Changes/Cursor/2026-10-13-origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security|Origin now integrates with over 20 apps for deployments, CI, code review, security…]] · Safety and Privacy
-- [[Changes/Cursor/2026-10-13-the-marketplace-now-includes-apps-for|The marketplace now includes apps for]] · Apps and Integrations
+- [[Changes/Cursor/2026-10-13-2-apps-and-integrations-changes-in-origin-app-marketplace|2 Apps and Integrations changes in Origin App Marketplace]] · Apps and Integrations
+- [[Changes/Cursor/2026-10-13-apps-for-your-stack|Apps for your stack]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-your-chatgpt-profile-now-brings-together-your-bio-activity-and-sites-you-choose|Your ChatGPT profile now brings together your bio, activity, and Sites you choose…]]
+- Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-space-brings-your-pages-files-and-related-work-together-in-chatgpt-create-a-spac|Organize your work in ChatGPT Space]]
+- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-changed-local-session-transcripts-to-also-record-each-api-request-s-system-promp|Changed local session transcripts to also record each API request's system prompt…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

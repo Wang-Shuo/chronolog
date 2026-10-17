@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c4ed67e59b884f0f98a7d6e764a163f0348d8c544f9da3eb56f075e0d5f63f2d
+machine_hash: 4544ccad0c79d262578ea8317cf6e5aa26e3a7b18e1626349f4e3947763773ca
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   the allowClaudeInChromeWithManagedMcp managed setting to let…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8|claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added MCP tool, WebFetch and WebSearch outputs to the tool.output OpenTelemetry…
 type: change

@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 27ab1bb0c759ded987f1de222357da3c38590731a7420a12a129321e60978518
+kind: change
+machine_hash: 36ff8ce81d99d5579d329dfe914c1cb6470aad0b77a6b05edb69b7156ce27f4d
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
   - quote: '`/effort` now confirms when your chosen level will persist as the default
       for new sessions'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.162
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: effort-now-confirms-when-your-chosen-level-will-persist-as-the-default-for-new-s
@@ -45,12 +47,12 @@ record:
     for new sessions'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-28-opus-4-8-is-here-now-defaults-to-high-effort-effort-xhigh-for-your-hardest-tasks|Opus
-  4.8 is here!]]'
-- '[[Changes/Claude Code/2026-05-28-fast-mode-on-opus-4-8-is-now-available-at-a-fraction-of-its-previous-cost-2x-the|Fast
-  mode on Opus 4.8 is now available at a fraction of its previous cost]]'
+- '[[Changes/Claude Code/2026-05-28-model-now-saves-your-selection-as-the-default-for-new-sessions-matching-the-ide|/model
+  now saves your selection as the default for new sessions (matching the IDE)]]'
 - '[[Changes/Claude Code/2026-05-30-auto-mode-is-now-available-on-bedrock-vertex-and-foundry-for-opus-4-7-and-opus-4|Auto
   mode is now available on Bedrock, Vertex, and Foundry for Opus 4.7 and Opus 4.8]]'
+- '[[Changes/Claude Code/2026-06-02-removed-claude-code-opus-4-6-fast-mode-override-the-environment-variable-is-now|Removed
+  CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE; the environment variable is now a no-op]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c|claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c]]'
 source_type: github_releases
 theme: model-support
@@ -74,17 +76,19 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-06-03-2-interface-experience-changes-in-v2-1-162|2 Interface Experience changes in v2.1.162]] · Interface Experience
 - [[Changes/Claude Code/2026-06-03-tools-explicitly-listing-grep-glob-now-provides-the-dedicated-search-tools-on-na|--tools: explicitly listing Grep/Glob now provides the dedicated search tools…]] · Developer Workflow
-- [[Changes/Claude Code/2026-06-03-clicking-a-slash-command-in-the-autocomplete-menu-now-fills-it-into-your-prompt|Clicking a slash command in the autocomplete menu now fills it into your prompt…]] · Interface Experience
-- [[Changes/Claude Code/2026-06-03-claude-agents-json-now-includes-waitingfor-showing-what-a-waiting-session-is-blo|claude agents --json now includes waitingFor showing what a waiting session…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-06-03-quieter-startup-notices-group-by-severity-and-session-info-and-announcements-sha|Quieter startup: notices group by severity, and session info and announcements share…]] · Collaboration
+- [[Changes/Claude Code/2026-06-03-renamed-windsurf-to-devin-desktop-in-the-ide-menu-terminal-setup-and-scroll-spee|Renamed Windsurf to Devin Desktop in the /ide menu, /terminal-setup…]] · Editor Experience
 - [[Changes/Claude Code/2026-06-03-remote-control-now-shows-as-a-persistent-footer-pill-with-a-link-to-the-session|Remote Control now shows as a persistent footer pill (with a link to the session)…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-06-03-4-safety-and-privacy-changes-in-v2-1-162|4 Safety and Privacy changes in v2.1.162]] · Safety and Privacy
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-30 · Claude Code · [[Changes/Claude Code/2026-05-30-auto-mode-is-now-available-on-bedrock-vertex-and-foundry-for-opus-4-7-and-opus-4|Auto mode is now available on Bedrock, Vertex, and Foundry for Opus 4.7 and Opus 4.8]]
-- Later: 2026-06-06 · Claude Code · [[Changes/Claude Code/2026-06-06-added-fallbackmodel-setting-to-configure-up-to-three-fallback-models-tried-in-or|Added fallbackModel setting to configure up to three fallback models tried…]]
+- Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-removed-claude-code-opus-4-6-fast-mode-override-the-environment-variable-is-now|Removed CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE; the environment variable is now a no-op]]
+- Later: 2026-06-06 · Claude Code · [[Changes/Claude Code/2026-06-06-3-model-support-changes-in-v2-1-166|3 Model Support changes in v2.1.166]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

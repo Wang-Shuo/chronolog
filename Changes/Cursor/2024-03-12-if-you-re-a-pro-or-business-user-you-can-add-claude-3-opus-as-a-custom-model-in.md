@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 656c2b1c27eaef965874a03cac65d3afc21c4e0d01266ef0f0050e3af853a73d
+kind: change
+machine_hash: 9a1f6f4fe59762eada46a087043c798041e7ca2ce22a49469be992fb7ceced2e
 product: cursor
 product_name: Cursor
 record:
@@ -33,8 +34,9 @@ record:
       model in the Settings page and use 10 fast requests per day for free (unlimited
       slow, but the delay increases exponentially).
     source_release: https://cursor.com/changelog/claude-support
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in
@@ -43,11 +45,10 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: If you're a Pro or Business user, you can add "claude-3-opus" as a custom
-    model…
+  title: Claude Support
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti|Cursor-Fast
+- '[[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti-bb4c11|Cursor-Fast
   is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…]]'
 - '[[Changes/Cursor/2024-01-18-cursor-fast-this-is-a-new-model-available-in-command-k-and-chat-expect-it-to-be|"cursor-fast":
   This is a new model available in command-k and chat]]'
@@ -56,12 +57,12 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-03-12-claude-support-https-cursor-com-changelog-claude-support-ed1eb90a|cursor-2024-03-12-claude-support-https-cursor-com-changelog-claude-support-ed1eb90a]]'
 source_type: cursor_changelog
 theme: model-support
-title: If you're a Pro or Business user, you can add "claude-3-opus" as a custom model…
+title: Claude Support
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# If you're a Pro or Business user, you can add "claude-3-opus" as a custom model…
+# Claude Support
 
 **Cursor** · 2024-03-12 · [[Themes/model-support|Model Support]] · [Official source](https://cursor.com/changelog/claude-support) · from [[Releases/Cursor/cursor-2024-03-12-claude-support-https-cursor-com-changelog-claude-support-ed1eb90a|Claude Support]]
 <!-- chronolog:end -->

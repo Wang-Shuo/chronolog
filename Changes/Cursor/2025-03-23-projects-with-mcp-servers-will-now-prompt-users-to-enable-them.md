@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ccbbb1a9afb2eb7d6f24ec7e969967cc53a591b405426c837cf4722629f0c941
+machine_hash: d3cd111e1104dd8a08b0e377b096e6948fe6f7273bfdf3a3aeff20fb14e91410
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   Improved MCP reliability, added option to disable yolo mode for MCP]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: Projects with MCP servers will now prompt users to enable them
 type: change

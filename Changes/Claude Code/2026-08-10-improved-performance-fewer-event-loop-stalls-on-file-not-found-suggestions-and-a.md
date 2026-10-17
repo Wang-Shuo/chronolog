@@ -14,9 +14,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f1f9374912e06dbb37051dbbe2a80dda1f1e2abcab26d0ae0330e9e3a0deaeb8
+kind: change
+machine_hash: 5ea4a1f7e93e49e1715eeb0b5ab9e9c10595bd15c847124212dfecbf3aca123b
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: 'Improved performance: fewer event-loop stalls on file-not-found suggestions
       and at-mention size checks'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.227
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-performance-fewer-event-loop-stalls-on-file-not-found-suggestions-and-a
@@ -40,10 +42,10 @@ record:
   title: 'Improved performance: fewer event-loop stalls on file-not-found suggestions…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-07-improved-responsiveness-while-long-responses-stream-live-preview-updates-no-long|Improved
-  responsiveness while long responses stream]]'
-- '[[Changes/Claude Code/2026-07-08-auto-update-binary-downloads-now-stream-to-disk-instead-of-buffering-in-memory-c|Auto-update
-  binary downloads now stream to disk instead of buffering in memory…]]'
+- '[[Changes/Claude Code/2026-07-14-3-reliability-and-performance-changes-in-v2-1-208|3
+  Reliability and Performance changes in v2.1.208]]'
+- '[[Changes/Claude Code/2026-07-18-added-a-periodic-progress-heartbeat-for-long-running-tool-calls-that-previously|Added
+  a periodic progress heartbeat for long-running tool calls that previously went…]]'
 - '[[Changes/Claude Code/2026-07-21-added-warnings-when-transcript-writes-are-failing-e-g-disk-full-or-when-session|Added
   warnings when transcript writes are failing (e.g. disk full) or when session…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-10-v2-1-227-github-368190806-b6269cf8|claude-code-2026-08-10-v2-1-227-github-368190806-b6269cf8]]'
@@ -75,7 +77,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-added-warnings-when-transcript-writes-are-failing-e-g-disk-full-or-when-session|Added warnings when transcript writes are failing (e.g. disk full) or when session…]]
-- Later: 2026-08-14 · ChatGPT · [[Changes/ChatGPT/2026-08-14-with-project-only-memory-chatgpt-can-use-conversations-from-the-same-project-for|With project-only memory, ChatGPT can use conversations from the same project…]]
+- Later: 2026-08-13 · Cursor · [[Changes/Cursor/2026-08-13-faster-starts|Faster starts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

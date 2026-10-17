@@ -3,7 +3,7 @@ changes_count: 1
 date: '2024-03-12'
 description: 'Cursor release Claude Support on 2024-03-12: 1 tracked change across
   Model Support'
-machine_hash: 8bca4f09c2d177aea2012eb18204d08c9b07e3925c60faf48a9d13cba0023490
+machine_hash: a80d2764fa07ddd00dc1dfebba081d3b11762cc7f17b8c07256f074bb4f4f894
 product: cursor
 product_name: Cursor
 record:
@@ -40,10 +40,10 @@ version: Claude Support
 <!-- chronolog:begin region="summary" -->
 If you're a Pro or Business user, you can add "claude-3-opus" as a custom model in the Settings page and use 10 fast requests per day for free (unlimited slow, but the delay increases exponentially).
 
-Tracked 1 of 2 candidate lines.
+Tracked 1 card from 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|If you're a Pro or Business user, you can add "claude-3-opus" as a custom model…]] · Model Support
+- [[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|Claude Support]] · Model Support
 <!-- chronolog:end -->

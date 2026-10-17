@@ -2,7 +2,7 @@
 changes_count: 0
 date: '2023-06-02'
 description: 'Cursor release Minor fixes (2023-06-02) on 2023-06-02: no tracked changes'
-machine_hash: 454f37c020d981115ff068f000940ded14fc41168f181063b19307068d4251f0
+machine_hash: d91764d4d0a4ce81a159d033edf3b5fb80df5a39e4ca8ad4028727abbea8e813
 product: cursor
 product_name: Cursor
 record:
@@ -37,7 +37,7 @@ version: 0.2.24
 <!-- chronolog:begin region="summary" -->
 Small fixes for the toolformer and the AI linter.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

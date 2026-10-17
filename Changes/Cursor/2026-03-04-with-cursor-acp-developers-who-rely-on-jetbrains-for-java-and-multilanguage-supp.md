@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: d052e0a3b0dbd3fb6fc1adaa0c3edc3e9ec5ab5b801d130aa53a0ab96f988933
+machine_hash: cd5b933650c9ec634e2c3cde02efe8f7469074439867d3b7a23f19fc8ed2d89c
 product: cursor
 product_name: Cursor
 record:
@@ -64,6 +64,7 @@ related_changes:
   HTTP hooks, which can POST JSON to a URL and receive JSON instead of running…]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-04-cursor-in-jetbrains-ides-https-cursor-com-changelog-03-04-26-59bae4c8|cursor-2026-03-04-cursor-in-jetbrains-ides-https-cursor-com-changelog-03-04-26-59bae4c8]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: With Cursor ACP, developers who rely on JetBrains for Java and multilanguage
   support…

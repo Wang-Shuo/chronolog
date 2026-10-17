@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 19076cf61e1c9af251c7b8ec01fe81b088804cd7a6bf175807dae7ebd52f9b6c
+machine_hash: 151801655f31e2c854ad17e95ebd8587327b5c59b6d5496dc9767529675a5f8c
 product: cursor
 product_name: Cursor
 record:
@@ -53,6 +53,7 @@ related_changes:
   can now monitor your PRs, watch a Slack thread, or run scheduled tasks]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1|cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: We're continuing to improve cloud agents and the Cursor harness so always-on
   agents…

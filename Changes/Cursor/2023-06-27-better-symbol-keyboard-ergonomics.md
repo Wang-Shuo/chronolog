@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 2df0c6fb1a7d79764398e0b44976bf51b81de47d5138a65f275a85f1253a0ed7
+kind: change
+machine_hash: f567b176e4779d3613766389b1af201c7b4ecb6a9fc2b6a6fcdeaec74bc40027
 product: cursor
 product_name: Cursor
 record:
@@ -27,8 +28,9 @@ record:
   evidence:
   - quote: Better @ symbol keyboard ergonomics
     source_release: https://cursor.com/changelog/0-2-37
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: better-symbol-keyboard-ergonomics
@@ -40,12 +42,12 @@ record:
   title: Better @ symbol keyboard ergonomics
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-09-includes-some-updates-to-option-enter-in-the-chat|Includes
-  some updates to "Option+Enter" in the chat]]'
+- '[[Changes/Cursor/2023-05-17-a-better-cursor-tutor-onboarding|A better Cursor Tutor
+  onboarding!]]'
 - '[[Changes/Cursor/2023-05-20-we-ve-added-a-new-feedback-button-at-the-top-right-of-the-app-we-really-do|Cursor
   adds a new feedback button at the top right of the app]]'
-- '[[Changes/Cursor/2023-06-24-the-chat-has-been-revamped-you-can-now-use-symbols-to-show-files-code-docs-to-th|The
-  chat has been revamped!]]'
+- '[[Changes/Cursor/2023-06-24-the-chat-has-been-revamped-you-can-now-use-symbols-to-show-files-code-docs-to-th|Chat
+  v2]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-27-0-2-37-https-cursor-com-changelog-0-2-37-335b554a|cursor-2023-06-27-0-2-37-https-cursor-com-changelog-0-2-37-335b554a]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -74,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-06-24 · Cursor · [[Changes/Cursor/2023-06-24-the-chat-has-been-revamped-you-can-now-use-symbols-to-show-files-code-docs-to-th|The chat has been revamped!]]
+- Earlier: 2023-06-24 · Cursor · [[Changes/Cursor/2023-06-24-the-chat-has-been-revamped-you-can-now-use-symbols-to-show-files-code-docs-to-th|Chat v2]]
 - Later: 2023-07-03 · Cursor · [[Changes/Cursor/2023-07-03-also-you-can-now-use-up-down-arrows-for-history-in-chat|(Also, you can now use up/down arrows for history in chat.)]]
 <!-- chronolog:end -->
 

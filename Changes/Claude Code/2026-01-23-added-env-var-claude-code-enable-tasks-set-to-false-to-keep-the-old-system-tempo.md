@@ -4,8 +4,8 @@ date: '2026-01-23'
 description: 'Claude Code · 2026-01-23 · Agent Mode: Added env var `CLAUDE_CODE_ENABLE_TASKS`,
   set to `false` to keep the old system temporarily'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 932
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 358bd2a65c6d31111eab1f57ebd2847e6d79ca71d543d2d375c1ff40bfd68e83
+kind: change
+machine_hash: 9c05d5f0ad9875f1db0174b965a70a12643fd3968756a29cae2314927bd598fe
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added env var `CLAUDE_CODE_ENABLE_TASKS`, set to `false` to keep the old
       system temporarily
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.19
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-env-var-claude-code-enable-tasks-set-to-false-to-keep-the-old-system-tempo
@@ -45,10 +47,9 @@ record:
 related_changes:
 - '[[Changes/Cursor/2026-01-22-agents-are-solving-increasingly-complex-long-running-tasks-across-your-codebase|Agents
   are solving increasingly complex, long-running tasks across your codebase]]'
-- '[[Changes/Cursor/2026-01-22-optionally-you-can-define-custom-subagents-learn-more-in-our-docs|Optionally,
-  you can define custom subagents]]'
-- '[[Changes/Cursor/2026-01-22-subagents-are-independent-agents-specialized-to-handle-discrete-parts-of-a-paren|Subagents
-  are independent agents specialized to handle discrete parts of a parent…]]'
+- '[[Changes/Cursor/2026-01-22-subagents|Subagents]]'
+- '[[Changes/Cursor/2026-01-22-clarification-questions-from-the-agent|Clarification
+  questions from the agent]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640|claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640]]'
 source_type: github_releases
 theme: agent-mode
@@ -71,23 +72,21 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-01-23-changed-indexed-argument-syntax-from-arguments-0-to-arguments-0-bracket-syntax|Changed indexed argument syntax from $ARGUMENTS.0 to $ARGUMENTS0 (bracket syntax)]] · Developer Workflow
-- [[Changes/Claude Code/2026-01-23-changed-skills-without-additional-permissions-or-hooks-to-be-allowed-without-req|Changed skills without additional permissions or hooks to be allowed without…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-01-23-sdk-added-replay-of-queued-command-attachment-messages-as-sdkusermessagereplay-e|SDK Added replay of queued_command attachment messages as SDKUserMessageReplay…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-01-23-added-shorthand-0-1-etc-for-accessing-individual-arguments-in-custom-commands|Added shorthand $0, $1, etc. for accessing individual arguments in custom commands]] · Developer Workflow
+- [[Changes/Claude Code/2026-01-23-2-developer-workflow-changes-in-v2-1-19|2 Developer Workflow changes in v2.1.19]] · Developer Workflow
+- [[Changes/Claude Code/2026-01-23-2-apps-and-integrations-changes-in-v2-1-19|2 Apps and Integrations changes in v2.1.19]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-subagents-are-independent-agents-specialized-to-handle-discrete-parts-of-a-paren|Subagents are independent agents specialized to handle discrete parts of a parent…]]
-- Later: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-added-ability-to-delete-tasks-via-the-taskupdate-tool|Added ability to delete tasks via the TaskUpdate tool]]
+- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-clarification-questions-from-the-agent|Clarification questions from the agent]]
+- Later: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-2-agent-mode-changes-in-v2-1-20|2 Agent Mode changes in v2.1.20]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

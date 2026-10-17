@@ -14,9 +14,10 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: 7864147562af88b2c91caa678a0b91f43c191a489e02f0f5e4b3e2dcd97fb860
+kind: pricing
+machine_hash: 7c1e9a4ca1072ffa3ca0d31d036c2b2e84319d307eb511420fb3378c3fda55c0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,8 +32,9 @@ record:
   - quote: You can upgrade, switch, or cancel your plan from Settings > My Plan or
       from the Pricing page.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: pricing
   product: chatgpt
   product_name: ChatGPT
   slug: you-can-upgrade-switch-or-cancel-your-plan-from-settings-my-plan-or-from-the-pri
@@ -58,7 +60,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # You can upgrade, switch, or cancel your plan from Settings > My Plan or…
 
-**ChatGPT** · 2026-04-09 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|New Pro plan options]]
+**ChatGPT** · 2026-04-09 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|New Pro plan options]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -80,7 +82,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users|Added per-model and cache-hit breakdown to /cost for subscription users]]
-- Later: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-customers-must-be-on-usage-based-billing-for-bugbot-to-customize-effort-levels-l|Customers must be on usage-based billing for Bugbot to customize effort levels]]
+- Later: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-fixed-false-bash-permission-prompts-for-cut-d-paste-d-column-s-awk-print-1-file|Fixed false Bash permission prompts for cut -d /, paste -d /, column -s /…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

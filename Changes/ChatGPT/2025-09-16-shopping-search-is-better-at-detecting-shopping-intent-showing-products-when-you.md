@@ -14,9 +14,10 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 592d0774a4f6d229927f684876d46b780ee5739489f017519e146cc2ac6f832b
+kind: change
+machine_hash: f8b90f33765f8482d0bd0675e385ad49a552c609b3c82ae7b36282cb7ee96ea1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,8 +31,9 @@ record:
   - quote: 'Shopping: Search is better at detecting shopping intent, showing products
       when you want them and keeping results focused when you don’t.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: shopping-search-is-better-at-detecting-shopping-intent-showing-products-when-you
@@ -44,8 +46,8 @@ record:
     when you…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2|Pro
-  users can now connect to Canva and Notion for both chat search and deep research]]'
+- '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2|Canva
+  and Notion connectors (Pro)]]'
 - '[[Changes/ChatGPT/2025-08-11-now-connect-even-more-tools-in-chatgpt-for-useful-relevant-responses-in-chat-the|Now
   connect even more tools in ChatGPT for useful, relevant responses in chat]]'
 - '[[Changes/ChatGPT/2025-09-16-we-ve-made-further-improvements-to-search-in-chatgpt-making-results-more-accurat|ChatGPT
@@ -82,7 +84,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2025-08-11 · ChatGPT · [[Changes/ChatGPT/2025-08-11-now-connect-even-more-tools-in-chatgpt-for-useful-relevant-responses-in-chat-the|Now connect even more tools in ChatGPT for useful, relevant responses in chat]]
-- Later: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-instant-checkout-makes-it-easy-to-go-from-chat-to-checkout-in-just-a-few-taps|Instant Checkout makes it easy to go from chat to checkout in just a few taps]]
+- Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-1-7-20-web-search-auto-accept-setting|1.7.20: Web search auto-accept setting]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

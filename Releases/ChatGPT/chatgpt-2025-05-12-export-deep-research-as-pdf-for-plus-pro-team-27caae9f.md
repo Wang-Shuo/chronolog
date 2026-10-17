@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-05-12'
 description: 'ChatGPT release Export Deep Research as PDF for Plus/Pro/Team on 2025-05-12:
   1 tracked change across Search and Browsing'
-machine_hash: 3367c6f41f7f4121c5538da4b16052e17ba154289442bf9bd7479f5feffcf5f9
+machine_hash: 48a78ca135938dc1897410671e03194dcafc4e8d2d802ac499331b050ddabd06
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,10 +40,10 @@ version: Export Deep Research as PDF for Plus/Pro/Team
 <!-- chronolog:begin region="summary" -->
 You can now export your deep research reports as well-formatted PDFs—complete with tables, images, linked citations, and sources.To use, click the share icon and select 'Download as PDF.' It works for both new and past reports.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-05-12-you-can-now-export-your-deep-research-reports-as-well-formatted-pdfs-complete-wi-87a3fa|Export your deep research reports as well-formatted PDFs—complete with tables…]] · Search and Browsing
+- [[Changes/ChatGPT/2025-05-12-you-can-now-export-your-deep-research-reports-as-well-formatted-pdfs-complete-wi-87a3fa|Export Deep Research as PDF for Plus/Pro/Team]] · Search and Browsing
 <!-- chronolog:end -->

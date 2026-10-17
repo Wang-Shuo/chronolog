@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: dd23e766eb45c2b56272ee378855bd565591dc92cec94084bea8fa804718821a
+kind: launch
+machine_hash: 52e09a2ef23e7267cf62a3a81c8a4b2113799abbe33428c7ba91d27e83cf53db
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,8 +46,9 @@ record:
       safety evaluations. Detailed results are available in the newly launched Safety
       Evaluations Hub.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: launch
   product: chatgpt
   product_name: ChatGPT
   slug: gpt-4-1-mini-is-a-fast-capable-and-efficient-small-model-delivering-significant
@@ -71,26 +73,26 @@ record:
     score: 50
     theme: safety-privacy
   theme_resolution: manual-semantic-rule-v2
-  title: GPT-4.1 mini is a fast, capable, and efficient small model, delivering significant…
+  title: Introducing GPT-4.1 mini, replacing GPT-4o mini, in ChatGPT for all users
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories|We’re
-  making additional improvements to GPT-4o, optimizing when it saves memories…]]'
-- '[[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|We''ve
-  reverted the most recent update to GPT-4o due to issues with overly agreeable…]]'
-- '[[Changes/ChatGPT/2025-05-14-since-its-launch-in-the-api-in-april-gpt-4-1-has-become-a-favorite-among-develop-286eb2|Since
-  its launch in the API in April, GPT-4.1 has become a favorite among…]]'
+- '[[Changes/ChatGPT/2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories|Improvements
+  to GPT-4o]]'
+- '[[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|Updates
+  to GPT-4o]]'
+- '[[Changes/ChatGPT/2025-05-14-since-its-launch-in-the-api-in-april-gpt-4-1-has-become-a-favorite-among-develop-286eb2|Releasing
+  GPT-4.1 in ChatGPT for all paid users]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-14-introducing-gpt-4-1-mini-replacing-gpt-4o-mini-in-chatgpt-for-al-05dfeae0|chatgpt-2025-05-14-introducing-gpt-4-1-mini-replacing-gpt-4o-mini-in-chatgpt-for-al-05dfeae0]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: GPT-4.1 mini is a fast, capable, and efficient small model, delivering significant…
+title: Introducing GPT-4.1 mini, replacing GPT-4o mini, in ChatGPT for all users
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# GPT-4.1 mini is a fast, capable, and efficient small model, delivering significant…
+# Introducing GPT-4.1 mini, replacing GPT-4o mini, in ChatGPT for all users
 
-**ChatGPT** · 2025-05-14 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-05-14-introducing-gpt-4-1-mini-replacing-gpt-4o-mini-in-chatgpt-for-al-05dfeae0|Introducing GPT-4.1 mini, replacing GPT-4o mini, in ChatGPT for all users]]
+**ChatGPT** · 2025-05-14 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-05-14-introducing-gpt-4-1-mini-replacing-gpt-4o-mini-in-chatgpt-for-al-05dfeae0|Introducing GPT-4.1 mini, replacing GPT-4o mini, in ChatGPT for all users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -106,8 +108,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-05-14 · ChatGPT · [[Changes/ChatGPT/2025-05-14-since-its-launch-in-the-api-in-april-gpt-4-1-has-become-a-favorite-among-develop-286eb2|Since its launch in the API in April, GPT-4.1 has become a favorite among…]]
-- Later: 2025-06-10 · ChatGPT · [[Changes/ChatGPT/2025-06-10-academic-evaluations-show-that-o3-pro-consistently-outperforms-both-o1-pro-and-o|Academic evaluations show that o3-pro consistently outperforms both o1-pro and o3]]
+- Earlier: 2025-05-14 · ChatGPT · [[Changes/ChatGPT/2025-05-14-since-its-launch-in-the-api-in-april-gpt-4-1-has-become-a-favorite-among-develop-286eb2|Releasing GPT-4.1 in ChatGPT for all paid users]]
+- Later: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-max-mode-for-all-top-models|Max Mode for all top models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

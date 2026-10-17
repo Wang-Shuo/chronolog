@@ -3,7 +3,7 @@ changes_count: 0
 date: '2023-08-31'
 description: 'Cursor release Hotfix large persisted state on 2023-08-31: no tracked
   changes'
-machine_hash: c86ba61a6ee01c7a1fd5db55439f4e4167a8a63a56b190fa59b19a19b18f5dc4
+machine_hash: a54dfcb641e7b9a3cc18eb44193e4369a8c61b0282e824b8fe657b69ac657ed6
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.9.2
 <!-- chronolog:begin region="summary" -->
 Could cause getcursor/cursor#843.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

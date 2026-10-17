@@ -14,9 +14,10 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 42271df1828a595da2eccb1bb932b549279647563046b7abbba1f8a238c97eca
+kind: pricing
+machine_hash: 2ee221f0aa4567144f3c2e34a04172de987a6046a8a480a89ff10af5651df2ef
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: 'Fast (default): $1.50/M input, $7.50/M output tokens'
     source_release: https://cursor.com/changelog/composer-2
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: pricing
   product: cursor
   product_name: Cursor
   slug: fast-default-1-50-m-input-7-50-m-output-tokens
@@ -41,10 +43,10 @@ record:
   title: 'Fast (default): $1.50/M input, $7.50/M output tokens'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-10-you-can-manage-auto-top-up-from-codex-settings-usage-dashboard-auto-top-up-appli|You
-  can manage auto top-up from Codex Settings → Usage Dashboard]]'
-- '[[Changes/ChatGPT/2026-03-10-eligible-chatgpt-plus-and-pro-users-can-now-turn-on-auto-top-up-for-credits-used|Eligible
-  ChatGPT Plus and Pro users can now turn on auto top-up for credits used…]]'
+- '[[Changes/Claude Code/2026-02-04-removed-misleading-anthropic-api-pricing-from-model-selector-for-third-party-pro|Removed
+  misleading Anthropic API pricing from model selector for third-party…]]'
+- '[[Changes/ChatGPT/2026-03-10-eligible-chatgpt-plus-and-pro-users-can-now-turn-on-auto-top-up-for-credits-used-5e9d54|Auto
+  top-up for flexible usage credits]]'
 - '[[Changes/Cursor/2026-03-19-standard-0-50-m-input-2-50-m-output-tokens|Standard:
   $0.50/M input, $2.50/M output tokens]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-19-composer-2-https-cursor-com-changelog-composer-2-8a6d25c8|cursor-2026-03-19-composer-2-https-cursor-com-changelog-composer-2-8a6d25c8]]'
@@ -57,7 +59,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Fast (default): $1.50/M input, $7.50/M output tokens
 
-**Cursor** · 2026-03-19 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://cursor.com/changelog/composer-2) · from [[Releases/Cursor/cursor-2026-03-19-composer-2-https-cursor-com-changelog-composer-2-8a6d25c8|Composer 2]]
+**Cursor** · 2026-03-19 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://cursor.com/changelog/composer-2) · from [[Releases/Cursor/cursor-2026-03-19-composer-2-https-cursor-com-changelog-composer-2-8a6d25c8|Composer 2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -76,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-03-10 · ChatGPT · [[Changes/ChatGPT/2026-03-10-eligible-chatgpt-plus-and-pro-users-can-now-turn-on-auto-top-up-for-credits-used|Eligible ChatGPT Plus and Pro users can now turn on auto top-up for credits used…]]
+- Earlier: 2026-03-10 · ChatGPT · [[Changes/ChatGPT/2026-03-10-eligible-chatgpt-plus-and-pro-users-can-now-turn-on-auto-top-up-for-credits-used-5e9d54|Auto top-up for flexible usage credits]]
 - Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users|Added per-model and cache-hit breakdown to /cost for subscription users]]
 <!-- chronolog:end -->
 

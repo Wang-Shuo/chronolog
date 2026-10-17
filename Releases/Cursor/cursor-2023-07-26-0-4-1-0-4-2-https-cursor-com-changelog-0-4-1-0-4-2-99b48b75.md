@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-07-26'
 description: 'Cursor release Hotfixes on 2023-07-26: 1 tracked change across Reliability
   and Performance'
-machine_hash: b9cda8da3e1d8cc4140f74479ccad444c6448a77e16d85887bf6c12c0372314a
+machine_hash: 5a595b398974c7d23fefd62640348295387f7d24cb4e3b9a2d96704371af14a0
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ version: 0.4.1-0.4.2
 <!-- chronolog:begin region="summary" -->
 Removes a check in the chat that slows the chat down in certain cases.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

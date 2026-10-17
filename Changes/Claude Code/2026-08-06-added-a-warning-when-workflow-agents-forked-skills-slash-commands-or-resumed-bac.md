@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: eb18bca661e74d55dff5fdd86da0b09bace2bd0575a8d4dec326d2f99db84fb2
+machine_hash: c639e346ca7f25d7c810c12c5647fa87e023e6663b24b2b0c6c059272fe2a72d
 product: claude-code
 product_name: Claude Code
 record:
@@ -63,6 +63,7 @@ related_changes:
   cloud agents that build, test, and ship code while you keep working]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d|claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added a warning when workflow agents, forked skills, slash commands, or resumed…
 type: change

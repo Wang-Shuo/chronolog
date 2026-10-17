@@ -14,9 +14,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 234a9af24d78e2f2cb312fbb0c6cb8683d39a39c2c2e10a484bc079bb09a1efe
+kind: change
+machine_hash: c5bfbc3daec106690ee6aadf658af44a720122a7790dc39709dcfda8fd939377
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,8 +28,9 @@ record:
   evidence:
   - quote: 'Turbo: optimized for speed (alpha)'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: turbo-optimized-for-speed-alpha
@@ -62,7 +64,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2023-02-09-version-selection-is-made-easy-with-a-dedicated-dropdown-menu-at-the-top-of-the|Version selection is made easy with a dedicated dropdown menu at the top of the page]] · Interface Experience
+- [[Changes/ChatGPT/2023-02-09-as-we-recently-announced-our-plus-plan-comes-with-early-access-to-new-experiment-0e68f2|As we recently announced, our Plus plan comes with early access to new, experimental…]] · Interface Experience
 - [[Changes/ChatGPT/2023-02-09-default-the-standard-chatgpt-model|Default: the standard ChatGPT model]] · Model Support
 <!-- chronolog:end -->
 

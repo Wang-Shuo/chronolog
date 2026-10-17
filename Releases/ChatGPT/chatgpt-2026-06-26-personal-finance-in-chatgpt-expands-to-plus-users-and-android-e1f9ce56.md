@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-06-26'
 description: 'ChatGPT release Personal finance in ChatGPT expands to Plus users and
   Android on 2026-06-26: 1 tracked change across Files and Data'
-machine_hash: c5790471a7e4e8740aae9450ea2127f47b9bb31cd9c3ae5a76ee148bb9abcbeb
+machine_hash: 8a8840fdb09d23124e5e6837130706145091c43da8ef98455d9800d2a40a7c55
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: Personal finance in ChatGPT expands to Plus users and Android
 <!-- chronolog:begin region="summary" -->
 The personal finance experience in ChatGPT is rolling out to Plus users in the U.S. on web and iOS. It is also now available on Android for Pro and Plus users in the U.S.Eligible users can securely connect supported financial accounts, view a dashboard of their finances, and ask ChatGPT questions grounded in their…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u|The personal finance experience in ChatGPT is rolling out to Plus users…]] · Files and Data
+- [[Changes/ChatGPT/2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u|Personal finance in ChatGPT expands to Plus users and Android]] · Files and Data
 <!-- chronolog:end -->

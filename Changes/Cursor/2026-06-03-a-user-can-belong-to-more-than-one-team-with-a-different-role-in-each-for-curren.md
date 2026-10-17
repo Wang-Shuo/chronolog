@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 71b43e59595e1b82f2cb72740e80cce31cc4a01effc482c53a27f8ca20d9923b
+machine_hash: fabd174eb69eee391631adcb35681bd175a8b77a4da89871972b67a38841d718
 product: cursor
 product_name: Cursor
 record:
@@ -64,6 +64,7 @@ related_changes:
   are a lightweight collection of users that can sit across or within teams]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576|cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576]]'
 source_type: cursor_changelog
+superseded: true
 theme: collaboration
 title: A user can belong to more than one team, with a different role in each
 type: change

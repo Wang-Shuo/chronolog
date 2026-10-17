@@ -3,7 +3,7 @@ changes_count: 4
 date: '2023-11-27'
 description: 'Cursor release Image Support, Interpreter Mode Beta, @ Folders on 2023-11-27:
   4 tracked changes across Context Window, Editor Experience, Interface Experience…'
-machine_hash: 7b1cc7e2bbe1e9742789aba3049f7676e2e89b2ab3d277b87cb8d354ad0a24b0
+machine_hash: 30303d52824e177c4af493be4014637bed23920b896564398f3fe9229b4af12c
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ version: 0.17.0
 <!-- chronolog:begin region="summary" -->
 Image Support in Chat: You can now drag and drop images into the chat to send them to the AI.
 
-Tracked 4 of 4 candidate lines.
+Tracked 4 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ea4adfbee72f80322bec08b8ebf9e8b2ef3c69a20c78aff35ac1a3240e725507
+machine_hash: 037554f7655272a959301e85ec3404dc417d5de35244d5fb365a5d5166693a4e
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   PR review status indicator to the prompt footer, showing the current branch''s…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-27-v2-1-20-github-280123443-38431f59|claude-code-2026-01-27-v2-1-20-github-280123443-38431f59]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added arrow key history navigation in vim normal mode when cursor cannot move
   further

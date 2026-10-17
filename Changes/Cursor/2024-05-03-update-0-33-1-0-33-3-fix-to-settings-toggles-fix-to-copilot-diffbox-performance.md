@@ -14,9 +14,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: fc15d6f12293c419e58431fb7c5b33a2822bc2be330f430f3e2c6c7f2bb0ee48
+kind: change
+machine_hash: f33d79060d70954b04a12e199b2340a80d207b59cd9d2c8d91031d8eed0295d9
 product: cursor
 product_name: Cursor
 record:
@@ -29,8 +30,9 @@ record:
   - quote: 'UPDATE (0.33.1–0.33.3): Fix to settings toggles, fix to Copilot++ diffbox
       performance, onboarding tweaks.'
     source_release: https://cursor.com/changelog/0-33-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: update-0-33-1-0-33-3-fix-to-settings-toggles-fix-to-copilot-diffbox-performance

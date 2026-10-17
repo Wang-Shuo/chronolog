@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e7b7cf49092f164487fadd823894b59cb1199d3e8c867f414a03196b5f28abd6
+machine_hash: 1bfffe3fa07f721ffe86bf00b412ac140879443870bb42142fff468373f622f1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,6 +47,7 @@ related_changes:
   addition to selecting a base style and tone preset—like candid and friendly—you…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-19-new-detailed-characteristic-controls-fa363df4|chatgpt-2025-12-19-new-detailed-characteristic-controls-fa363df4]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: memory
 title: Use more or fewer headers & lists
 type: change

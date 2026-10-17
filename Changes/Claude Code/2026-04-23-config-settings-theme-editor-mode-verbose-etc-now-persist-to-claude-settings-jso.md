@@ -4,8 +4,8 @@ date: '2026-04-23'
 description: 'Claude Code · 2026-04-23 · Editor Experience: `/config` settings (theme,
   editor mode, verbose, etc.) now persist to `~/.claude/settings.json` and participate…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1136
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 8468ff4af5c76373af04d64e448a65b032472fb32d9573106212da3a3c12f5e2
+kind: change
+machine_hash: 00ca8d8091fd63874eefdf76bde5b3e455b2251f570da4829e6ee334e20a1e31
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   - quote: '`/config` settings (theme, editor mode, verbose, etc.) now persist to
       `~/.claude/settings.json` and participate in project/local/policy override precedence'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.119
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: config-settings-theme-editor-mode-verbose-etc-now-persist-to-claude-settings-jso
@@ -41,12 +43,12 @@ record:
   title: '`/config` settings (theme, editor mode, verbose, etc.) now persist…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-08-added-syntax-highlighting-for-cedar-policy-files-cedar-cedarpolicy|Added
-  syntax highlighting for Cedar policy files (.cedar, .cedarpolicy)]]'
-- '[[Changes/Claude Code/2026-04-09-added-claude-code-perforce-mode-env-var-when-set-edit-write-notebookedit-fail-on|Added
-  CLAUDE_CODE_PERFORCE_MODE env var]]'
-- '[[Changes/Claude Code/2026-04-20-config-search-now-matches-option-values-e-g-searching-vim-finds-the-editor-mode|/config
-  search now matches option values…]]'
+- '[[Changes/Claude Code/2026-04-16-transcript-view-footer-now-shows-dump-to-scrollback-and-v-open-in-editor-shortcu|Transcript
+  view footer now shows  (dump to scrollback) and v (open in editor)…]]'
+- '[[Changes/Claude Code/2026-04-17-remote-control-clients-can-now-query-file-autocomplete-suggestions|Remote
+  Control clients can now query @-file autocomplete suggestions]]'
+- '[[Changes/Claude Code/2026-04-20-2-editor-experience-changes-in-v2-1-116|2 Editor
+  Experience changes in v2.1.116]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-119-github-312949780-573724e7|claude-code-2026-04-23-v2-1-119-github-312949780-573724e7]]'
 source_type: github_releases
 theme: editor-experience
@@ -69,23 +71,25 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-04-23-3-interface-experience-changes-in-v2-1-119|3 Interface Experience changes in v2.1.119]] · Interface Experience
 - [[Changes/Claude Code/2026-04-23-from-pr-now-accepts-gitlab-merge-request-bitbucket-pull-request-and-github-enter|--from-pr now accepts GitLab merge-request, Bitbucket pull-request, and GitHub…]] · Enterprise and Administration
-- [[Changes/Claude Code/2026-04-23-print-mode-now-honors-the-agent-s-tools-and-disallowedtools-frontmatter-matching|--print mode now honors the agent's tools: and disallowedTools: frontmatter…]] · Agent Mode
-- [[Changes/Claude Code/2026-04-23-added-claude-code-hide-cwd-environment-variable-to-hide-the-working-directory-in|Added CLAUDE_CODE_HIDE_CWD environment variable to hide the working directory…]] · Interface Experience
-- [[Changes/Claude Code/2026-04-23-added-prurltemplate-setting-to-point-the-footer-pr-badge-at-a-custom-code-review|Added prUrlTemplate setting to point the footer PR badge at a custom code-review…]] · Developer Workflow
+- [[Changes/Claude Code/2026-04-23-3-apps-and-integrations-changes-in-v2-1-119|3 Apps and Integrations changes in v2.1.119]] · Apps and Integrations
+- [[Changes/Claude Code/2026-04-23-3-developer-workflow-changes-in-v2-1-119|3 Developer Workflow changes in v2.1.119]] · Developer Workflow
+- [[Changes/Claude Code/2026-04-23-2-agent-mode-changes-in-v2-1-119|2 Agent Mode changes in v2.1.119]] · Agent Mode
+- [[Changes/Claude Code/2026-04-23-4-safety-and-privacy-changes-in-v2-1-119|4 Safety and Privacy changes in v2.1.119]] · Safety and Privacy
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-20 · Claude Code · [[Changes/Claude Code/2026-04-20-config-search-now-matches-option-values-e-g-searching-vim-finds-the-editor-mode|/config search now matches option values…]]
+- Earlier: 2026-04-20 · Claude Code · [[Changes/Claude Code/2026-04-20-2-editor-experience-changes-in-v2-1-116|2 Editor Experience changes in v2.1.116]]
 - Later: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-merged-cost-and-stats-into-usage-both-remain-as-typing-shortcuts-that-open-the-r|Merged /cost and /stats into /usage]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

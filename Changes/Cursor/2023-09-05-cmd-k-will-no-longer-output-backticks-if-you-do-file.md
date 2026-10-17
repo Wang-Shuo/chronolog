@@ -4,8 +4,8 @@ date: '2023-09-05'
 description: 'Cursor · 2023-09-05 · Editor Experience: Cmd-K will no longer output
   backticks if you do @file.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 175
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 75abde1f7ce81ec88b728bf846ee5315896b3e5c0f8ec169fcda1d41abcdfa04
+kind: change
+machine_hash: 47813a30d54e47fb2d953c72ea1c1a7a01e846d4d154455d78663cae6016cbf7
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Cmd-K will no longer output backticks if you do @file.
     source_release: https://cursor.com/changelog/0-9-4
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: cmd-k-will-no-longer-output-backticks-if-you-do-file
@@ -39,8 +41,7 @@ record:
   title: Cmd-K will no longer output backticks if you do @file
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-13-better-experience-for-long-files|Better experience
-  for long files!]]'
+- '[[Changes/Cursor/2023-08-13-better-experience-for-long-files|Long-file experience]]'
 - '[[Changes/Cursor/2023-08-22-codeblocks-and-code-symbols-in-with-codebase-responses-will-now-often-be-clickab|Codeblocks
   and code symbols in "with codebase" responses will now often be clickable]]'
 - '[[Changes/Cursor/2023-08-22-you-can-now-reply-to-cmd-k-outputs-making-it-much-easier-to-have-the-model-revis|Reply
@@ -72,13 +73,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2023-08-22 · Cursor · [[Changes/Cursor/2023-08-22-you-can-now-reply-to-cmd-k-outputs-making-it-much-easier-to-have-the-model-revis|Reply to Cmd-K outputs, making it much easier to have the model revise its work]]
-- Later: 2023-09-19 · Cursor · [[Changes/Cursor/2023-09-19-you-can-now-alternate-between-diffs-and-texts-responses-in-cmd-k-this-can-be-hel|Alternate between diffs and texts responses in Cmd-K]]
+- Later: 2023-09-19 · Cursor · [[Changes/Cursor/2023-09-19-you-can-now-alternate-between-diffs-and-texts-responses-in-cmd-k-this-can-be-hel|Inline Chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 05dd5bf70a25ab96287df5b5311d43560c9f8c29de05cab0704068f19fa9bb91
+machine_hash: 8d76c7a9b997a47aed848ecc1bd5a7f1e07ca0ecbdfa061e1487391ecba54fe2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,6 +50,7 @@ related_changes:
   multiple accounts to plugins in ChatGPT, expanding support beyond Gmail…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-21-credit-scores-in-finances-a66dbae8|chatgpt-2026-09-21-credit-scores-in-finances-a66dbae8]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: mobile-desktop
 title: This feature is rolling out in Finances to Plus and Pro users in the U.S. on
   web…

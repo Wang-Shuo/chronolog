@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-07-12'
 description: 'Cursor release Patch for WSL/SSH (Search and Extensions) on 2023-07-12:
   1 tracked change across Developer Workflow'
-machine_hash: b5749e8ee6a216372c36e526760f6780f6f88e42b1521084c94b43a25d828738
+machine_hash: d3165986022062db1ae49b81f0944a1304a729844384df042c7757f5e8fe85a9
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ version: 0.2.47
 <!-- chronolog:begin region="summary" -->
 This update patches search (Cmd/Win+Shift+F) and many extensions for and WSL and SSH users.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

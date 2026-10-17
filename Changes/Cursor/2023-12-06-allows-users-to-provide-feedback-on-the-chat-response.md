@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3dfbeeaaa1a645c79cd634d97d5bff2a427b58233e38280edbefe5eb84096e85
+machine_hash: 948e82482a2bd9092eb02e851681d7fbcbffaaceb1d6b68cfe974f40cf7eb063
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   Improvements: We''ve spent some time improving the latency…]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-06-0-18-4-0-18-5-https-cursor-com-changelog-0-18-4-0-18-5-d1de0931|cursor-2023-12-06-0-18-4-0-18-5-https-cursor-com-changelog-0-18-4-0-18-5-d1de0931]]'
 source_type: cursor_changelog
+superseded: true
 theme: interface-experience
 title: Allows users to provide feedback on the chat response
 type: change

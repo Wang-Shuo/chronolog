@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 7a468dbfc10d127ed950a9ef73ee5d3109e2ff98c6b2de16826302015791e3dd
+kind: fix
+machine_hash: 0b1fc39104c77f4060e571bd472609e54cc2a8c2267a00fa4030a2712b08aca8
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Fixed `/remote-control` sessions showing the wrong permission mode in the
       mobile and web apps
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.202
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: fix
   product: claude-code
   product_name: Claude Code
   slug: fixed-remote-control-sessions-showing-the-wrong-permission-mode-in-the-mobile-an
@@ -67,7 +69,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Fixed `/remote-control` sessions showing the wrong permission mode in the mobile…
 
-**Claude Code** · 2026-07-06 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.202) · from [[Releases/Claude Code/claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8|v2.1.202]]
+**Claude Code** · 2026-07-06 · [[Themes/safety-privacy|Safety and Privacy]] · Fix · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.202) · from [[Releases/Claude Code/claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8|v2.1.202]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -79,10 +81,9 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-07-06-3-agent-mode-changes-in-v2-1-202|3 Agent Mode changes in v2.1.202]] · Agent Mode
+- [[Changes/Claude Code/2026-07-06-changed-review-pr-back-to-a-fast-single-pass-review-use-code-review-level-pr-for|Changed /review pr back to a fast single-pass review]] · Developer Workflow
 - [[Changes/Claude Code/2026-07-06-improved-mcp-error-messages-clearer-error-when-a-server-config-has-url-but-no-ty|Improved MCP error messages]] · Apps and Integrations
-- [[Changes/Claude Code/2026-07-06-added-a-dynamic-workflow-size-setting-in-config-for-controlling-how-large-claude|Added a "Dynamic workflow size" setting in /config for controlling how large…]] · Agent Mode
-- [[Changes/Claude Code/2026-07-06-added-workflow-run-id-and-workflow-name-opentelemetry-attributes-to-telemetry-em|Added workflow.run_id and workflow.name OpenTelemetry attributes to telemetry…]] · Agent Mode
-- [[Changes/Claude Code/2026-07-06-improved-workflows-agent-list-layout-wider-titles-a-dedicated-time-column-shorte|Improved /workflows agent list layout]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

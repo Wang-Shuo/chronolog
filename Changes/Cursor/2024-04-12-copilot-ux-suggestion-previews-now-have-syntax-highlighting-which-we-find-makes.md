@@ -4,8 +4,8 @@ date: '2024-04-12'
 description: 'Cursor · 2024-04-12 · Editor Experience: Copilot++ UX: Suggestion previews
   now have syntax highlighting, which we find makes it much easier to quickly…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 395
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 1eb4e39aa15bfba16ab351fb78b997bd05fd5b49383a981605730aef0820de20
+kind: change
+machine_hash: 16d4f3610bd320f2f2987d6ba9fc875f21f84c6b31c82402a2a0532414634e07
 product: cursor
 product_name: Cursor
 record:
@@ -30,8 +31,9 @@ record:
   - quote: 'Copilot++ UX: Suggestion previews now have syntax highlighting, which
       we find makes it much easier to quickly understand the changes.'
     source_release: https://cursor.com/changelog/0-32-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: copilot-ux-suggestion-previews-now-have-syntax-highlighting-which-we-find-makes
@@ -46,8 +48,8 @@ record:
 related_changes:
 - '[[Changes/Cursor/2024-02-09-ai-previews-this-is-an-experimental-new-code-reading-feature-after-enabling-in-t|AI
   Previews: this is an experimental new code reading feature]]'
-- '[[Changes/Cursor/2024-02-23-cursor-is-now-based-on-vs-code-1-86-2-among-other-things-this-adds-sticky-scroll|Cursor
-  is now based on VS Code 1.86.2!]]'
+- '[[Changes/Cursor/2024-02-23-cursor-is-now-based-on-vs-code-1-86-2-among-other-things-this-adds-sticky-scroll|VS
+  Code 1.86.2]]'
 - '[[Changes/Cursor/2024-03-20-team-invites-we-made-it-a-bit-easier-for-you-to-invite-your-colleagues-to-your-c|Team
   invites: We made it a bit easier for you to invite your colleagues…]]'
 source_release: '[[Releases/Cursor/cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc|cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc]]'
@@ -82,13 +84,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-team-invites-we-made-it-a-bit-easier-for-you-to-invite-your-colleagues-to-your-c|Team invites: We made it a bit easier for you to invite your colleagues…]]
-- Later: 2024-05-26 · Cursor · [[Changes/Cursor/2024-05-26-merges-vs-code-1-89-into-cursor|Merges VS Code 1.89 into Cursor]]
+- Later: 2024-05-26 · Cursor · [[Changes/Cursor/2024-05-26-merges-vs-code-1-89-into-cursor-38031f|Merges VS Code 1.89 into Cursor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

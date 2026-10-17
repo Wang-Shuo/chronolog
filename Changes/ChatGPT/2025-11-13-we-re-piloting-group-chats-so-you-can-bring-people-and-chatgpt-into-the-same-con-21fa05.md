@@ -15,9 +15,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 3a127c54ff9e6256098b58f7f3adb521fd2ab69199f9609000849181413b3874
+kind: change
+machine_hash: 170571305e0f9dc86a2c91143080f3619ad6de8c39a24e88741746f4e57b940f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,34 +44,33 @@ record:
       from this pilot to improve the experience and inform how we expand to more regions
       and plans over time. To learn more visit the blog.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con
   source_release: chatgpt-2025-11-13-group-chats-in-chatgpt-8a8193ad
   source_type: chatgpt_changelog
   theme: mobile-desktop
-  title: We’re piloting group chats so you can bring people - and ChatGPT - into the
-    same…
+  title: Group chats in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-08-available-on-web-mobile-ios-android-and-desktop-macos-windows-note-in-cambodia-l|Available
-  on web, mobile (iOS & Android), and desktop (macOS & Windows)]]'
-- '[[Changes/ChatGPT/2025-10-14-available-on-web-mobile-ios-android-and-desktop-macos-windows-note-in-cambodia-l|Available
-  on web, mobile (iOS & Android), and desktop (macOS & Windows)]]'
-- '[[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-9033cc|Starting
+- '[[Changes/ChatGPT/2025-09-17-the-thinking-time-toggle-is-live-today-on-chatgpt-com-settings-you-choose-on-the|The
+  thinking-time toggle is live today on chatgpt.com]]'
+- '[[Changes/Cursor/2025-09-29-on-windows-agent-now-correctly-uses-powershell-on-macos-and-linux-powershell-wil|On
+  Windows, Agent now correctly uses PowerShell]]'
+- '[[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-3f946e|Starting
   today, project sharing is available to all ChatGPT users, including…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-13-group-chats-in-chatgpt-8a8193ad|chatgpt-2025-11-13-group-chats-in-chatgpt-8a8193ad]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: We’re piloting group chats so you can bring people - and ChatGPT - into the
-  same…
+title: Group chats in ChatGPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We’re piloting group chats so you can bring people - and ChatGPT - into the same…
+# Group chats in ChatGPT
 
 **ChatGPT** · 2025-11-13 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-11-13-group-chats-in-chatgpt-8a8193ad|Group chats in ChatGPT]]
 <!-- chronolog:end -->
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-10-23 · ChatGPT · [[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-9033cc|Starting today, project sharing is available to all ChatGPT users, including…]]
-- Later: 2025-12-18 · ChatGPT · [[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|Pin chats to the top of your list for quick access to important conversations]]
+- Earlier: 2025-10-23 · ChatGPT · [[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-3f946e|Starting today, project sharing is available to all ChatGPT users, including…]]
+- Later: 2025-12-18 · ChatGPT · [[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|Pinned chats in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

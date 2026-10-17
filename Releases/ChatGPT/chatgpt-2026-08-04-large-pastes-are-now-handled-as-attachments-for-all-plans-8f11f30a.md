@@ -3,7 +3,7 @@ changes_count: 2
 date: '2026-08-04'
 description: 'ChatGPT release Large pastes are now handled as attachments for all
   plans on 2026-08-04: 2 tracked changes across Context Window, Enterprise and Administration'
-machine_hash: 4cc009f19228c4158dcfdd8daeb08a6438ba5a03c82bcd401e6132cfb11147ea
+machine_hash: 7bbc8488ec1c003a6853c6afd782a897863aab1af7036f600e7434a9e93b616e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,11 +39,11 @@ version: Large pastes are now handled as attachments for all plans
 <!-- chronolog:begin region="summary" -->
 Starting today for ChatGPT Enterprise and Education users, long pastes are handled differently in ChatGPT.
 
-Tracked 2 of 4 candidate lines.
+Tracked 2 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-08-04-if-you-paste-more-than-10k-characters-into-the-composer-chatgpt-will-automatical|If you paste more than 10k characters into the composer, ChatGPT will automatically…]] · Context Window
+- [[Changes/ChatGPT/2026-08-04-if-you-paste-more-than-10k-characters-into-the-composer-chatgpt-will-automatical-1bd022|If you paste more than 10k characters into the composer, ChatGPT will automatically…]] · Context Window
 - [[Changes/ChatGPT/2026-08-04-starting-today-for-chatgpt-enterprise-and-education-users-long-pastes-are-handle|Starting today for ChatGPT Enterprise and Education users, long pastes are handled…]] · Enterprise and Administration
 <!-- chronolog:end -->

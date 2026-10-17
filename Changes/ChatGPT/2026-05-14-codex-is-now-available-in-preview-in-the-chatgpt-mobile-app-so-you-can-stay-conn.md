@@ -15,9 +15,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: f1e5bca9d12e2f4914a1ad93204fb2760f785fff4f95f9503438a9daa152c591
+kind: expansion
+machine_hash: 7a274f5e715058072aea3b1f6b61e2a722d7644cf8e567830e68f5524dda739a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -59,8 +60,9 @@ record:
       continues in ChatGPT after scanning a QR code; the host must remain awake, online,
       and running Codex for remote access to continue.Learn more in Remote connections.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: expansion
   product: chatgpt
   product_name: ChatGPT
   slug: codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn
@@ -91,26 +93,26 @@ record:
     - terminal
     score: 50
     theme: developer-workflow
-  title: Codex is now available in preview in the ChatGPT mobile app, so you can stay…
+  title: Codex remote access from the ChatGPT mobile app
   type: change
 related_changes:
+- '[[Changes/Claude Code/2026-04-22-native-builds-on-macos-and-linux-the-glob-and-grep-tools-are-replaced-by-embedde|Native
+  builds on macOS and Linux]]'
 - '[[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The
   agents that run in the Cursor desktop app, CLI, and web app are now accessible…]]'
-- '[[Changes/Claude Code/2026-05-09-vscode-fixed-extension-failing-to-activate-on-windows|VSCode
-  Fixed extension failing to activate on Windows]]'
-- '[[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|Free
-  users in ChatGPT will now see more inline images from the web to help make…]]'
+- '[[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|More
+  images in answers for Free users]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-14-codex-remote-access-from-the-chatgpt-mobile-app-50be5441|chatgpt-2026-05-14-codex-remote-access-from-the-chatgpt-mobile-app-50be5441]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Codex is now available in preview in the ChatGPT mobile app, so you can stay…
+title: Codex remote access from the ChatGPT mobile app
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Codex is now available in preview in the ChatGPT mobile app, so you can stay…
+# Codex remote access from the ChatGPT mobile app
 
-**ChatGPT** · 2026-05-14 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-05-14-codex-remote-access-from-the-chatgpt-mobile-app-50be5441|Codex remote access from the ChatGPT mobile app]]
+**ChatGPT** · 2026-05-14 · [[Themes/mobile-desktop|Mobile and Desktop]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-05-14-codex-remote-access-from-the-chatgpt-mobile-app-50be5441|Codex remote access from the ChatGPT mobile app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -126,7 +128,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-05-12 · ChatGPT · [[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|Free users in ChatGPT will now see more inline images from the web to help make…]]
+- Earlier: 2026-05-12 · ChatGPT · [[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|More images in answers for Free users]]
 - Later: 2026-05-14 · ChatGPT · [[Changes/ChatGPT/2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is|Generated images will continue to appear in the Images tab]]
 <!-- chronolog:end -->
 

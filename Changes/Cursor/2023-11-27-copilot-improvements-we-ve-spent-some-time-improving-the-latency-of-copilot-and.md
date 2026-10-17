@@ -15,9 +15,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 084b8d0d16b4d0513c8b02e8d933bcf5f38da4a2a4147efac0a2f4db48889d1b
+kind: change
+machine_hash: 2a6776feaccce1b2b6e7de165488b924473a500f37419adc728a24ad326241f6
 product: cursor
 product_name: Cursor
 record:
@@ -35,8 +36,9 @@ record:
       Copilot++, and you can change the Copilot++ keybinding to not be Option/Alt.
       More to come here soon, especially on the model itself!'
     source_release: https://cursor.com/changelog/0-17-0
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: copilot-improvements-we-ve-spent-some-time-improving-the-latency-of-copilot-and
@@ -97,7 +99,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2023-11-12 · Cursor · [[Changes/Cursor/2023-11-12-copilot-improvements-includes-green-highlights-to-see-what-copilot-has-added-the|Copilot++ improvements: Includes green highlights to see what Copilot++ has added…]]
-- Later: 2023-12-06 · Cursor · [[Changes/Cursor/2023-12-06-allows-users-to-provide-feedback-on-the-chat-response|Allows users to provide feedback on the chat response]]
+- Later: 2023-12-06 · Cursor · [[Changes/Cursor/2023-12-06-minor-onboarding-changes-19f3e5|Onboarding & Feedback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

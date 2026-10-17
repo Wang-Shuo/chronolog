@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 01d3d0c7237298b0a1f9afa3d78e6d6db6b3107c7b17e40a63d25baf810617c9
+machine_hash: 92ce0fae92e33a65c236cb479556bb2d818c1b4c23eeea647216f4162d793665
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   Cursor''s AI will now use popular documentation to improve the answers…]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-07-0-2-44-https-cursor-com-changelog-0-2-44-d76d2226|cursor-2023-07-07-0-2-44-https-cursor-com-changelog-0-2-44-d76d2226]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: Makes it clearer which docs are being looked at by the AI
 type: change

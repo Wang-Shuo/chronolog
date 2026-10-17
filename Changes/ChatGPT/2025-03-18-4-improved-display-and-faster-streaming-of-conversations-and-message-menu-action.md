@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0e6089ba5cbb20aa1325e243657e21cd4182433469439941186fbcfebaea7dda
+machine_hash: ff6f5157823e11840e89aa8234b18812de7e303cac7e11dbbd04934001fc1f6a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,6 +58,7 @@ related_changes:
   Faster applies, warns user when edits fails because of cursorignore]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-ios-app-6a42bb0f|chatgpt-2025-03-18-ios-app-6a42bb0f]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: reliability-performance
 title: Improved display and faster streaming of conversations and message menu actions
 type: change

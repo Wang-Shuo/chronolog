@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 716b4363a6b78490282e7e1af36d6e59ed43ad3a49e38c14e8c1847ebb1b5551
+machine_hash: 169fbe1c5e06848c9a293972e7bd3cb2e10385bf51831c987b0f7714f74004f8
 product: cursor
 product_name: Cursor
 record:
@@ -52,6 +52,7 @@ related_changes:
   agent generated code is now easier with a built-in diff view at the end…]]'
 source_release: '[[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Cursor fixes a long-standing issue where Always attached rules now persist
   across…

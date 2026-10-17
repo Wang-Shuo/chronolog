@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 213350b64c92e1715fd3672a095af0a05621b9089ec90cb6398b74e6bb67e753
+machine_hash: e865b52cf3a79472288f48969b5cfa3ffbd5648b935ab26230e67a0c200a4b10
 product: cursor
 product_name: Cursor
 record:
@@ -52,6 +52,7 @@ related_changes:
   can take screenshots, improve UI, and debug client issues]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Observe, control, and extend the Agent loop using custom scripts
 type: change

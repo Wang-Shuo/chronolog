@@ -3,7 +3,7 @@ changes_count: 2
 date: '2026-08-31'
 description: 'ChatGPT release Use website tools in the desktop browser on 2026-08-31:
   2 tracked changes across Mobile and Desktop'
-machine_hash: 221b23e06bd5ddb2ef6ee55ac1361050a26f9496c17488194e4dc0057c24d70f
+machine_hash: a56e97291af2c82e01d484c7755d2f6b5ac2557fb23fced4cb6815b749be829b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ version: Use website tools in the desktop browser
 <!-- chronolog:begin region="summary" -->
 ChatGPT Work and Codex can now use tools that supported websites provide directly in the desktop app’s built-in browser.
 
-Tracked 2 of 4 candidate lines.
+Tracked 2 cards from 4 candidate lines; 1 line pending review.
 <!-- chronolog:end -->
 
 ## Change Cards

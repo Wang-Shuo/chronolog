@@ -3,7 +3,7 @@ changes_count: 3
 date: '2023-04-14'
 description: 'Cursor release Enhanced Error Handling (2023-04-14) on 2023-04-14: 3
   tracked changes across Developer Workflow, Editor Experience, Model Support'
-machine_hash: 36ed50977b3c4c25fa24ab2ed1eefec0123f8a100c1a7372abf02cd21a06c770
+machine_hash: c347ad64a47ae26863f515a30fa801279ec7ea37cd7a47207cd1a16c8dca0504
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.2.3
 <!-- chronolog:begin region="summary" -->
 3 tracked changes across 3 themes: Developer Workflow, Editor Experience, Model Support.
 
-Tracked 3 of 4 candidate lines.
+Tracked 3 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

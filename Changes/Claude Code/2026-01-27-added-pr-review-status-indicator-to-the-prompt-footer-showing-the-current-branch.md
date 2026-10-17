@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 575d633f86e7cc155f86b3f2957503e660b04f15102c40c8384bf009e56b9a12
+machine_hash: 0f17066ed38766215e07c43abcf3f7428ff3db93f4300478baa026cfa8b563fd
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   backspace to delete pasted text as a single token instead of one character…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-27-v2-1-20-github-280123443-38431f59|claude-code-2026-01-27-v2-1-20-github-280123443-38431f59]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added PR review status indicator to the prompt footer, showing the current
   branch's…

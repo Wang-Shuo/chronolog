@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9b470ab6cfb697fa6dc2e0f0f0e874e27d5f66aa9a2dca1ec60bd5186a02cf08
+machine_hash: 164166e3a815f975cd6284be62000d387cc4b5399249c0656a5c3bc9a8efefd9
 product: cursor
 product_name: Cursor
 record:
@@ -42,6 +42,7 @@ record:
   type: change
 source_release: '[[Releases/Cursor/cursor-2023-03-14-0-0-37-https-cursor-com-changelog-0-0-37-236c8006|cursor-2023-03-14-0-0-37-https-cursor-com-changelog-0-0-37-236c8006]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: Instant fix all lint errors with AI 😎
 type: change

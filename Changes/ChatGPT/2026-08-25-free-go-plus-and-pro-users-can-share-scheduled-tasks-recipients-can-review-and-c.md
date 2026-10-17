@@ -4,7 +4,7 @@ date: '2026-08-25'
 description: 'ChatGPT · 2026-08-25 · Automation and Scheduling: Free, Go, Plus, and
   Pro users can share scheduled tasks. Recipients can review and customize the instructions…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|Tasks
+  first_in_tracked: '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks
     let you set up automated prompts that ChatGPT can run for you]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 251
@@ -14,9 +14,10 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f33b54cfdc1ef4017a5163073251bd66c882b2cd3a97022ae455742709450e2e
+kind: launch
+machine_hash: b58bcf03a43898972b5c7a03449ea0190da753518e1ba05781282caea28f2daf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,44 +35,35 @@ record:
       their own apps, and create an independent copy. Running a shared webhook-triggered
       task requires access to Work and the recipient’s own connected app.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: chatgpt
   product_name: ChatGPT
-  slug: free-go-plus-and-pro-users-can-share-scheduled-tasks-recipients-can-review-and-c
+  slug: share-scheduled-tasks
   source_release: chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4
   source_type: chatgpt_changelog
   theme: automation-scheduling
-  theme_matches:
-  - matched_terms:
-    - scheduled tasks
-    score: 60
-    theme: automation-scheduling
-  - matched_terms:
-    - apps
-    score: 50
-    theme: apps-integrations
-  theme_resolution: manual-semantic-rule-v1
-  title: Free, Go, Plus, and Pro users can share scheduled tasks
+  title: Share scheduled tasks
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-18-react-to-any-slack-message-with-a-designated-emoji-to-kick-off-an-automation-at|React
-  to any Slack message with a designated emoji to kick off an automation]]'
-- '[[Changes/ChatGPT/2026-07-09-work-can-also-keep-projects-moving-through-scheduled-tasks-that-run-once-repeat|Work
+- '[[Changes/ChatGPT/2026-07-09-work-can-also-keep-projects-moving-through-scheduled-tasks-that-run-once-repeat-2d6910|Work
   can also keep projects moving through Scheduled Tasks that run once, repeat…]]'
+- '[[Changes/Claude Code/2026-08-13-pasted-and-clipboard-images-are-read-without-blocking-the-event-loop|Pasted
+  and clipboard images are read without blocking the event loop]]'
 - '[[Changes/ChatGPT/2026-08-25-scheduled-tasks-in-chatgpt-work-can-use-webhooks-to-respond-when-something-chang|Scheduled
   tasks in ChatGPT Work can use webhooks to respond when something changes…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4|chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4]]'
 source_type: chatgpt_changelog
 theme: automation-scheduling
-title: Free, Go, Plus, and Pro users can share scheduled tasks
+title: Share scheduled tasks
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Free, Go, Plus, and Pro users can share scheduled tasks
+# Share scheduled tasks
 
-**ChatGPT** · 2026-08-25 · [[Themes/automation-scheduling|Automation and Scheduling]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4|Scheduled tasks can respond to app updates and be shared]]
+**ChatGPT** · 2026-08-25 · [[Themes/automation-scheduling|Automation and Scheduling]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4|Scheduled tasks can respond to app updates and be shared]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -84,21 +76,21 @@ type: change
 ## Also in this release
 
 - [[Changes/ChatGPT/2026-08-25-scheduled-tasks-in-chatgpt-work-can-use-webhooks-to-respond-when-something-chang|Scheduled tasks in ChatGPT Work can use webhooks to respond when something changes…]] · Automation and Scheduling
-- [[Changes/ChatGPT/2026-08-25-free-users-can-create-up-to-three-active-scheduled-tasks-tasks-can-run-once-or-r|Free users can create up to three active scheduled tasks]] · Automation and Scheduling
-- [[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Plus and Pro users can ask Work on web, iOS, and Android to respond when a new Gmail…]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-08-25-free-users-can-create-up-to-three-active-scheduled-tasks-tasks-can-run-once-or-r|Scheduled tasks for Free users]] · Automation and Scheduling
+- [[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Create webhook-triggered tasks]] · Mobile and Desktop
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-work-can-also-keep-projects-moving-through-scheduled-tasks-that-run-once-repeat|Work can also keep projects moving through Scheduled Tasks that run once, repeat…]]
-- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-site-owners-can-also-create-recurring-cloud-schedules-from-automations-these-upd|Site owners can also create recurring cloud schedules from Automations]]
+- Earlier: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-pasted-and-clipboard-images-are-read-without-blocking-the-event-loop|Pasted and clipboard images are read without blocking the event loop]]
+- Later: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-changed-loop-self-paced-dynamic-mode-and-the-no-prompt-autonomous-default-are-no|Changed /loop: self-paced dynamic mode and the no-prompt autonomous default…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-12-17 · ChatGPT · [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|Tasks let you set up automated prompts that ChatGPT can run for you]]
+- Earliest same-theme entry in the tracked set: 2025-12-17 · ChatGPT · [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks let you set up automated prompts that ChatGPT can run for you]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

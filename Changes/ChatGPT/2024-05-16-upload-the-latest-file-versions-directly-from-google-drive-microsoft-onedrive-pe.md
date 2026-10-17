@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ef5b8956d48be218f0aa1ad23d093e5b20af5f18a9cfc33578887f7841ee56c0
+machine_hash: 593fa36adc7dd979b396d3fc61a67c88944938e43665c58be9a2f4985f40b211
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,6 +52,7 @@ related_changes:
   (0.24.3-0.24.4): Adds ability to configure OpenAI base URL, fixes…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572|chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: apps-integrations
 title: Upload the latest file versions directly from Google Drive, Microsoft OneDrive…
 type: change

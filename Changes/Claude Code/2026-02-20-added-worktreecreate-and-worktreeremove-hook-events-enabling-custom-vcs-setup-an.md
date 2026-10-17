@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 8f029e9034cd52eb05a82292aef759c5e9acd04b1f6355ef439501c6dd5fe4e8
+machine_hash: 8d371b4012dd21564191cc5349ef8e15e5616dc003bfc910760ea38a6525d448
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,6 +61,7 @@ related_changes:
   views]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-20-v2-1-50-github-288920711-09694b82|claude-code-2026-02-20-v2-1-50-github-288920711-09694b82]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added WorktreeCreate and WorktreeRemove hook events, enabling custom VCS setup…
 type: change

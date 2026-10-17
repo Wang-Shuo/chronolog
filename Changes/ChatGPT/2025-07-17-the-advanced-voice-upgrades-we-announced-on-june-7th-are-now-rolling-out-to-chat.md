@@ -5,8 +5,8 @@ description: 'ChatGPT · 2025-07-17 · Voice and Audio: The Advanced Voice upgra
   we announced on June 7th are now rolling out to ChatGPT free users too. With the
   same…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use
-    voice to engage in a back-and-forth conversation with your assistant]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
+    are beginning to roll out new voice and image capabilities in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 661
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: ed9d625c390a707c42adf7abf4009bee9b94eb7b3575541d75ec06458b0a4a78
+kind: expansion
+machine_hash: bd8ec694bd7950a0305f88383e31722a0bf32a6556ab532a518e201b3082e1cb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,16 +36,16 @@ record:
       ChatGPT sounds more natural and expressive, and can translate more effectively.
       Rate limits for free users stay the same.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: expansion
   product: chatgpt
   product_name: ChatGPT
   slug: the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat
   source_release: chatgpt-2025-07-17-updates-to-advanced-voice-mode-for-free-tier-users-eeba7562
   source_type: chatgpt_changelog
   theme: voice
-  title: The Advanced Voice upgrades we announced on June 7th are now rolling out
-    to ChatGPT…
+  title: Updates to Advanced Voice Mode for Free tier users
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-06-18-chatgpt-will-transcribe-summarize-and-turn-them-into-helpful-outputs-like-follow|ChatGPT
@@ -56,15 +57,14 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-17-updates-to-advanced-voice-mode-for-free-tier-users-eeba7562|chatgpt-2025-07-17-updates-to-advanced-voice-mode-for-free-tier-users-eeba7562]]'
 source_type: chatgpt_changelog
 theme: voice
-title: The Advanced Voice upgrades we announced on June 7th are now rolling out to
-  ChatGPT…
+title: Updates to Advanced Voice Mode for Free tier users
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# The Advanced Voice upgrades we announced on June 7th are now rolling out to ChatGPT…
+# Updates to Advanced Voice Mode for Free tier users
 
-**ChatGPT** · 2025-07-17 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-07-17-updates-to-advanced-voice-mode-for-free-tier-users-eeba7562|Updates to Advanced Voice Mode for Free tier users]]
+**ChatGPT** · 2025-07-17 · [[Themes/voice|Voice and Audio]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-07-17-updates-to-advanced-voice-mode-for-free-tier-users-eeba7562|Updates to Advanced Voice Mode for Free tier users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -81,13 +81,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-07-16 · ChatGPT · [[Changes/ChatGPT/2025-07-16-record-live-conversations-like-team-meetings-or-voice-notes-and-turn-those-into|Record live conversations like team meetings or voice notes, and turn those…]]
-- Later: 2025-08-07 · ChatGPT · [[Changes/ChatGPT/2025-08-07-today-we-re-rolling-out-improvements-to-voice-mode-to-make-it-more-accessible-an-055388|ChatGPT rolls out improvements to Voice Mode to make it more accessible and useful…]]
+- Later: 2025-08-07 · ChatGPT · [[Changes/ChatGPT/2025-08-07-today-we-re-rolling-out-improvements-to-voice-mode-to-make-it-more-accessible-an-055388|ChatGPT Voice updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use voice to engage in a back-and-forth conversation with your assistant]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

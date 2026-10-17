@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c2ad6a481d32c6221f1ed4df363c8e2afb24f16d8b87ee0212f456c2f9cba99b
+machine_hash: f26e6b6933e6200b29340f7853b64a803af22fca840108df8b90147635a860db
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   Bash permission checks to no longer auto-approve certain help and man…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-18-v2-1-214-github-355973317-478680c5|claude-code-2026-07-18-v2-1-214-github-355973317-478680c5]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed Bash permission checks misjudging very long commands
 type: change

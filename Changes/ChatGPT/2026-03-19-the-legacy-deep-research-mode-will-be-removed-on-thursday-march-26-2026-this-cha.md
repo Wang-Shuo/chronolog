@@ -14,9 +14,10 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 7d8bc7dca659411003b4f416a5cbf30dfa7ed4d62fedaea7e8185495437bcf05
+kind: policy
+machine_hash: 217d2f33a5f3eceb6607962d95e79548ac297abd3543a488803872866e64b5ad
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,34 +35,35 @@ record:
       will remain unchanged.Historical conversations and results will remain accessible.To
       learn more about deep research, see: Deep research in ChatGPT.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: policy
   product: chatgpt
   product_name: ChatGPT
   slug: the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha
   source_release: chatgpt-2026-03-19-legacy-deep-research-mode-deprecation-notice-99d97534
   source_type: chatgpt_changelog
   theme: search-browsing
-  title: The legacy deep research mode will be removed on Thursday, March 26, 2026
+  title: Legacy deep research mode deprecation notice
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-29-instant-checkout-makes-it-easy-to-go-from-chat-to-checkout-in-just-a-few-taps|Instant
-  Checkout makes it easy to go from chat to checkout in just a few taps]]'
-- '[[Changes/ChatGPT/2025-09-29-ask-chatgpt-a-shopping-question-and-it-finds-organic-unsponsored-product-results|Ask
-  ChatGPT a shopping question and it finds organic, unsponsored product results…]]'
+- '[[Changes/Cursor/2025-09-29-1-7-20-web-search-auto-accept-setting|1.7.20: Web search
+  auto-accept setting]]'
+- '[[Changes/Cursor/2026-01-16-added-webfetch-websearch-tools-approval-options-for-granular-controls-over-web-s|Added
+  WebFetch, WebSearch tools, & approval options for granular controls over web…]]'
 - '[[Changes/ChatGPT/2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results|Open
   search results in a new tab]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-19-legacy-deep-research-mode-deprecation-notice-99d97534|chatgpt-2026-03-19-legacy-deep-research-mode-deprecation-notice-99d97534]]'
 source_type: chatgpt_changelog
 theme: search-browsing
-title: The legacy deep research mode will be removed on Thursday, March 26, 2026
+title: Legacy deep research mode deprecation notice
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# The legacy deep research mode will be removed on Thursday, March 26, 2026
+# Legacy deep research mode deprecation notice
 
-**ChatGPT** · 2026-03-19 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-19-legacy-deep-research-mode-deprecation-notice-99d97534|Legacy deep research mode deprecation notice]]
+**ChatGPT** · 2026-03-19 · [[Themes/search-browsing|Search and Browsing]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-19-legacy-deep-research-mode-deprecation-notice-99d97534|Legacy deep research mode deprecation notice]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -78,7 +80,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-02-27 · ChatGPT · [[Changes/ChatGPT/2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results|Open search results in a new tab]]
-- Later: 2026-03-24 · ChatGPT · [[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|ChatGPT improves shopping to make it easier to discover, compare, and decide on products]]
+- Later: 2026-03-24 · ChatGPT · [[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|Shopping updates in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-08-07'
 description: 'ChatGPT release ChatGPT Voice updates on 2025-08-07: 1 tracked change
   across Voice and Audio'
-machine_hash: 66e0bd75def4aa016fa2499c193276fe9e8854f6c5f3cd8e1c12637b158d84b5
+machine_hash: 1e094ee13e6f57135d4d4a709109c63e3ae5f87bd0c218608a6af3397fdfffdf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: ChatGPT Voice updates
 <!-- chronolog:begin region="summary" -->
 Today we’re rolling out improvements to Voice Mode to make it more accessible and useful for everyone. It also now works with custom GPTs. We’re expanding access with near-unlimited use for Plus users and hours each day for Free users. To simplify the experience, Standard Voice Mode will be retired in 30 days, unifying…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-08-07-today-we-re-rolling-out-improvements-to-voice-mode-to-make-it-more-accessible-an-055388|ChatGPT rolls out improvements to Voice Mode to make it more accessible and useful…]] · Voice and Audio
+- [[Changes/ChatGPT/2025-08-07-today-we-re-rolling-out-improvements-to-voice-mode-to-make-it-more-accessible-an-055388|ChatGPT Voice updates]] · Voice and Audio
 <!-- chronolog:end -->

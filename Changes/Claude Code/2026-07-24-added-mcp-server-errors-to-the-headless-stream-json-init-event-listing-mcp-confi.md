@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4a7a5adf4c17a83084025408b523b2c2e2084bfab90f2b69c440915c769b178f
+machine_hash: 60ff4f022a7c987c4f286a87ede31bdf81092b6e0b64037993f0e10b2ff0e6bc
 product: claude-code
 product_name: Claude Code
 record:
@@ -60,6 +60,7 @@ related_changes:
   HTTP status and error text to claude mcp list and /mcp when a server fails…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233|claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added mcp_server_errors to the headless stream-json init event, listing…
 type: change

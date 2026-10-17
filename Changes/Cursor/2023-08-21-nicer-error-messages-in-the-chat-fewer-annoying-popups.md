@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1f474cd7f5a6b9a54a3ccd5604448eaeb705ec3a1539616768c9e91299b71212
+machine_hash: 7c6b84aea8273edd0f78438b43d8be6e45938bf501a108af1c3c74929ac92034
 product: cursor
 product_name: Cursor
 record:
@@ -48,6 +48,7 @@ related_changes:
   bar elements can now be reordered with drag-and-drop]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-21-0-7-18-nightly-https-cursor-com-changelog-0-7-18-nightly-011c03c1|cursor-2023-08-21-0-7-18-nightly-https-cursor-com-changelog-0-7-18-nightly-011c03c1]]'
 source_type: cursor_changelog
+superseded: true
 theme: interface-experience
 title: Nicer error messages in the chat!
 type: change

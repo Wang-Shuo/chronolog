@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1424594ef37d314c5b10de3446a44c6378c40e9f6a05df1e38c23625bff779b0
+machine_hash: 5057b9ce958b5aab8bfa57ab86ff6dc64edfbffee0c023c87fcb564c7f6c3b02
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   retiring automatic switching from Instant to Thinking (reasoning) for ChatGPT…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d|claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Added effort attribute to the claude_code.llm_request OpenTelemetry trace span…
 type: change

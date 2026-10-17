@@ -4,8 +4,8 @@ date: '2026-02-19'
 description: 'ChatGPT · 2026-02-19 · Apps and Integrations: Preview diagrams and mini
   apps directly in chat'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1064
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: e94f8e5b8fd572dda9397d78b3bd8a991d40c1a15ad06fbcb2dd881cf53191e4
+kind: change
+machine_hash: e84fa6a181eebeaa8d9c91c8a7028816555bf1de866e87f90f74c5a8da519ace
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Preview diagrams and mini apps directly in chat
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: preview-diagrams-and-mini-apps-directly-in-chat
@@ -39,12 +41,12 @@ record:
   title: Preview diagrams and mini apps directly in chat
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-17-plugins-package-skills-subagents-mcp-servers-hooks-and-rules-into-a-single-insta|Plugins
-  package skills, subagents, MCP servers, hooks, and rules, into a single install]]'
-- '[[Changes/Cursor/2026-02-17-browse-plugins-at-cursor-com-marketplace-or-install-directly-in-the-editor-with|Browse
-  plugins at cursor.com/marketplace or install directly in the editor…]]'
-- '[[Changes/Cursor/2026-02-17-our-initial-partners-include-amplitude-aws-figma-linear-stripe-and-more-these-pl|Our
-  initial partners include Amplitude, AWS, Figma, Linear, Stripe, and more]]'
+- '[[Changes/Cursor/2026-02-17-plugins-on-the-cursor-marketplace-0cef65|Plugins on
+  the Cursor Marketplace]]'
+- '[[Changes/Claude Code/2026-02-18-added-last-assistant-message-field-to-stop-and-subagentstop-hook-inputs-providin|Added
+  last_assistant_message field to Stop and SubagentStop hook inputs, providing…]]'
+- '[[Changes/Cursor/2026-02-18-3-apps-and-integrations-changes-in-cli-improvements-and-mermaid-ascii|3
+  Apps and Integrations changes in CLI Improvements and Mermaid ASCII…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-19-interactive-code-blocks-in-chatgpt-c2254f84|chatgpt-2026-02-19-interactive-code-blocks-in-chatgpt-c2254f84]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -67,22 +69,21 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2026-02-19-write-and-edit-text-in-line|Write and edit text in-line]] · Editor Experience
-- [[Changes/ChatGPT/2026-02-19-we-improved-code-blocks-in-chatgpt-to-make-them-more-interactive-you-can-write-e-69f629|We improved Code Blocks in ChatGPT to make them more interactive]] · Editor Experience
+- [[Changes/ChatGPT/2026-02-19-we-improved-code-blocks-in-chatgpt-to-make-them-more-interactive-you-can-write-e-6b2623|We improved Code Blocks in ChatGPT to make them more interactive]] · Editor Experience
 - [[Changes/ChatGPT/2026-02-19-review-code-in-split-screen-views|Review code in split-screen views]] · Developer Workflow
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-17 · Cursor · [[Changes/Cursor/2026-02-17-our-initial-partners-include-amplitude-aws-figma-linear-stripe-and-more-these-pl|Our initial partners include Amplitude, AWS, Figma, Linear, Stripe, and more]]
-- Later: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-claude-code-simple-mode-now-also-disables-mcp-tools-attachments-hooks-and-claude|CLAUDE_CODE_SIMPLE mode now also disables MCP tools, attachments, hooks…]]
+- Earlier: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-3-apps-and-integrations-changes-in-cli-improvements-and-mermaid-ascii|3 Apps and Integrations changes in CLI Improvements and Mermaid ASCII…]]
+- Later: 2026-02-19 · Claude Code · [[Changes/Claude Code/2026-02-19-2-apps-and-integrations-changes-in-v2-1-49|2 Apps and Integrations changes in v2.1.49]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -1,9 +1,9 @@
 ---
-changes_count: 2
+changes_count: 1
 date: '2026-08-21'
-description: 'ChatGPT release Updates to ChatGPT on iOS on 2026-08-21: 2 tracked changes
-  across Reliability and Performance, Safety and Privacy'
-machine_hash: 6a4c1084c3f824dd5fbeab12b4ab46f177416d143ca8224f71451903d3023380
+description: 'ChatGPT release Updates to ChatGPT on iOS on 2026-08-21: 1 tracked change
+  across Reliability and Performance'
+machine_hash: 5241ebcb34e132b6c3efd09cca657fdd4ccf2ee29fcc1602b1b7173203bdbc98
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,11 +39,10 @@ version: Updates to ChatGPT on iOS
 <!-- chronolog:begin region="summary" -->
 Recent photos are easier to reach, and connection-status messages are clearer.
 
-Tracked 2 of 4 candidate lines.
+Tracked 1 card from 4 candidate lines; 1 line pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-08-21-available-in-the-chatgpt-app-for-ios-access-to-recent-photos-requires-permission|Available in the ChatGPT app for iOS]] · Safety and Privacy
 - [[Changes/ChatGPT/2026-08-21-attach-recent-photos-faster-press-and-hold-the-button-to-open-your-recent-photos|Attach recent photos faster]] · Reliability and Performance
 <!-- chronolog:end -->

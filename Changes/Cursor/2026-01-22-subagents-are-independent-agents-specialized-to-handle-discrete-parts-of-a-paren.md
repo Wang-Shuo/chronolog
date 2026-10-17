@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: b79696bcb5b2917982923594c457a026aab380ed6627a2398928ab69316feef8
+machine_hash: 66519d8d1a1f719cb52a8bcee27e13cecb44be5e0091da4acae9d3b6607eb298
 product: cursor
 product_name: Cursor
 record:
@@ -69,6 +69,7 @@ related_changes:
   you can define custom subagents]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Subagents are independent agents specialized to handle discrete parts of a
   parent…

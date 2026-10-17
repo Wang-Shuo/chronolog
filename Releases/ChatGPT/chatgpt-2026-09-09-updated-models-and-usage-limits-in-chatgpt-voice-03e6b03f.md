@@ -1,9 +1,9 @@
 ---
-changes_count: 2
+changes_count: 3
 date: '2026-09-09'
 description: 'ChatGPT release Updated models and usage limits in ChatGPT Voice on
-  2026-09-09: 2 tracked changes across Model Support, Pricing Model'
-machine_hash: bf1c768a5aaa77e09039a8ca5318c7f225239200f2f5e3a51d25d3d91c172b4d
+  2026-09-09: 3 tracked changes across Pricing Model, Model Support'
+machine_hash: 271287173573ed4d00e40d71abaca31fb1a8c7f3b10655e76cb23ee01da4a806
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,11 +41,12 @@ version: Updated models and usage limits in ChatGPT Voice
 <!-- chronolog:begin region="summary" -->
 ChatGPT Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason through harder questions. Choose your model and reasoning effort using the same controls as text chat. Available models and their usage limits depend on your plan.
 
-Tracked 2 of 9 candidate lines.
+Tracked 3 cards from 9 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-09-09-chatgpt-voice-can-now-use-gpt-5-6-or-gpt-6-astra-when-it-needs-to-search-or-reas|ChatGPT Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason…]] · Model Support
-- [[Changes/ChatGPT/2026-09-09-pro-100-month-up-to-15-hours-with-gpt-live-1|Pro ($100/month): Up to 15 hours with GPT-Live-1]] · Pricing Model
+- [[Changes/ChatGPT/2026-09-09-pro-200-month-unlimited-gpt-live-1-usage|Pro ($200/month): Unlimited GPT-Live-1 usage]] · Pricing Model · Pricing
+- [[Changes/ChatGPT/2026-09-09-pro-100-month-up-to-15-hours-with-gpt-live-1|Pro ($100/month): Up to 15 hours with GPT-Live-1]] · Pricing Model · Pricing
+- [[Changes/ChatGPT/2026-09-09-chatgpt-voice-can-now-use-gpt-5-6-or-gpt-6-astra-when-it-needs-to-search-or-reas-848954|ChatGPT Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason…]] · Model Support
 <!-- chronolog:end -->

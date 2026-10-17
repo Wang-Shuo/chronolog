@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6838d482935f7e6144933967e376a4a52967960357bb26e9296f5ea8347425ae
+machine_hash: ee6024048d927500f414615a992bfd69976729b662637efca0516de93bc5bff9
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   MCP elicitation support]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721|claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added StopFailure hook event that fires when the turn ends due to an API error…
 type: change

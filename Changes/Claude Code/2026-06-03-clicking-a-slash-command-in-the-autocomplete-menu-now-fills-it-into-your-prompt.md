@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ea0547fba81677e1bd05d377be936855b98f7c49b5c822278e3a0af30fa54b14
+machine_hash: 2d9fa170466a7ca6fdd379b6cbdbad83759165c46991720dd8cb4c32f1d4f708
 product: claude-code
 product_name: Claude Code
 record:
@@ -60,6 +60,7 @@ related_changes:
   mode: clipboard now uses wl-copy/xclip/xsel on Linux…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c|claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Clicking a slash command in the autocomplete menu now fills it into your prompt…
 type: change

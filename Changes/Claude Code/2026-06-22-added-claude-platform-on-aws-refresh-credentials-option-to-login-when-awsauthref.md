@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8c47d3b57f8d0b8b152b8c593fd0589c047ca903695feebd7c4ba7a0216729de
+machine_hash: 5897ce953f057d7190491083e8612b699a7f2561013b08e09b2c881b2a28019d
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   claude mcp login name and claude mcp logout name to authenticate MCP…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b|claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b]]'
 source_type: github_releases
+superseded: true
 theme: account-access
 title: Added "Claude Platform on AWS - refresh credentials" option to /login…
 type: change

@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: eccf79eb0ee03eea01b37991d523351d0ac6023ead9d4fa6bb435ed22f14fcbb
+machine_hash: bacb520fdd7b75df8cdb4629655de7e4e667910818d6ffe7f5f2128bf1eb08d5
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,6 +47,7 @@ related_changes:
   /resume command now offers to summarize stale, large sessions before…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-119-github-312949780-573724e7|claude-code-2026-04-23-v2-1-119-github-312949780-573724e7]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added prUrlTemplate setting to point the footer PR badge at a custom code-review…
 type: change

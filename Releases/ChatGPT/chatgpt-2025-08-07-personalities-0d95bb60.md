@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-08-07'
 description: 'ChatGPT release Personalities on 2025-08-07: 1 tracked change across
   Voice and Audio'
-machine_hash: 85015ab332de3fa6b006cbfa9fd05a89fff0c316baa9734a653879ab877500d0
+machine_hash: e4d8fe207eedde076a30a65a42f45cd80f4b09cff0d963113c1ce1c76cf4c544
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: Personalities
 <!-- chronolog:begin region="summary" -->
 You can now choose from four distinct personalities or use the Default personality in your Customize ChatGPT settings. Default is the standard ChatGPT style: clear, neutral, and adaptable. The other personalities each have their own style and tone, described below.Cynic – Sarcastic and dry, delivers blunt help with…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali-b6826c|Choose from four distinct personalities or use the Default personality…]] · Voice and Audio
+- [[Changes/ChatGPT/2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali-b6826c|Personalities]] · Voice and Audio
 <!-- chronolog:end -->

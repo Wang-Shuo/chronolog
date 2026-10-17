@@ -3,7 +3,7 @@ changes_count: 0
 date: '2023-08-11'
 description: 'Cursor release Fix cmd-k generate with large file on 2023-08-11: no
   tracked changes'
-machine_hash: 54d8990d83a362baab861b6249515894421a593cb2ad251683dc0578c111e1d4
+machine_hash: 3eaa188a9ede176bb7f0c54186060ef93b89b29050d82005bd851c3a27b04476
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.7.2-0.7.6-nightly
 <!-- chronolog:begin region="summary" -->
 No more cognitive computing!
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

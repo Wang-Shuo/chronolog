@@ -3,7 +3,7 @@ changes_count: 1
 date: '2024-02-23'
 description: 'Cursor release VS Code 1.86.2 on 2024-02-23: 1 tracked change across
   Editor Experience'
-machine_hash: 85b169965b6f17f5b8e3d7b61477985910beaff592121dbfc886d87d3a1f2868
+machine_hash: e14f0c9fc0e4c08b4e21bcaf5c0e82854b058a0d6b4bd560f0ad7e504dc690fb
 product: cursor
 product_name: Cursor
 record:
@@ -39,10 +39,10 @@ version: 0.28.x
 <!-- chronolog:begin region="summary" -->
 Cursor is now based on VS Code 1.86.2! Among other things, this adds sticky scroll support to tree views. Also, cmdk prompt bars are now sticky.
 
-Tracked 1 of 2 candidate lines.
+Tracked 1 card from 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2024-02-23-cursor-is-now-based-on-vs-code-1-86-2-among-other-things-this-adds-sticky-scroll|Cursor is now based on VS Code 1.86.2!]] · Editor Experience
+- [[Changes/Cursor/2024-02-23-cursor-is-now-based-on-vs-code-1-86-2-among-other-things-this-adds-sticky-scroll|VS Code 1.86.2]] · Editor Experience
 <!-- chronolog:end -->

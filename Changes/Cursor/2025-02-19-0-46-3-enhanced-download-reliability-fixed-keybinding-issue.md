@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3c81b59bafc1ed51b690ec35a759859ac02d42a268e1019b72633eabd9c4e1bb
+machine_hash: d0e0126aea12745adc18927a52eb3af44404b4ea65399df1f8649e81ffb18712
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   UI in the sidebar with inline diffs]]'
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
 source_type: cursor_changelog
+superseded: true
 theme: interface-experience
 title: '0.46.3: Enhanced download reliability, fixed keybinding issue'
 type: change

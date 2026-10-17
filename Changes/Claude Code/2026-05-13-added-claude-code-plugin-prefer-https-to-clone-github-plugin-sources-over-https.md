@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c9dd27732ef4430d24cc25a7e5891a8bacf4abce619cbe729a09384429ee0d11
+machine_hash: 6dcc71225a12eadd97468cca081730c58f6b3cc2879329fd595f0e139b898cad
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   terminalSequence field to hook JSON output so hooks can emit desktop…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added CLAUDE_CODE_PLUGIN_PREFER_HTTPS to clone GitHub plugin sources over HTTPS…
 type: change

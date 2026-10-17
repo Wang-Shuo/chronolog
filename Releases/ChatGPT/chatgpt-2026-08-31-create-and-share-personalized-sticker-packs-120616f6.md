@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-08-31'
 description: 'ChatGPT release Create and share personalized sticker packs on 2026-08-31:
   1 tracked change across Collaboration'
-machine_hash: eb761f3f5dcce79fe999650e81520a63d8b95c5f829bc4fce3239b7b04ed6a53
+machine_hash: 3fbb94ff209c168489af2e09dffec429cd80fc89d1082c532694606eb998508d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ version: Create and share personalized sticker packs
 <!-- chronolog:begin region="summary" -->
 Turn an idea or a photo into a set of stickers you can use in your messages.
 
-Tracked 1 of 4 candidate lines.
+Tracked 1 card from 4 candidate lines; 2 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards

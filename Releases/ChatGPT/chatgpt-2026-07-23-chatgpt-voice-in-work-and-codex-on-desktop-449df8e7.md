@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-07-23'
 description: 'ChatGPT release ChatGPT Voice in Work and Codex on desktop on 2026-07-23:
   1 tracked change across Voice and Audio'
-machine_hash: 1e53230003d519f35059c40a7ec420dab754d5762af738f7079d243b5094c307
+machine_hash: 8c47fbf2bfa9e462eb46b96c01c92c14ee09b190228047932d9e93a47c76c836
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: ChatGPT Voice in Work and Codex on desktop
 <!-- chronolog:begin region="summary" -->
 ChatGPT Voice is now available in Work and Codex in the ChatGPT desktop app. Start a new task in Voice to speak naturally, interrupt, and ask Voice to start or coordinate work using the tools and permissions available to the selected experience.
 
-Tracked 1 of 2 candidate lines.
+Tracked 1 card from 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star|ChatGPT Voice is now available in Work and Codex in the ChatGPT desktop app]] · Voice and Audio
+- [[Changes/ChatGPT/2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star|ChatGPT Voice in Work and Codex on desktop]] · Voice and Audio · Expansion
 <!-- chronolog:end -->

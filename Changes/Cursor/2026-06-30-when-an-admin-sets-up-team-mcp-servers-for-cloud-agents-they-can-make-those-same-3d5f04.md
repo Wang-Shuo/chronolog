@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a4436f1da15fbbe8b343d94e91e8e7240443c4563a09c3eee595479bf45f0f70
+machine_hash: 2849d0afe91b9826de613b0ec90f6faf84e61ffb52c31c4d896786bf24db3e7a
 product: cursor
 product_name: Cursor
 record:
@@ -69,6 +69,7 @@ related_changes:
   MCP server reliability]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-30-3-10-https-cursor-com-changelog-team-marketplace-updates-eb3caab2|cursor-2026-06-30-3-10-https-cursor-com-changelog-team-marketplace-updates-eb3caab2]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: When an admin sets up Team MCP servers for cloud agents, they can make those
   same…

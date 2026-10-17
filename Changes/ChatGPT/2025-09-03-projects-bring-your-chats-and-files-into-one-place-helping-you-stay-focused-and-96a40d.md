@@ -5,19 +5,20 @@ description: 'ChatGPT · 2025-09-03 · Enterprise and Administration: Projects b
   your chats and files into one place, helping you stay focused and get things done.
   They’re…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise
-    and Edu rollout coming soon]]'
+  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
+    users can only access stable release (no pre-release)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 83
+  lag_days: 91
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: abee454b289e19423ea92714de25be89b1aa97f3e2d3df0d0039f5de2fc35f0b
+kind: change
+machine_hash: 786ab8068d9929678123ab44d5ac1ff8fc946ea91c201320104d2a8f9466ec12
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,30 +43,31 @@ record:
       including colors and icons, to help keep your projects organized.Learn more
       about projects in ChatGPT.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: projects-bring-your-chats-and-files-into-one-place-helping-you-stay-focused-and
   source_release: chatgpt-2025-09-03-projects-now-available-on-chatgpt-free-tier-000f73ae
   source_type: chatgpt_changelog
   theme: enterprise-admin
-  title: Projects bring your chats and files into one place, helping you stay focused
-    and get…
+  title: Projects Now Available on ChatGPT Free Tier
   type: change
 related_changes:
+- '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
+  users can only access stable release (no pre-release)]]'
 - '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise
   and Edu rollout coming soon]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-03-projects-now-available-on-chatgpt-free-tier-000f73ae|chatgpt-2025-09-03-projects-now-available-on-chatgpt-free-tier-000f73ae]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
-title: Projects bring your chats and files into one place, helping you stay focused
-  and get…
+title: Projects Now Available on ChatGPT Free Tier
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Projects bring your chats and files into one place, helping you stay focused and get…
+# Projects Now Available on ChatGPT Free Tier
 
 **ChatGPT** · 2025-09-03 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-03-projects-now-available-on-chatgpt-free-tier-000f73ae|Projects Now Available on ChatGPT Free Tier]]
 <!-- chronolog:end -->
@@ -84,13 +86,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise and Edu rollout coming soon]]
-- Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-launched-in-beta-in-1-7-browser-for-agent-is-now-ga-we-ve-added-additional-suppo|Launched in beta in 1.7, browser for Agent is now GA]]
+- Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-browser-ga-1124ce|Browser (GA)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise and Edu rollout coming soon]]
+- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

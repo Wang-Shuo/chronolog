@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: a8a81a60c0fd47ea503ad819daf89983ee7693851172d573205e6b8c310c1557
+kind: policy
+machine_hash: b9ced28d1aee87b5300b4c5ed54f17627371bc4d5610a32530a65a21b56f63b6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,8 +37,9 @@ record:
       that used GPT-5.1 will automatically continue on the corresponding current model:
       GPT-5.3 Instant, GPT-5.4 Thinking, or GPT-5.4 Pro.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: policy
   product: chatgpt
   product_name: ChatGPT
   slug: as-of-march-11-2026-gpt-5-1-models-are-no-longer-available-in-chatgpt-this-appli
@@ -46,28 +48,26 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: As of March 11, 2026, GPT-5.1 models are no longer available in ChatGPT.This
-    applies…
+  title: Retiring GPT-5.1 models
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-04-removed-opus-4-and-4-1-from-claude-code-on-the-first-party-api-users-with-these|Removed
-  Opus 4 and 4.1 from Claude Code on the first-party API]]'
-- '[[Changes/Claude Code/2026-03-04-opus-4-6-now-defaults-to-medium-effort-for-max-and-team-subscribers-medium-effor|Opus
-  4.6 now defaults to medium effort for Max and Team subscribers]]'
-- '[[Changes/Claude Code/2026-03-04-re-introduced-the-ultrathink-keyword-to-enable-high-effort-for-the-next-turn|Re-introduced
-  the "ultrathink" keyword to enable high effort for the next turn]]'
+- '[[Changes/ChatGPT/2026-03-03-gpt-5-3-instant-delivers-more-accurate-answers-richer-and-better-contextualized|GPT-5.3
+  Instant Update]]'
+- '[[Changes/Claude Code/2026-03-04-3-model-support-changes-in-v2-1-68|3 Model Support
+  changes in v2.1.68]]'
+- '[[Changes/Claude Code/2026-03-05-changed-sonnet-4-5-users-on-pro-max-team-premium-to-be-automatically-migrated-to|Changed
+  Sonnet 4.5 users on Pro/Max/Team Premium to be automatically migrated…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-11-retiring-gpt-5-1-models-279eddb4|chatgpt-2026-03-11-retiring-gpt-5-1-models-279eddb4]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: As of March 11, 2026, GPT-5.1 models are no longer available in ChatGPT.This
-  applies…
+title: Retiring GPT-5.1 models
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# As of March 11, 2026, GPT-5.1 models are no longer available in ChatGPT.This applies…
+# Retiring GPT-5.1 models
 
-**ChatGPT** · 2026-03-11 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-11-retiring-gpt-5-1-models-279eddb4|Retiring GPT-5.1 models]]
+**ChatGPT** · 2026-03-11 · [[Themes/model-support|Model Support]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-11-retiring-gpt-5-1-models-279eddb4|Retiring GPT-5.1 models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-04 · Claude Code · [[Changes/Claude Code/2026-03-04-re-introduced-the-ultrathink-keyword-to-enable-high-effort-for-the-next-turn|Re-introduced the "ultrathink" keyword to enable high effort for the next turn]]
-- Later: 2026-03-16 · ChatGPT · [[Changes/ChatGPT/2026-03-16-we-re-rolling-out-an-update-to-gpt-5-3-instant-that-improves-follow-up-tone-and|ChatGPT rolls out an update to GPT-5.3 Instant that improves follow-up tone…]]
+- Earlier: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-changed-sonnet-4-5-users-on-pro-max-team-premium-to-be-automatically-migrated-to|Changed Sonnet 4.5 users on Pro/Max/Team Premium to be automatically migrated…]]
+- Later: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-2-model-support-changes-in-v2-1-73|2 Model Support changes in v2.1.73]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 3b2bd1de67ee27bd2599e5f1fea82b5a062800907152f5db45a932b857871e98
+kind: change
+machine_hash: 505b9a007c201983bdb5b681f1d1bfcc14b95acfba8b4512c3538603a1d740dc
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: API Key input box is now a password type
     source_release: https://cursor.com/changelog/0-9-0
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: api-key-input-box-is-now-a-password-type
@@ -45,8 +47,8 @@ related_changes:
   mode for opting out of storing any kind of data on our servers]]'
 - '[[Changes/Cursor/2023-06-27-cursor-is-now-based-on-version-1-79-2-of-vscodium-which-comes-with-security-upda|Cursor
   is now based on version 1.79.2 of VSCodium, which comes with security updates…]]'
-- '[[Changes/ChatGPT/2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security-4958cf|ChatGPT
-  launches ChatGPT Enterprise, which offers enterprise-grade security…]]'
+- '[[Changes/ChatGPT/2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security-4958cf|Introducing
+  ChatGPT Enterprise]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-30-0-9-0-https-cursor-com-changelog-0-9-0-1c913df4|cursor-2023-08-30-0-9-0-https-cursor-com-changelog-0-9-0-1c913df4]]'
 source_type: cursor_changelog
 theme: safety-privacy
@@ -76,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2023-08-28 · ChatGPT · [[Changes/ChatGPT/2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security-4958cf|ChatGPT launches ChatGPT Enterprise, which offers enterprise-grade security…]]
-- Later: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|ChatGPT launches a new ChatGPT plan for teams of all sizes, which provides a secure…]]
+- Earlier: 2023-08-28 · ChatGPT · [[Changes/ChatGPT/2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security-4958cf|Introducing ChatGPT Enterprise]]
+- Later: 2024-09-17 · Cursor · [[Changes/Cursor/2024-09-17-this-update-fixes-the-following-security-issue-cve-2024-45599|This update fixes the following security issue: CVE-2024-45599]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

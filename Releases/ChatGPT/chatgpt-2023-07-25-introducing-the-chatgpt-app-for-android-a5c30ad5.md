@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-07-25'
 description: 'ChatGPT release Introducing the ChatGPT app for Android on 2023-07-25:
   1 tracked change across Mobile and Desktop'
-machine_hash: 0a6d04c2138733baaec5853203b6c1c0aa6ef6a5fabbe9db535fe5032eddd00f
+machine_hash: c49f29bb67e11bd8c5cd865278e934361882c20c45e6abd6e669245dd5035e88
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Introducing the ChatGPT app for Android
 <!-- chronolog:begin region="summary" -->
 ChatGPT for Android is now available for download in the United States, India, Bangladesh, and Brazil from the Google Play Store.We plan to expand the rollout to additional countries over the next week. You can track the Android rollout here.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|ChatGPT for Android is now available for download in the United States, India…]] · Mobile and Desktop
+- [[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|Introducing the ChatGPT app for Android]] · Mobile and Desktop · Expansion
 <!-- chronolog:end -->

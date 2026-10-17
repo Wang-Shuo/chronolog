@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 787cd55af920c9974aa051432920ff598a0c55fda4a41a662ac04a0cea65aa6f
+machine_hash: c32198ed797b7c69a3af7ce5038969d6e5ed6a3b4bbff62b53cc889131b4bacf
 product: cursor
 product_name: Cursor
 record:
@@ -48,6 +48,7 @@ related_changes:
   and down arrow in prompt bar have been mapped to less annoying keybindings]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-23-0-1-5-https-cursor-com-changelog-0-1-5-b6aefe25|cursor-2023-03-23-0-1-5-https-cursor-com-changelog-0-1-5-b6aefe25]]'
 source_type: cursor_changelog
+superseded: true
 theme: interface-experience
 title: Easy to select and copy from chat
 type: change

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b262ac4964e6ab68f9dbae6e47f87bb41d4024cf9d782b41ac82f61ceb773701
+machine_hash: 6badde45c0d4ff73fb7b4a17d81b7433efdb7cb407d3f5df086d53ed32eb6e07
 product: cursor
 product_name: Cursor
 record:
@@ -69,6 +69,7 @@ related_changes:
   auto-retry: API connection drops mid-thinking now automatically retry…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa|cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa]]'
 source_type: cursor_changelog
+superseded: true
 theme: reliability-performance
 title: Your environment is captured in a reusable snapshot, so future cloud agents
   start up…

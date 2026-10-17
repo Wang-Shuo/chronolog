@@ -4,8 +4,8 @@ date: '2026-01-30'
 description: 'Claude Code · 2026-01-30 · Apps and Integrations: VSCode: Enabled Claude
   in Chrome integration'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1044
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 31c8aba40dc23d6766e98ec053541254645a4d704476098f5e2ceb0320c041ab
+kind: change
+machine_hash: 544fd74edc0ad66fef82278a8f9538cc78b0855d1d1de2ae6291d95553dd7e25
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   evidence:
   - quote: 'VSCode: Enabled Claude in Chrome integration'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.27
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: vscode-enabled-claude-in-chrome-integration
@@ -40,12 +42,12 @@ record:
   title: 'VSCode: Enabled Claude in Chrome integration'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-22-vscode-added-native-plugin-management-support|VSCode
-  Added native plugin management support]]'
-- '[[Changes/Claude Code/2026-01-23-changed-skills-without-additional-permissions-or-hooks-to-be-allowed-without-req|Changed
-  skills without additional permissions or hooks to be allowed without…]]'
-- '[[Changes/Claude Code/2026-01-23-sdk-added-replay-of-queued-command-attachment-messages-as-sdkusermessagereplay-e|SDK
-  Added replay of queued_command attachment messages as SDKUserMessageReplay…]]'
+- '[[Changes/Cursor/2026-01-22-4-apps-and-integrations-changes-in-2-4|4 Apps and Integrations
+  changes in 2.4]]'
+- '[[Changes/Claude Code/2026-01-23-2-apps-and-integrations-changes-in-v2-1-19|2 Apps
+  and Integrations changes in v2.1.19]]'
+- '[[Changes/Claude Code/2026-01-27-changed-the-commit-push-pr-skill-to-automatically-post-pr-urls-to-slack-channels|Changed
+  the /commit-push-pr skill to automatically post PR URLs to Slack channels…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-30-v2-1-27-github-281663155-d003937d|claude-code-2026-01-30-v2-1-27-github-281663155-d003937d]]'
 source_type: github_releases
 theme: apps-integrations
@@ -68,23 +70,22 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-01-30-2-developer-workflow-changes-in-v2-1-27|2 Developer Workflow changes in v2.1.27]] · Developer Workflow
 - [[Changes/Claude Code/2026-01-30-permissions-now-respect-content-level-ask-over-tool-level-allow-previously-allow|Permissions now respect content-level ask over tool-level allow]] · Safety and Privacy
-- [[Changes/Claude Code/2026-01-30-sessions-are-now-automatically-linked-to-prs-when-created-via-gh-pr-create|Sessions are now automatically linked to PRs when created via gh pr create]] · Developer Workflow
-- [[Changes/Claude Code/2026-01-30-added-tool-call-failures-and-denials-to-debug-logs|Added tool call failures and denials to debug logs]] · Developer Workflow
 - [[Changes/Claude Code/2026-01-30-added-from-pr-flag-to-resume-sessions-linked-to-a-specific-github-pr-number-or-u|Added --from-pr flag to resume sessions linked to a specific GitHub PR number or URL]] · Projects and Workspaces
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-23 · Claude Code · [[Changes/Claude Code/2026-01-23-sdk-added-replay-of-queued-command-attachment-messages-as-sdkusermessagereplay-e|SDK Added replay of queued_command attachment messages as SDKUserMessageReplay…]]
+- Earlier: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-changed-the-commit-push-pr-skill-to-automatically-post-pr-urls-to-slack-channels|Changed the /commit-push-pr skill to automatically post PR URLs to Slack channels…]]
 - Later: 2026-02-05 · Claude Code · [[Changes/Claude Code/2026-02-05-skills-defined-in-claude-skills-within-additional-directories-add-dir-are-now-lo|Skills defined in .claude/skills/ within additional directories (--add-dir)…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

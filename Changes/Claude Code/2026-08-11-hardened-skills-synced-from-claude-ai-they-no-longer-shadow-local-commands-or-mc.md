@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7e3abfc4aa12f3bba66726337de6c7f589183349cd5888a7890dadd1675f6872
+machine_hash: a969fe4602d83c2d21d4ace736cae65d1cd7859910f5d9853b25598a6b202d2a
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   cross-session messages]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9|claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Hardened skills synced from claude.ai
 type: change

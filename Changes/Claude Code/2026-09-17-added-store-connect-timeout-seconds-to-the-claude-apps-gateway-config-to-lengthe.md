@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 514fd273cace3261857f4eccd5934b239d83f3366a1b39d780479ae419f83db1
+machine_hash: f0bbf4e5f6132896f0d1d3c6675f60e9df035ece148ace8e41ca05207239198f
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   a notification when an MCP server disconnects mid-session and automatic…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d|claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added store.connect_timeout_seconds to the Claude apps gateway config to lengthen…
 type: change

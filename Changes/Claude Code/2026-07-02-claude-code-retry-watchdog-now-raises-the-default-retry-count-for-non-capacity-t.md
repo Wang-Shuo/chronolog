@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: bc5bd46e37d67ae33b85f0aae1d5af7cc3129d2704ad7ead0af299e9efa1d014
+machine_hash: bed6223bcbde41e153d350c48ca29ab441a816790bf0b600095b312701b7e97e
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   server rate-limit errors (429s unrelated to your usage limit) are now…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f|claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f]]'
 source_type: github_releases
+superseded: true
 theme: reliability-performance
 title: CLAUDE_CODE_RETRY_WATCHDOG now raises the default retry count for non-capacity…
 type: change

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-01-20'
 description: 'ChatGPT release Voice Updates on 2026-01-20: 1 tracked change across
   Voice and Audio'
-machine_hash: 3fafcb7c8083c4ecca2c3ec79acf3f2edba7e1d305712cc2d03a1a48916191e1
+machine_hash: e02deda2bf2b28070a542cef8f1dbe5c49ff125ac6c9936a893382b4f437e7e1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,10 +40,10 @@ version: Voice Updates
 <!-- chronolog:begin region="summary" -->
 We’re making an update to ChatGPT Voice for paid users that improves its ability to follow user instructions, as well as fixes a bug where Voice can sometimes repeat back custom instructions.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-01-20-we-re-making-an-update-to-chatgpt-voice-for-paid-users-that-improves-its-ability|We’re making an update to ChatGPT Voice for paid users that improves its ability…]] · Voice and Audio
+- [[Changes/ChatGPT/2026-01-20-we-re-making-an-update-to-chatgpt-voice-for-paid-users-that-improves-its-ability|Voice Updates]] · Voice and Audio
 <!-- chronolog:end -->

@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2a7cc7cb28a2507518d427369eb05fd65a055e37d7c5946450bf1004d2d0b396
+machine_hash: 67e267c68851ea1eb11a186e53862793e26ad01e19b89dbacf6c7126375f01ae
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   long as you''d like]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-18-0-1-2-https-cursor-com-changelog-0-1-2-154cc875|cursor-2023-03-18-0-1-2-https-cursor-com-changelog-0-1-2-154cc875]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: Diffs automatically continue
 type: change

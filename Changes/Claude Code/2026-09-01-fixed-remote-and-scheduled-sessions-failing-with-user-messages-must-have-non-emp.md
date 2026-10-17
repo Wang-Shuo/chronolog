@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: bf3e2c103374ade92d3eaded4a46bb9fbd6c99d13e45a5fdea4d5fdcede42b4b
+kind: fix
+machine_hash: 8879a13d00f22ce56e30c115a20161bbf9ffb8fa0d007c06517562d7c116b463
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Fixed remote and scheduled sessions failing with "user messages must have
       non-empty content" after a re-sent permission approval could not be applied
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.258
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: fix
   product: claude-code
   product_name: Claude Code
   slug: fixed-remote-and-scheduled-sessions-failing-with-user-messages-must-have-non-emp
@@ -43,12 +45,12 @@ record:
   title: Fixed remote and scheduled sessions failing…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-25-fixed-sessions-that-ended-in-plan-mode-resuming-outside-plan-mode-in-the-vs-code|Fixed
-  sessions that ended in plan mode resuming outside plan mode in the VS Code…]]'
-- '[[Changes/Claude Code/2026-08-25-added-an-auto-mode-tab-to-permissions-for-viewing-and-editing-auto-mode-classifi|Added
-  an Auto mode tab to /permissions for viewing and editing auto mode…]]'
-- '[[Changes/Claude Code/2026-08-26-added-a-tip-on-bash-permission-prompts-pointing-to-auto-mode-with-a-one-keystrok|Added
-  a tip on Bash permission prompts pointing to auto mode, with a one-keystroke…]]'
+- '[[Changes/Claude Code/2026-08-26-2-safety-and-privacy-changes-in-v2-1-247|2 Safety
+  and Privacy changes in v2.1.247]]'
+- '[[Changes/Claude Code/2026-08-27-4-safety-and-privacy-changes-in-v2-1-248|4 Safety
+  and Privacy changes in v2.1.248]]'
+- '[[Changes/Claude Code/2026-08-28-6-safety-and-privacy-changes-in-v2-1-251|6 Safety
+  and Privacy changes in v2.1.251]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-258-github-380858621-ccfab6d9|claude-code-2026-09-01-v2-1-258-github-380858621-ccfab6d9]]'
 source_type: github_releases
 theme: safety-privacy
@@ -59,7 +61,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Fixed remote and scheduled sessions failing…
 
-**Claude Code** · 2026-09-01 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.258) · from [[Releases/Claude Code/claude-code-2026-09-01-v2-1-258-github-380858621-ccfab6d9|v2.1.258]]
+**Claude Code** · 2026-09-01 · [[Themes/safety-privacy|Safety and Privacy]] · Fix · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.258) · from [[Releases/Claude Code/claude-code-2026-09-01-v2-1-258-github-380858621-ccfab6d9|v2.1.258]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -75,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-added-a-tip-on-bash-permission-prompts-pointing-to-auto-mode-with-a-one-keystrok|Added a tip on Bash permission prompts pointing to auto mode, with a one-keystroke…]]
-- Later: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-fixed-concurrent-sessions-silently-reverting-each-other-s-claude-json-changes-wo|Fixed concurrent sessions silently reverting each other's ~/.claude.json changes]]
+- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-6-safety-and-privacy-changes-in-v2-1-251|6 Safety and Privacy changes in v2.1.251]]
+- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-10-safety-and-privacy-changes-in-v2-1-257|10 Safety and Privacy changes in v2.1.257]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

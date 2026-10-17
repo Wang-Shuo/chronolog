@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: fa9303e1801d5dfde04742e13b0682a800a94febb12e4f9c468559fa59c6f303
+machine_hash: 17db19022ca13bb0583219c2464fe91bd8d213fc7bc3792f7c740d225be88d05
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   iPhone and iPad, the review screen now covers the full PR]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c|cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c]]'
 source_type: cursor_changelog
+superseded: true
 theme: mobile-desktop
 title: Cursor for iPad is now available on all paid plans
 type: change

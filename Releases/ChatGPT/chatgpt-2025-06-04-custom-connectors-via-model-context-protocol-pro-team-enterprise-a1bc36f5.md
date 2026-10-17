@@ -3,7 +3,7 @@ changes_count: 2
 date: '2025-06-04'
 description: 'ChatGPT release Custom connectors via Model Context Protocol (Pro, Team,
   Enterprise, Edu) on 2025-06-04: 2 tracked changes across Apps and Integrations'
-machine_hash: a2d2da02d6b47b06364af0512ec4e6d7cb2b162f33b1657484cc7a183359a9b2
+machine_hash: 6ea13e79c49bf1ad578be64e7334d5959d003edb3cda1153c741e396f52c4e35
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ version: Custom connectors via Model Context Protocol (Pro, Team, Enterprise, Ed
 <!-- chronolog:begin region="summary" -->
 Admins and users can now build and deploy custom connectors to proprietary systems using Model Context Protocol (MCP).
 
-Tracked 2 of 5 candidate lines.
+Tracked 2 cards from 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

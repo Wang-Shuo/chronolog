@@ -14,9 +14,10 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 06c89a4c3a4aa688e0df092677af457265f5f6baa8c47133a69bb55eb5b520a9
+kind: change
+machine_hash: fde03c66ad6a901720d20ebc6b1f1de4672f22f433db587b6f10fcc8c6c95aec
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
   - quote: Added `/rewind` support for resuming a conversation from before `/clear`
       was run
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.191
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-rewind-support-for-resuming-a-conversation-from-before-clear-was-run
@@ -45,8 +47,8 @@ record:
     was run
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-14-added-n-name-name-cli-flag-to-set-a-display-name-for-the-session-at-startup|Added
-  -n / --name name CLI flag to set a display name for the session at startup]]'
+- '[[Changes/Claude Code/2026-04-07-improved-resume-to-resume-sessions-from-other-worktrees-of-the-same-repo-directl|Improved
+  --resume to resume sessions from other worktrees of the same repo…]]'
 - '[[Changes/Claude Code/2026-05-01-added-claude-project-purge-path-to-delete-all-claude-code-state-for-a-project-tr|-
   Added claude project purge path to delete all Claude Code state for a project…]]'
 - '[[Changes/Claude Code/2026-05-13-feedback-can-now-include-recent-sessions-last-24-hours-or-7-days-for-issues-span|/feedback
@@ -73,9 +75,9 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-06-24-improved-mcp-error-messages-http-404-errors-now-show-the-url-and-point-to-your-m|Improved MCP error messages: HTTP 404 errors now show the URL and point to your MCP config]] · Apps and Integrations
-- [[Changes/Claude Code/2026-06-24-improved-mcp-server-reliability-capability-discovery-tools-list-prompts-list-res|Improved MCP server reliability]] · Apps and Integrations
+- [[Changes/Claude Code/2026-06-24-2-apps-and-integrations-changes-in-v2-1-191|2 Apps and Integrations changes in v2.1.191]] · Apps and Integrations
 - [[Changes/Claude Code/2026-06-24-improved-sandbox-network-permission-dialog-hosts-you-allow-with-yes-are-now-reme|Improved sandbox network permission dialog]] · Safety and Privacy
+- [[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced long-session memory growth from terminal output cache]] · Memory and Personalization
 - [[Changes/Claude Code/2026-06-24-improved-mcp-oauth-discovery-and-token-requests-now-retry-once-after-transient-n|Improved MCP OAuth]] · Account and Access
 <!-- chronolog:end -->
 

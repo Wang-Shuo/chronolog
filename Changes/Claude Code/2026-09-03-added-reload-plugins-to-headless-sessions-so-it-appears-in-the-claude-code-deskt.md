@@ -4,8 +4,8 @@ date: '2026-09-03'
 description: 'Claude Code · 2026-09-03 · Apps and Integrations: Added `/reload-plugins`
   to headless sessions, so it appears in the Claude Code Desktop and SDK command lists'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1260
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 6aab3f7c91b0fd8a2ab643d3b449fb860eca74ceb961ed788dc53d31b228d0ed
+kind: change
+machine_hash: 795deb2e116426b6d2f644569c10494d8d99f8737a538702e114ffb23976338d
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added `/reload-plugins` to headless sessions, so it appears in the Claude
       Code Desktop and SDK command lists
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.260
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-reload-plugins-to-headless-sessions-so-it-appears-in-the-claude-code-deskt
@@ -51,12 +53,12 @@ record:
     Code…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-03-today-we-added-the-zendesk-and-onenote-plugins-in-the-plugin-directory-the-zende|Today,
-  we added the Zendesk and OneNote plugins in the Plugin directory]]'
-- '[[Changes/Claude Code/2026-09-03-added-oidc-scope-on-refresh-to-the-claude-apps-gateway-for-idps-that-return-an-i|Added
-  oidc.scope_on_refresh to the Claude apps gateway for IdPs that return…]]'
-- '[[Changes/Claude Code/2026-09-03-added-a-text-form-of-advisor-advisor-advisor-model-advisor-off-for-the-desktop-a|Added
-  a text form of /advisor (/advisor, /advisor model, /advisor off)…]]'
+- '[[Changes/Claude Code/2026-09-02-5-apps-and-integrations-changes-in-v2-1-259|5
+  Apps and Integrations changes in v2.1.259]]'
+- '[[Changes/ChatGPT/2026-09-03-today-we-added-the-zendesk-and-onenote-plugins-in-the-plugin-directory-the-zende-012cbd|Zendesk
+  & OneNote Plugins in ChatGPT and Codex Beta]]'
+- '[[Changes/Claude Code/2026-09-03-4-apps-and-integrations-changes-in-v2-1-260|4
+  Apps and Integrations changes in v2.1.260]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
 source_type: github_releases
 theme: apps-integrations
@@ -79,23 +81,28 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-09-03-added-oidc-scope-on-refresh-to-the-claude-apps-gateway-for-idps-that-return-an-i|Added oidc.scope_on_refresh to the Claude apps gateway for IdPs that return…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-09-03-added-a-likely-cause-for-prompt-cache-misses-e-g-tool-definitions-or-system-prom|Added a likely cause for prompt-cache misses…]] · Interface Experience
-- [[Changes/Claude Code/2026-09-03-added-a-diff-panel-that-opens-beside-the-conversation-in-fullscreen-mode-and-sho|Added a diff panel that opens beside the conversation in fullscreen mode and shows…]] · Interface Experience
-- [[Changes/Claude Code/2026-09-03-added-a-text-form-of-advisor-advisor-advisor-model-advisor-off-for-the-desktop-a|Added a text form of /advisor (/advisor, /advisor model, /advisor off)…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-09-03-2-model-support-changes-in-v2-1-260|2 Model Support changes in v2.1.260]] · Model Support
+- [[Changes/Claude Code/2026-09-03-2-context-window-changes-in-v2-1-260|2 Context Window changes in v2.1.260]] · Context Window
+- [[Changes/Claude Code/2026-09-03-improved-the-settings-error-for-rules-such-as-edit-c-dir-name-where-is-read-as-a|Improved the settings error for rules such as Edit(C:\dir\(name)\), where…]] · Editor Experience
+- [[Changes/Claude Code/2026-09-03-improved-deleting-a-background-session-whose-worktree-has-unpushed-commits-the-m|Improved deleting a background session whose worktree has unpushed commits]] · Developer Workflow
+- [[Changes/Claude Code/2026-09-03-4-interface-experience-changes-in-v2-1-260|4 Interface Experience changes in v2.1.260]] · Interface Experience
+- [[Changes/Claude Code/2026-09-03-3-mobile-and-desktop-changes-in-v2-1-260|3 Mobile and Desktop changes in v2.1.260]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-09-03-2-agent-mode-changes-in-v2-1-260|2 Agent Mode changes in v2.1.260]] · Agent Mode
+- [[Changes/Claude Code/2026-09-03-4-apps-and-integrations-changes-in-v2-1-260|4 Apps and Integrations changes in v2.1.260]] · Apps and Integrations
+- [[Changes/Claude Code/2026-09-03-7-safety-and-privacy-changes-in-v2-1-260|7 Safety and Privacy changes in v2.1.260]] · Safety and Privacy
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-03 · ChatGPT · [[Changes/ChatGPT/2026-09-03-today-we-added-the-zendesk-and-onenote-plugins-in-the-plugin-directory-the-zende|Today, we added the Zendesk and OneNote plugins in the Plugin directory]]
-- Later: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-added-support-for-pointing-plugin-dir-at-a-folder-of-plugins-each-child-folder-w|Added support for pointing --plugin-dir at a folder of plugins]]
+- Earlier: 2026-09-03 · ChatGPT · [[Changes/ChatGPT/2026-09-03-today-we-added-the-zendesk-and-onenote-plugins-in-the-plugin-directory-the-zende-012cbd|Zendesk & OneNote Plugins in ChatGPT and Codex Beta]]
+- Later: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-vscode-added-an-add-server-form-and-a-remove-action-to-the-mcp-servers-dialog-so|VSCode Added an Add server form and a Remove action to the MCP servers dialog…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

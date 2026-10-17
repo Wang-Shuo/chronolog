@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: cbf58c991646f2745b537982e6f34ae8fffe3d1c81fb3fb53de12db68499c105
+machine_hash: 5f91b9fdd2b86ed78121de9fa73761383096b9c9e6a73efb14450af0f1ea554c
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   introduces plugins for extending Cursor, improvements to core agent…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931|claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Improved VS Code plan preview
 type: change

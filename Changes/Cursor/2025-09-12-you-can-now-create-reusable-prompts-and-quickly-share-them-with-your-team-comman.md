@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 5000f46a0f39a9f6baf30a384ee6b58887379321c7cdd84aeb88e78879fc45ad
+machine_hash: 43c3ee01a3038ee2d10175a8c594963e8239c83ea747e2e5552cdaa878f36dca
 product: cursor
 product_name: Cursor
 record:
@@ -66,6 +66,7 @@ related_changes:
   terminal now opens on the left with a clear backdrop and border animation…]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea|cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea]]'
 source_type: cursor_changelog
+superseded: true
 theme: developer-workflow
 title: Create reusable prompts and quickly share them with your team
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 6b562f0ddd2ff4a3d65744a9c065cbe727be110789081b33de285b394216e33a
+machine_hash: 9b6f85aff6f4dc9b52b2361535ab7605df9950ecd9436ca238e7a6107d305ab9
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   a quick side question without derailing the agent''s main task]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-22-v2-1-117-github-311984967-1d917373|claude-code-2026-04-22-v2-1-117-github-311984967-1d917373]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Agent frontmatter mcpServers are now loaded for main-thread agent sessions
   via --agent

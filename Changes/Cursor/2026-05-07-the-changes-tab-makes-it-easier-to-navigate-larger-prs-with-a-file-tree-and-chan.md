@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8c0382330ea5070940bf3cbb3d7d08523579e6d100c77d7e1566192b6a07221a
+machine_hash: a41eb17522c3a9d7bdafb6d79a717a42a85caa848d8b35f53bf4c5dafa78d6a8
 product: cursor
 product_name: Cursor
 record:
@@ -59,6 +59,7 @@ related_changes:
   behavior]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3|cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3]]'
 source_type: cursor_changelog
+superseded: true
 theme: interface-experience
 title: The Changes tab makes it easier to navigate larger PRs with a file tree and
   changes picker

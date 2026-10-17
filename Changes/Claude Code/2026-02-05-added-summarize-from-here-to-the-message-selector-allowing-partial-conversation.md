@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0587569eee62a5044576f4af269c14a4b09731290afdc408a61ff20c9568c22a
+machine_hash: 59e3593a3f9062303d70d781ad89902d5a7251acce58bc5730dd8b40a9b9ff64
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   pages parameter to the Read tool for PDFs, allowing specific page ranges…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0]]'
 source_type: github_releases
+superseded: true
 theme: context-window
 title: Added "Summarize from here" to the message selector, allowing partial conversation…
 type: change

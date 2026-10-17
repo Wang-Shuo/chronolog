@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 07d440062f985131e985439258127301c5962d931be03513727ae7e18c5e91c3
+machine_hash: 2f0c06226ce45d70575b60b3a69d970795e21e23e8a45e20023a1dbf7c8c5324
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,6 +62,7 @@ related_changes:
   a Containment Escape rule to auto mode so cloud metadata-credential fetches…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6|claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added CLAUDE_CODE_SUBAGENT_MODEL_FORCE to apply CLAUDE_CODE_SUBAGENT_MODEL…
 type: change

@@ -15,9 +15,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 1ee90f55f703edc5fb951ae8f70213da092c6b00f5604a2643dbfe5f8927da9d
+kind: change
+machine_hash: dba17660ed40c8d715f587c6e13e2bf15e245301564c329db2810f96c8beadda
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,8 +33,9 @@ record:
       of ChatGPT, formerly known as “Turbo”. We’ll keep the previous version around
       for a while.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: based-on-user-feedback-we-are-now-defaulting-plus-users-to-a-faster-version-of-c

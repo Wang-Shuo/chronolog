@@ -14,9 +14,10 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: efae16a30cee5e5938d640db9f057e7de0e68c04a47d00600c80b48485d0d1db
+kind: launch
+machine_hash: 711bcd48106a04c8ad107fcc5d8ef2a4c570ad62f11483beaff68d34992667f7
 product: cursor
 product_name: Cursor
 record:
@@ -38,8 +39,9 @@ record:
       multi-root workspace support, and enhanced chat features including export and
       duplication.
     source_release: https://cursor.com/changelog/0-50
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: launch
   product: cursor
   product_name: Cursor
   slug: introducing-unified-request-based-pricing-max-mode-for-all-top-models-and-backgr
@@ -76,12 +78,10 @@ record:
   title: Introducing unified request-based pricing, Max Mode for all top models…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-chat-will-now-display-a-notification-about-usage-based-pricing-when-approaching|Chat
-  will now display a notification about usage-based pricing when approaching fast…]]'
-- '[[Changes/Cursor/2025-05-15-max-mode-now-uses-token-based-pricing-similar-to-how-models-api-pricing-works|Max
-  mode now uses token-based pricing (similar to how models API pricing works)]]'
-- '[[Changes/Cursor/2025-05-15-we-ve-heard-your-feedback-and-are-rolling-out-a-unified-pricing-model-to-make-it|We’ve
-  heard your feedback and are rolling out a unified pricing model to make…]]'
+- '[[Changes/Cursor/2025-03-23-usage-based-cost-visibility|Usage-based cost visibility]]'
+- '[[Changes/Cursor/2025-03-23-this-release-introduces-chat-tabs-for-parallel-conversations-a-redesignedmodes-s|Cursor
+  introduces chat tabs for parallel conversations, a redesignedmodes system…]]'
+- '[[Changes/Cursor/2025-05-15-simpler-unified-pricing-6a915c|Simpler, unified pricing]]'
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'
 source_type: cursor_changelog
 theme: pricing-model
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Introducing unified request-based pricing, Max Mode for all top models…
 
-**Cursor** · 2025-05-15 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://cursor.com/changelog/0-50) · from [[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|Simplified Pricing, Background Agent and Refreshed Inline Edit]]
+**Cursor** · 2025-05-15 · [[Themes/pricing-model|Pricing Model]] · Launch · [Official source](https://cursor.com/changelog/0-50) · from [[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|Simplified Pricing, Background Agent and Refreshed Inline Edit]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -104,17 +104,21 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2025-05-15-max-mode-now-uses-token-based-pricing-similar-to-how-models-api-pricing-works|Max mode now uses token-based pricing (similar to how models API pricing works)]] · Pricing Model
-- [[Changes/Cursor/2025-05-15-we-ve-heard-your-feedback-and-are-rolling-out-a-unified-pricing-model-to-make-it|We’ve heard your feedback and are rolling out a unified pricing model to make…]] · Pricing Model
-- [[Changes/Cursor/2025-05-15-premium-tool-calls-and-long-context-mode-are-removed-to-keep-it-simple|Premium tool calls and long context mode are removed to keep it simple]] · Context Window
-- [[Changes/Cursor/2025-05-15-all-model-usage-is-now-unified-into-request-based-pricing|All model usage is now unified into request-based pricing]] · Pricing Model
+- [[Changes/Cursor/2025-05-15-new-tab-model|New Tab model]] · Editor Experience
+- [[Changes/Cursor/2025-05-15-fast-edits-for-long-files-with-agent|Fast edits for long files with Agent]] · Agent Mode
+- [[Changes/Cursor/2025-05-15-simpler-unified-pricing-6a915c|Simpler, unified pricing]] · Pricing Model
+- [[Changes/Cursor/2025-05-15-max-mode-for-all-top-models|Max Mode for all top models]] · Model Support
+- [[Changes/Cursor/2025-05-15-background-agent-preview|Background Agent (Preview)]] · Agent Mode
+- [[Changes/Cursor/2025-05-15-include-your-entire-codebase-in-context|Include your entire codebase in context]] · Context Window
+- [[Changes/Cursor/2025-05-15-refreshed-inline-edit-cmd-ctrl-k-with-agent-integration|Refreshed Inline Edit (Cmd/Ctrl+K) with Agent integration]] · Apps and Integrations
+- [[Changes/Cursor/2025-05-15-duplicate-chats|Duplicate Chats]] · Interface Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-chat-will-now-display-a-notification-about-usage-based-pricing-when-approaching|Chat will now display a notification about usage-based pricing when approaching fast…]]
-- Later: 2025-08-18 · ChatGPT · [[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially-e5f740|ChatGPT launches ChatGPT Go, a new low-cost subscription plan]]
+- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-this-release-introduces-chat-tabs-for-parallel-conversations-a-redesignedmodes-s|Cursor introduces chat tabs for parallel conversations, a redesignedmodes system…]]
+- Later: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-usage-and-pricing-visibility|Usage and pricing visibility]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

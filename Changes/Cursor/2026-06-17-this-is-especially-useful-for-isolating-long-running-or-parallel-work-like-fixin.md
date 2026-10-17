@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0cc30e7034e4e5d70406b9600a228b81de184e1bdfc330e4b2adf0aad4319379
+machine_hash: 29cd1f253233eab32cf2334d6988ac4a211807d36133208ef98f8445e9e18e3b
 product: cursor
 product_name: Cursor
 record:
@@ -54,6 +54,7 @@ related_changes:
   also syncs with Bugbot on GitHub and GitLab]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa|cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: This is especially useful for isolating long-running or parallel work like
   fixing…

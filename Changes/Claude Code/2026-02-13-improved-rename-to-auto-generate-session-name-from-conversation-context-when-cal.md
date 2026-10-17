@@ -4,8 +4,8 @@ date: '2026-02-13'
 description: 'Claude Code · 2026-02-13 · Context Window: Improved `/rename` to auto-generate
   session name from conversation context when called without arguments'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
-    prompt length for project generation]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1016
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 47735704ea9465fdeaa4dfd8b8b9b3c83a4453f18e7894027d0c548259a0862d
+kind: change
+machine_hash: a084d6255cbbec438f33729137e274dfb93c185445c81cb00a8fe6fad3cfb240
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Improved `/rename` to auto-generate session name from conversation context
       when called without arguments
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.41
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-rename-to-auto-generate-session-name-from-conversation-context-when-cal
@@ -42,8 +44,8 @@ record:
 related_changes:
 - '[[Changes/Claude Code/2026-02-03-added-pages-parameter-to-the-read-tool-for-pdfs-allowing-specific-page-ranges-to|Added
   pages parameter to the Read tool for PDFs, allowing specific page ranges…]]'
-- '[[Changes/Claude Code/2026-02-05-added-summarize-from-here-to-the-message-selector-allowing-partial-conversation|Added
-  "Summarize from here" to the message selector, allowing partial conversation…]]'
+- '[[Changes/Claude Code/2026-02-05-2-context-window-changes-in-v2-1-32|2 Context
+  Window changes in v2.1.32]]'
 - '[[Changes/ChatGPT/2026-02-13-attach-up-to-20-files-in-a-single-message-you-can-now-upload-up-to-20-files-at-o|Attach
   up to 20 files in a single message]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8|claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8]]'
@@ -70,7 +72,7 @@ type: change
 
 - [[Changes/Claude Code/2026-02-13-added-windows-arm64-win32-arm64-native-binary-support|Added Windows ARM64 (win32-arm64) native binary support]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-02-13-added-claude-auth-login-claude-auth-status-and-claude-auth-logout-cli-subcommand|Added claude auth login, claude auth status, and claude auth logout CLI subcommands]] · Account and Access
-- [[Changes/Claude Code/2026-02-13-fixed-permission-wait-time-being-included-in-subagent-elapsed-time-display|Fixed permission wait time being included in subagent elapsed time display]] · Safety and Privacy
+- [[Changes/Claude Code/2026-02-13-2-safety-and-privacy-changes-in-v2-1-41|2 Safety and Privacy changes in v2.1.41]] · Safety and Privacy
 - [[Changes/Claude Code/2026-02-13-improved-narrow-terminal-layout-for-prompt-footer|Improved narrow terminal layout for prompt footer]] · Interface Experience
 <!-- chronolog:end -->
 
@@ -78,13 +80,13 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-attach-up-to-20-files-in-a-single-message-you-can-now-upload-up-to-20-files-at-o|Attach up to 20 files in a single message]]
-- Later: 2026-02-20 · ChatGPT · [[Changes/ChatGPT/2026-02-20-chatgpt-now-has-a-total-context-window-length-of-256k-tokens-128k-input-and-128k|ChatGPT now has a total context window length of 256k tokens…]]
+- Later: 2026-02-17 · Cursor · [[Changes/Cursor/2026-02-17-agents-can-now-search-past-conversations-and-use-chat-history-as-context|Agents can now search past conversations and use chat history as context]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

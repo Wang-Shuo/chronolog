@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c2bdd6283de7ba15c5ab30e26a4b22f613c84993abb27cd72aa2f8bbf0511101
+machine_hash: f984381d0e7fa4e94cabccd01badf2b07591de28ebfd746302e4bfaa4670a366
 product: cursor
 product_name: Cursor
 record:
@@ -52,6 +52,7 @@ related_changes:
   .claude/ directories]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa|cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Use /in-cloud to spin up a cloud subagent in its own VM to work on the next
   task you…

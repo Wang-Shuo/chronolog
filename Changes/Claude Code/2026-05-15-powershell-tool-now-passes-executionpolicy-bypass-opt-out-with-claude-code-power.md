@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d46f67af13a08b963c55fd23f8f90bb21eb6c237153079de7369dbae8bfed6d1
+machine_hash: 87dd8e5734bbebecea8561df8c56d5a1441101fbd6df93b534c6e70a18704fae
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   new claude agents flags]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c|claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: PowerShell tool now passes -ExecutionPolicy Bypass
 type: change

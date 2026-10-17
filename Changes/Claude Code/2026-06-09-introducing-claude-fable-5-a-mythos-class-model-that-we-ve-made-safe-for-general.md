@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 99a9f5d3ff5a51d34831048dad0f790a62e928fd211f249fd1019c200d6a8a70
+kind: launch
+machine_hash: b49babb81e25bac5f7d4c91a97111a73ec923e5b8ee8a051aa9bceaa0ac04cf2
 product: claude-code
 product_name: Claude Code
 record:
@@ -35,8 +36,9 @@ record:
       for general use. Fable’s capabilities exceed those of any model we’ve ever made
       generally available. Update to version 2.1.170 for access. https://www.anthropic.com/news/claude-fable-5-mythos-5'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.170
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: launch
   product: claude-code
   product_name: Claude Code
   slug: introducing-claude-fable-5-a-mythos-class-model-that-we-ve-made-safe-for-general
@@ -49,10 +51,10 @@ record:
     general use'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-06-claude-code-now-retries-a-turn-once-on-the-fallback-model-when-the-api-rejects-a|Claude
-  Code now retries a turn once on the fallback model when the API rejects…]]'
-- '[[Changes/Claude Code/2026-06-06-max-thinking-tokens-0-thinking-disabled-and-the-per-model-thinking-toggle-now-di|MAX_THINKING_TOKENS=0,
-  --thinking disabled, and the per-model thinking toggle…]]'
+- '[[Changes/Claude Code/2026-06-06-3-model-support-changes-in-v2-1-166|3 Model Support
+  changes in v2.1.166]]'
+- '[[Changes/ChatGPT/2026-06-08-long-press-send-to-choose-a-model-users-on-paid-plans-can-now-long-press-the-sen|Long-press
+  send to choose a model]]'
 - '[[Changes/Claude Code/2026-06-08-added-a-disablebundledskills-setting-and-claude-code-disable-bundled-skills-envi|Added
   a disableBundledSkills setting and CLAUDE_CODE_DISABLE_BUNDLED_SKILLS…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-09-v2-1-170-github-336724522-461fd3b3|claude-code-2026-06-09-v2-1-170-github-336724522-461fd3b3]]'
@@ -66,7 +68,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Introducing Claude Fable 5: a Mythos-class model that we’ve made safe for general use
 
-**Claude Code** · 2026-06-09 · [[Themes/model-support|Model Support]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.170) · from [[Releases/Claude Code/claude-code-2026-06-09-v2-1-170-github-336724522-461fd3b3|v2.1.170]]
+**Claude Code** · 2026-06-09 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.170) · from [[Releases/Claude Code/claude-code-2026-06-09-v2-1-170-github-336724522-461fd3b3|v2.1.170]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->

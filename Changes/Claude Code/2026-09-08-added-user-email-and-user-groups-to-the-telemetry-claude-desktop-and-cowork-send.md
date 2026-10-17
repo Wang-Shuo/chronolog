@@ -14,9 +14,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 28170bd96548d3368a2a11e854644a303e6877304d933fe7ddfe47b54689ddba
+kind: change
+machine_hash: 2eee59666df537d09e806751898eeff17fb966b8b6db6826c009b6104074b5c7
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Added `user.email` and `user.groups` to the telemetry Claude Desktop and
       Cowork send through a Claude apps gateway, matching terminal sessions
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.265
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-user-email-and-user-groups-to-the-telemetry-claude-desktop-and-cowork-send
@@ -56,8 +58,8 @@ record:
     Cowork send…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-31-site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are|Site
-  tools use WebMCP and require a supported account, model, and webpage]]'
+- '[[Changes/Claude Code/2026-09-04-vscode-added-a-hollow-ring-in-the-session-list-for-sessions-open-in-a-terminal-a|VSCode
+  Added a hollow ring in the session list for sessions open in a terminal…]]'
 - '[[Changes/ChatGPT/2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add|Edit
   and comment]]'
 - '[[Changes/ChatGPT/2026-09-08-turn-a-sketch-into-an-image-on-mobile-type-in-the-message-box-and-select-sketch|Turn
@@ -85,16 +87,18 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-09-08-fixed-syntax-highlighted-code-in-permission-prompts-and-messages-sometimes-omitt|Fixed syntax-highlighted code in permission prompts and messages sometimes omitting…]] · Safety and Privacy
-- [[Changes/Claude Code/2026-09-08-added-support-for-pointing-plugin-dir-at-a-folder-of-plugins-each-child-folder-w|Added support for pointing --plugin-dir at a folder of plugins]] · Apps and Integrations
-- [[Changes/Claude Code/2026-09-08-windows-fixed-read-write-and-edit-refusing-every-file-symlink-resolution-changed|Windows: Fixed Read, Write and Edit refusing every file…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-09-08-3-safety-and-privacy-changes-in-v2-1-265|3 Safety and Privacy changes in v2.1.265]] · Safety and Privacy
+- [[Changes/Claude Code/2026-09-08-4-apps-and-integrations-changes-in-v2-1-265|4 Apps and Integrations changes in v2.1.265]] · Apps and Integrations
+- [[Changes/Claude Code/2026-09-08-improved-worktree-startup-on-large-repositories-the-new-worktree-is-now-checked|Improved --worktree startup on large repositories]] · Developer Workflow
+- [[Changes/Claude Code/2026-09-08-2-account-and-access-changes-in-v2-1-265|2 Account and Access changes in v2.1.265]] · Account and Access
+- [[Changes/Claude Code/2026-09-08-improved-workflows-agent-detail-tool-calls-are-marked-running-failed-or-done-the|Improved /workflows agent detail]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-turn-a-sketch-into-an-image-on-mobile-type-in-the-message-box-and-select-sketch|Turn a sketch into an image]]
-- Later: 2026-09-17 · ChatGPT · [[Changes/ChatGPT/2026-09-17-you-can-now-connect-multiple-accounts-to-plugins-in-chatgpt-expanding-support-be|Connect multiple accounts to plugins in ChatGPT, expanding support beyond Gmail…]]
+- Later: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-changed-skills-synced-from-claude-ai-in-cloud-sessions-to-be-named-anthropic-ski|Changed skills synced from claude.ai in cloud sessions to be named…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -14,9 +14,10 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 9d2e47305ea01999ca163dc86cf18c28eed40e052351da8ac890d1d6f1c28d4a
+kind: change
+machine_hash: c90a51898e0f52fd4ff6273e0016c6d3e812208f947cb9e345f7de2cc3ff2b41
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: 'Gateway: `/login` now supports Anthropic-operated public gateway endpoints'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.206
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: gateway-login-now-supports-anthropic-operated-public-gateway-endpoints
@@ -40,11 +42,11 @@ record:
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-globally-from-a-sidebar-in-mic|ChatGPT
-  for PowerPoint is now generally available globally]]'
+  for PowerPoint is now generally available]]'
 - '[[Changes/Claude Code/2026-07-07-added-a-warning-when-your-login-is-about-to-expire-so-you-can-re-authenticate-be|Added
   a warning when your login is about to expire, so you can re-authenticate…]]'
-- '[[Changes/ChatGPT/2026-07-09-we-re-deprecating-atlas-as-we-bring-browser-based-agentic-capabilities-into-chat|We’re
-  deprecating Atlas as we bring browser-based agentic capabilities into ChatGPT…]]'
+- '[[Changes/ChatGPT/2026-07-09-we-re-deprecating-atlas-as-we-bring-browser-based-agentic-capabilities-into-chat|Retiring
+  Atlas]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-10-v2-1-206-github-351694341-0226036e|claude-code-2026-07-10-v2-1-206-github-351694341-0226036e]]'
 source_type: github_releases
 theme: account-access
@@ -68,16 +70,17 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-07-10-added-a-doctor-check-that-proposes-trimming-checked-in-claude-md-files-by-cuttin|Added a /doctor check that proposes trimming checked-in CLAUDE.md files…]] · Editor Experience
-- [[Changes/Claude Code/2026-07-10-enterworktree-now-asks-for-confirmation-before-entering-a-git-worktree-outside-t|EnterWorktree now asks for confirmation before entering a git worktree outside…]] · Developer Workflow
-- [[Changes/Claude Code/2026-07-10-commit-push-pr-now-auto-allows-git-push-to-the-repo-s-configured-push-remote-rem|/commit-push-pr now auto-allows git push to the repo's configured push remote…]] · Developer Workflow
-- [[Changes/Claude Code/2026-07-10-added-directory-path-suggestions-to-cd-matching-add-dir-behavior|Added directory path suggestions to /cd, matching /add-dir behavior]] · Developer Workflow
+- [[Changes/Claude Code/2026-07-10-4-developer-workflow-changes-in-v2-1-206|4 Developer Workflow changes in v2.1.206]] · Developer Workflow
+- [[Changes/Claude Code/2026-07-10-improved-code-review-findings-quality-on-claude-opus-4-8-across-all-effort-level|Improved /code-review findings quality on claude-opus-4-8 across all effort levels]] · Model Support
+- [[Changes/Claude Code/2026-07-10-fixed-permission-prompt-tool-pointing-at-an-mcp-server-crashing-with-mcp-tool-no|Fixed --permission-prompt-tool pointing at an MCP server crashing…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-07-10-2-agent-mode-changes-in-v2-1-206|2 Agent Mode changes in v2.1.206]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-we-re-deprecating-atlas-as-we-bring-browser-based-agentic-capabilities-into-chat|We’re deprecating Atlas as we bring browser-based agentic capabilities into ChatGPT…]]
-- Later: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-changed-the-login-expiry-warning-to-appear-3-days-before-expiry-instead-of-5|Changed the login-expiry warning to appear 3 days before expiry instead of 5]]
+- Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-we-re-deprecating-atlas-as-we-bring-browser-based-agentic-capabilities-into-chat|Retiring Atlas]]
+- Later: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-updated-the-auth-status-panel-title-from-cloud-authentication-to-authentication|Updated the auth status panel title from "Cloud authentication" to "Authentication"]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

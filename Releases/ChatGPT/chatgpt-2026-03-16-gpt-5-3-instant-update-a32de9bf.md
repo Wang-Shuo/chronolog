@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-03-16'
 description: 'ChatGPT release GPT-5.3 Instant update on 2026-03-16: 1 tracked change
   across Model Support'
-machine_hash: 012a022292d30275e56f53b462c534bd559c6b346337a9889979506cf2874082
+machine_hash: 1e49b1885e85bea67fde8c388d64419c3cbcb67c617062f5ab52522689f0b95b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,10 +40,10 @@ version: GPT-5.3 Instant update
 <!-- chronolog:begin region="summary" -->
 We’re rolling out an update to GPT-5.3 Instant that improves follow-up tone and reduces teaser-style phrasing in responses (e.g., “If you want…”, “You’ll never believe…”, “I can tell you these three things that…”).
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-03-16-we-re-rolling-out-an-update-to-gpt-5-3-instant-that-improves-follow-up-tone-and|ChatGPT rolls out an update to GPT-5.3 Instant that improves follow-up tone…]] · Model Support
+- [[Changes/ChatGPT/2026-03-16-we-re-rolling-out-an-update-to-gpt-5-3-instant-that-improves-follow-up-tone-and|GPT-5.3 Instant update]] · Model Support
 <!-- chronolog:end -->

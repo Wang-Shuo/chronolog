@@ -1,10 +1,10 @@
 ---
-created: '2023-11-27'
-date: '2026-07-29'
+created: '2023-09-25'
+date: '2026-05-08'
 description: Cross-product timeline of Multimodal Input changes in ChatGPT, Claude
   Code and Cursor.
-machine_hash: f4ddf7c686f6808bdb3decdf38ec4b7f1c757ad12f63cbeb36886b3d1f972f4d
-modified: '2026-07-29'
+machine_hash: 534e187ffbf230bbd13788b225937608a3c603ff18656a0610d61c11184f5f86
+modified: '2026-05-08'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -33,7 +33,6 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 ### 2026
 
-- 2026-07-29 · Cursor: [[Changes/Cursor/2026-07-29-markup-gets-more-room-to-work-too-attach-a-screenshot-then-tap-to-drop-a-comment|Markup gets more room to work too]]
 - 2026-05-08 · Claude Code: [[Changes/Claude Code/2026-05-08-wsl2-image-paste-from-windows-clipboard-now-works-via-a-powershell-fallback-when|WSL2: image paste from Windows clipboard now works via a PowerShell fallback…]]
 
 ### 2025
@@ -47,6 +46,7 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 ### 2023
 
 - 2023-11-27 · Cursor: [[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image Support in Chat]]
+- 2023-09-25 · ChatGPT: [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image input will be generally available to Plus users on all platforms]]
 <!-- chronolog:end -->
 
 ## Change Cards

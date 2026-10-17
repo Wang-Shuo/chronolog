@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 96a7a542699ba4f4679d4841f6fcda8141c10e02662011494fdde0ef4bad0bfd
+machine_hash: b7c25bf10047496a3993c69a2d74bd3606dab7a5f417873789a54db67e5effc0
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,6 +62,7 @@ related_changes:
   Strong quality, matching the frontier models that most people like to daily drive]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233|claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Added Claude Opus 5 (claude-opus-5), now the default Opus model
 type: change

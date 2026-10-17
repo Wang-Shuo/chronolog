@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: f539bee5afac35a58efeeb730e46197f2daecdfffb07cdff358f71990268374f
+kind: policy
+machine_hash: 74532a9816075680614f8be52cff48672503d1ea636e2821d830d8d30ccfea0f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,8 +40,9 @@ record:
       with the release of GPT-5.3 Instant. Models will generally remain available
       in ChatGPT for 90 days after a successor is released.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: policy
   product: chatgpt
   product_name: ChatGPT
   slug: as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie
@@ -49,27 +51,25 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: As of June 12, 2026, GPT-5.2 models are no longer available in ChatGPT.This
-    applies…
+  title: Retiring GPT-5.2 models
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-06-10-extra-high-pro-plans-only|Extra High Pro plans only]]'
 - '[[Changes/ChatGPT/2026-06-10-pro-standard-pro-plans-only|Pro Standard Pro plans
   only]]'
-- '[[Changes/Claude Code/2026-06-10-added-model-attribute-to-the-claude-code-lines-of-code-count-otel-metric|Added
-  model attribute to the claude_code.lines_of_code.count OTEL metric]]'
+- '[[Changes/Claude Code/2026-06-10-2-model-support-changes-in-v2-1-172|2 Model Support
+  changes in v2.1.172]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-12-retiring-gpt-5-2-models-8b6fe7f1|chatgpt-2026-06-12-retiring-gpt-5-2-models-8b6fe7f1]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: As of June 12, 2026, GPT-5.2 models are no longer available in ChatGPT.This
-  applies…
+title: Retiring GPT-5.2 models
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# As of June 12, 2026, GPT-5.2 models are no longer available in ChatGPT.This applies…
+# Retiring GPT-5.2 models
 
-**ChatGPT** · 2026-06-12 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-12-retiring-gpt-5-2-models-8b6fe7f1|Retiring GPT-5.2 models]]
+**ChatGPT** · 2026-06-12 · [[Themes/model-support|Model Support]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-12-retiring-gpt-5-2-models-8b6fe7f1|Retiring GPT-5.2 models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-added-model-attribute-to-the-claude-code-lines-of-code-count-otel-metric|Added model attribute to the claude_code.lines_of_code.count OTEL metric]]
+- Earlier: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-2-model-support-changes-in-v2-1-172|2 Model Support changes in v2.1.172]]
 - Later: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-added-enforceavailablemodels-managed-setting-when-enabled-the-availablemodels-al|Added enforceAvailableModels managed setting]]
 <!-- chronolog:end -->
 

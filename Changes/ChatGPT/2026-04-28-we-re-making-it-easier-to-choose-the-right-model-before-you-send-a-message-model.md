@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 438ccaa98fdc32e93a66c0b39819de5beb8535a58a5861a09775d50cc3a6fafd
+kind: change
+machine_hash: d4f192dc79dcf2c4c3d4c9ab5218642f62dd17c2e3c1cfb2b015189d8a131fe8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,8 +41,9 @@ record:
       can select the level of thinking effort directly from the model picker.This
       update is available on web to ChatGPT users on Plus, Pro, and Business plans.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-making-it-easier-to-choose-the-right-model-before-you-send-a-message-model
@@ -58,24 +60,24 @@ record:
     - picker
     score: 50
     theme: interface-experience
-  title: We’re making it easier to choose the right model before you send a message
+  title: Easier model selection in ChatGPT
   type: change
 related_changes:
+- '[[Changes/Claude Code/2026-04-16-3-model-support-changes-in-v2-1-111|3 Model Support
+  changes in v2.1.111]]'
 - '[[Changes/Claude Code/2026-04-16-auto-mode-is-now-available-for-max-subscribers-when-using-opus-4-7|Auto
   mode is now available for Max subscribers when using Opus 4.7]]'
-- '[[Changes/Claude Code/2026-04-16-added-xhigh-effort-level-for-opus-4-7-sitting-between-high-and-max-available-via|Added
-  xhigh effort level for Opus 4.7, sitting between high and max]]'
-- '[[Changes/Claude Code/2026-04-22-improved-model-selections-now-persist-across-restarts-even-when-the-project-pins|Improved
-  /model: selections now persist across restarts even when the project pins…]]'
+- '[[Changes/Claude Code/2026-04-22-2-model-support-changes-in-v2-1-117|2 Model Support
+  changes in v2.1.117]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-28-easier-model-selection-in-chatgpt-f4badb6d|chatgpt-2026-04-28-easier-model-selection-in-chatgpt-f4badb6d]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We’re making it easier to choose the right model before you send a message
+title: Easier model selection in ChatGPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We’re making it easier to choose the right model before you send a message
+# Easier model selection in ChatGPT
 
 **ChatGPT** · 2026-04-28 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-28-easier-model-selection-in-chatgpt-f4badb6d|Easier model selection in ChatGPT]]
 <!-- chronolog:end -->
@@ -93,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-improved-model-selections-now-persist-across-restarts-even-when-the-project-pins|Improved /model: selections now persist across restarts even when the project pins…]]
-- Later: 2026-04-29 · Cursor · [[Changes/Cursor/2026-04-29-model-id-composer-2-5|model: { id: "composer-2.5" },]]
+- Earlier: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-2-model-support-changes-in-v2-1-117|2 Model Support changes in v2.1.117]]
+- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-opentelemetry-added-stop-reason-gen-ai-response-finish-reasons-and-user-system-p|OpenTelemetry: added stop_reason, gen_ai.response.finish_reasons…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

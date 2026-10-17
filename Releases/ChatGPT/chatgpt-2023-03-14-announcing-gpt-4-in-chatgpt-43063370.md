@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 1
 date: '2023-03-14'
-description: 'ChatGPT release Announcing GPT-4 in ChatGPT on 2023-03-14: 5 tracked
-  changes across Model Support'
-machine_hash: 385ec62e93f4b5362deaf4fec34bc02de66a2bca8de1fb8dac2b4e9fccc0d58b
+description: 'ChatGPT release Announcing GPT-4 in ChatGPT on 2023-03-14: 1 tracked
+  change across Model Support'
+machine_hash: 8088c9cb9d676e8448a3cba8c77c56af10e25122f5669967ca134c2dcc2cfc0f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,14 +39,10 @@ version: Announcing GPT-4 in ChatGPT
 <!-- chronolog:begin region="summary" -->
 We’re excited to bring GPT-4, our latest model, to our ChatGPT Plus subscribers.GPT-4 has enhanced capabilities in:
 
-Tracked 5 of 5 candidate lines.
+Tracked 1 card from 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2023-03-14-advanced-reasoning|Advanced reasoning]] · Model Support
-- [[Changes/ChatGPT/2023-03-14-to-give-every-plus-subscriber-a-chance-to-try-the-model-we-ll-dynamically-adjust|To give every Plus subscriber a chance to try the model, we'll dynamically adjust…]] · Model Support
-- [[Changes/ChatGPT/2023-03-14-complex-instructions|Complex instructions]] · Model Support
-- [[Changes/ChatGPT/2023-03-14-more-creativity|More creativity]] · Model Support
-- [[Changes/ChatGPT/2023-03-14-we-re-excited-to-bring-gpt-4-our-latest-model-to-our-chatgpt-plus-subscribers-gp|ChatGPT brings GPT-4, our latest model, to our ChatGPT Plus subscribers]] · Model Support
+- [[Changes/ChatGPT/2023-03-14-we-re-excited-to-bring-gpt-4-our-latest-model-to-our-chatgpt-plus-subscribers-gp-7153e9|Announcing GPT-4 in ChatGPT]] · Model Support · Launch
 <!-- chronolog:end -->

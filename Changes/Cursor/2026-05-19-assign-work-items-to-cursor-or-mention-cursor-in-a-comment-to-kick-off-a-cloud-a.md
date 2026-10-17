@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 285f5a67deded1b5e2810d8c9f4e844a8d5c29cbb4c5ac218146a560f769e7bd
+machine_hash: 125942533737b71739be6866f76497dbafb3f745c7b8d913f5002387eef48b27
 product: cursor
 product_name: Cursor
 record:
@@ -63,6 +63,7 @@ related_changes:
   elapsed duration to background subagent completion notifications…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-19-cursor-in-jira-https-cursor-com-changelog-05-19-26-4a0261e4|cursor-2026-05-19-cursor-in-jira-https-cursor-com-changelog-05-19-26-4a0261e4]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Assign work items to Cursor, or mention @Cursor in a comment to kick off a
   cloud agent

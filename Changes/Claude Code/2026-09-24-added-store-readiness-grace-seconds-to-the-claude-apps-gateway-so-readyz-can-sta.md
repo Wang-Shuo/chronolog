@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0efd2af545005fc56989e1986e85b4ff274653eff41cadc056851bb646499e16
+machine_hash: e973723ab9ec507faa43b42bb6213032aa034ea8cfc50fef727d0dcc62d37e8f
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   assume_role on Claude apps gateway Bedrock upstreams]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4|claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added store.readiness_grace_seconds to the Claude apps gateway so /readyz can…
 type: change

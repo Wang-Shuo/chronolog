@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 3b418d0f1c28d08664d860cd29f2e3c20ba6d7ffe9bc68915c646541e6f8511b
+machine_hash: afea81e773702cb81710ec2c2e009a85f6be02c66c7fd2a65752e4db1e5c9fe8
 product: cursor
 product_name: Cursor
 record:
@@ -61,6 +61,7 @@ related_changes:
   "with codebase" chats, you can now see the codebase context that Cursor shows GPT-4]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699|cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: You can also paste a url into the chat and the model will automatically include…
 type: change

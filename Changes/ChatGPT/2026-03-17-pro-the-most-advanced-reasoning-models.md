@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: ef0c6260986a6592384d739c4c5637907e8326b01381c532dee7deeb85878d2d
+kind: change
+machine_hash: a5eb6df4f13a1c67fb132fba2e59c92d8d883f12f8c0ed03b0437b52766b6694
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Pro – the most advanced reasoning models
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: pro-the-most-advanced-reasoning-models
@@ -39,10 +41,10 @@ record:
   title: Pro – the most advanced reasoning models
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-11-as-of-march-11-2026-gpt-5-1-models-are-no-longer-available-in-chatgpt-this-appli|As
-  of March 11, 2026, GPT-5.1 models are no longer available in ChatGPT.This applies…]]'
-- '[[Changes/ChatGPT/2026-03-16-we-re-rolling-out-an-update-to-gpt-5-3-instant-that-improves-follow-up-tone-and|ChatGPT
-  rolls out an update to GPT-5.3 Instant that improves follow-up tone…]]'
+- '[[Changes/Claude Code/2026-03-14-improved-model-fallback-notifications-now-always-visible-instead-of-hidden-behin|Improved
+  model fallback notifications]]'
+- '[[Changes/ChatGPT/2026-03-16-we-re-rolling-out-an-update-to-gpt-5-3-instant-that-improves-follow-up-tone-and|GPT-5.3
+  Instant update]]'
 - '[[Changes/ChatGPT/2026-03-17-instant-fast-responses-for-everyday-questions|Instant
   – fast responses for everyday questions]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-17-updates-to-the-model-picker-in-chatgpt-764a9949|chatgpt-2026-03-17-updates-to-the-model-picker-in-chatgpt-764a9949]]'
@@ -67,16 +69,15 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2026-03-17-we-ve-simplified-the-model-picker-to-make-it-easier-to-choose-the-right-level-of|We’ve simplified the model picker to make it easier to choose the right level of reasoning]] · Enterprise and Administration
 - [[Changes/ChatGPT/2026-03-17-instant-fast-responses-for-everyday-questions|Instant – fast responses for everyday questions]] · Model Support
+- [[Changes/ChatGPT/2026-03-17-we-ve-simplified-the-model-picker-to-make-it-easier-to-choose-the-right-level-of-a3fc77|We’ve simplified the model picker to make it easier to choose the right level of reasoning]] · Enterprise and Administration
 - [[Changes/ChatGPT/2026-03-17-thinking-deeper-reasoning-for-more-complex-tasks|Thinking – deeper reasoning for more complex tasks]] · Model Support
-- [[Changes/ChatGPT/2026-03-17-the-auto-functionality-can-be-accessed-by-clicking-configure-in-the-model-picker|The Auto functionality can be accessed by clicking Configure in the model picker…]] · Interface Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-16 · ChatGPT · [[Changes/ChatGPT/2026-03-16-we-re-rolling-out-an-update-to-gpt-5-3-instant-that-improves-follow-up-tone-and|ChatGPT rolls out an update to GPT-5.3 Instant that improves follow-up tone…]]
+- Earlier: 2026-03-16 · ChatGPT · [[Changes/ChatGPT/2026-03-16-we-re-rolling-out-an-update-to-gpt-5-3-instant-that-improves-follow-up-tone-and|GPT-5.3 Instant update]]
 - Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-increased-default-maximum-output-token-limits-for-claude-opus-4-6-to-64k-tokens|Increased default maximum output token limits for Claude Opus 4.6 to 64k tokens…]]
 <!-- chronolog:end -->
 

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6c0c6a6bf949c8458f192c656ea3adb2d311b64c4a27ac864bde575dcf0dc57f
+machine_hash: 0470debe03358d80ea1218af3f072edb043f5709f6713023d835bc0f8fc0d7af
 product: cursor
 product_name: Cursor
 record:
@@ -53,6 +53,7 @@ related_changes:
   forking is now on by default]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3|cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Cursor introduces builds
 type: change

@@ -4,19 +4,19 @@ date: '2026-06-30'
 description: 'Cursor · 2026-06-30 · Collaboration: We''ve expanded team marketplaces
   to support Team MCPs and organization groups.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
-    can also share private docs]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1026
+  lag_days: 1133
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 93fafb39d5f63837cead1d2dfc4886dfa4a638bc41e6beb6b0441f976b2a9b0a
+kind: change
+machine_hash: fb1497fd4b00cdf44bc958e31bf945cc63333d11950e3cdf8e5bab0bc6ec6242
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +31,9 @@ record:
   - quote: We've expanded team marketplaces to support Team MCPs and organization
       groups.
     source_release: https://cursor.com/changelog/team-marketplace-updates
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: we-ve-expanded-team-marketplaces-to-support-team-mcps-and-organization-groups
@@ -42,12 +43,11 @@ record:
   title: Cursor expands team marketplaces to support Team MCPs and organization groups
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-22-cursor-now-shows-you-a-leaderboard-of-the-most-popular-plugins-skills-and-mcps-a|Cursor
-  now shows you a leaderboard of the most popular plugins, skills, and MCPs…]]'
-- '[[Changes/Cursor/2026-06-30-under-dashboard-plugins-mcps-team-marketplaces-restrict-marketplace-access-to-sp|Under
-  Dashboard - Plugins & MCPs - Team Marketplaces, restrict marketplace access…]]'
-- '[[Changes/Cursor/2026-06-30-team-marketplaces-now-support-organization-groups-in-addition-to-team-level-scim|Team
-  marketplaces now support organization groups, in addition to team-level SCIM…]]'
+- '[[Changes/Cursor/2026-06-22-marketplace-leaderboard-654084|Marketplace leaderboard]]'
+- '[[Changes/Cursor/2026-06-30-team-mcps-in-team-marketplaces-27f9ef|Team MCPs in
+  team marketplaces]]'
+- '[[Changes/Cursor/2026-06-30-marketplace-access-by-organization-group-a2cf9b|Marketplace
+  access by organization group]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-30-3-10-https-cursor-com-changelog-team-marketplace-updates-eb3caab2|cursor-2026-06-30-3-10-https-cursor-com-changelog-team-marketplace-updates-eb3caab2]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -70,23 +70,21 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-06-30-under-dashboard-plugins-mcps-team-marketplaces-restrict-marketplace-access-to-sp|Under Dashboard - Plugins & MCPs - Team Marketplaces, restrict marketplace access…]] · Collaboration
-- [[Changes/Cursor/2026-06-30-when-an-admin-sets-up-team-mcp-servers-for-cloud-agents-they-can-make-those-same-3d5f04|When an admin sets up Team MCP servers for cloud agents, they can make those same…]] · Apps and Integrations
-- [[Changes/Cursor/2026-06-30-team-marketplaces-now-support-organization-groups-in-addition-to-team-level-scim|Team marketplaces now support organization groups, in addition to team-level SCIM…]] · Collaboration
-- [[Changes/Cursor/2026-06-30-admins-can-now-configure-team-mcp-servers-once-and-distribute-them-across-cloud|Admins can now configure Team MCP servers once and distribute them across cloud…]] · Apps and Integrations
+- [[Changes/Cursor/2026-06-30-team-mcps-in-team-marketplaces-27f9ef|Team MCPs in team marketplaces]] · Collaboration
+- [[Changes/Cursor/2026-06-30-marketplace-access-by-organization-group-a2cf9b|Marketplace access by organization group]] · Collaboration
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-06-22 · Cursor · [[Changes/Cursor/2026-06-22-cursor-now-shows-you-a-leaderboard-of-the-most-popular-plugins-skills-and-mcps-a|Cursor now shows you a leaderboard of the most popular plugins, skills, and MCPs…]]
+- Earlier: 2026-06-22 · Cursor · [[Changes/Cursor/2026-06-22-marketplace-leaderboard-654084|Marketplace leaderboard]]
 - Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w|Existing group chats will remain available and can continue to be used for now]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 978090a3a9dabd7f08c8f5558a98f3cce0e4a77190751bd849ee544b1516d384
+machine_hash: 905cc77846ffa8dcc0018e7f41b417b562ae64e4c19465c4a003c769e6e692e2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,6 +53,7 @@ related_changes:
   makes it easier to study with interactive quizzes, manage project memory…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: memory
 title: Change an existing project’s memory setting
 type: change

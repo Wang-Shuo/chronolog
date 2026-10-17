@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-12-18'
 description: 'ChatGPT release Introducing the app directory in ChatGPT on 2025-12-18:
   1 tracked change across Apps and Integrations'
-machine_hash: a3d9ddac2c8abc653ef0d9484de76955c3613e5c090da0d00af890bdc6c0ce79
+machine_hash: 81521d6fa580c124676fde04fb3c0b8548371cf4956b290ecdeb7e340959526e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: Introducing the app directory in ChatGPT
 <!-- chronolog:begin region="summary" -->
 You can now browse and add approved apps in the new app directory. Apps let you work with your tools and data directly inside a conversation—from interactive in-chat experiences to secure connections that allow ChatGPT to search and reference information from third-party services.As part of this update, connectors now…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-12-18-you-can-now-browse-and-add-approved-apps-in-the-new-app-directory-apps-let-you-w|Browse and add approved apps in the new app directory]] · Apps and Integrations
+- [[Changes/ChatGPT/2025-12-18-you-can-now-browse-and-add-approved-apps-in-the-new-app-directory-apps-let-you-w|Introducing the app directory in ChatGPT]] · Apps and Integrations · Launch
 <!-- chronolog:end -->

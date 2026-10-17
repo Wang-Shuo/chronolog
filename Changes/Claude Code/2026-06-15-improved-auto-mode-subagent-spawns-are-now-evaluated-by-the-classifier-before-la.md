@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2c82eb5134966bd6777161166a5befdc98f98426dd39aeed735808bce3a7a001
+machine_hash: d9dff4884ef3969e2b23e7a9f0f44d4961dc226e216f42bb8b62622c8be8c0b8
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   in Cursor 3.7+ and on cursor.com/agents, with support in CLI coming soon]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-15-v2-1-178-github-339741361-902bc427|claude-code-2026-06-15-v2-1-178-github-339741361-902bc427]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Improved auto mode
 type: change

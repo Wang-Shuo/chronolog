@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 73ae3e8edb1c471c6759a10591e28fc01851a29e1a7df9aa582433e00565a8c2
+machine_hash: 97903ddddbace09317e6b9b0de7e822c4b6c2c79043c43a2ace1446871c5bd6f
 product: cursor
 product_name: Cursor
 record:
@@ -52,6 +52,7 @@ related_changes:
   grep commands run by the agent are now instant]]'
 source_release: '[[Releases/Cursor/cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490|cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: When creating plans, Cursor responds with clarifying questions to improve the
   plan quality

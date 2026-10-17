@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: f8294f8b2837b75ce431839345a5959fdf0ef51f58f63c07059e11dc1204440e
+machine_hash: a2ca9601043126002b3469f83bb57a4c506e69ab71951801251008033232e16f
 product: claude-code
 product_name: Claude Code
 record:
@@ -65,6 +65,7 @@ related_changes:
   mode is now available for Max subscribers when using Opus 4.7]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Added xhigh effort level for Opus 4.7, sitting between high and max
 type: change

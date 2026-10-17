@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a188ecbbe237d99611ea81a4f70d0ad4eae28721f7446b55c7ad24a5926b4b35
+machine_hash: ef6e6b608d814112f15c96c0cc39849088a634df670708f4d75257cb1cde36cc
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   tool now passes -ExecutionPolicy Bypass]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f|claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed a PowerShell permission bypass
 type: change

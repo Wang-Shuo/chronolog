@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-08-27 · Memory and Personalization: We’re rolli
   new controls in temporary chat. You can now choose to personalize responses in a
   temporary…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1134
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 342c9286c9c8bcae2a5e6d3540476c323d571eecd65dd048c341048ad0921c46
+kind: change
+machine_hash: 3b4015ae7205679054244f248ed7ef539c644225e59de06e0496aa2097254b1d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,8 +36,9 @@ record:
       personalize responses in a temporary chat with memory, plugins, and custom instructions
       from your regular chat settings. You can also choose to save a temporary chat.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-rolling-out-new-controls-in-temporary-chat-you-can-now-choose-to-personali
@@ -56,12 +58,12 @@ record:
   title: ChatGPT rolls out new controls in temporary chat
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-27-saving-a-temporary-chat-when-a-conversation-becomes-useful-for-the-future-you-ca|Saving
-  a temporary chat]]'
-- '[[Changes/ChatGPT/2026-08-27-non-personalized-by-default-temporary-chats-are-not-personalized-non-personalize|Non-personalized:
-  By default, temporary chats are not personalized]]'
-- '[[Changes/ChatGPT/2026-08-27-personalized-when-you-create-a-temporary-chat-you-can-choose-to-have-personalize|Personalized:
-  When you create a temporary chat, you can choose to have personalized…]]'
+- '[[Changes/Claude Code/2026-08-18-improved-the-embedded-grep-in-native-macos-linux-builds-pathological-patterns-no|Improved
+  the embedded grep in native macOS/Linux builds]]'
+- '[[Changes/Claude Code/2026-08-20-updated-the-bundled-claude-api-skill-for-the-managed-agents-aug-19-release-web-s|Updated
+  the bundled claude-api skill for the Managed Agents Aug 19 release]]'
+- '[[Changes/ChatGPT/2026-08-27-3-memory-and-personalization-changes-in-more-controls-in-temporary-chat|3
+  Memory and Personalization changes in More controls in temporary chat]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-27-more-controls-in-temporary-chat-5ca95d13|chatgpt-2026-08-27-more-controls-in-temporary-chat-5ca95d13]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -84,22 +86,20 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2026-08-27-saving-a-temporary-chat-when-a-conversation-becomes-useful-for-the-future-you-ca|Saving a temporary chat]] · Memory and Personalization
-- [[Changes/ChatGPT/2026-08-27-non-personalized-by-default-temporary-chats-are-not-personalized-non-personalize|Non-personalized: By default, temporary chats are not personalized]] · Memory and Personalization
-- [[Changes/ChatGPT/2026-08-27-personalized-when-you-create-a-temporary-chat-you-can-choose-to-have-personalize|Personalized: When you create a temporary chat, you can choose to have personalized…]] · Memory and Personalization
+- [[Changes/ChatGPT/2026-08-27-3-memory-and-personalization-changes-in-more-controls-in-temporary-chat|3 Memory and Personalization changes in More controls in temporary chat]] · Memory and Personalization
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-08-18 · Claude Code · [[Changes/Claude Code/2026-08-18-improved-memory-and-cpu-usage-while-cloud-sessions-such-as-ultrareview-or-autofi|Improved memory and CPU usage while cloud sessions such as /ultrareview…]]
-- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-pages-follow-space-s-availability-and-sharing-settings-sharing-a-page-does-not-g|Pages follow Space’s availability and sharing settings]]
+- Earlier: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-updated-the-bundled-claude-api-skill-for-the-managed-agents-aug-19-release-web-s|Updated the bundled claude-api skill for the Managed Agents Aug 19 release]]
+- Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-2-memory-and-personalization-changes-in-v2-1-268|2 Memory and Personalization changes in v2.1.268]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

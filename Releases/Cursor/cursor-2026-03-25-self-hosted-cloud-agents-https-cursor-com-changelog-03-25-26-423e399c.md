@@ -1,9 +1,9 @@
 ---
-changes_count: 3
+changes_count: 1
 date: '2026-03-25'
-description: 'Cursor release Self-hosted Cloud Agents on 2026-03-25: 3 tracked changes
-  across Agent Mode, Model Support'
-machine_hash: 5ce882ca62a365abb7ad1c6483b33505a88d59bcfaf93a61e2d0f5a7d5c6fd6b
+description: 'Cursor release Self-hosted Cloud Agents on 2026-03-25: 1 tracked change
+  across Agent Mode'
+machine_hash: 2fc144955ead94d543e4e2fcd7009f4acdf6ffa3008c826ab00835d620b2aea6
 product: cursor
 product_name: Cursor
 record:
@@ -39,12 +39,10 @@ version: Self-hosted Cloud Agents
 <!-- chronolog:begin region="summary" -->
 Cursor now supports self-hosted cloud agents that keep your code and tool execution entirely in your own network.
 
-Tracked 3 of 4 candidate lines.
+Tracked 1 card from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-03-25-your-codebase-build-outputs-and-secrets-all-stay-on-internal-machines-running-in|Your codebase, build outputs, and secrets all stay on internal machines running…]] · Agent Mode
-- [[Changes/Cursor/2026-03-25-self-hosted-cloud-agents-offer-the-same-capabilities-as-cursor-hosted-cloud-agen|Self-hosted cloud agents offer the same capabilities as Cursor-hosted cloud agents…]] · Model Support
-- [[Changes/Cursor/2026-03-25-cursor-now-supports-self-hosted-cloud-agents-that-keep-your-code-and-tool-execut|Cursor now supports self-hosted cloud agents that keep your code and tool execution…]] · Agent Mode
+- [[Changes/Cursor/2026-03-25-cursor-now-supports-self-hosted-cloud-agents-that-keep-your-code-and-tool-execut-e411f3|Self-hosted Cloud Agents]] · Agent Mode
 <!-- chronolog:end -->

@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 851d3a66c295999d87592db39617b7e7ebfba6bcfcc5200a82e3e725455e8094
+kind: change
+machine_hash: 345f7c9c05b93bf22b0e4ffff4a86faec46b71d840ef573fc54d836795cf58f9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,8 +36,9 @@ record:
       and Enterprise users no longer need to switch the beta toggle to use browse,
       and are able to choose "Browse with Bing" from the GPT-4 model selector.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: browsing-which-we-re-launched-a-few-weeks-ago-is-moving-out-of-beta-plus-and-ent
@@ -59,24 +61,24 @@ record:
     score: 50
     theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v2
-  title: Browsing, which we re-launched a few weeks ago, is moving out of beta
+  title: Browsing is now out of beta
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-09-27-choose-browse-with-bing-in-the-selector-under-gpt-4|Choose
   Browse with Bing in the selector under GPT-4]]'
-- '[[Changes/Cursor/2023-10-01-use-edit-in-the-chat-to-edit-a-whole-file-if-less-than-400-lines-expect-the-edit|Use
+- '[[Changes/Cursor/2023-10-01-use-edit-in-the-chat-to-edit-a-whole-file-if-less-than-400-lines-expect-the-edit-78e4ac|Use
   /edit in the chat to edit a whole file (if less than 400 lines)]]'
-- '[[Changes/ChatGPT/2023-10-16-we-ve-integrated-dall-e-3-with-chatgpt-allowing-it-to-respond-to-your-requests-w-ad3caf|We’ve
-  integrated DALL·E 3 with ChatGPT, allowing it to respond to your requests…]]'
+- '[[Changes/ChatGPT/2023-10-16-we-ve-integrated-dall-e-3-with-chatgpt-allowing-it-to-respond-to-your-requests-w-ad3caf|DALL·E
+  3 is now rolling out in beta]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-10-17-browsing-is-now-out-of-beta-6432b7b5|chatgpt-2023-10-17-browsing-is-now-out-of-beta-6432b7b5]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: Browsing, which we re-launched a few weeks ago, is moving out of beta
+title: Browsing is now out of beta
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Browsing, which we re-launched a few weeks ago, is moving out of beta
+# Browsing is now out of beta
 
 **ChatGPT** · 2023-10-17 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-10-17-browsing-is-now-out-of-beta-6432b7b5|Browsing is now out of beta]]
 <!-- chronolog:end -->
@@ -94,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-10-16 · ChatGPT · [[Changes/ChatGPT/2023-10-16-we-ve-integrated-dall-e-3-with-chatgpt-allowing-it-to-respond-to-your-requests-w-ad3caf|We’ve integrated DALL·E 3 with ChatGPT, allowing it to respond to your requests…]]
+- Earlier: 2023-10-16 · ChatGPT · [[Changes/ChatGPT/2023-10-16-we-ve-integrated-dall-e-3-with-chatgpt-allowing-it-to-respond-to-your-requests-w-ad3caf|DALL·E 3 is now rolling out in beta]]
 - Later: 2023-11-10 · Cursor · [[Changes/Cursor/2023-11-10-new-models-you-can-plug-in-your-api-key-to-try-out-the-newest-gpt-4-and-gpt-3-tu|New models: you can plug in your API key to try out the newest gpt-4 and gpt-3 turbo…]]
 <!-- chronolog:end -->
 

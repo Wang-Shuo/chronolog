@@ -4,19 +4,20 @@ date: '2026-04-16'
 description: 'ChatGPT · 2026-04-16 · Enterprise and Administration: We''re beginning
   to roll out ads for users on Free and Go plans in Australia, New Zealand, and Canada…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise
-    and Edu rollout coming soon]]'
+  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
+    users can only access stable release (no pre-release)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 308
+  lag_days: 316
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 4cf4f4d35b4e7ebb32361a1eacd30e94a51f3a6b2cf7bbc670718d2993474751
+kind: expansion
+machine_hash: e86f4af235cf1d849abbc22ae1344311316789e1f59ccea7987a995d0a43f940
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,16 +34,16 @@ record:
       New Zealand, and Canada. Plus, Pro, Business, Enterprise, and Education plans
       do not have ads.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: expansion
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-australia-new
   source_release: chatgpt-2026-04-16-rolling-out-ads-in-australia-new-zealand-and-canada-82e516b1
   source_type: chatgpt_changelog
   theme: enterprise-admin
-  title: We're beginning to roll out ads for users on Free and Go plans in Australia,
-    New…
+  title: Rolling out ads in Australia, New Zealand, and Canada
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-04-added-forceremotesettingsrefresh-policy-setting-when-set-the-cli-blocks-startup|Added
@@ -54,15 +55,14 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-16-rolling-out-ads-in-australia-new-zealand-and-canada-82e516b1|chatgpt-2026-04-16-rolling-out-ads-in-australia-new-zealand-and-canada-82e516b1]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
-title: We're beginning to roll out ads for users on Free and Go plans in Australia,
-  New…
+title: Rolling out ads in Australia, New Zealand, and Canada
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We're beginning to roll out ads for users on Free and Go plans in Australia, New…
+# Rolling out ads in Australia, New Zealand, and Canada
 
-**ChatGPT** · 2026-04-16 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-16-rolling-out-ads-in-australia-new-zealand-and-canada-82e516b1|Rolling out ads in Australia, New Zealand, and Canada]]
+**ChatGPT** · 2026-04-16 · [[Themes/enterprise-admin|Enterprise and Administration]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-16-rolling-out-ads-in-australia-new-zealand-and-canada-82e516b1|Rolling out ads in Australia, New Zealand, and Canada]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise and Edu rollout coming soon]]
+- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

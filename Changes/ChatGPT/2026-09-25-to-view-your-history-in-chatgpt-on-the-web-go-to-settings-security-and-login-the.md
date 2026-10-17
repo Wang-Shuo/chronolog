@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 66ec225e15ee2ac76126a5cecc670c3b3f6a13d7669738d520aee7e5c798f5e0
+machine_hash: db7ac876341bdc559e4e4a721ef946f8a4a648943ef5229a4b269f38af37d0eb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -62,6 +62,7 @@ related_changes:
   introduces security history, a new way to review recent security activity…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-25-security-history-in-chatgpt-5ecdb0cb|chatgpt-2026-09-25-security-history-in-chatgpt-5ecdb0cb]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: safety-privacy
 title: To view your history in ChatGPT on the web, go to Settings  Security and login…
 type: change

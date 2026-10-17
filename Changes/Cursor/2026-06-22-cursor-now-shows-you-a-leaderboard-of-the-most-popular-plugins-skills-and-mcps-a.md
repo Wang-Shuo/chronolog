@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 83c14e625ea557f55560dee40e9ec88e0efd6497ea9d598ee847be849d62a27e
+machine_hash: dd10e8c01f13f1457654fd143e1648417d20f15eb8d34ac6c5e009e00f8cbf7a
 product: cursor
 product_name: Cursor
 record:
@@ -59,6 +59,7 @@ related_changes:
   now support prebuilt canvases: shared setup templates your team can open and reuse]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2|cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2]]'
 source_type: cursor_changelog
+superseded: true
 theme: collaboration
 title: Cursor now shows you a leaderboard of the most popular plugins, skills, and
   MCPs…

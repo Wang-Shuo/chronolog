@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 049698717eec5f96218162ba0f4d051cc6c645f9d31acea69ee38d00babf9558
+kind: fix
+machine_hash: 0d8158fa3204fcb02349ce7ed1aecedd424daf37ae0971f97b336f83870dcfe3
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Fixed official marketplace plugin scripts failing with "Permission denied"
       on macOS/Linux since v2.1.83
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.86
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: fix
   product: claude-code
   product_name: Claude Code
   slug: fixed-official-marketplace-plugin-scripts-failing-with-permission-denied-on-maco
@@ -50,12 +52,12 @@ record:
   title: Fixed official marketplace plugin scripts failing…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-25-added-claude-code-subprocess-env-scrub-1-to-strip-anthropic-and-cloud-provider-c|Added
-  CLAUDE_CODE_SUBPROCESS_ENV_SCRUB=1 to strip Anthropic and cloud provider…]]'
-- '[[Changes/Claude Code/2026-03-25-added-sandbox-failifunavailable-setting-to-exit-with-an-error-when-sandbox-is-en|Added
-  sandbox.failIfUnavailable setting to exit with an error when sandbox…]]'
-- '[[Changes/Claude Code/2026-03-26-added-conditional-if-field-for-hooks-using-permission-rule-syntax-e-g-bash-git-t|Added
-  conditional if field for hooks using permission rule syntax…]]'
+- '[[Changes/Claude Code/2026-03-25-2-safety-and-privacy-changes-in-v2-1-83|2 Safety
+  and Privacy changes in v2.1.83]]'
+- '[[Changes/Claude Code/2026-03-26-fixed-the-allow-claude-to-edit-its-own-settings-for-this-session-permission-opti|Fixed
+  the "allow Claude to edit its own settings for this session" permission option…]]'
+- '[[Changes/Claude Code/2026-03-26-2-safety-and-privacy-changes-in-v2-1-85|2 Safety
+  and Privacy changes in v2.1.85]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859|claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859]]'
 source_type: github_releases
 theme: safety-privacy
@@ -66,7 +68,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Fixed official marketplace plugin scripts failing…
 
-**Claude Code** · 2026-03-27 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.86) · from [[Releases/Claude Code/claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859|v2.1.86]]
+**Claude Code** · 2026-03-27 · [[Themes/safety-privacy|Safety and Privacy]] · Fix · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.86) · from [[Releases/Claude Code/claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859|v2.1.86]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -78,17 +80,20 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-03-27-reduced-token-overhead-when-mentioning-files-with-raw-string-content-no-longer-j|Reduced token overhead when mentioning files with @]] · Context Window
 - [[Changes/Claude Code/2026-03-27-added-x-claude-code-session-id-header-to-api-requests-so-proxies-can-aggregate-r|Added X-Claude-Code-Session-Id header to API requests so proxies can aggregate…]] · Developer Workflow
 - [[Changes/Claude Code/2026-03-27-added-jj-and-sl-to-vcs-directory-exclusion-lists-so-grep-and-file-autocomplete-d|Added .jj and .sl to VCS directory exclusion lists so Grep and file autocomplete…]] · Editor Experience
+- [[Changes/Claude Code/2026-03-27-memory-filenames-in-the-saved-n-memories-notice-now-highlight-on-hover-and-open|Memory filenames in the "Saved N memories" notice now highlight on hover and open on click]] · Memory and Personalization
+- [[Changes/Claude Code/2026-03-27-auto-mode-now-shows-unavailable-for-your-plan-when-disabled-by-plan-restrictions|Auto mode now shows "unavailable for your plan" when disabled by plan restrictions…]] · Agent Mode
+- [[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed /skills menu to sort alphabetically for easier scanning]] · Interface Experience
 - [[Changes/Claude Code/2026-03-27-reduced-startup-event-loop-stalls-when-many-claude-ai-mcp-connectors-are-configu|Reduced startup event-loop stalls when many claude.ai MCP connectors are configured…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-03-27-3-context-window-changes-in-v2-1-86|3 Context Window changes in v2.1.86]] · Context Window
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-added-conditional-if-field-for-hooks-using-permission-rule-syntax-e-g-bash-git-t|Added conditional if field for hooks using permission rule syntax…]]
-- Later: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-added-husky-to-protected-directories-acceptedits-mode|Added .husky to protected directories (acceptEdits mode)]]
+- Earlier: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-2-safety-and-privacy-changes-in-v2-1-85|2 Safety and Privacy changes in v2.1.85]]
+- Later: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-2-safety-and-privacy-changes-in-v2-1-89|2 Safety and Privacy changes in v2.1.89]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: a10037088d1732a18e6b50a9660e80b214ee054d66eb03f26a2ce3f151cddbdd
+machine_hash: a5b5a1af33b3499390d4c862d3e058d1fee7c4f7c0ce54fdf19af39843a2af4f
 product: cursor
 product_name: Cursor
 record:
@@ -55,6 +55,7 @@ related_changes:
   the /loop skill for local long-running agents]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da|cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: With /loop, Cursor can run a prompt repeatedly on a local schedule, until a
   certain…

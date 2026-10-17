@@ -15,9 +15,10 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: a9adaf616151618626aee36277ccd0f9212536965121a1543f3f579fcc1e2c15
+kind: change
+machine_hash: 92304ebd879c5a372ef6475fcb506ffe686044b35a931d8364bb5a278ae21e7b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,8 +36,9 @@ record:
       the EEA, Switzerland, and the UK. Enterprise user access will be announced at
       a later date.See: Connecting GitHub to ChatGPT deep research.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also
@@ -57,24 +59,24 @@ record:
     score: 50
     theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v1
-  title: ChatGPT deep research with GitHub is available globally to Team users
+  title: GitHub connector for deep research for Plus/Pro/Team
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-27-browsing-is-rolling-out-to-all-plus-users-chatgpt-can-now-browse-the-internet-to-335b58|Browsing
-  is rolling out to all Plus users]]'
 - '[[Changes/Cursor/2024-01-25-using-web-in-chat-will-give-the-ai-the-ability-to-crawl-the-web-the-tools-it-can|Using
   @Web in chat will give the AI the ability to crawl the web!]]'
 - '[[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set
   ChatGPT as default search engine in Safari]]'
+- '[[Changes/Cursor/2025-02-19-web-search-agent-can-now-automatically-search-the-web-for-up-to-date-information|Web
+  search: Agent can now automatically search the web for up-to-date information…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-08-github-connector-for-deep-research-for-plus-pro-team-498e1135|chatgpt-2025-05-08-github-connector-for-deep-research-for-plus-pro-team-498e1135]]'
 source_type: chatgpt_changelog
 theme: search-browsing
-title: ChatGPT deep research with GitHub is available globally to Team users
+title: GitHub connector for deep research for Plus/Pro/Team
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT deep research with GitHub is available globally to Team users
+# GitHub connector for deep research for Plus/Pro/Team
 
 **ChatGPT** · 2025-05-08 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-05-08-github-connector-for-deep-research-for-plus-pro-team-498e1135|GitHub connector for deep research for Plus/Pro/Team]]
 <!-- chronolog:end -->
@@ -92,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-02-14 · ChatGPT · [[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set ChatGPT as default search engine in Safari]]
-- Later: 2025-05-12 · ChatGPT · [[Changes/ChatGPT/2025-05-12-you-can-now-export-your-deep-research-reports-as-well-formatted-pdfs-complete-wi-87a3fa|Export your deep research reports as well-formatted PDFs—complete with tables…]]
+- Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-web-search-agent-can-now-automatically-search-the-web-for-up-to-date-information|Web search: Agent can now automatically search the web for up-to-date information…]]
+- Later: 2025-05-12 · ChatGPT · [[Changes/ChatGPT/2025-05-12-you-can-now-export-your-deep-research-reports-as-well-formatted-pdfs-complete-wi-87a3fa|Export Deep Research as PDF for Plus/Pro/Team]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

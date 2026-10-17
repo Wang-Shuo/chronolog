@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 5caee2c1c59ecd26c34dcf9205f900f16b16d5d9dc76b4419b38953487462e9b
+machine_hash: abfcb6cd515b27fd307df1bedae5c708fe61cf85d447c3fbf274fe7720594861
 product: cursor
 product_name: Cursor
 record:
@@ -50,6 +50,7 @@ related_changes:
   /simplify and /batch bundled slash commands]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3]]'
 source_type: cursor_changelog
+superseded: true
 theme: developer-workflow
 title: Added support for multiple parallel Debug mode sessions
 type: change

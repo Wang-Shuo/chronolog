@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 6
 date: '2024-10-09'
 description: 'Cursor release Composer History, @Lint Errors, VS Code 1.93.1 on 2024-10-09:
-  5 tracked changes across Editor Experience, Developer Workflow, Model Support…'
-machine_hash: d8dc0b97ca7b944f851fbe357ff060d6e3f753173834659b260f1a1f1bd2334b
+  6 tracked changes across Developer Workflow, Context Window, Editor Experience…'
+machine_hash: 9745760a3735ee135913f1ff55191b8d2e129ce2b776b8ebb3202c8e7269a434
 product: cursor
 product_name: Cursor
 record:
@@ -39,14 +39,15 @@ version: 0.42.x
 <!-- chronolog:begin region="summary" -->
 Composer history lets you access previous composer sessions after restart. You can also edit and resubmit from previous messages within a session.
 
-Tracked 5 of 8 candidate lines.
+Tracked 6 cards from 8 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
+- [[Changes/Cursor/2024-10-09-composer-now-only-applies-files-that-are-in-context-to-prevent-hallucinations|Composer now only applies files that are in context to prevent hallucinations]] · Context Window
 - [[Changes/Cursor/2024-10-09-we-have-made-slight-improvements-to-debug-with-ai-and-added-back-lint-errors-in|We have made slight improvements to Debug with AI and added back @Lint Errors in Chat]] · Developer Workflow
-- [[Changes/Cursor/2024-10-09-python-auto-import-for-cursor-tab-is-much-more-stable-in-this-release|Python auto import for Cursor Tab is much more stable in this release]] · Editor Experience
+- [[Changes/Cursor/2024-10-09-using-cursor-with-wsl-should-now-be-more-stable|Using cursor . with WSL should now be more stable]] · Developer Workflow
 - [[Changes/Cursor/2024-10-09-composer-history-lets-you-access-previous-composer-sessions-after-restart-you-ca|Composer history lets you access previous composer sessions after restart]] · Projects and Workspaces
-- [[Changes/Cursor/2024-10-09-switching-models-is-a-lot-easier-with-model-search-cmd-option-in-the-chat-compos|Switching models is a lot easier with model search (Cmd-option-/) in the chat…]] · Model Support
-- [[Changes/Cursor/2024-10-09-vs-code-1-93-1-cursor-is-now-based-on-vs-code-1-93-1|VS Code 1.93.1: Cursor is now based on VS Code 1.93.1]] · Editor Experience
+- [[Changes/Cursor/2024-10-09-vs-code-1-93-1-cursor-is-now-based-on-vs-code-1-93-1-c087f6|VS Code 1.93.1: Cursor is now based on VS Code 1.93.1]] · Editor Experience
+- [[Changes/Cursor/2024-10-09-update-0-42-1-0-42-5-fixes-the-following-upstream-security-issue-cve-2024-43601|UPDATE (0.42.1 - 0.42.5): Fixes the following upstream security issue: CVE-2024-43601]] · Safety and Privacy
 <!-- chronolog:end -->

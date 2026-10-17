@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d8b1dff872667a543e9befaff8ad1fb63b095e5361bf4cb73c596aab0a380ca9
+machine_hash: f6b77e7bb7009a03830b4a02df2cd12147d18481346f7320b9ea102020ddeac5
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   Bedrock now reads the AWS region from ~/.aws config files when AWS_REGION…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-15-v2-1-178-github-339741361-902bc427|claude-code-2026-06-15-v2-1-178-github-339741361-902bc427]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Skills in nested .claude/skills directories now load when working on files
   there

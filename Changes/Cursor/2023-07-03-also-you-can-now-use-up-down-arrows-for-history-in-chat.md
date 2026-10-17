@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 4ee5bee060aa9bc086b89ec8f48d8de7c7d93c12ef00aba615ea296c459d0544
+kind: change
+machine_hash: cac2ad54fe54087fb7d8c8de5dbe17b9be39328a78f937dca0d270ae2c73f38d
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: (Also, you can now use up/down arrows for history in chat.)
     source_release: https://cursor.com/changelog/0-2-39
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: also-you-can-now-use-up-down-arrows-for-history-in-chat
@@ -43,8 +45,8 @@ record:
 related_changes:
 - '[[Changes/Cursor/2023-05-20-we-ve-added-a-new-feedback-button-at-the-top-right-of-the-app-we-really-do|Cursor
   adds a new feedback button at the top right of the app]]'
-- '[[Changes/Cursor/2023-06-24-the-chat-has-been-revamped-you-can-now-use-symbols-to-show-files-code-docs-to-th|The
-  chat has been revamped!]]'
+- '[[Changes/Cursor/2023-06-24-the-chat-has-been-revamped-you-can-now-use-symbols-to-show-files-code-docs-to-th|Chat
+  v2]]'
 - '[[Changes/Cursor/2023-06-27-better-symbol-keyboard-ergonomics|Better @ symbol keyboard
   ergonomics]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-03-0-2-39-https-cursor-com-changelog-0-2-39-cbfe6a5f|cursor-2023-07-03-0-2-39-https-cursor-com-changelog-0-2-39-cbfe6a5f]]'
@@ -78,7 +80,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2023-06-27 · Cursor · [[Changes/Cursor/2023-06-27-better-symbol-keyboard-ergonomics|Better @ symbol keyboard ergonomics]]
-- Later: 2023-07-07 · Cursor · [[Changes/Cursor/2023-07-07-chat-edit-tooltip-blocks-less-code|Chat/Edit tooltip blocks less code]]
+- Later: 2023-07-07 · Cursor · [[Changes/Cursor/2023-07-07-better-symbol-keyboard-ergonomics|Better @ symbol keyboard ergonomics]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

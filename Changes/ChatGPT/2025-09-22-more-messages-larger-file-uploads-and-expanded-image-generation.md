@@ -4,19 +4,20 @@ date: '2025-09-22'
 description: 'ChatGPT · 2025-09-22 · Image Generation: More messages, larger file
   uploads, and expanded image generation'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The
-    store features a diverse range of GPTs developed by our partners and the community]]'
+  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
+    3 for ChatGPT Free users]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 621
+  lag_days: 410
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 478da745974e23ebbe6ff8267ec88603eaf4f6317a85a9834333918c30c29684
+kind: change
+machine_hash: 19d630ae4a475aa4e7c96f4781cf1cc58c3b0922772c5e30b18be01789b32ca7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,8 +31,9 @@ record:
   evidence:
   - quote: More messages, larger file uploads, and expanded image generation
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: more-messages-larger-file-uploads-and-expanded-image-generation
@@ -41,10 +43,10 @@ record:
   title: More messages, larger file uploads, and expanded image generation
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-04-15-all-images-you-create-with-chatgpt-are-now-automatically-saved-to-a-new-library|All
-  images you create with ChatGPT are now automatically saved to a new Library…]]'
-- '[[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|ChatGPT
-  rolls out a small update to image generation for ChatGPT Free tier users…]]'
+- '[[Changes/ChatGPT/2025-04-15-all-images-you-create-with-chatgpt-are-now-automatically-saved-to-a-new-library|ChatGPT
+  Image Library]]'
+- '[[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|Image
+  generation update to ChatGPT Free]]'
 - '[[Changes/ChatGPT/2025-08-18-more-messages-larger-file-uploads-and-expanded-image-generation|More
   messages, larger file uploads, and expanded image generation]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7|chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7]]'
@@ -83,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The store features a diverse range of GPTs developed by our partners and the community]]
+- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

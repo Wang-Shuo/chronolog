@@ -4,8 +4,8 @@ date: '2026-04-15'
 description: 'Claude Code · 2026-04-15 · Context Window: Added option to show Claude''s
   last response as commented context in the `Ctrl+G` external editor (enable via…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
-    prompt length for project generation]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1077
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 6cf6b9ab2e0b213eb1dbe64c76beddb7973ea5347b71d606eb7ebaadbe331c65
+kind: change
+machine_hash: 48a0f77da9192df651a71185e1b6bd68e57bb55fe0e49bf26d05abbc79c1aba1
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added option to show Claude's last response as commented context in the
       `Ctrl+G` external editor (enable via `/config`)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.110
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-option-to-show-claude-s-last-response-as-commented-context-in-the-ctrl-g-e
@@ -52,10 +54,10 @@ record:
 related_changes:
 - '[[Changes/Claude Code/2026-04-09-added-exclude-dynamic-system-prompt-sections-flag-to-print-mode-for-improved-cro|Added
   --exclude-dynamic-system-prompt-sections flag to print mode for improved…]]'
-- '[[Changes/Claude Code/2026-04-14-added-enable-prompt-caching-1h-env-var-to-opt-into-1-hour-prompt-cache-ttl-on-ap|Added
-  ENABLE_PROMPT_CACHING_1H env var to opt into 1-hour prompt cache TTL on API…]]'
-- '[[Changes/Claude Code/2026-04-14-added-recap-feature-to-provide-context-when-returning-to-a-session-configurable|Added
-  recap feature to provide context when returning to a session, configurable…]]'
+- '[[Changes/Claude Code/2026-04-10-improved-tool-not-available-errors-to-explain-why-and-how-to-proceed-when-the-mo|Improved
+  tool-not-available errors to explain why and how to proceed when the model…]]'
+- '[[Changes/Claude Code/2026-04-14-2-context-window-changes-in-v2-1-108|2 Context
+  Window changes in v2.1.108]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59|claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59]]'
 source_type: github_releases
 theme: context-window
@@ -78,23 +80,26 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-04-15-added-autoscrollenabled-config-to-disable-conversation-auto-scroll-in-fullscreen|Added autoScrollEnabled config to disable conversation auto-scroll in fullscreen mode]] · Interface Experience
-- [[Changes/Claude Code/2026-04-15-changed-ctrl-o-to-toggle-between-normal-and-verbose-transcript-only-focus-view-i|Changed Ctrl+O to toggle between normal and verbose transcript only]] · Interface Experience
+- [[Changes/Claude Code/2026-04-15-resume-continue-now-resurrects-unexpired-scheduled-tasks|--resume/--continue now resurrects unexpired scheduled tasks]] · Automation and Scheduling
+- [[Changes/Claude Code/2026-04-15-bash-tool-now-enforces-the-documented-maximum-timeout-instead-of-accepting-arbit|Bash tool now enforces the documented maximum timeout instead of accepting…]] · Developer Workflow
 - [[Changes/Claude Code/2026-04-15-added-tui-command-and-tui-setting-run-tui-fullscreen-to-switch-to-flicker-free-r|Added /tui command and tui setting]] · Interface Experience
 - [[Changes/Claude Code/2026-04-15-added-push-notification-tool-claude-can-send-mobile-push-notifications-when-remo|Added push notification tool]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-04-15-2-interface-experience-changes-in-v2-1-110|2 Interface Experience changes in v2.1.110]] · Interface Experience
+- [[Changes/Claude Code/2026-04-15-4-apps-and-integrations-changes-in-v2-1-110|4 Apps and Integrations changes in v2.1.110]] · Apps and Integrations
+- [[Changes/Claude Code/2026-04-15-2-editor-experience-changes-in-v2-1-110|2 Editor Experience changes in v2.1.110]] · Editor Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-04-14 · Claude Code · [[Changes/Claude Code/2026-04-14-added-recap-feature-to-provide-context-when-returning-to-a-session-configurable|Added recap feature to provide context when returning to a session, configurable…]]
-- Later: 2026-05-04 · Cursor · [[Changes/Cursor/2026-05-04-admins-can-now-set-more-granular-allow-or-blocklists-at-the-model-and-provider-l|Admins can now set more granular allow or blocklists at the model and provider level]]
+- Earlier: 2026-04-14 · Claude Code · [[Changes/Claude Code/2026-04-14-2-context-window-changes-in-v2-1-108|2 Context Window changes in v2.1.108]]
+- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-vscode-context-now-opens-a-native-token-usage-dialog|VSCode /context now opens a native token usage dialog]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

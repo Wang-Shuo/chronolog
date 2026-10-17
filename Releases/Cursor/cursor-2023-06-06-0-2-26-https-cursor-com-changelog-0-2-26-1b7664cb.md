@@ -1,9 +1,9 @@
 ---
-changes_count: 2
+changes_count: 1
 date: '2023-06-06'
-description: 'Cursor release Codebase Context v1 on 2023-06-06: 2 tracked changes
-  across Context Window'
-machine_hash: 09f699e538ccf7100c4a512313db99ae9cd338f4aefcf3c5f71be3c770472edc
+description: 'Cursor release Codebase Context v1 on 2023-06-06: 1 tracked change across
+  Context Window'
+machine_hash: 1156fc6590cc4c15fc0f63476b0f0b6c7ca22272d67d2f1c499b242f0d4bd09b
 product: cursor
 product_name: Cursor
 record:
@@ -38,11 +38,10 @@ version: 0.2.26
 <!-- chronolog:begin region="summary" -->
 #Codebase Context v1
 
-Tracked 2 of 3 candidate lines.
+Tracked 1 card from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-06-06-introducing-v1-of-codebase-wide-context-we-ll-be-shipping-major-improvements-to|Introducing v1 of codebase-wide context!]] · Context Window
-- [[Changes/Cursor/2023-06-06-or-on-chat-press-cmd-enter-in-order-to-get-a-response-that-uses-context-from-the|Or, on chat, press Cmd+Enter in order to get a response that uses context…]] · Context Window
+- [[Changes/Cursor/2023-06-06-codebase-context-v1-bd6ee5|Codebase Context v1]] · Context Window · Launch
 <!-- chronolog:end -->

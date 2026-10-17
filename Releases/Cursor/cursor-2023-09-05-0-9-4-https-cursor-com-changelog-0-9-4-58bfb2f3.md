@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-09-05'
 description: 'Cursor release Hotfix Cmd-K unexpectedly outputting backticks on 2023-09-05:
   1 tracked change across Editor Experience'
-machine_hash: 2c5ac5b700118ec3f33f37a3cd27781ddd7ea159edf9c47bb53a506dcb6cbc19
+machine_hash: 2d5721e73996f8d6be644a7ad4c7f874c8f0bea94bec25bd8fb390fc3abb5cf2
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.9.4
 <!-- chronolog:begin region="summary" -->
 Cmd-K will no longer output backticks if you do @file.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

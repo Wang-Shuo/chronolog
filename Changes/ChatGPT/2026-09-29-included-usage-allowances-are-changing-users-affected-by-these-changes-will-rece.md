@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f9877f243a885cec40c5cdc7fa4a33834d0cb176ec6bf0ba237bb540b2145cf7
+machine_hash: 773504a7db45a65a65f287a696c03d3de63f76fad5a38c1d788c2a399db70f19
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,6 +52,7 @@ related_changes:
   200 is available for new subscriptions again at $200/month]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-pro-200-subscriptions-a351b7b9|chatgpt-2026-09-29-pro-200-subscriptions-a351b7b9]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: pricing-model
 title: Included usage allowances are changing
 type: change

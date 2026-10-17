@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 866bcd55f710ff3d342efcba18ea4f7c159d40ed7c6a0ee1ddd11863b46f4284
+machine_hash: 63e2735fcafb5b1da901940c8debfd7bfc5fed78ed149146810874a6b88c6b58
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,6 +58,7 @@ related_changes:
   release channel (stable or latest) toggle to /config]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-3-github-275638643-101f767c|claude-code-2026-01-09-v2-1-3-github-275638643-101f767c]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Improved terminal rendering stability by preventing uncontrolled writes…
 type: change

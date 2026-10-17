@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: dae367a6119ee00d7897dae27c8246187e0bcfdd47d5a3d4395d20249ab6528e
+machine_hash: 46e0bc59e92b2b27557fb7ff7432b6dfc354b86c422711609f5dd704310e4efc
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1 env var to opt out of the fullscreen…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664|claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added a "Pasting…" footer hint while a Ctrl+V image paste is being read from
   the clipboard

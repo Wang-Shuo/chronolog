@@ -15,9 +15,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 886d6202843da1239b3a4f736914c54edb7b0d942f7d47e23419ef7402d3a5c9
+kind: change
+machine_hash: e154171e880f4676ad02f0302b3cbafe5328f5b38fa3c21f3a6190836597fe72
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -62,8 +63,9 @@ record:
       for their teen.Rolling out to all ChatGPT consumer plans on iOS, Android, and
       web.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: users-can-now-choose-to-share-their-device-location-so-chatgpt-can-provide-more
@@ -85,25 +87,24 @@ record:
     - sharing
     score: 50
     theme: collaboration
-  title: Users can now choose to share their device location so ChatGPT can provide
-    more…
+  title: Location Sharing
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-03-desktop-improvements-15|Desktop Improvements (15)↓↑]]'
-- '[[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|Now,
-  it’s easier to find, reuse, and build on your files over time]]'
-- '[[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|To
-  give you more space to view your most critical chats and projects, the sidebar…]]'
+- '[[Changes/Claude Code/2026-03-17-2-mobile-and-desktop-changes-in-v2-1-77|2 Mobile
+  and Desktop changes in v2.1.77]]'
+- '[[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|File
+  Library in ChatGPT]]'
+- '[[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|A
+  simplified sidebar on mobile]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-26-location-sharing-b07f88a6|chatgpt-2026-03-26-location-sharing-b07f88a6]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Users can now choose to share their device location so ChatGPT can provide
-  more…
+title: Location Sharing
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Users can now choose to share their device location so ChatGPT can provide more…
+# Location Sharing
 
 **ChatGPT** · 2026-03-26 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-26-location-sharing-b07f88a6|Location Sharing]]
 <!-- chronolog:end -->
@@ -121,7 +122,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-03-26 · ChatGPT · [[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|To give you more space to view your most critical chats and projects, the sidebar…]]
+- Earlier: 2026-03-26 · ChatGPT · [[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|A simplified sidebar on mobile]]
 - Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-added-powershell-tool-for-windows-as-an-opt-in-preview-learn-more-at-https-code|Added PowerShell tool for Windows as an opt-in preview]]
 <!-- chronolog:end -->
 

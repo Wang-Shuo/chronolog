@@ -3,7 +3,7 @@ changes_count: 3
 date: '2026-08-31'
 description: 'ChatGPT release See Live voice content on your Lock Screen on 2026-08-31:
   3 tracked changes across Voice and Audio'
-machine_hash: e4dbc3e24b97652477a3aec88e9b3ab1aa1d765cf6710917e309b7e1bba96a63
+machine_hash: 4f1a0ee7a20ae5dd6246f4948d99e1cad0d9638047698af65c60baa7336de317
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ version: See Live voice content on your Lock Screen
 <!-- chronolog:begin region="summary" -->
 Content from a Live voice conversation can now appear on your iPhone’s Lock Screen and, on iPhones with Dynamic Island, in the Dynamic Island.
 
-Tracked 3 of 4 candidate lines.
+Tracked 3 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

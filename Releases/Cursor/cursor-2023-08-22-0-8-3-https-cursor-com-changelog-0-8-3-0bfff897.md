@@ -3,7 +3,7 @@ changes_count: 0
 date: '2023-08-22'
 description: 'Cursor release Codebase indexing controls on 2023-08-22: no tracked
   changes'
-machine_hash: dcdd187c53deebd6111789a902575915c8d67ea6ec5bbf4c4414f247250465de
+machine_hash: 1ec878a66d147a937bece36f86a9011775012da068c5ba22f409e71b617ed4d1
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ version: 0.8.3
 <!-- chronolog:begin region="summary" -->
 Fixes a bug were codebase indexing controls where inadvertently removed.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 572f47b5acfd8374c54927abdfbcd29395e27bb6920305ac8b4a7a86096dacbd
+machine_hash: 05798a510416af2be57441be0e1513a3ac0b91adb983078e1ea1e0f6a7c9a627
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,6 +55,7 @@ related_changes:
   scroll to latest message]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added numeric keypad support for selecting options in Claude's interview questions…
 type: change

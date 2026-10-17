@@ -1,9 +1,9 @@
 ---
-changes_count: 3
+changes_count: 4
 date: '2025-03-18'
-description: 'ChatGPT release iOS App on 2025-03-18: 3 tracked changes across Interface
+description: 'ChatGPT release iOS App on 2025-03-18: 4 tracked changes across Interface
   Experience, Mobile and Desktop, Reliability and Performance'
-machine_hash: 9f2681b8abe3a837763075ecedb5c4e21e1edc44579f16191807db834e9c19e7
+machine_hash: 3a689d5beceb49ed1a2fea8f2f38f5ec07acd936e3905d814ca28141314e8ff2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,12 +39,13 @@ version: iOS App
 <!-- chronolog:begin region="summary" -->
 1⁠. Improved table-copying functionality out of ChatGPT responses on iOS and macOS.
 
-Tracked 3 of 4 candidate lines.
+Tracked 4 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-03-18-1-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved table-copying functionality out of ChatGPT responses on iOS and macOS]] · Mobile and Desktop
-- [[Changes/ChatGPT/2025-03-18-2-added-long-press-on-your-message-to-open-menu-actions-copy-edit|Added long press on your message to open menu actions: Copy, Edit]] · Interface Experience
-- [[Changes/ChatGPT/2025-03-18-4-improved-display-and-faster-streaming-of-conversations-and-message-menu-action|Improved display and faster streaming of conversations and message menu actions]] · Reliability and Performance
+- [[Changes/ChatGPT/2025-03-18-added-long-press-on-your-message-to-open-menu-actions-copy-edit|Added long press on your message to open menu actions: Copy, Edit]] · Interface Experience
+- [[Changes/ChatGPT/2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved table-copying functionality out of ChatGPT responses on iOS and macOS]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-03-18-improved-display-and-faster-streaming-of-conversations-and-message-menu-actions|Improved display and faster streaming of conversations and message menu actions]] · Reliability and Performance
+- [[Changes/ChatGPT/2025-03-18-improved-response-display-of-nested-blockquote-content|Improved response display of nested blockquote content]] · Interface Experience
 <!-- chronolog:end -->

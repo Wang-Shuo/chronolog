@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-09-17'
 description: 'Cursor release Cursor Python and Cursor Marketplace on 2023-09-17: 1
   tracked change across Apps and Integrations'
-machine_hash: 26500041db0ad22361ad841cecb4eb7837971717ba7d29b1ebb655279746c9b5
+machine_hash: 4b6566b7a4902d0f8da1b308e0eeda1cef22d82bdc97a3b033ac59183c7387d6
 product: cursor
 product_name: Cursor
 record:
@@ -39,10 +39,10 @@ version: 0.11.1-nightly
 <!-- chronolog:begin region="summary" -->
 We point to a different marketplace for downloading extensions, and use a fork of ms-python and pyright to provide python support.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-09-17-we-point-to-a-different-marketplace-for-downloading-extensions-and-use-a-fork-of|We point to a different marketplace for downloading extensions, and use a fork…]] · Apps and Integrations
+- [[Changes/Cursor/2023-09-17-we-point-to-a-different-marketplace-for-downloading-extensions-and-use-a-fork-of|Cursor Python and Cursor Marketplace]] · Apps and Integrations
 <!-- chronolog:end -->

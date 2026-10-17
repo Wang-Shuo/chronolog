@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8ac0d1c919502b3852dee777c0bd281e237498a4a7dfcddd893c10f927d92b34
+machine_hash: 2fe046ede1d95cb844de235d8ef8f726c7fe985f309b0fc390cb06d2ed14bdda
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   now accepts .zip plugin archives in addition to directories]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2|claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: /mcp now shows the tool count for connected servers and flags servers…
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e6c409848fbea6350e7c4c182f9aa09085cf65f2e73d2832e0880f3e064997dc
+machine_hash: 172add11eccd3e9cd75ee03a4f92a56e3773d3cb89b7b737c1c244302c69ee43
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   startup memory usage by ~18MB across all scenarios]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd|claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd]]'
 source_type: github_releases
+superseded: true
 theme: reliability-performance
 title: Improved non-streaming API fallback with a 2-minute per-attempt timeout, preventing…
 type: change

@@ -5,8 +5,8 @@ description: 'Claude Code · 2026-07-06 · Apps and Integrations: Improved MCP e
   messages: clearer error when a server config has `url` but no `type`, suggesting
   `"type"…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1201
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: aacd4e4ac177fbe7eb0613f2ef41929317826d98010f1064b851000bb66f8400
+kind: change
+machine_hash: a4fe5da6f3cb2c786d8cac5a01085822a2b6ffadfa2b68b24d525ba624f859db
 product: claude-code
 product_name: Claude Code
 record:
@@ -32,8 +33,9 @@ record:
       but no `type`, suggesting `"type": "http"` instead of the misleading "command:
       expected string"'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.202
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-mcp-error-messages-clearer-error-when-a-server-config-has-url-but-no-ty
@@ -71,23 +73,22 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-07-06-added-a-dynamic-workflow-size-setting-in-config-for-controlling-how-large-claude|Added a "Dynamic workflow size" setting in /config for controlling how large…]] · Agent Mode
+- [[Changes/Claude Code/2026-07-06-3-agent-mode-changes-in-v2-1-202|3 Agent Mode changes in v2.1.202]] · Agent Mode
+- [[Changes/Claude Code/2026-07-06-changed-review-pr-back-to-a-fast-single-pass-review-use-code-review-level-pr-for|Changed /review pr back to a fast single-pass review]] · Developer Workflow
 - [[Changes/Claude Code/2026-07-06-fixed-remote-control-sessions-showing-the-wrong-permission-mode-in-the-mobile-an|Fixed /remote-control sessions showing the wrong permission mode in the mobile…]] · Safety and Privacy
-- [[Changes/Claude Code/2026-07-06-added-workflow-run-id-and-workflow-name-opentelemetry-attributes-to-telemetry-em|Added workflow.run_id and workflow.name OpenTelemetry attributes to telemetry…]] · Agent Mode
-- [[Changes/Claude Code/2026-07-06-improved-workflows-agent-list-layout-wider-titles-a-dedicated-time-column-shorte|Improved /workflows agent list layout]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-02 · Claude Code · [[Changes/Claude Code/2026-07-02-stacked-slash-skill-invocations-like-skill-a-skill-b-do-xyz-now-load-all-leading|Stacked slash-skill invocations like /skill-a /skill-b do XYZ now load all leading…]]
-- Later: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-added-the-session-s-additional-working-directories-to-mcp-roots-list-with-notifi|Added the session's additional working directories to MCP roots/list…]]
+- Later: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-2-apps-and-integrations-changes-in-v2-1-203|2 Apps and Integrations changes in v2.1.203]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

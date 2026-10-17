@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 171021084bf97705eda24729c6a3071454f62e4f0cdd47effba1de5c21178099
+kind: change
+machine_hash: 0a38bb7dfc3a1fef8a4d56e7c1d79f823777d717344199e158aeb85201ebe40d
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Composer UI in the sidebar with inline diffs
     source_release: https://cursor.com/changelog/0-43-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: composer-ui-in-the-sidebar-with-inline-diffs
@@ -39,12 +41,11 @@ record:
   title: Composer UI in the sidebar with inline diffs
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-11-22-a-small-settings-icon-was-added-in-larger-viewports-when-the-sidebar-is-not-open|A
-  small settings icon was added in larger viewports when the sidebar is not open]]'
-- '[[Changes/ChatGPT/2024-11-22-new-floating-mode-added-with-soft-dismiss-behavior|New
-  floating mode added with soft dismiss behavior]]'
-- '[[Changes/ChatGPT/2024-11-22-recent-conversations-are-now-limited-in-the-sidebar-with-an-unlimited-infinite-s|Recent
-  conversations are now limited in the sidebar, with an unlimited infinite…]]'
+- '[[Changes/Cursor/2024-08-22-we-have-a-new-chat-ux-excited-for-you-to-try-it-out-and-share-your-thoughts|We
+  have a new chat UX!]]'
+- '[[Changes/ChatGPT/2024-11-22-the-new-chat-button-has-been-moved-to-the-left-of-the-model-picker-to-be-easier|The
+  new chat button has been moved to the left of the Model Picker to be easier to access]]'
+- '[[Changes/ChatGPT/2024-11-22-sidebar-redesign-e6413a|Sidebar redesign]]'
 source_release: '[[Releases/Cursor/cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492|cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -67,17 +68,15 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2024-11-24-recommended-in-chat-composer-to-semantically-search-for-context|@Recommended in chat/composer to semantically search for context]] · Context Window
-- [[Changes/Cursor/2024-11-24-generation-of-git-commit-messages|Generation of git commit messages]] · Developer Workflow
-- [[Changes/Cursor/2024-11-24-file-pill-recommendations-in-chat-composer|File pill recommendations in chat/composer]] · Context Window
-- [[Changes/Cursor/2024-11-24-early-version-of-an-agent-in-composer-that-can-pick-its-own-context-and-use-the|Early version of an agent in composer that can pick its own context and use the terminal]] · Context Window
+- [[Changes/Cursor/2024-11-24-several-performance-improvements|Several performance improvements]] · Reliability and Performance
+- [[Changes/Cursor/2024-11-24-early-version-of-an-agent-in-composer-that-can-pick-its-own-context-and-use-the-1228de|Early version of an agent in composer that can pick its own context and use the terminal]] · Context Window
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-11-22 · ChatGPT · [[Changes/ChatGPT/2024-11-22-recent-conversations-are-now-limited-in-the-sidebar-with-an-unlimited-infinite-s|Recent conversations are now limited in the sidebar, with an unlimited infinite…]]
-- Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-0-46-3-enhanced-download-reliability-fixed-keybinding-issue|0.46.3: Enhanced download reliability, fixed keybinding issue]]
+- Earlier: 2024-11-22 · ChatGPT · [[Changes/ChatGPT/2024-11-22-sidebar-redesign-e6413a|Sidebar redesign]]
+- Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface Experience changes in 0.46.x]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

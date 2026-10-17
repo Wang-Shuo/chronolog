@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 4159639fcc79ca18f6f662b971ab033270db5d4efcb6417ac9b101cfea4c107f
+kind: change
+machine_hash: 1b58ad11a1b9ddd8e2f22d498106e3631397394242b43c1c3d336e9572608c86
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   - quote: We have made slight improvements to Debug with AI and added back @Lint
       Errors in Chat.
     source_release: https://cursor.com/changelog/0-42-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: we-have-made-slight-improvements-to-debug-with-ai-and-added-back-lint-errors-in
@@ -42,12 +44,12 @@ record:
     in Chat
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-15-linter-you-can-now-turn-on-an-ai-linter-in-the-more-tab-beside-chat-it-ll-scan-y|Linter:
-  You can now turn on an AI linter in the "More" tab beside Chat]]'
 - '[[Changes/Cursor/2024-06-08-remote-tunnels-are-now-supported-remote-ssh-support-is-also-more-robust-now-supp|Remote
   tunnels are now supported!]]'
 - '[[Changes/Cursor/2024-07-03-when-the-chat-suggests-a-code-block-click-apply-to-instantly-see-the-change-to-t|When
   the chat suggests a code block, click "Apply" to instantly see the change…]]'
+- '[[Changes/Cursor/2024-09-17-we-ve-added-support-for-using-cursor-on-macs-over-remote-ssh|Cursor
+  adds support for using Cursor on Macs over Remote SSH]]'
 source_release: '[[Releases/Cursor/cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1|cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -71,17 +73,18 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2024-10-09-python-auto-import-for-cursor-tab-is-much-more-stable-in-this-release|Python auto import for Cursor Tab is much more stable in this release]] · Editor Experience
+- [[Changes/Cursor/2024-10-09-composer-now-only-applies-files-that-are-in-context-to-prevent-hallucinations|Composer now only applies files that are in context to prevent hallucinations]] · Context Window
+- [[Changes/Cursor/2024-10-09-using-cursor-with-wsl-should-now-be-more-stable|Using cursor . with WSL should now be more stable]] · Developer Workflow
 - [[Changes/Cursor/2024-10-09-composer-history-lets-you-access-previous-composer-sessions-after-restart-you-ca|Composer history lets you access previous composer sessions after restart]] · Projects and Workspaces
-- [[Changes/Cursor/2024-10-09-switching-models-is-a-lot-easier-with-model-search-cmd-option-in-the-chat-compos|Switching models is a lot easier with model search (Cmd-option-/) in the chat…]] · Model Support
-- [[Changes/Cursor/2024-10-09-vs-code-1-93-1-cursor-is-now-based-on-vs-code-1-93-1|VS Code 1.93.1: Cursor is now based on VS Code 1.93.1]] · Editor Experience
+- [[Changes/Cursor/2024-10-09-vs-code-1-93-1-cursor-is-now-based-on-vs-code-1-93-1-c087f6|VS Code 1.93.1: Cursor is now based on VS Code 1.93.1]] · Editor Experience
+- [[Changes/Cursor/2024-10-09-update-0-42-1-0-42-5-fixes-the-following-upstream-security-issue-cve-2024-43601|UPDATE (0.42.1 - 0.42.5): Fixes the following upstream security issue: CVE-2024-43601]] · Safety and Privacy
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-07-03 · Cursor · [[Changes/Cursor/2024-07-03-when-the-chat-suggests-a-code-block-click-apply-to-instantly-see-the-change-to-t|When the chat suggests a code block, click "Apply" to instantly see the change…]]
-- Later: 2024-11-24 · Cursor · [[Changes/Cursor/2024-11-24-generation-of-git-commit-messages|Generation of git commit messages]]
+- Earlier: 2024-09-17 · Cursor · [[Changes/Cursor/2024-09-17-we-ve-added-support-for-using-cursor-on-macs-over-remote-ssh|Cursor adds support for using Cursor on Macs over Remote SSH]]
+- Later: 2024-12-17 · Cursor · [[Changes/Cursor/2024-12-17-agent-sees-terminal-exit-codes-can-run-commands-in-the-background-and-commands-a-4f6044|Agent sees terminal exit codes, can run commands in the background, and commands…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

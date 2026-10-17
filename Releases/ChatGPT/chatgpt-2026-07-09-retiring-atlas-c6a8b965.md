@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-07-09'
 description: 'ChatGPT release Retiring Atlas on 2026-07-09: 1 tracked change across
   Account and Access'
-machine_hash: d817f14c67e463934ddd5c81f9f09b5af3501fcfc8f0ae05a9ef12e10be764fe
+machine_hash: 5aa23128bbe678d30373ad7ac8c5fad8cee68e2cd13d21fcf275f4e3a52decd2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: Retiring Atlas
 <!-- chronolog:begin region="summary" -->
 We’re deprecating Atlas as we bring browser-based agentic capabilities into ChatGPT and Codex. Atlas is scheduled to stop working on August 9, 2026.We want to make this transition as easy as possible. Before then, move any Atlas data you want to keep. Atlas browser data, including bookmarks, open tabs, and browser…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-07-09-we-re-deprecating-atlas-as-we-bring-browser-based-agentic-capabilities-into-chat|We’re deprecating Atlas as we bring browser-based agentic capabilities into ChatGPT…]] · Account and Access
+- [[Changes/ChatGPT/2026-07-09-we-re-deprecating-atlas-as-we-bring-browser-based-agentic-capabilities-into-chat|Retiring Atlas]] · Account and Access · Policy
 <!-- chronolog:end -->

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: b9de12ce6db63a6e7471b0225a2c4e2c8acf185a3191a48896bb6ec2629c0073
+machine_hash: 48bd22fd8d509f3bbd6e54a5db8bfd4851e619cfaf32c5e61d066aef3bb9d0cd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -79,6 +79,7 @@ related_changes:
   availability and model selection, see: ChatGPT Work and Codex]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-gpt-6-1-sol-in-chatgpt-work-and-codex-a0e5fef0|chatgpt-2026-09-29-gpt-6-1-sol-in-chatgpt-work-and-codex-a0e5fef0]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: GPT-6.1 Sol improves on GPT-6 Sol in agentic coding, computer use, and professional
   work

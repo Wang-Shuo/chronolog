@@ -5,8 +5,8 @@ description: 'ChatGPT · 2025-10-15 · Memory and Personalization: ChatGPT now m
   saved memories automatically by keeping the most relevant details prioritized and
   moving…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 818
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 2cc1d87bfbbaf04fc713c97072b68db70708d7708d6bc40a1c41e3074d594528
+kind: change
+machine_hash: c7bc02060b43fc1aed49bd03c94767c622a1765e9bfc263eaf13a4ebd9eacc7b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,32 +54,33 @@ record:
       to manage. We’re beginning to roll this out to Plus and Pro users globally on
       the web.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: chatgpt-now-manages-saved-memories-automatically-by-keeping-the-most-relevant-de
   source_release: chatgpt-2025-10-15-chatgpt-can-now-automatically-manage-saved-memories-so-it-s-even-00bd082a
   source_type: chatgpt_changelog
   theme: memory
-  title: ChatGPT now manages saved memories automatically by keeping the most relevant…
+  title: ChatGPT can now automatically manage saved memories so it’s even better…
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-09-29-turn-off-memory-so-chatgpt-won-t-save-and-use-memories-when-responding|Turn
   off memory, so ChatGPT won’t save and use memories when responding]]'
-- '[[Changes/ChatGPT/2025-10-08-longer-memory-for-more-personalized-responses|Longer
+- '[[Changes/ChatGPT/2025-10-08-longer-memory-for-more-personalized-responses-8c6877|Longer
   memory for more personalized responses]]'
-- '[[Changes/ChatGPT/2025-10-14-longer-memory-for-more-personalized-responses|Longer
+- '[[Changes/ChatGPT/2025-10-14-longer-memory-for-more-personalized-responses-775c35|Longer
   memory for more personalized responses]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-15-chatgpt-can-now-automatically-manage-saved-memories-so-it-s-even-00bd082a|chatgpt-2025-10-15-chatgpt-can-now-automatically-manage-saved-memories-so-it-s-even-00bd082a]]'
 source_type: chatgpt_changelog
 theme: memory
-title: ChatGPT now manages saved memories automatically by keeping the most relevant…
+title: ChatGPT can now automatically manage saved memories so it’s even better…
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT now manages saved memories automatically by keeping the most relevant…
+# ChatGPT can now automatically manage saved memories so it’s even better…
 
 **ChatGPT** · 2025-10-15 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-10-15-chatgpt-can-now-automatically-manage-saved-memories-so-it-s-even-00bd082a|ChatGPT can now automatically manage saved memories so it’s even better at remembering what’s important to you.]]
 <!-- chronolog:end -->
@@ -96,14 +98,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-10-14 · ChatGPT · [[Changes/ChatGPT/2025-10-14-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]]
+- Earlier: 2025-10-14 · ChatGPT · [[Changes/ChatGPT/2025-10-14-longer-memory-for-more-personalized-responses-775c35|Longer memory for more personalized responses]]
 - Later: 2025-10-28 · ChatGPT · [[Changes/ChatGPT/2025-10-28-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

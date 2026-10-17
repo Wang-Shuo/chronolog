@@ -4,8 +4,8 @@ date: '2026-01-22'
 description: 'Claude Code · 2026-01-22 · Apps and Integrations: [VSCode] Added native
   plugin management support'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1036
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: b3326365435527c556aac0cc87da178890404129e4a20516647a1bea44e9fef5
+kind: change
+machine_hash: 5b317ddc52d0595fd359f11885fe9b232e87cf473cd5cb81f6476902c784ab7e
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   evidence:
   - quote: '[VSCode] Added native plugin management support'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.16
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: vscode-added-native-plugin-management-support
@@ -40,12 +42,12 @@ record:
   title: '[VSCode] Added native plugin management support'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-13-added-automatic-discovery-of-skills-from-nested-claude-skills-directories-when-w|Added
-  automatic discovery of skills from nested .claude/skills directories…]]'
-- '[[Changes/Claude Code/2026-01-20-added-support-for-pinning-plugins-to-specific-git-commit-shas-allowing-marketpla|Added
-  support for pinning plugins to specific git commit SHAs, allowing marketplace…]]'
-- '[[Changes/Claude Code/2026-01-20-added-search-to-installed-plugins-list-type-to-filter-by-name-or-description|Added
-  search to installed plugins list - type to filter by name or description]]'
+- '[[Changes/Claude Code/2026-01-09-2-apps-and-integrations-changes-in-v2-1-2|2 Apps
+  and Integrations changes in v2.1.2]]'
+- '[[Changes/Claude Code/2026-01-13-2-apps-and-integrations-changes-in-v2-1-6|2 Apps
+  and Integrations changes in v2.1.6]]'
+- '[[Changes/Claude Code/2026-01-20-2-apps-and-integrations-changes-in-v2-1-14|2 Apps
+  and Integrations changes in v2.1.14]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428|claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428]]'
 source_type: github_releases
 theme: apps-integrations
@@ -70,20 +72,19 @@ type: change
 
 - [[Changes/Claude Code/2026-01-22-vscode-added-ability-for-oauth-users-to-browse-and-resume-remote-claude-sessions|VSCode Added ability for OAuth users to browse and resume remote Claude sessions…]] · Account and Access
 - [[Changes/Claude Code/2026-01-22-added-new-task-management-system-including-new-capabilities-like-dependency-trac|Added new task management system, including new capabilities like dependency tracking]] · Developer Workflow
-- [[Changes/Claude Code/2026-01-22-ide-fixed-a-race-condition-on-windows-where-the-claude-code-sidebar-view-contain|IDE Fixed a race condition on Windows where the Claude Code sidebar view container…]] · Mobile and Desktop
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-20 · Claude Code · [[Changes/Claude Code/2026-01-20-added-search-to-installed-plugins-list-type-to-filter-by-name-or-description|Added search to installed plugins list - type to filter by name or description]]
-- Later: 2026-01-23 · Claude Code · [[Changes/Claude Code/2026-01-23-changed-skills-without-additional-permissions-or-hooks-to-be-allowed-without-req|Changed skills without additional permissions or hooks to be allowed without…]]
+- Earlier: 2026-01-20 · Claude Code · [[Changes/Claude Code/2026-01-20-2-apps-and-integrations-changes-in-v2-1-14|2 Apps and Integrations changes in v2.1.14]]
+- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-4-apps-and-integrations-changes-in-2-4|4 Apps and Integrations changes in 2.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

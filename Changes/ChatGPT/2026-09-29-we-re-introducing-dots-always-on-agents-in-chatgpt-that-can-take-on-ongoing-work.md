@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b81873e893d9ac4591739e0f1d65ef4b2dd8d05b2c8254454140808d75ae8793
+machine_hash: 5a20a787a97987d71c7ea74f15785e98053607d393145ea47499d621b8424d85
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,6 +63,7 @@ related_changes:
   a "Yes, but ask again next time" answer to auto mode''s prompt before a read…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-meet-your-dot-8b9f914b|chatgpt-2026-09-29-meet-your-dot-8b9f914b]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: agent-mode
 title: ChatGPT introduces dots
 type: change

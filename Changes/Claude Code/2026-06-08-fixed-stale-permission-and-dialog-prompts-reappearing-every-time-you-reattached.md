@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 217b199a59c061895561329b453f0548ac3f9edad530cd9a69ab9ad859ff44f9
+machine_hash: 6303ab82a62edb7c32e81fcf2a04fc57903191ccf90cf1e57803b54477bcff31
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   --safe-mode flag (and CLAUDE_CODE_SAFE_MODE) to start Claude Code with all…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d|claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed stale permission and dialog prompts reappearing every time you reattached…
 type: change

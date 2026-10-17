@@ -13,9 +13,10 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: a85e7e0cfe37dfdb346113551f5a801407b12f804b09d44dc979077225985f03
+kind: change
+machine_hash: a4fe8708dea78dab078ac68bd3b6b403e123df5b9694216858652f6f2c4c440c
 product: cursor
 product_name: Cursor
 record:
@@ -26,8 +27,9 @@ record:
   evidence:
   - quote: AI now requires login
     source_release: https://cursor.com/changelog/0-1-12
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: ai-now-requires-login

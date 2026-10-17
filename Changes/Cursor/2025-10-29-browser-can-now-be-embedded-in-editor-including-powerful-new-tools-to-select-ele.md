@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 1bbd6f81bac7b0474801937d9aa2effbcca7f24854ac67b1e69175a134a7ce70
+machine_hash: 26940319e6f3391dde6e6be7c3cfda693cdb26123bfd27f042849425a39f8c4b
 product: cursor
 product_name: Cursor
 record:
@@ -62,6 +62,7 @@ related_changes:
   writing prompts, autocomplete suggestions will appear based on recent changes]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: Browser can now be embedded in-editor, including powerful new tools to select…
 type: change

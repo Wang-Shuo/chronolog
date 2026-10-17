@@ -4,8 +4,8 @@ date: '2024-01-25'
 description: 'Cursor · 2024-01-25 · Apps and Integrations: UPDATE (0.24.3-0.24.4):
   Adds ability to configure OpenAI base URL, fixes getcursor/cursor#1202.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 308
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 9d4367331e912f661ea4b61b81cb0edd4d57d5244a0ae9c99e8f0bf8b8682ecb
+kind: change
+machine_hash: 817943b4ff4ea530a5a692b5d41e82a5a75b5e6c8e8c0e854f24810d92a09f1a
 product: cursor
 product_name: Cursor
 record:
@@ -29,8 +30,9 @@ record:
   - quote: 'UPDATE (0.24.3-0.24.4): Adds ability to configure OpenAI base URL, fixes
       getcursor/cursor#1202.'
     source_release: https://cursor.com/changelog/0-24-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: update-0-24-3-0-24-4-adds-ability-to-configure-openai-base-url-fixes-getcursor-c
@@ -42,10 +44,10 @@ record:
   title: 'UPDATE (0.24.3-0.24.4): Adds ability to configure OpenAI base URL, fixes…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-15-cursor-is-now-based-on-vs-code-1-84-2-notably-this-fixes-a-few-notebook-bugs-and|Cursor
-  is now based on VS Code 1.84.2]]'
 - '[[Changes/Cursor/2023-12-16-copilot-we-ve-continued-to-improve-the-copilot-ghost-text-experience-surprisingl|Copilot++:
   We''ve continued to improve the Copilot++ ghost text experience]]'
+- '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|Discover
+  what’s trending in the GPT Store]]'
 - '[[Changes/Cursor/2024-01-15-supports-newer-version-of-python-extension|Supports
   newer version of python extension]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-25-0-24-x-https-cursor-com-changelog-0-24-x-c3b46238|cursor-2024-01-25-0-24-x-https-cursor-com-changelog-0-24-x-c3b46238]]'
@@ -78,13 +80,13 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2024-01-15 · Cursor · [[Changes/Cursor/2024-01-15-supports-newer-version-of-python-extension|Supports newer version of python extension]]
-- Later: 2024-05-16 · ChatGPT · [[Changes/ChatGPT/2024-05-16-upload-the-latest-file-versions-directly-from-google-drive-microsoft-onedrive-pe|Upload the latest file versions directly from Google Drive, Microsoft OneDrive…]]
+- Later: 2024-05-16 · ChatGPT · [[Changes/ChatGPT/2024-05-16-upload-the-latest-file-versions-directly-from-google-drive-microsoft-onedrive-pe-70f6a3|Upload the latest file versions directly from Google Drive, Microsoft OneDrive…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

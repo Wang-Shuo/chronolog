@@ -2,7 +2,7 @@
 changes_count: 0
 date: '2026-08-21'
 description: 'ChatGPT release More time-aware answers on 2026-08-21: no tracked changes'
-machine_hash: f7a13bdf7a212ed477c0faa289f5f3270daf029ae51912470064243f7e9cd670
+machine_hash: e6794e5d8a39ee28136ddb93cf2241b579aa32e4ede76868b78ece6e2dd3979f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ version: More time-aware answers
 <!-- chronolog:begin region="summary" -->
 ChatGPT now has a better sense of your local time during a conversation.
 
-Tracked 0 of 2 candidate lines.
+Tracked 0 cards from 2 candidate lines; 2 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f1a7d9043347d3a05ce3c6b79a9d2890903bfe82ce9339ffccda88e67b2f778f
+machine_hash: 61ced7200996a3e32ba8a7196e81cf61590dac101dd735fb652f79b3e2a19540
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   concurrent sessions silently reverting each other''s ~/.claude.json changes]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f|claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Added --permission-prompts none for unattended headless hosts
 type: change

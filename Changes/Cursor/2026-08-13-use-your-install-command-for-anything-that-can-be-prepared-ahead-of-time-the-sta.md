@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: a038b04ff86e57e495bafe1f1a2f2ca0e44c366ff6b9540038ef04723b4fcf0a
+machine_hash: e4c2058c04e7e7834cdf4359994c4bac8cbd6e23fe428cc127f05880466a4d68
 product: cursor
 product_name: Cursor
 record:
@@ -54,6 +54,7 @@ related_changes:
   a bad commit or dependency update breaks your environment, agents keep using…]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3|cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Use your install command for anything that can be prepared ahead of time
 type: change

@@ -14,9 +14,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 8d2163ee05b39d0935cc799bf7416a54635217f04a8927d77e39519229c20cd3
+kind: change
+machine_hash: f8c0483cc04e9bef80a4a2bdec662580523ad5cbbb751de0b7bc49c24cabd378
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Shipped better error logging, which should help us improve stability.
     source_release: https://cursor.com/changelog/0-14-0
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: shipped-better-error-logging-which-should-help-us-improve-stability
@@ -39,11 +41,12 @@ record:
   title: Shipped better error logging, which should help us improve stability
   type: change
 related_changes:
+- '[[Changes/Cursor/2023-09-20-we-ship-a-new-version-of-indexing-which-should-be-significantly-more-stable-than|More
+  Stable Codebase Indexing]]'
 - '[[Changes/Cursor/2023-09-22-stable-version-of-indexing-this-should-be-much-more-stable-than-previous-version|Stable
-  version of indexing. this should be much more stable than previous versions]]'
-- '[[Changes/Cursor/2023-10-01-indexing-should-now-be-faster-more-stable-and-use-less-of-your-system-resources|Indexing
+  Indexing v0.1]]'
+- '[[Changes/Cursor/2023-10-01-indexing-should-now-be-faster-more-stable-and-use-less-of-your-system-resources-c870a3|Indexing
   should now be faster, more stable, and use less of your system resources]]'
-- '[[Changes/Cursor/2023-10-01-bugfixes-fixed-the-ejected-from-slow-mode-ui-added-auto-switching-logic-for-the|Bugfixes!]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf|cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -75,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2023-10-01 · Cursor · [[Changes/Cursor/2023-10-01-bugfixes-fixed-the-ejected-from-slow-mode-ui-added-auto-switching-logic-for-the|Bugfixes!]]
+- Earlier: 2023-10-01 · Cursor · [[Changes/Cursor/2023-10-01-indexing-should-now-be-faster-more-stable-and-use-less-of-your-system-resources-c870a3|Indexing should now be faster, more stable, and use less of your system resources]]
 - Later: 2023-11-30 · Cursor · [[Changes/Cursor/2023-11-30-faster-copilot-a-few-hundred-milliseconds-faster-through-various-networking-opti|Faster Copilot++: a few hundred milliseconds faster, through various networking…]]
 <!-- chronolog:end -->
 

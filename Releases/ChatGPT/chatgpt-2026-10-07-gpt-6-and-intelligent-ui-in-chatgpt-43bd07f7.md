@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-10-07'
 description: 'ChatGPT release GPT-6 and Intelligent UI in ChatGPT on 2026-10-07: 1
   tracked change across Model Support'
-machine_hash: b1233d9f03bb624be45329acc83b4b1f8cd0e863436c9ddaca4f536477909409
+machine_hash: 4bf15989a7ff51fa7ac874de6daf33994bf30ae89b9d106e1cc1df5aed323109
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: GPT-6 and Intelligent UI in ChatGPT
 <!-- chronolog:begin region="summary" -->
 We’re introducing GPT-6 with Intelligent UI in ChatGPT. ChatGPT can now combine text, visuals, and interactive elements to fit your question, from side-by-side comparisons and diagrams to tools you can use directly in the conversation, such as calculators, bill splitters, and games. It can choose the format…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-10-07-we-re-introducing-gpt-6-with-intelligent-ui-in-chatgpt-chatgpt-can-now-combine-t|ChatGPT introduces GPT-6 with Intelligent UI]] · Model Support
+- [[Changes/ChatGPT/2026-10-07-we-re-introducing-gpt-6-with-intelligent-ui-in-chatgpt-chatgpt-can-now-combine-t|GPT-6 and Intelligent UI in ChatGPT]] · Model Support · Launch
 <!-- chronolog:end -->

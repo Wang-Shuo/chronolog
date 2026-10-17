@@ -15,9 +15,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 4b67d0431404224844ba1f12ca8245ce86928722c748b5d67d3e784497a09e43
+kind: launch
+machine_hash: ec3d371e654fa4cede4b2518b11a3720eb7780791d35f1bb8dbd1260d482a4f1
 product: cursor
 product_name: Cursor
 record:
@@ -33,34 +34,35 @@ record:
       computer awake" under Remote Control in Cursor's desktop settings. Your computer
       needs to be plugged in with the lid open.
     source_release: https://cursor.com/changelog/remote-control-local-agents
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer
+  slug: keep-your-computer-awake
   source_release: cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd
   source_type: cursor_changelog
   theme: mobile-desktop
-  title: To stop your computer from sleeping while you're away, turn…
+  title: Keep your computer awake
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-29-added-claude-desktop-to-open-the-claude-desktop-app-on-the-current-directory-or|Added
-  claude --desktop to open the Claude desktop app on the current directory…]]'
-- '[[Changes/ChatGPT/2026-10-01-available-in-chatgpt-on-mobile-and-web|Available in
-  ChatGPT on mobile and web]]'
+- '[[Changes/Claude Code/2026-09-29-6-mobile-and-desktop-changes-in-v2-1-285|6 Mobile
+  and Desktop changes in v2.1.285]]'
+- '[[Changes/Claude Code/2026-10-01-2-mobile-and-desktop-changes-in-v2-1-287|2 Mobile
+  and Desktop changes in v2.1.287]]'
 - '[[Changes/ChatGPT/2026-10-02-finances-in-chatgpt-is-rolling-out-to-free-and-go-users-in-the-u-s-on-web-ios-an|Finances
-  in ChatGPT is rolling out to Free and Go users in the U.S. on web, iOS…]]'
+  expands to Free and Go users]]'
 source_release: '[[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd]]'
 source_type: cursor_changelog
 theme: mobile-desktop
-title: To stop your computer from sleeping while you're away, turn…
+title: Keep your computer awake
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# To stop your computer from sleeping while you're away, turn…
+# Keep your computer awake
 
-**Cursor** · 2026-10-06 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://cursor.com/changelog/remote-control-local-agents) · from [[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|Remote control for local agents]]
+**Cursor** · 2026-10-06 · [[Themes/mobile-desktop|Mobile and Desktop]] · Launch · [Official source](https://cursor.com/changelog/remote-control-local-agents) · from [[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|Remote control for local agents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -72,17 +74,17 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-10-06-remote-control-is-on-by-default-except-for-enterprise-organizations-enterprise-a|Remote control is on by default, except for Enterprise organizations]] · Enterprise and Administration
 - [[Changes/Cursor/2026-10-06-you-can-now-see-and-reply-to-the-local-agents-running-on-your-computer-from-the|See and reply to the local agents running on your computer from the Cursor iOS app]] · Mobile and Desktop
 - [[Changes/Cursor/2026-10-06-remote-control-is-on-by-default-for-everyone-except-enterprise-organizations|Remote Control is on by default for everyone except Enterprise organizations]] · Enterprise and Administration
-- [[Changes/Cursor/2026-10-06-remote-control-doesn-t-move-your-agents-anywhere-it-keeps-running-on-your-comput|Remote control doesn't move your agents anywhere]] · Agent Mode
+- [[Changes/Cursor/2026-10-06-remote-control-doesn-t-move-your-agents-anywhere-it-keeps-running-on-your-comput|Agents keep running on your computer]] · Agent Mode
+- [[Changes/Cursor/2026-10-06-for-enterprise-teams|For Enterprise teams]] · Enterprise and Administration
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-02 · ChatGPT · [[Changes/ChatGPT/2026-10-02-finances-in-chatgpt-is-rolling-out-to-free-and-go-users-in-the-u-s-on-web-ios-an|Finances in ChatGPT is rolling out to Free and Go users in the U.S. on web, iOS…]]
-- Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-added-a-code-key-to-the-claude-apps-gateway-s-managed-policies-the-same-settings|Added a code key to the Claude apps gateway's managed.policies]]
+- Earlier: 2026-10-02 · ChatGPT · [[Changes/ChatGPT/2026-10-02-finances-in-chatgpt-is-rolling-out-to-free-and-go-users-in-the-u-s-on-web-ios-an|Finances expands to Free and Go users]]
+- Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-2-mobile-and-desktop-changes-in-v2-1-295|2 Mobile and Desktop changes in v2.1.295]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

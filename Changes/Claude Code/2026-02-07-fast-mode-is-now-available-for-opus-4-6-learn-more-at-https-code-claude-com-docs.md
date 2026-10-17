@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 4a11d9cbc5c955f6a4a7c0235d0e28aee887c83c91c74ad8bee3a30d07955993
+kind: launch
+machine_hash: 5b875f78ea75d650993ef6523e34759c3b8c10e2b1aa95bfdb4c90330a297943
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Fast mode is now available for Opus 4.6. Learn more at https://code.claude.com/docs/en/fast-mode
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.36
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: claude-code
   product_name: Claude Code
   slug: fast-mode-is-now-available-for-opus-4-6-learn-more-at-https-code-claude-com-docs
@@ -57,7 +59,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Fast mode is now available for Opus 4.6
 
-**Claude Code** · 2026-02-07 · [[Themes/model-support|Model Support]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.36) · from [[Releases/Claude Code/claude-code-2026-02-07-v2-1-36-github-284054567-b9b1e9a4|v2.1.36]]
+**Claude Code** · 2026-02-07 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.36) · from [[Releases/Claude Code/claude-code-2026-02-07-v2-1-36-github-284054567-b9b1e9a4|v2.1.36]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -74,7 +76,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-02-05 · Claude Code · [[Changes/Claude Code/2026-02-05-claude-opus-4-6-is-now-available|Claude Opus 4.6 is now available!]]
-- Later: 2026-02-10 · ChatGPT · [[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|We’re making an update to GPT-5.2 Instant in ChatGPT and the API that improves…]]
+- Later: 2026-02-10 · ChatGPT · [[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|GPT-5.2 Instant Update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

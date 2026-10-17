@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1c1798779e16898e0d2012d6805a38d4867c670d654ea237b7b370269385454f
+machine_hash: 7242b5e658cd96e104456434b061dd41107b834136e8b6b596354d747016ec72
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   ChatGPT for Clinicians users in the United States can now use Healthcare…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f|claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added --json to claude plugin validate for a machine-readable validation report
 type: change

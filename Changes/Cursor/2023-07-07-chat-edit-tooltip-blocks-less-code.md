@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 49608b05665946a11e3533446370ecac66f36d10f3d7e43aeca433e43d730d83
+machine_hash: 225a57673a1b9573da0f6ba886b08dbf2b0c554b7cc17d1fc00f91b707a53806
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   you can now use up/down arrows for history in chat.)]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-07-0-2-44-https-cursor-com-changelog-0-2-44-d76d2226|cursor-2023-07-07-0-2-44-https-cursor-com-changelog-0-2-44-d76d2226]]'
 source_type: cursor_changelog
+superseded: true
 theme: interface-experience
 title: Chat/Edit tooltip blocks less code
 type: change

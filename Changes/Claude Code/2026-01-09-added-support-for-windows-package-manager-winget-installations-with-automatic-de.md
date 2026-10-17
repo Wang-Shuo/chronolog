@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 5a1b9d7a91dee32837cd58128bf919bc7971f9433c79eb6515843f4d724f43c4
+machine_hash: 8bd35bce80ad0b40f697adab802c8d3f9bb6a1460306e5e866e86b179e1e0ed2
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   appears as a new space in the ChatGPT sidebar]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-2-github-275344737-27089666|claude-code-2026-01-09-v2-1-2-github-275344737-27089666]]'
 source_type: github_releases
+superseded: true
 theme: mobile-desktop
 title: Added support for Windows Package Manager (winget) installations with automatic…
 type: change

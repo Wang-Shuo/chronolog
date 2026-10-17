@@ -4,8 +4,8 @@ date: '2026-05-13'
 description: 'Cursor · 2026-05-13 · Agent Mode: Cloud agents and automations now support
   multi-repo environments, building off our work on multi-root workspaces. You can…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1042
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: ab2fcbdcba6d8812b58175a9c7ddeda6dee2a952e5ccda7756fcd5c598a5c208
+kind: launch
+machine_hash: 51d97bb3c529575c675632af8b982d5c8521ff953879ae48a223fc7a71304170
 product: cursor
 product_name: Cursor
 record:
@@ -34,11 +35,12 @@ record:
       off our work on multi-root workspaces. You can configure a single environment
       with all the repositories an agent needs for its work, with re-use across sessions.
     source_release: https://cursor.com/changelog/05-13-26
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: cloud-agents-and-automations-now-support-multi-repo-environments-building-off-ou
+  slug: multi-repo-environments
   source_release: cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c
   source_type: cursor_changelog
   theme: agent-mode
@@ -52,28 +54,26 @@ record:
     - automations
     score: 50
     theme: automation-scheduling
-  title: Cloud agents and automations now support multi-repo environments, building
-    off our…
+  title: Multi-repo environments
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-to-take-engineering-tasks-from-start-to-finish-agents-need-a-development-environ|To
-  take engineering tasks from start to finish, agents need a development…]]'
-- '[[Changes/Cursor/2026-05-13-files-changes-canvases-prs-browsers-and-terminals-can-expand-to-fill-the-entire|Files,
-  changes, canvases, PRs, browsers, and terminals can expand to fill the entire…]]'
+- '[[Changes/Claude Code/2026-05-13-4-agent-mode-changes-in-v2-1-141|4 Agent Mode
+  changes in v2.1.141]]'
+- '[[Changes/Cursor/2026-05-13-improved-agent-led-environment-setup|Improved agent-led
+  environment setup]]'
 - '[[Changes/Cursor/2026-05-13-this-release-introduces-quality-of-life-improvements-to-the-agents-window|Cursor
   introduces quality-of-life improvements to the Agents Window]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c|cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Cloud agents and automations now support multi-repo environments, building
-  off our…
+title: Multi-repo environments
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Cloud agents and automations now support multi-repo environments, building off our…
+# Multi-repo environments
 
-**Cursor** · 2026-05-13 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/05-13-26) · from [[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c|Development environments for cloud agents]]
+**Cursor** · 2026-05-13 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://cursor.com/changelog/05-13-26) · from [[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c|Development environments for cloud agents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -85,23 +85,23 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-05-13-to-take-engineering-tasks-from-start-to-finish-agents-need-a-development-environ|To take engineering tasks from start to finish, agents need a development…]] · Agent Mode
-- [[Changes/Cursor/2026-05-13-to-make-it-easier-to-change-debug-and-review-environment-definitions-we-have-imp|To make it easier to change, debug, and review environment definitions, we have…]] · Developer Workflow
-- [[Changes/Cursor/2026-05-13-this-includes-support-for-build-secrets-making-it-easy-to-securely-access-privat|This includes support for build secrets, making it easy to securely access private…]] · Agent Mode
-- [[Changes/Cursor/2026-05-13-this-release-introduces-new-tools-for-teams-to-configure-development-environment|Cursor introduces new tools for teams to configure development environments…]] · Agent Mode
+- [[Changes/Cursor/2026-05-13-improved-agent-led-environment-setup|Improved agent-led environment setup]] · Agent Mode
+- [[Changes/Cursor/2026-05-13-environment-configuration-as-code-827fd1|Environment configuration as code]] · Developer Workflow
+- [[Changes/Cursor/2026-05-13-environment-governance-and-security-controls|Environment governance and security controls]] · Safety and Privacy
+- [[Changes/Cursor/2026-05-13-to-take-engineering-tasks-from-start-to-finish-agents-need-a-development-environ-e47512|To take engineering tasks from start to finish, agents need a development…]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-this-release-introduces-quality-of-life-improvements-to-the-agents-window|Cursor introduces quality-of-life improvements to the Agents Window]]
-- Later: 2026-05-18 · Cursor · [[Changes/Cursor/2026-05-18-composer-2-5-is-now-available-in-cursor|Composer 2.5 is now available in Cursor]]
+- Later: 2026-05-14 · Claude Code · [[Changes/Claude Code/2026-05-14-improved-hook-configuration-error-configuring-a-prompt-or-agent-type-hook-for-se|Improved hook configuration error]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

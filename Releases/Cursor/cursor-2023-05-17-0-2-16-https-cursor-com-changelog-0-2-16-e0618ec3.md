@@ -1,9 +1,9 @@
 ---
-changes_count: 4
+changes_count: 6
 date: '2023-05-17'
 description: 'Cursor release Terminal Debugger, and our biggest bug bash yet on 2023-05-17:
-  4 tracked changes across Context Window, Apps and Integrations, Developer Workflow'
-machine_hash: e6567a9241aac38903c48963773e7ec74f38752cf0061a48cb96cda29fd775ab
+  6 tracked changes across Developer Workflow, Apps and Integrations, Context…'
+machine_hash: b9f101ce538541e23761c5c322846ed5d91d13899bf1d7b4c59bccb0a609827c
 product: cursor
 product_name: Cursor
 record:
@@ -38,13 +38,15 @@ version: 0.2.16
 <!-- chronolog:begin region="summary" -->
 #In-terminal Debugging
 
-Tracked 4 of 13 candidate lines.
+Tracked 6 cards from 13 candidate lines; 2 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-05-17-you-can-pin-custom-extensions-to-your-activity-bar-in-the-top-left|You can Pin custom extensions to your activity bar in the top left]] · Apps and Integrations
-- [[Changes/Cursor/2023-05-17-press-cmd-shift-l-and-the-model-will-add-the-terminal-context-to-chat|Press Cmd+Shift+L, and the model will add the terminal context to chat]] · Context Window
-- [[Changes/Cursor/2023-05-17-context-ingestion-across-a-full-notebook|Context ingestion across a full notebook]] · Context Window
-- [[Changes/Cursor/2023-05-17-press-cmd-d-to-auto-debug-a-terminal-error|Press Cmd+D to auto-debug a terminal error]] · Developer Workflow
+- [[Changes/Cursor/2023-05-17-better-jupyter-support|Better Jupyter Support]] · Context Window · Launch
+- [[Changes/Cursor/2023-05-17-you-can-pin-custom-extensions-to-your-activity-bar-in-the-top-left|Activity Bar pinning]] · Apps and Integrations · Launch
+- [[Changes/Cursor/2023-05-17-a-better-cursor-tutor-onboarding|A better Cursor Tutor onboarding!]] · Interface Experience
+- [[Changes/Cursor/2023-05-17-diff-generate-improvements|Diff/Generate improvements]] · Editor Experience · Launch
+- [[Changes/Cursor/2023-05-17-remote-ssh-is-easier-to-use|Remote SSH is easier to use!]] · Developer Workflow
+- [[Changes/Cursor/2023-05-17-in-terminal-debugging-f140b2|In-terminal Debugging]] · Developer Workflow · Launch
 <!-- chronolog:end -->

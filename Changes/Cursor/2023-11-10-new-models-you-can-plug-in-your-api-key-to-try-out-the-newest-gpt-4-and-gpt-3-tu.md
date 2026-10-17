@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: ce9d2cc02ffefa6c6a1cb54d670b047ef48c6874e16a973267972a53289a2bb6
+kind: change
+machine_hash: a1f3265cb577e1e9bf97e876fef6e535a949ace87d5b793a0a33eb87a741b058
 product: cursor
 product_name: Cursor
 record:
@@ -34,8 +35,9 @@ record:
       gpt-3 turbo models. We''re evaluating the coding skills of these models before
       rolling out to pro users.'
     source_release: https://cursor.com/changelog/0-15-0-0-15-1
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: new-models-you-can-plug-in-your-api-key-to-try-out-the-newest-gpt-4-and-gpt-3-tu
@@ -48,12 +50,12 @@ record:
     gpt-3 turbo…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-10-01-use-edit-in-the-chat-to-edit-a-whole-file-if-less-than-400-lines-expect-the-edit|Use
+- '[[Changes/Cursor/2023-10-01-use-edit-in-the-chat-to-edit-a-whole-file-if-less-than-400-lines-expect-the-edit-78e4ac|Use
   /edit in the chat to edit a whole file (if less than 400 lines)]]'
-- '[[Changes/ChatGPT/2023-10-16-we-ve-integrated-dall-e-3-with-chatgpt-allowing-it-to-respond-to-your-requests-w-ad3caf|We’ve
-  integrated DALL·E 3 with ChatGPT, allowing it to respond to your requests…]]'
-- '[[Changes/ChatGPT/2023-10-17-browsing-which-we-re-launched-a-few-weeks-ago-is-moving-out-of-beta-plus-and-ent|Browsing,
-  which we re-launched a few weeks ago, is moving out of beta]]'
+- '[[Changes/ChatGPT/2023-10-16-we-ve-integrated-dall-e-3-with-chatgpt-allowing-it-to-respond-to-your-requests-w-ad3caf|DALL·E
+  3 is now rolling out in beta]]'
+- '[[Changes/ChatGPT/2023-10-17-browsing-which-we-re-launched-a-few-weeks-ago-is-moving-out-of-beta-plus-and-ent|Browsing
+  is now out of beta]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-10-0-15-0-0-15-1-https-cursor-com-changelog-0-15-0-0-15-1-9dc9cadb|cursor-2023-11-10-0-15-0-0-15-1-https-cursor-com-changelog-0-15-0-0-15-1-9dc9cadb]]'
 source_type: cursor_changelog
 theme: model-support
@@ -85,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-10-17 · ChatGPT · [[Changes/ChatGPT/2023-10-17-browsing-which-we-re-launched-a-few-weeks-ago-is-moving-out-of-beta-plus-and-ent|Browsing, which we re-launched a few weeks ago, is moving out of beta]]
+- Earlier: 2023-10-17 · ChatGPT · [[Changes/ChatGPT/2023-10-17-browsing-which-we-re-launched-a-few-weeks-ago-is-moving-out-of-beta-plus-and-ent|Browsing is now out of beta]]
 - Later: 2023-12-16 · Cursor · [[Changes/Cursor/2023-12-16-ai-review-beta-this-is-a-new-experimental-feature-that-let-s-gpt-4-scan-your-git|AI Review (beta)]]
 <!-- chronolog:end -->
 

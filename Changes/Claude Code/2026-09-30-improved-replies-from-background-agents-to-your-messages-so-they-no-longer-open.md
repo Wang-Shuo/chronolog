@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e7ef862847f06830c9b449d16025fe9151c3d5693e972ef151e7304780496cfd
+machine_hash: cf808860487aef29a8c22a5ce90b27809c5b61caf46796151747441e19946ada
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   send now (ctrl+enter) in a subagent''s view]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7|claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Improved replies from background agents to your messages so they no longer
   open…

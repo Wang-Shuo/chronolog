@@ -5,19 +5,20 @@ description: 'ChatGPT · 2024-12-12 · Multimodal Input: Use the controls at the
   of the screen, like the camera button below, to get started. You can find screen
   share…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image
-    Support in Chat]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image
+    input will be generally available to Plus users on all platforms]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 381
+  lag_days: 444
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: a648f1db45bd82a9fe02699c86276478283e095080d8e13bca149eafb568d20c
+kind: change
+machine_hash: 1b967373939cadde7bd8be7d86b6d2dfd317fa0a8061e2a7c7d599b1f127c305
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,8 +34,9 @@ record:
       to get started. You can find screen share and image upload controls under the
       “...” menu at the bottom of the screen.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get
@@ -55,6 +57,8 @@ record:
     to get started
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image
+  input will be generally available to Plus users on all platforms]]'
 - '[[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image
   Support in Chat]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d|chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d]]'
@@ -81,9 +85,7 @@ type: change
 ## Also in this release
 
 - [[Changes/ChatGPT/2024-12-12-video-and-screenshare-in-our-latest-mobile-apps-we-are-starting-to-roll-out-real|Video and screenshare]] · Voice and Audio
-- [[Changes/ChatGPT/2024-12-12-today-we-started-rolling-out-two-updates-to-voice-mode-in-chatgpt|Today we started rolling out two updates to voice mode in ChatGPT]] · Voice and Audio
-- [[Changes/ChatGPT/2024-12-12-santa-voice-you-can-now-chat-with-santa-in-chatgpt-until-early-january-you-can-f|Santa voice: You can now chat with Santa in ChatGPT!]] · Voice and Audio
-- [[Changes/ChatGPT/2024-12-12-the-first-time-you-chat-with-santa-your-advanced-voice-limit-will-reset-one-time|The first time you chat with Santa, your advanced voice limit will reset one time]] · Voice and Audio
+- [[Changes/ChatGPT/2024-12-12-today-we-started-rolling-out-two-updates-to-voice-mode-in-chatgpt-8ade79|Today we started rolling out two updates to voice mode in ChatGPT]] · Voice and Audio
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
@@ -96,7 +98,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-11-27 · Cursor · [[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image Support in Chat]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image input will be generally available to Plus users on all platforms]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

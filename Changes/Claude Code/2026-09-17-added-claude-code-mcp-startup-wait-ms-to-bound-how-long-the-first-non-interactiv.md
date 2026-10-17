@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 35217200677240b4e2e878cd3403c28e2920733bdf8e8b8de03c3d786a59a003
+machine_hash: 58527e11f0a3131d76ff76dbca2b601bc8eb227a1948a495726ff36cc0211b2f
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   store.connect_timeout_seconds to the Claude apps gateway config to lengthen…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d|claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added CLAUDE_CODE_MCP_STARTUP_WAIT_MS to bound how long the first non-interactive…
 type: change

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-08-01'
 description: 'Cursor release Improved linter on 2023-08-01: 1 tracked change across
   Developer Workflow'
-machine_hash: 857c3e6f52e8c2b4433c094641d90af17fe82be4adfbd9c6fa1cdea8adf7df8e
+machine_hash: f337773f46d89ba896a39813c54f9dac3834efdf686b290d5d84ca946da3cd17
 product: cursor
 product_name: Cursor
 record:
@@ -41,10 +41,10 @@ version: 0.6.1-nightly-0.6.2-nightly
 <!-- chronolog:begin region="summary" -->
 Improved linter! Please give us feedback on the linter suggestions using the smiley faces. If you would like, you can make it more aggressive by going to the More tab and then clicking on "Advanced linter settings" at the bottom. Let us know what you think in the Discord.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-08-01-improved-linter-please-give-us-feedback-on-the-linter-suggestions-using-the-smil|Improved linter! Please give us feedback on the linter suggestions using the smiley faces]] · Developer Workflow
+- [[Changes/Cursor/2023-08-01-improved-linter-please-give-us-feedback-on-the-linter-suggestions-using-the-smil|Improved linter]] · Developer Workflow
 <!-- chronolog:end -->

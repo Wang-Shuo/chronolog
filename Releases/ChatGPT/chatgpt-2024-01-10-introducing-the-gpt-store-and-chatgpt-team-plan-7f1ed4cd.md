@@ -2,8 +2,8 @@
 changes_count: 2
 date: '2024-01-10'
 description: 'ChatGPT release Introducing the GPT Store and ChatGPT Team plan on 2024-01-10:
-  2 tracked changes across Image Generation, Safety and Privacy'
-machine_hash: 375d747f551da8aa6256b6d4438c9a44e8151dbe8163aec417bb435e1d7d6df9
+  2 tracked changes across Apps and Integrations, Collaboration'
+machine_hash: 70b754fbcb9b7915fdabab458b28fa67362eba248e050b2946a9448cebdb12b6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,11 +38,11 @@ version: Introducing the GPT Store and ChatGPT Team plan
 <!-- chronolog:begin region="summary" -->
 Discover what’s trending in the GPT Store
 
-Tracked 2 of 2 candidate lines.
+Tracked 2 cards from 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The store features a diverse range of GPTs developed by our partners and the community]] · Image Generation
-- [[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|ChatGPT launches a new ChatGPT plan for teams of all sizes, which provides a secure…]] · Safety and Privacy
+- [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|Discover what’s trending in the GPT Store]] · Apps and Integrations · Launch
+- [[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|Use ChatGPT alongside your team]] · Collaboration · Launch
 <!-- chronolog:end -->

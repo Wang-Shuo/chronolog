@@ -15,9 +15,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 102635b0103639fb8912aeb79cb336362f075811defbbfb2f5c497e287e5c89b
+kind: change
+machine_hash: cc901d056aa8923a939599c20d73993827a3b16a02e1952cce52d15af07473ed
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Claude Code now shows a one-time notice when your npm global install can't
       auto-update; `/doctor` lists the fixes
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.153
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: claude-code-now-shows-a-one-time-notice-when-your-npm-global-install-can-t-auto
@@ -44,12 +46,12 @@ record:
     auto-update
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-21-improved-diff-rendering-performance-for-large-file-edits-4ddf04|Improved
-  diff rendering performance for large file edits]]'
-- '[[Changes/Claude Code/2026-05-21-improved-auto-updater-retries-transient-network-failures-reports-specific-error|Improved
-  auto-updater: retries transient network failures, reports specific error…]]'
-- '[[Changes/Claude Code/2026-05-21-pinned-background-sessions-ctrl-t-in-claude-agents-now-stay-alive-when-idle-are|Pinned
-  background sessions (Ctrl+T in claude agents) now stay alive when idle…]]'
+- '[[Changes/Claude Code/2026-05-21-2-reliability-and-performance-changes-in-v2-1-146|2
+  Reliability and Performance changes in v2.1.146]]'
+- '[[Changes/Claude Code/2026-05-21-3-reliability-and-performance-changes-in-v2-1-147|3
+  Reliability and Performance changes in v2.1.147]]'
+- '[[Changes/Claude Code/2026-05-27-the-usage-breakdown-now-includes-large-session-files-files-are-scanned-with-a-st|The
+  /usage breakdown now includes large session files]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a|claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a]]'
 source_type: github_releases
 theme: reliability-performance
@@ -73,17 +75,19 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-05-28-claude-agents-pr-column-now-shows-pr-n-for-a-single-pr-or-n-prs-for-multiple|claude agents: PR column now shows PR ♯N for a single PR or N PRs for multiple]] · Agent Mode
-- [[Changes/Claude Code/2026-05-28-claude-agents-autocomplete-in-the-dispatch-input-now-suggests-native-slash-comma|claude agents: autocomplete in the dispatch input now suggests native slash…]] · Interface Experience
-- [[Changes/Claude Code/2026-05-28-added-skiplfs-option-to-github-git-plugin-marketplace-sources-to-skip-git-lfs-do|Added skipLfs option to github/git plugin marketplace sources to skip Git LFS…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-05-28-2-safety-and-privacy-changes-in-v2-1-153|2 Safety and Privacy changes in v2.1.153]] · Safety and Privacy
+- [[Changes/Claude Code/2026-05-28-2-apps-and-integrations-changes-in-v2-1-153|2 Apps and Integrations changes in v2.1.153]] · Apps and Integrations
+- [[Changes/Claude Code/2026-05-28-2-interface-experience-changes-in-v2-1-153|2 Interface Experience changes in v2.1.153]] · Interface Experience
+- [[Changes/Claude Code/2026-05-28-model-now-saves-your-selection-as-the-default-for-new-sessions-matching-the-ide|/model now saves your selection as the default for new sessions (matching the IDE)]] · Model Support
+- [[Changes/Claude Code/2026-05-28-3-agent-mode-changes-in-v2-1-153|3 Agent Mode changes in v2.1.153]] · Agent Mode
 - [[Changes/Claude Code/2026-05-28-status-line-commands-now-receive-columns-and-lines-environment-variables-so-scri|Status line commands now receive COLUMNS and LINES environment variables…]] · Developer Workflow
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-05-21 · Claude Code · [[Changes/Claude Code/2026-05-21-pinned-background-sessions-ctrl-t-in-claude-agents-now-stay-alive-when-idle-are|Pinned background sessions (Ctrl+T in claude agents) now stay alive when idle…]]
-- Later: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-improved-auto-mode-classifier-latency-by-reducing-reasoning-on-routine-actions-l|Improved auto mode classifier latency by reducing reasoning on routine actions…]]
+- Earlier: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-the-usage-breakdown-now-includes-large-session-files-files-are-scanned-with-a-st|The /usage breakdown now includes large session files]]
+- Later: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-renamed-the-effort-slider-labels-from-speed-intelligence-to-faster-smarter-for-c|Renamed the /effort slider labels…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

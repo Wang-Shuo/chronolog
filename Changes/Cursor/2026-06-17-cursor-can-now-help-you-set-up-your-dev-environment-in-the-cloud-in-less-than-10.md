@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 7da42dd89765528e6ce732b46dcf54e6a103b1e49f322a35693abe8cc0d24648
+machine_hash: 14b012f25581bf86201868a9dce0009c16002ccf9bd17e1103e25ba7fdeae3af
 product: cursor
 product_name: Cursor
 record:
@@ -64,6 +64,7 @@ related_changes:
   /doctor with consistent flat tree layout across all sections, clearer…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa|cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa]]'
 source_type: cursor_changelog
+superseded: true
 theme: developer-workflow
 title: Cursor can now help you set up your dev environment in the cloud in less than
   10 minutes

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 7cc9b6c776555c2d155dfb7ea70937bfb138acb4ba2977db23f67ddd4a9c6b8a
+machine_hash: 36e982859e58411f95f7e7acb3afbdc4321b25ca6ed1972a3cfabe80828b9b25
 product: cursor
 product_name: Cursor
 record:
@@ -66,6 +66,7 @@ related_changes:
   agents rows now show done/total before the detail when work is fanned out]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856|cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Before this, exposing a custom capability meant standing up your own stdio
   or remote…

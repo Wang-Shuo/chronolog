@@ -4,8 +4,8 @@ date: '2025-07-24'
 description: 'ChatGPT · 2025-07-24 · Apps and Integrations: Pro users can now utilize
   chat search with HubSpot and custom connectors (MCP) in addition to deep research.Note…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 854
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: d3c120a35f39181436cadc0c784fe688c6ca1353ba2ef217bb95cd806f80b030
+kind: change
+machine_hash: 9afd995132cc6f9055503e10ccdee2f3e1e6b3fda1a219be429fb6c5a7024483
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,8 +35,9 @@ record:
       users located outside of the EEA, Switzerland, and the UK.Learn more about connectors,
       as well as how to create a custom connector using MCP.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: pro-users-can-now-utilize-chat-search-with-hubspot-and-custom-connectors-mcp-in
@@ -53,25 +55,24 @@ record:
     - deep research
     score: 60
     theme: search-browsing
-  title: Pro users can now utilize chat search with HubSpot and custom connectors
-    (MCP)…
+  title: Chat search for HubSpot and custom connectors (MCP) (Pro)
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-12-mention-cursor-in-any-thread-with-a-prompt-like|Mention
-  @Cursor in any thread with a prompt like]]'
-- '[[Changes/ChatGPT/2025-06-24-pro-users-are-now-able-to-use-chat-search-connectors-in-addition-to-deep-researc-9d5a85|Pro
-  users are now able to use chat search connectors…]]'
-- '[[Changes/Cursor/2025-07-03-to-dos-are-also-visible-in-slack-if-integration-is-setup|To-dos
-  are also visible in Slack if integration is setup!]]'
+- '[[Changes/Cursor/2025-06-12-agents-understand-context-6b73fc|Agents understand
+  context]]'
+- '[[Changes/ChatGPT/2025-06-24-pro-users-are-now-able-to-use-chat-search-connectors-in-addition-to-deep-researc-9d5a85|Chat
+  search connectors (Pro)]]'
+- '[[Changes/Cursor/2025-07-03-2-apps-and-integrations-changes-in-1-2|2 Apps and Integrations
+  changes in 1.2]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-24-chat-search-for-hubspot-and-custom-connectors-mcp-pro-f49427a3|chatgpt-2025-07-24-chat-search-for-hubspot-and-custom-connectors-mcp-pro-f49427a3]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: Pro users can now utilize chat search with HubSpot and custom connectors (MCP)…
+title: Chat search for HubSpot and custom connectors (MCP) (Pro)
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Pro users can now utilize chat search with HubSpot and custom connectors (MCP)…
+# Chat search for HubSpot and custom connectors (MCP) (Pro)
 
 **ChatGPT** · 2025-07-24 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-07-24-chat-search-for-hubspot-and-custom-connectors-mcp-pro-f49427a3|Chat search for HubSpot and custom connectors (MCP) (Pro)]]
 <!-- chronolog:end -->
@@ -89,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-to-dos-are-also-visible-in-slack-if-integration-is-setup|To-dos are also visible in Slack if integration is setup!]]
-- Later: 2025-08-13 · ChatGPT · [[Changes/ChatGPT/2025-08-13-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-are-now-availabl-e34de4|Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT are now available…]]
+- Earlier: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-2-apps-and-integrations-changes-in-1-2|2 Apps and Integrations changes in 1.2]]
+- Later: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-extension-marketplace-supports-custom-urls|Extension marketplace supports custom URLs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 12aec49d90878d63d2531f6fcd9739f3b09d84ef0f23e7e8deba8576ac9da857
+machine_hash: 8eb16acaa7525bc1255ef890273204a66f2b9318777005449904d5ef2f791f45
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   cloud sessions occasionally being marked as lost when the environment shut…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f|claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Improved permission dialogs
 type: change

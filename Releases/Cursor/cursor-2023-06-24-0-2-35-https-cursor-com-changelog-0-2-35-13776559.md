@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-06-24'
 description: 'Cursor release Hotfix for Chat on 2023-06-24: 1 tracked change across
   Developer Workflow'
-machine_hash: c7029ee567386c00dd63f5195f2dace0298a44c22d27bfb50cfb4ca302fac7e4
+machine_hash: af8c3e1b326cf74b811ad66d254adb1d9170e68bf25729355bb7a00ad09b65d6
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.2.35
 <!-- chronolog:begin region="summary" -->
 Chat was failing on some non-git folders. That is now fixed.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

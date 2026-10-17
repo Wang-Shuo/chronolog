@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8f5e22a38693ea7017c9c2ac1ea85a9f2d49fdbd7e9ab688c850ca63ff79bca3
+machine_hash: 0c4ab5bbcbe74180d4181110852e0e6d47e131d1c9e6fc17aa4ca2df91a60402
 product: cursor
 product_name: Cursor
 record:
@@ -60,6 +60,7 @@ related_changes:
   is now available to all ChatGPT Plus users, except in Europe Korea where we…]]'
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
 source_type: cursor_changelog
+superseded: true
 theme: memory
 title: 'Crashes: Enhanced stability through memory and performance improvements…'
 type: change

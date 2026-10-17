@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 286dfd1f2e06380aa277c430b7e029947fe07316bd4e9ce48138b85ef1fb2686
+machine_hash: d9e7af257ce86e33c81326ae2e5ad5f747f9e6abfa104cbb3ed0e32053ff9f7d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,6 +49,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-02-21-1-ios-widget-see-below|iOS widget (see below)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-28-general-ios-long-press-to-select-text-on-ios-and-moved-the-messa-04ecc8ba|chatgpt-2025-02-28-general-ios-long-press-to-select-text-on-ios-and-moved-the-messa-04ecc8ba]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: mobile-desktop
 title: Bug fixes and small improvements in the 1.2025.056 iOS release
 type: change

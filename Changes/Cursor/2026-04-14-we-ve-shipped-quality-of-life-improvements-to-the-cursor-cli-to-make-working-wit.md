@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 0fd8fe436704ee922775f0855bc963ee5150a2f16282fabcbb67de82369a65f6
+kind: change
+machine_hash: fdda4e5ed1623ddd969010f689dec59d3e5d338f2054236129016c8724e8e826
 product: cursor
 product_name: Cursor
 record:
@@ -29,8 +30,9 @@ record:
   - quote: We've shipped quality-of-life improvements to the Cursor CLI to make working
       with agents in the terminal more delightful.
     source_release: https://cursor.com/changelog/04-14-26
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: we-ve-shipped-quality-of-life-improvements-to-the-cursor-cli-to-make-working-wit
@@ -50,12 +52,12 @@ record:
   title: We've shipped quality-of-life improvements to the Cursor CLI to make working…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-08-bugbot-can-now-learn-from-feedback-on-pull-requests-and-turn-those-signals-into|Bugbot
-  can now learn from feedback on pull requests and turn those signals…]]'
-- '[[Changes/Claude Code/2026-04-13-added-path-parameter-to-the-enterworktree-tool-to-switch-into-an-existing-worktr|Added
-  path parameter to the EnterWorktree tool to switch into an existing…]]'
-- '[[Changes/Cursor/2026-04-14-use-debug-to-find-root-causes-and-fix-tricky-bugs-that-are-hard-to-reproduce-or|Use
-  /debug to find root causes and fix tricky bugs that are hard to reproduce…]]'
+- '[[Changes/Claude Code/2026-04-09-6-developer-workflow-changes-in-v2-1-98|6 Developer
+  Workflow changes in v2.1.98]]'
+- '[[Changes/Claude Code/2026-04-13-2-developer-workflow-changes-in-v2-1-105|2 Developer
+  Workflow changes in v2.1.105]]'
+- '[[Changes/Cursor/2026-04-14-use-debug-to-find-root-causes-and-fix-tricky-bugs-that-are-hard-to-reproduce-or|Debug
+  Mode in CLI]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a|cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -78,16 +80,18 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-04-14-ask-a-quick-side-question-without-derailing-the-agent-s-main-task-btw-allows-you|Ask a quick side question without derailing the agent's main task]] · Agent Mode
-- [[Changes/Cursor/2026-04-14-use-debug-to-find-root-causes-and-fix-tricky-bugs-that-are-hard-to-reproduce-or|Use /debug to find root causes and fix tricky bugs that are hard to reproduce…]] · Developer Workflow
-- [[Changes/Cursor/2026-04-14-config-opens-an-interactive-settings-panel-inside-the-cli-where-you-can-view-and|/config opens an interactive settings panel inside the CLI where you can view…]] · Model Support
+- [[Changes/Cursor/2026-04-14-ask-a-quick-side-question-without-derailing-the-agent-s-main-task-btw-allows-you|/btw support in CLI]] · Agent Mode
+- [[Changes/Cursor/2026-04-14-trigger-the-model-picker-from-anywhere-to-switch-models-without-clearing-your-pr|Trigger the model picker from anywhere to switch models without clearing your prompt first]] · Model Support
+- [[Changes/Cursor/2026-04-14-use-debug-to-find-root-causes-and-fix-tricky-bugs-that-are-hard-to-reproduce-or|Debug Mode in CLI]] · Developer Workflow
+- [[Changes/Cursor/2026-04-14-configuration-menu-in-cli|Configuration menu in CLI]] · Interface Experience
+- [[Changes/Cursor/2026-04-14-3-developer-workflow-changes-in-04-14-26|3 Developer Workflow changes in 04.14.26]] · Developer Workflow
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-13 · Claude Code · [[Changes/Claude Code/2026-04-13-added-path-parameter-to-the-enterworktree-tool-to-switch-into-an-existing-worktr|Added path parameter to the EnterWorktree tool to switch into an existing…]]
-- Later: 2026-04-15 · Cursor · [[Changes/Cursor/2026-04-15-in-the-agents-window-canvases-are-durable-artifacts-that-live-in-the-side-panel|In the Agents Window, canvases are durable artifacts that live in the side panel…]]
+- Earlier: 2026-04-13 · Claude Code · [[Changes/Claude Code/2026-04-13-2-developer-workflow-changes-in-v2-1-105|2 Developer Workflow changes in v2.1.105]]
+- Later: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-bash-tool-now-enforces-the-documented-maximum-timeout-instead-of-accepting-arbit|Bash tool now enforces the documented maximum timeout instead of accepting…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

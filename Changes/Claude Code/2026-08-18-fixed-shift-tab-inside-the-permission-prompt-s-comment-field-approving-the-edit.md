@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1db9e4f840411c233171c54a33c48cf9420604d187673ec8d5fdcc51468b3aea
+machine_hash: e7683ab365b7fa2e1252c8cc91051c87ce5f38e09a9cb9d5230d3758f66abc1a
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   permission dialogs]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f|claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed Shift+Tab inside the permission prompt's comment field approving the
   edit…

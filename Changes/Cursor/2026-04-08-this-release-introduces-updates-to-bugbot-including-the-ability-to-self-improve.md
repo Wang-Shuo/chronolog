@@ -4,8 +4,8 @@ date: '2026-04-08'
 description: 'Cursor · 2026-04-08 · Apps and Integrations: This release introduces
   updates to Bugbot including the ability to self-improve in real time, MCP support…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1112
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: d338421a9de88df48379e69f3379f25cb776193292891a1a0687b72a866bea1f
+kind: launch
+machine_hash: b58ab85259f1bad55ae4aa49419db867b4afc6f66eb1fd0f92ab202143dae862
 product: cursor
 product_name: Cursor
 record:
@@ -33,8 +34,9 @@ record:
       in real time, MCP support, improvements to Bugbot Autofix, and the highest resolution
       rate to date.
     source_release: https://cursor.com/changelog/04-08-26
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: launch
   product: cursor
   product_name: Cursor
   slug: this-release-introduces-updates-to-bugbot-including-the-ability-to-self-improve
@@ -45,12 +47,12 @@ record:
     in real…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-07-added-keep-coding-instructions-frontmatter-field-support-for-plugin-output-style|Added
-  keep-coding-instructions frontmatter field support for plugin output styles]]'
-- '[[Changes/Cursor/2026-04-08-it-looks-at-reactions-and-replies-to-bugbot-comments-and-comments-from-human-rev|It
-  looks at reactions and replies to Bugbot comments and comments from human…]]'
-- '[[Changes/Cursor/2026-04-08-give-bugbot-access-to-mcp-servers-for-additional-context-during-code-reviews-on|Give
-  Bugbot access to MCP servers for additional context during code reviews]]'
+- '[[Changes/Claude Code/2026-04-04-remote-control-session-names-now-use-your-hostname-as-the-default-prefix-e-g-myh|Remote
+  Control session names now use your hostname as the default prefix…]]'
+- '[[Changes/Claude Code/2026-04-07-5-apps-and-integrations-changes-in-v2-1-94|5 Apps
+  and Integrations changes in v2.1.94]]'
+- '[[Changes/Cursor/2026-04-08-give-bugbot-access-to-mcp-servers-for-additional-context-during-code-reviews-on|Bugbot
+  MCP Support]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11|cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -62,7 +64,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Cursor introduces updates to Bugbot including the ability to self-improve in real…
 
-**Cursor** · 2026-04-08 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://cursor.com/changelog/04-08-26) · from [[Releases/Cursor/cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11|Bugbot Learned Rules and MCP Support]]
+**Cursor** · 2026-04-08 · [[Themes/apps-integrations|Apps and Integrations]] · Launch · [Official source](https://cursor.com/changelog/04-08-26) · from [[Releases/Cursor/cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11|Bugbot Learned Rules and MCP Support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -74,22 +76,22 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-04-08-it-looks-at-reactions-and-replies-to-bugbot-comments-and-comments-from-human-rev|It looks at reactions and replies to Bugbot comments and comments from human…]] · Apps and Integrations
-- [[Changes/Cursor/2026-04-08-give-bugbot-access-to-mcp-servers-for-additional-context-during-code-reviews-on|Give Bugbot access to MCP servers for additional context during code reviews]] · Apps and Integrations
-- [[Changes/Cursor/2026-04-08-bugbot-can-now-learn-from-feedback-on-pull-requests-and-turn-those-signals-into|Bugbot can now learn from feedback on pull requests and turn those signals…]] · Developer Workflow
+- [[Changes/Cursor/2026-04-08-bugbot-learned-rules-9e5cac|Bugbot Learned Rules]] · Developer Workflow
+- [[Changes/Cursor/2026-04-08-give-bugbot-access-to-mcp-servers-for-additional-context-during-code-reviews-on|Bugbot MCP Support]] · Apps and Integrations
+- [[Changes/Cursor/2026-04-08-redesigned-bugbot-settings-and-split-personal-and-team-settings-into-clearer-sec|Redesigned Bugbot settings, and split personal and team settings into clearer sections]] · Collaboration
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-07 · Claude Code · [[Changes/Claude Code/2026-04-07-added-keep-coding-instructions-frontmatter-field-support-for-plugin-output-style|Added keep-coding-instructions frontmatter field support for plugin output styles]]
-- Later: 2026-04-13 · Claude Code · [[Changes/Claude Code/2026-04-13-added-background-monitor-support-for-plugins-via-a-top-level-monitors-manifest-k|Added background monitor support for plugins via a top-level monitors manifest key…]]
+- Earlier: 2026-04-07 · Claude Code · [[Changes/Claude Code/2026-04-07-5-apps-and-integrations-changes-in-v2-1-94|5 Apps and Integrations changes in v2.1.94]]
+- Later: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-2-apps-and-integrations-changes-in-v2-1-98|2 Apps and Integrations changes in v2.1.98]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

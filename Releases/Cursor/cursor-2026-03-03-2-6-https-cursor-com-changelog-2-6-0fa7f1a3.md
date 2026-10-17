@@ -1,9 +1,10 @@
 ---
-changes_count: 5
+changes_count: 12
 date: '2026-03-03'
 description: 'Cursor release MCP Apps and Team Marketplaces for Plugins on 2026-03-03:
-  5 tracked changes across Developer Workflow, Apps and Integrations, Enterprise and…'
-machine_hash: b25d75477f48ec2e71f1c5b37e193f3545f9c0e9e1e5f82df2cdc073576c53dc
+  12 tracked changes across Apps and Integrations, Developer Workflow, Enterprise
+  and…'
+machine_hash: 2415ae574560b0bcd6ab8c92823385f407d84bea7563fc445e78e38c0c87af26
 product: cursor
 product_name: Cursor
 record:
@@ -40,14 +41,21 @@ version: '2.6'
 <!-- chronolog:begin region="summary" -->
 This release introduces interactive UIs in agent chats, a way for teams to share private plugins, and improvements to core capabilities like Debug mode.
 
-Tracked 5 of 33 candidate lines.
+Tracked 12 cards from 33 candidate lines; 3 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-03-03-mcp-apps-support-interactive-user-interfaces-like-charts-from-amplitude-diagrams|MCP Apps support interactive user interfaces like charts from Amplitude, diagrams…]] · Apps and Integrations
-- [[Changes/Cursor/2026-03-03-added-support-for-multiple-parallel-debug-mode-sessions|Added support for multiple parallel Debug mode sessions]] · Developer Workflow
-- [[Changes/Cursor/2026-03-03-desktop-improvements-15|Desktop Improvements (15)↓↑]] · Mobile and Desktop
-- [[Changes/Cursor/2026-03-03-on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p|On Teams and Enterprise plans, Admins can now create team marketplaces to share…]] · Enterprise and Administration
-- [[Changes/Cursor/2026-03-03-this-release-introduces-interactive-uis-in-agent-chats-a-way-for-teams-to-share|Cursor introduces interactive UIs in agent chats, a way for teams to share private…]] · Developer Workflow
+- [[Changes/Cursor/2026-03-03-3-apps-and-integrations-changes-in-2-6|3 Apps and Integrations changes in 2.6]] · Apps and Integrations · Digest
+- [[Changes/Cursor/2026-03-03-mcp-apps-support-interactive-user-interfaces-like-charts-from-amplitude-diagrams|MCP Apps]] · Apps and Integrations · Launch
+- [[Changes/Cursor/2026-03-03-improved-reliability-for-longer-running-agent-sessions|Improved reliability for longer-running agent sessions]] · Agent Mode
+- [[Changes/Cursor/2026-03-03-modals-load-faster|Modals load faster]] · Reliability and Performance
+- [[Changes/Cursor/2026-03-03-3-developer-workflow-changes-in-2-6|3 Developer Workflow changes in 2.6]] · Developer Workflow · Digest
+- [[Changes/Cursor/2026-03-03-clearer-more-consistent-team-and-enterprise-policy-and-access-controls|Clearer, more consistent team and enterprise policy and access controls]] · Enterprise and Administration
+- [[Changes/Cursor/2026-03-03-2-context-window-changes-in-2-6|2 Context Window changes in 2.6]] · Context Window · Digest
+- [[Changes/Cursor/2026-03-03-on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p|Team marketplaces for plugins]] · Enterprise and Administration · Launch
+- [[Changes/Cursor/2026-03-03-fixed-team-permission-and-access-control-inconsistencies-across-organization-set|Fixed team permission and access control inconsistencies across organization setups]] · Safety and Privacy · Fix
+- [[Changes/Cursor/2026-03-03-the-content-from-your-plan-files-are-now-included-in-autocomplete-suggestions-as|The content from your plan files are now included in autocomplete suggestions as you…]] · Interface Experience
+- [[Changes/Cursor/2026-03-03-this-release-introduces-interactive-uis-in-agent-chats-a-way-for-teams-to-share|Cursor introduces interactive UIs in agent chats, a way for teams to share private…]] · Developer Workflow · Launch
+- [[Changes/Cursor/2026-03-03-agent-workflows-are-faster-and-more-predictable-for-multi-file-edits-and-pr-heav|Agent workflows are faster and more predictable for multi-file edits and PR-heavy tasks]] · Editor Experience
 <!-- chronolog:end -->

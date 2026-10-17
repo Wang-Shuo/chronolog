@@ -4,8 +4,8 @@ date: '2026-09-01'
 description: 'ChatGPT · 2026-09-01 · Apps and Integrations: Eligible ChatGPT for Clinicians
   users in the United States can now use Healthcare Public Data in ChatGPT. The…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1258
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: b2613b00eb7cbda9a4d31728cafa7c537bcb5a858cb0a5b3836f658d650dc031
+kind: change
+machine_hash: f957ad1d8bb2c754357ed5874614f567f74c1089c08e60ab90d0b45f9a7ad4b9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,32 +43,33 @@ record:
       protected health information in searches sent to public sources.For details,
       see: Using Healthcare Public Data in ChatGPT and Codex.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: eligible-chatgpt-for-clinicians-users-in-the-united-states-can-now-use-healthcar
   source_release: chatgpt-2026-09-01-healthcare-public-data-in-chatgpt-for-clinicians-d90a3c8e
   source_type: chatgpt_changelog
   theme: apps-integrations
-  title: Eligible ChatGPT for Clinicians users in the United States can now use Healthcare…
+  title: Healthcare Public Data in ChatGPT for Clinicians
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-21-plugin-availability-depends-on-your-plan-region-and-workspace-settings-desktop-i|Plugin
-  availability depends on your plan, region, and workspace settings]]'
-- '[[Changes/Claude Code/2026-08-21-cloud-sessions-plugins-synced-from-claude-ai-now-show-as-name-synced-work-with-c|Cloud
-  sessions: plugins synced from claude.ai now show as name@synced, work…]]'
-- '[[Changes/ChatGPT/2026-08-28-you-can-now-connect-multiple-accounts-for-gmail-google-calendar-and-google-conta|Connect
-  multiple accounts for Gmail, Google Calendar, and Google Contacts plugins…]]'
+- '[[Changes/Claude Code/2026-08-27-improved-managed-settings-client-side-timeout-mcp-startup-mode-and-stream-watchd|Improved
+  managed settings]]'
+- '[[Changes/ChatGPT/2026-08-28-you-can-now-connect-multiple-accounts-for-gmail-google-calendar-and-google-conta-b4c5da|Connect
+  multiple Google accounts to ChatGPT]]'
+- '[[Changes/Claude Code/2026-08-28-4-apps-and-integrations-changes-in-v2-1-251|4
+  Apps and Integrations changes in v2.1.251]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-01-healthcare-public-data-in-chatgpt-for-clinicians-d90a3c8e|chatgpt-2026-09-01-healthcare-public-data-in-chatgpt-for-clinicians-d90a3c8e]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: Eligible ChatGPT for Clinicians users in the United States can now use Healthcare…
+title: Healthcare Public Data in ChatGPT for Clinicians
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Eligible ChatGPT for Clinicians users in the United States can now use Healthcare…
+# Healthcare Public Data in ChatGPT for Clinicians
 
 **ChatGPT** · 2026-09-01 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-01-healthcare-public-data-in-chatgpt-for-clinicians-d90a3c8e|Healthcare Public Data in ChatGPT for Clinicians]]
 <!-- chronolog:end -->
@@ -85,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-28 · ChatGPT · [[Changes/ChatGPT/2026-08-28-you-can-now-connect-multiple-accounts-for-gmail-google-calendar-and-google-conta|Connect multiple accounts for Gmail, Google Calendar, and Google Contacts plugins…]]
-- Later: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-added-json-to-claude-plugin-validate-for-a-machine-readable-validation-report|Added --json to claude plugin validate for a machine-readable validation report]]
+- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-4-apps-and-integrations-changes-in-v2-1-251|4 Apps and Integrations changes in v2.1.251]]
+- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-2-apps-and-integrations-changes-in-v2-1-257|2 Apps and Integrations changes in v2.1.257]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

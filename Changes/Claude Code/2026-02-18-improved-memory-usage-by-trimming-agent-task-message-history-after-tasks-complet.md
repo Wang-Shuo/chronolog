@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: e55bb2ea93460b931dcb871b298f3d464a5f9de95e0efbeb6c1f149e375cb24d
+machine_hash: fe8435a7e3511c5062b8350d04fa82cc88e0c7e10cbd2386b149cff261fa378a
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,6 +61,7 @@ related_changes:
   UI rendering performance with React Compiler]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931|claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931]]'
 source_type: github_releases
+superseded: true
 theme: reliability-performance
 title: Improved memory usage by trimming agent task message history after tasks complete
 type: change

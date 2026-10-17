@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 2dc40233c6097bd4d4f8dcc7501d2af6e3968e2ac8b38434b455be03dd33e40d
+kind: change
+machine_hash: 2409f8f56370ba07d227627f63692fe97814fc073764322cc655b197543d092a
 product: cursor
 product_name: Cursor
 record:
@@ -27,8 +28,9 @@ record:
   evidence:
   - quote: 'Dev containers are now supported! This build also:'
     source_release: https://cursor.com/changelog/0-22-0
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: dev-containers-are-now-supported-this-build-also
@@ -44,8 +46,8 @@ related_changes:
   about git commits and PRs using @git in chat!]]'
 - '[[Changes/Cursor/2023-10-20-also-there-s-an-experimental-bash-mode-enable-it-in-the-settings-and-let-the-cha|Also,
   there''s an experimental bash mode]]'
-- '[[Changes/Cursor/2024-01-06-wsl-and-dev-containers-should-now-work-properly|WSL
-  and Dev Containers should now work properly]]'
+- '[[Changes/Cursor/2024-01-06-wsl-and-dev-containers-should-now-work-properly|Better
+  Remote Support]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-06-0-22-0-https-cursor-com-changelog-0-22-0-04c2cd2c|cursor-2024-01-06-0-22-0-https-cursor-com-changelog-0-22-0-04c2cd2c]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -75,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-01-06 · Cursor · [[Changes/Cursor/2024-01-06-wsl-and-dev-containers-should-now-work-properly|WSL and Dev Containers should now work properly]]
+- Earlier: 2024-01-06 · Cursor · [[Changes/Cursor/2024-01-06-wsl-and-dev-containers-should-now-work-properly|Better Remote Support]]
 - Later: 2024-01-15 · Cursor · [[Changes/Cursor/2024-01-15-working-wsl-codebase-search|Working WSL codebase search]]
 <!-- chronolog:end -->
 

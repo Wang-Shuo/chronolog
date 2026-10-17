@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: dc902d5d94489d53ff262ccefef25a7ab6e88c4f8cf91bba3f44a498d120e970
+machine_hash: 3fc7345708c7404be1b595060443d7a3e5164018b405e7c3e0f68cc3d67a89f2
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   synced skill/plugin directory naming on Windows and kept CCR web…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: MCP tool calls running longer than 2 minutes now move to the background…
 type: change

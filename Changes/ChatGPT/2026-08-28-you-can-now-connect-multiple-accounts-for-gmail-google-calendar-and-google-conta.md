@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3b0e27da94d607efb9170db7d94b6e6421eedf1a121d0868cbb3f299f6fe841f
+machine_hash: c50ba07a28d1e5d520f946b1c7232bdb261f0f5da8501155082898f4338b515e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,6 +54,7 @@ related_changes:
   sessions: plugins synced from claude.ai now show as name@synced, work…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-28-connect-multiple-google-accounts-to-chatgpt-06db9b52|chatgpt-2026-08-28-connect-multiple-google-accounts-to-chatgpt-06db9b52]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: apps-integrations
 title: Connect multiple accounts for Gmail, Google Calendar, and Google Contacts plugins…
 type: change

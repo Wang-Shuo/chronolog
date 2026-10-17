@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 44e5cf404768bde31c766b2f3b769e2d1163207990278c491fa22ff68e3881cc
+machine_hash: ff51a70d98296b4f66415c2d0ae7050dc0b6c7af1228e45d7a61f23b7d3ab331
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   mode is now available without CLAUDE_CODE_ENABLE_AUTO_MODE opt-in on Bedrock…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91|claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Improved agent view
 type: change

@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 9b2645abf291cf56c83cf23bc86406ea05daa25335ce7b9e0b00d58ebf9dffe0
+kind: policy
+machine_hash: 4fda885eda39921d275691ae0b8b0d0518bc4b1ca307749c89056e92ea67cdfa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,8 +41,9 @@ record:
       These models are currently available to paid users only via model settings.
       These changes apply to ChatGPT only; there are no changes to the API.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: policy
   product: chatgpt
   product_name: ChatGPT
   slug: today-we-re-continuing-to-retire-older-models-with-limited-usage-in-chatgpt-so-w
@@ -50,28 +52,26 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Today, we’re continuing to retire older models with limited usage in ChatGPT
-    so we…
+  title: Retiring OpenAI o3 and GPT-4.5
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-18-composer-2-5-includes-double-usage-for-the-first-week-see-our-model-docs-for-ful|Composer
-  2.5 includes double usage for the first week]]'
 - '[[Changes/Cursor/2026-05-18-it-s-a-substantial-improvement-in-intelligence-and-behavior-over-composer-2-it-i|It''s
   a substantial improvement in intelligence and behavior over Composer 2]]'
-- '[[Changes/Claude Code/2026-05-27-skills-and-slash-commands-can-now-set-disallowed-tools-in-frontmatter-to-remove|Skills
-  and slash commands can now set disallowed-tools in frontmatter to remove…]]'
+- '[[Changes/Claude Code/2026-05-19-resumed-sessions-now-keep-the-model-they-were-using-instead-of-picking-up-anothe|Resumed
+  sessions now keep the model they were using instead of picking up another…]]'
+- '[[Changes/Claude Code/2026-05-27-2-model-support-changes-in-v2-1-152|2 Model Support
+  changes in v2.1.152]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-28-retiring-openai-o3-and-gpt-4-5-bb3c534d|chatgpt-2026-05-28-retiring-openai-o3-and-gpt-4-5-bb3c534d]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: Today, we’re continuing to retire older models with limited usage in ChatGPT
-  so we…
+title: Retiring OpenAI o3 and GPT-4.5
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Today, we’re continuing to retire older models with limited usage in ChatGPT so we…
+# Retiring OpenAI o3 and GPT-4.5
 
-**ChatGPT** · 2026-05-28 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-05-28-retiring-openai-o3-and-gpt-4-5-bb3c534d|Retiring OpenAI o3 and GPT-4.5]]
+**ChatGPT** · 2026-05-28 · [[Themes/model-support|Model Support]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-05-28-retiring-openai-o3-and-gpt-4-5-bb3c534d|Retiring OpenAI o3 and GPT-4.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-skills-and-slash-commands-can-now-set-disallowed-tools-in-frontmatter-to-remove|Skills and slash commands can now set disallowed-tools in frontmatter to remove…]]
-- Later: 2026-05-28 · ChatGPT · [[Changes/ChatGPT/2026-05-28-we-re-updating-gpt-5-5-instant-in-chatgpt-and-the-api-to-improve-response-style|We’re updating GPT-5.5 Instant in ChatGPT and the API to improve response style…]]
+- Earlier: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-2-model-support-changes-in-v2-1-152|2 Model Support changes in v2.1.152]]
+- Later: 2026-05-28 · ChatGPT · [[Changes/ChatGPT/2026-05-28-we-re-updating-gpt-5-5-instant-in-chatgpt-and-the-api-to-improve-response-style|GPT-5.5 Instant Update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

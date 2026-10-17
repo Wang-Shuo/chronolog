@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e6610853bf170b2026b5a7b026a51b2555ec77a48b824e2c532125c76cb0a52f
+machine_hash: 2234c51b6b84b9b8a352e5f1e2945a2d92864d92d43ba245afb008ffd706c840
 product: cursor
 product_name: Cursor
 record:
@@ -52,6 +52,7 @@ related_changes:
   introduces updates for Enterprise admins]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047|cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047]]'
 source_type: cursor_changelog
+superseded: true
 theme: enterprise-admin
 title: Admins can now set soft limits instead of hard limits to avoid blocking users
 type: change

@@ -5,8 +5,8 @@ description: 'Cursor · 2023-05-04 · Apps and Integrations: One-Click Extension
   from VS Code (beta). As a highly requested feature, we''re excited to present the
   beta…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 42
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: e00684159ae4849d85aa835c6e03833abb80523ae986310c0f85995b9cf75abe
+kind: change
+machine_hash: 5e99f03ea7390b0760da0a3e61b89c7dca0ecfd9d12fd4a95d5ff7965ac8a967
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +32,9 @@ record:
   - quote: One-Click Extension Import from VS Code (beta). As a highly requested feature,
       we're excited to present the beta version of one-click extension imports!
     source_release: https://cursor.com/changelog/0-2-9
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: one-click-extension-import-from-vs-code-beta-as-a-highly-requested-feature-we-re
@@ -44,9 +46,7 @@ record:
   title: One-Click Extension Import from VS Code (beta)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-  can join the waitlist to try plugins here]]'
-- '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-b62dc8|We
+- '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
   are announcing experimental support for AI plugins in ChatGPT]]'
 source_release: '[[Releases/Cursor/cursor-2023-05-04-0-2-9-https-cursor-com-changelog-0-2-9-fbb1587c|cursor-2023-05-04-0-2-9-https-cursor-com-changelog-0-2-9-fbb1587c]]'
 source_type: cursor_changelog
@@ -70,8 +70,8 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]] · Context Window
-- [[Changes/Cursor/2023-05-04-alpha-feature-alpha-feature-ask-questions-about-your-entire-repo-we-are-experime|Alpha feature: 🧠 Alpha feature: Ask questions about your entire repo 🛠️]] · Context Window
+- [[Changes/Cursor/2023-05-04-gpt-4-support-now-available-for-project-generation|GPT-4 support now available for project generation]] · Model Support
+- [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]] · Context Window
 - [[Changes/Cursor/2023-05-04-added-the-ability-to-hide-the-tooltip-cursor-config-advanced-chat-edit-tooltip|Added the ability to hide the tooltip (Cursor config  Advanced  Chat/Edit Tooltip)]] · Interface Experience
 - [[Changes/Cursor/2023-05-04-improved-prompting-for-edits-and-generates|Improved prompting for edits and generates]] · Editor Experience
 <!-- chronolog:end -->
@@ -79,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-b62dc8|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earlier: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 - Later: 2023-05-12 · ChatGPT · [[Changes/ChatGPT/2023-05-12-plugins-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-use-third-party|Plugins: Try a new version of ChatGPT that knows when and how to use third-party…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

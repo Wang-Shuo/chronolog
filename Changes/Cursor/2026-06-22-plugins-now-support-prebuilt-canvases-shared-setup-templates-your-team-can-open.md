@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: d271a51d9a4c9e34266cdd2be55f38324d42df8119696985283beb047d75c5e4
+machine_hash: f5f6c09ca56a13c97e8c629ca3df8cbd6a26f02c82d22894fd8ff1758ec3ed17
 product: cursor
 product_name: Cursor
 record:
@@ -61,6 +61,7 @@ related_changes:
   Cup updates]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2|cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2]]'
 source_type: cursor_changelog
+superseded: true
 theme: collaboration
 title: 'Plugins now support prebuilt canvases: shared setup templates your team can
   open and reuse'

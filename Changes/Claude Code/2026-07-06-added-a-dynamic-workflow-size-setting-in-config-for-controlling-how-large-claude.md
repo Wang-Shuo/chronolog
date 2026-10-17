@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 45ad12adf855eea17634f15741e2663ee078ae1d559c3d2f63ed2463f78a936a
+machine_hash: 21fbeff4e05df9ccd797005b951911569eb07da5d855fdc6f814baff7cda83ce
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   background agent notifications in claude agents]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8|claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added a "Dynamic workflow size" setting in /config for controlling how large…
 type: change

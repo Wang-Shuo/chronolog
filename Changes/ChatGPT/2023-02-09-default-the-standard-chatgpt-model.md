@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: e50cd03ef587a0428594fac82a76cfbd841286f9da5df3ffbaf8b18b8150353c
+kind: change
+machine_hash: 1172d4630ef3bddcd56eec8d712761c2b3c8190369fef1ed3713eb431fc7c982
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,8 +31,9 @@ record:
   evidence:
   - quote: 'Default: the standard ChatGPT model'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: default-the-standard-chatgpt-model
@@ -43,8 +45,8 @@ record:
 related_changes:
 - '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
   made more improvements to the ChatGPT model!]]'
-- '[[Changes/ChatGPT/2023-01-30-we-ve-upgraded-the-chatgpt-model-with-improved-factuality-and-mathematical-capab|We’ve
-  upgraded the ChatGPT model with improved factuality and mathematical capabilities]]'
+- '[[Changes/ChatGPT/2023-01-30-we-ve-upgraded-the-chatgpt-model-with-improved-factuality-and-mathematical-capab|Factuality
+  and mathematical improvements]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524|chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -67,15 +69,15 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2023-02-09-version-selection-is-made-easy-with-a-dedicated-dropdown-menu-at-the-top-of-the|Version selection is made easy with a dedicated dropdown menu at the top of the page]] · Interface Experience
+- [[Changes/ChatGPT/2023-02-09-as-we-recently-announced-our-plus-plan-comes-with-early-access-to-new-experiment-0e68f2|As we recently announced, our Plus plan comes with early access to new, experimental…]] · Interface Experience
 - [[Changes/ChatGPT/2023-02-09-turbo-optimized-for-speed-alpha|Turbo: optimized for speed (alpha)]] · Reliability and Performance
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-01-30 · ChatGPT · [[Changes/ChatGPT/2023-01-30-we-ve-upgraded-the-chatgpt-model-with-improved-factuality-and-mathematical-capab|We’ve upgraded the ChatGPT model with improved factuality and mathematical capabilities]]
-- Later: 2023-03-14 · ChatGPT · [[Changes/ChatGPT/2023-03-14-advanced-reasoning|Advanced reasoning]]
+- Earlier: 2023-01-30 · ChatGPT · [[Changes/ChatGPT/2023-01-30-we-ve-upgraded-the-chatgpt-model-with-improved-factuality-and-mathematical-capab|Factuality and mathematical improvements]]
+- Later: 2023-03-14 · ChatGPT · [[Changes/ChatGPT/2023-03-14-we-re-excited-to-bring-gpt-4-our-latest-model-to-our-chatgpt-plus-subscribers-gp-7153e9|Announcing GPT-4 in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

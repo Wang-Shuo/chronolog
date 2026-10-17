@@ -3,7 +3,7 @@ changes_count: 4
 date: '2026-02-25'
 description: 'ChatGPT release Add sources to your projects from anywhere on 2026-02-25:
   4 tracked changes across Context Window, Apps and Integrations, Projects and…'
-machine_hash: 14cbf557b048e88a343a76a41ffaac1bd2bf710957a33fdcdda72f12c8684f6a
+machine_hash: 931a31c92f6e402e61c617494be22afda051625d95a68f9d3e28aa2821aaa45f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +40,7 @@ version: Add sources to your projects from anywhere
 <!-- chronolog:begin region="summary" -->
 Projects now make it easy to build a living knowledge base by adding sources wherever your context already lives; from apps, conversations, or quick text inputs.
 
-Tracked 4 of 5 candidate lines.
+Tracked 4 cards from 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

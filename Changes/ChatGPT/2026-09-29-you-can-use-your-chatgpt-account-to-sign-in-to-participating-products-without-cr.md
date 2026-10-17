@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-09-29 · Memory and Personalization: You can use y
   ChatGPT account to sign in to participating products without creating another password.
   The…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1167
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 363663c2b86c7e62b11b695a8d648c916300292a3e4f2f9089fd8f7f095c8a91
+kind: change
+machine_hash: 5a2a7a28f452c434aad798b8b729b03e8130bacc48f81b82f766cee78df20d7f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,8 +36,9 @@ record:
       profile picture if you have one. Signing in does not share your ChatGPT conversations
       or memory; you approve any additional access separately.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: you-can-use-your-chatgpt-account-to-sign-in-to-participating-products-without-cr
@@ -52,24 +54,24 @@ record:
     - sign in
     score: 60
     theme: account-access
-  title: You can use your ChatGPT account to sign in to participating products without…
+  title: Sign in to other products with ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-27-personalized-when-you-create-a-temporary-chat-you-can-choose-to-have-personalize|Personalized:
-  When you create a temporary chat, you can choose to have personalized…]]'
-- '[[Changes/ChatGPT/2026-08-27-we-re-rolling-out-new-controls-in-temporary-chat-you-can-now-choose-to-personali|ChatGPT
-  rolls out new controls in temporary chat]]'
+- '[[Changes/Claude Code/2026-09-25-improved-lists-in-help-hooks-copy-chrome-memory-ide-release-notes-rewind-diff-re|Improved
+  lists in /help, /hooks, /copy, /chrome, /memory, /ide…]]'
+- '[[Changes/Claude Code/2026-09-28-2-memory-and-personalization-changes-in-v2-1-284|2
+  Memory and Personalization changes in v2.1.284]]'
 - '[[Changes/ChatGPT/2026-09-29-pages-follow-space-s-availability-and-sharing-settings-sharing-a-page-does-not-g|Pages
   follow Space’s availability and sharing settings]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-sign-in-to-other-products-with-chatgpt-3054f3c5|chatgpt-2026-09-29-sign-in-to-other-products-with-chatgpt-3054f3c5]]'
 source_type: chatgpt_changelog
 theme: memory
-title: You can use your ChatGPT account to sign in to participating products without…
+title: Sign in to other products with ChatGPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# You can use your ChatGPT account to sign in to participating products without…
+# Sign in to other products with ChatGPT
 
 **ChatGPT** · 2026-09-29 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-29-sign-in-to-other-products-with-chatgpt-3054f3c5|Sign in to other products with ChatGPT]]
 <!-- chronolog:end -->
@@ -88,13 +90,13 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-pages-follow-space-s-availability-and-sharing-settings-sharing-a-page-does-not-g|Pages follow Space’s availability and sharing settings]]
-- Later: 2026-10-01 · ChatGPT · [[Changes/ChatGPT/2026-10-01-virtually-try-on-clothing-and-accessories-a-try-on-button-will-appear-on-product|Virtually try on clothing and accessories]]
+- Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-changed-memory-so-that-auto-memory-can-no-longer-be-turned-on-from-a-background|Changed /memory so that Auto-memory can no longer be turned on from a background…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

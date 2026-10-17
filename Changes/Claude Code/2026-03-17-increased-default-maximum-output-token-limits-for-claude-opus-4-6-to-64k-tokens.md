@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: ab183eb033cc1b1dc300a4568a18defbb6cee69197a7d451ad70801cbf06d2aa
+kind: change
+machine_hash: 3e5449885297914409ca328517e1c8cd379715bcfd50db38e554cc34466e8d7f
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
   - quote: Increased default maximum output token limits for Claude Opus 4.6 to 64k
       tokens, and the upper bound for Opus 4.6 and Sonnet 4.6 models to 128k tokens
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.77
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: increased-default-maximum-output-token-limits-for-claude-opus-4-6-to-64k-tokens
@@ -84,17 +86,22 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-03-17-added-allowread-sandbox-filesystem-setting-to-re-allow-read-access-within-denyre|Added allowRead sandbox filesystem setting to re-allow read access within…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-03-17-show-a-notice-when-apikeyhelper-takes-longer-than-10s-preventing-it-from-blockin|Show a notice when apiKeyHelper takes longer than 10s, preventing it from blocking…]] · Automation and Scheduling
+- [[Changes/Claude Code/2026-03-17-vscode-improved-plan-preview-tab-titles-to-use-the-plan-s-heading-instead-of-cla|VSCode Improved plan preview tab titles to use the plan's heading instead…]] · Editor Experience
 - [[Changes/Claude Code/2026-03-17-copy-now-accepts-an-optional-index-copy-n-copies-the-nth-latest-assistant-respon|/copy now accepts an optional index: /copy N copies the Nth-latest assistant response]] · Interface Experience
-- [[Changes/Claude Code/2026-03-17-fixed-always-allow-on-compound-bash-commands-e-g-cd-src-npm-test-saving-a-single|Fixed "Always Allow" on compound bash commands (e.g. cd src && npm test) saving…]] · Safety and Privacy
-- [[Changes/Claude Code/2026-03-17-fixed-pretooluse-hooks-returning-allow-bypassing-deny-permission-rules-including|Fixed PreToolUse hooks returning "allow" bypassing deny permission rules…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-03-17-2-apps-and-integrations-changes-in-v2-1-77|2 Apps and Integrations changes in v2.1.77]] · Apps and Integrations
+- [[Changes/Claude Code/2026-03-17-background-bash-tasks-are-now-killed-if-output-exceeds-5gb-preventing-runaway-pr|Background bash tasks are now killed if output exceeds 5GB, preventing runaway…]] · Developer Workflow
+- [[Changes/Claude Code/2026-03-17-faster-resume-on-fork-heavy-and-very-large-sessions-up-to-45-faster-loading-and|Faster --resume on fork-heavy and very large sessions]] · Reliability and Performance
+- [[Changes/Claude Code/2026-03-17-3-safety-and-privacy-changes-in-v2-1-77|3 Safety and Privacy changes in v2.1.77]] · Safety and Privacy
+- [[Changes/Claude Code/2026-03-17-2-mobile-and-desktop-changes-in-v2-1-77|2 Mobile and Desktop changes in v2.1.77]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-03-17-2-agent-mode-changes-in-v2-1-77|2 Agent Mode changes in v2.1.77]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
 - Earlier: 2026-03-17 · ChatGPT · [[Changes/ChatGPT/2026-03-17-thinking-deeper-reasoning-for-more-complex-tasks|Thinking – deeper reasoning for more complex tasks]]
-- Later: 2026-03-18 · ChatGPT · [[Changes/ChatGPT/2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and|ChatGPT rolls out GPT-5.4 mini]]
+- Later: 2026-03-18 · ChatGPT · [[Changes/ChatGPT/2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and|GPT-5.4 mini in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

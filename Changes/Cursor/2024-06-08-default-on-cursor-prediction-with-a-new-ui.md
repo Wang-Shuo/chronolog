@@ -4,8 +4,8 @@ date: '2024-06-08'
 description: 'Cursor · 2024-06-08 · Editor Experience: Default-on Cursor Prediction
   with a new UI'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 452
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 2d205c932ff5142ac9b922c3a9c911a1b98aae60b8660fbc53d729041f4656bb
+kind: change
+machine_hash: 0b1dd0a1adcbf3d63ea8129f64f4e0a5cfde0a9606896f67e44715904803cf8f
 product: cursor
 product_name: Cursor
 record:
@@ -30,8 +31,9 @@ record:
   evidence:
   - quote: Default-on Cursor Prediction with a new UI
     source_release: https://cursor.com/changelog/0-35-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: default-on-cursor-prediction-with-a-new-ui
@@ -41,11 +43,12 @@ record:
   title: Default-on Cursor Prediction with a new UI
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-05-26-new-cursor-prediction-ui|New Cursor Prediction UI]]'
-- '[[Changes/Cursor/2024-05-26-better-performance-of-copilot-on-linter-errors|Better
-  performance of Copilot++ on linter errors]]'
-- '[[Changes/Cursor/2024-05-26-accept-partial-completions-with-copilot|Accept partial
-  completions with Copilot++]]'
+- '[[Changes/Cursor/2024-04-12-copilot-ux-suggestion-previews-now-have-syntax-highlighting-which-we-find-makes|Copilot++
+  UX: Suggestion previews now have syntax highlighting, which we find makes…]]'
+- '[[Changes/Cursor/2024-05-26-merges-vs-code-1-89-into-cursor-38031f|Merges VS Code
+  1.89 into Cursor]]'
+- '[[Changes/Cursor/2024-05-26-accept-partial-completions-with-copilot-ce6049|Accept
+  partial completions with Copilot++]]'
 source_release: '[[Releases/Cursor/cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90|cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -68,23 +71,22 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2024-06-08-adds-context-pills-to-chat-messages-so-you-can-see-what-will-be-was-used|Adds context pills to chat messages, so you can see what will be/was used]] · Context Window
-- [[Changes/Cursor/2024-06-08-cmd-k-context-building-improvements|Cmd K context-building improvements]] · Context Window
 - [[Changes/Cursor/2024-06-08-update-0-35-1-disables-copilot-partial-accepts-by-default-and-makes-the-keybindi|UPDATE (0.35.1): Disables Copilot++ partial accepts by default and makes…]] · Model Support
 - [[Changes/Cursor/2024-06-08-remote-tunnels-are-now-supported-remote-ssh-support-is-also-more-robust-now-supp|Remote tunnels are now supported!]] · Developer Workflow
+- [[Changes/Cursor/2024-06-08-adds-context-pills-to-chat-messages-so-you-can-see-what-will-be-was-used-a324a3|Adds context pills to chat messages, so you can see what will be/was used]] · Context Window
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-05-26 · Cursor · [[Changes/Cursor/2024-05-26-accept-partial-completions-with-copilot|Accept partial completions with Copilot++]]
-- Later: 2024-07-13 · Cursor · [[Changes/Cursor/2024-07-13-this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it|This build comes with a new experimental multi-file editing feature]]
+- Earlier: 2024-05-26 · Cursor · [[Changes/Cursor/2024-05-26-accept-partial-completions-with-copilot-ce6049|Accept partial completions with Copilot++]]
+- Later: 2024-07-13 · Cursor · [[Changes/Cursor/2024-07-13-this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it|Composer (beta)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

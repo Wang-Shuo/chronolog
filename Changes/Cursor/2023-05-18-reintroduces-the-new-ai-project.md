@@ -14,9 +14,10 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 97d5ca2bd852285459772868b63e86eeea9fa67fc3d7f62a49c6faf54e5c4e99
+kind: change
+machine_hash: fc1cb69ad7782aefb5eee85842778e7453c169c64791c761192aff4eac028547
 product: cursor
 product_name: Cursor
 record:
@@ -29,8 +30,9 @@ record:
   evidence:
   - quote: Reintroduces the "New AI Project"
     source_release: https://cursor.com/changelog/0-2-17
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: reintroduces-the-new-ai-project
@@ -73,7 +75,7 @@ type: change
 ## Nearby in Projects and Workspaces
 
 - Earlier: 2023-04-19 · Cursor · [[Changes/Cursor/2023-04-19-new-experimental-feature-generate-entire-projects-from-a-single-prompt|New experimental feature: Generate entire projects from a single prompt]]
-- Later: 2023-07-21 · Cursor · [[Changes/Cursor/2023-07-21-can-see-recent-folders-on-the-new-window-screen|Can see recent folders on the new window screen]]
+- Later: 2023-07-21 · Cursor · [[Changes/Cursor/2023-07-21-can-see-recent-folders-on-the-new-window-screen|SSH and WSL fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 728e6a65d03816f4590bc5cf862081555492942aa4d54a07ff3d126d90ebcf56
+kind: change
+machine_hash: 10867a197ebbd1460b63bbc9289f10609347682e2dd67f856252748825aa026c
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   - quote: Turns off the auto-install of the "cursor ." command (and fixes its install
       altogether)
     source_release: https://cursor.com/changelog/0-2-2
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: turns-off-the-auto-install-of-the-cursor-command-and-fixes-its-install-altogethe
@@ -43,6 +45,8 @@ record:
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+- '[[Changes/Cursor/2023-03-23-terminal-no-longer-interferes-with-chat|Terminal no
+  longer interferes with chat]]'
 - '[[Changes/Cursor/2023-03-27-opens-the-terminal-in-your-current-folder|Opens the
   terminal in your current folder]]'
 source_release: '[[Releases/Cursor/cursor-2023-04-07-0-2-2-https-cursor-com-changelog-0-2-2-23ce5594|cursor-2023-04-07-0-2-2-https-cursor-com-changelog-0-2-2-23ce5594]]'

@@ -4,8 +4,8 @@ date: '2025-06-12'
 description: 'ChatGPT · 2025-06-12 · Memory and Personalization: Improvements to memory
   to reference past chats in a project*'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 693
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 2f0649ec267694a7a7317f682527be0c87e7d03116868a5d8d647c5f1e27afdb
+kind: change
+machine_hash: 3e758a1be1609f699a555d8bf73005b3237a6bb71ede3f2c57560f264e0ccf3a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Improvements to memory to reference past chats in a project*
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: improvements-to-memory-to-reference-past-chats-in-a-project
@@ -39,12 +41,10 @@ record:
   title: Improvements to memory to reference past chats in a project*
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-03-you-can-turn-off-memory-anytime-in-settings-learn-more-in-our-memory-faq|You
-  can turn off memory anytime in settings]]'
-- '[[Changes/ChatGPT/2025-06-03-free-users-in-eea-eu-uk-switzerland-norway-iceland-or-liechtenstein-will-see-a-p|Free
-  users in EEA (EU + UK), Switzerland, Norway, Iceland, or Liechtenstein will see…]]'
-- '[[Changes/ChatGPT/2025-06-03-outside-the-european-regions-listed-above-all-free-users-that-have-memory-enable|Outside
-  the European regions listed above, all Free users that have memory enabled…]]'
+- '[[Changes/ChatGPT/2025-05-08-enhanced-memory-rolling-out-to-all-plus-and-pro-users-including-the-eu-the-new-m|Enhanced
+  memory rolling out to all Plus and Pro users (including the EU)]]'
+- '[[Changes/ChatGPT/2025-06-03-opt-in-reminders-e08369|Opt‑in reminders]]'
+- '[[Changes/Cursor/2025-06-04-memories|Memories]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8|chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -67,6 +67,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload files and access model selector on mobile]] · Mobile and Desktop
 - [[Changes/ChatGPT/2025-06-12-sharing-chats-from-projects|Sharing chats from projects]] · Collaboration
 - [[Changes/ChatGPT/2025-06-12-starting-a-new-project-directly-from-a-chat|Starting a new project directly from a chat]] · Projects and Workspaces
 - [[Changes/ChatGPT/2025-06-12-starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d|Starting today, we’re adding several updates to projects in ChatGPT to help you do…]] · Collaboration
@@ -76,14 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-06-03 · ChatGPT · [[Changes/ChatGPT/2025-06-03-outside-the-european-regions-listed-above-all-free-users-that-have-memory-enable|Outside the European regions listed above, all Free users that have memory enabled…]]
-- Later: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-memories-is-now-ga-since-1-0-we-ve-improved-memory-generation-quality-added-in-e|Memories is now GA]]
+- Earlier: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-memories|Memories]]
+- Later: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-memories-is-now-ga-since-1-0-we-ve-improved-memory-generation-quality-added-in-e|Memories (now GA)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

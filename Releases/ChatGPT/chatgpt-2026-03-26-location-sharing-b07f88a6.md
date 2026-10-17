@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-03-26'
 description: 'ChatGPT release Location Sharing on 2026-03-26: 1 tracked change across
   Mobile and Desktop'
-machine_hash: c56037d5d38123b588115ef99a3f54843ae5471ad69ebe562e5367fd6d8dd004
+machine_hash: 736d7f6f87cb953fccc7f6a027e080a7c5f719dfdf2f196cb8d75ff846ceb249
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: Location Sharing
 <!-- chronolog:begin region="summary" -->
 Users can now choose to share their device location so ChatGPT can provide more relevant information, such as local recommendations, news, and weather. Sharing your device location is completely optional and off until you choose to enable it. You can update device location sharing in Settings > Data Controls at any…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-03-26-users-can-now-choose-to-share-their-device-location-so-chatgpt-can-provide-more-7907ed|Users can now choose to share their device location so ChatGPT can provide more…]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-03-26-users-can-now-choose-to-share-their-device-location-so-chatgpt-can-provide-more-7907ed|Location Sharing]] · Mobile and Desktop
 <!-- chronolog:end -->

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3801af7b17786a313eea23a6af7b241e4ec4585fa4a53f544c63dba9f70a7b51
+machine_hash: 6d157ce7967eaa509fa874c38296722c2fb34a2111f19ab132e15041f9cef17f
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   rules directly from a conversation using the /Generate Cursor Rules command]]'
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: Premium tool calls and long context mode are removed to keep it simple
 type: change

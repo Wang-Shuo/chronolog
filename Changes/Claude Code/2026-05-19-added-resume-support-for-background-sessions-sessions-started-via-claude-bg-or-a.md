@@ -4,8 +4,8 @@ date: '2026-05-19'
 description: 'Claude Code · 2026-05-19 · Agent Mode: Added `/resume` support for background
   sessions — sessions started via `claude --bg` or agent view now appear alongside…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1048
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: cf390960b0a7c97b1d69c3dc17dc3ed33d85f2a1f8fae786c222db6380be75bc
+kind: change
+machine_hash: 07b8eee693ac223501212fe344d7e73ac998bc043df5835efc92d550d97b923b
 product: claude-code
 product_name: Claude Code
 record:
@@ -33,8 +34,9 @@ record:
       `claude --bg` or agent view now appear alongside interactive ones, marked with
       `bg`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.144
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-resume-support-for-background-sessions-sessions-started-via-claude-bg-or-a
@@ -44,10 +46,10 @@ record:
   title: Added `/resume` support for background sessions
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-this-includes-support-for-build-secrets-making-it-easy-to-securely-access-privat|This
-  includes support for build secrets, making it easy to securely access private…]]'
-- '[[Changes/Cursor/2026-05-13-this-release-introduces-new-tools-for-teams-to-configure-development-environment|Cursor
-  introduces new tools for teams to configure development environments…]]'
+- '[[Changes/Claude Code/2026-05-14-improved-hook-configuration-error-configuring-a-prompt-or-agent-type-hook-for-se|Improved
+  hook configuration error]]'
+- '[[Changes/Claude Code/2026-05-15-2-agent-mode-changes-in-v2-1-143|2 Agent Mode
+  changes in v2.1.143]]'
 - '[[Changes/Cursor/2026-05-18-composer-2-5-is-now-available-in-cursor|Composer 2.5
   is now available in Cursor]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-144-github-324524751-1469637a|claude-code-2026-05-19-v2-1-144-github-324524751-1469637a]]'
@@ -72,23 +74,29 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-05-19-fewer-spurious-tool-errors-during-search-head-tail-file-views-now-satisfy-the-re|Fewer spurious tool errors during search]] · Editor Experience
 - [[Changes/Claude Code/2026-05-19-the-plugin-browse-and-discover-panes-now-show-when-a-plugin-was-last-updated|The /plugin browse and discover panes now show when a plugin was last updated]] · Search and Browsing
+- [[Changes/Claude Code/2026-05-19-resumed-sessions-now-keep-the-model-they-were-using-instead-of-picking-up-anothe|Resumed sessions now keep the model they were using instead of picking up another…]] · Model Support
 - [[Changes/Claude Code/2026-05-19-renamed-extra-usage-to-usage-credits-across-cli-copy-extra-usage-is-now-usage-cr|Renamed "extra usage" to "usage credits" across CLI copy]] · Pricing Model
+- [[Changes/Claude Code/2026-05-19-fixed-skill-tool-failing-with-permission-error-in-headless-mode-regression-in-v2|Fixed Skill tool failing with permission error in headless mode (regression in v2.1.141)]] · Safety and Privacy
+- [[Changes/Claude Code/2026-05-19-3-agent-mode-changes-in-v2-1-144|3 Agent Mode changes in v2.1.144]] · Agent Mode
+- [[Changes/Claude Code/2026-05-19-3-developer-workflow-changes-in-v2-1-144|3 Developer Workflow changes in v2.1.144]] · Developer Workflow
+- [[Changes/Claude Code/2026-05-19-3-apps-and-integrations-changes-in-v2-1-144|3 Apps and Integrations changes in v2.1.144]] · Apps and Integrations
 - [[Changes/Claude Code/2026-05-19-model-now-changes-the-model-for-the-current-session-only-press-d-in-the-model-pi|/model now changes the model for the current session only]] · Interface Experience
-- [[Changes/Claude Code/2026-05-19-added-elapsed-duration-to-background-subagent-completion-notifications-e-g-agent|Added elapsed duration to background subagent completion notifications…]] · Agent Mode
+- [[Changes/Claude Code/2026-05-19-the-post-survey-follow-up-hint-now-appears-after-every-non-dismiss-survey-respon|The post-survey follow-up hint now appears after every non-dismiss survey response…]] · Context Window
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-18 · Cursor · [[Changes/Cursor/2026-05-18-composer-2-5-is-now-available-in-cursor|Composer 2.5 is now available in Cursor]]
-- Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-claude-agents-terminal-tab-title-now-shows-the-awaiting-input-count-so-an-alt-ta|claude agents terminal tab title now shows the awaiting-input count…]]
+- Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-3-agent-mode-changes-in-v2-1-145|3 Agent Mode changes in v2.1.145]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

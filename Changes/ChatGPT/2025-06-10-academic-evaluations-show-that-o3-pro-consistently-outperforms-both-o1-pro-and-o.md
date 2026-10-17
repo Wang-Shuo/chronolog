@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b3506278dd0c3b180a4e3f14456eaecee6e1467fbbb584248fb6bd1fc714d90a
+machine_hash: 37c1826719fadc7300e36e960dc5d9a6c03e2921eb973b891169473209db5b67
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,6 +52,7 @@ related_changes:
   mini is a fast, capable, and efficient small model, delivering significant…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-10-today-we-re-launching-openai-o3-pro-available-now-for-pro-users-43fd47c2|chatgpt-2025-06-10-today-we-re-launching-openai-o3-pro-available-now-for-pro-users-43fd47c2]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: Academic evaluations show that o3-pro consistently outperforms both o1-pro
   and o3

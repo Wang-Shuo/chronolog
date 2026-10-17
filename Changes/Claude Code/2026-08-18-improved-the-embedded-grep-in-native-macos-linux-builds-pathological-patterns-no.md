@@ -5,8 +5,8 @@ description: 'Claude Code · 2026-08-18 · Memory and Personalization: Improved 
   embedded `grep` in native macOS/Linux builds: pathological patterns now fail fast
   instead…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1125
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 8ee8d2aef14d81eeced53213be4eda790171667946c509d11e4b9a2d27c4d645
+kind: change
+machine_hash: a9f4d0734a3f490d0ad15be1eba4150e15130755f5e9cfda6979c56bc9878bfa
 product: claude-code
 product_name: Claude Code
 record:
@@ -32,8 +33,9 @@ record:
       patterns now fail fast instead of exhausting memory, and `-m N` with `-A/-C`
       prints correct context'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.235
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-the-embedded-grep-in-native-macos-linux-builds-pathological-patterns-no
@@ -56,10 +58,10 @@ record:
   title: Improved the embedded `grep` in native macOS/Linux builds
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-14-this-update-is-available-on-all-chatgpt-plans-shared-projects-continue-to-use-pr|This
-  update is available on all ChatGPT plans]]'
-- '[[Changes/ChatGPT/2026-08-14-you-can-now-change-a-project-s-memory-setting-after-you-create-it-open-the-proje|Change
-  a project’s memory setting after you create it]]'
+- '[[Changes/ChatGPT/2026-08-14-we-ve-made-it-easier-to-study-with-interactive-quizzes-manage-project-memory-and|ChatGPT
+  makes it easier to study with interactive quizzes, manage project memory…]]'
+- '[[Changes/ChatGPT/2026-08-14-you-can-now-change-a-project-s-memory-setting-after-you-create-it-open-the-proje-b36ffe|Edit
+  memory settings for existing projects]]'
 - '[[Changes/Claude Code/2026-08-14-added-opt-in-memory-cgroup-support-for-bash-tool-commands-on-linux-claude-code-t|Added
   opt-in memory cgroup support for Bash tool commands on Linux…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f|claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f]]'
@@ -84,22 +86,23 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-08-18-improved-permission-dialogs-display-text-and-don-t-ask-again-options-now-always|Improved permission dialogs]] · Safety and Privacy
-- [[Changes/Claude Code/2026-08-18-improved-memory-and-cpu-usage-while-cloud-sessions-such-as-ultrareview-or-autofi|Improved memory and CPU usage while cloud sessions such as /ultrareview…]] · Memory and Personalization
-- [[Changes/Claude Code/2026-08-18-fixed-shift-tab-inside-the-permission-prompt-s-comment-field-approving-the-edit|Fixed Shift+Tab inside the permission prompt's comment field approving the edit…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-08-18-improved-the-context-limit-error-to-say-when-auto-compact-is-off-and-point-to-co|Improved the context-limit error to say when auto-compact is off and point…]] · Context Window
+- [[Changes/Claude Code/2026-08-18-improved-memory-and-cpu-usage-while-cloud-sessions-such-as-ultrareview-or-autofi|Improved memory and CPU usage while cloud sessions such as /ultrareview…]] · Reliability and Performance
+- [[Changes/Claude Code/2026-08-18-remote-control-claude-rc-now-applies-the-same-enterprise-gateway-availability-ch|Remote Control: claude rc now applies the same enterprise-gateway availability…]] · Enterprise and Administration
+- [[Changes/Claude Code/2026-08-18-2-safety-and-privacy-changes-in-v2-1-235|2 Safety and Privacy changes in v2.1.235]] · Safety and Privacy
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-added-opt-in-memory-cgroup-support-for-bash-tool-commands-on-linux-claude-code-t|Added opt-in memory cgroup support for Bash tool commands on Linux…]]
-- Later: 2026-08-27 · ChatGPT · [[Changes/ChatGPT/2026-08-27-saving-a-temporary-chat-when-a-conversation-becomes-useful-for-the-future-you-ca|Saving a temporary chat]]
+- Later: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-updated-the-bundled-claude-api-skill-for-the-managed-agents-aug-19-release-web-s|Updated the bundled claude-api skill for the Managed Agents Aug 19 release]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

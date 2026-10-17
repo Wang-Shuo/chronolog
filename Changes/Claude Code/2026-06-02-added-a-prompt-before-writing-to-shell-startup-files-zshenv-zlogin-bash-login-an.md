@@ -14,9 +14,10 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f72e897679fb16307c8ee90c4484babd5bd9ed50fdf19bfd89f78e6b891d49e8
+kind: change
+machine_hash: 4a93123a091ac57bda12dd560a46f9f420482e8ebc25c8109bbdfa3fbddd063e
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
       `.bash_login`) and `~/.config/git/`, which could otherwise lead to unintended
       command execution
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.160
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-a-prompt-before-writing-to-shell-startup-files-zshenv-zlogin-bash-login-an
@@ -42,8 +44,8 @@ record:
   title: Added a prompt before writing to shell startup files…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-06-improved-visual-consistency-in-slash-command-dialogs-and-login-upgrade-extra-usa|Improved
-  visual consistency in slash command dialogs and /login, /upgrade…]]'
+- '[[Changes/Claude Code/2026-05-13-bedrock-awscredentialexport-now-always-runs-when-configured-instead-of-being-ski|Bedrock:
+  awsCredentialExport now always runs when configured instead of being…]]'
 - '[[Changes/ChatGPT/2026-06-02-active-sessions-shows-sessions-known-through-session-management-including-chatgp|Active
   sessions shows sessions known through session management, including ChatGPT…]]'
 - '[[Changes/ChatGPT/2026-06-02-log-out-of-individual-sessions-or-all-sessions-from-active-sessions|Log
@@ -71,16 +73,18 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-06-02-improved-auto-mode-classifier-latency-by-reducing-reasoning-on-routine-actions-l|Improved auto mode classifier latency by reducing reasoning on routine actions…]] · Reliability and Performance
-- [[Changes/Claude Code/2026-06-02-acceptedits-mode-now-prompts-before-writing-build-tool-config-files-that-grant-c|acceptEdits mode now prompts before writing build-tool config files that grant…]] · Developer Workflow
+- [[Changes/Claude Code/2026-06-02-removed-claude-code-opus-4-6-fast-mode-override-the-environment-variable-is-now|Removed CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE; the environment variable is now a no-op]] · Model Support
+- [[Changes/Claude Code/2026-06-02-2-developer-workflow-changes-in-v2-1-160|2 Developer Workflow changes in v2.1.160]] · Developer Workflow
 - [[Changes/Claude Code/2026-06-02-edit-no-longer-requires-a-separate-read-after-viewing-a-file-with-grep-single-fi|Edit no longer requires a separate Read after viewing a file with grep]] · Editor Experience
 - [[Changes/Claude Code/2026-06-02-improved-performance-of-opening-recently-inactive-background-agent-sessions-in-c|Improved performance of opening recently-inactive background agent sessions…]] · Agent Mode
+- [[Changes/Claude Code/2026-06-02-removed-the-jetbrains-plugin-install-suggestion-from-startup|Removed the JetBrains plugin install suggestion from startup]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
 - Earlier: 2026-06-02 · ChatGPT · [[Changes/ChatGPT/2026-06-02-log-out-of-individual-sessions-or-all-sessions-from-active-sessions|Log out of individual sessions or all sessions from Active sessions]]
-- Later: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-added-claude-mcp-login-name-and-claude-mcp-logout-name-to-authenticate-mcp-serve|Added claude mcp login name and claude mcp logout name to authenticate MCP…]]
+- Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-improved-the-error-message-shown-when-your-organization-has-disabled-api-key-aut|Improved the error message shown when your organization has disabled API key…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

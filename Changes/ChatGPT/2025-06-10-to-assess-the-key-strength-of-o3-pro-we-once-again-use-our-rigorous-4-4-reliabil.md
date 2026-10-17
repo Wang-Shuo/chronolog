@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 29bd84e5687d4c3239c7224b185e8284d9eaff2ea6f038832097ad45376d0464
+machine_hash: 7ea6734fcac61f0bfb154605f2abd18d525001d87eb2285e951b9cca5b0263d2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,6 +57,7 @@ related_changes:
   evaluations show that o3-pro consistently outperforms both o1-pro and o3]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-10-today-we-re-launching-openai-o3-pro-available-now-for-pro-users-43fd47c2|chatgpt-2025-06-10-today-we-re-launching-openai-o3-pro-available-now-for-pro-users-43fd47c2]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: To assess the key strength of o3-pro, we once again use our rigorous…
 type: change

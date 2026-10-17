@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: f7124dd933380f8ebf720b97a8b070eda17e23261c8e5a5166ca3047442dded0
+machine_hash: 669305f2204226eea4856f43431c5df993142c1b47aa087ce7598e38f0886c49
 product: cursor
 product_name: Cursor
 record:
@@ -48,6 +48,7 @@ related_changes:
   composers support, composer control panel, and various bug fixes such…]]'
 source_release: '[[Releases/Cursor/cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e|cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Agent auto-saves changes to disk
 type: change

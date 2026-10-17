@@ -14,9 +14,10 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 4f4a568c092aa92566460d6080d7b801a7db47e04ffd4240042d604f6567dea9
+kind: change
+machine_hash: 580d47840247e3dfc201b094af34af9f7493d40d91d1b5a824b0fd08a6d8c220
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,8 +33,9 @@ record:
       ChatGPT, rename your saved conversations and delete the ones you don’t want
       to keep. We are gradually rolling out this feature.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9225ba43be7bda7b1ea0b69ad09f4905d5e51be74da7dd43f7ee54c593c67704
+machine_hash: 4f213c4735e67f3a6caa985cf9d5136ca47caaa534de6532b058dcc164652de6
 product: cursor
 product_name: Cursor
 record:
@@ -65,6 +65,7 @@ related_changes:
   a "Skills" section to the /plugin Installed tab]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2|cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: Add and manage plugins, skills, MCPs, subagents, rules, commands, and hooks…
 type: change

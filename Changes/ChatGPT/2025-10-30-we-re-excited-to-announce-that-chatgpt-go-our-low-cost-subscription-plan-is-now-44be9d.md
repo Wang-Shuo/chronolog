@@ -15,9 +15,10 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 4c7304d7674516b1f61c11be4233889586425c93d986a3348cfcd47b9d296444
+kind: expansion
+machine_hash: 29d961e7ed3f49ed673c9a70552bbb2732ff0a47afb46093a9fa88213dd329dd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,8 +40,9 @@ record:
       Norway, Poland, Portugal, Spain and Sweden.For an affordable price, ChatGPT
       Go provides everything included in the Free plan, and:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: expansion
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now
@@ -66,7 +68,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT Go, our low cost subscription plan, is now available in 8 additional…
 
-**ChatGPT** · 2025-10-30 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-10-30-chatgpt-go-expansion-37d00d9f|ChatGPT Go expansion]]
+**ChatGPT** · 2025-10-30 · [[Themes/pricing-model|Pricing Model]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-10-30-chatgpt-go-expansion-37d00d9f|ChatGPT Go expansion]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -86,7 +88,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-10-28 · ChatGPT · [[Changes/ChatGPT/2025-10-28-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-brazil-chatgpt-go-p|ChatGPT launches ChatGPT Go, our low cost subscription plan, in Brazil]]
-- Later: 2025-11-03 · ChatGPT · [[Changes/ChatGPT/2025-11-03-eligible-customers-in-india-can-now-get-12-months-of-chatgpt-go-at-no-cost-new-u|Eligible customers in India can now get 12 months of ChatGPT Go at no cost]]
+- Later: 2025-11-03 · ChatGPT · [[Changes/ChatGPT/2025-11-03-eligible-customers-in-india-can-now-get-12-months-of-chatgpt-go-at-no-cost-new-u|ChatGPT Go Promo - India]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

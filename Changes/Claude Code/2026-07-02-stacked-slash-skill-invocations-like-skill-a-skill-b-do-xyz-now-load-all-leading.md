@@ -5,8 +5,8 @@ description: 'Claude Code · 2026-07-02 · Apps and Integrations: Stacked slash-
   invocations like `/skill-a /skill-b do XYZ` now load all leading skills (up to 5),
   not…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1197
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 78056b8ba1bcdc266a62006a7899f2656236440b2be59c52c59f0c429dfc262a
+kind: change
+machine_hash: 033201220139cfe5d9c023c68f5942f6e637b155c5fdec7041538140ad10d9b0
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Stacked slash-skill invocations like `/skill-a /skill-b do XYZ` now load
       all leading skills (up to 5), not just the first
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.199
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: stacked-slash-skill-invocations-like-skill-a-skill-b-do-xyz-now-load-all-leading
@@ -44,8 +46,8 @@ record:
     all leading…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-30-admins-can-now-configure-team-mcp-servers-once-and-distribute-them-across-cloud|Admins
-  can now configure Team MCP servers once and distribute them across cloud…]]'
+- '[[Changes/Claude Code/2026-06-29-remote-control-is-now-disabled-when-anthropic-base-url-points-at-a-non-anthropic|Remote
+  Control is now disabled when ANTHROPIC_BASE_URL points at a non-Anthropic…]]'
 - '[[Changes/Claude Code/2026-07-01-claude-in-chrome-is-now-generally-available|Claude
   in Chrome is now generally available]]'
 - '[[Changes/Claude Code/2026-07-01-added-dataviz-skill-for-chart-and-dashboard-design-guidance-with-a-runnable-colo|Added
@@ -74,8 +76,7 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-07-02-claude-agents-session-rows-now-show-pull-request-links-as-bare-n-without-the-red|claude agents session rows now show pull-request links as bare ♯N without…]] · Developer Workflow
-- [[Changes/Claude Code/2026-07-02-transient-server-rate-limit-errors-429s-unrelated-to-your-usage-limit-are-now-re|Transient server rate-limit errors (429s unrelated to your usage limit) are now…]] · Reliability and Performance
-- [[Changes/Claude Code/2026-07-02-claude-code-retry-watchdog-now-raises-the-default-retry-count-for-non-capacity-t|CLAUDE_CODE_RETRY_WATCHDOG now raises the default retry count for non-capacity…]] · Reliability and Performance
+- [[Changes/Claude Code/2026-07-02-2-reliability-and-performance-changes-in-v2-1-199|2 Reliability and Performance changes in v2.1.199]] · Reliability and Performance
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
@@ -88,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

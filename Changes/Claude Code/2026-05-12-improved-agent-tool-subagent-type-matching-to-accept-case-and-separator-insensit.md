@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 8b594c2af424f8dcf0f70d4c71cd5218f4c4e9ca307c7f1329db6cec093bfd31
+machine_hash: 40f75ce4e96cc20f2acfc44dd7ac768ab1243067663ab3164c95430a8d6f5426
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   @Cursor in any Teams channel to delegate a task to a cloud agent or pull…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-12-v2-1-140-github-321395205-971146de|claude-code-2026-05-12-v2-1-140-github-321395205-971146de]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Improved Agent tool subagent_type matching to accept case…
 type: change

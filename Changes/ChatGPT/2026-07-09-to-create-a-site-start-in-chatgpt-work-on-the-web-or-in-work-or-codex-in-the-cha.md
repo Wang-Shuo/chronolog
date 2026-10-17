@@ -15,9 +15,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 55ad0061f5de99d5330aa74495a90a4f5f8aa4d64d1b35ae6f5080b9e6cc8c2f
+kind: change
+machine_hash: 6bf75da1ee99d194f9284b1cfa315550a26f3a2b39ead98d822723e0367dd90c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,8 +35,9 @@ record:
       content, files, data, links, or constraints, and review the private preview
       before publishing.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: to-create-a-site-start-in-chatgpt-work-on-the-web-or-in-work-or-codex-in-the-cha
@@ -82,7 +84,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-29 · Cursor · [[Changes/Cursor/2026-06-29-cursor-for-ios-is-now-available-in-public-beta-on-all-paid-plans-launch-and-mana|Cursor for iOS is now available in public beta on all paid plans]]
-- Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi|The new ChatGPT desktop app is available globally for macOS and Windows]]
+- Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi-ae6433|The new ChatGPT desktop app brings Chat, Work, and Codex together]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

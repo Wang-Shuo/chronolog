@@ -14,7 +14,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: d9cb29954817e2d76f713971c0fcd979bc3c10bf4f904e2c15abd3765f5a4af8
+machine_hash: b79a3cc894bc726b7cf2c9ee96b04d5730881d6b5fe0b9167def0bc612df3b99
 product: cursor
 product_name: Cursor
 record:
@@ -48,6 +48,7 @@ related_changes:
   Run & debug in Cursor again (the toolbar is back)]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-27-0-2-36-https-cursor-com-changelog-0-2-36-fa4e4f8d|cursor-2023-06-27-0-2-36-https-cursor-com-changelog-0-2-36-fa4e4f8d]]'
 source_type: cursor_changelog
+superseded: true
 theme: developer-workflow
 title: Early support for slash commands
 type: change

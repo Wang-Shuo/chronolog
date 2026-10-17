@@ -1,9 +1,9 @@
 ---
-changes_count: 3
+changes_count: 5
 date: '2026-08-14'
-description: 'ChatGPT release ChatGPT app experience updates on 2026-08-14: 3 tracked
-  changes across Memory and Personalization, Mobile and Desktop'
-machine_hash: dfe5f23d80e27fbc28257a188f1a89797907f073343e759cec1def2745eb4d29
+description: 'ChatGPT release ChatGPT app experience updates on 2026-08-14: 5 tracked
+  changes across Mobile and Desktop, Memory and Personalization, Voice and Audio'
+machine_hash: 2816e733cc6d678865208059a987fb458f7bb890a3a64e618d1a69aeddc591a8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,12 +39,14 @@ version: ChatGPT app experience updates
 <!-- chronolog:begin region="summary" -->
 We’ve made it easier to study with interactive quizzes, manage project memory, and move between typing, dictation, and desktop work.
 
-Tracked 3 of 11 candidate lines.
+Tracked 5 cards from 11 candidate lines; 3 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
+- [[Changes/ChatGPT/2026-08-14-work-in-the-built-in-browser-or-chrome-browser-actions-are-available-in-the-linu|Work in the built-in browser or Chrome]] · Mobile and Desktop
 - [[Changes/ChatGPT/2026-08-14-we-ve-made-it-easier-to-study-with-interactive-quizzes-manage-project-memory-and|ChatGPT makes it easier to study with interactive quizzes, manage project memory…]] · Memory and Personalization
-- [[Changes/ChatGPT/2026-08-14-change-an-existing-project-s-memory-setting-for-eligible-unshared-projects-switc|Change an existing project’s memory setting]] · Memory and Personalization
-- [[Changes/ChatGPT/2026-08-14-practice-with-interactive-quizzes-ask-chatgpt-to-quiz-you-on-a-topic-and-answer|Practice with interactive quizzes]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-08-14-learning-projects-and-personalized-suggestions|Learning, Projects, and personalized suggestions]] · Mobile and Desktop · Launch
+- [[Changes/ChatGPT/2026-08-14-use-chatgpt-and-codex-on-linux-the-desktop-app-is-now-available-globally-in-publ|Use ChatGPT and Codex on Linux]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-08-14-switch-between-typing-and-dictation-the-dictation-button-stays-available-after-y|Switch between typing and dictation]] · Voice and Audio
 <!-- chronolog:end -->

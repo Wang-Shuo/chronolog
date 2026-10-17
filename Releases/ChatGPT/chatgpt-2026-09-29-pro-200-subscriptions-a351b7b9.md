@@ -1,9 +1,9 @@
 ---
-changes_count: 2
+changes_count: 1
 date: '2026-09-29'
-description: 'ChatGPT release Pro 200 subscriptions on 2026-09-29: 2 tracked changes
+description: 'ChatGPT release Pro 200 subscriptions on 2026-09-29: 1 tracked change
   across Pricing Model'
-machine_hash: 4bf62cb36b4ceab8444066872e567456271074ed6712e32707cf36a17ed541d1
+machine_hash: 374d8611eb9f295192d6b29539b9daa6b6a515b504e7fe6061c2e302f51af919
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,11 +38,10 @@ version: Pro 200 subscriptions
 <!-- chronolog:begin region="summary" -->
 Pro 200 is available for new subscriptions again at $200/month.
 
-Tracked 2 of 3 candidate lines.
+Tracked 1 card from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-09-29-pro-200-is-available-for-new-subscriptions-again-at-200-month|Pro 200 is available for new subscriptions again at $200/month]] · Pricing Model
-- [[Changes/ChatGPT/2026-09-29-included-usage-allowances-are-changing-users-affected-by-these-changes-will-rece|Included usage allowances are changing]] · Pricing Model
+- [[Changes/ChatGPT/2026-09-29-pro-200-is-available-for-new-subscriptions-again-at-200-month-5ed430|Pro 200 subscriptions]] · Pricing Model · Pricing
 <!-- chronolog:end -->

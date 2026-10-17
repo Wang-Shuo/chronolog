@@ -1,9 +1,9 @@
 ---
-changes_count: 3
+changes_count: 2
 date: '2026-03-04'
-description: 'Cursor release Cursor in JetBrains IDEs on 2026-03-04: 3 tracked changes
+description: 'Cursor release Cursor in JetBrains IDEs on 2026-03-04: 2 tracked changes
   across Agent Mode, Editor Experience'
-machine_hash: 5bae86646f37f5df323ff8deebd31879d4037fab6729d07785aee7c305adb14b
+machine_hash: 7123ca46fbf4e17c7efe5af1160a1a6f79add44b72158c45be21fe35d88540fa
 product: cursor
 product_name: Cursor
 record:
@@ -39,12 +39,11 @@ version: Cursor in JetBrains IDEs
 <!-- chronolog:begin region="summary" -->
 Cursor is now available in IntelliJ IDEA, PyCharm, WebStorm, and other JetBrains IDEs through the Agent Client Protocol (ACP).
 
-Tracked 3 of 4 candidate lines.
+Tracked 2 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-03-04-with-cursor-acp-developers-who-rely-on-jetbrains-for-java-and-multilanguage-supp|With Cursor ACP, developers who rely on JetBrains for Java and multilanguage support…]] · Agent Mode
+- [[Changes/Cursor/2026-03-04-cursor-is-now-available-in-intellij-idea-pycharm-webstorm-and-other-jetbrains-id-2dc9cd|Cursor is now available in IntelliJ IDEA, PyCharm, WebStorm, and other JetBrains…]] · Agent Mode · Expansion
 - [[Changes/Cursor/2026-03-04-install-the-cursor-acp-directly-in-your-jetbrains-ide-from-the-acp-registry-and|Install the Cursor ACP directly in your JetBrains IDE from the ACP Registry…]] · Editor Experience
-- [[Changes/Cursor/2026-03-04-cursor-is-now-available-in-intellij-idea-pycharm-webstorm-and-other-jetbrains-id|Cursor is now available in IntelliJ IDEA, PyCharm, WebStorm, and other JetBrains…]] · Agent Mode
 <!-- chronolog:end -->

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c2cd4d34e152629d5f7562ea9c1927bfee9e6de812a0034ce567ec5b44cb75f1
+machine_hash: 4499cf9f431b1755d906fb24e20d86e08e90326b1577a641da5747d6a338c8aa
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   support for multi-line prompts in claude-cli://open?q= deep links…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc|claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added MCP tool result persistence override…
 type: change

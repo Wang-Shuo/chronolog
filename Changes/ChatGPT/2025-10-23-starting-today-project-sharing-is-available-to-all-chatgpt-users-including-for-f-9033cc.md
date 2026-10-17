@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 00185738aee0dce33f48a06a6b0722a628213c5e7e8cec87277b05402c1f9640
+machine_hash: e2935d6d877e78c1361e22919d9f49cf2ebfa8d67ee245d8931329c81ffd2985
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -70,6 +70,7 @@ related_changes:
   on web, mobile (iOS & Android), and desktop (macOS & Windows)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-23-shared-projects-217fa07d|chatgpt-2025-10-23-shared-projects-217fa07d]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: mobile-desktop
 title: Starting today, project sharing is available to all ChatGPT users, including…
 type: change

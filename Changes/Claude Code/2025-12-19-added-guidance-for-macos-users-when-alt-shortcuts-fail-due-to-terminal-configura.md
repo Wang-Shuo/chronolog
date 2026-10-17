@@ -14,9 +14,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 589fcbdd00abeb8d02e13467c4068e957dd749d25bbefcf0aa077637153e7ecf
+kind: change
+machine_hash: 009b1de1c43462837deb4065666a37195f12b7314e300935ce8cc27169cec922
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added guidance for macOS users when Alt shortcuts fail due to terminal
       configuration
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.0.74
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-guidance-for-macos-users-when-alt-shortcuts-fail-due-to-terminal-configura
@@ -50,12 +52,12 @@ record:
   title: Added guidance for macOS users when Alt shortcuts fail due to terminal configuration
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-9033cc|Starting
+- '[[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-3f946e|Starting
   today, project sharing is available to all ChatGPT users, including…]]'
-- '[[Changes/ChatGPT/2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05|We’re
-  piloting group chats so you can bring people - and ChatGPT - into the same…]]'
-- '[[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|Pin
-  chats to the top of your list for quick access to important conversations]]'
+- '[[Changes/ChatGPT/2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05|Group
+  chats in ChatGPT]]'
+- '[[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|Pinned
+  chats in ChatGPT]]'
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10|claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -78,16 +80,16 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2025-12-19-added-syntax-highlighting-info-to-theme-picker|Added syntax highlighting info to theme picker]] · Interface Experience
 - [[Changes/Claude Code/2025-12-19-added-lsp-language-server-protocol-tool-for-code-intelligence-features-like-go-t|Added LSP (Language Server Protocol) tool for code intelligence features like…]] · Developer Workflow
-- [[Changes/Claude Code/2025-12-19-added-ctrl-t-shortcut-in-theme-to-toggle-syntax-highlighting-on-off|Added ctrl+t shortcut in /theme to toggle syntax highlighting on/off]] · Interface Experience
 - [[Changes/Claude Code/2025-12-19-added-terminal-setup-support-for-kitty-alacritty-zed-and-warp-terminals|Added /terminal-setup support for Kitty, Alacritty, Zed, and Warp terminals]] · Developer Workflow
+- [[Changes/Claude Code/2025-12-19-2-interface-experience-changes-in-v2-0-74|2 Interface Experience changes in v2.0.74]] · Interface Experience
+- [[Changes/Claude Code/2025-12-19-improved-context-command-visualization-with-grouped-skills-and-agents-by-source|Improved /context command visualization with grouped skills and agents by source…]] · Context Window
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-12-18 · ChatGPT · [[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|Pin chats to the top of your list for quick access to important conversations]]
+- Earlier: 2025-12-18 · ChatGPT · [[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|Pinned chats in ChatGPT]]
 - Later: 2026-01-07 · ChatGPT · [[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health appears as a new space in the ChatGPT sidebar]]
 <!-- chronolog:end -->
 

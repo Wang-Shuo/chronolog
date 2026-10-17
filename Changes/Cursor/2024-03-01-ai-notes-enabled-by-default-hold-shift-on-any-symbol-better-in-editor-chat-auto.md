@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f73e10222f7288efbcaa3dfe37e69a1dee38e328b6452754467421447cb4f7f8
+kind: change
+machine_hash: 6213e0714fd2e7e01fc39515e49c9507bf7c59bf2c5b813e12f4db13458ffdba
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +32,9 @@ record:
       chat, auto-execute interpreter mode, better onboarding styling, nicer feedback
       modal, and a few stability fixes.
     source_release: https://cursor.com/changelog/0-29-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto
@@ -49,8 +51,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v1
-  title: AI Notes enabled by default (hold shift on any symbol), better in-editor
-    chat…
+  title: Polish
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-02-02-you-can-now-drag-images-into-the-command-k-prompt-bar|Drag
@@ -62,12 +63,12 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-03-01-0-29-x-https-cursor-com-changelog-0-29-x-259e5626|cursor-2024-03-01-0-29-x-https-cursor-com-changelog-0-29-x-259e5626]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: AI Notes enabled by default (hold shift on any symbol), better in-editor chat…
+title: Polish
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# AI Notes enabled by default (hold shift on any symbol), better in-editor chat…
+# Polish
 
 **Cursor** · 2024-03-01 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://cursor.com/changelog/0-29-x) · from [[Releases/Cursor/cursor-2024-03-01-0-29-x-https-cursor-com-changelog-0-29-x-259e5626|Polish]]
 <!-- chronolog:end -->

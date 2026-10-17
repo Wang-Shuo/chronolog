@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: aff65b28a5403314a718c993caea7547f16e4a36983d53fdc94804a352930a2d
+machine_hash: 27de9a179324e3eb21379b33fd37a9d4efe7f68d8d5639bc9d048d5525d3fe97
 product: cursor
 product_name: Cursor
 record:
@@ -53,6 +53,7 @@ related_changes:
   rolls out a bunch of small updates to improve the ChatGPT experience]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699|cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699]]'
 source_type: cursor_changelog
+superseded: true
 theme: model-support
 title: that are actually being used for each doc you have uploaded
 type: change

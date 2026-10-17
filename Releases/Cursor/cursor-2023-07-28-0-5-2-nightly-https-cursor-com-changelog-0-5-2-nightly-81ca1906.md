@@ -2,7 +2,7 @@
 changes_count: 0
 date: '2023-07-28'
 description: 'Cursor release Performance hotfix on 2023-07-28: no tracked changes'
-machine_hash: 9e0c13aaf83f379d746136bae2818e3126f7806b17339527488e2bd3266fac16
+machine_hash: c6fedd9350d7e98dec360591a97ddfeecc43f474d254785c6ead53401f919ba5
 product: cursor
 product_name: Cursor
 record:
@@ -37,7 +37,7 @@ version: 0.5.2-nightly
 <!-- chronolog:begin region="summary" -->
 Fixes a performance bug that would happen if you use cmd-k a lot.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

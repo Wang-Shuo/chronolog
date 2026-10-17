@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 0a681296ba080ef36e26830f25c9f77133ea7de355956ae5e9df6beaaf663116
+machine_hash: 998e9a599d8ac57ca1edc11ad2421e577264273c77946e8b1a0a5204086dd128
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,6 +52,7 @@ related_changes:
   in GPTs: Canvas can now be used with GPTs when enabled in the GPT creator]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-10-canvas-a457e8f0|chatgpt-2024-12-10-canvas-a457e8f0]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: file-data
 title: Today we made Canvas available in 4o by default for all users, Free and Paid
 type: change

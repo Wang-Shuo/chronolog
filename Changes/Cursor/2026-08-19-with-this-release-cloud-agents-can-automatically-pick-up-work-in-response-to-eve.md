@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6e1fa757a3a455d488c42987859c5eb9095e1cabb9119c4c2489861a866197eb
+machine_hash: 2975f60515fa4d1671a1903bbec5eb8f18ece5eeba4a07152d1b55f4a39ded87
 product: cursor
 product_name: Cursor
 record:
@@ -51,6 +51,7 @@ related_changes:
   auto mode]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1|cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: With this release, cloud agents can automatically pick up work in response…
 type: change

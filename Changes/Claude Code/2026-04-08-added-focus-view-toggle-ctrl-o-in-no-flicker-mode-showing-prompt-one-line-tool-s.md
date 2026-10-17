@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5c310a56bc3e6e8d810a4f583ed8433e16c223cfa50a6ffb0b5d71b7b326c404
+machine_hash: 6e817cccf8b626f34a5561cbfee9c092ee21a291cfc3756d4458c04248b9376f
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   refreshInterval status line setting to re-run the status line command every…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33|claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added focus view toggle (Ctrl+O) in NO_FLICKER mode showing prompt, one-line…
 type: change

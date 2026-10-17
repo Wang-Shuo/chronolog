@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 64e871201cac28809202af372469391dd495ce35abbc75bc9583f724999a96be
+machine_hash: 133d16ee3b5dda9b67338f7f410333721e50e578537a74c1bfecc095c10dae65
 product: cursor
 product_name: Cursor
 record:
@@ -50,6 +50,7 @@ related_changes:
   claude plugins as an alias for claude plugin]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-11-new-plugins-on-the-cursor-marketplace-https-cursor-com-changelog-f5d077c3|cursor-2026-03-11-new-plugins-on-the-cursor-marketplace-https-cursor-com-changelog-f5d077c3]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: Try out the new plugins at cursor.com/marketplace, or read more in our announcement
 type: change

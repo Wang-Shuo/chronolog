@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 38c2434d37aed8de5bd18eea99823b88ff11c335879f4205f67ac2c0bc040c88
+machine_hash: c903e4c79309e0613fe73983ced953dbd44c455e74f9562483285da359665b66
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   now receive the active effort level via the effort.level JSON input field…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added claude plugin details name to show a plugin's component inventory…
 type: change

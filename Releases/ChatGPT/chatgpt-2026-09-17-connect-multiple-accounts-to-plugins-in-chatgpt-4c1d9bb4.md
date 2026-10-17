@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-09-17'
 description: 'ChatGPT release Connect multiple accounts to plugins in ChatGPT on 2026-09-17:
   1 tracked change across Mobile and Desktop'
-machine_hash: eb32f22fa774015f017dcbce565e32e27423546cd83858120e6e841869af7a3d
+machine_hash: 19b17ca365b5508b2fa0f0be42197d8835eebb27c299e335dacebb385e5fd6ff
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Connect multiple accounts to plugins in ChatGPT
 <!-- chronolog:begin region="summary" -->
 You can now connect multiple accounts to plugins in ChatGPT, expanding support beyond Gmail, Google Calendar, and Google Contacts. Bring your personal and work accounts into the same conversation, so ChatGPT can help you find information and get things done across your personal and work accounts. Available on all…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-09-17-you-can-now-connect-multiple-accounts-to-plugins-in-chatgpt-expanding-support-be|Connect multiple accounts to plugins in ChatGPT, expanding support beyond Gmail…]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-09-17-you-can-now-connect-multiple-accounts-to-plugins-in-chatgpt-expanding-support-be|Connect multiple accounts to plugins in ChatGPT]] · Mobile and Desktop
 <!-- chronolog:end -->

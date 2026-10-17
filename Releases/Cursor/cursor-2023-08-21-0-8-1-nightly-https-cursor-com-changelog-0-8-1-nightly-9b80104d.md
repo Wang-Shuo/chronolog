@@ -3,7 +3,7 @@ changes_count: 0
 date: '2023-08-21'
 description: 'Cursor release Activity bar can now be vertical on 2023-08-21: no tracked
   changes'
-machine_hash: b50e8b1f34f26673c65be966a038c9df36b3144d2e6f67677a5b2fe767e82b3d
+machine_hash: 4119752179b24b798dc61632d964a6745536748014c6347ed1ab5b40585e0963
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ version: 0.8.1-nightly
 <!-- chronolog:begin region="summary" -->
 Set workbench.activityBar.orientation to vertical, and restart Cursor, to see the vertical activity bar that you're used to from VS Code.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

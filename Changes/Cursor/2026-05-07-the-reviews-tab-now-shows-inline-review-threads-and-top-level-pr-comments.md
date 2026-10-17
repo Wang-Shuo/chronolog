@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6947d9c1018dba78f2d0439317a090b8f7d6c3819e20b956471f16fd83b5860c
+machine_hash: 5c581e0ff006e08af74b2d38feaf9a952a1243493f7c2aa4b558126603de6228
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   Commits tab gives you a focused view of commit history for the PR]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3|cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: The Reviews tab now shows inline review threads and top-level PR comments
 type: change

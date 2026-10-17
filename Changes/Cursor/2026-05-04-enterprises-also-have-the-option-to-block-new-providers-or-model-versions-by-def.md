@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 8a15f9008fcf83d69776785ead93e105437bb1d338e62202a3404f5cd0a904ad
+machine_hash: 9a722a58abda02df53cf11e5317f7aaf4987ba7503612493ed400aef08fb8ee0
 product: cursor
 product_name: Cursor
 record:
@@ -50,6 +50,7 @@ related_changes:
   /model picker]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047|cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047]]'
 source_type: cursor_changelog
+superseded: true
 theme: model-support
 title: Enterprises also have the option to block new providers or model versions by
   default

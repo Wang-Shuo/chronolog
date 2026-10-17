@@ -14,9 +14,10 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 42f322a160729de49b0da8e7bec2cdccc794f6eb06f38576c81ef1ae736fca92
+kind: change
+machine_hash: 7cc4f2d48c24b605e6f32e9770928fde19e7f185a971a26efec4f2448358921b
 product: claude-code
 product_name: Claude Code
 record:
@@ -33,8 +34,9 @@ record:
       support Dynamic Client Registration (e.g., Slack). Use `--client-id` and `--client-secret`
       with `claude mcp add`.
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.30
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-pre-configured-oauth-client-credentials-for-mcp-servers-that-don-t-support
@@ -55,12 +57,11 @@ record:
     support…
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-01-you-should-now-be-able-to-sign-in-with-github-again|You
-  should now be able to sign in with GitHub again]]'
-- '[[Changes/ChatGPT/2024-04-01-we-re-making-it-easier-for-people-to-experience-the-benefits-of-ai-without-needi|We’re
-  making it easier for people to experience the benefits of AI without needing…]]'
+- '[[Changes/Cursor/2026-01-16-one-click-mcp-authentication|One-click MCP authentication]]'
 - '[[Changes/Claude Code/2026-01-22-vscode-added-ability-for-oauth-users-to-browse-and-resume-remote-claude-sessions|VSCode
   Added ability for OAuth users to browse and resume remote Claude sessions…]]'
+- '[[Changes/Cursor/2026-01-22-browser-can-now-request-local-network-permissions-fixing-authentication-flows-wi|Browser
+  can now request local network permissions, fixing authentication flows…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2|claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2]]'
 source_type: github_releases
 theme: account-access
@@ -83,17 +84,20 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-02-03-2-developer-workflow-changes-in-v2-1-30|2 Developer Workflow changes in v2.1.30]] · Developer Workflow
 - [[Changes/Claude Code/2026-02-03-added-pages-parameter-to-the-read-tool-for-pdfs-allowing-specific-page-ranges-to|Added pages parameter to the Read tool for PDFs, allowing specific page ranges…]] · Context Window
+- [[Changes/Claude Code/2026-02-03-improved-memory-usage-for-resume-68-reduction-for-users-with-many-sessions-by-re|Improved memory usage for --resume (68% reduction for users with many sessions)…]] · Reliability and Performance
 - [[Changes/Claude Code/2026-02-03-added-token-count-tool-uses-and-duration-metrics-to-task-tool-results|Added token count, tool uses, and duration metrics to Task tool results]] · Agent Mode
-- [[Changes/Claude Code/2026-02-03-added-support-for-additional-git-log-and-git-show-flags-in-read-only-mode-e-g-to|Added support for additional git log and git show flags in read-only mode…]] · Developer Workflow
+- [[Changes/Claude Code/2026-02-03-changed-model-to-execute-immediately-instead-of-being-queued|Changed /model to execute immediately instead of being queued]] · Model Support
+- [[Changes/Claude Code/2026-02-03-fixed-permission-dialogs-stealing-focus-while-actively-typing|Fixed permission dialogs stealing focus while actively typing]] · Safety and Privacy
 - [[Changes/Claude Code/2026-02-03-added-debug-for-claude-to-help-troubleshoot-the-current-session|Added /debug for Claude to help troubleshoot the current session]] · Developer Workflow
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-01-22 · Claude Code · [[Changes/Claude Code/2026-01-22-vscode-added-ability-for-oauth-users-to-browse-and-resume-remote-claude-sessions|VSCode Added ability for OAuth users to browse and resume remote Claude sessions…]]
-- Later: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-added-claude-auth-login-claude-auth-status-and-claude-auth-logout-cli-subcommand|Added claude auth login, claude auth status, and claude auth logout CLI subcommands]]
+- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-browser-can-now-request-local-network-permissions-fixing-authentication-flows-wi|Browser can now request local network permissions, fixing authentication flows…]]
+- Later: 2026-02-06 · Claude Code · [[Changes/Claude Code/2026-02-06-vscode-added-support-for-remote-sessions-allowing-oauth-users-to-browse-and-resu|VSCode: Added support for remote sessions, allowing OAuth users to browse and resume…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

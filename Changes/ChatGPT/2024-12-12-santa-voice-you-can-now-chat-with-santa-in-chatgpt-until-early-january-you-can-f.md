@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 65d0b4d05442c76ba14834ab4a2d6a064802aead6c0fb5692f417ddfbc7b383c
+machine_hash: 4a3c21a7bdd4b462cb30d7742ca764b6b1f21967efcb86f2392e9ccfe8fc7ec4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,6 +53,7 @@ related_changes:
   we started rolling out two updates to voice mode in ChatGPT]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d|chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: voice
 title: 'Santa voice: You can now chat with Santa in ChatGPT!'
 type: change

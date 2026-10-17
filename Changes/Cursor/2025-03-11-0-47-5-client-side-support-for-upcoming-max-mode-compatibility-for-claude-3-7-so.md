@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: b7aad29255a844e4c25d5ed59afeb4a0b8976f491ba35d4111be493ee72e6225
+machine_hash: 19b7f3f4d8e4977a282ecca450d4b089971614664bf0fa5f2c8f48ea009230ad
 product: cursor
 product_name: Cursor
 record:
@@ -53,6 +53,7 @@ related_changes:
   MAX mode for 3.7 Sonnet with and without thinking]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e|cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e]]'
 source_type: cursor_changelog
+superseded: true
 theme: model-support
 title: '0.47.5: Client-side support for upcoming MAX mode compatibility for Claude
   3.7 Sonnet'

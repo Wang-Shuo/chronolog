@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: af403a12af0d421e44029a0ade37973f9d1eaba1e4275ba27b052fdfa34e9d93
+machine_hash: d0a841edad497251e827a18be2db225c8b8b8262701e273f168aee187c1d9eae
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   is built with layered privacy and security safeguards]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233|claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Added sandbox.network.strictAllowlist setting to deny non-allowlisted hosts…
 type: change

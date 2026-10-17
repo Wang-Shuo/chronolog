@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 31fe9aed4d554393374dbc2bcb7d19b50ae21511f8806bda7d0b0523da7e3346
+machine_hash: 1c7a48d232eb2925bff58cbbc8defe933dae4af79f1fdfc1c54930909235bf69
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   claude plugin init name to scaffold a new plugin in .claude/skills]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8|claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Plugins in .claude/skills directories are now automatically loaded, no marketplace…
 type: change

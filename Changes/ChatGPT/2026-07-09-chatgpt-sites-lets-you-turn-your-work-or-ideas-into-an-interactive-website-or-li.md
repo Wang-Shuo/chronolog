@@ -14,9 +14,10 @@ diffusion:
   theme: artifact-creation
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 8af1c8c01190669e974872d051a81a3cc1dd83b5899c608c2f4fb00b3b11bd23
+kind: change
+machine_hash: bd635d8e91ac6f0cedc2495693741b1917489a362fb79b2f13943a3604787d53
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,8 +35,9 @@ record:
       trackers, launch calendars, prototypes, internal portals, and reports, then
       preview and refine the result with ChatGPT before sharing it.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: chatgpt-sites-lets-you-turn-your-work-or-ideas-into-an-interactive-website-or-li

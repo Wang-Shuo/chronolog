@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: ce23ef5d900cf9a3c782c902f660c5ab6256513def3aa300af060e08938f0f95
+kind: change
+machine_hash: 77b5133ebc8260f8beca297eba1d790d6f72bc7b3d9b821bcd14871e10d67a4e
 product: claude-code
 product_name: Claude Code
 record:
@@ -33,8 +34,9 @@ record:
       caps the effort level on every provider, including Bedrock, Vertex and Foundry;
       users can still pick a lower level'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.267
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-maxeffortlevel-setting-top-level-or-per-model-under-modelsettings-caps-the
@@ -44,11 +46,11 @@ record:
   title: Added `maxEffortLevel` setting (top-level or per model under `modelSettings`)
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-added-s-in-effort-to-change-effort-for-the-current-session-only-matching-model|Added
-  s in /effort to change effort for the current session only, matching /model]]'
-- '[[Changes/ChatGPT/2026-09-03-today-we-re-introducing-gpt-6-astra-with-improvements-in-coding-research-compute|ChatGPT
-  introduces GPT-6 Astra, with improvements in coding, research, computer use…]]'
-- '[[Changes/ChatGPT/2026-09-09-chatgpt-voice-can-now-use-gpt-5-6-or-gpt-6-astra-when-it-needs-to-search-or-reas|ChatGPT
+- '[[Changes/Claude Code/2026-09-03-2-model-support-changes-in-v2-1-260|2 Model Support
+  changes in v2.1.260]]'
+- '[[Changes/Claude Code/2026-09-04-improved-the-model-picker-and-the-vs-code-model-pill-to-show-a-model-s-name-inst|Improved
+  the /model picker and the VS Code model pill to show a model''s name…]]'
+- '[[Changes/ChatGPT/2026-09-09-chatgpt-voice-can-now-use-gpt-5-6-or-gpt-6-astra-when-it-needs-to-search-or-reas-848954|ChatGPT
   Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-09-v2-1-267-github-385748811-6409148e|claude-code-2026-09-09-v2-1-267-github-385748811-6409148e]]'
 source_type: github_releases
@@ -72,16 +74,19 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-09-09-3-developer-workflow-changes-in-v2-1-267|3 Developer Workflow changes in v2.1.267]] · Developer Workflow
 - [[Changes/Claude Code/2026-09-09-improved-the-diff-panel-it-no-longer-flashes-0-files-changed-and-a-spinner-befor|Improved the /diff panel]] · Interface Experience
-- [[Changes/Claude Code/2026-09-09-improved-the-bash-tool-s-description-guidance-so-claude-describes-what-a-command|Improved the Bash tool's description guidance so Claude describes what a command…]] · Developer Workflow
-- [[Changes/Claude Code/2026-09-09-fixed-remote-control-clients-that-join-a-claude-desktop-or-vs-code-session-showi|Fixed Remote Control clients that join a Claude Desktop or VS Code session showing…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-09-09-improved-prompt-cache-stability-subagents-and-sessions-started-with-system-promp|Improved prompt-cache stability]] · Context Window
+- [[Changes/Claude Code/2026-09-09-claude-tag-added-a-use-a-custom-connector-link-to-the-preset-connection-forms-in|Claude Tag Added a "Use a custom connector" link to the preset connection forms…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-09-09-2-safety-and-privacy-changes-in-v2-1-267|2 Safety and Privacy changes in v2.1.267]] · Safety and Privacy
+- [[Changes/Claude Code/2026-09-09-improved-prompt-input-responsiveness-keystrokes-no-longer-occasionally-wait-a-fr|Improved prompt input responsiveness]] · Reliability and Performance
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-09 · ChatGPT · [[Changes/ChatGPT/2026-09-09-chatgpt-voice-can-now-use-gpt-5-6-or-gpt-6-astra-when-it-needs-to-search-or-reas|ChatGPT Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason…]]
-- Later: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-added-claude-code-gateway-model-discovery-timeout-ms-to-extend-the-llm-gateway-v|Added CLAUDE_CODE_GATEWAY_MODEL_DISCOVERY_TIMEOUT_MS to extend the LLM gateway…]]
+- Earlier: 2026-09-09 · ChatGPT · [[Changes/ChatGPT/2026-09-09-chatgpt-voice-can-now-use-gpt-5-6-or-gpt-6-astra-when-it-needs-to-search-or-reas-848954|ChatGPT Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason…]]
+- Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-2-model-support-changes-in-v2-1-268|2 Model Support changes in v2.1.268]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

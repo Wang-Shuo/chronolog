@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 31a4c372eede325f0a852eb94e9301b0f606c97aacaf5600ae2b3e3f2733b353
+machine_hash: 34ea134ff75955d16e523b4dad505828f67a2be1dcb7924c075f5e36413e2873
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   the Agents Window, you can use Design Mode to annotate and target UI elements…]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: It's simpler, more powerful, and centered around agents, while keeping the
   depth…

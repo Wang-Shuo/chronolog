@@ -4,19 +4,20 @@ date: '2025-10-30'
 description: 'ChatGPT · 2025-10-30 · Image Generation: More messages, larger file
   uploads, and expanded image generation'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The
-    store features a diverse range of GPTs developed by our partners and the community]]'
+  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
+    3 for ChatGPT Free users]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 659
+  lag_days: 448
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: acbb141e080852b305ba728a26b2a9063e0dd69cb4f647fe9880bbca1ad64218
+kind: change
+machine_hash: 8be9424e62718c2b49c6cd27f4e709f738458e24de54865d9c67a2b2ad17b823
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,8 +31,9 @@ record:
   evidence:
   - quote: More messages, larger file uploads, and expanded image generation
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: more-messages-larger-file-uploads-and-expanded-image-generation
@@ -77,13 +79,13 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2025-10-28 · ChatGPT · [[Changes/ChatGPT/2025-10-28-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
-- Later: 2025-12-16 · ChatGPT · [[Changes/ChatGPT/2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c|We’ve introduced a new and improved version of ChatGPT Images, powered by our best…]]
+- Later: 2025-12-16 · ChatGPT · [[Changes/ChatGPT/2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c|ChatGPT Images on Web and Mobile (iOS & Android)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The store features a diverse range of GPTs developed by our partners and the community]]
+- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

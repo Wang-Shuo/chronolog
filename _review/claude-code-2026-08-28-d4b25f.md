@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: 16e372a069a54c9046c41db63f1db27007402a5357a3050581c73e8ca1b2cb1c
+machine_hash: 708ff773dae4ac676d07e369f43223084c07fdc79652cbebd82704f12254c367
 product: claude-code
 record:
   card_id: claude-code-2026-08-28-d4b25f
@@ -13,8 +13,9 @@ record:
   - quote: Added a Spend limit bar to `/usage` and a `rate_limits.spend_limit` status
       line field for developers behind a Claude apps gateway with spend limits
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.251
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-a-spend-limit-bar-to-usage-and-a-rate-limits-spend-limit-status-line-field

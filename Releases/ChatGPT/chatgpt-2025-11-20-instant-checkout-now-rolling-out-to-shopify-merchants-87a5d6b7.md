@@ -3,7 +3,7 @@ changes_count: 0
 date: '2025-11-20'
 description: 'ChatGPT release Instant Checkout now rolling out to Shopify merchants
   on 2025-11-20: no tracked changes'
-machine_hash: 8d3ca2806f0489cde97b92fe831659174f33ca6bb4a8d658c727a1723979f4b0
+machine_hash: c73531cde6bdd4ba81e29fc262c06734043c5ebf1fc94dd58adf134fabfe2115
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ version: Instant Checkout now rolling out to Shopify merchants
 <!-- chronolog:begin region="summary" -->
 You can now find and buy from Shopify merchants starting with Spanx, Skims, and Glossier through Instant Checkout in ChatGPT.When a product from a Shopify merchant supports Instant Checkout, you can complete the purchase right in the chat with a quick confirmation of your shipping and payment details.Instant Checkout…
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line; 1 line pending review.
 <!-- chronolog:end -->
 
 ## Change Cards

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-09-28'
 description: 'ChatGPT release Explore your health data with personalized summaries
   on 2026-09-28: 1 tracked change across Editor Experience'
-machine_hash: c1bbd3857674875b391001cc84f12f41d20c30b2f8a2bf5fdb3fe90072ce208b
+machine_hash: 0c4a00e30e1598b35314752fcbb13e8ec49d67a51f57a4d675702babd400b4a4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,10 +39,10 @@ version: Explore your health data with personalized summaries
 <!-- chronolog:begin region="summary" -->
 You can now select a chart, metric, or record in the Health tab to get personalized explanations and insights based on your connected health information.
 
-Tracked 1 of 2 candidate lines.
+Tracked 1 card from 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-09-28-you-can-now-select-a-chart-metric-or-record-in-the-health-tab-to-get-personalize|Select a chart, metric, or record in the Health tab to get personalized explanations…]] · Editor Experience
+- [[Changes/ChatGPT/2026-09-28-you-can-now-select-a-chart-metric-or-record-in-the-health-tab-to-get-personalize|Explore your health data with personalized summaries]] · Editor Experience
 <!-- chronolog:end -->

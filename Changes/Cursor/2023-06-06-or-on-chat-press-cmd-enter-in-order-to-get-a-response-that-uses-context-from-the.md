@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: fae9e664c95be610e09f8394f482bd9650ad3ad41213ffad65983abf09ba1793
+machine_hash: db8bce2f6df1bfec866cd8a67a69ca18ace69ac8fc2c58241fa77f4dcc36ee2d
 product: cursor
 product_name: Cursor
 record:
@@ -48,6 +48,7 @@ related_changes:
   context!]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-06-0-2-26-https-cursor-com-changelog-0-2-26-1b7664cb|cursor-2023-06-06-0-2-26-https-cursor-com-changelog-0-2-26-1b7664cb]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: Or, on chat, press Cmd+Enter in order to get a response that uses context…
 type: change

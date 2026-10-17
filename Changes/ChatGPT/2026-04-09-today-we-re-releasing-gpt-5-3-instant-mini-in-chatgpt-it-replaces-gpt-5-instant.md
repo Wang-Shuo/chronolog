@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: d8c4b1c307b9cd75ce2e2fd9312d98bae68b976596401d5df8680dd984c1ea14
+kind: launch
+machine_hash: bdd7e6581b0e69ab6b0fb19adca523472e98fd39ff0f23229c0a997c80eccfea
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,8 +42,9 @@ record:
       natural in conversation, with stronger writing and contextual awareness throughout
       chats. It outperforms GPT-5 Instant Mini across a range of use cases.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: launch
   product: chatgpt
   product_name: ChatGPT
   slug: today-we-re-releasing-gpt-5-3-instant-mini-in-chatgpt-it-replaces-gpt-5-instant
@@ -60,26 +62,26 @@ record:
     score: 50
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v2
-  title: Today, we’re releasing GPT-5.3 Instant Mini in ChatGPT
+  title: GPT-5.3 Instant mini in ChatGPT
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-19-added-effort-frontmatter-support-for-skills-and-slash-commands-to-override-the-m|Added
   effort frontmatter support for skills and slash commands to override…]]'
-- '[[Changes/Cursor/2026-03-25-self-hosted-cloud-agents-offer-the-same-capabilities-as-cursor-hosted-cloud-agen|Self-hosted
-  cloud agents offer the same capabilities as Cursor-hosted cloud agents…]]'
 - '[[Changes/Claude Code/2026-03-26-added-anthropic-default-opus-sonnet-haiku-model-supports-env-vars-to-override-ef|Added
   ANTHROPIC_DEFAULT{OPUS,SONNET,HAIKU}MODEL_SUPPORTS env vars to override…]]'
+- '[[Changes/Claude Code/2026-04-01-usage-now-hides-redundant-current-week-sonnet-only-bar-for-pro-and-enterprise-pl|/usage
+  now hides redundant "Current week (Sonnet only)" bar for Pro and Enterprise plans]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-09-gpt-5-3-instant-mini-in-chatgpt-bf5ed7ff|chatgpt-2026-04-09-gpt-5-3-instant-mini-in-chatgpt-bf5ed7ff]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: Today, we’re releasing GPT-5.3 Instant Mini in ChatGPT
+title: GPT-5.3 Instant mini in ChatGPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Today, we’re releasing GPT-5.3 Instant Mini in ChatGPT
+# GPT-5.3 Instant mini in ChatGPT
 
-**ChatGPT** · 2026-04-09 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-09-gpt-5-3-instant-mini-in-chatgpt-bf5ed7ff|GPT-5.3 Instant mini in ChatGPT]]
+**ChatGPT** · 2026-04-09 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-09-gpt-5-3-instant-mini-in-chatgpt-bf5ed7ff|GPT-5.3 Instant mini in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -95,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-added-anthropic-default-opus-sonnet-haiku-model-supports-env-vars-to-override-ef|Added ANTHROPIC_DEFAULT{OPUS,SONNET,HAIKU}MODEL_SUPPORTS env vars to override…]]
+- Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-usage-now-hides-redundant-current-week-sonnet-only-bar-for-pro-and-enterprise-pl|/usage now hides redundant "Current week (Sonnet only)" bar for Pro and Enterprise plans]]
 - Later: 2026-04-14 · Claude Code · [[Changes/Claude Code/2026-04-14-improved-model-to-warn-before-switching-models-mid-conversation-since-the-next-r|Improved /model to warn before switching models mid-conversation, since the next…]]
 <!-- chronolog:end -->
 

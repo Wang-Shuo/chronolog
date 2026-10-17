@@ -15,9 +15,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: b92149e3d90b6f5b97fbcde9d0d5c5d91eddcd0b9c2945297d9ec427de01c1f5
+kind: launch
+machine_hash: e444828a13cc85022cd407ee54dd859e9889e700e10defbe87b2bb3e204181ce
 product: cursor
 product_name: Cursor
 record:
@@ -31,36 +32,36 @@ record:
   - quote: Chat history has moved into the command palette. You can access it from
       the “Show history button” in Chat as well as through the Show Chat History command.
     source_release: https://cursor.com/changelog/0-49
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show
+  slug: more-accessible-history
   source_release: cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f
   source_type: cursor_changelog
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Chat history has moved into the command palette
+  title: More accessible history
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-0-46-3-enhanced-download-reliability-fixed-keybinding-issue|0.46.3:
-  Enhanced download reliability, fixed keybinding issue]]'
-- '[[Changes/ChatGPT/2025-03-18-2-added-long-press-on-your-message-to-open-menu-actions-copy-edit|Added
-  long press on your message to open menu actions: Copy, Edit]]'
-- '[[Changes/Cursor/2025-03-23-the-vertical-sidebar-option-will-temporarily-be-unavailable-for-users-who-opted|The
-  vertical sidebar option will temporarily be unavailable for users who opted…]]'
+- '[[Changes/ChatGPT/2025-03-18-improved-response-display-of-nested-blockquote-content|Improved
+  response display of nested blockquote content]]'
+- '[[Changes/Cursor/2025-03-23-new-onboarding|New onboarding]]'
+- '[[Changes/Cursor/2025-03-23-2-interface-experience-changes-in-0-48-x|2 Interface
+  Experience changes in 0.48.x]]'
 source_release: '[[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: Chat history has moved into the command palette
+title: More accessible history
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Chat history has moved into the command palette
+# More accessible history
 
-**Cursor** · 2025-04-15 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://cursor.com/changelog/0-49) · from [[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|Rules generation, improved agent terminal and MCP images]]
+**Cursor** · 2025-04-15 · [[Themes/interface-experience|Interface Experience]] · Launch · [Official source](https://cursor.com/changelog/0-49) · from [[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|Rules generation, improved agent terminal and MCP images]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -72,17 +73,19 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2025-04-15-reviewing-agent-generated-code-is-now-easier-with-a-built-in-diff-view-at-the-en|Reviewing agent generated code is now easier with a built-in diff view at the end…]] · Agent Mode
-- [[Changes/Cursor/2025-04-15-we-ve-also-fixed-a-long-standing-issue-where-always-attached-rules-now-persist-a|Cursor fixes a long-standing issue where Always attached rules now persist across…]] · Agent Mode
-- [[Changes/Cursor/2025-04-15-for-auto-attached-rules-with-path-patterns-defined-agent-will-now-automatically|For Auto Attached rules with path patterns defined, Agent will now automatically…]] · Agent Mode
-- [[Changes/Cursor/2025-04-15-you-can-now-generate-rules-directly-from-a-conversation-using-the-generate-curso|Generate rules directly from a conversation using the /Generate Cursor Rules command]] · Context Window
+- [[Changes/Cursor/2025-04-15-automated-and-improved-rules-15afc6|Automated and improved rules]] · Context Window
+- [[Changes/Cursor/2025-04-15-reviewing-agent-generated-code-is-now-easier-with-a-built-in-diff-view-at-the-en|Making reviews easier]] · Agent Mode
+- [[Changes/Cursor/2025-04-15-improved-agent-terminal-control|Improved agent terminal control]] · Developer Workflow
+- [[Changes/Cursor/2025-04-15-new-models|New models]] · Model Support
+- [[Changes/Cursor/2025-04-15-images-in-mcp|Images in MCP]] · Apps and Integrations
+- [[Changes/Cursor/2025-04-15-project-structure-in-context-beta|Project structure in context (Beta)]] · Context Window
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-the-vertical-sidebar-option-will-temporarily-be-unavailable-for-users-who-opted|The vertical sidebar option will temporarily be unavailable for users who opted…]]
-- Later: 2025-05-06 · ChatGPT · [[Changes/ChatGPT/2025-05-06-no-tools-are-deprecated-access-is-simply-consolidated-to-clear-space-and-reduce|No tools are deprecated—access is simply consolidated to clear space and reduce…]]
+- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-2-interface-experience-changes-in-0-48-x|2 Interface Experience changes in 0.48.x]]
+- Later: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-duplicate-chats|Duplicate Chats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

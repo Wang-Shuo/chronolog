@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 1f4330faef810fe2ed0fca9fe5257b9d120e39bf0e5b981895b6ff32018a30bf
+kind: change
+machine_hash: 7226a2a44d09db5c3d2d9f875ff857df1679cc473f80e9ad0adfb4ff3a042675
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: 'Factuality: Fewer hallucinations, improving answer quality.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: factuality-fewer-hallucinations-improving-answer-quality
@@ -41,12 +43,12 @@ record:
   title: 'Factuality: Fewer hallucinations, improving answer quality'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-12-gmail-google-calendar-and-google-contacts-are-now-available-to-connect-and-use-i-9ea6d6|Gmail,
-  Google Calendar, and Google Contacts are now available to connect and use in chat]]'
-- '[[Changes/ChatGPT/2025-08-12-you-can-now-choose-between-auto-fast-and-thinking-for-gpt-5-most-users-will-want-f4c05b|Choose
-  between “Auto”, “Fast”, and “Thinking” for GPT-5]]'
-- '[[Changes/ChatGPT/2025-08-15-we-re-making-gpt-5-s-default-personality-warmer-and-more-familiar-this-is-in-res-19a03e|We’re
-  making GPT-5’s default personality warmer and more familiar]]'
+- '[[Changes/ChatGPT/2025-08-12-you-can-now-choose-between-auto-fast-and-thinking-for-gpt-5-most-users-will-want-f4c05b|GPT-5
+  Updates]]'
+- '[[Changes/ChatGPT/2025-08-15-we-re-making-gpt-5-s-default-personality-warmer-and-more-familiar-this-is-in-res-19a03e|GPT-5
+  Updates]]'
+- '[[Changes/Cursor/2025-08-21-2-model-support-changes-in-1-5|2 Model Support changes
+  in 1.5]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690|chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -77,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-15 · ChatGPT · [[Changes/ChatGPT/2025-08-15-we-re-making-gpt-5-s-default-personality-warmer-and-more-familiar-this-is-in-res-19a03e|We’re making GPT-5’s default personality warmer and more familiar]]
-- Later: 2025-09-17 · ChatGPT · [[Changes/ChatGPT/2025-09-17-pro-users-get-two-additional-options-light-snappiest-and-heavy-deeper-reasoning|Pro users get two additional options: Light (snappiest) and Heavy (deeper reasoning)]]
+- Earlier: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-2-model-support-changes-in-1-5|2 Model Support changes in 1.5]]
+- Later: 2025-09-17 · ChatGPT · [[Changes/ChatGPT/2025-09-17-5-model-support-changes-in-toggle-thinking-time-in-the-message|5 Model Support changes in Toggle thinking time in the message…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

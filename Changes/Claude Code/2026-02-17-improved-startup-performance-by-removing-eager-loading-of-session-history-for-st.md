@@ -14,9 +14,10 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 9ffa3a55057f67dbd3781623d840f4aa79ee9e19f0f47c38684d8e7666d2ca87
+kind: change
+machine_hash: 56277e2f2aaa2fca7462432c596b11f05c0a84c12d1e9798a52eb1eacec509c0
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Improved startup performance by removing eager loading of session history
       for stats caching
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.45
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-startup-performance-by-removing-eager-loading-of-session-history-for-st
@@ -80,10 +82,11 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-02-17-added-support-for-reading-enabledplugins-and-extraknownmarketplaces-from-add-dir|Added support for reading enabledPlugins and extraKnownMarketplaces…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-02-17-added-support-for-claude-sonnet-4-6|Added support for Claude Sonnet 4.6]] · Model Support
-- [[Changes/Claude Code/2026-02-17-added-sdkratelimitinfo-and-sdkratelimitevent-types-to-the-sdk-enabling-consumers|Added SDKRateLimitInfo and SDKRateLimitEvent types to the SDK, enabling…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-02-17-improved-memory-usage-for-shell-commands-that-produce-large-output-rss-no-longer|Improved memory usage for shell commands that produce large output]] · Reliability and Performance
+- [[Changes/Claude Code/2026-02-17-vscode-improved-permission-destination-choice-project-user-session-to-persist-ac|VSCode Improved permission destination choice (project/user/session) to persist…]] · Safety and Privacy
 - [[Changes/Claude Code/2026-02-17-added-spinnertipsoverride-setting-to-customize-spinner-tips-configure-tips-with|Added spinnerTipsOverride setting to customize spinner tips]] · Interface Experience
+- [[Changes/Claude Code/2026-02-17-2-apps-and-integrations-changes-in-v2-1-45|2 Apps and Integrations changes in v2.1.45]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

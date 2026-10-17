@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d6fdf486058ca407125fea8e5c0ebc23c7efc21ab0dc4733a9a56d6b9e5f676b
+machine_hash: c1264bb083739507bd7fd700a3325927566da9d99af84d1d4bc477037b05a8a3
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   — add and delete a letter and the suggestion will still be there for you!]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-15-0-16-0-https-cursor-com-changelog-0-16-0-5861ed6e|cursor-2023-11-15-0-16-0-https-cursor-com-changelog-0-16-0-5861ed6e]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: Copilot++ improvements
 type: change

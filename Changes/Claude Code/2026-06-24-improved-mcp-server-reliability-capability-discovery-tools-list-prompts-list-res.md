@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 59ea2170586699f345b79c0a565f6a0afc14b7f0ecfaf5a580af87bdff927926
+machine_hash: 5d6abe7a22072ea5e19b886f4510ceea2eb3a2b891a9eba3773304d77e9f543d
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   MCP error messages: HTTP 404 errors now show the URL and point to your MCP config]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27|claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Improved MCP server reliability
 type: change

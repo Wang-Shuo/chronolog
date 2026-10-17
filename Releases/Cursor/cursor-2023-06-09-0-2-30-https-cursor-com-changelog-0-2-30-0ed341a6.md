@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-06-09'
 description: 'Cursor release Show the AI documentation on 2023-06-09: 1 tracked change
   across Apps and Integrations'
-machine_hash: 2277e39480ef082ed9972262621a966b9c8aac6c689b682ebbd83f4e76144310
+machine_hash: 82fb904b247c589e5a6ffe3e3d419b6cb2aad5f63eb0e58297d76fd05769b738
 product: cursor
 product_name: Cursor
 record:
@@ -41,10 +41,10 @@ version: 0.2.30
 <!-- chronolog:begin region="summary" -->
 You can now have the AI read documentation on your behalf! This will improve it's ability to answer questions about your favorite libraries. To use this feature, simply press the "Docs" button in the top right of the chat pane.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-06-09-you-can-now-have-the-ai-read-documentation-on-your-behalf-this-will-improve-it-s|Have the AI read documentation on your behalf!]] · Apps and Integrations
+- [[Changes/Cursor/2023-06-09-you-can-now-have-the-ai-read-documentation-on-your-behalf-this-will-improve-it-s|Show the AI documentation]] · Apps and Integrations
 <!-- chronolog:end -->

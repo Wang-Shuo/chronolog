@@ -15,9 +15,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 10d93aa944ee070cb1d47ee8e66ba0b0f08735b1921f90980c1f19e55743b86c
+kind: change
+machine_hash: 96d2da2bf14fd4ca539d1c0f8b549830a521ab83d050c96c659df6f0be8f11da
 product: claude-code
 product_name: Claude Code
 record:
@@ -32,8 +33,9 @@ record:
       that a repo self-approved via a committed `.claude/settings.json`; untrusted
       workspaces show `⏸ Pending approval`'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.196
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: security-claude-mcp-list-get-no-longer-spawn-mcp-json-servers-that-a-repo-self-a
@@ -54,8 +56,8 @@ record:
     a repo…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-23-added-sandbox-credentials-setting-to-block-sandboxed-commands-from-reading-crede|Added
-  sandbox.credentials setting to block sandboxed commands from reading…]]'
+- '[[Changes/Claude Code/2026-06-23-2-safety-and-privacy-changes-in-v2-1-187|2 Safety
+  and Privacy changes in v2.1.187]]'
 - '[[Changes/Claude Code/2026-06-24-improved-sandbox-network-permission-dialog-hosts-you-allow-with-yes-are-now-reme|Improved
   sandbox network permission dialog]]'
 - '[[Changes/Claude Code/2026-06-26-fixed-external-plugins-enabled-only-by-project-claude-settings-json-not-requirin|Fixed
@@ -82,8 +84,11 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-06-29-2-agent-mode-changes-in-v2-1-196|2 Agent Mode changes in v2.1.196]] · Agent Mode
 - [[Changes/Claude Code/2026-06-29-added-support-for-organization-default-models-admins-set-it-in-the-org-console-i|Added support for organization default models]] · Model Support
 - [[Changes/Claude Code/2026-06-29-added-readable-default-names-for-sessions-at-start-making-them-easier-to-identif|Added readable default names for sessions at start, making them easier to identify…]] · Projects and Workspaces
+- [[Changes/Claude Code/2026-06-29-2-developer-workflow-changes-in-v2-1-196|2 Developer Workflow changes in v2.1.196]] · Developer Workflow
+- [[Changes/Claude Code/2026-06-29-remote-control-is-now-disabled-when-anthropic-base-url-points-at-a-non-anthropic|Remote Control is now disabled when ANTHROPIC_BASE_URL points at a non-Anthropic…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-06-29-added-clickable-file-attachments-in-chat-cmd-ctrl-click-reveals-the-file-in-find|Added clickable file attachments in chat]] · Files and Data
 - [[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|Improved background session reliability]] · Mobile and Desktop
 <!-- chronolog:end -->

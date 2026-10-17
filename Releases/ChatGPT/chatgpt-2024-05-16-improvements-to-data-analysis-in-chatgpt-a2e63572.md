@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 2
 date: '2024-05-16'
 description: 'ChatGPT release Improvements to data analysis in ChatGPT on 2024-05-16:
-  5 tracked changes across Files and Data, Apps and Integrations, Model Support'
-machine_hash: 371c59c29c263c6d0c280fac75012097979b77b0104a2230e47057e0f93d118a
+  2 tracked changes across Apps and Integrations, Files and Data'
+machine_hash: 7a5ef02fbf50ad4480ff646f78c5c959ae0eee7ad09cf98b539064d226ed52ad
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,14 +38,11 @@ version: Improvements to data analysis in ChatGPT
 <!-- chronolog:begin region="summary" -->
 Today, we’re starting to roll out enhancements to data analysis:
 
-Tracked 5 of 5 candidate lines.
+Tracked 2 cards from 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2024-05-16-today-we-re-starting-to-roll-out-enhancements-to-data-analysis|Today, we’re starting to roll out enhancements to data analysis]] · Files and Data
-- [[Changes/ChatGPT/2024-05-16-interact-with-tables-and-charts-in-a-new-expandable-view|Interact with tables and charts in a new expandable view]] · Files and Data
-- [[Changes/ChatGPT/2024-05-16-data-analysis-improvements-are-available-in-our-new-flagship-model-gpt-4o-for-ch|Data analysis improvements are available in our new flagship model, GPT-4o…]] · Model Support
-- [[Changes/ChatGPT/2024-05-16-upload-the-latest-file-versions-directly-from-google-drive-microsoft-onedrive-pe|Upload the latest file versions directly from Google Drive, Microsoft OneDrive…]] · Apps and Integrations
-- [[Changes/ChatGPT/2024-05-16-customize-and-download-presentation-ready-charts-and-documents|Customize and download presentation-ready charts and documents]] · Files and Data
+- [[Changes/ChatGPT/2024-05-16-today-we-re-starting-to-roll-out-enhancements-to-data-analysis-6433a3|Today, we’re starting to roll out enhancements to data analysis]] · Files and Data
+- [[Changes/ChatGPT/2024-05-16-upload-the-latest-file-versions-directly-from-google-drive-microsoft-onedrive-pe-70f6a3|Upload the latest file versions directly from Google Drive, Microsoft OneDrive…]] · Apps and Integrations
 <!-- chronolog:end -->

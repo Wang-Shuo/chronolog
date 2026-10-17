@@ -4,19 +4,20 @@ date: '2026-06-04'
 description: 'ChatGPT · 2026-06-04 · Enterprise and Administration: We''re beginning
   to roll out ads for users on Free and Go plans in the UK. Plus, Pro, Business…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise
-    and Edu rollout coming soon]]'
+  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
+    users can only access stable release (no pre-release)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 357
+  lag_days: 365
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 12f6133f1d5041351c01579a45dcc0260f4d5202a05e54779b014325de4fd4d6
+kind: expansion
+machine_hash: c99ebc80194cc888fd52a1816b3bec4576693e0e95f36f2cf7d5914f7233d899
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,34 +31,35 @@ record:
   - quote: We're beginning to roll out ads for users on Free and Go plans in the UK.
       Plus, Pro, Business, Enterprise, and Education plans will remain ad-free.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: expansion
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-the-uk-plus-pr
   source_release: chatgpt-2026-06-04-rolling-out-ads-in-the-uk-6015e870
   source_type: chatgpt_changelog
   theme: enterprise-admin
-  title: We're beginning to roll out ads for users on Free and Go plans in the UK
+  title: Rolling out ads in the UK
   type: change
 related_changes:
+- '[[Changes/Claude Code/2026-05-08-added-claude-code-enable-feedback-survey-for-otel-to-re-enable-the-session-quali|Added
+  CLAUDE_CODE_ENABLE_FEEDBACK_SURVEY_FOR_OTEL to re-enable the session quality…]]'
 - '[[Changes/Cursor/2026-05-11-teams-admins-and-individual-plan-users-can-now-customize-the-effort-level-bugbot|Teams
   admins and Individual plan users can now customize the effort level Bugbot…]]'
 - '[[Changes/Claude Code/2026-05-13-added-anthropic-workspace-id-environment-variable-for-workload-identity-federati|Added
   ANTHROPIC_WORKSPACE_ID environment variable for workload identity federation]]'
-- '[[Changes/Cursor/2026-05-20-teammates-open-a-shared-canvas-from-its-link-with-read-only-access-the-shared-ca|Teammates
-  open a shared canvas from its link with read-only access]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-04-rolling-out-ads-in-the-uk-6015e870|chatgpt-2026-06-04-rolling-out-ads-in-the-uk-6015e870]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
-title: We're beginning to roll out ads for users on Free and Go plans in the UK
+title: Rolling out ads in the UK
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We're beginning to roll out ads for users on Free and Go plans in the UK
+# Rolling out ads in the UK
 
-**ChatGPT** · 2026-06-04 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-04-rolling-out-ads-in-the-uk-6015e870|Rolling out ads in the UK]]
+**ChatGPT** · 2026-06-04 · [[Themes/enterprise-admin|Enterprise and Administration]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-04-rolling-out-ads-in-the-uk-6015e870|Rolling out ads in the UK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -73,14 +75,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-05-20 · Cursor · [[Changes/Cursor/2026-05-20-teammates-open-a-shared-canvas-from-its-link-with-read-only-access-the-shared-ca|Teammates open a shared canvas from its link with read-only access]]
+- Earlier: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-added-anthropic-workspace-id-environment-variable-for-workload-identity-federati|Added ANTHROPIC_WORKSPACE_ID environment variable for workload identity federation]]
 - Later: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-added-requiredminimumversion-and-requiredmaximumversion-managed-settings-claude|Added requiredMinimumVersion and requiredMaximumVersion managed settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise and Edu rollout coming soon]]
+- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

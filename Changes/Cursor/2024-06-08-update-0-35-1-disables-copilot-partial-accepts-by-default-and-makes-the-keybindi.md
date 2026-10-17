@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 4b221d5175081f837f2ea48ebca1eec863ca86364da143071ef36deba3c46db2
+kind: change
+machine_hash: dfdc81fdc562656fb9f60d253292ac4429d9060e37ad3e0931029b357265c1e0
 product: cursor
 product_name: Cursor
 record:
@@ -34,8 +35,9 @@ record:
       the keybinding configurable (go to Cursor Settings > Features > Cpp to re-enable).
       Makes gpt-4o the default model.'
     source_release: https://cursor.com/changelog/0-35-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: update-0-35-1-disables-copilot-partial-accepts-by-default-and-makes-the-keybindi
@@ -56,12 +58,11 @@ record:
   title: 'UPDATE (0.35.1): Disables Copilot++ partial accepts by default and makes…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-05-13-gpt-4o-is-our-newest-flagship-model-that-provides-gpt-4-level-intelligence-that-297427|GPT-4o
-  is our newest flagship model that provides GPT-4-level intelligence…]]'
-- '[[Changes/ChatGPT/2024-05-16-data-analysis-improvements-are-available-in-our-new-flagship-model-gpt-4o-for-ch|Data
-  analysis improvements are available in our new flagship model, GPT-4o…]]'
+- '[[Changes/ChatGPT/2024-05-13-gpt-4o-is-our-newest-flagship-model-that-provides-gpt-4-level-intelligence-that-297427|Introducing
+  GPT-4o]]'
 - '[[Changes/Cursor/2024-05-26-gemini-1-5-flash-is-available-in-long-context-mode|Gemini
   1.5 Flash is available in long-context mode]]'
+- '[[Changes/Cursor/2024-05-26-gpt-4o-in-interpreter-mode|GPT-4o in Interpreter Mode]]'
 source_release: '[[Releases/Cursor/cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90|cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90]]'
 source_type: cursor_changelog
 theme: model-support
@@ -85,16 +86,15 @@ type: change
 ## Also in this release
 
 - [[Changes/Cursor/2024-06-08-default-on-cursor-prediction-with-a-new-ui|Default-on Cursor Prediction with a new UI]] · Editor Experience
-- [[Changes/Cursor/2024-06-08-adds-context-pills-to-chat-messages-so-you-can-see-what-will-be-was-used|Adds context pills to chat messages, so you can see what will be/was used]] · Context Window
-- [[Changes/Cursor/2024-06-08-cmd-k-context-building-improvements|Cmd K context-building improvements]] · Context Window
 - [[Changes/Cursor/2024-06-08-remote-tunnels-are-now-supported-remote-ssh-support-is-also-more-robust-now-supp|Remote tunnels are now supported!]] · Developer Workflow
+- [[Changes/Cursor/2024-06-08-adds-context-pills-to-chat-messages-so-you-can-see-what-will-be-was-used-a324a3|Adds context pills to chat messages, so you can see what will be/was used]] · Context Window
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-05-26 · Cursor · [[Changes/Cursor/2024-05-26-gemini-1-5-flash-is-available-in-long-context-mode|Gemini 1.5 Flash is available in long-context mode]]
-- Later: 2024-07-18 · ChatGPT · [[Changes/ChatGPT/2024-07-18-we-re-introducing-gpt-4o-mini-the-most-capable-and-cost-efficient-small-model-av-af297b|ChatGPT introduces GPT-4o mini, the most capable and cost-efficient small model…]]
+- Earlier: 2024-05-26 · Cursor · [[Changes/Cursor/2024-05-26-gpt-4o-in-interpreter-mode|GPT-4o in Interpreter Mode]]
+- Later: 2024-07-18 · ChatGPT · [[Changes/ChatGPT/2024-07-18-we-re-introducing-gpt-4o-mini-the-most-capable-and-cost-efficient-small-model-av-af297b|Introducing GPT-4o mini]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

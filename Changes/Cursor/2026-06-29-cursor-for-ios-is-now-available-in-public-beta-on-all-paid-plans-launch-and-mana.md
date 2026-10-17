@@ -14,9 +14,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 6afbc52ef6b52bd13504fd919399ba675da536146c8622e6f0e37ecd73949540
+kind: launch
+machine_hash: 7aa9a9a0293cdc289822b82506d48e0763e364f30edc06dcb7bb725b34f16ab5
 product: cursor
 product_name: Cursor
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Cursor for iOS is now available in public beta on all paid plans. Launch
       and manage always-on agents from anywhere.
     source_release: https://cursor.com/changelog/ios-mobile-app
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: cursor
   product_name: Cursor
   slug: cursor-for-ios-is-now-available-in-public-beta-on-all-paid-plans-launch-and-mana
@@ -50,8 +52,8 @@ record:
   title: Cursor for iOS is now available in public beta on all paid plans
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|Cursor
-  introduces updates to cloud agents in the Agents Window of the Cursor desktop app]]'
+- '[[Changes/ChatGPT/2026-06-18-improved-camera-and-photo-uploads-taking-and-uploading-photos-in-chatgpt-on-ios|Improved
+  camera and photo uploads]]'
 - '[[Changes/ChatGPT/2026-06-18-chatgpt-now-has-more-ways-to-help-with-common-questions-from-pronunciation-guida|ChatGPT
   now has more ways to help with common questions, from pronunciation guidance…]]'
 - '[[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|Improved
@@ -66,7 +68,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Cursor for iOS is now available in public beta on all paid plans
 
-**Cursor** · 2026-06-29 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://cursor.com/changelog/ios-mobile-app) · from [[Releases/Cursor/cursor-2026-06-29-3-9-https-cursor-com-changelog-ios-mobile-app-d7278607|Cursor Mobile App for iOS]]
+**Cursor** · 2026-06-29 · [[Themes/mobile-desktop|Mobile and Desktop]] · Launch · [Official source](https://cursor.com/changelog/ios-mobile-app) · from [[Releases/Cursor/cursor-2026-06-29-3-9-https-cursor-com-changelog-ios-mobile-app-d7278607|Cursor Mobile App for iOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -78,9 +80,9 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-06-29-use-remote-control-in-the-agents-window-to-take-an-agent-you-re-running-on-your|Use Remote Control in the Agents Window to take an agent you're running…]] · Agent Mode
-- [[Changes/Cursor/2026-06-29-cloud-agents-run-in-isolated-virtual-machines-with-full-development-environments|Cloud agents run in isolated virtual machines with full development environments…]] · Agent Mode
-- [[Changes/Cursor/2026-06-29-open-the-cursor-mobile-app-choose-a-repo-and-launch-an-agent-the-same-way-you-wo|Open the Cursor mobile app, choose a repo, and launch an agent the same way you…]] · Voice and Audio
+- [[Changes/Cursor/2026-06-29-cloud-agents-on-mobile-1bc371|Cloud agents on mobile]] · Voice and Audio
+- [[Changes/Cursor/2026-06-29-remote-control-3ec330|Remote Control]] · Agent Mode
+- [[Changes/Cursor/2026-06-29-live-activities-and-push-notifications|Live Activities and push notifications]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

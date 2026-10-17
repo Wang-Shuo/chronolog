@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 83b26e0a7ec8c1ba3774f1961100c844a75a0a59dcee2f89bf53a1591d7e3dd3
+machine_hash: 9f07e9b8c4dc2082e79d1c2dcf8f8fd29cff86b551f258d7266c7745b1c266d6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -71,6 +71,7 @@ related_changes:
   is our newest flagship model that provides GPT-4-level intelligence…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572|chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: Data analysis improvements are available in our new flagship model, GPT-4o…
 type: change

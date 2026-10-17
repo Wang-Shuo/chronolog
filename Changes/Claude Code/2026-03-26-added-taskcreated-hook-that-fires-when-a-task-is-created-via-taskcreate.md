@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 039b914eb1b5efab867f7d17598257b63472e752a227bbcaf1838fa50f36cc3d
+machine_hash: 6ab38b7a4154da44b3bf1867424ef3245a5412162130238293eb54c42f563f81
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   now supports self-hosted cloud agents that keep your code and tool execution…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa|claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added TaskCreated hook that fires when a task is created via TaskCreate
 type: change

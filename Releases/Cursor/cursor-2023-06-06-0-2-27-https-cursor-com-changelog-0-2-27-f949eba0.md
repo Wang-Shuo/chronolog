@@ -3,7 +3,7 @@ changes_count: 4
 date: '2023-06-06'
 description: 'Cursor release Codebase Context v2 on 2023-06-06: 4 tracked changes
   across Context Window, Account and Access, Editor Experience'
-machine_hash: 784d164d827fa1f59bf475898c9e244e9ba5092483000ab1d57fbbe641e8bcc2
+machine_hash: f0e1d62b480b5f02047dfc170d2144429e1e75892a18d37996f8f18c4e21398a
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.2.27
 <!-- chronolog:begin region="summary" -->
 We've improved codebase context!
 
-Tracked 4 of 4 candidate lines.
+Tracked 4 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

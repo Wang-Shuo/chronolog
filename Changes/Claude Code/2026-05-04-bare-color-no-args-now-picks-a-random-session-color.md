@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f9233cc0815b7feb74552840eab52210ea849e03c88b7cdba5268b3720ff539c
+kind: change
+machine_hash: 1d66ab3a3402a7e4f9f02c46e024bc1b28c2eff0cd7450387214d4a24007ed0c
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Bare `/color` (no args) now picks a random session color
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.128
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: bare-color-no-args-now-picks-a-random-session-color
@@ -41,12 +43,12 @@ record:
   title: Bare `/color` (no args) now picks a random session color
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-23-added-claude-code-hide-cwd-environment-variable-to-hide-the-working-directory-in|Added
-  CLAUDE_CODE_HIDE_CWD environment variable to hide the working directory…]]'
-- '[[Changes/Claude Code/2026-04-28-added-a-type-to-filter-search-box-to-skills-so-you-can-find-a-skill-in-long-list|Added
-  a type-to-filter search box to /skills so you can find a skill in long lists…]]'
-- '[[Changes/Claude Code/2026-04-28-fullscreen-mode-typing-into-the-prompt-no-longer-jumps-scroll-back-to-the-bottom|Fullscreen
-  mode: typing into the prompt no longer jumps scroll back to the bottom…]]'
+- '[[Changes/Claude Code/2026-04-23-3-interface-experience-changes-in-v2-1-119|3 Interface
+  Experience changes in v2.1.119]]'
+- '[[Changes/Claude Code/2026-04-23-2-interface-experience-changes-in-v2-1-118|2 Interface
+  Experience changes in v2.1.118]]'
+- '[[Changes/Claude Code/2026-04-28-4-interface-experience-changes-in-v2-1-121|4 Interface
+  Experience changes in v2.1.121]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2|claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2]]'
 source_type: github_releases
 theme: interface-experience
@@ -69,8 +71,9 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-05-04-plugin-dir-now-accepts-zip-plugin-archives-in-addition-to-directories|--plugin-dir now accepts .zip plugin archives in addition to directories]] · Apps and Integrations
-- [[Changes/Claude Code/2026-05-04-mcp-now-shows-the-tool-count-for-connected-servers-and-flags-servers-that-connec|/mcp now shows the tool count for connected servers and flags servers…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-05-04-auto-mode-when-the-classifier-can-t-evaluate-an-action-the-error-now-includes-a|Auto mode: when the classifier can't evaluate an action, the error now includes…]] · Agent Mode
+- [[Changes/Claude Code/2026-05-04-sdk-hosts-now-receive-a-persistent-localsettings-suggestion-for-bash-permission|SDK hosts now receive a persistent localSettings suggestion for Bash permission…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-05-04-6-apps-and-integrations-changes-in-v2-1-128|6 Apps and Integrations changes in v2.1.128]] · Apps and Integrations
 - [[Changes/Claude Code/2026-05-04-updated-model-picker-collapsed-duplicate-opus-4-7-entries-and-current-opus-now-s|Updated /model picker]] · Model Support
 - [[Changes/Claude Code/2026-05-04-channels-now-works-with-console-api-key-authentication-console-orgs-with-managed|--channels now works with console (API key) authentication]] · Account and Access
 <!-- chronolog:end -->
@@ -78,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-fullscreen-mode-typing-into-the-prompt-no-longer-jumps-scroll-back-to-the-bottom|Fullscreen mode: typing into the prompt no longer jumps scroll back to the bottom…]]
-- Later: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-added-claude-code-force-sync-output-1-env-var-to-force-enable-synchronized-outpu|Added CLAUDE_CODE_FORCE_SYNC_OUTPUT=1 env var to force-enable synchronized output…]]
+- Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-4-interface-experience-changes-in-v2-1-121|4 Interface Experience changes in v2.1.121]]
+- Later: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-2-interface-experience-changes-in-v2-1-132|2 Interface Experience changes in v2.1.132]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c64a15f8de64b5c2403afb62e18c09e181ea3b107ddd22bde214ba135fe93eaa
+machine_hash: 37ddae02b4a6d669e587fe45ba99f3c5332da958af6cf1860904f57e031e1965
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   claude remote-control subcommand for external builds, enabling local…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c|claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Updated plugin marketplace default git timeout from 30s to 120s and added…
 type: change

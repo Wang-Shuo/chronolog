@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: cf275e47d3c1444a0213e80f84f93e65b5d24a2c3dd032aa93a8c35f2fc2f144
+machine_hash: 5cd922e62cf7c2ba9c716e6a70ff98e14359318a6360fcff001050d99b415c27
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   MCP_CONNECTION_NONBLOCKING=true for -p mode to skip the MCP connection…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b|claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added CLAUDE_CODE_PLUGIN_KEEP_MARKETPLACE_ON_FAILURE env var to keep the existing…
 type: change

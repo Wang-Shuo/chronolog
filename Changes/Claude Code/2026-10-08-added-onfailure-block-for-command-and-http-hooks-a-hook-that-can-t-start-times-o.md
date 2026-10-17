@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b287dd6495f0625f649f9ac6034c09249de1abd83eb7c5baa3a3585b5312f030
+machine_hash: a908fb9e8e362c52263e653a6f8ad219eb4df9763e695d4b0b70c4019cd21edc
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,6 +54,7 @@ related_changes:
   how prompt hooks on Stop and SubagentStop written as instructions…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: 'Added onFailure: "block" for command and HTTP hooks: a hook that can''t start…'
 type: change

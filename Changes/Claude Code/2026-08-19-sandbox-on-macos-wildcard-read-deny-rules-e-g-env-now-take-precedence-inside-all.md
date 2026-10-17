@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d3c9205f22e76bf5460943be22753d236318861948a3fcbd572fd5c501580f06
+machine_hash: 27d2e54f7cb95f39251312689e1a4440a19722ffb219afc83a5eb104f08de722
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   Shift+Tab inside the permission prompt''s comment field approving the edit…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79|claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: 'Sandbox: on macOS, wildcard read-deny rules (e.g. /.env) now take precedence…'
 type: change

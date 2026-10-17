@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 61f0a01f8a6a0afde9987b37f500bd6fdd15bd15e048d71302be5e81c590696e
+machine_hash: ea30363a1083f15c70a09aec50fcbf7f08c5213a9e9779b3a2776c7b103056db
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,6 +47,7 @@ related_changes:
   is now default-on and available to all Pro/Business users by hitting cmd+I]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-13-projects-in-chatgpt-01b98e1c|chatgpt-2024-12-13-projects-in-chatgpt-01b98e1c]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: collaboration
 title: ChatGPT Projects are available to all Plus, Team, and Pro users
 type: change

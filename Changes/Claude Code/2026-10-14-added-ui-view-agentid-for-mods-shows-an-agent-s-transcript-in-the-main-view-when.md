@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 33f15b0618c6620e8ecbf992b1db966080229ddeacbf3c1224f4366989530be0
+machine_hash: 9b57bb0431ff3d340ea67bb1b59332fe6157c418a7769428b5d09a7dc8639ef1
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   CLAUDE_CODE_WORKFLOW_SUBAGENT_MODEL to run every workflow agent on one model…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added $.ui.view({ agentId }) for mods
 type: change

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: dcedf487deb553cb41e935ff36be0f2276b7997fcd3f39adb4ea1561dd84d198
+machine_hash: a585c66fbdd81e6e0695de1b6e40e787ee23f3fd1e94f609e063dbefb8412306
 product: cursor
 product_name: Cursor
 record:
@@ -52,6 +52,7 @@ related_changes:
   Cursor ACP, developers who rely on JetBrains for Java and multilanguage support…]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-04-cursor-in-jetbrains-ides-https-cursor-com-changelog-03-04-26-59bae4c8|cursor-2026-03-04-cursor-in-jetbrains-ides-https-cursor-com-changelog-03-04-26-59bae4c8]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Cursor is now available in IntelliJ IDEA, PyCharm, WebStorm, and other JetBrains…
 type: change

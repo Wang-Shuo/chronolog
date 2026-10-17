@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: fd6856d9126566f9ee89a0d148d1aa06557c8051b4d6b80743296e54c3ed34c1
+kind: launch
+machine_hash: 0615bf10a9bd857415491620e52f750b203a14083dec92deaeb1daaf2df3b30e
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +32,9 @@ record:
   - quote: This release introduces interactive UIs in agent chats, a way for teams
       to share private plugins, and improvements to core capabilities like Debug mode.
     source_release: https://cursor.com/changelog/2-6
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: launch
   product: cursor
   product_name: Cursor
   slug: this-release-introduces-interactive-uis-in-agent-chats-a-way-for-teams-to-share
@@ -61,8 +63,8 @@ related_changes:
   /model command to show the currently active model in the slash command menu]]'
 - '[[Changes/Claude Code/2026-02-28-added-simplify-and-batch-bundled-slash-commands|Added
   /simplify and /batch bundled slash commands]]'
-- '[[Changes/Cursor/2026-03-03-added-support-for-multiple-parallel-debug-mode-sessions|Added
-  support for multiple parallel Debug mode sessions]]'
+- '[[Changes/Cursor/2026-03-03-3-developer-workflow-changes-in-2-6|3 Developer Workflow
+  changes in 2.6]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -74,7 +76,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Cursor introduces interactive UIs in agent chats, a way for teams to share private…
 
-**Cursor** · 2026-03-03 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://cursor.com/changelog/2-6) · from [[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|MCP Apps and Team Marketplaces for Plugins]]
+**Cursor** · 2026-03-03 · [[Themes/developer-workflow|Developer Workflow]] · Launch · [Official source](https://cursor.com/changelog/2-6) · from [[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|MCP Apps and Team Marketplaces for Plugins]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -86,17 +88,24 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-03-03-mcp-apps-support-interactive-user-interfaces-like-charts-from-amplitude-diagrams|MCP Apps support interactive user interfaces like charts from Amplitude, diagrams…]] · Apps and Integrations
-- [[Changes/Cursor/2026-03-03-added-support-for-multiple-parallel-debug-mode-sessions|Added support for multiple parallel Debug mode sessions]] · Developer Workflow
-- [[Changes/Cursor/2026-03-03-desktop-improvements-15|Desktop Improvements (15)↓↑]] · Mobile and Desktop
-- [[Changes/Cursor/2026-03-03-on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p|On Teams and Enterprise plans, Admins can now create team marketplaces to share…]] · Enterprise and Administration
+- [[Changes/Cursor/2026-03-03-3-apps-and-integrations-changes-in-2-6|3 Apps and Integrations changes in 2.6]] · Apps and Integrations
+- [[Changes/Cursor/2026-03-03-mcp-apps-support-interactive-user-interfaces-like-charts-from-amplitude-diagrams|MCP Apps]] · Apps and Integrations
+- [[Changes/Cursor/2026-03-03-improved-reliability-for-longer-running-agent-sessions|Improved reliability for longer-running agent sessions]] · Agent Mode
+- [[Changes/Cursor/2026-03-03-modals-load-faster|Modals load faster]] · Reliability and Performance
+- [[Changes/Cursor/2026-03-03-3-developer-workflow-changes-in-2-6|3 Developer Workflow changes in 2.6]] · Developer Workflow
+- [[Changes/Cursor/2026-03-03-clearer-more-consistent-team-and-enterprise-policy-and-access-controls|Clearer, more consistent team and enterprise policy and access controls]] · Enterprise and Administration
+- [[Changes/Cursor/2026-03-03-2-context-window-changes-in-2-6|2 Context Window changes in 2.6]] · Context Window
+- [[Changes/Cursor/2026-03-03-on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p|Team marketplaces for plugins]] · Enterprise and Administration
+- [[Changes/Cursor/2026-03-03-fixed-team-permission-and-access-control-inconsistencies-across-organization-set|Fixed team permission and access control inconsistencies across organization setups]] · Safety and Privacy
+- [[Changes/Cursor/2026-03-03-the-content-from-your-plan-files-are-now-included-in-autocomplete-suggestions-as|The content from your plan files are now included in autocomplete suggestions as you…]] · Interface Experience
+- [[Changes/Cursor/2026-03-03-agent-workflows-are-faster-and-more-predictable-for-multi-file-edits-and-pr-heav|Agent workflows are faster and more predictable for multi-file edits and PR-heavy tasks]] · Editor Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-added-simplify-and-batch-bundled-slash-commands|Added /simplify and /batch bundled slash commands]]
-- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-added-ctrl-u-on-an-empty-bash-prompt-to-exit-bash-mode-matching-escape-and-backs|Added Ctrl+U on an empty bash prompt (!) to exit bash mode, matching escape…]]
+- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-6-developer-workflow-changes-in-v2-1-69|6 Developer Workflow changes in v2.1.69]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

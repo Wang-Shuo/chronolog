@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 46a4184edbdd28c889ff3ac7da3765649c49ecf8747dc35e0f7488bd16b8f186
+machine_hash: f7981fea9661ef2a6f3ca240fb41db28a5978235654594b77cb5fe9dd0e287de
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -65,6 +65,7 @@ related_changes:
   OneNote plugin helps you find and summarize notes, gather decisions and action…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-03-zendesk-onenote-plugins-in-chatgpt-and-codex-beta-d31462ff|chatgpt-2026-09-03-zendesk-onenote-plugins-in-chatgpt-and-codex-beta-d31462ff]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: apps-integrations
 title: Today, we added the Zendesk and OneNote plugins in the Plugin directory
 type: change

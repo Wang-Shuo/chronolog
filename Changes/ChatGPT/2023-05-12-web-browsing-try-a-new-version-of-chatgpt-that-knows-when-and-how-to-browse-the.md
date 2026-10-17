@@ -15,9 +15,10 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 08c4e2f44adbbb452c63e719bd66ffa9a6fcd07edd1b244e83f2c2063ac67c3a
+kind: change
+machine_hash: ee855d58143dd6b0e3f0c452f0a57b208c805cc4839f3a6e959f494b88f4b2b2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,8 +34,9 @@ record:
   - quote: 'Web browsing: Try a new version of ChatGPT that knows when and how to
       browse the internet to answer questions about recent topics and events.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: web-browsing-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-browse-the
@@ -77,7 +79,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
-- Later: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|Browse with Bing]]
+- Later: 2023-06-22 · ChatGPT · [[Changes/ChatGPT/2023-06-22-search-history-improvements-tapping-on-a-search-result-takes-you-directly-to-the|Search History Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

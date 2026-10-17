@@ -13,9 +13,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: ab0388f650781ed76b00c42c9c90bd1b78bc0b05e9de931ecd88998b4b7609c7
+kind: change
+machine_hash: 27c62071ef184eca230125c27e422e2a1303b644eaa23a4687461ba5aa4e7160
 product: cursor
 product_name: Cursor
 record:
@@ -26,8 +27,9 @@ record:
   evidence:
   - quote: Cleaned up chat styling
     source_release: https://cursor.com/changelog/0-1-12
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: cleaned-up-chat-styling
@@ -39,9 +41,10 @@ record:
   title: Cleaned up chat styling
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-03-23-chat-history-saved-between-sessions|Chat history saved
-  between sessions]]'
-- '[[Changes/Cursor/2023-03-23-resizable-sidebar|Resizable sidebar]]'
+- '[[Changes/Cursor/2023-03-18-2-interface-experience-changes-in-0-1-2|2 Interface
+  Experience changes in 0.1.2]]'
+- '[[Changes/Cursor/2023-03-23-3-interface-experience-changes-in-0-1-5|3 Interface
+  Experience changes in 0.1.5]]'
 - '[[Changes/Cursor/2023-03-27-changes-autoupdate-to-notify-you-when-there-s-a-new-version|Changes
   autoupdate to notify you when there''s a new version]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-30-0-1-12-https-cursor-com-changelog-0-1-12-f3e1800c|cursor-2023-03-30-0-1-12-https-cursor-com-changelog-0-1-12-f3e1800c]]'

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 237089820cb20bf6693a0fad6a2d46e418be601c0f3db287ddd6a011ef3025e4
+machine_hash: 2e1063e693d4676ba938feecb358f5329c9d560437ed52b7f13ce91fb7e848ec
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   autoScrollEnabled config to disable conversation auto-scroll in fullscreen mode]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59|claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Changed Ctrl+O to toggle between normal and verbose transcript only
 type: change

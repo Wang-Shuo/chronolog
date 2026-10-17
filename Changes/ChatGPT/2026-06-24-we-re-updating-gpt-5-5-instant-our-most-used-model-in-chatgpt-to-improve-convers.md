@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: ed48d6ac975eb9a536be5fd1c37b2bb3fa904b171365acf075be5333a4685533
+kind: change
+machine_hash: 4ecd5e81a4024faef23f1e668c481a6d8e13ee8e90472a5604839d33f1f1a320
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,8 +59,9 @@ record:
       cohesive. Formatting is less templated and more intentionally designed, with
       greater creativity alongside better restraint.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-updating-gpt-5-5-instant-our-most-used-model-in-chatgpt-to-improve-convers
@@ -77,24 +79,24 @@ record:
     score: 50
     theme: context-window
   theme_resolution: manual-semantic-rule-v2
-  title: We’re updating GPT-5.5 Instant, our most-used model in ChatGPT, to improve…
+  title: GPT-5.5 Instant Update
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|As
-  of June 12, 2026, GPT-5.2 models are no longer available in ChatGPT.This applies…]]'
 - '[[Changes/Claude Code/2026-06-12-added-enforceavailablemodels-managed-setting-when-enabled-the-availablemodels-al|Added
   enforceAvailableModels managed setting]]'
+- '[[Changes/Claude Code/2026-06-15-bug-now-requires-a-description-before-submitting-and-no-longer-uses-model-refusa|/bug
+  now requires a description before submitting, and no longer uses…]]'
 - '[[Changes/Claude Code/2026-06-19-added-a-warning-when-the-requested-model-is-deprecated-or-automatically-updated|Added
   a warning when the requested model is deprecated or automatically updated…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-24-gpt-5-5-instant-update-6c17e30e|chatgpt-2026-06-24-gpt-5-5-instant-update-6c17e30e]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We’re updating GPT-5.5 Instant, our most-used model in ChatGPT, to improve…
+title: GPT-5.5 Instant Update
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We’re updating GPT-5.5 Instant, our most-used model in ChatGPT, to improve…
+# GPT-5.5 Instant Update
 
 **ChatGPT** · 2026-06-24 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-24-gpt-5-5-instant-update-6c17e30e|GPT-5.5 Instant Update]]
 <!-- chronolog:end -->

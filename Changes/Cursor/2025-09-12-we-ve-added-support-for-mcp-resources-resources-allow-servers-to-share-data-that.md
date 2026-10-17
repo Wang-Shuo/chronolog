@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 3d84a3437474daa063846bfed55ddf7e48657eb68c5146cef0deb9d54e6f551e
+machine_hash: 78d812b435c488921545af38136f85fb257d5c72063250e618883420c11f5d3a
 product: cursor
 product_name: Cursor
 record:
@@ -67,6 +67,7 @@ related_changes:
   now supports MCP elicitation, a new feature in the MCP spec that allows…]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea|cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: Cursor adds support for MCP Resources
 type: change

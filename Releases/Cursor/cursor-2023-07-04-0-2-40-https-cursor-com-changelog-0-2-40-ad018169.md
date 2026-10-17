@@ -2,7 +2,7 @@
 changes_count: 0
 date: '2023-07-04'
 description: 'Cursor release Release for Linux on 2023-07-04: no tracked changes'
-machine_hash: 2385d37e9ebaaedc62cfc430b4c997779a6b47fe5b53c19d96704674bb2e2967
+machine_hash: 0aa55681b8ddf55b540a4487e3315a9a707fd0498ee65a2d0fdd1fdf4fdbd188
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.2.40
 <!-- chronolog:begin region="summary" -->
 This build has no changes for Mac and Windows, but fixes a problem for Linux users who can now upgrade to the latest version.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

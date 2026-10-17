@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: b5c218ecd0b0aa22ec5c815233b7cbd77305c9cbcf9cca5fec00d0f5e74534b4
+machine_hash: 1d0be0dba6539b61ef1b8d3ee3f015979586faae00868ba64095b6af75d8c725
 product: cursor
 product_name: Cursor
 record:
@@ -63,6 +63,7 @@ related_changes:
   should now be faster, more stable, and use less of your system resources]]'
 source_release: '[[Releases/Cursor/cursor-2023-10-01-0-12-0-https-cursor-com-changelog-0-12-0-2555ff30|cursor-2023-10-01-0-12-0-https-cursor-com-changelog-0-12-0-2555ff30]]'
 source_type: cursor_changelog
+superseded: true
 theme: reliability-performance
 title: Bugfixes!
 type: change

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-11-15'
 description: 'Cursor release New upstream on 2023-11-15: 1 tracked change across Apps
   and Integrations'
-machine_hash: a91677fa644c0231f8ab6b6e467407bbc02e6dde9c66d92b98e24987e77091c9
+machine_hash: 7c36217b69e9d031fc38ace1fecaa49f3551296e86967c75d91a7028f941b08e
 product: cursor
 product_name: Cursor
 record:
@@ -39,10 +39,10 @@ version: 0.15.6-nightly
 <!-- chronolog:begin region="summary" -->
 Now based on VS Code 1.84.2. Notably, this fixes a few notebook bugs, and ensures that all of the most recent extensions work.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-11-15-now-based-on-vs-code-1-84-2-notably-this-fixes-a-few-notebook-bugs-and-ensures-t|Now based on VS Code 1.84.2]] · Apps and Integrations
+- [[Changes/Cursor/2023-11-15-now-based-on-vs-code-1-84-2-notably-this-fixes-a-few-notebook-bugs-and-ensures-t|New upstream]] · Apps and Integrations
 <!-- chronolog:end -->

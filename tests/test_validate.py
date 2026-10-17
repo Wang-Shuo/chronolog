@@ -4,6 +4,8 @@ import sys
 from pathlib import Path
 from uuid import uuid4
 
+import pytest
+
 from _scripts.common import PipelinePaths, card_id_for, read_json, write_json
 from _scripts.validate import validate_card, validate_cards_file, validate_vault_links
 
@@ -276,3 +278,46 @@ def test_direct_cli_invocation_writes_valid_cards_and_dlq_for_round_one():
     finally:
         shutil.rmtree(paths.run_dir, ignore_errors=True)
         paths.dlq.unlink(missing_ok=True)
+
+
+def v5_card(quotes, **overrides):
+    source_release = "cursor-2026-03-15-v1"
+    card = valid_card(
+        evidence=[{"source_release": "https://example.com", "quote": quote} for quote in quotes],
+        extractor_version="fallback-v5",
+        kind="launch",
+        card_id=card_id_for("cursor", "2026-03-15", "\n".join(quotes), source_release=source_release),
+    )
+    card.update(overrides)
+    return card
+
+
+def test_v5_identity_joins_every_evidence_quote():
+    quotes = ["Agent mode can run commands.", "It asks before risky commands."]
+
+    assert validate_card(v5_card(quotes), {"agent-mode"}) == []
+    first_only = card_id_for("cursor", "2026-03-15", quotes[0], source_release="cursor-2026-03-15-v1")
+    assert "card_id does not match primary evidence" in validate_card(
+        v5_card(quotes, card_id=first_only), {"agent-mode"})
+
+
+def test_legacy_scoped_versions_keep_first_quote_identity():
+    quotes = ["Agent mode can run commands.", "Reconstructed second quote."]
+    card = v5_card(quotes, extractor_version="fallback-v4", card_id=card_id_for(
+        "cursor", "2026-03-15", quotes[0], source_release="cursor-2026-03-15-v1"))
+    card.pop("kind")
+
+    assert validate_card(card, {"agent-mode"}) == []
+
+
+@pytest.mark.parametrize("kind", ["launch", "expansion", "pricing", "policy", "fix", "digest", "change"])
+def test_validate_card_accepts_the_closed_kind_set(kind):
+    assert validate_card(v5_card(["Agent mode can run commands."], kind=kind), {"agent-mode"}) == []
+
+
+def test_validate_card_rejects_unknown_or_missing_kind():
+    assert "kind is invalid" in validate_card(
+        v5_card(["Agent mode can run commands."], kind="feature"), {"agent-mode"})
+    card = v5_card(["Agent mode can run commands."])
+    card.pop("kind")
+    assert "kind is required" in validate_card(card, {"agent-mode"})

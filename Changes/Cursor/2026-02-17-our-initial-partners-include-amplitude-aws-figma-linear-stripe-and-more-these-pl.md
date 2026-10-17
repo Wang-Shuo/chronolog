@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 499ffef1d85fdf628680a3de2eee1e7f11dd3bbbe6dbb3e0dbda0493c2399c47
+machine_hash: 050526e2bb19451d5e15f735905e43aa969a0b9afab03809fc44c5e2ea49a2be
 product: cursor
 product_name: Cursor
 record:
@@ -50,6 +50,7 @@ related_changes:
   plugins at cursor.com/marketplace or install directly in the editor…]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320|cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: Our initial partners include Amplitude, AWS, Figma, Linear, Stripe, and more
 type: change

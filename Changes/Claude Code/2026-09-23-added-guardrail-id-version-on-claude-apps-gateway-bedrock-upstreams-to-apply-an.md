@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e18eeb0e0e093851e7e19747a0b530871d8a8a8616014a402d144ec035b689e3
+machine_hash: 99b2c33025fb436f29bfbc7057bcc73a5216bdfb8c588bef8eaccb6f8bdbfff8
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   CLAUDE_CODE_MAX_MCP_DESCRIPTION_LENGTH to change the 2,048-character cap…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95|claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: 'Added guardrail: {id, version} on Claude apps gateway Bedrock upstreams to
   apply…'

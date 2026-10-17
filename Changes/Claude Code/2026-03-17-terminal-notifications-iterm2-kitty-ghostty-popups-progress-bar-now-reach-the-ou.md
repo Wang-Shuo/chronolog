@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f0ecb7313141b67dd58d1921d391cdee72fa1df662c57a10780d5898f0d0d015
+kind: change
+machine_hash: d19fe56240bef0cc0ad65755702031bc163abc36af9f7fa79176aecacd843217
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
       reach the outer terminal when running inside tmux with `set -g allow-passthrough
       on`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.78
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: terminal-notifications-iterm2-kitty-ghostty-popups-progress-bar-now-reach-the-ou
@@ -41,12 +43,12 @@ record:
   title: Terminal notifications (iTerm2/Kitty/Ghostty popups, progress bar) now reach…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-10-added-exitworktree-tool-to-leave-an-enterworktree-session|Added
-  ExitWorktree tool to leave an EnterWorktree session]]'
 - '[[Changes/Claude Code/2026-03-12-vscode-improved-scroll-wheel-responsiveness-in-the-integrated-terminal-with-term|VSCode
   Improved scroll wheel responsiveness in the integrated terminal…]]'
-- '[[Changes/Claude Code/2026-03-14-added-worktree-sparsepaths-setting-for-claude-worktree-in-large-monorepos-to-che|Added
-  worktree.sparsePaths setting for claude --worktree in large monorepos…]]'
+- '[[Changes/Claude Code/2026-03-14-4-developer-workflow-changes-in-v2-1-76|4 Developer
+  Workflow changes in v2.1.76]]'
+- '[[Changes/Claude Code/2026-03-17-background-bash-tasks-are-now-killed-if-output-exceeds-5gb-preventing-runaway-pr|Background
+  bash tasks are now killed if output exceeds 5GB, preventing runaway…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721|claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721]]'
 source_type: github_releases
 theme: developer-workflow
@@ -69,17 +71,17 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-03-17-added-stopfailure-hook-event-that-fires-when-the-turn-ends-due-to-an-api-error-r|Added StopFailure hook event that fires when the turn ends due to an API error…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-03-17-added-effort-maxturns-and-disallowedtools-frontmatter-support-for-plugin-shipped|Added effort, maxTurns, and disallowedTools frontmatter support…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-03-17-response-text-now-streams-line-by-line-as-it-s-generated|Response text now streams line-by-line as it's generated]] · Interface Experience
-- [[Changes/Claude Code/2026-03-17-added-claude-plugin-data-variable-for-plugin-persistent-state-that-survives-plug|Added ${CLAUDE_PLUGIN_DATA} variable for plugin persistent state that survives…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-03-17-2-safety-and-privacy-changes-in-v2-1-78|2 Safety and Privacy changes in v2.1.78]] · Safety and Privacy
+- [[Changes/Claude Code/2026-03-17-3-apps-and-integrations-changes-in-v2-1-78|3 Apps and Integrations changes in v2.1.78]] · Apps and Integrations
+- [[Changes/Claude Code/2026-03-17-2-interface-experience-changes-in-v2-1-78|2 Interface Experience changes in v2.1.78]] · Interface Experience
+- [[Changes/Claude Code/2026-03-17-improved-memory-usage-and-startup-time-when-resuming-large-sessions|Improved memory usage and startup time when resuming large sessions]] · Reliability and Performance
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-added-worktree-sparsepaths-setting-for-claude-worktree-in-large-monorepos-to-che|Added worktree.sparsePaths setting for claude --worktree in large monorepos…]]
-- Later: 2026-03-20 · Claude Code · [[Changes/Claude Code/2026-03-20-resuming-a-session-that-was-in-a-worktree-now-switches-back-to-that-worktree|Resuming a session that was in a worktree now switches back to that worktree]]
+- Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-background-bash-tasks-are-now-killed-if-output-exceeds-5gb-preventing-runaway-pr|Background bash tasks are now killed if output exceeds 5GB, preventing runaway…]]
+- Later: 2026-03-20 · Claude Code · [[Changes/Claude Code/2026-03-20-4-developer-workflow-changes-in-v2-1-81|4 Developer Workflow changes in v2.1.81]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

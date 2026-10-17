@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 12148ecafef8cc5f5a98553fb8d1b1dd946ef1d86558944490ba324617e6129a
+kind: fix
+machine_hash: ff2c95e9d617ca39f110f293a0f857814d599d28a07cd6adcc53f1e60153eb2e
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Fixed per-user temp directory isolation to prevent permission conflicts
       on shared systems
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.23
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: fix
   product: claude-code
   product_name: Claude Code
   slug: fixed-per-user-temp-directory-isolation-to-prevent-permission-conflicts-on-share
@@ -43,12 +45,12 @@ record:
     shared systems
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-09-added-detection-and-warnings-for-unreachable-permission-rules-with-warnings-in-d|Added
-  detection and warnings for unreachable permission rules, with warnings…]]'
-- '[[Changes/Claude Code/2026-01-14-added-ability-to-provide-feedback-when-accepting-permission-prompts|Added
-  ability to provide feedback when accepting permission prompts]]'
-- '[[Changes/Claude Code/2026-01-14-fixed-security-vulnerability-where-wildcard-permission-rules-could-match-compoun|Fixed
-  security vulnerability where wildcard permission rules could match compound…]]'
+- '[[Changes/Claude Code/2026-01-14-2-safety-and-privacy-changes-in-v2-1-7|2 Safety
+  and Privacy changes in v2.1.7]]'
+- '[[Changes/Cursor/2026-01-22-unified-cli-permissions-with-the-editor-including-run-everything-auto-run-in-san|Unified
+  CLI permissions with the editor, including Run Everything, Auto-Run…]]'
+- '[[Changes/Claude Code/2026-01-27-2-safety-and-privacy-changes-in-v2-1-20|2 Safety
+  and Privacy changes in v2.1.20]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-29-v2-1-23-github-280926274-b1e77a6a|claude-code-2026-01-29-v2-1-23-github-280926274-b1e77a6a]]'
 source_type: github_releases
 theme: safety-privacy
@@ -60,7 +62,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Fixed per-user temp directory isolation to prevent permission conflicts on shared systems
 
-**Claude Code** · 2026-01-29 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.23) · from [[Releases/Claude Code/claude-code-2026-01-29-v2-1-23-github-280926274-b1e77a6a|v2.1.23]]
+**Claude Code** · 2026-01-29 · [[Themes/safety-privacy|Safety and Privacy]] · Fix · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.23) · from [[Releases/Claude Code/claude-code-2026-01-29-v2-1-23-github-280926274-b1e77a6a|v2.1.23]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -72,16 +74,14 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-01-29-improved-terminal-rendering-performance-with-optimized-screen-data-layout|Improved terminal rendering performance with optimized screen data layout]] · Interface Experience
-- [[Changes/Claude Code/2026-01-29-added-customizable-spinner-verbs-setting-spinnerverbs|Added customizable spinner verbs setting (spinnerVerbs)]] · Interface Experience
+- [[Changes/Claude Code/2026-01-29-3-interface-experience-changes-in-v2-1-23|3 Interface Experience changes in v2.1.23]] · Interface Experience
 - [[Changes/Claude Code/2026-01-29-changed-bash-commands-to-show-timeout-duration-alongside-elapsed-time|Changed Bash commands to show timeout duration alongside elapsed time]] · Developer Workflow
-- [[Changes/Claude Code/2026-01-29-changed-merged-pull-requests-to-show-a-purple-status-indicator-in-the-prompt-foo|Changed merged pull requests to show a purple status indicator in the prompt footer]] · Interface Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-01-14 · Claude Code · [[Changes/Claude Code/2026-01-14-fixed-security-vulnerability-where-wildcard-permission-rules-could-match-compoun|Fixed security vulnerability where wildcard permission rules could match compound…]]
+- Earlier: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-2-safety-and-privacy-changes-in-v2-1-20|2 Safety and Privacy changes in v2.1.20]]
 - Later: 2026-01-30 · Claude Code · [[Changes/Claude Code/2026-01-30-permissions-now-respect-content-level-ask-over-tool-level-allow-previously-allow|Permissions now respect content-level ask over tool-level allow]]
 <!-- chronolog:end -->
 

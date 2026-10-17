@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 21e54c42c895cdfb85dd547b17afc4cc9a5d57680f37f0aac12b17a8dd932c1d
+machine_hash: ef2fc6be75cd7b336e2bf2a67a54913313b4c189f9e963a2a44b606d6d022bec
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   PowerShell tool permission checks]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-89-github-303967782-358023f0|claude-code-2026-04-01-v2-1-89-github-303967782-358023f0]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Added "defer" permission decision to PreToolUse hooks
 type: change

@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: 1531c9b10758e990510dc92da9f9d70e370b0ca4542adf1e2c08b3b5457b22d8
+machine_hash: 00ff2f92547c1e09fd9b90aabdb04c36418e6e471fc24e8f81fc75497c8a9471
 product: claude-code
 record:
   card_id: claude-code-2026-08-21-b9fd7d
@@ -14,8 +14,9 @@ record:
       0.x to 1.x, and updated the skill's Python reference for 1.x (timeouts use `anthropic.Timeout`,
       not `httpx.Timeout`)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.239
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-claude-api-upgrade-to-migrate-python-projects-from-anthropic-0-x-to-1-x-an

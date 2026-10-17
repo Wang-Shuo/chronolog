@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 37507944f673f4c9d87cb3b2f6647602a45c6c24f5da4520656de8082f328250
+kind: change
+machine_hash: 7e287594569b45276cb9102b5fd1971bf175339f3c7146815636ced33981193b
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,8 +28,9 @@ record:
   evidence:
   - quote: Improved ordering of short task lists
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.59
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-ordering-of-short-task-lists
@@ -40,10 +42,10 @@ record:
   title: Improved ordering of short task lists
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-17-added-spinnertipsoverride-setting-to-customize-spinner-tips-configure-tips-with|Added
-  spinnerTipsOverride setting to customize spinner tips]]'
-- '[[Changes/Cursor/2026-02-18-typing-plan-takes-you-back-to-your-current-plan-and-its-action-menu-we-ve-also-a|Typing
-  /plan takes you back to your current plan and its action menu]]'
+- '[[Changes/Cursor/2026-02-18-plan-mode-improvements-in-cli-9a872d|Plan mode improvements
+  in CLI]]'
+- '[[Changes/Cursor/2026-02-18-2-interface-experience-changes-in-cli-improvements-and-mermaid-ascii|2
+  Interface Experience changes in CLI Improvements and Mermaid ASCII…]]'
 - '[[Changes/Cursor/2026-02-18-this-release-introduces-the-ability-to-hand-off-plans-from-the-cli-to-the-cloud|Cursor
   introduces the ability to hand off plans from the CLI to the cloud, in-line…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-26-v2-1-59-github-290659389-9e2d6217|claude-code-2026-02-26-v2-1-59-github-290659389-9e2d6217]]'

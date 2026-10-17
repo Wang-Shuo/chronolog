@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 189bad2749b67a111a3543a03033efd9450cd353f2ed881a949f88e5c32821cb
+machine_hash: 97248a3123d492e085309b92f4109800627958bed17009f52190ffbb3b29c651
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -65,6 +65,7 @@ related_changes:
   are available today on Teams and Enterprise plans]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-share-your-profile-and-showcase-your-sites-b1579ad3|chatgpt-2026-09-29-share-your-profile-and-showcase-your-sites-b1579ad3]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: enterprise-admin
 title: Profile sharing and the Sites showcase are available on web and desktop
 type: change

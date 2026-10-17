@@ -5,8 +5,8 @@ description: 'Cursor · 2026-04-29 · Apps and Integrations: We''re introducing 
   Cursor SDK so you can build agents with the same runtime, harness, and models that
   power…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1133
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: af058382f28f94c37305979e5f2816ce1e9cbfeda4cd87ce37b7eaa774815617
+kind: launch
+machine_hash: 8a594e47d46f95ea4a5dc107212534d9b5f989c6800dd5bc7edb3bd0d134c7b6
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +32,9 @@ record:
   - quote: We're introducing the Cursor SDK so you can build agents with the same
       runtime, harness, and models that power Cursor.
     source_release: https://cursor.com/changelog/sdk-release
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: cursor
   product_name: Cursor
   slug: we-re-introducing-the-cursor-sdk-so-you-can-build-agents-with-the-same-runtime-h
@@ -52,12 +54,12 @@ record:
   title: Cursor introduces the Cursor SDK so you can build agents with the same runtime…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-28-mcp-now-shows-claude-ai-connectors-hidden-by-a-manually-added-server-with-the-sa|/mcp
-  now shows claude.ai connectors hidden by a manually-added server…]]'
-- '[[Changes/Claude Code/2026-04-28-added-alwaysload-option-to-mcp-server-config-when-true-all-tools-from-that-serve|Added
-  alwaysLoad option to MCP server config]]'
-- '[[Changes/Claude Code/2026-04-28-posttooluse-hooks-can-now-replace-tool-output-for-all-tools-via-hookspecificoutp|PostToolUse
-  hooks can now replace tool output for all tools…]]'
+- '[[Changes/Claude Code/2026-04-23-5-apps-and-integrations-changes-in-v2-1-118|5
+  Apps and Integrations changes in v2.1.118]]'
+- '[[Changes/Claude Code/2026-04-28-2-apps-and-integrations-changes-in-v2-1-122|2
+  Apps and Integrations changes in v2.1.122]]'
+- '[[Changes/Claude Code/2026-04-28-6-apps-and-integrations-changes-in-v2-1-121|6
+  Apps and Integrations changes in v2.1.121]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3|cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -68,7 +70,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Cursor introduces the Cursor SDK so you can build agents with the same runtime…
 
-**Cursor** · 2026-04-29 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://cursor.com/changelog/sdk-release) · from [[Releases/Cursor/cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3|Build programmatic agents with the Cursor SDK]]
+**Cursor** · 2026-04-29 · [[Themes/apps-integrations|Apps and Integrations]] · Launch · [Official source](https://cursor.com/changelog/sdk-release) · from [[Releases/Cursor/cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3|Build programmatic agents with the Cursor SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -80,22 +82,23 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-04-29-run-npm-install-cursor-sdk-to-get-started-you-can-also-use-cursor-s-native-sdk-s|Run npm install @cursor/sdk to get started]] · Apps and Integrations
-- [[Changes/Cursor/2026-04-29-model-id-composer-2-5|model: { id: "composer-2.5" },]] · Model Support
+- [[Changes/Cursor/2026-04-29-run-npm-install-cursor-sdk-to-get-started-you-can-also-use-cursor-s-native-sdk-s-76fb76|Run npm install @cursor/sdk to get started]] · Apps and Integrations
 - [[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The agents that run in the Cursor desktop app, CLI, and web app are now accessible…]] · Mobile and Desktop
+- [[Changes/Cursor/2026-04-29-3-agent-mode-changes-in-build-programmatic-agents|3 Agent Mode changes in Build programmatic agents…]] · Agent Mode
+- [[Changes/Cursor/2026-04-29-added-first-class-run-streaming-with-sse-events-reconnect-support-via-last-event|Added first-class run streaming with SSE events, reconnect support…]] · Developer Workflow
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-posttooluse-hooks-can-now-replace-tool-output-for-all-tools-via-hookspecificoutp|PostToolUse hooks can now replace tool output for all tools…]]
-- Later: 2026-05-01 · Cursor · [[Changes/Cursor/2026-05-01-plugins-bundle-capabilities-like-mcp-servers-skills-subagents-rules-and-hooks-th|Plugins bundle capabilities like MCP servers, skills, subagents, rules, and hooks…]]
+- Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-6-apps-and-integrations-changes-in-v2-1-121|6 Apps and Integrations changes in v2.1.121]]
+- Later: 2026-05-04 · Claude Code · [[Changes/Claude Code/2026-05-04-6-apps-and-integrations-changes-in-v2-1-128|6 Apps and Integrations changes in v2.1.128]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 21b3da90c67f890355ed9f0e69fb46437b900d015bb339fd8387a4af166137b8
+machine_hash: 99dbae76354eaa4d4c0f70c283b008c0e49fc169c5fdedf81a91c4bcee0bb9c4
 product: cursor
 product_name: Cursor
 record:
@@ -48,6 +48,7 @@ related_changes:
   interfere with intellisense and cmd-k]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-15-0-16-0-https-cursor-com-changelog-0-16-0-5861ed6e|cursor-2023-11-15-0-16-0-https-cursor-com-changelog-0-16-0-5861ed6e]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: Copilot++ sees your lint errors and will use this to improve its suggestions
 type: change

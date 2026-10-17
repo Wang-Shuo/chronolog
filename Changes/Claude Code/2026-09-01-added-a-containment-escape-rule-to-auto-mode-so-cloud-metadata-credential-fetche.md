@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ec92d21a35ff81289dc876edc39a24a523f9f3a190379b40fffe621e8b842028
+machine_hash: 8e21735df31f57424bcdc50e26a7b700c5d666296a592332ab4daa08294ebdef
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   live streaming of a foreground subagent''s tool calls and results to Remote…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6|claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added a Containment Escape rule to auto mode so cloud metadata-credential fetches…
 type: change

@@ -3,7 +3,7 @@ changes_count: 4
 date: '2026-08-25'
 description: 'ChatGPT release Scheduled tasks can respond to app updates and be shared
   on 2026-08-25: 4 tracked changes across Automation and Scheduling, Mobile and Desktop'
-machine_hash: f028d8066a58e5718d8b1791730fbf3ddf1bbf61ee464c5a5b0075b872180374
+machine_hash: 60fe55210c0f359558081907a59b7c7c395a47ba39ef5c1083a1bb8a9eb69a1b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,13 +42,13 @@ version: Scheduled tasks can respond to app updates and be shared
 <!-- chronolog:begin region="summary" -->
 Scheduled tasks in ChatGPT Work can use webhooks to respond when something changes in a supported app, helping you keep work moving without repeatedly checking for updates. You can also share a task so someone else can review and customize it, connect their own apps, and schedule an independent copy.Supported webhooks…
 
-Tracked 4 of 4 candidate lines.
+Tracked 4 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - [[Changes/ChatGPT/2026-08-25-scheduled-tasks-in-chatgpt-work-can-use-webhooks-to-respond-when-something-chang|Scheduled tasks in ChatGPT Work can use webhooks to respond when something changes…]] · Automation and Scheduling
-- [[Changes/ChatGPT/2026-08-25-free-go-plus-and-pro-users-can-share-scheduled-tasks-recipients-can-review-and-c|Free, Go, Plus, and Pro users can share scheduled tasks]] · Automation and Scheduling
-- [[Changes/ChatGPT/2026-08-25-free-users-can-create-up-to-three-active-scheduled-tasks-tasks-can-run-once-or-r|Free users can create up to three active scheduled tasks]] · Automation and Scheduling
-- [[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Plus and Pro users can ask Work on web, iOS, and Android to respond when a new Gmail…]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-08-25-free-go-plus-and-pro-users-can-share-scheduled-tasks-recipients-can-review-and-c|Share scheduled tasks]] · Automation and Scheduling · Launch
+- [[Changes/ChatGPT/2026-08-25-free-users-can-create-up-to-three-active-scheduled-tasks-tasks-can-run-once-or-r|Scheduled tasks for Free users]] · Automation and Scheduling · Launch
+- [[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Create webhook-triggered tasks]] · Mobile and Desktop · Launch
 <!-- chronolog:end -->

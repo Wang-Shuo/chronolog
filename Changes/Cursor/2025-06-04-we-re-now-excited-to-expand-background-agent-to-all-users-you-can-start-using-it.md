@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 295c10fee14c281de71710d9d7fe16c50d6dcbaae6da929243bf5e5e2aba37a4
+machine_hash: fe77808edfe3ccf1609f80e6099bd7426ba2eb71d184b97e8fca16b451fee713
 product: cursor
 product_name: Cursor
 record:
@@ -67,6 +67,7 @@ related_changes:
   update fixes the following security issue: CVE-2024-45599]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
 source_type: cursor_changelog
+superseded: true
 theme: safety-privacy
 title: Cursor expands Background Agent to all users!
 type: change

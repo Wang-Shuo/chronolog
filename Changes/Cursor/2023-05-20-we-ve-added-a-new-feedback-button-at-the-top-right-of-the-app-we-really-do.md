@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: aaf295d509c049a4f51e9f314cf50c3518bfd0dd2e6ffaa017284fedcf768d89
+kind: change
+machine_hash: 136e187535502f35860f1f6bec9b841f4f7e8821e08a3e01c85f143f09ae8297
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +32,9 @@ record:
   - quote: We've added a new feedback button at the top right of the app. - We really
       do
     source_release: https://cursor.com/changelog/0-2-18
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: we-ve-added-a-new-feedback-button-at-the-top-right-of-the-app-we-really-do
@@ -44,12 +46,12 @@ record:
   title: Cursor adds a new feedback button at the top right of the app
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-05-03-you-can-now-turn-off-chat-history-and-export-your-data-from-the-chatgpt-settings|Turn
-  off chat history and export your data from the ChatGPT settings]]'
 - '[[Changes/Cursor/2023-05-04-added-the-ability-to-hide-the-tooltip-cursor-config-advanced-chat-edit-tooltip|Added
   the ability to hide the tooltip (Cursor config  Advanced  Chat/Edit Tooltip)]]'
 - '[[Changes/Cursor/2023-05-09-includes-some-updates-to-option-enter-in-the-chat|Includes
   some updates to "Option+Enter" in the chat]]'
+- '[[Changes/Cursor/2023-05-17-a-better-cursor-tutor-onboarding|A better Cursor Tutor
+  onboarding!]]'
 source_release: '[[Releases/Cursor/cursor-2023-05-20-0-2-18-https-cursor-com-changelog-0-2-18-ba8b7390|cursor-2023-05-20-0-2-18-https-cursor-com-changelog-0-2-18-ba8b7390]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -72,15 +74,14 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2023-05-20-switching-between-models-is-a-lot-more-easy-and-the-transition-to-gpt-4-is-a-lot|Switching between models is a lot more easy, and the transition to gpt-4 is a lot smoother]] · Model Support
-- [[Changes/Cursor/2023-05-20-all-users-get-10-free-gpt-4-requests|All users get 10 free gpt-4 requests !!!]] · Model Support
+- [[Changes/Cursor/2023-05-20-upgrades-to-gpt-4-e59675|Upgrades to GPT-4]] · Model Support
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-05-09 · Cursor · [[Changes/Cursor/2023-05-09-includes-some-updates-to-option-enter-in-the-chat|Includes some updates to "Option+Enter" in the chat]]
-- Later: 2023-06-24 · Cursor · [[Changes/Cursor/2023-06-24-the-chat-has-been-revamped-you-can-now-use-symbols-to-show-files-code-docs-to-th|The chat has been revamped!]]
+- Earlier: 2023-05-17 · Cursor · [[Changes/Cursor/2023-05-17-a-better-cursor-tutor-onboarding|A better Cursor Tutor onboarding!]]
+- Later: 2023-06-24 · Cursor · [[Changes/Cursor/2023-06-24-the-chat-has-been-revamped-you-can-now-use-symbols-to-show-files-code-docs-to-th|Chat v2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -15,9 +15,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: b87cbb3e62de52b865c28d55698af102bebc37dda2d2e5143e618fe5e9fcc614
+kind: change
+machine_hash: 4bcbc990ab04a1178bf209495f27ef26da5cf34977bc78b730b57df952c16fc6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,10 +34,12 @@ record:
       connected apps. Set ChatGPT to always ask, ask before making changes, or only
       ask before important changes. Manage preferences in Settings > Apps.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
+  scope: Web, iOS, and Android
   slug: app-permission-controls-you-can-now-choose-when-chatgpt-asks-before-using-connec
   source_release: chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5
   source_type: chatgpt_changelog
@@ -47,12 +50,13 @@ record:
     connected apps'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-10-you-can-now-run-bugbot-and-security-review-with-review-before-pushing-code-revie|Run
-  Bugbot and Security Review with /review before pushing code]]'
-- '[[Changes/Claude Code/2026-06-15-added-tool-param-value-syntax-for-permission-rules-to-match-a-tool-s-input-param|Added
-  Tool(param:value) syntax for permission rules to match a tool''s input…]]'
+- '[[Changes/Cursor/2026-06-10-run-bugbot-before-you-push-3e5964|Run Bugbot before
+  you push]]'
+- '[[Changes/Claude Code/2026-06-15-2-safety-and-privacy-changes-in-v2-1-178|2 Safety
+  and Privacy changes in v2.1.178]]'
 - '[[Changes/Claude Code/2026-06-17-added-sandbox-allowappleevents-opt-in-setting-that-lets-sandboxed-commands-send|Added
   sandbox.allowAppleEvents opt-in setting that lets sandboxed commands send…]]'
+scope: Web, iOS, and Android
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
@@ -64,7 +68,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # App permission controls: You can now choose when ChatGPT asks before using connected apps
 
-**ChatGPT** · 2026-06-18 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
+**ChatGPT** · 2026-06-18 · [[Themes/safety-privacy|Safety and Privacy]] · Web, iOS, and Android · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -76,9 +80,13 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/ChatGPT/2026-06-18-updated-composer-and-tools-menu-the-composer-in-android-now-has-inline-mentions|Updated composer and tools menu]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press|Long-press send to choose a model]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-06-18-improved-camera-and-photo-uploads-taking-and-uploading-photos-in-chatgpt-on-ios|Improved camera and photo uploads]] · Mobile and Desktop
 - [[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World Cup updates]] · Collaboration
 - [[Changes/ChatGPT/2026-06-18-easier-pinning-and-sidebar-organization-it-s-now-easier-to-keep-important-work-c|Easier pinning and sidebar organization]] · Interface Experience
 - [[Changes/ChatGPT/2026-06-18-help-with-pronunciations-chatgpt-can-now-include-text-and-audio-pronunciation-gu|Help with pronunciations]] · Voice and Audio
+- [[Changes/ChatGPT/2026-06-18-easier-conversation-sharing-sharing-a-conversation-is-now-faster-with-a-one-clic|Easier conversation sharing]] · Reliability and Performance
 - [[Changes/ChatGPT/2026-06-18-chatgpt-now-has-more-ways-to-help-with-common-questions-from-pronunciation-guida|ChatGPT now has more ways to help with common questions, from pronunciation guidance…]] · Mobile and Desktop
 <!-- chronolog:end -->
 
@@ -86,7 +94,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-added-sandbox-allowappleevents-opt-in-setting-that-lets-sandboxed-commands-send|Added sandbox.allowAppleEvents opt-in setting that lets sandboxed commands send…]]
-- Later: 2026-06-23 · Claude Code · [[Changes/Claude Code/2026-06-23-added-mouse-click-support-to-select-menus-permission-prompts-model-config-etc-in|Added mouse click support to select menus…]]
+- Later: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-2-safety-and-privacy-changes-in-v2-1-186|2 Safety and Privacy changes in v2.1.186]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

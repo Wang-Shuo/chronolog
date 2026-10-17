@@ -1,9 +1,9 @@
 ---
-changes_count: 3
+changes_count: 1
 date: '2026-02-12'
 description: 'Cursor release Long-running Agents in Research Preview on 2026-02-12:
-  3 tracked changes across Agent Mode'
-machine_hash: b290db91a956eb3467f0868e2353747ac3d2ca153720c11e2f072413cc6f7771
+  1 tracked change across Agent Mode'
+machine_hash: 799e7d2012b52e269ffc7b86b6af7c789351be97616d3d8de0aacfcef6c68da3
 product: cursor
 product_name: Cursor
 record:
@@ -40,12 +40,10 @@ version: Long-running Agents in Research Preview
 <!-- chronolog:begin region="summary" -->
 Cursor can now work autonomously over longer horizons to complete larger, more complex tasks. Long-running agents plan first and finish more difficult work without human intervention.
 
-Tracked 3 of 4 candidate lines.
+Tracked 1 card from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-02-12-cursor-s-long-running-agent-is-now-available-at-cursor-com-agents-for-ultra-team|Cursor's long-running agent is now available at cursor.com/agents for Ultra, Teams…]] · Agent Mode
-- [[Changes/Cursor/2026-02-12-in-research-preview-and-internal-testing-long-running-agents-completed-work-that|In research preview and internal testing, long-running agents completed work…]] · Agent Mode
-- [[Changes/Cursor/2026-02-12-cursor-can-now-work-autonomously-over-longer-horizons-to-complete-larger-more-co|Cursor can now work autonomously over longer horizons to complete larger, more…]] · Agent Mode
+- [[Changes/Cursor/2026-02-12-cursor-can-now-work-autonomously-over-longer-horizons-to-complete-larger-more-co-48843c|Long-running Agents in Research Preview]] · Agent Mode
 <!-- chronolog:end -->

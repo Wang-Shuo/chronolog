@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-03-05'
 description: 'ChatGPT release GPT-5.4 Thinking in ChatGPT on 2026-03-05: 1 tracked
   change across Context Window'
-machine_hash: 9c946b0a4bdd054586a308f85cdd4baa562a7ca59815588fb140da30fba050fc
+machine_hash: d1f4816416f496d3ddd4602d13e761fb35d8400b2b43f442d27ab50826451d8f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: GPT-5.4 Thinking in ChatGPT
 <!-- chronolog:begin region="summary" -->
 GPT‑5.4 brings together the best of our recent advances in reasoning, coding, and agentic workflows into a single frontier model. It incorporates the industry-leading coding capabilities of GPT‑5.3‑Codex⁠ while improving how the model works across tools, software environments, and professional tasks involving…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-03-05-gpt-5-4-brings-together-the-best-of-our-recent-advances-in-reasoning-coding-and|GPT‑5.4 brings together the best of our recent advances in reasoning, coding…]] · Context Window
+- [[Changes/ChatGPT/2026-03-05-gpt-5-4-brings-together-the-best-of-our-recent-advances-in-reasoning-coding-and|GPT-5.4 Thinking in ChatGPT]] · Context Window
 <!-- chronolog:end -->

@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 141a820f33e734a7a281483fe190369785dddfbff80533e3c18f67f92bb118e8
+kind: launch
+machine_hash: 2ac79a2367e57ac2ed94aced6e1565981c87bdb0722a72ae0b598aa8c766f91d
 product: cursor
 product_name: Cursor
 record:
@@ -32,11 +33,12 @@ record:
   - quote: Introducing our first agentic coding model. Composer is a frontier model
       that is 4x faster than similarly intelligent models.
     source_release: https://cursor.com/changelog/2-0
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: introducing-our-first-agentic-coding-model-composer-is-a-frontier-model-that-is
+  slug: composer
   source_release: cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e
   source_type: cursor_changelog
   theme: model-support
@@ -54,26 +56,26 @@ record:
     - faster
     score: 50
     theme: reliability-performance
-  title: Introducing our first agentic coding model
+  title: Composer
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|We’re
-  improving the quality and latency of responses of the version of Advanced…]]'
-- '[[Changes/ChatGPT/2025-10-03-we-re-updating-gpt-5-instant-to-better-recognize-and-support-people-in-moments-o-ea32fc|We’re
-  updating GPT-5 Instant to better recognize and support people in moments of distress]]'
+- '[[Changes/ChatGPT/2025-09-29-opt-out-of-model-training-so-their-teen-s-conversations-won-t-be-used-to-improve|Opt
+  out of model training, so their teen’s conversations won’t be used to improve…]]'
+- '[[Changes/ChatGPT/2025-10-03-we-re-updating-gpt-5-instant-to-better-recognize-and-support-people-in-moments-o-ea32fc|Updating
+  GPT-5]]'
 - '[[Changes/ChatGPT/2025-10-22-we-re-updating-the-model-for-signed-out-users-to-gpt-5-instant-giving-more-peopl|We’re
   updating the model for signed-out users to GPT-5 Instant, giving more people…]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
 theme: model-support
-title: Introducing our first agentic coding model
+title: Composer
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Introducing our first agentic coding model
+# Composer
 
-**Cursor** · 2025-10-29 · [[Themes/model-support|Model Support]] · [Official source](https://cursor.com/changelog/2-0) · from [[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|New Coding Model and Agent Interface]]
+**Cursor** · 2025-10-29 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://cursor.com/changelog/2-0) · from [[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|New Coding Model and Agent Interface]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -85,17 +87,34 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2025-10-29-launched-in-beta-in-1-7-browser-for-agent-is-now-ga-we-ve-added-additional-suppo|Launched in beta in 1.7, browser for Agent is now GA]] · Enterprise and Administration
-- [[Changes/Cursor/2025-10-29-browser-can-now-be-embedded-in-editor-including-powerful-new-tools-to-select-ele|Browser can now be embedded in-editor, including powerful new tools to select…]] · Editor Experience
-- [[Changes/Cursor/2025-10-29-run-up-to-eight-agents-in-parallel-on-a-single-prompt-this-uses-git-worktrees-or|Run up to eight agents in parallel on a single prompt]] · Agent Mode
-- [[Changes/Cursor/2025-10-29-manage-agents-in-our-new-editor-with-a-sidebar-for-your-agents-and-plans|Manage agents in our new editor, with a sidebar for your agents and plans]] · Interface Experience
+- [[Changes/Cursor/2025-10-29-shareable-team-commands|Shareable Team Commands]] · Collaboration
+- [[Changes/Cursor/2025-10-29-improved-code-review|Improved Code Review]] · Developer Workflow
+- [[Changes/Cursor/2025-10-29-browser-ga-1124ce|Browser (GA)]] · Enterprise and Administration
+- [[Changes/Cursor/2025-10-29-optimized-text-parsing-for-chat-rendering|Optimized text parsing for chat rendering]] · Interface Experience
+- [[Changes/Cursor/2025-10-29-sandboxed-terminals-ga|Sandboxed Terminals (GA)]] · Safety and Privacy
+- [[Changes/Cursor/2025-10-29-improved-agent-harness|Improved Agent Harness]] · Agent Mode
+- [[Changes/Cursor/2025-10-29-voice-mode|Voice Mode]] · Voice and Audio
+- [[Changes/Cursor/2025-10-29-cursor-for-enterprise|Cursor for Enterprise]] · Enterprise and Administration
+- [[Changes/Cursor/2025-10-29-audit-log|Audit Log]] · Collaboration
+- [[Changes/Cursor/2025-10-29-increased-default-memory-for-typescript-language-server|Increased default memory for TypeScript language server]] · Memory and Personalization
+- [[Changes/Cursor/2025-10-29-background-agents-have-been-renamed-to-cloud-agents|Background Agents have been renamed to Cloud Agents]] · Agent Mode
+- [[Changes/Cursor/2025-10-29-cloud-agents|Cloud Agents]] · Agent Mode
+- [[Changes/Cursor/2025-10-29-improved-performance|Improved Performance]] · Reliability and Performance
+- [[Changes/Cursor/2025-10-29-3-developer-workflow-changes-in-2-0|3 Developer Workflow changes in 2.0]] · Developer Workflow
+- [[Changes/Cursor/2025-10-29-optimized-findfiles-performance-to-batch-concurrent-calls-at-bounded-concurrency|Optimized findFiles performance to batch concurrent calls at bounded concurrency]] · Reliability and Performance
+- [[Changes/Cursor/2025-10-29-plan-mode-in-background|Plan Mode in Background]] · Model Support
+- [[Changes/Cursor/2025-10-29-hooks-cloud-distribution|Hooks: Cloud Distribution]] · Enterprise and Administration
+- [[Changes/Cursor/2025-10-29-multi-agents-bb4f56|Multi-Agents]] · Agent Mode
+- [[Changes/Cursor/2025-10-29-team-commands|Team Commands]] · Collaboration
+- [[Changes/Cursor/2025-10-29-improved-prompt-ui|Improved Prompt UI]] · Context Window
+- [[Changes/Cursor/2025-10-29-sandboxed-terminals-admin-controls|Sandboxed Terminals: Admin Controls]] · Enterprise and Administration
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
 - Earlier: 2025-10-22 · ChatGPT · [[Changes/ChatGPT/2025-10-22-we-re-updating-the-model-for-signed-out-users-to-gpt-5-instant-giving-more-peopl|We’re updating the model for signed-out users to GPT-5 Instant, giving more people…]]
-- Later: 2025-11-05 · ChatGPT · [[Changes/ChatGPT/2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to|Interrupt long-running queries (such as deep research or GPT-5 Pro) to refine what…]]
+- Later: 2025-11-05 · ChatGPT · [[Changes/ChatGPT/2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to|Interrupt ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

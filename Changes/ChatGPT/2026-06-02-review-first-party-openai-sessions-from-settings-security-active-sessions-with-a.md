@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ad910d61a75c0932ced0d03333231207184e2343a6f66a0321c23daa81a2f2d0
+machine_hash: 420a9e7a04a91f81d22497463022ad8d820683787891763bdd037a3f37f086c3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -62,6 +62,7 @@ related_changes:
   applies to Shell, MCP, and Fetch tool calls]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-02-active-account-session-controls-0830d01c|chatgpt-2026-06-02-active-account-session-controls-0830d01c]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: safety-privacy
 title: Review first-party OpenAI sessions from Settings  Security  Active sessions…
 type: change

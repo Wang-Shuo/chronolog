@@ -15,9 +15,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: e9828eebfc12573f583d01c41adb59f4dd2a540f2345cb1035c1c5b70e3ef211
+kind: change
+machine_hash: f25630cadcec0a79743e88ca30f7fdf190c53bd304f611b3e848d273f12e05d7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,8 +34,9 @@ record:
       and bug fixes across Web, Android, and iOS. Below are a small number of specific
       callouts. For updates on the ChatGPT macOS app, please see this page.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and
@@ -56,12 +58,11 @@ record:
     and bug…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-28-2-bug-fixes-and-small-improvements-in-the-1-2025-056-ios-release-3-a-setting-to|Bug
-  fixes and small improvements in the 1.2025.056 iOS release]]'
+- '[[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|Updated
+  launch animations and composer design on Android]]'
+- '[[Changes/ChatGPT/2025-02-21-ios-widget-see-below|iOS widget (see below)]]'
 - '[[Changes/ChatGPT/2025-02-28-long-press-to-select-text-on-ios-and-moved-the-message-quick-actions-to-always-b-a40c3f|Long
   press to select text on iOS and moved the message quick actions to always…]]'
-- '[[Changes/ChatGPT/2025-03-18-1-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved
-  table-copying functionality out of ChatGPT responses on iOS and macOS]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255|chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -85,14 +86,16 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2025-03-18-2-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-a|o1 and o3-mini now offer Python-powered data analysis in ChatGPT]] · Model Support
+- [[Changes/ChatGPT/2025-03-18-in-line-message-error-retries-if-you-encounter-a-message-error-you-can-retry-or|In-line message error retries]] · Reliability and Performance
+- [[Changes/ChatGPT/2025-03-18-new-ui-for-temporary-chats-we-ve-made-accessing-and-viewing-these-private-conver|New UI for Temporary Chats]] · Safety and Privacy
+- [[Changes/ChatGPT/2025-03-18-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-ask-bfa530|o1 and o3-mini now offer Python-powered data analysis in ChatGPT]] · Model Support
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-1-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved table-copying functionality out of ChatGPT responses on iOS and macOS]]
-- Later: 2025-05-06 · ChatGPT · [[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a7377a|We've removed the row of individual tool icons from the mobile composer and replaced…]]
+- Earlier: 2025-02-28 · ChatGPT · [[Changes/ChatGPT/2025-02-28-long-press-to-select-text-on-ios-and-moved-the-message-quick-actions-to-always-b-a40c3f|Long press to select text on iOS and moved the message quick actions to always…]]
+- Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved table-copying functionality out of ChatGPT responses on iOS and macOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 8ff2f3b688a1dd78e33c32be3ffd49a53cd568968c69cbbc7327cf9895f2aa72
+machine_hash: 7bed6666631f239786166e331a058d6e885b94418e8df697aceafa5e412dea8a
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   per-command allowed_domains to Bash, PowerShell and Monitor in auto mode…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36|claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added AGENTS.md support
 type: change

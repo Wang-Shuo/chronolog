@@ -3,7 +3,7 @@ changes_count: 2
 date: '2023-08-17'
 description: 'Cursor release Small improvements on 2023-08-17: 2 tracked changes across
   Developer Workflow, Interface Experience'
-machine_hash: a16fd5bc419df0e4145ed1ef13c4f53d4e58b977d69ed62aa08bf61788f98e61
+machine_hash: e0be87af78ef087e3629c98ba1def24d39881e0af1b27e73bc5a3c784c0ed34c
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.7.14-nightly
 <!-- chronolog:begin region="summary" -->
 Small things!
 
-Tracked 2 of 3 candidate lines.
+Tracked 2 cards from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

@@ -1,9 +1,9 @@
 ---
-changes_count: 2
+changes_count: 1
 date: '2026-09-29'
 description: 'ChatGPT release GPT-6.1 Sol in ChatGPT Work and Codex on 2026-09-29:
-  2 tracked changes across Model Support'
-machine_hash: d4d61ec568abb3f3cfb041b9446b0c1300f3a345e85832a941c2d99813c955f1
+  1 tracked change across Model Support'
+machine_hash: 3ed7009260f04a0ba14f9576af98f3d4b6adadcbb103f3756c5819be5e694c56
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,11 +42,10 @@ version: GPT-6.1 Sol in ChatGPT Work and Codex
 <!-- chronolog:begin region="summary" -->
 GPT-6.1 Sol improves on GPT-6 Sol in agentic coding, computer use, and professional work. We’re rolling it out in ChatGPT Work and Codex, starting with Pro users and expanding to Plus, Business, Enterprise, and Edu. Enterprise and Edu workspace owners can enable model access in Workspace settings > Permissions & roles…
 
-Tracked 2 of 2 candidate lines.
+Tracked 1 card from 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-09-29-for-availability-and-model-selection-see-chatgpt-work-and-codex|For availability and model selection, see: ChatGPT Work and Codex]] · Model Support
-- [[Changes/ChatGPT/2026-09-29-gpt-6-1-sol-improves-on-gpt-6-sol-in-agentic-coding-computer-use-and-professiona|GPT-6.1 Sol improves on GPT-6 Sol in agentic coding, computer use, and professional work]] · Model Support
+- [[Changes/ChatGPT/2026-09-29-gpt-6-1-sol-improves-on-gpt-6-sol-in-agentic-coding-computer-use-and-professiona-815850|GPT-6.1 Sol in ChatGPT Work and Codex]] · Model Support
 <!-- chronolog:end -->

@@ -4,8 +4,8 @@ date: '2023-08-22'
 description: 'Cursor · 2023-08-22 · Editor Experience: Codeblocks and code symbols
   in "with codebase" responses will now often be clickable.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 161
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: aa6dcf0ea66a36274f30540ebc772ebf45531de678de0395d80a0c49b2221d74
+kind: change
+machine_hash: 057f284d91dc60f4a07240c3296090d7ed37c5981974cfe91155518048a2c685
 product: cursor
 product_name: Cursor
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Codeblocks and code symbols in "with codebase" responses will now often
       be clickable.
     source_release: https://cursor.com/changelog/0-8-2
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: codeblocks-and-code-symbols-in-with-codebase-responses-will-now-often-be-clickab
@@ -44,11 +46,10 @@ record:
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-08-10-cmd-k-now-has-a-fast-mode-it-is-about-1-second-faster-and-we-re-working-on-makin|Cmd-K
-  now has a fast mode!]]'
-- '[[Changes/Cursor/2023-08-12-the-cmd-k-edits-now-support-followups-this-is-an-early-preview-please-let-us-kno|The
-  cmd-k edits now support followups!]]'
-- '[[Changes/Cursor/2023-08-13-better-experience-for-long-files|Better experience
-  for long files!]]'
+  fast mode]]'
+- '[[Changes/Cursor/2023-08-12-the-cmd-k-edits-now-support-followups-this-is-an-early-preview-please-let-us-kno|Followups
+  in edits]]'
+- '[[Changes/Cursor/2023-08-13-better-experience-for-long-files|Long-file experience]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-22-0-8-2-https-cursor-com-changelog-0-8-2-866d920f|cursor-2023-08-22-0-8-2-https-cursor-com-changelog-0-8-2-866d920f]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -72,23 +73,24 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Cursor/2023-08-22-ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie|SSH support is now more robust!]] · Reliability and Performance
+- [[Changes/Cursor/2023-08-22-nicer-error-messages-in-the-chat-fewer-annoying-popups-7d864e|Nicer error messages in the chat!]] · Interface Experience
 - [[Changes/Cursor/2023-08-22-follow-up-chat-messages-to-with-codebase-will-keep-the-codebase-context|Follow-up chat messages to "with codebase" will keep the codebase context]] · Context Window
 - [[Changes/Cursor/2023-08-22-if-you-reference-a-long-file-that-will-be-cutoff-by-the-context-limit-you-ll-be|If you @ reference a long file that will be cutoff by the context limit, you'll…]] · Context Window
 - [[Changes/Cursor/2023-08-22-you-can-now-reply-to-cmd-k-outputs-making-it-much-easier-to-have-the-model-revis|Reply to Cmd-K outputs, making it much easier to have the model revise its work]] · Editor Experience
-- [[Changes/Cursor/2023-08-22-nicer-error-messages-in-the-chat-fewer-annoying-popups|Nicer error messages in the chat!]] · Interface Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-08-13 · Cursor · [[Changes/Cursor/2023-08-13-better-experience-for-long-files|Better experience for long files!]]
+- Earlier: 2023-08-13 · Cursor · [[Changes/Cursor/2023-08-13-better-experience-for-long-files|Long-file experience]]
 - Later: 2023-09-05 · Cursor · [[Changes/Cursor/2023-09-05-cmd-k-will-no-longer-output-backticks-if-you-do-file|Cmd-K will no longer output backticks if you do @file]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

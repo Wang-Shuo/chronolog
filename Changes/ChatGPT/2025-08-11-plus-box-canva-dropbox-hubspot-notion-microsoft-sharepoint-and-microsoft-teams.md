@@ -4,19 +4,19 @@ date: '2025-08-11'
 description: 'ChatGPT · 2025-08-11 · Collaboration: Plus: Box, Canva, Dropbox, HubSpot,
   Notion, Microsoft SharePoint, and Microsoft Teams'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
-    can also share private docs]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 703
+  lag_days: 810
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: d8eb8ed4af0b6b806be479257b54fbc8faa72300adf702b1a60b344ceeaa8e18
+kind: change
+machine_hash: 690d11b352313579052f5baa0b18a7d4d6d798014e8a6f1d6254b6d432eecd04
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,8 +29,9 @@ record:
   - quote: 'Plus: Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and
       Microsoft Teams'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: plus-box-canva-dropbox-hubspot-notion-microsoft-sharepoint-and-microsoft-teams
@@ -41,9 +42,10 @@ record:
     Teams'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-12-sharing-chats-from-projects|Sharing chats from projects]]'
-- '[[Changes/ChatGPT/2025-06-12-starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d|Starting
-  today, we’re adding several updates to projects in ChatGPT to help you do…]]'
+- '[[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow
+  team admins to configure an extension allowlist]]'
+- '[[Changes/Cursor/2025-08-06-ai-code-tracking-api-get-commit-level-visibility-into-ai-usage-and-accepted-chan|AI
+  code tracking API]]'
 - '[[Changes/ChatGPT/2025-08-11-pro-microsoft-teams-and-github|Pro: Microsoft Teams
   and GitHub]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a|chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a]]'
@@ -76,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d|Starting today, we’re adding several updates to projects in ChatGPT to help you do…]]
-- Later: 2025-10-23 · ChatGPT · [[Changes/ChatGPT/2025-10-23-content-creation-apply-project-specific-instructions-to-keep-tone-and-style-cons|Content creation: Apply project-specific instructions to keep tone and style…]]
+- Earlier: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-ai-code-tracking-api-get-commit-level-visibility-into-ai-usage-and-accepted-chan|AI code tracking API]]
+- Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-share-prompts-with-deeplinks-beta|Share prompts with deeplinks (beta)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

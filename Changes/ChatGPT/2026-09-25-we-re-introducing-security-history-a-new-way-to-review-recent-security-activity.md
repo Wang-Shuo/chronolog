@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: b6fa7286f633cb09272d4bc7a3381c1fba2dc5fe828a5124f298557788c30d02
+machine_hash: 791c83fdf6bec8dbf4946d2fe828f0ffbbd71f3cd39deee0d17478998810255a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -68,6 +68,7 @@ related_changes:
   launches two Cursor bots for the last mile of shipping code]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-25-security-history-in-chatgpt-5ecdb0cb|chatgpt-2026-09-25-security-history-in-chatgpt-5ecdb0cb]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: safety-privacy
 title: ChatGPT introduces security history, a new way to review recent security activity…
 type: change

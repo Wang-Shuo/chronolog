@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 1f22337039e2cbfabe568f0422b5d8257dc1657f65e1e70c862a6ede2f6374d1
+machine_hash: dd5a98507e1ec9b4716152a3022216ac193d7cae0230f21037344910924df264
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   /reload-plugins to headless sessions, so it appears in the Claude Code…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405|claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added support for pointing --plugin-dir at a folder of plugins
 type: change

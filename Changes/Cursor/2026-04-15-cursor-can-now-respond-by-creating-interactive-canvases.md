@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 35b85668684f47df3a83285bb983f71f7a6fda1c805274bc94c17cdd901f51f3
+machine_hash: c8b732931a00c2f625c2f43c8050b0c8ca7a613f0bc08980c92ce3888c06ad74
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   visualizations can include dashboards and custom interfaces built using…]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-15-canvases-https-cursor-com-changelog-04-15-26-cd056bf7|cursor-2026-04-15-canvases-https-cursor-com-changelog-04-15-26-cd056bf7]]'
 source_type: cursor_changelog
+superseded: true
 theme: file-data
 title: Cursor can now respond by creating interactive canvases
 type: change

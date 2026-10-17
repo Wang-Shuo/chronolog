@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 79ba1de9c0c0cc3d17c25935fef95e421928f678cf31f93209643464d84f9bca
+kind: change
+machine_hash: 306e214db01afdb6c697e77c4f29412417d43f8f1a13e5f2bf809f797cb8f3b7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,8 +30,9 @@ record:
   - quote: 'Formatting: Answers are better formatted for quick understanding without
       losing detail or quality.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: formatting-answers-are-better-formatted-for-quick-understanding-without-losing-d
@@ -43,12 +45,11 @@ record:
     losing…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|Chat
-  history has moved into the command palette]]'
-- '[[Changes/ChatGPT/2025-05-06-no-tools-are-deprecated-access-is-simply-consolidated-to-clear-space-and-reduce|No
-  tools are deprecated—access is simply consolidated to clear space and reduce…]]'
-- '[[Changes/ChatGPT/2025-06-03-memory-improvements-are-starting-to-roll-out-to-free-users-in-addition-to-the-sa-a02494|Memory
-  improvements are starting to roll out to Free users]]'
+- '[[Changes/Cursor/2025-06-04-new-settings-and-dashboard|New Settings and Dashboard]]'
+- '[[Changes/Cursor/2025-07-03-chat-rendering-bugs-resolved-toolcall-display-overflow-issues|Chat
+  rendering bugs resolved (toolcall display, overflow issues)]]'
+- '[[Changes/Cursor/2025-09-12-1-6-27-native-menu-notification-badge|1.6.27: Native
+  menu notification badge]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690|chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -79,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-06-03 · ChatGPT · [[Changes/ChatGPT/2025-06-03-memory-improvements-are-starting-to-roll-out-to-free-users-in-addition-to-the-sa-a02494|Memory improvements are starting to roll out to Free users]]
-- Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-manage-agents-in-our-new-editor-with-a-sidebar-for-your-agents-and-plans|Manage agents in our new editor, with a sidebar for your agents and plans]]
+- Earlier: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-1-6-27-native-menu-notification-badge|1.6.27: Native menu notification badge]]
+- Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-1-7-45-model-picker-ux|1.7.45: Model picker UX]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

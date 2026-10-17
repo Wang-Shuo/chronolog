@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6c22f417aa337523b4899343f09ee82b9ab5fb0210b90bf1d911804b232f1ba8
+machine_hash: 137312f6171e041aaddf484750e043881d7edc9f98e8e701ef4cf8e30bd7ed37
 product: cursor
 product_name: Cursor
 record:
@@ -48,6 +48,7 @@ related_changes:
 - '[[Changes/Cursor/2023-08-17-keychords-now-use-cmd-r-ctrl-r|Keychords now use Cmd+R/Ctrl+R]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-21-0-7-18-nightly-https-cursor-com-changelog-0-7-18-nightly-011c03c1|cursor-2023-08-21-0-7-18-nightly-https-cursor-com-changelog-0-7-18-nightly-011c03c1]]'
 source_type: cursor_changelog
+superseded: true
 theme: interface-experience
 title: Activity bar elements can now be reordered with drag-and-drop
 type: change

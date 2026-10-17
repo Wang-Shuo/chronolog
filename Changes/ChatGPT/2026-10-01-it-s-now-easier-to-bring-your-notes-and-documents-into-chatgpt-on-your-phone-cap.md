@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-10-01 · Files and Data: It’s now easier to brin
   notes and documents into ChatGPT on your phone. Capture multiple pages in a row,
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|ChatGPT
-    rolls out code interpreter to all ChatGPT Plus users over the next week]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
+    interpreter is now rolling out in beta on web]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1183
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: b22f48ed065b531314a79a4e5c7d3188a7c296163e528e44174e38b4eab4918c
+kind: change
+machine_hash: 9497b012d66673de1b2b1dce33b5a9561b6ca4ce9acab214449b1b6d0fba5cb3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,32 +34,33 @@ record:
       phone. Capture multiple pages in a row, and ChatGPT automatically combines them
       into a single PDF, ready to upload to your chat.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: it-s-now-easier-to-bring-your-notes-and-documents-into-chatgpt-on-your-phone-cap
   source_release: chatgpt-2026-10-01-scan-notes-and-documents-more-easily-with-chatgpt-camera-29008b79
   source_type: chatgpt_changelog
   theme: file-data
-  title: It’s now easier to bring your notes and documents into ChatGPT on your phone
+  title: Scan notes and documents more easily with ChatGPT camera
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-23-we-re-starting-to-roll-out-a-new-health-experience-in-chatgpt-logged-in-free-go|We’re
-  starting to roll out a new health experience in ChatGPT]]'
-- '[[Changes/ChatGPT/2026-08-07-get-answers-that-stay-closer-to-your-documents-chatgpt-makes-better-use-of-infor|Get
-  answers that stay closer to your documents]]'
-- '[[Changes/ChatGPT/2026-08-07-we-ve-made-it-easier-to-bring-documents-and-saved-files-into-your-conversations|ChatGPT
-  makes it easier to bring documents and saved files into your conversations…]]'
+- '[[Changes/Claude Code/2026-09-15-improved-artifact-database-writes-an-update-can-now-remove-a-single-field-instea|Improved
+  artifact database writes]]'
+- '[[Changes/Claude Code/2026-09-17-claude-tag-removed-the-repeated-guest-attribution-note-claude-appended-to-a-slac|Claude
+  Tag Removed the repeated guest-attribution note Claude appended to a Slack…]]'
+- '[[Changes/Claude Code/2026-09-25-improved-prompt-audit-on-claude-code-configuration-stale-paths-stale-commands-an|Improved
+  prompt-audit on Claude Code configuration]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-01-scan-notes-and-documents-more-easily-with-chatgpt-camera-29008b79|chatgpt-2026-10-01-scan-notes-and-documents-more-easily-with-chatgpt-camera-29008b79]]'
 source_type: chatgpt_changelog
 theme: file-data
-title: It’s now easier to bring your notes and documents into ChatGPT on your phone
+title: Scan notes and documents more easily with ChatGPT camera
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# It’s now easier to bring your notes and documents into ChatGPT on your phone
+# Scan notes and documents more easily with ChatGPT camera
 
 **ChatGPT** · 2026-10-01 · [[Themes/file-data|Files and Data]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-10-01-scan-notes-and-documents-more-easily-with-chatgpt-camera-29008b79|Scan notes and documents more easily with ChatGPT camera]]
 <!-- chronolog:end -->
@@ -76,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-08-07 · ChatGPT · [[Changes/ChatGPT/2026-08-07-we-ve-made-it-easier-to-bring-documents-and-saved-files-into-your-conversations|ChatGPT makes it easier to bring documents and saved files into your conversations…]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-added-prompt-media-so-a-prompt-submit-hook-of-a-mod-installed-by-managed-setting|Added $.prompt.media so a prompt.submit hook of a mod installed by managed…]]
+- Earlier: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-improved-prompt-audit-on-claude-code-configuration-stale-paths-stale-commands-an|Improved prompt-audit on Claude Code configuration]]
+- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-2-files-and-data-changes-in-v2-1-299|2 Files and Data changes in v2.1.299]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|ChatGPT rolls out code interpreter to all ChatGPT Plus users over the next week]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: dcedb2cb65b59e4aec67812850319e1f65c3601e1d5fd1a994339b2bb497d2d2
+kind: change
+machine_hash: 4c787bc1812537775af145edf3d63f16b159e5c6f22e58da7d3c57106fb83937
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added `CLAUDE_CODE_NO_FLICKER=1` environment variable to opt into flicker-free
       alt-screen rendering with virtualized scrollback
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.89
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-claude-code-no-flicker-1-environment-variable-to-opt-into-flicker-free-alt
@@ -42,12 +44,12 @@ record:
   title: Added `CLAUDE_CODE_NO_FLICKER=1` environment variable to opt into flicker-free…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-17-response-text-now-streams-line-by-line-as-it-s-generated|Response
-  text now streams line-by-line as it''s generated]]'
-- '[[Changes/Claude Code/2026-03-18-added-show-turn-duration-toggle-to-the-config-menu|Added
-  "Show turn duration" toggle to the /config menu]]'
-- '[[Changes/Claude Code/2026-03-19-added-rate-limits-field-to-statusline-scripts-for-displaying-claude-ai-rate-limi|Added
-  rate_limits field to statusline scripts for displaying Claude.ai rate limit…]]'
+- '[[Changes/Claude Code/2026-03-26-improved-mention-file-autocomplete-performance-on-large-repositories|Improved
+  @-mention file autocomplete performance on large repositories]]'
+- '[[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed
+  /skills menu to sort alphabetically for easier scanning]]'
+- '[[Changes/Claude Code/2026-04-01-changed-resume-picker-to-no-longer-show-sessions-created-by-claude-p-or-sdk-invo|Changed
+  --resume picker to no longer show sessions created by claude -p or SDK…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-89-github-303967782-358023f0|claude-code-2026-04-01-v2-1-89-github-303967782-358023f0]]'
 source_type: github_releases
 theme: interface-experience
@@ -70,17 +72,21 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-04-01-added-mcp-connection-nonblocking-true-for-p-mode-to-skip-the-mcp-connection-wait|Added MCP_CONNECTION_NONBLOCKING=true for -p mode to skip the MCP connection…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-04-01-added-defer-permission-decision-to-pretooluse-hooks-headless-sessions-can-pause|Added "defer" permission decision to PreToolUse hooks]] · Safety and Privacy
-- [[Changes/Claude Code/2026-04-01-added-permissiondenied-hook-that-fires-after-auto-mode-classifier-denials-return|Added PermissionDenied hook that fires after auto mode classifier denials]] · Agent Mode
-- [[Changes/Claude Code/2026-04-01-added-named-subagents-to-mention-typeahead-suggestions|Added named subagents to @ mention typeahead suggestions]] · Agent Mode
+- [[Changes/Claude Code/2026-04-01-3-apps-and-integrations-changes-in-v2-1-89|3 Apps and Integrations changes in v2.1.89]] · Apps and Integrations
+- [[Changes/Claude Code/2026-04-01-usage-now-hides-redundant-current-week-sonnet-only-bar-for-pro-and-enterprise-pl|/usage now hides redundant "Current week (Sonnet only)" bar for Pro and Enterprise plans]] · Model Support
+- [[Changes/Claude Code/2026-04-01-changed-edit-to-work-on-files-viewed-via-bash-with-sed-n-or-cat-without-requirin|Changed Edit to work on files viewed via Bash with sed -n or cat, without…]] · Editor Experience
+- [[Changes/Claude Code/2026-04-01-4-developer-workflow-changes-in-v2-1-89|4 Developer Workflow changes in v2.1.89]] · Developer Workflow
+- [[Changes/Claude Code/2026-04-01-3-agent-mode-changes-in-v2-1-89|3 Agent Mode changes in v2.1.89]] · Agent Mode
+- [[Changes/Claude Code/2026-04-01-2-safety-and-privacy-changes-in-v2-1-89|2 Safety and Privacy changes in v2.1.89]] · Safety and Privacy
+- [[Changes/Claude Code/2026-04-01-changed-hook-output-over-50k-characters-to-be-saved-to-disk-with-a-file-path-pre|Changed hook output over 50K characters to be saved to disk with a file path…]] · Context Window
+- [[Changes/Claude Code/2026-04-01-powershell-tool-on-windows-external-command-arguments-containing-both-a-double-q|PowerShell tool on Windows]] · Mobile and Desktop
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-19 · Claude Code · [[Changes/Claude Code/2026-03-19-added-rate-limits-field-to-statusline-scripts-for-displaying-claude-ai-rate-limi|Added rate_limits field to statusline scripts for displaying Claude.ai rate limit…]]
-- Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-release-notes-is-now-an-interactive-version-picker|/release-notes is now an interactive version picker]]
+- Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-changed-resume-picker-to-no-longer-show-sessions-created-by-claude-p-or-sdk-invo|Changed --resume picker to no longer show sessions created by claude -p or SDK…]]
+- Later: 2026-04-02 · Claude Code · [[Changes/Claude Code/2026-04-02-feedback-now-explains-why-it-s-unavailable-instead-of-disappearing-from-the-slas|/feedback now explains why it's unavailable instead of disappearing from the slash menu]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

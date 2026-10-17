@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 5625b5055769762788b7d99d5479cdb77612e3208acc00b8f37a5f898e76bc57
+kind: fix
+machine_hash: ba1533a5074c40657b7430c1be18e8d3e8245b37dbd9de56ab438cea22aa4692
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Fixed a regression in 2.1.290 where cloud sessions could drop answers to
       permission prompts
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.291
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: fix
   product: claude-code
   product_name: Claude Code
   slug: fixed-a-regression-in-2-1-290-where-cloud-sessions-could-drop-answers-to-permiss
@@ -43,12 +45,12 @@ record:
     permission…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-25-to-view-your-history-in-chatgpt-on-the-web-go-to-settings-security-and-login-the|To
-  view your history in ChatGPT on the web, go to Settings  Security and login…]]'
-- '[[Changes/Claude Code/2026-09-30-added-a-count-such-as-2-of-5-to-the-permission-prompt-when-several-permission-re|Added
-  a count such as "2 of 5" to the permission prompt when several permission…]]'
-- '[[Changes/Claude Code/2026-10-05-added-agentid-to-the-tool-check-event-of-plugin-hooks-so-a-hook-can-tell-a-subag|Added
-  agentId to the tool.check event of plugin hooks, so a hook can tell…]]'
+- '[[Changes/Claude Code/2026-10-02-6-safety-and-privacy-changes-in-v2-1-288|6 Safety
+  and Privacy changes in v2.1.288]]'
+- '[[Changes/Claude Code/2026-10-05-19-safety-and-privacy-changes-in-v2-1-290|19 Safety
+  and Privacy changes in v2.1.290]]'
+- '[[Changes/Claude Code/2026-10-06-6-safety-and-privacy-changes-in-v2-1-292|6 Safety
+  and Privacy changes in v2.1.292]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-291-github-404281867-6120dc4f|claude-code-2026-10-06-v2-1-291-github-404281867-6120dc4f]]'
 source_type: github_releases
 theme: safety-privacy
@@ -59,7 +61,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Fixed a regression in 2.1.290 where cloud sessions could drop answers to permission…
 
-**Claude Code** · 2026-10-06 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.291) · from [[Releases/Claude Code/claude-code-2026-10-06-v2-1-291-github-404281867-6120dc4f|v2.1.291]]
+**Claude Code** · 2026-10-06 · [[Themes/safety-privacy|Safety and Privacy]] · Fix · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.291) · from [[Releases/Claude Code/claude-code-2026-10-06-v2-1-291-github-404281867-6120dc4f|v2.1.291]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -75,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-added-agentid-to-the-tool-check-event-of-plugin-hooks-so-a-hook-can-tell-a-subag|Added agentId to the tool.check event of plugin hooks, so a hook can tell…]]
-- Later: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-fixed-claude-being-told-to-continue-or-message-subagents-with-sendmessage-in-ses|Fixed Claude being told to continue or message subagents with SendMessage…]]
+- Earlier: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-6-safety-and-privacy-changes-in-v2-1-292|6 Safety and Privacy changes in v2.1.292]]
+- Later: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-3-safety-and-privacy-changes-in-v2-1-293|3 Safety and Privacy changes in v2.1.293]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -15,9 +15,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 00a9e1315381106b7a1ede7298bc58768b277cf4dc4b99abfcf40dfbe29666a0
+kind: launch
+machine_hash: d1ae48100e50aef208866fa78f8e0076e2f3547494f7f53abb68f836c3643798
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,16 +42,16 @@ record:
       Kingdom.We will continue to roll out to more countries and regions in the coming
       weeks. You can track the iOS app rollout here.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: launch
   product: chatgpt
   product_name: ChatGPT
-  slug: good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr
+  slug: chatgpt-app-for-ios-in-more-countries
   source_release: chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96
   source_type: chatgpt_changelog
   theme: mobile-desktop
-  title: ChatGPT expands availability of the ChatGPT app for iOS to more countries
-    and regions
+  title: ChatGPT app for iOS in more countries
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support
@@ -58,15 +59,14 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96|chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: ChatGPT expands availability of the ChatGPT app for iOS to more countries and
-  regions
+title: ChatGPT app for iOS in more countries
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT expands availability of the ChatGPT app for iOS to more countries and regions
+# ChatGPT app for iOS in more countries
 
-**ChatGPT** · 2023-05-24 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96|iOS app available in more countries, shared links in alpha, Bing Plugin, disable history on iOS]]
+**ChatGPT** · 2023-05-24 · [[Themes/mobile-desktop|Mobile and Desktop]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96|iOS app available in more countries, shared links in alpha, Bing Plugin, disable history on iOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -78,8 +78,9 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2023-05-24-you-can-now-disable-your-chat-history-on-ios-conversations-started-on-your-devic|Disable your chat history on iOS]] · Mobile and Desktop
-- [[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|Browse with Bing]] · Search and Browsing
+- [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]] · Collaboration
+- [[Changes/ChatGPT/2023-05-24-you-can-now-disable-your-chat-history-on-ios-conversations-started-on-your-devic|Disable chat history on iOS]] · Mobile and Desktop
+- [[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|Bing Plugin]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 17694cd2f10d531e4624c0f22d42cbe4f25553a7f5761dd91d6fa27ca136628a
+machine_hash: a49936c489302127929ee912986100a9e0d2febb1ebee21c5c69389c677692b0
 product: cursor
 product_name: Cursor
 record:
@@ -51,6 +51,7 @@ related_changes:
   you already have messages in the queue, you can ask Cursor to multitask on them…]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-24-3-2-https-cursor-com-changelog-04-24-26-9ab6a4bf|cursor-2026-04-24-3-2-https-cursor-com-changelog-04-24-26-9ab6a4bf]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: With /multitask, Cursor will run async subagents to parallelize your requests…
 type: change

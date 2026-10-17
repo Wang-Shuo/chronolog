@@ -4,8 +4,8 @@ date: '2026-02-28'
 description: 'Claude Code · 2026-02-28 · Agent Mode: Added HTTP hooks, which can POST
   JSON to a URL and receive JSON instead of running a shell command'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 968
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 65ec472fc57ae556cffbf9aa68da958033f953977e30089ec4742c7d2832e555
+kind: change
+machine_hash: 89b438a6c961bdc236fbf08dfb043a81da6d8a4e9f565b16aa15c2495b147a53
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added HTTP hooks, which can POST JSON to a URL and receive JSON instead
       of running a shell command
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.63
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-http-hooks-which-can-post-json-to-a-url-and-receive-json-instead-of-runnin
@@ -41,10 +43,10 @@ record:
     running…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-24-after-onboarding-onto-your-codebase-each-agent-runs-in-its-own-isolated-vm-with|After
-  onboarding onto your codebase, each agent runs in its own isolated VM…]]'
-- '[[Changes/Cursor/2026-02-24-get-started-at-cursor-com-onboard-to-watch-the-agent-configure-itself-and-record|Get
-  started at cursor.com/onboard to watch the agent configure itself and record a demo]]'
+- '[[Changes/Claude Code/2026-02-20-2-agent-mode-changes-in-v2-1-50|2 Agent Mode changes
+  in v2.1.50]]'
+- '[[Changes/Cursor/2026-02-24-cloud-agents-can-now-use-the-software-they-create-to-test-changes-and-demo-their-c922e9|Cloud
+  Agents with Computer Use]]'
 - '[[Changes/Cursor/2026-02-26-autofix-runs-cloud-agents-on-their-own-machines-to-test-changes-and-propose-fixe|Autofix
   runs cloud agents on their own machines to test changes and propose fixes…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c|claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c]]'
@@ -70,9 +72,13 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-02-28-fixed-listener-leak-in-interactive-permission-handler-during-auto-approvals|Fixed listener leak in interactive permission handler during auto-approvals]] · Safety and Privacy
+- [[Changes/Claude Code/2026-02-28-added-manual-url-paste-fallback-during-mcp-oauth-authentication-if-the-automatic|Added manual URL paste fallback during MCP OAuth authentication]] · Account and Access
 - [[Changes/Claude Code/2026-02-28-project-configs-auto-memory-now-shared-across-git-worktrees-of-the-same-reposito|Project configs & auto memory now shared across git worktrees of the same repository]] · Memory and Personalization
 - [[Changes/Claude Code/2026-02-28-improved-model-command-to-show-the-currently-active-model-in-the-slash-command-m|Improved /model command to show the currently active model in the slash command menu]] · Developer Workflow
+- [[Changes/Claude Code/2026-02-28-added-always-copy-full-response-option-to-the-copy-picker-when-selected-future-c|Added "Always copy full response" option to the /copy picker]] · Interface Experience
 - [[Changes/Claude Code/2026-02-28-added-enable-claudeai-mcp-servers-false-env-var-to-opt-out-from-making-claude-ai|Added ENABLE_CLAUDEAI_MCP_SERVERS=false env var to opt out from making claude.ai…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-02-28-improved-memory-usage-in-long-sessions-with-subagents-by-stripping-heavy-progres|Improved memory usage in long sessions with subagents by stripping heavy progress…]] · Reliability and Performance
 - [[Changes/Claude Code/2026-02-28-added-simplify-and-batch-bundled-slash-commands|Added /simplify and /batch bundled slash commands]] · Developer Workflow
 <!-- chronolog:end -->
 
@@ -80,13 +86,13 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-02-26 · Cursor · [[Changes/Cursor/2026-02-26-autofix-runs-cloud-agents-on-their-own-machines-to-test-changes-and-propose-fixe|Autofix runs cloud agents on their own machines to test changes and propose fixes…]]
-- Later: 2026-03-04 · Cursor · [[Changes/Cursor/2026-03-04-with-cursor-acp-developers-who-rely-on-jetbrains-for-java-and-multilanguage-supp|With Cursor ACP, developers who rely on JetBrains for Java and multilanguage support…]]
+- Later: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-improved-reliability-for-longer-running-agent-sessions|Improved reliability for longer-running agent sessions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

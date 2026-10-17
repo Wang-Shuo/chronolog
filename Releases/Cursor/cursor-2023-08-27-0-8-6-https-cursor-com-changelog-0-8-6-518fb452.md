@@ -2,7 +2,7 @@
 changes_count: 0
 date: '2023-08-27'
 description: 'Cursor release Email in settings on 2023-08-27: no tracked changes'
-machine_hash: 2eb6e253890c82e74daa7590074e883be8cbf3af3754ec40648bc8f40d0244b6
+machine_hash: 1662de8243056deeebf14c2054861ec2fe171d63553982fd23e76394ee44eb51
 product: cursor
 product_name: Cursor
 record:
@@ -37,7 +37,7 @@ version: 0.8.6
 <!-- chronolog:begin region="summary" -->
 The email under the logout button in Cursor settings was not updating.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

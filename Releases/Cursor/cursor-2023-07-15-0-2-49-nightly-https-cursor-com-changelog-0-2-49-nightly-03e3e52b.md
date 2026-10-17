@@ -2,7 +2,7 @@
 changes_count: 0
 date: '2023-07-15'
 description: 'Cursor release Patches on 2023-07-15: no tracked changes'
-machine_hash: 382324ad5b271a2a2bd59747aec969c6c19d17f533d35aca4f719fc3f10bac51
+machine_hash: 893e0d23c06a9588eb6019de1351110ee64643e3540bb8119c26779687665a3e
 product: cursor
 product_name: Cursor
 record:
@@ -37,7 +37,7 @@ version: 0.2.49-nightly
 <!-- chronolog:begin region="summary" -->
 Fixed agent editing ability
 
-Tracked 0 of 3 candidate lines.
+Tracked 0 cards from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

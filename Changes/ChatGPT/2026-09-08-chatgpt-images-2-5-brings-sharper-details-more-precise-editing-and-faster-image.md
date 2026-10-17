@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 59dff2c825371cf7d0699937a60f4b4f269df0437c2917a49291ff4d8a26f3ad
+machine_hash: f100b908e1e11e8dba2309d0e9aa9c1b69c2d4a04d9a8d8e69caa8d8b2fb443d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -61,6 +61,7 @@ related_changes:
   August 30, 2026, we’re retiring the official DALL·E GPT in ChatGPT]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d|chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: image-generation
 title: ChatGPT Images 2.5 brings sharper details, more precise editing, and faster
   image…

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b12654dd5e7ef315073339b9cb5a0201e6c05c411193efecfa269a1e50129adf
+machine_hash: f0182817538385e721d336e7176fca158147686d05c479b24c25ea396eb6ce3f
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   Control session names now use your hostname as the default prefix…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-07-v2-1-94-github-306300914-5622fba4|claude-code-2026-04-07-v2-1-94-github-306300914-5622fba4]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added hookSpecificOutput.sessionTitle to UserPromptSubmit hooks for setting…
 type: change

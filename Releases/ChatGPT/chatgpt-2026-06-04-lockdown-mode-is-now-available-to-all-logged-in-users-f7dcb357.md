@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-06-04'
 description: 'ChatGPT release Lockdown Mode is now available to all logged-in users
   on 2026-06-04: 1 tracked change across Safety and Privacy'
-machine_hash: d0f59eaefc71df9353648ffa44c2c5a4b580943f23ef8280db83b490905bd3b2
+machine_hash: 0c44d40ddea1df684c31b39ab8500e9130be9fc6a042f07744975e6c41471951
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Lockdown Mode is now available to all logged-in users
 <!-- chronolog:begin region="summary" -->
 Lockdown Mode is now available to all logged-in users across account types and workspaces. It is an optional opt-in advanced security setting that limits access to the web and external services to help reduce the risk of data exfiltration from prompt injection attacks.When Lockdown Mode is on, ChatGPT restricts…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-across-account-types-and-w|Lockdown Mode is now available to all logged-in users across account types and workspaces]] · Safety and Privacy
+- [[Changes/ChatGPT/2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-across-account-types-and-w|Lockdown Mode is now available to all logged-in users]] · Safety and Privacy · Launch
 <!-- chronolog:end -->

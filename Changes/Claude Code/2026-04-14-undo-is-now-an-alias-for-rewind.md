@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 50333014648e1db4ab075a352f3b101afb3f19a89a89c7694b26bd0fea273b66
+machine_hash: 35ec0760285862cceed5e4fb76bf9e59e00b411889a8c89188b4740e1e75da61
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   panes to focus on a conversation, drag agents into tiles, and use keybindings…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-14-v2-1-108-github-309009167-35123bd5|claude-code-2026-04-14-v2-1-108-github-309009167-35123bd5]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: /undo is now an alias for /rewind
 type: change

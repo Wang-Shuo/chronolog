@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 99a2f7361360752d062ea4b8c54d6f9853cbda2cb0b58d71f466bc791577ee52
+machine_hash: 5b1831b16f39131ad3bc405c696d4e9a7a23b9bb6bc26ba3b38fb0e99a57e620
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   plan mode in remote sessions losing track of the plan file after a container…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-09-v2-1-98-github-307232194-a0774436|claude-code-2026-04-09-v2-1-98-github-307232194-a0774436]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Added subprocess sandboxing with PID namespace isolation on Linux…
 type: change

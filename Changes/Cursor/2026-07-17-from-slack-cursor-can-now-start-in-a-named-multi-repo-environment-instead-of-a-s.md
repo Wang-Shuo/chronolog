@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d80263439e6cace8929f8347676206ad165a77a73f7ca6346d0deaf4cb27c62a
+machine_hash: 94b2e2fe3439660a32111884f2c4bdef2d8823f95a0c5586e280c7decf6de391
 product: cursor
 product_name: Cursor
 record:
@@ -55,6 +55,7 @@ related_changes:
   tool calls running longer than 2 minutes now move to the background…]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6|cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: From Slack, Cursor can now start in a named multi-repo environment instead…
 type: change

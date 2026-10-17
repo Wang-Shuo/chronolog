@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c2dc3d58285217fc04c656df7919f80dd19b18cc95fc2e4f5df90eb8e1d3b118
+machine_hash: 14a86f96fb89bbae4a4dbb8389930ab34d53e07dbc5e2216ed3907babb676158
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   support for custom npm registries and specific version pinning when installing…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c|claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added claude remote-control subcommand for external builds, enabling local…
 type: change

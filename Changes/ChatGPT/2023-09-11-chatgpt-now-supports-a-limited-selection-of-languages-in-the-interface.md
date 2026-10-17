@@ -14,9 +14,10 @@ diffusion:
   theme: accessibility-localization
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 8db4cf2ee8f95c3a0987917d6639ee586005e14f2662d012233dd1d6d060afb2
+kind: change
+machine_hash: 48ea0b1fde774227008c7a4671af03281b4cf755b3dc8512b4fb87fbeb82f2ae
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: 'ChatGPT now supports a limited selection of languages in the interface:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface

@@ -5,19 +5,20 @@ description: 'Claude Code · 2026-05-08 · Multimodal Input: WSL2: image paste f
   Windows clipboard now works via a PowerShell fallback when xclip/wl-paste cannot
   read image…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image
-    Support in Chat]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image
+    input will be generally available to Plus users on all platforms]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 893
+  lag_days: 956
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 9ed14403be5207769a441e50988ea590c2bbe230c6c8943d4bda50715e4fbab1
+kind: change
+machine_hash: 795c81ec3c5499e737de2ecb68001a328125683117cbcd7d225373010b50307d
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   - quote: 'WSL2: image paste from Windows clipboard now works via a PowerShell fallback
       when xclip/wl-paste cannot read image data'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.136
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: wsl2-image-paste-from-windows-clipboard-now-works-via-a-powershell-fallback-when
@@ -71,23 +73,22 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-05-08-fixed-bash-permission-prompts-showing-an-internal-parser-diagnostic-instead-of-a|Fixed Bash permission prompts showing an internal parser diagnostic instead…]] · Safety and Privacy
-- [[Changes/Claude Code/2026-05-08-added-settings-automode-hard-deny-for-auto-mode-classifier-rules-that-block-unco|Added settings.autoMode.hard_deny for auto mode classifier rules that block…]] · Safety and Privacy
-- [[Changes/Claude Code/2026-05-08-improved-visual-consistency-across-slash-command-dialogs-standardized-footer-hin|Improved visual consistency across slash command dialogs]] · Developer Workflow
+- [[Changes/Claude Code/2026-05-08-changed-plugin-marketplace-removal-key-to-d-matching-delete-elsewhere-instead-of|Changed plugin marketplace removal key to d (matching delete elsewhere) instead…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-05-08-2-developer-workflow-changes-in-v2-1-136|2 Developer Workflow changes in v2.1.136]] · Developer Workflow
 - [[Changes/Claude Code/2026-05-08-added-claude-code-enable-feedback-survey-for-otel-to-re-enable-the-session-quali|Added CLAUDE_CODE_ENABLE_FEEDBACK_SURVEY_FOR_OTEL to re-enable the session quality…]] · Enterprise and Administration
+- [[Changes/Claude Code/2026-05-08-2-safety-and-privacy-changes-in-v2-1-136|2 Safety and Privacy changes in v2.1.136]] · Safety and Privacy
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
 - Earlier: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-added-clickable-image-n-links-that-open-attached-images-in-the-default-viewer|Added clickable Image ♯N links that open attached images in the default viewer]]
-- Later: 2026-07-29 · Cursor · [[Changes/Cursor/2026-07-29-markup-gets-more-room-to-work-too-attach-a-screenshot-then-tap-to-drop-a-comment|Markup gets more room to work too]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-11-27 · Cursor · [[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image Support in Chat]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image input will be generally available to Plus users on all platforms]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,8 +4,8 @@ date: '2026-04-13'
 description: 'Cursor · 2026-04-13 · Agent Mode: This release introduces improvements
   to our Agents Window interface as part of Cursor 3.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1012
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 48b7688d8e310d74d890c510df1c45d648731f94801c1f20e3d3a0e48cfe91cc
+kind: launch
+machine_hash: 5255205204aa6d62bbe3b2e63cd63570de842b4e43e80a951f264e2dd62ea5cd
 product: cursor
 product_name: Cursor
 record:
@@ -30,8 +31,9 @@ record:
   - quote: This release introduces improvements to our Agents Window interface as
       part of Cursor 3.
     source_release: https://cursor.com/changelog/3-1
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: cursor
   product_name: Cursor
   slug: this-release-introduces-improvements-to-our-agents-window-interface-as-part-of-c
@@ -42,12 +44,11 @@ record:
     Cursor 3
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-08-added-n-running-indicator-in-agents-next-to-agent-types-with-live-subagent-insta|Added
-  ● N running indicator in /agents next to agent types with live subagent…]]'
-- '[[Changes/Claude Code/2026-04-09-added-monitor-tool-for-streaming-events-from-background-scripts|Added
-  Monitor tool for streaming events from background scripts]]'
+- '[[Changes/Claude Code/2026-04-09-3-agent-mode-changes-in-v2-1-98|3 Agent Mode changes
+  in v2.1.98]]'
 - '[[Changes/Claude Code/2026-04-10-ultraplan-and-other-remote-session-features-now-auto-create-a-default-cloud-envi|/ultraplan
   and other remote-session features now auto-create a default cloud…]]'
+- '[[Changes/Cursor/2026-04-13-tiled-layout-2f03f6|Tiled layout]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313|cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -59,7 +60,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Cursor introduces improvements to our Agents Window interface as part of Cursor 3
 
-**Cursor** · 2026-04-13 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/3-1) · from [[Releases/Cursor/cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313|Tiled Layout and Upgraded Voice Input in the Agents Window]]
+**Cursor** · 2026-04-13 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://cursor.com/changelog/3-1) · from [[Releases/Cursor/cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313|Tiled Layout and Upgraded Voice Input in the Agents Window]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -71,22 +72,29 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-04-13-expand-panes-to-focus-on-a-conversation-drag-agents-into-tiles-and-use-keybindin|Expand panes to focus on a conversation, drag agents into tiles, and use keybindings…]] · Interface Experience
-- [[Changes/Cursor/2026-04-13-dictation-through-voice-input-is-more-reliable-and-accurate-it-records-your-full|Dictation through voice input is more reliable and accurate]] · Voice and Audio
-- [[Changes/Cursor/2026-04-13-split-your-current-view-into-panes-to-run-and-manage-several-agents-in-parallel|Split your current view into panes to run and manage several agents in parallel]] · Agent Mode
+- [[Changes/Cursor/2026-04-13-prompt-buttons-now-stay-in-place-while-voice-input-is-processing|Prompt buttons now stay in place while voice input is processing]] · Voice and Audio
+- [[Changes/Cursor/2026-04-13-plan-tabs-now-get-the-same-document-behaviors-as-files-support-for-reliable-load|Plan tabs now get the same document behaviors as files]] · Files and Data
+- [[Changes/Cursor/2026-04-13-upgraded-voice-input-26be2e|Upgraded voice input]] · Voice and Audio
+- [[Changes/Cursor/2026-04-13-tiled-layout-2f03f6|Tiled layout]] · Agent Mode
+- [[Changes/Cursor/2026-04-13-on-macos-text-is-now-rendered-with-anti-aliasing-producing-sharper-character-edg|On macOS, text is now rendered with anti-aliasing, producing sharper character edges]] · Mobile and Desktop
+- [[Changes/Cursor/2026-04-13-diff-to-file-navigation|Diff to file navigation]] · Interface Experience
+- [[Changes/Cursor/2026-04-13-closing-tabs-is-now-less-likely-to-glitch-the-file-tree-and-recovery-is-faster|Closing tabs is now less likely to glitch the file tree, and recovery is faster]] · Reliability and Performance
+- [[Changes/Cursor/2026-04-13-3-editor-experience-changes-in-3-1|3 Editor Experience changes in 3.1]] · Editor Experience
+- [[Changes/Cursor/2026-04-13-branch-selection-in-empty-state|Branch selection in empty state]] · Agent Mode
+- [[Changes/Cursor/2026-04-13-3-agent-mode-changes-in-3-1|3 Agent Mode changes in 3.1]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
 - Earlier: 2026-04-10 · Claude Code · [[Changes/Claude Code/2026-04-10-ultraplan-and-other-remote-session-features-now-auto-create-a-default-cloud-envi|/ultraplan and other remote-session features now auto-create a default cloud…]]
-- Later: 2026-04-14 · Cursor · [[Changes/Cursor/2026-04-14-ask-a-quick-side-question-without-derailing-the-agent-s-main-task-btw-allows-you|Ask a quick side question without derailing the agent's main task]]
+- Later: 2026-04-14 · Cursor · [[Changes/Cursor/2026-04-14-ask-a-quick-side-question-without-derailing-the-agent-s-main-task-btw-allows-you|/btw support in CLI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-09-14'
 description: 'ChatGPT release Changes to automatic switching to thinking in ChatGPT
   (Plus and Pro) on 2026-09-14: 1 tracked change across Model Support'
-machine_hash: 02036adaa12568b6c256d772279c6d6916b57d008d064ac4d95f386a66dab13b
+machine_hash: 808220085e55202133a099ee19d70e76a93bc5464643b89b7bb603ac50da63d9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Changes to automatic switching to thinking in ChatGPT (Plus and Pro)
 <!-- chronolog:begin region="summary" -->
 We’re retiring automatic switching from Instant to Thinking (reasoning) for ChatGPT Plus and Pro users globally. You can still select an available option in the model picker to give ChatGPT more time to think or reason. We’re also removing the Higher intelligence setting from ChatGPT on the web for these plans. ChatGPT…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-09-14-we-re-retiring-automatic-switching-from-instant-to-thinking-reasoning-for-chatgp|We’re retiring automatic switching from Instant to Thinking (reasoning) for ChatGPT…]] · Model Support
+- [[Changes/ChatGPT/2026-09-14-we-re-retiring-automatic-switching-from-instant-to-thinking-reasoning-for-chatgp|Changes to automatic switching to thinking in ChatGPT (Plus and Pro)]] · Model Support · Policy
 <!-- chronolog:end -->

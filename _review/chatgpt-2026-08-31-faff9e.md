@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: 38545c1c7f128162f5cdcdaffdcb0b537abf0c15a4d1a710730404714ba47cec
+machine_hash: cfba8dbea9e70f33f5fde115b69ccc6046e5f4070c40a174df756881e2fbe5cd
 product: chatgpt
 record:
   card_id: chatgpt-2026-08-31-faff9e
@@ -11,8 +11,9 @@ record:
   evidence:
   - quote: Turn an idea or a photo into a set of stickers you can use in your messages.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: turn-an-idea-or-a-photo-into-a-set-of-stickers-you-can-use-in-your-messages

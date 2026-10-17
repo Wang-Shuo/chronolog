@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d8f7715cbead91830dae9f58c531882d79dab198e0ec32c12ffaebeb8b08e657
+machine_hash: c31fbd932d118ecbb07f29ee52997326ed4700f56dde5136da1d07fd1d7d69dc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -55,6 +55,7 @@ related_changes:
   a side chat to ask questions, explore ideas, and investigate tangents without…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-04-large-pastes-are-now-handled-as-attachments-for-all-plans-8f11f30a|chatgpt-2026-08-04-large-pastes-are-now-handled-as-attachments-for-all-plans-8f11f30a]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: context-window
 title: If you paste more than 10k characters into the composer, ChatGPT will automatically…
 type: change

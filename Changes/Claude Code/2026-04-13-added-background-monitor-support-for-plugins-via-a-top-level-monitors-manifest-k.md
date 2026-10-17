@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: eccb4b392a856ae861e18ff7da301191e98910867b263c17260733031f4a2124
+machine_hash: e7886ef7aadd7d921dee319c6e251e166a1ec310b7acb22454bfbfb3a60bd1f7
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   introduces updates to Bugbot including the ability to self-improve in real…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3|claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added background monitor support for plugins via a top-level monitors manifest
   key…

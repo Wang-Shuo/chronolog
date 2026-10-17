@@ -4,8 +4,8 @@ date: '2025-06-18'
 description: 'ChatGPT · 2025-06-18 · Voice and Audio: ChatGPT will transcribe, summarize,
   and turn them into helpful outputs like follow-ups, plans, or even code.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use
-    voice to engage in a back-and-forth conversation with your assistant]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
+    are beginning to roll out new voice and image capabilities in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 632
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 8e1604e32e1bb5db5443597975ab085d0caf7211166cea279b22c9e390d25221
+kind: change
+machine_hash: 94551a9a1da854bb841f495ea876be72af6325e978b7537f1a2f456ca88698a6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,8 +30,9 @@ record:
   - quote: ChatGPT will transcribe, summarize, and turn them into helpful outputs
       like follow-ups, plans, or even code.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: chatgpt-will-transcribe-summarize-and-turn-them-into-helpful-outputs-like-follow
@@ -83,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use voice to engage in a back-and-forth conversation with your assistant]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

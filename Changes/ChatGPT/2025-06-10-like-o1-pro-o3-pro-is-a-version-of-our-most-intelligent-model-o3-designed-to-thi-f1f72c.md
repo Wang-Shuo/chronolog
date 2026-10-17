@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 3e9d2ca37bdd03c00ab8de661e7ab7983aaa6152799c3e36b9e53160f4162ba3
+machine_hash: 8ddf3bf8c6ea13a154564ffd15c75f68151db2125b347db46e35f0070e5fdde7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -88,6 +88,7 @@ related_changes:
   is available in the model picker for Pro and Team users starting today…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-10-today-we-re-launching-openai-o3-pro-available-now-for-pro-users-43fd47c2|chatgpt-2025-06-10-today-we-re-launching-openai-o3-pro-available-now-for-pro-users-43fd47c2]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: Like o1-pro, o3-pro is a version of our most intelligent model, o3, designed…
 type: change

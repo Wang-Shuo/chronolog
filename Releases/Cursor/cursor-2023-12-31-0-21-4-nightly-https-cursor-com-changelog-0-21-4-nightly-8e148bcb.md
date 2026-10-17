@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-12-31'
 description: 'Cursor release Aux Window Fixes on 2023-12-31: 1 tracked change across
   Editor Experience'
-machine_hash: 0baea5a944afb97efd68702d9df475dd275ac5862a9358947396e49c96815df6
+machine_hash: 85c6c98b4791a5be25d05dda8a73fb77da0284b9364cca704fd15aab0657e4a8
 product: cursor
 product_name: Cursor
 record:
@@ -39,10 +39,10 @@ version: 0.21.4-nightly
 <!-- chronolog:begin region="summary" -->
 You can now use chat and cmd-k in the aux window without too many problems.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-12-31-you-can-now-use-chat-and-cmd-k-in-the-aux-window-without-too-many-problems|Use chat and cmd-k in the aux window without too many problems]] · Editor Experience
+- [[Changes/Cursor/2023-12-31-you-can-now-use-chat-and-cmd-k-in-the-aux-window-without-too-many-problems|Aux Window Fixes]] · Editor Experience
 <!-- chronolog:end -->

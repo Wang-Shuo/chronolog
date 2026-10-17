@@ -4,8 +4,8 @@ date: '2026-04-10'
 description: 'Claude Code · 2026-04-10 · Agent Mode: `/ultraplan` and other remote-session
   features now auto-create a default cloud environment instead of requiring web…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1009
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 7e110ac9335a341223bdd5c51f3f4ce6eb98f0c207b886e8f8001a8ccd7a02db
+kind: change
+machine_hash: fee9437ea42749c3f3dec635488bbce35c918bad83624fdc4402c6a9b75ea014
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: '`/ultraplan` and other remote-session features now auto-create a default
       cloud environment instead of requiring web setup first'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.101
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: ultraplan-and-other-remote-session-features-now-auto-create-a-default-cloud-envi
@@ -43,12 +45,11 @@ record:
     cloud…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-to-try-the-agents-window-upgrade-cursor-and-type-cmd-shift-p-agents-window|To
-  try the Agents Window, upgrade Cursor and type Cmd+Shift+P - Agents Window]]'
-- '[[Changes/Claude Code/2026-04-08-added-n-running-indicator-in-agents-next-to-agent-types-with-live-subagent-insta|Added
-  ● N running indicator in /agents next to agent types with live subagent…]]'
-- '[[Changes/Claude Code/2026-04-09-added-monitor-tool-for-streaming-events-from-background-scripts|Added
-  Monitor tool for streaming events from background scripts]]'
+- '[[Changes/Cursor/2026-04-02-agents-window-da5689|Agents Window]]'
+- '[[Changes/Claude Code/2026-04-08-2-agent-mode-changes-in-v2-1-97|2 Agent Mode changes
+  in v2.1.97]]'
+- '[[Changes/Claude Code/2026-04-09-3-agent-mode-changes-in-v2-1-98|3 Agent Mode changes
+  in v2.1.98]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642|claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642]]'
 source_type: github_releases
 theme: agent-mode
@@ -72,22 +73,25 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-04-10-improved-focus-mode-claude-now-writes-more-self-contained-summaries-since-it-kno|Improved focus mode]] · Interface Experience
+- [[Changes/Claude Code/2026-04-10-fixed-a-command-injection-vulnerability-in-the-posix-which-fallback-used-by-lsp|Fixed a command injection vulnerability in the POSIX which fallback used by LSP…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-04-10-improved-tool-not-available-errors-to-explain-why-and-how-to-proceed-when-the-mo|Improved tool-not-available errors to explain why and how to proceed when the model…]] · Context Window
 - [[Changes/Claude Code/2026-04-10-added-team-onboarding-command-to-generate-a-teammate-ramp-up-guide-from-your-loc|Added /team-onboarding command to generate a teammate ramp-up guide…]] · Collaboration
 - [[Changes/Claude Code/2026-04-10-improved-brief-mode-to-retry-once-when-claude-responds-with-plain-text-instead-o|Improved brief mode to retry once when Claude responds with plain text instead…]] · Reliability and Performance
+- [[Changes/Claude Code/2026-04-10-4-apps-and-integrations-changes-in-v2-1-101|4 Apps and Integrations changes in v2.1.101]] · Apps and Integrations
 - [[Changes/Claude Code/2026-04-10-added-os-ca-certificate-store-trust-by-default-so-enterprise-tls-proxies-work-wi|Added OS CA certificate store trust by default, so enterprise TLS proxies work…]] · Enterprise and Administration
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-added-monitor-tool-for-streaming-events-from-background-scripts|Added Monitor tool for streaming events from background scripts]]
-- Later: 2026-04-13 · Cursor · [[Changes/Cursor/2026-04-13-this-release-introduces-improvements-to-our-agents-window-interface-as-part-of-c|Cursor introduces improvements to our Agents Window interface as part of Cursor 3]]
+- Earlier: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-3-agent-mode-changes-in-v2-1-98|3 Agent Mode changes in v2.1.98]]
+- Later: 2026-04-13 · Cursor · [[Changes/Cursor/2026-04-13-tiled-layout-2f03f6|Tiled layout]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

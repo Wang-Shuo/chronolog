@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 65fa2a899aa5d0c90a57b38c29721db01e50d193ed4557011b876603b3cbd13c
+machine_hash: 80f82cdfce5af1e906bbbc8cc26180f7af639a5150d3490062e32400a5ef3f37
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   estimates (/cost, status line, --max-budget-usd) now include…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918|claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added the one-time fullscreen renderer offer on Bedrock, Vertex, Foundry and
   other…

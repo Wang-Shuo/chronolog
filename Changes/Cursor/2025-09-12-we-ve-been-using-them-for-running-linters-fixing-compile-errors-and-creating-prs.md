@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f28b4cb9be3d0fb84a79c0152c1591a21b77ca80b8e826e1389d35c380863ae9
+machine_hash: abfe72de8e6359da5447bf927d2944997b4aa0a8bdac083ec8aa5c4fead7cc15
 product: cursor
 product_name: Cursor
 record:
@@ -52,6 +52,7 @@ related_changes:
   reusable prompts and quickly share them with your team]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea|cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea]]'
 source_type: cursor_changelog
+superseded: true
 theme: developer-workflow
 title: We've been using them for running linters, fixing compile errors, and creating
   PRs…

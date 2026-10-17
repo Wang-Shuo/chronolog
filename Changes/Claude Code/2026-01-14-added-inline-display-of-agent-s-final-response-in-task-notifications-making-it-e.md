@@ -4,8 +4,8 @@ date: '2026-01-14'
 description: 'Claude Code · 2026-01-14 · Agent Mode: Added inline display of agent''s
   final response in task notifications, making it easier to see results without reading…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 923
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: a284a5afecd0cdd80e0af4f58b7cde4b6e451bbeb4a608db0afdc518862f3af3
+kind: change
+machine_hash: c1f4060bacbad673b543ee08d050b6f2fecf71e751ebb318d6cf361dd478bb4d
 product: claude-code
 product_name: Claude Code
 record:
@@ -32,8 +33,9 @@ record:
   - quote: Added inline display of agent's final response in task notifications, making
       it easier to see results without reading the full transcript file
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.7
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-inline-display-of-agent-s-final-response-in-task-notifications-making-it-e
@@ -43,10 +45,10 @@ record:
   title: Added inline display of agent's final response in task notifications, making…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-10-plan-mode-now-supports-inline-mermaid-diagrams-allowing-the-agent-to-automatical|Plan
-  Mode now supports inline Mermaid diagrams, allowing the agent to automatically…]]'
-- '[[Changes/Cursor/2025-12-22-this-includes-the-core-agent-layout-controls-viewing-code-diffs-and-more-we-will|This
-  includes the core agent, layout controls, viewing code diffs, and more]]'
+- '[[Changes/Cursor/2026-01-08-new-agent-command-is-now-the-primary-cli-entrypoint-cursor-agent-remains-as-a-ba|New
+  agent command is now the primary CLI entrypoint. cursor-agent remains…]]'
+- '[[Changes/Claude Code/2026-01-09-added-agent-type-to-sessionstart-hook-input-populated-if-agent-is-specified|Added
+  agent_type to SessionStart hook input, populated if --agent is specified]]'
 - '[[Changes/Claude Code/2026-01-11-added-claude-code-disable-background-tasks-environment-variable-to-disable-all-b|Added
   CLAUDE_CODE_DISABLE_BACKGROUND_TASKS environment variable to disable all…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80|claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80]]'
@@ -71,10 +73,11 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-01-14-enabled-mcp-tool-search-auto-mode-by-default-for-all-users-when-mcp-tool-descrip|Enabled MCP tool search auto mode by default for all users]] · Context Window
 - [[Changes/Claude Code/2026-01-14-improved-typing-responsiveness-by-reducing-memory-allocation-overhead-in-termina|Improved typing responsiveness by reducing memory allocation overhead in terminal…]] · Reliability and Performance
-- [[Changes/Claude Code/2026-01-14-added-ability-to-provide-feedback-when-accepting-permission-prompts|Added ability to provide feedback when accepting permission prompts]] · Safety and Privacy
-- [[Changes/Claude Code/2026-01-14-fixed-security-vulnerability-where-wildcard-permission-rules-could-match-compoun|Fixed security vulnerability where wildcard permission rules could match compound…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-01-14-changed-oauth-and-api-console-urls-from-console-anthropic-com-to-platform-claude|Changed OAuth and API Console URLs from console.anthropic.com to platform.claude.com]] · Account and Access
 - [[Changes/Claude Code/2026-01-14-added-showturnduration-setting-to-hide-turn-duration-messages-e-g-cooked-for-1m|Added showTurnDuration setting to hide turn duration messages (e.g., "Cooked for 1m 6s")]] · Interface Experience
+- [[Changes/Claude Code/2026-01-14-2-safety-and-privacy-changes-in-v2-1-7|2 Safety and Privacy changes in v2.1.7]] · Safety and Privacy
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
@@ -87,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

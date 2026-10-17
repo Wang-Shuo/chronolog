@@ -14,9 +14,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: eb9654dd035aab7e1a3df9da362c03b6da8cde5acc875cde0984a19474b49397
+kind: change
+machine_hash: ed81510b1cfd8cfd22fdb8ce2c5ede1472312b2eff83ee52c4db4246e03539a7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,8 +31,9 @@ record:
   - quote: 'General performance: Among other improvements, users will notice that
       ChatGPT is now less likely to refuse to answer questions.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n

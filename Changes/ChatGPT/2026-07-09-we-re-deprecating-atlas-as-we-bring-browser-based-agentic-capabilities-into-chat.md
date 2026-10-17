@@ -15,9 +15,10 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 970e25b7efae57d94b3a22fe4f1fa16ba62da4ab1e246c6f7518aea5ccfb845a
+kind: policy
+machine_hash: 2a6e05953bd154e2684e02266426b8898bebf2a33e28e87e6180daba0ba4421f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,8 +59,9 @@ record:
       try the ChatGPT Chrome extension or sidebar, where available.You can learn more
       about moving off Atlas in our Help Center article.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: policy
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-deprecating-atlas-as-we-bring-browser-based-agentic-capabilities-into-chat
@@ -89,28 +91,26 @@ record:
     - browsing
     score: 50
     theme: search-browsing
-  title: We’re deprecating Atlas as we bring browser-based agentic capabilities into
-    ChatGPT…
+  title: Retiring Atlas
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-25-added-a-startup-notice-when-mcp-servers-need-authentication-pointing-at-mcp|Added
-  a startup notice when MCP servers need authentication, pointing at /mcp]]'
+- '[[Changes/Claude Code/2026-07-01-login-now-opens-the-sign-in-dialog-from-the-claude-agents-view-instead-of-saying|/login
+  now opens the sign-in dialog from the claude agents view instead…]]'
 - '[[Changes/ChatGPT/2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-globally-from-a-sidebar-in-mic|ChatGPT
-  for PowerPoint is now generally available globally]]'
+  for PowerPoint is now generally available]]'
 - '[[Changes/Claude Code/2026-07-07-added-a-warning-when-your-login-is-about-to-expire-so-you-can-re-authenticate-be|Added
   a warning when your login is about to expire, so you can re-authenticate…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-retiring-atlas-c6a8b965|chatgpt-2026-07-09-retiring-atlas-c6a8b965]]'
 source_type: chatgpt_changelog
 theme: account-access
-title: We’re deprecating Atlas as we bring browser-based agentic capabilities into
-  ChatGPT…
+title: Retiring Atlas
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We’re deprecating Atlas as we bring browser-based agentic capabilities into ChatGPT…
+# Retiring Atlas
 
-**ChatGPT** · 2026-07-09 · [[Themes/account-access|Account and Access]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-09-retiring-atlas-c6a8b965|Retiring Atlas]]
+**ChatGPT** · 2026-07-09 · [[Themes/account-access|Account and Access]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-09-retiring-atlas-c6a8b965|Retiring Atlas]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->

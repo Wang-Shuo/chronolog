@@ -4,8 +4,8 @@ date: '2025-07-16'
 description: 'ChatGPT · 2025-07-16 · Voice and Audio: Record live conversations like
   team meetings or voice notes, and turn those into an editable summary in canvas.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use
-    voice to engage in a back-and-forth conversation with your assistant]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
+    are beginning to roll out new voice and image capabilities in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 660
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 0de5b1dff1dbab60e7dafc014114dbf829fa6df42ff3e8a8045ec09cad658afc
+kind: change
+machine_hash: 10d12206a09302d7c0688070a663d5757a8f1c23e7f5114cef7ab901598a60e1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Record live conversations like team meetings or voice notes, and turn those
       into an editable summary in canvas.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: record-live-conversations-like-team-meetings-or-voice-notes-and-turn-those-into
@@ -89,13 +91,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-06-18 · ChatGPT · [[Changes/ChatGPT/2025-06-18-capture-meetings-brainstorms-or-voice-notes-launching-today-for-pro-enterprise-a|Capture meetings, brainstorms, or voice notes]]
-- Later: 2025-07-17 · ChatGPT · [[Changes/ChatGPT/2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat|The Advanced Voice upgrades we announced on June 7th are now rolling out to ChatGPT…]]
+- Later: 2025-07-17 · ChatGPT · [[Changes/ChatGPT/2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat|Updates to Advanced Voice Mode for Free tier users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use voice to engage in a back-and-forth conversation with your assistant]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

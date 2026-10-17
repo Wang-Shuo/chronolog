@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 17b1118b3e9a3716ca6723a023fad0e5a02a0d9c4636e926768d3d5b1dd17431
+machine_hash: 1cf315ef6a4d30ad94532fc8b97e64e06e2fc11e885fd76a9e963ce9e36b5a8e
 product: cursor
 product_name: Cursor
 record:
@@ -65,6 +65,7 @@ related_changes:
   recommendations in chat/composer]]'
 source_release: '[[Releases/Cursor/cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492|cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: Early version of an agent in composer that can pick its own context and use
   the terminal

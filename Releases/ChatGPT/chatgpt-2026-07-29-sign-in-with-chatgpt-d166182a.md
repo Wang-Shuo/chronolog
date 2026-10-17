@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-07-29'
 description: 'ChatGPT release Sign in with ChatGPT on 2026-07-29: 1 tracked change
   across Apps and Integrations'
-machine_hash: 1c964d00ae47372ce5553603a8d76e86859b74de0363d9a9ed3ec69453f9a92e
+machine_hash: eb7055c9b9eda0d037dfecc370793a058dcb14316d3c821479843ee861136fbb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: Sign in with ChatGPT
 <!-- chronolog:begin region="summary" -->
 We’re beginning to roll out Sign in with ChatGPT across select plugins and partner sites, starting with Airtable, GitLab, HubSpot, Notion, Supabase, and Vercel.When you connect a supported app from the plugin directory ChatGPT, you can use Sign in with ChatGPT to create or link an account with that service in fewer…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-07-29-we-re-beginning-to-roll-out-sign-in-with-chatgpt-across-select-plugins-and-partn|We’re beginning to roll out Sign in with ChatGPT across select plugins and partner…]] · Apps and Integrations
+- [[Changes/ChatGPT/2026-07-29-we-re-beginning-to-roll-out-sign-in-with-chatgpt-across-select-plugins-and-partn|Sign in with ChatGPT]] · Apps and Integrations
 <!-- chronolog:end -->

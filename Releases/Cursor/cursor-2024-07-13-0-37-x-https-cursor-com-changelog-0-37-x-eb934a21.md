@@ -3,7 +3,7 @@ changes_count: 1
 date: '2024-07-13'
 description: 'Cursor release Composer (beta) on 2024-07-13: 1 tracked change across
   Editor Experience'
-machine_hash: 83f19c531aae7aeef3ef79b880f6c7aed0be550b01fbaf3e291a6d3d365865c2
+machine_hash: 14699d6e396285b1ca017bf4288c4f61707da541ce3e4fe0a396a5bc7e8214ea
 product: cursor
 product_name: Cursor
 record:
@@ -40,10 +40,10 @@ version: 0.37.x
 <!-- chronolog:begin region="summary" -->
 This build comes with a new experimental multi-file editing feature. To enable it, click the settings gear, head to Beta, and activate "Composer." To use it, hit Cmd+I. We'd love to hear your thoughts.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2024-07-13-this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it|This build comes with a new experimental multi-file editing feature]] · Editor Experience
+- [[Changes/Cursor/2024-07-13-this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it|Composer (beta)]] · Editor Experience
 <!-- chronolog:end -->

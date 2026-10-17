@@ -14,9 +14,10 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 7b8b3117c8f1bc8c37608b91788eeed022b187542446f6ae59bf7374285b928c
+kind: expansion
+machine_hash: ec13c560d854b85bd1d1a5c433a221b1decc3ea26481075ee02a79272a90a4be
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,8 +31,9 @@ record:
   - quote: 'We''re launching ChatGPT Go, our low cost subscription plan, in Indonesia.For
       Rp 75.000/month, ChatGPT Go provides everything included in the Free plan, and:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: expansion
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-indonesia-for-rp-75
@@ -43,8 +45,7 @@ record:
 related_changes:
 - '[[Changes/Cursor/2025-05-15-introducing-unified-request-based-pricing-max-mode-for-all-top-models-and-backgr|Introducing
   unified request-based pricing, Max Mode for all top models…]]'
-- '[[Changes/Cursor/2025-05-15-all-model-usage-is-now-unified-into-request-based-pricing|All
-  model usage is now unified into request-based pricing]]'
+- '[[Changes/Cursor/2025-08-06-usage-and-pricing-visibility|Usage and pricing visibility]]'
 - '[[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially-e5f740|ChatGPT
   launches ChatGPT Go, a new low-cost subscription plan]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7|chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7]]'
@@ -57,7 +58,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT launches ChatGPT Go, our low cost subscription plan, in Indonesia
 
-**ChatGPT** · 2025-09-22 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7|ChatGPT Go now available in Indonesia]]
+**ChatGPT** · 2025-09-22 · [[Themes/pricing-model|Pricing Model]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7|ChatGPT Go now available in Indonesia]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->

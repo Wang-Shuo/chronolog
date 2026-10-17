@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: 515ff48507903fc57dc3b32452353bd1d2aec0bf452943cd1483979fe6332353
+kind: launch
+machine_hash: 79451fc39b07cbcdd892751dfb6e0be4c72398aebdc88f680bf5eb1fa3fed57a
 product: cursor
 product_name: Cursor
 record:
@@ -35,45 +36,35 @@ record:
       attacks. It will leave inline comments at the exact diff location with severity
       and remediation.
     source_release: https://cursor.com/changelog/04-30-26
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: security-reviewer-checks-every-pr-for-security-vulnerabilities-auth-regressions
+  slug: security-reviewer
   source_release: cursor-2026-04-30-cursor-security-review-https-cursor-com-changelog-04-30-26-640898b1
   source_type: cursor_changelog
   theme: safety-privacy
-  theme_matches:
-  - matched_terms:
-    - privacy
-    - security
-    score: 100
-    theme: safety-privacy
-  - matched_terms:
-    - agent
-    score: 50
-    theme: agent-mode
-  theme_resolution: manual-semantic-rule-v2
-  title: Security Reviewer checks every PR for security vulnerabilities, auth regressions…
+  title: Security Reviewer
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-30-we-re-also-continuously-improving-the-runtime-harness-and-models-powering-cursor|We''re
-  also continuously improving the runtime, harness, and models powering Cursor…]]'
+- '[[Changes/Claude Code/2026-04-23-fixed-mcp-step-up-authorization-silently-refreshing-instead-of-prompting-for-re|Fixed
+  MCP step-up authorization silently refreshing instead of prompting…]]'
+- '[[Changes/Claude Code/2026-04-23-4-safety-and-privacy-changes-in-v2-1-119|4 Safety
+  and Privacy changes in v2.1.119]]'
 - '[[Changes/Cursor/2026-04-30-cursor-security-review-is-now-in-beta-on-teams-and-enterprise-plans-you-can-run|Cursor
   Security Review is now in beta on Teams and Enterprise plans]]'
-- '[[Changes/Cursor/2026-04-30-vulnerability-scanner-runs-scheduled-scans-of-your-codebase-to-check-for-known-v|Vulnerability
-  Scanner runs scheduled scans of your codebase to check for known…]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-30-cursor-security-review-https-cursor-com-changelog-04-30-26-640898b1|cursor-2026-04-30-cursor-security-review-https-cursor-com-changelog-04-30-26-640898b1]]'
 source_type: cursor_changelog
 theme: safety-privacy
-title: Security Reviewer checks every PR for security vulnerabilities, auth regressions…
+title: Security Reviewer
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Security Reviewer checks every PR for security vulnerabilities, auth regressions…
+# Security Reviewer
 
-**Cursor** · 2026-04-30 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://cursor.com/changelog/04-30-26) · from [[Releases/Cursor/cursor-2026-04-30-cursor-security-review-https-cursor-com-changelog-04-30-26-640898b1|Cursor Security Review]]
+**Cursor** · 2026-04-30 · [[Themes/safety-privacy|Safety and Privacy]] · Launch · [Official source](https://cursor.com/changelog/04-30-26) · from [[Releases/Cursor/cursor-2026-04-30-cursor-security-review-https-cursor-com-changelog-04-30-26-640898b1|Cursor Security Review]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -85,17 +76,15 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-04-30-we-re-also-continuously-improving-the-runtime-harness-and-models-powering-cursor|We're also continuously improving the runtime, harness, and models powering Cursor…]] · Safety and Privacy
 - [[Changes/Cursor/2026-04-30-cursor-security-review-is-now-in-beta-on-teams-and-enterprise-plans-you-can-run|Cursor Security Review is now in beta on Teams and Enterprise plans]] · Safety and Privacy
-- [[Changes/Cursor/2026-04-30-vulnerability-scanner-runs-scheduled-scans-of-your-codebase-to-check-for-known-v|Vulnerability Scanner runs scheduled scans of your codebase to check for known…]] · Safety and Privacy
-- [[Changes/Cursor/2026-04-30-customize-cursor-managed-security-agents-by-adjusting-triggers-adding-your-own-i|Customize Cursor-managed security agents by adjusting triggers, adding your own…]] · Safety and Privacy
+- [[Changes/Cursor/2026-04-30-vulnerability-scanner-b19b70|Vulnerability Scanner]] · Safety and Privacy
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-04-18 · Claude Code · [[Changes/Claude Code/2026-04-18-fixed-a-crash-in-the-permission-dialog-when-an-agent-teams-teammate-requested-to|Fixed a crash in the permission dialog when an agent teams teammate requested tool…]]
-- Later: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-dangerously-skip-permissions-now-bypasses-prompts-for-writes-to-claude-git-vscod|--dangerously-skip-permissions now bypasses prompts for writes to .claude/…]]
+- Earlier: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-4-safety-and-privacy-changes-in-v2-1-119|4 Safety and Privacy changes in v2.1.119]]
+- Later: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-3-safety-and-privacy-changes-in-v2-1-126|3 Safety and Privacy changes in v2.1.126]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 07193e7150c854be0fa2d4be4c401a1b6162af38969c0618143df7469f0a23ce
+machine_hash: d6d5f7cee032b8f0660676d354f1cbd1100b7165822cfaf01cfbe315168d0e61
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   try the Agents Window, upgrade Cursor and type Cmd+Shift+P - Agents Window]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33|claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added ● N running indicator in /agents next to agent types with live subagent…
 type: change

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5d255ec043ef6f75bcd1b6da9334332f7466c6a0ed3dac5e7d5ea36df22610cd
+machine_hash: 62457443728259b5c4f82a78c7d84c5a4942b1f1e48ea1446b6dc66526b0b599
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   ThemeKey and Color types to the plugin hooks typings, so an editor lists…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6|claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added to claude plugin validate
 type: change

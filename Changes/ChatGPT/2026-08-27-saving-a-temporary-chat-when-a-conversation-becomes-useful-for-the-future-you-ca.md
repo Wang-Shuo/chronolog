@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 67d2a71be4e4b219c21b7774b5459e97fc12be3fc1e7dd8bd9f2ffd56a6efc2c
+machine_hash: 37703ed13b6eeec4d4b54527ed2961284839084d8aa5e741b993afcdec4b2c32
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -69,6 +69,7 @@ related_changes:
   memory and CPU usage while cloud sessions such as /ultrareview…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-27-more-controls-in-temporary-chat-5ca95d13|chatgpt-2026-08-27-more-controls-in-temporary-chat-5ca95d13]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: memory
 title: Saving a temporary chat
 type: change

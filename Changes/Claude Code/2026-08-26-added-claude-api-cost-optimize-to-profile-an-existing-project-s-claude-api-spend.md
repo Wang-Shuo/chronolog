@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 7db8304571595dd6866ae6e1b8ec4c0a250b02037a924eb32a4775212c46bdf9
+kind: change
+machine_hash: 049f66b353ef7616a46c83db7a93797a21b4369309d7c5ffecccf48d9b508ec9
 product: claude-code
 product_name: Claude Code
 record:
@@ -33,8 +34,9 @@ record:
       API spend and work through cost levers (caching, token hygiene, batch, effort,
       model choice) one measured change at a time
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.247
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-claude-api-cost-optimize-to-profile-an-existing-project-s-claude-api-spend
@@ -45,10 +47,10 @@ record:
     API spend…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-06-gpt-5-6-luna-will-become-the-default-model-for-free-and-go-users-this-week-start|GPT‑5.6
-  Luna will become the default model for Free and Go users this week]]'
-- '[[Changes/ChatGPT/2026-08-06-plus-and-pro-users-can-now-use-an-updated-gpt-5-6-sol-in-chatgpt-with-more-relia|Plus
-  and Pro users can now use an updated GPT‑5.6 Sol in ChatGPT with more reliable…]]'
+- '[[Changes/Claude Code/2026-08-14-2-model-support-changes-in-v2-1-233|2 Model Support
+  changes in v2.1.233]]'
+- '[[Changes/Claude Code/2026-08-17-2-model-support-changes-in-v2-1-234|2 Model Support
+  changes in v2.1.234]]'
 - '[[Changes/Claude Code/2026-08-19-added-anthropic-default-model-environment-variable-sets-the-model-new-sessions-s|Added
   ANTHROPIC_DEFAULT_MODEL environment variable]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-26-v2-1-247-github-377320078-fc507178|claude-code-2026-08-26-v2-1-247-github-377320078-fc507178]]'
@@ -74,14 +76,19 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-08-26-added-a-tip-on-bash-permission-prompts-pointing-to-auto-mode-with-a-one-keystrok|Added a tip on Bash permission prompts pointing to auto mode, with a one-keystroke…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-08-26-2-safety-and-privacy-changes-in-v2-1-247|2 Safety and Privacy changes in v2.1.247]] · Safety and Privacy
+- [[Changes/Claude Code/2026-08-26-changed-terminal-hyperlinks-in-rendered-markdown-link-targets-that-point-at-a-ne|Changed terminal hyperlinks in rendered markdown]] · Developer Workflow
+- [[Changes/Claude Code/2026-08-26-2-apps-and-integrations-changes-in-v2-1-247|2 Apps and Integrations changes in v2.1.247]] · Apps and Integrations
+- [[Changes/Claude Code/2026-08-26-3-account-and-access-changes-in-v2-1-247|3 Account and Access changes in v2.1.247]] · Account and Access
+- [[Changes/Claude Code/2026-08-26-changed-the-prompt-footer-pr-badge-to-skip-its-github-re-check-on-terminal-refoc|Changed the prompt-footer PR badge to skip its GitHub re-check on terminal refocus…]] · Interface Experience
+- [[Changes/Claude Code/2026-08-26-changed-sonnet-5-s-default-auto-compact-window-to-its-full-1m-context-so-session|Changed Sonnet 5's default auto-compact window to its full 1M context, so sessions…]] · Context Window
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
 - Earlier: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-added-anthropic-default-model-environment-variable-sets-the-model-new-sessions-s|Added ANTHROPIC_DEFAULT_MODEL environment variable]]
-- Later: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-added-premodelswitch-and-postmodelswitch-hook-events-block-confirm-or-annotate-a|Added PreModelSwitch and PostModelSwitch hook events…]]
+- Later: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-4-model-support-changes-in-v2-1-251|4 Model Support changes in v2.1.251]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

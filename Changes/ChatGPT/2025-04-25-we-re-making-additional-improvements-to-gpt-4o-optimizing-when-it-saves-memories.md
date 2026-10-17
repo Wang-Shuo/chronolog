@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: cdb92b883d95e0dda505b3af664a20b935f7039b2f139ef3f16f6618aa90db35
+kind: change
+machine_hash: 9970af7e291cc6a8fcd641d50b5e5214cf6ac69d449884b725fe3c45ffba3efd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,8 +38,9 @@ record:
       GPT-4o feel more intuitive and effective across a variety of tasks–we hope you
       agree!
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories
@@ -55,25 +57,23 @@ record:
     score: 50
     theme: memory
   theme_resolution: manual-semantic-rule-v2
-  title: We’re making additional improvements to GPT-4o, optimizing when it saves
-    memories…
+  title: Improvements to GPT-4o
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|GPT-4o
-  is now more adept at following detailed instructions, especially for prompts…]]'
-- '[[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Effective
-  April 30, 2025, GPT‑4 will be retired from ChatGPT and fully replaced by GPT‑4o]]'
-- '[[Changes/ChatGPT/2025-04-16-today-we-re-releasing-openai-o3-and-o4-mini-the-latest-in-our-o-series-of-models|Today,
-  we’re releasing OpenAI o3 and o4-mini, the latest in our o-series of models…]]'
+- '[[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Sunsetting
+  GPT‑4 in ChatGPT]]'
+- '[[Changes/Cursor/2025-04-15-new-models|New models]]'
+- '[[Changes/ChatGPT/2025-04-16-today-we-re-releasing-openai-o3-and-o4-mini-the-latest-in-our-o-series-of-models|o3
+  and o4-mini in ChatGPT]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-04-25-improvements-to-gpt-4o-4bcfc1a7|chatgpt-2025-04-25-improvements-to-gpt-4o-4bcfc1a7]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We’re making additional improvements to GPT-4o, optimizing when it saves memories…
+title: Improvements to GPT-4o
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We’re making additional improvements to GPT-4o, optimizing when it saves memories…
+# Improvements to GPT-4o
 
 **ChatGPT** · 2025-04-25 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-04-25-improvements-to-gpt-4o-4bcfc1a7|Improvements to GPT-4o]]
 <!-- chronolog:end -->
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-04-16 · ChatGPT · [[Changes/ChatGPT/2025-04-16-today-we-re-releasing-openai-o3-and-o4-mini-the-latest-in-our-o-series-of-models|Today, we’re releasing OpenAI o3 and o4-mini, the latest in our o-series of models…]]
-- Later: 2025-04-29 · ChatGPT · [[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|We've reverted the most recent update to GPT-4o due to issues with overly agreeable…]]
+- Earlier: 2025-04-16 · ChatGPT · [[Changes/ChatGPT/2025-04-16-today-we-re-releasing-openai-o3-and-o4-mini-the-latest-in-our-o-series-of-models|o3 and o4-mini in ChatGPT]]
+- Later: 2025-04-29 · ChatGPT · [[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|Updates to GPT-4o]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: b38b16091534b375a8b16e4296eb974e375ad8c9a5c12ec9adc1ef965218b2fd
+kind: change
+machine_hash: 402ea2edeb033fe19c96ea79d3fbb34f406d1f9d70b28ccd3fe6ee5f2f670a7f
 product: claude-code
 product_name: Claude Code
 record:
@@ -37,8 +38,9 @@ record:
       back to `origin/<default>` (it has been local `HEAD` since 2.1.128) — set `worktree.baseRef:
       "head"` to keep unpushed commits in new worktrees'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.133
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-worktree-baseref-setting-fresh-head-to-choose-whether-worktree-enterworktr
@@ -58,12 +60,12 @@ record:
   title: Added `worktree.baseRef` setting (`fresh` | `head`) to choose whether `--worktree`…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-23-added-prurltemplate-setting-to-point-the-footer-pr-badge-at-a-custom-code-review|Added
-  prUrlTemplate setting to point the footer PR badge at a custom code-review…]]'
-- '[[Changes/Claude Code/2026-04-28-opentelemetry-added-claude-code-at-mention-log-event-for-mention-resolution|OpenTelemetry:
-  added claude_code.at_mention log event for @-mention resolution]]'
-- '[[Changes/Claude Code/2026-05-06-added-claude-code-package-manager-auto-update-when-set-on-homebrew-or-winget-ins|Added
-  CLAUDE_CODE_PACKAGE_MANAGER_AUTO_UPDATE: when set on Homebrew or WinGet…]]'
+- '[[Changes/Cursor/2026-04-29-added-first-class-run-streaming-with-sse-events-reconnect-support-via-last-event|Added
+  first-class run streaming with SSE events, reconnect support…]]'
+- '[[Changes/Claude Code/2026-05-01-3-developer-workflow-changes-in-v2-1-126|3 Developer
+  Workflow changes in v2.1.126]]'
+- '[[Changes/Claude Code/2026-05-06-2-developer-workflow-changes-in-v2-1-129|2 Developer
+  Workflow changes in v2.1.129]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-07-v2-1-133-github-319164825-08653677|claude-code-2026-05-07-v2-1-133-github-319164825-08653677]]'
 source_type: github_releases
 theme: developer-workflow
@@ -86,7 +88,8 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-05-07-hooks-now-receive-the-active-effort-level-via-the-effort-level-json-input-field|Hooks now receive the active effort level via the effort.level JSON input field…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-05-07-improved-memory-usage-by-releasing-warm-spare-background-workers-under-memory-pr|Improved memory usage by releasing warm-spare background workers under memory pressure]] · Reliability and Performance
+- [[Changes/Claude Code/2026-05-07-2-apps-and-integrations-changes-in-v2-1-133|2 Apps and Integrations changes in v2.1.133]] · Apps and Integrations
 - [[Changes/Claude Code/2026-05-07-improved-focus-mode-behavior|Improved focus mode behavior]] · Interface Experience
 - [[Changes/Claude Code/2026-05-07-added-sandbox-bwrappath-and-sandbox-socatpath-managed-settings-linux-wsl-to-spec|Added sandbox.bwrapPath and sandbox.socatPath managed settings (Linux/WSL)…]] · Safety and Privacy
 - [[Changes/Claude Code/2026-05-07-added-parentsettingsbehavior-admin-tier-key-first-wins-merge-to-let-admins-opt-s|Added parentSettingsBehavior admin-tier key ('first-wins'  /  'merge') to let…]] · Enterprise and Administration
@@ -95,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-added-claude-code-package-manager-auto-update-when-set-on-homebrew-or-winget-ins|Added CLAUDE_CODE_PACKAGE_MANAGER_AUTO_UPDATE: when set on Homebrew or WinGet…]]
-- Later: 2026-05-07 · Cursor · [[Changes/Cursor/2026-05-07-a-new-pr-review-experience-is-now-available-in-cursor-3-take-prs-from-creation-t|A new PR review experience is now available in Cursor 3]]
+- Earlier: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-2-developer-workflow-changes-in-v2-1-129|2 Developer Workflow changes in v2.1.129]]
+- Later: 2026-05-07 · Cursor · [[Changes/Cursor/2026-05-07-pr-review|PR review]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

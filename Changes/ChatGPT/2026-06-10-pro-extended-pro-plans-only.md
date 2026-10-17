@@ -13,9 +13,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 2231f0c57554c3a6151fa2b7d9d4e07d5eb165f28cedb6fc98aec9abf8032d5d
+kind: change
+machine_hash: 10efed41e373ba80cc70a36d2bfff76222e8043927bbd392d86654b41207d637
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,8 +28,9 @@ record:
   evidence:
   - quote: Pro Extended [Pro plans only]
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: pro-extended-pro-plans-only
@@ -40,8 +42,8 @@ record:
   title: Pro Extended [Pro plans only]
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-06-max-thinking-tokens-0-thinking-disabled-and-the-per-model-thinking-toggle-now-di|MAX_THINKING_TOKENS=0,
-  --thinking disabled, and the per-model thinking toggle…]]'
+- '[[Changes/ChatGPT/2026-06-08-long-press-send-to-choose-a-model-users-on-paid-plans-can-now-long-press-the-sen|Long-press
+  send to choose a model]]'
 - '[[Changes/Claude Code/2026-06-08-added-a-disablebundledskills-setting-and-claude-code-disable-bundled-skills-envi|Added
   a disableBundledSkills setting and CLAUDE_CODE_DISABLE_BUNDLED_SKILLS…]]'
 - '[[Changes/Claude Code/2026-06-09-introducing-claude-fable-5-a-mythos-class-model-that-we-ve-made-safe-for-general|Introducing
@@ -69,8 +71,7 @@ type: change
 ## Also in this release
 
 - [[Changes/ChatGPT/2026-06-10-extra-high-pro-plans-only|Extra High Pro plans only]] · Model Support
-- [[Changes/ChatGPT/2026-06-10-on-ios-and-android-you-can-find-the-picker-at-the-top-of-the-conversation-on-web|On iOS and Android, you can find the picker at the top of the conversation]] · Mobile and Desktop
-- [[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed|We’re updating the model picker to make it easier to choose the balance of speed…]] · Interface Experience
+- [[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed-b05795|We’re updating the model picker to make it easier to choose the balance of speed…]] · Interface Experience
 - [[Changes/ChatGPT/2026-06-10-pro-standard-pro-plans-only|Pro Standard Pro plans only]] · Model Support
 <!-- chronolog:end -->
 
@@ -78,7 +79,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-06-09 · Claude Code · [[Changes/Claude Code/2026-06-09-introducing-claude-fable-5-a-mythos-class-model-that-we-ve-made-safe-for-general|Introducing Claude Fable 5: a Mythos-class model that we’ve made safe for general use]]
-- Later: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-added-model-attribute-to-the-claude-code-lines-of-code-count-otel-metric|Added model attribute to the claude_code.lines_of_code.count OTEL metric]]
+- Later: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-2-model-support-changes-in-v2-1-172|2 Model Support changes in v2.1.172]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

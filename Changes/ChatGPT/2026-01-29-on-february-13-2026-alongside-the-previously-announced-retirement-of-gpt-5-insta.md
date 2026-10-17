@@ -2,7 +2,7 @@
 card_id: chatgpt-2026-01-29-23f4fe
 date: '2026-01-29'
 description: 'ChatGPT · 2026-01-29 · Model Support: On February 13, 2026, alongside
-  the previously announced retirement⁠ of GPT‑5 (Instant and Thinking), we will retire…'
+  the previously announced retirement of GPT‑5 (Instant and Thinking), we will retire…'
 diffusion:
   first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
     made more improvements to the ChatGPT model!]]'
@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: b96eefbd863bc179f872fda1d840ec65908ba0af2e72b386604e8da525e28ab1
+kind: policy
+machine_hash: b0659d9e9c9b1bd458699f0d1c84cc7bc7c4cef764f6f62e7b6030f477151b79
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -24,18 +25,19 @@ record:
   comparison: ''
   date: '2026-01-29'
   description: 'ChatGPT — Retiring GPT-4o and other legacy models: On February 13,
-    2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant and Thinking),
+    2026, alongside the previously announced retirement of GPT‑5 (Instant and Thinking),
     we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT.
     In the API, there are no changes at this time. For more, see our blog post or
     help center.'
   evidence:
-  - quote: On February 13, 2026, alongside the previously announced retirement⁠ of
+  - quote: On February 13, 2026, alongside the previously announced retirement of
       GPT‑5 (Instant and Thinking), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini,
       and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time.
       For more, see our blog post or help center.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: policy
   product: chatgpt
   product_name: ChatGPT
   slug: on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta
@@ -44,30 +46,30 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: On February 13, 2026, alongside the previously announced retirement of GPT‑5…
+  title: Retiring GPT-4o and other legacy models
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-16-added-support-for-pretooluse-hooks-to-return-additionalcontext-to-the-model|Added
-  support for PreToolUse hooks to return additionalContext to the model]]'
-- '[[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|ChatGPT
-  rolls out an age prediction model on ChatGPT consumer plans to help…]]'
-- '[[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|We’re
-  updating GPT-5.2 Instant’s default personality to be more conversational…]]'
+- '[[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|Rolling
+  out age prediction]]'
+- '[[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|5.2
+  Personality System Prompt Update]]'
+- '[[Changes/Cursor/2026-01-22-added-max-mode-on-off-to-toggle-max-mode-on-models-that-support-it-in-cli|Added
+  /max-mode on / off to toggle max mode on models that support it in CLI]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-29-retiring-gpt-4o-and-other-legacy-models-71b41b16|chatgpt-2026-01-29-retiring-gpt-4o-and-other-legacy-models-71b41b16]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: On February 13, 2026, alongside the previously announced retirement of GPT‑5…
+title: Retiring GPT-4o and other legacy models
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# On February 13, 2026, alongside the previously announced retirement of GPT‑5…
+# Retiring GPT-4o and other legacy models
 
-**ChatGPT** · 2026-01-29 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-01-29-retiring-gpt-4o-and-other-legacy-models-71b41b16|Retiring GPT-4o and other legacy models]]
+**ChatGPT** · 2026-01-29 · [[Themes/model-support|Model Support]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-01-29-retiring-gpt-4o-and-other-legacy-models-71b41b16|Retiring GPT-4o and other legacy models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
-> On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant and Thinking), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time. For more, see our blog post or help center.
+> On February 13, 2026, alongside the previously announced retirement of GPT‑5 (Instant and Thinking), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time. For more, see our blog post or help center.
 >
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
@@ -79,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-22 · ChatGPT · [[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|We’re updating GPT-5.2 Instant’s default personality to be more conversational…]]
-- Later: 2026-02-04 · ChatGPT · [[Changes/ChatGPT/2026-02-04-jan-10-2026-we-lowered-the-standard-and-light-thinking-time-as-we-observed-users-e93d5a|Jan 10, 2026: We lowered the Standard and Light thinking time as we observed users…]]
+- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-added-max-mode-on-off-to-toggle-max-mode-on-models-that-support-it-in-cli|Added /max-mode on / off to toggle max mode on models that support it in CLI]]
+- Later: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-changed-model-to-execute-immediately-instead-of-being-queued|Changed /model to execute immediately instead of being queued]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 15c03abbacde4c1430c24c57c65bc470ef52ebf7be104ebfe319685548d99189
+machine_hash: 2627d9331feba2e960d16fd6f8aa4377f1631ad246b25a95e352568d9571746d
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   commit guidance]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6|claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added a built-in gh api to cloud sessions whose image has no GitHub CLI, and
   fixed…

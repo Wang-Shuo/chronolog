@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 67f6005c19d6bc7a7e93dc13836750f11d6426d1b155b3043cdd758afd9b4543
+machine_hash: 1e3bf877197ae23828cf93acd9f527f4c107dafcdd28d35334da6afefac0ec60
 product: cursor
 product_name: Cursor
 record:
@@ -53,6 +53,7 @@ related_changes:
   introduces a new way to multitask with async subagents, an improved worktrees…]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-24-3-2-https-cursor-com-changelog-04-24-26-9ab6a4bf|cursor-2026-04-24-3-2-https-cursor-com-changelog-04-24-26-9ab6a4bf]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: If you already have messages in the queue, you can ask Cursor to multitask
   on them…

@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 3c3e1fe892a896a9895ae13302e58e53779ba6cc25c0734638ec7a1a763ab6cb
+kind: change
+machine_hash: 248378315a1abe057f5e443283a09e918110e0bbd2b6b988b8676709f67dd035
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,8 +29,9 @@ record:
   - quote: Improved slash command suggestion readability by truncating long descriptions
       to 2 lines
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.3
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-slash-command-suggestion-readability-by-truncating-long-descriptions-to
@@ -46,8 +48,8 @@ related_changes:
   LSP (Language Server Protocol) tool for code intelligence features like…]]'
 - '[[Changes/Claude Code/2025-12-19-added-terminal-setup-support-for-kitty-alacritty-zed-and-warp-terminals|Added
   /terminal-setup support for Kitty, Alacritty, Zed, and Warp terminals]]'
-- '[[Changes/Cursor/2026-01-08-use-the-new-agent-models-command-list-models-flag-or-models-slash-command-to-lis|Use
-  the new agent models command, --list-models flag, or /models slash command…]]'
+- '[[Changes/Cursor/2026-01-08-3-developer-workflow-changes-in-new-cli-features-and-improved-cli|3
+  Developer Workflow changes in New CLI Features and Improved CLI…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-3-github-275638643-101f767c|claude-code-2026-01-09-v2-1-3-github-275638643-101f767c]]'
 source_type: github_releases
 theme: developer-workflow
@@ -71,17 +73,16 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-01-09-added-release-channel-stable-or-latest-toggle-to-config|Added release channel (stable or latest) toggle to /config]] · Interface Experience
 - [[Changes/Claude Code/2026-01-09-merged-slash-commands-and-skills-simplifying-the-mental-model-with-no-change-in|Merged slash commands and skills, simplifying the mental model with no change in behavior]] · Model Support
-- [[Changes/Claude Code/2026-01-09-improved-terminal-rendering-stability-by-preventing-uncontrolled-writes-from-cor|Improved terminal rendering stability by preventing uncontrolled writes…]] · Interface Experience
-- [[Changes/Claude Code/2026-01-09-added-detection-and-warnings-for-unreachable-permission-rules-with-warnings-in-d|Added detection and warnings for unreachable permission rules, with warnings…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-01-09-2-interface-experience-changes-in-v2-1-3|2 Interface Experience changes in v2.1.3]] · Interface Experience
+- [[Changes/Claude Code/2026-01-09-2-safety-and-privacy-changes-in-v2-1-3|2 Safety and Privacy changes in v2.1.3]] · Safety and Privacy
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-use-the-new-agent-models-command-list-models-flag-or-models-slash-command-to-lis|Use the new agent models command, --list-models flag, or /models slash command…]]
-- Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-added-source-path-metadata-to-images-dragged-onto-the-terminal-helping-claude-un|Added source path metadata to images dragged onto the terminal, helping Claude…]]
+- Earlier: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-3-developer-workflow-changes-in-new-cli-features-and-improved-cli|3 Developer Workflow changes in New CLI Features and Improved CLI…]]
+- Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-3-developer-workflow-changes-in-v2-1-2|3 Developer Workflow changes in v2.1.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

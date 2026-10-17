@@ -3,7 +3,7 @@ changes_count: 0
 date: '2023-04-06'
 description: 'Cursor release More Bug Fixes (2023-04-06) on 2023-04-06: no tracked
   changes'
-machine_hash: 44d3da09f58b7fe7a389202b5b0f0cb33f6443ddae50394acd66e3bd8b552254
+machine_hash: 4ba30389ec1384690672df05a8d731f3845a12b3b27d1a5e2244a1af7bf493ff
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.2.1
 <!-- chronolog:begin region="summary" -->
 No change cards extracted.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

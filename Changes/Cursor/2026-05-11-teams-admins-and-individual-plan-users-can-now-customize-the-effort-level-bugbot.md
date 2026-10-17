@@ -5,19 +5,20 @@ description: 'Cursor · 2026-05-11 · Enterprise and Administration: Teams admin
   Individual plan users can now customize the effort level Bugbot uses for its PR
   reviews…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise
-    and Edu rollout coming soon]]'
+  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
+    users can only access stable release (no pre-release)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 333
+  lag_days: 341
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 7fff6603a9f0e8ebb39bc0e65affc81582189b45bcfc9caa4698c85eadca47ad
+kind: change
+machine_hash: da9a1a665e2da19024bc70d93c6217c0572fde47e3f621993f78429e1a59f4f4
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +32,9 @@ record:
   - quote: 'Teams admins and Individual plan users can now customize the effort level
       Bugbot uses for its PR reviews, with three different configurations:'
     source_release: https://cursor.com/changelog/05-11-26
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: teams-admins-and-individual-plan-users-can-now-customize-the-effort-level-bugbot
@@ -53,8 +55,8 @@ record:
     Bugbot…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-04-admins-can-now-set-soft-limits-instead-of-hard-limits-to-avoid-blocking-users-cu|Admins
-  can now set soft limits instead of hard limits to avoid blocking users]]'
+- '[[Changes/Cursor/2026-05-04-soft-spend-limits-and-intelligent-alerts|Soft spend
+  limits and intelligent alerts]]'
 - '[[Changes/Claude Code/2026-05-07-added-parentsettingsbehavior-admin-tier-key-first-wins-merge-to-let-admins-opt-s|Added
   parentSettingsBehavior admin-tier key (''first-wins''  /  ''merge'') to let…]]'
 - '[[Changes/Claude Code/2026-05-08-added-claude-code-enable-feedback-survey-for-otel-to-re-enable-the-session-quali|Added
@@ -97,7 +99,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise and Edu rollout coming soon]]
+- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

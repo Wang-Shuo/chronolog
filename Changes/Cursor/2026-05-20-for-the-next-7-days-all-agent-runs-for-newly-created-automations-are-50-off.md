@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: dccbb8c47bc4fe3905a9d35d758aa5e4c375010345c74a3cfec1da54bab8a4d0
+machine_hash: 34556b5d78a7a7a98fc8f8fd214f6a9205b59e908f978ceb0c731f3cc986d7f7
 product: cursor
 product_name: Cursor
 record:
@@ -61,6 +61,7 @@ related_changes:
   OpenTelemetry event now fires for user-typed slash…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-05-20-26-f6af79ab|cursor-2026-05-20-3-5-https-cursor-com-changelog-05-20-26-f6af79ab]]'
 source_type: cursor_changelog
+superseded: true
 theme: automation-scheduling
 title: For the next 7 days, all agent runs for newly created automations are 50% off
 type: change

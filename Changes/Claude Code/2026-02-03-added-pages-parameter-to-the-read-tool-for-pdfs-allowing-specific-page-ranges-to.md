@@ -5,8 +5,8 @@ description: 'Claude Code · 2026-02-03 · Context Window: Added `pages` paramet
   the Read tool for PDFs, allowing specific page ranges to be read (e.g., `pages:
   "1-5"`)…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
-    prompt length for project generation]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1006
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 616fd5aac03cde818c8cd27ff1ef3cbc0df3b70ab731f210882520a75c93f249
+kind: change
+machine_hash: c8973813c15a95937380a8cb4b8cd51bb2128c3e4658641a7202e35dc3e43391
 product: claude-code
 product_name: Claude Code
 record:
@@ -33,8 +34,9 @@ record:
       ranges to be read (e.g., `pages: "1-5"`). Large PDFs (>10 pages) now return
       a lightweight reference when `@` mentioned instead of being inlined into context.'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.30
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-pages-parameter-to-the-read-tool-for-pdfs-allowing-specific-page-ranges-to
@@ -45,12 +47,12 @@ record:
     ranges…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-13-added-context-window-used-percentage-and-context-window-remaining-percentage-fie|Added
-  context_window.used_percentage and context_window.remaining_percentage…]]'
+- '[[Changes/Claude Code/2026-01-14-enabled-mcp-tool-search-auto-mode-by-default-for-all-users-when-mcp-tool-descrip|Enabled
+  MCP tool search auto mode by default for all users]]'
 - '[[Changes/Claude Code/2026-01-16-added-auto-n-syntax-for-configuring-the-mcp-tool-search-auto-enable-threshold-wh|Added
   auto:N syntax for configuring the MCP tool search auto-enable threshold…]]'
-- '[[Changes/Cursor/2026-01-22-the-result-is-faster-overall-execution-more-focused-context-in-your-main-convers|The
-  result is faster overall execution, more focused context in your main…]]'
+- '[[Changes/Cursor/2026-01-22-agents-can-now-read-pdfs-which-you-can-attach-in-chats-as-context|Agents
+  can now read PDFs, which you can attach in chats as context]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2|claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2]]'
 source_type: github_releases
 theme: context-window
@@ -74,22 +76,25 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-02-03-added-pre-configured-oauth-client-credentials-for-mcp-servers-that-don-t-support|Added pre-configured OAuth client credentials for MCP servers that don't support…]] · Account and Access
+- [[Changes/Claude Code/2026-02-03-2-developer-workflow-changes-in-v2-1-30|2 Developer Workflow changes in v2.1.30]] · Developer Workflow
+- [[Changes/Claude Code/2026-02-03-improved-memory-usage-for-resume-68-reduction-for-users-with-many-sessions-by-re|Improved memory usage for --resume (68% reduction for users with many sessions)…]] · Reliability and Performance
 - [[Changes/Claude Code/2026-02-03-added-token-count-tool-uses-and-duration-metrics-to-task-tool-results|Added token count, tool uses, and duration metrics to Task tool results]] · Agent Mode
-- [[Changes/Claude Code/2026-02-03-added-support-for-additional-git-log-and-git-show-flags-in-read-only-mode-e-g-to|Added support for additional git log and git show flags in read-only mode…]] · Developer Workflow
+- [[Changes/Claude Code/2026-02-03-changed-model-to-execute-immediately-instead-of-being-queued|Changed /model to execute immediately instead of being queued]] · Model Support
+- [[Changes/Claude Code/2026-02-03-fixed-permission-dialogs-stealing-focus-while-actively-typing|Fixed permission dialogs stealing focus while actively typing]] · Safety and Privacy
 - [[Changes/Claude Code/2026-02-03-added-debug-for-claude-to-help-troubleshoot-the-current-session|Added /debug for Claude to help troubleshoot the current session]] · Developer Workflow
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-the-result-is-faster-overall-execution-more-focused-context-in-your-main-convers|The result is faster overall execution, more focused context in your main…]]
-- Later: 2026-02-05 · Claude Code · [[Changes/Claude Code/2026-02-05-added-summarize-from-here-to-the-message-selector-allowing-partial-conversation|Added "Summarize from here" to the message selector, allowing partial conversation…]]
+- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-agents-can-now-read-pdfs-which-you-can-attach-in-chats-as-context|Agents can now read PDFs, which you can attach in chats as context]]
+- Later: 2026-02-05 · Claude Code · [[Changes/Claude Code/2026-02-05-2-context-window-changes-in-v2-1-32|2 Context Window changes in v2.1.32]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

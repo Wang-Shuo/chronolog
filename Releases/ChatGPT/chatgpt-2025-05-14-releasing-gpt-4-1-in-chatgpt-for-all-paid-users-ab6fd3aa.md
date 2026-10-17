@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-05-14'
 description: 'ChatGPT release Releasing GPT-4.1 in ChatGPT for all paid users on 2025-05-14:
   1 tracked change across Model Support'
-machine_hash: 84eead209728328a3b7204cdb8faf5bcce38f9d57126f9c691d66c27261ae846
+machine_hash: bbf3bca5fd6f32df89b37a4c79456272b86494fedec2d64dd209ed85639edcd6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Releasing GPT-4.1 in ChatGPT for all paid users
 <!-- chronolog:begin region="summary" -->
 Since its launch in the API in April, GPT-4.1 has become a favorite among developers—by popular demand, we’re making it available directly in ChatGPT.GPT-4.1 is a specialized model that excels at coding tasks. Compared to GPT-4o, it's even stronger at precise instruction following and web development tasks, and offers…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-05-14-since-its-launch-in-the-api-in-april-gpt-4-1-has-become-a-favorite-among-develop-286eb2|Since its launch in the API in April, GPT-4.1 has become a favorite among…]] · Model Support
+- [[Changes/ChatGPT/2025-05-14-since-its-launch-in-the-api-in-april-gpt-4-1-has-become-a-favorite-among-develop-286eb2|Releasing GPT-4.1 in ChatGPT for all paid users]] · Model Support
 <!-- chronolog:end -->

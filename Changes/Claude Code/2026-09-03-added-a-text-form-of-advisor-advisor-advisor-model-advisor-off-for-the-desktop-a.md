@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 752af0a49caa02ce124b845a1fdb4f625d1015c66d5225047e2c58993533670a
+machine_hash: 3de6468af1bcbfa4148502d231a6a7b1b6b3f8dd8d2050db80c5502759490578
 product: claude-code
 product_name: Claude Code
 record:
@@ -68,6 +68,7 @@ related_changes:
   oidc.scope_on_refresh to the Claude apps gateway for IdPs that return…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added a text form of /advisor (/advisor, /advisor model, /advisor off)…
 type: change

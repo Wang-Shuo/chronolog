@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 37dda6da967654f5e30328b4580dad934eee1f7dd9b920a5b6df257c3e765c01
+machine_hash: d01156460e1a58ced68fc378ef3f8da481a1b734f42539498f2d2d2e2bb98715
 product: cursor
 product_name: Cursor
 record:
@@ -50,6 +50,7 @@ related_changes:
   work items to Cursor, or mention @Cursor in a comment to kick off a cloud agent]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da|cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Use the /loop skill for local long-running agents
 type: change

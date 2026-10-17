@@ -4,19 +4,20 @@ date: '2025-09-29'
 description: 'ChatGPT · 2025-09-29 · Image Generation: Remove image generation, so
   ChatGPT won’t have the ability to create or edit images.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The
-    store features a diverse range of GPTs developed by our partners and the community]]'
+  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
+    3 for ChatGPT Free users]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 628
+  lag_days: 417
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 36a56a5adfa00265c9767644c751a423b0184f6e0ca768e7a71112e18ed830f9
+kind: change
+machine_hash: d4c517c136d47677a4cde4fa6b2c323da2d0e726bcdd29e2e1bb5d5fd461f970
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Remove image generation, so ChatGPT won’t have the ability to create or
       edit images.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: remove-image-generation-so-chatgpt-won-t-have-the-ability-to-create-or-edit-imag
@@ -41,8 +43,8 @@ record:
     images
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|ChatGPT
-  rolls out a small update to image generation for ChatGPT Free tier users…]]'
+- '[[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|Image
+  generation update to ChatGPT Free]]'
 - '[[Changes/ChatGPT/2025-08-18-more-messages-larger-file-uploads-and-expanded-image-generation|More
   messages, larger file uploads, and expanded image generation]]'
 - '[[Changes/ChatGPT/2025-09-22-more-messages-larger-file-uploads-and-expanded-image-generation|More
@@ -70,7 +72,8 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2025-09-29-we-re-rolling-out-parental-controls-globally-in-chatgpt-to-help-families-guide-h-86eaab|ChatGPT rolls out parental controls globally to help families guide how ChatGPT…]] · Safety and Privacy
+- [[Changes/ChatGPT/2025-09-29-we-re-rolling-out-parental-controls-globally-in-chatgpt-to-help-families-guide-h-289d0a|ChatGPT rolls out parental controls globally to help families guide how ChatGPT…]] · Safety and Privacy
+- [[Changes/ChatGPT/2025-09-29-opt-out-of-model-training-so-their-teen-s-conversations-won-t-be-used-to-improve|Opt out of model training, so their teen’s conversations won’t be used to improve…]] · Model Support
 - [[Changes/ChatGPT/2025-09-29-turn-off-voice-mode-to-remove-the-option-to-use-voice-mode-in-chatgpt|Turn off voice mode, to remove the option to use voice mode in ChatGPT]] · Voice and Audio
 - [[Changes/ChatGPT/2025-09-29-turn-off-memory-so-chatgpt-won-t-save-and-use-memories-when-responding|Turn off memory, so ChatGPT won’t save and use memories when responding]] · Memory and Personalization
 <!-- chronolog:end -->
@@ -85,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The store features a diverse range of GPTs developed by our partners and the community]]
+- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

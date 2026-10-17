@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 79b9aeeb1baea874a4f9bcb71ece7af1cd078a649fd412b281762a40f49d0a9e
+machine_hash: fe8d2009ed0ce1fa1789591431662e628d2365f52d6270a58bb10e984be038e1
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   new Elicitation and ElicitationResult hooks to intercept and override…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added MCP elicitation support
 type: change

@@ -2,7 +2,7 @@
 changes_count: 0
 date: '2023-08-29'
 description: 'Cursor release Small refactor on 2023-08-29: no tracked changes'
-machine_hash: 0ebc87c654e560bd773b6ec4f70d073bc141b7e5739cb9285f534761c95422ba
+machine_hash: 5f544e4a69c2decc47774896f1f075a07a748ee7b5dc7f5fd5b19aa6bebf0c2c
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.8.4-nightly
 <!-- chronolog:begin region="summary" -->
 Small refactor that we want to make sure doesn't break! Please report bugs if you find them.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

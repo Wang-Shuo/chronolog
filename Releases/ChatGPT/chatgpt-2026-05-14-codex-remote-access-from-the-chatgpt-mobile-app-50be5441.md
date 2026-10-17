@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-05-14'
 description: 'ChatGPT release Codex remote access from the ChatGPT mobile app on 2026-05-14:
   1 tracked change across Mobile and Desktop'
-machine_hash: bbba9d6bf1d78e0a7b1b81b103ae8501a4832bc3605efb815aa91ff27ba1a3fb
+machine_hash: c0c7b4ffaa9fedfb25550b4aa238e2b3b9b0faf67830ea17e5a536ace42d4d6e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: Codex remote access from the ChatGPT mobile app
 <!-- chronolog:begin region="summary" -->
 Codex is now available in preview in the ChatGPT mobile app, so you can stay connected to active work from your phone while Codex continues running on the connected Mac host. From mobile, you can start or continue threads, answer questions, change direction, approve actions, review what Codex found, and move across…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|Codex is now available in preview in the ChatGPT mobile app, so you can stay…]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|Codex remote access from the ChatGPT mobile app]] · Mobile and Desktop · Expansion
 <!-- chronolog:end -->

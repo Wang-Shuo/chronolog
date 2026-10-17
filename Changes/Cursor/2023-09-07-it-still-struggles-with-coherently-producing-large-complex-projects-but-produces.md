@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a4513fd3e88ded6ed50d042791fc8588a8606c32d94754356e9ae6406416583f
+machine_hash: cc2710f64361428d632a41adcdc020128c9bc324eb49a71621da4ebd2b624421
 product: cursor
 product_name: Cursor
 record:
@@ -52,6 +52,7 @@ related_changes:
   a project end-to-end]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-07-0-9-8-nightly-https-cursor-com-changelog-0-9-8-nightly-bc635135|cursor-2023-09-07-0-9-8-nightly-https-cursor-com-changelog-0-9-8-nightly-bc635135]]'
 source_type: cursor_changelog
+superseded: true
 theme: projects-workspaces
 title: It still struggles with coherently producing large complex projects, but produces…
 type: change

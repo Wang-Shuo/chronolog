@@ -15,9 +15,10 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 8451a0a271e05b058377ec4fd99868a2b06b7bb6738e89426242c783b1309fbd
+kind: change
+machine_hash: 8a490d08ac8f595e4a973afcc4d23c9a8a3aa31319dc13b618c1d39d42846019
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,8 +32,9 @@ record:
   - quote: 'Sources from chats: Save useful ChatGPT responses into your project so
       great outputs become reusable knowledge.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: sources-from-chats-save-useful-chatgpt-responses-into-your-project-so-great-outp

@@ -3,7 +3,7 @@ changes_count: 4
 date: '2024-01-18'
 description: 'Cursor release New Model, Apply Button v2 on 2024-01-18: 4 tracked changes
   across Editor Experience, Model Support'
-machine_hash: 98f46c90c3c1ccd8dba0c0a30173bc475d21afb212d9543268abf5d883f5fe4b
+machine_hash: cd0f436b204157e90708861be82b11259753773446e9c3d9ca2efdfdb59ed6f4
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ version: 0.23.x
 <!-- chronolog:begin region="summary" -->
 "cursor-fast": This is a new model available in command-k and chat. Expect it to be a bit smarter than gpt-3.5, and with many fewer formatting errors.
 
-Tracked 4 of 5 candidate lines.
+Tracked 4 cards from 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

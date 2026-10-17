@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0cd2a402cf22ae9077146032172cf5d6c6663b6f4457d6d7a6791f9907302681
+machine_hash: 06a4be09bc296162bf6787cc31edcd70231d43026c04b47c29522f5a0bbf2c4c
 product: cursor
 product_name: Cursor
 record:
@@ -62,6 +62,7 @@ related_changes:
   SDKRateLimitInfo and SDKRateLimitEvent types to the SDK, enabling…]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320|cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: Plugins package skills, subagents, MCP servers, hooks, and rules, into a single
   install

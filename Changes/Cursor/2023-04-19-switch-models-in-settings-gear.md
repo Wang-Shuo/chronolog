@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d6ed501cd02790713d9081ea5eb2323acdb0e854da0c327d2993b62ba909755c
+machine_hash: 458690448060e622a54b66cd301b094046bcf1358ac1ee53571d81c20d560042
 product: cursor
 product_name: Cursor
 record:
@@ -45,6 +45,7 @@ related_changes:
 - '[[Changes/Cursor/2023-04-14-gpt-4-support|GPT-4 support]]'
 source_release: '[[Releases/Cursor/cursor-2023-04-19-0-2-6-https-cursor-com-changelog-0-2-6-a339bef2|cursor-2023-04-19-0-2-6-https-cursor-com-changelog-0-2-6-a339bef2]]'
 source_type: cursor_changelog
+superseded: true
 theme: model-support
 title: Switch models in settings gear
 type: change

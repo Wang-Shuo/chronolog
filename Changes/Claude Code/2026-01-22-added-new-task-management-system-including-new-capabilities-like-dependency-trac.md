@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 91c2291e188b1cebeb2d1d1f2a1076e362772b6b3f151b7d4f83600149cc25ac
+kind: change
+machine_hash: e80e18d6d0ffd8e9de0188b6e74efc30a9cca1854abfc520f9a807ca0aeeae14
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Added new task management system, including new capabilities like dependency
       tracking
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.16
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-new-task-management-system-including-new-capabilities-like-dependency-trac
@@ -44,8 +46,8 @@ record:
     tracking
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-16-added-session-url-attribution-to-commits-and-prs-created-from-web-sessions|Added
-  session URL attribution to commits and PRs created from web sessions]]'
+- '[[Changes/Cursor/2026-01-16-2-developer-workflow-changes-in-cli-agent-modes-and-cloud-handoff|2
+  Developer Workflow changes in CLI Agent Modes and Cloud Handoff]]'
 - '[[Changes/Claude Code/2026-01-20-vscode-added-usage-command-to-display-current-plan-usage|VSCode
   Added /usage command to display current plan usage]]'
 - '[[Changes/Claude Code/2026-01-21-added-deprecation-notification-for-npm-installations-run-claude-install-or-see-h|Added
@@ -75,14 +77,13 @@ type: change
 
 - [[Changes/Claude Code/2026-01-22-vscode-added-native-plugin-management-support|VSCode Added native plugin management support]] · Apps and Integrations
 - [[Changes/Claude Code/2026-01-22-vscode-added-ability-for-oauth-users-to-browse-and-resume-remote-claude-sessions|VSCode Added ability for OAuth users to browse and resume remote Claude sessions…]] · Account and Access
-- [[Changes/Claude Code/2026-01-22-ide-fixed-a-race-condition-on-windows-where-the-claude-code-sidebar-view-contain|IDE Fixed a race condition on Windows where the Claude Code sidebar view container…]] · Mobile and Desktop
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-21 · Claude Code · [[Changes/Claude Code/2026-01-21-added-deprecation-notification-for-npm-installations-run-claude-install-or-see-h|Added deprecation notification for npm installations - run claude install or see…]]
-- Later: 2026-01-23 · Claude Code · [[Changes/Claude Code/2026-01-23-changed-indexed-argument-syntax-from-arguments-0-to-arguments-0-bracket-syntax|Changed indexed argument syntax from $ARGUMENTS.0 to $ARGUMENTS0 (bracket syntax)]]
+- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-3-developer-workflow-changes-in-2-4|3 Developer Workflow changes in 2.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

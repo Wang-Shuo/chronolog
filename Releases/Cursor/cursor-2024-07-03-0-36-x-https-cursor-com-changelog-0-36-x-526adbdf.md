@@ -3,7 +3,7 @@ changes_count: 2
 date: '2024-07-03'
 description: 'Cursor release Instant Applies, Docs Management on 2024-07-03: 2 tracked
   changes across Apps and Integrations, Developer Workflow'
-machine_hash: b9ab25224e9fce869ea1f26406497cbee9cbe0c55ad2c6e889193d8c9cda815b
+machine_hash: cb1ea8fa2c878939c293c0418126044d97b711303b3072748a71594775019073
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ version: 0.36.x
 <!-- chronolog:begin region="summary" -->
 When the chat suggests a code block, click "Apply" to instantly see the change to the file (small enough files only).
 
-Tracked 2 of 4 candidate lines.
+Tracked 2 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 13ee55ef47d71822059b4f8f871416217158d7ec8897cf0638f5ad2d6f122660
+kind: change
+machine_hash: 98f4279ffe16626f6eff74ae277308df6d627c3089a5e23ad787f7e84599a6fb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,8 +40,9 @@ record:
       the context without asking follow-up questions. Rolling out globally on iOS,
       Android, web.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: responses-in-chatgpt-are-now-more-visual-and-easier-to-scan-for-everyday-questio
@@ -62,24 +64,24 @@ record:
     score: 50
     theme: context-window
   theme_resolution: manual-backfill-review-v1
-  title: Responses in ChatGPT are now more visual and easier to scan
+  title: More visual responses
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-29-improved-terminal-rendering-performance-with-optimized-screen-data-layout|Improved
-  terminal rendering performance with optimized screen data layout]]'
-- '[[Changes/Claude Code/2026-01-29-added-customizable-spinner-verbs-setting-spinnerverbs|Added
-  customizable spinner verbs setting (spinnerVerbs)]]'
-- '[[Changes/Claude Code/2026-01-29-changed-merged-pull-requests-to-show-a-purple-status-indicator-in-the-prompt-foo|Changed
-  merged pull requests to show a purple status indicator in the prompt footer]]'
+- '[[Changes/Claude Code/2026-01-27-2-interface-experience-changes-in-v2-1-20|2 Interface
+  Experience changes in v2.1.20]]'
+- '[[Changes/Claude Code/2026-01-28-improved-read-search-progress-indicators-to-show-reading-while-in-progress-and-r|Improved
+  read/search progress indicators to show "Reading…" while in progress…]]'
+- '[[Changes/Claude Code/2026-01-29-3-interface-experience-changes-in-v2-1-23|3 Interface
+  Experience changes in v2.1.23]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-30-more-visual-responses-d2d2073c|chatgpt-2026-01-30-more-visual-responses-d2d2073c]]'
 source_type: chatgpt_changelog
 theme: interface-experience
-title: Responses in ChatGPT are now more visual and easier to scan
+title: More visual responses
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Responses in ChatGPT are now more visual and easier to scan
+# More visual responses
 
 **ChatGPT** · 2026-01-30 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-01-30-more-visual-responses-d2d2073c|More visual responses]]
 <!-- chronolog:end -->
@@ -97,8 +99,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-29 · Claude Code · [[Changes/Claude Code/2026-01-29-changed-merged-pull-requests-to-show-a-purple-status-indicator-in-the-prompt-foo|Changed merged pull requests to show a purple status indicator in the prompt footer]]
-- Later: 2026-02-06 · Claude Code · [[Changes/Claude Code/2026-02-06-improved-error-messages-for-api-connection-failures-now-shows-specific-cause-e-g|Improved error messages for API connection failures]]
+- Earlier: 2026-01-29 · Claude Code · [[Changes/Claude Code/2026-01-29-3-interface-experience-changes-in-v2-1-23|3 Interface Experience changes in v2.1.23]]
+- Later: 2026-02-05 · Claude Code · [[Changes/Claude Code/2026-02-05-vscode-added-spinner-when-loading-past-conversations-list|VSCode: Added spinner when loading past conversations list]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

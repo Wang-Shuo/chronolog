@@ -14,9 +14,10 @@ diffusion:
   theme: accessibility-localization
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: e11ee0f4a1425bdd26340f443f889a1b4acb738d52da2e430e1e575972e0d213
+kind: change
+machine_hash: a1b3a5d5ca7f2dc42b49f4da3fc78b334632bdf374d3333a12833a062d817bdb
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
   - quote: Added support for full-width (zenkaku) space input from Japanese IME in
       checkbox selection
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.31
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-support-for-full-width-zenkaku-space-input-from-japanese-ime-in-checkbox-s
@@ -71,6 +73,7 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-02-04-improved-pdf-and-request-size-error-messages-to-show-actual-limits-100-pages-20m|Improved PDF and request size error messages to show actual limits (100 pages, 20MB)]] · Files and Data
+- [[Changes/Claude Code/2026-02-04-removed-misleading-anthropic-api-pricing-from-model-selector-for-third-party-pro|Removed misleading Anthropic API pricing from model selector for third-party…]] · Pricing Model
 - [[Changes/Claude Code/2026-02-04-improved-system-prompts-to-more-clearly-guide-the-model-toward-using-dedicated-t|Improved system prompts to more clearly guide the model toward using dedicated tools…]] · Model Support
 - [[Changes/Claude Code/2026-02-04-added-session-resume-hint-on-exit-showing-how-to-continue-your-conversation-late|Added session resume hint on exit, showing how to continue your conversation later]] · Projects and Workspaces
 - [[Changes/Claude Code/2026-02-04-reduced-layout-jitter-in-the-terminal-when-the-spinner-appears-and-disappears-du|Reduced layout jitter in the terminal when the spinner appears and disappears during…]] · Developer Workflow

@@ -14,9 +14,10 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: ff055a3505de25b0a64274ae9c7ce08d861a32da09a2e415bd1538de4da5c58a
+kind: change
+machine_hash: daf0059a80cd67c2bf7ec22642b70ed7b50537d6f89097ddcb402ec1b4d9ad39
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added `-n` / `--name <name>` CLI flag to set a display name for the session
       at startup
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.76
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-n-name-name-cli-flag-to-set-a-display-name-for-the-session-at-startup
@@ -71,17 +73,22 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-03-14-added-new-elicitation-and-elicitationresult-hooks-to-intercept-and-override-resp|Added new Elicitation and ElicitationResult hooks to intercept and override…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-03-14-added-session-quality-survey-enterprise-admins-can-configure-the-sample-rate-via|Added session quality survey]] · Enterprise and Administration
+- [[Changes/Claude Code/2026-03-14-added-effort-slash-command-to-set-model-effort-level|Added /effort slash command to set model effort level]] · Model Support
+- [[Changes/Claude Code/2026-03-14-3-safety-and-privacy-changes-in-v2-1-76|3 Safety and Privacy changes in v2.1.76]] · Safety and Privacy
 - [[Changes/Claude Code/2026-03-14-added-postcompact-hook-that-fires-after-compaction-completes|Added PostCompact hook that fires after compaction completes]] · Context Window
-- [[Changes/Claude Code/2026-03-14-added-mcp-elicitation-support-mcp-servers-can-now-request-structured-input-mid-t|Added MCP elicitation support]] · Apps and Integrations
-- [[Changes/Claude Code/2026-03-14-added-worktree-sparsepaths-setting-for-claude-worktree-in-large-monorepos-to-che|Added worktree.sparsePaths setting for claude --worktree in large monorepos…]] · Developer Workflow
+- [[Changes/Claude Code/2026-03-14-improved-voice-to-show-your-dictation-language-on-enable-and-warn-when-your-lang|Improved /voice to show your dictation language on enable and warn…]] · Voice and Audio
+- [[Changes/Claude Code/2026-03-14-4-developer-workflow-changes-in-v2-1-76|4 Developer Workflow changes in v2.1.76]] · Developer Workflow
+- [[Changes/Claude Code/2026-03-14-improved-background-agent-behavior-killing-a-background-agent-now-preserves-its|Improved background agent behavior]] · Agent Mode
+- [[Changes/Claude Code/2026-03-14-improved-model-fallback-notifications-now-always-visible-instead-of-hidden-behin|Improved model fallback notifications]] · Model Support
+- [[Changes/Claude Code/2026-03-14-4-apps-and-integrations-changes-in-v2-1-76|4 Apps and Integrations changes in v2.1.76]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
 - Earlier: 2026-03-06 · Claude Code · [[Changes/Claude Code/2026-03-06-improved-rename-to-work-while-claude-is-processing-instead-of-being-silently-que|Improved /rename to work while Claude is processing, instead of being silently queued]]
-- Later: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-added-claude-project-purge-path-to-delete-all-claude-code-state-for-a-project-tr|- Added claude project purge path to delete all Claude Code state for a project…]]
+- Later: 2026-04-07 · Claude Code · [[Changes/Claude Code/2026-04-07-improved-resume-to-resume-sessions-from-other-worktrees-of-the-same-repo-directl|Improved --resume to resume sessions from other worktrees of the same repo…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

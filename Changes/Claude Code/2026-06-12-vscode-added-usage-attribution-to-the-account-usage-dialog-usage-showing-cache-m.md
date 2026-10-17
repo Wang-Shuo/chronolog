@@ -4,8 +4,8 @@ date: '2026-06-12'
 description: 'Claude Code · 2026-06-12 · Context Window: [VSCode] Added usage attribution
   to the Account & usage dialog (`/usage`) showing cache misses, long context…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
-    prompt length for project generation]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1135
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: 33b173268f5f9c29982d0ff325894428763de779b30a6006a28c986c2d11da3e
+kind: change
+machine_hash: 43fc0471cb31c4796d48e968c00f7d6099231fb2cb25f0228512990575490d1b
 product: claude-code
 product_name: Claude Code
 record:
@@ -33,8 +34,9 @@ record:
       showing cache misses, long context, subagents, and per-skill/agent/plugin/MCP
       breakdowns over the last 24h or 7d'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.174
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: vscode-added-usage-attribution-to-the-account-usage-dialog-usage-showing-cache-m
@@ -62,10 +64,10 @@ record:
     showing…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-this-release-introduces-design-mode-for-faster-canvas-editing-new-ways-to-unders|Cursor
-  introduces Design Mode for faster canvas editing, new ways to understand…]]'
-- '[[Changes/Cursor/2026-06-04-the-context-explorer-breaks-down-where-tokens-go-across-the-system-prompt-tool-d|The
-  context explorer breaks down where tokens go across the system prompt, tool…]]'
+- '[[Changes/Cursor/2026-06-04-context-usage-report-in-canvas-d08e2a|Context usage
+  report in canvas]]'
+- '[[Changes/Claude Code/2026-06-08-the-claude-md-is-too-long-warning-threshold-now-scales-with-the-model-s-context|The
+  "CLAUDE.md is too long" warning threshold now scales with the model''s context window]]'
 - '[[Changes/Claude Code/2026-06-08-added-cd-command-to-move-a-session-to-a-new-working-directory-without-breaking-t|Added
   /cd command to move a session to a new working directory without breaking…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-12-v2-1-174-github-338280944-f2fd4f4d|claude-code-2026-06-12-v2-1-174-github-338280944-f2fd4f4d]]'
@@ -97,13 +99,13 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-added-cd-command-to-move-a-session-to-a-new-working-directory-without-breaking-t|Added /cd command to move a session to a new working directory without breaking…]]
-- Later: 2026-06-22 · ChatGPT · [[Changes/ChatGPT/2026-06-22-starting-today-for-chatgpt-free-and-go-users-long-pastes-are-handled-differently|Starting today for ChatGPT Free and Go users, long pastes are handled differently…]]
+- Later: 2026-06-22 · ChatGPT · [[Changes/ChatGPT/2026-06-22-starting-today-for-chatgpt-free-and-go-users-long-pastes-are-handled-differently|Large pastes are now handled as attachments for more plans]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

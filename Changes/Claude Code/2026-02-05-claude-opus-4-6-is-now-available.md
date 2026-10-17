@@ -13,9 +13,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: c7274eafd922cd679e898a7953c895475582310ced9fc8c73bcd1114184969c9
+kind: launch
+machine_hash: bd0410918046c8e90da5ef0d3a205bcb5d81a8479cfa56a335b5aa86cc037623
 product: claude-code
 product_name: Claude Code
 record:
@@ -26,8 +27,9 @@ record:
   evidence:
   - quote: Claude Opus 4.6 is now available!
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.32
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: claude-code
   product_name: Claude Code
   slug: claude-opus-4-6-is-now-available
@@ -39,8 +41,8 @@ record:
   title: Claude Opus 4.6 is now available!
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta|On
-  February 13, 2026, alongside the previously announced retirement of GPT‑5…]]'
+- '[[Changes/Claude Code/2026-02-03-changed-model-to-execute-immediately-instead-of-being-queued|Changed
+  /model to execute immediately instead of being queued]]'
 - '[[Changes/ChatGPT/2026-02-04-jan-10-2026-we-lowered-the-standard-and-light-thinking-time-as-we-observed-users-e93d5a|Jan
   10, 2026: We lowered the Standard and Light thinking time as we observed users…]]'
 - '[[Changes/Claude Code/2026-02-04-improved-system-prompts-to-more-clearly-guide-the-model-toward-using-dedicated-t|Improved
@@ -55,7 +57,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Claude Opus 4.6 is now available!
 
-**Claude Code** · 2026-02-05 · [[Themes/model-support|Model Support]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.32) · from [[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|v2.1.32]]
+**Claude Code** · 2026-02-05 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.32) · from [[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|v2.1.32]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -68,8 +70,10 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-02-05-added-research-preview-agent-teams-feature-for-multi-agent-collaboration-token-i|Added research preview agent teams feature for multi-agent collaboration…]] · Collaboration
+- [[Changes/Claude Code/2026-02-05-2-context-window-changes-in-v2-1-32|2 Context Window changes in v2.1.32]] · Context Window
 - [[Changes/Claude Code/2026-02-05-skills-defined-in-claude-skills-within-additional-directories-add-dir-are-now-lo|Skills defined in .claude/skills/ within additional directories (--add-dir)…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-02-05-added-summarize-from-here-to-the-message-selector-allowing-partial-conversation|Added "Summarize from here" to the message selector, allowing partial conversation…]] · Context Window
+- [[Changes/Claude Code/2026-02-05-vscode-added-spinner-when-loading-past-conversations-list|VSCode: Added spinner when loading past conversations list]] · Interface Experience
+- [[Changes/Claude Code/2026-02-05-updated-resume-to-re-use-agent-value-specified-in-previous-conversation-by-defau|Updated --resume to re-use --agent value specified in previous conversation by default]] · Agent Mode
 - [[Changes/Claude Code/2026-02-05-claude-now-automatically-records-and-recalls-memories-as-it-works|Claude now automatically records and recalls memories as it works]] · Memory and Personalization
 <!-- chronolog:end -->
 

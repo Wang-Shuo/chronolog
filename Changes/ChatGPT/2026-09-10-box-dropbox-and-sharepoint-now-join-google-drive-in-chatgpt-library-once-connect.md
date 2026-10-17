@@ -14,9 +14,10 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 7fbed208b4da0d2afe00a0913b342cc9dd034ed2cb90bfc3b0ec389a9af8e42a
+kind: change
+machine_hash: eea5e8dbe1c76f2fb19c1c81f25b2a9cf2645993b52f66821a3d834b922ad165
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,8 +48,9 @@ record:
       across the files it contains. Your content stays connected to their original
       source, so it’s easy to return to the original.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: box-dropbox-and-sharepoint-now-join-google-drive-in-chatgpt-library-once-connect
@@ -58,12 +60,12 @@ record:
   title: Box, Dropbox, and SharePoint now join Google Drive in ChatGPT Library
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-17-added-a-session-wide-limit-on-websearch-tool-calls-default-200-tunable-via-claud|Added
-  a session-wide limit on WebSearch tool calls…]]'
-- '[[Changes/ChatGPT/2026-08-13-if-you-have-the-google-drive-plugin-connected-you-can-now-see-and-browse-your-go|If
+- '[[Changes/ChatGPT/2026-08-13-if-you-have-the-google-drive-plugin-connected-you-can-now-see-and-browse-your-go-97f18f|If
   you have the Google Drive plugin connected, you can now see and browse…]]'
-- '[[Changes/Cursor/2026-08-17-origin-begins-rolling-out-today-in-early-beta-on-all-paid-plans-we-re-starting-w|Origin
-  begins rolling out today in early beta on all paid plans]]'
+- '[[Changes/Cursor/2026-08-17-cursor-can-now-host-your-code|Cursor can now host your
+  code]]'
+- '[[Changes/Claude Code/2026-09-01-changed-btw-history-browsing-from-to-shift-shift-or-stepping-through-your-recent|Changed
+  /btw history browsing from ←/→ to Shift+←/Shift+→ (or /)…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-10-box-dropbox-and-sharepoint-are-now-in-library-e089c018|chatgpt-2026-09-10-box-dropbox-and-sharepoint-are-now-in-library-e089c018]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -92,7 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-08-17 · Cursor · [[Changes/Cursor/2026-08-17-origin-begins-rolling-out-today-in-early-beta-on-all-paid-plans-we-re-starting-w|Origin begins rolling out today in early beta on all paid plans]]
+- Earlier: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-changed-btw-history-browsing-from-to-shift-shift-or-stepping-through-your-recent|Changed /btw history browsing from ←/→ to Shift+←/Shift+→ (or /)…]]
+- Later: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-improved-deep-research-reliability-on-long-research-briefs-by-removing-unused-re|Improved /deep-research reliability on long research briefs by removing unused…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

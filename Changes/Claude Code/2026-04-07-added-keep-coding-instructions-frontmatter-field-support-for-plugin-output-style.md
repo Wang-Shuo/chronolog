@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 4aa9e7de68c9ef763539a1453acbc83bc462384bb2e4d92f09c8cfcd5b13c51f
+machine_hash: 93840f29b0f44b76a423cc5f972d99fa5a55e770f43613b92d03dd4c7fd2ea58
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   compact Slacked ♯channel header with a clickable channel link for Slack MCP…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-07-v2-1-94-github-306300914-5622fba4|claude-code-2026-04-07-v2-1-94-github-306300914-5622fba4]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added keep-coding-instructions frontmatter field support for plugin output
   styles

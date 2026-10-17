@@ -4,8 +4,8 @@ date: '2026-07-09'
 description: 'ChatGPT · 2026-07-09 · Apps and Integrations: Enterprise and Edu users
   can find skills under Plugins in the sidebar, on the Skills tab in the Plugin Directory.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1204
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 2445235b7795488f82c1ab419034447e2c6796bd6ff221e04589aab406828416
+kind: launch
+machine_hash: 60f4ca45701a69b0b8ff8dcbf4c156f4da17a6d16ca2c1cbb78ee6636c563873
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Enterprise and Edu users can find skills under Plugins in the sidebar,
       on the Skills tab in the Plugin Directory.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: chatgpt
   product_name: ChatGPT
   slug: enterprise-and-edu-users-can-find-skills-under-plugins-in-the-sidebar-on-the-ski
@@ -56,28 +58,26 @@ record:
     - sidebar
     score: 50
     theme: interface-experience
-  title: Enterprise and Edu users can find skills under Plugins in the sidebar, on
-    the Skills…
+  title: Skills are now generally available
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-06-improved-mcp-error-messages-clearer-error-when-a-server-config-has-url-but-no-ty|Improved
-  MCP error messages]]'
-- '[[Changes/Claude Code/2026-07-07-added-the-session-s-additional-working-directories-to-mcp-roots-list-with-notifi|Added
-  the session''s additional working directories to MCP roots/list…]]'
+- '[[Changes/Claude Code/2026-07-07-2-apps-and-integrations-changes-in-v2-1-203|2
+  Apps and Integrations changes in v2.1.203]]'
+- '[[Changes/Claude Code/2026-07-08-reserved-the-claude-browser-mcp-server-name-alongside-claude-preview-ahead-of-th|Reserved
+  the "Claude Browser" MCP server name (alongside "Claude Preview") ahead…]]'
 - '[[Changes/ChatGPT/2026-07-09-we-re-also-replacing-the-app-directory-with-the-plugin-directory-existing-app-co|We’re
   also replacing the App Directory with the Plugin Directory]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-skills-are-now-generally-available-24f58f9d|chatgpt-2026-07-09-skills-are-now-generally-available-24f58f9d]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: Enterprise and Edu users can find skills under Plugins in the sidebar, on the
-  Skills…
+title: Skills are now generally available
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Enterprise and Edu users can find skills under Plugins in the sidebar, on the Skills…
+# Skills are now generally available
 
-**ChatGPT** · 2026-07-09 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-09-skills-are-now-generally-available-24f58f9d|Skills are now generally available]]
+**ChatGPT** · 2026-07-09 · [[Themes/apps-integrations|Apps and Integrations]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-09-skills-are-now-generally-available-24f58f9d|Skills are now generally available]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -94,13 +94,13 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-we-re-also-replacing-the-app-directory-with-the-plugin-directory-existing-app-co|We’re also replacing the App Directory with the Plugin Directory]]
-- Later: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-hardened-synced-skill-plugin-directory-naming-on-windows-and-kept-ccr-web-fetch|Hardened synced skill/plugin directory naming on Windows and kept CCR web…]]
+- Later: 2026-07-11 · Claude Code · [[Changes/Claude Code/2026-07-11-2-apps-and-integrations-changes-in-v2-1-207|2 Apps and Integrations changes in v2.1.207]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

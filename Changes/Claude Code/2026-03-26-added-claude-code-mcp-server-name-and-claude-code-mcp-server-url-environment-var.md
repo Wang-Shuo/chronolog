@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 05a6ca58b1876f452f23b2adc7011ebb26954d64f4103e2e36d883cc7a61471a
+machine_hash: 345d2e231271114991478c077f05f82258090168b74ac73c73b9bb4891f1ca16
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   CwdChanged and FileChanged hook events for reactive environment management…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7|claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added CLAUDE_CODE_MCP_SERVER_NAME and CLAUDE_CODE_MCP_SERVER_URL environment…
 type: change

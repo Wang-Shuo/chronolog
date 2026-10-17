@@ -15,9 +15,10 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: c660114a6c593b4c3e21f4388c54333a5e4922ce7b689463fd93641c41fb4881
+kind: change
+machine_hash: e8adfde8a8020d358cf75a2ae06b207b3f7dbf71166aca957305f2a0ab60870b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,8 +44,9 @@ record:
       also upload or create a resume in ChatGPT, tailor it to a specific role, and
       download it in a polished, professional format.Availability:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: chatgpt-can-now-help-with-more-of-the-job-search-process-from-finding-relevant-l
@@ -53,26 +55,24 @@ record:
   theme: search-browsing
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: ChatGPT can now help with more of the job search process, from finding relevant
-    live…
+  title: Find live jobs and format your resume in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|ChatGPT
-  improves shopping to make it easier to discover, compare, and decide on products]]'
-- '[[Changes/ChatGPT/2026-04-08-the-outlook-email-and-calendar-apps-for-chatgpt-can-now-help-with-delegated-or-s|The
-  Outlook Email and Calendar apps for ChatGPT can now help with delegated…]]'
+- '[[Changes/Cursor/2026-04-02-past-chat-transcripts-are-now-surfaced-directly-in-at-mention-search-results|Past
+  chat transcripts are now surfaced directly in at-mention search results]]'
+- '[[Changes/ChatGPT/2026-04-08-the-outlook-email-and-calendar-apps-for-chatgpt-can-now-help-with-delegated-or-s|Outlook
+  shared mailboxes and calendars in ChatGPT]]'
 - '[[Changes/Claude Code/2026-05-19-the-plugin-browse-and-discover-panes-now-show-when-a-plugin-was-last-updated|The
   /plugin browse and discover panes now show when a plugin was last updated]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-01-find-live-jobs-and-format-your-resume-in-chatgpt-69ee518e|chatgpt-2026-06-01-find-live-jobs-and-format-your-resume-in-chatgpt-69ee518e]]'
 source_type: chatgpt_changelog
 theme: search-browsing
-title: ChatGPT can now help with more of the job search process, from finding relevant
-  live…
+title: Find live jobs and format your resume in ChatGPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT can now help with more of the job search process, from finding relevant live…
+# Find live jobs and format your resume in ChatGPT
 
 **ChatGPT** · 2026-06-01 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-01-find-live-jobs-and-format-your-resume-in-chatgpt-69ee518e|Find live jobs and format your resume in ChatGPT]]
 <!-- chronolog:end -->
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-the-plugin-browse-and-discover-panes-now-show-when-a-plugin-was-last-updated|The /plugin browse and discover panes now show when a plugin was last updated]]
-- Later: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-added-a-session-wide-limit-on-websearch-tool-calls-default-200-tunable-via-claud|Added a session-wide limit on WebSearch tool calls…]]
+- Later: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-3-search-and-browsing-changes-in-v2-1-212|3 Search and Browsing changes in v2.1.212]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

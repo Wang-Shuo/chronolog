@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f8c715837e4ddb734f28286e1046501d06fd7c3102b663cc15530a4badf5155c
+machine_hash: 88906a641d5a58afa5f5bd9859af0757da6019ed7831e8ffcdd6386ce1658460
 product: cursor
 product_name: Cursor
 record:
@@ -50,6 +50,7 @@ related_changes:
   Remote Control in the Agents Window to take an agent you''re running…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-29-3-9-https-cursor-com-changelog-ios-mobile-app-d7278607|cursor-2026-06-29-3-9-https-cursor-com-changelog-ios-mobile-app-d7278607]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Cloud agents run in isolated virtual machines with full development environments…
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: da12a07e84d0cdcca2ccc1e85b4e614df273848e223d3bf9c868ae4d1f321672
+machine_hash: d3d4ca714cb469f35658a7d4ef1ab7ed22b632d3c801e785f172f19332571121
 product: cursor
 product_name: Cursor
 record:
@@ -53,6 +53,7 @@ related_changes:
   agents: the agent field in settings.json is now honored for dispatched…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-29-3-6-https-cursor-com-changelog-auto-review-c5d7c919|cursor-2026-05-29-3-6-https-cursor-com-changelog-auto-review-c5d7c919]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Auto-review is a new run mode that allows Cursor to work for longer with fewer…
 type: change

@@ -4,8 +4,8 @@ date: '2025-07-29'
 description: 'Cursor · 2025-07-29 · Agent Mode: Agents can now use your native terminal.
   A new terminal will be created when needed and runs in the background if one isn''t…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 754
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: 274230c58cfa313be6e5b847100c77da0336012a73f0d81f39265df7cb97ad6d
+kind: launch
+machine_hash: f7d610a1db2a43bff6d369402ea75023da8daa4f7bc2319c1aa277417c1f282f
 product: cursor
 product_name: Cursor
 record:
@@ -34,11 +35,12 @@ record:
       when needed and runs in the background if one isn't already open. Click Focus
       to bring it up front where you can see Agent commands and also take over.
     source_release: https://cursor.com/changelog/1-3
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: agents-can-now-use-your-native-terminal-a-new-terminal-will-be-created-when-need
+  slug: share-terminal-with-agent
   source_release: cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3
   source_type: cursor_changelog
   theme: agent-mode
@@ -52,26 +54,25 @@ record:
     - terminal
     score: 50
     theme: developer-workflow
-  title: Agents can now use your native terminal
+  title: Share terminal with Agent
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-03-agents-now-plan-ahead-with-structured-to-do-lists-making-long-horizon-tasks-easi|Agents
-  now plan ahead with structured to-do lists, making long-horizon tasks easier…]]'
-- '[[Changes/Cursor/2025-07-03-you-can-now-queue-follow-up-messages-for-agent-once-it-s-done-with-current-task|Queue
-  follow-up messages for Agent once it''s done with current task]]'
-- '[[Changes/Cursor/2025-07-03-the-agent-breaks-down-longer-tasks-with-dependencies-visible-to-you-in-chat-and|The
-  agent breaks down longer tasks with dependencies, visible to you in chat…]]'
+- '[[Changes/Cursor/2025-07-03-you-can-now-queue-follow-up-messages-for-agent-once-it-s-done-with-current-task|Queued
+  messages]]'
+- '[[Changes/Cursor/2025-07-03-2-agent-mode-changes-in-1-2|2 Agent Mode changes in
+  1.2]]'
+- '[[Changes/Cursor/2025-07-03-background-agent-improvements|Background Agent improvements]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Agents can now use your native terminal
+title: Share terminal with Agent
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Agents can now use your native terminal
+# Share terminal with Agent
 
-**Cursor** · 2025-07-29 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/1-3) · from [[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|Shared terminal with Agent, context usage in chat, and faster edits]]
+**Cursor** · 2025-07-29 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://cursor.com/changelog/1-3) · from [[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|Shared terminal with Agent, context usage in chat, and faster edits]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -83,22 +84,28 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2025-07-29-agent-edits-are-now-faster-by-lazy-loading-linter-errors-search-replace-edit-lat|Agent edits are now faster by lazy loading linter errors]] · Reliability and Performance
-- [[Changes/Cursor/2025-07-29-at-the-end-of-a-conversation-you-can-now-see-how-much-of-the-context-window-is-u|At the end of a conversation you can now see how much of the context window is used]] · Context Window
+- [[Changes/Cursor/2025-07-29-agent-edits-are-now-faster-by-lazy-loading-linter-errors-search-replace-edit-lat|Faster edits]] · Reliability and Performance
+- [[Changes/Cursor/2025-07-29-2-agent-mode-changes-in-1-3|2 Agent Mode changes in 1.3]] · Agent Mode
+- [[Changes/Cursor/2025-07-29-at-the-end-of-a-conversation-you-can-now-see-how-much-of-the-context-window-is-u|View context usage in Chat]] · Context Window
 - [[Changes/Cursor/2025-07-29-active-tab-in-chat|Active Tab in Chat]] · Editor Experience
+- [[Changes/Cursor/2025-07-29-extension-marketplace-supports-custom-urls|Extension marketplace supports custom URLs]] · Apps and Integrations
+- [[Changes/Cursor/2025-07-29-2-safety-and-privacy-changes-in-1-3|2 Safety and Privacy changes in 1.3]] · Safety and Privacy
+- [[Changes/Cursor/2025-07-29-2-reliability-and-performance-changes-in-1-3|2 Reliability and Performance changes in 1.3]] · Reliability and Performance
+- [[Changes/Cursor/2025-07-29-2-developer-workflow-changes-in-1-3|2 Developer Workflow changes in 1.3]] · Developer Workflow
+- [[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow team admins to configure an extension allowlist]] · Collaboration
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-the-agent-breaks-down-longer-tasks-with-dependencies-visible-to-you-in-chat-and|The agent breaks down longer tasks with dependencies, visible to you in chat…]]
-- Later: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-sending-messages-while-cursor-is-working-now-does-a-better-job-of-steering-the-a|Sending messages while Cursor is working now does a better job of steering the agent]]
+- Earlier: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-background-agent-improvements|Background Agent improvements]]
+- Later: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-improved-agent-tools-488891|Improved Agent tools]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,8 +4,8 @@ date: '2026-02-28'
 description: 'Claude Code · 2026-02-28 · Apps and Integrations: Added `ENABLE_CLAUDEAI_MCP_SERVERS=false`
   env var to opt out from making claude.ai MCP servers available'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1073
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 434dd26d7549bbd8facdb0f324c6a1981cfd2f936819b7eda451bcc5b6e150db
+kind: change
+machine_hash: e5ac984364f01ce1e4d52acdf480721579001e909e7bf10c99954cb960497e1e
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added `ENABLE_CLAUDEAI_MCP_SERVERS=false` env var to opt out from making
       claude.ai MCP servers available
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.63
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-enable-claudeai-mcp-servers-false-env-var-to-opt-out-from-making-claude-ai
@@ -41,8 +43,8 @@ record:
     claude.ai…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-24-updated-plugin-marketplace-default-git-timeout-from-30s-to-120s-and-added-claude|Updated
-  plugin marketplace default git timeout from 30s to 120s and added…]]'
+- '[[Changes/Claude Code/2026-02-24-4-apps-and-integrations-changes-in-v2-1-51|4 Apps
+  and Integrations changes in v2.1.51]]'
 - '[[Changes/ChatGPT/2026-02-25-sources-from-apps-paste-a-link-to-a-slack-channel-or-google-drive-file-or-folder|Sources
   from apps]]'
 - '[[Changes/Claude Code/2026-02-25-expand-remote-control-to-more-users|Expand Remote
@@ -69,9 +71,13 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-02-28-fixed-listener-leak-in-interactive-permission-handler-during-auto-approvals|Fixed listener leak in interactive permission handler during auto-approvals]] · Safety and Privacy
+- [[Changes/Claude Code/2026-02-28-added-manual-url-paste-fallback-during-mcp-oauth-authentication-if-the-automatic|Added manual URL paste fallback during MCP OAuth authentication]] · Account and Access
 - [[Changes/Claude Code/2026-02-28-project-configs-auto-memory-now-shared-across-git-worktrees-of-the-same-reposito|Project configs & auto memory now shared across git worktrees of the same repository]] · Memory and Personalization
 - [[Changes/Claude Code/2026-02-28-improved-model-command-to-show-the-currently-active-model-in-the-slash-command-m|Improved /model command to show the currently active model in the slash command menu]] · Developer Workflow
+- [[Changes/Claude Code/2026-02-28-added-always-copy-full-response-option-to-the-copy-picker-when-selected-future-c|Added "Always copy full response" option to the /copy picker]] · Interface Experience
 - [[Changes/Claude Code/2026-02-28-added-http-hooks-which-can-post-json-to-a-url-and-receive-json-instead-of-runnin|Added HTTP hooks, which can POST JSON to a URL and receive JSON instead of running…]] · Agent Mode
+- [[Changes/Claude Code/2026-02-28-improved-memory-usage-in-long-sessions-with-subagents-by-stripping-heavy-progres|Improved memory usage in long sessions with subagents by stripping heavy progress…]] · Reliability and Performance
 - [[Changes/Claude Code/2026-02-28-added-simplify-and-batch-bundled-slash-commands|Added /simplify and /batch bundled slash commands]] · Developer Workflow
 <!-- chronolog:end -->
 
@@ -79,13 +85,13 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-02-25 · Claude Code · [[Changes/Claude Code/2026-02-25-expand-remote-control-to-more-users|Expand Remote Control to more users]]
-- Later: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-mcp-apps-support-interactive-user-interfaces-like-charts-from-amplitude-diagrams|MCP Apps support interactive user interfaces like charts from Amplitude, diagrams…]]
+- Later: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-3-apps-and-integrations-changes-in-2-6|3 Apps and Integrations changes in 2.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

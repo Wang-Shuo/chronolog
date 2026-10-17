@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c2077c71142417bd01e7901561b8d6f3093903f89edbfb66602806ace464a7bc
+machine_hash: 62436e4713bed354997278c02b22754e89e863613cae0ac716f29a4babd4e44c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,6 +47,7 @@ related_changes:
   shortcut: You can now paste content into ChatGPT and instantly open…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-10-canvas-a457e8f0|chatgpt-2024-12-10-canvas-a457e8f0]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: file-data
 title: 'Canvas in Toolbox: Canvas has been added as an option in the toolbox'
 type: change

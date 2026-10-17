@@ -1,9 +1,9 @@
 ---
-changes_count: 2
+changes_count: 1
 date: '2025-02-06'
-description: 'ChatGPT release Canvas sharing on 2025-02-06: 2 tracked changes across
+description: 'ChatGPT release Canvas sharing on 2025-02-06: 1 tracked change across
   Files and Data'
-machine_hash: acbdd794fe863cc4058eb5baa9404bb0e4e1662574b6c0e9bde1bc1d953fac7f
+machine_hash: 42e08051501dda424f24e69978c3ef9a4bcf6a2faf072401bcbd6c028a5531d8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,11 +40,10 @@ version: Canvas sharing
 <!-- chronolog:begin region="summary" -->
 Users can now share a Canvas asset such as rendered React/HTML code, document, or code with another user, similar to how you share a conversation. You can do this from the Canvas toolbar when Canvas is open.
 
-Tracked 2 of 2 candidate lines.
+Tracked 1 card from 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or|Users can now share a Canvas asset such as rendered React/HTML code, document…]] · Files and Data
-- [[Changes/ChatGPT/2025-02-06-for-more-details-about-the-canvas-feature-in-chatgpt-check-out-the-following-hel|For more details about the canvas feature in ChatGPT, check out the following Help…]] · Files and Data
+- [[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or-2f5aff|Canvas sharing]] · Files and Data
 <!-- chronolog:end -->

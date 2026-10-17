@@ -1,9 +1,9 @@
 ---
-changes_count: 2
+changes_count: 1
 date: '2026-09-03'
 description: 'ChatGPT release Zendesk & OneNote Plugins in ChatGPT and Codex Beta
-  on 2026-09-03: 2 tracked changes across Apps and Integrations'
-machine_hash: d91d526730511120707e92f2ce88c970b54c9974e0368e17b598a721a98e8595
+  on 2026-09-03: 1 tracked change across Apps and Integrations'
+machine_hash: 4243000099fb20e5d1d07746b2f26dda84ff45c6a5efa93c9267aadcc5e07665
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,11 +41,10 @@ version: Zendesk & OneNote Plugins in ChatGPT and Codex [Beta]
 <!-- chronolog:begin region="summary" -->
 Today, we added the Zendesk and OneNote plugins in the Plugin directory. The Zendesk plugin helps teams review support tickets and customer history, find relevant knowledge, and prepare replies in ChatGPT and Codex. Members connect their own Zendesk accounts to work with the support information they can access.
 
-Tracked 2 of 3 candidate lines.
+Tracked 1 card from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-09-03-the-onenote-plugin-helps-you-find-and-summarize-notes-gather-decisions-and-actio|The OneNote plugin helps you find and summarize notes, gather decisions and action…]] · Apps and Integrations
-- [[Changes/ChatGPT/2026-09-03-today-we-added-the-zendesk-and-onenote-plugins-in-the-plugin-directory-the-zende|Today, we added the Zendesk and OneNote plugins in the Plugin directory]] · Apps and Integrations
+- [[Changes/ChatGPT/2026-09-03-today-we-added-the-zendesk-and-onenote-plugins-in-the-plugin-directory-the-zende-012cbd|Zendesk & OneNote Plugins in ChatGPT and Codex Beta]] · Apps and Integrations
 <!-- chronolog:end -->

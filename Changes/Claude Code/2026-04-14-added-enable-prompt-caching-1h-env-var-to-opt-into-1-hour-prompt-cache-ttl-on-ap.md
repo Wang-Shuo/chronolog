@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 207bf3eb8dd890437988a068b4d25dd3935c2d08578621a87045fe827bdc2573
+machine_hash: 42c9fcbe1b86ddb9256af06d1a8358879cd5264a4871c39986b38ef8d3a1eada
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,6 +55,7 @@ related_changes:
   --exclude-dynamic-system-prompt-sections flag to print mode for improved…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-14-v2-1-108-github-309009167-35123bd5|claude-code-2026-04-14-v2-1-108-github-309009167-35123bd5]]'
 source_type: github_releases
+superseded: true
 theme: context-window
 title: Added ENABLE_PROMPT_CACHING_1H env var to opt into 1-hour prompt cache TTL
   on API…

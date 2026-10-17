@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 86d95b6d3650799c51aecda0026a99c1a3cf4395e89fc28c34a3977801da1ba7
+machine_hash: 4faf0575ce7deef536c281d59b21648e517ea95b59d1a8dc8cc9e8793ad7b094
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   mode now uses Opus 4.7 by default (previously Opus 4.6)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c|claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Background sessions now preserve the model and effort level you set after waking
   from idle

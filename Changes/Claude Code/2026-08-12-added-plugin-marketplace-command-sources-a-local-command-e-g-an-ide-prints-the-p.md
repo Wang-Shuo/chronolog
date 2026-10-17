@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d4d01f2065055daa216006a8d2e37796b635fa9c32e2df0f4884ff839ee9e401
+machine_hash: d01e142beaa5a9500b10cccb8173850ef4ef65f11f392b46e3026d3edaed8efc
 product: claude-code
 product_name: Claude Code
 record:
@@ -60,6 +60,7 @@ related_changes:
   skills synced from claude.ai]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-12-v2-1-229-github-369475532-b063933d|claude-code-2026-08-12-v2-1-229-github-369475532-b063933d]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added plugin marketplace command sources
 type: change

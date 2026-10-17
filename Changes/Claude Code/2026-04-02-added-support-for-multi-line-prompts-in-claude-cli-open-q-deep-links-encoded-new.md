@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: afa1683405dc9573f2b4503d1afc7ae428e9abad4ea5cb467033a99fc1b05aaf
+machine_hash: 7e3730c563914de2919f9df55c47da30c0629e3496cb25eb35c0eb588dae9674
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   CLAUDE_CODE_PLUGIN_KEEP_MARKETPLACE_ON_FAILURE env var to keep the existing…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc|claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added support for multi-line prompts in claude-cli://open?q= deep links…
 type: change

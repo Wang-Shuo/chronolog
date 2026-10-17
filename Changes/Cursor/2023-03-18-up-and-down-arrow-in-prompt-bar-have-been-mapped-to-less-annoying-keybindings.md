@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7c156664373082f8776b21ae07775b830093807a06c4abcd06ba10f5e5d58371
+machine_hash: 7330103a28e793a8cb2a1acd6841c530d8e6ed2e3aeca42e48f114985aa88746
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   chat history from the prompt bar]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-18-0-1-2-https-cursor-com-changelog-0-1-2-154cc875|cursor-2023-03-18-0-1-2-https-cursor-com-changelog-0-1-2-154cc875]]'
 source_type: cursor_changelog
+superseded: true
 theme: interface-experience
 title: Up and down arrow in prompt bar have been mapped to less annoying keybindings
 type: change

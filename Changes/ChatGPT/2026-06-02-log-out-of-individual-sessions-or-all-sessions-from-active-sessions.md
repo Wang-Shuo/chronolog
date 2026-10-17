@@ -14,9 +14,10 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 08ee93ba343532261c3bbe7a96bbb932311feb0299bc77f3f0c5ff3bf22d2df1
+kind: change
+machine_hash: d8336d31b4b8def0ea265f6e495b39ea6ae9e9f9d92813992277fad1ece74736
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Log out of individual sessions or all sessions from Active sessions
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: log-out-of-individual-sessions-or-all-sessions-from-active-sessions
@@ -41,10 +43,10 @@ record:
   title: Log out of individual sessions or all sessions from Active sessions
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-05-05-chatgpt-for-excel-and-google-sheets-is-now-available-globally-bringing-chatgpt-i|ChatGPT
-  for Excel and Google Sheets is now available globally, bringing ChatGPT…]]'
 - '[[Changes/Claude Code/2026-05-06-improved-visual-consistency-in-slash-command-dialogs-and-login-upgrade-extra-usa|Improved
   visual consistency in slash command dialogs and /login, /upgrade…]]'
+- '[[Changes/Claude Code/2026-05-13-bedrock-awscredentialexport-now-always-runs-when-configured-instead-of-being-ski|Bedrock:
+  awsCredentialExport now always runs when configured instead of being…]]'
 - '[[Changes/ChatGPT/2026-06-02-active-sessions-shows-sessions-known-through-session-management-including-chatgp|Active
   sessions shows sessions known through session management, including ChatGPT…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-02-active-account-session-controls-0830d01c|chatgpt-2026-06-02-active-account-session-controls-0830d01c]]'
@@ -70,14 +72,13 @@ type: change
 ## Also in this release
 
 - [[Changes/ChatGPT/2026-06-02-active-sessions-shows-sessions-known-through-session-management-including-chatgp|Active sessions shows sessions known through session management, including ChatGPT…]] · Account and Access
-- [[Changes/ChatGPT/2026-06-02-review-first-party-openai-sessions-from-settings-security-active-sessions-with-a|Review first-party OpenAI sessions from Settings  Security  Active sessions…]] · Safety and Privacy
-- [[Changes/ChatGPT/2026-06-02-we-re-rolling-out-active-sessions-a-new-security-feature-in-chatgpt-that-helps-u|ChatGPT rolls out Active sessions, a new security feature that helps users review…]] · Safety and Privacy
+- [[Changes/ChatGPT/2026-06-02-we-re-rolling-out-active-sessions-a-new-security-feature-in-chatgpt-that-helps-u-51e977|ChatGPT rolls out Active sessions, a new security feature that helps users review…]] · Safety and Privacy
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-improved-visual-consistency-in-slash-command-dialogs-and-login-upgrade-extra-usa|Improved visual consistency in slash command dialogs and /login, /upgrade…]]
+- Earlier: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-bedrock-awscredentialexport-now-always-runs-when-configured-instead-of-being-ski|Bedrock: awsCredentialExport now always runs when configured instead of being…]]
 - Later: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-added-a-prompt-before-writing-to-shell-startup-files-zshenv-zlogin-bash-login-an|Added a prompt before writing to shell startup files…]]
 <!-- chronolog:end -->
 

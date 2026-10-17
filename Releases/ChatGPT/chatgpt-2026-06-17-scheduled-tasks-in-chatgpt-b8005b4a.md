@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 6
 date: '2026-06-17'
-description: 'ChatGPT release Scheduled tasks in ChatGPT on 2026-06-17: 5 tracked
-  changes across Reliability and Performance, Apps and Integrations, Automation and…'
-machine_hash: 63cf69cb880048b4845785b1309d5d789e6c5ae3064bbb0eb4fa17121e957a19
+description: 'ChatGPT release Scheduled tasks in ChatGPT on 2026-06-17: 6 tracked
+  changes across Automation and Scheduling, Reliability and Performance, Apps and…'
+machine_hash: f35db4068328c304166af22fafb87a48b1726514dfed50fbc619507db49a0f17
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ version: Scheduled tasks in ChatGPT
 <!-- chronolog:begin region="summary" -->
 With scheduled tasks, users can ask ChatGPT to send reminders, handle recurring work, or monitor things for them. This update makes tasks easier to find and manage, faster and more reliable, with more useful notifications.What’s changing
 
-Tracked 5 of 11 candidate lines.
+Tracked 6 cards from 11 candidate lines; 2 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -51,4 +51,5 @@ Tracked 5 of 11 candidate lines.
 - [[Changes/ChatGPT/2026-06-17-monitoring-tasks-can-search-the-web-and-check-connected-apps-for-changes-and-not|Monitoring tasks can search the web and check connected apps for changes and notify…]] · Apps and Integrations
 - [[Changes/ChatGPT/2026-06-17-a-new-scheduled-page-discoverable-in-the-sidebar-gives-users-one-place-to-view-a|A new Scheduled page, discoverable in the sidebar, gives users one place to view…]] · Interface Experience
 - [[Changes/ChatGPT/2026-06-17-users-can-schedule-work-for-specific-times-or-broader-windows-such-as-morning-af|Users can schedule work for specific times or broader windows, such as morning…]] · Automation and Scheduling
+- [[Changes/ChatGPT/2026-06-17-update-on-pulse|Update on Pulse]] · Automation and Scheduling
 <!-- chronolog:end -->

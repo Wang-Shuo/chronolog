@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 9e6b7f461c2fe9da3a6c892bb359a9ced8ccba2724f6398a7c475382990c1607
+machine_hash: 54a57d6b9ab22ada45b0269ff4cda3e484afb7cd83aa70a6a6ee8891072999b4
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   a dir prop on a mod''s Text for right-to-left text]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added idle compaction in the terminal
 type: change

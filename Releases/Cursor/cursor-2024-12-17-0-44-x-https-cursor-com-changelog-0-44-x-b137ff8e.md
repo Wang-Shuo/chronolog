@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 4
 date: '2024-12-17'
 description: 'Cursor release Agent Improvements, Yolo Mode, Cursor Tab Update on 2024-12-17:
-  5 tracked changes across Developer Workflow, Agent Mode'
-machine_hash: 5e6e2fe30fa7c8ba405af0d4fa00fa62bdc9261d5f5717ff3fbc9709f6417c5c
+  4 tracked changes across Reliability and Performance, Developer Workflow, Editor…'
+machine_hash: 7ddacb9a288782d44f72506fa1066e240ac7494b1c8e4a1fe6fcdfcde3021abc
 product: cursor
 product_name: Cursor
 record:
@@ -39,14 +39,13 @@ version: 0.44.x
 <!-- chronolog:begin region="summary" -->
 Agent sees terminal exit codes, can run commands in the background, and commands are now editable
 
-Tracked 5 of 18 candidate lines.
+Tracked 4 cards from 18 candidate lines; 1 line pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2024-12-17-agent-reads-linter-errors-to-automatically-fix-issues|Agent reads linter errors to automatically fix issues]] · Developer Workflow
-- [[Changes/Cursor/2024-12-17-with-yolo-mode-the-agent-can-auto-run-terminal-commands|With Yolo Mode, the agent can auto-run terminal commands]] · Developer Workflow
-- [[Changes/Cursor/2024-12-17-agent-auto-saves-changes-to-disk|Agent auto-saves changes to disk]] · Agent Mode
-- [[Changes/Cursor/2024-12-17-agent-sees-terminal-exit-codes-can-run-commands-in-the-background-and-commands-a|Agent sees terminal exit codes, can run commands in the background, and commands…]] · Developer Workflow
-- [[Changes/Cursor/2024-12-17-docs-git-web-and-folder-are-now-available-in-the-agent|@docs, @git, @web, and @folder are now available in the agent]] · Agent Mode
+- [[Changes/Cursor/2024-12-17-agent-sees-terminal-exit-codes-can-run-commands-in-the-background-and-commands-a-4f6044|Agent sees terminal exit codes, can run commands in the background, and commands…]] · Developer Workflow
+- [[Changes/Cursor/2024-12-17-cursor-starts-up-faster|Cursor starts up faster]] · Reliability and Performance
+- [[Changes/Cursor/2024-12-17-cheaper-and-faster-bug-finding-model|Cheaper and faster Bug Finding Model]] · Reliability and Performance
+- [[Changes/Cursor/2024-12-17-agent-can-reapply-edits-with-a-smarter-apply-model|Agent can reapply edits with a smarter apply model]] · Editor Experience
 <!-- chronolog:end -->

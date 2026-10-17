@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a9f0643931bae23ddbcabe27f2c39c57f38550d23367b0216dcd280796975f4f
+machine_hash: 1e238cc04839a2944c8667ec09a7a78c6d04351beb03d847632aec35d3196103
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   selection is made easy with a dedicated dropdown menu at the top of the page]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-18-0-1-2-https-cursor-com-changelog-0-1-2-154cc875|cursor-2023-03-18-0-1-2-https-cursor-com-changelog-0-1-2-154cc875]]'
 source_type: cursor_changelog
+superseded: true
 theme: interface-experience
 title: Can open chat history from the prompt bar
 type: change

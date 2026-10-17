@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: cab1ae2c898c3aad49a0ddd55a66a9717b5c3806a9089dfe80518ef5e50a376d
+machine_hash: ca95a64b8609fd0c43beeb1b18d182c8afa54a915a3cbdc2ae90488e799b8abe
 product: cursor
 product_name: Cursor
 record:
@@ -63,6 +63,7 @@ related_changes:
   /loop command to run a prompt or slash command on a recurring interval…]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-11-new-plugins-on-the-cursor-marketplace-https-cursor-com-changelog-f5d077c3|cursor-2026-03-11-new-plugins-on-the-cursor-marketplace-https-cursor-com-changelog-f5d077c3]]'
 source_type: cursor_changelog
+superseded: true
 theme: automation-scheduling
 title: Most plugins contain MCPs that cloud agents can use when kicked off manually…
 type: change

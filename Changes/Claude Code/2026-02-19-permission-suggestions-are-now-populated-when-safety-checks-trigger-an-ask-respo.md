@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9db1e3f6e63f33afc36c184d4b0d74091203c2de19d5f779fbbde105ea92fab8
+machine_hash: 79d6b65d7cd2a8bdf795bfa3efc2d69cf6baac7bafb03e22be02d3959fc60e89
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   sandbox now supports granular network access controls, as well as controls…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140|claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Permission suggestions are now populated when safety checks trigger an ask
   response…

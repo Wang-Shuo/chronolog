@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: af84923f9b98f01f2ef9b2c2cecaa519d593a21b7515581e19f23d64e8f7353b
+machine_hash: 299183769873da01f24ca7d749f4c6ea489b29548b766bf6b7c51096b1ec8237
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,6 +47,7 @@ related_changes:
   support for pinning plugins to specific git commit SHAs, allowing marketplace…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111|claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added search to installed plugins list - type to filter by name or description
 type: change

@@ -3,7 +3,7 @@ changes_count: 0
 date: '2026-08-21'
 description: 'ChatGPT release Faster long conversations on the web on 2026-08-21:
   no tracked changes'
-machine_hash: 6c0845ac98844f5a78308bb79938c2da21f496998b8c6a5e02b4276062ec7061
+machine_hash: 05ebe500569671235db8bee3db2f96f3f25526e73807c2f20afd90aa683bcc87
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ version: Faster long conversations on the web
 <!-- chronolog:begin region="summary" -->
 Long conversations now load more efficiently in ChatGPT on the web.
 
-Tracked 0 of 2 candidate lines.
+Tracked 0 cards from 2 candidate lines; 2 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards

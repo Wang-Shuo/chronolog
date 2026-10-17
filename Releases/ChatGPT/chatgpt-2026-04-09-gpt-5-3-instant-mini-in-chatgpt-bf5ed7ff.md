@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-04-09'
 description: 'ChatGPT release GPT-5.3 Instant mini in ChatGPT on 2026-04-09: 1 tracked
   change across Model Support'
-machine_hash: 0759bf5e40afea1cc1b5503aff6c8553975134e6032dc5b445769ef97aa7a64d
+machine_hash: c8fe727218e798fb561967eb17e692aa8d0dcaee6cc3f304389e6c6744148adf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: GPT-5.3 Instant mini in ChatGPT
 <!-- chronolog:begin region="summary" -->
 Today, we’re releasing GPT-5.3 Instant Mini in ChatGPT. It replaces GPT-5 Instant Mini as the fallback model users reach after hitting their rate limits for GPT-5.3 Instant. Because it serves as a fallback, it won’t appear in the model picker.Compared with GPT-5 Instant Mini, GPT-5.3 Instant Mini feels more natural in…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-04-09-today-we-re-releasing-gpt-5-3-instant-mini-in-chatgpt-it-replaces-gpt-5-instant|Today, we’re releasing GPT-5.3 Instant Mini in ChatGPT]] · Model Support
+- [[Changes/ChatGPT/2026-04-09-today-we-re-releasing-gpt-5-3-instant-mini-in-chatgpt-it-replaces-gpt-5-instant|GPT-5.3 Instant mini in ChatGPT]] · Model Support · Launch
 <!-- chronolog:end -->

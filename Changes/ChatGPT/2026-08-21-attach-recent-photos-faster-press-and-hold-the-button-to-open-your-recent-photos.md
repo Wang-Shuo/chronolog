@@ -15,9 +15,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: e91a99df1dc1708328d12df4a85ca2cfc42be120611ef24defd594d769b27e84
+kind: change
+machine_hash: e3ce291c6a1f0df8a03dcf6bbbcff29b7230cd7a92f19c6039cc569d3c944320
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,8 +32,9 @@ record:
   - quote: Attach recent photos faster. Press and hold the + button to open your recent
       photos, then choose one to add to your conversation.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: attach-recent-photos-faster-press-and-hold-the-button-to-open-your-recent-photos
@@ -42,12 +44,12 @@ record:
   title: Attach recent photos faster
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-10-improved-performance-fewer-event-loop-stalls-on-file-not-found-suggestions-and-a|Improved
-  performance: fewer event-loop stalls on file-not-found suggestions…]]'
-- '[[Changes/ChatGPT/2026-08-14-with-project-only-memory-chatgpt-can-use-conversations-from-the-same-project-for|With
-  project-only memory, ChatGPT can use conversations from the same project…]]'
+- '[[Changes/Claude Code/2026-08-18-improved-memory-and-cpu-usage-while-cloud-sessions-such-as-ultrareview-or-autofi|Improved
+  memory and CPU usage while cloud sessions such as /ultrareview…]]'
 - '[[Changes/Claude Code/2026-08-19-improved-startup-performance-the-session-counter-is-now-written-in-the-backgroun|Improved
   startup performance: the session counter is now written in the background]]'
+- '[[Changes/Claude Code/2026-08-20-improved-startup-responsiveness-the-automatic-update-check-now-runs-about-10-sec|Improved
+  startup responsiveness]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-21-updates-to-chatgpt-on-ios-148662ce|chatgpt-2026-08-21-updates-to-chatgpt-on-ios-148662ce]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
@@ -68,16 +70,14 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
-## Also in this release
 
-- [[Changes/ChatGPT/2026-08-21-available-in-the-chatgpt-app-for-ios-access-to-recent-photos-requires-permission|Available in the ChatGPT app for iOS]] · Safety and Privacy
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-improved-startup-performance-the-session-counter-is-now-written-in-the-backgroun|Improved startup performance: the session counter is now written in the background]]
-- Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-added-a-visible-warning-when-memory-usage-is-critical-with-steps-to-free-memory|Added a visible warning when memory usage is critical, with steps to free memory…]]
+- Earlier: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-improved-startup-responsiveness-the-automatic-update-check-now-runs-about-10-sec|Improved startup responsiveness]]
+- Later: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-improved-bash-tool-latency-on-bash-shells-by-replaying-snapshot-functions-withou|Improved Bash tool latency on bash shells by replaying snapshot functions without…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: f4ad795043c6d3dc1dab0554ea1f76e691df6d1226c17cfd55e5f99527cc0282
+kind: change
+machine_hash: cc3ab6c1b4a34f4e63e1a89136d02e64226165e9c1055a4ad07257d5fa48bcf4
 product: claude-code
 product_name: Claude Code
 record:
@@ -33,8 +34,9 @@ record:
   - quote: 'Improved the refusal when Claude tries to invoke a skill with `disable-model-invocation`:
       Claude is now told to ask you to run the skill instead of replicating its workflow'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.222
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-the-refusal-when-claude-tries-to-invoke-a-skill-with-disable-model-invo
@@ -44,12 +46,11 @@ record:
   title: Improved the refusal when Claude tries to invoke a skill with `disable-model-invocation`
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-22-balance-strong-quality-matching-the-frontier-models-that-most-people-like-to-dai|Balance:
-  Strong quality, matching the frontier models that most people like to daily drive]]'
-- '[[Changes/Claude Code/2026-07-24-added-claude-opus-5-claude-opus-5-now-the-default-opus-model-1m-context-fast-mod|Added
-  Claude Opus 5 (claude-opus-5), now the default Opus model]]'
-- '[[Changes/Claude Code/2026-08-04-added-a-prompt-audit-subcommand-to-the-claude-api-skill-for-auditing-prompts-and|Added
-  a prompt-audit subcommand to the claude-api skill for auditing prompts…]]'
+- '[[Changes/Cursor/2026-07-22-optimization-modes-e62142|Optimization modes]]'
+- '[[Changes/Claude Code/2026-07-24-3-model-support-changes-in-v2-1-219|3 Model Support
+  changes in v2.1.219]]'
+- '[[Changes/Claude Code/2026-08-04-3-model-support-changes-in-v2-1-221|3 Model Support
+  changes in v2.1.221]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-222-github-365137491-9ea4d4a2|claude-code-2026-08-04-v2-1-222-github-365137491-9ea4d4a2]]'
 source_type: github_releases
 theme: model-support
@@ -72,16 +73,15 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-08-04-changed-remote-control-auto-start-so-repo-local-settings-claude-settings-json-or|Changed Remote Control auto-start so repo-local settings…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-08-04-improved-auto-mode-safety-messages-sent-to-other-agent-sessions-via-sendmessage|Improved auto mode safety]] · Safety and Privacy
-- [[Changes/Claude Code/2026-08-04-improved-the-diff-view-the-remote-control-workspace-diff-and-file-edit-diffs-in|Improved the /diff view, the Remote Control workspace diff, and file-edit diffs…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-08-04-2-apps-and-integrations-changes-in-v2-1-222|2 Apps and Integrations changes in v2.1.222]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-added-a-prompt-audit-subcommand-to-the-claude-api-skill-for-auditing-prompts-and|Added a prompt-audit subcommand to the claude-api skill for auditing prompts…]]
-- Later: 2026-08-06 · ChatGPT · [[Changes/ChatGPT/2026-08-06-gpt-5-6-luna-will-become-the-default-model-for-free-and-go-users-this-week-start|GPT‑5.6 Luna will become the default model for Free and Go users this week]]
+- Earlier: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-3-model-support-changes-in-v2-1-221|3 Model Support changes in v2.1.221]]
+- Later: 2026-08-06 · ChatGPT · [[Changes/ChatGPT/2026-08-06-plus-and-pro-users-can-now-use-an-updated-gpt-5-6-sol-in-chatgpt-with-more-relia-397840|Updates to GPT‑5.6 in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

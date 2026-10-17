@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d8e52a9c4187981b534f64765e7de3487ddfd21faf2bfd71f79527a14046f6e0
+machine_hash: 0eb9158495f9a69c8706f013bcb8eacb4645ff4968d6242a4dc27df922f4edb2
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   --json to claude plugin validate for a machine-readable validation report]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f|claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added managedMcpServers managed setting
 type: change

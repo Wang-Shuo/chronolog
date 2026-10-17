@@ -1,10 +1,9 @@
 ---
-changes_count: 3
+changes_count: 1
 date: '2026-07-09'
 description: 'ChatGPT release The new ChatGPT desktop app brings Chat, Work, and Codex
-  together on 2026-07-09: 3 tracked changes across Safety and Privacy, Mobile and
-  Desktop'
-machine_hash: 6efc9dc77cda1e4b2bd75eb6ae21e7e2d5336ee08633da097d94d6b82e49c9ad
+  together on 2026-07-09: 1 tracked change across Mobile and Desktop'
+machine_hash: 3aed00641e38de9e81741d8dd27375c9b02069fc425435b42b8b882fe90b4372
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,12 +40,10 @@ version: The new ChatGPT desktop app brings Chat, Work, and Codex together
 <!-- chronolog:begin region="summary" -->
 The new ChatGPT desktop app is available globally for macOS and Windows. It combines Chat for questions and conversation, Work for research and finished deliverables, and Codex for software development in one app.
 
-Tracked 3 of 4 candidate lines.
+Tracked 1 card from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-07-09-if-you-already-use-the-codex-app-update-it-as-usual-to-move-to-the-new-chatgpt-d|If you already use the Codex app, update it as usual to move to the new ChatGPT…]] · Safety and Privacy
-- [[Changes/ChatGPT/2026-07-09-on-desktop-work-can-use-local-files-and-desktop-apps-with-your-permission-the-bu|On desktop, Work can use local files and desktop apps with your permission]] · Safety and Privacy
-- [[Changes/ChatGPT/2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi|The new ChatGPT desktop app is available globally for macOS and Windows]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi-ae6433|The new ChatGPT desktop app brings Chat, Work, and Codex together]] · Mobile and Desktop
 <!-- chronolog:end -->

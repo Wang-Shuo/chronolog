@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: ca192a48ed0a0e9d7246c72c2d851875c9f1b6402ee8f9bea8376953eaabc387
+kind: change
+machine_hash: 4f28a4ab660924f8d500a05672a0fffe09699f7466578262d0ad043776a5cff4
 product: cursor
 product_name: Cursor
 record:
@@ -27,8 +28,9 @@ record:
   evidence:
   - quote: Don't install "cursor" command on startup
     source_release: https://cursor.com/changelog/0-2-3
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: don-t-install-cursor-command-on-startup
@@ -40,7 +42,8 @@ record:
   title: Don't install "cursor" command on startup
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+- '[[Changes/Cursor/2023-03-23-terminal-no-longer-interferes-with-chat|Terminal no
+  longer interferes with chat]]'
 - '[[Changes/Cursor/2023-03-27-opens-the-terminal-in-your-current-folder|Opens the
   terminal in your current folder]]'
 - '[[Changes/Cursor/2023-04-07-turns-off-the-auto-install-of-the-cursor-command-and-fixes-its-install-altogethe|Turns

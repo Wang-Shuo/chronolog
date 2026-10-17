@@ -5,8 +5,8 @@ description: 'Cursor · 2026-01-16 · Agent Mode: Push your local conversation t
   Cloud Agent and let it keep running while you''re away. Prepend & to any message
   to send it…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 925
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: 5e7992f2874e645835945b8af10ad5efbaa03fcd2931c24b5e8bd8215f9c2997
+kind: launch
+machine_hash: c75ef77250c697beaa0a5b8e9d311546358c9dcabe3108c8d91a95d23a2782ba
 product: cursor
 product_name: Cursor
 record:
@@ -34,27 +35,16 @@ record:
       you're away. Prepend & to any message to send it to the cloud, then pick it
       back up on web or mobile at cursor.com/agents.
     source_release: https://cursor.com/changelog/cli-jan-16-2026
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: push-your-local-conversation-to-a-cloud-agent-and-let-it-keep-running-while-you
+  slug: handoff-to-cloud-agents
   source_release: cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5
   source_type: cursor_changelog
   theme: agent-mode
-  theme_matches:
-  - matched_terms:
-    - agent
-    - agents
-    - cloud agent
-    score: 160
-    theme: agent-mode
-  - matched_terms:
-    - mobile
-    score: 50
-    theme: mobile-desktop
-  title: Push your local conversation to a Cloud Agent and let it keep running while
-    you're away
+  title: Handoff to Cloud Agents
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-01-11-added-claude-code-disable-background-tasks-environment-variable-to-disable-all-b|Added
@@ -66,15 +56,14 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5|cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Push your local conversation to a Cloud Agent and let it keep running while
-  you're away
+title: Handoff to Cloud Agents
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Push your local conversation to a Cloud Agent and let it keep running while you're away
+# Handoff to Cloud Agents
 
-**Cursor** · 2026-01-16 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/cli-jan-16-2026) · from [[Releases/Cursor/cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5|CLI Agent Modes and Cloud Handoff]]
+**Cursor** · 2026-01-16 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://cursor.com/changelog/cli-jan-16-2026) · from [[Releases/Cursor/cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5|CLI Agent Modes and Cloud Handoff]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -86,22 +75,29 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Cursor/2026-01-16-one-click-mcp-authentication|One-click MCP authentication]] · Account and Access
+- [[Changes/Cursor/2026-01-16-models-removed-use-model-to-see-all-models-or-select-a-model|/models removed. Use /model to see all models or select a model]] · Model Support
+- [[Changes/Cursor/2026-01-16-faster-message-queueing-and-ux|Faster message queueing and UX]] · Reliability and Performance
 - [[Changes/Cursor/2026-01-16-this-release-brings-many-of-the-editor-s-most-loved-features-to-the-cursor-cli-a|Cursor brings many of the editor’s most-loved features to the Cursor CLI, along…]] · Editor Experience
-- [[Changes/Cursor/2026-01-16-use-plan-mode-to-design-your-approach-before-coding-cursor-will-ask-clarifying-q|Use Plan mode to design your approach before coding]] · Agent Mode
-- [[Changes/Cursor/2026-01-16-use-ask-mode-to-explore-code-without-making-changes-just-like-in-the-editor-star|Use Ask mode to explore code without making changes, just like in the editor]] · Editor Experience
+- [[Changes/Cursor/2026-01-16-use-plan-mode-to-design-your-approach-before-coding-cursor-will-ask-clarifying-q|Plan mode in CLI]] · Agent Mode
+- [[Changes/Cursor/2026-01-16-2-developer-workflow-changes-in-cli-agent-modes-and-cloud-handoff|2 Developer Workflow changes in CLI Agent Modes and Cloud Handoff]] · Developer Workflow
+- [[Changes/Cursor/2026-01-16-added-webfetch-websearch-tools-approval-options-for-granular-controls-over-web-s|Added WebFetch, WebSearch tools, & approval options for granular controls over web…]] · Search and Browsing
+- [[Changes/Cursor/2026-01-16-use-ask-mode-to-explore-code-without-making-changes-just-like-in-the-editor-star|Ask mode in CLI]] · Editor Experience
+- [[Changes/Cursor/2026-01-16-2-interface-experience-changes-in-cli-agent-modes-and-cloud-handoff|2 Interface Experience changes in CLI Agent Modes and Cloud Handoff]] · Interface Experience
+- [[Changes/Cursor/2026-01-16-added-hooks-for-session-start-end-prompt-and-stop-for-customizing-agent-lifecycl|Added hooks for session start/end, prompt, and stop for customizing agent lifecycle events]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
 - Earlier: 2026-01-16 · Claude Code · [[Changes/Claude Code/2026-01-16-added-plansdirectory-setting-to-customize-where-plan-files-are-stored|Added plansDirectory setting to customize where plan files are stored]]
-- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-cursor-includes-default-subagents-for-researching-your-codebase-running-terminal|Cursor includes default subagents for researching your codebase, running terminal…]]
+- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-skills|Skills]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

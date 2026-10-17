@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-05-07'
 description: 'ChatGPT release Trusted contact in ChatGPT on 2026-05-07: 1 tracked
   change across Safety and Privacy'
-machine_hash: 1c6a50e841b03dc14835b4f567a1738b0d8204643b927ad45d640d4781a4530e
+machine_hash: 40d75b9508a47ae9cadeb12d1e6794c466da8cf715977db2e35f71c777264f82
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: Trusted contact in ChatGPT
 <!-- chronolog:begin region="summary" -->
 Over the coming weeks, we'll be rolling out trusted contact, an optional safety feature for adults with personal ChatGPT accounts.Trusted contact in ChatGPT helps you connect with a person you trust if you need additional support. You may choose your trusted contact in settings, and ChatGPT will send them an invitation…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-05-07-over-the-coming-weeks-we-ll-be-rolling-out-trusted-contact-an-optional-safety-fe|Over the coming weeks, we'll be rolling out trusted contact, an optional safety…]] · Safety and Privacy
+- [[Changes/ChatGPT/2026-05-07-over-the-coming-weeks-we-ll-be-rolling-out-trusted-contact-an-optional-safety-fe|Trusted contact in ChatGPT]] · Safety and Privacy
 <!-- chronolog:end -->

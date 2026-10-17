@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 3
 date: '2026-06-30'
 description: 'Cursor release MCPs and Organizations in Team Marketplaces on 2026-06-30:
-  5 tracked changes across Collaboration, Apps and Integrations'
-machine_hash: f081c1189304734f6e496fd4e6c3990d3069e4e42a3f0151dae384e3fb6cfd36
+  3 tracked changes across Collaboration'
+machine_hash: 540e0dc77d72eb9da3fe8882e4025ac9ac16e33d1eef5f95ae78e1c4050da63b
 product: cursor
 product_name: Cursor
 record:
@@ -39,14 +39,12 @@ version: '3.10'
 <!-- chronolog:begin region="summary" -->
 We've expanded team marketplaces to support Team MCPs and organization groups.
 
-Tracked 5 of 7 candidate lines.
+Tracked 3 cards from 7 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-06-30-under-dashboard-plugins-mcps-team-marketplaces-restrict-marketplace-access-to-sp|Under Dashboard - Plugins & MCPs - Team Marketplaces, restrict marketplace access…]] · Collaboration
-- [[Changes/Cursor/2026-06-30-when-an-admin-sets-up-team-mcp-servers-for-cloud-agents-they-can-make-those-same-3d5f04|When an admin sets up Team MCP servers for cloud agents, they can make those same…]] · Apps and Integrations
-- [[Changes/Cursor/2026-06-30-team-marketplaces-now-support-organization-groups-in-addition-to-team-level-scim|Team marketplaces now support organization groups, in addition to team-level SCIM…]] · Collaboration
-- [[Changes/Cursor/2026-06-30-admins-can-now-configure-team-mcp-servers-once-and-distribute-them-across-cloud|Admins can now configure Team MCP servers once and distribute them across cloud…]] · Apps and Integrations
+- [[Changes/Cursor/2026-06-30-team-mcps-in-team-marketplaces-27f9ef|Team MCPs in team marketplaces]] · Collaboration · Launch
+- [[Changes/Cursor/2026-06-30-marketplace-access-by-organization-group-a2cf9b|Marketplace access by organization group]] · Collaboration · Launch
 - [[Changes/Cursor/2026-06-30-we-ve-expanded-team-marketplaces-to-support-team-mcps-and-organization-groups|Cursor expands team marketplaces to support Team MCPs and organization groups]] · Collaboration
 <!-- chronolog:end -->

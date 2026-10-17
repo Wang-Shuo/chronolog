@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: d37ea95cc3db46896f9f68a3410883a011292fb61f94a7599426b3e7c2dba7ac
+kind: change
+machine_hash: 921430d4db00cc32883d36c5ffa649bf07b830a8888a92688a2c8121cf4912b7
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +32,9 @@ record:
   - quote: 'New Settings: We moved all our settings to be accessible by the gear in
       the top right. No more "More" tab!'
     source_release: https://cursor.com/changelog/0-30-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: new-settings-we-moved-all-our-settings-to-be-accessible-by-the-gear-in-the-top-r
@@ -49,8 +51,7 @@ related_changes:
   onboarding (fix Windows settings import, option to import folder/window state)]]'
 - '[[Changes/Cursor/2024-02-09-fine-grained-chat-replies-start-by-hovering-over-the-area-of-the-response-you-wa|Fine-grained
   chat replies…]]'
-- '[[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|AI
-  Notes enabled by default (hold shift on any symbol), better in-editor chat…]]'
+- '[[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|Polish]]'
 source_release: '[[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e|cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -83,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-03-01 · Cursor · [[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|AI Notes enabled by default (hold shift on any symbol), better in-editor chat…]]
+- Earlier: 2024-03-01 · Cursor · [[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|Polish]]
 - Later: 2024-04-01 · Cursor · [[Changes/Cursor/2024-04-01-update-0-31-1-0-31-3-adds-back-in-ai-review-alpha-fixes-the-cursor-settings-menu|UPDATE (0.31.1–0.31.3): Adds back in AI Review (alpha), fixes…]]
 <!-- chronolog:end -->
 

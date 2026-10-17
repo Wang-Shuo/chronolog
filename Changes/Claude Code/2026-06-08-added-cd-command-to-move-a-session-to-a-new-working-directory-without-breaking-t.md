@@ -4,8 +4,8 @@ date: '2026-06-08'
 description: 'Claude Code · 2026-06-08 · Context Window: Added `/cd` command to move
   a session to a new working directory without breaking the prompt cache mid-session'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
-    prompt length for project generation]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1131
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 750bc3e49eb2b8013cb5038208cb75dd09c2fd2271d344e54fc56a875098905d
+kind: change
+machine_hash: 9a8d4ca142b2f2175a690f1b3bf835e3de02fdd3eb26c80be913e9c1bd561926
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
   - quote: Added `/cd` command to move a session to a new working directory without
       breaking the prompt cache mid-session
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.169
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-cd-command-to-move-a-session-to-a-new-working-directory-without-breaking-t
@@ -45,12 +47,12 @@ record:
     breaking…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-cursor-can-now-show-your-agent-s-context-usage-as-an-interactive-report-in-a-can|Cursor
-  can now show your agent''s context usage as an interactive report in a canvas]]'
 - '[[Changes/Cursor/2026-06-04-this-release-introduces-design-mode-for-faster-canvas-editing-new-ways-to-unders|Cursor
   introduces Design Mode for faster canvas editing, new ways to understand…]]'
-- '[[Changes/Cursor/2026-06-04-the-context-explorer-breaks-down-where-tokens-go-across-the-system-prompt-tool-d|The
-  context explorer breaks down where tokens go across the system prompt, tool…]]'
+- '[[Changes/Cursor/2026-06-04-context-usage-report-in-canvas-d08e2a|Context usage
+  report in canvas]]'
+- '[[Changes/Claude Code/2026-06-08-the-claude-md-is-too-long-warning-threshold-now-scales-with-the-model-s-context|The
+  "CLAUDE.md is too long" warning threshold now scales with the model''s context window]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d|claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d]]'
 source_type: github_releases
 theme: context-window
@@ -73,23 +75,29 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-06-08-added-safe-mode-flag-and-claude-code-safe-mode-to-start-claude-code-with-all-cus|Added --safe-mode flag (and CLAUDE_CODE_SAFE_MODE) to start Claude Code with all…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-06-08-2-safety-and-privacy-changes-in-v2-1-169|2 Safety and Privacy changes in v2.1.169]] · Safety and Privacy
+- [[Changes/Claude Code/2026-06-08-2-agent-mode-changes-in-v2-1-169|2 Agent Mode changes in v2.1.169]] · Agent Mode
+- [[Changes/Claude Code/2026-06-08-2-interface-experience-changes-in-v2-1-169|2 Interface Experience changes in v2.1.169]] · Interface Experience
+- [[Changes/Claude Code/2026-06-08-the-claude-md-is-too-long-warning-threshold-now-scales-with-the-model-s-context|The "CLAUDE.md is too long" warning threshold now scales with the model's context window]] · Context Window
+- [[Changes/Claude Code/2026-06-08-auto-updater-on-windows-now-stops-retrying-within-a-session-once-claude-exe-is-h|Auto-updater on Windows now stops retrying within a session once claude.exe…]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-06-08-background-sessions-now-preserve-ide-chrome-bare-remote-control-and-other-flags|Background sessions now preserve --ide, --chrome, --bare, --remote-control…]] · Editor Experience
+- [[Changes/Claude Code/2026-06-08-background-sessions-are-now-told-that-shared-checkout-edits-are-blocked-until-th|Background sessions are now told that shared-checkout edits are blocked until they…]] · Developer Workflow
+- [[Changes/Claude Code/2026-06-08-improved-the-error-message-shown-when-your-organization-has-disabled-api-key-aut|Improved the error message shown when your organization has disabled API key…]] · Account and Access
 - [[Changes/Claude Code/2026-06-08-workflows-now-opens-immediately-even-while-a-turn-is-in-progress|/workflows now opens immediately even while a turn is in progress]] · Automation and Scheduling
 - [[Changes/Claude Code/2026-06-08-added-a-disablebundledskills-setting-and-claude-code-disable-bundled-skills-envi|Added a disableBundledSkills setting and CLAUDE_CODE_DISABLE_BUNDLED_SKILLS…]] · Model Support
-- [[Changes/Claude Code/2026-06-08-fixed-stale-permission-and-dialog-prompts-reappearing-every-time-you-reattached|Fixed stale permission and dialog prompts reappearing every time you reattached…]] · Safety and Privacy
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-the-context-explorer-breaks-down-where-tokens-go-across-the-system-prompt-tool-d|The context explorer breaks down where tokens go across the system prompt, tool…]]
+- Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-context-usage-report-in-canvas-d08e2a|Context usage report in canvas]]
 - Later: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-vscode-added-usage-attribution-to-the-account-usage-dialog-usage-showing-cache-m|VSCode Added usage attribution to the Account & usage dialog (/usage) showing…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

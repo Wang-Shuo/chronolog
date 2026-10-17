@@ -15,9 +15,10 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 4db922c3bf0bfeb6f7482d1cfab0908977c0af29eeba8d83e1403948b8e45746
+kind: change
+machine_hash: 12f4ec54f581a667af73ec19e32cb8969190084a4b47e1e9591f8efe11dc54cd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,8 +36,9 @@ record:
       links to sources. It is no longer limited to data before September 2021.To try
       it out, enable Browsing in your beta features setting.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: browsing-is-rolling-out-to-all-plus-users-chatgpt-can-now-browse-the-internet-to
@@ -46,12 +48,12 @@ record:
   title: Browsing is rolling out to all Plus users
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|Browse
-  with Bing]]'
+- '[[Changes/ChatGPT/2023-05-12-web-browsing-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-browse-the|Web
+  browsing: Try a new version of ChatGPT that knows when and how to browse…]]'
 - '[[Changes/ChatGPT/2023-06-22-search-history-improvements-tapping-on-a-search-result-takes-you-directly-to-the|Search
   History Improvements]]'
-- '[[Changes/ChatGPT/2023-07-03-we-ve-learned-that-the-browsing-beta-can-occasionally-display-content-in-ways-we|We''ve
-  learned that the browsing beta can occasionally display content in ways we…]]'
+- '[[Changes/ChatGPT/2023-07-03-we-ve-learned-that-the-browsing-beta-can-occasionally-display-content-in-ways-we|Browsing
+  is temporarily disabled]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-09-27-browsing-is-rolling-back-out-to-plus-users-73e98403|chatgpt-2023-09-27-browsing-is-rolling-back-out-to-plus-users-73e98403]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -80,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2023-07-03 · ChatGPT · [[Changes/ChatGPT/2023-07-03-we-ve-learned-that-the-browsing-beta-can-occasionally-display-content-in-ways-we|We've learned that the browsing beta can occasionally display content in ways we…]]
+- Earlier: 2023-07-03 · ChatGPT · [[Changes/ChatGPT/2023-07-03-we-ve-learned-that-the-browsing-beta-can-occasionally-display-content-in-ways-we|Browsing is temporarily disabled]]
 - Later: 2024-01-25 · Cursor · [[Changes/Cursor/2024-01-25-using-web-in-chat-will-give-the-ai-the-ability-to-crawl-the-web-the-tools-it-can|Using @Web in chat will give the AI the ability to crawl the web!]]
 <!-- chronolog:end -->
 

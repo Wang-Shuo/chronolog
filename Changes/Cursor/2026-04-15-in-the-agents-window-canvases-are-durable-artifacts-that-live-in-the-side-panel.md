@@ -14,9 +14,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 103616d0e8b6cf4cd35762d0b43f5ba4dbf94a4e0437404e9fe0b50d8c385b86
+kind: change
+machine_hash: 8b10e72174ef1f1c196289a9fd70798023d15e113e13e15a1d12425c1a0d57a7
 product: cursor
 product_name: Cursor
 record:
@@ -29,8 +30,9 @@ record:
   - quote: In the Agents Window, canvases are durable artifacts that live in the side
       panel alongside the terminal, browser, and source control.
     source_release: https://cursor.com/changelog/04-15-26
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: in-the-agents-window-canvases-are-durable-artifacts-that-live-in-the-side-panel
@@ -51,12 +53,12 @@ record:
     panel…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-13-added-path-parameter-to-the-enterworktree-tool-to-switch-into-an-existing-worktr|Added
-  path parameter to the EnterWorktree tool to switch into an existing…]]'
-- '[[Changes/Cursor/2026-04-14-use-debug-to-find-root-causes-and-fix-tricky-bugs-that-are-hard-to-reproduce-or|Use
-  /debug to find root causes and fix tricky bugs that are hard to reproduce…]]'
 - '[[Changes/Cursor/2026-04-14-we-ve-shipped-quality-of-life-improvements-to-the-cursor-cli-to-make-working-wit|We''ve
   shipped quality-of-life improvements to the Cursor CLI to make working…]]'
+- '[[Changes/Cursor/2026-04-14-3-developer-workflow-changes-in-04-14-26|3 Developer
+  Workflow changes in 04.14.26]]'
+- '[[Changes/Claude Code/2026-04-15-bash-tool-now-enforces-the-documented-maximum-timeout-instead-of-accepting-arbit|Bash
+  tool now enforces the documented maximum timeout instead of accepting…]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-15-canvases-https-cursor-com-changelog-04-15-26-cd056bf7|cursor-2026-04-15-canvases-https-cursor-com-changelog-04-15-26-cd056bf7]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -80,15 +82,14 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-04-15-these-visualizations-can-include-dashboards-and-custom-interfaces-built-using-fi|These visualizations can include dashboards and custom interfaces built using…]] · Files and Data
-- [[Changes/Cursor/2026-04-15-cursor-can-now-respond-by-creating-interactive-canvases|Cursor can now respond by creating interactive canvases]] · Files and Data
+- [[Changes/Cursor/2026-04-15-cursor-can-now-respond-by-creating-interactive-canvases-c4a1d3|Cursor can now respond by creating interactive canvases]] · Files and Data
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-14 · Cursor · [[Changes/Cursor/2026-04-14-we-ve-shipped-quality-of-life-improvements-to-the-cursor-cli-to-make-working-wit|We've shipped quality-of-life improvements to the Cursor CLI to make working…]]
-- Later: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-added-auto-match-terminal-theme-option-that-matches-your-terminal-s-dark-light-m|Added "Auto (match terminal)" theme option that matches your terminal's dark/light mode]]
+- Earlier: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-bash-tool-now-enforces-the-documented-maximum-timeout-instead-of-accepting-arbit|Bash tool now enforces the documented maximum timeout instead of accepting…]]
+- Later: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-2-developer-workflow-changes-in-v2-1-111|2 Developer Workflow changes in v2.1.111]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

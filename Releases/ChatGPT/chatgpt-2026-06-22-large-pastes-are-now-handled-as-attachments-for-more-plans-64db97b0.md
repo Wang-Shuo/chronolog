@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-06-22'
 description: 'ChatGPT release Large pastes are now handled as attachments for more
   plans on 2026-06-22: 1 tracked change across Context Window'
-machine_hash: 2fbde8df12e2364e42b9741051011cb454ec4f00a70d2fd62340ff4311941a5e
+machine_hash: 5302fc03ed143ca084e66630d85f905926cf762a5b7cf7e2fe6a4f6d91d35b95
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Large pastes are now handled as attachments for more plans
 <!-- chronolog:begin region="summary" -->
 Starting today for ChatGPT Free and Go users, long pastes are handled differently in ChatGPT.If you paste more than 10k characters into the composer, ChatGPT will automatically convert the content into an attachment instead of inserting it directly into the text field. This keeps the composer cleaner and helps prevent…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-06-22-starting-today-for-chatgpt-free-and-go-users-long-pastes-are-handled-differently|Starting today for ChatGPT Free and Go users, long pastes are handled differently…]] · Context Window
+- [[Changes/ChatGPT/2026-06-22-starting-today-for-chatgpt-free-and-go-users-long-pastes-are-handled-differently|Large pastes are now handled as attachments for more plans]] · Context Window
 <!-- chronolog:end -->

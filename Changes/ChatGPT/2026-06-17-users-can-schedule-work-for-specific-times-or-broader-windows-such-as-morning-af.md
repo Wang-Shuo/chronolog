@@ -4,7 +4,7 @@ date: '2026-06-17'
 description: 'ChatGPT · 2026-06-17 · Automation and Scheduling: Users can schedule
   work for specific times or broader windows, such as morning, afternoon, or evening.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|Tasks
+  first_in_tracked: '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks
     let you set up automated prompts that ChatGPT can run for you]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 182
@@ -14,9 +14,10 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 45ceba54dfd094762e366b10cf6445fadef1e3c822ffcd15bf50b110900fb608
+kind: change
+machine_hash: b231fce9e271ca4670f04084981c750aef3b0bf5628fd3e7d509c2781d8159e6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Users can schedule work for specific times or broader windows, such as
       morning, afternoon, or evening.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: users-can-schedule-work-for-specific-times-or-broader-windows-such-as-morning-af
@@ -42,12 +44,12 @@ record:
   title: Users can schedule work for specific times or broader windows, such as morning…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-20-cursor-automations-are-now-available-in-the-agents-window-in-addition-to-cursor|Cursor
-  Automations are now available in the Agents Window, in addition…]]'
-- '[[Changes/Cursor/2026-05-20-this-release-brings-cursor-automations-to-the-agents-window-and-introduces-the-a|Cursor
-  brings Cursor Automations to the Agents Window and introduces the ability…]]'
+- '[[Changes/Cursor/2026-06-04-reliable-wait-on-local-runs-local-runs-no-longer-resolve-wait-before-the-termina|Reliable
+  wait() on local runs]]'
 - '[[Changes/Claude Code/2026-06-08-workflows-now-opens-immediately-even-while-a-turn-is-in-progress|/workflows
   now opens immediately even while a turn is in progress]]'
+- '[[Changes/Claude Code/2026-06-10-stopped-promoting-loop-in-remote-sessions-where-pending-loops-don-t-keep-the-con|Stopped
+  promoting /loop in remote sessions, where pending loops don''t keep…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a|chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a]]'
 source_type: chatgpt_changelog
 theme: automation-scheduling
@@ -74,19 +76,20 @@ type: change
 - [[Changes/ChatGPT/2026-06-17-all-tasks-are-faster-and-more-reliable|All tasks are faster and more reliable]] · Reliability and Performance
 - [[Changes/ChatGPT/2026-06-17-monitoring-tasks-can-search-the-web-and-check-connected-apps-for-changes-and-not|Monitoring tasks can search the web and check connected apps for changes and notify…]] · Apps and Integrations
 - [[Changes/ChatGPT/2026-06-17-a-new-scheduled-page-discoverable-in-the-sidebar-gives-users-one-place-to-view-a|A new Scheduled page, discoverable in the sidebar, gives users one place to view…]] · Interface Experience
+- [[Changes/ChatGPT/2026-06-17-update-on-pulse|Update on Pulse]] · Automation and Scheduling
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-workflows-now-opens-immediately-even-while-a-turn-is-in-progress|/workflows now opens immediately even while a turn is in progress]]
-- Later: 2026-06-18 · Cursor · [[Changes/Cursor/2026-06-18-cursor-automations-save-you-time-by-automating-repetitive-tasks-with-always-on-a|Cursor Automations save you time by automating repetitive tasks with always-on agents]]
+- Earlier: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-stopped-promoting-loop-in-remote-sessions-where-pending-loops-don-t-keep-the-con|Stopped promoting /loop in remote sessions, where pending loops don't keep…]]
+- Later: 2026-06-18 · Cursor · [[Changes/Cursor/2026-06-18-computer-use-tool-for-automations|Computer use tool for automations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-12-17 · ChatGPT · [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|Tasks let you set up automated prompts that ChatGPT can run for you]]
+- Earliest same-theme entry in the tracked set: 2025-12-17 · ChatGPT · [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks let you set up automated prompts that ChatGPT can run for you]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

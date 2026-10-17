@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: bfffccf6286d95b904301611f94cd98055e7c208c2843ca33657935616aaab9e
+machine_hash: b0bc4cff082c89050a25949d7a2c881db45fcd52382e36247c94a58cd14a3829
 product: claude-code
 product_name: Claude Code
 record:
@@ -59,6 +59,7 @@ related_changes:
   support for Windows Package Manager (winget) installations with automatic…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428|claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428]]'
 source_type: github_releases
+superseded: true
 theme: mobile-desktop
 title: IDE Fixed a race condition on Windows where the Claude Code sidebar view container…
 type: change

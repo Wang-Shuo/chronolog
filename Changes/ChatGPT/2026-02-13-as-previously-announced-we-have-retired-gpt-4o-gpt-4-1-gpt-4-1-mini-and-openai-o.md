@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: dd8a9b46d400f73a2434ec7e6deb1f481fd7670e2c224b62b6bba1e56814e7d6
+kind: policy
+machine_hash: cceef442766c1a3cbec0c631b2693ea072174acd618e82b1d481cbc410d134b1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,8 +34,9 @@ record:
       as previously announced. There are no API changes at this time. For details,
       see our blog post and Help Center.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: policy
   product: chatgpt
   product_name: ChatGPT
   slug: as-previously-announced-we-have-retired-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o
@@ -43,28 +45,26 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: As previously announced, we have retired GPT-4o, GPT-4.1, GPT-4.1 mini, and
-    OpenAI…
+  title: Retiring GPT-4o and other legacy models
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-05-claude-opus-4-6-is-now-available|Claude Opus 4.6
   is now available!]]'
 - '[[Changes/Claude Code/2026-02-07-fast-mode-is-now-available-for-opus-4-6-learn-more-at-https-code-claude-com-docs|Fast
   mode is now available for Opus 4.6]]'
-- '[[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|We’re
-  making an update to GPT-5.2 Instant in ChatGPT and the API that improves…]]'
+- '[[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|GPT-5.2
+  Instant Update]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-13-retiring-gpt-4o-and-other-legacy-models-71b41b16|chatgpt-2026-02-13-retiring-gpt-4o-and-other-legacy-models-71b41b16]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: As previously announced, we have retired GPT-4o, GPT-4.1, GPT-4.1 mini, and
-  OpenAI…
+title: Retiring GPT-4o and other legacy models
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# As previously announced, we have retired GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI…
+# Retiring GPT-4o and other legacy models
 
-**ChatGPT** · 2026-02-13 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-13-retiring-gpt-4o-and-other-legacy-models-71b41b16|Retiring GPT-4o and other legacy models]]
+**ChatGPT** · 2026-02-13 · [[Themes/model-support|Model Support]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-13-retiring-gpt-4o-and-other-legacy-models-71b41b16|Retiring GPT-4o and other legacy models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-10 · ChatGPT · [[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|We’re making an update to GPT-5.2 Instant in ChatGPT and the API that improves…]]
+- Earlier: 2026-02-10 · ChatGPT · [[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|GPT-5.2 Instant Update]]
 - Later: 2026-02-17 · Claude Code · [[Changes/Claude Code/2026-02-17-added-support-for-claude-sonnet-4-6|Added support for Claude Sonnet 4.6]]
 <!-- chronolog:end -->
 

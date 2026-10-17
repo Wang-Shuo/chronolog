@@ -5,8 +5,8 @@ description: 'ChatGPT · 2023-05-12 · Context Window: For more information on o
   process, please check out the article here.In addition to the beta panel, users
   can…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
-    prompt length for project generation]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 8
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 04a63252311b70a83a6da21e20f5efa4a24a4e1dd5eb43a9e4dd18bfaada4412
+kind: change
+machine_hash: 42138446bb1511165c45168baa9942944e07affc69f82b99ee0673a4ae8fefa5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,8 +35,9 @@ record:
       a message beyond the maximum token limit. Each continuation counts towards the
       message allowance.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: for-more-information-on-our-rollout-process-please-check-out-the-article-here-in
@@ -48,10 +50,8 @@ record:
     here
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
-  prompt length for project generation]]'
-- '[[Changes/Cursor/2023-05-04-alpha-feature-alpha-feature-ask-questions-about-your-entire-repo-we-are-experime|Alpha
-  feature: 🧠 Alpha feature: Ask questions about your entire repo 🛠️]]'
+- '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window
+  changes in 0.2.9]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7|chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7]]'
 source_type: chatgpt_changelog
 theme: context-window
@@ -82,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-alpha-feature-alpha-feature-ask-questions-about-your-entire-repo-we-are-experime|Alpha feature: 🧠 Alpha feature: Ask questions about your entire repo 🛠️]]
-- Later: 2023-05-17 · Cursor · [[Changes/Cursor/2023-05-17-press-cmd-shift-l-and-the-model-will-add-the-terminal-context-to-chat|Press Cmd+Shift+L, and the model will add the terminal context to chat]]
+- Earlier: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Later: 2023-05-17 · Cursor · [[Changes/Cursor/2023-05-17-better-jupyter-support|Better Jupyter Support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

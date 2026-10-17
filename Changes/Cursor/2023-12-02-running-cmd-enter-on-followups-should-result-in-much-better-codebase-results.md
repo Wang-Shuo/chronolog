@@ -4,8 +4,8 @@ date: '2023-12-02'
 description: 'Cursor · 2023-12-02 · Editor Experience: Running Cmd+enter on followups
   should result in much better codebase results.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 263
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 1231fa8a8c2dd005528825b3b3020943621bdb6ccffe4cdf4b50a99aa991c271
+kind: change
+machine_hash: b9e357f9512f43ad481fe61389fac9dcefe4655308cb4e5404eb51c157e7a79e
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Running Cmd+enter on followups should result in much better codebase results.
     source_release: https://cursor.com/changelog/0-18-3-nightly
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: running-cmd-enter-on-followups-should-result-in-much-better-codebase-results
@@ -38,7 +40,7 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Running Cmd+enter on followups should result in much better codebase results
+  title: Smarter Followups
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-11-22-experimental-feature-go-to-more-interpreter-mode-to-enable-it-gives-the-model-ac|Experimental
@@ -50,12 +52,12 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-12-02-0-18-3-nightly-https-cursor-com-changelog-0-18-3-nightly-ccda9a54|cursor-2023-12-02-0-18-3-nightly-https-cursor-com-changelog-0-18-3-nightly-ccda9a54]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: Running Cmd+enter on followups should result in much better codebase results
+title: Smarter Followups
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Running Cmd+enter on followups should result in much better codebase results
+# Smarter Followups
 
 **Cursor** · 2023-12-02 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://cursor.com/changelog/0-18-3-nightly) · from [[Releases/Cursor/cursor-2023-12-02-0-18-3-nightly-https-cursor-com-changelog-0-18-3-nightly-ccda9a54|Smarter Followups]]
 <!-- chronolog:end -->
@@ -74,13 +76,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2023-11-30 · Cursor · [[Changes/Cursor/2023-11-30-more-reliable-copilot-changes-less-flashing-better-highlighting-of-what-s-new|More reliable Copilot++ changes: less flashing, better highlighting of what's new]]
-- Later: 2023-12-14 · Cursor · [[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|We made Copilot++ faster, smarter, more constrained, and switched to a ghost-text…]]
+- Later: 2023-12-14 · Cursor · [[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|Copilot++ Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

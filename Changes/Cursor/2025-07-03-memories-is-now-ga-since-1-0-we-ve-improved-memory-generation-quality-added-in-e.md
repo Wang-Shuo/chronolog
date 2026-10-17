@@ -5,8 +5,8 @@ description: 'Cursor · 2025-07-03 · Memory and Personalization: Memories is no
   Since 1.0, we''ve improved memory generation quality, added in-editor UI polish,
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 714
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 88a663893f47343c4fc797a1672e9d47a3b50f283791cdc060f427ce111fb5a0
+kind: launch
+machine_hash: 14c3e9ecd327e3db38b26762aa51adca824c7f45d520a0215093cd33f766a285
 product: cursor
 product_name: Cursor
 record:
@@ -33,44 +34,33 @@ record:
       added in-editor UI polish, and introduced user approvals for background-generated
       memories to preserve trust.
     source_release: https://cursor.com/changelog/1-2
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: memories-is-now-ga-since-1-0-we-ve-improved-memory-generation-quality-added-in-e
+  slug: memories-now-ga
   source_release: cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d
   source_type: cursor_changelog
   theme: memory
-  theme_matches:
-  - matched_terms:
-    - memory
-    - memories
-    score: 160
-    theme: memory
-  - matched_terms:
-    - editor
-    score: 50
-    theme: editor-experience
-  title: Memories is now GA
+  title: Memories (now GA)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-03-free-users-in-eea-eu-uk-switzerland-norway-iceland-or-liechtenstein-will-see-a-p|Free
-  users in EEA (EU + UK), Switzerland, Norway, Iceland, or Liechtenstein will see…]]'
-- '[[Changes/ChatGPT/2025-06-03-outside-the-european-regions-listed-above-all-free-users-that-have-memory-enable|Outside
-  the European regions listed above, all Free users that have memory enabled…]]'
+- '[[Changes/ChatGPT/2025-06-03-opt-in-reminders-e08369|Opt‑in reminders]]'
+- '[[Changes/Cursor/2025-06-04-memories|Memories]]'
 - '[[Changes/ChatGPT/2025-06-12-improvements-to-memory-to-reference-past-chats-in-a-project|Improvements
   to memory to reference past chats in a project]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d]]'
 source_type: cursor_changelog
 theme: memory
-title: Memories is now GA
+title: Memories (now GA)
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Memories is now GA
+# Memories (now GA)
 
-**Cursor** · 2025-07-03 · [[Themes/memory|Memory and Personalization]] · [Official source](https://cursor.com/changelog/1-2) · from [[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|Agent Planning, Better Context & Faster Tab]]
+**Cursor** · 2025-07-03 · [[Themes/memory|Memory and Personalization]] · Launch · [Official source](https://cursor.com/changelog/1-2) · from [[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|Agent Planning, Better Context & Faster Tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -82,10 +72,17 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2025-07-03-agents-now-plan-ahead-with-structured-to-do-lists-making-long-horizon-tasks-easi|Agents now plan ahead with structured to-do lists, making long-horizon tasks easier…]] · Agent Mode
-- [[Changes/Cursor/2025-07-03-you-can-now-queue-follow-up-messages-for-agent-once-it-s-done-with-current-task|Queue follow-up messages for Agent once it's done with current task]] · Agent Mode
-- [[Changes/Cursor/2025-07-03-to-dos-are-also-visible-in-slack-if-integration-is-setup|To-dos are also visible in Slack if integration is setup!]] · Apps and Integrations
-- [[Changes/Cursor/2025-07-03-the-agent-breaks-down-longer-tasks-with-dependencies-visible-to-you-in-chat-and|The agent breaks down longer tasks with dependencies, visible to you in chat…]] · Agent Mode
+- [[Changes/Cursor/2025-07-03-chat-rendering-bugs-resolved-toolcall-display-overflow-issues|Chat rendering bugs resolved (toolcall display, overflow issues)]] · Interface Experience
+- [[Changes/Cursor/2025-07-03-let-agent-resolve-merge-conflicts|Let Agent resolve merge conflicts]] · Agent Mode
+- [[Changes/Cursor/2025-07-03-faster-tab|Faster Tab]] · Memory and Personalization
+- [[Changes/Cursor/2025-07-03-agent-to-dos-3ffa24|Agent To-dos]] · Agent Mode
+- [[Changes/Cursor/2025-07-03-2-apps-and-integrations-changes-in-1-2|2 Apps and Integrations changes in 1.2]] · Apps and Integrations
+- [[Changes/Cursor/2025-07-03-you-can-now-queue-follow-up-messages-for-agent-once-it-s-done-with-current-task|Queued messages]] · Agent Mode
+- [[Changes/Cursor/2025-07-03-4-reliability-and-performance-changes-in-1-2|4 Reliability and Performance changes in 1.2]] · Reliability and Performance
+- [[Changes/Cursor/2025-07-03-improved-embeddings-for-semantic-search|Improved embeddings for semantic search]] · Model Support
+- [[Changes/Cursor/2025-07-03-2-agent-mode-changes-in-1-2|2 Agent Mode changes in 1.2]] · Agent Mode
+- [[Changes/Cursor/2025-07-03-background-agent-improvements|Background Agent improvements]] · Agent Mode
+- [[Changes/Cursor/2025-07-03-pr-indexing-search|PR indexing & search]] · Context Window
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
@@ -98,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

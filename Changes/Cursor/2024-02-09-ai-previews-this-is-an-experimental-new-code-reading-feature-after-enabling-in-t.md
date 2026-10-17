@@ -4,8 +4,8 @@ date: '2024-02-09'
 description: 'Cursor · 2024-02-09 · Editor Experience: AI Previews: this is an experimental
   new code reading feature. After enabling in the "More" tab beside Chat, just hold…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 332
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 4ce0754dfe54c64bd0940f98a171e1cebe2e5b9bfa5795ca7752b1fab91fe79f
+kind: change
+machine_hash: 7edd99d0b8a5aedd6e7bc5720a5ad10e42cb38e6f7cc0b7325c83462369a4eb7
 product: cursor
 product_name: Cursor
 record:
@@ -35,8 +36,9 @@ record:
       notes about the symbol you''re on. If you''d like us to dedicate more time to
       this direction, please let us know.'
     source_release: https://cursor.com/changelog/0-26
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: ai-previews-this-is-an-experimental-new-code-reading-feature-after-enabling-in-t
@@ -48,8 +50,8 @@ record:
 related_changes:
 - '[[Changes/Cursor/2024-01-18-chat-lints-if-the-ai-suggests-a-code-change-in-chat-that-involves-a-made-up-code|Chat
   lints: If the AI suggests a code change in chat that involves a made up code…]]'
-- '[[Changes/Cursor/2024-02-02-hold-down-cmd-i-over-a-selection-to-heal-the-code-with-gpt-4-useful-for-writing|Hold
-  down cmd-I over a selection to heal the code with GPT-4]]'
+- '[[Changes/Cursor/2024-02-02-hold-down-cmd-i-over-a-selection-to-heal-the-code-with-gpt-4-useful-for-writing|Cmd-I
+  to Heal]]'
 - '[[Changes/Cursor/2024-02-09-copilot-quality-of-life-improvements-show-ghost-text-more-often-toggle-on-off-on|Copilot++
   quality of life improvements…]]'
 source_release: '[[Releases/Cursor/cursor-2024-02-09-0-26-https-cursor-com-changelog-0-26-9569782c|cursor-2024-02-09-0-26-https-cursor-com-changelog-0-26-9569782c]]'
@@ -82,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-02-02 · Cursor · [[Changes/Cursor/2024-02-02-hold-down-cmd-i-over-a-selection-to-heal-the-code-with-gpt-4-useful-for-writing|Hold down cmd-I over a selection to heal the code with GPT-4]]
-- Later: 2024-02-23 · Cursor · [[Changes/Cursor/2024-02-23-cursor-is-now-based-on-vs-code-1-86-2-among-other-things-this-adds-sticky-scroll|Cursor is now based on VS Code 1.86.2!]]
+- Earlier: 2024-02-02 · Cursor · [[Changes/Cursor/2024-02-02-hold-down-cmd-i-over-a-selection-to-heal-the-code-with-gpt-4-useful-for-writing|Cmd-I to Heal]]
+- Later: 2024-02-23 · Cursor · [[Changes/Cursor/2024-02-23-cursor-is-now-based-on-vs-code-1-86-2-among-other-things-this-adds-sticky-scroll|VS Code 1.86.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

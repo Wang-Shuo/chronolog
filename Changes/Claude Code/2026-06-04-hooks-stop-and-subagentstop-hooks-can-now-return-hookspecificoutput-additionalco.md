@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4eff9060ad3fcb067dbd0f695d54af9cb90597d4517f1e0ab5767a88c429b479
+machine_hash: 94157bd29f385df7b9c0ba431b157185e6fe16f35b0655934bbf35b29e98b8a1
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   Control now shows as a persistent footer pill (with a link to the session)…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988|claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: 'Hooks: Stop and SubagentStop hooks can now return…'
 type: change

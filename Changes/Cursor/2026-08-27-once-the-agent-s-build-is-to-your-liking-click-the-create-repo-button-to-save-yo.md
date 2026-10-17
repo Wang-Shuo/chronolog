@@ -5,8 +5,8 @@ description: 'Cursor · 2026-08-27 · Editor Experience: Once the agent''s build
   to your liking, click the Create repo button to save your work in an Origin repo.
   Choose a…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1262
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: 84ef302e85c1894b8b1e931d20b372a4d06a38e5fc83c842764505235a44c678
+kind: launch
+machine_hash: 6fb5dce4a12062bfa28d8b00fe1211540d7e59ba0b3c42fe5963305dea1c9bd6
 product: cursor
 product_name: Cursor
 record:
@@ -39,11 +40,12 @@ record:
       fully scaffolded Origin repo, ready to share or keep building on. Navigate to
       the Codebase tab to find your repo and access your project.
     source_release: https://cursor.com/changelog/start-from-scratch
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: once-the-agent-s-build-is-to-your-liking-click-the-create-repo-button-to-save-yo
+  slug: turn-it-into-a-real-repo-whenever-you-want
   source_release: cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae
   source_type: cursor_changelog
   theme: editor-experience
@@ -57,27 +59,25 @@ record:
     score: 50
     theme: editor-experience
   theme_resolution: manual-semantic-rule-v1
-  title: Once the agent's build is to your liking, click the Create repo button to
-    save…
+  title: Turn it into a real repo, whenever you want
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-21-added-emoji-shortcode-autocomplete-in-the-prompt-input-type-heart-to-insert-or-h|Added
-  emoji shortcode autocomplete in the prompt input]]'
-- '[[Changes/Cursor/2026-08-17-the-new-codebase-tab-is-home-for-origin-repos|The new
-  Codebase tab is home for Origin repos]]'
+- '[[Changes/Cursor/2026-08-17-pull-requests|Pull requests]]'
+- '[[Changes/Claude Code/2026-08-21-claude-in-chrome-clear-now-closes-the-session-s-chrome-tab-group-and-empty-group|Claude
+  in Chrome]]'
 - '[[Changes/Claude Code/2026-08-25-added-the-turn-s-completion-time-to-the-end-of-turn-duration-line-e-g-saut-ed-fo|Added
   the turn''s completion time to the end-of-turn duration line…]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae|cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: Once the agent's build is to your liking, click the Create repo button to save…
+title: Turn it into a real repo, whenever you want
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Once the agent's build is to your liking, click the Create repo button to save…
+# Turn it into a real repo, whenever you want
 
-**Cursor** · 2026-08-27 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://cursor.com/changelog/start-from-scratch) · from [[Releases/Cursor/cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae|Start from scratch, without a repo]]
+**Cursor** · 2026-08-27 · [[Themes/editor-experience|Editor Experience]] · Launch · [Official source](https://cursor.com/changelog/start-from-scratch) · from [[Releases/Cursor/cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae|Start from scratch, without a repo]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -90,20 +90,20 @@ type: change
 ## Also in this release
 
 - [[Changes/Cursor/2026-08-27-cloud-agents-no-longer-require-a-connected-github-or-other-third-party-scm-provi|Cloud Agents no longer require a connected GitHub or other third-party SCM provider…]] · Agent Mode
-- [[Changes/Cursor/2026-08-27-cursor-now-port-forwards-your-cloud-agent-s-live-environment-straight-to-your-br|Cursor now port-forwards your cloud agent's live environment straight…]] · Agent Mode
+- [[Changes/Cursor/2026-08-27-cursor-now-port-forwards-your-cloud-agent-s-live-environment-straight-to-your-br|A live preview, right in the browser]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
 - Earlier: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-added-the-turn-s-completion-time-to-the-end-of-turn-duration-line-e-g-saut-ed-fo|Added the turn's completion time to the end-of-turn duration line…]]
-- Later: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-added-a-diff-of-the-files-a-bash-command-changed-to-the-bash-tool-result-when-th|Added a diff of the files a Bash command changed to the Bash tool result…]]
+- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-2-editor-experience-changes-in-v2-1-257|2 Editor Experience changes in v2.1.257]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

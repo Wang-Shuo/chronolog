@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f78b351c18c5b864669280cda25300c7912f3702a6b02a93c1d12dd68ebc83b0
+machine_hash: 10784cb9eb71fb048a64f1350bb1c6575f2e370eda8cbfeb229f8044ec560b4f
 product: cursor
 product_name: Cursor
 record:
@@ -60,6 +60,7 @@ related_changes:
   a crash in the permission dialog when an agent teams teammate requested tool…]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-30-cursor-security-review-https-cursor-com-changelog-04-30-26-640898b1|cursor-2026-04-30-cursor-security-review-https-cursor-com-changelog-04-30-26-640898b1]]'
 source_type: cursor_changelog
+superseded: true
 theme: safety-privacy
 title: We're also continuously improving the runtime, harness, and models powering
   Cursor…

@@ -1,9 +1,9 @@
 ---
-changes_count: 2
+changes_count: 1
 date: '2026-05-06'
-description: 'Cursor release Context Usage Breakdown on 2026-05-06: 2 tracked changes
+description: 'Cursor release Context Usage Breakdown on 2026-05-06: 1 tracked change
   across Context Window'
-machine_hash: e30f297f99595c28741656a17eba1672815a023656ca4fcd8304d0c46ba3a6b9
+machine_hash: ae576dc91c736486dbf2ef881c5beafbdf243a9948fbdb55a4ca68c518e4da3c
 product: cursor
 product_name: Cursor
 record:
@@ -38,11 +38,10 @@ version: '3.3'
 <!-- chronolog:begin region="summary" -->
 You can now see a breakdown of your agent's context usage.
 
-Tracked 2 of 2 candidate lines.
+Tracked 1 card from 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-05-06-use-these-stats-to-diagnose-context-issues-and-improve-your-setup-across-rules-s|Use these stats to diagnose context issues and improve your setup across rules…]] · Context Window
-- [[Changes/Cursor/2026-05-06-you-can-now-see-a-breakdown-of-your-agent-s-context-usage|See a breakdown of your agent's context usage]] · Context Window
+- [[Changes/Cursor/2026-05-06-you-can-now-see-a-breakdown-of-your-agent-s-context-usage-e005b2|Context Usage Breakdown]] · Context Window
 <!-- chronolog:end -->

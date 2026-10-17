@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: fd5e10aa845932770c3c3f0c55b84e3edd0176187ed5038c717f88649d251b4e
+machine_hash: 6e69974d979e23d0ed8430894807679134623ef370659514498b344b1f121c40
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,6 +54,7 @@ related_changes:
   stale permission and dialog prompts reappearing every time you reattached…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c|claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed WebFetch(domain:.example.com) wildcard domain rules never matching…
 type: change

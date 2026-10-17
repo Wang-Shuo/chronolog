@@ -15,9 +15,10 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 1576e6a3b8927e671396bd441ba005a3ffb3dee94822b3873ccad1cb352cfb7a
+kind: change
+machine_hash: 18c6b768b49aa73c9839b3fe9c7cb49fa3f458c30e10ce45b4f4799c729dcb54
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
   - quote: '`claude auth login` now accepts the OAuth code pasted into the terminal
       when the browser callback can''t reach localhost (WSL2, SSH, containers)'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.126
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: claude-auth-login-now-accepts-the-oauth-code-pasted-into-the-terminal-when-the-b
@@ -53,11 +55,11 @@ record:
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-04-22-we-re-launching-chatgpt-for-clinicians-a-free-version-of-chatgpt-for-verified-cl|ChatGPT
-  launches ChatGPT for Clinicians, a free version of ChatGPT for verified…]]'
+  for Clinicians]]'
 - '[[Changes/Claude Code/2026-04-28-clarified-the-mcp-message-shown-when-an-mcp-server-is-still-unauthorized-after-t|Clarified
   the /mcp message shown when an MCP server is still unauthorized after…]]'
-- '[[Changes/ChatGPT/2026-04-30-we-re-rolling-out-advanced-account-security-an-optional-setting-for-personal-cha|ChatGPT
-  rolls out Advanced Account Security, an optional setting for personal…]]'
+- '[[Changes/ChatGPT/2026-04-30-we-re-rolling-out-advanced-account-security-an-optional-setting-for-personal-cha|Advanced
+  Account Security in ChatGPT]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb|claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb]]'
 source_type: github_releases
 theme: account-access
@@ -80,16 +82,18 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-05-01-2-model-support-changes-in-v2-1-126|2 Model Support changes in v2.1.126]] · Model Support
 - [[Changes/Claude Code/2026-05-01-claude-code-skill-activated-opentelemetry-event-now-fires-for-user-typed-slash-c|claude_code.skill_activated OpenTelemetry event now fires for user-typed slash…]] · Automation and Scheduling
+- [[Changes/Claude Code/2026-05-01-3-developer-workflow-changes-in-v2-1-126|3 Developer Workflow changes in v2.1.126]] · Developer Workflow
+- [[Changes/Claude Code/2026-05-01-3-safety-and-privacy-changes-in-v2-1-126|3 Safety and Privacy changes in v2.1.126]] · Safety and Privacy
 - [[Changes/Claude Code/2026-05-01-added-claude-project-purge-path-to-delete-all-claude-code-state-for-a-project-tr|- Added claude project purge path to delete all Claude Code state for a project…]] · Projects and Workspaces
-- [[Changes/Claude Code/2026-05-01-dangerously-skip-permissions-now-bypasses-prompts-for-writes-to-claude-git-vscod|--dangerously-skip-permissions now bypasses prompts for writes to .claude/…]] · Safety and Privacy
-- [[Changes/Claude Code/2026-05-01-the-model-picker-now-lists-models-from-your-gateway-s-v1-models-endpoint-when-an|The /model picker now lists models from your gateway's /v1/models endpoint…]] · Model Support
+- [[Changes/Claude Code/2026-05-01-powershell-tool-bare-e-g-git-diff-file-is-no-longer-mis-flagged-as-the-stop-pars|PowerShell tool: bare -- (e.g. git diff -- file) is no longer mis-flagged…]] · Editor Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-04-30 · ChatGPT · [[Changes/ChatGPT/2026-04-30-we-re-rolling-out-advanced-account-security-an-optional-setting-for-personal-cha|ChatGPT rolls out Advanced Account Security, an optional setting for personal…]]
+- Earlier: 2026-04-30 · ChatGPT · [[Changes/ChatGPT/2026-04-30-we-re-rolling-out-advanced-account-security-an-optional-setting-for-personal-cha|Advanced Account Security in ChatGPT]]
 - Later: 2026-05-04 · Claude Code · [[Changes/Claude Code/2026-05-04-channels-now-works-with-console-api-key-authentication-console-orgs-with-managed|--channels now works with console (API key) authentication]]
 <!-- chronolog:end -->
 

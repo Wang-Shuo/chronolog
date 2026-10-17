@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0092e1d3590a79f25e28f4335f57ac04c8ca86a74c61259379df957d79a3b55c
+machine_hash: 89f1e59c479b2296388dc2b9ae622c8b1dd47026c1d6b92ab56b4fa7a113decf
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   support for Amazon Bedrock powered by Mantle, set CLAUDE_CODE_USE_MANTLE=1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-07-v2-1-94-github-306300914-5622fba4|claude-code-2026-04-07-v2-1-94-github-306300914-5622fba4]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added compact Slacked ♯channel header with a clickable channel link for Slack
   MCP…

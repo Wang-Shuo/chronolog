@@ -4,8 +4,8 @@ date: '2026-01-12'
 description: 'ChatGPT · 2026-01-12 · Voice and Audio: We’re improving our dictation
   capabilities in ChatGPT for all logged-in users, significantly reducing empty…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use
-    voice to engage in a back-and-forth conversation with your assistant]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
+    are beginning to roll out new voice and image capabilities in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 840
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f06a42b99153c3aab9cab9595c80f793f0c757e806d0faae94b40367651e463f
+kind: change
+machine_hash: d2deabfb937c561fff19c6c0bf758c971c53eab16373df05ed937af79d0db923
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,19 +31,20 @@ record:
   - quote: We’re improving our dictation capabilities in ChatGPT for all logged-in
       users, significantly reducing empty transcriptions and improving accuracy.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-improving-our-dictation-capabilities-in-chatgpt-for-all-logged-in-users-si
   source_release: chatgpt-2026-01-12-dictation-updates-a47f3da4
   source_type: chatgpt_changelog
   theme: voice
-  title: We’re improving our dictation capabilities in ChatGPT for all logged-in users…
+  title: Dictation Updates
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-25-refer-back-to-earlier-messages-without-interrupting-the-conversation|Refer
-  back to earlier messages without interrupting the conversation]]'
+- '[[Changes/ChatGPT/2025-11-25-we-re-making-chatgpt-voice-a-seamless-part-of-the-chatgpt-experience-so-you-can-2bc316|We’re
+  making ChatGPT Voice a seamless part of the ChatGPT experience, so you can use…]]'
 - '[[Changes/ChatGPT/2025-12-11-we-re-retiring-the-voice-experience-in-the-chatgpt-macos-app-on-january-15-2026|We’re
   retiring the Voice experience in the ChatGPT macOS app on January 15, 2026]]'
 - '[[Changes/ChatGPT/2025-12-11-voice-will-continue-to-be-available-on-chatgpt-com-ios-android-and-windows-app|Voice
@@ -50,12 +52,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-12-dictation-updates-a47f3da4|chatgpt-2026-01-12-dictation-updates-a47f3da4]]'
 source_type: chatgpt_changelog
 theme: voice
-title: We’re improving our dictation capabilities in ChatGPT for all logged-in users…
+title: Dictation Updates
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We’re improving our dictation capabilities in ChatGPT for all logged-in users…
+# Dictation Updates
 
 **ChatGPT** · 2026-01-12 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-01-12-dictation-updates-a47f3da4|Dictation Updates]]
 <!-- chronolog:end -->
@@ -74,13 +76,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-12-11 · ChatGPT · [[Changes/ChatGPT/2025-12-11-voice-will-continue-to-be-available-on-chatgpt-com-ios-android-and-windows-app|Voice will continue to be available on chatgpt.com, iOS, Android, and Windows app]]
-- Later: 2026-01-20 · ChatGPT · [[Changes/ChatGPT/2026-01-20-we-re-making-an-update-to-chatgpt-voice-for-paid-users-that-improves-its-ability|We’re making an update to ChatGPT Voice for paid users that improves its ability…]]
+- Later: 2026-01-20 · ChatGPT · [[Changes/ChatGPT/2026-01-20-we-re-making-an-update-to-chatgpt-voice-for-paid-users-that-improves-its-ability|Voice Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use voice to engage in a back-and-forth conversation with your assistant]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

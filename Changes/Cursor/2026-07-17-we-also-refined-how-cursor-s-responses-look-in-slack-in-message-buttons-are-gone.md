@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1ea01cd73b3a4c3a91155420c9b62316208db38834ba18fb690a48b0a1cdc8e8
+machine_hash: cf897464d03a19d6aa5306c41becd28ebf35158e6df9043c17c6f87efe2cf1f8
 product: cursor
 product_name: Cursor
 record:
@@ -52,6 +52,7 @@ related_changes:
   in Slack now shares a plan before it starts, runs in multi-repo environments…]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6|cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: We also refined how Cursor's responses look in Slack
 type: change

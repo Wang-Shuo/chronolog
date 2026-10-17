@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1a43692574d2f0caead1356412db4b240d25150f79fbc6937e892cb7b4a32792
+machine_hash: 70d84e374af39a3f7edf0dbdae40d8959c7c4a343ec656644f872bcfbcb0585b
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   .jj and .sl to VCS directory exclusion lists so Grep and file autocomplete…]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: You can switch back to the IDE anytime, or have both open simultaneously
 type: change

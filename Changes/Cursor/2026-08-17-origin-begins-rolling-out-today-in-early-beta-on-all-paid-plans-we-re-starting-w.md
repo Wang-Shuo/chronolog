@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 7f16201a670edae110f1e9aa967d6c48df032f2e1bc92d91e19f702affdfac29
+machine_hash: 3b04a0d147a160b25f72ecd9b000dd576002c0c122e8ba2e24349f34db5fd1f5
 product: cursor
 product_name: Cursor
 record:
@@ -64,6 +64,7 @@ related_changes:
   you have the Google Drive plugin connected, you can now see and browse…]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-17-origin-code-hosting-https-cursor-com-changelog-origin-code-hosti-ed3a9195|cursor-2026-08-17-origin-code-hosting-https-cursor-com-changelog-origin-code-hosti-ed3a9195]]'
 source_type: cursor_changelog
+superseded: true
 theme: search-browsing
 title: Origin begins rolling out today in early beta on all paid plans
 type: change

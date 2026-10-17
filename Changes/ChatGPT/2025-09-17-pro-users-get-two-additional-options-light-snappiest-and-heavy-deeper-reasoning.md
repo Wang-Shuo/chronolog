@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 91823fa964956f622c3a2a0823d9f6851167aa5e5243594e566160238cd8ef91
+machine_hash: c034cdf293148da8db14d7f3688f92bee94a1d2124a7b26e9f3eaa8af80d1e47
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,6 +51,7 @@ related_changes:
   Fewer hallucinations, improving answer quality]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c|chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: 'Pro users get two additional options: Light (snappiest) and Heavy (deeper
   reasoning)'

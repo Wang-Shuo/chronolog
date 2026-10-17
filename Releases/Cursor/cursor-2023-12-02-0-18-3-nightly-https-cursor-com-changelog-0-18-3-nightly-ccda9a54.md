@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-12-02'
 description: 'Cursor release Smarter Followups on 2023-12-02: 1 tracked change across
   Editor Experience'
-machine_hash: e0639090a0577c1af6f63db0d4269d4ab0605074440eab6caae102944d8f57ae
+machine_hash: b035c7dbda7f9ebf9001a13da4bf12100558e5c61fa3c5e1e8244e24f733a417
 product: cursor
 product_name: Cursor
 record:
@@ -39,10 +39,10 @@ version: 0.18.3-nightly
 <!-- chronolog:begin region="summary" -->
 Running Cmd+enter on followups should result in much better codebase results.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-12-02-running-cmd-enter-on-followups-should-result-in-much-better-codebase-results|Running Cmd+enter on followups should result in much better codebase results]] · Editor Experience
+- [[Changes/Cursor/2023-12-02-running-cmd-enter-on-followups-should-result-in-much-better-codebase-results|Smarter Followups]] · Editor Experience
 <!-- chronolog:end -->

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 383925b6318d4c34d0606fb8a16dc188a359450d52847b4c598fa620642c88af
+machine_hash: c764c54b4113c645ffd355a73e276845bc6267ed474ce9668e3f21ddbfdce982
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,6 +58,7 @@ related_changes:
   in .claude/skills directories are now automatically loaded, no marketplace…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8|claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added autocomplete for /plugin arguments
 type: change

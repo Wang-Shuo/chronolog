@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5a1851018d0ad54659479c2f4deb16e4535f2c93214ac3a48e43b6fc989c8435
+machine_hash: 607a484fffd0bae8e13cd62d812c812ae2c79a930dde6ea2b98f487938792e1c
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   agents run in isolated virtual machines with full development environments…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab|claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Subagents now run in the background by default, so Claude keeps working while
   they…

@@ -5,19 +5,19 @@ description: 'ChatGPT · 2026-09-03 · Collaboration: Eligible Site owners can n
   a live ChatGPT Site with named people outside their workspace, without making the
   Site…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
-    can also share private docs]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1091
+  lag_days: 1198
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: bf2156bd9f2d2f9f580b0ca38f02217c5179fdc8cb1106037db65745893a120b
+kind: change
+machine_hash: c9b558d2fd394734a15aa6bdfc323c91ac197190fb338c7cd778a49a74cc8431
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,21 +40,20 @@ record:
       viewers in the Site’s sharing controls. Learn more in Creating and managing
       ChatGPT Sites.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside
   source_release: chatgpt-2026-09-03-share-sites-with-people-outside-your-workspace-88fde38a
   source_type: chatgpt_changelog
   theme: collaboration
-  title: Eligible Site owners can now share a live ChatGPT Site with named people
-    outside…
+  title: Share Sites with people outside your workspace
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-13-the-initial-experience-includes-my-drive-and-files-and-folders-shared-directly-w|The
-  initial experience includes My Drive and files and folders shared directly with
-  you]]'
+- '[[Changes/Claude Code/2026-08-17-removed-the-default-teammate-model-setting-from-config-agent-team-teammates-now|Removed
+  the "Default teammate model" setting from /config]]'
 - '[[Changes/ChatGPT/2026-08-20-share-a-read-only-snapshot-of-a-codex-chat-personal-share-links-can-be-opened-by|Share
   a read-only snapshot of a Codex chat]]'
 - '[[Changes/ChatGPT/2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o|Share
@@ -62,12 +61,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-03-share-sites-with-people-outside-your-workspace-88fde38a|chatgpt-2026-09-03-share-sites-with-people-outside-your-workspace-88fde38a]]'
 source_type: chatgpt_changelog
 theme: collaboration
-title: Eligible Site owners can now share a live ChatGPT Site with named people outside…
+title: Share Sites with people outside your workspace
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Eligible Site owners can now share a live ChatGPT Site with named people outside…
+# Share Sites with people outside your workspace
 
 **ChatGPT** · 2026-09-03 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-03-share-sites-with-people-outside-your-workspace-88fde38a|Share Sites with people outside your workspace]]
 <!-- chronolog:end -->
@@ -92,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d9dce6946578e952746e28647bd0258cb2a9adc165c6944088e8179db2af44ac
+machine_hash: ee9d1b919126a5532bf23d12aeb0aa1b6c4cd7f530cd952ea8034c1959387129
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,6 +47,7 @@ related_changes:
   On: users get the plugin installed by default, but can opt out]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2|claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: --plugin-dir now accepts .zip plugin archives in addition to directories
 type: change

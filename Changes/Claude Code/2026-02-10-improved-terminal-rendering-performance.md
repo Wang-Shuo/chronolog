@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 876fbdd4abe2960134232636ce1eea7a572422886a17d5a2090c525abae6539e
+kind: change
+machine_hash: fd149c5664c1ee52532315c76ef451a837f27c20b86e9de10cb53bcdfd440c3c
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,8 +28,9 @@ record:
   evidence:
   - quote: Improved terminal rendering performance
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.39
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-terminal-rendering-performance
@@ -48,12 +50,12 @@ record:
   title: Improved terminal rendering performance
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-30-responses-in-chatgpt-are-now-more-visual-and-easier-to-scan-for-everyday-questio|Responses
-  in ChatGPT are now more visual and easier to scan]]'
-- '[[Changes/Claude Code/2026-02-06-improved-error-messages-for-api-connection-failures-now-shows-specific-cause-e-g|Improved
-  error messages for API connection failures]]'
-- '[[Changes/ChatGPT/2026-02-10-we-re-introducing-improvements-to-deep-research-in-chatgpt-to-help-produce-more|ChatGPT
-  introduces improvements to deep research to help produce more accurate…]]'
+- '[[Changes/Claude Code/2026-02-05-vscode-added-spinner-when-loading-past-conversations-list|VSCode:
+  Added spinner when loading past conversations list]]'
+- '[[Changes/Claude Code/2026-02-06-2-interface-experience-changes-in-v2-1-33|2 Interface
+  Experience changes in v2.1.33]]'
+- '[[Changes/ChatGPT/2026-02-10-we-re-introducing-improvements-to-deep-research-in-chatgpt-to-help-produce-more|Updates
+  to deep research]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-10-v2-1-39-github-285039385-cbd00caf|claude-code-2026-02-10-v2-1-39-github-285039385-cbd00caf]]'
 source_type: github_releases
 theme: interface-experience
@@ -80,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-10 · ChatGPT · [[Changes/ChatGPT/2026-02-10-we-re-introducing-improvements-to-deep-research-in-chatgpt-to-help-produce-more|ChatGPT introduces improvements to deep research to help produce more accurate…]]
+- Earlier: 2026-02-10 · ChatGPT · [[Changes/ChatGPT/2026-02-10-we-re-introducing-improvements-to-deep-research-in-chatgpt-to-help-produce-more|Updates to deep research]]
 - Later: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-quick-tools-in-the-composer-a-new-quick-tools-menu-in-the-message-composer-makes|Quick tools in the composer]]
 <!-- chronolog:end -->
 

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 28775d8f7553a31ae55b3f414f696564081c7a6938fb9f37e63adabdf67e9250
+machine_hash: de9f78ed01a1c8f061c96d1cd0b90dc1580824426904e125873aeaff53ac1d58
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   an auto mode rule that blocks tampering with session transcript files]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba|claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Improved agent view
 type: change

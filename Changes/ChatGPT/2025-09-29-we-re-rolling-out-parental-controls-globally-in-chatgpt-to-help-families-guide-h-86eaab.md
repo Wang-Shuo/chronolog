@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 38a25574b23d9c659775e79589af7aa505c09d4db5e3548901154216126c6011
+machine_hash: 5ba7131b26487860dbaba3afa6c6492ced2591324cf05b217de8816571bdf339
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -86,6 +86,7 @@ related_changes:
   expands Background Agent to all users!]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|chatgpt-2025-09-29-parental-controls-8b95b69a]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: safety-privacy
 title: ChatGPT rolls out parental controls globally to help families guide how ChatGPT…
 type: change

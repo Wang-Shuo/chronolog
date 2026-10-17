@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 352e0b818c73892512bf1f1cf949567dfb1ae6ac0acaaa471dd5202c2c463ab9
+machine_hash: 6c0e540f1703f84271f775509fffe16fe88a6f2db785d2ae74be3c51a8e16b5b
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   stability around how the agent respects auto-run preferences to prevent…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-3-github-275638643-101f767c|claude-code-2026-01-09-v2-1-3-github-275638643-101f767c]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Added detection and warnings for unreachable permission rules, with warnings…
 type: change

@@ -1,9 +1,9 @@
 ---
-changes_count: 3
+changes_count: 4
 date: '2026-10-13'
-description: 'Cursor release Origin App Marketplace on 2026-10-13: 3 tracked changes
+description: 'Cursor release Origin App Marketplace on 2026-10-13: 4 tracked changes
   across Apps and Integrations, Collaboration, Safety and Privacy'
-machine_hash: fad422c764f4c4e39b55e566dbbe51090f968d175bad37cf397ee60f028f22d1
+machine_hash: 7e46a13176406c99e1c8ad9e6bf38efbb8dba08377d536d84d89fb1fa78d8fcc
 product: cursor
 product_name: Cursor
 record:
@@ -40,12 +40,13 @@ version: Origin App Marketplace
 <!-- chronolog:begin region="summary" -->
 Origin now integrates with over 20 apps for deployments, CI, code review, security, monitoring, and project management, from partners including Cloudflare, Linear, Sentry, and Socket Security.
 
-Tracked 3 of 17 candidate lines.
+Tracked 4 cards from 17 candidate lines; 6 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - [[Changes/Cursor/2026-10-13-origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security|Origin now integrates with over 20 apps for deployments, CI, code review, security…]] · Safety and Privacy
-- [[Changes/Cursor/2026-10-13-the-marketplace-now-includes-apps-for|The marketplace now includes apps for]] · Apps and Integrations
+- [[Changes/Cursor/2026-10-13-2-apps-and-integrations-changes-in-origin-app-marketplace|2 Apps and Integrations changes in Origin App Marketplace]] · Apps and Integrations · Digest
+- [[Changes/Cursor/2026-10-13-apps-for-your-stack|Apps for your stack]] · Apps and Integrations · Launch
 - [[Changes/Cursor/2026-10-13-starting-today-the-marketplace-is-also-open-to-public-submissions-so-any-team-bu|Starting today, the marketplace is also open to public submissions, so any team…]] · Collaboration
 <!-- chronolog:end -->

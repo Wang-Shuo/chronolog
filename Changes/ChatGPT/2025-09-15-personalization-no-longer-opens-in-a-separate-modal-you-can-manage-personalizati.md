@@ -4,8 +4,8 @@ date: '2025-09-15'
 description: 'ChatGPT · 2025-09-15 · Memory and Personalization: Personalization no
   longer opens in a separate modal. You can manage personalization, choose a ChatGPT…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 788
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: d42ff01110d7b0057ff0e0ab655ccc5c3fe477e61bb52b822e7a962c8c93af21
+kind: change
+machine_hash: 330f059ebfe2026246befd5da93c965a9c176bdb7fffe4216f783b99a28ebf9b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,32 +33,33 @@ record:
       choose a ChatGPT personality, add custom instructions, and update Memory directly
       in Settings → Personalization.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: personalization-no-longer-opens-in-a-separate-modal-you-can-manage-personalizati
   source_release: chatgpt-2025-09-15-personalization-settings-are-now-in-settings-bdb1bffc
   source_type: chatgpt_changelog
   theme: memory
-  title: Personalization no longer opens in a separate modal
+  title: Personalization settings are now in Settings
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses|Longer
+- '[[Changes/ChatGPT/2025-07-29-personalize-responses-based-on-your-past-chats-if-memory-is-on-using-examples-an|Personalize
+  responses based on your past chats if memory is on, using examples…]]'
+- '[[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses-4644fd|Longer
   memory for more personalized responses]]'
-- '[[Changes/ChatGPT/2025-08-22-personal-memory-must-be-enabled-to-utilize-this-feature-settings-personalization|Personal
-  Memory must be enabled to utilize this feature]]'
-- '[[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-aa77f4|An
+- '[[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-87f79a|An
   improvement to projects is now available]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-15-personalization-settings-are-now-in-settings-bdb1bffc|chatgpt-2025-09-15-personalization-settings-are-now-in-settings-bdb1bffc]]'
 source_type: chatgpt_changelog
 theme: memory
-title: Personalization no longer opens in a separate modal
+title: Personalization settings are now in Settings
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Personalization no longer opens in a separate modal
+# Personalization settings are now in Settings
 
 **ChatGPT** · 2025-09-15 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-15-personalization-settings-are-now-in-settings-bdb1bffc|Personalization settings are now in Settings]]
 <!-- chronolog:end -->
@@ -75,14 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-08-22 · ChatGPT · [[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-aa77f4|An improvement to projects is now available]]
+- Earlier: 2025-08-22 · ChatGPT · [[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-87f79a|An improvement to projects is now available]]
 - Later: 2025-09-22 · ChatGPT · [[Changes/ChatGPT/2025-09-22-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

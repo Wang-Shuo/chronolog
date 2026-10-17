@@ -5,8 +5,8 @@ description: 'Claude Code · 2026-02-20 · Apps and Integrations: `CLAUDE_CODE_S
   mode now also disables MCP tools, attachments, hooks, and CLAUDE.md file loading
   for a…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1065
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 259e73ca908cdfcc99081cad5e4e74a176c74626b7898a3a229719a3c3d044aa
+kind: change
+machine_hash: f322509c91622e94a3235ef446ff69c97e9aaa1262cb69d3af61853c9e909094
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
   - quote: '`CLAUDE_CODE_SIMPLE` mode now also disables MCP tools, attachments, hooks,
       and CLAUDE.md file loading for a fully minimal experience.'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.50
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: claude-code-simple-mode-now-also-disables-mcp-tools-attachments-hooks-and-claude
@@ -42,12 +44,12 @@ record:
   title: '`CLAUDE_CODE_SIMPLE` mode now also disables MCP tools, attachments, hooks…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-17-browse-plugins-at-cursor-com-marketplace-or-install-directly-in-the-editor-with|Browse
-  plugins at cursor.com/marketplace or install directly in the editor…]]'
-- '[[Changes/Cursor/2026-02-17-our-initial-partners-include-amplitude-aws-figma-linear-stripe-and-more-these-pl|Our
-  initial partners include Amplitude, AWS, Figma, Linear, Stripe, and more]]'
+- '[[Changes/Cursor/2026-02-18-3-apps-and-integrations-changes-in-cli-improvements-and-mermaid-ascii|3
+  Apps and Integrations changes in CLI Improvements and Mermaid ASCII…]]'
 - '[[Changes/ChatGPT/2026-02-19-preview-diagrams-and-mini-apps-directly-in-chat|Preview
   diagrams and mini apps directly in chat]]'
+- '[[Changes/Claude Code/2026-02-19-2-apps-and-integrations-changes-in-v2-1-49|2 Apps
+  and Integrations changes in v2.1.49]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-20-v2-1-50-github-288920711-09694b82|claude-code-2026-02-20-v2-1-50-github-288920711-09694b82]]'
 source_type: github_releases
 theme: apps-integrations
@@ -70,23 +72,23 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-02-20-added-support-for-isolation-worktree-in-agent-definitions-allowing-agents-to-dec|Added support for isolation: worktree in agent definitions, allowing agents…]] · Agent Mode
-- [[Changes/Claude Code/2026-02-20-added-worktreecreate-and-worktreeremove-hook-events-enabling-custom-vcs-setup-an|Added WorktreeCreate and WorktreeRemove hook events, enabling custom VCS setup…]] · Developer Workflow
-- [[Changes/Claude Code/2026-02-20-improved-memory-usage-during-long-sessions-by-clearing-internal-caches-after-com|Improved memory usage during long sessions by clearing internal caches after compaction]] · Reliability and Performance
-- [[Changes/Claude Code/2026-02-20-added-support-for-startuptimeout-configuration-for-lsp-servers|Added support for startupTimeout configuration for LSP servers]] · Developer Workflow
+- [[Changes/Claude Code/2026-02-20-2-agent-mode-changes-in-v2-1-50|2 Agent Mode changes in v2.1.50]] · Agent Mode
+- [[Changes/Claude Code/2026-02-20-3-developer-workflow-changes-in-v2-1-50|3 Developer Workflow changes in v2.1.50]] · Developer Workflow
+- [[Changes/Claude Code/2026-02-20-3-reliability-and-performance-changes-in-v2-1-50|3 Reliability and Performance changes in v2.1.50]] · Reliability and Performance
+- [[Changes/Claude Code/2026-02-20-2-context-window-changes-in-v2-1-50|2 Context Window changes in v2.1.50]] · Context Window
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-19 · ChatGPT · [[Changes/ChatGPT/2026-02-19-preview-diagrams-and-mini-apps-directly-in-chat|Preview diagrams and mini apps directly in chat]]
-- Later: 2026-02-24 · Claude Code · [[Changes/Claude Code/2026-02-24-added-support-for-custom-npm-registries-and-specific-version-pinning-when-instal|Added support for custom npm registries and specific version pinning when installing…]]
+- Earlier: 2026-02-19 · Claude Code · [[Changes/Claude Code/2026-02-19-2-apps-and-integrations-changes-in-v2-1-49|2 Apps and Integrations changes in v2.1.49]]
+- Later: 2026-02-24 · Claude Code · [[Changes/Claude Code/2026-02-24-4-apps-and-integrations-changes-in-v2-1-51|4 Apps and Integrations changes in v2.1.51]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

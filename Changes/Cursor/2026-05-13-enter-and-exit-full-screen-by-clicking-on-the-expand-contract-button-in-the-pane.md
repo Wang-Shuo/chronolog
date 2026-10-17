@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ffb6ef482fa1b89069d6c51c645ac1548e05a70dbe60739cbb654b0ccb7d2c21
+machine_hash: 01c46794a34caa610a9337f64cccda9ddb40f510b2618a371674c3f211c73055
 product: cursor
 product_name: Cursor
 record:
@@ -51,6 +51,7 @@ related_changes:
   screen maximizes the right panel so you can focus on a single tab]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d|cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d]]'
 source_type: cursor_changelog
+superseded: true
 theme: interface-experience
 title: Enter and exit full screen by clicking on the expand/contract button in the
   panel…

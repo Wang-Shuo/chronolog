@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e6177bd94adc168b096c772c91f7a9b175c22ba83bc8e974c823e485ffff4e47
+machine_hash: 459ff71bd02500d89ca88b8b70974d7cd72e7fe4fc6309cf5921e7de3738e3dc
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   onFailure: "block" for command and HTTP hooks: a hook that can''t start…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added a warning to claude plugin install, enable, disable…
 type: change

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e76dbd2a7b1040cf92b65990d4837301c5ac951bb09bacc2e426e48c5c27c553
+machine_hash: d12bd806e4fa62fca6e4938878c798445a4f443fbdf15aa1d98b6c01d1717e10
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -62,6 +62,7 @@ related_changes:
   globally on supported Plus, Pro, Business, and Enterprise plans across…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-31-use-the-browser-extension-in-more-browsers-87a64682|chatgpt-2026-08-31-use-the-browser-extension-in-more-browsers-87a64682]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: mobile-desktop
 title: Side chat is available in Edge, Brave, and Vivaldi
 type: change

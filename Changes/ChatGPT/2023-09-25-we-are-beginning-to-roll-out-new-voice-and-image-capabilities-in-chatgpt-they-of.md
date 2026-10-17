@@ -5,19 +5,20 @@ description: 'ChatGPT · 2023-09-25 · Voice and Audio: We are beginning to roll
   new voice and image capabilities in ChatGPT. They offer a new, more intuitive type
   of…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use
-    voice to engage in a back-and-forth conversation with your assistant]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
+    are beginning to roll out new voice and image capabilities in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 0
   relation: same-theme-chronology
-  role: later-observed
+  role: first-observed
   scope: tracked-products-only
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: e6289b8964c776fbf66770e983d663b75a40cc054d8940faabe5f243caed4160
+kind: change
+machine_hash: a25e140e8e899a47f44107823e29ac93b060cd186dbe8789a2aebcbb9987d8c5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,8 +36,9 @@ record:
       They offer a new, more intuitive type of interface by allowing you to have a
       voice conversation or show ChatGPT what you’re talking about. Learn more here.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of
@@ -45,9 +47,6 @@ record:
   theme: voice
   title: We are beginning to roll out new voice and image capabilities in ChatGPT
   type: change
-related_changes:
-- '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use
-  voice to engage in a back-and-forth conversation with your assistant]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7|chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -70,20 +69,20 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use voice to engage in a back-and-forth conversation with your assistant]] · Voice and Audio
-- [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Show ChatGPT one or more images]] · Mobile and Desktop
+- [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]] · Mobile and Desktop
+- [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image input will be generally available to Plus users on all platforms]] · Multimodal Input
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Later: 2023-11-21 · ChatGPT · [[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p|ChatGPT with voice is now available to all free users]]
+- Later: 2023-11-21 · ChatGPT · [[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p|ChatGPT with voice is available to all users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use voice to engage in a back-and-forth conversation with your assistant]]
+- Earliest same-theme entry among the 3 tracked products.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

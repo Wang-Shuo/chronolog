@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-09-05'
 description: 'Cursor release Docs updates on 2023-09-05: 1 tracked change across Reliability
   and Performance'
-machine_hash: b1ab8a5b73a7ad8ed19b302467a19145cb18367dbaf20fb8cd6eb897a2b50a9f
+machine_hash: 6a8cf393607c67a36d3ba1394bc138c91d16189a3f7ae79bb0ba6ae1c150e094
 product: cursor
 product_name: Cursor
 record:
@@ -40,10 +40,10 @@ version: 0.9.6-nightly
 <!-- chronolog:begin region="summary" -->
 Updates to docs (try pasting a link in chat, you can delete/edit docs, you can see citations), @ symbol performance on long files in chat should improve, and more.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-09-05-updates-to-docs-try-pasting-a-link-in-chat-you-can-delete-edit-docs-you-can-see|Updates to docs…]] · Reliability and Performance
+- [[Changes/Cursor/2023-09-05-updates-to-docs-try-pasting-a-link-in-chat-you-can-delete-edit-docs-you-can-see|Docs updates]] · Reliability and Performance
 <!-- chronolog:end -->

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e2d4ab04215b3081286bab790eef21e15cf455c8ac862844a289f63ff8f2ca8b
+machine_hash: f0e70b6f6f0d8a4af5256272faff9305e6534e076e149dc2d9d6e49899761d8c
 product: cursor
 product_name: Cursor
 record:
@@ -54,6 +54,7 @@ related_changes:
   keep-coding-instructions frontmatter field support for plugin output styles]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11|cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: It looks at reactions and replies to Bugbot comments and comments from human…
 type: change

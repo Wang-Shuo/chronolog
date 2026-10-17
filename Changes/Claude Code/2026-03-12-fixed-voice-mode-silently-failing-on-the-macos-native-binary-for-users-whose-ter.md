@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f4822592cbe09e09caf4df56ebe3412b0bf462e867c129b693eb2e3c22830dc1
+kind: fix
+machine_hash: 40bca5f5af3f201a2a54d0a7742c72fae69eef2cc6fd8ca59d6310e7fc97926a
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
       whose terminal had never been granted microphone permission — the binary now
       includes the `audio-input` entitlement so macOS prompts correctly
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.74
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: fix
   product: claude-code
   product_name: Claude Code
   slug: fixed-voice-mode-silently-failing-on-the-macos-native-binary-for-users-whose-ter
@@ -57,10 +59,10 @@ record:
   title: Fixed voice mode silently failing on the macOS native binary for users whose…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-05-when-invoked-the-agent-spins-up-a-cloud-sandbox-and-follows-your-instructions-us|When
-  invoked, the agent spins up a cloud sandbox and follows your instructions using…]]'
 - '[[Changes/Claude Code/2026-03-07-fixed-false-positive-permission-prompts-for-compound-bash-commands-containing-he|Fixed
   false-positive permission prompts for compound bash commands containing…]]'
+- '[[Changes/Claude Code/2026-03-10-6-safety-and-privacy-changes-in-v2-1-72|6 Safety
+  and Privacy changes in v2.1.72]]'
 - '[[Changes/Claude Code/2026-03-11-fixed-freezes-and-100-cpu-loops-triggered-by-permission-prompts-for-complex-bash|Fixed
   freezes and 100% CPU loops triggered by permission prompts for complex bash commands]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae|claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae]]'
@@ -73,7 +75,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Fixed voice mode silently failing on the macOS native binary for users whose…
 
-**Claude Code** · 2026-03-12 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.74) · from [[Releases/Claude Code/claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae|v2.1.74]]
+**Claude Code** · 2026-03-12 · [[Themes/safety-privacy|Safety and Privacy]] · Fix · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.74) · from [[Releases/Claude Code/claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae|v2.1.74]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -85,8 +87,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-03-12-added-automemorydirectory-setting-to-configure-a-custom-directory-for-auto-memor|Added autoMemoryDirectory setting to configure a custom directory for auto-memory…]] · Memory and Personalization
-- [[Changes/Claude Code/2026-03-12-added-actionable-suggestions-to-context-command-identifies-context-heavy-tools-m|Added actionable suggestions to /context command]] · Memory and Personalization
+- [[Changes/Claude Code/2026-03-12-2-memory-and-personalization-changes-in-v2-1-74|2 Memory and Personalization changes in v2.1.74]] · Memory and Personalization
 - [[Changes/Claude Code/2026-03-12-vscode-improved-scroll-wheel-responsiveness-in-the-integrated-terminal-with-term|VSCode Improved scroll wheel responsiveness in the integrated terminal…]] · Developer Workflow
 - [[Changes/Claude Code/2026-03-12-changed-plugin-dir-so-local-dev-copies-now-override-installed-marketplace-plugin|Changed --plugin-dir so local dev copies now override installed marketplace…]] · Apps and Integrations
 <!-- chronolog:end -->
@@ -95,7 +96,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-fixed-freezes-and-100-cpu-loops-triggered-by-permission-prompts-for-complex-bash|Fixed freezes and 100% CPU loops triggered by permission prompts for complex bash commands]]
-- Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-added-allowread-sandbox-filesystem-setting-to-re-allow-read-access-within-denyre|Added allowRead sandbox filesystem setting to re-allow read access within…]]
+- Later: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-3-safety-and-privacy-changes-in-v2-1-76|3 Safety and Privacy changes in v2.1.76]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

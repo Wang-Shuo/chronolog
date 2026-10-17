@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4bab5f473cb2ef88ea6edfea8477d36e6d26e43f9a76705b3633f514cc8d9636
+machine_hash: 0f18fffc3e1e19650c13b9e4ad5571523a61d021b8770ed9d800adbc1d068c29
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   long press on your message to open menu actions: Copy, Edit]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'
 source_type: cursor_changelog
+superseded: true
 theme: interface-experience
 title: The vertical sidebar option will temporarily be unavailable for users who opted…
 type: change

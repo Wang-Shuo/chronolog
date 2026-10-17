@@ -5,8 +5,8 @@ description: 'Claude Code · 2026-09-11 · Apps and Integrations: Added `/output
   [name]` to list and switch output styles, including over Remote Control and in cloud
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1268
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: cffea3225b27aae5ef38d0864580769c8f7f81ac02d5506f76f2726c7a9c793b
+kind: change
+machine_hash: c4e4ac2667d3a0a9b8261b38c8aa521b754b9763a9c4738e5545395170eb615d
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Added `/output-style [name]` to list and switch output styles, including
       over Remote Control and in cloud and other headless sessions
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.269
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-output-style-name-to-list-and-switch-output-styles-including-over-remote-c
@@ -44,12 +46,12 @@ record:
     over Remote…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-08-added-support-for-pointing-plugin-dir-at-a-folder-of-plugins-each-child-folder-w|Added
-  support for pointing --plugin-dir at a folder of plugins]]'
-- '[[Changes/ChatGPT/2026-09-10-the-data-plugin-helps-you-analyze-connected-business-data-in-chatgpt-work-and-co|The
-  Data plugin helps you analyze connected business data in ChatGPT Work and Codex]]'
-- '[[Changes/ChatGPT/2026-09-11-we-re-planning-to-retire-custom-gpts-across-chatgpt-plans-and-provide-a-migratio|We’re
-  planning to retire custom GPTs across ChatGPT plans and provide a migration…]]'
+- '[[Changes/Claude Code/2026-09-10-7-apps-and-integrations-changes-in-v2-1-268|7
+  Apps and Integrations changes in v2.1.268]]'
+- '[[Changes/ChatGPT/2026-09-11-we-re-planning-to-retire-custom-gpts-across-chatgpt-plans-and-provide-a-migratio|Planned
+  custom GPT retirement and migration to plugins]]'
+- '[[Changes/Claude Code/2026-09-11-5-apps-and-integrations-changes-in-v2-1-269|5
+  Apps and Integrations changes in v2.1.269]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-11-v2-1-269-github-387243742-288e9189|claude-code-2026-09-11-v2-1-269-github-387243742-288e9189]]'
 source_type: github_releases
 theme: apps-integrations
@@ -72,23 +74,29 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-09-11-added-a-diff-of-the-files-a-bash-command-changed-to-the-bash-tool-result-when-th|Added a diff of the files a Bash command changed to the Bash tool result…]] · Editor Experience
+- [[Changes/Claude Code/2026-09-11-vscode-improved-documents-and-messages-written-for-someone-other-than-the-user-c|VSCode Improved documents and messages written for someone other than the user]] · Files and Data
+- [[Changes/Claude Code/2026-09-11-5-apps-and-integrations-changes-in-v2-1-269|5 Apps and Integrations changes in v2.1.269]] · Apps and Integrations
+- [[Changes/Claude Code/2026-09-11-changed-skills-synced-from-claude-ai-in-cloud-sessions-to-be-named-anthropic-ski|Changed skills synced from claude.ai in cloud sessions to be named…]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-09-11-added-otel-metrics-include-repository-to-tag-opentelemetry-metrics-and-events-wi|Added OTEL_METRICS_INCLUDE_REPOSITORY to tag OpenTelemetry metrics and events…]] · Developer Workflow
+- [[Changes/Claude Code/2026-09-11-3-interface-experience-changes-in-v2-1-269|3 Interface Experience changes in v2.1.269]] · Interface Experience
+- [[Changes/Claude Code/2026-09-11-improved-responsiveness-in-long-sessions-transcript-updates-no-longer-re-process|Improved responsiveness in long sessions]] · Reliability and Performance
+- [[Changes/Claude Code/2026-09-11-3-editor-experience-changes-in-v2-1-269|3 Editor Experience changes in v2.1.269]] · Editor Experience
 - [[Changes/Claude Code/2026-09-11-added-claude-code-gateway-model-discovery-timeout-ms-to-extend-the-llm-gateway-v|Added CLAUDE_CODE_GATEWAY_MODEL_DISCOVERY_TIMEOUT_MS to extend the LLM gateway…]] · Model Support
-- [[Changes/Claude Code/2026-09-11-added-claude-plugin-eval-run-a-plugin-s-eval-suite-against-claude-code-and-get-s|Added claude plugin eval]] · Apps and Integrations
+- [[Changes/Claude Code/2026-09-11-2-agent-mode-changes-in-v2-1-269|2 Agent Mode changes in v2.1.269]] · Agent Mode
+- [[Changes/Claude Code/2026-09-11-5-safety-and-privacy-changes-in-v2-1-269|5 Safety and Privacy changes in v2.1.269]] · Safety and Privacy
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-11 · ChatGPT · [[Changes/ChatGPT/2026-09-11-we-re-planning-to-retire-custom-gpts-across-chatgpt-plans-and-provide-a-migratio|We’re planning to retire custom GPTs across ChatGPT plans and provide a migration…]]
+- Earlier: 2026-09-11 · ChatGPT · [[Changes/ChatGPT/2026-09-11-we-re-planning-to-retire-custom-gpts-across-chatgpt-plans-and-provide-a-migratio|Planned custom GPT retirement and migration to plugins]]
 - Later: 2026-09-14 · ChatGPT · [[Changes/ChatGPT/2026-09-14-for-new-health-plugin-connections-chatgpt-will-now-default-to-each-user-s-global|For new Health plugin connections, ChatGPT will now default to each user’s global…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

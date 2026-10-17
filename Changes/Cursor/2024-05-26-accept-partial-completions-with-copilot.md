@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 84ecdc34baa3600168beb4778c9eb8b1901030db8cdd38fb491d2769e516b29b
+machine_hash: a2a2308a4690496b5ca9af3cd383a476a079bd2774e4aa4d333c833756f079d1
 product: cursor
 product_name: Cursor
 record:
@@ -48,6 +48,7 @@ related_changes:
   performance of Copilot++ on linter errors]]'
 source_release: '[[Releases/Cursor/cursor-2024-05-26-0-34-x-https-cursor-com-changelog-0-34-x-a468f0bc|cursor-2024-05-26-0-34-x-https-cursor-com-changelog-0-34-x-a468f0bc]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: Accept partial completions with Copilot++
 type: change

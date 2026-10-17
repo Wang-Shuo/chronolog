@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 07eddf05f7653a75cd88b9786cbe2403a9d24bb1208c9c072e51064833a274f4
+machine_hash: 68c237389793d15777de3b108a9ee0fc59c6cc9e11e2b006f0f6af4b912cc8f9
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,6 +61,7 @@ related_changes:
   Work’s browser on web and mobile can also help you get tasks done on some…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848|claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848]]'
 source_type: github_releases
+superseded: true
 theme: account-access
 title: Added the gatewayInternalNetworks managed setting, letting administrators allow…
 type: change

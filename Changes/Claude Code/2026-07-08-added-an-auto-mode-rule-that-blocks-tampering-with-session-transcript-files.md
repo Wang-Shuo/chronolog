@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b482ef1cbe816f120a8343b8e28c3c89fa45e95770a8cbe6915d3e9218f0d140
+machine_hash: 09bda0cf8565aff82c07889c7226343639bcf9fef30185a159417c3f29ff4154
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,6 +47,7 @@ related_changes:
   subagent behavior]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba|claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added an auto mode rule that blocks tampering with session transcript files
 type: change

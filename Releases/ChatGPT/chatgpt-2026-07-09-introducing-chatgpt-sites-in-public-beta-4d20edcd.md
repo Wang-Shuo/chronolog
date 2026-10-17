@@ -4,7 +4,7 @@ date: '2026-07-09'
 description: 'ChatGPT release Introducing ChatGPT Sites in public beta on 2026-07-09:
   4 tracked changes across Enterprise and Administration, Artifact Creation, Mobile
   and…'
-machine_hash: 05bb16c012e562823810a36adb05cc526f3b1952f226d7399e2830edcbe10767
+machine_hash: 0be93fdef7dc04f4be52b41a20540bfcf8f063cdae5519de9605eff8dabc1547
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ version: Introducing ChatGPT Sites in public beta
 <!-- chronolog:begin region="summary" -->
 ChatGPT Sites lets you turn your work or ideas into an interactive website or lightweight app without leaving ChatGPT. You can create dashboards, project trackers, launch calendars, prototypes, internal portals, and reports, then preview and refine the result with ChatGPT before sharing it.
 
-Tracked 4 of 5 candidate lines.
+Tracked 4 cards from 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

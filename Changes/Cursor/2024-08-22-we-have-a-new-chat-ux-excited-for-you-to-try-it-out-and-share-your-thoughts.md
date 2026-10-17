@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: be7ab14bae0cac88e3f7177bd186a4905777acf5a6b01c229b478d71b64a5ccb
+kind: change
+machine_hash: fac77ce24edf813425263cae4077ed26ace067a508ab310f7d24885485af3c68
 product: cursor
 product_name: Cursor
 record:
@@ -30,8 +31,9 @@ record:
   evidence:
   - quote: We have a new chat UX! Excited for you to try it out and share your thoughts.
     source_release: https://cursor.com/changelog/0-40-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: we-have-a-new-chat-ux-excited-for-you-to-try-it-out-and-share-your-thoughts
@@ -71,8 +73,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2024-08-22-auto-imports-beta-for-cursor-tab-for-typescript-files-when-tab-suggests-an-unimp|Auto imports (beta) for Cursor Tab for TypeScript files]] · Editor Experience
-- [[Changes/Cursor/2024-08-22-we-ve-also-trained-a-new-cursor-tab-model-that-s-smarter-and-more-context-aware|We've also trained a new Cursor Tab model that's smarter and more context-aware]] · Context Window
+- [[Changes/Cursor/2024-08-22-we-ve-also-trained-a-new-cursor-tab-model-that-s-smarter-and-more-context-aware-56db10|We've also trained a new Cursor Tab model that's smarter and more context-aware]] · Context Window
 - [[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer is now default-on and available to all Pro/Business users by hitting cmd+I]] · Collaboration
 <!-- chronolog:end -->
 
@@ -80,7 +81,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-07-23 · Cursor · [[Changes/Cursor/2024-07-23-we-ve-also-added-a-file-picker-arrow-key-navigation-and-a-model-toggle-to-compos|Cursor adds a file picker, arrow key navigation, and a model toggle to Composer]]
-- Later: 2024-11-22 · ChatGPT · [[Changes/ChatGPT/2024-11-22-a-small-settings-icon-was-added-in-larger-viewports-when-the-sidebar-is-not-open|A small settings icon was added in larger viewports when the sidebar is not open]]
+- Later: 2024-11-22 · ChatGPT · [[Changes/ChatGPT/2024-11-22-the-new-chat-button-has-been-moved-to-the-left-of-the-model-picker-to-be-easier|The new chat button has been moved to the left of the Model Picker to be easier to access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

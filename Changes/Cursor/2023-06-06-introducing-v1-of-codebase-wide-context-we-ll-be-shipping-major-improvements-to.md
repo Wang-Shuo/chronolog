@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: cddccce374410b5242766fb5169e01427775169ac87a80111419ca8f6887ca9e
+machine_hash: 9120f355b9babfede2147421444c25ab4987c632c4651dfeff2a3d155fb8ff84
 product: cursor
 product_name: Cursor
 record:
@@ -52,6 +52,7 @@ related_changes:
   across a full notebook]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-06-0-2-26-https-cursor-com-changelog-0-2-26-1b7664cb|cursor-2023-06-06-0-2-26-https-cursor-com-changelog-0-2-26-1b7664cb]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: Introducing v1 of codebase-wide context!
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 959df6ae0a08fc1301db3aa24a67d94ae0d6433a755af8ff9664a04ae701d4bc
+machine_hash: c4136b4643d9cf6b55a70f8d88b7b003487542d49ed328169375c2fb42530adf
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   transitioned to building Cursor on top of a fork of VSCodium, moving away…]]'
 source_release: '[[Releases/Cursor/cursor-2023-04-06-0-2-0-https-cursor-com-changelog-0-2-0-2dbfe24a|cursor-2023-04-06-0-2-0-https-cursor-com-changelog-0-2-0-2dbfe24a]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: Our goal is to create an IDE optimized for pair-programming with AI
 type: change

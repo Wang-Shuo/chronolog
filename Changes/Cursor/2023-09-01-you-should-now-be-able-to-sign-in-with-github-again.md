@@ -14,9 +14,10 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 992fb97ba9b6572417b2486285c419dcafa2165a63739e38136235b49799440c
+kind: change
+machine_hash: 750df735bf09741cc2ade8d4217264b2b7713682bf21bbcd0d227a34028a937f
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: You should now be able to sign in with GitHub again.
     source_release: https://cursor.com/changelog/0-9-3
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: you-should-now-be-able-to-sign-in-with-github-again
@@ -43,8 +45,8 @@ related_changes:
   via github, then add the repo you wish to sync!]]'
 - '[[Changes/Cursor/2023-06-27-if-you-re-not-logged-in-we-show-the-popup-to-log-in-again|If
   you''re not logged in, we show the popup to log in again]]'
-- '[[Changes/Cursor/2023-07-25-you-can-now-chat-with-any-codebase-no-need-to-have-a-github-repo-login-through-g|Chat
-  with any codebase]]'
+- '[[Changes/Cursor/2023-07-25-you-can-now-chat-with-any-codebase-no-need-to-have-a-github-repo-login-through-g|"with
+  codebase" for all codebases!]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-01-0-9-3-https-cursor-com-changelog-0-9-3-b92abfc8|cursor-2023-09-01-0-9-3-https-cursor-com-changelog-0-9-3-b92abfc8]]'
 source_type: cursor_changelog
 theme: account-access
@@ -71,8 +73,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2023-07-25 · Cursor · [[Changes/Cursor/2023-07-25-you-can-now-chat-with-any-codebase-no-need-to-have-a-github-repo-login-through-g|Chat with any codebase]]
-- Later: 2024-04-01 · ChatGPT · [[Changes/ChatGPT/2024-04-01-we-re-making-it-easier-for-people-to-experience-the-benefits-of-ai-without-needi|We’re making it easier for people to experience the benefits of AI without needing…]]
+- Earlier: 2023-07-25 · Cursor · [[Changes/Cursor/2023-07-25-you-can-now-chat-with-any-codebase-no-need-to-have-a-github-repo-login-through-g|"with codebase" for all codebases!]]
+- Later: 2024-04-01 · ChatGPT · [[Changes/ChatGPT/2024-04-01-we-re-making-it-easier-for-people-to-experience-the-benefits-of-ai-without-needi|Start using ChatGPT instantly]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

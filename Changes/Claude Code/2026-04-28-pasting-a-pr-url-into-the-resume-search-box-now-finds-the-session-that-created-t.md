@@ -5,19 +5,20 @@ description: 'Claude Code · 2026-04-28 · Enterprise and Administration: Pastin
   PR URL into the `/resume` search box now finds the session that created that PR
   (GitHub…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise
-    and Edu rollout coming soon]]'
+  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
+    users can only access stable release (no pre-release)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 320
+  lag_days: 328
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 9638c983d3a2042cdb5813ad8b402519f0cc70949d5758bd9a1673a76e2961a1
+kind: change
+machine_hash: 911a52e755ba7368c44feb5a6bde1a9c1c8e71e2d76f84265c7f0d5fd40f45da
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
   - quote: Pasting a PR URL into the `/resume` search box now finds the session that
       created that PR (GitHub, GitHub Enterprise, GitLab, and Bitbucket)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.122
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: pasting-a-pr-url-into-the-resume-search-box-now-finds-the-session-that-created-t
@@ -43,8 +45,8 @@ record:
     created…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-04-16-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-australia-new|We''re
-  beginning to roll out ads for users on Free and Go plans in Australia, New…]]'
+- '[[Changes/ChatGPT/2026-04-16-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-australia-new|Rolling
+  out ads in Australia, New Zealand, and Canada]]'
 - '[[Changes/Claude Code/2026-04-23-from-pr-now-accepts-gitlab-merge-request-bitbucket-pull-request-and-github-enter|--from-pr
   now accepts GitLab merge-request, Bitbucket pull-request, and GitHub…]]'
 - '[[Changes/Claude Code/2026-04-23-added-disable-updates-env-var-to-completely-block-all-update-paths-including-man|Added
@@ -71,10 +73,10 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-04-28-2-apps-and-integrations-changes-in-v2-1-122|2 Apps and Integrations changes in v2.1.122]] · Apps and Integrations
 - [[Changes/Claude Code/2026-04-28-opentelemetry-added-claude-code-at-mention-log-event-for-mention-resolution|OpenTelemetry: added claude_code.at_mention log event for @-mention resolution]] · Developer Workflow
-- [[Changes/Claude Code/2026-04-28-added-anthropic-bedrock-service-tier-environment-variable-to-select-a-bedrock-se|Added ANTHROPIC_BEDROCK_SERVICE_TIER environment variable to select a Bedrock…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-04-28-clarified-the-mcp-message-shown-when-an-mcp-server-is-still-unauthorized-after-t|Clarified the /mcp message shown when an MCP server is still unauthorized after…]] · Account and Access
-- [[Changes/Claude Code/2026-04-28-mcp-now-shows-claude-ai-connectors-hidden-by-a-manually-added-server-with-the-sa|/mcp now shows claude.ai connectors hidden by a manually-added server…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-04-28-voice-mode-keybindings-bound-to-caps-lock-now-show-an-error-since-terminals-don|Voice mode: keybindings bound to Caps Lock now show an error since terminals don't…]] · Voice and Audio
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
@@ -87,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise and Edu rollout coming soon]]
+- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

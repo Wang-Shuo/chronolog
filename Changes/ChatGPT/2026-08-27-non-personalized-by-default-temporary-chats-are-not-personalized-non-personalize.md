@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 514cde898dc58302dff8c7ce8a399a5c0dac3dec17ded851ac346b5e45bd2b17
+machine_hash: 9eebb3a4a5def7e6804f18d1da2a41e24b70660dff73a279fe00f1aa5ffd99e4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,6 +64,7 @@ related_changes:
   a temporary chat]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-27-more-controls-in-temporary-chat-5ca95d13|chatgpt-2026-08-27-more-controls-in-temporary-chat-5ca95d13]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: memory
 title: 'Non-personalized: By default, temporary chats are not personalized'
 type: change

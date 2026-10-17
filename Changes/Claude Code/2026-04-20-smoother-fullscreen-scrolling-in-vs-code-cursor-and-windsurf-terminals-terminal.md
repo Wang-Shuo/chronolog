@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 69abb724c831bc6f9cece7ce132d6527ab7707d8e6017f138cb4fab32041a7bc
+machine_hash: 29043c22096faef531eda39b01fcb6b4b485c69a077c4c633a460ddc424a6e2b
 product: claude-code
 product_name: Claude Code
 record:
@@ -63,6 +63,7 @@ related_changes:
   spinner now shows progress inline…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e|claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Smoother fullscreen scrolling in VS Code, Cursor, and Windsurf terminals
 type: change

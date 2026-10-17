@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: fa46784133b11b6767fbe62cb39f07f8726e285fb0c7f8c4a48a9b2a262c8261
+machine_hash: 6aa94fa4ffc49c315ee5c03a3e01c63e03c786f1d2907bff27143971fe9c07ea
 product: cursor
 product_name: Cursor
 record:
@@ -77,6 +77,7 @@ related_changes:
   a /doctor check that proposes trimming checked-in CLAUDE.md files…]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d|cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: Find past agent chats faster with search results that go beyond names and PR
   numbers

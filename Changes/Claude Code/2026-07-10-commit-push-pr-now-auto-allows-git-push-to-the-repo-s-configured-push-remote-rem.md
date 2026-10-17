@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ea3f1afee5265a1f76451144128d0d07938c6b0ece76199e0672901eecb3c790
+machine_hash: e2ec8934579730d33691a3e467ec314346b75d3594068cae4ed5f0cfe921f0f5
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   now asks for confirmation before entering a git worktree outside…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-10-v2-1-206-github-351694341-0226036e|claude-code-2026-07-10-v2-1-206-github-351694341-0226036e]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: /commit-push-pr now auto-allows git push to the repo's configured push remote…
 type: change

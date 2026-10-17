@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b471b66ebd27dd8c0252f45d975dfd0851a8e0ee42e0b059bf2a4cbb8dff7bbc
+machine_hash: 7340d05efc8c70ec2feb72c530baf456eddb63cd4cd4927048617c09eb9b1c7e
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   an Auto mode tab to /permissions for viewing and editing auto mode…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-26-v2-1-247-github-377320078-fc507178|claude-code-2026-08-26-v2-1-247-github-377320078-fc507178]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Added a tip on Bash permission prompts pointing to auto mode, with a one-keystroke…
 type: change

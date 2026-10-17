@@ -15,9 +15,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: afa36090116e6c2a448f0e37d42c577c04fd68fe983b54afe3ac83cd2680efb4
+kind: change
+machine_hash: c1d5b9e31c3f58d96b1ce7e4ad5fdb3d9b35831c036c3de9c0046833be91fbcd
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +32,9 @@ record:
   - quote: 'UPDATE (0.31.1–0.31.3): Adds back in AI Review (alpha), fixes the "Cursor
       Settings" menu item, and fixes a bug where @web doesn''t return a response.'
     source_release: https://cursor.com/changelog/0-31-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: update-0-31-1-0-31-3-adds-back-in-ai-review-alpha-fixes-the-cursor-settings-menu
@@ -44,8 +46,7 @@ record:
 related_changes:
 - '[[Changes/Cursor/2024-02-09-fine-grained-chat-replies-start-by-hovering-over-the-area-of-the-response-you-wa|Fine-grained
   chat replies…]]'
-- '[[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|AI
-  Notes enabled by default (hold shift on any symbol), better in-editor chat…]]'
+- '[[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|Polish]]'
 - '[[Changes/Cursor/2024-03-20-new-settings-we-moved-all-our-settings-to-be-accessible-by-the-gear-in-the-top-r|New
   Settings: We moved all our settings to be accessible by the gear in the top right]]'
 source_release: '[[Releases/Cursor/cursor-2024-04-01-0-31-x-https-cursor-com-changelog-0-31-x-f88ca4c9|cursor-2024-04-01-0-31-x-https-cursor-com-changelog-0-31-x-f88ca4c9]]'

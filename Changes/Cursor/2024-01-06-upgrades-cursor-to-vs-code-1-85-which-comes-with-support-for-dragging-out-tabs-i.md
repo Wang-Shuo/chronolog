@@ -4,8 +4,8 @@ date: '2024-01-06'
 description: 'Cursor · 2024-01-06 · Editor Experience: Upgrades Cursor to VS Code
   1.85, which comes with support for dragging out tabs into a new window.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 298
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 0eecb3dd7b6c7d6b6f4242f171a16acb76f724b07a5c836c31b86227b554fb48
+kind: change
+machine_hash: 2ce86c5aeeeb92370ec4af4103c16c3124cb3b9f99913ba8dc5a0af9893a7ec0
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +32,9 @@ record:
   - quote: Upgrades Cursor to VS Code 1.85, which comes with support for dragging
       out tabs into a new window.
     source_release: https://cursor.com/changelog/0-22-0
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: upgrades-cursor-to-vs-code-1-85-which-comes-with-support-for-dragging-out-tabs-i
@@ -45,12 +47,12 @@ record:
     tabs…
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|Run
-  multiple Command-K''s in parallel!]]'
-- '[[Changes/Cursor/2023-12-31-you-can-now-use-chat-and-cmd-k-in-the-aux-window-without-too-many-problems|Use
-  chat and cmd-k in the aux window without too many problems]]'
-- '[[Changes/Cursor/2024-01-03-hold-down-command-press-and-release-shift-and-continue-holding-down-command-this|Hold
-  down command, press and release shift, and continue holding down command]]'
+- '[[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|Multiple
+  Command-K, Copilot++ UI]]'
+- '[[Changes/Cursor/2023-12-31-you-can-now-use-chat-and-cmd-k-in-the-aux-window-without-too-many-problems|Aux
+  Window Fixes]]'
+- '[[Changes/Cursor/2024-01-03-hold-down-command-press-and-release-shift-and-continue-holding-down-command-this|Early
+  Preview: Hold-cmd-tap-shift to Trigger AI Rewrite]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-06-0-22-0-https-cursor-com-changelog-0-22-0-04c2cd2c|cursor-2024-01-06-0-22-0-https-cursor-com-changelog-0-22-0-04c2cd2c]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -81,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-01-03 · Cursor · [[Changes/Cursor/2024-01-03-hold-down-command-press-and-release-shift-and-continue-holding-down-command-this|Hold down command, press and release shift, and continue holding down command]]
+- Earlier: 2024-01-03 · Cursor · [[Changes/Cursor/2024-01-03-hold-down-command-press-and-release-shift-and-continue-holding-down-command-this|Early Preview: Hold-cmd-tap-shift to Trigger AI Rewrite]]
 - Later: 2024-01-18 · Cursor · [[Changes/Cursor/2024-01-18-more-chat-symbol-links-when-the-chat-references-a-code-symbol-you-ll-often-be-ab|More chat symbol links]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

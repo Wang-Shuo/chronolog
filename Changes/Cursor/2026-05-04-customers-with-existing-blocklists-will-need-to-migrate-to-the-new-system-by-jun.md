@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: bf3b32850fc993fa1c9118c6b1a3b821420570ce9939b135b9deb9ba8b05e52e
+machine_hash: 0e487937dd7497b77d30d031eb7e4c049190ecc3e50abaa0425ca99fb0ea6ae8
 product: cursor
 product_name: Cursor
 record:
@@ -67,6 +67,7 @@ related_changes:
   can now create a team marketplace without connecting a repository first]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047|cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047]]'
 source_type: cursor_changelog
+superseded: true
 theme: collaboration
 title: Customers with existing blocklists will need to migrate to the new system by
   June 1st

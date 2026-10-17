@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 98a46eb8f78cc63364a0ca265b7805d4e1c7cf170572df2aa136b1f600cc21ee
+machine_hash: 581e714e4fd9ed1b93ec3c1601b672bd8d5038611aaf3272ee95ef5432aa8534
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,6 +45,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-12-19-use-more-or-fewer-emojis|Use more or fewer emojis]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-19-new-detailed-characteristic-controls-fa363df4|chatgpt-2025-12-19-new-detailed-characteristic-controls-fa363df4]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: memory
 title: Be more or less enthusiastic
 type: change

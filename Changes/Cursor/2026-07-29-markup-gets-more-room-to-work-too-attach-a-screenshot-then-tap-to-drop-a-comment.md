@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 541ff9712dd7319f48e830cd8eea857a0d92e67de01df5a71955d43699a63d07
+machine_hash: e4292806dbc2f7d96316484b49475f6b2202aa5594b54d577a932dcd88923f75
 product: cursor
 product_name: Cursor
 record:
@@ -51,6 +51,7 @@ related_changes:
   image paste from Windows clipboard now works via a PowerShell fallback…]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c|cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c]]'
 source_type: cursor_changelog
+superseded: true
 theme: multimodal
 title: Markup gets more room to work too
 type: change

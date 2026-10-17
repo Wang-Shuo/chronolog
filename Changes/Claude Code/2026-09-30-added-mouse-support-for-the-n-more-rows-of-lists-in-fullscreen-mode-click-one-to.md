@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 02563578a875ff2b2da3230e8965d59ccb5c193d4fa3dc231e44c11cdb6f4ce6
+machine_hash: 414b91ee235f98fc3f104a8b50a9633ede7df8d6d1b4e6a3dded7405fb495532
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   /rate-limit-options to /help and the command menu for claude.ai…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7|claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added mouse support for the "N more" rows of lists in fullscreen mode
 type: change

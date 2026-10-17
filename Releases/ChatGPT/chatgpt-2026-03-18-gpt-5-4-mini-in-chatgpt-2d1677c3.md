@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-03-18'
 description: 'ChatGPT release GPT-5.4 mini in ChatGPT on 2026-03-18: 1 tracked change
   across Model Support'
-machine_hash: 7f85a3b6eb6a8300f97bf246e0a6988eebd4cc7415f628b07b79777d875c566c
+machine_hash: 68927a9a6622627481770a5f9c1dbff215b4863bddcd2d9f64ebfb77825db79d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: GPT-5.4 mini in ChatGPT
 <!-- chronolog:begin region="summary" -->
 We’re rolling out GPT-5.4 mini in ChatGPT. GPT-5.4 mini is available to Free and Go users via the “Thinking” feature in the + menu. For all other users, GPT-5.4 mini is available as a rate limit fallback for GPT-5.4 Thinking.For Plus, Pro, and other paid users, GPT-5.4 mini will be used as a fallback for GPT-5.4…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and|ChatGPT rolls out GPT-5.4 mini]] · Model Support
+- [[Changes/ChatGPT/2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and|GPT-5.4 mini in ChatGPT]] · Model Support
 <!-- chronolog:end -->

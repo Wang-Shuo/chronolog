@@ -5,8 +5,8 @@ description: 'Cursor · 2026-03-03 · Apps and Integrations: MCP Apps support in
   user interfaces like charts from Amplitude, diagrams from Figma, and whiteboards
   from…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1076
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: c72e1473fbc6eeff5beeb71a38d4488b49f3858364f92e39147ec2c1260db248
+kind: launch
+machine_hash: c9f83a0152eca7df0dab302be902155cf0079b8c452c7641cd025d3de7659955
 product: cursor
 product_name: Cursor
 record:
@@ -33,35 +34,35 @@ record:
   - quote: MCP Apps support interactive user interfaces like charts from Amplitude,
       diagrams from Figma, and whiteboards from tldraw directly inside Cursor.
     source_release: https://cursor.com/changelog/2-6
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: mcp-apps-support-interactive-user-interfaces-like-charts-from-amplitude-diagrams
+  slug: mcp-apps
   source_release: cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3
   source_type: cursor_changelog
   theme: apps-integrations
-  title: MCP Apps support interactive user interfaces like charts from Amplitude,
-    diagrams…
+  title: MCP Apps
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-25-sources-from-apps-paste-a-link-to-a-slack-channel-or-google-drive-file-or-folder|Sources
-  from apps]]'
 - '[[Changes/Claude Code/2026-02-25-expand-remote-control-to-more-users|Expand Remote
   Control to more users]]'
 - '[[Changes/Claude Code/2026-02-28-added-enable-claudeai-mcp-servers-false-env-var-to-opt-out-from-making-claude-ai|Added
   ENABLE_CLAUDEAI_MCP_SERVERS=false env var to opt out from making claude.ai…]]'
+- '[[Changes/Cursor/2026-03-03-3-apps-and-integrations-changes-in-2-6|3 Apps and Integrations
+  changes in 2.6]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: MCP Apps support interactive user interfaces like charts from Amplitude, diagrams…
+title: MCP Apps
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# MCP Apps support interactive user interfaces like charts from Amplitude, diagrams…
+# MCP Apps
 
-**Cursor** · 2026-03-03 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://cursor.com/changelog/2-6) · from [[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|MCP Apps and Team Marketplaces for Plugins]]
+**Cursor** · 2026-03-03 · [[Themes/apps-integrations|Apps and Integrations]] · Launch · [Official source](https://cursor.com/changelog/2-6) · from [[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|MCP Apps and Team Marketplaces for Plugins]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -73,23 +74,30 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-03-03-added-support-for-multiple-parallel-debug-mode-sessions|Added support for multiple parallel Debug mode sessions]] · Developer Workflow
-- [[Changes/Cursor/2026-03-03-desktop-improvements-15|Desktop Improvements (15)↓↑]] · Mobile and Desktop
-- [[Changes/Cursor/2026-03-03-on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p|On Teams and Enterprise plans, Admins can now create team marketplaces to share…]] · Enterprise and Administration
+- [[Changes/Cursor/2026-03-03-3-apps-and-integrations-changes-in-2-6|3 Apps and Integrations changes in 2.6]] · Apps and Integrations
+- [[Changes/Cursor/2026-03-03-improved-reliability-for-longer-running-agent-sessions|Improved reliability for longer-running agent sessions]] · Agent Mode
+- [[Changes/Cursor/2026-03-03-modals-load-faster|Modals load faster]] · Reliability and Performance
+- [[Changes/Cursor/2026-03-03-3-developer-workflow-changes-in-2-6|3 Developer Workflow changes in 2.6]] · Developer Workflow
+- [[Changes/Cursor/2026-03-03-clearer-more-consistent-team-and-enterprise-policy-and-access-controls|Clearer, more consistent team and enterprise policy and access controls]] · Enterprise and Administration
+- [[Changes/Cursor/2026-03-03-2-context-window-changes-in-2-6|2 Context Window changes in 2.6]] · Context Window
+- [[Changes/Cursor/2026-03-03-on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p|Team marketplaces for plugins]] · Enterprise and Administration
+- [[Changes/Cursor/2026-03-03-fixed-team-permission-and-access-control-inconsistencies-across-organization-set|Fixed team permission and access control inconsistencies across organization setups]] · Safety and Privacy
+- [[Changes/Cursor/2026-03-03-the-content-from-your-plan-files-are-now-included-in-autocomplete-suggestions-as|The content from your plan files are now included in autocomplete suggestions as you…]] · Interface Experience
 - [[Changes/Cursor/2026-03-03-this-release-introduces-interactive-uis-in-agent-chats-a-way-for-teams-to-share|Cursor introduces interactive UIs in agent chats, a way for teams to share private…]] · Developer Workflow
+- [[Changes/Cursor/2026-03-03-agent-workflows-are-faster-and-more-predictable-for-multi-file-edits-and-pr-heav|Agent workflows are faster and more predictable for multi-file edits and PR-heavy tasks]] · Editor Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-added-enable-claudeai-mcp-servers-false-env-var-to-opt-out-from-making-claude-ai|Added ENABLE_CLAUDEAI_MCP_SERVERS=false env var to opt out from making claude.ai…]]
-- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-added-the-claude-api-skill-for-building-applications-with-the-claude-api-and-ant|Added the /claude-api skill for building applications with the Claude API…]]
+- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-added-reload-plugins-command-to-activate-pending-plugin-changes-without-restarti|Added /reload-plugins command to activate pending plugin changes without restarting]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

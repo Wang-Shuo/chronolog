@@ -4,8 +4,8 @@ date: '2024-07-03'
 description: 'Cursor · 2024-07-03 · Apps and Integrations: Docs management! Go to
   Cursor Settings > Features > Docs to re-index your docs.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 468
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: b5acf1f5461dcad039d14d0b1759fddf72d8d56562e6e7f8b1edfedb11826312
+kind: change
+machine_hash: 43088e72accfbe86572a6c46051e59e924488eb805f8c3df5cb5f3187bdd6bbe
 product: cursor
 product_name: Cursor
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Docs management! Go to Cursor Settings > Features > Docs to re-index your
       docs.
     source_release: https://cursor.com/changelog/0-36-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: docs-management-go-to-cursor-settings-features-docs-to-re-index-your-docs
@@ -47,7 +49,7 @@ related_changes:
   newer version of python extension]]'
 - '[[Changes/Cursor/2024-01-25-update-0-24-3-0-24-4-adds-ability-to-configure-openai-base-url-fixes-getcursor-c|UPDATE
   (0.24.3-0.24.4): Adds ability to configure OpenAI base URL, fixes…]]'
-- '[[Changes/ChatGPT/2024-05-16-upload-the-latest-file-versions-directly-from-google-drive-microsoft-onedrive-pe|Upload
+- '[[Changes/ChatGPT/2024-05-16-upload-the-latest-file-versions-directly-from-google-drive-microsoft-onedrive-pe-70f6a3|Upload
   the latest file versions directly from Google Drive, Microsoft OneDrive…]]'
 source_release: '[[Releases/Cursor/cursor-2024-07-03-0-36-x-https-cursor-com-changelog-0-36-x-526adbdf|cursor-2024-07-03-0-36-x-https-cursor-com-changelog-0-36-x-526adbdf]]'
 source_type: cursor_changelog
@@ -77,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-05-16 · ChatGPT · [[Changes/ChatGPT/2024-05-16-upload-the-latest-file-versions-directly-from-google-drive-microsoft-onedrive-pe|Upload the latest file versions directly from Google Drive, Microsoft OneDrive…]]
-- Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-mcp-improved-reliability-and-quality-of-life-enhancements-for-building-mcp-serve|MCP: Improved reliability and quality of life enhancements for building MCP servers…]]
+- Earlier: 2024-05-16 · ChatGPT · [[Changes/ChatGPT/2024-05-16-upload-the-latest-file-versions-directly-from-google-drive-microsoft-onedrive-pe-70f6a3|Upload the latest file versions directly from Google Drive, Microsoft OneDrive…]]
+- Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-2-apps-and-integrations-changes-in-0-46-x|2 Apps and Integrations changes in 0.46.x]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 52b3c215036fe038d9ddaaf27f0c460dbc4a68e6e0b4dcd129f23271e920f460
+machine_hash: 62c04698fe19ba48f0266866eb4f389fb4d157b0c9aee79137fbe5ce1d4f4d32
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   official marketplace plugin scripts failing…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b|claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Added .husky to protected directories (acceptEdits mode)
 type: change

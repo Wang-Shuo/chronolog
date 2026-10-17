@@ -14,9 +14,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 0fc23c3fec23ec41d3ec71702082a851807a5b761946bb1f78d2cf643f093c9f
+kind: change
+machine_hash: 9993ee2dfbb3875d1f3cc7cf82be4dc759cd76d793cc984448c97e003897788a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,8 +38,9 @@ record:
       starting to roll out to all paid (Plus, Team, Enterprise, and Edu) users today,
       and expect it to take a few days.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av
@@ -68,24 +70,24 @@ record:
     - enterprise
     score: 50
     theme: enterprise-admin
-  title: Starting today, we’re beginning to roll out Advanced Voice Mode on web…
+  title: Advanced Voice for ChatGPT Web
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|ChatGPT
-  for Android is now available for download in the United States, India…]]'
-- '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Show
-  ChatGPT one or more images]]'
-- '[[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|Cursor
-  is now based on VS Code 1.85.1, which, among other things, includes floating…]]'
+- '[[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|Introducing
+  the ChatGPT app for Android]]'
+- '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
+  (Beta) is now rolling out to Plus users on iOS and Android]]'
+- '[[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|VS
+  Code 1.85.1]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-11-19-advanced-voice-for-chatgpt-web-e7868264|chatgpt-2024-11-19-advanced-voice-for-chatgpt-web-e7868264]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Starting today, we’re beginning to roll out Advanced Voice Mode on web…
+title: Advanced Voice for ChatGPT Web
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Starting today, we’re beginning to roll out Advanced Voice Mode on web…
+# Advanced Voice for ChatGPT Web
 
 **ChatGPT** · 2024-11-19 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-11-19-advanced-voice-for-chatgpt-web-e7868264|Advanced Voice for ChatGPT Web]]
 <!-- chronolog:end -->
@@ -103,8 +105,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2023-12-30 · Cursor · [[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|Cursor is now based on VS Code 1.85.1, which, among other things, includes floating…]]
-- Later: 2025-01-17 · ChatGPT · [[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|ChatGPT updates custom instructions to make it easier to customize how ChatGPT…]]
+- Earlier: 2023-12-30 · Cursor · [[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|VS Code 1.85.1]]
+- Later: 2024-11-22 · ChatGPT · [[Changes/ChatGPT/2024-11-22-improved-mobile-web-experience|Improved Mobile Web Experience]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

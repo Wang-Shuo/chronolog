@@ -4,8 +4,8 @@ date: '2025-08-06'
 description: 'Cursor · 2025-08-06 · Agent Mode: Sending messages while Cursor is working
   now does a better job of steering the agent. Messages will run at the next ideal…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 762
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: 9ebf95a6b81a025d204e9abb17d5e73e27a6b9c5b724cb724b48b0fa94122636
+kind: launch
+machine_hash: a895a4304d8d3aa92af1c64f7e083e1dbccc949ad9ed979d5f55683d0dbba4ad
 product: cursor
 product_name: Cursor
 record:
@@ -40,36 +41,34 @@ record:
       the agent to send the message immediately. The default behavior can be changed
       in Cursor Settings → Chat → Queue messages.
     source_release: https://cursor.com/changelog/1-4
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: sending-messages-while-cursor-is-working-now-does-a-better-job-of-steering-the-a
+  slug: more-agent-steerability
   source_release: cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889
   source_type: cursor_changelog
   theme: agent-mode
-  title: Sending messages while Cursor is working now does a better job of steering
-    the agent
+  title: More Agent steerability
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-03-you-can-now-queue-follow-up-messages-for-agent-once-it-s-done-with-current-task|Queue
-  follow-up messages for Agent once it''s done with current task]]'
-- '[[Changes/Cursor/2025-07-03-the-agent-breaks-down-longer-tasks-with-dependencies-visible-to-you-in-chat-and|The
-  agent breaks down longer tasks with dependencies, visible to you in chat…]]'
-- '[[Changes/Cursor/2025-07-29-agents-can-now-use-your-native-terminal-a-new-terminal-will-be-created-when-need|Agents
-  can now use your native terminal]]'
+- '[[Changes/Cursor/2025-08-06-github-support-for-background-agents|GitHub support
+  for Background Agents]]'
+- '[[Changes/Cursor/2025-08-06-faster-background-agent-startup|Faster Background Agent
+  startup]]'
+- '[[Changes/Cursor/2025-08-06-sidebar-for-all-agents|Sidebar for all Agents]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889|cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Sending messages while Cursor is working now does a better job of steering
-  the agent
+title: More Agent steerability
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Sending messages while Cursor is working now does a better job of steering the agent
+# More Agent steerability
 
-**Cursor** · 2025-08-06 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/1-4) · from [[Releases/Cursor/cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889|Improved Agent tools, steerability, and usage visibility]]
+**Cursor** · 2025-08-06 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://cursor.com/changelog/1-4) · from [[Releases/Cursor/cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889|Improved Agent tools, steerability, and usage visibility]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -81,21 +80,28 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2025-08-06-read-file-now-reads-full-files-when-appropriate-and-the-2mb-cap-is-removed|Read file: Now reads full files when appropriate and the 2MB cap is removed]] · Files and Data
-- [[Changes/Cursor/2025-08-06-agents-are-significantly-improved-when-operating-across-large-codebases-context|Agents are significantly improved when operating across large codebases]] · Context Window
+- [[Changes/Cursor/2025-08-06-separate-models-per-agent|Separate models per Agent]] · Model Support
+- [[Changes/Cursor/2025-08-06-improved-agent-tools-488891|Improved Agent tools]] · Agent Mode
+- [[Changes/Cursor/2025-08-06-github-support-for-background-agents|GitHub support for Background Agents]] · Agent Mode
+- [[Changes/Cursor/2025-08-06-faster-background-agent-startup|Faster Background Agent startup]] · Agent Mode
+- [[Changes/Cursor/2025-08-06-sidebar-for-all-agents|Sidebar for all Agents]] · Agent Mode
+- [[Changes/Cursor/2025-08-06-usage-and-pricing-visibility|Usage and pricing visibility]] · Pricing Model
+- [[Changes/Cursor/2025-08-06-1-4-5-improved-performance|1.4.5: Improved performance]] · Reliability and Performance
+- [[Changes/Cursor/2025-08-06-ai-code-tracking-api-get-commit-level-visibility-into-ai-usage-and-accepted-chan|AI code tracking API]] · Collaboration
+- [[Changes/Cursor/2025-08-06-admin-api-for-blocklists-block-specific-files-or-directories-from-being-indexed|Admin API for blocklists]] · Context Window
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-agents-can-now-use-your-native-terminal-a-new-terminal-will-be-created-when-need|Agents can now use your native terminal]]
-- Later: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-you-can-now-start-background-agents-directly-from-linear-delegate-tasks-to-curso|Start Background Agents directly from Linear]]
+- Earlier: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-2-agent-mode-changes-in-1-3|2 Agent Mode changes in 1.3]]
+- Later: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-you-can-now-start-background-agents-directly-from-linear-delegate-tasks-to-curso|Run Agents in Linear]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

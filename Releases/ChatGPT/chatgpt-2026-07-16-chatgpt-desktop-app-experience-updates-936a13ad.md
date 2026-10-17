@@ -3,7 +3,7 @@ changes_count: 5
 date: '2026-07-16'
 description: 'ChatGPT release ChatGPT desktop app experience updates on 2026-07-16:
   5 tracked changes across Mobile and Desktop, Projects and Workspaces'
-machine_hash: 9f9510d781ae414a7357e76e1246fa1a288d04b3c9c252fa97fc3e3c617ff810
+machine_hash: ef204cacd1db756161ba4a00b92f2a612cdeb42792b93b3c383df6b5726ed20b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +40,7 @@ version: ChatGPT desktop app experience updates
 <!-- chronolog:begin region="summary" -->
 We’ve updated the ChatGPT desktop app to make it easier to choose between Chat and Work, find your conversations and Projects, and continue Work across devices. These updates are now live for all plans on macOS and Windows.
 
-Tracked 5 of 6 candidate lines.
+Tracked 5 cards from 6 candidate lines; 1 line pending review.
 <!-- chronolog:end -->
 
 ## Change Cards

@@ -612,7 +612,7 @@ def test_card_title_does_not_change_card_identity():
         "cursor", "2026-05-01", line, source_release="cursor-2026-05-01-v1-2"
     )
     assert card["evidence"][0]["quote"] == line
-    assert card["extractor_version"] == "fallback-v4"
+    assert card["extractor_version"] == "fallback-v5"
     assert validate_card(card, set(themes)) == []
 
 
@@ -711,3 +711,383 @@ def test_direct_cli_invocation_writes_extracted_change_cards():
         assert output["change_cards"][0]["theme"] == "context-window"
     finally:
         shutil.rmtree(paths.run_dir, ignore_errors=True)
+
+
+# W2 card definition: cards follow the structure of the release body.
+
+def structured_release(body: str, *, product="cursor", source_type="cursor_changelog",
+                       title="Agent update", version="1.0"):
+    names = {"cursor": "Cursor", "chatgpt": "ChatGPT", "claude-code": "Claude Code"}
+    return {
+        "product": product,
+        "product_name": names[product],
+        "release_id": f"{product}-2026-06-01-{slugify(title)}-0a1b2c3d",
+        "source_type": source_type,
+        "date": "2026-06-01",
+        "version": version,
+        "title": title,
+        "body": body,
+        "source_url": f"https://example.com/{product}/changelog",
+    }
+
+
+def w2_cards(body: str, **kwargs):
+    themes = load_theme_vocabulary("_scripts/themes.yaml")
+    return extract_cards_from_release(structured_release(body, **kwargs), themes)
+
+
+def quotes(card):
+    return [item["quote"] for item in card["evidence"]]
+
+
+@pytest.mark.parametrize(("body", "product", "source_type"), [
+    ("#Background Agent\nAgent can now run tests in the background.\n"
+     "Each agent works on its own branch and reports back when done.",
+     "cursor", "cursor_changelog"),
+    ("### Background Agent\nAgent can now run tests in the background.\n"
+     "- Each agent works on its own branch and reports back when done.",
+     "chatgpt", "chatgpt_changelog"),
+])
+def test_feature_section_becomes_one_card_titled_by_its_heading(body, product, source_type):
+    cards = w2_cards(body, product=product, source_type=source_type)
+
+    assert len(cards) == 1
+    card = cards[0]
+    assert card["title"] == "Background Agent"
+    assert card["kind"] == "launch"
+    assert card["theme"] == "agent-mode"
+    assert quotes(card) == [
+        "Agent can now run tests in the background.",
+        "Each agent works on its own branch and reports back when done.",
+    ]
+    assert {item["source_release"] for item in card["evidence"]} == {
+        f"https://example.com/{product}/changelog"}
+    assert validate_card(card, set(load_theme_vocabulary("_scripts/themes.yaml"))) == []
+
+
+def test_feature_section_without_text_quotes_its_heading():
+    cards = w2_cards("Agent can now run shell commands in a sandbox.\n#Background Agent\n#Bug Fixes\n"
+                     "- Terminal now supports code review workflows")
+
+    feature = next(card for card in cards if card["title"] == "Background Agent")
+    assert quotes(feature) == ["Background Agent"]
+
+
+def test_scope_heading_bullets_become_cards_with_scope():
+    body = ("### iOS\n- Agent can now run shell commands on your phone\n"
+            "- Voice dictation stays available after you add attachments\n"
+            "### Web, iOS, and Android\n- Memory now remembers your preferred units")
+    cards = w2_cards(body, product="chatgpt", source_type="chatgpt_changelog",
+                     title="ChatGPT app updates")
+
+    assert [(card["scope"], card["theme"]) for card in cards] == [
+        ("iOS", "agent-mode"), ("iOS", "voice"), ("Web, iOS, and Android", "memory")]
+    assert all(len(card["evidence"]) == 1 for card in cards)
+
+
+@pytest.mark.parametrize(("heading", "kind"), [
+    ("Web", "scope"), ("iOS and Android", "scope"), ("Web, iOS, and Android", "scope"),
+    ("macOS and Windows", "scope"), ("Plus", "scope"), ("Linux desktop", "scope"),
+    ("What's changed", "generic"), ("Improvements", "generic"), ("Bug fixes:", "generic"),
+    ("Patches", "generic"), ("Availability", "generic"), ("Other improvements", "generic"),
+    ("Background Agent", "feature"), ("Docs", "feature"), ("Teams", "feature"),
+])
+def test_heading_kinds(heading, kind):
+    from _scripts.extract import heading_kind
+    assert heading_kind(heading) == kind
+
+
+def test_preamble_paragraphs_with_one_theme_form_one_card():
+    body = ("Agent mode can now plan larger tasks before editing.\n"
+            "The agent shows each step and asks before running commands.\n"
+            "Pricing now uses a metered plan for every team.")
+    cards = w2_cards(body, title="v2.3")
+
+    assert [(card["theme"], len(card["evidence"])) for card in cards] == [
+        ("agent-mode", 2), ("pricing-model", 1)]
+    assert cards[0]["title"] == "Agent mode can now plan larger tasks before editing"
+    assert cards[0]["card_id"] == card_id_for(
+        "cursor", "2026-06-01", "\n".join(quotes(cards[0])),
+        source_release=structured_release(body, title="v2.3")["release_id"])
+
+
+@pytest.mark.parametrize(("title", "expected"), [
+    ("A new Pro plan with Astra Ultrafast", "A new Pro plan with Astra Ultrafast"),
+    ("Introducing GPT-6 with Intelligent UI", "Introducing GPT-6 with Intelligent UI"),
+    ("v2.1.300", "Agent mode can now plan larger tasks before editing"),
+    ("Bug fixes", "Agent mode can now plan larger tasks before editing"),
+])
+def test_single_card_release_takes_an_informative_release_title(title, expected):
+    body = ("Agent mode can now plan larger tasks before editing.\n"
+            "The agent shows each step and asks before running commands.")
+    cards = w2_cards(body, product="chatgpt", source_type="chatgpt_changelog", title=title)
+
+    assert len(cards) == 1
+    assert cards[0]["title"] == expected
+
+
+def test_lead_in_list_stays_with_its_paragraph_unless_it_has_another_theme():
+    body = ("Agent mode can now plan larger tasks. The agent can now:\n"
+            "- Run several agent tasks at once\n"
+            "- Ask before it overwrites quasar renderer settings\n"
+            "- Use the new pricing plan for metered teams")
+    cards = w2_cards(body, product="chatgpt", source_type="chatgpt_changelog", title="Agent update")
+
+    assert [len(card["evidence"]) for card in cards] == [3, 1]
+    assert cards[1]["theme"] == "pricing-model"
+
+
+LIST_BODY = "\n".join([
+    "## What's changed",
+    "- Added agent checkpoints so an agent run can be rewound",
+    "- Improved agent startup in large repositories",
+    "- Changed the agent status line to show the active subagent",
+    "- Added `/rewind` command to restore an earlier agent step",
+    "- Auto mode is now on by default for every agent session",
+    "- Improved model picker to group models by provider",
+    "- Added new quasar renderer for geometric palettes",
+    "- Fixed a crash when opening an empty panel",
+    "- Improved context window usage report in long sessions",
+    "- Improved compaction to keep the latest context window summary",
+])
+
+
+def test_list_mode_builds_digests_standalone_announcements_and_pending_lines():
+    cards = w2_cards(LIST_BODY, product="claude-code", source_type="github_releases",
+                     title="v2.1.300", version="v2.1.300")
+    by_kind = {}
+    for card in cards:
+        by_kind.setdefault(card["kind"], []).append(card)
+
+    digests = {card["theme"]: card for card in by_kind["digest"]}
+    assert digests["agent-mode"]["title"] == "3 Agent Mode changes in v2.1.300"
+    assert quotes(digests["agent-mode"]) == [
+        "Added agent checkpoints so an agent run can be rewound",
+        "Improved agent startup in large repositories",
+        "Changed the agent status line to show the active subagent",
+    ]
+    assert digests["context-window"]["title"].startswith("2 ")
+    standalone = {card["title"] for card in cards if len(card["evidence"]) == 1}
+    assert "Added `/rewind` command to restore an earlier agent step" in standalone
+    assert "Auto mode is now on by default for every agent session" in standalone
+    # A single line of a theme is an ordinary card, not a digest of one.
+    model = next(card for card in cards if card["theme"] == "model-support")
+    assert model["kind"] != "digest" and len(model["evidence"]) == 1
+    pending = [card for card in cards if card["theme"] == "__candidate__"]
+    assert [quotes(card) for card in pending] == [["Added new quasar renderer for geometric palettes"]]
+    assert not any("Fixed a crash" in quote for card in cards for quote in quotes(card))
+    themes = set(load_theme_vocabulary("_scripts/themes.yaml"))
+    assert all(validate_card(card, themes) == [] for card in cards)
+    digest = digests["agent-mode"]
+    assert digest["card_id"] == card_id_for(
+        "claude-code", "2026-06-01", "\n".join(quotes(digest)), source_release=digest["source_release"])
+
+
+@pytest.mark.parametrize("body", [
+    "#New Features\n" + "\n".join(f"Agent can now run task number {n} in parallel" for n in range(40)),
+    "\n".join(f"- Agent can now run task number {n} in parallel" for n in range(40)),
+])
+def test_no_cap_long_lists_keep_every_classified_line_in_digests(body):
+    cards = w2_cards(body)
+
+    assert len(cards) == 1
+    assert cards[0]["kind"] == "digest"
+    assert len(cards[0]["evidence"]) == 40
+    assert cards[0]["title"] == "40 Agent Mode changes in Agent update"
+
+
+def test_short_preamble_lists_keep_one_card_per_bullet():
+    body = "\n".join(f"- Agent can now run task number {n} in parallel" for n in range(8))
+    cards = w2_cards(body)
+
+    assert len(cards) == 8 and all(len(card["evidence"]) == 1 for card in cards)
+
+
+def test_cursor_patch_group_ends_at_the_first_unversioned_line():
+    from _scripts.extract import parse_release_blocks, release_sections
+    body = ("Patches (2)↓↑\n0.47.1: Improved performance for large files\n"
+            "0.47.2: Agent tab accepts single-line selections\n"
+            "This release focuses on agent stability for long sessions.\n"
+            "#Agent tabs\nAgents now open in tabs.")
+    sections = release_sections(parse_release_blocks(body))
+
+    assert [(section["kind"], len(section["blocks"])) for section in sections] == [
+        ("preamble", 1), ("generic", 2), ("feature", 1)]
+
+
+def test_digest_title_stays_within_the_title_limit():
+    title = "Reliability, Keyboard Shortcuts, Early access opt-in and a very long list of extras"
+    body = "#New Features\n" + "\n".join(f"Agent can now run task number {n}" for n in range(3))
+    card = w2_cards(body, title=title)[0]
+
+    assert card["title"].startswith("3 Agent Mode changes in Reliability")
+    assert len(card["title"]) <= 90 and card["title"].endswith("…")
+
+
+@pytest.mark.parametrize(("texts", "theme", "feature", "kind"), [
+    (["Introducing GPT-6 with Intelligent UI"], "model-support", False, "launch"),
+    (["We're launching ChatGPT Go, a new low-cost subscription plan."], "pricing-model", False, "launch"),
+    (["We're launching ChatGPT Go, our low cost subscription plan, in Brazil."], "pricing-model", False,
+     "expansion"),
+    (["ChatGPT Go is now available in 16 additional countries."], "pricing-model", False, "expansion"),
+    (["Codex is now available in the ChatGPT app for iOS."], "mobile-desktop", False, "expansion"),
+    (["Rolling out to Plus users on the web."], "mobile-desktop", False, "expansion"),
+    (["Fast mode is now available for Opus 4.6."], "model-support", False, "launch"),
+    (["Usage-based pricing now applies to every team."], "pricing-model", False, "pricing"),
+    (["GPT-4.5 will be retired from the model picker next month."], "model-support", False, "policy"),
+    (["We're doubling the message limits for Plus users."], "model-support", False, "policy"),
+    (["Parental controls are now available to all families."], "safety-privacy", False, "policy"),
+    (["Fixed a permission bypass in sandboxed commands"], "safety-privacy", False, "fix"),
+    (["[VSCode] Fixed a permission prompt shown twice"], "safety-privacy", False, "fix"),
+    (["Agent can run shell commands"], "agent-mode", False, "change"),
+    (["Background Agent", "Agent can now run tests in the background."], "agent-mode", True, "launch"),
+    (["Simpler, unified pricing", "Every plan now includes usage."], "pricing-model", True, "pricing"),
+])
+def test_kind_assignment(texts, theme, feature, kind):
+    from _scripts.extract import card_kind
+    assert card_kind(texts, theme, feature=feature) == kind
+
+
+def test_identity_joins_every_evidence_quote_and_single_lines_keep_their_ids():
+    body = "#Background Agent\nAgent can now run tests in the background.\nAgents report back when done."
+    release = structured_release(body)
+    card = w2_cards(body)[0]
+    single = w2_cards("- Agent can now run tests in the background.")[0]
+
+    assert card["card_id"] == card_id_for(
+        "cursor", "2026-06-01",
+        "Agent can now run tests in the background.\nAgents report back when done.",
+        source_release=release["release_id"])
+    assert single["card_id"] == card_id_for(
+        "cursor", "2026-06-01", "Agent can now run tests in the background.",
+        source_release=release["release_id"])
+    assert card["extractor_version"] == single["extractor_version"] == "fallback-v5"
+
+
+def test_tagged_bug_fix_lines_are_skipped_like_plain_fixes():
+    cards = w2_cards("- [VSCode] Fixed the agent panel flickering\n- Windows: Fixed agent startup\n"
+                     "- 0.48.7 - Fixes an issue where agent chats were deleted\n"
+                     "- Agent can run shell commands")
+
+    assert [quotes(card) for card in cards] == [["Agent can run shell commands"]]
+
+
+def test_flattened_code_lines_are_not_evidence():
+    body = ("#Cursor SDK\nAgents are now available from TypeScript.\n"
+            "model: { id: \"composer-2.5\" },\nlocal: { cwd: process.cwd() },\n"
+            "const agent = await Agent.create({")
+    assert quotes(w2_cards(body)[0]) == ["Agents are now available from TypeScript."]
+
+
+def test_card_title_ignores_sentence_punctuation_inside_inline_code():
+    line = "Changed HTML comments (`<!-- ... -->`) to stay hidden. Comments remain visible"
+    assert card_title(line, "Claude Code") == "Changed HTML comments (`<!-- ... -->`) to stay hidden"
+
+
+def test_line_review_decision_applies_to_a_single_line_feature_card():
+    body = "#Design Mode in canvases\nDesign Mode is now available in canvases."
+    release = structured_release(body)
+    line_id = card_id_for("cursor", "2026-06-01", "Design Mode is now available in canvases.",
+                          source_release=release["release_id"])
+    themes = load_theme_vocabulary("_scripts/themes.yaml")
+
+    card = extract_cards_from_release(release, themes, {line_id: "file-data"})[0]
+
+    assert card["card_id"] == line_id
+    assert card["theme"] == "file-data"
+    assert card["theme_resolution"] == "manual-backfill-review-v1"
+
+
+# W2 round 2: availability notes, resource memory and digest release labels.
+
+def test_available_in_fragment_is_skipped():
+    body = ("See how clothes could look on you.\n"
+            "- Save your finds: Save any product to Favorites in your ChatGPT Library.\n"
+            "Available in ChatGPT on mobile and web.")
+    cards = w2_cards(body, product="chatgpt", source_type="chatgpt_changelog", title="New ways to shop")
+
+    assert not any("Available in ChatGPT" in quote for card in cards for quote in quotes(card))
+
+
+@pytest.mark.parametrize("note", [
+    "Dots are rolling out gradually to eligible Pro and Business Premium users aged 18 and older.",
+    "Now available to every Plus and Pro user who opts in from the agent settings page today.",
+    "Start bills monthly with auto-renewal and is available from July 28, 2026.",
+])
+def test_availability_paragraph_joins_the_previous_card(note):
+    body = ("We're introducing dots: always-on agents in ChatGPT that keep working between "
+            "conversations.\n" + note + "\nPricing now uses a metered plan for every team.")
+    cards = w2_cards(body, product="chatgpt", source_type="chatgpt_changelog", title="Meet your dot")
+
+    assert [quotes(card)[1:] for card in cards if card["theme"] == "agent-mode"] == [[note]]
+    agent = next(card for card in cards if card["theme"] == "agent-mode")
+    assert agent["kind"] == "launch" and len(cards) == 2
+
+
+def test_availability_paragraph_skips_pending_cards_and_first_paragraphs_stay():
+    first = w2_cards("Agents are now available to every team on the Business plan in the agent panel.",
+                     product="chatgpt", source_type="chatgpt_changelog", title="Agents for teams")
+    assert len(first) == 1 and len(first[0]["evidence"]) == 1
+
+    body = ("Three new agent plugins help students work with their course materials.\n"
+            "- Quasar renderer: geometric palettes for flashcards\n"
+            "The plugins are available through Edu deployments chosen by each school.")
+    cards = w2_cards(body, product="chatgpt", source_type="chatgpt_changelog", title="Edu plugins")
+    agent = next(card for card in cards if card["theme"] == "agent-mode")
+    assert quotes(agent)[-1].startswith("The plugins are available")
+    assert [len(card["evidence"]) for card in cards if card["theme"] == "__candidate__"] == [1]
+
+
+def test_feature_sections_keep_trailing_availability_text():
+    card = w2_cards("#Background Agent\nAgent can now run tests in the background.\n"
+                    "Background Agent is rolling out to all users starting today.")[0]
+    assert len(card["evidence"]) == 2
+
+
+def test_sentence_openings_are_not_list_labels():
+    from _scripts.extract import is_labelled_item
+    assert is_labelled_item("Apply button: We've added some polish to the apply flow.")
+    assert not is_labelled_item("We’re introducing dots: always-on agents in ChatGPT.")
+
+
+@pytest.mark.parametrize(("line", "theme"), [
+    ("Improved LSP tool rendering and memory context building to no longer read entire files",
+     "reliability-performance"),
+    ("Improved session upload and memory sync to avoid reading large files into memory before "
+     "size/binary checks", "reliability-performance"),
+    ("Reduced baseline memory by ~16MB by deferring Yoga WASM preloading", "reliability-performance"),
+    ("Reduced memory footprint for SDK and CCR sessions using stream-json output",
+     "reliability-performance"),
+    ("Memory now remembers your preferred units", "memory"),
+    ("Reduced the memory footprint of MEMORY.md files loaded at startup", "memory"),
+])
+def test_resource_memory_lines_route_to_reliability(line, theme):
+    from _scripts.extract import line_classification
+    classification = line_classification(line, load_theme_vocabulary("_scripts/themes.yaml"))
+    assert classification["theme"] == theme
+
+
+@pytest.mark.parametrize(("release", "label"), [
+    ({"source_type": "cursor_changelog", "source_url": "https://cursor.com/changelog/0-48-x",
+      "title": "Chat tabs, Custom modes & Faster indexing"}, "0.48.x"),
+    ({"source_type": "cursor_changelog", "source_url": "https://cursor.com/changelog/1-1",
+      "title": "Background Agents in Slack"}, "1.1"),
+    ({"source_type": "cursor_changelog", "source_url": "https://cursor.com/changelog/projects",
+      "title": "Cursor Projects"}, "Cursor Projects"),
+    ({"source_type": "chatgpt_changelog", "source_url": "https://help.openai.com/x",
+      "title": "Share files and folders from your Library"}, "Share files and folders…"),
+    ({"source_type": "github_releases", "source_url": "https://github.com/x/releases/tag/v2.1.300",
+      "title": "v2.1.300", "version": "v2.1.300"}, "v2.1.300"),
+])
+def test_digest_release_label(release, label):
+    from _scripts.extract import digest_release_label
+    assert digest_release_label(release) == label
+    assert len(label) <= 40
+
+
+def test_cursor_digest_title_uses_the_version_from_the_changelog_url():
+    body = "#New Features\n" + "\n".join(f"Agent can now run task number {n}" for n in range(3))
+    release = {**structured_release(body, title="Chat tabs, Custom modes & Faster indexing"),
+               "source_url": "https://cursor.com/changelog/0-48-x"}
+    card = extract_cards_from_release(release, load_theme_vocabulary("_scripts/themes.yaml"))[0]
+    assert card["title"] == "3 Agent Mode changes in 0.48.x"

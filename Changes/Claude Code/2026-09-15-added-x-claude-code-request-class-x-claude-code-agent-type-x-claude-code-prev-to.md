@@ -4,8 +4,8 @@ date: '2026-09-15'
 description: 'Claude Code · 2026-09-15 · Context Window: Added `x-claude-code-request-class`,
   `x-claude-code-agent-type`, `x-claude-code-prev-tool-durations`…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
-    prompt length for project generation]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1230
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: 15730c2fbd89d19e112d972540d310dbfecd79d7eb6b7abbe05b04cd05c720bf
+kind: change
+machine_hash: ddab43b9cb70326337b01642545c882000c9864798f49d7b323a3c4c754f3bc2
 product: claude-code
 product_name: Claude Code
 record:
@@ -33,8 +34,9 @@ record:
       `x-claude-code-compaction` and `x-claude-code-context-compacted` request headers
       for LLM gateways; opt in with `CLAUDE_CODE_GATEWAY_HINT_HEADERS=1`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.273
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-x-claude-code-request-class-x-claude-code-agent-type-x-claude-code-prev-to
@@ -58,12 +60,12 @@ record:
   title: Added `x-claude-code-request-class`, `x-claude-code-agent-type`…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-11-improved-compaction-progress-the-retry-countdown-and-stall-hint-now-appear-durin|Improved
-  compaction progress]]'
-- '[[Changes/Claude Code/2026-09-04-added-skill-doctor-to-show-which-loaded-skills-go-unused-and-what-they-cost-in-c|Added
-  /skill-doctor to show which loaded skills go unused and what they cost…]]'
-- '[[Changes/Cursor/2026-09-10-today-we-re-launching-projects-in-cursor-projects-lets-you-take-on-larger-bodies|Cursor
+- '[[Changes/Cursor/2026-09-10-you-shouldn-t-have-to-onboard-an-agent-every-time-you-start-a-task-each-project|Shared
+  context]]'
+- '[[Changes/Cursor/2026-09-10-today-we-re-launching-projects-in-cursor-projects-lets-you-take-on-larger-bodies-51d06c|Cursor
   launches Projects]]'
+- '[[Changes/Claude Code/2026-09-14-improved-the-spinner-status-during-long-thinking-it-now-reads-deep-in-thought-af|Improved
+  the spinner status during long thinking]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'
 source_type: github_releases
 theme: context-window
@@ -86,23 +88,30 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-09-15-fixed-read-on-macos-refusing-a-dragged-in-screenshot-or-any-file-the-system-repo|Fixed Read on macOS refusing a dragged-in screenshot, or any file the system reports…]] · Safety and Privacy
-- [[Changes/Claude Code/2026-09-15-added-forking-a-session-started-with-claude-remote-control-or-remote-control-fro|Added forking a session started with claude --remote-control or /remote-control…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-09-15-added-a-notification-when-an-mcp-server-disconnects-mid-session-and-automatic-re|Added a notification when an MCP server disconnects mid-session and automatic…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-09-15-fixed-bash-commands-the-permission-checker-cannot-fully-analyze-skipping-the-pro|Fixed Bash commands the permission checker cannot fully analyze skipping the prompt…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-09-15-claude-code-on-the-web-improved-the-routine-detail-page-menu-and-rename-in-the-b|Claude Code on the web Improved the routine detail page]] · Interface Experience
+- [[Changes/Claude Code/2026-09-15-improved-artifact-database-writes-an-update-can-now-remove-a-single-field-instea|Improved artifact database writes]] · Files and Data
+- [[Changes/Claude Code/2026-09-15-5-safety-and-privacy-changes-in-v2-1-273|5 Safety and Privacy changes in v2.1.273]] · Safety and Privacy
+- [[Changes/Claude Code/2026-09-15-3-apps-and-integrations-changes-in-v2-1-273|3 Apps and Integrations changes in v2.1.273]] · Apps and Integrations
+- [[Changes/Claude Code/2026-09-15-changed-auto-mode-on-bedrock-vertex-and-foundry-to-use-the-local-classifier-by-d|Changed auto mode on Bedrock, Vertex and Foundry to use the local classifier…]] · Agent Mode
+- [[Changes/Claude Code/2026-09-15-changed-bug-and-feedback-reports-to-include-only-model-behavior-params-model-sys|Changed /bug and /feedback reports to include only model-behavior params…]] · Model Support
+- [[Changes/Claude Code/2026-09-15-claude-code-on-the-web-added-a-discard-unsaved-changes-confirmation-before-the-n|Claude Code on the web Added a "Discard unsaved changes?" confirmation before…]] · Editor Experience
+- [[Changes/Claude Code/2026-09-15-4-account-and-access-changes-in-v2-1-273|4 Account and Access changes in v2.1.273]] · Account and Access
+- [[Changes/Claude Code/2026-09-15-improved-responsiveness-in-long-sessions-hook-progress-and-sub-agent-activity-no|Improved responsiveness in long sessions]] · Reliability and Performance
+- [[Changes/Claude Code/2026-09-15-claude-code-on-the-web-removed-the-full-page-desktop-app-download-screen-that-ne|Claude Code on the web Removed the full-page desktop-app download screen that new…]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-09-15-3-developer-workflow-changes-in-v2-1-273|3 Developer Workflow changes in v2.1.273]] · Developer Workflow
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-09-10 · Cursor · [[Changes/Cursor/2026-09-10-today-we-re-launching-projects-in-cursor-projects-lets-you-take-on-larger-bodies|Cursor launches Projects]]
-- Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-added-autocompactwindow-to-subagent-frontmatter-and-agents-definitions-so-a-suba|Added autoCompactWindow to subagent frontmatter and --agents definitions…]]
+- Earlier: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-improved-the-spinner-status-during-long-thinking-it-now-reads-deep-in-thought-af|Improved the spinner status during long thinking]]
+- Later: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-2-context-window-changes-in-v2-1-283|2 Context Window changes in v2.1.283]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

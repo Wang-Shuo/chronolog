@@ -719,7 +719,7 @@ def test_release_summary_counts_tracked_and_candidate_lines():
     regions = extract_machine_regions(post.content)
     assert regions["summary"] == (
         "3 tracked changes across 2 themes: Agent Mode, Model Support.\n\n"
-        "Tracked 3 of 7 candidate lines.")
+        "Tracked 3 cards from 7 candidate lines.")
     assert regions["cards"].splitlines()[0] == "- [[2025-02-01-agent-shell|Agent shell]] · Agent Mode"
     assert "Model picker]] · Model Support" in regions["cards"]
     assert post["record"]["candidate_line_count"] == 7
@@ -734,12 +734,12 @@ def test_release_summary_uses_informative_source_summary_and_omits_unknown_denom
     post = frontmatter.loads(render_release_markdown(release))
 
     assert extract_machine_regions(post.content)["summary"] == (
-        "Agents now run in the cloud.\n\nTracked 0 changes.")
+        "Agents now run in the cloud.\n\nTracked 0 cards.")
     assert "candidate_line_count" not in post["record"]
     for generic in ("What's changed", "#New Features", "Release notes", "v1.2"):
         summary = extract_machine_regions(frontmatter.loads(render_release_markdown(
             release_record(title="v1.2", source_summary=generic))).content)["summary"]
-        assert summary == "No change cards extracted.\n\nTracked 0 changes."
+        assert summary == "No change cards extracted.\n\nTracked 0 cards."
 
 
 def test_candidate_line_count_survives_history_reconstruction():
@@ -753,7 +753,7 @@ def test_candidate_line_count_survives_history_reconstruction():
     assert record["candidate_line_count"] == 2
     summary = extract_machine_regions(frontmatter.loads(
         render_release_markdown({**record, "cards": []})).content)["summary"]
-    assert summary.endswith("Tracked 0 of 2 candidate lines.")
+    assert summary.endswith("Tracked 0 cards from 2 candidate lines.")
 
 
 def test_theme_display_names_label_theme_index_and_product_pages():
@@ -816,7 +816,8 @@ def test_write_run_links_card_context_with_vocabulary_and_repository(tmp_path: P
         "- [[Changes/Cursor/2025-02-01-mobile-review|Mobile review]] · Mobile and Desktop")
     assert regions["footer"].startswith(f"[Report an issue with this card]({REPOSITORY}/issues/new?")
     page = frontmatter.load(vault / "Releases/Cursor/cursor-2025-02-01-v1.md")
-    assert extract_machine_regions(page.content)["summary"].endswith("Tracked 2 of 2 candidate lines.")
+    assert extract_machine_regions(page.content)["summary"].endswith(
+        "Tracked 2 cards from 2 candidate lines.")
     assert frontmatter.load(vault / "Themes/mobile-desktop.md")["title"] == "Mobile and Desktop"
     assert not (PipelinePaths("context", vault).run_dir / "writer-migration-pending.json").exists()
 
@@ -1008,7 +1009,7 @@ def test_home_page_products_themes_and_coverage_summary():
         "(https://github.com/anthropics/claude-code/releases)",
         "- Cursor · 2 releases · 2026-08-01 → 2026-10-13 · [official source](https://cursor.com/changelog)",
         "",
-        "Acquisition times, sampling rules, review status and glossary: [[About|About the data]].",
+        "Acquisition times, how cards are made, review status and glossary: [[About|About the data]].",
     ])
     assert "Agent Mode]] — From assisted edits to delegated work" in regions["featured"]
     # Review counts and acquisition timestamps live on the About page only.
@@ -1112,12 +1113,14 @@ def test_about_page_documents_sources_method_status_and_feedback():
     assert ("- Official source: [Claude Code GitHub releases]"
             "(https://github.com/anthropics/claude-code/releases)") in regions["sources"]
     assert "- Last successful fetch: 2026-10-15T01:55:15Z." in regions["sources"]
-    assert "At most five cards are kept per release" in regions["method"]
-    assert "Tracked N of M candidate lines" in regions["method"]
+    assert "At most" not in regions["method"] and "sampled" not in regions["method"]
+    assert "digest card per release" in regions["method"]
+    assert "Tracked N cards from M candidate lines" in regions["method"]
     assert regions["status"].startswith(
         "3 products · 6 archived releases · 15 tracked changes · 5 themes. "
         "Pending theme review: 1,234. Silence alerts: 0.")
-    for term in ("Change Card", "Release", "Theme", "Era", "Tracked products only", "Candidate line"):
+    for term in ("Change Card", "Digest card", "Release", "Theme", "Era", "Tracked products only",
+                 "Candidate line"):
         assert f"- **{term}**: " in regions["glossary"]
     assert regions["feedback"].endswith(f"open an issue at [{REPOSITORY}/issues]({REPOSITORY}/issues).")
     assert extract_machine_regions(render_about(repository=""))["feedback"] == ""
@@ -1161,4 +1164,153 @@ def test_product_coverage_region_is_a_one_line_summary_linking_about():
         "3 releases · 2025-01-01 → 2026-10-01 · [official source]"
         "(https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · "
         "Codex-only entries excluded.\n\n"
-        "Acquisition details, sampling rules and known gaps: [[About]].")
+        "Acquisition details, how cards are made and known gaps: [[About]].")
+
+
+def digest_card() -> dict[str, object]:
+    bullets = ["Added agent checkpoints", "Improved agent startup", "Changed the agent status line"]
+    return {
+        **change_card(), "card_id": "claude-code-2026-10-14-dddddd", "product": "claude-code",
+        "product_name": "Claude Code", "source_release": "claude-code-2026-10-14-v2-1-300",
+        "date": "2026-10-14", "title": "3 Agent Mode changes in v2.1.300",
+        "slug": "3-agent-mode-changes-in-v2-1-300", "kind": "digest",
+        "evidence": [{"source_release": "https://github.com/anthropics/claude-code/releases/tag/v2.1.300",
+                      "quote": quote} for quote in bullets],
+        "extractor_version": "fallback-v5",
+    }
+
+
+def test_digest_card_lists_each_change_and_names_the_release():
+    card = digest_card()
+    post = frontmatter.loads(render_change_markdown(
+        card, {}, {}, {card["card_id"]: "Changes/Claude Code/x"},
+        release_target="Releases/Claude Code/v2-1-300", release_title="v2.1.300",
+        theme_labels=THEME_LABELS))
+    regions = extract_machine_regions(post.content)
+
+    assert regions["header"].splitlines()[2] == (
+        "**Claude Code** · 2026-10-14 · [[Themes/agent-mode|Agent Mode]] · Digest · "
+        "[Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.300) · "
+        "from [[Releases/Claude Code/v2-1-300|v2.1.300]]")
+    assert regions["evidence"] == (
+        "## Changes in this digest\n\n"
+        "> Added agent checkpoints\n\n> Improved agent startup\n\n> Changed the agent status line\n\n"
+        "Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.300")
+    assert post["kind"] == "digest"
+    assert post["description"] == (
+        "Claude Code · 2026-10-14 · Agent Mode: 3 changes in v2.1.300 — Added agent checkpoints")
+
+
+def test_multi_paragraph_card_quotes_one_group_and_labels_kind_and_scope():
+    card = {**change_card(), "kind": "launch", "scope": "iOS",
+            "evidence": [{"source_release": "https://example.com", "quote": "First paragraph."},
+                         {"source_release": "https://example.com", "quote": "Second paragraph."}]}
+    regions = extract_machine_regions(frontmatter.loads(
+        render_change_markdown(card, {}, {}, theme_labels=THEME_LABELS)).content)
+
+    assert regions["evidence"] == (
+        "> First paragraph.\n>\n> Second paragraph.\n>\n> Source: https://example.com")
+    assert regions["header"].splitlines()[2] == (
+        "**Cursor** · 2025-02-01 · [[Themes/agent-mode|Agent Mode]] · Launch · iOS · "
+        "[Official source](https://example.com)")
+    plain = extract_machine_regions(frontmatter.loads(
+        render_change_markdown({**change_card(), "kind": "change"}, {}, {}, theme_labels=THEME_LABELS)
+    ).content)
+    assert plain["header"].splitlines()[2] == (
+        "**Cursor** · 2025-02-01 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://example.com)")
+
+
+def test_release_summary_reports_cards_candidate_lines_and_pending_lines():
+    cards = [{**change_card(), "kind": "launch"}, {**digest_card(), "source_release": "cursor-2025-02-01-v1",
+                                                   "date": "2025-02-01", "card_id": "cursor-2025-02-01-dddddd"}]
+    body = "## What's changed\n" + "\n".join(f"- Candidate change line {n}" for n in range(9))
+    release = {**release_record(title="v1.2", source_summary=""), "body": body, "cards": cards}
+
+    post = frontmatter.loads(render_release_markdown(release, theme_labels=THEME_LABELS, pending_lines=2))
+    regions = extract_machine_regions(post.content)
+
+    assert regions["summary"].endswith("Tracked 2 cards from 9 candidate lines; 2 lines pending review.")
+    assert "Agent shell]] · Agent Mode · Launch" in regions["cards"]
+    assert "3 Agent Mode changes in v2.1.300]] · Agent Mode · Digest" in regions["cards"]
+    single = frontmatter.loads(render_release_markdown(
+        {**release, "cards": cards[:1]}, theme_labels=THEME_LABELS, pending_lines=1))
+    assert extract_machine_regions(single.content)["summary"].endswith(
+        "Tracked 1 card from 9 candidate lines; 1 line pending review.")
+
+
+def test_write_run_counts_pending_lines_per_release(tmp_path: Path):
+    vault = tmp_path / "vault"
+    release = {**release_record(), "body": "- Agent can run shell commands.\n- New quasar renderer here."}
+    pending = {**change_card(), "card_id": "cursor-2025-02-01-cccccc", "theme": "__candidate__",
+               "theme_suggestion": "quasar", "title": "Quasar", "slug": "quasar",
+               "evidence": [{"source_release": "https://example.com", "quote": "New quasar renderer here."}]}
+    write_run_inputs(vault, "pending", [change_card()], [release])
+    paths = PipelinePaths("pending", root=vault)
+    write_json(paths.valid_cards, {"change_cards": [change_card()], "pending_theme_review": [pending]})
+
+    assert write_run("pending", root=vault) == []
+    page = frontmatter.load(vault / "Releases/Cursor/cursor-2025-02-01-v1.md")
+    assert extract_machine_regions(page.content)["summary"].endswith(
+        "Tracked 1 card from 2 candidate lines; 1 line pending review.")
+
+
+def test_merge_history_resolves_pending_lines_absorbed_into_new_cards():
+    old_pending = {**change_card(), "card_id": "cursor-2025-02-01-cccccc", "theme": "__candidate__",
+                   "evidence": [{"source_release": "https://example.com", "quote": "Second paragraph."}]}
+    unrelated = {**old_pending, "card_id": "cursor-2025-02-01-eeeeee",
+                 "evidence": [{"source_release": "https://example.com", "quote": "Elsewhere."}]}
+    card = {**change_card(), "evidence": [
+        {"source_release": "https://example.com", "quote": "First paragraph."},
+        {"source_release": "https://example.com", "quote": "Second paragraph!"}]}
+
+    _, cards, queue = merge_history(([], [], [old_pending, unrelated]), [], [card], [], {"cursor"})
+
+    assert [c["card_id"] for c in cards] == [card["card_id"]]
+    assert [c["card_id"] for c in queue] == [unrelated["card_id"]]
+
+
+def test_reconcile_replaces_queue_entries_of_reextracted_releases_only():
+    stale = {**change_card(), "card_id": "cursor-2025-02-01-cccccc", "theme": "__candidate__",
+             "evidence": [{"source_release": "https://example.com", "quote": "Improvements (6)↓↑"}]}
+    elsewhere = {**stale, "card_id": "cursor-2025-01-01-eeeeee", "source_release": "cursor-2025-01-01-v0"}
+    collected = {**release_record(), "body": "- Agent can run shell commands."}
+
+    _, _, queue = merge_history(([], [], [stale, elsewhere]), [collected], [change_card()], [], {"cursor"})
+    assert [c["card_id"] for c in queue] == [elsewhere["card_id"]]
+    # Without reconciliation an unmatched entry stays queued.
+    _, _, queue = merge_history(([], [], [stale]), [collected], [change_card()], [], set())
+    assert [c["card_id"] for c in queue] == [stale["card_id"]]
+
+
+def test_merge_history_matches_lines_without_list_markers():
+    old = {**change_card(), "card_id": "chatgpt-2025-03-18-aaaaaa", "theme": "__candidate__",
+           "evidence": [{"source_release": "https://example.com", "quote": "3⁠. Improved quote display."}]}
+    card = {**change_card(), "evidence": [{"source_release": "https://example.com",
+                                           "quote": "Improved quote display."}]}
+
+    _, _, queue = merge_history(([], [], [old]), [], [card], [], set())
+    assert queue == []
+
+
+def test_reactivated_superseded_legacy_card_takes_the_new_template(tmp_path: Path):
+    # A pre-W1 superseded page has neither record nor title, so its old H1 cannot be
+    # matched; it was never refreshed, so it is generated text, not a human edit.
+    target = tmp_path / "change.md"
+    legacy = frontmatter.loads(legacy_change_markdown(change_card()).replace(
+        "# Agent shell\n", "# Agent can run shell commands.\n"))
+    for key in ("record", "title"):
+        legacy.metadata.pop(key)
+    legacy["superseded"] = True
+    legacy["machine_hash"] = machine_hash(
+        {k: v for k, v in legacy.metadata.items() if k != "machine_hash"},
+        extract_machine_regions(legacy.content))
+    target.write_text(frontmatter.dumps(legacy), encoding="utf-8")
+    rendered = render_change_markdown(change_card(), {"evolves_from": []}, {})
+    pending: list[dict[str, str]] = []
+
+    assert write_markdown_file(target, rendered, [], pending) is True
+
+    post = frontmatter.load(target)
+    assert pending == []
+    assert post.content == frontmatter.loads(rendered).content
+    assert "superseded" not in post.metadata

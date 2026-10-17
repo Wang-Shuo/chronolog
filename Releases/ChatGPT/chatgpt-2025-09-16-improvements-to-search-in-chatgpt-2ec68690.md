@@ -3,7 +3,7 @@ changes_count: 4
 date: '2025-09-16'
 description: 'ChatGPT release Improvements to search in ChatGPT on 2025-09-16: 4 tracked
   changes across Search and Browsing, Interface Experience, Model Support'
-machine_hash: 8c0f204b0f9bd05ba136187a37a2f0f15d3a26dde434abc0caa1ddb88c26c9c5
+machine_hash: d085c63793453d2707f6eeda5bae7caf86cfe6b73246b6428230d6029c11fdce
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ version: Improvements to search in ChatGPT
 <!-- chronolog:begin region="summary" -->
 We’ve made further improvements to search in ChatGPT, making results more accurate, reliable, and useful.
 
-Tracked 4 of 4 candidate lines.
+Tracked 4 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

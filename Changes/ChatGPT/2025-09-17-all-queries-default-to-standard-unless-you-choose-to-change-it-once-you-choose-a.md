@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 49aafb289844440513c44b0b6c11c7330087cd46d85db61e8165aaf2256a5071
+machine_hash: e5e8a8f6181a252cfa7d5a35385dee7697f10667d7e4af2371654e42911d29f2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,6 +53,7 @@ related_changes:
   you select GPT-5 with Thinking in ChatGPT, you’ll see a new thinking time…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c|chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: All queries default to Standard unless you choose to change it
 type: change

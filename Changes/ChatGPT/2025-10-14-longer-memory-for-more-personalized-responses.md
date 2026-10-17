@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c552e92f4348b282fe1cf106f6c22244a138cf036ca40dc83575c728aba9d3f1
+machine_hash: 8adec5dbad9e2dfac5ec522164bccff70c5cf6e535f5737ed50aa93820153429
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,6 +47,7 @@ related_changes:
   memory for more personalized responses]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-14-chatgpt-go-expansion-37d00d9f|chatgpt-2025-10-14-chatgpt-go-expansion-37d00d9f]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: memory
 title: Longer memory for more personalized responses
 type: change

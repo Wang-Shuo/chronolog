@@ -5,8 +5,8 @@ description: 'Cursor · 2026-10-06 · Agent Mode: Remote control doesn''t move y
   agents anywhere. It keeps running on your computer, and the app connects to it.
   Your…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1188
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f553a0a6dbf7436db0a8130187c9a90853759755996916feee13a3dffc5e8969
+kind: launch
+machine_hash: 5eab18d9638dba4447601c151180ee2cf87f500c4ebae18470899691f94df697
 product: cursor
 product_name: Cursor
 record:
@@ -32,34 +33,35 @@ record:
       computer, and the app connects to it. Your computer needs to stay on and online
       for remote control to work.
     source_release: https://cursor.com/changelog/remote-control-local-agents
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: remote-control-doesn-t-move-your-agents-anywhere-it-keeps-running-on-your-comput
+  slug: agents-keep-running-on-your-computer
   source_release: cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd
   source_type: cursor_changelog
   theme: agent-mode
-  title: Remote control doesn't move your agents anywhere
+  title: Agents keep running on your computer
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-30-improved-replies-from-background-agents-to-your-messages-so-they-no-longer-open|Improved
-  replies from background agents to your messages so they no longer open…]]'
-- '[[Changes/Claude Code/2026-10-01-added-an-n-text-filter-to-the-agents-view-that-matches-session-names-and-tasks-a|Added
-  an n:text filter to the agents view that matches session names and tasks]]'
-- '[[Changes/Claude Code/2026-10-06-added-an-effort-parameter-to-the-agent-tool-so-claude-runs-a-sub-agent-at-the-ef|Added
-  an effort parameter to the Agent tool, so Claude runs a sub-agent…]]'
+- '[[Changes/Claude Code/2026-10-05-added-claude-api-managed-agents-onboard-quickstart-name-to-build-a-console-quick|Added
+  /claude-api managed-agents-onboard quickstart-name to build a Console…]]'
+- '[[Changes/Claude Code/2026-10-05-4-agent-mode-changes-in-v2-1-290|4 Agent Mode
+  changes in v2.1.290]]'
+- '[[Changes/Claude Code/2026-10-06-3-agent-mode-changes-in-v2-1-292|3 Agent Mode
+  changes in v2.1.292]]'
 source_release: '[[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Remote control doesn't move your agents anywhere
+title: Agents keep running on your computer
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Remote control doesn't move your agents anywhere
+# Agents keep running on your computer
 
-**Cursor** · 2026-10-06 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/remote-control-local-agents) · from [[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|Remote control for local agents]]
+**Cursor** · 2026-10-06 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://cursor.com/changelog/remote-control-local-agents) · from [[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|Remote control for local agents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -71,23 +73,23 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer|To stop your computer from sleeping while you're away, turn…]] · Mobile and Desktop
-- [[Changes/Cursor/2026-10-06-remote-control-is-on-by-default-except-for-enterprise-organizations-enterprise-a|Remote control is on by default, except for Enterprise organizations]] · Enterprise and Administration
+- [[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer|Keep your computer awake]] · Mobile and Desktop
 - [[Changes/Cursor/2026-10-06-you-can-now-see-and-reply-to-the-local-agents-running-on-your-computer-from-the|See and reply to the local agents running on your computer from the Cursor iOS app]] · Mobile and Desktop
 - [[Changes/Cursor/2026-10-06-remote-control-is-on-by-default-for-everyone-except-enterprise-organizations|Remote Control is on by default for everyone except Enterprise organizations]] · Enterprise and Administration
+- [[Changes/Cursor/2026-10-06-for-enterprise-teams|For Enterprise teams]] · Enterprise and Administration
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-added-an-effort-parameter-to-the-agent-tool-so-claude-runs-a-sub-agent-at-the-ef|Added an effort parameter to the Agent tool, so Claude runs a sub-agent…]]
-- Later: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-added-agenttype-to-the-subagentstatusline-payload-so-scripts-can-tell-custom-sub|Added agentType to the subagentStatusLine payload, so scripts can tell custom…]]
+- Earlier: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-3-agent-mode-changes-in-v2-1-292|3 Agent Mode changes in v2.1.292]]
+- Later: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-2-agent-mode-changes-in-v2-1-293|2 Agent Mode changes in v2.1.293]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

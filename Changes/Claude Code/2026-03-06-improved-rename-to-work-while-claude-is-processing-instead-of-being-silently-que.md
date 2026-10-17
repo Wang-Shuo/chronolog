@@ -14,9 +14,10 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: e75e15b56357000e75d8ae7aaf00b06577eb1ce547be5b1c4d4409e8d9cb267c
+kind: change
+machine_hash: e343cd3736ba3f22475c8bd15be6a509b0637971ce4a2ae5751b9603d3477f94
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Improved `/rename` to work while Claude is processing, instead of being
       silently queued
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.70
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-rename-to-work-while-claude-is-processing-instead-of-being-silently-que
@@ -72,10 +74,11 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-03-06-reduced-startup-memory-by-426kb-for-users-without-custom-ca-certificates|Reduced startup memory by ~426KB for users without custom CA certificates]] · Memory and Personalization
-- [[Changes/Claude Code/2026-03-06-reduced-prompt-input-re-renders-during-turns-by-74|Reduced prompt input re-renders during turns by ~74%]] · Reliability and Performance
-- [[Changes/Claude Code/2026-03-06-improved-compaction-to-preserve-images-in-the-summarizer-request-allowing-prompt|Improved compaction to preserve images in the summarizer request, allowing prompt…]] · Reliability and Performance
+- [[Changes/Claude Code/2026-03-06-vscode-added-native-mcp-server-management-dialog-use-mcp-in-the-chat-panel-to-en|VSCode Added native MCP server management dialog]] · Account and Access
+- [[Changes/Claude Code/2026-03-06-vscode-added-spark-icon-in-vs-code-activity-bar-that-lists-all-claude-code-sessi|VSCode Added spark icon in VS Code activity bar that lists all Claude Code…]] · Interface Experience
+- [[Changes/Claude Code/2026-03-06-3-reliability-and-performance-changes-in-v2-1-70|3 Reliability and Performance changes in v2.1.70]] · Reliability and Performance
 - [[Changes/Claude Code/2026-03-06-reduced-remote-control-poll-rate-to-once-per-10-minutes-while-connected-was-1-2s|Reduced Remote Control /poll rate to once per 10 minutes while connected…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-03-06-vscode-added-full-markdown-document-view-for-plans-in-vs-code-with-support-for-a|VSCode Added full markdown document view for plans in VS Code, with support…]] · Files and Data
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

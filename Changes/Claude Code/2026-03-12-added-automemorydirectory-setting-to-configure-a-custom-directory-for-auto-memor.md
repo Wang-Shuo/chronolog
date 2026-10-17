@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: aa65a780ba8c33ada054e74943b01960f0c4c3edbafc7a4a143ec18942c95c76
+machine_hash: bda1b13a2254c6e44aa372688818c0b0b6c40404e4c5c80d8c39a5d8cf86f698
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   startup memory by ~426KB for users without custom CA certificates]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae|claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae]]'
 source_type: github_releases
+superseded: true
 theme: memory
 title: Added autoMemoryDirectory setting to configure a custom directory for auto-memory…
 type: change

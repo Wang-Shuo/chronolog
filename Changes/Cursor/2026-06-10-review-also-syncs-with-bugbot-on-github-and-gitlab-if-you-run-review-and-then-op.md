@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9eb7abc8987b81d08234b13c3ba8c67f28bed497150e0d4d62d81ba048513828
+machine_hash: ba888aee1d49b260969799dd967eaddd29cb4e2739ef98db6434dacc9ce89821
 product: cursor
 product_name: Cursor
 record:
@@ -54,6 +54,7 @@ related_changes:
   no longer requires a separate Read after viewing a file with grep]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-10-bugbot-is-now-over-3x-faster-22-cheaper-and-finds-10-more-bugs-h-c1721c78|cursor-2026-06-10-bugbot-is-now-over-3x-faster-22-cheaper-and-finds-10-more-bugs-h-c1721c78]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: /review also syncs with Bugbot on GitHub and GitLab
 type: change

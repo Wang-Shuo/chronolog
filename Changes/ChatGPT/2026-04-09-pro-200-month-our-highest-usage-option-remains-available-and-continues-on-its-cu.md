@@ -15,9 +15,10 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 608641795ce4897f0c8d06ee7e6c36b4a421b78f8f72103a73471acb7cee0480
+kind: pricing
+machine_hash: 7d4551fc16aca0e609022aaa5a8577c365668e755eb6248ef032b05f71cc8300
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,8 +32,9 @@ record:
   - quote: 'Pro ($200/month): Our highest-usage option remains available and continues
       on its current Codex promotion through May 31.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: pricing
   product: chatgpt
   product_name: ChatGPT
   slug: pro-200-month-our-highest-usage-option-remains-available-and-continues-on-its-cu
@@ -60,7 +62,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Pro ($200/month): Our highest-usage option remains available and continues…
 
-**ChatGPT** · 2026-04-09 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|New Pro plan options]]
+**ChatGPT** · 2026-04-09 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|New Pro plan options]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -82,7 +84,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users|Added per-model and cache-hit breakdown to /cost for subscription users]]
-- Later: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-customers-must-be-on-usage-based-billing-for-bugbot-to-customize-effort-levels-l|Customers must be on usage-based billing for Bugbot to customize effort levels]]
+- Later: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-fixed-false-bash-permission-prompts-for-cut-d-paste-d-column-s-awk-print-1-file|Fixed false Bash permission prompts for cut -d /, paste -d /, column -s /…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

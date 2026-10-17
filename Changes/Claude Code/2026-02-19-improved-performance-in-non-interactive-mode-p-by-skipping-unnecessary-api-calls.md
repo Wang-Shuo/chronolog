@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 634e6939a3ba512b5e323731adfe501cef7375315663ce38d2fe1945be856e57
+machine_hash: 084b54732aff7bf218460cdb4d865b764bc113a9305ea0326cffa7d2aa78ab26
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   memory usage in long-running sessions by releasing API stream buffers…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140|claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140]]'
 source_type: github_releases
+superseded: true
 theme: reliability-performance
 title: Improved performance in non-interactive mode (-p) by skipping unnecessary API…
 type: change

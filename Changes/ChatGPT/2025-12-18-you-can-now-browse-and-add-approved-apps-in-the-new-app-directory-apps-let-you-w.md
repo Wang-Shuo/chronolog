@@ -5,8 +5,8 @@ description: 'ChatGPT · 2025-12-18 · Apps and Integrations: You can now browse
   add approved apps in the new app directory. Apps let you work with your tools and
   data…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1001
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: a8e3bcc2fd4304c341313a47cbf38911ac7680a176b376efa9dc98375caa2a1a
+kind: launch
+machine_hash: ecc0eb4f6f6fa19b3d1232f711798d33cac5bd475c7717f330a09b581f19a14d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,8 +52,9 @@ record:
       developers can submit apps for review and publication in the app directory,
       making approved apps available to a broader set of ChatGPT users.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: launch
   product: chatgpt
   product_name: ChatGPT
   slug: you-can-now-browse-and-add-approved-apps-in-the-new-app-directory-apps-let-you-w
@@ -70,26 +72,26 @@ record:
     - browse
     score: 50
     theme: search-browsing
-  title: Browse and add approved apps in the new app directory
+  title: Introducing the app directory in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-use-hooks-to-audit-agent-usage-block-commands-or-redact-secrets-from-context-it|Use
-  Hooks to audit Agent usage, block commands, or redact secrets from context]]'
-- '[[Changes/ChatGPT/2025-10-09-we-re-adding-notion-and-linear-as-synced-connectors-for-pro-users-so-you-can-sec|ChatGPT
-  adds Notion and Linear as synced connectors (for Pro users), so you can…]]'
-- '[[Changes/ChatGPT/2025-10-13-we-re-rolling-out-two-new-ways-to-bring-slack-and-chatgpt-together-a-connector-t-be2213|ChatGPT
-  rolls out two new ways to bring Slack and ChatGPT together]]'
+- '[[Changes/ChatGPT/2025-10-13-we-re-rolling-out-two-new-ways-to-bring-slack-and-chatgpt-together-a-connector-t-be2213|Slack
+  connector and app]]'
+- '[[Changes/Cursor/2025-11-21-project-level-hooks-are-now-supported|Project level
+  hooks are now supported]]'
+- '[[Changes/Cursor/2025-12-10-system-notification-actions-for-terminal-and-mcp-approval-rejection|System
+  notification actions for terminal and MCP approval/rejection]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-18-introducing-the-app-directory-in-chatgpt-c4ab90ba|chatgpt-2025-12-18-introducing-the-app-directory-in-chatgpt-c4ab90ba]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: Browse and add approved apps in the new app directory
+title: Introducing the app directory in ChatGPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Browse and add approved apps in the new app directory
+# Introducing the app directory in ChatGPT
 
-**ChatGPT** · 2025-12-18 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-12-18-introducing-the-app-directory-in-chatgpt-c4ab90ba|Introducing the app directory in ChatGPT]]
+**ChatGPT** · 2025-12-18 · [[Themes/apps-integrations|Apps and Integrations]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-12-18-introducing-the-app-directory-in-chatgpt-c4ab90ba|Introducing the app directory in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -105,14 +107,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-10-13 · ChatGPT · [[Changes/ChatGPT/2025-10-13-we-re-rolling-out-two-new-ways-to-bring-slack-and-chatgpt-together-a-connector-t-be2213|ChatGPT rolls out two new ways to bring Slack and ChatGPT together]]
-- Later: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-added-search-filtering-to-the-plugin-discover-screen-type-to-filter-by-name-desc|Added search filtering to the plugin discover screen…]]
+- Earlier: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-system-notification-actions-for-terminal-and-mcp-approval-rejection|System notification actions for terminal and MCP approval/rejection]]
+- Later: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-2-apps-and-integrations-changes-in-v2-0-73|2 Apps and Integrations changes in v2.0.73]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

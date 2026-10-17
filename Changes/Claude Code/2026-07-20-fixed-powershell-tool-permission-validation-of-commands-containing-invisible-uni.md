@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 22ea462d05e78e3e4d93d5e9d088621deed047680bbaddcf22ff34d2026cd150
+machine_hash: 363a822f1188990bebf38b7bb9b6c3b2c5e53b11bf731d109a592eeb420de618
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   Bash command permission checking for compound statements with redirects inside…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae|claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed PowerShell tool permission validation of commands containing invisible
   Unicode…

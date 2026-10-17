@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 9f656bed0a972d1a000572aedd59d5f52ba05cf460f3db17c80ca3cf19fcd33e
+machine_hash: 5e7f0c0206cf31bcd4375b471436a8f216bc1b97167f5e8f106a7e409e927bf9
 product: cursor
 product_name: Cursor
 record:
@@ -54,6 +54,7 @@ related_changes:
   out the new plugins at cursor.com/marketplace, or read more in our announcement]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-11-new-plugins-on-the-cursor-marketplace-https-cursor-com-changelog-f5d077c3|cursor-2026-03-11-new-plugins-on-the-cursor-marketplace-https-cursor-com-changelog-f5d077c3]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: Cursor adds more than 30 new plugins from partners such as Atlassian, Datadog…
 type: change

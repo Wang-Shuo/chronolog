@@ -5,8 +5,8 @@ description: 'ChatGPT · 2025-10-29 · Memory and Personalization: ChatGPT Pulse
   now available on web and rolling out to Atlas for Pro users.With Pulse, ChatGPT
   can do…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 832
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 8ec87e2a3efc640fb1e2ce69a76f4c8cc415de04757e67a46cbd2489401c72a1
+kind: expansion
+machine_hash: 112a49dfce117f83a53c2a332936db056048fd06845d0333539db5fe15b6623d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,34 +39,35 @@ record:
       summaries that you can scan at a glance, expand for more detail, save for later,
       or ask follow up questions.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: expansion
   product: chatgpt
   product_name: ChatGPT
   slug: chatgpt-pulse-is-now-available-on-web-and-rolling-out-to-atlas-for-pro-users-wit
   source_release: chatgpt-2025-10-29-chatgpt-pulse-on-web-18eeedf1
   source_type: chatgpt_changelog
   theme: memory
-  title: ChatGPT Pulse is now available on web and rolling out to Atlas for Pro users
+  title: ChatGPT Pulse on Web
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-14-longer-memory-for-more-personalized-responses|Longer
+- '[[Changes/ChatGPT/2025-10-14-longer-memory-for-more-personalized-responses-775c35|Longer
   memory for more personalized responses]]'
 - '[[Changes/ChatGPT/2025-10-15-chatgpt-now-manages-saved-memories-automatically-by-keeping-the-most-relevant-de-997f64|ChatGPT
-  now manages saved memories automatically by keeping the most relevant…]]'
+  can now automatically manage saved memories so it’s even better…]]'
 - '[[Changes/ChatGPT/2025-10-28-longer-memory-for-more-personalized-responses|Longer
   memory for more personalized responses]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-29-chatgpt-pulse-on-web-18eeedf1|chatgpt-2025-10-29-chatgpt-pulse-on-web-18eeedf1]]'
 source_type: chatgpt_changelog
 theme: memory
-title: ChatGPT Pulse is now available on web and rolling out to Atlas for Pro users
+title: ChatGPT Pulse on Web
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT Pulse is now available on web and rolling out to Atlas for Pro users
+# ChatGPT Pulse on Web
 
-**ChatGPT** · 2025-10-29 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-10-29-chatgpt-pulse-on-web-18eeedf1|ChatGPT Pulse on Web]]
+**ChatGPT** · 2025-10-29 · [[Themes/memory|Memory and Personalization]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-10-29-chatgpt-pulse-on-web-18eeedf1|ChatGPT Pulse on Web]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -82,13 +84,13 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2025-10-28 · ChatGPT · [[Changes/ChatGPT/2025-10-28-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]]
-- Later: 2025-10-30 · ChatGPT · [[Changes/ChatGPT/2025-10-30-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]]
+- Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-increased-default-memory-for-typescript-language-server|Increased default memory for TypeScript language server]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

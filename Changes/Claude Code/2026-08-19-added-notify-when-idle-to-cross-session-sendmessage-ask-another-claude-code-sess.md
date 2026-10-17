@@ -15,9 +15,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: ce3640ea75d6c15359c0b19e56fd8c9c3319e8540b89beb90d4289bf1456d8c5
+kind: change
+machine_hash: d2d7c0e1761184b226800e51be49a66a4f939568844206572326ee5fc9659b5c
 product: claude-code
 product_name: Claude Code
 record:
@@ -32,8 +33,9 @@ record:
       Code session on this machine to send one notice when it next goes idle — opt-in,
       one-shot, no polling (macOS and Linux)'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.236
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-notify-when-idle-to-cross-session-sendmessage-ask-another-claude-code-sess
@@ -43,12 +45,12 @@ record:
   title: Added `notify_when_idle` to cross-session `SendMessage`
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-07-added-self-hosted-environments-claude-self-hosted-runner-turns-your-own-machines|Added
-  self-hosted environments]]'
-- '[[Changes/ChatGPT/2026-08-10-chatgpt-can-now-help-you-find-available-restaurant-reservations-with-opentable-r|ChatGPT
-  can now help you find available restaurant reservations with OpenTable…]]'
-- '[[Changes/ChatGPT/2026-08-14-practice-with-interactive-quizzes-ask-chatgpt-to-quiz-you-on-a-topic-and-answer|Practice
-  with interactive quizzes]]'
+- '[[Changes/ChatGPT/2026-08-14-work-in-the-built-in-browser-or-chrome-browser-actions-are-available-in-the-linu|Work
+  in the built-in browser or Chrome]]'
+- '[[Changes/ChatGPT/2026-08-14-learning-projects-and-personalized-suggestions|Learning,
+  Projects, and personalized suggestions]]'
+- '[[Changes/ChatGPT/2026-08-14-use-chatgpt-and-codex-on-linux-the-desktop-app-is-now-available-globally-in-publ|Use
+  ChatGPT and Codex on Linux]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79|claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -73,14 +75,18 @@ type: change
 
 - [[Changes/Claude Code/2026-08-19-improved-startup-performance-the-session-counter-is-now-written-in-the-backgroun|Improved startup performance: the session counter is now written in the background]] · Reliability and Performance
 - [[Changes/Claude Code/2026-08-19-added-anthropic-default-model-environment-variable-sets-the-model-new-sessions-s|Added ANTHROPIC_DEFAULT_MODEL environment variable]] · Model Support
-- [[Changes/Claude Code/2026-08-19-sandbox-on-macos-wildcard-read-deny-rules-e-g-env-now-take-precedence-inside-all|Sandbox: on macOS, wildcard read-deny rules (e.g. /.env) now take precedence…]] · Safety and Privacy
-- [[Changes/Claude Code/2026-08-19-improved-auto-mode-monitor-allow-rules-are-now-set-aside-while-auto-mode-is-acti|Improved auto mode]] · Agent Mode
+- [[Changes/Claude Code/2026-08-19-2-safety-and-privacy-changes-in-v2-1-236|2 Safety and Privacy changes in v2.1.236]] · Safety and Privacy
+- [[Changes/Claude Code/2026-08-19-2-developer-workflow-changes-in-v2-1-236|2 Developer Workflow changes in v2.1.236]] · Developer Workflow
+- [[Changes/Claude Code/2026-08-19-changed-the-model-picker-to-highlight-only-the-newest-model-s-name-so-the-highli|Changed the /model picker to highlight only the newest model's name…]] · Interface Experience
+- [[Changes/Claude Code/2026-08-19-4-agent-mode-changes-in-v2-1-236|4 Agent Mode changes in v2.1.236]] · Agent Mode
+- [[Changes/Claude Code/2026-08-19-sigterm-in-print-sdk-mode-no-longer-records-an-interrupted-turn-or-synthetic-too|SIGTERM in print/SDK mode no longer records an interrupted turn or synthetic tool…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-08-19-usage-now-shows-the-usage-credits-spend-row-for-team-and-enterprise-members-and|/usage now shows the usage-credits spend row for Team and Enterprise members…]] · Pricing Model
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-14 · ChatGPT · [[Changes/ChatGPT/2026-08-14-practice-with-interactive-quizzes-ask-chatgpt-to-quiz-you-on-a-topic-and-answer|Practice with interactive quizzes]]
+- Earlier: 2026-08-14 · ChatGPT · [[Changes/ChatGPT/2026-08-14-use-chatgpt-and-codex-on-linux-the-desktop-app-is-now-available-globally-in-publ|Use ChatGPT and Codex on Linux]]
 - Later: 2026-08-20 · ChatGPT · [[Changes/ChatGPT/2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee|Use Computer History in more regions]]
 <!-- chronolog:end -->
 

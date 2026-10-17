@@ -15,9 +15,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: cfe4d7c36c35bfc8112305757f8c4f5097f115c81f4674b0655da563eabeee94
+kind: change
+machine_hash: 8f732a01582647070cd411c4a8789f71ea1e0b0dcfef5cb89571a087a547ae44
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,8 +36,9 @@ record:
       conversations to deliver responses that feel more relevant and tailored to you.Free
       users must be logged in and on up-to-date apps (iOS/Android v1.2025.147+).
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: memory-improvements-are-starting-to-roll-out-to-free-users-in-addition-to-the-sa
@@ -62,12 +64,11 @@ record:
   title: Memory improvements are starting to roll out to Free users
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-the-vertical-sidebar-option-will-temporarily-be-unavailable-for-users-who-opted|The
-  vertical sidebar option will temporarily be unavailable for users who opted…]]'
-- '[[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|Chat
-  history has moved into the command palette]]'
-- '[[Changes/ChatGPT/2025-05-06-no-tools-are-deprecated-access-is-simply-consolidated-to-clear-space-and-reduce|No
-  tools are deprecated—access is simply consolidated to clear space and reduce…]]'
+- '[[Changes/Cursor/2025-03-23-2-interface-experience-changes-in-0-48-x|2 Interface
+  Experience changes in 0.48.x]]'
+- '[[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|More
+  accessible history]]'
+- '[[Changes/Cursor/2025-05-15-duplicate-chats|Duplicate Chats]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3|chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -90,16 +91,14 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2025-06-03-you-can-turn-off-memory-anytime-in-settings-learn-more-in-our-memory-faq|You can turn off memory anytime in settings]] · Memory and Personalization
-- [[Changes/ChatGPT/2025-06-03-free-users-in-eea-eu-uk-switzerland-norway-iceland-or-liechtenstein-will-see-a-p|Free users in EEA (EU + UK), Switzerland, Norway, Iceland, or Liechtenstein will see…]] · Memory and Personalization
-- [[Changes/ChatGPT/2025-06-03-outside-the-european-regions-listed-above-all-free-users-that-have-memory-enable|Outside the European regions listed above, all Free users that have memory enabled…]] · Memory and Personalization
+- [[Changes/ChatGPT/2025-06-03-opt-in-reminders-e08369|Opt‑in reminders]] · Memory and Personalization
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-05-06 · ChatGPT · [[Changes/ChatGPT/2025-05-06-no-tools-are-deprecated-access-is-simply-consolidated-to-clear-space-and-reduce|No tools are deprecated—access is simply consolidated to clear space and reduce…]]
-- Later: 2025-09-16 · ChatGPT · [[Changes/ChatGPT/2025-09-16-formatting-answers-are-better-formatted-for-quick-understanding-without-losing-d|Formatting: Answers are better formatted for quick understanding without losing…]]
+- Earlier: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-duplicate-chats|Duplicate Chats]]
+- Later: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-new-settings-and-dashboard|New Settings and Dashboard]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c075db798511b3e62f08bf6991a7e0eacb778ad677d7d719c9e1598b245f21c1
+machine_hash: 428dcec55fc3c15145a3c5e1db978cd78277daa37a63f043927d8072097588af
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -69,6 +69,7 @@ related_changes:
   Work across devices]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6|chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: mobile-desktop
 title: Available on web and iOS, Health lets you view lab results, medications, activity…
 type: change

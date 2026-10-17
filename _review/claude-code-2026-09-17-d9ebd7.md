@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: 834b39ce0d80e5afdbea8f1bec5cac26ebefb5f6ac978316dffc23480d78c739
+machine_hash: 1a4b0af3c97a60f27f85c5d9955b6a251dee91f29b9181d62830470a564cfaac
 product: claude-code
 record:
   card_id: claude-code-2026-09-17-d9ebd7
@@ -13,8 +13,9 @@ record:
   - quote: 'Added `claude_code.managed_settings_resolved` OTel event: managed-settings
       sources and policy helper state; redacted settings and digests with `OTEL_LOG_MANAGED_SETTINGS=1`'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.274
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-claude-code-managed-settings-resolved-otel-event-managed-settings-sources

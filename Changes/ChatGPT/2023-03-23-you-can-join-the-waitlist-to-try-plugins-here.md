@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5a9545f01fd52610d47369e67a3376b73f4a632cc52b0f46a67a33c72e82f2bb
+machine_hash: 32265a858dd01d6899da0d9241af91d85b82663a52249976e8817aef8eb5db79
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,6 +40,7 @@ record:
   type: change
 source_release: '[[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: apps-integrations
 title: You can join the waitlist to try plugins here
 type: change

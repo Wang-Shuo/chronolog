@@ -14,7 +14,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: cd6ee36d5ad80334d4704c43a2fb65f309afec0c3c83eb48acd11b716cc1870e
+machine_hash: 0c20aaf6527b71aba9c5bc494e9c58d47df327dea528bdf0a07ff6656431670b
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   have made slight improvements to Debug with AI and added back @Lint Errors in Chat]]'
 source_release: '[[Releases/Cursor/cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492|cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492]]'
 source_type: cursor_changelog
+superseded: true
 theme: developer-workflow
 title: Generation of git commit messages
 type: change

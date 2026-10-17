@@ -1,10 +1,9 @@
 ---
-changes_count: 5
+changes_count: 8
 date: '2025-03-11'
 description: 'Cursor release Reliability, Keyboard Shortcuts & Early access opt-in
-  on 2025-03-11: 5 tracked changes across Model Support, Reliability and Performance,
-  Editor…'
-machine_hash: 47692fa373616e9c0eab8b8ab083c57f5ef055f1b46d57d2eee027b4edee448e
+  on 2025-03-11: 8 tracked changes across Interface Experience, Model Support, Reliability…'
+machine_hash: 82a29823ea0b161ab938ecb670a57d9c4c97f845fe94741ab91a141ac5eb176e
 product: cursor
 product_name: Cursor
 record:
@@ -37,16 +36,19 @@ version: 0.47.x
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-5 tracked changes across 3 themes: Model Support, Reliability and Performance, Editor Experience.
+8 tracked changes across 5 themes: Interface Experience, Model Support, Reliability and Performance, Apps and Integrations, Editor Experience.
 
-Tracked 5 of 24 candidate lines.
+Tracked 8 cards from 24 candidate lines; 6 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2025-03-11-0-47-7-max-mode-for-3-7-sonnet-with-and-without-thinking|0.47.7: MAX mode for 3.7 Sonnet with and without thinking]] · Model Support
+- [[Changes/Cursor/2025-03-11-5-reliability-and-performance-changes-in-0-47-x|5 Reliability and Performance changes in 0.47.x]] · Reliability and Performance · Digest
+- [[Changes/Cursor/2025-03-11-keyboard-shortcuts-all-keyboard-shortcuts-are-now-available-in-the-keyboard-shor|Keyboard Shortcuts: All keyboard shortcuts are now available in the Keyboard…]] · Interface Experience · Launch
 - [[Changes/Cursor/2025-03-11-0-47-2-cursor-tab-accepts-work-with-single-line-selections|0.47.2: Cursor Tab accepts work with single-line selections]] · Editor Experience
-- [[Changes/Cursor/2025-03-11-0-47-5-client-side-support-for-upcoming-max-mode-compatibility-for-claude-3-7-so|0.47.5: Client-side support for upcoming MAX mode compatibility for Claude 3.7 Sonnet]] · Model Support
-- [[Changes/Cursor/2025-03-11-0-47-1-improved-performance-added-back-play-button-to-apply-code-blocks|0.47.1: Improved performance, added back play button to apply code blocks]] · Reliability and Performance
-- [[Changes/Cursor/2025-03-11-0-47-6-faster-applies-warns-user-when-edits-fails-because-of-cursorignore|0.47.6: Faster applies, warns user when edits fails because of cursorignore]] · Reliability and Performance
+- [[Changes/Cursor/2025-03-11-mcp-added-global-server-configuration-with-cursor-mcp-json-and-support-for-envir|MCP: Added global server configuration with ~/.cursor/mcp.json and support…]] · Apps and Integrations
+- [[Changes/Cursor/2025-03-11-sonnet-3-7-thinking-we-ve-made-a-few-improvements-to-3-7-prompting-thinking-will|Sonnet 3.7 thinking: We've made a few improvements to 3.7 prompting]] · Model Support
+- [[Changes/Cursor/2025-03-11-0-47-11-release-track-picker-prerelease-or-standard-fix-for-dmg-installer-not-wo|0.47.11: Release track picker (prerelease or standard), fix for dmg installer not…]] · Interface Experience
+- [[Changes/Cursor/2025-03-11-3-model-support-changes-in-0-47-x|3 Model Support changes in 0.47.x]] · Model Support · Digest
+- [[Changes/Cursor/2025-03-11-this-release-focuses-mainly-on-stability-and-performance-improvements-to-make-ex|This release focuses mainly on stability and performance improvements to make…]] · Reliability and Performance
 <!-- chronolog:end -->

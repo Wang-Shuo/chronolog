@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2bec4199d4d06b509f1bc475cbba984c60a07e8845d49ab88e2c145ae3a9ca58
+machine_hash: ffa2dd9ba7a7fba85231a545410aa69dfc823f4181953a6432222267206270fa
 product: cursor
 product_name: Cursor
 record:
@@ -60,6 +60,7 @@ related_changes:
   the next month, dots usage won’t count toward eligible Pro, Business…]]'
 source_release: '[[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd]]'
 source_type: cursor_changelog
+superseded: true
 theme: enterprise-admin
 title: Remote control is on by default, except for Enterprise organizations
 type: change

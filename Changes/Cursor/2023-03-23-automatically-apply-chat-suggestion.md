@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: fd8cd81f02628afa182e36963b118f7dfaa0070fbff8b162998bec3850bfa2e0
+machine_hash: 3a9a5206718930507b36a8699ec141bcc71be7f282d0079d90288b73c8828589
 product: cursor
 product_name: Cursor
 record:
@@ -46,6 +46,7 @@ related_changes:
   chat auto-insert suggested changes into editor]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-23-0-1-5-https-cursor-com-changelog-0-1-5-b6aefe25|cursor-2023-03-23-0-1-5-https-cursor-com-changelog-0-1-5-b6aefe25]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: Automatically apply chat suggestion
 type: change

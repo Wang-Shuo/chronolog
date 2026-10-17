@@ -3,7 +3,7 @@ changes_count: 0
 date: '2023-06-03'
 description: 'Cursor release Hot-fix for extensions (2023-06-03) on 2023-06-03: no
   tracked changes'
-machine_hash: ec56cb012ad26f0c832367e0a2a88095e3faca67f38841c0639364b4bd8c60b0
+machine_hash: 334483c07719c761fd52b24dd9406ac9b0c988ad2f8f4f0f9ba9ea6d07d69b70
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ version: 0.2.25
 <!-- chronolog:begin region="summary" -->
 Also potentially fixes the Jupyter problem that many people are experiencing.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

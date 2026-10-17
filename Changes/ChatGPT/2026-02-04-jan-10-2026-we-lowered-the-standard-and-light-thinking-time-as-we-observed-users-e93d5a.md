@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: c56f276f5cb2dcbdca3d8250d5bb911c5ba335d676994b11fae087aa7e614807
+kind: change
+machine_hash: cfc6e34f1f6bc1318bce070843989ff3bfc9adf0569559ac583e06ea68847aec
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -61,8 +62,9 @@ record:
       evolve, and will keep giving users clear controls when there are meaningful
       tradeoffs to choose from.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: jan-10-2026-we-lowered-the-standard-and-light-thinking-time-as-we-observed-users
@@ -87,12 +89,12 @@ record:
     users…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|ChatGPT
-  rolls out an age prediction model on ChatGPT consumer plans to help…]]'
-- '[[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|We’re
-  updating GPT-5.2 Instant’s default personality to be more conversational…]]'
-- '[[Changes/ChatGPT/2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta|On
-  February 13, 2026, alongside the previously announced retirement of GPT‑5…]]'
+- '[[Changes/Cursor/2026-01-22-added-max-mode-on-off-to-toggle-max-mode-on-models-that-support-it-in-cli|Added
+  /max-mode on / off to toggle max mode on models that support it in CLI]]'
+- '[[Changes/ChatGPT/2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta|Retiring
+  GPT-4o and other legacy models]]'
+- '[[Changes/Claude Code/2026-02-03-changed-model-to-execute-immediately-instead-of-being-queued|Changed
+  /model to execute immediately instead of being queued]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-04-update-on-thinking-time-settings-for-gpt-5-2-thinking-in-chatgpt-6e7ea431|chatgpt-2026-02-04-update-on-thinking-time-settings-for-gpt-5-2-thinking-in-chatgpt-6e7ea431]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -120,7 +122,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-29 · ChatGPT · [[Changes/ChatGPT/2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta|On February 13, 2026, alongside the previously announced retirement of GPT‑5…]]
+- Earlier: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-changed-model-to-execute-immediately-instead-of-being-queued|Changed /model to execute immediately instead of being queued]]
 - Later: 2026-02-04 · Claude Code · [[Changes/Claude Code/2026-02-04-improved-system-prompts-to-more-clearly-guide-the-model-toward-using-dedicated-t|Improved system prompts to more clearly guide the model toward using dedicated tools…]]
 <!-- chronolog:end -->
 

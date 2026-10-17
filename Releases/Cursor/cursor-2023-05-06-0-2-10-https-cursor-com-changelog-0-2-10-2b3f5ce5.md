@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-05-06'
 description: 'Cursor release Crucial Bug Fixes (2023-05-06) on 2023-05-06: 1 tracked
   change across Editor Experience'
-machine_hash: b42d223b18545c26099f98a42444aa30af03e68ebb95d05989cb43742205b41b
+machine_hash: bb2450030cd4379da89905275744dac028d9646c196abc7afc78112b852e28af
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.2.10
 <!-- chronolog:begin region="summary" -->
 1 tracked change across 1 theme: Editor Experience.
 
-Tracked 1 of 3 candidate lines.
+Tracked 1 card from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

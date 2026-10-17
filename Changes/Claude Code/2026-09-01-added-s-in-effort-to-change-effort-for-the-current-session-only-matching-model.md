@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 327d724ff0f6d42a90822b5a8c2903310aeef427f5d73820943fe38a80e95c08
+machine_hash: 56c43f916eb103a0da7e5eee1683fda8ec011345ccff958f7618e2127c4ab968
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   Claude Fable 5.1 (claude-fable-5-1), now the default Fable model]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6|claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Added s in /effort to change effort for the current session only, matching
   /model

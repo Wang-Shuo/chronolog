@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 555af42272f8fedaf97abb430e88382f84db4828cc0f733dce8a468bcc60c85e
+machine_hash: 3df5fc91cf2f36f9bee6ec0b0d2e6c5fb1f651195fd369165a4313f6f32aa741
 product: cursor
 product_name: Cursor
 record:
@@ -54,6 +54,7 @@ related_changes:
   Browse with Bing in the selector under GPT-4]]'
 source_release: '[[Releases/Cursor/cursor-2023-10-01-0-12-0-https-cursor-com-changelog-0-12-0-2555ff30|cursor-2023-10-01-0-12-0-https-cursor-com-changelog-0-12-0-2555ff30]]'
 source_type: cursor_changelog
+superseded: true
 theme: model-support
 title: Use /edit in the chat to edit a whole file (if less than 400 lines)
 type: change

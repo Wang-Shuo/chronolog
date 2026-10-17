@@ -5,8 +5,8 @@ description: 'Cursor · 2024-07-13 · Editor Experience: This build comes with a
   experimental multi-file editing feature. To enable it, click the settings gear,
   head to…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 487
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 07b2b5ef3c222fe222e9803bee33e361b986736237ac7d69d5bfea945ceea54b
+kind: change
+machine_hash: 62839d0e97f3b6c4fe94f29cec9de6dfcc292ab650aaa878c365058565bb762e
 product: cursor
 product_name: Cursor
 record:
@@ -34,8 +35,9 @@ record:
       enable it, click the settings gear, head to Beta, and activate "Composer." To
       use it, hit Cmd+I. We'd love to hear your thoughts.
     source_release: https://cursor.com/changelog/0-37-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it
@@ -44,24 +46,24 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: This build comes with a new experimental multi-file editing feature
+  title: Composer (beta)
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-05-26-better-performance-of-copilot-on-linter-errors|Better
-  performance of Copilot++ on linter errors]]'
-- '[[Changes/Cursor/2024-05-26-accept-partial-completions-with-copilot|Accept partial
-  completions with Copilot++]]'
+- '[[Changes/Cursor/2024-05-26-merges-vs-code-1-89-into-cursor-38031f|Merges VS Code
+  1.89 into Cursor]]'
+- '[[Changes/Cursor/2024-05-26-accept-partial-completions-with-copilot-ce6049|Accept
+  partial completions with Copilot++]]'
 - '[[Changes/Cursor/2024-06-08-default-on-cursor-prediction-with-a-new-ui|Default-on
   Cursor Prediction with a new UI]]'
 source_release: '[[Releases/Cursor/cursor-2024-07-13-0-37-x-https-cursor-com-changelog-0-37-x-eb934a21|cursor-2024-07-13-0-37-x-https-cursor-com-changelog-0-37-x-eb934a21]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: This build comes with a new experimental multi-file editing feature
+title: Composer (beta)
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# This build comes with a new experimental multi-file editing feature
+# Composer (beta)
 
 **Cursor** · 2024-07-13 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://cursor.com/changelog/0-37-x) · from [[Releases/Cursor/cursor-2024-07-13-0-37-x-https-cursor-com-changelog-0-37-x-eb934a21|Composer (beta)]]
 <!-- chronolog:end -->
@@ -86,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

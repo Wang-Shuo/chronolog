@@ -2,8 +2,8 @@
 changes_count: 4
 date: '2026-04-08'
 description: 'Cursor release Bugbot Learned Rules and MCP Support on 2026-04-08: 4
-  tracked changes across Apps and Integrations, Developer Workflow'
-machine_hash: 2808422e67abdfcab0e858a43f072a6b7ea39ded4ae6e105bc48c4f0488b1a03
+  tracked changes across Apps and Integrations, Collaboration, Developer Workflow'
+machine_hash: c5b68c02e560bddc5ca26e10880ffc4a55abbc666eaeaf1e375e4b12170115ae
 product: cursor
 product_name: Cursor
 record:
@@ -40,13 +40,13 @@ version: Bugbot Learned Rules and MCP Support
 <!-- chronolog:begin region="summary" -->
 This release introduces updates to Bugbot including the ability to self-improve in real time, MCP support, improvements to Bugbot Autofix, and the highest resolution rate to date.
 
-Tracked 4 of 16 candidate lines.
+Tracked 4 cards from 16 candidate lines; 6 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-04-08-it-looks-at-reactions-and-replies-to-bugbot-comments-and-comments-from-human-rev|It looks at reactions and replies to Bugbot comments and comments from human…]] · Apps and Integrations
-- [[Changes/Cursor/2026-04-08-give-bugbot-access-to-mcp-servers-for-additional-context-during-code-reviews-on|Give Bugbot access to MCP servers for additional context during code reviews]] · Apps and Integrations
-- [[Changes/Cursor/2026-04-08-bugbot-can-now-learn-from-feedback-on-pull-requests-and-turn-those-signals-into|Bugbot can now learn from feedback on pull requests and turn those signals…]] · Developer Workflow
-- [[Changes/Cursor/2026-04-08-this-release-introduces-updates-to-bugbot-including-the-ability-to-self-improve|Cursor introduces updates to Bugbot including the ability to self-improve in real…]] · Apps and Integrations
+- [[Changes/Cursor/2026-04-08-bugbot-learned-rules-9e5cac|Bugbot Learned Rules]] · Developer Workflow · Launch
+- [[Changes/Cursor/2026-04-08-give-bugbot-access-to-mcp-servers-for-additional-context-during-code-reviews-on|Bugbot MCP Support]] · Apps and Integrations · Launch
+- [[Changes/Cursor/2026-04-08-redesigned-bugbot-settings-and-split-personal-and-team-settings-into-clearer-sec|Redesigned Bugbot settings, and split personal and team settings into clearer sections]] · Collaboration
+- [[Changes/Cursor/2026-04-08-this-release-introduces-updates-to-bugbot-including-the-ability-to-self-improve|Cursor introduces updates to Bugbot including the ability to self-improve in real…]] · Apps and Integrations · Launch
 <!-- chronolog:end -->

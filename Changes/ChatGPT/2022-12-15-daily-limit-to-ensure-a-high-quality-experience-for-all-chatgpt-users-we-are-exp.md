@@ -15,9 +15,10 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 6304cea089ef54ba94820804e10bf5c8ee95085e0d2e6a63047f16a36af26c50
+kind: policy
+machine_hash: ddf23c71e1d22a112b431637b9f0e732784209121638f0808a95cb2c8b3024a7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,8 +35,9 @@ record:
       you’ll be presented with an option to extend your access by providing feedback
       to ChatGPT.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: policy
   product: chatgpt
   product_name: ChatGPT
   slug: daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp
@@ -57,7 +59,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Daily limit: To ensure a high-quality experience for all ChatGPT users, we…
 
-**ChatGPT** · 2022-12-15 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d|Performance updates to ChatGPT]]
+**ChatGPT** · 2022-12-15 · [[Themes/pricing-model|Pricing Model]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d|Performance updates to ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->

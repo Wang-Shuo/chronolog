@@ -4,8 +4,8 @@ date: '2026-08-31'
 description: 'ChatGPT · 2026-08-31 · Voice and Audio: To continue a Voice conversation
   outside ChatGPT, turn on Background conversations in Settings → Voice.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use
-    voice to engage in a back-and-forth conversation with your assistant]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
+    are beginning to roll out new voice and image capabilities in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1071
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: fe003a86d0ab9175849e390fcbbc1203976468ebdd4b328f09b647fa0736c15b
+kind: change
+machine_hash: 9db3a7cb30a3154112952cefa753421871bcc9205f699cb5e1b586de30f10b76
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,8 +31,9 @@ record:
   - quote: To continue a Voice conversation outside ChatGPT, turn on Background conversations
       in Settings → Voice.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: to-continue-a-voice-conversation-outside-chatgpt-turn-on-background-conversation
@@ -77,13 +79,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-alpine-musl-builds-native-image-paste-clipboard-and-audio-capture-add-ons-now-lo|Alpine/musl builds: native image paste, clipboard, and audio-capture add-ons now…]]
-- Later: 2026-09-23 · ChatGPT · [[Changes/ChatGPT/2026-09-23-free-and-go-users-can-use-voice-in-chat-with-the-plugins-their-plan-supports-voi|Free and Go users can use Voice in Chat with the plugins their plan supports]]
+- Later: 2026-09-23 · ChatGPT · [[Changes/ChatGPT/2026-09-23-live-now-supports-plugins-on-web-ios-and-android-you-can-use-the-plugins-and-con-88a242|Use plugins in Voice and get work done by speaking]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use voice to engage in a back-and-forth conversation with your assistant]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

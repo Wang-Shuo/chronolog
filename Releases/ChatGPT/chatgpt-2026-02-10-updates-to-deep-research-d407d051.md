@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-02-10'
 description: 'ChatGPT release Updates to deep research on 2026-02-10: 1 tracked change
   across Interface Experience'
-machine_hash: 43fbb1f7cb6d9d7ab3b0b688681c5814002a54b30fe21f4ef19975061cb24ac8
+machine_hash: c4f4e728736a1331b593ca4294d1abd226159e3865d0eeda0021c7c4af2f2a76
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: Updates to deep research
 <!-- chronolog:begin region="summary" -->
 We’re introducing improvements to deep research in ChatGPT to help produce more accurate, credible reports with greater control. You can now focus research on specific websites and a larger collection of connected apps as trusted sources. A redesigned sidebar entry point and fullscreen report view make it easier to…
 
-Tracked 1 of 2 candidate lines.
+Tracked 1 card from 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-02-10-we-re-introducing-improvements-to-deep-research-in-chatgpt-to-help-produce-more|ChatGPT introduces improvements to deep research to help produce more accurate…]] · Interface Experience
+- [[Changes/ChatGPT/2026-02-10-we-re-introducing-improvements-to-deep-research-in-chatgpt-to-help-produce-more|Updates to deep research]] · Interface Experience · Launch
 <!-- chronolog:end -->

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 66251af84abffdb8c344052945a658b93ce1f743a3e66c8a21fbd5c9e757fae4
+machine_hash: 0276d51cd48c7c5e3dfb82f1d5dac1f8f65d2c0fed27ff7e507357c60f6ad73d
 product: claude-code
 product_name: Claude Code
 record:
@@ -60,6 +60,7 @@ related_changes:
   OTEL_METRICS_INCLUDE_REPOSITORY to tag OpenTelemetry metrics and events…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd|claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added syncing of the skills and plugins enabled on your claude.ai account…
 type: change

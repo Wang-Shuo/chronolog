@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: b2f09c3247bf7e1026a4db19ab2db5272f83a238eee2d9b120c9259d0f756d18
+kind: change
+machine_hash: 04220a4962da279fbdffe95214f33c38ae7ede9fb15b9b54f6314248d5293a75
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,8 +28,9 @@ record:
   evidence:
   - quote: Added `/debug` for Claude to help troubleshoot the current session
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.30
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-debug-for-claude-to-help-troubleshoot-the-current-session
@@ -40,12 +42,12 @@ record:
   title: Added `/debug` for Claude to help troubleshoot the current session
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-30-sessions-are-now-automatically-linked-to-prs-when-created-via-gh-pr-create|Sessions
-  are now automatically linked to PRs when created via gh pr create]]'
-- '[[Changes/Claude Code/2026-01-30-added-tool-call-failures-and-denials-to-debug-logs|Added
-  tool call failures and denials to debug logs]]'
-- '[[Changes/Claude Code/2026-02-03-added-support-for-additional-git-log-and-git-show-flags-in-read-only-mode-e-g-to|Added
-  support for additional git log and git show flags in read-only mode…]]'
+- '[[Changes/Claude Code/2026-01-29-changed-bash-commands-to-show-timeout-duration-alongside-elapsed-time|Changed
+  Bash commands to show timeout duration alongside elapsed time]]'
+- '[[Changes/Claude Code/2026-01-30-2-developer-workflow-changes-in-v2-1-27|2 Developer
+  Workflow changes in v2.1.27]]'
+- '[[Changes/Claude Code/2026-02-03-2-developer-workflow-changes-in-v2-1-30|2 Developer
+  Workflow changes in v2.1.30]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2|claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2]]'
 source_type: github_releases
 theme: developer-workflow
@@ -69,15 +71,18 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-02-03-added-pre-configured-oauth-client-credentials-for-mcp-servers-that-don-t-support|Added pre-configured OAuth client credentials for MCP servers that don't support…]] · Account and Access
+- [[Changes/Claude Code/2026-02-03-2-developer-workflow-changes-in-v2-1-30|2 Developer Workflow changes in v2.1.30]] · Developer Workflow
 - [[Changes/Claude Code/2026-02-03-added-pages-parameter-to-the-read-tool-for-pdfs-allowing-specific-page-ranges-to|Added pages parameter to the Read tool for PDFs, allowing specific page ranges…]] · Context Window
+- [[Changes/Claude Code/2026-02-03-improved-memory-usage-for-resume-68-reduction-for-users-with-many-sessions-by-re|Improved memory usage for --resume (68% reduction for users with many sessions)…]] · Reliability and Performance
 - [[Changes/Claude Code/2026-02-03-added-token-count-tool-uses-and-duration-metrics-to-task-tool-results|Added token count, tool uses, and duration metrics to Task tool results]] · Agent Mode
-- [[Changes/Claude Code/2026-02-03-added-support-for-additional-git-log-and-git-show-flags-in-read-only-mode-e-g-to|Added support for additional git log and git show flags in read-only mode…]] · Developer Workflow
+- [[Changes/Claude Code/2026-02-03-changed-model-to-execute-immediately-instead-of-being-queued|Changed /model to execute immediately instead of being queued]] · Model Support
+- [[Changes/Claude Code/2026-02-03-fixed-permission-dialogs-stealing-focus-while-actively-typing|Fixed permission dialogs stealing focus while actively typing]] · Safety and Privacy
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-30 · Claude Code · [[Changes/Claude Code/2026-01-30-added-tool-call-failures-and-denials-to-debug-logs|Added tool call failures and denials to debug logs]]
+- Earlier: 2026-01-30 · Claude Code · [[Changes/Claude Code/2026-01-30-2-developer-workflow-changes-in-v2-1-27|2 Developer Workflow changes in v2.1.27]]
 - Later: 2026-02-04 · Claude Code · [[Changes/Claude Code/2026-02-04-reduced-layout-jitter-in-the-terminal-when-the-spinner-appears-and-disappears-du|Reduced layout jitter in the terminal when the spinner appears and disappears during…]]
 <!-- chronolog:end -->
 

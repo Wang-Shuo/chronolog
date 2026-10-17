@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 03f9e555b4dafff8623518ff922240006a77b16aaf9997f1bcaeb0b701dbc3db
+machine_hash: a37fb427839dc81e5954159ec2eb998b9e43b6cc4599e78fefbb0b4641637b6f
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   custom status line showing nothing when workspace trust is blocking it]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-20-v2-1-81-github-299621655-10d2d4fe|claude-code-2026-03-20-v2-1-81-github-299621655-10d2d4fe]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Added --channels permission relay
 type: change

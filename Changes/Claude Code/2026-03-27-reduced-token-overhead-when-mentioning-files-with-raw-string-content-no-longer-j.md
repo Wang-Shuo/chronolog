@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a91f688f58bcf31bfe66537ad141ae4465713e3ec88677af742d65b76f4b9b29
+machine_hash: 9743828f3746dffc9c99575a49647d3d0643b0065544a654c603efb0bbebf7cb
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   today for ChatGPT Plus, Pro, and Business users, long pastes are handled…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859|claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859]]'
 source_type: github_releases
+superseded: true
 theme: context-window
 title: Reduced token overhead when mentioning files with @
 type: change

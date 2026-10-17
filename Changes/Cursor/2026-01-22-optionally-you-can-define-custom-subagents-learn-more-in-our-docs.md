@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f8de2bd675720721850437ce7425556e0f36d92c446077bfefb1187d4385b56f
+machine_hash: f7809db8856ffd2fd8052273ce51581eb151715b52ef0f5e04f9081e48760b15
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   are solving increasingly complex, long-running tasks across your codebase]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Optionally, you can define custom subagents
 type: change

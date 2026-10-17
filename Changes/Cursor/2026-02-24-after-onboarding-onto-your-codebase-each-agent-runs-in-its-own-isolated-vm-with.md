@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 097df8f92fd1d12f43cd49246ff02832a3633f66dd4810eaa2c60092ee126b5f
+machine_hash: df91fe0f97743535fba60ed68b6e6c1d90b6affc930ef5fa091edd03f5d4ec1b
 product: cursor
 product_name: Cursor
 record:
@@ -56,6 +56,7 @@ related_changes:
   agents can now use the software they create to test changes and demo their work]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-24-cloud-agents-with-computer-use-https-cursor-com-changelog-02-24-252fc429|cursor-2026-02-24-cloud-agents-with-computer-use-https-cursor-com-changelog-02-24-252fc429]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: After onboarding onto your codebase, each agent runs in its own isolated VM…
 type: change

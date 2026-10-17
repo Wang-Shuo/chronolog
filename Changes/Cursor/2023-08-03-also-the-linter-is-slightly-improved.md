@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: c8bc519017ad512529e468aa5d3158bf209b59dcb3655a2cd4e20a9d5b338422
+kind: change
+machine_hash: 8973923d2c24b71f8682d5c633949e44c0b63ab45864dd5977a49ab4c042253b
 product: cursor
 product_name: Cursor
 record:
@@ -26,31 +27,31 @@ record:
   evidence:
   - quote: Also, the linter is slightly improved.
     source_release: https://cursor.com/changelog/0-6-3-nightly-0-6-4-nightly
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: also-the-linter-is-slightly-improved
   source_release: cursor-2023-08-03-0-6-3-nightly-0-6-4-nightly-https-cursor-com-changelog-0-6-3-nig-364dcb5e
   source_type: cursor_changelog
   theme: developer-workflow
-  title: Also, the linter is slightly improved
+  title: In-editor chat is back!
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-27-linter-is-back|Linter is back!]]'
-- '[[Changes/Cursor/2023-07-28-remote-ssh-is-now-built-in-to-cursor-you-do-not-need-to-edit-the-behavior-it-sho|Remote-ssh
-  is now built-in to cursor]]'
+- '[[Changes/Cursor/2023-07-28-better-support-for-remote-ssh|Better support for remote-ssh]]'
+- '[[Changes/Cursor/2023-07-28-ai-linter|AI linter]]'
 - '[[Changes/Cursor/2023-08-01-improved-linter-please-give-us-feedback-on-the-linter-suggestions-using-the-smil|Improved
-  linter! Please give us feedback on the linter suggestions using the smiley faces]]'
+  linter]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-03-0-6-3-nightly-0-6-4-nightly-https-cursor-com-changelog-0-6-3-nig-364dcb5e|cursor-2023-08-03-0-6-3-nightly-0-6-4-nightly-https-cursor-com-changelog-0-6-3-nig-364dcb5e]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: Also, the linter is slightly improved
+title: In-editor chat is back!
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Also, the linter is slightly improved
+# In-editor chat is back!
 
 **Cursor** · 2023-08-03 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://cursor.com/changelog/0-6-3-nightly-0-6-4-nightly) · from [[Releases/Cursor/cursor-2023-08-03-0-6-3-nightly-0-6-4-nightly-https-cursor-com-changelog-0-6-3-nig-364dcb5e|In-editor chat is back!]]
 <!-- chronolog:end -->
@@ -68,7 +69,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-08-01 · Cursor · [[Changes/Cursor/2023-08-01-improved-linter-please-give-us-feedback-on-the-linter-suggestions-using-the-smil|Improved linter! Please give us feedback on the linter suggestions using the smiley faces]]
+- Earlier: 2023-08-01 · Cursor · [[Changes/Cursor/2023-08-01-improved-linter-please-give-us-feedback-on-the-linter-suggestions-using-the-smil|Improved linter]]
 - Later: 2023-08-17 · Cursor · [[Changes/Cursor/2023-08-17-the-cursor-nightly-command-now-works-on-mac|The cursor-nightly command now works on Mac]]
 <!-- chronolog:end -->
 

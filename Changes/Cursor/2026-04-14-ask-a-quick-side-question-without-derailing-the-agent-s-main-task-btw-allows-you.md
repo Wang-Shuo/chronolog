@@ -5,8 +5,8 @@ description: 'Cursor · 2026-04-14 · Agent Mode: Ask a quick side question with
   derailing the agent''s main task. /btw allows you to get clarification on the change
   Cursor…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1013
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: ccd70fde407c1550ded078aeb9def978c8d6652a7489b398b94f94274859569a
+kind: launch
+machine_hash: 5f0c5655655c512058cfb59b2be88d6281258825785e2bde40d23b7f5c23f58b
 product: cursor
 product_name: Cursor
 record:
@@ -34,34 +35,35 @@ record:
       allows you to get clarification on the change Cursor is making without stopping
       the current run.
     source_release: https://cursor.com/changelog/04-14-26
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: ask-a-quick-side-question-without-derailing-the-agent-s-main-task-btw-allows-you
+  slug: btw-support-in-cli
   source_release: cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a
   source_type: cursor_changelog
   theme: agent-mode
-  title: Ask a quick side question without derailing the agent's main task
+  title: /btw support in CLI
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-10-ultraplan-and-other-remote-session-features-now-auto-create-a-default-cloud-envi|/ultraplan
-  and other remote-session features now auto-create a default cloud…]]'
 - '[[Changes/Cursor/2026-04-13-this-release-introduces-improvements-to-our-agents-window-interface-as-part-of-c|Cursor
   introduces improvements to our Agents Window interface as part of Cursor 3]]'
-- '[[Changes/Cursor/2026-04-13-split-your-current-view-into-panes-to-run-and-manage-several-agents-in-parallel|Split
-  your current view into panes to run and manage several agents in parallel]]'
+- '[[Changes/Cursor/2026-04-13-branch-selection-in-empty-state|Branch selection in
+  empty state]]'
+- '[[Changes/Cursor/2026-04-13-3-agent-mode-changes-in-3-1|3 Agent Mode changes in
+  3.1]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a|cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Ask a quick side question without derailing the agent's main task
+title: /btw support in CLI
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Ask a quick side question without derailing the agent's main task
+# /btw support in CLI
 
-**Cursor** · 2026-04-14 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/04-14-26) · from [[Releases/Cursor/cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a|CLI Debug Mode and /btw Support]]
+**Cursor** · 2026-04-14 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://cursor.com/changelog/04-14-26) · from [[Releases/Cursor/cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a|CLI Debug Mode and /btw Support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -73,22 +75,24 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-04-14-use-debug-to-find-root-causes-and-fix-tricky-bugs-that-are-hard-to-reproduce-or|Use /debug to find root causes and fix tricky bugs that are hard to reproduce…]] · Developer Workflow
+- [[Changes/Cursor/2026-04-14-trigger-the-model-picker-from-anywhere-to-switch-models-without-clearing-your-pr|Trigger the model picker from anywhere to switch models without clearing your prompt first]] · Model Support
+- [[Changes/Cursor/2026-04-14-use-debug-to-find-root-causes-and-fix-tricky-bugs-that-are-hard-to-reproduce-or|Debug Mode in CLI]] · Developer Workflow
 - [[Changes/Cursor/2026-04-14-we-ve-shipped-quality-of-life-improvements-to-the-cursor-cli-to-make-working-wit|We've shipped quality-of-life improvements to the Cursor CLI to make working…]] · Developer Workflow
-- [[Changes/Cursor/2026-04-14-config-opens-an-interactive-settings-panel-inside-the-cli-where-you-can-view-and|/config opens an interactive settings panel inside the CLI where you can view…]] · Model Support
+- [[Changes/Cursor/2026-04-14-configuration-menu-in-cli|Configuration menu in CLI]] · Interface Experience
+- [[Changes/Cursor/2026-04-14-3-developer-workflow-changes-in-04-14-26|3 Developer Workflow changes in 04.14.26]] · Developer Workflow
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-13 · Cursor · [[Changes/Cursor/2026-04-13-split-your-current-view-into-panes-to-run-and-manage-several-agents-in-parallel|Split your current view into panes to run and manage several agents in parallel]]
-- Later: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-agent-frontmatter-mcpservers-are-now-loaded-for-main-thread-agent-sessions-via-a|Agent frontmatter mcpServers are now loaded for main-thread agent sessions via --agent]]
+- Earlier: 2026-04-13 · Cursor · [[Changes/Cursor/2026-04-13-3-agent-mode-changes-in-3-1|3 Agent Mode changes in 3.1]]
+- Later: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-auto-mode-no-longer-requires-enable-auto-mode|Auto mode no longer requires --enable-auto-mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

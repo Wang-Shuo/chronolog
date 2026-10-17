@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c10c4fcee578f1821f5ce80873b2dd8f3fdb0c509a107e676c1cddcd64ffd8ba
+machine_hash: 8fdfd41aabdbcbd226692324c22bf564bac9b505b58be1664f08b435112a767f
 product: cursor
 product_name: Cursor
 record:
@@ -61,6 +61,7 @@ related_changes:
   the end of a conversation you can now see how much of the context window is used]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889|cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: Agents are significantly improved when operating across large codebases
 type: change

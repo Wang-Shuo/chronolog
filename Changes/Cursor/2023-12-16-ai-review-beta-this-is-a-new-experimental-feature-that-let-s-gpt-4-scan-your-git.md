@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 7394bb40857ed05614cea284a9a7c4b038e6818bd6e2bf864f0fc9c44be1d3ec
+kind: change
+machine_hash: b921f6372b05b9c5975bd90565c73b4b1ae58edc2c3cea9ada04f386b4fe9a1b
 product: cursor
 product_name: Cursor
 record:
@@ -34,8 +35,9 @@ record:
       scan your git diff or PR for bugs. You can enable it in the "More" tab beside
       chat. Feedback is much appreciated.'
     source_release: https://cursor.com/changelog/0-20-0
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: ai-review-beta-this-is-a-new-experimental-feature-that-let-s-gpt-4-scan-your-git
@@ -55,10 +57,10 @@ record:
   title: AI Review (beta)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-10-16-we-ve-integrated-dall-e-3-with-chatgpt-allowing-it-to-respond-to-your-requests-w-ad3caf|We’ve
-  integrated DALL·E 3 with ChatGPT, allowing it to respond to your requests…]]'
-- '[[Changes/ChatGPT/2023-10-17-browsing-which-we-re-launched-a-few-weeks-ago-is-moving-out-of-beta-plus-and-ent|Browsing,
-  which we re-launched a few weeks ago, is moving out of beta]]'
+- '[[Changes/ChatGPT/2023-10-16-we-ve-integrated-dall-e-3-with-chatgpt-allowing-it-to-respond-to-your-requests-w-ad3caf|DALL·E
+  3 is now rolling out in beta]]'
+- '[[Changes/ChatGPT/2023-10-17-browsing-which-we-re-launched-a-few-weeks-ago-is-moving-out-of-beta-plus-and-ent|Browsing
+  is now out of beta]]'
 - '[[Changes/Cursor/2023-11-10-new-models-you-can-plug-in-your-api-key-to-try-out-the-newest-gpt-4-and-gpt-3-tu|New
   models: you can plug in your API key to try out the newest gpt-4 and gpt-3 turbo…]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e|cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e]]'
@@ -92,7 +94,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2023-11-10 · Cursor · [[Changes/Cursor/2023-11-10-new-models-you-can-plug-in-your-api-key-to-try-out-the-newest-gpt-4-and-gpt-3-tu|New models: you can plug in your API key to try out the newest gpt-4 and gpt-3 turbo…]]
-- Later: 2024-01-15 · Cursor · [[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti|Cursor-Fast is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…]]
+- Later: 2024-01-15 · Cursor · [[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti-bb4c11|Cursor-Fast is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

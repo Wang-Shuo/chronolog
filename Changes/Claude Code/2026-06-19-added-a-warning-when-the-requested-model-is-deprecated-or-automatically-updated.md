@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: 85d20e13a9c60042477c00374fa4ca84cafebf372601c3a2b2c37c79ffb6bff4
+kind: policy
+machine_hash: 3d6b8bfb9f19dcfbc525c21d9de5254b57abc1c7056e9004ab7767663e5840ec
 product: claude-code
 product_name: Claude Code
 record:
@@ -33,8 +34,9 @@ record:
       updated to a newer model, shown on stderr in print mode (`-p`) and now also
       covering models set in agent frontmatter
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.183
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: policy
   product: claude-code
   product_name: Claude Code
   slug: added-a-warning-when-the-requested-model-is-deprecated-or-automatically-updated
@@ -54,12 +56,12 @@ record:
   title: Added a warning when the requested model is deprecated or automatically updated…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-10-added-model-attribute-to-the-claude-code-lines-of-code-count-otel-metric|Added
-  model attribute to the claude_code.lines_of_code.count OTEL metric]]'
-- '[[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|As
-  of June 12, 2026, GPT-5.2 models are no longer available in ChatGPT.This applies…]]'
+- '[[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|Retiring
+  GPT-5.2 models]]'
 - '[[Changes/Claude Code/2026-06-12-added-enforceavailablemodels-managed-setting-when-enabled-the-availablemodels-al|Added
   enforceAvailableModels managed setting]]'
+- '[[Changes/Claude Code/2026-06-15-bug-now-requires-a-description-before-submitting-and-no-longer-uses-model-refusa|/bug
+  now requires a description before submitting, and no longer uses…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-19-v2-1-183-github-341696059-98586912|claude-code-2026-06-19-v2-1-183-github-341696059-98586912]]'
 source_type: github_releases
 theme: model-support
@@ -70,7 +72,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Added a warning when the requested model is deprecated or automatically updated…
 
-**Claude Code** · 2026-06-19 · [[Themes/model-support|Model Support]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.183) · from [[Releases/Claude Code/claude-code-2026-06-19-v2-1-183-github-341696059-98586912|v2.1.183]]
+**Claude Code** · 2026-06-19 · [[Themes/model-support|Model Support]] · Policy · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.183) · from [[Releases/Claude Code/claude-code-2026-06-19-v2-1-183-github-341696059-98586912|v2.1.183]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -84,6 +86,7 @@ type: change
 
 - [[Changes/Claude Code/2026-06-19-added-config-help-to-list-all-available-shorthand-keys-for-config-key-value|Added /config --help to list all available shorthand keys for /config key=value]] · Interface Experience
 - [[Changes/Claude Code/2026-06-19-added-attribution-sessionurl-setting-to-omit-the-claude-ai-session-link-from-com|Added attribution.sessionUrl setting to omit the claude.ai session link…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-06-19-removed-the-startup-setup-issues-line-under-the-logo-run-doctor-to-see-configura|Removed the startup "setup issues" line under the logo]] · Developer Workflow
 - [[Changes/Claude Code/2026-06-19-improved-auto-mode-safety-destructive-git-commands-git-reset-hard-git-checkout-g|Improved auto mode safety]] · Agent Mode
 - [[Changes/Claude Code/2026-06-19-changed-config-toggle-behavior-enter-and-space-both-change-the-selected-setting|Changed /config toggle behavior]] · Interface Experience
 <!-- chronolog:end -->
@@ -91,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-added-enforceavailablemodels-managed-setting-when-enabled-the-availablemodels-al|Added enforceAvailableModels managed setting]]
-- Later: 2026-06-24 · ChatGPT · [[Changes/ChatGPT/2026-06-24-we-re-updating-gpt-5-5-instant-our-most-used-model-in-chatgpt-to-improve-convers|We’re updating GPT-5.5 Instant, our most-used model in ChatGPT, to improve…]]
+- Earlier: 2026-06-15 · Claude Code · [[Changes/Claude Code/2026-06-15-bug-now-requires-a-description-before-submitting-and-no-longer-uses-model-refusa|/bug now requires a description before submitting, and no longer uses…]]
+- Later: 2026-06-24 · ChatGPT · [[Changes/ChatGPT/2026-06-24-we-re-updating-gpt-5-5-instant-our-most-used-model-in-chatgpt-to-improve-convers|GPT-5.5 Instant Update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

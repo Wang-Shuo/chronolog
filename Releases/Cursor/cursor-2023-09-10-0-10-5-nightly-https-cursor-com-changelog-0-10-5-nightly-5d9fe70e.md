@@ -3,7 +3,7 @@ changes_count: 0
 date: '2023-09-10'
 description: 'Cursor release Fix bug in @ symbol ranking on 2023-09-10: no tracked
   changes'
-machine_hash: 4964fad4b091c7498f489eaf0c3535be2d595fde2267baceceb6678ecd787883
+machine_hash: 5d4b32fc795d47e50d1671a6224388064c59553fca00b30e21a6e57e0f390358
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.10.5-nightly
 <!-- chronolog:begin region="summary" -->
 Fixes a bug where the @ symbol would rank suboptimally.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 2214527100128efda7879639144772971e4fc9ce7a3e4440d4ed59a655d6e949
+machine_hash: 68bb29918ba9e615e25733e8e94d2f4435879857854a59db236067754324d01f
 product: cursor
 product_name: Cursor
 record:
@@ -55,6 +55,7 @@ related_changes:
   terminal layout and rendering performance]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df|cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df]]'
 source_type: cursor_changelog
+superseded: true
 theme: interface-experience
 title: Existing Free users in India can upgrade their plan from the dashboard
 type: change

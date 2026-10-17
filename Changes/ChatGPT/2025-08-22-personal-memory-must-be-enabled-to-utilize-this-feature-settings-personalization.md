@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8cf3be628c272dc0a3ea6c9cba3d80173eba08d6d62a5e49194718f27ab9b540
+machine_hash: 6229a7dfcb5df63f30fe62b9f09c477218c5efea92b2070e6b23fd81e19d4173
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,6 +48,7 @@ related_changes:
   memory for more personalized responses]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-22-project-only-memory-3424a221|chatgpt-2025-08-22-project-only-memory-3424a221]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: memory
 title: Personal Memory must be enabled to utilize this feature
 type: change

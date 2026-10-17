@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9110c4bcf6f15ebd69d383444144df1bfc2941f334f9905c1f861e373303bac2
+machine_hash: 714942608dc9cce66d4ce775353540e8541a7c58ae7f3241c781427c2c4a277d
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   Bash permission checks to fail closed on file-descriptor redirect forms…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae|claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed telemetry misreporting permission denials
 type: change

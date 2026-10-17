@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: ce7bbe9cd01667c671a8f18842ebeeb7c05f544155ab6d8a630cb8d05a65e483
+machine_hash: f9e51296fb3d5fc0ac8e43da3ff42b6245b4267820297facfd90de9df8c2f0b4
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,6 +61,7 @@ related_changes:
   Center is rolling out to signed-in ChatGPT Free, Go, Plus, and Pro users]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed Home and End doing nothing in the /config settings list and in selection…
 type: change

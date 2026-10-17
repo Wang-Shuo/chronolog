@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c37e497623b0ff83043998e1930af989e9812c9d6f32b09d73ac86355f076dee
+machine_hash: bf6581b195d487494387738ea73fd7e7b1277e83e6baf6533544f1434275acbe
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   users to provide feedback on the chat response]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-06-0-18-4-0-18-5-https-cursor-com-changelog-0-18-4-0-18-5-d1de0931|cursor-2023-12-06-0-18-4-0-18-5-https-cursor-com-changelog-0-18-4-0-18-5-d1de0931]]'
 source_type: cursor_changelog
+superseded: true
 theme: interface-experience
 title: Minor onboarding changes
 type: change

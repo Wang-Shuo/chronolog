@@ -15,9 +15,10 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: d4e5e1017516ad2a5a4bfe3b684e0972f6bfcb9ea259c183ccd45c7b29b020c1
+kind: change
+machine_hash: dbf15a7c7bce5663cd6468e2257236026d33353e0f5ebb99b7d937d2014757c2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,8 +36,9 @@ record:
       to sign-up. We're rolling this out gradually, with the aim to make AI accessible
       to anyone curious about its capabilities.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-making-it-easier-for-people-to-experience-the-benefits-of-ai-without-needi
@@ -45,26 +47,24 @@ record:
   theme: account-access
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: We’re making it easier for people to experience the benefits of AI without
-    needing…
+  title: Start using ChatGPT instantly
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-06-27-if-you-re-not-logged-in-we-show-the-popup-to-log-in-again|If
   you''re not logged in, we show the popup to log in again]]'
-- '[[Changes/Cursor/2023-07-25-you-can-now-chat-with-any-codebase-no-need-to-have-a-github-repo-login-through-g|Chat
-  with any codebase]]'
+- '[[Changes/Cursor/2023-07-25-you-can-now-chat-with-any-codebase-no-need-to-have-a-github-repo-login-through-g|"with
+  codebase" for all codebases!]]'
 - '[[Changes/Cursor/2023-09-01-you-should-now-be-able-to-sign-in-with-github-again|You
   should now be able to sign in with GitHub again]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-04-01-start-using-chatgpt-instantly-40988be9|chatgpt-2024-04-01-start-using-chatgpt-instantly-40988be9]]'
 source_type: chatgpt_changelog
 theme: account-access
-title: We’re making it easier for people to experience the benefits of AI without
-  needing…
+title: Start using ChatGPT instantly
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We’re making it easier for people to experience the benefits of AI without needing…
+# Start using ChatGPT instantly
 
 **ChatGPT** · 2024-04-01 · [[Themes/account-access|Account and Access]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-04-01-start-using-chatgpt-instantly-40988be9|Start using ChatGPT instantly]]
 <!-- chronolog:end -->
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2023-09-01 · Cursor · [[Changes/Cursor/2023-09-01-you-should-now-be-able-to-sign-in-with-github-again|You should now be able to sign in with GitHub again]]
-- Later: 2026-01-22 · Claude Code · [[Changes/Claude Code/2026-01-22-vscode-added-ability-for-oauth-users-to-browse-and-resume-remote-claude-sessions|VSCode Added ability for OAuth users to browse and resume remote Claude sessions…]]
+- Later: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-mcp-one-click-install-and-oauth-support|MCP one-click install and OAuth support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

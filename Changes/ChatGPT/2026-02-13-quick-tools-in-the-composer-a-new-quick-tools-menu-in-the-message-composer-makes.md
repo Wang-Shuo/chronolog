@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: d6b1bffbac18509bae70f2995a061c67d99af9d2a9735c73b2cceb23ec2ccbd4
+kind: change
+machine_hash: 3bdc6651104080fbcca6187d9f263a39ee46457abed50aa37699d50f988c63a4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,10 +33,12 @@ record:
   - quote: Quick tools in the composer. A new quick-tools menu in the message composer
       makes common actions easier to access.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
+  scope: Android
   slug: quick-tools-in-the-composer-a-new-quick-tools-menu-in-the-message-composer-makes
   source_release: chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0
   source_type: chatgpt_changelog
@@ -43,12 +46,13 @@ record:
   title: Quick tools in the composer
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-06-improved-error-messages-for-api-connection-failures-now-shows-specific-cause-e-g|Improved
-  error messages for API connection failures]]'
-- '[[Changes/ChatGPT/2026-02-10-we-re-introducing-improvements-to-deep-research-in-chatgpt-to-help-produce-more|ChatGPT
-  introduces improvements to deep research to help produce more accurate…]]'
+- '[[Changes/Claude Code/2026-02-06-2-interface-experience-changes-in-v2-1-33|2 Interface
+  Experience changes in v2.1.33]]'
+- '[[Changes/ChatGPT/2026-02-10-we-re-introducing-improvements-to-deep-research-in-chatgpt-to-help-produce-more|Updates
+  to deep research]]'
 - '[[Changes/Claude Code/2026-02-10-improved-terminal-rendering-performance|Improved
   terminal rendering performance]]'
+scope: Android
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0|chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -59,7 +63,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Quick tools in the composer
 
-**ChatGPT** · 2026-02-13 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0|ChatGPT updates: Better file uploads, easier copying, and more reliable long chats]]
+**ChatGPT** · 2026-02-13 · [[Themes/interface-experience|Interface Experience]] · Android · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0|ChatGPT updates: Better file uploads, easier copying, and more reliable long chats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -74,6 +78,7 @@ type: change
 - [[Changes/ChatGPT/2026-02-13-simplified-composer-the-message-composer-has-been-streamlined-to-reduce-visual-c|Simplified composer]] · Interface Experience
 - [[Changes/ChatGPT/2026-02-13-attach-up-to-20-files-in-a-single-message-you-can-now-upload-up-to-20-files-at-o|Attach up to 20 files in a single message]] · Context Window
 - [[Changes/ChatGPT/2026-02-13-expanded-file-type-support-we-now-support-additional-text-and-code-file-formats|Expanded file type support]] · Files and Data
+- [[Changes/ChatGPT/2026-02-13-performance-improvements-we-ve-made-multiple-performance-enhancements-to-improve|Performance improvements]] · Reliability and Performance
 - [[Changes/ChatGPT/2026-02-13-cleaner-select-all-behavior-cmd-a-cmd-a-now-selects-only-the-conversation-conten|Cleaner “Select All” behavior (Cmd+A)]] · Collaboration
 <!-- chronolog:end -->
 

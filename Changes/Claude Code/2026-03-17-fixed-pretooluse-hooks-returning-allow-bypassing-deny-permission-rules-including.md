@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 72fc9498d840e764a5bff4b4e8b47c81074b23af373110eacb244b704cc4f63f
+machine_hash: b2f305d906a14edac5025de431a94d632c8a25257da9d3654bd79424ff178351
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   "Always Allow" on compound bash commands (e.g. cd src && npm test) saving…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c|claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed PreToolUse hooks returning "allow" bypassing deny permission rules…
 type: change

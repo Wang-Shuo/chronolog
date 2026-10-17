@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 82f9cc2b708d870cd9f1a79bf9daba6546114d866e3756dab508b08a93fbd2bf
+machine_hash: 7b8469748276a186afa3c8c5a7ad7015517f3345a293b920bbc46cb197b727d4
 product: cursor
 product_name: Cursor
 record:
@@ -65,6 +65,7 @@ related_changes:
   introduces builds]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3|cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Cursor runs a new build of your environment regularly
 type: change

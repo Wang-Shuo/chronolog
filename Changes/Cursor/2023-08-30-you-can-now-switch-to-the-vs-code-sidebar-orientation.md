@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: b8070dbaea2e7840990e0e57d7e1039ab51d076036c81ca74c9da75b18a01855
+kind: change
+machine_hash: 60391d2c015a114cf274f6285bf97033949e0758a4ea8a6fb2d4055cd054773a
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: You can now switch to the VS Code sidebar orientation
     source_release: https://cursor.com/changelog/0-9-0
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: you-can-now-switch-to-the-vs-code-sidebar-orientation
@@ -39,11 +41,10 @@ record:
   title: Switch to the VS Code sidebar orientation
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-21-activity-bar-elements-can-now-be-reordered-with-drag-and-drop|Activity
-  bar elements can now be reordered with drag-and-drop]]'
-- '[[Changes/Cursor/2023-08-21-nicer-error-messages-in-the-chat-fewer-annoying-popups|Nicer
+- '[[Changes/Cursor/2023-08-17-keychords-now-use-cmd-r-ctrl-r|Keychords now use Cmd+R/Ctrl+R]]'
+- '[[Changes/Cursor/2023-08-21-nicer-error-messages-in-the-chat-fewer-annoying-popups-782655|Nicer
   error messages in the chat!]]'
-- '[[Changes/Cursor/2023-08-22-nicer-error-messages-in-the-chat-fewer-annoying-popups|Nicer
+- '[[Changes/Cursor/2023-08-22-nicer-error-messages-in-the-chat-fewer-annoying-popups-7d864e|Nicer
   error messages in the chat!]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-30-0-9-0-https-cursor-com-changelog-0-9-0-1c913df4|cursor-2023-08-30-0-9-0-https-cursor-com-changelog-0-9-0-1c913df4]]'
 source_type: cursor_changelog
@@ -74,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-08-22 · Cursor · [[Changes/Cursor/2023-08-22-nicer-error-messages-in-the-chat-fewer-annoying-popups|Nicer error messages in the chat!]]
+- Earlier: 2023-08-22 · Cursor · [[Changes/Cursor/2023-08-22-nicer-error-messages-in-the-chat-fewer-annoying-popups-7d864e|Nicer error messages in the chat!]]
 - Later: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-if-you-ve-configured-your-browser-to-use-one-of-these-supported-languages-you-ll-e4857e|If you've configured your browser to use one of these supported languages, you'll…]]
 <!-- chronolog:end -->
 

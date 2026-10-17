@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 436a5ab55046b2faec1983c25fefb7c39d5941f4983622376367c9e32d0dd9ea
+machine_hash: f16ce2fcd9bd31f65480e2f70a02dd2b4085b5a387ab05c675ef4024377ff78c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,6 +51,7 @@ related_changes:
   without Custom Actions can use the model picker to select from all models…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-16-expanded-model-support-for-custom-gpts-55f4555f|chatgpt-2025-06-16-expanded-model-support-for-custom-gpts-55f4555f]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: GPTs with Custom Actions currently support GPT-4o and 4.1
 type: change

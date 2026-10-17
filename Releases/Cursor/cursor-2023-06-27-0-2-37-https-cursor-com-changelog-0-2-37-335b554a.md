@@ -3,7 +3,7 @@ changes_count: 2
 date: '2023-06-27'
 description: 'Cursor release More fixes on 2023-06-27: 2 tracked changes across Apps
   and Integrations, Interface Experience'
-machine_hash: c8d6593df13baba3be71dc4aff976bfdb7bbfdc7a77a74ed35874652f0dc89d2
+machine_hash: 40bf6d338b4d8fc4ba5f7abd13735faa621e32250522028dcc81c8d361aedd80
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.2.37
 <!-- chronolog:begin region="summary" -->
 Better @ symbol keyboard ergonomics
 
-Tracked 2 of 3 candidate lines.
+Tracked 2 cards from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

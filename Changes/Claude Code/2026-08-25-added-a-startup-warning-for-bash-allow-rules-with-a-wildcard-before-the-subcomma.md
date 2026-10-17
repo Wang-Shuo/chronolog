@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0f7c6c3a5c8e803e0750eb3131e9b6d36f539611c0989e44b5a151b62a5bab76
+machine_hash: 3690a4f25b9c11ca3e7506a7fa3caf736e0f223dc167638bc1d5f2e6ad95140f
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   a keybindingFlavor setting]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0|claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added a startup warning for Bash allow rules with a wildcard before the subcommand…
 type: change

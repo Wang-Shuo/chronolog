@@ -3,7 +3,7 @@ changes_count: 2
 date: '2023-04-29'
 description: 'Cursor release Multi-File Diffs & Remote SSH (2023-04-29) on 2023-04-29:
   2 tracked changes across Developer Workflow, Editor Experience'
-machine_hash: e5f174afb23a4c612ad07967ec590331fac5c9c1463df28e9bcc04cf79e6314e
+machine_hash: 78899c99287a59686d8e51d1b97d0800a3bf4ecc7b12672fd9b38601362be323
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.2.8
 <!-- chronolog:begin region="summary" -->
 2 tracked changes across 2 themes: Developer Workflow, Editor Experience.
 
-Tracked 2 of 2 candidate lines.
+Tracked 2 cards from 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

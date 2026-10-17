@@ -4,8 +4,8 @@ date: '2026-09-14'
 description: 'ChatGPT · 2026-09-14 · Apps and Integrations: You can change your Health
   permissions anytime in Settings → Plugins → Health. Learn more about how we keep…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1271
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 20b3e2b0d1afeaf84aba9b21a323e2b5878e453ff8c6ef241d2f09ef6d844f8e
+kind: change
+machine_hash: 64e179d7c23c2fcf345ec4db987c11dfe5e93af3ea0f34f578ab1687f0764bf9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,8 +31,9 @@ record:
   - quote: You can change your Health permissions anytime in Settings → Plugins →
       Health. Learn more about how we keep Health data private and secure.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: you-can-change-your-health-permissions-anytime-in-settings-plugins-health-learn
@@ -41,10 +43,10 @@ record:
   title: You can change your Health permissions anytime in Settings → Plugins → Health
   type: change
 related_changes:
+- '[[Changes/Claude Code/2026-09-11-5-apps-and-integrations-changes-in-v2-1-269|5
+  Apps and Integrations changes in v2.1.269]]'
 - '[[Changes/Claude Code/2026-09-11-added-output-style-name-to-list-and-switch-output-styles-including-over-remote-c|Added
   /output-style name to list and switch output styles, including over Remote…]]'
-- '[[Changes/Claude Code/2026-09-11-added-claude-plugin-eval-run-a-plugin-s-eval-suite-against-claude-code-and-get-s|Added
-  claude plugin eval]]'
 - '[[Changes/ChatGPT/2026-09-14-for-new-health-plugin-connections-chatgpt-will-now-default-to-each-user-s-global|For
   new Health plugin connections, ChatGPT will now default to each user’s global…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7|chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7]]'
@@ -76,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-added-claude-plugin-eval-run-a-plugin-s-eval-suite-against-claude-code-and-get-s|Added claude plugin eval]]
-- Later: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-added-forking-a-session-started-with-claude-remote-control-or-remote-control-fro|Added forking a session started with claude --remote-control or /remote-control…]]
+- Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-added-output-style-name-to-list-and-switch-output-styles-including-over-remote-c|Added /output-style name to list and switch output styles, including over Remote…]]
+- Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-5-apps-and-integrations-changes-in-v2-1-271|5 Apps and Integrations changes in v2.1.271]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

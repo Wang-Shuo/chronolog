@@ -4,8 +4,8 @@ date: '2026-01-22'
 description: 'Cursor · 2026-01-22 · Agent Mode: Agents are solving increasingly complex,
   long-running tasks across your codebase. This release introduces new agent harness…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 931
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: 26fe508f0b0db18a6ecbca277fd379fdfacdfe8c1fdfca16e5b606e3fe13ea18
+kind: change
+machine_hash: bb815eecf78c2543dc7752ed1baa35d2cf886038e031f1583a8f42be9d0a852f
 product: cursor
 product_name: Cursor
 record:
@@ -35,8 +36,9 @@ record:
       context management, as well as many quality-of-life fixes in the editor and
       CLI.
     source_release: https://cursor.com/changelog/2-4
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: change
   product: cursor
   product_name: Cursor
   slug: agents-are-solving-increasingly-complex-long-running-tasks-across-your-codebase
@@ -60,12 +62,11 @@ record:
   title: Agents are solving increasingly complex, long-running tasks across your codebase
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-16-push-your-local-conversation-to-a-cloud-agent-and-let-it-keep-running-while-you|Push
-  your local conversation to a Cloud Agent and let it keep running while you''re away]]'
-- '[[Changes/Cursor/2026-01-16-use-plan-mode-to-design-your-approach-before-coding-cursor-will-ask-clarifying-q|Use
-  Plan mode to design your approach before coding]]'
-- '[[Changes/Cursor/2026-01-22-cursor-includes-default-subagents-for-researching-your-codebase-running-terminal|Cursor
-  includes default subagents for researching your codebase, running terminal…]]'
+- '[[Changes/Cursor/2026-01-16-added-hooks-for-session-start-end-prompt-and-stop-for-customizing-agent-lifecycl|Added
+  hooks for session start/end, prompt, and stop for customizing agent lifecycle events]]'
+- '[[Changes/Cursor/2026-01-22-skills|Skills]]'
+- '[[Changes/Cursor/2026-01-22-4-agent-mode-changes-in-2-4|4 Agent Mode changes in
+  2.4]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -88,23 +89,36 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-01-22-cursor-includes-default-subagents-for-researching-your-codebase-running-terminal|Cursor includes default subagents for researching your codebase, running terminal…]] · Agent Mode
-- [[Changes/Cursor/2026-01-22-the-result-is-faster-overall-execution-more-focused-context-in-your-main-convers|The result is faster overall execution, more focused context in your main…]] · Context Window
-- [[Changes/Cursor/2026-01-22-optionally-you-can-define-custom-subagents-learn-more-in-our-docs|Optionally, you can define custom subagents]] · Agent Mode
-- [[Changes/Cursor/2026-01-22-subagents-are-independent-agents-specialized-to-handle-discrete-parts-of-a-paren|Subagents are independent agents specialized to handle discrete parts of a parent…]] · Agent Mode
+- [[Changes/Cursor/2026-01-22-2-editor-experience-changes-in-2-4|2 Editor Experience changes in 2.4]] · Editor Experience
+- [[Changes/Cursor/2026-01-22-added-team-and-mdm-hooks-support-to-cli-with-more-efficient-execution|Added team and MDM hooks support to CLI with more efficient execution]] · Collaboration
+- [[Changes/Cursor/2026-01-22-agents-can-now-read-pdfs-which-you-can-attach-in-chats-as-context|Agents can now read PDFs, which you can attach in chats as context]] · Context Window
+- [[Changes/Cursor/2026-01-22-image-generation|Image generation]] · Image Generation
+- [[Changes/Cursor/2026-01-22-unified-cli-permissions-with-the-editor-including-run-everything-auto-run-in-san|Unified CLI permissions with the editor, including Run Everything, Auto-Run…]] · Safety and Privacy
+- [[Changes/Cursor/2026-01-22-skills|Skills]] · Agent Mode
+- [[Changes/Cursor/2026-01-22-browser-can-now-request-local-network-permissions-fixing-authentication-flows-wi|Browser can now request local network permissions, fixing authentication flows…]] · Account and Access
+- [[Changes/Cursor/2026-01-22-4-agent-mode-changes-in-2-4|4 Agent Mode changes in 2.4]] · Agent Mode
+- [[Changes/Cursor/2026-01-22-windows-notifications-now-have-accept-reject-buttons-like-macos|Windows notifications now have accept/reject buttons like MacOS]] · Mobile and Desktop
+- [[Changes/Cursor/2026-01-22-subagents|Subagents]] · Agent Mode
+- [[Changes/Cursor/2026-01-22-2-interface-experience-changes-in-2-4|2 Interface Experience changes in 2.4]] · Interface Experience
+- [[Changes/Cursor/2026-01-22-4-apps-and-integrations-changes-in-2-4|4 Apps and Integrations changes in 2.4]] · Apps and Integrations
+- [[Changes/Cursor/2026-01-22-added-max-mode-on-off-to-toggle-max-mode-on-models-that-support-it-in-cli|Added /max-mode on / off to toggle max mode on models that support it in CLI]] · Model Support
+- [[Changes/Cursor/2026-01-22-3-developer-workflow-changes-in-2-4|3 Developer Workflow changes in 2.4]] · Developer Workflow
+- [[Changes/Cursor/2026-01-22-cursor-blame|Cursor Blame]] · Enterprise and Administration
+- [[Changes/Cursor/2026-01-22-clarification-questions-from-the-agent|Clarification questions from the agent]] · Agent Mode
+- [[Changes/Cursor/2026-01-22-4-reliability-and-performance-changes-in-2-4|4 Reliability and Performance changes in 2.4]] · Reliability and Performance
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-use-plan-mode-to-design-your-approach-before-coding-cursor-will-ask-clarifying-q|Use Plan mode to design your approach before coding]]
+- Earlier: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-added-hooks-for-session-start-end-prompt-and-stop-for-customizing-agent-lifecycl|Added hooks for session start/end, prompt, and stop for customizing agent lifecycle events]]
 - Later: 2026-01-23 · Claude Code · [[Changes/Claude Code/2026-01-23-added-env-var-claude-code-enable-tasks-set-to-false-to-keep-the-old-system-tempo|Added env var CLAUDE_CODE_ENABLE_TASKS, set to false to keep the old system…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

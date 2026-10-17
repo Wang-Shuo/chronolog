@@ -3,7 +3,7 @@ changes_count: 2
 date: '2024-04-01'
 description: 'Cursor release Long Context Chat Beta on 2024-04-01: 2 tracked changes
   across Context Window, Interface Experience'
-machine_hash: e9f3f2f7ba79e0435325a5e31ab91a3832b1e3a2ee3127790aff2faeee2d2012
+machine_hash: bbd6c9b3c2f3b87b857769b592e6477359ab897d269bca04ea25dbeb67eb45dd
 product: cursor
 product_name: Cursor
 record:
@@ -41,7 +41,7 @@ version: 0.31.x
 <!-- chronolog:begin region="summary" -->
 Long Context Chat (Beta): This is a new experimental feature that lets you talk with lots of files! To enable it, head to Settings > Beta. Then, select "Long Context Chat" in the top right of a new chat and try @'ing a folder or the entire codebase.
 
-Tracked 2 of 3 candidate lines.
+Tracked 2 cards from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

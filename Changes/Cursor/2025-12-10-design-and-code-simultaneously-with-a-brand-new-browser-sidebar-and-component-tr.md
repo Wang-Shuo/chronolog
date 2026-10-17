@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 7fcb49b639987cea1b79218af351184ca2c39329bb2e2309ea06a3a8356ac913
+machine_hash: 278b7532290c40915b224516e260afc3789cfc75524273fe58987a4e63810cce
 product: cursor
 product_name: Cursor
 record:
@@ -52,6 +52,7 @@ related_changes:
   can also ⌘+F to search inside generated plans]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323]]'
 source_type: cursor_changelog
+superseded: true
 theme: interface-experience
 title: Design and code simultaneously with a brand new browser sidebar and component
   tree

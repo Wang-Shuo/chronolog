@@ -5,8 +5,8 @@ description: 'Cursor · 2025-08-21 · Apps and Integrations: Cursor now supports
   elicitation, a new feature in the MCP spec that allows servers to request structured
   input…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 882
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 8c7fb43eecaf5793df323e4c6e555e88ad6a7175721a4d39535a9cf01b1ade4b
+kind: launch
+machine_hash: 02fac310aa41b2171b6fe793ba8a85eed6d75110458dcf9243a5e2057bbf3cf7
 product: cursor
 product_name: Cursor
 record:
@@ -37,34 +38,35 @@ record:
       or configuration choice. Requests are defined with JSON schemas, giving servers
       validated responses while ensuring users stay in control of what they share.
     source_release: https://cursor.com/changelog/1-5
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: cursor-now-supports-mcp-elicitation-a-new-feature-in-the-mcp-spec-that-allows-se
+  slug: support-for-mcp-elicitation
   source_release: cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89
   source_type: cursor_changelog
   theme: apps-integrations
-  title: Cursor now supports MCP elicitation, a new feature in the MCP spec that allows…
+  title: Support for MCP elicitation
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-03-to-dos-are-also-visible-in-slack-if-integration-is-setup|To-dos
-  are also visible in Slack if integration is setup!]]'
-- '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-utilize-chat-search-with-hubspot-and-custom-connectors-mcp-in-b9b682|Pro
-  users can now utilize chat search with HubSpot and custom connectors (MCP)…]]'
+- '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-utilize-chat-search-with-hubspot-and-custom-connectors-mcp-in-b9b682|Chat
+  search for HubSpot and custom connectors (MCP) (Pro)]]'
+- '[[Changes/Cursor/2025-07-29-extension-marketplace-supports-custom-urls|Extension
+  marketplace supports custom URLs]]'
 - '[[Changes/ChatGPT/2025-08-13-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-are-now-availabl-e34de4|Gmail,
-  Google Calendar, and Google Contacts Connectors in ChatGPT are now available…]]'
+  Google Calendar, and Google Contacts Connectors in ChatGPT (Plus)]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89|cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: Cursor now supports MCP elicitation, a new feature in the MCP spec that allows…
+title: Support for MCP elicitation
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Cursor now supports MCP elicitation, a new feature in the MCP spec that allows…
+# Support for MCP elicitation
 
-**Cursor** · 2025-08-21 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://cursor.com/changelog/1-5) · from [[Releases/Cursor/cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89|Linear integration, improved Agent terminal, and OS notifications]]
+**Cursor** · 2025-08-21 · [[Themes/apps-integrations|Apps and Integrations]] · Launch · [Official source](https://cursor.com/changelog/1-5) · from [[Releases/Cursor/cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89|Linear integration, improved Agent terminal, and OS notifications]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -76,22 +78,26 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2025-08-21-you-can-now-start-background-agents-directly-from-linear-delegate-tasks-to-curso|Start Background Agents directly from Linear]] · Agent Mode
-- [[Changes/Cursor/2025-08-21-the-terminal-now-opens-on-the-left-with-a-clear-backdrop-and-border-animation-to|The terminal now opens on the left with a clear backdrop and border animation…]] · Developer Workflow
-- [[Changes/Cursor/2025-08-21-get-native-os-notifications-when-an-agent-run-finishes-or-when-input-is-required|Get native OS notifications when an agent run finishes or when input is required…]] · Agent Mode
+- [[Changes/Cursor/2025-08-21-you-can-now-start-background-agents-directly-from-linear-delegate-tasks-to-curso|Run Agents in Linear]] · Agent Mode
+- [[Changes/Cursor/2025-08-21-tab-now-aware-of-full-notebook|Tab now aware of full notebook]] · Editor Experience
+- [[Changes/Cursor/2025-08-21-1-5-5-general-stability-improvements-and-bug-fixes-to-enhance-overall-applicatio|1.5.5: General stability improvements and bug fixes to enhance overall application…]] · Reliability and Performance
+- [[Changes/Cursor/2025-08-21-the-terminal-now-opens-on-the-left-with-a-clear-backdrop-and-border-animation-to|Improved review flow in Agent terminal]] · Developer Workflow
+- [[Changes/Cursor/2025-08-21-context-usage-is-always-shown-in-the-chat-input|Context usage is always shown in the chat input]] · Context Window
+- [[Changes/Cursor/2025-08-21-2-model-support-changes-in-1-5|2 Model Support changes in 1.5]] · Model Support
+- [[Changes/Cursor/2025-08-21-get-native-os-notifications-when-an-agent-run-finishes-or-when-input-is-required|OS notifications from Agent]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-08-13 · ChatGPT · [[Changes/ChatGPT/2025-08-13-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-are-now-availabl-e34de4|Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT are now available…]]
-- Later: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-we-ve-added-support-for-mcp-resources-resources-allow-servers-to-share-data-that|Cursor adds support for MCP Resources]]
+- Earlier: 2025-08-13 · ChatGPT · [[Changes/ChatGPT/2025-08-13-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-are-now-availabl-e34de4|Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Plus)]]
+- Later: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-2-apps-and-integrations-changes-in-1-6|2 Apps and Integrations changes in 1.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

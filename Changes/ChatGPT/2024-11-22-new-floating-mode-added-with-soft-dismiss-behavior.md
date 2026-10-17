@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 5a4419b1861019ed012a9c100ff7f4eacdbf973d4a53b66a2280c22522424e87
+machine_hash: 84573069c3f70fd3a92590892c274bdd1af4efde28454b9ab5333e61255923b5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,6 +51,7 @@ related_changes:
   small settings icon was added in larger viewports when the sidebar is not open]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c|chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: interface-experience
 title: New floating mode added with soft dismiss behavior
 type: change

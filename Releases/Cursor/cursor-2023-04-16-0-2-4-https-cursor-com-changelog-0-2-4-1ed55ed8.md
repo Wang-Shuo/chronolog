@@ -3,7 +3,7 @@ changes_count: 2
 date: '2023-04-16'
 description: 'Cursor release Chat Scrolling & Ghost Mode (2023-04-16) on 2023-04-16:
   2 tracked changes across Editor Experience, Safety and Privacy'
-machine_hash: 8683718738ec5ef2d7c37d48f384cfbc99c28251c993c5b188a2a92173a099af
+machine_hash: d0016d582954b2890a9aca2694a136772b2b282ade944603049d77079ce90fc6
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.2.4
 <!-- chronolog:begin region="summary" -->
 2 tracked changes across 2 themes: Editor Experience, Safety and Privacy.
 
-Tracked 2 of 4 candidate lines.
+Tracked 2 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

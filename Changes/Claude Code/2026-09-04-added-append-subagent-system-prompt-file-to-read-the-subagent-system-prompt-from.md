@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c5847c86b27879a1acdae4b4b6d6732919a64e583aebf67fac4619a7ae83ec51
+machine_hash: bce8227a100f327270e99d0d7c5d9a1d285eed94c109c8610438d0cb0575159f
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   codebase, build outputs, and secrets all stay on internal machines running…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519|claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added --append-subagent-system-prompt-file to read the subagent system prompt…
 type: change

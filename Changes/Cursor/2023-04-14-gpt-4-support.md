@@ -13,9 +13,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 64d7684a601e68ed5acfc445ae82a18ea49a35042272b9dec33ab097f00b20e3
+kind: change
+machine_hash: 615219c50631b5c4983650338e7b646e62bfdda05258df4aa7f0a382cfb62e2e
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: GPT-4 support
     source_release: https://cursor.com/changelog/0-2-3
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: gpt-4-support
@@ -77,7 +79,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-use-an-openai-api-key-for-unlimited-requests-at-cost-gpt-4-access-if-available|Use an OpenAI API key for unlimited requests at cost (GPT-4 access if available)]]
-- Later: 2023-04-19 · Cursor · [[Changes/Cursor/2023-04-19-switch-models-in-settings-gear|Switch models in settings gear]]
+- Later: 2023-04-19 · Cursor · [[Changes/Cursor/2023-04-19-3-model-support-changes-in-0-2-6|3 Model Support changes in 0.2.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

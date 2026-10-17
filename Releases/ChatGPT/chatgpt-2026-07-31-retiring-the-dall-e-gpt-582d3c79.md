@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-07-31'
 description: 'ChatGPT release Retiring the DALL·E GPT on 2026-07-31: 1 tracked change
   across Image Generation'
-machine_hash: ed47939e157e63c882d59eaac5c114eede204d645a6208ac1c7c4dfec57b9270
+machine_hash: 4ec4dfdfc80062b48214c813309193400cb538f9af698773559bdd269fd3c65c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Retiring the DALL·E GPT
 <!-- chronolog:begin region="summary" -->
 On August 30, 2026, we’re retiring the official DALL·E GPT in ChatGPT. We encourage you to download any images you want to keep before then.To continue creating or editing images, use ChatGPT Images. User-created GPTs with image generation enabled are not affected.Learn more in Images in ChatGPT.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-07-31-on-august-30-2026-we-re-retiring-the-official-dall-e-gpt-in-chatgpt-we-encourage|On August 30, 2026, we’re retiring the official DALL·E GPT in ChatGPT]] · Image Generation
+- [[Changes/ChatGPT/2026-07-31-on-august-30-2026-we-re-retiring-the-official-dall-e-gpt-in-chatgpt-we-encourage|Retiring the DALL·E GPT]] · Image Generation · Policy
 <!-- chronolog:end -->

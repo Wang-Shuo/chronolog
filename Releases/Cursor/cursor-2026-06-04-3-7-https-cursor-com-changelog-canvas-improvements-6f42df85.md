@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 7
 date: '2026-06-04'
 description: 'Cursor release Canvas Design Mode and Context Usage Report on 2026-06-04:
-  5 tracked changes across Context Window, Collaboration, Files and Data'
-machine_hash: 57665fca5f475f0e553dae6506959204d194c87783c933abcca60139d334bb75
+  7 tracked changes across Context Window, Files and Data, Agent Mode, Collaboration…'
+machine_hash: 00d649c20aa402b2705a92599e4ede7684f5a6b061d0ea0ed8b562785224b2cb
 product: cursor
 product_name: Cursor
 record:
@@ -39,14 +39,16 @@ version: '3.7'
 <!-- chronolog:begin region="summary" -->
 With canvases, agents can create interactive artifacts like dashboards, reports, and internal tools that you can share with your team.
 
-Tracked 5 of 12 candidate lines.
+Tracked 7 cards from 12 candidate lines; 1 line pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-06-04-cursor-can-now-show-your-agent-s-context-usage-as-an-interactive-report-in-a-can|Cursor can now show your agent's context usage as an interactive report in a canvas]] · Context Window
-- [[Changes/Cursor/2026-06-04-this-release-introduces-design-mode-for-faster-canvas-editing-new-ways-to-unders|Cursor introduces Design Mode for faster canvas editing, new ways to understand…]] · Context Window
-- [[Changes/Cursor/2026-06-04-design-mode-is-now-available-in-canvases|Design Mode is now available in canvases]] · Files and Data
-- [[Changes/Cursor/2026-06-04-the-context-explorer-breaks-down-where-tokens-go-across-the-system-prompt-tool-d|The context explorer breaks down where tokens go across the system prompt, tool…]] · Context Window
+- [[Changes/Cursor/2026-06-04-added-the-ability-for-agents-to-embed-buttons-in-canvases-that-will-run-a-specif|Added the ability for agents to embed buttons in canvases that will run a specific…]] · Agent Mode
+- [[Changes/Cursor/2026-06-04-this-release-introduces-design-mode-for-faster-canvas-editing-new-ways-to-unders|Cursor introduces Design Mode for faster canvas editing, new ways to understand…]] · Context Window · Launch
+- [[Changes/Cursor/2026-06-04-design-mode-is-now-available-in-canvases|Design Mode in canvases]] · Files and Data · Launch
+- [[Changes/Cursor/2026-06-04-improved-the-agent-s-ability-to-fix-canvas-type-errors|Improved the agent's ability to fix canvas type errors]] · Files and Data
+- [[Changes/Cursor/2026-06-04-shared-canvases-can-now-be-opened-full-screen-in-the-browser-making-them-easier|Shared canvases can now be opened full-screen in the browser, making them easier…]] · Interface Experience
 - [[Changes/Cursor/2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an|With canvases, agents can create interactive artifacts like dashboards, reports…]] · Collaboration
+- [[Changes/Cursor/2026-06-04-context-usage-report-in-canvas-d08e2a|Context usage report in canvas]] · Context Window · Launch
 <!-- chronolog:end -->

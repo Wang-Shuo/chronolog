@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f0e958e45fb51fa55d49a97b4506da30ce81956901b31dd4dd1cee4d1c79ed91
+machine_hash: 182d847c2b013906f3c49cb140ea6e598541ce118e85934a09f0e25f9f54c351
 product: cursor
 product_name: Cursor
 record:
@@ -52,6 +52,7 @@ related_changes:
   to building Cursor on top of a fork of VSCodium]]'
 source_release: '[[Releases/Cursor/cursor-2023-04-06-0-2-0-https-cursor-com-changelog-0-2-0-2dbfe24a|cursor-2023-04-06-0-2-0-https-cursor-com-changelog-0-2-0-2dbfe24a]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: We've transitioned to building Cursor on top of a fork of VSCodium, moving
   away…

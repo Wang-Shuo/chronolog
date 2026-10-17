@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: a9c8bf03fc1b1b7b837d03b1d7cc861b8e10fdfc0a85d9e4e46e2574086417b6
+machine_hash: d6009bf0db57cf037ad8e1c38cb07dc6a20f08cd6f45c22edede3e58b5a58625
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   server.key=value to claude plugin install --config, so a bundled…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc|claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added claude plugin configure plugin to show a plugin's options and…
 type: change

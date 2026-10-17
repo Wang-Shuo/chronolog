@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 43a825d243743b2f820be2da63762c788f6ae4e16c542e51ee63848a302b867e
+machine_hash: df02dd66fa56bbcd0ef9d75778f2b08d7a05cba70b9e6bec79e3c1b88756b937
 product: cursor
 product_name: Cursor
 record:
@@ -55,6 +55,7 @@ related_changes:
   Projects from the left-hand nav]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75|cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Tell the coordinator agent to watch a Slack channel, run on a schedule, or
   follow…

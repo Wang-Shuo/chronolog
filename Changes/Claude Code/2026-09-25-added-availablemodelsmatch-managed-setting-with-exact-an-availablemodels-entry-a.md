@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 5ff26b57488ea1680b7c22addde05c21a3017a703837c9fe502cc51a893d5e3a
+machine_hash: cfa8a998e1e0ce879f964a229ddc11de0a9639e4f011175b9c638ec55003166c
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   Claude Opus 5.5 (claude-opus-5-5), now the default Opus model]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8|claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Added availableModelsMatch managed setting
 type: change

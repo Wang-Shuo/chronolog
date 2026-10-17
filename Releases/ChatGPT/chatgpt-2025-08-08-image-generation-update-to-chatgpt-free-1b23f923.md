@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-08-08'
 description: 'ChatGPT release Image generation update to ChatGPT Free on 2025-08-08:
   1 tracked change across Image Generation'
-machine_hash: fd200f8cc9c0610c98eff64d83386822d6f72b833bebc71ff3185e5292b62bfd
+machine_hash: 33dcee47fcdfcd2a823c532b2829be4456fe99d584cfd88cb13e60c767db315e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,10 +39,10 @@ version: Image generation update to ChatGPT Free
 <!-- chronolog:begin region="summary" -->
 We're rolling out a small update to image generation for ChatGPT Free tier users that makes its performance more efficient.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|ChatGPT rolls out a small update to image generation for ChatGPT Free tier users…]] · Image Generation
+- [[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|Image generation update to ChatGPT Free]] · Image Generation
 <!-- chronolog:end -->

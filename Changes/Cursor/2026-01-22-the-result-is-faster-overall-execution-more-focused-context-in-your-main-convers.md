@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c90c8cf0b3562c01918ac46cce379adabfdb2dc1b9d159f10d0cc0d9035df923
+machine_hash: 69f120009b51c2c54d99b33ad6959663c8404fa0a6b09ea6306c49dec34e9b79
 product: cursor
 product_name: Cursor
 record:
@@ -59,6 +59,7 @@ related_changes:
   auto:N syntax for configuring the MCP tool search auto-enable threshold…]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: The result is faster overall execution, more focused context in your main…
 type: change

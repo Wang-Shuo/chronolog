@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5b5ab34c526dfb0bbfb9200db089c0ad02742769a88c33339e8e7d97862ead3a
+machine_hash: 778c5833c93e4995bc85a8465d0c8ed4c822cd1c507ec143b8d4adcbfb3f5e91
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   skills, and MCPs let you customize Cursor for your workflows]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-23-v2-1-187-github-343665388-744f9775|claude-code-2026-06-23-v2-1-187-github-343665388-744f9775]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: 'Improved /install-github-app: GitHub Actions workflow setup is now optional'
 type: change

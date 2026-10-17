@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-09-21'
 description: 'ChatGPT release Credit scores in Finances on 2026-09-21: 1 tracked change
   across Mobile and Desktop'
-machine_hash: 6eb71c0762a1dc06472cb22ad2c883cec3dbb2c91b5eaa64effbdaefc483fa16
+machine_hash: 1f78aee6d376c4a1da2a938e0fc7f6ad1d9cbb20317224dc07ba583b1543f853
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Credit scores in Finances
 <!-- chronolog:begin region="summary" -->
 You can now track your credit score in ChatGPT. Securely connect your Experian® credit report and VantageScore® 3.0 credit score to get personalized insights into what’s affecting your score and how it relates to your finances and goals.
 
-Tracked 1 of 4 candidate lines.
+Tracked 1 card from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-09-21-this-feature-is-rolling-out-in-finances-to-plus-and-pro-users-in-the-u-s-on-web|This feature is rolling out in Finances to Plus and Pro users in the U.S. on web…]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-09-21-you-can-now-track-your-credit-score-in-chatgpt-securely-connect-your-experian-cr|Credit scores in Finances]] · Mobile and Desktop
 <!-- chronolog:end -->

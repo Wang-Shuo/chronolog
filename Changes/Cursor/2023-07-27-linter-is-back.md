@@ -12,9 +12,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: d31f900e9c0ffb967fcff367ff19dbc3ba920468b9d2bc25b9b1a87f076fce86
+kind: change
+machine_hash: b0fb7bf53b036424e163c4d5670b45536462a2ae4a6a8b72f41e742bf080bdc1
 product: cursor
 product_name: Cursor
 record:
@@ -25,8 +26,9 @@ record:
   evidence:
   - quote: Linter is back!
     source_release: https://cursor.com/changelog/0-5-0
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: linter-is-back
@@ -36,10 +38,10 @@ record:
   title: Linter is back!
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-06-27-you-can-now-use-run-debug-in-cursor-again-the-toolbar-is-back|Use
+- '[[Changes/Cursor/2023-06-24-chat-was-failing-on-some-non-git-folders-that-is-now-fixed|Chat
+  was failing on some non-git folders]]'
+- '[[Changes/Cursor/2023-06-27-you-can-now-use-run-debug-in-cursor-again-the-toolbar-is-back-db8146|Use
   Run & debug in Cursor again (the toolbar is back)]]'
-- '[[Changes/Cursor/2023-06-27-early-support-for-slash-commands|Early support for
-  slash commands]]'
 - '[[Changes/Cursor/2023-07-12-this-update-patches-search-cmd-win-shift-f-and-many-extensions-for-and-wsl-and-s|This
   update patches search (Cmd/Win+Shift+F) and many extensions for and WSL and SSH
   users]]'
@@ -73,7 +75,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2023-07-12 · Cursor · [[Changes/Cursor/2023-07-12-this-update-patches-search-cmd-win-shift-f-and-many-extensions-for-and-wsl-and-s|This update patches search (Cmd/Win+Shift+F) and many extensions for and WSL and SSH users]]
-- Later: 2023-07-28 · Cursor · [[Changes/Cursor/2023-07-28-remote-ssh-is-now-built-in-to-cursor-you-do-not-need-to-edit-the-behavior-it-sho|Remote-ssh is now built-in to cursor]]
+- Later: 2023-07-28 · Cursor · [[Changes/Cursor/2023-07-28-better-support-for-remote-ssh|Better support for remote-ssh]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

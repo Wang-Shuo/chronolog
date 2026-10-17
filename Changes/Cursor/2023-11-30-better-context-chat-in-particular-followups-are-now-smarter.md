@@ -4,8 +4,8 @@ date: '2023-11-30'
 description: 'Cursor · 2023-11-30 · Context Window: Better context chat: in particular,
   followups are now smarter!'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
-    prompt length for project generation]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 210
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 5b27a26b2a5bb80f5ea8540b86563e2a66793d437dcb5521c81d31b652f3585c
+kind: change
+machine_hash: fc267955f3eca95709f4fa60954b015f32995b383b094b904713a5a3d9e792b0
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: 'Better context chat: in particular, followups are now smarter!'
     source_release: https://cursor.com/changelog/0-18-0
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: better-context-chat-in-particular-followups-are-now-smarter
@@ -39,10 +41,9 @@ record:
   title: 'Better context chat: in particular, followups are now smarter!'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-21-integrates-gpt-v-into-chat-for-the-editor-this-means-you-can-take-screenshots-im|Integrates
-  GPT-V into chat for the editor]]'
-- '[[Changes/Cursor/2023-11-24-you-can-now-folder-in-the-chat-to-chat-with-a-folder-let-us-know-what-you-think|@folder
-  in the chat to chat with a folder]]'
+- '[[Changes/Cursor/2023-11-21-integrates-gpt-v-into-chat-for-the-editor-this-means-you-can-take-screenshots-im|GPT-V
+  Support]]'
+- '[[Changes/Cursor/2023-11-24-you-can-now-folder-in-the-chat-to-chat-with-a-folder-let-us-know-what-you-think|@folder]]'
 - '[[Changes/Cursor/2023-11-27-folders-you-can-now-use-the-symbol-to-reference-specific-folders-we-ll-try-to-pi|@
   folders: You can now use the @ symbol to reference specific folders!]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-30-0-18-0-https-cursor-com-changelog-0-18-0-f0874043|cursor-2023-11-30-0-18-0-https-cursor-com-changelog-0-18-0-f0874043]]'
@@ -81,7 +82,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

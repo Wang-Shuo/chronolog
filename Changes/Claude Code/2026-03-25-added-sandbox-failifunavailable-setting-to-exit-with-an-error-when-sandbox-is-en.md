@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f3c8fb6060dc006d834c23541f461cd0f94ea9c0d4c065ecaefc35061798f92f
+machine_hash: b56b7e7dc0b19d512beb40f89072bb1be0968f19f799ef6843102bb99ca19453
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   CLAUDE_CODE_SUBPROCESS_ENV_SCRUB=1 to strip Anthropic and cloud provider…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317|claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Added sandbox.failIfUnavailable setting to exit with an error when sandbox…
 type: change

@@ -15,9 +15,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 6f7dc0b5b9abc005f5186637762f1c6a9e5707ce206f839973eaae8e7d8fb05b
+kind: change
+machine_hash: e657dab53eff44ccca639cb38f159de2e38e948bfc829fd987d886a513ca3c93
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,8 +33,9 @@ record:
       Site in a desktop browser to continue editing in ChatGPT, review changes, and
       publish when ready.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: site-owners-and-editors-on-plus-and-pro-can-select-edit-site-from-a-published-si
@@ -44,12 +46,12 @@ record:
     Site…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-17-you-can-now-connect-multiple-accounts-to-plugins-in-chatgpt-expanding-support-be|Connect
-  multiple accounts to plugins in ChatGPT, expanding support beyond Gmail…]]'
-- '[[Changes/ChatGPT/2026-09-21-this-feature-is-rolling-out-in-finances-to-plus-and-pro-users-in-the-u-s-on-web|This
-  feature is rolling out in Finances to Plus and Pro users in the U.S. on web…]]'
-- '[[Changes/Claude Code/2026-09-23-added-claude-apps-gateway-support-for-newer-claude-desktop-keys-in-desktop-polic|Added
-  Claude apps gateway support for newer Claude Desktop keys in desktop policy…]]'
+- '[[Changes/ChatGPT/2026-09-21-you-can-now-track-your-credit-score-in-chatgpt-securely-connect-your-experian-cr|Credit
+  scores in Finances]]'
+- '[[Changes/Claude Code/2026-09-23-2-mobile-and-desktop-changes-in-v2-1-281|2 Mobile
+  and Desktop changes in v2.1.281]]'
+- '[[Changes/Claude Code/2026-09-24-2-mobile-and-desktop-changes-in-v2-1-282|2 Mobile
+  and Desktop changes in v2.1.282]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-creating-editing-and-scheduling-sites-bb025dd6|chatgpt-2026-09-29-creating-editing-and-scheduling-sites-bb025dd6]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -79,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-added-claude-apps-gateway-support-for-newer-claude-desktop-keys-in-desktop-polic|Added Claude apps gateway support for newer Claude Desktop keys in desktop policy…]]
+- Earlier: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-2-mobile-and-desktop-changes-in-v2-1-282|2 Mobile and Desktop changes in v2.1.282]]
 - Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio is deleted once your notes are ready and can’t be accessed or replayed]]
 <!-- chronolog:end -->
 

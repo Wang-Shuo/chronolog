@@ -1,9 +1,9 @@
 ---
-changes_count: 2
+changes_count: 1
 date: '2026-09-29'
 description: 'ChatGPT release Work with interactive plugin extensions on 2026-09-29:
-  2 tracked changes across Apps and Integrations'
-machine_hash: 961b7adbe6c7837221c40f649e7d2487e24495d22eac5816dcdb1a49d14bf605
+  1 tracked change across Apps and Integrations'
+machine_hash: 378afda110b726635471e34b8114458b52a7ca97b9ff7000601603d1aec10df1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,11 +41,10 @@ version: Work with interactive plugin extensions
 <!-- chronolog:begin region="summary" -->
 Plugins can now include interactive panels, sidebar views, and viewers or editors for supported file types. Work with an app alongside your conversation, select the information you want ChatGPT to use, or complete a form provided by the plugin.
 
-Tracked 2 of 3 candidate lines.
+Tracked 1 card from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-09-29-plugins-can-now-include-interactive-panels-sidebar-views-and-viewers-or-editors|Plugins can now include interactive panels, sidebar views, and viewers or editors…]] · Apps and Integrations
-- [[Changes/ChatGPT/2026-09-29-plugins-still-require-their-applicable-account-connections-and-workspace-permiss|Plugins still require their applicable account connections and workspace permissions]] · Apps and Integrations
+- [[Changes/ChatGPT/2026-09-29-plugins-can-now-include-interactive-panels-sidebar-views-and-viewers-or-editors-d0bd7e|Work with interactive plugin extensions]] · Apps and Integrations
 <!-- chronolog:end -->

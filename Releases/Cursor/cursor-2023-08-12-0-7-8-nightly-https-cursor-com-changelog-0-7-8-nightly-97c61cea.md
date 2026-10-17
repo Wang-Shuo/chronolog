@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-08-12'
 description: 'Cursor release Followups in edits on 2023-08-12: 1 tracked change across
   Editor Experience'
-machine_hash: bd8c81b51dc814eed0674cd427a6c0503cd2225f6b8f3a77e8caa9a54289bd6f
+machine_hash: 520bcaec47776b0c2388bdad7f24ca35a5ae787406fde921a525671564a64c13
 product: cursor
 product_name: Cursor
 record:
@@ -40,10 +40,10 @@ version: 0.7.8-nightly
 <!-- chronolog:begin region="summary" -->
 The cmd-k edits now support followups! This is an early preview — please let us know of any annoyances or bugs, or if you preferred the no-followup mode. Please please send all feedback you have in the Discord channel!
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-08-12-the-cmd-k-edits-now-support-followups-this-is-an-early-preview-please-let-us-kno|The cmd-k edits now support followups!]] · Editor Experience
+- [[Changes/Cursor/2023-08-12-the-cmd-k-edits-now-support-followups-this-is-an-early-preview-please-let-us-kno|Followups in edits]] · Editor Experience
 <!-- chronolog:end -->

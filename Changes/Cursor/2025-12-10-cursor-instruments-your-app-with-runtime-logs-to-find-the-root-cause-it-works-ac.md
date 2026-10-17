@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3f9de96cf75227b88add13efdcfb2a4aa1d3d0524f1da5448c4421aa0ae7e547
+machine_hash: e03ec6114dcf5856bbbc6cc7e212c5a6f517f82652c09608682752aa1ff7db6f
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   now adds more inline images from the web to help you quickly understand…]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323]]'
 source_type: cursor_changelog
+superseded: true
 theme: model-support
 title: Cursor instruments your app with runtime logs to find the root cause
 type: change

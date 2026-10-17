@@ -4,8 +4,8 @@ date: '2024-08-02'
 description: 'Cursor · 2024-08-02 · Agent Mode: Concurrent composers support, composer
   control panel, and various bug fixes such as accepted files being deleted.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 393
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: b7f4c87a5e0950199b1dfbcc5693e0a02bbf9fe4e134a2acc25a63d53a69d985
+kind: change
+machine_hash: cf521866fad579b6bf4c687d3b4d26a2ab7c1106cac20251e7f7faac138186a7
 product: cursor
 product_name: Cursor
 record:
@@ -32,8 +33,9 @@ record:
   - quote: Concurrent composers support, composer control panel, and various bug fixes
       such as accepted files being deleted.
     source_release: https://cursor.com/changelog/0-39-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: concurrent-composers-support-composer-control-panel-and-various-bug-fixes-such-a
@@ -83,13 +85,13 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2024-02-15 · Cursor · [[Changes/Cursor/2024-02-15-interpreter-mode-we-ve-made-some-big-improvements-to-the-backend-powering-interp|Interpreter Mode: We've made some big improvements to the backend powering…]]
-- Later: 2024-12-17 · Cursor · [[Changes/Cursor/2024-12-17-agent-auto-saves-changes-to-disk|Agent auto-saves changes to disk]]
+- Later: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-agent-sees-recent-changes-the-agent-can-use-a-tool-to-see-your-recent-changes-it|Agent sees recent changes: The agent can use a tool to see your recent changes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

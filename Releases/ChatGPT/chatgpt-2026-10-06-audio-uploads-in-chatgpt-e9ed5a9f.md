@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-10-06'
 description: 'ChatGPT release Audio uploads in ChatGPT on 2026-10-06: 1 tracked change
   across Voice and Audio'
-machine_hash: 8d7fbe6fde2804dceb8f5e060898ae44803081f0a98615257fc987123bf897a5
+machine_hash: a91467a0c7251c27dfa2667f02d6b426710830671d1a69e0dc4e916be48a169b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: Audio uploads in ChatGPT
 <!-- chronolog:begin region="summary" -->
 Upload audio files to ChatGPT to create transcripts, summarize recordings, and ask questions about their contents. You can turn a meeting, interview, or lecture into structured notes or a follow-up email draft. To get started, attach a supported audio file to a conversation and describe what you need.Audio uploads are…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-10-06-upload-audio-files-to-chatgpt-to-create-transcripts-summarize-recordings-and-ask|Upload audio files to ChatGPT to create transcripts, summarize recordings, and ask…]] · Voice and Audio
+- [[Changes/ChatGPT/2026-10-06-upload-audio-files-to-chatgpt-to-create-transcripts-summarize-recordings-and-ask|Audio uploads in ChatGPT]] · Voice and Audio
 <!-- chronolog:end -->

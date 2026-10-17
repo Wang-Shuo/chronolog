@@ -14,9 +14,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 8c81d45d36a35ad5a86960b3ac08620349968529d214b3005c3f37022b836567
+kind: launch
+machine_hash: a6ec58ea0d40d44851c771a3dd6c0cb2653f63d7648635630ca4b45effd2479f
 product: cursor
 product_name: Cursor
 record:
@@ -30,8 +31,9 @@ record:
   - quote: This release introduces updates to cloud agents in the Agents Window of
       the Cursor desktop app.
     source_release: https://cursor.com/changelog/cloud-in-agents-window
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: cursor
   product_name: Cursor
   slug: this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs
@@ -52,12 +54,12 @@ record:
     desktop app
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is|Generated
-  images will continue to appear in the Images tab]]'
-- '[[Changes/ChatGPT/2026-06-10-on-ios-and-android-you-can-find-the-picker-at-the-top-of-the-conversation-on-web|On
-  iOS and Android, you can find the picker at the top of the conversation]]'
-- '[[Changes/Claude Code/2026-06-17-added-claude-client-presence-file-environment-variable-point-it-at-a-marker-file|Added
-  CLAUDE_CLIENT_PRESENCE_FILE environment variable]]'
+- '[[Changes/Claude Code/2026-06-08-auto-updater-on-windows-now-stops-retrying-within-a-session-once-claude-exe-is-h|Auto-updater
+  on Windows now stops retrying within a session once claude.exe…]]'
+- '[[Changes/Claude Code/2026-06-10-disable-mouse-tracking-on-windows-consoles-that-don-t-fully-support-it|Disable
+  mouse tracking on Windows consoles that don''t fully support it]]'
+- '[[Changes/Claude Code/2026-06-17-2-mobile-and-desktop-changes-in-v2-1-181|2 Mobile
+  and Desktop changes in v2.1.181]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa|cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa]]'
 source_type: cursor_changelog
 theme: mobile-desktop
@@ -69,7 +71,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Cursor introduces updates to cloud agents in the Agents Window of the Cursor desktop app
 
-**Cursor** · 2026-06-17 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://cursor.com/changelog/cloud-in-agents-window) · from [[Releases/Cursor/cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa|Cloud Environment Setup and Cloud Subagents in Agents Window]]
+**Cursor** · 2026-06-17 · [[Themes/mobile-desktop|Mobile and Desktop]] · Launch · [Official source](https://cursor.com/changelog/cloud-in-agents-window) · from [[Releases/Cursor/cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa|Cloud Environment Setup and Cloud Subagents in Agents Window]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -81,17 +83,16 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-06-17-this-is-especially-useful-for-isolating-long-running-or-parallel-work-like-fixin|This is especially useful for isolating long-running or parallel work like fixing…]] · Editor Experience
-- [[Changes/Cursor/2026-06-17-cursor-can-now-help-you-set-up-your-dev-environment-in-the-cloud-in-less-than-10|Cursor can now help you set up your dev environment in the cloud in less than 10 minutes]] · Developer Workflow
-- [[Changes/Cursor/2026-06-17-use-in-cloud-to-spin-up-a-cloud-subagent-in-its-own-vm-to-work-on-the-next-task|Use /in-cloud to spin up a cloud subagent in its own VM to work on the next task you…]] · Agent Mode
-- [[Changes/Cursor/2026-06-17-your-environment-is-captured-in-a-reusable-snapshot-so-future-cloud-agents-start|Your environment is captured in a reusable snapshot, so future cloud agents start up…]] · Reliability and Performance
+- [[Changes/Cursor/2026-06-17-cloud-environment-setup-8a7697|Cloud environment setup]] · Developer Workflow
+- [[Changes/Cursor/2026-06-17-handoff-between-local-and-cloud|Handoff between local and cloud]] · Agent Mode
+- [[Changes/Cursor/2026-06-17-cloud-subagents-with-in-cloud-eb7958|Cloud subagents with /in-cloud]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-added-claude-client-presence-file-environment-variable-point-it-at-a-marker-file|Added CLAUDE_CLIENT_PRESENCE_FILE environment variable]]
-- Later: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-chatgpt-now-has-more-ways-to-help-with-common-questions-from-pronunciation-guida|ChatGPT now has more ways to help with common questions, from pronunciation guidance…]]
+- Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-2-mobile-and-desktop-changes-in-v2-1-181|2 Mobile and Desktop changes in v2.1.181]]
+- Later: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-updated-composer-and-tools-menu-the-composer-in-android-now-has-inline-mentions|Updated composer and tools menu]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

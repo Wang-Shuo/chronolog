@@ -13,9 +13,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 8e5831a1d5f699bda0340381f4b97eb7c4163bf4f03e5fc0beb0cdf50dd10484
+kind: change
+machine_hash: 9ac12f85803c5bc21d374e86b2cfe89eb804a09cb98f18653e3344dc3cc17a7a
 product: cursor
 product_name: Cursor
 record:
@@ -26,8 +27,9 @@ record:
   evidence:
   - quote: Keychords now use Cmd+R/Ctrl+R.
     source_release: https://cursor.com/changelog/0-7-14-nightly
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: keychords-now-use-cmd-r-ctrl-r
@@ -39,10 +41,10 @@ record:
   title: Keychords now use Cmd+R/Ctrl+R
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-07-chat-edit-tooltip-blocks-less-code|Chat/Edit tooltip
-  blocks less code]]'
 - '[[Changes/Cursor/2023-07-07-better-symbol-keyboard-ergonomics|Better @ symbol keyboard
   ergonomics]]'
+- '[[Changes/Cursor/2023-07-07-chat-edit-tooltip-blocks-less-code-3a1e6b|Chat/Edit
+  tooltip blocks less code]]'
 - '[[Changes/Cursor/2023-07-27-c-and-f-now-properly-render-in-the-chat|C♯ and F♯ now
   properly render in the chat]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-17-0-7-14-nightly-https-cursor-com-changelog-0-7-14-nightly-b6b0c549|cursor-2023-08-17-0-7-14-nightly-https-cursor-com-changelog-0-7-14-nightly-b6b0c549]]'
@@ -74,7 +76,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2023-07-27 · Cursor · [[Changes/Cursor/2023-07-27-c-and-f-now-properly-render-in-the-chat|C♯ and F♯ now properly render in the chat]]
-- Later: 2023-08-21 · Cursor · [[Changes/Cursor/2023-08-21-activity-bar-elements-can-now-be-reordered-with-drag-and-drop|Activity bar elements can now be reordered with drag-and-drop]]
+- Later: 2023-08-21 · Cursor · [[Changes/Cursor/2023-08-21-nicer-error-messages-in-the-chat-fewer-annoying-popups-782655|Nicer error messages in the chat!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

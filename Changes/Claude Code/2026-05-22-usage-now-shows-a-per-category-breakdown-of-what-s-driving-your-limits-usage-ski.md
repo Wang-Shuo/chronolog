@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3852b418f9cc66af8eb8284ae8f7bc430501c143c0c6dafa8f5618e4ea7d84e8
+machine_hash: c0bbdfa4bf717f2d8eafab76a07ceade9b67ee6e46681276e1f103381c3ae7bd
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,6 +61,7 @@ related_changes:
   the integration from Cursor integrations]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f|claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: /usage now shows a per-category breakdown of what's driving your limits usage
 type: change

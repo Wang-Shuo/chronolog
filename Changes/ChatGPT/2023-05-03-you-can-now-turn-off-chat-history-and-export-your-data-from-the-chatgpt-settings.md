@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f47f80e6db061f0526bbd501122e6fcd519abd4e2e79cacab508dc9596fb822e
+kind: change
+machine_hash: 295f09f3551b9a6072a9b35533f231fc20fd60927d6230eac72063d3f91fd4d9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,8 +33,9 @@ record:
       settings. Conversations that are started when chat history is disabled won’t
       be used to train and improve our models, and won’t appear in the history sidebar.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: you-can-now-turn-off-chat-history-and-export-your-data-from-the-chatgpt-settings
@@ -53,7 +55,8 @@ record:
   title: Turn off chat history and export your data from the ChatGPT settings
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-03-23-resizable-sidebar|Resizable sidebar]]'
+- '[[Changes/Cursor/2023-03-23-3-interface-experience-changes-in-0-1-5|3 Interface
+  Experience changes in 0.1.5]]'
 - '[[Changes/Cursor/2023-03-27-changes-autoupdate-to-notify-you-when-there-s-a-new-version|Changes
   autoupdate to notify you when there''s a new version]]'
 - '[[Changes/Cursor/2023-03-30-cleaned-up-chat-styling|Cleaned up chat styling]]'

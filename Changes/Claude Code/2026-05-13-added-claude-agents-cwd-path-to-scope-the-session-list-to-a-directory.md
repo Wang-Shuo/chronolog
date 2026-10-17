@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2ac37d636705faaf6b40eda61bcb9c8b2e5a6b529ad9177c15b31da6d3e1a3d0
+machine_hash: 921e244e21f0b64fd30152f7889f2b7dd51274425df86f8985e59a595645bd2f
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,6 +47,7 @@ related_changes:
   palette]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added claude agents --cwd path to scope the session list to a directory
 type: change

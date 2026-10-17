@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 487974bdbd2daf0bcc6b756bb0246f95784a0e7f6f91ddbf5511e67421c47537
+machine_hash: ae4ffaecd7cb9b122b1ccfc22f4878c29151856f677da4e0d9fe974043725aa7
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   /theme command to open theme picker directly]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-3-github-275638643-101f767c|claude-code-2026-01-09-v2-1-3-github-275638643-101f767c]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added release channel (stable or latest) toggle to /config
 type: change

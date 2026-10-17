@@ -3,7 +3,7 @@ changes_count: 3
 date: '2023-06-22'
 description: 'ChatGPT release Browsing and search on mobile on 2023-06-22: 3 tracked
   changes across Mobile and Desktop, Model Support, Search and Browsing'
-machine_hash: 1048de6e8c65647cd0a692df9279d3994d0869943719e23869a5516e2009c5cd
+machine_hash: 523358e6cf6c3905ccefd6b8fd0238fbc18a2fdb4b8304c6ab1077b8bc2fd2e7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ version: Browsing and search on mobile
 <!-- chronolog:begin region="summary" -->
 We’ve made two updates to the mobile ChatGPT app:
 
-Tracked 3 of 3 candidate lines.
+Tracked 3 cards from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 59ced7d1e1f9f4d394bf77d8ca47415dad42f75a9226df18d5a99b178850ede4
+machine_hash: 8503791816ed5e51e377d559722b5caf8be9f8a8d10fa08e794b40564e3c33be
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -67,6 +67,7 @@ related_changes:
   making it easier to bring meeting context into ChatGPT so you can act on next…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-start-automations-from-connected-app-events-9ef6c936|chatgpt-2026-09-29-start-automations-from-connected-app-events-9ef6c936]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: apps-integrations
 title: Supported plugins can use MCP events to start an automation when something
   changes…

@@ -4,8 +4,8 @@ date: '2026-06-04'
 description: 'ChatGPT · 2026-06-04 · Memory and Personalization: We’ve upgraded memory
   so ChatGPT can better keep your context up to date, helping responses stay more…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1050
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f09cd897c6d3e04843702569e73371300c3c07d8f7c9c874d7688a3bb234c4c6
+kind: change
+machine_hash: 3d77a3ad4b6e768ecf9305b5871a2d5c515ad94ad6587df8d10677c6a7d8097d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,8 +55,9 @@ record:
       the update becomes available to them. For Plus and Pro users, ChatGPT can also
       remember more useful context, with twice as much memory capacity.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping
@@ -77,25 +79,24 @@ record:
     - context
     score: 50
     theme: context-window
-  title: We’ve upgraded memory so ChatGPT can better keep your context up to date,
-    helping…
+  title: Memory that stays more up to date
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|We’re
-  sunsetting the preset Nerdy base style to simplify options and improve…]]'
-- '[[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|Sometimes,
-  you just want the right answer as quickly as possible]]'
-- '[[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Starting
-  today, we’re rolling out memory improvements to ChatGPT Plus and Pro users…]]'
+- '[[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file
+  diff rendering is now much faster, smoother, and less memory-heavy]]'
+- '[[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|Fast
+  answers in ChatGPT]]'
+- '[[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Memory
+  sources and more personalized responses in ChatGPT]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-04-memory-that-stays-more-up-to-date-8fc83f65|chatgpt-2026-06-04-memory-that-stays-more-up-to-date-8fc83f65]]'
 source_type: chatgpt_changelog
 theme: memory
-title: We’ve upgraded memory so ChatGPT can better keep your context up to date, helping…
+title: Memory that stays more up to date
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We’ve upgraded memory so ChatGPT can better keep your context up to date, helping…
+# Memory that stays more up to date
 
 **ChatGPT** · 2026-06-04 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-04-memory-that-stays-more-up-to-date-8fc83f65|Memory that stays more up to date]]
 <!-- chronolog:end -->
@@ -113,14 +114,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-05-05 · ChatGPT · [[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Starting today, we’re rolling out memory improvements to ChatGPT Plus and Pro users…]]
-- Later: 2026-06-12 · ChatGPT · [[Changes/ChatGPT/2026-06-12-highlight-any-text-in-the-memory-summary-to-make-a-specific-correction|Highlight any text in the memory summary to make a specific correction]]
+- Earlier: 2026-05-05 · ChatGPT · [[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Memory sources and more personalized responses in ChatGPT]]
+- Later: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run correlation: Every send() now carries a platform-generated requestId, exposed…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

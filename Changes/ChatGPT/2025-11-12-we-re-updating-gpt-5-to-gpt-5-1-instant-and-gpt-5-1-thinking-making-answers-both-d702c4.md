@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 40c05be2730eb1afc7fc926bfc55fbdcd6444561ef087d63ccf3187521cf5c20
+kind: change
+machine_hash: 05ee8adec8cdfbe0d1b2de531e90522475f099839f9f961caeee8946e7052c04
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,8 +50,9 @@ record:
       toggle; GPT-5.1 will also be available soon in the API as gpt-5.1-chat-latest
       (Instant) and gpt-5.1 (Thinking).
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both
@@ -70,26 +72,23 @@ record:
     score: 50
     theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v2
-  title: We’re updating GPT-5 to GPT-5.1 Instant and GPT-5.1 Thinking, making answers
-    both…
+  title: GPT-5.1 in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-introducing-our-first-agentic-coding-model-composer-is-a-frontier-model-that-is|Introducing
-  our first agentic coding model]]'
+- '[[Changes/Cursor/2025-10-29-plan-mode-in-background|Plan Mode in Background]]'
 - '[[Changes/ChatGPT/2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to|Interrupt
-  long-running queries (such as deep research or GPT-5 Pro) to refine what…]]'
-- '[[Changes/ChatGPT/2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th-d3a253|We’re
-  updating ChatGPT’s tone controls so it’s easier to make responses sound…]]'
+  ChatGPT]]'
+- '[[Changes/ChatGPT/2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th-d3a253|New
+  tone and personalization controls]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-12-gpt-5-1-in-chatgpt-3b83bb2f|chatgpt-2025-11-12-gpt-5-1-in-chatgpt-3b83bb2f]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We’re updating GPT-5 to GPT-5.1 Instant and GPT-5.1 Thinking, making answers
-  both…
+title: GPT-5.1 in ChatGPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We’re updating GPT-5 to GPT-5.1 Instant and GPT-5.1 Thinking, making answers both…
+# GPT-5.1 in ChatGPT
 
 **ChatGPT** · 2025-11-12 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-11-12-gpt-5-1-in-chatgpt-3b83bb2f|GPT-5.1 in ChatGPT]]
 <!-- chronolog:end -->
@@ -107,8 +106,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-12 · ChatGPT · [[Changes/ChatGPT/2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th-d3a253|We’re updating ChatGPT’s tone controls so it’s easier to make responses sound…]]
-- Later: 2025-11-19 · ChatGPT · [[Changes/ChatGPT/2025-11-19-today-we-re-updating-gpt-5-pro-to-gpt-5-1-pro-in-early-testing-users-consistentl-191826|Today we’re updating GPT-5 Pro to GPT-5.1 Pro]]
+- Earlier: 2025-11-12 · ChatGPT · [[Changes/ChatGPT/2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th-d3a253|New tone and personalization controls]]
+- Later: 2025-11-19 · ChatGPT · [[Changes/ChatGPT/2025-11-19-today-we-re-updating-gpt-5-pro-to-gpt-5-1-pro-in-early-testing-users-consistentl-191826|GPT-5.1 Pro: Clearer, more capable answers for complex work]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

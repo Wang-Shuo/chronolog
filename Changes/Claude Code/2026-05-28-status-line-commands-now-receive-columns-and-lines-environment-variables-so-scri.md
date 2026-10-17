@@ -14,9 +14,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 1e8dacf9ac76d47a206cc601b842666d020e521c94ee830d4d941bf9e4780314
+kind: change
+machine_hash: 3bca126887ea7b977276c5223df06d13b5306b4e1b744337c6e738a08d04aa87
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Status line commands now receive `COLUMNS` and `LINES` environment variables
       so scripts can size output to the terminal width
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.153
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: status-line-commands-now-receive-columns-and-lines-environment-variables-so-scri
@@ -50,12 +52,12 @@ record:
   title: Status line commands now receive `COLUMNS` and `LINES` environment variables…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-21-renamed-simplify-to-code-review-it-now-reports-correctness-bugs-at-a-chosen-effo|Renamed
-  /simplify to /code-review]]'
-- '[[Changes/Claude Code/2026-05-27-code-review-fix-now-applies-review-findings-to-your-working-tree-after-the-revie|/code-review
-  --fix now applies review findings to your working tree after…]]'
+- '[[Changes/Claude Code/2026-05-27-2-developer-workflow-changes-in-v2-1-152|2 Developer
+  Workflow changes in v2.1.152]]'
 - '[[Changes/Claude Code/2026-05-27-added-reload-skills-command-to-re-scan-skill-directories-without-restarting-the|Added
   /reload-skills command to re-scan skill directories without restarting the session]]'
+- '[[Changes/Claude Code/2026-05-28-simplify-now-runs-a-cleanup-only-review-reuse-simplification-efficiency-altitude|/simplify
+  now runs a cleanup-only review…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a|claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a]]'
 source_type: github_releases
 theme: developer-workflow
@@ -78,17 +80,19 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-05-28-claude-agents-pr-column-now-shows-pr-n-for-a-single-pr-or-n-prs-for-multiple|claude agents: PR column now shows PR ♯N for a single PR or N PRs for multiple]] · Agent Mode
-- [[Changes/Claude Code/2026-05-28-claude-agents-autocomplete-in-the-dispatch-input-now-suggests-native-slash-comma|claude agents: autocomplete in the dispatch input now suggests native slash…]] · Interface Experience
-- [[Changes/Claude Code/2026-05-28-added-skiplfs-option-to-github-git-plugin-marketplace-sources-to-skip-git-lfs-do|Added skipLfs option to github/git plugin marketplace sources to skip Git LFS…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-05-28-2-safety-and-privacy-changes-in-v2-1-153|2 Safety and Privacy changes in v2.1.153]] · Safety and Privacy
+- [[Changes/Claude Code/2026-05-28-2-apps-and-integrations-changes-in-v2-1-153|2 Apps and Integrations changes in v2.1.153]] · Apps and Integrations
+- [[Changes/Claude Code/2026-05-28-2-interface-experience-changes-in-v2-1-153|2 Interface Experience changes in v2.1.153]] · Interface Experience
+- [[Changes/Claude Code/2026-05-28-model-now-saves-your-selection-as-the-default-for-new-sessions-matching-the-ide|/model now saves your selection as the default for new sessions (matching the IDE)]] · Model Support
+- [[Changes/Claude Code/2026-05-28-3-agent-mode-changes-in-v2-1-153|3 Agent Mode changes in v2.1.153]] · Agent Mode
 - [[Changes/Claude Code/2026-05-28-claude-code-now-shows-a-one-time-notice-when-your-npm-global-install-can-t-auto|Claude Code now shows a one-time notice when your npm global install can't auto-update]] · Reliability and Performance
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-added-reload-skills-command-to-re-scan-skill-directories-without-restarting-the|Added /reload-skills command to re-scan skill directories without restarting the session]]
-- Later: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-enterworktree-can-now-switch-between-claude-managed-worktrees-mid-session|EnterWorktree can now switch between Claude-managed worktrees mid-session]]
+- Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-simplify-now-runs-a-cleanup-only-review-reuse-simplification-efficiency-altitude|/simplify now runs a cleanup-only review…]]
+- Later: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-3-developer-workflow-changes-in-v2-1-157|3 Developer Workflow changes in v2.1.157]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

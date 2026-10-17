@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2900cb431e501b1f5a99e9b68365e29dffe761f7048bcb3cebea37e6a88fb185
+machine_hash: 0aed6f27ee281b1b8e2deccfbac0f440ed63bebf03c805b3cfcf49f11e79fac3
 product: cursor
 product_name: Cursor
 record:
@@ -56,6 +56,7 @@ related_changes:
 - '[[Changes/Cursor/2024-05-26-new-cursor-prediction-ui|New Cursor Prediction UI]]'
 source_release: '[[Releases/Cursor/cursor-2024-05-26-0-34-x-https-cursor-com-changelog-0-34-x-a468f0bc|cursor-2024-05-26-0-34-x-https-cursor-com-changelog-0-34-x-a468f0bc]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: Better performance of Copilot++ on linter errors
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 565590710bf54c5230ab0013199232fe9fdf687bf4ef04e3a6834c751e76b21c
+machine_hash: c69a952e13ba058297bd6d0ce937e5e42dbcb02702bc8fa73d5a723ece7957a9
 product: cursor
 product_name: Cursor
 record:
@@ -53,6 +53,7 @@ related_changes:
   take engineering tasks from start to finish, agents need a development…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d|cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Files, changes, canvases, PRs, browsers, and terminals can expand to fill the
   entire…

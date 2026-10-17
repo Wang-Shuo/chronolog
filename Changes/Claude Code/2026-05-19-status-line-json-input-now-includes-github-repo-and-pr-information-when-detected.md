@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c8696f36b1d716dc7d07f1f1088bed9d2350417c1052d9caeeb7c7c6308e54c0
+machine_hash: 9345d6a23037fc9c73e609f5f8772dcb6a258fc12efe7ad5fe446731c1b0b184
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   and exit full screen by clicking on the expand/contract button in the panel…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4|claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Status line JSON input now includes GitHub repo and PR information when detected
 type: change

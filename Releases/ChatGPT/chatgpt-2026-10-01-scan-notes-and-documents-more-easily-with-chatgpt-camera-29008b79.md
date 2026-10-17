@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-10-01'
 description: 'ChatGPT release Scan notes and documents more easily with ChatGPT camera
   on 2026-10-01: 1 tracked change across Files and Data'
-machine_hash: 95978e6a8667a3b1a5809ec3e8906b0e0d9dedcb141894ee7683e96eab29116f
+machine_hash: af79ef4a9a325ca75ac3892c39ed6dd2ff8be4267b398d5e24d2d68183699009
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,10 +40,10 @@ version: Scan notes and documents more easily with ChatGPT camera
 <!-- chronolog:begin region="summary" -->
 It’s now easier to bring your notes and documents into ChatGPT on your phone. Capture multiple pages in a row, and ChatGPT automatically combines them into a single PDF, ready to upload to your chat.
 
-Tracked 1 of 2 candidate lines.
+Tracked 1 card from 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-10-01-it-s-now-easier-to-bring-your-notes-and-documents-into-chatgpt-on-your-phone-cap|It’s now easier to bring your notes and documents into ChatGPT on your phone]] · Files and Data
+- [[Changes/ChatGPT/2026-10-01-it-s-now-easier-to-bring-your-notes-and-documents-into-chatgpt-on-your-phone-cap|Scan notes and documents more easily with ChatGPT camera]] · Files and Data
 <!-- chronolog:end -->

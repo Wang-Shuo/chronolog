@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f8ec833889ebcb0c460c4fe03b5e6dabc8c8232eb33cee74577b7e884773d391
+machine_hash: d15f31abe17e9b00330c327ab6d459bd499fb6ea550e93070084ae3725ef9bee
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   ENABLE_PROMPT_CACHING_1H env var to opt into 1-hour prompt cache TTL on API…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-14-v2-1-108-github-309009167-35123bd5|claude-code-2026-04-14-v2-1-108-github-309009167-35123bd5]]'
 source_type: github_releases
+superseded: true
 theme: context-window
 title: Added recap feature to provide context when returning to a session, configurable…
 type: change

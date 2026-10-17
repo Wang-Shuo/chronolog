@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 934acf97b63b008685a8e746ddbf7c8ec258a2b5af58d8e598068968bdf58638
+machine_hash: 26f6517f3687f169a44a24c313e00e7441760749c6009590199292c3c3e48e47
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,6 +47,7 @@ related_changes:
   Agent tool subagent_type matching to accept case…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-12-v2-1-140-github-321395205-971146de|claude-code-2026-05-12-v2-1-140-github-321395205-971146de]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Updated agent color palette
 type: change

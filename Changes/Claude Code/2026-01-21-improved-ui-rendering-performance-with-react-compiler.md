@@ -14,9 +14,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 8590adfa9d08037e32824569d560cc251844aa9aa5b311284c360a05c44ee4b9
+kind: change
+machine_hash: c4d2506c492241140a2843d183495d2ec94c204241b2b08b921827234268e303
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Improved UI rendering performance with React Compiler
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.15
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-ui-rendering-performance-with-react-compiler
@@ -39,12 +41,12 @@ record:
   title: Improved UI rendering performance with React Compiler
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-23-group-work-upload-notes-proposals-and-contracts-so-collaborators-can-draft-deliv|Group
-  work: Upload notes, proposals, and contracts so collaborators can draft…]]'
-- '[[Changes/Cursor/2025-12-22-for-this-holiday-release-we-ve-focused-entirely-on-fixing-bugs-and-improving-sta|For
-  this holiday release, we''ve focused entirely on fixing bugs and improving stability]]'
+- '[[Changes/Cursor/2026-01-08-2-reliability-and-performance-changes-in-new-cli-features-and-improved-cli|2
+  Reliability and Performance changes in New CLI Features and Improved CLI…]]'
 - '[[Changes/Claude Code/2026-01-14-improved-typing-responsiveness-by-reducing-memory-allocation-overhead-in-termina|Improved
   typing responsiveness by reducing memory allocation overhead in terminal…]]'
+- '[[Changes/Cursor/2026-01-16-faster-message-queueing-and-ux|Faster message queueing
+  and UX]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-21-v2-1-15-github-278799996-0b5b2e8b|claude-code-2026-01-21-v2-1-15-github-278799996-0b5b2e8b]]'
 source_type: github_releases
 theme: reliability-performance
@@ -73,8 +75,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-01-14 · Claude Code · [[Changes/Claude Code/2026-01-14-improved-typing-responsiveness-by-reducing-memory-allocation-overhead-in-termina|Improved typing responsiveness by reducing memory allocation overhead in terminal…]]
-- Later: 2026-02-18 · Claude Code · [[Changes/Claude Code/2026-02-18-improved-memory-usage-by-trimming-agent-task-message-history-after-tasks-complet|Improved memory usage by trimming agent task message history after tasks complete]]
+- Earlier: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-faster-message-queueing-and-ux|Faster message queueing and UX]]
+- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-4-reliability-and-performance-changes-in-2-4|4 Reliability and Performance changes in 2.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: e3d66a847da1e1e2443680b86c82ede04d95b5a1a470d94cc2adf523f170b1c6
+kind: change
+machine_hash: 7377ef15aaa624889a9f219fd692a8836f02b95bcf2ba91c129c5bef1a1f2b45
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added `sandbox.allowAppleEvents` opt-in setting that lets sandboxed commands
       send Apple Events on macOS
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.181
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-sandbox-allowappleevents-opt-in-setting-that-lets-sandboxed-commands-send
@@ -43,12 +45,12 @@ record:
     send…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-10-fixed-webfetch-domain-example-com-wildcard-domain-rules-never-matching-subdomain|Fixed
-  WebFetch(domain:.example.com) wildcard domain rules never matching…]]'
-- '[[Changes/Cursor/2026-06-10-you-can-now-run-bugbot-and-security-review-with-review-before-pushing-code-revie|Run
-  Bugbot and Security Review with /review before pushing code]]'
-- '[[Changes/Claude Code/2026-06-15-added-tool-param-value-syntax-for-permission-rules-to-match-a-tool-s-input-param|Added
-  Tool(param:value) syntax for permission rules to match a tool''s input…]]'
+- '[[Changes/Claude Code/2026-06-10-2-safety-and-privacy-changes-in-v2-1-172|2 Safety
+  and Privacy changes in v2.1.172]]'
+- '[[Changes/Cursor/2026-06-10-run-bugbot-before-you-push-3e5964|Run Bugbot before
+  you push]]'
+- '[[Changes/Claude Code/2026-06-15-2-safety-and-privacy-changes-in-v2-1-178|2 Safety
+  and Privacy changes in v2.1.178]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-17-v2-1-181-github-340975229-c771c493|claude-code-2026-06-17-v2-1-181-github-340975229-c771c493]]'
 source_type: github_releases
 theme: safety-privacy
@@ -72,16 +74,19 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-06-17-added-claude-client-presence-file-environment-variable-point-it-at-a-marker-file|Added CLAUDE_CLIENT_PRESENCE_FILE environment variable]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-06-17-added-config-key-value-syntax-to-set-any-setting-from-the-prompt-e-g-config-thin|Added /config key=value syntax to set any setting from the prompt…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-06-17-improved-streaming-of-long-paragraphs-text-now-appears-line-by-line-instead-of-w|Improved streaming of long paragraphs]] · Interface Experience
+- [[Changes/Claude Code/2026-06-17-improved-the-subagent-panel-idle-subagents-auto-hide-after-30s-the-list-caps-at|Improved the subagent panel]] · Agent Mode
+- [[Changes/Claude Code/2026-06-17-changed-the-improved-n-memories-line-to-no-longer-list-individual-files-outside|Changed the Improved N memories line to no longer list individual files outside…]] · Memory and Personalization
 - [[Changes/Claude Code/2026-06-17-improved-auto-retry-api-connection-drops-mid-thinking-now-automatically-retry-in|Improved auto-retry: API connection drops mid-thinking now automatically retry…]] · Reliability and Performance
+- [[Changes/Claude Code/2026-06-17-improved-the-mcp-oauth-browser-page-to-match-claude-code-s-visual-style-and-auto|Improved the MCP OAuth browser page to match Claude Code's visual style…]] · Account and Access
+- [[Changes/Claude Code/2026-06-17-2-mobile-and-desktop-changes-in-v2-1-181|2 Mobile and Desktop changes in v2.1.181]] · Mobile and Desktop
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-06-15 · Claude Code · [[Changes/Claude Code/2026-06-15-added-tool-param-value-syntax-for-permission-rules-to-match-a-tool-s-input-param|Added Tool(param:value) syntax for permission rules to match a tool's input…]]
+- Earlier: 2026-06-15 · Claude Code · [[Changes/Claude Code/2026-06-15-2-safety-and-privacy-changes-in-v2-1-178|2 Safety and Privacy changes in v2.1.178]]
 - Later: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-app-permission-controls-you-can-now-choose-when-chatgpt-asks-before-using-connec|App permission controls: You can now choose when ChatGPT asks before using connected apps]]
 <!-- chronolog:end -->
 

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-07-21'
 description: 'Cursor release SSH and WSL fixes on 2023-07-21: 1 tracked change across
   Projects and Workspaces'
-machine_hash: 539576247fba550b403dbed0cb86f4a24237377257f31be5ec392256f3a1d593
+machine_hash: 79e8bada3404da7b58725ae17dfb154edd2ce598612c8e9166dbbf1923632855
 product: cursor
 product_name: Cursor
 record:
@@ -38,10 +38,10 @@ version: 0.3.0
 <!-- chronolog:begin region="summary" -->
 SSH and WSL should work again
 
-Tracked 1 of 3 candidate lines.
+Tracked 1 card from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-07-21-can-see-recent-folders-on-the-new-window-screen|Can see recent folders on the new window screen]] · Projects and Workspaces
+- [[Changes/Cursor/2023-07-21-can-see-recent-folders-on-the-new-window-screen|SSH and WSL fixes]] · Projects and Workspaces
 <!-- chronolog:end -->

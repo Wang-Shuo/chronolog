@@ -1,9 +1,9 @@
 ---
-changes_count: 4
+changes_count: 2
 date: '2023-03-14'
-description: 'Cursor release v0.0.37 (2023-03-14) on 2023-03-14: 4 tracked changes
+description: 'Cursor release v0.0.37 (2023-03-14) on 2023-03-14: 2 tracked changes
   across Editor Experience, Mobile and Desktop'
-machine_hash: 41670fd211cdef665f8b38183958fcf566b543ad749dbaf7e366e4b521fb2116
+machine_hash: d3bb37d8e1e7c914b95032c7cb1577ab57d80d4783ad68cc1a92aabe486318a5
 product: cursor
 product_name: Cursor
 record:
@@ -36,15 +36,13 @@ version: 0.0.37
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-4 tracked changes across 2 themes: Editor Experience, Mobile and Desktop.
+2 tracked changes across 2 themes: Editor Experience, Mobile and Desktop.
 
-Tracked 4 of 5 candidate lines.
+Tracked 2 cards from 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]] · Mobile and Desktop
-- [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]] · Editor Experience
-- [[Changes/Cursor/2023-03-14-editing-works-for-same-file-on-multiple-tabs|Editing works for same file on multiple tabs]] · Editor Experience
-- [[Changes/Cursor/2023-03-14-edits-can-be-as-long-as-you-d-like|Edits can be as long as you'd like]] · Editor Experience
+- [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]] · Editor Experience · Digest
 <!-- chronolog:end -->

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 68c6cedea7d8ce32be7b52c13f7f8df8e2b6493565ae95c696a838d8ccfb2282
+machine_hash: df1a4ebfed0190dd1b27953dd00b84c0cfc6aec537846a7ea4fa99b442a35e4f
 product: cursor
 product_name: Cursor
 record:
@@ -53,6 +53,7 @@ related_changes:
   spinnerTipsOverride setting to customize spinner tips]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7|cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7]]'
 source_type: cursor_changelog
+superseded: true
 theme: interface-experience
 title: Typing /plan takes you back to your current plan and its action menu
 type: change

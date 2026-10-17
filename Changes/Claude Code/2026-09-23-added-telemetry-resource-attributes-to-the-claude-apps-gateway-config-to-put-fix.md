@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 79b0cfd665e684100133d32f3aeed6fdd182980bc5862f92a152a724ffe5ad49
+machine_hash: 085abdec56e4f7e93302635c3480c0946e8145a9d1ea5dc74e4f372da23449c3
 product: claude-code
 product_name: Claude Code
 record:
@@ -64,6 +64,7 @@ related_changes:
   the signed-in account to Claude apps gateway sign-in]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95|claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95]]'
 source_type: github_releases
+superseded: true
 theme: account-access
 title: Added telemetry.resource_attributes to the Claude apps gateway config, to put…
 type: change

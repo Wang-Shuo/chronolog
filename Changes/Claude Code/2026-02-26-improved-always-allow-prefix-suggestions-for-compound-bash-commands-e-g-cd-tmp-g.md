@@ -14,9 +14,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 9a5063b50182e62df366cfed98b084d82593ab69469bb5f24d85035f5707dd78
+kind: change
+machine_hash: 5d35ca37096faf9fe6f64d54060f795a6ca8632c9a9fd5b39aab789650e58f3e
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
       `cd /tmp && git fetch && git push`) to compute smarter per-subcommand prefixes
       instead of treating the whole command as one
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.59
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-always-allow-prefix-suggestions-for-compound-bash-commands-e-g-cd-tmp-g
@@ -44,10 +46,10 @@ record:
   title: Improved "always allow" prefix suggestions for compound bash commands…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-20-added-worktreecreate-and-worktreeremove-hook-events-enabling-custom-vcs-setup-an|Added
-  WorktreeCreate and WorktreeRemove hook events, enabling custom VCS setup…]]'
-- '[[Changes/Claude Code/2026-02-20-added-support-for-startuptimeout-configuration-for-lsp-servers|Added
-  support for startupTimeout configuration for LSP servers]]'
+- '[[Changes/ChatGPT/2026-02-19-review-code-in-split-screen-views|Review code in split-screen
+  views]]'
+- '[[Changes/Claude Code/2026-02-20-3-developer-workflow-changes-in-v2-1-50|3 Developer
+  Workflow changes in v2.1.50]]'
 - '[[Changes/Claude Code/2026-02-24-bashtool-now-skips-login-shell-l-flag-by-default-when-a-shell-snapshot-is-availa|BashTool
   now skips login shell (-l flag) by default when a shell snapshot…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-26-v2-1-59-github-290659389-9e2d6217|claude-code-2026-02-26-v2-1-59-github-290659389-9e2d6217]]'

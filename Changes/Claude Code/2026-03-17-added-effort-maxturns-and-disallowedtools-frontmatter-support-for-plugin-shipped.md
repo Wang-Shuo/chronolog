@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 1582fa6ff25c99bca5a699b3eeb70a53398cf7c9e5add0583e59268fb9c3f7d4
+machine_hash: cf30c1ecaca9270f18fddb62f5dda2e1866e00e6c94b4694f12e5f8db1f31b2d
 product: claude-code
 product_name: Claude Code
 record:
@@ -60,6 +60,7 @@ related_changes:
   StopFailure hook event that fires when the turn ends due to an API error…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721|claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added effort, maxTurns, and disallowedTools frontmatter support…
 type: change

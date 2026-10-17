@@ -4,8 +4,8 @@ date: '2026-05-11'
 description: 'Cursor · 2026-05-11 · Apps and Integrations: Get started by installing
   the integration in the Cursor dashboard. Learn more in our docs.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1145
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: ada28cd3c4903481e7a6921c0addb7046deea6e9d599fda7669ce29bc0547b55
+kind: change
+machine_hash: 71959ae1ba4ca613c4364cf858de070e1c5da4a9705ec2a76c638b65581ea87d
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +32,9 @@ record:
   - quote: Get started by installing the integration in the Cursor dashboard. Learn
       more in our docs.
     source_release: https://cursor.com/changelog/microsoft-teams
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: get-started-by-installing-the-integration-in-the-cursor-dashboard-learn-more-in
@@ -42,12 +44,12 @@ record:
   title: Get started by installing the integration in the Cursor dashboard
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-07-hooks-now-receive-the-active-effort-level-via-the-effort-level-json-input-field|Hooks
-  now receive the active effort level via the effort.level JSON input field…]]'
-- '[[Changes/Claude Code/2026-05-11-added-claude-plugin-details-name-to-show-a-plugin-s-component-inventory-and-proj|Added
-  claude plugin details name to show a plugin''s component inventory…]]'
+- '[[Changes/Claude Code/2026-05-08-changed-plugin-marketplace-removal-key-to-d-matching-delete-elsewhere-instead-of|Changed
+  plugin marketplace removal key to d (matching delete elsewhere) instead…]]'
 - '[[Changes/Claude Code/2026-05-11-added-goal-command-set-a-completion-condition-and-claude-keeps-working-across-tu|Added
   /goal command]]'
+- '[[Changes/Claude Code/2026-05-11-8-apps-and-integrations-changes-in-v2-1-139|8
+  Apps and Integrations changes in v2.1.139]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4|cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -70,22 +72,20 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-05-11-mention-cursor-in-any-teams-channel-to-delegate-a-task-to-a-cloud-agent-or-pull|Mention @Cursor in any Teams channel to delegate a task to a cloud agent or pull…]] · Agent Mode
-- [[Changes/Cursor/2026-05-11-cursor-automatically-picks-the-right-repository-and-model-based-on-your-prompt-a|Cursor automatically picks the right repository and model based on your prompt…]] · Context Window
-- [[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is now available in Microsoft Teams]] · Collaboration
+- [[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams-5c75c9|Cursor is now available in Microsoft Teams]] · Collaboration
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-added-goal-command-set-a-completion-condition-and-claude-keeps-working-across-tu|Added /goal command]]
+- Earlier: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-8-apps-and-integrations-changes-in-v2-1-139|8 Apps and Integrations changes in v2.1.139]]
 - Later: 2026-05-12 · Claude Code · [[Changes/Claude Code/2026-05-12-plugins-now-warn-when-a-default-component-folder-e-g-commands-is-silently-ignore|Plugins now warn when a default component folder (e.g. commands/) is silently…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

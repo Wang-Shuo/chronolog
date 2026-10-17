@@ -5,8 +5,8 @@ description: 'Cursor · 2025-08-21 · Agent Mode: You can now start Background A
   directly from Linear. Delegate tasks to Cursor without leaving your issue. We''ve
   written…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 777
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: daa38f663629d628766f15eb097d282e02bb893f4c813692c6281bcf3b60192b
+kind: launch
+machine_hash: fc62fc3595397524c92130aefc6a3fd0c956193e51bdc0bea7dcbf6549475850
 product: cursor
 product_name: Cursor
 record:
@@ -32,34 +33,34 @@ record:
       to Cursor without leaving your issue. We've written a longer blog post with
       more details.
     source_release: https://cursor.com/changelog/1-5
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: you-can-now-start-background-agents-directly-from-linear-delegate-tasks-to-curso
+  slug: run-agents-in-linear
   source_release: cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89
   source_type: cursor_changelog
   theme: agent-mode
-  title: Start Background Agents directly from Linear
+  title: Run Agents in Linear
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-03-the-agent-breaks-down-longer-tasks-with-dependencies-visible-to-you-in-chat-and|The
-  agent breaks down longer tasks with dependencies, visible to you in chat…]]'
-- '[[Changes/Cursor/2025-07-29-agents-can-now-use-your-native-terminal-a-new-terminal-will-be-created-when-need|Agents
-  can now use your native terminal]]'
-- '[[Changes/Cursor/2025-08-06-sending-messages-while-cursor-is-working-now-does-a-better-job-of-steering-the-a|Sending
-  messages while Cursor is working now does a better job of steering the agent]]'
+- '[[Changes/Cursor/2025-08-06-faster-background-agent-startup|Faster Background Agent
+  startup]]'
+- '[[Changes/Cursor/2025-08-06-sidebar-for-all-agents|Sidebar for all Agents]]'
+- '[[Changes/Cursor/2025-08-06-sending-messages-while-cursor-is-working-now-does-a-better-job-of-steering-the-a|More
+  Agent steerability]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89|cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Start Background Agents directly from Linear
+title: Run Agents in Linear
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Start Background Agents directly from Linear
+# Run Agents in Linear
 
-**Cursor** · 2025-08-21 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/1-5) · from [[Releases/Cursor/cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89|Linear integration, improved Agent terminal, and OS notifications]]
+**Cursor** · 2025-08-21 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://cursor.com/changelog/1-5) · from [[Releases/Cursor/cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89|Linear integration, improved Agent terminal, and OS notifications]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -71,22 +72,26 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2025-08-21-cursor-now-supports-mcp-elicitation-a-new-feature-in-the-mcp-spec-that-allows-se|Cursor now supports MCP elicitation, a new feature in the MCP spec that allows…]] · Apps and Integrations
-- [[Changes/Cursor/2025-08-21-the-terminal-now-opens-on-the-left-with-a-clear-backdrop-and-border-animation-to|The terminal now opens on the left with a clear backdrop and border animation…]] · Developer Workflow
-- [[Changes/Cursor/2025-08-21-get-native-os-notifications-when-an-agent-run-finishes-or-when-input-is-required|Get native OS notifications when an agent run finishes or when input is required…]] · Agent Mode
+- [[Changes/Cursor/2025-08-21-cursor-now-supports-mcp-elicitation-a-new-feature-in-the-mcp-spec-that-allows-se|Support for MCP elicitation]] · Apps and Integrations
+- [[Changes/Cursor/2025-08-21-tab-now-aware-of-full-notebook|Tab now aware of full notebook]] · Editor Experience
+- [[Changes/Cursor/2025-08-21-1-5-5-general-stability-improvements-and-bug-fixes-to-enhance-overall-applicatio|1.5.5: General stability improvements and bug fixes to enhance overall application…]] · Reliability and Performance
+- [[Changes/Cursor/2025-08-21-the-terminal-now-opens-on-the-left-with-a-clear-backdrop-and-border-animation-to|Improved review flow in Agent terminal]] · Developer Workflow
+- [[Changes/Cursor/2025-08-21-context-usage-is-always-shown-in-the-chat-input|Context usage is always shown in the chat input]] · Context Window
+- [[Changes/Cursor/2025-08-21-2-model-support-changes-in-1-5|2 Model Support changes in 1.5]] · Model Support
+- [[Changes/Cursor/2025-08-21-get-native-os-notifications-when-an-agent-run-finishes-or-when-input-is-required|OS notifications from Agent]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-sending-messages-while-cursor-is-working-now-does-a-better-job-of-steering-the-a|Sending messages while Cursor is working now does a better job of steering the agent]]
-- Later: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-we-re-introducing-instant-checkout-in-chatgpt-and-the-agentic-commerce-protocol-8cbf19|ChatGPT introduces Instant Checkout and the Agentic Commerce Protocol that powers…]]
+- Earlier: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-sending-messages-while-cursor-is-working-now-does-a-better-job-of-steering-the-a|More Agent steerability]]
+- Later: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-3-agent-mode-changes-in-1-6|3 Agent Mode changes in 1.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

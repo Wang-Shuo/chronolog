@@ -2,7 +2,7 @@
 changes_count: 0
 date: '2023-10-05'
 description: 'Cursor release Small fixes on 2023-10-05: no tracked changes'
-machine_hash: 9b83e04274325d7cfa1096ded352437ad6579e8d1bd87131c0104be27e4fad4a
+machine_hash: 7d9f25e06175876eb24ac784ab0d69cef213e34673117e5a15223821f942309a
 product: cursor
 product_name: Cursor
 record:
@@ -41,7 +41,7 @@ version: 0.12.1-0.12.3
 <!-- chronolog:begin region="summary" -->
 Bug fixes: (1) .cursorignore now completely respects .gitignore syntax, (2) codebase queries use the embeddings index if >= 80% of it is indexed, instead of requiring the entire thing to be indexed, (3) removed fade-in animation on startup, (4) no longer overrides cmd-delete in the terminal, (5) fixes problem where…
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

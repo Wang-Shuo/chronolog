@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 29e9a966011d059654cdfcbea0c0ceda98b9d2f8758b55458d001ef3db679204
+kind: change
+machine_hash: 67957577012720072e8dd7897134b2ced83029526a27e47084a982cfccc81982
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   evidence:
   - quote: Added `/terminal-setup` support for Kitty, Alacritty, Zed, and Warp terminals
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.0.74
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-terminal-setup-support-for-kitty-alacritty-zed-and-warp-terminals
@@ -40,10 +42,9 @@ record:
   title: Added `/terminal-setup` support for Kitty, Alacritty, Zed, and Warp terminals
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-11-21-you-can-now-find-and-fix-bugs-directly-in-cursor-with-ai-code-reviews-it-will-lo|Find
-  and fix bugs directly in Cursor with AI code reviews]]'
-- '[[Changes/Cursor/2025-12-10-debug-mode-helps-you-reproduce-and-fix-the-most-tricky-bugs|Debug
-  Mode helps you reproduce and fix the most tricky bugs]]'
+- '[[Changes/Cursor/2025-12-10-ask-mode-can-use-a-read-only-terminal-to-get-better-answers-like-checking-git-co|Ask
+  Mode can use a read-only terminal to get better answers, like checking git commits]]'
+- '[[Changes/Cursor/2025-12-10-debug-mode|Debug Mode]]'
 - '[[Changes/Claude Code/2025-12-19-added-lsp-language-server-protocol-tool-for-code-intelligence-features-like-go-t|Added
   LSP (Language Server Protocol) tool for code intelligence features like…]]'
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10|claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10]]'
@@ -68,17 +69,17 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2025-12-19-added-syntax-highlighting-info-to-theme-picker|Added syntax highlighting info to theme picker]] · Interface Experience
 - [[Changes/Claude Code/2025-12-19-added-lsp-language-server-protocol-tool-for-code-intelligence-features-like-go-t|Added LSP (Language Server Protocol) tool for code intelligence features like…]] · Developer Workflow
-- [[Changes/Claude Code/2025-12-19-added-ctrl-t-shortcut-in-theme-to-toggle-syntax-highlighting-on-off|Added ctrl+t shortcut in /theme to toggle syntax highlighting on/off]] · Interface Experience
+- [[Changes/Claude Code/2025-12-19-2-interface-experience-changes-in-v2-0-74|2 Interface Experience changes in v2.0.74]] · Interface Experience
 - [[Changes/Claude Code/2025-12-19-added-guidance-for-macos-users-when-alt-shortcuts-fail-due-to-terminal-configura|Added guidance for macOS users when Alt shortcuts fail due to terminal configuration]] · Mobile and Desktop
+- [[Changes/Claude Code/2025-12-19-improved-context-command-visualization-with-grouped-skills-and-agents-by-source|Improved /context command visualization with grouped skills and agents by source…]] · Context Window
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-debug-mode-helps-you-reproduce-and-fix-the-most-tricky-bugs|Debug Mode helps you reproduce and fix the most tricky bugs]]
-- Later: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-use-the-new-agent-models-command-list-models-flag-or-models-slash-command-to-lis|Use the new agent models command, --list-models flag, or /models slash command…]]
+- Earlier: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-debug-mode|Debug Mode]]
+- Later: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-3-developer-workflow-changes-in-new-cli-features-and-improved-cli|3 Developer Workflow changes in New CLI Features and Improved CLI…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

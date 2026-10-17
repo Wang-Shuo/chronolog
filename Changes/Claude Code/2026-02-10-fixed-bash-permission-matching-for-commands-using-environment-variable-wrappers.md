@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 27debab725b315008f04c4dfc6cd0c3aafb6b9cbffa22b1c53b2dfc4485c7bc6
+machine_hash: 79505cc0ef44ce0be07bbc3b13b7b28d94946da05b589a5e64e7281b22722905
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   writes to .claude/skills directory in sandbox mode]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-10-v2-1-38-github-284624259-26f7a748|claude-code-2026-02-10-v2-1-38-github-284624259-26f7a748]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed bash permission matching for commands using environment variable wrappers
 type: change

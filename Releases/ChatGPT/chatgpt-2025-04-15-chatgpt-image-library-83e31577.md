@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-04-15'
 description: 'ChatGPT release ChatGPT Image Library on 2025-04-15: 1 tracked change
   across Image Generation'
-machine_hash: 5c49c023483587fa74c09f7511b755726bfabaee6dc777add65e9fb6a94a6964
+machine_hash: 80fc5f7090c6c1d59ef28ec781a5cdfcd0651c246a6bdf60de1a4e8e3598de2a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: ChatGPT Image Library
 <!-- chronolog:begin region="summary" -->
 All images you create with ChatGPT are now automatically saved to a new Library in the sidebar, giving you one place to browse, revisit, and reuse your work without digging through past conversations. The Library is rolling out today on Web, iOS, and Android for Free, Plus, and Pro users (Enterprise / Edu support…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-04-15-all-images-you-create-with-chatgpt-are-now-automatically-saved-to-a-new-library|All images you create with ChatGPT are now automatically saved to a new Library…]] · Image Generation
+- [[Changes/ChatGPT/2025-04-15-all-images-you-create-with-chatgpt-are-now-automatically-saved-to-a-new-library|ChatGPT Image Library]] · Image Generation
 <!-- chronolog:end -->

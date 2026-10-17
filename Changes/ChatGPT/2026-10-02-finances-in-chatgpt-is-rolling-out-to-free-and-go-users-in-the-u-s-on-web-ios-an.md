@@ -14,9 +14,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f56fa4643780132a160dd7cd1124cd18d369a1b5fc445afa240d247778b851ed
+kind: change
+machine_hash: 265c799a377b33c786904674b1fdcc7f84d69f8b04bd51f11707e7f45666d820
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,34 +35,33 @@ record:
       ways to save, understand your spending, and make sense of your investments,
       with answers grounded in your finances.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: finances-in-chatgpt-is-rolling-out-to-free-and-go-users-in-the-u-s-on-web-ios-an
   source_release: chatgpt-2026-10-02-finances-expands-to-free-and-go-users-58adba1b
   source_type: chatgpt_changelog
   theme: mobile-desktop
-  title: Finances in ChatGPT is rolling out to Free and Go users in the U.S. on web,
-    iOS…
+  title: Finances expands to Free and Go users
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio
   is deleted once your notes are ready and can’t be accessed or replayed]]'
-- '[[Changes/Claude Code/2026-09-29-added-claude-desktop-to-open-the-claude-desktop-app-on-the-current-directory-or|Added
-  claude --desktop to open the Claude desktop app on the current directory…]]'
-- '[[Changes/ChatGPT/2026-10-01-available-in-chatgpt-on-mobile-and-web|Available in
-  ChatGPT on mobile and web]]'
+- '[[Changes/Claude Code/2026-09-29-6-mobile-and-desktop-changes-in-v2-1-285|6 Mobile
+  and Desktop changes in v2.1.285]]'
+- '[[Changes/Claude Code/2026-10-01-2-mobile-and-desktop-changes-in-v2-1-287|2 Mobile
+  and Desktop changes in v2.1.287]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-02-finances-expands-to-free-and-go-users-58adba1b|chatgpt-2026-10-02-finances-expands-to-free-and-go-users-58adba1b]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Finances in ChatGPT is rolling out to Free and Go users in the U.S. on web,
-  iOS…
+title: Finances expands to Free and Go users
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Finances in ChatGPT is rolling out to Free and Go users in the U.S. on web, iOS…
+# Finances expands to Free and Go users
 
 **ChatGPT** · 2026-10-02 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-10-02-finances-expands-to-free-and-go-users-58adba1b|Finances expands to Free and Go users]]
 <!-- chronolog:end -->
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-01 · ChatGPT · [[Changes/ChatGPT/2026-10-01-available-in-chatgpt-on-mobile-and-web|Available in ChatGPT on mobile and web]]
-- Later: 2026-10-06 · Cursor · [[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer|To stop your computer from sleeping while you're away, turn…]]
+- Earlier: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-2-mobile-and-desktop-changes-in-v2-1-287|2 Mobile and Desktop changes in v2.1.287]]
+- Later: 2026-10-06 · Cursor · [[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer|Keep your computer awake]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

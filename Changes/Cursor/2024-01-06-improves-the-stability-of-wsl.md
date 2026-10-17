@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 117cbf65cbc3419ef64d9829e5a0248fc2f8162d8ee7f651cbdf17e492d415e6
+kind: change
+machine_hash: 879ce6ed2629c6349b2c142402e3e498640a537137bfa19ca585bc121aedf5b0
 product: cursor
 product_name: Cursor
 record:
@@ -26,8 +27,9 @@ record:
   evidence:
   - quote: Improves the stability of WSL.
     source_release: https://cursor.com/changelog/0-22-0
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: improves-the-stability-of-wsl
@@ -49,8 +51,8 @@ record:
 related_changes:
 - '[[Changes/Cursor/2023-10-20-also-there-s-an-experimental-bash-mode-enable-it-in-the-settings-and-let-the-cha|Also,
   there''s an experimental bash mode]]'
-- '[[Changes/Cursor/2024-01-06-wsl-and-dev-containers-should-now-work-properly|WSL
-  and Dev Containers should now work properly]]'
+- '[[Changes/Cursor/2024-01-06-wsl-and-dev-containers-should-now-work-properly|Better
+  Remote Support]]'
 - '[[Changes/Cursor/2024-01-06-dev-containers-are-now-supported-this-build-also|Dev
   containers are now supported!]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-06-0-22-0-https-cursor-com-changelog-0-22-0-04c2cd2c|cursor-2024-01-06-0-22-0-https-cursor-com-changelog-0-22-0-04c2cd2c]]'
@@ -82,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-01-06 · Cursor · [[Changes/Cursor/2024-01-06-wsl-and-dev-containers-should-now-work-properly|WSL and Dev Containers should now work properly]]
+- Earlier: 2024-01-06 · Cursor · [[Changes/Cursor/2024-01-06-wsl-and-dev-containers-should-now-work-properly|Better Remote Support]]
 - Later: 2024-01-15 · Cursor · [[Changes/Cursor/2024-01-15-working-wsl-codebase-search|Working WSL codebase search]]
 <!-- chronolog:end -->
 

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-05-08'
 description: 'ChatGPT release GitHub connector for deep research for Plus/Pro/Team
   on 2025-05-08: 1 tracked change across Search and Browsing'
-machine_hash: fa64d60a7ad1940834c54729aa5df56a04e0998d3f63bd8b8382a65b3a7570da
+machine_hash: 80bc05868e95e71d7334102e9de8af26541354a1471fd252af1fdb28d4cf2e0a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: GitHub connector for deep research for Plus/Pro/Team
 <!-- chronolog:begin region="summary" -->
 ChatGPT deep research with GitHub is available globally to Team users. It is also gradually rolling out to Plus and Pro users, except for those in the EEA, Switzerland, and the UK. Enterprise user access will be announced at a later date.See: Connecting GitHub to ChatGPT deep research.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-05-08-chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also-ad2e25|ChatGPT deep research with GitHub is available globally to Team users]] · Search and Browsing
+- [[Changes/ChatGPT/2025-05-08-chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also-ad2e25|GitHub connector for deep research for Plus/Pro/Team]] · Search and Browsing
 <!-- chronolog:end -->

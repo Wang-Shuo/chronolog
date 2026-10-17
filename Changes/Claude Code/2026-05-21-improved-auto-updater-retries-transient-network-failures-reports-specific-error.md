@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0557f38c7fb3660263b936ff917831ab264da3f62678304145766c6947a81b53
+machine_hash: 5d2a1b91c07920bac8c9a6af0fa456f922acfdad681958e301501d5f391d4b7a
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   diff rendering performance for large file edits]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd|claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd]]'
 source_type: github_releases
+superseded: true
 theme: reliability-performance
 title: 'Improved auto-updater: retries transient network failures, reports specific
   error…'

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e860b8fa5ebe8460d7b2df48d89c0e3f78f7af688eda731893871277baacca29
+machine_hash: 81bc10418251a49bd7af6dfa5bef53d94ea6c5fc7143cc562311eeba3f2c02ae
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   --plugin-url url flag to fetch a plugin .zip archive from a URL…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-07-v2-1-133-github-319164825-08653677|claude-code-2026-05-07-v2-1-133-github-319164825-08653677]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Hooks now receive the active effort level via the effort.level JSON input field…
 type: change

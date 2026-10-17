@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a9913d3764924bc99be91b1d4791fe78a82955a4a1da38c613e90c06e64197ec
+machine_hash: b5a43927538f0d24b99bff030bbeff596a8f646cebb0be811a49e48cc604f3d1
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   "Auto (match terminal)" theme option that matches your terminal''s dark/light mode]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba|claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Changed the CLI to spawn a native Claude Code binary…
 type: change

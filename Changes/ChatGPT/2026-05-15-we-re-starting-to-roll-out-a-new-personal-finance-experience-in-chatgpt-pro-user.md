@@ -4,8 +4,8 @@ date: '2026-05-15'
 description: 'ChatGPT · 2026-05-15 · Files and Data: We’re starting to roll out a
   new personal finance experience in ChatGPT. Pro users in the United States can securely…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|ChatGPT
-    rolls out code interpreter to all ChatGPT Plus users over the next week]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
+    interpreter is now rolling out in beta on web]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1044
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 2b8c59bb83426e5548f4b0ae18ba2f1c8c50e6c908d5db6356d6b96a2ca4d279
+kind: change
+machine_hash: c5ef40d897606b957865b1823320acff4e9c6975dc348fc904e55f07e8e35648
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,8 +52,9 @@ record:
       but it cannot move money, pay bills, place trades, file taxes, or act as a financial,
       legal, tax, or investment adviser.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user
@@ -69,22 +71,24 @@ record:
     score: 50
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v2
-  title: We’re starting to roll out a new personal finance experience in ChatGPT
+  title: Personal finances in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-05-14-free-500-mb|Free: 500 MB]]'
-- '[[Changes/ChatGPT/2026-05-14-plus-and-business-20-gb|Plus and Business: 20 GB]]'
-- '[[Changes/ChatGPT/2026-05-14-file-library-is-expanding-to-free-and-go-users-including-to-users-in-the-europea|File
+- '[[Changes/Cursor/2026-04-13-plan-tabs-now-get-the-same-document-behaviors-as-files-support-for-reliable-load|Plan
+  tabs now get the same document behaviors as files]]'
+- '[[Changes/Cursor/2026-04-15-cursor-can-now-respond-by-creating-interactive-canvases-c4a1d3|Cursor
+  can now respond by creating interactive canvases]]'
+- '[[Changes/ChatGPT/2026-05-14-file-library-is-expanding-to-free-and-go-users-including-to-users-in-the-europea-141640|File
   library is expanding to Free and Go users, including to users in the European…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-15-personal-finances-in-chatgpt-028801eb|chatgpt-2026-05-15-personal-finances-in-chatgpt-028801eb]]'
 source_type: chatgpt_changelog
 theme: file-data
-title: We’re starting to roll out a new personal finance experience in ChatGPT
+title: Personal finances in ChatGPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We’re starting to roll out a new personal finance experience in ChatGPT
+# Personal finances in ChatGPT
 
 **ChatGPT** · 2026-05-15 · [[Themes/file-data|Files and Data]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-05-15-personal-finances-in-chatgpt-028801eb|Personal finances in ChatGPT]]
 <!-- chronolog:end -->
@@ -102,14 +106,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-05-14 · ChatGPT · [[Changes/ChatGPT/2026-05-14-file-library-is-expanding-to-free-and-go-users-including-to-users-in-the-europea|File library is expanding to Free and Go users, including to users in the European…]]
-- Later: 2026-05-20 · Cursor · [[Changes/Cursor/2026-05-20-canvases-are-interactive-artifacts-created-by-agents-like-reports-dashboards-and|Canvases are interactive artifacts created by agents, like reports, dashboards…]]
+- Earlier: 2026-05-14 · ChatGPT · [[Changes/ChatGPT/2026-05-14-file-library-is-expanding-to-free-and-go-users-including-to-users-in-the-europea-141640|File library is expanding to Free and Go users, including to users in the European…]]
+- Later: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-design-mode-is-now-available-in-canvases|Design Mode in canvases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|ChatGPT rolls out code interpreter to all ChatGPT Plus users over the next week]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

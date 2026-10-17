@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e3b1bf7b4ae73f0ad8f024a13b965a56f781c283ffe7a8e695f95030b4897971
+machine_hash: 0cdc4e6f52572dae05fff0f324ac3c71232bb01aad3653446c3142029731c6fe
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   the Agents Window, canvases are durable artifacts that live in the side panel…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added "Auto (match terminal)" theme option that matches your terminal's dark/light
   mode

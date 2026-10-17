@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 56b121c3462c9fb9cc0747192122eb6751878a44faff5078062f80d2449b5226
+machine_hash: 59c970582dd9ae797ed554b2350eb69a01e34a326edfb1f5ba0471f09c436575
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   --bare flag for scripted -p calls]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa|claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: 'Added WorktreeCreate hook support for type: "http"'
 type: change

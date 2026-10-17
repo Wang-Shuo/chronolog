@@ -15,9 +15,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 56803e56dc7032e111e5e249ecec646f9a3a0ec5c0fe7e0906e2af6b32614c75
+kind: change
+machine_hash: ff2f061e27e7859624ef5c8bbd599b969ced5a2bc20fa6a4821a4883f7cba7dc
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Added `sandbox.bwrapPath` and `sandbox.socatPath` managed settings (Linux/WSL)
       to specify custom bubblewrap and socat binary locations
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.133
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-sandbox-bwrappath-and-sandbox-socatpath-managed-settings-linux-wsl-to-spec
@@ -43,12 +45,12 @@ record:
   title: Added `sandbox.bwrapPath` and `sandbox.socatPath` managed settings (Linux/WSL)…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-01-default-off-users-can-discover-and-opt-in|Default Off:
-  users can discover and opt in]]'
 - '[[Changes/Claude Code/2026-05-06-fixed-permission-mode-flag-being-ignored-when-resuming-a-plan-mode-session-with|Fixed
   --permission-mode flag being ignored when resuming a plan-mode session…]]'
-- '[[Changes/ChatGPT/2026-05-07-over-the-coming-weeks-we-ll-be-rolling-out-trusted-contact-an-optional-safety-fe|Over
-  the coming weeks, we''ll be rolling out trusted contact, an optional safety…]]'
+- '[[Changes/Claude Code/2026-05-06-fixed-session-title-chip-from-rename-disappearing-while-a-permission-or-other-di|Fixed
+  session title chip from /rename disappearing while a permission or other…]]'
+- '[[Changes/ChatGPT/2026-05-07-over-the-coming-weeks-we-ll-be-rolling-out-trusted-contact-an-optional-safety-fe|Trusted
+  contact in ChatGPT]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-07-v2-1-133-github-319164825-08653677|claude-code-2026-05-07-v2-1-133-github-319164825-08653677]]'
 source_type: github_releases
 theme: safety-privacy
@@ -71,8 +73,9 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-05-07-hooks-now-receive-the-active-effort-level-via-the-effort-level-json-input-field|Hooks now receive the active effort level via the effort.level JSON input field…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-05-07-improved-memory-usage-by-releasing-warm-spare-background-workers-under-memory-pr|Improved memory usage by releasing warm-spare background workers under memory pressure]] · Reliability and Performance
 - [[Changes/Claude Code/2026-05-07-added-worktree-baseref-setting-fresh-head-to-choose-whether-worktree-enterworktr|Added worktree.baseRef setting (fresh  /  head) to choose whether --worktree…]] · Developer Workflow
+- [[Changes/Claude Code/2026-05-07-2-apps-and-integrations-changes-in-v2-1-133|2 Apps and Integrations changes in v2.1.133]] · Apps and Integrations
 - [[Changes/Claude Code/2026-05-07-improved-focus-mode-behavior|Improved focus mode behavior]] · Interface Experience
 - [[Changes/Claude Code/2026-05-07-added-parentsettingsbehavior-admin-tier-key-first-wins-merge-to-let-admins-opt-s|Added parentSettingsBehavior admin-tier key ('first-wins'  /  'merge') to let…]] · Enterprise and Administration
 <!-- chronolog:end -->
@@ -80,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-07 · ChatGPT · [[Changes/ChatGPT/2026-05-07-over-the-coming-weeks-we-ll-be-rolling-out-trusted-contact-an-optional-safety-fe|Over the coming weeks, we'll be rolling out trusted contact, an optional safety…]]
-- Later: 2026-05-08 · Claude Code · [[Changes/Claude Code/2026-05-08-fixed-bash-permission-prompts-showing-an-internal-parser-diagnostic-instead-of-a|Fixed Bash permission prompts showing an internal parser diagnostic instead…]]
+- Earlier: 2026-05-07 · ChatGPT · [[Changes/ChatGPT/2026-05-07-over-the-coming-weeks-we-ll-be-rolling-out-trusted-contact-an-optional-safety-fe|Trusted contact in ChatGPT]]
+- Later: 2026-05-08 · Claude Code · [[Changes/Claude Code/2026-05-08-2-safety-and-privacy-changes-in-v2-1-136|2 Safety and Privacy changes in v2.1.136]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

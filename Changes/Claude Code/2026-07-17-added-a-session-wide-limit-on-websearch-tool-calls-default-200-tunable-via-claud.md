@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a5d8af716e61087316fb6701699467d89ed638c68bd53026dad9902b993926bc
+machine_hash: 00c9d992888a1d31a52bd91c9a60122889294c7063d8165baa6a9769d6273d1f
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   can now help with more of the job search process, from finding relevant live…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'
 source_type: github_releases
+superseded: true
 theme: search-browsing
 title: Added a session-wide limit on WebSearch tool calls…
 type: change

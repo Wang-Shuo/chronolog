@@ -3,7 +3,7 @@ changes_count: 4
 date: '2023-11-10'
 description: 'Cursor release New models, Copilot++ beta on 2023-11-10: 4 tracked changes
   across Context Window, Editor Experience, Interface Experience, Model Support'
-machine_hash: 606cb569b21a541961a6fa721e332f88334c2c4f0818b898e4c2e39d594c9b73
+machine_hash: 18511221948f92efbec24de65a1690b73eced07d517c324ecb907a12f2f15381
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ version: 0.15.0-0.15.1
 <!-- chronolog:begin region="summary" -->
 Command-dot: you can now use the Command-dot menu to have Command-K fix lint errors inline.
 
-Tracked 4 of 5 candidate lines.
+Tracked 4 cards from 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

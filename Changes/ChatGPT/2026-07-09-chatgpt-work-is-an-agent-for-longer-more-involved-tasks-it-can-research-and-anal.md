@@ -4,8 +4,8 @@ date: '2026-07-09'
 description: 'ChatGPT · 2026-07-09 · Agent Mode: ChatGPT Work is an agent for longer,
   more involved tasks. It can research and analyze information, work across connected…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1099
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: 257028bbf0c4faa1902516cf661a9eb0bf0bfcee935192f58ad36273242a6bb0
+kind: change
+machine_hash: d2aefac493d667a933ab79ea28ff00e3557bcd5ef20929a0cddfd674f83c55b9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,8 +38,9 @@ record:
       progress, answer questions, change direction, and approve important actions
       as it works.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: chatgpt-work-is-an-agent-for-longer-more-involved-tasks-it-can-research-and-anal
@@ -63,12 +65,12 @@ record:
   title: ChatGPT Work is an agent for longer, more involved tasks
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-07-improved-subagent-behavior-agents-are-now-less-likely-to-re-delegate-their-entir|Improved
-  subagent behavior]]'
-- '[[Changes/Claude Code/2026-07-08-added-an-auto-mode-rule-that-blocks-tampering-with-session-transcript-files|Added
-  an auto mode rule that blocks tampering with session transcript files]]'
-- '[[Changes/Claude Code/2026-07-08-improved-agent-view-sessions-that-edit-merge-comment-on-or-push-to-an-existing-p|Improved
-  agent view]]'
+- '[[Changes/Claude Code/2026-07-06-3-agent-mode-changes-in-v2-1-202|3 Agent Mode
+  changes in v2.1.202]]'
+- '[[Changes/Claude Code/2026-07-07-2-agent-mode-changes-in-v2-1-203|2 Agent Mode
+  changes in v2.1.203]]'
+- '[[Changes/Claude Code/2026-07-08-3-agent-mode-changes-in-v2-1-205|3 Agent Mode
+  changes in v2.1.205]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272]]'
 source_type: chatgpt_changelog
 theme: agent-mode
@@ -91,23 +93,22 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2026-07-09-on-web-and-mobile-work-is-rolling-out-to-paid-plans-except-free-and-go-pro-pro-l|On web and mobile, Work is rolling out to paid plans except Free and Go]] · Enterprise and Administration
+- [[Changes/ChatGPT/2026-07-09-work-can-also-keep-projects-moving-through-scheduled-tasks-that-run-once-repeat-2d6910|Work can also keep projects moving through Scheduled Tasks that run once, repeat…]] · Automation and Scheduling
 - [[Changes/ChatGPT/2026-07-09-we-re-also-replacing-the-app-directory-with-the-plugin-directory-existing-app-co|We’re also replacing the App Directory with the Plugin Directory]] · Apps and Integrations
 - [[Changes/ChatGPT/2026-07-09-on-web-and-mobile-enterprise-and-edu-workspaces-have-a-two-week-preview-period-w|On web and mobile, Enterprise and Edu workspaces have a two-week preview period]] · Enterprise and Administration
-- [[Changes/ChatGPT/2026-07-09-work-can-also-keep-projects-moving-through-scheduled-tasks-that-run-once-repeat|Work can also keep projects moving through Scheduled Tasks that run once, repeat…]] · Automation and Scheduling
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-08 · Claude Code · [[Changes/Claude Code/2026-07-08-improved-agent-view-sessions-that-edit-merge-comment-on-or-push-to-an-existing-p|Improved agent view]]
-- Later: 2026-07-10 · Cursor · [[Changes/Cursor/2026-07-10-by-default-side-chats-focus-on-reading-searching-and-answering-use-them-to-ask-c|By default, side chats focus on reading, searching, and answering]]
+- Earlier: 2026-07-08 · Claude Code · [[Changes/Claude Code/2026-07-08-3-agent-mode-changes-in-v2-1-205|3 Agent Mode changes in v2.1.205]]
+- Later: 2026-07-10 · Claude Code · [[Changes/Claude Code/2026-07-10-2-agent-mode-changes-in-v2-1-206|2 Agent Mode changes in v2.1.206]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

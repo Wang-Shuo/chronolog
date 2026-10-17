@@ -15,9 +15,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: abd19438377db30bdbb6b0008e002a23e387af4ca77c6b8721d75caece53cca3
+kind: change
+machine_hash: 9c542211f50e8d2278483e49ff9f8234e44319ee5106ee8cf927a3d848224f87
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
   - quote: 'Improved the `/diff` panel: it no longer flashes "0 files changed" and
       a spinner before settling, and its empty state is centered in the panel'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.267
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-the-diff-panel-it-no-longer-flashes-0-files-changed-and-a-spinner-befor
@@ -44,12 +46,12 @@ record:
   title: Improved the `/diff` panel
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-27-added-server-managed-settings-diagnostics-a-startup-warning-when-the-settings-fa|Added
-  server-managed settings diagnostics]]'
-- '[[Changes/Claude Code/2026-09-03-added-a-likely-cause-for-prompt-cache-misses-e-g-tool-definitions-or-system-prom|Added
-  a likely cause for prompt-cache misses…]]'
-- '[[Changes/Claude Code/2026-09-03-added-a-diff-panel-that-opens-beside-the-conversation-in-fullscreen-mode-and-sho|Added
-  a diff panel that opens beside the conversation in fullscreen mode and shows…]]'
+- '[[Changes/Claude Code/2026-09-02-vscode-added-an-active-quick-filter-and-a-status-filter-menu-needs-input-working|VSCode
+  Added an Active quick filter and a status filter menu…]]'
+- '[[Changes/Claude Code/2026-09-03-4-interface-experience-changes-in-v2-1-260|4 Interface
+  Experience changes in v2.1.260]]'
+- '[[Changes/Claude Code/2026-09-04-3-interface-experience-changes-in-v2-1-261|3 Interface
+  Experience changes in v2.1.261]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-09-v2-1-267-github-385748811-6409148e|claude-code-2026-09-09-v2-1-267-github-385748811-6409148e]]'
 source_type: github_releases
 theme: interface-experience
@@ -72,16 +74,19 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-09-09-improved-the-bash-tool-s-description-guidance-so-claude-describes-what-a-command|Improved the Bash tool's description guidance so Claude describes what a command…]] · Developer Workflow
-- [[Changes/Claude Code/2026-09-09-fixed-remote-control-clients-that-join-a-claude-desktop-or-vs-code-session-showi|Fixed Remote Control clients that join a Claude Desktop or VS Code session showing…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-09-09-3-developer-workflow-changes-in-v2-1-267|3 Developer Workflow changes in v2.1.267]] · Developer Workflow
+- [[Changes/Claude Code/2026-09-09-improved-prompt-cache-stability-subagents-and-sessions-started-with-system-promp|Improved prompt-cache stability]] · Context Window
+- [[Changes/Claude Code/2026-09-09-claude-tag-added-a-use-a-custom-connector-link-to-the-preset-connection-forms-in|Claude Tag Added a "Use a custom connector" link to the preset connection forms…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-09-09-2-safety-and-privacy-changes-in-v2-1-267|2 Safety and Privacy changes in v2.1.267]] · Safety and Privacy
+- [[Changes/Claude Code/2026-09-09-improved-prompt-input-responsiveness-keystrokes-no-longer-occasionally-wait-a-fr|Improved prompt input responsiveness]] · Reliability and Performance
 - [[Changes/Claude Code/2026-09-09-added-maxeffortlevel-setting-top-level-or-per-model-under-modelsettings-caps-the|Added maxEffortLevel setting (top-level or per model under modelSettings)]] · Model Support
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-added-a-diff-panel-that-opens-beside-the-conversation-in-fullscreen-mode-and-sho|Added a diff panel that opens beside the conversation in fullscreen mode and shows…]]
-- Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-added-mouse-support-to-the-config-panel-in-fullscreen-mode-the-wheel-scrolls-the|Added mouse support to the /config panel in fullscreen mode]]
+- Earlier: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-3-interface-experience-changes-in-v2-1-261|3 Interface Experience changes in v2.1.261]]
+- Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-2-interface-experience-changes-in-v2-1-268|2 Interface Experience changes in v2.1.268]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

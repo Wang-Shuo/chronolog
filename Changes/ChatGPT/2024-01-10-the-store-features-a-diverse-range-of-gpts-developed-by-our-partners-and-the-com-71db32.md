@@ -1,22 +1,23 @@
 ---
 card_id: chatgpt-2024-01-10-71db32
 date: '2024-01-10'
-description: 'ChatGPT · 2024-01-10 · Image Generation: The store features a diverse
-  range of GPTs developed by our partners and the community. Browse popular and trending…'
+description: 'ChatGPT · 2024-01-10 · Apps and Integrations: The store features a diverse
+  range of GPTs developed by our partners and the community. Browse popular and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The
-    store features a diverse range of GPTs developed by our partners and the community]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 293
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
-  theme: image-generation
+  theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 807b14fab880ba221258b62882baed5a9ec00150925c89f61bf8dfaa8adcb380
+kind: launch
+machine_hash: 235034c92766477ad9cee0b96329e25c40176ddc4b78c5b479eeb3919f11db74
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,39 +35,37 @@ record:
       with categories like DALL·E, writing, research, programming, education, and
       lifestyle.Explore GPTs at chatgpt.com/gpts.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: chatgpt
   product_name: ChatGPT
-  slug: the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com
+  slug: discover-what-s-trending-in-the-gpt-store
   source_release: chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd
   source_type: chatgpt_changelog
-  theme: image-generation
-  theme_matches:
-  - matched_terms:
-    - dall e
-    score: 60
-    theme: image-generation
-  - matched_terms:
-    - browse
-    score: 50
-    theme: search-browsing
-  theme_resolution: manual-semantic-rule-v1
-  title: The store features a diverse range of GPTs developed by our partners and
-    the community
+  theme: apps-integrations
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v2
+  title: Discover what’s trending in the GPT Store
   type: change
+related_changes:
+- '[[Changes/Cursor/2023-11-15-now-based-on-vs-code-1-84-2-notably-this-fixes-a-few-notebook-bugs-and-ensures-t|New
+  upstream]]'
+- '[[Changes/Cursor/2023-11-15-cursor-is-now-based-on-vs-code-1-84-2-notably-this-fixes-a-few-notebook-bugs-and|Cursor
+  is now based on VS Code 1.84.2]]'
+- '[[Changes/Cursor/2023-12-16-copilot-we-ve-continued-to-improve-the-copilot-ghost-text-experience-surprisingl|Copilot++:
+  We''ve continued to improve the Copilot++ ghost text experience]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd|chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd]]'
 source_type: chatgpt_changelog
-theme: image-generation
-title: The store features a diverse range of GPTs developed by our partners and the
-  community
+theme: apps-integrations
+title: Discover what’s trending in the GPT Store
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# The store features a diverse range of GPTs developed by our partners and the community
+# Discover what’s trending in the GPT Store
 
-**ChatGPT** · 2024-01-10 · [[Themes/image-generation|Image Generation]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd|Introducing the GPT Store and ChatGPT Team plan]]
+**ChatGPT** · 2024-01-10 · [[Themes/apps-integrations|Apps and Integrations]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd|Introducing the GPT Store and ChatGPT Team plan]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -78,19 +77,20 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|ChatGPT launches a new ChatGPT plan for teams of all sizes, which provides a secure…]] · Safety and Privacy
+- [[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|Use ChatGPT alongside your team]] · Collaboration
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Image Generation
+## Nearby in Apps and Integrations
 
-- Later: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|ChatGPT rolls out the ability for ChatGPT Free users to create up to two images per…]]
+- Earlier: 2023-12-16 · Cursor · [[Changes/Cursor/2023-12-16-copilot-we-ve-continued-to-improve-the-copilot-ghost-text-experience-surprisingl|Copilot++: We've continued to improve the Copilot++ ghost text experience]]
+- Later: 2024-01-15 · Cursor · [[Changes/Cursor/2024-01-15-supports-newer-version-of-python-extension|Supports newer version of python extension]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 3 tracked products.
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

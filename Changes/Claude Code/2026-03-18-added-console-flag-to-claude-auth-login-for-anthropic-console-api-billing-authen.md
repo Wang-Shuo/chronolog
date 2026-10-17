@@ -14,9 +14,10 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 1535cea50e86ad30fe71ac0a66a2a2e628f3f2f4db82d3e3f14a0b96d2f51fc0
+kind: change
+machine_hash: 5a4f60b90d7624a13a2d593b72a94ac93cc5953da1af3b762f5855af6b0e6313
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added `--console` flag to `claude auth login` for Anthropic Console (API
       billing) authentication
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.79
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-console-flag-to-claude-auth-login-for-anthropic-console-api-billing-authen
@@ -51,10 +53,10 @@ record:
     billing)…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-13-added-claude-auth-login-claude-auth-status-and-claude-auth-logout-cli-subcommand|Added
-  claude auth login, claude auth status, and claude auth logout CLI subcommands]]'
-- '[[Changes/Claude Code/2026-02-19-improved-performance-by-caching-authentication-failures-for-http-and-sse-mcp-ser|Improved
-  performance by caching authentication failures for HTTP and SSE MCP…]]'
+- '[[Changes/Claude Code/2026-03-05-2-account-and-access-changes-in-v2-1-69|2 Account
+  and Access changes in v2.1.69]]'
+- '[[Changes/Claude Code/2026-03-06-vscode-added-native-mcp-server-management-dialog-use-mcp-in-the-chat-panel-to-en|VSCode
+  Added native MCP server management dialog]]'
 - '[[Changes/Claude Code/2026-03-11-added-actionable-guidance-when-oauth-login-or-connectivity-checks-fail-due-to-ss|Added
   actionable guidance when OAuth login or connectivity checks fail due to SSL…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd|claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd]]'
@@ -79,17 +81,17 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-03-18-improved-startup-memory-usage-by-18mb-across-all-scenarios|Improved startup memory usage by ~18MB across all scenarios]] · Reliability and Performance
+- [[Changes/Claude Code/2026-03-18-2-apps-and-integrations-changes-in-v2-1-79|2 Apps and Integrations changes in v2.1.79]] · Apps and Integrations
 - [[Changes/Claude Code/2026-03-18-fixed-custom-status-line-showing-nothing-when-workspace-trust-is-blocking-it|Fixed custom status line showing nothing when workspace trust is blocking it]] · Safety and Privacy
+- [[Changes/Claude Code/2026-03-18-2-reliability-and-performance-changes-in-v2-1-79|2 Reliability and Performance changes in v2.1.79]] · Reliability and Performance
 - [[Changes/Claude Code/2026-03-18-added-show-turn-duration-toggle-to-the-config-menu|Added "Show turn duration" toggle to the /config menu]] · Interface Experience
-- [[Changes/Claude Code/2026-03-18-improved-non-streaming-api-fallback-with-a-2-minute-per-attempt-timeout-preventi|Improved non-streaming API fallback with a 2-minute per-attempt timeout, preventing…]] · Reliability and Performance
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
 - Earlier: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-added-actionable-guidance-when-oauth-login-or-connectivity-checks-fail-due-to-ss|Added actionable guidance when OAuth login or connectivity checks fail due to SSL…]]
-- Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-mcp-oauth-now-follows-rfc-9728-protected-resource-metadata-discovery-to-find-the|MCP OAuth now follows RFC 9728 Protected Resource Metadata discovery to find…]]
+- Later: 2026-03-20 · Claude Code · [[Changes/Claude Code/2026-03-20-updated-mcp-oauth-to-support-client-id-metadata-document-cimd-sep-991-for-server|Updated MCP OAuth to support Client ID Metadata Document (CIMD / SEP-991)…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

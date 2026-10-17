@@ -4,8 +4,8 @@ date: '2025-05-01'
 description: 'ChatGPT · 2025-05-01 · Voice and Audio: Launched on April 1 as a one-month
   surprise, our “Monday” personality (available in both voice and text) has now been…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use
-    voice to engage in a back-and-forth conversation with your assistant]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
+    are beginning to roll out new voice and image capabilities in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 584
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: b1c777ae3b73ede727d140fde3bed251ed247cdfca725bdf1eb637bc76c90e01
+kind: policy
+machine_hash: f7a572765fe00cb1c6d60bf81cb7ed116b61a04520d8f28f4101f28596ba2250
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,8 +36,9 @@ record:
       style, and we’re already working on new personalities for future use. Please
       stay tuned for what’s next!
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: policy
   product: chatgpt
   product_name: ChatGPT
   slug: launched-on-april-1-as-a-one-month-surprise-our-monday-personality-available-in
@@ -52,26 +54,26 @@ record:
     - personality
     score: 50
     theme: memory
-  title: Launched on April 1 as a one-month surprise, our “Monday” personality…
+  title: Sunsetting Monday GPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-12-12-today-we-started-rolling-out-two-updates-to-voice-mode-in-chatgpt|Today
+- '[[Changes/ChatGPT/2024-12-12-video-and-screenshare-in-our-latest-mobile-apps-we-are-starting-to-roll-out-real|Video
+  and screenshare]]'
+- '[[Changes/ChatGPT/2024-12-12-today-we-started-rolling-out-two-updates-to-voice-mode-in-chatgpt-8ade79|Today
   we started rolling out two updates to voice mode in ChatGPT]]'
-- '[[Changes/ChatGPT/2024-12-12-santa-voice-you-can-now-chat-with-santa-in-chatgpt-until-early-january-you-can-f|Santa
-  voice: You can now chat with Santa in ChatGPT!]]'
-- '[[Changes/ChatGPT/2024-12-12-the-first-time-you-chat-with-santa-your-advanced-voice-limit-will-reset-one-time|The
-  first time you chat with Santa, your advanced voice limit will reset one time]]'
+- '[[Changes/ChatGPT/2025-02-14-whisper-chatgpt-s-voice-to-text-feature-now-shows-a-text-preview-of-dictated-tex|Whisper
+  (ChatGPT''s voice-to-text feature) now shows a text preview of dictated text…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-01-sunsetting-monday-gpt-9d013d1e|chatgpt-2025-05-01-sunsetting-monday-gpt-9d013d1e]]'
 source_type: chatgpt_changelog
 theme: voice
-title: Launched on April 1 as a one-month surprise, our “Monday” personality…
+title: Sunsetting Monday GPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Launched on April 1 as a one-month surprise, our “Monday” personality…
+# Sunsetting Monday GPT
 
-**ChatGPT** · 2025-05-01 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-05-01-sunsetting-monday-gpt-9d013d1e|Sunsetting Monday GPT]]
+**ChatGPT** · 2025-05-01 · [[Themes/voice|Voice and Audio]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-05-01-sunsetting-monday-gpt-9d013d1e|Sunsetting Monday GPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -87,14 +89,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-12-12 · ChatGPT · [[Changes/ChatGPT/2024-12-12-the-first-time-you-chat-with-santa-your-advanced-voice-limit-will-reset-one-time|The first time you chat with Santa, your advanced voice limit will reset one time]]
+- Earlier: 2025-02-14 · ChatGPT · [[Changes/ChatGPT/2025-02-14-whisper-chatgpt-s-voice-to-text-feature-now-shows-a-text-preview-of-dictated-tex|Whisper (ChatGPT's voice-to-text feature) now shows a text preview of dictated text…]]
 - Later: 2025-06-07 · ChatGPT · [[Changes/ChatGPT/2025-06-07-we-re-upgrading-advanced-voice-in-chatgpt-for-paid-users-with-significant-enhanc-ad0b3e|We're upgrading Advanced Voice in ChatGPT for paid users with significant…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use voice to engage in a back-and-forth conversation with your assistant]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

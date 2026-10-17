@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1aaf415f25e137775df32d94421a03b4626794191a0f1dbc9468016ba9193856
+machine_hash: 5b43e836aec79f2ca38f16a7e20c901b21b4c30722de30bbbf283832fb44ee90
 product: cursor
 product_name: Cursor
 record:
@@ -54,6 +54,7 @@ related_changes:
   research preview and internal testing, long-running agents completed work…]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-12-long-running-agents-in-research-preview-https-cursor-com-changel-2b95c718|cursor-2026-02-12-long-running-agents-in-research-preview-https-cursor-com-changel-2b95c718]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Cursor can now work autonomously over longer horizons to complete larger, more…
 type: change

@@ -15,9 +15,10 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: fae5e4bfd4a14fa020d990db2514d2680d5afc94ef0fad0a27f0e6475b0c4805
+kind: expansion
+machine_hash: 1fc97a1bcda58bb0d5152d7012874ac4491e2ef26e32365b703d47b4da8f8074
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,8 +32,9 @@ record:
   - quote: 'We''re launching ChatGPT Go, our low cost subscription plan, in Brazil.
       ChatGPT Go provides everything included in the Free plan, and:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: expansion
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-brazil-chatgpt-go-p
@@ -58,7 +60,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT launches ChatGPT Go, our low cost subscription plan, in Brazil
 
-**ChatGPT** · 2025-10-28 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-10-28-chatgpt-go-now-available-in-brazil-6c8c9319|ChatGPT Go now available in Brazil]]
+**ChatGPT** · 2025-10-28 · [[Themes/pricing-model|Pricing Model]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-10-28-chatgpt-go-now-available-in-brazil-6c8c9319|ChatGPT Go now available in Brazil]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->

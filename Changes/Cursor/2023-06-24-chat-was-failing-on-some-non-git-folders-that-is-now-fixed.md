@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 835ca1d70bcf2dd330ef8793a3364761a1be7927889ef1d94be072a30c8a0a56
+kind: change
+machine_hash: 46f4509017f7f253cf0ed9450c794337c1aceaa7855f76a732bce9b01f3c5738
 product: cursor
 product_name: Cursor
 record:
@@ -27,8 +28,9 @@ record:
   evidence:
   - quote: Chat was failing on some non-git folders. That is now fixed.
     source_release: https://cursor.com/changelog/0-2-35
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: chat-was-failing-on-some-non-git-folders-that-is-now-fixed
@@ -40,12 +42,10 @@ record:
   title: Chat was failing on some non-git folders
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-17-press-cmd-d-to-auto-debug-a-terminal-error|Press Cmd+D
-  to auto-debug a terminal error]]'
+- '[[Changes/Cursor/2023-05-17-in-terminal-debugging-f140b2|In-terminal Debugging]]'
 - '[[Changes/Cursor/2023-06-14-small-fix-for-a-format-on-save-bug-that-was-introduced-in-the-last-release-some|Small
-  fix for a format-on-save bug that was introduced in the last release]]'
-- '[[Changes/Cursor/2023-06-17-the-ai-linter-now-shows-diffs|The AI linter now shows
-  diffs!]]'
+  improvements]]'
+- '[[Changes/Cursor/2023-06-17-the-ai-linter-now-shows-diffs|Diffs in AI linter feedback]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-24-0-2-35-https-cursor-com-changelog-0-2-35-13776559|cursor-2023-06-24-0-2-35-https-cursor-com-changelog-0-2-35-13776559]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -72,8 +72,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-06-17 · Cursor · [[Changes/Cursor/2023-06-17-the-ai-linter-now-shows-diffs|The AI linter now shows diffs!]]
-- Later: 2023-06-27 · Cursor · [[Changes/Cursor/2023-06-27-you-can-now-use-run-debug-in-cursor-again-the-toolbar-is-back|Use Run & debug in Cursor again (the toolbar is back)]]
+- Earlier: 2023-06-17 · Cursor · [[Changes/Cursor/2023-06-17-the-ai-linter-now-shows-diffs|Diffs in AI linter feedback]]
+- Later: 2023-06-27 · Cursor · [[Changes/Cursor/2023-06-27-you-can-now-use-run-debug-in-cursor-again-the-toolbar-is-back-db8146|Use Run & debug in Cursor again (the toolbar is back)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

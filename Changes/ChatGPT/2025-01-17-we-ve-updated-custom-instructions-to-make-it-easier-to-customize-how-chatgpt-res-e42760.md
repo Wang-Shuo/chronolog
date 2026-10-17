@@ -14,9 +14,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: aff7647dc3ca11c6cf11e95e730a6a0095c019103c3239eab26f5713b4994f0b
+kind: change
+machine_hash: 1295c9d31ab52afaa16c19ac13bc82984263eddec0aeb5536de03afd051edb3a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,8 +43,9 @@ record:
       is coming to mobile and desktop on macOS in the next few weeks. Available soon
       to ChatGPT users in the EU, Norway, Iceland, Liechtenstein, and Switzerland.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res
@@ -62,24 +64,24 @@ record:
     - custom instructions
     score: 60
     theme: memory
-  title: ChatGPT updates custom instructions to make it easier to customize how ChatGPT…
+  title: More personalization in Custom Instructions
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Show
-  ChatGPT one or more images]]'
-- '[[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|Cursor
-  is now based on VS Code 1.85.1, which, among other things, includes floating…]]'
-- '[[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Starting
-  today, we’re beginning to roll out Advanced Voice Mode on web…]]'
+- '[[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|VS
+  Code 1.85.1]]'
+- '[[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Advanced
+  Voice for ChatGPT Web]]'
+- '[[Changes/ChatGPT/2024-11-22-improved-mobile-web-experience|Improved Mobile Web
+  Experience]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-01-17-more-personalization-in-custom-instructions-bab36367|chatgpt-2025-01-17-more-personalization-in-custom-instructions-bab36367]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: ChatGPT updates custom instructions to make it easier to customize how ChatGPT…
+title: More personalization in Custom Instructions
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT updates custom instructions to make it easier to customize how ChatGPT…
+# More personalization in Custom Instructions
 
 **ChatGPT** · 2025-01-17 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-01-17-more-personalization-in-custom-instructions-bab36367|More personalization in Custom Instructions]]
 <!-- chronolog:end -->
@@ -97,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-11-19 · ChatGPT · [[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Starting today, we’re beginning to roll out Advanced Voice Mode on web…]]
+- Earlier: 2024-11-22 · ChatGPT · [[Changes/ChatGPT/2024-11-22-improved-mobile-web-experience|Improved Mobile Web Experience]]
 - Later: 2025-02-14 · ChatGPT · [[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved Android conversation parsing performance]]
 <!-- chronolog:end -->
 

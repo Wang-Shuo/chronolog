@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-02-20'
 description: 'ChatGPT release Expanded context window for Thinking on 2026-02-20:
   1 tracked change across Context Window'
-machine_hash: fdad9d538b8bac16ee235227b7c66eba9551af861fc3bf36f976cc1ad9816f68
+machine_hash: 5a6a31a860a5b75ee23bd3dfea3fee5cb3873340216c787074272ee323449c10
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,10 +40,10 @@ version: Expanded context window for Thinking
 <!-- chronolog:begin region="summary" -->
 ChatGPT now has a total context window length of 256k tokens (128k input and 128k max output) when you manually select Thinking. Previously it was 196k total tokens.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-02-20-chatgpt-now-has-a-total-context-window-length-of-256k-tokens-128k-input-and-128k|ChatGPT now has a total context window length of 256k tokens…]] · Context Window
+- [[Changes/ChatGPT/2026-02-20-chatgpt-now-has-a-total-context-window-length-of-256k-tokens-128k-input-and-128k|Expanded context window for Thinking]] · Context Window
 <!-- chronolog:end -->

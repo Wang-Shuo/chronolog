@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ed0d1763fb653a4c40b3dca6c512277e0cf75c998a9e5f4709f35ab04ca4a5c0
+machine_hash: abc3d0b882c8e36f32ee54ba23ef72396c9d7242cfec1866a734abb9448010be
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   Fixed Read, Write and Edit refusing every file…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-09-v2-1-267-github-385748811-6409148e|claude-code-2026-09-09-v2-1-267-github-385748811-6409148e]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed Remote Control clients that join a Claude Desktop or VS Code session
   showing…

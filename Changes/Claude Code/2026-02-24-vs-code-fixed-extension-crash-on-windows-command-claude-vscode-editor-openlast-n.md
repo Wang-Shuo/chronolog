@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2d03a3348fa1712a3cdb772e5a777754729609af30a4c7789a353f207cd63b92
+machine_hash: e7074304d08c02b85648c618e45faf62a805c9138beb2b038f010a91b8ee1eae
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,6 +47,7 @@ related_changes:
   mode (CLAUDE_CODE_SIMPLE) now includes the file edit tool in addition…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-24-v2-1-52-github-289722248-e9ee8830|claude-code-2026-02-24-v2-1-52-github-289722248-e9ee8830]]'
 source_type: github_releases
+superseded: true
 theme: editor-experience
 title: 'VS Code: Fixed extension crash on Windows…'
 type: change

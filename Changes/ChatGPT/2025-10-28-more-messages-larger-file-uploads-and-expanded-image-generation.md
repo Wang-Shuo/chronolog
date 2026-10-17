@@ -4,19 +4,20 @@ date: '2025-10-28'
 description: 'ChatGPT · 2025-10-28 · Image Generation: More messages, larger file
   uploads, and expanded image generation'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The
-    store features a diverse range of GPTs developed by our partners and the community]]'
+  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
+    3 for ChatGPT Free users]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 657
+  lag_days: 446
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 2e9b6fbdb6eab14816ec2a182aabbf4fae452058f7fe3d36e9a08bc8270be50a
+kind: change
+machine_hash: ac451f1a7b6c9ba6029131c8524c2cb31a7bb29a02370e0235c69d150c01fc6b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,8 +31,9 @@ record:
   evidence:
   - quote: More messages, larger file uploads, and expanded image generation
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: more-messages-larger-file-uploads-and-expanded-image-generation
@@ -83,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The store features a diverse range of GPTs developed by our partners and the community]]
+- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

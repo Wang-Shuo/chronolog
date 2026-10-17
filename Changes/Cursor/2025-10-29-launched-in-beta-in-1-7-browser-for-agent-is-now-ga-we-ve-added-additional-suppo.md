@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: fcfcd9e52e3aab323e92be75cfa85dded7de26cc9c15efa675ed10a8256643f6
+machine_hash: 5fa757029b8fd344bb84d13364535fb1484107d28ccdde82156b712df9aa5307
 product: cursor
 product_name: Cursor
 record:
@@ -64,6 +64,7 @@ related_changes:
   bring your chats and files into one place, helping you stay focused and get…]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
+superseded: true
 theme: enterprise-admin
 title: Launched in beta in 1.7, browser for Agent is now GA
 type: change

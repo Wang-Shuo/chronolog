@@ -2,8 +2,9 @@
 changes_count: 5
 date: '2026-07-08'
 description: 'Claude Code release v2.1.205 on 2026-07-08: 5 tracked changes across
-  Agent Mode, Context Window, Reliability and Performance, Safety and Privacy'
-machine_hash: 2d5ac38e0be4a4dbf9cb0f299fce5adfc8ad9f4b922eb5cdda9901dc5b0a3b57
+  Agent Mode, Apps and Integrations, Context Window, Reliability and Performance,
+  Safety and…'
+machine_hash: 8e3cc020e5e08be8cd23ba8fe79bd89734b1f9b67b0dc1177c16777c0bc80333
 product: claude-code
 product_name: Claude Code
 record:
@@ -36,16 +37,16 @@ version: v2.1.205
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-5 tracked changes across 4 themes: Agent Mode, Context Window, Reliability and Performance, Safety and Privacy.
+5 tracked changes across 5 themes: Agent Mode, Apps and Integrations, Context Window, Reliability and Performance, Safety and Privacy.
 
-Tracked 5 of 23 candidate lines.
+Tracked 5 cards from 23 candidate lines; 1 line pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Claude Code/2026-07-08-added-an-auto-mode-rule-that-blocks-tampering-with-session-transcript-files|Added an auto mode rule that blocks tampering with session transcript files]] · Agent Mode
 - [[Changes/Claude Code/2026-07-08-improved-auto-mode-to-ask-before-running-rm-rf-on-a-variable-it-can-t-resolve-fr|Improved auto mode to ask before running rm -rf on a variable it can't resolve…]] · Context Window
-- [[Changes/Claude Code/2026-07-08-improved-agent-view-sessions-that-edit-merge-comment-on-or-push-to-an-existing-p|Improved agent view]] · Agent Mode
+- [[Changes/Claude Code/2026-07-08-reserved-the-claude-browser-mcp-server-name-alongside-claude-preview-ahead-of-th|Reserved the "Claude Browser" MCP server name (alongside "Claude Preview") ahead…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-07-08-3-agent-mode-changes-in-v2-1-205|3 Agent Mode changes in v2.1.205]] · Agent Mode · Digest
 - [[Changes/Claude Code/2026-07-08-auto-update-binary-downloads-now-stream-to-disk-instead-of-buffering-in-memory-c|Auto-update binary downloads now stream to disk instead of buffering in memory…]] · Reliability and Performance
 - [[Changes/Claude Code/2026-07-08-background-task-notifications-now-explicitly-state-that-no-human-input-has-occur|Background task notifications now explicitly state that no human input has occurred…]] · Safety and Privacy
 <!-- chronolog:end -->

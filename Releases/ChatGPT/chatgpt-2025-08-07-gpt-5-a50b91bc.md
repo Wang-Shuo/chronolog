@@ -2,7 +2,7 @@
 changes_count: 1
 date: '2025-08-07'
 description: 'ChatGPT release GPT-5 on 2025-08-07: 1 tracked change across Model Support'
-machine_hash: 65679e7f2c455e7d5c1d318281704103c2e262ed2a26523719a2ac89d5601240
+machine_hash: a8eb6153181dc7d7d9a99d1874f6113432a755f479920da872ba7f7f5202817a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: GPT-5
 <!-- chronolog:begin region="summary" -->
 GPT-5 is slowly rolling out to all users on ChatGPT Plus, Pro, Team, and Free plans worldwide across web, mobile, and desktop. GPT-5 will be available to ChatGPT Enterprise and Edu plans soon.GPT-5 in ChatGPT is our next flagship model and the new default for all logged-in users. It simplifies ChatGPT to a single…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-08-07-gpt-5-is-slowly-rolling-out-to-all-users-on-chatgpt-plus-pro-team-and-free-plans-64a08c|GPT-5 is slowly rolling out to all users on ChatGPT Plus, Pro, Team, and Free plans…]] · Model Support
+- [[Changes/ChatGPT/2025-08-07-gpt-5-is-slowly-rolling-out-to-all-users-on-chatgpt-plus-pro-team-and-free-plans-64a08c|GPT-5]] · Model Support
 <!-- chronolog:end -->

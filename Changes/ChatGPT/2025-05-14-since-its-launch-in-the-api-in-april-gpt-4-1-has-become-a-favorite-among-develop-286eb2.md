@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: c6ca706ef1196ef37cd0612702227eeed20f9d43e74e30771e6a56c46ec14fc3
+kind: change
+machine_hash: 300124e386efecf3a55ce588e3b56e0b3a6c7d2db6c596afcf481a3bf1547422
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,8 +47,9 @@ record:
       get access in the coming weeks. GPT-4.1 has the same rate limits as GPT-4o for
       paid users.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: since-its-launch-in-the-api-in-april-gpt-4-1-has-become-a-favorite-among-develop
@@ -76,24 +78,24 @@ record:
     score: 50
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v2
-  title: Since its launch in the API in April, GPT-4.1 has become a favorite among…
+  title: Releasing GPT-4.1 in ChatGPT for all paid users
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-04-16-today-we-re-releasing-openai-o3-and-o4-mini-the-latest-in-our-o-series-of-models|Today,
-  we’re releasing OpenAI o3 and o4-mini, the latest in our o-series of models…]]'
-- '[[Changes/ChatGPT/2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories|We’re
-  making additional improvements to GPT-4o, optimizing when it saves memories…]]'
-- '[[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|We''ve
-  reverted the most recent update to GPT-4o due to issues with overly agreeable…]]'
+- '[[Changes/ChatGPT/2025-04-16-today-we-re-releasing-openai-o3-and-o4-mini-the-latest-in-our-o-series-of-models|o3
+  and o4-mini in ChatGPT]]'
+- '[[Changes/ChatGPT/2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories|Improvements
+  to GPT-4o]]'
+- '[[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|Updates
+  to GPT-4o]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-14-releasing-gpt-4-1-in-chatgpt-for-all-paid-users-ab6fd3aa|chatgpt-2025-05-14-releasing-gpt-4-1-in-chatgpt-for-all-paid-users-ab6fd3aa]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: Since its launch in the API in April, GPT-4.1 has become a favorite among…
+title: Releasing GPT-4.1 in ChatGPT for all paid users
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Since its launch in the API in April, GPT-4.1 has become a favorite among…
+# Releasing GPT-4.1 in ChatGPT for all paid users
 
 **ChatGPT** · 2025-05-14 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-05-14-releasing-gpt-4-1-in-chatgpt-for-all-paid-users-ab6fd3aa|Releasing GPT-4.1 in ChatGPT for all paid users]]
 <!-- chronolog:end -->
@@ -111,8 +113,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-04-29 · ChatGPT · [[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|We've reverted the most recent update to GPT-4o due to issues with overly agreeable…]]
-- Later: 2025-05-14 · ChatGPT · [[Changes/ChatGPT/2025-05-14-gpt-4-1-mini-is-a-fast-capable-and-efficient-small-model-delivering-significant-722b7d|GPT-4.1 mini is a fast, capable, and efficient small model, delivering significant…]]
+- Earlier: 2025-04-29 · ChatGPT · [[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|Updates to GPT-4o]]
+- Later: 2025-05-14 · ChatGPT · [[Changes/ChatGPT/2025-05-14-gpt-4-1-mini-is-a-fast-capable-and-efficient-small-model-delivering-significant-722b7d|Introducing GPT-4.1 mini, replacing GPT-4o mini, in ChatGPT for all users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

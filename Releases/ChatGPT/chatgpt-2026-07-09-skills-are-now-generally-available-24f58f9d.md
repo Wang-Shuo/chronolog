@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-07-09'
 description: 'ChatGPT release Skills are now generally available on 2026-07-09: 1
   tracked change across Apps and Integrations'
-machine_hash: 7444f92dbcaffefd25f0cee553c741ba8639e69854b33538998d9bdc17695721
+machine_hash: f41896ce360e4c6ed65ea2f650c570b43ba2a9dd456f6040745d21c226a3eac6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,10 +39,10 @@ version: Skills are now generally available
 <!-- chronolog:begin region="summary" -->
 Enterprise and Edu users can find skills under Plugins in the sidebar, on the Skills tab in the Plugin Directory.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-07-09-enterprise-and-edu-users-can-find-skills-under-plugins-in-the-sidebar-on-the-ski|Enterprise and Edu users can find skills under Plugins in the sidebar, on the Skills…]] · Apps and Integrations
+- [[Changes/ChatGPT/2026-07-09-enterprise-and-edu-users-can-find-skills-under-plugins-in-the-sidebar-on-the-ski|Skills are now generally available]] · Apps and Integrations · Launch
 <!-- chronolog:end -->

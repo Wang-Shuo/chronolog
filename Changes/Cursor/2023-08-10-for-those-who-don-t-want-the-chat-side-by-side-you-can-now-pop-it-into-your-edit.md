@@ -5,8 +5,8 @@ description: 'Cursor · 2023-08-10 · Editor Experience: For those who don''t wa
   chat side-by-side, you can now pop it into your editor! We''ve also fixed a number
   of bugs.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 149
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: e2ce824be0c19dce8485f04da549730d24140b97ba08805458570025803b0c0a
+kind: change
+machine_hash: 2625ce4baaf55d71a2b73426541d7eeab7887dc90810c92ae12999cc90f7aa7a
 product: cursor
 product_name: Cursor
 record:
@@ -30,34 +31,33 @@ record:
   - quote: For those who don't want the chat side-by-side, you can now pop it into
       your editor! We've also fixed a number of bugs.
     source_release: https://cursor.com/changelog/0-7-0
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: for-those-who-don-t-want-the-chat-side-by-side-you-can-now-pop-it-into-your-edit
   source_release: cursor-2023-08-10-0-7-0-https-cursor-com-changelog-0-7-0-c14eff8e
   source_type: cursor_changelog
   theme: editor-experience
-  title: For those who don't want the chat side-by-side, you can now pop it into your
-    editor!
+  title: In-editor chat
   type: change
 related_changes:
+- '[[Changes/Cursor/2023-07-19-a-better-flow-for-getting-cmd-k-to-produce-code-with-no-linter-errors-you-should-8eb878|A
+  better flow for getting CMD-k to produce code with no linter errors…]]'
+- '[[Changes/Cursor/2023-07-22-cmd-k-can-again-see-all-of-your-cells-in-jupyter|Jupyter
+  CMD-k Context Building]]'
 - '[[Changes/Cursor/2023-07-27-experimental-codebase-support-in-the-chat-and-coming-to-the-cmd-k-soon|Experimental
   @Codebase support in the chat (and coming to the cmd-k soon!)]]'
-- '[[Changes/Cursor/2023-07-28-but-copilot-can-be-slow-and-sometimes-just-not-smart-enough-so-we-re-trying-to-s|But
-  copilot can be slow and sometimes just not smart enough :(]]'
-- '[[Changes/Cursor/2023-07-28-we-know-that-sometimes-all-of-us-want-copilot-to-write-an-entire-function-or-a-b|We
-  know that sometimes all of us want copilot to write an entire function or a big…]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-10-0-7-0-https-cursor-com-changelog-0-7-0-c14eff8e|cursor-2023-08-10-0-7-0-https-cursor-com-changelog-0-7-0-c14eff8e]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: For those who don't want the chat side-by-side, you can now pop it into your
-  editor!
+title: In-editor chat
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# For those who don't want the chat side-by-side, you can now pop it into your editor!
+# In-editor chat
 
 **Cursor** · 2023-08-10 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://cursor.com/changelog/0-7-0) · from [[Releases/Cursor/cursor-2023-08-10-0-7-0-https-cursor-com-changelog-0-7-0-c14eff8e|In-editor chat]]
 <!-- chronolog:end -->
@@ -75,14 +75,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-07-28 · Cursor · [[Changes/Cursor/2023-07-28-we-know-that-sometimes-all-of-us-want-copilot-to-write-an-entire-function-or-a-b|We know that sometimes all of us want copilot to write an entire function or a big…]]
-- Later: 2023-08-10 · Cursor · [[Changes/Cursor/2023-08-10-cmd-k-now-has-a-fast-mode-it-is-about-1-second-faster-and-we-re-working-on-makin|Cmd-K now has a fast mode!]]
+- Earlier: 2023-07-27 · Cursor · [[Changes/Cursor/2023-07-27-experimental-codebase-support-in-the-chat-and-coming-to-the-cmd-k-soon|Experimental @Codebase support in the chat (and coming to the cmd-k soon!)]]
+- Later: 2023-08-10 · Cursor · [[Changes/Cursor/2023-08-10-cmd-k-now-has-a-fast-mode-it-is-about-1-second-faster-and-we-re-working-on-makin|Cmd-K fast mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

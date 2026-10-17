@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: f88bb1f86814eab10ca231880a6c497562bcc8da4d29f368f40cae294397e6d5
+machine_hash: d27e7d3a7114560b822e9bca03b117f9a9d3e7c676720d589d3ba9840db23b2a
 product: cursor
 product_name: Cursor
 record:
@@ -52,6 +52,7 @@ related_changes:
   brings Bugbot for code review, a first look at memories, one-click MCP setup…]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Since we released Background Agent, our remote coding agent, in early access
   a few…

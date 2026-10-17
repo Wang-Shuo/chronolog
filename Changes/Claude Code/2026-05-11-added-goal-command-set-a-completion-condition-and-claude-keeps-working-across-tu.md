@@ -5,8 +5,8 @@ description: 'Claude Code · 2026-05-11 · Apps and Integrations: Added `/goal` 
   set a completion condition and Claude keeps working across turns until it''s met.
   Works…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1145
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f97529a5d847a1039ceebe88ddcde7d2ac7338b2162b86cba495ed80bbe19c5e
+kind: change
+machine_hash: bbf0e0df4a8d2edd36faa317502c7218c6f5b7e1f396798af336620fbaf9f109
 product: claude-code
 product_name: Claude Code
 record:
@@ -32,8 +33,9 @@ record:
       across turns until it''s met. Works in interactive, `-p`, and Remote Control.
       Shows live elapsed/turns/tokens as an overlay panel'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.139
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-goal-command-set-a-completion-condition-and-claude-keeps-working-across-tu
@@ -53,12 +55,12 @@ record:
   title: Added `/goal` command
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-06-added-plugin-url-url-flag-to-fetch-a-plugin-zip-archive-from-a-url-for-the-curre|Added
-  --plugin-url url flag to fetch a plugin .zip archive from a URL…]]'
-- '[[Changes/Claude Code/2026-05-07-hooks-now-receive-the-active-effort-level-via-the-effort-level-json-input-field|Hooks
-  now receive the active effort level via the effort.level JSON input field…]]'
-- '[[Changes/Claude Code/2026-05-11-added-claude-plugin-details-name-to-show-a-plugin-s-component-inventory-and-proj|Added
-  claude plugin details name to show a plugin''s component inventory…]]'
+- '[[Changes/Claude Code/2026-05-07-2-apps-and-integrations-changes-in-v2-1-133|2
+  Apps and Integrations changes in v2.1.133]]'
+- '[[Changes/Cursor/2026-05-07-made-mcp-connection-behavior-more-predictable-and-added-explicit-stale-token-cle|Made
+  MCP connection behavior more predictable, and added explicit stale token…]]'
+- '[[Changes/Claude Code/2026-05-08-changed-plugin-marketplace-removal-key-to-d-matching-delete-elsewhere-instead-of|Changed
+  plugin marketplace removal key to d (matching delete elsewhere) instead…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'
 source_type: github_releases
 theme: apps-integrations
@@ -81,23 +83,28 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-05-11-added-claude-plugin-details-name-to-show-a-plugin-s-component-inventory-and-proj|Added claude plugin details name to show a plugin's component inventory…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-05-11-added-agent-view-research-preview-a-single-list-of-every-claude-code-session-run|Added agent view (Research Preview)]] · Agent Mode
+- [[Changes/Claude Code/2026-05-11-fixed-skill-name-permission-rules-the-wildcard-form-now-works-as-a-prefix-match|Fixed Skill(name ) permission rules]] · Safety and Privacy
+- [[Changes/Claude Code/2026-05-11-added-hook-args-string-field-exec-form-that-spawns-the-command-directly-without|Added hook args: string field (exec form) that spawns the command directly…]] · Developer Workflow
+- [[Changes/Claude Code/2026-05-11-context-all-per-skill-token-estimates-now-account-for-the-model-s-tokenizer-and|/context all per-skill token estimates now account for the model's tokenizer…]] · Context Window
+- [[Changes/Claude Code/2026-05-11-8-apps-and-integrations-changes-in-v2-1-139|8 Apps and Integrations changes in v2.1.139]] · Apps and Integrations
+- [[Changes/Claude Code/2026-05-11-compaction-prompt-now-asks-the-model-to-preserve-sensitive-user-instructions|Compaction prompt now asks the model to preserve sensitive user instructions]] · Model Support
+- [[Changes/Claude Code/2026-05-11-vscode-press-cmd-ctrl-shift-t-to-reopen-the-most-recently-closed-session-tab-con|VSCode Press Cmd/Ctrl+Shift+T to reopen the most recently closed session tab…]] · Editor Experience
 - [[Changes/Claude Code/2026-05-11-added-scroll-speed-command-to-tune-mouse-wheel-scroll-speed-with-a-live-preview|Added /scroll-speed command to tune mouse wheel scroll speed with a live preview]] · Reliability and Performance
+- [[Changes/Claude Code/2026-05-11-2-agent-mode-changes-in-v2-1-139|2 Agent Mode changes in v2.1.139]] · Agent Mode
 - [[Changes/Claude Code/2026-05-11-added-transcript-view-navigation-for-keyboard-shortcuts-to-jump-between-user-pro|Added transcript view navigation]] · Interface Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-07 · Claude Code · [[Changes/Claude Code/2026-05-07-hooks-now-receive-the-active-effort-level-via-the-effort-level-json-input-field|Hooks now receive the active effort level via the effort.level JSON input field…]]
+- Earlier: 2026-05-08 · Claude Code · [[Changes/Claude Code/2026-05-08-changed-plugin-marketplace-removal-key-to-d-matching-delete-elsewhere-instead-of|Changed plugin marketplace removal key to d (matching delete elsewhere) instead…]]
 - Later: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-get-started-by-installing-the-integration-in-the-cursor-dashboard-learn-more-in|Get started by installing the integration in the Cursor dashboard]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

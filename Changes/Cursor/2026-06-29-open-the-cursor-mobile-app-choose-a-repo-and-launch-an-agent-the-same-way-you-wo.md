@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: b540ac8de613f3ec5130cc3ca7e1959a188d76d8856bd9eb3d9d3f45b75fa8f8
+machine_hash: 983f577dc7f8672e1eab8eb9226b5afb91d8421294d04096619c537e8eb821c4
 product: cursor
 product_name: Cursor
 record:
@@ -73,6 +73,7 @@ related_changes:
   voice mode on Linux]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-29-3-9-https-cursor-com-changelog-ios-mobile-app-d7278607|cursor-2026-06-29-3-9-https-cursor-com-changelog-ios-mobile-app-d7278607]]'
 source_type: cursor_changelog
+superseded: true
 theme: voice
 title: Open the Cursor mobile app, choose a repo, and launch an agent the same way
   you…

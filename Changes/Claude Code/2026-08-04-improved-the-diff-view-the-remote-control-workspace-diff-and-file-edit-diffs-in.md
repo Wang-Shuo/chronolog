@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: cb8da17ff95c8db9e4959e7fbe3bf9c61ead6de678205f64bb9f1e399805d405
+machine_hash: ae4c9cd0a8dc144bdba80fc588be7a911b860ef8214968f255147a7527b37c37
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,6 +54,7 @@ related_changes:
   warnings to claude plugin validate when a marketplace or plugin name would…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-222-github-365137491-9ea4d4a2|claude-code-2026-08-04-v2-1-222-github-365137491-9ea4d4a2]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Improved the /diff view, the Remote Control workspace diff, and file-edit diffs…
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7dde4e6a98c5eed408ad07df4ea8e71f5b1e5e7a046800f5a35bc6e03c9761a6
+machine_hash: 0f52b1a5eee8c650c27e7552cad854a982505802f8c77b074573a9656b799003
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   auto mode safety]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b|claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: 'Added teammateMode: "iterm2" setting with a warning when auto mode cannot
   find…'

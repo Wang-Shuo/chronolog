@@ -4,19 +4,19 @@ date: '2025-11-25'
 description: 'ChatGPT · 2025-11-25 · Collaboration: Share photos to discuss them out
   loud'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
-    can also share private docs]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 809
+  lag_days: 916
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f2fef3f314712b3af99e76a52d7b6614cb0149ad1512d823d42fe385acb67ee0
+kind: change
+machine_hash: f9865392f62bbe65f49bc1ed8d5878268a4b52e42c226cee3b5cc5b8a5e1ee3c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,8 +28,9 @@ record:
   evidence:
   - quote: Share photos to discuss them out loud
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: share-photos-to-discuss-them-out-loud
@@ -41,12 +42,9 @@ record:
   title: Share photos to discuss them out loud
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-11-pro-microsoft-teams-and-github|Pro: Microsoft Teams
-  and GitHub]]'
-- '[[Changes/ChatGPT/2025-08-11-plus-box-canva-dropbox-hubspot-notion-microsoft-sharepoint-and-microsoft-teams|Plus:
-  Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and Microsoft Teams]]'
-- '[[Changes/ChatGPT/2025-10-23-content-creation-apply-project-specific-instructions-to-keep-tone-and-style-cons|Content
-  creation: Apply project-specific instructions to keep tone and style…]]'
+- '[[Changes/Cursor/2025-10-29-shareable-team-commands|Shareable Team Commands]]'
+- '[[Changes/Cursor/2025-10-29-audit-log|Audit Log]]'
+- '[[Changes/Cursor/2025-10-29-team-commands|Team Commands]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37|chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -69,23 +67,20 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2025-11-25-type-back-when-you-can-t-talk-and-still-get-a-voice-response|Type back when you can’t talk and still get a Voice response]] · Voice and Audio
-- [[Changes/ChatGPT/2025-11-25-follow-along-with-typed-answers-as-you-listen|Follow along with typed answers as you listen]] · Voice and Audio
-- [[Changes/ChatGPT/2025-11-25-we-re-making-chatgpt-voice-a-seamless-part-of-the-chatgpt-experience-so-you-can-daf32e|We’re making ChatGPT Voice a seamless part of the ChatGPT experience, so you can use…]] · Voice and Audio
-- [[Changes/ChatGPT/2025-11-25-refer-back-to-earlier-messages-without-interrupting-the-conversation|Refer back to earlier messages without interrupting the conversation]] · Voice and Audio
+- [[Changes/ChatGPT/2025-11-25-we-re-making-chatgpt-voice-a-seamless-part-of-the-chatgpt-experience-so-you-can-2bc316|We’re making ChatGPT Voice a seamless part of the ChatGPT experience, so you can use…]] · Voice and Audio
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-10-23 · ChatGPT · [[Changes/ChatGPT/2025-10-23-content-creation-apply-project-specific-instructions-to-keep-tone-and-style-cons|Content creation: Apply project-specific instructions to keep tone and style…]]
-- Later: 2025-12-18 · Cursor · [[Changes/Cursor/2025-12-18-you-can-now-share-agent-conversations-with-your-team|Share agent conversations with your team]]
+- Earlier: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-team-commands|Team Commands]]
+- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-added-team-and-mdm-hooks-support-to-cli-with-more-efficient-execution|Added team and MDM hooks support to CLI with more efficient execution]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

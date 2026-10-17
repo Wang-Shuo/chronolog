@@ -15,9 +15,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: cec7121b8ab8aa1834c5f92363dcb6bbb5a93f0f04e966cf04356b2d57c3fa28
+kind: change
+machine_hash: bfe96c3b70cd0a4b0ae8eec9c9b84c7529213e2a023a4b5344e47048dac1df6f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,8 +34,9 @@ record:
       desktop app and iOS when you use the same Codex account. Android is not included
       in this release. Learn more about organizing projects and chats.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: keep-pinned-chats-in-sync-pinned-chats-now-stay-in-sync-between-the-chatgpt-desk
@@ -44,8 +46,8 @@ record:
   title: Keep pinned chats in sync
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-14-practice-with-interactive-quizzes-ask-chatgpt-to-quiz-you-on-a-topic-and-answer|Practice
-  with interactive quizzes]]'
+- '[[Changes/ChatGPT/2026-08-14-use-chatgpt-and-codex-on-linux-the-desktop-app-is-now-available-globally-in-publ|Use
+  ChatGPT and Codex on Linux]]'
 - '[[Changes/Claude Code/2026-08-19-added-notify-when-idle-to-cross-session-sendmessage-ask-another-claude-code-sess|Added
   notify_when_idle to cross-session SendMessage]]'
 - '[[Changes/ChatGPT/2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee|Use
@@ -81,7 +83,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-added-notify-when-idle-to-cross-session-sendmessage-ask-another-claude-code-sess|Added notify_when_idle to cross-session SendMessage]]
-- Later: 2026-08-21 · ChatGPT · [[Changes/ChatGPT/2026-08-21-available-in-the-chatgpt-app-for-android-version-1-2026-216-or-later|Available in the ChatGPT app for Android, version 1.2026.216 or later]]
+- Later: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-improved-startup-bare-claude-starts-sooner-on-macos|Improved startup: bare claude starts sooner on macOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

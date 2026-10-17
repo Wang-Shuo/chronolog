@@ -14,9 +14,10 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: ab727cc5e8f59d6161c62e918d1771813f3eed05e931e2c3b6f753814d43707b
+kind: change
+machine_hash: ee46d982f158d0d98076e48c52bdfe41a9c16ac8b9985637847c16bee0d8f179
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added a startup notice when MCP servers need authentication, pointing at
       `/mcp`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.193
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-a-startup-notice-when-mcp-servers-need-authentication-pointing-at-mcp
@@ -51,10 +53,10 @@ record:
     `/mcp`
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-22-added-claude-mcp-login-name-and-claude-mcp-logout-name-to-authenticate-mcp-serve|Added
-  claude mcp login name and claude mcp logout name to authenticate MCP…]]'
-- '[[Changes/Claude Code/2026-06-22-added-claude-platform-on-aws-refresh-credentials-option-to-login-when-awsauthref|Added
-  "Claude Platform on AWS - refresh credentials" option to /login…]]'
+- '[[Changes/Claude Code/2026-06-17-improved-the-mcp-oauth-browser-page-to-match-claude-code-s-visual-style-and-auto|Improved
+  the MCP OAuth browser page to match Claude Code''s visual style…]]'
+- '[[Changes/Claude Code/2026-06-22-2-account-and-access-changes-in-v2-1-186|2 Account
+  and Access changes in v2.1.186]]'
 - '[[Changes/Claude Code/2026-06-24-improved-mcp-oauth-discovery-and-token-requests-now-retry-once-after-transient-n|Improved
   MCP OAuth]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-25-v2-1-193-github-344922230-0655000d|claude-code-2026-06-25-v2-1-193-github-344922230-0655000d]]'
@@ -79,17 +81,18 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-06-25-added-auto-mode-denial-reasons-to-the-transcript-the-denial-toast-and-permission|Added auto-mode denial reasons to the transcript, the denial toast…]] · Agent Mode
+- [[Changes/Claude Code/2026-06-25-2-apps-and-integrations-changes-in-v2-1-193|2 Apps and Integrations changes in v2.1.193]] · Apps and Integrations
 - [[Changes/Claude Code/2026-06-25-added-live-file-path-autocomplete-to-bash-mode|Added live file path autocomplete to bash mode (!)]] · Editor Experience
 - [[Changes/Claude Code/2026-06-25-added-claude-code-assistant-response-opentelemetry-log-event-containing-the-mode|Added claude_code.assistant_response OpenTelemetry log event containing…]] · Model Support
-- [[Changes/Claude Code/2026-06-25-added-automode-classifyallshell-setting-to-route-all-bash-powershell-commands-th|Added autoMode.classifyAllShell setting to route all Bash/PowerShell commands…]] · Agent Mode
+- [[Changes/Claude Code/2026-06-25-added-automatic-memory-pressure-reaping-for-idle-background-shell-commands-disab|Added automatic memory-pressure reaping for idle background shell commands…]] · Reliability and Performance
+- [[Changes/Claude Code/2026-06-25-3-agent-mode-changes-in-v2-1-193|3 Agent Mode changes in v2.1.193]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
 - Earlier: 2026-06-24 · Claude Code · [[Changes/Claude Code/2026-06-24-improved-mcp-oauth-discovery-and-token-requests-now-retry-once-after-transient-n|Improved MCP OAuth]]
-- Later: 2026-07-06 · ChatGPT · [[Changes/ChatGPT/2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-globally-from-a-sidebar-in-mic|ChatGPT for PowerPoint is now generally available globally]]
+- Later: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-login-now-opens-the-sign-in-dialog-from-the-claude-agents-view-instead-of-saying|/login now opens the sign-in dialog from the claude agents view instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

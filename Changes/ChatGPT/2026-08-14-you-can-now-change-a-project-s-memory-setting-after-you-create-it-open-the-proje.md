@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 415b4c2841b8b0e815fb7f64944001f4dc78c9ab4f2e056551542ad5ff17ffbb
+machine_hash: bdba197cec6d15c914eddca5fb70ecb86c7a2ce40e4022af2e3e4f4f19fdf5c6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,6 +60,7 @@ related_changes:
   update is available on all ChatGPT plans]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-14-edit-memory-settings-for-existing-projects-db366858|chatgpt-2026-08-14-edit-memory-settings-for-existing-projects-db366858]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: memory
 title: Change a project’s memory setting after you create it
 type: change

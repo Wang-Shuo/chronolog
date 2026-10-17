@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f7fe47c5ee99574a14dbcf5e7f4df520ebdc95f489e854f4124ee668e4489999
+machine_hash: 04f627ffef89a8b263f745d3051c97e41909141a54940166dc42c4e96b799d86
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,6 +63,7 @@ related_changes:
   images will continue to appear in the Images tab]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba|chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: mobile-desktop
 title: On iOS and Android, you can find the picker at the top of the conversation
 type: change

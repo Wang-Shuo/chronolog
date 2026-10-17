@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 59980aa8b313aedaec22ec844bd429308c08e29ff7f0333933dbe3befd46370b
+machine_hash: bc8e8edf20241ecfca7b2ab8d1bac7129c14b38e1ca8a582c75a668b49eb9188
 product: cursor
 product_name: Cursor
 record:
@@ -62,6 +62,7 @@ related_changes:
   /skill-doctor to show which loaded skills go unused and what they cost…]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75|cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: Cursor launches Projects
 type: change

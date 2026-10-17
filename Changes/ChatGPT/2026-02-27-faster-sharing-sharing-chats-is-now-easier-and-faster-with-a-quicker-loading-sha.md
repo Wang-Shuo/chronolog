@@ -14,9 +14,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: aab4d3959f196623a3298c9c9d3aaacda20f4343eca7be6e1ef0b8e5dcbed022
+kind: change
+machine_hash: 9533551ca1dba3ef288c94003841bf2aaaf4548dc367ce90e8f96e0d88f2b8d4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,10 +31,12 @@ record:
   - quote: Faster sharing. Sharing chats is now easier and faster, with a quicker-loading
       share menu.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
+  scope: Web
   slug: faster-sharing-sharing-chats-is-now-easier-and-faster-with-a-quicker-loading-sha
   source_release: chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c
   source_type: chatgpt_changelog
@@ -56,12 +59,13 @@ record:
     share menu
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-19-improved-performance-in-non-interactive-mode-p-by-skipping-unnecessary-api-calls|Improved
-  performance in non-interactive mode (-p) by skipping unnecessary API…]]'
-- '[[Changes/Claude Code/2026-02-20-improved-memory-usage-during-long-sessions-by-clearing-internal-caches-after-com|Improved
-  memory usage during long sessions by clearing internal caches after compaction]]'
+- '[[Changes/Claude Code/2026-02-19-2-reliability-and-performance-changes-in-v2-1-49|2
+  Reliability and Performance changes in v2.1.49]]'
+- '[[Changes/Claude Code/2026-02-20-3-reliability-and-performance-changes-in-v2-1-50|3
+  Reliability and Performance changes in v2.1.50]]'
 - '[[Changes/Claude Code/2026-02-26-improved-memory-usage-in-multi-agent-sessions-by-releasing-completed-subagent-ta|Improved
   memory usage in multi-agent sessions by releasing completed subagent task state]]'
+scope: Web
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
@@ -73,7 +77,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Faster sharing. Sharing chats is now easier and faster, with a quicker-loading share menu
 
-**ChatGPT** · 2026-02-27 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|ChatGPT Web and Android updates: Edit image prompts, share faster, and smoother conversations]]
+**ChatGPT** · 2026-02-27 · [[Themes/reliability-performance|Reliability and Performance]] · Web · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|ChatGPT Web and Android updates: Edit image prompts, share faster, and smoother conversations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -87,7 +91,10 @@ type: change
 
 - [[Changes/ChatGPT/2026-02-27-automatic-scroll-to-latest-message-existing-conversations-now-automatically-scro|Automatic scroll to latest message]] · Interface Experience
 - [[Changes/ChatGPT/2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results|Open search results in a new tab]] · Search and Browsing
+- [[Changes/ChatGPT/2026-02-27-improved-dictation-visuals-dictation-now-has-a-clearer-more-streamlined-interfac|Improved dictation visuals]] · Voice and Audio
+- [[Changes/ChatGPT/2026-02-27-sidebar-actions-on-mobile-web-no-longer-stick-while-scrolling|Sidebar actions on mobile web no longer stick while scrolling]] · Mobile and Desktop
 - [[Changes/ChatGPT/2026-02-27-export-visuals-from-code-blocks-flowcharts-diagrams-and-data-visualizations-crea|Export visuals from Code Blocks]] · Files and Data
+- [[Changes/ChatGPT/2026-02-27-faster-sidebar-actions-sidebar-interactions-such-as-renaming-chats-are-now-faste|Faster sidebar actions]] · Interface Experience
 - [[Changes/ChatGPT/2026-02-27-edit-messages-with-images-you-can-now-edit-messages-that-include-image-attachmen|Edit messages with images]] · Editor Experience
 <!-- chronolog:end -->
 
@@ -95,7 +102,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-02-26 · Claude Code · [[Changes/Claude Code/2026-02-26-improved-memory-usage-in-multi-agent-sessions-by-releasing-completed-subagent-ta|Improved memory usage in multi-agent sessions by releasing completed subagent task state]]
-- Later: 2026-03-06 · Claude Code · [[Changes/Claude Code/2026-03-06-reduced-prompt-input-re-renders-during-turns-by-74|Reduced prompt input re-renders during turns by ~74%]]
+- Later: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-improved-memory-usage-in-long-sessions-with-subagents-by-stripping-heavy-progres|Improved memory usage in long sessions with subagents by stripping heavy progress…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

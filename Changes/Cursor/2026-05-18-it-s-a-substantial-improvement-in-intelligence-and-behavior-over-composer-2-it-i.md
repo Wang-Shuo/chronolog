@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: adbb09d4bf17d40ea733e476379304be88ce2b2a5c6c47028878483fe8cf2a76
+kind: change
+machine_hash: f795a3ce75b5efa482c60f6648491892e7645da9af9107f99e87b11b6f1e75a9
 product: cursor
 product_name: Cursor
 record:
@@ -32,8 +33,9 @@ record:
       2. It is better at sustained work on long-running tasks, follows complex instructions
       more reliably, and is more pleasant to collaborate with.
     source_release: https://cursor.com/changelog/composer-2-5
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: it-s-a-substantial-improvement-in-intelligence-and-behavior-over-composer-2-it-i
@@ -46,10 +48,10 @@ record:
     2
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-14-fast-mode-now-uses-opus-4-7-by-default-previously-opus-4-6-set-claude-code-opus|Fast
-  mode now uses Opus 4.7 by default (previously Opus 4.6)]]'
-- '[[Changes/Claude Code/2026-05-15-background-sessions-now-preserve-the-model-and-effort-level-you-set-after-waking|Background
-  sessions now preserve the model and effort level you set after waking from idle]]'
+- '[[Changes/Claude Code/2026-05-14-2-model-support-changes-in-v2-1-142|2 Model Support
+  changes in v2.1.142]]'
+- '[[Changes/Claude Code/2026-05-15-2-model-support-changes-in-v2-1-143|2 Model Support
+  changes in v2.1.143]]'
 - '[[Changes/Cursor/2026-05-18-composer-2-5-includes-double-usage-for-the-first-week-see-our-model-docs-for-ful|Composer
   2.5 includes double usage for the first week]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1|cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1]]'
@@ -83,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-background-sessions-now-preserve-the-model-and-effort-level-you-set-after-waking|Background sessions now preserve the model and effort level you set after waking from idle]]
-- Later: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-skills-and-slash-commands-can-now-set-disallowed-tools-in-frontmatter-to-remove|Skills and slash commands can now set disallowed-tools in frontmatter to remove…]]
+- Earlier: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-2-model-support-changes-in-v2-1-143|2 Model Support changes in v2.1.143]]
+- Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-resumed-sessions-now-keep-the-model-they-were-using-instead-of-picking-up-anothe|Resumed sessions now keep the model they were using instead of picking up another…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

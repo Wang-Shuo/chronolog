@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: d8e96af335236edad3f6f8caf76cdf7e763b6ddea08f71f7d143421248c1354e
+machine_hash: 6fc5474bb7e50fe37b678d18065cb08f0de7546082ef77f3752c5e60b6d11f7a
 product: cursor
 product_name: Cursor
 record:
@@ -48,6 +48,7 @@ related_changes:
   into Cursor]]'
 source_release: '[[Releases/Cursor/cursor-2024-05-26-0-34-x-https-cursor-com-changelog-0-34-x-a468f0bc|cursor-2024-05-26-0-34-x-https-cursor-com-changelog-0-34-x-a468f0bc]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: New Cursor Prediction UI
 type: change

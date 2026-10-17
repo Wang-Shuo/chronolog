@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-08-25'
 description: 'ChatGPT release ChatGPT Work can now complete tasks on signed-in websites
   on 2026-08-25: 1 tracked change across Account and Access'
-machine_hash: e737ef917541e0570887f2dc3122a8a43ded147ea4e9fbd4505754fb300950b5
+machine_hash: fa90c611e190a07537e777725a4b8f7a4b3536837f76f1a1601e96e59c9f787a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,10 +40,10 @@ version: ChatGPT Work can now complete tasks on signed-in websites
 <!-- chronolog:begin region="summary" -->
 ChatGPT Work’s browser on web and mobile can also help you get tasks done on some websites that require you to sign in—so you can hand off a task and step away while it keeps working.
 
-Tracked 1 of 9 candidate lines.
+Tracked 1 card from 9 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-08-25-chatgpt-work-s-browser-on-web-and-mobile-can-also-help-you-get-tasks-done-on-som|ChatGPT Work’s browser on web and mobile can also help you get tasks done on some…]] · Account and Access
+- [[Changes/ChatGPT/2026-08-25-chatgpt-work-s-browser-on-web-and-mobile-can-also-help-you-get-tasks-done-on-som-99be54|ChatGPT Work can now complete tasks on signed-in websites]] · Account and Access
 <!-- chronolog:end -->

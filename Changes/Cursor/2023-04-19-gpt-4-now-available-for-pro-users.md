@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 62de36d05e5ead93f8a73eb96e12837278b10675c130ad4bb81fc391b7b2be7e
+machine_hash: 3305019e0c4a2b6933c8cd22b3a3028a0e2ca3f3450ef918f976c5ba5ab0f8fd
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   all AI features]]'
 source_release: '[[Releases/Cursor/cursor-2023-04-19-0-2-6-https-cursor-com-changelog-0-2-6-a339bef2|cursor-2023-04-19-0-2-6-https-cursor-com-changelog-0-2-6-a339bef2]]'
 source_type: cursor_changelog
+superseded: true
 theme: model-support
 title: GPT-4 now available for Pro users
 type: change

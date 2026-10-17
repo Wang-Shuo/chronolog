@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 66da56bc0ef7cc2bb66a1bcd2b4c7ef710a0566159cc3e35b75d7afff2335703
+kind: change
+machine_hash: 1b8b7e8067f64954b689b1e6d806b529771623fe1fede79d44560172df3dd41d
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   - quote: This update patches search (Cmd/Win+Shift+F) and many extensions for and
       WSL and SSH users.
     source_release: https://cursor.com/changelog/0-2-47
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: this-update-patches-search-cmd-win-shift-f-and-many-extensions-for-and-wsl-and-s
@@ -40,12 +42,11 @@ record:
     WSL and SSH users
   type: change
 related_changes:
+- '[[Changes/Cursor/2023-06-17-the-ai-linter-now-shows-diffs|Diffs in AI linter feedback]]'
 - '[[Changes/Cursor/2023-06-24-chat-was-failing-on-some-non-git-folders-that-is-now-fixed|Chat
   was failing on some non-git folders]]'
-- '[[Changes/Cursor/2023-06-27-you-can-now-use-run-debug-in-cursor-again-the-toolbar-is-back|Use
+- '[[Changes/Cursor/2023-06-27-you-can-now-use-run-debug-in-cursor-again-the-toolbar-is-back-db8146|Use
   Run & debug in Cursor again (the toolbar is back)]]'
-- '[[Changes/Cursor/2023-06-27-early-support-for-slash-commands|Early support for
-  slash commands]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-12-0-2-47-https-cursor-com-changelog-0-2-47-ee6b4a57|cursor-2023-07-12-0-2-47-https-cursor-com-changelog-0-2-47-ee6b4a57]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -73,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-06-27 · Cursor · [[Changes/Cursor/2023-06-27-early-support-for-slash-commands|Early support for slash commands]]
+- Earlier: 2023-06-27 · Cursor · [[Changes/Cursor/2023-06-27-you-can-now-use-run-debug-in-cursor-again-the-toolbar-is-back-db8146|Use Run & debug in Cursor again (the toolbar is back)]]
 - Later: 2023-07-27 · Cursor · [[Changes/Cursor/2023-07-27-linter-is-back|Linter is back!]]
 <!-- chronolog:end -->
 

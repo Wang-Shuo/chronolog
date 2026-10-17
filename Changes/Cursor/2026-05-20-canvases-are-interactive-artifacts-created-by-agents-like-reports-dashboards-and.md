@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: aaf25dc19edd718d7025b2e30f81aba4767ef0602c125eecd1eb2cd580d12e39
+machine_hash: 8364f5d70716f911e06ddb5cc4536dadd96be3bbedc60230a014523fe20afb2b
 product: cursor
 product_name: Cursor
 record:
@@ -64,6 +64,7 @@ related_changes:
   starting to roll out a new personal finance experience in ChatGPT]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da|cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da]]'
 source_type: cursor_changelog
+superseded: true
 theme: file-data
 title: Canvases are interactive artifacts created by agents, like reports, dashboards…
 type: change

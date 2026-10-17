@@ -1,10 +1,10 @@
 ---
-changes_count: 3
+changes_count: 4
 date: '2023-05-24'
 description: 'ChatGPT release iOS app available in more countries, shared links in
-  alpha, Bing Plugin, disable history on iOS on 2023-05-24: 3 tracked changes across
+  alpha, Bing Plugin, disable history on iOS on 2023-05-24: 4 tracked changes across
   Mobile…'
-machine_hash: 616930754ca851fc93e8c62eb51c86875dd580cdf01713a71fd40df0a7d292be
+machine_hash: 5fb974e9fdc5a6a660741172c941452ca979541037b41695e330583b64d628c5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,12 +44,13 @@ version: iOS app available in more countries, shared links in alpha, Bing Plugin
 <!-- chronolog:begin region="summary" -->
 ChatGPT app for iOS in more countries
 
-Tracked 3 of 7 candidate lines.
+Tracked 4 cards from 7 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f|ChatGPT expands availability of the ChatGPT app for iOS to more countries and regions]] · Mobile and Desktop
-- [[Changes/ChatGPT/2023-05-24-you-can-now-disable-your-chat-history-on-ios-conversations-started-on-your-devic|Disable your chat history on iOS]] · Mobile and Desktop
-- [[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|Browse with Bing]] · Search and Browsing
+- [[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f|ChatGPT app for iOS in more countries]] · Mobile and Desktop · Launch
+- [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]] · Collaboration · Launch
+- [[Changes/ChatGPT/2023-05-24-you-can-now-disable-your-chat-history-on-ios-conversations-started-on-your-devic|Disable chat history on iOS]] · Mobile and Desktop · Launch
+- [[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|Bing Plugin]] · Apps and Integrations · Launch
 <!-- chronolog:end -->

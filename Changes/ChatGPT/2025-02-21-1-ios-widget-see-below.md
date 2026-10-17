@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f6086cc0ff4fc9a1d66df1d4a6b3ea2ed6195310a82adde7f4a6e1a6220a6d82
+machine_hash: 9da4df35657c75a4e5b417e282f0e457e7e86cdc4474f5aed1731a07b4567dec
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,6 +44,7 @@ related_changes:
   launch animations and composer design on Android]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-21-1-6b86b273|chatgpt-2025-02-21-1-6b86b273]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: mobile-desktop
 title: iOS widget (see below)
 type: change

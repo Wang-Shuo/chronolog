@@ -5,8 +5,8 @@ description: 'ChatGPT · 2023-11-06 · Apps and Integrations: You can now create
   versions of ChatGPT that combine instructions, extra knowledge, and any combination
   of…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 228
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 7b1276938b1fe4ce8e126168631ae97c6bab165ab1e1457ae735e957a8956b03
+kind: launch
+machine_hash: 37a8c489d1aaae9d1627d39abdf5be505900894225e23aeded262ff7ef9309fe
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,8 +49,9 @@ record:
       launch the GPT Store, so people can feature and make money from their GPTs.
       We plan to offer GPTs to more users soon.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: launch
   product: chatgpt
   product_name: ChatGPT
   slug: you-can-now-create-custom-versions-of-chatgpt-that-combine-instructions-extra-kn
@@ -58,26 +60,26 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Create custom versions of ChatGPT that combine instructions, extra knowledge…
+  title: Introducing GPTs
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-11-we-serve-extensions-now-using-cursor-s-extension-marketplace|We
-  serve extensions now using Cursor''s Extension Marketplace]]'
-- '[[Changes/Cursor/2023-09-17-we-point-to-a-different-marketplace-for-downloading-extensions-and-use-a-fork-of|We
-  point to a different marketplace for downloading extensions, and use a fork…]]'
+- '[[Changes/Cursor/2023-09-11-we-serve-extensions-now-using-cursor-s-extension-marketplace|Cursor
+  Marketplace]]'
+- '[[Changes/Cursor/2023-09-17-we-point-to-a-different-marketplace-for-downloading-extensions-and-use-a-fork-of|Cursor
+  Python and Cursor Marketplace]]'
 - '[[Changes/Cursor/2023-10-20-cursor-is-now-based-on-vs-code-1-83-1-this-ensures-that-the-newest-versions-of-a|Cursor
   is now based on VS Code 1.83.1]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-11-06-introducing-gpts-3721c457|chatgpt-2023-11-06-introducing-gpts-3721c457]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: Create custom versions of ChatGPT that combine instructions, extra knowledge…
+title: Introducing GPTs
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Create custom versions of ChatGPT that combine instructions, extra knowledge…
+# Introducing GPTs
 
-**ChatGPT** · 2023-11-06 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-11-06-introducing-gpts-3721c457|Introducing GPTs]]
+**ChatGPT** · 2023-11-06 · [[Themes/apps-integrations|Apps and Integrations]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-11-06-introducing-gpts-3721c457|Introducing GPTs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -94,13 +96,13 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2023-10-20 · Cursor · [[Changes/Cursor/2023-10-20-cursor-is-now-based-on-vs-code-1-83-1-this-ensures-that-the-newest-versions-of-a|Cursor is now based on VS Code 1.83.1]]
-- Later: 2023-11-15 · Cursor · [[Changes/Cursor/2023-11-15-now-based-on-vs-code-1-84-2-notably-this-fixes-a-few-notebook-bugs-and-ensures-t|Now based on VS Code 1.84.2]]
+- Later: 2023-11-15 · Cursor · [[Changes/Cursor/2023-11-15-now-based-on-vs-code-1-84-2-notably-this-fixes-a-few-notebook-bugs-and-ensures-t|New upstream]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

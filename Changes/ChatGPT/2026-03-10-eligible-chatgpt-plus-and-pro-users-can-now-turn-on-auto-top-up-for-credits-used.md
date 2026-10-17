@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0dc8dd10c9f66f265ff2299c79c59ccb55d70dc1c56981addc030328f9503dec
+machine_hash: 2b50dff4fd73c699d13d200e2f820dc8a6c5c4570b7fd0ed651206b164b707f0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,6 +57,7 @@ related_changes:
   can manage auto top-up from Codex Settings → Usage Dashboard]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-10-auto-top-up-for-flexible-usage-credits-462c6ddf|chatgpt-2026-03-10-auto-top-up-for-flexible-usage-credits-462c6ddf]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: pricing-model
 title: Eligible ChatGPT Plus and Pro users can now turn on auto top-up for credits
   used…

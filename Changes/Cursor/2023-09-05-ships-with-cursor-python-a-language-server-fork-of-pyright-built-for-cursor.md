@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: a07ab739042b38bb6fdb2a1ea9f7a74e301cf2702a9bc68a760f9b4c97a4345d
+kind: change
+machine_hash: a8061abc1eff54811044410cc36ab6b5cac74f66eb9ea13ca6ec9b0f34436109
 product: cursor
 product_name: Cursor
 record:
@@ -27,32 +28,33 @@ record:
   evidence:
   - quote: Ships with cursor-python, a Language-Server fork of pyright built for Cursor
     source_release: https://cursor.com/changelog/0-9-5-nightly
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: ships-with-cursor-python-a-language-server-fork-of-pyright-built-for-cursor
   source_release: cursor-2023-09-05-0-9-5-nightly-https-cursor-com-changelog-0-9-5-nightly-83383c54
   source_type: cursor_changelog
   theme: developer-workflow
-  title: Ships with cursor-python, a Language-Server fork of pyright built for Cursor
+  title: Cursor-Python LSP
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-08-17-the-cursor-nightly-command-now-works-on-mac|The cursor-nightly
   command now works on Mac]]'
-- '[[Changes/Cursor/2023-08-22-applies-the-patch-from-github-across-all-your-wsl-windows-subsystem-for-linux-di|Applies
-  the patch from Github across all your WSL (Windows Subsystem for Linux)…]]'
-- '[[Changes/Cursor/2023-08-26-we-had-a-big-bug-for-people-on-language-packs-thank-you-to-all-who-helped-us-deb|We
-  had a big bug for people on language packs]]'
+- '[[Changes/Cursor/2023-08-22-applies-the-patch-from-github-across-all-your-wsl-windows-subsystem-for-linux-di|WSL
+  Fixes]]'
+- '[[Changes/Cursor/2023-08-26-we-had-a-big-bug-for-people-on-language-packs-thank-you-to-all-who-helped-us-deb|Bug
+  fix for people on language packs]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-05-0-9-5-nightly-https-cursor-com-changelog-0-9-5-nightly-83383c54|cursor-2023-09-05-0-9-5-nightly-https-cursor-com-changelog-0-9-5-nightly-83383c54]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: Ships with cursor-python, a Language-Server fork of pyright built for Cursor
+title: Cursor-Python LSP
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Ships with cursor-python, a Language-Server fork of pyright built for Cursor
+# Cursor-Python LSP
 
 **Cursor** · 2023-09-05 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://cursor.com/changelog/0-9-5-nightly) · from [[Releases/Cursor/cursor-2023-09-05-0-9-5-nightly-https-cursor-com-changelog-0-9-5-nightly-83383c54|Cursor-Python LSP]]
 <!-- chronolog:end -->
@@ -70,8 +72,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-08-26 · Cursor · [[Changes/Cursor/2023-08-26-we-had-a-big-bug-for-people-on-language-packs-thank-you-to-all-who-helped-us-deb|We had a big bug for people on language packs]]
-- Later: 2023-09-23 · Cursor · [[Changes/Cursor/2023-09-23-never-lets-your-root-directory-be-in-the-gitignore|never lets your root directory be in the gitignore]]
+- Earlier: 2023-08-26 · Cursor · [[Changes/Cursor/2023-08-26-we-had-a-big-bug-for-people-on-language-packs-thank-you-to-all-who-helped-us-deb|Bug fix for people on language packs]]
+- Later: 2023-09-23 · Cursor · [[Changes/Cursor/2023-09-23-never-lets-your-root-directory-be-in-the-gitignore|gitignore and search hotfix]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

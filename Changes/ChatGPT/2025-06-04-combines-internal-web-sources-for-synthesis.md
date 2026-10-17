@@ -14,9 +14,10 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: c5cb11b99c29daab6bbfdc7d5635ad4343a9cd05a7d1d16288daada00199d975
+kind: change
+machine_hash: f8845c1ff593e9f20264d1aeebf1cd2015b2e4b93c983f7fe8595ef3cf72a37a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Combines internal + web sources for synthesis
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: combines-internal-web-sources-for-synthesis
@@ -42,11 +44,11 @@ record:
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-05-12-you-can-now-export-your-deep-research-reports-as-well-formatted-pdfs-complete-wi-87a3fa|Export
-  your deep research reports as well-formatted PDFs—complete with tables…]]'
-- '[[Changes/ChatGPT/2025-05-12-chatgpt-deep-research-with-sharepoint-and-onedrive-is-available-globally-to-team-c5147c|ChatGPT
-  deep research with SharePoint and OneDrive is available globally to Team users]]'
-- '[[Changes/ChatGPT/2025-05-15-chatgpt-deep-research-with-dropbox-is-available-globally-to-team-users-it-is-als-eaf8af|ChatGPT
-  deep research with Dropbox is available globally to Team users]]'
+  Deep Research as PDF for Plus/Pro/Team]]'
+- '[[Changes/ChatGPT/2025-05-12-chatgpt-deep-research-with-sharepoint-and-onedrive-is-available-globally-to-team-c5147c|Microsoft
+  SharePoint and OneDrive connector for deep research for Plus/Pro/Team]]'
+- '[[Changes/ChatGPT/2025-05-15-chatgpt-deep-research-with-dropbox-is-available-globally-to-team-users-it-is-als-eaf8af|Dropbox
+  connector for deep research for Plus/Pro/Team]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-04-connectors-in-beta-for-deep-research-plus-pro-team-enterprise-ed-6bb21f0f|chatgpt-2025-06-04-connectors-in-beta-for-deep-research-plus-pro-team-enterprise-ed-6bb21f0f]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -76,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-05-15 · ChatGPT · [[Changes/ChatGPT/2025-05-15-chatgpt-deep-research-with-dropbox-is-available-globally-to-team-users-it-is-als-eaf8af|ChatGPT deep research with Dropbox is available globally to Team users]]
-- Later: 2025-06-13 · ChatGPT · [[Changes/ChatGPT/2025-06-13-we-ve-upgraded-chatgpt-search-for-all-users-to-provide-even-more-comprehensive-u|We’ve upgraded ChatGPT search for all users to provide even more comprehensive…]]
+- Earlier: 2025-05-15 · ChatGPT · [[Changes/ChatGPT/2025-05-15-chatgpt-deep-research-with-dropbox-is-available-globally-to-team-users-it-is-als-eaf8af|Dropbox connector for deep research for Plus/Pro/Team]]
+- Later: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-link-and-web-search-can-now-parse-pdfs-and-include-in-context|@Link and web search can now parse PDFs and include in context]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

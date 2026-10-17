@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-10-01 · Memory and Personalization: Virtually try
   clothing and accessories: A “Try on” button will appear on product listings for
   clothes and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1169
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 5c25cf816c6120c5c7a3397ad7cfb8cb9e91e8bee3d5c1fa219d95d5236c5bc7
+kind: change
+machine_hash: 4ac2f7ef9f00284db24bb6e4b92c3bf340ecc6d980f51baddafaa7ac5b8ed371
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,8 +37,9 @@ record:
       reference photo is saved for future try-ons. You can change or delete it in
       Settings → Personalization → Reference photos.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: virtually-try-on-clothing-and-accessories-a-try-on-button-will-appear-on-product
@@ -47,12 +49,12 @@ record:
   title: Virtually try on clothing and accessories
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-27-we-re-rolling-out-new-controls-in-temporary-chat-you-can-now-choose-to-personali|ChatGPT
-  rolls out new controls in temporary chat]]'
 - '[[Changes/ChatGPT/2026-09-29-pages-follow-space-s-availability-and-sharing-settings-sharing-a-page-does-not-g|Pages
   follow Space’s availability and sharing settings]]'
-- '[[Changes/ChatGPT/2026-09-29-you-can-use-your-chatgpt-account-to-sign-in-to-participating-products-without-cr|You
-  can use your ChatGPT account to sign in to participating products without…]]'
+- '[[Changes/ChatGPT/2026-09-29-you-can-use-your-chatgpt-account-to-sign-in-to-participating-products-without-cr|Sign
+  in to other products with ChatGPT]]'
+- '[[Changes/Claude Code/2026-09-29-changed-memory-so-that-auto-memory-can-no-longer-be-turned-on-from-a-background|Changed
+  /memory so that Auto-memory can no longer be turned on from a background…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-01-new-ways-to-shop-in-chatgpt-e89d4d85|chatgpt-2026-10-01-new-ways-to-shop-in-chatgpt-e89d4d85]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -73,21 +75,20 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
-## Also in this release
 
-- [[Changes/ChatGPT/2026-10-01-available-in-chatgpt-on-mobile-and-web|Available in ChatGPT on mobile and web]] · Mobile and Desktop
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-you-can-use-your-chatgpt-account-to-sign-in-to-participating-products-without-cr|You can use your ChatGPT account to sign in to participating products without…]]
+- Earlier: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-changed-memory-so-that-auto-memory-can-no-longer-be-turned-on-from-a-background|Changed /memory so that Auto-memory can no longer be turned on from a background…]]
+- Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-2-memory-and-personalization-changes-in-v2-1-287|2 Memory and Personalization changes in v2.1.287]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

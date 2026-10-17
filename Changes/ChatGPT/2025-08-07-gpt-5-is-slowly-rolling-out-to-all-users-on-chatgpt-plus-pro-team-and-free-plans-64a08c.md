@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: c8384fd636fb64977cea71f2b4d8afa5ad0f36a686d998515f6297589503667a
+kind: change
+machine_hash: 17353f5b4378d32c363d19f57c8b5e30b4f542027bad095385080a5180b3338a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,8 +49,9 @@ record:
       have access to GPT-5 Thinking Pro, which takes a bit longer to think but delivers
       the accuracy you need for complex tasks.Learn more about GPT-5 in ChatGPT.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: gpt-5-is-slowly-rolling-out-to-all-users-on-chatgpt-plus-pro-team-and-free-plans
@@ -82,26 +84,23 @@ record:
     score: 50
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v2
-  title: GPT-5 is slowly rolling out to all users on ChatGPT Plus, Pro, Team, and
-    Free plans…
+  title: GPT-5
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-16-gpts-without-custom-actions-can-use-the-model-picker-to-select-from-all-models-a|GPTs
-  without Custom Actions can use the model picker to select from all models…]]'
-- '[[Changes/ChatGPT/2025-06-16-gpts-with-custom-actions-currently-support-gpt-4o-and-4-1|GPTs
-  with Custom Actions currently support GPT-4o and 4.1]]'
-- '[[Changes/ChatGPT/2025-06-16-enterprise-and-edu-users-can-also-now-choose-from-the-full-set-of-chatgpt-models-c891f9|Enterprise
-  and Edu users can also now choose from the full set of ChatGPT models…]]'
+- '[[Changes/ChatGPT/2025-06-16-enterprise-and-edu-users-can-also-now-choose-from-the-full-set-of-chatgpt-models-1ea372|Expanded
+  Model Support for Custom GPTs]]'
+- '[[Changes/Cursor/2025-07-03-improved-embeddings-for-semantic-search|Improved embeddings
+  for semantic search]]'
+- '[[Changes/Cursor/2025-08-06-separate-models-per-agent|Separate models per Agent]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-gpt-5-a50b91bc|chatgpt-2025-08-07-gpt-5-a50b91bc]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: GPT-5 is slowly rolling out to all users on ChatGPT Plus, Pro, Team, and Free
-  plans…
+title: GPT-5
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# GPT-5 is slowly rolling out to all users on ChatGPT Plus, Pro, Team, and Free plans…
+# GPT-5
 
 **ChatGPT** · 2025-08-07 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-08-07-gpt-5-a50b91bc|GPT-5]]
 <!-- chronolog:end -->
@@ -119,8 +118,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-06-16 · ChatGPT · [[Changes/ChatGPT/2025-06-16-enterprise-and-edu-users-can-also-now-choose-from-the-full-set-of-chatgpt-models-c891f9|Enterprise and Edu users can also now choose from the full set of ChatGPT models…]]
-- Later: 2025-08-12 · ChatGPT · [[Changes/ChatGPT/2025-08-12-gmail-google-calendar-and-google-contacts-are-now-available-to-connect-and-use-i-9ea6d6|Gmail, Google Calendar, and Google Contacts are now available to connect and use in chat]]
+- Earlier: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-separate-models-per-agent|Separate models per Agent]]
+- Later: 2025-08-12 · ChatGPT · [[Changes/ChatGPT/2025-08-12-gmail-google-calendar-and-google-contacts-are-now-available-to-connect-and-use-i-9ea6d6|Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Pro)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

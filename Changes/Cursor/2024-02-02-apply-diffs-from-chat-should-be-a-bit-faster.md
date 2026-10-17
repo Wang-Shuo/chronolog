@@ -14,9 +14,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 9d2ba1db4096584ca5c53c52d9b852a5993d73662b126c0497296f7ad3018e95
+kind: change
+machine_hash: 8b530d37e84d5bc7f51c1d14ca3ab25e3101dec9fa27a69d626f4a0fdf79c1ae
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: '"Apply Diffs" from chat should be a bit faster.'
     source_release: https://cursor.com/changelog/0-25-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: apply-diffs-from-chat-should-be-a-bit-faster
@@ -39,10 +41,10 @@ record:
   title: '"Apply Diffs" from chat should be a bit faster'
   type: change
 related_changes:
+- '[[Changes/Cursor/2023-11-03-shipped-better-error-logging-which-should-help-us-improve-stability|Shipped
+  better error logging, which should help us improve stability]]'
 - '[[Changes/Cursor/2023-11-30-faster-copilot-a-few-hundred-milliseconds-faster-through-various-networking-opti|Faster
   Copilot++: a few hundred milliseconds faster, through various networking…]]'
-- '[[Changes/Cursor/2024-01-15-we-ll-be-working-to-improve-its-performance-over-the-coming-weeks-counts-the-sam|We''ll
-  be working to improve its performance over the coming weeks]]'
 - '[[Changes/Cursor/2024-02-02-0-25-2-copilot-performance-improvements|0.25.2: Copilot++
   performance improvements]]'
 source_release: '[[Releases/Cursor/cursor-2024-02-02-0-25-x-https-cursor-com-changelog-0-25-x-29976ab7|cursor-2024-02-02-0-25-x-https-cursor-com-changelog-0-25-x-29976ab7]]'
@@ -75,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-01-15 · Cursor · [[Changes/Cursor/2024-01-15-we-ll-be-working-to-improve-its-performance-over-the-coming-weeks-counts-the-sam|We'll be working to improve its performance over the coming weeks]]
+- Earlier: 2023-11-30 · Cursor · [[Changes/Cursor/2023-11-30-faster-copilot-a-few-hundred-milliseconds-faster-through-various-networking-opti|Faster Copilot++: a few hundred milliseconds faster, through various networking…]]
 - Later: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-faster-copilot-we-ve-made-copilot-2x-faster-this-speed-bump-comes-from-a-new-mod|Faster Copilot++: We've made Copilot++ ~2x faster!]]
 <!-- chronolog:end -->
 

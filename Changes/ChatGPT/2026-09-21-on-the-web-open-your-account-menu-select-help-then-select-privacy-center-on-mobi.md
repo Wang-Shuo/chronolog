@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7ff5b46f1e0e870b85add2b6d9330294620ab8d2c3e360c76494f35a4519a89f
+machine_hash: 77184d040da7db3701d184a1422de8ad5689fd40d773523f571f9601982cf24d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -67,6 +67,7 @@ related_changes:
   the Write tool silently ending the turn as a declined permission…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-21-privacy-center-in-chatgpt-ecef9fba|chatgpt-2026-09-21-privacy-center-in-chatgpt-ecef9fba]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: safety-privacy
 title: On the web, open your account menu, select Help, then select Privacy Center
 type: change

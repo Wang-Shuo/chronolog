@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4c4955f63ce6770e1b4a5c4f7be661c35f882b04b04096a227896632d4865e65
+machine_hash: e565fef01ecc9e2b15a2b975ba40d287559a2b3ce0e381d3867b00c6ffb5b1a6
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   agent_id and parent_agent_id attributes to claude_code.tool OTEL spans…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4|claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added claude agents --json to list live Claude sessions as JSON for scripting…
 type: change

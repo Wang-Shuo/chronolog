@@ -5,19 +5,19 @@ description: 'Cursor · 2024-08-22 · Collaboration: Composer is now default-on 
   available to all Pro/Business users by hitting cmd+I. We''ve added Composer Projects
   (beta)…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
-    can also share private docs]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 349
+  lag_days: 456
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 0d36f8a97bb9989d41f7a85c1daaae5d8fa92b8ea9c6418d0e0a41fe25e1422e
+kind: change
+machine_hash: 3510a2c24c30e25ca68e594630c26691fb7f5e2ba4c46671cc9350cc3fd53006
 product: cursor
 product_name: Cursor
 record:
@@ -33,8 +33,9 @@ record:
       cmd+I. We've added Composer Projects (beta), which allows you to share instructions
       among several composers.
     source_release: https://cursor.com/changelog/0-40-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm
@@ -47,8 +48,9 @@ record:
     cmd+I
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share
-  private docs]]'
+- '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+- '[[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|Use
+  ChatGPT alongside your team]]'
 - '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
   improvements: Team admins can now mark themselves as unpaid users and can see…]]'
 source_release: '[[Releases/Cursor/cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42|cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42]]'
@@ -74,8 +76,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2024-08-22-auto-imports-beta-for-cursor-tab-for-typescript-files-when-tab-suggests-an-unimp|Auto imports (beta) for Cursor Tab for TypeScript files]] · Editor Experience
-- [[Changes/Cursor/2024-08-22-we-ve-also-trained-a-new-cursor-tab-model-that-s-smarter-and-more-context-aware|We've also trained a new Cursor Tab model that's smarter and more context-aware]] · Context Window
+- [[Changes/Cursor/2024-08-22-we-ve-also-trained-a-new-cursor-tab-model-that-s-smarter-and-more-context-aware-56db10|We've also trained a new Cursor Tab model that's smarter and more context-aware]] · Context Window
 - [[Changes/Cursor/2024-08-22-we-have-a-new-chat-ux-excited-for-you-to-try-it-out-and-share-your-thoughts|We have a new chat UX!]] · Interface Experience
 <!-- chronolog:end -->
 
@@ -83,13 +84,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
-- Later: 2024-12-13 · ChatGPT · [[Changes/ChatGPT/2024-12-13-chatgpt-projects-are-available-to-all-plus-team-and-pro-users|ChatGPT Projects are available to all Plus, Team, and Pro users]]
+- Later: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-2-collaboration-changes-in-0-48-x|2 Collaboration changes in 0.48.x]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

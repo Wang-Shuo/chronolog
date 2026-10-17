@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 107e3f98d94b375da107cb69a43e0d68d11aa524ce369eccb5004a2a9644720c
+machine_hash: 9e125313f2701bef5050fa1f11617da8b1a77f58ff600a6c4e5b501d168d4020
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -61,6 +61,7 @@ related_changes:
   continue a Voice conversation outside ChatGPT, turn on Background conversations…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-23-use-plugins-in-voice-and-get-work-done-by-speaking-fa63def1|chatgpt-2026-09-23-use-plugins-in-voice-and-get-work-done-by-speaking-fa63def1]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: voice
 title: Free and Go users can use Voice in Chat with the plugins their plan supports
 type: change

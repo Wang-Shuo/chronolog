@@ -1,9 +1,9 @@
 ---
-changes_count: 3
+changes_count: 2
 date: '2023-07-19'
 description: 'Cursor release Advanced context for codebase-wide chat on 2023-07-19:
-  3 tracked changes across Editor Experience, Context Window'
-machine_hash: ea92586766f69874690debb45b9489f626c45d9337a5fa498be0ec47efa7671e
+  2 tracked changes across Context Window, Editor Experience'
+machine_hash: c211d2a2a202e4173fa2d63842524d52e99b9db196205255955e799fcf2eebb8
 product: cursor
 product_name: Cursor
 record:
@@ -36,14 +36,13 @@ version: 0.2.49
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-3 tracked changes across 2 themes: Editor Experience, Context Window.
+2 tracked changes across 2 themes: Context Window, Editor Experience.
 
-Tracked 3 of 4 candidate lines.
+Tracked 2 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - [[Changes/Cursor/2023-07-19-more-control-of-context-building-abilities-for-codebase-wide-chat|More control of context building abilities for codebase-wide chat]] · Context Window
-- [[Changes/Cursor/2023-07-19-a-better-flow-for-getting-cmd-k-to-produce-code-with-no-linter-errors-you-should|A better flow for getting CMD-k to produce code with no linter errors…]] · Editor Experience
-- [[Changes/Cursor/2023-07-19-some-ui-ux-tweaks-to-cmd-k|Some UI/UX tweaks to CMD-K]] · Editor Experience
+- [[Changes/Cursor/2023-07-19-a-better-flow-for-getting-cmd-k-to-produce-code-with-no-linter-errors-you-should-8eb878|A better flow for getting CMD-k to produce code with no linter errors…]] · Editor Experience
 <!-- chronolog:end -->

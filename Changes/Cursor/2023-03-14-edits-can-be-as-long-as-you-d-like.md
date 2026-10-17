@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b654bc4a7055f65cea4939b2011e0eccf66f50a1a20fc364c9d69e9c182b0c37
+machine_hash: a1996afa2ca924a2bedaa69334c455cb1759f4659a483c6f8b30149aa2a846db
 product: cursor
 product_name: Cursor
 record:
@@ -46,6 +46,7 @@ related_changes:
   works for same file on multiple tabs]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-14-0-0-37-https-cursor-com-changelog-0-0-37-236c8006|cursor-2023-03-14-0-0-37-https-cursor-com-changelog-0-0-37-236c8006]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: Edits can be as long as you'd like
 type: change

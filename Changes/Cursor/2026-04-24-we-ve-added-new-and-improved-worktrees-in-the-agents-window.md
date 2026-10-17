@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 1b2e4178c25bba83f68e69ab95333ca9913672d52659b06118eacc3da967a545
+machine_hash: 22c31714f4ff63127f7a5e6383a46124e072bfb2fd577cc9fe0a4729d86472e5
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   /multitask, Cursor will run async subagents to parallelize your requests…]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-24-3-2-https-cursor-com-changelog-04-24-26-9ab6a4bf|cursor-2026-04-24-3-2-https-cursor-com-changelog-04-24-26-9ab6a4bf]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Cursor adds new and improved worktrees in the Agents Window
 type: change

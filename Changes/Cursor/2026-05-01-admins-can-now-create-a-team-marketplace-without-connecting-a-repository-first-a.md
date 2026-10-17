@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e77fdb902e80450edb2e86043b88d0827f36401a836c2cbc477949baaef899f0
+machine_hash: 34f7906cf8b1f9c53074ff687a5288f434bae8cbfd5336235e03ea6c40a504ea
 product: cursor
 product_name: Cursor
 record:
@@ -65,6 +65,7 @@ related_changes:
   /team-onboarding command to generate a teammate ramp-up guide…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-01-team-marketplace-updates-https-cursor-com-changelog-05-01-26-3036cead|cursor-2026-05-01-team-marketplace-updates-https-cursor-com-changelog-05-01-26-3036cead]]'
 source_type: cursor_changelog
+superseded: true
 theme: collaboration
 title: Admins can now create a team marketplace without connecting a repository first
 type: change

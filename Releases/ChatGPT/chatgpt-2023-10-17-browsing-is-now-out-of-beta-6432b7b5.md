@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-10-17'
 description: 'ChatGPT release Browsing is now out of beta on 2023-10-17: 1 tracked
   change across Model Support'
-machine_hash: 1082f02599b6e5337b39c01a5363571f0ebac1b92669a2a31b51b9c64b594670
+machine_hash: 55117d48b47a9591b5dc09e257c1a2f72a76939158bf15877955c28fdb141512
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,10 +40,10 @@ version: Browsing is now out of beta
 <!-- chronolog:begin region="summary" -->
 Browsing, which we re-launched a few weeks ago, is moving out of beta.Plus and Enterprise users no longer need to switch the beta toggle to use browse, and are able to choose "Browse with Bing" from the GPT-4 model selector.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2023-10-17-browsing-which-we-re-launched-a-few-weeks-ago-is-moving-out-of-beta-plus-and-ent|Browsing, which we re-launched a few weeks ago, is moving out of beta]] · Model Support
+- [[Changes/ChatGPT/2023-10-17-browsing-which-we-re-launched-a-few-weeks-ago-is-moving-out-of-beta-plus-and-ent|Browsing is now out of beta]] · Model Support
 <!-- chronolog:end -->

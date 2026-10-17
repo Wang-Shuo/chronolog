@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: a841e7370d2b7ee0975dcffd2c40d7a02159c1456dff2cd3b582b3ae3ccdf7c7
+machine_hash: cef2997fc20ad308505c1f32d0df5bdaa1c3948e493686ab7f6201a0e8d6ffc0
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   auto mode]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-15-v2-1-178-github-339741361-902bc427|claude-code-2026-06-15-v2-1-178-github-339741361-902bc427]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Nested .claude/ directories
 type: change

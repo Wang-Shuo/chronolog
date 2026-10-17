@@ -1,9 +1,9 @@
 ---
-changes_count: 4
+changes_count: 2
 date: '2026-08-27'
-description: 'ChatGPT release More controls in temporary chat on 2026-08-27: 4 tracked
+description: 'ChatGPT release More controls in temporary chat on 2026-08-27: 2 tracked
   changes across Memory and Personalization'
-machine_hash: dc1c744df03ea1b00c27ab86256d5f2fb4b4f771e3638f5b9cf7885e6c019d0d
+machine_hash: 7d328416047e765f78472db5c33250bf395485c754834a42233b9c71dca88c60
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,13 +41,11 @@ version: More controls in temporary chat
 <!-- chronolog:begin region="summary" -->
 We’re rolling out new controls in temporary chat. You can now choose to personalize responses in a temporary chat with memory, plugins, and custom instructions from your regular chat settings. You can also choose to save a temporary chat.
 
-Tracked 4 of 4 candidate lines.
+Tracked 2 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-08-27-saving-a-temporary-chat-when-a-conversation-becomes-useful-for-the-future-you-ca|Saving a temporary chat]] · Memory and Personalization
-- [[Changes/ChatGPT/2026-08-27-non-personalized-by-default-temporary-chats-are-not-personalized-non-personalize|Non-personalized: By default, temporary chats are not personalized]] · Memory and Personalization
-- [[Changes/ChatGPT/2026-08-27-personalized-when-you-create-a-temporary-chat-you-can-choose-to-have-personalize|Personalized: When you create a temporary chat, you can choose to have personalized…]] · Memory and Personalization
+- [[Changes/ChatGPT/2026-08-27-3-memory-and-personalization-changes-in-more-controls-in-temporary-chat|3 Memory and Personalization changes in More controls in temporary chat]] · Memory and Personalization · Digest
 - [[Changes/ChatGPT/2026-08-27-we-re-rolling-out-new-controls-in-temporary-chat-you-can-now-choose-to-personali|ChatGPT rolls out new controls in temporary chat]] · Memory and Personalization
 <!-- chronolog:end -->

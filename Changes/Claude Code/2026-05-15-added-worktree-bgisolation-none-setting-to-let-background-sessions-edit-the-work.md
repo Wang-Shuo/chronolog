@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d023c06af7c185b8e52c25654f94bfd04d43a07731a4a514a0192efa9b343907
+machine_hash: f74be9450674c292b1fd4bb26aa85e22810ed61fffda86e328da5d2e492c4e46
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   make it easier to change, debug, and review environment definitions, we have…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c|claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: 'Added worktree.bgIsolation: "none" setting to let background sessions edit…'
 type: change

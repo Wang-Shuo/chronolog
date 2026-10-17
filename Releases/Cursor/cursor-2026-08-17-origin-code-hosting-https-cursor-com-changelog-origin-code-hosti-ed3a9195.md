@@ -1,9 +1,9 @@
 ---
-changes_count: 2
+changes_count: 6
 date: '2026-08-17'
-description: 'Cursor release Origin Code Hosting on 2026-08-17: 2 tracked changes
-  across Editor Experience, Search and Browsing'
-machine_hash: b75d8272396e8da942abae6dbee5975a082fde325ec8d8c75393df2e7799acea
+description: 'Cursor release Origin Code Hosting on 2026-08-17: 6 tracked changes
+  across Apps and Integrations, Editor Experience, Agent Mode, Search and Browsing'
+machine_hash: 106600569113b7709f73524992d62b20707dc7c25f2d0f171e429bececff1a8d
 product: cursor
 product_name: Cursor
 record:
@@ -38,11 +38,15 @@ version: Origin Code Hosting
 <!-- chronolog:begin region="summary" -->
 Cursor can now host your code.
 
-Tracked 2 of 16 candidate lines.
+Tracked 6 cards from 16 candidate lines; 2 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-08-17-origin-begins-rolling-out-today-in-early-beta-on-all-paid-plans-we-re-starting-w|Origin begins rolling out today in early beta on all paid plans]] · Search and Browsing
-- [[Changes/Cursor/2026-08-17-the-new-codebase-tab-is-home-for-origin-repos|The new Codebase tab is home for Origin repos]] · Editor Experience
+- [[Changes/Cursor/2026-08-17-app-extensions-for-cursor-repos|App extensions for Cursor repos]] · Apps and Integrations · Launch
+- [[Changes/Cursor/2026-08-17-origin-repos|Origin Repos]] · Editor Experience · Launch
+- [[Changes/Cursor/2026-08-17-pull-requests|Pull requests]] · Editor Experience · Launch
+- [[Changes/Cursor/2026-08-17-agents-in-every-repo|Agents in every repo]] · Agent Mode · Launch
+- [[Changes/Cursor/2026-08-17-settings|Settings]] · Apps and Integrations · Launch
+- [[Changes/Cursor/2026-08-17-cursor-can-now-host-your-code|Cursor can now host your code]] · Search and Browsing
 <!-- chronolog:end -->

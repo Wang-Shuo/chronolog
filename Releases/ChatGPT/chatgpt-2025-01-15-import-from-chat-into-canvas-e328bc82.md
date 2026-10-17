@@ -3,7 +3,7 @@ changes_count: 2
 date: '2025-01-15'
 description: 'ChatGPT release Import from Chat into Canvas on 2025-01-15: 2 tracked
   changes across Files and Data'
-machine_hash: 30bc3347bd21f9348e202a83de9804cb68b24b7c627223a89fa3b628a6c4fd3d
+machine_hash: ddb94aad1c449603984409b859a9105eac4d8265170363f8023711a980e53771
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ version: Import from Chat into Canvas
 <!-- chronolog:begin region="summary" -->
 Edit a full model response in Canvas
 
-Tracked 2 of 3 candidate lines.
+Tracked 2 cards from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

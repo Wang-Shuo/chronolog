@@ -3,7 +3,7 @@ changes_count: 0
 date: '2023-11-26'
 description: 'Cursor release Interpreter Mode Windows Bug Fixes on 2023-11-26: no
   tracked changes'
-machine_hash: bf0e5a675232f7d1afad8bd41b513fdac2f91158c5a9154638007ce67b1457c1
+machine_hash: bcf45e038ee8bce871b1a8b9fb64e2ac38d42fad4f86d9ea69d35a2665cb1f1f
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ version: 0.16.6-nightly-0.16.9-nightly
 <!-- chronolog:begin region="summary" -->
 Fixes a bug where the interpreter mode just wouldn't run at all on Windows.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

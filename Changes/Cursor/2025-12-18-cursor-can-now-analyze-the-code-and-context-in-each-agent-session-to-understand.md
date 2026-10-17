@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 05524a02f6cd83624008a49a1b85c4138021a86ec31babdc683df9e8489b7083
+machine_hash: da3d2be7d25258603851dfd5c2596ce9c61e000a971a1a59a26374bf81f2b4be
 product: cursor
 product_name: Cursor
 record:
@@ -61,6 +61,7 @@ related_changes:
   a read-only transcript of any agent conversation to include in your PRs…]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb|cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: Cursor can now analyze the code and context in each agent session to understand…
 type: change

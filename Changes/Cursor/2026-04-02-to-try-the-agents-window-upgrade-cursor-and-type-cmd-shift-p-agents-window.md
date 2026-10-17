@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5bd75cf57790d256b9d15c7fb50e66dbc9bf721b024e8a609f17a92617cf521e
+machine_hash: 18f86c5cc7dd21113255ec9b39f867da841403332cdba0447a6c6cd57e5dbfe5
 product: cursor
 product_name: Cursor
 record:
@@ -48,6 +48,7 @@ related_changes:
   simpler, more powerful, and centered around agents, while keeping the depth…]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: To try the Agents Window, upgrade Cursor and type Cmd+Shift+P - Agents Window
 type: change

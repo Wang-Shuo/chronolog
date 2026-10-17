@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5a24adc6fab5d0288eefcd21ac55f52c5598e57dae6620cbb0b0837836ec29e7
+machine_hash: 394318521df5597f9fb7b375280a322fddd282adaa9f2b6e152e5eb897bcd56e
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   sessions now show clearer guidance when a window left open across…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-12-v2-1-176-github-338777362-91e3deb6|claude-code-2026-06-12-v2-1-176-github-338777362-91e3deb6]]'
 source_type: github_releases
+superseded: true
 theme: reliability-performance
 title: Improved Bedrock credential caching
 type: change

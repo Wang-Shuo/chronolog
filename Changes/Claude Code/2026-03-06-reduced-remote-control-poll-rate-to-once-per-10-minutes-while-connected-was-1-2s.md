@@ -4,8 +4,8 @@ date: '2026-03-06'
 description: 'Claude Code · 2026-03-06 · Apps and Integrations: Reduced Remote Control
   `/poll` rate to once per 10 minutes while connected (was 1–2s), cutting server load…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1079
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 2cdd0500380a367191ba05e2b7ea3056a1b5e422c60aecede208d95b32515b72
+kind: change
+machine_hash: 33ac5febc423bb495a3df445369ca25d58a585d1ecc61380d14d43397c9f8a64
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
       (was 1–2s), cutting server load ~300×. Reconnection is unaffected — transport
       loss immediately wakes fast polling.
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.70
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: reduced-remote-control-poll-rate-to-once-per-10-minutes-while-connected-was-1-2s
@@ -45,11 +47,11 @@ record:
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-03-03-mcp-apps-support-interactive-user-interfaces-like-charts-from-amplitude-diagrams|MCP
-  Apps support interactive user interfaces like charts from Amplitude, diagrams…]]'
-- '[[Changes/Claude Code/2026-03-05-added-the-claude-api-skill-for-building-applications-with-the-claude-api-and-ant|Added
-  the /claude-api skill for building applications with the Claude API…]]'
-- '[[Changes/Claude Code/2026-03-05-added-optional-name-argument-to-remote-control-and-claude-remote-control-remote|Added
-  optional name argument to /remote-control and claude remote-control…]]'
+  Apps]]'
+- '[[Changes/Claude Code/2026-03-05-added-reload-plugins-command-to-activate-pending-plugin-changes-without-restarti|Added
+  /reload-plugins command to activate pending plugin changes without restarting]]'
+- '[[Changes/Claude Code/2026-03-05-7-apps-and-integrations-changes-in-v2-1-69|7 Apps
+  and Integrations changes in v2.1.69]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-06-v2-1-70-github-293754953-afac13c0|claude-code-2026-03-06-v2-1-70-github-293754953-afac13c0]]'
 source_type: github_releases
 theme: apps-integrations
@@ -72,23 +74,24 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-03-06-reduced-startup-memory-by-426kb-for-users-without-custom-ca-certificates|Reduced startup memory by ~426KB for users without custom CA certificates]] · Memory and Personalization
-- [[Changes/Claude Code/2026-03-06-reduced-prompt-input-re-renders-during-turns-by-74|Reduced prompt input re-renders during turns by ~74%]] · Reliability and Performance
-- [[Changes/Claude Code/2026-03-06-improved-compaction-to-preserve-images-in-the-summarizer-request-allowing-prompt|Improved compaction to preserve images in the summarizer request, allowing prompt…]] · Reliability and Performance
+- [[Changes/Claude Code/2026-03-06-vscode-added-native-mcp-server-management-dialog-use-mcp-in-the-chat-panel-to-en|VSCode Added native MCP server management dialog]] · Account and Access
+- [[Changes/Claude Code/2026-03-06-vscode-added-spark-icon-in-vs-code-activity-bar-that-lists-all-claude-code-sessi|VSCode Added spark icon in VS Code activity bar that lists all Claude Code…]] · Interface Experience
+- [[Changes/Claude Code/2026-03-06-3-reliability-and-performance-changes-in-v2-1-70|3 Reliability and Performance changes in v2.1.70]] · Reliability and Performance
 - [[Changes/Claude Code/2026-03-06-improved-rename-to-work-while-claude-is-processing-instead-of-being-silently-que|Improved /rename to work while Claude is processing, instead of being silently queued]] · Projects and Workspaces
+- [[Changes/Claude Code/2026-03-06-vscode-added-full-markdown-document-view-for-plans-in-vs-code-with-support-for-a|VSCode Added full markdown document view for plans in VS Code, with support…]] · Files and Data
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-added-optional-name-argument-to-remote-control-and-claude-remote-control-remote|Added optional name argument to /remote-control and claude remote-control…]]
-- Later: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-changed-tool-search-to-bypass-the-third-party-proxy-gate-when-the-environment-va|Changed tool search to bypass the third-party proxy gate when the environment…]]
+- Earlier: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-7-apps-and-integrations-changes-in-v2-1-69|7 Apps and Integrations changes in v2.1.69]]
+- Later: 2026-03-07 · Claude Code · [[Changes/Claude Code/2026-03-07-3-apps-and-integrations-changes-in-v2-1-71|3 Apps and Integrations changes in v2.1.71]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

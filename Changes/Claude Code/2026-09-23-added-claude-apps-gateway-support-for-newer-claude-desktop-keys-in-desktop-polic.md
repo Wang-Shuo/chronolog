@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 06f03e2f96c89ffa32f2921f17e9468c6d3c126abe50090ab98561c0184cb0ea
+machine_hash: 2d0d6ad3f54a5ec9e7cd537c52672b5247179670d5e1e2718668d0554800c275
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,6 +62,7 @@ related_changes:
   feature is rolling out in Finances to Plus and Pro users in the U.S. on web…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95|claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95]]'
 source_type: github_releases
+superseded: true
 theme: mobile-desktop
 title: Added Claude apps gateway support for newer Claude Desktop keys in desktop
   policy…

@@ -14,9 +14,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: b8875fd57e5c4e0f3a4f2a141d3fe95f3476c9f6bcd154171b4c85bbbe7a90c2
+kind: change
+machine_hash: ab08d02844dcb36bc240e9468bb8bfd421df39be4614750edd36a55621d2d869
 product: cursor
 product_name: Cursor
 record:
@@ -29,8 +30,9 @@ record:
   - quote: 'Default: Bugbot continues to use the same effort level as it does today.
       Optimized for efficiency and speed.'
     source_release: https://cursor.com/changelog/05-11-26
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: default-bugbot-continues-to-use-the-same-effort-level-as-it-does-today-optimized
@@ -40,10 +42,9 @@ record:
   title: 'Default: Bugbot continues to use the same effort level as it does today'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-13-improved-stalled-api-stream-handling-streams-now-abort-after-5-minutes-of-no-dat|Improved
-  stalled API stream handling]]'
-- '[[Changes/Claude Code/2026-04-20-resume-on-large-sessions-is-significantly-faster-up-to-67-on-40mb-sessions-and-h|/resume
-  on large sessions is significantly faster (up to 67% on 40MB+ sessions)…]]'
+- '[[Changes/Cursor/2026-05-07-pin-skills-as-quick-actions|Pin skills as quick actions]]'
+- '[[Changes/Cursor/2026-05-07-build-in-parallel-from-plans|Build in parallel from
+  plans]]'
 - '[[Changes/Claude Code/2026-05-11-added-scroll-speed-command-to-tune-mouse-wheel-scroll-speed-with-a-live-preview|Added
   /scroll-speed command to tune mouse wheel scroll speed with a live preview]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617|cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617]]'
@@ -78,7 +79,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-added-scroll-speed-command-to-tune-mouse-wheel-scroll-speed-with-a-live-preview|Added /scroll-speed command to tune mouse wheel scroll speed with a live preview]]
-- Later: 2026-05-21 · Claude Code · [[Changes/Claude Code/2026-05-21-improved-diff-rendering-performance-for-large-file-edits|Improved diff rendering performance for large file edits]]
+- Later: 2026-05-21 · Claude Code · [[Changes/Claude Code/2026-05-21-2-reliability-and-performance-changes-in-v2-1-146|2 Reliability and Performance changes in v2.1.146]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

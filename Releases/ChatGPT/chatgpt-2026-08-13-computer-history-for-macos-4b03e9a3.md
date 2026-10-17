@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-08-13'
 description: 'ChatGPT release Computer History for macOS on 2026-08-13: 1 tracked
   change across Enterprise and Administration'
-machine_hash: fe8dd3ce3caceb827ced4ef4e8d0c3e148ce2540098bfdf014fcb918f7d57794
+machine_hash: 36cfcda0f678b8510e682120f3d3b0c1f3bf7db0da65b67a12f9afb34f2e5358
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: Computer History for macOS
 <!-- chronolog:begin region="summary" -->
 Computer History is an optional feature in the ChatGPT macOS app that lets ChatGPT and Codex reference selected activity from apps and websites, helping users continue work without re-explaining every detail. It records interaction events—not screenshots, screen recordings, microphone input, or system audio—and private…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-08-13-computer-history-is-an-optional-feature-in-the-chatgpt-macos-app-that-lets-chatg|Computer History is an optional feature in the ChatGPT macOS app that lets ChatGPT…]] · Enterprise and Administration
+- [[Changes/ChatGPT/2026-08-13-computer-history-is-an-optional-feature-in-the-chatgpt-macos-app-that-lets-chatg|Computer History for macOS]] · Enterprise and Administration
 <!-- chronolog:end -->

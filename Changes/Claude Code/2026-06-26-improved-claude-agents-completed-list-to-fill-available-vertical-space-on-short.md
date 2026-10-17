@@ -5,8 +5,8 @@ description: 'Claude Code · 2026-06-26 · Agent Mode: Improved `claude agents` 
   list to fill available vertical space; on short terminals the header compacts so
   live…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1086
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 3e0a76377d7085a5c86c18a63395d830ca5a9255b3d7e224b7ffa87620752b65
+kind: change
+machine_hash: 26c0d056df08af56432b07780edbc5b19fa329af570c72b353f1c101c421932d
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
   - quote: Improved `claude agents` completed list to fill available vertical space;
       on short terminals the header compacts so live sessions stay visible
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.195
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-claude-agents-completed-list-to-fill-available-vertical-space-on-short
@@ -42,12 +44,12 @@ record:
   title: Improved `claude agents` completed list to fill available vertical space
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-22-added-status-filtering-press-f-to-the-workflows-agent-detail-view|Added
-  status filtering (press f) to the /workflows agent detail view]]'
-- '[[Changes/Claude Code/2026-06-25-added-auto-mode-denial-reasons-to-the-transcript-the-denial-toast-and-permission|Added
-  auto-mode denial reasons to the transcript, the denial toast…]]'
-- '[[Changes/Claude Code/2026-06-25-added-automode-classifyallshell-setting-to-route-all-bash-powershell-commands-th|Added
-  autoMode.classifyAllShell setting to route all Bash/PowerShell commands…]]'
+- '[[Changes/Claude Code/2026-06-19-improved-auto-mode-safety-destructive-git-commands-git-reset-hard-git-checkout-g|Improved
+  auto mode safety]]'
+- '[[Changes/Claude Code/2026-06-22-2-agent-mode-changes-in-v2-1-186|2 Agent Mode
+  changes in v2.1.186]]'
+- '[[Changes/Claude Code/2026-06-25-3-agent-mode-changes-in-v2-1-193|3 Agent Mode
+  changes in v2.1.193]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460|claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460]]'
 source_type: github_releases
 theme: agent-mode
@@ -79,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-added-automode-classifyallshell-setting-to-route-all-bash-powershell-commands-th|Added autoMode.classifyAllShell setting to route all Bash/PowerShell commands…]]
-- Later: 2026-06-29 · Cursor · [[Changes/Cursor/2026-06-29-use-remote-control-in-the-agents-window-to-take-an-agent-you-re-running-on-your|Use Remote Control in the Agents Window to take an agent you're running…]]
+- Earlier: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-3-agent-mode-changes-in-v2-1-193|3 Agent Mode changes in v2.1.193]]
+- Later: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-2-agent-mode-changes-in-v2-1-196|2 Agent Mode changes in v2.1.196]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

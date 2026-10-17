@@ -14,9 +14,10 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: d4ac561d71f146dbdd4e40ee7248a938847bcdf10ea60916e69f89e43f2ce5f5
+kind: change
+machine_hash: 2624ce726d3a0a320aea68357828870e5eb1b375e0822c21f332b6e8316b1a49
 product: cursor
 product_name: Cursor
 record:
@@ -29,15 +30,16 @@ record:
   - quote: You can now chat with any codebase. No need to have a Github repo / login
       through Github.
     source_release: https://cursor.com/changelog/0-4-0
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: you-can-now-chat-with-any-codebase-no-need-to-have-a-github-repo-login-through-g
   source_release: cursor-2023-07-25-0-4-0-https-cursor-com-changelog-0-4-0-5b417e1b
   source_type: cursor_changelog
   theme: account-access
-  title: Chat with any codebase
+  title: '"with codebase" for all codebases!'
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]'
@@ -48,12 +50,12 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-07-25-0-4-0-https-cursor-com-changelog-0-4-0-5b417e1b|cursor-2023-07-25-0-4-0-https-cursor-com-changelog-0-4-0-5b417e1b]]'
 source_type: cursor_changelog
 theme: account-access
-title: Chat with any codebase
+title: '"with codebase" for all codebases!'
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Chat with any codebase
+# "with codebase" for all codebases!
 
 **Cursor** · 2023-07-25 · [[Themes/account-access|Account and Access]] · [Official source](https://cursor.com/changelog/0-4-0) · from [[Releases/Cursor/cursor-2023-07-25-0-4-0-https-cursor-com-changelog-0-4-0-5b417e1b|"with codebase" for all codebases!]]
 <!-- chronolog:end -->

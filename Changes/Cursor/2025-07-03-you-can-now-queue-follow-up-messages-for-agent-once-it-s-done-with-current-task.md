@@ -5,8 +5,8 @@ description: 'Cursor · 2025-07-03 · Agent Mode: You can now queue follow-up me
   for Agent once it''s done with current task. Just type your instructions and send.
   Once…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 728
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: 4c87ee2e5d341493b5ff421107ab2b48b22320ec0b34541ba2e79af431ce88e7
+kind: launch
+machine_hash: a38cb2e0e6bf7e903ee8ee0c6dbe38fda178b380a04b732e02a2a430a001f2b0
 product: cursor
 product_name: Cursor
 record:
@@ -35,34 +36,34 @@ record:
       task. Just type your instructions and send. Once in queue, you can reorder tasks
       and start executing without waiting.
     source_release: https://cursor.com/changelog/1-2
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: you-can-now-queue-follow-up-messages-for-agent-once-it-s-done-with-current-task
+  slug: queued-messages
   source_release: cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d
   source_type: cursor_changelog
   theme: agent-mode
-  title: Queue follow-up messages for Agent once it's done with current task
+  title: Queued messages
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-12-you-can-now-launch-background-agents-directly-from-slack-by-mentioning-cursor-ag|Launch
-  Background Agents directly from Slack by mentioning @Cursor]]'
-- '[[Changes/Cursor/2025-06-12-agents-run-remotely-in-a-secure-environment-and-you-ll-get-updates-directly-in-s|Agents
-  run remotely in a secure environment and you''ll get updates directly…]]'
-- '[[Changes/Cursor/2025-07-03-agents-now-plan-ahead-with-structured-to-do-lists-making-long-horizon-tasks-easi|Agents
-  now plan ahead with structured to-do lists, making long-horizon tasks easier…]]'
+- '[[Changes/Cursor/2025-06-12-improved-background-agent-reliability|Improved Background
+  Agent reliability]]'
+- '[[Changes/Cursor/2025-07-03-let-agent-resolve-merge-conflicts|Let Agent resolve
+  merge conflicts]]'
+- '[[Changes/Cursor/2025-07-03-agent-to-dos-3ffa24|Agent To-dos]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Queue follow-up messages for Agent once it's done with current task
+title: Queued messages
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Queue follow-up messages for Agent once it's done with current task
+# Queued messages
 
-**Cursor** · 2025-07-03 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/1-2) · from [[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|Agent Planning, Better Context & Faster Tab]]
+**Cursor** · 2025-07-03 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://cursor.com/changelog/1-2) · from [[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|Agent Planning, Better Context & Faster Tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -74,23 +75,30 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2025-07-03-memories-is-now-ga-since-1-0-we-ve-improved-memory-generation-quality-added-in-e|Memories is now GA]] · Memory and Personalization
-- [[Changes/Cursor/2025-07-03-agents-now-plan-ahead-with-structured-to-do-lists-making-long-horizon-tasks-easi|Agents now plan ahead with structured to-do lists, making long-horizon tasks easier…]] · Agent Mode
-- [[Changes/Cursor/2025-07-03-to-dos-are-also-visible-in-slack-if-integration-is-setup|To-dos are also visible in Slack if integration is setup!]] · Apps and Integrations
-- [[Changes/Cursor/2025-07-03-the-agent-breaks-down-longer-tasks-with-dependencies-visible-to-you-in-chat-and|The agent breaks down longer tasks with dependencies, visible to you in chat…]] · Agent Mode
+- [[Changes/Cursor/2025-07-03-chat-rendering-bugs-resolved-toolcall-display-overflow-issues|Chat rendering bugs resolved (toolcall display, overflow issues)]] · Interface Experience
+- [[Changes/Cursor/2025-07-03-memories-is-now-ga-since-1-0-we-ve-improved-memory-generation-quality-added-in-e|Memories (now GA)]] · Memory and Personalization
+- [[Changes/Cursor/2025-07-03-let-agent-resolve-merge-conflicts|Let Agent resolve merge conflicts]] · Agent Mode
+- [[Changes/Cursor/2025-07-03-faster-tab|Faster Tab]] · Memory and Personalization
+- [[Changes/Cursor/2025-07-03-agent-to-dos-3ffa24|Agent To-dos]] · Agent Mode
+- [[Changes/Cursor/2025-07-03-2-apps-and-integrations-changes-in-1-2|2 Apps and Integrations changes in 1.2]] · Apps and Integrations
+- [[Changes/Cursor/2025-07-03-4-reliability-and-performance-changes-in-1-2|4 Reliability and Performance changes in 1.2]] · Reliability and Performance
+- [[Changes/Cursor/2025-07-03-improved-embeddings-for-semantic-search|Improved embeddings for semantic search]] · Model Support
+- [[Changes/Cursor/2025-07-03-2-agent-mode-changes-in-1-2|2 Agent Mode changes in 1.2]] · Agent Mode
+- [[Changes/Cursor/2025-07-03-background-agent-improvements|Background Agent improvements]] · Agent Mode
+- [[Changes/Cursor/2025-07-03-pr-indexing-search|PR indexing & search]] · Context Window
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-agents-run-remotely-in-a-secure-environment-and-you-ll-get-updates-directly-in-s|Agents run remotely in a secure environment and you'll get updates directly…]]
-- Later: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-agents-can-now-use-your-native-terminal-a-new-terminal-will-be-created-when-need|Agents can now use your native terminal]]
+- Earlier: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-improved-background-agent-reliability|Improved Background Agent reliability]]
+- Later: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-agents-can-now-use-your-native-terminal-a-new-terminal-will-be-created-when-need|Share terminal with Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

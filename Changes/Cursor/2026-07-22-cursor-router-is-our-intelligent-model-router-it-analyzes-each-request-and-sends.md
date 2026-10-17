@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 559d8598c8a38aebc1e46059bdbcbbf4ec8f0fc4c8a9154229b27ebb901b5211
+kind: change
+machine_hash: c052b1210da54fade3e895f753f89feeac9a74e8399d2c91cad8d69f741101ed
 product: cursor
 product_name: Cursor
 record:
@@ -33,8 +34,9 @@ record:
       and sends it to the right model for the job. Frontier models handle work that
       demands them. Price-efficient models handle the rest.
     source_release: https://cursor.com/changelog/router
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: cursor-router-is-our-intelligent-model-router-it-analyzes-each-request-and-sends
@@ -44,12 +46,12 @@ record:
   title: Cursor Router is our intelligent model router
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-03-claude-sonnet-5-sessions-no-longer-use-the-mid-conversation-system-role-for-harn|Claude
-  Sonnet 5 sessions no longer use the mid-conversation system role for harness…]]'
-- '[[Changes/ChatGPT/2026-07-06-we-re-rolling-out-gpt-5-5-instant-mini-in-chatgpt-it-replaces-gpt-5-3-instant-mi|ChatGPT
-  rolls out GPT-5.5 Instant Mini]]'
 - '[[Changes/Claude Code/2026-07-14-improved-the-bash-powershell-tool-message-when-a-command-hits-its-timeout-and-is|Improved
   the Bash/PowerShell tool message when a command hits its timeout…]]'
+- '[[Changes/Claude Code/2026-07-17-3-model-support-changes-in-v2-1-212|3 Model Support
+  changes in v2.1.212]]'
+- '[[Changes/Claude Code/2026-07-22-added-an-announcement-when-fast-mode-changes-as-a-result-of-switching-models-via|Added
+  an announcement when fast mode changes as a result of switching models…]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4|cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4]]'
 source_type: cursor_changelog
 theme: model-support
@@ -72,17 +74,19 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-07-22-cost-good-quality-reaching-the-highest-available-intelligence-while-optimizing-t|Cost: Good quality, reaching the highest available intelligence while optimizing…]] · Pricing Model
+- [[Changes/Cursor/2026-07-22-admin-controls-per-team-and-per-group-enablement-mode-restrictions-default-mode|Admin controls: per-team and per-group enablement, mode restrictions, default mode…]] · Collaboration
+- [[Changes/Cursor/2026-07-22-admin-controls|Admin controls]] · Enterprise and Administration
+- [[Changes/Cursor/2026-07-22-2-pricing-model-changes-in-cursor-router|2 Pricing Model changes in Cursor Router]] · Pricing Model
 - [[Changes/Cursor/2026-07-22-auto-mode-is-now-powered-by-cursor-router|Auto mode is now powered by Cursor Router]] · Agent Mode
-- [[Changes/Cursor/2026-07-22-intelligence-frontier-quality-matching-the-most-expensive-and-powerful-models-th|Intelligence: Frontier quality, matching the most expensive and powerful models…]] · Model Support
-- [[Changes/Cursor/2026-07-22-balance-strong-quality-matching-the-frontier-models-that-most-people-like-to-dai|Balance: Strong quality, matching the frontier models that most people like to daily drive]] · Model Support
+- [[Changes/Cursor/2026-07-22-routed-model-can-be-displayed-or-hidden-hidden-by-default|Routed model can be displayed or hidden (hidden by default)]] · Model Support
+- [[Changes/Cursor/2026-07-22-optimization-modes-e62142|Optimization modes]] · Model Support
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-improved-the-bash-powershell-tool-message-when-a-command-hits-its-timeout-and-is|Improved the Bash/PowerShell tool message when a command hits its timeout…]]
-- Later: 2026-07-24 · Claude Code · [[Changes/Claude Code/2026-07-24-added-claude-opus-5-claude-opus-5-now-the-default-opus-model-1m-context-fast-mod|Added Claude Opus 5 (claude-opus-5), now the default Opus model]]
+- Earlier: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-added-an-announcement-when-fast-mode-changes-as-a-result-of-switching-models-via|Added an announcement when fast mode changes as a result of switching models…]]
+- Later: 2026-07-24 · Claude Code · [[Changes/Claude Code/2026-07-24-3-model-support-changes-in-v2-1-219|3 Model Support changes in v2.1.219]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

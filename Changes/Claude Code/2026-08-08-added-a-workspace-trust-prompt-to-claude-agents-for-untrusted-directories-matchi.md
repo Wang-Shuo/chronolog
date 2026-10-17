@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f939943f1f73a5f3af68837692aa282e2b9743d5cce4ccfca39271c74b13ff37
+machine_hash: 96d2db381377234ef5db62dba1204edf510bdb9268aa6aa9e89aed036debcb3a
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   permission prompts so commands padded with tabs or invisible Unicode can no…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-08-v2-1-225-github-367046190-ccb40049|claude-code-2026-08-08-v2-1-225-github-367046190-ccb40049]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Added a workspace trust prompt to claude agents for untrusted directories…
 type: change

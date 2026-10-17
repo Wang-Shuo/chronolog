@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 103a92f10fe10e90ee8086fc300e809b892fb0d35209fd7d0e38be49a43806c1
+machine_hash: d49c95368df30affec943cc8f4d0d85e0d5303816126e7b1acd3d778b4bbf720
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   alwaysLoad option to MCP server config]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce|claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: PostToolUse hooks can now replace tool output for all tools…
 type: change

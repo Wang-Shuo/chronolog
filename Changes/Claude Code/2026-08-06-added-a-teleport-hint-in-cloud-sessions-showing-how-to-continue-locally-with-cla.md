@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a5676d8417cd7010d01797864932dbd9afb635f784a5aec204dc62691f35cfa1
+machine_hash: 4e61ca254b64a97630ada418656da4207ed494787bbe13e93e8ade531619da62
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   a warning when workflow agents, forked skills, slash commands, or resumed…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d|claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added a /teleport hint in cloud sessions showing how to continue locally…
 type: change

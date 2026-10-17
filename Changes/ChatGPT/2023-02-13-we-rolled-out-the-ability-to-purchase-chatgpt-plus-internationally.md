@@ -14,9 +14,10 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 3552f51f0429f52cdc7c55d5557fe61cd65495d1a8cd04166114b4e87b17a01b
+kind: pricing
+machine_hash: 45a4cc2848cb6b578890e65fa9f1c01d2d43471a06f0e8e3d2dbe7cf9ff8a39d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: We rolled out the ability to purchase ChatGPT Plus internationally.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: pricing
   product: chatgpt
   product_name: ChatGPT
   slug: we-rolled-out-the-ability-to-purchase-chatgpt-plus-internationally
@@ -53,7 +55,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # We rolled out the ability to purchase ChatGPT Plus internationally
 
-**ChatGPT** · 2023-02-13 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-02-13-updates-to-chatgpt-0d776ee3|Updates to ChatGPT]]
+**ChatGPT** · 2023-02-13 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-02-13-updates-to-chatgpt-0d776ee3|Updates to ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->

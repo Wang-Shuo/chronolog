@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-04-10'
 description: 'ChatGPT release Sunsetting GPT‑4 in ChatGPT on 2025-04-10: 1 tracked
   change across Model Support'
-machine_hash: b9972d3861f9ecc34f64e0f1c13dd8ed8014444dbb596fbdc47f7c91f721c202
+machine_hash: 6ab34a75bc5d14d7938da54d03b0dc1d53cfd8c10dc2da33bf33b1f0ba66bb6a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Sunsetting GPT‑4 in ChatGPT
 <!-- chronolog:begin region="summary" -->
 Effective April 30, 2025, GPT‑4 will be retired from ChatGPT and fully replaced by GPT‑4o.GPT‑4o is our newer, natively multimodal model. In head‑to‑head evaluations it consistently surpasses GPT‑4 in writing, coding, STEM, and more.Recent upgrades have further improved GPT‑4o’s instruction following, problem solving…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Effective April 30, 2025, GPT‑4 will be retired from ChatGPT and fully replaced by GPT‑4o]] · Model Support
+- [[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Sunsetting GPT‑4 in ChatGPT]] · Model Support · Policy
 <!-- chronolog:end -->

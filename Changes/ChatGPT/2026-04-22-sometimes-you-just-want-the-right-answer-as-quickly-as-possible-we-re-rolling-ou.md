@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-04-22 · Memory and Personalization: Sometimes, yo
   want the right answer as quickly as possible. We’re rolling out Fast answers, a
   quicker…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1007
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: d17065691e326bb1adcfaa617550a21cbe8340066ced21a21fc29071a6b08f69
+kind: change
+machine_hash: a94f7fac28c75edd934f74363dd94f11ff97e82c1702766e4765470c5b05eaa0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,8 +49,9 @@ record:
       answers off anytime in Personalization settings.We’ll continue expanding Fast
       answers to more kinds of questions over time.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou
@@ -75,24 +77,24 @@ record:
     - faster
     score: 50
     theme: reliability-performance
-  title: Sometimes, you just want the right answer as quickly as possible
+  title: Fast answers in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-12-added-automemorydirectory-setting-to-configure-a-custom-directory-for-auto-memor|Added
-  autoMemoryDirectory setting to configure a custom directory for auto-memory…]]'
-- '[[Changes/Claude Code/2026-03-12-added-actionable-suggestions-to-context-command-identifies-context-heavy-tools-m|Added
-  actionable suggestions to /context command]]'
-- '[[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|We’re
-  sunsetting the preset Nerdy base style to simplify options and improve…]]'
+- '[[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|Sunsetting
+  the “Nerdy” base style]]'
+- '[[Changes/Claude Code/2026-03-27-memory-filenames-in-the-saved-n-memories-notice-now-highlight-on-hover-and-open|Memory
+  filenames in the "Saved N memories" notice now highlight on hover and open on click]]'
+- '[[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file
+  diff rendering is now much faster, smoother, and less memory-heavy]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-22-fast-answers-in-chatgpt-300ebea9|chatgpt-2026-04-22-fast-answers-in-chatgpt-300ebea9]]'
 source_type: chatgpt_changelog
 theme: memory
-title: Sometimes, you just want the right answer as quickly as possible
+title: Fast answers in ChatGPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Sometimes, you just want the right answer as quickly as possible
+# Fast answers in ChatGPT
 
 **ChatGPT** · 2026-04-22 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-22-fast-answers-in-chatgpt-300ebea9|Fast answers in ChatGPT]]
 <!-- chronolog:end -->
@@ -110,14 +112,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-03-17 · ChatGPT · [[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|We’re sunsetting the preset Nerdy base style to simplify options and improve…]]
-- Later: 2026-05-05 · ChatGPT · [[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Starting today, we’re rolling out memory improvements to ChatGPT Plus and Pro users…]]
+- Earlier: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file diff rendering is now much faster, smoother, and less memory-heavy]]
+- Later: 2026-05-05 · ChatGPT · [[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Memory sources and more personalized responses in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-11-24'
 description: 'ChatGPT release Shopping research in ChatGPT on 2025-11-24: 1 tracked
   change across Memory and Personalization'
-machine_hash: c49faa7ce2b5ae311b059a52bfb87467d38be534494aad6582f01fc012b56731
+machine_hash: 318d295ab70a84c6a534d9f4ffbeb95ca7dfc72779ee161a5a69fcd91e2a2ebb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Shopping research in ChatGPT
 <!-- chronolog:begin region="summary" -->
 Shopping research is a new interactive experience that helps you find the right products without doing all the research yourself. Describe what you need—like a quiet cordless vacuum for a small apartment, a gift for a four‑year‑old who loves art, or a way to choose between three bikes—and ChatGPT will ask clarifying…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-11-24-shopping-research-is-a-new-interactive-experience-that-helps-you-find-the-right-0a021d|Shopping research is a new interactive experience that helps you find the right…]] · Memory and Personalization
+- [[Changes/ChatGPT/2025-11-24-shopping-research-is-a-new-interactive-experience-that-helps-you-find-the-right-0a021d|Shopping research in ChatGPT]] · Memory and Personalization
 <!-- chronolog:end -->

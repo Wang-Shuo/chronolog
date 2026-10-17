@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: c6d2c735288a213015a22d67ff10592e2336ea410630eeacac8ae157efc351a4
+machine_hash: d205a7516f5b622a8a124923fea172fe159bf917974b1d96e6d9359ea3667935
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -55,6 +55,7 @@ related_changes:
   the refusal when Claude tries to invoke a skill with disable-model-invocation]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-06-updates-to-gpt-5-6-in-chatgpt-29572055|chatgpt-2026-08-06-updates-to-gpt-5-6-in-chatgpt-29572055]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: GPT‑5.6 Luna will become the default model for Free and Go users this week
 type: change

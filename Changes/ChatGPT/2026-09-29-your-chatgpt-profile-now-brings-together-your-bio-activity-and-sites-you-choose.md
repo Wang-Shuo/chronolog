@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: cdd4d74fe5227b3953979cab65935d58e24dc2b3e12ee89f5752b048d1783a88
+machine_hash: 4bce8d9aa9d6849a2cbaa237a086502d913096540acd658f445088033d6151b1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,6 +57,7 @@ related_changes:
   brings your Pages, files, and related work together in ChatGPT]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-share-your-profile-and-showcase-your-sites-b1579ad3|chatgpt-2026-09-29-share-your-profile-and-showcase-your-sites-b1579ad3]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: collaboration
 title: Your ChatGPT profile now brings together your bio, activity, and Sites you
   choose…

@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: aad1ee9c878fbc499c1bbfa32d734a365997f251e59ebd452fc6757d093a0872
+kind: change
+machine_hash: f6babdbcee6bd83a7ca520fae0c88c250f80c681e678e8762f248e80795ae92f
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,8 +29,9 @@ record:
   - quote: 'Skills: added `\$` escape syntax to include a literal `$` before a digit
       in command bodies'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.163
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: skills-added-escape-syntax-to-include-a-literal-before-a-digit-in-command-bodies
@@ -42,10 +44,10 @@ record:
     in command bodies'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-acceptedits-mode-now-prompts-before-writing-build-tool-config-files-that-grant-c|acceptEdits
-  mode now prompts before writing build-tool config files that grant…]]'
-- '[[Changes/Claude Code/2026-06-02-parallel-tool-calls-a-failed-bash-command-no-longer-cancels-other-calls-in-the-s|Parallel
-  tool calls]]'
+- '[[Changes/Claude Code/2026-06-02-2-developer-workflow-changes-in-v2-1-160|2 Developer
+  Workflow changes in v2.1.160]]'
+- '[[Changes/Claude Code/2026-06-02-2-developer-workflow-changes-in-v2-1-161|2 Developer
+  Workflow changes in v2.1.161]]'
 - '[[Changes/Claude Code/2026-06-03-tools-explicitly-listing-grep-glob-now-provides-the-dedicated-search-tools-on-na|--tools:
   explicitly listing Grep/Glob now provides the dedicated search tools…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988|claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988]]'
@@ -71,9 +73,12 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-06-04-added-a-c-to-copy-shortcut-to-btw-that-copies-the-raw-markdown-answer-to-the-cli|Added a "c to copy" shortcut to /btw that copies the raw markdown answer…]] · Interface Experience
-- [[Changes/Claude Code/2026-06-04-hooks-stop-and-subagentstop-hooks-can-now-return-hookspecificoutput-additionalco|Hooks: Stop and SubagentStop hooks can now return…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-06-04-the-subscription-switch-suggestion-now-shows-in-the-startup-announcement-slot-in|The subscription-switch suggestion now shows in the startup announcement slot…]] · Pricing Model
+- [[Changes/Claude Code/2026-06-04-2-apps-and-integrations-changes-in-v2-1-163|2 Apps and Integrations changes in v2.1.163]] · Apps and Integrations
+- [[Changes/Claude Code/2026-06-04-fixed-org-managed-permission-rules-not-applying-for-the-entire-session-when-the|Fixed org-managed permission rules not applying for the entire session…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-06-04-2-agent-mode-changes-in-v2-1-163|2 Agent Mode changes in v2.1.163]] · Agent Mode
 - [[Changes/Claude Code/2026-06-04-added-plugin-list-command-to-list-installed-plugins-with-enabled-disabled-filter|Added /plugin list command to list installed plugins…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-06-04-2-interface-experience-changes-in-v2-1-163|2 Interface Experience changes in v2.1.163]] · Interface Experience
 - [[Changes/Claude Code/2026-06-04-added-requiredminimumversion-and-requiredmaximumversion-managed-settings-claude|Added requiredMinimumVersion and requiredMaximumVersion managed settings]] · Enterprise and Administration
 <!-- chronolog:end -->
 
@@ -81,7 +86,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-tools-explicitly-listing-grep-glob-now-provides-the-dedicated-search-tools-on-na|--tools: explicitly listing Grep/Glob now provides the dedicated search tools…]]
-- Later: 2026-06-15 · Claude Code · [[Changes/Claude Code/2026-06-15-improved-doctor-with-consistent-flat-tree-layout-across-all-sections-clearer-sec|Improved /doctor with consistent flat tree layout across all sections, clearer…]]
+- Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-background-sessions-are-now-told-that-shared-checkout-edits-are-blocked-until-th|Background sessions are now told that shared-checkout edits are blocked until they…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

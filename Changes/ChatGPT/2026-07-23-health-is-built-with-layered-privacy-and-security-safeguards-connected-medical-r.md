@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: d525215aed85cb6fdc82215dce1309b26e606dc6a7a986fdab5c91ede736ee32
+kind: change
+machine_hash: c160a1fd8110e3b0efc6064d29d9c9fad18293614530e0a70719119d7ea07a06
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,8 +33,9 @@ record:
       medical records and Apple Health information, and conversations that use it,
       are not used to train our foundation models or target ads.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: health-is-built-with-layered-privacy-and-security-safeguards-connected-medical-r
@@ -54,12 +56,12 @@ record:
   title: Health is built with layered privacy and security safeguards
   type: change
 related_changes:
+- '[[Changes/Claude Code/2026-07-20-5-safety-and-privacy-changes-in-v2-1-216|5 Safety
+  and Privacy changes in v2.1.216]]'
 - '[[Changes/Claude Code/2026-07-21-fixed-remote-control-sessions-not-showing-a-pending-permission-prompt-or-dialog|Fixed
   Remote Control sessions not showing a pending permission prompt or dialog…]]'
-- '[[Changes/Claude Code/2026-07-22-improved-auto-mode-the-dangerous-rm-background-and-suspicious-windows-path-check|Improved
-  auto mode]]'
-- '[[Changes/Claude Code/2026-07-22-fixed-agent-frontmatter-hooks-running-from-untrusted-folders-hooks-now-require-t|Fixed
-  agent frontmatter hooks running from untrusted folders]]'
+- '[[Changes/Claude Code/2026-07-22-3-safety-and-privacy-changes-in-v2-1-218|3 Safety
+  and Privacy changes in v2.1.218]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6|chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
@@ -82,15 +84,14 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2026-07-23-we-re-starting-to-roll-out-a-new-health-experience-in-chatgpt-logged-in-free-go|We’re starting to roll out a new health experience in ChatGPT]] · Files and Data
-- [[Changes/ChatGPT/2026-07-23-available-on-web-and-ios-health-lets-you-view-lab-results-medications-activity-s|Available on web and iOS, Health lets you view lab results, medications, activity…]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-07-23-we-re-starting-to-roll-out-a-new-health-experience-in-chatgpt-logged-in-free-go-b62f3b|We’re starting to roll out a new health experience in ChatGPT]] · Files and Data
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-fixed-agent-frontmatter-hooks-running-from-untrusted-folders-hooks-now-require-t|Fixed agent frontmatter hooks running from untrusted folders]]
-- Later: 2026-07-24 · Claude Code · [[Changes/Claude Code/2026-07-24-added-sandbox-network-strictallowlist-setting-to-deny-non-allowlisted-hosts-for|Added sandbox.network.strictAllowlist setting to deny non-allowlisted hosts…]]
+- Earlier: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-3-safety-and-privacy-changes-in-v2-1-218|3 Safety and Privacy changes in v2.1.218]]
+- Later: 2026-07-24 · Claude Code · [[Changes/Claude Code/2026-07-24-2-safety-and-privacy-changes-in-v2-1-219|2 Safety and Privacy changes in v2.1.219]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

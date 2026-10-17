@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 534417eb3ea3f47e21d85d94b4a2eac7b42ef6e5483c1f77435ad4ee2e4c6f45
+machine_hash: a4c0cdbd38606b8afdc10b778bd210f9c5bbd58843df4994466c8782cb033729
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   to claude plugin validate]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab|claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added --marketplace source to claude plugin install
 type: change

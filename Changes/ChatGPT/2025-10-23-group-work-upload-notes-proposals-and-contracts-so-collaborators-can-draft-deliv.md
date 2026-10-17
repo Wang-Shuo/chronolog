@@ -15,9 +15,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: a57172cca22a1fa695aa21fbc0e07a9845a8b7f7a1916336058e3555dae4ce52
+kind: change
+machine_hash: 7f500601c38bf429afab6837e01d5f6ced7f9e4b09f41318ae59a227ff07528a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,8 +31,9 @@ record:
   - quote: 'Group work: Upload notes, proposals, and contracts so collaborators can
       draft deliverables faster and stay in sync.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: group-work-upload-notes-proposals-and-contracts-so-collaborators-can-draft-deliv
@@ -42,12 +44,12 @@ record:
     draft…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-13-more-robust-ability-to-follow-instructions-especially-in-longer-conversations-si|More
-  robust ability to follow instructions, especially in longer conversations…]]'
-- '[[Changes/Cursor/2025-07-29-agent-edits-are-now-faster-by-lazy-loading-linter-errors-search-replace-edit-lat|Agent
-  edits are now faster by lazy loading linter errors]]'
-- '[[Changes/ChatGPT/2025-09-17-standard-new-default-balancing-speed-and-intelligence-and-extended-the-previous|Standard
-  (new default, balancing speed and intelligence) and Extended…]]'
+- '[[Changes/Cursor/2025-09-12-5-reliability-and-performance-changes-in-1-6|5 Reliability
+  and Performance changes in 1.6]]'
+- '[[Changes/ChatGPT/2025-09-17-2-reliability-and-performance-changes-in-toggle-thinking-time-in-the-message|2
+  Reliability and Performance changes in Toggle thinking time in the message…]]'
+- '[[Changes/Cursor/2025-09-29-8-reliability-and-performance-changes-in-1-7|8 Reliability
+  and Performance changes in 1.7]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-23-shared-projects-217fa07d|chatgpt-2025-10-23-shared-projects-217fa07d]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
@@ -70,15 +72,15 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-3f946e|Starting today, project sharing is available to all ChatGPT users, including…]] · Mobile and Desktop
 - [[Changes/ChatGPT/2025-10-23-content-creation-apply-project-specific-instructions-to-keep-tone-and-style-cons|Content creation: Apply project-specific instructions to keep tone and style…]] · Collaboration
-- [[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-9033cc|Starting today, project sharing is available to all ChatGPT users, including…]] · Mobile and Desktop
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-09-17 · ChatGPT · [[Changes/ChatGPT/2025-09-17-standard-new-default-balancing-speed-and-intelligence-and-extended-the-previous|Standard (new default, balancing speed and intelligence) and Extended…]]
-- Later: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-for-this-holiday-release-we-ve-focused-entirely-on-fixing-bugs-and-improving-sta|For this holiday release, we've focused entirely on fixing bugs and improving stability]]
+- Earlier: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-8-reliability-and-performance-changes-in-1-7|8 Reliability and Performance changes in 1.7]]
+- Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-improved-performance|Improved Performance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

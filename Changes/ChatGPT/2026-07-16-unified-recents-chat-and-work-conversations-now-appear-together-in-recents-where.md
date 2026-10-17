@@ -15,9 +15,10 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f3ce4f7af098de3adf999efddb24e682a7097113b861d3a10cac094c5317ab19
+kind: change
+machine_hash: 4dbeffcff4ee1d4ecfb84ca70718470fcebacf1942a9d5473fef0db1965ef795
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,10 +32,12 @@ record:
   - quote: 'Unified Recents: Chat and Work conversations now appear together in Recents,
       where you can sort, filter, and pin them.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
+  scope: macOS and Windows
   slug: unified-recents-chat-and-work-conversations-now-appear-together-in-recents-where
   source_release: chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad
   source_type: chatgpt_changelog
@@ -51,6 +54,7 @@ related_changes:
   Remote session startup with a provisioning checklist while the container starts]]'
 - '[[Changes/Claude Code/2026-06-29-added-readable-default-names-for-sessions-at-start-making-them-easier-to-identif|Added
   readable default names for sessions at start, making them easier to identify…]]'
+scope: macOS and Windows
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad|chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad]]'
 source_type: chatgpt_changelog
 theme: projects-workspaces
@@ -62,7 +66,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Unified Recents: Chat and Work conversations now appear together in Recents, where…
 
-**ChatGPT** · 2026-07-16 · [[Themes/projects-workspaces|Projects and Workspaces]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad|ChatGPT desktop app experience updates]]
+**ChatGPT** · 2026-07-16 · [[Themes/projects-workspaces|Projects and Workspaces]] · macOS and Windows · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad|ChatGPT desktop app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->

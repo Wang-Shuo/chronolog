@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-09-27'
 description: 'Cursor release /edit in chat on 2023-09-27: 1 tracked change across
   Editor Experience'
-machine_hash: 6152f836a90111021e1df759d1e20bc40a7722f4d2de540a3cb8193440b77ceb
+machine_hash: c01f3b3169880d766679c3c47fb851cf3ebe5e1695d1d281590e2ff8e282d85b
 product: cursor
 product_name: Cursor
 record:
@@ -41,10 +41,10 @@ version: 0.11.15-nightly
 <!-- chronolog:begin region="summary" -->
 You can now use an early preview of /edit in the chat! It's significantly faster at editing entire files than just using cmd-k. The /edit feature is currently only supported if you do not use your own API key, since it relies on non-public models.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-09-27-you-can-now-use-an-early-preview-of-edit-in-the-chat-it-s-significantly-faster-a|Use an early preview of /edit in the chat!]] · Editor Experience
+- [[Changes/Cursor/2023-09-27-you-can-now-use-an-early-preview-of-edit-in-the-chat-it-s-significantly-faster-a|/edit in chat]] · Editor Experience
 <!-- chronolog:end -->

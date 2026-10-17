@@ -3,7 +3,7 @@ changes_count: 2
 date: '2025-06-07'
 description: 'ChatGPT release Updates to Advanced Voice Mode for paid users on 2025-06-07:
   2 tracked changes across Voice and Audio'
-machine_hash: 6342083282a275859cca2592a147b6b6c0b28fcf3c5215742ce95251557879ad
+machine_hash: ae3d94dc8f46a167e3e7c5f3c8cbab65526ab3bb3a1acc63d1ab812f886c32a1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ version: Updates to Advanced Voice Mode for paid users
 <!-- chronolog:begin region="summary" -->
 We're upgrading Advanced Voice in ChatGPT for paid users with significant enhancements in intonation and naturalness, making interactions feel more fluid and human-like. When we first launched Advanced Voice, it represented a leap forward in AI speech—now, it speaks even more naturally, with subtler intonation…
 
-Tracked 2 of 2 candidate lines.
+Tracked 2 cards from 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

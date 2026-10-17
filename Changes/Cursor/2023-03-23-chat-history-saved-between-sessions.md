@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6181a60e8c92761421192d80dca1da578256aeb6e51ef502503cf0a2745142a2
+machine_hash: 0ee3df4080ee2a30341e760a8e30d90e4d04a25ef6b5859675b0d77ed2cc9b4d
 product: cursor
 product_name: Cursor
 record:
@@ -48,6 +48,7 @@ related_changes:
   copy from chat]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-23-0-1-5-https-cursor-com-changelog-0-1-5-b6aefe25|cursor-2023-03-23-0-1-5-https-cursor-com-changelog-0-1-5-b6aefe25]]'
 source_type: cursor_changelog
+superseded: true
 theme: interface-experience
 title: Chat history saved between sessions
 type: change

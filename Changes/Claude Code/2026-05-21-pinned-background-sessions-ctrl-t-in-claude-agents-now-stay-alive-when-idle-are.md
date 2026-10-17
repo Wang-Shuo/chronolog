@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 54b91f65d8b8e67d06b675b601ee5e67a6d27341f36efecd55a45f79f2454c9d
+machine_hash: 907d0b1b506080077ec22f7cbb1128f1a17ce7d0f0d7735b1d04474097ac9e28
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,6 +61,7 @@ related_changes:
   auto-updater: retries transient network failures, reports specific error…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd|claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd]]'
 source_type: github_releases
+superseded: true
 theme: reliability-performance
 title: Pinned background sessions (Ctrl+T in claude agents) now stay alive when idle…
 type: change

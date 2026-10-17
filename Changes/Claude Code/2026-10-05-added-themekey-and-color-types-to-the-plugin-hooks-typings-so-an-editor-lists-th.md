@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a9f8c1b355a3ce99aca7d406313345cb2e53b2e6de796d729ddb7e19c03262af
+machine_hash: 9a78d38793b63074f33efcb8ae4200fcd6418fb73b8dbed7dbeba84eb2f65783
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,6 +61,7 @@ related_changes:
   how quickly large files open in a plugin code pane by laying…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6|claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added ThemeKey and Color types to the plugin hooks typings, so an editor lists…
 type: change

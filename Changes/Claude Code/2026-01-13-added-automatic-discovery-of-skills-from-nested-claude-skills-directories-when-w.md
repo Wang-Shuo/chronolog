@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f06e735f3fa65e1ba5bb3d1a1dcb3ce65f71fc444714a15d319033c42d98a015
+machine_hash: 76604bd35262540ddd945e2a06e3be97ab59f634953377b5dc3736bf78198e69
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   FORCE_AUTOUPDATE_PLUGINS environment variable to allow plugin autoupdate…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a|claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added automatic discovery of skills from nested .claude/skills directories…
 type: change

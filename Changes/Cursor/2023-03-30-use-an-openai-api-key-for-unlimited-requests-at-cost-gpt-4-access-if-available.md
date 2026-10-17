@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 91b3458df28f69480212f29fa817dc84088177428d5ba49ed47e38c812aa18cf
+kind: change
+machine_hash: f52a61081f3ba0d86ed74c73497b31100c983613228b2bbea788a0d82aa3acb9
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Use an OpenAI API key for unlimited requests at cost (GPT-4 access if available)
     source_release: https://cursor.com/changelog/0-1-12
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: use-an-openai-api-key-for-unlimited-requests-at-cost-gpt-4-access-if-available
@@ -41,8 +43,8 @@ record:
   title: Use an OpenAI API key for unlimited requests at cost (GPT-4 access if available)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-03-14-we-re-excited-to-bring-gpt-4-our-latest-model-to-our-chatgpt-plus-subscribers-gp|ChatGPT
-  brings GPT-4, our latest model, to our ChatGPT Plus subscribers]]'
+- '[[Changes/ChatGPT/2023-03-14-we-re-excited-to-bring-gpt-4-our-latest-model-to-our-chatgpt-plus-subscribers-gp-7153e9|Announcing
+  GPT-4 in ChatGPT]]'
 - '[[Changes/ChatGPT/2023-03-23-third-party-plugins-an-experimental-model-that-knows-when-and-how-to-use-externa|Third-party
   plugins: An experimental model that knows when and how to use external plugins]]'
 - '[[Changes/ChatGPT/2023-03-23-code-interpreter-an-experimental-chatgpt-model-that-can-use-python-and-handles-u|Code

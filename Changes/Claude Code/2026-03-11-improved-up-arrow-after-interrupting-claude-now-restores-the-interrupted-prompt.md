@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4be9410c2acadc3b3a457e4500ef1e120f27545c0920b7d5365f3597ae9f64b1
+machine_hash: e7d087f540c96eb650943911570793b0130ccd365914e5e87fa057e33382fbee
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   w key in /copy to write the focused selection directly to a file…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f|claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Improved Up arrow after interrupting Claude
 type: change

@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e2d3734c36af82c476ac6c83009b03eac7ab4864f16ce1ce0d4c1140d4767852
+machine_hash: 1b1f8cd065a17d5f10eda2fd0ece9ad3aa09e494bf44595be637dc72e808c783
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   can now switch between Claude-managed worktrees mid-session]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a|claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: acceptEdits mode now prompts before writing build-tool config files that grant…
 type: change

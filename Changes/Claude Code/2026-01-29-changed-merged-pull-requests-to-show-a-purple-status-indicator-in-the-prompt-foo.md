@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a2f9986dbaeda82e2cd75a903157a378e48f19d4245586f0e8f5f0347ba1b22f
+machine_hash: 6f866f6a9ea5e4b1c67c71121cfa513c2e72b15d2d6928a0bdf395712861ad75
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   customizable spinner verbs setting (spinnerVerbs)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-29-v2-1-23-github-280926274-b1e77a6a|claude-code-2026-01-29-v2-1-23-github-280926274-b1e77a6a]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Changed merged pull requests to show a purple status indicator in the prompt
   footer

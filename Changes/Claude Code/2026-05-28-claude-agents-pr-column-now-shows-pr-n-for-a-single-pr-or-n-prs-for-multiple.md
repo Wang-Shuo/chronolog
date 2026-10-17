@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: cc21925e4adeb147aa0069b020e15a4a7e7fcb617a33ec8089a38c6944900f1f
+machine_hash: 85e127e3a9a91affa34bdc6d360d7ea3f39849aba10265c21636251235738999
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   mode no longer suppresses AskUserQuestion when the user or a skill explicitly…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a|claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: 'claude agents: PR column now shows PR ♯N for a single PR or N PRs for multiple'
 type: change

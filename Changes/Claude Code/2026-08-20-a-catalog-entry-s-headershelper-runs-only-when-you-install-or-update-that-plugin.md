@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7be4e243af53aff2c4a1e9993c69091768222aead2af37acb089abcbddf41a8b
+machine_hash: 889793bf40eff9b0a79b56e5ba1f8b313870bc6304a7a2c80c7ac48c1a984b0e
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   Apple Messages from Codex and ChatGPT Work]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2|claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: A catalog entry's headersHelper runs only when you install or update that plugin…
 type: change

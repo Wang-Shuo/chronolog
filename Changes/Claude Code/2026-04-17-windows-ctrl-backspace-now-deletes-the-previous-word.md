@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b2a4e81d682323f9c9e0a94e7ed3ae623765efe751249a36c85511b33dfda74d
+machine_hash: 162f17aef1e9fcd6c4977fe5d1533e2bf92987550b35f0176b4e4f3ebe89e2ea
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   mode: Shift+↑/↓ now scrolls the viewport when extending a selection past…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba|claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: 'Windows: Ctrl+Backspace now deletes the previous word'
 type: change

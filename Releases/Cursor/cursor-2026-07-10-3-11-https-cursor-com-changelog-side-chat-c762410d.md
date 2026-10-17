@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 7
 date: '2026-07-10'
-description: 'Cursor release Side Chats and Conversation Search on 2026-07-10: 5 tracked
-  changes across Agent Mode, Context Window, Editor Experience'
-machine_hash: 9361c5c1d8fc4793e886e9053a2c3d30729c4e9036299fca468652bc6e9e2495
+description: 'Cursor release Side Chats and Conversation Search on 2026-07-10: 7 tracked
+  changes across Interface Experience, Agent Mode, Collaboration, Context Window'
+machine_hash: 32584d0a26227c06604b9e43c3170e4bf844d8cf1d614e6acc886f9eefb90ec6
 product: cursor
 product_name: Cursor
 record:
@@ -40,14 +40,16 @@ version: '3.11'
 <!-- chronolog:begin region="summary" -->
 This release makes it easier to stay in flow with side chats that run alongside your main chat, the ability to search agent transcripts, and simplified project and repo pickers.
 
-Tracked 5 of 24 candidate lines.
+Tracked 7 cards from 24 candidate lines; 6 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-07-10-find-past-agent-chats-faster-with-search-results-that-go-beyond-names-and-pr-num|Find past agent chats faster with search results that go beyond names and PR numbers]] · Editor Experience
-- [[Changes/Cursor/2026-07-10-by-default-side-chats-focus-on-reading-searching-and-answering-use-them-to-ask-c|By default, side chats focus on reading, searching, and answering]] · Agent Mode
-- [[Changes/Cursor/2026-07-10-each-side-chat-is-a-durable-full-agent-conversation-that-you-can-follow-up-on-re|Each side chat is a durable, full agent conversation that you can follow up…]] · Context Window
+- [[Changes/Cursor/2026-07-10-side-chats|Side chats]] · Context Window · Launch
+- [[Changes/Cursor/2026-07-10-conversation-search-454cae|Conversation search]] · Interface Experience · Launch
+- [[Changes/Cursor/2026-07-10-new-cloud-agent-hooks|New cloud agent hooks]] · Agent Mode · Launch
+- [[Changes/Cursor/2026-07-10-6-interface-experience-changes-in-side-chats-and-conversation-search|6 Interface Experience changes in Side Chats and Conversation Search]] · Interface Experience · Digest
 - [[Changes/Cursor/2026-07-10-this-release-makes-it-easier-to-stay-in-flow-with-side-chats-that-run-alongside|Cursor makes it easier to stay in flow with side chats that run alongside your main…]] · Agent Mode
-- [[Changes/Cursor/2026-07-10-open-a-side-chat-to-ask-questions-explore-ideas-and-investigate-tangents-without|Open a side chat to ask questions, explore ideas, and investigate tangents without…]] · Context Window
+- [[Changes/Cursor/2026-07-10-combined-all-remote-options-your-machines-team-pools-and-existing-remote-workspa|Combined all remote options—your machines, team pools, and existing remote…]] · Collaboration
+- [[Changes/Cursor/2026-07-10-redesigned-project-and-repo-pickers|Redesigned project and repo pickers]] · Interface Experience · Launch
 <!-- chronolog:end -->

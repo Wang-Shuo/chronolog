@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 7a55bdaf5ad455f141ed24d9d8fe4b503d255fea41b30c6dba865f92bb988a54
+kind: fix
+machine_hash: 497b01d2790e15294fa7a346124a23474fba09763147bb65f8cf0479d2bca061
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
       a container restart, which caused permission prompts on plan edits and an empty
       plan-approval modal
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.91
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: fix
   product: claude-code
   product_name: Claude Code
   slug: fixed-plan-mode-in-remote-sessions-losing-track-of-the-plan-file-after-a-contain
@@ -45,12 +47,12 @@ record:
     container…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-01-fixed-ui-crash-when-malformed-tool-input-reached-the-permission-dialog|Fixed
-  UI crash when malformed tool input reached the permission dialog]]'
-- '[[Changes/Claude Code/2026-04-01-hardened-powershell-tool-permission-checks-fixed-trailing-background-job-bypass|Hardened
-  PowerShell tool permission checks]]'
-- '[[Changes/Claude Code/2026-04-01-added-defer-permission-decision-to-pretooluse-hooks-headless-sessions-can-pause|Added
-  "defer" permission decision to PreToolUse hooks]]'
+- '[[Changes/Claude Code/2026-03-27-fixed-official-marketplace-plugin-scripts-failing-with-permission-denied-on-maco|Fixed
+  official marketplace plugin scripts failing…]]'
+- '[[Changes/Claude Code/2026-04-01-2-safety-and-privacy-changes-in-v2-1-89|2 Safety
+  and Privacy changes in v2.1.89]]'
+- '[[Changes/Claude Code/2026-04-01-4-safety-and-privacy-changes-in-v2-1-90|4 Safety
+  and Privacy changes in v2.1.90]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc|claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc]]'
 source_type: github_releases
 theme: safety-privacy
@@ -61,7 +63,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Fixed plan mode in remote sessions losing track of the plan file after a container…
 
-**Claude Code** · 2026-04-02 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.91) · from [[Releases/Claude Code/claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc|v2.1.91]]
+**Claude Code** · 2026-04-02 · [[Themes/safety-privacy|Safety and Privacy]] · Fix · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.91) · from [[Releases/Claude Code/claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc|v2.1.91]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -73,17 +75,17 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-04-02-added-support-for-multi-line-prompts-in-claude-cli-open-q-deep-links-encoded-new|Added support for multi-line prompts in claude-cli://open?q= deep links…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-04-02-added-mcp-tool-result-persistence-override-via-meta-anthropic-maxresultsizechars|Added MCP tool result persistence override…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-04-02-added-disableskillshellexecution-setting-to-disable-inline-shell-execution-in-sk|Added disableSkillShellExecution setting to disable inline shell execution…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-04-02-plugins-can-now-ship-executables-under-bin-and-invoke-them-as-bare-commands-from|Plugins can now ship executables under bin/ and invoke them as bare commands…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-04-02-improved-performance-faster-stripansi-on-bun-by-routing-through-bun-stripansi|Improved performance: faster stripAnsi on Bun by routing through Bun.stripANSI]] · Reliability and Performance
+- [[Changes/Claude Code/2026-04-02-2-context-window-changes-in-v2-1-91|2 Context Window changes in v2.1.91]] · Context Window
+- [[Changes/Claude Code/2026-04-02-4-apps-and-integrations-changes-in-v2-1-91|4 Apps and Integrations changes in v2.1.91]] · Apps and Integrations
+- [[Changes/Claude Code/2026-04-02-feedback-now-explains-why-it-s-unavailable-instead-of-disappearing-from-the-slas|/feedback now explains why it's unavailable instead of disappearing from the slash menu]] · Interface Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-added-defer-permission-decision-to-pretooluse-hooks-headless-sessions-can-pause|Added "defer" permission decision to PreToolUse hooks]]
-- Later: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-added-subprocess-sandboxing-with-pid-namespace-isolation-on-linux-when-claude-co|Added subprocess sandboxing with PID namespace isolation on Linux…]]
+- Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-4-safety-and-privacy-changes-in-v2-1-90|4 Safety and Privacy changes in v2.1.90]]
+- Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-linux-sandbox-now-ships-the-apply-seccomp-helper-in-both-npm-and-native-builds-r|Linux sandbox now ships the apply-seccomp helper in both npm and native builds…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

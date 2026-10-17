@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: ae1819843e068217b8b7cbfaf76fabeab6b3ba54bcb40c6ab7c9eca14f88b872
+kind: change
+machine_hash: ba6f0cc8312bdb835e52c9c261fe9f0c4245b3bb0124924bca61f2421c6725a1
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +32,9 @@ record:
   - quote: Remote tunnels are now supported! Remote SSH support is also more robust
       (now supports multiple proxy jumps, among other things).
     source_release: https://cursor.com/changelog/0-35-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: remote-tunnels-are-now-supported-remote-ssh-support-is-also-more-robust-now-supp
@@ -70,9 +72,8 @@ type: change
 ## Also in this release
 
 - [[Changes/Cursor/2024-06-08-default-on-cursor-prediction-with-a-new-ui|Default-on Cursor Prediction with a new UI]] · Editor Experience
-- [[Changes/Cursor/2024-06-08-adds-context-pills-to-chat-messages-so-you-can-see-what-will-be-was-used|Adds context pills to chat messages, so you can see what will be/was used]] · Context Window
-- [[Changes/Cursor/2024-06-08-cmd-k-context-building-improvements|Cmd K context-building improvements]] · Context Window
 - [[Changes/Cursor/2024-06-08-update-0-35-1-disables-copilot-partial-accepts-by-default-and-makes-the-keybindi|UPDATE (0.35.1): Disables Copilot++ partial accepts by default and makes…]] · Model Support
+- [[Changes/Cursor/2024-06-08-adds-context-pills-to-chat-messages-so-you-can-see-what-will-be-was-used-a324a3|Adds context pills to chat messages, so you can see what will be/was used]] · Context Window
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

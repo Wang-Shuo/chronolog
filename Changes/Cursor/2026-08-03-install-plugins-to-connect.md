@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 689fe72411ca9d382c139399005a773e6ae7017319fe9955bd405991da8eaa51
+machine_hash: ca287f411131f530412f70a0f791993c8d3b1b0d3738efd2b780ce891fb3cff6
 product: cursor
 product_name: Cursor
 record:
@@ -45,6 +45,7 @@ related_changes:
   plugins give coding agents direct access to Gmail, Google Drive, and Calendar…]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-03-google-workspace-plugins-https-cursor-com-changelog-google-works-e8cf52f1|cursor-2026-08-03-google-workspace-plugins-https-cursor-com-changelog-google-works-e8cf52f1]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: Install plugins to connect
 type: change

@@ -2,7 +2,7 @@
 changes_count: 0
 date: '2023-09-02'
 description: 'Cursor release Staged Rollouts on 2023-09-02: no tracked changes'
-machine_hash: 25b998c7c7005bd0292d6f6f8efaeca88669a0e46984f29659cedacdf18628f5
+machine_hash: 9a8c996d2c2cf521c2539f8d677df8e55ae5108c63e4b82cd4e48292c71da127
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.9.4-nightly
 <!-- chronolog:begin region="summary" -->
 We can push an update to a randomly sampled small fraction of our users before rolling out to everyone.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: abc9e96042ddd99e3a58c433865b71883b829e367d566c4d435c4b207723d0c2
+machine_hash: a1fb435ba8b21852c685ae9c3cb30a0d07d70cc99f3296166ea5eaa2a3c34c5a
 product: cursor
 product_name: Cursor
 record:
@@ -50,6 +50,7 @@ related_changes:
   Router is our intelligent model router]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4|cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4]]'
 source_type: cursor_changelog
+superseded: true
 theme: model-support
 title: 'Intelligence: Frontier quality, matching the most expensive and powerful models…'
 type: change

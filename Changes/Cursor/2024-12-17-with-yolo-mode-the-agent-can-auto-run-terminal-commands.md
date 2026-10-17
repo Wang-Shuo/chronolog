@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 941db726dc99590433ca75bc05b7876335273800b5c746ea5733f8f041d3992d
+machine_hash: 8a96c9f38ca3a336fd806ffa814946fba39a7486c7fb0bd815f825c5a7322496
 product: cursor
 product_name: Cursor
 record:
@@ -58,6 +58,7 @@ related_changes:
   reads linter errors to automatically fix issues]]'
 source_release: '[[Releases/Cursor/cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e|cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e]]'
 source_type: cursor_changelog
+superseded: true
 theme: developer-workflow
 title: With Yolo Mode, the agent can auto-run terminal commands
 type: change

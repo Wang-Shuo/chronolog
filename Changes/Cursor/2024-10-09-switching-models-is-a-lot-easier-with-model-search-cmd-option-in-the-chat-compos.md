@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 1a154cd47b5e6e1f4d11a176e4ac438118fed34dca3f5e00161e85d332b01642
+machine_hash: 575b905ca6883101c738cca972f611d062ad350cca1423a68a6f90d01877e071
 product: cursor
 product_name: Cursor
 record:
@@ -62,6 +62,7 @@ related_changes:
   Default Model: We''ve made Claude 3.5 Sonnet the default model for users]]'
 source_release: '[[Releases/Cursor/cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1|cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1]]'
 source_type: cursor_changelog
+superseded: true
 theme: model-support
 title: Switching models is a lot easier with model search (Cmd-option-/) in the chat…
 type: change

@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 7
 date: '2025-04-15'
 description: 'Cursor release Rules generation, improved agent terminal and MCP images
-  on 2025-04-15: 5 tracked changes across Agent Mode, Context Window, Interface Experience'
-machine_hash: 182555c062ddc76cfe64821f8fdaf14130a869393a821c04f1a2ec5b3ad4add0
+  on 2025-04-15: 7 tracked changes across Context Window, Agent Mode, Apps and…'
+machine_hash: 30831c3512afd45c701de321e76dd16db6d21d578e117dcff010261c0bb2d362
 product: cursor
 product_name: Cursor
 record:
@@ -38,14 +38,16 @@ version: '0.49'
 <!-- chronolog:begin region="summary" -->
 #Automated and improved rules
 
-Tracked 5 of 10 candidate lines.
+Tracked 7 cards from 10 candidate lines; 1 line pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2025-04-15-reviewing-agent-generated-code-is-now-easier-with-a-built-in-diff-view-at-the-en|Reviewing agent generated code is now easier with a built-in diff view at the end…]] · Agent Mode
-- [[Changes/Cursor/2025-04-15-we-ve-also-fixed-a-long-standing-issue-where-always-attached-rules-now-persist-a|Cursor fixes a long-standing issue where Always attached rules now persist across…]] · Agent Mode
-- [[Changes/Cursor/2025-04-15-for-auto-attached-rules-with-path-patterns-defined-agent-will-now-automatically|For Auto Attached rules with path patterns defined, Agent will now automatically…]] · Agent Mode
-- [[Changes/Cursor/2025-04-15-you-can-now-generate-rules-directly-from-a-conversation-using-the-generate-curso|Generate rules directly from a conversation using the /Generate Cursor Rules command]] · Context Window
-- [[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|Chat history has moved into the command palette]] · Interface Experience
+- [[Changes/Cursor/2025-04-15-automated-and-improved-rules-15afc6|Automated and improved rules]] · Context Window · Launch
+- [[Changes/Cursor/2025-04-15-reviewing-agent-generated-code-is-now-easier-with-a-built-in-diff-view-at-the-en|Making reviews easier]] · Agent Mode · Launch
+- [[Changes/Cursor/2025-04-15-improved-agent-terminal-control|Improved agent terminal control]] · Developer Workflow · Launch
+- [[Changes/Cursor/2025-04-15-new-models|New models]] · Model Support · Launch
+- [[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|More accessible history]] · Interface Experience · Launch
+- [[Changes/Cursor/2025-04-15-images-in-mcp|Images in MCP]] · Apps and Integrations · Launch
+- [[Changes/Cursor/2025-04-15-project-structure-in-context-beta|Project structure in context (Beta)]] · Context Window · Launch
 <!-- chronolog:end -->

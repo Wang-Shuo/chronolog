@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 452682eb0a3f8bc8613d5fe3bf40aeeb6704906c21870d449094b7b569edcbec
+machine_hash: f2498242eff8af4571a98c1c949105a4d688a7f9fc7515cf51a1575efb928d85
 product: claude-code
 product_name: Claude Code
 record:
@@ -64,6 +64,7 @@ related_changes:
   Bugbot and Security Review with /review before pushing code]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-15-v2-1-178-github-339741361-902bc427|claude-code-2026-06-15-v2-1-178-github-339741361-902bc427]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Added Tool(param:value) syntax for permission rules to match a tool's input…
 type: change

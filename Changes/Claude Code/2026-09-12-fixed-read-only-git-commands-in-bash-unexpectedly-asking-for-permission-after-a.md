@@ -15,9 +15,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 1497a104912bd654ca54986b245d5a1ac733f4e4febd10b04a0e34eb68ff755f
+kind: fix
+machine_hash: 2b025e5fbcba2c59cb7b3fecd1870351677f46034073e1ce47877dd6f20b8557
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
   - quote: Fixed read-only git commands in Bash unexpectedly asking for permission
       after a session had been running for a while (regression in 2.1.269)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.270
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: fix
   product: claude-code
   product_name: Claude Code
   slug: fixed-read-only-git-commands-in-bash-unexpectedly-asking-for-permission-after-a
@@ -44,12 +46,12 @@ record:
   title: Fixed read-only git commands in Bash unexpectedly asking for permission after…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-08-fixed-syntax-highlighted-code-in-permission-prompts-and-messages-sometimes-omitt|Fixed
-  syntax-highlighted code in permission prompts and messages sometimes omitting…]]'
-- '[[Changes/Claude Code/2026-09-08-windows-fixed-read-write-and-edit-refusing-every-file-symlink-resolution-changed|Windows:
-  Fixed Read, Write and Edit refusing every file…]]'
-- '[[Changes/Claude Code/2026-09-09-fixed-remote-control-clients-that-join-a-claude-desktop-or-vs-code-session-showi|Fixed
-  Remote Control clients that join a Claude Desktop or VS Code session showing…]]'
+- '[[Changes/Claude Code/2026-09-09-2-safety-and-privacy-changes-in-v2-1-267|2 Safety
+  and Privacy changes in v2.1.267]]'
+- '[[Changes/Claude Code/2026-09-10-8-safety-and-privacy-changes-in-v2-1-268|8 Safety
+  and Privacy changes in v2.1.268]]'
+- '[[Changes/Claude Code/2026-09-11-5-safety-and-privacy-changes-in-v2-1-269|5 Safety
+  and Privacy changes in v2.1.269]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-12-v2-1-270-github-387670363-32c73094|claude-code-2026-09-12-v2-1-270-github-387670363-32c73094]]'
 source_type: github_releases
 theme: safety-privacy
@@ -60,7 +62,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Fixed read-only git commands in Bash unexpectedly asking for permission after…
 
-**Claude Code** · 2026-09-12 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.270) · from [[Releases/Claude Code/claude-code-2026-09-12-v2-1-270-github-387670363-32c73094|v2.1.270]]
+**Claude Code** · 2026-09-12 · [[Themes/safety-privacy|Safety and Privacy]] · Fix · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.270) · from [[Releases/Claude Code/claude-code-2026-09-12-v2-1-270-github-387670363-32c73094|v2.1.270]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -76,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-fixed-remote-control-clients-that-join-a-claude-desktop-or-vs-code-session-showi|Fixed Remote Control clients that join a Claude Desktop or VS Code session showing…]]
+- Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-5-safety-and-privacy-changes-in-v2-1-269|5 Safety and Privacy changes in v2.1.269]]
 - Later: 2026-09-14 · ChatGPT · [[Changes/ChatGPT/2026-09-14-if-you-make-no-changes-to-your-plugins-settings-the-default-permission-setting-i|If you make no changes to your Plugins settings, the default permission setting…]]
 <!-- chronolog:end -->
 

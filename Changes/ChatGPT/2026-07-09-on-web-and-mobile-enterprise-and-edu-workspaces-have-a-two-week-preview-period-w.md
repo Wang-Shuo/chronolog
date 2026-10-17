@@ -4,19 +4,20 @@ date: '2026-07-09'
 description: 'ChatGPT · 2026-07-09 · Enterprise and Administration: On web and mobile,
   Enterprise and Edu workspaces have a two-week preview period. Work is off by default…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise
-    and Edu rollout coming soon]]'
+  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
+    users can only access stable release (no pre-release)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 392
+  lag_days: 400
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 0bcdd1d95f8986d45219e4e314dec85d9a06c5066210ec040110389ba6620f60
+kind: change
+machine_hash: 62739cf7769df22b2c322e4230462f2cfe8c075ddee6ca0a8cf995630e45f4fd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,8 +33,9 @@ record:
       period. Work is off by default during the preview, and admins can opt out before
       it turns on automatically at the end of the preview.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: on-web-and-mobile-enterprise-and-edu-workspaces-have-a-two-week-preview-period-w
@@ -54,12 +56,12 @@ record:
     period
   type: change
 related_changes:
+- '[[Changes/Claude Code/2026-06-04-added-requiredminimumversion-and-requiredmaximumversion-managed-settings-claude|Added
+  requiredMinimumVersion and requiredMaximumVersion managed settings]]'
 - '[[Changes/ChatGPT/2026-06-08-send-an-email-directly-from-within-a-chat-if-you-ve-connected-gmail-or-outlook-y|Send
   an email directly from within a chat]]'
 - '[[Changes/ChatGPT/2026-07-09-business-and-enterprise-customers-already-have-access-to-sites-starting-today-th|Business
   and Enterprise customers already have access to Sites]]'
-- '[[Changes/ChatGPT/2026-07-09-on-web-and-mobile-work-is-rolling-out-to-paid-plans-except-free-and-go-pro-pro-l|On
-  web and mobile, Work is rolling out to paid plans except Free and Go]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
@@ -82,10 +84,9 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2026-07-09-on-web-and-mobile-work-is-rolling-out-to-paid-plans-except-free-and-go-pro-pro-l|On web and mobile, Work is rolling out to paid plans except Free and Go]] · Enterprise and Administration
+- [[Changes/ChatGPT/2026-07-09-work-can-also-keep-projects-moving-through-scheduled-tasks-that-run-once-repeat-2d6910|Work can also keep projects moving through Scheduled Tasks that run once, repeat…]] · Automation and Scheduling
 - [[Changes/ChatGPT/2026-07-09-we-re-also-replacing-the-app-directory-with-the-plugin-directory-existing-app-co|We’re also replacing the App Directory with the Plugin Directory]] · Apps and Integrations
 - [[Changes/ChatGPT/2026-07-09-chatgpt-work-is-an-agent-for-longer-more-involved-tasks-it-can-research-and-anal|ChatGPT Work is an agent for longer, more involved tasks]] · Agent Mode
-- [[Changes/ChatGPT/2026-07-09-work-can-also-keep-projects-moving-through-scheduled-tasks-that-run-once-repeat|Work can also keep projects moving through Scheduled Tasks that run once, repeat…]] · Automation and Scheduling
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
@@ -98,7 +99,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise and Edu rollout coming soon]]
+- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

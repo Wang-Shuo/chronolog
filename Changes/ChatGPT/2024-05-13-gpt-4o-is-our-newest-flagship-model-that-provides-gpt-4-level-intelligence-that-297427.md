@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: a0dca19cb701418bca386692e8589dc6464a061e490eac5e349ec0712b5e45d5
+kind: launch
+machine_hash: 087ce2a77df16f85cbd4278e7d5b8d7687a6d6fde254f408facfbac2ad8e605c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,8 +41,9 @@ record:
       limit that is up to 5x greater than free users, and Team and Enterprise users
       will have even higher limits.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: launch
   product: chatgpt
   product_name: ChatGPT
   slug: gpt-4o-is-our-newest-flagship-model-that-provides-gpt-4-level-intelligence-that
@@ -76,11 +78,11 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v2
-  title: GPT-4o is our newest flagship model that provides GPT-4-level intelligence…
+  title: Introducing GPT-4o
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|If
-  you''re a Pro or Business user, you can add "claude-3-opus" as a custom model…]]'
+- '[[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|Claude
+  Support]]'
 - '[[Changes/Cursor/2024-03-20-stable-claude-support-all-the-newest-claude-models-are-available-for-pro-and-api|Stable
   Claude Support]]'
 - '[[Changes/Cursor/2024-04-12-new-gpt-4-model-as-of-a-couple-of-days-ago-you-can-try-out-gpt-4-turbo-2024-04-0|New
@@ -88,14 +90,14 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2024-05-13-introducing-gpt-4o-0a0709f8|chatgpt-2024-05-13-introducing-gpt-4o-0a0709f8]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: GPT-4o is our newest flagship model that provides GPT-4-level intelligence…
+title: Introducing GPT-4o
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# GPT-4o is our newest flagship model that provides GPT-4-level intelligence…
+# Introducing GPT-4o
 
-**ChatGPT** · 2024-05-13 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-05-13-introducing-gpt-4o-0a0709f8|Introducing GPT-4o]]
+**ChatGPT** · 2024-05-13 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-05-13-introducing-gpt-4o-0a0709f8|Introducing GPT-4o]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -112,7 +114,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-04-12 · Cursor · [[Changes/Cursor/2024-04-12-new-gpt-4-model-as-of-a-couple-of-days-ago-you-can-try-out-gpt-4-turbo-2024-04-0|New GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09…]]
-- Later: 2024-05-16 · ChatGPT · [[Changes/ChatGPT/2024-05-16-data-analysis-improvements-are-available-in-our-new-flagship-model-gpt-4o-for-ch|Data analysis improvements are available in our new flagship model, GPT-4o…]]
+- Later: 2024-05-26 · Cursor · [[Changes/Cursor/2024-05-26-gemini-1-5-flash-is-available-in-long-context-mode|Gemini 1.5 Flash is available in long-context mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

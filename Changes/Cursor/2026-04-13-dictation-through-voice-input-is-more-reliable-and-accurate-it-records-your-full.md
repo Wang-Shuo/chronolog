@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: fae7e218d329ffdc0199223d354a76ac549acfc79a0eb71c8a8ae5f5bc75c5ff
+machine_hash: c26fa221ad731c419a0a5537e518e10e0ad5e903cfef120601d82528be8d7b77
 product: cursor
 product_name: Cursor
 record:
@@ -50,6 +50,7 @@ related_changes:
   voice:pushToTalk keybinding to make the voice activation key rebindable…]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313|cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313]]'
 source_type: cursor_changelog
+superseded: true
 theme: voice
 title: Dictation through voice input is more reliable and accurate
 type: change

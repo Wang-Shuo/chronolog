@@ -4,8 +4,8 @@ date: '2025-06-04'
 description: 'ChatGPT · 2025-06-04 · Apps and Integrations: Admins and users can now
   build and deploy custom connectors to proprietary systems using Model Context Protocol…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 804
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: f56cfbfc2da8ea383e4bc4d85c36d8e14ddcf64f425155765c01e87b4dea8f78
+kind: change
+machine_hash: e270ed3b0a2462f9651ffa5f0920558a8fc6478b1eb1e7e7325367895b34e1af
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,8 +33,9 @@ record:
   - quote: Admins and users can now build and deploy custom connectors to proprietary
       systems using Model Context Protocol (MCP).
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: admins-and-users-can-now-build-and-deploy-custom-connectors-to-proprietary-syste
@@ -62,8 +64,8 @@ record:
     systems…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-05-15-the-github-connector-is-now-available-globally-to-plus-pro-team-users-including|The
-  GitHub connector is now available globally to Plus/Pro/Team users, including…]]'
+- '[[Changes/Cursor/2025-05-15-refreshed-inline-edit-cmd-ctrl-k-with-agent-integration|Refreshed
+  Inline Edit (Cmd/Ctrl+K) with Agent integration]]'
 - '[[Changes/ChatGPT/2025-06-04-supported-connectors-google-drive-sharepoint-dropbox-box-outlook-gmail-google-ca|Supported
   connectors: Google Drive, SharePoint, Dropbox, Box, Outlook, Gmail, Google…]]'
 - '[[Changes/ChatGPT/2025-06-04-admin-published-connectors-appear-in-the-connector-list-for-all-users|Admin-published
@@ -98,13 +100,13 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-06-04 · ChatGPT · [[Changes/ChatGPT/2025-06-04-supported-connectors-google-drive-sharepoint-dropbox-box-outlook-gmail-google-ca|Supported connectors: Google Drive, SharePoint, Dropbox, Box, Outlook, Gmail, Google…]]
-- Later: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-cursor-reads-the-entire-slack-thread-before-starting-so-background-agents-unders|Cursor reads the entire Slack thread before starting, so Background Agents…]]
+- Later: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-agents-understand-context-6b73fc|Agents understand context]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

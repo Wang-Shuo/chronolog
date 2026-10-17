@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-07-22'
 description: 'Cursor release Jupyter CMD-k Context Building on 2023-07-22: 1 tracked
   change across Editor Experience'
-machine_hash: 5941afcec5ba25336012dc307a4f8ae5bc87454ccd7658a9733881134192785e
+machine_hash: 0b43bab7e9c7e6bb9708b99020f2b38937729276a19742323c801136a3a1a148
 product: cursor
 product_name: Cursor
 record:
@@ -38,10 +38,10 @@ version: 0.3.1
 <!-- chronolog:begin region="summary" -->
 Cmd-K can again see all of your cells in Jupyter!
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-07-22-cmd-k-can-again-see-all-of-your-cells-in-jupyter|Cmd-K can again see all of your cells in Jupyter!]] · Editor Experience
+- [[Changes/Cursor/2023-07-22-cmd-k-can-again-see-all-of-your-cells-in-jupyter|Jupyter CMD-k Context Building]] · Editor Experience
 <!-- chronolog:end -->

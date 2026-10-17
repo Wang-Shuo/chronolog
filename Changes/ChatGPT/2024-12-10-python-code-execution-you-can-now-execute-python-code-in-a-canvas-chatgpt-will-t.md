@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c7f6002b893127b72231b350fd9b190faa795b91f086bc92b98faa99744c6a61
+machine_hash: 0ec6e5547d5c8bd49b4ea3214dd68704885cd80ecabddd453b7b6e6bab17a2de
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,6 +50,7 @@ related_changes:
   we made Canvas available in 4o by default for all users, Free and Paid]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-10-canvas-a457e8f0|chatgpt-2024-12-10-canvas-a457e8f0]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: file-data
 title: 'Python code execution: You can now execute Python code in a canvas'
 type: change

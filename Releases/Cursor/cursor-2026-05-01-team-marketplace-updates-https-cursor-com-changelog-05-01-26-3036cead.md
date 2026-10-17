@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 2
 date: '2026-05-01'
-description: 'Cursor release Team Marketplace Updates on 2026-05-01: 5 tracked changes
-  across Apps and Integrations, Collaboration, Safety and Privacy'
-machine_hash: 8cb96fdaa163c879c93cb91d554a9f24f6de32f754fa8eca86da9d8b3d462e21
+description: 'Cursor release Team Marketplace Updates on 2026-05-01: 2 tracked changes
+  across Collaboration, Safety and Privacy'
+machine_hash: 77f09c403dce9ad05fba8b14d8c0c7a35ad47d877603af669a08f5397ff6ed5a
 product: cursor
 product_name: Cursor
 record:
@@ -40,14 +40,11 @@ version: Team Marketplace Updates
 <!-- chronolog:begin region="summary" -->
 Admins can now create a team marketplace without connecting a repository first. Add, remove, and configure install behavior for first-party plugins directly in team marketplace settings.
 
-Tracked 5 of 6 candidate lines.
+Tracked 2 cards from 6 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-05-01-plugins-bundle-capabilities-like-mcp-servers-skills-subagents-rules-and-hooks-th|Plugins bundle capabilities like MCP servers, skills, subagents, rules, and hooks…]] · Apps and Integrations
-- [[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a|Admins can now create a team marketplace without connecting a repository first]] · Collaboration
 - [[Changes/Cursor/2026-05-01-default-off-users-can-discover-and-opt-in|Default Off: users can discover and opt in]] · Safety and Privacy
-- [[Changes/Cursor/2026-05-01-required-users-always-have-the-plugin-and-cannot-uninstall-it|Required: users always have the plugin and cannot uninstall it]] · Apps and Integrations
-- [[Changes/Cursor/2026-05-01-default-on-users-get-the-plugin-installed-by-default-but-can-opt-out|Default On: users get the plugin installed by default, but can opt out]] · Apps and Integrations
+- [[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a-b1834a|Admins can now create a team marketplace without connecting a repository first]] · Collaboration
 <!-- chronolog:end -->

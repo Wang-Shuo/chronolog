@@ -1,53 +1,88 @@
 ---
 card_id: chatgpt-2025-03-18-3ba525
 date: '2025-03-18'
+description: 'ChatGPT · 2025-03-18 · Image Generation: Increased the default size
+  for in‐line generated images.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-10-16-we-ve-integrated-dall-e-3-with-chatgpt-allowing-it-to-respond-to-your-requests-w|chatgpt-2023-10-16-1425df]]'
-  lag_days: 519
-  role: variant
+  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
+    3 for ChatGPT Free users]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 222
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: image-generation
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images|chatgpt-2024-08-08-e79066]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 45004a21c349711f119d7250b8267bba7202a5c9ea0034d2ee96d72f89c6ce39
+kind: change
+machine_hash: b38a0c500494f27dde6657ae21a4149f033fe00ccd57f60eb232feb45d4f1d3c
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2025-03-18-3ba525
+  comparison: ''
+  date: '2025-03-18'
+  description: 'ChatGPT — Android App: Increased the default size for in‐line generated
+    images.'
+  evidence:
+  - quote: Increased the default size for in‐line generated images.
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: chatgpt
+  product_name: ChatGPT
+  slug: increased-the-default-size-for-in-line-generated-images
+  source_release: chatgpt-2025-03-18-android-app-c47c961b
+  source_type: chatgpt_changelog
+  theme: image-generation
+  title: Increased the default size for in‐line generated images
+  type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com|chatgpt-2024-01-10-3e6f37]]'
-- '[[Changes/ChatGPT/2024-08-08-just-ask-chatgpt-to-create-an-image-for-a-slide-deck-personalize-a-card-for-a-fr|chatgpt-2024-08-08-9e2a49]]'
-- '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images|chatgpt-2024-08-08-e79066]]'
+- '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
+  3 for ChatGPT Free users]]'
+- '[[Changes/ChatGPT/2024-11-22-dall-e-focused-view-has-an-updated-layout|DALL-E focused
+  view has an updated layout]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-android-app-c47c961b|chatgpt-2025-03-18-android-app-c47c961b]]'
-superseded: true
+source_type: chatgpt_changelog
 theme: image-generation
+title: Increased the default size for in‐line generated images
 type: change
 ---
 
-# Increased the default size for in‐line generated images.
+<!-- chronolog:begin region="header" -->
+# Increased the default size for in‐line generated images
 
-<!-- chronolog:begin region="description" -->
-Increased the default size for in‐line generated images.
+**ChatGPT** · 2025-03-18 · [[Themes/image-generation|Image Generation]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-03-18-android-app-c47c961b|Android App]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Increased the default size for in‐line generated images.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_4684e4f3d2
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images|chatgpt-2024-08-08-e79066]]
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2025-03-18-more-clear-and-private-incognito-keyboard-for-temporary-chats|More clear and private Incognito keyboard for Temporary Chats]] · Safety and Privacy
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: image-generation
-- Scope: tracked-products-only
-- Role: variant
-- First In Tracked: [[Changes/ChatGPT/2023-10-16-we-ve-integrated-dall-e-3-with-chatgpt-allowing-it-to-respond-to-your-requests-w|chatgpt-2023-10-16-1425df]]
-- Lag Days: 519
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Image Generation
+
+- Earlier: 2024-11-22 · ChatGPT · [[Changes/ChatGPT/2024-11-22-dall-e-focused-view-has-an-updated-layout|DALL-E focused view has an updated layout]]
+- Later: 2025-04-15 · ChatGPT · [[Changes/ChatGPT/2025-04-15-all-images-you-create-with-chatgpt-are-now-automatically-saved-to-a-new-library|ChatGPT Image Library]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-03-18-3ba525&body=Card%3A%20Changes%2FChatGPT%2F2025-03-18-increased-the-default-size-for-in-line-generated-images.md%0ACard%20ID%3A%20chatgpt-2025-03-18-3ba525%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

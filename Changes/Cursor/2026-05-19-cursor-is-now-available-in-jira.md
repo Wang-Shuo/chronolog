@@ -4,8 +4,8 @@ date: '2026-05-19'
 description: 'Cursor · 2026-05-19 · Apps and Integrations: Cursor is now available
   in Jira.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1153
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 1e09a73697e09167ea083654d4ddd1f1a60ec44c1d94c1961c19245bdee848a0
+kind: launch
+machine_hash: e4cdb6dc0383e31993a412519889b7e566adebfefa8ae802afc0513b41477755
 product: cursor
 product_name: Cursor
 record:
@@ -27,8 +28,9 @@ record:
   evidence:
   - quote: Cursor is now available in Jira.
     source_release: https://cursor.com/changelog/05-19-26
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: cursor
   product_name: Cursor
   slug: cursor-is-now-available-in-jira
@@ -40,12 +42,12 @@ record:
   title: Cursor is now available in Jira
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-14-web-setup-warns-before-replacing-an-existing-github-app-connection|/web-setup
-  warns before replacing an existing GitHub App connection]]'
-- '[[Changes/Claude Code/2026-05-15-added-plugin-dependency-enforcement-claude-plugin-disable-now-refuses-when-anoth|Added
-  plugin dependency enforcement]]'
+- '[[Changes/Claude Code/2026-05-15-3-apps-and-integrations-changes-in-v2-1-143|3
+  Apps and Integrations changes in v2.1.143]]'
 - '[[Changes/Claude Code/2026-05-19-plugin-discover-and-browse-screens-now-show-a-plugin-s-commands-agents-skills-ho|/plugin
   Discover and Browse screens now show a plugin''s commands, agents, skills…]]'
+- '[[Changes/Claude Code/2026-05-19-3-apps-and-integrations-changes-in-v2-1-144|3
+  Apps and Integrations changes in v2.1.144]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-19-cursor-in-jira-https-cursor-com-changelog-05-19-26-4a0261e4|cursor-2026-05-19-cursor-in-jira-https-cursor-com-changelog-05-19-26-4a0261e4]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -56,7 +58,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Cursor is now available in Jira
 
-**Cursor** · 2026-05-19 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://cursor.com/changelog/05-19-26) · from [[Releases/Cursor/cursor-2026-05-19-cursor-in-jira-https-cursor-com-changelog-05-19-26-4a0261e4|Cursor in Jira]]
+**Cursor** · 2026-05-19 · [[Themes/apps-integrations|Apps and Integrations]] · Launch · [Official source](https://cursor.com/changelog/05-19-26) · from [[Releases/Cursor/cursor-2026-05-19-cursor-in-jira-https-cursor-com-changelog-05-19-26-4a0261e4|Cursor in Jira]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -68,22 +70,21 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-05-19-assign-work-items-to-cursor-or-mention-cursor-in-a-comment-to-kick-off-a-cloud-a|Assign work items to Cursor, or mention @Cursor in a comment to kick off a cloud agent]] · Agent Mode
-- [[Changes/Cursor/2026-05-19-you-can-ask-cursor-to-fix-bugs-add-features-update-tests-or-investigate-somethin|You can ask Cursor to fix bugs, add features, update tests, or investigate something…]] · Apps and Integrations
+- [[Changes/Cursor/2026-05-19-assign-work-items-to-cursor-or-mention-cursor-in-a-comment-to-kick-off-a-cloud-a-1c05f0|Assign work items to Cursor, or mention @Cursor in a comment to kick off a cloud agent]] · Agent Mode
 - [[Changes/Cursor/2026-05-19-install-the-integration-from-cursor-integrations-you-need-cursor-admin-access-an|Install the integration from Cursor integrations]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-plugin-discover-and-browse-screens-now-show-a-plugin-s-commands-agents-skills-ho|/plugin Discover and Browse screens now show a plugin's commands, agents, skills…]]
-- Later: 2026-05-22 · Claude Code · [[Changes/Claude Code/2026-05-22-usage-now-shows-a-per-category-breakdown-of-what-s-driving-your-limits-usage-ski|/usage now shows a per-category breakdown of what's driving your limits usage]]
+- Earlier: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-3-apps-and-integrations-changes-in-v2-1-144|3 Apps and Integrations changes in v2.1.144]]
+- Later: 2026-05-22 · Claude Code · [[Changes/Claude Code/2026-05-22-2-apps-and-integrations-changes-in-v2-1-149|2 Apps and Integrations changes in v2.1.149]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

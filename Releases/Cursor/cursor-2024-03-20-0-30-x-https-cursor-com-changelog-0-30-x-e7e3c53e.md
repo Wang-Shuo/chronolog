@@ -3,7 +3,7 @@ changes_count: 5
 date: '2024-03-20'
 description: 'Cursor release Faster Copilot++, Claude on 2024-03-20: 5 tracked changes
   across Collaboration, Editor Experience, Interface Experience, Model Support…'
-machine_hash: 8afa189df4a2d2fc06b0dc0c9ce2c45e082cbe2516d5f8d8cac2523a4fa0914a
+machine_hash: e8b44d807cd52465cb62d61659ff85022d44af744b4b05bcc1638ef4d28cf3a6
 product: cursor
 product_name: Cursor
 record:
@@ -41,7 +41,7 @@ version: 0.30.x
 <!-- chronolog:begin region="summary" -->
 Faster Copilot++: We've made Copilot++ ~2x faster! This speed bump comes from a new model / faster inference. ~50% of users are already on this model, and it will roll out to everyone over a few days. If you'd like to enable the model immediately, you can control your model in the bottom bar of the editor.
 
-Tracked 5 of 5 candidate lines.
+Tracked 5 cards from 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

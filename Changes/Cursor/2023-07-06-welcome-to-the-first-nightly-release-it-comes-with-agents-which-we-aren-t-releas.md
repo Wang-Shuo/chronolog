@@ -5,8 +5,8 @@ description: 'Cursor · 2023-07-06 · Agent Mode: Welcome to the first nightly r
   It comes with agents, which we aren''t releasing to the general public yet because
   we…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 0
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 314ca55660d68bbf1d5f1bfe03814a19efca0fbe57bac0d353d9cf3e8f47588a
+kind: change
+machine_hash: 26f166116d261530a5179290d9a6ae8b071897a7a5d29f67a6a31970c29537e9
 product: cursor
 product_name: Cursor
 record:
@@ -33,25 +34,26 @@ record:
       releasing to the general public yet because we aren't convinced that they are
       useful. If you like them, please let us know what you use them for!
     source_release: https://cursor.com/changelog/0-2-44-nightly
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas
   source_release: cursor-2023-07-06-0-2-44-nightly-https-cursor-com-changelog-0-2-44-nightly-3bedc80b
   source_type: cursor_changelog
   theme: agent-mode
-  title: Welcome to the first nightly release!
+  title: Agents, new docs
   type: change
 source_release: '[[Releases/Cursor/cursor-2023-07-06-0-2-44-nightly-https-cursor-com-changelog-0-2-44-nightly-3bedc80b|cursor-2023-07-06-0-2-44-nightly-https-cursor-com-changelog-0-2-44-nightly-3bedc80b]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Welcome to the first nightly release!
+title: Agents, new docs
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Welcome to the first nightly release!
+# Agents, new docs
 
 **Cursor** · 2023-07-06 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/0-2-44-nightly) · from [[Releases/Cursor/cursor-2023-07-06-0-2-44-nightly-https-cursor-com-changelog-0-2-44-nightly-3bedc80b|Agents, new docs]]
 <!-- chronolog:end -->

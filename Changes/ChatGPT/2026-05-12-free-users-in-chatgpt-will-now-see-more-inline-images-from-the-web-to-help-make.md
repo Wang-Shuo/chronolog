@@ -14,9 +14,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 1e6a1b04f5e4d3f899151d4d9a7f17044cff698008dde1667946728bf990e772
+kind: change
+machine_hash: 581b6068660605ad1963073685aa4e26b3f843b1384a2cf377cacb5008480b5e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,34 +38,33 @@ record:
       and see source attribution.This is rolling out globally on web and iOS to Free
       users for responses using 5.5-Instant.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make
   source_release: chatgpt-2026-05-12-more-images-in-answers-for-free-users-34680cb9
   source_type: chatgpt_changelog
   theme: mobile-desktop
-  title: Free users in ChatGPT will now see more inline images from the web to help
-    make…
+  title: More images in answers for Free users
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-15-added-push-notification-tool-claude-can-send-mobile-push-notifications-when-remo|Added
-  push notification tool]]'
+- '[[Changes/Claude Code/2026-04-17-extra-usage-now-works-from-remote-control-mobile-web-clients|/extra-usage
+  now works from Remote Control (mobile/web) clients]]'
+- '[[Changes/Claude Code/2026-04-22-native-builds-on-macos-and-linux-the-glob-and-grep-tools-are-replaced-by-embedde|Native
+  builds on macOS and Linux]]'
 - '[[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The
   agents that run in the Cursor desktop app, CLI, and web app are now accessible…]]'
-- '[[Changes/Claude Code/2026-05-09-vscode-fixed-extension-failing-to-activate-on-windows|VSCode
-  Fixed extension failing to activate on Windows]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-12-more-images-in-answers-for-free-users-34680cb9|chatgpt-2026-05-12-more-images-in-answers-for-free-users-34680cb9]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Free users in ChatGPT will now see more inline images from the web to help
-  make…
+title: More images in answers for Free users
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Free users in ChatGPT will now see more inline images from the web to help make…
+# More images in answers for Free users
 
 **ChatGPT** · 2026-05-12 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-05-12-more-images-in-answers-for-free-users-34680cb9|More images in answers for Free users]]
 <!-- chronolog:end -->
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-05-09 · Claude Code · [[Changes/Claude Code/2026-05-09-vscode-fixed-extension-failing-to-activate-on-windows|VSCode Fixed extension failing to activate on Windows]]
-- Later: 2026-05-14 · ChatGPT · [[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|Codex is now available in preview in the ChatGPT mobile app, so you can stay…]]
+- Earlier: 2026-04-29 · Cursor · [[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The agents that run in the Cursor desktop app, CLI, and web app are now accessible…]]
+- Later: 2026-05-14 · ChatGPT · [[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|Codex remote access from the ChatGPT mobile app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

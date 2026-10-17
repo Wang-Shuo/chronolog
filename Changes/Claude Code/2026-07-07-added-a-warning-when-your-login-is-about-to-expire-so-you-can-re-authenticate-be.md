@@ -15,9 +15,10 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 392793f929f543f721eaec2d6679e4b21e2a093b172514d28d90aaed397ae685
+kind: change
+machine_hash: 9c2f61bf431614c51a424ab7a75d21675cc8605526dc6ef75ee89e8fb13e9590
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Added a warning when your login is about to expire, so you can re-authenticate
       before background sessions are interrupted
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.203
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-a-warning-when-your-login-is-about-to-expire-so-you-can-re-authenticate-be
@@ -41,12 +43,12 @@ record:
   title: Added a warning when your login is about to expire, so you can re-authenticate…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-24-improved-mcp-oauth-discovery-and-token-requests-now-retry-once-after-transient-n|Improved
-  MCP OAuth]]'
 - '[[Changes/Claude Code/2026-06-25-added-a-startup-notice-when-mcp-servers-need-authentication-pointing-at-mcp|Added
   a startup notice when MCP servers need authentication, pointing at /mcp]]'
+- '[[Changes/Claude Code/2026-07-01-login-now-opens-the-sign-in-dialog-from-the-claude-agents-view-instead-of-saying|/login
+  now opens the sign-in dialog from the claude agents view instead…]]'
 - '[[Changes/ChatGPT/2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-globally-from-a-sidebar-in-mic|ChatGPT
-  for PowerPoint is now generally available globally]]'
+  for PowerPoint is now generally available]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc|claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc]]'
 source_type: github_releases
 theme: account-access
@@ -69,17 +71,20 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-07-07-added-the-session-s-additional-working-directories-to-mcp-roots-list-with-notifi|Added the session's additional working directories to MCP roots/list…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-07-07-improved-subagent-behavior-agents-are-now-less-likely-to-re-delegate-their-entir|Improved subagent behavior]] · Agent Mode
+- [[Changes/Claude Code/2026-07-07-2-reliability-and-performance-changes-in-v2-1-203|2 Reliability and Performance changes in v2.1.203]] · Reliability and Performance
 - [[Changes/Claude Code/2026-07-07-added-a-grey-badge-to-the-footer-when-in-manual-permission-mode-making-the-activ|Added a grey ⏸ badge to the footer when in manual permission mode, making the active…]] · Safety and Privacy
-- [[Changes/Claude Code/2026-07-07-improved-responsiveness-while-long-responses-stream-live-preview-updates-no-long|Improved responsiveness while long responses stream]] · Reliability and Performance
+- [[Changes/Claude Code/2026-07-07-removed-the-startup-claude-command-missing-or-broken-warnings-they-now-appear-in|Removed the startup "claude command missing or broken" warnings]] · Developer Workflow
+- [[Changes/Claude Code/2026-07-07-removed-a-redundant-navigation-hint-from-the-claude-agents-footer|Removed a redundant navigation hint from the claude agents footer]] · Interface Experience
+- [[Changes/Claude Code/2026-07-07-changed-left-arrow-to-no-longer-close-the-background-tasks-diff-and-workflow-det|Changed left arrow to no longer close the background tasks, diff, and workflow…]] · Editor Experience
+- [[Changes/Claude Code/2026-07-07-2-agent-mode-changes-in-v2-1-203|2 Agent Mode changes in v2.1.203]] · Agent Mode
+- [[Changes/Claude Code/2026-07-07-2-apps-and-integrations-changes-in-v2-1-203|2 Apps and Integrations changes in v2.1.203]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-07-06 · ChatGPT · [[Changes/ChatGPT/2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-globally-from-a-sidebar-in-mic|ChatGPT for PowerPoint is now generally available globally]]
-- Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-we-re-deprecating-atlas-as-we-bring-browser-based-agentic-capabilities-into-chat|We’re deprecating Atlas as we bring browser-based agentic capabilities into ChatGPT…]]
+- Earlier: 2026-07-06 · ChatGPT · [[Changes/ChatGPT/2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-globally-from-a-sidebar-in-mic|ChatGPT for PowerPoint is now generally available]]
+- Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-we-re-deprecating-atlas-as-we-bring-browser-based-agentic-capabilities-into-chat|Retiring Atlas]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

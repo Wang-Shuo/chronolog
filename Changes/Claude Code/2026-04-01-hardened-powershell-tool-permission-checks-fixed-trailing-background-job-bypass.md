@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 687077bd6e07e638a2fd6d0c9bea923fc8d7671984755dee918811d33b4e1d8e
+machine_hash: ea6f3560f97d2ae1d310662ef30fa83d5baa06135b7e868979ebcf4501b60f81
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   UI crash when malformed tool input reached the permission dialog]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b|claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Hardened PowerShell tool permission checks
 type: change

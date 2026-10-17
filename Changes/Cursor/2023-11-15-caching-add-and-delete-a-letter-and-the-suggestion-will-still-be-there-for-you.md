@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3c0ed4066cce0511d7d7c6efc604f4fc48d21f1af95cb780e2a33de5aa9d8cfb
+machine_hash: 4a75a718144325654b9e4d79e814af238433016202d76db5465823ebf83bf9ec
 product: cursor
 product_name: Cursor
 record:
@@ -51,6 +51,7 @@ related_changes:
   chat suggestions]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-15-0-16-0-https-cursor-com-changelog-0-16-0-5861ed6e|cursor-2023-11-15-0-16-0-https-cursor-com-changelog-0-16-0-5861ed6e]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: Caching — add and delete a letter and the suggestion will still be there for
   you!

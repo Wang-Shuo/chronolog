@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 287e130b9fc6e532a5cdc4acd56375eef71c8ea0a8dbc6efaeb02788b58363ab
+machine_hash: 1212d0b1f543ea5757e6f8c4748bde3f4c2d4e2a5cbf4c58e539b3b275261654
 product: claude-code
 product_name: Claude Code
 record:
@@ -65,6 +65,7 @@ related_changes:
   the coordinator agent to watch a Slack channel, run on a schedule, or follow…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added omitClaudeMd to agent frontmatter and --agents JSON, letting custom…
 type: change

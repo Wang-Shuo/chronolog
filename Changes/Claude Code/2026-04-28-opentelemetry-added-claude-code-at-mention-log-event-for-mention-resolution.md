@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f8319f78ca1ff284855d064865da147529120fd7359c199a1ea70f00ec9d40e6
+kind: change
+machine_hash: 9ccf03ca78b22851fb3b4c966b4fae8d0f5feeca7ba566d0c21c2c62789b847a
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,8 +29,9 @@ record:
   - quote: 'OpenTelemetry: added `claude_code.at_mention` log event for `@`-mention
       resolution'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.122
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: opentelemetry-added-claude-code-at-mention-log-event-for-mention-resolution
@@ -42,12 +44,12 @@ record:
     resolution'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-17-changed-the-cli-to-spawn-a-native-claude-code-binary-via-a-per-platform-optional|Changed
-  the CLI to spawn a native Claude Code binary…]]'
-- '[[Changes/Claude Code/2026-04-22-the-resume-command-now-offers-to-summarize-stale-large-sessions-before-re-readin|The
-  /resume command now offers to summarize stale, large sessions before…]]'
-- '[[Changes/Claude Code/2026-04-23-added-prurltemplate-setting-to-point-the-footer-pr-badge-at-a-custom-code-review|Added
-  prUrlTemplate setting to point the footer PR badge at a custom code-review…]]'
+- '[[Changes/Claude Code/2026-04-22-2-developer-workflow-changes-in-v2-1-117|2 Developer
+  Workflow changes in v2.1.117]]'
+- '[[Changes/Claude Code/2026-04-23-wsl-on-windows-can-now-inherit-windows-side-managed-settings-via-the-wslinherits|WSL
+  on Windows can now inherit Windows-side managed settings…]]'
+- '[[Changes/Claude Code/2026-04-23-3-developer-workflow-changes-in-v2-1-119|3 Developer
+  Workflow changes in v2.1.119]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196|claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196]]'
 source_type: github_releases
 theme: developer-workflow
@@ -70,17 +72,17 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-04-28-2-apps-and-integrations-changes-in-v2-1-122|2 Apps and Integrations changes in v2.1.122]] · Apps and Integrations
 - [[Changes/Claude Code/2026-04-28-pasting-a-pr-url-into-the-resume-search-box-now-finds-the-session-that-created-t|Pasting a PR URL into the /resume search box now finds the session that created…]] · Enterprise and Administration
-- [[Changes/Claude Code/2026-04-28-added-anthropic-bedrock-service-tier-environment-variable-to-select-a-bedrock-se|Added ANTHROPIC_BEDROCK_SERVICE_TIER environment variable to select a Bedrock…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-04-28-clarified-the-mcp-message-shown-when-an-mcp-server-is-still-unauthorized-after-t|Clarified the /mcp message shown when an MCP server is still unauthorized after…]] · Account and Access
-- [[Changes/Claude Code/2026-04-28-mcp-now-shows-claude-ai-connectors-hidden-by-a-manually-added-server-with-the-sa|/mcp now shows claude.ai connectors hidden by a manually-added server…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-04-28-voice-mode-keybindings-bound-to-caps-lock-now-show-an-error-since-terminals-don|Voice mode: keybindings bound to Caps Lock now show an error since terminals don't…]] · Voice and Audio
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-added-prurltemplate-setting-to-point-the-footer-pr-badge-at-a-custom-code-review|Added prUrlTemplate setting to point the footer PR badge at a custom code-review…]]
-- Later: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-added-claude-code-package-manager-auto-update-when-set-on-homebrew-or-winget-ins|Added CLAUDE_CODE_PACKAGE_MANAGER_AUTO_UPDATE: when set on Homebrew or WinGet…]]
+- Earlier: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-3-developer-workflow-changes-in-v2-1-119|3 Developer Workflow changes in v2.1.119]]
+- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-4-developer-workflow-changes-in-v2-1-121|4 Developer Workflow changes in v2.1.121]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

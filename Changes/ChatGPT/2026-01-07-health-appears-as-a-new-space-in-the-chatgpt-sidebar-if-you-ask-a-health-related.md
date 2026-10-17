@@ -14,9 +14,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 35bbd6efb849ff01a80cdd92e594cb8d23a9dcbcf5624afdd6bb4997ce6fb889
+kind: change
+machine_hash: b16bc4087f6de37f322b2f94a4a3eccfbb8803df274c9a33d4157edb2c903cbf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,8 +43,9 @@ record:
       on web and iOS, with Android coming soon to ChatGPT Free, Go, Plus, and Pro
       users in supported countries (excluding the EEA, Switzerland, and the UK).
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related
@@ -63,10 +65,10 @@ record:
   title: Health appears as a new space in the ChatGPT sidebar
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05|We’re
-  piloting group chats so you can bring people - and ChatGPT - into the same…]]'
-- '[[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|Pin
-  chats to the top of your list for quick access to important conversations]]'
+- '[[Changes/ChatGPT/2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05|Group
+  chats in ChatGPT]]'
+- '[[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|Pinned
+  chats in ChatGPT]]'
 - '[[Changes/Claude Code/2025-12-19-added-guidance-for-macos-users-when-alt-shortcuts-fail-due-to-terminal-configura|Added
   guidance for macOS users when Alt shortcuts fail due to terminal configuration]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-07-health-in-chatgpt-4cb3bdf6|chatgpt-2026-01-07-health-in-chatgpt-4cb3bdf6]]'
@@ -98,7 +100,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-added-guidance-for-macos-users-when-alt-shortcuts-fail-due-to-terminal-configura|Added guidance for macOS users when Alt shortcuts fail due to terminal configuration]]
-- Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-added-support-for-windows-package-manager-winget-installations-with-automatic-de|Added support for Windows Package Manager (winget) installations with automatic…]]
+- Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-2-mobile-and-desktop-changes-in-v2-1-2|2 Mobile and Desktop changes in v2.1.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

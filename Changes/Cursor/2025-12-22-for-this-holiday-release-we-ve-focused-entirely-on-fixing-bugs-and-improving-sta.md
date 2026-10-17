@@ -14,9 +14,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: ad929f728fd9cff6c29eb720dac81230259ba6c9e29371e237cea9f31f5e369f
+kind: change
+machine_hash: 38bc814c38f80436876a58d44b69653cbc83f6c6757e8e0d7cbc75309cf82dc3
 product: cursor
 product_name: Cursor
 record:
@@ -29,8 +30,9 @@ record:
   - quote: For this holiday release, we've focused entirely on fixing bugs and improving
       stability.
     source_release: https://cursor.com/changelog/2-3
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: for-this-holiday-release-we-ve-focused-entirely-on-fixing-bugs-and-improving-sta
@@ -41,12 +43,11 @@ record:
     stability
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-29-agent-edits-are-now-faster-by-lazy-loading-linter-errors-search-replace-edit-lat|Agent
-  edits are now faster by lazy loading linter errors]]'
-- '[[Changes/ChatGPT/2025-09-17-standard-new-default-balancing-speed-and-intelligence-and-extended-the-previous|Standard
-  (new default, balancing speed and intelligence) and Extended…]]'
-- '[[Changes/ChatGPT/2025-10-23-group-work-upload-notes-proposals-and-contracts-so-collaborators-can-draft-deliv|Group
-  work: Upload notes, proposals, and contracts so collaborators can draft…]]'
+- '[[Changes/Cursor/2025-10-29-improved-performance|Improved Performance]]'
+- '[[Changes/Cursor/2025-10-29-optimized-findfiles-performance-to-batch-concurrent-calls-at-bounded-concurrency|Optimized
+  findFiles performance to batch concurrent calls at bounded concurrency]]'
+- '[[Changes/Cursor/2025-12-10-2-reliability-and-performance-changes-in-2-2|2 Reliability
+  and Performance changes in 2.2]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465|cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -70,17 +71,20 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2025-12-22-improved-integrated-browser-to-support-opening-multiple-tabs|Improved integrated browser to support opening multiple tabs]] · Apps and Integrations
+- [[Changes/Cursor/2025-12-22-2-apps-and-integrations-changes-in-2-3|2 Apps and Integrations changes in 2.3]] · Apps and Integrations
+- [[Changes/Cursor/2025-12-22-2-agent-mode-changes-in-2-3|2 Agent Mode changes in 2.3]] · Agent Mode
 - [[Changes/Cursor/2025-12-22-this-includes-the-core-agent-layout-controls-viewing-code-diffs-and-more-we-will|This includes the core agent, layout controls, viewing code diffs, and more]] · Agent Mode
+- [[Changes/Cursor/2025-12-22-3-interface-experience-changes-in-2-3|3 Interface Experience changes in 2.3]] · Interface Experience
 - [[Changes/Cursor/2025-12-22-improved-stability-around-how-the-agent-respects-auto-run-preferences-to-prevent|Improved stability around how the agent respects auto-run preferences to prevent…]] · Safety and Privacy
-- [[Changes/Cursor/2025-12-22-cursor-now-separates-processes-running-for-user-installed-extensions-and-built-i|Cursor now separates processes running for user-installed extensions and built-in…]] · Apps and Integrations
+- [[Changes/Cursor/2025-12-22-2-account-and-access-changes-in-2-3|2 Account and Access changes in 2.3]] · Account and Access
+- [[Changes/Cursor/2025-12-22-2-reliability-and-performance-changes-in-2-3|2 Reliability and Performance changes in 2.3]] · Reliability and Performance
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-10-23 · ChatGPT · [[Changes/ChatGPT/2025-10-23-group-work-upload-notes-proposals-and-contracts-so-collaborators-can-draft-deliv|Group work: Upload notes, proposals, and contracts so collaborators can draft…]]
-- Later: 2026-01-14 · Claude Code · [[Changes/Claude Code/2026-01-14-improved-typing-responsiveness-by-reducing-memory-allocation-overhead-in-termina|Improved typing responsiveness by reducing memory allocation overhead in terminal…]]
+- Earlier: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-2-reliability-and-performance-changes-in-2-2|2 Reliability and Performance changes in 2.2]]
+- Later: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-2-reliability-and-performance-changes-in-new-cli-features-and-improved-cli|2 Reliability and Performance changes in New CLI Features and Improved CLI…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

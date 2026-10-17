@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: a7f3b3bc61ba042e7b99b280545d204a3108c04b0d48bc37db82a639fbc3f551
+machine_hash: 24b85f077b02633a25b2be0c59e2a4aa1c7e57d554c629df421141cf66200b67
 product: cursor
 product_name: Cursor
 record:
@@ -67,6 +67,7 @@ related_changes:
   effort frontmatter support for skills and slash commands to override…]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-25-self-hosted-cloud-agents-https-cursor-com-changelog-03-25-26-423e399c|cursor-2026-03-25-self-hosted-cloud-agents-https-cursor-com-changelog-03-25-26-423e399c]]'
 source_type: cursor_changelog
+superseded: true
 theme: model-support
 title: Self-hosted cloud agents offer the same capabilities as Cursor-hosted cloud
   agents…

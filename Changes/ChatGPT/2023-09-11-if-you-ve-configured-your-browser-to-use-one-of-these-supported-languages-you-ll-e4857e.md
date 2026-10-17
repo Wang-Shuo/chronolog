@@ -15,9 +15,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: b6fa7fe1fc9c2e046213938f9cdd32f649e85bb299e55a3eccc2a65ed0ce86b1
+kind: change
+machine_hash: bb765dc1365aaede65aad1956557e2796f3a4e4aa2c4d3b2159e66fd713b79e2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,8 +38,9 @@ record:
       is in alpha, requires opting in, and currently can only be used on the web at
       chatgpt.com. Learn more here.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: if-you-ve-configured-your-browser-to-use-one-of-these-supported-languages-you-ll
@@ -49,9 +51,9 @@ record:
     you'll…
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-21-nicer-error-messages-in-the-chat-fewer-annoying-popups|Nicer
+- '[[Changes/Cursor/2023-08-21-nicer-error-messages-in-the-chat-fewer-annoying-popups-782655|Nicer
   error messages in the chat!]]'
-- '[[Changes/Cursor/2023-08-22-nicer-error-messages-in-the-chat-fewer-annoying-popups|Nicer
+- '[[Changes/Cursor/2023-08-22-nicer-error-messages-in-the-chat-fewer-annoying-popups-7d864e|Nicer
   error messages in the chat!]]'
 - '[[Changes/Cursor/2023-08-30-you-can-now-switch-to-the-vs-code-sidebar-orientation|Switch
   to the VS Code sidebar orientation]]'

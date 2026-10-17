@@ -14,9 +14,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 5fc3767cd7dd6ed500b36436bc3e255d1c6f1ee7ad2c2e5db6a0b2a0b92b4127
+kind: expansion
+machine_hash: e4d7ddc5f634c9fcbb5c8a8f6f47863569947a4f36b25e786f6c26e10487bf24
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Record mode is now available to ChatGPT Plus users globally in the macOS
       desktop app.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: expansion
   product: chatgpt
   product_name: ChatGPT
   slug: record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop
@@ -41,12 +43,12 @@ record:
     desktop app
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-18-1-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved
+- '[[Changes/ChatGPT/2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved
   table-copying functionality out of ChatGPT responses on iOS and macOS]]'
-- '[[Changes/ChatGPT/2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and|We
-  have been working on a variety of usability and performance improvements and bug…]]'
-- '[[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a7377a|We''ve
-  removed the row of individual tool icons from the mobile composer and replaced…]]'
+- '[[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a35dd7|Mobile
+  UI (iOS/Android) changing on Free/Plus/Pro plans]]'
+- '[[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload
+  files and access model selector on mobile]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1|chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -58,7 +60,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Record mode is now available to ChatGPT Plus users globally in the macOS desktop app
 
-**ChatGPT** · 2025-07-16 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1|Record mode in ChatGPT macOS desktop app (Plus)]]
+**ChatGPT** · 2025-07-16 · [[Themes/mobile-desktop|Mobile and Desktop]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1|Record mode in ChatGPT macOS desktop app (Plus)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -76,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-05-06 · ChatGPT · [[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a7377a|We've removed the row of individual tool icons from the mobile composer and replaced…]]
-- Later: 2025-07-29 · ChatGPT · [[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-96fd94|Study mode is currently available to users in Free, Plus, Pro, and Teams plans…]]
+- Earlier: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload files and access model selector on mobile]]
+- Later: 2025-07-29 · ChatGPT · [[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-6e22f0|Study mode is currently available to users in Free, Plus, Pro, and Teams plans…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

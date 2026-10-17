@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: e0912f617e08e35601a6ed04cd1cdecc41eb9640a9a098dbf6a53c89724da457
+machine_hash: 5d9b3877845ce5ff32f81a923a3e4f111b349d0fb8850a2b4a487f7046305e1c
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   the /diff panel]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added mouse support to the /config panel in fullscreen mode
 type: change

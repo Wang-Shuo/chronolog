@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-08-15'
 description: 'ChatGPT release GPT-5 Updates on 2025-08-15: 1 tracked change across
   Model Support'
-machine_hash: 1b6f4d7347435846f5e2bdc0199b87e68f4f15e4436f331580f5281bfcc5c96e
+machine_hash: 9e09781a7522ebaf35d99d3aecfee3f7540332137a4227db68bd303eea17fdc3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: GPT-5 Updates
 <!-- chronolog:begin region="summary" -->
 We’re making GPT-5’s default personality warmer and more familiar. This is in response to user feedback that the initial version of GPT-5 came across as too reserved and professional. The differences in personality should feel subtle but create a noticeably more approachable ChatGPT experience.Warmth here means small…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-08-15-we-re-making-gpt-5-s-default-personality-warmer-and-more-familiar-this-is-in-res-19a03e|We’re making GPT-5’s default personality warmer and more familiar]] · Model Support
+- [[Changes/ChatGPT/2025-08-15-we-re-making-gpt-5-s-default-personality-warmer-and-more-familiar-this-is-in-res-19a03e|GPT-5 Updates]] · Model Support
 <!-- chronolog:end -->

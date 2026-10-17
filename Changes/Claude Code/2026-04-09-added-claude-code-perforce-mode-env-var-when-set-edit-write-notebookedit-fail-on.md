@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9d28704999c3252cb81ebc129ee1dc3a7ff7ecd2e14660c89310c47c2634f7b0
+machine_hash: 9700733c93274f26d406245049761a43d4d97c30272baadd6b0826c94a460a64
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   syntax highlighting for Cedar policy files (.cedar, .cedarpolicy)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-09-v2-1-98-github-307232194-a0774436|claude-code-2026-04-09-v2-1-98-github-307232194-a0774436]]'
 source_type: github_releases
+superseded: true
 theme: editor-experience
 title: Added CLAUDE_CODE_PERFORCE_MODE env var
 type: change

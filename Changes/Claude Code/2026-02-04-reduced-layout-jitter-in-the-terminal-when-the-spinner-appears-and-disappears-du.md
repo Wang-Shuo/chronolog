@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 17bb419693eaea626b02aa443f3d149ff5d3cfd08e694b9781f7a9c2e0fe7b94
+kind: change
+machine_hash: 4dcb6b0843f76f535e597cdd5f480d4bdd911c09eed43b9f1185bb845039b7b9
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,8 +29,9 @@ record:
   - quote: Reduced layout jitter in the terminal when the spinner appears and disappears
       during streaming
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.31
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: reduced-layout-jitter-in-the-terminal-when-the-spinner-appears-and-disappears-du
@@ -40,10 +42,10 @@ record:
     during…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-30-added-tool-call-failures-and-denials-to-debug-logs|Added
-  tool call failures and denials to debug logs]]'
-- '[[Changes/Claude Code/2026-02-03-added-support-for-additional-git-log-and-git-show-flags-in-read-only-mode-e-g-to|Added
-  support for additional git log and git show flags in read-only mode…]]'
+- '[[Changes/Claude Code/2026-01-30-2-developer-workflow-changes-in-v2-1-27|2 Developer
+  Workflow changes in v2.1.27]]'
+- '[[Changes/Claude Code/2026-02-03-2-developer-workflow-changes-in-v2-1-30|2 Developer
+  Workflow changes in v2.1.30]]'
 - '[[Changes/Claude Code/2026-02-03-added-debug-for-claude-to-help-troubleshoot-the-current-session|Added
   /debug for Claude to help troubleshoot the current session]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1|claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1]]'
@@ -71,6 +73,7 @@ type: change
 
 - [[Changes/Claude Code/2026-02-04-added-support-for-full-width-zenkaku-space-input-from-japanese-ime-in-checkbox-s|Added support for full-width (zenkaku) space input from Japanese IME in checkbox selection]] · Accessibility and Localization
 - [[Changes/Claude Code/2026-02-04-improved-pdf-and-request-size-error-messages-to-show-actual-limits-100-pages-20m|Improved PDF and request size error messages to show actual limits (100 pages, 20MB)]] · Files and Data
+- [[Changes/Claude Code/2026-02-04-removed-misleading-anthropic-api-pricing-from-model-selector-for-third-party-pro|Removed misleading Anthropic API pricing from model selector for third-party…]] · Pricing Model
 - [[Changes/Claude Code/2026-02-04-improved-system-prompts-to-more-clearly-guide-the-model-toward-using-dedicated-t|Improved system prompts to more clearly guide the model toward using dedicated tools…]] · Model Support
 - [[Changes/Claude Code/2026-02-04-added-session-resume-hint-on-exit-showing-how-to-continue-your-conversation-late|Added session resume hint on exit, showing how to continue your conversation later]] · Projects and Workspaces
 <!-- chronolog:end -->

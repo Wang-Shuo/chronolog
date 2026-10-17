@@ -5,19 +5,19 @@ description: 'Cursor · 2026-06-03 · Collaboration: An organization is the top-
   container for your company''s identity, administration, and membership. It gives
   admins…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
-    can also share private docs]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 999
+  lag_days: 1106
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 7196a4ea07a6f1b62efb676fb34b0ddb95c40d7fd365044e5f0915b27851dffa
+kind: launch
+machine_hash: f7f09ad4284cc12746afccb2e75851964cb6599a7e3b1738088e6c83f890cd88
 product: cursor
 product_name: Cursor
 record:
@@ -34,11 +34,12 @@ record:
       their entire Cursor setup, including a rollup of spend and token usage across
       every team.
     source_release: https://cursor.com/changelog/enterprise-organizations
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: an-organization-is-the-top-level-container-for-your-company-s-identity-administr
+  slug: organizations
   source_release: cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576
   source_type: cursor_changelog
   theme: collaboration
@@ -52,26 +53,25 @@ record:
     score: 50
     theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v1
-  title: An organization is the top-level container for your company's identity…
+  title: Organizations
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is
-  now available in Microsoft Teams]]'
-- '[[Changes/Cursor/2026-05-20-you-can-now-share-canvases-from-cursor-with-your-teammates|Share
-  canvases from Cursor with your teammates]]'
+- '[[Changes/Cursor/2026-05-20-shared-canvases-a27a45|Shared canvases]]'
 - '[[Changes/Claude Code/2026-06-02-otel-resource-attributes-values-are-now-included-as-labels-on-metric-datapoints|OTEL_RESOURCE_ATTRIBUTES
   values are now included as labels on metric datapoints…]]'
+- '[[Changes/Claude Code/2026-06-03-quieter-startup-notices-group-by-severity-and-session-info-and-announcements-sha|Quieter
+  startup: notices group by severity, and session info and announcements share…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576|cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576]]'
 source_type: cursor_changelog
 theme: collaboration
-title: An organization is the top-level container for your company's identity…
+title: Organizations
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# An organization is the top-level container for your company's identity…
+# Organizations
 
-**Cursor** · 2026-06-03 · [[Themes/collaboration|Collaboration]] · [Official source](https://cursor.com/changelog/enterprise-organizations) · from [[Releases/Cursor/cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576|Organizations for Cursor Enterprise]]
+**Cursor** · 2026-06-03 · [[Themes/collaboration|Collaboration]] · Launch · [Official source](https://cursor.com/changelog/enterprise-organizations) · from [[Releases/Cursor/cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576|Organizations for Cursor Enterprise]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -83,23 +83,23 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-06-03-groups-are-a-lightweight-collection-of-users-that-can-sit-across-or-within-teams|Groups are a lightweight collection of users that can sit across or within teams]] · Collaboration
+- [[Changes/Cursor/2026-06-03-3-collaboration-changes-in-organizations-for-cursor-enterprise|3 Collaboration changes in Organizations for Cursor Enterprise]] · Collaboration
+- [[Changes/Cursor/2026-06-03-groups-are-a-lightweight-collection-of-users-that-can-sit-across-or-within-teams|Groups]] · Collaboration
 - [[Changes/Cursor/2026-06-03-enterprise-customers-can-now-manage-multiple-cursor-teams-from-one-place-with-di|Enterprise customers can now manage multiple Cursor teams from one place…]] · Safety and Privacy
-- [[Changes/Cursor/2026-06-03-a-user-can-belong-to-more-than-one-team-with-a-different-role-in-each-for-curren|A user can belong to more than one team, with a different role in each]] · Collaboration
-- [[Changes/Cursor/2026-06-03-teams-are-the-operating-unit-for-a-department-region-or-subsidiary-this-is-what|Teams are the operating unit for a department, region, or subsidiary]] · Safety and Privacy
+- [[Changes/Cursor/2026-06-03-teams|Teams]] · Collaboration
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-otel-resource-attributes-values-are-now-included-as-labels-on-metric-datapoints|OTEL_RESOURCE_ATTRIBUTES values are now included as labels on metric datapoints…]]
+- Earlier: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-quieter-startup-notices-group-by-severity-and-session-info-and-announcements-sha|Quieter startup: notices group by severity, and session info and announcements share…]]
 - Later: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an|With canvases, agents can create interactive artifacts like dashboards, reports…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

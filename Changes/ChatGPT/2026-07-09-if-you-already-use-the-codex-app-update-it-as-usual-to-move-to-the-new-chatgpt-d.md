@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 25b3e0cf5e3fff237f6df66d14c454fb99a45d7b292faa6772b1fa5ce31bc9bc
+machine_hash: 9f40c33a0a3a7aacf4ccb8195c17a60319810a0f83b4b62ada580041179b5090
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -81,6 +81,7 @@ related_changes:
   task notifications now explicitly state that no human input has occurred…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810|chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: safety-privacy
 title: If you already use the Codex app, update it as usual to move to the new ChatGPT…
 type: change

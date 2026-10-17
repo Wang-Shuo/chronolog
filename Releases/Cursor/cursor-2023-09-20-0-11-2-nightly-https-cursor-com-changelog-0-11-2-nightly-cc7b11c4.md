@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-09-20'
 description: 'Cursor release More Stable Codebase Indexing on 2023-09-20: 1 tracked
   change across Reliability and Performance'
-machine_hash: 8a30925f2e60c0afbcc9360c3b130ba083a0d60c076277e1ac521015ee5891aa
+machine_hash: c35348f5164e617813c737caba10e06f5e955d9a6a3c4df413810fe297df8299
 product: cursor
 product_name: Cursor
 record:
@@ -39,10 +39,10 @@ version: 0.11.2-nightly
 <!-- chronolog:begin region="summary" -->
 We ship a new version of indexing which should be significantly more stable than previous versions
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-09-20-we-ship-a-new-version-of-indexing-which-should-be-significantly-more-stable-than|We ship a new version of indexing which should be significantly more stable than…]] · Reliability and Performance
+- [[Changes/Cursor/2023-09-20-we-ship-a-new-version-of-indexing-which-should-be-significantly-more-stable-than|More Stable Codebase Indexing]] · Reliability and Performance
 <!-- chronolog:end -->

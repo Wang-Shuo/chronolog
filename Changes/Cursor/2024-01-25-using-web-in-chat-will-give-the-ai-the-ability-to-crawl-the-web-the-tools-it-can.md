@@ -15,9 +15,10 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f00f074d8132790ad353e7c3885a3cf63dd3595d175b77f2b882fb9887e03417
+kind: change
+machine_hash: 00f2c0cc81c1b1ae995bb6e8ccc08e460bc4f4a230dd2fb6377bd6a619f150da
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +32,9 @@ record:
   - quote: Using @Web in chat will give the AI the ability to crawl the web! The tools
       it can use include a search engine and a documentation site crawler.
     source_release: https://cursor.com/changelog/0-24-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: using-web-in-chat-will-give-the-ai-the-ability-to-crawl-the-web-the-tools-it-can
@@ -46,8 +48,8 @@ record:
 related_changes:
 - '[[Changes/ChatGPT/2023-06-22-search-history-improvements-tapping-on-a-search-result-takes-you-directly-to-the|Search
   History Improvements]]'
-- '[[Changes/ChatGPT/2023-07-03-we-ve-learned-that-the-browsing-beta-can-occasionally-display-content-in-ways-we|We''ve
-  learned that the browsing beta can occasionally display content in ways we…]]'
+- '[[Changes/ChatGPT/2023-07-03-we-ve-learned-that-the-browsing-beta-can-occasionally-display-content-in-ways-we|Browsing
+  is temporarily disabled]]'
 - '[[Changes/ChatGPT/2023-09-27-browsing-is-rolling-out-to-all-plus-users-chatgpt-can-now-browse-the-internet-to-335b58|Browsing
   is rolling out to all Plus users]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-25-0-24-x-https-cursor-com-changelog-0-24-x-c3b46238|cursor-2024-01-25-0-24-x-https-cursor-com-changelog-0-24-x-c3b46238]]'

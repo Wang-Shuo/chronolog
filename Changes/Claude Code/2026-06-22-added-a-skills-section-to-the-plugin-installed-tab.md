@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4a00a4c98308d68473f62bb77673e7f0aca2b697b5f0d5b732205d7d19d2ff8c
+machine_hash: 270eab761d5c03fde5f1600ba624f71ee1b58c49763b49674c7e1174cfea1eb1
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,6 +57,7 @@ related_changes:
   attribution.sessionUrl setting to omit the claude.ai session link…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b|claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added a "Skills" section to the /plugin Installed tab
 type: change

@@ -4,8 +4,8 @@ date: '2025-09-22'
 description: 'ChatGPT · 2025-09-22 · Memory and Personalization: Longer memory for
   more personalized responses'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 795
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 99ccdf2d1f0eac8071050d7d5085d4a2b2998c99b3e48248d9425af71bc3a7e8
+kind: change
+machine_hash: 850fc0e820fad408a68a4c0969c6d475072e26254f30032e794ea7993bc67006
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Longer memory for more personalized responses
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: longer-memory-for-more-personalized-responses
@@ -39,12 +41,12 @@ record:
   title: Longer memory for more personalized responses
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-22-personal-memory-must-be-enabled-to-utilize-this-feature-settings-personalization|Personal
-  Memory must be enabled to utilize this feature]]'
-- '[[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-aa77f4|An
+- '[[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses-4644fd|Longer
+  memory for more personalized responses]]'
+- '[[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-87f79a|An
   improvement to projects is now available]]'
 - '[[Changes/ChatGPT/2025-09-15-personalization-no-longer-opens-in-a-separate-modal-you-can-manage-personalizati|Personalization
-  no longer opens in a separate modal]]'
+  settings are now in Settings]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7|chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -74,14 +76,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-09-15 · ChatGPT · [[Changes/ChatGPT/2025-09-15-personalization-no-longer-opens-in-a-separate-modal-you-can-manage-personalizati|Personalization no longer opens in a separate modal]]
-- Later: 2025-09-25 · ChatGPT · [[Changes/ChatGPT/2025-09-25-we-re-launching-an-early-preview-of-chatgpt-pulse-for-pro-users-on-ios-and-andro-cf8064|ChatGPT launches an early preview of ChatGPT pulse for Pro users on iOS and Android]]
+- Earlier: 2025-09-15 · ChatGPT · [[Changes/ChatGPT/2025-09-15-personalization-no-longer-opens-in-a-separate-modal-you-can-manage-personalizati|Personalization settings are now in Settings]]
+- Later: 2025-09-25 · ChatGPT · [[Changes/ChatGPT/2025-09-25-we-re-launching-an-early-preview-of-chatgpt-pulse-for-pro-users-on-ios-and-andro-cf8064|Introducing ChatGPT Pulse for Pro users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

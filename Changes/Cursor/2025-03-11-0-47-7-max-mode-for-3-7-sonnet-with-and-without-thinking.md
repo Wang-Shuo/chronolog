@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0f2f36fd89b3827548b64438266a48bb819fa9d7d518a22603b4dd9faa3c2322
+machine_hash: e3136311be14db487eb6b796eb0e3c2ecbeae80801c4a25292506a8ef7e4ebb2
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   Codebase Understanding: We''ve trained a new model for Codebase Understanding]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e|cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e]]'
 source_type: cursor_changelog
+superseded: true
 theme: model-support
 title: '0.47.7: MAX mode for 3.7 Sonnet with and without thinking'
 type: change

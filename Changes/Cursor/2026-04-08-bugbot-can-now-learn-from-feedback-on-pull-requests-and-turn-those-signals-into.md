@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 50f0b4edfb6a8189a3f3f6c203530fbcaad89d9253331081f9a16cbb48268b77
+machine_hash: 38fbe63b2bcf35bc9cae6041950e606b545230c9d818ed5b245331c98f998f92
 product: cursor
 product_name: Cursor
 record:
@@ -51,6 +51,7 @@ related_changes:
   workspace.git_worktree to the status line JSON input, set when the current…]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11|cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11]]'
 source_type: cursor_changelog
+superseded: true
 theme: developer-workflow
 title: Bugbot can now learn from feedback on pull requests and turn those signals…
 type: change

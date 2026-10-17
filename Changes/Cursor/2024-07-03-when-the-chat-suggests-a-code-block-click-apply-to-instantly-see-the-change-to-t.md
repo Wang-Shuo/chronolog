@@ -14,9 +14,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: a935ed4f9282d1d735144e4ae1303fd030734b6cf29cfc6d40760802a8b0503e
+kind: change
+machine_hash: 7114180959735ab049ca8c8d749e5ff3b3425bc727670ad9e65923dd3ff20db1
 product: cursor
 product_name: Cursor
 record:
@@ -30,8 +31,9 @@ record:
   - quote: When the chat suggests a code block, click "Apply" to instantly see the
       change to the file (small enough files only).
     source_release: https://cursor.com/changelog/0-36-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: when-the-chat-suggests-a-code-block-click-apply-to-instantly-see-the-change-to-t
@@ -77,7 +79,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-06-08 · Cursor · [[Changes/Cursor/2024-06-08-remote-tunnels-are-now-supported-remote-ssh-support-is-also-more-robust-now-supp|Remote tunnels are now supported!]]
-- Later: 2024-10-09 · Cursor · [[Changes/Cursor/2024-10-09-we-have-made-slight-improvements-to-debug-with-ai-and-added-back-lint-errors-in|We have made slight improvements to Debug with AI and added back @Lint Errors in Chat]]
+- Later: 2024-09-17 · Cursor · [[Changes/Cursor/2024-09-17-we-ve-added-support-for-using-cursor-on-macs-over-remote-ssh|Cursor adds support for using Cursor on Macs over Remote SSH]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

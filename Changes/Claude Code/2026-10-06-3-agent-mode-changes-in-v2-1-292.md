@@ -1,0 +1,110 @@
+---
+card_id: claude-code-2026-10-06-d9c8d8
+date: '2026-10-06'
+description: 'Claude Code · 2026-10-06 · Agent Mode: 3 changes in v2.1.292 — Added
+  an `effort` parameter to the Agent tool, so Claude runs a sub-agent at the effort
+  level…'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1188
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: agent-mode
+  tracked_products_count: 3
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: digest
+machine_hash: 793c78e2647f0553c2249b9616d9998d6a9c58355d48e37995534cb322a34a29
+product: claude-code
+product_name: Claude Code
+record:
+  card_id: claude-code-2026-10-06-d9c8d8
+  comparison: ''
+  date: '2026-10-06'
+  description: 'Claude Code — v2.1.292: 3 Agent Mode changes'
+  evidence:
+  - quote: Added an `effort` parameter to the Agent tool, so Claude runs a sub-agent
+      at the effort level you ask for
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.292
+  - quote: Added workflow agents to the `agent.spawn` mod hook, with their run and
+      index, so a mod can refuse them
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.292
+  - quote: 'Improved cloud sessions after a restart: Claude is now told which stopped
+      background agents it can resume by id'
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.292
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: digest
+  product: claude-code
+  product_name: Claude Code
+  slug: 3-agent-mode-changes-in-v2-1-292
+  source_release: claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab
+  source_type: github_releases
+  theme: agent-mode
+  title: 3 Agent Mode changes in v2.1.292
+  type: change
+related_changes:
+- '[[Changes/Claude Code/2026-10-05-added-claude-api-managed-agents-onboard-url-to-set-up-the-managed-agents-pattern|Added
+  /claude-api managed-agents-onboard url to set up the Managed Agents…]]'
+- '[[Changes/Claude Code/2026-10-05-added-claude-api-managed-agents-onboard-quickstart-name-to-build-a-console-quick|Added
+  /claude-api managed-agents-onboard quickstart-name to build a Console…]]'
+- '[[Changes/Claude Code/2026-10-05-4-agent-mode-changes-in-v2-1-290|4 Agent Mode
+  changes in v2.1.290]]'
+source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab|claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab]]'
+source_type: github_releases
+theme: agent-mode
+title: 3 Agent Mode changes in v2.1.292
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 3 Agent Mode changes in v2.1.292
+
+**Claude Code** · 2026-10-06 · [[Themes/agent-mode|Agent Mode]] · Digest · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.292) · from [[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab|v2.1.292]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+## Changes in this digest
+
+> Added an `effort` parameter to the Agent tool, so Claude runs a sub-agent at the effort level you ask for
+
+> Added workflow agents to the `agent.spawn` mod hook, with their run and index, so a mod can refuse them
+
+> Improved cloud sessions after a restart: Claude is now told which stopped background agents it can resume by id
+
+Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.292
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-10-06-6-safety-and-privacy-changes-in-v2-1-292|6 Safety and Privacy changes in v2.1.292]] · Safety and Privacy
+- [[Changes/Claude Code/2026-10-06-9-apps-and-integrations-changes-in-v2-1-292|9 Apps and Integrations changes in v2.1.292]] · Apps and Integrations
+- [[Changes/Claude Code/2026-10-06-improved-rendering-speed-of-long-bulleted-or-numbered-replies-they-stream-resize|Improved rendering speed of long bulleted or numbered replies]] · Reliability and Performance
+- [[Changes/Claude Code/2026-10-06-added-prompt-autocomplete-an-event-a-mod-hooks-to-add-its-own-rows-to-the-prompt|Added prompt.autocomplete, an event a mod hooks to add its own rows to the prompt…]] · Editor Experience
+- [[Changes/Claude Code/2026-10-06-2-developer-workflow-changes-in-v2-1-292|2 Developer Workflow changes in v2.1.292]] · Developer Workflow
+- [[Changes/Claude Code/2026-10-06-claude-tag-added-an-edit-button-to-the-allowed-domains-card-on-a-channel-s-confi|Claude Tag Added an Edit button to the Allowed domains card on a channel's…]] · Enterprise and Administration
+- [[Changes/Claude Code/2026-10-06-improved-the-focus-tip-it-now-invites-you-to-try-focus-view-mid-turn-and-shows-h|Improved the /focus tip]] · Interface Experience
+- [[Changes/Claude Code/2026-10-06-added-prompt-caching-to-model-complete-for-mods-prompt-and-system-take-blocks-of|Added prompt caching to $.model.complete for mods]] · Model Support
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-4-agent-mode-changes-in-v2-1-290|4 Agent Mode changes in v2.1.290]]
+- Later: 2026-10-06 · Cursor · [[Changes/Cursor/2026-10-06-remote-control-doesn-t-move-your-agents-anywhere-it-keeps-running-on-your-comput|Agents keep running on your computer]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-10-06-d9c8d8&body=Card%3A%20Changes%2FClaude%20Code%2F2026-10-06-3-agent-mode-changes-in-v2-1-292.md%0ACard%20ID%3A%20claude-code-2026-10-06-d9c8d8%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.292%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

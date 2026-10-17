@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 62f826c88530194ad9f5c9f667f74546df7dfb9b1fe3bdb9273681609dacaa1f
+machine_hash: 9db8a8ad73819953a51eb88be4907fa084f4760dd90b2fc8c2cb71cd4c69bc36
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   is now available in IntelliJ IDEA, PyCharm, WebStorm, and other JetBrains…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48|claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added optional description argument to /plan (e.g., /plan fix the auth bug)…
 type: change

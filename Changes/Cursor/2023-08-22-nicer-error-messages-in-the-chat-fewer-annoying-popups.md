@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c197c1942ca81ef774297633ffc7ca3310ab748fcf7264ecbc5ae611c51446ad
+machine_hash: 5b07f25819429b9c7cab45eea4b95acfa91a84d5b043532529fe9dd6dde7ad72
 product: cursor
 product_name: Cursor
 record:
@@ -48,6 +48,7 @@ related_changes:
   error messages in the chat!]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-22-0-8-2-https-cursor-com-changelog-0-8-2-866d920f|cursor-2023-08-22-0-8-2-https-cursor-com-changelog-0-8-2-866d920f]]'
 source_type: cursor_changelog
+superseded: true
 theme: interface-experience
 title: Nicer error messages in the chat!
 type: change

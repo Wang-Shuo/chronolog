@@ -4,8 +4,8 @@ date: '2024-07-23'
 description: 'Cursor · 2024-07-23 · Editor Experience: VS Code 1.91.1: Cursor is now
   based on VS Code 1.91.1.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 497
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 322e21eb81d53d68604fb75e1000f15bee78b301d883a89c7dcdc78ffbda55bc
+kind: change
+machine_hash: 5ba596d8402e892ad15bf163efc19b4311e88e0d6cc9ba9822554624455f409d
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: 'VS Code 1.91.1: Cursor is now based on VS Code 1.91.1.'
     source_release: https://cursor.com/changelog/0-38-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: vs-code-1-91-1-cursor-is-now-based-on-vs-code-1-91-1
@@ -41,12 +43,12 @@ record:
   title: 'VS Code 1.91.1: Cursor is now based on VS Code 1.91.1'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-05-26-accept-partial-completions-with-copilot|Accept partial
-  completions with Copilot++]]'
+- '[[Changes/Cursor/2024-05-26-accept-partial-completions-with-copilot-ce6049|Accept
+  partial completions with Copilot++]]'
 - '[[Changes/Cursor/2024-06-08-default-on-cursor-prediction-with-a-new-ui|Default-on
   Cursor Prediction with a new UI]]'
-- '[[Changes/Cursor/2024-07-13-this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it|This
-  build comes with a new experimental multi-file editing feature]]'
+- '[[Changes/Cursor/2024-07-13-this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it|Composer
+  (beta)]]'
 source_release: '[[Releases/Cursor/cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df|cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -77,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-07-13 · Cursor · [[Changes/Cursor/2024-07-13-this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it|This build comes with a new experimental multi-file editing feature]]
+- Earlier: 2024-07-13 · Cursor · [[Changes/Cursor/2024-07-13-this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it|Composer (beta)]]
 - Later: 2024-08-02 · Cursor · [[Changes/Cursor/2024-08-02-cursor-tab-previously-called-copilot-defaults-to-chunked-streaming-this-build-al|Cursor Tab (previously called Copilot++) defaults to chunked streaming]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

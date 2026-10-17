@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 24747051ad9d6f6e7dcc78a746411042204b8f38330904672c86f4e5c13b6942
+machine_hash: 723c0451d6bed550cefb5dfdc5f724a440ebb02e2398c53624ba7601cde10943
 product: cursor
 product_name: Cursor
 record:
@@ -52,6 +52,7 @@ related_changes:
   fixes a long-standing issue where Always attached rules now persist across…]]'
 source_release: '[[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: For Auto Attached rules with path patterns defined, Agent will now automatically…
 type: change

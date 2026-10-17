@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0eed358f464c624d7fa9329a826c6421999a5d87c2891b90366d756471b23102
+machine_hash: 91042bebe60d65ece72a59f0af0a3f8b3d1ce63d54a65b060bc8bad9ef6216ae
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   effort, maxTurns, and disallowedTools frontmatter support…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721|claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added ${CLAUDE_PLUGIN_DATA} variable for plugin persistent state that survives…
 type: change

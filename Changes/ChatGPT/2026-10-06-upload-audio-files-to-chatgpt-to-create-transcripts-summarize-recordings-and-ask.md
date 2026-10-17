@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-10-06 · Voice and Audio: Upload audio files to Ch
   to create transcripts, summarize recordings, and ask questions about their contents.
   You…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use
-    voice to engage in a back-and-forth conversation with your assistant]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
+    are beginning to roll out new voice and image capabilities in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1107
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: c0a761509a3a9949fb6bfcbcdfaab485a00371ea7e3ab5856a8a80f36398c37a
+kind: change
+machine_hash: 71fc95ae31e116b61f69c6d12cf1bdc2f6d31b46b5b465289086828e84a0483b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,8 +45,9 @@ record:
       contain errors, and performance may vary across languages.For more information,
       see: Uploading files and audio to ChatGPT.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: upload-audio-files-to-chatgpt-to-create-transcripts-summarize-recordings-and-ask
@@ -66,26 +68,24 @@ record:
     score: 50
     theme: voice
   theme_resolution: manual-semantic-rule-v1
-  title: Upload audio files to ChatGPT to create transcripts, summarize recordings,
-    and ask…
+  title: Audio uploads in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-23-free-and-go-users-can-use-voice-in-chat-with-the-plugins-their-plan-supports-voi|Free
-  and Go users can use Voice in Chat with the plugins their plan supports]]'
-- '[[Changes/ChatGPT/2026-09-23-live-now-supports-plugins-on-web-ios-and-android-you-can-use-the-plugins-and-con|Live
-  now supports plugins on web, iOS, and Android]]'
-- '[[Changes/ChatGPT/2026-09-23-voice-is-also-available-in-work-on-web-and-mobile-ask-it-to-create-documents-pre|Voice
-  is also available in Work on web and mobile]]'
+- '[[Changes/ChatGPT/2026-08-31-follow-along-outside-the-app-live-activities-can-show-content-from-your-voice-co|Follow
+  along outside the app]]'
+- '[[Changes/ChatGPT/2026-08-31-to-continue-a-voice-conversation-outside-chatgpt-turn-on-background-conversation|To
+  continue a Voice conversation outside ChatGPT, turn on Background conversations…]]'
+- '[[Changes/ChatGPT/2026-09-23-live-now-supports-plugins-on-web-ios-and-android-you-can-use-the-plugins-and-con-88a242|Use
+  plugins in Voice and get work done by speaking]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-06-audio-uploads-in-chatgpt-e9ed5a9f|chatgpt-2026-10-06-audio-uploads-in-chatgpt-e9ed5a9f]]'
 source_type: chatgpt_changelog
 theme: voice
-title: Upload audio files to ChatGPT to create transcripts, summarize recordings,
-  and ask…
+title: Audio uploads in ChatGPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Upload audio files to ChatGPT to create transcripts, summarize recordings, and ask…
+# Audio uploads in ChatGPT
 
 **ChatGPT** · 2026-10-06 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-10-06-audio-uploads-in-chatgpt-e9ed5a9f|Audio uploads in ChatGPT]]
 <!-- chronolog:end -->
@@ -103,13 +103,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-09-23 · ChatGPT · [[Changes/ChatGPT/2026-09-23-voice-is-also-available-in-work-on-web-and-mobile-ask-it-to-create-documents-pre|Voice is also available in Work on web and mobile]]
+- Earlier: 2026-09-23 · ChatGPT · [[Changes/ChatGPT/2026-09-23-live-now-supports-plugins-on-web-ios-and-android-you-can-use-the-plugins-and-con-88a242|Use plugins in Voice and get work done by speaking]]
+- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-claude-tag-added-support-for-slack-voice-clips-in-claude-in-slack-claude-reads-s|Claude Tag Added support for Slack voice clips in Claude in Slack]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use voice to engage in a back-and-forth conversation with your assistant]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

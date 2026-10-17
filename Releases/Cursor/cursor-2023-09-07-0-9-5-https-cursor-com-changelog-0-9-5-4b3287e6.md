@@ -2,7 +2,7 @@
 changes_count: 0
 date: '2023-09-07'
 description: 'Cursor release Hotfix for indexing on 2023-09-07: no tracked changes'
-machine_hash: db1a8edb3b1462a42a943e08efe904f6d36174067c17ccda1c5ba79d3bf4e6c3
+machine_hash: e94c125b7ab69b61b1b7583eba8d193841a70e2b81c9b9c6101654d1976f3b8d
 product: cursor
 product_name: Cursor
 record:
@@ -37,7 +37,7 @@ version: 0.9.5
 <!-- chronolog:begin region="summary" -->
 Fixes a bug with indexing if you had turned off indexing by default.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

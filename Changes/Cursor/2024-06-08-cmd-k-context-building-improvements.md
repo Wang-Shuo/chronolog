@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: afeb3ef3225d81eead3d0a882669284944670ec0b6ef426c0461c6d989d29b6e
+machine_hash: b8061afa5564b91d138f7a89f19a3797cf6688c5acd633c3d2bd557cf4ddd4f7
 product: cursor
 product_name: Cursor
 record:
@@ -56,6 +56,7 @@ related_changes:
   context pills to chat messages, so you can see what will be/was used]]'
 source_release: '[[Releases/Cursor/cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90|cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: Cmd K context-building improvements
 type: change

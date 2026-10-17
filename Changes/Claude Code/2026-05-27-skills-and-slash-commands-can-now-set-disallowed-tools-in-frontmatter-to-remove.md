@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 31156f39022c1682cfc986e8f53d06b42c5bd1acf4cfdc7466773ff4ee27d551
+machine_hash: 386e4de492b34bedabc33e8279aa99afc41c3cff326e6e46ce8fb869001701c1
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   a substantial improvement in intelligence and behavior over Composer 2]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850|claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Skills and slash commands can now set disallowed-tools in frontmatter to remove…
 type: change

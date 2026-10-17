@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 62c90d40ff395a025344704934f7a222d10f002f67aefc7512bbdfec8eda466d
+machine_hash: c1d6d023f7d05d0a1bed14aeefeb0c052df337305634c5feb0ad993993e39dd6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,6 +49,7 @@ related_changes:
   we’re starting to roll out enhancements to data analysis]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572|chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: file-data
 title: Interact with tables and charts in a new expandable view
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 18a94253d5177abfeaadd4e48a45ca314000964758cde59f50d528d89ec7b793
+machine_hash: ca7f97dd3c345eca7b12c79725af22bc9488d20afe743567f37185273c8dc118
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   adds support for MCP Resources]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea|cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: Additionally, interpolated variables are now supported for MCP
 type: change

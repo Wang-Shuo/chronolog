@@ -1,9 +1,9 @@
 ---
-changes_count: 3
+changes_count: 2
 date: '2026-09-29'
-description: 'ChatGPT release Meet your dot on 2026-09-29: 3 tracked changes across
-  Enterprise and Administration, Agent Mode'
-machine_hash: 74b6586998a9cf8898c114397faf9b8cb7ef7fdec01a83ecca9cd24f336215c9
+description: 'ChatGPT release Meet your dot on 2026-09-29: 2 tracked changes across
+  Agent Mode, Enterprise and Administration'
+machine_hash: 1b237fcb716a4bb3a50c7a8c4803e8f0a7678d40446585ae7a38bdbb66870955
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,12 +42,11 @@ version: Meet your dot
 <!-- chronolog:begin region="summary" -->
 We’re introducing dots: always-on agents in ChatGPT that can take on ongoing work and keep making progress between conversations. Give your dot a goal, connect the apps it needs, and define what it can do on its own. Powered by GPT-6 Astra, your dot has its own cloud computer and can bring results back for your review.
 
-Tracked 3 of 4 candidate lines.
+Tracked 2 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-09-29-dots-are-rolling-out-gradually-to-eligible-pro-and-business-premium-users-aged-1|Dots are rolling out gradually to eligible Pro and Business Premium users aged 18…]] · Enterprise and Administration
-- [[Changes/ChatGPT/2026-09-29-we-re-introducing-dots-always-on-agents-in-chatgpt-that-can-take-on-ongoing-work|ChatGPT introduces dots]] · Agent Mode
+- [[Changes/ChatGPT/2026-09-29-we-re-introducing-dots-always-on-agents-in-chatgpt-that-can-take-on-ongoing-work-24bef5|ChatGPT introduces dots]] · Agent Mode · Launch
 - [[Changes/ChatGPT/2026-09-29-for-the-next-month-dots-usage-won-t-count-toward-eligible-pro-business-and-enter|For the next month, dots usage won’t count toward eligible Pro, Business…]] · Enterprise and Administration
 <!-- chronolog:end -->

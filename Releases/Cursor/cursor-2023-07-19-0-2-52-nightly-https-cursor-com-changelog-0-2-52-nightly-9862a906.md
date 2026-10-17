@@ -2,7 +2,7 @@
 changes_count: 0
 date: '2023-07-19'
 description: 'Cursor release Updates on 2023-07-19: no tracked changes'
-machine_hash: 54a7e649df2841c8b5235796636441c1fd468393588e4eab64c44ef648a33c3f
+machine_hash: 18aa85372d82c0d40d28f9f3e8316aa9960bfc55d132ee46ccbce5ce88222bda
 product: cursor
 product_name: Cursor
 record:
@@ -37,7 +37,7 @@ version: 0.2.52-nightly
 <!-- chronolog:begin region="summary" -->
 Hotfixes etc.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

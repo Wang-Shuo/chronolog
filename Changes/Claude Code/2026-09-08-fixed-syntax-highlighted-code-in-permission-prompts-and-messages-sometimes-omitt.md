@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5515553decc5ebb8c7339725006d111820e41656f6a82229ea9a95d43df71927
+machine_hash: e1ddf06a76e7abd3f68b60a4bac9f689cf61a4666e702b7500fb3de18b048f98
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   Remote Control showing a stale permission mode when a phone, browser…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405|claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed syntax-highlighted code in permission prompts and messages sometimes
   omitting…

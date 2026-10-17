@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-02-04'
 description: 'ChatGPT release Update on thinking time settings for GPT-5.2 Thinking
   in ChatGPT on 2026-02-04: 1 tracked change across Model Support'
-machine_hash: 17803ef50271ecc9bf7d7717d54da42ebc3c23fe7c3674bad2affeb9461884c5
+machine_hash: 1192b6e76e8db99440e04f105398f34779dc83cbff7804824be0a2aca9a6404f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ version: Update on thinking time settings for GPT-5.2 Thinking in ChatGPT
 <!-- chronolog:begin region="summary" -->
 Jan 10, 2026: We lowered the Standard and Light thinking time as we observed users prefer faster responses. As part of this update, the Extended thinking setting for GPT-5.2 was unintentionally changed to be lower which we have now fixed.February 3, 2026: We made another small reduction to Standard thinking time based…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

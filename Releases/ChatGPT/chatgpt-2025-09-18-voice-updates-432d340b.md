@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-09-18'
 description: 'ChatGPT release Voice Updates on 2025-09-18: 1 tracked change across
   Model Support'
-machine_hash: 331242317441578500de3a76f882d0899185888f02a237d4c5867dedb3ea8a77
+machine_hash: b8ef6f739a1a040c81a71d9ce28fb27f1f0579828170097d6aa03e7ea12309c6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,10 +39,10 @@ version: Voice Updates
 <!-- chronolog:begin region="summary" -->
 We’re improving the quality and latency of responses of the version of Advanced Voice powered by GPT-4o mini.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|We’re improving the quality and latency of responses of the version of Advanced…]] · Model Support
+- [[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|Voice Updates]] · Model Support
 <!-- chronolog:end -->

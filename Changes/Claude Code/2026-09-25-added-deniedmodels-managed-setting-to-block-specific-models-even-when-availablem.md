@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ecef0c764b654344aacc7fcc28f4434a996e7e316d734c8ec84fdee0737254ac
+machine_hash: 4acadab5e481761ce52e579d31ed9c963275a625a29a6f94b43598239f1fc675
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   availableModelsMatch managed setting]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8|claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Added deniedModels managed setting to block specific models, even…
 type: change

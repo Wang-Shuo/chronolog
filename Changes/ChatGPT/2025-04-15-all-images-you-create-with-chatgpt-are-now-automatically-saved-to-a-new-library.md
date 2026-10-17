@@ -5,19 +5,20 @@ description: 'ChatGPT · 2025-04-15 · Image Generation: All images you create w
   ChatGPT are now automatically saved to a new Library in the sidebar, giving you
   one place…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The
-    store features a diverse range of GPTs developed by our partners and the community]]'
+  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
+    3 for ChatGPT Free users]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 461
+  lag_days: 250
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: bfa561540ead5d9596b7341b44b353fe81d7cf86d54825c49f8f5cd9104be08c
+kind: change
+machine_hash: 401e26ee9d85cd81b63c59e5b428ce9da456d4ac93d5b645f4597353df52b64f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,8 +43,9 @@ record:
       while we backfill older creations, and you can remove an image by deleting the
       conversation where it was made.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: all-images-you-create-with-chatgpt-are-now-automatically-saved-to-a-new-library
@@ -73,24 +75,24 @@ record:
     score: 50
     theme: search-browsing
   theme_resolution: manual-semantic-rule-v1
-  title: All images you create with ChatGPT are now automatically saved to a new Library…
+  title: ChatGPT Image Library
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The
-  store features a diverse range of GPTs developed by our partners and the community]]'
-- '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|ChatGPT
-  rolls out the ability for ChatGPT Free users to create up to two images per…]]'
-- '[[Changes/ChatGPT/2025-03-18-1-increased-the-default-size-for-in-line-generated-images|Increased
+- '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
+  3 for ChatGPT Free users]]'
+- '[[Changes/ChatGPT/2024-11-22-dall-e-focused-view-has-an-updated-layout|DALL-E focused
+  view has an updated layout]]'
+- '[[Changes/ChatGPT/2025-03-18-increased-the-default-size-for-in-line-generated-images|Increased
   the default size for in‐line generated images]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-04-15-chatgpt-image-library-83e31577|chatgpt-2025-04-15-chatgpt-image-library-83e31577]]'
 source_type: chatgpt_changelog
 theme: image-generation
-title: All images you create with ChatGPT are now automatically saved to a new Library…
+title: ChatGPT Image Library
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# All images you create with ChatGPT are now automatically saved to a new Library…
+# ChatGPT Image Library
 
 **ChatGPT** · 2025-04-15 · [[Themes/image-generation|Image Generation]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-04-15-chatgpt-image-library-83e31577|ChatGPT Image Library]]
 <!-- chronolog:end -->
@@ -108,14 +110,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-1-increased-the-default-size-for-in-line-generated-images|Increased the default size for in‐line generated images]]
-- Later: 2025-08-08 · ChatGPT · [[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|ChatGPT rolls out a small update to image generation for ChatGPT Free tier users…]]
+- Earlier: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-increased-the-default-size-for-in-line-generated-images|Increased the default size for in‐line generated images]]
+- Later: 2025-08-08 · ChatGPT · [[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|Image generation update to ChatGPT Free]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The store features a diverse range of GPTs developed by our partners and the community]]
+- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

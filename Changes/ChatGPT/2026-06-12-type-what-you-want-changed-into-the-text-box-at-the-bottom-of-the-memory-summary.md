@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4c86ef2be9cd110ed56b013ef6202cb57b2f99d39f1e5eb0f7c5e30cc2cb323d
+machine_hash: cca74cd342cd99cd97cbba1a8a0a777664fcdc81a8628df6e19497350396a273
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,6 +50,7 @@ related_changes:
   the memories shown on your memory summary page and turn memory off…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-12-additional-controls-for-memory-summary-37c89b72|chatgpt-2026-06-12-additional-controls-for-memory-summary-37c89b72]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: memory
 title: Type what you want changed into the text box at the bottom of the memory summary…
 type: change

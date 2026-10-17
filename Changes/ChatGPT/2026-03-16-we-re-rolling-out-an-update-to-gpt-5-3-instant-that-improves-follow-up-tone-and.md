@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: a31917fff3dfafb0e3d00e56ab5247677d582e06aac08f72284f568262750bee
+kind: change
+machine_hash: 848ac73b3181fe399ce21c6db39ab57bd29f5c893b8caeb1ae10c9056ed1c640
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,8 +33,9 @@ record:
       tone and reduces teaser-style phrasing in responses (e.g., “If you want…”, “You’ll
       never believe…”, “I can tell you these three things that…”).
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-rolling-out-an-update-to-gpt-5-3-instant-that-improves-follow-up-tone-and
@@ -42,24 +44,24 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: ChatGPT rolls out an update to GPT-5.3 Instant that improves follow-up tone…
+  title: GPT-5.3 Instant update
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-04-opus-4-6-now-defaults-to-medium-effort-for-max-and-team-subscribers-medium-effor|Opus
-  4.6 now defaults to medium effort for Max and Team subscribers]]'
-- '[[Changes/Claude Code/2026-03-04-re-introduced-the-ultrathink-keyword-to-enable-high-effort-for-the-next-turn|Re-introduced
-  the "ultrathink" keyword to enable high effort for the next turn]]'
-- '[[Changes/ChatGPT/2026-03-11-as-of-march-11-2026-gpt-5-1-models-are-no-longer-available-in-chatgpt-this-appli|As
-  of March 11, 2026, GPT-5.1 models are no longer available in ChatGPT.This applies…]]'
+- '[[Changes/Claude Code/2026-03-11-2-model-support-changes-in-v2-1-73|2 Model Support
+  changes in v2.1.73]]'
+- '[[Changes/Claude Code/2026-03-14-added-effort-slash-command-to-set-model-effort-level|Added
+  /effort slash command to set model effort level]]'
+- '[[Changes/Claude Code/2026-03-14-improved-model-fallback-notifications-now-always-visible-instead-of-hidden-behin|Improved
+  model fallback notifications]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-16-gpt-5-3-instant-update-a32de9bf|chatgpt-2026-03-16-gpt-5-3-instant-update-a32de9bf]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: ChatGPT rolls out an update to GPT-5.3 Instant that improves follow-up tone…
+title: GPT-5.3 Instant update
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT rolls out an update to GPT-5.3 Instant that improves follow-up tone…
+# GPT-5.3 Instant update
 
 **ChatGPT** · 2026-03-16 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-16-gpt-5-3-instant-update-a32de9bf|GPT-5.3 Instant update]]
 <!-- chronolog:end -->
@@ -77,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-11 · ChatGPT · [[Changes/ChatGPT/2026-03-11-as-of-march-11-2026-gpt-5-1-models-are-no-longer-available-in-chatgpt-this-appli|As of March 11, 2026, GPT-5.1 models are no longer available in ChatGPT.This applies…]]
+- Earlier: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-improved-model-fallback-notifications-now-always-visible-instead-of-hidden-behin|Improved model fallback notifications]]
 - Later: 2026-03-17 · ChatGPT · [[Changes/ChatGPT/2026-03-17-instant-fast-responses-for-everyday-questions|Instant – fast responses for everyday questions]]
 <!-- chronolog:end -->
 

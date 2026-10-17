@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1d4a5d5128f3db4973bf820681490589044253180c5df64aaa18718841310175
+machine_hash: d77d2237cb335ead4a46783a8794f79cf2f6a70230da545b6c646840b2071b54
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,6 +47,7 @@ related_changes:
   auto-updater reliability]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-21-v2-1-146-github-326230049-ea612648|claude-code-2026-05-21-v2-1-146-github-326230049-ea612648]]'
 source_type: github_releases
+superseded: true
 theme: reliability-performance
 title: Improved diff rendering performance for large file edits
 type: change

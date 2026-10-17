@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 6
 date: '2023-07-07'
 description: 'Cursor release 0.2.44 - Improvements to many features, Fixes to Python
-  on 2023-07-07: 5 tracked changes across Apps and Integrations, Interface Experience'
-machine_hash: bb690eefbb3bcac81b690b57e4ae238d073d30cf490aa3e28b73771c119c0436
+  on 2023-07-07: 6 tracked changes across Apps and Integrations, Interface Experience…'
+machine_hash: 434a785020963854db92352f8d804e085d4be3b54609d9318fd66c8d7488e30c
 product: cursor
 product_name: Cursor
 record:
@@ -38,14 +38,15 @@ version: 0.2.44
 <!-- chronolog:begin region="summary" -->
 Improved the "@Add new doc" experience
 
-Tracked 5 of 10 candidate lines.
+Tracked 6 cards from 10 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-07-07-chat-edit-tooltip-blocks-less-code|Chat/Edit tooltip blocks less code]] · Interface Experience
 - [[Changes/Cursor/2023-07-07-better-symbol-keyboard-ergonomics|Better @ symbol keyboard ergonomics]] · Interface Experience
-- [[Changes/Cursor/2023-07-07-makes-it-clearer-which-docs-are-being-looked-at-by-the-ai|Makes it clearer which docs are being looked at by the AI]] · Apps and Integrations
+- [[Changes/Cursor/2023-07-07-chat-edit-tooltip-blocks-less-code-3a1e6b|Chat/Edit tooltip blocks less code]] · Interface Experience
+- [[Changes/Cursor/2023-07-07-cmd-k-should-work-better-for-long-diffs-greater-than-100-lines-of-code|Cmd-k should work better for long diffs (greater than 100 lines of code)]] · Editor Experience
 - [[Changes/Cursor/2023-07-07-improved-the-add-new-doc-experience|Improved the "@Add new doc" experience]] · Apps and Integrations
-- [[Changes/Cursor/2023-07-07-ai-will-respond-with-citations-when-you-reference-docs|AI will respond with citations when you reference docs]] · Apps and Integrations
+- [[Changes/Cursor/2023-07-07-makes-it-clearer-which-docs-are-being-looked-at-by-the-ai-c07254|Makes it clearer which docs are being looked at by the AI]] · Apps and Integrations
+- [[Changes/Cursor/2023-07-07-importing-vs-code-extensions-now-takes-into-account-enabled-disabled|Importing VS Code extensions now takes into account enabled/disabled]] · Apps and Integrations
 <!-- chronolog:end -->

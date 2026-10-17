@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 031b19dd183adfdf07b7738ff4a60b5dd6b9d4343649517076c466c3218f7bea
+machine_hash: dbc2454b8659ebc9a844a374f5d71ff6c292909b15ec1cd42395a9d8651b1832
 product: cursor
 product_name: Cursor
 record:
@@ -50,6 +50,7 @@ related_changes:
   been using them for running linters, fixing compile errors, and creating PRs…]]'
 source_release: '[[Releases/Cursor/cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490|cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490]]'
 source_type: cursor_changelog
+superseded: true
 theme: developer-workflow
 title: Find and fix bugs directly in Cursor with AI code reviews
 type: change

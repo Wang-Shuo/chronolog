@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ef3186c96c69d99632bdae1acf4fb79cfb13344ead34a55e6844a7ea4f8c774a
+machine_hash: 44d944f21d53707304a2b14b5e0c84ac190e4c5043589d2f5b23acf366c304bf
 product: cursor
 product_name: Cursor
 record:
@@ -61,6 +61,7 @@ related_changes:
   Automations are now available in the Agents Window, in addition…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-05-20-26-f6af79ab|cursor-2026-05-20-3-5-https-cursor-com-changelog-05-20-26-f6af79ab]]'
 source_type: cursor_changelog
+superseded: true
 theme: automation-scheduling
 title: Cursor brings Cursor Automations to the Agents Window and introduces the ability…
 type: change

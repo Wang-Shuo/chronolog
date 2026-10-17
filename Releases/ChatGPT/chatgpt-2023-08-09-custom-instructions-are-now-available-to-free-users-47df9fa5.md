@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-08-09'
 description: 'ChatGPT release Custom instructions are now available to free users
   on 2023-08-09: 1 tracked change across Memory and Personalization'
-machine_hash: d87521e999844ef8fe68e13afac235c3b836d9573d67826e6a98320e29496560
+machine_hash: 27803d24a08c5d37955b6a6b04c3ac1e58400b5604218ae73429b9b489ea9883
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Custom instructions are now available to free users
 <!-- chronolog:begin region="summary" -->
 Custom instructions are now available to ChatGPT users on the free plan, except for in the EU UK where we will be rolling it out soon!Customize your interactions with ChatGPT by providing specific details and guidelines for your chats.To add your instructions:
 
-Tracked 1 of 3 candidate lines.
+Tracked 1 card from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2023-08-09-custom-instructions-are-now-available-to-chatgpt-users-on-the-free-plan-except-f-963d1e|Custom instructions are now available to ChatGPT users on the free plan, except…]] · Memory and Personalization
+- [[Changes/ChatGPT/2023-08-09-custom-instructions-are-now-available-to-chatgpt-users-on-the-free-plan-except-f-963d1e|Custom instructions are now available to free users]] · Memory and Personalization · Expansion
 <!-- chronolog:end -->

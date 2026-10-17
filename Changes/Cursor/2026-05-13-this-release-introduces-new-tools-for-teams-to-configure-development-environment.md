@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 23ae7f3e17880881a8744f572ded2413a99056fd72be78a32bdc87ba3e21ed60
+machine_hash: c2a3d7341f6a205a8712285077295c91b1bd1b3baea7c70bf8fba61aa6983786
 product: cursor
 product_name: Cursor
 record:
@@ -67,6 +67,7 @@ related_changes:
   includes support for build secrets, making it easy to securely access private…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c|cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Cursor introduces new tools for teams to configure development environments…
 type: change

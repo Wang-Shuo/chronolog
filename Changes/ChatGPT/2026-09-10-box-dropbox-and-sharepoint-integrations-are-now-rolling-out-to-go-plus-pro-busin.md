@@ -5,19 +5,20 @@ description: 'ChatGPT · 2026-09-10 · Enterprise and Administration: Box, Dropb
   and SharePoint integrations are now rolling out to Go, Plus, Pro, Business, Edu,
   Healthcare…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise
-    and Edu rollout coming soon]]'
+  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
+    users can only access stable release (no pre-release)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 455
+  lag_days: 463
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 77b4e4a82bfe6ec3bdab609a81e93142cff6d460a0ad3d34376fa346ee6b84a4
+kind: expansion
+machine_hash: 323b709c4ad1a0b37012227c43952957733bc7b763f523cca7324d0e28ab380d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,8 +37,9 @@ record:
       and Work. Existing file permissions and workspace controls apply. Mobile support
       will follow.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: expansion
   product: chatgpt
   product_name: ChatGPT
   slug: box-dropbox-and-sharepoint-integrations-are-now-rolling-out-to-go-plus-pro-busin
@@ -62,12 +64,12 @@ record:
     Pro…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-04-starting-today-for-chatgpt-enterprise-and-education-users-long-pastes-are-handle|Starting
-  today for ChatGPT Enterprise and Education users, long pastes are handled…]]'
-- '[[Changes/ChatGPT/2026-08-13-computer-history-is-an-optional-feature-in-the-chatgpt-macos-app-that-lets-chatg|Computer
-  History is an optional feature in the ChatGPT macOS app that lets ChatGPT…]]'
-- '[[Changes/Cursor/2026-09-02-team-pools-are-named-queues-of-workers-for-a-team-or-enterprise-capacity-can-gro|Team
-  pools are named queues of workers for a team or enterprise]]'
+- '[[Changes/Claude Code/2026-08-13-enterprise-policy-a-url-typed-blockedmarketplaces-entry-for-a-bare-repo-url-keep|Enterprise
+  policy: a url-typed blockedMarketplaces entry for a bare repo URL keeps…]]'
+- '[[Changes/Claude Code/2026-08-14-changed-the-github-app-setup-tip-to-no-longer-appear-in-repositories-whose-origi|Changed
+  the GitHub app setup tip to no longer appear in repositories whose origin…]]'
+- '[[Changes/Claude Code/2026-08-18-remote-control-claude-rc-now-applies-the-same-enterprise-gateway-availability-ch|Remote
+  Control: claude rc now applies the same enterprise-gateway availability…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-10-box-dropbox-and-sharepoint-are-now-in-library-e089c018|chatgpt-2026-09-10-box-dropbox-and-sharepoint-are-now-in-library-e089c018]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
@@ -79,7 +81,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Box, Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro…
 
-**ChatGPT** · 2026-09-10 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-10-box-dropbox-and-sharepoint-are-now-in-library-e089c018|Box, Dropbox, and SharePoint are now in Library]]
+**ChatGPT** · 2026-09-10 · [[Themes/enterprise-admin|Enterprise and Administration]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-10-box-dropbox-and-sharepoint-are-now-in-library-e089c018|Box, Dropbox, and SharePoint are now in Library]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -97,14 +99,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-02 · Cursor · [[Changes/Cursor/2026-09-02-team-pools-are-named-queues-of-workers-for-a-team-or-enterprise-capacity-can-gro|Team pools are named queues of workers for a team or enterprise]]
-- Later: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-both-are-available-today-on-teams-and-enterprise-plans|Both are available today on Teams and Enterprise plans]]
+- Earlier: 2026-08-18 · Claude Code · [[Changes/Claude Code/2026-08-18-remote-control-claude-rc-now-applies-the-same-enterprise-gateway-availability-ch|Remote Control: claude rc now applies the same enterprise-gateway availability…]]
+- Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-claude-tag-improved-claude-s-notices-in-enterprise-grid-channels-shared-across-w|Claude Tag Improved Claude's notices in Enterprise Grid channels shared across…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise and Edu rollout coming soon]]
+- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

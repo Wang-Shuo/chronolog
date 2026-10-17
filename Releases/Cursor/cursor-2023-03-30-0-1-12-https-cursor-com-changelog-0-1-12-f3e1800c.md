@@ -3,7 +3,7 @@ changes_count: 3
 date: '2023-03-30'
 description: 'Cursor release v0.1.12 (2023-03-30) on 2023-03-30: 3 tracked changes
   across Account and Access, Interface Experience, Model Support'
-machine_hash: 9f4460efb256a521fdd5a6abfbaac85e76313bdbb2f72224afd4fd5fcbf1c6a6
+machine_hash: 8ef37a6acf96097ef8943f84867dc34621438b7465699dd95d2c14482d0fe291
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.1.12
 <!-- chronolog:begin region="summary" -->
 3 tracked changes across 3 themes: Account and Access, Interface Experience, Model Support.
 
-Tracked 3 of 4 candidate lines.
+Tracked 3 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

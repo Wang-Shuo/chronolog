@@ -1,9 +1,9 @@
 ---
-changes_count: 4
+changes_count: 3
 date: '2026-02-19'
-description: 'ChatGPT release Interactive Code Blocks in ChatGPT on 2026-02-19: 4
-  tracked changes across Editor Experience, Apps and Integrations, Developer Workflow'
-machine_hash: 4e04b663c9503ce38ecd414fe9e293eb74c1f0cda032475a1787117b06cb1922
+description: 'ChatGPT release Interactive Code Blocks in ChatGPT on 2026-02-19: 3
+  tracked changes across Apps and Integrations, Developer Workflow, Editor Experience'
+machine_hash: 9ff9c02ef0bec8819cccdb58ef884e33daa556e722720dfcf7c470897cb10e32
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,13 +39,12 @@ version: Interactive Code Blocks in ChatGPT
 <!-- chronolog:begin region="summary" -->
 We improved Code Blocks in ChatGPT to make them more interactive. You can write, edit, and preview your code in ChatGPT, all in oneplace:
 
-Tracked 4 of 4 candidate lines.
+Tracked 3 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-02-19-write-and-edit-text-in-line|Write and edit text in-line]] · Editor Experience
-- [[Changes/ChatGPT/2026-02-19-we-improved-code-blocks-in-chatgpt-to-make-them-more-interactive-you-can-write-e-69f629|We improved Code Blocks in ChatGPT to make them more interactive]] · Editor Experience
+- [[Changes/ChatGPT/2026-02-19-we-improved-code-blocks-in-chatgpt-to-make-them-more-interactive-you-can-write-e-6b2623|We improved Code Blocks in ChatGPT to make them more interactive]] · Editor Experience
 - [[Changes/ChatGPT/2026-02-19-preview-diagrams-and-mini-apps-directly-in-chat|Preview diagrams and mini apps directly in chat]] · Apps and Integrations
 - [[Changes/ChatGPT/2026-02-19-review-code-in-split-screen-views|Review code in split-screen views]] · Developer Workflow
 <!-- chronolog:end -->

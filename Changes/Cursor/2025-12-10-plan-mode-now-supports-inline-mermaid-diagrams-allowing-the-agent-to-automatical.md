@@ -4,8 +4,8 @@ date: '2025-12-10'
 description: 'Cursor · 2025-12-10 · Agent Mode: Plan Mode now supports inline Mermaid
   diagrams, allowing the agent to automatically generate and stream visuals into your…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 888
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: 124fe7fffe01dc6666141129549d2902e653485f8500fa67c601660fd12c6697
+kind: launch
+machine_hash: d4cb5b9481f1e56b6005e6782a13eec351dbceec7fe78e99329358ac748559bd
 product: cursor
 product_name: Cursor
 record:
@@ -35,34 +36,33 @@ record:
       generate and stream visuals into your plans. You also have more control over
       how you build them, with the option to send selected to-dos to new agents.
     source_release: https://cursor.com/changelog/2-2
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: plan-mode-now-supports-inline-mermaid-diagrams-allowing-the-agent-to-automatical
+  slug: plan-mode-improvements
   source_release: cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323
   source_type: cursor_changelog
   theme: agent-mode
-  title: Plan Mode now supports inline Mermaid diagrams, allowing the agent to automatically…
+  title: Plan Mode improvements
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-11-21-all-grep-commands-run-by-the-agent-are-now-instant|All
-  grep commands run by the agent are now instant]]'
-- '[[Changes/Cursor/2025-11-21-when-creating-plans-cursor-responds-with-clarifying-questions-to-improve-the-pla|When
-  creating plans, Cursor responds with clarifying questions to improve the plan quality]]'
-- '[[Changes/Cursor/2025-12-10-move-elements-update-colors-test-layouts-and-experiment-with-css-in-real-time-th|Move
-  elements, update colors, test layouts, and experiment with CSS in real time…]]'
+- '[[Changes/Cursor/2025-10-29-multi-agents-bb4f56|Multi-Agents]]'
+- '[[Changes/Cursor/2025-11-21-instant-grep-beta|Instant Grep (Beta)]]'
+- '[[Changes/Cursor/2025-11-21-2-agent-mode-changes-in-2-1|2 Agent Mode changes in
+  2.1]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Plan Mode now supports inline Mermaid diagrams, allowing the agent to automatically…
+title: Plan Mode improvements
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Plan Mode now supports inline Mermaid diagrams, allowing the agent to automatically…
+# Plan Mode improvements
 
-**Cursor** · 2025-12-10 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/2-2) · from [[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|Debug Mode, Plan Mode Improvements, Multi-Agent Judging, and Pinned Chats]]
+**Cursor** · 2025-12-10 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://cursor.com/changelog/2-2) · from [[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|Debug Mode, Plan Mode Improvements, Multi-Agent Judging, and Pinned Chats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -74,23 +74,27 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2025-12-10-move-elements-update-colors-test-layouts-and-experiment-with-css-in-real-time-th|Move elements, update colors, test layouts, and experiment with CSS in real time…]] · Agent Mode
-- [[Changes/Cursor/2025-12-10-design-and-code-simultaneously-with-a-brand-new-browser-sidebar-and-component-tr|Design and code simultaneously with a brand new browser sidebar and component tree]] · Interface Experience
-- [[Changes/Cursor/2025-12-10-debug-mode-helps-you-reproduce-and-fix-the-most-tricky-bugs|Debug Mode helps you reproduce and fix the most tricky bugs]] · Developer Workflow
-- [[Changes/Cursor/2025-12-10-cursor-instruments-your-app-with-runtime-logs-to-find-the-root-cause-it-works-ac|Cursor instruments your app with runtime logs to find the root cause]] · Model Support
+- [[Changes/Cursor/2025-12-10-ask-mode-can-use-a-read-only-terminal-to-get-better-answers-like-checking-git-co|Ask Mode can use a read-only terminal to get better answers, like checking git commits]] · Developer Workflow
+- [[Changes/Cursor/2025-12-10-2-reliability-and-performance-changes-in-2-2|2 Reliability and Performance changes in 2.2]] · Reliability and Performance
+- [[Changes/Cursor/2025-12-10-debug-mode|Debug Mode]] · Developer Workflow
+- [[Changes/Cursor/2025-12-10-multi-agent-judging|Multi-agent judging]] · Agent Mode
+- [[Changes/Cursor/2025-12-10-system-notification-actions-for-terminal-and-mcp-approval-rejection|System notification actions for terminal and MCP approval/rejection]] · Apps and Integrations
+- [[Changes/Cursor/2025-12-10-browser-layout-and-style-editor-c9ae9c|Browser layout and style editor]] · Editor Experience
+- [[Changes/Cursor/2025-12-10-pinned-chats|Pinned chats]] · Interface Experience
+- [[Changes/Cursor/2025-12-10-agent-plans-are-now-files-that-can-be-edited-with-normal-tools|Agent plans are now files that can be edited with normal tools]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-when-creating-plans-cursor-responds-with-clarifying-questions-to-improve-the-pla|When creating plans, Cursor responds with clarifying questions to improve the plan quality]]
-- Later: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-this-includes-the-core-agent-layout-controls-viewing-code-diffs-and-more-we-will|This includes the core agent, layout controls, viewing code diffs, and more]]
+- Earlier: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-2-agent-mode-changes-in-2-1|2 Agent Mode changes in 2.1]]
+- Later: 2025-12-18 · Cursor · [[Changes/Cursor/2025-12-18-shared-agent-transcripts-164030|Shared agent transcripts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -14,9 +14,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 1bb275ea96c406b4f45bdd0983027ff369ed8cb756cad4e74e385786ffb9ab4a
+kind: change
+machine_hash: 7aac18834f5d8904f63ed4ef30c7b5ca92cc45314a00884812b19ff37ffb4ab4
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added `/scroll-speed` command to tune mouse wheel scroll speed with a live
       preview
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.139
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-scroll-speed-command-to-tune-mouse-wheel-scroll-speed-with-a-live-preview
@@ -41,12 +43,11 @@ record:
     preview
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-10-improved-brief-mode-to-retry-once-when-claude-responds-with-plain-text-instead-o|Improved
-  brief mode to retry once when Claude responds with plain text instead…]]'
-- '[[Changes/Claude Code/2026-04-13-improved-stalled-api-stream-handling-streams-now-abort-after-5-minutes-of-no-dat|Improved
-  stalled API stream handling]]'
-- '[[Changes/Claude Code/2026-04-20-resume-on-large-sessions-is-significantly-faster-up-to-67-on-40mb-sessions-and-h|/resume
-  on large sessions is significantly faster (up to 67% on 40MB+ sessions)…]]'
+- '[[Changes/Claude Code/2026-05-07-improved-memory-usage-by-releasing-warm-spare-background-workers-under-memory-pr|Improved
+  memory usage by releasing warm-spare background workers under memory pressure]]'
+- '[[Changes/Cursor/2026-05-07-pin-skills-as-quick-actions|Pin skills as quick actions]]'
+- '[[Changes/Cursor/2026-05-07-build-in-parallel-from-plans|Build in parallel from
+  plans]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'
 source_type: github_releases
 theme: reliability-performance
@@ -69,16 +70,21 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-05-11-added-claude-plugin-details-name-to-show-a-plugin-s-component-inventory-and-proj|Added claude plugin details name to show a plugin's component inventory…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-05-11-added-agent-view-research-preview-a-single-list-of-every-claude-code-session-run|Added agent view (Research Preview)]] · Agent Mode
+- [[Changes/Claude Code/2026-05-11-fixed-skill-name-permission-rules-the-wildcard-form-now-works-as-a-prefix-match|Fixed Skill(name ) permission rules]] · Safety and Privacy
+- [[Changes/Claude Code/2026-05-11-added-hook-args-string-field-exec-form-that-spawns-the-command-directly-without|Added hook args: string field (exec form) that spawns the command directly…]] · Developer Workflow
+- [[Changes/Claude Code/2026-05-11-context-all-per-skill-token-estimates-now-account-for-the-model-s-tokenizer-and|/context all per-skill token estimates now account for the model's tokenizer…]] · Context Window
 - [[Changes/Claude Code/2026-05-11-added-goal-command-set-a-completion-condition-and-claude-keeps-working-across-tu|Added /goal command]] · Apps and Integrations
+- [[Changes/Claude Code/2026-05-11-8-apps-and-integrations-changes-in-v2-1-139|8 Apps and Integrations changes in v2.1.139]] · Apps and Integrations
+- [[Changes/Claude Code/2026-05-11-compaction-prompt-now-asks-the-model-to-preserve-sensitive-user-instructions|Compaction prompt now asks the model to preserve sensitive user instructions]] · Model Support
+- [[Changes/Claude Code/2026-05-11-vscode-press-cmd-ctrl-shift-t-to-reopen-the-most-recently-closed-session-tab-con|VSCode Press Cmd/Ctrl+Shift+T to reopen the most recently closed session tab…]] · Editor Experience
+- [[Changes/Claude Code/2026-05-11-2-agent-mode-changes-in-v2-1-139|2 Agent Mode changes in v2.1.139]] · Agent Mode
 - [[Changes/Claude Code/2026-05-11-added-transcript-view-navigation-for-keyboard-shortcuts-to-jump-between-user-pro|Added transcript view navigation]] · Interface Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-04-20 · Claude Code · [[Changes/Claude Code/2026-04-20-resume-on-large-sessions-is-significantly-faster-up-to-67-on-40mb-sessions-and-h|/resume on large sessions is significantly faster (up to 67% on 40MB+ sessions)…]]
+- Earlier: 2026-05-07 · Cursor · [[Changes/Cursor/2026-05-07-build-in-parallel-from-plans|Build in parallel from plans]]
 - Later: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-default-bugbot-continues-to-use-the-same-effort-level-as-it-does-today-optimized|Default: Bugbot continues to use the same effort level as it does today]]
 <!-- chronolog:end -->
 

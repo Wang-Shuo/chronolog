@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 76a0fea72e392b3944109d6d7277bdb549f66bcfd55a549f1241da7c56adddfe
+kind: change
+machine_hash: 035e55f14bc326bd0adc40569d3c24ed9df941728dabcf557203a6d7f2f81003
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Includes some updates to "Option+Enter" in the chat
     source_release: https://cursor.com/changelog/0-2-11
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: includes-some-updates-to-option-enter-in-the-chat
@@ -73,7 +75,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-added-the-ability-to-hide-the-tooltip-cursor-config-advanced-chat-edit-tooltip|Added the ability to hide the tooltip (Cursor config  Advanced  Chat/Edit Tooltip)]]
-- Later: 2023-05-20 · Cursor · [[Changes/Cursor/2023-05-20-we-ve-added-a-new-feedback-button-at-the-top-right-of-the-app-we-really-do|Cursor adds a new feedback button at the top right of the app]]
+- Later: 2023-05-17 · Cursor · [[Changes/Cursor/2023-05-17-a-better-cursor-tutor-onboarding|A better Cursor Tutor onboarding!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: b368459317f2ed9c17abb6ef4617b244c6a356390852a4c555666a347bc4b422
+kind: change
+machine_hash: 939d7df4af872aeb32740c1742576231e11fad0011bba6851372aefc5d324e21
 product: claude-code
 product_name: Claude Code
 record:
@@ -35,8 +36,9 @@ record:
       tools (Read, Edit, Glob, Grep) instead of bash equivalents (`cat`, `sed`, `grep`,
       `find`), reducing unnecessary bash command usage
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.31
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-system-prompts-to-more-clearly-guide-the-model-toward-using-dedicated-t
@@ -47,10 +49,10 @@ record:
     tools…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|We’re
-  updating GPT-5.2 Instant’s default personality to be more conversational…]]'
-- '[[Changes/ChatGPT/2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta|On
-  February 13, 2026, alongside the previously announced retirement of GPT‑5…]]'
+- '[[Changes/ChatGPT/2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta|Retiring
+  GPT-4o and other legacy models]]'
+- '[[Changes/Claude Code/2026-02-03-changed-model-to-execute-immediately-instead-of-being-queued|Changed
+  /model to execute immediately instead of being queued]]'
 - '[[Changes/ChatGPT/2026-02-04-jan-10-2026-we-lowered-the-standard-and-light-thinking-time-as-we-observed-users-e93d5a|Jan
   10, 2026: We lowered the Standard and Light thinking time as we observed users…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1|claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1]]'
@@ -78,6 +80,7 @@ type: change
 
 - [[Changes/Claude Code/2026-02-04-added-support-for-full-width-zenkaku-space-input-from-japanese-ime-in-checkbox-s|Added support for full-width (zenkaku) space input from Japanese IME in checkbox selection]] · Accessibility and Localization
 - [[Changes/Claude Code/2026-02-04-improved-pdf-and-request-size-error-messages-to-show-actual-limits-100-pages-20m|Improved PDF and request size error messages to show actual limits (100 pages, 20MB)]] · Files and Data
+- [[Changes/Claude Code/2026-02-04-removed-misleading-anthropic-api-pricing-from-model-selector-for-third-party-pro|Removed misleading Anthropic API pricing from model selector for third-party…]] · Pricing Model
 - [[Changes/Claude Code/2026-02-04-added-session-resume-hint-on-exit-showing-how-to-continue-your-conversation-late|Added session resume hint on exit, showing how to continue your conversation later]] · Projects and Workspaces
 - [[Changes/Claude Code/2026-02-04-reduced-layout-jitter-in-the-terminal-when-the-spinner-appears-and-disappears-du|Reduced layout jitter in the terminal when the spinner appears and disappears during…]] · Developer Workflow
 <!-- chronolog:end -->

@@ -4,8 +4,8 @@ date: '2026-02-19'
 description: 'Claude Code · 2026-02-19 · Editor Experience: Simple mode (`CLAUDE_CODE_SIMPLE`)
   now includes the file edit tool in addition to the Bash tool, allowing direct…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1073
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: c5e0099dacae8fdf88459f972995221259e63e4dad37006a43d1bee5f621eb52
+kind: change
+machine_hash: 0b2c69c055c83e9c7b53a3cbd274f25661af93eef1152808a19b74dd910eab49
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Simple mode (`CLAUDE_CODE_SIMPLE`) now includes the file edit tool in addition
       to the Bash tool, allowing direct file editing in simple mode.
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.49
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: simple-mode-claude-code-simple-now-includes-the-file-edit-tool-in-addition-to-th
@@ -45,8 +47,9 @@ record:
 related_changes:
 - '[[Changes/Claude Code/2026-01-28-improved-claude-to-prefer-file-operation-tools-read-edit-write-over-bash-equival|Improved
   Claude to prefer file operation tools (Read, Edit, Write) over bash…]]'
-- '[[Changes/ChatGPT/2026-02-19-write-and-edit-text-in-line|Write and edit text in-line]]'
-- '[[Changes/ChatGPT/2026-02-19-we-improved-code-blocks-in-chatgpt-to-make-them-more-interactive-you-can-write-e-69f629|We
+- '[[Changes/Cursor/2026-02-17-manual-edits-no-longer-create-in-line-diffs|Manual
+  edits no longer create in-line diffs]]'
+- '[[Changes/ChatGPT/2026-02-19-we-improved-code-blocks-in-chatgpt-to-make-them-more-interactive-you-can-write-e-6b2623|We
   improved Code Blocks in ChatGPT to make them more interactive]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140|claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140]]'
 source_type: github_releases
@@ -70,23 +73,24 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-02-19-improved-performance-in-non-interactive-mode-p-by-skipping-unnecessary-api-calls|Improved performance in non-interactive mode (-p) by skipping unnecessary API…]] · Reliability and Performance
-- [[Changes/Claude Code/2026-02-19-sonnet-4-5-with-1m-context-is-being-removed-from-the-max-plan-in-favor-of-our-fr|Sonnet 4.5 with 1M context is being removed from the Max plan in favor of our…]] · Model Support
-- [[Changes/Claude Code/2026-02-19-permission-suggestions-are-now-populated-when-safety-checks-trigger-an-ask-respo|Permission suggestions are now populated when safety checks trigger an ask response…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-02-19-2-reliability-and-performance-changes-in-v2-1-49|2 Reliability and Performance changes in v2.1.49]] · Reliability and Performance
+- [[Changes/Claude Code/2026-02-19-2-model-support-changes-in-v2-1-49|2 Model Support changes in v2.1.49]] · Model Support
+- [[Changes/Claude Code/2026-02-19-3-safety-and-privacy-changes-in-v2-1-49|3 Safety and Privacy changes in v2.1.49]] · Safety and Privacy
+- [[Changes/Claude Code/2026-02-19-2-apps-and-integrations-changes-in-v2-1-49|2 Apps and Integrations changes in v2.1.49]] · Apps and Integrations
 - [[Changes/Claude Code/2026-02-19-improved-performance-by-caching-authentication-failures-for-http-and-sse-mcp-ser|Improved performance by caching authentication failures for HTTP and SSE MCP…]] · Account and Access
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-02-19 · ChatGPT · [[Changes/ChatGPT/2026-02-19-we-improved-code-blocks-in-chatgpt-to-make-them-more-interactive-you-can-write-e-69f629|We improved Code Blocks in ChatGPT to make them more interactive]]
-- Later: 2026-02-24 · Claude Code · [[Changes/Claude Code/2026-02-24-vs-code-fixed-extension-crash-on-windows-command-claude-vscode-editor-openlast-n|VS Code: Fixed extension crash on Windows…]]
+- Earlier: 2026-02-19 · ChatGPT · [[Changes/ChatGPT/2026-02-19-we-improved-code-blocks-in-chatgpt-to-make-them-more-interactive-you-can-write-e-6b2623|We improved Code Blocks in ChatGPT to make them more interactive]]
+- Later: 2026-02-27 · ChatGPT · [[Changes/ChatGPT/2026-02-27-edit-messages-with-images-you-can-now-edit-messages-that-include-image-attachmen|Edit messages with images]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

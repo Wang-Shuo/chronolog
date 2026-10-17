@@ -5,8 +5,8 @@ description: 'Claude Code · 2026-08-14 · Memory and Personalization: Added opt
   memory cgroup support for Bash tool commands on Linux (`CLAUDE_CODE_TOOL_MEMORY_LIMIT`)
   so…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1121
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 6b710434cfcc510bd566ce2185fa718cc7b73e0ba03528dbbab77f8eea4cd55d
+kind: change
+machine_hash: e7233c3ae0f116b61c0943531887f63b1eedb17ecb81c6d472eb33400d03d065
 product: claude-code
 product_name: Claude Code
 record:
@@ -33,8 +34,9 @@ record:
   - quote: Added opt-in memory cgroup support for Bash tool commands on Linux (`CLAUDE_CODE_TOOL_MEMORY_LIMIT`)
       so a runaway build can't stall the session
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.233
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-opt-in-memory-cgroup-support-for-bash-tool-commands-on-linux-claude-code-t
@@ -44,12 +46,12 @@ record:
   title: Added opt-in memory cgroup support for Bash tool commands on Linux…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-14-change-an-existing-project-s-memory-setting-for-eligible-unshared-projects-switc|Change
-  an existing project’s memory setting]]'
-- '[[Changes/ChatGPT/2026-08-14-this-update-is-available-on-all-chatgpt-plans-shared-projects-continue-to-use-pr|This
-  update is available on all ChatGPT plans]]'
-- '[[Changes/ChatGPT/2026-08-14-you-can-now-change-a-project-s-memory-setting-after-you-create-it-open-the-proje|Change
-  a project’s memory setting after you create it]]'
+- '[[Changes/Claude Code/2026-08-13-cowork-sessions-no-longer-inline-external-imports-from-user-scope-memory-files|Cowork
+  sessions no longer inline external @-imports from user-scope memory files]]'
+- '[[Changes/ChatGPT/2026-08-14-we-ve-made-it-easier-to-study-with-interactive-quizzes-manage-project-memory-and|ChatGPT
+  makes it easier to study with interactive quizzes, manage project memory…]]'
+- '[[Changes/ChatGPT/2026-08-14-you-can-now-change-a-project-s-memory-setting-after-you-create-it-open-the-proje-b36ffe|Edit
+  memory settings for existing projects]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9|claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9]]'
 source_type: github_releases
 theme: memory
@@ -72,22 +74,27 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-08-14-added-an-opt-in-forward-user-identity-apps-gateway-setting-on-anthropic-upstream|Added an opt-in forward_user_identity apps gateway setting on Anthropic upstreams…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-08-14-3-safety-and-privacy-changes-in-v2-1-233|3 Safety and Privacy changes in v2.1.233]] · Safety and Privacy
+- [[Changes/Claude Code/2026-08-14-improved-screen-reader-mode-the-effort-selector-renders-as-a-numbered-list-with|Improved screen reader mode]] · Accessibility and Localization
+- [[Changes/Claude Code/2026-08-14-changed-the-github-app-setup-tip-to-no-longer-appear-in-repositories-whose-origi|Changed the GitHub app setup tip to no longer appear in repositories whose origin…]] · Enterprise and Administration
+- [[Changes/Claude Code/2026-08-14-improved-apps-gateway-error-forwarding-400-413-errors-from-vertex-foundry-and-cl|Improved apps gateway error forwarding]] · Context Window
+- [[Changes/Claude Code/2026-08-14-improved-claude-self-hosted-runner-session-start-time-the-session-branch-is-now|Improved claude self-hosted-runner session start time]] · Agent Mode
+- [[Changes/Claude Code/2026-08-14-2-model-support-changes-in-v2-1-233|2 Model Support changes in v2.1.233]] · Model Support
 - [[Changes/Claude Code/2026-08-14-added-gitlab-merge-request-url-support-to-the-worktree-flag-and-the-claude-agent|Added GitLab merge request URL support to the --worktree flag…]] · Developer Workflow
-- [[Changes/Claude Code/2026-08-14-fixed-cloud-sessions-occasionally-being-marked-as-lost-when-the-environment-shut|Fixed cloud sessions occasionally being marked as lost when the environment shut…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-08-14-2-apps-and-integrations-changes-in-v2-1-233|2 Apps and Integrations changes in v2.1.233]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-08-14 · ChatGPT · [[Changes/ChatGPT/2026-08-14-you-can-now-change-a-project-s-memory-setting-after-you-create-it-open-the-proje|Change a project’s memory setting after you create it]]
+- Earlier: 2026-08-14 · ChatGPT · [[Changes/ChatGPT/2026-08-14-you-can-now-change-a-project-s-memory-setting-after-you-create-it-open-the-proje-b36ffe|Edit memory settings for existing projects]]
 - Later: 2026-08-18 · Claude Code · [[Changes/Claude Code/2026-08-18-improved-the-embedded-grep-in-native-macos-linux-builds-pathological-patterns-no|Improved the embedded grep in native macOS/Linux builds]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

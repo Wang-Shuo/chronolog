@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 996371e0aa62c4d27413f594707ea509d0cdb9c20b557d009a935d800a36a7b1
+machine_hash: 3ba07db0ab06d9225d27f940373cdfc7b91bd0dcb0711eaa35b60790339aca7c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,6 +48,7 @@ related_changes:
   can now share a Canvas asset such as rendered React/HTML code, document…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-06-canvas-sharing-5abe3818|chatgpt-2025-02-06-canvas-sharing-5abe3818]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: file-data
 title: For more details about the canvas feature in ChatGPT, check out the following
   Help…

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 64043564bd52f5e76cacce5ec9815c76067bdced610c9a2a9ac0f55d6acadb53
+machine_hash: b5b04ee850ffd8cb36c15d517ed74b3a1b73c26d47717bc86301f1770f26d956
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   Bash permission prompts showing an internal parser diagnostic instead…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-08-v2-1-136-github-319609716-58f21368|claude-code-2026-05-08-v2-1-136-github-319609716-58f21368]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Added settings.autoMode.hard_deny for auto mode classifier rules that block…
 type: change

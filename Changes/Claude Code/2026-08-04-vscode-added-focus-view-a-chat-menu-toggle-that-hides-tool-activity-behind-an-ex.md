@@ -15,9 +15,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 3471303792bb830124ca75bc1e5fbeab306d6fa7e4aebfb0f07e4a7658e1bfa0
+kind: change
+machine_hash: 2ee48e6f0a5e182cc6b25c1da3752dfdeb26317bdcff4733d9986ed58c67cdf8
 product: claude-code
 product_name: Claude Code
 record:
@@ -32,8 +33,9 @@ record:
       behind an expandable per-turn summary with a live running-tool indicator, toggled
       with `Ctrl+Alt+F` or the "Claude Code: Toggle Focus view" command'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.221
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: vscode-added-focus-view-a-chat-menu-toggle-that-hides-tool-activity-behind-an-ex
@@ -45,11 +47,10 @@ record:
   title: '[VSCode] Added Focus view'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-added-a-live-elapsed-time-counter-to-the-collapsed-tool-summary-line-so-long-run|Added
-  a live elapsed-time counter to the collapsed tool summary line so long-running…]]'
-- '[[Changes/Claude Code/2026-07-15-improved-terminal-layout-and-rendering-performance|Improved
-  terminal layout and rendering performance]]'
-- '[[Changes/Cursor/2026-07-28-existing-free-users-in-india-can-upgrade-their-plan-from-the-dashboard-new-users|Existing
+- '[[Changes/Cursor/2026-07-17-interaction-improvements-dee44a|Interaction improvements]]'
+- '[[Changes/Claude Code/2026-07-24-2-interface-experience-changes-in-v2-1-219|2 Interface
+  Experience changes in v2.1.219]]'
+- '[[Changes/Cursor/2026-07-28-existing-free-users-in-india-can-upgrade-their-plan-from-the-dashboard-new-users-aeb811|Existing
   Free users in India can upgrade their plan from the dashboard]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce|claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce]]'
 source_type: github_releases
@@ -73,17 +74,20 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-08-04-added-mode-mask-for-sandbox-credential-files-on-linux-and-wsl-sandboxed-commands|Added mode: "mask" for sandbox credential files on Linux and WSL]] · Safety and Privacy
-- [[Changes/Claude Code/2026-08-04-added-a-prompt-audit-subcommand-to-the-claude-api-skill-for-auditing-prompts-and|Added a prompt-audit subcommand to the claude-api skill for auditing prompts…]] · Model Support
-- [[Changes/Claude Code/2026-08-04-fixed-a-bash-tool-permission-check-bypass-where-zsh-could-execute-hidden-command|Fixed a Bash tool permission-check bypass where zsh could execute hidden commands…]] · Safety and Privacy
-- [[Changes/Claude Code/2026-08-04-added-warnings-to-claude-plugin-validate-when-a-marketplace-or-plugin-name-would|Added warnings to claude plugin validate when a marketplace or plugin name would…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-08-04-improved-stats-panel-to-count-cache-tokens-in-its-token-totals-with-a-breakdown|Improved Stats panel to count cache tokens in its token totals, with a breakdown…]] · Context Window
+- [[Changes/Claude Code/2026-08-04-4-apps-and-integrations-changes-in-v2-1-221|4 Apps and Integrations changes in v2.1.221]] · Apps and Integrations
+- [[Changes/Claude Code/2026-08-04-changed-emoji-autocomplete-to-accept-common-alternate-shortcodes-like-thumbsup-t|Changed emoji autocomplete to accept common alternate shortcodes like :thumbsup:…]] · Editor Experience
+- [[Changes/Claude Code/2026-08-04-3-model-support-changes-in-v2-1-221|3 Model Support changes in v2.1.221]] · Model Support
+- [[Changes/Claude Code/2026-08-04-3-developer-workflow-changes-in-v2-1-221|3 Developer Workflow changes in v2.1.221]] · Developer Workflow
+- [[Changes/Claude Code/2026-08-04-changed-fast-mode-to-report-on-the-stream-when-usage-credits-run-out-mid-session|Changed fast mode to report on the stream when usage credits run out mid-session…]] · Pricing Model
+- [[Changes/Claude Code/2026-08-04-7-safety-and-privacy-changes-in-v2-1-221|7 Safety and Privacy changes in v2.1.221]] · Safety and Privacy
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-28 · Cursor · [[Changes/Cursor/2026-07-28-existing-free-users-in-india-can-upgrade-their-plan-from-the-dashboard-new-users|Existing Free users in India can upgrade their plan from the dashboard]]
-- Later: 2026-08-07 · ChatGPT · [[Changes/ChatGPT/2026-08-07-add-saved-files-without-uploading-them-again-open-the-composer-menu-on-the-web-s|Add saved files without uploading them again]]
+- Earlier: 2026-07-28 · Cursor · [[Changes/Cursor/2026-07-28-existing-free-users-in-india-can-upgrade-their-plan-from-the-dashboard-new-users-aeb811|Existing Free users in India can upgrade their plan from the dashboard]]
+- Later: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-improved-fullscreen-mode-to-keep-the-full-pre-compaction-history-in-scrollback-a|Improved fullscreen mode to keep the full pre-compaction history in scrollback…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

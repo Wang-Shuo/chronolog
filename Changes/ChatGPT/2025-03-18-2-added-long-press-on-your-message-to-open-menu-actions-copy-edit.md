@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 29de94b000e023ee9603dc2fd48305392c1e3d6d75888e9822c21faa8dadeae0
+machine_hash: 116fc46930f7c2e76e9aa985dcaa8e7ca8856603f76e18f483b658997048f2d3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,6 +47,7 @@ related_changes:
   Enhanced download reliability, fixed keybinding issue]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-ios-app-6a42bb0f|chatgpt-2025-03-18-ios-app-6a42bb0f]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: interface-experience
 title: 'Added long press on your message to open menu actions: Copy, Edit'
 type: change

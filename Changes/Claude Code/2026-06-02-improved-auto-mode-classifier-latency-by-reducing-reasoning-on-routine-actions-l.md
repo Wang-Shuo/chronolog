@@ -15,9 +15,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 6ee753a716898266095ef679b547cd8c67f7a26a58271f011b61f74caa169006
+kind: change
+machine_hash: a87b0e091b238575c078e20de04900ee2fa33ba90dddbf55a52e1720c679558a
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
   - quote: Improved auto mode classifier latency by reducing reasoning on routine
       actions, lowering the chance of "could not evaluate this action" blocks
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.160
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-auto-mode-classifier-latency-by-reducing-reasoning-on-routine-actions-l
@@ -52,12 +54,12 @@ record:
   title: Improved auto mode classifier latency by reducing reasoning on routine actions…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-21-improved-auto-updater-retries-transient-network-failures-reports-specific-error|Improved
-  auto-updater: retries transient network failures, reports specific error…]]'
-- '[[Changes/Claude Code/2026-05-21-pinned-background-sessions-ctrl-t-in-claude-agents-now-stay-alive-when-idle-are|Pinned
-  background sessions (Ctrl+T in claude agents) now stay alive when idle…]]'
 - '[[Changes/Claude Code/2026-05-28-claude-code-now-shows-a-one-time-notice-when-your-npm-global-install-can-t-auto|Claude
   Code now shows a one-time notice when your npm global install can''t auto-update]]'
+- '[[Changes/Claude Code/2026-05-28-renamed-the-effort-slider-labels-from-speed-intelligence-to-faster-smarter-for-c|Renamed
+  the /effort slider labels…]]'
+- '[[Changes/Claude Code/2026-05-29-improved-performance-of-long-and-resumed-conversations-by-eliminating-redundant|Improved
+  performance of long and resumed conversations by eliminating redundant…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a|claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a]]'
 source_type: github_releases
 theme: reliability-performance
@@ -80,17 +82,19 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-06-02-acceptedits-mode-now-prompts-before-writing-build-tool-config-files-that-grant-c|acceptEdits mode now prompts before writing build-tool config files that grant…]] · Developer Workflow
+- [[Changes/Claude Code/2026-06-02-removed-claude-code-opus-4-6-fast-mode-override-the-environment-variable-is-now|Removed CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE; the environment variable is now a no-op]] · Model Support
+- [[Changes/Claude Code/2026-06-02-2-developer-workflow-changes-in-v2-1-160|2 Developer Workflow changes in v2.1.160]] · Developer Workflow
 - [[Changes/Claude Code/2026-06-02-added-a-prompt-before-writing-to-shell-startup-files-zshenv-zlogin-bash-login-an|Added a prompt before writing to shell startup files…]] · Account and Access
 - [[Changes/Claude Code/2026-06-02-edit-no-longer-requires-a-separate-read-after-viewing-a-file-with-grep-single-fi|Edit no longer requires a separate Read after viewing a file with grep]] · Editor Experience
 - [[Changes/Claude Code/2026-06-02-improved-performance-of-opening-recently-inactive-background-agent-sessions-in-c|Improved performance of opening recently-inactive background agent sessions…]] · Agent Mode
+- [[Changes/Claude Code/2026-06-02-removed-the-jetbrains-plugin-install-suggestion-from-startup|Removed the JetBrains plugin install suggestion from startup]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-claude-code-now-shows-a-one-time-notice-when-your-npm-global-install-can-t-auto|Claude Code now shows a one-time notice when your npm global install can't auto-update]]
-- Later: 2026-06-10 · Cursor · [[Changes/Cursor/2026-06-10-these-performance-gains-are-made-possible-by-progress-we-ve-made-training-compos|These performance gains are made possible by progress we've made training Composer…]]
+- Earlier: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-improved-performance-of-long-and-resumed-conversations-by-eliminating-redundant|Improved performance of long and resumed conversations by eliminating redundant…]]
+- Later: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-improved-rendering-performance-for-large-file-writes|Improved rendering performance for large file writes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

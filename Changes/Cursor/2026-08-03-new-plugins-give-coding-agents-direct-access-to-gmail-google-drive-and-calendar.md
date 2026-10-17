@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 6d4884de67fb30ae9ee4b64b789a4377cb11c56fb5bdbc47cf92c3112ff4ad0e
+machine_hash: 0d5aeda7c6aa9d7b8de43c9a29ad3e12f4653934421ccc97991cbd8a4a3559bd
 product: cursor
 product_name: Cursor
 record:
@@ -68,6 +68,7 @@ related_changes:
   beginning to roll out Sign in with ChatGPT across select plugins and partner…]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-03-google-workspace-plugins-https-cursor-com-changelog-google-works-e8cf52f1|cursor-2026-08-03-google-workspace-plugins-https-cursor-com-changelog-google-works-e8cf52f1]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: New plugins give coding agents direct access to Gmail, Google Drive, and Calendar…
 type: change

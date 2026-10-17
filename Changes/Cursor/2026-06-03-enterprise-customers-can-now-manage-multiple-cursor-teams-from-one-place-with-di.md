@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 1b767c71388400da6ae0b9a961ae2c015b3a9a22fbe5dc5eca42187609f88aea
+kind: change
+machine_hash: 260810bc22b6cfdffcddc3c4e84ab4827cec0befb2dbd83d0635dfd6c5a254e0
 product: cursor
 product_name: Cursor
 record:
@@ -32,8 +33,9 @@ record:
       with different security, governance, budget, and feature controls for each.
       These capabilities are now generally available to all Enterprise customers.
     source_release: https://cursor.com/changelog/enterprise-organizations
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: enterprise-customers-can-now-manage-multiple-cursor-teams-from-one-place-with-di
@@ -57,12 +59,12 @@ record:
   title: Enterprise customers can now manage multiple Cursor teams from one place…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-02-review-first-party-openai-sessions-from-settings-security-active-sessions-with-a|Review
-  first-party OpenAI sessions from Settings  Security  Active sessions…]]'
-- '[[Changes/ChatGPT/2026-06-02-we-re-rolling-out-active-sessions-a-new-security-feature-in-chatgpt-that-helps-u|ChatGPT
+- '[[Changes/Claude Code/2026-05-29-2-safety-and-privacy-changes-in-v2-1-157|2 Safety
+  and Privacy changes in v2.1.157]]'
+- '[[Changes/ChatGPT/2026-06-02-we-re-rolling-out-active-sessions-a-new-security-feature-in-chatgpt-that-helps-u-51e977|ChatGPT
   rolls out Active sessions, a new security feature that helps users review…]]'
-- '[[Changes/Claude Code/2026-06-03-claude-agents-json-now-includes-waitingfor-showing-what-a-waiting-session-is-blo|claude
-  agents --json now includes waitingFor showing what a waiting session…]]'
+- '[[Changes/Claude Code/2026-06-03-4-safety-and-privacy-changes-in-v2-1-162|4 Safety
+  and Privacy changes in v2.1.162]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576|cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576]]'
 source_type: cursor_changelog
 theme: safety-privacy
@@ -85,17 +87,17 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|An organization is the top-level container for your company's identity…]] · Collaboration
-- [[Changes/Cursor/2026-06-03-groups-are-a-lightweight-collection-of-users-that-can-sit-across-or-within-teams|Groups are a lightweight collection of users that can sit across or within teams]] · Collaboration
-- [[Changes/Cursor/2026-06-03-a-user-can-belong-to-more-than-one-team-with-a-different-role-in-each-for-curren|A user can belong to more than one team, with a different role in each]] · Collaboration
-- [[Changes/Cursor/2026-06-03-teams-are-the-operating-unit-for-a-department-region-or-subsidiary-this-is-what|Teams are the operating unit for a department, region, or subsidiary]] · Safety and Privacy
+- [[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|Organizations]] · Collaboration
+- [[Changes/Cursor/2026-06-03-3-collaboration-changes-in-organizations-for-cursor-enterprise|3 Collaboration changes in Organizations for Cursor Enterprise]] · Collaboration
+- [[Changes/Cursor/2026-06-03-groups-are-a-lightweight-collection-of-users-that-can-sit-across-or-within-teams|Groups]] · Collaboration
+- [[Changes/Cursor/2026-06-03-teams|Teams]] · Collaboration
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-claude-agents-json-now-includes-waitingfor-showing-what-a-waiting-session-is-blo|claude agents --json now includes waitingFor showing what a waiting session…]]
-- Later: 2026-06-04 · ChatGPT · [[Changes/ChatGPT/2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-across-account-types-and-w|Lockdown Mode is now available to all logged-in users across account types and workspaces]]
+- Earlier: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-4-safety-and-privacy-changes-in-v2-1-162|4 Safety and Privacy changes in v2.1.162]]
+- Later: 2026-06-04 · ChatGPT · [[Changes/ChatGPT/2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-across-account-types-and-w|Lockdown Mode is now available to all logged-in users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

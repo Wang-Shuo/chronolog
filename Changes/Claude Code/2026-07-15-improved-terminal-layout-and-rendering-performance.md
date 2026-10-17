@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 4bd76e5c2fef77c5a4978dddd1cb9f32f5083c309f53e18438ad666344d68fcf
+kind: change
+machine_hash: 99bb5c984ef58a74d8a46ffa86edf2211dc218a2b3e41f76c5c8cfa2637c6378
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,8 +28,9 @@ record:
   evidence:
   - quote: Improved terminal layout and rendering performance
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.211
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-terminal-layout-and-rendering-performance
@@ -53,8 +55,8 @@ related_changes:
 - '[[Changes/Claude Code/2026-07-14-added-mouse-click-support-for-multi-select-menus-and-other-input-rows-in-fullscr|Added
   mouse-click support for multi-select menus and "Other" input rows in fullscreen
   mode]]'
-- '[[Changes/Claude Code/2026-07-14-added-a-live-elapsed-time-counter-to-the-collapsed-tool-summary-line-so-long-run|Added
-  a live elapsed-time counter to the collapsed tool summary line so long-running…]]'
+- '[[Changes/Claude Code/2026-07-14-2-interface-experience-changes-in-v2-1-210|2 Interface
+  Experience changes in v2.1.210]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57|claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57]]'
 source_type: github_releases
 theme: interface-experience
@@ -77,17 +79,19 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-07-15-improved-background-agent-result-reporting-claude-now-reports-the-status-of-stil|Improved background agent result reporting]] · Agent Mode
-- [[Changes/Claude Code/2026-07-15-added-forward-subagent-text-flag-and-claude-code-forward-subagent-text-environme|Added --forward-subagent-text flag and CLAUDE_CODE_FORWARD_SUBAGENT_TEXT…]] · Agent Mode
-- [[Changes/Claude Code/2026-07-15-hardened-synced-skill-plugin-directory-naming-on-windows-and-kept-ccr-web-fetch|Hardened synced skill/plugin directory naming on Windows and kept CCR web…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-07-15-fixed-permission-previews-relayed-to-chat-channels-not-neutralizing-bidirectiona|Fixed permission previews relayed to chat channels not neutralizing…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-07-15-2-agent-mode-changes-in-v2-1-211|2 Agent Mode changes in v2.1.211]] · Agent Mode
+- [[Changes/Claude Code/2026-07-15-2-apps-and-integrations-changes-in-v2-1-211|2 Apps and Integrations changes in v2.1.211]] · Apps and Integrations
+- [[Changes/Claude Code/2026-07-15-improved-the-memory-index-over-limit-warning-to-measure-only-loaded-content-excl|Improved the memory index over-limit warning to measure only loaded content…]] · Memory and Personalization
+- [[Changes/Claude Code/2026-07-15-2-safety-and-privacy-changes-in-v2-1-211|2 Safety and Privacy changes in v2.1.211]] · Safety and Privacy
+- [[Changes/Claude Code/2026-07-15-changed-usage-credits-to-ask-for-confirmation-before-sending-a-request-to-organi|Changed /usage-credits to ask for confirmation before sending a request…]] · Enterprise and Administration
+- [[Changes/Claude Code/2026-07-15-claude-in-chrome-hardened-file-upload-path-validation|Claude in Chrome: hardened file-upload path validation]] · Files and Data
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-added-a-live-elapsed-time-counter-to-the-collapsed-tool-summary-line-so-long-run|Added a live elapsed-time counter to the collapsed tool summary line so long-running…]]
-- Later: 2026-07-28 · Cursor · [[Changes/Cursor/2026-07-28-existing-free-users-in-india-can-upgrade-their-plan-from-the-dashboard-new-users|Existing Free users in India can upgrade their plan from the dashboard]]
+- Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-2-interface-experience-changes-in-v2-1-210|2 Interface Experience changes in v2.1.210]]
+- Later: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-typing-resume-in-the-agent-view-now-opens-a-picker-of-past-sessions-including-se|Typing /resume in the agent view now opens a picker of past sessions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

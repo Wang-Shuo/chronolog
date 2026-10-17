@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: f5c8c377acdc24dfc60e0fdea3d1ad410ecb2c6356f9fe6f65fc3b6c98068440
+machine_hash: a987bee66ba2bb60bf94ca5dedc134295bd780f49b113b39bd1894f89c7d51ca
 product: cursor
 product_name: Cursor
 record:
@@ -57,6 +57,7 @@ related_changes:
   it]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75|cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Access Projects from the left-hand nav
 type: change

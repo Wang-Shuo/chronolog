@@ -4,8 +4,8 @@ date: '2026-08-27'
 description: 'Cursor · 2026-08-27 · Agent Mode: Cloud Agents no longer require a connected
   GitHub or other third-party SCM provider to get started. Prompt from the get-go…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1148
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: a6f8f3e8c2805881645f69040bb1248bf7d8cb00fe7fb28b4b63ccad4332b23a
+kind: change
+machine_hash: 9776c28b62090d04ca73b0eb565131cc8f1c14a66dd3eb35a7836f6eaa712898
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +32,9 @@ record:
       SCM provider to get started. Prompt from the get-go, then save your work to
       a Cursor Origin repo.
     source_release: https://cursor.com/changelog/start-from-scratch
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: cloud-agents-no-longer-require-a-connected-github-or-other-third-party-scm-provi
@@ -43,12 +45,12 @@ record:
     provider…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-19-cursor-can-now-monitor-your-prs-watch-a-slack-thread-or-run-scheduled-tasks-curs|Cursor
-  can now monitor your PRs, watch a Slack thread, or run scheduled tasks]]'
-- '[[Changes/Cursor/2026-08-19-we-re-continuing-to-improve-cloud-agents-and-the-cursor-harness-so-always-on-age|We''re
-  continuing to improve cloud agents and the Cursor harness so always-on agents…]]'
-- '[[Changes/Claude Code/2026-08-27-added-experimental-cachettl-5m-or-1h-to-agent-frontmatter-a-per-agent-prompt-cac|Added
-  experimental.cacheTtl ("5m" or "1h") to agent frontmatter]]'
+- '[[Changes/Claude Code/2026-08-21-2-agent-mode-changes-in-v2-1-239|2 Agent Mode
+  changes in v2.1.239]]'
+- '[[Changes/Claude Code/2026-08-25-improved-subagent-results-a-subagent-that-stops-at-its-maxturns-limit-now-return|Improved
+  subagent results]]'
+- '[[Changes/Claude Code/2026-08-27-3-agent-mode-changes-in-v2-1-248|3 Agent Mode
+  changes in v2.1.248]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae|cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -72,21 +74,21 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-08-27-once-the-agent-s-build-is-to-your-liking-click-the-create-repo-button-to-save-yo|Once the agent's build is to your liking, click the Create repo button to save…]] · Editor Experience
-- [[Changes/Cursor/2026-08-27-cursor-now-port-forwards-your-cloud-agent-s-live-environment-straight-to-your-br|Cursor now port-forwards your cloud agent's live environment straight…]] · Agent Mode
+- [[Changes/Cursor/2026-08-27-once-the-agent-s-build-is-to-your-liking-click-the-create-repo-button-to-save-yo|Turn it into a real repo, whenever you want]] · Editor Experience
+- [[Changes/Cursor/2026-08-27-cursor-now-port-forwards-your-cloud-agent-s-live-environment-straight-to-your-br|A live preview, right in the browser]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-added-experimental-cachettl-5m-or-1h-to-agent-frontmatter-a-per-agent-prompt-cac|Added experimental.cacheTtl ("5m" or "1h") to agent frontmatter]]
-- Later: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-added-live-streaming-of-a-foreground-subagent-s-tool-calls-and-results-to-remote|Added live streaming of a foreground subagent's tool calls and results to Remote…]]
+- Earlier: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-3-agent-mode-changes-in-v2-1-248|3 Agent Mode changes in v2.1.248]]
+- Later: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-4-agent-mode-changes-in-v2-1-251|4 Agent Mode changes in v2.1.251]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

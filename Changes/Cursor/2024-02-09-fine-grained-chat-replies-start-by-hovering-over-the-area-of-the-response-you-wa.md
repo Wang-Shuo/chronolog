@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: b7e0bda80178676bfae074a04a66ba88333e414faef86bf3a871b80c87271b01
+kind: change
+machine_hash: cb1d9d48b26681ac54703a9d379b3e507881c94a1021505bebaa41d3ab645ed2
 product: cursor
 product_name: Cursor
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Fine-grained chat replies (start by hovering over the area of the response
       you want to reply to)
     source_release: https://cursor.com/changelog/0-26
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: fine-grained-chat-replies-start-by-hovering-over-the-area-of-the-response-you-wa
@@ -79,7 +81,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-02-02 · Cursor · [[Changes/Cursor/2024-02-02-you-can-now-drag-images-into-the-command-k-prompt-bar|Drag images into the Command-K prompt bar!]]
-- Later: 2024-03-01 · Cursor · [[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|AI Notes enabled by default (hold shift on any symbol), better in-editor chat…]]
+- Later: 2024-03-01 · Cursor · [[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|Polish]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

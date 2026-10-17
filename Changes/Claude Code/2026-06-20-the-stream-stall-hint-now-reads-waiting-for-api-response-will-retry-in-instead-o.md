@@ -14,9 +14,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: b25d76e1775d1da6af88f33b05a0939f07eb8092afa6cecb3c8b5c0bc1e2db8a
+kind: change
+machine_hash: 1a7831b97508b040327c472d4f9685f3916c2f09740f5fca7dbb39ddb5ef9b49
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
       in …" instead of "No response from API · Retrying in …", and triggers after
       20s of silence instead of 10s
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.185
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: the-stream-stall-hint-now-reads-waiting-for-api-response-will-retry-in-instead-o
@@ -49,8 +51,8 @@ related_changes:
   faster and more reliable]]'
 - '[[Changes/Claude Code/2026-06-17-improved-auto-retry-api-connection-drops-mid-thinking-now-automatically-retry-in|Improved
   auto-retry: API connection drops mid-thinking now automatically retry…]]'
-- '[[Changes/Cursor/2026-06-17-your-environment-is-captured-in-a-reusable-snapshot-so-future-cloud-agents-start|Your
-  environment is captured in a reusable snapshot, so future cloud agents start up…]]'
+- '[[Changes/ChatGPT/2026-06-18-easier-conversation-sharing-sharing-a-conversation-is-now-faster-with-a-one-clic|Easier
+  conversation sharing]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-20-v2-1-185-github-342367004-9ddb0cf9|claude-code-2026-06-20-v2-1-185-github-342367004-9ddb0cf9]]'
 source_type: github_releases
 theme: reliability-performance
@@ -78,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-17 · Cursor · [[Changes/Cursor/2026-06-17-your-environment-is-captured-in-a-reusable-snapshot-so-future-cloud-agents-start|Your environment is captured in a reusable snapshot, so future cloud agents start up…]]
-- Later: 2026-07-02 · Claude Code · [[Changes/Claude Code/2026-07-02-transient-server-rate-limit-errors-429s-unrelated-to-your-usage-limit-are-now-re|Transient server rate-limit errors (429s unrelated to your usage limit) are now…]]
+- Earlier: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-easier-conversation-sharing-sharing-a-conversation-is-now-faster-with-a-one-clic|Easier conversation sharing]]
+- Later: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-added-automatic-memory-pressure-reaping-for-idle-background-shell-commands-disab|Added automatic memory-pressure reaping for idle background shell commands…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

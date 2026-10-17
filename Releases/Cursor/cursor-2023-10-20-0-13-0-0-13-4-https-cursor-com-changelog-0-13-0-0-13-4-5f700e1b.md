@@ -3,7 +3,7 @@ changes_count: 2
 date: '2023-10-20'
 description: 'Cursor release New VS Code version on 2023-10-20: 2 tracked changes
   across Apps and Integrations, Developer Workflow'
-machine_hash: 90c6dead08614b36149d70a6ca72788422271595b5905f732ae6a047fa2a534b
+machine_hash: 50bd99eae439f5fb3b8bf741cf855b1ff422942eba85cd548a477ea526acd085
 product: cursor
 product_name: Cursor
 record:
@@ -40,7 +40,7 @@ version: 0.13.0-0.13.4
 <!-- chronolog:begin region="summary" -->
 Cursor is now based on VS Code 1.83.1. This ensures that the newest versions of all extensions will work without problem in Cursor. Thank you to everyone who urged us to do this on the forum!
 
-Tracked 2 of 3 candidate lines.
+Tracked 2 cards from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

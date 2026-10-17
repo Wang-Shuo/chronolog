@@ -3,7 +3,7 @@ changes_count: 3
 date: '2024-05-03'
 description: 'Cursor release Networking Stability, Command-K Autoselect on 2024-05-03:
   3 tracked changes across Reliability and Performance, Interface Experience'
-machine_hash: 52fa05f1c701ca7c6f24c7cc67bf956965953f9373ab5e93b7a545fe88ed109c
+machine_hash: dac0d3d9721f7366df3f3dd5b8bf50264b5e384b4f7ff3c4a85dce0545ee0d13
 product: cursor
 product_name: Cursor
 record:
@@ -40,7 +40,7 @@ version: 0.33.x
 <!-- chronolog:begin region="summary" -->
 Stability: This build fixes a connection error problem that was consistently affecting some users. It should also improve the performance of Cursor on spotty internet.
 
-Tracked 3 of 3 candidate lines.
+Tracked 3 cards from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

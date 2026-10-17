@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-07-06'
 description: 'Cursor release Agents, new docs on 2023-07-06: 1 tracked change across
   Agent Mode'
-machine_hash: b350a8f080a0e9256003ff2339f60907ec6e284e20b7a51490568f6f1667b0c4
+machine_hash: 600da84c1e336b02da66b0bb7162d12fafa1f4daca40c624abd00df1dc541815
 product: cursor
 product_name: Cursor
 record:
@@ -40,10 +40,10 @@ version: 0.2.44-nightly
 <!-- chronolog:begin region="summary" -->
 Welcome to the first nightly release! It comes with agents, which we aren't releasing to the general public yet because we aren't convinced that they are useful. If you like them, please let us know what you use them for!
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]] · Agent Mode
+- [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]] · Agent Mode
 <!-- chronolog:end -->

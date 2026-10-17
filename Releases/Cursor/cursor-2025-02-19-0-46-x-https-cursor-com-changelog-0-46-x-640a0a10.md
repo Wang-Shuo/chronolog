@@ -1,10 +1,9 @@
 ---
-changes_count: 5
+changes_count: 11
 date: '2025-02-19'
-description: 'Cursor release Agent is ready and UI refresh on 2025-02-19: 5 tracked
-  changes across Apps and Integrations, Developer Workflow, Interface Experience,
-  Memory…'
-machine_hash: 6bc3f8a308b7fde6e448e8ca8e18af24360392ed450e81aafa59c123893fd226
+description: 'Cursor release Agent is ready and UI refresh on 2025-02-19: 11 tracked
+  changes across Agent Mode, Apps and Integrations, Editor Experience, Context Window…'
+machine_hash: 7b7a074c0554b1bc8f0d0cf9e2c122d86cef8f6333dd8a031a7ce9e0c30f7e9b
 product: cursor
 product_name: Cursor
 record:
@@ -39,14 +38,20 @@ version: 0.46.x
 <!-- chronolog:begin region="summary" -->
 Fixes (3)↓↑
 
-Tracked 5 of 26 candidate lines.
+Tracked 11 cards from 26 candidate lines; 3 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2025-02-19-mcp-improved-reliability-and-quality-of-life-enhancements-for-building-mcp-serve|MCP: Improved reliability and quality of life enhancements for building MCP servers…]] · Apps and Integrations
-- [[Changes/Cursor/2025-02-19-0-46-3-enhanced-download-reliability-fixed-keybinding-issue|0.46.3: Enhanced download reliability, fixed keybinding issue]] · Interface Experience
-- [[Changes/Cursor/2025-02-19-windows-fixed-newline-errors-in-chat-codeblocks-and-resolved-auto-uninstallation|Windows: Fixed newline errors in Chat Codeblocks and resolved auto-uninstallation issues]] · Developer Workflow
-- [[Changes/Cursor/2025-02-19-0-46-2-improved-mcp-reliability-added-option-to-disable-yolo-mode-for-mcp|0.46.2: Improved MCP reliability, added option to disable yolo mode for MCP]] · Apps and Integrations
-- [[Changes/Cursor/2025-02-19-crashes-enhanced-stability-through-memory-and-performance-improvements-with-addi|Crashes: Enhanced stability through memory and performance improvements…]] · Memory and Personalization
+- [[Changes/Cursor/2025-02-19-2-apps-and-integrations-changes-in-0-46-x|2 Apps and Integrations changes in 0.46.x]] · Apps and Integrations · Digest
+- [[Changes/Cursor/2025-02-19-ignore-files-cursorignore-now-blocks-files-from-being-added-in-chat-or-sent-up-f|Ignore files: .cursorignore now blocks files from being added in chat or sent up…]] · Editor Experience
+- [[Changes/Cursor/2025-02-19-ui-refresh-phase-one-of-a-fresh-coat-of-paint-with-new-default-cursor-themes-des|UI refresh: Phase one of a fresh coat of paint with new default Cursor themes…]] · Context Window
+- [[Changes/Cursor/2025-02-19-2-memory-and-personalization-changes-in-0-46-x|2 Memory and Personalization changes in 0.46.x]] · Memory and Personalization · Digest
+- [[Changes/Cursor/2025-02-19-0-46-7-improved-memory-usage-and-performance|0.46.7: Improved memory usage and performance]] · Reliability and Performance
+- [[Changes/Cursor/2025-02-19-tab-rebinding-tab-suggestions-can-now-be-rebound-to-a-different-keybinding-using|Tab rebinding: Tab suggestions can now be rebound to a different keybinding using…]] · Editor Experience
+- [[Changes/Cursor/2025-02-19-agent-is-ready-agent-is-now-the-default-mode-bringing-a-more-powerful-and-unifie|Agent is ready: Agent is now the default mode, bringing a more powerful and unified…]] · Agent Mode
+- [[Changes/Cursor/2025-02-19-agent-tool-limit-upon-reaching-the-25-tool-call-limit-you-can-press-continue-to|Agent tool limit]] · Agent Mode
+- [[Changes/Cursor/2025-02-19-web-search-agent-can-now-automatically-search-the-web-for-up-to-date-information|Web search: Agent can now automatically search the web for up-to-date information…]] · Search and Browsing
+- [[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface Experience changes in 0.46.x]] · Interface Experience · Digest
+- [[Changes/Cursor/2025-02-19-mcp-improvements|MCP improvements]] · Apps and Integrations
 <!-- chronolog:end -->

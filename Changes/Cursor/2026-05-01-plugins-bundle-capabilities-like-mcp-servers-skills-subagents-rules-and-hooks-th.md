@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8b19cae2009f33ef9dcd631fcaf0a78285ad5c598e8587201b56cb5b781468f3
+machine_hash: c0cbef827415f9d5242f408d682d6f376370e459e68e58f05c0477a940e7421e
 product: cursor
 product_name: Cursor
 record:
@@ -63,6 +63,7 @@ related_changes:
   npm install @cursor/sdk to get started]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-01-team-marketplace-updates-https-cursor-com-changelog-05-01-26-3036cead|cursor-2026-05-01-team-marketplace-updates-https-cursor-com-changelog-05-01-26-3036cead]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: Plugins bundle capabilities like MCP servers, skills, subagents, rules, and
   hooks…

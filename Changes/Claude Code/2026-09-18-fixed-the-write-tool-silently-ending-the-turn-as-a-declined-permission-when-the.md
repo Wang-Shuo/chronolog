@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 735fd1ad40226414410c8641a17e4e9ae1285044653dd74b5f89bb882d4a86c8
+machine_hash: 329219434767d01a64b8f46e6d7cb2eac6fcc3294106f5f1686f2ea5112570c8
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   Bash commands the permission checker cannot fully analyze skipping the prompt…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36|claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed the Write tool silently ending the turn as a declined permission…
 type: change

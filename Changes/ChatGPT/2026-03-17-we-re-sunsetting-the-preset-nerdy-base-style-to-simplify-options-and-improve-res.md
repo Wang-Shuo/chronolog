@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-03-17 · Memory and Personalization: We’re sunse
   the preset Nerdy base style to simplify options and improve response quality. Users
   who…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 971
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 6d9974464bf92edfa40dcf7b83496b19bbd7c45c91302fb1681e63a715e617a5
+kind: policy
+machine_hash: 536341460638e725f14e411d772d3a2eaaca07893d545a94767685680ba7f599
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,34 +34,35 @@ record:
       response quality. Users who selected it will be moved to the default personality.
       You can manage personality settings anytime in ChatGPT under Settings → Personalization.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: policy
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res
   source_release: chatgpt-2026-03-17-sunsetting-the-nerdy-base-style-f0e6829f
   source_type: chatgpt_changelog
   theme: memory
-  title: We’re sunsetting the preset Nerdy base style to simplify options and improve…
+  title: Sunsetting the “Nerdy” base style
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-06-reduced-startup-memory-by-426kb-for-users-without-custom-ca-certificates|Reduced
-  startup memory by ~426KB for users without custom CA certificates]]'
-- '[[Changes/Claude Code/2026-03-12-added-automemorydirectory-setting-to-configure-a-custom-directory-for-auto-memor|Added
-  autoMemoryDirectory setting to configure a custom directory for auto-memory…]]'
-- '[[Changes/Claude Code/2026-03-12-added-actionable-suggestions-to-context-command-identifies-context-heavy-tools-m|Added
-  actionable suggestions to /context command]]'
+- '[[Changes/Claude Code/2026-02-26-claude-automatically-saves-useful-context-to-auto-memory-manage-with-memory|Claude
+  automatically saves useful context to auto-memory]]'
+- '[[Changes/Claude Code/2026-02-28-project-configs-auto-memory-now-shared-across-git-worktrees-of-the-same-reposito|Project
+  configs & auto memory now shared across git worktrees of the same repository]]'
+- '[[Changes/Claude Code/2026-03-12-2-memory-and-personalization-changes-in-v2-1-74|2
+  Memory and Personalization changes in v2.1.74]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-17-sunsetting-the-nerdy-base-style-f0e6829f|chatgpt-2026-03-17-sunsetting-the-nerdy-base-style-f0e6829f]]'
 source_type: chatgpt_changelog
 theme: memory
-title: We’re sunsetting the preset Nerdy base style to simplify options and improve…
+title: Sunsetting the “Nerdy” base style
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We’re sunsetting the preset Nerdy base style to simplify options and improve…
+# Sunsetting the “Nerdy” base style
 
-**ChatGPT** · 2026-03-17 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-17-sunsetting-the-nerdy-base-style-f0e6829f|Sunsetting the “Nerdy” base style]]
+**ChatGPT** · 2026-03-17 · [[Themes/memory|Memory and Personalization]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-17-sunsetting-the-nerdy-base-style-f0e6829f|Sunsetting the “Nerdy” base style]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -76,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-03-12 · Claude Code · [[Changes/Claude Code/2026-03-12-added-actionable-suggestions-to-context-command-identifies-context-heavy-tools-m|Added actionable suggestions to /context command]]
-- Later: 2026-04-22 · ChatGPT · [[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|Sometimes, you just want the right answer as quickly as possible]]
+- Earlier: 2026-03-12 · Claude Code · [[Changes/Claude Code/2026-03-12-2-memory-and-personalization-changes-in-v2-1-74|2 Memory and Personalization changes in v2.1.74]]
+- Later: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-memory-filenames-in-the-saved-n-memories-notice-now-highlight-on-hover-and-open|Memory filenames in the "Saved N memories" notice now highlight on hover and open on click]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

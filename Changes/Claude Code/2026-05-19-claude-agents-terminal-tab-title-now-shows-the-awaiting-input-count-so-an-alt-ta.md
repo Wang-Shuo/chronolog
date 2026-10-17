@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: fc6ba234109265d987eb6fd139b9ced3eda823efe4562cde2203c22cb13cb584
+machine_hash: 26ffb8ec986da1d8a4e98567dde4254743fd9d927b508582aafba3c08b60426e
 product: claude-code
 product_name: Claude Code
 record:
@@ -66,6 +66,7 @@ related_changes:
   /resume support for background sessions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4|claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: claude agents terminal tab title now shows the awaiting-input count…
 type: change

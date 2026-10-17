@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9caf7462e6eff9c67a0190f4ba2fc2902250d8a6338781cc1c9891584cfb739e
+machine_hash: f6908ae92f4e96b3ed1acfaff056b451aaee2803104eed10bb9516f9b4c45ecc
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   ● N running indicator in /agents next to agent types with live subagent…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-09-v2-1-98-github-307232194-a0774436|claude-code-2026-04-09-v2-1-98-github-307232194-a0774436]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added Monitor tool for streaming events from background scripts
 type: change

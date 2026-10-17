@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c92c2caebc36154ec712600fdff4182a2aa7191643e3d56fbb40fdbc6a99d0ac
+machine_hash: 454a4bd4fdd03ab86ee47f5f19ac1646d8a97304f9ac91ce6a1b95cd3ac780db
 product: cursor
 product_name: Cursor
 record:
@@ -50,6 +50,7 @@ related_changes:
   "extra usage" to "usage credits" across CLI copy]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4|cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4]]'
 source_type: cursor_changelog
+superseded: true
 theme: pricing-model
 title: 'Cost: Good quality, reaching the highest available intelligence while optimizing…'
 type: change

@@ -4,19 +4,20 @@ date: '2026-05-08'
 description: 'Claude Code · 2026-05-08 · Enterprise and Administration: Added `CLAUDE_CODE_ENABLE_FEEDBACK_SURVEY_FOR_OTEL`
   to re-enable the session quality survey for…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise
-    and Edu rollout coming soon]]'
+  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
+    users can only access stable release (no pre-release)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 330
+  lag_days: 338
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 6a7749a1d96f8b1631239324b9b379b3584d6f492fe9da7d0c3b0579c1261151
+kind: change
+machine_hash: 3d9a0be0fea28592bc6a5b44c641983cec6112146b18d25c03c25fc3aa8b5e17
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Added `CLAUDE_CODE_ENABLE_FEEDBACK_SURVEY_FOR_OTEL` to re-enable the session
       quality survey for enterprises capturing responses through OpenTelemetry
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.136
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-claude-code-enable-feedback-survey-for-otel-to-re-enable-the-session-quali
@@ -46,8 +48,8 @@ record:
 related_changes:
 - '[[Changes/Cursor/2026-05-04-this-release-introduces-updates-for-enterprise-admins-a-new-system-for-model-con|Cursor
   introduces updates for Enterprise admins]]'
-- '[[Changes/Cursor/2026-05-04-admins-can-now-set-soft-limits-instead-of-hard-limits-to-avoid-blocking-users-cu|Admins
-  can now set soft limits instead of hard limits to avoid blocking users]]'
+- '[[Changes/Cursor/2026-05-04-soft-spend-limits-and-intelligent-alerts|Soft spend
+  limits and intelligent alerts]]'
 - '[[Changes/Claude Code/2026-05-07-added-parentsettingsbehavior-admin-tier-key-first-wins-merge-to-let-admins-opt-s|Added
   parentSettingsBehavior admin-tier key (''first-wins''  /  ''merge'') to let…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-08-v2-1-136-github-319609716-58f21368|claude-code-2026-05-08-v2-1-136-github-319609716-58f21368]]'
@@ -73,10 +75,10 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-05-08-fixed-bash-permission-prompts-showing-an-internal-parser-diagnostic-instead-of-a|Fixed Bash permission prompts showing an internal parser diagnostic instead…]] · Safety and Privacy
 - [[Changes/Claude Code/2026-05-08-wsl2-image-paste-from-windows-clipboard-now-works-via-a-powershell-fallback-when|WSL2: image paste from Windows clipboard now works via a PowerShell fallback…]] · Multimodal Input
-- [[Changes/Claude Code/2026-05-08-added-settings-automode-hard-deny-for-auto-mode-classifier-rules-that-block-unco|Added settings.autoMode.hard_deny for auto mode classifier rules that block…]] · Safety and Privacy
-- [[Changes/Claude Code/2026-05-08-improved-visual-consistency-across-slash-command-dialogs-standardized-footer-hin|Improved visual consistency across slash command dialogs]] · Developer Workflow
+- [[Changes/Claude Code/2026-05-08-changed-plugin-marketplace-removal-key-to-d-matching-delete-elsewhere-instead-of|Changed plugin marketplace removal key to d (matching delete elsewhere) instead…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-05-08-2-developer-workflow-changes-in-v2-1-136|2 Developer Workflow changes in v2.1.136]] · Developer Workflow
+- [[Changes/Claude Code/2026-05-08-2-safety-and-privacy-changes-in-v2-1-136|2 Safety and Privacy changes in v2.1.136]] · Safety and Privacy
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
@@ -89,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise and Edu rollout coming soon]]
+- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

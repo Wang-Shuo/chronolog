@@ -15,9 +15,10 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 5d5aab9cded0f514d371bbb579ecfdbe58c974f3e93977f3ca52daa6c0ca60dc
+kind: launch
+machine_hash: aa788ddeda907c868fe82f3f929a0de3e37b77c67fae831ecaf4aef2d8d25caa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,8 +49,9 @@ record:
       more information, please see our help article ChatGPT for Clinicians or our
       blog post Making ChatGPT better for clinicians.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: launch
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-launching-chatgpt-for-clinicians-a-free-version-of-chatgpt-for-verified-cl
@@ -66,7 +68,7 @@ record:
     score: 50
     theme: account-access
   theme_resolution: manual-semantic-rule-v1
-  title: ChatGPT launches ChatGPT for Clinicians, a free version of ChatGPT for verified…
+  title: ChatGPT for Clinicians
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-03-26-mcp-oauth-now-follows-rfc-9728-protected-resource-metadata-discovery-to-find-the|MCP
@@ -78,14 +80,14 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-22-chatgpt-for-clinicians-4ccc54d7|chatgpt-2026-04-22-chatgpt-for-clinicians-4ccc54d7]]'
 source_type: chatgpt_changelog
 theme: account-access
-title: ChatGPT launches ChatGPT for Clinicians, a free version of ChatGPT for verified…
+title: ChatGPT for Clinicians
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT launches ChatGPT for Clinicians, a free version of ChatGPT for verified…
+# ChatGPT for Clinicians
 
-**ChatGPT** · 2026-04-22 · [[Themes/account-access|Account and Access]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-22-chatgpt-for-clinicians-4ccc54d7|ChatGPT for Clinicians]]
+**ChatGPT** · 2026-04-22 · [[Themes/account-access|Account and Access]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-22-chatgpt-for-clinicians-4ccc54d7|ChatGPT for Clinicians]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->

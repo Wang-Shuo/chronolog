@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: c0f30cc49ec00186b4df72bd1a9f61224032c0be32fae211adddf8d2d55f12c1
+kind: change
+machine_hash: aee6954a611c44a2bfdd9e17eaaa21bb8e53f7c24dad34f2355c129e3b95bac7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Generated images are easier to view, and your recent conversations are
       easier to browse.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: generated-images-are-easier-to-view-and-your-recent-conversations-are-easier-to
@@ -51,10 +53,10 @@ record:
     to browse
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-11-updated-terminal-title-busy-spinner-glyphs-to-reduce-tab-bar-jitter-on-some-term|Updated
-  terminal title busy-spinner glyphs to reduce tab-bar jitter on some terminals]]'
-- '[[Changes/Claude Code/2026-08-17-added-the-selection-clear-keybinding-action-so-a-key-can-be-bound-to-clear-an-in|Added
-  the selection:clear keybinding action, so a key can be bound to clear…]]'
+- '[[Changes/Claude Code/2026-08-19-changed-the-model-picker-to-highlight-only-the-newest-model-s-name-so-the-highli|Changed
+  the /model picker to highlight only the newest model''s name…]]'
+- '[[Changes/Claude Code/2026-08-20-changed-ctrl-l-and-cmd-k-in-fullscreen-to-always-just-repaint-the-double-press-c|Changed
+  Ctrl+L and Cmd+K in fullscreen to always just repaint]]'
 - '[[Changes/ChatGPT/2026-08-21-keep-recent-chats-easier-to-browse-your-sidebar-now-shows-up-to-eight-recent-con|Keep
   recent chats easier to browse]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-21-updates-to-chatgpt-on-android-8e3bdeee|chatgpt-2026-08-21-updates-to-chatgpt-on-android-8e3bdeee]]'
@@ -80,15 +82,14 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2026-08-21-available-in-the-chatgpt-app-for-android-version-1-2026-216-or-later|Available in the ChatGPT app for Android, version 1.2026.216 or later]] · Mobile and Desktop
 - [[Changes/ChatGPT/2026-08-21-keep-recent-chats-easier-to-browse-your-sidebar-now-shows-up-to-eight-recent-con|Keep recent chats easier to browse]] · Interface Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-added-the-selection-clear-keybinding-action-so-a-key-can-be-bound-to-clear-an-in|Added the selection:clear keybinding action, so a key can be bound to clear…]]
-- Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-cost-estimates-cost-status-line-max-budget-usd-now-include-the-1-1-us-only-infer|Cost estimates (/cost, status line, --max-budget-usd) now include…]]
+- Earlier: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-changed-ctrl-l-and-cmd-k-in-fullscreen-to-always-just-repaint-the-double-press-c|Changed Ctrl+L and Cmd+K in fullscreen to always just repaint]]
+- Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-3-interface-experience-changes-in-v2-1-239|3 Interface Experience changes in v2.1.239]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 4d3a01873e183b9b00e291a03435d8d554b12133d7a10b41d3330e602a4f2e6e
+machine_hash: a58e4a2937cb0a56f5312352b968b46fc86b8ed63c1cb3138cab9c5ed6ef614b
 product: cursor
 product_name: Cursor
 record:
@@ -64,6 +64,7 @@ related_changes:
   follow-up messages for Agent once it''s done with current task]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: The agent breaks down longer tasks with dependencies, visible to you in chat…
 type: change

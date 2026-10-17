@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ce4b3446ea4351b2cac26d8b29492ba099332db5523696e1d92870e5b0f3c199
+machine_hash: 75dad86892e9ec25716552611b58cc303c60327f02c0473bd53524ea783a8550
 product: cursor
 product_name: Cursor
 record:
@@ -48,6 +48,7 @@ related_changes:
   update improves the prompt for Cmd-k when you don''t have any code selected]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-12-0-2-48-nightly-https-cursor-com-changelog-0-2-48-nightly-d738eefc|cursor-2023-07-12-0-2-48-nightly-https-cursor-com-changelog-0-2-48-nightly-d738eefc]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: Pop-out chat!
 type: change

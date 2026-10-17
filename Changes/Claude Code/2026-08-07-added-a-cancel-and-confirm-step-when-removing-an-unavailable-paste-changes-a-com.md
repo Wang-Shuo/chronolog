@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 577ebfafff86bf07b5a7a5e54df0a4dac768af2f73cdf116d8f0c21860dc0902
+kind: change
+machine_hash: b91f84045fddd2bb2f136ba01747d4881a7ce7f86c7114878d0f36d6a859d628
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,8 +29,9 @@ record:
   - quote: Added a cancel-and-confirm step when removing an unavailable paste changes
       a command's text
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.224
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-a-cancel-and-confirm-step-when-removing-an-unavailable-paste-changes-a-com
@@ -41,12 +43,12 @@ record:
   title: Added a cancel-and-confirm step when removing an unavailable paste changes…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-19-claude-no-longer-runs-the-verify-and-code-review-skills-on-its-own-invoke-them-w|Claude
-  no longer runs the /verify and /code-review skills on its own]]'
-- '[[Changes/Claude Code/2026-07-21-improved-footer-pr-badge-links-to-be-clickable-hyperlinks-even-when-terminal-sup|Improved
-  footer PR badge links to be clickable hyperlinks even when terminal support…]]'
 - '[[Changes/Claude Code/2026-07-22-changed-code-review-to-run-as-a-background-subagent-so-review-work-no-longer-fil|Changed
   /code-review to run as a background subagent, so review work no longer…]]'
+- '[[Changes/Claude Code/2026-08-04-3-developer-workflow-changes-in-v2-1-221|3 Developer
+  Workflow changes in v2.1.221]]'
+- '[[Changes/Claude Code/2026-08-06-2-developer-workflow-changes-in-v2-1-223|2 Developer
+  Workflow changes in v2.1.223]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c|claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c]]'
 source_type: github_releases
 theme: developer-workflow
@@ -69,15 +71,20 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-08-07-added-self-hosted-environments-claude-self-hosted-runner-turns-your-own-machines|Added self-hosted environments]] · Mobile and Desktop
-- [[Changes/Claude Code/2026-08-07-added-archive-plugin-source-install-plugins-from-a-zip-over-https-without-git-or|Added archive plugin source]] · Apps and Integrations
+- [[Changes/Claude Code/2026-08-07-changed-managed-settings-the-approval-prompt-no-longer-re-appears-after-re-login|Changed managed settings]] · Account and Access
+- [[Changes/Claude Code/2026-08-07-improved-fullscreen-mode-to-keep-the-full-pre-compaction-history-in-scrollback-a|Improved fullscreen mode to keep the full pre-compaction history in scrollback…]] · Interface Experience
+- [[Changes/Claude Code/2026-08-07-3-apps-and-integrations-changes-in-v2-1-224|3 Apps and Integrations changes in v2.1.224]] · Apps and Integrations
+- [[Changes/Claude Code/2026-08-07-3-mobile-and-desktop-changes-in-v2-1-224|3 Mobile and Desktop changes in v2.1.224]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-08-07-removed-the-200-subagent-per-session-spawn-cap-long-running-sessions-no-longer-r|Removed the 200-subagent-per-session spawn cap]] · Agent Mode
+- [[Changes/Claude Code/2026-08-07-2-safety-and-privacy-changes-in-v2-1-224|2 Safety and Privacy changes in v2.1.224]] · Safety and Privacy
+- [[Changes/Claude Code/2026-08-07-changed-the-bash-tool-description-to-always-note-that-command-output-is-displaye|Changed the Bash tool description to always note that command output is displayed…]] · Model Support
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-changed-code-review-to-run-as-a-background-subagent-so-review-work-no-longer-fil|Changed /code-review to run as a background subagent, so review work no longer…]]
-- Later: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-added-gitlab-merge-request-url-support-to-the-worktree-flag-and-the-claude-agent|Added GitLab merge request URL support to the --worktree flag…]]
+- Earlier: 2026-08-06 · Claude Code · [[Changes/Claude Code/2026-08-06-2-developer-workflow-changes-in-v2-1-223|2 Developer Workflow changes in v2.1.223]]
+- Later: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-changed-commit-push-pr-so-git-gh-commands-with-dangerous-flags-force-amend-no-ve|Changed /commit-push-pr so git/gh commands with dangerous flags…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

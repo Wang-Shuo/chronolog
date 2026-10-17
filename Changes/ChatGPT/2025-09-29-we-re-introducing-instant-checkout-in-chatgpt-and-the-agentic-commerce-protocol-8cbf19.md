@@ -4,8 +4,8 @@ date: '2025-09-29'
 description: 'ChatGPT · 2025-09-29 · Agent Mode: We’re introducing Instant Checkout
   in ChatGPT and the Agentic Commerce Protocol that powers it, built with Stripe.ChatGPT…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 816
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: bbf604fc8c588af8914e47388a14f500e1b393ae307f997e46ad44884bdab111
+kind: launch
+machine_hash: c8e838be158916112f61e496472dc8188a8ff8907a4bb24cd12e7a7c81975f38
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,8 +39,9 @@ record:
       users can buy directly from U.S. Etsy sellers through ChatGPT, with over 1 million
       Shopify merchants, like Glossier, SKIMS, Spanx and Vuori, coming soon.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-introducing-instant-checkout-in-chatgpt-and-the-agentic-commerce-protocol
@@ -50,12 +52,12 @@ record:
     powers…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-06-sending-messages-while-cursor-is-working-now-does-a-better-job-of-steering-the-a|Sending
-  messages while Cursor is working now does a better job of steering the agent]]'
-- '[[Changes/Cursor/2025-08-21-you-can-now-start-background-agents-directly-from-linear-delegate-tasks-to-curso|Start
-  Background Agents directly from Linear]]'
-- '[[Changes/Cursor/2025-08-21-get-native-os-notifications-when-an-agent-run-finishes-or-when-input-is-required|Get
-  native OS notifications when an agent run finishes or when input is required…]]'
+- '[[Changes/Cursor/2025-08-21-you-can-now-start-background-agents-directly-from-linear-delegate-tasks-to-curso|Run
+  Agents in Linear]]'
+- '[[Changes/Cursor/2025-08-21-get-native-os-notifications-when-an-agent-run-finishes-or-when-input-is-required|OS
+  notifications from Agent]]'
+- '[[Changes/Cursor/2025-09-12-3-agent-mode-changes-in-1-6|3 Agent Mode changes in
+  1.6]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e|chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e]]'
 source_type: chatgpt_changelog
 theme: agent-mode
@@ -67,7 +69,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT introduces Instant Checkout and the Agentic Commerce Protocol that powers…
 
-**ChatGPT** · 2025-09-29 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e|Introducing Instant Checkout and the Agentic Commerce Protocol]]
+**ChatGPT** · 2025-09-29 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e|Introducing Instant Checkout and the Agentic Commerce Protocol]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -79,21 +81,20 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2025-09-29-instant-checkout-makes-it-easy-to-go-from-chat-to-checkout-in-just-a-few-taps|Instant Checkout makes it easy to go from chat to checkout in just a few taps]] · Search and Browsing
-- [[Changes/ChatGPT/2025-09-29-ask-chatgpt-a-shopping-question-and-it-finds-organic-unsponsored-product-results|Ask ChatGPT a shopping question and it finds organic, unsponsored product results…]] · Search and Browsing
+- [[Changes/ChatGPT/2025-09-29-agentic-commerce-protocol|Agentic Commerce Protocol]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-get-native-os-notifications-when-an-agent-run-finishes-or-when-input-is-required|Get native OS notifications when an agent run finishes or when input is required…]]
-- Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-cursor-can-now-write-detailed-plans-before-starting-complex-tasks-this-allows-ag|Cursor can now write detailed plans before starting complex tasks]]
+- Earlier: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-3-agent-mode-changes-in-1-6|3 Agent Mode changes in 1.6]]
+- Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-hooks-beta|Hooks (beta)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

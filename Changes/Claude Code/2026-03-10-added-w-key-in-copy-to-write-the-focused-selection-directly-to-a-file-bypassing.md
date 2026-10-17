@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 93c5787f406a7886bebce69a46a6b1f573a82459a8b3539657177c6008a985f3
+kind: change
+machine_hash: 84c3bd8f65749649d8c2c969fba392f6c64dd587a127d6c9c7cfb679d2308883
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added `w` key in `/copy` to write the focused selection directly to a file,
       bypassing the clipboard (useful over SSH)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.72
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-w-key-in-copy-to-write-the-focused-selection-directly-to-a-file-bypassing
@@ -42,12 +44,12 @@ record:
   title: Added `w` key in `/copy` to write the focused selection directly to a file…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-26-added-copy-command-to-show-an-interactive-picker-when-code-blocks-are-present-al|Added
-  /copy command to show an interactive picker when code blocks are present…]]'
-- '[[Changes/ChatGPT/2026-02-27-automatic-scroll-to-latest-message-existing-conversations-now-automatically-scro|Automatic
-  scroll to latest message]]'
-- '[[Changes/Claude Code/2026-03-05-added-numeric-keypad-support-for-selecting-options-in-claude-s-interview-questio|Added
-  numeric keypad support for selecting options in Claude''s interview questions…]]'
+- '[[Changes/Cursor/2026-03-03-the-content-from-your-plan-files-are-now-included-in-autocomplete-suggestions-as|The
+  content from your plan files are now included in autocomplete suggestions as you…]]'
+- '[[Changes/Claude Code/2026-03-05-3-interface-experience-changes-in-v2-1-69|3 Interface
+  Experience changes in v2.1.69]]'
+- '[[Changes/Claude Code/2026-03-06-vscode-added-spark-icon-in-vs-code-activity-bar-that-lists-all-claude-code-sessi|VSCode
+  Added spark icon in VS Code activity bar that lists all Claude Code…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48|claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48]]'
 source_type: github_releases
 theme: interface-experience
@@ -70,17 +72,21 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-03-10-changed-tool-search-to-bypass-the-third-party-proxy-gate-when-the-environment-va|Changed tool search to bypass the third-party proxy gate when the environment…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-03-10-added-optional-description-argument-to-plan-e-g-plan-fix-the-auth-bug-that-enter|Added optional description argument to /plan (e.g., /plan fix the auth bug)…]] · Agent Mode
-- [[Changes/Claude Code/2026-03-10-added-exitworktree-tool-to-leave-an-enterworktree-session|Added ExitWorktree tool to leave an EnterWorktree session]] · Developer Workflow
-- [[Changes/Claude Code/2026-03-10-added-claude-plugins-as-an-alias-for-claude-plugin|Added claude plugins as an alias for claude plugin]] · Apps and Integrations
+- [[Changes/Claude Code/2026-03-10-improved-bash-command-parsing-by-switching-to-a-native-module-faster-initializat|Improved bash command parsing by switching to a native module]] · Reliability and Performance
+- [[Changes/Claude Code/2026-03-10-2-agent-mode-changes-in-v2-1-72|2 Agent Mode changes in v2.1.72]] · Agent Mode
+- [[Changes/Claude Code/2026-03-10-3-developer-workflow-changes-in-v2-1-72|3 Developer Workflow changes in v2.1.72]] · Developer Workflow
+- [[Changes/Claude Code/2026-03-10-added-claude-code-disable-cron-environment-variable-to-immediately-stop-schedule|Added CLAUDE_CODE_DISABLE_CRON environment variable to immediately stop scheduled…]] · Automation and Scheduling
+- [[Changes/Claude Code/2026-03-10-6-safety-and-privacy-changes-in-v2-1-72|6 Safety and Privacy changes in v2.1.72]] · Safety and Privacy
+- [[Changes/Claude Code/2026-03-10-improved-voice-input-transcription-accuracy-for-repo-names-and-common-dev-terms|Improved voice input transcription accuracy for repo names and common dev terms…]] · Voice and Audio
+- [[Changes/Claude Code/2026-03-10-vscode-added-vscode-anthropic-claude-code-open-uri-handler-to-open-a-new-claude|VSCode: Added vscode://anthropic.claude-code/open URI handler to open a new Claude…]] · Editor Experience
+- [[Changes/Claude Code/2026-03-10-3-apps-and-integrations-changes-in-v2-1-72|3 Apps and Integrations changes in v2.1.72]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-added-numeric-keypad-support-for-selecting-options-in-claude-s-interview-questio|Added numeric keypad support for selecting options in Claude's interview questions…]]
-- Later: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-improved-up-arrow-after-interrupting-claude-now-restores-the-interrupted-prompt|Improved Up arrow after interrupting Claude]]
+- Earlier: 2026-03-06 · Claude Code · [[Changes/Claude Code/2026-03-06-vscode-added-spark-icon-in-vs-code-activity-bar-that-lists-all-claude-code-sessi|VSCode Added spark icon in VS Code activity bar that lists all Claude Code…]]
+- Later: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-2-interface-experience-changes-in-v2-1-73|2 Interface Experience changes in v2.1.73]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 9
 date: '2025-12-10'
 description: 'Cursor release Debug Mode, Plan Mode Improvements, Multi-Agent Judging,
-  and Pinned Chats on 2025-12-10: 5 tracked changes across Agent Mode, Developer…'
-machine_hash: a174b11b4806e9977da453896e36d527ee667aba33794128a48bd9a1a807aada
+  and Pinned Chats on 2025-12-10: 9 tracked changes across Agent Mode, Developer…'
+machine_hash: f5ad144103cf0b0dc3da55657ded75ad927aa21991c194baf8e33d514d6c8165
 product: cursor
 product_name: Cursor
 record:
@@ -40,14 +40,18 @@ version: '2.2'
 <!-- chronolog:begin region="summary" -->
 #Debug Mode
 
-Tracked 5 of 20 candidate lines.
+Tracked 9 cards from 20 candidate lines; 4 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2025-12-10-move-elements-update-colors-test-layouts-and-experiment-with-css-in-real-time-th|Move elements, update colors, test layouts, and experiment with CSS in real time…]] · Agent Mode
-- [[Changes/Cursor/2025-12-10-design-and-code-simultaneously-with-a-brand-new-browser-sidebar-and-component-tr|Design and code simultaneously with a brand new browser sidebar and component tree]] · Interface Experience
-- [[Changes/Cursor/2025-12-10-plan-mode-now-supports-inline-mermaid-diagrams-allowing-the-agent-to-automatical|Plan Mode now supports inline Mermaid diagrams, allowing the agent to automatically…]] · Agent Mode
-- [[Changes/Cursor/2025-12-10-debug-mode-helps-you-reproduce-and-fix-the-most-tricky-bugs|Debug Mode helps you reproduce and fix the most tricky bugs]] · Developer Workflow
-- [[Changes/Cursor/2025-12-10-cursor-instruments-your-app-with-runtime-logs-to-find-the-root-cause-it-works-ac|Cursor instruments your app with runtime logs to find the root cause]] · Model Support
+- [[Changes/Cursor/2025-12-10-ask-mode-can-use-a-read-only-terminal-to-get-better-answers-like-checking-git-co|Ask Mode can use a read-only terminal to get better answers, like checking git commits]] · Developer Workflow
+- [[Changes/Cursor/2025-12-10-2-reliability-and-performance-changes-in-2-2|2 Reliability and Performance changes in 2.2]] · Reliability and Performance · Digest
+- [[Changes/Cursor/2025-12-10-debug-mode|Debug Mode]] · Developer Workflow · Launch
+- [[Changes/Cursor/2025-12-10-plan-mode-now-supports-inline-mermaid-diagrams-allowing-the-agent-to-automatical|Plan Mode improvements]] · Agent Mode · Launch
+- [[Changes/Cursor/2025-12-10-multi-agent-judging|Multi-agent judging]] · Agent Mode · Launch
+- [[Changes/Cursor/2025-12-10-system-notification-actions-for-terminal-and-mcp-approval-rejection|System notification actions for terminal and MCP approval/rejection]] · Apps and Integrations
+- [[Changes/Cursor/2025-12-10-browser-layout-and-style-editor-c9ae9c|Browser layout and style editor]] · Editor Experience · Launch
+- [[Changes/Cursor/2025-12-10-pinned-chats|Pinned chats]] · Interface Experience · Launch
+- [[Changes/Cursor/2025-12-10-agent-plans-are-now-files-that-can-be-edited-with-normal-tools|Agent plans are now files that can be edited with normal tools]] · Agent Mode
 <!-- chronolog:end -->

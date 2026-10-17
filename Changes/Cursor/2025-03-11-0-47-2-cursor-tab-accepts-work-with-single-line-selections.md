@@ -4,8 +4,8 @@ date: '2025-03-11'
 description: 'Cursor · 2025-03-11 · Editor Experience: 0.47.2: Cursor Tab accepts
   work with single-line selections'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 728
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 0cbf376cdb85b7debd4cd82eee1955caedf5c43591813c2d404f267bd529f181
+kind: change
+machine_hash: fbbb6295b97f90b286508a50befb82c1c01c754c227ffaebbdc704326c5e8611
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: '0.47.2: Cursor Tab accepts work with single-line selections'
     source_release: https://cursor.com/changelog/0-47-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: 0-47-2-cursor-tab-accepts-work-with-single-line-selections
@@ -39,12 +41,12 @@ record:
   title: '0.47.2: Cursor Tab accepts work with single-line selections'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-08-22-auto-imports-beta-for-cursor-tab-for-typescript-files-when-tab-suggests-an-unimp|Auto
-  imports (beta) for Cursor Tab for TypeScript files]]'
-- '[[Changes/Cursor/2024-10-09-python-auto-import-for-cursor-tab-is-much-more-stable-in-this-release|Python
-  auto import for Cursor Tab is much more stable in this release]]'
-- '[[Changes/Cursor/2024-10-09-vs-code-1-93-1-cursor-is-now-based-on-vs-code-1-93-1|VS
-  Code 1.93.1: Cursor is now based on VS Code 1.93.1]]'
+- '[[Changes/Cursor/2024-12-17-agent-can-reapply-edits-with-a-smarter-apply-model|Agent
+  can reapply edits with a smarter apply model]]'
+- '[[Changes/Cursor/2025-02-19-ignore-files-cursorignore-now-blocks-files-from-being-added-in-chat-or-sent-up-f|Ignore
+  files: .cursorignore now blocks files from being added in chat or sent up…]]'
+- '[[Changes/Cursor/2025-02-19-tab-rebinding-tab-suggestions-can-now-be-rebound-to-a-different-keybinding-using|Tab
+  rebinding: Tab suggestions can now be rebound to a different keybinding using…]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e|cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -67,23 +69,26 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2025-03-11-0-47-7-max-mode-for-3-7-sonnet-with-and-without-thinking|0.47.7: MAX mode for 3.7 Sonnet with and without thinking]] · Model Support
-- [[Changes/Cursor/2025-03-11-0-47-5-client-side-support-for-upcoming-max-mode-compatibility-for-claude-3-7-so|0.47.5: Client-side support for upcoming MAX mode compatibility for Claude 3.7 Sonnet]] · Model Support
-- [[Changes/Cursor/2025-03-11-0-47-1-improved-performance-added-back-play-button-to-apply-code-blocks|0.47.1: Improved performance, added back play button to apply code blocks]] · Reliability and Performance
-- [[Changes/Cursor/2025-03-11-0-47-6-faster-applies-warns-user-when-edits-fails-because-of-cursorignore|0.47.6: Faster applies, warns user when edits fails because of cursorignore]] · Reliability and Performance
+- [[Changes/Cursor/2025-03-11-5-reliability-and-performance-changes-in-0-47-x|5 Reliability and Performance changes in 0.47.x]] · Reliability and Performance
+- [[Changes/Cursor/2025-03-11-keyboard-shortcuts-all-keyboard-shortcuts-are-now-available-in-the-keyboard-shor|Keyboard Shortcuts: All keyboard shortcuts are now available in the Keyboard…]] · Interface Experience
+- [[Changes/Cursor/2025-03-11-mcp-added-global-server-configuration-with-cursor-mcp-json-and-support-for-envir|MCP: Added global server configuration with ~/.cursor/mcp.json and support…]] · Apps and Integrations
+- [[Changes/Cursor/2025-03-11-sonnet-3-7-thinking-we-ve-made-a-few-improvements-to-3-7-prompting-thinking-will|Sonnet 3.7 thinking: We've made a few improvements to 3.7 prompting]] · Model Support
+- [[Changes/Cursor/2025-03-11-0-47-11-release-track-picker-prerelease-or-standard-fix-for-dmg-installer-not-wo|0.47.11: Release track picker (prerelease or standard), fix for dmg installer not…]] · Interface Experience
+- [[Changes/Cursor/2025-03-11-3-model-support-changes-in-0-47-x|3 Model Support changes in 0.47.x]] · Model Support
+- [[Changes/Cursor/2025-03-11-this-release-focuses-mainly-on-stability-and-performance-improvements-to-make-ex|This release focuses mainly on stability and performance improvements to make…]] · Reliability and Performance
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-10-09 · Cursor · [[Changes/Cursor/2024-10-09-vs-code-1-93-1-cursor-is-now-based-on-vs-code-1-93-1|VS Code 1.93.1: Cursor is now based on VS Code 1.93.1]]
-- Later: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-when-an-issue-is-found-bugbot-leaves-a-comment-on-your-prs-in-github-you-can-cli|When an issue is found, Bugbot leaves a comment on your PRs in GitHub]]
+- Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-tab-rebinding-tab-suggestions-can-now-be-rebound-to-a-different-keybinding-using|Tab rebinding: Tab suggestions can now be rebound to a different keybinding using…]]
+- Later: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-0-48-2-allows-users-to-accept-reject-file-edited-in-another-chat-tab|0.48.2 - Allows users to accept/reject file edited in another chat tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

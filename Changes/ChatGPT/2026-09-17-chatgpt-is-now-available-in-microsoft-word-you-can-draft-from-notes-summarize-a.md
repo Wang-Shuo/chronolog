@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 06e8d8602de80511a5e0da8a3fd52e05ba9ebbb79804eb61f7d978d08cd8da6b
+machine_hash: f524c6d928acdf3b44b898ced1891b8b7be1c602e5f0d4f50f7b3b408723a3e9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,6 +53,7 @@ related_changes:
   mouse support to the /config panel in fullscreen mode]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-17-chatgpt-for-word-f072ecd9|chatgpt-2026-09-17-chatgpt-for-word-f072ecd9]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: interface-experience
 title: ChatGPT is now available in Microsoft Word
 type: change

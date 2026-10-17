@@ -3,7 +3,7 @@ changes_count: 4
 date: '2026-04-24'
 description: 'Cursor release Multitask, Worktrees, and Multi-root Workspaces on 2026-04-24:
   4 tracked changes across Agent Mode'
-machine_hash: d5898c74315465d6bc32ea88b374bec33986d9b0ea9717021ea93787dd53604c
+machine_hash: f189ab9964ef72c4a5dd888fba6fe0399a8152b1d9f939e634dcad0dbcef84a3
 product: cursor
 product_name: Cursor
 record:
@@ -40,13 +40,13 @@ version: '3.2'
 <!-- chronolog:begin region="summary" -->
 This release introduces a new way to multitask with async subagents, an improved worktrees experience, and multi-root workspaces for making cross-repo changes.
 
-Tracked 4 of 7 candidate lines.
+Tracked 4 cards from 7 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-04-24-this-release-introduces-a-new-way-to-multitask-with-async-subagents-an-improved|Cursor introduces a new way to multitask with async subagents, an improved worktrees…]] · Agent Mode
-- [[Changes/Cursor/2026-04-24-if-you-already-have-messages-in-the-queue-you-can-ask-cursor-to-multitask-on-the|If you already have messages in the queue, you can ask Cursor to multitask on them…]] · Agent Mode
-- [[Changes/Cursor/2026-04-24-with-multitask-cursor-will-run-async-subagents-to-parallelize-your-requests-inst|With /multitask, Cursor will run async subagents to parallelize your requests…]] · Agent Mode
-- [[Changes/Cursor/2026-04-24-we-ve-added-new-and-improved-worktrees-in-the-agents-window|Cursor adds new and improved worktrees in the Agents Window]] · Agent Mode
+- [[Changes/Cursor/2026-04-24-multi-root-workspaces-in-agents-window|Multi-root workspaces in Agents Window]] · Agent Mode · Launch
+- [[Changes/Cursor/2026-04-24-worktrees-in-agents-window-44e81c|Worktrees in Agents Window]] · Agent Mode · Launch
+- [[Changes/Cursor/2026-04-24-this-release-introduces-a-new-way-to-multitask-with-async-subagents-an-improved|Cursor introduces a new way to multitask with async subagents, an improved worktrees…]] · Agent Mode · Launch
+- [[Changes/Cursor/2026-04-24-multitask-in-agents-window-9bc7ed|Multitask in Agents Window]] · Agent Mode · Launch
 <!-- chronolog:end -->

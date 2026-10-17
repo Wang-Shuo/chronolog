@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9f0ad9a947670bd1bf4cc933328f1b95d910d10566fa136735299851a3cb1f01
+machine_hash: 86b7a50478c538cc7d7a95538aa6ac4fa63344c5502175d6a50d38eb3590cd49
 product: cursor
 product_name: Cursor
 record:
@@ -57,6 +57,7 @@ related_changes:
   Projects are available to all Plus, Team, and Pro users]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'
 source_type: cursor_changelog
+superseded: true
 theme: collaboration
 title: Improved indexing performance for teams sharing codebases
 type: change

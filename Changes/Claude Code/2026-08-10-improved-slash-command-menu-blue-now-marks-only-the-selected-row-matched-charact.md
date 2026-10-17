@@ -15,9 +15,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f31a91b9f08a0e38121a5f26fb2d1e3ba4ea906e19e4fcf6a44db0f52b0abc4a
+kind: change
+machine_hash: 50ad2726801d97399e5a8261db4f55574a61b78c3d84d626d7d524a4aad55ff0
 product: claude-code
 product_name: Claude Code
 record:
@@ -32,8 +33,9 @@ record:
       characters are bolded instead of recolored, and emoji or accented names keep
       their glyphs'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.227
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-slash-command-menu-blue-now-marks-only-the-selected-row-matched-charact
@@ -45,8 +47,8 @@ record:
 related_changes:
 - '[[Changes/Claude Code/2026-08-04-vscode-added-focus-view-a-chat-menu-toggle-that-hides-tool-activity-behind-an-ex|VSCode
   Added Focus view]]'
-- '[[Changes/ChatGPT/2026-08-07-add-saved-files-without-uploading-them-again-open-the-composer-menu-on-the-web-s|Add
-  saved files without uploading them again]]'
+- '[[Changes/Claude Code/2026-08-07-improved-fullscreen-mode-to-keep-the-full-pre-compaction-history-in-scrollback-a|Improved
+  fullscreen mode to keep the full pre-compaction history in scrollback…]]'
 - '[[Changes/Claude Code/2026-08-08-vscode-fixed-focus-view-folding-away-the-latest-to-do-list-a-pending-question-s|VSCode
   Fixed Focus view folding away the latest to-do list, a pending question''s…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-10-v2-1-227-github-368190806-b6269cf8|claude-code-2026-08-10-v2-1-227-github-368190806-b6269cf8]]'

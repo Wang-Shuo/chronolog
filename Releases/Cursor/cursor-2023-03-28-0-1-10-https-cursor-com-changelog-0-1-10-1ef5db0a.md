@@ -2,7 +2,7 @@
 changes_count: 0
 date: '2023-03-28'
 description: 'Cursor release v0.1.10 (2023-03-28) on 2023-03-28: no tracked changes'
-machine_hash: fef6a0b3a747ec240cefebac26494a506acca34bd61d31743b80372460cb5cfe
+machine_hash: af9261e16adce0fd83074957a60dd21fc44b699618d29027df38c3f5f82d4c03
 product: cursor
 product_name: Cursor
 record:
@@ -37,7 +37,7 @@ version: 0.1.10
 <!-- chronolog:begin region="summary" -->
 No change cards extracted.
 
-Tracked 0 of 2 candidate lines.
+Tracked 0 cards from 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

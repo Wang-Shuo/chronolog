@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-08-31 · Voice and Audio: Follow along outside the
   Live Activities can show content from your voice conversation while you use another
   app…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use
-    voice to engage in a back-and-forth conversation with your assistant]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
+    are beginning to roll out new voice and image capabilities in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1071
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 063c2e5f21e8079aac94d4ea0e0cac9e54e1f53d3637bd498acfee3633562ae8
+kind: change
+machine_hash: 7840900120a1e9ff49a63709029255df689e6cb621fcc97ed4f504c3d94561f2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,8 +32,9 @@ record:
   - quote: Follow along outside the app. Live Activities can show content from your
       voice conversation while you use another app or your phone is locked.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: follow-along-outside-the-app-live-activities-can-show-content-from-your-voice-co
@@ -42,8 +44,8 @@ record:
   title: Follow along outside the app
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-07-gpt-live-in-chatgpt-voice-now-supports-file-uploads-and-projects-you-can-now-upl|GPT-Live
-  in ChatGPT Voice now supports file uploads and Projects]]'
+- '[[Changes/ChatGPT/2026-08-14-switch-between-typing-and-dictation-the-dictation-button-stays-available-after-y|Switch
+  between typing and dictation]]'
 - '[[Changes/Claude Code/2026-08-21-alpine-musl-builds-native-image-paste-clipboard-and-audio-capture-add-ons-now-lo|Alpine/musl
   builds: native image paste, clipboard, and audio-capture add-ons now…]]'
 - '[[Changes/ChatGPT/2026-08-31-content-from-a-live-voice-conversation-can-now-appear-on-your-iphone-s-lock-scre|Content
@@ -78,13 +80,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-alpine-musl-builds-native-image-paste-clipboard-and-audio-capture-add-ons-now-lo|Alpine/musl builds: native image paste, clipboard, and audio-capture add-ons now…]]
-- Later: 2026-09-23 · ChatGPT · [[Changes/ChatGPT/2026-09-23-free-and-go-users-can-use-voice-in-chat-with-the-plugins-their-plan-supports-voi|Free and Go users can use Voice in Chat with the plugins their plan supports]]
+- Later: 2026-09-23 · ChatGPT · [[Changes/ChatGPT/2026-09-23-live-now-supports-plugins-on-web-ios-and-android-you-can-use-the-plugins-and-con-88a242|Use plugins in Voice and get work done by speaking]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use voice to engage in a back-and-forth conversation with your assistant]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

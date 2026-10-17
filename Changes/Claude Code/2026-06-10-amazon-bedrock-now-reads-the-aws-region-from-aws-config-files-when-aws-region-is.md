@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 886bac244030f4f0c6f345ac989fcac485d3321b476dc6ca1188bb13a7ef71e0
+machine_hash: b1ccfff865417c634869f73deb043b5c6b38888c0f1a38bf81e4997f11eaf4d5
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   a search bar when browsing a marketplace''s plugins in /plugin]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c|claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Amazon Bedrock now reads the AWS region from ~/.aws config files when AWS_REGION…
 type: change

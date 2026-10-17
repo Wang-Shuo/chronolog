@@ -4,8 +4,8 @@ date: '2024-01-15'
 description: 'Cursor · 2024-01-15 · Apps and Integrations: Supports newer version
   of python extension'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 298
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: b76e5c208069e66b1d06bc6bfe2a759899cf9a72a5b2d9bcedce5eab5283c827
+kind: change
+machine_hash: 23750f2277afbfc31a33d368d804fa42113e0400f802d1198e90e7dc7e9ea579
 product: cursor
 product_name: Cursor
 record:
@@ -27,8 +28,9 @@ record:
   evidence:
   - quote: Supports newer version of python extension
     source_release: https://cursor.com/changelog/0-22-1-nightly
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: supports-newer-version-of-python-extension
@@ -40,12 +42,12 @@ record:
   title: Supports newer version of python extension
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-15-now-based-on-vs-code-1-84-2-notably-this-fixes-a-few-notebook-bugs-and-ensures-t|Now
-  based on VS Code 1.84.2]]'
 - '[[Changes/Cursor/2023-11-15-cursor-is-now-based-on-vs-code-1-84-2-notably-this-fixes-a-few-notebook-bugs-and|Cursor
   is now based on VS Code 1.84.2]]'
 - '[[Changes/Cursor/2023-12-16-copilot-we-ve-continued-to-improve-the-copilot-ghost-text-experience-surprisingl|Copilot++:
   We''ve continued to improve the Copilot++ ghost text experience]]'
+- '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|Discover
+  what’s trending in the GPT Store]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-15-0-22-1-nightly-https-cursor-com-changelog-0-22-1-nightly-a39dbb5c|cursor-2024-01-15-0-22-1-nightly-https-cursor-com-changelog-0-22-1-nightly-a39dbb5c]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -69,21 +71,20 @@ type: change
 ## Also in this release
 
 - [[Changes/Cursor/2024-01-15-working-wsl-codebase-search|Working WSL codebase search]] · Developer Workflow
-- [[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti|Cursor-Fast is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…]] · Model Support
-- [[Changes/Cursor/2024-01-15-we-ll-be-working-to-improve-its-performance-over-the-coming-weeks-counts-the-sam|We'll be working to improve its performance over the coming weeks]] · Reliability and Performance
+- [[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti-bb4c11|Cursor-Fast is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…]] · Model Support
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2023-12-16 · Cursor · [[Changes/Cursor/2023-12-16-copilot-we-ve-continued-to-improve-the-copilot-ghost-text-experience-surprisingl|Copilot++: We've continued to improve the Copilot++ ghost text experience]]
+- Earlier: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|Discover what’s trending in the GPT Store]]
 - Later: 2024-01-25 · Cursor · [[Changes/Cursor/2024-01-25-update-0-24-3-0-24-4-adds-ability-to-configure-openai-base-url-fixes-getcursor-c|UPDATE (0.24.3-0.24.4): Adds ability to configure OpenAI base URL, fixes…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

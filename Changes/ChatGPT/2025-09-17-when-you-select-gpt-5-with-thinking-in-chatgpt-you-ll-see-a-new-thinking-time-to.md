@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 0766c5c9ad52a3792fd494a3fe6ede376a7349f377c4d58076452838a509cda8
+machine_hash: 81dbf4535d66c9bfa6b3641407e781902f33235a885ccaa4ee47a468895a6b61
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,6 +54,7 @@ related_changes:
   giving Plus, Business, and Pro users more control over how long GPT-5 thinks…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c|chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: When you select GPT-5 with Thinking in ChatGPT, you’ll see a new thinking time…
 type: change

@@ -3,7 +3,7 @@ changes_count: 3
 date: '2023-11-30'
 description: 'Cursor release Better Context Chat, Faster Copilot++ on 2023-11-30:
   3 tracked changes across Context Window, Editor Experience, Reliability and Performance'
-machine_hash: b0c62c036db8a834d5ee9a203290b86ec81603cbc965b5a5d204800a34f89b75
+machine_hash: 2005315610b55ee2c8894b0f9d3aedeadd69967e8a9982ed6666546a33b5a091
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.18.0
 <!-- chronolog:begin region="summary" -->
 Better context chat: in particular, followups are now smarter!
 
-Tracked 3 of 3 candidate lines.
+Tracked 3 cards from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

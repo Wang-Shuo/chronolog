@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-09-11'
 description: 'ChatGPT release Planned custom GPT retirement and migration to plugins
   on 2026-09-11: 1 tracked change across Apps and Integrations'
-machine_hash: ad7950894f8a4b9cefa31b471074e617898f1483bd5bfd721a1694a7704b1f1c
+machine_hash: f520e515857fd48f8f87b828e2f1e54a93fb815c87d6e040ae65af4c79e2b88d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Planned custom GPT retirement and migration to plugins
 <!-- chronolog:begin region="summary" -->
 We’re planning to retire custom GPTs across ChatGPT plans and provide a migration path to plugins, which can combine reusable instructions with connected apps. You can continue using existing GPTs until the retirement date that applies to you, subject to your permissions.To prepare, review the GPTs you rely on and…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-09-11-we-re-planning-to-retire-custom-gpts-across-chatgpt-plans-and-provide-a-migratio|We’re planning to retire custom GPTs across ChatGPT plans and provide a migration…]] · Apps and Integrations
+- [[Changes/ChatGPT/2026-09-11-we-re-planning-to-retire-custom-gpts-across-chatgpt-plans-and-provide-a-migratio|Planned custom GPT retirement and migration to plugins]] · Apps and Integrations · Policy
 <!-- chronolog:end -->

@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: fdb80aa0866dce646dab98d743998da5b56d479fbeef188496e32226d16ae6ef
+kind: change
+machine_hash: 929bf9a8d18d3db4682abf7eb772b07f85e374a999d9c8d86d590cb1b4d81784
 product: claude-code
 product_name: Claude Code
 record:
@@ -32,8 +33,9 @@ record:
   - quote: Improved `/model` to warn before switching models mid-conversation, since
       the next response re-reads the full history uncached
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.108
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-model-to-warn-before-switching-models-mid-conversation-since-the-next-r
@@ -44,12 +46,12 @@ record:
     the next…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-25-self-hosted-cloud-agents-offer-the-same-capabilities-as-cursor-hosted-cloud-agen|Self-hosted
-  cloud agents offer the same capabilities as Cursor-hosted cloud agents…]]'
 - '[[Changes/Claude Code/2026-03-26-added-anthropic-default-opus-sonnet-haiku-model-supports-env-vars-to-override-ef|Added
   ANTHROPIC_DEFAULT{OPUS,SONNET,HAIKU}MODEL_SUPPORTS env vars to override…]]'
-- '[[Changes/ChatGPT/2026-04-09-today-we-re-releasing-gpt-5-3-instant-mini-in-chatgpt-it-replaces-gpt-5-instant|Today,
-  we’re releasing GPT-5.3 Instant Mini in ChatGPT]]'
+- '[[Changes/Claude Code/2026-04-01-usage-now-hides-redundant-current-week-sonnet-only-bar-for-pro-and-enterprise-pl|/usage
+  now hides redundant "Current week (Sonnet only)" bar for Pro and Enterprise plans]]'
+- '[[Changes/ChatGPT/2026-04-09-today-we-re-releasing-gpt-5-3-instant-mini-in-chatgpt-it-replaces-gpt-5-instant|GPT-5.3
+  Instant mini in ChatGPT]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-14-v2-1-108-github-309009167-35123bd5|claude-code-2026-04-14-v2-1-108-github-309009167-35123bd5]]'
 source_type: github_releases
 theme: model-support
@@ -73,17 +75,17 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-04-14-undo-is-now-an-alias-for-rewind|/undo is now an alias for /rewind]] · Interface Experience
-- [[Changes/Claude Code/2026-04-14-added-enable-prompt-caching-1h-env-var-to-opt-into-1-hour-prompt-cache-ttl-on-ap|Added ENABLE_PROMPT_CACHING_1H env var to opt into 1-hour prompt cache TTL on API…]] · Context Window
-- [[Changes/Claude Code/2026-04-14-added-recap-feature-to-provide-context-when-returning-to-a-session-configurable|Added recap feature to provide context when returning to a session, configurable…]] · Context Window
-- [[Changes/Claude Code/2026-04-14-the-model-can-now-discover-and-invoke-built-in-slash-commands-like-init-review-a|The model can now discover and invoke built-in slash commands like /init…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-04-14-2-safety-and-privacy-changes-in-v2-1-108|2 Safety and Privacy changes in v2.1.108]] · Safety and Privacy
+- [[Changes/Claude Code/2026-04-14-2-interface-experience-changes-in-v2-1-108|2 Interface Experience changes in v2.1.108]] · Interface Experience
+- [[Changes/Claude Code/2026-04-14-reduced-memory-footprint-for-file-reads-edits-and-syntax-highlighting-by-loading|Reduced memory footprint for file reads, edits, and syntax highlighting by loading…]] · Reliability and Performance
+- [[Changes/Claude Code/2026-04-14-2-context-window-changes-in-v2-1-108|2 Context Window changes in v2.1.108]] · Context Window
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-09 · ChatGPT · [[Changes/ChatGPT/2026-04-09-today-we-re-releasing-gpt-5-3-instant-mini-in-chatgpt-it-replaces-gpt-5-instant|Today, we’re releasing GPT-5.3 Instant Mini in ChatGPT]]
-- Later: 2026-04-14 · Cursor · [[Changes/Cursor/2026-04-14-config-opens-an-interactive-settings-panel-inside-the-cli-where-you-can-view-and|/config opens an interactive settings panel inside the CLI where you can view…]]
+- Earlier: 2026-04-09 · ChatGPT · [[Changes/ChatGPT/2026-04-09-today-we-re-releasing-gpt-5-3-instant-mini-in-chatgpt-it-replaces-gpt-5-instant|GPT-5.3 Instant mini in ChatGPT]]
+- Later: 2026-04-14 · Cursor · [[Changes/Cursor/2026-04-14-trigger-the-model-picker-from-anywhere-to-switch-models-without-clearing-your-pr|Trigger the model picker from anywhere to switch models without clearing your prompt first]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

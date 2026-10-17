@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 3356d355cdd4f479978cff2b7b8cb2fba2d3f1fdd396798393aa8084d201a08c
+machine_hash: 0f85ce698222df83eed74424801dc45405e31ccb1000e9d74796d0205baa569f
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   emoji shortcode autocomplete in the prompt input]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-17-origin-code-hosting-https-cursor-com-changelog-origin-code-hosti-ed3a9195|cursor-2026-08-17-origin-code-hosting-https-cursor-com-changelog-origin-code-hosti-ed3a9195]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: The new Codebase tab is home for Origin repos
 type: change

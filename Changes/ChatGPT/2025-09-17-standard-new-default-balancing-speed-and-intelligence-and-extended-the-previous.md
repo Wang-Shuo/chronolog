@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: c38caed48c254f6d7da2d63eb5d90e52a9861b05f61e62f5bb8beb6505417405
+machine_hash: 4ab38c39fa7e82e641e1d004a0c296fb950fc46051732f9d651bf4d04575ada3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,6 +51,7 @@ related_changes:
   edits are now faster by lazy loading linter errors]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c|chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: reliability-performance
 title: Standard (new default, balancing speed and intelligence) and Extended…
 type: change

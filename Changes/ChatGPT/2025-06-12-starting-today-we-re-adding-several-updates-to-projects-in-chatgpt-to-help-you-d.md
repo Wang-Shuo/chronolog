@@ -4,19 +4,19 @@ date: '2025-06-12'
 description: 'ChatGPT · 2025-06-12 · Collaboration: Starting today, we’re adding several
   updates to projects in ChatGPT to help you do more focused work. These updates are…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
-    can also share private docs]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 643
+  lag_days: 750
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 7bdc238d38d08f28235b1be3076cb8e62c0c48e0ce5122f3224ed2750ce16f69
+kind: change
+machine_hash: e760e0a974171eaa65f5e4dd6800d2104c78ae2c31fd9a2dc26d2a0c2b54945e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,8 +31,9 @@ record:
       help you do more focused work. These updates are available for Plus, Pro, and
       Team users.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d
@@ -43,10 +44,10 @@ record:
     you do…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved
-  indexing performance for teams sharing codebases]]'
-- '[[Changes/Cursor/2025-03-23-enhanced-visibility-of-auto-run-controls-configured-by-team-admins-clarifying-wh|Enhanced
-  visibility of auto-run controls configured by team admins, clarifying…]]'
+- '[[Changes/Cursor/2025-03-23-2-collaboration-changes-in-0-48-x|2 Collaboration changes
+  in 0.48.x]]'
+- '[[Changes/Cursor/2025-06-04-admin-api-for-teams-to-access-usage-metrics-and-spend-data|Admin
+  API for teams to access usage metrics and spend data]]'
 - '[[Changes/ChatGPT/2025-06-12-sharing-chats-from-projects|Sharing chats from projects]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8|chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8]]'
 source_type: chatgpt_changelog
@@ -71,6 +72,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload files and access model selector on mobile]] · Mobile and Desktop
 - [[Changes/ChatGPT/2025-06-12-sharing-chats-from-projects|Sharing chats from projects]] · Collaboration
 - [[Changes/ChatGPT/2025-06-12-starting-a-new-project-directly-from-a-chat|Starting a new project directly from a chat]] · Projects and Workspaces
 - [[Changes/ChatGPT/2025-06-12-improvements-to-memory-to-reference-past-chats-in-a-project|Improvements to memory to reference past chats in a project]] · Memory and Personalization
@@ -80,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-enhanced-visibility-of-auto-run-controls-configured-by-team-admins-clarifying-wh|Enhanced visibility of auto-run controls configured by team admins, clarifying…]]
-- Later: 2025-08-11 · ChatGPT · [[Changes/ChatGPT/2025-08-11-pro-microsoft-teams-and-github|Pro: Microsoft Teams and GitHub]]
+- Earlier: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-admin-api-for-teams-to-access-usage-metrics-and-spend-data|Admin API for teams to access usage metrics and spend data]]
+- Later: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-use-cursor-where-your-team-works-3e7ca8|Use Cursor where your team works]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

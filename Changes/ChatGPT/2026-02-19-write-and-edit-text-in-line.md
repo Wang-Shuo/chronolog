@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 27c7f71e0adb6e81dd7d4af8bd068f4fa9560bb1f3b810b99271b6f59e4e1723
+machine_hash: 653eeaa32e399939c3c167bc550333227885cee08ed0c122f8b8df591850203e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,6 +48,7 @@ related_changes:
   Claude to prefer file operation tools (Read, Edit, Write) over bash…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-19-interactive-code-blocks-in-chatgpt-c2254f84|chatgpt-2026-02-19-interactive-code-blocks-in-chatgpt-c2254f84]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: editor-experience
 title: Write and edit text in-line
 type: change

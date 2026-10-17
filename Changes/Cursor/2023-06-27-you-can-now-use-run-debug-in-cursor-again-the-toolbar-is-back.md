@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c538bfe40adff74a9d93d2c509786bcd43206f35bfac9ef76b76e20fa081c4cd
+machine_hash: a7abb2906fbd545058ffb796ef9972e7d47d4bab2aaf1868d78f22f3c67d529c
 product: cursor
 product_name: Cursor
 record:
@@ -48,6 +48,7 @@ related_changes:
   was failing on some non-git folders]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-27-0-2-36-https-cursor-com-changelog-0-2-36-fa4e4f8d|cursor-2023-06-27-0-2-36-https-cursor-com-changelog-0-2-36-fa4e4f8d]]'
 source_type: cursor_changelog
+superseded: true
 theme: developer-workflow
 title: Use Run & debug in Cursor again (the toolbar is back)
 type: change

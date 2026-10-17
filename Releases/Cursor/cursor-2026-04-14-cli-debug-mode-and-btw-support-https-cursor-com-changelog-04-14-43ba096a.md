@@ -1,9 +1,9 @@
 ---
-changes_count: 4
+changes_count: 6
 date: '2026-04-14'
-description: 'Cursor release CLI Debug Mode and /btw Support on 2026-04-14: 4 tracked
-  changes across Developer Workflow, Agent Mode, Model Support'
-machine_hash: 284a8649c03ff1f83af2bb67e7b7cfac436215f5dc0e4448376418c639e7502f
+description: 'Cursor release CLI Debug Mode and /btw Support on 2026-04-14: 6 tracked
+  changes across Developer Workflow, Agent Mode, Interface Experience, Model Support'
+machine_hash: 58a91585b3d9612b25f5cfddd97c46bb3fd4956ade23be5d9dd233cdd0825fd0
 product: cursor
 product_name: Cursor
 record:
@@ -39,13 +39,15 @@ version: CLI Debug Mode and /btw Support
 <!-- chronolog:begin region="summary" -->
 We've shipped quality-of-life improvements to the Cursor CLI to make working with agents in the terminal more delightful.
 
-Tracked 4 of 18 candidate lines.
+Tracked 6 cards from 18 candidate lines; 4 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-04-14-ask-a-quick-side-question-without-derailing-the-agent-s-main-task-btw-allows-you|Ask a quick side question without derailing the agent's main task]] · Agent Mode
-- [[Changes/Cursor/2026-04-14-use-debug-to-find-root-causes-and-fix-tricky-bugs-that-are-hard-to-reproduce-or|Use /debug to find root causes and fix tricky bugs that are hard to reproduce…]] · Developer Workflow
+- [[Changes/Cursor/2026-04-14-ask-a-quick-side-question-without-derailing-the-agent-s-main-task-btw-allows-you|/btw support in CLI]] · Agent Mode · Launch
+- [[Changes/Cursor/2026-04-14-trigger-the-model-picker-from-anywhere-to-switch-models-without-clearing-your-pr|Trigger the model picker from anywhere to switch models without clearing your prompt first]] · Model Support
+- [[Changes/Cursor/2026-04-14-use-debug-to-find-root-causes-and-fix-tricky-bugs-that-are-hard-to-reproduce-or|Debug Mode in CLI]] · Developer Workflow · Launch
 - [[Changes/Cursor/2026-04-14-we-ve-shipped-quality-of-life-improvements-to-the-cursor-cli-to-make-working-wit|We've shipped quality-of-life improvements to the Cursor CLI to make working…]] · Developer Workflow
-- [[Changes/Cursor/2026-04-14-config-opens-an-interactive-settings-panel-inside-the-cli-where-you-can-view-and|/config opens an interactive settings panel inside the CLI where you can view…]] · Model Support
+- [[Changes/Cursor/2026-04-14-configuration-menu-in-cli|Configuration menu in CLI]] · Interface Experience · Launch
+- [[Changes/Cursor/2026-04-14-3-developer-workflow-changes-in-04-14-26|3 Developer Workflow changes in 04.14.26]] · Developer Workflow · Digest
 <!-- chronolog:end -->

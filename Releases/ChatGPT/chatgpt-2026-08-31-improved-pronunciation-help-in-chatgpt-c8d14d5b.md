@@ -3,7 +3,7 @@ changes_count: 0
 date: '2026-08-31'
 description: 'ChatGPT release Improved pronunciation help in ChatGPT on 2026-08-31:
   no tracked changes'
-machine_hash: 60cb9e08724051ebe8a22e717af3139e4db7b54f4ccb9116dc0eba678bea862c
+machine_hash: 0d6862c32063684ab9d5d586048c6209be3af969f2ded02509dba8b5a4c5b626
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ version: Improved pronunciation help in ChatGPT
 <!-- chronolog:begin region="summary" -->
 When you ask how to pronounce a word or phrase, you can now tap to hear it aloud and see a phonetic breakdown
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line; 1 line pending review.
 <!-- chronolog:end -->
 
 ## Change Cards

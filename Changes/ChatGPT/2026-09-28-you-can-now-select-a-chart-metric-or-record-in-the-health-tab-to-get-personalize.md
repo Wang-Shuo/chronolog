@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-09-28 · Editor Experience: You can now select a c
   metric, or record in the Health tab to get personalized explanations and insights
   based…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1294
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: a864ada8e1ed1562ab16cb279a6756e3cb815c571104f7758c632ef73fa5f3ef
+kind: change
+machine_hash: 5f312d86d43840df0a4df1d4a02e176f973ea447df87d58d9b27c5f77548e3ea
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,32 +32,33 @@ record:
   - quote: You can now select a chart, metric, or record in the Health tab to get
       personalized explanations and insights based on your connected health information.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: you-can-now-select-a-chart-metric-or-record-in-the-health-tab-to-get-personalize
   source_release: chatgpt-2026-09-28-explore-your-health-data-with-personalized-summaries-bc04c126
   source_type: chatgpt_changelog
   theme: editor-experience
-  title: Select a chart, metric, or record in the Health tab to get personalized explanations…
+  title: Explore your health data with personalized summaries
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-25-added-the-turn-s-completion-time-to-the-end-of-turn-duration-line-e-g-saut-ed-fo|Added
-  the turn''s completion time to the end-of-turn duration line…]]'
-- '[[Changes/Cursor/2026-08-27-once-the-agent-s-build-is-to-your-liking-click-the-create-repo-button-to-save-yo|Once
-  the agent''s build is to your liking, click the Create repo button to save…]]'
-- '[[Changes/Claude Code/2026-09-11-added-a-diff-of-the-files-a-bash-command-changed-to-the-bash-tool-result-when-th|Added
-  a diff of the files a Bash command changed to the Bash tool result…]]'
+- '[[Changes/Claude Code/2026-09-17-vscode-added-a-claudecode-lockeditorgroups-setting-to-stop-claude-from-locking-t|VSCode
+  Added a claudeCode.lockEditorGroups setting to stop Claude from locking…]]'
+- '[[Changes/Claude Code/2026-09-18-removed-the-background-haiku-auto-title-request-from-claude-p-runs-launched-outs|Removed
+  the background Haiku auto-title request from claude -p runs launched…]]'
+- '[[Changes/Claude Code/2026-09-22-vscode-changed-open-in-new-tab-to-open-claude-beside-the-editor-group-you-are-wo|VSCode
+  Changed "Open in New Tab" to open Claude beside the editor group you…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-28-explore-your-health-data-with-personalized-summaries-bc04c126|chatgpt-2026-09-28-explore-your-health-data-with-personalized-summaries-bc04c126]]'
 source_type: chatgpt_changelog
 theme: editor-experience
-title: Select a chart, metric, or record in the Health tab to get personalized explanations…
+title: Explore your health data with personalized summaries
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Select a chart, metric, or record in the Health tab to get personalized explanations…
+# Explore your health data with personalized summaries
 
 **ChatGPT** · 2026-09-28 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-28-explore-your-health-data-with-personalized-summaries-bc04c126|Explore your health data with personalized summaries]]
 <!-- chronolog:end -->
@@ -74,14 +76,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-added-a-diff-of-the-files-a-bash-command-changed-to-the-bash-tool-result-when-th|Added a diff of the files a Bash command changed to the Bash tool result…]]
-- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-turn-a-conversation-into-a-page-start-from-a-template-or-begin-writing-directly|Turn a conversation into a Page, start from a template, or begin writing directly in Space]]
+- Earlier: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-vscode-changed-open-in-new-tab-to-open-claude-beside-the-editor-group-you-are-wo|VSCode Changed "Open in New Tab" to open Claude beside the editor group you…]]
+- Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-changed-ultracode-into-its-own-toggle-in-effort-tab-or-effort-ultracode-on-off-i|Changed Ultracode into its own toggle in /effort (Tab, or /effort ultracode on / off)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

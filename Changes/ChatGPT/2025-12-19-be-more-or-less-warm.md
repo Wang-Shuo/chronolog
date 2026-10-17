@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3c5e34f9d89b7783439d51acedafb15dfc8a0068b358868ec7d91fa09e231915
+machine_hash: 1f14f751a7a7b75f24531e0309bd335676f2b86675ec63104f4a82b9bbe6a60f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,6 +47,7 @@ related_changes:
   research is a new interactive experience that helps you find the right…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-19-new-detailed-characteristic-controls-fa363df4|chatgpt-2025-12-19-new-detailed-characteristic-controls-fa363df4]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: memory
 title: Be more or less warm
 type: change

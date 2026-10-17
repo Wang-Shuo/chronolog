@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 2d981255e030ddf2de6ecfa0893b2d25a01dda26e06944b72521990a5ae460e1
+kind: change
+machine_hash: 320a81b3435e54fa2aac98382c98b4339fb5a7d6464eca2ad2bce2ef4454fdae
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,8 +34,9 @@ record:
       to view active tasks, see when they’ll run next, and pause, resume, edit, or
       delete them.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: a-new-scheduled-page-discoverable-in-the-sidebar-gives-users-one-place-to-view-a
@@ -45,7 +47,7 @@ record:
     to view…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed|We’re
+- '[[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed-b05795|We’re
   updating the model picker to make it easier to choose the balance of speed…]]'
 - '[[Changes/Claude Code/2026-06-12-added-footerlinksregexes-setting-for-regex-matched-link-badges-in-the-footer-row|Added
   footerLinksRegexes setting for regex-matched link badges in the footer row…]]'
@@ -78,6 +80,7 @@ type: change
 - [[Changes/ChatGPT/2026-06-17-all-tasks-are-faster-and-more-reliable|All tasks are faster and more reliable]] · Reliability and Performance
 - [[Changes/ChatGPT/2026-06-17-monitoring-tasks-can-search-the-web-and-check-connected-apps-for-changes-and-not|Monitoring tasks can search the web and check connected apps for changes and notify…]] · Apps and Integrations
 - [[Changes/ChatGPT/2026-06-17-users-can-schedule-work-for-specific-times-or-broader-windows-such-as-morning-af|Users can schedule work for specific times or broader windows, such as morning…]] · Automation and Scheduling
+- [[Changes/ChatGPT/2026-06-17-update-on-pulse|Update on Pulse]] · Automation and Scheduling
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

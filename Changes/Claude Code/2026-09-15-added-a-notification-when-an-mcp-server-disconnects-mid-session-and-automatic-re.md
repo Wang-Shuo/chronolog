@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c77b6513fc1848b377fdf12456c769d7c4d9a3c368942cec0340eb27f39bad8c
+machine_hash: 98ccf62a8b479a7ba7d90e7cf50f5c867cd0905667862434bb204804e88c50af
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   forking a session started with claude --remote-control or /remote-control…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added a notification when an MCP server disconnects mid-session and automatic…
 type: change

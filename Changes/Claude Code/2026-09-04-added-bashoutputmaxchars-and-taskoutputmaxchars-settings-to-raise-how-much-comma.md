@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 350d8b672e8c343031b448676a23c491fe3442f094902281e401d4f9f6966619
+machine_hash: 7dec1f61fee2313480fae310136763b19cae81dccb2a22c2b7dea8e7c7c5f21c
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   attach, logs, stop, respawn, and rm to claude --help]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519|claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added bashOutputMaxChars and taskOutputMaxChars settings to raise how much…
 type: change

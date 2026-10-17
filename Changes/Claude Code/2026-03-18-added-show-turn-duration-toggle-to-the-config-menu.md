@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 9ed4cffdbfe2ed465cf195b4ba0380898807c12eb810b4073799c4faf334f2c9
+kind: change
+machine_hash: 49856d2d07e0f6b5daeab18b46a361a5008a476e397262975f032ef7937bae7f
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Added "Show turn duration" toggle to the `/config` menu
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.79
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-show-turn-duration-toggle-to-the-config-menu
@@ -39,12 +41,12 @@ record:
   title: Added "Show turn duration" toggle to the `/config` menu
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-17-the-auto-functionality-can-be-accessed-by-clicking-configure-in-the-model-picker|The
-  Auto functionality can be accessed by clicking Configure in the model picker…]]'
+- '[[Changes/Claude Code/2026-03-11-2-interface-experience-changes-in-v2-1-73|2 Interface
+  Experience changes in v2.1.73]]'
 - '[[Changes/Claude Code/2026-03-17-copy-now-accepts-an-optional-index-copy-n-copies-the-nth-latest-assistant-respon|/copy
   now accepts an optional index: /copy N copies the Nth-latest assistant response]]'
-- '[[Changes/Claude Code/2026-03-17-response-text-now-streams-line-by-line-as-it-s-generated|Response
-  text now streams line-by-line as it''s generated]]'
+- '[[Changes/Claude Code/2026-03-17-2-interface-experience-changes-in-v2-1-78|2 Interface
+  Experience changes in v2.1.78]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd|claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd]]'
 source_type: github_releases
 theme: interface-experience
@@ -67,17 +69,17 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-03-18-2-apps-and-integrations-changes-in-v2-1-79|2 Apps and Integrations changes in v2.1.79]] · Apps and Integrations
 - [[Changes/Claude Code/2026-03-18-added-console-flag-to-claude-auth-login-for-anthropic-console-api-billing-authen|Added --console flag to claude auth login for Anthropic Console (API billing)…]] · Account and Access
-- [[Changes/Claude Code/2026-03-18-improved-startup-memory-usage-by-18mb-across-all-scenarios|Improved startup memory usage by ~18MB across all scenarios]] · Reliability and Performance
 - [[Changes/Claude Code/2026-03-18-fixed-custom-status-line-showing-nothing-when-workspace-trust-is-blocking-it|Fixed custom status line showing nothing when workspace trust is blocking it]] · Safety and Privacy
-- [[Changes/Claude Code/2026-03-18-improved-non-streaming-api-fallback-with-a-2-minute-per-attempt-timeout-preventi|Improved non-streaming API fallback with a 2-minute per-attempt timeout, preventing…]] · Reliability and Performance
+- [[Changes/Claude Code/2026-03-18-2-reliability-and-performance-changes-in-v2-1-79|2 Reliability and Performance changes in v2.1.79]] · Reliability and Performance
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-response-text-now-streams-line-by-line-as-it-s-generated|Response text now streams line-by-line as it's generated]]
-- Later: 2026-03-19 · Claude Code · [[Changes/Claude Code/2026-03-19-added-rate-limits-field-to-statusline-scripts-for-displaying-claude-ai-rate-limi|Added rate_limits field to statusline scripts for displaying Claude.ai rate limit…]]
+- Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-2-interface-experience-changes-in-v2-1-78|2 Interface Experience changes in v2.1.78]]
+- Later: 2026-03-19 · Claude Code · [[Changes/Claude Code/2026-03-19-2-interface-experience-changes-in-v2-1-80|2 Interface Experience changes in v2.1.80]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

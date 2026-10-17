@@ -15,9 +15,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: bdb74df52ebbc1a289b35952c2dc70e0848a21a4e3633f3125ff669a5cceaf28
+kind: change
+machine_hash: 9762677ac07ce864c58ad2cbfa73158e479d8c14db2fe342a9c0f85ba282471e
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Markdown output now renders GFM task list checkboxes (`- [ ] todo` / `-
       [x] done`) instead of plain bullets
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.149
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: markdown-output-now-renders-gfm-task-list-checkboxes-todo-x-done-instead-of-plai
@@ -44,8 +46,8 @@ record:
     done`)…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-status-line-json-input-now-includes-github-repo-and-pr-information-when-detected|Status
-  line JSON input now includes GitHub repo and PR information when detected]]'
+- '[[Changes/Claude Code/2026-05-19-2-interface-experience-changes-in-v2-1-145|2 Interface
+  Experience changes in v2.1.145]]'
 - '[[Changes/Claude Code/2026-05-19-model-now-changes-the-model-for-the-current-session-only-press-d-in-the-model-pi|/model
   now changes the model for the current session only]]'
 - '[[Changes/Claude Code/2026-05-21-prompt-history-no-longer-records-consecutive-duplicate-entries-recalling-a-promp|Prompt
@@ -72,17 +74,17 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-05-22-usage-now-shows-a-per-category-breakdown-of-what-s-driving-your-limits-usage-ski|/usage now shows a per-category breakdown of what's driving your limits usage]] · Apps and Integrations
+- [[Changes/Claude Code/2026-05-22-improved-feedback-reports-to-include-the-conversation-that-happened-before-conte|Improved /feedback reports to include the conversation that happened before…]] · Context Window
+- [[Changes/Claude Code/2026-05-22-2-safety-and-privacy-changes-in-v2-1-149|2 Safety and Privacy changes in v2.1.149]] · Safety and Privacy
+- [[Changes/Claude Code/2026-05-22-2-apps-and-integrations-changes-in-v2-1-149|2 Apps and Integrations changes in v2.1.149]] · Apps and Integrations
 - [[Changes/Claude Code/2026-05-22-diff-detail-view-can-now-be-scrolled-with-the-keyboard-arrows-j-k-pgup-pgdn-spac|/diff detail view can now be scrolled with the keyboard…]] · Editor Experience
-- [[Changes/Claude Code/2026-05-22-fixed-a-powershell-permission-bypass-built-in-cd-functions-cd-cd-cd-x-changed-th|Fixed a PowerShell permission bypass]] · Safety and Privacy
-- [[Changes/Claude Code/2026-05-22-enterprise-added-the-allowallclaudeaimcps-managed-setting-to-load-claude-ai-clou|Enterprise: added the allowAllClaudeAiMcps managed setting to load claude.ai cloud…]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-21 · Claude Code · [[Changes/Claude Code/2026-05-21-prompt-history-no-longer-records-consecutive-duplicate-entries-recalling-a-promp|Prompt history no longer records consecutive duplicate entries]]
-- Later: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-claude-agents-autocomplete-in-the-dispatch-input-now-suggests-native-slash-comma|claude agents: autocomplete in the dispatch input now suggests native slash…]]
+- Later: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-in-fullscreen-mode-the-thinking-for-ns-indicator-now-counts-up-live-while-the-mo|In fullscreen mode, the "Thinking for Ns" indicator now counts up live…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5ba413e3caff16f3f18d643a825c8a3eb177132e5a8d3439f4c9bedf72f5ab9d
+machine_hash: 17f06e945750b833faa9e8ed4a853cdc084942e7a29aadb95e2ca607e259e656
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -65,6 +65,7 @@ related_changes:
   performance: fewer event-loop stalls on file-not-found suggestions…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-14-edit-memory-settings-for-existing-projects-db366858|chatgpt-2026-08-14-edit-memory-settings-for-existing-projects-db366858]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: reliability-performance
 title: With project-only memory, ChatGPT can use conversations from the same project…
 type: change

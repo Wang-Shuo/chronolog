@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1b67ad4928f98642c7409ea2cff35403bc0a123ec118d0244f23945ea6d2ac6a
+machine_hash: 8ac3a303d1221affded67182b9d6c46870cb07afae61cc0c2984d67bfce8b03d
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,6 +57,7 @@ related_changes:
   glob pattern support in deny rule tool-name position ("" denies all tools)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c|claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added a search bar when browsing a marketplace's plugins in /plugin
 type: change

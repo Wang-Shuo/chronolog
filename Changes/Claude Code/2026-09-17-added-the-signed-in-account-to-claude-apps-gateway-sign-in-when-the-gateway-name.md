@@ -15,9 +15,10 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: e946532bc9af80c40ad88d56324213cca8888613777bfacc3831cbc02aa5c16e
+kind: change
+machine_hash: 3e50836d95fe767526dc74788bc6215b5e418a0e0f181c6a761f7979c6893046
 product: claude-code
 product_name: Claude Code
 record:
@@ -32,8 +33,9 @@ record:
       names it, you confirm it before the credential is saved, and `/status` shows
       it'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.275
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-the-signed-in-account-to-claude-apps-gateway-sign-in-when-the-gateway-name
@@ -53,12 +55,12 @@ record:
   title: Added the signed-in account to Claude apps gateway sign-in
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-21-changed-the-login-expiry-warning-to-appear-3-days-before-expiry-instead-of-5|Changed
-  the login-expiry warning to appear 3 days before expiry instead of 5]]'
-- '[[Changes/ChatGPT/2026-08-25-chatgpt-work-s-browser-on-web-and-mobile-can-also-help-you-get-tasks-done-on-som|ChatGPT
-  Work’s browser on web and mobile can also help you get tasks done on some…]]'
-- '[[Changes/Claude Code/2026-09-10-added-the-gatewayinternalnetworks-managed-setting-letting-administrators-allow-l|Added
-  the gatewayInternalNetworks managed setting, letting administrators allow…]]'
+- '[[Changes/Claude Code/2026-09-14-changed-claude-apps-gateway-bedrock-vertex-ai-and-foundry-sessions-so-that-they|Changed
+  Claude apps gateway, Bedrock, Vertex AI, and Foundry sessions so that they…]]'
+- '[[Changes/Claude Code/2026-09-15-4-account-and-access-changes-in-v2-1-273|4 Account
+  and Access changes in v2.1.273]]'
+- '[[Changes/Claude Code/2026-09-17-improved-claude-apps-gateway-sign-in-rate-limit-errors-login-now-explains-the-re|Improved
+  Claude apps gateway sign-in rate limit errors]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd|claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd]]'
 source_type: github_releases
 theme: account-access
@@ -81,16 +83,24 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-09-17-vscode-improved-the-agent-map-the-pill-counts-running-agents-and-turns-red-after|VSCode Improved the agent map]] · Agent Mode
+- [[Changes/Claude Code/2026-09-17-6-apps-and-integrations-changes-in-v2-1-275|6 Apps and Integrations changes in v2.1.275]] · Apps and Integrations
+- [[Changes/Claude Code/2026-09-17-10-editor-experience-changes-in-v2-1-275|10 Editor Experience changes in v2.1.275]] · Editor Experience
+- [[Changes/Claude Code/2026-09-17-vscode-added-viewing-editing-and-deleting-a-saved-memory-inside-the-memory-dialo|VSCode Added viewing, editing and deleting a saved memory inside the Memory dialog]] · Memory and Personalization
+- [[Changes/Claude Code/2026-09-17-7-safety-and-privacy-changes-in-v2-1-275|7 Safety and Privacy changes in v2.1.275]] · Safety and Privacy
+- [[Changes/Claude Code/2026-09-17-claude-tag-improved-claude-s-notices-in-enterprise-grid-channels-shared-across-w|Claude Tag Improved Claude's notices in Enterprise Grid channels shared across…]] · Enterprise and Administration
 - [[Changes/Claude Code/2026-09-17-added-a-send-now-key-ctrl-enter-or-ctrl-x-ctrl-s-that-interrupts-the-current-tur|Added a send-now key (ctrl+enter, or ctrl+x ctrl+s) that interrupts the current turn…]] · Model Support
-- [[Changes/Claude Code/2026-09-17-added-syncing-of-the-skills-and-plugins-enabled-on-your-claude-ai-account-to-ter|Added syncing of the skills and plugins enabled on your claude.ai account…]] · Developer Workflow
+- [[Changes/Claude Code/2026-09-17-2-developer-workflow-changes-in-v2-1-275|2 Developer Workflow changes in v2.1.275]] · Developer Workflow
+- [[Changes/Claude Code/2026-09-17-improved-the-desktop-error-when-claude-desktop-does-not-open-it-now-says-why-and|Improved the /desktop error when Claude Desktop does not open]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-09-17-improved-the-artifact-tool-s-publish-and-read-results-they-now-say-who-can-open|Improved the Artifact tool's publish and read results]] · Interface Experience
 - [[Changes/Claude Code/2026-09-17-added-plugin-install-plugin-marketplace-source-which-offers-to-add-the-marketpla|Added /plugin install plugin --marketplace source, which offers to add…]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-added-the-gatewayinternalnetworks-managed-setting-letting-administrators-allow-l|Added the gatewayInternalNetworks managed setting, letting administrators allow…]]
-- Later: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-added-telemetry-resource-attributes-to-the-claude-apps-gateway-config-to-put-fix|Added telemetry.resource_attributes to the Claude apps gateway config, to put…]]
+- Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-improved-claude-apps-gateway-sign-in-rate-limit-errors-login-now-explains-the-re|Improved Claude apps gateway sign-in rate limit errors]]
+- Later: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-claude-tag-improved-the-github-banner-in-claude-tag-admin-settings-to-say-why-gi|Claude Tag Improved the GitHub banner in Claude Tag admin settings to say why…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

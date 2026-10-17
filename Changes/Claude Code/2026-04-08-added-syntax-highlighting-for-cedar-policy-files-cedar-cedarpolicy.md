@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0a4f6ff5e728b9d365e2a8adeec27ed32e4750a37c97e4d4f278eb9f7dd94813
+machine_hash: 9fa784104f69dc2951106314e7c31abdbcbcb4a50136026e1608afe3cb39281a
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   can switch back to the IDE anytime, or have both open simultaneously]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33|claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33]]'
 source_type: github_releases
+superseded: true
 theme: editor-experience
 title: Added syntax highlighting for Cedar policy files (.cedar, .cedarpolicy)
 type: change

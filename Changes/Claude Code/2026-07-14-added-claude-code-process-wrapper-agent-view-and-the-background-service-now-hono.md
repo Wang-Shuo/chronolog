@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: e6825cd79bb1921263bff414c6d6179d0dc94f1a81365d4bb98032bc8650151a
+machine_hash: e5adee1e585688e057cefa15825771a0b88e248a2a1ca54d766a097dd3a5df13
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   the Agent tool against indirect prompt injection via content a subagent read]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-208-github-353442054-2756b984|claude-code-2026-07-14-v2-1-208-github-353442054-2756b984]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: 'Added CLAUDE_CODE_PROCESS_WRAPPER: agent view and the background service now
   honor…'

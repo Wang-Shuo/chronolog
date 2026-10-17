@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3a1c553e8f527ea3f31a8dba5ff069a166c20854fb5215ecb4f1b20ab6e39bbe
+machine_hash: 925d6cc4f875a546d27ac73806d88b10679a6bd1e2ec96bb7dca5b01eac08bc5
 product: cursor
 product_name: Cursor
 record:
@@ -45,6 +45,7 @@ related_changes:
   lint errors with AI 😎]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-14-0-0-37-https-cursor-com-changelog-0-0-37-236c8006|cursor-2023-03-14-0-0-37-https-cursor-com-changelog-0-0-37-236c8006]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: Editing works for same file on multiple tabs
 type: change

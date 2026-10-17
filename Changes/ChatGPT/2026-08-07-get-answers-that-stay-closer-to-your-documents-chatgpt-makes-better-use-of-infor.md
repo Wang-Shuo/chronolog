@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4e834bb7e33f22c56743b643015857fc3cf150f0a393e7576216dfa75dea6cda
+machine_hash: 0ab1af5f02caaa98addfbd323903e78efbfd19d9291e473be8d106ec55ba8a7f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,6 +52,7 @@ related_changes:
   starting to roll out a new health experience in ChatGPT]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: file-data
 title: Get answers that stay closer to your documents
 type: change

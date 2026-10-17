@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 443d855828fed13a9fdc550894d6c08436ea6e9c48007809f0aac97a3c92739f
+kind: change
+machine_hash: 59b67aa7a2173f6e37f522ce2f2dbee2f8976d7033350095d02b078a7d42db65
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: '@ previews: We made it easier to see what codeblock you''re @''ing.'
     source_release: https://cursor.com/changelog/0-20-0
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: previews-we-made-it-easier-to-see-what-codeblock-you-re-ing
@@ -41,11 +43,11 @@ record:
   title: '@ previews: We made it easier to see what codeblock you''re @''ing'
   type: change
 related_changes:
+- '[[Changes/Cursor/2023-11-12-copilot-improvements-includes-green-highlights-to-see-what-copilot-has-added-the|Copilot++
+  improvements: Includes green highlights to see what Copilot++ has added…]]'
 - '[[Changes/Cursor/2023-11-27-copilot-improvements-we-ve-spent-some-time-improving-the-latency-of-copilot-and|Copilot++
   Improvements: We''ve spent some time improving the latency…]]'
-- '[[Changes/Cursor/2023-12-06-allows-users-to-provide-feedback-on-the-chat-response|Allows
-  users to provide feedback on the chat response]]'
-- '[[Changes/Cursor/2023-12-06-minor-onboarding-changes|Minor onboarding changes]]'
+- '[[Changes/Cursor/2023-12-06-minor-onboarding-changes-19f3e5|Onboarding & Feedback]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e|cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -76,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-12-06 · Cursor · [[Changes/Cursor/2023-12-06-minor-onboarding-changes|Minor onboarding changes]]
+- Earlier: 2023-12-06 · Cursor · [[Changes/Cursor/2023-12-06-minor-onboarding-changes-19f3e5|Onboarding & Feedback]]
 - Later: 2024-02-02 · Cursor · [[Changes/Cursor/2024-02-02-you-can-now-drag-images-into-the-command-k-prompt-bar|Drag images into the Command-K prompt bar!]]
 <!-- chronolog:end -->
 

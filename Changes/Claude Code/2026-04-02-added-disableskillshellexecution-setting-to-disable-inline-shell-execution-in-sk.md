@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a5772b8daa3db7cf022f20b94a908ca583a6de7b5303f8c39a0725888ae9685a
+machine_hash: 8b5fe6fea7a8254bbe4fe8dad58c9622f5070c1ac056d2d56727eedcb6560a67
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   MCP tool result persistence override…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc|claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added disableSkillShellExecution setting to disable inline shell execution…
 type: change

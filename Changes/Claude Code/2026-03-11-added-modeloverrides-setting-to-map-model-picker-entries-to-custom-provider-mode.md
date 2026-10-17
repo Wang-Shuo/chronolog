@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 8d0e8785f40d5ba574f760f061b87811ac17a95001511aa9a94a25b8b434baf1
+machine_hash: eca27c5b36a2a31f799db35fbb4b6bb8f02a427fa9e815eba23ec75a700f9d1f
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,6 +61,7 @@ related_changes:
   Up arrow after interrupting Claude]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f|claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added modelOverrides setting to map model picker entries to custom provider
   model…

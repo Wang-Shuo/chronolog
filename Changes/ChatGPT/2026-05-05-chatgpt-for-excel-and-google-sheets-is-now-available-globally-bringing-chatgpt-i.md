@@ -14,9 +14,10 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 0085b8c062ffcc50f25e8873282e7f7dcc51b11b299d2c8278a7e804baef9f3a
+kind: launch
+machine_hash: e9ebc493718bce00453a5040134f95fce25cf0cf10f62ef4555d5551c874f555
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,8 +46,9 @@ record:
       in with an eligible ChatGPT account. Review outputs before relying on formulas
       or analysis. Learn more.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: chatgpt
   product_name: ChatGPT
   slug: chatgpt-for-excel-and-google-sheets-is-now-available-globally-bringing-chatgpt-i
@@ -79,11 +81,11 @@ record:
     score: 50
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v1
-  title: ChatGPT for Excel and Google Sheets is now available globally, bringing ChatGPT…
+  title: ChatGPT for Excel and Google Sheets
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-04-30-we-re-rolling-out-advanced-account-security-an-optional-setting-for-personal-cha|ChatGPT
-  rolls out Advanced Account Security, an optional setting for personal…]]'
+- '[[Changes/ChatGPT/2026-04-30-we-re-rolling-out-advanced-account-security-an-optional-setting-for-personal-cha|Advanced
+  Account Security in ChatGPT]]'
 - '[[Changes/Claude Code/2026-05-01-claude-auth-login-now-accepts-the-oauth-code-pasted-into-the-terminal-when-the-b|claude
   auth login now accepts the OAuth code pasted into the terminal…]]'
 - '[[Changes/Claude Code/2026-05-04-channels-now-works-with-console-api-key-authentication-console-orgs-with-managed|--channels
@@ -91,14 +93,14 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-05-chatgpt-for-excel-and-google-sheets-a25132e0|chatgpt-2026-05-05-chatgpt-for-excel-and-google-sheets-a25132e0]]'
 source_type: chatgpt_changelog
 theme: account-access
-title: ChatGPT for Excel and Google Sheets is now available globally, bringing ChatGPT…
+title: ChatGPT for Excel and Google Sheets
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT for Excel and Google Sheets is now available globally, bringing ChatGPT…
+# ChatGPT for Excel and Google Sheets
 
-**ChatGPT** · 2026-05-05 · [[Themes/account-access|Account and Access]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-05-05-chatgpt-for-excel-and-google-sheets-a25132e0|ChatGPT for Excel and Google Sheets]]
+**ChatGPT** · 2026-05-05 · [[Themes/account-access|Account and Access]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-05-05-chatgpt-for-excel-and-google-sheets-a25132e0|ChatGPT for Excel and Google Sheets]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->

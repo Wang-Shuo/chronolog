@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 0c022c7a711f1399874ddd3894193cab1fff527a303f466c90947cb29dc8777e
+kind: change
+machine_hash: 014c021ac399aac86ad2c9d7e5d025a6eedebf36593fdc1109117b0f92583063
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
   - quote: Added mouse-click support for multi-select menus and "Other" input rows
       in fullscreen mode
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.208
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-mouse-click-support-for-multi-select-menus-and-other-input-rows-in-fullscr
@@ -43,10 +45,10 @@ record:
     fullscreen mode
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-26-added-claude-code-disable-mouse-clicks-to-disable-mouse-click-drag-hover-in-full|Added
-  CLAUDE_CODE_DISABLE_MOUSE_CLICKS to disable mouse click/drag/hover…]]'
-- '[[Changes/Claude Code/2026-07-03-changed-askuserquestion-dialogs-to-no-longer-auto-continue-by-default-opt-into-a|Changed
-  AskUserQuestion dialogs to no longer auto-continue by default]]'
+- '[[Changes/Cursor/2026-07-10-6-interface-experience-changes-in-side-chats-and-conversation-search|6
+  Interface Experience changes in Side Chats and Conversation Search]]'
+- '[[Changes/Cursor/2026-07-10-redesigned-project-and-repo-pickers|Redesigned project
+  and repo pickers]]'
 - '[[Changes/Claude Code/2026-07-11-improved-agent-view-pasting-the-same-text-again-now-expands-the-collapsed-pasted|Improved
   agent view]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-208-github-353442054-2756b984|claude-code-2026-07-14-v2-1-208-github-353442054-2756b984]]'
@@ -72,9 +74,12 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-07-14-added-viminsertmoderemaps-setting-map-two-key-insert-mode-sequences-like-jj-to-e|Added vimInsertModeRemaps setting]] · Editor Experience
+- [[Changes/Claude Code/2026-07-14-3-apps-and-integrations-changes-in-v2-1-208|3 Apps and Integrations changes in v2.1.208]] · Apps and Integrations
+- [[Changes/Claude Code/2026-07-14-agent-view-ctrl-x-now-deletes-renamed-branch-worktrees-never-destroys-unpushed-c|Agent view: Ctrl+X now deletes renamed-branch worktrees, never destroys unpushed…]] · Developer Workflow
+- [[Changes/Claude Code/2026-07-14-2-editor-experience-changes-in-v2-1-208|2 Editor Experience changes in v2.1.208]] · Editor Experience
+- [[Changes/Claude Code/2026-07-14-4-agent-mode-changes-in-v2-1-208|4 Agent Mode changes in v2.1.208]] · Agent Mode
+- [[Changes/Claude Code/2026-07-14-3-reliability-and-performance-changes-in-v2-1-208|3 Reliability and Performance changes in v2.1.208]] · Reliability and Performance
 - [[Changes/Claude Code/2026-07-14-fixed-multi-second-per-turn-slowdowns-in-sessions-with-many-permission-deny-ask|Fixed multi-second per-turn slowdowns in sessions with many permission deny/ask rules]] · Safety and Privacy
-- [[Changes/Claude Code/2026-07-14-added-claude-code-process-wrapper-agent-view-and-the-background-service-now-hono|Added CLAUDE_CODE_PROCESS_WRAPPER: agent view and the background service now honor…]] · Agent Mode
 - [[Changes/Claude Code/2026-07-14-added-screen-reader-mode-opt-in-plain-text-rendering-for-screen-reader-users-run|Added screen reader mode: opt-in plain-text rendering for screen reader users]] · Accessibility and Localization
 <!-- chronolog:end -->
 
@@ -82,7 +87,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-11 · Claude Code · [[Changes/Claude Code/2026-07-11-improved-agent-view-pasting-the-same-text-again-now-expands-the-collapsed-pasted|Improved agent view]]
-- Later: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-added-a-live-elapsed-time-counter-to-the-collapsed-tool-summary-line-so-long-run|Added a live elapsed-time counter to the collapsed tool summary line so long-running…]]
+- Later: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-2-interface-experience-changes-in-v2-1-210|2 Interface Experience changes in v2.1.210]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

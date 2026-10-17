@@ -15,9 +15,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 1dc454b0739ed7a756a197b524eb5e4502db5d621dbdc46b628c9f2afdbc69fe
+kind: change
+machine_hash: 9cad8cf30e204a046ce5b567ab906caa0b25fa050bb5e15cd3c913e0899390c6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,8 +33,9 @@ record:
       fixes long-standing issues around editing messages with attachments, and various
       other bug fixes.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: improvement-to-charts-table-of-contents-and-full-screen-writing-also-fixes-long
@@ -43,12 +45,12 @@ record:
   title: Improvement to charts, table of contents and full screen writing
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-fullscreen-mode-clipboard-now-uses-wl-copy-xclip-xsel-on-linux-when-available-co|Fullscreen
-  mode: clipboard now uses wl-copy/xclip/xsel on Linux…]]'
-- '[[Changes/Claude Code/2026-06-03-clicking-a-slash-command-in-the-autocomplete-menu-now-fills-it-into-your-prompt|Clicking
-  a slash command in the autocomplete menu now fills it into your prompt…]]'
-- '[[Changes/Claude Code/2026-06-04-added-a-c-to-copy-shortcut-to-btw-that-copies-the-raw-markdown-answer-to-the-cli|Added
-  a "c to copy" shortcut to /btw that copies the raw markdown answer…]]'
+- '[[Changes/Claude Code/2026-06-03-2-interface-experience-changes-in-v2-1-162|2 Interface
+  Experience changes in v2.1.162]]'
+- '[[Changes/Claude Code/2026-06-04-2-interface-experience-changes-in-v2-1-163|2 Interface
+  Experience changes in v2.1.163]]'
+- '[[Changes/Cursor/2026-06-04-shared-canvases-can-now-be-opened-full-screen-in-the-browser-making-them-easier|Shared
+  canvases can now be opened full-screen in the browser, making them easier…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -73,15 +75,20 @@ type: change
 
 - [[Changes/ChatGPT/2026-06-08-send-an-email-directly-from-within-a-chat-if-you-ve-connected-gmail-or-outlook-y|Send an email directly from within a chat]] · Enterprise and Administration
 - [[Changes/ChatGPT/2026-06-08-interactive-charts-in-answers-chatgpt-can-now-turn-some-answers-into-rich-and-in|Interactive charts in answers]] · Files and Data
+- [[Changes/ChatGPT/2026-06-08-cleaner-edit-message-flow-android-now-makes-it-clearer-when-you-re-editing-a-pre|Cleaner edit-message flow]] · Mobile and Desktop
 - [[Changes/ChatGPT/2026-06-08-table-of-contents-in-longer-conversations-conversations-longer-than-five-respons|Table of contents in longer conversations]] · Interface Experience
+- [[Changes/ChatGPT/2026-06-08-long-press-send-to-choose-a-model-users-on-paid-plans-can-now-long-press-the-sen|Long-press send to choose a model]] · Model Support
 - [[Changes/ChatGPT/2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo|Full-screen writing blocks for longer-form work]] · Files and Data
+- [[Changes/ChatGPT/2026-06-08-immediate-image-previews-after-sending-when-you-upload-an-image-on-ios-chatgpt-u|Immediate image previews after sending]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-06-08-cleaned-up-logged-out-mobile-web-experience-logged-out-users-now-see-a-composer|Cleaned up logged-out mobile web experience]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-06-08-edit-messages-with-attachments-you-can-now-edit-messages-that-include-attachment|Edit messages with attachments]] · Editor Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-added-a-c-to-copy-shortcut-to-btw-that-copies-the-raw-markdown-answer-to-the-cli|Added a "c to copy" shortcut to /btw that copies the raw markdown answer…]]
-- Later: 2026-06-10 · ChatGPT · [[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed|We’re updating the model picker to make it easier to choose the balance of speed…]]
+- Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-shared-canvases-can-now-be-opened-full-screen-in-the-browser-making-them-easier|Shared canvases can now be opened full-screen in the browser, making them easier…]]
+- Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-2-interface-experience-changes-in-v2-1-169|2 Interface Experience changes in v2.1.169]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0b3d100e2af5651ad4b4c75183aba069f41c6ca880215db8379115c78d11c1f9
+machine_hash: f89cc41298350502a5219c050e53326221035a6d0a07f4565f65c62101c83100
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,6 +48,7 @@ related_changes:
   off voice mode, to remove the option to use voice mode in ChatGPT]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37|chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: voice
 title: Type back when you can’t talk and still get a Voice response
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d8c86cabdce974bea8aed25c5dfa1c63964c1d71295930e146df8bdc12214ee4
+machine_hash: c36cc4a9a6aaf294174d76a7c37e96cda142dc195e92bc84db49484cb10ae877
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   the one-time fullscreen renderer offer on Bedrock, Vertex, Foundry and other…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-27-v2-1-248-github-378106990-677106e3|claude-code-2026-08-27-v2-1-248-github-378106990-677106e3]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added server-managed settings diagnostics
 type: change

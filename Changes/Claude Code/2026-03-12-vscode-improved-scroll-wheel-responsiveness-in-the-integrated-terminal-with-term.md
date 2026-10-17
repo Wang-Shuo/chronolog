@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 041879cb4ab3ac7d2e1ba38e005122a6657831e2a0c5f30efe5b40513217cb30
+kind: change
+machine_hash: 83922cba4e1408fc2b6ee48d9c4daca12e3a63d918ed0d1cfe6eb2358565ce7d
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,8 +29,9 @@ record:
   - quote: '[VSCode] Improved scroll wheel responsiveness in the integrated terminal
       with terminal-aware acceleration'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.74
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: vscode-improved-scroll-wheel-responsiveness-in-the-integrated-terminal-with-term
@@ -49,12 +51,12 @@ record:
   title: '[VSCode] Improved scroll wheel responsiveness in the integrated terminal…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-05-added-ctrl-u-on-an-empty-bash-prompt-to-exit-bash-mode-matching-escape-and-backs|Added
-  Ctrl+U on an empty bash prompt (!) to exit bash mode, matching escape…]]'
-- '[[Changes/Claude Code/2026-03-07-added-fmt-comm-cmp-numfmt-expr-test-printf-getconf-seq-tsort-and-pr-to-the-bash|Added
-  fmt, comm, cmp, numfmt, expr, test, printf, getconf, seq…]]'
-- '[[Changes/Claude Code/2026-03-10-added-exitworktree-tool-to-leave-an-enterworktree-session|Added
-  ExitWorktree tool to leave an EnterWorktree session]]'
+- '[[Changes/Claude Code/2026-03-07-2-developer-workflow-changes-in-v2-1-71|2 Developer
+  Workflow changes in v2.1.71]]'
+- '[[Changes/Claude Code/2026-03-10-3-developer-workflow-changes-in-v2-1-72|3 Developer
+  Workflow changes in v2.1.72]]'
+- '[[Changes/Claude Code/2026-03-11-deprecated-output-style-command-use-config-instead-output-style-is-now-fixed-at|Deprecated
+  /output-style command — use /config instead]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae|claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae]]'
 source_type: github_releases
 theme: developer-workflow
@@ -77,17 +79,16 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-03-12-added-automemorydirectory-setting-to-configure-a-custom-directory-for-auto-memor|Added autoMemoryDirectory setting to configure a custom directory for auto-memory…]] · Memory and Personalization
+- [[Changes/Claude Code/2026-03-12-2-memory-and-personalization-changes-in-v2-1-74|2 Memory and Personalization changes in v2.1.74]] · Memory and Personalization
 - [[Changes/Claude Code/2026-03-12-fixed-voice-mode-silently-failing-on-the-macos-native-binary-for-users-whose-ter|Fixed voice mode silently failing on the macOS native binary for users whose…]] · Safety and Privacy
-- [[Changes/Claude Code/2026-03-12-added-actionable-suggestions-to-context-command-identifies-context-heavy-tools-m|Added actionable suggestions to /context command]] · Memory and Personalization
 - [[Changes/Claude Code/2026-03-12-changed-plugin-dir-so-local-dev-copies-now-override-installed-marketplace-plugin|Changed --plugin-dir so local dev copies now override installed marketplace…]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-added-exitworktree-tool-to-leave-an-enterworktree-session|Added ExitWorktree tool to leave an EnterWorktree session]]
-- Later: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-added-worktree-sparsepaths-setting-for-claude-worktree-in-large-monorepos-to-che|Added worktree.sparsePaths setting for claude --worktree in large monorepos…]]
+- Earlier: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-deprecated-output-style-command-use-config-instead-output-style-is-now-fixed-at|Deprecated /output-style command — use /config instead]]
+- Later: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-4-developer-workflow-changes-in-v2-1-76|4 Developer Workflow changes in v2.1.76]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

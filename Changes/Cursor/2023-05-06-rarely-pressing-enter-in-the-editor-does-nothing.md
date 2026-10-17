@@ -4,8 +4,8 @@ date: '2023-05-06'
 description: 'Cursor · 2023-05-06 · Editor Experience: Rarely, pressing Enter in the
   editor does nothing'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 53
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: da7004b383d4d149ee3751de635642ca41ac0bda281be9dc5d42be62c51677ae
+kind: change
+machine_hash: 9c4bb4a46c55d79fbff10a3ada03d27c78f009f13be2b12efca760d9b63d8026
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Rarely, pressing Enter in the editor does nothing
     source_release: https://cursor.com/changelog/0-2-10
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: rarely-pressing-enter-in-the-editor-does-nothing
@@ -72,13 +74,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-improved-prompting-for-edits-and-generates|Improved prompting for edits and generates]]
-- Later: 2023-06-06 · Cursor · [[Changes/Cursor/2023-06-06-in-order-to-take-full-advantage-navigate-to-settings-top-right-button-then-sync|In order to take full advantage, navigate to Settings (top right button), then…]]
+- Later: 2023-05-17 · Cursor · [[Changes/Cursor/2023-05-17-diff-generate-improvements|Diff/Generate improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

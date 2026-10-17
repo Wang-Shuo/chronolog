@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-02-20 · Context Window: ChatGPT now has a total c
   window length of 256k tokens (128k input and 128k max output) when you manually
   select…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
-    prompt length for project generation]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1023
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: d994976117a1682703206a9b0eb4f07bd08a15f2872eb6adc1cb37ad0ba8d0bc
+kind: change
+machine_hash: f0f13206e41229764297da65e9dbf5c9b16d85c7ec6e003abc51bdefc717910d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,8 +33,9 @@ record:
       and 128k max output) when you manually select Thinking. Previously it was 196k
       total tokens.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: chatgpt-now-has-a-total-context-window-length-of-256k-tokens-128k-input-and-128k
@@ -42,24 +44,24 @@ record:
   theme: context-window
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: ChatGPT now has a total context window length of 256k tokens…
+  title: Expanded context window for Thinking
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-05-added-summarize-from-here-to-the-message-selector-allowing-partial-conversation|Added
-  "Summarize from here" to the message selector, allowing partial conversation…]]'
-- '[[Changes/ChatGPT/2026-02-13-attach-up-to-20-files-in-a-single-message-you-can-now-upload-up-to-20-files-at-o|Attach
-  up to 20 files in a single message]]'
 - '[[Changes/Claude Code/2026-02-13-improved-rename-to-auto-generate-session-name-from-conversation-context-when-cal|Improved
   /rename to auto-generate session name from conversation context…]]'
+- '[[Changes/Cursor/2026-02-17-agents-can-now-search-past-conversations-and-use-chat-history-as-context|Agents
+  can now search past conversations and use chat history as context]]'
+- '[[Changes/Cursor/2026-02-18-cli-now-stores-conversation-transcripts-that-the-agent-can-use-as-context|CLI
+  now stores conversation transcripts that the agent can use as context]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-20-expanded-context-window-for-thinking-31f2c4c2|chatgpt-2026-02-20-expanded-context-window-for-thinking-31f2c4c2]]'
 source_type: chatgpt_changelog
 theme: context-window
-title: ChatGPT now has a total context window length of 256k tokens…
+title: Expanded context window for Thinking
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT now has a total context window length of 256k tokens…
+# Expanded context window for Thinking
 
 **ChatGPT** · 2026-02-20 · [[Themes/context-window|Context Window]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-20-expanded-context-window-for-thinking-31f2c4c2|Expanded context window for Thinking]]
 <!-- chronolog:end -->
@@ -77,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-improved-rename-to-auto-generate-session-name-from-conversation-context-when-cal|Improved /rename to auto-generate session name from conversation context…]]
-- Later: 2026-02-25 · ChatGPT · [[Changes/ChatGPT/2026-02-25-ad-hoc-text-sources-paste-notes-briefs-or-reference-material-directly-to-capture|Ad-hoc text sources]]
+- Earlier: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-cli-now-stores-conversation-transcripts-that-the-agent-can-use-as-context|CLI now stores conversation transcripts that the agent can use as context]]
+- Later: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-2-context-window-changes-in-v2-1-50|2 Context Window changes in v2.1.50]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

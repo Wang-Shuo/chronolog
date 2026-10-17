@@ -1,9 +1,9 @@
 ---
-changes_count: 4
+changes_count: 12
 date: '2026-01-08'
 description: 'Cursor release New CLI Features and Improved CLI Performance on 2026-01-08:
-  4 tracked changes across Apps and Integrations, Developer Workflow, Editor…'
-machine_hash: fdd074be78d8be961cb310b83cb96eda05bdff9e5983430cb61e946aa8262027
+  12 tracked changes across Apps and Integrations, Editor Experience, Agent Mode…'
+machine_hash: 260df2ebd14d32b82720f9885c7b121f4f2637c6f8805a839b7b482238aedd3a
 product: cursor
 product_name: Cursor
 record:
@@ -39,13 +39,21 @@ version: New CLI Features and Improved CLI Performance
 <!-- chronolog:begin region="summary" -->
 This release introduces new CLI controls for models, MCP management, rules and commands, alongside major hooks performance improvements and bug fixes.
 
-Tracked 4 of 24 candidate lines.
+Tracked 12 cards from 24 candidate lines; 2 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-01-08-use-the-new-agent-models-command-list-models-flag-or-models-slash-command-to-lis|Use the new agent models command, --list-models flag, or /models slash command…]] · Developer Workflow
-- [[Changes/Cursor/2026-01-08-enable-and-disable-mcp-servers-on-the-fly-with-mcp-enable-and-mcp-disable-comman|Enable and disable MCP servers on the fly with /mcp enable and /mcp disable commands]] · Apps and Integrations
-- [[Changes/Cursor/2026-01-08-create-new-rules-and-edit-existing-ones-directly-from-the-cli-with-the-rules-com|Create new rules and edit existing ones directly from the CLI with the /rules command]] · Editor Experience
-- [[Changes/Cursor/2026-01-08-this-release-introduces-new-cli-controls-for-models-mcp-management-rules-and-com|Cursor introduces new CLI controls for models, MCP management, rules and commands…]] · Apps and Integrations
+- [[Changes/Cursor/2026-01-08-2-reliability-and-performance-changes-in-new-cli-features-and-improved-cli|2 Reliability and Performance changes in New CLI Features and Improved CLI…]] · Reliability and Performance · Digest
+- [[Changes/Cursor/2026-01-08-use-the-new-agent-models-command-list-models-flag-or-models-slash-command-to-lis|Model list and selection]] · Model Support · Launch
+- [[Changes/Cursor/2026-01-08-enable-and-disable-mcp-servers-on-the-fly-with-mcp-enable-and-mcp-disable-comman|Enabling MCP servers]] · Apps and Integrations · Launch
+- [[Changes/Cursor/2026-01-08-added-commands-to-create-new-commands-and-edit-existing-commands|Added /commands to create new commands and edit existing commands]] · Editor Experience
+- [[Changes/Cursor/2026-01-08-create-new-rules-and-edit-existing-ones-directly-from-the-cli-with-the-rules-com|Rules generation and management]] · Editor Experience · Launch
+- [[Changes/Cursor/2026-01-08-added-rules-to-create-new-rules-and-edit-existing-rules|Added /rules to create new rules and edit existing rules]] · Editor Experience
+- [[Changes/Cursor/2026-01-08-added-mcp-enable-mcp-disable-commands-to-manage-mcp-servers|Added /mcp enable, /mcp disable commands to manage MCP servers]] · Apps and Integrations
+- [[Changes/Cursor/2026-01-08-3-developer-workflow-changes-in-new-cli-features-and-improved-cli|3 Developer Workflow changes in New CLI Features and Improved CLI…]] · Developer Workflow · Digest
+- [[Changes/Cursor/2026-01-08-new-agent-command-is-now-the-primary-cli-entrypoint-cursor-agent-remains-as-a-ba|New agent command is now the primary CLI entrypoint. cursor-agent remains…]] · Agent Mode
+- [[Changes/Cursor/2026-01-08-this-release-introduces-new-cli-controls-for-models-mcp-management-rules-and-com|Cursor introduces new CLI controls for models, MCP management, rules and commands…]] · Apps and Integrations · Launch
+- [[Changes/Cursor/2026-01-08-afterfileedit-hook-now-correctly-provides-old-string-with-the-file-s-previous-co|afterFileEdit hook now correctly provides old_string with the file's previous…]] · Editor Experience
+- [[Changes/Cursor/2026-01-08-mcp-server-names-with-spaces-are-now-supported-in-all-mcp-commands|MCP server names with spaces are now supported in all /mcp commands]] · Apps and Integrations
 <!-- chronolog:end -->

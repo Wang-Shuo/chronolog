@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 077397b97e20172dd5eb3ca1035964c0441047064b75be30d26d66239d124421
+machine_hash: 41151952c1870f10a8669673e6f6ef45a6d93da4bca9a417f8c12c4761242671
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   Read on macOS refusing a dragged-in screenshot, or any file the system reports…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed Bash commands the permission checker cannot fully analyze skipping the
   prompt…

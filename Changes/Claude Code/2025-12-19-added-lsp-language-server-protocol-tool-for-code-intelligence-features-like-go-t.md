@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 653f52c63abf121330a123cd0fbca0c8ba59dc74c95c012f80da8b01f6a3c9bb
+kind: change
+machine_hash: 47fa039834fe43ff0d31dff07e4cd6588305f65c1b07eb0bb7db9d03cdfacdd5
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,8 +29,9 @@ record:
   - quote: Added LSP (Language Server Protocol) tool for code intelligence features
       like go-to-definition, find references, and hover documentation
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.0.74
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-lsp-language-server-protocol-tool-for-code-intelligence-features-like-go-t
@@ -40,12 +42,11 @@ record:
     like…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-12-we-ve-been-using-them-for-running-linters-fixing-compile-errors-and-creating-prs|We''ve
-  been using them for running linters, fixing compile errors, and creating PRs…]]'
-- '[[Changes/Cursor/2025-11-21-you-can-now-find-and-fix-bugs-directly-in-cursor-with-ai-code-reviews-it-will-lo|Find
-  and fix bugs directly in Cursor with AI code reviews]]'
-- '[[Changes/Cursor/2025-12-10-debug-mode-helps-you-reproduce-and-fix-the-most-tricky-bugs|Debug
-  Mode helps you reproduce and fix the most tricky bugs]]'
+- '[[Changes/Cursor/2025-10-29-3-developer-workflow-changes-in-2-0|3 Developer Workflow
+  changes in 2.0]]'
+- '[[Changes/Cursor/2025-12-10-ask-mode-can-use-a-read-only-terminal-to-get-better-answers-like-checking-git-co|Ask
+  Mode can use a read-only terminal to get better answers, like checking git commits]]'
+- '[[Changes/Cursor/2025-12-10-debug-mode|Debug Mode]]'
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10|claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10]]'
 source_type: github_releases
 theme: developer-workflow
@@ -68,17 +69,17 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2025-12-19-added-syntax-highlighting-info-to-theme-picker|Added syntax highlighting info to theme picker]] · Interface Experience
-- [[Changes/Claude Code/2025-12-19-added-ctrl-t-shortcut-in-theme-to-toggle-syntax-highlighting-on-off|Added ctrl+t shortcut in /theme to toggle syntax highlighting on/off]] · Interface Experience
 - [[Changes/Claude Code/2025-12-19-added-terminal-setup-support-for-kitty-alacritty-zed-and-warp-terminals|Added /terminal-setup support for Kitty, Alacritty, Zed, and Warp terminals]] · Developer Workflow
+- [[Changes/Claude Code/2025-12-19-2-interface-experience-changes-in-v2-0-74|2 Interface Experience changes in v2.0.74]] · Interface Experience
 - [[Changes/Claude Code/2025-12-19-added-guidance-for-macos-users-when-alt-shortcuts-fail-due-to-terminal-configura|Added guidance for macOS users when Alt shortcuts fail due to terminal configuration]] · Mobile and Desktop
+- [[Changes/Claude Code/2025-12-19-improved-context-command-visualization-with-grouped-skills-and-agents-by-source|Improved /context command visualization with grouped skills and agents by source…]] · Context Window
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-debug-mode-helps-you-reproduce-and-fix-the-most-tricky-bugs|Debug Mode helps you reproduce and fix the most tricky bugs]]
-- Later: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-use-the-new-agent-models-command-list-models-flag-or-models-slash-command-to-lis|Use the new agent models command, --list-models flag, or /models slash command…]]
+- Earlier: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-debug-mode|Debug Mode]]
+- Later: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-3-developer-workflow-changes-in-new-cli-features-and-improved-cli|3 Developer Workflow changes in New CLI Features and Improved CLI…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 6c8af09eac04f70ef0c33613bd13636263246b989a1a5ac25563f1d0c9c0d775
+kind: launch
+machine_hash: 3d62af56b5638589c3944a06cb7340a66ea275f323705a8aae12e78d883c5c4d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,8 +40,9 @@ record:
       plan before it begins, and track progress with the ability to adjust direction
       mid-run.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-introducing-improvements-to-deep-research-in-chatgpt-to-help-produce-more
@@ -61,26 +63,26 @@ record:
     - apps
     score: 50
     theme: apps-integrations
-  title: ChatGPT introduces improvements to deep research to help produce more accurate…
+  title: Updates to deep research
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-29-changed-merged-pull-requests-to-show-a-purple-status-indicator-in-the-prompt-foo|Changed
-  merged pull requests to show a purple status indicator in the prompt footer]]'
-- '[[Changes/ChatGPT/2026-01-30-responses-in-chatgpt-are-now-more-visual-and-easier-to-scan-for-everyday-questio|Responses
-  in ChatGPT are now more visual and easier to scan]]'
-- '[[Changes/Claude Code/2026-02-06-improved-error-messages-for-api-connection-failures-now-shows-specific-cause-e-g|Improved
-  error messages for API connection failures]]'
+- '[[Changes/ChatGPT/2026-01-30-responses-in-chatgpt-are-now-more-visual-and-easier-to-scan-for-everyday-questio|More
+  visual responses]]'
+- '[[Changes/Claude Code/2026-02-05-vscode-added-spinner-when-loading-past-conversations-list|VSCode:
+  Added spinner when loading past conversations list]]'
+- '[[Changes/Claude Code/2026-02-06-2-interface-experience-changes-in-v2-1-33|2 Interface
+  Experience changes in v2.1.33]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-10-updates-to-deep-research-d407d051|chatgpt-2026-02-10-updates-to-deep-research-d407d051]]'
 source_type: chatgpt_changelog
 theme: interface-experience
-title: ChatGPT introduces improvements to deep research to help produce more accurate…
+title: Updates to deep research
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT introduces improvements to deep research to help produce more accurate…
+# Updates to deep research
 
-**ChatGPT** · 2026-02-10 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-10-updates-to-deep-research-d407d051|Updates to deep research]]
+**ChatGPT** · 2026-02-10 · [[Themes/interface-experience|Interface Experience]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-10-updates-to-deep-research-d407d051|Updates to deep research]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -96,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-06 · Claude Code · [[Changes/Claude Code/2026-02-06-improved-error-messages-for-api-connection-failures-now-shows-specific-cause-e-g|Improved error messages for API connection failures]]
+- Earlier: 2026-02-06 · Claude Code · [[Changes/Claude Code/2026-02-06-2-interface-experience-changes-in-v2-1-33|2 Interface Experience changes in v2.1.33]]
 - Later: 2026-02-10 · Claude Code · [[Changes/Claude Code/2026-02-10-improved-terminal-rendering-performance|Improved terminal rendering performance]]
 <!-- chronolog:end -->
 

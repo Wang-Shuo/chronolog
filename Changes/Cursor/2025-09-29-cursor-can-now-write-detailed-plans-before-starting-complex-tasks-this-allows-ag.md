@@ -4,8 +4,8 @@ date: '2025-09-29'
 description: 'Cursor · 2025-09-29 · Agent Mode: Cursor can now write detailed plans
   before starting complex tasks. This allows agents to run for significantly longer.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 816
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: b4a260c4a306f75a93cc09046d88c0d423d3c595bd46b9fad45a4b301112eabf
+kind: launch
+machine_hash: 1dd437ca8423974d25f2a71fa25cd4954a29caef3404e960075c0a099b89f350
 product: cursor
 product_name: Cursor
 record:
@@ -30,34 +31,33 @@ record:
   - quote: Cursor can now write detailed plans before starting complex tasks. This
       allows agents to run for significantly longer.
     source_release: https://cursor.com/changelog/1-7
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: cursor-can-now-write-detailed-plans-before-starting-complex-tasks-this-allows-ag
+  slug: plan-mode
   source_release: cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae
   source_type: cursor_changelog
   theme: agent-mode
-  title: Cursor can now write detailed plans before starting complex tasks
+  title: Plan Mode
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-21-you-can-now-start-background-agents-directly-from-linear-delegate-tasks-to-curso|Start
-  Background Agents directly from Linear]]'
-- '[[Changes/Cursor/2025-08-21-get-native-os-notifications-when-an-agent-run-finishes-or-when-input-is-required|Get
-  native OS notifications when an agent run finishes or when input is required…]]'
 - '[[Changes/ChatGPT/2025-09-29-we-re-introducing-instant-checkout-in-chatgpt-and-the-agentic-commerce-protocol-8cbf19|ChatGPT
   introduces Instant Checkout and the Agentic Commerce Protocol that powers…]]'
+- '[[Changes/ChatGPT/2025-09-29-agentic-commerce-protocol|Agentic Commerce Protocol]]'
+- '[[Changes/Cursor/2025-09-29-hooks-beta|Hooks (beta)]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Cursor can now write detailed plans before starting complex tasks
+title: Plan Mode
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Cursor can now write detailed plans before starting complex tasks
+# Plan Mode
 
-**Cursor** · 2025-09-29 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/1-7) · from [[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|Browser Controls, Plan Mode, and Hooks]]
+**Cursor** · 2025-09-29 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://cursor.com/changelog/1-7) · from [[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|Browser Controls, Plan Mode, and Hooks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -69,23 +69,38 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2025-09-29-when-writing-prompts-autocomplete-suggestions-will-appear-based-on-recent-change|When writing prompts, autocomplete suggestions will appear based on recent changes]] · Editor Experience
-- [[Changes/Cursor/2025-09-29-agent-can-take-screenshots-improve-ui-and-debug-client-issues-read-more-about-br|Agent can take screenshots, improve UI, and debug client issues]] · Agent Mode
-- [[Changes/Cursor/2025-09-29-use-hooks-to-audit-agent-usage-block-commands-or-redact-secrets-from-context-it|Use Hooks to audit Agent usage, block commands, or redact secrets from context]] · Apps and Integrations
-- [[Changes/Cursor/2025-09-29-you-can-now-observe-control-and-extend-the-agent-loop-using-custom-scripts-hooks|Observe, control, and extend the Agent loop using custom scripts]] · Agent Mode
+- [[Changes/Cursor/2025-09-29-hooks-beta|Hooks (beta)]] · Agent Mode
+- [[Changes/Cursor/2025-09-29-when-writing-prompts-autocomplete-suggestions-will-appear-based-on-recent-change|Autocomplete for Agent]] · Editor Experience
+- [[Changes/Cursor/2025-09-29-share-prompts-with-deeplinks-beta|Share prompts with deeplinks (beta)]] · Collaboration
+- [[Changes/Cursor/2025-09-29-1-7-4-shift-tab-shortcut-improvements|1.7.4: Shift+Tab shortcut improvements]] · Editor Experience
+- [[Changes/Cursor/2025-09-29-team-rules|Team rules]] · Collaboration
+- [[Changes/Cursor/2025-09-29-1-7-20-web-search-auto-accept-setting|1.7.20: Web search auto-accept setting]] · Search and Browsing
+- [[Changes/Cursor/2025-09-29-monitor-agents-from-menubar|Monitor Agents from menubar]] · Agent Mode
+- [[Changes/Cursor/2025-09-29-5-agent-mode-changes-in-1-7|5 Agent Mode changes in 1.7]] · Agent Mode
+- [[Changes/Cursor/2025-09-29-agent-can-take-screenshots-improve-ui-and-debug-client-issues-read-more-about-br|Browser Controls]] · Agent Mode
+- [[Changes/Cursor/2025-09-29-1-7-24-team-deeplinks-and-hooks-improvements|1.7.24: Team deeplinks and hooks improvements]] · Collaboration
+- [[Changes/Cursor/2025-09-29-4-apps-and-integrations-changes-in-1-7|4 Apps and Integrations changes in 1.7]] · Apps and Integrations
+- [[Changes/Cursor/2025-09-29-7-developer-workflow-changes-in-1-7|7 Developer Workflow changes in 1.7]] · Developer Workflow
+- [[Changes/Cursor/2025-09-29-8-reliability-and-performance-changes-in-1-7|8 Reliability and Performance changes in 1.7]] · Reliability and Performance
+- [[Changes/Cursor/2025-09-29-pr-summaries-from-bugbot|PR summaries from Bugbot]] · Editor Experience
+- [[Changes/Cursor/2025-09-29-sandboxed-terminals|Sandboxed terminals]] · Safety and Privacy
+- [[Changes/Cursor/2025-09-29-on-windows-agent-now-correctly-uses-powershell-on-macos-and-linux-powershell-wil|On Windows, Agent now correctly uses PowerShell]] · Mobile and Desktop
+- [[Changes/Cursor/2025-09-29-image-file-support-for-agent|Image file support for Agent]] · Agent Mode
+- [[Changes/Cursor/2025-09-29-1-7-45-model-picker-ux|1.7.45: Model picker UX]] · Interface Experience
+- [[Changes/Cursor/2025-09-29-1-7-41-token-sync-improvements-for-authentication|1.7.41: Token sync improvements for authentication]] · Account and Access
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-we-re-introducing-instant-checkout-in-chatgpt-and-the-agentic-commerce-protocol-8cbf19|ChatGPT introduces Instant Checkout and the Agentic Commerce Protocol that powers…]]
-- Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-run-up-to-eight-agents-in-parallel-on-a-single-prompt-this-uses-git-worktrees-or|Run up to eight agents in parallel on a single prompt]]
+- Earlier: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-agentic-commerce-protocol|Agentic Commerce Protocol]]
+- Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-improved-agent-harness|Improved Agent Harness]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 408aaa31be8600f5aea81d049a7bf0143aec1aa7ab1ebf1bd021c982d14b0131
+machine_hash: 7636294cbe24bf8403697bde34c4c11e1cc0d83266db89452f093d4291167c98
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   chat!]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-12-0-2-48-nightly-https-cursor-com-changelog-0-2-48-nightly-d738eefc|cursor-2023-07-12-0-2-48-nightly-https-cursor-com-changelog-0-2-48-nightly-d738eefc]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: Semantic search in Cmd-Shift-F
 type: change

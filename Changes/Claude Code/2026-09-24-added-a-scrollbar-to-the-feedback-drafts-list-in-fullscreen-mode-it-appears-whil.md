@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 093ff37b4dd930de12a4b0202caff6e77cefb0819c801c268191f4d7d5afe7f4
+machine_hash: d1fa5973400efb0c4acc1a467a7ed9bdbdf3c1cc9ae30422867a5eaa609dec89
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   is now available in Microsoft Word]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4|claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added a scrollbar to the /feedback drafts list in fullscreen mode
 type: change

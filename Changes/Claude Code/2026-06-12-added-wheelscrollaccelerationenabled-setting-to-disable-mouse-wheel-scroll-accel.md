@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 286649c54770b6dfb455e76706a70f234bcc2831c311343301fc770a6565ffd8
+kind: change
+machine_hash: e59a47feb5824c1ffa9ca3b85785b0d6da20f72e78e67f494d26e3375ee15411
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added `wheelScrollAccelerationEnabled` setting to disable mouse-wheel scroll
       acceleration in fullscreen mode
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.174
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-wheelscrollaccelerationenabled-setting-to-disable-mouse-wheel-scroll-accel
@@ -40,9 +42,9 @@ record:
   title: Added `wheelScrollAccelerationEnabled` setting to disable mouse-wheel scroll…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-08-table-of-contents-in-longer-conversations-conversations-longer-than-five-respons|Table
-  of contents in longer conversations]]'
-- '[[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed|We’re
+- '[[Changes/Claude Code/2026-06-08-2-interface-experience-changes-in-v2-1-169|2 Interface
+  Experience changes in v2.1.169]]'
+- '[[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed-b05795|We’re
   updating the model picker to make it easier to choose the balance of speed…]]'
 - '[[Changes/Claude Code/2026-06-12-added-footerlinksregexes-setting-for-regex-matched-link-badges-in-the-footer-row|Added
   footerLinksRegexes setting for regex-matched link badges in the footer row…]]'

@@ -4,8 +4,8 @@ date: '2024-04-29'
 description: 'ChatGPT · 2024-04-29 · Memory and Personalization: Memory is now available
   to all ChatGPT Plus users, except in Europe Korea where we will be rolling it out…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 284
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 2e9d1f797293771962cd415f0639de964bfce4f4729fdbb5e55a0c00ea386494
+kind: expansion
+machine_hash: 5ee82d77d8bb5392c51ad4c5dd5acd26a83364a1aa916ba382ce0f3a169016c0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,8 +37,9 @@ record:
       chat and tell ChatGPT anything you’d like it to remember.Memory can be turned
       on or off in settings. Team, Enterprise, and GPTs to come.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: expansion
   product: chatgpt
   product_name: ChatGPT
   slug: memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w
@@ -57,28 +59,26 @@ record:
     - enterprise
     score: 50
     theme: enterprise-admin
-  title: Memory is now available to all ChatGPT Plus users, except in Europe Korea
-    where we…
+  title: Memory is now available to Plus users
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg|We
-  no longer store any full files in memory and prevent users from @''ing very large…]]'
 - '[[Changes/Cursor/2023-09-07-this-should-reduce-any-significant-memory-issues-that-users-have-been-experienci|This
   should reduce any significant memory issues that users have been experiencing]]'
-- '[[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|We’re
-  testing memory with ChatGPT]]'
+- '[[Changes/Cursor/2023-09-08-better-state-management-prevents-crashes-from-editor-using-too-much-memory|Better
+  state management - prevents crashes from editor using too much memory]]'
+- '[[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|Memory
+  and new controls for ChatGPT]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-04-29-memory-is-now-available-to-plus-users-4ba2f306|chatgpt-2024-04-29-memory-is-now-available-to-plus-users-4ba2f306]]'
 source_type: chatgpt_changelog
 theme: memory
-title: Memory is now available to all ChatGPT Plus users, except in Europe Korea where
-  we…
+title: Memory is now available to Plus users
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Memory is now available to all ChatGPT Plus users, except in Europe Korea where we…
+# Memory is now available to Plus users
 
-**ChatGPT** · 2024-04-29 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-04-29-memory-is-now-available-to-plus-users-4ba2f306|Memory is now available to Plus users]]
+**ChatGPT** · 2024-04-29 · [[Themes/memory|Memory and Personalization]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-04-29-memory-is-now-available-to-plus-users-4ba2f306|Memory is now available to Plus users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -94,14 +94,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2024-02-13 · ChatGPT · [[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|We’re testing memory with ChatGPT]]
-- Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-crashes-enhanced-stability-through-memory-and-performance-improvements-with-addi|Crashes: Enhanced stability through memory and performance improvements…]]
+- Earlier: 2024-02-13 · ChatGPT · [[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|Memory and new controls for ChatGPT]]
+- Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-2-memory-and-personalization-changes-in-0-46-x|2 Memory and Personalization changes in 0.46.x]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9232bb37c927855ce89a72efff01a0adffad091c60117189f2f44635102667e9
+machine_hash: c338cedfc42154b2f11bdca37ebad31747b928b2ce850d7c6aabc55fec9682f4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,6 +50,7 @@ related_changes:
   on macOS, wildcard read-deny rules (e.g. /.env) now take precedence…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-21-updates-to-chatgpt-on-ios-148662ce|chatgpt-2026-08-21-updates-to-chatgpt-on-ios-148662ce]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: safety-privacy
 title: Available in the ChatGPT app for iOS
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9946c3dfb34edc05da3f4cfee89c437cb4b24dec90089e4eaa2c8ee691743fcb
+machine_hash: 7b65ef20b925ae583a9804673fffec988b4c5d4586ed36f14b293922ac567d94
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   new doc" experience]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-07-0-2-44-https-cursor-com-changelog-0-2-44-d76d2226|cursor-2023-07-07-0-2-44-https-cursor-com-changelog-0-2-44-d76d2226]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: AI will respond with citations when you reference docs
 type: change

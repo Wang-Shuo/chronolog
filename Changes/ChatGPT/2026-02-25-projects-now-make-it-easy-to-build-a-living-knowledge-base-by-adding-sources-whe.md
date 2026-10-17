@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-02-25 · Context Window: Projects now make it easy
   build a living knowledge base by adding sources wherever your context already lives;
   from…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
-    prompt length for project generation]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1028
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 11fb45c3dd7a6f3e52d29c5d697354bcf3e10be4ddbd4afbce60c66231574170
+kind: change
+machine_hash: 38cc7718973a171ef535e5b147e2d347e2b05cf4e9b24884d2b979a82b889c52
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,8 +33,9 @@ record:
       wherever your context already lives; from apps, conversations, or quick text
       inputs.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: projects-now-make-it-easy-to-build-a-living-knowledge-base-by-adding-sources-whe
@@ -53,10 +55,10 @@ record:
   title: Projects now make it easy to build a living knowledge base by adding sources…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-13-improved-rename-to-auto-generate-session-name-from-conversation-context-when-cal|Improved
-  /rename to auto-generate session name from conversation context…]]'
-- '[[Changes/ChatGPT/2026-02-20-chatgpt-now-has-a-total-context-window-length-of-256k-tokens-128k-input-and-128k|ChatGPT
-  now has a total context window length of 256k tokens…]]'
+- '[[Changes/Claude Code/2026-02-20-2-context-window-changes-in-v2-1-50|2 Context
+  Window changes in v2.1.50]]'
+- '[[Changes/Claude Code/2026-02-24-tool-results-larger-than-50k-characters-are-now-persisted-to-disk-previously-100|Tool
+  results larger than 50K characters are now persisted to disk (previously 100K)]]'
 - '[[Changes/ChatGPT/2026-02-25-ad-hoc-text-sources-paste-notes-briefs-or-reference-material-directly-to-capture|Ad-hoc
   text sources]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292|chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292]]'
@@ -89,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-02-20 · ChatGPT · [[Changes/ChatGPT/2026-02-20-chatgpt-now-has-a-total-context-window-length-of-256k-tokens-128k-input-and-128k|ChatGPT now has a total context window length of 256k tokens…]]
-- Later: 2026-03-05 · ChatGPT · [[Changes/ChatGPT/2026-03-05-gpt-5-4-brings-together-the-best-of-our-recent-advances-in-reasoning-coding-and|GPT‑5.4 brings together the best of our recent advances in reasoning, coding…]]
+- Earlier: 2026-02-24 · Claude Code · [[Changes/Claude Code/2026-02-24-tool-results-larger-than-50k-characters-are-now-persisted-to-disk-previously-100|Tool results larger than 50K characters are now persisted to disk (previously 100K)]]
+- Later: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-2-context-window-changes-in-2-6|2 Context Window changes in 2.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

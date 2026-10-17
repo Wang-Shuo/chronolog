@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 72b5caf6c727ae58dfb179eb641240aa24eb697014b659ec52d346a713404e09
+machine_hash: 55d0142e7588c18bbb985f3c596d1217f64779fb047d5eb6b7c657be3fbeabd0
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   introduces new CLI controls for models, MCP management, rules and commands…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-2-github-275344737-27089666|claude-code-2026-01-09-v2-1-2-github-275344737-27089666]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added FORCE_AUTOUPDATE_PLUGINS environment variable to allow plugin autoupdate…
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 204d7a9caa03b18eef1abdc49a87ab358db3081361a969c82f2ed69380ee9eb5
+machine_hash: 85875cc42282de56e93d8631832bf8968d9132fb005a8200e08c0cdce0188ba7
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   remote and scheduled sessions failing…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f|claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed concurrent sessions silently reverting each other's ~/.claude.json changes
 type: change

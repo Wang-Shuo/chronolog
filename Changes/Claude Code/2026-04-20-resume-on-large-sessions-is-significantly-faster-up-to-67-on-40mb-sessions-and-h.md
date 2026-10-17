@@ -15,9 +15,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 595c5494f14fdc01131adbd62ffa7ff138d7f2c97c4cdd1801bab40ac59d58da
+kind: change
+machine_hash: 47a7e65ce2eda12e4b2856b0e34e778a3d12da786d9afd5207632bf5966426a5
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
   - quote: '`/resume` on large sessions is significantly faster (up to 67% on 40MB+
       sessions) and handles sessions with many dead-fork entries more efficiently'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.116
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: resume-on-large-sessions-is-significantly-faster-up-to-67-on-40mb-sessions-and-h
@@ -43,12 +45,12 @@ record:
     sessions)…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-added-claude-stream-idle-timeout-ms-env-var-to-configure-the-streaming-idle-watc|Added
-  CLAUDE_STREAM_IDLE_TIMEOUT_MS env var to configure the streaming idle…]]'
-- '[[Changes/Claude Code/2026-04-10-improved-brief-mode-to-retry-once-when-claude-responds-with-plain-text-instead-o|Improved
-  brief mode to retry once when Claude responds with plain text instead…]]'
-- '[[Changes/Claude Code/2026-04-13-improved-stalled-api-stream-handling-streams-now-abort-after-5-minutes-of-no-dat|Improved
-  stalled API stream handling]]'
+- '[[Changes/Cursor/2026-04-13-closing-tabs-is-now-less-likely-to-glitch-the-file-tree-and-recovery-is-faster|Closing
+  tabs is now less likely to glitch the file tree, and recovery is faster]]'
+- '[[Changes/Claude Code/2026-04-14-reduced-memory-footprint-for-file-reads-edits-and-syntax-highlighting-by-loading|Reduced
+  memory footprint for file reads, edits, and syntax highlighting by loading…]]'
+- '[[Changes/Claude Code/2026-04-17-improved-ultrareview-faster-launch-with-parallelized-checks-diffstat-in-the-laun|Improved
+  /ultrareview: faster launch with parallelized checks, diffstat…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e|claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e]]'
 source_type: github_releases
 theme: reliability-performance
@@ -71,17 +73,18 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-04-20-config-search-now-matches-option-values-e-g-searching-vim-finds-the-editor-mode|/config search now matches option values…]] · Editor Experience
-- [[Changes/Claude Code/2026-04-20-thinking-spinner-now-shows-progress-inline-still-thinking-thinking-more-almost-d|Thinking spinner now shows progress inline…]] · Interface Experience
-- [[Changes/Claude Code/2026-04-20-smoother-fullscreen-scrolling-in-vs-code-cursor-and-windsurf-terminals-terminal|Smoother fullscreen scrolling in VS Code, Cursor, and Windsurf terminals]] · Interface Experience
-- [[Changes/Claude Code/2026-04-20-faster-mcp-startup-when-multiple-stdio-servers-are-configured-resources-template|Faster MCP startup when multiple stdio servers are configured]] · Apps and Integrations
+- [[Changes/Claude Code/2026-04-20-2-editor-experience-changes-in-v2-1-116|2 Editor Experience changes in v2.1.116]] · Editor Experience
+- [[Changes/Claude Code/2026-04-20-3-interface-experience-changes-in-v2-1-116|3 Interface Experience changes in v2.1.116]] · Interface Experience
+- [[Changes/Claude Code/2026-04-20-2-apps-and-integrations-changes-in-v2-1-116|2 Apps and Integrations changes in v2.1.116]] · Apps and Integrations
+- [[Changes/Claude Code/2026-04-20-security-sandbox-auto-allow-no-longer-bypasses-the-dangerous-path-safety-check-f|Security: sandbox auto-allow no longer bypasses the dangerous-path safety check…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-04-20-2-agent-mode-changes-in-v2-1-116|2 Agent Mode changes in v2.1.116]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-04-13 · Claude Code · [[Changes/Claude Code/2026-04-13-improved-stalled-api-stream-handling-streams-now-abort-after-5-minutes-of-no-dat|Improved stalled API stream handling]]
-- Later: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-added-scroll-speed-command-to-tune-mouse-wheel-scroll-speed-with-a-live-preview|Added /scroll-speed command to tune mouse wheel scroll speed with a live preview]]
+- Earlier: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-improved-ultrareview-faster-launch-with-parallelized-checks-diffstat-in-the-laun|Improved /ultrareview: faster launch with parallelized checks, diffstat…]]
+- Later: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-windows-cached-where-exe-executable-lookups-per-process-for-faster-subprocess-la|Windows: cached where.exe executable lookups per process for faster subprocess launches]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

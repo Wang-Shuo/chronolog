@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 7399ebc411ebb14dca190802e326e05573d782bfc807a8c3f78afc930e0b6d02
+kind: change
+machine_hash: b2f52273f6af8f865504e345c6995167bcc29cb113deeadea1f3645b68e0b5df
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Updated terminal title busy-spinner glyphs to reduce tab-bar jitter on
       some terminals
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.228
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: updated-terminal-title-busy-spinner-glyphs-to-reduce-tab-bar-jitter-on-some-term
@@ -51,8 +53,8 @@ record:
     terminals
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-07-add-saved-files-without-uploading-them-again-open-the-composer-menu-on-the-web-s|Add
-  saved files without uploading them again]]'
+- '[[Changes/Claude Code/2026-08-07-improved-fullscreen-mode-to-keep-the-full-pre-compaction-history-in-scrollback-a|Improved
+  fullscreen mode to keep the full pre-compaction history in scrollback…]]'
 - '[[Changes/Claude Code/2026-08-08-vscode-fixed-focus-view-folding-away-the-latest-to-do-list-a-pending-question-s|VSCode
   Fixed Focus view folding away the latest to-do list, a pending question''s…]]'
 - '[[Changes/Claude Code/2026-08-10-improved-slash-command-menu-blue-now-marks-only-the-selected-row-matched-charact|Improved
@@ -80,16 +82,17 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-08-11-improved-cross-session-messages-the-sender-and-body-now-display-inline-instead-o|Improved cross-session messages]] · Apps and Integrations
-- [[Changes/Claude Code/2026-08-11-hardened-skills-synced-from-claude-ai-they-no-longer-shadow-local-commands-or-mc|Hardened skills synced from claude.ai]] · Apps and Integrations
+- [[Changes/Claude Code/2026-08-11-2-apps-and-integrations-changes-in-v2-1-228|2 Apps and Integrations changes in v2.1.228]] · Apps and Integrations
+- [[Changes/Claude Code/2026-08-11-changed-the-write-tool-so-newer-models-can-overwrite-an-existing-file-they-haven|Changed the Write tool so newer models can overwrite an existing file they haven't…]] · Model Support
 - [[Changes/Claude Code/2026-08-11-improved-compaction-progress-the-retry-countdown-and-stall-hint-now-appear-durin|Improved compaction progress]] · Context Window
+- [[Changes/Claude Code/2026-08-11-removed-the-outdated-note-about-auto-mode-sessions-costing-slightly-more-from-th|Removed the outdated note about auto mode sessions costing slightly more…]] · Collaboration
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-10 · Claude Code · [[Changes/Claude Code/2026-08-10-improved-slash-command-menu-blue-now-marks-only-the-selected-row-matched-charact|Improved slash-command menu]]
-- Later: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-added-the-selection-clear-keybinding-action-so-a-key-can-be-bound-to-clear-an-in|Added the selection:clear keybinding action, so a key can be bound to clear…]]
+- Later: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-vscode-added-session-groups-in-the-sidebar-right-click-to-create-rename-or-delet|VSCode Added session groups in the sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

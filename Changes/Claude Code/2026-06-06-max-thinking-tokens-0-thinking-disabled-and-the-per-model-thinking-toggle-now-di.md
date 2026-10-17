@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: e87a0b1292c2389557acdaea9b610a33f18df5e7dbeba291f6ba79e5be52728a
+machine_hash: 4fe359a658afd0b400d3d2a04a6fd1a4522032ecdf17df234f501db965c1f02e
 product: claude-code
 product_name: Claude Code
 record:
@@ -63,6 +63,7 @@ related_changes:
   Code now retries a turn once on the fallback model when the API rejects…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-06-v2-1-166-github-335118845-ef990727|claude-code-2026-06-06-v2-1-166-github-335118845-ef990727]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: MAX_THINKING_TOKENS=0, --thinking disabled, and the per-model thinking toggle…
 type: change

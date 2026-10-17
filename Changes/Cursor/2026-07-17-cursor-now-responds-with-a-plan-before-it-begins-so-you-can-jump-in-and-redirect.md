@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b2df6f88eb68f887b0af0b905cd239005cce5eff47435e07438ce92d4d898b23
+machine_hash: 72c63bebda8c6ce9a0f98ca1c060f709dc23d5e5c3bc4ffcdf3c9adefd02ea22
 product: cursor
 product_name: Cursor
 record:
@@ -52,6 +52,7 @@ related_changes:
   now copies your conversation into a new background session…]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6|cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Cursor now responds with a plan before it begins, so you can jump in and redirect
   early

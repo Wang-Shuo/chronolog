@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-09-19'
 description: 'Cursor release Inline Chat on 2023-09-19: 1 tracked change across Editor
   Experience'
-machine_hash: 137c2d46b9f4e16bbd57b965641dad64f31f6381d6bb9189e322c7ed649cd875
+machine_hash: c7e8575a3b8ffaf75c59caa4b1190e56c04966f40947b226b7c1d679917bae36
 product: cursor
 product_name: Cursor
 record:
@@ -40,10 +40,10 @@ version: 0.11.0
 <!-- chronolog:begin region="summary" -->
 You can now alternate between diffs and texts responses in Cmd-K. This can be helpful for clarifying the models thinking behind a diff or for getting quick inline answers to questions about a file.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-09-19-you-can-now-alternate-between-diffs-and-texts-responses-in-cmd-k-this-can-be-hel|Alternate between diffs and texts responses in Cmd-K]] · Editor Experience
+- [[Changes/Cursor/2023-09-19-you-can-now-alternate-between-diffs-and-texts-responses-in-cmd-k-this-can-be-hel|Inline Chat]] · Editor Experience
 <!-- chronolog:end -->
