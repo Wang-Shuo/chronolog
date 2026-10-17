@@ -1,7 +1,7 @@
 ---
 created: '2022-12-15'
 date: '2026-10-14'
-machine_hash: 0f35d4f34bc15d96730fd67aa3bda31a75e392ba8c6f80bd8953ab24fb67a624
+machine_hash: 9e27cf071b8a10bdf3a2cb9a0266d1d96dce8423519a6dd12fb8c5a809d935e4
 modified: '2026-10-14'
 publication: active
 tags:
@@ -43,6 +43,8 @@ Tracked changes in ChatGPT, Claude Code and Cursor, from official release notes.
 - 2026-10-06 · Agent Mode: [[Changes/Cursor/2026-10-06-remote-control-doesn-t-move-your-agents-anywhere-it-keeps-running-on-your-comput|Agents keep running on your computer]]
 - 2026-10-06 · Enterprise and Administration: [[Changes/Cursor/2026-10-06-remote-control-is-on-by-default-for-everyone-except-enterprise-organizations|Remote Control is on by default for everyone except Enterprise organizations]]
 - 14 more in this window → [[Products/Cursor|Cursor]]
+
+All months: [[Archive/index|Archive]]
 <!-- chronolog:end -->
 
 ## Start exploring
@@ -53,9 +55,9 @@ Tracked changes in ChatGPT, Claude Code and Cursor, from official release notes.
 
 ## Products
 <!-- chronolog:begin region="products" -->
-- [[Products/ChatGPT|ChatGPT]] · 292 releases · 2022-12-15 → 2026-10-07 · 69 releases in the last 90 days
-- [[Products/Claude Code|Claude Code]] · 243 releases · 2025-12-19 → 2026-10-14 · 74 releases in the last 90 days
-- [[Products/Cursor|Cursor]] · 255 releases · 2023-03-14 → 2026-10-13 · 14 releases in the last 90 days
+- [[Products/ChatGPT|ChatGPT]] · 292 releases · 2022-12-15 → 2026-10-07 · 69 releases in the last 90 days · cadence: normal
+- [[Products/Claude Code|Claude Code]] · 243 releases · 2025-12-19 → 2026-10-14 · 74 releases in the last 90 days · cadence: normal
+- [[Products/Cursor|Cursor]] · 255 releases · 2023-03-14 → 2026-10-13 · 14 releases in the last 90 days · cadence: normal
 <!-- chronolog:end -->
 
 ## Themes

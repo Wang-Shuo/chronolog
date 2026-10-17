@@ -46,6 +46,9 @@ Quality 派发成功只表示检查已排队，不代表检查通过；合并前
 - 全部门禁通过才把候选文件写入生成分支。已有 PR 上的人工编辑会随历史读取和 M1 所有权保护保留；与主分支合并冲突或机器区冲突时停止。推送使用精确的远端 commit lease，拒绝覆盖并发修改。
 - 只有获取时间发生变化不创建或更新内容 PR。本次成功采集时间仍保存到 Actions artifact；站点展示上一次审核发布包含的获取时间，两者可能不同。
 - 根目录的 `About.md` 与 `index.md` 一样由 writer 机器维护；获取时间戳只出现在 `About.md` 和运行产物中，首页与产品页只显示发布日期区间。
+- `Archive/` 由 writer 每次运行全量生成：每个有活动卡片的月份一页（`Archive/YYYY-MM.md`），总览页是文件夹笔记 `Archive/index.md`（Quartz 把同名根页面 `Archive.md` 也渲染为文件夹页且链接基准错误，因此不用根页面）；对账后没有卡片的月份页在暂存 Vault 中删除，由事务一并删除，含人工文字的月份页保留并记入 `writer-migration-pending.json`。
+- 产品页的发布节奏（`cadence`）与首页的 `cadence:` 状态以已归档的最新发布日期为锚点，而不是执行日期，所以同一份归档在不同日期重跑不会产生内容 PR；沉默告警（`Alerts/`）仍按执行日期计算。节奏数据写在 `03c-silence/alerts.json` 的 `cadence` 键下。
+- `editorial.yaml` 可选 `key_moments: {主题: [card_id, …]}` 指定主题页 Key moments；不存在于该主题活动卡片中的 id 被忽略，并记入运行 `manifest.json` 的 `editorial_warnings`（不阻断运行）。未指定的主题使用自动选择并在表格上方注明。
 
 每次生成的核心文件：
 

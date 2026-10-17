@@ -3,7 +3,7 @@
 **评审日期：2026-10-15（Asia/Shanghai）**
 **代码基线：`main` / `5280419`**
 **线上基线：<https://wang-shuo.github.io/chronolog/>（部署自 PR #5 / #6）**
-**状态（更新于 2026-10-16）：W1 已全部上线：[PR #7](https://github.com/Wang-Shuo/chronolog/pull/7) 标题生成、[PR #8](https://github.com/Wang-Shuo/chronolog/pull/8) 页面模板、[PR #9](https://github.com/Wang-Shuo/chronolog/pull/9) 站点布局、首页与 About 页；验收记录见 `acceptance/w1-*.md`。W1 未做：og-image 与站点图标替换、浏览器与移动端截图。W2 P3 已按附录 C 的方案 B（含 B+ 试点）上线（[PR #11](https://github.com/Wang-Shuo/chronolog/pull/11)，`acceptance/w2-card-definition-2026-10-17.md`）；P9 的 `uncategorized` 保留主题见 `acceptance/w2-uncategorized-2026-10-17.md`。实施顺序见第 6 节；与 [开发与验收计划](development-plan-2026-10-13.md) 的衔接见第 7 节。**
+**状态（更新于 2026-10-16）：W1 已全部上线：[PR #7](https://github.com/Wang-Shuo/chronolog/pull/7) 标题生成、[PR #8](https://github.com/Wang-Shuo/chronolog/pull/8) 页面模板、[PR #9](https://github.com/Wang-Shuo/chronolog/pull/9) 站点布局、首页与 About 页；验收记录见 `acceptance/w1-*.md`。W1 未做：og-image 与站点图标替换、浏览器与移动端截图。W2 P3 已按附录 C 的方案 B（含 B+ 试点）上线（[PR #11](https://github.com/Wang-Shuo/chronolog/pull/11)，`acceptance/w2-card-definition-2026-10-17.md`）；P9 的 `uncategorized` 保留主题见 `acceptance/w2-uncategorized-2026-10-17.md`。 P5 / U5 / U6、P2、P7 见 `acceptance/w2-theme-pages-2026-10-17.md`。实施顺序见第 6 节；与 [开发与验收计划](development-plan-2026-10-13.md) 的衔接见第 7 节。**
 
 本文承接 M1–M3 的工程验收，只评审"读者看到的产品"：信息架构、页面模板、文案与分类质量。管线可靠性、CI 与部署门禁不在本文范围内，已在 M1/M3 记录中覆盖。
 

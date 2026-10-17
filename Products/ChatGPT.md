@@ -13,7 +13,7 @@ coverage:
   url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 created: '2022-12-15'
 date: '2026-10-07'
-machine_hash: 48b90ab4a354854798dd6153818987ab1c12b780e04db2d6624c020037bfcf28
+machine_hash: 1d30c2bd392da25149901f7dd293bf4e0db5b18ed05450c071a8b90ca4405a99
 modified: '2026-10-07'
 product: chatgpt
 product_name: ChatGPT
@@ -57,6 +57,26 @@ verbosity_baseline: 1.71
 ChatGPT's tracked history moves from a conversational interface to tool use, multimodal and persistent context, and finally delegated work. These are editorial boundaries supported by the announcements below, not divisions by release volume.
 
 Dates are changelog announcement dates, not universal availability dates. Rollouts differ by plan, region, device and admin policy. The archive begins on 2022-12-15; it does not establish the product's launch date. These selected turning points do not claim that one phase replaced all capabilities of another.
+<!-- chronolog:end -->
+
+## Release cadence
+<!-- chronolog:begin region="cadence" -->
+Last release 2026-10-07 (7 days before the archive date) · 69 releases in the last 90 days · cadence: normal
+
+Monthly releases, last 12 months (baseline 6.2 per month):
+
+- 2025-11 ▇▇▇▇▇▇▇ 11
+- 2025-12 ▇▇▇▇▇ 8
+- 2026-01 ▇▇▇▇▇ 9
+- 2026-02 ▇▇▇▇▇▇▇ 11
+- 2026-03 ▇▇▇▇▇▇▇▇▇▇ 17
+- 2026-04 ▇▇▇▇▇▇ 10
+- 2026-05 ▇▇▇▇▇▇ 10
+- 2026-06 ▇▇▇▇▇▇▇▇▇▇ 16
+- 2026-07 ▇▇▇▇▇▇▇▇▇▇▇ 18
+- 2026-08 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 26
+- 2026-09 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 33
+- 2026-10 ▇▇▇ 5
 <!-- chronolog:end -->
 
 ## Source coverage

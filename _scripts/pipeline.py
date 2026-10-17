@@ -15,9 +15,9 @@ from _scripts.analyze_b import analyze_themes
 from _scripts.collect import collect_fixture, collect_live, load_sources
 from _scripts.common import PipelinePaths, read_json, utc_timestamp, write_json
 from _scripts.extract import extract_run
-from _scripts.editorial import attach_editorial, load_editorial, source_coverage
+from _scripts.editorial import attach_editorial, key_moments, load_editorial, source_coverage
 from _scripts.history import merge_history, read_history, write_pending
-from _scripts.silence_monitor import detect_silence
+from _scripts.silence_monitor import cadence_anchor, cadence_summary, detect_silence
 from _scripts.transaction import copy_pages, files, publish, recover, snapshot, vault_lock
 from _scripts.validate import validate_cards_file, validate_vault_links
 from _scripts.writer import content_machine_hash, write_run
@@ -167,6 +167,8 @@ def run_pipeline(
             editorial = load_editorial(root)
             attach_editorial(analysis_a, releases, editorial)
             analysis_b['editorial'] = editorial.get('themes', {})
+            # Optional curated key moments; unknown ids are dropped and listed here.
+            analysis_b['key_moments'], manifest['editorial_warnings'] = key_moments(editorial, cards)
             source_states = {s['product']: s for s in collection['sources']}
             for product, info in analysis_a['products'].items():
                 page = root / 'Products' / f"{info['product_name']}.md"
@@ -174,6 +176,11 @@ def run_pipeline(
                 info['coverage'] = source_coverage(source_states.get(product),
                     [r for r in releases if r['product'] == product], previous)
             silence = detect_silence(releases, [s for s in sources if s["name"] in requested], effective_today)
+            # Cadence is measured to the newest archived release (not the clock), so the
+            # same archive renders the same product pages on any day; alerts keep the clock.
+            silence["cadence"] = cadence_summary(
+                releases, sources, cadence_anchor(releases, effective_today), silence["alerts"]
+            )
             for dest, value in ((staged.analyze_a, analysis_a), (staged.analyze_b, analysis_b),
                                 (staged.silence, silence), (paths.analyze_a, analysis_a),
                                 (paths.analyze_b, analysis_b), (paths.silence, silence)):

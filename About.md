@@ -3,7 +3,7 @@ created: '2022-12-15'
 date: '2026-10-14'
 description: Where ChronoLog's data comes from, how official release notes become
   reviewed Change Cards, what is grouped or skipped, and how to report a problem.
-machine_hash: 8092bfe4fe27443b6272abbe1b5a2939f5db47fd18661e126e48490fdcfb6bb6
+machine_hash: eaf0681d5fd214e15152855813c0c5822b9047e98c4f02090a19b197a909f18a
 modified: '2026-10-14'
 publication: active
 tags:
@@ -49,6 +49,7 @@ ChronoLog tracks announced changes in three products: ChatGPT, Claude Code and C
 - Every card has one theme from a fixed vocabulary and a kind: launch, expansion, pricing, policy, fix, digest or change.
 - Lines without a confident theme are published in an "Other changes" digest of their release and do not appear on theme pages or the home page; prose without a theme waits in a review queue. Each release page shows "Tracked N cards from M candidate lines" and how many lines wait for review.
 - Dates are announcement dates, not availability dates.
+- Cadence is measured to the newest archived release date, not the clock.
 - Relations between cards are same-theme chronology only; they never claim adoption or causation.
 <!-- chronolog:end -->
 
@@ -65,6 +66,8 @@ ChronoLog tracks announced changes in three products: ChatGPT, Claude Code and C
 - **Release**: one archived entry of an official changelog or release page; its page lists the cards tracked from it.
 - **Theme**: a category from a fixed vocabulary that groups cards across products.
 - **Era**: a reviewed phase of one product's history, bounded by cited releases.
+- **Key moments**: on a theme page, the cards an editor selected; until then up to 12 per product are chosen automatically from launches and standalone announcements, one per quarter first and never two from one release.
+- **Cadence**: releases per month on a product page. *Quiet* means each of the last two months had fewer than half the product's average monthly releases; *silent* means no release in the last two months, which also raises a silence alert.
 - **Tracked products only**: comparisons and "earliest" statements cover only the tracked products, not the wider market.
 - **Candidate line**: a line of release text that could become part of a card; Markdown headings, code samples and very short lines are not counted. "Tracked N cards from M candidate lines" compares the cards kept with these lines.
 <!-- chronolog:end -->

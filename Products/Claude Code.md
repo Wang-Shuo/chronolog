@@ -12,7 +12,7 @@ coverage:
   url: https://api.github.com/repos/anthropics/claude-code/releases
 created: '2025-12-19'
 date: '2026-10-14'
-machine_hash: bc3b1f494b94d59533843a4745c28b4fd2cdf1e29af70b759c52355ba54b8403
+machine_hash: a5ca0cbf328f59fff28fc958dea33fec75686696ed2b028bd72bca2218671296
 modified: '2026-10-14'
 product: claude-code
 product_name: Claude Code
@@ -52,6 +52,26 @@ verbosity_baseline: 6.91
 ## Research summary
 <!-- chronolog:begin region="narrative" -->
 The release archive records announced changes; a reviewed phase narrative is not yet available.
+<!-- chronolog:end -->
+
+## Release cadence
+<!-- chronolog:begin region="cadence" -->
+Last release 2026-10-14 (the archive date) · 74 releases in the last 90 days · cadence: normal
+
+Monthly releases, last 12 months (baseline 23.1 per month):
+
+- 2025-11 · not archived
+- 2025-12 ▇ 2
+- 2026-01 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 23
+- 2026-02 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 26
+- 2026-03 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 20
+- 2026-04 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 27
+- 2026-05 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 28
+- 2026-06 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 29
+- 2026-07 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 22
+- 2026-08 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 27
+- 2026-09 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 27
+- 2026-10 ▇▇▇▇▇▇▇▇ 12
 <!-- chronolog:end -->
 
 ## Source coverage

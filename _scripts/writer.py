@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import math
 import re
 import sys
 from collections import Counter, defaultdict
@@ -30,6 +31,7 @@ from _scripts.extract import (
     HOLDING_THEMES,
     KIND_LABELS,
     UNCATEGORIZED_THEME,
+    is_high_signal,
     load_theme_vocabulary,
     split_release_lines,
 )
@@ -87,7 +89,14 @@ DESCRIPTION_MAX_CHARS = 160
 SKELETON_HEADINGS = {
     "change": frozenset({"## Editor Notes"}),
     "release": frozenset({"## Summary", "## Change Cards"}),
-    "theme": frozenset({"## Research summary", "## Cross-Product Timeline", "## Change Cards"}),
+    # Pre-W2 headings plus the current ones (Key moments, Timeline), so an untouched
+    # legacy theme page is replaced and later renders stay idempotent.
+    "theme": frozenset({
+        "## Research summary", "## Cross-Product Timeline", "## Change Cards",
+        "## Key moments", "## Timeline",
+    }),
+    # Archive pages (W2): every line is inside a machine region.
+    "archive": frozenset(),
     # Home page: the pre-W1 headings and lead paragraph, plus the current headings, so
     # an untouched legacy index is replaced and later renders stay idempotent.
     "index": frozenset({
@@ -99,6 +108,7 @@ SKELETON_HEADINGS = {
     }),
 }
 MIGRATION_PENDING_REASON = "legacy skeleton with human text; manual migration needed"
+ARCHIVE_KEPT_REASON = "archive month without active cards; kept because it has human text"
 
 
 def machine_region(region: str, content: str) -> str:
@@ -139,7 +149,7 @@ def content_machine_hash(markdown: str) -> str:
 
 
 def ensure_vault_dirs(root: Path) -> None:
-    for name in ["Products", "Changes", "Releases", "Themes", "Alerts"]:
+    for name in ["Products", "Changes", "Releases", "Themes", "Alerts", "Archive"]:
         (root / name).mkdir(parents=True, exist_ok=True)
 
 
@@ -154,6 +164,8 @@ def page_type(metadata: dict[str, Any]) -> str | None:
         return "theme"
     if "index" in tags:
         return "index"
+    if "archive" in tags:
+        return "archive"
     return None
 
 
@@ -289,16 +301,40 @@ def merge_page_body(
     return merged
 
 
+# Reading sections inserted into pages that are not migrated (product pages), with
+# their headings. A section listed in INSERTED_AFTER goes right after that region when
+# the page has it; the others go before the first existing ``## `` section.
+INSERTED_SECTIONS = {
+    "featured": "Start exploring",
+    "coverage": "Source coverage",
+    "narrative": "Research summary",
+    "cadence": "Release cadence",
+}
+INSERTED_AFTER = {"cadence": "narrative"}
+
+
+def region_end(body: str, region: str) -> int:
+    """Offset just after the end marker of ``region``; -1 when the body lacks it."""
+    match = re.search(
+        rf"<!-- chronolog:begin region=\"{re.escape(region)}\" -->.*?<!-- chronolog:end -->",
+        body,
+        re.S,
+    )
+    return match.end() if match else -1
+
+
 def merge_machine_regions(body: str, rendered_regions: dict[str, str]) -> str:
     for region, content in rendered_regions.items():
-        if region not in extract_machine_regions(body) and region in {'featured', 'coverage', 'narrative'}:
+        if region not in extract_machine_regions(body) and region in INSERTED_SECTIONS:
             # Insert new reading sections before long existing archives, preserving
             # all original human text. Subsequent runs replace just this region.
-            heading = {'featured': 'Start exploring', 'coverage': 'Source coverage',
-                       'narrative': 'Research summary'}[region]
+            heading = INSERTED_SECTIONS[region]
             section = f"## {heading}\n{machine_region(region, content)}\n\n"
+            after = region_end(body, INSERTED_AFTER[region]) if region in INSERTED_AFTER else -1
             position = body.find('\n## ')
-            if position >= 0:
+            if after >= 0:
+                body = body[:after] + "\n\n" + section.rstrip("\n") + body[after:]
+            elif position >= 0:
                 body = body[:position + 1] + section + body[position + 1:]
             else:
                 body = body.rstrip() + '\n\n' + section
@@ -458,29 +494,225 @@ def editorial_lead(editorial: str) -> str:
     return " ".join(text.split())
 
 
+SCOPE_NOTE = (
+    "Scope: tracked-products-only. Entries show same-theme chronology; "
+    "they do not establish equivalent capabilities, adoption, or causation."
+)
+# Kinds labelled in theme timelines; expansion, fix and plain changes are not.
+TIMELINE_KINDS = ("launch", "pricing", "policy", "digest")
+KEY_MOMENTS_PER_PRODUCT = 12
+KEY_MOMENTS_TOTAL = 30
+AUTO_MOMENTS_CAPTION = "Auto-selected; edit `key_moments` in editorial.yaml to curate."
+
+
+def scope_callout() -> str:
+    """The collapsed reading note shared by timeline pages (U6)."""
+    return f"> [!info]- How to read this timeline\n> {SCOPE_NOTE}"
+
+
+def table_link(card: dict[str, Any], card_targets: dict[str, str] | None = None) -> str:
+    """``card_link`` with the alias pipe escaped, for a Markdown table cell."""
+    return card_link(card, card_targets).replace("|", "\\|", 1)
+
+
+def entries(count: int) -> str:
+    return f"{count:,} entry" if count == 1 else f"{count:,} entries"
+
+
+def granularity_note(product_names: list[str], verbosity: dict[str, float] | None) -> str:
+    """``Claude Code averages 6.9 cards per release, Cursor 4.0, ChatGPT 1.7``.
+
+    Uses each product's ``verbosity_baseline`` (cards per release with cards), most
+    granular first; products without a baseline are left out."""
+    known = sorted(
+        ((name, float((verbosity or {})[name])) for name in product_names
+         if (verbosity or {}).get(name)),
+        key=lambda item: (-item[1], item[0]),
+    )
+    if not known:
+        return ""
+    (name, value), rest = known[0], known[1:]
+    return f"{name} averages {value:.1f} cards per release" + "".join(
+        f", {other} {other_value:.1f}" for other, other_value in rest
+    )
+
+
+def moment_tier(card: dict[str, Any]) -> int | None:
+    """Auto-selection rank of a card as a key moment; ``None`` when it is not one.
+
+    0: kind ``launch``; 1: a standalone announcement (``high_signal`` when recorded,
+    otherwise a title or first quote matching the B+ high-signal patterns). Digest, fix
+    and holding-theme cards never qualify; the machine impact level is a keyword
+    heuristic and is not used."""
+    kind = str(card.get("kind") or "change")
+    if kind in {"digest", "fix"} or card.get("theme") in HOLDING_THEMES:
+        return None
+    if kind == "launch":
+        return 0
+    quote = str(card["evidence"][0]["quote"]) if card.get("evidence") else ""
+    if card.get("high_signal") is True or is_high_signal(str(card.get("title", ""))) \
+            or is_high_signal(quote):
+        return 1
+    return None
+
+
+def auto_key_moments(cards: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    """Key moments of one theme without an editorial list, spread over time.
+
+    Candidates (``moment_tier``) keep one card per release. Per product, the best card
+    of each quarter that has a candidate is taken, newest quarter first (best rank, then
+    newest), up to ``KEY_MOMENTS_PER_PRODUCT``; remaining slots go to the next best
+    candidates, newest first. Above ``KEY_MOMENTS_TOTAL`` overall, the oldest moment of
+    the product with the most moments is dropped until the total fits."""
+    def rank(card: dict[str, Any]) -> tuple[int, int, str]:
+        return (
+            moment_tier(card) or 0,  # only candidates are ranked
+            -date.fromisoformat(card["date"]).toordinal(),
+            card["card_id"],
+        )
+
+    best: dict[tuple[str, str], dict[str, Any]] = {}
+    for card in cards:
+        if moment_tier(card) is None:
+            continue
+        key = (card["product"], str(card.get("source_release", card["card_id"])))
+        if key not in best or rank(card) < rank(best[key]):
+            best[key] = card
+    by_product: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for card in best.values():
+        by_product[card["product"]].append(card)
+
+    selected: dict[str, list[dict[str, Any]]] = {}
+    for product, candidates in by_product.items():
+        quarters: dict[str, list[dict[str, Any]]] = defaultdict(list)
+        for card in candidates:
+            quarters[quarter_label(card["date"])].append(card)
+        picks = [min(quarters[quarter], key=rank) for quarter in sorted(quarters, reverse=True)]
+        picks = picks[:KEY_MOMENTS_PER_PRODUCT]
+        chosen = {card["card_id"] for card in picks}
+        rest = sorted((card for card in candidates if card["card_id"] not in chosen), key=rank)
+        selected[product] = picks + rest[: KEY_MOMENTS_PER_PRODUCT - len(picks)]
+
+    def oldest(card: dict[str, Any]) -> tuple[str, str]:
+        return (card["date"], card["card_id"])
+
+    while sum(len(moments) for moments in selected.values()) > KEY_MOMENTS_TOTAL:
+        most = max(len(moments) for moments in selected.values())
+        # Among products tied for the most moments, trim the one holding the oldest.
+        product = min(
+            (name for name, moments in selected.items() if len(moments) == most),
+            key=lambda name: (min(map(oldest, selected[name])), name),
+        )
+        selected[product].remove(min(selected[product], key=oldest))
+    return sorted(
+        (card for moments in selected.values() for card in moments),
+        key=lambda card: (card["date"], card["card_id"]),
+        reverse=True,
+    )
+
+
+def quarter_label(day: str) -> str:
+    return f"{day[:4]} Q{(int(day[5:7]) - 1) // 3 + 1}"
+
+
+def key_moments_table(
+    moments: list[dict[str, Any]],
+    product_names: list[str],
+    card_targets: dict[str, str] | None,
+) -> str:
+    """One row per quarter with a key moment, newest first; one column per product."""
+    rows: dict[str, dict[str, list[dict[str, Any]]]] = defaultdict(lambda: defaultdict(list))
+    for card in moments:
+        rows[quarter_label(card["date"])][card["product_name"]].append(card)
+    lines = [
+        "| Quarter | " + " | ".join(product_names) + " |",
+        "| --- |" + " --- |" * len(product_names),
+    ]
+    for quarter in sorted(rows, reverse=True):
+        cells = []
+        for name in product_names:
+            items = sorted(rows[quarter][name], key=lambda card: (card["date"], card["card_id"]),
+                           reverse=True)
+            cells.append(
+                "<br>".join(f"{card['date']} {table_link(card, card_targets)}" for card in items)
+                or "·"
+            )
+        lines.append(f"| {quarter} | " + " | ".join(cells) + " |")
+    return "\n".join(lines)
+
+
+def theme_timeline(cards: list[dict[str, Any]], card_targets: dict[str, str] | None) -> str:
+    """Every card of a theme, newest first, under year (with counts) and month headings."""
+    if not cards:
+        return "No changes yet."
+    lines: list[str] = []
+    for year in sorted({card["date"][:4] for card in cards}, reverse=True):
+        year_cards = [card for card in cards if card["date"].startswith(year)]
+        counts = Counter(card["product_name"] for card in year_cards)
+        breakdown = " · ".join(f"{name} {counts[name]:,}" for name in sorted(counts))
+        lines.extend([f"### {year} · {entries(len(year_cards))} ({breakdown})", ""])
+        for month in sorted({card["date"][:7] for card in year_cards}, reverse=True):
+            month_cards = sorted(
+                (card for card in year_cards if card["date"].startswith(month)),
+                key=lambda card: (card["product_name"], card["card_id"]),
+            )
+            month_cards.sort(key=lambda card: card["date"], reverse=True)
+            lines.extend([f"#### {month}", ""])
+            for card in month_cards:
+                kind = str(card.get("kind") or "change")
+                label = f" · {KIND_LABELS[kind]}" if kind in TIMELINE_KINDS else ""
+                lines.append(
+                    f"- {card['date']} · **{card['product_name']}** · "
+                    f"{card_link(card, card_targets)}{label}"
+                )
+            lines.append("")
+    return "\n".join(lines).rstrip()
+
+
 def render_theme_markdown(
     theme: str,
     cards: list[dict[str, Any]],
     card_targets: dict[str, str] | None = None,
     editorial: str = "",
     theme_labels: dict[str, str] | None = None,
+    *,
+    verbosity: dict[str, float] | None = None,
+    key_moments: list[str] | None = None,
 ) -> str:
+    """Theme page: header with counts and granularity, research summary, key moments,
+    a collapsed reading note and the full timeline grouped by year and month.
+
+    ``verbosity`` maps product names to ``verbosity_baseline``; ``key_moments`` is the
+    validated editorial list of card ids for this theme (auto-selected when absent)."""
     display = theme_label(theme, theme_labels)
     ordered = sorted(cards, key=lambda card: (card["date"], card["product_name"], card["card_id"]))
-    years = sorted({card["date"][:4] for card in ordered}, reverse=True)
-    timeline = ["Scope: tracked-products-only. Entries show same-theme chronology; "
-                "they do not establish equivalent capabilities, adoption, or causation.", ""]
-    for year in years:
-        timeline.extend([f"### {year}", ""])
-        timeline.extend(
-            f"- {card['date']} · {card['product_name']}: {card_link(card, card_targets)}"
-            for card in reversed(ordered) if card["date"].startswith(year)
-        )
-        timeline.append("")
-    regions = {"header": f"# {display}",
-               "timeline": "\n".join(timeline).rstrip(), "cards": f"Active changes: {len(ordered)}. Use the dated links above to inspect each card." if ordered else "No changes yet.",
-               "narrative": editorial or "Explore the dated evidence below."}
     products_involved = sorted({card["product_name"] for card in ordered})
+    if ordered:
+        where = "across" if len(products_involved) > 1 else "in"
+        parts = [
+            f"{counted(len(ordered), 'tracked change')} {where} {natural_join(products_involved)}",
+            f"{ordered[0]['date']} → {ordered[-1]['date']}",
+        ]
+        note = granularity_note(products_involved, verbosity)
+        header = f"# {display}\n\n" + " · ".join(parts + ([note] if note else []))
+    else:
+        header = f"# {display}\n\nNo tracked changes yet."
+    by_id = {card["card_id"]: card for card in ordered}
+    curated = [by_id[card_id] for card_id in dict.fromkeys(key_moments or []) if card_id in by_id]
+    moments = curated or auto_key_moments(ordered)
+    caption = "" if curated else AUTO_MOMENTS_CAPTION
+    if moments:
+        table = key_moments_table(moments, products_involved, card_targets)
+        moments_text = f"{caption}\n\n{table}" if caption else table
+    else:
+        moments_text = "No key moments selected yet." + (f" {caption}" if caption else "")
+    regions = {
+        "header": header,
+        "narrative": editorial or "Explore the dated evidence below.",
+        "moments": moments_text,
+        "scope": scope_callout(),
+        "timeline": theme_timeline(ordered, card_targets),
+    }
     lead = editorial_lead(editorial)
     if not lead:
         scope = f" in {natural_join(products_involved)}" if products_involved else ""
@@ -500,8 +732,9 @@ def render_theme_markdown(
     body = (
         f"{machine_region('header', regions['header'])}\n\n"
         f"## Research summary\n{machine_region('narrative', regions['narrative'])}\n\n"
-        f"## Cross-Product Timeline\n{machine_region('timeline', regions['timeline'])}\n\n"
-        f"## Change Cards\n{machine_region('cards', regions['cards'])}\n"
+        f"## Key moments\n{machine_region('moments', regions['moments'])}\n\n"
+        f"{machine_region('scope', regions['scope'])}\n\n"
+        f"## Timeline\n{machine_region('timeline', regions['timeline'])}\n"
     )
     return render_frontmatter(fields, body)
 
@@ -692,6 +925,47 @@ def render_change_markdown(
     return render_frontmatter(metadata, body)
 
 
+CADENCE_BAR_WIDTH = 20
+CADENCE_STATUS_LABELS = {"not-tracked": "not tracked"}
+
+
+def cadence_status(cadence: dict[str, Any] | None) -> str:
+    status = str((cadence or {}).get("status") or "")
+    return CADENCE_STATUS_LABELS.get(status, status)
+
+
+def cadence_bar(count: int, peak: int) -> str:
+    """``▇`` repeated ``count / peak`` of ``CADENCE_BAR_WIDTH`` (at least one); ``·`` at 0."""
+    if count <= 0 or peak <= 0:
+        return "·"
+    return "▇" * max(1, math.floor(count / peak * CADENCE_BAR_WIDTH + 0.5))
+
+
+def render_cadence(cadence: dict[str, Any] | None) -> str:
+    """Product cadence panel from ``silence_monitor.cadence_summary`` (measured to the
+    archive date, the newest archived release, not the clock)."""
+    if not cadence:
+        return "Release cadence has not been measured yet."
+    if not cadence.get("last_release_date"):
+        return "No releases archived yet."
+    days = int(cadence["days_since_last_release"])
+    gap = "the archive date" if days == 0 else f"{plural(days, 'day')} before the archive date"
+    monthly = cadence.get("monthly_counts", [])
+    peak = max((int(item["count"]) for item in monthly), default=0)
+    bars = "\n".join(
+        f"- {item['month']} · not archived" if item.get("archived") is False
+        else f"- {item['month']} {cadence_bar(int(item['count']), peak)} {item['count']}"
+        for item in monthly
+    )
+    return (
+        f"Last release {cadence['last_release_date']} ({gap}) · "
+        f"{plural(int(cadence['releases_90d']), 'release')} in the last 90 days · "
+        f"cadence: {cadence_status(cadence)}\n\n"
+        f"Monthly releases, last {len(monthly)} months "
+        f"(baseline {float(cadence['baseline_monthly_releases']):.1f} per month):\n\n{bars}"
+    )
+
+
 def render_product_markdown(
     product: str,
     product_info: dict[str, Any],
@@ -700,6 +974,7 @@ def render_product_markdown(
     releases: list[dict[str, Any]] | None = None,
     release_targets: dict[str, str] | None = None,
     theme_labels: dict[str, str] | None = None,
+    cadence: dict[str, Any] | None = None,
 ) -> str:
     ordered = sorted(cards, key=lambda item: (item["date"], item["card_id"]))
     ordered_releases = sorted(
@@ -744,6 +1019,7 @@ def render_product_markdown(
         "narrative": (product_info.get('narrative_summary', '') + '\n\n' +
                       product_info.get('narrative_limitations', '')).strip() or
                      'The release archive records announced changes; a reviewed phase narrative is not yet available.',
+        "cadence": render_cadence(cadence),
         "eras": "\n\n".join(era_lines) or "No reviewed capability turning points assigned yet. The archive below is chronological.",
         "releases": "\n".join(release_lines),
         "changes": "\n".join(change_lines),
@@ -775,6 +1051,7 @@ def render_product_markdown(
         f"## Summary\n{machine_region('summary', regions['summary'])}\n\n"
         f"## Coverage\n{machine_region('coverage', regions['coverage'])}\n\n"
         f"## Capability turning points\n{machine_region('narrative', regions['narrative'])}\n\n"
+        f"## Release cadence\n{machine_region('cadence', regions['cadence'])}\n\n"
         f"## Eras\n{machine_region('eras', regions['eras'])}\n\n"
         f"## Release Archive\n{machine_region('releases', regions['releases'])}\n\n"
         f"## Change Timeline\n{machine_region('changes', regions['changes'])}\n\n"
@@ -989,6 +1266,9 @@ def ordered_products(products: dict[str, dict[str, Any]]) -> list[tuple[str, dic
     return sorted(products.items(), key=lambda item: (item[1]["product_name"], item[0]))
 
 
+ARCHIVE_LINK = "All months: [[Archive/index|Archive]]"
+
+
 def recent_changes(
     cards: list[dict[str, Any]],
     products: list[tuple[str, dict[str, Any]]],
@@ -996,7 +1276,8 @@ def recent_changes(
     card_targets: dict[str, str] | None,
     theme_labels: dict[str, str] | None,
 ) -> str:
-    """Newest cards per product in the window ending at the latest card date (not today).
+    """Newest cards per product in the window ending at the latest card date (not today),
+    followed by a link to the monthly archive.
 
     Cards of a holding theme ("Other changes") are left out, including from the count of
     further cards in the window."""
@@ -1004,7 +1285,7 @@ def recent_changes(
     warnings = [f"- ⚠ {alert['product_name']}: {alert['message']}" for alert in alerts]
     sections = ["\n".join(warnings)] if warnings else []
     if not cards:
-        return "\n\n".join(sections + ["No changes archived yet."])
+        return "\n\n".join(sections + ["No changes archived yet.", ARCHIVE_LINK])
     anchor = max(card["date"] for card in cards)
     start = window_start(anchor, RECENT_WINDOW_DAYS)
     for product, info in products:
@@ -1024,14 +1305,16 @@ def recent_changes(
         if remaining > 0:
             entries.append(f"- {remaining} more in this window → [[Products/{name}|{name}]]")
         sections.append(f"### {name}\n" + "\n".join(entries))
-    return "\n\n".join(sections)
+    return "\n\n".join(sections + [ARCHIVE_LINK])
 
 
 def product_activity(
     products: list[tuple[str, dict[str, Any]]],
     releases_by_product: dict[str, list[dict[str, Any]]],
+    cadence: dict[str, dict[str, Any]] | None = None,
 ) -> str:
-    """Release count, range and releases in the window ending at the latest release overall."""
+    """Release count, range, releases in the window ending at the latest release overall
+    and the cadence status when it was measured."""
     all_dates = [release["date"] for releases in releases_by_product.values() for release in releases]
     latest = max(all_dates) if all_dates else None
     lines = []
@@ -1043,10 +1326,11 @@ def product_activity(
             continue
         start = window_start(latest, RELEASE_ACTIVITY_DAYS)
         recent = sum(start <= value <= latest for value in dates)
+        status = cadence_status((cadence or {}).get(product))
         lines.append(
             f"- [[Products/{name}|{name}]] · {plural(len(dates), 'release')} · "
             f"{dates[0]} → {dates[-1]} · {plural(recent, 'release')} in the last "
-            f"{RELEASE_ACTIVITY_DAYS} days"
+            f"{RELEASE_ACTIVITY_DAYS} days" + (f" · cadence: {status}" if status else "")
         )
     return "\n".join(lines)
 
@@ -1132,7 +1416,9 @@ def render_index_markdown(
             f"- [[Themes/{theme}|{wiki_label(theme_label(theme, theme_labels))}]] — {label}"
             for theme, label in FEATURED_THEMES
             if theme in themes) or "No featured themes yet.",
-        "products": product_activity(products, releases_by_product) or "No products yet.",
+        "products": product_activity(
+            products, releases_by_product, silence.get("cadence")
+        ) or "No products yet.",
         "themes": theme_groups(theme_counts, vocabulary, theme_labels) or "No themes yet.",
         "coverage": (
             ("\n".join(coverage_lines) or "No sources recorded yet.")
@@ -1173,6 +1459,7 @@ ABOUT_METHOD = "\n".join([
     "in a review queue. Each release page shows \"Tracked N cards from M candidate lines\" "
     "and how many lines wait for review.",
     "- Dates are announcement dates, not availability dates.",
+    "- Cadence is measured to the newest archived release date, not the clock.",
     "- Relations between cards are same-theme chronology only; they never claim adoption "
     "or causation.",
 ])
@@ -1188,6 +1475,12 @@ ABOUT_GLOSSARY = "\n".join([
     "lists the cards tracked from it.",
     "- **Theme**: a category from a fixed vocabulary that groups cards across products.",
     "- **Era**: a reviewed phase of one product's history, bounded by cited releases.",
+    "- **Key moments**: on a theme page, the cards an editor selected; until then up to 12 "
+    "per product are chosen automatically from launches and standalone announcements, one "
+    "per quarter first and never two from one release.",
+    "- **Cadence**: releases per month on a product page. *Quiet* means each of the last two "
+    "months had fewer than half the product's average monthly releases; *silent* means no "
+    "release in the last two months, which also raises a silence alert.",
     "- **Tracked products only**: comparisons and \"earliest\" statements cover only the "
     "tracked products, not the wider market.",
     "- **Candidate line**: a line of release text that could become part of a card; Markdown "
@@ -1266,6 +1559,185 @@ def render_about_markdown(
         f"## Feedback\n{machine_region('feedback', regions['feedback'])}\n"
     )
     return render_frontmatter(fields, body)
+
+
+MONTH_NAMES = (
+    "January", "February", "March", "April", "May", "June", "July", "August", "September",
+    "October", "November", "December",
+)
+ARCHIVE_DIRECTORY = "Archive"
+# The archive's own page is the folder note ``Archive/index.md``: Quartz renders a folder
+# note as the folder page, whereas a root ``Archive.md`` would also be rendered there with
+# its links resolved from the wrong directory.
+ARCHIVE_INDEX = "index"
+ARCHIVE_MONTH_RE = re.compile(r"^\d{4}-\d{2}$")
+
+
+def month_title(month: str) -> str:
+    """``October 2026`` for ``2026-10``."""
+    return f"{MONTH_NAMES[int(month[5:7]) - 1]} {month[:4]}"
+
+
+def archive_months(cards: list[dict[str, Any]]) -> dict[str, list[dict[str, Any]]]:
+    """Active cards (holding themes included) by ``YYYY-MM`` of their date."""
+    months: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for card in cards:
+        months[str(card["date"])[:7]].append(card)
+    return dict(months)
+
+
+def product_breakdown(cards: list[dict[str, Any]], separator: str = " · ") -> str:
+    """``ChatGPT 42 · Claude Code 86 · Cursor 14`` (products with cards, by name)."""
+    counts = Counter(card["product_name"] for card in cards)
+    return separator.join(f"{name} {counts[name]:,}" for name in sorted(counts))
+
+
+def archive_month_link(month: str) -> str:
+    return f"[[{ARCHIVE_DIRECTORY}/{month}|{month_title(month)}]]"
+
+
+def render_archive_month_markdown(
+    month: str,
+    cards: list[dict[str, Any]],
+    card_targets: dict[str, str] | None = None,
+    theme_labels: dict[str, str] | None = None,
+    *,
+    previous: str | None = None,
+    following: str | None = None,
+) -> str:
+    """``Archive/YYYY-MM.md``: the month's cards per product, newest first. On one date,
+    cards of a holding theme ("Other changes") follow the themed ones."""
+    title = month_title(month)
+    navigation = " · ".join(
+        part for part in (
+            f"← {archive_month_link(previous)}" if previous else "",
+            f"[[{ARCHIVE_DIRECTORY}/{ARCHIVE_INDEX}|All months]]",
+            f"{archive_month_link(following)} →" if following else "",
+        ) if part
+    )
+    sections = []
+    for name in sorted({card["product_name"] for card in cards}):
+        product_cards = sorted(
+            (card for card in cards if card["product_name"] == name),
+            key=lambda card: (
+                card["theme"] in HOLDING_THEMES,
+                theme_label(card["theme"], theme_labels),
+                card["card_id"],
+            ),
+        )
+        product_cards.sort(key=lambda card: card["date"], reverse=True)
+        lines = [
+            f"- {card['date']} · {wiki_label(theme_label(card['theme'], theme_labels))} · "
+            f"{card_link(card, card_targets)}" + (f" · {kind_label(card)}" if kind_label(card) else "")
+            for card in product_cards
+        ]
+        sections.append(f"### {name}\n\n" + "\n".join(lines))
+    regions = {
+        "header": (
+            f"# {title}\n\n{counted(len(cards), 'tracked change')} · {product_breakdown(cards)}"
+            f"\n\n{navigation}"
+        ),
+        "changes": "\n\n".join(sections) or "No changes archived in this month.",
+    }
+    fields = {
+        "tags": ["archive"],
+        "title": title,
+        "description": cap_text(
+            f"{counted(len(cards), 'tracked change')} announced in {title}: "
+            f"{natural_join(product_breakdown(cards, '|').split('|'))}."
+        ),
+        "publication": aggregate_publication(cards),
+    }
+    fields.update(aggregate_dates(cards))
+    fields["machine_hash"] = machine_hash(fields, regions)
+    body = (
+        f"{machine_region('header', regions['header'])}\n\n"
+        f"{machine_region('changes', regions['changes'])}\n"
+    )
+    return render_frontmatter(fields, body)
+
+
+def render_archive_markdown(cards: list[dict[str, Any]]) -> str:
+    """``Archive/index.md``: every month with cards, newest first, grouped by year.
+
+    Quartz shows it as the ``Archive/`` folder page, which prints the title itself, so the
+    header region has no H1 (``_scripts/folder_content.tsx`` also drops the folder's
+    automatic page list, which would repeat the months)."""
+    months = archive_months(cards)
+    ordered = sorted(months, reverse=True)
+    if ordered:
+        lead = (
+            "Tracked changes by month of announcement, newest first: "
+            f"{counted(len(cards), 'tracked change')} in {counted(len(ordered), 'month')}, "
+            f"{month_title(ordered[-1])} → {month_title(ordered[0])}."
+        )
+    else:
+        lead = "No changes archived yet."
+    sections = []
+    for year in sorted({month[:4] for month in ordered}, reverse=True):
+        lines = [
+            f"- {archive_month_link(month)} · {plural(len(months[month]), 'change')} "
+            f"({product_breakdown(months[month])})"
+            for month in ordered
+            if month.startswith(year)
+        ]
+        sections.append(f"### {year}\n\n" + "\n".join(lines))
+    regions = {
+        "header": lead,
+        "months": "\n\n".join(sections) or "No months archived yet.",
+    }
+    fields = {
+        "tags": ["archive"],
+        "title": "Archive",
+        "description": cap_text(
+            "Every tracked change by month of announcement, with the number of changes per "
+            "product in each month."
+        ),
+        "publication": aggregate_publication(cards),
+    }
+    fields.update(aggregate_dates(cards))
+    fields["machine_hash"] = machine_hash(fields, regions)
+    body = (
+        f"{machine_region('header', regions['header'])}\n\n"
+        f"{machine_region('months', regions['months'])}\n"
+    )
+    return render_frontmatter(fields, body)
+
+
+def remove_stale_archive_months(
+    directory: Path,
+    months: set[str],
+    conflicts: list[dict[str, str]],
+    migration_pending: list[dict[str, str]],
+) -> list[str]:
+    """Delete ``YYYY-MM.md`` month pages whose month has no active card any more.
+
+    The staged deletion reaches the Vault through the transaction like any other change.
+    A page with an edited machine region is a conflict; one with human text outside the
+    regions is kept and reported as pending manual migration. Other files are left alone.
+    """
+    removed: list[str] = []
+    if not directory.exists():
+        return removed
+    for path in sorted(directory.glob("*.md")):
+        if path.stem in months or not ARCHIVE_MONTH_RE.match(path.stem):
+            continue
+        existing = path.read_text(encoding="utf-8")
+        post = frontmatter.loads(existing)
+        stored_hash = post.metadata.get("machine_hash")
+        if stored_hash and content_machine_hash(existing) != stored_hash:
+            conflicts.append({
+                "file": str(path),
+                "error": "machine_hash mismatch while removing an empty archive month",
+                "merge_conflict": True,
+            })
+            continue
+        if legacy_residue(post.content, "archive"):
+            migration_pending.append({"file": str(path), "reason": ARCHIVE_KEPT_REASON})
+            continue
+        path.unlink()
+        removed.append(path.stem)
+    return removed
 
 
 def change_card_paths(
@@ -1644,6 +2116,7 @@ def write_run(
                 releases=releases_by_product[product],
                 release_targets=release_targets,
                 theme_labels=theme_labels,
+                cadence=silence.get("cadence", {}).get(product),
             ),
             conflicts,
         )
@@ -1676,6 +2149,10 @@ def write_run(
                 and post["theme"] not in HOLDING_THEMES
             ):
                 cards_by_theme.setdefault(post["theme"], [])
+    verbosity = {
+        info["product_name"]: info.get("verbosity_baseline") for info in products_info.values()
+    }
+    key_moments = analysis_b.get("key_moments", {})
     for theme, theme_cards in cards_by_theme.items():
         # A holding theme ("Other changes") has no theme page.
         if theme in HOLDING_THEMES:
@@ -1689,10 +2166,40 @@ def write_run(
                 card_targets,
                 analysis_b.get("editorial", {}).get(theme, ""),
                 theme_labels=theme_labels,
+                verbosity=verbosity,
+                key_moments=key_moments.get(theme),
             ),
             conflicts,
             migration_pending,
         )
+
+    # Monthly archive: one page per month with an active card, regenerated every run;
+    # a month left without cards (after a reconcile) loses its page.
+    months = archive_months(cards)
+    ordered_months = sorted(months)
+    for index, month in enumerate(ordered_months):
+        write_markdown_file(
+            paths.root / ARCHIVE_DIRECTORY / f"{month}.md",
+            render_archive_month_markdown(
+                month,
+                months[month],
+                card_targets,
+                theme_labels,
+                previous=ordered_months[index - 1] if index else None,
+                following=ordered_months[index + 1] if index + 1 < len(ordered_months) else None,
+            ),
+            conflicts,
+            migration_pending,
+        )
+    remove_stale_archive_months(
+        paths.root / ARCHIVE_DIRECTORY, set(months), conflicts, migration_pending
+    )
+    write_markdown_file(
+        paths.root / ARCHIVE_DIRECTORY / f"{ARCHIVE_INDEX}.md",
+        render_archive_markdown(cards),
+        conflicts,
+        migration_pending,
+    )
 
     for alert in silence.get("alerts", []):
         target = paths.root / "Alerts" / f"{alert['date']}-{alert['product']}-silence.md"
