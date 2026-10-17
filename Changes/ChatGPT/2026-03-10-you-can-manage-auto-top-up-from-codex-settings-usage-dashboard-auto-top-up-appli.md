@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: cef97e833621c2cf62d6fda4b6fd7b1b9400a0531c233cbd64a5cba5148966d7
+machine_hash: 07a7a3b5719275ee3510d66a2ac3a3272fe4d13abe1e370edd3237e65aa96e2f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,6 +58,7 @@ related_changes:
   customers in India can now get 12 months of ChatGPT Go at no cost]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-10-auto-top-up-for-flexible-usage-credits-462c6ddf|chatgpt-2026-03-10-auto-top-up-for-flexible-usage-credits-462c6ddf]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: pricing-model
 title: You can manage auto top-up from Codex Settings → Usage Dashboard
 type: change

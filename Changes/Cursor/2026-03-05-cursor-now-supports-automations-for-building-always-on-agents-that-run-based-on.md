@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: fcd8dcd32eb9f3cff4c3880cfe8b7a6808f3da4769cb5be0163802fa31963c64
+machine_hash: 4521c9e283b03960e3050bc6e21c6321b2c5a82c6f6dd72004a8d8889ebd603e
 product: cursor
 product_name: Cursor
 record:
@@ -57,6 +57,7 @@ related_changes:
   tasks in chat or in Pulse—whatever’s easier in the moment]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422|cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422]]'
 source_type: cursor_changelog
+superseded: true
 theme: automation-scheduling
 title: Cursor now supports automations for building always-on agents that run based…
 type: change

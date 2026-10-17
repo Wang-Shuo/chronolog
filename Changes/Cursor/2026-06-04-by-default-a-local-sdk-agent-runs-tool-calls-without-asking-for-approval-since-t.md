@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 71d0e5182ed7ee215cbc3a9e0102ffcc3a3747a86a2d70ac894eaf701f366a2a
+machine_hash: 754157934f0260392d3657bf1f20d5668cbe64d920922385c2e16ac0ad3f7494
 product: cursor
 product_name: Cursor
 record:
@@ -57,6 +57,7 @@ related_changes:
   this, exposing a custom capability meant standing up your own stdio or remote…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856|cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: By default, a local SDK agent runs tool calls without asking for approval,
   since…

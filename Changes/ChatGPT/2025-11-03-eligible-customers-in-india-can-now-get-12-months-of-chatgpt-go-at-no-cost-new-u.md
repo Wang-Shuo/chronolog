@@ -15,9 +15,10 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 76494745932022f8ea7640833a09d531e9cef468648c28c13369a6de153e473a
+kind: pricing
+machine_hash: 19cb24aa7dfab30d7ea65f4586ac9ffb1327a7292c3745e3eb401e05eaeb43f7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,8 +47,9 @@ record:
       billing cycle - review ChatGPT Go Promotion (India) for more details.Update:
       as of January 21, 2026, the promo has ended'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: pricing
   product: chatgpt
   product_name: ChatGPT
   slug: eligible-customers-in-india-can-now-get-12-months-of-chatgpt-go-at-no-cost-new-u
@@ -64,7 +66,7 @@ record:
     score: 50
     theme: pricing-model
   theme_resolution: manual-semantic-rule-v1
-  title: Eligible customers in India can now get 12 months of ChatGPT Go at no cost
+  title: ChatGPT Go Promo - India
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-10-14-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-d58cbb|ChatGPT
@@ -76,14 +78,14 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-03-chatgpt-go-promo-india-d9dd74b7|chatgpt-2025-11-03-chatgpt-go-promo-india-d9dd74b7]]'
 source_type: chatgpt_changelog
 theme: pricing-model
-title: Eligible customers in India can now get 12 months of ChatGPT Go at no cost
+title: ChatGPT Go Promo - India
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Eligible customers in India can now get 12 months of ChatGPT Go at no cost
+# ChatGPT Go Promo - India
 
-**ChatGPT** · 2025-11-03 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-11-03-chatgpt-go-promo-india-d9dd74b7|ChatGPT Go Promo - India]]
+**ChatGPT** · 2025-11-03 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-11-03-chatgpt-go-promo-india-d9dd74b7|ChatGPT Go Promo - India]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -100,7 +102,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-10-30 · ChatGPT · [[Changes/ChatGPT/2025-10-30-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-44be9d|ChatGPT Go, our low cost subscription plan, is now available in 8 additional…]]
-- Later: 2026-03-10 · ChatGPT · [[Changes/ChatGPT/2026-03-10-you-can-manage-auto-top-up-from-codex-settings-usage-dashboard-auto-top-up-appli|You can manage auto top-up from Codex Settings → Usage Dashboard]]
+- Later: 2025-12-18 · Cursor · [[Changes/Cursor/2025-12-18-billing-groups|Billing groups]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

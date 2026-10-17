@@ -2,7 +2,7 @@
 changes_count: 0
 date: '2023-08-07'
 description: 'Cursor release New cmd-K keybindings on 2023-08-07: no tracked changes'
-machine_hash: b4a7dee7abf5457d252d6690ca098fcda93d53c8a0a8b5d8aea1ba7a1a220df3
+machine_hash: 5ceaf1dd7d64cadd946ec9abd04028de5ec16195bebe76c01544fbde96b28043
 product: cursor
 product_name: Cursor
 record:
@@ -37,7 +37,7 @@ version: 0.6.5-nightly-0.6.6-nightly
 <!-- chronolog:begin region="summary" -->
 And a few other quality-of-life updates.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

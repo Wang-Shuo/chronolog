@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 461e37d300c6f38d5f7919d6cf39668db5a04d4940b48e98f054e2d0ff09d31b
+machine_hash: 306701e7e767d4f8262393e7dc74bad9f6f4592d478509ec4f5cfe7202159fef
 product: cursor
 product_name: Cursor
 record:
@@ -66,6 +66,7 @@ related_changes:
   on web and iOS, Health lets you view lab results, medications, activity…]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c|cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c]]'
 source_type: cursor_changelog
+superseded: true
 theme: mobile-desktop
 title: The iPad layout is rebuilt around the extra space
 type: change

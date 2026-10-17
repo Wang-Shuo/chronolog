@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-02-09 · Memory and Personalization: We’re begin
   roll out a test for ads in ChatGPT in the U.S. for logged-in adults on the Free
   and Go…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 935
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f8f55296fe5cfdbd7db5151c8de15d26894072cfef33eda9732a937a06ceb389
+kind: change
+machine_hash: 2e877bf2fdb84721ce5dff882e02fbf26ccdfc831d194874bbf73a9fdc0a0bb5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -61,8 +62,9 @@ record:
       or regulated topics, including health, mental health, or politics, and are not
       shown to users who tell us or we predict are under 18.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-beginning-to-roll-out-a-test-for-ads-in-chatgpt-in-the-u-s-for-logged-in-a
@@ -83,11 +85,11 @@ record:
     - performance
     score: 50
     theme: reliability-performance
-  title: We’re beginning to roll out a test for ads in ChatGPT in the U.S. for logged-in…
+  title: Testing ads in ChatGPT (Free, Go)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-15-when-reference-chat-history-is-enabled-chatgpt-can-now-more-reliably-find-specif|When
-  reference chat history is enabled, ChatGPT can now more reliably find specific…]]'
+- '[[Changes/ChatGPT/2026-01-15-when-reference-chat-history-is-enabled-chatgpt-can-now-more-reliably-find-specif|Improved
+  memory for finding details from past chats (Plus & Pro)]]'
 - '[[Changes/Claude Code/2026-02-05-claude-now-automatically-records-and-recalls-memories-as-it-works|Claude
   now automatically records and recalls memories as it works]]'
 - '[[Changes/Claude Code/2026-02-06-added-memory-frontmatter-field-support-for-agents-enabling-persistent-memory-wit|Added
@@ -95,12 +97,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-09-testing-ads-in-chatgpt-free-go-df231623|chatgpt-2026-02-09-testing-ads-in-chatgpt-free-go-df231623]]'
 source_type: chatgpt_changelog
 theme: memory
-title: We’re beginning to roll out a test for ads in ChatGPT in the U.S. for logged-in…
+title: Testing ads in ChatGPT (Free, Go)
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We’re beginning to roll out a test for ads in ChatGPT in the U.S. for logged-in…
+# Testing ads in ChatGPT (Free, Go)
 
 **ChatGPT** · 2026-02-09 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-09-testing-ads-in-chatgpt-free-go-df231623|Testing ads in ChatGPT (Free, Go)]]
 <!-- chronolog:end -->
@@ -125,7 +127,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

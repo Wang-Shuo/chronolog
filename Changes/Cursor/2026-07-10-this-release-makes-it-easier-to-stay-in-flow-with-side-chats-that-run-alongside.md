@@ -5,8 +5,8 @@ description: 'Cursor · 2026-07-10 · Agent Mode: This release makes it easier t
   in flow with side chats that run alongside your main chat, the ability to search
   agent…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1100
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: cf179db0d35229c4382a3f89f423a51aa6e017ea384a7972a227815e30a3be33
+kind: change
+machine_hash: 550c295822f39486a2c4c1e62f43688c2e14f6f4644f32f77ac2b21d4c132884
 product: cursor
 product_name: Cursor
 record:
@@ -34,8 +35,9 @@ record:
       your main chat, the ability to search agent transcripts, and simplified project
       and repo pickers.
     source_release: https://cursor.com/changelog/side-chat
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: change
   product: cursor
   product_name: Cursor
   slug: this-release-makes-it-easier-to-stay-in-flow-with-side-chats-that-run-alongside
@@ -46,12 +48,11 @@ record:
     your main…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-08-improved-agent-view-sessions-that-edit-merge-comment-on-or-push-to-an-existing-p|Improved
-  agent view]]'
 - '[[Changes/ChatGPT/2026-07-09-chatgpt-work-is-an-agent-for-longer-more-involved-tasks-it-can-research-and-anal|ChatGPT
   Work is an agent for longer, more involved tasks]]'
-- '[[Changes/Cursor/2026-07-10-by-default-side-chats-focus-on-reading-searching-and-answering-use-them-to-ask-c|By
-  default, side chats focus on reading, searching, and answering]]'
+- '[[Changes/Claude Code/2026-07-10-2-agent-mode-changes-in-v2-1-206|2 Agent Mode
+  changes in v2.1.206]]'
+- '[[Changes/Cursor/2026-07-10-new-cloud-agent-hooks|New cloud agent hooks]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d|cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -75,23 +76,25 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-07-10-find-past-agent-chats-faster-with-search-results-that-go-beyond-names-and-pr-num|Find past agent chats faster with search results that go beyond names and PR numbers]] · Editor Experience
-- [[Changes/Cursor/2026-07-10-by-default-side-chats-focus-on-reading-searching-and-answering-use-them-to-ask-c|By default, side chats focus on reading, searching, and answering]] · Agent Mode
-- [[Changes/Cursor/2026-07-10-each-side-chat-is-a-durable-full-agent-conversation-that-you-can-follow-up-on-re|Each side chat is a durable, full agent conversation that you can follow up…]] · Context Window
-- [[Changes/Cursor/2026-07-10-open-a-side-chat-to-ask-questions-explore-ideas-and-investigate-tangents-without|Open a side chat to ask questions, explore ideas, and investigate tangents without…]] · Context Window
+- [[Changes/Cursor/2026-07-10-side-chats|Side chats]] · Context Window
+- [[Changes/Cursor/2026-07-10-conversation-search-454cae|Conversation search]] · Interface Experience
+- [[Changes/Cursor/2026-07-10-new-cloud-agent-hooks|New cloud agent hooks]] · Agent Mode
+- [[Changes/Cursor/2026-07-10-6-interface-experience-changes-in-side-chats-and-conversation-search|6 Interface Experience changes in Side Chats and Conversation Search]] · Interface Experience
+- [[Changes/Cursor/2026-07-10-combined-all-remote-options-your-machines-team-pools-and-existing-remote-workspa|Combined all remote options—your machines, team pools, and existing remote…]] · Collaboration
+- [[Changes/Cursor/2026-07-10-redesigned-project-and-repo-pickers|Redesigned project and repo pickers]] · Interface Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-chatgpt-work-is-an-agent-for-longer-more-involved-tasks-it-can-research-and-anal|ChatGPT Work is an agent for longer, more involved tasks]]
-- Later: 2026-07-11 · Claude Code · [[Changes/Claude Code/2026-07-11-auto-mode-is-now-available-without-claude-code-enable-auto-mode-opt-in-on-bedroc|Auto mode is now available without CLAUDE_CODE_ENABLE_AUTO_MODE opt-in on Bedrock…]]
+- Earlier: 2026-07-10 · Claude Code · [[Changes/Claude Code/2026-07-10-2-agent-mode-changes-in-v2-1-206|2 Agent Mode changes in v2.1.206]]
+- Later: 2026-07-11 · Claude Code · [[Changes/Claude Code/2026-07-11-2-agent-mode-changes-in-v2-1-207|2 Agent Mode changes in v2.1.207]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e76405e3cfd4fe174069921cc8c79a53d7e6ba0604f615e47528aaf7b7766624
+machine_hash: 3f2d6572ae40011a2c1aa8f20c49f471586f98a18a54afacea87f5de0ad545ca
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   claude remote-control --continue for resuming the most recent Remote…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9|claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added an opt-in forward_user_identity apps gateway setting on Anthropic upstreams…
 type: change

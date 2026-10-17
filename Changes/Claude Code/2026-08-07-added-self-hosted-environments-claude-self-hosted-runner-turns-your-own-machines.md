@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c1361b9a18b08561991aea875a050c5f0dcc16e6a439d298082d05be6b7caff8
+machine_hash: a18faeb2303e9f2139484d912b7294f35281d9725458a8795b2cfc2af1655992
 product: claude-code
 product_name: Claude Code
 record:
@@ -65,6 +65,7 @@ related_changes:
   folders, files, and past conversations faster]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c|claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c]]'
 source_type: github_releases
+superseded: true
 theme: mobile-desktop
 title: Added self-hosted environments
 type: change

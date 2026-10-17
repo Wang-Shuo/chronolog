@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ca4bf521f4c168820551a783e7688977a67e22f96cc14a2256f1ffd9f6f98f8b
+machine_hash: 54459e47fa476dc0b05f3f4d7eed8fe8c8afef1100493194087fe2257567780e
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   mouse click support to select menus…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-23-v2-1-187-github-343665388-744f9775|claude-code-2026-06-23-v2-1-187-github-343665388-744f9775]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Added sandbox.credentials setting to block sandboxed commands from reading…
 type: change

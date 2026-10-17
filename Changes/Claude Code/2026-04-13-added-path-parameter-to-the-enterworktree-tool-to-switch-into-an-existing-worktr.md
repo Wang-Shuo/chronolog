@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3636ae1fe1c28563dd9864505c08b7bbcd2c175b8c961a3ba55677d6ae434707
+machine_hash: fc23bfeeab0948e285eae5d82f2c2ce2774b17457f7a7173c154b5b530f44153
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,6 +47,7 @@ related_changes:
   can now learn from feedback on pull requests and turn those signals…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3|claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added path parameter to the EnterWorktree tool to switch into an existing…
 type: change

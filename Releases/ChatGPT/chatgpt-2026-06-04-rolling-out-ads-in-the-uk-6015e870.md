@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-06-04'
 description: 'ChatGPT release Rolling out ads in the UK on 2026-06-04: 1 tracked change
   across Enterprise and Administration'
-machine_hash: fe8a8ee39597b2f9920023d91f7316fae5965604ea833e361cca1c55a104208f
+machine_hash: 50d4e22f623e0fa24fe702b1a3ff00836487cad5c960a060a25581bac7ff9399
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,10 +39,10 @@ version: Rolling out ads in the UK
 <!-- chronolog:begin region="summary" -->
 We're beginning to roll out ads for users on Free and Go plans in the UK. Plus, Pro, Business, Enterprise, and Education plans will remain ad-free.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-06-04-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-the-uk-plus-pr|We're beginning to roll out ads for users on Free and Go plans in the UK]] · Enterprise and Administration
+- [[Changes/ChatGPT/2026-06-04-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-the-uk-plus-pr|Rolling out ads in the UK]] · Enterprise and Administration · Expansion
 <!-- chronolog:end -->

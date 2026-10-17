@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 953914fa3606735dc8aa546ece7c4c6de3d6bb2c5d91b93b7fd2acacd5add556
+machine_hash: 4fc75970121698a69d75b471bc10ddb5a7e22d52e0a67453bb4ea3c0b40ad8d1
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   adds new and improved worktrees in the Agents Window]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added agent view (Research Preview)
 type: change

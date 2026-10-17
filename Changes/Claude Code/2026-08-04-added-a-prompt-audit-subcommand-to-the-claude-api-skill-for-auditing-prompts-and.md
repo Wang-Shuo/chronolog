@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d9e069c040d4185fee7b6363af338f1f5c1851d511dc8944a7188dddfb26860a
+machine_hash: 81beb690d21e288974a967bfe07908e004ee2caa87f241a79226a012ab8e4499
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   Claude Opus 5 (claude-opus-5), now the default Opus model]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce|claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Added a prompt-audit subcommand to the claude-api skill for auditing prompts…
 type: change

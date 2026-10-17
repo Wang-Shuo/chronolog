@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 603eb53b9a147f8fbdde561b8c000c6eff7ea1d7942a79589634c99ca9b74054
+kind: change
+machine_hash: ef9fff6376f8b8efb1f2b95353147240faf82b7dfbe718dc9a58279c02480cdc
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added `CLAUDE_CODE_DISABLE_MOUSE_CLICKS` to disable mouse click/drag/hover
       in fullscreen mode while keeping wheel scroll
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.195
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-claude-code-disable-mouse-clicks-to-disable-mouse-click-drag-hover-in-full
@@ -40,12 +42,12 @@ record:
   title: Added `CLAUDE_CODE_DISABLE_MOUSE_CLICKS` to disable mouse click/drag/hover…
   type: change
 related_changes:
+- '[[Changes/Claude Code/2026-06-19-added-config-help-to-list-all-available-shorthand-keys-for-config-key-value|Added
+  /config --help to list all available shorthand keys for /config key=value]]'
 - '[[Changes/Claude Code/2026-06-19-changed-config-toggle-behavior-enter-and-space-both-change-the-selected-setting|Changed
   /config toggle behavior]]'
-- '[[Changes/Claude Code/2026-06-23-added-org-configured-model-restrictions-to-the-model-picker-model-model-and-anth|Added
-  org-configured model restrictions to the model picker, --model, /model…]]'
-- '[[Changes/Claude Code/2026-06-23-improved-btw-with-arrow-navigation-to-step-through-earlier-answers|Improved
-  /btw with ←/→ arrow navigation to step through earlier answers]]'
+- '[[Changes/Claude Code/2026-06-23-2-interface-experience-changes-in-v2-1-187|2 Interface
+  Experience changes in v2.1.187]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460|claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460]]'
 source_type: github_releases
 theme: interface-experience
@@ -77,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-23 · Claude Code · [[Changes/Claude Code/2026-06-23-improved-btw-with-arrow-navigation-to-step-through-earlier-answers|Improved /btw with ←/→ arrow navigation to step through earlier answers]]
-- Later: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-changed-askuserquestion-dialogs-to-no-longer-auto-continue-by-default-opt-into-a|Changed AskUserQuestion dialogs to no longer auto-continue by default]]
+- Earlier: 2026-06-23 · Claude Code · [[Changes/Claude Code/2026-06-23-2-interface-experience-changes-in-v2-1-187|2 Interface Experience changes in v2.1.187]]
+- Later: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-2-interface-experience-changes-in-v2-1-198|2 Interface Experience changes in v2.1.198]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

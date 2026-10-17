@@ -4,7 +4,7 @@ date: '2026-03-07'
 description: 'Claude Code · 2026-03-07 · Automation and Scheduling: Added cron scheduling
   tools for recurring prompts within a session'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|Tasks
+  first_in_tracked: '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks
     let you set up automated prompts that ChatGPT can run for you]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 80
@@ -14,9 +14,10 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 5979941580160bb5efc38e89d07a9659617b3937bb2dfe1be1c79e9c38538aa9
+kind: change
+machine_hash: db5cfb2c2432a973769685382e660e53cfbd0117996d39994660b771c985aacc
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Added cron scheduling tools for recurring prompts within a session
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.71
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-cron-scheduling-tools-for-recurring-prompts-within-a-session
@@ -39,12 +41,12 @@ record:
   title: Added cron scheduling tools for recurring prompts within a session
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-05-cursor-now-supports-automations-for-building-always-on-agents-that-run-based-on|Cursor
-  now supports automations for building always-on agents that run based…]]'
+- '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks
+  let you set up automated prompts that ChatGPT can run for you]]'
 - '[[Changes/Cursor/2026-03-05-create-automations-at-cursor-com-automations-or-start-from-a-template-read-more|Create
   automations at cursor.com/automations, or start from a template]]'
-- '[[Changes/Cursor/2026-03-05-automations-run-on-schedules-or-are-triggered-by-events-from-slack-linear-github|Automations
-  run on schedules or are triggered by events from Slack, Linear, GitHub…]]'
+- '[[Changes/Cursor/2026-03-05-cursor-now-supports-automations-for-building-always-on-agents-that-run-based-on-fb3c5d|Cursor
+  now supports automations for building always-on agents that run based…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-07-v2-1-71-github-294146317-ab5a32e0|claude-code-2026-03-07-v2-1-71-github-294146317-ab5a32e0]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -69,21 +71,22 @@ type: change
 
 - [[Changes/Claude Code/2026-03-07-added-loop-command-to-run-a-prompt-or-slash-command-on-a-recurring-interval-e-g|Added /loop command to run a prompt or slash command on a recurring interval…]] · Automation and Scheduling
 - [[Changes/Claude Code/2026-03-07-fixed-false-positive-permission-prompts-for-compound-bash-commands-containing-he|Fixed false-positive permission prompts for compound bash commands containing…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-03-07-3-apps-and-integrations-changes-in-v2-1-71|3 Apps and Integrations changes in v2.1.71]] · Apps and Integrations
 - [[Changes/Claude Code/2026-03-07-added-voice-pushtotalk-keybinding-to-make-the-voice-activation-key-rebindable-in|Added voice:pushToTalk keybinding to make the voice activation key rebindable…]] · Voice and Audio
-- [[Changes/Claude Code/2026-03-07-added-fmt-comm-cmp-numfmt-expr-test-printf-getconf-seq-tsort-and-pr-to-the-bash|Added fmt, comm, cmp, numfmt, expr, test, printf, getconf, seq…]] · Developer Workflow
+- [[Changes/Claude Code/2026-03-07-2-developer-workflow-changes-in-v2-1-71|2 Developer Workflow changes in v2.1.71]] · Developer Workflow
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-03-05 · Cursor · [[Changes/Cursor/2026-03-05-automations-run-on-schedules-or-are-triggered-by-events-from-slack-linear-github|Automations run on schedules or are triggered by events from Slack, Linear, GitHub…]]
-- Later: 2026-03-11 · Cursor · [[Changes/Cursor/2026-03-11-most-plugins-contain-mcps-that-cloud-agents-can-use-when-kicked-off-manually-or|Most plugins contain MCPs that cloud agents can use when kicked off manually…]]
+- Earlier: 2026-03-05 · Cursor · [[Changes/Cursor/2026-03-05-cursor-now-supports-automations-for-building-always-on-agents-that-run-based-on-fb3c5d|Cursor now supports automations for building always-on agents that run based…]]
+- Later: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-added-claude-code-disable-cron-environment-variable-to-immediately-stop-schedule|Added CLAUDE_CODE_DISABLE_CRON environment variable to immediately stop scheduled…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-12-17 · ChatGPT · [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|Tasks let you set up automated prompts that ChatGPT can run for you]]
+- Earliest same-theme entry in the tracked set: 2025-12-17 · ChatGPT · [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks let you set up automated prompts that ChatGPT can run for you]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

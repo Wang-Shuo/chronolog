@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f66cf0a3e9afb52a0a0d0f0130d72cc2c1d0555e460aa12c551575ec29281636
+machine_hash: 93b42be41f1b8cf5739cc25c58a0050fb5ce71029215060a1ca760c1e6ca40da
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   the extended-thinking indicator with a rotating progress hint]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: /effort now opens an interactive slider when called without arguments…
 type: change

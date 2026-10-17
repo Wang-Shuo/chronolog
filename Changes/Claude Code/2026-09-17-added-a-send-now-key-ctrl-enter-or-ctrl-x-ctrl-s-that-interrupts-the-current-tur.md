@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: b7995e63aa9f87142a2e6f84e920e45470809a1b03660f4cb7c14214a3f417ec
+kind: change
+machine_hash: 1b6e1338db08644f06a8d1d7e3c8fead5599ccfd5713bfabf10fa862fda3f99a
 product: claude-code
 product_name: Claude Code
 record:
@@ -34,8 +35,9 @@ record:
       current turn and sends all queued messages at once; sent and queued messages
       show in gray until the model receives them
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.275
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-a-send-now-key-ctrl-enter-or-ctrl-x-ctrl-s-that-interrupts-the-current-tur
@@ -46,12 +48,12 @@ record:
     turn…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-added-claude-code-gateway-model-discovery-timeout-ms-to-extend-the-llm-gateway-v|Added
-  CLAUDE_CODE_GATEWAY_MODEL_DISCOVERY_TIMEOUT_MS to extend the LLM gateway…]]'
-- '[[Changes/ChatGPT/2026-09-14-we-re-retiring-automatic-switching-from-instant-to-thinking-reasoning-for-chatgp|We’re
-  retiring automatic switching from Instant to Thinking (reasoning) for ChatGPT…]]'
-- '[[Changes/Claude Code/2026-09-17-added-effort-attribute-to-the-claude-code-llm-request-opentelemetry-trace-span-m|Added
-  effort attribute to the claude_code.llm_request OpenTelemetry trace span…]]'
+- '[[Changes/Claude Code/2026-09-14-improved-startup-time-slightly-by-skipping-a-redundant-validation-of-built-in-mo|Improved
+  startup time slightly by skipping a redundant validation of built-in model…]]'
+- '[[Changes/Claude Code/2026-09-15-changed-bug-and-feedback-reports-to-include-only-model-behavior-params-model-sys|Changed
+  /bug and /feedback reports to include only model-behavior params…]]'
+- '[[Changes/Claude Code/2026-09-17-2-model-support-changes-in-v2-1-274|2 Model Support
+  changes in v2.1.274]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd|claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd]]'
 source_type: github_releases
 theme: model-support
@@ -75,16 +77,24 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-09-17-vscode-improved-the-agent-map-the-pill-counts-running-agents-and-turns-red-after|VSCode Improved the agent map]] · Agent Mode
+- [[Changes/Claude Code/2026-09-17-6-apps-and-integrations-changes-in-v2-1-275|6 Apps and Integrations changes in v2.1.275]] · Apps and Integrations
+- [[Changes/Claude Code/2026-09-17-10-editor-experience-changes-in-v2-1-275|10 Editor Experience changes in v2.1.275]] · Editor Experience
+- [[Changes/Claude Code/2026-09-17-vscode-added-viewing-editing-and-deleting-a-saved-memory-inside-the-memory-dialo|VSCode Added viewing, editing and deleting a saved memory inside the Memory dialog]] · Memory and Personalization
+- [[Changes/Claude Code/2026-09-17-7-safety-and-privacy-changes-in-v2-1-275|7 Safety and Privacy changes in v2.1.275]] · Safety and Privacy
+- [[Changes/Claude Code/2026-09-17-claude-tag-improved-claude-s-notices-in-enterprise-grid-channels-shared-across-w|Claude Tag Improved Claude's notices in Enterprise Grid channels shared across…]] · Enterprise and Administration
+- [[Changes/Claude Code/2026-09-17-2-developer-workflow-changes-in-v2-1-275|2 Developer Workflow changes in v2.1.275]] · Developer Workflow
 - [[Changes/Claude Code/2026-09-17-added-the-signed-in-account-to-claude-apps-gateway-sign-in-when-the-gateway-name|Added the signed-in account to Claude apps gateway sign-in]] · Account and Access
-- [[Changes/Claude Code/2026-09-17-added-syncing-of-the-skills-and-plugins-enabled-on-your-claude-ai-account-to-ter|Added syncing of the skills and plugins enabled on your claude.ai account…]] · Developer Workflow
+- [[Changes/Claude Code/2026-09-17-improved-the-desktop-error-when-claude-desktop-does-not-open-it-now-says-why-and|Improved the /desktop error when Claude Desktop does not open]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-09-17-improved-the-artifact-tool-s-publish-and-read-results-they-now-say-who-can-open|Improved the Artifact tool's publish and read results]] · Interface Experience
 - [[Changes/Claude Code/2026-09-17-added-plugin-install-plugin-marketplace-source-which-offers-to-add-the-marketpla|Added /plugin install plugin --marketplace source, which offers to add…]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-added-effort-attribute-to-the-claude-code-llm-request-opentelemetry-trace-span-m|Added effort attribute to the claude_code.llm_request OpenTelemetry trace span…]]
-- Later: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-added-claude-opus-5-5-claude-opus-5-5-now-the-default-opus-model-1m-context-4-20|Added Claude Opus 5.5 (claude-opus-5-5), now the default Opus model]]
+- Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-2-model-support-changes-in-v2-1-274|2 Model Support changes in v2.1.274]]
+- Later: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-changed-fable-to-always-appear-in-model-on-the-anthropic-api-it-is-greyed-out-on|Changed Fable to always appear in /model on the Anthropic API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

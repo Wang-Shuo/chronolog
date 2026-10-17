@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 34c8fda4576d3293b815376a2c167f8327dafd81a9f305f8c6459fa114206e07
+machine_hash: aacb96e865d4fa5b469ec615c69d6f4777a460623f7f47c14eb56f308e3d2f91
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   ctrl+t shortcut in /theme to toggle syntax highlighting on/off]]'
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9|claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added alt-y yank-pop to cycle through kill ring history after ctrl-y yank
 type: change

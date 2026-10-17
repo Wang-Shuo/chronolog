@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: a00a301b91a2e400ea0d678f81ab966c3682e5b5a8605d05e751970c297c8a51
+machine_hash: e4aaaece071b3330f17fd3f72210a76ca08682a80bf4b7078654f25dc276a2ae
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   now confirms when your chosen level will persist as the default for new sessions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-06-v2-1-166-github-335118845-ef990727|claude-code-2026-06-06-v2-1-166-github-335118845-ef990727]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Added fallbackModel setting to configure up to three fallback models tried…
 type: change

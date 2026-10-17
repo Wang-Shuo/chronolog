@@ -14,9 +14,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 732eb2aeacc0d534678d34ef765680d1218d45907f19f1cdb80a0d080c09560f
+kind: change
+machine_hash: 7bcd73bcc9f9e96ce586ca15e8d57dc0c0cc0aff4ba97b1eeec9f8fdd9ea56fc
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +32,9 @@ record:
   - quote: We release an improved New AI Project feature to nightly users. This is
       a more robust chain and cleaner
     source_release: https://cursor.com/changelog/0-9-8-nightly
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: we-release-an-improved-new-ai-project-feature-to-nightly-users-this-is-a-more-ro
@@ -44,12 +46,12 @@ record:
   title: We release an improved New AI Project feature to nightly users
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-26-removes-a-check-in-the-chat-that-slows-the-chat-down-in-certain-cases|Removes
-  a check in the chat that slows the chat down in certain cases]]'
-- '[[Changes/Cursor/2023-08-20-ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie|SSH
+- '[[Changes/Cursor/2023-08-22-ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie|SSH
   support is now more robust!]]'
-- '[[Changes/Cursor/2023-09-05-updates-to-docs-try-pasting-a-link-in-chat-you-can-delete-edit-docs-you-can-see|Updates
-  to docs…]]'
+- '[[Changes/Cursor/2023-09-05-updates-to-docs-try-pasting-a-link-in-chat-you-can-delete-edit-docs-you-can-see|Docs
+  updates]]'
+- '[[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg|We
+  no longer store any full files in memory and prevent users from @''ing very large…]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-07-0-9-8-nightly-https-cursor-com-changelog-0-9-8-nightly-bc635135|cursor-2023-09-07-0-9-8-nightly-https-cursor-com-changelog-0-9-8-nightly-bc635135]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -72,15 +74,14 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2023-09-07-ux-for-producing-a-project-end-to-end|UX for producing a project end-to-end]] · Projects and Workspaces
-- [[Changes/Cursor/2023-09-07-it-still-struggles-with-coherently-producing-large-complex-projects-but-produces|It still struggles with coherently producing large complex projects, but produces…]] · Projects and Workspaces
+- [[Changes/Cursor/2023-09-07-ux-for-producing-a-project-end-to-end-b8d638|UX for producing a project end-to-end]] · Projects and Workspaces
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2023-09-05 · Cursor · [[Changes/Cursor/2023-09-05-updates-to-docs-try-pasting-a-link-in-chat-you-can-delete-edit-docs-you-can-see|Updates to docs…]]
-- Later: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-following-this-update-future-updates-should-come-as-staged-rollouts-this-will-me|Following this update, future updates should come as staged rollouts]]
+- Earlier: 2023-09-07 · Cursor · [[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg|We no longer store any full files in memory and prevent users from @'ing very large…]]
+- Later: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-following-this-update-future-updates-should-come-as-staged-rollouts-this-will-me|Staged Rollouts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

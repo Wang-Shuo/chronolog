@@ -4,8 +4,8 @@ date: '2026-05-13'
 description: 'Cursor · 2026-05-13 · Agent Mode: This release introduces quality-of-life
   improvements to the Agents Window.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1042
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: cd63b37a308452cdbc115baa29edc9273b486727f13c578cea7cf7c7c5c9ad39
+kind: launch
+machine_hash: 92676c37126f4ff34e3f6c14defc63d0391c62777e9bab22f2aadfcc381e8d19
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: This release introduces quality-of-life improvements to the Agents Window.
     source_release: https://cursor.com/changelog/3-4
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: cursor
   product_name: Cursor
   slug: this-release-introduces-quality-of-life-improvements-to-the-agents-window
@@ -39,12 +41,12 @@ record:
   title: Cursor introduces quality-of-life improvements to the Agents Window
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-13-added-claude-agents-cwd-path-to-scope-the-session-list-to-a-directory|Added
-  claude agents --cwd path to scope the session list to a directory]]'
-- '[[Changes/Cursor/2026-05-13-to-take-engineering-tasks-from-start-to-finish-agents-need-a-development-environ|To
-  take engineering tasks from start to finish, agents need a development…]]'
-- '[[Changes/Cursor/2026-05-13-files-changes-canvases-prs-browsers-and-terminals-can-expand-to-fill-the-entire|Files,
-  changes, canvases, PRs, browsers, and terminals can expand to fill the entire…]]'
+- '[[Changes/Claude Code/2026-05-12-2-agent-mode-changes-in-v2-1-140|2 Agent Mode
+  changes in v2.1.140]]'
+- '[[Changes/Claude Code/2026-05-13-4-agent-mode-changes-in-v2-1-141|4 Agent Mode
+  changes in v2.1.141]]'
+- '[[Changes/Cursor/2026-05-13-improved-agent-led-environment-setup|Improved agent-led
+  environment setup]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d|cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -55,7 +57,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Cursor introduces quality-of-life improvements to the Agents Window
 
-**Cursor** · 2026-05-13 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/3-4) · from [[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d|Full-screen Tabs and Compact Chats]]
+**Cursor** · 2026-05-13 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://cursor.com/changelog/3-4) · from [[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d|Full-screen Tabs and Compact Chats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -67,23 +69,25 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-05-13-compact-chats-give-you-a-tighter-view-of-your-agent-conversations-so-you-can-rea|Compact chats give you a tighter view of your agent conversations so you can read…]] · Context Window
-- [[Changes/Cursor/2026-05-13-files-changes-canvases-prs-browsers-and-terminals-can-expand-to-fill-the-entire|Files, changes, canvases, PRs, browsers, and terminals can expand to fill the entire…]] · Agent Mode
-- [[Changes/Cursor/2026-05-13-full-screen-maximizes-the-right-panel-so-you-can-focus-on-a-single-tab|Full screen maximizes the right panel so you can focus on a single tab]] · Interface Experience
-- [[Changes/Cursor/2026-05-13-enter-and-exit-full-screen-by-clicking-on-the-expand-contract-button-in-the-pane|Enter and exit full screen by clicking on the expand/contract button in the panel…]] · Interface Experience
+- [[Changes/Cursor/2026-05-13-improved-mcp-auth-token-lifecycle-handling|Improved MCP auth token lifecycle handling]] · Apps and Integrations
+- [[Changes/Cursor/2026-05-13-compact-chat-responses|Compact chat responses]] · Context Window
+- [[Changes/Cursor/2026-05-13-improved-pr-tabs-by-adding-clearer-review-states-better-reviewer-thread-visibili|Improved PR tabs by adding clearer review states, better reviewer/thread visibility…]] · Editor Experience
+- [[Changes/Cursor/2026-05-13-removed-noisy-in-app-terminal-notifications-and-improved-shortcut-behavior|Removed noisy in-app terminal notifications and improved shortcut behavior]] · Developer Workflow
+- [[Changes/Cursor/2026-05-13-3-interface-experience-changes-in-3-4|3 Interface Experience changes in 3.4]] · Interface Experience
+- [[Changes/Cursor/2026-05-13-full-screen-tabs-faa5d2|Full-screen tabs]] · Interface Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-to-take-engineering-tasks-from-start-to-finish-agents-need-a-development-environ|To take engineering tasks from start to finish, agents need a development…]]
-- Later: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-cloud-agents-and-automations-now-support-multi-repo-environments-building-off-ou|Cloud agents and automations now support multi-repo environments, building off our…]]
+- Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-improved-agent-led-environment-setup|Improved agent-led environment setup]]
+- Later: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-cloud-agents-and-automations-now-support-multi-repo-environments-building-off-ou|Multi-repo environments]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

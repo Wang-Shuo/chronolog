@@ -14,9 +14,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: b07ec6bd1d108ea647cce010c68a9065d614ba3012940b287d16a02709435818
+kind: change
+machine_hash: 3f3ec3db67083758a8587caa53f316c95f8e1c42bfa3eed60d8fa66077e641eb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: All tasks are faster and more reliable.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: all-tasks-are-faster-and-more-reliable
@@ -39,10 +41,10 @@ record:
   title: All tasks are faster and more reliable
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-12-background-sessions-now-show-clearer-guidance-when-a-window-left-open-across-an|Background
-  sessions now show clearer guidance when a window left open across…]]'
-- '[[Changes/Claude Code/2026-06-12-improved-bedrock-credential-caching-credentials-from-awscredentialexport-are-now|Improved
-  Bedrock credential caching]]'
+- '[[Changes/Cursor/2026-06-10-the-average-review-time-for-bugbot-is-now-90-seconds-down-from-5-minutes-bugbot-362593|The
+  average review time for Bugbot is now ~90 seconds, down from ~5 minutes]]'
+- '[[Changes/Claude Code/2026-06-12-2-reliability-and-performance-changes-in-v2-1-176|2
+  Reliability and Performance changes in v2.1.176]]'
 - '[[Changes/ChatGPT/2026-06-17-with-scheduled-tasks-users-can-ask-chatgpt-to-send-reminders-handle-recurring-wo|With
   scheduled tasks, users can ask ChatGPT to send reminders, handle recurring…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a|chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a]]'
@@ -71,12 +73,13 @@ type: change
 - [[Changes/ChatGPT/2026-06-17-monitoring-tasks-can-search-the-web-and-check-connected-apps-for-changes-and-not|Monitoring tasks can search the web and check connected apps for changes and notify…]] · Apps and Integrations
 - [[Changes/ChatGPT/2026-06-17-a-new-scheduled-page-discoverable-in-the-sidebar-gives-users-one-place-to-view-a|A new Scheduled page, discoverable in the sidebar, gives users one place to view…]] · Interface Experience
 - [[Changes/ChatGPT/2026-06-17-users-can-schedule-work-for-specific-times-or-broader-windows-such-as-morning-af|Users can schedule work for specific times or broader windows, such as morning…]] · Automation and Scheduling
+- [[Changes/ChatGPT/2026-06-17-update-on-pulse|Update on Pulse]] · Automation and Scheduling
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-improved-bedrock-credential-caching-credentials-from-awscredentialexport-are-now|Improved Bedrock credential caching]]
+- Earlier: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-2-reliability-and-performance-changes-in-v2-1-176|2 Reliability and Performance changes in v2.1.176]]
 - Later: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-improved-auto-retry-api-connection-drops-mid-thinking-now-automatically-retry-in|Improved auto-retry: API connection drops mid-thinking now automatically retry…]]
 <!-- chronolog:end -->
 

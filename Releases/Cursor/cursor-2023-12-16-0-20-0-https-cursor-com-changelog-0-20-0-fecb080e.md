@@ -3,7 +3,7 @@ changes_count: 4
 date: '2023-12-16'
 description: 'Cursor release Copilot++, @ previews, AI Review on 2023-12-16: 4 tracked
   changes across Apps and Integrations, Editor Experience, Interface Experience, Model…'
-machine_hash: 2a61a4a08cfe19259f3930d1e87e827c561be3f60a0e61df2e3eb4a259f7e31f
+machine_hash: 726f1ed8ea1f2080c95e409665c57747fcbc04c53a4b61f87a58c53cb0442e3d
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.20.0
 <!-- chronolog:begin region="summary" -->
 @ previews: We made it easier to see what codeblock you're @'ing.
 
-Tracked 4 of 4 candidate lines.
+Tracked 4 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

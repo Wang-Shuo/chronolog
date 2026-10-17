@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 779afb15e528eb0b50cc7be3df5ca025e91965d8a18e48514d0dac51254ee141
+kind: change
+machine_hash: 366627a106cb49c57febd26fb2dba4ca8e5ad4607dd12ec3045520a1a16e37d1
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added a grey ⏸ badge to the footer when in manual permission mode, making
       the active mode always visible
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.203
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-a-grey-badge-to-the-footer-when-in-manual-permission-mode-making-the-activ
@@ -72,10 +74,13 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-07-07-added-the-session-s-additional-working-directories-to-mcp-roots-list-with-notifi|Added the session's additional working directories to MCP roots/list…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-07-07-improved-subagent-behavior-agents-are-now-less-likely-to-re-delegate-their-entir|Improved subagent behavior]] · Agent Mode
-- [[Changes/Claude Code/2026-07-07-improved-responsiveness-while-long-responses-stream-live-preview-updates-no-long|Improved responsiveness while long responses stream]] · Reliability and Performance
+- [[Changes/Claude Code/2026-07-07-2-reliability-and-performance-changes-in-v2-1-203|2 Reliability and Performance changes in v2.1.203]] · Reliability and Performance
+- [[Changes/Claude Code/2026-07-07-removed-the-startup-claude-command-missing-or-broken-warnings-they-now-appear-in|Removed the startup "claude command missing or broken" warnings]] · Developer Workflow
+- [[Changes/Claude Code/2026-07-07-removed-a-redundant-navigation-hint-from-the-claude-agents-footer|Removed a redundant navigation hint from the claude agents footer]] · Interface Experience
 - [[Changes/Claude Code/2026-07-07-added-a-warning-when-your-login-is-about-to-expire-so-you-can-re-authenticate-be|Added a warning when your login is about to expire, so you can re-authenticate…]] · Account and Access
+- [[Changes/Claude Code/2026-07-07-changed-left-arrow-to-no-longer-close-the-background-tasks-diff-and-workflow-det|Changed left arrow to no longer close the background tasks, diff, and workflow…]] · Editor Experience
+- [[Changes/Claude Code/2026-07-07-2-agent-mode-changes-in-v2-1-203|2 Agent Mode changes in v2.1.203]] · Agent Mode
+- [[Changes/Claude Code/2026-07-07-2-apps-and-integrations-changes-in-v2-1-203|2 Apps and Integrations changes in v2.1.203]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

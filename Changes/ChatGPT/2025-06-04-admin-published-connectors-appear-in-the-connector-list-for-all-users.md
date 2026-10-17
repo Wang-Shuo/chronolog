@@ -4,8 +4,8 @@ date: '2025-06-04'
 description: 'ChatGPT · 2025-06-04 · Apps and Integrations: Admin-published connectors
   appear in the connector list for all users'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 804
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 21ef8fd24a1438d35ac9a7503c536e0146c16ef4f9aec359b98c9b8b828ea8ce
+kind: change
+machine_hash: d683fd3abf479c4ed430cad303bbd032eaf3b25e570e1a10f2f19f93d9782522
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,8 +30,9 @@ record:
   evidence:
   - quote: Admin-published connectors appear in the connector list for all users
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: admin-published-connectors-appear-in-the-connector-list-for-all-users
@@ -40,10 +42,10 @@ record:
   title: Admin-published connectors appear in the connector list for all users
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-projects-with-mcp-servers-will-now-prompt-users-to-enable-them|Projects
-  with MCP servers will now prompt users to enable them]]'
-- '[[Changes/ChatGPT/2025-05-15-the-github-connector-is-now-available-globally-to-plus-pro-team-users-including|The
-  GitHub connector is now available globally to Plus/Pro/Team users, including…]]'
+- '[[Changes/ChatGPT/2025-05-15-the-github-connector-is-now-available-globally-to-plus-pro-team-users-including|GitHub
+  connector for deep research]]'
+- '[[Changes/Cursor/2025-05-15-refreshed-inline-edit-cmd-ctrl-k-with-agent-integration|Refreshed
+  Inline Edit (Cmd/Ctrl+K) with Agent integration]]'
 - '[[Changes/ChatGPT/2025-06-04-supported-connectors-google-drive-sharepoint-dropbox-box-outlook-gmail-google-ca|Supported
   connectors: Google Drive, SharePoint, Dropbox, Box, Outlook, Gmail, Google…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-04-custom-connectors-via-model-context-protocol-pro-team-enterprise-a1bc36f5|chatgpt-2025-06-04-custom-connectors-via-model-context-protocol-pro-team-enterprise-a1bc36f5]]'
@@ -75,13 +77,13 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-06-04 · ChatGPT · [[Changes/ChatGPT/2025-06-04-supported-connectors-google-drive-sharepoint-dropbox-box-outlook-gmail-google-ca|Supported connectors: Google Drive, SharePoint, Dropbox, Box, Outlook, Gmail, Google…]]
-- Later: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-cursor-reads-the-entire-slack-thread-before-starting-so-background-agents-unders|Cursor reads the entire Slack thread before starting, so Background Agents…]]
+- Later: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-agents-understand-context-6b73fc|Agents understand context]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -14,9 +14,10 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 1c8e69387663b7fe5a568296313be3819fc541fec2607ad96ae3046ff853fd78
+kind: change
+machine_hash: 37d2099d71421a6ef759f6364943a032cfb32ed1e3c6b5f7e56e5e44109aa3a4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,8 +37,9 @@ record:
       click More actions (⋯), and select Branch in new chat to start a separate conversation
       from that point.This feature is available today for all logged-in users on web.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen
@@ -46,7 +48,7 @@ record:
   theme: projects-workspaces
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Branch conversations in ChatGPT, making it easier to explore different directions…
+  title: Branch conversations on web
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-09-17-composer-notepads-previously-called-projects-can-now-include-tagged-files-and-be|Composer
@@ -58,12 +60,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-04-branch-conversations-on-web-335d0aa3|chatgpt-2025-09-04-branch-conversations-on-web-335d0aa3]]'
 source_type: chatgpt_changelog
 theme: projects-workspaces
-title: Branch conversations in ChatGPT, making it easier to explore different directions…
+title: Branch conversations on web
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Branch conversations in ChatGPT, making it easier to explore different directions…
+# Branch conversations on web
 
 **ChatGPT** · 2025-09-04 · [[Themes/projects-workspaces|Projects and Workspaces]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-04-branch-conversations-on-web-335d0aa3|Branch conversations on web]]
 <!-- chronolog:end -->

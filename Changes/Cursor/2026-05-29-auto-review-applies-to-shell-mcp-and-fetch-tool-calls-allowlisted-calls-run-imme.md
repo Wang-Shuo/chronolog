@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 92ab1c6aae543a2f0feb2410d3e0bd606020326607cbf43d9725ac462a853408
+machine_hash: fceb86019cde293cdc013c1a79bef64ea2c65e57924b0a076955da3e9ef7d87b
 product: cursor
 product_name: Cursor
 record:
@@ -67,6 +67,7 @@ related_changes:
   a PowerShell permission bypass]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-29-3-6-https-cursor-com-changelog-auto-review-c5d7c919|cursor-2026-05-29-3-6-https-cursor-com-changelog-auto-review-c5d7c919]]'
 source_type: cursor_changelog
+superseded: true
 theme: safety-privacy
 title: Auto-review applies to Shell, MCP, and Fetch tool calls
 type: change

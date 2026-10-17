@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: fe12079bafaaab25d0b4420cf4950e7c0a107f578dbfdaf48a2771c7b6c77613
+machine_hash: 463219318408ab53e2df1216f8e9f3f924c702cdacc6fd0aeb1f244d0834140c
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   a startup warning for Write(path), NotebookEdit(path), and Glob(path)…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57|claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed permission previews relayed to chat channels not neutralizing…
 type: change

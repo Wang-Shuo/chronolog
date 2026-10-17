@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 788f3b68bc2f30ee76c485766de04f9a9f24255c0da974fa450b56749c306c7d
+machine_hash: eb3142f306e74f8eef4a10d4c64d15affe7e03061049157ea9458f0c2ad174a8
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   source path metadata to images dragged onto the terminal, helping Claude…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-2-github-275344737-27089666|claude-code-2026-01-09-v2-1-2-github-275344737-27089666]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added clickable hyperlinks for file paths in tool output in terminals that
   support…

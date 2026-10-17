@@ -4,8 +4,8 @@ date: '2026-09-19'
 description: 'Claude Code · 2026-09-19 · Agent Mode: Added an `Auto mode server` row
   to `/status` showing whether this session''s auto mode classifier runs on the server'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1171
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 98c1fcd5078a5fef8013472e4e2a87317ecef250f0f4cddde4e8c0146f87ddd7
+kind: change
+machine_hash: 1bc6e8133f1fb2477c02220fafd219547f475afc2182319d1979f04acc50ab2e
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added an `Auto mode server` row to `/status` showing whether this session's
       auto mode classifier runs on the server
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.278
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-an-auto-mode-server-row-to-status-showing-whether-this-session-s-auto-mode
@@ -41,12 +43,12 @@ record:
     auto…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-added-omitclaudemd-to-agent-frontmatter-and-agents-json-letting-custom-and-plugi|Added
-  omitClaudeMd to agent frontmatter and --agents JSON, letting custom…]]'
-- '[[Changes/Claude Code/2026-09-14-added-per-command-allowed-domains-to-bash-powershell-and-monitor-in-auto-mode-wi|Added
-  per-command allowed_domains to Bash, PowerShell and Monitor in auto mode…]]'
-- '[[Changes/Claude Code/2026-09-18-added-agents-md-support-in-a-project-with-no-claude-md-claude-code-reads-agents|Added
-  AGENTS.md support]]'
+- '[[Changes/Claude Code/2026-09-15-changed-auto-mode-on-bedrock-vertex-and-foundry-to-use-the-local-classifier-by-d|Changed
+  auto mode on Bedrock, Vertex and Foundry to use the local classifier…]]'
+- '[[Changes/Claude Code/2026-09-17-vscode-improved-the-agent-map-the-pill-counts-running-agents-and-turns-red-after|VSCode
+  Improved the agent map]]'
+- '[[Changes/Claude Code/2026-09-18-4-agent-mode-changes-in-v2-1-277|4 Agent Mode
+  changes in v2.1.277]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-19-v2-1-278-github-391877760-2958ad0a|claude-code-2026-09-19-v2-1-278-github-391877760-2958ad0a]]'
 source_type: github_releases
 theme: agent-mode
@@ -75,14 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-added-agents-md-support-in-a-project-with-no-claude-md-claude-code-reads-agents|Added AGENTS.md support]]
-- Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-added-a-yes-but-ask-again-next-time-answer-to-auto-mode-s-prompt-before-a-read-o|Added a "Yes, but ask again next time" answer to auto mode's prompt before a read…]]
+- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-4-agent-mode-changes-in-v2-1-277|4 Agent Mode changes in v2.1.277]]
+- Later: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-2-agent-mode-changes-in-v2-1-280|2 Agent Mode changes in v2.1.280]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

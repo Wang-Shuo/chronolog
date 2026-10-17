@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9943d413ee5002578e2f3f073dd61f3b0fa095f6144c54cd9176e1ab1316b5cc
+machine_hash: 220d310ef77b5464af7ece736f03f0cf3dd7cf67c676aac5147c39c1fed8ded5
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   claude plugin prune to remove orphaned auto-installed plugin dependencies]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196|claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added ANTHROPIC_BEDROCK_SERVICE_TIER environment variable to select a Bedrock…
 type: change

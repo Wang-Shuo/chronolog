@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9fa86675033ee0271994393167c95b747a1f90e7e4198fb4bf596a08db1092d3
+machine_hash: 7e296b28fe3f260240b9fe8cf82b2a00a96a46e766aba54c6ed48655fa705d95
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,6 +49,7 @@ related_changes:
   new plugins for ChatGPT Work and Codex help students and educators work…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-04-new-education-plugins-for-students-and-educators-d6701667|chatgpt-2026-08-04-new-education-plugins-for-students-and-educators-d6701667]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: apps-integrations
 title: The plugins are available through ChatGPT Edu and ChatGPT for Teachers district…
 type: change

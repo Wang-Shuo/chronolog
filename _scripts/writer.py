@@ -27,7 +27,7 @@ from _scripts.common import (
 )
 from _scripts.extract import (
     GENERIC_HEADING_RE,
-    MAX_CARDS_PER_RELEASE,
+    KIND_LABELS,
     load_theme_vocabulary,
     split_release_lines,
 )
@@ -60,6 +60,8 @@ MACHINE_FIELD_NAMES = {
     "created",
     "modified",
     "theme",
+    "kind",
+    "scope",
     "impact",
     "extractor_version",
     "related_changes",
@@ -261,11 +263,14 @@ def merge_page_body(
 
     A legacy card H1 that no longer matches ``record.title`` was edited by a person
     (PR 1 refreshed generated card headings), so it counts as human text. Release and
-    theme H1s were never refreshed and may be stale, so they are always generated.
+    theme H1s were never refreshed and may be stale, so they are always generated; so
+    are the H1s of superseded cards, which PR 1 did not refresh either and which a new
+    card definition can bring back under the same identity.
     """
     heading = _leading_heading(body)
     edited_heading = (
         kind == "change"
+        and metadata.get("superseded") is not True
         and heading is not None
         and not _is_generated_heading(heading[1], metadata, kind, _first_heading(rendered_body))
     )
@@ -499,11 +504,42 @@ def render_theme_markdown(
     return render_frontmatter(fields, body)
 
 
-def change_description(card: dict[str, Any], theme_labels: dict[str, str] | None = None) -> str:
+def kind_label(card: dict[str, Any]) -> str:
+    """Display label of a card's kind; empty for a plain change or a pre-W2 record."""
+    kind = str(card.get("kind") or "change")
+    return "" if kind == "change" else KIND_LABELS.get(kind, kind.title())
+
+
+def change_description(
+    card: dict[str, Any],
+    theme_labels: dict[str, str] | None = None,
+    release_title: str | None = None,
+) -> str:
     quote_text = card["evidence"][0]["quote"] if card.get("evidence") else card["title"]
-    return cap_text(
-        f"{card['product_name']} · {card['date']} · "
-        f"{theme_label(card['theme'], theme_labels)}: {quote_text}"
+    display = theme_label(card["theme"], theme_labels)
+    if card.get("kind") == "digest":
+        where = f" in {release_title}" if release_title else ""
+        return cap_text(
+            f"{card['product_name']} · {card['date']} · {display}: "
+            f"{plural(len(card['evidence']), 'change')}{where} — {quote_text}"
+        )
+    return cap_text(f"{card['product_name']} · {card['date']} · {display}: {quote_text}")
+
+
+def render_evidence(card: dict[str, Any]) -> str:
+    """Quoted source text: a digest lists each item; other cards quote one group."""
+    evidence = card["evidence"]
+    sources = list(dict.fromkeys(str(item["source_release"]) for item in evidence))
+    if card.get("kind") == "digest":
+        quotes = "\n\n".join(f"> {item['quote']}" for item in evidence)
+        return f"## Changes in this digest\n\n{quotes}\n\n" + "\n".join(
+            f"Source: {source}" for source in sources
+        )
+    if len(evidence) > 1 and len(sources) == 1:
+        quotes = "\n>\n".join(f"> {item['quote']}" for item in evidence)
+        return f"{quotes}\n>\n> Source: {sources[0]}"
+    return "\n\n".join(
+        f"> {item['quote']}\n>\n> Source: {item['source_release']}" for item in evidence
     )
 
 
@@ -549,6 +585,8 @@ def render_change_markdown(
             "source_release",
             "date",
             "theme",
+            "kind",
+            "scope",
             "impact",
             "extractor_version",
             "source_type",
@@ -556,7 +594,7 @@ def render_change_markdown(
         if key in card
     }
     metadata["title"] = wiki_label(card["title"])
-    metadata["description"] = change_description(card, theme_labels)
+    metadata["description"] = change_description(card, theme_labels, release_title)
     metadata["record"] = {key: value for key, value in card.items() if not key.startswith("_")}
     if release_target:
         metadata["source_release"] = f"[[{release_target}|{card['source_release']}]]"
@@ -587,13 +625,15 @@ def render_change_markdown(
         card["date"],
         f"[[Themes/{card['theme']}|{wiki_label(display)}]]",
     ]
+    if kind_label(card):
+        meta_line.append(kind_label(card))
+    if card.get("scope"):
+        meta_line.append(wiki_label(str(card["scope"])))
     if source_url:
         meta_line.append(f"[Official source]({markdown_url(source_url)})")
     if release_target and release_title:
         meta_line.append(f"from [[{release_target}|{wiki_label(release_title)}]]")
-    evidence = "\n\n".join(
-        f"> {item['quote']}\n>\n> Source: {item['source_release']}" for item in card["evidence"]
-    )
+    evidence = render_evidence(card)
     context_lines = [
         f"- {card_link(other, card_targets)} · {theme_label(other['theme'], theme_labels)}"
         for other in sorted(siblings or [], key=lambda item: item["card_id"])
@@ -691,7 +731,7 @@ def render_product_markdown(
                 product_info.get("coverage", {}),
                 len(ordered_releases) if releases is not None else None,
             )
-            + "\n\nAcquisition details, sampling rules and known gaps: [[About]]."
+            + "\n\nAcquisition details, how cards are made and known gaps: [[About]]."
         ),
         "narrative": (product_info.get('narrative_summary', '') + '\n\n' +
                       product_info.get('narrative_limitations', '')).strip() or
@@ -761,11 +801,26 @@ def informative_summary(summary: Any, title: Any) -> bool:
     )
 
 
+def tracked_line(count: int, candidates: int | None, pending_lines: int = 0) -> str:
+    """``Tracked N cards from M candidate lines; K lines pending review.``"""
+    if candidates is not None and candidates >= count:
+        tracked = f"Tracked {plural(count, 'card')} from {plural(candidates, 'candidate line')}"
+    else:
+        tracked = f"Tracked {plural(count, 'card')}"
+    if pending_lines:
+        tracked += f"; {plural(pending_lines, 'line')} pending review"
+    return tracked + "."
+
+
 def render_release_markdown(
     release: dict[str, Any],
     card_targets: dict[str, str] | None = None,
     theme_labels: dict[str, str] | None = None,
+    *,
+    pending_lines: int = 0,
 ) -> str:
+    """Render a Release page. ``pending_lines`` counts this release's lines waiting in
+    the theme review queue."""
     cards = sorted(release.get("cards", []), key=lambda card: (card["date"], card["card_id"]))
     count = len(cards)
     theme_counts = Counter(card["theme"] for card in cards)
@@ -780,6 +835,7 @@ def render_release_markdown(
     candidates = candidate_line_count(release)
     card_lines = [
         f"- {card_link(card, card_targets)} · {theme_label(card['theme'], theme_labels)}"
+        + (f" · {kind_label(card)}" if kind_label(card) else "")
         for card in cards
     ]
     if informative_summary(release.get("source_summary"), release["title"]):
@@ -791,10 +847,7 @@ def render_release_markdown(
         )
     else:
         summary = "No change cards extracted."
-    if candidates is not None and candidates >= count:
-        tracked = f"Tracked {count} of {plural(candidates, 'candidate line')}."
-    else:
-        tracked = f"Tracked {plural(count, 'change')}."
+    tracked = tracked_line(count, candidates, pending_lines)
     regions = {
         "header": (
             f"# {heading}\n\n"
@@ -1053,7 +1106,7 @@ def render_index_markdown(
         "themes": theme_groups(theme_counts, vocabulary, theme_labels) or "No themes yet.",
         "coverage": (
             ("\n".join(coverage_lines) or "No sources recorded yet.")
-            + f"\n\nAcquisition times, sampling rules, review status and glossary: {ABOUT_LINK}."
+            + f"\n\nAcquisition times, how cards are made, review status and glossary: {ABOUT_LINK}."
         ),
     }
     fields = {"tags": ["index"], "title": SITE_TITLE, "publication": aggregate_publication(cards)}
@@ -1071,30 +1124,41 @@ def render_index_markdown(
 
 
 ABOUT_METHOD = "\n".join([
-    "- Each archived release is split into lines.",
-    "- Headings, version-only lines, availability notes, instructions and unclassified "
-    "bug-fix lines are skipped.",
-    "- Each remaining line becomes one Change Card with one theme from a fixed vocabulary.",
-    f"- At most {number_word(MAX_CARDS_PER_RELEASE)} cards are kept per release, so long "
-    "GitHub release notes are sampled; each release page shows "
-    "\"Tracked N of M candidate lines\".",
-    "- Lines without a confident theme wait in a review queue and are not published.",
+    "- Each archived release is read as headings, paragraphs and list items.",
+    "- Version-only lines, availability notes, instructions and unclassified bug-fix lines "
+    "are skipped.",
+    "- A feature heading and the text under it become one Change Card, titled by the heading.",
+    "- Consecutive paragraphs about one theme become one card. When a release yields a "
+    "single card, the card takes the release title.",
+    "- Items under a platform or plan heading (such as Web, iOS or Plus) and lists of up "
+    "to eight items become one card each.",
+    "- Longer lists, lists under headings such as \"What's changed\" or \"Bug fixes\", and "
+    "GitHub release notes are read item by item. Items that announce something on their own "
+    "(\"Introducing …\", a new slash command, a feature now on by default) stay separate "
+    "cards; the other items of one theme are listed together on one digest card per release.",
+    "- Every card has one theme from a fixed vocabulary and a kind: launch, expansion, "
+    "pricing, policy, fix, digest or change.",
+    "- Lines without a confident theme wait in a review queue and are not published. Each "
+    "release page shows \"Tracked N cards from M candidate lines\" and how many lines wait "
+    "for review.",
     "- Dates are announcement dates, not availability dates.",
     "- Relations between cards are same-theme chronology only; they never claim adoption "
     "or causation.",
 ])
 ABOUT_GLOSSARY = "\n".join([
-    "- **Change Card**: one announced change, taken from one line of an official release, "
-    "with a date, one theme and the quoted source line.",
+    "- **Change Card**: one announced change that can be understood on its own, taken from "
+    "an official release, with a date, one theme, a kind and the quoted source text.",
+    "- **Digest card**: the smaller changes of one theme in one release, quoted together on "
+    "one card.",
     "- **Release**: one archived entry of an official changelog or release page; its page "
     "lists the cards tracked from it.",
     "- **Theme**: a category from a fixed vocabulary that groups cards across products.",
     "- **Era**: a reviewed phase of one product's history, bounded by cited releases.",
     "- **Tracked products only**: comparisons and \"earliest\" statements cover only the "
     "tracked products, not the wider market.",
-    "- **Candidate line**: a line of release text that could become a card; Markdown headings, "
-    "code samples and very short lines are not counted. \"Tracked N of M candidate lines\" "
-    "compares the cards kept with these lines.",
+    "- **Candidate line**: a line of release text that could become part of a card; Markdown "
+    "headings, code samples and very short lines are not counted. \"Tracked N cards from M "
+    "candidate lines\" compares the cards kept with these lines.",
 ])
 
 
@@ -1152,7 +1216,7 @@ def render_about_markdown(
         "title": "About the data",
         "description": cap_text(
             "Where ChronoLog's data comes from, how official release notes become reviewed "
-            "Change Cards, what is sampled or skipped, and how to report a problem."
+            "Change Cards, what is grouped or skipped, and how to report a problem."
         ),
         "publication": aggregate_publication(cards),
     }
@@ -1549,10 +1613,18 @@ def write_run(
             conflicts,
         )
 
+    pending_lines: Counter = Counter()
+    for card in pending_theme_review:
+        pending_lines[card["source_release"]] += len(card.get("evidence") or [None])
     for release in collected_releases:
         write_markdown_file(
             release_paths[release["release_id"]],
-            render_release_markdown(release, card_targets, theme_labels),
+            render_release_markdown(
+                release,
+                card_targets,
+                theme_labels,
+                pending_lines=pending_lines[release["release_id"]],
+            ),
             conflicts,
             migration_pending,
         )

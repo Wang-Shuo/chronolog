@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 054f62bb6f69259d3dd8f774be0d6f580e0e31642ec167f071bd70b7973abe16
+machine_hash: e2f8ef8189315ad499b38bf706fcc8c6f6e9e4fb1c56505d769b5ef099de46ea
 product: cursor
 product_name: Cursor
 record:
@@ -72,6 +72,7 @@ related_changes:
   a breakdown of your agent''s context usage]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4|cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: Cursor automatically picks the right repository and model based on your prompt…
 type: change

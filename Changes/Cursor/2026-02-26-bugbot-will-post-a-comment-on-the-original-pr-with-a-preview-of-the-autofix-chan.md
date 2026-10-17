@@ -14,9 +14,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: e2f6c2e620d53368af66da5f34b39a45980adc837dba2128f8531c2d8cd84013
+kind: change
+machine_hash: d91109452d184ffc18f3005a58030c79dc34aecd94ae7ef75612729a7a809f89
 product: cursor
 product_name: Cursor
 record:
@@ -33,8 +34,9 @@ record:
       you can instead configure autofix to push changes directly to your branch with
       no interaction required.
     source_release: https://cursor.com/changelog/02-26-26
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: bugbot-will-post-a-comment-on-the-original-pr-with-a-preview-of-the-autofix-chan
@@ -47,8 +49,8 @@ record:
     changes…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-20-added-support-for-startuptimeout-configuration-for-lsp-servers|Added
-  support for startupTimeout configuration for LSP servers]]'
+- '[[Changes/Claude Code/2026-02-20-3-developer-workflow-changes-in-v2-1-50|3 Developer
+  Workflow changes in v2.1.50]]'
 - '[[Changes/Claude Code/2026-02-24-bashtool-now-skips-login-shell-l-flag-by-default-when-a-shell-snapshot-is-availa|BashTool
   now skips login shell (-l flag) by default when a shell snapshot…]]'
 - '[[Changes/Claude Code/2026-02-26-improved-always-allow-prefix-suggestions-for-compound-bash-commands-e-g-cd-tmp-g|Improved

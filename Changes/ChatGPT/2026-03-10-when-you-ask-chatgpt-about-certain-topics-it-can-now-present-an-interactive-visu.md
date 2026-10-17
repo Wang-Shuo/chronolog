@@ -15,9 +15,10 @@ diffusion:
   theme: learning-tools
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: c74ccc349e08a486bb6ab9a2b21f71f869bdb4fef123a72758e40b98039fd22b
+kind: change
+machine_hash: 9c4db0b4c52a7dd3dacdf855f978643721b555b52cae7a57160538c4353aaccc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,16 +45,16 @@ record:
       designed to help students work through problems step by step and strengthen
       understanding.Try asking:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: when-you-ask-chatgpt-about-certain-topics-it-can-now-present-an-interactive-visu
   source_release: chatgpt-2026-03-10-interactive-learning-for-math-and-science-e25b67af
   source_type: chatgpt_changelog
   theme: learning-tools
-  title: When you ask ChatGPT about certain topics, it can now present an interactive
-    visual…
+  title: Interactive learning for math and science
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-07-29-break-concepts-into-easy-to-follow-sections-starting-simple-and-adding-complexit|Break
@@ -63,13 +64,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-10-interactive-learning-for-math-and-science-e25b67af|chatgpt-2026-03-10-interactive-learning-for-math-and-science-e25b67af]]'
 source_type: chatgpt_changelog
 theme: learning-tools
-title: When you ask ChatGPT about certain topics, it can now present an interactive
-  visual…
+title: Interactive learning for math and science
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# When you ask ChatGPT about certain topics, it can now present an interactive visual…
+# Interactive learning for math and science
 
 **ChatGPT** · 2026-03-10 · [[Themes/learning-tools|Learning Tools]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-10-interactive-learning-for-math-and-science-e25b67af|Interactive learning for math and science]]
 <!-- chronolog:end -->

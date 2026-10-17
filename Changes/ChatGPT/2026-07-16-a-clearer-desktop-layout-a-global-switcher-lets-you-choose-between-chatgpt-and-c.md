@@ -15,9 +15,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 262c8f3c6603afc38de86ac30e25ed95249436fe7a896e68d34a519a157a5de6
+kind: change
+machine_hash: df928be9d1ce2e5682da6047d5e1239275e3825eb17cef62e856259cb96a16e4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,10 +34,12 @@ record:
       and Codex. In ChatGPT, choose Chat for quick questions and conversational help,
       or Work to complete tasks end to end.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
+  scope: macOS and Windows
   slug: a-clearer-desktop-layout-a-global-switcher-lets-you-choose-between-chatgpt-and-c
   source_release: chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad
   source_type: chatgpt_changelog
@@ -45,12 +48,13 @@ record:
     and Codex'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi|The
-  new ChatGPT desktop app is available globally for macOS and Windows]]'
+- '[[Changes/ChatGPT/2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi-ae6433|The
+  new ChatGPT desktop app brings Chat, Work, and Codex together]]'
 - '[[Changes/ChatGPT/2026-07-09-beginning-july-9-users-on-web-ios-and-android-will-no-longer-be-able-to-create-n|Beginning
   July 9, users on web, iOS, and Android will no longer be able to create…]]'
-- '[[Changes/ChatGPT/2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327|We’ve
-  rolled out a new way to search your chats, projects, images, and documents…]]'
+- '[[Changes/ChatGPT/2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327|Search
+  across chats, projects, and files is now supercharged]]'
+scope: macOS and Windows
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad|chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -62,7 +66,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # A clearer desktop layout: A global switcher lets you choose between ChatGPT and Codex
 
-**ChatGPT** · 2026-07-16 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad|ChatGPT desktop app experience updates]]
+**ChatGPT** · 2026-07-16 · [[Themes/mobile-desktop|Mobile and Desktop]] · macOS and Windows · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad|ChatGPT desktop app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -83,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-14 · ChatGPT · [[Changes/ChatGPT/2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327|We’ve rolled out a new way to search your chats, projects, images, and documents…]]
-- Later: 2026-07-23 · ChatGPT · [[Changes/ChatGPT/2026-07-23-available-on-web-and-ios-health-lets-you-view-lab-results-medications-activity-s|Available on web and iOS, Health lets you view lab results, medications, activity…]]
+- Earlier: 2026-07-14 · ChatGPT · [[Changes/ChatGPT/2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327|Search across chats, projects, and files is now supercharged]]
+- Later: 2026-07-29 · Cursor · [[Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and|A full review surface]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

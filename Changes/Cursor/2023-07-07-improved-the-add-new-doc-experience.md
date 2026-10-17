@@ -4,8 +4,8 @@ date: '2023-07-07'
 description: 'Cursor · 2023-07-07 · Apps and Integrations: Improved the "@Add new
   doc" experience'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 106
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: a4320fe50aed9c3206ec503b048c65ef3ae2bb17d14cf1353ef9e276e72720fa
+kind: change
+machine_hash: 07b8ef66ee06a1eafee5186cee2f58f3908c66fcb29add11914c4b2ff32487c7
 product: cursor
 product_name: Cursor
 record:
@@ -30,8 +31,9 @@ record:
   evidence:
   - quote: Improved the "@Add new doc" experience
     source_release: https://cursor.com/changelog/0-2-44
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: improved-the-add-new-doc-experience
@@ -43,12 +45,12 @@ record:
   title: Improved the "@Add new doc" experience
   type: change
 related_changes:
+- '[[Changes/Cursor/2023-06-27-cursor-deep-linking-works-now-so-you-should-be-able-to-log-in-to-extensions|cursor://
+  deep linking works now, so you should be able to log in to extensions]]'
 - '[[Changes/Cursor/2023-06-27-better-support-for-extensions-specifically-re-enables-the-welcomeview|Better
   support for extensions (specifically re-enables the welcomeView)]]'
 - '[[Changes/Cursor/2023-07-03-also-cursor-s-ai-will-now-use-popular-documentation-to-improve-the-answers-to-yo|Also,
   Cursor''s AI will now use popular documentation to improve the answers…]]'
-- '[[Changes/Cursor/2023-07-07-makes-it-clearer-which-docs-are-being-looked-at-by-the-ai|Makes
-  it clearer which docs are being looked at by the AI]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-07-0-2-44-https-cursor-com-changelog-0-2-44-d76d2226|cursor-2023-07-07-0-2-44-https-cursor-com-changelog-0-2-44-d76d2226]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -71,10 +73,11 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2023-07-07-chat-edit-tooltip-blocks-less-code|Chat/Edit tooltip blocks less code]] · Interface Experience
 - [[Changes/Cursor/2023-07-07-better-symbol-keyboard-ergonomics|Better @ symbol keyboard ergonomics]] · Interface Experience
-- [[Changes/Cursor/2023-07-07-makes-it-clearer-which-docs-are-being-looked-at-by-the-ai|Makes it clearer which docs are being looked at by the AI]] · Apps and Integrations
-- [[Changes/Cursor/2023-07-07-ai-will-respond-with-citations-when-you-reference-docs|AI will respond with citations when you reference docs]] · Apps and Integrations
+- [[Changes/Cursor/2023-07-07-chat-edit-tooltip-blocks-less-code-3a1e6b|Chat/Edit tooltip blocks less code]] · Interface Experience
+- [[Changes/Cursor/2023-07-07-cmd-k-should-work-better-for-long-diffs-greater-than-100-lines-of-code|Cmd-k should work better for long diffs (greater than 100 lines of code)]] · Editor Experience
+- [[Changes/Cursor/2023-07-07-makes-it-clearer-which-docs-are-being-looked-at-by-the-ai-c07254|Makes it clearer which docs are being looked at by the AI]] · Apps and Integrations
+- [[Changes/Cursor/2023-07-07-importing-vs-code-extensions-now-takes-into-account-enabled-disabled|Importing VS Code extensions now takes into account enabled/disabled]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
@@ -87,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

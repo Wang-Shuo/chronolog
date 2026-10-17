@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: da4cc2723da2718d508d6d4dc8f53c9213148b6e504dc49c8b94593d9436ef0e
+machine_hash: 8b17aab3b870ad2308ffcd762ffc73b62c89cb51c97d457edc1e03ca423ee228
 product: claude-code
 product_name: Claude Code
 record:
@@ -60,6 +60,7 @@ related_changes:
   output now renders GFM task list checkboxes (-   todo / - x done)…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a|claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: 'claude agents: autocomplete in the dispatch input now suggests native slash…'
 type: change

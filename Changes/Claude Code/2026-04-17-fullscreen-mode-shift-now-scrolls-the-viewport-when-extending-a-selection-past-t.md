@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 608249bac17a138fa7802e4bd4cc682e71803738cfa74e0092e7761a2cd2c6a5
+machine_hash: 03fe6e6e18dac70e414564f7b8714a1344cb7ee569644d2204e14a67fd3b9a8b
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   now opens an interactive slider when called without arguments…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba|claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: 'Fullscreen mode: Shift+↑/↓ now scrolls the viewport when extending a selection
   past…'

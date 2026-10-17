@@ -15,9 +15,10 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 4e3d1923664b46a523d10ea536e2c4b494f635a44ef2aa08d22e920e5acdfbda
+kind: change
+machine_hash: 356ee2faa521558a03d7d862b320380a1794673b1e73fdf6c715d710b26d5ed3
 product: claude-code
 product_name: Claude Code
 record:
@@ -32,8 +33,9 @@ record:
   - quote: Added support for custom session IDs when forking sessions with `--session-id`
       combined with `--resume` or `--continue` and `--fork-session`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.0.73
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-support-for-custom-session-ids-when-forking-sessions-with-session-id-combi
@@ -50,7 +52,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-06-12-starting-a-new-project-directly-from-a-chat|Starting
   a new project directly from a chat]]'
 - '[[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21|Branch
-  conversations in ChatGPT, making it easier to explore different directions…]]'
+  conversations on web]]'
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9|claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9]]'
 source_type: github_releases
 theme: projects-workspaces
@@ -74,15 +76,15 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2025-12-19-added-clickable-image-n-links-that-open-attached-images-in-the-default-viewer|Added clickable Image ♯N links that open attached images in the default viewer]] · Multimodal Input
-- [[Changes/Claude Code/2025-12-19-added-alt-y-yank-pop-to-cycle-through-kill-ring-history-after-ctrl-y-yank|Added alt-y yank-pop to cycle through kill ring history after ctrl-y yank]] · Interface Experience
-- [[Changes/Claude Code/2025-12-19-improved-theme-command-to-open-theme-picker-directly|Improved /theme command to open theme picker directly]] · Interface Experience
-- [[Changes/Claude Code/2025-12-19-added-search-filtering-to-the-plugin-discover-screen-type-to-filter-by-name-desc|Added search filtering to the plugin discover screen…]] · Apps and Integrations
+- [[Changes/Claude Code/2025-12-19-3-interface-experience-changes-in-v2-0-73|3 Interface Experience changes in v2.0.73]] · Interface Experience
+- [[Changes/Claude Code/2025-12-19-2-apps-and-integrations-changes-in-v2-0-73|2 Apps and Integrations changes in v2.0.73]] · Apps and Integrations
+- [[Changes/Claude Code/2025-12-19-vscode-added-tab-icon-badges-showing-pending-permissions-blue-and-unread-complet|VSCode Added tab icon badges showing pending permissions (blue) and unread…]] · Editor Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2025-09-04 · ChatGPT · [[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21|Branch conversations in ChatGPT, making it easier to explore different directions…]]
+- Earlier: 2025-09-04 · ChatGPT · [[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21|Branch conversations on web]]
 - Later: 2026-01-30 · Claude Code · [[Changes/Claude Code/2026-01-30-added-from-pr-flag-to-resume-sessions-linked-to-a-specific-github-pr-number-or-u|Added --from-pr flag to resume sessions linked to a specific GitHub PR number or URL]]
 <!-- chronolog:end -->
 

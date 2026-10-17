@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a53c13eb9f647453db608d0b1f3c82ac58e2811f7cf30110bffbadfcfbc7e3fd
+machine_hash: 54ec9a56986c5b4670950ab18af4cc185dd182b67be2f36605c52736168a7644
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   a Bash permission bypass where a crafted command could hide parts of itself…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d|claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed permission prompts so commands padded with tabs or invisible Unicode
   can no…

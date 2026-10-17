@@ -5,19 +5,19 @@ description: 'Cursor · 2024-03-20 · Collaboration: Admin improvements: Team ad
   can now mark themselves as unpaid users and can see the last time team members used
   the…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
-    can also share private docs]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 194
+  lag_days: 301
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 72889fe272a8eca41ca56f13ba565c8ef1c367847b3bf9e518c08349f9a2c8f5
+kind: change
+machine_hash: 9b3f4c06dfb9c94b674aabef5c930405633ee02821afb80d510cd2c5b4778684
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +31,9 @@ record:
   - quote: 'Admin improvements: Team admins can now mark themselves as unpaid users
       and can see the last time team members used the product.'
     source_release: https://cursor.com/changelog/0-30-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s
@@ -53,8 +54,9 @@ record:
     and can see…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share
-  private docs]]'
+- '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+- '[[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|Use
+  ChatGPT alongside your team]]'
 source_release: '[[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e|cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -87,14 +89,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+- Earlier: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|Use ChatGPT alongside your team]]
 - Later: 2024-08-22 · Cursor · [[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer is now default-on and available to all Pro/Business users by hitting cmd+I]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

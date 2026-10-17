@@ -15,9 +15,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 770274f4243cdcb7198253cfa3ba936879c329d32bedc12d09ae56f7889331c7
+kind: change
+machine_hash: 53f7e2155683094980b0dada11a7f5236ec73cc4b3857c45bbb3c5f05527b270
 product: cursor
 product_name: Cursor
 record:
@@ -33,8 +34,9 @@ record:
       Help Pane has information about features, keyboard shortcuts, and much more.
       You can enable it in Settings > Beta.'
     source_release: https://cursor.com/changelog/0-32-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: cursor-help-pane-beta-you-can-also-ask-cursor-about-cursor-the-cursor-help-pane
@@ -46,8 +48,7 @@ record:
   title: 'Cursor Help Pane (Beta): You can also ask Cursor about Cursor!'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|AI
-  Notes enabled by default (hold shift on any symbol), better in-editor chat…]]'
+- '[[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|Polish]]'
 - '[[Changes/Cursor/2024-03-20-new-settings-we-moved-all-our-settings-to-be-accessible-by-the-gear-in-the-top-r|New
   Settings: We moved all our settings to be accessible by the gear in the top right]]'
 - '[[Changes/Cursor/2024-04-01-update-0-31-1-0-31-3-adds-back-in-ai-review-alpha-fixes-the-cursor-settings-menu|UPDATE

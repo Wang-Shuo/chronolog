@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 521703086941f59d5752fefa675e4c2483a3d6726b54045a8907e2337597c2f0
+kind: change
+machine_hash: 8e9f29e1ffbfdf38739465a77a52081853c17bc189e4660a4beb26dfc8b5844d
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,8 +28,9 @@ record:
   evidence:
   - quote: Improved heredoc delimiter parsing to prevent command smuggling
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.38
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-heredoc-delimiter-parsing-to-prevent-command-smuggling
@@ -40,8 +42,8 @@ record:
   title: Improved heredoc delimiter parsing to prevent command smuggling
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-03-added-support-for-additional-git-log-and-git-show-flags-in-read-only-mode-e-g-to|Added
-  support for additional git log and git show flags in read-only mode…]]'
+- '[[Changes/Claude Code/2026-02-03-2-developer-workflow-changes-in-v2-1-30|2 Developer
+  Workflow changes in v2.1.30]]'
 - '[[Changes/Claude Code/2026-02-03-added-debug-for-claude-to-help-troubleshoot-the-current-session|Added
   /debug for Claude to help troubleshoot the current session]]'
 - '[[Changes/Claude Code/2026-02-04-reduced-layout-jitter-in-the-terminal-when-the-spinner-appears-and-disappears-du|Reduced
@@ -68,15 +70,14 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-02-10-blocked-writes-to-claude-skills-directory-in-sandbox-mode|Blocked writes to .claude/skills directory in sandbox mode]] · Safety and Privacy
-- [[Changes/Claude Code/2026-02-10-fixed-bash-permission-matching-for-commands-using-environment-variable-wrappers|Fixed bash permission matching for commands using environment variable wrappers]] · Safety and Privacy
+- [[Changes/Claude Code/2026-02-10-2-safety-and-privacy-changes-in-v2-1-38|2 Safety and Privacy changes in v2.1.38]] · Safety and Privacy
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-02-04 · Claude Code · [[Changes/Claude Code/2026-02-04-reduced-layout-jitter-in-the-terminal-when-the-spinner-appears-and-disappears-du|Reduced layout jitter in the terminal when the spinner appears and disappears during…]]
-- Later: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-mermaid-code-blocks-now-render-inline-as-ascii-diagrams-in-your-cli-conversation|Mermaid code blocks now render inline as ASCII diagrams in your CLI conversation]]
+- Later: 2026-02-17 · Cursor · [[Changes/Cursor/2026-02-17-removed-auto-accept-on-commit-setting-so-pending-diffs-are-automatically-accepte|Removed Auto-Accept on Commit setting so pending diffs are automatically accepted…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: f3c6b2a00cfda704eacc4b5881e698e982bc706669a44a32fda63dfe15459cad
+machine_hash: 2f7b2c8ac66f2a6c1b5774383dcabc76d11d734c93b0f0a70a251b0b814a09d8
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   teammateMode: "iterm2" setting with a warning when auto mode cannot find…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b|claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added status filtering (press f) to the /workflows agent detail view
 type: change

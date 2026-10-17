@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: a6321c661e8365fc3dbcd81017dd20ac31237a85281996c2f18e33eb35bb9b59
+kind: change
+machine_hash: b249a41eed67a1175e1fa2b703f6111753568e6b3395456c6ac53b2f41b82e24
 product: cursor
 product_name: Cursor
 record:
@@ -33,8 +34,9 @@ record:
   - quote: 'Better Codebase Understanding: We''ve trained a new model for Codebase
       Understanding. We''ll be rolling it out to all users on 0.45 in the coming week.'
     source_release: https://cursor.com/changelog/0-45-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: better-codebase-understanding-we-ve-trained-a-new-model-for-codebase-understandi
@@ -44,8 +46,8 @@ record:
   title: 'Better Codebase Understanding: We''ve trained a new model for Codebase Understanding'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-10-09-switching-models-is-a-lot-easier-with-model-search-cmd-option-in-the-chat-compos|Switching
-  models is a lot easier with model search (Cmd-option-/) in the chat…]]'
+- '[[Changes/Cursor/2024-07-23-new-default-model-we-ve-made-claude-3-5-sonnet-the-default-model-for-users|New
+  Default Model: We''ve made Claude 3.5 Sonnet the default model for users]]'
 - '[[Changes/ChatGPT/2024-12-13-projects-provide-a-new-way-to-group-files-and-chats-for-personal-use-simplifying|Projects
   provide a new way to group files and chats for personal use, simplifying…]]'
 - '[[Changes/Cursor/2025-01-23-deepseek-models-deepseek-r1-and-deepseek-v3-are-supported-in-0-45-and-0-44-you-c|Deepseek
@@ -72,17 +74,21 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Cursor/2025-01-23-update-0-45-12-13-update-infrastructure-improvements-the-f1-check-for-updates-co|UPDATE (0.45.12-13): Update infrastructure improvements]] · Developer Workflow
 - [[Changes/Cursor/2025-01-23-agent-sees-recent-changes-the-agent-can-use-a-tool-to-see-your-recent-changes-it|Agent sees recent changes: The agent can use a tool to see your recent changes]] · Agent Mode
 - [[Changes/Cursor/2025-01-23-deepseek-models-deepseek-r1-and-deepseek-v3-are-supported-in-0-45-and-0-44-you-c|Deepseek models: Deepseek R1 and Deepseek v3 are supported in 0.45 and 0.44]] · Model Support
+- [[Changes/Cursor/2025-01-23-fusion-model-we-ve-trained-a-new-tab-model-that-is-substantially-better-at-jumps|Fusion Model: We've trained a new Tab Model that is substantially better at jumps…]] · Context Window
 - [[Changes/Cursor/2025-01-23-summarize-previous-composers-when-conversations-grow-too-long-you-can-start-a-ne|Summarize Previous Composers]] · Context Window
+- [[Changes/Cursor/2025-01-23-also-adds-mcp-support-team-configurable-blocklists-fixes-composer-stuck-on-gener|Also adds MCP support, team-configurable blocklists, fixes Composer stuck…]] · Reliability and Performance
 - [[Changes/Cursor/2025-01-23-cursor-rules-users-can-write-several-repository-level-rules-to-disk-in-the-curso|.cursor/rules: Users can write several repository-level rules to disk…]] · Agent Mode
+- [[Changes/Cursor/2025-01-23-optional-long-context-when-tagging-long-files-users-have-the-option-to-request-a|Optional Long Context]] · Context Window
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
 - Earlier: 2024-12-13 · ChatGPT · [[Changes/ChatGPT/2024-12-13-projects-provide-a-new-way-to-group-files-and-chats-for-personal-use-simplifying|Projects provide a new way to group files and chats for personal use, simplifying…]]
-- Later: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-0-47-7-max-mode-for-3-7-sonnet-with-and-without-thinking|0.47.7: MAX mode for 3.7 Sonnet with and without thinking]]
+- Later: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-sonnet-3-7-thinking-we-ve-made-a-few-improvements-to-3-7-prompting-thinking-will|Sonnet 3.7 thinking: We've made a few improvements to 3.7 prompting]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

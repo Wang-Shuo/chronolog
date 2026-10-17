@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 465655badbae2d010da333efafb1632696e6698de6928783bf6fd0e9401e557a
+machine_hash: c2cafcba26ebb4118442a95bc9879f7abcd757ce7e1fba5dccf1fa2673c21920
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   line commands now receive COLUMNS and LINES environment variables…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8|claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: EnterWorktree can now switch between Claude-managed worktrees mid-session
 type: change

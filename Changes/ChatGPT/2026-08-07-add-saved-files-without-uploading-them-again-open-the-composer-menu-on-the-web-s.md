@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 21c518c4189030480fa4d524f7855a04c0324ee6d4e2f1d840c6068ceb382e7e
+machine_hash: 602acb0749981c586eb04f87c7b8361502acf8cf881ea45f9ecf57beff0104af
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,6 +50,7 @@ related_changes:
   Added Focus view]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: interface-experience
 title: Add saved files without uploading them again
 type: change

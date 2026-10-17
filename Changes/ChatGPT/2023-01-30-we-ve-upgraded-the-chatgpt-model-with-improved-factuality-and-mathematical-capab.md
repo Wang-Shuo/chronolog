@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 3c0e4f414b74027461e8cdff96ad306cd996d795d7ddc1dc8badff0457020bd1
+kind: change
+machine_hash: 645f52e059c312a3ed984f4c6743b9f5e86833ecb7dff8e3bd58457e716515dd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,16 +32,16 @@ record:
   - quote: We’ve upgraded the ChatGPT model with improved factuality and mathematical
       capabilities.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-ve-upgraded-the-chatgpt-model-with-improved-factuality-and-mathematical-capab
   source_release: chatgpt-2023-01-30-factuality-and-mathematical-improvements-bde45cd9
   source_type: chatgpt_changelog
   theme: model-support
-  title: We’ve upgraded the ChatGPT model with improved factuality and mathematical
-    capabilities
+  title: Factuality and mathematical improvements
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
@@ -48,13 +49,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2023-01-30-factuality-and-mathematical-improvements-bde45cd9|chatgpt-2023-01-30-factuality-and-mathematical-improvements-bde45cd9]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We’ve upgraded the ChatGPT model with improved factuality and mathematical
-  capabilities
+title: Factuality and mathematical improvements
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We’ve upgraded the ChatGPT model with improved factuality and mathematical capabilities
+# Factuality and mathematical improvements
 
 **ChatGPT** · 2023-01-30 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-01-30-factuality-and-mathematical-improvements-bde45cd9|Factuality and mathematical improvements]]
 <!-- chronolog:end -->

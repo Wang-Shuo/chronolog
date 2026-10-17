@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8650eef48537ab7b7f27df084bb231c8dfbf50ac1999d693bec672bbda3512a8
+machine_hash: 063608311ce8130609033a6d4c3144677c20299b43e4abd771c83ed10b212d54
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,6 +50,7 @@ related_changes:
   code execution: You can now execute Python code in a canvas]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-10-canvas-a457e8f0|chatgpt-2024-12-10-canvas-a457e8f0]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: file-data
 title: 'Canvas shortcut: You can now paste content into ChatGPT and instantly open…'
 type: change

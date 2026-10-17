@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 2c6e57a94f094702541354e93ebadfb4f34fb96a00c4219bb0b8f19194b2a02a
+machine_hash: 10fd238f27a16991c4279e546c6a06b780062c50afef0a2534e8db40d8657623
 product: cursor
 product_name: Cursor
 record:
@@ -57,6 +57,7 @@ related_changes:
   permission wait time being included in subagent elapsed time display]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320|cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320]]'
 source_type: cursor_changelog
+superseded: true
 theme: safety-privacy
 title: The sandbox now supports granular network access controls, as well as controls…
 type: change

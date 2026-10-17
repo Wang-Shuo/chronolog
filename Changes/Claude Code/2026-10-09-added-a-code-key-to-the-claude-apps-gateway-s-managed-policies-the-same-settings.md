@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4ceab0eff447e16f0bf7e790ff21eb908139de77c8f67dca1908bba7e326a45a
+machine_hash: cec5491798c6f86f7fbbc3b516fda32d9e1e230b4091310601791a94d3da3b55
 product: claude-code
 product_name: Claude Code
 record:
@@ -65,6 +65,7 @@ related_changes:
   and reply to the local agents running on your computer from the Cursor iOS app]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a]]'
 source_type: github_releases
+superseded: true
 theme: mobile-desktop
 title: Added a code key to the Claude apps gateway's managed.policies
 type: change

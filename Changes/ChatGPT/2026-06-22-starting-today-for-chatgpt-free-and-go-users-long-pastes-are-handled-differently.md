@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-06-22 · Context Window: Starting today for ChatGP
   and Go users, long pastes are handled differently in ChatGPT.If you paste more than
   10k…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
-    prompt length for project generation]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1145
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 1fa909a54472358e35d0d67a43ffec90ced4786d8cc14606a423919c5cb5a599
+kind: change
+machine_hash: 46ad66a84ee783a4fcb9ee09ca56ad9927b6c5a8d06beb67d810152d42496763
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,8 +47,9 @@ record:
       it was sent as an attachment. The threshold has now also been raised to 10k
       characters.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: starting-today-for-chatgpt-free-and-go-users-long-pastes-are-handled-differently
@@ -56,11 +58,11 @@ record:
   theme: context-window
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: Starting today for ChatGPT Free and Go users, long pastes are handled differently…
+  title: Large pastes are now handled as attachments for more plans
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-the-context-explorer-breaks-down-where-tokens-go-across-the-system-prompt-tool-d|The
-  context explorer breaks down where tokens go across the system prompt, tool…]]'
+- '[[Changes/Claude Code/2026-06-08-the-claude-md-is-too-long-warning-threshold-now-scales-with-the-model-s-context|The
+  "CLAUDE.md is too long" warning threshold now scales with the model''s context window]]'
 - '[[Changes/Claude Code/2026-06-08-added-cd-command-to-move-a-session-to-a-new-working-directory-without-breaking-t|Added
   /cd command to move a session to a new working directory without breaking…]]'
 - '[[Changes/Claude Code/2026-06-12-vscode-added-usage-attribution-to-the-account-usage-dialog-usage-showing-cache-m|VSCode
@@ -68,12 +70,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-22-large-pastes-are-now-handled-as-attachments-for-more-plans-64db97b0|chatgpt-2026-06-22-large-pastes-are-now-handled-as-attachments-for-more-plans-64db97b0]]'
 source_type: chatgpt_changelog
 theme: context-window
-title: Starting today for ChatGPT Free and Go users, long pastes are handled differently…
+title: Large pastes are now handled as attachments for more plans
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Starting today for ChatGPT Free and Go users, long pastes are handled differently…
+# Large pastes are now handled as attachments for more plans
 
 **ChatGPT** · 2026-06-22 · [[Themes/context-window|Context Window]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-22-large-pastes-are-now-handled-as-attachments-for-more-plans-64db97b0|Large pastes are now handled as attachments for more plans]]
 <!-- chronolog:end -->
@@ -92,13 +94,13 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-vscode-added-usage-attribution-to-the-account-usage-dialog-usage-showing-cache-m|VSCode Added usage attribution to the Account & usage dialog (/usage) showing…]]
-- Later: 2026-07-08 · Claude Code · [[Changes/Claude Code/2026-07-08-improved-auto-mode-to-ask-before-running-rm-rf-on-a-variable-it-can-t-resolve-fr|Improved auto mode to ask before running rm -rf on a variable it can't resolve…]]
+- Later: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-bash-commands-now-trigger-claude-to-respond-to-the-output-automatically-set-resp|! bash commands now trigger Claude to respond to the output automatically]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

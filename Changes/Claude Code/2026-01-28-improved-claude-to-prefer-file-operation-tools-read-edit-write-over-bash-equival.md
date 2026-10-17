@@ -4,8 +4,8 @@ date: '2026-01-28'
 description: 'Claude Code · 2026-01-28 · Editor Experience: Improved Claude to prefer
   file operation tools (Read, Edit, Write) over bash equivalents (cat, sed, awk)'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1051
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: d0d0aeb4850f5736b76c2b25506f642598ac49a68689f97f8b18ab1e3c3adb01
+kind: change
+machine_hash: ccd8bfc578fdc23323000f50ebe4a90d35834772f638d3d189f5504707fabd49
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Improved Claude to prefer file operation tools (Read, Edit, Write) over
       bash equivalents (cat, sed, awk)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.21
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-claude-to-prefer-file-operation-tools-read-edit-write-over-bash-equival
@@ -42,10 +44,10 @@ record:
   title: Improved Claude to prefer file operation tools (Read, Edit, Write) over bash…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-16-use-ask-mode-to-explore-code-without-making-changes-just-like-in-the-editor-star|Use
-  Ask mode to explore code without making changes, just like in the editor]]'
 - '[[Changes/Claude Code/2026-01-20-added-history-based-autocomplete-in-bash-mode-type-a-partial-command-and-press-t|Added
   history-based autocomplete in bash mode (!) - type a partial command…]]'
+- '[[Changes/Cursor/2026-01-22-2-editor-experience-changes-in-2-4|2 Editor Experience
+  changes in 2.4]]'
 - '[[Changes/Claude Code/2026-01-27-added-external-editor-shortcut-ctrl-g-to-the-help-menu-for-better-discoverabilit|Added
   external editor shortcut (Ctrl+G) to the help menu for better discoverability]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-28-v2-1-21-github-280523920-bba74245|claude-code-2026-01-28-v2-1-21-github-280523920-bba74245]]'
@@ -79,13 +81,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-added-external-editor-shortcut-ctrl-g-to-the-help-menu-for-better-discoverabilit|Added external editor shortcut (Ctrl+G) to the help menu for better discoverability]]
-- Later: 2026-02-19 · ChatGPT · [[Changes/ChatGPT/2026-02-19-write-and-edit-text-in-line|Write and edit text in-line]]
+- Later: 2026-02-17 · Cursor · [[Changes/Cursor/2026-02-17-manual-edits-no-longer-create-in-line-diffs|Manual edits no longer create in-line diffs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

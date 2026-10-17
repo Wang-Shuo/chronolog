@@ -2,7 +2,7 @@
 changes_count: 0
 date: '2023-08-30'
 description: 'Cursor release Hotfix SSH on 2023-08-30: no tracked changes'
-machine_hash: f724c07bdcfe9d6d62fcb7455d21d580e823a965708737e1b702047b952a5faf
+machine_hash: d9a74b60cb2bcf8ef512da08f5dd86fdf0e565b76abb53241140ec01ac9f63a3
 product: cursor
 product_name: Cursor
 record:
@@ -37,7 +37,7 @@ version: 0.9.1
 <!-- chronolog:begin region="summary" -->
 Hotfixes a problem with SSH.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

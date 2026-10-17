@@ -14,9 +14,10 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: b586352164eea18b7498ed56f87083a5ba7b8bf4a51e6cd3e86742576c09ab74
+kind: pricing
+machine_hash: 2bee5c081fd24b86444a6a13bcd47baa9d568d31629174a3948f213b362dc2d1
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: 'Fast (default): $3.00/M input, $15.00/M output tokens'
     source_release: https://cursor.com/changelog/composer-2-5
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: pricing
   product: cursor
   product_name: Cursor
   slug: fast-default-3-00-m-input-15-00-m-output-tokens
@@ -41,8 +43,8 @@ record:
   title: 'Fast (default): $3.00/M input, $15.00/M output tokens'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-04-09-you-can-upgrade-switch-or-cancel-your-plan-from-settings-my-plan-or-from-the-pri|You
-  can upgrade, switch, or cancel your plan from Settings  My Plan or…]]'
+- '[[Changes/Claude Code/2026-04-22-opentelemetry-user-prompt-events-now-include-command-name-and-command-source-for|OpenTelemetry:
+  user_prompt events now include command_name and command_source…]]'
 - '[[Changes/Cursor/2026-05-11-customers-must-be-on-usage-based-billing-for-bugbot-to-customize-effort-levels-l|Customers
   must be on usage-based billing for Bugbot to customize effort levels]]'
 - '[[Changes/Claude Code/2026-05-15-added-projected-context-cost-per-turn-and-per-invocation-token-estimates-to-the|Added
@@ -57,7 +59,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Fast (default): $3.00/M input, $15.00/M output tokens
 
-**Cursor** · 2026-05-18 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://cursor.com/changelog/composer-2-5) · from [[Releases/Cursor/cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1|Composer 2.5]]
+**Cursor** · 2026-05-18 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://cursor.com/changelog/composer-2-5) · from [[Releases/Cursor/cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1|Composer 2.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->

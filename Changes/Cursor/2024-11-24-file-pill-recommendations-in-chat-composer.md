@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1b6121fb58a5f5e992e0145d14094745eff2c619bfaca63f4e4f47e9d237733b
+machine_hash: dd705dd6846a9ba8fe682d8a916bfc2b8690a7acebdbbffab8942c9bc62c3cfc
 product: cursor
 product_name: Cursor
 record:
@@ -48,6 +48,7 @@ related_changes:
   in chat/composer to semantically search for context]]'
 source_release: '[[Releases/Cursor/cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492|cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: File pill recommendations in chat/composer
 type: change

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0d74e0ce3af872c997027eecd192d3711d9b59890a7ba31e447e85662ab9bfd9
+machine_hash: da089b22614cd6e4008e11e0a5909d4f6c4abd0145eea7fade6c94d9cf05c117
 product: cursor
 product_name: Cursor
 record:
@@ -66,6 +66,7 @@ related_changes:
   WebFetch(domain:.example.com) wildcard domain rules never matching…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-10-bugbot-is-now-over-3x-faster-22-cheaper-and-finds-10-more-bugs-h-c1721c78|cursor-2026-06-10-bugbot-is-now-over-3x-faster-22-cheaper-and-finds-10-more-bugs-h-c1721c78]]'
 source_type: cursor_changelog
+superseded: true
 theme: safety-privacy
 title: Run Bugbot and Security Review with /review before pushing code
 type: change

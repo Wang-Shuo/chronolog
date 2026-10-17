@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 43971e3795f1403637ae3d69349c338a8edec4fc3bca2bc40517ebd9e56acfb8
+machine_hash: d03e633d282d05f1740ab5032c9131bc7e79e68ecae2eaf69da1f9557b33dd67
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelemetry…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'
 source_type: github_releases
+superseded: true
 theme: context-window
 title: Added CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS to change idle compaction's 200K-token
   minimum

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 4d9f9dbb4389d2744e66987e2ca35621aac518e7b20b4c7688a9954d78f08fd7
+machine_hash: e2b8be71972f7ff4a29b95373c4ed7bedc76d88d0e93342c845609c4073f4f54
 product: cursor
 product_name: Cursor
 record:
@@ -63,6 +63,7 @@ related_changes:
   Answers are better formatted for quick understanding without losing…]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
+superseded: true
 theme: interface-experience
 title: Manage agents in our new editor, with a sidebar for your agents and plans
 type: change

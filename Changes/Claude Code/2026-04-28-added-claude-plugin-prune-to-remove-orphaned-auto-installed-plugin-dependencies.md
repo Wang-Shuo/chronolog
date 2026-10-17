@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ee90a4e1a86994bc3c25c0a368ea2c5d7b3f13c0cc8f2c917e2058dc9a1ec87d
+machine_hash: ea5da117073d617cec044a19e88559495302eb98249deee7c4281b7d6f9a3db0
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   can now invoke MCP tools directly via type: "mcp_tool"]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce|claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added claude plugin prune to remove orphaned auto-installed plugin dependencies
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 399265581f3eb6b935122b9d28ae0170bc0a3e8fd3c8cf6be79775b8f41060d7
+machine_hash: 6697deff49c8abbf89a3dbbd76c2fcfbfd38876137cb1ac5bfe093f5cc525253
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   an n:text filter to the agents view that matches session names and tasks]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab|claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added an effort parameter to the Agent tool, so Claude runs a sub-agent…
 type: change

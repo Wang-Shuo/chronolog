@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 262938b036e4eaf429684a54e758a4f85dd3a00abe06a7a17f66cfc5e4d71c8f
+machine_hash: 849e29cdc14c22b959e05b3e36310aa898881595211a1fb0bb7d9bde830e2e1c
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   guardrail: {id, version} on Claude apps gateway Bedrock upstreams to apply…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95|claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added assume_role on Claude apps gateway Bedrock upstreams
 type: change

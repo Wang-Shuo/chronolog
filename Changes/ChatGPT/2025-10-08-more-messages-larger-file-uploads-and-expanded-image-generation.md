@@ -4,19 +4,20 @@ date: '2025-10-08'
 description: 'ChatGPT · 2025-10-08 · Image Generation: More messages, larger file
   uploads, and expanded image generation'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The
-    store features a diverse range of GPTs developed by our partners and the community]]'
+  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
+    3 for ChatGPT Free users]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 637
+  lag_days: 426
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 324d58b71de9bbfe2918d050f110e6faea495cdf49ef6a5c001c417e5123357b
+kind: change
+machine_hash: e9ebaa10d84a58597718ba5db6a9fa579717aa0de86fb19780586cc2ab6b1133
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,8 +31,9 @@ record:
   evidence:
   - quote: More messages, larger file uploads, and expanded image generation
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: more-messages-larger-file-uploads-and-expanded-image-generation
@@ -70,8 +72,7 @@ type: change
 ## Also in this release
 
 - [[Changes/ChatGPT/2025-10-08-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now|ChatGPT Go, our low cost subscription plan, is now available in 16 additional countries]] · Pricing Model
-- [[Changes/ChatGPT/2025-10-08-available-on-web-mobile-ios-android-and-desktop-macos-windows-note-in-cambodia-l|Available on web, mobile (iOS & Android), and desktop (macOS & Windows)]] · Mobile and Desktop
-- [[Changes/ChatGPT/2025-10-08-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]] · Memory and Personalization
+- [[Changes/ChatGPT/2025-10-08-longer-memory-for-more-personalized-responses-8c6877|Longer memory for more personalized responses]] · Memory and Personalization
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
@@ -84,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The store features a diverse range of GPTs developed by our partners and the community]]
+- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

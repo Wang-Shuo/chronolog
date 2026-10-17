@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f69a66a9d1538eb98b68d47b256bacf03ec24a484734121dcde6eb0d26bd01ce
+machine_hash: bc8b08a5f8c049408a9c63640e59f31b5da90d5ed2c8dd2452cae117e1ae95e6
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,6 +57,7 @@ related_changes:
   read/search progress indicators to show "Reading…" while in progress…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-29-v2-1-23-github-280926274-b1e77a6a|claude-code-2026-01-29-v2-1-23-github-280926274-b1e77a6a]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Improved terminal rendering performance with optimized screen data layout
 type: change

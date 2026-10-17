@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 027508ef86d052a65682691f41437f1cfb3b6a5732056de22bbba4c9d14f4fb3
+kind: change
+machine_hash: 19a1903feb0e4aa933122944c264930ada98e486fb01e7eaea3cc28dc31cab49
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -55,8 +56,9 @@ record:
       today to all ChatGPT users. Paid users can continue using GPT-5.3 Instant for
       three months through model configuration settings before it is retired.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-rolling-out-gpt-5-5-instant-as-chatgpt-s-new-default-model-it-replaces-gpt
@@ -74,24 +76,23 @@ record:
     score: 50
     theme: context-window
   theme_resolution: manual-semantic-rule-v2
-  title: ChatGPT rolls out GPT-5.5 Instant as ChatGPT’s new default model
+  title: GPT-5.5 Instant in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-01-the-model-picker-now-lists-models-from-your-gateway-s-v1-models-endpoint-when-an|The
-  /model picker now lists models from your gateway''s /v1/models endpoint…]]'
+- '[[Changes/Claude Code/2026-05-01-2-model-support-changes-in-v2-1-126|2 Model Support
+  changes in v2.1.126]]'
 - '[[Changes/Claude Code/2026-05-04-updated-model-picker-collapsed-duplicate-opus-4-7-entries-and-current-opus-now-s|Updated
   /model picker]]'
-- '[[Changes/Cursor/2026-05-04-enterprises-also-have-the-option-to-block-new-providers-or-model-versions-by-def|Enterprises
-  also have the option to block new providers or model versions by default]]'
+- '[[Changes/Cursor/2026-05-04-model-access-controls-d2ba4f|Model access controls]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-05-gpt-5-5-instant-in-chatgpt-6a2694d3|chatgpt-2026-05-05-gpt-5-5-instant-in-chatgpt-6a2694d3]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: ChatGPT rolls out GPT-5.5 Instant as ChatGPT’s new default model
+title: GPT-5.5 Instant in ChatGPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT rolls out GPT-5.5 Instant as ChatGPT’s new default model
+# GPT-5.5 Instant in ChatGPT
 
 **ChatGPT** · 2026-05-05 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-05-05-gpt-5-5-instant-in-chatgpt-6a2694d3|GPT-5.5 Instant in ChatGPT]]
 <!-- chronolog:end -->
@@ -109,8 +110,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-04 · Cursor · [[Changes/Cursor/2026-05-04-enterprises-also-have-the-option-to-block-new-providers-or-model-versions-by-def|Enterprises also have the option to block new providers or model versions by default]]
-- Later: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-gateway-v1-models-discovery-for-the-model-picker-is-now-opt-in-via-claude-code-e|Gateway /v1/models discovery for the /model picker is now opt-in…]]
+- Earlier: 2026-05-04 · Cursor · [[Changes/Cursor/2026-05-04-model-access-controls-d2ba4f|Model access controls]]
+- Later: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-2-model-support-changes-in-v2-1-129|2 Model Support changes in v2.1.129]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

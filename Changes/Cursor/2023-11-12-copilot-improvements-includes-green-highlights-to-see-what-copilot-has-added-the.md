@@ -15,9 +15,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 3c0eea42794a19c6da874a71ab1620ff9cf151a65667038af99aebc530039237
+kind: change
+machine_hash: 4de6318c5d91ae173e583b995d39383213e9160cff5ac3e71ade181a55076d01
 product: cursor
 product_name: Cursor
 record:
@@ -36,8 +37,9 @@ record:
       one after another, support for Copilot++ on SSH, and fixes to how Copilot++
       UI interacts with autocomplete plugins.'
     source_release: https://cursor.com/changelog/0-15-2-0-15-5
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: copilot-improvements-includes-green-highlights-to-see-what-copilot-has-added-the

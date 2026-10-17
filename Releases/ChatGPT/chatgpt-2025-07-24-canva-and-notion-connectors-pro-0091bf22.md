@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-07-24'
 description: 'ChatGPT release Canva and Notion connectors (Pro) on 2025-07-24: 1 tracked
   change across Search and Browsing'
-machine_hash: 169f88c78fd72bd223f0f446ad78f63d5e19a05df29c1529b78b133c4cf41b76
+machine_hash: 87e0a50fbb0f33161b23380b1eeedd23dc442312a9b1e66d688454e06f6a67d6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,10 +40,10 @@ version: Canva and Notion connectors (Pro)
 <!-- chronolog:begin region="summary" -->
 Pro users can now connect to Canva and Notion for both chat search and deep research.Note this feature is currently limited to users located outside of the EEA, Switzerland, and the UK.Learn more about connectors.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2|Pro users can now connect to Canva and Notion for both chat search and deep research]] · Search and Browsing
+- [[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2|Canva and Notion connectors (Pro)]] · Search and Browsing
 <!-- chronolog:end -->

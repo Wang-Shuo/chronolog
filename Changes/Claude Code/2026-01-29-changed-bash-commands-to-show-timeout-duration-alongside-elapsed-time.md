@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 51161611a947884337ec172c077edbc8828528aa324fc511d374e3d9d166ecc6
+kind: change
+machine_hash: 12138154a4612bfcd10df4ff41797c672d6c76b8e49b2af712d384d34659aae2
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,8 +28,9 @@ record:
   evidence:
   - quote: Changed Bash commands to show timeout duration alongside elapsed time
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.23
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: changed-bash-commands-to-show-timeout-duration-alongside-elapsed-time
@@ -40,10 +42,10 @@ record:
   title: Changed Bash commands to show timeout duration alongside elapsed time
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-23-added-shorthand-0-1-etc-for-accessing-individual-arguments-in-custom-commands|Added
-  shorthand $0, $1, etc. for accessing individual arguments in custom commands]]'
-- '[[Changes/Claude Code/2026-01-27-added-support-for-loading-claude-md-files-from-additional-directories-specified|Added
-  support for loading CLAUDE.md files from additional directories specified…]]'
+- '[[Changes/Claude Code/2026-01-23-2-developer-workflow-changes-in-v2-1-19|2 Developer
+  Workflow changes in v2.1.19]]'
+- '[[Changes/Claude Code/2026-01-27-3-developer-workflow-changes-in-v2-1-20|3 Developer
+  Workflow changes in v2.1.20]]'
 - '[[Changes/Claude Code/2026-01-28-vscode-added-automatic-python-virtual-environment-activation-ensuring-python-and|VSCode
   Added automatic Python virtual environment activation, ensuring python…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-29-v2-1-23-github-280926274-b1e77a6a|claude-code-2026-01-29-v2-1-23-github-280926274-b1e77a6a]]'
@@ -68,9 +70,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-01-29-improved-terminal-rendering-performance-with-optimized-screen-data-layout|Improved terminal rendering performance with optimized screen data layout]] · Interface Experience
-- [[Changes/Claude Code/2026-01-29-added-customizable-spinner-verbs-setting-spinnerverbs|Added customizable spinner verbs setting (spinnerVerbs)]] · Interface Experience
-- [[Changes/Claude Code/2026-01-29-changed-merged-pull-requests-to-show-a-purple-status-indicator-in-the-prompt-foo|Changed merged pull requests to show a purple status indicator in the prompt footer]] · Interface Experience
+- [[Changes/Claude Code/2026-01-29-3-interface-experience-changes-in-v2-1-23|3 Interface Experience changes in v2.1.23]] · Interface Experience
 - [[Changes/Claude Code/2026-01-29-fixed-per-user-temp-directory-isolation-to-prevent-permission-conflicts-on-share|Fixed per-user temp directory isolation to prevent permission conflicts on shared systems]] · Safety and Privacy
 <!-- chronolog:end -->
 
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-28 · Claude Code · [[Changes/Claude Code/2026-01-28-vscode-added-automatic-python-virtual-environment-activation-ensuring-python-and|VSCode Added automatic Python virtual environment activation, ensuring python…]]
-- Later: 2026-01-30 · Claude Code · [[Changes/Claude Code/2026-01-30-sessions-are-now-automatically-linked-to-prs-when-created-via-gh-pr-create|Sessions are now automatically linked to PRs when created via gh pr create]]
+- Later: 2026-01-30 · Claude Code · [[Changes/Claude Code/2026-01-30-2-developer-workflow-changes-in-v2-1-27|2 Developer Workflow changes in v2.1.27]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

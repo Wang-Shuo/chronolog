@@ -3,7 +3,7 @@ changes_count: 3
 date: '2025-10-30'
 description: 'ChatGPT release ChatGPT Go expansion on 2025-10-30: 3 tracked changes
   across Image Generation, Memory and Personalization, Pricing Model'
-machine_hash: e50408b3e3a0a7a374b0fbcd27909062c4be710f86e4788bf7d1c76791e50ba5
+machine_hash: 5b70a8732996e8f3d8f6b89687c11212a1fd03c3e8723a498dc2e60ec0b46301
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,12 +41,12 @@ version: ChatGPT Go expansion
 <!-- chronolog:begin region="summary" -->
 We're excited to announce that ChatGPT Go, our low cost subscription plan, is now available in 8 additional countries in Europe, bringing total coverage to 98 countries. The new countries we added are Austria, Czech Republic, Denmark, Norway, Poland, Portugal, Spain and Sweden.For an affordable price, ChatGPT Go…
 
-Tracked 3 of 5 candidate lines.
+Tracked 3 cards from 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-10-30-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-44be9d|ChatGPT Go, our low cost subscription plan, is now available in 8 additional…]] · Pricing Model
+- [[Changes/ChatGPT/2025-10-30-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-44be9d|ChatGPT Go, our low cost subscription plan, is now available in 8 additional…]] · Pricing Model · Expansion
 - [[Changes/ChatGPT/2025-10-30-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]] · Memory and Personalization
 - [[Changes/ChatGPT/2025-10-30-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]] · Image Generation
 <!-- chronolog:end -->

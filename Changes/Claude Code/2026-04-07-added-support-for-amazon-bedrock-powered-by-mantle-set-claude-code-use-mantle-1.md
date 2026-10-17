@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 6d2e2f8f313c791f868e16be49b7aba364ba55262cda1ac28dfed428c77febef
+machine_hash: a209fa4f64ef1b17c8f23c06d9e384c1f5be5c6d9605474ce897fc516ed69c5c
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   hookSpecificOutput.sessionTitle to UserPromptSubmit hooks for setting…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-07-v2-1-94-github-306300914-5622fba4|claude-code-2026-04-07-v2-1-94-github-306300914-5622fba4]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added support for Amazon Bedrock powered by Mantle, set CLAUDE_CODE_USE_MANTLE=1
 type: change

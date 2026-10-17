@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8d0c4e68c45e256e1da7de8c6f98847c650ab48e66632e02ed981f7fcd45d78f
+machine_hash: 47371ed2f8f2d90a4192c2a8ab7ad85893dbcca5b607413f2a4b43cc1d8e5f0e
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   Instant delivers more accurate answers, richer and better-contextualized…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-04-v2-1-68-github-292908895-c7aaa3de|claude-code-2026-03-04-v2-1-68-github-292908895-c7aaa3de]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Removed Opus 4 and 4.1 from Claude Code on the first-party API
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c519f833782b90bd0eb3b2702110067e6ad67e29af2d3ec96da2328181b24536
+machine_hash: 862bb1fc76a434b814e2325d4dcaf5e52760599c32ac136d993b06b7135b9300
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   runs a new build of your environment regularly]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3|cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Agents do their best work when they start in a ready environment
 type: change

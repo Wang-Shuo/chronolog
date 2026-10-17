@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 644cfa618c2595303271bbeea8c94574ad9093774eeaa7249fe0d8a3e3ae2ee2
+machine_hash: 21c08dca7e63dd3f8c1a566c696ca15ce078ff6c3145af0fb2ad906dc3c9ec9d
 product: cursor
 product_name: Cursor
 record:
@@ -51,6 +51,7 @@ related_changes:
   for iPad is now available on all paid plans]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c|cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c]]'
 source_type: cursor_changelog
+superseded: true
 theme: mobile-desktop
 title: New to both iPhone and iPad
 type: change

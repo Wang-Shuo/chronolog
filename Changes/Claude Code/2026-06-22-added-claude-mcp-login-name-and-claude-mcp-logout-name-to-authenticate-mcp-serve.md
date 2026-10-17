@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 84ab103165bd8f17532596060346680925918a8dab0f6b8310739e660604fc3e
+machine_hash: 2fcff373375969c9447471142f608f27c2b46e697fc5aa91a4ce6a4ad53b99c0
 product: claude-code
 product_name: Claude Code
 record:
@@ -69,6 +69,7 @@ related_changes:
   a prompt before writing to shell startup files…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b|claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b]]'
 source_type: github_releases
+superseded: true
 theme: account-access
 title: Added claude mcp login name and claude mcp logout name to authenticate MCP…
 type: change

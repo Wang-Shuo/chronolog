@@ -2,7 +2,7 @@
 changes_count: 0
 date: '2023-06-06'
 description: 'Cursor release Codebase Context fixes on 2023-06-06: no tracked changes'
-machine_hash: 9c2f6e2032bb3659ae34882bb0795953a542b4f902873a62104c724fa9703d4f
+machine_hash: 12795892dc17a85734cc678063fa5c2c3a0c050b2113bbee8b0e9c964c808b0b
 product: cursor
 product_name: Cursor
 record:
@@ -37,7 +37,7 @@ version: 0.2.28-0.2.29
 <!-- chronolog:begin region="summary" -->
 Hotfixes to v1 of Codebase Context
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

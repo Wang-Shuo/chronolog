@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: b8f7a0c76e15ff64e0ea2827e4c5914948509a4777b29ba798be423d4aefa78e
+machine_hash: 2e95fdbc96eca6335701c3d5321132815d5ebe44756cce5423d9757bb0e1fdcd
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,6 +54,7 @@ related_changes:
   CLAUDE_CODE_MCP_SERVER_NAME and CLAUDE_CODE_MCP_SERVER_URL environment…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7|claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Deep link queries (claude-cli://open?q=…) now support up to 5,000 characters…
 type: change

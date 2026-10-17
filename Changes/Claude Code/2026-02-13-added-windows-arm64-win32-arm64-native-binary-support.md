@@ -14,9 +14,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: a48f221b05a624c3a78ed6412b8d51cc11e9c128d2f46b8379f74455501ca1a5
+kind: change
+machine_hash: 21259e731c88e2d75d6c5584067e9e0a6b58ffd9218cc6e0c3742b3c474632cf
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   evidence:
   - quote: Added Windows ARM64 (win32-arm64) native binary support
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.41
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-windows-arm64-win32-arm64-native-binary-support
@@ -45,10 +47,10 @@ record:
 related_changes:
 - '[[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health
   appears as a new space in the ChatGPT sidebar]]'
-- '[[Changes/Claude Code/2026-01-09-added-support-for-windows-package-manager-winget-installations-with-automatic-de|Added
-  support for Windows Package Manager (winget) installations with automatic…]]'
-- '[[Changes/Claude Code/2026-01-22-ide-fixed-a-race-condition-on-windows-where-the-claude-code-sidebar-view-contain|IDE
-  Fixed a race condition on Windows where the Claude Code sidebar view container…]]'
+- '[[Changes/Claude Code/2026-01-09-2-mobile-and-desktop-changes-in-v2-1-2|2 Mobile
+  and Desktop changes in v2.1.2]]'
+- '[[Changes/Cursor/2026-01-22-windows-notifications-now-have-accept-reject-buttons-like-macos|Windows
+  notifications now have accept/reject buttons like MacOS]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8|claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -73,15 +75,15 @@ type: change
 
 - [[Changes/Claude Code/2026-02-13-added-claude-auth-login-claude-auth-status-and-claude-auth-logout-cli-subcommand|Added claude auth login, claude auth status, and claude auth logout CLI subcommands]] · Account and Access
 - [[Changes/Claude Code/2026-02-13-improved-rename-to-auto-generate-session-name-from-conversation-context-when-cal|Improved /rename to auto-generate session name from conversation context…]] · Context Window
-- [[Changes/Claude Code/2026-02-13-fixed-permission-wait-time-being-included-in-subagent-elapsed-time-display|Fixed permission wait time being included in subagent elapsed time display]] · Safety and Privacy
+- [[Changes/Claude Code/2026-02-13-2-safety-and-privacy-changes-in-v2-1-41|2 Safety and Privacy changes in v2.1.41]] · Safety and Privacy
 - [[Changes/Claude Code/2026-02-13-improved-narrow-terminal-layout-for-prompt-footer|Improved narrow terminal layout for prompt footer]] · Interface Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-01-22 · Claude Code · [[Changes/Claude Code/2026-01-22-ide-fixed-a-race-condition-on-windows-where-the-claude-code-sidebar-view-contain|IDE Fixed a race condition on Windows where the Claude Code sidebar view container…]]
-- Later: 2026-02-24 · Cursor · [[Changes/Cursor/2026-02-24-cloud-agents-are-available-anywhere-you-use-cursor-including-web-desktop-mobile|Cloud agents are available anywhere you use Cursor, including web, desktop, mobile…]]
+- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-windows-notifications-now-have-accept-reject-buttons-like-macos|Windows notifications now have accept/reject buttons like MacOS]]
+- Later: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-2-mobile-and-desktop-changes-in-cli-improvements-and-mermaid-ascii|2 Mobile and Desktop changes in CLI Improvements and Mermaid ASCII…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

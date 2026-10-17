@@ -3,7 +3,7 @@ changes_count: 3
 date: '2026-08-21'
 description: 'ChatGPT release Improved plugin discovery on web and mobile on 2026-08-21:
   3 tracked changes across Apps and Integrations, Mobile and Desktop'
-machine_hash: 66ffb02df0ae6f42242741fe2f049190775f47c05cf3bb4774e15e00ac2a1c20
+machine_hash: 6426711cb9be0b8de6218123bc99d946bf0458eea20ce99847b769ae48a74447
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ version: Improved plugin discovery on web and mobile
 <!-- chronolog:begin region="summary" -->
 Updated plugin recommendations make it easier to find tools people continue to use.
 
-Tracked 3 of 4 candidate lines.
+Tracked 3 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

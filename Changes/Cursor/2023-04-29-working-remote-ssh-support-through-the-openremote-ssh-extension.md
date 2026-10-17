@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 8bf9cc1f9fc5db254de29756d8d5c63dcffaf9036274a83d9599d18f6c7605e0
+kind: change
+machine_hash: faf4b8125dcbcd15eb55a24777be0b2c160f816258a921756333d5974c5bde61
 product: cursor
 product_name: Cursor
 record:
@@ -29,8 +30,9 @@ record:
   evidence:
   - quote: 🌐 Working remote ssh support through the "OpenRemote - SSH" extension
     source_release: https://cursor.com/changelog/0-2-8
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: working-remote-ssh-support-through-the-openremote-ssh-extension
@@ -75,7 +77,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2023-04-14 · Cursor · [[Changes/Cursor/2023-04-14-don-t-install-cursor-command-on-startup|Don't install "cursor" command on startup]]
-- Later: 2023-05-17 · Cursor · [[Changes/Cursor/2023-05-17-press-cmd-d-to-auto-debug-a-terminal-error|Press Cmd+D to auto-debug a terminal error]]
+- Later: 2023-05-17 · Cursor · [[Changes/Cursor/2023-05-17-remote-ssh-is-easier-to-use|Remote SSH is easier to use!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

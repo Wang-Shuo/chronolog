@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: dce9f96c16aaa21882718b909bf93eb08057714704853ad5cbbc1f56d43bfb23
+kind: change
+machine_hash: be80ef0633a268888210cf571e9512a5f9a0ea475b9673f2c77c04070788c63c
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added `/config --help` to list all available shorthand keys for `/config
       key=value`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.183
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-config-help-to-list-all-available-shorthand-keys-for-config-key-value
@@ -73,6 +75,7 @@ type: change
 
 - [[Changes/Claude Code/2026-06-19-added-a-warning-when-the-requested-model-is-deprecated-or-automatically-updated|Added a warning when the requested model is deprecated or automatically updated…]] · Model Support
 - [[Changes/Claude Code/2026-06-19-added-attribution-sessionurl-setting-to-omit-the-claude-ai-session-link-from-com|Added attribution.sessionUrl setting to omit the claude.ai session link…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-06-19-removed-the-startup-setup-issues-line-under-the-logo-run-doctor-to-see-configura|Removed the startup "setup issues" line under the logo]] · Developer Workflow
 - [[Changes/Claude Code/2026-06-19-improved-auto-mode-safety-destructive-git-commands-git-reset-hard-git-checkout-g|Improved auto mode safety]] · Agent Mode
 - [[Changes/Claude Code/2026-06-19-changed-config-toggle-behavior-enter-and-space-both-change-the-selected-setting|Changed /config toggle behavior]] · Interface Experience
 <!-- chronolog:end -->
@@ -81,7 +84,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-easier-pinning-and-sidebar-organization-it-s-now-easier-to-keep-important-work-c|Easier pinning and sidebar organization]]
-- Later: 2026-06-23 · Claude Code · [[Changes/Claude Code/2026-06-23-added-org-configured-model-restrictions-to-the-model-picker-model-model-and-anth|Added org-configured model restrictions to the model picker, --model, /model…]]
+- Later: 2026-06-23 · Claude Code · [[Changes/Claude Code/2026-06-23-2-interface-experience-changes-in-v2-1-187|2 Interface Experience changes in v2.1.187]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

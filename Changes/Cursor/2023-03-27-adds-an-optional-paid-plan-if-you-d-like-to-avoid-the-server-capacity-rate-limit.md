@@ -14,9 +14,10 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 8d942644dc1d39f8eab8eefda7625ad7ff92549086da58509a1f6e590f40f5e8
+kind: policy
+machine_hash: dc9e363ca7bacd819f410dd9ae29718151848f23f60926e4756de7b3cb48a380
 product: cursor
 product_name: Cursor
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Adds an optional paid plan if you'd like to avoid the server capacity rate
       limits
     source_release: https://cursor.com/changelog/0-1-9
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: policy
   product: cursor
   product_name: Cursor
   slug: adds-an-optional-paid-plan-if-you-d-like-to-avoid-the-server-capacity-rate-limit
@@ -58,7 +60,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Adds an optional paid plan if you'd like to avoid the server capacity rate limits
 
-**Cursor** · 2023-03-27 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://cursor.com/changelog/0-1-9) · from [[Releases/Cursor/cursor-2023-03-27-0-1-9-https-cursor-com-changelog-0-1-9-431f2ddc|v0.1.9 (2023-03-27)]]
+**Cursor** · 2023-03-27 · [[Themes/pricing-model|Pricing Model]] · Policy · [Official source](https://cursor.com/changelog/0-1-9) · from [[Releases/Cursor/cursor-2023-03-27-0-1-9-https-cursor-com-changelog-0-1-9-431f2ddc|v0.1.9 (2023-03-27)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->

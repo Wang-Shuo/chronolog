@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-05-05'
 description: 'ChatGPT release Memory sources and more personalized responses in ChatGPT
   on 2026-05-05: 1 tracked change across Memory and Personalization'
-machine_hash: eb421da39f6ae71c81e418bcde2d3be805c1f39ec5f92976e01e1903b04d5695
+machine_hash: f683bf7e31d98df068123a8ea219e5db1f18a8215ce622973566d24089e3ce3c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: Memory sources and more personalized responses in ChatGPT
 <!-- chronolog:begin region="summary" -->
 Starting today, we’re rolling out memory improvements to ChatGPT Plus and Pro users that make responses more personalized, useful, and continuous over time. ChatGPT can now better pull in relevant context from your past chats, saved memories, and, where available, files and connected Gmail app to offer more tailored…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Starting today, we’re rolling out memory improvements to ChatGPT Plus and Pro users…]] · Memory and Personalization
+- [[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Memory sources and more personalized responses in ChatGPT]] · Memory and Personalization
 <!-- chronolog:end -->

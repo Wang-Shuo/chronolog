@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 121faa10608ca5f920de0759ac9bd38684bab8ac5579d4409ccc79ea7f4a14fc
+machine_hash: e7ef644873d83af89e3a5545989e27cfaa69c2454ef2f9ce2af721b161dd861b
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   Improved performance, added back play button to apply code blocks]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e|cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e]]'
 source_type: cursor_changelog
+superseded: true
 theme: reliability-performance
 title: '0.47.6: Faster applies, warns user when edits fails because of cursorignore'
 type: change

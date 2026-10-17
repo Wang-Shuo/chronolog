@@ -3,7 +3,7 @@ changes_count: 3
 date: '2023-07-27'
 description: 'Cursor release Enterprise subscription support & misc fixes on 2023-07-27:
   3 tracked changes across Developer Workflow, Editor Experience, Interface Experience'
-machine_hash: 232d1d0ebe719d279a31b4a1ce570744bbd5c53a91a43a4bf41bdea7f0ae8de5
+machine_hash: 5d560b8444f8d3851910b7d0eab5501d62222314de1feca46bba2859fc09c683
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.5.0
 <!-- chronolog:begin region="summary" -->
 Enterprise support!
 
-Tracked 3 of 6 candidate lines.
+Tracked 3 cards from 6 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

@@ -14,9 +14,10 @@ diffusion:
   theme: learning-tools
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: d12dabb1768fd2754430e8eedd9b586f1fba4bde6492e4b961d9818918f8d4be
+kind: change
+machine_hash: 752bc452c7fa51bab2b42d40be7e1beacfcb062ce294054018482af85abeb374
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Break concepts into easy to follow sections starting simple and adding
       complexity as you progress.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: break-concepts-into-easy-to-follow-sections-starting-simple-and-adding-complexit
@@ -63,15 +65,15 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-6e22f0|Study mode is currently available to users in Free, Plus, Pro, and Teams plans…]] · Mobile and Desktop
 - [[Changes/ChatGPT/2025-07-29-personalize-responses-based-on-your-past-chats-if-memory-is-on-using-examples-an|Personalize responses based on your past chats if memory is on, using examples…]] · Memory and Personalization
-- [[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-96fd94|Study mode is currently available to users in Free, Plus, Pro, and Teams plans…]] · Mobile and Desktop
 - [[Changes/ChatGPT/2025-07-29-guide-understanding-with-socratic-style-questions|Guide understanding with Socratic-style questions]] · Learning Tools
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Learning Tools
 
-- Later: 2026-03-10 · ChatGPT · [[Changes/ChatGPT/2026-03-10-when-you-ask-chatgpt-about-certain-topics-it-can-now-present-an-interactive-visu|When you ask ChatGPT about certain topics, it can now present an interactive visual…]]
+- Later: 2026-03-10 · ChatGPT · [[Changes/ChatGPT/2026-03-10-when-you-ask-chatgpt-about-certain-topics-it-can-now-present-an-interactive-visu|Interactive learning for math and science]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

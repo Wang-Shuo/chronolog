@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 8a57c9ac675be11cc4f8016d962eae723a2e2c308ac69f2e0288057a87e93e84
+kind: change
+machine_hash: 9ebf4dc575d291d773a5cbcdaad64cd72c5b04ed5f19b374c490e840469105a4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Choose Browse with Bing in the selector under GPT-4.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: choose-browse-with-bing-in-the-selector-under-gpt-4
@@ -49,13 +51,11 @@ record:
   title: Choose Browse with Bing in the selector under GPT-4
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-28-if-you-press-on-any-line-you-will-now-get-gpt-4-powering-fast-completions-for-yo|If
-  you press ⌘/^+↩️ on any line, you will now get gpt-4 powering fast-completions for
-  you!]]'
-- '[[Changes/ChatGPT/2023-08-03-we-re-rolling-out-a-bunch-of-small-updates-to-improve-the-chatgpt-experience-shi|ChatGPT
-  rolls out a bunch of small updates to improve the ChatGPT experience]]'
-- '[[Changes/Cursor/2023-09-08-that-are-actually-being-used-for-each-doc-you-have-uploaded-you-ll-also-be-able|that
-  are actually being used for each doc you have uploaded]]'
+- '[[Changes/ChatGPT/2023-07-19-we-re-doubling-the-number-of-messages-chatgpt-plus-customers-can-send-with-gpt-4|Higher
+  message limits for GPT-4]]'
+- '[[Changes/Cursor/2023-07-28-long-ai-completions-8c21b2|Long AI completions]]'
+- '[[Changes/ChatGPT/2023-08-03-we-re-rolling-out-a-bunch-of-small-updates-to-improve-the-chatgpt-experience-shi|Updates
+  to ChatGPT]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-09-27-browsing-is-rolling-back-out-to-plus-users-73e98403|chatgpt-2023-09-27-browsing-is-rolling-back-out-to-plus-users-73e98403]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-that-are-actually-being-used-for-each-doc-you-have-uploaded-you-ll-also-be-able|that are actually being used for each doc you have uploaded]]
-- Later: 2023-10-01 · Cursor · [[Changes/Cursor/2023-10-01-use-edit-in-the-chat-to-edit-a-whole-file-if-less-than-400-lines-expect-the-edit|Use /edit in the chat to edit a whole file (if less than 400 lines)]]
+- Earlier: 2023-08-03 · ChatGPT · [[Changes/ChatGPT/2023-08-03-we-re-rolling-out-a-bunch-of-small-updates-to-improve-the-chatgpt-experience-shi|Updates to ChatGPT]]
+- Later: 2023-10-01 · Cursor · [[Changes/Cursor/2023-10-01-use-edit-in-the-chat-to-edit-a-whole-file-if-less-than-400-lines-expect-the-edit-78e4ac|Use /edit in the chat to edit a whole file (if less than 400 lines)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

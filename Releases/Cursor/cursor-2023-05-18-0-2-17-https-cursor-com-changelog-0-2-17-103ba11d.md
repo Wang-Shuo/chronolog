@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-05-18'
 description: 'Cursor release Fixes! (2023-05-018) on 2023-05-18: 1 tracked change
   across Projects and Workspaces'
-machine_hash: 46081af416d3704251425f39c5a82b1c22233c9792f6ee93b9651c0dccf91b45
+machine_hash: 8419f00029cedb2d21bc738235574c56f89104b6786fc8ef9c1fd33df803179e
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.2.17
 <!-- chronolog:begin region="summary" -->
 1 tracked change across 1 theme: Projects and Workspaces.
 
-Tracked 1 of 2 candidate lines.
+Tracked 1 card from 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

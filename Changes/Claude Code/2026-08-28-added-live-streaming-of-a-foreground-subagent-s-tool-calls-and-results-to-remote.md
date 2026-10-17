@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 16237280cddffde10ec9a7ad0499c3e72f678fe3aaa00c5eaf80d17e4ca01de6
+machine_hash: 1e63f59e2ea98645827c85bb224d66f389e841aeee80c03d0b664142661c00ce
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   now port-forwards your cloud agent''s live environment straight…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96|claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added live streaming of a foreground subagent's tool calls and results to Remote…
 type: change

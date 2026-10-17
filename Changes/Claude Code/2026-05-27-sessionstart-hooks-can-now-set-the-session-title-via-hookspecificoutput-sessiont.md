@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 42668f45b0e286f0d0f9db235f00da50262f8676d9044e6f388c706f79fd444c
+machine_hash: 3e910f8702336444cd73a2a24d634124fad11ad84a1fe62b8aae4a34a3d7606b
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   added the allowAllClaudeAiMcps managed setting to load claude.ai cloud…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850|claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: SessionStart hooks can now set the session title…
 type: change

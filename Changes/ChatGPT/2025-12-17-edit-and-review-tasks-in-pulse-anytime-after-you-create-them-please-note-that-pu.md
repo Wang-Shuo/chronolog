@@ -5,8 +5,8 @@ description: 'ChatGPT · 2025-12-17 · Editor Experience: Edit and review tasks 
   anytime after you create them. Please note that Pulse is only available in ChatGPT
   Pro.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1009
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 7f67213d369da8ecdfeeb722c55797c0aba82add50b35f3d7c0dc2b9273b3fb8
+kind: change
+machine_hash: 1fd7801fbc03175e344f50dd98df397b842e34759b77ee55b864fa157b85e280
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Edit and review tasks in Pulse anytime after you create them. Please note
       that Pulse is only available in ChatGPT Pro.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: edit-and-review-tasks-in-pulse-anytime-after-you-create-them-please-note-that-pu
@@ -43,11 +45,11 @@ record:
   title: Edit and review tasks in Pulse anytime after you create them
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-29-active-tab-in-chat|Active Tab in Chat]]'
-- '[[Changes/Cursor/2025-09-29-when-writing-prompts-autocomplete-suggestions-will-appear-based-on-recent-change|When
-  writing prompts, autocomplete suggestions will appear based on recent changes]]'
-- '[[Changes/Cursor/2025-10-29-browser-can-now-be-embedded-in-editor-including-powerful-new-tools-to-select-ele|Browser
-  can now be embedded in-editor, including powerful new tools to select…]]'
+- '[[Changes/Cursor/2025-09-29-pr-summaries-from-bugbot|PR summaries from Bugbot]]'
+- '[[Changes/Cursor/2025-11-21-4-editor-experience-changes-in-2-1|4 Editor Experience
+  changes in 2.1]]'
+- '[[Changes/Cursor/2025-12-10-browser-layout-and-style-editor-c9ae9c|Browser layout
+  and style editor]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44|chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44]]'
 source_type: chatgpt_changelog
 theme: editor-experience
@@ -70,21 +72,20 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|Tasks let you set up automated prompts that ChatGPT can run for you]] · Automation and Scheduling
-- [[Changes/ChatGPT/2025-12-17-create-tasks-in-chat-or-in-pulse-whatever-s-easier-in-the-moment|Create tasks in chat or in Pulse—whatever’s easier in the moment]] · Automation and Scheduling
+- [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks let you set up automated prompts that ChatGPT can run for you]] · Automation and Scheduling
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-browser-can-now-be-embedded-in-editor-including-powerful-new-tools-to-select-ele|Browser can now be embedded in-editor, including powerful new tools to select…]]
-- Later: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-create-new-rules-and-edit-existing-ones-directly-from-the-cli-with-the-rules-com|Create new rules and edit existing ones directly from the CLI with the /rules command]]
+- Earlier: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-browser-layout-and-style-editor-c9ae9c|Browser layout and style editor]]
+- Later: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-vscode-added-tab-icon-badges-showing-pending-permissions-blue-and-unread-complet|VSCode Added tab icon badges showing pending permissions (blue) and unread…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

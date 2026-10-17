@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 67de12db9eceba98d136d2cfc6033c220c2e655704c1bf54cac66ec3fc52a69f
+kind: change
+machine_hash: 085afb53f13314437d6bb4b33e73492d853b0911c293ce175e95d03912e7f27a
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added a line on stderr, when it is a terminal, that says what a `claude
       -p` run is waiting for when it stays open after its last turn
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.295
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-a-line-on-stderr-when-it-is-a-terminal-that-says-what-a-claude-p-run-is-wa
@@ -41,12 +43,12 @@ record:
     run…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-30-improved-commit-guidance-when-your-project-or-user-skills-include-one-named-veri|Improved
-  commit guidance]]'
-- '[[Changes/Claude Code/2026-10-02-added-a-built-in-gh-api-to-cloud-sessions-whose-image-has-no-github-cli-and-fixe|Added
-  a built-in gh api to cloud sessions whose image has no GitHub CLI, and fixed…]]'
-- '[[Changes/Claude Code/2026-10-02-added-max-findings-n-all-to-code-review-to-report-more-or-fewer-findings-than-th|Added
-  --max-findings n / all to /code-review to report more or fewer findings than…]]'
+- '[[Changes/Claude Code/2026-10-05-5-developer-workflow-changes-in-v2-1-290|5 Developer
+  Workflow changes in v2.1.290]]'
+- '[[Changes/Claude Code/2026-10-06-2-developer-workflow-changes-in-v2-1-292|2 Developer
+  Workflow changes in v2.1.292]]'
+- '[[Changes/Claude Code/2026-10-07-code-review-improved-code-review-s-add-a-repository-dialog-to-list-each-reposito|Code
+  Review Improved Code Review''s Add a repository dialog to list each repository…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'
 source_type: github_releases
 theme: developer-workflow
@@ -69,16 +71,24 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-10-08-added-onfailure-block-for-command-and-http-hooks-a-hook-that-can-t-start-times-o|Added onFailure: "block" for command and HTTP hooks: a hook that can't start…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-10-08-added-quoted-text-to-the-copy-picker-so-a-drafted-message-copies-without-its-mar|Added quoted text to the /copy picker, so a drafted message copies without its …]] · Interface Experience
-- [[Changes/Claude Code/2026-10-08-added-a-warning-to-claude-plugin-install-enable-disable-and-marketplace-add-when|Added a warning to claude plugin install, enable, disable…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-10-08-3-agent-mode-changes-in-v2-1-295|3 Agent Mode changes in v2.1.295]] · Agent Mode
+- [[Changes/Claude Code/2026-10-08-improved-token-counts-behind-a-claude-apps-gateway-on-amazon-bedrock-which-conte|Improved token counts behind a Claude apps gateway on Amazon Bedrock…]] · Context Window
+- [[Changes/Claude Code/2026-10-08-changed-ctrl-c-at-the-idle-prompt-of-an-attached-background-session-to-leave-a-p|Changed Ctrl+C at the idle prompt of an attached background session to leave…]] · Automation and Scheduling
+- [[Changes/Claude Code/2026-10-08-14-apps-and-integrations-changes-in-v2-1-295|14 Apps and Integrations changes in v2.1.295]] · Apps and Integrations
+- [[Changes/Claude Code/2026-10-08-added-support-for-forceloginmethod-gateway-and-forcelogingatewayurl-in-your-own|Added support for forceLoginMethod: "gateway" and forceLoginGatewayUrl…]] · Account and Access
+- [[Changes/Claude Code/2026-10-08-changed-tab-stops-to-count-from-where-a-text-starts-instead-of-from-the-screen-s|Changed tab stops to count from where a text starts instead of from the screen's left edge]] · Editor Experience
+- [[Changes/Claude Code/2026-10-08-2-model-support-changes-in-v2-1-295|2 Model Support changes in v2.1.295]] · Model Support
+- [[Changes/Claude Code/2026-10-08-2-interface-experience-changes-in-v2-1-295|2 Interface Experience changes in v2.1.295]] · Interface Experience
+- [[Changes/Claude Code/2026-10-08-2-mobile-and-desktop-changes-in-v2-1-295|2 Mobile and Desktop changes in v2.1.295]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-10-08-5-safety-and-privacy-changes-in-v2-1-295|5 Safety and Privacy changes in v2.1.295]] · Safety and Privacy
+- [[Changes/Claude Code/2026-10-08-claude-tag-changed-claude-s-notice-that-a-channel-shared-across-enterprise-grid|Claude Tag Changed Claude's notice that a channel shared across Enterprise Grid…]] · Enterprise and Administration
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-added-max-findings-n-all-to-code-review-to-report-more-or-fewer-findings-than-th|Added --max-findings n / all to /code-review to report more or fewer findings than…]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-added-a-dir-prop-on-a-mod-s-text-for-right-to-left-text-on-windows-and-in-vs-cod|Added a dir prop on a mod's Text for right-to-left text]]
+- Earlier: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-code-review-improved-code-review-s-add-a-repository-dialog-to-list-each-reposito|Code Review Improved Code Review's Add a repository dialog to list each repository…]]
+- Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-3-developer-workflow-changes-in-v2-1-296|3 Developer Workflow changes in v2.1.296]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

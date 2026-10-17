@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 809bb90b2bccddea746b877977e0456e51b85a21bc1c599f2606967b15de9253
+machine_hash: 2e4c06e7a476a810e2d5e3af9acac59756b8b654918d58c96b2aeee5fa1abd7c
 product: cursor
 product_name: Cursor
 record:
@@ -59,6 +59,7 @@ related_changes:
   Windows ARM64 (win32-arm64) native binary support]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-24-cloud-agents-with-computer-use-https-cursor-com-changelog-02-24-252fc429|cursor-2026-02-24-cloud-agents-with-computer-use-https-cursor-com-changelog-02-24-252fc429]]'
 source_type: cursor_changelog
+superseded: true
 theme: mobile-desktop
 title: Cloud agents are available anywhere you use Cursor, including web, desktop,
   mobile…

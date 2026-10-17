@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e01fb925f78bdcfe1eebfba7be8145cae7d320b603c36c1c38917e01c8e4f0d3
+machine_hash: dcb3c169f38517c3623fbce0f6c4dca8c18dd26e776e4e7b97819b918d6e637c
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   disableDeepLinkRegistration setting to prevent claude-cli:// protocol…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317|claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added CwdChanged and FileChanged hook events for reactive environment management…
 type: change

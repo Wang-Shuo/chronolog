@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 16c3a1f6a7ecda4937094412d6d56dbb695ed16eefa2f4f8dd5292921d917e61
+machine_hash: 49c2c43992c05958c2b8d04781c0e6ee67c38663f4f482066d7cf40014061f5c
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   a note in /plugin on a plugin whose hooks are left out because another…]]'
 source_release: '[[Releases/Cursor/cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c|cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: The marketplace now includes apps for
 type: change

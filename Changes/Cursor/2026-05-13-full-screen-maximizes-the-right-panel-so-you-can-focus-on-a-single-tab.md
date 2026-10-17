@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 709d1045850788c6cddf2ae838dddcc70147c8c1a26e4582034c5423b17fd93f
+machine_hash: cd1638055b504057c423a992998d9d2c3dcbd233402ee8988c4a0d40867b6266
 product: cursor
 product_name: Cursor
 record:
@@ -58,6 +58,7 @@ related_changes:
   transcript view navigation]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d|cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d]]'
 source_type: cursor_changelog
+superseded: true
 theme: interface-experience
 title: Full screen maximizes the right panel so you can focus on a single tab
 type: change

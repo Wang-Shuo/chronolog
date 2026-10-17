@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: abccb47175b67617a55aeee4a0e736204b138705f7a85552e5c1832717a162f2
+machine_hash: 6debb5e2e006d34776bdb52b6c401daeea469df445e7cd7258732a274201277f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,6 +49,7 @@ related_changes:
   Claude Sonnet 5.5 (claude-sonnet-5-5), now the default Sonnet model…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-gpt-6-1-sol-in-chatgpt-work-and-codex-a0e5fef0|chatgpt-2026-09-29-gpt-6-1-sol-in-chatgpt-work-and-codex-a0e5fef0]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: 'For availability and model selection, see: ChatGPT Work and Codex'
 type: change

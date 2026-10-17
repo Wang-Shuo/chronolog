@@ -14,9 +14,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: 17474b7bc4eab0f1a5788e1fbaee2f2f55a2543cf0dde414266048da3ae9e151
+kind: launch
+machine_hash: 18c84ed8742fa253c846af9425ce892108e813e9ebf417ace08d8775ff77eb44
 product: cursor
 product_name: Cursor
 record:
@@ -35,11 +36,12 @@ record:
       agent to resolve them. The whole path from agent output to merged PR now travels
       with you.'
     source_release: https://cursor.com/changelog/ipad
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and
+  slug: a-full-review-surface
   source_release: cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c
   source_type: cursor_changelog
   theme: mobile-desktop
@@ -53,26 +55,26 @@ record:
     - agent
     score: 50
     theme: agent-mode
-  title: On iPhone and iPad, the review screen now covers the full PR
+  title: A full review surface
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2026-07-16-a-clearer-desktop-layout-a-global-switcher-lets-you-choose-between-chatgpt-and-c|A
+  clearer desktop layout: A global switcher lets you choose between ChatGPT and Codex]]'
+- '[[Changes/ChatGPT/2026-07-16-we-ve-updated-the-chatgpt-desktop-app-to-make-it-easier-to-choose-between-chat-a|ChatGPT
+  updates the ChatGPT desktop app to make it easier to choose between Chat…]]'
 - '[[Changes/ChatGPT/2026-07-16-continue-work-across-devices-cloud-work-conversations-now-sync-across-web-mobile|Continue
   Work across devices]]'
-- '[[Changes/ChatGPT/2026-07-23-available-on-web-and-ios-health-lets-you-view-lab-results-medications-activity-s|Available
-  on web and iOS, Health lets you view lab results, medications, activity…]]'
-- '[[Changes/Cursor/2026-07-29-the-ipad-layout-is-rebuilt-around-the-extra-space-sidebar-chats-stay-pinned-so-y|The
-  iPad layout is rebuilt around the extra space]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c|cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c]]'
 source_type: cursor_changelog
 theme: mobile-desktop
-title: On iPhone and iPad, the review screen now covers the full PR
+title: A full review surface
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# On iPhone and iPad, the review screen now covers the full PR
+# A full review surface
 
-**Cursor** · 2026-07-29 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://cursor.com/changelog/ipad) · from [[Releases/Cursor/cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c|Cursor, now on iPad]]
+**Cursor** · 2026-07-29 · [[Themes/mobile-desktop|Mobile and Desktop]] · Launch · [Official source](https://cursor.com/changelog/ipad) · from [[Releases/Cursor/cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c|Cursor, now on iPad]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -84,17 +86,17 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-07-29-the-ipad-layout-is-rebuilt-around-the-extra-space-sidebar-chats-stay-pinned-so-y|The iPad layout is rebuilt around the extra space]] · Mobile and Desktop
-- [[Changes/Cursor/2026-07-29-markup-gets-more-room-to-work-too-attach-a-screenshot-then-tap-to-drop-a-comment|Markup gets more room to work too]] · Multimodal Input
-- [[Changes/Cursor/2026-07-29-cursor-for-ipad-is-now-available-on-all-paid-plans|Cursor for iPad is now available on all paid plans]] · Mobile and Desktop
-- [[Changes/Cursor/2026-07-29-new-to-both-iphone-and-ipad-an-inbox-to-stay-organized-and-a-review-experience-t|New to both iPhone and iPad]] · Mobile and Desktop
+- [[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch between teams that you belong to directly in the app]] · Collaboration
+- [[Changes/Cursor/2026-07-29-built-for-the-bigger-screen-98bf7a|Built for the bigger screen]] · Mobile and Desktop
+- [[Changes/Cursor/2026-07-29-inbox|Inbox]] · Agent Mode
+- [[Changes/Cursor/2026-07-29-cursor-for-ipad-is-now-available-on-all-paid-plans-ce68be|Cursor for iPad is now available on all paid plans]] · Mobile and Desktop
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-23 · ChatGPT · [[Changes/ChatGPT/2026-07-23-available-on-web-and-ios-health-lets-you-view-lab-results-medications-activity-s|Available on web and iOS, Health lets you view lab results, medications, activity…]]
-- Later: 2026-08-07 · ChatGPT · [[Changes/ChatGPT/2026-08-07-find-folders-files-and-past-conversations-faster-search-now-includes-folders-and|Find folders, files, and past conversations faster]]
+- Earlier: 2026-07-16 · ChatGPT · [[Changes/ChatGPT/2026-07-16-continue-work-across-devices-cloud-work-conversations-now-sync-across-web-mobile|Continue Work across devices]]
+- Later: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-3-mobile-and-desktop-changes-in-v2-1-224|3 Mobile and Desktop changes in v2.1.224]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

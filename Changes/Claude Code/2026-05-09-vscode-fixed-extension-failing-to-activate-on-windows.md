@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 347b2abe036fa496465b8171a7f1c7721ab7504343bbfe61d2f17d20cc223add
+machine_hash: 08f02f267b171e4c74c3f508ff9b6e75674d90a5c1ecd1c3b56d54331146c673
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   agents that run in the Cursor desktop app, CLI, and web app are now accessible…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-09-v2-1-137-github-319788705-015f319d|claude-code-2026-05-09-v2-1-137-github-319788705-015f319d]]'
 source_type: github_releases
+superseded: true
 theme: mobile-desktop
 title: VSCode Fixed extension failing to activate on Windows
 type: change

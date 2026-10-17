@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: f7ac10301bb810f72818ab11ede05093291cf5d7bab32c8bf9cf900f56db1532
+machine_hash: babeb95570831a12cecda64ba425137b833d93cee2ae4a02341706980600802e
 product: claude-code
 product_name: Claude Code
 record:
@@ -63,6 +63,7 @@ related_changes:
   x-claude-code-prompt-id to the gateway hint headers so LLM gateways can…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Added Claude Sonnet 5.5 (claude-sonnet-5-5), now the default Sonnet model…
 type: change

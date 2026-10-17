@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: e0e43c0389879fc151f4b10785a2d4194cba2350d45ea26218a8363f769aa574
+kind: fix
+machine_hash: ae398e3650ddb36918d800f8e6c93f176676b0522cf535ce289e0d137ac09189
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
       session with `-p --continue`/`--resume`, and plan mode not being re-applied
       after `ExitPlanMode` within the same session
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.132
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: fix
   product: claude-code
   product_name: Claude Code
   slug: fixed-permission-mode-flag-being-ignored-when-resuming-a-plan-mode-session-with
@@ -44,12 +46,12 @@ record:
   title: Fixed `--permission-mode` flag being ignored when resuming a plan-mode session…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-30-customize-cursor-managed-security-agents-by-adjusting-triggers-adding-your-own-i|Customize
-  Cursor-managed security agents by adjusting triggers, adding your own…]]'
-- '[[Changes/Claude Code/2026-05-01-dangerously-skip-permissions-now-bypasses-prompts-for-writes-to-claude-git-vscod|--dangerously-skip-permissions
-  now bypasses prompts for writes to .claude/…]]'
+- '[[Changes/Claude Code/2026-05-01-3-safety-and-privacy-changes-in-v2-1-126|3 Safety
+  and Privacy changes in v2.1.126]]'
 - '[[Changes/Cursor/2026-05-01-default-off-users-can-discover-and-opt-in|Default Off:
   users can discover and opt in]]'
+- '[[Changes/Claude Code/2026-05-04-sdk-hosts-now-receive-a-persistent-localsettings-suggestion-for-bash-permission|SDK
+  hosts now receive a persistent localSettings suggestion for Bash permission…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664|claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664]]'
 source_type: github_releases
 theme: safety-privacy
@@ -60,7 +62,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Fixed `--permission-mode` flag being ignored when resuming a plan-mode session…
 
-**Claude Code** · 2026-05-06 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.132) · from [[Releases/Claude Code/claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664|v2.1.132]]
+**Claude Code** · 2026-05-06 · [[Themes/safety-privacy|Safety and Privacy]] · Fix · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.132) · from [[Releases/Claude Code/claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664|v2.1.132]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -72,17 +74,17 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-05-06-2-interface-experience-changes-in-v2-1-132|2 Interface Experience changes in v2.1.132]] · Interface Experience
 - [[Changes/Claude Code/2026-05-06-added-claude-code-session-id-environment-variable-to-the-bash-tool-subprocess-en|Added CLAUDE_CODE_SESSION_ID environment variable to the Bash tool subprocess…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-05-06-improved-visual-consistency-in-slash-command-dialogs-and-login-upgrade-extra-usa|Improved visual consistency in slash command dialogs and /login, /upgrade…]] · Account and Access
-- [[Changes/Claude Code/2026-05-06-added-claude-code-disable-alternate-screen-1-env-var-to-opt-out-of-the-fullscree|Added CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1 env var to opt out of the fullscreen…]] · Interface Experience
-- [[Changes/Claude Code/2026-05-06-added-a-pasting-footer-hint-while-a-ctrl-v-image-paste-is-being-read-from-the-cl|Added a "Pasting…" footer hint while a Ctrl+V image paste is being read from the clipboard]] · Interface Experience
+- [[Changes/Claude Code/2026-05-06-updated-the-tui-fullscreen-startup-banner-to-describe-additional-renderer-benefi|Updated the /tui fullscreen startup banner to describe additional renderer…]] · Reliability and Performance
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-01 · Cursor · [[Changes/Cursor/2026-05-01-default-off-users-can-discover-and-opt-in|Default Off: users can discover and opt in]]
-- Later: 2026-05-07 · ChatGPT · [[Changes/ChatGPT/2026-05-07-over-the-coming-weeks-we-ll-be-rolling-out-trusted-contact-an-optional-safety-fe|Over the coming weeks, we'll be rolling out trusted contact, an optional safety…]]
+- Earlier: 2026-05-04 · Claude Code · [[Changes/Claude Code/2026-05-04-sdk-hosts-now-receive-a-persistent-localsettings-suggestion-for-bash-permission|SDK hosts now receive a persistent localSettings suggestion for Bash permission…]]
+- Later: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-fixed-session-title-chip-from-rename-disappearing-while-a-permission-or-other-di|Fixed session title chip from /rename disappearing while a permission or other…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

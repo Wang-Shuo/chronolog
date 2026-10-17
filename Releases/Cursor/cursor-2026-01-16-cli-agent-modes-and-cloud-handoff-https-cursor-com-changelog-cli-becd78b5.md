@@ -1,9 +1,9 @@
 ---
-changes_count: 4
+changes_count: 11
 date: '2026-01-16'
-description: 'Cursor release CLI Agent Modes and Cloud Handoff on 2026-01-16: 4 tracked
-  changes across Agent Mode, Editor Experience'
-machine_hash: 35795198d494541f16365b11e604dd36fa32db06e682a808ebf1df324f6c8ad4
+description: 'Cursor release CLI Agent Modes and Cloud Handoff on 2026-01-16: 11 tracked
+  changes across Agent Mode, Editor Experience, Account and Access, Developer…'
+machine_hash: 49220ebba4b2b8f04ba4706d4e49099514d442bdb6d1a6bcb7d98dc37d8e0871
 product: cursor
 product_name: Cursor
 record:
@@ -39,13 +39,20 @@ version: CLI Agent Modes and Cloud Handoff
 <!-- chronolog:begin region="summary" -->
 This release brings many of the editor’s most-loved features to the Cursor CLI, along with improvements that make it easier to use.
 
-Tracked 4 of 22 candidate lines.
+Tracked 11 cards from 22 candidate lines; 3 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-01-16-push-your-local-conversation-to-a-cloud-agent-and-let-it-keep-running-while-you|Push your local conversation to a Cloud Agent and let it keep running while you're away]] · Agent Mode
-- [[Changes/Cursor/2026-01-16-this-release-brings-many-of-the-editor-s-most-loved-features-to-the-cursor-cli-a|Cursor brings many of the editor’s most-loved features to the Cursor CLI, along…]] · Editor Experience
-- [[Changes/Cursor/2026-01-16-use-plan-mode-to-design-your-approach-before-coding-cursor-will-ask-clarifying-q|Use Plan mode to design your approach before coding]] · Agent Mode
-- [[Changes/Cursor/2026-01-16-use-ask-mode-to-explore-code-without-making-changes-just-like-in-the-editor-star|Use Ask mode to explore code without making changes, just like in the editor]] · Editor Experience
+- [[Changes/Cursor/2026-01-16-one-click-mcp-authentication|One-click MCP authentication]] · Account and Access · Launch
+- [[Changes/Cursor/2026-01-16-push-your-local-conversation-to-a-cloud-agent-and-let-it-keep-running-while-you|Handoff to Cloud Agents]] · Agent Mode · Launch
+- [[Changes/Cursor/2026-01-16-models-removed-use-model-to-see-all-models-or-select-a-model|/models removed. Use /model to see all models or select a model]] · Model Support
+- [[Changes/Cursor/2026-01-16-faster-message-queueing-and-ux|Faster message queueing and UX]] · Reliability and Performance
+- [[Changes/Cursor/2026-01-16-this-release-brings-many-of-the-editor-s-most-loved-features-to-the-cursor-cli-a|Cursor brings many of the editor’s most-loved features to the Cursor CLI, along…]] · Editor Experience · Launch
+- [[Changes/Cursor/2026-01-16-use-plan-mode-to-design-your-approach-before-coding-cursor-will-ask-clarifying-q|Plan mode in CLI]] · Agent Mode · Launch
+- [[Changes/Cursor/2026-01-16-2-developer-workflow-changes-in-cli-agent-modes-and-cloud-handoff|2 Developer Workflow changes in CLI Agent Modes and Cloud Handoff]] · Developer Workflow · Digest
+- [[Changes/Cursor/2026-01-16-added-webfetch-websearch-tools-approval-options-for-granular-controls-over-web-s|Added WebFetch, WebSearch tools, & approval options for granular controls over web…]] · Search and Browsing
+- [[Changes/Cursor/2026-01-16-use-ask-mode-to-explore-code-without-making-changes-just-like-in-the-editor-star|Ask mode in CLI]] · Editor Experience · Launch
+- [[Changes/Cursor/2026-01-16-2-interface-experience-changes-in-cli-agent-modes-and-cloud-handoff|2 Interface Experience changes in CLI Agent Modes and Cloud Handoff]] · Interface Experience · Digest
+- [[Changes/Cursor/2026-01-16-added-hooks-for-session-start-end-prompt-and-stop-for-customizing-agent-lifecycl|Added hooks for session start/end, prompt, and stop for customizing agent lifecycle events]] · Agent Mode
 <!-- chronolog:end -->

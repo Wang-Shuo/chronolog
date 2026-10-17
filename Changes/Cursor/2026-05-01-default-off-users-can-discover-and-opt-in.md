@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 583c80bf94e0f3c61bdaa6b848f7961bc3ec49f3d56cf10f203c0852e01eb0b1
+kind: change
+machine_hash: 8309be9130ff2890993b95809871a68bbea6e6ea97af8175cc1f3fb76bfad7d3
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: 'Default Off: users can discover and opt in'
     source_release: https://cursor.com/changelog/05-01-26
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: default-off-users-can-discover-and-opt-in
@@ -42,11 +44,10 @@ record:
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-04-30-security-reviewer-checks-every-pr-for-security-vulnerabilities-auth-regressions|Security
-  Reviewer checks every PR for security vulnerabilities, auth regressions…]]'
-- '[[Changes/Cursor/2026-04-30-customize-cursor-managed-security-agents-by-adjusting-triggers-adding-your-own-i|Customize
-  Cursor-managed security agents by adjusting triggers, adding your own…]]'
-- '[[Changes/Claude Code/2026-05-01-dangerously-skip-permissions-now-bypasses-prompts-for-writes-to-claude-git-vscod|--dangerously-skip-permissions
-  now bypasses prompts for writes to .claude/…]]'
+  Reviewer]]'
+- '[[Changes/Cursor/2026-04-30-vulnerability-scanner-b19b70|Vulnerability Scanner]]'
+- '[[Changes/Claude Code/2026-05-01-3-safety-and-privacy-changes-in-v2-1-126|3 Safety
+  and Privacy changes in v2.1.126]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-01-team-marketplace-updates-https-cursor-com-changelog-05-01-26-3036cead|cursor-2026-05-01-team-marketplace-updates-https-cursor-com-changelog-05-01-26-3036cead]]'
 source_type: cursor_changelog
 theme: safety-privacy
@@ -69,17 +70,14 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-05-01-plugins-bundle-capabilities-like-mcp-servers-skills-subagents-rules-and-hooks-th|Plugins bundle capabilities like MCP servers, skills, subagents, rules, and hooks…]] · Apps and Integrations
-- [[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a|Admins can now create a team marketplace without connecting a repository first]] · Collaboration
-- [[Changes/Cursor/2026-05-01-required-users-always-have-the-plugin-and-cannot-uninstall-it|Required: users always have the plugin and cannot uninstall it]] · Apps and Integrations
-- [[Changes/Cursor/2026-05-01-default-on-users-get-the-plugin-installed-by-default-but-can-opt-out|Default On: users get the plugin installed by default, but can opt out]] · Apps and Integrations
+- [[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a-b1834a|Admins can now create a team marketplace without connecting a repository first]] · Collaboration
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-dangerously-skip-permissions-now-bypasses-prompts-for-writes-to-claude-git-vscod|--dangerously-skip-permissions now bypasses prompts for writes to .claude/…]]
-- Later: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-fixed-permission-mode-flag-being-ignored-when-resuming-a-plan-mode-session-with|Fixed --permission-mode flag being ignored when resuming a plan-mode session…]]
+- Earlier: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-3-safety-and-privacy-changes-in-v2-1-126|3 Safety and Privacy changes in v2.1.126]]
+- Later: 2026-05-04 · Claude Code · [[Changes/Claude Code/2026-05-04-sdk-hosts-now-receive-a-persistent-localsettings-suggestion-for-bash-permission|SDK hosts now receive a persistent localSettings suggestion for Bash permission…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

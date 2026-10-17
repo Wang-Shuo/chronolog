@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 53c65a40242ddda8a0b1652a3a328c43d0cce6aac69b67e0124c6686d65626c5
+machine_hash: 5ea51e884566d938cca610946f3f1e33e0c1545338eaa49ff736d0ef92bda0d3
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   skills without additional permissions or hooks to be allowed without…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640|claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: SDK Added replay of queued_command attachment messages as SDKUserMessageReplay…
 type: change

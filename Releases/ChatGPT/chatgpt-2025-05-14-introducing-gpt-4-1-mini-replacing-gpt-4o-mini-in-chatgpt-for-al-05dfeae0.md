@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-05-14'
 description: 'ChatGPT release Introducing GPT-4.1 mini, replacing GPT-4o mini, in
   ChatGPT for all users on 2025-05-14: 1 tracked change across Model Support'
-machine_hash: 8d95fb81ed45c9755d05efccf719a7e3a973aa97cd20f0f9f274164b61951766
+machine_hash: 65d835d58a1eed31be1f2dbce926227cf9b5166b0f308cab71255e8f1cb6dc30
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,10 +43,10 @@ version: Introducing GPT-4.1 mini, replacing GPT-4o mini, in ChatGPT for all use
 <!-- chronolog:begin region="summary" -->
 GPT-4.1 mini is a fast, capable, and efficient small model, delivering significant improvements compared to GPT-4o mini—in instruction-following, coding, and overall intelligence. Starting today, GPT-4.1 mini replaces GPT-4o mini in the model picker under "more models" for paid users, and will serve as the fallback…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-05-14-gpt-4-1-mini-is-a-fast-capable-and-efficient-small-model-delivering-significant-722b7d|GPT-4.1 mini is a fast, capable, and efficient small model, delivering significant…]] · Model Support
+- [[Changes/ChatGPT/2025-05-14-gpt-4-1-mini-is-a-fast-capable-and-efficient-small-model-delivering-significant-722b7d|Introducing GPT-4.1 mini, replacing GPT-4o mini, in ChatGPT for all users]] · Model Support · Launch
 <!-- chronolog:end -->

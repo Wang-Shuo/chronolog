@@ -5,8 +5,8 @@ description: 'ChatGPT · 2023-07-20 · Memory and Personalization: We’re start
   roll out custom instructions, giving you more control over ChatGPT’s responses.
   Set your…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 0
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 43edb7ec7a968a5cd305d988f6acc9b04997b95faf5a6fb1c3d09e1021366162
+kind: change
+machine_hash: dd8b2bccc078e9c760a990ac994e73ed7208c12ea0589fccfe84d1e955039c6b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,25 +38,26 @@ record:
       instructions are available to all Plus users and expanding to all users in the
       coming weeks.To enable beta features:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat
   source_release: chatgpt-2023-07-20-custom-instructions-are-rolling-out-in-beta-bf9360b9
   source_type: chatgpt_changelog
   theme: memory
-  title: We’re starting to roll out custom instructions, giving you more control over…
+  title: Custom instructions are rolling out in beta
   type: change
 source_release: '[[Releases/ChatGPT/chatgpt-2023-07-20-custom-instructions-are-rolling-out-in-beta-bf9360b9|chatgpt-2023-07-20-custom-instructions-are-rolling-out-in-beta-bf9360b9]]'
 source_type: chatgpt_changelog
 theme: memory
-title: We’re starting to roll out custom instructions, giving you more control over…
+title: Custom instructions are rolling out in beta
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We’re starting to roll out custom instructions, giving you more control over…
+# Custom instructions are rolling out in beta
 
 **ChatGPT** · 2023-07-20 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-07-20-custom-instructions-are-rolling-out-in-beta-bf9360b9|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
@@ -73,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Later: 2023-08-09 · ChatGPT · [[Changes/ChatGPT/2023-08-09-custom-instructions-are-now-available-to-chatgpt-users-on-the-free-plan-except-f-963d1e|Custom instructions are now available to ChatGPT users on the free plan, except…]]
+- Later: 2023-08-09 · ChatGPT · [[Changes/ChatGPT/2023-08-09-custom-instructions-are-now-available-to-chatgpt-users-on-the-free-plan-except-f-963d1e|Custom instructions are now available to free users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

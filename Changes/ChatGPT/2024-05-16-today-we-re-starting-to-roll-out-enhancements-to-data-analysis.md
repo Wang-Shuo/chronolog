@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4a20701eecb1be24bc88d400c1966a6c39006a3ee3036667aaa8f7dfdf7bb94a
+machine_hash: 7fc08e83b827a49ff3319c5306d382047fb7cef217da0a4ba7dde8804f4d8741
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,6 +43,7 @@ related_changes:
   rolls out code interpreter to all ChatGPT Plus users over the next week]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572|chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: file-data
 title: Today, we’re starting to roll out enhancements to data analysis
 type: change

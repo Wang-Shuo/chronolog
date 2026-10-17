@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 05fb80e680afe6608d907f0a4e2b8fc3d6ad69126cd3ab9ace30fcba67177f5b
+machine_hash: b918d8ef173bc2d39ffb1580ccbbc2c15c9cb0cadd4cd8e464e61399d7fcf23c
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   omitClaudeMd to agent frontmatter and --agents JSON, letting custom…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added per-command allowed_domains to Bash, PowerShell and Monitor in auto mode…
 type: change

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-03-23'
 description: 'ChatGPT release File Library in ChatGPT on 2026-03-23: 1 tracked change
   across Mobile and Desktop'
-machine_hash: 25c65e858b0732ffb3c65665a224cd48e4a0787444bd0bb32b4ac6a3e6722988
+machine_hash: e5b43ad51f19c89fda3d3cf9e0fa16e4b05e20fed8b6a5588fd72f0673359f48
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: File Library in ChatGPT
 <!-- chronolog:begin region="summary" -->
 Now, it’s easier to find, reuse, and build on your files over time. When you upload or create a file—whether it’s a PDF, spreadsheet, image, or more—it’s automatically saved to your Library. Generated images will continue to appear in the Images tab.You can quickly reference files in a chat using recent files in the…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|Now, it’s easier to find, reuse, and build on your files over time]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|File Library in ChatGPT]] · Mobile and Desktop
 <!-- chronolog:end -->

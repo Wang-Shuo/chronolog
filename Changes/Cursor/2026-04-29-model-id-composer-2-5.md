@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: cf3a384ce0c3bd76884dd7f72bca238f0e470fdbf8f7e7b6cb34fe09eb3e5ed9
+machine_hash: bd5b91e4cbc6655deb4b430f3f18a14de19faa4bf506a0310ce90e2687867958
 product: cursor
 product_name: Cursor
 record:
@@ -48,6 +48,7 @@ related_changes:
   making it easier to choose the right model before you send a message]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3|cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3]]'
 source_type: cursor_changelog
+superseded: true
 theme: model-support
 title: 'model: { id: "composer-2.5" },'
 type: change

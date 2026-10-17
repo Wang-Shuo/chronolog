@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b716d5f1a942cdb6097bebd21d6a371433833b338c9399580452936857b23253
+machine_hash: 562c7dd01e1e7fd997fa570caafcb87b9445d9f1f6fb814f12ad9e01abda1759
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   Frontier quality, matching the most expensive and powerful models…]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4|cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4]]'
 source_type: cursor_changelog
+superseded: true
 theme: model-support
 title: 'Balance: Strong quality, matching the frontier models that most people like
   to daily drive'

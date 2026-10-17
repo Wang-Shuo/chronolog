@@ -4,8 +4,8 @@ date: '2026-03-05'
 description: 'ChatGPT · 2026-03-05 · Context Window: GPT‑5.4 brings together the best
   of our recent advances in reasoning, coding, and agentic workflows into a single…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
-    prompt length for project generation]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1036
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: e980c8884ab28399551b79dfec9851493bfbcf674cfa32f51810df1363253630
+kind: change
+machine_hash: e74e30cb8175a060986fb8812cdb217a0edacf6dbbe17b58320f30c803777ace
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +29,7 @@ record:
   description: 'ChatGPT — GPT-5.4 Thinking in ChatGPT: GPT‑5.4 brings together the
     best of our recent advances in reasoning, coding, and agentic workflows into a
     single frontier model. It incorporates the industry-leading coding capabilities
-    of GPT‑5.3‑Codex⁠ while improving how the model works across tools, software environments,
+    of GPT‑5.3‑Codex while improving how the model works across tools, software environments,
     and professional tasks involving spreadsheets, presentations, and documents. The
     result is a model that gets complex real work done accurately, effectively, and
     efficiently—delivering what you asked for with less back and forth.In ChatGPT,
@@ -43,7 +44,7 @@ record:
   evidence:
   - quote: GPT‑5.4 brings together the best of our recent advances in reasoning, coding,
       and agentic workflows into a single frontier model. It incorporates the industry-leading
-      coding capabilities of GPT‑5.3‑Codex⁠ while improving how the model works across
+      coding capabilities of GPT‑5.3‑Codex while improving how the model works across
       tools, software environments, and professional tasks involving spreadsheets,
       presentations, and documents. The result is a model that gets complex real work
       done accurately, effectively, and efficiently—delivering what you asked for
@@ -57,8 +58,9 @@ record:
       mean higher-quality answers that arrive faster and stay relevant to the task
       at hand.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: gpt-5-4-brings-together-the-best-of-our-recent-advances-in-reasoning-coding-and
@@ -90,30 +92,30 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v2
-  title: GPT‑5.4 brings together the best of our recent advances in reasoning, coding…
+  title: GPT-5.4 Thinking in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-20-chatgpt-now-has-a-total-context-window-length-of-256k-tokens-128k-input-and-128k|ChatGPT
-  now has a total context window length of 256k tokens…]]'
 - '[[Changes/ChatGPT/2026-02-25-ad-hoc-text-sources-paste-notes-briefs-or-reference-material-directly-to-capture|Ad-hoc
   text sources]]'
 - '[[Changes/ChatGPT/2026-02-25-projects-now-make-it-easy-to-build-a-living-knowledge-base-by-adding-sources-whe|Projects
   now make it easy to build a living knowledge base by adding sources…]]'
+- '[[Changes/Cursor/2026-03-03-2-context-window-changes-in-2-6|2 Context Window changes
+  in 2.6]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-05-gpt-5-4-thinking-in-chatgpt-df7dc812|chatgpt-2026-03-05-gpt-5-4-thinking-in-chatgpt-df7dc812]]'
 source_type: chatgpt_changelog
 theme: context-window
-title: GPT‑5.4 brings together the best of our recent advances in reasoning, coding…
+title: GPT-5.4 Thinking in ChatGPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# GPT‑5.4 brings together the best of our recent advances in reasoning, coding…
+# GPT-5.4 Thinking in ChatGPT
 
 **ChatGPT** · 2026-03-05 · [[Themes/context-window|Context Window]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-05-gpt-5-4-thinking-in-chatgpt-df7dc812|GPT-5.4 Thinking in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
-> GPT‑5.4 brings together the best of our recent advances in reasoning, coding, and agentic workflows into a single frontier model. It incorporates the industry-leading coding capabilities of GPT‑5.3‑Codex⁠ while improving how the model works across tools, software environments, and professional tasks involving spreadsheets, presentations, and documents. The result is a model that gets complex real work done accurately, effectively, and efficiently—delivering what you asked for with less back and forth.In ChatGPT, GPT‑5.4 Thinking can now provide an upfront plan of its thinking, so you can adjust course mid-response while it’s working, and arrive at a final output that’s more closely aligned with what you need without additional turns. GPT‑5.4 Thinking improves deep web research, particularly for highly specific queries, while better maintaining context for questions that require longer thinking. GPT‑5.4 Thinking also has improved context window management that supports its ability to think for longer. Together, these improvements mean higher-quality answers that arrive faster and stay relevant to the task at hand.
+> GPT‑5.4 brings together the best of our recent advances in reasoning, coding, and agentic workflows into a single frontier model. It incorporates the industry-leading coding capabilities of GPT‑5.3‑Codex while improving how the model works across tools, software environments, and professional tasks involving spreadsheets, presentations, and documents. The result is a model that gets complex real work done accurately, effectively, and efficiently—delivering what you asked for with less back and forth.In ChatGPT, GPT‑5.4 Thinking can now provide an upfront plan of its thinking, so you can adjust course mid-response while it’s working, and arrive at a final output that’s more closely aligned with what you need without additional turns. GPT‑5.4 Thinking improves deep web research, particularly for highly specific queries, while better maintaining context for questions that require longer thinking. GPT‑5.4 Thinking also has improved context window management that supports its ability to think for longer. Together, these improvements mean higher-quality answers that arrive faster and stay relevant to the task at hand.
 >
 > Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
@@ -125,14 +127,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-02-25 · ChatGPT · [[Changes/ChatGPT/2026-02-25-projects-now-make-it-easy-to-build-a-living-knowledge-base-by-adding-sources-whe|Projects now make it easy to build a living knowledge base by adding sources…]]
-- Later: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-added-postcompact-hook-that-fires-after-compaction-completes|Added PostCompact hook that fires after compaction completes]]
+- Earlier: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-2-context-window-changes-in-2-6|2 Context Window changes in 2.6]]
+- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-3-context-window-changes-in-v2-1-69|3 Context Window changes in v2.1.69]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

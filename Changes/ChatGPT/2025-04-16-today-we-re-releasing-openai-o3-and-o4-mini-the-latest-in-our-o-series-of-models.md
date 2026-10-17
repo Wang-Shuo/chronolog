@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 9fde587efa1168bf40801d64afc09b37610c42ea0e5165cfe0a4d663e7ff6abb
+kind: launch
+machine_hash: 91c87b62322769cd2c76251f891073ac92346911da6b94163a7a4a239a5b68b3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,8 +59,9 @@ record:
       academic benchmarks and real-world tasks, setting a new standard in both intelligence
       and usefulness.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: launch
   product: chatgpt
   product_name: ChatGPT
   slug: today-we-re-releasing-openai-o3-and-o4-mini-the-latest-in-our-o-series-of-models
@@ -80,28 +82,25 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v2
-  title: Today, we’re releasing OpenAI o3 and o4-mini, the latest in our o-series
-    of models…
+  title: o3 and o4-mini in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-27-gpt-4o-has-further-improved-its-capability-to-tackle-complex-technical-and-codin|GPT-4o
-  has further improved its capability to tackle complex technical and coding problems]]'
-- '[[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|GPT-4o
-  is now more adept at following detailed instructions, especially for prompts…]]'
-- '[[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Effective
-  April 30, 2025, GPT‑4 will be retired from ChatGPT and fully replaced by GPT‑4o]]'
+- '[[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|Enhanced
+  instruction-following and formatting accuracy]]'
+- '[[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Sunsetting
+  GPT‑4 in ChatGPT]]'
+- '[[Changes/Cursor/2025-04-15-new-models|New models]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-04-16-o3-and-o4-mini-in-chatgpt-1fd34eaa|chatgpt-2025-04-16-o3-and-o4-mini-in-chatgpt-1fd34eaa]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: Today, we’re releasing OpenAI o3 and o4-mini, the latest in our o-series of
-  models…
+title: o3 and o4-mini in ChatGPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Today, we’re releasing OpenAI o3 and o4-mini, the latest in our o-series of models…
+# o3 and o4-mini in ChatGPT
 
-**ChatGPT** · 2025-04-16 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-04-16-o3-and-o4-mini-in-chatgpt-1fd34eaa|o3 and o4-mini in ChatGPT]]
+**ChatGPT** · 2025-04-16 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-04-16-o3-and-o4-mini-in-chatgpt-1fd34eaa|o3 and o4-mini in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -117,8 +116,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-04-10 · ChatGPT · [[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Effective April 30, 2025, GPT‑4 will be retired from ChatGPT and fully replaced by GPT‑4o]]
-- Later: 2025-04-25 · ChatGPT · [[Changes/ChatGPT/2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories|We’re making additional improvements to GPT-4o, optimizing when it saves memories…]]
+- Earlier: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-new-models|New models]]
+- Later: 2025-04-25 · ChatGPT · [[Changes/ChatGPT/2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories|Improvements to GPT-4o]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

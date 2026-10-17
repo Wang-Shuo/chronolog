@@ -3,7 +3,7 @@ changes_count: 3
 date: '2023-03-27'
 description: 'Cursor release v0.1.9 (2023-03-27) on 2023-03-27: 3 tracked changes
   across Developer Workflow, Interface Experience, Pricing Model'
-machine_hash: e0e52653c1c8f936abbf41b320e0e98d59cb04f99aeede8500f7e7cc9fc39374
+machine_hash: 9ce65f2136d6eec95cfa94117d0ccfbef927150e70e6c6baca136b1b94036643
 product: cursor
 product_name: Cursor
 record:
@@ -38,12 +38,12 @@ version: 0.1.9
 <!-- chronolog:begin region="summary" -->
 3 tracked changes across 3 themes: Developer Workflow, Interface Experience, Pricing Model.
 
-Tracked 3 of 3 candidate lines.
+Tracked 3 cards from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-03-27-adds-an-optional-paid-plan-if-you-d-like-to-avoid-the-server-capacity-rate-limit|Adds an optional paid plan if you'd like to avoid the server capacity rate limits]] · Pricing Model
+- [[Changes/Cursor/2023-03-27-adds-an-optional-paid-plan-if-you-d-like-to-avoid-the-server-capacity-rate-limit|Adds an optional paid plan if you'd like to avoid the server capacity rate limits]] · Pricing Model · Policy
 - [[Changes/Cursor/2023-03-27-changes-autoupdate-to-notify-you-when-there-s-a-new-version|Changes autoupdate to notify you when there's a new version]] · Interface Experience
 - [[Changes/Cursor/2023-03-27-opens-the-terminal-in-your-current-folder|Opens the terminal in your current folder]] · Developer Workflow
 <!-- chronolog:end -->

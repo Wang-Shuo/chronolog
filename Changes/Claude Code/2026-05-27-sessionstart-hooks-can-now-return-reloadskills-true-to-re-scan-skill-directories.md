@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0bcc968470590385d2eaaba9b18413d82b1b2c40c60605a1415a25ba21dabfff
+machine_hash: e41bfff5a320be8dc6a678b564f87150ffd70d7c69adceb313eac1f67c0cbab9
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   hooks can now set the session title…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850|claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: 'SessionStart hooks can now return reloadSkills: true to re-scan skill…'
 type: change

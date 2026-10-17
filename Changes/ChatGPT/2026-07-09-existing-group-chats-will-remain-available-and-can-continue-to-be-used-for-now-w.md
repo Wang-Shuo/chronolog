@@ -4,19 +4,19 @@ date: '2026-07-09'
 description: 'ChatGPT · 2026-07-09 · Collaboration: Existing group chats will remain
   available and can continue to be used for now. When an existing group chat becomes…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
-    can also share private docs]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1035
+  lag_days: 1142
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: d96717c24f645af07407995de8a2aac920c82618703a4758fa871874811779d6
+kind: change
+machine_hash: 27417dfa791d9804cf704052e0d015f40ab614087583d241e0230e246ade19ad
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,8 +33,9 @@ record:
       to the messages, files, and images already shared there. Individual ChatGPT
       conversations are unaffected.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w
@@ -47,10 +48,10 @@ record:
     now
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-30-under-dashboard-plugins-mcps-team-marketplaces-restrict-marketplace-access-to-sp|Under
-  Dashboard - Plugins & MCPs - Team Marketplaces, restrict marketplace access…]]'
-- '[[Changes/Cursor/2026-06-30-team-marketplaces-now-support-organization-groups-in-addition-to-team-level-scim|Team
-  marketplaces now support organization groups, in addition to team-level SCIM…]]'
+- '[[Changes/Cursor/2026-06-30-team-mcps-in-team-marketplaces-27f9ef|Team MCPs in
+  team marketplaces]]'
+- '[[Changes/Cursor/2026-06-30-marketplace-access-by-organization-group-a2cf9b|Marketplace
+  access by organization group]]'
 - '[[Changes/Cursor/2026-06-30-we-ve-expanded-team-marketplaces-to-support-team-mcps-and-organization-groups|Cursor
   expands team marketplaces to support Team MCPs and organization groups]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-retiring-group-chats-in-chatgpt-b45b9e40|chatgpt-2026-07-09-retiring-group-chats-in-chatgpt-b45b9e40]]'
@@ -83,13 +84,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-06-30 · Cursor · [[Changes/Cursor/2026-06-30-we-ve-expanded-team-marketplaces-to-support-team-mcps-and-organization-groups|Cursor expands team marketplaces to support Team MCPs and organization groups]]
-- Later: 2026-08-13 · ChatGPT · [[Changes/ChatGPT/2026-08-13-the-initial-experience-includes-my-drive-and-files-and-folders-shared-directly-w|The initial experience includes My Drive and files and folders shared directly with you]]
+- Later: 2026-07-10 · Cursor · [[Changes/Cursor/2026-07-10-combined-all-remote-options-your-machines-team-pools-and-existing-remote-workspa|Combined all remote options—your machines, team pools, and existing remote…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

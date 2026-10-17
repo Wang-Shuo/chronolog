@@ -5,19 +5,20 @@ description: 'ChatGPT · 2024-08-08 · Image Generation: We’re rolling out the
   for ChatGPT Free users to create up to two images per day with DALL·E 3.Just ask
   ChatGPT…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The
-    store features a diverse range of GPTs developed by our partners and the community]]'
+  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
+    3 for ChatGPT Free users]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 211
+  lag_days: 0
   relation: same-theme-chronology
-  role: later-observed
+  role: first-observed
   scope: tracked-products-only
   theme: image-generation
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: e891ace0e22e13a0a9881e85356a2feb39d041de67e1035fba9cff0136ef9a2c
+kind: change
+machine_hash: ab8e93429361289a650bfc5af18accd5c6ec933391bf1c66606a9aade54556d6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,30 +34,26 @@ record:
       images per day with DALL·E 3.Just ask ChatGPT to create an image for a slide
       deck, personalize a card for a friend, or show you what something looks like.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images
   source_release: chatgpt-2024-08-08-dall-e-3-for-chatgpt-free-users-379feaa2
   source_type: chatgpt_changelog
   theme: image-generation
-  title: ChatGPT rolls out the ability for ChatGPT Free users to create up to two
-    images per…
+  title: DALL·E 3 for ChatGPT Free users
   type: change
-related_changes:
-- '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The
-  store features a diverse range of GPTs developed by our partners and the community]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-08-08-dall-e-3-for-chatgpt-free-users-379feaa2|chatgpt-2024-08-08-dall-e-3-for-chatgpt-free-users-379feaa2]]'
 source_type: chatgpt_changelog
 theme: image-generation
-title: ChatGPT rolls out the ability for ChatGPT Free users to create up to two images
-  per…
+title: DALL·E 3 for ChatGPT Free users
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT rolls out the ability for ChatGPT Free users to create up to two images per…
+# DALL·E 3 for ChatGPT Free users
 
 **ChatGPT** · 2024-08-08 · [[Themes/image-generation|Image Generation]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-08-08-dall-e-3-for-chatgpt-free-users-379feaa2|DALL·E 3 for ChatGPT Free users]]
 <!-- chronolog:end -->
@@ -74,14 +71,13 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The store features a diverse range of GPTs developed by our partners and the community]]
-- Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-1-increased-the-default-size-for-in-line-generated-images|Increased the default size for in‐line generated images]]
+- Later: 2024-11-22 · ChatGPT · [[Changes/ChatGPT/2024-11-22-dall-e-focused-view-has-an-updated-layout|DALL-E focused view has an updated layout]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The store features a diverse range of GPTs developed by our partners and the community]]
+- Earliest same-theme entry among the 3 tracked products.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

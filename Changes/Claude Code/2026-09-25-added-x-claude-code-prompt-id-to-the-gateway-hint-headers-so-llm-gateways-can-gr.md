@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: fcf62c162a80d44cc67abb8693c21a454e772470df85d00682421d7b82815939
+machine_hash: 606ee6bb96af798ea48dad2a4f4f7414194eec94c3a769c49894f3702d196f97
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   deniedModels managed setting to block specific models, even…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8|claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Added x-claude-code-prompt-id to the gateway hint headers so LLM gateways can…
 type: change

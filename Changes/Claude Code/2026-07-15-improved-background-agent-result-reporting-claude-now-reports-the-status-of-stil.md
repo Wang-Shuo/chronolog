@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: e126b2febe7d9c20c2ea62d8e340e503a5dffae4ca4a2bf726dfa577f3987d1c
+machine_hash: 34514ce36936e2752fcbd78e9193ce4b0e57be60dd4771ae2efcc57e5925b343
 product: claude-code
 product_name: Claude Code
 record:
@@ -64,6 +64,7 @@ related_changes:
   CLAUDE_CODE_PROCESS_WRAPPER: agent view and the background service now honor…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57|claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Improved background agent result reporting
 type: change

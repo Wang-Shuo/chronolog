@@ -3,7 +3,7 @@ changes_count: 4
 date: '2024-02-09'
 description: 'Cursor release AI Previews Beta on 2024-02-09: 4 tracked changes across
   Editor Experience, Interface Experience'
-machine_hash: 5b445211adc4cf2badb285fc31526dd29583f5e81c52c9c00a67aba1b5b0895b
+machine_hash: a9a183cec0d6f6958cf95d4949ceb9b52ff5d1828374d0af77ee58fb347b8793
 product: cursor
 product_name: Cursor
 record:
@@ -41,7 +41,7 @@ version: '0.26'
 <!-- chronolog:begin region="summary" -->
 AI Previews: this is an experimental new code reading feature. After enabling in the "More" tab beside Chat, just hold shift to see a generate some quick notes about the symbol you're on. If you'd like us to dedicate more time to this direction, please let us know.
 
-Tracked 4 of 5 candidate lines.
+Tracked 4 cards from 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

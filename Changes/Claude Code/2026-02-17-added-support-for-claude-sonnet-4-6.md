@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 87516193ff1808d197c3a919e4b68491b77eff68da573105cdbc6c3dc9736897
+kind: change
+machine_hash: 7c70f2e910304578a0b1b02369d66e5fb19c67f8755112cebf65110037d716dd
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   evidence:
   - quote: Added support for Claude Sonnet 4.6
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.45
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-support-for-claude-sonnet-4-6
@@ -44,10 +46,10 @@ record:
 related_changes:
 - '[[Changes/Claude Code/2026-02-07-fast-mode-is-now-available-for-opus-4-6-learn-more-at-https-code-claude-com-docs|Fast
   mode is now available for Opus 4.6]]'
-- '[[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|We’re
-  making an update to GPT-5.2 Instant in ChatGPT and the API that improves…]]'
-- '[[Changes/ChatGPT/2026-02-13-as-previously-announced-we-have-retired-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o|As
-  previously announced, we have retired GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI…]]'
+- '[[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|GPT-5.2
+  Instant Update]]'
+- '[[Changes/ChatGPT/2026-02-13-as-previously-announced-we-have-retired-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o|Retiring
+  GPT-4o and other legacy models]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6|claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6]]'
 source_type: github_releases
 theme: model-support
@@ -71,16 +73,17 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-02-17-improved-startup-performance-by-removing-eager-loading-of-session-history-for-st|Improved startup performance by removing eager loading of session history for stats…]] · Projects and Workspaces
-- [[Changes/Claude Code/2026-02-17-added-support-for-reading-enabledplugins-and-extraknownmarketplaces-from-add-dir|Added support for reading enabledPlugins and extraKnownMarketplaces…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-02-17-added-sdkratelimitinfo-and-sdkratelimitevent-types-to-the-sdk-enabling-consumers|Added SDKRateLimitInfo and SDKRateLimitEvent types to the SDK, enabling…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-02-17-improved-memory-usage-for-shell-commands-that-produce-large-output-rss-no-longer|Improved memory usage for shell commands that produce large output]] · Reliability and Performance
+- [[Changes/Claude Code/2026-02-17-vscode-improved-permission-destination-choice-project-user-session-to-persist-ac|VSCode Improved permission destination choice (project/user/session) to persist…]] · Safety and Privacy
 - [[Changes/Claude Code/2026-02-17-added-spinnertipsoverride-setting-to-customize-spinner-tips-configure-tips-with|Added spinnerTipsOverride setting to customize spinner tips]] · Interface Experience
+- [[Changes/Claude Code/2026-02-17-2-apps-and-integrations-changes-in-v2-1-45|2 Apps and Integrations changes in v2.1.45]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-as-previously-announced-we-have-retired-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o|As previously announced, we have retired GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI…]]
-- Later: 2026-02-19 · Claude Code · [[Changes/Claude Code/2026-02-19-sonnet-4-5-with-1m-context-is-being-removed-from-the-max-plan-in-favor-of-our-fr|Sonnet 4.5 with 1M context is being removed from the Max plan in favor of our…]]
+- Earlier: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-as-previously-announced-we-have-retired-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o|Retiring GPT-4o and other legacy models]]
+- Later: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-2-model-support-changes-in-cli-improvements-and-mermaid-ascii|2 Model Support changes in CLI Improvements and Mermaid ASCII…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

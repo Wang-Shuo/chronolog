@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: fc74fe80153caa112a512614aa5adcf5b4414e64d083cfa43ad8c8959c9534ca
+machine_hash: 35be24bf13bd3b287726c23ab39096686fac04ab648449eeb62f8f3ddcb98f2b
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   cross-session messaging]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d|claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Added --safe-mode flag (and CLAUDE_CODE_SAFE_MODE) to start Claude Code with
   all…

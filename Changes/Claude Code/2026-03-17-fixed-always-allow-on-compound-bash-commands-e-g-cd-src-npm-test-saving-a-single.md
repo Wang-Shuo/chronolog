@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 48bfaa0719fb02cf21c10e9e6190fd5cf4542dc6853bbbf098d2a4d8b5812bb2
+machine_hash: df8450d0232df5d450801c2a7265fe80d6477b8a62bfa2a4870b4a10014d7b1e
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,6 +54,7 @@ related_changes:
   allowRead sandbox filesystem setting to re-allow read access within…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c|claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed "Always Allow" on compound bash commands (e.g. cd src && npm test) saving…
 type: change

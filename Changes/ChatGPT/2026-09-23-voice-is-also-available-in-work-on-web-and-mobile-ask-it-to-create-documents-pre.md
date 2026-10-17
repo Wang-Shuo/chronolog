@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d4b9cd7ce1bb4f4bd1ef5cbec074d0f6e3ea5d0dc1aa2315917c09de1b75be2f
+machine_hash: 9883740f5e72feeed2c60bcbc55cb6dbcb22a13da4cfaff1c9eac571a03e8517
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -71,6 +71,7 @@ related_changes:
   now supports plugins on web, iOS, and Android]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-23-use-plugins-in-voice-and-get-work-done-by-speaking-fa63def1|chatgpt-2026-09-23-use-plugins-in-voice-and-get-work-done-by-speaking-fa63def1]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: voice
 title: Voice is also available in Work on web and mobile
 type: change

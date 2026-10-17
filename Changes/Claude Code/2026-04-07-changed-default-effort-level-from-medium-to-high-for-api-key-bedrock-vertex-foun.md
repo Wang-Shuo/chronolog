@@ -4,19 +4,20 @@ date: '2026-04-07'
 description: 'Claude Code · 2026-04-07 · Enterprise and Administration: Changed default
   effort level from medium to high for API-key, Bedrock/Vertex/Foundry, Team, and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise
-    and Edu rollout coming soon]]'
+  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
+    users can only access stable release (no pre-release)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 299
+  lag_days: 307
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 723eeac195e9097fc8b6300b2ccef692a6cb7b97fd387cf798b1c15d56917346
+kind: change
+machine_hash: ffbc13428513dd9429ea6c72d5d147bbb08f453b4d1ec6f5a8cb5c8bba76d764
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Changed default effort level from medium to high for API-key, Bedrock/Vertex/Foundry,
       Team, and Enterprise users (control this with `/effort`)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.94
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: changed-default-effort-level-from-medium-to-high-for-api-key-bedrock-vertex-foun
@@ -51,10 +53,10 @@ record:
   title: Changed default effort level from medium to high for API-key…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-03-on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p|On
-  Teams and Enterprise plans, Admins can now create team marketplaces to share…]]'
-- '[[Changes/ChatGPT/2026-03-17-we-ve-simplified-the-model-picker-to-make-it-easier-to-choose-the-right-level-of|We’ve
-  simplified the model picker to make it easier to choose the right level of reasoning]]'
+- '[[Changes/Claude Code/2026-03-26-added-allowedchannelplugins-managed-setting-for-team-enterprise-admins-to-define|Added
+  allowedChannelPlugins managed setting for team/enterprise admins to define…]]'
+- '[[Changes/Cursor/2026-04-02-added-an-enterprise-admin-control-for-disabling-made-with-cursor-code-attributio|Added
+  an Enterprise Admin control for disabling "Made with Cursor" code attribution…]]'
 - '[[Changes/Claude Code/2026-04-04-added-forceremotesettingsrefresh-policy-setting-when-set-the-cli-blocks-startup|Added
   forceRemoteSettingsRefresh policy setting]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-07-v2-1-94-github-306300914-5622fba4|claude-code-2026-04-07-v2-1-94-github-306300914-5622fba4]]'
@@ -79,10 +81,9 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-04-07-added-hookspecificoutput-sessiontitle-to-userpromptsubmit-hooks-for-setting-the|Added hookSpecificOutput.sessionTitle to UserPromptSubmit hooks for setting…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-04-07-added-support-for-amazon-bedrock-powered-by-mantle-set-claude-code-use-mantle-1|Added support for Amazon Bedrock powered by Mantle, set CLAUDE_CODE_USE_MANTLE=1]] · Apps and Integrations
-- [[Changes/Claude Code/2026-04-07-added-compact-slacked-channel-header-with-a-clickable-channel-link-for-slack-mcp|Added compact Slacked ♯channel header with a clickable channel link for Slack MCP…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-04-07-added-keep-coding-instructions-frontmatter-field-support-for-plugin-output-style|Added keep-coding-instructions frontmatter field support for plugin output styles]] · Apps and Integrations
+- [[Changes/Claude Code/2026-04-07-improved-resume-to-resume-sessions-from-other-worktrees-of-the-same-repo-directl|Improved --resume to resume sessions from other worktrees of the same repo…]] · Projects and Workspaces
+- [[Changes/Claude Code/2026-04-07-vscode-added-a-warning-banner-when-settings-json-files-fail-to-parse-so-users-kn|VSCode Added a warning banner when settings.json files fail to parse, so users…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-04-07-5-apps-and-integrations-changes-in-v2-1-94|5 Apps and Integrations changes in v2.1.94]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
@@ -95,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise and Edu rollout coming soon]]
+- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

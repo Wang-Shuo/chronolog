@@ -4,19 +4,19 @@ date: '2026-02-05'
 description: 'Claude Code · 2026-02-05 · Collaboration: Added research preview agent
   teams feature for multi-agent collaboration (token-intensive feature, requires setting…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
-    can also share private docs]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 881
+  lag_days: 988
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: 1034da510e3415121814d262e6d95470fd5fa52ed1c78a74b3cabd9dc022eb14
+kind: change
+machine_hash: dec700355a500917ed875d5af728bc1737ca5cdf25443d7ab1acd413681f474d
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +31,9 @@ record:
   - quote: Added research preview agent teams feature for multi-agent collaboration
       (token-intensive feature, requires setting CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS=1)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.32
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-research-preview-agent-teams-feature-for-multi-agent-collaboration-token-i
@@ -52,12 +53,11 @@ record:
   title: Added research preview agent teams feature for multi-agent collaboration…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-23-content-creation-apply-project-specific-instructions-to-keep-tone-and-style-cons|Content
-  creation: Apply project-specific instructions to keep tone and style…]]'
+- '[[Changes/Cursor/2025-10-29-team-commands|Team Commands]]'
 - '[[Changes/ChatGPT/2025-11-25-share-photos-to-discuss-them-out-loud|Share photos
   to discuss them out loud]]'
-- '[[Changes/Cursor/2025-12-18-you-can-now-share-agent-conversations-with-your-team|Share
-  agent conversations with your team]]'
+- '[[Changes/Cursor/2026-01-22-added-team-and-mdm-hooks-support-to-cli-with-more-efficient-execution|Added
+  team and MDM hooks support to CLI with more efficient execution]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0]]'
 source_type: github_releases
 theme: collaboration
@@ -80,23 +80,25 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-02-05-2-context-window-changes-in-v2-1-32|2 Context Window changes in v2.1.32]] · Context Window
 - [[Changes/Claude Code/2026-02-05-skills-defined-in-claude-skills-within-additional-directories-add-dir-are-now-lo|Skills defined in .claude/skills/ within additional directories (--add-dir)…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-02-05-vscode-added-spinner-when-loading-past-conversations-list|VSCode: Added spinner when loading past conversations list]] · Interface Experience
 - [[Changes/Claude Code/2026-02-05-claude-opus-4-6-is-now-available|Claude Opus 4.6 is now available!]] · Model Support
-- [[Changes/Claude Code/2026-02-05-added-summarize-from-here-to-the-message-selector-allowing-partial-conversation|Added "Summarize from here" to the message selector, allowing partial conversation…]] · Context Window
+- [[Changes/Claude Code/2026-02-05-updated-resume-to-re-use-agent-value-specified-in-previous-conversation-by-defau|Updated --resume to re-use --agent value specified in previous conversation by default]] · Agent Mode
 - [[Changes/Claude Code/2026-02-05-claude-now-automatically-records-and-recalls-memories-as-it-works|Claude now automatically records and recalls memories as it works]] · Memory and Personalization
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-12-18 · Cursor · [[Changes/Cursor/2025-12-18-you-can-now-share-agent-conversations-with-your-team|Share agent conversations with your team]]
+- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-added-team-and-mdm-hooks-support-to-cli-with-more-efficient-execution|Added team and MDM hooks support to CLI with more efficient execution]]
 - Later: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-cleaner-select-all-behavior-cmd-a-cmd-a-now-selects-only-the-conversation-conten|Cleaner “Select All” behavior (Cmd+A)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

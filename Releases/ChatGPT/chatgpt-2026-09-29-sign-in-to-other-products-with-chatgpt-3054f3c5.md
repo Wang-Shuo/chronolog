@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-09-29'
 description: 'ChatGPT release Sign in to other products with ChatGPT on 2026-09-29:
   1 tracked change across Memory and Personalization'
-machine_hash: 4c2567914d6731f9eadbb3b0ca901aeb0206c9f28bbf317942ea5bddc478c0ef
+machine_hash: 246f2066f4468655fb0d46dc37bfb3fe124d7b6fea57cd9aace5ea8f4b7abd33
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Sign in to other products with ChatGPT
 <!-- chronolog:begin region="summary" -->
 You can use your ChatGPT account to sign in to participating products without creating another password. The product receives your name, email address, and profile picture if you have one. Signing in does not share your ChatGPT conversations or memory; you approve any additional access separately.
 
-Tracked 1 of 3 candidate lines.
+Tracked 1 card from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-09-29-you-can-use-your-chatgpt-account-to-sign-in-to-participating-products-without-cr|You can use your ChatGPT account to sign in to participating products without…]] · Memory and Personalization
+- [[Changes/ChatGPT/2026-09-29-you-can-use-your-chatgpt-account-to-sign-in-to-participating-products-without-cr|Sign in to other products with ChatGPT]] · Memory and Personalization
 <!-- chronolog:end -->

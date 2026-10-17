@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c3240ceb2a9c49516a7a44da944275bbae58825ef5520987f58e98a8a99723c1
+machine_hash: c496a57ca67f90474531cf6f9e755a6825edb5ba527dd6ef081ef534eb5d47c9
 product: claude-code
 product_name: Claude Code
 record:
@@ -60,6 +60,7 @@ related_changes:
   now shows a per-category breakdown of what''s driving your limits usage]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f|claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: 'Enterprise: added the allowAllClaudeAiMcps managed setting to load claude.ai
   cloud…'

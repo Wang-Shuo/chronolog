@@ -5,8 +5,8 @@ description: 'Cursor · 2024-02-15 · Agent Mode: Interpreter Mode: We''ve made 
   big improvements to the backend powering interpreter mode! It should now be much
   better at…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 224
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f41a541063bee172802ae571089be3a7c0eaaf63e2606f16bdc63c27b2f2f524
+kind: change
+machine_hash: ce1002e4e9f7d85da5de3a9ffb95778c96ccca91bdbdb65655b24d42de5a7817
 product: cursor
 product_name: Cursor
 record:
@@ -32,8 +33,9 @@ record:
       interpreter mode! It should now be much better at using tools and understanding
       your project.'
     source_release: https://cursor.com/changelog/0-27-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: interpreter-mode-we-ve-made-some-big-improvements-to-the-backend-powering-interp
@@ -45,8 +47,8 @@ record:
   title: 'Interpreter Mode: We''ve made some big improvements to the backend powering…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-  to the first nightly release!]]'
+- '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+  new docs]]'
 - '[[Changes/Cursor/2023-07-10-this-nightly-build-comes-with-experimental-interface-agent-support|This
   nightly build comes with experimental interface agent support!]]'
 - '[[Changes/Cursor/2023-07-10-the-goal-you-write-an-interface-specification-and-an-agent-writes-both-the-tests|The
@@ -86,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

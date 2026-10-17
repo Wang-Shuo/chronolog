@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a5eb81aea82ded604408cb766f2dc6c1e27a2cf6d6eced011aea1d6f6a02b45f
+machine_hash: 2f8d46fddf7b39535799aa72ecb884a814d58ba62b2af6d26de32073bb17e90d
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   --channels permission relay]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-20-v2-1-81-github-299621655-10d2d4fe|claude-code-2026-03-20-v2-1-81-github-299621655-10d2d4fe]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed unnecessary permission prompts for Bash commands containing dashes in
   strings

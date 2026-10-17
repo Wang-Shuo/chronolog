@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: c4a464db003e2bd2b038b5163c6b372346886b38c21da3783ec415c64ca3784e
+kind: launch
+machine_hash: e01b159dc7833666375bd1b1d7160496e9019394eb868d68e8f4c11109c1a295
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,8 +51,9 @@ record:
       connector separately and select it every time you start a new deep research
       request.Learn more about connectors.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: launch
   product: chatgpt
   product_name: ChatGPT
   slug: gmail-google-calendar-and-google-contacts-are-now-available-to-connect-and-use-i
@@ -85,28 +87,24 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v2
-  title: Gmail, Google Calendar, and Google Contacts are now available to connect
-    and use in chat
+  title: Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Pro)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-16-gpts-with-custom-actions-currently-support-gpt-4o-and-4-1|GPTs
-  with Custom Actions currently support GPT-4o and 4.1]]'
-- '[[Changes/ChatGPT/2025-06-16-enterprise-and-edu-users-can-also-now-choose-from-the-full-set-of-chatgpt-models-c891f9|Enterprise
-  and Edu users can also now choose from the full set of ChatGPT models…]]'
-- '[[Changes/ChatGPT/2025-08-07-gpt-5-is-slowly-rolling-out-to-all-users-on-chatgpt-plus-pro-team-and-free-plans-64a08c|GPT-5
-  is slowly rolling out to all users on ChatGPT Plus, Pro, Team, and Free plans…]]'
+- '[[Changes/Cursor/2025-07-03-improved-embeddings-for-semantic-search|Improved embeddings
+  for semantic search]]'
+- '[[Changes/Cursor/2025-08-06-separate-models-per-agent|Separate models per Agent]]'
+- '[[Changes/ChatGPT/2025-08-07-gpt-5-is-slowly-rolling-out-to-all-users-on-chatgpt-plus-pro-team-and-free-plans-64a08c|GPT-5]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-12-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-db727e12|chatgpt-2025-08-12-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-db727e12]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: Gmail, Google Calendar, and Google Contacts are now available to connect and
-  use in chat
+title: Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Pro)
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Gmail, Google Calendar, and Google Contacts are now available to connect and use in chat
+# Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Pro)
 
-**ChatGPT** · 2025-08-12 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-08-12-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-db727e12|Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Pro)]]
+**ChatGPT** · 2025-08-12 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-08-12-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-db727e12|Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Pro)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -122,8 +120,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-07 · ChatGPT · [[Changes/ChatGPT/2025-08-07-gpt-5-is-slowly-rolling-out-to-all-users-on-chatgpt-plus-pro-team-and-free-plans-64a08c|GPT-5 is slowly rolling out to all users on ChatGPT Plus, Pro, Team, and Free plans…]]
-- Later: 2025-08-12 · ChatGPT · [[Changes/ChatGPT/2025-08-12-you-can-now-choose-between-auto-fast-and-thinking-for-gpt-5-most-users-will-want-f4c05b|Choose between “Auto”, “Fast”, and “Thinking” for GPT-5]]
+- Earlier: 2025-08-07 · ChatGPT · [[Changes/ChatGPT/2025-08-07-gpt-5-is-slowly-rolling-out-to-all-users-on-chatgpt-plus-pro-team-and-free-plans-64a08c|GPT-5]]
+- Later: 2025-08-12 · ChatGPT · [[Changes/ChatGPT/2025-08-12-you-can-now-choose-between-auto-fast-and-thinking-for-gpt-5-most-users-will-want-f4c05b|GPT-5 Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

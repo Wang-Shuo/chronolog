@@ -14,9 +14,10 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: aa59e1de06cedda0f4ddd4e4197148e0925b2585c43dd645a2cc7866e49c4056
+kind: launch
+machine_hash: 728cfc09112df1db188559eacae89179e4d468159b97b236bec86a3f822801dc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,8 +35,9 @@ record:
       initially be available for users in India only.For ₹399/month (GST included),
       ChatGPT Go provides everything included in the Free plan, and:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: launch
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially
@@ -45,12 +47,10 @@ record:
   title: ChatGPT launches ChatGPT Go, a new low-cost subscription plan
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-05-15-we-ve-heard-your-feedback-and-are-rolling-out-a-unified-pricing-model-to-make-it|We’ve
-  heard your feedback and are rolling out a unified pricing model to make…]]'
+- '[[Changes/Cursor/2025-05-15-simpler-unified-pricing-6a915c|Simpler, unified pricing]]'
 - '[[Changes/Cursor/2025-05-15-introducing-unified-request-based-pricing-max-mode-for-all-top-models-and-backgr|Introducing
   unified request-based pricing, Max Mode for all top models…]]'
-- '[[Changes/Cursor/2025-05-15-all-model-usage-is-now-unified-into-request-based-pricing|All
-  model usage is now unified into request-based pricing]]'
+- '[[Changes/Cursor/2025-08-06-usage-and-pricing-visibility|Usage and pricing visibility]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a|chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -61,7 +61,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT launches ChatGPT Go, a new low-cost subscription plan
 
-**ChatGPT** · 2025-08-18 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a|Introducing ChatGPT Go]]
+**ChatGPT** · 2025-08-18 · [[Themes/pricing-model|Pricing Model]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a|Introducing ChatGPT Go]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -73,15 +73,14 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2025-08-18-available-on-web-mobile-ios-android-and-desktop-macos-windows-chatgpt-go-is-geo|Available on web, mobile (iOS & Android), and desktop (macOS & Windows)]] · Mobile and Desktop
-- [[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]] · Memory and Personalization
+- [[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses-4644fd|Longer memory for more personalized responses]] · Memory and Personalization
 - [[Changes/ChatGPT/2025-08-18-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]] · Image Generation
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-all-model-usage-is-now-unified-into-request-based-pricing|All model usage is now unified into request-based pricing]]
+- Earlier: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-usage-and-pricing-visibility|Usage and pricing visibility]]
 - Later: 2025-09-22 · ChatGPT · [[Changes/ChatGPT/2025-09-22-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-indonesia-for-rp-75|ChatGPT launches ChatGPT Go, our low cost subscription plan, in Indonesia]]
 <!-- chronolog:end -->
 

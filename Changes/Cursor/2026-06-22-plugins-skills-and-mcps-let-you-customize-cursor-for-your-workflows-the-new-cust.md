@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: fb2c56116ae77bf618ae3bd3850ffd9fb28090e8e876af35198a60d3674ec91b
+machine_hash: 55c0247068453f8bbf70bedcbe230ffb02fbbd9dbf3b9a20f1d321cdcc60a8e8
 product: cursor
 product_name: Cursor
 record:
@@ -51,6 +51,7 @@ related_changes:
   any to your setup with one click from the new Customize page and extend Cursor…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2|cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: Plugins, skills, and MCPs let you customize Cursor for your workflows
 type: change

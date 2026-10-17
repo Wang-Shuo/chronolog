@@ -14,9 +14,10 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 897ad359567bb5410e9a2811067846f97dbcca8587225d716abfd722e9c7902e
+kind: policy
+machine_hash: 0bd559c4f814e28a042c7d144c9b35c91b5d0e838650bea4b3cc8a99025140fa
 product: cursor
 product_name: Cursor
 record:
@@ -29,8 +30,9 @@ record:
   - quote: 'Pro++ plan: if you hit your fast request limit and prefer to purchase
       more, you now can.'
     source_release: https://cursor.com/changelog/0-14-0
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: policy
   product: cursor
   product_name: Cursor
   slug: pro-plan-if-you-hit-your-fast-request-limit-and-prefer-to-purchase-more-you-now
@@ -59,7 +61,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Pro++ plan: if you hit your fast request limit and prefer to purchase more, you now can
 
-**Cursor** · 2023-11-03 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://cursor.com/changelog/0-14-0) · from [[Releases/Cursor/cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf|Pro++, Word-wrapping diffs, and more]]
+**Cursor** · 2023-11-03 · [[Themes/pricing-model|Pricing Model]] · Policy · [Official source](https://cursor.com/changelog/0-14-0) · from [[Releases/Cursor/cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf|Pro++, Word-wrapping diffs, and more]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->

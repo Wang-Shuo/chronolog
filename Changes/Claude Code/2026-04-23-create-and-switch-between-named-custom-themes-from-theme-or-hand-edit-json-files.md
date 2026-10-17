@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b9f0731fbf30a9b66ae10748b832cf1f605359227fea347a3437a3bacf6d31d8
+machine_hash: b1d4ca80fc551b88289009f3c1f5ed43504b5959eb1666af3894ed12e96a6734
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   startup when both local and claude.ai MCP servers are configured…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c|claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Create and switch between named custom themes from /theme, or hand-edit JSON
   files…

@@ -15,9 +15,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 36955396ae2f412dbf69b5302ec066b8a7e204644bb296bb14560b1fb82af4e4
+kind: change
+machine_hash: 48d1f35da314a72698be01bacef60a5821cc37cdca6d887bd89cf6a63017d861
 product: claude-code
 product_name: Claude Code
 record:
@@ -32,8 +33,9 @@ record:
       other Claude sessions no longer carry user authority — receivers refuse relayed
       permission requests, and auto mode blocks them'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.166
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: hardened-cross-session-messaging-messages-relayed-via-sendmessage-from-other-cla
@@ -45,12 +47,11 @@ record:
   title: Hardened cross-session messaging
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-03-teams-are-the-operating-unit-for-a-department-region-or-subsidiary-this-is-what|Teams
-  are the operating unit for a department, region, or subsidiary]]'
 - '[[Changes/ChatGPT/2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-across-account-types-and-w|Lockdown
-  Mode is now available to all logged-in users across account types and workspaces]]'
-- '[[Changes/Cursor/2026-06-04-you-can-now-hand-the-local-agent-your-own-tools-by-passing-function-definitions|Hand
-  the local agent your own tools by passing function definitions through…]]'
+  Mode is now available to all logged-in users]]'
+- '[[Changes/Claude Code/2026-06-04-fixed-org-managed-permission-rules-not-applying-for-the-entire-session-when-the|Fixed
+  org-managed permission rules not applying for the entire session…]]'
+- '[[Changes/Cursor/2026-06-04-custom-tools-056918|Custom tools]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-06-v2-1-166-github-335118845-ef990727|claude-code-2026-06-06-v2-1-166-github-335118845-ef990727]]'
 source_type: github_releases
 theme: safety-privacy
@@ -73,17 +74,16 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-06-06-added-fallbackmodel-setting-to-configure-up-to-three-fallback-models-tried-in-or|Added fallbackModel setting to configure up to three fallback models tried…]] · Model Support
-- [[Changes/Claude Code/2026-06-06-claude-code-now-retries-a-turn-once-on-the-fallback-model-when-the-api-rejects-a|Claude Code now retries a turn once on the fallback model when the API rejects…]] · Model Support
 - [[Changes/Claude Code/2026-06-06-added-glob-pattern-support-in-deny-rule-tool-name-position-denies-all-tools-allo|Added glob pattern support in deny rule tool-name position ("" denies all tools)]] · Apps and Integrations
-- [[Changes/Claude Code/2026-06-06-max-thinking-tokens-0-thinking-disabled-and-the-per-model-thinking-toggle-now-di|MAX_THINKING_TOKENS=0, --thinking disabled, and the per-model thinking toggle…]] · Model Support
+- [[Changes/Claude Code/2026-06-06-3-model-support-changes-in-v2-1-166|3 Model Support changes in v2.1.166]] · Model Support
+- [[Changes/Claude Code/2026-06-06-claude-agents-typing-a-url-into-the-list-now-filters-to-the-session-whose-first|claude agents: typing a URL into the list now filters to the session whose first…]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-you-can-now-hand-the-local-agent-your-own-tools-by-passing-function-definitions|Hand the local agent your own tools by passing function definitions through…]]
-- Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-added-safe-mode-flag-and-claude-code-safe-mode-to-start-claude-code-with-all-cus|Added --safe-mode flag (and CLAUDE_CODE_SAFE_MODE) to start Claude Code with all…]]
+- Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-custom-tools-056918|Custom tools]]
+- Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-2-safety-and-privacy-changes-in-v2-1-169|2 Safety and Privacy changes in v2.1.169]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

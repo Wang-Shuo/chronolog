@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 0d198d07cdbdfc7285c7cdb1b81c437887285243c98872c0aa033b00610579df
+kind: change
+machine_hash: d97fc28acb397331df2cbee121934250fae7d3477d16577dafd13a9ac9bc50a9
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: 'Chat scroll: we got rid of sticky scroll to make the chat easier to read.'
     source_release: https://cursor.com/changelog/0-14-0
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: chat-scroll-we-got-rid-of-sticky-scroll-to-make-the-chat-easier-to-read
@@ -41,7 +43,7 @@ record:
   title: 'Chat scroll: we got rid of sticky scroll to make the chat easier to read'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-22-nicer-error-messages-in-the-chat-fewer-annoying-popups|Nicer
+- '[[Changes/Cursor/2023-08-22-nicer-error-messages-in-the-chat-fewer-annoying-popups-7d864e|Nicer
   error messages in the chat!]]'
 - '[[Changes/Cursor/2023-08-30-you-can-now-switch-to-the-vs-code-sidebar-orientation|Switch
   to the VS Code sidebar orientation]]'

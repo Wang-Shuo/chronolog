@@ -14,9 +14,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: e3b03866a64f739f3aa236c109ff171a7101d0a2f54b78b7087882ad7e1104c6
+kind: change
+machine_hash: 633c2685c92a5d46f48ecebb983a1921cefffac7111494b0df85c739322fd6ac
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,8 +28,9 @@ record:
   evidence:
   - quote: Improved IDE detection speed at startup
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.73
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-ide-detection-speed-at-startup
@@ -48,12 +50,12 @@ record:
   title: Improved IDE detection speed at startup
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-27-faster-sharing-sharing-chats-is-now-easier-and-faster-with-a-quicker-loading-sha|Faster
-  sharing. Sharing chats is now easier and faster, with a quicker-loading share menu]]'
-- '[[Changes/Claude Code/2026-03-06-reduced-prompt-input-re-renders-during-turns-by-74|Reduced
-  prompt input re-renders during turns by ~74%]]'
-- '[[Changes/Claude Code/2026-03-06-improved-compaction-to-preserve-images-in-the-summarizer-request-allowing-prompt|Improved
-  compaction to preserve images in the summarizer request, allowing prompt…]]'
+- '[[Changes/Claude Code/2026-03-05-9-reliability-and-performance-changes-in-v2-1-69|9
+  Reliability and Performance changes in v2.1.69]]'
+- '[[Changes/Claude Code/2026-03-06-3-reliability-and-performance-changes-in-v2-1-70|3
+  Reliability and Performance changes in v2.1.70]]'
+- '[[Changes/Claude Code/2026-03-10-improved-bash-command-parsing-by-switching-to-a-native-module-faster-initializat|Improved
+  bash command parsing by switching to a native module]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f|claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f]]'
 source_type: github_releases
 theme: reliability-performance
@@ -76,17 +78,21 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-03-11-improved-up-arrow-after-interrupting-claude-now-restores-the-interrupted-prompt|Improved Up arrow after interrupting Claude]] · Interface Experience
-- [[Changes/Claude Code/2026-03-11-added-modeloverrides-setting-to-map-model-picker-entries-to-custom-provider-mode|Added modelOverrides setting to map model picker entries to custom provider model…]] · Interface Experience
+- [[Changes/Claude Code/2026-03-11-improved-voice-mode-to-automatically-retry-transient-connection-failures-during|Improved voice mode to automatically retry transient connection failures during…]] · Voice and Audio
 - [[Changes/Claude Code/2026-03-11-added-actionable-guidance-when-oauth-login-or-connectivity-checks-fail-due-to-ss|Added actionable guidance when OAuth login or connectivity checks fail due to SSL…]] · Account and Access
+- [[Changes/Claude Code/2026-03-11-2-interface-experience-changes-in-v2-1-73|2 Interface Experience changes in v2.1.73]] · Interface Experience
 - [[Changes/Claude Code/2026-03-11-fixed-freezes-and-100-cpu-loops-triggered-by-permission-prompts-for-complex-bash|Fixed freezes and 100% CPU loops triggered by permission prompts for complex bash commands]] · Safety and Privacy
+- [[Changes/Claude Code/2026-03-11-deprecated-output-style-command-use-config-instead-output-style-is-now-fixed-at|Deprecated /output-style command — use /config instead]] · Developer Workflow
+- [[Changes/Claude Code/2026-03-11-improved-clipboard-image-pasting-performance-on-macos|Improved clipboard image pasting performance on macOS]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-03-11-improved-the-remote-control-spawn-mode-selection-prompt-with-better-context|Improved the Remote Control spawn mode selection prompt with better context]] · Context Window
+- [[Changes/Claude Code/2026-03-11-2-model-support-changes-in-v2-1-73|2 Model Support changes in v2.1.73]] · Model Support
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-06 · Claude Code · [[Changes/Claude Code/2026-03-06-improved-compaction-to-preserve-images-in-the-summarizer-request-allowing-prompt|Improved compaction to preserve images in the summarizer request, allowing prompt…]]
-- Later: 2026-03-18 · Claude Code · [[Changes/Claude Code/2026-03-18-improved-startup-memory-usage-by-18mb-across-all-scenarios|Improved startup memory usage by ~18MB across all scenarios]]
+- Earlier: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-improved-bash-command-parsing-by-switching-to-a-native-module-faster-initializat|Improved bash command parsing by switching to a native module]]
+- Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-faster-resume-on-fork-heavy-and-very-large-sessions-up-to-45-faster-loading-and|Faster --resume on fork-heavy and very large sessions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

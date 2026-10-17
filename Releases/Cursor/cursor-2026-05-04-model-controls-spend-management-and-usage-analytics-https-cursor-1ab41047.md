@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 4
 date: '2026-05-04'
 description: 'Cursor release Model controls, spend management, and usage analytics
-  on 2026-05-04: 5 tracked changes across Enterprise and Administration, Collaboration…'
-machine_hash: f5387b27caa7de9162731ce7c000bc7a8b663d6eb093d17063bf5550dc9e7b3d
+  on 2026-05-04: 4 tracked changes across Enterprise and Administration, Editor Experience…'
+machine_hash: 56ddc955e1604d222dd8b19e54b2d67e4996233481565bdcf35c26d5b01c946e
 product: cursor
 product_name: Cursor
 record:
@@ -39,14 +39,13 @@ version: Model controls, spend management, and usage analytics
 <!-- chronolog:begin region="summary" -->
 This release introduces updates for Enterprise admins: a new system for model controls, updated spend management, and more detail for usage analytics.
 
-Tracked 5 of 9 candidate lines.
+Tracked 4 cards from 9 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-05-04-this-release-introduces-updates-for-enterprise-admins-a-new-system-for-model-con|Cursor introduces updates for Enterprise admins]] · Enterprise and Administration
-- [[Changes/Cursor/2026-05-04-admins-can-now-set-more-granular-allow-or-blocklists-at-the-model-and-provider-l|Admins can now set more granular allow or blocklists at the model and provider level]] · Context Window
-- [[Changes/Cursor/2026-05-04-enterprises-also-have-the-option-to-block-new-providers-or-model-versions-by-def|Enterprises also have the option to block new providers or model versions by default]] · Model Support
-- [[Changes/Cursor/2026-05-04-customers-with-existing-blocklists-will-need-to-migrate-to-the-new-system-by-jun|Customers with existing blocklists will need to migrate to the new system by June 1st]] · Collaboration
-- [[Changes/Cursor/2026-05-04-admins-can-now-set-soft-limits-instead-of-hard-limits-to-avoid-blocking-users-cu|Admins can now set soft limits instead of hard limits to avoid blocking users]] · Enterprise and Administration
+- [[Changes/Cursor/2026-05-04-this-release-introduces-updates-for-enterprise-admins-a-new-system-for-model-con|Cursor introduces updates for Enterprise admins]] · Enterprise and Administration · Launch
+- [[Changes/Cursor/2026-05-04-updated-usage-analytics-tab|Updated usage analytics tab]] · Editor Experience · Launch
+- [[Changes/Cursor/2026-05-04-soft-spend-limits-and-intelligent-alerts|Soft spend limits and intelligent alerts]] · Enterprise and Administration · Launch
+- [[Changes/Cursor/2026-05-04-model-access-controls-d2ba4f|Model access controls]] · Model Support · Launch
 <!-- chronolog:end -->

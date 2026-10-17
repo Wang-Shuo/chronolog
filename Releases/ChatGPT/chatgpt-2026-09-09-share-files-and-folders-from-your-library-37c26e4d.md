@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 3
 date: '2026-09-09'
 description: 'ChatGPT release Share files and folders from your Library on 2026-09-09:
-  5 tracked changes across Collaboration'
-machine_hash: b8f59a3edba8c57fd5eb5ae96bb5906007fc512cf464f32646e3ae6986eac4ac
+  3 tracked changes across Collaboration'
+machine_hash: e29baafe24fea73b8356916e8e1f117e24fb4c8f185f8942b0c816eff8a473f6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,14 +39,12 @@ version: Share files and folders from your Library
 <!-- chronolog:begin region="summary" -->
 Library sharing lets you share files and folders in ChatGPT, choose who can access them, and work with shared content directly in your conversations.
 
-Tracked 5 of 7 candidate lines.
+Tracked 3 cards from 7 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-09-09-share-with-specific-people-invite-recipients-and-assign-viewer-or-editor-access|Share with specific people]] · Collaboration
-- [[Changes/ChatGPT/2026-09-09-manage-access-review-who-has-access-change-permissions-or-remove-access-from-the|Manage access]] · Collaboration
-- [[Changes/ChatGPT/2026-09-09-find-and-use-shared-content-access-items-in-shared-with-me-and-use-shared-files|Find and use shared content]] · Collaboration
+- [[Changes/ChatGPT/2026-09-09-4-collaboration-changes-in-share-files-and-folders|4 Collaboration changes in Share files and folders…]] · Collaboration · Digest
+- [[Changes/ChatGPT/2026-09-09-shared-folders-and-ownership|Shared folders and ownership]] · Collaboration · Launch
 - [[Changes/ChatGPT/2026-09-09-library-sharing-lets-you-share-files-and-folders-in-chatgpt-choose-who-can-acces|Library sharing lets you share files and folders in ChatGPT, choose who can access…]] · Collaboration
-- [[Changes/ChatGPT/2026-09-09-share-across-your-workspace-make-content-available-to-everyone-in-your-workspace|Share across your workspace]] · Collaboration
 <!-- chronolog:end -->

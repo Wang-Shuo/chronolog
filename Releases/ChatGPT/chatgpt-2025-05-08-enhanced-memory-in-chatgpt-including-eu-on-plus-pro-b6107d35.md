@@ -4,7 +4,7 @@ date: '2025-05-08'
 description: 'ChatGPT release Enhanced Memory in ChatGPT (including EU) on Plus/Pro
   on 2025-05-08: 3 tracked changes across Memory and Personalization, Reliability
   and…'
-machine_hash: a98b54843dfaf3888281734c688768da538f8208fb499e7064ea46d22b46468d
+machine_hash: 2979bb49eb6d0841f8605e9859ee83fccc9353e3fe2775d07f598676df52d3e0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,12 +42,12 @@ version: Enhanced Memory in ChatGPT (including EU) on Plus/Pro
 <!-- chronolog:begin region="summary" -->
 Enhanced memory rolling out to all Plus and Pro users (including the EU). The new memory features are available in the EEA (EU + UK), Switzerland, Norway, Iceland, or Liechtenstein. These features are OFF by default and must be enabled in Settings > Personalization > Reference Chat History.
 
-Tracked 3 of 3 candidate lines.
+Tracked 3 cards from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-05-08-saved-memories-and-chat-history-are-offered-only-to-plus-and-pro-accounts-free-t|• Saved memories and Chat history are offered only to Plus and Pro…]] · Memory and Personalization
-- [[Changes/ChatGPT/2025-05-08-outside-the-european-regions-listed-above-all-plus-and-pro-accounts-that-have-me-507581|• Outside the European regions listed above, all Plus and Pro accounts that have…]] · Reliability and Performance
+- [[Changes/ChatGPT/2025-05-08-saved-memories-and-chat-history-are-offered-only-to-plus-and-pro-accounts-free-t|Saved memories and Chat history are offered only to Plus and Pro…]] · Memory and Personalization
+- [[Changes/ChatGPT/2025-05-08-outside-the-european-regions-listed-above-all-plus-and-pro-accounts-that-have-me-507581|Opt‑in reminders]] · Reliability and Performance · Launch
 - [[Changes/ChatGPT/2025-05-08-enhanced-memory-rolling-out-to-all-plus-and-pro-users-including-the-eu-the-new-m|Enhanced memory rolling out to all Plus and Pro users (including the EU)]] · Memory and Personalization
 <!-- chronolog:end -->

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ba227dcc4e2d1740090030a6e0ace567a2b8a729aa5694f3b172913102485809
+machine_hash: f92ff2cf8fa88fbcb3598a92f2447951dcb4e9b3cd1e242e096e888a1153c833
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,6 +60,7 @@ related_changes:
   chat is available in Edge, Brave, and Vivaldi]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-31-use-the-browser-extension-in-more-browsers-87a64682|chatgpt-2026-08-31-use-the-browser-extension-in-more-browsers-87a64682]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: mobile-desktop
 title: Bring your browser into Work and Codex
 type: change

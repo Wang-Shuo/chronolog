@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 943f2d667a8e34e00fe1233bde64f61df565212f33b090f45a409a7042e8c8ed
+machine_hash: a614bfe77a82596c26fc66a04f43dd7a2f93acbf49e53fbe434b0e341528283a
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   file connectors in ChatGPT are now unified under Google Drive, providing…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317|claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added disableDeepLinkRegistration setting to prevent claude-cli:// protocol…
 type: change

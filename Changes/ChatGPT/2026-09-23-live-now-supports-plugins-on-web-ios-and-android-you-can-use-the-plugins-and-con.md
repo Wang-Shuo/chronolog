@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2d31ba7aa26edb5aafd99f3dcbcf9dada555738d26fe1b57870def3ad5bf3f76
+machine_hash: 7060d511435d1b971f21cffd47a83482945073c606ff3136a12f53f9591ee029
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -67,6 +67,7 @@ related_changes:
   and Go users can use Voice in Chat with the plugins their plan supports]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-23-use-plugins-in-voice-and-get-work-done-by-speaking-fa63def1|chatgpt-2026-09-23-use-plugins-in-voice-and-get-work-done-by-speaking-fa63def1]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: voice
 title: Live now supports plugins on web, iOS, and Android
 type: change

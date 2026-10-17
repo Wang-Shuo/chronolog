@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6633d6fb8b746ce19630377d61a549ac82f666c82be901e6e10ef350feed1b2b
+machine_hash: 1145f7d285e628e1758b0eb75776ccbb1d21f077dc1e52508840f4b03c556cf4
 product: cursor
 product_name: Cursor
 record:
@@ -46,6 +46,7 @@ related_changes:
 - '[[Changes/Cursor/2024-08-02-faster-cursor-tab-suggestions|Faster Cursor Tab Suggestions!]]'
 source_release: '[[Releases/Cursor/cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8|cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8]]'
 source_type: cursor_changelog
+superseded: true
 theme: reliability-performance
 title: Apply and Composer are slightly faster in this release
 type: change

@@ -8,8 +8,8 @@ from typing import Any
 
 import frontmatter
 
-from _scripts.common import machine_hash, slugify
-from _scripts.extract import split_release_lines
+from _scripts.common import machine_hash, normalize_text, slugify
+from _scripts.extract import BULLET_MARKER_RE, clean_block_text, split_release_lines
 from _scripts.validate import normalize_wikilink_target
 from _scripts.writer import extract_machine_regions, machine_fields, render_frontmatter, write_markdown_file
 
@@ -36,7 +36,11 @@ def read_history(root: Path, products: set[str]) -> tuple[list[dict], list[dict]
                 "source_url": meta["source_url"], "source_type": meta.get("source_type", "unknown"),
                 "source_summary": historical_source_summary(summary),
             }
-            candidates = re.search(r"^Tracked \d+ of (\d+) candidate lines?\.$", summary, re.M)
+            candidates = re.search(
+                r"^Tracked \d+ (?:of|cards? from) (\d+) candidate lines?(?:; [^\n]*)?\.$",
+                summary,
+                re.M,
+            )
             if candidates:
                 record["candidate_line_count"] = int(candidates.group(1))
         releases.append(dict(record))
@@ -102,6 +106,33 @@ def without_body(release: dict) -> dict:
     return record
 
 
+def line_key(quote: str) -> str:
+    """Comparable form of an evidence line, without list markers or invisible characters."""
+    text = clean_block_text(str(quote))
+    return normalize_text(BULLET_MARKER_RE.sub("", text, count=1))
+
+
+def regrouped_lines(cards: list[dict]) -> dict[str, set[str]]:
+    """Comparable evidence lines of freshly extracted cards, by source release."""
+    lines: dict[str, set[str]] = {}
+    for card in cards:
+        lines.setdefault(card["source_release"], set()).update(
+            line_key(item["quote"]) for item in card.get("evidence", [])
+        )
+    return lines
+
+
+def is_regrouped(entry: dict, regrouped: dict[str, set[str]]) -> bool:
+    """Whether every line of an old queue entry now sits in a card of its release.
+
+    A changed card definition can move a pending line into a multi-line card (or a new
+    queue entry) with another identity; the old entry is then resolved, not kept twice.
+    """
+    lines = regrouped.get(entry["source_release"])
+    quotes = [line_key(item["quote"]) for item in entry.get("evidence", [])]
+    return bool(lines and quotes) and all(quote in lines for quote in quotes)
+
+
 def merge_history(
     history: tuple[list[dict], list[dict], list[dict]],
     releases: list[dict], cards: list[dict], pending: list[dict],
@@ -109,7 +140,16 @@ def merge_history(
 ) -> tuple[list[dict], list[dict], list[dict]]:
     old_releases, old_cards, old_pending = history
     accepted_ids = {c["card_id"] for c in cards}
-    queue = {c["card_id"]: c for c in old_pending if c["card_id"] not in accepted_ids}
+    regrouped = regrouped_lines(cards + pending)
+    # A complete reconciliation re-extracts every collected release of its products, so
+    # their earlier queue entries are replaced by this batch's entries, like their cards.
+    reextracted = {r["release_id"] for r in releases if r["product"] in reconcile_products}
+    queue = {
+        c["card_id"]: c for c in old_pending
+        if c["card_id"] not in accepted_ids
+        and c["source_release"] not in reextracted
+        and not is_regrouped(c, regrouped)
+    }
     queue.update({c["card_id"]: c for c in pending})
     protected_releases = {c["source_release"] for c in queue.values()}
     release_map = {r["release_id"]: r for r in old_releases

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 214d85cb526189d8da85ecc9680e7d76672867482c8cd1dc7240acfc5f180d00
+machine_hash: c522f1778d514bb1609ad39d920cbdbb9d172105b622d14551d4aed796e6a142
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,6 +58,7 @@ related_changes:
   sessions that ended in plan mode resuming outside plan mode in the VS Code…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0|claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Added an Auto mode tab to /permissions for viewing and editing auto mode…
 type: change

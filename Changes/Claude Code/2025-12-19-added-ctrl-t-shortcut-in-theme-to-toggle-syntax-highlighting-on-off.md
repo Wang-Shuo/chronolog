@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4853e6067b798a563cf022eefbf707a2254811b69ad00e1c2fc283c389d74dae
+machine_hash: 1c365c7f857bdf3307100aecd31b2ce477ff643c1ef477605bbcc740d6ceebc0
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   syntax highlighting info to theme picker]]'
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10|claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added ctrl+t shortcut in /theme to toggle syntax highlighting on/off
 type: change

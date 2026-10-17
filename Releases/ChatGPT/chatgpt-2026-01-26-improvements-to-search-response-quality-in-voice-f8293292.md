@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-01-26'
 description: 'ChatGPT release Improvements to search response quality in Voice on
   2026-01-26: 1 tracked change across Voice and Audio'
-machine_hash: 83e01401317605370de0df21e905e03674101e93c0b139e968c154fdce74899a
+machine_hash: b29dc7016587acf6221a76d09c84ddbee427fd48a6d6d5fbdbd8ee868e70e8e4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,10 +39,10 @@ version: Improvements to search response quality in Voice
 <!-- chronolog:begin region="summary" -->
 We’ve improved search responses in ChatGPT Voice to deliver more complete, up-to-date answers, including better access to shopping results.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-01-26-we-ve-improved-search-responses-in-chatgpt-voice-to-deliver-more-complete-up-to|ChatGPT improves search responses in ChatGPT Voice to deliver more complete…]] · Voice and Audio
+- [[Changes/ChatGPT/2026-01-26-we-ve-improved-search-responses-in-chatgpt-voice-to-deliver-more-complete-up-to|Improvements to search response quality in Voice]] · Voice and Audio
 <!-- chronolog:end -->

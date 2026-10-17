@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 6acf8132bd2825902f25e588088210ee85a0d61585cfb1faf76305bdde587c60
+machine_hash: e9c081d6887ec5b7a77995f333c27434fd6b6cb6432992ba855d4293414a2577
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,6 +61,7 @@ related_changes:
 - '[[Changes/Cursor/2026-04-29-model-id-composer-2-5|model: { id: "composer-2.5" },]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb|claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: The /model picker now lists models from your gateway's /v1/models endpoint…
 type: change

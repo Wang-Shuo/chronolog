@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a4a39e3477f3fc64609927c86418a8217ebe060205a0b7585e2e7c2eea987c35
+machine_hash: 0beb2575a6a97edcabfc828d62ad778212bed082ba5a663294b2191485312900
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   control doesn''t move your agents anywhere]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d|claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added agentType to the subagentStatusLine payload, so scripts can tell custom…
 type: change

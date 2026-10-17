@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 08e100ca296923379417b59c0e581f4ffdc7605a5459f8730831ad16a208f33b
+machine_hash: 2d412d1c46f1987dfb1a8a847c01f5c0fe681433f75d319eca566c0d73b16c6d
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   auto import for Cursor Tab is much more stable in this release]]'
 source_release: '[[Releases/Cursor/cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1|cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: 'VS Code 1.93.1: Cursor is now based on VS Code 1.93.1'
 type: change

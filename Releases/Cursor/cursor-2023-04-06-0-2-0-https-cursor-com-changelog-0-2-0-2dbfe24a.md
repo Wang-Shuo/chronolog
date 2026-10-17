@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 2
 date: '2023-04-06'
 description: 'Cursor release Introducing Cursor 0.2.0! (2023-04-06) on 2023-04-06:
-  5 tracked changes across Editor Experience'
-machine_hash: f627dc0ed46c0d8cf30eab65998b5c45735016762e19d8407d730a2e491f2484
+  2 tracked changes across Editor Experience'
+machine_hash: b74cc7a9d8adb3dbffd6728573afcfee0afd91a08fc680f359931661e8966f4c
 product: cursor
 product_name: Cursor
 record:
@@ -39,14 +39,11 @@ version: 0.2.0
 <!-- chronolog:begin region="summary" -->
 We've transitioned to building Cursor on top of a fork of VSCodium, moving away from our previous Codemirror-based approach.
 
-Tracked 5 of 6 candidate lines.
+Tracked 2 cards from 6 candidate lines; 1 line pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-04-06-while-currently-similar-to-a-standard-code-editor-with-ai-features-we-plan-to-ev|While currently similar to a standard code editor with AI features, we plan…]] · Editor Experience
-- [[Changes/Cursor/2023-04-06-this-allows-us-to-focus-on-ai-features-while-leveraging-vs-code-s-mature-text-ed|This allows us to focus on AI features while leveraging VS Code's mature text…]] · Editor Experience
+- [[Changes/Cursor/2023-04-06-we-ve-transitioned-to-building-cursor-on-top-of-a-fork-of-vscodium-moving-away-f-1497a9|We've transitioned to building Cursor on top of a fork of VSCodium, moving away…]] · Editor Experience
 - [[Changes/Cursor/2023-04-06-transitioned-to-building-cursor-on-top-of-a-fork-of-vscodium|Transitioned to building Cursor on top of a fork of VSCodium]] · Editor Experience
-- [[Changes/Cursor/2023-04-06-we-ve-transitioned-to-building-cursor-on-top-of-a-fork-of-vscodium-moving-away-f|We've transitioned to building Cursor on top of a fork of VSCodium, moving away…]] · Editor Experience
-- [[Changes/Cursor/2023-04-06-our-goal-is-to-create-an-ide-optimized-for-pair-programming-with-ai|Our goal is to create an IDE optimized for pair-programming with AI]] · Editor Experience
 <!-- chronolog:end -->

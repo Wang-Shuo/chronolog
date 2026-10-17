@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ae6f5c1f628bb2f0c8aead7891a40b3cf83ae450dea064c4892d9af64a3d2cfa
+machine_hash: ae5ef8ebe602ee5ed8fe26d9c195da75e1cecb28e5dd6af17a8ab1acf4ddf070
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   CLAUDE_CODE_SESSION_ID environment variable to the Bash tool subprocess…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f|claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added --plugin-url url flag to fetch a plugin .zip archive from a URL…
 type: change

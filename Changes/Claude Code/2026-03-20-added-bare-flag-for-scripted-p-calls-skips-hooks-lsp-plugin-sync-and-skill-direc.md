@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0b4a982184451335371dd3194173f8890a0d23139d607f77d6d9a6c473f42b92
+machine_hash: 38b582760cd4f72b87682483c04c7ad68da724732395b48bae5a007d80295a58
 product: claude-code
 product_name: Claude Code
 record:
@@ -69,6 +69,7 @@ related_changes:
   a session that was in a worktree now switches back to that worktree]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-20-v2-1-81-github-299621655-10d2d4fe|claude-code-2026-03-20-v2-1-81-github-299621655-10d2d4fe]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added --bare flag for scripted -p calls
 type: change

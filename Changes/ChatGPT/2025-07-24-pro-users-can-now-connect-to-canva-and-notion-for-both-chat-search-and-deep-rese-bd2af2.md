@@ -15,9 +15,10 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: fe34b3bab5c93dedec1b9020a104f87c88191f61e336013f03afaa5663abc1f7
+kind: change
+machine_hash: d371940e52b8378ccadcdbe3b1a27f5c1271ee34ee183fe33c56ae2bba58570d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,8 +34,9 @@ record:
       deep research.Note this feature is currently limited to users located outside
       of the EEA, Switzerland, and the UK.Learn more about connectors.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese
@@ -51,26 +53,24 @@ record:
     score: 50
     theme: apps-integrations
   theme_resolution: manual-semantic-rule-v1
-  title: Pro users can now connect to Canva and Notion for both chat search and deep
-    research
+  title: Canva and Notion connectors (Pro)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-04-combines-internal-web-sources-for-synthesis|Combines
-  internal + web sources for synthesis]]'
 - '[[Changes/ChatGPT/2025-06-04-chatgpt-team-enterprise-and-edu-customers-globally-can-use-connectors-in-deep-re|ChatGPT
   Team, Enterprise, and Edu customers globally can use connectors in deep…]]'
+- '[[Changes/Cursor/2025-06-04-link-and-web-search-can-now-parse-pdfs-and-include-in-context|@Link
+  and web search can now parse PDFs and include in context]]'
 - '[[Changes/ChatGPT/2025-06-13-we-ve-upgraded-chatgpt-search-for-all-users-to-provide-even-more-comprehensive-u|We’ve
   upgraded ChatGPT search for all users to provide even more comprehensive…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-24-canva-and-notion-connectors-pro-0091bf22|chatgpt-2025-07-24-canva-and-notion-connectors-pro-0091bf22]]'
 source_type: chatgpt_changelog
 theme: search-browsing
-title: Pro users can now connect to Canva and Notion for both chat search and deep
-  research
+title: Canva and Notion connectors (Pro)
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Pro users can now connect to Canva and Notion for both chat search and deep research
+# Canva and Notion connectors (Pro)
 
 **ChatGPT** · 2025-07-24 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-07-24-canva-and-notion-connectors-pro-0091bf22|Canva and Notion connectors (Pro)]]
 <!-- chronolog:end -->

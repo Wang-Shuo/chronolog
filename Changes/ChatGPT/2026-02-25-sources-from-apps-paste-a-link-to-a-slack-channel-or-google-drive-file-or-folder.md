@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-02-25 · Apps and Integrations: Sources from apps:
   a link to a Slack channel or Google Drive file or folder to add it directly as a
   project…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1070
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 62c9bb425d1f891dafce2191f325ed81a3575d9d012c4e83ea83c85e0dbde593
+kind: change
+machine_hash: f99aa3964ff68f65fb823622fa43af4fe4b71173ec996c7bc989eddb6c119d0c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,8 +33,9 @@ record:
       or folder to add it directly as a project source.Additionally, use connected
       apps directly in chats.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: sources-from-apps-paste-a-link-to-a-slack-channel-or-google-drive-file-or-folder
@@ -43,12 +45,12 @@ record:
   title: Sources from apps
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-24-added-support-for-custom-npm-registries-and-specific-version-pinning-when-instal|Added
-  support for custom npm registries and specific version pinning when installing…]]'
-- '[[Changes/Claude Code/2026-02-24-added-claude-remote-control-subcommand-for-external-builds-enabling-local-enviro|Added
-  claude remote-control subcommand for external builds, enabling local…]]'
-- '[[Changes/Claude Code/2026-02-24-updated-plugin-marketplace-default-git-timeout-from-30s-to-120s-and-added-claude|Updated
-  plugin marketplace default git timeout from 30s to 120s and added…]]'
+- '[[Changes/Claude Code/2026-02-19-2-apps-and-integrations-changes-in-v2-1-49|2 Apps
+  and Integrations changes in v2.1.49]]'
+- '[[Changes/Claude Code/2026-02-20-claude-code-simple-mode-now-also-disables-mcp-tools-attachments-hooks-and-claude|CLAUDE_CODE_SIMPLE
+  mode now also disables MCP tools, attachments, hooks…]]'
+- '[[Changes/Claude Code/2026-02-24-4-apps-and-integrations-changes-in-v2-1-51|4 Apps
+  and Integrations changes in v2.1.51]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292|chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -79,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-24 · Claude Code · [[Changes/Claude Code/2026-02-24-updated-plugin-marketplace-default-git-timeout-from-30s-to-120s-and-added-claude|Updated plugin marketplace default git timeout from 30s to 120s and added…]]
+- Earlier: 2026-02-24 · Claude Code · [[Changes/Claude Code/2026-02-24-4-apps-and-integrations-changes-in-v2-1-51|4 Apps and Integrations changes in v2.1.51]]
 - Later: 2026-02-25 · Claude Code · [[Changes/Claude Code/2026-02-25-expand-remote-control-to-more-users|Expand Remote Control to more users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

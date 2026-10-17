@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: ac3479b3e61e1b5ee9f585024d04da2b1a721522ec552e63279fdd64e8a7f623
+machine_hash: 68fde41be7aa693bbb4f655a678e03fb3d4a2bdaf253b720c92b3f3ddf3974f5
 product: cursor
 product_name: Cursor
 record:
@@ -61,6 +61,7 @@ related_changes:
   X-Claude-Code-Session-Id header to API requests so proxies can aggregate…]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'
 source_type: cursor_changelog
+superseded: true
 theme: developer-workflow
 title: The new Cursor interface allows you to run many agents in parallel across repos…
 type: change

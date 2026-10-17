@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1edcb01c5a64e570ccc94751dc75af850f1ee438cd76e88b95da53f4a983bcc6
+machine_hash: b90702bbdc4ae16c0031e6b91e8fe35ff5639e28218ab832372520b6e2ff3251
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,6 +49,7 @@ related_changes:
   is a limited preview with participating integrations]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-work-with-interactive-plugin-extensions-8f979183|chatgpt-2026-09-29-work-with-interactive-plugin-extensions-8f979183]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: apps-integrations
 title: Plugins still require their applicable account connections and workspace permissions
 type: change

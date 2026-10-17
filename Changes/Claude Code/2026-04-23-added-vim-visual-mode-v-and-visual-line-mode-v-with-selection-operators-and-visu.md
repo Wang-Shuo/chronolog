@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 87cea1ee11f6bf0af715a4a2db71622a0d9e99ec42899715fc7be3ce1f12b7fe
+machine_hash: 1711487257fd775b080b6ecf8b7e42693a4e456e4486c6a156d97ad5edd695a2
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   fullscreen scrolling in VS Code, Cursor, and Windsurf terminals]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c|claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added vim visual mode (v) and visual-line mode (V) with selection, operators…
 type: change

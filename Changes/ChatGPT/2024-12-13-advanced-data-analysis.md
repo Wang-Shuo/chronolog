@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 067f8712298465fedd5e4a97f26930e64619bbe1d4f1a3da2aa4e3bf22454178
+machine_hash: 6d300e77c654389403837067842879b7d51d8a14f47e7daef1eb27344e41240e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,6 +45,7 @@ related_changes:
   in Toolbox: Canvas has been added as an option in the toolbox]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-13-projects-in-chatgpt-01b98e1c|chatgpt-2024-12-13-projects-in-chatgpt-01b98e1c]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: file-data
 title: Advanced data analysis
 type: change

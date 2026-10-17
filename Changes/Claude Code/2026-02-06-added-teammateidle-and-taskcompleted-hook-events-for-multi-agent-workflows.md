@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 4c011163c29554fc777757f77c9c10b6a0340924982ae4c19fb6c2c166b97061
+machine_hash: 46ad64833aff93de28de88d47cf97a4629b85a6d8ac8fc85c2c9784f300cc3f7
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   support for restricting which sub-agents can be spawned via Task(agent_type)…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0|claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added TeammateIdle and TaskCompleted hook events for multi-agent workflows
 type: change

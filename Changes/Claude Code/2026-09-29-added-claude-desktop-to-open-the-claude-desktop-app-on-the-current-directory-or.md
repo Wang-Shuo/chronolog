@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3445477f2d37abd90dea58d26bcaef612e15c485461e2b6ddb594dfdf751d79c
+machine_hash: 1abe2358ecde5d97f85f02519f680867c2f70bdeb2c8a5d18d7426449d265f4b
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   is deleted once your notes are ready and can’t be accessed or replayed]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc|claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc]]'
 source_type: github_releases
+superseded: true
 theme: mobile-desktop
 title: Added claude --desktop to open the Claude desktop app on the current directory…
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 19a0bfcf32a6d067face226b8c6f7ea7d83c9c6d071a3369f243ce0a9722963e
+machine_hash: 3f5f90e7a396ff01e9acad7a94fc0d9dae5e28c61451fb7cee277c1f12f07a9a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,6 +63,7 @@ related_changes:
   can join the waitlist to try plugins here]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: apps-integrations
 title: We are announcing experimental support for AI plugins in ChatGPT
 type: change

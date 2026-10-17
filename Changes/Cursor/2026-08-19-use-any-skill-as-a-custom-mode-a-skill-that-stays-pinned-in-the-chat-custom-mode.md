@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: aa0a3caea6674961e8246f5f9892d676958dc4a832a2a22e0a28b15be8c08f39
+machine_hash: 07c8eca7b65a5e66a0631dde0a48698fa5265f9e211c5539b4202e98ec789827
 product: cursor
 product_name: Cursor
 record:
@@ -51,6 +51,7 @@ related_changes:
   this release, cloud agents can automatically pick up work in response…]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1|cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: 'Use any skill as a Custom Mode: a skill that stays pinned in the chat'
 type: change

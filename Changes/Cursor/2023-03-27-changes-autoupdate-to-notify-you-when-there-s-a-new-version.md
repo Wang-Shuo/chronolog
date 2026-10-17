@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: af8a2e6ea950cf5da00f4f512d5c5a597295e5b29afbf1768afd786f50eaa6c0
+kind: change
+machine_hash: 2abe404cddb855ba8dfbb43ed66435163fb92ae311b7e84b7d11edd0b9952aba
 product: cursor
 product_name: Cursor
 record:
@@ -30,8 +31,9 @@ record:
   evidence:
   - quote: Changes autoupdate to notify you when there's a new version
     source_release: https://cursor.com/changelog/0-1-9
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: changes-autoupdate-to-notify-you-when-there-s-a-new-version
@@ -43,11 +45,12 @@ record:
   title: Changes autoupdate to notify you when there's a new version
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-03-23-easy-to-select-and-copy-from-chat|Easy to select and
-  copy from chat]]'
-- '[[Changes/Cursor/2023-03-23-chat-history-saved-between-sessions|Chat history saved
-  between sessions]]'
-- '[[Changes/Cursor/2023-03-23-resizable-sidebar|Resizable sidebar]]'
+- '[[Changes/ChatGPT/2023-02-09-as-we-recently-announced-our-plus-plan-comes-with-early-access-to-new-experiment-0e68f2|As
+  we recently announced, our Plus plan comes with early access to new, experimental…]]'
+- '[[Changes/Cursor/2023-03-18-2-interface-experience-changes-in-0-1-2|2 Interface
+  Experience changes in 0.1.2]]'
+- '[[Changes/Cursor/2023-03-23-3-interface-experience-changes-in-0-1-5|3 Interface
+  Experience changes in 0.1.5]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-27-0-1-9-https-cursor-com-changelog-0-1-9-431f2ddc|cursor-2023-03-27-0-1-9-https-cursor-com-changelog-0-1-9-431f2ddc]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -77,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-03-23 · Cursor · [[Changes/Cursor/2023-03-23-resizable-sidebar|Resizable sidebar]]
+- Earlier: 2023-03-23 · Cursor · [[Changes/Cursor/2023-03-23-3-interface-experience-changes-in-0-1-5|3 Interface Experience changes in 0.1.5]]
 - Later: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-cleaned-up-chat-styling|Cleaned up chat styling]]
 <!-- chronolog:end -->
 

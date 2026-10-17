@@ -14,9 +14,10 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 72dea89f1f302cae5e07ce63de7bdd10e53586c84c3d072ec72ed67170c828a6
+kind: change
+machine_hash: 172c67eb74600f164665300df95a44933103df3cbd1f0e24df2260de83f6e68d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,8 +32,9 @@ record:
   - quote: 'Browsing: An experimental model that knows when and how to browse the
       internet'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet
@@ -74,8 +76,7 @@ type: change
 ## Also in this release
 
 - [[Changes/ChatGPT/2023-03-23-third-party-plugins-an-experimental-model-that-knows-when-and-how-to-use-externa|Third-party plugins: An experimental model that knows when and how to use external plugins]] · Model Support
-- [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]] · Apps and Integrations
-- [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-b62dc8|We are announcing experimental support for AI plugins in ChatGPT]] · Apps and Integrations
+- [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]] · Apps and Integrations
 - [[Changes/ChatGPT/2023-03-23-code-interpreter-an-experimental-chatgpt-model-that-can-use-python-and-handles-u|Code Interpreter: An experimental ChatGPT model that can use Python, and handles…]] · Model Support
 <!-- chronolog:end -->
 

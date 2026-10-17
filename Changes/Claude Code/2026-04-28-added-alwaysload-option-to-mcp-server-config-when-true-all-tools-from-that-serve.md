@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c3e133325e7035b8b9314afd73759250e968a7477227bb468674a129ed9df052
+machine_hash: 2aa2b1a99bf82bdf88d22d91b8b2f3454c68ed6fe876941841d88f5d2d910ddb
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   now shows claude.ai connectors hidden by a manually-added server…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce|claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added alwaysLoad option to MCP server config
 type: change

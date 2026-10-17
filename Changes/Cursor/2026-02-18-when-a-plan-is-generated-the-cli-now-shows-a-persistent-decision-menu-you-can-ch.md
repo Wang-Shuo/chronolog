@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f11189fc23ceceebc58eb3bfc1b0ddd99879a62a851ad0913aefd18d74109939
+machine_hash: a42d7a4771e673cb4a36af4adaa4f69ec1c38d447661ce911d52d00c7b961d3f
 product: cursor
 product_name: Cursor
 record:
@@ -52,6 +52,7 @@ related_changes:
   VS Code plan preview]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7|cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: When a plan is generated, the CLI now shows a persistent decision menu
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3eb652669cb42eab7221408bc407dec51a3df47ea23b3194036f61ac4a84d733
+machine_hash: 1fe19cc3a70d99cb4d6535e0939af694a7f81523cab1bc81d0e92d98d73a5f86
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   env var CLAUDE_CODE_ENABLE_TASKS, set to false to keep the old system…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-27-v2-1-20-github-280123443-38431f59|claude-code-2026-01-27-v2-1-20-github-280123443-38431f59]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added ability to delete tasks via the TaskUpdate tool
 type: change

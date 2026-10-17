@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c3176a2cad21b69b45984324a4464a7dc4e5e21e4051b033c5fcca3ba45f8d09
+machine_hash: d49fc4bfd44440ba46f0d254f4aa7d93a8b92d62ce9da7d3d1a1e5c129cf0893
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   auto mode safety]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce|claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed a Bash tool permission-check bypass where zsh could execute hidden commands…
 type: change

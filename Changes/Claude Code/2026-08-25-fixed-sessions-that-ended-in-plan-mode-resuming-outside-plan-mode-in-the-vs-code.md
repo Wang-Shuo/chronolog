@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 79705986f53af2cdadddb86b23163e49ec2951e357f53e94b669de7c60894be0
+machine_hash: a6aa95e889d9c2f484d2e214c249dce3664d0ad1930e8c850ed9ebaa52922434
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,6 +54,7 @@ related_changes:
   in the ChatGPT app for iOS]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0|claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed sessions that ended in plan mode resuming outside plan mode in the VS
   Code…

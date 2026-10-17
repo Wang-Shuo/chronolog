@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 9
 date: '2025-05-15'
 description: 'Cursor release Simplified Pricing, Background Agent and Refreshed Inline
-  Edit on 2025-05-15: 5 tracked changes across Pricing Model, Context Window'
-machine_hash: 26763d55812c74201cceac4903b2c52c4046553830c271c6996e139f77131f9e
+  Edit on 2025-05-15: 9 tracked changes across Agent Mode, Pricing Model, Apps and…'
+machine_hash: 13221752f509419a21b5b8f7bee433c75af037f04730f00b5dfc356357ff5a8f
 product: cursor
 product_name: Cursor
 record:
@@ -42,14 +42,18 @@ version: '0.50'
 <!-- chronolog:begin region="summary" -->
 Introducing unified request-based pricing, Max Mode for all top models, and Background Agent for parallel task execution. Plus, improved context management with @folders support, refreshed Inline Edit with new options, faster file edits, multi-root workspace support, and enhanced chat features including export and…
 
-Tracked 5 of 23 candidate lines.
+Tracked 9 cards from 23 candidate lines; 4 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2025-05-15-max-mode-now-uses-token-based-pricing-similar-to-how-models-api-pricing-works|Max mode now uses token-based pricing (similar to how models API pricing works)]] · Pricing Model
-- [[Changes/Cursor/2025-05-15-we-ve-heard-your-feedback-and-are-rolling-out-a-unified-pricing-model-to-make-it|We’ve heard your feedback and are rolling out a unified pricing model to make…]] · Pricing Model
-- [[Changes/Cursor/2025-05-15-premium-tool-calls-and-long-context-mode-are-removed-to-keep-it-simple|Premium tool calls and long context mode are removed to keep it simple]] · Context Window
-- [[Changes/Cursor/2025-05-15-introducing-unified-request-based-pricing-max-mode-for-all-top-models-and-backgr|Introducing unified request-based pricing, Max Mode for all top models…]] · Pricing Model
-- [[Changes/Cursor/2025-05-15-all-model-usage-is-now-unified-into-request-based-pricing|All model usage is now unified into request-based pricing]] · Pricing Model
+- [[Changes/Cursor/2025-05-15-new-tab-model|New Tab model]] · Editor Experience · Launch
+- [[Changes/Cursor/2025-05-15-fast-edits-for-long-files-with-agent|Fast edits for long files with Agent]] · Agent Mode · Launch
+- [[Changes/Cursor/2025-05-15-simpler-unified-pricing-6a915c|Simpler, unified pricing]] · Pricing Model · Pricing
+- [[Changes/Cursor/2025-05-15-max-mode-for-all-top-models|Max Mode for all top models]] · Model Support · Launch
+- [[Changes/Cursor/2025-05-15-background-agent-preview|Background Agent (Preview)]] · Agent Mode · Launch
+- [[Changes/Cursor/2025-05-15-include-your-entire-codebase-in-context|Include your entire codebase in context]] · Context Window · Launch
+- [[Changes/Cursor/2025-05-15-refreshed-inline-edit-cmd-ctrl-k-with-agent-integration|Refreshed Inline Edit (Cmd/Ctrl+K) with Agent integration]] · Apps and Integrations · Launch
+- [[Changes/Cursor/2025-05-15-duplicate-chats|Duplicate Chats]] · Interface Experience · Launch
+- [[Changes/Cursor/2025-05-15-introducing-unified-request-based-pricing-max-mode-for-all-top-models-and-backgr|Introducing unified request-based pricing, Max Mode for all top models…]] · Pricing Model · Launch
 <!-- chronolog:end -->

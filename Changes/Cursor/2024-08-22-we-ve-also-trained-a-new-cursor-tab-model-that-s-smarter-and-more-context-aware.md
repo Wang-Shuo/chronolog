@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 5311b34414a2a505b772b6dbd9670f41393185bc28e80b1b698e4298c4506251
+machine_hash: 682f3edf009c21be5da581e36d7c3d51ca10a7ce376c850986c91697f7e2cdaf
 product: cursor
 product_name: Cursor
 record:
@@ -63,6 +63,7 @@ related_changes:
   improvements]]'
 source_release: '[[Releases/Cursor/cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42|cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: We've also trained a new Cursor Tab model that's smarter and more context-aware
 type: change

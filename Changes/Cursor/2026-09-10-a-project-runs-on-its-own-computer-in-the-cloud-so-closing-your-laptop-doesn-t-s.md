@@ -5,8 +5,8 @@ description: 'Cursor · 2026-09-10 · Agent Mode: A Project runs on its own comp
   in the cloud, so closing your laptop doesn''t stop it. When something needs testing
   on your…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1162
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: 95fa2e1afd8e1f6cff49a475ffba1059e77fefc609859f6d9dc79151451fb7d6
+kind: launch
+machine_hash: 30bbfd98df1efe1dabcf3cf0bca3fbf94f709293c8009e90fdc9efed20d9a885
 product: cursor
 product_name: Cursor
 record:
@@ -34,36 +35,35 @@ record:
       doesn't stop it. When something needs testing on your machine, the coordinator
       spins up a local agent to run it there.
     source_release: https://cursor.com/changelog/projects
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: a-project-runs-on-its-own-computer-in-the-cloud-so-closing-your-laptop-doesn-t-s
+  slug: powered-by-cloud-agents
   source_release: cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75
   source_type: cursor_changelog
   theme: agent-mode
-  title: A Project runs on its own computer in the cloud, so closing your laptop doesn't
-    stop it
+  title: Powered by Cloud Agents
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-02-your-codebase-build-outputs-and-secrets-all-stay-on-internal-machines-running-in|Your
-  codebase, build outputs, and secrets all stay on internal machines running…]]'
-- '[[Changes/Claude Code/2026-09-04-added-append-subagent-system-prompt-file-to-read-the-subagent-system-prompt-from|Added
-  --append-subagent-system-prompt-file to read the subagent system prompt…]]'
-- '[[Changes/Cursor/2026-09-10-you-shouldn-t-have-to-onboard-an-agent-every-time-you-start-a-task-each-project|You
-  shouldn''t have to onboard an agent every time you start a task]]'
+- '[[Changes/Claude Code/2026-09-04-2-agent-mode-changes-in-v2-1-261|2 Agent Mode
+  changes in v2.1.261]]'
+- '[[Changes/Claude Code/2026-09-08-improved-workflows-agent-detail-tool-calls-are-marked-running-failed-or-done-the|Improved
+  /workflows agent detail]]'
+- '[[Changes/Claude Code/2026-09-10-improved-auto-mode-denials-the-message-claude-receives-now-names-the-rule-that-b|Improved
+  auto mode denials]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75|cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: A Project runs on its own computer in the cloud, so closing your laptop doesn't
-  stop it
+title: Powered by Cloud Agents
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# A Project runs on its own computer in the cloud, so closing your laptop doesn't stop it
+# Powered by Cloud Agents
 
-**Cursor** · 2026-09-10 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/projects) · from [[Releases/Cursor/cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75|Cursor Projects]]
+**Cursor** · 2026-09-10 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://cursor.com/changelog/projects) · from [[Releases/Cursor/cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75|Cursor Projects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -75,23 +75,22 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-09-10-you-shouldn-t-have-to-onboard-an-agent-every-time-you-start-a-task-each-project|You shouldn't have to onboard an agent every time you start a task]] · Agent Mode
-- [[Changes/Cursor/2026-09-10-access-projects-from-the-left-hand-nav-the-coordinator-agent-in-a-project-doesn|Access Projects from the left-hand nav]] · Agent Mode
-- [[Changes/Cursor/2026-09-10-tell-the-coordinator-agent-to-watch-a-slack-channel-run-on-a-schedule-or-follow|Tell the coordinator agent to watch a Slack channel, run on a schedule, or follow…]] · Agent Mode
-- [[Changes/Cursor/2026-09-10-today-we-re-launching-projects-in-cursor-projects-lets-you-take-on-larger-bodies|Cursor launches Projects]] · Context Window
+- [[Changes/Cursor/2026-09-10-you-shouldn-t-have-to-onboard-an-agent-every-time-you-start-a-task-each-project|Shared context]] · Context Window
+- [[Changes/Cursor/2026-09-10-subscriptions|Subscriptions]] · Agent Mode
+- [[Changes/Cursor/2026-09-10-today-we-re-launching-projects-in-cursor-projects-lets-you-take-on-larger-bodies-51d06c|Cursor launches Projects]] · Context Window
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-added-append-subagent-system-prompt-file-to-read-the-subagent-system-prompt-from|Added --append-subagent-system-prompt-file to read the subagent system prompt…]]
-- Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-added-omitclaudemd-to-agent-frontmatter-and-agents-json-letting-custom-and-plugi|Added omitClaudeMd to agent frontmatter and --agents JSON, letting custom…]]
+- Earlier: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-improved-auto-mode-denials-the-message-claude-receives-now-names-the-rule-that-b|Improved auto mode denials]]
+- Later: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-2-agent-mode-changes-in-v2-1-269|2 Agent Mode changes in v2.1.269]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

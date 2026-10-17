@@ -13,9 +13,10 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 7af811faa91b3485d25cd4d0f001fef4b871d0dd3b7b12daa07ceac832fe91ee
+kind: pricing
+machine_hash: 3b1ec20635802df47f8f24af2b57b0028dce4ea72634914ff73fe2539a822d7c
 product: cursor
 product_name: Cursor
 record:
@@ -27,8 +28,9 @@ record:
   evidence:
   - quote: 150k GPT-4 tokens included
     source_release: https://cursor.com/changelog/0-2-6
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: pricing
   product: cursor
   product_name: Cursor
   slug: 150k-gpt-4-tokens-included
@@ -64,7 +66,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # 150k GPT-4 tokens included
 
-**Cursor** · 2023-04-19 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://cursor.com/changelog/0-2-6) · from [[Releases/Cursor/cursor-2023-04-19-0-2-6-https-cursor-com-changelog-0-2-6-a339bef2|GPT-4 & Project Generation (2023-04-19)]]
+**Cursor** · 2023-04-19 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://cursor.com/changelog/0-2-6) · from [[Releases/Cursor/cursor-2023-04-19-0-2-6-https-cursor-com-changelog-0-2-6-a339bef2|GPT-4 & Project Generation (2023-04-19)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -76,10 +78,8 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Cursor/2023-04-19-3-model-support-changes-in-0-2-6|3 Model Support changes in 0.2.6]] · Model Support
 - [[Changes/Cursor/2023-04-19-new-experimental-feature-generate-entire-projects-from-a-single-prompt|New experimental feature: Generate entire projects from a single prompt]] · Projects and Workspaces
-- [[Changes/Cursor/2023-04-19-switch-models-in-settings-gear|Switch models in settings gear]] · Model Support
-- [[Changes/Cursor/2023-04-19-better-quality-for-all-ai-features|Better quality for all AI features]] · Model Support
-- [[Changes/Cursor/2023-04-19-gpt-4-now-available-for-pro-users|GPT-4 now available for Pro users]] · Model Support
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

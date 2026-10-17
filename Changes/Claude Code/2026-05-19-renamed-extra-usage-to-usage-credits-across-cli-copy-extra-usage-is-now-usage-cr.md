@@ -14,9 +14,10 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 32ca028405b0f53edff4841dbe93b65b16b8404f52f0a6b967c779869bb7f1d0
+kind: pricing
+machine_hash: 424fb11996c5afd07933e8864a2ec2aafe63038a688d1a3e02d97c49e3501760
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Renamed "extra usage" to "usage credits" across CLI copy; `/extra-usage`
       is now `/usage-credits` (old name still works)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.144
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: pricing
   product: claude-code
   product_name: Claude Code
   slug: renamed-extra-usage-to-usage-credits-across-cli-copy-extra-usage-is-now-usage-cr
@@ -58,7 +60,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Renamed "extra usage" to "usage credits" across CLI copy
 
-**Claude Code** · 2026-05-19 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.144) · from [[Releases/Claude Code/claude-code-2026-05-19-v2-1-144-github-324524751-1469637a|v2.1.144]]
+**Claude Code** · 2026-05-19 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.144) · from [[Releases/Claude Code/claude-code-2026-05-19-v2-1-144-github-324524751-1469637a|v2.1.144]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -70,17 +72,23 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-05-19-fewer-spurious-tool-errors-during-search-head-tail-file-views-now-satisfy-the-re|Fewer spurious tool errors during search]] · Editor Experience
 - [[Changes/Claude Code/2026-05-19-the-plugin-browse-and-discover-panes-now-show-when-a-plugin-was-last-updated|The /plugin browse and discover panes now show when a plugin was last updated]] · Search and Browsing
+- [[Changes/Claude Code/2026-05-19-resumed-sessions-now-keep-the-model-they-were-using-instead-of-picking-up-anothe|Resumed sessions now keep the model they were using instead of picking up another…]] · Model Support
 - [[Changes/Claude Code/2026-05-19-added-resume-support-for-background-sessions-sessions-started-via-claude-bg-or-a|Added /resume support for background sessions]] · Agent Mode
+- [[Changes/Claude Code/2026-05-19-fixed-skill-tool-failing-with-permission-error-in-headless-mode-regression-in-v2|Fixed Skill tool failing with permission error in headless mode (regression in v2.1.141)]] · Safety and Privacy
+- [[Changes/Claude Code/2026-05-19-3-agent-mode-changes-in-v2-1-144|3 Agent Mode changes in v2.1.144]] · Agent Mode
+- [[Changes/Claude Code/2026-05-19-3-developer-workflow-changes-in-v2-1-144|3 Developer Workflow changes in v2.1.144]] · Developer Workflow
+- [[Changes/Claude Code/2026-05-19-3-apps-and-integrations-changes-in-v2-1-144|3 Apps and Integrations changes in v2.1.144]] · Apps and Integrations
 - [[Changes/Claude Code/2026-05-19-model-now-changes-the-model-for-the-current-session-only-press-d-in-the-model-pi|/model now changes the model for the current session only]] · Interface Experience
-- [[Changes/Claude Code/2026-05-19-added-elapsed-duration-to-background-subagent-completion-notifications-e-g-agent|Added elapsed duration to background subagent completion notifications…]] · Agent Mode
+- [[Changes/Claude Code/2026-05-19-the-post-survey-follow-up-hint-now-appears-after-every-non-dismiss-survey-respon|The post-survey follow-up hint now appears after every non-dismiss survey response…]] · Context Window
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
 - Earlier: 2026-05-18 · Cursor · [[Changes/Cursor/2026-05-18-standard-0-50-m-input-2-50-m-output-tokens|Standard: $0.50/M input, $2.50/M output tokens]]
-- Later: 2026-07-22 · Cursor · [[Changes/Cursor/2026-07-22-cost-good-quality-reaching-the-highest-available-intelligence-while-optimizing-t|Cost: Good quality, reaching the highest available intelligence while optimizing…]]
+- Later: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-the-subscription-switch-suggestion-now-shows-in-the-startup-announcement-slot-in|The subscription-switch suggestion now shows in the startup announcement slot…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

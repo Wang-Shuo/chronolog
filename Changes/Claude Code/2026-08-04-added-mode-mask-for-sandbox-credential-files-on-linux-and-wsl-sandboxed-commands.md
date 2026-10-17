@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 74b6da4cc70752616172ab980c0037565002714ef288979b8d80453f64bef5a3
+machine_hash: 943a5d50a52d0b14553998d92b573a21dd6f28ddc7c82ad284f27c1b32b501b0
 product: claude-code
 product_name: Claude Code
 record:
@@ -63,6 +63,7 @@ related_changes:
   sandbox.network.strictAllowlist setting to deny non-allowlisted hosts…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce|claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: 'Added mode: "mask" for sandbox credential files on Linux and WSL'
 type: change

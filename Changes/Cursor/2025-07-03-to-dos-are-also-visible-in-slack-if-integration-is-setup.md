@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 653fc5a2ae2156ebef99420dad3523444bc39a78a9d804e999c13412be4ae4dd
+machine_hash: eda8218fb6efece8df84a6e7fbd83b0631388f9e86c66884accb5b4d3c760a66
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   users are now able to use chat search connectors…]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: To-dos are also visible in Slack if integration is setup!
 type: change

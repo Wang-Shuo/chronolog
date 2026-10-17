@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-05-01'
 description: 'ChatGPT release Sunsetting Monday GPT on 2025-05-01: 1 tracked change
   across Voice and Audio'
-machine_hash: 8c57260d274582003f0cbe7b59d3bf46d7b16326d8f1a00a794ada805bc2685a
+machine_hash: 9007f1e96e159476441a250de2ab76447b14a08d11a7d07efae9c2e8ab9da09b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Sunsetting Monday GPT
 <!-- chronolog:begin region="summary" -->
 Launched on April 1 as a one-month surprise, our “Monday” personality (available in both voice and text) has now been sunset. We hope you enjoyed Monday's irreverent style, and we’re already working on new personalities for future use. Please stay tuned for what’s next!
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-05-01-launched-on-april-1-as-a-one-month-surprise-our-monday-personality-available-in|Launched on April 1 as a one-month surprise, our “Monday” personality…]] · Voice and Audio
+- [[Changes/ChatGPT/2025-05-01-launched-on-april-1-as-a-one-month-surprise-our-monday-personality-available-in|Sunsetting Monday GPT]] · Voice and Audio · Policy
 <!-- chronolog:end -->

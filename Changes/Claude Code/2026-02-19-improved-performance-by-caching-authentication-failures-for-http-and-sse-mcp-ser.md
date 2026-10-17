@@ -14,9 +14,10 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 5096f3c48b4d7192bc1f49fe0f912d2593e684601c7a6a4ecb415dd73b7eeffc
+kind: change
+machine_hash: 986cb673e65ef675807e4ed44c79b9cba9d286b3d31f2b136099efb96dcf712a
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Improved performance by caching authentication failures for HTTP and SSE
       MCP servers, avoiding repeated connection attempts to servers requiring auth
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.49
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-performance-by-caching-authentication-failures-for-http-and-sse-mcp-ser
@@ -56,10 +58,10 @@ record:
     MCP…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-22-vscode-added-ability-for-oauth-users-to-browse-and-resume-remote-claude-sessions|VSCode
-  Added ability for OAuth users to browse and resume remote Claude sessions…]]'
 - '[[Changes/Claude Code/2026-02-03-added-pre-configured-oauth-client-credentials-for-mcp-servers-that-don-t-support|Added
   pre-configured OAuth client credentials for MCP servers that don''t support…]]'
+- '[[Changes/Claude Code/2026-02-06-vscode-added-support-for-remote-sessions-allowing-oauth-users-to-browse-and-resu|VSCode:
+  Added support for remote sessions, allowing OAuth users to browse and resume…]]'
 - '[[Changes/Claude Code/2026-02-13-added-claude-auth-login-claude-auth-status-and-claude-auth-logout-cli-subcommand|Added
   claude auth login, claude auth status, and claude auth logout CLI subcommands]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140|claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140]]'
@@ -85,16 +87,17 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-02-19-simple-mode-claude-code-simple-now-includes-the-file-edit-tool-in-addition-to-th|Simple mode (CLAUDE_CODE_SIMPLE) now includes the file edit tool in addition…]] · Editor Experience
-- [[Changes/Claude Code/2026-02-19-improved-performance-in-non-interactive-mode-p-by-skipping-unnecessary-api-calls|Improved performance in non-interactive mode (-p) by skipping unnecessary API…]] · Reliability and Performance
-- [[Changes/Claude Code/2026-02-19-sonnet-4-5-with-1m-context-is-being-removed-from-the-max-plan-in-favor-of-our-fr|Sonnet 4.5 with 1M context is being removed from the Max plan in favor of our…]] · Model Support
-- [[Changes/Claude Code/2026-02-19-permission-suggestions-are-now-populated-when-safety-checks-trigger-an-ask-respo|Permission suggestions are now populated when safety checks trigger an ask response…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-02-19-2-reliability-and-performance-changes-in-v2-1-49|2 Reliability and Performance changes in v2.1.49]] · Reliability and Performance
+- [[Changes/Claude Code/2026-02-19-2-model-support-changes-in-v2-1-49|2 Model Support changes in v2.1.49]] · Model Support
+- [[Changes/Claude Code/2026-02-19-3-safety-and-privacy-changes-in-v2-1-49|3 Safety and Privacy changes in v2.1.49]] · Safety and Privacy
+- [[Changes/Claude Code/2026-02-19-2-apps-and-integrations-changes-in-v2-1-49|2 Apps and Integrations changes in v2.1.49]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
 - Earlier: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-added-claude-auth-login-claude-auth-status-and-claude-auth-logout-cli-subcommand|Added claude auth login, claude auth status, and claude auth logout CLI subcommands]]
-- Later: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-added-actionable-guidance-when-oauth-login-or-connectivity-checks-fail-due-to-ss|Added actionable guidance when OAuth login or connectivity checks fail due to SSL…]]
+- Later: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-added-manual-url-paste-fallback-during-mcp-oauth-authentication-if-the-automatic|Added manual URL paste fallback during MCP OAuth authentication]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

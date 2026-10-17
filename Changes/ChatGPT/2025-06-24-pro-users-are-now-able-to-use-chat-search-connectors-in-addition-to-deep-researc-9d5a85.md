@@ -5,8 +5,8 @@ description: 'ChatGPT · 2025-06-24 · Apps and Integrations: Pro users are now 
   to use chat search connectors (in addition to deep research connectors) for the
   following…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 824
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 640fd1cb74f717401ae7215a96b65e8b8c63c8625e81b66f6c5b401b2d190b50
+kind: change
+machine_hash: 35384863251916136a08b905f882ff50d946cfab023dfeff601c87ba0242859a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,8 +37,9 @@ record:
       this feature is currently limited to users located outside of the EEA, Switzerland,
       and the UK.Learn more about Connectors.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: pro-users-are-now-able-to-use-chat-search-connectors-in-addition-to-deep-researc
@@ -54,24 +56,24 @@ record:
     - deep research
     score: 60
     theme: search-browsing
-  title: Pro users are now able to use chat search connectors…
+  title: Chat search connectors (Pro)
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2025-06-04-admin-published-connectors-appear-in-the-connector-list-for-all-users|Admin-published
+  connectors appear in the connector list for all users]]'
 - '[[Changes/ChatGPT/2025-06-04-admins-and-users-can-now-build-and-deploy-custom-connectors-to-proprietary-syste|Admins
   and users can now build and deploy custom connectors to proprietary systems…]]'
-- '[[Changes/Cursor/2025-06-12-cursor-reads-the-entire-slack-thread-before-starting-so-background-agents-unders|Cursor
-  reads the entire Slack thread before starting, so Background Agents…]]'
-- '[[Changes/Cursor/2025-06-12-mention-cursor-in-any-thread-with-a-prompt-like|Mention
-  @Cursor in any thread with a prompt like]]'
+- '[[Changes/Cursor/2025-06-12-agents-understand-context-6b73fc|Agents understand
+  context]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-24-chat-search-connectors-pro-a20d1d1a|chatgpt-2025-06-24-chat-search-connectors-pro-a20d1d1a]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: Pro users are now able to use chat search connectors…
+title: Chat search connectors (Pro)
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Pro users are now able to use chat search connectors…
+# Chat search connectors (Pro)
 
 **ChatGPT** · 2025-06-24 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-06-24-chat-search-connectors-pro-a20d1d1a|Chat search connectors (Pro)]]
 <!-- chronolog:end -->
@@ -89,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-mention-cursor-in-any-thread-with-a-prompt-like|Mention @Cursor in any thread with a prompt like]]
-- Later: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-to-dos-are-also-visible-in-slack-if-integration-is-setup|To-dos are also visible in Slack if integration is setup!]]
+- Earlier: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-agents-understand-context-6b73fc|Agents understand context]]
+- Later: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-2-apps-and-integrations-changes-in-1-2|2 Apps and Integrations changes in 1.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

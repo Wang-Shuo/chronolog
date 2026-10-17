@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-03-11'
 description: 'ChatGPT release Retiring GPT-5.1 models on 2026-03-11: 1 tracked change
   across Model Support'
-machine_hash: 8e61c56b9751109da1a499e27336637dded75ebaf758baff811bb67af671e50c
+machine_hash: 7abd9519bcf37e0b85ddc4ced6b27afd5744d3e8a4261e2bce04b44568d8a8ff
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Retiring GPT-5.1 models
 <!-- chronolog:begin region="summary" -->
 As of March 11, 2026, GPT-5.1 models are no longer available in ChatGPT.This applies to GPT-5.1 Instant, GPT-5.1 Thinking, and GPT-5.1 Pro. Existing conversations that used GPT-5.1 will automatically continue on the corresponding current model: GPT-5.3 Instant, GPT-5.4 Thinking, or GPT-5.4 Pro.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-03-11-as-of-march-11-2026-gpt-5-1-models-are-no-longer-available-in-chatgpt-this-appli|As of March 11, 2026, GPT-5.1 models are no longer available in ChatGPT.This applies…]] · Model Support
+- [[Changes/ChatGPT/2026-03-11-as-of-march-11-2026-gpt-5-1-models-are-no-longer-available-in-chatgpt-this-appli|Retiring GPT-5.1 models]] · Model Support · Policy
 <!-- chronolog:end -->

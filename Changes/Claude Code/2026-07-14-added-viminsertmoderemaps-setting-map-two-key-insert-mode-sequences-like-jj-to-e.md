@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8b5e1ad5ab293905cfe9869518661c4b33671060d3e171eaa123cd240fd58912
+machine_hash: 7b8a5593399f4941a23d4cecbfae6761da73be3e3eaf43598baae6bdf942d1cc
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   past agent chats faster with search results that go beyond names and PR numbers]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-208-github-353442054-2756b984|claude-code-2026-07-14-v2-1-208-github-353442054-2756b984]]'
 source_type: github_releases
+superseded: true
 theme: editor-experience
 title: Added vimInsertModeRemaps setting
 type: change

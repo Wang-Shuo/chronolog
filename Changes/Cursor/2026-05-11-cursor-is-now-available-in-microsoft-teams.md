@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4ad3d686b6c5dc8376b3d57adec5af7e0c510f68f0474105e089b5e06161ca5a
+machine_hash: 6aae188c21943302ea7a2145a39a2d3a450ac63f806d51613e6be2bbaaa466d3
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   with existing blocklists will need to migrate to the new system by June 1st]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4|cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4]]'
 source_type: cursor_changelog
+superseded: true
 theme: collaboration
 title: Cursor is now available in Microsoft Teams
 type: change

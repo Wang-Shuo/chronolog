@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 66cf2403091d40252d1b4bd155f731b5b13c7b31f0aefee9e6285a49d7c36d19
+kind: launch
+machine_hash: 76c10d333c731fe6ce5f048fd6daf73280e95d52fd558045cc0d77be107d4013
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,34 +45,35 @@ record:
       We plan to bring these improvements to a dated model in the API in the coming
       weeks.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: launch
   product: chatgpt
   product_name: ChatGPT
-  slug: early-testers-say-that-the-model-seems-to-better-understand-the-implied-intent-b
+  slug: fuzzy-improvements
   source_release: chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7
   source_type: chatgpt_changelog
   theme: model-support
-  title: Early testers say that the model seems to better understand the implied intent…
+  title: “Fuzzy” improvements
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-11-0-47-5-client-side-support-for-upcoming-max-mode-compatibility-for-claude-3-7-so|0.47.5:
-  Client-side support for upcoming MAX mode compatibility for Claude 3.7 Sonnet]]'
-- '[[Changes/ChatGPT/2025-03-18-2-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-a|o1
+- '[[Changes/ChatGPT/2025-03-18-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-ask-bfa530|o1
   and o3-mini now offer Python-powered data analysis in ChatGPT]]'
+- '[[Changes/Cursor/2025-03-23-2-model-support-changes-in-0-48-x|2 Model Support changes
+  in 0.48.x]]'
 - '[[Changes/ChatGPT/2025-03-27-we-ve-made-improvements-to-gpt-4o-it-now-feels-more-intuitive-creative-and-colla|ChatGPT
   makes improvements to GPT-4o—it now feels more intuitive, creative…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7|chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: Early testers say that the model seems to better understand the implied intent…
+title: “Fuzzy” improvements
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Early testers say that the model seems to better understand the implied intent…
+# “Fuzzy” improvements
 
-**ChatGPT** · 2025-03-27 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7|Improvements to GPT-4o]]
+**ChatGPT** · 2025-03-27 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7|Improvements to GPT-4o]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -84,15 +86,15 @@ type: change
 ## Also in this release
 
 - [[Changes/ChatGPT/2025-03-27-we-ve-made-improvements-to-gpt-4o-it-now-feels-more-intuitive-creative-and-colla|ChatGPT makes improvements to GPT-4o—it now feels more intuitive, creative…]] · Model Support
-- [[Changes/ChatGPT/2025-03-27-gpt-4o-has-further-improved-its-capability-to-tackle-complex-technical-and-codin|GPT-4o has further improved its capability to tackle complex technical and coding problems]] · Model Support
-- [[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|GPT-4o is now more adept at following detailed instructions, especially for prompts…]] · Model Support
+- [[Changes/ChatGPT/2025-03-27-gpt-4o-has-further-improved-its-capability-to-tackle-complex-technical-and-codin|Smarter problem-solving in STEM and coding]] · Model Support
+- [[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|Enhanced instruction-following and formatting accuracy]] · Model Support
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-2-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-a|o1 and o3-mini now offer Python-powered data analysis in ChatGPT]]
-- Later: 2025-04-10 · ChatGPT · [[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Effective April 30, 2025, GPT‑4 will be retired from ChatGPT and fully replaced by GPT‑4o]]
+- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-2-model-support-changes-in-0-48-x|2 Model Support changes in 0.48.x]]
+- Later: 2025-04-10 · ChatGPT · [[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Sunsetting GPT‑4 in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

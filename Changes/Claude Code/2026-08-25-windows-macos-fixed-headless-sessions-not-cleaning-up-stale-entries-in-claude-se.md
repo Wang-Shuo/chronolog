@@ -15,9 +15,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 9bf961c80ff2dde49f78a012864aaf8b4e347706a4fb11a60eea7217a71cb185
+kind: change
+machine_hash: 9a0e1bab51a21c0b4d525a8823c2a4cc7914d4f3c2b742a5c3aea8cafce913de
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
   - quote: 'Windows/macOS: Fixed headless sessions not cleaning up stale entries in
       `~/.claude/sessions` left by sessions that exited uncleanly'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.246
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: windows-macos-fixed-headless-sessions-not-cleaning-up-stale-entries-in-claude-se
@@ -42,12 +44,12 @@ record:
   title: 'Windows/macOS: Fixed headless sessions not cleaning up stale entries…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-21-available-in-the-chatgpt-app-for-android-version-1-2026-216-or-later|Available
-  in the ChatGPT app for Android, version 1.2026.216 or later]]'
-- '[[Changes/ChatGPT/2026-08-21-find-more-useful-plugins-rankings-now-prioritize-plugins-people-keep-using-after|Find
-  more useful plugins]]'
-- '[[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Plus
-  and Pro users can ask Work on web, iOS, and Android to respond when a new Gmail…]]'
+- '[[Changes/Claude Code/2026-08-21-remote-sessions-images-uploaded-from-mobile-now-include-their-saved-file-path-so|Remote
+  sessions: images uploaded from mobile now include their saved file path…]]'
+- '[[Changes/Claude Code/2026-08-21-windows-cross-session-messaging-is-now-available-so-claude-code-sessions-across|Windows:
+  cross-session messaging is now available, so Claude Code sessions across…]]'
+- '[[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Create
+  webhook-triggered tasks]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0|claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -70,17 +72,20 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-08-25-fixed-sessions-that-ended-in-plan-mode-resuming-outside-plan-mode-in-the-vs-code|Fixed sessions that ended in plan mode resuming outside plan mode in the VS Code…]] · Safety and Privacy
-- [[Changes/Claude Code/2026-08-25-added-a-startup-warning-for-bash-allow-rules-with-a-wildcard-before-the-subcomma|Added a startup warning for Bash allow rules with a wildcard before the subcommand…]] · Developer Workflow
+- [[Changes/Claude Code/2026-08-25-improved-subagent-results-a-subagent-that-stops-at-its-maxturns-limit-now-return|Improved subagent results]] · Agent Mode
+- [[Changes/Claude Code/2026-08-25-improved-bash-tool-latency-on-bash-shells-by-replaying-snapshot-functions-withou|Improved Bash tool latency on bash shells by replaying snapshot functions without…]] · Reliability and Performance
+- [[Changes/Claude Code/2026-08-25-6-safety-and-privacy-changes-in-v2-1-246|6 Safety and Privacy changes in v2.1.246]] · Safety and Privacy
 - [[Changes/Claude Code/2026-08-25-added-the-turn-s-completion-time-to-the-end-of-turn-duration-line-e-g-saut-ed-fo|Added the turn's completion time to the end-of-turn duration line…]] · Editor Experience
-- [[Changes/Claude Code/2026-08-25-added-an-auto-mode-tab-to-permissions-for-viewing-and-editing-auto-mode-classifi|Added an Auto mode tab to /permissions for viewing and editing auto mode…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-08-25-2-developer-workflow-changes-in-v2-1-246|2 Developer Workflow changes in v2.1.246]] · Developer Workflow
+- [[Changes/Claude Code/2026-08-25-3-apps-and-integrations-changes-in-v2-1-246|3 Apps and Integrations changes in v2.1.246]] · Apps and Integrations
+- [[Changes/Claude Code/2026-08-25-improved-attribution-of-usage-telemetry-to-your-organization-for-workload-identi|Improved attribution of usage telemetry to your organization for workload identity…]] · Account and Access
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-25 · ChatGPT · [[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Plus and Pro users can ask Work on web, iOS, and Android to respond when a new Gmail…]]
-- Later: 2026-08-28 · ChatGPT · [[Changes/ChatGPT/2026-08-28-available-globally-on-supported-plus-pro-business-and-enterprise-plans-across-we|Available globally on supported Plus, Pro, Business, and Enterprise plans across…]]
+- Earlier: 2026-08-25 · ChatGPT · [[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Create webhook-triggered tasks]]
+- Later: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-improved-amazon-bedrock-session-start-under-claude-code-provider-managed-by-host|Improved Amazon Bedrock session start under CLAUDE_CODE_PROVIDER_MANAGED_BY_HOST…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

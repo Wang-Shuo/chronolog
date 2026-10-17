@@ -5,7 +5,7 @@ description: 'Cursor · 2026-05-20 · Automation and Scheduling: A lot of engine
   work spans more than one codebase. You can now attach multiple repos to an automation
   so…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|Tasks
+  first_in_tracked: '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks
     let you set up automated prompts that ChatGPT can run for you]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 154
@@ -15,9 +15,10 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f9ad3c79e8159541757302adeb9dcc5240ccd0e2dbe986f039db05f4329b21d6
+kind: launch
+machine_hash: ea90df6f76886de953bc25f0b350297da8c0315d4780af7da57a193a1ccc159d
 product: cursor
 product_name: Cursor
 record:
@@ -33,48 +34,34 @@ record:
       multiple repos to an automation so agents reason across all required context
       and work across repos to deliver, test, and verify tasks.
     source_release: https://cursor.com/changelog/05-20-26
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: a-lot-of-engineering-work-spans-more-than-one-codebase-you-can-now-attach-multip
+  slug: multi-repo-automations
   source_release: cursor-2026-05-20-3-5-https-cursor-com-changelog-05-20-26-f6af79ab
   source_type: cursor_changelog
   theme: automation-scheduling
-  theme_matches:
-  - matched_terms:
-    - agents
-    score: 50
-    theme: agent-mode
-  - matched_terms:
-    - automation
-    score: 50
-    theme: automation-scheduling
-  - matched_terms:
-    - context
-    score: 50
-    theme: context-window
-  theme_resolution: manual-semantic-rule-v1
-  title: A lot of engineering work spans more than one codebase
+  title: Multi-repo automations
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-13-proactive-is-now-an-alias-for-loop|/proactive
-  is now an alias for /loop]]'
+- '[[Changes/Claude Code/2026-04-17-improved-loop-pressing-esc-now-cancels-pending-wakeups-and-wakeups-display-as-cl|Improved
+  /loop: pressing Esc now cancels pending wakeups, and wakeups display…]]'
 - '[[Changes/Claude Code/2026-05-01-claude-code-skill-activated-opentelemetry-event-now-fires-for-user-typed-slash-c|claude_code.skill_activated
   OpenTelemetry event now fires for user-typed slash…]]'
-- '[[Changes/Cursor/2026-05-20-for-the-next-7-days-all-agent-runs-for-newly-created-automations-are-50-off|For
-  the next 7 days, all agent runs for newly created automations are 50% off]]'
+- '[[Changes/Cursor/2026-05-20-no-repo-automations|No-repo automations]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-05-20-26-f6af79ab|cursor-2026-05-20-3-5-https-cursor-com-changelog-05-20-26-f6af79ab]]'
 source_type: cursor_changelog
 theme: automation-scheduling
-title: A lot of engineering work spans more than one codebase
+title: Multi-repo automations
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# A lot of engineering work spans more than one codebase
+# Multi-repo automations
 
-**Cursor** · 2026-05-20 · [[Themes/automation-scheduling|Automation and Scheduling]] · [Official source](https://cursor.com/changelog/05-20-26) · from [[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-05-20-26-f6af79ab|Improvements to Cursor Automations]]
+**Cursor** · 2026-05-20 · [[Themes/automation-scheduling|Automation and Scheduling]] · Launch · [Official source](https://cursor.com/changelog/05-20-26) · from [[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-05-20-26-f6af79ab|Improvements to Cursor Automations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -86,23 +73,22 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-05-20-for-the-next-7-days-all-agent-runs-for-newly-created-automations-are-50-off|For the next 7 days, all agent runs for newly created automations are 50% off]] · Automation and Scheduling
-- [[Changes/Cursor/2026-05-20-many-useful-automations-exist-apart-from-code-where-agents-monitor-your-tools-an|Many useful automations exist apart from code, where agents monitor your tools…]] · Automation and Scheduling
-- [[Changes/Cursor/2026-05-20-cursor-automations-are-now-available-in-the-agents-window-in-addition-to-cursor|Cursor Automations are now available in the Agents Window, in addition…]] · Automation and Scheduling
-- [[Changes/Cursor/2026-05-20-this-release-brings-cursor-automations-to-the-agents-window-and-introduces-the-a|Cursor brings Cursor Automations to the Agents Window and introduces the ability…]] · Automation and Scheduling
+- [[Changes/Cursor/2026-05-20-no-repo-automations|No-repo automations]] · Automation and Scheduling
+- [[Changes/Cursor/2026-05-20-cursor-automations-are-now-available-in-the-agents-window-in-addition-to-cursor|Automations in the Agents Window]] · Automation and Scheduling
+- [[Changes/Cursor/2026-05-20-this-release-brings-cursor-automations-to-the-agents-window-and-introduces-the-a-cd58e1|Cursor brings Cursor Automations to the Agents Window and introduces the ability…]] · Automation and Scheduling
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-claude-code-skill-activated-opentelemetry-event-now-fires-for-user-typed-slash-c|claude_code.skill_activated OpenTelemetry event now fires for user-typed slash…]]
-- Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-workflows-now-opens-immediately-even-while-a-turn-is-in-progress|/workflows now opens immediately even while a turn is in progress]]
+- Later: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-reliable-wait-on-local-runs-local-runs-no-longer-resolve-wait-before-the-termina|Reliable wait() on local runs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-12-17 · ChatGPT · [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|Tasks let you set up automated prompts that ChatGPT can run for you]]
+- Earliest same-theme entry in the tracked set: 2025-12-17 · ChatGPT · [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks let you set up automated prompts that ChatGPT can run for you]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

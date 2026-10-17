@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: a0bd3e21fd9ff1939402d32c7618a19726cbc9a72431db6e6b5fef3049cbce9f
+machine_hash: ba24ebb3f4ed1450deaec0b933f313d2f53e5631dc68d4f99aca70296e53c59e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,6 +60,7 @@ related_changes:
   can now choose from the full set of ChatGPT models…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-12-expanded-model-support-for-custom-gpts-55f4555f|chatgpt-2025-06-12-expanded-model-support-for-custom-gpts-55f4555f]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: GPTs without Custom Actions can use the model picker to select from all models…
 type: change

@@ -3,7 +3,7 @@ changes_count: 3
 date: '2024-01-25'
 description: 'Cursor release @Web, gpt-4-0125-preview on 2024-01-25: 3 tracked changes
   across Apps and Integrations, Model Support, Search and Browsing'
-machine_hash: 13f8d27906f53ffaff8fedf3076f5420ceaceee9a466f56e627384fbbb3d0656
+machine_hash: 124c1a90b19ebe1048fdb7e24abcaca07a7aa0d3478055c492995b9501e73b4d
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ version: 0.24.x
 <!-- chronolog:begin region="summary" -->
 Using @Web in chat will give the AI the ability to crawl the web! The tools it can use include a search engine and a documentation site crawler.
 
-Tracked 3 of 4 candidate lines.
+Tracked 3 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

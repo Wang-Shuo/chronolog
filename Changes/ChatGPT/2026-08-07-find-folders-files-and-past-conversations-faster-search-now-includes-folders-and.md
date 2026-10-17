@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: fd17afd46b2355ce03cebf92c6c5574a1bfb129c9907e0780b4013d6bc184812
+machine_hash: 713ba3291c90eeda259894bcc07456e22011314661fad035ffc66ae961192b36
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -62,6 +62,7 @@ related_changes:
   to both iPhone and iPad]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: mobile-desktop
 title: Find folders, files, and past conversations faster
 type: change

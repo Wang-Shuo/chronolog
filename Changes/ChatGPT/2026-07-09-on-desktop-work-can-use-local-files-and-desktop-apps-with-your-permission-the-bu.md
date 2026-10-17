@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 548243d310112a818b168c117934449181926fa7c4fb07759dfab5b669c1c698
+machine_hash: 2fcca27bda43500b81898facc6addf846938204252d26e43a12852b0c01cdf90
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -76,6 +76,7 @@ related_changes:
   you already use the Codex app, update it as usual to move to the new ChatGPT…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810|chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: safety-privacy
 title: On desktop, Work can use local files and desktop apps with your permission
 type: change

@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 262e3fda1d96623dd068798fc78dd2f06bd475da70d36c8ed1cf9e3e6c27f836
+kind: change
+machine_hash: b16d232321f11a0173c2db094116a376fca88a83d74dddd78cbe9f0e90c902d8
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added Shift+Tab keyboard shortcut in plan mode to quickly select "auto-accept
       edits" option
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.2
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-shift-tab-keyboard-shortcut-in-plan-mode-to-quickly-select-auto-accept-edi
@@ -50,12 +52,12 @@ record:
   title: Added Shift+Tab keyboard shortcut in plan mode to quickly select…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-improved-theme-command-to-open-theme-picker-directly|Improved
-  /theme command to open theme picker directly]]'
-- '[[Changes/Claude Code/2026-01-09-added-release-channel-stable-or-latest-toggle-to-config|Added
-  release channel (stable or latest) toggle to /config]]'
-- '[[Changes/Claude Code/2026-01-09-improved-terminal-rendering-stability-by-preventing-uncontrolled-writes-from-cor|Improved
-  terminal rendering stability by preventing uncontrolled writes…]]'
+- '[[Changes/Claude Code/2025-12-19-2-interface-experience-changes-in-v2-0-74|2 Interface
+  Experience changes in v2.0.74]]'
+- '[[Changes/Cursor/2025-12-22-3-interface-experience-changes-in-2-3|3 Interface Experience
+  changes in 2.3]]'
+- '[[Changes/Claude Code/2026-01-09-2-interface-experience-changes-in-v2-1-3|2 Interface
+  Experience changes in v2.1.3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-2-github-275344737-27089666|claude-code-2026-01-09-v2-1-2-github-275344737-27089666]]'
 source_type: github_releases
 theme: interface-experience
@@ -78,16 +80,17 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-01-09-added-source-path-metadata-to-images-dragged-onto-the-terminal-helping-claude-un|Added source path metadata to images dragged onto the terminal, helping Claude…]] · Developer Workflow
-- [[Changes/Claude Code/2026-01-09-added-clickable-hyperlinks-for-file-paths-in-tool-output-in-terminals-that-suppo|Added clickable hyperlinks for file paths in tool output in terminals that support…]] · Developer Workflow
-- [[Changes/Claude Code/2026-01-09-added-force-autoupdate-plugins-environment-variable-to-allow-plugin-autoupdate-e|Added FORCE_AUTOUPDATE_PLUGINS environment variable to allow plugin autoupdate…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-01-09-added-support-for-windows-package-manager-winget-installations-with-automatic-de|Added support for Windows Package Manager (winget) installations with automatic…]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-01-09-2-apps-and-integrations-changes-in-v2-1-2|2 Apps and Integrations changes in v2.1.2]] · Apps and Integrations
+- [[Changes/Claude Code/2026-01-09-2-mobile-and-desktop-changes-in-v2-1-2|2 Mobile and Desktop changes in v2.1.2]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-01-09-2-safety-and-privacy-changes-in-v2-1-2|2 Safety and Privacy changes in v2.1.2]] · Safety and Privacy
+- [[Changes/Claude Code/2026-01-09-3-developer-workflow-changes-in-v2-1-2|3 Developer Workflow changes in v2.1.2]] · Developer Workflow
+- [[Changes/Claude Code/2026-01-09-added-agent-type-to-sessionstart-hook-input-populated-if-agent-is-specified|Added agent_type to SessionStart hook input, populated if --agent is specified]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-improved-terminal-rendering-stability-by-preventing-uncontrolled-writes-from-cor|Improved terminal rendering stability by preventing uncontrolled writes…]]
+- Earlier: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-2-interface-experience-changes-in-v2-1-3|2 Interface Experience changes in v2.1.3]]
 - Later: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-added-updates-section-to-doctor-showing-auto-update-channel-and-available-npm-ve|Added Updates section to /doctor showing auto-update channel and available npm…]]
 <!-- chronolog:end -->
 

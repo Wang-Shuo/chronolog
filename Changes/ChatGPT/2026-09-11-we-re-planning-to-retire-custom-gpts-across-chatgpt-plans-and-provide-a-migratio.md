@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-09-11 · Apps and Integrations: We’re planning t
   custom GPTs across ChatGPT plans and provide a migration path to plugins, which
   can…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1268
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: fd620e2c1acfd23d2254b5b02bf19f9184f21c7b1b24ac929596261ed963d5ae
+kind: policy
+machine_hash: a26038674436ad55580c5977d6d7df3fe58ffd5c24e97a76c5305a848fc894c6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,8 +44,9 @@ record:
       may vary by plan and workspace; follow applicable notices and learn more about
       the planned retirement.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: policy
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-planning-to-retire-custom-gpts-across-chatgpt-plans-and-provide-a-migratio
@@ -61,26 +63,26 @@ record:
     - sharing
     score: 50
     theme: collaboration
-  title: We’re planning to retire custom GPTs across ChatGPT plans and provide a migration…
+  title: Planned custom GPT retirement and migration to plugins
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-03-added-reload-plugins-to-headless-sessions-so-it-appears-in-the-claude-code-deskt|Added
-  /reload-plugins to headless sessions, so it appears in the Claude Code…]]'
-- '[[Changes/Claude Code/2026-09-08-added-support-for-pointing-plugin-dir-at-a-folder-of-plugins-each-child-folder-w|Added
-  support for pointing --plugin-dir at a folder of plugins]]'
-- '[[Changes/ChatGPT/2026-09-10-the-data-plugin-helps-you-analyze-connected-business-data-in-chatgpt-work-and-co|The
-  Data plugin helps you analyze connected business data in ChatGPT Work and Codex]]'
+- '[[Changes/Claude Code/2026-09-09-claude-tag-added-a-use-a-custom-connector-link-to-the-preset-connection-forms-in|Claude
+  Tag Added a "Use a custom connector" link to the preset connection forms…]]'
+- '[[Changes/ChatGPT/2026-09-10-the-data-plugin-helps-you-analyze-connected-business-data-in-chatgpt-work-and-co|Data
+  plugin in ChatGPT Work and Codex]]'
+- '[[Changes/Claude Code/2026-09-10-7-apps-and-integrations-changes-in-v2-1-268|7
+  Apps and Integrations changes in v2.1.268]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-11-planned-custom-gpt-retirement-and-migration-to-plugins-05b21afb|chatgpt-2026-09-11-planned-custom-gpt-retirement-and-migration-to-plugins-05b21afb]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: We’re planning to retire custom GPTs across ChatGPT plans and provide a migration…
+title: Planned custom GPT retirement and migration to plugins
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We’re planning to retire custom GPTs across ChatGPT plans and provide a migration…
+# Planned custom GPT retirement and migration to plugins
 
-**ChatGPT** · 2026-09-11 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-11-planned-custom-gpt-retirement-and-migration-to-plugins-05b21afb|Planned custom GPT retirement and migration to plugins]]
+**ChatGPT** · 2026-09-11 · [[Themes/apps-integrations|Apps and Integrations]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-11-planned-custom-gpt-retirement-and-migration-to-plugins-05b21afb|Planned custom GPT retirement and migration to plugins]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -96,14 +98,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-10 · ChatGPT · [[Changes/ChatGPT/2026-09-10-the-data-plugin-helps-you-analyze-connected-business-data-in-chatgpt-work-and-co|The Data plugin helps you analyze connected business data in ChatGPT Work and Codex]]
-- Later: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-added-output-style-name-to-list-and-switch-output-styles-including-over-remote-c|Added /output-style name to list and switch output styles, including over Remote…]]
+- Earlier: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-7-apps-and-integrations-changes-in-v2-1-268|7 Apps and Integrations changes in v2.1.268]]
+- Later: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-5-apps-and-integrations-changes-in-v2-1-269|5 Apps and Integrations changes in v2.1.269]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

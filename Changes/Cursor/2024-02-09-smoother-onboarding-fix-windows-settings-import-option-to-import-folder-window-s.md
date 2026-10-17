@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 091fb9a50970715d7c1285c0334d0557bea396a84780a572a76a76f8e22ecd85
+kind: change
+machine_hash: 97cd418b93288536a7820f4e6297f21cb95c0ff706accdfff902b49fef3aec6f
 product: cursor
 product_name: Cursor
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Smoother onboarding (fix Windows settings import, option to import folder/window
       state)
     source_release: https://cursor.com/changelog/0-26
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: smoother-onboarding-fix-windows-settings-import-option-to-import-folder-window-s
@@ -43,7 +45,7 @@ record:
     state)
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-06-minor-onboarding-changes|Minor onboarding changes]]'
+- '[[Changes/Cursor/2023-12-06-minor-onboarding-changes-19f3e5|Onboarding & Feedback]]'
 - '[[Changes/Cursor/2023-12-16-previews-we-made-it-easier-to-see-what-codeblock-you-re-ing|@
   previews: We made it easier to see what codeblock you''re @''ing]]'
 - '[[Changes/Cursor/2024-02-02-you-can-now-drag-images-into-the-command-k-prompt-bar|Drag
@@ -80,7 +82,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-02-02 · Cursor · [[Changes/Cursor/2024-02-02-you-can-now-drag-images-into-the-command-k-prompt-bar|Drag images into the Command-K prompt bar!]]
-- Later: 2024-03-01 · Cursor · [[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|AI Notes enabled by default (hold shift on any symbol), better in-editor chat…]]
+- Later: 2024-03-01 · Cursor · [[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|Polish]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

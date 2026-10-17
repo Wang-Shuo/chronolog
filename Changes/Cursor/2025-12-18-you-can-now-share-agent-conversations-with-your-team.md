@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 961bebb067ed8c28290186d994e6310074d2bc102ae16656de8d1809212beeea
+machine_hash: 27b88db2c506f56aeada9cb8981ad54fd1a058b89685f96e9e290d1d294707db
 product: cursor
 product_name: Cursor
 record:
@@ -59,6 +59,7 @@ related_changes:
   to discuss them out loud]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb|cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb]]'
 source_type: cursor_changelog
+superseded: true
 theme: collaboration
 title: Share agent conversations with your team
 type: change

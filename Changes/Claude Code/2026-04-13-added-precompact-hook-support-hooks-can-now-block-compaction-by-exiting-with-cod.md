@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: e154fb24f8a5dc99018e432e6883f63617e0bbd01928f238c20a536de536e41d
+machine_hash: 09320557f3d32591565251c0dad458c3295136fb45270cded019d3749bef9baf
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   background monitor support for plugins via a top-level monitors manifest key…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3|claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added PreCompact hook support
 type: change

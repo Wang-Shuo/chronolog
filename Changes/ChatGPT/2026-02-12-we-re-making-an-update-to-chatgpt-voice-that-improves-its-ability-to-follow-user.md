@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-02-12 · Voice and Audio: We’re making an update
   Voice that improves its ability to follow user instructions, and usage of tools
   like…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use
-    voice to engage in a back-and-forth conversation with your assistant]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
+    are beginning to roll out new voice and image capabilities in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 871
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: fe1759fc28c1885c38777e041343bea0e2fd13b7428b42d175e8307be65b8282
+kind: change
+machine_hash: 81d4b1097e8bf21c7c3f4478b9b92ef6c149c49022c0e2d5915a2fce79791584
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,8 +38,9 @@ record:
       This update applies to the version of Voice primarily used by those on the free
       ChatGPT plan, and by Plus users when limits are reached for the main model.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-making-an-update-to-chatgpt-voice-that-improves-its-ability-to-follow-user
@@ -58,26 +60,24 @@ record:
     - model
     score: 50
     theme: model-support
-  title: We’re making an update to ChatGPT Voice that improves its ability to follow
-    user…
+  title: ChatGPT Voice Update
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-12-we-re-improving-our-dictation-capabilities-in-chatgpt-for-all-logged-in-users-si|We’re
-  improving our dictation capabilities in ChatGPT for all logged-in users…]]'
-- '[[Changes/ChatGPT/2026-01-20-we-re-making-an-update-to-chatgpt-voice-for-paid-users-that-improves-its-ability|We’re
-  making an update to ChatGPT Voice for paid users that improves its ability…]]'
-- '[[Changes/ChatGPT/2026-01-26-we-ve-improved-search-responses-in-chatgpt-voice-to-deliver-more-complete-up-to|ChatGPT
-  improves search responses in ChatGPT Voice to deliver more complete…]]'
+- '[[Changes/ChatGPT/2026-01-12-we-re-improving-our-dictation-capabilities-in-chatgpt-for-all-logged-in-users-si|Dictation
+  Updates]]'
+- '[[Changes/ChatGPT/2026-01-20-we-re-making-an-update-to-chatgpt-voice-for-paid-users-that-improves-its-ability|Voice
+  Updates]]'
+- '[[Changes/ChatGPT/2026-01-26-we-ve-improved-search-responses-in-chatgpt-voice-to-deliver-more-complete-up-to|Improvements
+  to search response quality in Voice]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-12-chatgpt-voice-update-c17a6a9f|chatgpt-2026-02-12-chatgpt-voice-update-c17a6a9f]]'
 source_type: chatgpt_changelog
 theme: voice
-title: We’re making an update to ChatGPT Voice that improves its ability to follow
-  user…
+title: ChatGPT Voice Update
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We’re making an update to ChatGPT Voice that improves its ability to follow user…
+# ChatGPT Voice Update
 
 **ChatGPT** · 2026-02-12 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-12-chatgpt-voice-update-c17a6a9f|ChatGPT Voice Update]]
 <!-- chronolog:end -->
@@ -95,14 +95,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-01-26 · ChatGPT · [[Changes/ChatGPT/2026-01-26-we-ve-improved-search-responses-in-chatgpt-voice-to-deliver-more-complete-up-to|ChatGPT improves search responses in ChatGPT Voice to deliver more complete…]]
-- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-added-voice-stt-support-for-10-new-languages-20-total-russian-polish-turkish-dut|Added Voice STT support for 10 new languages (20 total)]]
+- Earlier: 2026-01-26 · ChatGPT · [[Changes/ChatGPT/2026-01-26-we-ve-improved-search-responses-in-chatgpt-voice-to-deliver-more-complete-up-to|Improvements to search response quality in Voice]]
+- Later: 2026-02-27 · ChatGPT · [[Changes/ChatGPT/2026-02-27-improved-dictation-visuals-dictation-now-has-a-clearer-more-streamlined-interfac|Improved dictation visuals]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use voice to engage in a back-and-forth conversation with your assistant]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -2,7 +2,7 @@
 changes_count: 0
 date: '2023-09-08'
 description: 'Cursor release @definitions in cmd+k on 2023-09-08: no tracked changes'
-machine_hash: ae71ada5c9a33959d4a3de432ead2974383d49caf3cb16fcc0358707e5da6d58
+machine_hash: ad67dd01303308cbf235ecf0e284276ad29b115a07e75ea1b15df26ff643dec1
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.9.9-nightly
 <!-- chronolog:begin region="summary" -->
 Also fixes a few cmd+k bugs, as well as introduces new cmd+k bugs! Please report all cmd+k bugs you find to us in the Discord channel.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

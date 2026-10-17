@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5dda920dbf9135876ff320019c8b0e4d4bf73597a9f16b35985334779243fdf1
+machine_hash: a400676ceb2a816d1d1c1f248c69b04eb9392ac03d1b7e39562a5c1774bb7c0e
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   now shows the tool count for connected servers and flags servers…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f|claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: 'Plugin manifests: themes and monitors should now be declared under…'
 type: change

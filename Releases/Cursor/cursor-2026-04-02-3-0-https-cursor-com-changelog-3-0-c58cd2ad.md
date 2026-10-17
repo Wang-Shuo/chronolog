@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 13
 date: '2026-04-02'
-description: 'Cursor release New Cursor Interface on 2026-04-02: 5 tracked changes
-  across Agent Mode, Developer Workflow, Editor Experience'
-machine_hash: 629e3b288cd70430ada1fba59206c3c6c4ce8177d8b4736a959fe504ca96444e
+description: 'Cursor release New Cursor Interface on 2026-04-02: 13 tracked changes
+  across Agent Mode, Editor Experience, Apps and Integrations, Automation and Scheduling…'
+machine_hash: 3cd8b910f2aaeb2c12f71d6663b632309893557a758825a7692ffffa56633eaf
 product: cursor
 product_name: Cursor
 record:
@@ -38,14 +38,22 @@ version: '3.0'
 <!-- chronolog:begin region="summary" -->
 Cursor 3 is now available.
 
-Tracked 5 of 46 candidate lines.
+Tracked 13 cards from 46 candidate lines; 2 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-04-02-in-the-agents-window-you-can-use-design-mode-to-annotate-and-target-ui-elements|In the Agents Window, you can use Design Mode to annotate and target UI elements…]] · Agent Mode
-- [[Changes/Cursor/2026-04-02-the-new-cursor-interface-allows-you-to-run-many-agents-in-parallel-across-repos|The new Cursor interface allows you to run many agents in parallel across repos…]] · Developer Workflow
-- [[Changes/Cursor/2026-04-02-it-s-simpler-more-powerful-and-centered-around-agents-while-keeping-the-depth-of|It's simpler, more powerful, and centered around agents, while keeping the depth…]] · Agent Mode
-- [[Changes/Cursor/2026-04-02-to-try-the-agents-window-upgrade-cursor-and-type-cmd-shift-p-agents-window|To try the Agents Window, upgrade Cursor and type Cmd+Shift+P - Agents Window]] · Agent Mode
-- [[Changes/Cursor/2026-04-02-you-can-switch-back-to-the-ide-anytime-or-have-both-open-simultaneously|You can switch back to the IDE anytime, or have both open simultaneously]] · Editor Experience
+- [[Changes/Cursor/2026-04-02-2-editor-experience-changes-in-3-0|2 Editor Experience changes in 3.0]] · Editor Experience · Digest
+- [[Changes/Cursor/2026-04-02-2-collaboration-changes-in-3-0|2 Collaboration changes in 3.0]] · Collaboration · Digest
+- [[Changes/Cursor/2026-04-02-4-agent-mode-changes-in-3-0|4 Agent Mode changes in 3.0]] · Agent Mode · Digest
+- [[Changes/Cursor/2026-04-02-2-developer-workflow-changes-in-3-0|2 Developer Workflow changes in 3.0]] · Developer Workflow · Digest
+- [[Changes/Cursor/2026-04-02-deprecated-the-previous-worktree-and-best-of-n-selection-from-the-editor|Deprecated the previous worktree and best-of-n selection from the Editor]] · Interface Experience · Policy
+- [[Changes/Cursor/2026-04-02-reduced-the-browser-automation-tool-surface-and-tightened-the-subagent-to-use-br|Reduced the browser automation tool surface and tightened the subagent to use…]] · Automation and Scheduling
+- [[Changes/Cursor/2026-04-02-design-mode|Design Mode]] · Agent Mode · Launch
+- [[Changes/Cursor/2026-04-02-added-an-enterprise-admin-control-for-disabling-made-with-cursor-code-attributio|Added an Enterprise Admin control for disabling "Made with Cursor" code attribution…]] · Enterprise and Administration
+- [[Changes/Cursor/2026-04-02-agent-tabs-in-the-editor|Agent Tabs in the Editor]] · Editor Experience · Launch
+- [[Changes/Cursor/2026-04-02-agents-window-da5689|Agents Window]] · Agent Mode · Launch
+- [[Changes/Cursor/2026-04-02-past-chat-transcripts-are-now-surfaced-directly-in-at-mention-search-results|Past chat transcripts are now surfaced directly in at-mention search results]] · Search and Browsing
+- [[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file diff rendering is now much faster, smoother, and less memory-heavy]] · Memory and Personalization
+- [[Changes/Cursor/2026-04-02-2-apps-and-integrations-changes-in-3-0|2 Apps and Integrations changes in 3.0]] · Apps and Integrations · Digest
 <!-- chronolog:end -->

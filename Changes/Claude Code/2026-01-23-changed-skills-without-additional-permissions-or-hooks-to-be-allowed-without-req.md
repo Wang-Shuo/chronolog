@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ee6489fc41a808a7871b672a8d499debb9a691058cbac1f7ce934c36d8b641a6
+machine_hash: 973397137c002f1e508cc2756852c6974fbd077816a66c203d635467dfb488ca
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   Added native plugin management support]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640|claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Changed skills without additional permissions or hooks to be allowed without…
 type: change

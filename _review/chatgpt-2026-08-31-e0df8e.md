@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: 8c9d0c0c4fb1426db7106c7140717660a0c19d1384eee7aab73914e6576b83a4
+machine_hash: d7e9cecc22c029222681cdcc595958ec7579950b9527897554e7b914bb132482
 product: chatgpt
 record:
   card_id: chatgpt-2026-08-31-e0df8e
@@ -14,8 +14,9 @@ record:
       task without a separate connection. Select the arrow in the address bar to see
       the tools a page provides.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: work-directly-with-a-website-s-tools-chatgpt-can-discover-tools-for-your-task-wi

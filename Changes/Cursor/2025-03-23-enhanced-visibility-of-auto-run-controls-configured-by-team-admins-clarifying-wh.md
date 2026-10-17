@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 15e9929179461b8ea91b2cda468cfa201a91dead7c221ef846249f22bbdc14dd
+machine_hash: 1485359d204d5cb04627140c610ed9b584c6ff38a07c26e9efe736309f51163f
 product: cursor
 product_name: Cursor
 record:
@@ -58,6 +58,7 @@ related_changes:
   indexing performance for teams sharing codebases]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'
 source_type: cursor_changelog
+superseded: true
 theme: collaboration
 title: Enhanced visibility of auto-run controls configured by team admins, clarifying…
 type: change

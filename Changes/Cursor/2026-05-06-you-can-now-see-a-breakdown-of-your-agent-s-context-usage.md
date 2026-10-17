@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: aced0fe2dfa422cd2d6ccdb1a210d9f85d0a472a563153d3696cab4ce36a2bd5
+machine_hash: c7bae1d442c1a6f6194d27f9482847a984db041cc418f70a440cbe063c2109e8
 product: cursor
 product_name: Cursor
 record:
@@ -59,6 +59,7 @@ related_changes:
   these stats to diagnose context issues and improve your setup across rules…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-06-3-3-https-cursor-com-changelog-05-06-26-2cf56c40|cursor-2026-05-06-3-3-https-cursor-com-changelog-05-06-26-2cf56c40]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: See a breakdown of your agent's context usage
 type: change

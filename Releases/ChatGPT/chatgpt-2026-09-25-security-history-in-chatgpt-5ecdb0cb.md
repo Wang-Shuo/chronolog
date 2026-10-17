@@ -1,9 +1,9 @@
 ---
-changes_count: 2
+changes_count: 1
 date: '2026-09-25'
-description: 'ChatGPT release Security history in ChatGPT on 2026-09-25: 2 tracked
-  changes across Safety and Privacy'
-machine_hash: 0f68ee75638668d34e188592ae22150d8c47793053c0b957975a09bd530be98c
+description: 'ChatGPT release Security history in ChatGPT on 2026-09-25: 1 tracked
+  change across Safety and Privacy'
+machine_hash: 91b072899cecc180b43cc24229a19964d9bfcaa9c48c72c0ab93c5659806ecf6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,11 +42,10 @@ version: Security history in ChatGPT
 <!-- chronolog:begin region="summary" -->
 We’re introducing security history, a new way to review recent security activity for your OpenAI account. You can see sign-ins, sign-outs, and changes to multi-factor authentication (MFA), passkeys, and other security settings. Events include the time, location, and device details. Some details may be approximate or…
 
-Tracked 2 of 2 candidate lines.
+Tracked 1 card from 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-09-25-we-re-introducing-security-history-a-new-way-to-review-recent-security-activity|ChatGPT introduces security history, a new way to review recent security activity…]] · Safety and Privacy
-- [[Changes/ChatGPT/2026-09-25-to-view-your-history-in-chatgpt-on-the-web-go-to-settings-security-and-login-the|To view your history in ChatGPT on the web, go to Settings  Security and login…]] · Safety and Privacy
+- [[Changes/ChatGPT/2026-09-25-we-re-introducing-security-history-a-new-way-to-review-recent-security-activity-6f32cc|Security history in ChatGPT]] · Safety and Privacy · Launch
 <!-- chronolog:end -->

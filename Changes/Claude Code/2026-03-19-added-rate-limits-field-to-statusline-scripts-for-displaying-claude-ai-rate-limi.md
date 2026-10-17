@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9a7e911af977cb6930cd6ed983fa38e630f40434130b8a754b721cadb9f73fde
+machine_hash: 477d1949849b9680db5810edcdea942ff546340b89b688cfd58ab66d402de65a
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   "Show turn duration" toggle to the /config menu]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a|claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added rate_limits field to statusline scripts for displaying Claude.ai rate
   limit…

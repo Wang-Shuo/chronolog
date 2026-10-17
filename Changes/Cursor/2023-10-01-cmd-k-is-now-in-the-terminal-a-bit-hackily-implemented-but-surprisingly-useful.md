@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 38c102530a819ec447289c1b1a5082b441a1efa2f9dd2dacba769aa829e84bad
+machine_hash: 872f0ab7c8422a796fa04c856cb717e628960396f1d04c1320af4fc1b6b0a5a2
 product: cursor
 product_name: Cursor
 record:
@@ -58,6 +58,7 @@ related_changes:
   an early preview of /edit in the chat!]]'
 source_release: '[[Releases/Cursor/cursor-2023-10-01-0-12-0-https-cursor-com-changelog-0-12-0-2555ff30|cursor-2023-10-01-0-12-0-https-cursor-com-changelog-0-12-0-2555ff30]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: Cmd-k is now in the terminal!
 type: change

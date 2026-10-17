@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4b086c8989be724fc1f6fb1bc511c260572bcc81012fbf6007607988f092480b
+machine_hash: b48e7cd7b4e21ef0e535b3ac236d128c78627f7257f2f35f8908accc8b1af0eb
 product: cursor
 product_name: Cursor
 record:
@@ -51,6 +51,7 @@ related_changes:
   visual consistency across slash command dialogs]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c|cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c]]'
 source_type: cursor_changelog
+superseded: true
 theme: developer-workflow
 title: To make it easier to change, debug, and review environment definitions, we
   have…

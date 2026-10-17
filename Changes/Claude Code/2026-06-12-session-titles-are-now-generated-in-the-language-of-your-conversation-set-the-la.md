@@ -15,9 +15,10 @@ diffusion:
   theme: accessibility-localization
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 325bb82dac2607f8841ed57c845c52be8b38d4e70393e537fc93b8c4465609ca
+kind: change
+machine_hash: 0d78d7479f1707b331b7241d1515b741e9d6a7338477984f2e76af50cab647cf
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Session titles are now generated in the language of your conversation (set
       the `language` setting to pin a specific language)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.176
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: session-titles-are-now-generated-in-the-language-of-your-conversation-set-the-la
@@ -71,9 +73,8 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-06-12-background-sessions-now-show-clearer-guidance-when-a-window-left-open-across-an|Background sessions now show clearer guidance when a window left open across…]] · Reliability and Performance
+- [[Changes/Claude Code/2026-06-12-2-reliability-and-performance-changes-in-v2-1-176|2 Reliability and Performance changes in v2.1.176]] · Reliability and Performance
 - [[Changes/Claude Code/2026-06-12-added-footerlinksregexes-setting-for-regex-matched-link-badges-in-the-footer-row|Added footerLinksRegexes setting for regex-matched link badges in the footer row…]] · Interface Experience
-- [[Changes/Claude Code/2026-06-12-improved-bedrock-credential-caching-credentials-from-awscredentialexport-are-now|Improved Bedrock credential caching]] · Reliability and Performance
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

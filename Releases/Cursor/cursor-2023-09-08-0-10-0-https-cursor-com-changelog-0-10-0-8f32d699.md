@@ -1,9 +1,10 @@
 ---
-changes_count: 5
+changes_count: 3
 date: '2023-09-08'
 description: 'Cursor release Better Docs Management, Staged Rollouts on 2023-09-08:
-  5 tracked changes across Apps and Integrations, Collaboration, Context Window, Model…'
-machine_hash: 180374cd81bff49134dbc9e96a356cd88d401e38ef0e5080526c168cfee4251b
+  3 tracked changes across Context Window, Memory and Personalization, Reliability
+  and…'
+machine_hash: 64f164722e53231f3403f9e42f9d12a02cce540e2d2d35d495e02aacf41d8448
 product: cursor
 product_name: Cursor
 record:
@@ -38,14 +39,12 @@ version: 0.10.0
 <!-- chronolog:begin region="summary" -->
 #Docs
 
-Tracked 5 of 9 candidate lines.
+Tracked 3 cards from 9 candidate lines; 6 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-09-08-the-main-addition-in-this-update-is-better-docs-support-this-means-you-can-add-a|The main addition in this update is better docs support]] · Apps and Integrations
-- [[Changes/Cursor/2023-09-08-that-are-actually-being-used-for-each-doc-you-have-uploaded-you-ll-also-be-able|that are actually being used for each doc you have uploaded]] · Model Support
-- [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]] · Collaboration
-- [[Changes/Cursor/2023-09-08-you-can-also-paste-a-url-into-the-chat-and-the-model-will-automatically-include|You can also paste a url into the chat and the model will automatically include…]] · Context Window
-- [[Changes/Cursor/2023-09-08-following-this-update-future-updates-should-come-as-staged-rollouts-this-will-me|Following this update, future updates should come as staged rollouts]] · Reliability and Performance
+- [[Changes/Cursor/2023-09-08-better-state-management-prevents-crashes-from-editor-using-too-much-memory|Better state management - prevents crashes from editor using too much memory]] · Memory and Personalization
+- [[Changes/Cursor/2023-09-08-long-files-in-chat|Long files in chat]] · Context Window · Launch
+- [[Changes/Cursor/2023-09-08-following-this-update-future-updates-should-come-as-staged-rollouts-this-will-me|Staged Rollouts]] · Reliability and Performance · Launch
 <!-- chronolog:end -->

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-07-03'
 description: 'ChatGPT release Browsing is temporarily disabled on 2023-07-03: 1 tracked
   change across Search and Browsing'
-machine_hash: 6fac032864da03dea405e14c2b2af1375baea71598ad7b8be6c1217430d07b8d
+machine_hash: 9112ef95a007ed3dcfa2cde46ed48bc9ee1a2acfc7aee6669f51ea7be56bdfac
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Browsing is temporarily disabled
 <!-- chronolog:begin region="summary" -->
 We've learned that the browsing beta can occasionally display content in ways we don't want, e.g. if a user specifically asks for a URL's full text, it may inadvertently fulfill this request. We are temporarily disabling Browse while we fix this.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2023-07-03-we-ve-learned-that-the-browsing-beta-can-occasionally-display-content-in-ways-we|We've learned that the browsing beta can occasionally display content in ways we…]] · Search and Browsing
+- [[Changes/ChatGPT/2023-07-03-we-ve-learned-that-the-browsing-beta-can-occasionally-display-content-in-ways-we|Browsing is temporarily disabled]] · Search and Browsing
 <!-- chronolog:end -->

@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 260fbf34d9a6bfcdf9e7e734bf5f9048b8ca4bb41f8cdad2f0b6e17c3bf48c10
+kind: change
+machine_hash: 84d98b39b98564a290534fb05ffbad7739df0a202d9f8c61e7ee13a84fab3207
 product: cursor
 product_name: Cursor
 record:
@@ -33,8 +34,9 @@ record:
   - quote: '"cursor-fast": This is a new model available in command-k and chat. Expect
       it to be a bit smarter than gpt-3.5, and with many fewer formatting errors.'
     source_release: https://cursor.com/changelog/0-23-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: cursor-fast-this-is-a-new-model-available-in-command-k-and-chat-expect-it-to-be
@@ -48,7 +50,7 @@ related_changes:
   models: you can plug in your API key to try out the newest gpt-4 and gpt-3 turbo…]]'
 - '[[Changes/Cursor/2023-12-16-ai-review-beta-this-is-a-new-experimental-feature-that-let-s-gpt-4-scan-your-git|AI
   Review (beta)]]'
-- '[[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti|Cursor-Fast
+- '[[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti-bb4c11|Cursor-Fast
   is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-18-0-23-x-https-cursor-com-changelog-0-23-x-c0ec65fe|cursor-2024-01-18-0-23-x-https-cursor-com-changelog-0-23-x-c0ec65fe]]'
 source_type: cursor_changelog
@@ -80,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-01-15 · Cursor · [[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti|Cursor-Fast is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…]]
+- Earlier: 2024-01-15 · Cursor · [[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti-bb4c11|Cursor-Fast is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…]]
 - Later: 2024-01-25 · Cursor · [[Changes/Cursor/2024-01-25-both-pro-and-api-key-users-can-also-try-out-gpt-4-0125-preview-by-configuring-th|Both pro and API key users can also try out gpt-4-0125-preview by configuring…]]
 <!-- chronolog:end -->
 

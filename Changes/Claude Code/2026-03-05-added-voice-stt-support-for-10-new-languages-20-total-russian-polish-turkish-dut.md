@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 5cae71b813975a4976d2421d76f4c8ce64bf0c58e0722bea9bca0ed419dc0763
+machine_hash: b64f5f57e53c925ab34fa14a94b8f509beaa34e91e46cd6c893221d6c23a7667
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   making an update to ChatGPT Voice that improves its ability to follow user…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
 source_type: github_releases
+superseded: true
 theme: voice
 title: Added Voice STT support for 10 new languages (20 total)
 type: change

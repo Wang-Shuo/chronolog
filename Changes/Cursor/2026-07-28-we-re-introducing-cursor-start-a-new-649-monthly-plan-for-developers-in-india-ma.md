@@ -14,9 +14,10 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: 7e4d5d2571c5b4276f76cb0752d768b7bcf995e7c1aa8248b473becfacc14dfc
+kind: launch
+machine_hash: 386a81c5bee34070edc304bcbe77fef7402867b4d85b595f357fcc2d7ac0604e
 product: cursor
 product_name: Cursor
 record:
@@ -33,8 +34,9 @@ record:
       in India, making daily agentic development accessible and payment easy with
       local pricing and UPI.
     source_release: https://cursor.com/changelog/cursor-start
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: launch
   product: cursor
   product_name: Cursor
   slug: we-re-introducing-cursor-start-a-new-649-monthly-plan-for-developers-in-india-ma
@@ -55,12 +57,12 @@ record:
     India…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-18-standard-0-50-m-input-2-50-m-output-tokens|Standard:
-  $0.50/M input, $2.50/M output tokens]]'
-- '[[Changes/Claude Code/2026-05-19-renamed-extra-usage-to-usage-credits-across-cli-copy-extra-usage-is-now-usage-cr|Renamed
-  "extra usage" to "usage credits" across CLI copy]]'
-- '[[Changes/Cursor/2026-07-22-cost-good-quality-reaching-the-highest-available-intelligence-while-optimizing-t|Cost:
-  Good quality, reaching the highest available intelligence while optimizing…]]'
+- '[[Changes/Claude Code/2026-07-22-changed-server-managed-settings-so-benign-feature-and-cost-toggles-no-longer-tri|Changed
+  server-managed settings so benign feature and cost toggles no longer trigger…]]'
+- '[[Changes/Cursor/2026-07-22-2-pricing-model-changes-in-cursor-router|2 Pricing
+  Model changes in Cursor Router]]'
+- '[[Changes/Cursor/2026-07-28-local-pricing-at-649-per-month-tax-inclusive-billed-in-inr-with-upi-or-card|Local
+  pricing at ₹649 per month, tax inclusive, billed in INR with UPI or card]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df|cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df]]'
 source_type: cursor_changelog
 theme: pricing-model
@@ -71,7 +73,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Cursor introduces Cursor Start, a new ₹649 monthly plan for developers in India…
 
-**Cursor** · 2026-07-28 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://cursor.com/changelog/cursor-start) · from [[Releases/Cursor/cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df|Cursor Start]]
+**Cursor** · 2026-07-28 · [[Themes/pricing-model|Pricing Model]] · Launch · [Official source](https://cursor.com/changelog/cursor-start) · from [[Releases/Cursor/cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df|Cursor Start]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -83,16 +85,17 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-07-28-start-bills-monthly-with-auto-renewal-and-is-available-from-july-28-2026|Start bills monthly with auto-renewal and is available from July 28, 2026]] · Pricing Model
-- [[Changes/Cursor/2026-07-28-always-on-cloud-agents-that-build-test-and-ship-code-while-you-keep-working|Always-on cloud agents that build, test, and ship code while you keep working]] · Agent Mode
-- [[Changes/Cursor/2026-07-28-existing-free-users-in-india-can-upgrade-their-plan-from-the-dashboard-new-users|Existing Free users in India can upgrade their plan from the dashboard]] · Interface Experience
+- [[Changes/Cursor/2026-07-28-local-pricing-at-649-per-month-tax-inclusive-billed-in-inr-with-upi-or-card|Local pricing at ₹649 per month, tax inclusive, billed in INR with UPI or card]] · Pricing Model
+- [[Changes/Cursor/2026-07-28-plugins-mcp-servers-hooks-and-skills-to-extend-cursor-across-your-workflows|Plugins, MCP servers, hooks, and skills to extend Cursor across your workflows]] · Apps and Integrations
+- [[Changes/Cursor/2026-07-28-always-on-cloud-agents-that-build-test-and-ship-code-while-you-keep-working-725c7c|Always-on cloud agents that build, test, and ship code while you keep working]] · Agent Mode
+- [[Changes/Cursor/2026-07-28-existing-free-users-in-india-can-upgrade-their-plan-from-the-dashboard-new-users-aeb811|Existing Free users in India can upgrade their plan from the dashboard]] · Interface Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-07-22 · Cursor · [[Changes/Cursor/2026-07-22-cost-good-quality-reaching-the-highest-available-intelligence-while-optimizing-t|Cost: Good quality, reaching the highest available intelligence while optimizing…]]
-- Later: 2026-07-29 · ChatGPT · [[Changes/ChatGPT/2026-07-29-research-rarely-happens-alone-chatgpt-for-academic-researchers-gives-faculty-and|Research rarely happens alone]]
+- Earlier: 2026-07-22 · Cursor · [[Changes/Cursor/2026-07-22-2-pricing-model-changes-in-cursor-router|2 Pricing Model changes in Cursor Router]]
+- Later: 2026-07-29 · ChatGPT · [[Changes/ChatGPT/2026-07-29-research-rarely-happens-alone-chatgpt-for-academic-researchers-gives-faculty-and|ChatGPT for Academic Researchers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

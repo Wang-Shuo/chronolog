@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: 52468a67c3bc701dfe68214617e28e177e520bda2945ae08569c3f389013e7b5
+kind: launch
+machine_hash: 5260b6ad2ceead091addf77ed93b77fa69d696e6a622331d75c2cc1136a320f4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -86,8 +87,9 @@ record:
       to use reasoning anytime by selecting Thinking from the tools menu in the message
       composer.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: launch
   product: chatgpt
   product_name: ChatGPT
   slug: today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-series-gpt-5-2-is-sm
@@ -127,12 +129,12 @@ record:
   title: Today, we’re releasing GPT-5.2, the next upgrade to the GPT-5 series
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-19-today-we-re-updating-gpt-5-pro-to-gpt-5-1-pro-in-early-testing-users-consistentl-191826|Today
-  we’re updating GPT-5 Pro to GPT-5.1 Pro]]'
-- '[[Changes/ChatGPT/2025-11-21-chatgpt-now-adds-more-inline-images-from-the-web-to-help-you-quickly-understand-83e5b8|ChatGPT
-  now adds more inline images from the web to help you quickly understand…]]'
-- '[[Changes/Cursor/2025-12-10-cursor-instruments-your-app-with-runtime-logs-to-find-the-root-cause-it-works-ac|Cursor
-  instruments your app with runtime logs to find the root cause]]'
+- '[[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4|GPT-5.1
+  in ChatGPT]]'
+- '[[Changes/ChatGPT/2025-11-19-today-we-re-updating-gpt-5-pro-to-gpt-5-1-pro-in-early-testing-users-consistentl-191826|GPT-5.1
+  Pro: Clearer, more capable answers for complex work]]'
+- '[[Changes/ChatGPT/2025-11-21-chatgpt-now-adds-more-inline-images-from-the-web-to-help-you-quickly-understand-83e5b8|More
+  images in answers]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-seri-2d708645|chatgpt-2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-seri-2d708645]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -143,7 +145,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Today, we’re releasing GPT-5.2, the next upgrade to the GPT-5 series
 
-**ChatGPT** · 2025-12-11 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-seri-2d708645|Today, we’re releasing GPT-5.2, the next upgrade to the GPT-5 series.]]
+**ChatGPT** · 2025-12-11 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-seri-2d708645|Today, we’re releasing GPT-5.2, the next upgrade to the GPT-5 series.]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -159,8 +161,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-cursor-instruments-your-app-with-runtime-logs-to-find-the-root-cause-it-works-ac|Cursor instruments your app with runtime logs to find the root cause]]
-- Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-merged-slash-commands-and-skills-simplifying-the-mental-model-with-no-change-in|Merged slash commands and skills, simplifying the mental model with no change in behavior]]
+- Earlier: 2025-11-21 · ChatGPT · [[Changes/ChatGPT/2025-11-21-chatgpt-now-adds-more-inline-images-from-the-web-to-help-you-quickly-understand-83e5b8|More images in answers]]
+- Later: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-use-the-new-agent-models-command-list-models-flag-or-models-slash-command-to-lis|Model list and selection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

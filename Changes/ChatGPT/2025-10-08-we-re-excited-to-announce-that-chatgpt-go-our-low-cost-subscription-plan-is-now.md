@@ -14,9 +14,10 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 53d672028490aa613d39ca7111704f4069b4d59ee4368c2fa697edd7cd78b87d
+kind: expansion
+machine_hash: 26e8bdd8688767f96af4f887adceaf79ba2a9a2277d227527e17662c2e3fe626
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,8 +33,9 @@ record:
       plan, is now available in 16 additional countries. For an affordable price,
       ChatGPT Go provides everything included in the Free plan, and:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: expansion
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now
@@ -44,8 +46,7 @@ record:
     countries
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-05-15-all-model-usage-is-now-unified-into-request-based-pricing|All
-  model usage is now unified into request-based pricing]]'
+- '[[Changes/Cursor/2025-08-06-usage-and-pricing-visibility|Usage and pricing visibility]]'
 - '[[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially-e5f740|ChatGPT
   launches ChatGPT Go, a new low-cost subscription plan]]'
 - '[[Changes/ChatGPT/2025-09-22-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-indonesia-for-rp-75|ChatGPT
@@ -61,7 +62,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT Go, our low cost subscription plan, is now available in 16 additional countries
 
-**ChatGPT** · 2025-10-08 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-10-08-chatgpt-go-expansion-37d00d9f|ChatGPT Go expansion]]
+**ChatGPT** · 2025-10-08 · [[Themes/pricing-model|Pricing Model]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-10-08-chatgpt-go-expansion-37d00d9f|ChatGPT Go expansion]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -74,8 +75,7 @@ type: change
 ## Also in this release
 
 - [[Changes/ChatGPT/2025-10-08-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]] · Image Generation
-- [[Changes/ChatGPT/2025-10-08-available-on-web-mobile-ios-android-and-desktop-macos-windows-note-in-cambodia-l|Available on web, mobile (iOS & Android), and desktop (macOS & Windows)]] · Mobile and Desktop
-- [[Changes/ChatGPT/2025-10-08-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]] · Memory and Personalization
+- [[Changes/ChatGPT/2025-10-08-longer-memory-for-more-personalized-responses-8c6877|Longer memory for more personalized responses]] · Memory and Personalization
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

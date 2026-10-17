@@ -4,8 +4,8 @@ date: '2026-01-08'
 description: 'Cursor · 2026-01-08 · Editor Experience: Create new rules and edit existing
   ones directly from the CLI with the /rules command.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1031
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: d829805ec77c7e888785f06a0fb6050b8a1266e067aadf3657afed9e57efa385
+kind: launch
+machine_hash: b8f7fecd59bf6d1c8ffed928026e611e49f17f2a65a3f350722dab6f0097ef3f
 product: cursor
 product_name: Cursor
 record:
@@ -31,38 +32,37 @@ record:
   - quote: Create new rules and edit existing ones directly from the CLI with the
       /rules command.
     source_release: https://cursor.com/changelog/cli-jan-08-2026
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: create-new-rules-and-edit-existing-ones-directly-from-the-cli-with-the-rules-com
+  slug: rules-generation-and-management
   source_release: cursor-2026-01-08-new-cli-features-and-improved-cli-performance-https-cursor-com-c-8afb8542
   source_type: cursor_changelog
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Create new rules and edit existing ones directly from the CLI with the /rules
-    command
+  title: Rules generation and management
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-when-writing-prompts-autocomplete-suggestions-will-appear-based-on-recent-change|When
-  writing prompts, autocomplete suggestions will appear based on recent changes]]'
-- '[[Changes/Cursor/2025-10-29-browser-can-now-be-embedded-in-editor-including-powerful-new-tools-to-select-ele|Browser
-  can now be embedded in-editor, including powerful new tools to select…]]'
 - '[[Changes/ChatGPT/2025-12-17-edit-and-review-tasks-in-pulse-anytime-after-you-create-them-please-note-that-pu|Edit
   and review tasks in Pulse anytime after you create them]]'
+- '[[Changes/Claude Code/2025-12-19-vscode-added-tab-icon-badges-showing-pending-permissions-blue-and-unread-complet|VSCode
+  Added tab icon badges showing pending permissions (blue) and unread…]]'
+- '[[Changes/Cursor/2026-01-08-added-commands-to-create-new-commands-and-edit-existing-commands|Added
+  /commands to create new commands and edit existing commands]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-08-new-cli-features-and-improved-cli-performance-https-cursor-com-c-8afb8542|cursor-2026-01-08-new-cli-features-and-improved-cli-performance-https-cursor-com-c-8afb8542]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: Create new rules and edit existing ones directly from the CLI with the /rules
-  command
+title: Rules generation and management
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Create new rules and edit existing ones directly from the CLI with the /rules command
+# Rules generation and management
 
-**Cursor** · 2026-01-08 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://cursor.com/changelog/cli-jan-08-2026) · from [[Releases/Cursor/cursor-2026-01-08-new-cli-features-and-improved-cli-performance-https-cursor-com-c-8afb8542|New CLI Features and Improved CLI Performance]]
+**Cursor** · 2026-01-08 · [[Themes/editor-experience|Editor Experience]] · Launch · [Official source](https://cursor.com/changelog/cli-jan-08-2026) · from [[Releases/Cursor/cursor-2026-01-08-new-cli-features-and-improved-cli-performance-https-cursor-com-c-8afb8542|New CLI Features and Improved CLI Performance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -74,22 +74,30 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-01-08-use-the-new-agent-models-command-list-models-flag-or-models-slash-command-to-lis|Use the new agent models command, --list-models flag, or /models slash command…]] · Developer Workflow
-- [[Changes/Cursor/2026-01-08-enable-and-disable-mcp-servers-on-the-fly-with-mcp-enable-and-mcp-disable-comman|Enable and disable MCP servers on the fly with /mcp enable and /mcp disable commands]] · Apps and Integrations
+- [[Changes/Cursor/2026-01-08-2-reliability-and-performance-changes-in-new-cli-features-and-improved-cli|2 Reliability and Performance changes in New CLI Features and Improved CLI…]] · Reliability and Performance
+- [[Changes/Cursor/2026-01-08-use-the-new-agent-models-command-list-models-flag-or-models-slash-command-to-lis|Model list and selection]] · Model Support
+- [[Changes/Cursor/2026-01-08-enable-and-disable-mcp-servers-on-the-fly-with-mcp-enable-and-mcp-disable-comman|Enabling MCP servers]] · Apps and Integrations
+- [[Changes/Cursor/2026-01-08-added-commands-to-create-new-commands-and-edit-existing-commands|Added /commands to create new commands and edit existing commands]] · Editor Experience
+- [[Changes/Cursor/2026-01-08-added-rules-to-create-new-rules-and-edit-existing-rules|Added /rules to create new rules and edit existing rules]] · Editor Experience
+- [[Changes/Cursor/2026-01-08-added-mcp-enable-mcp-disable-commands-to-manage-mcp-servers|Added /mcp enable, /mcp disable commands to manage MCP servers]] · Apps and Integrations
+- [[Changes/Cursor/2026-01-08-3-developer-workflow-changes-in-new-cli-features-and-improved-cli|3 Developer Workflow changes in New CLI Features and Improved CLI…]] · Developer Workflow
+- [[Changes/Cursor/2026-01-08-new-agent-command-is-now-the-primary-cli-entrypoint-cursor-agent-remains-as-a-ba|New agent command is now the primary CLI entrypoint. cursor-agent remains…]] · Agent Mode
 - [[Changes/Cursor/2026-01-08-this-release-introduces-new-cli-controls-for-models-mcp-management-rules-and-com|Cursor introduces new CLI controls for models, MCP management, rules and commands…]] · Apps and Integrations
+- [[Changes/Cursor/2026-01-08-afterfileedit-hook-now-correctly-provides-old-string-with-the-file-s-previous-co|afterFileEdit hook now correctly provides old_string with the file's previous…]] · Editor Experience
+- [[Changes/Cursor/2026-01-08-mcp-server-names-with-spaces-are-now-supported-in-all-mcp-commands|MCP server names with spaces are now supported in all /mcp commands]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-12-17 · ChatGPT · [[Changes/ChatGPT/2025-12-17-edit-and-review-tasks-in-pulse-anytime-after-you-create-them-please-note-that-pu|Edit and review tasks in Pulse anytime after you create them]]
-- Later: 2026-01-16 · Claude Code · [[Changes/Claude Code/2026-01-16-added-external-editor-support-ctrl-g-in-askuserquestion-other-input-field|Added external editor support (Ctrl+G) in AskUserQuestion "Other" input field]]
+- Earlier: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-vscode-added-tab-icon-badges-showing-pending-permissions-blue-and-unread-complet|VSCode Added tab icon badges showing pending permissions (blue) and unread…]]
+- Later: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-2-editor-experience-changes-in-v2-1-6|2 Editor Experience changes in v2.1.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -14,9 +14,10 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 7596a58954214a1e922e163aff40c50e3a3e624fe07d9697b7e1b717c465f0e3
+kind: change
+machine_hash: 0357c91f445987caf1d5ae44c79d4d702000f1c8d6c06c35b810323542ca8f2d
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: If you're not logged in, we show the popup to log in again
     source_release: https://cursor.com/changelog/0-2-36
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: if-you-re-not-logged-in-we-show-the-popup-to-log-in-again
@@ -66,17 +68,16 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2023-06-27-you-can-now-use-run-debug-in-cursor-again-the-toolbar-is-back|Use Run & debug in Cursor again (the toolbar is back)]] · Developer Workflow
 - [[Changes/Cursor/2023-06-27-cursor-deep-linking-works-now-so-you-should-be-able-to-log-in-to-extensions|cursor:// deep linking works now, so you should be able to log in to extensions]] · Apps and Integrations
 - [[Changes/Cursor/2023-06-27-cursor-is-now-based-on-version-1-79-2-of-vscodium-which-comes-with-security-upda|Cursor is now based on version 1.79.2 of VSCodium, which comes with security updates…]] · Safety and Privacy
-- [[Changes/Cursor/2023-06-27-early-support-for-slash-commands|Early support for slash commands]] · Developer Workflow
+- [[Changes/Cursor/2023-06-27-you-can-now-use-run-debug-in-cursor-again-the-toolbar-is-back-db8146|Use Run & debug in Cursor again (the toolbar is back)]] · Developer Workflow
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
 - Earlier: 2023-06-06 · Cursor · [[Changes/Cursor/2023-06-06-login-via-github-then-add-the-repo-you-wish-to-sync|Login via github, then add the repo you wish to sync!]]
-- Later: 2023-07-25 · Cursor · [[Changes/Cursor/2023-07-25-you-can-now-chat-with-any-codebase-no-need-to-have-a-github-repo-login-through-g|Chat with any codebase]]
+- Later: 2023-07-25 · Cursor · [[Changes/Cursor/2023-07-25-you-can-now-chat-with-any-codebase-no-need-to-have-a-github-repo-login-through-g|"with codebase" for all codebases!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

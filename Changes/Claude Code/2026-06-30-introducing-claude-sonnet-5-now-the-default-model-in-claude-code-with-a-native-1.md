@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: d44511f213c40032dd9a5989695271c94f7fc2595f13e8efcc328d96ec6b1129
+kind: launch
+machine_hash: db7857d4eb775ae844de13d446bbb37b93a6112d45a2274ef534ddebfcc0d100
 product: claude-code
 product_name: Claude Code
 record:
@@ -33,8 +34,9 @@ record:
       a native 1M-token context window and promotional pricing of $2/$10 per Mtok
       through August 31. Update to version 2.1.197 for access. https://www.anthropic.com/news/claude-sonnet-5'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.197
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: launch
   product: claude-code
   product_name: Claude Code
   slug: introducing-claude-sonnet-5-now-the-default-model-in-claude-code-with-a-native-1
@@ -63,9 +65,8 @@ record:
 related_changes:
 - '[[Changes/Claude Code/2026-06-25-added-claude-code-assistant-response-opentelemetry-log-event-containing-the-mode|Added
   claude_code.assistant_response OpenTelemetry log event containing…]]'
-- '[[Changes/ChatGPT/2026-06-26-as-of-june-26-2026-gpt-4-5-is-no-longer-available-in-chatgpt-including-for-custo|As
-  of June 26, 2026, GPT-4.5 is no longer available in ChatGPT, including for custom
-  GPTs]]'
+- '[[Changes/ChatGPT/2026-06-26-as-of-june-26-2026-gpt-4-5-is-no-longer-available-in-chatgpt-including-for-custo|Retiring
+  GPT-4.5]]'
 - '[[Changes/Claude Code/2026-06-29-added-support-for-organization-default-models-admins-set-it-in-the-org-console-i|Added
   support for organization default models]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-30-v2-1-197-github-346856026-11e4aa1f|claude-code-2026-06-30-v2-1-197-github-346856026-11e4aa1f]]'
@@ -78,7 +79,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Introducing Claude Sonnet 5
 
-**Claude Code** · 2026-06-30 · [[Themes/model-support|Model Support]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.197) · from [[Releases/Claude Code/claude-code-2026-06-30-v2-1-197-github-346856026-11e4aa1f|v2.1.197]]
+**Claude Code** · 2026-06-30 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.197) · from [[Releases/Claude Code/claude-code-2026-06-30-v2-1-197-github-346856026-11e4aa1f|v2.1.197]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -95,7 +96,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-added-support-for-organization-default-models-admins-set-it-in-the-org-console-i|Added support for organization default models]]
-- Later: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-gateway-added-claude-platform-on-aws-anthropicaws-as-an-upstream-provider-model|Gateway: added Claude Platform on AWS (anthropicAws) as an upstream provider]]
+- Later: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-2-model-support-changes-in-v2-1-198|2 Model Support changes in v2.1.198]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

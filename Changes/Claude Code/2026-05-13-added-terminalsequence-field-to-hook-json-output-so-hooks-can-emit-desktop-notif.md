@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 425cd1ec8b7b77cfd84c7b29aa1cca80d0772e1835c59da22332751ff970d8d3
+machine_hash: c52dff468acb1534b774e8eba10e30a89930b3af36f7a66484b8282c39c49f55
 product: claude-code
 product_name: Claude Code
 record:
@@ -59,6 +59,7 @@ related_changes:
   now warn when a default component folder (e.g. commands/) is silently…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added terminalSequence field to hook JSON output so hooks can emit desktop…
 type: change

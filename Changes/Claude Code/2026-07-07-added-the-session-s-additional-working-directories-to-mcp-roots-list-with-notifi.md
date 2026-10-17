@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e47828dd77883ff19d2a4bc0b52cdd1901516ee64ff9bbc26444e57e9ed30aac
+machine_hash: 3a1655e0bc102a8d7cc0d068a832eb40f930305da59b5f23e0dfe0413211006b
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   MCP error messages]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc|claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added the session's additional working directories to MCP roots/list…
 type: change

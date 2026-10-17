@@ -3,7 +3,7 @@ changes_count: 3
 date: '2023-02-09'
 description: 'ChatGPT release Introducing ChatGPT Plus on 2023-02-09: 3 tracked changes
   across Interface Experience, Model Support, Reliability and Performance'
-machine_hash: 41f50e5ed17e9459043eba0c9ca38c85a6e0d9402aa5d7a978a1ae0f13e60e65
+machine_hash: 7c814206be0966457be419b49d955bd3cdf6da62a112b8c1bd303ab71c5651bf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,12 +40,12 @@ version: Introducing ChatGPT Plus
 <!-- chronolog:begin region="summary" -->
 As we recently announced, our Plus plan comes with early access to new, experimental features. We are beginning to roll out the ability for Plus users to choose between different versions of ChatGPT:
 
-Tracked 3 of 4 candidate lines.
+Tracked 3 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2023-02-09-version-selection-is-made-easy-with-a-dedicated-dropdown-menu-at-the-top-of-the|Version selection is made easy with a dedicated dropdown menu at the top of the page]] · Interface Experience
+- [[Changes/ChatGPT/2023-02-09-as-we-recently-announced-our-plus-plan-comes-with-early-access-to-new-experiment-0e68f2|As we recently announced, our Plus plan comes with early access to new, experimental…]] · Interface Experience
 - [[Changes/ChatGPT/2023-02-09-default-the-standard-chatgpt-model|Default: the standard ChatGPT model]] · Model Support
 - [[Changes/ChatGPT/2023-02-09-turbo-optimized-for-speed-alpha|Turbo: optimized for speed (alpha)]] · Reliability and Performance
 <!-- chronolog:end -->

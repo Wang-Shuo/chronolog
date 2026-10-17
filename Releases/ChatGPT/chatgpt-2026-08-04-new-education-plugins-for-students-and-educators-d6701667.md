@@ -1,9 +1,9 @@
 ---
-changes_count: 2
+changes_count: 1
 date: '2026-08-04'
 description: 'ChatGPT release New education plugins for students and educators on
-  2026-08-04: 2 tracked changes across Apps and Integrations'
-machine_hash: 89b971bf509087735b4467d6d3dc5d917a9528de8b304e49df51603e5aad9583
+  2026-08-04: 1 tracked change across Apps and Integrations'
+machine_hash: dd64146b89c7f135d62658f1240a108338b423569bb1e06e4964ba6feb207881
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,11 +40,10 @@ version: New education plugins for students and educators
 <!-- chronolog:begin region="summary" -->
 Three new plugins for ChatGPT Work and Codex help students and educators work with their own course materials, connected tools, and institution-approved apps.
 
-Tracked 2 of 6 candidate lines.
+Tracked 1 card from 6 candidate lines; 3 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-08-04-three-new-plugins-for-chatgpt-work-and-codex-help-students-and-educators-work-wi|Three new plugins for ChatGPT Work and Codex help students and educators work…]] · Apps and Integrations
-- [[Changes/ChatGPT/2026-08-04-the-plugins-are-available-through-chatgpt-edu-and-chatgpt-for-teachers-district|The plugins are available through ChatGPT Edu and ChatGPT for Teachers district…]] · Apps and Integrations
+- [[Changes/ChatGPT/2026-08-04-three-new-plugins-for-chatgpt-work-and-codex-help-students-and-educators-work-wi-e7aee9|Three new plugins for ChatGPT Work and Codex help students and educators work…]] · Apps and Integrations
 <!-- chronolog:end -->

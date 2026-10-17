@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: be0ff80e275e273f8b2361eec1e8aa25b4634aec09461aa83c11802eba95f5ca
+machine_hash: 1977f1730ed7b58ff204a3e83b0df3a2826c11d432cb57978d72bf5f1004df0f
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   management! Go to Cursor Settings  Features  Docs to re-index your docs]]'
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: 'MCP: Improved reliability and quality of life enhancements for building MCP
   servers…'

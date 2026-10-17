@@ -15,9 +15,10 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: ae48922d3b7e50265c29c955045d6bbc860bb77d95143e1eb5d40952331b15de
+kind: change
+machine_hash: 8f40b2f84fd6c89f756d1e54791b8a8dcf2b9bf0e3c0227798d9978fdd6468ab
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,8 +48,9 @@ record:
       updates improve how ChatGPT retrieves and presents product information from
       merchants and other providers using the Agentic Commerce Protocol (ACP).
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec
@@ -69,26 +71,24 @@ record:
     score: 50
     theme: search-browsing
   theme_resolution: manual-backfill-review-v1
-  title: ChatGPT improves shopping to make it easier to discover, compare, and decide
-    on products
+  title: Shopping updates in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-29-ask-chatgpt-a-shopping-question-and-it-finds-organic-unsponsored-product-results|Ask
-  ChatGPT a shopping question and it finds organic, unsponsored product results…]]'
+- '[[Changes/Cursor/2026-01-16-added-webfetch-websearch-tools-approval-options-for-granular-controls-over-web-s|Added
+  WebFetch, WebSearch tools, & approval options for granular controls over web…]]'
 - '[[Changes/ChatGPT/2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results|Open
   search results in a new tab]]'
-- '[[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|The
-  legacy deep research mode will be removed on Thursday, March 26, 2026]]'
+- '[[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|Legacy
+  deep research mode deprecation notice]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-24-shopping-updates-in-chatgpt-4ca736aa|chatgpt-2026-03-24-shopping-updates-in-chatgpt-4ca736aa]]'
 source_type: chatgpt_changelog
 theme: search-browsing
-title: ChatGPT improves shopping to make it easier to discover, compare, and decide
-  on products
+title: Shopping updates in ChatGPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT improves shopping to make it easier to discover, compare, and decide on products
+# Shopping updates in ChatGPT
 
 **ChatGPT** · 2026-03-24 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-24-shopping-updates-in-chatgpt-4ca736aa|Shopping updates in ChatGPT]]
 <!-- chronolog:end -->
@@ -106,8 +106,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-03-19 · ChatGPT · [[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|The legacy deep research mode will be removed on Thursday, March 26, 2026]]
-- Later: 2026-04-08 · ChatGPT · [[Changes/ChatGPT/2026-04-08-the-outlook-email-and-calendar-apps-for-chatgpt-can-now-help-with-delegated-or-s|The Outlook Email and Calendar apps for ChatGPT can now help with delegated…]]
+- Earlier: 2026-03-19 · ChatGPT · [[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|Legacy deep research mode deprecation notice]]
+- Later: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-past-chat-transcripts-are-now-surfaced-directly-in-at-mention-search-results|Past chat transcripts are now surfaced directly in at-mention search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

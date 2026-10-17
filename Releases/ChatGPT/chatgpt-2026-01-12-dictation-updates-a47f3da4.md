@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-01-12'
 description: 'ChatGPT release Dictation Updates on 2026-01-12: 1 tracked change across
   Voice and Audio'
-machine_hash: 77326cde68302a031312baf991c71849a350033caecba0e17247bdd9260773d6
+machine_hash: 0efb09f1000e6d04996915caccbbaac2c4511ba268243e333274382c686825ad
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,10 +39,10 @@ version: Dictation Updates
 <!-- chronolog:begin region="summary" -->
 We’re improving our dictation capabilities in ChatGPT for all logged-in users, significantly reducing empty transcriptions and improving accuracy.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-01-12-we-re-improving-our-dictation-capabilities-in-chatgpt-for-all-logged-in-users-si|We’re improving our dictation capabilities in ChatGPT for all logged-in users…]] · Voice and Audio
+- [[Changes/ChatGPT/2026-01-12-we-re-improving-our-dictation-capabilities-in-chatgpt-for-all-logged-in-users-si|Dictation Updates]] · Voice and Audio
 <!-- chronolog:end -->

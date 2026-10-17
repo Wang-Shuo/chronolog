@@ -3,7 +3,7 @@ changes_count: 2
 date: '2026-08-13'
 description: 'ChatGPT release Google Drive is now in Library on 2026-08-13: 2 tracked
   changes across Collaboration, Search and Browsing'
-machine_hash: 801d90f6f5e895e459e5a5152ebf589ae37a2cb7a88deeb4db51688865188f79
+machine_hash: 84f182687cb57724bf156de0a9c66cbcdca5f491622c667d05df07f846234d84
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,11 +41,11 @@ version: Google Drive is now in Library
 <!-- chronolog:begin region="summary" -->
 If you have the Google Drive plugin connected, you can now see and browse your Google Drive files and folders directly from Library, including items shared directly with you. You can also quickly pull up a Drive file from the composer or with @mentions and add it to any chat—without uploading it again.
 
-Tracked 2 of 4 candidate lines.
+Tracked 2 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-08-13-if-you-have-the-google-drive-plugin-connected-you-can-now-see-and-browse-your-go|If you have the Google Drive plugin connected, you can now see and browse…]] · Search and Browsing
 - [[Changes/ChatGPT/2026-08-13-the-initial-experience-includes-my-drive-and-files-and-folders-shared-directly-w|The initial experience includes My Drive and files and folders shared directly with you]] · Collaboration
+- [[Changes/ChatGPT/2026-08-13-if-you-have-the-google-drive-plugin-connected-you-can-now-see-and-browse-your-go-97f18f|If you have the Google Drive plugin connected, you can now see and browse…]] · Search and Browsing
 <!-- chronolog:end -->

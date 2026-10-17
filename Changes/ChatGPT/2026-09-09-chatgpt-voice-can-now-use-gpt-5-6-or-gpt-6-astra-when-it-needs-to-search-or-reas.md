@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: a484a78b18298f0243b7fa18fa19ae3ca7beac553bc6e3d4f2968e710696e414
+machine_hash: 1cce076cf150fb043c79995f428d87162aeefe77f409f384e9eef66ad9aa60db
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -68,6 +68,7 @@ related_changes:
   introduces GPT-6 Astra, with improvements in coding, research, computer use…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-09-updated-models-and-usage-limits-in-chatgpt-voice-03e6b03f|chatgpt-2026-09-09-updated-models-and-usage-limits-in-chatgpt-voice-03e6b03f]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: ChatGPT Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or
   reason…

@@ -4,8 +4,8 @@ date: '2025-12-22'
 description: 'ChatGPT · 2025-12-22 · Memory and Personalization: Today we’re rolling
   out Your Year with ChatGPT, an optional, personalized end-of-year experience that…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 886
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: f3e2a0721203bdb783fd54411019ec96f3e03ee391533f37fa202d981d45293d
+kind: change
+machine_hash: 37ccd6d73eb42e8f4d0e9ad1a572e4036c8479bae4261a0b0b1fa1a74168eb7b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,8 +53,9 @@ record:
       only see basic chat statistics.At launch, this experience is available in English
       in the United States, United Kingdom, Canada, Australia, and New Zealand.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: today-we-re-rolling-out-your-year-with-chatgpt-an-optional-personalized-end-of-y
@@ -69,23 +71,24 @@ record:
     - enterprise
     score: 50
     theme: enterprise-admin
-  title: ChatGPT rolls out Your Year with ChatGPT, an optional, personalized end-of-year…
+  title: Your Year with ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-12-19-be-more-or-less-enthusiastic|Be more or less enthusiastic]]'
-- '[[Changes/ChatGPT/2025-12-19-in-addition-to-selecting-a-base-style-and-tone-preset-like-candid-and-friendly-y|In
-  addition to selecting a base style and tone preset—like candid and friendly—you…]]'
-- '[[Changes/ChatGPT/2025-12-19-use-more-or-fewer-headers-lists|Use more or fewer
-  headers & lists]]'
+- '[[Changes/ChatGPT/2025-11-07-previously-changes-you-made-to-your-chatgpt-personality-or-custom-instructions-o|Personality
+  and custom instructions now apply to all chats]]'
+- '[[Changes/ChatGPT/2025-11-24-shopping-research-is-a-new-interactive-experience-that-helps-you-find-the-right-0a021d|Shopping
+  research in ChatGPT]]'
+- '[[Changes/ChatGPT/2025-12-19-in-addition-to-selecting-a-base-style-and-tone-preset-like-candid-and-friendly-y-21da79|New
+  detailed characteristic controls]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-22-your-year-with-chatgpt-6dbbef4d|chatgpt-2025-12-22-your-year-with-chatgpt-6dbbef4d]]'
 source_type: chatgpt_changelog
 theme: memory
-title: ChatGPT rolls out Your Year with ChatGPT, an optional, personalized end-of-year…
+title: Your Year with ChatGPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT rolls out Your Year with ChatGPT, an optional, personalized end-of-year…
+# Your Year with ChatGPT
 
 **ChatGPT** · 2025-12-22 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-12-22-your-year-with-chatgpt-6dbbef4d|Your Year with ChatGPT]]
 <!-- chronolog:end -->
@@ -103,14 +106,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-12-19 · ChatGPT · [[Changes/ChatGPT/2025-12-19-use-more-or-fewer-headers-lists|Use more or fewer headers & lists]]
+- Earlier: 2025-12-19 · ChatGPT · [[Changes/ChatGPT/2025-12-19-in-addition-to-selecting-a-base-style-and-tone-preset-like-candid-and-friendly-y-21da79|New detailed characteristic controls]]
 - Later: 2026-01-07 · ChatGPT · [[Changes/ChatGPT/2026-01-07-we-re-starting-to-roll-out-health-a-dedicated-space-in-chatgpt-for-health-and-we|We’re starting to roll out Health, a dedicated space in ChatGPT for health…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

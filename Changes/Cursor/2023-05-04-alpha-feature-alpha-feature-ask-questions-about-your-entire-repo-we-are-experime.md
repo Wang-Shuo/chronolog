@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: f74b7db3409c1b106f2ee579c9c99abce30ce6bed6966c40faa8ebccd9e002b0
+machine_hash: 00fcfbba2a6209c7b5ee1ff5f690e352fe14859fc2823192dab6a0d5999a6beb
 product: cursor
 product_name: Cursor
 record:
@@ -56,6 +56,7 @@ related_changes:
   prompt length for project generation]]'
 source_release: '[[Releases/Cursor/cursor-2023-05-04-0-2-9-https-cursor-com-changelog-0-2-9-fbb1587c|cursor-2023-05-04-0-2-9-https-cursor-com-changelog-0-2-9-fbb1587c]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: 'Alpha feature: 🧠 Alpha feature: Ask questions about your entire repo 🛠️'
 type: change

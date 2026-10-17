@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: da3bb3098076f697ef569c4b0f38a1befffdf938d19afcdf1348284b43663050
+machine_hash: e9f121a760f0bc064b19374aa36b5d13e82e45d433da51b720e16b864e03785e
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   Ctrl+Backspace now deletes the previous word]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba|claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Ctrl+A and Ctrl+E now move to the start/end of the current logical line…
 type: change

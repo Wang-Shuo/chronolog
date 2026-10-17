@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 412d31cdec06a58138f3d6910f5dff2d9c29da1dc49f5da9c8fea3f737402d83
+machine_hash: 057fd1a0b94d4bae47f0679d6c2bd553c49acdbbb353389d3713f2f41db00015
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   a per-session cap on subagent spawns…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added claude auto-mode reset to restore the default auto-mode configuration…
 type: change

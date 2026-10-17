@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: bb160fbc120de76af993dacba28effee4401c90091988aa71dc723e37084efe1
+machine_hash: 1dde005d26453a184851f0cf534f333d94b0dadb1e4defeabe8fd8ca423b2757
 product: claude-code
 product_name: Claude Code
 record:
@@ -63,6 +63,7 @@ related_changes:
   auto mode for Claude API and Enterprise users, and on Bedrock, Vertex…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'
 source_type: github_releases
+superseded: true
 theme: pricing-model
 title: Added dollar amounts to the Claude apps gateway spend limit in /usage…
 type: change

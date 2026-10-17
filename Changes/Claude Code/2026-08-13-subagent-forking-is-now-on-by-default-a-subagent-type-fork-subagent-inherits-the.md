@@ -4,8 +4,8 @@ date: '2026-08-13'
 description: 'Claude Code · 2026-08-13 · Agent Mode: Subagent forking is now on by
   default: a `subagent_type: "fork"` subagent inherits the full conversation and prompt…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1134
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: 63887d303249cf660175293f131399d7729ca5f42ff91d675c5ff40777cafcde
+kind: change
+machine_hash: 45c9474ad552f09262738a8150ab367dd65c9cbf562703db998a060a2a620f04
 product: claude-code
 product_name: Claude Code
 record:
@@ -33,8 +34,9 @@ record:
       inherits the full conversation and prompt cache, and non-teammate agent spawns
       in interactive sessions now run in the background by default'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.232
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: subagent-forking-is-now-on-by-default-a-subagent-type-fork-subagent-inherits-the
@@ -44,12 +46,12 @@ record:
   title: Subagent forking is now on by default
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-28-always-on-cloud-agents-that-build-test-and-ship-code-while-you-keep-working|Always-on
-  cloud agents that build, test, and ship code while you keep working]]'
-- '[[Changes/Claude Code/2026-08-06-added-a-warning-when-workflow-agents-forked-skills-slash-commands-or-resumed-bac|Added
-  a warning when workflow agents, forked skills, slash commands, or resumed…]]'
-- '[[Changes/Claude Code/2026-08-06-added-a-teleport-hint-in-cloud-sessions-showing-how-to-continue-locally-with-cla|Added
-  a /teleport hint in cloud sessions showing how to continue locally…]]'
+- '[[Changes/Claude Code/2026-08-07-removed-the-200-subagent-per-session-spawn-cap-long-running-sessions-no-longer-r|Removed
+  the 200-subagent-per-session spawn cap]]'
+- '[[Changes/Claude Code/2026-08-12-improved-workflow-fan-outs-to-stagger-same-prefix-sibling-agents-so-subsequent-a|Improved
+  workflow fan-outs to stagger same-prefix sibling agents so subsequent…]]'
+- '[[Changes/Claude Code/2026-08-13-4-agent-mode-changes-in-v2-1-232|4 Agent Mode
+  changes in v2.1.232]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-13-v2-1-232-github-370225682-71e478db|claude-code-2026-08-13-v2-1-232-github-370225682-71e478db]]'
 source_type: github_releases
 theme: agent-mode
@@ -70,20 +72,32 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
+## Also in this release
 
+- [[Changes/Claude Code/2026-08-13-enterprise-policy-a-url-typed-blockedmarketplaces-entry-for-a-bare-repo-url-keep|Enterprise policy: a url-typed blockedMarketplaces entry for a bare repo URL keeps…]] · Enterprise and Administration
+- [[Changes/Claude Code/2026-08-13-4-apps-and-integrations-changes-in-v2-1-232|4 Apps and Integrations changes in v2.1.232]] · Apps and Integrations
+- [[Changes/Claude Code/2026-08-13-improved-fullscreen-streaming-long-sessions-stay-responsive-because-the-whole-co|Improved fullscreen streaming]] · Interface Experience
+- [[Changes/Claude Code/2026-08-13-4-agent-mode-changes-in-v2-1-232|4 Agent Mode changes in v2.1.232]] · Agent Mode
+- [[Changes/Claude Code/2026-08-13-remote-control-resuming-a-conversation-whose-session-was-deleted-from-claude-ai|Remote Control: resuming a conversation whose session was deleted from claude.ai…]] · Account and Access
+- [[Changes/Claude Code/2026-08-13-cowork-sessions-no-longer-inline-external-imports-from-user-scope-memory-files|Cowork sessions no longer inline external @-imports from user-scope memory files]] · Memory and Personalization
+- [[Changes/Claude Code/2026-08-13-hardened-the-auto-generated-cross-session-messaging-socket-directory-on-shared-t|Hardened the auto-generated cross-session messaging socket directory on shared /tmp]] · Collaboration
+- [[Changes/Claude Code/2026-08-13-gateway-the-desktop-overlay-now-accepts-every-released-desktop-setting-was-11-ha|Gateway: the desktop: overlay now accepts every released Desktop setting…]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-08-13-9-safety-and-privacy-changes-in-v2-1-232|9 Safety and Privacy changes in v2.1.232]] · Safety and Privacy
+- [[Changes/Claude Code/2026-08-13-remote-control-the-terminal-now-says-whether-a-session-was-taken-over-by-another|Remote Control: the terminal now says whether a session was taken over by another…]] · Developer Workflow
+- [[Changes/Claude Code/2026-08-13-pasted-and-clipboard-images-are-read-without-blocking-the-event-loop|Pasted and clipboard images are read without blocking the event loop]] · Automation and Scheduling
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-06 · Claude Code · [[Changes/Claude Code/2026-08-06-added-a-teleport-hint-in-cloud-sessions-showing-how-to-continue-locally-with-cla|Added a /teleport hint in cloud sessions showing how to continue locally…]]
-- Later: 2026-08-13 · Cursor · [[Changes/Cursor/2026-08-13-this-release-introduces-builds-ready-to-use-copies-of-your-development-environme|Cursor introduces builds]]
+- Earlier: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-improved-workflow-fan-outs-to-stagger-same-prefix-sibling-agents-so-subsequent-a|Improved workflow fan-outs to stagger same-prefix sibling agents so subsequent…]]
+- Later: 2026-08-13 · Cursor · [[Changes/Cursor/2026-08-13-2-agent-mode-changes-in-08-13-26|2 Agent Mode changes in 08.13.26]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

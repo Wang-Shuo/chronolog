@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 2800c6f00239e2b2db19731004e44c305af9b8a92b1a590b1c9a2d10e5a0db81
+machine_hash: 4499d6f62d9930fd9ed297168448dda073e7fca4b2c6a82381be9c3da6bc9d98
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   plugin name to skill descriptions and /skills menu for better discoverability]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6|claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added support for reading enabledPlugins and extraKnownMarketplaces…
 type: change

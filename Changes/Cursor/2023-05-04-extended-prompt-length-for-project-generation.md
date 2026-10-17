@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0a2624336fa2eea8783e829153307e3e03e8dc162ec793f67329a93584fa6f7d
+machine_hash: 86e2fe309b81d8ae75fca0c4340c9a7425c7f8ef37c137bfd476ec90fb2c9046
 product: cursor
 product_name: Cursor
 record:
@@ -42,6 +42,7 @@ record:
   type: change
 source_release: '[[Releases/Cursor/cursor-2023-05-04-0-2-9-https-cursor-com-changelog-0-2-9-fbb1587c|cursor-2023-05-04-0-2-9-https-cursor-com-changelog-0-2-9-fbb1587c]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: Extended prompt length for project generation
 type: change

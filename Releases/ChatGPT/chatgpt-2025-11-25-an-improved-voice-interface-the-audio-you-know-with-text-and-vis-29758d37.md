@@ -1,10 +1,9 @@
 ---
-changes_count: 5
+changes_count: 2
 date: '2025-11-25'
 description: 'ChatGPT release An improved Voice interface: the audio you know, with
-  text and visuals when you need them. on 2025-11-25: 5 tracked changes across Voice
-  and…'
-machine_hash: 7364683d8f28feb1a23bc1e9a7787a232877e24de69194bb1dd999a16adb002d
+  text and visuals when you need them. on 2025-11-25: 2 tracked changes across…'
+machine_hash: 2a33b1b622b2eeb604bf5bac2b4f18314f252658126569352509c2f8f70c474f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,14 +46,11 @@ version: 'An improved Voice interface: the audio you know, with text and visuals
 <!-- chronolog:begin region="summary" -->
 We’re making ChatGPT Voice a seamless part of the ChatGPT experience, so you can use voice right inside the chat interface you already use every day—no separate mode required.Many of you have asked for a more flexible Voice experience—now, you can speak, listen, and see your conversation at the same time. Answers will…
 
-Tracked 5 of 7 candidate lines.
+Tracked 2 cards from 7 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-11-25-type-back-when-you-can-t-talk-and-still-get-a-voice-response|Type back when you can’t talk and still get a Voice response]] · Voice and Audio
-- [[Changes/ChatGPT/2025-11-25-follow-along-with-typed-answers-as-you-listen|Follow along with typed answers as you listen]] · Voice and Audio
-- [[Changes/ChatGPT/2025-11-25-we-re-making-chatgpt-voice-a-seamless-part-of-the-chatgpt-experience-so-you-can-daf32e|We’re making ChatGPT Voice a seamless part of the ChatGPT experience, so you can use…]] · Voice and Audio
-- [[Changes/ChatGPT/2025-11-25-refer-back-to-earlier-messages-without-interrupting-the-conversation|Refer back to earlier messages without interrupting the conversation]] · Voice and Audio
+- [[Changes/ChatGPT/2025-11-25-we-re-making-chatgpt-voice-a-seamless-part-of-the-chatgpt-experience-so-you-can-2bc316|We’re making ChatGPT Voice a seamless part of the ChatGPT experience, so you can use…]] · Voice and Audio
 - [[Changes/ChatGPT/2025-11-25-share-photos-to-discuss-them-out-loud|Share photos to discuss them out loud]] · Collaboration
 <!-- chronolog:end -->

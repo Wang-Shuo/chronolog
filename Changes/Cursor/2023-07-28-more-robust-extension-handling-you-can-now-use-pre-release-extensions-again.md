@@ -4,8 +4,8 @@ date: '2023-07-28'
 description: 'Cursor · 2023-07-28 · Apps and Integrations: More robust extension handling.
   You can now use pre-release extensions again.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 127
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 990dc8c14f5296235e3a776441927d7177bb17b63e7a81838666a130a38ac63d
+kind: change
+machine_hash: 6bcc55423ab2868154129d8a91e2da1b4f9075a6a71bdd2d2ba0bd2e60a78885
 product: cursor
 product_name: Cursor
 record:
@@ -29,8 +30,9 @@ record:
   - quote: More robust extension handling. You can now use pre-release extensions
       again.
     source_release: https://cursor.com/changelog/0-5-1-nightly
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: more-robust-extension-handling-you-can-now-use-pre-release-extensions-again
@@ -42,12 +44,12 @@ record:
   title: More robust extension handling
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-07-makes-it-clearer-which-docs-are-being-looked-at-by-the-ai|Makes
-  it clearer which docs are being looked at by the AI]]'
 - '[[Changes/Cursor/2023-07-07-improved-the-add-new-doc-experience|Improved the "@Add
   new doc" experience]]'
-- '[[Changes/Cursor/2023-07-07-ai-will-respond-with-citations-when-you-reference-docs|AI
-  will respond with citations when you reference docs]]'
+- '[[Changes/Cursor/2023-07-07-makes-it-clearer-which-docs-are-being-looked-at-by-the-ai-c07254|Makes
+  it clearer which docs are being looked at by the AI]]'
+- '[[Changes/Cursor/2023-07-07-importing-vs-code-extensions-now-takes-into-account-enabled-disabled|Importing
+  VS Code extensions now takes into account enabled/disabled]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-28-0-5-1-nightly-https-cursor-com-changelog-0-5-1-nightly-a748d118|cursor-2023-07-28-0-5-1-nightly-https-cursor-com-changelog-0-5-1-nightly-a748d118]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -74,14 +76,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2023-07-07 · Cursor · [[Changes/Cursor/2023-07-07-ai-will-respond-with-citations-when-you-reference-docs|AI will respond with citations when you reference docs]]
-- Later: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-the-main-addition-in-this-update-is-better-docs-support-this-means-you-can-add-a|The main addition in this update is better docs support]]
+- Earlier: 2023-07-07 · Cursor · [[Changes/Cursor/2023-07-07-importing-vs-code-extensions-now-takes-into-account-enabled-disabled|Importing VS Code extensions now takes into account enabled/disabled]]
+- Later: 2023-09-11 · Cursor · [[Changes/Cursor/2023-09-11-we-serve-extensions-now-using-cursor-s-extension-marketplace|Cursor Marketplace]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

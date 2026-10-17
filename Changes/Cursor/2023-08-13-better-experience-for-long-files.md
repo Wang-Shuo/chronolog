@@ -4,8 +4,8 @@ date: '2023-08-13'
 description: 'Cursor · 2023-08-13 · Editor Experience: Better experience for long
   files!'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 152
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 9ea41d534cdababca72f87e5796185dd8d6abed78703fb97601190d69d27af58
+kind: change
+machine_hash: b3609b05709dbe4b71baaafa3ed14792fa8bcff3c6e5a3241e2be6dc390fb426
 product: cursor
 product_name: Cursor
 record:
@@ -27,8 +28,9 @@ record:
   evidence:
   - quote: Better experience for long files!
     source_release: https://cursor.com/changelog/0-7-9-nightly-0-7-10-nightly
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: better-experience-for-long-files
@@ -37,24 +39,24 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Better experience for long files!
+  title: Long-file experience
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-10-for-those-who-don-t-want-the-chat-side-by-side-you-can-now-pop-it-into-your-edit|For
-  those who don''t want the chat side-by-side, you can now pop it into your editor!]]'
+- '[[Changes/Cursor/2023-08-10-for-those-who-don-t-want-the-chat-side-by-side-you-can-now-pop-it-into-your-edit|In-editor
+  chat]]'
 - '[[Changes/Cursor/2023-08-10-cmd-k-now-has-a-fast-mode-it-is-about-1-second-faster-and-we-re-working-on-makin|Cmd-K
-  now has a fast mode!]]'
-- '[[Changes/Cursor/2023-08-12-the-cmd-k-edits-now-support-followups-this-is-an-early-preview-please-let-us-kno|The
-  cmd-k edits now support followups!]]'
+  fast mode]]'
+- '[[Changes/Cursor/2023-08-12-the-cmd-k-edits-now-support-followups-this-is-an-early-preview-please-let-us-kno|Followups
+  in edits]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-13-0-7-9-nightly-0-7-10-nightly-https-cursor-com-changelog-0-7-9-ni-29eabfb6|cursor-2023-08-13-0-7-9-nightly-0-7-10-nightly-https-cursor-com-changelog-0-7-9-ni-29eabfb6]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: Better experience for long files!
+title: Long-file experience
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Better experience for long files!
+# Long-file experience
 
 **Cursor** · 2023-08-13 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://cursor.com/changelog/0-7-9-nightly-0-7-10-nightly) · from [[Releases/Cursor/cursor-2023-08-13-0-7-9-nightly-0-7-10-nightly-https-cursor-com-changelog-0-7-9-ni-29eabfb6|Long-file experience]]
 <!-- chronolog:end -->
@@ -72,14 +74,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-08-12 · Cursor · [[Changes/Cursor/2023-08-12-the-cmd-k-edits-now-support-followups-this-is-an-early-preview-please-let-us-kno|The cmd-k edits now support followups!]]
+- Earlier: 2023-08-12 · Cursor · [[Changes/Cursor/2023-08-12-the-cmd-k-edits-now-support-followups-this-is-an-early-preview-please-let-us-kno|Followups in edits]]
 - Later: 2023-08-22 · Cursor · [[Changes/Cursor/2023-08-22-codeblocks-and-code-symbols-in-with-codebase-responses-will-now-often-be-clickab|Codeblocks and code symbols in "with codebase" responses will now often be clickable]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

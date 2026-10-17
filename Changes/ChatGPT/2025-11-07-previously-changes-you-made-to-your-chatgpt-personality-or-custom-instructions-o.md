@@ -4,8 +4,8 @@ date: '2025-11-07'
 description: 'ChatGPT · 2025-11-07 · Memory and Personalization: Previously, changes
   you made to your ChatGPT personality or custom instructions only applied to new…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 841
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 7a8824d9ae03199dd86fcc4d2e058519f962bbcd7478e498d8692ebf4c999b0f
+kind: change
+machine_hash: a221e467c2557d7e33114bbd5e5896e52f472b081fd51b1302f1011245ff7dab
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,34 +39,33 @@ record:
       conversations!) so your experience stays consistent everywhere without needing
       to start a new thread.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: previously-changes-you-made-to-your-chatgpt-personality-or-custom-instructions-o
   source_release: chatgpt-2025-11-07-personality-and-custom-instructions-now-apply-to-all-chats-81e2ff22
   source_type: chatgpt_changelog
   theme: memory
-  title: Previously, changes you made to your ChatGPT personality or custom instructions
-    only…
+  title: Personality and custom instructions now apply to all chats
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-28-longer-memory-for-more-personalized-responses|Longer
-  memory for more personalized responses]]'
 - '[[Changes/ChatGPT/2025-10-29-chatgpt-pulse-is-now-available-on-web-and-rolling-out-to-atlas-for-pro-users-wit|ChatGPT
-  Pulse is now available on web and rolling out to Atlas for Pro users]]'
+  Pulse on Web]]'
+- '[[Changes/Cursor/2025-10-29-increased-default-memory-for-typescript-language-server|Increased
+  default memory for TypeScript language server]]'
 - '[[Changes/ChatGPT/2025-10-30-longer-memory-for-more-personalized-responses|Longer
   memory for more personalized responses]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-07-personality-and-custom-instructions-now-apply-to-all-chats-81e2ff22|chatgpt-2025-11-07-personality-and-custom-instructions-now-apply-to-all-chats-81e2ff22]]'
 source_type: chatgpt_changelog
 theme: memory
-title: Previously, changes you made to your ChatGPT personality or custom instructions
-  only…
+title: Personality and custom instructions now apply to all chats
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Previously, changes you made to your ChatGPT personality or custom instructions only…
+# Personality and custom instructions now apply to all chats
 
 **ChatGPT** · 2025-11-07 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-11-07-personality-and-custom-instructions-now-apply-to-all-chats-81e2ff22|Personality and custom instructions now apply to all chats]]
 <!-- chronolog:end -->
@@ -84,13 +84,13 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2025-10-30 · ChatGPT · [[Changes/ChatGPT/2025-10-30-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]]
-- Later: 2025-11-24 · ChatGPT · [[Changes/ChatGPT/2025-11-24-shopping-research-is-a-new-interactive-experience-that-helps-you-find-the-right-0a021d|Shopping research is a new interactive experience that helps you find the right…]]
+- Later: 2025-11-24 · ChatGPT · [[Changes/ChatGPT/2025-11-24-shopping-research-is-a-new-interactive-experience-that-helps-you-find-the-right-0a021d|Shopping research in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

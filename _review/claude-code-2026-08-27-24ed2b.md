@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: 20b3c99cfe87edf7345b8f9361150e4938acf443565ef2344b4b75c4b4e032ff
+machine_hash: 9562f3a18d3dd1d118731eb2ce14c4d4b751eca1a0f69a26dbc9aa08ed94bc02
 product: claude-code
 record:
   card_id: claude-code-2026-08-27-24ed2b
@@ -16,8 +16,9 @@ record:
       keeps file tools inside the working directory, refuses `bypassPermissions`,
       and ignores user, project and local settings files'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.248
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-restricted-or-claude-code-restricted-1-removes-the-built-in-tools-that-run

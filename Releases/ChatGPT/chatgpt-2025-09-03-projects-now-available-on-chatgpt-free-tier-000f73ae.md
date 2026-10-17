@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-09-03'
 description: 'ChatGPT release Projects Now Available on ChatGPT Free Tier on 2025-09-03:
   1 tracked change across Enterprise and Administration'
-machine_hash: d67afcbd9ec9d3c8c5d9543f37eacf49cb169892517f737aad8788c5df9a47a1
+machine_hash: 42c4f75411ca60505ad42d336f971da914f648ebe1300133b94e1ac222b6904f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: Projects Now Available on ChatGPT Free Tier
 <!-- chronolog:begin region="summary" -->
 Projects bring your chats and files into one place, helping you stay focused and get things done. They’re now available on our Free tier, with up to 5 file uploads per project.We’ve also updated file uploads on paid tiers: Plus, Go, and Edu support up to 25 files per project. Pro, Business, and Enterprise support up to…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-09-03-projects-bring-your-chats-and-files-into-one-place-helping-you-stay-focused-and-96a40d|Projects bring your chats and files into one place, helping you stay focused and get…]] · Enterprise and Administration
+- [[Changes/ChatGPT/2025-09-03-projects-bring-your-chats-and-files-into-one-place-helping-you-stay-focused-and-96a40d|Projects Now Available on ChatGPT Free Tier]] · Enterprise and Administration
 <!-- chronolog:end -->

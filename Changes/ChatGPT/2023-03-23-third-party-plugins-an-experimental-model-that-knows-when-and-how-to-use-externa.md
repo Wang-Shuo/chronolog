@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 346f11fecffcc1d2f08fc75770db1f449151ecf56913dc54742562f109a6e1fe
+kind: change
+machine_hash: a24ff4dbd4562029f845cbba6fc4d77315fa372519bf56712b9e99c800a29691
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,8 +32,9 @@ record:
   - quote: 'Third-party plugins: An experimental model that knows when and how to
       use external plugins.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: third-party-plugins-an-experimental-model-that-knows-when-and-how-to-use-externa
@@ -53,10 +55,12 @@ record:
     external plugins'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-03-14-complex-instructions|Complex instructions]]'
-- '[[Changes/ChatGPT/2023-03-14-more-creativity|More creativity]]'
-- '[[Changes/ChatGPT/2023-03-14-we-re-excited-to-bring-gpt-4-our-latest-model-to-our-chatgpt-plus-subscribers-gp|ChatGPT
-  brings GPT-4, our latest model, to our ChatGPT Plus subscribers]]'
+- '[[Changes/ChatGPT/2023-01-30-we-ve-upgraded-the-chatgpt-model-with-improved-factuality-and-mathematical-capab|Factuality
+  and mathematical improvements]]'
+- '[[Changes/ChatGPT/2023-02-09-default-the-standard-chatgpt-model|Default: the standard
+  ChatGPT model]]'
+- '[[Changes/ChatGPT/2023-03-14-we-re-excited-to-bring-gpt-4-our-latest-model-to-our-chatgpt-plus-subscribers-gp-7153e9|Announcing
+  GPT-4 in ChatGPT]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -80,8 +84,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]] · Apps and Integrations
-- [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-b62dc8|We are announcing experimental support for AI plugins in ChatGPT]] · Apps and Integrations
+- [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]] · Apps and Integrations
 - [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]] · Search and Browsing
 - [[Changes/ChatGPT/2023-03-23-code-interpreter-an-experimental-chatgpt-model-that-can-use-python-and-handles-u|Code Interpreter: An experimental ChatGPT model that can use Python, and handles…]] · Model Support
 <!-- chronolog:end -->
@@ -89,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-03-14 · ChatGPT · [[Changes/ChatGPT/2023-03-14-we-re-excited-to-bring-gpt-4-our-latest-model-to-our-chatgpt-plus-subscribers-gp|ChatGPT brings GPT-4, our latest model, to our ChatGPT Plus subscribers]]
+- Earlier: 2023-03-14 · ChatGPT · [[Changes/ChatGPT/2023-03-14-we-re-excited-to-bring-gpt-4-our-latest-model-to-our-chatgpt-plus-subscribers-gp-7153e9|Announcing GPT-4 in ChatGPT]]
 - Later: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-use-an-openai-api-key-for-unlimited-requests-at-cost-gpt-4-access-if-available|Use an OpenAI API key for unlimited requests at cost (GPT-4 access if available)]]
 <!-- chronolog:end -->
 

@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: c39a48aea725a752dba5b54c6384ca2fab5b9ca922f45eca7fecfbb34f000ebd
+kind: fix
+machine_hash: 7dc5f4cb444780a1ebe333e25aa41ada24c7082c9fa6485616903882cd3a4d20
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
   - quote: Fixed a crash in the permission dialog when an agent teams teammate requested
       tool permission
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.114
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: fix
   product: claude-code
   product_name: Claude Code
   slug: fixed-a-crash-in-the-permission-dialog-when-an-agent-teams-teammate-requested-to
@@ -53,12 +55,12 @@ record:
     tool…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-09-added-subprocess-sandboxing-with-pid-namespace-isolation-on-linux-when-claude-co|Added
-  subprocess sandboxing with PID namespace isolation on Linux…]]'
-- '[[Changes/Claude Code/2026-04-14-the-model-can-now-discover-and-invoke-built-in-slash-commands-like-init-review-a|The
-  model can now discover and invoke built-in slash commands like /init…]]'
-- '[[Changes/Claude Code/2026-04-17-added-sandbox-network-denieddomains-setting-to-block-specific-domains-even-when|Added
-  sandbox.network.deniedDomains setting to block specific domains even…]]'
+- '[[Changes/Claude Code/2026-04-16-added-less-permission-prompts-skill-scans-transcripts-for-common-read-only-bash|Added
+  /less-permission-prompts skill]]'
+- '[[Changes/Claude Code/2026-04-16-2-safety-and-privacy-changes-in-v2-1-111|2 Safety
+  and Privacy changes in v2.1.111]]'
+- '[[Changes/Claude Code/2026-04-17-6-safety-and-privacy-changes-in-v2-1-113|6 Safety
+  and Privacy changes in v2.1.113]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-18-v2-1-114-github-310615961-aa4049e4|claude-code-2026-04-18-v2-1-114-github-310615961-aa4049e4]]'
 source_type: github_releases
 theme: safety-privacy
@@ -70,7 +72,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Fixed a crash in the permission dialog when an agent teams teammate requested tool…
 
-**Claude Code** · 2026-04-18 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.114) · from [[Releases/Claude Code/claude-code-2026-04-18-v2-1-114-github-310615961-aa4049e4|v2.1.114]]
+**Claude Code** · 2026-04-18 · [[Themes/safety-privacy|Safety and Privacy]] · Fix · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.114) · from [[Releases/Claude Code/claude-code-2026-04-18-v2-1-114-github-310615961-aa4049e4|v2.1.114]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -86,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-added-sandbox-network-denieddomains-setting-to-block-specific-domains-even-when|Added sandbox.network.deniedDomains setting to block specific domains even…]]
-- Later: 2026-04-30 · Cursor · [[Changes/Cursor/2026-04-30-we-re-also-continuously-improving-the-runtime-harness-and-models-powering-cursor|We're also continuously improving the runtime, harness, and models powering Cursor…]]
+- Earlier: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-6-safety-and-privacy-changes-in-v2-1-113|6 Safety and Privacy changes in v2.1.113]]
+- Later: 2026-04-20 · Claude Code · [[Changes/Claude Code/2026-04-20-security-sandbox-auto-allow-no-longer-bypasses-the-dangerous-path-safety-check-f|Security: sandbox auto-allow no longer bypasses the dangerous-path safety check…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

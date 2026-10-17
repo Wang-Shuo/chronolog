@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f06716cfd4283434768fb7dea5ac86be0284b21427a60805279e84d2f11f2f92
+machine_hash: fd1511bd259bc015ef24968841265f61cc54213d7238cf85c999e6ec655ed57e
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   introduces dots]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7|claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Improved send now (ctrl+enter) in a subagent's view
 type: change

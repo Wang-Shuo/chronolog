@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-08-07'
 description: 'ChatGPT release Accent Colors on 2025-08-07: 1 tracked change across
   Mobile and Desktop'
-machine_hash: 4f7036713420e910aee1c7140342a1b3c370287729ebdacc3fdc0140b8b5fa80
+machine_hash: c2a243179cdf6eb94126df5dcbd36d89d12e68e6e321ea15623e541a2421b053
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Accent Colors
 <!-- chronolog:begin region="summary" -->
 You can now set an accent color that applies to elements in ChatGPT, including your conversation bubbles, the Voice button, and highlighted text.On web: Click your profile icon at the bottom left, select Settings, go to the General tab, and choose an option from the Accent color drop-down.On mobile (iOS and Android)…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-08-07-you-can-now-set-an-accent-color-that-applies-to-elements-in-chatgpt-including-yo-865968|Set an accent color that applies to elements in ChatGPT, including your conversation…]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-08-07-you-can-now-set-an-accent-color-that-applies-to-elements-in-chatgpt-including-yo-865968|Accent Colors]] · Mobile and Desktop
 <!-- chronolog:end -->

@@ -4,8 +4,8 @@ date: '2026-07-13'
 description: 'ChatGPT · 2026-07-13 · Voice and Audio: ChatGPT is available again on
   WhatsApp in the European Economic Area (EEA). You can get started without a ChatGPT…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use
-    voice to engage in a back-and-forth conversation with your assistant]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
+    are beginning to roll out new voice and image capabilities in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1022
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 9a1e36635bc9625b2d62e3310030c6fb11a938f357d8e264b0569d14861abb2e
+kind: change
+machine_hash: b703c485cded3841410dd0fb1da9477b14a211ac74c3c04a1b1aec456fe845ae
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,8 +42,9 @@ record:
       out gradually. Usage limits apply.ChatGPT is also available on Kakao in South
       Korea and Viber in supported markets.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can
@@ -58,24 +60,23 @@ record:
     - whatsapp
     score: 50
     theme: mobile-desktop
-  title: ChatGPT is available again on WhatsApp in the European Economic Area (EEA)
+  title: ChatGPT returns to WhatsApp in the EEA
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-26-improved-voice-mode-on-linux-now-distinguishes-no-microphone-from-sox-not-instal|Improved
   voice mode on Linux]]'
-- '[[Changes/Cursor/2026-06-29-open-the-cursor-mobile-app-choose-a-repo-and-launch-an-agent-the-same-way-you-wo|Open
-  the Cursor mobile app, choose a repo, and launch an agent the same way you…]]'
-- '[[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|ChatGPT
-  rolls out a new ChatGPT Voice experience]]'
+- '[[Changes/Cursor/2026-06-29-cloud-agents-on-mobile-1bc371|Cloud agents on mobile]]'
+- '[[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|Introducing
+  GPT-Live-1 in ChatGPT Voice]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-13-chatgpt-returns-to-whatsapp-in-the-eea-ce61ee08|chatgpt-2026-07-13-chatgpt-returns-to-whatsapp-in-the-eea-ce61ee08]]'
 source_type: chatgpt_changelog
 theme: voice
-title: ChatGPT is available again on WhatsApp in the European Economic Area (EEA)
+title: ChatGPT returns to WhatsApp in the EEA
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT is available again on WhatsApp in the European Economic Area (EEA)
+# ChatGPT returns to WhatsApp in the EEA
 
 **ChatGPT** · 2026-07-13 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-13-chatgpt-returns-to-whatsapp-in-the-eea-ce61ee08|ChatGPT returns to WhatsApp in the EEA]]
 <!-- chronolog:end -->
@@ -93,14 +94,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-07-08 · ChatGPT · [[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|ChatGPT rolls out a new ChatGPT Voice experience]]
-- Later: 2026-07-23 · ChatGPT · [[Changes/ChatGPT/2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star|ChatGPT Voice is now available in Work and Codex in the ChatGPT desktop app]]
+- Earlier: 2026-07-08 · ChatGPT · [[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|Introducing GPT-Live-1 in ChatGPT Voice]]
+- Later: 2026-07-23 · ChatGPT · [[Changes/ChatGPT/2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star|ChatGPT Voice in Work and Codex on desktop]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use voice to engage in a back-and-forth conversation with your assistant]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

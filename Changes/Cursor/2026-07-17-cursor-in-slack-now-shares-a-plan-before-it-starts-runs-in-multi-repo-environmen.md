@@ -4,8 +4,8 @@ date: '2026-07-17'
 description: 'Cursor · 2026-07-17 · Apps and Integrations: Cursor in Slack now shares
   a plan before it starts, runs in multi-repo environments, and can work across channels…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1212
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 168b55aca7644573385c75f86ebb2fe623246bf290352ebb70f8f5a6bf248f3f
+kind: change
+machine_hash: 45a8b1a2de99118a5d6137780e7aa4a1289a656e79337247bc2c4cb7763dac2d
 product: cursor
 product_name: Cursor
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Cursor in Slack now shares a plan before it starts, runs in multi-repo
       environments, and can work across channels and threads.
     source_release: https://cursor.com/changelog/slack-improvements
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: cursor-in-slack-now-shares-a-plan-before-it-starts-runs-in-multi-repo-environmen
@@ -43,12 +45,12 @@ record:
   title: Cursor in Slack now shares a plan before it starts, runs in multi-repo environments…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-15-hardened-synced-skill-plugin-directory-naming-on-windows-and-kept-ccr-web-fetch|Hardened
-  synced skill/plugin directory naming on Windows and kept CCR web…]]'
-- '[[Changes/Claude Code/2026-07-17-mcp-tool-calls-running-longer-than-2-minutes-now-move-to-the-background-automati|MCP
-  tool calls running longer than 2 minutes now move to the background…]]'
-- '[[Changes/Cursor/2026-07-17-from-slack-cursor-can-now-start-in-a-named-multi-repo-environment-instead-of-a-s|From
-  Slack, Cursor can now start in a named multi-repo environment instead…]]'
+- '[[Changes/Claude Code/2026-07-14-3-apps-and-integrations-changes-in-v2-1-208|3
+  Apps and Integrations changes in v2.1.208]]'
+- '[[Changes/Claude Code/2026-07-15-2-apps-and-integrations-changes-in-v2-1-211|2
+  Apps and Integrations changes in v2.1.211]]'
+- '[[Changes/Claude Code/2026-07-17-2-apps-and-integrations-changes-in-v2-1-212|2
+  Apps and Integrations changes in v2.1.212]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6|cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -71,22 +73,22 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-07-17-from-slack-cursor-can-now-start-in-a-named-multi-repo-environment-instead-of-a-s|From Slack, Cursor can now start in a named multi-repo environment instead…]] · Apps and Integrations
-- [[Changes/Cursor/2026-07-17-cursor-now-responds-with-a-plan-before-it-begins-so-you-can-jump-in-and-redirect|Cursor now responds with a plan before it begins, so you can jump in and redirect early]] · Agent Mode
-- [[Changes/Cursor/2026-07-17-we-also-refined-how-cursor-s-responses-look-in-slack-in-message-buttons-are-gone|We also refined how Cursor's responses look in Slack]] · Apps and Integrations
+- [[Changes/Cursor/2026-07-17-multi-repo-environment-support-4b706e|Multi-repo environment support]] · Apps and Integrations
+- [[Changes/Cursor/2026-07-17-cross-channel-workflows|Cross-channel workflows]] · Context Window
+- [[Changes/Cursor/2026-07-17-interaction-improvements-dee44a|Interaction improvements]] · Interface Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-mcp-tool-calls-running-longer-than-2-minutes-now-move-to-the-background-automati|MCP tool calls running longer than 2 minutes now move to the background…]]
-- Later: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-added-http-status-and-error-text-to-claude-mcp-list-and-mcp-when-a-server-fails|Added HTTP status and error text to claude mcp list and /mcp when a server fails…]]
+- Earlier: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-2-apps-and-integrations-changes-in-v2-1-212|2 Apps and Integrations changes in v2.1.212]]
+- Later: 2026-07-18 · Claude Code · [[Changes/Claude Code/2026-07-18-changed-sessionstart-hooks-to-report-source-fork-when-a-session-begins-as-a-fork|Changed SessionStart hooks to report source "fork" when a session begins as a fork…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

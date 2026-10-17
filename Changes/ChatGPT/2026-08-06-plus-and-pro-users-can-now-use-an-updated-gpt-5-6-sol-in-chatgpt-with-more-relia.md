@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 27aa0740613a03e6721462300c92ac5cb73ef8ca4982ffacebab999cbe553e6d
+machine_hash: 27859817a50ec279ac6e189102fc88dd4c1e9a40baebc4ddde9a3558381f3411
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,6 +54,7 @@ related_changes:
   Luna will become the default model for Free and Go users this week]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-06-updates-to-gpt-5-6-in-chatgpt-29572055|chatgpt-2026-08-06-updates-to-gpt-5-6-in-chatgpt-29572055]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: Plus and Pro users can now use an updated GPT‑5.6 Sol in ChatGPT with more
   reliable…

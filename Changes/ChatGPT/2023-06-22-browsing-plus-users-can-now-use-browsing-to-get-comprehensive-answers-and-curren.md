@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 72f50476cd51414dfc42520349d23f5b602145a367c1fad331cde4ed048deccf
+kind: change
+machine_hash: 4598f35483dca45a9a5137dc3f875de7f5ded7516ffd22796f632c86a45a8ace
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,8 +38,9 @@ record:
       section of your app settings. Then select GPT-4 in the model switcher and choose
       “Browse with Bing” in the drop-down.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: browsing-plus-users-can-now-use-browsing-to-get-comprehensive-answers-and-curren
@@ -61,12 +63,11 @@ record:
     current…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-20-switching-between-models-is-a-lot-more-easy-and-the-transition-to-gpt-4-is-a-lot|Switching
-  between models is a lot more easy, and the transition to gpt-4 is a lot smoother]]'
-- '[[Changes/Cursor/2023-05-20-all-users-get-10-free-gpt-4-requests|All users get
-  10 free gpt-4 requests !!!]]'
-- '[[Changes/Cursor/2023-06-01-check-out-the-more-tab-to-have-gpt-3-5-or-gpt-4-review-your-code-periodically-fo|Check
-  out the "more" tab to have GPT-3.5 or GPT-4 review your code periodically…]]'
+- '[[Changes/Cursor/2023-05-04-gpt-4-support-now-available-for-project-generation|GPT-4
+  support now available for project generation]]'
+- '[[Changes/Cursor/2023-05-20-upgrades-to-gpt-4-e59675|Upgrades to GPT-4]]'
+- '[[Changes/Cursor/2023-06-01-check-out-the-more-tab-to-have-gpt-3-5-or-gpt-4-review-your-code-periodically-fo|AI
+  Linting]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98|chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -97,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-06-01 · Cursor · [[Changes/Cursor/2023-06-01-check-out-the-more-tab-to-have-gpt-3-5-or-gpt-4-review-your-code-periodically-fo|Check out the "more" tab to have GPT-3.5 or GPT-4 review your code periodically…]]
-- Later: 2023-07-19 · ChatGPT · [[Changes/ChatGPT/2023-07-19-we-re-doubling-the-number-of-messages-chatgpt-plus-customers-can-send-with-gpt-4|We're doubling the number of messages ChatGPT Plus customers can send with GPT-4]]
+- Earlier: 2023-06-01 · Cursor · [[Changes/Cursor/2023-06-01-check-out-the-more-tab-to-have-gpt-3-5-or-gpt-4-review-your-code-periodically-fo|AI Linting]]
+- Later: 2023-07-19 · ChatGPT · [[Changes/ChatGPT/2023-07-19-we-re-doubling-the-number-of-messages-chatgpt-plus-customers-can-send-with-gpt-4|Higher message limits for GPT-4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

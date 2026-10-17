@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-09-09'
 description: 'ChatGPT release ChatGPT Voice Update on 2025-09-09: 1 tracked change
   across Voice and Audio'
-machine_hash: e9086575950f754c650e8fc3968f992ad065c1620468fce3b985bc22068fdd8c
+machine_hash: ef3fe204b5cfb8d0ab111f468459f372bddf283dbefaacb673c01dafb4ac5e30
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: ChatGPT Voice Update
 <!-- chronolog:begin region="summary" -->
 Last month we announced that everyone now has access to Advanced Voice Mode, with usage expanded from minutes per day to hours for Free users, and near-unlimited use for Plus.We also shared that Standard Voice Mode would be retired following a 30-day sunset period. We’ve heard feedback that Standard Voice is special to…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-09-09-last-month-we-announced-that-everyone-now-has-access-to-advanced-voice-mode-with-d861d2|Last month we announced that everyone now has access to Advanced Voice Mode…]] · Voice and Audio
+- [[Changes/ChatGPT/2025-09-09-last-month-we-announced-that-everyone-now-has-access-to-advanced-voice-mode-with-d861d2|ChatGPT Voice Update]] · Voice and Audio
 <!-- chronolog:end -->

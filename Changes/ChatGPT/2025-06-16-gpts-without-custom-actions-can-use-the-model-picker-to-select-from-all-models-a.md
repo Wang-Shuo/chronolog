@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 6ea615fc227106e85f4da964f284bde8fa8bb5c730b7ef9f08f9aea3e03ad5cf
+machine_hash: 88652dab3543c2f0ec5cb966229c3244d11b349e1baf3731228865111f071541
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,6 +60,7 @@ related_changes:
   longer conversational contexts, allowing better intelligence in longer…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-16-expanded-model-support-for-custom-gpts-55f4555f|chatgpt-2025-06-16-expanded-model-support-for-custom-gpts-55f4555f]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: GPTs without Custom Actions can use the model picker to select from all models…
 type: change

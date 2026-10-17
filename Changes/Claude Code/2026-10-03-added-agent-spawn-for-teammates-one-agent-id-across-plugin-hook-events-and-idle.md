@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: e5be4689afe7b05e2a82fdcb1f9b82084249ea93ee52e9b6b614487fb67916a3
+machine_hash: 21c3e44647dee7e5468ee9fe0c20466c9e3d485002864b3519c6fd2d5bfc7be1
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,6 +62,7 @@ related_changes:
   You should know, a built-in mod where a side agent watches your back and flags…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-03-v2-1-289-github-402671979-24326b23|claude-code-2026-10-03-v2-1-289-github-402671979-24326b23]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added agent.spawn for teammates, one agent id across plugin hook events, and
   idle…

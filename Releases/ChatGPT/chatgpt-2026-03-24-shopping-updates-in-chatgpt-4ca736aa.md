@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-03-24'
 description: 'ChatGPT release Shopping updates in ChatGPT on 2026-03-24: 1 tracked
   change across Search and Browsing'
-machine_hash: 04a6dbc1ddbcbd2aa52ea1a0fd6d45a6a91773a0b8f785f0e7fde6c78d7834c5
+machine_hash: 7d4c7ae87ab08b0e23a2718547648fd81fd8f2a6c911c091993c961453173aa2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: Shopping updates in ChatGPT
 <!-- chronolog:begin region="summary" -->
 We’ve improved shopping in ChatGPT to make it easier to discover, compare, and decide on products.Product results are now more visually rich, with improved detail and relevance. You can browse products in chat, refine results through conversation, and upload images to find similar items. Products can also be compared…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|ChatGPT improves shopping to make it easier to discover, compare, and decide on products]] · Search and Browsing
+- [[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|Shopping updates in ChatGPT]] · Search and Browsing
 <!-- chronolog:end -->

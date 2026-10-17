@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: ec4f82a9531d464a8d3b5e9e8bb9fd6f72282776e11744fe70d6789fc6e4fa0b
+kind: fix
+machine_hash: 3f64e629041e5ffa116c9b303d0e8941382fa5cdcf13719ae1b7dc7b5e21e0d5
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
       question''s context, and settled answers; thinking-only folds show "Thought
       for Ns" and re-collapse when their turn completes'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.225
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: fix
   product: claude-code
   product_name: Claude Code
   slug: vscode-fixed-focus-view-folding-away-the-latest-to-do-list-a-pending-question-s
@@ -45,12 +47,12 @@ record:
     question''s…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-28-existing-free-users-in-india-can-upgrade-their-plan-from-the-dashboard-new-users|Existing
+- '[[Changes/Cursor/2026-07-28-existing-free-users-in-india-can-upgrade-their-plan-from-the-dashboard-new-users-aeb811|Existing
   Free users in India can upgrade their plan from the dashboard]]'
 - '[[Changes/Claude Code/2026-08-04-vscode-added-focus-view-a-chat-menu-toggle-that-hides-tool-activity-behind-an-ex|VSCode
   Added Focus view]]'
-- '[[Changes/ChatGPT/2026-08-07-add-saved-files-without-uploading-them-again-open-the-composer-menu-on-the-web-s|Add
-  saved files without uploading them again]]'
+- '[[Changes/Claude Code/2026-08-07-improved-fullscreen-mode-to-keep-the-full-pre-compaction-history-in-scrollback-a|Improved
+  fullscreen mode to keep the full pre-compaction history in scrollback…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-08-v2-1-225-github-367046190-ccb40049|claude-code-2026-08-08-v2-1-225-github-367046190-ccb40049]]'
 source_type: github_releases
 theme: interface-experience
@@ -61,7 +63,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # [VSCode] Fixed Focus view folding away the latest to-do list, a pending question's…
 
-**Claude Code** · 2026-08-08 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.225) · from [[Releases/Claude Code/claude-code-2026-08-08-v2-1-225-github-367046190-ccb40049|v2.1.225]]
+**Claude Code** · 2026-08-08 · [[Themes/interface-experience|Interface Experience]] · Fix · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.225) · from [[Releases/Claude Code/claude-code-2026-08-08-v2-1-225-github-367046190-ccb40049|v2.1.225]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -73,15 +75,14 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-08-08-improved-remote-control-photos-attached-from-the-claude-app-are-now-shown-to-cla|Improved Remote Control]] · Apps and Integrations
-- [[Changes/Claude Code/2026-08-08-added-a-workspace-trust-prompt-to-claude-agents-for-untrusted-directories-matchi|Added a workspace trust prompt to claude agents for untrusted directories…]] · Safety and Privacy
-- [[Changes/Claude Code/2026-08-08-fixed-auto-mode-counting-a-safety-filter-refusal-of-its-own-permission-check-tow|Fixed auto mode counting a safety-filter refusal of its own permission check toward…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-08-08-2-safety-and-privacy-changes-in-v2-1-225|2 Safety and Privacy changes in v2.1.225]] · Safety and Privacy
+- [[Changes/Claude Code/2026-08-08-3-apps-and-integrations-changes-in-v2-1-225|3 Apps and Integrations changes in v2.1.225]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-07 · ChatGPT · [[Changes/ChatGPT/2026-08-07-add-saved-files-without-uploading-them-again-open-the-composer-menu-on-the-web-s|Add saved files without uploading them again]]
+- Earlier: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-improved-fullscreen-mode-to-keep-the-full-pre-compaction-history-in-scrollback-a|Improved fullscreen mode to keep the full pre-compaction history in scrollback…]]
 - Later: 2026-08-10 · Claude Code · [[Changes/Claude Code/2026-08-10-improved-slash-command-menu-blue-now-marks-only-the-selected-row-matched-charact|Improved slash-command menu]]
 <!-- chronolog:end -->
 

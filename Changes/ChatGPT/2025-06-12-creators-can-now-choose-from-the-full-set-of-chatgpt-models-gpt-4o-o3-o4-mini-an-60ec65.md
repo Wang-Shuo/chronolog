@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 48f4140a1dc83d8ab565c26d5bc68dc85bd5bef1a8e174b61ca59e6a58c8dd7d
+machine_hash: d34ccfe66f614b050d318fb9c78ff7bb7c51c6c0ea4f59521627ceafc24bc635
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -67,6 +67,7 @@ related_changes:
   o1-pro, o3-pro is a version of our most intelligent model, o3, designed…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-12-expanded-model-support-for-custom-gpts-55f4555f|chatgpt-2025-06-12-expanded-model-support-for-custom-gpts-55f4555f]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: Creators can now choose from the full set of ChatGPT models…
 type: change

@@ -15,9 +15,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 8f22b1f15ed8677a36d551e57b94951f132290ee39666e9517b8d4211154de27
+kind: change
+machine_hash: 8533e05c7d0aaa91c7e1a8c25d4595383184307b147202d5bb994b0b5b524646
 product: cursor
 product_name: Cursor
 record:
@@ -32,8 +33,9 @@ record:
       optimizations. We still have several hundred additional milliseconds to cut
       here.'
     source_release: https://cursor.com/changelog/0-18-0
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: faster-copilot-a-few-hundred-milliseconds-faster-through-various-networking-opti
@@ -43,9 +45,10 @@ record:
   title: 'Faster Copilot++: a few hundred milliseconds faster, through various networking…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-10-01-indexing-should-now-be-faster-more-stable-and-use-less-of-your-system-resources|Indexing
+- '[[Changes/Cursor/2023-09-22-stable-version-of-indexing-this-should-be-much-more-stable-than-previous-version|Stable
+  Indexing v0.1]]'
+- '[[Changes/Cursor/2023-10-01-indexing-should-now-be-faster-more-stable-and-use-less-of-your-system-resources-c870a3|Indexing
   should now be faster, more stable, and use less of your system resources]]'
-- '[[Changes/Cursor/2023-10-01-bugfixes-fixed-the-ejected-from-slow-mode-ui-added-auto-switching-logic-for-the|Bugfixes!]]'
 - '[[Changes/Cursor/2023-11-03-shipped-better-error-logging-which-should-help-us-improve-stability|Shipped
   better error logging, which should help us improve stability]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-30-0-18-0-https-cursor-com-changelog-0-18-0-f0874043|cursor-2023-11-30-0-18-0-https-cursor-com-changelog-0-18-0-f0874043]]'
@@ -78,7 +81,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2023-11-03 · Cursor · [[Changes/Cursor/2023-11-03-shipped-better-error-logging-which-should-help-us-improve-stability|Shipped better error logging, which should help us improve stability]]
-- Later: 2024-01-15 · Cursor · [[Changes/Cursor/2024-01-15-we-ll-be-working-to-improve-its-performance-over-the-coming-weeks-counts-the-sam|We'll be working to improve its performance over the coming weeks]]
+- Later: 2024-02-02 · Cursor · [[Changes/Cursor/2024-02-02-0-25-2-copilot-performance-improvements|0.25.2: Copilot++ performance improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

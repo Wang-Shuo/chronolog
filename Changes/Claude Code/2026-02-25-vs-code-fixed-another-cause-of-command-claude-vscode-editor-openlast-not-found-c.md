@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a6264e308a87a46633a773da2bc5d2fddc10110afb681539902d80954a0a0b47
+machine_hash: cd23118c638e922ed691038c1563d3c0599d64dc433ed6fecdb03bfcdab0d12f
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   Code: Fixed extension crash on Windows…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-25-v2-1-56-github-290182861-060a4e7b|claude-code-2026-02-25-v2-1-56-github-290182861-060a4e7b]]'
 source_type: github_releases
+superseded: true
 theme: editor-experience
 title: 'VS Code: Fixed another cause…'
 type: change

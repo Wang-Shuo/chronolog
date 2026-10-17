@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 39064bd79ccd00afea7cd1ab288840f301a4dd1eec96d83d5af318e44ee77169
+machine_hash: 206c04e61dee12aea3e546efcae88344fead23f85d4031da9e88eb77eceba3bb
 product: claude-code
 product_name: Claude Code
 record:
@@ -59,6 +59,7 @@ related_changes:
   with a root-level SKILL.md and no skills/ subdirectory are now surfaced…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f|claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: The /plugin details pane and claude plugin details now show LSP servers a plugin…
 type: change

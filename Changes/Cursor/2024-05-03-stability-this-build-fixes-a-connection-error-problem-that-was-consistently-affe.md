@@ -15,9 +15,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 586817d4e5bc5c5c4dec077e910c5115b40a276cd3e2d959d90a4c95682c87ae
+kind: change
+machine_hash: 4b540fca9603bfaf4f3966f80de5780bafc9cdfdaa9c9d9ccf5bfe1ede533d76
 product: cursor
 product_name: Cursor
 record:
@@ -32,8 +33,9 @@ record:
       affecting some users. It should also improve the performance of Cursor on spotty
       internet.'
     source_release: https://cursor.com/changelog/0-33-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: stability-this-build-fixes-a-connection-error-problem-that-was-consistently-affe

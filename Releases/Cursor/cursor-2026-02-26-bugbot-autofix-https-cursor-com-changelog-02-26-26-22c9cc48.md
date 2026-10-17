@@ -3,7 +3,7 @@ changes_count: 3
 date: '2026-02-26'
 description: 'Cursor release Bugbot Autofix on 2026-02-26: 3 tracked changes across
   Developer Workflow, Agent Mode'
-machine_hash: 074d0338c9edef7521b3fd4050ca116026ee7044d28967a2d23e01d0c0e7903e
+machine_hash: 05ed8758fca9ed07c1cc80e8f55400b3ec838f2c1dad3f4bb90291bfcde2601c
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: Bugbot Autofix
 <!-- chronolog:begin region="summary" -->
 Bugbot can automatically fix issues it finds in pull requests.
 
-Tracked 3 of 5 candidate lines.
+Tracked 3 cards from 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

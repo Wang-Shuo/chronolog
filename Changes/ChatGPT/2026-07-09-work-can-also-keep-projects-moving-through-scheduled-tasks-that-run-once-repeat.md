@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2c46a02aed8dec3bb12d66499ba9e0c5b2684e41f15065213599adec88da5599
+machine_hash: 978e0b4db7bad4b8d9ed6ee0d7e30907bd39680960b39e71bf1dd05e32ba7da3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,6 +51,7 @@ related_changes:
   to any Slack message with a designated emoji to kick off an automation]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: automation-scheduling
 title: Work can also keep projects moving through Scheduled Tasks that run once, repeat…
 type: change

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 46a96fdcf575488b747234c23591f2f583c65bc3b65ba7e70a0f0d513fde0924
+machine_hash: 9aca216aa8fc49aa8367713d6f09ba6b808989138f481775a27e517b97cfdc7b
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,6 +61,7 @@ related_changes:
   a plan is generated, the CLI now shows a persistent decision menu]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-20-v2-1-50-github-288920711-09694b82|claude-code-2026-02-20-v2-1-50-github-288920711-09694b82]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: 'Added support for isolation: worktree in agent definitions, allowing agents…'
 type: change

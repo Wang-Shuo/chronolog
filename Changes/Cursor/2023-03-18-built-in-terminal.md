@@ -12,9 +12,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 594ddd6e4951d632422e99cd3a6a891db42b1194ac9b8440a048e55c6d7e5b15
+kind: change
+machine_hash: fe589f8b6299d702115b144bbcd7aa9b6b3cae979cc3e130b81639ad146e4759
 product: cursor
 product_name: Cursor
 record:
@@ -25,8 +26,9 @@ record:
   evidence:
   - quote: Built-in terminal
     source_release: https://cursor.com/changelog/0-1-2
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: built-in-terminal
@@ -57,16 +59,14 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2023-03-18-diffs-automatically-continue|Diffs automatically continue]] · Editor Experience
-- [[Changes/Cursor/2023-03-18-can-open-chat-history-from-the-prompt-bar|Can open chat history from the prompt bar]] · Interface Experience
-- [[Changes/Cursor/2023-03-18-up-and-down-arrow-in-prompt-bar-have-been-mapped-to-less-annoying-keybindings|Up and down arrow in prompt bar have been mapped to less annoying keybindings]] · Interface Experience
-- [[Changes/Cursor/2023-03-18-have-chat-auto-insert-suggested-changes-into-editor|Have chat auto-insert suggested changes into editor]] · Editor Experience
+- [[Changes/Cursor/2023-03-18-2-editor-experience-changes-in-0-1-2|2 Editor Experience changes in 0.1.2]] · Editor Experience
+- [[Changes/Cursor/2023-03-18-2-interface-experience-changes-in-0-1-2|2 Interface Experience changes in 0.1.2]] · Interface Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Later: 2023-03-27 · Cursor · [[Changes/Cursor/2023-03-27-opens-the-terminal-in-your-current-folder|Opens the terminal in your current folder]]
+- Later: 2023-03-23 · Cursor · [[Changes/Cursor/2023-03-23-terminal-no-longer-interferes-with-chat|Terminal no longer interferes with chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

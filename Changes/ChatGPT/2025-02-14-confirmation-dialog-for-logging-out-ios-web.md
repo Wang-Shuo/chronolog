@@ -14,9 +14,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: cacee72dedcbf0c1bdc78ad2f52483ac5cdd1880e41c51897d473a090c3587a9
+kind: change
+machine_hash: c8d0ef71d707835a731c357ec467d571f8fa9aa345aa9d72f1524f0171773dc7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Confirmation dialog for logging out (iOS, web).
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: confirmation-dialog-for-logging-out-ios-web
@@ -39,8 +41,8 @@ record:
   title: Confirmation dialog for logging out (iOS, web)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|ChatGPT
-  updates custom instructions to make it easier to customize how ChatGPT…]]'
+- '[[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|More
+  personalization in Custom Instructions]]'
 - '[[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved
   Android conversation parsing performance]]'
 - '[[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes]]'
@@ -66,6 +68,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/ChatGPT/2025-02-14-whisper-chatgpt-s-voice-to-text-feature-now-shows-a-text-preview-of-dictated-tex|Whisper (ChatGPT's voice-to-text feature) now shows a text preview of dictated text…]] · Voice and Audio
 - [[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set ChatGPT as default search engine in Safari]] · Search and Browsing
 - [[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved Android conversation parsing performance]] · Mobile and Desktop
 - [[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes]] · Mobile and Desktop
@@ -75,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-01-17 · ChatGPT · [[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|ChatGPT updates custom instructions to make it easier to customize how ChatGPT…]]
-- Later: 2025-02-21 · ChatGPT · [[Changes/ChatGPT/2025-02-21-1-ios-widget-see-below|iOS widget (see below)]]
+- Earlier: 2025-01-17 · ChatGPT · [[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|More personalization in Custom Instructions]]
+- Later: 2025-02-21 · ChatGPT · [[Changes/ChatGPT/2025-02-21-ios-widget-see-below|iOS widget (see below)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

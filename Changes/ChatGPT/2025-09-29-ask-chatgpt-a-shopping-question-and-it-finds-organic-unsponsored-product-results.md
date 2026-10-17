@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 578f2e867197c6e335c01545b6691ae126f391208d6a3cfb975accbd56ea62f9
+machine_hash: 0ac44850dafa22ce88ed54213461f6cec519ecba3dfeb11d947417574cbceb9d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,6 +52,7 @@ related_changes:
   Checkout makes it easy to go from chat to checkout in just a few taps]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e|chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: search-browsing
 title: Ask ChatGPT a shopping question and it finds organic, unsponsored product results…
 type: change

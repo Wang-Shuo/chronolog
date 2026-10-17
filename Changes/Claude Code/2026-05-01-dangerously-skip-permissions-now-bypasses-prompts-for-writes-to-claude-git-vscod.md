@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9a657eddd9c1fc4611efd56a8b8f73bd024a29fbb386f776e0f3c9570c898ed9
+machine_hash: 466760e2c232067c9cb744966df8c0385cdb4e180472976d8ecc4fbd9c76d003
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   Cursor-managed security agents by adjusting triggers, adding your own…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb|claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: --dangerously-skip-permissions now bypasses prompts for writes to .claude/…
 type: change

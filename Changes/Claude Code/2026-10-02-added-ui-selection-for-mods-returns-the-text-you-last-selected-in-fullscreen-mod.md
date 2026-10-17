@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: a192e2e7ffee81f2ceb1294e50c168b60559cc1343bb77501775cafb31b4e42c
+kind: change
+machine_hash: 53c3b1b194ba258059713899449bfbcc7ebded36d53178b64b62d16ca82c4d1c
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
       in fullscreen mode and, when the selection lies within one transcript row, that
       row'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.288
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-ui-selection-for-mods-returns-the-text-you-last-selected-in-fullscreen-mod
@@ -42,12 +44,12 @@ record:
   title: Added `$.ui.selection()` for mods
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-28-added-effortslider-decreaseeffort-increaseeffort-and-toggleultracode-keybinding|Added
-  effortSlider:decreaseEffort, increaseEffort and toggleUltracode…]]'
 - '[[Changes/Claude Code/2026-09-28-added-rate-limit-options-to-help-and-the-command-menu-for-claude-ai-subscribers|Added
   /rate-limit-options to /help and the command menu for claude.ai…]]'
-- '[[Changes/Claude Code/2026-09-30-added-mouse-support-for-the-n-more-rows-of-lists-in-fullscreen-mode-click-one-to|Added
-  mouse support for the "N more" rows of lists in fullscreen mode]]'
+- '[[Changes/Claude Code/2026-09-29-improved-responsiveness-when-leaving-the-ctrl-o-transcript-view-in-long-sessions|Improved
+  responsiveness when leaving the ctrl+o transcript view in long sessions…]]'
+- '[[Changes/Claude Code/2026-09-30-4-interface-experience-changes-in-v2-1-286|4 Interface
+  Experience changes in v2.1.286]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6|claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6]]'
 source_type: github_releases
 theme: interface-experience
@@ -71,15 +73,21 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-10-02-added-a-re-authenticate-prompt-when-an-mcp-server-asks-for-more-oauth-scope-duri|Added a re-authenticate prompt when an MCP server asks for more OAuth scope during…]] · Account and Access
-- [[Changes/Claude Code/2026-10-02-added-a-built-in-gh-api-to-cloud-sessions-whose-image-has-no-github-cli-and-fixe|Added a built-in gh api to cloud sessions whose image has no GitHub CLI, and fixed…]] · Developer Workflow
-- [[Changes/Claude Code/2026-10-02-added-max-findings-n-all-to-code-review-to-report-more-or-fewer-findings-than-th|Added --max-findings n / all to /code-review to report more or fewer findings than…]] · Developer Workflow
+- [[Changes/Claude Code/2026-10-02-3-developer-workflow-changes-in-v2-1-288|3 Developer Workflow changes in v2.1.288]] · Developer Workflow
+- [[Changes/Claude Code/2026-10-02-changed-autocompact-to-save-the-auto-compact-window-per-model-so-each-model-keep|Changed /autocompact to save the auto-compact window per model, so each model…]] · Context Window
+- [[Changes/Claude Code/2026-10-02-5-apps-and-integrations-changes-in-v2-1-288|5 Apps and Integrations changes in v2.1.288]] · Apps and Integrations
+- [[Changes/Claude Code/2026-10-02-changed-the-client-side-auto-mode-classifier-to-ignore-an-anthropic-default-sonn|Changed the client-side auto mode classifier to ignore…]] · Model Support
+- [[Changes/Claude Code/2026-10-02-2-accessibility-and-localization-changes-in-v2-1-288|2 Accessibility and Localization changes in v2.1.288]] · Accessibility and Localization
+- [[Changes/Claude Code/2026-10-02-4-agent-mode-changes-in-v2-1-288|4 Agent Mode changes in v2.1.288]] · Agent Mode
+- [[Changes/Claude Code/2026-10-02-6-safety-and-privacy-changes-in-v2-1-288|6 Safety and Privacy changes in v2.1.288]] · Safety and Privacy
+- [[Changes/Claude Code/2026-10-02-improved-the-usage-credits-message-shown-to-team-and-enterprise-members-whose-or|Improved the /usage-credits message shown to Team and Enterprise members whose…]] · Pricing Model
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-added-mouse-support-for-the-n-more-rows-of-lists-in-fullscreen-mode-click-one-to|Added mouse support for the "N more" rows of lists in fullscreen mode]]
-- Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-added-quoted-text-to-the-copy-picker-so-a-drafted-message-copies-without-its-mar|Added quoted text to the /copy picker, so a drafted message copies without its …]]
+- Earlier: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-4-interface-experience-changes-in-v2-1-286|4 Interface Experience changes in v2.1.286]]
+- Later: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-improved-the-focus-tip-it-now-invites-you-to-try-focus-view-mid-turn-and-shows-h|Improved the /focus tip]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

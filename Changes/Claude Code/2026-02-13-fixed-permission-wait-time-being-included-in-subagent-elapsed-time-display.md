@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: afd25ff6ed1c0b5c81b4c046a5ccb9906e4e70a3ef15614a79221a518b544408
+machine_hash: 964eaadb57a368ed3bd54fa32d3a3a4256528b5a55d1d0ea18d8d5b669ab9c7b
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   bash permission matching for commands using environment variable wrappers]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8|claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed permission wait time being included in subagent elapsed time display
 type: change

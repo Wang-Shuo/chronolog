@@ -2,7 +2,7 @@
 changes_count: 0
 date: '2023-11-09'
 description: 'Cursor release Indexing fixes on 2023-11-09: no tracked changes'
-machine_hash: 585905f47ccc080f056fb9bc7273fb6bcbb0ea4f083b0628192e7fdee097e59c
+machine_hash: fb03fb6b31198a7e99d4412c9579d49369fe23175b26f2489ba492cf2d34229d
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.14.1
 <!-- chronolog:begin region="summary" -->
 Fixes a problem where indexing got stuck. Indexing capacity is now also allocated by-user, so it should be more fair and faster for most users.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

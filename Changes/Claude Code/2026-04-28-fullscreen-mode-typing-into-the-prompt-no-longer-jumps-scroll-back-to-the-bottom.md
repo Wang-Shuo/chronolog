@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6915571f6fdf6c5d82d226ac37a959f85a53d59993e7f7a224c995c1129ca7d4
+machine_hash: 15ab64720d1151202676c43d3f1dd6fd0e388643c42b244563769540e0bec8bc
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   a type-to-filter search box to /skills so you can find a skill in long lists…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce|claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: 'Fullscreen mode: typing into the prompt no longer jumps scroll back to the
   bottom…'

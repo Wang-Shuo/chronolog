@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 77c623197d5fcadaf23d3f87c00907d31b63871ee336d63265d089af43078c4e
+machine_hash: 0c0d30d75b0e1a86003145eed433a09160c91174f3237c6dae48f67c671a549d
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   /cost and /stats into /usage]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3|cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: The Commits tab gives you a focused view of commit history for the PR
 type: change

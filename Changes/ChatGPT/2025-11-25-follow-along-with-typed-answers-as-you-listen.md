@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d34c9762b14266e0be54b8c3370dfb104f8434c5ac1c7ffd1b246fa9d2fd8782
+machine_hash: b999bcf1d6819117967f97b5eebb7cbe7924feb72672a0d41c75bcc8242c8200
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,6 +49,7 @@ related_changes:
   back when you can’t talk and still get a Voice response]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37|chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: voice
 title: Follow along with typed answers as you listen
 type: change

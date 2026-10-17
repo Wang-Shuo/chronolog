@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2db3249d96ece7b0466061ee07c952eac63b0fa5c769f1ca54e9bfbb0719fd0a
+machine_hash: c5f6c3692798a0f3601889469d1a462c7a3f74859e8778b8f4cbd30fbc74b109
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   CLAUDE_GATEWAY_PROXY_IS_EGRESS_BOUNDARY=1 for Claude apps gateways whose…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36|claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: 'Added an optional headers: map on Claude apps gateway upstreams, to send static…'
 type: change

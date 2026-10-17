@@ -3,7 +3,7 @@ changes_count: 3
 date: '2026-06-05'
 description: 'Cursor release Design Mode Improvements on 2026-06-05: 3 tracked changes
   across Voice and Audio, Agent Mode'
-machine_hash: 02a9d5e8f0181b30d08766465ae1b163cd9e86ff882ae1bbd95252620ecf5da4
+machine_hash: 46ca868e581acfa73e54625747e7eeb639e6b7469b2ae83fc62c1c9cd81422d7
 product: cursor
 product_name: Cursor
 record:
@@ -39,12 +39,12 @@ version: '3.7'
 <!-- chronolog:begin region="summary" -->
 With Design Mode in the Cursor browser, you can click, draw, or describe changes by voice to help agents update your UI.
 
-Tracked 3 of 4 candidate lines.
+Tracked 3 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-06-05-narrate-changes-through-the-design-mode-overlay-the-mic-stays-available-while-an|Narrate changes through the Design Mode overlay]] · Voice and Audio
-- [[Changes/Cursor/2026-06-05-ask-the-agent-to-make-one-match-the-other-remove-repeated-content-or-adjust-a-gr|Ask the agent to make one match the other, remove repeated content, or adjust…]] · Agent Mode
+- [[Changes/Cursor/2026-06-05-narrate-changes-through-the-design-mode-overlay-the-mic-stays-available-while-an|Voice input]] · Voice and Audio · Launch
+- [[Changes/Cursor/2026-06-05-ask-the-agent-to-make-one-match-the-other-remove-repeated-content-or-adjust-a-gr|Multi-select elements]] · Agent Mode · Launch
 - [[Changes/Cursor/2026-06-05-with-design-mode-in-the-cursor-browser-you-can-click-draw-or-describe-changes-by|With Design Mode in the Cursor browser, you can click, draw, or describe changes…]] · Voice and Audio
 <!-- chronolog:end -->

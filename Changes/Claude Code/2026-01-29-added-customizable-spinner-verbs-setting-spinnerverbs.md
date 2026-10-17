@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 762401501bd13453947a3c809edf2faed58273c8c44a214a847c3287c96b6f38
+machine_hash: 7acf11101ead5c3a2925223ff552b07b12bb6b422af54bf2d35a64263fefec97
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   terminal rendering performance with optimized screen data layout]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-29-v2-1-23-github-280926274-b1e77a6a|claude-code-2026-01-29-v2-1-23-github-280926274-b1e77a6a]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added customizable spinner verbs setting (spinnerVerbs)
 type: change

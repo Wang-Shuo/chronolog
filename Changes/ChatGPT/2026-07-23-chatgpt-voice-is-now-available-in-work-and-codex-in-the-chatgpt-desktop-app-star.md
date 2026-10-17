@@ -4,8 +4,8 @@ date: '2026-07-23'
 description: 'ChatGPT · 2026-07-23 · Voice and Audio: ChatGPT Voice is now available
   in Work and Codex in the ChatGPT desktop app. Start a new task in Voice to speak…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use
-    voice to engage in a back-and-forth conversation with your assistant]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
+    are beginning to roll out new voice and image capabilities in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1032
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 1481e12b364d04c597419068f9b6a5fed512103ebd7ea337183ea63f1438e4db
+kind: expansion
+machine_hash: 120912aea9998b0b9fd2a8e158e123702aa0a9f3ed9f00c581db7e9399adabd0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,8 +36,9 @@ record:
       to start or coordinate work using the tools and permissions available to the
       selected experience.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: expansion
   product: chatgpt
   product_name: ChatGPT
   slug: chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star
@@ -52,26 +54,25 @@ record:
     - desktop
     score: 50
     theme: mobile-desktop
-  title: ChatGPT Voice is now available in Work and Codex in the ChatGPT desktop app
+  title: ChatGPT Voice in Work and Codex on desktop
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-29-open-the-cursor-mobile-app-choose-a-repo-and-launch-an-agent-the-same-way-you-wo|Open
-  the Cursor mobile app, choose a repo, and launch an agent the same way you…]]'
-- '[[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|ChatGPT
-  rolls out a new ChatGPT Voice experience]]'
+- '[[Changes/Cursor/2026-06-29-cloud-agents-on-mobile-1bc371|Cloud agents on mobile]]'
+- '[[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|Introducing
+  GPT-Live-1 in ChatGPT Voice]]'
 - '[[Changes/ChatGPT/2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can-f60c71|ChatGPT
-  is available again on WhatsApp in the European Economic Area (EEA)]]'
+  returns to WhatsApp in the EEA]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-23-chatgpt-voice-in-work-and-codex-on-desktop-449df8e7|chatgpt-2026-07-23-chatgpt-voice-in-work-and-codex-on-desktop-449df8e7]]'
 source_type: chatgpt_changelog
 theme: voice
-title: ChatGPT Voice is now available in Work and Codex in the ChatGPT desktop app
+title: ChatGPT Voice in Work and Codex on desktop
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT Voice is now available in Work and Codex in the ChatGPT desktop app
+# ChatGPT Voice in Work and Codex on desktop
 
-**ChatGPT** · 2026-07-23 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-23-chatgpt-voice-in-work-and-codex-on-desktop-449df8e7|ChatGPT Voice in Work and Codex on desktop]]
+**ChatGPT** · 2026-07-23 · [[Themes/voice|Voice and Audio]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-23-chatgpt-voice-in-work-and-codex-on-desktop-449df8e7|ChatGPT Voice in Work and Codex on desktop]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -87,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-07-13 · ChatGPT · [[Changes/ChatGPT/2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can-f60c71|ChatGPT is available again on WhatsApp in the European Economic Area (EEA)]]
-- Later: 2026-08-07 · ChatGPT · [[Changes/ChatGPT/2026-08-07-gpt-live-in-chatgpt-voice-now-supports-file-uploads-and-projects-you-can-now-upl|GPT-Live in ChatGPT Voice now supports file uploads and Projects]]
+- Earlier: 2026-07-13 · ChatGPT · [[Changes/ChatGPT/2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can-f60c71|ChatGPT returns to WhatsApp in the EEA]]
+- Later: 2026-08-07 · ChatGPT · [[Changes/ChatGPT/2026-08-07-start-voice-conversations-faster-improved-connection-times-make-it-quicker-to-be|Start Voice conversations faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use voice to engage in a back-and-forth conversation with your assistant]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

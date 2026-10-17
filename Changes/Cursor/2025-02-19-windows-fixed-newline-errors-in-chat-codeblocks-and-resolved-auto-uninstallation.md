@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f3735b21045767f44f639c1f891bc82968ac5d16488720549d47e4e14e97127e
+machine_hash: b71e6d366d6998d58d44cae39d476b17e091e7999b93ef755e45cdb9d3775c40
 product: cursor
 product_name: Cursor
 record:
@@ -50,6 +50,7 @@ related_changes:
   sees terminal exit codes, can run commands in the background, and commands…]]'
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
 source_type: cursor_changelog
+superseded: true
 theme: developer-workflow
 title: 'Windows: Fixed newline errors in Chat Codeblocks and resolved auto-uninstallation
   issues'

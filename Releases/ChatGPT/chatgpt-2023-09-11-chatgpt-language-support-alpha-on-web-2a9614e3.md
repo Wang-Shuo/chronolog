@@ -3,7 +3,7 @@ changes_count: 2
 date: '2023-09-11'
 description: 'ChatGPT release ChatGPT language support - Alpha on web on 2023-09-11:
   2 tracked changes across Accessibility and Localization, Interface Experience'
-machine_hash: 89d8905c034c1f3fd3898953850d12a1a9eaa3611091aeb0c9395c87c64376f4
+machine_hash: e5b086ee1f83913beaa2a73eb6cea1cdb9e15028c4a4bacfc4fc65356d012b61
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ version: ChatGPT language support - Alpha on web
 <!-- chronolog:begin region="summary" -->
 ChatGPT now supports a limited selection of languages in the interface:
 
-Tracked 2 of 11 candidate lines.
+Tracked 2 cards from 11 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

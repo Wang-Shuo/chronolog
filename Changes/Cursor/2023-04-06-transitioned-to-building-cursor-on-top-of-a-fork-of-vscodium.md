@@ -4,8 +4,8 @@ date: '2023-04-06'
 description: 'Cursor · 2023-04-06 · Editor Experience: Transitioned to building Cursor
   on top of a fork of VSCodium'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 23
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 8cd10d066b287920af572f55c1874a9d5126848c26a3a5d3a95d7989c550efda
+kind: change
+machine_hash: 11991dd4c48ba844bffc74d8d8b913e61966cd63cdcc7900fa6fffb4819a3f5a
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Transitioned to building Cursor on top of a fork of VSCodium
     source_release: https://cursor.com/changelog/0-2-0
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: transitioned-to-building-cursor-on-top-of-a-fork-of-vscodium
@@ -41,11 +43,11 @@ record:
   title: Transitioned to building Cursor on top of a fork of VSCodium
   type: change
 related_changes:
+- '[[Changes/Cursor/2023-03-23-2-editor-experience-changes-in-0-1-5|2 Editor Experience
+  changes in 0.1.5]]'
 - '[[Changes/Cursor/2023-03-25-fuzzy-search-for-file-names|Fuzzy search for file names]]'
-- '[[Changes/Cursor/2023-04-06-while-currently-similar-to-a-standard-code-editor-with-ai-features-we-plan-to-ev|While
-  currently similar to a standard code editor with AI features, we plan…]]'
-- '[[Changes/Cursor/2023-04-06-this-allows-us-to-focus-on-ai-features-while-leveraging-vs-code-s-mature-text-ed|This
-  allows us to focus on AI features while leveraging VS Code''s mature text…]]'
+- '[[Changes/Cursor/2023-04-06-we-ve-transitioned-to-building-cursor-on-top-of-a-fork-of-vscodium-moving-away-f-1497a9|We''ve
+  transitioned to building Cursor on top of a fork of VSCodium, moving away…]]'
 source_release: '[[Releases/Cursor/cursor-2023-04-06-0-2-0-https-cursor-com-changelog-0-2-0-2dbfe24a|cursor-2023-04-06-0-2-0-https-cursor-com-changelog-0-2-0-2dbfe24a]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -68,10 +70,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2023-04-06-while-currently-similar-to-a-standard-code-editor-with-ai-features-we-plan-to-ev|While currently similar to a standard code editor with AI features, we plan…]] · Editor Experience
-- [[Changes/Cursor/2023-04-06-this-allows-us-to-focus-on-ai-features-while-leveraging-vs-code-s-mature-text-ed|This allows us to focus on AI features while leveraging VS Code's mature text…]] · Editor Experience
-- [[Changes/Cursor/2023-04-06-we-ve-transitioned-to-building-cursor-on-top-of-a-fork-of-vscodium-moving-away-f|We've transitioned to building Cursor on top of a fork of VSCodium, moving away…]] · Editor Experience
-- [[Changes/Cursor/2023-04-06-our-goal-is-to-create-an-ide-optimized-for-pair-programming-with-ai|Our goal is to create an IDE optimized for pair-programming with AI]] · Editor Experience
+- [[Changes/Cursor/2023-04-06-we-ve-transitioned-to-building-cursor-on-top-of-a-fork-of-vscodium-moving-away-f-1497a9|We've transitioned to building Cursor on top of a fork of VSCodium, moving away…]] · Editor Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

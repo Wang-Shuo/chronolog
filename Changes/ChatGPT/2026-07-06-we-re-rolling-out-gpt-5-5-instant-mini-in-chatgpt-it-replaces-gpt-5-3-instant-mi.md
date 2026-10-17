@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 3a872befc8163a8c48c52e2e8290ad99ae0670b386eedd068e96958ae217d297
+kind: change
+machine_hash: 39f1bde58a9cb2b2356e8313c68edfffde1edecf2be180890e21e3b21b31cdaa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,8 +43,9 @@ record:
       tone, and avoids repetitive or overly structured responses. Testing also showed
       stronger personalization and fewer factual issues.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-rolling-out-gpt-5-5-instant-mini-in-chatgpt-it-replaces-gpt-5-3-instant-mi
@@ -65,24 +67,24 @@ record:
     score: 50
     theme: memory
   theme_resolution: manual-semantic-rule-v2
-  title: ChatGPT rolls out GPT-5.5 Instant Mini
+  title: GPT-5.5 Instant Mini in ChatGPT
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-30-introducing-claude-sonnet-5-now-the-default-model-in-claude-code-with-a-native-1|Introducing
   Claude Sonnet 5]]'
-- '[[Changes/Claude Code/2026-07-01-gateway-added-claude-platform-on-aws-anthropicaws-as-an-upstream-provider-model|Gateway:
-  added Claude Platform on AWS (anthropicAws) as an upstream provider]]'
+- '[[Changes/Claude Code/2026-07-01-2-model-support-changes-in-v2-1-198|2 Model Support
+  changes in v2.1.198]]'
 - '[[Changes/Claude Code/2026-07-03-claude-sonnet-5-sessions-no-longer-use-the-mid-conversation-system-role-for-harn|Claude
   Sonnet 5 sessions no longer use the mid-conversation system role for harness…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-06-gpt-5-5-instant-mini-in-chatgpt-1ce53754|chatgpt-2026-07-06-gpt-5-5-instant-mini-in-chatgpt-1ce53754]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: ChatGPT rolls out GPT-5.5 Instant Mini
+title: GPT-5.5 Instant Mini in ChatGPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT rolls out GPT-5.5 Instant Mini
+# GPT-5.5 Instant Mini in ChatGPT
 
 **ChatGPT** · 2026-07-06 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-06-gpt-5-5-instant-mini-in-chatgpt-1ce53754|GPT-5.5 Instant Mini in ChatGPT]]
 <!-- chronolog:end -->
@@ -101,7 +103,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-claude-sonnet-5-sessions-no-longer-use-the-mid-conversation-system-role-for-harn|Claude Sonnet 5 sessions no longer use the mid-conversation system role for harness…]]
-- Later: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-improved-the-bash-powershell-tool-message-when-a-command-hits-its-timeout-and-is|Improved the Bash/PowerShell tool message when a command hits its timeout…]]
+- Later: 2026-07-10 · Claude Code · [[Changes/Claude Code/2026-07-10-improved-code-review-findings-quality-on-claude-opus-4-8-across-all-effort-level|Improved /code-review findings quality on claude-opus-4-8 across all effort levels]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: e44a50193697b7bbe316104b1776f4f8802d838c66dc134eece16113c8b52487
+kind: change
+machine_hash: bb6d01f36b41b889145c4ac9ba489a0332bf87c565dc3e619a8613cbf9b9c968
 product: cursor
 product_name: Cursor
 record:
@@ -36,8 +37,9 @@ record:
       get 10 requests / day for free and can keep using Claude at API-key prices for
       subsequent requests.'
     source_release: https://cursor.com/changelog/0-30-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: stable-claude-support-all-the-newest-claude-models-are-available-for-pro-and-api
@@ -51,8 +53,8 @@ related_changes:
   This is a new model available in command-k and chat]]'
 - '[[Changes/Cursor/2024-01-25-both-pro-and-api-key-users-can-also-try-out-gpt-4-0125-preview-by-configuring-th|Both
   pro and API key users can also try out gpt-4-0125-preview by configuring…]]'
-- '[[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|If
-  you''re a Pro or Business user, you can add "claude-3-opus" as a custom model…]]'
+- '[[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|Claude
+  Support]]'
 source_release: '[[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e|cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e]]'
 source_type: cursor_changelog
 theme: model-support
@@ -84,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-03-12 · Cursor · [[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|If you're a Pro or Business user, you can add "claude-3-opus" as a custom model…]]
+- Earlier: 2024-03-12 · Cursor · [[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|Claude Support]]
 - Later: 2024-04-12 · Cursor · [[Changes/Cursor/2024-04-12-new-gpt-4-model-as-of-a-couple-of-days-ago-you-can-try-out-gpt-4-turbo-2024-04-0|New GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09…]]
 <!-- chronolog:end -->
 

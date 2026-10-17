@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a737f0cdf20fdba485475d3ccde7ea495dee81554347efcfa8b76af519716721
+machine_hash: 10bd8dbdbe058b60b188277d7a19725f844498190b6c144b0b01524346fe5f61
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,6 +45,7 @@ related_changes:
   let you set up automated prompts that ChatGPT can run for you]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44|chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: automation-scheduling
 title: Create tasks in chat or in Pulse—whatever’s easier in the moment
 type: change

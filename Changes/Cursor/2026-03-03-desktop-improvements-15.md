@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: cdec2dc116ae807b4d30183f711ed66e40899b74e0d047d98778ed9f251b07c1
+machine_hash: 3b1c2b3502577adcfc9531c587dfa52721c171dba0ee2af068a6a68d8d45bc9a
 product: cursor
 product_name: Cursor
 record:
@@ -46,6 +46,7 @@ related_changes:
   agents are available anywhere you use Cursor, including web, desktop, mobile…]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3]]'
 source_type: cursor_changelog
+superseded: true
 theme: mobile-desktop
 title: Desktop Improvements (15)↓↑
 type: change

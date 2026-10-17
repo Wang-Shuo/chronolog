@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f90530a7ecdb3b30c56b9c45d390ed85bb63a26d279e2fd20f2816cc2a798a9c
+machine_hash: 0037c4959152dbb2071ef3ed02d5f708e4c6ccfae68dca8d693e892699086695
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   /plugin install plugin --marketplace source, which offers to add…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36|claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added CLAUDE_GATEWAY_PROXY_IS_EGRESS_BOUNDARY=1 for Claude apps gateways whose…
 type: change

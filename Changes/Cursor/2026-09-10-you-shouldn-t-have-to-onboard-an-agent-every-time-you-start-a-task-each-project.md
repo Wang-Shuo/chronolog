@@ -1,23 +1,24 @@
 ---
 card_id: cursor-2026-09-10-197c34
 date: '2026-09-10'
-description: 'Cursor · 2026-09-10 · Agent Mode: You shouldn''t have to onboard an
-  agent every time you start a task. Each Project maintains a set of files that sync
-  across…'
+description: 'Cursor · 2026-09-10 · Context Window: You shouldn''t have to onboard
+  an agent every time you start a task. Each Project maintains a set of files that
+  sync…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1162
+  lag_days: 1225
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: agent-mode
+  theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: a87fcacc9fea24a0a085a3f726e921e5829a767a10008ec1bf3122fabcf43000
+kind: launch
+machine_hash: aef640d8ab52153ffe1b20e18a2f435794ea0e4541d3d6fc80ad998ddae8597a
 product: cursor
 product_name: Cursor
 record:
@@ -42,44 +43,35 @@ record:
       The shared context grows with the Project, making the coordinator more effective
       over time.
     source_release: https://cursor.com/changelog/projects
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: you-shouldn-t-have-to-onboard-an-agent-every-time-you-start-a-task-each-project
+  slug: shared-context
   source_release: cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75
   source_type: cursor_changelog
-  theme: agent-mode
-  theme_matches:
-  - matched_terms:
-    - agent
-    - agents
-    score: 100
-    theme: agent-mode
-  - matched_terms:
-    - context
-    score: 50
-    theme: context-window
-  title: You shouldn't have to onboard an agent every time you start a task
+  theme: context-window
+  title: Shared context
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-added-claude-code-subagent-model-force-to-apply-claude-code-subagent-model-or-th|Added
-  CLAUDE_CODE_SUBAGENT_MODEL_FORCE to apply CLAUDE_CODE_SUBAGENT_MODEL…]]'
-- '[[Changes/Cursor/2026-09-02-your-codebase-build-outputs-and-secrets-all-stay-on-internal-machines-running-in|Your
-  codebase, build outputs, and secrets all stay on internal machines running…]]'
-- '[[Changes/Claude Code/2026-09-04-added-append-subagent-system-prompt-file-to-read-the-subagent-system-prompt-from|Added
-  --append-subagent-system-prompt-file to read the subagent system prompt…]]'
+- '[[Changes/Claude Code/2026-09-04-changed-context-token-counting-to-use-a-local-estimate-when-the-token-counting-a|Changed
+  /context token counting to use a local estimate when the token-counting…]]'
+- '[[Changes/Claude Code/2026-09-04-added-skill-doctor-to-show-which-loaded-skills-go-unused-and-what-they-cost-in-c|Added
+  /skill-doctor to show which loaded skills go unused and what they cost…]]'
+- '[[Changes/Claude Code/2026-09-09-improved-prompt-cache-stability-subagents-and-sessions-started-with-system-promp|Improved
+  prompt-cache stability]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75|cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75]]'
 source_type: cursor_changelog
-theme: agent-mode
-title: You shouldn't have to onboard an agent every time you start a task
+theme: context-window
+title: Shared context
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# You shouldn't have to onboard an agent every time you start a task
+# Shared context
 
-**Cursor** · 2026-09-10 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/projects) · from [[Releases/Cursor/cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75|Cursor Projects]]
+**Cursor** · 2026-09-10 · [[Themes/context-window|Context Window]] · Launch · [Official source](https://cursor.com/changelog/projects) · from [[Releases/Cursor/cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75|Cursor Projects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -91,23 +83,22 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-09-10-a-project-runs-on-its-own-computer-in-the-cloud-so-closing-your-laptop-doesn-t-s|A Project runs on its own computer in the cloud, so closing your laptop doesn't stop it]] · Agent Mode
-- [[Changes/Cursor/2026-09-10-access-projects-from-the-left-hand-nav-the-coordinator-agent-in-a-project-doesn|Access Projects from the left-hand nav]] · Agent Mode
-- [[Changes/Cursor/2026-09-10-tell-the-coordinator-agent-to-watch-a-slack-channel-run-on-a-schedule-or-follow|Tell the coordinator agent to watch a Slack channel, run on a schedule, or follow…]] · Agent Mode
-- [[Changes/Cursor/2026-09-10-today-we-re-launching-projects-in-cursor-projects-lets-you-take-on-larger-bodies|Cursor launches Projects]] · Context Window
+- [[Changes/Cursor/2026-09-10-a-project-runs-on-its-own-computer-in-the-cloud-so-closing-your-laptop-doesn-t-s|Powered by Cloud Agents]] · Agent Mode
+- [[Changes/Cursor/2026-09-10-subscriptions|Subscriptions]] · Agent Mode
+- [[Changes/Cursor/2026-09-10-today-we-re-launching-projects-in-cursor-projects-lets-you-take-on-larger-bodies-51d06c|Cursor launches Projects]] · Context Window
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Agent Mode
+## Nearby in Context Window
 
-- Earlier: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-added-append-subagent-system-prompt-file-to-read-the-subagent-system-prompt-from|Added --append-subagent-system-prompt-file to read the subagent system prompt…]]
-- Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-added-omitclaudemd-to-agent-frontmatter-and-agents-json-letting-custom-and-plugi|Added omitClaudeMd to agent frontmatter and --agents JSON, letting custom…]]
+- Earlier: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-improved-prompt-cache-stability-subagents-and-sessions-started-with-system-promp|Improved prompt-cache stability]]
+- Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-improved-the-spinner-status-during-long-thinking-it-now-reads-deep-in-thought-af|Improved the spinner status during long thinking]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

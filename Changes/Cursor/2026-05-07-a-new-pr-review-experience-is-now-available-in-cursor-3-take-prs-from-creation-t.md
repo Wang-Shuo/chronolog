@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 12d1274521701cf65bffe1becab14cf248f873abf227d44eeeb512e15b19f78f
+machine_hash: 99d345a67f1c3c3b04db86c91ea06dfcd0e0891d5f93e2daf3ca8e685bcab431
 product: cursor
 product_name: Cursor
 record:
@@ -52,6 +52,7 @@ related_changes:
   worktree.baseRef setting (fresh  /  head) to choose whether --worktree…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3|cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3]]'
 source_type: cursor_changelog
+superseded: true
 theme: developer-workflow
 title: A new PR review experience is now available in Cursor 3
 type: change

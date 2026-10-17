@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: e3d2339312d854d9e9c78a322aada7c772ea7155923463c4253eadf30f335384
+kind: change
+machine_hash: acd22412e99de70c473020fb51c2f5bb38eb6c4d79c74d0401ea3413c6370b1b
 product: cursor
 product_name: Cursor
 record:
@@ -34,8 +35,9 @@ record:
       using the MCPs and models you've configured. Agents also have access to a memory
       tool that lets them learn from past runs and improve with repetition.
     source_release: https://cursor.com/changelog/03-05-26
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: change
   product: cursor
   product_name: Cursor
   slug: when-invoked-the-agent-spins-up-a-cloud-sandbox-and-follows-your-instructions-us
@@ -61,12 +63,12 @@ record:
     using…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-17-the-sandbox-now-supports-granular-network-access-controls-as-well-as-controls-fo|The
-  sandbox now supports granular network access controls, as well as controls…]]'
-- '[[Changes/Claude Code/2026-02-19-permission-suggestions-are-now-populated-when-safety-checks-trigger-an-ask-respo|Permission
-  suggestions are now populated when safety checks trigger an ask response…]]'
-- '[[Changes/Claude Code/2026-02-24-fixed-a-security-issue-where-statusline-and-filesuggestion-hook-commands-could-e|Fixed
-  a security issue where statusLine and fileSuggestion hook commands could…]]'
+- '[[Changes/Claude Code/2026-02-28-fixed-listener-leak-in-interactive-permission-handler-during-auto-approvals|Fixed
+  listener leak in interactive permission handler during auto-approvals]]'
+- '[[Changes/Cursor/2026-03-03-fixed-team-permission-and-access-control-inconsistencies-across-organization-set|Fixed
+  team permission and access control inconsistencies across organization setups]]'
+- '[[Changes/Claude Code/2026-03-05-5-safety-and-privacy-changes-in-v2-1-69|5 Safety
+  and Privacy changes in v2.1.69]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422|cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422]]'
 source_type: cursor_changelog
 theme: safety-privacy
@@ -90,15 +92,14 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-03-05-cursor-now-supports-automations-for-building-always-on-agents-that-run-based-on|Cursor now supports automations for building always-on agents that run based…]] · Automation and Scheduling
 - [[Changes/Cursor/2026-03-05-create-automations-at-cursor-com-automations-or-start-from-a-template-read-more|Create automations at cursor.com/automations, or start from a template]] · Automation and Scheduling
-- [[Changes/Cursor/2026-03-05-automations-run-on-schedules-or-are-triggered-by-events-from-slack-linear-github|Automations run on schedules or are triggered by events from Slack, Linear, GitHub…]] · Automation and Scheduling
+- [[Changes/Cursor/2026-03-05-cursor-now-supports-automations-for-building-always-on-agents-that-run-based-on-fb3c5d|Cursor now supports automations for building always-on agents that run based…]] · Automation and Scheduling
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-02-24 · Claude Code · [[Changes/Claude Code/2026-02-24-fixed-a-security-issue-where-statusline-and-filesuggestion-hook-commands-could-e|Fixed a security issue where statusLine and fileSuggestion hook commands could…]]
+- Earlier: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-5-safety-and-privacy-changes-in-v2-1-69|5 Safety and Privacy changes in v2.1.69]]
 - Later: 2026-03-07 · Claude Code · [[Changes/Claude Code/2026-03-07-fixed-false-positive-permission-prompts-for-compound-bash-commands-containing-he|Fixed false-positive permission prompts for compound bash commands containing…]]
 <!-- chronolog:end -->
 

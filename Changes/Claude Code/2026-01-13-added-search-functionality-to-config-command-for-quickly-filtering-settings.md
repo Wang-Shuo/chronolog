@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f312126765bfcc46d3b29422376ced1afc78750f28f9bc879c333b6bfb394c12
+machine_hash: 1b7a551fc189a7be34c29cb0ee368a0026db93cc9c1c5e266bd5102db54015d1
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   date range filtering to /stats command - press r to cycle between Last 7…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a|claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added search functionality to /config command for quickly filtering settings
 type: change

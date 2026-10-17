@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: eb898adddf52225a2c61cbc681fc0ec528c13ed96c35825e1b766b1c2787c31d
+machine_hash: 66acbdd620ce330ff660337121f44db5e4fdb4f9f5efe7629dfdac21fe068f0e
 product: cursor
 product_name: Cursor
 record:
@@ -65,6 +65,7 @@ related_changes:
   auto mode classifier latency by reducing reasoning on routine actions…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-10-bugbot-is-now-over-3x-faster-22-cheaper-and-finds-10-more-bugs-h-c1721c78|cursor-2026-06-10-bugbot-is-now-over-3x-faster-22-cheaper-and-finds-10-more-bugs-h-c1721c78]]'
 source_type: cursor_changelog
+superseded: true
 theme: reliability-performance
 title: These performance gains are made possible by progress we've made training Composer…
 type: change

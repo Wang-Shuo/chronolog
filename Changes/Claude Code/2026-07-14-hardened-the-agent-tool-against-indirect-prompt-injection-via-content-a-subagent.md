@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: d54afa804d4bf59fbd781f355245a94e1e2ef4962198a8c7670a9b8f0efec614
+machine_hash: f11d574226aec40a8b25f4ca192fae22614d0cb13ee99af8f2e72bd07abde339
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   agent view]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-210-github-354034085-7eba9ec7|claude-code-2026-07-14-v2-1-210-github-354034085-7eba9ec7]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Hardened the Agent tool against indirect prompt injection via content a subagent
   read

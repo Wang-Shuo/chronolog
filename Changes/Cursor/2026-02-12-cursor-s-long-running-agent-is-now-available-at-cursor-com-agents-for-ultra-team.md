@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 4abfd405952959bbda8bbf8dccffb787a5cc0e15bd70306d1687901b3f3974f0
+machine_hash: 03216ea4d3185e9219f606a3398cd779624eba028aecfcc8a045401bed92f7da
 product: cursor
 product_name: Cursor
 record:
@@ -65,6 +65,7 @@ related_changes:
   TeammateIdle and TaskCompleted hook events for multi-agent workflows]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-12-long-running-agents-in-research-preview-https-cursor-com-changel-2b95c718|cursor-2026-02-12-long-running-agents-in-research-preview-https-cursor-com-changel-2b95c718]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Cursor's long-running agent is now available at cursor.com/agents for Ultra,
   Teams…

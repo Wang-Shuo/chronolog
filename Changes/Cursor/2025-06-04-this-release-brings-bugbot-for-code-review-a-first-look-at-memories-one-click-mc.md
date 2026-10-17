@@ -4,8 +4,8 @@ date: '2025-06-04'
 description: 'Cursor · 2025-06-04 · Agent Mode: This release brings Bugbot for code
   review, a first look at memories, one-click MCP setup, Jupyter support, and general…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 699
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: a46bf25b384d8193e69c167ce0f96ab513107060a62c1a9c7a044ddbb2c19a17
+kind: launch
+machine_hash: 0e0dd0bf0fe07531c5fe327abc139dac7a73e78306daebe430eae733b7ca343f
 product: cursor
 product_name: Cursor
 record:
@@ -32,8 +33,9 @@ record:
   - quote: This release brings Bugbot for code review, a first look at memories, one-click
       MCP setup, Jupyter support, and general availability of Background Agent.
     source_release: https://cursor.com/changelog/1-0
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: launch
   product: cursor
   product_name: Cursor
   slug: this-release-brings-bugbot-for-code-review-a-first-look-at-memories-one-click-mc
@@ -62,12 +64,11 @@ record:
     MCP setup…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-04-15-reviewing-agent-generated-code-is-now-easier-with-a-built-in-diff-view-at-the-en|Reviewing
-  agent generated code is now easier with a built-in diff view at the end…]]'
-- '[[Changes/Cursor/2025-04-15-we-ve-also-fixed-a-long-standing-issue-where-always-attached-rules-now-persist-a|Cursor
-  fixes a long-standing issue where Always attached rules now persist across…]]'
-- '[[Changes/Cursor/2025-04-15-for-auto-attached-rules-with-path-patterns-defined-agent-will-now-automatically|For
-  Auto Attached rules with path patterns defined, Agent will now automatically…]]'
+- '[[Changes/Cursor/2025-06-04-open-background-agent-control-panel-with-cmd-ctrl-e|Open
+  Background Agent control panel with Cmd/Ctrl+E]]'
+- '[[Changes/Cursor/2025-06-04-agent-in-jupyter-notebooks|Agent in Jupyter Notebooks]]'
+- '[[Changes/Cursor/2025-06-04-background-agent-for-everyone-8b35dc|Background Agent
+  for everyone]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -79,7 +80,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Cursor brings Bugbot for code review, a first look at memories, one-click MCP setup…
 
-**Cursor** · 2025-06-04 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/1-0) · from [[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|Bugbot, Background Agent access to everyone, and one-click MCP install]]
+**Cursor** · 2025-06-04 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://cursor.com/changelog/1-0) · from [[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|Bugbot, Background Agent access to everyone, and one-click MCP install]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -91,23 +92,32 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2025-06-04-bugbot-automatically-reviews-your-prs-and-catches-potential-bugs-and-issues|Bugbot automatically reviews your PRs and catches potential bugs and issues]] · Developer Workflow
-- [[Changes/Cursor/2025-06-04-since-we-released-background-agent-our-remote-coding-agent-in-early-access-a-few|Since we released Background Agent, our remote coding agent, in early access a few…]] · Agent Mode
-- [[Changes/Cursor/2025-06-04-when-an-issue-is-found-bugbot-leaves-a-comment-on-your-prs-in-github-you-can-cli|When an issue is found, Bugbot leaves a comment on your PRs in GitHub]] · Editor Experience
-- [[Changes/Cursor/2025-06-04-we-re-now-excited-to-expand-background-agent-to-all-users-you-can-start-using-it|Cursor expands Background Agent to all users!]] · Safety and Privacy
+- [[Changes/Cursor/2025-06-04-team-admins-can-now-disable-privacy-mode|Team admins can now disable Privacy Mode]] · Safety and Privacy
+- [[Changes/Cursor/2025-06-04-automatic-code-review-with-bugbot-19b552|Automatic code review with Bugbot]] · Developer Workflow
+- [[Changes/Cursor/2025-06-04-open-background-agent-control-panel-with-cmd-ctrl-e|Open Background Agent control panel with Cmd/Ctrl+E]] · Agent Mode
+- [[Changes/Cursor/2025-06-04-admin-api-for-teams-to-access-usage-metrics-and-spend-data|Admin API for teams to access usage metrics and spend data]] · Collaboration
+- [[Changes/Cursor/2025-06-04-memories|Memories]] · Memory and Personalization
+- [[Changes/Cursor/2025-06-04-agent-in-jupyter-notebooks|Agent in Jupyter Notebooks]] · Agent Mode
+- [[Changes/Cursor/2025-06-04-background-agent-for-everyone-8b35dc|Background Agent for everyone]] · Agent Mode
+- [[Changes/Cursor/2025-06-04-link-and-web-search-can-now-parse-pdfs-and-include-in-context|@Link and web search can now parse PDFs and include in context]] · Search and Browsing
+- [[Changes/Cursor/2025-06-04-max-mode-is-now-available-for-gemini-2-5-flash|Max mode is now available for Gemini 2.5 Flash]] · Model Support
+- [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]] · Enterprise and Administration
+- [[Changes/Cursor/2025-06-04-new-settings-and-dashboard|New Settings and Dashboard]] · Interface Experience
+- [[Changes/Cursor/2025-06-04-faster-responses-with-parallel-tool-calls|Faster responses with parallel tool calls]] · Reliability and Performance
+- [[Changes/Cursor/2025-06-04-mcp-one-click-install-and-oauth-support|MCP one-click install and OAuth support]] · Account and Access
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-for-auto-attached-rules-with-path-patterns-defined-agent-will-now-automatically|For Auto Attached rules with path patterns defined, Agent will now automatically…]]
+- Earlier: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-background-agent-preview|Background Agent (Preview)]]
 - Later: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-you-can-now-launch-background-agents-directly-from-slack-by-mentioning-cursor-ag|Launch Background Agents directly from Slack by mentioning @Cursor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

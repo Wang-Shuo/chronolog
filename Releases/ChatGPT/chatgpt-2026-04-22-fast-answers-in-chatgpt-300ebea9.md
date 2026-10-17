@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-04-22'
 description: 'ChatGPT release Fast answers in ChatGPT on 2026-04-22: 1 tracked change
   across Memory and Personalization'
-machine_hash: 193aae8ed78f660f2eebb024f1d95d60d70019d0bedc92340c2faac3b68a3012
+machine_hash: d6244407a7960a305099d5da877cfd320f9e97122e757c2ec8468cd458812b13
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: Fast answers in ChatGPT
 <!-- chronolog:begin region="summary" -->
 Sometimes, you just want the right answer as quickly as possible. We’re rolling out Fast answers, a quicker way to get responses to common information-seeking questions in ChatGPT, like “Show me the Seven Wonders of the World” or “Which football team has the most super bowl titles?”When your question doesn’t require a…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|Sometimes, you just want the right answer as quickly as possible]] · Memory and Personalization
+- [[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|Fast answers in ChatGPT]] · Memory and Personalization
 <!-- chronolog:end -->

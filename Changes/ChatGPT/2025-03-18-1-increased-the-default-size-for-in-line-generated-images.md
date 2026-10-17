@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3b05b862765dc7031074f8830837a8121e0f0d0fadcd721341d3fee3e3a6a2df
+machine_hash: 93abf7ab03a9c32db91f766d0a56a931475037b54602b4b007a3bfdca6bcc93a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,6 +45,7 @@ related_changes:
   rolls out the ability for ChatGPT Free users to create up to two images per…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-android-app-c47c961b|chatgpt-2025-03-18-android-app-c47c961b]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: image-generation
 title: Increased the default size for in‐line generated images
 type: change

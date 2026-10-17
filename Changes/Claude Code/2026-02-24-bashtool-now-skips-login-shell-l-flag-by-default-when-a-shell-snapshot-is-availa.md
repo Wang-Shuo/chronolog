@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: d26bc80148ac5b41cf764f31e12d2c93ccd40caafba90d9b6ca2f8f0317983af
+kind: change
+machine_hash: c558625798467e70cf5a68205562de1586a368b131ba8feb1e1d8b1c4aa8d8ec
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
       is available, improving command execution performance. Previously this required
       setting `CLAUDE_BASH_NO_LOGIN=true`.
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.51
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: bashtool-now-skips-login-shell-l-flag-by-default-when-a-shell-snapshot-is-availa
@@ -51,12 +53,12 @@ record:
   title: BashTool now skips login shell (`-l` flag) by default when a shell snapshot…
   type: change
 related_changes:
+- '[[Changes/Cursor/2026-02-18-3-developer-workflow-changes-in-cli-improvements-and-mermaid-ascii|3
+  Developer Workflow changes in CLI Improvements and Mermaid ASCII…]]'
 - '[[Changes/ChatGPT/2026-02-19-review-code-in-split-screen-views|Review code in split-screen
   views]]'
-- '[[Changes/Claude Code/2026-02-20-added-worktreecreate-and-worktreeremove-hook-events-enabling-custom-vcs-setup-an|Added
-  WorktreeCreate and WorktreeRemove hook events, enabling custom VCS setup…]]'
-- '[[Changes/Claude Code/2026-02-20-added-support-for-startuptimeout-configuration-for-lsp-servers|Added
-  support for startupTimeout configuration for LSP servers]]'
+- '[[Changes/Claude Code/2026-02-20-3-developer-workflow-changes-in-v2-1-50|3 Developer
+  Workflow changes in v2.1.50]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c|claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c]]'
 source_type: github_releases
 theme: developer-workflow
@@ -79,16 +81,16 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-02-24-added-support-for-custom-npm-registries-and-specific-version-pinning-when-instal|Added support for custom npm registries and specific version pinning when installing…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-02-24-fixed-a-security-issue-where-statusline-and-filesuggestion-hook-commands-could-e|Fixed a security issue where statusLine and fileSuggestion hook commands could…]] · Safety and Privacy
-- [[Changes/Claude Code/2026-02-24-added-claude-remote-control-subcommand-for-external-builds-enabling-local-enviro|Added claude remote-control subcommand for external builds, enabling local…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-02-24-updated-plugin-marketplace-default-git-timeout-from-30s-to-120s-and-added-claude|Updated plugin marketplace default git timeout from 30s to 120s and added…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-02-24-3-safety-and-privacy-changes-in-v2-1-51|3 Safety and Privacy changes in v2.1.51]] · Safety and Privacy
+- [[Changes/Claude Code/2026-02-24-4-apps-and-integrations-changes-in-v2-1-51|4 Apps and Integrations changes in v2.1.51]] · Apps and Integrations
+- [[Changes/Claude Code/2026-02-24-tool-results-larger-than-50k-characters-are-now-persisted-to-disk-previously-100|Tool results larger than 50K characters are now persisted to disk (previously 100K)]] · Context Window
+- [[Changes/Claude Code/2026-02-24-the-model-picker-now-shows-human-readable-labels-e-g-sonnet-4-5-instead-of-raw-m|The /model picker now shows human-readable labels (e.g., "Sonnet 4.5") instead…]] · Model Support
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-added-support-for-startuptimeout-configuration-for-lsp-servers|Added support for startupTimeout configuration for LSP servers]]
+- Earlier: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-3-developer-workflow-changes-in-v2-1-50|3 Developer Workflow changes in v2.1.50]]
 - Later: 2026-02-26 · Claude Code · [[Changes/Claude Code/2026-02-26-improved-always-allow-prefix-suggestions-for-compound-bash-commands-e-g-cd-tmp-g|Improved "always allow" prefix suggestions for compound bash commands…]]
 <!-- chronolog:end -->
 

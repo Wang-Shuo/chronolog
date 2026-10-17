@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e42841db7d86af00dc82d40abcdbe8909b961350394323fb5c857ead11a97701
+machine_hash: c581224b6b84e543cc18d71161b102c2d1b277822597cb6dfd99a983259d22ce
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   between models is a lot more easy, and the transition to gpt-4 is a lot smoother]]'
 source_release: '[[Releases/Cursor/cursor-2023-05-20-0-2-18-https-cursor-com-changelog-0-2-18-ba8b7390|cursor-2023-05-20-0-2-18-https-cursor-com-changelog-0-2-18-ba8b7390]]'
 source_type: cursor_changelog
+superseded: true
 theme: model-support
 title: All users get 10 free gpt-4 requests !!!
 type: change

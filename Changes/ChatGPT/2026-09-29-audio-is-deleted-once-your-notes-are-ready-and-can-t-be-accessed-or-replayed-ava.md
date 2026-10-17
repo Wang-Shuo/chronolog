@@ -14,9 +14,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 885878829d8832b8712dcc6aa43940340207b79bbe121b23a334b5b410e41735
+kind: change
+machine_hash: bc5623c890fa38ed2fc0cc83b2fdc6ac797cbd1782c3ba355bb20ddfbe5de783
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,8 +32,9 @@ record:
       Available in beta in the ChatGPT desktop app on macOS to Pro and Business users,
       with Enterprise coming soon. Learn more.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava
@@ -56,10 +58,10 @@ record:
   title: Audio is deleted once your notes are ready and can’t be accessed or replayed
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-21-this-feature-is-rolling-out-in-finances-to-plus-and-pro-users-in-the-u-s-on-web|This
-  feature is rolling out in Finances to Plus and Pro users in the U.S. on web…]]'
-- '[[Changes/Claude Code/2026-09-23-added-claude-apps-gateway-support-for-newer-claude-desktop-keys-in-desktop-polic|Added
-  Claude apps gateway support for newer Claude Desktop keys in desktop policy…]]'
+- '[[Changes/Claude Code/2026-09-23-2-mobile-and-desktop-changes-in-v2-1-281|2 Mobile
+  and Desktop changes in v2.1.281]]'
+- '[[Changes/Claude Code/2026-09-24-2-mobile-and-desktop-changes-in-v2-1-282|2 Mobile
+  and Desktop changes in v2.1.282]]'
 - '[[Changes/ChatGPT/2026-09-29-site-owners-and-editors-on-plus-and-pro-can-select-edit-site-from-a-published-si|Site
   owners and editors on Plus and Pro can select Edit site from a published Site…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-meetings-plugin-157dcc24|chatgpt-2026-09-29-meetings-plugin-157dcc24]]'
@@ -91,7 +93,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-site-owners-and-editors-on-plus-and-pro-can-select-edit-site-from-a-published-si|Site owners and editors on Plus and Pro can select Edit site from a published Site…]]
-- Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-added-claude-desktop-to-open-the-claude-desktop-app-on-the-current-directory-or|Added claude --desktop to open the Claude desktop app on the current directory…]]
+- Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-6-mobile-and-desktop-changes-in-v2-1-285|6 Mobile and Desktop changes in v2.1.285]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

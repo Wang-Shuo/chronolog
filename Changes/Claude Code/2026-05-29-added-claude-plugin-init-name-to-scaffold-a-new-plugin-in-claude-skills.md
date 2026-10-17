@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: a84e5247908c5f2cf9af60282e337d7e990fa18526182299bd4fbb4b2cf9b8a5
+machine_hash: f4ad20473f2fc70db96705e51a2de87a4b2efb6ac934c020df5b174d12368a9c
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   skipLfs option to github/git plugin marketplace sources to skip Git LFS…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8|claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added claude plugin init name to scaffold a new plugin in .claude/skills
 type: change

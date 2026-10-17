@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5f997ea1ff7e49fe0b046596dbec10b90000e82f7fd432f39c0c0c8dd4ae2197
+machine_hash: 0b7c8cc3c26426bb8d7ee9dd38df02d05dcd323d816b90bedc4fc5bc2bc67bb6
 product: cursor
 product_name: Cursor
 record:
@@ -50,6 +50,7 @@ related_changes:
   in beta in 1.7, browser for Agent is now GA]]'
 source_release: '[[Releases/Cursor/cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490|cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490]]'
 source_type: cursor_changelog
+superseded: true
 theme: enterprise-admin
 title: This is in addition to Bugbot, which runs on your source control provider like…
 type: change

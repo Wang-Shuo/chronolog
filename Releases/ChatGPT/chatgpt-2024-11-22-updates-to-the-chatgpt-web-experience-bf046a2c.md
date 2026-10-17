@@ -1,9 +1,10 @@
 ---
-changes_count: 3
+changes_count: 5
 date: '2024-11-22'
 description: 'ChatGPT release Updates to the ChatGPT Web experience on 2024-11-22:
-  3 tracked changes across Interface Experience'
-machine_hash: f33aaebdf0366b0bc5b7eb2418715985b847a793072465be19cc4c896db43606
+  5 tracked changes across Interface Experience, Files and Data, Image Generation,
+  Mobile…'
+machine_hash: eadd7924c105c9bd437be484ef267cace94f7ac14a1650e8ff4c75bccccf1eb8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,12 +40,14 @@ version: Updates to the ChatGPT Web experience
 <!-- chronolog:begin region="summary" -->
 We are rolling out the following updates over the next two weeks to all ChatGPT users.
 
-Tracked 3 of 20 candidate lines.
+Tracked 5 cards from 20 candidate lines; 6 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2024-11-22-a-small-settings-icon-was-added-in-larger-viewports-when-the-sidebar-is-not-open|A small settings icon was added in larger viewports when the sidebar is not open]] · Interface Experience
-- [[Changes/ChatGPT/2024-11-22-new-floating-mode-added-with-soft-dismiss-behavior|New floating mode added with soft dismiss behavior]] · Interface Experience
-- [[Changes/ChatGPT/2024-11-22-recent-conversations-are-now-limited-in-the-sidebar-with-an-unlimited-infinite-s|Recent conversations are now limited in the sidebar, with an unlimited infinite…]] · Interface Experience
+- [[Changes/ChatGPT/2024-11-22-the-new-chat-button-has-been-moved-to-the-left-of-the-model-picker-to-be-easier|The new chat button has been moved to the left of the Model Picker to be easier to access]] · Interface Experience
+- [[Changes/ChatGPT/2024-11-22-dall-e-focused-view-has-an-updated-layout|DALL-E focused view has an updated layout]] · Image Generation
+- [[Changes/ChatGPT/2024-11-22-the-sidebar-when-pinned-can-now-stay-open-with-an-active-canvas-if-enough-space|The sidebar when pinned can now stay open with an active Canvas if enough space…]] · Files and Data
+- [[Changes/ChatGPT/2024-11-22-improved-mobile-web-experience|Improved Mobile Web Experience]] · Mobile and Desktop · Launch
+- [[Changes/ChatGPT/2024-11-22-sidebar-redesign-e6413a|Sidebar redesign]] · Interface Experience · Launch
 <!-- chronolog:end -->

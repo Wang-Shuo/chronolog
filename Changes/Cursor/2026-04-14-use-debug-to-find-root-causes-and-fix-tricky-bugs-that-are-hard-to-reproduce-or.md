@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 48883d79d6a4e8b1a3d58e798f544b914c014df7442dc89c28e4e732380d0708
+kind: launch
+machine_hash: 16a3b4aaeb5f8c128e8f9bfbfc4bfb7790ffd7d236d40d858c4f67e8dbb72815
 product: cursor
 product_name: Cursor
 record:
@@ -32,36 +33,36 @@ record:
       and uses runtime information to pinpoint the issue before making a targeted
       fix.
     source_release: https://cursor.com/changelog/04-14-26
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: use-debug-to-find-root-causes-and-fix-tricky-bugs-that-are-hard-to-reproduce-or
+  slug: debug-mode-in-cli
   source_release: cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a
   source_type: cursor_changelog
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Use /debug to find root causes and fix tricky bugs that are hard to reproduce…
+  title: Debug Mode in CLI
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-08-added-workspace-git-worktree-to-the-status-line-json-input-set-when-the-current|Added
-  workspace.git_worktree to the status line JSON input, set when the current…]]'
-- '[[Changes/Cursor/2026-04-08-bugbot-can-now-learn-from-feedback-on-pull-requests-and-turn-those-signals-into|Bugbot
-  can now learn from feedback on pull requests and turn those signals…]]'
-- '[[Changes/Claude Code/2026-04-13-added-path-parameter-to-the-enterworktree-tool-to-switch-into-an-existing-worktr|Added
-  path parameter to the EnterWorktree tool to switch into an existing…]]'
+- '[[Changes/Cursor/2026-04-08-bugbot-learned-rules-9e5cac|Bugbot Learned Rules]]'
+- '[[Changes/Claude Code/2026-04-09-6-developer-workflow-changes-in-v2-1-98|6 Developer
+  Workflow changes in v2.1.98]]'
+- '[[Changes/Claude Code/2026-04-13-2-developer-workflow-changes-in-v2-1-105|2 Developer
+  Workflow changes in v2.1.105]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a|cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: Use /debug to find root causes and fix tricky bugs that are hard to reproduce…
+title: Debug Mode in CLI
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Use /debug to find root causes and fix tricky bugs that are hard to reproduce…
+# Debug Mode in CLI
 
-**Cursor** · 2026-04-14 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://cursor.com/changelog/04-14-26) · from [[Releases/Cursor/cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a|CLI Debug Mode and /btw Support]]
+**Cursor** · 2026-04-14 · [[Themes/developer-workflow|Developer Workflow]] · Launch · [Official source](https://cursor.com/changelog/04-14-26) · from [[Releases/Cursor/cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a|CLI Debug Mode and /btw Support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -73,16 +74,18 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-04-14-ask-a-quick-side-question-without-derailing-the-agent-s-main-task-btw-allows-you|Ask a quick side question without derailing the agent's main task]] · Agent Mode
+- [[Changes/Cursor/2026-04-14-ask-a-quick-side-question-without-derailing-the-agent-s-main-task-btw-allows-you|/btw support in CLI]] · Agent Mode
+- [[Changes/Cursor/2026-04-14-trigger-the-model-picker-from-anywhere-to-switch-models-without-clearing-your-pr|Trigger the model picker from anywhere to switch models without clearing your prompt first]] · Model Support
 - [[Changes/Cursor/2026-04-14-we-ve-shipped-quality-of-life-improvements-to-the-cursor-cli-to-make-working-wit|We've shipped quality-of-life improvements to the Cursor CLI to make working…]] · Developer Workflow
-- [[Changes/Cursor/2026-04-14-config-opens-an-interactive-settings-panel-inside-the-cli-where-you-can-view-and|/config opens an interactive settings panel inside the CLI where you can view…]] · Model Support
+- [[Changes/Cursor/2026-04-14-configuration-menu-in-cli|Configuration menu in CLI]] · Interface Experience
+- [[Changes/Cursor/2026-04-14-3-developer-workflow-changes-in-04-14-26|3 Developer Workflow changes in 04.14.26]] · Developer Workflow
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-13 · Claude Code · [[Changes/Claude Code/2026-04-13-added-path-parameter-to-the-enterworktree-tool-to-switch-into-an-existing-worktr|Added path parameter to the EnterWorktree tool to switch into an existing…]]
-- Later: 2026-04-15 · Cursor · [[Changes/Cursor/2026-04-15-in-the-agents-window-canvases-are-durable-artifacts-that-live-in-the-side-panel|In the Agents Window, canvases are durable artifacts that live in the side panel…]]
+- Earlier: 2026-04-13 · Claude Code · [[Changes/Claude Code/2026-04-13-2-developer-workflow-changes-in-v2-1-105|2 Developer Workflow changes in v2.1.105]]
+- Later: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-bash-tool-now-enforces-the-documented-maximum-timeout-instead-of-accepting-arbit|Bash tool now enforces the documented maximum timeout instead of accepting…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

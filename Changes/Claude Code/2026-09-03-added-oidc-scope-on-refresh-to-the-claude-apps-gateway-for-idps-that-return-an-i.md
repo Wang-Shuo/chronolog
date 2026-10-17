@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7987f5525faad41bcdff2f9d8401c14222daca27b017377bd87f0b0edf58ad99
+machine_hash: aa3caba7bba4eddda9703fe3942095a7ceb281dac10b86a3dabd7672fa6ebb89
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   we added the Zendesk and OneNote plugins in the Plugin directory]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added oidc.scope_on_refresh to the Claude apps gateway for IdPs that return…
 type: change

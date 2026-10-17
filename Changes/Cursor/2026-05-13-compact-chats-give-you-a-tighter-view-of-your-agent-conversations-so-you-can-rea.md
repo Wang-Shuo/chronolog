@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: abafa1c537bcc8f2457a16e7a6d16b6b4d552ea1402ebe72d88500bcf073b8de
+machine_hash: 8d8d23d666a23410015cfb5650fdc75f65af8e51420ea99b77212f519e35fb18
 product: cursor
 product_name: Cursor
 record:
@@ -62,6 +62,7 @@ related_changes:
   automatically picks the right repository and model based on your prompt…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d|cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: Compact chats give you a tighter view of your agent conversations so you can
   read…

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4ed4d78db0bb1ea3c2a96219cd9127b290b55fb4d2097fdc939c374777e41426
+machine_hash: 6bccfd5dd9c5ee1a5d4d94a215645a6ca0d344fc31b4b87270e0e1a9c224a65a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,6 +47,7 @@ related_changes:
   off memory, so ChatGPT won’t save and use memories when responding]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-08-chatgpt-go-expansion-37d00d9f|chatgpt-2025-10-08-chatgpt-go-expansion-37d00d9f]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: memory
 title: Longer memory for more personalized responses
 type: change

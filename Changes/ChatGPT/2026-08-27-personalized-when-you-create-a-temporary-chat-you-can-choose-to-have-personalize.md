@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 16c729cb6635ee75525a3b9816612c660aea0e78f240a24ebc88454e7c1fb771
+machine_hash: 9ddc055979a45f32d32b4ada8db29a34c4f511dc5a92537d98ec57fe9dd087a3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -69,6 +69,7 @@ related_changes:
   By default, temporary chats are not personalized]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-27-more-controls-in-temporary-chat-5ca95d13|chatgpt-2026-08-27-more-controls-in-temporary-chat-5ca95d13]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: memory
 title: 'Personalized: When you create a temporary chat, you can choose to have personalized…'
 type: change

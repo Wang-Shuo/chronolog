@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 4
 date: '2026-05-20'
-description: 'Cursor release Improvements to Cursor Automations on 2026-05-20: 5 tracked
+description: 'Cursor release Improvements to Cursor Automations on 2026-05-20: 4 tracked
   changes across Automation and Scheduling'
-machine_hash: 5da3c6b13102880645d97bcdd38d26d6d5906ed612883b414155b9c3320ec86d
+machine_hash: a8ef8014537c3f0e9935556a0746c22517a8034c0459fa8ba0a37c111a3abdf3
 product: cursor
 product_name: Cursor
 record:
@@ -40,14 +40,13 @@ version: '3.5'
 <!-- chronolog:begin region="summary" -->
 This release brings Cursor Automations to the Agents Window and introduces the ability to configure automations with multiple attached repos or no repos at all.
 
-Tracked 5 of 12 candidate lines.
+Tracked 4 cards from 12 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-05-20-for-the-next-7-days-all-agent-runs-for-newly-created-automations-are-50-off|For the next 7 days, all agent runs for newly created automations are 50% off]] · Automation and Scheduling
-- [[Changes/Cursor/2026-05-20-a-lot-of-engineering-work-spans-more-than-one-codebase-you-can-now-attach-multip|A lot of engineering work spans more than one codebase]] · Automation and Scheduling
-- [[Changes/Cursor/2026-05-20-many-useful-automations-exist-apart-from-code-where-agents-monitor-your-tools-an|Many useful automations exist apart from code, where agents monitor your tools…]] · Automation and Scheduling
-- [[Changes/Cursor/2026-05-20-cursor-automations-are-now-available-in-the-agents-window-in-addition-to-cursor|Cursor Automations are now available in the Agents Window, in addition…]] · Automation and Scheduling
-- [[Changes/Cursor/2026-05-20-this-release-brings-cursor-automations-to-the-agents-window-and-introduces-the-a|Cursor brings Cursor Automations to the Agents Window and introduces the ability…]] · Automation and Scheduling
+- [[Changes/Cursor/2026-05-20-no-repo-automations|No-repo automations]] · Automation and Scheduling · Launch
+- [[Changes/Cursor/2026-05-20-a-lot-of-engineering-work-spans-more-than-one-codebase-you-can-now-attach-multip|Multi-repo automations]] · Automation and Scheduling · Launch
+- [[Changes/Cursor/2026-05-20-cursor-automations-are-now-available-in-the-agents-window-in-addition-to-cursor|Automations in the Agents Window]] · Automation and Scheduling · Launch
+- [[Changes/Cursor/2026-05-20-this-release-brings-cursor-automations-to-the-agents-window-and-introduces-the-a-cd58e1|Cursor brings Cursor Automations to the Agents Window and introduces the ability…]] · Automation and Scheduling · Launch
 <!-- chronolog:end -->

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: bb166a303a8ba19fc4dc26c184e965179c0b1c00dbcba33edba4a887a8277bca
+machine_hash: 8bcd3197304245a4910ac751780327e331939ff34b4dfd157f22708bb5ef6ddc
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   up to eight agents in parallel on a single prompt]]'
 source_release: '[[Releases/Cursor/cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490|cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: All grep commands run by the agent are now instant
 type: change

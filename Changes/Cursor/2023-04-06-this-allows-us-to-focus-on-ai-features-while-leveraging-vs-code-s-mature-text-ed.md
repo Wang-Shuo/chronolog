@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2c9b3911be5b380db7b76fa019d47c6b7739c79b14f2805ce3212244ac9c79e3
+machine_hash: 63512d2667c3b74cb6b685859c36aa0adf2f50529d0cfef1439e26dba19645f6
 product: cursor
 product_name: Cursor
 record:
@@ -50,6 +50,7 @@ related_changes:
   currently similar to a standard code editor with AI features, we plan…]]'
 source_release: '[[Releases/Cursor/cursor-2023-04-06-0-2-0-https-cursor-com-changelog-0-2-0-2dbfe24a|cursor-2023-04-06-0-2-0-https-cursor-com-changelog-0-2-0-2dbfe24a]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: This allows us to focus on AI features while leveraging VS Code's mature text…
 type: change

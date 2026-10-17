@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0a3f2b756404ef5a29d86f3bbca4946357a55761aa1d54929d306df36e4a84b8
+machine_hash: 1063aa17850fe612c38bd379c776e74b20c1707151e9b5f8e45827fa12497eb1
 product: cursor
 product_name: Cursor
 record:
@@ -62,6 +62,7 @@ related_changes:
   package skills, subagents, MCP servers, hooks, and rules, into a single install]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320|cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: Browse plugins at cursor.com/marketplace or install directly in the editor…
 type: change

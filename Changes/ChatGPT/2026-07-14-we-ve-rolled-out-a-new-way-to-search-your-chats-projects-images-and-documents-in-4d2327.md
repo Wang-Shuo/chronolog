@@ -14,9 +14,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: fcda286ba35727028260907e7319d5273c79840b0f0c22473055a79a4de4ad15
+kind: change
+machine_hash: fec2f15cb2934f7332a57c28d9b8c2fc77a5a0acea6bfcc1b806e1e460b65163
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,8 +41,9 @@ record:
       by content type. Select a result to open the chat, project, or file directly
       in ChatGPT.Available on all ChatGPT plans globally.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in
@@ -66,24 +68,24 @@ record:
     - sidebar
     score: 50
     theme: interface-experience
-  title: We’ve rolled out a new way to search your chats, projects, images, and documents…
+  title: Search across chats, projects, and files is now supercharged
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-09-to-create-a-site-start-in-chatgpt-work-on-the-web-or-in-work-or-codex-in-the-cha|To
   create a Site, start in ChatGPT Work on the web or in Work or Codex…]]'
-- '[[Changes/ChatGPT/2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi|The
-  new ChatGPT desktop app is available globally for macOS and Windows]]'
+- '[[Changes/ChatGPT/2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi-ae6433|The
+  new ChatGPT desktop app brings Chat, Work, and Codex together]]'
 - '[[Changes/ChatGPT/2026-07-09-beginning-july-9-users-on-web-ios-and-android-will-no-longer-be-able-to-create-n|Beginning
   July 9, users on web, iOS, and Android will no longer be able to create…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-14-search-across-chats-projects-and-files-is-now-supercharged-90a28571|chatgpt-2026-07-14-search-across-chats-projects-and-files-is-now-supercharged-90a28571]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: We’ve rolled out a new way to search your chats, projects, images, and documents…
+title: Search across chats, projects, and files is now supercharged
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We’ve rolled out a new way to search your chats, projects, images, and documents…
+# Search across chats, projects, and files is now supercharged
 
 **ChatGPT** · 2026-07-14 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-14-search-across-chats-projects-and-files-is-now-supercharged-90a28571|Search across chats, projects, and files is now supercharged.]]
 <!-- chronolog:end -->

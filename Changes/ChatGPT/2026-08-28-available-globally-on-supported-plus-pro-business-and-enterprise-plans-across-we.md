@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 94539430ced00440a1e0459e21bad1177a01225d442eb100de034592f93c4382
+machine_hash: a50438ecf39caefbf37870e4a479b6e9e7c0236707abc997a7551daba1b43952
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -61,6 +61,7 @@ related_changes:
   Fixed headless sessions not cleaning up stale entries…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-28-connect-multiple-google-accounts-to-chatgpt-06db9b52|chatgpt-2026-08-28-connect-multiple-google-accounts-to-chatgpt-06db9b52]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: mobile-desktop
 title: Available globally on supported Plus, Pro, Business, and Enterprise plans across…
 type: change

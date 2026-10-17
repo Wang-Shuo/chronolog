@@ -1,22 +1,23 @@
 ---
 card_id: cursor-2023-09-07-17aeac
 date: '2023-09-07'
-description: 'Cursor · 2023-09-07 · Memory and Personalization: We no longer store
+description: 'Cursor · 2023-09-07 · Reliability and Performance: We no longer store
   any full files in memory and prevent users from @''ing very large files (> 2MB)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 49
+  lag_days: 266
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: memory
+  theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 2d423ec5633d7258fcfb69fac361b4235aa11477317e5b2a115aa448de89dc11
+kind: change
+machine_hash: 0c30783afa3fbfe1a4ff251012cbf05189feffc455a7ea5ce0411742aac47fbc
 product: cursor
 product_name: Cursor
 record:
@@ -29,27 +30,30 @@ record:
   - quote: We no longer store any full files in memory and prevent users from @'ing
       very large files (> 2MB)
     source_release: https://cursor.com/changelog/0-9-7-nightly
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg
   source_release: cursor-2023-09-07-0-9-7-nightly-https-cursor-com-changelog-0-9-7-nightly-87d1216f
   source_type: cursor_changelog
-  theme: memory
+  theme: reliability-performance
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v2
   title: We no longer store any full files in memory and prevent users from @'ing
     very large…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-  starting to roll out custom instructions, giving you more control over…]]'
-- '[[Changes/ChatGPT/2023-08-09-custom-instructions-are-now-available-to-chatgpt-users-on-the-free-plan-except-f-963d1e|Custom
-  instructions are now available to ChatGPT users on the free plan, except…]]'
-- '[[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king-cfc1d5|Custom
-  instructions are now available to users in the European Union United Kingdom]]'
+- '[[Changes/Cursor/2023-08-20-ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie|More
+  robust SSH support]]'
+- '[[Changes/Cursor/2023-08-22-ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie|SSH
+  support is now more robust!]]'
+- '[[Changes/Cursor/2023-09-05-updates-to-docs-try-pasting-a-link-in-chat-you-can-delete-edit-docs-you-can-see|Docs
+  updates]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-07-0-9-7-nightly-https-cursor-com-changelog-0-9-7-nightly-87d1216f|cursor-2023-09-07-0-9-7-nightly-https-cursor-com-changelog-0-9-7-nightly-87d1216f]]'
 source_type: cursor_changelog
-theme: memory
+theme: reliability-performance
 title: We no longer store any full files in memory and prevent users from @'ing very
   large…
 type: change
@@ -58,7 +62,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # We no longer store any full files in memory and prevent users from @'ing very large…
 
-**Cursor** · 2023-09-07 · [[Themes/memory|Memory and Personalization]] · [Official source](https://cursor.com/changelog/0-9-7-nightly) · from [[Releases/Cursor/cursor-2023-09-07-0-9-7-nightly-https-cursor-com-changelog-0-9-7-nightly-87d1216f|Better State Management]]
+**Cursor** · 2023-09-07 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://cursor.com/changelog/0-9-7-nightly) · from [[Releases/Cursor/cursor-2023-09-07-0-9-7-nightly-https-cursor-com-changelog-0-9-7-nightly-87d1216f|Better State Management]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -74,16 +78,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Memory and Personalization
+## Nearby in Reliability and Performance
 
-- Earlier: 2023-08-21 · ChatGPT · [[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king-cfc1d5|Custom instructions are now available to users in the European Union United Kingdom]]
-- Later: 2024-02-13 · ChatGPT · [[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|We’re testing memory with ChatGPT]]
+- Earlier: 2023-09-05 · Cursor · [[Changes/Cursor/2023-09-05-updates-to-docs-try-pasting-a-link-in-chat-you-can-delete-edit-docs-you-can-see|Docs updates]]
+- Later: 2023-09-07 · Cursor · [[Changes/Cursor/2023-09-07-we-release-an-improved-new-ai-project-feature-to-nightly-users-this-is-a-more-ro|We release an improved New AI Project feature to nightly users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

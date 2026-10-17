@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 35c29a91d11310cc2d24023bf902c2a4182e3bd0a30533979803b39614269274
+machine_hash: dcf349ee9b11f12fd1f4a72da4fefe9ab6d25f4a6a0138e38f9a73e08197456c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,6 +63,7 @@ related_changes:
   the login-expiry warning to appear 3 days before expiry instead of 5]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-25-chatgpt-work-can-now-complete-tasks-on-signed-in-websites-d2be314c|chatgpt-2026-08-25-chatgpt-work-can-now-complete-tasks-on-signed-in-websites-d2be314c]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: account-access
 title: ChatGPT Work’s browser on web and mobile can also help you get tasks done on
   some…

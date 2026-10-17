@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c222730bcffadde702661c8be057f5e692581d37b0183113ff0ca6b5e6160ad9
+machine_hash: dfc431a8be0c7af9f0d9405051c8fffd3b8cbcb19393adf400551e35f04273c8
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   sandbox.bwrapPath and sandbox.socatPath managed settings (Linux/WSL)…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-08-v2-1-136-github-319609716-58f21368|claude-code-2026-05-08-v2-1-136-github-319609716-58f21368]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed Bash permission prompts showing an internal parser diagnostic instead…
 type: change

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c31cab56f50e17b11cc19d39ddf293a193cd2edc5e7e6d756a679241e1bc12ed
+machine_hash: 1fd7dd42ce23a50c627fd3d459a9cea189c7d3186c899657676500a4da4f056c
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   now easier to bring your notes and documents into ChatGPT on your phone]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'
 source_type: github_releases
+superseded: true
 theme: file-data
 title: Added $.prompt.media so a prompt.submit hook of a mod installed by managed…
 type: change

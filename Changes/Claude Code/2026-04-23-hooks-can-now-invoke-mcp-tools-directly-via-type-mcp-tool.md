@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b086f800fe20342c65c16932ed5d4355ad4cc84879e6516efc47f9782d1f4bcb
+machine_hash: b3c579a20dae77fb17a8a1c1a8caf5cd73508f8711e8380f8f1621a3ed54e1dc
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,6 +47,7 @@ related_changes:
   and switch between named custom themes from /theme, or hand-edit JSON files…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c|claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: 'Hooks can now invoke MCP tools directly via type: "mcp_tool"'
 type: change

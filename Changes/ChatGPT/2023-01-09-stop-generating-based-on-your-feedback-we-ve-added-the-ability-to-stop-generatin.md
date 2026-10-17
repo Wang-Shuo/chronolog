@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 4e90471d3a5d3b5ba57ac0cb9d00138a4ed385dcfdf7d897c5a11c2558fd2cea
+kind: change
+machine_hash: 14d097fea4b3223ae6f4e40b408e1efa41afa2219a14cc4566e831c2dba62f5b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,8 +30,9 @@ record:
   - quote: 'Stop generating: Based on your feedback, we''ve added the ability to stop
       generating ChatGPT''s response'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin
@@ -71,7 +73,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Later: 2023-02-09 · ChatGPT · [[Changes/ChatGPT/2023-02-09-version-selection-is-made-easy-with-a-dedicated-dropdown-menu-at-the-top-of-the|Version selection is made easy with a dedicated dropdown menu at the top of the page]]
+- Later: 2023-02-09 · ChatGPT · [[Changes/ChatGPT/2023-02-09-as-we-recently-announced-our-plus-plan-comes-with-early-access-to-new-experiment-0e68f2|As we recently announced, our Plus plan comes with early access to new, experimental…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

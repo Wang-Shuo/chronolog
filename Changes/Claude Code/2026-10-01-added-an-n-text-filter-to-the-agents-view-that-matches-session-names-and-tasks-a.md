@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9e8f3bae0d2a908388666c5697da3811a626454fad75a26536503955646109d0
+machine_hash: 3da7583a84fe8d9d6ad9a49e792ba70606cc32a0ed7d8fc25c77c308391ff31e
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   replies from background agents to your messages so they no longer open…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added an n:text filter to the agents view that matches session names and tasks
 type: change

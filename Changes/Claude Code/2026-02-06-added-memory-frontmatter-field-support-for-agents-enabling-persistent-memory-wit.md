@@ -4,8 +4,8 @@ date: '2026-02-06'
 description: 'Claude Code · 2026-02-06 · Memory and Personalization: Added `memory`
   frontmatter field support for agents, enabling persistent memory with `user`, `project`…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 932
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: d8a4369c3351fd9608d40a7389fffcf324d79680841fdc23a251da7a8cd1093a
+kind: change
+machine_hash: 6226b009f511519354c7bc9d2bd856b4ad2ebba36826ea08675c4f04d5321e13
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
   - quote: Added `memory` frontmatter field support for agents, enabling persistent
       memory with `user`, `project`, or `local` scope
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.33
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-memory-frontmatter-field-support-for-agents-enabling-persistent-memory-wit
@@ -54,8 +56,8 @@ record:
 related_changes:
 - '[[Changes/ChatGPT/2026-01-07-we-re-starting-to-roll-out-health-a-dedicated-space-in-chatgpt-for-health-and-we|We’re
   starting to roll out Health, a dedicated space in ChatGPT for health…]]'
-- '[[Changes/ChatGPT/2026-01-15-when-reference-chat-history-is-enabled-chatgpt-can-now-more-reliably-find-specif|When
-  reference chat history is enabled, ChatGPT can now more reliably find specific…]]'
+- '[[Changes/ChatGPT/2026-01-15-when-reference-chat-history-is-enabled-chatgpt-can-now-more-reliably-find-specif|Improved
+  memory for finding details from past chats (Plus & Pro)]]'
 - '[[Changes/Claude Code/2026-02-05-claude-now-automatically-records-and-recalls-memories-as-it-works|Claude
   now automatically records and recalls memories as it works]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0|claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0]]'
@@ -80,23 +82,23 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-02-06-added-support-for-restricting-which-sub-agents-can-be-spawned-via-task-agent-typ|Added support for restricting which sub-agents can be spawned via Task(agent_type)…]] · Agent Mode
-- [[Changes/Claude Code/2026-02-06-added-teammateidle-and-taskcompleted-hook-events-for-multi-agent-workflows|Added TeammateIdle and TaskCompleted hook events for multi-agent workflows]] · Agent Mode
+- [[Changes/Claude Code/2026-02-06-vscode-added-support-for-remote-sessions-allowing-oauth-users-to-browse-and-resu|VSCode: Added support for remote sessions, allowing OAuth users to browse and resume…]] · Account and Access
 - [[Changes/Claude Code/2026-02-06-added-plugin-name-to-skill-descriptions-and-skills-menu-for-better-discoverabili|Added plugin name to skill descriptions and /skills menu for better discoverability]] · Apps and Integrations
-- [[Changes/Claude Code/2026-02-06-improved-error-messages-for-api-connection-failures-now-shows-specific-cause-e-g|Improved error messages for API connection failures]] · Interface Experience
+- [[Changes/Claude Code/2026-02-06-2-interface-experience-changes-in-v2-1-33|2 Interface Experience changes in v2.1.33]] · Interface Experience
+- [[Changes/Claude Code/2026-02-06-2-agent-mode-changes-in-v2-1-33|2 Agent Mode changes in v2.1.33]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-02-05 · Claude Code · [[Changes/Claude Code/2026-02-05-claude-now-automatically-records-and-recalls-memories-as-it-works|Claude now automatically records and recalls memories as it works]]
-- Later: 2026-02-09 · ChatGPT · [[Changes/ChatGPT/2026-02-09-we-re-beginning-to-roll-out-a-test-for-ads-in-chatgpt-in-the-u-s-for-logged-in-a|We’re beginning to roll out a test for ads in ChatGPT in the U.S. for logged-in…]]
+- Later: 2026-02-09 · ChatGPT · [[Changes/ChatGPT/2026-02-09-we-re-beginning-to-roll-out-a-test-for-ads-in-chatgpt-in-the-u-s-for-logged-in-a|Testing ads in ChatGPT (Free, Go)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

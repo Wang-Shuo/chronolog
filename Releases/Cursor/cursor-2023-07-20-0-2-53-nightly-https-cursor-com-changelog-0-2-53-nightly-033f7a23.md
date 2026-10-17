@@ -3,7 +3,7 @@ changes_count: 0
 date: '2023-07-20'
 description: 'Cursor release Inline GPT-4 and full-file edits on 2023-07-20: no tracked
   changes'
-machine_hash: fa105aec4a4712abb43cea782ea0f3dfb3845108d7fcae392e15c1a3401b3ad5
+machine_hash: 3c46548f0d0870bf5ccec220099ebee414d2db1b3d5871becd63452edad18f20
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.2.53-nightly
 <!-- chronolog:begin region="summary" -->
 Let us know what you think!
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

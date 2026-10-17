@@ -14,9 +14,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 90a772090b7e98ec3640e5cd3b365a87c03b681622294d61e4c2c87c763bbf18
+kind: change
+machine_hash: 59e20675e26589a953f9d8a5de3f1b7fb475b0e32ebfd3ddf8db674005a08df8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,8 +32,9 @@ record:
   - quote: 'Long press to select text on iOS and moved the message quick actions to
       always be visible below the message:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: long-press-to-select-text-on-ios-and-moved-the-message-quick-actions-to-always-b
@@ -42,11 +44,11 @@ record:
   title: Long press to select text on iOS and moved the message quick actions to always…
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2025-02-14-confirmation-dialog-for-logging-out-ios-web|Confirmation
+  dialog for logging out (iOS, web)]]'
 - '[[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|Updated
   launch animations and composer design on Android]]'
-- '[[Changes/ChatGPT/2025-02-21-1-ios-widget-see-below|iOS widget (see below)]]'
-- '[[Changes/ChatGPT/2025-02-28-2-bug-fixes-and-small-improvements-in-the-1-2025-056-ios-release-3-a-setting-to|Bug
-  fixes and small improvements in the 1.2025.056 iOS release]]'
+- '[[Changes/ChatGPT/2025-02-21-ios-widget-see-below|iOS widget (see below)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-28-general-ios-long-press-to-select-text-on-ios-and-moved-the-messa-04ecc8ba|chatgpt-2025-02-28-general-ios-long-press-to-select-text-on-ios-and-moved-the-messa-04ecc8ba]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -67,16 +69,14 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
-## Also in this release
 
-- [[Changes/ChatGPT/2025-02-28-2-bug-fixes-and-small-improvements-in-the-1-2025-056-ios-release-3-a-setting-to|Bug fixes and small improvements in the 1.2025.056 iOS release]] · Mobile and Desktop
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-02-21 · ChatGPT · [[Changes/ChatGPT/2025-02-21-1-ios-widget-see-below|iOS widget (see below)]]
-- Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-1-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved table-copying functionality out of ChatGPT responses on iOS and macOS]]
+- Earlier: 2025-02-21 · ChatGPT · [[Changes/ChatGPT/2025-02-21-ios-widget-see-below|iOS widget (see below)]]
+- Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and|We have been working on a variety of usability and performance improvements and bug…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

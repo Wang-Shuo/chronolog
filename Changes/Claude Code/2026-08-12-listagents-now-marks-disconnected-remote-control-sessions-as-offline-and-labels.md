@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ac0a31d954213ce702eb979a8ad5f8da7c704af072d15b73fffab44d334afeea
+machine_hash: 7fa4950321ce7608ec0fd64a8bfa238b90a10046e1ea677acbf7cc4ad7a91f98
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   plugin marketplace command sources]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-12-v2-1-229-github-369475532-b063933d|claude-code-2026-08-12-v2-1-229-github-369475532-b063933d]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: ListAgents now marks disconnected Remote Control sessions as offline and labels…
 type: change

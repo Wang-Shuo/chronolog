@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b8c85e6a99627c7d1092255de9d8c7bfbe1d6653eaa40785ac417cdc0d308801
+machine_hash: bc985f9f531fdea465e1a4ebf439476ea3ef59f84a1458d53d2db4ae97f5f15c
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   IDE detection speed at startup]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd|claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd]]'
 source_type: github_releases
+superseded: true
 theme: reliability-performance
 title: Improved startup memory usage by ~18MB across all scenarios
 type: change

@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 91988f5738a3e2869d54a0f33d84da2cd78382edd4274da307db15ec449e83dc
+kind: change
+machine_hash: ce0b13eff739d54d0bbe3d35ebceea8eda10220d96d0b12c40e99f51e3afd9d0
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +32,9 @@ record:
       security, monitoring, and project management, from partners including Cloudflare,
       Linear, Sentry, and Socket Security.
     source_release: https://cursor.com/changelog/origin-app-marketplace
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security
@@ -57,12 +59,12 @@ record:
     security…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-06-fixed-a-regression-in-2-1-290-where-cloud-sessions-could-drop-answers-to-permiss|Fixed
-  a regression in 2.1.290 where cloud sessions could drop answers to permission…]]'
-- '[[Changes/Claude Code/2026-10-07-fixed-claude-being-told-to-continue-or-message-subagents-with-sendmessage-in-ses|Fixed
-  Claude being told to continue or message subagents with SendMessage…]]'
-- '[[Changes/Claude Code/2026-10-07-fixed-claude-agents-offering-bypass-permissions-that-background-sessions-then-ig|Fixed
-  claude agents offering bypass permissions that background sessions then…]]'
+- '[[Changes/Claude Code/2026-10-07-3-safety-and-privacy-changes-in-v2-1-293|3 Safety
+  and Privacy changes in v2.1.293]]'
+- '[[Changes/Claude Code/2026-10-08-5-safety-and-privacy-changes-in-v2-1-295|5 Safety
+  and Privacy changes in v2.1.295]]'
+- '[[Changes/Claude Code/2026-10-09-4-safety-and-privacy-changes-in-v2-1-296|4 Safety
+  and Privacy changes in v2.1.296]]'
 source_release: '[[Releases/Cursor/cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c|cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c]]'
 source_type: cursor_changelog
 theme: safety-privacy
@@ -85,14 +87,16 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-10-13-the-marketplace-now-includes-apps-for|The marketplace now includes apps for]] · Apps and Integrations
+- [[Changes/Cursor/2026-10-13-2-apps-and-integrations-changes-in-origin-app-marketplace|2 Apps and Integrations changes in Origin App Marketplace]] · Apps and Integrations
+- [[Changes/Cursor/2026-10-13-apps-for-your-stack|Apps for your stack]] · Apps and Integrations
 - [[Changes/Cursor/2026-10-13-starting-today-the-marketplace-is-also-open-to-public-submissions-so-any-team-bu|Starting today, the marketplace is also open to public submissions, so any team…]] · Collaboration
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-fixed-claude-agents-offering-bypass-permissions-that-background-sessions-then-ig|Fixed claude agents offering bypass permissions that background sessions then…]]
+- Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-4-safety-and-privacy-changes-in-v2-1-296|4 Safety and Privacy changes in v2.1.296]]
+- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-2-safety-and-privacy-changes-in-v2-1-300|2 Safety and Privacy changes in v2.1.300]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

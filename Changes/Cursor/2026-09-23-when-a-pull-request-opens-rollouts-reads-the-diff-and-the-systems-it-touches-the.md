@@ -14,9 +14,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 2d1ff8ffa54500fdd2e748064c1ad3420abfbd550459c78b1140c04ba80efb09
+kind: launch
+machine_hash: f4c898cfa8926e48b15dba83076b067c50cd12275c2e1509987c67731f441670
 product: cursor
 product_name: Cursor
 record:
@@ -36,36 +37,34 @@ record:
       in instrumentation that would make the change hard to verify. Edit the plan
       in the PR and Rollouts uses your version.
     source_release: https://cursor.com/changelog/rollouts-and-security-reviewer
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: when-a-pull-request-opens-rollouts-reads-the-diff-and-the-systems-it-touches-the
+  slug: monitoring-plans
   source_release: cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb
   source_type: cursor_changelog
   theme: developer-workflow
-  title: When a pull request opens, Rollouts reads the diff and the systems it touches,
-    then…
+  title: Monitoring plans
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-23-added-attribution-false-in-settings-json-to-hide-all-commit-and-pr-attribution-o|Added
-  "attribution": false in settings.json to hide all commit and PR attribution]]'
-- '[[Changes/Cursor/2026-09-23-rollouts-attaches-a-monitor-to-every-pull-request-and-watches-the-change-as-it-d|Rollouts
-  attaches a monitor to every pull request and watches the change…]]'
-- '[[Changes/Cursor/2026-09-23-enable-it-from-the-dashboard-and-connect-source-control-your-deploy-system-and-y|Enable
-  it from the dashboard and connect source control, your deploy system…]]'
+- '[[Changes/Claude Code/2026-09-22-3-developer-workflow-changes-in-v2-1-280|3 Developer
+  Workflow changes in v2.1.280]]'
+- '[[Changes/Claude Code/2026-09-23-7-developer-workflow-changes-in-v2-1-281|7 Developer
+  Workflow changes in v2.1.281]]'
+- '[[Changes/Cursor/2026-09-23-rollouts|Rollouts]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb|cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: When a pull request opens, Rollouts reads the diff and the systems it touches,
-  then…
+title: Monitoring plans
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# When a pull request opens, Rollouts reads the diff and the systems it touches, then…
+# Monitoring plans
 
-**Cursor** · 2026-09-23 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://cursor.com/changelog/rollouts-and-security-reviewer) · from [[Releases/Cursor/cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb|Rollouts and Security Review]]
+**Cursor** · 2026-09-23 · [[Themes/developer-workflow|Developer Workflow]] · Launch · [Official source](https://cursor.com/changelog/rollouts-and-security-reviewer) · from [[Releases/Cursor/cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb|Rollouts and Security Review]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -77,17 +76,23 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-09-23-today-we-re-launching-two-cursor-bots-for-the-last-mile-of-shipping-code-rollout|Cursor launches two Cursor bots for the last mile of shipping code]] · Safety and Privacy
-- [[Changes/Cursor/2026-09-23-rollouts-attaches-a-monitor-to-every-pull-request-and-watches-the-change-as-it-d|Rollouts attaches a monitor to every pull request and watches the change…]] · Developer Workflow
-- [[Changes/Cursor/2026-09-23-enable-it-from-the-dashboard-and-connect-source-control-your-deploy-system-and-y|Enable it from the dashboard and connect source control, your deploy system…]] · Developer Workflow
-- [[Changes/Cursor/2026-09-23-both-are-available-today-on-teams-and-enterprise-plans|Both are available today on Teams and Enterprise plans]] · Enterprise and Administration
+- [[Changes/Cursor/2026-09-23-integrations|Integrations]] · Apps and Integrations
+- [[Changes/Cursor/2026-09-23-2-safety-and-privacy-changes-in-rollouts-and-security-review|2 Safety and Privacy changes in Rollouts and Security Review]] · Safety and Privacy
+- [[Changes/Cursor/2026-09-23-rollouts|Rollouts]] · Developer Workflow
+- [[Changes/Cursor/2026-09-23-today-we-re-launching-two-cursor-bots-for-the-last-mile-of-shipping-code-rollout-af394f|Cursor launches two Cursor bots for the last mile of shipping code]] · Safety and Privacy
+- [[Changes/Cursor/2026-09-23-team-rules|Team rules]] · Collaboration
+- [[Changes/Cursor/2026-09-23-security-review|Security Review]] · Safety and Privacy
+- [[Changes/Cursor/2026-09-23-findings|Findings]] · Safety and Privacy
+- [[Changes/Cursor/2026-09-23-when-rollouts-detects-a-regression-it-names-the-change-it-suspects-and-notifies|When Rollouts detects a regression, it names the change it suspects and notifies…]] · Agent Mode
+- [[Changes/Cursor/2026-09-23-deploy-tracking|Deploy tracking]] · Reliability and Performance
+- [[Changes/Cursor/2026-09-23-for-the-next-10-days-we-re-including-usage-credits-so-teams-can-try-rollouts-on|For the next 10 days, we're including usage credits so teams can try Rollouts…]] · Pricing Model
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-added-attribution-false-in-settings-json-to-hide-all-commit-and-pr-attribution-o|Added "attribution": false in settings.json to hide all commit and PR attribution]]
-- Later: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-improved-commit-guidance-when-your-project-or-user-skills-include-one-named-veri|Improved commit guidance]]
+- Earlier: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-7-developer-workflow-changes-in-v2-1-281|7 Developer Workflow changes in v2.1.281]]
+- Later: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-changed-windows-wsl-managed-settings-so-an-admin-policy-that-is-present-but-inva|Changed Windows/WSL managed settings so an admin policy that is present but invalid…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

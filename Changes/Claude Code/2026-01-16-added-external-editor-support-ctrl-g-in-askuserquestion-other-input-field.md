@@ -4,8 +4,8 @@ date: '2026-01-16'
 description: 'Claude Code · 2026-01-16 · Editor Experience: Added external editor
   support (Ctrl+G) in AskUserQuestion "Other" input field'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1039
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: f7ba751b9842329349898b8bad25e8b0c606b38af2d788f1fc59f65a4b524de1
+kind: change
+machine_hash: 2bbf4b00bf31714b1aabcc3fb0952d5f99741aaa0c1cf75e89eabdf35d6bde43
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
   - quote: Added external editor support (Ctrl+G) in AskUserQuestion "Other" input
       field
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.9
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-external-editor-support-ctrl-g-in-askuserquestion-other-input-field
@@ -42,12 +44,12 @@ record:
   title: Added external editor support (Ctrl+G) in AskUserQuestion "Other" input field
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-browser-can-now-be-embedded-in-editor-including-powerful-new-tools-to-select-ele|Browser
-  can now be embedded in-editor, including powerful new tools to select…]]'
-- '[[Changes/ChatGPT/2025-12-17-edit-and-review-tasks-in-pulse-anytime-after-you-create-them-please-note-that-pu|Edit
-  and review tasks in Pulse anytime after you create them]]'
-- '[[Changes/Cursor/2026-01-08-create-new-rules-and-edit-existing-ones-directly-from-the-cli-with-the-rules-com|Create
-  new rules and edit existing ones directly from the CLI with the /rules command]]'
+- '[[Changes/Cursor/2026-01-08-added-rules-to-create-new-rules-and-edit-existing-rules|Added
+  /rules to create new rules and edit existing rules]]'
+- '[[Changes/Cursor/2026-01-08-afterfileedit-hook-now-correctly-provides-old-string-with-the-file-s-previous-co|afterFileEdit
+  hook now correctly provides old_string with the file''s previous…]]'
+- '[[Changes/Claude Code/2026-01-13-2-editor-experience-changes-in-v2-1-6|2 Editor
+  Experience changes in v2.1.6]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-16-v2-1-9-github-277250534-9563859d|claude-code-2026-01-16-v2-1-9-github-277250534-9563859d]]'
 source_type: github_releases
 theme: editor-experience
@@ -79,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-create-new-rules-and-edit-existing-ones-directly-from-the-cli-with-the-rules-com|Create new rules and edit existing ones directly from the CLI with the /rules command]]
+- Earlier: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-2-editor-experience-changes-in-v2-1-6|2 Editor Experience changes in v2.1.6]]
 - Later: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-this-release-brings-many-of-the-editor-s-most-loved-features-to-the-cursor-cli-a|Cursor brings many of the editor’s most-loved features to the Cursor CLI, along…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

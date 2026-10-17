@@ -3,7 +3,7 @@ changes_count: 1
 date: '2024-02-02'
 description: 'Cursor release Cmd-I to Heal on 2024-02-02: 1 tracked change across
   Editor Experience'
-machine_hash: d67a07d493624561fa5554defe4993e8f88066d93b51b0bb80a6f2e4164159c9
+machine_hash: 71808c9e515880532f809c956e17fe6ad5a9cac9616d82589a05d579ca66289a
 product: cursor
 product_name: Cursor
 record:
@@ -40,10 +40,10 @@ version: 0.25.0-nightly
 <!-- chronolog:begin region="summary" -->
 Hold down cmd-I over a selection to heal the code with GPT-4. Useful for writing pseudocode and having the AI convert it into correct code. Please let us know if you find it useful!
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2024-02-02-hold-down-cmd-i-over-a-selection-to-heal-the-code-with-gpt-4-useful-for-writing|Hold down cmd-I over a selection to heal the code with GPT-4]] · Editor Experience
+- [[Changes/Cursor/2024-02-02-hold-down-cmd-i-over-a-selection-to-heal-the-code-with-gpt-4-useful-for-writing|Cmd-I to Heal]] · Editor Experience
 <!-- chronolog:end -->

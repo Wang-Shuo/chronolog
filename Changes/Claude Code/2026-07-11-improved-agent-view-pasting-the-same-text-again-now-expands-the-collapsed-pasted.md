@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: 9e3175ced60954eb3d231ef6b6847ee50bb500efef01969d7c438d67fc5a8102
+kind: change
+machine_hash: 1747a98fab1d49003d73bf42f0f23e7848c83b4316e20ba7f229c78ab56f20e6
 product: claude-code
 product_name: Claude Code
 record:
@@ -32,8 +33,9 @@ record:
   - quote: 'Improved agent view: pasting the same text again now expands the collapsed
       `[Pasted text #N]` placeholder instead of adding a second one'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.207
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-agent-view-pasting-the-same-text-again-now-expands-the-collapsed-pasted
@@ -45,12 +47,11 @@ record:
   title: Improved agent view
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-23-improved-btw-with-arrow-navigation-to-step-through-earlier-answers|Improved
-  /btw with ←/→ arrow navigation to step through earlier answers]]'
-- '[[Changes/Claude Code/2026-06-26-added-claude-code-disable-mouse-clicks-to-disable-mouse-click-drag-hover-in-full|Added
-  CLAUDE_CODE_DISABLE_MOUSE_CLICKS to disable mouse click/drag/hover…]]'
-- '[[Changes/Claude Code/2026-07-03-changed-askuserquestion-dialogs-to-no-longer-auto-continue-by-default-opt-into-a|Changed
-  AskUserQuestion dialogs to no longer auto-continue by default]]'
+- '[[Changes/Cursor/2026-07-10-conversation-search-454cae|Conversation search]]'
+- '[[Changes/Cursor/2026-07-10-6-interface-experience-changes-in-side-chats-and-conversation-search|6
+  Interface Experience changes in Side Chats and Conversation Search]]'
+- '[[Changes/Cursor/2026-07-10-redesigned-project-and-repo-pickers|Redesigned project
+  and repo pickers]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91|claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91]]'
 source_type: github_releases
 theme: interface-experience
@@ -73,16 +74,17 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-07-11-fixed-compound-commands-with-cd-prompting-for-permission-when-the-only-output-re|Fixed compound commands with cd prompting for permission when the only output…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-07-11-2-safety-and-privacy-changes-in-v2-1-207|2 Safety and Privacy changes in v2.1.207]] · Safety and Privacy
+- [[Changes/Claude Code/2026-07-11-2-agent-mode-changes-in-v2-1-207|2 Agent Mode changes in v2.1.207]] · Agent Mode
 - [[Changes/Claude Code/2026-07-11-auto-mode-is-now-available-without-claude-code-enable-auto-mode-opt-in-on-bedroc|Auto mode is now available without CLAUDE_CODE_ENABLE_AUTO_MODE opt-in on Bedrock…]] · Agent Mode
-- [[Changes/Claude Code/2026-07-11-fixed-remote-managed-settings-from-a-non-interactive-run-claude-p-the-sdk-being|Fixed remote managed settings from a non-interactive run (claude -p, the SDK)…]] · Safety and Privacy
-- [[Changes/Claude Code/2026-07-11-improved-agent-view-blocked-session-peeks-now-lead-with-the-question-and-show-a|Improved agent view]] · Agent Mode
+- [[Changes/Claude Code/2026-07-11-2-apps-and-integrations-changes-in-v2-1-207|2 Apps and Integrations changes in v2.1.207]] · Apps and Integrations
+- [[Changes/Claude Code/2026-07-11-changed-bedrock-vertex-and-claude-platform-on-aws-to-default-to-claude-opus-4-8|Changed Bedrock, Vertex, and Claude Platform on AWS to default to Claude Opus 4.8]] · Model Support
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-changed-askuserquestion-dialogs-to-no-longer-auto-continue-by-default-opt-into-a|Changed AskUserQuestion dialogs to no longer auto-continue by default]]
+- Earlier: 2026-07-10 · Cursor · [[Changes/Cursor/2026-07-10-redesigned-project-and-repo-pickers|Redesigned project and repo pickers]]
 - Later: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-added-mouse-click-support-for-multi-select-menus-and-other-input-rows-in-fullscr|Added mouse-click support for multi-select menus and "Other" input rows in fullscreen mode]]
 <!-- chronolog:end -->
 

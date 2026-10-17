@@ -3,7 +3,7 @@ changes_count: 3
 date: '2026-09-14'
 description: 'ChatGPT release Updated permissions for new Health connections on 2026-09-14:
   3 tracked changes across Apps and Integrations, Safety and Privacy'
-machine_hash: 989f6a529c8cff25c214509760cdbe7ae4b5cea2dc70966fcc763b00d81da28a
+machine_hash: f4ccd79dc47aebf2c77221327b13f8c0edea774e3da39cf728ec2fb3b892e3e6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ version: Updated permissions for new Health connections
 <!-- chronolog:begin region="summary" -->
 For new Health plugin connections, ChatGPT will now default to each user’s global plugins permissions setting.
 
-Tracked 3 of 3 candidate lines.
+Tracked 3 cards from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

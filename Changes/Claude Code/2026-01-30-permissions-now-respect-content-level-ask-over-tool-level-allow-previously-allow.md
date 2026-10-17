@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 304d6bf4376d02325149e6197977827fc1fc7f9fba199456ae20059ccf55676e
+kind: change
+machine_hash: a7c22f689c2e76ec5473ee8794133f5effebae50ed2d00d8d98b60f06094edc9
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
       `allow: ["Bash"], ask: ["Bash(rm *)"]` allowed all bash commands, but will now
       permission prompt for `rm`.'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.27
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: permissions-now-respect-content-level-ask-over-tool-level-allow-previously-allow
@@ -44,10 +46,10 @@ record:
   title: Permissions now respect content-level `ask` over tool-level `allow`
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-14-added-ability-to-provide-feedback-when-accepting-permission-prompts|Added
-  ability to provide feedback when accepting permission prompts]]'
-- '[[Changes/Claude Code/2026-01-14-fixed-security-vulnerability-where-wildcard-permission-rules-could-match-compoun|Fixed
-  security vulnerability where wildcard permission rules could match compound…]]'
+- '[[Changes/Cursor/2026-01-22-unified-cli-permissions-with-the-editor-including-run-everything-auto-run-in-san|Unified
+  CLI permissions with the editor, including Run Everything, Auto-Run…]]'
+- '[[Changes/Claude Code/2026-01-27-2-safety-and-privacy-changes-in-v2-1-20|2 Safety
+  and Privacy changes in v2.1.20]]'
 - '[[Changes/Claude Code/2026-01-29-fixed-per-user-temp-directory-isolation-to-prevent-permission-conflicts-on-share|Fixed
   per-user temp directory isolation to prevent permission conflicts on shared systems]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-30-v2-1-27-github-281663155-d003937d|claude-code-2026-01-30-v2-1-27-github-281663155-d003937d]]'
@@ -72,8 +74,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-01-30-sessions-are-now-automatically-linked-to-prs-when-created-via-gh-pr-create|Sessions are now automatically linked to PRs when created via gh pr create]] · Developer Workflow
-- [[Changes/Claude Code/2026-01-30-added-tool-call-failures-and-denials-to-debug-logs|Added tool call failures and denials to debug logs]] · Developer Workflow
+- [[Changes/Claude Code/2026-01-30-2-developer-workflow-changes-in-v2-1-27|2 Developer Workflow changes in v2.1.27]] · Developer Workflow
 - [[Changes/Claude Code/2026-01-30-added-from-pr-flag-to-resume-sessions-linked-to-a-specific-github-pr-number-or-u|Added --from-pr flag to resume sessions linked to a specific GitHub PR number or URL]] · Projects and Workspaces
 - [[Changes/Claude Code/2026-01-30-vscode-enabled-claude-in-chrome-integration|VSCode: Enabled Claude in Chrome integration]] · Apps and Integrations
 <!-- chronolog:end -->
@@ -82,7 +83,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-01-29 · Claude Code · [[Changes/Claude Code/2026-01-29-fixed-per-user-temp-directory-isolation-to-prevent-permission-conflicts-on-share|Fixed per-user temp directory isolation to prevent permission conflicts on shared systems]]
-- Later: 2026-02-06 · Claude Code · [[Changes/Claude Code/2026-02-06-fixed-a-bug-where-commands-excluded-from-sandboxing-via-sandbox-excludedcommands|Fixed a bug where commands excluded from sandboxing…]]
+- Later: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-fixed-permission-dialogs-stealing-focus-while-actively-typing|Fixed permission dialogs stealing focus while actively typing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 9a74817e8d3ce0acabc12713bb6ea46f5bd3ca65646d4728bcc21ee483cdc037
+kind: change
+machine_hash: 49d3be1e97d63e9105b438d65ef94703f240ba9e9335bbafa0d86dabfc442bee
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,8 +43,9 @@ record:
       picker. GPT-5 Pro will remain available as a legacy model for 90 days before
       being retired.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: today-we-re-updating-gpt-5-pro-to-gpt-5-1-pro-in-early-testing-users-consistentl
@@ -62,24 +64,24 @@ record:
     score: 50
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v2
-  title: Today we’re updating GPT-5 Pro to GPT-5.1 Pro
+  title: 'GPT-5.1 Pro: Clearer, more capable answers for complex work'
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to|Interrupt
-  long-running queries (such as deep research or GPT-5 Pro) to refine what…]]'
-- '[[Changes/ChatGPT/2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th-d3a253|We’re
-  updating ChatGPT’s tone controls so it’s easier to make responses sound…]]'
-- '[[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4|We’re
-  updating GPT-5 to GPT-5.1 Instant and GPT-5.1 Thinking, making answers both…]]'
+  ChatGPT]]'
+- '[[Changes/ChatGPT/2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th-d3a253|New
+  tone and personalization controls]]'
+- '[[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4|GPT-5.1
+  in ChatGPT]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-19-gpt-5-1-pro-clearer-more-capable-answers-for-complex-work-78316657|chatgpt-2025-11-19-gpt-5-1-pro-clearer-more-capable-answers-for-complex-work-78316657]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: Today we’re updating GPT-5 Pro to GPT-5.1 Pro
+title: 'GPT-5.1 Pro: Clearer, more capable answers for complex work'
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Today we’re updating GPT-5 Pro to GPT-5.1 Pro
+# GPT-5.1 Pro: Clearer, more capable answers for complex work
 
 **ChatGPT** · 2025-11-19 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-11-19-gpt-5-1-pro-clearer-more-capable-answers-for-complex-work-78316657|GPT-5.1 Pro: Clearer, more capable answers for complex work]]
 <!-- chronolog:end -->
@@ -97,8 +99,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-12 · ChatGPT · [[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4|We’re updating GPT-5 to GPT-5.1 Instant and GPT-5.1 Thinking, making answers both…]]
-- Later: 2025-11-21 · ChatGPT · [[Changes/ChatGPT/2025-11-21-chatgpt-now-adds-more-inline-images-from-the-web-to-help-you-quickly-understand-83e5b8|ChatGPT now adds more inline images from the web to help you quickly understand…]]
+- Earlier: 2025-11-12 · ChatGPT · [[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4|GPT-5.1 in ChatGPT]]
+- Later: 2025-11-21 · ChatGPT · [[Changes/ChatGPT/2025-11-21-chatgpt-now-adds-more-inline-images-from-the-web-to-help-you-quickly-understand-83e5b8|More images in answers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-04-21'
 description: 'ChatGPT release ChatGPT Images 2.0 in ChatGPT on 2026-04-21: 1 tracked
   change across Image Generation'
-machine_hash: e7bcac7a92227d38e8a09ff899efbafb08c862d81749967cda72ce9693819e87
+machine_hash: a9f11174fa59f033ef5a38504ea264ad9c8a744b99b66fc4966ea712309cf581
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: ChatGPT Images 2.0 in ChatGPT
 <!-- chronolog:begin region="summary" -->
 We’re introducing ChatGPT Images 2.0, our new image generation model in ChatGPT. ChatGPT Images 2.0 is available on all ChatGPT plans.We’re also introducing images with thinking. When given more time to think, it can plan and refine image outputs before generating them.Images with thinking is available on all paid…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-04-21-we-re-introducing-chatgpt-images-2-0-our-new-image-generation-model-in-chatgpt-c|ChatGPT introduces ChatGPT Images 2.0, our new image generation model]] · Image Generation
+- [[Changes/ChatGPT/2026-04-21-we-re-introducing-chatgpt-images-2-0-our-new-image-generation-model-in-chatgpt-c|ChatGPT Images 2.0 in ChatGPT]] · Image Generation · Launch
 <!-- chronolog:end -->

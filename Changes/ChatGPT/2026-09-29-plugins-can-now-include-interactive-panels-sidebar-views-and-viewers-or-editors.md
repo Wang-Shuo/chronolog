@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0a0fdd9d83e52b66f88b176bc441f426132fb580e50e1a874cd775711b6ddfc9
+machine_hash: b8f38b7422c348fac201e19dbb48b91d501751a2781cf05882b4a01680d374ba
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,6 +64,7 @@ related_changes:
   MCP tool, WebFetch and WebSearch outputs to the tool.output OpenTelemetry…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-work-with-interactive-plugin-extensions-8f979183|chatgpt-2026-09-29-work-with-interactive-plugin-extensions-8f979183]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: apps-integrations
 title: Plugins can now include interactive panels, sidebar views, and viewers or editors…
 type: change

@@ -15,9 +15,10 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 39adb6118428ff3a554e55dc302feb9ff0ce64d2c56ffd438e07cb4d3921d203
+kind: change
+machine_hash: 47b01e70ece526734b89a0bcb213e69c01f1e28c02d7e7fcaddd898d56c34ff6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,34 +35,33 @@ record:
       it may inadvertently fulfill this request. We are temporarily disabling Browse
       while we fix this.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-ve-learned-that-the-browsing-beta-can-occasionally-display-content-in-ways-we
   source_release: chatgpt-2023-07-03-browsing-is-temporarily-disabled-aaf0005e
   source_type: chatgpt_changelog
   theme: search-browsing
-  title: We've learned that the browsing beta can occasionally display content in
-    ways we…
+  title: Browsing is temporarily disabled
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
+  An experimental model that knows when and how to browse the internet]]'
 - '[[Changes/ChatGPT/2023-05-12-web-browsing-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-browse-the|Web
   browsing: Try a new version of ChatGPT that knows when and how to browse…]]'
-- '[[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|Browse
-  with Bing]]'
 - '[[Changes/ChatGPT/2023-06-22-search-history-improvements-tapping-on-a-search-result-takes-you-directly-to-the|Search
   History Improvements]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-07-03-browsing-is-temporarily-disabled-aaf0005e|chatgpt-2023-07-03-browsing-is-temporarily-disabled-aaf0005e]]'
 source_type: chatgpt_changelog
 theme: search-browsing
-title: We've learned that the browsing beta can occasionally display content in ways
-  we…
+title: Browsing is temporarily disabled
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We've learned that the browsing beta can occasionally display content in ways we…
+# Browsing is temporarily disabled
 
 **ChatGPT** · 2023-07-03 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-07-03-browsing-is-temporarily-disabled-aaf0005e|Browsing is temporarily disabled]]
 <!-- chronolog:end -->

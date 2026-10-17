@@ -15,9 +15,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 55db296556486f9cfef118d3fecead147773d6a59fc1d9a50223fd5287b8bca5
+kind: change
+machine_hash: 1a736f4a4bcbe0cb5752bab0f57a35b51a200a5490a278e5990f7bcd663fecd2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,32 +46,33 @@ record:
       globally with OpenTable and in the US with Resy and in the US and Canada with
       Yelp. ChatGPT Work does not include restaurant reservation search.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: chatgpt-can-now-help-you-find-available-restaurant-reservations-with-opentable-r
   source_release: chatgpt-2026-08-10-restaurant-reservations-in-chatgpt-07c9e578
   source_type: chatgpt_changelog
   theme: mobile-desktop
-  title: ChatGPT can now help you find available restaurant reservations with OpenTable…
+  title: Restaurant reservations in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-29-new-to-both-iphone-and-ipad-an-inbox-to-stay-organized-and-a-review-experience-t|New
-  to both iPhone and iPad]]'
-- '[[Changes/ChatGPT/2026-08-07-find-folders-files-and-past-conversations-faster-search-now-includes-folders-and|Find
-  folders, files, and past conversations faster]]'
-- '[[Changes/Claude Code/2026-08-07-added-self-hosted-environments-claude-self-hosted-runner-turns-your-own-machines|Added
-  self-hosted environments]]'
+- '[[Changes/Cursor/2026-07-29-built-for-the-bigger-screen-98bf7a|Built for the bigger
+  screen]]'
+- '[[Changes/Cursor/2026-07-29-cursor-for-ipad-is-now-available-on-all-paid-plans-ce68be|Cursor
+  for iPad is now available on all paid plans]]'
+- '[[Changes/Claude Code/2026-08-07-3-mobile-and-desktop-changes-in-v2-1-224|3 Mobile
+  and Desktop changes in v2.1.224]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-10-restaurant-reservations-in-chatgpt-07c9e578|chatgpt-2026-08-10-restaurant-reservations-in-chatgpt-07c9e578]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: ChatGPT can now help you find available restaurant reservations with OpenTable…
+title: Restaurant reservations in ChatGPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT can now help you find available restaurant reservations with OpenTable…
+# Restaurant reservations in ChatGPT
 
 **ChatGPT** · 2026-08-10 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-10-restaurant-reservations-in-chatgpt-07c9e578|Restaurant reservations in ChatGPT]]
 <!-- chronolog:end -->
@@ -88,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-added-self-hosted-environments-claude-self-hosted-runner-turns-your-own-machines|Added self-hosted environments]]
-- Later: 2026-08-14 · ChatGPT · [[Changes/ChatGPT/2026-08-14-practice-with-interactive-quizzes-ask-chatgpt-to-quiz-you-on-a-topic-and-answer|Practice with interactive quizzes]]
+- Earlier: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-3-mobile-and-desktop-changes-in-v2-1-224|3 Mobile and Desktop changes in v2.1.224]]
+- Later: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-changed-self-hosted-runner-windows-startup-to-require-an-explicit-base-dir-there|Changed self-hosted runner Windows startup to require an explicit --base-dir]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

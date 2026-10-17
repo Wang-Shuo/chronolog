@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-11-07'
 description: 'ChatGPT release Personality and custom instructions now apply to all
   chats on 2025-11-07: 1 tracked change across Memory and Personalization'
-machine_hash: 0817d66cd277dfa499e49bdc53e13cdf1fd71a7ea338b7eb60b12208ce59bab6
+machine_hash: 512f969bc9ccd1c7b97fdca93c2f1cb913100bf8c6a3ea027302ad70ddad8fd1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: Personality and custom instructions now apply to all chats
 <!-- chronolog:begin region="summary" -->
 Previously, changes you made to your ChatGPT personality or custom instructions only applied to new conversations. Starting today, updates you make in Settings → Personalization are applied immediately across all chats (including existing conversations!) so your experience stays consistent everywhere without needing to…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-11-07-previously-changes-you-made-to-your-chatgpt-personality-or-custom-instructions-o|Previously, changes you made to your ChatGPT personality or custom instructions only…]] · Memory and Personalization
+- [[Changes/ChatGPT/2025-11-07-previously-changes-you-made-to-your-chatgpt-personality-or-custom-instructions-o|Personality and custom instructions now apply to all chats]] · Memory and Personalization
 <!-- chronolog:end -->

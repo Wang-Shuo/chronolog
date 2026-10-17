@@ -2,7 +2,7 @@
 changes_count: 0
 date: '2023-09-20'
 description: 'Cursor release Patches on 2023-09-20: no tracked changes'
-machine_hash: eeb032e7957e06d77332fc8f2ea0cb07130385c5187f8fc040a9ab42d1b454bb
+machine_hash: 30a7d101db001d1a7f89e363ff28dccd4ddfcb90dcc0ac141c039d5ea9b5e3cb
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.11.1-0.11.8
 <!-- chronolog:begin region="summary" -->
 Fixes issues with Cmd-k, SSH, Python support, Vim (rolling back to 1.25.2 until this issue is fixed: VSCodeVim/Vim#8603), and other extensions.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

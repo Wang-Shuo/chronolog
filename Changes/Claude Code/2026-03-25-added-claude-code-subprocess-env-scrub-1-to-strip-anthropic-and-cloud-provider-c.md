@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ae9986cb7a6fb7294d39797a0f9b4f9b5d07ca64d0d5c710d99eb6176a3e0e83
+machine_hash: 84d057fbd4f94e568467cdaeb3419f71d23fefe6ea1ec670d52b73b2efe4100d
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   unnecessary permission prompts for Bash commands containing dashes in strings]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317|claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Added CLAUDE_CODE_SUBPROCESS_ENV_SCRUB=1 to strip Anthropic and cloud provider…
 type: change

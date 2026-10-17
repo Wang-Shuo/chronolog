@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-01-20'
 description: 'ChatGPT release Rolling out age prediction on 2026-01-20: 1 tracked
   change across Model Support'
-machine_hash: 41e5cbc0ffe9cd02543a664b461b58d27ba64d30564b4df1cf3539c48db30610
+machine_hash: 305bc279b2491b8022123d8e1d20a25c2ad02a7e3316c926dadd130a549dfccb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: Rolling out age prediction
 <!-- chronolog:begin region="summary" -->
 We're rolling out an age prediction model on ChatGPT consumer plans to help determine whether an account likely belongs to someone under 18, so we can apply the right experience and safeguards for teens. The model looks at a combination of behavioral and account-level signals, including how long an account has existed…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|ChatGPT rolls out an age prediction model on ChatGPT consumer plans to help…]] · Model Support
+- [[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|Rolling out age prediction]] · Model Support · Policy
 <!-- chronolog:end -->

@@ -14,9 +14,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 4a748aaebd8f33964025c0520f5a795b9e6bd50ee07272aadc567666f1efc42f
+kind: change
+machine_hash: c08851c458068f48ce870d1d587e2a24337127b056fcc703ad310fe7fbdea510
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
       `python` and `pip` commands use the correct interpreter (configurable via `claudeCode.usePythonEnvironment`
       setting)'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.21
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: vscode-added-automatic-python-virtual-environment-activation-ensuring-python-and
@@ -45,12 +47,12 @@ record:
     `python`…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-23-changed-indexed-argument-syntax-from-arguments-0-to-arguments-0-bracket-syntax|Changed
-  indexed argument syntax from $ARGUMENTS.0 to $ARGUMENTS0 (bracket syntax)]]'
-- '[[Changes/Claude Code/2026-01-23-added-shorthand-0-1-etc-for-accessing-individual-arguments-in-custom-commands|Added
-  shorthand $0, $1, etc. for accessing individual arguments in custom commands]]'
-- '[[Changes/Claude Code/2026-01-27-added-support-for-loading-claude-md-files-from-additional-directories-specified|Added
-  support for loading CLAUDE.md files from additional directories specified…]]'
+- '[[Changes/Cursor/2026-01-22-3-developer-workflow-changes-in-2-4|3 Developer Workflow
+  changes in 2.4]]'
+- '[[Changes/Claude Code/2026-01-23-2-developer-workflow-changes-in-v2-1-19|2 Developer
+  Workflow changes in v2.1.19]]'
+- '[[Changes/Claude Code/2026-01-27-3-developer-workflow-changes-in-v2-1-20|3 Developer
+  Workflow changes in v2.1.20]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-28-v2-1-21-github-280523920-bba74245|claude-code-2026-01-28-v2-1-21-github-280523920-bba74245]]'
 source_type: github_releases
 theme: developer-workflow
@@ -81,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-added-support-for-loading-claude-md-files-from-additional-directories-specified|Added support for loading CLAUDE.md files from additional directories specified…]]
+- Earlier: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-3-developer-workflow-changes-in-v2-1-20|3 Developer Workflow changes in v2.1.20]]
 - Later: 2026-01-29 · Claude Code · [[Changes/Claude Code/2026-01-29-changed-bash-commands-to-show-timeout-duration-alongside-elapsed-time|Changed Bash commands to show timeout duration alongside elapsed time]]
 <!-- chronolog:end -->
 

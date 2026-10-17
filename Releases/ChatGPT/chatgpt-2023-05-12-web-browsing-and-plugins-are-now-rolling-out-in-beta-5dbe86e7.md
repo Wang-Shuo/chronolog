@@ -4,7 +4,7 @@ date: '2023-05-12'
 description: 'ChatGPT release Web browsing and Plugins are now rolling out in beta
   on 2023-05-12: 4 tracked changes across Apps and Integrations, Context Window, Search
   and…'
-machine_hash: 162e7d29cb5cca8b3316f3646f9f95beaae2fd7c396e6a4355cdf1fc09743dcf
+machine_hash: e6e7555f93585fe001f127c669217aeb048d258e8f334a8cd92017f461965e03
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ version: Web browsing and Plugins are now rolling out in beta
 <!-- chronolog:begin region="summary" -->
 If you are a ChatGPT Plus user, enjoy early access to experimental new features, which may change during development. We’ll be making these features accessible via a new beta panel in your settings, which is rolling out to all Plus users over the course of the next week.
 
-Tracked 4 of 13 candidate lines.
+Tracked 4 cards from 13 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

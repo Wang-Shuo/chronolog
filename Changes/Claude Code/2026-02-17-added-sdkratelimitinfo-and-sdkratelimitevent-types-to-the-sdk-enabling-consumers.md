@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ae6f80999cbc162dd0819516a576dcfa8f0f901d82341d8e3b0c33355e954cf2
+machine_hash: 232befd10093e7a9e10df28cb92846bdeafecc3a9e945b521b503fa77d542a2f
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   support for reading enabledPlugins and extraKnownMarketplaces…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6|claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added SDKRateLimitInfo and SDKRateLimitEvent types to the SDK, enabling…
 type: change

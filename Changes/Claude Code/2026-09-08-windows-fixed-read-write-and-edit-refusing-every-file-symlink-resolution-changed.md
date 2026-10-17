@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c607539017641cd5b5ae8ef71f49fbb464367f961c8343c945adc653f124244e
+machine_hash: ca7a52d5d53173c74eccdcd05e8147f921c81a92c0ab88fa1a972bbf6a10750c
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   syntax-highlighted code in permission prompts and messages sometimes omitting…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405|claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: 'Windows: Fixed Read, Write and Edit refusing every file…'
 type: change

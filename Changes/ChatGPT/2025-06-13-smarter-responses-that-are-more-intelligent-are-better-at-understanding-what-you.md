@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d5f29c7bd37352487df93f752d00459d11340df9709f38bfb1a60eb3ca4ca71a
+machine_hash: 3d83699c5c728fed3fdc1a10bdc736c3ecfc8e5b93e5fbc96e2a42d210be6c53
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,6 +52,7 @@ related_changes:
   with Custom Actions currently support GPT-4o and 4.1]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464|chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: Smarter responses that are more intelligent, are better at understanding what
   you’re…

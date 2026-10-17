@@ -4,8 +4,8 @@ date: '2023-11-10'
 description: 'Cursor · 2023-11-10 · Context Window: Copilot++ (beta): this is an "add-on"
   to Copilot that suggests diffs around your cursor, using your recent edits as…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
-    prompt length for project generation]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 190
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 63d5085d0850cf5872a68722a794de0195b7a79cb385d44c2e94d74cd4aafc22
+kind: change
+machine_hash: c88d17ec203e684fc0f5aae6783795e405afff47bfe3261bd70ef8080caf30bd
 product: cursor
 product_name: Cursor
 record:
@@ -33,8 +34,9 @@ record:
       tab in the right chat bar. Note: to cover the costs of the AI, this is only
       available for pro users.'
     source_release: https://cursor.com/changelog/0-15-0-0-15-1
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: copilot-beta-this-is-an-add-on-to-copilot-that-suggests-diffs-around-your-cursor
@@ -56,10 +58,9 @@ record:
 related_changes:
 - '[[Changes/Cursor/2023-08-30-for-with-codebase-chats-you-can-now-see-the-codebase-context-that-cursor-shows-g|For
   "with codebase" chats, you can now see the codebase context that Cursor shows GPT-4]]'
-- '[[Changes/Cursor/2023-09-08-you-can-also-paste-a-url-into-the-chat-and-the-model-will-automatically-include|You
-  can also paste a url into the chat and the model will automatically include…]]'
-- '[[Changes/Cursor/2023-09-10-ask-a-question-about-an-edit-that-the-model-with-option-enter-or-bring-in-contex|Ask
-  a question about an edit that the model with option+enter, or bring in context…]]'
+- '[[Changes/Cursor/2023-09-08-long-files-in-chat|Long files in chat]]'
+- '[[Changes/Cursor/2023-09-10-ask-a-question-about-an-edit-that-the-model-with-option-enter-or-bring-in-contex|Quick
+  question and @chat in cmd+k]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-10-0-15-0-0-15-1-https-cursor-com-changelog-0-15-0-0-15-1-9dc9cadb|cursor-2023-11-10-0-15-0-0-15-1-https-cursor-com-changelog-0-15-0-0-15-1-9dc9cadb]]'
 source_type: cursor_changelog
 theme: context-window
@@ -90,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2023-09-10 · Cursor · [[Changes/Cursor/2023-09-10-ask-a-question-about-an-edit-that-the-model-with-option-enter-or-bring-in-contex|Ask a question about an edit that the model with option+enter, or bring in context…]]
-- Later: 2023-11-21 · Cursor · [[Changes/Cursor/2023-11-21-integrates-gpt-v-into-chat-for-the-editor-this-means-you-can-take-screenshots-im|Integrates GPT-V into chat for the editor]]
+- Earlier: 2023-09-10 · Cursor · [[Changes/Cursor/2023-09-10-ask-a-question-about-an-edit-that-the-model-with-option-enter-or-bring-in-contex|Quick question and @chat in cmd+k]]
+- Later: 2023-11-21 · Cursor · [[Changes/Cursor/2023-11-21-integrates-gpt-v-into-chat-for-the-editor-this-means-you-can-take-screenshots-im|GPT-V Support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 3a30a4701150ee84225a7e855dd4ec91d1d26c8383e8186bc15a2c361a09480a
+machine_hash: 6b43dd9a648626d11f3fd143e74bfd7d035e53d3d2ea9fc03cb168991557b247
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   to disk]]'
 source_release: '[[Releases/Cursor/cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e|cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: '@docs, @git, @web, and @folder are now available in the agent'
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 385b631f13496cb1365fc3ee7ea9312b2cb99940de157d4d3eea6c69607d3896
+machine_hash: 1168fc5cafbf25c7cd2bd4af883c821fcd1342f5b74f2039865f72d463474634
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   CLI tool usage detection to plugin tips, in addition to file pattern matching]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-20-v2-1-81-github-299621655-10d2d4fe|claude-code-2026-03-20-v2-1-81-github-299621655-10d2d4fe]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Improved MCP read/search tool calls to collapse into a single…
 type: change

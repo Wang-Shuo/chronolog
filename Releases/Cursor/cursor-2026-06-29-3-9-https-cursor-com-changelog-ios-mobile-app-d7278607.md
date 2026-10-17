@@ -3,7 +3,7 @@ changes_count: 4
 date: '2026-06-29'
 description: 'Cursor release Cursor Mobile App for iOS on 2026-06-29: 4 tracked changes
   across Agent Mode, Mobile and Desktop, Voice and Audio'
-machine_hash: 33096fb8e8e62d24019c3fa6fb6ededd49933658612b52c64de2259362ad23dc
+machine_hash: ee7d8914587769381fc29a5be3da7227a378f4b9f7e03b19c73bc1a588452359
 product: cursor
 product_name: Cursor
 record:
@@ -39,13 +39,13 @@ version: '3.9'
 <!-- chronolog:begin region="summary" -->
 Cursor for iOS is now available in public beta on all paid plans. Launch and manage always-on agents from anywhere.
 
-Tracked 4 of 9 candidate lines.
+Tracked 4 cards from 9 candidate lines; 2 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-06-29-use-remote-control-in-the-agents-window-to-take-an-agent-you-re-running-on-your|Use Remote Control in the Agents Window to take an agent you're running…]] · Agent Mode
-- [[Changes/Cursor/2026-06-29-cloud-agents-run-in-isolated-virtual-machines-with-full-development-environments|Cloud agents run in isolated virtual machines with full development environments…]] · Agent Mode
-- [[Changes/Cursor/2026-06-29-cursor-for-ios-is-now-available-in-public-beta-on-all-paid-plans-launch-and-mana|Cursor for iOS is now available in public beta on all paid plans]] · Mobile and Desktop
-- [[Changes/Cursor/2026-06-29-open-the-cursor-mobile-app-choose-a-repo-and-launch-an-agent-the-same-way-you-wo|Open the Cursor mobile app, choose a repo, and launch an agent the same way you…]] · Voice and Audio
+- [[Changes/Cursor/2026-06-29-cloud-agents-on-mobile-1bc371|Cloud agents on mobile]] · Voice and Audio · Launch
+- [[Changes/Cursor/2026-06-29-remote-control-3ec330|Remote Control]] · Agent Mode · Launch
+- [[Changes/Cursor/2026-06-29-live-activities-and-push-notifications|Live Activities and push notifications]] · Agent Mode · Launch
+- [[Changes/Cursor/2026-06-29-cursor-for-ios-is-now-available-in-public-beta-on-all-paid-plans-launch-and-mana|Cursor for iOS is now available in public beta on all paid plans]] · Mobile and Desktop · Launch
 <!-- chronolog:end -->

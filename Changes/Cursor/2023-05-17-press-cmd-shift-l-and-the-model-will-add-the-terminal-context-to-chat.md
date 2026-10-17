@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 8e85cb563587f38a45e3fd45ba0e6947fba2c4407b35ad2b633dc69a79bc5b19
+machine_hash: 2f2ccf16e06b637e69911a068fae0966128bd62b076f82a10ff564afdd72ce13
 product: cursor
 product_name: Cursor
 record:
@@ -63,6 +63,7 @@ related_changes:
   more information on our rollout process, please check out the article here]]'
 source_release: '[[Releases/Cursor/cursor-2023-05-17-0-2-16-https-cursor-com-changelog-0-2-16-e0618ec3|cursor-2023-05-17-0-2-16-https-cursor-com-changelog-0-2-16-e0618ec3]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: Press Cmd+Shift+L, and the model will add the terminal context to chat
 type: change

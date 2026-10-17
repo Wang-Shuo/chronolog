@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 746b083ab430ce0d1083394e029784573e88c23f2947da77477b7d1dc906a09f
+machine_hash: 45440100ef17575bf688de6360ec0a064c5e115739f0b2f364274d5814eeb82c
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   source: ''settings'' plugin marketplace source]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a|claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added --channels (research preview)
 type: change

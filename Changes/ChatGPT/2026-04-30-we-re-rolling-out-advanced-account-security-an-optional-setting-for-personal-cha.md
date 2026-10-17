@@ -14,9 +14,10 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 990fbd0d5ef4357c975ca66cff233ea14f440ca1547d3fd9f387ce5930a495e7
+kind: change
+machine_hash: c01307a02668bfc30e5edf5c8585f065e6db07455e7fb24acdef2dcd1e825a3e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,8 +51,9 @@ record:
       to their enrolled passkeys or security keys. If access to all sign-in methods
       and recovery keys is lost, access to the account may be lost.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-rolling-out-advanced-account-security-an-optional-setting-for-personal-cha
@@ -69,24 +71,24 @@ record:
     - security
     score: 50
     theme: safety-privacy
-  title: ChatGPT rolls out Advanced Account Security, an optional setting for personal…
+  title: Advanced Account Security in ChatGPT
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-04-09-added-interactive-google-vertex-ai-setup-wizard-accessible-from-the-login-screen|Added
   interactive Google Vertex AI setup wizard accessible from the login screen…]]'
 - '[[Changes/ChatGPT/2026-04-22-we-re-launching-chatgpt-for-clinicians-a-free-version-of-chatgpt-for-verified-cl|ChatGPT
-  launches ChatGPT for Clinicians, a free version of ChatGPT for verified…]]'
+  for Clinicians]]'
 - '[[Changes/Claude Code/2026-04-28-clarified-the-mcp-message-shown-when-an-mcp-server-is-still-unauthorized-after-t|Clarified
   the /mcp message shown when an MCP server is still unauthorized after…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-30-advanced-account-security-in-chatgpt-d81bf569|chatgpt-2026-04-30-advanced-account-security-in-chatgpt-d81bf569]]'
 source_type: chatgpt_changelog
 theme: account-access
-title: ChatGPT rolls out Advanced Account Security, an optional setting for personal…
+title: Advanced Account Security in ChatGPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT rolls out Advanced Account Security, an optional setting for personal…
+# Advanced Account Security in ChatGPT
 
 **ChatGPT** · 2026-04-30 · [[Themes/account-access|Account and Access]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-30-advanced-account-security-in-chatgpt-d81bf569|Advanced Account Security in ChatGPT]]
 <!-- chronolog:end -->

@@ -1,9 +1,9 @@
 ---
-changes_count: 2
+changes_count: 1
 date: '2026-09-17'
-description: 'ChatGPT release ChatGPT for Word on 2026-09-17: 2 tracked changes across
-  Collaboration, Interface Experience'
-machine_hash: ef4f167864a2c1aa8a45a4c0829db19e752677f2e1de4aaede3bc3b6795d91b7
+description: 'ChatGPT release ChatGPT for Word on 2026-09-17: 1 tracked change across
+  Interface Experience'
+machine_hash: 6c375b97ba63e6e40dd69b0cf96b628820c6f138117d6b406a2ea82a0ade397f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,11 +41,10 @@ version: ChatGPT for Word
 <!-- chronolog:begin region="summary" -->
 ChatGPT is now available in Microsoft Word. You can draft from notes, summarize a document, revise selected text, and adjust headings and formatting from the ChatGPT sidebar. Word joins Excel and PowerPoint through the same Microsoft add-in.
 
-Tracked 2 of 3 candidate lines.
+Tracked 1 card from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-09-17-chatgpt-for-word-is-available-on-all-chatgpt-plans-including-free-your-plan-s-to|ChatGPT for Word is available on all ChatGPT plans, including Free]] · Collaboration
-- [[Changes/ChatGPT/2026-09-17-chatgpt-is-now-available-in-microsoft-word-you-can-draft-from-notes-summarize-a|ChatGPT is now available in Microsoft Word]] · Interface Experience
+- [[Changes/ChatGPT/2026-09-17-chatgpt-is-now-available-in-microsoft-word-you-can-draft-from-notes-summarize-a-4c7506|ChatGPT for Word]] · Interface Experience · Launch
 <!-- chronolog:end -->

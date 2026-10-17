@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c2ec16aacb2c2321ec5e72bcd09dfb30900a23b2e7ebc4a00fb19c53cee8665b
+machine_hash: b3e790604299bfa276e69f5803c9fb23c301c7f3ab33a26d013f1093557341c4
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   /color (no args) now picks a random session color]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f|claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added CLAUDE_CODE_FORCE_SYNC_OUTPUT=1 env var to force-enable synchronized
   output…

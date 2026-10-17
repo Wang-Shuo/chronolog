@@ -4,8 +4,8 @@ date: '2023-04-16'
 description: 'Cursor · 2023-04-16 · Editor Experience: Nicer edits, now work with
   cmd-Z'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 33
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: ffaaf8e641146fd2145b8981730e62896f4f7a7a622d7635ff604f7206c0460d
+kind: change
+machine_hash: ac982938213936e64441183318a154426df112b706b130ae44eb4d7cb85d6720
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Nicer edits, now work with cmd-Z
     source_release: https://cursor.com/changelog/0-2-4
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: nicer-edits-now-work-with-cmd-z
@@ -41,10 +43,10 @@ record:
   title: Nicer edits, now work with cmd-Z
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-04-06-we-ve-transitioned-to-building-cursor-on-top-of-a-fork-of-vscodium-moving-away-f|We''ve
+- '[[Changes/Cursor/2023-04-06-we-ve-transitioned-to-building-cursor-on-top-of-a-fork-of-vscodium-moving-away-f-1497a9|We''ve
   transitioned to building Cursor on top of a fork of VSCodium, moving away…]]'
-- '[[Changes/Cursor/2023-04-06-our-goal-is-to-create-an-ide-optimized-for-pair-programming-with-ai|Our
-  goal is to create an IDE optimized for pair-programming with AI]]'
+- '[[Changes/Cursor/2023-04-06-transitioned-to-building-cursor-on-top-of-a-fork-of-vscodium|Transitioned
+  to building Cursor on top of a fork of VSCodium]]'
 - '[[Changes/Cursor/2023-04-14-hover-over-an-error-to-have-the-ai-explain-it-fix-it|Hover
   over an error to have the AI explain it/fix it]]'
 source_release: '[[Releases/Cursor/cursor-2023-04-16-0-2-4-https-cursor-com-changelog-0-2-4-1ed55ed8|cursor-2023-04-16-0-2-4-https-cursor-com-changelog-0-2-4-1ed55ed8]]'
@@ -82,7 +84,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

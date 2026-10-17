@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a5e5563242f0ecf31b06e259578d8349fd971cb02c8615012f3ee2a91e2ba95b
+machine_hash: 46dd76ac30bf731b76c77161c8b60ab9a052a6700085cd5c7457c32452cf66b1
 product: cursor
 product_name: Cursor
 record:
@@ -48,6 +48,7 @@ related_changes:
   and fix bugs directly in Cursor with AI code reviews]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323]]'
 source_type: cursor_changelog
+superseded: true
 theme: developer-workflow
 title: Debug Mode helps you reproduce and fix the most tricky bugs
 type: change

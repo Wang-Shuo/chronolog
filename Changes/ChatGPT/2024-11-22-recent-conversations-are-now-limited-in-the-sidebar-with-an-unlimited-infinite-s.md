@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6599e2fe08cd106be886fc3df5cbdb04dcc6789f4a2edca6a4b12e774ec4dd5e
+machine_hash: eab292556358d2e31d77b721f838382a4d0843ec02905a9f73f6db4eb52549b2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,6 +51,7 @@ related_changes:
   floating mode added with soft dismiss behavior]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c|chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: interface-experience
 title: Recent conversations are now limited in the sidebar, with an unlimited infinite…
 type: change

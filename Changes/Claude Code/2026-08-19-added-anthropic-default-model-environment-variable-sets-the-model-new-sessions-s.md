@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: d334b00c58505a6e9146be4f5382934b4a5e2a60373dc8b337660a1f3977ec46
+kind: change
+machine_hash: 923d33cf1d906d07140c5bb0703836e38181ac8b45021326fd99f2b3482a4657
 product: claude-code
 product_name: Claude Code
 record:
@@ -33,8 +34,9 @@ record:
       sessions start on, while a `/model` pick still overrides it and persists across
       restarts (unlike `ANTHROPIC_MODEL`)'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.236
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-anthropic-default-model-environment-variable-sets-the-model-new-sessions-s
@@ -44,12 +46,12 @@ record:
   title: Added `ANTHROPIC_DEFAULT_MODEL` environment variable
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-04-improved-the-refusal-when-claude-tries-to-invoke-a-skill-with-disable-model-invo|Improved
-  the refusal when Claude tries to invoke a skill with disable-model-invocation]]'
-- '[[Changes/ChatGPT/2026-08-06-gpt-5-6-luna-will-become-the-default-model-for-free-and-go-users-this-week-start|GPT‑5.6
-  Luna will become the default model for Free and Go users this week]]'
-- '[[Changes/ChatGPT/2026-08-06-plus-and-pro-users-can-now-use-an-updated-gpt-5-6-sol-in-chatgpt-with-more-relia|Plus
-  and Pro users can now use an updated GPT‑5.6 Sol in ChatGPT with more reliable…]]'
+- '[[Changes/Claude Code/2026-08-11-changed-the-write-tool-so-newer-models-can-overwrite-an-existing-file-they-haven|Changed
+  the Write tool so newer models can overwrite an existing file they haven''t…]]'
+- '[[Changes/Claude Code/2026-08-14-2-model-support-changes-in-v2-1-233|2 Model Support
+  changes in v2.1.233]]'
+- '[[Changes/Claude Code/2026-08-17-2-model-support-changes-in-v2-1-234|2 Model Support
+  changes in v2.1.234]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79|claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79]]'
 source_type: github_releases
 theme: model-support
@@ -73,15 +75,19 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-08-19-improved-startup-performance-the-session-counter-is-now-written-in-the-backgroun|Improved startup performance: the session counter is now written in the background]] · Reliability and Performance
-- [[Changes/Claude Code/2026-08-19-sandbox-on-macos-wildcard-read-deny-rules-e-g-env-now-take-precedence-inside-all|Sandbox: on macOS, wildcard read-deny rules (e.g. /.env) now take precedence…]] · Safety and Privacy
 - [[Changes/Claude Code/2026-08-19-added-notify-when-idle-to-cross-session-sendmessage-ask-another-claude-code-sess|Added notify_when_idle to cross-session SendMessage]] · Mobile and Desktop
-- [[Changes/Claude Code/2026-08-19-improved-auto-mode-monitor-allow-rules-are-now-set-aside-while-auto-mode-is-acti|Improved auto mode]] · Agent Mode
+- [[Changes/Claude Code/2026-08-19-2-safety-and-privacy-changes-in-v2-1-236|2 Safety and Privacy changes in v2.1.236]] · Safety and Privacy
+- [[Changes/Claude Code/2026-08-19-2-developer-workflow-changes-in-v2-1-236|2 Developer Workflow changes in v2.1.236]] · Developer Workflow
+- [[Changes/Claude Code/2026-08-19-changed-the-model-picker-to-highlight-only-the-newest-model-s-name-so-the-highli|Changed the /model picker to highlight only the newest model's name…]] · Interface Experience
+- [[Changes/Claude Code/2026-08-19-4-agent-mode-changes-in-v2-1-236|4 Agent Mode changes in v2.1.236]] · Agent Mode
+- [[Changes/Claude Code/2026-08-19-sigterm-in-print-sdk-mode-no-longer-records-an-interrupted-turn-or-synthetic-too|SIGTERM in print/SDK mode no longer records an interrupted turn or synthetic tool…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-08-19-usage-now-shows-the-usage-credits-spend-row-for-team-and-enterprise-members-and|/usage now shows the usage-credits spend row for Team and Enterprise members…]] · Pricing Model
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-06 · ChatGPT · [[Changes/ChatGPT/2026-08-06-plus-and-pro-users-can-now-use-an-updated-gpt-5-6-sol-in-chatgpt-with-more-relia|Plus and Pro users can now use an updated GPT‑5.6 Sol in ChatGPT with more reliable…]]
+- Earlier: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-2-model-support-changes-in-v2-1-234|2 Model Support changes in v2.1.234]]
 - Later: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-added-claude-api-cost-optimize-to-profile-an-existing-project-s-claude-api-spend|Added /claude-api cost-optimize to profile an existing project's Claude API spend…]]
 <!-- chronolog:end -->
 

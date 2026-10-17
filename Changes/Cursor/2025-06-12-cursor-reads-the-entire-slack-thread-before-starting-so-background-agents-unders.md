@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9d22d11e1d6cf4844465fc8c9feaa7e7aacc4405efa7a3113caea2c60a68c2a7
+machine_hash: 8e8fa530798f9806fe862d4793cfb838e5fd382e5270dbd6550bd11879040375
 product: cursor
 product_name: Cursor
 record:
@@ -60,6 +60,7 @@ related_changes:
   and users can now build and deploy custom connectors to proprietary systems…]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc|cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: Cursor reads the entire Slack thread before starting, so Background Agents…
 type: change

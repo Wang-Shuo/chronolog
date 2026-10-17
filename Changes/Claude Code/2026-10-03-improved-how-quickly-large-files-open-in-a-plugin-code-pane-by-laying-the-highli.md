@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1d57849e2c9bb5a042a69d5b7be782d4404845f4782bc84c2239be1d9cfb28a5
+machine_hash: 26e0aa7ee60b888d201bf662a46faebc120a1e9e3dd00a37678cc61abb796ed8
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   agent.spawn for teammates, one agent id across plugin hook events, and idle…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-03-v2-1-289-github-402671979-24326b23|claude-code-2026-10-03-v2-1-289-github-402671979-24326b23]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Improved how quickly large files open in a plugin code pane by laying…
 type: change

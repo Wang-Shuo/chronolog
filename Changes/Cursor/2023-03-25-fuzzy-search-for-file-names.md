@@ -3,8 +3,8 @@ card_id: cursor-2023-03-25-c84bc6
 date: '2023-03-25'
 description: 'Cursor · 2023-03-25 · Editor Experience: Fuzzy search for file names'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 11
   relation: same-theme-chronology
@@ -13,9 +13,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 533917837c71520251a1dd6c53b303293b22864a14e87e21a491ccee472c5dc4
+kind: change
+machine_hash: cb0d59a5880d757a6be39ae90b78b983062c12b4e09345eedbf1cd960c9f9a88
 product: cursor
 product_name: Cursor
 record:
@@ -26,8 +27,9 @@ record:
   evidence:
   - quote: Fuzzy search for file names
     source_release: https://cursor.com/changelog/0-1-7
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: fuzzy-search-for-file-names
@@ -39,12 +41,12 @@ record:
   title: Fuzzy search for file names
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-03-18-have-chat-auto-insert-suggested-changes-into-editor|Have
-  chat auto-insert suggested changes into editor]]'
-- '[[Changes/Cursor/2023-03-23-automatically-apply-chat-suggestion|Automatically apply
-  chat suggestion]]'
-- '[[Changes/Cursor/2023-03-23-ask-ai-to-fix-language-errors|Ask AI to "fix" language
-  errors]]'
+- '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience
+  changes in 0.0.37]]'
+- '[[Changes/Cursor/2023-03-18-2-editor-experience-changes-in-0-1-2|2 Editor Experience
+  changes in 0.1.2]]'
+- '[[Changes/Cursor/2023-03-23-2-editor-experience-changes-in-0-1-5|2 Editor Experience
+  changes in 0.1.5]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-25-0-1-7-https-cursor-com-changelog-0-1-7-5f5b6e9b|cursor-2023-03-25-0-1-7-https-cursor-com-changelog-0-1-7-5f5b6e9b]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -71,14 +73,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-03-23 · Cursor · [[Changes/Cursor/2023-03-23-ask-ai-to-fix-language-errors|Ask AI to "fix" language errors]]
-- Later: 2023-04-06 · Cursor · [[Changes/Cursor/2023-04-06-while-currently-similar-to-a-standard-code-editor-with-ai-features-we-plan-to-ev|While currently similar to a standard code editor with AI features, we plan…]]
+- Earlier: 2023-03-23 · Cursor · [[Changes/Cursor/2023-03-23-2-editor-experience-changes-in-0-1-5|2 Editor Experience changes in 0.1.5]]
+- Later: 2023-04-06 · Cursor · [[Changes/Cursor/2023-04-06-we-ve-transitioned-to-building-cursor-on-top-of-a-fork-of-vscodium-moving-away-f-1497a9|We've transitioned to building Cursor on top of a fork of VSCodium, moving away…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

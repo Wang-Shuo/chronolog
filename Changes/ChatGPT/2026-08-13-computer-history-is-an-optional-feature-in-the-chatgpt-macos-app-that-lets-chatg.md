@@ -4,19 +4,20 @@ date: '2026-08-13'
 description: 'ChatGPT · 2026-08-13 · Enterprise and Administration: Computer History
   is an optional feature in the ChatGPT macOS app that lets ChatGPT and Codex reference…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise
-    and Edu rollout coming soon]]'
+  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
+    users can only access stable release (no pre-release)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 427
+  lag_days: 435
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: c4171701aece736dcfcc286ec74851e76ac5f94d672d77a84202f639bd8ee111
+kind: change
+machine_hash: b9560e882100b0242fe1fd2c1274d133c400be51c342f9bed13d85c478b6e62c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,8 +45,9 @@ record:
       included apps and sites, and inspect or delete timeline items. Note that Computer
       History is not currently available in the EEA, UK or Switzerland.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: computer-history-is-an-optional-feature-in-the-chatgpt-macos-app-that-lets-chatg
@@ -74,26 +76,23 @@ record:
     - audio
     score: 50
     theme: voice
-  title: Computer History is an optional feature in the ChatGPT macOS app that lets
-    ChatGPT…
+  title: Computer History for macOS
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-in-enterprise-workspaces-public-publishing-is-off-by-default-and-must-be-enabled|In
-  Enterprise workspaces, public publishing is off by default and must be enabled…]]'
-- '[[Changes/ChatGPT/2026-07-15-we-re-increasing-the-character-limit-for-custom-instructions-in-chatgpt-plus-pro|We’re
-  increasing the character limit for custom instructions in ChatGPT]]'
+- '[[Changes/Claude Code/2026-07-15-changed-usage-credits-to-ask-for-confirmation-before-sending-a-request-to-organi|Changed
+  /usage-credits to ask for confirmation before sending a request…]]'
+- '[[Changes/Cursor/2026-07-22-admin-controls|Admin controls]]'
 - '[[Changes/ChatGPT/2026-08-04-starting-today-for-chatgpt-enterprise-and-education-users-long-pastes-are-handle|Starting
   today for ChatGPT Enterprise and Education users, long pastes are handled…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-13-computer-history-for-macos-4b03e9a3|chatgpt-2026-08-13-computer-history-for-macos-4b03e9a3]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
-title: Computer History is an optional feature in the ChatGPT macOS app that lets
-  ChatGPT…
+title: Computer History for macOS
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Computer History is an optional feature in the ChatGPT macOS app that lets ChatGPT…
+# Computer History for macOS
 
 **ChatGPT** · 2026-08-13 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-13-computer-history-for-macos-4b03e9a3|Computer History for macOS]]
 <!-- chronolog:end -->
@@ -112,13 +111,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-08-04 · ChatGPT · [[Changes/ChatGPT/2026-08-04-starting-today-for-chatgpt-enterprise-and-education-users-long-pastes-are-handle|Starting today for ChatGPT Enterprise and Education users, long pastes are handled…]]
-- Later: 2026-09-02 · Cursor · [[Changes/Cursor/2026-09-02-team-pools-are-named-queues-of-workers-for-a-team-or-enterprise-capacity-can-gro|Team pools are named queues of workers for a team or enterprise]]
+- Later: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-enterprise-policy-a-url-typed-blockedmarketplaces-entry-for-a-bare-repo-url-keep|Enterprise policy: a url-typed blockedMarketplaces entry for a bare repo URL keeps…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise and Edu rollout coming soon]]
+- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

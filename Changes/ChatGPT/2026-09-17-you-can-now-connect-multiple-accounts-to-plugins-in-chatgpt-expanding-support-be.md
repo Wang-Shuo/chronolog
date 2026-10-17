@@ -15,9 +15,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 095f5b1f063171a4df5642efbf832b509fd824abb634987d1654005fbd38286f
+kind: change
+machine_hash: 50046e53f97a00d4f7bec57baea9e72f252cfcdf37f4557df6044ccb61edc92f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,8 +40,9 @@ record:
       and get things done across your personal and work accounts. Available on all
       ChatGPT plans across web, mobile, and desktop.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: you-can-now-connect-multiple-accounts-to-plugins-in-chatgpt-expanding-support-be
@@ -58,25 +60,24 @@ record:
     - plugins
     score: 50
     theme: apps-integrations
-  title: Connect multiple accounts to plugins in ChatGPT, expanding support beyond
-    Gmail…
+  title: Connect multiple accounts to plugins in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add|Edit
-  and comment]]'
-- '[[Changes/ChatGPT/2026-09-08-turn-a-sketch-into-an-image-on-mobile-type-in-the-message-box-and-select-sketch|Turn
-  a sketch into an image]]'
-- '[[Changes/Claude Code/2026-09-08-added-user-email-and-user-groups-to-the-telemetry-claude-desktop-and-cowork-send|Added
-  user.email and user.groups to the telemetry Claude Desktop and Cowork send…]]'
+- '[[Changes/Claude Code/2026-09-11-changed-skills-synced-from-claude-ai-in-cloud-sessions-to-be-named-anthropic-ski|Changed
+  skills synced from claude.ai in cloud sessions to be named…]]'
+- '[[Changes/Claude Code/2026-09-14-2-mobile-and-desktop-changes-in-v2-1-271|2 Mobile
+  and Desktop changes in v2.1.271]]'
+- '[[Changes/Claude Code/2026-09-15-claude-code-on-the-web-removed-the-full-page-desktop-app-download-screen-that-ne|Claude
+  Code on the web Removed the full-page desktop-app download screen that new…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-17-connect-multiple-accounts-to-plugins-in-chatgpt-4c1d9bb4|chatgpt-2026-09-17-connect-multiple-accounts-to-plugins-in-chatgpt-4c1d9bb4]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Connect multiple accounts to plugins in ChatGPT, expanding support beyond Gmail…
+title: Connect multiple accounts to plugins in ChatGPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Connect multiple accounts to plugins in ChatGPT, expanding support beyond Gmail…
+# Connect multiple accounts to plugins in ChatGPT
 
 **ChatGPT** · 2026-09-17 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-17-connect-multiple-accounts-to-plugins-in-chatgpt-4c1d9bb4|Connect multiple accounts to plugins in ChatGPT]]
 <!-- chronolog:end -->
@@ -94,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-added-user-email-and-user-groups-to-the-telemetry-claude-desktop-and-cowork-send|Added user.email and user.groups to the telemetry Claude Desktop and Cowork send…]]
-- Later: 2026-09-21 · ChatGPT · [[Changes/ChatGPT/2026-09-21-this-feature-is-rolling-out-in-finances-to-plus-and-pro-users-in-the-u-s-on-web|This feature is rolling out in Finances to Plus and Pro users in the U.S. on web…]]
+- Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-claude-code-on-the-web-removed-the-full-page-desktop-app-download-screen-that-ne|Claude Code on the web Removed the full-page desktop-app download screen that new…]]
+- Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-added-enduser-sub-the-idp-subject-to-the-telemetry-claude-desktop-and-cowork-sen|Added enduser.sub, the IdP subject, to the telemetry Claude Desktop and Cowork…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

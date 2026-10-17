@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 26508a5705c16270bb52961df25a27e41aeae50065aaf859b44cb90e4ec77693
+machine_hash: d4fb335b4f1e7478cd99e80dc817442952bda5ba796dbd6a5155e2855a5fcc59
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   support for isolation: worktree in agent definitions, allowing agents…]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-24-cloud-agents-with-computer-use-https-cursor-com-changelog-02-24-252fc429|cursor-2026-02-24-cloud-agents-with-computer-use-https-cursor-com-changelog-02-24-252fc429]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Cloud agents can now use the software they create to test changes and demo
   their work

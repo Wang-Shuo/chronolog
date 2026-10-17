@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-05-09'
 description: 'Cursor release Enhanced Chat Experience (2023-05-09) on 2023-05-09:
   1 tracked change across Interface Experience'
-machine_hash: 0dd788d83ee27244accb9df32da3ec33b61d5813754a5ef135df1eb503759c0d
+machine_hash: a7b30e6e3d59a8dc4a057f140c8790778dcb4d4e48f5a6886a0ebbd95ee0961f
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.2.11
 <!-- chronolog:begin region="summary" -->
 1 tracked change across 1 theme: Interface Experience.
 
-Tracked 1 of 2 candidate lines.
+Tracked 1 card from 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

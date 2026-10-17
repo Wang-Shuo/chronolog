@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 3a65f30fb3536467f24ab6513af4a3315eca71fac37202420a57b29a74375161
+machine_hash: 41190c4574c5f30adeab0242e25659d25564cc65fbc42b697a380c1c0ac369a1
 product: claude-code
 product_name: Claude Code
 record:
@@ -68,6 +68,7 @@ related_changes:
   a workspace trust prompt to claude agents for untrusted directories…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-08-v2-1-225-github-367046190-ccb40049|claude-code-2026-08-08-v2-1-225-github-367046190-ccb40049]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed auto mode counting a safety-filter refusal of its own permission check
   toward…

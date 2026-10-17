@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7e1881aed378e2afc3af27fd905a6dc9257bc5c1845a7413dfc900ea27e93de2
+machine_hash: bdb093d3881cc0ec7d8732615e25d6b45906cc503ea55d54a3a8efd26b90f188
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,6 +47,7 @@ related_changes:
   frontmatter mcpServers are now loaded for main-thread agent sessions via --agent]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-22-v2-1-117-github-311984967-1d917373|claude-code-2026-04-22-v2-1-117-github-311984967-1d917373]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Forked subagents can now be enabled on external builds by setting…
 type: change

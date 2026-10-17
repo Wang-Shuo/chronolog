@@ -14,9 +14,10 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 0a116a96bf143e99fc69eb8975cd7e17e612d2d4eca98f85287337443a8b6dfb
+kind: change
+machine_hash: a9b5552e924ae5d83f37cc54d0782ca10a20bf8cb9b0484ebcf068684ced5ec9
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Improved Remote session startup with a provisioning checklist while the
       container starts
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.195
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-remote-session-startup-with-a-provisioning-checklist-while-the-containe

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-08-26'
 description: 'Cursor release Bug fix for people on language packs on 2023-08-26: 1
   tracked change across Developer Workflow'
-machine_hash: c7e2d4a6b9c2ba96e3aa1f88e203be3b3978433d8e16cd40088d413ff04a716f
+machine_hash: cb71e17396e41e6560bab3685c19405d0495840b1e4dc0bd71670fe3159eb9ed
 product: cursor
 product_name: Cursor
 record:
@@ -39,10 +39,10 @@ version: 0.8.3-nightly
 <!-- chronolog:begin region="summary" -->
 We had a big bug for people on language packs. Thank you to all who helped us debug! This should now be fixed, and should not happen again.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-08-26-we-had-a-big-bug-for-people-on-language-packs-thank-you-to-all-who-helped-us-deb|We had a big bug for people on language packs]] · Developer Workflow
+- [[Changes/Cursor/2023-08-26-we-had-a-big-bug-for-people-on-language-packs-thank-you-to-all-who-helped-us-deb|Bug fix for people on language packs]] · Developer Workflow
 <!-- chronolog:end -->

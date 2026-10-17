@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-12-22'
 description: 'ChatGPT release Your Year with ChatGPT on 2025-12-22: 1 tracked change
   across Memory and Personalization'
-machine_hash: daf331c2e9e261a4bfd6aa7aa3b8aefa90bfe279068522b4db66bfb9e98816d3
+machine_hash: f572586c07a96ec26dfc43b8120862a0d4d57b467be8019f76328b357460bd9e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Your Year with ChatGPT
 <!-- chronolog:begin region="summary" -->
 Today we’re rolling out Your Year with ChatGPT, an optional, personalized end-of-year experience that reflects on how you interacted with ChatGPT in 2025. It highlights high-level themes from your conversations and includes summary statistics about your usage over the year.This experience is rolling out gradually…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-12-22-today-we-re-rolling-out-your-year-with-chatgpt-an-optional-personalized-end-of-y-740eb1|ChatGPT rolls out Your Year with ChatGPT, an optional, personalized end-of-year…]] · Memory and Personalization
+- [[Changes/ChatGPT/2025-12-22-today-we-re-rolling-out-your-year-with-chatgpt-an-optional-personalized-end-of-y-740eb1|Your Year with ChatGPT]] · Memory and Personalization
 <!-- chronolog:end -->

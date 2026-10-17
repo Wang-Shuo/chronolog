@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 36e97c05442b588020cd22bec662401bd1018114d8b289a249aece6759344d99
+machine_hash: 585d98ccc69d9b713a1285e11e8aee76b7a52254533048e86ae9599045236d0e
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   new task management system, including new capabilities like dependency tracking]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640|claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Changed indexed argument syntax from $ARGUMENTS.0 to $ARGUMENTS0 (bracket syntax)
 type: change

@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d8b5bda098d0e6ecb2cdab4a23bba0248b3a0068819a0f5cd3bf3394aa4486ad
+machine_hash: b851c2069b1cd17bedbb27884db1dc0cf4de919ce1817f2ccdf2bb9d0ab4aa88
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   fmt, comm, cmp, numfmt, expr, test, printf, getconf, seq…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48|claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added ExitWorktree tool to leave an EnterWorktree session
 type: change

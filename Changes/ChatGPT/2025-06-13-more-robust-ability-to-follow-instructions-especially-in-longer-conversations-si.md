@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e6349b51898cb92e1a544458bee1724a6bc7797987fba53d3b162527574eb3a9
+machine_hash: ddbd63acbae7164a12b4a88fcdf9f576b4bb6d98b60bcad6a131275e102f37d2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,6 +51,7 @@ related_changes:
   Outside the European regions listed above, all Plus and Pro accounts that have…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464|chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: reliability-performance
 title: More robust ability to follow instructions, especially in longer conversations…
 type: change

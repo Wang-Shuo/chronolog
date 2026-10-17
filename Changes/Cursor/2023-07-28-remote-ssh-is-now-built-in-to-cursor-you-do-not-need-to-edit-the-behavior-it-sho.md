@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d84a9c5e138f39a009867092586debcfd1ed2da90dbf91f0ff727fde904b8257
+machine_hash: 5083a31063520c7f4e846d87282d5f138c5a4b2a71befa7ff05744db5cc687ef
 product: cursor
 product_name: Cursor
 record:
@@ -48,6 +48,7 @@ related_changes:
 - '[[Changes/Cursor/2023-07-27-linter-is-back|Linter is back!]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991|cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991]]'
 source_type: cursor_changelog
+superseded: true
 theme: developer-workflow
 title: Remote-ssh is now built-in to cursor
 type: change

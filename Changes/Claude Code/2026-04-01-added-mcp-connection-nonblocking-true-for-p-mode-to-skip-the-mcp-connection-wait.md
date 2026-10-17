@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 39c5d0b9f61165117f44f7063d2ab5624783245f7c69949f42d20695736a2745
+machine_hash: e1b007586145a8282d3a6d89585714db15d0338a6939d832069a52aa96862f82
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   startup event-loop stalls when many claude.ai MCP connectors are configured…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-89-github-303967782-358023f0|claude-code-2026-04-01-v2-1-89-github-303967782-358023f0]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added MCP_CONNECTION_NONBLOCKING=true for -p mode to skip the MCP connection…
 type: change

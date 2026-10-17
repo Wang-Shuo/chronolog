@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-09-25'
 description: 'ChatGPT release Introducing ChatGPT Pulse for Pro users on 2025-09-25:
   1 tracked change across Memory and Personalization'
-machine_hash: 67ae3f60db39ab5b99c2b8a8f9849a1a2d54f1a4114463d3bbf8f36bbc0ab07d
+machine_hash: 3d39d8a1b00aa6baf10bfe4b928815853c0c92f308f7c50dc542ddefea64c71e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: Introducing ChatGPT Pulse for Pro users
 <!-- chronolog:begin region="summary" -->
 We’re launching an early preview of ChatGPT pulse for Pro users on iOS and Android. This is a new experience where ChatGPT can now proactively deliver personalized, focused updates for you once a day. These updates are based on asynchronous research ChatGPT can do on your behalf overnight, synthesizing information from…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-09-25-we-re-launching-an-early-preview-of-chatgpt-pulse-for-pro-users-on-ios-and-andro-cf8064|ChatGPT launches an early preview of ChatGPT pulse for Pro users on iOS and Android]] · Memory and Personalization
+- [[Changes/ChatGPT/2025-09-25-we-re-launching-an-early-preview-of-chatgpt-pulse-for-pro-users-on-ios-and-andro-cf8064|Introducing ChatGPT Pulse for Pro users]] · Memory and Personalization · Launch
 <!-- chronolog:end -->

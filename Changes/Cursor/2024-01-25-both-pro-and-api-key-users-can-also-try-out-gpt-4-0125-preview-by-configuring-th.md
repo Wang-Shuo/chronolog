@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 96c9a5f74535fb0813834c3dc8cfb95f14ffcf2e6cffaf57afe88dd4b9c2da2c
+kind: change
+machine_hash: 051642d9e366af8e44400ab80affe8911956ad8649651a8a48029b13ecd9e5e3
 product: cursor
 product_name: Cursor
 record:
@@ -37,8 +38,9 @@ record:
       new model right now for pro users to see if it performs better than all older
       versions of gpt-4. If so, will roll out as the default experience.
     source_release: https://cursor.com/changelog/0-24-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: both-pro-and-api-key-users-can-also-try-out-gpt-4-0125-preview-by-configuring-th
@@ -52,7 +54,7 @@ record:
 related_changes:
 - '[[Changes/Cursor/2023-12-16-ai-review-beta-this-is-a-new-experimental-feature-that-let-s-gpt-4-scan-your-git|AI
   Review (beta)]]'
-- '[[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti|Cursor-Fast
+- '[[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti-bb4c11|Cursor-Fast
   is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…]]'
 - '[[Changes/Cursor/2024-01-18-cursor-fast-this-is-a-new-model-available-in-command-k-and-chat-expect-it-to-be|"cursor-fast":
   This is a new model available in command-k and chat]]'
@@ -86,7 +88,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-01-18 · Cursor · [[Changes/Cursor/2024-01-18-cursor-fast-this-is-a-new-model-available-in-command-k-and-chat-expect-it-to-be|"cursor-fast": This is a new model available in command-k and chat]]
-- Later: 2024-03-12 · Cursor · [[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|If you're a Pro or Business user, you can add "claude-3-opus" as a custom model…]]
+- Later: 2024-03-12 · Cursor · [[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|Claude Support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

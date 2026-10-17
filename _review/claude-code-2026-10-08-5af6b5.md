@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: 55315fe30755e74f4d7a96d02d798139a1f002ff598309830cef97e3aa04cb5f
+machine_hash: 51854d56a1363a240d493ed354019969caf24dc767e8aa2182b9dcf30cc1036a
 product: claude-code
 record:
   ai_generated: true
@@ -15,8 +15,9 @@ record:
   - quote: 'Added Program Status Protocol (OSC 7501) support: terminals that implement
       it can show whether Claude Code is working, waiting on you, or done'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.295
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-program-status-protocol-osc-7501-support-terminals-that-implement-it-can-s

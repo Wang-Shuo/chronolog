@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2bff702437b4d44757a4888f4b21e65197ae24fe16641e13c4ff4b4c105302be
+machine_hash: 6efa5eaf487fa7693577191345ab613025d707f64c32d82888e3581b3fef8e22
 product: cursor
 product_name: Cursor
 record:
@@ -52,6 +52,7 @@ related_changes:
   integrated browser to support opening multiple tabs]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465|cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: Cursor now separates processes running for user-installed extensions and built-in…
 type: change

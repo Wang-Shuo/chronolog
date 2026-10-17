@@ -3,7 +3,7 @@ changes_count: 1
 date: '2024-05-13'
 description: 'ChatGPT release Introducing GPT-4o on 2024-05-13: 1 tracked change across
   Model Support'
-machine_hash: dcb0f6bf3233f0799dd105cd77599d0a928268285591480a5f102cac4c493369
+machine_hash: 2f1344ca4855c851026bd05cb1a1b9b2b50470a810d074adaa1e342da9688fff
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Introducing GPT-4o
 <!-- chronolog:begin region="summary" -->
 GPT-4o is our newest flagship model that provides GPT-4-level intelligence that is much faster and improves on its capabilities across text, voice, and vision. Currently, only the new text and image capabilities have been rolled out. You can read more about the announcement here.Plus users will have a message limit…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2024-05-13-gpt-4o-is-our-newest-flagship-model-that-provides-gpt-4-level-intelligence-that-297427|GPT-4o is our newest flagship model that provides GPT-4-level intelligence…]] · Model Support
+- [[Changes/ChatGPT/2024-05-13-gpt-4o-is-our-newest-flagship-model-that-provides-gpt-4-level-intelligence-that-297427|Introducing GPT-4o]] · Model Support · Launch
 <!-- chronolog:end -->

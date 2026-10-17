@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: e2c2dcce78d5659704864a6899f38456c89c3993f69074d8b5f466dc52a9a0d2
+machine_hash: 3ab6a1a62564e67424db3a4362d62dae0df1a57a5fcf7719ba9f3215865c8558
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   continuing to improve cloud agents and the Cursor harness so always-on agents…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-27-v2-1-248-github-378106990-677106e3|claude-code-2026-08-27-v2-1-248-github-378106990-677106e3]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added experimental.cacheTtl ("5m" or "1h") to agent frontmatter
 type: change

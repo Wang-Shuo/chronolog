@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9f8100024bfa1c2bf6fb136d8a16d558d5e614c8facc5d72dcc115f4b55deac7
+machine_hash: fd4fdf7d7f8bde458e373b1b4415cdac9ef8248041e97bf9b13a013d8f94c5d1
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   mode]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-210-github-354034085-7eba9ec7|claude-code-2026-07-14-v2-1-210-github-354034085-7eba9ec7]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added a live elapsed-time counter to the collapsed tool summary line so long-running…
 type: change

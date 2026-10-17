@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: aaa5466457fe6a38b632edb50dca5f3528971fd2ac565b61ad2774458a177a31
+machine_hash: e3f08d35a9dc320a0663af5b7e4cedc5ebee80293e98407b008854e6d0cd9df3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,6 +53,7 @@ related_changes:
   first-party OpenAI sessions from Settings  Security  Active sessions…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-02-active-account-session-controls-0830d01c|chatgpt-2026-06-02-active-account-session-controls-0830d01c]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: safety-privacy
 title: ChatGPT rolls out Active sessions, a new security feature that helps users
   review…

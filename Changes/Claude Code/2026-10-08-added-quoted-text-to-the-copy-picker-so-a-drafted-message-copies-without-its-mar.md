@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 437f791d9a9491e984436967b6d20956cb8d233f1e5a5f982f1fc861ace16a05
+machine_hash: 660e5286c98983e4c02c38c274d84263ed51740d6b91acf638538746eceab8bd
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   $.ui.selection() for mods]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added quoted text to the /copy picker, so a drafted message copies without
   its …

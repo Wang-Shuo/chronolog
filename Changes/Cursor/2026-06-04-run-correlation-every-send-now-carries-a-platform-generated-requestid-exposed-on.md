@@ -1,0 +1,111 @@
+---
+card_id: cursor-2026-06-04-3a79fb
+date: '2026-06-04'
+description: 'Cursor · 2026-06-04 · Memory and Personalization: Run correlation: Every
+  send() now carries a platform-generated requestId, exposed on Run and RunResult
+  and…'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1050
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: memory
+  tracked_products_count: 3
+evolves_from: []
+extractor_version: fallback-v5
+impact: significant
+kind: change
+machine_hash: 33ea1be34e25efcd85b0dcb85b1af59c61726d12b1a44a9d623395d6c93fc90c
+product: cursor
+product_name: Cursor
+record:
+  ai_generated: true
+  card_id: cursor-2026-06-04-3a79fb
+  comparison: ''
+  confidence: low
+  date: '2026-06-04'
+  description: 'Cursor — Custom stores, custom tools, and auto-review for the Cursor
+    SDK: Run correlation: Every send() now carries a platform-generated requestId,
+    exposed on Run and RunResult and persisted across the in-memory, SQLite, and JSONL
+    stores. Tie a script or CI run to backend logs, analytics, and support threads
+    without inferring it from agentId.'
+  evidence:
+  - quote: 'Run correlation: Every send() now carries a platform-generated requestId,
+      exposed on Run and RunResult and persisted across the in-memory, SQLite, and
+      JSONL stores. Tie a script or CI run to backend logs, analytics, and support
+      threads without inferring it from agentId.'
+    source_release: https://cursor.com/changelog/sdk-updates-jun-2026
+  extractor_version: fallback-v5
+  impact: significant
+  kind: change
+  product: cursor
+  product_name: Cursor
+  slug: run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on
+  source_release: cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856
+  source_type: cursor_changelog
+  theme: memory
+  title: 'Run correlation: Every send() now carries a platform-generated requestId,
+    exposed…'
+  type: change
+related_changes:
+- '[[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|Fast
+  answers in ChatGPT]]'
+- '[[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Memory
+  sources and more personalized responses in ChatGPT]]'
+- '[[Changes/ChatGPT/2026-06-04-we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping-9a48f3|Memory
+  that stays more up to date]]'
+source_release: '[[Releases/Cursor/cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856|cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856]]'
+source_type: cursor_changelog
+theme: memory
+title: 'Run correlation: Every send() now carries a platform-generated requestId,
+  exposed…'
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Run correlation: Every send() now carries a platform-generated requestId, exposed…
+
+**Cursor** · 2026-06-04 · [[Themes/memory|Memory and Personalization]] · [Official source](https://cursor.com/changelog/sdk-updates-jun-2026) · from [[Releases/Cursor/cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856|Custom stores, custom tools, and auto-review for the Cursor SDK]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Run correlation: Every send() now carries a platform-generated requestId, exposed on Run and RunResult and persisted across the in-memory, SQLite, and JSONL stores. Tie a script or CI run to backend logs, analytics, and support threads without inferring it from agentId.
+>
+> Source: https://cursor.com/changelog/sdk-updates-jun-2026
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cursor/2026-06-04-custom-tools-056918|Custom tools]] · Safety and Privacy
+- [[Changes/Cursor/2026-06-04-bundled-ripgrep-local-shell-runs-use-the-bundled-platform-rg-binary-without-modi|Bundled ripgrep: Local shell runs use the bundled platform rg binary without…]] · Mobile and Desktop
+- [[Changes/Cursor/2026-06-04-reliability-performance-and-platform-improvements|Reliability, performance, and platform improvements]] · Reliability and Performance
+- [[Changes/Cursor/2026-06-04-reliable-wait-on-local-runs-local-runs-no-longer-resolve-wait-before-the-termina|Reliable wait() on local runs]] · Automation and Scheduling
+- [[Changes/Cursor/2026-06-04-jsonl-and-custom-stores|JSONL and custom stores]] · Agent Mode
+- [[Changes/Cursor/2026-06-04-auto-review|Auto-review]] · Agent Mode
+- [[Changes/Cursor/2026-06-04-nested-subagents|Nested subagents]] · Agent Mode
+- [[Changes/Cursor/2026-06-04-we-ve-shipped-a-batch-of-new-functionality-across-the-typescript-and-python-sdks|We've shipped a batch of new functionality across the TypeScript and Python SDKs]] · Apps and Integrations
+- [[Changes/Cursor/2026-06-04-2-apps-and-integrations-changes-in-custom-stores-custom-tools|2 Apps and Integrations changes in Custom stores, custom tools…]] · Apps and Integrations
+- [[Changes/Cursor/2026-06-04-5-agent-mode-changes-in-custom-stores-custom-tools|5 Agent Mode changes in Custom stores, custom tools…]] · Agent Mode
+- [[Changes/Cursor/2026-06-04-0-1-6-release-and-analytics-cursor-sdk-0-1-6-documents-the-buildkite-release-pat|0.1.6 release and analytics]] · Files and Data
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Memory and Personalization
+
+- Earlier: 2026-06-04 · ChatGPT · [[Changes/ChatGPT/2026-06-04-we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping-9a48f3|Memory that stays more up to date]]
+- Later: 2026-06-12 · ChatGPT · [[Changes/ChatGPT/2026-06-12-you-can-now-delete-the-memories-shown-on-your-memory-summary-page-and-turn-memor-f16782|Additional controls for memory summary]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cursor-2026-06-04-3a79fb&body=Card%3A%20Changes%2FCursor%2F2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on.md%0ACard%20ID%3A%20cursor-2026-06-04-3a79fb%0ASource%3A%20https%3A%2F%2Fcursor.com%2Fchangelog%2Fsdk-updates-jun-2026%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

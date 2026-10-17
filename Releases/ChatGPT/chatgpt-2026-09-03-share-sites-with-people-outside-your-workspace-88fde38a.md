@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-09-03'
 description: 'ChatGPT release Share Sites with people outside your workspace on 2026-09-03:
   1 tracked change across Collaboration'
-machine_hash: a9c401a93d55ebeab98eafd9f3ced254ade65b9fbde061418591a04dc5b0d501
+machine_hash: 663848f93609949b85ef23518340838c697e36d96bfbbd4f9e537e5cd1a7a902
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: Share Sites with people outside your workspace
 <!-- chronolog:begin region="summary" -->
 Eligible Site owners can now share a live ChatGPT Site with named people outside their workspace, without making the Site public. External viewers can use the shared Site but cannot edit or publish it.To share, open the Site, select Share, enter the recipient’s email, and save their viewer access. The recipient signs…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside|Eligible Site owners can now share a live ChatGPT Site with named people outside…]] · Collaboration
+- [[Changes/ChatGPT/2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside|Share Sites with people outside your workspace]] · Collaboration
 <!-- chronolog:end -->

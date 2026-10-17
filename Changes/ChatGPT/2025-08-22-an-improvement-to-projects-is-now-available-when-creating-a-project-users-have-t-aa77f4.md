@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6d037f9eee352f3221032324b852ce415bd449246794618d169ee1f4a8f737fb
+machine_hash: 766f4d7a2a53e130de61362ad10e3bd9adb9ef62ec2d35108a474c4fb7e75334
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -70,6 +70,7 @@ related_changes:
   Memory must be enabled to utilize this feature]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-22-project-only-memory-3424a221|chatgpt-2025-08-22-project-only-memory-3424a221]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: memory
 title: An improvement to projects is now available
 type: change

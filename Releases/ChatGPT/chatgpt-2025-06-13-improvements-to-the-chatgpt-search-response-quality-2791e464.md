@@ -1,10 +1,10 @@
 ---
-changes_count: 4
+changes_count: 3
 date: '2025-06-13'
 description: 'ChatGPT release Improvements to the ChatGPT search response quality
-  on 2025-06-13: 4 tracked changes across Model Support, Reliability and Performance,
+  on 2025-06-13: 3 tracked changes across Model Support, Reliability and Performance,
   Search…'
-machine_hash: bc43a927d4ad851b4eb6ef8b4d2edb420c733912130367ced89839e4f66a164c
+machine_hash: e70a9a16c9b4a9847e5fef2c5e200205ee4d34794d0ded4587acddbaaadb88d9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,13 +41,12 @@ version: Improvements to the ChatGPT search response quality
 <!-- chronolog:begin region="summary" -->
 We’ve upgraded ChatGPT search for all users to provide even more comprehensive, up-to-date responses. In testing, we found users preferred these search improvements over our previous search experience.
 
-Tracked 4 of 9 candidate lines.
+Tracked 3 cards from 9 candidate lines; 4 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-06-13-more-robust-ability-to-follow-instructions-especially-in-longer-conversations-si|More robust ability to follow instructions, especially in longer conversations…]] · Reliability and Performance
 - [[Changes/ChatGPT/2025-06-13-we-ve-upgraded-chatgpt-search-for-all-users-to-provide-even-more-comprehensive-u|We’ve upgraded ChatGPT search for all users to provide even more comprehensive…]] · Search and Browsing
-- [[Changes/ChatGPT/2025-06-13-smarter-responses-that-are-more-intelligent-are-better-at-understanding-what-you|Smarter responses that are more intelligent, are better at understanding what you’re…]] · Model Support
-- [[Changes/ChatGPT/2025-06-13-handles-longer-conversational-contexts-allowing-better-intelligence-in-longer-co|Handles longer conversational contexts, allowing better intelligence in longer…]] · Model Support
+- [[Changes/ChatGPT/2025-06-13-in-some-cases-a-chain-of-thought-reasoning-will-show-up-unexpectedly-for-simple|In some cases, a “chain of thought” reasoning will show up unexpectedly for simple queries]] · Model Support
+- [[Changes/ChatGPT/2025-06-13-improved-search-capability-and-instruction-following-594de0|Improved search capability and instruction following]] · Reliability and Performance · Launch
 <!-- chronolog:end -->

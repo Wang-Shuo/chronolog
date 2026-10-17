@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 69f6357864b2c427306d8797eab6d4ee53a2258e588769bf7309ce17482ed32f
+machine_hash: 6de089d3b34f06df50a97e83981389cee6a60a8ee0ee7ea110361f2e0a78d2e7
 product: cursor
 product_name: Cursor
 record:
@@ -53,6 +53,7 @@ related_changes:
   Work is an agent for longer, more involved tasks]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d|cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: By default, side chats focus on reading, searching, and answering
 type: change

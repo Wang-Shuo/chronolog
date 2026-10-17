@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8d1fe8829b7b1551c85a3ae8a0101caab4cca5abc3cce94574ed8325d108d863
+machine_hash: d0ae3ccee6edf8cbd575593645aa9a115ca7cd655a19c13e90e3aa85fde190a8
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   mouse support to more lists in fullscreen mode]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added CLAUDE_CODE_MAX_MCP_DESCRIPTION_LENGTH to change the 2,048-character
   cap…

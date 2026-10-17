@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 3bf4d391a5e7aff375e48b380f7d1e1f1fe4548632aee2217f8c49494e2a5291
+machine_hash: fcd46a52d96f1b7bd1dcf51f354801d10e8b4657b07f81d1157b2baf7013d3c9
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,6 +61,7 @@ related_changes:
   PreModelSwitch and PostModelSwitch hook events…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6|claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Added Claude Fable 5.1 (claude-fable-5-1), now the default Fable model
 type: change

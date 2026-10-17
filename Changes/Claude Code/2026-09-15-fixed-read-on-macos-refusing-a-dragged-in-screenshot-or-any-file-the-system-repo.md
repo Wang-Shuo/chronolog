@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e251d9e7c1d8506bfb5ee7e81cefc8d7eaaaa6b6ca43a0e53957bf38c54759d7
+machine_hash: 0716c5e3bacbea520984a69bfd0b34b400ba5ba541bf6c9d45f3c40e0b80c0ba
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   you make no changes to your Plugins settings, the default permission setting…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed Read on macOS refusing a dragged-in screenshot, or any file the system
   reports…

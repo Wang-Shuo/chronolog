@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: abf60b98b53102a2dc9e6bb1525d3872873741424720a58ec8b9c51c0941db47
+kind: change
+machine_hash: 5947ca9bd7e0794ca806d46dba75f2246af57a265eaa20389b50ac748db26d16
 product: cursor
 product_name: Cursor
 record:
@@ -29,32 +30,32 @@ record:
   - quote: Small fix for a format-on-save bug that was introduced in the last release.
       Some small improvements to the AI linter and codebase-wide chat.
     source_release: https://cursor.com/changelog/0-2-32
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: small-fix-for-a-format-on-save-bug-that-was-introduced-in-the-last-release-some
   source_release: cursor-2023-06-14-0-2-32-https-cursor-com-changelog-0-2-32-fcd78291
   source_type: cursor_changelog
   theme: developer-workflow
-  title: Small fix for a format-on-save bug that was introduced in the last release
+  title: Small improvements
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-04-14-don-t-install-cursor-command-on-startup|Don''t install
-  "cursor" command on startup]]'
 - '[[Changes/Cursor/2023-04-29-working-remote-ssh-support-through-the-openremote-ssh-extension|🌐
   Working remote ssh support through the "OpenRemote - SSH" extension]]'
-- '[[Changes/Cursor/2023-05-17-press-cmd-d-to-auto-debug-a-terminal-error|Press Cmd+D
-  to auto-debug a terminal error]]'
+- '[[Changes/Cursor/2023-05-17-remote-ssh-is-easier-to-use|Remote SSH is easier to
+  use!]]'
+- '[[Changes/Cursor/2023-05-17-in-terminal-debugging-f140b2|In-terminal Debugging]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-14-0-2-32-https-cursor-com-changelog-0-2-32-fcd78291|cursor-2023-06-14-0-2-32-https-cursor-com-changelog-0-2-32-fcd78291]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: Small fix for a format-on-save bug that was introduced in the last release
+title: Small improvements
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Small fix for a format-on-save bug that was introduced in the last release
+# Small improvements
 
 **Cursor** · 2023-06-14 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://cursor.com/changelog/0-2-32) · from [[Releases/Cursor/cursor-2023-06-14-0-2-32-https-cursor-com-changelog-0-2-32-fcd78291|Small improvements]]
 <!-- chronolog:end -->
@@ -72,8 +73,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-05-17 · Cursor · [[Changes/Cursor/2023-05-17-press-cmd-d-to-auto-debug-a-terminal-error|Press Cmd+D to auto-debug a terminal error]]
-- Later: 2023-06-17 · Cursor · [[Changes/Cursor/2023-06-17-the-ai-linter-now-shows-diffs|The AI linter now shows diffs!]]
+- Earlier: 2023-05-17 · Cursor · [[Changes/Cursor/2023-05-17-in-terminal-debugging-f140b2|In-terminal Debugging]]
+- Later: 2023-06-17 · Cursor · [[Changes/Cursor/2023-06-17-the-ai-linter-now-shows-diffs|Diffs in AI linter feedback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ff48a7ac6c0944d3e0dd0165287f3b5f8ae81f6bd1fc4d5b28015bb0e69deb7f
+machine_hash: 173d652ac97edde653a4adf447ef29a97259190fdd6595f26af03a6ac1df432f
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,6 +47,7 @@ related_changes:
   Bugbot continues to use the same effort level as it does today]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd|claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd]]'
 source_type: github_releases
+superseded: true
 theme: reliability-performance
 title: Improved diff rendering performance for large file edits
 type: change

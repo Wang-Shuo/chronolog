@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f98a9e92387dd4b61b2914eb8fa208a3e1ff8bd399df61caec53f4ac804d2eaa
+machine_hash: f81dd866c843ba3b55f4f20f96449bfc982437cc1fa5c30557b95b790ffa8944
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   server-managed settings diagnostics]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added a likely cause for prompt-cache misses…
 type: change

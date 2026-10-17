@@ -4,8 +4,8 @@ date: '2024-02-02'
 description: 'Cursor · 2024-02-02 · Editor Experience: Hold down cmd-I over a selection
   to heal the code with GPT-4. Useful for writing pseudocode and having the AI convert…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 325
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 80601aee4311dca1f25b9a1c24e7885a2ead50874760107f6e6506c98d1daa5f
+kind: change
+machine_hash: 38a7db678621307d663c150e9d262dbfd265c43c41b4e20512d40dd86b769f29
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +32,9 @@ record:
       writing pseudocode and having the AI convert it into correct code. Please let
       us know if you find it useful!
     source_release: https://cursor.com/changelog/0-25-0-nightly
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: hold-down-cmd-i-over-a-selection-to-heal-the-code-with-gpt-4-useful-for-writing
@@ -41,7 +43,7 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Hold down cmd-I over a selection to heal the code with GPT-4
+  title: Cmd-I to Heal
   type: change
 related_changes:
 - '[[Changes/Cursor/2024-01-18-more-chat-symbol-links-when-the-chat-references-a-code-symbol-you-ll-often-be-ab|More
@@ -53,12 +55,12 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-02-02-0-25-0-nightly-https-cursor-com-changelog-0-25-0-nightly-8ca356c1|cursor-2024-02-02-0-25-0-nightly-https-cursor-com-changelog-0-25-0-nightly-8ca356c1]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: Hold down cmd-I over a selection to heal the code with GPT-4
+title: Cmd-I to Heal
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Hold down cmd-I over a selection to heal the code with GPT-4
+# Cmd-I to Heal
 
 **Cursor** · 2024-02-02 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://cursor.com/changelog/0-25-0-nightly) · from [[Releases/Cursor/cursor-2024-02-02-0-25-0-nightly-https-cursor-com-changelog-0-25-0-nightly-8ca356c1|Cmd-I to Heal]]
 <!-- chronolog:end -->
@@ -83,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

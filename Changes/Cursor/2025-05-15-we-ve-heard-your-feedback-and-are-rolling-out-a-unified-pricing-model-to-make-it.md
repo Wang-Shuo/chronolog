@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 26dfe8c5a0ad46b58cb30e3149430d374d8490d0c027b161dd0ae300bc397d8d
+machine_hash: 7edbe91cdb8c073bd883f43019166fa49f5cffbfe069aab671566376fed7b7d9
 product: cursor
 product_name: Cursor
 record:
@@ -62,6 +62,7 @@ related_changes:
   mode now uses token-based pricing (similar to how models API pricing works)]]'
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'
 source_type: cursor_changelog
+superseded: true
 theme: pricing-model
 title: We’ve heard your feedback and are rolling out a unified pricing model to make…
 type: change

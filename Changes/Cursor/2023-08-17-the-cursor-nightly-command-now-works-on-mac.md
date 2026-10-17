@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 0370f9c698a0a4aad4fe6bdd8fae25bb8a89a0f67faf47c1c5a652c2ee83330f
+kind: change
+machine_hash: ab86b5b3f3d133b788b1d715dc175c901e2ddd18902afade8dd9c3b2151a61bc
 product: cursor
 product_name: Cursor
 record:
@@ -27,8 +28,9 @@ record:
   evidence:
   - quote: The cursor-nightly command now works on Mac.
     source_release: https://cursor.com/changelog/0-7-14-nightly
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: the-cursor-nightly-command-now-works-on-mac
@@ -40,12 +42,11 @@ record:
   title: The cursor-nightly command now works on Mac
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-28-remote-ssh-is-now-built-in-to-cursor-you-do-not-need-to-edit-the-behavior-it-sho|Remote-ssh
-  is now built-in to cursor]]'
+- '[[Changes/Cursor/2023-07-28-ai-linter|AI linter]]'
 - '[[Changes/Cursor/2023-08-01-improved-linter-please-give-us-feedback-on-the-linter-suggestions-using-the-smil|Improved
-  linter! Please give us feedback on the linter suggestions using the smiley faces]]'
-- '[[Changes/Cursor/2023-08-03-also-the-linter-is-slightly-improved|Also, the linter
-  is slightly improved]]'
+  linter]]'
+- '[[Changes/Cursor/2023-08-03-also-the-linter-is-slightly-improved|In-editor chat
+  is back!]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-17-0-7-14-nightly-https-cursor-com-changelog-0-7-14-nightly-b6b0c549|cursor-2023-08-17-0-7-14-nightly-https-cursor-com-changelog-0-7-14-nightly-b6b0c549]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -74,8 +75,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-08-03 · Cursor · [[Changes/Cursor/2023-08-03-also-the-linter-is-slightly-improved|Also, the linter is slightly improved]]
-- Later: 2023-08-22 · Cursor · [[Changes/Cursor/2023-08-22-applies-the-patch-from-github-across-all-your-wsl-windows-subsystem-for-linux-di|Applies the patch from Github across all your WSL (Windows Subsystem for Linux)…]]
+- Earlier: 2023-08-03 · Cursor · [[Changes/Cursor/2023-08-03-also-the-linter-is-slightly-improved|In-editor chat is back!]]
+- Later: 2023-08-22 · Cursor · [[Changes/Cursor/2023-08-22-applies-the-patch-from-github-across-all-your-wsl-windows-subsystem-for-linux-di|WSL Fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

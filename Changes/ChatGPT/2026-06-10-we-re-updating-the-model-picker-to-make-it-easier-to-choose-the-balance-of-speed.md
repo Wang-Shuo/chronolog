@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 00c4520292f00570f4bba4f7277c5575c84af2c29d24ce387be70b6340504306
+machine_hash: 6dde6172dd4f3c11de764a849061ed1d047dd1e99dc02791931b85d31f26c346
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -69,6 +69,7 @@ related_changes:
   of contents in longer conversations]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba|chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: interface-experience
 title: We’re updating the model picker to make it easier to choose the balance of
   speed…

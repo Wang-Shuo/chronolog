@@ -4,7 +4,7 @@ date: '2024-04-12'
 description: 'Cursor release Improved Copilot++ UX, New GPT-4 Model on 2024-04-12:
   4 tracked changes across Context Window, Editor Experience, Interface Experience,
   Model…'
-machine_hash: 2102d55fb0e595976919f2e53f70deb0de321cac7f9e807336d4df20aa70f3cb
+machine_hash: d099ae69abf1aa99b692c84e999f48e38e3af4afea671223498d9f5859932bee
 product: cursor
 product_name: Cursor
 record:
@@ -40,7 +40,7 @@ version: 0.32.x
 <!-- chronolog:begin region="summary" -->
 Copilot++ UX: Suggestion previews now have syntax highlighting, which we find makes it much easier to quickly understand the changes.
 
-Tracked 4 of 5 candidate lines.
+Tracked 4 cards from 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

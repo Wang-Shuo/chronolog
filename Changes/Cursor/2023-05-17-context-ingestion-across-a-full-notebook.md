@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 961f4a1248004ffc76f15d3f2cad091d4301b43f72bae236491a629e8a9b88fd
+machine_hash: a7a78cacbc3fcacaa1b9263526648e3968abab1cee546b4c37a9c6bf0f373968
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   Cmd+Shift+L, and the model will add the terminal context to chat]]'
 source_release: '[[Releases/Cursor/cursor-2023-05-17-0-2-16-https-cursor-com-changelog-0-2-16-e0618ec3|cursor-2023-05-17-0-2-16-https-cursor-com-changelog-0-2-16-e0618ec3]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: Context ingestion across a full notebook
 type: change

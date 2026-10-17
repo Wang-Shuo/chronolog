@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: 7915e5741660a1085bccb2ec0718d19b69ad94acf1ab8d46370e21d361b4a18c
+machine_hash: 89ce9f565892751eafa1daa08d245c7b96cc4edcf39d5e92e78f578b6b4c9f49
 product: claude-code
 record:
   card_id: claude-code-2026-08-26-daf49c
@@ -14,8 +14,9 @@ record:
       Claude can draft a feedback report for you to review and send from `/feedback`
       (turn off with the `feedbackDrafts` setting)'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.247
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-the-sendfeedback-tool-when-something-goes-wrong-in-a-session-claude-can-dr

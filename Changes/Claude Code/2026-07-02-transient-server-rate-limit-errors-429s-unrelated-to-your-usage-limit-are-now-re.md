@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 25dc4b7b8342bce332792833b9a475f42c1cc276fe9e11ec15bfdd31153c96c2
+machine_hash: 8d544a5f579a4ab1b4333a3f940523db998b5dc7b249ba3a12f668f5909b8ec7
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   stream-stall hint now reads "Waiting for API response · will retry in …" instead…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f|claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f]]'
 source_type: github_releases
+superseded: true
 theme: reliability-performance
 title: Transient server rate-limit errors (429s unrelated to your usage limit) are
   now…

@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: 66c2e2448a58ac283292f9752fd919d4ff56ce7a37f5cfed43b57993290bee7f
+machine_hash: bfd88a381306f3da1bb51c58c31d544fa1c67a260e4e094c67d472b025f6e8d7
 product: claude-code
 record:
   card_id: claude-code-2026-08-17-41c6bc
@@ -14,8 +14,9 @@ record:
       with a GitLab remote and an authenticated glab CLI show MR !N with draft/pending/green
       states'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.234
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-a-gitlab-merge-request-badge-to-the-footer-and-statusline-repos-with-a-git

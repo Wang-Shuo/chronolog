@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7d7fb8c9f55fb48de682abafb8913c67451667f38da5e58877290b50ec13f1ba
+machine_hash: 538a8f69f2085ba474977e3008c2035ebb730be84784a5d8e196065ae102fd67
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,6 +47,7 @@ related_changes:
 - '[[Changes/ChatGPT/2026-05-14-free-500-mb|Free: 500 MB]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-14-file-library-expands-to-free-and-go-users-with-storage-managemen-94a98ddb|chatgpt-2026-05-14-file-library-expands-to-free-and-go-users-with-storage-managemen-94a98ddb]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: file-data
 title: 'Plus and Business: 20 GB'
 type: change

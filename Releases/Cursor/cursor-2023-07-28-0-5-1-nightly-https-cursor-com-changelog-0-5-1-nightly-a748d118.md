@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-07-28'
 description: 'Cursor release More robust extension handling on 2023-07-28: 1 tracked
   change across Apps and Integrations'
-machine_hash: e7bebaed7a715d6811cdaa57721a3815bc3615ec83023210c671d41af79c9e3e
+machine_hash: 749a4fe64ac17640511a2b97b4556b401f56aa9370bba26b2870645058c2c156
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ version: 0.5.1-nightly
 <!-- chronolog:begin region="summary" -->
 More robust extension handling. You can now use pre-release extensions again.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

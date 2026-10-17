@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b6a944158ba8e96cca151734071fdcae8719eaa4e2f4160508c6b6475a278519
+machine_hash: ce6f08c4f73c7362d97a8f529d3f9688a0a4bf40d71679d64bab90b3a9c48eca
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,6 +47,7 @@ related_changes:
   ChatGPT model]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-03-14-announcing-gpt-4-in-chatgpt-43063370|chatgpt-2023-03-14-announcing-gpt-4-in-chatgpt-43063370]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: Advanced reasoning
 type: change

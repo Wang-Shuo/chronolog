@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0340b7ef6950849a580a63d6f69c58b4157a0ef44822f5738c6a6de18b4a8704
+machine_hash: dfc6d7736ce08e0ec373cf0aaf1fc8bfff0c11cd3eff7a2755c5346dc599ad2c
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   now auto-allows git push to the repo''s configured push remote…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-10-v2-1-206-github-351694341-0226036e|claude-code-2026-07-10-v2-1-206-github-351694341-0226036e]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added directory path suggestions to /cd, matching /add-dir behavior
 type: change

@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: d9baa38cfb87f71d844a5d04af71557e2eca61b4d27ca7bb381f9fae1f763677
+kind: change
+machine_hash: 154a2c8159111d85a55e6da763ba8e5b6e5e8a8220e89cc0d14c871932115b9d
 product: cursor
 product_name: Cursor
 record:
@@ -27,8 +28,9 @@ record:
   evidence:
   - quote: Ask about git commits and PRs using @git in chat!
     source_release: https://cursor.com/changelog/0-12-0
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: ask-about-git-commits-and-prs-using-git-in-chat
@@ -40,12 +42,12 @@ record:
   title: Ask about git commits and PRs using @git in chat!
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-26-we-had-a-big-bug-for-people-on-language-packs-thank-you-to-all-who-helped-us-deb|We
-  had a big bug for people on language packs]]'
-- '[[Changes/Cursor/2023-09-05-ships-with-cursor-python-a-language-server-fork-of-pyright-built-for-cursor|Ships
-  with cursor-python, a Language-Server fork of pyright built for Cursor]]'
-- '[[Changes/Cursor/2023-09-23-never-lets-your-root-directory-be-in-the-gitignore|never
-  lets your root directory be in the gitignore]]'
+- '[[Changes/Cursor/2023-08-26-we-had-a-big-bug-for-people-on-language-packs-thank-you-to-all-who-helped-us-deb|Bug
+  fix for people on language packs]]'
+- '[[Changes/Cursor/2023-09-05-ships-with-cursor-python-a-language-server-fork-of-pyright-built-for-cursor|Cursor-Python
+  LSP]]'
+- '[[Changes/Cursor/2023-09-23-never-lets-your-root-directory-be-in-the-gitignore|gitignore
+  and search hotfix]]'
 source_release: '[[Releases/Cursor/cursor-2023-10-01-0-12-0-https-cursor-com-changelog-0-12-0-2555ff30|cursor-2023-10-01-0-12-0-https-cursor-com-changelog-0-12-0-2555ff30]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -68,16 +70,14 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2023-10-01-indexing-should-now-be-faster-more-stable-and-use-less-of-your-system-resources|Indexing should now be faster, more stable, and use less of your system resources]] · Reliability and Performance
-- [[Changes/Cursor/2023-10-01-cmd-k-is-now-in-the-terminal-a-bit-hackily-implemented-but-surprisingly-useful|Cmd-k is now in the terminal!]] · Editor Experience
-- [[Changes/Cursor/2023-10-01-use-edit-in-the-chat-to-edit-a-whole-file-if-less-than-400-lines-expect-the-edit|Use /edit in the chat to edit a whole file (if less than 400 lines)]] · Model Support
-- [[Changes/Cursor/2023-10-01-bugfixes-fixed-the-ejected-from-slow-mode-ui-added-auto-switching-logic-for-the|Bugfixes!]] · Reliability and Performance
+- [[Changes/Cursor/2023-10-01-use-edit-in-the-chat-to-edit-a-whole-file-if-less-than-400-lines-expect-the-edit-78e4ac|Use /edit in the chat to edit a whole file (if less than 400 lines)]] · Model Support
+- [[Changes/Cursor/2023-10-01-indexing-should-now-be-faster-more-stable-and-use-less-of-your-system-resources-c870a3|Indexing should now be faster, more stable, and use less of your system resources]] · Reliability and Performance
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-09-23 · Cursor · [[Changes/Cursor/2023-09-23-never-lets-your-root-directory-be-in-the-gitignore|never lets your root directory be in the gitignore]]
+- Earlier: 2023-09-23 · Cursor · [[Changes/Cursor/2023-09-23-never-lets-your-root-directory-be-in-the-gitignore|gitignore and search hotfix]]
 - Later: 2023-10-20 · Cursor · [[Changes/Cursor/2023-10-20-also-there-s-an-experimental-bash-mode-enable-it-in-the-settings-and-let-the-cha|Also, there's an experimental bash mode]]
 <!-- chronolog:end -->
 

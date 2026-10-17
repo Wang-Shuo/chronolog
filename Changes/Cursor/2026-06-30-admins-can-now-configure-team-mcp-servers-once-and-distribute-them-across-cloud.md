@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 76d706fc5fad33e34521b33a0d28f8d72675dd5b21c74e65ce80dbcd8678b5ae
+machine_hash: ab80e008597957bb709f1fa9010d2b4031981029cac523d54594d2e369d3027a
 product: cursor
 product_name: Cursor
 record:
@@ -73,6 +73,7 @@ related_changes:
   an admin sets up Team MCP servers for cloud agents, they can make those same…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-30-3-10-https-cursor-com-changelog-team-marketplace-updates-eb3caab2|cursor-2026-06-30-3-10-https-cursor-com-changelog-team-marketplace-updates-eb3caab2]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: Admins can now configure Team MCP servers once and distribute them across cloud…
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 21e96a13d49badb76b3d00fdb94a1b34039525f8d88801641ff5ee0734837294
+machine_hash: dc5f90d00b76f6ea924753dc7d0f2dee0e9dee0f117e8939b81f813b56b388fa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,6 +64,7 @@ related_changes:
   Client-side support for upcoming MAX mode compatibility for Claude 3.7 Sonnet]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255|chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: o1 and o3-mini now offer Python-powered data analysis in ChatGPT
 type: change

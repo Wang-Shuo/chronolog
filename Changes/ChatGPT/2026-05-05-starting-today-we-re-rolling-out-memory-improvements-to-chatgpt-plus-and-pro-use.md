@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-05-05 · Memory and Personalization: Starting toda
   rolling out memory improvements to ChatGPT Plus and Pro users that make responses
   more…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1020
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 6d43791dc2a5da15522b8195deabf470a61e2f67384c62a9a3c4d1982c5704f7
+kind: change
+machine_hash: 363270a8822114a80f493ef7ea3443bcf1e924df45aac15231474e4defe61095
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -69,8 +70,9 @@ record:
       update memory or appear in history, turn off memory, disconnect apps anytime,
       and manage whether your content is used to help improve our models.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use
@@ -105,26 +107,24 @@ record:
     - faster
     score: 50
     theme: reliability-performance
-  title: Starting today, we’re rolling out memory improvements to ChatGPT Plus and
-    Pro users…
+  title: Memory sources and more personalized responses in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-12-added-actionable-suggestions-to-context-command-identifies-context-heavy-tools-m|Added
-  actionable suggestions to /context command]]'
-- '[[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|We’re
-  sunsetting the preset Nerdy base style to simplify options and improve…]]'
-- '[[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|Sometimes,
-  you just want the right answer as quickly as possible]]'
+- '[[Changes/Claude Code/2026-03-27-memory-filenames-in-the-saved-n-memories-notice-now-highlight-on-hover-and-open|Memory
+  filenames in the "Saved N memories" notice now highlight on hover and open on click]]'
+- '[[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file
+  diff rendering is now much faster, smoother, and less memory-heavy]]'
+- '[[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|Fast
+  answers in ChatGPT]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-05-memory-sources-and-more-personalized-responses-in-chatgpt-67d43ddb|chatgpt-2026-05-05-memory-sources-and-more-personalized-responses-in-chatgpt-67d43ddb]]'
 source_type: chatgpt_changelog
 theme: memory
-title: Starting today, we’re rolling out memory improvements to ChatGPT Plus and Pro
-  users…
+title: Memory sources and more personalized responses in ChatGPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Starting today, we’re rolling out memory improvements to ChatGPT Plus and Pro users…
+# Memory sources and more personalized responses in ChatGPT
 
 **ChatGPT** · 2026-05-05 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-05-05-memory-sources-and-more-personalized-responses-in-chatgpt-67d43ddb|Memory sources and more personalized responses in ChatGPT]]
 <!-- chronolog:end -->
@@ -142,14 +142,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-04-22 · ChatGPT · [[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|Sometimes, you just want the right answer as quickly as possible]]
-- Later: 2026-06-04 · ChatGPT · [[Changes/ChatGPT/2026-06-04-we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping-9a48f3|We’ve upgraded memory so ChatGPT can better keep your context up to date, helping…]]
+- Earlier: 2026-04-22 · ChatGPT · [[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|Fast answers in ChatGPT]]
+- Later: 2026-06-04 · ChatGPT · [[Changes/ChatGPT/2026-06-04-we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping-9a48f3|Memory that stays more up to date]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

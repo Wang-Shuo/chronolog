@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a05956937058179f7f8dacd41a82b675fdd9e34bd516abbfa0ff4c0d19864502
+machine_hash: ddc9bd43cd6c645ee52a1328bfc310c6055a737bf4c6351dcb5d7c217b42e118
 product: cursor
 product_name: Cursor
 record:
@@ -53,6 +53,7 @@ related_changes:
   "attribution": false in settings.json to hide all commit and PR attribution]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb|cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb]]'
 source_type: cursor_changelog
+superseded: true
 theme: developer-workflow
 title: Rollouts attaches a monitor to every pull request and watches the change…
 type: change

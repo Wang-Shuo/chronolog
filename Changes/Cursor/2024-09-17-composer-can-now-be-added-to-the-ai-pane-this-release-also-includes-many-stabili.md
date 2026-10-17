@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: e45c4fa7077bfc6b1279389b7759d43d6365fb032b5ed7dd432e60fdaf93fe03
+machine_hash: ae896b1c828395a9d806e34545ec2711733df751f34a3819e9137a7d05b1bb2f
 product: cursor
 product_name: Cursor
 record:
@@ -51,6 +51,7 @@ related_changes:
   Tab now auto-imports symbols in Python files!]]'
 source_release: '[[Releases/Cursor/cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8|cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8]]'
 source_type: cursor_changelog
+superseded: true
 theme: reliability-performance
 title: Composer can now be added to the AI pane
 type: change

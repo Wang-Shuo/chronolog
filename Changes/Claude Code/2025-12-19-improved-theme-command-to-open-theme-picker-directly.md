@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: fb8d927b499f9cf7437723f7cc15415218c11c9e13005e1558cea1af84190dc3
+machine_hash: b3fc595ccfb15ffadee05d88a42d1e6e6cf77a08b4498c7789b5d7f3c94fe310
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   alt-y yank-pop to cycle through kill ring history after ctrl-y yank]]'
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9|claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Improved /theme command to open theme picker directly
 type: change

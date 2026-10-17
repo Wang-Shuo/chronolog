@@ -3,7 +3,7 @@ changes_count: 2
 date: '2026-01-07'
 description: 'ChatGPT release Health in ChatGPT on 2026-01-07: 2 tracked changes across
   Memory and Personalization, Mobile and Desktop'
-machine_hash: 8b07646e136a75ae9f1f39f44437b679579f7299e01664f30adf8bf745729501
+machine_hash: 2c707cde89fe2151bd9070e6b10d71b496170a3346d5cd30e84b4bd1b7c2003c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ version: Health in ChatGPT
 <!-- chronolog:begin region="summary" -->
 We’re starting to roll out Health, a dedicated space in ChatGPT for health and wellness conversations. You can securely connect medical records, Apple Health and supported wellness apps so answers can be grounded in your own data. Health is designed to help you navigate medical care, not replace it. Health…
 
-Tracked 2 of 3 candidate lines.
+Tracked 2 cards from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

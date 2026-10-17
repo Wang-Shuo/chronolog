@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a035d3feae5f47f273c6b324cadd40a3b595e10c625bf2b94638b8c2a9945184
+machine_hash: 09a4aa7071f889915862b4c49f99ea8a007e743d29be5ca223c3a25bd67638cd
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   is now an interactive version picker]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33|claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added refreshInterval status line setting to re-run the status line command
   every…

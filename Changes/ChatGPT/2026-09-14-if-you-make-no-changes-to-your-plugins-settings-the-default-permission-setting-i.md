@@ -15,9 +15,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 3257c01b6e8b47561265905ed0b91cceca461a557f08e476d0c4781cb07f1001
+kind: change
+machine_hash: 4a77a0e3bebc8492a8f5f0f98a81e4efa35014b87619f552091194f3099eedca
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,8 +43,9 @@ record:
       to allow ChatGPT to use data connected in Health without asking for permission
       each time.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: if-you-make-no-changes-to-your-plugins-settings-the-default-permission-setting-i
@@ -55,10 +57,10 @@ record:
   title: If you make no changes to your Plugins settings, the default permission setting…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-08-windows-fixed-read-write-and-edit-refusing-every-file-symlink-resolution-changed|Windows:
-  Fixed Read, Write and Edit refusing every file…]]'
-- '[[Changes/Claude Code/2026-09-09-fixed-remote-control-clients-that-join-a-claude-desktop-or-vs-code-session-showi|Fixed
-  Remote Control clients that join a Claude Desktop or VS Code session showing…]]'
+- '[[Changes/Claude Code/2026-09-10-8-safety-and-privacy-changes-in-v2-1-268|8 Safety
+  and Privacy changes in v2.1.268]]'
+- '[[Changes/Claude Code/2026-09-11-5-safety-and-privacy-changes-in-v2-1-269|5 Safety
+  and Privacy changes in v2.1.269]]'
 - '[[Changes/Claude Code/2026-09-12-fixed-read-only-git-commands-in-bash-unexpectedly-asking-for-permission-after-a|Fixed
   read-only git commands in Bash unexpectedly asking for permission after…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7|chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7]]'
@@ -91,7 +93,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-12 · Claude Code · [[Changes/Claude Code/2026-09-12-fixed-read-only-git-commands-in-bash-unexpectedly-asking-for-permission-after-a|Fixed read-only git commands in Bash unexpectedly asking for permission after…]]
-- Later: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-fixed-read-on-macos-refusing-a-dragged-in-screenshot-or-any-file-the-system-repo|Fixed Read on macOS refusing a dragged-in screenshot, or any file the system reports…]]
+- Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-7-safety-and-privacy-changes-in-v2-1-271|7 Safety and Privacy changes in v2.1.271]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

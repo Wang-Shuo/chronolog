@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 5c2438419ade9971ed721b1189fd72c3706ac42a84ff2952395b200dbd914c36
+machine_hash: 1f252e6f84c2221cb81db75be848ed8bbf5ee18d2f4f0dacbafec2b9a165908c
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   claude auto-mode reset to restore the default auto-mode configuration…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: /fork now copies your conversation into a new background session…
 type: change

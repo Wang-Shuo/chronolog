@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: c19b938d2004ff0cb7541dc056693b9646becdd54607586fc78748ed2fe58cfd
+kind: policy
+machine_hash: 6043269cf2d31c9ccca0d91abf0f4390c77ae863f844a5047ba72e6b41c1d49c
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
       or see https://docs.anthropic.com/en/docs/claude-code/getting-started for more
       options
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.15
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: policy
   product: claude-code
   product_name: Claude Code
   slug: added-deprecation-notification-for-npm-installations-run-claude-install-or-see-h
@@ -44,10 +46,10 @@ record:
     or see…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-13-added-search-functionality-to-config-command-for-quickly-filtering-settings|Added
-  search functionality to /config command for quickly filtering settings]]'
 - '[[Changes/Claude Code/2026-01-16-added-session-url-attribution-to-commits-and-prs-created-from-web-sessions|Added
   session URL attribution to commits and PRs created from web sessions]]'
+- '[[Changes/Cursor/2026-01-16-2-developer-workflow-changes-in-cli-agent-modes-and-cloud-handoff|2
+  Developer Workflow changes in CLI Agent Modes and Cloud Handoff]]'
 - '[[Changes/Claude Code/2026-01-20-vscode-added-usage-command-to-display-current-plan-usage|VSCode
   Added /usage command to display current plan usage]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-21-v2-1-15-github-278799996-0b5b2e8b|claude-code-2026-01-21-v2-1-15-github-278799996-0b5b2e8b]]'
@@ -61,7 +63,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Added deprecation notification for npm installations - run `claude install` or see…
 
-**Claude Code** · 2026-01-21 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.15) · from [[Releases/Claude Code/claude-code-2026-01-21-v2-1-15-github-278799996-0b5b2e8b|v2.1.15]]
+**Claude Code** · 2026-01-21 · [[Themes/developer-workflow|Developer Workflow]] · Policy · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.15) · from [[Releases/Claude Code/claude-code-2026-01-21-v2-1-15-github-278799996-0b5b2e8b|v2.1.15]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-08-07'
 description: 'ChatGPT release Files and Projects in ChatGPT Voice on 2026-08-07: 1
   tracked change across Voice and Audio'
-machine_hash: 8f478fd121e474e5d4fcbce27eb25500669cc436e0ddd410b27b94cd6d9cc374
+machine_hash: 729c3ea0b0394ec323f105d7d39996e6a707c9c3a1543ee13ac713261139adf9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Files and Projects in ChatGPT Voice
 <!-- chronolog:begin region="summary" -->
 GPT-Live in ChatGPT Voice now supports file uploads and Projects. You can now upload files in a voice conversation and analyze its contents or ask questions. You can also use voice in Projects, referencing recent project chats, sources, and project instructions.Learn more about ChatGPT Voice.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-08-07-gpt-live-in-chatgpt-voice-now-supports-file-uploads-and-projects-you-can-now-upl|GPT-Live in ChatGPT Voice now supports file uploads and Projects]] · Voice and Audio
+- [[Changes/ChatGPT/2026-08-07-gpt-live-in-chatgpt-voice-now-supports-file-uploads-and-projects-you-can-now-upl|Files and Projects in ChatGPT Voice]] · Voice and Audio
 <!-- chronolog:end -->

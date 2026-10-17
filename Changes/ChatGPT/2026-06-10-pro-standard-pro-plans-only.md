@@ -13,9 +13,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 0fc416eb59aebf82a76e2e2cfc992facb92c3080d53da3d170452089c04dd280
+kind: change
+machine_hash: ceae4d74f68004737cbfda949687e6c73acffd9f78228137c8fc109546d81ede
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,8 +28,9 @@ record:
   evidence:
   - quote: Pro Standard [Pro plans only]
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: pro-standard-pro-plans-only
@@ -69,15 +71,14 @@ type: change
 
 - [[Changes/ChatGPT/2026-06-10-pro-extended-pro-plans-only|Pro Extended Pro plans only]] · Model Support
 - [[Changes/ChatGPT/2026-06-10-extra-high-pro-plans-only|Extra High Pro plans only]] · Model Support
-- [[Changes/ChatGPT/2026-06-10-on-ios-and-android-you-can-find-the-picker-at-the-top-of-the-conversation-on-web|On iOS and Android, you can find the picker at the top of the conversation]] · Mobile and Desktop
-- [[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed|We’re updating the model picker to make it easier to choose the balance of speed…]] · Interface Experience
+- [[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed-b05795|We’re updating the model picker to make it easier to choose the balance of speed…]] · Interface Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
 - Earlier: 2026-06-09 · Claude Code · [[Changes/Claude Code/2026-06-09-introducing-claude-fable-5-a-mythos-class-model-that-we-ve-made-safe-for-general|Introducing Claude Fable 5: a Mythos-class model that we’ve made safe for general use]]
-- Later: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-added-model-attribute-to-the-claude-code-lines-of-code-count-otel-metric|Added model attribute to the claude_code.lines_of_code.count OTEL metric]]
+- Later: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-2-model-support-changes-in-v2-1-172|2 Model Support changes in v2.1.172]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

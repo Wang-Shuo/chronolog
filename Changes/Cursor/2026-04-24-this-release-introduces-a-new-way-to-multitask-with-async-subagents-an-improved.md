@@ -4,8 +4,8 @@ date: '2026-04-24'
 description: 'Cursor · 2026-04-24 · Agent Mode: This release introduces a new way
   to multitask with async subagents, an improved worktrees experience, and multi-root…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1023
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: b5828bb5418de9ca5ba669167df32fe7db7ffbbb19a4b3c382dd316602dcaf31
+kind: launch
+machine_hash: d4400ce164a533475ea66b0488e1d33cbc7e4eca5d815ade7dbdb16c41079813
 product: cursor
 product_name: Cursor
 record:
@@ -33,8 +34,9 @@ record:
       improved worktrees experience, and multi-root workspaces for making cross-repo
       changes.
     source_release: https://cursor.com/changelog/04-24-26
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: launch
   product: cursor
   product_name: Cursor
   slug: this-release-introduces-a-new-way-to-multitask-with-async-subagents-an-improved
@@ -45,12 +47,12 @@ record:
     worktrees…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-22-agent-frontmatter-mcpservers-are-now-loaded-for-main-thread-agent-sessions-via-a|Agent
-  frontmatter mcpServers are now loaded for main-thread agent sessions via --agent]]'
-- '[[Changes/Claude Code/2026-04-22-forked-subagents-can-now-be-enabled-on-external-builds-by-setting-claude-code-fo|Forked
-  subagents can now be enabled on external builds by setting…]]'
-- '[[Changes/Claude Code/2026-04-23-print-mode-now-honors-the-agent-s-tools-and-disallowedtools-frontmatter-matching|--print
-  mode now honors the agent''s tools: and disallowedTools: frontmatter…]]'
+- '[[Changes/Claude Code/2026-04-23-2-agent-mode-changes-in-v2-1-119|2 Agent Mode
+  changes in v2.1.119]]'
+- '[[Changes/Cursor/2026-04-24-multi-root-workspaces-in-agents-window|Multi-root workspaces
+  in Agents Window]]'
+- '[[Changes/Cursor/2026-04-24-worktrees-in-agents-window-44e81c|Worktrees in Agents
+  Window]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-24-3-2-https-cursor-com-changelog-04-24-26-9ab6a4bf|cursor-2026-04-24-3-2-https-cursor-com-changelog-04-24-26-9ab6a4bf]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -62,7 +64,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Cursor introduces a new way to multitask with async subagents, an improved worktrees…
 
-**Cursor** · 2026-04-24 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/04-24-26) · from [[Releases/Cursor/cursor-2026-04-24-3-2-https-cursor-com-changelog-04-24-26-9ab6a4bf|Multitask, Worktrees, and Multi-root Workspaces]]
+**Cursor** · 2026-04-24 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://cursor.com/changelog/04-24-26) · from [[Releases/Cursor/cursor-2026-04-24-3-2-https-cursor-com-changelog-04-24-26-9ab6a4bf|Multitask, Worktrees, and Multi-root Workspaces]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -74,22 +76,22 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-04-24-if-you-already-have-messages-in-the-queue-you-can-ask-cursor-to-multitask-on-the|If you already have messages in the queue, you can ask Cursor to multitask on them…]] · Agent Mode
-- [[Changes/Cursor/2026-04-24-with-multitask-cursor-will-run-async-subagents-to-parallelize-your-requests-inst|With /multitask, Cursor will run async subagents to parallelize your requests…]] · Agent Mode
-- [[Changes/Cursor/2026-04-24-we-ve-added-new-and-improved-worktrees-in-the-agents-window|Cursor adds new and improved worktrees in the Agents Window]] · Agent Mode
+- [[Changes/Cursor/2026-04-24-multi-root-workspaces-in-agents-window|Multi-root workspaces in Agents Window]] · Agent Mode
+- [[Changes/Cursor/2026-04-24-worktrees-in-agents-window-44e81c|Worktrees in Agents Window]] · Agent Mode
+- [[Changes/Cursor/2026-04-24-multitask-in-agents-window-9bc7ed|Multitask in Agents Window]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-print-mode-now-honors-the-agent-s-tools-and-disallowedtools-frontmatter-matching|--print mode now honors the agent's tools: and disallowedTools: frontmatter…]]
-- Later: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-added-agent-view-research-preview-a-single-list-of-every-claude-code-session-run|Added agent view (Research Preview)]]
+- Earlier: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-2-agent-mode-changes-in-v2-1-119|2 Agent Mode changes in v2.1.119]]
+- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-2-agent-mode-changes-in-v2-1-121|2 Agent Mode changes in v2.1.121]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

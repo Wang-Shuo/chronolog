@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 8
 date: '2025-12-22'
 description: 'Cursor release Layout Customization and Stability Improvements on 2025-12-22:
-  5 tracked changes across Apps and Integrations, Agent Mode, Reliability and…'
-machine_hash: 37f5563c993526f204205ae5ce662e6c85f2c82e9fe60cd83f10222dbae7ef65
+  8 tracked changes across Agent Mode, Reliability and Performance, Account and…'
+machine_hash: d73f46de8daf723bb0674a43985e8ac42d9356ba77fcff5fb35c3ad5ae2bca5d
 product: cursor
 product_name: Cursor
 record:
@@ -39,14 +39,17 @@ version: '2.3'
 <!-- chronolog:begin region="summary" -->
 For this holiday release, we've focused entirely on fixing bugs and improving stability.
 
-Tracked 5 of 47 candidate lines.
+Tracked 8 cards from 47 candidate lines; 6 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
+- [[Changes/Cursor/2025-12-22-2-apps-and-integrations-changes-in-2-3|2 Apps and Integrations changes in 2.3]] · Apps and Integrations · Digest
 - [[Changes/Cursor/2025-12-22-for-this-holiday-release-we-ve-focused-entirely-on-fixing-bugs-and-improving-sta|For this holiday release, we've focused entirely on fixing bugs and improving stability]] · Reliability and Performance
-- [[Changes/Cursor/2025-12-22-improved-integrated-browser-to-support-opening-multiple-tabs|Improved integrated browser to support opening multiple tabs]] · Apps and Integrations
+- [[Changes/Cursor/2025-12-22-2-agent-mode-changes-in-2-3|2 Agent Mode changes in 2.3]] · Agent Mode · Digest
 - [[Changes/Cursor/2025-12-22-this-includes-the-core-agent-layout-controls-viewing-code-diffs-and-more-we-will|This includes the core agent, layout controls, viewing code diffs, and more]] · Agent Mode
+- [[Changes/Cursor/2025-12-22-3-interface-experience-changes-in-2-3|3 Interface Experience changes in 2.3]] · Interface Experience · Digest
 - [[Changes/Cursor/2025-12-22-improved-stability-around-how-the-agent-respects-auto-run-preferences-to-prevent|Improved stability around how the agent respects auto-run preferences to prevent…]] · Safety and Privacy
-- [[Changes/Cursor/2025-12-22-cursor-now-separates-processes-running-for-user-installed-extensions-and-built-i|Cursor now separates processes running for user-installed extensions and built-in…]] · Apps and Integrations
+- [[Changes/Cursor/2025-12-22-2-account-and-access-changes-in-2-3|2 Account and Access changes in 2.3]] · Account and Access · Digest
+- [[Changes/Cursor/2025-12-22-2-reliability-and-performance-changes-in-2-3|2 Reliability and Performance changes in 2.3]] · Reliability and Performance · Digest
 <!-- chronolog:end -->

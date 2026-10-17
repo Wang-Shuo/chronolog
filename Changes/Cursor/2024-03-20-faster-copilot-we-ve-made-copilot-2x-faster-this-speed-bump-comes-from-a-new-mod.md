@@ -14,9 +14,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: de69f607fd72d0386dbc47f346f78bf93be42b736c0456a04aad96821196df1e
+kind: change
+machine_hash: 032c67073203440591c2490d4c7c2538a43262b3dd6c3ccc008efe64082aa457
 product: cursor
 product_name: Cursor
 record:
@@ -36,8 +37,9 @@ record:
       and it will roll out to everyone over a few days. If you''d like to enable the
       model immediately, you can control your model in the bottom bar of the editor.'
     source_release: https://cursor.com/changelog/0-30-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: faster-copilot-we-ve-made-copilot-2x-faster-this-speed-bump-comes-from-a-new-mod
@@ -61,8 +63,8 @@ record:
   title: 'Faster Copilot++: We''ve made Copilot++ ~2x faster!'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-15-we-ll-be-working-to-improve-its-performance-over-the-coming-weeks-counts-the-sam|We''ll
-  be working to improve its performance over the coming weeks]]'
+- '[[Changes/Cursor/2023-11-30-faster-copilot-a-few-hundred-milliseconds-faster-through-various-networking-opti|Faster
+  Copilot++: a few hundred milliseconds faster, through various networking…]]'
 - '[[Changes/Cursor/2024-02-02-0-25-2-copilot-performance-improvements|0.25.2: Copilot++
   performance improvements]]'
 - '[[Changes/Cursor/2024-02-02-apply-diffs-from-chat-should-be-a-bit-faster|"Apply

@@ -3,7 +3,7 @@ changes_count: 0
 date: '2023-08-15'
 description: 'Cursor release Patch cursor command on Windows on 2023-08-15: no tracked
   changes'
-machine_hash: 174c5338ece6feb0ff6d3f3b19cb1c5f70b4c72d8137d38ebaefec1b803d7b5e
+machine_hash: fe37c0325be1041b9027e67998702cd7cf3fd314d6626c446378eac4e62300c5
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.7.3
 <!-- chronolog:begin region="summary" -->
 Fixes a bug with installing the cursor command on Windows.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

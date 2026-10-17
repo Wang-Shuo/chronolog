@@ -4,8 +4,8 @@ date: '2023-06-06'
 description: 'Cursor · 2023-06-06 · Context Window: Following this, you''ll be able
   to see an improved version of codebase context in the search pane, and in chat (by…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
-    prompt length for project generation]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 33
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f05391c95d8130d39e1d654b13767fcebdcf37c65b4e6f5e858d637225ca8206
+kind: change
+machine_hash: e8b0b7bfcc35332a2dfa9533df43ce63cdcbe175598217098c7b00c0f9e6e0cb
 product: cursor
 product_name: Cursor
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Following this, you'll be able to see an improved version of codebase context
       in the search pane, and in chat (by pressing cmd+enter).
     source_release: https://cursor.com/changelog/0-2-27
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: following-this-you-ll-be-able-to-see-an-improved-version-of-codebase-context-in
@@ -43,12 +45,10 @@ record:
   title: Following this, you'll be able to see an improved version of codebase context…
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-06-06-introducing-v1-of-codebase-wide-context-we-ll-be-shipping-major-improvements-to|Introducing
-  v1 of codebase-wide context!]]'
+- '[[Changes/Cursor/2023-05-17-better-jupyter-support|Better Jupyter Support]]'
 - '[[Changes/Cursor/2023-06-06-we-ve-improved-codebase-context|Cursor improves codebase
   context!]]'
-- '[[Changes/Cursor/2023-06-06-or-on-chat-press-cmd-enter-in-order-to-get-a-response-that-uses-context-from-the|Or,
-  on chat, press Cmd+Enter in order to get a response that uses context…]]'
+- '[[Changes/Cursor/2023-06-06-codebase-context-v1-bd6ee5|Codebase Context v1]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-06-0-2-27-https-cursor-com-changelog-0-2-27-f949eba0|cursor-2023-06-06-0-2-27-https-cursor-com-changelog-0-2-27-f949eba0]]'
 source_type: cursor_changelog
 theme: context-window
@@ -79,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2023-06-06 · Cursor · [[Changes/Cursor/2023-06-06-or-on-chat-press-cmd-enter-in-order-to-get-a-response-that-uses-context-from-the|Or, on chat, press Cmd+Enter in order to get a response that uses context…]]
+- Earlier: 2023-06-06 · Cursor · [[Changes/Cursor/2023-06-06-codebase-context-v1-bd6ee5|Codebase Context v1]]
 - Later: 2023-07-19 · Cursor · [[Changes/Cursor/2023-07-19-advanced-context-controls-only-show-up-if-you-have-indexed-your-codebase|Advanced context controls only show up if you have indexed your codebase]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

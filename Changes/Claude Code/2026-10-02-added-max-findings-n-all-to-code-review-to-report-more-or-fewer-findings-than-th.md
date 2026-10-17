@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0cb9c223d926dc0b39579cae93075f949f1cb8a06c3afaab4b9bc8762ea2f95e
+machine_hash: a84c0cb12d382d8447dbbf09444330eaeb9800f0e0b4e2f444aec8a7ee5d87ef
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   a built-in gh api to cloud sessions whose image has no GitHub CLI, and fixed…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6|claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added --max-findings n / all to /code-review to report more or fewer findings
   than…

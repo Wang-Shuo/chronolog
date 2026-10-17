@@ -3,7 +3,7 @@ changes_count: 3
 date: '2025-08-11'
 description: 'ChatGPT release Additional connectors for Plus and Pro on 2025-08-11:
   3 tracked changes across Collaboration, Search and Browsing'
-machine_hash: 29a1d3be528eae648d8e35b8f17eec788557c902fd290b286e8eaee08ac5af80
+machine_hash: e665eac463b0612035fa8a40564efed2956f68f316386a7e73fa8451752782f9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +40,7 @@ version: Additional connectors for Plus and Pro
 <!-- chronolog:begin region="summary" -->
 Now connect even more tools in ChatGPT for useful, relevant responses in chat.The following connectors are now available to search by chat in addition to deep research.
 
-Tracked 3 of 4 candidate lines.
+Tracked 3 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

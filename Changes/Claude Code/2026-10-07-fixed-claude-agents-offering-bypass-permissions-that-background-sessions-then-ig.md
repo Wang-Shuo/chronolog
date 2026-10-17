@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 86e33ac7eb697799ef0f43518066e7e62396fcec766e3db9433bb59c75dcf330
+machine_hash: 7938184129676c90dfe88a43404c3186ac862ebd597b28d4ffe9d533dac6ac96
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,6 +56,7 @@ related_changes:
   Claude being told to continue or message subagents with SendMessage…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d|claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed claude agents offering bypass permissions that background sessions then…
 type: change

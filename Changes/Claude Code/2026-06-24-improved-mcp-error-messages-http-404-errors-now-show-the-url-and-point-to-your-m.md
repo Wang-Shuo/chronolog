@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6ed98e1b1ca18eb2dc026755aef12c7a5994195611435b7cd7beb2673ad12a4e
+machine_hash: 1c472ffee80308472e63f91947da3ced1c6b8be911bfb6476178e37d06677cfc
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   /install-github-app: GitHub Actions workflow setup is now optional]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27|claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: 'Improved MCP error messages: HTTP 404 errors now show the URL and point to
   your MCP config'

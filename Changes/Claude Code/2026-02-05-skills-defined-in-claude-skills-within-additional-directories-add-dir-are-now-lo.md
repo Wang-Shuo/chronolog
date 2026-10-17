@@ -4,8 +4,8 @@ date: '2026-02-05'
 description: 'Claude Code · 2026-02-05 · Apps and Integrations: Skills defined in
   `.claude/skills/` within additional directories (`--add-dir`) are now loaded automatically.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1050
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 8941796c79368c7c7baeec0977f4e33d19e6b142ebb5e76f7eb8cd8eb70e19ff
+kind: change
+machine_hash: c3b12e7ef59212f3be6e0cdffe2078421e019fb1decedab14677e27cf0db93df
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Skills defined in `.claude/skills/` within additional directories (`--add-dir`)
       are now loaded automatically.
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.32
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: skills-defined-in-claude-skills-within-additional-directories-add-dir-are-now-lo
@@ -42,10 +44,10 @@ record:
   title: Skills defined in `.claude/skills/` within additional directories (`--add-dir`)…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-23-changed-skills-without-additional-permissions-or-hooks-to-be-allowed-without-req|Changed
-  skills without additional permissions or hooks to be allowed without…]]'
-- '[[Changes/Claude Code/2026-01-23-sdk-added-replay-of-queued-command-attachment-messages-as-sdkusermessagereplay-e|SDK
-  Added replay of queued_command attachment messages as SDKUserMessageReplay…]]'
+- '[[Changes/Claude Code/2026-01-23-2-apps-and-integrations-changes-in-v2-1-19|2 Apps
+  and Integrations changes in v2.1.19]]'
+- '[[Changes/Claude Code/2026-01-27-changed-the-commit-push-pr-skill-to-automatically-post-pr-urls-to-slack-channels|Changed
+  the /commit-push-pr skill to automatically post PR URLs to Slack channels…]]'
 - '[[Changes/Claude Code/2026-01-30-vscode-enabled-claude-in-chrome-integration|VSCode:
   Enabled Claude in Chrome integration]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0]]'
@@ -71,8 +73,10 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-02-05-added-research-preview-agent-teams-feature-for-multi-agent-collaboration-token-i|Added research preview agent teams feature for multi-agent collaboration…]] · Collaboration
+- [[Changes/Claude Code/2026-02-05-2-context-window-changes-in-v2-1-32|2 Context Window changes in v2.1.32]] · Context Window
+- [[Changes/Claude Code/2026-02-05-vscode-added-spinner-when-loading-past-conversations-list|VSCode: Added spinner when loading past conversations list]] · Interface Experience
 - [[Changes/Claude Code/2026-02-05-claude-opus-4-6-is-now-available|Claude Opus 4.6 is now available!]] · Model Support
-- [[Changes/Claude Code/2026-02-05-added-summarize-from-here-to-the-message-selector-allowing-partial-conversation|Added "Summarize from here" to the message selector, allowing partial conversation…]] · Context Window
+- [[Changes/Claude Code/2026-02-05-updated-resume-to-re-use-agent-value-specified-in-previous-conversation-by-defau|Updated --resume to re-use --agent value specified in previous conversation by default]] · Agent Mode
 - [[Changes/Claude Code/2026-02-05-claude-now-automatically-records-and-recalls-memories-as-it-works|Claude now automatically records and recalls memories as it works]] · Memory and Personalization
 <!-- chronolog:end -->
 
@@ -86,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

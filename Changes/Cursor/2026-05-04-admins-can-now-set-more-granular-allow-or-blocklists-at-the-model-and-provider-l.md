@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 6797aa5ab17194bacfe559297af6c86ba1b1113031d138a1f28948942bc4d05c
+machine_hash: a749d79d4984c6406e553f1a9d00e0b8196dcda7c1deac7e69d3c007686e6199
 product: cursor
 product_name: Cursor
 record:
@@ -74,6 +74,7 @@ related_changes:
   option to show Claude''s last response as commented context in the Ctrl+G…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047|cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: Admins can now set more granular allow or blocklists at the model and provider
   level

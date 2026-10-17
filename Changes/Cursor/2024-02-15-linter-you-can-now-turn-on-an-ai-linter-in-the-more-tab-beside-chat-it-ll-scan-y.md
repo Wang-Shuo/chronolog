@@ -14,9 +14,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 55a2d955e7003735fc91f124d722c91083328484ee710321f89233bf0c63fccf
+kind: change
+machine_hash: f246783c8e18f9e28a255b70e43fdb7bc84bdb3fc3dee2a50255906e06e137f7
 product: cursor
 product_name: Cursor
 record:
@@ -30,8 +31,9 @@ record:
   - quote: 'Linter: You can now turn on an AI linter in the "More" tab beside Chat.
       It''ll scan your file for small bugs every time you save.'
     source_release: https://cursor.com/changelog/0-27-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: linter-you-can-now-turn-on-an-ai-linter-in-the-more-tab-beside-chat-it-ll-scan-y

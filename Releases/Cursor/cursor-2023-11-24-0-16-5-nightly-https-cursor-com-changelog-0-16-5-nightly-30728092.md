@@ -2,7 +2,7 @@
 changes_count: 0
 date: '2023-11-24'
 description: 'Cursor release GPT-V Windows Bug-fixes on 2023-11-24: no tracked changes'
-machine_hash: 3318e658ce07bc4a4732d0747d0a1fb1544d7384b234c7b74dc301efb8afc96d
+machine_hash: b5e9abc788e12f2da3f33ba1ef1ee0a13a71f83cd6854797058a800736f932fe
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.16.5-nightly
 <!-- chronolog:begin region="summary" -->
 Fixes the bug where images weren't showing up or being sent to server on Windows.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

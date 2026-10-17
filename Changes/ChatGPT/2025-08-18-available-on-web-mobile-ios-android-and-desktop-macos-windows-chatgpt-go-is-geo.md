@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4c0858be6c1fbe7fc100125d2ee3755151ea0e8e8b5919e7e45dcf273c16c2c8
+machine_hash: af299e8ff75029aee5ab8120826cddfb716db86e987fc7140cd776ae2cb9e972
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,6 +52,7 @@ related_changes:
   an accent color that applies to elements in ChatGPT, including your conversation…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a|chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: mobile-desktop
 title: Available on web, mobile (iOS & Android), and desktop (macOS & Windows)
 type: change

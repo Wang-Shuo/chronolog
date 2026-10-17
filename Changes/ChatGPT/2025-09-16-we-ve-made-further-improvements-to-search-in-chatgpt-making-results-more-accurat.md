@@ -14,9 +14,10 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 35dbd1d6efd707cd73fc6c9a5ed24772a5ecdc269d716f0bc7ee4e15dea56153
+kind: change
+machine_hash: 96b7c2a45cead453caf511077b2c6d641b1231487a89b16137cd6391c308e550
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,8 +30,9 @@ record:
   - quote: We’ve made further improvements to search in ChatGPT, making results more
       accurate, reliable, and useful.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-ve-made-further-improvements-to-search-in-chatgpt-making-results-more-accurat
@@ -44,8 +46,8 @@ record:
 related_changes:
 - '[[Changes/ChatGPT/2025-06-13-we-ve-upgraded-chatgpt-search-for-all-users-to-provide-even-more-comprehensive-u|We’ve
   upgraded ChatGPT search for all users to provide even more comprehensive…]]'
-- '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2|Pro
-  users can now connect to Canva and Notion for both chat search and deep research]]'
+- '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2|Canva
+  and Notion connectors (Pro)]]'
 - '[[Changes/ChatGPT/2025-08-11-now-connect-even-more-tools-in-chatgpt-for-useful-relevant-responses-in-chat-the|Now
   connect even more tools in ChatGPT for useful, relevant responses in chat]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690|chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690]]'
@@ -79,7 +81,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2025-08-11 · ChatGPT · [[Changes/ChatGPT/2025-08-11-now-connect-even-more-tools-in-chatgpt-for-useful-relevant-responses-in-chat-the|Now connect even more tools in ChatGPT for useful, relevant responses in chat]]
-- Later: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-instant-checkout-makes-it-easy-to-go-from-chat-to-checkout-in-just-a-few-taps|Instant Checkout makes it easy to go from chat to checkout in just a few taps]]
+- Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-1-7-20-web-search-auto-accept-setting|1.7.20: Web search auto-accept setting]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

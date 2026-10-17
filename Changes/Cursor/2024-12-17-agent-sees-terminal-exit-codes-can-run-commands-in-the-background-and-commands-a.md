@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: de9a7bf1192dd61e9518c70e0e5bd6aeaa936360039573c031c8fc2b35380a18
+machine_hash: 30eea2a1f2e5efd90e00c8ecbd23334a53e10c7e696f5d4a2e3a893d7c105b99
 product: cursor
 product_name: Cursor
 record:
@@ -60,6 +60,7 @@ related_changes:
   Yolo Mode, the agent can auto-run terminal commands]]'
 source_release: '[[Releases/Cursor/cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e|cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e]]'
 source_type: cursor_changelog
+superseded: true
 theme: developer-workflow
 title: Agent sees terminal exit codes, can run commands in the background, and commands…
 type: change

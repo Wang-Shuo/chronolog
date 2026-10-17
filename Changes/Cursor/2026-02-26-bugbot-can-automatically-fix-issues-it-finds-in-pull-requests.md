@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: ebc9f8a45ab0e91cf5b81ee4f5cb533272d721e07b7867aa39b9be72cb047984
+kind: change
+machine_hash: f4e0e3d156aca09e9dc0902db240cb6bfcd1801884ad864cbb36e830168b2f7a
 product: cursor
 product_name: Cursor
 record:
@@ -27,8 +28,9 @@ record:
   evidence:
   - quote: Bugbot can automatically fix issues it finds in pull requests.
     source_release: https://cursor.com/changelog/02-26-26
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: bugbot-can-automatically-fix-issues-it-finds-in-pull-requests

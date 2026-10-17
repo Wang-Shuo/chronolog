@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: c2df76d1d965181b1f3a154a144359a319ff231a3ef7c422c146ec7dd135c65f
+kind: change
+machine_hash: 8b2752cb30b8b292b2bf4b74435cf76b182cdf48bee00e99070a38472e895b27
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Changed `AskUserQuestion` dialogs to no longer auto-continue by default;
       opt into an idle timeout via `/config`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.200
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: changed-askuserquestion-dialogs-to-no-longer-auto-continue-by-default-opt-into-a
@@ -42,12 +44,12 @@ record:
   title: Changed `AskUserQuestion` dialogs to no longer auto-continue by default
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-23-added-org-configured-model-restrictions-to-the-model-picker-model-model-and-anth|Added
-  org-configured model restrictions to the model picker, --model, /model…]]'
-- '[[Changes/Claude Code/2026-06-23-improved-btw-with-arrow-navigation-to-step-through-earlier-answers|Improved
-  /btw with ←/→ arrow navigation to step through earlier answers]]'
+- '[[Changes/Claude Code/2026-06-23-2-interface-experience-changes-in-v2-1-187|2 Interface
+  Experience changes in v2.1.187]]'
 - '[[Changes/Claude Code/2026-06-26-added-claude-code-disable-mouse-clicks-to-disable-mouse-click-drag-hover-in-full|Added
   CLAUDE_CODE_DISABLE_MOUSE_CLICKS to disable mouse click/drag/hover…]]'
+- '[[Changes/Claude Code/2026-07-01-2-interface-experience-changes-in-v2-1-198|2 Interface
+  Experience changes in v2.1.198]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d|claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d]]'
 source_type: github_releases
 theme: interface-experience
@@ -78,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-26 · Claude Code · [[Changes/Claude Code/2026-06-26-added-claude-code-disable-mouse-clicks-to-disable-mouse-click-drag-hover-in-full|Added CLAUDE_CODE_DISABLE_MOUSE_CLICKS to disable mouse click/drag/hover…]]
-- Later: 2026-07-11 · Claude Code · [[Changes/Claude Code/2026-07-11-improved-agent-view-pasting-the-same-text-again-now-expands-the-collapsed-pasted|Improved agent view]]
+- Earlier: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-2-interface-experience-changes-in-v2-1-198|2 Interface Experience changes in v2.1.198]]
+- Later: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-removed-a-redundant-navigation-hint-from-the-claude-agents-footer|Removed a redundant navigation hint from the claude agents footer]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

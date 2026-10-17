@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 60eccb112e2d23c4cca09352d92a477551437740680a3d6a3e93e530a2ac773b
+machine_hash: 34020291e039e4250a6204f5d828f6688c91380646dd7e56c41e3f9c91b29f5b
 product: cursor
 product_name: Cursor
 record:
@@ -53,6 +53,7 @@ related_changes:
   visuals from Code Blocks]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-15-canvases-https-cursor-com-changelog-04-15-26-cd056bf7|cursor-2026-04-15-canvases-https-cursor-com-changelog-04-15-26-cd056bf7]]'
 source_type: cursor_changelog
+superseded: true
 theme: file-data
 title: These visualizations can include dashboards and custom interfaces built using…
 type: change

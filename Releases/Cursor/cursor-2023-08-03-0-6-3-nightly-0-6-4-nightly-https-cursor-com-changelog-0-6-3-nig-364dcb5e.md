@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-08-03'
 description: 'Cursor release In-editor chat is back! on 2023-08-03: 1 tracked change
   across Developer Workflow'
-machine_hash: b50dab3cc69766f4f6aec2d0587bde9b486e4e3fdbe661a4d0b54d632ed77d05
+machine_hash: 156d121c2d9117bdf14cc92f7fb23924bded40553a60a852b6b7cc794c515f0b
 product: cursor
 product_name: Cursor
 record:
@@ -38,10 +38,10 @@ version: 0.6.3-nightly-0.6.4-nightly
 <!-- chronolog:begin region="summary" -->
 Also, the linter is slightly improved.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-08-03-also-the-linter-is-slightly-improved|Also, the linter is slightly improved]] · Developer Workflow
+- [[Changes/Cursor/2023-08-03-also-the-linter-is-slightly-improved|In-editor chat is back!]] · Developer Workflow
 <!-- chronolog:end -->

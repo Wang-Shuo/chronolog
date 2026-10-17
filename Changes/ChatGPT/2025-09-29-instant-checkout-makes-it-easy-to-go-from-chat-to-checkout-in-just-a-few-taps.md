@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 41a5a9d771b1f25c7b04eb02a50ed80bc788b82df03cc8fcdf64b640c81a9e6c
+machine_hash: 8a5b6da5d08e9b8f5fbe0643c940f75ededbf127c3838cf04b797d2b0900d8bd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,6 +51,7 @@ related_changes:
   Search is better at detecting shopping intent, showing products when you…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e|chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: search-browsing
 title: Instant Checkout makes it easy to go from chat to checkout in just a few taps
 type: change

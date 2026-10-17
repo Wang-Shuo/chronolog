@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 112e09f9882bbf41222de1f42c7724158bda47ee44e6d28dbc023ae96201553b
+machine_hash: 7ccae57281d31cf9be96465a80a1df75adebee55a8b067b3846ce75795563a34
 product: cursor
 product_name: Cursor
 record:
@@ -62,6 +62,7 @@ related_changes:
   Review (beta)]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-15-0-22-1-nightly-https-cursor-com-changelog-0-22-1-nightly-a39dbb5c|cursor-2024-01-15-0-22-1-nightly-https-cursor-com-changelog-0-22-1-nightly-a39dbb5c]]'
 source_type: cursor_changelog
+superseded: true
 theme: model-support
 title: Cursor-Fast is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…
 type: change

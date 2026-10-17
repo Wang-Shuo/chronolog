@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: cdc62a1b569117312e8647e87263d0b041b47c5e24b8d38f579d01d22e294ddd
+machine_hash: fa126b45a5f7da6c10c63eb0e77d281de9a581a0b01930e73c8dc939efc65f15
 product: cursor
 product_name: Cursor
 record:
@@ -62,6 +62,7 @@ related_changes:
   interpolated variables are now supported for MCP]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: Use Hooks to audit Agent usage, block commands, or redact secrets from context
 type: change

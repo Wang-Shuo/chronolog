@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: a123b76ee7e21aad5574b24879ead1edd3f6e5e9727199dc79e0e1054feb10f6
+machine_hash: fa8c1497ec58298d60ebaf70465226879d6e4770209c135535e7351a0420bf74
 product: cursor
 product_name: Cursor
 record:
@@ -60,6 +60,7 @@ related_changes:
   doubling the number of messages ChatGPT Plus customers can send with GPT-4]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991|cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991]]'
 source_type: cursor_changelog
+superseded: true
 theme: model-support
 title: new completion experience powered by gpt-4
 type: change

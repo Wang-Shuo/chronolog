@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3f36cd9dfcc618b1096c26b7638d816bd7d80992839e59e18f9ed2f17c1d44b2
+machine_hash: 8aebe80429df7434e646b05b0c80f0a577832533cba5c16aef4d13c3c9a5e1d0
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   CLAUDE_CODE_TMPDIR environment variable to override the temp directory used…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a|claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added date range filtering to /stats command - press r to cycle between Last
   7…

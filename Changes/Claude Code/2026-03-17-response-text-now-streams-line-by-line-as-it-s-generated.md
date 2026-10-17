@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 335a31c01995873b12911f272af1f232b1409192a185fced5cb2bae156ead237
+machine_hash: b4fec501dab2034f48a3f6d44960b2ff2e5df6c26421c0be2cba6dc906bddcfc
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   now accepts an optional index: /copy N copies the Nth-latest assistant response]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721|claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Response text now streams line-by-line as it's generated
 type: change

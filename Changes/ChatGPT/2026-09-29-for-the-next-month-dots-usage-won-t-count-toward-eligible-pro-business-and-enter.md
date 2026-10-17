@@ -4,19 +4,20 @@ date: '2026-09-29'
 description: 'ChatGPT · 2026-09-29 · Enterprise and Administration: For the next month,
   dots usage won’t count toward eligible Pro, Business, and Enterprise users’ plan…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise
-    and Edu rollout coming soon]]'
+  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
+    users can only access stable release (no pre-release)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 474
+  lag_days: 482
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: c19221c87eb3e8d2884c02603383151af07ae6cd6c1c91333100c659b7f3d4c5
+kind: change
+machine_hash: 33aab54f8ae765c7df2f97727bc6e8526e1bd4b0c5ad5a45768cb8700116d323
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,8 +32,9 @@ record:
       and Enterprise users’ plan allowances. After this period, we’ll share usage
       terms for each plan.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: for-the-next-month-dots-usage-won-t-count-toward-eligible-pro-business-and-enter
@@ -42,12 +44,12 @@ record:
   title: For the next month, dots usage won’t count toward eligible Pro, Business…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-both-are-available-today-on-teams-and-enterprise-plans|Both
-  are available today on Teams and Enterprise plans]]'
-- '[[Changes/ChatGPT/2026-09-29-profile-sharing-and-the-sites-showcase-are-available-on-web-and-desktop-in-busin|Profile
-  sharing and the Sites showcase are available on web and desktop]]'
-- '[[Changes/ChatGPT/2026-09-29-dots-are-rolling-out-gradually-to-eligible-pro-and-business-premium-users-aged-1|Dots
-  are rolling out gradually to eligible Pro and Business Premium users aged 18…]]'
+- '[[Changes/Claude Code/2026-09-17-claude-tag-improved-claude-s-notices-in-enterprise-grid-channels-shared-across-w|Claude
+  Tag Improved Claude''s notices in Enterprise Grid channels shared across…]]'
+- '[[Changes/Claude Code/2026-09-18-3-enterprise-and-administration-changes-in-v2-1-277|3
+  Enterprise and Administration changes in v2.1.277]]'
+- '[[Changes/Claude Code/2026-09-28-claude-tag-improved-notify-members-now-in-admin-settings-one-press-reaches-every|Claude
+  Tag Improved "Notify members now" in admin settings]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-meet-your-dot-8b9f914b|chatgpt-2026-09-29-meet-your-dot-8b9f914b]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
@@ -70,21 +72,20 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2026-09-29-dots-are-rolling-out-gradually-to-eligible-pro-and-business-premium-users-aged-1|Dots are rolling out gradually to eligible Pro and Business Premium users aged 18…]] · Enterprise and Administration
-- [[Changes/ChatGPT/2026-09-29-we-re-introducing-dots-always-on-agents-in-chatgpt-that-can-take-on-ongoing-work|ChatGPT introduces dots]] · Agent Mode
+- [[Changes/ChatGPT/2026-09-29-we-re-introducing-dots-always-on-agents-in-chatgpt-that-can-take-on-ongoing-work-24bef5|ChatGPT introduces dots]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-profile-sharing-and-the-sites-showcase-are-available-on-web-and-desktop-in-busin|Profile sharing and the Sites showcase are available on web and desktop]]
-- Later: 2026-10-06 · Cursor · [[Changes/Cursor/2026-10-06-remote-control-is-on-by-default-except-for-enterprise-organizations-enterprise-a|Remote control is on by default, except for Enterprise organizations]]
+- Earlier: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-claude-tag-improved-notify-members-now-in-admin-settings-one-press-reaches-every|Claude Tag Improved "Notify members now" in admin settings]]
+- Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-claude-tag-added-direct-messages-with-claude-for-members-on-an-enterprise-plan-s|Claude Tag Added direct messages with Claude for members on an Enterprise plan…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise and Edu rollout coming soon]]
+- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

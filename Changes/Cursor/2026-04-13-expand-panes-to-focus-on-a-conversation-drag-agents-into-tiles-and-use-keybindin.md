@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: adbef67202a1c16b2c0f68c5ebd0f754b2cabce6be9503071e4adb083ef2e12a
+machine_hash: cb654b113b92c89a57f3d060391211330e6a5b19739a53e7cc03cc2f4d431186
 product: cursor
 product_name: Cursor
 record:
@@ -62,6 +62,7 @@ related_changes:
   focus mode]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313|cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313]]'
 source_type: cursor_changelog
+superseded: true
 theme: interface-experience
 title: Expand panes to focus on a conversation, drag agents into tiles, and use keybindings…
 type: change

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5349227aca09ef38458b4e79e65188a8dcbae0637bf8ffe573d669d64d36342a
+machine_hash: 4674739b4055c64aa52d33518f21e15959466f7aab9001b06ba3adb07b5df9f9
 product: claude-code
 product_name: Claude Code
 record:
@@ -59,6 +59,7 @@ related_changes:
   4.8 is here!]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9|claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Fast mode on Opus 4.8 is now available at a fraction of its previous cost
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: c154056b83f3bec52ce3f4cd205618dd503e83e247c71537f4d065d9abf80ece
+machine_hash: 56b4ff892e6c1954029c763ef10a7a0ec6079a8c843e3431e0e92e8a9320f922
 product: cursor
 product_name: Cursor
 record:
@@ -65,6 +65,7 @@ related_changes:
   side chat is a durable, full agent conversation that you can follow up…]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d|cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: Open a side chat to ask questions, explore ideas, and investigate tangents
   without…

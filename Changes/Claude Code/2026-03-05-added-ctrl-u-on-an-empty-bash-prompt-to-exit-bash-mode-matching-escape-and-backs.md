@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d2970610f133e777f2d86f941f32add40d55362e16cd2ece67e7af540432d18c
+machine_hash: 639ea894276ae8f9c5dd3b3f29edf6928f72b575a994da816295e3899c691858
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   introduces interactive UIs in agent chats, a way for teams to share private…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added Ctrl+U on an empty bash prompt (!) to exit bash mode, matching escape…
 type: change

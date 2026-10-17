@@ -4,19 +4,20 @@ date: '2026-05-04'
 description: 'Cursor · 2026-05-04 · Enterprise and Administration: This release introduces
   updates for Enterprise admins: a new system for model controls, updated spend…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise
-    and Edu rollout coming soon]]'
+  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
+    users can only access stable release (no pre-release)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 326
+  lag_days: 334
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 3eb6f70e4783380e5ac83f446c71e6c655333f6694b17ddc0f9dd44e56f09ec8
+kind: launch
+machine_hash: 0fdd4c94725726b105da9829ac90a50b89c0a831dc6268d5375ebd9fd0a15e93
 product: cursor
 product_name: Cursor
 record:
@@ -32,8 +33,9 @@ record:
   - quote: 'This release introduces updates for Enterprise admins: a new system for
       model controls, updated spend management, and more detail for usage analytics.'
     source_release: https://cursor.com/changelog/05-04-26
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: launch
   product: cursor
   product_name: Cursor
   slug: this-release-introduces-updates-for-enterprise-admins-a-new-system-for-model-con
@@ -69,7 +71,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Cursor introduces updates for Enterprise admins
 
-**Cursor** · 2026-05-04 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://cursor.com/changelog/05-04-26) · from [[Releases/Cursor/cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047|Model controls, spend management, and usage analytics]]
+**Cursor** · 2026-05-04 · [[Themes/enterprise-admin|Enterprise and Administration]] · Launch · [Official source](https://cursor.com/changelog/05-04-26) · from [[Releases/Cursor/cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047|Model controls, spend management, and usage analytics]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -81,10 +83,9 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-05-04-admins-can-now-set-more-granular-allow-or-blocklists-at-the-model-and-provider-l|Admins can now set more granular allow or blocklists at the model and provider level]] · Context Window
-- [[Changes/Cursor/2026-05-04-enterprises-also-have-the-option-to-block-new-providers-or-model-versions-by-def|Enterprises also have the option to block new providers or model versions by default]] · Model Support
-- [[Changes/Cursor/2026-05-04-customers-with-existing-blocklists-will-need-to-migrate-to-the-new-system-by-jun|Customers with existing blocklists will need to migrate to the new system by June 1st]] · Collaboration
-- [[Changes/Cursor/2026-05-04-admins-can-now-set-soft-limits-instead-of-hard-limits-to-avoid-blocking-users-cu|Admins can now set soft limits instead of hard limits to avoid blocking users]] · Enterprise and Administration
+- [[Changes/Cursor/2026-05-04-updated-usage-analytics-tab|Updated usage analytics tab]] · Editor Experience
+- [[Changes/Cursor/2026-05-04-soft-spend-limits-and-intelligent-alerts|Soft spend limits and intelligent alerts]] · Enterprise and Administration
+- [[Changes/Cursor/2026-05-04-model-access-controls-d2ba4f|Model access controls]] · Model Support
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
@@ -97,7 +98,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise and Edu rollout coming soon]]
+- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

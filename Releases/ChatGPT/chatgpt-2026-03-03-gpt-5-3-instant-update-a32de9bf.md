@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-03-03'
 description: 'ChatGPT release GPT-5.3 Instant Update on 2026-03-03: 1 tracked change
   across Model Support'
-machine_hash: c17717c2bb58582912a85eb15d1a99eaec310e4f6f414719dc1f79e50347892f
+machine_hash: ccbd8599ff29c64a6cf884ac241221e5b4107137f79db7ebb19c1a9c8d9c2fab
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: GPT-5.3 Instant Update
 <!-- chronolog:begin region="summary" -->
 GPT‑5.3 Instant delivers more accurate answers, richer and better-contextualized results when searching the web, and reduces unnecessary dead ends, caveats, and overly declarative phrasing that can interrupt the flow of conversation.This update focuses on the parts of the ChatGPT experience people feel every day: tone…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-03-03-gpt-5-3-instant-delivers-more-accurate-answers-richer-and-better-contextualized|GPT‑5.3 Instant delivers more accurate answers, richer and better-contextualized…]] · Model Support
+- [[Changes/ChatGPT/2026-03-03-gpt-5-3-instant-delivers-more-accurate-answers-richer-and-better-contextualized|GPT-5.3 Instant Update]] · Model Support
 <!-- chronolog:end -->

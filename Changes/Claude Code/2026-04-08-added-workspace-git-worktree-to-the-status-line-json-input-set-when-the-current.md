@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ffac5867c9ace4ff713a9cda61ba5d646f0128ffaed31ec7897a1f5bcd80ba6b
+machine_hash: 6172ca3c2268689e7fe199a80133cf18161080632f72d2be4c4551f28bb79aaf
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,6 +58,7 @@ related_changes:
   new Cursor interface allows you to run many agents in parallel across repos…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33|claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added workspace.git_worktree to the status line JSON input, set when the current…
 type: change

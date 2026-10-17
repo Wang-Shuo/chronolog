@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 6
 date: '2026-02-13'
 description: 'ChatGPT release ChatGPT updates: Better file uploads, easier copying,
-  and more reliable long chats on 2026-02-13: 5 tracked changes across Interface…'
-machine_hash: eb7ab60adf353cb6b113a5ff991e012c09fe71f7e3f0f059e42301f59f79262f
+  and more reliable long chats on 2026-02-13: 6 tracked changes across Interface…'
+machine_hash: 03798354b179e404b77350b993bed3d44207cbe720877f9023b5b7ff4c5a05d5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,7 +43,7 @@ version: 'ChatGPT updates: Better file uploads, easier copying, and more reliabl
 <!-- chronolog:begin region="summary" -->
 Web
 
-Tracked 5 of 7 candidate lines.
+Tracked 6 cards from 7 candidate lines; 1 line pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -52,5 +52,6 @@ Tracked 5 of 7 candidate lines.
 - [[Changes/ChatGPT/2026-02-13-simplified-composer-the-message-composer-has-been-streamlined-to-reduce-visual-c|Simplified composer]] · Interface Experience
 - [[Changes/ChatGPT/2026-02-13-attach-up-to-20-files-in-a-single-message-you-can-now-upload-up-to-20-files-at-o|Attach up to 20 files in a single message]] · Context Window
 - [[Changes/ChatGPT/2026-02-13-expanded-file-type-support-we-now-support-additional-text-and-code-file-formats|Expanded file type support]] · Files and Data
+- [[Changes/ChatGPT/2026-02-13-performance-improvements-we-ve-made-multiple-performance-enhancements-to-improve|Performance improvements]] · Reliability and Performance
 - [[Changes/ChatGPT/2026-02-13-cleaner-select-all-behavior-cmd-a-cmd-a-now-selects-only-the-conversation-conten|Cleaner “Select All” behavior (Cmd+A)]] · Collaboration
 <!-- chronolog:end -->

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 1727a990cacd06a17bed8e89a46f8cdbf3596187c47490556af5d2e1970e65d1
+machine_hash: e313eee46c566447094ec61c6671cc7a95738065bc5737134dc46c9a92908fc4
 product: cursor
 product_name: Cursor
 record:
@@ -65,6 +65,7 @@ related_changes:
   any skill as a Custom Mode: a skill that stays pinned in the chat]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1|cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Cursor can now monitor your PRs, watch a Slack thread, or run scheduled tasks
 type: change

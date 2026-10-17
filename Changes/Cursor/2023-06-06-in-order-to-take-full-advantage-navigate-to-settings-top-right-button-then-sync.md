@@ -4,8 +4,8 @@ date: '2023-06-06'
 description: 'Cursor · 2023-06-06 · Editor Experience: In order to take full advantage,
   navigate to Settings (top right button), then "Sync the current codebase"'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 84
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f616fd062e9736ead2c80a39afe6f2dccb9e45267747c0d3cbe9bb5da4e583b9
+kind: change
+machine_hash: d5b602fcd84533be20ef8bfa82296ce74b87e9e29c73074b72c85cf0533d0859
 product: cursor
 product_name: Cursor
 record:
@@ -29,8 +30,9 @@ record:
   - quote: In order to take full advantage, navigate to Settings (top right button),
       then "Sync the current codebase"
     source_release: https://cursor.com/changelog/0-2-27
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: in-order-to-take-full-advantage-navigate-to-settings-top-right-button-then-sync
@@ -43,12 +45,11 @@ record:
     then…
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-04-29-experimental-support-for-multi-file-diffs|Experimental
-  support for multi-file diffs]]'
 - '[[Changes/Cursor/2023-05-04-improved-prompting-for-edits-and-generates|Improved
   prompting for edits and generates]]'
 - '[[Changes/Cursor/2023-05-06-rarely-pressing-enter-in-the-editor-does-nothing|Rarely,
   pressing Enter in the editor does nothing]]'
+- '[[Changes/Cursor/2023-05-17-diff-generate-improvements|Diff/Generate improvements]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-06-0-2-27-https-cursor-com-changelog-0-2-27-f949eba0|cursor-2023-06-06-0-2-27-https-cursor-com-changelog-0-2-27-f949eba0]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -79,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-05-06 · Cursor · [[Changes/Cursor/2023-05-06-rarely-pressing-enter-in-the-editor-does-nothing|Rarely, pressing Enter in the editor does nothing]]
+- Earlier: 2023-05-17 · Cursor · [[Changes/Cursor/2023-05-17-diff-generate-improvements|Diff/Generate improvements]]
 - Later: 2023-07-03 · Cursor · [[Changes/Cursor/2023-07-03-long-code-selections-no-longer-brick-the-editor|Long code selections no longer brick the editor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

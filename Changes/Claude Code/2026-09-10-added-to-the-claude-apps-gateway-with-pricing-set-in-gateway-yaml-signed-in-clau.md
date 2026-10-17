@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: c0b0ff43d1c77d12f3b52e9e6ce25975e7c28fa150735fb9361218fb74cdcaba
+machine_hash: 60b7248054ac4b276145c957d0fc548b127e5d989812df0432cfca388deee0dc
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,6 +62,7 @@ related_changes:
   Up to 15 hours with GPT-Live-1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848|claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848]]'
 source_type: github_releases
+superseded: true
 theme: pricing-model
 title: Added to the Claude apps gateway
 type: change

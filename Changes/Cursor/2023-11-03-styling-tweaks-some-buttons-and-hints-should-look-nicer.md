@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: ea351b082c610f951f555be7d1a1a2562ad021a51f94c9fdb29ad85b9e76d249
+kind: change
+machine_hash: b1a128de992549c8f798c61c9751d9c9343b8f88dc514f926c2fc5e521e60eca
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: 'Styling tweaks: some buttons and hints should look nicer!'
     source_release: https://cursor.com/changelog/0-14-0
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: styling-tweaks-some-buttons-and-hints-should-look-nicer

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: a23933f90d2e6855103cfb770f7dfb4a3643a7cf62044cd53b88090576f9859b
+machine_hash: 5f9f542acc95a79aa7e1df4297c8ac5f42d6f5c5900f2acd95c41cacac510abb
 product: cursor
 product_name: Cursor
 record:
@@ -53,6 +53,7 @@ related_changes:
   /model to warn before switching models mid-conversation, since the next…]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a|cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a]]'
 source_type: cursor_changelog
+superseded: true
 theme: model-support
 title: /config opens an interactive settings panel inside the CLI where you can view…
 type: change

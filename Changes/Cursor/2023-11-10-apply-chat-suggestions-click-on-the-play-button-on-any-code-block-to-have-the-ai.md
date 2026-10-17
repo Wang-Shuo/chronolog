@@ -5,8 +5,8 @@ description: 'Cursor · 2023-11-10 · Editor Experience: Apply chat suggestions:
   on the play button on any code block to have the AI apply in-chat suggestions to
   your…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 241
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: b6004363211753d975ef29ae19c4407579cfa9d9785e4ca960a056b100de9e1c
+kind: change
+machine_hash: b01d4af8225123541243a4a873afd0187f67cb8c0ddfc857e7c52e1bba6bc01c
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +32,9 @@ record:
   - quote: 'Apply chat suggestions: click on the play button on any code block to
       have the AI apply in-chat suggestions to your current file.'
     source_release: https://cursor.com/changelog/0-15-0-0-15-1
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: apply-chat-suggestions-click-on-the-play-button-on-any-code-block-to-have-the-ai
@@ -44,10 +46,10 @@ record:
   title: Apply chat suggestions
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-27-you-can-now-use-an-early-preview-of-edit-in-the-chat-it-s-significantly-faster-a|Use
-  an early preview of /edit in the chat!]]'
-- '[[Changes/Cursor/2023-10-01-cmd-k-is-now-in-the-terminal-a-bit-hackily-implemented-but-surprisingly-useful|Cmd-k
-  is now in the terminal!]]'
+- '[[Changes/Cursor/2023-09-21-hacky-first-version-of-cmd-k-in-the-terminal-let-us-know-what-you-think|Cmd-K
+  in the terminal!]]'
+- '[[Changes/Cursor/2023-09-27-you-can-now-use-an-early-preview-of-edit-in-the-chat-it-s-significantly-faster-a|/edit
+  in chat]]'
 - '[[Changes/Cursor/2023-11-03-cmd-k-diffs-these-now-obey-word-wrap-you-can-also-copy-from-the-red-text|Cmd-K
   diffs: these now obey word-wrap!]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-10-0-15-0-0-15-1-https-cursor-com-changelog-0-15-0-0-15-1-9dc9cadb|cursor-2023-11-10-0-15-0-0-15-1-https-cursor-com-changelog-0-15-0-0-15-1-9dc9cadb]]'
@@ -81,13 +83,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2023-11-03 · Cursor · [[Changes/Cursor/2023-11-03-cmd-k-diffs-these-now-obey-word-wrap-you-can-also-copy-from-the-red-text|Cmd-K diffs: these now obey word-wrap!]]
-- Later: 2023-11-15 · Cursor · [[Changes/Cursor/2023-11-15-caching-add-and-delete-a-letter-and-the-suggestion-will-still-be-there-for-you|Caching — add and delete a letter and the suggestion will still be there for you!]]
+- Later: 2023-11-15 · Cursor · [[Changes/Cursor/2023-11-15-copilot-improvements-2d35f8|Copilot++ improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

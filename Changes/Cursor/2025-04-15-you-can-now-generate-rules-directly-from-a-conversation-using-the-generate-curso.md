@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 962d68228834aaaa024124ac0fa96638ca5e5c4cabcd23d16d67b4b51ae6c016
+machine_hash: ee1f2e7cc64d761f5b46eafa6501c8bcd6bd679c0be8c09e97465cb0a00529fb
 product: cursor
 product_name: Cursor
 record:
@@ -53,6 +53,7 @@ related_changes:
   Previous Composers]]'
 source_release: '[[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: Generate rules directly from a conversation using the /Generate Cursor Rules
   command

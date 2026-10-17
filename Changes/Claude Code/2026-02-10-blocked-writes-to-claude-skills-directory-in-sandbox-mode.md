@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a07155149166cabc5ec14157ee55129630e9c484245443ea5f693d600c028d9f
+machine_hash: a35838ca5e0395afaa42d8065c2ec76b308705fc69e1c34c1d136dc2d7cb15ab
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   a bug where commands excluded from sandboxing…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-10-v2-1-38-github-284624259-26f7a748|claude-code-2026-02-10-v2-1-38-github-284624259-26f7a748]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Blocked writes to .claude/skills directory in sandbox mode
 type: change

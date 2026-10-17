@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-09-29 · Memory and Personalization: Pages follow 
   availability and sharing settings. Sharing a Page does not give other people access
   to…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1167
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: fd5f456cad48fb21ea57a1ed97f48a8f00a580bb7cc13f9184a4d492edd2d3be
+kind: change
+machine_hash: 530085bf63e765ab9059598ec95c5baa01c81cfcc24addb6e323be5443087b86
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,8 +34,9 @@ record:
       does not give other people access to your private chats or memory; information
       added to the Page is visible to people who can view it.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: pages-follow-space-s-availability-and-sharing-settings-sharing-a-page-does-not-g
@@ -53,12 +55,12 @@ record:
   title: Pages follow Space’s availability and sharing settings
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-27-non-personalized-by-default-temporary-chats-are-not-personalized-non-personalize|Non-personalized:
-  By default, temporary chats are not personalized]]'
-- '[[Changes/ChatGPT/2026-08-27-personalized-when-you-create-a-temporary-chat-you-can-choose-to-have-personalize|Personalized:
-  When you create a temporary chat, you can choose to have personalized…]]'
-- '[[Changes/ChatGPT/2026-08-27-we-re-rolling-out-new-controls-in-temporary-chat-you-can-now-choose-to-personali|ChatGPT
-  rolls out new controls in temporary chat]]'
+- '[[Changes/Claude Code/2026-09-17-vscode-added-memory-and-instructions-entries-to-the-customize-menu-memory-shows|VSCode
+  Added Memory and Instructions entries to the Customize menu]]'
+- '[[Changes/Claude Code/2026-09-25-improved-lists-in-help-hooks-copy-chrome-memory-ide-release-notes-rewind-diff-re|Improved
+  lists in /help, /hooks, /copy, /chrome, /memory, /ide…]]'
+- '[[Changes/Claude Code/2026-09-28-2-memory-and-personalization-changes-in-v2-1-284|2
+  Memory and Personalization changes in v2.1.284]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-create-and-collaborate-on-pages-aae35683|chatgpt-2026-09-29-create-and-collaborate-on-pages-aae35683]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -87,14 +89,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-08-27 · ChatGPT · [[Changes/ChatGPT/2026-08-27-we-re-rolling-out-new-controls-in-temporary-chat-you-can-now-choose-to-personali|ChatGPT rolls out new controls in temporary chat]]
-- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-you-can-use-your-chatgpt-account-to-sign-in-to-participating-products-without-cr|You can use your ChatGPT account to sign in to participating products without…]]
+- Earlier: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-2-memory-and-personalization-changes-in-v2-1-284|2 Memory and Personalization changes in v2.1.284]]
+- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-you-can-use-your-chatgpt-account-to-sign-in-to-participating-products-without-cr|Sign in to other products with ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

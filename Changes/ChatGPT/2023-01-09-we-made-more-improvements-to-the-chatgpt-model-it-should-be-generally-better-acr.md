@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: a48df09b7face8d7adf7928a1b48e5fc63a7d7e682437f58470b214ede9d21db
+kind: change
+machine_hash: 90c0e7219dc4e09687bb766a6185cfc3107b86a8aebedc78350564d3d309051a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,8 +33,9 @@ record:
   - quote: We made more improvements to the ChatGPT model! It should be generally
       better across a wide range of topics and has improved factuality.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr
@@ -70,7 +72,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Later: 2023-01-30 · ChatGPT · [[Changes/ChatGPT/2023-01-30-we-ve-upgraded-the-chatgpt-model-with-improved-factuality-and-mathematical-capab|We’ve upgraded the ChatGPT model with improved factuality and mathematical capabilities]]
+- Later: 2023-01-30 · ChatGPT · [[Changes/ChatGPT/2023-01-30-we-ve-upgraded-the-chatgpt-model-with-improved-factuality-and-mathematical-capab|Factuality and mathematical improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

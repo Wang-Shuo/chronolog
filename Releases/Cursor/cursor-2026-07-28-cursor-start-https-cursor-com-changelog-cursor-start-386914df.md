@@ -1,9 +1,9 @@
 ---
-changes_count: 4
+changes_count: 5
 date: '2026-07-28'
-description: 'Cursor release Cursor Start on 2026-07-28: 4 tracked changes across
-  Pricing Model, Agent Mode, Interface Experience'
-machine_hash: d8f571bbd8b40c542cebc14d2b1bdadf46919a0074b6e14c91ecd4ae46dcbfcb
+description: 'Cursor release Cursor Start on 2026-07-28: 5 tracked changes across
+  Pricing Model, Agent Mode, Apps and Integrations, Interface Experience'
+machine_hash: be8bd8e11bf5a072982e3451ec69e26b93d574961d2c2c3e91d26c5414540e40
 product: cursor
 product_name: Cursor
 record:
@@ -40,13 +40,14 @@ version: Cursor Start
 <!-- chronolog:begin region="summary" -->
 We're introducing Cursor Start, a new ₹649 monthly plan for developers in India, making daily agentic development accessible and payment easy with local pricing and UPI.
 
-Tracked 4 of 10 candidate lines.
+Tracked 5 cards from 10 candidate lines; 1 line pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-07-28-we-re-introducing-cursor-start-a-new-649-monthly-plan-for-developers-in-india-ma|Cursor introduces Cursor Start, a new ₹649 monthly plan for developers in India…]] · Pricing Model
-- [[Changes/Cursor/2026-07-28-start-bills-monthly-with-auto-renewal-and-is-available-from-july-28-2026|Start bills monthly with auto-renewal and is available from July 28, 2026]] · Pricing Model
-- [[Changes/Cursor/2026-07-28-always-on-cloud-agents-that-build-test-and-ship-code-while-you-keep-working|Always-on cloud agents that build, test, and ship code while you keep working]] · Agent Mode
-- [[Changes/Cursor/2026-07-28-existing-free-users-in-india-can-upgrade-their-plan-from-the-dashboard-new-users|Existing Free users in India can upgrade their plan from the dashboard]] · Interface Experience
+- [[Changes/Cursor/2026-07-28-local-pricing-at-649-per-month-tax-inclusive-billed-in-inr-with-upi-or-card|Local pricing at ₹649 per month, tax inclusive, billed in INR with UPI or card]] · Pricing Model · Pricing
+- [[Changes/Cursor/2026-07-28-plugins-mcp-servers-hooks-and-skills-to-extend-cursor-across-your-workflows|Plugins, MCP servers, hooks, and skills to extend Cursor across your workflows]] · Apps and Integrations
+- [[Changes/Cursor/2026-07-28-we-re-introducing-cursor-start-a-new-649-monthly-plan-for-developers-in-india-ma|Cursor introduces Cursor Start, a new ₹649 monthly plan for developers in India…]] · Pricing Model · Launch
+- [[Changes/Cursor/2026-07-28-always-on-cloud-agents-that-build-test-and-ship-code-while-you-keep-working-725c7c|Always-on cloud agents that build, test, and ship code while you keep working]] · Agent Mode
+- [[Changes/Cursor/2026-07-28-existing-free-users-in-india-can-upgrade-their-plan-from-the-dashboard-new-users-aeb811|Existing Free users in India can upgrade their plan from the dashboard]] · Interface Experience
 <!-- chronolog:end -->

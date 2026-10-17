@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1c1d14eeb542c211c8b76bc61c3f83204f4fd18e1224c2419d3ec781186bd8c5
+machine_hash: 539d546f008cb7db26fd6e750d561401b33b879a904859af11aacdaa699c8d35
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   2 is now available in Cursor]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa|claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa]]'
 source_type: github_releases
+superseded: true
 theme: reliability-performance
 title: Added CLAUDE_STREAM_IDLE_TIMEOUT_MS env var to configure the streaming idle…
 type: change

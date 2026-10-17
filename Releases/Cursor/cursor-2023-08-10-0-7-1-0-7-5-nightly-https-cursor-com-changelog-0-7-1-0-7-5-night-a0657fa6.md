@@ -3,7 +3,7 @@ changes_count: 0
 date: '2023-08-10'
 description: 'Cursor release Fix: Cursor in the wrong place on 2023-08-10: no tracked
   changes'
-machine_hash: ef23602c20f0c1a60dc222371c6860cc075751457ebfcf6d2e5460813853846f
+machine_hash: 36930e6939f82892cae972d69a97f2667bc28c43b32316f769d08307bd988098
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.7.1-0.7.5-nightly
 <!-- chronolog:begin region="summary" -->
 Fix getcursor/cursor#711.
 
-Tracked 0 of 5 candidate lines.
+Tracked 0 cards from 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c78fdf5b1c8745958e03f66f9b130b6de4cda55e302beca5204579f65834f581
+machine_hash: 1bacf98514b10bc3ae5df647b6a4814c3da48b188f848a2e5048a5f4c6716fd5
 product: cursor
 product_name: Cursor
 record:
@@ -51,6 +51,7 @@ related_changes:
   Tab (previously called Copilot++) defaults to chunked streaming]]'
 source_release: '[[Releases/Cursor/cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42|cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: Auto imports (beta) for Cursor Tab for TypeScript files
 type: change

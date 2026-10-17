@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c91e866d60a76d6e26563e8d6fe882418c3b6e29a5bbcdbbd64e3eb4a07227ce
+machine_hash: ccc4deb951bbb0ceff04f8564aaf10321c144efe640748c9d0b8ffde65bff4f1
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,6 +54,7 @@ related_changes:
   Bash permission checks treating zsh variable subscripts and modifiers…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-18-v2-1-214-github-355973317-478680c5|claude-code-2026-07-18-v2-1-214-github-355973317-478680c5]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed Bash permission checks to no longer auto-approve certain help and man…
 type: change

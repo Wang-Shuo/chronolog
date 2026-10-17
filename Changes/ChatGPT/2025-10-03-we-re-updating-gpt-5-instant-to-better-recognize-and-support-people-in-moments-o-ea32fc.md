@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: fbfffe3fd2c7669fea66a6912ab3d59741ed84b90b5872e02f1f3caacd44133e
+kind: change
+machine_hash: a1877b538b33c0f6c1d099711c0b751f4897cea1ba94d19a64e00f956e2e0a0e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,8 +59,9 @@ record:
       to work on improvements and will keep updating the model to make it smarter
       and safer over time.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-updating-gpt-5-instant-to-better-recognize-and-support-people-in-moments-o
@@ -68,26 +70,24 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: We’re updating GPT-5 Instant to better recognize and support people in moments
-    of distress
+  title: Updating GPT-5
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-17-when-you-select-gpt-5-with-thinking-in-chatgpt-you-ll-see-a-new-thinking-time-to|When
-  you select GPT-5 with Thinking in ChatGPT, you’ll see a new thinking time…]]'
-- '[[Changes/ChatGPT/2025-09-17-all-queries-default-to-standard-unless-you-choose-to-change-it-once-you-choose-a|All
-  queries default to Standard unless you choose to change it]]'
-- '[[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|We’re
-  improving the quality and latency of responses of the version of Advanced…]]'
+- '[[Changes/ChatGPT/2025-09-17-5-model-support-changes-in-toggle-thinking-time-in-the-message|5
+  Model Support changes in Toggle thinking time in the message…]]'
+- '[[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|Voice
+  Updates]]'
+- '[[Changes/ChatGPT/2025-09-29-opt-out-of-model-training-so-their-teen-s-conversations-won-t-be-used-to-improve|Opt
+  out of model training, so their teen’s conversations won’t be used to improve…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-03-updating-gpt-5-a6c090c8|chatgpt-2025-10-03-updating-gpt-5-a6c090c8]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We’re updating GPT-5 Instant to better recognize and support people in moments
-  of distress
+title: Updating GPT-5
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We’re updating GPT-5 Instant to better recognize and support people in moments of distress
+# Updating GPT-5
 
 **ChatGPT** · 2025-10-03 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-10-03-updating-gpt-5-a6c090c8|Updating GPT-5]]
 <!-- chronolog:end -->
@@ -105,7 +105,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-09-18 · ChatGPT · [[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|We’re improving the quality and latency of responses of the version of Advanced…]]
+- Earlier: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-opt-out-of-model-training-so-their-teen-s-conversations-won-t-be-used-to-improve|Opt out of model training, so their teen’s conversations won’t be used to improve…]]
 - Later: 2025-10-22 · ChatGPT · [[Changes/ChatGPT/2025-10-22-we-re-updating-the-model-for-signed-out-users-to-gpt-5-instant-giving-more-peopl|We’re updating the model for signed-out users to GPT-5 Instant, giving more people…]]
 <!-- chronolog:end -->
 

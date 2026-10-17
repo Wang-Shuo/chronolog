@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c2fc12a098d01374b4f5ee218fe67f0a3dd48bc5e9669bfbcc85171b1eefc9f4
+machine_hash: 134493201c6a74c7ecf0eed018358da4b19f13a4a1a2c92f3e93ee2a1c7cdccd
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   Improved scroll wheel responsiveness in the integrated terminal…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added worktree.sparsePaths setting for claude --worktree in large monorepos…
 type: change

@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 83a6b4dbab3e998fe1d991cc0353937cd23e127d0f3e45bd237f26193fc3f64b
+kind: change
+machine_hash: ad9a6ead8b963b64fee7716740b9724d61094d5c00fc7701ac241f10462adeca
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +32,9 @@ record:
       to the AI. The chat history is improved, it's easier to see what the AI can
       see, and codeblocks auto-format on paste.
     source_release: https://cursor.com/changelog/0-2-34
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: the-chat-has-been-revamped-you-can-now-use-symbols-to-show-files-code-docs-to-th
@@ -41,24 +43,24 @@ record:
   theme: interface-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: The chat has been revamped!
+  title: Chat v2
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-04-added-the-ability-to-hide-the-tooltip-cursor-config-advanced-chat-edit-tooltip|Added
-  the ability to hide the tooltip (Cursor config  Advanced  Chat/Edit Tooltip)]]'
 - '[[Changes/Cursor/2023-05-09-includes-some-updates-to-option-enter-in-the-chat|Includes
   some updates to "Option+Enter" in the chat]]'
+- '[[Changes/Cursor/2023-05-17-a-better-cursor-tutor-onboarding|A better Cursor Tutor
+  onboarding!]]'
 - '[[Changes/Cursor/2023-05-20-we-ve-added-a-new-feedback-button-at-the-top-right-of-the-app-we-really-do|Cursor
   adds a new feedback button at the top right of the app]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-24-0-2-34-https-cursor-com-changelog-0-2-34-fabeac56|cursor-2023-06-24-0-2-34-https-cursor-com-changelog-0-2-34-fabeac56]]'
 source_type: cursor_changelog
 theme: interface-experience
-title: The chat has been revamped!
+title: Chat v2
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# The chat has been revamped!
+# Chat v2
 
 **Cursor** · 2023-06-24 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://cursor.com/changelog/0-2-34) · from [[Releases/Cursor/cursor-2023-06-24-0-2-34-https-cursor-com-changelog-0-2-34-fabeac56|Chat v2]]
 <!-- chronolog:end -->

@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c8301fdde72c121bcfa9b1fcb3136aeebcd89aa80bca2c5b74a95621641256c2
+machine_hash: 2e37002f47c0601326e95653fae1d711cf8345fddf125153698ab422fc9a73e4
 product: cursor
 product_name: Cursor
 record:
@@ -48,6 +48,7 @@ related_changes:
   attaches a monitor to every pull request and watches the change…]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb|cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb]]'
 source_type: cursor_changelog
+superseded: true
 theme: developer-workflow
 title: Enable it from the dashboard and connect source control, your deploy system…
 type: change

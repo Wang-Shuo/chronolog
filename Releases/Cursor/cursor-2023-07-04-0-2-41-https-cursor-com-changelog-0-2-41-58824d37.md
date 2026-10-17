@@ -3,7 +3,7 @@ changes_count: 0
 date: '2023-07-04'
 description: 'Cursor release Hotfix for "with codebase" on 2023-07-04: no tracked
   changes'
-machine_hash: 0e50665fee7f41acbc45290ead374fa04d3cbc4a088f8f96f56e0e1574e357cd
+machine_hash: 8e0a8f37ef25f73bf54c140bf9aaccd3b49366d7264f72f8bd68f966c09396c0
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.2.41
 <!-- chronolog:begin region="summary" -->
 Includes a fix for the chat "with codebase" feature.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

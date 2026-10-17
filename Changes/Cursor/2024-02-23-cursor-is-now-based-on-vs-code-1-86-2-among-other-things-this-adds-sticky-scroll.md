@@ -5,8 +5,8 @@ description: 'Cursor · 2024-02-23 · Editor Experience: Cursor is now based on 
   1.86.2! Among other things, this adds sticky scroll support to tree views. Also,
   cmdk…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 346
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: a6a3581b59e72120e0370e9490084e2b5a80fe27d9f99bbe2171fab58e4ce48a
+kind: change
+machine_hash: d061efcf189468af4acc4b785a2fe2f08daf6f41b969105b874bd21d4b4d4621
 product: cursor
 product_name: Cursor
 record:
@@ -33,8 +34,9 @@ record:
   - quote: Cursor is now based on VS Code 1.86.2! Among other things, this adds sticky
       scroll support to tree views. Also, cmdk prompt bars are now sticky.
     source_release: https://cursor.com/changelog/0-28-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: cursor-is-now-based-on-vs-code-1-86-2-among-other-things-this-adds-sticky-scroll
@@ -43,11 +45,11 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Cursor is now based on VS Code 1.86.2!
+  title: VS Code 1.86.2
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-02-hold-down-cmd-i-over-a-selection-to-heal-the-code-with-gpt-4-useful-for-writing|Hold
-  down cmd-I over a selection to heal the code with GPT-4]]'
+- '[[Changes/Cursor/2024-02-02-hold-down-cmd-i-over-a-selection-to-heal-the-code-with-gpt-4-useful-for-writing|Cmd-I
+  to Heal]]'
 - '[[Changes/Cursor/2024-02-09-copilot-quality-of-life-improvements-show-ghost-text-more-often-toggle-on-off-on|Copilot++
   quality of life improvements…]]'
 - '[[Changes/Cursor/2024-02-09-ai-previews-this-is-an-experimental-new-code-reading-feature-after-enabling-in-t|AI
@@ -55,12 +57,12 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2024-02-23-0-28-x-https-cursor-com-changelog-0-28-x-60ff5b5b|cursor-2024-02-23-0-28-x-https-cursor-com-changelog-0-28-x-60ff5b5b]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: Cursor is now based on VS Code 1.86.2!
+title: VS Code 1.86.2
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Cursor is now based on VS Code 1.86.2!
+# VS Code 1.86.2
 
 **Cursor** · 2024-02-23 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://cursor.com/changelog/0-28-x) · from [[Releases/Cursor/cursor-2024-02-23-0-28-x-https-cursor-com-changelog-0-28-x-60ff5b5b|VS Code 1.86.2]]
 <!-- chronolog:end -->
@@ -85,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

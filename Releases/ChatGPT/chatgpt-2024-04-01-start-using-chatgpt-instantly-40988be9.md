@@ -3,7 +3,7 @@ changes_count: 1
 date: '2024-04-01'
 description: 'ChatGPT release Start using ChatGPT instantly on 2024-04-01: 1 tracked
   change across Account and Access'
-machine_hash: a50e1b02785dd283cf58e9027da3df20a98c90a5e46f6c12ed415037b7e097be
+machine_hash: 30ddb31abcca13315925498b9e9bfeb5857fc014aea3300052f99923d0827c17
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Start using ChatGPT instantly
 <!-- chronolog:begin region="summary" -->
 We’re making it easier for people to experience the benefits of AI without needing to sign up. Starting today, you can use ChatGPT instantly, without needing to sign-up. We're rolling this out gradually, with the aim to make AI accessible to anyone curious about its capabilities.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2024-04-01-we-re-making-it-easier-for-people-to-experience-the-benefits-of-ai-without-needi|We’re making it easier for people to experience the benefits of AI without needing…]] · Account and Access
+- [[Changes/ChatGPT/2024-04-01-we-re-making-it-easier-for-people-to-experience-the-benefits-of-ai-without-needi|Start using ChatGPT instantly]] · Account and Access
 <!-- chronolog:end -->

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 346dede5eff4bdc10d9c1d88b2181877a411094bd5d00203e44b043d014bdaf2
+machine_hash: 741e72c41a41f26b669f5950e2f404f3c79c2b3093f5085ad53e281c8ff5e8e8
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   now available in Microsoft Teams]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da|cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da]]'
 source_type: cursor_changelog
+superseded: true
 theme: collaboration
 title: Share canvases from Cursor with your teammates
 type: change

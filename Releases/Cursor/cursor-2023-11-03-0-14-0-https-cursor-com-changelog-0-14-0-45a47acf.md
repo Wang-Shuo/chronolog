@@ -3,7 +3,7 @@ changes_count: 5
 date: '2023-11-03'
 description: 'Cursor release Pro++, Word-wrapping diffs, and more on 2023-11-03: 5
   tracked changes across Interface Experience, Editor Experience, Pricing Model, Reliability…'
-machine_hash: b03e759cf178af19da624c3ee0b45796d869296e846dfdfe6ec65cb14e282085
+machine_hash: 7ac39e9fb7bd0d78df65646e1db7bc48e87547b89c9c252db51233ec2e9bd5e3
 product: cursor
 product_name: Cursor
 record:
@@ -39,12 +39,12 @@ version: 0.14.0
 <!-- chronolog:begin region="summary" -->
 Pro++ plan: if you hit your fast request limit and prefer to purchase more, you now can.
 
-Tracked 5 of 7 candidate lines.
+Tracked 5 cards from 7 candidate lines; 1 line pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-11-03-pro-plan-if-you-hit-your-fast-request-limit-and-prefer-to-purchase-more-you-now|Pro++ plan: if you hit your fast request limit and prefer to purchase more, you now can]] · Pricing Model
+- [[Changes/Cursor/2023-11-03-pro-plan-if-you-hit-your-fast-request-limit-and-prefer-to-purchase-more-you-now|Pro++ plan: if you hit your fast request limit and prefer to purchase more, you now can]] · Pricing Model · Policy
 - [[Changes/Cursor/2023-11-03-chat-scroll-we-got-rid-of-sticky-scroll-to-make-the-chat-easier-to-read|Chat scroll: we got rid of sticky scroll to make the chat easier to read]] · Interface Experience
 - [[Changes/Cursor/2023-11-03-styling-tweaks-some-buttons-and-hints-should-look-nicer|Styling tweaks: some buttons and hints should look nicer!]] · Interface Experience
 - [[Changes/Cursor/2023-11-03-shipped-better-error-logging-which-should-help-us-improve-stability|Shipped better error logging, which should help us improve stability]] · Reliability and Performance

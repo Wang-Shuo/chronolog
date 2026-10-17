@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 7941049e38b49a80f41cd55a3e41592d0bd46c724cec44bd37447e170502c59f
+machine_hash: d3605e979ef83743e7cb3325cf06025ebc0617ddbc2d55372aff6631bb01492b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -68,6 +68,7 @@ related_changes:
   can now be added to the AI pane]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-21-1-6b86b273|chatgpt-2025-02-21-1-6b86b273]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: reliability-performance
 title: 'Text selection improvements: you can now select text across horizontal rulers'
 type: change

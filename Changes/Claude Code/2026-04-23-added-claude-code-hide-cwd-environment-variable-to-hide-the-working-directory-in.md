@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 78f0dabc9ab811edd367b0269bc71b0470fc90cbf3d92ddd47e73d4379e84912
+machine_hash: 60c9cfaef67aca59566111ea4765a74a924c9aabb97d47cb5ae1b7c6aa8a0b56
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   vim visual mode (v) and visual-line mode (V) with selection, operators…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-119-github-312949780-573724e7|claude-code-2026-04-23-v2-1-119-github-312949780-573724e7]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added CLAUDE_CODE_HIDE_CWD environment variable to hide the working directory…
 type: change

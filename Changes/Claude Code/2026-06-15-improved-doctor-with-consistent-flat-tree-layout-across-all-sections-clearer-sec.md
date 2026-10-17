@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 4cdda547f31cffe24bb0056dc1e6b71318f63a78532527f11f5f4d58876e5acc
+kind: change
+machine_hash: 00d490525a43cc865ca903ec43388c149c8506ec3a53793f83a801667e960fff
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Improved `/doctor` with consistent flat tree layout across all sections,
       clearer section status icons, and highlighted command names
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.178
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-doctor-with-consistent-flat-tree-layout-across-all-sections-clearer-sec
@@ -43,12 +45,12 @@ record:
     clearer…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-parallel-tool-calls-a-failed-bash-command-no-longer-cancels-other-calls-in-the-s|Parallel
-  tool calls]]'
-- '[[Changes/Claude Code/2026-06-03-tools-explicitly-listing-grep-glob-now-provides-the-dedicated-search-tools-on-na|--tools:
-  explicitly listing Grep/Glob now provides the dedicated search tools…]]'
 - '[[Changes/Claude Code/2026-06-04-skills-added-escape-syntax-to-include-a-literal-before-a-digit-in-command-bodies|Skills:
   added \$ escape syntax to include a literal $ before a digit in command bodies]]'
+- '[[Changes/Claude Code/2026-06-08-background-sessions-are-now-told-that-shared-checkout-edits-are-blocked-until-th|Background
+  sessions are now told that shared-checkout edits are blocked until they…]]'
+- '[[Changes/Claude Code/2026-06-10-2-developer-workflow-changes-in-v2-1-172|2 Developer
+  Workflow changes in v2.1.172]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-15-v2-1-178-github-339741361-902bc427|claude-code-2026-06-15-v2-1-178-github-339741361-902bc427]]'
 source_type: github_releases
 theme: developer-workflow
@@ -71,17 +73,17 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-06-15-skills-in-nested-claude-skills-directories-now-load-when-working-on-files-there|Skills in nested .claude/skills directories now load when working on files there]] · Apps and Integrations
-- [[Changes/Claude Code/2026-06-15-improved-auto-mode-subagent-spawns-are-now-evaluated-by-the-classifier-before-la|Improved auto mode]] · Agent Mode
-- [[Changes/Claude Code/2026-06-15-added-tool-param-value-syntax-for-permission-rules-to-match-a-tool-s-input-param|Added Tool(param:value) syntax for permission rules to match a tool's input…]] · Safety and Privacy
-- [[Changes/Claude Code/2026-06-15-nested-claude-directories-the-agent-workflow-and-output-style-closest-to-the-wor|Nested .claude/ directories]] · Agent Mode
+- [[Changes/Claude Code/2026-06-15-bug-now-requires-a-description-before-submitting-and-no-longer-uses-model-refusa|/bug now requires a description before submitting, and no longer uses…]] · Model Support
+- [[Changes/Claude Code/2026-06-15-2-safety-and-privacy-changes-in-v2-1-178|2 Safety and Privacy changes in v2.1.178]] · Safety and Privacy
+- [[Changes/Claude Code/2026-06-15-2-agent-mode-changes-in-v2-1-178|2 Agent Mode changes in v2.1.178]] · Agent Mode
+- [[Changes/Claude Code/2026-06-15-2-apps-and-integrations-changes-in-v2-1-178|2 Apps and Integrations changes in v2.1.178]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-skills-added-escape-syntax-to-include-a-literal-before-a-digit-in-command-bodies|Skills: added \$ escape syntax to include a literal $ before a digit in command bodies]]
-- Later: 2026-06-17 · Cursor · [[Changes/Cursor/2026-06-17-cursor-can-now-help-you-set-up-your-dev-environment-in-the-cloud-in-less-than-10|Cursor can now help you set up your dev environment in the cloud in less than 10 minutes]]
+- Earlier: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-2-developer-workflow-changes-in-v2-1-172|2 Developer Workflow changes in v2.1.172]]
+- Later: 2026-06-17 · Cursor · [[Changes/Cursor/2026-06-17-cloud-environment-setup-8a7697|Cloud environment setup]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

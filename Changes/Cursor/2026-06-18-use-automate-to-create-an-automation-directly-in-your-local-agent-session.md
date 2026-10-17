@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 2335b9e056a87f10d0b5a0764d54df69ae70012a337a670d5995b7f0ce309772
+machine_hash: 924f954bf6be885da854452b031997eba4911993231e9286b8dcaa25741076ec
 product: cursor
 product_name: Cursor
 record:
@@ -59,6 +59,7 @@ related_changes:
   Automations save you time by automating repetitive tasks with always-on agents]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-18-3-8-https-cursor-com-changelog-06-18-26-0b493e15|cursor-2026-06-18-3-8-https-cursor-com-changelog-06-18-26-0b493e15]]'
 source_type: cursor_changelog
+superseded: true
 theme: automation-scheduling
 title: Use /automate to create an automation directly in your local agent session
 type: change

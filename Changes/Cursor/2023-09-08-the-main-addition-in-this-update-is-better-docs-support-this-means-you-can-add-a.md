@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 9c43890a872e8da5783e44bccaaa6ab4bdc8e12bba204d2091e2868508589a28
+machine_hash: 3ae6a2cccdd692429df45d297609b17aa9e7d8e66425b24b18fdd6f99d5a9532
 product: cursor
 product_name: Cursor
 record:
@@ -54,6 +54,7 @@ related_changes:
   robust extension handling]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699|cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: The main addition in this update is better docs support
 type: change

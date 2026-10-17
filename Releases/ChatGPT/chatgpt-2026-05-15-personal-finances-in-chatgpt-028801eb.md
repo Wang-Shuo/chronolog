@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-05-15'
 description: 'ChatGPT release Personal finances in ChatGPT on 2026-05-15: 1 tracked
   change across Files and Data'
-machine_hash: 8e5bcd69e914d7aba0ec22399f54a894682259b495cf0678a6c9c011ed536cf1
+machine_hash: 5a03f277b9fdde020a4a27d11d28ae878eaa3981a8fc21e30e81d1779c71224c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Personal finances in ChatGPT
 <!-- chronolog:begin region="summary" -->
 We’re starting to roll out a new personal finance experience in ChatGPT. Pro users in the United States can securely connect supported financial accounts, see a dashboard of where their money is going, and ask questions grounded in their financial context.Available on web and iOS, Finances lets you view spending…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-05-15-we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user|We’re starting to roll out a new personal finance experience in ChatGPT]] · Files and Data
+- [[Changes/ChatGPT/2026-05-15-we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user|Personal finances in ChatGPT]] · Files and Data
 <!-- chronolog:end -->

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-08-21'
 description: 'ChatGPT release Custom instructions are now available to users in the
   EU & UK on 2023-08-21: 1 tracked change across Memory and Personalization'
-machine_hash: b93aaaab852f2ad73ae71dfe3c5c8e144902bef7680829f25c666b23071ab8c3
+machine_hash: 18181f244813c80aef233818c2a34aa302dd9644e980e12c9d30f17187796c63
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,10 +39,10 @@ version: Custom instructions are now available to users in the EU & UK
 <!-- chronolog:begin region="summary" -->
 Custom instructions are now available to users in the European Union United Kingdom.To add your instructions:
 
-Tracked 1 of 3 candidate lines.
+Tracked 1 card from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king-cfc1d5|Custom instructions are now available to users in the European Union United Kingdom]] · Memory and Personalization
+- [[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king-cfc1d5|Custom instructions are now available to users in the EU & UK]] · Memory and Personalization · Expansion
 <!-- chronolog:end -->

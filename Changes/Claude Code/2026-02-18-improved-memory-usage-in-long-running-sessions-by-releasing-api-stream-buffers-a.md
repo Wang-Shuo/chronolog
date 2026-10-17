@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 3ce5aa8f8e6b02a3818c5d9fea42c014236ec6a588a28f0cfce67f3974dc7f24
+machine_hash: 776ac52e4b573cba02ebcdb4304cc2abe460652882ac1e930b7960fc39e8ab48
 product: claude-code
 product_name: Claude Code
 record:
@@ -64,6 +64,7 @@ related_changes:
   performance of @ file mentions - file suggestions now appear faster…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931|claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931]]'
 source_type: github_releases
+superseded: true
 theme: reliability-performance
 title: Improved memory usage in long-running sessions by releasing API stream buffers…
 type: change

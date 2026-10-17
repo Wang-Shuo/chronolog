@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d8a062cd868426f5d579b2d05a95b5670d1ff9c7c8aed5034d21a91281ce0296
+machine_hash: 8a56f6551992f590e139e8b9586ee29f49034f86f9e4d821a97701b62aa50b9a
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   images are easier to view, and your recent conversations are easier to browse]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918|claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Cost estimates (/cost, status line, --max-budget-usd) now include…
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: fb165188b6b07fb7983d189a9822cbf07d21e7cc4386f5ee8b6ccd7bf8bae6f1
+machine_hash: 6d4b858fa1a7772cc0bf1fb4c5f237bb99161269f551391f82c5ea8db6cf4403
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   average review time for Bugbot is now ~90 seconds, down from ~5 minutes]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-12-v2-1-176-github-338777362-91e3deb6|claude-code-2026-06-12-v2-1-176-github-338777362-91e3deb6]]'
 source_type: github_releases
+superseded: true
 theme: reliability-performance
 title: Background sessions now show clearer guidance when a window left open across…
 type: change

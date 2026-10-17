@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 440205ad4ea85e33dde647679c14350b4d9cc8f3e3fa6a6b7e4c8331b92e31e0
+machine_hash: 03764b9c4756162783572c0526b1b3a15edfe7e831c8c0c855af871e5e0cd591
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   Copilot++: a few hundred milliseconds faster, through various networking…]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-15-0-22-1-nightly-https-cursor-com-changelog-0-22-1-nightly-a39dbb5c|cursor-2024-01-15-0-22-1-nightly-https-cursor-com-changelog-0-22-1-nightly-a39dbb5c]]'
 source_type: cursor_changelog
+superseded: true
 theme: reliability-performance
 title: We'll be working to improve its performance over the coming weeks
 type: change

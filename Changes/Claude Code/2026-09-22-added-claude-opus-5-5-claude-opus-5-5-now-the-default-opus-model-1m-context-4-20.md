@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 342ca08df9191cd3ed7ee2a2a6eab7efee4394ea06de49f155a134fa253ad7f5
+machine_hash: 1e5760b109e49bbf14507d508c70a273f292eed7075552bbe3b8de755552ac11
 product: claude-code
 product_name: Claude Code
 record:
@@ -63,6 +63,7 @@ related_changes:
   a send-now key (ctrl+enter, or ctrl+x ctrl+s) that interrupts the current turn…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Added Claude Opus 5.5 (claude-opus-5-5), now the default Opus model
 type: change

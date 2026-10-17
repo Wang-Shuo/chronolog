@@ -3,7 +3,7 @@ changes_count: 3
 date: '2024-08-02'
 description: 'Cursor release Faster Cursor Tab, More Composer improvements on 2024-08-02:
   3 tracked changes across Agent Mode, Editor Experience, Reliability and Performance'
-machine_hash: f45ab0b98b419eff84a277c2783ab80f6015566e8583342dfdb880aca126736b
+machine_hash: a1f615bf1dd7be87fceba8cc5e1bda59167895d6f2d13decde63a50609e596c1
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ version: 0.39.x
 <!-- chronolog:begin region="summary" -->
 Cursor Tab (previously called Copilot++) defaults to chunked streaming. This build also includes several Cursor Tab speedups. More to come in future builds!
 
-Tracked 3 of 4 candidate lines.
+Tracked 3 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

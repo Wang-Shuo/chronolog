@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: d164e1d6a435a5aaf008d7de4ff0941e7997a0d4b7f54516a9b82fc67302d264
+kind: change
+machine_hash: db3284345d662638b99f60c2dcca0d524edc66c27d821b86be225e673d1ac058
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
       events with `vcs.*` repository attributes; commit events get `vcs.ref.head.*`
       with `OTEL_LOG_TOOL_DETAILS`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.269
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-otel-metrics-include-repository-to-tag-opentelemetry-metrics-and-events-wi
@@ -44,12 +46,12 @@ record:
     events…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-added-attach-logs-stop-respawn-and-rm-to-claude-help-the-resume-message-for-a-ru|Added
-  attach, logs, stop, respawn, and rm to claude --help]]'
-- '[[Changes/Claude Code/2026-09-04-added-bashoutputmaxchars-and-taskoutputmaxchars-settings-to-raise-how-much-comma|Added
-  bashOutputMaxChars and taskOutputMaxChars settings to raise how much…]]'
-- '[[Changes/Claude Code/2026-09-09-improved-the-bash-tool-s-description-guidance-so-claude-describes-what-a-command|Improved
-  the Bash tool''s description guidance so Claude describes what a command…]]'
+- '[[Changes/Claude Code/2026-09-08-improved-worktree-startup-on-large-repositories-the-new-worktree-is-now-checked|Improved
+  --worktree startup on large repositories]]'
+- '[[Changes/Claude Code/2026-09-09-3-developer-workflow-changes-in-v2-1-267|3 Developer
+  Workflow changes in v2.1.267]]'
+- '[[Changes/Claude Code/2026-09-10-code-review-added-a-note-under-the-still-open-findings-list-in-follow-up-reviews|Code
+  Review Added a note under the still-open findings list in follow-up reviews]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-11-v2-1-269-github-387243742-288e9189|claude-code-2026-09-11-v2-1-269-github-387243742-288e9189]]'
 source_type: github_releases
 theme: developer-workflow
@@ -72,17 +74,23 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-09-11-added-a-diff-of-the-files-a-bash-command-changed-to-the-bash-tool-result-when-th|Added a diff of the files a Bash command changed to the Bash tool result…]] · Editor Experience
+- [[Changes/Claude Code/2026-09-11-vscode-improved-documents-and-messages-written-for-someone-other-than-the-user-c|VSCode Improved documents and messages written for someone other than the user]] · Files and Data
+- [[Changes/Claude Code/2026-09-11-5-apps-and-integrations-changes-in-v2-1-269|5 Apps and Integrations changes in v2.1.269]] · Apps and Integrations
 - [[Changes/Claude Code/2026-09-11-added-output-style-name-to-list-and-switch-output-styles-including-over-remote-c|Added /output-style name to list and switch output styles, including over Remote…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-09-11-changed-skills-synced-from-claude-ai-in-cloud-sessions-to-be-named-anthropic-ski|Changed skills synced from claude.ai in cloud sessions to be named…]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-09-11-3-interface-experience-changes-in-v2-1-269|3 Interface Experience changes in v2.1.269]] · Interface Experience
+- [[Changes/Claude Code/2026-09-11-improved-responsiveness-in-long-sessions-transcript-updates-no-longer-re-process|Improved responsiveness in long sessions]] · Reliability and Performance
+- [[Changes/Claude Code/2026-09-11-3-editor-experience-changes-in-v2-1-269|3 Editor Experience changes in v2.1.269]] · Editor Experience
 - [[Changes/Claude Code/2026-09-11-added-claude-code-gateway-model-discovery-timeout-ms-to-extend-the-llm-gateway-v|Added CLAUDE_CODE_GATEWAY_MODEL_DISCOVERY_TIMEOUT_MS to extend the LLM gateway…]] · Model Support
-- [[Changes/Claude Code/2026-09-11-added-claude-plugin-eval-run-a-plugin-s-eval-suite-against-claude-code-and-get-s|Added claude plugin eval]] · Apps and Integrations
+- [[Changes/Claude Code/2026-09-11-2-agent-mode-changes-in-v2-1-269|2 Agent Mode changes in v2.1.269]] · Agent Mode
+- [[Changes/Claude Code/2026-09-11-5-safety-and-privacy-changes-in-v2-1-269|5 Safety and Privacy changes in v2.1.269]] · Safety and Privacy
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-improved-the-bash-tool-s-description-guidance-so-claude-describes-what-a-command|Improved the Bash tool's description guidance so Claude describes what a command…]]
-- Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-added-syncing-of-the-skills-and-plugins-enabled-on-your-claude-ai-account-to-ter|Added syncing of the skills and plugins enabled on your claude.ai account…]]
+- Earlier: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-code-review-added-a-note-under-the-still-open-findings-list-in-follow-up-reviews|Code Review Added a note under the still-open findings list in follow-up reviews]]
+- Later: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-3-developer-workflow-changes-in-v2-1-273|3 Developer Workflow changes in v2.1.273]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

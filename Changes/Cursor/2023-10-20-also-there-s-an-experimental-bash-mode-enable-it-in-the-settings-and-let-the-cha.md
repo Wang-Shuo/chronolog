@@ -14,9 +14,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 59322adacd967d2385b3842ede8a7ff0359b0e3c208a143d8e49bb231f814536
+kind: change
+machine_hash: 93127ba0e0a0b6fa3d77567648e25e9b2f3f43dcf8ecff9c6d71c86cee560231
 product: cursor
 product_name: Cursor
 record:
@@ -33,8 +34,9 @@ record:
       find it useful, please let us know, and we will spend more time on making it
       production-ready!'
     source_release: https://cursor.com/changelog/0-13-0-0-13-4
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: also-there-s-an-experimental-bash-mode-enable-it-in-the-settings-and-let-the-cha
@@ -46,10 +48,10 @@ record:
   title: Also, there's an experimental bash mode
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-05-ships-with-cursor-python-a-language-server-fork-of-pyright-built-for-cursor|Ships
-  with cursor-python, a Language-Server fork of pyright built for Cursor]]'
-- '[[Changes/Cursor/2023-09-23-never-lets-your-root-directory-be-in-the-gitignore|never
-  lets your root directory be in the gitignore]]'
+- '[[Changes/Cursor/2023-09-05-ships-with-cursor-python-a-language-server-fork-of-pyright-built-for-cursor|Cursor-Python
+  LSP]]'
+- '[[Changes/Cursor/2023-09-23-never-lets-your-root-directory-be-in-the-gitignore|gitignore
+  and search hotfix]]'
 - '[[Changes/Cursor/2023-10-01-ask-about-git-commits-and-prs-using-git-in-chat|Ask
   about git commits and PRs using @git in chat!]]'
 source_release: '[[Releases/Cursor/cursor-2023-10-20-0-13-0-0-13-4-https-cursor-com-changelog-0-13-0-0-13-4-5f700e1b|cursor-2023-10-20-0-13-0-0-13-4-https-cursor-com-changelog-0-13-0-0-13-4-5f700e1b]]'
@@ -81,7 +83,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2023-10-01 · Cursor · [[Changes/Cursor/2023-10-01-ask-about-git-commits-and-prs-using-git-in-chat|Ask about git commits and PRs using @git in chat!]]
-- Later: 2024-01-06 · Cursor · [[Changes/Cursor/2024-01-06-wsl-and-dev-containers-should-now-work-properly|WSL and Dev Containers should now work properly]]
+- Later: 2024-01-06 · Cursor · [[Changes/Cursor/2024-01-06-wsl-and-dev-containers-should-now-work-properly|Better Remote Support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

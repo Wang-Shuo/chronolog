@@ -15,9 +15,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: b337b7ac32d25c1ec128ed6d483aca69cd19999c6e7d9de853fd9dc1fe6b8e75
+kind: change
+machine_hash: 47e7e96cb7bb1a06a191fe3b16394eab33a4b28ef11670b3235f91598f5c8044
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   - quote: 'Improved focus mode: Claude now writes more self-contained summaries since
       it knows you only see its final message'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.101
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-focus-mode-claude-now-writes-more-self-contained-summaries-since-it-kno
@@ -43,12 +45,12 @@ record:
   title: Improved focus mode
   type: change
 related_changes:
+- '[[Changes/Cursor/2026-04-02-deprecated-the-previous-worktree-and-best-of-n-selection-from-the-editor|Deprecated
+  the previous worktree and best-of-n selection from the Editor]]'
 - '[[Changes/Claude Code/2026-04-04-release-notes-is-now-an-interactive-version-picker|/release-notes
   is now an interactive version picker]]'
-- '[[Changes/Claude Code/2026-04-08-added-refreshinterval-status-line-setting-to-re-run-the-status-line-command-ever|Added
-  refreshInterval status line setting to re-run the status line command every…]]'
-- '[[Changes/Claude Code/2026-04-08-added-focus-view-toggle-ctrl-o-in-no-flicker-mode-showing-prompt-one-line-tool-s|Added
-  focus view toggle (Ctrl+O) in NO_FLICKER mode showing prompt, one-line…]]'
+- '[[Changes/Claude Code/2026-04-08-2-interface-experience-changes-in-v2-1-97|2 Interface
+  Experience changes in v2.1.97]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642|claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642]]'
 source_type: github_releases
 theme: interface-experience
@@ -71,17 +73,20 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-04-10-fixed-a-command-injection-vulnerability-in-the-posix-which-fallback-used-by-lsp|Fixed a command injection vulnerability in the POSIX which fallback used by LSP…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-04-10-improved-tool-not-available-errors-to-explain-why-and-how-to-proceed-when-the-mo|Improved tool-not-available errors to explain why and how to proceed when the model…]] · Context Window
 - [[Changes/Claude Code/2026-04-10-added-team-onboarding-command-to-generate-a-teammate-ramp-up-guide-from-your-loc|Added /team-onboarding command to generate a teammate ramp-up guide…]] · Collaboration
 - [[Changes/Claude Code/2026-04-10-ultraplan-and-other-remote-session-features-now-auto-create-a-default-cloud-envi|/ultraplan and other remote-session features now auto-create a default cloud…]] · Agent Mode
 - [[Changes/Claude Code/2026-04-10-improved-brief-mode-to-retry-once-when-claude-responds-with-plain-text-instead-o|Improved brief mode to retry once when Claude responds with plain text instead…]] · Reliability and Performance
+- [[Changes/Claude Code/2026-04-10-4-apps-and-integrations-changes-in-v2-1-101|4 Apps and Integrations changes in v2.1.101]] · Apps and Integrations
 - [[Changes/Claude Code/2026-04-10-added-os-ca-certificate-store-trust-by-default-so-enterprise-tls-proxies-work-wi|Added OS CA certificate store trust by default, so enterprise TLS proxies work…]] · Enterprise and Administration
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-added-focus-view-toggle-ctrl-o-in-no-flicker-mode-showing-prompt-one-line-tool-s|Added focus view toggle (Ctrl+O) in NO_FLICKER mode showing prompt, one-line…]]
-- Later: 2026-04-13 · Cursor · [[Changes/Cursor/2026-04-13-expand-panes-to-focus-on-a-conversation-drag-agents-into-tiles-and-use-keybindin|Expand panes to focus on a conversation, drag agents into tiles, and use keybindings…]]
+- Earlier: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-2-interface-experience-changes-in-v2-1-97|2 Interface Experience changes in v2.1.97]]
+- Later: 2026-04-13 · Claude Code · [[Changes/Claude Code/2026-04-13-improved-network-error-messages-connection-errors-now-show-a-retry-message-immed|Improved network error messages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

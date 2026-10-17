@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a6156e051c0cc49d17513484c92192b76aeada22cf4e68076b36e836353f3677
+machine_hash: c6f73e3957274c70587134d1f24982460f79a71ff468f32501273b500ebc94f2
 product: cursor
 product_name: Cursor
 record:
@@ -52,6 +52,7 @@ related_changes:
   are deprecating the Legacy (GPT-3.5) model on May 10th]]'
 source_release: '[[Releases/Cursor/cursor-2023-05-20-0-2-18-https-cursor-com-changelog-0-2-18-ba8b7390|cursor-2023-05-20-0-2-18-https-cursor-com-changelog-0-2-18-ba8b7390]]'
 source_type: cursor_changelog
+superseded: true
 theme: model-support
 title: Switching between models is a lot more easy, and the transition to gpt-4 is
   a lot smoother

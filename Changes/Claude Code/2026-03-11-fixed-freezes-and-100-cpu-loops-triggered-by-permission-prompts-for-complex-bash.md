@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 2c61de91a138e8511506665a9dd09a69a6078d55f9e92be748a3a18276eb78ed
+kind: fix
+machine_hash: 41b869692caebffb9d2d046c2287db1bd750e82d9bb46455fb7ec4bd6d1cbf61
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Fixed freezes and 100% CPU loops triggered by permission prompts for complex
       bash commands
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.73
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: fix
   product: claude-code
   product_name: Claude Code
   slug: fixed-freezes-and-100-cpu-loops-triggered-by-permission-prompts-for-complex-bash
@@ -43,12 +45,12 @@ record:
     bash commands
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-24-fixed-a-security-issue-where-statusline-and-filesuggestion-hook-commands-could-e|Fixed
-  a security issue where statusLine and fileSuggestion hook commands could…]]'
 - '[[Changes/Cursor/2026-03-05-when-invoked-the-agent-spins-up-a-cloud-sandbox-and-follows-your-instructions-us|When
   invoked, the agent spins up a cloud sandbox and follows your instructions using…]]'
 - '[[Changes/Claude Code/2026-03-07-fixed-false-positive-permission-prompts-for-compound-bash-commands-containing-he|Fixed
   false-positive permission prompts for compound bash commands containing…]]'
+- '[[Changes/Claude Code/2026-03-10-6-safety-and-privacy-changes-in-v2-1-72|6 Safety
+  and Privacy changes in v2.1.72]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f|claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f]]'
 source_type: github_releases
 theme: safety-privacy
@@ -60,7 +62,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Fixed freezes and 100% CPU loops triggered by permission prompts for complex bash commands
 
-**Claude Code** · 2026-03-11 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.73) · from [[Releases/Claude Code/claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f|v2.1.73]]
+**Claude Code** · 2026-03-11 · [[Themes/safety-privacy|Safety and Privacy]] · Fix · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.73) · from [[Releases/Claude Code/claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f|v2.1.73]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -72,16 +74,20 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-03-11-improved-up-arrow-after-interrupting-claude-now-restores-the-interrupted-prompt|Improved Up arrow after interrupting Claude]] · Interface Experience
 - [[Changes/Claude Code/2026-03-11-improved-ide-detection-speed-at-startup|Improved IDE detection speed at startup]] · Reliability and Performance
-- [[Changes/Claude Code/2026-03-11-added-modeloverrides-setting-to-map-model-picker-entries-to-custom-provider-mode|Added modelOverrides setting to map model picker entries to custom provider model…]] · Interface Experience
+- [[Changes/Claude Code/2026-03-11-improved-voice-mode-to-automatically-retry-transient-connection-failures-during|Improved voice mode to automatically retry transient connection failures during…]] · Voice and Audio
 - [[Changes/Claude Code/2026-03-11-added-actionable-guidance-when-oauth-login-or-connectivity-checks-fail-due-to-ss|Added actionable guidance when OAuth login or connectivity checks fail due to SSL…]] · Account and Access
+- [[Changes/Claude Code/2026-03-11-2-interface-experience-changes-in-v2-1-73|2 Interface Experience changes in v2.1.73]] · Interface Experience
+- [[Changes/Claude Code/2026-03-11-deprecated-output-style-command-use-config-instead-output-style-is-now-fixed-at|Deprecated /output-style command — use /config instead]] · Developer Workflow
+- [[Changes/Claude Code/2026-03-11-improved-clipboard-image-pasting-performance-on-macos|Improved clipboard image pasting performance on macOS]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-03-11-improved-the-remote-control-spawn-mode-selection-prompt-with-better-context|Improved the Remote Control spawn mode selection prompt with better context]] · Context Window
+- [[Changes/Claude Code/2026-03-11-2-model-support-changes-in-v2-1-73|2 Model Support changes in v2.1.73]] · Model Support
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-03-07 · Claude Code · [[Changes/Claude Code/2026-03-07-fixed-false-positive-permission-prompts-for-compound-bash-commands-containing-he|Fixed false-positive permission prompts for compound bash commands containing…]]
+- Earlier: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-6-safety-and-privacy-changes-in-v2-1-72|6 Safety and Privacy changes in v2.1.72]]
 - Later: 2026-03-12 · Claude Code · [[Changes/Claude Code/2026-03-12-fixed-voice-mode-silently-failing-on-the-macos-native-binary-for-users-whose-ter|Fixed voice mode silently failing on the macOS native binary for users whose…]]
 <!-- chronolog:end -->
 

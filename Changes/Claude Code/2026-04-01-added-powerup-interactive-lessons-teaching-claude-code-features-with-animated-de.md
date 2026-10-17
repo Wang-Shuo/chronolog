@@ -14,9 +14,10 @@ diffusion:
   theme: learning-tools
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: d1a9f45623093cea57759049801b0bde7921fc01cfc11025cb3ce734fd1ad38e
+kind: change
+machine_hash: 396fdf6c3e78bf24525b97b731bebb3c44623428cf5adb697a312bb6b7825156
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added `/powerup` — interactive lessons teaching Claude Code features with
       animated demos
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.90
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-powerup-interactive-lessons-teaching-claude-code-features-with-animated-de
@@ -47,8 +49,8 @@ related_changes:
   concepts into easy to follow sections starting simple and adding complexity…]]'
 - '[[Changes/ChatGPT/2025-07-29-guide-understanding-with-socratic-style-questions|Guide
   understanding with Socratic-style questions]]'
-- '[[Changes/ChatGPT/2026-03-10-when-you-ask-chatgpt-about-certain-topics-it-can-now-present-an-interactive-visu|When
-  you ask ChatGPT about certain topics, it can now present an interactive visual…]]'
+- '[[Changes/ChatGPT/2026-03-10-when-you-ask-chatgpt-about-certain-topics-it-can-now-present-an-interactive-visu|Interactive
+  learning for math and science]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b|claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b]]'
 source_type: github_releases
 theme: learning-tools
@@ -72,16 +74,16 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-04-01-added-husky-to-protected-directories-acceptedits-mode|Added .husky to protected directories (acceptEdits mode)]] · Safety and Privacy
-- [[Changes/Claude Code/2026-04-01-fixed-ui-crash-when-malformed-tool-input-reached-the-permission-dialog|Fixed UI crash when malformed tool input reached the permission dialog]] · Safety and Privacy
-- [[Changes/Claude Code/2026-04-01-added-claude-code-plugin-keep-marketplace-on-failure-env-var-to-keep-the-existin|Added CLAUDE_CODE_PLUGIN_KEEP_MARKETPLACE_ON_FAILURE env var to keep the existing…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-04-01-hardened-powershell-tool-permission-checks-fixed-trailing-background-job-bypass|Hardened PowerShell tool permission checks]] · Safety and Privacy
+- [[Changes/Claude Code/2026-04-01-2-reliability-and-performance-changes-in-v2-1-90|2 Reliability and Performance changes in v2.1.90]] · Reliability and Performance
+- [[Changes/Claude Code/2026-04-01-4-safety-and-privacy-changes-in-v2-1-90|4 Safety and Privacy changes in v2.1.90]] · Safety and Privacy
+- [[Changes/Claude Code/2026-04-01-changed-resume-picker-to-no-longer-show-sessions-created-by-claude-p-or-sdk-invo|Changed --resume picker to no longer show sessions created by claude -p or SDK…]] · Interface Experience
+- [[Changes/Claude Code/2026-04-01-2-apps-and-integrations-changes-in-v2-1-90|2 Apps and Integrations changes in v2.1.90]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Learning Tools
 
-- Earlier: 2026-03-10 · ChatGPT · [[Changes/ChatGPT/2026-03-10-when-you-ask-chatgpt-about-certain-topics-it-can-now-present-an-interactive-visu|When you ask ChatGPT about certain topics, it can now present an interactive visual…]]
+- Earlier: 2026-03-10 · ChatGPT · [[Changes/ChatGPT/2026-03-10-when-you-ask-chatgpt-about-certain-topics-it-can-now-present-an-interactive-visu|Interactive learning for math and science]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -1,9 +1,9 @@
 ---
-changes_count: 2
+changes_count: 1
 date: '2026-09-29'
 description: 'ChatGPT release Use your ChatGPT allowance in participating apps on
-  2026-09-29: 2 tracked changes across Apps and Integrations, Model Support'
-machine_hash: 6988c70f472c435ee076f4543927d210dde3ac1a4a4e3c51866a9952424d0463
+  2026-09-29: 1 tracked change across Model Support'
+machine_hash: 1169a3b8c788e8ddc798cd5adb2392999101cfa2bae764eb4104e95acd2a481f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,11 +41,10 @@ version: Use your ChatGPT allowance in participating apps
 <!-- chronolog:begin region="summary" -->
 Eligible Plus and Pro users can authorize participating apps to use their ChatGPT model allowance without creating an API key. Choose which apps can use your allowance and set an app-specific limit. Usage counts toward your existing plan allowance; connecting an app does not add more usage.
 
-Tracked 2 of 3 candidate lines.
+Tracked 1 card from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-09-29-this-is-a-limited-preview-with-participating-integrations-using-purchased-credit|This is a limited preview with participating integrations]] · Apps and Integrations
-- [[Changes/ChatGPT/2026-09-29-eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp|Eligible Plus and Pro users can authorize participating apps to use their ChatGPT…]] · Model Support
+- [[Changes/ChatGPT/2026-09-29-eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp-2448bf|Use your ChatGPT allowance in participating apps]] · Model Support
 <!-- chronolog:end -->

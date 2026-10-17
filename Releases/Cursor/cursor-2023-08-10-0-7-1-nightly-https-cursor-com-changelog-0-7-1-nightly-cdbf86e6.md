@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-08-10'
 description: 'Cursor release Cmd-K fast mode on 2023-08-10: 1 tracked change across
   Editor Experience'
-machine_hash: aa3f73b71f1e3e063ed17bac82cb5fdad52481a59e12464860c493838daf7540
+machine_hash: 528fcca8f6a388d3912fc9ac4faf9294d3a0a370ea0b7a3fda7c2be27791c291
 product: cursor
 product_name: Cursor
 record:
@@ -39,10 +39,10 @@ version: 0.7.1-nightly
 <!-- chronolog:begin region="summary" -->
 Cmd-K now has a fast mode! It is about 1 second faster, and we're working on making it even faster. Let us know what you think!
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-08-10-cmd-k-now-has-a-fast-mode-it-is-about-1-second-faster-and-we-re-working-on-makin|Cmd-K now has a fast mode!]] · Editor Experience
+- [[Changes/Cursor/2023-08-10-cmd-k-now-has-a-fast-mode-it-is-about-1-second-faster-and-we-re-working-on-makin|Cmd-K fast mode]] · Editor Experience
 <!-- chronolog:end -->

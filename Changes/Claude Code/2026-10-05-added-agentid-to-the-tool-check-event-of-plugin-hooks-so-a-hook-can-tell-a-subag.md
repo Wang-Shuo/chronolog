@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 76f3d6aeace5ebc56dde803630c870246a3a2d1d590092f53a0eabda57278986
+machine_hash: ac2ef9e7854265471a5fe1a206c9e923ab73c2824d3c8d7e74b38a98612526c8
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,6 +61,7 @@ related_changes:
   a count such as "2 of 5" to the permission prompt when several permission…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6|claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Added agentId to the tool.check event of plugin hooks, so a hook can tell…
 type: change

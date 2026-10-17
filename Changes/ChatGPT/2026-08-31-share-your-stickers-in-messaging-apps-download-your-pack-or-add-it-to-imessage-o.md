@@ -4,19 +4,19 @@ date: '2026-08-31'
 description: 'ChatGPT · 2026-08-31 · Collaboration: Share your stickers in messaging
   apps. Download your pack or add it to iMessage or WhatsApp on supported devices.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
-    can also share private docs]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1088
+  lag_days: 1195
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 196e3126899c67ddb4bbb8afe46673ccb0e6e3b81364f6e99fbb31484fda1b60
+kind: change
+machine_hash: ab2f2a254e02c00a294cab0f31d1841387826160a45f0ee2fcc7f394dfe78ce9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,8 +30,9 @@ record:
   - quote: Share your stickers in messaging apps. Download your pack or add it to
       iMessage or WhatsApp on supported devices.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o
@@ -51,11 +52,10 @@ record:
   title: Share your stickers in messaging apps
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w|Existing
-  group chats will remain available and can continue to be used for now]]'
-- '[[Changes/ChatGPT/2026-08-13-the-initial-experience-includes-my-drive-and-files-and-folders-shared-directly-w|The
-  initial experience includes My Drive and files and folders shared directly with
-  you]]'
+- '[[Changes/Claude Code/2026-08-13-hardened-the-auto-generated-cross-session-messaging-socket-directory-on-shared-t|Hardened
+  the auto-generated cross-session messaging socket directory on shared /tmp]]'
+- '[[Changes/Claude Code/2026-08-17-removed-the-default-teammate-model-setting-from-config-agent-team-teammates-now|Removed
+  the "Default teammate model" setting from /config]]'
 - '[[Changes/ChatGPT/2026-08-20-share-a-read-only-snapshot-of-a-codex-chat-personal-share-links-can-be-opened-by|Share
   a read-only snapshot of a Codex chat]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-31-create-and-share-personalized-sticker-packs-120616f6|chatgpt-2026-08-31-create-and-share-personalized-sticker-packs-120616f6]]'
@@ -85,13 +85,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-08-20 · ChatGPT · [[Changes/ChatGPT/2026-08-20-share-a-read-only-snapshot-of-a-codex-chat-personal-share-links-can-be-opened-by|Share a read-only snapshot of a Codex chat]]
-- Later: 2026-09-03 · ChatGPT · [[Changes/ChatGPT/2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside|Eligible Site owners can now share a live ChatGPT Site with named people outside…]]
+- Later: 2026-09-03 · ChatGPT · [[Changes/ChatGPT/2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside|Share Sites with people outside your workspace]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

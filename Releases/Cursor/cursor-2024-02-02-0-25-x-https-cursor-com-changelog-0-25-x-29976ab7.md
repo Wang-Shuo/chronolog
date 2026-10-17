@@ -3,7 +3,7 @@ changes_count: 4
 date: '2024-02-02'
 description: 'Cursor release Command-K Vision Support on 2024-02-02: 4 tracked changes
   across Reliability and Performance, Interface Experience, Projects and Workspaces'
-machine_hash: 7866965be0de7a2181c406c3ae1d9b89c95867f2d025a42c8cc20f28ef3a8c71
+machine_hash: 4533b7339f0318cec5360c11316acab071bf114f1650e57de7b82958bbbbb7f5
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.25.x
 <!-- chronolog:begin region="summary" -->
 You can now drag images into the Command-K prompt bar!
 
-Tracked 4 of 6 candidate lines.
+Tracked 4 cards from 6 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

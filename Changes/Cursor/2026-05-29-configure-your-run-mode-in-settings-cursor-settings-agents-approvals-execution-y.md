@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 88ea324c8b82335333d8d259077d43cb8872210a34141f9cbaa812ddf703fc25
+machine_hash: 9053ae8f924dea4add16e803789cdd8b81a6300f00e593c709a04658f02f7bbd
 product: cursor
 product_name: Cursor
 record:
@@ -62,6 +62,7 @@ related_changes:
   is a new run mode that allows Cursor to work for longer with fewer…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-29-3-6-https-cursor-com-changelog-auto-review-c5d7c919|cursor-2026-05-29-3-6-https-cursor-com-changelog-auto-review-c5d7c919]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Configure your run mode in Settings  Cursor Settings  Agents  Approvals & Execution
 type: change

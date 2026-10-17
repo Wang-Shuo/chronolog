@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b7901a623896a272d3cf8181be084bc86758dee80b62b9bfbee46480d8defbec
+machine_hash: 5b792b2c5519617d45652cdf31a1e5f728dc3f94ffb6a7ef882812f80051c603
 product: cursor
 product_name: Cursor
 record:
@@ -50,6 +50,7 @@ related_changes:
   automations at cursor.com/automations, or start from a template]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422|cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422]]'
 source_type: cursor_changelog
+superseded: true
 theme: automation-scheduling
 title: Automations run on schedules or are triggered by events from Slack, Linear,
   GitHub…

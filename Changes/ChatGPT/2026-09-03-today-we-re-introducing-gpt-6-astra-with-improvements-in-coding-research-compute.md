@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 21d5a7ba885760805b9a0bae58c779b74357516a50b5135c39e2fea5dc6e85cd
+machine_hash: dbc3a9f285f5b678ec242108c8b7e266af754b862028d8188c4ca00843bcdde1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,6 +56,7 @@ related_changes:
   s in /effort to change effort for the current session only, matching /model]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-03-introducing-gpt-6-astra-d055fc02|chatgpt-2026-09-03-introducing-gpt-6-astra-d055fc02]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: ChatGPT introduces GPT-6 Astra, with improvements in coding, research, computer
   use…

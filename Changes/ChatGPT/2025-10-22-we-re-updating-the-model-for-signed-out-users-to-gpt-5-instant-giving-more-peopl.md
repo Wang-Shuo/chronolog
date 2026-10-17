@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 04f7d6bbd7cf55b96bb54d7b2b96cf3ff6fdc6ad4397b6711767bb30107da08f
+kind: change
+machine_hash: 876250b982e55d625e16b2e163371188d8bdecda9e3220c59f2c4f63e09ae797
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,8 +35,9 @@ record:
       more people access to higher-quality responses by default. See here to learn
       more about the intelligence of GPT-5.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-updating-the-model-for-signed-out-users-to-gpt-5-instant-giving-more-peopl
@@ -48,12 +50,12 @@ record:
     people…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-17-all-queries-default-to-standard-unless-you-choose-to-change-it-once-you-choose-a|All
-  queries default to Standard unless you choose to change it]]'
-- '[[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|We’re
-  improving the quality and latency of responses of the version of Advanced…]]'
-- '[[Changes/ChatGPT/2025-10-03-we-re-updating-gpt-5-instant-to-better-recognize-and-support-people-in-moments-o-ea32fc|We’re
-  updating GPT-5 Instant to better recognize and support people in moments of distress]]'
+- '[[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|Voice
+  Updates]]'
+- '[[Changes/ChatGPT/2025-09-29-opt-out-of-model-training-so-their-teen-s-conversations-won-t-be-used-to-improve|Opt
+  out of model training, so their teen’s conversations won’t be used to improve…]]'
+- '[[Changes/ChatGPT/2025-10-03-we-re-updating-gpt-5-instant-to-better-recognize-and-support-people-in-moments-o-ea32fc|Updating
+  GPT-5]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-22-we-re-updating-the-model-for-signed-out-users-to-gpt-5-instant-g-0943c46f|chatgpt-2025-10-22-we-re-updating-the-model-for-signed-out-users-to-gpt-5-instant-g-0943c46f]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -81,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-10-03 · ChatGPT · [[Changes/ChatGPT/2025-10-03-we-re-updating-gpt-5-instant-to-better-recognize-and-support-people-in-moments-o-ea32fc|We’re updating GPT-5 Instant to better recognize and support people in moments of distress]]
-- Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-introducing-our-first-agentic-coding-model-composer-is-a-frontier-model-that-is|Introducing our first agentic coding model]]
+- Earlier: 2025-10-03 · ChatGPT · [[Changes/ChatGPT/2025-10-03-we-re-updating-gpt-5-instant-to-better-recognize-and-support-people-in-moments-o-ea32fc|Updating GPT-5]]
+- Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-introducing-our-first-agentic-coding-model-composer-is-a-frontier-model-that-is|Composer]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

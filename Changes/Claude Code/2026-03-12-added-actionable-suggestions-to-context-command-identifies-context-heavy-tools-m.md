@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: bb00bbd1db5a7912a78d8d8b7aa992877e1a1a16294a955aa835ace3e214a9a1
+machine_hash: 20fc3bd065f47380a9045d91125c0a15e59d6021734cd7d728a5f7fe1e8ab967
 product: claude-code
 product_name: Claude Code
 record:
@@ -59,6 +59,7 @@ related_changes:
   autoMemoryDirectory setting to configure a custom directory for auto-memory…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae|claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae]]'
 source_type: github_releases
+superseded: true
 theme: memory
 title: Added actionable suggestions to /context command
 type: change

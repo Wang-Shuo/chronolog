@@ -1,53 +1,103 @@
 ---
 card_id: chatgpt-2025-03-18-d84098
 date: '2025-03-18'
+description: 'ChatGPT · 2025-03-18 · Reliability and Performance: Improved display
+  and faster streaming of conversations and message menu actions.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  inference: No adoption, equivalence, or causation claim.
   lag_days: 824
-  role: variant
+  relation: same-theme-chronology
+  role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
   tracked_products_count: 3
-evolves_from:
-- '[[Changes/ChatGPT/2025-03-18-in-line-message-error-retries-if-you-encounter-a-message-error-you-can-retry-or|chatgpt-2025-03-18-3efd26]]'
-extractor_version: fallback-v2
+evolves_from: []
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: fff92bc9fc3615fe5b74bbced73cfb438d798ad74902d9d176107462ae139895
+kind: change
+machine_hash: 3080e4abe922e3eda2541bf7edcb43060ee7bb807689265c4b0b4f5075db88a7
 product: chatgpt
 product_name: ChatGPT
+record:
+  card_id: chatgpt-2025-03-18-d84098
+  comparison: ''
+  date: '2025-03-18'
+  description: 'ChatGPT — iOS App: Improved display and faster streaming of conversations
+    and message menu actions.'
+  evidence:
+  - quote: Improved display and faster streaming of conversations and message menu
+      actions.
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: chatgpt
+  product_name: ChatGPT
+  slug: improved-display-and-faster-streaming-of-conversations-and-message-menu-actions
+  source_release: chatgpt-2025-03-18-ios-app-6a42bb0f
+  source_type: chatgpt_changelog
+  theme: reliability-performance
+  theme_matches:
+  - matched_terms:
+    - menu
+    score: 50
+    theme: interface-experience
+  - matched_terms:
+    - faster
+    score: 50
+    theme: reliability-performance
+  theme_resolution: manual-semantic-rule-v1
+  title: Improved display and faster streaming of conversations and message menu actions
+  type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-11-0-47-1-improved-performance-added-back-play-button-to-apply-code-blocks|cursor-2025-03-11-9cd231]]'
-- '[[Changes/Cursor/2025-03-11-0-47-6-faster-applies-warns-user-when-edits-fails-because-of-cursorignore|cursor-2025-03-11-e25337]]'
-- '[[Changes/ChatGPT/2025-03-18-in-line-message-error-retries-if-you-encounter-a-message-error-you-can-retry-or|chatgpt-2025-03-18-3efd26]]'
+- '[[Changes/Cursor/2025-03-11-5-reliability-and-performance-changes-in-0-47-x|5 Reliability
+  and Performance changes in 0.47.x]]'
+- '[[Changes/Cursor/2025-03-11-this-release-focuses-mainly-on-stability-and-performance-improvements-to-make-ex|This
+  release focuses mainly on stability and performance improvements to make…]]'
+- '[[Changes/ChatGPT/2025-03-18-in-line-message-error-retries-if-you-encounter-a-message-error-you-can-retry-or|In-line
+  message error retries]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-ios-app-6a42bb0f|chatgpt-2025-03-18-ios-app-6a42bb0f]]'
-superseded: true
+source_type: chatgpt_changelog
 theme: reliability-performance
+title: Improved display and faster streaming of conversations and message menu actions
 type: change
 ---
 
-# Improved display and faster streaming of conversations and message menu actions.
+<!-- chronolog:begin region="header" -->
+# Improved display and faster streaming of conversations and message menu actions
 
-<!-- chronolog:begin region="description" -->
-Improved display and faster streaming of conversations and message menu actions.
+**ChatGPT** · 2025-03-18 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-03-18-ios-app-6a42bb0f|iOS App]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Improved display and faster streaming of conversations and message menu actions.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_12a3315bc9
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="evolution" -->
-- [[Changes/ChatGPT/2025-03-18-in-line-message-error-retries-if-you-encounter-a-message-error-you-can-retry-or|chatgpt-2025-03-18-3efd26]]
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ChatGPT/2025-03-18-added-long-press-on-your-message-to-open-menu-actions-copy-edit|Added long press on your message to open menu actions: Copy, Edit]] · Interface Experience
+- [[Changes/ChatGPT/2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved table-copying functionality out of ChatGPT responses on iOS and macOS]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-03-18-improved-response-display-of-nested-blockquote-content|Improved response display of nested blockquote content]] · Interface Experience
 <!-- chronolog:end -->
 
-<!-- chronolog:begin region="diffusion" -->
-- Theme: reliability-performance
-- Scope: tracked-products-only
-- Role: variant
-- First In Tracked: [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|chatgpt-2022-12-15-9c6f9c]]
-- Lag Days: 824
-- Tracked Products Count: 3
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Reliability and Performance
+
+- Earlier: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-in-line-message-error-retries-if-you-encounter-a-message-error-you-can-retry-or|In-line message error retries]]
+- Later: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-2-reliability-and-performance-changes-in-0-48-x|2 Reliability and Performance changes in 0.48.x]]
 <!-- chronolog:end -->
 
-## Editor Notes
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-03-18-d84098&body=Card%3A%20Changes%2FChatGPT%2F2025-03-18-improved-display-and-faster-streaming-of-conversations-and-message-menu-actions.md%0ACard%20ID%3A%20chatgpt-2025-03-18-d84098%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

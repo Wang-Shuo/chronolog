@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 8a4ca8c4765eb56d121b390565404b1db83aab90a894a90fabe5f42a303c303c
+machine_hash: 1782d426c2d6c405f357a2153e8bf4f8b62a8211194543f19dc484e6d999b084
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   Claude Sonnet 5]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab|claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: 'Gateway: added Claude Platform on AWS (anthropicAws) as an upstream provider'
 type: change

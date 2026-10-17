@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6de05b4f5c4dd6ec257cf87ca32a1ce43031e69a41a6a27136578858a4e06e00
+machine_hash: 0bcd5042c495416dfbab326e735138c5b6b2e7ea01f9ab77834bc900e64ad1dd
 product: cursor
 product_name: Cursor
 record:
@@ -51,6 +51,7 @@ related_changes:
   introduces the Cursor SDK so you can build agents with the same runtime…]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3|cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: Run npm install @cursor/sdk to get started
 type: change

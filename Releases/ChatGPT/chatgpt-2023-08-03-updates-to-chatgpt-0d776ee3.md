@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-08-03'
 description: 'ChatGPT release Updates to ChatGPT on 2023-08-03: 1 tracked change across
   Model Support'
-machine_hash: 40d8671459b96f2ea0c5d1f185320f36cbf3ae9718f3e64e7d47fcfc53e1765c
+machine_hash: 7614493b9ccdc9f04e31ebc4cf7788314eb6f627a43a4cc92415bd218ebe3fe9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: Updates to ChatGPT
 <!-- chronolog:begin region="summary" -->
 We’re rolling out a bunch of small updates to improve the ChatGPT experience. Shipping over the next week:1⁠. Prompt examples: A blank page can be intimidating. At the beginning of a new chat, you’ll now see examples to help you get started.2⁠. Suggested replies: Go deeper with a click. ChatGPT now suggests relevant…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2023-08-03-we-re-rolling-out-a-bunch-of-small-updates-to-improve-the-chatgpt-experience-shi|ChatGPT rolls out a bunch of small updates to improve the ChatGPT experience]] · Model Support
+- [[Changes/ChatGPT/2023-08-03-we-re-rolling-out-a-bunch-of-small-updates-to-improve-the-chatgpt-experience-shi|Updates to ChatGPT]] · Model Support
 <!-- chronolog:end -->

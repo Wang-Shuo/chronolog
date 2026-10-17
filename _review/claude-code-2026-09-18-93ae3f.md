@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: d93c607295bd0cf5677368d92e71b0d17716945ae8a3a1f43ba38fb3e5800b5b
+machine_hash: c7373259da74b76edeff36d6d66738f364f8b2ae21f2702e286ba912bbafe69e
 product: claude-code
 record:
   card_id: claude-code-2026-09-18-93ae3f
@@ -12,8 +12,9 @@ record:
   - quote: Added a line saying a background task's update is waiting when it finishes
       while a panel such as `/tasks` is open
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.277
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-a-line-saying-a-background-task-s-update-is-waiting-when-it-finishes-while

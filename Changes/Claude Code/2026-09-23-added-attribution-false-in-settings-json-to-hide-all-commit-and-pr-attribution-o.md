@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f8f04c7881871e0e61ecaf9bb618b227faa16b9ac228bad92855df20ed5ad6d0
+machine_hash: d37a0dae0fddd942c678cf9fdb1afbe892c342f18f41fcb1d9a093bf3632191d
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   syncing of the skills and plugins enabled on your claude.ai account…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95|claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: 'Added "attribution": false in settings.json to hide all commit and PR attribution'
 type: change

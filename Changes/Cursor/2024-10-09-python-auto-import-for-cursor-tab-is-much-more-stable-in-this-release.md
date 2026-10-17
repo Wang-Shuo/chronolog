@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d97f0a5eda80d180e49e03dcc1c661e611578bfd0daef0f8bb177c67a93119b6
+machine_hash: e728715502cb5969e3ae5a6f43b7d6bf683fbdb8f536edfd219131c7f045f7ad
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   imports (beta) for Cursor Tab for TypeScript files]]'
 source_release: '[[Releases/Cursor/cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1|cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: Python auto import for Cursor Tab is much more stable in this release
 type: change

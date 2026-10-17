@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 788d3e8a2f90378eaf271a61e4a9d722d7821515fb42bfd16c413e910d3f7611
+machine_hash: 8e20572c651cd28e84007c822de115efc84b5093d315ef254fa7808eec4ac219
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   codebase, build outputs, and secrets all stay on internal machines running…]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-25-self-hosted-cloud-agents-https-cursor-com-changelog-03-25-26-423e399c|cursor-2026-03-25-self-hosted-cloud-agents-https-cursor-com-changelog-03-25-26-423e399c]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Cursor now supports self-hosted cloud agents that keep your code and tool execution…
 type: change

@@ -4,8 +4,8 @@ date: '2026-01-16'
 description: 'Claude Code · 2026-01-16 · Context Window: Added `auto:N` syntax for
   configuring the MCP tool search auto-enable threshold, where N is the context window…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
-    prompt length for project generation]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 988
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 685dfaf01bdc738323ab268c0ed3db9bc68529e806799b3c94f6cde9dc67379a
+kind: change
+machine_hash: f68cad4ac3bd1dc873c108bed9242ee647482c63c95e872d6554aa1425d18827
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added `auto:N` syntax for configuring the MCP tool search auto-enable threshold,
       where N is the context window percentage (0-100)
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.9
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-auto-n-syntax-for-configuring-the-mcp-tool-search-auto-enable-threshold-wh
@@ -51,12 +53,12 @@ record:
   title: Added `auto:N` syntax for configuring the MCP tool search auto-enable threshold…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-18-generate-a-read-only-transcript-of-any-agent-conversation-to-include-in-your-prs|Generate
-  a read-only transcript of any agent conversation to include in your PRs…]]'
-- '[[Changes/Cursor/2025-12-18-cursor-can-now-analyze-the-code-and-context-in-each-agent-session-to-understand|Cursor
-  can now analyze the code and context in each agent session to understand…]]'
+- '[[Changes/Claude Code/2025-12-19-improved-context-command-visualization-with-grouped-skills-and-agents-by-source|Improved
+  /context command visualization with grouped skills and agents by source…]]'
 - '[[Changes/Claude Code/2026-01-13-added-context-window-used-percentage-and-context-window-remaining-percentage-fie|Added
   context_window.used_percentage and context_window.remaining_percentage…]]'
+- '[[Changes/Claude Code/2026-01-14-enabled-mcp-tool-search-auto-mode-by-default-for-all-users-when-mcp-tool-descrip|Enabled
+  MCP tool search auto mode by default for all users]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-16-v2-1-9-github-277250534-9563859d|claude-code-2026-01-16-v2-1-9-github-277250534-9563859d]]'
 source_type: github_releases
 theme: context-window
@@ -88,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-added-context-window-used-percentage-and-context-window-remaining-percentage-fie|Added context_window.used_percentage and context_window.remaining_percentage…]]
-- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-the-result-is-faster-overall-execution-more-focused-context-in-your-main-convers|The result is faster overall execution, more focused context in your main…]]
+- Earlier: 2026-01-14 · Claude Code · [[Changes/Claude Code/2026-01-14-enabled-mcp-tool-search-auto-mode-by-default-for-all-users-when-mcp-tool-descrip|Enabled MCP tool search auto mode by default for all users]]
+- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-agents-can-now-read-pdfs-which-you-can-attach-in-chats-as-context|Agents can now read PDFs, which you can attach in chats as context]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

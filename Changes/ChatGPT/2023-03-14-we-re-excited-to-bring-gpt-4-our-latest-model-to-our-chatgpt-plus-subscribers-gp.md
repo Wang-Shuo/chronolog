@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: be6128aee424a4c4dba2b7a9d6eb6236c993c023a78f53aa2225bcce25b8d59b
+machine_hash: 57cb1a65ba7d8b8079c3a9ea73c8798feb7513979c876d2aaeb1aa6f8ed4aae1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,6 +52,7 @@ related_changes:
 - '[[Changes/ChatGPT/2023-03-14-more-creativity|More creativity]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-03-14-announcing-gpt-4-in-chatgpt-43063370|chatgpt-2023-03-14-announcing-gpt-4-in-chatgpt-43063370]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: ChatGPT brings GPT-4, our latest model, to our ChatGPT Plus subscribers
 type: change

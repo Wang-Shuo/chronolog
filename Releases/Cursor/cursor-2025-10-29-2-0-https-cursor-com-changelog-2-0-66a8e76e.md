@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 22
 date: '2025-10-29'
-description: 'Cursor release New Coding Model and Agent Interface on 2025-10-29: 5
-  tracked changes across Agent Mode, Editor Experience, Enterprise and Administration…'
-machine_hash: 1ac9a787e7eba4d858c044edc54a3b73c2d4d9148e6b814b978e343cfa329da7
+description: 'Cursor release New Coding Model and Agent Interface on 2025-10-29: 22
+  tracked changes across Agent Mode, Enterprise and Administration, Collaboration…'
+machine_hash: a9cc622f1269351d36ad7d8d48174c64d38fff50c8b79f603cfc8b847de5c594
 product: cursor
 product_name: Cursor
 record:
@@ -38,14 +38,31 @@ version: '2.0'
 <!-- chronolog:begin region="summary" -->
 #Multi-Agents
 
-Tracked 5 of 35 candidate lines.
+Tracked 22 cards from 35 candidate lines; 2 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2025-10-29-launched-in-beta-in-1-7-browser-for-agent-is-now-ga-we-ve-added-additional-suppo|Launched in beta in 1.7, browser for Agent is now GA]] · Enterprise and Administration
-- [[Changes/Cursor/2025-10-29-browser-can-now-be-embedded-in-editor-including-powerful-new-tools-to-select-ele|Browser can now be embedded in-editor, including powerful new tools to select…]] · Editor Experience
-- [[Changes/Cursor/2025-10-29-introducing-our-first-agentic-coding-model-composer-is-a-frontier-model-that-is|Introducing our first agentic coding model]] · Model Support
-- [[Changes/Cursor/2025-10-29-run-up-to-eight-agents-in-parallel-on-a-single-prompt-this-uses-git-worktrees-or|Run up to eight agents in parallel on a single prompt]] · Agent Mode
-- [[Changes/Cursor/2025-10-29-manage-agents-in-our-new-editor-with-a-sidebar-for-your-agents-and-plans|Manage agents in our new editor, with a sidebar for your agents and plans]] · Interface Experience
+- [[Changes/Cursor/2025-10-29-shareable-team-commands|Shareable Team Commands]] · Collaboration · Launch
+- [[Changes/Cursor/2025-10-29-improved-code-review|Improved Code Review]] · Developer Workflow · Launch
+- [[Changes/Cursor/2025-10-29-browser-ga-1124ce|Browser (GA)]] · Enterprise and Administration · Launch
+- [[Changes/Cursor/2025-10-29-optimized-text-parsing-for-chat-rendering|Optimized text parsing for chat rendering]] · Interface Experience
+- [[Changes/Cursor/2025-10-29-sandboxed-terminals-ga|Sandboxed Terminals (GA)]] · Safety and Privacy · Launch
+- [[Changes/Cursor/2025-10-29-improved-agent-harness|Improved Agent Harness]] · Agent Mode · Launch
+- [[Changes/Cursor/2025-10-29-voice-mode|Voice Mode]] · Voice and Audio · Launch
+- [[Changes/Cursor/2025-10-29-cursor-for-enterprise|Cursor for Enterprise]] · Enterprise and Administration · Launch
+- [[Changes/Cursor/2025-10-29-audit-log|Audit Log]] · Collaboration · Launch
+- [[Changes/Cursor/2025-10-29-increased-default-memory-for-typescript-language-server|Increased default memory for TypeScript language server]] · Memory and Personalization
+- [[Changes/Cursor/2025-10-29-background-agents-have-been-renamed-to-cloud-agents|Background Agents have been renamed to Cloud Agents]] · Agent Mode
+- [[Changes/Cursor/2025-10-29-cloud-agents|Cloud Agents]] · Agent Mode · Launch
+- [[Changes/Cursor/2025-10-29-introducing-our-first-agentic-coding-model-composer-is-a-frontier-model-that-is|Composer]] · Model Support · Launch
+- [[Changes/Cursor/2025-10-29-improved-performance|Improved Performance]] · Reliability and Performance · Launch
+- [[Changes/Cursor/2025-10-29-3-developer-workflow-changes-in-2-0|3 Developer Workflow changes in 2.0]] · Developer Workflow · Digest
+- [[Changes/Cursor/2025-10-29-optimized-findfiles-performance-to-batch-concurrent-calls-at-bounded-concurrency|Optimized findFiles performance to batch concurrent calls at bounded concurrency]] · Reliability and Performance
+- [[Changes/Cursor/2025-10-29-plan-mode-in-background|Plan Mode in Background]] · Model Support · Launch
+- [[Changes/Cursor/2025-10-29-hooks-cloud-distribution|Hooks: Cloud Distribution]] · Enterprise and Administration · Launch
+- [[Changes/Cursor/2025-10-29-multi-agents-bb4f56|Multi-Agents]] · Agent Mode · Launch
+- [[Changes/Cursor/2025-10-29-team-commands|Team Commands]] · Collaboration · Launch
+- [[Changes/Cursor/2025-10-29-improved-prompt-ui|Improved Prompt UI]] · Context Window · Launch
+- [[Changes/Cursor/2025-10-29-sandboxed-terminals-admin-controls|Sandboxed Terminals: Admin Controls]] · Enterprise and Administration · Launch
 <!-- chronolog:end -->

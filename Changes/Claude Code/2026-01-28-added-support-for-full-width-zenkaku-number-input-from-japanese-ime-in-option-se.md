@@ -14,9 +14,10 @@ diffusion:
   theme: accessibility-localization
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 3dd88e9b5f0fda147f00fc3147143a16e473561872c0e4056467731a75332961
+kind: change
+machine_hash: 72498d960e9645f7c4065c83821acac96f8a0256ba023bdedb9625df07428b1a
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
   - quote: Added support for full-width (zenkaku) number input from Japanese IME in
       option selection prompts
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.21
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-support-for-full-width-zenkaku-number-input-from-japanese-ime-in-option-se

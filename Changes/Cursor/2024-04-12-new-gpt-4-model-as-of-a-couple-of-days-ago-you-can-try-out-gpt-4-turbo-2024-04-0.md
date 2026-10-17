@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 5d25f4de7ce9ddda0f5fa1c77936205a5cf575074944905fdd520f90da4736d8
+kind: change
+machine_hash: da253a50e54ef5f09f128ccd31eb0c352829d2e9e5254afb96d1328b01505b31
 product: cursor
 product_name: Cursor
 record:
@@ -33,8 +34,9 @@ record:
   - quote: 'New GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09
       in Cursor by toggling it on in Settings > Models.'
     source_release: https://cursor.com/changelog/0-32-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: new-gpt-4-model-as-of-a-couple-of-days-ago-you-can-try-out-gpt-4-turbo-2024-04-0
@@ -48,8 +50,8 @@ record:
 related_changes:
 - '[[Changes/Cursor/2024-01-25-both-pro-and-api-key-users-can-also-try-out-gpt-4-0125-preview-by-configuring-th|Both
   pro and API key users can also try out gpt-4-0125-preview by configuring…]]'
-- '[[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|If
-  you''re a Pro or Business user, you can add "claude-3-opus" as a custom model…]]'
+- '[[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|Claude
+  Support]]'
 - '[[Changes/Cursor/2024-03-20-stable-claude-support-all-the-newest-claude-models-are-available-for-pro-and-api|Stable
   Claude Support]]'
 source_release: '[[Releases/Cursor/cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc|cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc]]'
@@ -83,7 +85,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-stable-claude-support-all-the-newest-claude-models-are-available-for-pro-and-api|Stable Claude Support]]
-- Later: 2024-05-13 · ChatGPT · [[Changes/ChatGPT/2024-05-13-gpt-4o-is-our-newest-flagship-model-that-provides-gpt-4-level-intelligence-that-297427|GPT-4o is our newest flagship model that provides GPT-4-level intelligence…]]
+- Later: 2024-05-13 · ChatGPT · [[Changes/ChatGPT/2024-05-13-gpt-4o-is-our-newest-flagship-model-that-provides-gpt-4-level-intelligence-that-297427|Introducing GPT-4o]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

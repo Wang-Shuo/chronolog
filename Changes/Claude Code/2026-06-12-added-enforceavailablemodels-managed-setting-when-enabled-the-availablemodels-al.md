@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 3d668b71f97d2979c9f5b33b01c27778c3cf538e9d528d738453aae67ca05ef4
+kind: change
+machine_hash: 42e4a71887b2c18cf7d2272f2b19546b53d2a710a3b812cd29f2bd6144697952
 product: claude-code
 product_name: Claude Code
 record:
@@ -37,8 +38,9 @@ record:
       a disallowed model now falls back to the first allowed model), and user or project
       settings can no longer widen a managed `availableModels` list
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.175
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-enforceavailablemodels-managed-setting-when-enabled-the-availablemodels-al
@@ -50,10 +52,10 @@ record:
 related_changes:
 - '[[Changes/ChatGPT/2026-06-10-pro-standard-pro-plans-only|Pro Standard Pro plans
   only]]'
-- '[[Changes/Claude Code/2026-06-10-added-model-attribute-to-the-claude-code-lines-of-code-count-otel-metric|Added
-  model attribute to the claude_code.lines_of_code.count OTEL metric]]'
-- '[[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|As
-  of June 12, 2026, GPT-5.2 models are no longer available in ChatGPT.This applies…]]'
+- '[[Changes/Claude Code/2026-06-10-2-model-support-changes-in-v2-1-172|2 Model Support
+  changes in v2.1.172]]'
+- '[[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|Retiring
+  GPT-5.2 models]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-12-v2-1-175-github-338335820-6f3a7124|claude-code-2026-06-12-v2-1-175-github-338335820-6f3a7124]]'
 source_type: github_releases
 theme: model-support
@@ -80,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-12 · ChatGPT · [[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|As of June 12, 2026, GPT-5.2 models are no longer available in ChatGPT.This applies…]]
-- Later: 2026-06-19 · Claude Code · [[Changes/Claude Code/2026-06-19-added-a-warning-when-the-requested-model-is-deprecated-or-automatically-updated|Added a warning when the requested model is deprecated or automatically updated…]]
+- Earlier: 2026-06-12 · ChatGPT · [[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|Retiring GPT-5.2 models]]
+- Later: 2026-06-15 · Claude Code · [[Changes/Claude Code/2026-06-15-bug-now-requires-a-description-before-submitting-and-no-longer-uses-model-refusa|/bug now requires a description before submitting, and no longer uses…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

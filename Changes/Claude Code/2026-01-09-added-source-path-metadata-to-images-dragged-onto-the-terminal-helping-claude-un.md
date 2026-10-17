@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b69df415b65359d7b59f2060364a991ea467017d377abfdb5c758aecc2891cd2
+machine_hash: 70687bc4ee1b1a4363b00669d02f7735d2f3a3f892fe742024627ac83e42e7f2
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,6 +47,7 @@ related_changes:
   slash command suggestion readability by truncating long descriptions to 2 lines]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-2-github-275344737-27089666|claude-code-2026-01-09-v2-1-2-github-275344737-27089666]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added source path metadata to images dragged onto the terminal, helping Claude…
 type: change

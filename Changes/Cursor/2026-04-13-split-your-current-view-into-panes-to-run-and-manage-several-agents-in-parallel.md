@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 94a220c0a2acca9f4a1f1a419a9213b1f7f2407191d566ceb54198260ba2d5d6
+machine_hash: 8634af07ee9f3e6086ec3f9765135b3085d1ef4f3e3b819484725dd77d6a36ed
 product: cursor
 product_name: Cursor
 record:
@@ -51,6 +51,7 @@ related_changes:
   introduces improvements to our Agents Window interface as part of Cursor 3]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313|cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Split your current view into panes to run and manage several agents in parallel
 type: change

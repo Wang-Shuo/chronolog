@@ -4,7 +4,7 @@ date: '2025-10-15'
 description: 'ChatGPT release ChatGPT can now automatically manage saved memories
   so it’s even better at remembering what’s important to you. on 2025-10-15: 1 tracked
   change…'
-machine_hash: c997f472a3548dd587f2a501daf1713255872a6f70293a8c1aec7dc4e578b836
+machine_hash: 7aec7b70312195e556f1a0cd96902fd6d36d5403cef1b3c8458b755fcec7a129
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,10 +48,10 @@ version: ChatGPT can now automatically manage saved memories so it’s even bett
 <!-- chronolog:begin region="summary" -->
 ChatGPT now manages saved memories automatically by keeping the most relevant details prioritized and moving less important ones to the background. This helps prevent saved memories from reaching capacity and helps avoid “memory full” state in your ChatGPT account.To decide which memories stay top of mind, ChatGPT…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-10-15-chatgpt-now-manages-saved-memories-automatically-by-keeping-the-most-relevant-de-997f64|ChatGPT now manages saved memories automatically by keeping the most relevant…]] · Memory and Personalization
+- [[Changes/ChatGPT/2025-10-15-chatgpt-now-manages-saved-memories-automatically-by-keeping-the-most-relevant-de-997f64|ChatGPT can now automatically manage saved memories so it’s even better…]] · Memory and Personalization
 <!-- chronolog:end -->

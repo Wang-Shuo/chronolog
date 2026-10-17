@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-01-22'
 description: 'ChatGPT release 5.2 Personality System Prompt Update on 2026-01-22:
   1 tracked change across Model Support'
-machine_hash: 5694025f7ba0615d4e4995646dac201fa07cb9daef90ca656e7ecd71ea6513d4
+machine_hash: cc8209a25d9af0efa1e5e0b0cb466a991298ed53a5f1f59351ed38de6e166c9d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: 5.2 Personality System Prompt Update
 <!-- chronolog:begin region="summary" -->
 We’re updating GPT-5.2 Instant’s default personality to be more conversational and better at adapting its tone contextually, making exchanges feel smoother and more natural. You can still select a different base style and tone for ChatGPT, along with tuning characteristics like warmth and emoji use, within the…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|We’re updating GPT-5.2 Instant’s default personality to be more conversational…]] · Model Support
+- [[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|5.2 Personality System Prompt Update]] · Model Support
 <!-- chronolog:end -->

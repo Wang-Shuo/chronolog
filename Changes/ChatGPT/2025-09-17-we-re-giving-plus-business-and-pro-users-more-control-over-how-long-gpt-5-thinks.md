@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 892c78e900f38178a64f3f3f0d8b53cbba4155d35d80ebd576efcb5cfb55ca38
+machine_hash: d2bb4097569feceb415044a04c19d99f687ebac9d5287f3ec91039a27fa8ce34
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,6 +56,7 @@ related_changes:
   users get two additional options: Light (snappiest) and Heavy (deeper reasoning)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c|chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: We’re giving Plus, Business, and Pro users more control over how long GPT-5
   thinks…

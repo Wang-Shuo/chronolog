@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 88ebe5e36d0c05f027b8407aa0030badf9335cc8377c8cda29027570a8cd18fa
+machine_hash: f816f9967992023644782c1ba35d5c83fc388f9ac127361a0e90e36d71104759
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   view your history in ChatGPT on the web, go to Settings  Security and login…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7|claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Added a count such as "2 of 5" to the permission prompt when several permission…
 type: change

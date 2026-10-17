@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: ef5ea497fcafdb5564cf1d24b3aa55f83c2728d691d34b125831135206d6a32b
+machine_hash: cb19d06d8e969bc75935f10ad18199a96e43458e06db7c8333dee5d037087819
 product: cursor
 product_name: Cursor
 record:
@@ -58,6 +58,7 @@ related_changes:
   commit messages]]'
 source_release: '[[Releases/Cursor/cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e|cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e]]'
 source_type: cursor_changelog
+superseded: true
 theme: developer-workflow
 title: Agent reads linter errors to automatically fix issues
 type: change

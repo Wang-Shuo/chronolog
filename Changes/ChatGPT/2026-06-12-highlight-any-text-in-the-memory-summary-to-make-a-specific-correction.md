@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 901aac435f00860afba865953ecdb225843111b12f44aa3ad0f82f33785246ee
+machine_hash: 85c58a8cfbd1b23985a4d944cc0e3dfec1fa85b14203fa1e1407d7a7f8e3e674
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,6 +47,7 @@ related_changes:
   upgraded memory so ChatGPT can better keep your context up to date, helping…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-12-additional-controls-for-memory-summary-37c89b72|chatgpt-2026-06-12-additional-controls-for-memory-summary-37c89b72]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: memory
 title: Highlight any text in the memory summary to make a specific correction
 type: change

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e897e7dc1015e0a84f8f56ad1b6c7770e2a626dcb2b224d85a75fbfb679c13cd
+machine_hash: ee7ef2a8f443b96776af2c0c85ddbe007a8cb8a95ef74827d48343962a35bdbd
 product: claude-code
 product_name: Claude Code
 record:
@@ -59,6 +59,7 @@ related_changes:
   PreCompact hook support]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e|claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Faster MCP startup when multiple stdio servers are configured
 type: change

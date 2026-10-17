@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 7875243e24b1e2d4fb41f5cd4970a49bbdff0eb8cbd30a20c9b3ad5058b7bee7
+machine_hash: bfcafffc6d82af589dc7a1756b77cd6ba28aa79e008a35e3d5b5348ea36ac87b
 product: cursor
 product_name: Cursor
 record:
@@ -61,6 +61,7 @@ related_changes:
   agent view (Research Preview)]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4|cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Mention @Cursor in any Teams channel to delegate a task to a cloud agent or
   pull…

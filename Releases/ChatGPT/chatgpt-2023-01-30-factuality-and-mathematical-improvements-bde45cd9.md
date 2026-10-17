@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-01-30'
 description: 'ChatGPT release Factuality and mathematical improvements on 2023-01-30:
   1 tracked change across Model Support'
-machine_hash: a8392ad666cce8be1674e16d3b6f7378ed06600c2167168fddd33b2a61c0f362
+machine_hash: 988945f54cb9cf25c482de5a4a40cbb590527fc3100291e6887a59886254e4ee
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,10 +39,10 @@ version: Factuality and mathematical improvements
 <!-- chronolog:begin region="summary" -->
 We’ve upgraded the ChatGPT model with improved factuality and mathematical capabilities.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2023-01-30-we-ve-upgraded-the-chatgpt-model-with-improved-factuality-and-mathematical-capab|We’ve upgraded the ChatGPT model with improved factuality and mathematical capabilities]] · Model Support
+- [[Changes/ChatGPT/2023-01-30-we-ve-upgraded-the-chatgpt-model-with-improved-factuality-and-mathematical-capab|Factuality and mathematical improvements]] · Model Support
 <!-- chronolog:end -->

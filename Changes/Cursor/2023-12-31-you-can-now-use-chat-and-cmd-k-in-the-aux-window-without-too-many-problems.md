@@ -4,8 +4,8 @@ date: '2023-12-31'
 description: 'Cursor · 2023-12-31 · Editor Experience: You can now use chat and cmd-k
   in the aux window without too many problems.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 292
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 21f229a9b838ec9d3d14f246f9da8b9849423700076d8609d8fed99050ec6a9c
+kind: change
+machine_hash: 7c840f7c0e11e919ae07cb8c301c77a34241d8877d827fa6091ef3720a4f85ca
 product: cursor
 product_name: Cursor
 record:
@@ -28,32 +29,33 @@ record:
   evidence:
   - quote: You can now use chat and cmd-k in the aux window without too many problems.
     source_release: https://cursor.com/changelog/0-21-4-nightly
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: you-can-now-use-chat-and-cmd-k-in-the-aux-window-without-too-many-problems
   source_release: cursor-2023-12-31-0-21-4-nightly-https-cursor-com-changelog-0-21-4-nightly-8e148bcb
   source_type: cursor_changelog
   theme: editor-experience
-  title: Use chat and cmd-k in the aux window without too many problems
+  title: Aux Window Fixes
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|We
-  made Copilot++ faster, smarter, more constrained, and switched to a ghost-text…]]'
+- '[[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|Copilot++
+  Improvements]]'
 - '[[Changes/Cursor/2023-12-16-update-0-20-1-0-20-2-we-added-tldrs-to-make-it-easier-to-sort-through-the-bugs-f|UPDATE
   (0.20.1-0.20.2): We added TLDRs to make it easier to sort through the bugs…]]'
-- '[[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|Run
-  multiple Command-K''s in parallel!]]'
+- '[[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|Multiple
+  Command-K, Copilot++ UI]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-31-0-21-4-nightly-https-cursor-com-changelog-0-21-4-nightly-8e148bcb|cursor-2023-12-31-0-21-4-nightly-https-cursor-com-changelog-0-21-4-nightly-8e148bcb]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: Use chat and cmd-k in the aux window without too many problems
+title: Aux Window Fixes
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Use chat and cmd-k in the aux window without too many problems
+# Aux Window Fixes
 
 **Cursor** · 2023-12-31 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://cursor.com/changelog/0-21-4-nightly) · from [[Releases/Cursor/cursor-2023-12-31-0-21-4-nightly-https-cursor-com-changelog-0-21-4-nightly-8e148bcb|Aux Window Fixes]]
 <!-- chronolog:end -->
@@ -71,14 +73,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-12-29 · Cursor · [[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|Run multiple Command-K's in parallel!]]
-- Later: 2024-01-03 · Cursor · [[Changes/Cursor/2024-01-03-hold-down-command-press-and-release-shift-and-continue-holding-down-command-this|Hold down command, press and release shift, and continue holding down command]]
+- Earlier: 2023-12-29 · Cursor · [[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|Multiple Command-K, Copilot++ UI]]
+- Later: 2024-01-03 · Cursor · [[Changes/Cursor/2024-01-03-hold-down-command-press-and-release-shift-and-continue-holding-down-command-this|Early Preview: Hold-cmd-tap-shift to Trigger AI Rewrite]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

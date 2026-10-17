@@ -4,8 +4,8 @@ date: '2026-09-10'
 description: 'ChatGPT · 2026-09-10 · Apps and Integrations: The Data plugin helps
   you analyze connected business data in ChatGPT Work and Codex. Ask a business question…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1267
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: ed810dd31593784f7c1b0f440b31ae713bd4bc43bdb18ed7b0fe1e416b6eff75
+kind: change
+machine_hash: e1b03af01392dae6be8196af7e794ed1da83511fef00a89b5b3e5388f0cfd4d6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,8 +41,9 @@ record:
       Connected sources may require setup or authorization, and queries use your connected
       account’s existing permissions. Learn more.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: the-data-plugin-helps-you-analyze-connected-business-data-in-chatgpt-work-and-co
@@ -62,26 +64,24 @@ record:
     score: 50
     theme: context-window
   theme_resolution: manual-semantic-rule-v1
-  title: The Data plugin helps you analyze connected business data in ChatGPT Work
-    and Codex
+  title: Data plugin in ChatGPT Work and Codex
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-03-added-a-text-form-of-advisor-advisor-advisor-model-advisor-off-for-the-desktop-a|Added
-  a text form of /advisor (/advisor, /advisor model, /advisor off)…]]'
-- '[[Changes/Claude Code/2026-09-03-added-reload-plugins-to-headless-sessions-so-it-appears-in-the-claude-code-deskt|Added
-  /reload-plugins to headless sessions, so it appears in the Claude Code…]]'
-- '[[Changes/Claude Code/2026-09-08-added-support-for-pointing-plugin-dir-at-a-folder-of-plugins-each-child-folder-w|Added
-  support for pointing --plugin-dir at a folder of plugins]]'
+- '[[Changes/Claude Code/2026-09-04-vscode-added-an-add-server-form-and-a-remove-action-to-the-mcp-servers-dialog-so|VSCode
+  Added an Add server form and a Remove action to the MCP servers dialog…]]'
+- '[[Changes/Claude Code/2026-09-08-4-apps-and-integrations-changes-in-v2-1-265|4
+  Apps and Integrations changes in v2.1.265]]'
+- '[[Changes/Claude Code/2026-09-09-claude-tag-added-a-use-a-custom-connector-link-to-the-preset-connection-forms-in|Claude
+  Tag Added a "Use a custom connector" link to the preset connection forms…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-10-data-plugin-in-chatgpt-work-and-codex-a8ab26d9|chatgpt-2026-09-10-data-plugin-in-chatgpt-work-and-codex-a8ab26d9]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: The Data plugin helps you analyze connected business data in ChatGPT Work and
-  Codex
+title: Data plugin in ChatGPT Work and Codex
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# The Data plugin helps you analyze connected business data in ChatGPT Work and Codex
+# Data plugin in ChatGPT Work and Codex
 
 **ChatGPT** · 2026-09-10 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-10-data-plugin-in-chatgpt-work-and-codex-a8ab26d9|Data plugin in ChatGPT Work and Codex]]
 <!-- chronolog:end -->
@@ -99,14 +99,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-added-support-for-pointing-plugin-dir-at-a-folder-of-plugins-each-child-folder-w|Added support for pointing --plugin-dir at a folder of plugins]]
-- Later: 2026-09-11 · ChatGPT · [[Changes/ChatGPT/2026-09-11-we-re-planning-to-retire-custom-gpts-across-chatgpt-plans-and-provide-a-migratio|We’re planning to retire custom GPTs across ChatGPT plans and provide a migration…]]
+- Earlier: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-claude-tag-added-a-use-a-custom-connector-link-to-the-preset-connection-forms-in|Claude Tag Added a "Use a custom connector" link to the preset connection forms…]]
+- Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-7-apps-and-integrations-changes-in-v2-1-268|7 Apps and Integrations changes in v2.1.268]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

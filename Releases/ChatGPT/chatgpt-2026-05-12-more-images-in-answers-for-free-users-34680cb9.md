@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-05-12'
 description: 'ChatGPT release More images in answers for Free users on 2026-05-12:
   1 tracked change across Mobile and Desktop'
-machine_hash: b8e704490eb7881727953a0057fe880c915e1ffb2408a219d67e590e29846b4a
+machine_hash: 20da4e0f2bc50f13437aea4d5f3f936aa10fb93fcf52a9b4fd943f381f4e865a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: More images in answers for Free users
 <!-- chronolog:begin region="summary" -->
 Free users in ChatGPT will now see more inline images from the web to help make visual topics easier to understand, including well-known people, places, and products. When visuals can add clarity, images may appear alongside relevant parts of an answer. You can click any image to view it at its original size and see…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|Free users in ChatGPT will now see more inline images from the web to help make…]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|More images in answers for Free users]] · Mobile and Desktop
 <!-- chronolog:end -->

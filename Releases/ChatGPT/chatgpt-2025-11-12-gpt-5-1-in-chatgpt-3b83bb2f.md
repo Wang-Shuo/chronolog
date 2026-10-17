@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-11-12'
 description: 'ChatGPT release GPT-5.1 in ChatGPT on 2025-11-12: 1 tracked change across
   Model Support'
-machine_hash: 964d2894f19572570acf26281be7ab87336446690045026807ce0fc9553ed327
+machine_hash: 7339945f19f056b0a082c87b3d44eaf53b1b49d6535365d3fcfb1efe0df708a3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: GPT-5.1 in ChatGPT
 <!-- chronolog:begin region="summary" -->
 We’re updating GPT-5 to GPT-5.1 Instant and GPT-5.1 Thinking, making answers both smarter and more conversational. GPT-5.1 Instant now uses light adaptive reasoning for tougher questions while staying fast, and GPT-5.1 Thinking adapts its thinking time more precisely for complex tasks with clearer, less jargony…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4|We’re updating GPT-5 to GPT-5.1 Instant and GPT-5.1 Thinking, making answers both…]] · Model Support
+- [[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4|GPT-5.1 in ChatGPT]] · Model Support
 <!-- chronolog:end -->

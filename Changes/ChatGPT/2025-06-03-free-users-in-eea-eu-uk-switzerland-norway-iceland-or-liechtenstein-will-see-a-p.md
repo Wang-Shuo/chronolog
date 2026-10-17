@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: dcb9e762fcc6aec34c27bb27361b7683e2312432599562988573941b13ddf43d
+machine_hash: ec1e1c04f027bc7a2fa20882da32b78dc7e11cb2b7c87ec8b51115cf79bde828
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,6 +53,7 @@ related_changes:
   can turn off memory anytime in settings]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3|chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: memory
 title: Free users in EEA (EU + UK), Switzerland, Norway, Iceland, or Liechtenstein
   will see…

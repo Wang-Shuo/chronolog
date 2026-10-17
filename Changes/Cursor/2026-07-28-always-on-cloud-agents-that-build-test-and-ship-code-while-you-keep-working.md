@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 79015088e20a5292b92a4db9ab4c39e889ec22cff18be554742f4321aa1f9e38
+machine_hash: 4c0e12508eab14b783ec3345b59b078f7e3dad5b5b27152e62861d670ffcf9ab
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   the workflowSizeGuideline settings key so the advisory Dynamic workflow size…]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df|cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Always-on cloud agents that build, test, and ship code while you keep working
 type: change

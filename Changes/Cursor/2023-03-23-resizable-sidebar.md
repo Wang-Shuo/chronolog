@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b51e249b22593abcfa0701fe65506f38f5561934acb8686b090aa74eca002fb4
+machine_hash: 28132a9126b9685b555cc6eca2238b983c1711eb1a626531e846aba99b2b8082
 product: cursor
 product_name: Cursor
 record:
@@ -45,6 +45,7 @@ related_changes:
   between sessions]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-23-0-1-5-https-cursor-com-changelog-0-1-5-b6aefe25|cursor-2023-03-23-0-1-5-https-cursor-com-changelog-0-1-5-b6aefe25]]'
 source_type: cursor_changelog
+superseded: true
 theme: interface-experience
 title: Resizable sidebar
 type: change

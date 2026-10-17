@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 167272b4d9feda293d7fd156adeab7150281a5f319b5313d931306c5815ed898
+machine_hash: 1261cd75d524ed4e8b01bdcc73b3c3347711788b64aa1b874c8424a0d1f7b1ce
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   4.6 now defaults to medium effort for Max and Team subscribers]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-04-v2-1-68-github-292908895-c7aaa3de|claude-code-2026-03-04-v2-1-68-github-292908895-c7aaa3de]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Re-introduced the "ultrathink" keyword to enable high effort for the next turn
 type: change

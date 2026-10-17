@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 904d82517a69cbeed1e22c10b0aa5277065abe2debacdc6a148d6f75e117ce35
+kind: policy
+machine_hash: 720fd69d848435230fe075374baf39af17ca9ee6f560a77549e71406b60c32b6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,8 +46,9 @@ record:
       a verification service available in Settings > Account. Users can check whether
       safeguards have been added and verify at any time.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: policy
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete
@@ -63,26 +65,26 @@ record:
     score: 50
     theme: model-support
   theme_resolution: manual-semantic-rule-v1
-  title: ChatGPT rolls out an age prediction model on ChatGPT consumer plans to help…
+  title: Rolling out age prediction
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-series-gpt-5-2-is-sm|Today,
-  we’re releasing GPT-5.2, the next upgrade to the GPT-5 series]]'
 - '[[Changes/Claude Code/2026-01-09-merged-slash-commands-and-skills-simplifying-the-mental-model-with-no-change-in|Merged
   slash commands and skills, simplifying the mental model with no change in behavior]]'
 - '[[Changes/Claude Code/2026-01-16-added-support-for-pretooluse-hooks-to-return-additionalcontext-to-the-model|Added
   support for PreToolUse hooks to return additionalContext to the model]]'
+- '[[Changes/Cursor/2026-01-16-models-removed-use-model-to-see-all-models-or-select-a-model|/models
+  removed. Use /model to see all models or select a model]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-20-rolling-out-age-prediction-2382655a|chatgpt-2026-01-20-rolling-out-age-prediction-2382655a]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: ChatGPT rolls out an age prediction model on ChatGPT consumer plans to help…
+title: Rolling out age prediction
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT rolls out an age prediction model on ChatGPT consumer plans to help…
+# Rolling out age prediction
 
-**ChatGPT** · 2026-01-20 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-01-20-rolling-out-age-prediction-2382655a|Rolling out age prediction]]
+**ChatGPT** · 2026-01-20 · [[Themes/model-support|Model Support]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-01-20-rolling-out-age-prediction-2382655a|Rolling out age prediction]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -98,8 +100,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-16 · Claude Code · [[Changes/Claude Code/2026-01-16-added-support-for-pretooluse-hooks-to-return-additionalcontext-to-the-model|Added support for PreToolUse hooks to return additionalContext to the model]]
-- Later: 2026-01-22 · ChatGPT · [[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|We’re updating GPT-5.2 Instant’s default personality to be more conversational…]]
+- Earlier: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-models-removed-use-model-to-see-all-models-or-select-a-model|/models removed. Use /model to see all models or select a model]]
+- Later: 2026-01-22 · ChatGPT · [[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|5.2 Personality System Prompt Update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

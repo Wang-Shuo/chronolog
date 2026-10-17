@@ -5,8 +5,8 @@ description: 'Claude Code · 2026-05-28 · Agent Mode: Introducing dynamic workf
   ask Claude to create a workflow and it orchestrates work across tens to hundreds
   of…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1057
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f438ce4381e31522487771c04f60853c24e6ef0bc95f848976999f675375be2f
+kind: launch
+machine_hash: bbb5d9f9141e9a2ad31291d35ab783e38c2a949fe458aae10a3b02412d040390
 product: claude-code
 product_name: Claude Code
 record:
@@ -33,8 +34,9 @@ record:
       orchestrates work across tens to hundreds of agents in the background, so you
       can take on larger, more complex tasks. Run `/workflows` to view your runs'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.154
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: claude-code
   product_name: Claude Code
   slug: introducing-dynamic-workflows-ask-claude-to-create-a-workflow-and-it-orchestrate
@@ -44,12 +46,12 @@ record:
   title: Introducing dynamic workflows
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-20-with-loop-cursor-can-run-a-prompt-repeatedly-on-a-local-schedule-until-a-certain|With
-  /loop, Cursor can run a prompt repeatedly on a local schedule, until a certain…]]'
-- '[[Changes/Claude Code/2026-05-21-auto-mode-no-longer-suppresses-askuserquestion-when-the-user-or-a-skill-explicit|Auto
-  mode no longer suppresses AskUserQuestion when the user or a skill explicitly…]]'
-- '[[Changes/Claude Code/2026-05-28-claude-agents-pr-column-now-shows-pr-n-for-a-single-pr-or-n-prs-for-multiple|claude
-  agents: PR column now shows PR ♯N for a single PR or N PRs for multiple]]'
+- '[[Changes/Claude Code/2026-05-27-2-agent-mode-changes-in-v2-1-152|2 Agent Mode
+  changes in v2.1.152]]'
+- '[[Changes/Claude Code/2026-05-28-4-agent-mode-changes-in-v2-1-154|4 Agent Mode
+  changes in v2.1.154]]'
+- '[[Changes/Claude Code/2026-05-28-3-agent-mode-changes-in-v2-1-153|3 Agent Mode
+  changes in v2.1.153]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9|claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9]]'
 source_type: github_releases
 theme: agent-mode
@@ -60,7 +62,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Introducing dynamic workflows
 
-**Claude Code** · 2026-05-28 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.154) · from [[Releases/Claude Code/claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9|v2.1.154]]
+**Claude Code** · 2026-05-28 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.154) · from [[Releases/Claude Code/claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9|v2.1.154]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -72,23 +74,27 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-05-28-the-lean-system-prompt-is-now-the-default-for-all-models-except-haiku-sonnet-and|The lean system prompt is now the default for all models except Haiku, Sonnet…]] · Model Support
+- [[Changes/Claude Code/2026-05-28-remote-control-autocomplete-now-shows-disconnect-remote-control-when-remote-cont|/remote-control autocomplete now shows "Disconnect Remote Control" when Remote…]] · Editor Experience
+- [[Changes/Claude Code/2026-05-28-vscode-auto-mode-no-longer-requires-the-bypass-permissions-setting-to-appear-in|VSCode Auto mode no longer requires the bypass-permissions setting to appear…]] · Interface Experience
+- [[Changes/Claude Code/2026-05-28-4-agent-mode-changes-in-v2-1-154|4 Agent Mode changes in v2.1.154]] · Agent Mode
+- [[Changes/Claude Code/2026-05-28-4-apps-and-integrations-changes-in-v2-1-154|4 Apps and Integrations changes in v2.1.154]] · Apps and Integrations
+- [[Changes/Claude Code/2026-05-28-5-model-support-changes-in-v2-1-154|5 Model Support changes in v2.1.154]] · Model Support
+- [[Changes/Claude Code/2026-05-28-simplify-now-runs-a-cleanup-only-review-reuse-simplification-efficiency-altitude|/simplify now runs a cleanup-only review…]] · Developer Workflow
 - [[Changes/Claude Code/2026-05-28-claude-now-reserves-the-multiple-choice-question-prompt-for-decisions-it-genuine|Claude now reserves the multiple-choice question prompt for decisions it genuinely…]] · Context Window
-- [[Changes/Claude Code/2026-05-28-opus-4-8-is-here-now-defaults-to-high-effort-effort-xhigh-for-your-hardest-tasks|Opus 4.8 is here!]] · Model Support
-- [[Changes/Claude Code/2026-05-28-fast-mode-on-opus-4-8-is-now-available-at-a-fraction-of-its-previous-cost-2x-the|Fast mode on Opus 4.8 is now available at a fraction of its previous cost]] · Model Support
+- [[Changes/Claude Code/2026-05-28-renamed-the-effort-slider-labels-from-speed-intelligence-to-faster-smarter-for-c|Renamed the /effort slider labels…]] · Reliability and Performance
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-claude-agents-pr-column-now-shows-pr-n-for-a-single-pr-or-n-prs-for-multiple|claude agents: PR column now shows PR ♯N for a single PR or N PRs for multiple]]
+- Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-3-agent-mode-changes-in-v2-1-153|3 Agent Mode changes in v2.1.153]]
 - Later: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-claude-agents-the-agent-field-in-settings-json-is-now-honored-for-dispatched-ses|claude agents: the agent field in settings.json is now honored for dispatched…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -2,8 +2,8 @@
 changes_count: 5
 date: '2026-07-29'
 description: 'Cursor release Cursor, now on iPad on 2026-07-29: 5 tracked changes
-  across Mobile and Desktop, Multimodal Input'
-machine_hash: a6e97723b49c22c664358f619510444ce94679e888e84ac834525a3742e72b47
+  across Mobile and Desktop, Agent Mode, Collaboration'
+machine_hash: b60574584367554727585383d7db9689894a73b37d9caad135882879f23bbd21
 product: cursor
 product_name: Cursor
 record:
@@ -38,14 +38,14 @@ version: Cursor, now on iPad
 <!-- chronolog:begin region="summary" -->
 Cursor for iPad is now available on all paid plans.
 
-Tracked 5 of 10 candidate lines.
+Tracked 5 cards from 10 candidate lines; 2 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-07-29-the-ipad-layout-is-rebuilt-around-the-extra-space-sidebar-chats-stay-pinned-so-y|The iPad layout is rebuilt around the extra space]] · Mobile and Desktop
-- [[Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and|On iPhone and iPad, the review screen now covers the full PR]] · Mobile and Desktop
-- [[Changes/Cursor/2026-07-29-markup-gets-more-room-to-work-too-attach-a-screenshot-then-tap-to-drop-a-comment|Markup gets more room to work too]] · Multimodal Input
-- [[Changes/Cursor/2026-07-29-cursor-for-ipad-is-now-available-on-all-paid-plans|Cursor for iPad is now available on all paid plans]] · Mobile and Desktop
-- [[Changes/Cursor/2026-07-29-new-to-both-iphone-and-ipad-an-inbox-to-stay-organized-and-a-review-experience-t|New to both iPhone and iPad]] · Mobile and Desktop
+- [[Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and|A full review surface]] · Mobile and Desktop · Launch
+- [[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch between teams that you belong to directly in the app]] · Collaboration
+- [[Changes/Cursor/2026-07-29-built-for-the-bigger-screen-98bf7a|Built for the bigger screen]] · Mobile and Desktop · Launch
+- [[Changes/Cursor/2026-07-29-inbox|Inbox]] · Agent Mode · Launch
+- [[Changes/Cursor/2026-07-29-cursor-for-ipad-is-now-available-on-all-paid-plans-ce68be|Cursor for iPad is now available on all paid plans]] · Mobile and Desktop · Launch
 <!-- chronolog:end -->

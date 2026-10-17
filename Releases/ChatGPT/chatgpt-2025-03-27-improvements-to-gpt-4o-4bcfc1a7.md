@@ -3,7 +3,7 @@ changes_count: 4
 date: '2025-03-27'
 description: 'ChatGPT release Improvements to GPT-4o on 2025-03-27: 4 tracked changes
   across Model Support'
-machine_hash: 4d50d95683ec40037f1ac6177992f54bbe7776a84acb4ce00a699011c4961223
+machine_hash: 4897788ecd338486759788cec885b684739acedebaa2a8088acabbade2b43dc8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,13 +40,13 @@ version: Improvements to GPT-4o
 <!-- chronolog:begin region="summary" -->
 We’ve made improvements to GPT-4o—it now feels more intuitive, creative, and collaborative, with enhanced instruction-following, smarter coding capabilities, and a clearer communication style.
 
-Tracked 4 of 4 candidate lines.
+Tracked 4 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - [[Changes/ChatGPT/2025-03-27-we-ve-made-improvements-to-gpt-4o-it-now-feels-more-intuitive-creative-and-colla|ChatGPT makes improvements to GPT-4o—it now feels more intuitive, creative…]] · Model Support
-- [[Changes/ChatGPT/2025-03-27-early-testers-say-that-the-model-seems-to-better-understand-the-implied-intent-b|Early testers say that the model seems to better understand the implied intent…]] · Model Support
-- [[Changes/ChatGPT/2025-03-27-gpt-4o-has-further-improved-its-capability-to-tackle-complex-technical-and-codin|GPT-4o has further improved its capability to tackle complex technical and coding problems]] · Model Support
-- [[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|GPT-4o is now more adept at following detailed instructions, especially for prompts…]] · Model Support
+- [[Changes/ChatGPT/2025-03-27-early-testers-say-that-the-model-seems-to-better-understand-the-implied-intent-b|“Fuzzy” improvements]] · Model Support · Launch
+- [[Changes/ChatGPT/2025-03-27-gpt-4o-has-further-improved-its-capability-to-tackle-complex-technical-and-codin|Smarter problem-solving in STEM and coding]] · Model Support · Launch
+- [[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|Enhanced instruction-following and formatting accuracy]] · Model Support · Launch
 <!-- chronolog:end -->

@@ -4,8 +4,8 @@ date: '2025-04-16'
 description: 'ChatGPT · 2025-04-16 · Memory and Personalization: ChatGPT can also
   use memories to inform search queries when ChatGPT searches the web using third-party…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 636
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 447d1ca784add90aa0cab79500f03d22b7a9777d10668b94948bf53827590f54
+kind: change
+machine_hash: d9725c0b605fbe2452d9082ddb34d09b05f8cd30b2339517292764b73dbb25b0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,34 +31,33 @@ record:
   - quote: ChatGPT can also use memories to inform search queries when ChatGPT searches
       the web using third-party search providers. Learn more about search.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: chatgpt-can-also-use-memories-to-inform-search-queries-when-chatgpt-searches-the
   source_release: chatgpt-2025-04-16-memory-with-search-0b018fd4
   source_type: chatgpt_changelog
   theme: memory
-  title: ChatGPT can also use memories to inform search queries when ChatGPT searches
-    the web…
+  title: Memory with Search
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|We’re
-  testing memory with ChatGPT]]'
+- '[[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|Memory
+  and new controls for ChatGPT]]'
 - '[[Changes/ChatGPT/2024-04-29-memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w-4db29a|Memory
-  is now available to all ChatGPT Plus users, except in Europe Korea where we…]]'
-- '[[Changes/Cursor/2025-02-19-crashes-enhanced-stability-through-memory-and-performance-improvements-with-addi|Crashes:
-  Enhanced stability through memory and performance improvements…]]'
+  is now available to Plus users]]'
+- '[[Changes/Cursor/2025-02-19-2-memory-and-personalization-changes-in-0-46-x|2 Memory
+  and Personalization changes in 0.46.x]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-04-16-memory-with-search-0b018fd4|chatgpt-2025-04-16-memory-with-search-0b018fd4]]'
 source_type: chatgpt_changelog
 theme: memory
-title: ChatGPT can also use memories to inform search queries when ChatGPT searches
-  the web…
+title: Memory with Search
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT can also use memories to inform search queries when ChatGPT searches the web…
+# Memory with Search
 
 **ChatGPT** · 2025-04-16 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-04-16-memory-with-search-0b018fd4|Memory with Search]]
 <!-- chronolog:end -->
@@ -75,14 +75,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-crashes-enhanced-stability-through-memory-and-performance-improvements-with-addi|Crashes: Enhanced stability through memory and performance improvements…]]
-- Later: 2025-05-08 · ChatGPT · [[Changes/ChatGPT/2025-05-08-saved-memories-and-chat-history-are-offered-only-to-plus-and-pro-accounts-free-t|• Saved memories and Chat history are offered only to Plus and Pro…]]
+- Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-2-memory-and-personalization-changes-in-0-46-x|2 Memory and Personalization changes in 0.46.x]]
+- Later: 2025-05-08 · ChatGPT · [[Changes/ChatGPT/2025-05-08-saved-memories-and-chat-history-are-offered-only-to-plus-and-pro-accounts-free-t|Saved memories and Chat history are offered only to Plus and Pro…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

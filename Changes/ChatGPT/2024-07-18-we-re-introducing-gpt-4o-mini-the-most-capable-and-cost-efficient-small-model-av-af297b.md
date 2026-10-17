@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: b6bbc85c7f8eccb170dedc3586a61032ab6e0000e6691efa48f94e1b5b3110d7
+kind: launch
+machine_hash: 02cb4a387259f88adfa3f5029ac29ab4ffcb4f71c0bb154a13242be954161255
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,8 +44,9 @@ record:
       performance compared to GPT-3.5 Turbo.You can read more about GPT-4o mini in
       the blog announcement here.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: launch
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-introducing-gpt-4o-mini-the-most-capable-and-cost-efficient-small-model-av
@@ -72,27 +74,25 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v2
-  title: ChatGPT introduces GPT-4o mini, the most capable and cost-efficient small
-    model…
+  title: Introducing GPT-4o mini
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-05-16-data-analysis-improvements-are-available-in-our-new-flagship-model-gpt-4o-for-ch|Data
-  analysis improvements are available in our new flagship model, GPT-4o…]]'
 - '[[Changes/Cursor/2024-05-26-gemini-1-5-flash-is-available-in-long-context-mode|Gemini
   1.5 Flash is available in long-context mode]]'
+- '[[Changes/Cursor/2024-05-26-gpt-4o-in-interpreter-mode|GPT-4o in Interpreter Mode]]'
 - '[[Changes/Cursor/2024-06-08-update-0-35-1-disables-copilot-partial-accepts-by-default-and-makes-the-keybindi|UPDATE
   (0.35.1): Disables Copilot++ partial accepts by default and makes…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-07-18-introducing-gpt-4o-mini-e0bf3077|chatgpt-2024-07-18-introducing-gpt-4o-mini-e0bf3077]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: ChatGPT introduces GPT-4o mini, the most capable and cost-efficient small model…
+title: Introducing GPT-4o mini
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT introduces GPT-4o mini, the most capable and cost-efficient small model…
+# Introducing GPT-4o mini
 
-**ChatGPT** · 2024-07-18 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-07-18-introducing-gpt-4o-mini-e0bf3077|Introducing GPT-4o mini]]
+**ChatGPT** · 2024-07-18 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-07-18-introducing-gpt-4o-mini-e0bf3077|Introducing GPT-4o mini]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->

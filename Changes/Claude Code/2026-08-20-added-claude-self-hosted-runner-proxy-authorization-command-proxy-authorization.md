@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: fc9b99891b21cf574e220e352c79fdc4eda8c7bcb3d67f203e5d58a85c73dade
+machine_hash: 4d45e349865d23d3aa1328bb6f340f7603945633d33938665f1ad7a73be55065
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   GitLab merge request URL support to the --worktree flag…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2|claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added claude self-hosted-runner --proxy-authorization-command…
 type: change

@@ -14,9 +14,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 8aaa1b88bc6cbcbd7d31ea7c50cf59cfcb07a4e7e213dfeb307de26925b226d5
+kind: change
+machine_hash: 7771023689ccad7379d4d1f7bd17de2c131139c85cc2f9b162b9147e0fbaf741
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: 'We’ve made two updates to the mobile ChatGPT app:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-ve-made-two-updates-to-the-mobile-chatgpt-app
@@ -42,9 +44,9 @@ related_changes:
 - '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support
   🥳]]'
 - '[[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f|ChatGPT
-  expands availability of the ChatGPT app for iOS to more countries and regions]]'
+  app for iOS in more countries]]'
 - '[[Changes/ChatGPT/2023-05-24-you-can-now-disable-your-chat-history-on-ios-conversations-started-on-your-devic|Disable
-  your chat history on iOS]]'
+  chat history on iOS]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98|chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -74,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-you-can-now-disable-your-chat-history-on-ios-conversations-started-on-your-devic|Disable your chat history on iOS]]
-- Later: 2023-07-25 · ChatGPT · [[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|ChatGPT for Android is now available for download in the United States, India…]]
+- Earlier: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-you-can-now-disable-your-chat-history-on-ios-conversations-started-on-your-devic|Disable chat history on iOS]]
+- Later: 2023-07-25 · ChatGPT · [[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|Introducing the ChatGPT app for Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

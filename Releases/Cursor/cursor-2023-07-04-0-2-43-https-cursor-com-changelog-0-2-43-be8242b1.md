@@ -2,7 +2,7 @@
 changes_count: 0
 date: '2023-07-04'
 description: 'Cursor release Fix for Cmd+K on 2023-07-04: no tracked changes'
-machine_hash: 5e5e1859afe3cf621ca76aabf1bbe860849db00d8d8f0754dedeee1a98a6c859
+machine_hash: 9f48b50ffe1d676452bd3967d66c95320a75a3c29c8981aebc8fde165f761bdc
 product: cursor
 product_name: Cursor
 record:
@@ -37,7 +37,7 @@ version: 0.2.43
 <!-- chronolog:begin region="summary" -->
 Patches a few edgecases with Cmd+K.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

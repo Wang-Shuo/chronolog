@@ -14,9 +14,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: c879839057b5c6772bad2bf56623bee4488044e052cc2bb8ec9d626f02c9dcbf
+kind: launch
+machine_hash: ec7fb2a28ccd210ee554d470cf498b053f6e8513715cebfdd49bb2a0889b5598
 product: cursor
 product_name: Cursor
 record:
@@ -29,8 +30,9 @@ record:
   - quote: 'Composer 2 is now available in Cursor: frontier-level coding performance
       with strong results on challenging coding tasks.'
     source_release: https://cursor.com/changelog/composer-2
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: cursor
   product_name: Cursor
   slug: composer-2-is-now-available-in-cursor-frontier-level-coding-performance-with-str
@@ -40,12 +42,12 @@ record:
   title: Composer 2 is now available in Cursor
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-11-improved-ide-detection-speed-at-startup|Improved
-  IDE detection speed at startup]]'
-- '[[Changes/Claude Code/2026-03-18-improved-startup-memory-usage-by-18mb-across-all-scenarios|Improved
-  startup memory usage by ~18MB across all scenarios]]'
-- '[[Changes/Claude Code/2026-03-18-improved-non-streaming-api-fallback-with-a-2-minute-per-attempt-timeout-preventi|Improved
-  non-streaming API fallback with a 2-minute per-attempt timeout, preventing…]]'
+- '[[Changes/Claude Code/2026-03-17-improved-memory-usage-and-startup-time-when-resuming-large-sessions|Improved
+  memory usage and startup time when resuming large sessions]]'
+- '[[Changes/Claude Code/2026-03-18-2-reliability-and-performance-changes-in-v2-1-79|2
+  Reliability and Performance changes in v2.1.79]]'
+- '[[Changes/Claude Code/2026-03-19-reduced-memory-usage-on-startup-in-large-repositories-80-mb-saved-on-250k-file-r|Reduced
+  memory usage on startup in large repositories (~80 MB saved on 250k-file repos)]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-19-composer-2-https-cursor-com-changelog-composer-2-8a6d25c8|cursor-2026-03-19-composer-2-https-cursor-com-changelog-composer-2-8a6d25c8]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -56,7 +58,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Composer 2 is now available in Cursor
 
-**Cursor** · 2026-03-19 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://cursor.com/changelog/composer-2) · from [[Releases/Cursor/cursor-2026-03-19-composer-2-https-cursor-com-changelog-composer-2-8a6d25c8|Composer 2]]
+**Cursor** · 2026-03-19 · [[Themes/reliability-performance|Reliability and Performance]] · Launch · [Official source](https://cursor.com/changelog/composer-2) · from [[Releases/Cursor/cursor-2026-03-19-composer-2-https-cursor-com-changelog-composer-2-8a6d25c8|Composer 2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -75,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-18 · Claude Code · [[Changes/Claude Code/2026-03-18-improved-non-streaming-api-fallback-with-a-2-minute-per-attempt-timeout-preventi|Improved non-streaming API fallback with a 2-minute per-attempt timeout, preventing…]]
-- Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-added-claude-stream-idle-timeout-ms-env-var-to-configure-the-streaming-idle-watc|Added CLAUDE_STREAM_IDLE_TIMEOUT_MS env var to configure the streaming idle…]]
+- Earlier: 2026-03-19 · Claude Code · [[Changes/Claude Code/2026-03-19-reduced-memory-usage-on-startup-in-large-repositories-80-mb-saved-on-250k-file-r|Reduced memory usage on startup in large repositories (~80 MB saved on 250k-file repos)]]
+- Later: 2026-03-25 · Claude Code · [[Changes/Claude Code/2026-03-25-3-reliability-and-performance-changes-in-v2-1-83|3 Reliability and Performance changes in v2.1.83]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

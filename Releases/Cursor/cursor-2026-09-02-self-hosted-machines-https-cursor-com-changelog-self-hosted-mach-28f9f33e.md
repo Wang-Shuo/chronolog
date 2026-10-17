@@ -1,9 +1,9 @@
 ---
-changes_count: 2
+changes_count: 3
 date: '2026-09-02'
-description: 'Cursor release Self-hosted machines on 2026-09-02: 2 tracked changes
-  across Agent Mode, Enterprise and Administration'
-machine_hash: c93f1b7567b6086d78e1f5bab60312a34bd4492ef00bbc80a673d27fac2869ff
+description: 'Cursor release Self-hosted machines on 2026-09-02: 3 tracked changes
+  across Agent Mode, Mobile and Desktop'
+machine_hash: a9e37dfa775e4ecd396b8298251e045744dee2d3e9ae8f9fc632879a749a56ce
 product: cursor
 product_name: Cursor
 record:
@@ -39,11 +39,12 @@ version: Self-hosted machines
 <!-- chronolog:begin region="summary" -->
 Cursor supports self-hosted machines, which let you keep tool execution entirely in your own network.
 
-Tracked 2 of 7 candidate lines.
+Tracked 3 cards from 7 candidate lines; 3 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-09-02-your-codebase-build-outputs-and-secrets-all-stay-on-internal-machines-running-in|Your codebase, build outputs, and secrets all stay on internal machines running…]] · Agent Mode
-- [[Changes/Cursor/2026-09-02-team-pools-are-named-queues-of-workers-for-a-team-or-enterprise-capacity-can-gro|Team pools are named queues of workers for a team or enterprise]] · Enterprise and Administration
+- [[Changes/Cursor/2026-09-02-run-on-your-sandboxes|Run on your sandboxes]] · Agent Mode · Launch
+- [[Changes/Cursor/2026-09-02-computer-use-on-linux-and-mac|Computer use on Linux and Mac]] · Mobile and Desktop · Launch
+- [[Changes/Cursor/2026-09-02-cursor-supports-self-hosted-machines-which-let-you-keep-tool-execution-entirely|Cursor supports self-hosted machines, which let you keep tool execution entirely…]] · Agent Mode
 <!-- chronolog:end -->

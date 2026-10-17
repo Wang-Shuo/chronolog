@@ -3,7 +3,7 @@ changes_count: 0
 date: '2023-04-17'
 description: 'Cursor release Scroll Bar Hotfix (2023-04-17) on 2023-04-17: no tracked
   changes'
-machine_hash: d1658403d56bc8a5803e4022877086bce789f11e96d7c860fb0bd4ff62fa922f
+machine_hash: a6611aa22e5241d983cd6bd6fade83d58fb5d2523661b7d21bc566b01a461dec
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.2.5
 <!-- chronolog:begin region="summary" -->
 No change cards extracted.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

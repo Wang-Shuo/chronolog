@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 58793bd0ed7a61c0536f43c5e486fce804d479da4bbe1e10e14b00561739ec8e
+kind: change
+machine_hash: f329834fe85341a51d2ff60ef6593614a672c1e02e762b86709254b944ecf3db
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Added `/copy` command to show an interactive picker when code blocks are
       present, allowing selection of individual code blocks or the full response.
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.59
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-copy-command-to-show-an-interactive-picker-when-code-blocks-are-present-al
@@ -42,8 +44,8 @@ record:
     present…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-18-typing-plan-takes-you-back-to-your-current-plan-and-its-action-menu-we-ve-also-a|Typing
-  /plan takes you back to your current plan and its action menu]]'
+- '[[Changes/Cursor/2026-02-18-2-interface-experience-changes-in-cli-improvements-and-mermaid-ascii|2
+  Interface Experience changes in CLI Improvements and Mermaid ASCII…]]'
 - '[[Changes/Cursor/2026-02-18-this-release-introduces-the-ability-to-hand-off-plans-from-the-cli-to-the-cloud|Cursor
   introduces the ability to hand off plans from the CLI to the cloud, in-line…]]'
 - '[[Changes/Claude Code/2026-02-26-improved-ordering-of-short-task-lists|Improved

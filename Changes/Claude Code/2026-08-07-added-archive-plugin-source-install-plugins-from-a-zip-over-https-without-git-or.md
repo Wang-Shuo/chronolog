@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a061e3c8c2b378193e8a702df6853ec121b387e58b8fa3ebd21a6166d10b4d6d
+machine_hash: 80a6dcab463113f2afc7f3c7e4308c32b02b1706ae1645ac60587cf626efefe3
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   the /diff view, the Remote Control workspace diff, and file-edit diffs…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c|claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added archive plugin source
 type: change

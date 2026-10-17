@@ -4,8 +4,8 @@ date: '2023-12-16'
 description: 'Cursor · 2023-12-16 · Apps and Integrations: Copilot++: We''ve continued
   to improve the Copilot++ ghost text experience. Surprisingly, many of us now enjoy…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 268
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f276aab30e7eac8e1be09982bba9f63185106fa093b6675dd1b3ba0441cfed50
+kind: change
+machine_hash: 17007358873a2a222f81dc85194ebcc851649b8e80c7ec8de0b3163a165a54e3
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +32,9 @@ record:
       Surprisingly, many of us now enjoy using Copilot++ without any other autocomplete
       plugin installed.'
     source_release: https://cursor.com/changelog/0-20-0
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: copilot-we-ve-continued-to-improve-the-copilot-ghost-text-experience-surprisingl
@@ -52,10 +54,10 @@ record:
   title: 'Copilot++: We''ve continued to improve the Copilot++ ghost text experience'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-11-06-you-can-now-create-custom-versions-of-chatgpt-that-combine-instructions-extra-kn-5c0997|Create
-  custom versions of ChatGPT that combine instructions, extra knowledge…]]'
-- '[[Changes/Cursor/2023-11-15-now-based-on-vs-code-1-84-2-notably-this-fixes-a-few-notebook-bugs-and-ensures-t|Now
-  based on VS Code 1.84.2]]'
+- '[[Changes/ChatGPT/2023-11-06-you-can-now-create-custom-versions-of-chatgpt-that-combine-instructions-extra-kn-5c0997|Introducing
+  GPTs]]'
+- '[[Changes/Cursor/2023-11-15-now-based-on-vs-code-1-84-2-notably-this-fixes-a-few-notebook-bugs-and-ensures-t|New
+  upstream]]'
 - '[[Changes/Cursor/2023-11-15-cursor-is-now-based-on-vs-code-1-84-2-notably-this-fixes-a-few-notebook-bugs-and|Cursor
   is now based on VS Code 1.84.2]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e|cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e]]'
@@ -89,13 +91,13 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2023-11-15 · Cursor · [[Changes/Cursor/2023-11-15-cursor-is-now-based-on-vs-code-1-84-2-notably-this-fixes-a-few-notebook-bugs-and|Cursor is now based on VS Code 1.84.2]]
-- Later: 2024-01-15 · Cursor · [[Changes/Cursor/2024-01-15-supports-newer-version-of-python-extension|Supports newer version of python extension]]
+- Later: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|Discover what’s trending in the GPT Store]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

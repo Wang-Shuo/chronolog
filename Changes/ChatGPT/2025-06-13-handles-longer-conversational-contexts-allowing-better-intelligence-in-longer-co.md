@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: eb6e8430ae50dfc8ec18beb4245590521cd1f750f113073faba395c4ccd89424
+machine_hash: c4bf4aa8a42180ff9ed9420ecc73d201c2f1f7659e74254f67a54f09bcad15a8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,6 +50,7 @@ related_changes:
   responses that are more intelligent, are better at understanding what you’re…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464|chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: Handles longer conversational contexts, allowing better intelligence in longer…
 type: change

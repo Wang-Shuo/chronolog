@@ -14,9 +14,10 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 1109a80aa52b50d13172bb989253ace8f038c993626dff0a93f24daa57eecff6
+kind: pricing
+machine_hash: 4154c5831a3c4b20b9b74bec27c0c1bf47621ccbaa76c6729b1bf9c4b4e411dd
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   evidence:
   - quote: Added per-model and cache-hit breakdown to `/cost` for subscription users
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.92
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: pricing
   product: claude-code
   product_name: Claude Code
   slug: added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users
@@ -51,8 +53,8 @@ record:
   title: Added per-model and cache-hit breakdown to `/cost` for subscription users
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-10-eligible-chatgpt-plus-and-pro-users-can-now-turn-on-auto-top-up-for-credits-used|Eligible
-  ChatGPT Plus and Pro users can now turn on auto top-up for credits used…]]'
+- '[[Changes/ChatGPT/2026-03-10-eligible-chatgpt-plus-and-pro-users-can-now-turn-on-auto-top-up-for-credits-used-5e9d54|Auto
+  top-up for flexible usage credits]]'
 - '[[Changes/Cursor/2026-03-19-standard-0-50-m-input-2-50-m-output-tokens|Standard:
   $0.50/M input, $2.50/M output tokens]]'
 - '[[Changes/Cursor/2026-03-19-fast-default-1-50-m-input-7-50-m-output-tokens|Fast
@@ -67,7 +69,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Added per-model and cache-hit breakdown to `/cost` for subscription users
 
-**Claude Code** · 2026-04-04 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.92) · from [[Releases/Claude Code/claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5|v2.1.92]]
+**Claude Code** · 2026-04-04 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.92) · from [[Releases/Claude Code/claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5|v2.1.92]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -80,9 +82,14 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-04-04-remote-control-session-names-now-use-your-hostname-as-the-default-prefix-e-g-myh|Remote Control session names now use your hostname as the default prefix…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-04-04-pro-users-now-see-a-footer-hint-when-returning-to-a-session-after-the-prompt-cac|Pro users now see a footer hint when returning to a session after the prompt cache…]] · Context Window
+- [[Changes/Claude Code/2026-04-04-removed-tag-command|Removed /tag command]] · Developer Workflow
+- [[Changes/Claude Code/2026-04-04-improved-write-tool-diff-computation-speed-for-large-files-60-faster-on-files-wi|Improved Write tool diff computation speed for large files…]] · Reliability and Performance
+- [[Changes/Claude Code/2026-04-04-linux-sandbox-now-ships-the-apply-seccomp-helper-in-both-npm-and-native-builds-r|Linux sandbox now ships the apply-seccomp helper in both npm and native builds…]] · Safety and Privacy
 - [[Changes/Claude Code/2026-04-04-release-notes-is-now-an-interactive-version-picker|/release-notes is now an interactive version picker]] · Interface Experience
 - [[Changes/Claude Code/2026-04-04-added-forceremotesettingsrefresh-policy-setting-when-set-the-cli-blocks-startup|Added forceRemoteSettingsRefresh policy setting]] · Enterprise and Administration
 - [[Changes/Claude Code/2026-04-04-added-interactive-bedrock-setup-wizard-accessible-from-the-login-screen-when-sel|Added interactive Bedrock setup wizard accessible from the login screen…]] · Account and Access
+- [[Changes/Claude Code/2026-04-04-removed-vim-command-toggle-vim-mode-via-config-editor-mode|Removed /vim command (toggle vim mode via /config → Editor mode)]] · Editor Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

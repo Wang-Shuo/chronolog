@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9e6153ac854eb1897653ced722b8bdb2facb702e88cb470426d8e9043ed86996
+machine_hash: eacbed23d6340c3fdba966d9bdf3626deee5cfe4d1f8a714f156bc6221e701b5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,6 +51,7 @@ related_changes:
 - '[[Changes/ChatGPT/2026-02-19-write-and-edit-text-in-line|Write and edit text in-line]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-19-interactive-code-blocks-in-chatgpt-c2254f84|chatgpt-2026-02-19-interactive-code-blocks-in-chatgpt-c2254f84]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: editor-experience
 title: We improved Code Blocks in ChatGPT to make them more interactive
 type: change

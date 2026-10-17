@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e9fa0c8180fba3b5643d19df428401716f5872dad427ffae1320da2fd5043d06
+machine_hash: 9eba1a55b6b91f5b80f8e279836051fb55573bdfa8b0a6948401681c92982aee
 product: cursor
 product_name: Cursor
 record:
@@ -67,6 +67,7 @@ related_changes:
   ANTHROPIC_WORKSPACE_ID environment variable for workload identity federation]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da|cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da]]'
 source_type: cursor_changelog
+superseded: true
 theme: enterprise-admin
 title: Teammates open a shared canvas from its link with read-only access
 type: change

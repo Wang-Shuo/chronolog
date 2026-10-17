@@ -1,23 +1,24 @@
 ---
 card_id: claude-code-2026-08-18-d6379f
 date: '2026-08-18'
-description: 'Claude Code · 2026-08-18 · Memory and Personalization: Improved memory
+description: 'Claude Code · 2026-08-18 · Reliability and Performance: Improved memory
   and CPU usage while cloud sessions such as `/ultrareview` or `/autofix-pr` run in
   the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1125
+  lag_days: 1342
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: memory
+  theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 117de34e15a325de548c11ab0ac74ed30882b0185eb37869400f5baf16115488
+kind: change
+machine_hash: 2ad0afacff9b8d26dcceedd3b060363db1ca63a05ca3eda9a7d32037bbc73770
 product: claude-code
 product_name: Claude Code
 record:
@@ -32,26 +33,28 @@ record:
       or `/autofix-pr` run in the background — their event streams are no longer re-scanned
       and re-rendered on every update
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.235
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-memory-and-cpu-usage-while-cloud-sessions-such-as-ultrareview-or-autofi
   source_release: claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f
   source_type: github_releases
-  theme: memory
+  theme: reliability-performance
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v2
   title: Improved memory and CPU usage while cloud sessions such as `/ultrareview`…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-14-you-can-now-change-a-project-s-memory-setting-after-you-create-it-open-the-proje|Change
-  a project’s memory setting after you create it]]'
-- '[[Changes/Claude Code/2026-08-14-added-opt-in-memory-cgroup-support-for-bash-tool-commands-on-linux-claude-code-t|Added
-  opt-in memory cgroup support for Bash tool commands on Linux…]]'
-- '[[Changes/Claude Code/2026-08-18-improved-the-embedded-grep-in-native-macos-linux-builds-pathological-patterns-no|Improved
-  the embedded grep in native macOS/Linux builds]]'
+- '[[Changes/Claude Code/2026-07-21-added-warnings-when-transcript-writes-are-failing-e-g-disk-full-or-when-session|Added
+  warnings when transcript writes are failing (e.g. disk full) or when session…]]'
+- '[[Changes/Claude Code/2026-08-10-improved-performance-fewer-event-loop-stalls-on-file-not-found-suggestions-and-a|Improved
+  performance: fewer event-loop stalls on file-not-found suggestions…]]'
+- '[[Changes/Cursor/2026-08-13-faster-starts|Faster starts]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f|claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f]]'
 source_type: github_releases
-theme: memory
+theme: reliability-performance
 title: Improved memory and CPU usage while cloud sessions such as /ultrareview…
 type: change
 ---
@@ -59,7 +62,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Improved memory and CPU usage while cloud sessions such as `/ultrareview`…
 
-**Claude Code** · 2026-08-18 · [[Themes/memory|Memory and Personalization]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.235) · from [[Releases/Claude Code/claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f|v2.1.235]]
+**Claude Code** · 2026-08-18 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.235) · from [[Releases/Claude Code/claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f|v2.1.235]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -72,21 +75,22 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-08-18-improved-the-embedded-grep-in-native-macos-linux-builds-pathological-patterns-no|Improved the embedded grep in native macOS/Linux builds]] · Memory and Personalization
-- [[Changes/Claude Code/2026-08-18-improved-permission-dialogs-display-text-and-don-t-ask-again-options-now-always|Improved permission dialogs]] · Safety and Privacy
-- [[Changes/Claude Code/2026-08-18-fixed-shift-tab-inside-the-permission-prompt-s-comment-field-approving-the-edit|Fixed Shift+Tab inside the permission prompt's comment field approving the edit…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-08-18-improved-the-context-limit-error-to-say-when-auto-compact-is-off-and-point-to-co|Improved the context-limit error to say when auto-compact is off and point…]] · Context Window
+- [[Changes/Claude Code/2026-08-18-remote-control-claude-rc-now-applies-the-same-enterprise-gateway-availability-ch|Remote Control: claude rc now applies the same enterprise-gateway availability…]] · Enterprise and Administration
+- [[Changes/Claude Code/2026-08-18-2-safety-and-privacy-changes-in-v2-1-235|2 Safety and Privacy changes in v2.1.235]] · Safety and Privacy
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Memory and Personalization
+## Nearby in Reliability and Performance
 
-- Earlier: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-added-opt-in-memory-cgroup-support-for-bash-tool-commands-on-linux-claude-code-t|Added opt-in memory cgroup support for Bash tool commands on Linux…]]
-- Later: 2026-08-27 · ChatGPT · [[Changes/ChatGPT/2026-08-27-saving-a-temporary-chat-when-a-conversation-becomes-useful-for-the-future-you-ca|Saving a temporary chat]]
+- Earlier: 2026-08-13 · Cursor · [[Changes/Cursor/2026-08-13-faster-starts|Faster starts]]
+- Later: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-improved-startup-performance-the-session-counter-is-now-written-in-the-backgroun|Improved startup performance: the session counter is now written in the background]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

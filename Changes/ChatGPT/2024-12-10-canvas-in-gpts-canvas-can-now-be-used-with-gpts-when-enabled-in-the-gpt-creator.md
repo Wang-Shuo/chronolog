@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: de414ec76dc9f9f904702bb080c4f50f55cb3e69c26a277bb3c79658f84cef93
+machine_hash: bea68bd31b659f11c2736eca1fc24efc46d81b262ec9ff894d96ab2eef3ff6aa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,6 +51,7 @@ related_changes:
   and download presentation-ready charts and documents]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-10-canvas-a457e8f0|chatgpt-2024-12-10-canvas-a457e8f0]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: file-data
 title: 'Canvas in GPTs: Canvas can now be used with GPTs when enabled in the GPT creator'
 type: change

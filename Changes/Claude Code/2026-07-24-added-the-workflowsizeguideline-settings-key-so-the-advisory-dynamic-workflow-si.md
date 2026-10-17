@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1ea13dafdda496ab4d15f7d3f1cad01ada08a5211e59641a8eeee33b9f6eb649
+machine_hash: c16495f754f5a8e841405e48f68307e07fecf6c7863be3e3251a5ce0bfba8a0c
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   is now powered by Cursor Router]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233|claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added the workflowSizeGuideline settings key so the advisory Dynamic workflow
   size…

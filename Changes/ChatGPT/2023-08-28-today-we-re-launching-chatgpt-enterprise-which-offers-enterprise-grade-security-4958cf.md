@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 9bf025833332f21cc173810601c96f3bdad8030455a2ca05d30119d1c6efdf73
+kind: launch
+machine_hash: 5cc90add09696382c2a66da4b7cb8ff2dd4e76462012591f2b00173a83cafab4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,8 +39,9 @@ record:
       Advanced Data Analysis, previously known as Code Interpreter.Learn more on our
       website and connect with our sales team to get started.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: chatgpt
   product_name: ChatGPT
   slug: today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security
@@ -77,7 +79,7 @@ record:
     score: 50
     theme: reliability-performance
   theme_resolution: manual-semantic-rule-v2
-  title: ChatGPT launches ChatGPT Enterprise, which offers enterprise-grade security…
+  title: Introducing ChatGPT Enterprise
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
@@ -87,14 +89,14 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2023-08-28-introducing-chatgpt-enterprise-eb7127e6|chatgpt-2023-08-28-introducing-chatgpt-enterprise-eb7127e6]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
-title: ChatGPT launches ChatGPT Enterprise, which offers enterprise-grade security…
+title: Introducing ChatGPT Enterprise
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT launches ChatGPT Enterprise, which offers enterprise-grade security…
+# Introducing ChatGPT Enterprise
 
-**ChatGPT** · 2023-08-28 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-08-28-introducing-chatgpt-enterprise-eb7127e6|Introducing ChatGPT Enterprise]]
+**ChatGPT** · 2023-08-28 · [[Themes/safety-privacy|Safety and Privacy]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-08-28-introducing-chatgpt-enterprise-eb7127e6|Introducing ChatGPT Enterprise]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->

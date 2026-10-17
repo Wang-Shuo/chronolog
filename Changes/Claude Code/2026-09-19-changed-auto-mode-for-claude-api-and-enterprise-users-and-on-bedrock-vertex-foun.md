@@ -15,9 +15,10 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 953cb2ce8d68b4a027a022dc7d95f595b49dca1f62e5d7e37666c4bfc910cc9b
+kind: pricing
+machine_hash: fde51e5eb3a68203b5aa2276c8ef61357c99ce660f77a9609b8ba3fdcbed4056
 product: claude-code
 product_name: Claude Code
 record:
@@ -36,8 +37,9 @@ record:
       out on Bedrock, Vertex, Foundry and gateways); warns on billed fallback. See
       https://code.claude.com/docs/en/auto-mode-classifier-billing
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.278
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: pricing
   product: claude-code
   product_name: Claude Code
   slug: changed-auto-mode-for-claude-api-and-enterprise-users-and-on-bedrock-vertex-foun
@@ -61,12 +63,12 @@ record:
   title: Changed auto mode for Claude API and Enterprise users, and on Bedrock, Vertex…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-added-a-per-session-prompt-cache-line-to-cost-hit-ratio-misses-tokens-re-cached|Added
-  a per-session prompt-cache line to /cost…]]'
-- '[[Changes/ChatGPT/2026-09-09-pro-100-month-up-to-15-hours-with-gpt-live-1|Pro ($100/month):
-  Up to 15 hours with GPT-Live-1]]'
-- '[[Changes/Claude Code/2026-09-10-added-to-the-claude-apps-gateway-with-pricing-set-in-gateway-yaml-signed-in-clau|Added
-  to the Claude apps gateway]]'
+- '[[Changes/Claude Code/2026-09-14-added-support-for-a-multiplier-above-1-up-to-10-in-the-modelpricing-managed-sett|Added
+  support for a multiplier above 1, up to 10, in the modelPricing managed…]]'
+- '[[Changes/Claude Code/2026-09-17-claude-code-on-the-web-changed-a-routine-s-on-hold-notice-when-your-subscription|Claude
+  Code on the web Changed a routine''s on-hold notice]]'
+- '[[Changes/Claude Code/2026-09-18-vscode-added-the-session-s-cost-and-token-usage-to-the-account-usage-dialog-and|VSCode
+  Added the session''s cost and token usage to the Account & usage dialog…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-19-v2-1-278-github-391877760-2958ad0a|claude-code-2026-09-19-v2-1-278-github-391877760-2958ad0a]]'
 source_type: github_releases
 theme: pricing-model
@@ -77,7 +79,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Changed auto mode for Claude API and Enterprise users, and on Bedrock, Vertex…
 
-**Claude Code** · 2026-09-19 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.278) · from [[Releases/Claude Code/claude-code-2026-09-19-v2-1-278-github-391877760-2958ad0a|v2.1.278]]
+**Claude Code** · 2026-09-19 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.278) · from [[Releases/Claude Code/claude-code-2026-09-19-v2-1-278-github-391877760-2958ad0a|v2.1.278]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -95,8 +97,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-added-to-the-claude-apps-gateway-with-pricing-set-in-gateway-yaml-signed-in-clau|Added to the Claude apps gateway]]
-- Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-added-dollar-amounts-to-the-claude-apps-gateway-spend-limit-in-usage-and-the-sta|Added dollar amounts to the Claude apps gateway spend limit in /usage…]]
+- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-vscode-added-the-session-s-cost-and-token-usage-to-the-account-usage-dialog-and|VSCode Added the session's cost and token usage to the Account & usage dialog…]]
+- Later: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-improved-cost-cache-miss-causes-to-name-thinking-mode-and-thinking-display-chang|Improved /cost cache-miss causes to name thinking mode and thinking display changes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: b7916b8facc10c36f12a2f3aef7455c4aece4957f5f01e5825503e0d6f58b40a
+machine_hash: bca5e78cc60c78fe092fef443fabcb1a6d570af1d9beefbef96240094325c618
 product: cursor
 product_name: Cursor
 record:
@@ -53,6 +53,7 @@ related_changes:
   and manage plugins, skills, MCPs, subagents, rules, commands, and hooks…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2|cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: Add any to your setup with one click from the new Customize page and extend
   Cursor…

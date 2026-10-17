@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 40300d0ad3647ff9bb26cfb12146c96c91ae9ba41ae4e568b5dc4aeedb2ee619
+machine_hash: e91571743e2bab75e1244073168273e353daa4738b72cedda4cd15a3f6ad3962
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   Remote Control /poll rate to once per 10 minutes while connected…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48|claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Changed tool search to bypass the third-party proxy gate when the environment…
 type: change

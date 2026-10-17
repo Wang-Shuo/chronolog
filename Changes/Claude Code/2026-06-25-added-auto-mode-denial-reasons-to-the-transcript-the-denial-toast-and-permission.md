@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 03bc7b121c616dd5142b9d7355d337ea94a172e71d011862fdc1b3576af90a26
+machine_hash: 3da8b38eec31836b5c531d5deac94b1a2d4f916366cdb7326c96be7be5a5624c
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   status filtering (press f) to the /workflows agent detail view]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-25-v2-1-193-github-344922230-0655000d|claude-code-2026-06-25-v2-1-193-github-344922230-0655000d]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added auto-mode denial reasons to the transcript, the denial toast…
 type: change

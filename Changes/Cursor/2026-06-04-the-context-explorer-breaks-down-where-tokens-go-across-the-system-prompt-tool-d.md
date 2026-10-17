@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: b770afa628fb6c6a3a0c15ae86b41ca7d47cc4455f2b1a2515583bdfd01dc9e8
+machine_hash: e1ee1f17ed38c67070c59dbff46eeb1b23c0316660990e197e682db4272d41f2
 product: cursor
 product_name: Cursor
 record:
@@ -69,6 +69,7 @@ related_changes:
   introduces Design Mode for faster canvas editing, new ways to understand…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85|cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: The context explorer breaks down where tokens go across the system prompt,
   tool…

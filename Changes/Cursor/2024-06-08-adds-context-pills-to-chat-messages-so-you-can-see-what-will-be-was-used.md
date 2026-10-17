@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7eee63038687a1ceb237a76fbd30c65c0d479b37339b7e08b8a00532756607dc
+machine_hash: 3518166a19aa594c24f71d5642530e1d4f9698bd5dbce6ef0769b224e7891f84
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   You can write down repo-level rules for the AI by creating…]]'
 source_release: '[[Releases/Cursor/cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90|cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: Adds context pills to chat messages, so you can see what will be/was used
 type: change

@@ -5,8 +5,8 @@ description: 'ChatGPT · 2025-10-13 · Apps and Integrations: We’re rolling ou
   new ways to bring Slack and ChatGPT together: a connector that brings your Slack
   context…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 935
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: 7ccf32a9b1ad18cda113e8e99e84747c116a41ebd333a4a77f28ff9ebe286df3
+kind: change
+machine_hash: 9afc6b3fbc1dd3924745a7cf27b16199a13554f6fa9bb0c743350fb2de93abe0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,8 +65,9 @@ record:
       enabled for your account.Visit the ChatGPT app for Slack page to get started
       with installation.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-rolling-out-two-new-ways-to-bring-slack-and-chatgpt-together-a-connector-t
@@ -105,24 +107,23 @@ record:
     - mobile
     score: 50
     theme: mobile-desktop
-  title: ChatGPT rolls out two new ways to bring Slack and ChatGPT together
+  title: Slack connector and app
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-12-additionally-interpolated-variables-are-now-supported-for-mcp-this-enables-using|Additionally,
-  interpolated variables are now supported for MCP]]'
-- '[[Changes/Cursor/2025-09-29-use-hooks-to-audit-agent-usage-block-commands-or-redact-secrets-from-context-it|Use
-  Hooks to audit Agent usage, block commands, or redact secrets from context]]'
-- '[[Changes/ChatGPT/2025-10-09-we-re-adding-notion-and-linear-as-synced-connectors-for-pro-users-so-you-can-sec|ChatGPT
-  adds Notion and Linear as synced connectors (for Pro users), so you can…]]'
+- '[[Changes/Cursor/2025-09-12-mcp-resources-support|MCP Resources support]]'
+- '[[Changes/Cursor/2025-09-29-4-apps-and-integrations-changes-in-1-7|4 Apps and Integrations
+  changes in 1.7]]'
+- '[[Changes/ChatGPT/2025-10-09-we-re-adding-notion-and-linear-as-synced-connectors-for-pro-users-so-you-can-sec|Adding
+  Notion & Linear synced connectors]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-13-slack-connector-and-app-931a6153|chatgpt-2025-10-13-slack-connector-and-app-931a6153]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: ChatGPT rolls out two new ways to bring Slack and ChatGPT together
+title: Slack connector and app
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT rolls out two new ways to bring Slack and ChatGPT together
+# Slack connector and app
 
 **ChatGPT** · 2025-10-13 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-10-13-slack-connector-and-app-931a6153|Slack connector and app]]
 <!-- chronolog:end -->
@@ -140,14 +141,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-10-09 · ChatGPT · [[Changes/ChatGPT/2025-10-09-we-re-adding-notion-and-linear-as-synced-connectors-for-pro-users-so-you-can-sec|ChatGPT adds Notion and Linear as synced connectors (for Pro users), so you can…]]
-- Later: 2025-12-18 · ChatGPT · [[Changes/ChatGPT/2025-12-18-you-can-now-browse-and-add-approved-apps-in-the-new-app-directory-apps-let-you-w|Browse and add approved apps in the new app directory]]
+- Earlier: 2025-10-09 · ChatGPT · [[Changes/ChatGPT/2025-10-09-we-re-adding-notion-and-linear-as-synced-connectors-for-pro-users-so-you-can-sec|Adding Notion & Linear synced connectors]]
+- Later: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-project-level-hooks-are-now-supported|Project level hooks are now supported]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

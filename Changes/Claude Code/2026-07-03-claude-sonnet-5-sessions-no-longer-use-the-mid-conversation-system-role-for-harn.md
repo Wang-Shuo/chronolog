@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 3a2f51d2ba8c2a357a812506ca080f54ce636e05281a34327fe1d9ef0ef194d5
+kind: change
+machine_hash: 46b961f0b54be275a2177a039178025fbc53502c045be30184751e55aa43fcaf
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Claude Sonnet 5 sessions no longer use the mid-conversation system role
       for harness reminders
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.201
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: claude-sonnet-5-sessions-no-longer-use-the-mid-conversation-system-role-for-harn
@@ -47,8 +49,8 @@ related_changes:
   support for organization default models]]'
 - '[[Changes/Claude Code/2026-06-30-introducing-claude-sonnet-5-now-the-default-model-in-claude-code-with-a-native-1|Introducing
   Claude Sonnet 5]]'
-- '[[Changes/Claude Code/2026-07-01-gateway-added-claude-platform-on-aws-anthropicaws-as-an-upstream-provider-model|Gateway:
-  added Claude Platform on AWS (anthropicAws) as an upstream provider]]'
+- '[[Changes/Claude Code/2026-07-01-2-model-support-changes-in-v2-1-198|2 Model Support
+  changes in v2.1.198]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-03-v2-1-201-github-348791299-ee865ada|claude-code-2026-07-03-v2-1-201-github-348791299-ee865ada]]'
 source_type: github_releases
 theme: model-support
@@ -76,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-gateway-added-claude-platform-on-aws-anthropicaws-as-an-upstream-provider-model|Gateway: added Claude Platform on AWS (anthropicAws) as an upstream provider]]
-- Later: 2026-07-06 · ChatGPT · [[Changes/ChatGPT/2026-07-06-we-re-rolling-out-gpt-5-5-instant-mini-in-chatgpt-it-replaces-gpt-5-3-instant-mi|ChatGPT rolls out GPT-5.5 Instant Mini]]
+- Earlier: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-2-model-support-changes-in-v2-1-198|2 Model Support changes in v2.1.198]]
+- Later: 2026-07-06 · ChatGPT · [[Changes/ChatGPT/2026-07-06-we-re-rolling-out-gpt-5-5-instant-mini-in-chatgpt-it-replaces-gpt-5-3-instant-mi|GPT-5.5 Instant Mini in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

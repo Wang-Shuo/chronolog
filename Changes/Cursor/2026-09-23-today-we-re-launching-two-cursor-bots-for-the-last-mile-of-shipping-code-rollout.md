@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b64368236e8549fc9424d56e9be753b26583742bf2d1ccc7524e431be7abbb2b
+machine_hash: 779c0b5ccd3470e548af4762b307c34cc60fb4cdf3258729201b9bfc9752abc4
 product: cursor
 product_name: Cursor
 record:
@@ -62,6 +62,7 @@ related_changes:
   Home and End doing nothing in the /config settings list and in selection…]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb|cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb]]'
 source_type: cursor_changelog
+superseded: true
 theme: safety-privacy
 title: Cursor launches two Cursor bots for the last mile of shipping code
 type: change

@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 63db496aa17de3483bd50cc602a2be95358d25bc94d9046c400fb94eb56aaf0c
+kind: change
+machine_hash: f8f79f40db20e0a7a265ba2dba9c4509dcd4557969b5c351e1c0fe603212c160
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Improved backspace to delete pasted text as a single token instead of one
       character at a time
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.14
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-backspace-to-delete-pasted-text-as-a-single-token-instead-of-one-charac
@@ -43,12 +45,12 @@ record:
     character…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-09-added-shift-tab-keyboard-shortcut-in-plan-mode-to-quickly-select-auto-accept-edi|Added
-  Shift+Tab keyboard shortcut in plan mode to quickly select…]]'
 - '[[Changes/Claude Code/2026-01-13-added-updates-section-to-doctor-showing-auto-update-channel-and-available-npm-ve|Added
   Updates section to /doctor showing auto-update channel and available npm…]]'
 - '[[Changes/Claude Code/2026-01-14-added-showturnduration-setting-to-hide-turn-duration-messages-e-g-cooked-for-1m|Added
   showTurnDuration setting to hide turn duration messages (e.g., "Cooked for 1m 6s")]]'
+- '[[Changes/Cursor/2026-01-16-2-interface-experience-changes-in-cli-agent-modes-and-cloud-handoff|2
+  Interface Experience changes in CLI Agent Modes and Cloud Handoff]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111|claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111]]'
 source_type: github_releases
 theme: interface-experience
@@ -71,17 +73,16 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-01-20-2-apps-and-integrations-changes-in-v2-1-14|2 Apps and Integrations changes in v2.1.14]] · Apps and Integrations
 - [[Changes/Claude Code/2026-01-20-vscode-added-usage-command-to-display-current-plan-usage|VSCode Added /usage command to display current plan usage]] · Developer Workflow
-- [[Changes/Claude Code/2026-01-20-added-support-for-pinning-plugins-to-specific-git-commit-shas-allowing-marketpla|Added support for pinning plugins to specific git commit SHAs, allowing marketplace…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-01-20-added-search-to-installed-plugins-list-type-to-filter-by-name-or-description|Added search to installed plugins list - type to filter by name or description]] · Apps and Integrations
 - [[Changes/Claude Code/2026-01-20-added-history-based-autocomplete-in-bash-mode-type-a-partial-command-and-press-t|Added history-based autocomplete in bash mode (!) - type a partial command…]] · Editor Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-14 · Claude Code · [[Changes/Claude Code/2026-01-14-added-showturnduration-setting-to-hide-turn-duration-messages-e-g-cooked-for-1m|Added showTurnDuration setting to hide turn duration messages (e.g., "Cooked for 1m 6s")]]
-- Later: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-added-pr-review-status-indicator-to-the-prompt-footer-showing-the-current-branch|Added PR review status indicator to the prompt footer, showing the current branch's…]]
+- Earlier: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-2-interface-experience-changes-in-cli-agent-modes-and-cloud-handoff|2 Interface Experience changes in CLI Agent Modes and Cloud Handoff]]
+- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-2-interface-experience-changes-in-2-4|2 Interface Experience changes in 2.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

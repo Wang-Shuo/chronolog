@@ -4,7 +4,7 @@ date: '2025-06-04'
 description: 'ChatGPT release Connectors in beta for deep research (Plus, Pro, Team,
   Enterprise, Edu) on 2025-06-04: 3 tracked changes across Search and Browsing, Apps
   and…'
-machine_hash: 59c237c2d3cc32fe7fe777c885502c39c4b196e3d52cca048de4c3b99542dd40
+machine_hash: 99d4aab89a4e43855b0d26147f6abd146be7b8b16b812466863671a3654dac04
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,7 +44,7 @@ version: Connectors in beta for deep research (Plus, Pro, Team, Enterprise, Edu)
 <!-- chronolog:begin region="summary" -->
 ChatGPT Team, Enterprise, and Edu customers globally can use connectors in deep research, as well as Pro and Plus users (excluding users in Switzerland, EEA, and the UK) to generate long-form, cited responses that include your company’s internal tools.
 
-Tracked 3 of 4 candidate lines.
+Tracked 3 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

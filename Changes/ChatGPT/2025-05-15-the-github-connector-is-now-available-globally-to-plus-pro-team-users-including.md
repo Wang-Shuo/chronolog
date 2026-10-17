@@ -4,8 +4,8 @@ date: '2025-05-15'
 description: 'ChatGPT · 2025-05-15 · Apps and Integrations: The GitHub connector is
   now available globally to Plus/Pro/Team users, including those in the EEA, Switzerland…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 784
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 1f35eaa765f644dd946ac92ed13de02fed635132b1fb56365ca80c5ca3907ace
+kind: expansion
+machine_hash: 439fb2e8503ae7f25021dcddb546b8abe873121f45ebc6edfd58287388034d66
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,8 +31,9 @@ record:
   - quote: The GitHub connector is now available globally to Plus/Pro/Team users,
       including those in the EEA, Switzerland, and the UK.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: expansion
   product: chatgpt
   product_name: ChatGPT
   slug: the-github-connector-is-now-available-globally-to-plus-pro-team-users-including
@@ -48,26 +50,25 @@ record:
     score: 50
     theme: collaboration
   theme_resolution: manual-semantic-rule-v1
-  title: The GitHub connector is now available globally to Plus/Pro/Team users, including…
+  title: GitHub connector for deep research
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-mcp-improved-reliability-and-quality-of-life-enhancements-for-building-mcp-serve|MCP:
-  Improved reliability and quality of life enhancements for building MCP servers…]]'
-- '[[Changes/Cursor/2025-02-19-0-46-2-improved-mcp-reliability-added-option-to-disable-yolo-mode-for-mcp|0.46.2:
-  Improved MCP reliability, added option to disable yolo mode for MCP]]'
-- '[[Changes/Cursor/2025-03-23-projects-with-mcp-servers-will-now-prompt-users-to-enable-them|Projects
-  with MCP servers will now prompt users to enable them]]'
+- '[[Changes/Cursor/2025-03-11-mcp-added-global-server-configuration-with-cursor-mcp-json-and-support-for-envir|MCP:
+  Added global server configuration with ~/.cursor/mcp.json and support…]]'
+- '[[Changes/Cursor/2025-03-23-3-apps-and-integrations-changes-in-0-48-x|3 Apps and
+  Integrations changes in 0.48.x]]'
+- '[[Changes/Cursor/2025-04-15-images-in-mcp|Images in MCP]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-15-github-connector-for-deep-research-0808a124|chatgpt-2025-05-15-github-connector-for-deep-research-0808a124]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: The GitHub connector is now available globally to Plus/Pro/Team users, including…
+title: GitHub connector for deep research
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# The GitHub connector is now available globally to Plus/Pro/Team users, including…
+# GitHub connector for deep research
 
-**ChatGPT** · 2025-05-15 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-05-15-github-connector-for-deep-research-0808a124|GitHub connector for deep research]]
+**ChatGPT** · 2025-05-15 · [[Themes/apps-integrations|Apps and Integrations]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-05-15-github-connector-for-deep-research-0808a124|GitHub connector for deep research]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -83,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-projects-with-mcp-servers-will-now-prompt-users-to-enable-them|Projects with MCP servers will now prompt users to enable them]]
-- Later: 2025-06-04 · ChatGPT · [[Changes/ChatGPT/2025-06-04-supported-connectors-google-drive-sharepoint-dropbox-box-outlook-gmail-google-ca|Supported connectors: Google Drive, SharePoint, Dropbox, Box, Outlook, Gmail, Google…]]
+- Earlier: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-images-in-mcp|Images in MCP]]
+- Later: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-refreshed-inline-edit-cmd-ctrl-k-with-agent-integration|Refreshed Inline Edit (Cmd/Ctrl+K) with Agent integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,8 +4,8 @@ date: '2023-06-09'
 description: 'Cursor · 2023-06-09 · Apps and Integrations: You can now have the AI
   read documentation on your behalf! This will improve it''s ability to answer questions…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 78
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 6251465f479fefc650793f7d1c12d422db7bb0c499d308f9ae8c6765e766e1ae
+kind: change
+machine_hash: dc2c10d30cedf9a553419753460d6586b1a5667ba917d0b5a9da758d7e760f23
 product: cursor
 product_name: Cursor
 record:
@@ -32,8 +33,9 @@ record:
       it's ability to answer questions about your favorite libraries. To use this
       feature, simply press the "Docs" button in the top right of the chat pane.
     source_release: https://cursor.com/changelog/0-2-30
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: you-can-now-have-the-ai-read-documentation-on-your-behalf-this-will-improve-it-s
@@ -42,24 +44,24 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Have the AI read documentation on your behalf!
+  title: Show the AI documentation
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-05-12-plugins-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-use-third-party|Plugins:
-  Try a new version of ChatGPT that knows when and how to use third-party…]]'
 - '[[Changes/ChatGPT/2023-05-12-in-the-plugins-dropdown-click-plugin-store-to-install-and-enable-new-plugins|In
   the “Plugins” dropdown, click “Plugin Store” to install and enable new plugins]]'
-- '[[Changes/Cursor/2023-05-17-you-can-pin-custom-extensions-to-your-activity-bar-in-the-top-left|You
-  can Pin custom extensions to your activity bar in the top left]]'
+- '[[Changes/Cursor/2023-05-17-you-can-pin-custom-extensions-to-your-activity-bar-in-the-top-left|Activity
+  Bar pinning]]'
+- '[[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|Bing
+  Plugin]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-09-0-2-30-https-cursor-com-changelog-0-2-30-0ed341a6|cursor-2023-06-09-0-2-30-https-cursor-com-changelog-0-2-30-0ed341a6]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: Have the AI read documentation on your behalf!
+title: Show the AI documentation
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Have the AI read documentation on your behalf!
+# Show the AI documentation
 
 **Cursor** · 2023-06-09 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://cursor.com/changelog/0-2-30) · from [[Releases/Cursor/cursor-2023-06-09-0-2-30-https-cursor-com-changelog-0-2-30-0ed341a6|Show the AI documentation]]
 <!-- chronolog:end -->
@@ -77,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2023-05-17 · Cursor · [[Changes/Cursor/2023-05-17-you-can-pin-custom-extensions-to-your-activity-bar-in-the-top-left|You can Pin custom extensions to your activity bar in the top left]]
-- Later: 2023-06-16 · Cursor · [[Changes/Cursor/2023-06-16-we-ve-added-support-for-using-your-azure-openai-credentials-also-small-improveme|Cursor adds support for using your Azure OpenAI credentials]]
+- Earlier: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|Bing Plugin]]
+- Later: 2023-06-16 · Cursor · [[Changes/Cursor/2023-06-16-we-ve-added-support-for-using-your-azure-openai-credentials-also-small-improveme|Azure Support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

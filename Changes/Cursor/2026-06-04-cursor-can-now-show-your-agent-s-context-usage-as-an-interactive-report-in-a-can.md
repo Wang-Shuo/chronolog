@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 391a8d2a19632e17a1fb7b27cec0c02e80c02cb6af74afaf813c557b3472c969
+machine_hash: 67123f2134af05536c56637101aa156577ec646fe115e064be789da14686cb30
 product: cursor
 product_name: Cursor
 record:
@@ -65,6 +65,7 @@ related_changes:
   now reserves the multiple-choice question prompt for decisions it genuinely…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85|cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: Cursor can now show your agent's context usage as an interactive report in
   a canvas

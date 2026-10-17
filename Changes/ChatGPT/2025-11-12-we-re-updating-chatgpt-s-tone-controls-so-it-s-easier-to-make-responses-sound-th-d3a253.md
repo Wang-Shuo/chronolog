@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: e68978ddda35ef7d6c9bdc42419a89c9da68650964d1d6f179ddb0f89f7255de
+kind: change
+machine_hash: 7efae0abe7f638f3ea48716d6df774b635afe25b931eeaea630fb38299003b4d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,8 +43,9 @@ record:
       existing conversations), and GPT-5.1 models follow your custom instructions
       and style preferences more reliably.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th
@@ -63,24 +65,22 @@ record:
     score: 110
     theme: memory
   theme_resolution: manual-semantic-rule-v2
-  title: We’re updating ChatGPT’s tone controls so it’s easier to make responses sound…
+  title: New tone and personalization controls
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-22-we-re-updating-the-model-for-signed-out-users-to-gpt-5-instant-giving-more-peopl|We’re
-  updating the model for signed-out users to GPT-5 Instant, giving more people…]]'
-- '[[Changes/Cursor/2025-10-29-introducing-our-first-agentic-coding-model-composer-is-a-frontier-model-that-is|Introducing
-  our first agentic coding model]]'
+- '[[Changes/Cursor/2025-10-29-introducing-our-first-agentic-coding-model-composer-is-a-frontier-model-that-is|Composer]]'
+- '[[Changes/Cursor/2025-10-29-plan-mode-in-background|Plan Mode in Background]]'
 - '[[Changes/ChatGPT/2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to|Interrupt
-  long-running queries (such as deep research or GPT-5 Pro) to refine what…]]'
+  ChatGPT]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-12-new-tone-and-personalization-controls-8052eeb3|chatgpt-2025-11-12-new-tone-and-personalization-controls-8052eeb3]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We’re updating ChatGPT’s tone controls so it’s easier to make responses sound…
+title: New tone and personalization controls
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We’re updating ChatGPT’s tone controls so it’s easier to make responses sound…
+# New tone and personalization controls
 
 **ChatGPT** · 2025-11-12 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-11-12-new-tone-and-personalization-controls-8052eeb3|New tone and personalization controls]]
 <!-- chronolog:end -->
@@ -98,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-05 · ChatGPT · [[Changes/ChatGPT/2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to|Interrupt long-running queries (such as deep research or GPT-5 Pro) to refine what…]]
-- Later: 2025-11-12 · ChatGPT · [[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4|We’re updating GPT-5 to GPT-5.1 Instant and GPT-5.1 Thinking, making answers both…]]
+- Earlier: 2025-11-05 · ChatGPT · [[Changes/ChatGPT/2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to|Interrupt ChatGPT]]
+- Later: 2025-11-12 · ChatGPT · [[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4|GPT-5.1 in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

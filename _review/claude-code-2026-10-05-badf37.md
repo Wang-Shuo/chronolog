@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: e2d175e01a2c2925908794daaa159d0b50e2dd48da41bad0e22607b98bafdcdb
+machine_hash: 39e50a5a92c0cb8845c4a08c4980b48d80c4ddaa6a367dff3815ed4cbec7ea5d
 product: claude-code
 record:
   card_id: claude-code-2026-10-05-badf37
@@ -13,8 +13,9 @@ record:
   - quote: Added `ceiling` to the question and verdict a mod's `tool.check` hook reads,
       naming the approval an organization requires for a tool
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.290
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-ceiling-to-the-question-and-verdict-a-mod-s-tool-check-hook-reads-naming-t

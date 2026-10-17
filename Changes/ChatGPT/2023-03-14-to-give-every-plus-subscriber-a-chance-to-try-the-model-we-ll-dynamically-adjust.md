@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 15d13c44f875bd06ce3812df885c08b83458e34f2d494ca8adf40ff970cee693
+machine_hash: 8fee9f9c175772cd4fedf62be1859e5236f2197b9e54ce954f92269f41992a82
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -65,6 +65,7 @@ related_changes:
 - '[[Changes/ChatGPT/2023-03-14-advanced-reasoning|Advanced reasoning]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-03-14-announcing-gpt-4-in-chatgpt-43063370|chatgpt-2023-03-14-announcing-gpt-4-in-chatgpt-43063370]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: To give every Plus subscriber a chance to try the model, we'll dynamically
   adjust…

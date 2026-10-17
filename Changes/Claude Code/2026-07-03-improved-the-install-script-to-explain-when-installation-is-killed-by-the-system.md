@@ -15,9 +15,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 08a4c6b0c2200deb82b3dea62070a9ca65bf34c71595644678579397153ad0d2
+kind: change
+machine_hash: c97a28631a7794a686b35b6cd32da887f1900119db3ca35f8fd5c24af6b9fafb
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Improved the install script to explain when installation is killed by the
       system running out of memory
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.200
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-the-install-script-to-explain-when-installation-is-killed-by-the-system
@@ -46,10 +48,10 @@ record:
 related_changes:
 - '[[Changes/Claude Code/2026-06-20-the-stream-stall-hint-now-reads-waiting-for-api-response-will-retry-in-instead-o|The
   stream-stall hint now reads "Waiting for API response · will retry in …" instead…]]'
-- '[[Changes/Claude Code/2026-07-02-transient-server-rate-limit-errors-429s-unrelated-to-your-usage-limit-are-now-re|Transient
-  server rate-limit errors (429s unrelated to your usage limit) are now…]]'
-- '[[Changes/Claude Code/2026-07-02-claude-code-retry-watchdog-now-raises-the-default-retry-count-for-non-capacity-t|CLAUDE_CODE_RETRY_WATCHDOG
-  now raises the default retry count for non-capacity…]]'
+- '[[Changes/Claude Code/2026-06-25-added-automatic-memory-pressure-reaping-for-idle-background-shell-commands-disab|Added
+  automatic memory-pressure reaping for idle background shell commands…]]'
+- '[[Changes/Claude Code/2026-07-02-2-reliability-and-performance-changes-in-v2-1-199|2
+  Reliability and Performance changes in v2.1.199]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d|claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d]]'
 source_type: github_releases
 theme: reliability-performance
@@ -80,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-07-02 · Claude Code · [[Changes/Claude Code/2026-07-02-claude-code-retry-watchdog-now-raises-the-default-retry-count-for-non-capacity-t|CLAUDE_CODE_RETRY_WATCHDOG now raises the default retry count for non-capacity…]]
-- Later: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-improved-responsiveness-while-long-responses-stream-live-preview-updates-no-long|Improved responsiveness while long responses stream]]
+- Earlier: 2026-07-02 · Claude Code · [[Changes/Claude Code/2026-07-02-2-reliability-and-performance-changes-in-v2-1-199|2 Reliability and Performance changes in v2.1.199]]
+- Later: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-2-reliability-and-performance-changes-in-v2-1-203|2 Reliability and Performance changes in v2.1.203]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

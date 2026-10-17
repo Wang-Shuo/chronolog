@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 4df292bf59c4f237a7eaf9732d0c41340c1c45c4602b045c47c474783cff1a11
+machine_hash: 124fa4dab19dd10eb1c223e8de3dc270c3444b7b282be04dc08b033817d702ce
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   token count, tool uses, and duration metrics to Task tool results]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0|claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added support for restricting which sub-agents can be spawned via Task(agent_type)…
 type: change

@@ -1,9 +1,9 @@
 ---
-changes_count: 4
+changes_count: 12
 date: '2026-06-04'
 description: 'Cursor release Custom stores, custom tools, and auto-review for the
-  Cursor SDK on 2026-06-04: 4 tracked changes across Agent Mode, Apps and Integrations…'
-machine_hash: f338419875750eae532130ab3ee56f568acc81bdf49af53348e64341d2dd246b
+  Cursor SDK on 2026-06-04: 12 tracked changes across Agent Mode, Apps and Integrations…'
+machine_hash: 6207be12c5d449ca5a1b2bdd385b7cb94e0d814abded42aeddee8ff49e618a28
 product: cursor
 product_name: Cursor
 record:
@@ -41,13 +41,21 @@ version: Custom stores, custom tools, and auto-review for the Cursor SDK
 <!-- chronolog:begin region="summary" -->
 We've shipped a batch of new functionality across the TypeScript and Python SDKs. You can now choose how agent and run metadata is persisted, expose your own functions to the agent as tools, route local tool calls through auto-review, and nest subagents to any depth. This release also brings a set of reliability…
 
-Tracked 4 of 29 candidate lines.
+Tracked 12 cards from 29 candidate lines; 1 line pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-06-04-you-can-now-hand-the-local-agent-your-own-tools-by-passing-function-definitions|Hand the local agent your own tools by passing function definitions through…]] · Safety and Privacy
-- [[Changes/Cursor/2026-06-04-before-this-exposing-a-custom-capability-meant-standing-up-your-own-stdio-or-rem|Before this, exposing a custom capability meant standing up your own stdio or remote…]] · Agent Mode
+- [[Changes/Cursor/2026-06-04-custom-tools-056918|Custom tools]] · Safety and Privacy · Launch
+- [[Changes/Cursor/2026-06-04-bundled-ripgrep-local-shell-runs-use-the-bundled-platform-rg-binary-without-modi|Bundled ripgrep: Local shell runs use the bundled platform rg binary without…]] · Mobile and Desktop
+- [[Changes/Cursor/2026-06-04-reliability-performance-and-platform-improvements|Reliability, performance, and platform improvements]] · Reliability and Performance · Launch
+- [[Changes/Cursor/2026-06-04-reliable-wait-on-local-runs-local-runs-no-longer-resolve-wait-before-the-termina|Reliable wait() on local runs]] · Automation and Scheduling
+- [[Changes/Cursor/2026-06-04-jsonl-and-custom-stores|JSONL and custom stores]] · Agent Mode · Launch
+- [[Changes/Cursor/2026-06-04-auto-review|Auto-review]] · Agent Mode · Launch
+- [[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run correlation: Every send() now carries a platform-generated requestId, exposed…]] · Memory and Personalization
+- [[Changes/Cursor/2026-06-04-nested-subagents|Nested subagents]] · Agent Mode · Launch
 - [[Changes/Cursor/2026-06-04-we-ve-shipped-a-batch-of-new-functionality-across-the-typescript-and-python-sdks|We've shipped a batch of new functionality across the TypeScript and Python SDKs]] · Apps and Integrations
-- [[Changes/Cursor/2026-06-04-by-default-a-local-sdk-agent-runs-tool-calls-without-asking-for-approval-since-t|By default, a local SDK agent runs tool calls without asking for approval, since…]] · Agent Mode
+- [[Changes/Cursor/2026-06-04-2-apps-and-integrations-changes-in-custom-stores-custom-tools|2 Apps and Integrations changes in Custom stores, custom tools…]] · Apps and Integrations · Digest
+- [[Changes/Cursor/2026-06-04-5-agent-mode-changes-in-custom-stores-custom-tools|5 Agent Mode changes in Custom stores, custom tools…]] · Agent Mode · Digest
+- [[Changes/Cursor/2026-06-04-0-1-6-release-and-analytics-cursor-sdk-0-1-6-documents-the-buildkite-release-pat|0.1.6 release and analytics]] · Files and Data
 <!-- chronolog:end -->

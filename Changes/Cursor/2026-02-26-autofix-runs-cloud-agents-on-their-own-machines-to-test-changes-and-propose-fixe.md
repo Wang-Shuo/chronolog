@@ -5,8 +5,8 @@ description: 'Cursor · 2026-02-26 · Agent Mode: Autofix runs cloud agents on t
   own machines to test changes and propose fixes directly on your PR. Today, over
   35% of…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 966
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: d1f022f4926fe50eae67186afb7f10b7dd0ce592d03cf937b5e6bafb2a4ed4f7
+kind: change
+machine_hash: d5b70bc98f48453c68ccdd57a0b8e21194abc476ed3d1a9ef570090384272eef
 product: cursor
 product_name: Cursor
 record:
@@ -32,8 +33,9 @@ record:
       fixes directly on your PR. Today, over 35% of Bugbot Autofix changes are merged
       into the base PR.
     source_release: https://cursor.com/changelog/02-26-26
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: autofix-runs-cloud-agents-on-their-own-machines-to-test-changes-and-propose-fixe
@@ -44,12 +46,12 @@ record:
     fixes…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-24-cloud-agents-can-now-use-the-software-they-create-to-test-changes-and-demo-their|Cloud
-  agents can now use the software they create to test changes and demo their work]]'
-- '[[Changes/Cursor/2026-02-24-after-onboarding-onto-your-codebase-each-agent-runs-in-its-own-isolated-vm-with|After
-  onboarding onto your codebase, each agent runs in its own isolated VM…]]'
-- '[[Changes/Cursor/2026-02-24-get-started-at-cursor-com-onboard-to-watch-the-agent-configure-itself-and-record|Get
-  started at cursor.com/onboard to watch the agent configure itself and record a demo]]'
+- '[[Changes/Cursor/2026-02-18-2-agent-mode-changes-in-cli-improvements-and-mermaid-ascii|2
+  Agent Mode changes in CLI Improvements and Mermaid ASCII…]]'
+- '[[Changes/Claude Code/2026-02-20-2-agent-mode-changes-in-v2-1-50|2 Agent Mode changes
+  in v2.1.50]]'
+- '[[Changes/Cursor/2026-02-24-cloud-agents-can-now-use-the-software-they-create-to-test-changes-and-demo-their-c922e9|Cloud
+  Agents with Computer Use]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-26-bugbot-autofix-https-cursor-com-changelog-02-26-26-22c9cc48|cursor-2026-02-26-bugbot-autofix-https-cursor-com-changelog-02-26-26-22c9cc48]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -80,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-24 · Cursor · [[Changes/Cursor/2026-02-24-get-started-at-cursor-com-onboard-to-watch-the-agent-configure-itself-and-record|Get started at cursor.com/onboard to watch the agent configure itself and record a demo]]
+- Earlier: 2026-02-24 · Cursor · [[Changes/Cursor/2026-02-24-cloud-agents-can-now-use-the-software-they-create-to-test-changes-and-demo-their-c922e9|Cloud Agents with Computer Use]]
 - Later: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-added-http-hooks-which-can-post-json-to-a-url-and-receive-json-instead-of-runnin|Added HTTP hooks, which can POST JSON to a URL and receive JSON instead of running…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

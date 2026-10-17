@@ -3,7 +3,7 @@ created: '2023-07-06'
 date: '2026-10-14'
 description: Cross-product timeline of Files and Data changes in ChatGPT, Claude Code
   and Cursor.
-machine_hash: 6f6527321f4fca795d7052e218a52ea8f75bf690279f364df4b2d55c926c2006
+machine_hash: 471386bca8428b8b321c16f07ef56229cfee0bf3f200b7d76056df0c75c0379d
 modified: '2026-10-14'
 products_involved:
 - ChatGPT
@@ -33,54 +33,52 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 ### 2026
 
-- 2026-10-14 · Claude Code: [[Changes/Claude Code/2026-10-14-added-prompt-media-so-a-prompt-submit-hook-of-a-mod-installed-by-managed-setting|Added $.prompt.media so a prompt.submit hook of a mod installed by managed…]]
-- 2026-10-01 · ChatGPT: [[Changes/ChatGPT/2026-10-01-it-s-now-easier-to-bring-your-notes-and-documents-into-chatgpt-on-your-phone-cap|It’s now easier to bring your notes and documents into ChatGPT on your phone]]
+- 2026-10-14 · Claude Code: [[Changes/Claude Code/2026-10-14-2-files-and-data-changes-in-v2-1-299|2 Files and Data changes in v2.1.299]]
+- 2026-10-01 · ChatGPT: [[Changes/ChatGPT/2026-10-01-it-s-now-easier-to-bring-your-notes-and-documents-into-chatgpt-on-your-phone-cap|Scan notes and documents more easily with ChatGPT camera]]
+- 2026-09-25 · Claude Code: [[Changes/Claude Code/2026-09-25-improved-prompt-audit-on-claude-code-configuration-stale-paths-stale-commands-an|Improved prompt-audit on Claude Code configuration]]
+- 2026-09-17 · Claude Code: [[Changes/Claude Code/2026-09-17-claude-tag-removed-the-repeated-guest-attribution-note-claude-appended-to-a-slac|Claude Tag Removed the repeated guest-attribution note Claude appended to a Slack…]]
+- 2026-09-15 · Claude Code: [[Changes/Claude Code/2026-09-15-improved-artifact-database-writes-an-update-can-now-remove-a-single-field-instea|Improved artifact database writes]]
+- 2026-09-14 · Claude Code: [[Changes/Claude Code/2026-09-14-2-files-and-data-changes-in-v2-1-271|2 Files and Data changes in v2.1.271]]
+- 2026-09-11 · Claude Code: [[Changes/Claude Code/2026-09-11-vscode-improved-documents-and-messages-written-for-someone-other-than-the-user-c|VSCode Improved documents and messages written for someone other than the user]]
 - 2026-08-07 · ChatGPT: [[Changes/ChatGPT/2026-08-07-we-ve-made-it-easier-to-bring-documents-and-saved-files-into-your-conversations|ChatGPT makes it easier to bring documents and saved files into your conversations…]]
-- 2026-08-07 · ChatGPT: [[Changes/ChatGPT/2026-08-07-get-answers-that-stay-closer-to-your-documents-chatgpt-makes-better-use-of-infor|Get answers that stay closer to your documents]]
-- 2026-07-23 · ChatGPT: [[Changes/ChatGPT/2026-07-23-we-re-starting-to-roll-out-a-new-health-experience-in-chatgpt-logged-in-free-go|We’re starting to roll out a new health experience in ChatGPT]]
+- 2026-07-23 · ChatGPT: [[Changes/ChatGPT/2026-07-23-we-re-starting-to-roll-out-a-new-health-experience-in-chatgpt-logged-in-free-go-b62f3b|We’re starting to roll out a new health experience in ChatGPT]]
+- 2026-07-15 · Claude Code: [[Changes/Claude Code/2026-07-15-claude-in-chrome-hardened-file-upload-path-validation|Claude in Chrome: hardened file-upload path validation]]
 - 2026-06-29 · Claude Code: [[Changes/Claude Code/2026-06-29-added-clickable-file-attachments-in-chat-cmd-ctrl-click-reveals-the-file-in-find|Added clickable file attachments in chat]]
-- 2026-06-26 · ChatGPT: [[Changes/ChatGPT/2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u|The personal finance experience in ChatGPT is rolling out to Plus users…]]
+- 2026-06-26 · ChatGPT: [[Changes/ChatGPT/2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u|Personal finance in ChatGPT expands to Plus users and Android]]
 - 2026-06-08 · ChatGPT: [[Changes/ChatGPT/2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo|Full-screen writing blocks for longer-form work]]
 - 2026-06-08 · ChatGPT: [[Changes/ChatGPT/2026-06-08-interactive-charts-in-answers-chatgpt-can-now-turn-some-answers-into-rich-and-in|Interactive charts in answers]]
-- 2026-06-04 · Cursor: [[Changes/Cursor/2026-06-04-design-mode-is-now-available-in-canvases|Design Mode is now available in canvases]]
-- 2026-05-20 · Cursor: [[Changes/Cursor/2026-05-20-canvases-are-interactive-artifacts-created-by-agents-like-reports-dashboards-and|Canvases are interactive artifacts created by agents, like reports, dashboards…]]
-- 2026-05-15 · ChatGPT: [[Changes/ChatGPT/2026-05-15-we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user|We’re starting to roll out a new personal finance experience in ChatGPT]]
-- 2026-05-14 · ChatGPT: [[Changes/ChatGPT/2026-05-14-file-library-is-expanding-to-free-and-go-users-including-to-users-in-the-europea|File library is expanding to Free and Go users, including to users in the European…]]
-- 2026-05-14 · ChatGPT: [[Changes/ChatGPT/2026-05-14-plus-and-business-20-gb|Plus and Business: 20 GB]]
-- 2026-05-14 · ChatGPT: [[Changes/ChatGPT/2026-05-14-free-500-mb|Free: 500 MB]]
-- 2026-04-15 · Cursor: [[Changes/Cursor/2026-04-15-cursor-can-now-respond-by-creating-interactive-canvases|Cursor can now respond by creating interactive canvases]]
-- 2026-04-15 · Cursor: [[Changes/Cursor/2026-04-15-these-visualizations-can-include-dashboards-and-custom-interfaces-built-using-fi|These visualizations can include dashboards and custom interfaces built using…]]
+- 2026-06-04 · Cursor: [[Changes/Cursor/2026-06-04-0-1-6-release-and-analytics-cursor-sdk-0-1-6-documents-the-buildkite-release-pat|0.1.6 release and analytics]]
+- 2026-06-04 · Cursor: [[Changes/Cursor/2026-06-04-improved-the-agent-s-ability-to-fix-canvas-type-errors|Improved the agent's ability to fix canvas type errors]]
+- 2026-06-04 · Cursor: [[Changes/Cursor/2026-06-04-design-mode-is-now-available-in-canvases|Design Mode in canvases]]
+- 2026-05-15 · ChatGPT: [[Changes/ChatGPT/2026-05-15-we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user|Personal finances in ChatGPT]]
+- 2026-05-14 · ChatGPT: [[Changes/ChatGPT/2026-05-14-file-library-is-expanding-to-free-and-go-users-including-to-users-in-the-europea-141640|File library is expanding to Free and Go users, including to users in the European…]]
+- 2026-04-15 · Cursor: [[Changes/Cursor/2026-04-15-cursor-can-now-respond-by-creating-interactive-canvases-c4a1d3|Cursor can now respond by creating interactive canvases]]
+- 2026-04-13 · Cursor: [[Changes/Cursor/2026-04-13-plan-tabs-now-get-the-same-document-behaviors-as-files-support-for-reliable-load|Plan tabs now get the same document behaviors as files]]
+- 2026-03-06 · Claude Code: [[Changes/Claude Code/2026-03-06-vscode-added-full-markdown-document-view-for-plans-in-vs-code-with-support-for-a|VSCode Added full markdown document view for plans in VS Code, with support…]]
 - 2026-02-27 · ChatGPT: [[Changes/ChatGPT/2026-02-27-export-visuals-from-code-blocks-flowcharts-diagrams-and-data-visualizations-crea|Export visuals from Code Blocks]]
 - 2026-02-13 · ChatGPT: [[Changes/ChatGPT/2026-02-13-expanded-file-type-support-we-now-support-additional-text-and-code-file-formats|Expanded file type support]]
 - 2026-02-04 · Claude Code: [[Changes/Claude Code/2026-02-04-improved-pdf-and-request-size-error-messages-to-show-actual-limits-100-pages-20m|Improved PDF and request size error messages to show actual limits (100 pages, 20MB)]]
 
 ### 2025
 
-- 2025-08-06 · Cursor: [[Changes/Cursor/2025-08-06-read-file-now-reads-full-files-when-appropriate-and-the-2mb-cap-is-removed|Read file: Now reads full files when appropriate and the 2MB cap is removed]]
-- 2025-06-24 · ChatGPT: [[Changes/ChatGPT/2025-06-24-projects-can-now-support-40-uploaded-files-up-from-20-for-pro-users|Projects can now support 40 uploaded files, up from 20, for Pro users]]
-- 2025-02-06 · ChatGPT: [[Changes/ChatGPT/2025-02-06-for-more-details-about-the-canvas-feature-in-chatgpt-check-out-the-following-hel|For more details about the canvas feature in ChatGPT, check out the following Help…]]
-- 2025-02-06 · ChatGPT: [[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or|Users can now share a Canvas asset such as rendered React/HTML code, document…]]
+- 2025-06-24 · ChatGPT: [[Changes/ChatGPT/2025-06-24-projects-can-now-support-40-uploaded-files-up-from-20-for-pro-users|Project file limit increased (Pro)]]
+- 2025-02-06 · ChatGPT: [[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or-2f5aff|Canvas sharing]]
 - 2025-01-15 · ChatGPT: [[Changes/ChatGPT/2025-01-15-edit-a-code-block-in-canvas|Edit a code block in Canvas]]
 - 2025-01-15 · ChatGPT: [[Changes/ChatGPT/2025-01-15-edit-a-full-model-response-in-canvas|Edit a full model response in Canvas]]
 
 ### 2024
 
-- 2024-12-13 · ChatGPT: [[Changes/ChatGPT/2024-12-13-advanced-data-analysis|Advanced data analysis]]
-- 2024-12-10 · ChatGPT: [[Changes/ChatGPT/2024-12-10-canvas-in-toolbox-canvas-has-been-added-as-an-option-in-the-toolbox|Canvas in Toolbox: Canvas has been added as an option in the toolbox]]
-- 2024-12-10 · ChatGPT: [[Changes/ChatGPT/2024-12-10-canvas-shortcut-you-can-now-paste-content-into-chatgpt-and-instantly-open-it-in|Canvas shortcut: You can now paste content into ChatGPT and instantly open…]]
-- 2024-12-10 · ChatGPT: [[Changes/ChatGPT/2024-12-10-python-code-execution-you-can-now-execute-python-code-in-a-canvas-chatgpt-will-t|Python code execution: You can now execute Python code in a canvas]]
-- 2024-12-10 · ChatGPT: [[Changes/ChatGPT/2024-12-10-today-we-made-canvas-available-in-4o-by-default-for-all-users-free-and-paid-addi|Today we made Canvas available in 4o by default for all users, Free and Paid]]
-- 2024-12-10 · ChatGPT: [[Changes/ChatGPT/2024-12-10-canvas-in-gpts-canvas-can-now-be-used-with-gpts-when-enabled-in-the-gpt-creator|Canvas in GPTs: Canvas can now be used with GPTs when enabled in the GPT creator]]
-- 2024-05-16 · ChatGPT: [[Changes/ChatGPT/2024-05-16-customize-and-download-presentation-ready-charts-and-documents|Customize and download presentation-ready charts and documents]]
-- 2024-05-16 · ChatGPT: [[Changes/ChatGPT/2024-05-16-interact-with-tables-and-charts-in-a-new-expandable-view|Interact with tables and charts in a new expandable view]]
-- 2024-05-16 · ChatGPT: [[Changes/ChatGPT/2024-05-16-today-we-re-starting-to-roll-out-enhancements-to-data-analysis|Today, we’re starting to roll out enhancements to data analysis]]
+- 2024-12-13 · ChatGPT: [[Changes/ChatGPT/2024-12-13-advanced-data-analysis-1956f5|Advanced data analysis]]
+- 2024-12-10 · ChatGPT: [[Changes/ChatGPT/2024-12-10-today-we-made-canvas-available-in-4o-by-default-for-all-users-free-and-paid-addi-5aaec4|Canvas]]
+- 2024-11-22 · ChatGPT: [[Changes/ChatGPT/2024-11-22-the-sidebar-when-pinned-can-now-stay-open-with-an-active-canvas-if-enough-space|The sidebar when pinned can now stay open with an active Canvas if enough space…]]
+- 2024-05-16 · ChatGPT: [[Changes/ChatGPT/2024-05-16-today-we-re-starting-to-roll-out-enhancements-to-data-analysis-6433a3|Today, we’re starting to roll out enhancements to data analysis]]
 
 ### 2023
 
-- 2023-07-06 · ChatGPT: [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|ChatGPT rolls out code interpreter to all ChatGPT Plus users over the next week]]
+- 2023-07-06 · ChatGPT: [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-Active changes: 36. Use the dated links above to inspect each card.
+Active changes: 34. Use the dated links above to inspect each card.
 <!-- chronolog:end -->

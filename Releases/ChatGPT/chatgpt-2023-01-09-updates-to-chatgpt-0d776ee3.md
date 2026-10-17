@@ -3,7 +3,7 @@ changes_count: 2
 date: '2023-01-09'
 description: 'ChatGPT release Updates to ChatGPT on 2023-01-09: 2 tracked changes
   across Interface Experience, Model Support'
-machine_hash: 9c6511cfdc793f7135d839cec16279dc4481fe801cba47da017027e8910ffec3
+machine_hash: d97eef94ed61e57a3b03b1bc18a60375dfc485911ffe45d5ee86d655283b20bb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ version: Updates to ChatGPT
 <!-- chronolog:begin region="summary" -->
 We're excited to announce several updates to ChatGPT! Here's what's new:
 
-Tracked 2 of 3 candidate lines.
+Tracked 2 cards from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

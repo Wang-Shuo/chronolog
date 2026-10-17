@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f7ca34cd08fb3285fde31daaeeced1a0314ad64ee074cae60df3ed2f91675f3f
+machine_hash: 491754b116aa6450f06b22f3409c79c2684cc571ddd6b982f83c20ebf214d079
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   Describe in natural language when Bugbot should use default or high effort]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f|claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Fast mode now uses Opus 4.7 by default (previously Opus 4.6)
 type: change

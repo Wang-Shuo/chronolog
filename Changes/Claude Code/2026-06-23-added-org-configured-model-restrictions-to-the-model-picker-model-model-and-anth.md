@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: ba6572704c18825482fbb78fbb5866e1e7343e167d8027fd46906a85c291f6ea
+machine_hash: 325b8cb0c32f0903e6d3f07a88f5bd8bde157e336d1017cb519f85b3f27b93d2
 product: claude-code
 product_name: Claude Code
 record:
@@ -63,6 +63,7 @@ related_changes:
   /config toggle behavior]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-23-v2-1-187-github-343665388-744f9775|claude-code-2026-06-23-v2-1-187-github-343665388-744f9775]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added org-configured model restrictions to the model picker, --model, /model…
 type: change

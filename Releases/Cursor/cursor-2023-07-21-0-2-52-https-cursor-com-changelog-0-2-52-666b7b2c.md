@@ -2,7 +2,7 @@
 changes_count: 0
 date: '2023-07-21'
 description: 'Cursor release Bug fix on 2023-07-21: no tracked changes'
-machine_hash: fc1f5f57847b982bd207c158a2fb9c615cac3e7106a93d29728787c3253e1c11
+machine_hash: e3b4f275baa7e080ae11aa8fd27ea46fc720af241d2cbe71b7ecf73d06a4810c
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.2.52
 <!-- chronolog:begin region="summary" -->
 Fixes a bug with CMD-k prompt history that would freeze the input box.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

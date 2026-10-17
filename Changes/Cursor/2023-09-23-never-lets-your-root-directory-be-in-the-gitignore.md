@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 5b68081346e00384f44c184e169edbc92fc7564ae6565f3250bb011663315e7d
+kind: change
+machine_hash: a806bed273811c6e8bed51574713803ee138822bb5c6ec44c9bb6c51562a33b1
 product: cursor
 product_name: Cursor
 record:
@@ -27,8 +28,9 @@ record:
   evidence:
   - quote: never lets your root directory be in the gitignore
     source_release: https://cursor.com/changelog/0-11-13-nightly
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: never-lets-your-root-directory-be-in-the-gitignore
@@ -37,24 +39,24 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: never lets your root directory be in the gitignore
+  title: gitignore and search hotfix
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-22-applies-the-patch-from-github-across-all-your-wsl-windows-subsystem-for-linux-di|Applies
-  the patch from Github across all your WSL (Windows Subsystem for Linux)…]]'
-- '[[Changes/Cursor/2023-08-26-we-had-a-big-bug-for-people-on-language-packs-thank-you-to-all-who-helped-us-deb|We
-  had a big bug for people on language packs]]'
-- '[[Changes/Cursor/2023-09-05-ships-with-cursor-python-a-language-server-fork-of-pyright-built-for-cursor|Ships
-  with cursor-python, a Language-Server fork of pyright built for Cursor]]'
+- '[[Changes/Cursor/2023-08-22-applies-the-patch-from-github-across-all-your-wsl-windows-subsystem-for-linux-di|WSL
+  Fixes]]'
+- '[[Changes/Cursor/2023-08-26-we-had-a-big-bug-for-people-on-language-packs-thank-you-to-all-who-helped-us-deb|Bug
+  fix for people on language packs]]'
+- '[[Changes/Cursor/2023-09-05-ships-with-cursor-python-a-language-server-fork-of-pyright-built-for-cursor|Cursor-Python
+  LSP]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-23-0-11-13-nightly-https-cursor-com-changelog-0-11-13-nightly-14fe1770|cursor-2023-09-23-0-11-13-nightly-https-cursor-com-changelog-0-11-13-nightly-14fe1770]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: never lets your root directory be in the gitignore
+title: gitignore and search hotfix
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# never lets your root directory be in the gitignore
+# gitignore and search hotfix
 
 **Cursor** · 2023-09-23 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://cursor.com/changelog/0-11-13-nightly) · from [[Releases/Cursor/cursor-2023-09-23-0-11-13-nightly-https-cursor-com-changelog-0-11-13-nightly-14fe1770|gitignore and search hotfix]]
 <!-- chronolog:end -->
@@ -72,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-09-05 · Cursor · [[Changes/Cursor/2023-09-05-ships-with-cursor-python-a-language-server-fork-of-pyright-built-for-cursor|Ships with cursor-python, a Language-Server fork of pyright built for Cursor]]
+- Earlier: 2023-09-05 · Cursor · [[Changes/Cursor/2023-09-05-ships-with-cursor-python-a-language-server-fork-of-pyright-built-for-cursor|Cursor-Python LSP]]
 - Later: 2023-10-01 · Cursor · [[Changes/Cursor/2023-10-01-ask-about-git-commits-and-prs-using-git-in-chat|Ask about git commits and PRs using @git in chat!]]
 <!-- chronolog:end -->
 

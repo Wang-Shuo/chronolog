@@ -4,8 +4,8 @@ date: '2026-08-21'
 description: 'ChatGPT · 2026-08-21 · Apps and Integrations: Plugin availability depends
   on your plan, region, and workspace settings. Desktop is not included in this update.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1247
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: b1ce3a9fb802166b26ee6b2439aa3a3cc75e587d6f8463b6cc7944ef37fd8f1b
+kind: change
+machine_hash: 3578619984dcb927a83538229fbd86494183566706d57c780ff42bb90a7f05f4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Plugin availability depends on your plan, region, and workspace settings.
       Desktop is not included in this update.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: plugin-availability-depends-on-your-plan-region-and-workspace-settings-desktop-i
@@ -51,10 +53,10 @@ record:
   title: Plugin availability depends on your plan, region, and workspace settings
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-20-a-catalog-entry-s-headershelper-runs-only-when-you-install-or-update-that-plugin|A
-  catalog entry''s headersHelper runs only when you install or update that plugin…]]'
-- '[[Changes/Claude Code/2026-08-20-plugin-marketplaces-headershelper-on-a-url-marketplace-or-a-catalog-entry-runs-a|Plugin
-  marketplaces: headersHelper on a url marketplace or a catalog entry runs…]]'
+- '[[Changes/ChatGPT/2026-08-20-use-apple-messages-from-codex-and-chatgpt-work-on-apple-silicon-macs-the-apple-m|Use
+  Apple Messages from Codex and ChatGPT Work]]'
+- '[[Changes/Claude Code/2026-08-20-6-apps-and-integrations-changes-in-v2-1-238|6
+  Apps and Integrations changes in v2.1.238]]'
 - '[[Changes/ChatGPT/2026-08-21-updated-plugin-recommendations-make-it-easier-to-find-tools-people-continue-to-u|Updated
   plugin recommendations make it easier to find tools people continue to use]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-21-improved-plugin-discovery-on-web-and-mobile-4a2c9c9b|chatgpt-2026-08-21-improved-plugin-discovery-on-web-and-mobile-4a2c9c9b]]'
@@ -86,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-plugin-marketplaces-headershelper-on-a-url-marketplace-or-a-catalog-entry-runs-a|Plugin marketplaces: headersHelper on a url marketplace or a catalog entry runs…]]
-- Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-cloud-sessions-plugins-synced-from-claude-ai-now-show-as-name-synced-work-with-c|Cloud sessions: plugins synced from claude.ai now show as name@synced, work…]]
+- Earlier: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-6-apps-and-integrations-changes-in-v2-1-238|6 Apps and Integrations changes in v2.1.238]]
+- Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-2-apps-and-integrations-changes-in-v2-1-239|2 Apps and Integrations changes in v2.1.239]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

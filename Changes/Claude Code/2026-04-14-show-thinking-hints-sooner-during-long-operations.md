@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 5854ddebf484061bc70fd45a3c14acf196204b3eb187fde3bdb83644d9552645
+kind: change
+machine_hash: bae22c98bd85a56a2b0724e6c16fba9c7442b8fb6387ba14242380e83acc37a1
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,8 +28,9 @@ record:
   evidence:
   - quote: Show thinking hints sooner during long operations
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.107
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: show-thinking-hints-sooner-during-long-operations
@@ -40,12 +42,11 @@ record:
   title: Show thinking hints sooner during long operations
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-10-improved-focus-mode-claude-now-writes-more-self-contained-summaries-since-it-kno|Improved
-  focus mode]]'
-- '[[Changes/Cursor/2026-04-13-expand-panes-to-focus-on-a-conversation-drag-agents-into-tiles-and-use-keybindin|Expand
-  panes to focus on a conversation, drag agents into tiles, and use keybindings…]]'
-- '[[Changes/Claude Code/2026-04-14-undo-is-now-an-alias-for-rewind|/undo is now an
-  alias for /rewind]]'
+- '[[Changes/Claude Code/2026-04-13-improved-network-error-messages-connection-errors-now-show-a-retry-message-immed|Improved
+  network error messages]]'
+- '[[Changes/Cursor/2026-04-13-diff-to-file-navigation|Diff to file navigation]]'
+- '[[Changes/Claude Code/2026-04-14-2-interface-experience-changes-in-v2-1-108|2 Interface
+  Experience changes in v2.1.108]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-14-v2-1-107-github-308667350-26680a69|claude-code-2026-04-14-v2-1-107-github-308667350-26680a69]]'
 source_type: github_releases
 theme: interface-experience
@@ -72,8 +73,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-14 · Claude Code · [[Changes/Claude Code/2026-04-14-undo-is-now-an-alias-for-rewind|/undo is now an alias for /rewind]]
-- Later: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-added-autoscrollenabled-config-to-disable-conversation-auto-scroll-in-fullscreen|Added autoScrollEnabled config to disable conversation auto-scroll in fullscreen mode]]
+- Earlier: 2026-04-14 · Claude Code · [[Changes/Claude Code/2026-04-14-2-interface-experience-changes-in-v2-1-108|2 Interface Experience changes in v2.1.108]]
+- Later: 2026-04-14 · Cursor · [[Changes/Cursor/2026-04-14-configuration-menu-in-cli|Configuration menu in CLI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

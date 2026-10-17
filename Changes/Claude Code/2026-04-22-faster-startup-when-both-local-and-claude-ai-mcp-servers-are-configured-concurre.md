@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f9cbb2072bf4efa3df88baed8599fbb341c49425fef73e491eda30882532d241
+machine_hash: c85be793e80ea50379cbeeddd48431b5f1da878719ae8a17dd1fa25bd4aeacc2
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,6 +58,7 @@ related_changes:
   MCP startup when multiple stdio servers are configured]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-22-v2-1-117-github-311984967-1d917373|claude-code-2026-04-22-v2-1-117-github-311984967-1d917373]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Faster startup when both local and claude.ai MCP servers are configured…
 type: change

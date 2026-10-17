@@ -21,6 +21,7 @@ from _scripts.common import (
     read_yaml,
     write_json,
 )
+from _scripts.extract import KINDS
 
 
 REQUIRED_FIELDS = {
@@ -39,6 +40,10 @@ REQUIRED_FIELDS = {
     "extractor_version",
 }
 IMPACTS = {"incremental", "significant", "paradigm-shift"}
+# Release-scoped identities. Up to v4 a card held one line, so the identity is the first
+# quote; from v5 a card may hold several quotes and the identity joins all of them.
+FIRST_QUOTE_SCOPED_VERSIONS = {"fallback-v2", "fallback-v3", "fallback-v4"}
+JOINED_QUOTES_SCOPED_VERSIONS = {"fallback-v5"}
 CARD_ID_RE = re.compile(r"^[a-z0-9-]+-\d{4}-\d{2}-\d{2}-[a-f0-9]{6}$")
 WIKILINK_RE = re.compile(r"!?\[\[([^\]]+)\]\]")
 VAULT_DIRECTORIES = ("Products", "Changes", "Releases", "Themes", "Alerts")
@@ -49,6 +54,19 @@ ROOT_PAGES = ("index.md", "About.md")
 def official_themes(themes_path: str | Path) -> set[str]:
     data = read_yaml(Path(themes_path))
     return {theme["slug"] for theme in data["themes"] if theme.get("status") == "official"}
+
+
+def expected_card_id(card: dict[str, Any]) -> str:
+    """Recompute a card's identity from its evidence and extractor version."""
+    quotes = [str(item["quote"]) for item in card["evidence"]]
+    version = card.get("extractor_version")
+    scoped = version in FIRST_QUOTE_SCOPED_VERSIONS | JOINED_QUOTES_SCOPED_VERSIONS
+    return card_id_for(
+        str(card["product"]),
+        str(card["date"]),
+        quotes[0] if version in FIRST_QUOTE_SCOPED_VERSIONS else "\n".join(quotes),
+        source_release=(str(card.get("source_release", "")) or None) if scoped else None,
+    )
 
 
 def validate_card(card: dict[str, Any], themes: set[str]) -> list[str]:
@@ -80,18 +98,13 @@ def validate_card(card: dict[str, Any], themes: set[str]) -> list[str]:
     ):
         errors.append("evidence requires source_release and quote")
     elif card.get("product") and card.get("date"):
-        expected_card_id = card_id_for(
-            str(card["product"]),
-            str(card["date"]),
-            str(evidence[0]["quote"]),
-            source_release=(
-                str(card.get("source_release", "")) or None
-                if card.get("extractor_version") in {"fallback-v2", "fallback-v3", "fallback-v4"}
-                else None
-            ),
-        )
-        if card.get("card_id") != expected_card_id:
+        if card.get("card_id") != expected_card_id(card):
             errors.append("card_id does not match primary evidence")
+    version = card.get("extractor_version")
+    if version in JOINED_QUOTES_SCOPED_VERSIONS and "kind" not in card:
+        errors.append("kind is required")
+    elif "kind" in card and card["kind"] not in KINDS:
+        errors.append("kind is invalid")
     if not str(card.get("description", "")).strip():
         errors.append("description is required")
     if card.get("impact") in {"significant", "paradigm-shift"}:

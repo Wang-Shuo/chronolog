@@ -1,9 +1,9 @@
 ---
-changes_count: 2
+changes_count: 1
 date: '2023-12-06'
-description: 'Cursor release Onboarding & Feedback on 2023-12-06: 2 tracked changes
+description: 'Cursor release Onboarding & Feedback on 2023-12-06: 1 tracked change
   across Interface Experience'
-machine_hash: 4a84d2bd404be0a6c77807af796daf7f0a6fd850604ce743947f17b36d23d679
+machine_hash: da7d34a6102695019247868c6a20352fae3b5334621bec897c5ecb42cd29847d
 product: cursor
 product_name: Cursor
 record:
@@ -38,11 +38,10 @@ version: 0.18.4-0.18.5
 <!-- chronolog:begin region="summary" -->
 Minor onboarding changes.
 
-Tracked 2 of 2 candidate lines.
+Tracked 1 card from 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-12-06-allows-users-to-provide-feedback-on-the-chat-response|Allows users to provide feedback on the chat response]] · Interface Experience
-- [[Changes/Cursor/2023-12-06-minor-onboarding-changes|Minor onboarding changes]] · Interface Experience
+- [[Changes/Cursor/2023-12-06-minor-onboarding-changes-19f3e5|Onboarding & Feedback]] · Interface Experience
 <!-- chronolog:end -->

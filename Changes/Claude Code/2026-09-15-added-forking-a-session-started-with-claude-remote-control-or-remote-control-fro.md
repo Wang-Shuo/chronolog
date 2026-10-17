@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8a900c3667ddad5f886cd4ffac9bfcfd97fd97b540f831d2babc80137ea75b4f
+machine_hash: 8134390c4e6b4558173c7fe4df0b35e88a580caab8261442d4fc6da4b873995d
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   can change your Health permissions anytime in Settings → Plugins → Health]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added forking a session started with claude --remote-control or /remote-control…
 type: change

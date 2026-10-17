@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6c32506f1e539c06c09dce7b27f37b09b9e3c876668165e34340e6e8e7424e09
+machine_hash: 30d32ac074a01b17f3dc08f7391ac475e9bf71d45e97c276e386f066407817d6
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   and Ctrl+E now move to the start/end of the current logical line…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e|claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Thinking spinner now shows progress inline…
 type: change

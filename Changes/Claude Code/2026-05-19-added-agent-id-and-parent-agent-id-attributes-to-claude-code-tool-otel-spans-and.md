@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 56eb304d6b3085828cf30fc48323e8905023de248a9426b27a0aa470277d58d1
+machine_hash: 73ab3df53e1e907f52af3d6f1ea4463b1f2bfeaabd25dfe6a1c87341330e962b
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   agents terminal tab title now shows the awaiting-input count…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4|claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added agent_id and parent_agent_id attributes to claude_code.tool OTEL spans…
 type: change

@@ -4,8 +4,8 @@ date: '2023-07-06'
 description: 'ChatGPT · 2023-07-06 · Files and Data: We’re rolling out code interpreter
   to all ChatGPT Plus users over the next week.It lets ChatGPT run code, optionally…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|ChatGPT
-    rolls out code interpreter to all ChatGPT Plus users over the next week]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
+    interpreter is now rolling out in beta on web]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 0
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 02ae0675d533763ea87ed9504e663c4adae4d6d294f4a90a4671b5850930c909
+kind: expansion
+machine_hash: 20e480306728568b67c846aaa1fdeb7937a31e87959b6f85b57c3900b3b57b72
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,8 +38,9 @@ record:
       via the beta panel in your settings over the course of the next week.To enable
       code interpreter:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: expansion
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week
@@ -47,21 +49,19 @@ record:
   theme: file-data
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: ChatGPT rolls out code interpreter to all ChatGPT Plus users over the next
-    week
+  title: Code interpreter is now rolling out in beta on web
   type: change
 source_release: '[[Releases/ChatGPT/chatgpt-2023-07-06-code-interpreter-is-now-rolling-out-in-beta-on-web-427b9bc0|chatgpt-2023-07-06-code-interpreter-is-now-rolling-out-in-beta-on-web-427b9bc0]]'
 source_type: chatgpt_changelog
 theme: file-data
-title: ChatGPT rolls out code interpreter to all ChatGPT Plus users over the next
-  week
+title: Code interpreter is now rolling out in beta on web
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT rolls out code interpreter to all ChatGPT Plus users over the next week
+# Code interpreter is now rolling out in beta on web
 
-**ChatGPT** · 2023-07-06 · [[Themes/file-data|Files and Data]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-07-06-code-interpreter-is-now-rolling-out-in-beta-on-web-427b9bc0|Code interpreter is now rolling out in beta on web]]
+**ChatGPT** · 2023-07-06 · [[Themes/file-data|Files and Data]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-07-06-code-interpreter-is-now-rolling-out-in-beta-on-web-427b9bc0|Code interpreter is now rolling out in beta on web]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Later: 2024-05-16 · ChatGPT · [[Changes/ChatGPT/2024-05-16-today-we-re-starting-to-roll-out-enhancements-to-data-analysis|Today, we’re starting to roll out enhancements to data analysis]]
+- Later: 2024-05-16 · ChatGPT · [[Changes/ChatGPT/2024-05-16-today-we-re-starting-to-roll-out-enhancements-to-data-analysis-6433a3|Today, we’re starting to roll out enhancements to data analysis]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

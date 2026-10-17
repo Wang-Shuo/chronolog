@@ -1,9 +1,9 @@
 ---
-changes_count: 3
+changes_count: 2
 date: '2023-09-07'
-description: 'Cursor release New AI Project on 2023-09-07: 3 tracked changes across
+description: 'Cursor release New AI Project on 2023-09-07: 2 tracked changes across
   Projects and Workspaces, Reliability and Performance'
-machine_hash: 3fdb79b75b70603b6033d88a9e3265f07a3fda5a2f941fe1ce3ba8299942be36
+machine_hash: 9a548c6e3a1dc2ac8446d5e20d28ca89e0537960d184b85d1c947982621c9c32
 product: cursor
 product_name: Cursor
 record:
@@ -39,12 +39,11 @@ version: 0.9.8-nightly
 <!-- chronolog:begin region="summary" -->
 We release an improved New AI Project feature to nightly users. This is a more robust chain and cleaner
 
-Tracked 3 of 3 candidate lines.
+Tracked 2 cards from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-09-07-ux-for-producing-a-project-end-to-end|UX for producing a project end-to-end]] · Projects and Workspaces
 - [[Changes/Cursor/2023-09-07-we-release-an-improved-new-ai-project-feature-to-nightly-users-this-is-a-more-ro|We release an improved New AI Project feature to nightly users]] · Reliability and Performance
-- [[Changes/Cursor/2023-09-07-it-still-struggles-with-coherently-producing-large-complex-projects-but-produces|It still struggles with coherently producing large complex projects, but produces…]] · Projects and Workspaces
+- [[Changes/Cursor/2023-09-07-ux-for-producing-a-project-end-to-end-b8d638|UX for producing a project end-to-end]] · Projects and Workspaces
 <!-- chronolog:end -->

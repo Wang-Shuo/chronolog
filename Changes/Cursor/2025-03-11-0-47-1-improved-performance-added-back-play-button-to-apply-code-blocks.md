@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5cb745a7984c596e9c84deee4536330348df255353420d0b161ab74483c37cc9
+machine_hash: ccd1f12a07a4db287f2c7d643463aa067488f7a9bcbe1f4e301f8d5204c37b76
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   selection improvements: you can now select text across horizontal rulers]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e|cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e]]'
 source_type: cursor_changelog
+superseded: true
 theme: reliability-performance
 title: '0.47.1: Improved performance, added back play button to apply code blocks'
 type: change

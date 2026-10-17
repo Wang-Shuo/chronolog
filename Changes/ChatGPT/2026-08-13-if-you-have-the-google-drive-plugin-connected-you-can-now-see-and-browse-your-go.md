@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d24f5dcaea530a7a99dc45a4bbfc026d5012239b05d51bf8002ebeca25751aa5
+machine_hash: 69107678d20fe67c06c0688c158b6da27788e5cc973ea48bc2ac50da9efef755
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,6 +63,7 @@ related_changes:
   a session-wide limit on WebSearch tool calls…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-13-google-drive-is-now-in-library-bbf66648|chatgpt-2026-08-13-google-drive-is-now-in-library-bbf66648]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: search-browsing
 title: If you have the Google Drive plugin connected, you can now see and browse…
 type: change

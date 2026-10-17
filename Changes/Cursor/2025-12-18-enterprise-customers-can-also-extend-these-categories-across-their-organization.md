@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 14398128eae6e2c3e48e5f2b287c529b90820adc62fa7f623f816675c70968d2
+machine_hash: ee876d050a587863f772389a79bffdd70e292f5123efccc03247ee592b64c05a
 product: cursor
 product_name: Cursor
 record:
@@ -67,6 +67,7 @@ related_changes:
   rolls out parental controls globally to help families guide how ChatGPT…]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb|cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb]]'
 source_type: cursor_changelog
+superseded: true
 theme: safety-privacy
 title: Enterprise customers can also extend these categories across their organization
   and teams

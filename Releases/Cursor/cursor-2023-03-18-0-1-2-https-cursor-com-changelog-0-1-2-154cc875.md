@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 3
 date: '2023-03-18'
-description: 'Cursor release v0.1.2-0.1.3 (2023-03-18) on 2023-03-18: 5 tracked changes
-  across Editor Experience, Interface Experience, Developer Workflow'
-machine_hash: a307633315f171d30fa39b3ccf5a55d5a4f9605342280a5cdcaaa808c83a75ee
+description: 'Cursor release v0.1.2-0.1.3 (2023-03-18) on 2023-03-18: 3 tracked changes
+  across Developer Workflow, Editor Experience, Interface Experience'
+machine_hash: 4f0e1014154a8ad963bca99561a2c10fe14f61a13fd131887ccf5fd2ba7745a5
 product: cursor
 product_name: Cursor
 record:
@@ -36,16 +36,14 @@ version: 0.1.2
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-5 tracked changes across 3 themes: Editor Experience, Interface Experience, Developer Workflow.
+3 tracked changes across 3 themes: Developer Workflow, Editor Experience, Interface Experience.
 
-Tracked 5 of 6 candidate lines.
+Tracked 3 cards from 6 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-03-18-diffs-automatically-continue|Diffs automatically continue]] · Editor Experience
+- [[Changes/Cursor/2023-03-18-2-editor-experience-changes-in-0-1-2|2 Editor Experience changes in 0.1.2]] · Editor Experience · Digest
 - [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]] · Developer Workflow
-- [[Changes/Cursor/2023-03-18-can-open-chat-history-from-the-prompt-bar|Can open chat history from the prompt bar]] · Interface Experience
-- [[Changes/Cursor/2023-03-18-up-and-down-arrow-in-prompt-bar-have-been-mapped-to-less-annoying-keybindings|Up and down arrow in prompt bar have been mapped to less annoying keybindings]] · Interface Experience
-- [[Changes/Cursor/2023-03-18-have-chat-auto-insert-suggested-changes-into-editor|Have chat auto-insert suggested changes into editor]] · Editor Experience
+- [[Changes/Cursor/2023-03-18-2-interface-experience-changes-in-0-1-2|2 Interface Experience changes in 0.1.2]] · Interface Experience · Digest
 <!-- chronolog:end -->

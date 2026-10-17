@@ -1,9 +1,9 @@
 ---
-changes_count: 2
+changes_count: 1
 date: '2023-07-12'
-description: 'Cursor release Small things! on 2023-07-12: 2 tracked changes across
+description: 'Cursor release Small things! on 2023-07-12: 1 tracked change across
   Editor Experience'
-machine_hash: c2b97b8f2c9d7a7d5215c33285e819c44503134d8b4ef1ccee9d36ffc4df0984
+machine_hash: 3383a2743a34b5e2d81f65ad00d64f237a73a8092c86e1d4bcd2f34669e1153c
 product: cursor
 product_name: Cursor
 record:
@@ -38,11 +38,10 @@ version: 0.2.48-nightly
 <!-- chronolog:begin region="summary" -->
 Semantic search in Cmd-Shift-F
 
-Tracked 2 of 3 candidate lines.
+Tracked 1 card from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-07-12-pop-out-chat-you-can-now-view-the-chat-in-an-editor-which-is-great-if-you-re-on|Pop-out chat!]] · Editor Experience
-- [[Changes/Cursor/2023-07-12-semantic-search-in-cmd-shift-f|Semantic search in Cmd-Shift-F]] · Editor Experience
+- [[Changes/Cursor/2023-07-12-semantic-search-in-cmd-shift-f-842ecc|Semantic search in Cmd-Shift-F]] · Editor Experience
 <!-- chronolog:end -->

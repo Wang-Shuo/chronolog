@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1558c1476359adf7c4c2343f04b3de05dbf167f198b272a417170db889904bec
+machine_hash: 5d21c6ecde3b1010482f52804d68c24abddcb41c143d11fbbe26c6c4989b7edd
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   rolls out Active sessions, a new security feature that helps users review…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c|claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: claude agents --json now includes waitingFor showing what a waiting session…
 type: change

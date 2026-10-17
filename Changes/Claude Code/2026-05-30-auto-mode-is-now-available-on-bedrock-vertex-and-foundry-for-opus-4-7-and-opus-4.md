@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: a60072d3383c492e16c20a69787638ce153998faff51a11fbf9d9cebc88123e7
+kind: expansion
+machine_hash: 3b7333e3457ff051199052b350006602dd9f6feedf6780a4f196222aeae10cdb
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Auto mode is now available on Bedrock, Vertex, and Foundry for Opus 4.7
       and Opus 4.8. Opt in by setting `CLAUDE_CODE_ENABLE_AUTO_MODE=1`
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.158
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: expansion
   product: claude-code
   product_name: Claude Code
   slug: auto-mode-is-now-available-on-bedrock-vertex-and-foundry-for-opus-4-7-and-opus-4
@@ -51,12 +53,12 @@ record:
     Opus 4.8
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-28-the-lean-system-prompt-is-now-the-default-for-all-models-except-haiku-sonnet-and|The
-  lean system prompt is now the default for all models except Haiku, Sonnet…]]'
-- '[[Changes/Claude Code/2026-05-28-opus-4-8-is-here-now-defaults-to-high-effort-effort-xhigh-for-your-hardest-tasks|Opus
-  4.8 is here!]]'
-- '[[Changes/Claude Code/2026-05-28-fast-mode-on-opus-4-8-is-now-available-at-a-fraction-of-its-previous-cost-2x-the|Fast
-  mode on Opus 4.8 is now available at a fraction of its previous cost]]'
+- '[[Changes/ChatGPT/2026-05-28-we-re-updating-gpt-5-5-instant-in-chatgpt-and-the-api-to-improve-response-style|GPT-5.5
+  Instant Update]]'
+- '[[Changes/Claude Code/2026-05-28-5-model-support-changes-in-v2-1-154|5 Model Support
+  changes in v2.1.154]]'
+- '[[Changes/Claude Code/2026-05-28-model-now-saves-your-selection-as-the-default-for-new-sessions-matching-the-ide|/model
+  now saves your selection as the default for new sessions (matching the IDE)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-30-v2-1-158-github-331845855-ec9308fc|claude-code-2026-05-30-v2-1-158-github-331845855-ec9308fc]]'
 source_type: github_releases
 theme: model-support
@@ -68,7 +70,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Auto mode is now available on Bedrock, Vertex, and Foundry for Opus 4.7 and Opus 4.8
 
-**Claude Code** · 2026-05-30 · [[Themes/model-support|Model Support]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.158) · from [[Releases/Claude Code/claude-code-2026-05-30-v2-1-158-github-331845855-ec9308fc|v2.1.158]]
+**Claude Code** · 2026-05-30 · [[Themes/model-support|Model Support]] · Expansion · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.158) · from [[Releases/Claude Code/claude-code-2026-05-30-v2-1-158-github-331845855-ec9308fc|v2.1.158]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -84,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-fast-mode-on-opus-4-8-is-now-available-at-a-fraction-of-its-previous-cost-2x-the|Fast mode on Opus 4.8 is now available at a fraction of its previous cost]]
-- Later: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-effort-now-confirms-when-your-chosen-level-will-persist-as-the-default-for-new-s|/effort now confirms when your chosen level will persist as the default for new sessions]]
+- Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-model-now-saves-your-selection-as-the-default-for-new-sessions-matching-the-ide|/model now saves your selection as the default for new sessions (matching the IDE)]]
+- Later: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-removed-claude-code-opus-4-6-fast-mode-override-the-environment-variable-is-now|Removed CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE; the environment variable is now a no-op]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

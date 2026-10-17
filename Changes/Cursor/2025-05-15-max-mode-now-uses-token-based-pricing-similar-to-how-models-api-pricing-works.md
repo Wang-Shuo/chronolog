@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 50d13d965a590cf874e159242e4f627173ce43153bb73bb9be3f317661c8ed3c
+machine_hash: 8c2c67c37a24ac709a0debade34fd017275279a23f45c432aa71f35b762bd051
 product: cursor
 product_name: Cursor
 record:
@@ -61,6 +61,7 @@ related_changes:
   will now display a notification about usage-based pricing when approaching fast…]]'
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'
 source_type: cursor_changelog
+superseded: true
 theme: pricing-model
 title: Max mode now uses token-based pricing (similar to how models API pricing works)
 type: change

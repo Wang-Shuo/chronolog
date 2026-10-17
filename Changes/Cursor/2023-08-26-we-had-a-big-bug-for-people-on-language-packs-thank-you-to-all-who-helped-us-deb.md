@@ -14,9 +14,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 132a482e05247bc13a39d6a2a0e50bb8031cf00db47878a45a87605445a1eaa5
+kind: change
+machine_hash: 8fb4a05b71a1376cd3b4e2f9ff5118f9643b0b2c78a3f0e81c5e3d5e69a896f6
 product: cursor
 product_name: Cursor
 record:
@@ -30,8 +31,9 @@ record:
   - quote: We had a big bug for people on language packs. Thank you to all who helped
       us debug! This should now be fixed, and should not happen again.
     source_release: https://cursor.com/changelog/0-8-3-nightly
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: we-had-a-big-bug-for-people-on-language-packs-thank-you-to-all-who-helped-us-deb
@@ -40,24 +42,24 @@ record:
   theme: developer-workflow
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: We had a big bug for people on language packs
+  title: Bug fix for people on language packs
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-03-also-the-linter-is-slightly-improved|Also, the linter
-  is slightly improved]]'
+- '[[Changes/Cursor/2023-08-03-also-the-linter-is-slightly-improved|In-editor chat
+  is back!]]'
 - '[[Changes/Cursor/2023-08-17-the-cursor-nightly-command-now-works-on-mac|The cursor-nightly
   command now works on Mac]]'
-- '[[Changes/Cursor/2023-08-22-applies-the-patch-from-github-across-all-your-wsl-windows-subsystem-for-linux-di|Applies
-  the patch from Github across all your WSL (Windows Subsystem for Linux)…]]'
+- '[[Changes/Cursor/2023-08-22-applies-the-patch-from-github-across-all-your-wsl-windows-subsystem-for-linux-di|WSL
+  Fixes]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-26-0-8-3-nightly-https-cursor-com-changelog-0-8-3-nightly-e8ac9c3e|cursor-2023-08-26-0-8-3-nightly-https-cursor-com-changelog-0-8-3-nightly-e8ac9c3e]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: We had a big bug for people on language packs
+title: Bug fix for people on language packs
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We had a big bug for people on language packs
+# Bug fix for people on language packs
 
 **Cursor** · 2023-08-26 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://cursor.com/changelog/0-8-3-nightly) · from [[Releases/Cursor/cursor-2023-08-26-0-8-3-nightly-https-cursor-com-changelog-0-8-3-nightly-e8ac9c3e|Bug fix for people on language packs]]
 <!-- chronolog:end -->
@@ -75,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-08-22 · Cursor · [[Changes/Cursor/2023-08-22-applies-the-patch-from-github-across-all-your-wsl-windows-subsystem-for-linux-di|Applies the patch from Github across all your WSL (Windows Subsystem for Linux)…]]
-- Later: 2023-09-05 · Cursor · [[Changes/Cursor/2023-09-05-ships-with-cursor-python-a-language-server-fork-of-pyright-built-for-cursor|Ships with cursor-python, a Language-Server fork of pyright built for Cursor]]
+- Earlier: 2023-08-22 · Cursor · [[Changes/Cursor/2023-08-22-applies-the-patch-from-github-across-all-your-wsl-windows-subsystem-for-linux-di|WSL Fixes]]
+- Later: 2023-09-05 · Cursor · [[Changes/Cursor/2023-09-05-ships-with-cursor-python-a-language-server-fork-of-pyright-built-for-cursor|Cursor-Python LSP]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

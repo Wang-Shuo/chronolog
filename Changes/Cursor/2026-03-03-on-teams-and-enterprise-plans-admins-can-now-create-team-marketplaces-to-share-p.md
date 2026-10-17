@@ -4,19 +4,20 @@ date: '2026-03-03'
 description: 'Cursor · 2026-03-03 · Enterprise and Administration: On Teams and Enterprise
   plans, Admins can now create team marketplaces to share private plugins…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise
-    and Edu rollout coming soon]]'
+  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
+    users can only access stable release (no pre-release)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 264
+  lag_days: 272
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 51b690fedf5f527138406021d44cdd5654bc01321aa1f98d51279a230b124d13
+kind: launch
+machine_hash: c3be8cb7a2ce63cf7276c751f2c9831df61d194a1bc6681810a1a7621528ba8b
 product: cursor
 product_name: Cursor
 record:
@@ -32,11 +33,12 @@ record:
       to share private plugins internally. Go to the settings page to manage and distribute
       plugins with central governance and access controls.
     source_release: https://cursor.com/changelog/2-6
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p
+  slug: team-marketplaces-for-plugins
   source_release: cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3
   source_type: cursor_changelog
   theme: enterprise-admin
@@ -56,27 +58,25 @@ record:
     score: 50
     theme: apps-integrations
   theme_resolution: manual-semantic-rule-v1
-  title: On Teams and Enterprise plans, Admins can now create team marketplaces to
-    share…
+  title: Team marketplaces for plugins
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-launched-in-beta-in-1-7-browser-for-agent-is-now-ga-we-ve-added-additional-suppo|Launched
-  in beta in 1.7, browser for Agent is now GA]]'
-- '[[Changes/Cursor/2025-11-21-this-is-in-addition-to-bugbot-which-runs-on-your-source-control-provider-like-gi|This
-  is in addition to Bugbot, which runs on your source control provider like…]]'
 - '[[Changes/Cursor/2025-12-18-many-of-the-largest-software-companies-in-the-world-have-adopted-cursor-for-ente|Many
   of the largest software companies in the world have adopted Cursor for Enterprise]]'
+- '[[Changes/Cursor/2026-01-22-cursor-blame|Cursor Blame]]'
+- '[[Changes/Cursor/2026-03-03-clearer-more-consistent-team-and-enterprise-policy-and-access-controls|Clearer,
+  more consistent team and enterprise policy and access controls]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3]]'
 source_type: cursor_changelog
 theme: enterprise-admin
-title: On Teams and Enterprise plans, Admins can now create team marketplaces to share…
+title: Team marketplaces for plugins
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# On Teams and Enterprise plans, Admins can now create team marketplaces to share…
+# Team marketplaces for plugins
 
-**Cursor** · 2026-03-03 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://cursor.com/changelog/2-6) · from [[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|MCP Apps and Team Marketplaces for Plugins]]
+**Cursor** · 2026-03-03 · [[Themes/enterprise-admin|Enterprise and Administration]] · Launch · [Official source](https://cursor.com/changelog/2-6) · from [[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|MCP Apps and Team Marketplaces for Plugins]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -88,23 +88,30 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-03-03-mcp-apps-support-interactive-user-interfaces-like-charts-from-amplitude-diagrams|MCP Apps support interactive user interfaces like charts from Amplitude, diagrams…]] · Apps and Integrations
-- [[Changes/Cursor/2026-03-03-added-support-for-multiple-parallel-debug-mode-sessions|Added support for multiple parallel Debug mode sessions]] · Developer Workflow
-- [[Changes/Cursor/2026-03-03-desktop-improvements-15|Desktop Improvements (15)↓↑]] · Mobile and Desktop
+- [[Changes/Cursor/2026-03-03-3-apps-and-integrations-changes-in-2-6|3 Apps and Integrations changes in 2.6]] · Apps and Integrations
+- [[Changes/Cursor/2026-03-03-mcp-apps-support-interactive-user-interfaces-like-charts-from-amplitude-diagrams|MCP Apps]] · Apps and Integrations
+- [[Changes/Cursor/2026-03-03-improved-reliability-for-longer-running-agent-sessions|Improved reliability for longer-running agent sessions]] · Agent Mode
+- [[Changes/Cursor/2026-03-03-modals-load-faster|Modals load faster]] · Reliability and Performance
+- [[Changes/Cursor/2026-03-03-3-developer-workflow-changes-in-2-6|3 Developer Workflow changes in 2.6]] · Developer Workflow
+- [[Changes/Cursor/2026-03-03-clearer-more-consistent-team-and-enterprise-policy-and-access-controls|Clearer, more consistent team and enterprise policy and access controls]] · Enterprise and Administration
+- [[Changes/Cursor/2026-03-03-2-context-window-changes-in-2-6|2 Context Window changes in 2.6]] · Context Window
+- [[Changes/Cursor/2026-03-03-fixed-team-permission-and-access-control-inconsistencies-across-organization-set|Fixed team permission and access control inconsistencies across organization setups]] · Safety and Privacy
+- [[Changes/Cursor/2026-03-03-the-content-from-your-plan-files-are-now-included-in-autocomplete-suggestions-as|The content from your plan files are now included in autocomplete suggestions as you…]] · Interface Experience
 - [[Changes/Cursor/2026-03-03-this-release-introduces-interactive-uis-in-agent-chats-a-way-for-teams-to-share|Cursor introduces interactive UIs in agent chats, a way for teams to share private…]] · Developer Workflow
+- [[Changes/Cursor/2026-03-03-agent-workflows-are-faster-and-more-predictable-for-multi-file-edits-and-pr-heav|Agent workflows are faster and more predictable for multi-file edits and PR-heavy tasks]] · Editor Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-12-18 · Cursor · [[Changes/Cursor/2025-12-18-many-of-the-largest-software-companies-in-the-world-have-adopted-cursor-for-ente|Many of the largest software companies in the world have adopted Cursor for Enterprise]]
-- Later: 2026-03-17 · ChatGPT · [[Changes/ChatGPT/2026-03-17-we-ve-simplified-the-model-picker-to-make-it-easier-to-choose-the-right-level-of|We’ve simplified the model picker to make it easier to choose the right level of reasoning]]
+- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-cursor-blame|Cursor Blame]]
+- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-improved-macos-startup-for-claude-ai-enterprise-team-users-by-skipping-an-unnece|Improved macOS startup for Claude.ai enterprise/team users by skipping…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise and Edu rollout coming soon]]
+- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

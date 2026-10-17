@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-04-29'
 description: 'ChatGPT release Updates to GPT-4o on 2025-04-29: 1 tracked change across
   Model Support'
-machine_hash: 1d8cad112b008f7bde181a8579c5fdcdc2eea63043f605bfeeaafc1e31babd2a
+machine_hash: 9f3f3cf82f6c7ced6f33b40fe3b7bd5f11c7c02b37760d5bff8eca483aabb58d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: Updates to GPT-4o
 <!-- chronolog:begin region="summary" -->
 We've reverted the most recent update to GPT-4o due to issues with overly agreeable responses (sycophancy).We’re actively working on further improvements. For more details, check out our blog post explaining what happened and our initial findings, and this blog post where we expand on what we missed with sycophancy and…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|We've reverted the most recent update to GPT-4o due to issues with overly agreeable…]] · Model Support
+- [[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|Updates to GPT-4o]] · Model Support
 <!-- chronolog:end -->

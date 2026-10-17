@@ -15,9 +15,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 0dad2d7cb167f3a975343e5eb73aba75e1990cd00afb4060f2e6d58d4da81e35
+kind: change
+machine_hash: 9e6b4b206b48190331c9b35dfbec7e5a8556b0dd0d2ec9fb6475bd789a2061b2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,8 +51,9 @@ record:
       out globally for Plus, Pro, and Business users, coming soon to users in the
       European Economic Area, Switzerland, and the United Kingdom.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload
@@ -80,23 +82,24 @@ record:
     - browse
     score: 50
     theme: search-browsing
-  title: Now, it’s easier to find, reuse, and build on your files over time
+  title: File Library in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-13-added-windows-arm64-win32-arm64-native-binary-support|Added
-  Windows ARM64 (win32-arm64) native binary support]]'
-- '[[Changes/Cursor/2026-02-24-cloud-agents-are-available-anywhere-you-use-cursor-including-web-desktop-mobile|Cloud
-  agents are available anywhere you use Cursor, including web, desktop, mobile…]]'
-- '[[Changes/Cursor/2026-03-03-desktop-improvements-15|Desktop Improvements (15)↓↑]]'
+- '[[Changes/Claude Code/2026-03-05-2-mobile-and-desktop-changes-in-v2-1-69|2 Mobile
+  and Desktop changes in v2.1.69]]'
+- '[[Changes/Claude Code/2026-03-11-improved-clipboard-image-pasting-performance-on-macos|Improved
+  clipboard image pasting performance on macOS]]'
+- '[[Changes/Claude Code/2026-03-17-2-mobile-and-desktop-changes-in-v2-1-77|2 Mobile
+  and Desktop changes in v2.1.77]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-23-file-library-in-chatgpt-7107c619|chatgpt-2026-03-23-file-library-in-chatgpt-7107c619]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Now, it’s easier to find, reuse, and build on your files over time
+title: File Library in ChatGPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Now, it’s easier to find, reuse, and build on your files over time
+# File Library in ChatGPT
 
 **ChatGPT** · 2026-03-23 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-23-file-library-in-chatgpt-7107c619|File Library in ChatGPT]]
 <!-- chronolog:end -->
@@ -114,8 +117,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-desktop-improvements-15|Desktop Improvements (15)↓↑]]
-- Later: 2026-03-26 · ChatGPT · [[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|To give you more space to view your most critical chats and projects, the sidebar…]]
+- Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-2-mobile-and-desktop-changes-in-v2-1-77|2 Mobile and Desktop changes in v2.1.77]]
+- Later: 2026-03-26 · ChatGPT · [[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|A simplified sidebar on mobile]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

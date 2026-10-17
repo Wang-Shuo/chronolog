@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ea14b63015a7dfc20eebd086ee9544b2382ba316a87ee7bd8f33505bcbdcb69f
+machine_hash: 36ddab61b69edfe354319fd1bad82afbe1a3679ea863c5f840bda5c3c932302a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,6 +48,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-12-19-be-more-or-less-enthusiastic|Be more or less enthusiastic]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-19-new-detailed-characteristic-controls-fa363df4|chatgpt-2025-12-19-new-detailed-characteristic-controls-fa363df4]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: memory
 title: In addition to selecting a base style and tone preset—like candid and friendly—you…
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c6fdbbd65956272753896c6afc83284143fc676d5e2f0c3e01af73e4aa673d0d
+machine_hash: 0381496d9b7f24111810743d1b06485c3d1fc5c583e95d91926daf17ca4fd53e
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   startup performance by deferring SessionStart hook execution, reducing…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931|claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931]]'
 source_type: github_releases
+superseded: true
 theme: reliability-performance
 title: Improved performance of @ file mentions - file suggestions now appear faster…
 type: change

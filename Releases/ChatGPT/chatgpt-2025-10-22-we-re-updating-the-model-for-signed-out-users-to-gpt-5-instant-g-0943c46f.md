@@ -4,7 +4,7 @@ date: '2025-10-22'
 description: 'ChatGPT release We’re updating the model for signed-out users to GPT-5
   Instant, giving more people access to higher-quality responses by on 2025-10-22:
   1…'
-machine_hash: f29192ba9e94793405cedf2cafc1128d4cf68bf86cbaa3194cddf36d1a77a2f9
+machine_hash: cf42ebdb8ff9a0880fcc59d15131d24af96ef04bb52e5997f891b7755391f86d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,7 +46,7 @@ version: We’re updating the model for signed-out users to GPT-5 Instant, givin
 <!-- chronolog:begin region="summary" -->
 We’re updating the model for signed-out users to GPT-5 Instant, giving more people access to higher-quality responses by default. See here to learn more about the intelligence of GPT-5.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 7703a1b145a3b35c95b79eb8c3494bb330033e96f2be81619cfe96de19bc3235
+machine_hash: 72f393aadd593dc652c5b71d6068542a300f6b819a577647877cba25ae924d41
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   automatic discovery of skills from nested .claude/skills directories…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111|claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added support for pinning plugins to specific git commit SHAs, allowing marketplace…
 type: change

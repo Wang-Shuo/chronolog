@@ -4,8 +4,8 @@ date: '2026-05-12'
 description: 'Claude Code · 2026-05-12 · Apps and Integrations: Plugins now warn when
   a default component folder (e.g. `commands/`) is silently ignored because `plugin.json`…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1146
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 24fa4b39c3c037b6e3ed0f83412138b6a60bf1bbc437ee30ef201f9b5f9aa5dc
+kind: change
+machine_hash: 597fd4fcd5d0d326da12504f75957ae4c3570635c65ed4fde7a3d06e1edba086
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
       silently ignored because `plugin.json` sets the matching key. Shown in `/doctor`,
       `claude plugin list`, and `/plugin`.
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.140
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: plugins-now-warn-when-a-default-component-folder-e-g-commands-is-silently-ignore
@@ -42,10 +44,10 @@ record:
   title: Plugins now warn when a default component folder (e.g. `commands/`) is silently…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-11-added-claude-plugin-details-name-to-show-a-plugin-s-component-inventory-and-proj|Added
-  claude plugin details name to show a plugin''s component inventory…]]'
 - '[[Changes/Claude Code/2026-05-11-added-goal-command-set-a-completion-condition-and-claude-keeps-working-across-tu|Added
   /goal command]]'
+- '[[Changes/Claude Code/2026-05-11-8-apps-and-integrations-changes-in-v2-1-139|8
+  Apps and Integrations changes in v2.1.139]]'
 - '[[Changes/Cursor/2026-05-11-get-started-by-installing-the-integration-in-the-cursor-dashboard-learn-more-in|Get
   started by installing the integration in the Cursor dashboard]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-12-v2-1-140-github-321395205-971146de|claude-code-2026-05-12-v2-1-140-github-321395205-971146de]]'
@@ -70,21 +72,20 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-05-12-improved-agent-tool-subagent-type-matching-to-accept-case-and-separator-insensit|Improved Agent tool subagent_type matching to accept case…]] · Agent Mode
-- [[Changes/Claude Code/2026-05-12-updated-agent-color-palette|Updated agent color palette]] · Agent Mode
+- [[Changes/Claude Code/2026-05-12-2-agent-mode-changes-in-v2-1-140|2 Agent Mode changes in v2.1.140]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-get-started-by-installing-the-integration-in-the-cursor-dashboard-learn-more-in|Get started by installing the integration in the Cursor dashboard]]
-- Later: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-added-terminalsequence-field-to-hook-json-output-so-hooks-can-emit-desktop-notif|Added terminalSequence field to hook JSON output so hooks can emit desktop…]]
+- Later: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-2-apps-and-integrations-changes-in-v2-1-141|2 Apps and Integrations changes in v2.1.141]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

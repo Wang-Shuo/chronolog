@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 11dca339604a2362f02f9fa3a6adddf83f75c3168e1ff8152e460d33f328f887
+kind: change
+machine_hash: ddd512f3dd13b01e6b0a915bcb8588757a1d628285386e273341e0e9dc6ada6a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,8 +28,9 @@ record:
   evidence:
   - quote: Review code in split-screen views
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: review-code-in-split-screen-views
@@ -40,12 +42,12 @@ record:
   title: Review code in split-screen views
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-04-reduced-layout-jitter-in-the-terminal-when-the-spinner-appears-and-disappears-du|Reduced
-  layout jitter in the terminal when the spinner appears and disappears during…]]'
-- '[[Changes/Claude Code/2026-02-10-improved-heredoc-delimiter-parsing-to-prevent-command-smuggling|Improved
-  heredoc delimiter parsing to prevent command smuggling]]'
-- '[[Changes/Cursor/2026-02-18-mermaid-code-blocks-now-render-inline-as-ascii-diagrams-in-your-cli-conversation|Mermaid
-  code blocks now render inline as ASCII diagrams in your CLI conversation]]'
+- '[[Changes/Claude Code/2026-02-18-the-rename-command-now-updates-the-terminal-tab-title-by-default-anthropics-clau|The
+  /rename command now updates the terminal tab title by default…]]'
+- '[[Changes/Cursor/2026-02-18-mermaid-ascii-diagrams-in-cli-8c4835|Mermaid ASCII
+  diagrams in CLI]]'
+- '[[Changes/Cursor/2026-02-18-3-developer-workflow-changes-in-cli-improvements-and-mermaid-ascii|3
+  Developer Workflow changes in CLI Improvements and Mermaid ASCII…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-19-interactive-code-blocks-in-chatgpt-c2254f84|chatgpt-2026-02-19-interactive-code-blocks-in-chatgpt-c2254f84]]'
 source_type: chatgpt_changelog
 theme: developer-workflow
@@ -68,16 +70,15 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2026-02-19-write-and-edit-text-in-line|Write and edit text in-line]] · Editor Experience
-- [[Changes/ChatGPT/2026-02-19-we-improved-code-blocks-in-chatgpt-to-make-them-more-interactive-you-can-write-e-69f629|We improved Code Blocks in ChatGPT to make them more interactive]] · Editor Experience
+- [[Changes/ChatGPT/2026-02-19-we-improved-code-blocks-in-chatgpt-to-make-them-more-interactive-you-can-write-e-6b2623|We improved Code Blocks in ChatGPT to make them more interactive]] · Editor Experience
 - [[Changes/ChatGPT/2026-02-19-preview-diagrams-and-mini-apps-directly-in-chat|Preview diagrams and mini apps directly in chat]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-mermaid-code-blocks-now-render-inline-as-ascii-diagrams-in-your-cli-conversation|Mermaid code blocks now render inline as ASCII diagrams in your CLI conversation]]
-- Later: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-added-worktreecreate-and-worktreeremove-hook-events-enabling-custom-vcs-setup-an|Added WorktreeCreate and WorktreeRemove hook events, enabling custom VCS setup…]]
+- Earlier: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-3-developer-workflow-changes-in-cli-improvements-and-mermaid-ascii|3 Developer Workflow changes in CLI Improvements and Mermaid ASCII…]]
+- Later: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-3-developer-workflow-changes-in-v2-1-50|3 Developer Workflow changes in v2.1.50]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

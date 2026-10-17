@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 120f94d9004807ba73a03c617fc723850f3516dcc9bcf98e0ee4146c8a3be2bc
+machine_hash: dc0fdd0114487aee6864876d41837557103ad563c73e7eeb61e5eea67ea91e8c
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,6 +47,7 @@ related_changes:
   org-configured model restrictions to the model picker, --model, /model…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-23-v2-1-187-github-343665388-744f9775|claude-code-2026-06-23-v2-1-187-github-343665388-744f9775]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Improved /btw with ←/→ arrow navigation to step through earlier answers
 type: change

@@ -14,9 +14,10 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: b2ad9a1aadcab0b8baff0150524d4202ae8b74434717fc18589839cb71944725
+kind: change
+machine_hash: cb317d1edc1dc17ef967ebb0a6c2630fad658c0335bdf14293c1f0bdb2692b2e
 product: cursor
 product_name: Cursor
 record:
@@ -30,8 +31,9 @@ record:
   evidence:
   - quote: Can see recent folders on the new window screen
     source_release: https://cursor.com/changelog/0-3-0
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: can-see-recent-folders-on-the-new-window-screen
@@ -40,7 +42,7 @@ record:
   theme: projects-workspaces
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Can see recent folders on the new window screen
+  title: SSH and WSL fixes
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|Conversation
@@ -52,12 +54,12 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-07-21-0-3-0-https-cursor-com-changelog-0-3-0-30999c26|cursor-2023-07-21-0-3-0-https-cursor-com-changelog-0-3-0-30999c26]]'
 source_type: cursor_changelog
 theme: projects-workspaces
-title: Can see recent folders on the new window screen
+title: SSH and WSL fixes
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Can see recent folders on the new window screen
+# SSH and WSL fixes
 
 **Cursor** · 2023-07-21 · [[Themes/projects-workspaces|Projects and Workspaces]] · [Official source](https://cursor.com/changelog/0-3-0) · from [[Releases/Cursor/cursor-2023-07-21-0-3-0-https-cursor-com-changelog-0-3-0-30999c26|SSH and WSL fixes]]
 <!-- chronolog:end -->
@@ -76,7 +78,7 @@ type: change
 ## Nearby in Projects and Workspaces
 
 - Earlier: 2023-05-18 · Cursor · [[Changes/Cursor/2023-05-18-reintroduces-the-new-ai-project|Reintroduces the "New AI Project"]]
-- Later: 2023-09-07 · Cursor · [[Changes/Cursor/2023-09-07-ux-for-producing-a-project-end-to-end|UX for producing a project end-to-end]]
+- Later: 2023-09-07 · Cursor · [[Changes/Cursor/2023-09-07-ux-for-producing-a-project-end-to-end-b8d638|UX for producing a project end-to-end]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

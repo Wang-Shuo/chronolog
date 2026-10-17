@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c874a0c47c87f38d5e7dc7d4da4a71a77bae37243abde7034b08584174786416
+machine_hash: 94a4db808eacc5691652bb9fa56b9c29834a4df9aefed1b8a4678917532693a2
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   the install script to explain when installation is killed by the system…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc|claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc]]'
 source_type: github_releases
+superseded: true
 theme: reliability-performance
 title: Improved responsiveness while long responses stream
 type: change

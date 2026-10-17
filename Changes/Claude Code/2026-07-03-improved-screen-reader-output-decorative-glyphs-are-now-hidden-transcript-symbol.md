@@ -15,9 +15,10 @@ diffusion:
   theme: accessibility-localization
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 5c1299759555d61429611f646649889b2c1cf75f6d5e8508ea76beaef9ef38c7
+kind: change
+machine_hash: f59bc287de08a7e89366533e01f7e69897da17ef7826eccd3b229f064304ccb3
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
   - quote: 'Improved screen-reader output: decorative glyphs are now hidden, transcript
       symbols read as short labels, and nested tables read as `Header: value.` lines'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.200
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-screen-reader-output-decorative-glyphs-are-now-hidden-transcript-symbol

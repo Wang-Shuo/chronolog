@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: bd9cff62bf892de5980404fab203fe86e34c7c1350c0f73f967e30e02119499d
+kind: change
+machine_hash: 01bb47480adb0552114c7ce70328bb9d5f8886d33c630bf86d176de29f0fe4b3
 product: cursor
 product_name: Cursor
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added the ability to hide the tooltip (Cursor config > Advanced > Chat/Edit
       Tooltip)
     source_release: https://cursor.com/changelog/0-2-9
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: added-the-ability-to-hide-the-tooltip-cursor-config-advanced-chat-edit-tooltip
@@ -70,9 +72,9 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]] · Context Window
 - [[Changes/Cursor/2023-05-04-one-click-extension-import-from-vs-code-beta-as-a-highly-requested-feature-we-re|One-Click Extension Import from VS Code (beta)]] · Apps and Integrations
-- [[Changes/Cursor/2023-05-04-alpha-feature-alpha-feature-ask-questions-about-your-entire-repo-we-are-experime|Alpha feature: 🧠 Alpha feature: Ask questions about your entire repo 🛠️]] · Context Window
+- [[Changes/Cursor/2023-05-04-gpt-4-support-now-available-for-project-generation|GPT-4 support now available for project generation]] · Model Support
+- [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]] · Context Window
 - [[Changes/Cursor/2023-05-04-improved-prompting-for-edits-and-generates|Improved prompting for edits and generates]] · Editor Experience
 <!-- chronolog:end -->
 

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 846f197d9d726fafc284e4652ef9c8844c75fdf200b2b6aba4307362319547d3
+machine_hash: 8498759f16cbe07ecac7c6a8a6c7f5ec088337dfa6c707d827805eae208f087c
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   permission previews relayed to chat channels not neutralizing…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-18-v2-1-214-github-355973317-478680c5|claude-code-2026-07-18-v2-1-214-github-355973317-478680c5]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed a permission-check bypass affecting commands run in Windows PowerShell
   5.1 sessions

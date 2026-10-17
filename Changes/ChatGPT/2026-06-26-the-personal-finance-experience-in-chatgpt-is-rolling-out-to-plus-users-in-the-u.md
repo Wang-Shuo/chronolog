@@ -4,8 +4,8 @@ date: '2026-06-26'
 description: 'ChatGPT · 2026-06-26 · Files and Data: The personal finance experience
   in ChatGPT is rolling out to Plus users in the U.S. on web and iOS. It is also now…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|ChatGPT
-    rolls out code interpreter to all ChatGPT Plus users over the next week]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
+    interpreter is now rolling out in beta on web]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1086
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 09ea04faf5fc0043cae565e99d2ef2880eb8bbabf9b3fdd653abe5013fd2892b
+kind: change
+machine_hash: a27cd324228593a1299029276b89e420f1d5bdfe79c092fcecba7f79c3b00c33
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,8 +37,9 @@ record:
       accounts, view a dashboard of their finances, and ask ChatGPT questions grounded
       in their financial context
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u
@@ -55,11 +57,11 @@ record:
     score: 50
     theme: context-window
   theme_resolution: manual-semantic-rule-v2
-  title: The personal finance experience in ChatGPT is rolling out to Plus users…
+  title: Personal finance in ChatGPT expands to Plus users and Android
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-design-mode-is-now-available-in-canvases|Design Mode
-  is now available in canvases]]'
+- '[[Changes/Cursor/2026-06-04-0-1-6-release-and-analytics-cursor-sdk-0-1-6-documents-the-buildkite-release-pat|0.1.6
+  release and analytics]]'
 - '[[Changes/ChatGPT/2026-06-08-interactive-charts-in-answers-chatgpt-can-now-turn-some-answers-into-rich-and-in|Interactive
   charts in answers]]'
 - '[[Changes/ChatGPT/2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo|Full-screen
@@ -67,12 +69,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-26-personal-finance-in-chatgpt-expands-to-plus-users-and-android-e1f9ce56|chatgpt-2026-06-26-personal-finance-in-chatgpt-expands-to-plus-users-and-android-e1f9ce56]]'
 source_type: chatgpt_changelog
 theme: file-data
-title: The personal finance experience in ChatGPT is rolling out to Plus users…
+title: Personal finance in ChatGPT expands to Plus users and Android
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# The personal finance experience in ChatGPT is rolling out to Plus users…
+# Personal finance in ChatGPT expands to Plus users and Android
 
 **ChatGPT** · 2026-06-26 · [[Themes/file-data|Files and Data]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-26-personal-finance-in-chatgpt-expands-to-plus-users-and-android-e1f9ce56|Personal finance in ChatGPT expands to Plus users and Android]]
 <!-- chronolog:end -->
@@ -97,7 +99,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|ChatGPT rolls out code interpreter to all ChatGPT Plus users over the next week]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

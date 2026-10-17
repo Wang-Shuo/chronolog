@@ -3,7 +3,7 @@ changes_count: 2
 date: '2026-09-29'
 description: 'ChatGPT release Meetings plugin on 2026-09-29: 2 tracked changes across
   Apps and Integrations, Mobile and Desktop'
-machine_hash: 8a9deafa14b6e79568cb65d047829878b55fab2cbb9aa3ff45f13d218fb5807c
+machine_hash: 67eb6ecf80983745efb45c9e3d680c8e6cde43fd04f787f4a8e3893d4cca92ea
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ version: Meetings plugin
 <!-- chronolog:begin region="summary" -->
 We’re making it easier to bring meeting context into ChatGPT so you can act on next steps faster. The Meetings plugin takes notes for you based on what’s said in the meeting and saves personalized summaries with action items in ChatGPT Space. You can keep them private or share them with your team, then ask ChatGPT to…
 
-Tracked 2 of 2 candidate lines.
+Tracked 2 cards from 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

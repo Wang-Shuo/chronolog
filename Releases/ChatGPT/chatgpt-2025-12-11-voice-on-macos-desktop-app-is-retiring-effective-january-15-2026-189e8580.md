@@ -3,7 +3,7 @@ changes_count: 2
 date: '2025-12-11'
 description: 'ChatGPT release Voice on macOS desktop app is retiring (effective January
   15, 2026) on 2025-12-11: 2 tracked changes across Voice and Audio'
-machine_hash: b0e5478e9180a094f90f2c4563124aa0995642f81d6719334627ed9bb703f6e5
+machine_hash: 528d9b9295296890087605e4c84be32808579cd630ac1221b018940b7a407047
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,11 +40,11 @@ version: Voice on macOS desktop app is retiring (effective January 15, 2026)
 <!-- chronolog:begin region="summary" -->
 We’re retiring the Voice experience in the ChatGPT macOS app on January 15, 2026. This change allows us to focus on more unified and improved voice experiences across our apps.
 
-Tracked 2 of 3 candidate lines.
+Tracked 2 cards from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-12-11-we-re-retiring-the-voice-experience-in-the-chatgpt-macos-app-on-january-15-2026|We’re retiring the Voice experience in the ChatGPT macOS app on January 15, 2026]] · Voice and Audio
+- [[Changes/ChatGPT/2025-12-11-we-re-retiring-the-voice-experience-in-the-chatgpt-macos-app-on-january-15-2026|We’re retiring the Voice experience in the ChatGPT macOS app on January 15, 2026]] · Voice and Audio · Policy
 - [[Changes/ChatGPT/2025-12-11-voice-will-continue-to-be-available-on-chatgpt-com-ios-android-and-windows-app|Voice will continue to be available on chatgpt.com, iOS, Android, and Windows app]] · Voice and Audio
 <!-- chronolog:end -->

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: e5a45fd6b6ff3cfce71e8408ed6575685e78f78d14c0982b16e358b810a8f307
+machine_hash: 1242fa2d00660a4f60d0d2d17dad3325e9ef4fabbbd5d111b671b7dc88502e55
 product: cursor
 product_name: Cursor
 record:
@@ -52,6 +52,7 @@ related_changes:
   CLAUDE_CODE_SUBAGENT_MODEL_FORCE to apply CLAUDE_CODE_SUBAGENT_MODEL…]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-02-self-hosted-machines-https-cursor-com-changelog-self-hosted-mach-28f9f33e|cursor-2026-09-02-self-hosted-machines-https-cursor-com-changelog-self-hosted-mach-28f9f33e]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Your codebase, build outputs, and secrets all stay on internal machines running…
 type: change

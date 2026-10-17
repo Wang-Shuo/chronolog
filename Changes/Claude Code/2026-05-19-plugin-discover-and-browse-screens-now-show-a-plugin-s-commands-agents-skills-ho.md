@@ -4,8 +4,8 @@ date: '2026-05-19'
 description: 'Claude Code · 2026-05-19 · Apps and Integrations: `/plugin` Discover
   and Browse screens now show a plugin''s commands, agents, skills, hooks, and MCP/LSP…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1153
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: a32c15dca6dfc9543ff5dea019ec6832db6f78979307a07516bd7eadbd6b1af0
+kind: change
+machine_hash: 6176b2f658c063fae54f40023b72b1112dc3154ada28c3011eacf0a051ff2e52
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: '`/plugin` Discover and Browse screens now show a plugin''s commands, agents,
       skills, hooks, and MCP/LSP servers before installation'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.145
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: plugin-discover-and-browse-screens-now-show-a-plugin-s-commands-agents-skills-ho
@@ -59,12 +61,12 @@ record:
     skills…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-14-the-plugin-details-pane-and-claude-plugin-details-now-show-lsp-servers-a-plugin|The
-  /plugin details pane and claude plugin details now show LSP servers a plugin…]]'
-- '[[Changes/Claude Code/2026-05-14-web-setup-warns-before-replacing-an-existing-github-app-connection|/web-setup
-  warns before replacing an existing GitHub App connection]]'
-- '[[Changes/Claude Code/2026-05-15-added-plugin-dependency-enforcement-claude-plugin-disable-now-refuses-when-anoth|Added
-  plugin dependency enforcement]]'
+- '[[Changes/Cursor/2026-05-13-improved-mcp-auth-token-lifecycle-handling|Improved
+  MCP auth token lifecycle handling]]'
+- '[[Changes/Claude Code/2026-05-14-3-apps-and-integrations-changes-in-v2-1-142|3
+  Apps and Integrations changes in v2.1.142]]'
+- '[[Changes/Claude Code/2026-05-15-3-apps-and-integrations-changes-in-v2-1-143|3
+  Apps and Integrations changes in v2.1.143]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4|claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4]]'
 source_type: github_releases
 theme: apps-integrations
@@ -87,23 +89,23 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-05-19-claude-agents-terminal-tab-title-now-shows-the-awaiting-input-count-so-an-alt-ta|claude agents terminal tab title now shows the awaiting-input count…]] · Agent Mode
-- [[Changes/Claude Code/2026-05-19-added-agent-id-and-parent-agent-id-attributes-to-claude-code-tool-otel-spans-and|Added agent_id and parent_agent_id attributes to claude_code.tool OTEL spans…]] · Agent Mode
-- [[Changes/Claude Code/2026-05-19-status-line-json-input-now-includes-github-repo-and-pr-information-when-detected|Status line JSON input now includes GitHub repo and PR information when detected]] · Interface Experience
-- [[Changes/Claude Code/2026-05-19-added-claude-agents-json-to-list-live-claude-sessions-as-json-for-scripting-tmux|Added claude agents --json to list live Claude sessions as JSON for scripting…]] · Agent Mode
+- [[Changes/Claude Code/2026-05-19-fixed-a-permission-prompt-bypass-where-bare-variable-assignments-to-non-allowlis|Fixed a permission-prompt bypass where bare variable assignments to non-allowlisted…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-05-19-2-interface-experience-changes-in-v2-1-145|2 Interface Experience changes in v2.1.145]] · Interface Experience
+- [[Changes/Claude Code/2026-05-19-improved-the-read-tool-to-return-a-truncated-first-page-with-a-partial-view-noti|Improved the Read tool to return a truncated first page with a "PARTIAL view" notice…]] · Context Window
+- [[Changes/Claude Code/2026-05-19-3-agent-mode-changes-in-v2-1-145|3 Agent Mode changes in v2.1.145]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-added-plugin-dependency-enforcement-claude-plugin-disable-now-refuses-when-anoth|Added plugin dependency enforcement]]
-- Later: 2026-05-19 · Cursor · [[Changes/Cursor/2026-05-19-cursor-is-now-available-in-jira|Cursor is now available in Jira]]
+- Earlier: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-3-apps-and-integrations-changes-in-v2-1-143|3 Apps and Integrations changes in v2.1.143]]
+- Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-3-apps-and-integrations-changes-in-v2-1-144|3 Apps and Integrations changes in v2.1.144]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

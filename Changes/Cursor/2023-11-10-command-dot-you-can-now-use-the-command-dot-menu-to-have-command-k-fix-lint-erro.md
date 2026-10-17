@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 5eb2951a31b9ab0dfb4314be9374540ce67425e5df1aa20ccd0231affc656026
+kind: change
+machine_hash: bbf5ca09631054075f0bef7a5cb8678e726afe8303760764bb1d09b42db3191e
 product: cursor
 product_name: Cursor
 record:
@@ -29,8 +30,9 @@ record:
   - quote: 'Command-dot: you can now use the Command-dot menu to have Command-K fix
       lint errors inline.'
     source_release: https://cursor.com/changelog/0-15-0-0-15-1
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: command-dot-you-can-now-use-the-command-dot-menu-to-have-command-k-fix-lint-erro

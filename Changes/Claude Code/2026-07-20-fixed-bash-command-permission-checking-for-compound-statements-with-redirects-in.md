@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3fc5b4585609cda393ba7704f1d9479268325a4a699d791c88786333a9010320
+machine_hash: 2655a86b51590de43c3a3a8bf6f6e732bcf6dbb6b027fe7ae049cc3d878d212e
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   read-only commands on Windows accessing network paths without a permission prompt]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae|claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed Bash command permission checking for compound statements with redirects
   inside…

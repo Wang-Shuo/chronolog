@@ -14,9 +14,10 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 1145731425d3b202eb2c4def723b0a6490bb9198341fcc057da802da6bfe8077
+kind: change
+machine_hash: 2e74733c57ef9496aecba84f675dd6a845e6332db9d05ea5dcb0f62298d17faa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,8 +44,9 @@ record:
       target calendar when asking ChatGPT. Availability may depend on your Microsoft
       permissions and workspace app settings. Learn more.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: the-outlook-email-and-calendar-apps-for-chatgpt-can-now-help-with-delegated-or-s
@@ -61,24 +63,24 @@ record:
     score: 50
     theme: search-browsing
   theme_resolution: manual-semantic-rule-v1
-  title: The Outlook Email and Calendar apps for ChatGPT can now help with delegated…
+  title: Outlook shared mailboxes and calendars in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results|Open
-  search results in a new tab]]'
-- '[[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|The
-  legacy deep research mode will be removed on Thursday, March 26, 2026]]'
-- '[[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|ChatGPT
-  improves shopping to make it easier to discover, compare, and decide on products]]'
+- '[[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|Legacy
+  deep research mode deprecation notice]]'
+- '[[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|Shopping
+  updates in ChatGPT]]'
+- '[[Changes/Cursor/2026-04-02-past-chat-transcripts-are-now-surfaced-directly-in-at-mention-search-results|Past
+  chat transcripts are now surfaced directly in at-mention search results]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-08-outlook-shared-mailboxes-and-calendars-in-chatgpt-51092ccc|chatgpt-2026-04-08-outlook-shared-mailboxes-and-calendars-in-chatgpt-51092ccc]]'
 source_type: chatgpt_changelog
 theme: search-browsing
-title: The Outlook Email and Calendar apps for ChatGPT can now help with delegated…
+title: Outlook shared mailboxes and calendars in ChatGPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# The Outlook Email and Calendar apps for ChatGPT can now help with delegated…
+# Outlook shared mailboxes and calendars in ChatGPT
 
 **ChatGPT** · 2026-04-08 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-08-outlook-shared-mailboxes-and-calendars-in-chatgpt-51092ccc|Outlook shared mailboxes and calendars in ChatGPT]]
 <!-- chronolog:end -->
@@ -96,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-03-24 · ChatGPT · [[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|ChatGPT improves shopping to make it easier to discover, compare, and decide on products]]
+- Earlier: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-past-chat-transcripts-are-now-surfaced-directly-in-at-mention-search-results|Past chat transcripts are now surfaced directly in at-mention search results]]
 - Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-the-plugin-browse-and-discover-panes-now-show-when-a-plugin-was-last-updated|The /plugin browse and discover panes now show when a plugin was last updated]]
 <!-- chronolog:end -->
 

@@ -3,7 +3,7 @@ changes_count: 3
 date: '2023-08-30'
 description: 'Cursor release Auditable codebase context, VS Code left bar on 2023-08-30:
   3 tracked changes across Context Window, Interface Experience, Safety and Privacy'
-machine_hash: c62cccc975b130b2bfff1378c608a440049842f094b28eda00e12130d57d0f4f
+machine_hash: 8fb6ce345147b7c021e336265ea1c71115cf86ca130acfed49886cc38a3e4e90
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.9.0
 <!-- chronolog:begin region="summary" -->
 You can now switch to the VS Code sidebar orientation
 
-Tracked 3 of 5 candidate lines.
+Tracked 3 cards from 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

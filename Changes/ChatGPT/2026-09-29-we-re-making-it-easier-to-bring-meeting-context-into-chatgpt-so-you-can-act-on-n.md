@@ -4,8 +4,8 @@ date: '2026-09-29'
 description: 'ChatGPT · 2026-09-29 · Apps and Integrations: We’re making it easier
   to bring meeting context into ChatGPT so you can act on next steps faster. The Meetings…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1286
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f4898e1cdb8a0e8e1279591dcfbb9acf6cc805d490a2562c784d9332a57d4104
+kind: change
+machine_hash: 24183ecbdc90d21cc3b36925372dec8681e925b8c07571acd890b5f1d0ee7d49
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,8 +36,9 @@ record:
       Space. You can keep them private or share them with your team, then ask ChatGPT
       to update a project plan or draft a follow-up.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-making-it-easier-to-bring-meeting-context-into-chatgpt-so-you-can-act-on-n
@@ -65,12 +67,12 @@ record:
     on next…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-plugins-can-now-include-interactive-panels-sidebar-views-and-viewers-or-editors|Plugins
-  can now include interactive panels, sidebar views, and viewers or editors…]]'
-- '[[Changes/ChatGPT/2026-09-29-this-is-a-limited-preview-with-participating-integrations-using-purchased-credit|This
-  is a limited preview with participating integrations]]'
-- '[[Changes/ChatGPT/2026-09-29-plugins-still-require-their-applicable-account-connections-and-workspace-permiss|Plugins
-  still require their applicable account connections and workspace permissions]]'
+- '[[Changes/Claude Code/2026-09-25-14-apps-and-integrations-changes-in-v2-1-283|14
+  Apps and Integrations changes in v2.1.283]]'
+- '[[Changes/Claude Code/2026-09-28-9-apps-and-integrations-changes-in-v2-1-284|9
+  Apps and Integrations changes in v2.1.284]]'
+- '[[Changes/ChatGPT/2026-09-29-plugins-can-now-include-interactive-panels-sidebar-views-and-viewers-or-editors-d0bd7e|Work
+  with interactive plugin extensions]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-meetings-plugin-157dcc24|chatgpt-2026-09-29-meetings-plugin-157dcc24]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -100,14 +102,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-plugins-still-require-their-applicable-account-connections-and-workspace-permiss|Plugins still require their applicable account connections and workspace permissions]]
-- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-supported-plugins-can-use-mcp-events-to-start-an-automation-when-something-chang|Supported plugins can use MCP events to start an automation when something changes…]]
+- Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-plugins-can-now-include-interactive-panels-sidebar-views-and-viewers-or-editors-d0bd7e|Work with interactive plugin extensions]]
+- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-supported-plugins-can-use-mcp-events-to-start-an-automation-when-something-chang-d9add6|Start automations from connected-app events]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

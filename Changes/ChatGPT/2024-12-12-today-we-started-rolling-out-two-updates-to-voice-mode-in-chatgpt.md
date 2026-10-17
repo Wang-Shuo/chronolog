@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 38a6296b492c8337eeb482ff64d869664a21cb8ea1b1431f2917a7031d65865f
+machine_hash: 3ec640874cb1852f2a061cc644d4fb51ada0f0b26337b2a1f831dd4945cf0e78
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,6 +47,7 @@ related_changes:
   and screenshare]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d|chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: voice
 title: Today we started rolling out two updates to voice mode in ChatGPT
 type: change

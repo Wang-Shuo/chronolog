@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 27d26947a9c3918150708a15191ea6ccbe147a00853867e506cdb3cb112e8c9a
+machine_hash: 1a288992528a13ff37aacb716a23cad7cfc8813d87398b246db46681cb0e93d5
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   in ChatGPT are now more visual and easier to scan]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0|claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Improved error messages for API connection failures
 type: change

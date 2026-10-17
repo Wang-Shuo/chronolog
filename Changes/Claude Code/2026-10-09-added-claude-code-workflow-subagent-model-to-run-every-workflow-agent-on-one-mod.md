@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 4eb3f100a9b072636deef5aa9d20222610caab169d261775664d830a17c3e847
+machine_hash: 4b5c4fd2419e529f03ca41efb7c49eae2301bdefb3f736618024ec8cc5a0e385
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,6 +62,7 @@ related_changes:
   agentType to the subagentStatusLine payload, so scripts can tell custom…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added CLAUDE_CODE_WORKFLOW_SUBAGENT_MODEL to run every workflow agent on one
   model…

@@ -1,9 +1,9 @@
 ---
-changes_count: 4
+changes_count: 3
 date: '2024-08-22'
 description: 'Cursor release New Chat UX, Default-On Composer, New Cursor Tab Model
-  on 2024-08-22: 4 tracked changes across Collaboration, Context Window, Editor Experience…'
-machine_hash: 0a292d8b192fd7a9efbb4d503130478762a34b61aca1392438d47c9df9f6c3ff
+  on 2024-08-22: 3 tracked changes across Collaboration, Context Window, Interface…'
+machine_hash: 21d93d596abd0266f0a7daa9e696189e31c7dd5e92c957048ea036138d77939c
 product: cursor
 product_name: Cursor
 record:
@@ -39,13 +39,12 @@ version: 0.40.x
 <!-- chronolog:begin region="summary" -->
 We have a new chat UX! Excited for you to try it out and share your thoughts.
 
-Tracked 4 of 5 candidate lines.
+Tracked 3 cards from 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2024-08-22-auto-imports-beta-for-cursor-tab-for-typescript-files-when-tab-suggests-an-unimp|Auto imports (beta) for Cursor Tab for TypeScript files]] · Editor Experience
-- [[Changes/Cursor/2024-08-22-we-ve-also-trained-a-new-cursor-tab-model-that-s-smarter-and-more-context-aware|We've also trained a new Cursor Tab model that's smarter and more context-aware]] · Context Window
+- [[Changes/Cursor/2024-08-22-we-ve-also-trained-a-new-cursor-tab-model-that-s-smarter-and-more-context-aware-56db10|We've also trained a new Cursor Tab model that's smarter and more context-aware]] · Context Window
 - [[Changes/Cursor/2024-08-22-we-have-a-new-chat-ux-excited-for-you-to-try-it-out-and-share-your-thoughts|We have a new chat UX!]] · Interface Experience
 - [[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer is now default-on and available to all Pro/Business users by hitting cmd+I]] · Collaboration
 <!-- chronolog:end -->

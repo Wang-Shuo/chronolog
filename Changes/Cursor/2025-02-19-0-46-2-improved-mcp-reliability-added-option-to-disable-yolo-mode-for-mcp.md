@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c955b6212887583066200a4d560d599cf08bf87b56ef050b7df8b428f8bda360
+machine_hash: 89842efab21dde4fbdc70ab4b07963a6f042d5f2c19db761a4fb6819a326e572
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   Improved reliability and quality of life enhancements for building MCP servers…]]'
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: '0.46.2: Improved MCP reliability, added option to disable yolo mode for MCP'
 type: change

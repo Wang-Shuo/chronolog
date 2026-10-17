@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: e31181221765776222dfa9039d9d64937cddda854948a24ec25fc181a940c49d
+kind: launch
+machine_hash: 0569c0eeac11aafe15741969b2e1576f624ea7c30ce9dce57567e46a990ee1a6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -55,8 +56,9 @@ record:
       and doesn’t support Intelligent UI. The models powering Work and Codex aren’t
       changing with this release.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: launch
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-introducing-gpt-6-with-intelligent-ui-in-chatgpt-chatgpt-can-now-combine-t
@@ -77,26 +79,26 @@ record:
     score: 50
     theme: model-support
   theme_resolution: manual-backfill-review-v1
-  title: ChatGPT introduces GPT-6 with Intelligent UI
+  title: GPT-6 and Intelligent UI in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-gpt-6-1-sol-improves-on-gpt-6-sol-in-agentic-coding-computer-use-and-professiona|GPT-6.1
-  Sol improves on GPT-6 Sol in agentic coding, computer use, and professional work]]'
-- '[[Changes/ChatGPT/2026-09-29-eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp|Eligible
-  Plus and Pro users can authorize participating apps to use their ChatGPT…]]'
+- '[[Changes/Claude Code/2026-10-02-changed-the-client-side-auto-mode-classifier-to-ignore-an-anthropic-default-sonn|Changed
+  the client-side auto mode classifier to ignore…]]'
+- '[[Changes/Claude Code/2026-10-05-2-model-support-changes-in-v2-1-290|2 Model Support
+  changes in v2.1.290]]'
 - '[[Changes/Claude Code/2026-10-06-added-prompt-caching-to-model-complete-for-mods-prompt-and-system-take-blocks-of|Added
   prompt caching to $.model.complete for mods]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-07-gpt-6-and-intelligent-ui-in-chatgpt-43bd07f7|chatgpt-2026-10-07-gpt-6-and-intelligent-ui-in-chatgpt-43bd07f7]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: ChatGPT introduces GPT-6 with Intelligent UI
+title: GPT-6 and Intelligent UI in ChatGPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT introduces GPT-6 with Intelligent UI
+# GPT-6 and Intelligent UI in ChatGPT
 
-**ChatGPT** · 2026-10-07 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-10-07-gpt-6-and-intelligent-ui-in-chatgpt-43bd07f7|GPT-6 and Intelligent UI in ChatGPT]]
+**ChatGPT** · 2026-10-07 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-10-07-gpt-6-and-intelligent-ui-in-chatgpt-43bd07f7|GPT-6 and Intelligent UI in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->

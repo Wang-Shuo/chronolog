@@ -1,22 +1,24 @@
 ---
 card_id: chatgpt-2023-09-25-13666e
 date: '2023-09-25'
-description: 'ChatGPT · 2023-09-25 · Voice and Audio: You can now use voice to engage
-  in a back-and-forth conversation with your assistant. Speak with it on the go, request…'
+description: 'ChatGPT · 2023-09-25 · Mobile and Desktop: You can now use voice to
+  engage in a back-and-forth conversation with your assistant. Speak with it on the
+  go…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use
-    voice to engage in a back-and-forth conversation with your assistant]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support 🥳]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 195
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
-  theme: voice
+  theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 7fba0c73201222bb5884681f1f46e99a46719ac13fe5ed103ebb808279d7ad34
+kind: expansion
+machine_hash: a1f879b75cdaa51c60b8eec445ee1d0696a7038932392213bf1464f879bdbc8a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,36 +42,46 @@ record:
       located in the top-right corner of the home screen and choose your preferred
       voice out of five different voices.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: expansion
   product: chatgpt
   product_name: ChatGPT
-  slug: you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis
+  slug: voice-beta-is-now-rolling-out-to-plus-users-on-ios-and-android
   source_release: chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7
   source_type: chatgpt_changelog
-  theme: voice
+  theme: mobile-desktop
   theme_matches:
+  - matched_terms:
+    - android
+    - ios
+    - mobile
+    score: 150
+    theme: mobile-desktop
   - matched_terms:
     - voice
     score: 110
     theme: voice
-  - matched_terms:
-    - mobile
-    score: 50
-    theme: mobile-desktop
-  title: Use voice to engage in a back-and-forth conversation with your assistant
+  title: Voice (Beta) is now rolling out to Plus users on iOS and Android
   type: change
+related_changes:
+- '[[Changes/ChatGPT/2023-05-24-you-can-now-disable-your-chat-history-on-ios-conversations-started-on-your-devic|Disable
+  chat history on iOS]]'
+- '[[Changes/ChatGPT/2023-06-22-we-ve-made-two-updates-to-the-mobile-chatgpt-app|ChatGPT
+  makes two updates to the mobile ChatGPT app]]'
+- '[[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|Introducing
+  the ChatGPT app for Android]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7|chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7]]'
 source_type: chatgpt_changelog
-theme: voice
-title: Use voice to engage in a back-and-forth conversation with your assistant
+theme: mobile-desktop
+title: Voice (Beta) is now rolling out to Plus users on iOS and Android
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Use voice to engage in a back-and-forth conversation with your assistant
+# Voice (Beta) is now rolling out to Plus users on iOS and Android
 
-**ChatGPT** · 2023-09-25 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7|New voice and image capabilities in ChatGPT]]
+**ChatGPT** · 2023-09-25 · [[Themes/mobile-desktop|Mobile and Desktop]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7|New voice and image capabilities in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -82,19 +94,20 @@ type: change
 ## Also in this release
 
 - [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]] · Voice and Audio
-- [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Show ChatGPT one or more images]] · Mobile and Desktop
+- [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image input will be generally available to Plus users on all platforms]] · Multimodal Input
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Voice and Audio
+## Nearby in Mobile and Desktop
 
-- Later: 2023-11-21 · ChatGPT · [[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p|ChatGPT with voice is now available to all free users]]
+- Earlier: 2023-07-25 · ChatGPT · [[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|Introducing the ChatGPT app for Android]]
+- Later: 2023-12-30 · Cursor · [[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|VS Code 1.85.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 3 tracked products.
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

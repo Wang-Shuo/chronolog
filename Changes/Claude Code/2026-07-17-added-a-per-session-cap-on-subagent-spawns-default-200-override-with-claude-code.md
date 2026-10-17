@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: bbd37d2654f2215dabd50a26edf107eb936b5d6bd5811828cc55c71a78a8df3f
+machine_hash: 34c65f78a96ef1700ad2e8911e67377348db29af2b872ec0d86fdd82aee85153
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   --forward-subagent-text flag and CLAUDE_CODE_FORWARD_SUBAGENT_TEXT…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added a per-session cap on subagent spawns…
 type: change

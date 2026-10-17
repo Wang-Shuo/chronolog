@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c67df85d0d013ba34ec89b618556c8616671fd01f9e77d4976139a23b6febaec
+machine_hash: 9334cfe6cf390513a910bb4ee385cb302b8c3992ca218e4698973508c7142f0b
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   Ctrl+U on an empty bash prompt (!) to exit bash mode, matching escape…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-07-v2-1-71-github-294146317-ab5a32e0|claude-code-2026-03-07-v2-1-71-github-294146317-ab5a32e0]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added fmt, comm, cmp, numfmt, expr, test, printf, getconf, seq…
 type: change

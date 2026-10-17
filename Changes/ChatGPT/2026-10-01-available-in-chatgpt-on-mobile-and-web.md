@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 521d1539d4c10a882988bbdac7b98e3987fca1427bd5a140ebfc0c95e18e4084
+machine_hash: d1be8566e05f7c7ce20005c87eaf1ffd512da0ddf68a0dd45468e64e6c9ab8b0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,6 +47,7 @@ related_changes:
   claude --desktop to open the Claude desktop app on the current directory…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-01-new-ways-to-shop-in-chatgpt-e89d4d85|chatgpt-2026-10-01-new-ways-to-shop-in-chatgpt-e89d4d85]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: mobile-desktop
 title: Available in ChatGPT on mobile and web
 type: change

@@ -4,8 +4,8 @@ date: '2026-01-11'
 description: 'Claude Code · 2026-01-11 · Agent Mode: Added `CLAUDE_CODE_DISABLE_BACKGROUND_TASKS`
   environment variable to disable all background task functionality including…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 920
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: d8c7c34cbfb91bab1c4664cd81825fe6b8f4147cd25b318d3493dd85c5c1b8a6
+kind: change
+machine_hash: a8041158de316c2bff877e6c67f73bf39e1e5eecc3325676212e2a5485c79556
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
       all background task functionality including auto-backgrounding and the Ctrl+B
       shortcut
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.4
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-claude-code-disable-background-tasks-environment-variable-to-disable-all-b
@@ -45,12 +47,12 @@ record:
     all…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-10-move-elements-update-colors-test-layouts-and-experiment-with-css-in-real-time-th|Move
-  elements, update colors, test layouts, and experiment with CSS in real time…]]'
-- '[[Changes/Cursor/2025-12-10-plan-mode-now-supports-inline-mermaid-diagrams-allowing-the-agent-to-automatical|Plan
-  Mode now supports inline Mermaid diagrams, allowing the agent to automatically…]]'
 - '[[Changes/Cursor/2025-12-22-this-includes-the-core-agent-layout-controls-viewing-code-diffs-and-more-we-will|This
   includes the core agent, layout controls, viewing code diffs, and more]]'
+- '[[Changes/Cursor/2026-01-08-new-agent-command-is-now-the-primary-cli-entrypoint-cursor-agent-remains-as-a-ba|New
+  agent command is now the primary CLI entrypoint. cursor-agent remains…]]'
+- '[[Changes/Claude Code/2026-01-09-added-agent-type-to-sessionstart-hook-input-populated-if-agent-is-specified|Added
+  agent_type to SessionStart hook input, populated if --agent is specified]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-11-v2-1-4-github-275760368-28c923f9|claude-code-2026-01-11-v2-1-4-github-275760368-28c923f9]]'
 source_type: github_releases
 theme: agent-mode
@@ -78,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-this-includes-the-core-agent-layout-controls-viewing-code-diffs-and-more-we-will|This includes the core agent, layout controls, viewing code diffs, and more]]
+- Earlier: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-added-agent-type-to-sessionstart-hook-input-populated-if-agent-is-specified|Added agent_type to SessionStart hook input, populated if --agent is specified]]
 - Later: 2026-01-14 · Claude Code · [[Changes/Claude Code/2026-01-14-added-inline-display-of-agent-s-final-response-in-task-notifications-making-it-e|Added inline display of agent's final response in task notifications, making…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

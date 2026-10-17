@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-06-26'
 description: 'ChatGPT release Improved dictation in ChatGPT on 2026-06-26: 1 tracked
   change across Voice and Audio'
-machine_hash: 209f1844e770c1536227c97d6b6aab53af55a5e24426dea017c005508fc0eda2
+machine_hash: cbaf20b5198f0d98d8b996c48361e2a354f4f8002649ccee4c68bfd751115947
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Improved dictation in ChatGPT
 <!-- chronolog:begin region="summary" -->
 We’re rolling out a new speech-to-text model for dictation in ChatGPT across all plans. This is a behind-the-scenes update, so there are no changes to how you use dictation.The update improves transcription accuracy across languages and accents, including when multilingual speakers mix or switch between languages…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-06-26-we-re-rolling-out-a-new-speech-to-text-model-for-dictation-in-chatgpt-across-all|ChatGPT rolls out a new speech-to-text model for dictation across all plans]] · Voice and Audio
+- [[Changes/ChatGPT/2026-06-26-we-re-rolling-out-a-new-speech-to-text-model-for-dictation-in-chatgpt-across-all|Improved dictation in ChatGPT]] · Voice and Audio
 <!-- chronolog:end -->

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 2e0815f4840890ba1eefb802fc19cb47c359a13ed3c8a11894b5c25574276110
+machine_hash: 9964a44121d8142308011384ef37b6ed92e9ab233523c7d93848369e539273cf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,6 +48,7 @@ related_changes:
   generating: Based on your feedback, we''ve added the ability to stop generating…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524|chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: interface-experience
 title: Version selection is made easy with a dedicated dropdown menu at the top of
   the page

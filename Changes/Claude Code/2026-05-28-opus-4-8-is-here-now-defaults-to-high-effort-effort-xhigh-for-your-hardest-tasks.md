@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: be33469760bbe1d6126a4397aa58eec39e8fa061c888686b0bb284a79c9f8b32
+machine_hash: 63f916d8220beaa6c21e37bf0eab47b5847c1e7acb35373834c2b09d332fdefd
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   lean system prompt is now the default for all models except Haiku, Sonnet…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9|claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Opus 4.8 is here!
 type: change

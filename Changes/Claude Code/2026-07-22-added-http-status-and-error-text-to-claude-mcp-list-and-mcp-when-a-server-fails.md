@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9411735a356fb125bea3356d1bc6159f60292dbf3b689758ca9430731dd06ef1
+machine_hash: dde7d827167a16a96e4bbda06133b58e74f68ef727a1d31eccd68bf3a0a5dbe9
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   also refined how Cursor''s responses look in Slack]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4|claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added HTTP status and error text to claude mcp list and /mcp when a server
   fails…

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-09-04'
 description: 'ChatGPT release Branch conversations on web on 2025-09-04: 1 tracked
   change across Projects and Workspaces'
-machine_hash: 327e9c4dfeac66587ca182f3e837384240ad22fe2a2ffabf0edf6199c1941d63
+machine_hash: 0d42e906503e07b60b39285fd884c9d9e42980afafce3167c3004e713fb56bf7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: Branch conversations on web
 <!-- chronolog:begin region="summary" -->
 You can now branch conversations in ChatGPT, making it easier to explore different directions without losing your original thread. Hover over a message, click More actions (⋯), and select Branch in new chat to start a separate conversation from that point.This feature is available today for all logged-in users on web.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21|Branch conversations in ChatGPT, making it easier to explore different directions…]] · Projects and Workspaces
+- [[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21|Branch conversations on web]] · Projects and Workspaces
 <!-- chronolog:end -->

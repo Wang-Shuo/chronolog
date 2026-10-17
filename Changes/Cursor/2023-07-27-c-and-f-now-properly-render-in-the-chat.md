@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 0e90ab443ba3ea0f8e6a49ea832d532a915843f28974657e93d9218a2e04a9dc
+kind: change
+machine_hash: 7bab08c2ef95fba30cbfa4156a35c5c647c9d0a5a42ad7d6bfa0aa7da61cf1ab
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: C# and F# now properly render in the chat
     source_release: https://cursor.com/changelog/0-5-0
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: c-and-f-now-properly-render-in-the-chat
@@ -43,10 +45,10 @@ record:
 related_changes:
 - '[[Changes/Cursor/2023-07-03-also-you-can-now-use-up-down-arrows-for-history-in-chat|(Also,
   you can now use up/down arrows for history in chat.)]]'
-- '[[Changes/Cursor/2023-07-07-chat-edit-tooltip-blocks-less-code|Chat/Edit tooltip
-  blocks less code]]'
 - '[[Changes/Cursor/2023-07-07-better-symbol-keyboard-ergonomics|Better @ symbol keyboard
   ergonomics]]'
+- '[[Changes/Cursor/2023-07-07-chat-edit-tooltip-blocks-less-code-3a1e6b|Chat/Edit
+  tooltip blocks less code]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-27-0-5-0-https-cursor-com-changelog-0-5-0-55901f62|cursor-2023-07-27-0-5-0-https-cursor-com-changelog-0-5-0-55901f62]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -76,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-07-07 · Cursor · [[Changes/Cursor/2023-07-07-better-symbol-keyboard-ergonomics|Better @ symbol keyboard ergonomics]]
+- Earlier: 2023-07-07 · Cursor · [[Changes/Cursor/2023-07-07-chat-edit-tooltip-blocks-less-code-3a1e6b|Chat/Edit tooltip blocks less code]]
 - Later: 2023-08-17 · Cursor · [[Changes/Cursor/2023-08-17-keychords-now-use-cmd-r-ctrl-r|Keychords now use Cmd+R/Ctrl+R]]
 <!-- chronolog:end -->
 

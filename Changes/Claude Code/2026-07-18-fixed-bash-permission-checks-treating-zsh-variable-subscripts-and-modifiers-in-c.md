@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 82b55f9386a30269055fe4353f30672a78f49c0d31befa6c1dbb45d263205bff
+machine_hash: 2747e4cb1f6a290c34b01bcccc086f3a1d96ebb7eed0d6777aee6262f26611a2
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   a permission-check bypass affecting commands run in Windows PowerShell 5.1 sessions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-18-v2-1-214-github-355973317-478680c5|claude-code-2026-07-18-v2-1-214-github-355973317-478680c5]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed Bash permission checks treating zsh variable subscripts and modifiers…
 type: change

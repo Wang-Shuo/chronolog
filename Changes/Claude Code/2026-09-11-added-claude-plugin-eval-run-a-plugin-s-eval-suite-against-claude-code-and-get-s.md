@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 94eef3880bdbd9552e4b54f4564328d9f8eba868a7d9edd932fadc10c3b91f81
+machine_hash: 70849731e84d244b15a98de430bbd7e2f0605d1c2547d76a946a4b4e9ab73dec
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   /output-style name to list and switch output styles, including over Remote…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-11-v2-1-269-github-387243742-288e9189|claude-code-2026-09-11-v2-1-269-github-387243742-288e9189]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added claude plugin eval
 type: change

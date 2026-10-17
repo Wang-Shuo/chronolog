@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 01926a79d08ef904a26ec625048c099065a5fef2e78006203d04bccbd18e90f0
+machine_hash: 013911f4b68ad454da3d566653cf39d180311c38a8a6b517856882e549030d3e
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   can now support 40 uploaded files, up from 20, for Pro users]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889|cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889]]'
 source_type: cursor_changelog
+superseded: true
 theme: file-data
 title: 'Read file: Now reads full files when appropriate and the 2MB cap is removed'
 type: change

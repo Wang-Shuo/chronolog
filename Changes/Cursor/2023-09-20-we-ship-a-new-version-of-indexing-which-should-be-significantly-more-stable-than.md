@@ -14,9 +14,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 4183166ec0b222f60aa2639e1b2cb4810c99feff2a429359c383c9c4f36e3b7f
+kind: change
+machine_hash: fffc029de9cd5fd4ea7a71b4ba88feabd4dff6f0421715bc0170f67a47ceee63
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +32,9 @@ record:
   - quote: We ship a new version of indexing which should be significantly more stable
       than previous versions
     source_release: https://cursor.com/changelog/0-11-2-nightly
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: we-ship-a-new-version-of-indexing-which-should-be-significantly-more-stable-than
@@ -41,26 +43,24 @@ record:
   theme: reliability-performance
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: We ship a new version of indexing which should be significantly more stable
-    than…
+  title: More Stable Codebase Indexing
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-05-updates-to-docs-try-pasting-a-link-in-chat-you-can-delete-edit-docs-you-can-see|Updates
-  to docs…]]'
+- '[[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg|We
+  no longer store any full files in memory and prevent users from @''ing very large…]]'
 - '[[Changes/Cursor/2023-09-07-we-release-an-improved-new-ai-project-feature-to-nightly-users-this-is-a-more-ro|We
   release an improved New AI Project feature to nightly users]]'
-- '[[Changes/Cursor/2023-09-08-following-this-update-future-updates-should-come-as-staged-rollouts-this-will-me|Following
-  this update, future updates should come as staged rollouts]]'
+- '[[Changes/Cursor/2023-09-08-following-this-update-future-updates-should-come-as-staged-rollouts-this-will-me|Staged
+  Rollouts]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-20-0-11-2-nightly-https-cursor-com-changelog-0-11-2-nightly-cc7b11c4|cursor-2023-09-20-0-11-2-nightly-https-cursor-com-changelog-0-11-2-nightly-cc7b11c4]]'
 source_type: cursor_changelog
 theme: reliability-performance
-title: We ship a new version of indexing which should be significantly more stable
-  than…
+title: More Stable Codebase Indexing
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We ship a new version of indexing which should be significantly more stable than…
+# More Stable Codebase Indexing
 
 **Cursor** · 2023-09-20 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://cursor.com/changelog/0-11-2-nightly) · from [[Releases/Cursor/cursor-2023-09-20-0-11-2-nightly-https-cursor-com-changelog-0-11-2-nightly-cc7b11c4|More Stable Codebase Indexing]]
 <!-- chronolog:end -->
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-following-this-update-future-updates-should-come-as-staged-rollouts-this-will-me|Following this update, future updates should come as staged rollouts]]
-- Later: 2023-09-22 · Cursor · [[Changes/Cursor/2023-09-22-stable-version-of-indexing-this-should-be-much-more-stable-than-previous-version|Stable version of indexing. this should be much more stable than previous versions]]
+- Earlier: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-following-this-update-future-updates-should-come-as-staged-rollouts-this-will-me|Staged Rollouts]]
+- Later: 2023-09-22 · Cursor · [[Changes/Cursor/2023-09-22-stable-version-of-indexing-this-should-be-much-more-stable-than-previous-version|Stable Indexing v0.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

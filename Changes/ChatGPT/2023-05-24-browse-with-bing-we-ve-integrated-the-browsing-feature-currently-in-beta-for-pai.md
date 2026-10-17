@@ -1,23 +1,24 @@
 ---
 card_id: chatgpt-2023-05-24-d5e485
 date: '2023-05-24'
-description: 'ChatGPT · 2023-05-24 · Search and Browsing: Browse with Bing. We’ve
+description: 'ChatGPT · 2023-05-24 · Apps and Integrations: Browse with Bing. We’ve
   integrated the browsing feature - currently in beta for paid users - more deeply
-  with Bing…'
+  with…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 62
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: search-browsing
+  theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 0860ae8f06194bbd09d50de39921a12b48bba3b2ddf4226a5fca1407af6a24b4
+kind: launch
+machine_hash: 3371cc6097cad6903a5cdc639d42c62c8e668137d4db299e66e1835f88245370
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,46 +37,35 @@ record:
       beta for paid users - more deeply with Bing. You can now click into queries
       that the model is performing. We look forward to expanding the integration soon.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: launch
   product: chatgpt
   product_name: ChatGPT
-  slug: browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai
+  slug: bing-plugin
   source_release: chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96
   source_type: chatgpt_changelog
-  theme: search-browsing
-  theme_matches:
-  - matched_terms:
-    - browse
-    - browsing
-    score: 100
-    theme: search-browsing
-  - matched_terms:
-    - integration
-    score: 50
-    theme: apps-integrations
-  - matched_terms:
-    - model
-    score: 50
-    theme: model-support
-  title: Browse with Bing
+  theme: apps-integrations
+  title: Bing Plugin
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-  An experimental model that knows when and how to browse the internet]]'
-- '[[Changes/ChatGPT/2023-05-12-web-browsing-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-browse-the|Web
-  browsing: Try a new version of ChatGPT that knows when and how to browse…]]'
+- '[[Changes/ChatGPT/2023-05-12-plugins-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-use-third-party|Plugins:
+  Try a new version of ChatGPT that knows when and how to use third-party…]]'
+- '[[Changes/ChatGPT/2023-05-12-in-the-plugins-dropdown-click-plugin-store-to-install-and-enable-new-plugins|In
+  the “Plugins” dropdown, click “Plugin Store” to install and enable new plugins]]'
+- '[[Changes/Cursor/2023-05-17-you-can-pin-custom-extensions-to-your-activity-bar-in-the-top-left|Activity
+  Bar pinning]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96|chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96]]'
 source_type: chatgpt_changelog
-theme: search-browsing
-title: Browse with Bing
+theme: apps-integrations
+title: Bing Plugin
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Browse with Bing
+# Bing Plugin
 
-**ChatGPT** · 2023-05-24 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96|iOS app available in more countries, shared links in alpha, Bing Plugin, disable history on iOS]]
+**ChatGPT** · 2023-05-24 · [[Themes/apps-integrations|Apps and Integrations]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96|iOS app available in more countries, shared links in alpha, Bing Plugin, disable history on iOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -87,21 +77,22 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f|ChatGPT expands availability of the ChatGPT app for iOS to more countries and regions]] · Mobile and Desktop
-- [[Changes/ChatGPT/2023-05-24-you-can-now-disable-your-chat-history-on-ios-conversations-started-on-your-devic|Disable your chat history on iOS]] · Mobile and Desktop
+- [[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f|ChatGPT app for iOS in more countries]] · Mobile and Desktop
+- [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]] · Collaboration
+- [[Changes/ChatGPT/2023-05-24-you-can-now-disable-your-chat-history-on-ios-conversations-started-on-your-devic|Disable chat history on iOS]] · Mobile and Desktop
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Search and Browsing
+## Nearby in Apps and Integrations
 
-- Earlier: 2023-05-12 · ChatGPT · [[Changes/ChatGPT/2023-05-12-web-browsing-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-browse-the|Web browsing: Try a new version of ChatGPT that knows when and how to browse…]]
-- Later: 2023-06-22 · ChatGPT · [[Changes/ChatGPT/2023-06-22-search-history-improvements-tapping-on-a-search-result-takes-you-directly-to-the|Search History Improvements]]
+- Earlier: 2023-05-17 · Cursor · [[Changes/Cursor/2023-05-17-you-can-pin-custom-extensions-to-your-activity-bar-in-the-top-left|Activity Bar pinning]]
+- Later: 2023-06-09 · Cursor · [[Changes/Cursor/2023-06-09-you-can-now-have-the-ai-read-documentation-on-your-behalf-this-will-improve-it-s|Show the AI documentation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

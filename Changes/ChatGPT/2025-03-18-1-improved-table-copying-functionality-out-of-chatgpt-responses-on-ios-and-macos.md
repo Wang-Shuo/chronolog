@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a647e84bf79129010036c012e13c32cadaf80941c63404aa1d38e6f753601095
+machine_hash: 6d5258a43132037ce89495263368ca51c302011b08bdc30e5d87942e0d56eab1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,6 +48,7 @@ related_changes:
   press to select text on iOS and moved the message quick actions to always…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-ios-app-6a42bb0f|chatgpt-2025-03-18-ios-app-6a42bb0f]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: mobile-desktop
 title: Improved table-copying functionality out of ChatGPT responses on iOS and macOS
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8e8edb68cb0c3fa7f7d39c683320d7c242aa2c7c1874d24f94eeae38b667bc10
+machine_hash: be120b34d9f2087c57c4c2cf76c94bd6ebab95c25a8af332036337e567bc324b
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   Background Agents directly from Slack by mentioning @Cursor]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc|cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Agents run remotely in a secure environment and you'll get updates directly…
 type: change

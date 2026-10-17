@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7d211832fdd3c1fa45c669134cb1f1d3903e5a3910ef444e9f52bdbc859b45e2
+machine_hash: 683654c1012c974016fc3a24dc94e7166eeb6e18f8465b9cfbb6c8204367a875
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   desktop, Work can use local files and desktop apps with your permission]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91|claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed compound commands with cd prompting for permission when the only output…
 type: change

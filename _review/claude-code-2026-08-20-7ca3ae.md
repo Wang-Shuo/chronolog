@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: 1f4e2f5cf4af73b76f67f530b8985ea9a2c80646c57dd0cfc874704cd445ebad
+machine_hash: f4784a54c24493e8959326ad4764efcd9da6028831e39c37e59a3158a3fd736d
 product: claude-code
 record:
   card_id: claude-code-2026-08-20-7ca3ae
@@ -14,8 +14,9 @@ record:
       skips preamble and narration, while doing the work just as thoroughly. Select
       it under Output style in /config.'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.237
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-a-built-in-concise-output-style-claude-leads-with-results-and-skips-preamb

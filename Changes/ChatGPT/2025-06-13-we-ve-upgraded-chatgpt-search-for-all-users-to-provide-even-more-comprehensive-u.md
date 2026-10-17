@@ -14,9 +14,10 @@ diffusion:
   theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 40431a8a02a311e64ea036383cfe0d4b68766c9a5883ba0211e90c95fbab0b16
+kind: change
+machine_hash: 36fe760678b18765f52c460f5ee86f43594de5e6401c85af1165c11130037422
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,8 +33,9 @@ record:
       up-to-date responses. In testing, we found users preferred these search improvements
       over our previous search experience.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-ve-upgraded-chatgpt-search-for-all-users-to-provide-even-more-comprehensive-u
@@ -45,12 +47,12 @@ record:
   title: We’ve upgraded ChatGPT search for all users to provide even more comprehensive…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-05-15-chatgpt-deep-research-with-dropbox-is-available-globally-to-team-users-it-is-als-eaf8af|ChatGPT
-  deep research with Dropbox is available globally to Team users]]'
 - '[[Changes/ChatGPT/2025-06-04-combines-internal-web-sources-for-synthesis|Combines
   internal + web sources for synthesis]]'
 - '[[Changes/ChatGPT/2025-06-04-chatgpt-team-enterprise-and-edu-customers-globally-can-use-connectors-in-deep-re|ChatGPT
   Team, Enterprise, and Edu customers globally can use connectors in deep…]]'
+- '[[Changes/Cursor/2025-06-04-link-and-web-search-can-now-parse-pdfs-and-include-in-context|@Link
+  and web search can now parse PDFs and include in context]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464|chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -73,16 +75,15 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2025-06-13-more-robust-ability-to-follow-instructions-especially-in-longer-conversations-si|More robust ability to follow instructions, especially in longer conversations…]] · Reliability and Performance
-- [[Changes/ChatGPT/2025-06-13-smarter-responses-that-are-more-intelligent-are-better-at-understanding-what-you|Smarter responses that are more intelligent, are better at understanding what you’re…]] · Model Support
-- [[Changes/ChatGPT/2025-06-13-handles-longer-conversational-contexts-allowing-better-intelligence-in-longer-co|Handles longer conversational contexts, allowing better intelligence in longer…]] · Model Support
+- [[Changes/ChatGPT/2025-06-13-in-some-cases-a-chain-of-thought-reasoning-will-show-up-unexpectedly-for-simple|In some cases, a “chain of thought” reasoning will show up unexpectedly for simple queries]] · Model Support
+- [[Changes/ChatGPT/2025-06-13-improved-search-capability-and-instruction-following-594de0|Improved search capability and instruction following]] · Reliability and Performance
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-06-04 · ChatGPT · [[Changes/ChatGPT/2025-06-04-chatgpt-team-enterprise-and-edu-customers-globally-can-use-connectors-in-deep-re|ChatGPT Team, Enterprise, and Edu customers globally can use connectors in deep…]]
-- Later: 2025-07-24 · ChatGPT · [[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2|Pro users can now connect to Canva and Notion for both chat search and deep research]]
+- Earlier: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-link-and-web-search-can-now-parse-pdfs-and-include-in-context|@Link and web search can now parse PDFs and include in context]]
+- Later: 2025-07-24 · ChatGPT · [[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2|Canva and Notion connectors (Pro)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

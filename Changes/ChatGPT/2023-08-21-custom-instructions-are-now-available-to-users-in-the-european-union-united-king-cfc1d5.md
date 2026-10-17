@@ -4,8 +4,8 @@ date: '2023-08-21'
 description: 'ChatGPT · 2023-08-21 · Memory and Personalization: Custom instructions
   are now available to users in the European Union United Kingdom.To add your instructions:'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 32
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f8b550a3f12a91ab2864c8350eed2b0e70e524610dd7d2c630314ef348b707e4
+kind: expansion
+machine_hash: c41bccea6176c3b62a6ae8d11dd99bceaa58768651df24d6ab609e8fd301e90a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,34 +31,33 @@ record:
   - quote: 'Custom instructions are now available to users in the European Union United
       Kingdom.To add your instructions:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: expansion
   product: chatgpt
   product_name: ChatGPT
   slug: custom-instructions-are-now-available-to-users-in-the-european-union-united-king
   source_release: chatgpt-2023-08-21-custom-instructions-are-now-available-to-users-in-the-eu-uk-c7c52345
   source_type: chatgpt_changelog
   theme: memory
-  title: Custom instructions are now available to users in the European Union United
-    Kingdom
+  title: Custom instructions are now available to users in the EU & UK
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-  starting to roll out custom instructions, giving you more control over…]]'
+- '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+  instructions are rolling out in beta]]'
 - '[[Changes/ChatGPT/2023-08-09-custom-instructions-are-now-available-to-chatgpt-users-on-the-free-plan-except-f-963d1e|Custom
-  instructions are now available to ChatGPT users on the free plan, except…]]'
+  instructions are now available to free users]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-08-21-custom-instructions-are-now-available-to-users-in-the-eu-uk-c7c52345|chatgpt-2023-08-21-custom-instructions-are-now-available-to-users-in-the-eu-uk-c7c52345]]'
 source_type: chatgpt_changelog
 theme: memory
-title: Custom instructions are now available to users in the European Union United
-  Kingdom
+title: Custom instructions are now available to users in the EU & UK
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Custom instructions are now available to users in the European Union United Kingdom
+# Custom instructions are now available to users in the EU & UK
 
-**ChatGPT** · 2023-08-21 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-08-21-custom-instructions-are-now-available-to-users-in-the-eu-uk-c7c52345|Custom instructions are now available to users in the EU & UK]]
+**ChatGPT** · 2023-08-21 · [[Themes/memory|Memory and Personalization]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-08-21-custom-instructions-are-now-available-to-users-in-the-eu-uk-c7c52345|Custom instructions are now available to users in the EU & UK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -73,14 +73,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2023-08-09 · ChatGPT · [[Changes/ChatGPT/2023-08-09-custom-instructions-are-now-available-to-chatgpt-users-on-the-free-plan-except-f-963d1e|Custom instructions are now available to ChatGPT users on the free plan, except…]]
-- Later: 2023-09-07 · Cursor · [[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg|We no longer store any full files in memory and prevent users from @'ing very large…]]
+- Earlier: 2023-08-09 · ChatGPT · [[Changes/ChatGPT/2023-08-09-custom-instructions-are-now-available-to-chatgpt-users-on-the-free-plan-except-f-963d1e|Custom instructions are now available to free users]]
+- Later: 2023-09-07 · Cursor · [[Changes/Cursor/2023-09-07-this-should-reduce-any-significant-memory-issues-that-users-have-been-experienci|This should reduce any significant memory issues that users have been experiencing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ad57ab94d285f855311fd0b6e0246640b53d2d56aa5473b19c94979b85960c99
+machine_hash: 8b19017baf26d764d95894833d92ff13945971992099d7553f71a3b8f07d476c
 product: cursor
 product_name: Cursor
 record:
@@ -64,6 +64,7 @@ related_changes:
   History is an optional feature in the ChatGPT macOS app that lets ChatGPT…]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-02-self-hosted-machines-https-cursor-com-changelog-self-hosted-mach-28f9f33e|cursor-2026-09-02-self-hosted-machines-https-cursor-com-changelog-self-hosted-mach-28f9f33e]]'
 source_type: cursor_changelog
+superseded: true
 theme: enterprise-admin
 title: Team pools are named queues of workers for a team or enterprise
 type: change

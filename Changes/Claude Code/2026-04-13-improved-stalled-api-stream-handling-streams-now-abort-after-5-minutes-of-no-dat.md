@@ -14,9 +14,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: b91711e7053473f612314bb6d29131833c2bc81b208069c2b56e517b56d474ad
+kind: change
+machine_hash: f57bf931d3ee64516fe91beccde80dc862fe06469e090aea8b1173bffdbd845f
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   - quote: 'Improved stalled API stream handling: streams now abort after 5 minutes
       of no data and retry non-streaming instead of hanging indefinitely'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.105
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-stalled-api-stream-handling-streams-now-abort-after-5-minutes-of-no-dat
@@ -43,10 +45,10 @@ record:
   title: Improved stalled API stream handling
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-19-composer-2-is-now-available-in-cursor-frontier-level-coding-performance-with-str|Composer
-  2 is now available in Cursor]]'
-- '[[Changes/Claude Code/2026-03-26-added-claude-stream-idle-timeout-ms-env-var-to-configure-the-streaming-idle-watc|Added
-  CLAUDE_STREAM_IDLE_TIMEOUT_MS env var to configure the streaming idle…]]'
+- '[[Changes/Claude Code/2026-04-04-improved-write-tool-diff-computation-speed-for-large-files-60-faster-on-files-wi|Improved
+  Write tool diff computation speed for large files…]]'
+- '[[Changes/Claude Code/2026-04-09-fixed-a-memory-leak-where-remote-control-permission-handler-entries-were-retaine|Fixed
+  a memory leak where Remote Control permission handler entries were retained…]]'
 - '[[Changes/Claude Code/2026-04-10-improved-brief-mode-to-retry-once-when-claude-responds-with-plain-text-instead-o|Improved
   brief mode to retry once when Claude responds with plain text instead…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3|claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3]]'
@@ -71,9 +73,10 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-04-13-added-path-parameter-to-the-enterworktree-tool-to-switch-into-an-existing-worktr|Added path parameter to the EnterWorktree tool to switch into an existing…]] · Developer Workflow
-- [[Changes/Claude Code/2026-04-13-added-background-monitor-support-for-plugins-via-a-top-level-monitors-manifest-k|Added background monitor support for plugins via a top-level monitors manifest key…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-04-13-added-precompact-hook-support-hooks-can-now-block-compaction-by-exiting-with-cod|Added PreCompact hook support]] · Apps and Integrations
+- [[Changes/Claude Code/2026-04-13-fixed-bash-tool-suggesting-acceptedits-permission-mode-when-exiting-plan-mode-wo|Fixed Bash tool suggesting acceptEdits permission mode when exiting plan mode…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-04-13-3-apps-and-integrations-changes-in-v2-1-105|3 Apps and Integrations changes in v2.1.105]] · Apps and Integrations
+- [[Changes/Claude Code/2026-04-13-improved-network-error-messages-connection-errors-now-show-a-retry-message-immed|Improved network error messages]] · Interface Experience
+- [[Changes/Claude Code/2026-04-13-2-developer-workflow-changes-in-v2-1-105|2 Developer Workflow changes in v2.1.105]] · Developer Workflow
 - [[Changes/Claude Code/2026-04-13-proactive-is-now-an-alias-for-loop|/proactive is now an alias for /loop]] · Automation and Scheduling
 <!-- chronolog:end -->
 
@@ -81,7 +84,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-04-10 · Claude Code · [[Changes/Claude Code/2026-04-10-improved-brief-mode-to-retry-once-when-claude-responds-with-plain-text-instead-o|Improved brief mode to retry once when Claude responds with plain text instead…]]
-- Later: 2026-04-20 · Claude Code · [[Changes/Claude Code/2026-04-20-resume-on-large-sessions-is-significantly-faster-up-to-67-on-40mb-sessions-and-h|/resume on large sessions is significantly faster (up to 67% on 40MB+ sessions)…]]
+- Later: 2026-04-13 · Cursor · [[Changes/Cursor/2026-04-13-closing-tabs-is-now-less-likely-to-glitch-the-file-tree-and-recovery-is-faster|Closing tabs is now less likely to glitch the file tree, and recovery is faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

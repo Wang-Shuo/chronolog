@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a03b98490a89ba2f989c0cf7ae94d0db9d4342711f68091d9e23a493c69e250d
+machine_hash: dd0f69fc3209a3983295aa68dd87db93c6b0a767704aff5d5b997e485307b09f
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,6 +61,7 @@ related_changes:
   Remote Control auto-start so repo-local settings…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce|claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added warnings to claude plugin validate when a marketplace or plugin name
   would…

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a1a20d6198576766417c60e95128ad35270e7ad75a24fb9e51db22bc862bab69
+machine_hash: 9b2d7e21a423f7ac2ddcf42d1edaf51511bd7ca0e30c1aa7f182b94999c5ca5e
 product: cursor
 product_name: Cursor
 record:
@@ -48,6 +48,7 @@ related_changes:
   see recent folders on the new window screen]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-07-0-9-8-nightly-https-cursor-com-changelog-0-9-8-nightly-bc635135|cursor-2023-09-07-0-9-8-nightly-https-cursor-com-changelog-0-9-8-nightly-bc635135]]'
 source_type: cursor_changelog
+superseded: true
 theme: projects-workspaces
 title: UX for producing a project end-to-end
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d1026f66b4a141bb634295348ccdd4c82ba10ca20bb4ccb4adbf812d9a9a14b6
+machine_hash: c76c5e4e419fea10cf41f543b445af220405cb8862f9eeb70ce8012fb20dce1f
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   model can now discover and invoke built-in slash commands like /init…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba|claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Added sandbox.network.deniedDomains setting to block specific domains even…
 type: change

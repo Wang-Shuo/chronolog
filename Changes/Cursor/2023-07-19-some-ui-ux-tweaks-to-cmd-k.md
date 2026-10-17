@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d722b8f80844ddc9f36e43b6aa7bbfea4df3356e8a5c4199fceb8f60a4b169af
+machine_hash: 643c0fcec714b61468be07b0c5d93b41cabe42527ee842efd6abd5f2addd019d
 product: cursor
 product_name: Cursor
 record:
@@ -45,6 +45,7 @@ related_changes:
   better flow for getting CMD-k to produce code with no linter errors…]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-19-0-2-49-https-cursor-com-changelog-0-2-49-69872598|cursor-2023-07-19-0-2-49-https-cursor-com-changelog-0-2-49-69872598]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: Some UI/UX tweaks to CMD-K
 type: change

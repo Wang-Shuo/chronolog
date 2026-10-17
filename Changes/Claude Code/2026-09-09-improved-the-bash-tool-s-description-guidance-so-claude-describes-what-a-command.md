@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9fc90d8952729c118bc3abaa43e4c9f1ce8e0b82e07c50e010e628b21e337b6e
+machine_hash: 118f681bb9c8ec85732e55b1af00b55f3b8fbed27775b37e35e61bc697f21a9a
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   bashOutputMaxChars and taskOutputMaxChars settings to raise how much…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-09-v2-1-267-github-385748811-6409148e|claude-code-2026-09-09-v2-1-267-github-385748811-6409148e]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Improved the Bash tool's description guidance so Claude describes what a command…
 type: change

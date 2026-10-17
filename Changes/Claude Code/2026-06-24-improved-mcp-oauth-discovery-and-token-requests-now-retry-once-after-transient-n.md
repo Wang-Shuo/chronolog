@@ -14,9 +14,10 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 8ac08992fccf6d918ab61896c4176c179624137dc5816e632667daff0d513804
+kind: change
+machine_hash: f6e6440b6d19e4724f34d15fd34946b3f51de426715a4ccdbf96729efb16e53c
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
       transient network errors, and headless environments skip the browser popup and
       go straight to the paste-the-URL prompt'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.191
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-mcp-oauth-discovery-and-token-requests-now-retry-once-after-transient-n
@@ -52,12 +54,12 @@ record:
   title: Improved MCP OAuth
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-added-a-prompt-before-writing-to-shell-startup-files-zshenv-zlogin-bash-login-an|Added
-  a prompt before writing to shell startup files…]]'
-- '[[Changes/Claude Code/2026-06-22-added-claude-mcp-login-name-and-claude-mcp-logout-name-to-authenticate-mcp-serve|Added
-  claude mcp login name and claude mcp logout name to authenticate MCP…]]'
-- '[[Changes/Claude Code/2026-06-22-added-claude-platform-on-aws-refresh-credentials-option-to-login-when-awsauthref|Added
-  "Claude Platform on AWS - refresh credentials" option to /login…]]'
+- '[[Changes/Claude Code/2026-06-08-improved-the-error-message-shown-when-your-organization-has-disabled-api-key-aut|Improved
+  the error message shown when your organization has disabled API key…]]'
+- '[[Changes/Claude Code/2026-06-17-improved-the-mcp-oauth-browser-page-to-match-claude-code-s-visual-style-and-auto|Improved
+  the MCP OAuth browser page to match Claude Code''s visual style…]]'
+- '[[Changes/Claude Code/2026-06-22-2-account-and-access-changes-in-v2-1-186|2 Account
+  and Access changes in v2.1.186]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27|claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27]]'
 source_type: github_releases
 theme: account-access
@@ -80,16 +82,16 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-06-24-improved-mcp-error-messages-http-404-errors-now-show-the-url-and-point-to-your-m|Improved MCP error messages: HTTP 404 errors now show the URL and point to your MCP config]] · Apps and Integrations
-- [[Changes/Claude Code/2026-06-24-improved-mcp-server-reliability-capability-discovery-tools-list-prompts-list-res|Improved MCP server reliability]] · Apps and Integrations
 - [[Changes/Claude Code/2026-06-24-added-rewind-support-for-resuming-a-conversation-from-before-clear-was-run|Added /rewind support for resuming a conversation from before /clear was run]] · Projects and Workspaces
+- [[Changes/Claude Code/2026-06-24-2-apps-and-integrations-changes-in-v2-1-191|2 Apps and Integrations changes in v2.1.191]] · Apps and Integrations
 - [[Changes/Claude Code/2026-06-24-improved-sandbox-network-permission-dialog-hosts-you-allow-with-yes-are-now-reme|Improved sandbox network permission dialog]] · Safety and Privacy
+- [[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced long-session memory growth from terminal output cache]] · Memory and Personalization
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-added-claude-platform-on-aws-refresh-credentials-option-to-login-when-awsauthref|Added "Claude Platform on AWS - refresh credentials" option to /login…]]
+- Earlier: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-2-account-and-access-changes-in-v2-1-186|2 Account and Access changes in v2.1.186]]
 - Later: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-added-a-startup-notice-when-mcp-servers-need-authentication-pointing-at-mcp|Added a startup notice when MCP servers need authentication, pointing at /mcp]]
 <!-- chronolog:end -->
 

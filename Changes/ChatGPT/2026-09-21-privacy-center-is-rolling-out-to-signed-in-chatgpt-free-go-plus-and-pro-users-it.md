@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d1fb28cceafbd619ef16a4fe28f2ee5a283ca61f49680ee3ae3454f717fb0ed4
+machine_hash: 7fd66d2e257884331f04d734ed139fb2d982a121ced457fe6db980e0e31ded48
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -74,6 +74,7 @@ related_changes:
   the web, open your account menu, select Help, then select Privacy Center]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-21-privacy-center-in-chatgpt-ecef9fba|chatgpt-2026-09-21-privacy-center-in-chatgpt-ecef9fba]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: safety-privacy
 title: Privacy Center is rolling out to signed-in ChatGPT Free, Go, Plus, and Pro
   users

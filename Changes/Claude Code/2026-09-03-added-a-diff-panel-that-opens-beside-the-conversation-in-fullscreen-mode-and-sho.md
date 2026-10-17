@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 856e4cd373e19219df9c7f868ab3781708103b206f3ea560c68b8e1107cece93
+machine_hash: 5e6ea59b42ad12bf9e5ec3d8afa3e34e21778745530ca95784c70b862c293804
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   a likely cause for prompt-cache misses…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added a diff panel that opens beside the conversation in fullscreen mode and
   shows…

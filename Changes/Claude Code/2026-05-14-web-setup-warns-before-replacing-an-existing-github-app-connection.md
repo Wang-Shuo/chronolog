@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 79a8917bcb1ac0616d2065bda230e60926fe0259ae3462e3b43d6f712a4abd5a
+machine_hash: 8685c9206842c8b50ab12931b1c489ad05ed488423c28c3bee72cc416e4dccb2
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   /plugin details pane and claude plugin details now show LSP servers a plugin…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f|claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: /web-setup warns before replacing an existing GitHub App connection
 type: change

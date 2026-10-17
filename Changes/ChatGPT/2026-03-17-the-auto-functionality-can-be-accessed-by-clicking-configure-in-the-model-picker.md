@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: f7642889548f5217bbb8a3968e1c1e84ea8fa0be3ec104d2dc12a359c49a943d
+machine_hash: 32f88053b255f1a00bb069b81fa5d9812e781933c9968377807c829124c013bd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -65,6 +65,7 @@ related_changes:
   modelOverrides setting to map model picker entries to custom provider model…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-17-updates-to-the-model-picker-in-chatgpt-764a9949|chatgpt-2026-03-17-updates-to-the-model-picker-in-chatgpt-764a9949]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: interface-experience
 title: The Auto functionality can be accessed by clicking Configure in the model picker…
 type: change

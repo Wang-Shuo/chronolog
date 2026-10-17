@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: faed624da0cd07f26c33e7f7b3e5372c7725d8a35dbc9a6cf1062514bb9550ba
+machine_hash: f31024c980dae5fefeecf7a7b21a925522059ba0454d9a6a1c5293edd18690a4
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   suggestions are now populated when safety checks trigger an ask response…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c|claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed a security issue where statusLine and fileSuggestion hook commands could…
 type: change

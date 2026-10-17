@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: fb672300a4385cd5e795d45ab598b52d5a4d758eaa7c5ffe5017a5cea329c2bc
+machine_hash: c3331db8ab70a605cf67b52f4086c6c3983f5698ee38604ed1a6bb4defc0894e
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   voice mode silently failing on the macOS native binary for users whose…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c|claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Added allowRead sandbox filesystem setting to re-allow read access within…
 type: change

@@ -1,9 +1,9 @@
 ---
-changes_count: 4
+changes_count: 1
 date: '2026-02-24'
-description: 'Cursor release Cloud Agents with Computer Use on 2026-02-24: 4 tracked
-  changes across Agent Mode, Mobile and Desktop'
-machine_hash: 37aa56cfe7e3bab3116a68483476e8fac91c66b16b2614eff2f3ed4a6db7d541
+description: 'Cursor release Cloud Agents with Computer Use on 2026-02-24: 1 tracked
+  change across Agent Mode'
+machine_hash: 0febdb0c9e6f6d0633ea4f459b33386b7b3712640686e931196570e8b0d7a850
 product: cursor
 product_name: Cursor
 record:
@@ -39,13 +39,10 @@ version: Cloud Agents with Computer Use
 <!-- chronolog:begin region="summary" -->
 Cloud agents can now use the software they create to test changes and demo their work.
 
-Tracked 4 of 4 candidate lines.
+Tracked 1 card from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-02-24-cloud-agents-can-now-use-the-software-they-create-to-test-changes-and-demo-their|Cloud agents can now use the software they create to test changes and demo their work]] · Agent Mode
-- [[Changes/Cursor/2026-02-24-after-onboarding-onto-your-codebase-each-agent-runs-in-its-own-isolated-vm-with|After onboarding onto your codebase, each agent runs in its own isolated VM…]] · Agent Mode
-- [[Changes/Cursor/2026-02-24-cloud-agents-are-available-anywhere-you-use-cursor-including-web-desktop-mobile|Cloud agents are available anywhere you use Cursor, including web, desktop, mobile…]] · Mobile and Desktop
-- [[Changes/Cursor/2026-02-24-get-started-at-cursor-com-onboard-to-watch-the-agent-configure-itself-and-record|Get started at cursor.com/onboard to watch the agent configure itself and record a demo]] · Agent Mode
+- [[Changes/Cursor/2026-02-24-cloud-agents-can-now-use-the-software-they-create-to-test-changes-and-demo-their-c922e9|Cloud Agents with Computer Use]] · Agent Mode
 <!-- chronolog:end -->

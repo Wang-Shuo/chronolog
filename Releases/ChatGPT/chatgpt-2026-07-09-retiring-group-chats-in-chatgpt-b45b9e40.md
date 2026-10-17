@@ -3,7 +3,7 @@ changes_count: 2
 date: '2026-07-09'
 description: 'ChatGPT release Retiring group chats in ChatGPT on 2026-07-09: 2 tracked
   changes across Collaboration, Mobile and Desktop'
-machine_hash: bef80763025ea13f61d0ea4d1813bceac250215d91705122ef669b8dcc6c9a78
+machine_hash: b56dacf57d880825564024f37a65c0befc728a3bbd72558969bf599154f8994a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +40,7 @@ version: Retiring group chats in ChatGPT
 <!-- chronolog:begin region="summary" -->
 Beginning July 9, users on web, iOS, and Android will no longer be able to create new group chats, turn existing conversations into group chats, or join a group chat through an invite link.
 
-Tracked 2 of 2 candidate lines.
+Tracked 2 cards from 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

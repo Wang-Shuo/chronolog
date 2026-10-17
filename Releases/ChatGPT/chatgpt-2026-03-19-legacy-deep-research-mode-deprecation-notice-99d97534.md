@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-03-19'
 description: 'ChatGPT release Legacy deep research mode deprecation notice on 2026-03-19:
   1 tracked change across Search and Browsing'
-machine_hash: dc90c2a28a424157fc1cbb0b126a4d1ff3e60197da64cb85b815ad577b80b26c
+machine_hash: 6c6d948892a6fe2d29169692d08b37d84e08ab77683c3173889710d1701c1d09
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Legacy deep research mode deprecation notice
 <!-- chronolog:begin region="summary" -->
 The legacy deep research mode will be removed on Thursday, March 26, 2026. This change only affects the legacy mode; the current deep research experience will remain unchanged.Historical conversations and results will remain accessible.To learn more about deep research, see: Deep research in ChatGPT.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|The legacy deep research mode will be removed on Thursday, March 26, 2026]] · Search and Browsing
+- [[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|Legacy deep research mode deprecation notice]] · Search and Browsing · Policy
 <!-- chronolog:end -->

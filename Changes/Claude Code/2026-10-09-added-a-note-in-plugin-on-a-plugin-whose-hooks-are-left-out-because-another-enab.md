@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 85560ee318bde3eb041aab94919cca73cc72f45faf4893060af8553083536b5f
+machine_hash: 9936ec27ea9d22622836023c9eaf99c7ca80c15854927dd730b67fa7bf3e7a08
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   a warning to claude plugin install, enable, disable…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added a note in /plugin on a plugin whose hooks are left out because another…
 type: change

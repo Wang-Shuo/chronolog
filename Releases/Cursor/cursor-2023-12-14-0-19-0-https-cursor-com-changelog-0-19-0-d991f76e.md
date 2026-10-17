@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-12-14'
 description: 'Cursor release Copilot++ Improvements on 2023-12-14: 1 tracked change
   across Editor Experience'
-machine_hash: e687424996de8a5ad76922780e2a88f8df507a391b3628e0e8ca37923a6d6e50
+machine_hash: 9a92fa45e68fc9e7ef97dfc9d48f15e138ea60d2334bb8aea5212d233e32a993
 product: cursor
 product_name: Cursor
 record:
@@ -39,10 +39,10 @@ version: 0.19.0
 <!-- chronolog:begin region="summary" -->
 We made Copilot++ faster, smarter, more constrained, and switched to a ghost-text + hit-Tab-to-accept UI. Would love your feedback.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|We made Copilot++ faster, smarter, more constrained, and switched to a ghost-text…]] · Editor Experience
+- [[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|Copilot++ Improvements]] · Editor Experience
 <!-- chronolog:end -->

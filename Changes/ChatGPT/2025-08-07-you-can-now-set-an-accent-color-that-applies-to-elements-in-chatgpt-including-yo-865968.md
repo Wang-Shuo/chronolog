@@ -15,9 +15,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 261973e69a968cae585ddcb02da4612831909f8e7a602f97bb1734fca8b99139
+kind: change
+machine_hash: b954e9391244bf53b1ca65c7af0703db85b42407d96143c5e875f2d7920d8c2e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,8 +39,9 @@ record:
       Tap your profile icon at the bottom, go to Personalization, then select Color
       Scheme to pick your accent color.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: you-can-now-set-an-accent-color-that-applies-to-elements-in-chatgpt-including-yo
@@ -65,24 +67,24 @@ record:
     - personalization
     score: 50
     theme: memory
-  title: Set an accent color that applies to elements in ChatGPT, including your conversation…
+  title: Accent Colors
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a7377a|We''ve
-  removed the row of individual tool icons from the mobile composer and replaced…]]'
+- '[[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload
+  files and access model selector on mobile]]'
 - '[[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|Record
   mode is now available to ChatGPT Plus users globally in the macOS desktop app]]'
-- '[[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-96fd94|Study
+- '[[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-6e22f0|Study
   mode is currently available to users in Free, Plus, Pro, and Teams plans…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-accent-colors-d6573a1d|chatgpt-2025-08-07-accent-colors-d6573a1d]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Set an accent color that applies to elements in ChatGPT, including your conversation…
+title: Accent Colors
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Set an accent color that applies to elements in ChatGPT, including your conversation…
+# Accent Colors
 
 **ChatGPT** · 2025-08-07 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-08-07-accent-colors-d6573a1d|Accent Colors]]
 <!-- chronolog:end -->
@@ -100,8 +102,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-07-29 · ChatGPT · [[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-96fd94|Study mode is currently available to users in Free, Plus, Pro, and Teams plans…]]
-- Later: 2025-08-18 · ChatGPT · [[Changes/ChatGPT/2025-08-18-available-on-web-mobile-ios-android-and-desktop-macos-windows-chatgpt-go-is-geo|Available on web, mobile (iOS & Android), and desktop (macOS & Windows)]]
+- Earlier: 2025-07-29 · ChatGPT · [[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-6e22f0|Study mode is currently available to users in Free, Plus, Pro, and Teams plans…]]
+- Later: 2025-08-22 · ChatGPT · [[Changes/ChatGPT/2025-08-22-this-feature-will-initially-only-be-available-on-the-chatgpt-website-and-windows|This feature will initially only be available on the ChatGPT website and Windows app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

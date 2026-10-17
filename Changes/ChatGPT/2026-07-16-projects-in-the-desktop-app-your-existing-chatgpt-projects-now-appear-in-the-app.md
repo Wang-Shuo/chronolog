@@ -14,9 +14,10 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: e182a654b58a9c4d3cc6283743af42ed2a604676df05a57b81227636ea69ad8d
+kind: change
+machine_hash: 1f643b0052bd65561394d482392d9446f103033c38da984224af32fe19fab7da
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,10 +32,12 @@ record:
       in the app. You can start a Chat conversation inside a Project or begin a Work
       thread using Project context.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
+  scope: macOS and Windows
   slug: projects-in-the-desktop-app-your-existing-chatgpt-projects-now-appear-in-the-app
   source_release: chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad
   source_type: chatgpt_changelog
@@ -63,6 +66,7 @@ related_changes:
   readable default names for sessions at start, making them easier to identify…]]'
 - '[[Changes/ChatGPT/2026-07-16-unified-recents-chat-and-work-conversations-now-appear-together-in-recents-where|Unified
   Recents: Chat and Work conversations now appear together in Recents, where…]]'
+scope: macOS and Windows
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad|chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad]]'
 source_type: chatgpt_changelog
 theme: projects-workspaces
@@ -74,7 +78,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Projects in the desktop app: Your existing ChatGPT Projects now appear in the app
 
-**ChatGPT** · 2026-07-16 · [[Themes/projects-workspaces|Projects and Workspaces]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad|ChatGPT desktop app experience updates]]
+**ChatGPT** · 2026-07-16 · [[Themes/projects-workspaces|Projects and Workspaces]] · macOS and Windows · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad|ChatGPT desktop app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-12-11'
 description: 'ChatGPT release Today, we’re releasing GPT-5.2, the next upgrade to
   the GPT-5 series. on 2025-12-11: 1 tracked change across Model Support'
-machine_hash: fc8b31c8cc54300bc21ae443f5335e1a6539370ff1370239fe9b0abbabccba3c
+machine_hash: 5b21e24b94359651ef7b77b0a9657d7eeb879ab9c6e16cfb6a802e6a49446ced
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: Today, we’re releasing GPT-5.2, the next upgrade to the GPT-5 series.
 <!-- chronolog:begin region="summary" -->
 Today, we’re releasing GPT-5.2, the next upgrade to the GPT-5 series. GPT-5.2 is smarter and more useful for both work and learning—while remaining just as enjoyable to talk to. As with GPT-5.1, we’re continuing to improve our main models for everyone on a regular basis to make them more useful and enjoyable to…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-series-gpt-5-2-is-sm|Today, we’re releasing GPT-5.2, the next upgrade to the GPT-5 series]] · Model Support
+- [[Changes/ChatGPT/2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-series-gpt-5-2-is-sm|Today, we’re releasing GPT-5.2, the next upgrade to the GPT-5 series]] · Model Support · Launch
 <!-- chronolog:end -->

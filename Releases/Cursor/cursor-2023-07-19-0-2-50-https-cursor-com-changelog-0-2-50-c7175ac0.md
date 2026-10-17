@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-07-19'
 description: 'Cursor release Hotfixes on 2023-07-19: 1 tracked change across Context
   Window'
-machine_hash: 98546c28369b235c43a2fb82e134139bec13f0ec53a02382263178d6cfb2061c
+machine_hash: 41bb1f9bd1ff6ac37bd411716975f71f4b643961533d02fc26e5e7fccecff9ef
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.2.50
 <!-- chronolog:begin region="summary" -->
 Cmd-L now properly focuses the chat again
 
-Tracked 1 of 2 candidate lines.
+Tracked 1 card from 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 2e44de98293a9a8f9555475fb17c1104a8fe5e00bf758f72317c3d68b3760170
+machine_hash: 9a4ea06efcfbe300c2861abfe592fe40557cfdbe1fbdc884621e103814b2d79c
 product: cursor
 product_name: Cursor
 record:
@@ -70,6 +70,7 @@ related_changes:
   Plan mode to design your approach before coding]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Cursor includes default subagents for researching your codebase, running terminal…
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: f00e92a5409c32ca2fa93b5bca79ad7d5fe8c0c85d57f9a1439f5992bdbbd10b
+machine_hash: 018dee8961a030ad666ca2781004e970de98a662598f2486224e16da1249df63
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,6 +51,7 @@ related_changes:
   dollar amounts to the Claude apps gateway spend limit in /usage…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-pro-200-subscriptions-a351b7b9|chatgpt-2026-09-29-pro-200-subscriptions-a351b7b9]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: pricing-model
 title: Pro 200 is available for new subscriptions again at $200/month
 type: change

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-04-16'
 description: 'ChatGPT release o3 and o4-mini in ChatGPT on 2025-04-16: 1 tracked change
   across Model Support'
-machine_hash: 54c84ac5e00916722bd3aa44e3cdfd9caf793e6ac7c518a0ffbc5bfeedad8686
+machine_hash: aa152b125a08de227ee2aea0869b06d05d485d0e2151a0a5e55801838fc21ae8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: o3 and o4-mini in ChatGPT
 <!-- chronolog:begin region="summary" -->
 Today, we’re releasing OpenAI o3 and o4-mini, the latest in our o-series of models trained to think for longer before responding. These are the smartest models we’ve released to date, representing a step change in ChatGPT's capabilities for everyone from curious users to advanced researchers. For the first time, our…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-04-16-today-we-re-releasing-openai-o3-and-o4-mini-the-latest-in-our-o-series-of-models|Today, we’re releasing OpenAI o3 and o4-mini, the latest in our o-series of models…]] · Model Support
+- [[Changes/ChatGPT/2025-04-16-today-we-re-releasing-openai-o3-and-o4-mini-the-latest-in-our-o-series-of-models|o3 and o4-mini in ChatGPT]] · Model Support · Launch
 <!-- chronolog:end -->

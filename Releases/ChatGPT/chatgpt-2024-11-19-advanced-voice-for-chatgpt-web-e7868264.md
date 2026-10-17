@@ -3,7 +3,7 @@ changes_count: 1
 date: '2024-11-19'
 description: 'ChatGPT release Advanced Voice for ChatGPT Web on 2024-11-19: 1 tracked
   change across Mobile and Desktop'
-machine_hash: 7992e302db0e375a83583903913aefcd2657eb860071304cb1e4bd40ea7b8ef7
+machine_hash: b8249509d7b2d2c9d1a36a6eeb59ef6d537ea09a9d36fc34cbc864533c0edbb3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: Advanced Voice for ChatGPT Web
 <!-- chronolog:begin region="summary" -->
 Starting today, we’re beginning to roll out Advanced Voice Mode on web (already available on mobile and desktop apps). You can now start a voice chat on chatgpt.com on your desktop and have real-time, natural conversations with ChatGPT while doing tasks like shopping, planning, writing, and brainstorming.We’re starting…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Starting today, we’re beginning to roll out Advanced Voice Mode on web…]] · Mobile and Desktop
+- [[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Advanced Voice for ChatGPT Web]] · Mobile and Desktop
 <!-- chronolog:end -->

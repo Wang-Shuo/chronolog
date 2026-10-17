@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5598881ccc70bdd7b7b17753ee6446e2ffb19ad068ac872e86c6715b7801f9c3
+machine_hash: 8a33802ee297e57ead893bb1fa65fe1ed5f0676d6a9912ac87b2bb45573d00d6
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   a Bash tool permission-check bypass where zsh could execute hidden commands…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d|claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed a Bash permission bypass where a crafted command could hide parts of
   itself…

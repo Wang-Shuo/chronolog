@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: bd454a5beb0856df2bfa93155506065f510f5881a9bacf81c28b641cfcaa9010
+machine_hash: 32f94bc2c84a35d5450a7503cd35ba0fb4de3b219bf2d3a501ee902cf32afa6e
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   background agent result reporting]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57|claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added --forward-subagent-text flag and CLAUDE_CODE_FORWARD_SUBAGENT_TEXT…
 type: change

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 742f768aea912c86f96ca8440c20e50292127a3a04f83dea7692c13e1246ece8
+machine_hash: ba75ec5e5f2ee0ad96e2f623193afb2b4937e16ab391d70a0af7c503923d6165
 product: cursor
 product_name: Cursor
 record:
@@ -68,6 +68,7 @@ related_changes:
   in Jira]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-19-cursor-in-jira-https-cursor-com-changelog-05-19-26-4a0261e4|cursor-2026-05-19-cursor-in-jira-https-cursor-com-changelog-05-19-26-4a0261e4]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: You can ask Cursor to fix bugs, add features, update tests, or investigate
   something…

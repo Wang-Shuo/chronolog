@@ -1,23 +1,23 @@
 ---
 card_id: chatgpt-2024-01-10-c68432
 date: '2024-01-10'
-description: 'ChatGPT · 2024-01-10 · Safety and Privacy: We’re launching a new ChatGPT
+description: 'ChatGPT · 2024-01-10 · Collaboration: We’re launching a new ChatGPT
   plan for teams of all sizes, which provides a secure, collaborative workspace to
-  get…'
+  get the…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 269
+  lag_days: 231
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: safety-privacy
+  theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 7d9de340d7b0bae025a49d048e6ba47fddb634fa83f9071793ca911c2d196461
+kind: launch
+machine_hash: 2fddfb44586272f2b6d372f611dab8933b6c75442e717db63ec77751da024727
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,64 +47,30 @@ record:
       More details on our data privacy practices can be found on our privacy page
       and Trust Portal.You can learn more about the ChatGPT Team plan here.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: launch
   product: chatgpt
   product_name: ChatGPT
-  slug: we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur
+  slug: use-chatgpt-alongside-your-team
   source_release: chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd
   source_type: chatgpt_changelog
-  theme: safety-privacy
-  theme_matches:
-  - matched_terms:
-    - gpt 4
-    - models
-    score: 110
-    theme: model-support
-  - matched_terms:
-    - team
-    - teams
-    score: 100
-    theme: collaboration
-  - matched_terms:
-    - data analysis
-    score: 60
-    theme: file-data
-  - matched_terms:
-    - dall e
-    score: 60
-    theme: image-generation
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
-  - matched_terms:
-    - privacy
-    score: 50
-    theme: safety-privacy
-  theme_resolution: manual-semantic-rule-v2
-  title: ChatGPT launches a new ChatGPT plan for teams of all sizes, which provides
-    a secure…
+  theme: collaboration
+  title: Use ChatGPT alongside your team
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-06-27-cursor-is-now-based-on-version-1-79-2-of-vscodium-which-comes-with-security-upda|Cursor
-  is now based on version 1.79.2 of VSCodium, which comes with security updates…]]'
-- '[[Changes/ChatGPT/2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security-4958cf|ChatGPT
-  launches ChatGPT Enterprise, which offers enterprise-grade security…]]'
-- '[[Changes/Cursor/2023-08-30-api-key-input-box-is-now-a-password-type|API Key input
-  box is now a password type]]'
+- '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd|chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd]]'
 source_type: chatgpt_changelog
-theme: safety-privacy
-title: ChatGPT launches a new ChatGPT plan for teams of all sizes, which provides
-  a secure…
+theme: collaboration
+title: Use ChatGPT alongside your team
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT launches a new ChatGPT plan for teams of all sizes, which provides a secure…
+# Use ChatGPT alongside your team
 
-**ChatGPT** · 2024-01-10 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd|Introducing the GPT Store and ChatGPT Team plan]]
+**ChatGPT** · 2024-01-10 · [[Themes/collaboration|Collaboration]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd|Introducing the GPT Store and ChatGPT Team plan]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -116,20 +82,20 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The store features a diverse range of GPTs developed by our partners and the community]] · Image Generation
+- [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|Discover what’s trending in the GPT Store]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Safety and Privacy
+## Nearby in Collaboration
 
-- Earlier: 2023-08-30 · Cursor · [[Changes/Cursor/2023-08-30-api-key-input-box-is-now-a-password-type|API Key input box is now a password type]]
-- Later: 2024-09-17 · Cursor · [[Changes/Cursor/2024-09-17-this-update-fixes-the-following-security-issue-cve-2024-45599|This update fixes the following security issue: CVE-2024-45599]]
+- Earlier: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Later: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

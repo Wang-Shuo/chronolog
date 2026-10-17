@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 153161182d34ba63479b00b48a737383725fedaf35ad2d9c897084dddbf2ad98
+machine_hash: 6c07ca47b690db516c4fd842b6c7fec2769db3c0fb5ffd7a1454210657fa7889
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   prompt input re-renders during turns by ~74%]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-06-v2-1-70-github-293754953-afac13c0|claude-code-2026-03-06-v2-1-70-github-293754953-afac13c0]]'
 source_type: github_releases
+superseded: true
 theme: reliability-performance
 title: Improved compaction to preserve images in the summarizer request, allowing
   prompt…

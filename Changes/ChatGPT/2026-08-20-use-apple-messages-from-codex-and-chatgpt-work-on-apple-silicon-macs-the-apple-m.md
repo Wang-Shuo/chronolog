@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-08-20 · Apps and Integrations: Use Apple Messages
   Codex and ChatGPT Work. On Apple silicon Macs, the Apple Messages plugin in the
   ChatGPT…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1246
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 5a9aefa2d4eb2724a32e0e39dcddecb04fb32b68106b05acbdcc7ad155c559d4
+kind: change
+machine_hash: ede0e9dd7e937d4bf4a25a684db8605ffdd9b75a93d8d2d1080f78703b691bdd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,8 +38,9 @@ record:
       default, ChatGPT asks the user to approve the message and recipients before
       sending. Learn more about the Apple Messages plugin.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: use-apple-messages-from-codex-and-chatgpt-work-on-apple-silicon-macs-the-apple-m
@@ -58,12 +60,11 @@ record:
   title: Use Apple Messages from Codex and ChatGPT Work
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-12-documented-claude-remote-control-continue-for-resuming-the-most-recent-remote-co|Documented
-  claude remote-control --continue for resuming the most recent Remote…]]'
-- '[[Changes/Claude Code/2026-08-14-added-an-opt-in-forward-user-identity-apps-gateway-setting-on-anthropic-upstream|Added
-  an opt-in forward_user_identity apps gateway setting on Anthropic upstreams…]]'
-- '[[Changes/Cursor/2026-08-19-cloud-agents-automatically-subscribe-to-prs-they-create-and-drive-them-to-comple|Cloud
-  agents automatically subscribe to PRs they create and drive them…]]'
+- '[[Changes/Cursor/2026-08-17-app-extensions-for-cursor-repos|App extensions for
+  Cursor repos]]'
+- '[[Changes/Cursor/2026-08-17-settings|Settings]]'
+- '[[Changes/Claude Code/2026-08-19-sigterm-in-print-sdk-mode-no-longer-records-an-interrupted-turn-or-synthetic-too|SIGTERM
+  in print/SDK mode no longer records an interrupted turn or synthetic tool…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -94,14 +95,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-19 · Cursor · [[Changes/Cursor/2026-08-19-cloud-agents-automatically-subscribe-to-prs-they-create-and-drive-them-to-comple|Cloud agents automatically subscribe to PRs they create and drive them…]]
-- Later: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-a-catalog-entry-s-headershelper-runs-only-when-you-install-or-update-that-plugin|A catalog entry's headersHelper runs only when you install or update that plugin…]]
+- Earlier: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-sigterm-in-print-sdk-mode-no-longer-records-an-interrupted-turn-or-synthetic-too|SIGTERM in print/SDK mode no longer records an interrupted turn or synthetic tool…]]
+- Later: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-6-apps-and-integrations-changes-in-v2-1-238|6 Apps and Integrations changes in v2.1.238]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

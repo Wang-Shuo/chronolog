@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 7e304034750daedc08d96b6f02c747ed369655e82abcc1a49a2b3073237484b8
+kind: change
+machine_hash: 3f3fe5a237d40b981b7e6c296b4041c677fec87bb2067ad008f98da779b233dc
 product: cursor
 product_name: Cursor
 record:
@@ -29,8 +30,9 @@ record:
   - quote: 'High: Bugbot spends more time reasoning. Reviews are more expensive and
       take longer, but Bugbot may find more bugs.'
     source_release: https://cursor.com/changelog/05-11-26
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: high-bugbot-spends-more-time-reasoning-reviews-are-more-expensive-and-take-longe
@@ -42,12 +44,12 @@ record:
   title: 'High: Bugbot spends more time reasoning'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-04-enterprises-also-have-the-option-to-block-new-providers-or-model-versions-by-def|Enterprises
-  also have the option to block new providers or model versions by default]]'
-- '[[Changes/ChatGPT/2026-05-05-we-re-rolling-out-gpt-5-5-instant-as-chatgpt-s-new-default-model-it-replaces-gpt|ChatGPT
-  rolls out GPT-5.5 Instant as ChatGPT’s new default model]]'
-- '[[Changes/Claude Code/2026-05-06-gateway-v1-models-discovery-for-the-model-picker-is-now-opt-in-via-claude-code-e|Gateway
-  /v1/models discovery for the /model picker is now opt-in…]]'
+- '[[Changes/Claude Code/2026-05-06-2-model-support-changes-in-v2-1-129|2 Model Support
+  changes in v2.1.129]]'
+- '[[Changes/Cursor/2026-05-07-added-support-for-general-model-names-for-subagent-configuration-i-e-set-model-o|Added
+  support for general model names for subagent configuration (i.e., set model]]'
+- '[[Changes/Claude Code/2026-05-11-compaction-prompt-now-asks-the-model-to-preserve-sensitive-user-instructions|Compaction
+  prompt now asks the model to preserve sensitive user instructions]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617|cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617]]'
 source_type: cursor_changelog
 theme: model-support
@@ -79,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-gateway-v1-models-discovery-for-the-model-picker-is-now-opt-in-via-claude-code-e|Gateway /v1/models discovery for the /model picker is now opt-in…]]
-- Later: 2026-05-14 · Claude Code · [[Changes/Claude Code/2026-05-14-fast-mode-now-uses-opus-4-7-by-default-previously-opus-4-6-set-claude-code-opus|Fast mode now uses Opus 4.7 by default (previously Opus 4.6)]]
+- Earlier: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-compaction-prompt-now-asks-the-model-to-preserve-sensitive-user-instructions|Compaction prompt now asks the model to preserve sensitive user instructions]]
+- Later: 2026-05-14 · Claude Code · [[Changes/Claude Code/2026-05-14-2-model-support-changes-in-v2-1-142|2 Model Support changes in v2.1.142]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

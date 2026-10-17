@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b617daaa156ed5db551ba38f707c5bb8c8fa86e08a35f9eb5b19a1db8e7cbb26
+machine_hash: 847153b005a27d9b3aab4581d606101ef3e56f758bdd08064032e61270322b4c
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   and code simultaneously with a brand new browser sidebar and component tree]]'
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10|claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added syntax highlighting info to theme picker
 type: change

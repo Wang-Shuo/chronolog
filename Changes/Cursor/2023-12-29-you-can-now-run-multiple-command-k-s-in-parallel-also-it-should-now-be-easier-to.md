@@ -4,8 +4,8 @@ date: '2023-12-29'
 description: 'Cursor · 2023-12-29 · Editor Experience: You can now run multiple Command-K''s
   in parallel! Also, it should now be easier to see change Copilot++ is suggesting.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 290
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: a6e6b674961a662a4f069f4e114415b0f21cb14c0ab256fd67d1603985b17a09
+kind: change
+machine_hash: 2d98020b6a6fc675d3114f5dea1c8c7eab83a435d408315f5cf756ba2664550d
 product: cursor
 product_name: Cursor
 record:
@@ -30,8 +31,9 @@ record:
   - quote: You can now run multiple Command-K's in parallel! Also, it should now be
       easier to see change Copilot++ is suggesting.
     source_release: https://cursor.com/changelog/0-21-0
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to
@@ -40,24 +42,24 @@ record:
   theme: editor-experience
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Run multiple Command-K's in parallel!
+  title: Multiple Command-K, Copilot++ UI
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-02-running-cmd-enter-on-followups-should-result-in-much-better-codebase-results|Running
-  Cmd+enter on followups should result in much better codebase results]]'
-- '[[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|We
-  made Copilot++ faster, smarter, more constrained, and switched to a ghost-text…]]'
+- '[[Changes/Cursor/2023-12-02-running-cmd-enter-on-followups-should-result-in-much-better-codebase-results|Smarter
+  Followups]]'
+- '[[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|Copilot++
+  Improvements]]'
 - '[[Changes/Cursor/2023-12-16-update-0-20-1-0-20-2-we-added-tldrs-to-make-it-easier-to-sort-through-the-bugs-f|UPDATE
   (0.20.1-0.20.2): We added TLDRs to make it easier to sort through the bugs…]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-29-0-21-0-https-cursor-com-changelog-0-21-0-9a36334f|cursor-2023-12-29-0-21-0-https-cursor-com-changelog-0-21-0-9a36334f]]'
 source_type: cursor_changelog
 theme: editor-experience
-title: Run multiple Command-K's in parallel!
+title: Multiple Command-K, Copilot++ UI
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Run multiple Command-K's in parallel!
+# Multiple Command-K, Copilot++ UI
 
 **Cursor** · 2023-12-29 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://cursor.com/changelog/0-21-0) · from [[Releases/Cursor/cursor-2023-12-29-0-21-0-https-cursor-com-changelog-0-21-0-9a36334f|Multiple Command-K, Copilot++ UI]]
 <!-- chronolog:end -->
@@ -76,13 +78,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2023-12-16 · Cursor · [[Changes/Cursor/2023-12-16-update-0-20-1-0-20-2-we-added-tldrs-to-make-it-easier-to-sort-through-the-bugs-f|UPDATE (0.20.1-0.20.2): We added TLDRs to make it easier to sort through the bugs…]]
-- Later: 2023-12-31 · Cursor · [[Changes/Cursor/2023-12-31-you-can-now-use-chat-and-cmd-k-in-the-aux-window-without-too-many-problems|Use chat and cmd-k in the aux window without too many problems]]
+- Later: 2023-12-31 · Cursor · [[Changes/Cursor/2023-12-31-you-can-now-use-chat-and-cmd-k-in-the-aux-window-without-too-many-problems|Aux Window Fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

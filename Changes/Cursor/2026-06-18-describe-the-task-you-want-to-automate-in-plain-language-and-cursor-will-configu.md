@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 546a63793833cf2b1ea1e3223167dcf8e4f294182f8b2e01ffefc263014a7d5c
+machine_hash: 7651b46cc104dc4516c319a568952b19deb1ccf6698745c43af095f59b10be88
 product: cursor
 product_name: Cursor
 record:
@@ -50,6 +50,7 @@ related_changes:
   /automate to create an automation directly in your local agent session]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-18-3-8-https-cursor-com-changelog-06-18-26-0b493e15|cursor-2026-06-18-3-8-https-cursor-com-changelog-06-18-26-0b493e15]]'
 source_type: cursor_changelog
+superseded: true
 theme: automation-scheduling
 title: Describe the task you want to automate in plain language and Cursor will configure…
 type: change

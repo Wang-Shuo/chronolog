@@ -14,9 +14,10 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 6d9bfb11345c65a4f000bcf48b1e428d8aa496f38d0be3d42433fa271dcc1f5d
+kind: pricing
+machine_hash: e8a20f02793ea67daf3f5a143c425447424d6d4c435e9f41259e8dd539d38be1
 product: cursor
 product_name: Cursor
 record:
@@ -27,8 +28,9 @@ record:
   evidence:
   - quote: 'Standard: $0.50/M input, $2.50/M output tokens'
     source_release: https://cursor.com/changelog/composer-2-5
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: pricing
   product: cursor
   product_name: Cursor
   slug: standard-0-50-m-input-2-50-m-output-tokens
@@ -56,7 +58,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Standard: $0.50/M input, $2.50/M output tokens
 
-**Cursor** · 2026-05-18 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://cursor.com/changelog/composer-2-5) · from [[Releases/Cursor/cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1|Composer 2.5]]
+**Cursor** · 2026-05-18 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://cursor.com/changelog/composer-2-5) · from [[Releases/Cursor/cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1|Composer 2.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->

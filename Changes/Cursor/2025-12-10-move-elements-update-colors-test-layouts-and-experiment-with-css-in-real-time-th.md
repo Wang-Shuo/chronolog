@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 6ce9e4c6580941b95b8c443e9cb031bd1fe6e7ed874e013711c3c888c634a436
+machine_hash: 6c302667b11ce7b7d6bf2b868715cb9b475085dd7d9eccf5806d3c3adf5a80fa
 product: cursor
 product_name: Cursor
 record:
@@ -56,6 +56,7 @@ related_changes:
   creating plans, Cursor responds with clarifying questions to improve the plan quality]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Move elements, update colors, test layouts, and experiment with CSS in real
   time…

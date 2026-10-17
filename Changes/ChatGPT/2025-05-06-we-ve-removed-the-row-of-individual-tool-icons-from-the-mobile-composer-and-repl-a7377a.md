@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: d0025c67fab17a816eca1e94ac502b4ada9e8b1fa3671e0bfb7b4a78bfc53a8f
+machine_hash: c8638f9ccbf458b82ab1218bb3b427389fc9bc08a9542a875360249543426193
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -66,6 +66,7 @@ related_changes:
   have been working on a variety of usability and performance improvements and bug…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-06-mobile-ui-ios-android-changing-on-free-plus-pro-plans-be1d56cb|chatgpt-2025-05-06-mobile-ui-ios-android-changing-on-free-plus-pro-plans-be1d56cb]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: mobile-desktop
 title: We've removed the row of individual tool icons from the mobile composer and
   replaced…

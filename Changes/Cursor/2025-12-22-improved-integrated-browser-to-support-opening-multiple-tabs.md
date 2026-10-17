@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: af9d764cb0fc8ed4105ab88d4ea3ced598e2b6009b3a2c31c617e41c4770bf5b
+machine_hash: fdc540028d7fb2a6c3c6a17089a0258a41a47bf9fc509d8b746ddc27b57a03eb
 product: cursor
 product_name: Cursor
 record:
@@ -51,6 +51,7 @@ related_changes:
   search filtering to the plugin discover screen…]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465|cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: Improved integrated browser to support opening multiple tabs
 type: change

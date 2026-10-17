@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d5407ee848becaaec126c7954c1f850cce9f1ecea17047bfb2f60056e15151fe
+machine_hash: 7ed7c32258496e45c6010fa7f1641ade28013c425817081902782227728bdf18
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   /simplify to /code-review]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850|claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: /code-review --fix now applies review findings to your working tree after…
 type: change

@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 18ee0d48f2b38e1c645b9c9266e63876d6704cf4b5f58fa4d67fea7cb62ed1d4
+machine_hash: 681d028c99aea022e0d9054e1fbaa0170e1230a7ebe891dcf8dc03580130a278
 product: cursor
 product_name: Cursor
 record:
@@ -46,6 +46,7 @@ related_changes:
   chat suggestion]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-23-0-1-5-https-cursor-com-changelog-0-1-5-b6aefe25|cursor-2023-03-23-0-1-5-https-cursor-com-changelog-0-1-5-b6aefe25]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: Ask AI to "fix" language errors
 type: change

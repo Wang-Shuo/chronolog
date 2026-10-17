@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1721bf99150d1970c77fa21b1369e8a667a61d856eca471dd8ff5dbd97b46c94
+machine_hash: 11fefa4bd7fb9dc97d20eb5c0149055cf175a093cb04d205cc128c050eee13ac
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,6 +47,7 @@ related_changes:
   configs & auto memory now shared across git worktrees of the same repository]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-06-v2-1-70-github-293754953-afac13c0|claude-code-2026-03-06-v2-1-70-github-293754953-afac13c0]]'
 source_type: github_releases
+superseded: true
 theme: memory
 title: Reduced startup memory by ~426KB for users without custom CA certificates
 type: change

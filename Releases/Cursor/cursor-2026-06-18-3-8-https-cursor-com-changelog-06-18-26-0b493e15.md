@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 7
 date: '2026-06-18'
-description: 'Cursor release Improvements to Cursor Automations on 2026-06-18: 5 tracked
-  changes across Automation and Scheduling'
-machine_hash: 09811434496d2e50d02903b9cce3659a5be28ad153ffd813f3d268aa6d4b33a9
+description: 'Cursor release Improvements to Cursor Automations on 2026-06-18: 7 tracked
+  changes across Automation and Scheduling, Memory and Personalization'
+machine_hash: f68b6288b104f47999fc199b6382f36a424ecc5b8e6b0b2bdafe31ef4f9edfbc
 product: cursor
 product_name: Cursor
 record:
@@ -40,14 +40,16 @@ version: '3.8'
 <!-- chronolog:begin region="summary" -->
 Cursor Automations save you time by automating repetitive tasks with always-on agents. This release introduces the /automate skill, new triggers for GitHub and Slack, and support for computer use.
 
-Tracked 5 of 18 candidate lines.
+Tracked 7 cards from 18 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
+- [[Changes/Cursor/2026-06-18-computer-use-tool-for-automations|Computer use tool for automations]] · Automation and Scheduling · Launch
+- [[Changes/Cursor/2026-06-18-new-github-triggers|New GitHub triggers]] · Automation and Scheduling · Launch
 - [[Changes/Cursor/2026-06-18-cursor-automations-save-you-time-by-automating-repetitive-tasks-with-always-on-a|Cursor Automations save you time by automating repetitive tasks with always-on agents]] · Automation and Scheduling
-- [[Changes/Cursor/2026-06-18-use-automate-to-create-an-automation-directly-in-your-local-agent-session|Use /automate to create an automation directly in your local agent session]] · Automation and Scheduling
-- [[Changes/Cursor/2026-06-18-describe-the-task-you-want-to-automate-in-plain-language-and-cursor-will-configu|Describe the task you want to automate in plain language and Cursor will configure…]] · Automation and Scheduling
-- [[Changes/Cursor/2026-06-18-automations-now-support-five-additional-github-triggers|Automations now support five additional GitHub triggers]] · Automation and Scheduling
-- [[Changes/Cursor/2026-06-18-react-to-any-slack-message-with-a-designated-emoji-to-kick-off-an-automation-at|React to any Slack message with a designated emoji to kick off an automation]] · Automation and Scheduling
+- [[Changes/Cursor/2026-06-18-automate-skill-6bab3b|/automate skill]] · Automation and Scheduling · Launch
+- [[Changes/Cursor/2026-06-18-react-to-any-slack-message-with-a-designated-emoji-to-kick-off-an-automation-at|An emoji trigger for Slack]] · Automation and Scheduling · Launch
+- [[Changes/Cursor/2026-06-18-2-automation-and-scheduling-changes-in-06-18-26|2 Automation and Scheduling changes in 06.18.26]] · Automation and Scheduling · Digest
+- [[Changes/Cursor/2026-06-18-you-can-now-delete-memory-files-in-the-ui-or-prompt-your-automation-to-delete-ou|Delete memory files in the UI, or prompt your automation to delete outdated memories…]] · Memory and Personalization
 <!-- chronolog:end -->

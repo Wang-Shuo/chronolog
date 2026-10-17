@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 245f0d175b8e5a0b7e8a1d3a63cfe892d33f7c2f7b49d3526a9375202d0c0967
+machine_hash: 1d29d14ac85dd22772630e688784c947e6df00bbb430c2d02f669b199921f897
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,6 +46,7 @@ related_changes:
   notifications (iTerm2/Kitty/Ghostty popups, progress bar) now reach…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-20-v2-1-81-github-299621655-10d2d4fe|claude-code-2026-03-20-v2-1-81-github-299621655-10d2d4fe]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Resuming a session that was in a worktree now switches back to that worktree
 type: change

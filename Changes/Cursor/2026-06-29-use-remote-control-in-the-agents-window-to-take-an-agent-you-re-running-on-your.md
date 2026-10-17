@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 313f6777f7519e1bf4ed60f1bffe1c6544bc449aeeb958e150dd588bbb7f8c3f
+machine_hash: f45d85773bbbfff2b476ba3dcf43b7246ab384e8f1a0869e23740f1af9a0089c
 product: cursor
 product_name: Cursor
 record:
@@ -51,6 +51,7 @@ related_changes:
   claude agents completed list to fill available vertical space]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-29-3-9-https-cursor-com-changelog-ios-mobile-app-d7278607|cursor-2026-06-29-3-9-https-cursor-com-changelog-ios-mobile-app-d7278607]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Use Remote Control in the Agents Window to take an agent you're running…
 type: change

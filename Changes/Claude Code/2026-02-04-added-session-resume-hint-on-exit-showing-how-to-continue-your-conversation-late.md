@@ -14,9 +14,10 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 4758edb5bccfbe53303a0a8d52cfc756d1c33b851a2fc7071fc580cb37362de4
+kind: change
+machine_hash: 60b6e5cbee352d946e56be6d144f92da319563218d7044796612f21cdcd10ac3
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added session resume hint on exit, showing how to continue your conversation
       later
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.31
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-session-resume-hint-on-exit-showing-how-to-continue-your-conversation-late
@@ -44,7 +46,7 @@ record:
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21|Branch
-  conversations in ChatGPT, making it easier to explore different directions…]]'
+  conversations on web]]'
 - '[[Changes/Claude Code/2025-12-19-added-support-for-custom-session-ids-when-forking-sessions-with-session-id-combi|Added
   support for custom session IDs when forking sessions with --session-id…]]'
 - '[[Changes/Claude Code/2026-01-30-added-from-pr-flag-to-resume-sessions-linked-to-a-specific-github-pr-number-or-u|Added
@@ -74,6 +76,7 @@ type: change
 
 - [[Changes/Claude Code/2026-02-04-added-support-for-full-width-zenkaku-space-input-from-japanese-ime-in-checkbox-s|Added support for full-width (zenkaku) space input from Japanese IME in checkbox selection]] · Accessibility and Localization
 - [[Changes/Claude Code/2026-02-04-improved-pdf-and-request-size-error-messages-to-show-actual-limits-100-pages-20m|Improved PDF and request size error messages to show actual limits (100 pages, 20MB)]] · Files and Data
+- [[Changes/Claude Code/2026-02-04-removed-misleading-anthropic-api-pricing-from-model-selector-for-third-party-pro|Removed misleading Anthropic API pricing from model selector for third-party…]] · Pricing Model
 - [[Changes/Claude Code/2026-02-04-improved-system-prompts-to-more-clearly-guide-the-model-toward-using-dedicated-t|Improved system prompts to more clearly guide the model toward using dedicated tools…]] · Model Support
 - [[Changes/Claude Code/2026-02-04-reduced-layout-jitter-in-the-terminal-when-the-spinner-appears-and-disappears-du|Reduced layout jitter in the terminal when the spinner appears and disappears during…]] · Developer Workflow
 <!-- chronolog:end -->

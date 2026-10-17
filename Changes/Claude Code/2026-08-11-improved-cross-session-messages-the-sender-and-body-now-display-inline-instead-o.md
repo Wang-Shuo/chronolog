@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3c9255ac1377ee554667e9435d1ff838ab0c3a377f1f5911a0ae33f488a256db
+machine_hash: f7057120032f350e8aa413e7b14f85b9776db370e332b67d59a71e4ee6d9dbc3
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   Remote Control]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9|claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Improved cross-session messages
 type: change

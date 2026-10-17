@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 81a218f4ffdb43dd6877a2d5390e991de0acd0b23fa653e9fd24c5a805093050
+machine_hash: 671f23f709aa4701665813edb8c11631b7161f3c8c1d970aed27f73409a2a9fd
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   Bash commands to show timeout duration alongside elapsed time]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-30-v2-1-27-github-281663155-d003937d|claude-code-2026-01-30-v2-1-27-github-281663155-d003937d]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Sessions are now automatically linked to PRs when created via gh pr create
 type: change

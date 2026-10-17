@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: ebf179557bad95954bede85a7dc5207b36a8a2b58457fae4727de848e231da0d
+kind: change
+machine_hash: cb982063f24914b0183f8df6d2083b150bd189216fe02c44e7892c624155d75c
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +32,9 @@ record:
       can run two types of always-on security agents: Security Reviewer and Vulnerability
       Scanner.'
     source_release: https://cursor.com/changelog/04-30-26
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: cursor-security-review-is-now-in-beta-on-teams-and-enterprise-plans-you-can-run
@@ -61,12 +63,12 @@ record:
   title: Cursor Security Review is now in beta on Teams and Enterprise plans
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-17-added-sandbox-network-denieddomains-setting-to-block-specific-domains-even-when|Added
-  sandbox.network.deniedDomains setting to block specific domains even…]]'
-- '[[Changes/Claude Code/2026-04-18-fixed-a-crash-in-the-permission-dialog-when-an-agent-teams-teammate-requested-to|Fixed
-  a crash in the permission dialog when an agent teams teammate requested tool…]]'
-- '[[Changes/Cursor/2026-04-30-we-re-also-continuously-improving-the-runtime-harness-and-models-powering-cursor|We''re
-  also continuously improving the runtime, harness, and models powering Cursor…]]'
+- '[[Changes/Claude Code/2026-04-20-security-sandbox-auto-allow-no-longer-bypasses-the-dangerous-path-safety-check-f|Security:
+  sandbox auto-allow no longer bypasses the dangerous-path safety check…]]'
+- '[[Changes/Claude Code/2026-04-23-fixed-mcp-step-up-authorization-silently-refreshing-instead-of-prompting-for-re|Fixed
+  MCP step-up authorization silently refreshing instead of prompting…]]'
+- '[[Changes/Claude Code/2026-04-23-4-safety-and-privacy-changes-in-v2-1-119|4 Safety
+  and Privacy changes in v2.1.119]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-30-cursor-security-review-https-cursor-com-changelog-04-30-26-640898b1|cursor-2026-04-30-cursor-security-review-https-cursor-com-changelog-04-30-26-640898b1]]'
 source_type: cursor_changelog
 theme: safety-privacy
@@ -89,17 +91,15 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-04-30-we-re-also-continuously-improving-the-runtime-harness-and-models-powering-cursor|We're also continuously improving the runtime, harness, and models powering Cursor…]] · Safety and Privacy
-- [[Changes/Cursor/2026-04-30-vulnerability-scanner-runs-scheduled-scans-of-your-codebase-to-check-for-known-v|Vulnerability Scanner runs scheduled scans of your codebase to check for known…]] · Safety and Privacy
-- [[Changes/Cursor/2026-04-30-security-reviewer-checks-every-pr-for-security-vulnerabilities-auth-regressions|Security Reviewer checks every PR for security vulnerabilities, auth regressions…]] · Safety and Privacy
-- [[Changes/Cursor/2026-04-30-customize-cursor-managed-security-agents-by-adjusting-triggers-adding-your-own-i|Customize Cursor-managed security agents by adjusting triggers, adding your own…]] · Safety and Privacy
+- [[Changes/Cursor/2026-04-30-security-reviewer-checks-every-pr-for-security-vulnerabilities-auth-regressions|Security Reviewer]] · Safety and Privacy
+- [[Changes/Cursor/2026-04-30-vulnerability-scanner-b19b70|Vulnerability Scanner]] · Safety and Privacy
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-04-18 · Claude Code · [[Changes/Claude Code/2026-04-18-fixed-a-crash-in-the-permission-dialog-when-an-agent-teams-teammate-requested-to|Fixed a crash in the permission dialog when an agent teams teammate requested tool…]]
-- Later: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-dangerously-skip-permissions-now-bypasses-prompts-for-writes-to-claude-git-vscod|--dangerously-skip-permissions now bypasses prompts for writes to .claude/…]]
+- Earlier: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-4-safety-and-privacy-changes-in-v2-1-119|4 Safety and Privacy changes in v2.1.119]]
+- Later: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-3-safety-and-privacy-changes-in-v2-1-126|3 Safety and Privacy changes in v2.1.126]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

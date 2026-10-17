@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: dab43e5472b335b65d790b47ff926f8791f24c79694cb35a297689ecfddae266
+machine_hash: f898045e42f760a69611b78c4386a1df59da5addc19f474b5f6178619683328a
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   updating GPT-5.5 Instant in ChatGPT and the API to improve response style…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9|claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: The lean system prompt is now the default for all models except Haiku, Sonnet…
 type: change

@@ -12,9 +12,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 1b389d7c75a3afb51946e43471973d08bcb98b040817b8aa349e3502ba60a160
+kind: change
+machine_hash: 7c30fbd438837e9ae559af0fcb288041ca8ebc8d5606e530144bf0a84b681097
 product: cursor
 product_name: Cursor
 record:
@@ -25,32 +26,32 @@ record:
   evidence:
   - quote: The AI linter now shows diffs!
     source_release: https://cursor.com/changelog/0-2-34-nightly
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: the-ai-linter-now-shows-diffs
   source_release: cursor-2023-06-17-0-2-34-nightly-https-cursor-com-changelog-0-2-34-nightly-12d24396
   source_type: cursor_changelog
   theme: developer-workflow
-  title: The AI linter now shows diffs!
+  title: Diffs in AI linter feedback
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-04-29-working-remote-ssh-support-through-the-openremote-ssh-extension|🌐
-  Working remote ssh support through the "OpenRemote - SSH" extension]]'
-- '[[Changes/Cursor/2023-05-17-press-cmd-d-to-auto-debug-a-terminal-error|Press Cmd+D
-  to auto-debug a terminal error]]'
+- '[[Changes/Cursor/2023-05-17-remote-ssh-is-easier-to-use|Remote SSH is easier to
+  use!]]'
+- '[[Changes/Cursor/2023-05-17-in-terminal-debugging-f140b2|In-terminal Debugging]]'
 - '[[Changes/Cursor/2023-06-14-small-fix-for-a-format-on-save-bug-that-was-introduced-in-the-last-release-some|Small
-  fix for a format-on-save bug that was introduced in the last release]]'
+  improvements]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-17-0-2-34-nightly-https-cursor-com-changelog-0-2-34-nightly-12d24396|cursor-2023-06-17-0-2-34-nightly-https-cursor-com-changelog-0-2-34-nightly-12d24396]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: The AI linter now shows diffs!
+title: Diffs in AI linter feedback
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# The AI linter now shows diffs!
+# Diffs in AI linter feedback
 
 **Cursor** · 2023-06-17 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://cursor.com/changelog/0-2-34-nightly) · from [[Releases/Cursor/cursor-2023-06-17-0-2-34-nightly-https-cursor-com-changelog-0-2-34-nightly-12d24396|Diffs in AI linter feedback]]
 <!-- chronolog:end -->
@@ -68,7 +69,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-06-14 · Cursor · [[Changes/Cursor/2023-06-14-small-fix-for-a-format-on-save-bug-that-was-introduced-in-the-last-release-some|Small fix for a format-on-save bug that was introduced in the last release]]
+- Earlier: 2023-06-14 · Cursor · [[Changes/Cursor/2023-06-14-small-fix-for-a-format-on-save-bug-that-was-introduced-in-the-last-release-some|Small improvements]]
 - Later: 2023-06-24 · Cursor · [[Changes/Cursor/2023-06-24-chat-was-failing-on-some-non-git-folders-that-is-now-fixed|Chat was failing on some non-git folders]]
 <!-- chronolog:end -->
 

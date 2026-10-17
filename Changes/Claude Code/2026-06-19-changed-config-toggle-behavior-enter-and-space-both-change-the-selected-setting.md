@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 73045819c502ce926abd19cc10843f4998c72b72be9d2cb492e25a1d03dd9083
+kind: change
+machine_hash: 323ab9d69036d055cae96fb511296a217e3ee75bc3d1ee7ce38495cc4cc88a28
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   - quote: 'Changed `/config` toggle behavior: Enter and Space both change the selected
       setting, and Esc now saves and closes instead of reverting'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.183
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: changed-config-toggle-behavior-enter-and-space-both-change-the-selected-setting
@@ -74,6 +76,7 @@ type: change
 - [[Changes/Claude Code/2026-06-19-added-config-help-to-list-all-available-shorthand-keys-for-config-key-value|Added /config --help to list all available shorthand keys for /config key=value]] · Interface Experience
 - [[Changes/Claude Code/2026-06-19-added-a-warning-when-the-requested-model-is-deprecated-or-automatically-updated|Added a warning when the requested model is deprecated or automatically updated…]] · Model Support
 - [[Changes/Claude Code/2026-06-19-added-attribution-sessionurl-setting-to-omit-the-claude-ai-session-link-from-com|Added attribution.sessionUrl setting to omit the claude.ai session link…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-06-19-removed-the-startup-setup-issues-line-under-the-logo-run-doctor-to-see-configura|Removed the startup "setup issues" line under the logo]] · Developer Workflow
 - [[Changes/Claude Code/2026-06-19-improved-auto-mode-safety-destructive-git-commands-git-reset-hard-git-checkout-g|Improved auto mode safety]] · Agent Mode
 <!-- chronolog:end -->
 
@@ -81,7 +84,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-easier-pinning-and-sidebar-organization-it-s-now-easier-to-keep-important-work-c|Easier pinning and sidebar organization]]
-- Later: 2026-06-23 · Claude Code · [[Changes/Claude Code/2026-06-23-added-org-configured-model-restrictions-to-the-model-picker-model-model-and-anth|Added org-configured model restrictions to the model picker, --model, /model…]]
+- Later: 2026-06-23 · Claude Code · [[Changes/Claude Code/2026-06-23-2-interface-experience-changes-in-v2-1-187|2 Interface Experience changes in v2.1.187]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

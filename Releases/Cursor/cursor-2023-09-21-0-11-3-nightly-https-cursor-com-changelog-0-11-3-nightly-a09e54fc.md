@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-09-21'
 description: 'Cursor release Cmd-K in the terminal! on 2023-09-21: 1 tracked change
   across Editor Experience'
-machine_hash: 0fb72ddba39dfcfe85e1bbf3397f81c525365b942218e88c9e5755b2d0b6f4b0
+machine_hash: 1852d1d7cccdb7482c88e4a1604531a0ab6dad3867f600ffc71bac3067bd273a
 product: cursor
 product_name: Cursor
 record:
@@ -39,10 +39,10 @@ version: 0.11.3-nightly
 <!-- chronolog:begin region="summary" -->
 Hacky first version of cmd-K in the terminal! Let us know what you think.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-09-21-hacky-first-version-of-cmd-k-in-the-terminal-let-us-know-what-you-think|Hacky first version of cmd-K in the terminal!]] · Editor Experience
+- [[Changes/Cursor/2023-09-21-hacky-first-version-of-cmd-k-in-the-terminal-let-us-know-what-you-think|Cmd-K in the terminal!]] · Editor Experience
 <!-- chronolog:end -->

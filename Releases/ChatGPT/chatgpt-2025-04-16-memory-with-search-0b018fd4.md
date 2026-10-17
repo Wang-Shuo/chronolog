@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-04-16'
 description: 'ChatGPT release Memory with Search on 2025-04-16: 1 tracked change across
   Memory and Personalization'
-machine_hash: c8ad8e2f1c806342cf46efb887bf0f0719805719963c87bdef9075907b53d314
+machine_hash: ab8813f78f43742290925de714f9cadc6c181983e999b7ce5c449508afdd5ea4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,10 +39,10 @@ version: Memory with Search
 <!-- chronolog:begin region="summary" -->
 ChatGPT can also use memories to inform search queries when ChatGPT searches the web using third-party search providers. Learn more about search.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-04-16-chatgpt-can-also-use-memories-to-inform-search-queries-when-chatgpt-searches-the|ChatGPT can also use memories to inform search queries when ChatGPT searches the web…]] · Memory and Personalization
+- [[Changes/ChatGPT/2025-04-16-chatgpt-can-also-use-memories-to-inform-search-queries-when-chatgpt-searches-the|Memory with Search]] · Memory and Personalization
 <!-- chronolog:end -->

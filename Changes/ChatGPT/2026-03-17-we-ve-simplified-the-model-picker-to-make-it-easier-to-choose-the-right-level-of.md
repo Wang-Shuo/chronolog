@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: fb28c878112004d561aa949eadc0c8ab9cc1b9747a354bc086de88e2213aba39
+machine_hash: fd70a66f8fbaeccfa460f36a934d020324500dad934e49a369a8e8ec1c7f8d62
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -69,6 +69,7 @@ related_changes:
   Teams and Enterprise plans, Admins can now create team marketplaces to share…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-17-updates-to-the-model-picker-in-chatgpt-764a9949|chatgpt-2026-03-17-updates-to-the-model-picker-in-chatgpt-764a9949]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: enterprise-admin
 title: We’ve simplified the model picker to make it easier to choose the right level
   of reasoning

@@ -4,8 +4,8 @@ date: '2026-03-27'
 description: 'ChatGPT · 2026-03-27 · Apps and Integrations: We’re rolling out updated
   Box, Notion, Linear, and Dropbox apps in ChatGPT. These updates add new app actions…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1100
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 47355cdb7a1c4894aa2d26d4b30cc6f5949ff3ed8e12b4c4437e5ee257ba1a19
+kind: change
+machine_hash: 5ec177d0cd2f212bd6300bdaddbcb66d4578200525bd3945947d5df2a58a84fd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,32 +39,33 @@ record:
       in ChatGPT, reconnect the app to start using the updated experience. Existing
       sync functionality (Pro users only) for these apps is not affected.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-rolling-out-updated-box-notion-linear-and-dropbox-apps-in-chatgpt-these-up
   source_release: chatgpt-2026-03-27-updated-box-notion-linear-and-dropbox-apps-c362d055
   source_type: chatgpt_changelog
   theme: apps-integrations
-  title: ChatGPT rolls out updated Box, Notion, Linear, and Dropbox apps
+  title: Updated Box, Notion, Linear, and Dropbox apps
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-25-added-cwdchanged-and-filechanged-hook-events-for-reactive-environment-management|Added
-  CwdChanged and FileChanged hook events for reactive environment management…]]'
-- '[[Changes/Claude Code/2026-03-26-added-claude-code-mcp-server-name-and-claude-code-mcp-server-url-environment-var|Added
-  CLAUDE_CODE_MCP_SERVER_NAME and CLAUDE_CODE_MCP_SERVER_URL environment…]]'
-- '[[Changes/Claude Code/2026-03-26-deep-link-queries-claude-cli-open-q-now-support-up-to-5-000-characters-with-a-sc|Deep
-  link queries (claude-cli://open?q=…) now support up to 5,000 characters…]]'
+- '[[Changes/Claude Code/2026-03-25-6-apps-and-integrations-changes-in-v2-1-83|6 Apps
+  and Integrations changes in v2.1.83]]'
+- '[[Changes/Claude Code/2026-03-26-5-apps-and-integrations-changes-in-v2-1-84|5 Apps
+  and Integrations changes in v2.1.84]]'
+- '[[Changes/Claude Code/2026-03-26-4-apps-and-integrations-changes-in-v2-1-85|4 Apps
+  and Integrations changes in v2.1.85]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-27-updated-box-notion-linear-and-dropbox-apps-c362d055|chatgpt-2026-03-27-updated-box-notion-linear-and-dropbox-apps-c362d055]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
-title: ChatGPT rolls out updated Box, Notion, Linear, and Dropbox apps
+title: Updated Box, Notion, Linear, and Dropbox apps
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT rolls out updated Box, Notion, Linear, and Dropbox apps
+# Updated Box, Notion, Linear, and Dropbox apps
 
 **ChatGPT** · 2026-03-27 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-27-updated-box-notion-linear-and-dropbox-apps-c362d055|Updated Box, Notion, Linear, and Dropbox apps]]
 <!-- chronolog:end -->
@@ -81,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-deep-link-queries-claude-cli-open-q-now-support-up-to-5-000-characters-with-a-sc|Deep link queries (claude-cli://open?q=…) now support up to 5,000 characters…]]
+- Earlier: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-4-apps-and-integrations-changes-in-v2-1-85|4 Apps and Integrations changes in v2.1.85]]
 - Later: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-reduced-startup-event-loop-stalls-when-many-claude-ai-mcp-connectors-are-configu|Reduced startup event-loop stalls when many claude.ai MCP connectors are configured…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

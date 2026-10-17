@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c2eb6e50764022d095db4d84f6265aae1cecf6132833b712117a82bf8a440f83
+machine_hash: 20f2e080c2b63b26907479024abd9132b0bd97eb2588c0db61a5ae2c137c87cc
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   a "Dynamic workflow size" setting in /config for controlling how large…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8|claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added workflow.run_id and workflow.name OpenTelemetry attributes to telemetry…
 type: change

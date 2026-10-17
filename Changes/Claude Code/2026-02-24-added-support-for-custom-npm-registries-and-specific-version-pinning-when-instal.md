@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 5f81c04a2d73f2eab3ac25a5abd3da1758ffa3eaceb02a04d55668b5e5650f3b
+machine_hash: 0d9cdd79fd37d3d15195407720fdc3a407688a2430ea4774d2e88d5bcd725393
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   mode now also disables MCP tools, attachments, hooks…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c|claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added support for custom npm registries and specific version pinning when installing…
 type: change

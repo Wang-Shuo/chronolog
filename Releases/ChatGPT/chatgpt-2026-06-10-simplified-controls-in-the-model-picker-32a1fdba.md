@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 4
 date: '2026-06-10'
 description: 'ChatGPT release Simplified controls in the model picker on 2026-06-10:
-  5 tracked changes across Model Support, Interface Experience, Mobile and Desktop'
-machine_hash: 1c441b29892888084c3d7fcb507b0b5afb9d29c0b65c65fb655409fc16bde1dc
+  4 tracked changes across Model Support, Interface Experience'
+machine_hash: 6cde0933964c41a7bd77824d5fa644ab936348f2d83acfef44e08faa138aa174
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,14 +40,13 @@ version: Simplified controls in the model picker
 <!-- chronolog:begin region="summary" -->
 We’re updating the model picker to make it easier to choose the balance of speed and reasoning effort that works best for your task.The model picker now has the following simplified options:
 
-Tracked 5 of 8 candidate lines.
+Tracked 4 cards from 8 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - [[Changes/ChatGPT/2026-06-10-pro-extended-pro-plans-only|Pro Extended Pro plans only]] · Model Support
 - [[Changes/ChatGPT/2026-06-10-extra-high-pro-plans-only|Extra High Pro plans only]] · Model Support
-- [[Changes/ChatGPT/2026-06-10-on-ios-and-android-you-can-find-the-picker-at-the-top-of-the-conversation-on-web|On iOS and Android, you can find the picker at the top of the conversation]] · Mobile and Desktop
-- [[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed|We’re updating the model picker to make it easier to choose the balance of speed…]] · Interface Experience
+- [[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed-b05795|We’re updating the model picker to make it easier to choose the balance of speed…]] · Interface Experience
 - [[Changes/ChatGPT/2026-06-10-pro-standard-pro-plans-only|Pro Standard Pro plans only]] · Model Support
 <!-- chronolog:end -->

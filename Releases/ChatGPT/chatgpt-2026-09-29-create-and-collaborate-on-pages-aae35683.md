@@ -3,7 +3,7 @@ changes_count: 2
 date: '2026-09-29'
 description: 'ChatGPT release Create and collaborate on Pages on 2026-09-29: 2 tracked
   changes across Editor Experience, Memory and Personalization'
-machine_hash: 55c8ff5cc45ce2f4cc0cafbd2862509a8ad586fb402a1c947889c3b5df9009f8
+machine_hash: cb97380b4301448c949c15de0ba32ed1aaa350b630ec67fe1ab2c56a6cf17da9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ version: Create and collaborate on Pages
 <!-- chronolog:begin region="summary" -->
 Turn a conversation into a Page, start from a template, or begin writing directly in Space. Edit the text yourself or ask ChatGPT to revise it, add charts, or create interactive content. Collaborators can work on the same Page and leave comments, with each person using their own ChatGPT.
 
-Tracked 2 of 2 candidate lines.
+Tracked 2 cards from 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

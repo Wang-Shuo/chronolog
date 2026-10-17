@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 049e218800e00a6129151a108211469644c6da46568a9a0571c458531fda2e58
+kind: change
+machine_hash: f4ad3abe2fa6dbf831bb1796d3d775b6570f6f4ad07602845d03bf4229911994
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,8 +32,9 @@ record:
       and collaborative, with enhanced instruction-following, smarter coding capabilities,
       and a clearer communication style.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-ve-made-improvements-to-gpt-4o-it-now-feels-more-intuitive-creative-and-colla
@@ -44,12 +46,12 @@ record:
   title: ChatGPT makes improvements to GPT-4o—it now feels more intuitive, creative…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-11-0-47-7-max-mode-for-3-7-sonnet-with-and-without-thinking|0.47.7:
-  MAX mode for 3.7 Sonnet with and without thinking]]'
-- '[[Changes/Cursor/2025-03-11-0-47-5-client-side-support-for-upcoming-max-mode-compatibility-for-claude-3-7-so|0.47.5:
-  Client-side support for upcoming MAX mode compatibility for Claude 3.7 Sonnet]]'
-- '[[Changes/ChatGPT/2025-03-18-2-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-a|o1
+- '[[Changes/Cursor/2025-03-11-3-model-support-changes-in-0-47-x|3 Model Support changes
+  in 0.47.x]]'
+- '[[Changes/ChatGPT/2025-03-18-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-ask-bfa530|o1
   and o3-mini now offer Python-powered data analysis in ChatGPT]]'
+- '[[Changes/Cursor/2025-03-23-2-model-support-changes-in-0-48-x|2 Model Support changes
+  in 0.48.x]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7|chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -72,16 +74,16 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2025-03-27-early-testers-say-that-the-model-seems-to-better-understand-the-implied-intent-b|Early testers say that the model seems to better understand the implied intent…]] · Model Support
-- [[Changes/ChatGPT/2025-03-27-gpt-4o-has-further-improved-its-capability-to-tackle-complex-technical-and-codin|GPT-4o has further improved its capability to tackle complex technical and coding problems]] · Model Support
-- [[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|GPT-4o is now more adept at following detailed instructions, especially for prompts…]] · Model Support
+- [[Changes/ChatGPT/2025-03-27-early-testers-say-that-the-model-seems-to-better-understand-the-implied-intent-b|“Fuzzy” improvements]] · Model Support
+- [[Changes/ChatGPT/2025-03-27-gpt-4o-has-further-improved-its-capability-to-tackle-complex-technical-and-codin|Smarter problem-solving in STEM and coding]] · Model Support
+- [[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|Enhanced instruction-following and formatting accuracy]] · Model Support
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-2-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-a|o1 and o3-mini now offer Python-powered data analysis in ChatGPT]]
-- Later: 2025-04-10 · ChatGPT · [[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Effective April 30, 2025, GPT‑4 will be retired from ChatGPT and fully replaced by GPT‑4o]]
+- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-2-model-support-changes-in-0-48-x|2 Model Support changes in 0.48.x]]
+- Later: 2025-04-10 · ChatGPT · [[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Sunsetting GPT‑4 in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

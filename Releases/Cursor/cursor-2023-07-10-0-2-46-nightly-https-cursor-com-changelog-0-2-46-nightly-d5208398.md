@@ -3,7 +3,7 @@ changes_count: 2
 date: '2023-07-10'
 description: 'Cursor release Experimental: interface agent! on 2023-07-10: 2 tracked
   changes across Agent Mode'
-machine_hash: c225e60f505d431edefc6aa217474932a65c91492b4edd92d1e03f457d0c17b7
+machine_hash: 1cd6ce07c33981d1200224a4d6c4b88788d4d5135ab29fa1857beffb102d98dc
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.2.46-nightly
 <!-- chronolog:begin region="summary" -->
 This nightly build comes with experimental interface agent support!
 
-Tracked 2 of 8 candidate lines.
+Tracked 2 cards from 8 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

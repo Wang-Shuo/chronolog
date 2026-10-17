@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 5d7dfaa425875453a8de407332b47b86104b1af5dc9573282f8161d99abd6726
+machine_hash: bc1ae7d71baacba5126ee241d40985e59570b3ec331125cacd95b0a2bd8d2b80
 product: claude-code
 product_name: Claude Code
 record:
@@ -60,6 +60,7 @@ related_changes:
   claude agents --json to list live Claude sessions as JSON for scripting…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-144-github-324524751-1469637a|claude-code-2026-05-19-v2-1-144-github-324524751-1469637a]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added elapsed duration to background subagent completion notifications…
 type: change

@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b74cbe173a9eacf474d27b219e4dfb41889bf88e493b7a2c108d162eae8a8066
+machine_hash: 39c6b2dcd75a4e2efede197f7c6a8ef3fb0ee3b0970d6f15259fbe98c9a16d43
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   gear]]'
 source_release: '[[Releases/Cursor/cursor-2023-04-19-0-2-6-https-cursor-com-changelog-0-2-6-a339bef2|cursor-2023-04-19-0-2-6-https-cursor-com-changelog-0-2-6-a339bef2]]'
 source_type: cursor_changelog
+superseded: true
 theme: model-support
 title: Better quality for all AI features
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b359369239a7d31514488384513243492e821dd461cbf7339f40f93e514cbec6
+machine_hash: b6866544b6c92d4bb9488f06d03bfc98634e0c084d626856c748922f9a936c75
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,6 +50,7 @@ related_changes:
   a prompt]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d|chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: collaboration
 title: Share with specific people
 type: change

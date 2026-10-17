@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: eed53459bbc97c4366f21276ab96235f94ffb281402f144b2a59e833da2f6a59
+machine_hash: cac4d13314933dc6e6c0896d08852d5f504df327055ce2a5f2c3a1acec0f1a32
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,6 +58,7 @@ related_changes:
   clickable file attachments in chat]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6|chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: file-data
 title: We’re starting to roll out a new health experience in ChatGPT
 type: change

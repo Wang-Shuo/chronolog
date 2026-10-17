@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c84f53f1e7d2a368a9d148984279088123632d3bbff986ced0e3e65069534580
+machine_hash: 5cabbf6fe1b78a1982b510287383219c536a5639a37b323318770eafdd4c532a
 product: cursor
 product_name: Cursor
 record:
@@ -48,6 +48,7 @@ related_changes:
 - '[[Changes/Cursor/2023-03-25-fuzzy-search-for-file-names|Fuzzy search for file names]]'
 source_release: '[[Releases/Cursor/cursor-2023-04-06-0-2-0-https-cursor-com-changelog-0-2-0-2dbfe24a|cursor-2023-04-06-0-2-0-https-cursor-com-changelog-0-2-0-2dbfe24a]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: While currently similar to a standard code editor with AI features, we plan…
 type: change

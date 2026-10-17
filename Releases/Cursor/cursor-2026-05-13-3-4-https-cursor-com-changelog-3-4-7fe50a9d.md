@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 7
 date: '2026-05-13'
-description: 'Cursor release Full-screen Tabs and Compact Chats on 2026-05-13: 5 tracked
-  changes across Agent Mode, Interface Experience, Context Window'
-machine_hash: f6dd1b1e3eefdd8f37c4cf8ac4bd0b1e01514d7b3bba0e9978dd11a9568f9430
+description: 'Cursor release Full-screen Tabs and Compact Chats on 2026-05-13: 7 tracked
+  changes across Interface Experience, Agent Mode, Apps and Integrations, Context…'
+machine_hash: 361e455b7a98bb43152fad40647522f616295de0b8d7ebc9fbef7362d0ba9194
 product: cursor
 product_name: Cursor
 record:
@@ -39,14 +39,16 @@ version: '3.4'
 <!-- chronolog:begin region="summary" -->
 This release introduces quality-of-life improvements to the Agents Window.
 
-Tracked 5 of 28 candidate lines.
+Tracked 7 cards from 28 candidate lines; 2 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-05-13-compact-chats-give-you-a-tighter-view-of-your-agent-conversations-so-you-can-rea|Compact chats give you a tighter view of your agent conversations so you can read…]] · Context Window
-- [[Changes/Cursor/2026-05-13-files-changes-canvases-prs-browsers-and-terminals-can-expand-to-fill-the-entire|Files, changes, canvases, PRs, browsers, and terminals can expand to fill the entire…]] · Agent Mode
-- [[Changes/Cursor/2026-05-13-full-screen-maximizes-the-right-panel-so-you-can-focus-on-a-single-tab|Full screen maximizes the right panel so you can focus on a single tab]] · Interface Experience
-- [[Changes/Cursor/2026-05-13-this-release-introduces-quality-of-life-improvements-to-the-agents-window|Cursor introduces quality-of-life improvements to the Agents Window]] · Agent Mode
-- [[Changes/Cursor/2026-05-13-enter-and-exit-full-screen-by-clicking-on-the-expand-contract-button-in-the-pane|Enter and exit full screen by clicking on the expand/contract button in the panel…]] · Interface Experience
+- [[Changes/Cursor/2026-05-13-improved-mcp-auth-token-lifecycle-handling|Improved MCP auth token lifecycle handling]] · Apps and Integrations
+- [[Changes/Cursor/2026-05-13-compact-chat-responses|Compact chat responses]] · Context Window · Launch
+- [[Changes/Cursor/2026-05-13-improved-pr-tabs-by-adding-clearer-review-states-better-reviewer-thread-visibili|Improved PR tabs by adding clearer review states, better reviewer/thread visibility…]] · Editor Experience
+- [[Changes/Cursor/2026-05-13-this-release-introduces-quality-of-life-improvements-to-the-agents-window|Cursor introduces quality-of-life improvements to the Agents Window]] · Agent Mode · Launch
+- [[Changes/Cursor/2026-05-13-removed-noisy-in-app-terminal-notifications-and-improved-shortcut-behavior|Removed noisy in-app terminal notifications and improved shortcut behavior]] · Developer Workflow
+- [[Changes/Cursor/2026-05-13-3-interface-experience-changes-in-3-4|3 Interface Experience changes in 3.4]] · Interface Experience · Digest
+- [[Changes/Cursor/2026-05-13-full-screen-tabs-faa5d2|Full-screen tabs]] · Interface Experience · Launch
 <!-- chronolog:end -->

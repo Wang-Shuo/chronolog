@@ -4,8 +4,8 @@ date: '2026-07-01'
 description: 'Claude Code · 2026-07-01 · Apps and Integrations: Added `/dataviz` skill
   for chart and dashboard design guidance with a runnable color-palette validator'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1196
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: c36cb8d3ba035f974ed3ad16d006a31bac28a261276f728f720018d2bd94c692
+kind: change
+machine_hash: c7da68e1eb3feb55c233e58ab2946dc84556be155ed89b56b63b772c0b080fee
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added `/dataviz` skill for chart and dashboard design guidance with a runnable
       color-palette validator
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.198
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-dataviz-skill-for-chart-and-dashboard-design-guidance-with-a-runnable-colo
@@ -42,10 +44,10 @@ record:
   title: Added `/dataviz` skill for chart and dashboard design guidance with a runnable…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-30-when-an-admin-sets-up-team-mcp-servers-for-cloud-agents-they-can-make-those-same-3d5f04|When
-  an admin sets up Team MCP servers for cloud agents, they can make those same…]]'
-- '[[Changes/Cursor/2026-06-30-admins-can-now-configure-team-mcp-servers-once-and-distribute-them-across-cloud|Admins
-  can now configure Team MCP servers once and distribute them across cloud…]]'
+- '[[Changes/Claude Code/2026-06-25-2-apps-and-integrations-changes-in-v2-1-193|2
+  Apps and Integrations changes in v2.1.193]]'
+- '[[Changes/Claude Code/2026-06-29-remote-control-is-now-disabled-when-anthropic-base-url-points-at-a-non-anthropic|Remote
+  Control is now disabled when ANTHROPIC_BASE_URL points at a non-Anthropic…]]'
 - '[[Changes/Claude Code/2026-07-01-claude-in-chrome-is-now-generally-available|Claude
   in Chrome is now generally available]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab|claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab]]'
@@ -70,23 +72,26 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-07-01-subagents-now-run-in-the-background-by-default-so-claude-keeps-working-while-the|Subagents now run in the background by default, so Claude keeps working while they…]] · Agent Mode
-- [[Changes/Claude Code/2026-07-01-added-background-agent-notifications-in-claude-agents-sessions-that-need-input-o|Added background agent notifications in claude agents]] · Agent Mode
+- [[Changes/Claude Code/2026-07-01-background-agents-launched-from-claude-agents-now-commit-push-and-open-a-draft-p|Background agents launched from claude agents now commit, push, and open a draft…]] · Developer Workflow
+- [[Changes/Claude Code/2026-07-01-2-interface-experience-changes-in-v2-1-198|2 Interface Experience changes in v2.1.198]] · Interface Experience
+- [[Changes/Claude Code/2026-07-01-login-now-opens-the-sign-in-dialog-from-the-claude-agents-view-instead-of-saying|/login now opens the sign-in dialog from the claude agents view instead…]] · Account and Access
 - [[Changes/Claude Code/2026-07-01-claude-in-chrome-is-now-generally-available|Claude in Chrome is now generally available]] · Apps and Integrations
-- [[Changes/Claude Code/2026-07-01-gateway-added-claude-platform-on-aws-anthropicaws-as-an-upstream-provider-model|Gateway: added Claude Platform on AWS (anthropicAws) as an upstream provider]] · Model Support
+- [[Changes/Claude Code/2026-07-01-2-model-support-changes-in-v2-1-198|2 Model Support changes in v2.1.198]] · Model Support
+- [[Changes/Claude Code/2026-07-01-5-agent-mode-changes-in-v2-1-198|5 Agent Mode changes in v2.1.198]] · Agent Mode
+- [[Changes/Claude Code/2026-07-01-subagents-and-context-compaction-now-inherit-the-session-s-extended-thinking-con|Subagents and context compaction now inherit the session's extended thinking…]] · Context Window
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-30 · Cursor · [[Changes/Cursor/2026-06-30-admins-can-now-configure-team-mcp-servers-once-and-distribute-them-across-cloud|Admins can now configure Team MCP servers once and distribute them across cloud…]]
+- Earlier: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-remote-control-is-now-disabled-when-anthropic-base-url-points-at-a-non-anthropic|Remote Control is now disabled when ANTHROPIC_BASE_URL points at a non-Anthropic…]]
 - Later: 2026-07-02 · Claude Code · [[Changes/Claude Code/2026-07-02-stacked-slash-skill-invocations-like-skill-a-skill-b-do-xyz-now-load-all-leading|Stacked slash-skill invocations like /skill-a /skill-b do XYZ now load all leading…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

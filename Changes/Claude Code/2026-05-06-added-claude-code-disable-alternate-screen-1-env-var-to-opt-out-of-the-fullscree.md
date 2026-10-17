@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1eb4db647382eabeb3ae1960755e89bd010d92d36da64173bff56c8c12aac19f
+machine_hash: 38762ae0b3e316d4060c13ffac710c8deefe32ed1714e104095103f53a7709b2
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,6 +61,7 @@ related_changes:
   CLAUDE_CODE_FORCE_SYNC_OUTPUT=1 env var to force-enable synchronized output…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664|claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1 env var to opt out of the fullscreen…
 type: change

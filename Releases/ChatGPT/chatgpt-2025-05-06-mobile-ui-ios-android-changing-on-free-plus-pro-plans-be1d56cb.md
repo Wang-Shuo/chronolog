@@ -1,9 +1,9 @@
 ---
-changes_count: 2
+changes_count: 1
 date: '2025-05-06'
 description: 'ChatGPT release Mobile UI (iOS/Android) changing on Free/Plus/Pro plans
-  on 2025-05-06: 2 tracked changes across Interface Experience, Mobile and Desktop'
-machine_hash: 0f61eb4d793791e84a744eaae9067804a1f178e7807279f8347567a78a3f9d13
+  on 2025-05-06: 1 tracked change across Mobile and Desktop'
+machine_hash: 6ab7afe6dfa1e3770d9b2c1596fda02f2cf8a7d276dc6afacd956205a086d12e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,11 +41,10 @@ version: Mobile UI (iOS/Android) changing on Free/Plus/Pro plans
 <!-- chronolog:begin region="summary" -->
 We've removed the row of individual tool icons from the mobile composer and replaced it with the new sliders‑style icon to open the Skills menu; tapping that button opens a bottom‑sheet menu where users can choose tools like Create an image or Search the web.
 
-Tracked 2 of 2 candidate lines.
+Tracked 1 card from 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-05-06-no-tools-are-deprecated-access-is-simply-consolidated-to-clear-space-and-reduce|No tools are deprecated—access is simply consolidated to clear space and reduce…]] · Interface Experience
-- [[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a7377a|We've removed the row of individual tool icons from the mobile composer and replaced…]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a35dd7|Mobile UI (iOS/Android) changing on Free/Plus/Pro plans]] · Mobile and Desktop
 <!-- chronolog:end -->

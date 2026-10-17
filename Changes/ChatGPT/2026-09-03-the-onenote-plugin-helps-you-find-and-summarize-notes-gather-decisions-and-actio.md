@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9495f50b7767d3f53c9eb8daea675313f83bd7a3361b1a766a4d683367547efd
+machine_hash: b3852d1d97cc338a371c99de99a2e41fdff1617cd65014b1e54a42e1540a12f5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,6 +51,7 @@ related_changes:
   managedMcpServers managed setting]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-03-zendesk-onenote-plugins-in-chatgpt-and-codex-beta-d31462ff|chatgpt-2026-09-03-zendesk-onenote-plugins-in-chatgpt-and-codex-beta-d31462ff]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: apps-integrations
 title: The OneNote plugin helps you find and summarize notes, gather decisions and
   action…

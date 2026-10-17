@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 657e5b62723b389869935a0210d0172e240973ff97b352dd3352768ab41aa8da
+kind: change
+machine_hash: d3d76506e77793ec0fefd751c52ccc107ccb76965dbb9eb82f0cd4cfd0b9c98f
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Improved read/search progress indicators to show "Reading…" while in progress
       and "Read" when complete
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.21
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-read-search-progress-indicators-to-show-reading-while-in-progress-and-r
@@ -44,10 +46,10 @@ record:
 related_changes:
 - '[[Changes/Claude Code/2026-01-20-improved-backspace-to-delete-pasted-text-as-a-single-token-instead-of-one-charac|Improved
   backspace to delete pasted text as a single token instead of one character…]]'
-- '[[Changes/Claude Code/2026-01-27-added-pr-review-status-indicator-to-the-prompt-footer-showing-the-current-branch|Added
-  PR review status indicator to the prompt footer, showing the current branch''s…]]'
-- '[[Changes/Claude Code/2026-01-27-added-arrow-key-history-navigation-in-vim-normal-mode-when-cursor-cannot-move-fu|Added
-  arrow key history navigation in vim normal mode when cursor cannot move further]]'
+- '[[Changes/Cursor/2026-01-22-2-interface-experience-changes-in-2-4|2 Interface Experience
+  changes in 2.4]]'
+- '[[Changes/Claude Code/2026-01-27-2-interface-experience-changes-in-v2-1-20|2 Interface
+  Experience changes in v2.1.20]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-28-v2-1-21-github-280523920-bba74245|claude-code-2026-01-28-v2-1-21-github-280523920-bba74245]]'
 source_type: github_releases
 theme: interface-experience
@@ -78,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-added-arrow-key-history-navigation-in-vim-normal-mode-when-cursor-cannot-move-fu|Added arrow key history navigation in vim normal mode when cursor cannot move further]]
-- Later: 2026-01-29 · Claude Code · [[Changes/Claude Code/2026-01-29-improved-terminal-rendering-performance-with-optimized-screen-data-layout|Improved terminal rendering performance with optimized screen data layout]]
+- Earlier: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-2-interface-experience-changes-in-v2-1-20|2 Interface Experience changes in v2.1.20]]
+- Later: 2026-01-29 · Claude Code · [[Changes/Claude Code/2026-01-29-3-interface-experience-changes-in-v2-1-23|3 Interface Experience changes in v2.1.23]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-04-30'
 description: 'ChatGPT release Advanced Account Security in ChatGPT on 2026-04-30:
   1 tracked change across Account and Access'
-machine_hash: 81e69e984d551b8f37370733bd4c043be79fa3eea5d9b88acbaebbffb4225c0f
+machine_hash: 8d4fcfca3ec9908ce9c3b2f27e1a9d2f014415f8bd89b15a54b94965036a2d15
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: Advanced Account Security in ChatGPT
 <!-- chronolog:begin region="summary" -->
 We’re rolling out Advanced Account Security, an optional setting for personal ChatGPT accounts that adds stronger sign-in requirements and stricter account safeguards to help reduce the risk of ATO (account take over), unauthorized access, and data exposure.With Advanced Account Security enabled, ChatGPT uses stronger…
 
-Tracked 1 of 2 candidate lines.
+Tracked 1 card from 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-04-30-we-re-rolling-out-advanced-account-security-an-optional-setting-for-personal-cha|ChatGPT rolls out Advanced Account Security, an optional setting for personal…]] · Account and Access
+- [[Changes/ChatGPT/2026-04-30-we-re-rolling-out-advanced-account-security-an-optional-setting-for-personal-cha|Advanced Account Security in ChatGPT]] · Account and Access
 <!-- chronolog:end -->

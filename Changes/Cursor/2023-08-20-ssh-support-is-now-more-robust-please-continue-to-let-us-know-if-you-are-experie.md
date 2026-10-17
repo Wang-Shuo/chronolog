@@ -14,9 +14,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 047f117a0db27aed5ee204995ee2a97810b12af7ef073d80b59f0393e3948024
+kind: change
+machine_hash: fb526125fb8ce1d7d77d642e9fadfa30f45313cbecdc34cbd4e7c5e353377f22
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +32,9 @@ record:
   - quote: SSH support is now more robust! Please continue to let us know if you are
       experiencing any SSH problems.
     source_release: https://cursor.com/changelog/0-7-16-nightly
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie
@@ -41,7 +43,7 @@ record:
   theme: reliability-performance
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: SSH support is now more robust!
+  title: More robust SSH support
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2023-02-13-based-on-user-feedback-we-are-now-defaulting-plus-users-to-a-faster-version-of-c|Based
@@ -53,12 +55,12 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-08-20-0-7-16-nightly-https-cursor-com-changelog-0-7-16-nightly-44582b7b|cursor-2023-08-20-0-7-16-nightly-https-cursor-com-changelog-0-7-16-nightly-44582b7b]]'
 source_type: cursor_changelog
 theme: reliability-performance
-title: SSH support is now more robust!
+title: More robust SSH support
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# SSH support is now more robust!
+# More robust SSH support
 
 **Cursor** · 2023-08-20 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://cursor.com/changelog/0-7-16-nightly) · from [[Releases/Cursor/cursor-2023-08-20-0-7-16-nightly-https-cursor-com-changelog-0-7-16-nightly-44582b7b|More robust SSH support]]
 <!-- chronolog:end -->
@@ -77,7 +79,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2023-07-26 · Cursor · [[Changes/Cursor/2023-07-26-removes-a-check-in-the-chat-that-slows-the-chat-down-in-certain-cases|Removes a check in the chat that slows the chat down in certain cases]]
-- Later: 2023-09-05 · Cursor · [[Changes/Cursor/2023-09-05-updates-to-docs-try-pasting-a-link-in-chat-you-can-delete-edit-docs-you-can-see|Updates to docs…]]
+- Later: 2023-08-22 · Cursor · [[Changes/Cursor/2023-08-22-ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie|SSH support is now more robust!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

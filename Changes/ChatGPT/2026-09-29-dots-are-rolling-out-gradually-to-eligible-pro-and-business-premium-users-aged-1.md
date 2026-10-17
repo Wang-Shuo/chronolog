@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 448459700522dff9d675155cddb21d9882d6543708e37e94938f904ff5c7a5d2
+machine_hash: 8eaf96bd2a18fb583a59880024b312219f73d8320a326a9c191d7461148c838d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,6 +64,7 @@ related_changes:
   sharing and the Sites showcase are available on web and desktop]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-meet-your-dot-8b9f914b|chatgpt-2026-09-29-meet-your-dot-8b9f914b]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: enterprise-admin
 title: Dots are rolling out gradually to eligible Pro and Business Premium users aged
   18…

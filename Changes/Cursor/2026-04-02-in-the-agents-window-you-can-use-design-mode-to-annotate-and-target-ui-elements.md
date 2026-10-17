@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8a871a02b1b2addc7dd92a38749396b2df31432b44ee84f660e10cc916756318
+machine_hash: 611fff1bdf7d2b34072127b9762db93ba0bc356f98cb6ef899f1daf823d8cc19
 product: cursor
 product_name: Cursor
 record:
@@ -48,6 +48,7 @@ related_changes:
   named subagents to @ mention typeahead suggestions]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: In the Agents Window, you can use Design Mode to annotate and target UI elements…
 type: change

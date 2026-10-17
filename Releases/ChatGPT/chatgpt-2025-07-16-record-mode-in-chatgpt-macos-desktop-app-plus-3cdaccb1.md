@@ -3,7 +3,7 @@ changes_count: 2
 date: '2025-07-16'
 description: 'ChatGPT release Record mode in ChatGPT macOS desktop app (Plus) on 2025-07-16:
   2 tracked changes across Mobile and Desktop, Voice and Audio'
-machine_hash: fc21f1c569d129931ad7ab40e396601fbdf572f4320745bdb45e436f3ded14ca
+machine_hash: 8894c092d9d28e315cf91c5aad0a64676e5dc7fa7bde2d2b2fd950a97f90b4e0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,11 +39,11 @@ version: Record mode in ChatGPT macOS desktop app (Plus)
 <!-- chronolog:begin region="summary" -->
 Record mode is now available to ChatGPT Plus users globally in the macOS desktop app.
 
-Tracked 2 of 4 candidate lines.
+Tracked 2 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - [[Changes/ChatGPT/2025-07-16-record-live-conversations-like-team-meetings-or-voice-notes-and-turn-those-into|Record live conversations like team meetings or voice notes, and turn those…]] · Voice and Audio
-- [[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|Record mode is now available to ChatGPT Plus users globally in the macOS desktop app]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|Record mode is now available to ChatGPT Plus users globally in the macOS desktop app]] · Mobile and Desktop · Expansion
 <!-- chronolog:end -->

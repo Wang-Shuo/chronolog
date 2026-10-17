@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 415156985f39ef0fccef70a588b7a87764bc193905e291c41755dbb9f4541c2a
+machine_hash: 4e2d3b29f8131c051b17bc5f52123fb852c8006cf44d9c3569f91ad5cda04792
 product: cursor
 product_name: Cursor
 record:
@@ -64,6 +64,7 @@ related_changes:
   automatically summarizes long conversation for you when reaching the context…]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb|cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: Generate a read-only transcript of any agent conversation to include in your
   PRs…

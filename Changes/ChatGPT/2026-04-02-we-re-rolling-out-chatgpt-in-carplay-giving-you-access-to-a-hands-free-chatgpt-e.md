@@ -15,9 +15,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: f2f1ff09f487eccdb18ec0dad449a5f093422344ec6330d9d939fe0921dd76fc
+kind: change
+machine_hash: c8d4535d3c300658bb64a8e15a4062008943caafa5a670b3c98f2437e4ae55cf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,8 +40,9 @@ record:
       from the CarPlay interface. You can also resume existing conversations you were
       having using voice mode in the ChatGPT mobile app. Learn more.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-rolling-out-chatgpt-in-carplay-giving-you-access-to-a-hands-free-chatgpt-e
@@ -58,24 +60,24 @@ record:
     - voice
     score: 110
     theme: voice
-  title: ChatGPT rolls out ChatGPT in CarPlay, giving you access to a hands-free ChatGPT…
+  title: ChatGPT in Apple CarPlay
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|To
-  give you more space to view your most critical chats and projects, the sidebar…]]'
-- '[[Changes/ChatGPT/2026-03-26-users-can-now-choose-to-share-their-device-location-so-chatgpt-can-provide-more-7907ed|Users
-  can now choose to share their device location so ChatGPT can provide more…]]'
+- '[[Changes/ChatGPT/2026-03-26-users-can-now-choose-to-share-their-device-location-so-chatgpt-can-provide-more-7907ed|Location
+  Sharing]]'
 - '[[Changes/Claude Code/2026-03-26-added-powershell-tool-for-windows-as-an-opt-in-preview-learn-more-at-https-code|Added
   PowerShell tool for Windows as an opt-in preview]]'
+- '[[Changes/Claude Code/2026-04-01-powershell-tool-on-windows-external-command-arguments-containing-both-a-double-q|PowerShell
+  tool on Windows]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-02-chatgpt-in-apple-carplay-3c2ba8a2|chatgpt-2026-04-02-chatgpt-in-apple-carplay-3c2ba8a2]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: ChatGPT rolls out ChatGPT in CarPlay, giving you access to a hands-free ChatGPT…
+title: ChatGPT in Apple CarPlay
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT rolls out ChatGPT in CarPlay, giving you access to a hands-free ChatGPT…
+# ChatGPT in Apple CarPlay
 
 **ChatGPT** · 2026-04-02 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-02-chatgpt-in-apple-carplay-3c2ba8a2|ChatGPT in Apple CarPlay]]
 <!-- chronolog:end -->
@@ -93,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-added-powershell-tool-for-windows-as-an-opt-in-preview-learn-more-at-https-code|Added PowerShell tool for Windows as an opt-in preview]]
-- Later: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-added-push-notification-tool-claude-can-send-mobile-push-notifications-when-remo|Added push notification tool]]
+- Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-powershell-tool-on-windows-external-command-arguments-containing-both-a-double-q|PowerShell tool on Windows]]
+- Later: 2026-04-13 · Cursor · [[Changes/Cursor/2026-04-13-on-macos-text-is-now-rendered-with-anti-aliasing-producing-sharper-character-edg|On macOS, text is now rendered with anti-aliasing, producing sharper character edges]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

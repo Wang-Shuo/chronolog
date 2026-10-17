@@ -5,19 +5,19 @@ description: 'Claude Code · 2026-06-02 · Collaboration: `OTEL_RESOURCE_ATTRIBU
   values are now included as labels on metric datapoints, so you can slice usage metrics
   by…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
-    can also share private docs]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 998
+  lag_days: 1105
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 1985c75dd6fff4c30da7fc094f3038c4ffac95ca8cb73f38baf921763fb57279
+kind: change
+machine_hash: 25b91f5c82b865f8d3c6a43ab9ed5487c96672fa1e4618f29e44d44823898b0e
 product: claude-code
 product_name: Claude Code
 record:
@@ -32,8 +32,9 @@ record:
       datapoints, so you can slice usage metrics by custom dimensions like team or
       repo'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.161
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: otel-resource-attributes-values-are-now-included-as-labels-on-metric-datapoints
@@ -43,12 +44,11 @@ record:
   title: '`OTEL_RESOURCE_ATTRIBUTES` values are now included as labels on metric datapoints…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-04-customers-with-existing-blocklists-will-need-to-migrate-to-the-new-system-by-jun|Customers
-  with existing blocklists will need to migrate to the new system by June 1st]]'
-- '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is
-  now available in Microsoft Teams]]'
-- '[[Changes/Cursor/2026-05-20-you-can-now-share-canvases-from-cursor-with-your-teammates|Share
-  canvases from Cursor with your teammates]]'
+- '[[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a-b1834a|Admins
+  can now create a team marketplace without connecting a repository first]]'
+- '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams-5c75c9|Cursor
+  is now available in Microsoft Teams]]'
+- '[[Changes/Cursor/2026-05-20-shared-canvases-a27a45|Shared canvases]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa|claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa]]'
 source_type: github_releases
 theme: collaboration
@@ -72,22 +72,23 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-06-02-mcp-now-collapses-claude-ai-connectors-you-ve-never-signed-in-to-behind-a-show-u|/mcp now collapses claude.ai connectors you've never signed in to behind…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-06-02-parallel-tool-calls-a-failed-bash-command-no-longer-cancels-other-calls-in-the-s|Parallel tool calls]] · Developer Workflow
+- [[Changes/Claude Code/2026-06-02-2-interface-experience-changes-in-v2-1-161|2 Interface Experience changes in v2.1.161]] · Interface Experience
 - [[Changes/Claude Code/2026-06-02-claude-agents-rows-now-show-done-total-before-the-detail-when-work-is-fanned-out|claude agents rows now show done/total before the detail when work is fanned out]] · Agent Mode
-- [[Changes/Claude Code/2026-06-02-fullscreen-mode-clipboard-now-uses-wl-copy-xclip-xsel-on-linux-when-available-co|Fullscreen mode: clipboard now uses wl-copy/xclip/xsel on Linux…]] · Interface Experience
+- [[Changes/Claude Code/2026-06-02-improved-rendering-performance-for-large-file-writes|Improved rendering performance for large file writes]] · Reliability and Performance
+- [[Changes/Claude Code/2026-06-02-2-developer-workflow-changes-in-v2-1-161|2 Developer Workflow changes in v2.1.161]] · Developer Workflow
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-05-20 · Cursor · [[Changes/Cursor/2026-05-20-you-can-now-share-canvases-from-cursor-with-your-teammates|Share canvases from Cursor with your teammates]]
-- Later: 2026-06-03 · Cursor · [[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|An organization is the top-level container for your company's identity…]]
+- Earlier: 2026-05-20 · Cursor · [[Changes/Cursor/2026-05-20-shared-canvases-a27a45|Shared canvases]]
+- Later: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-quieter-startup-notices-group-by-severity-and-session-info-and-announcements-sha|Quieter startup: notices group by severity, and session info and announcements share…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

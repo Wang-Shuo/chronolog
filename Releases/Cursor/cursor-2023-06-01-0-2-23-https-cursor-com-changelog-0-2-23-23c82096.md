@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-06-01'
 description: 'Cursor release AI Linting (2023-06-01) on 2023-06-01: 1 tracked change
   across Model Support'
-machine_hash: 6682a107e14315fc2188c21faa2a547ad71048ad3c327c32012a4d4529ba8669
+machine_hash: 97100b00e4b11cdcb4afec19135226c5eeda719ed00e6e2a9f7d24f070c8a994
 product: cursor
 product_name: Cursor
 record:
@@ -39,10 +39,10 @@ version: 0.2.23
 <!-- chronolog:begin region="summary" -->
 Check out the "more" tab to have GPT-3.5 or GPT-4 review your code periodically for any problems.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-06-01-check-out-the-more-tab-to-have-gpt-3-5-or-gpt-4-review-your-code-periodically-fo|Check out the "more" tab to have GPT-3.5 or GPT-4 review your code periodically…]] · Model Support
+- [[Changes/Cursor/2023-06-01-check-out-the-more-tab-to-have-gpt-3-5-or-gpt-4-review-your-code-periodically-fo|AI Linting]] · Model Support
 <!-- chronolog:end -->

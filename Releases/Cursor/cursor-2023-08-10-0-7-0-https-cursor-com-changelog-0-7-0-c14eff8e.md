@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-08-10'
 description: 'Cursor release In-editor chat on 2023-08-10: 1 tracked change across
   Editor Experience'
-machine_hash: c8939ac0fcf2b8ac63364e19b605ffdb42cc514d04c7c5031a94890c0f583a8a
+machine_hash: b82225e0a715f68782499063cd79a31acd3949f5a3810835ed70640e185ce170
 product: cursor
 product_name: Cursor
 record:
@@ -39,10 +39,10 @@ version: 0.7.0
 <!-- chronolog:begin region="summary" -->
 For those who don't want the chat side-by-side, you can now pop it into your editor! We've also fixed a number of bugs.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-08-10-for-those-who-don-t-want-the-chat-side-by-side-you-can-now-pop-it-into-your-edit|For those who don't want the chat side-by-side, you can now pop it into your editor!]] · Editor Experience
+- [[Changes/Cursor/2023-08-10-for-those-who-don-t-want-the-chat-side-by-side-you-can-now-pop-it-into-your-edit|In-editor chat]] · Editor Experience
 <!-- chronolog:end -->

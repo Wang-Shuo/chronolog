@@ -1,9 +1,9 @@
 ---
-changes_count: 2
+changes_count: 1
 date: '2026-10-01'
-description: 'ChatGPT release New ways to shop in ChatGPT on 2026-10-01: 2 tracked
-  changes across Memory and Personalization, Mobile and Desktop'
-machine_hash: 2950052852e4b1a5b4a21c0f737b8558aede576f524d3118710bcba9856f7a0c
+description: 'ChatGPT release New ways to shop in ChatGPT on 2026-10-01: 1 tracked
+  change across Memory and Personalization'
+machine_hash: 12c7e8a92a35e2167d2044492d2b3e0af1c87d944bb3af6fbe2759dcc7537508
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,11 +39,10 @@ version: New ways to shop in ChatGPT
 <!-- chronolog:begin region="summary" -->
 See how clothes and accessories could look on you and save your favorites for later.
 
-Tracked 2 of 4 candidate lines.
+Tracked 1 card from 4 candidate lines; 1 line pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - [[Changes/ChatGPT/2026-10-01-virtually-try-on-clothing-and-accessories-a-try-on-button-will-appear-on-product|Virtually try on clothing and accessories]] · Memory and Personalization
-- [[Changes/ChatGPT/2026-10-01-available-in-chatgpt-on-mobile-and-web|Available in ChatGPT on mobile and web]] · Mobile and Desktop
 <!-- chronolog:end -->

@@ -1,9 +1,9 @@
 ---
-changes_count: 3
+changes_count: 1
 date: '2026-03-11'
 description: 'Cursor release New Plugins on the Cursor Marketplace on 2026-03-11:
-  3 tracked changes across Apps and Integrations, Automation and Scheduling'
-machine_hash: 56eb8030647d1b0927ac891897dec1b91de94905bebea14658384da9db5d090b
+  1 tracked change across Apps and Integrations'
+machine_hash: 5cdb62309e0ae774191faba099fdec268f12591fd7cb110489c9f2ccd699ca12
 product: cursor
 product_name: Cursor
 record:
@@ -40,12 +40,10 @@ version: New Plugins on the Cursor Marketplace
 <!-- chronolog:begin region="summary" -->
 We've added more than 30 new plugins from partners such as Atlassian, Datadog, GitLab, Glean, Hugging Face, monday.com, and PlanetScale. Cursor can now read from, write to, and take actions across more of your stack.
 
-Tracked 3 of 3 candidate lines.
+Tracked 1 card from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-03-11-most-plugins-contain-mcps-that-cloud-agents-can-use-when-kicked-off-manually-or|Most plugins contain MCPs that cloud agents can use when kicked off manually…]] · Automation and Scheduling
-- [[Changes/Cursor/2026-03-11-try-out-the-new-plugins-at-cursor-com-marketplace-or-read-more-in-our-announceme|Try out the new plugins at cursor.com/marketplace, or read more in our announcement]] · Apps and Integrations
-- [[Changes/Cursor/2026-03-11-we-ve-added-more-than-30-new-plugins-from-partners-such-as-atlassian-datadog-git|Cursor adds more than 30 new plugins from partners such as Atlassian, Datadog…]] · Apps and Integrations
+- [[Changes/Cursor/2026-03-11-we-ve-added-more-than-30-new-plugins-from-partners-such-as-atlassian-datadog-git-901313|New Plugins on the Cursor Marketplace]] · Apps and Integrations
 <!-- chronolog:end -->

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f05ca341a8e59ad70d544cbb704ef5a525411447d05dc68f76c4213f3b62a14d
+machine_hash: 28f6783bed9f2d10d5172f4395bfba304524cd6cd02e54cf77c660d471025e9b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,6 +47,7 @@ related_changes:
   memory rolling out to all Plus and Pro users (including the EU)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3|chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: memory
 title: You can turn off memory anytime in settings
 type: change

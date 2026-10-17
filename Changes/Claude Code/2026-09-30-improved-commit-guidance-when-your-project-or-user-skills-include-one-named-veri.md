@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1124939bf199b4dabfcf37e7060d02926fba0d2640f30acfb55d7a29a042a54c
+machine_hash: f021d596b5e4abeb72ce99ffd87d76daa7968cfc6e14fcfe87d9f4b67ea094d2
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   a pull request opens, Rollouts reads the diff and the systems it touches, then…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7|claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Improved commit guidance
 type: change

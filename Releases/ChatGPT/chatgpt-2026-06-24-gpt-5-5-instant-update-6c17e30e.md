@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-06-24'
 description: 'ChatGPT release GPT-5.5 Instant Update on 2026-06-24: 1 tracked change
   across Model Support'
-machine_hash: e9c0552b3162cde01b2110d76fc74e1cfcc49f356e7e16ac3702ee1dea906aa5
+machine_hash: 8bec55f426b9006d2553807b4af1f23e5a925f426d713a63eb8523f1eb5888b6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: GPT-5.5 Instant Update
 <!-- chronolog:begin region="summary" -->
 We’re updating GPT-5.5 Instant, our most-used model in ChatGPT, to improve conversational quality—especially when users are making a decision, asking for advice, planning something, researching options, or shopping.The model is better at identifying the underlying goal behind a question and carrying context across…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-06-24-we-re-updating-gpt-5-5-instant-our-most-used-model-in-chatgpt-to-improve-convers|We’re updating GPT-5.5 Instant, our most-used model in ChatGPT, to improve…]] · Model Support
+- [[Changes/ChatGPT/2026-06-24-we-re-updating-gpt-5-5-instant-our-most-used-model-in-chatgpt-to-improve-convers|GPT-5.5 Instant Update]] · Model Support
 <!-- chronolog:end -->

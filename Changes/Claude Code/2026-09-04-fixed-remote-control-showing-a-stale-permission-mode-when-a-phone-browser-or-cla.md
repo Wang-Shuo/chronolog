@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8b20c8c62ac4cd3f62dbc2f461d47edae8082d96e1600ce5a918e8b89f5bc79a
+machine_hash: 145157d89095a585fb153652afbc0b99c0af9cca15d0330874dd967892802ce0
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   --permission-prompts none for unattended headless hosts]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519|claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed Remote Control showing a stale permission mode when a phone, browser…
 type: change

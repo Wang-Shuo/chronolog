@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 46c44f4b2f27fe7f53eeda3eeccdb0ae2140bb47ebde1c8fa44feed8b5b8980a
+machine_hash: 13ef134d0e5610349413894928ebee561ff522128211f02ca49c4171ea75ba8f
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   Remote Control sessions not showing a pending permission prompt or dialog…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4|claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Improved auto mode
 type: change

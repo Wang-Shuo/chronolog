@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 5df5e91178eb5f8a39613b914ccf5a9424d1878220d3c7010f0a8c6e8beffcc7
+machine_hash: 14f9c103fab6650810755e4cd3624838d61100ebe85ad74a8c32d4d026edd2f8
 product: cursor
 product_name: Cursor
 record:
@@ -51,6 +51,7 @@ related_changes:
   onboarding onto your codebase, each agent runs in its own isolated VM…]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-24-cloud-agents-with-computer-use-https-cursor-com-changelog-02-24-252fc429|cursor-2026-02-24-cloud-agents-with-computer-use-https-cursor-com-changelog-02-24-252fc429]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Get started at cursor.com/onboard to watch the agent configure itself and record
   a demo

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 85f6fc9b7988105acfdbd68fcfdfd95927f5d6dc6e233f0d3de843405a65c34e
+machine_hash: 00affeaa001c8bcbd4080589a4ca1eb288a004163a18612595d95814f162f0cf
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   Bash permission checks misjudging very long commands]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-18-v2-1-214-github-355973317-478680c5|claude-code-2026-07-18-v2-1-214-github-355973317-478680c5]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed Bash permission checks to fail closed on file-descriptor redirect forms…
 type: change

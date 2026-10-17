@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-06-24'
 description: 'ChatGPT release Project file limit increased (Pro) on 2025-06-24: 1
   tracked change across Files and Data'
-machine_hash: eb207035ebf063d0c5c8dfdd94133f41fd609a41d67a7e5ad3d1a1abb084f8fa
+machine_hash: b7320924c53ffdd13c92f025231678ad4f0ebe6d07d9207670895747d52bec84
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,10 +39,10 @@ version: Project file limit increased (Pro)
 <!-- chronolog:begin region="summary" -->
 Projects can now support 40 uploaded files, up from 20, for Pro users.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-06-24-projects-can-now-support-40-uploaded-files-up-from-20-for-pro-users|Projects can now support 40 uploaded files, up from 20, for Pro users]] · Files and Data
+- [[Changes/ChatGPT/2025-06-24-projects-can-now-support-40-uploaded-files-up-from-20-for-pro-users|Project file limit increased (Pro)]] · Files and Data
 <!-- chronolog:end -->

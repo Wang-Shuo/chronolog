@@ -14,9 +14,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: f34b494401a8445566f17cef551ce0f9c14639d339c5d78ff80e28dd4655b25e
+kind: change
+machine_hash: d5a6db11b144efcb20abecb9574dd4d7e1e42078210576cb2f9b6546eddaf090
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,8 +34,9 @@ record:
       desktop app on macOS. It is off by default and requires Memories. Learn more
       about Computer History.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee
@@ -54,10 +56,10 @@ record:
   title: Use Computer History in more regions
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-10-chatgpt-can-now-help-you-find-available-restaurant-reservations-with-opentable-r|ChatGPT
-  can now help you find available restaurant reservations with OpenTable…]]'
-- '[[Changes/ChatGPT/2026-08-14-practice-with-interactive-quizzes-ask-chatgpt-to-quiz-you-on-a-topic-and-answer|Practice
-  with interactive quizzes]]'
+- '[[Changes/ChatGPT/2026-08-14-learning-projects-and-personalized-suggestions|Learning,
+  Projects, and personalized suggestions]]'
+- '[[Changes/ChatGPT/2026-08-14-use-chatgpt-and-codex-on-linux-the-desktop-app-is-now-available-globally-in-publ|Use
+  ChatGPT and Codex on Linux]]'
 - '[[Changes/Claude Code/2026-08-19-added-notify-when-idle-to-cross-session-sendmessage-ask-another-claude-code-sess|Added
   notify_when_idle to cross-session SendMessage]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574]]'
@@ -91,7 +93,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-added-notify-when-idle-to-cross-session-sendmessage-ask-another-claude-code-sess|Added notify_when_idle to cross-session SendMessage]]
-- Later: 2026-08-21 · ChatGPT · [[Changes/ChatGPT/2026-08-21-available-in-the-chatgpt-app-for-android-version-1-2026-216-or-later|Available in the ChatGPT app for Android, version 1.2026.216 or later]]
+- Later: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-improved-startup-bare-claude-starts-sooner-on-macos|Improved startup: bare claude starts sooner on macOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

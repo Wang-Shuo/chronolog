@@ -4,8 +4,8 @@ date: '2023-07-03'
 description: 'Cursor · 2023-07-03 · Editor Experience: Cmd+K''s UI has been changed:
   it''s in-editor, "sticky," and @-symbol-compatible.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant
-    fix all lint errors with AI 😎]]'
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 111
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: d9f8543ebc18b4a47625bdac463c5324ab719bf13e5270482043b4f9748147d4
+kind: change
+machine_hash: 2d716de0fc86b925ba6ae51b980f4dd340b2c568108899463ade69d99ea221f4
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: 'Cmd+K''s UI has been changed: it''s in-editor, "sticky," and @-symbol-compatible.'
     source_release: https://cursor.com/changelog/0-2-39
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: cmd-k-s-ui-has-been-changed-it-s-in-editor-sticky-and-symbol-compatible
@@ -39,8 +41,7 @@ record:
   title: 'Cmd+K''s UI has been changed: it''s in-editor, "sticky," and @-symbol-compatible'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-06-rarely-pressing-enter-in-the-editor-does-nothing|Rarely,
-  pressing Enter in the editor does nothing]]'
+- '[[Changes/Cursor/2023-05-17-diff-generate-improvements|Diff/Generate improvements]]'
 - '[[Changes/Cursor/2023-06-06-in-order-to-take-full-advantage-navigate-to-settings-top-right-button-then-sync|In
   order to take full advantage, navigate to Settings (top right button), then…]]'
 - '[[Changes/Cursor/2023-07-03-long-code-selections-no-longer-brick-the-editor|Long
@@ -76,13 +77,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2023-06-06 · Cursor · [[Changes/Cursor/2023-06-06-in-order-to-take-full-advantage-navigate-to-settings-top-right-button-then-sync|In order to take full advantage, navigate to Settings (top right button), then…]]
-- Later: 2023-07-11 · Cursor · [[Changes/Cursor/2023-07-11-this-update-improves-the-prompt-for-cmd-k-when-you-don-t-have-any-code-selected|This update improves the prompt for Cmd-k when you don't have any code selected]]
+- Later: 2023-07-07 · Cursor · [[Changes/Cursor/2023-07-07-cmd-k-should-work-better-for-long-diffs-greater-than-100-lines-of-code|Cmd-k should work better for long diffs (greater than 100 lines of code)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

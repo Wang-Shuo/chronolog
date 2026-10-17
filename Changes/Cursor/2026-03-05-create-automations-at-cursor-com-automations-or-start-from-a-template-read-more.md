@@ -4,7 +4,7 @@ date: '2026-03-05'
 description: 'Cursor · 2026-03-05 · Automation and Scheduling: Create automations
   at cursor.com/automations, or start from a template. Read more in our announcement.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|Tasks
+  first_in_tracked: '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks
     let you set up automated prompts that ChatGPT can run for you]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 78
@@ -14,9 +14,10 @@ diffusion:
   theme: automation-scheduling
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: b00c0d3fdd689ec22a976b4fef3fc7ec77938db73101d57b2e96937af37b0394
+kind: change
+machine_hash: adb6199dc9472e1b048b4c21195e853e456ab658449e433e6a0110ff4cd84077
 product: cursor
 product_name: Cursor
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Create automations at cursor.com/automations, or start from a template.
       Read more in our announcement.
     source_release: https://cursor.com/changelog/03-05-26
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: create-automations-at-cursor-com-automations-or-start-from-a-template-read-more
@@ -40,12 +42,8 @@ record:
   title: Create automations at cursor.com/automations, or start from a template
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|Tasks
+- '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks
   let you set up automated prompts that ChatGPT can run for you]]'
-- '[[Changes/ChatGPT/2025-12-17-create-tasks-in-chat-or-in-pulse-whatever-s-easier-in-the-moment|Create
-  tasks in chat or in Pulse—whatever’s easier in the moment]]'
-- '[[Changes/Cursor/2026-03-05-cursor-now-supports-automations-for-building-always-on-agents-that-run-based-on|Cursor
-  now supports automations for building always-on agents that run based…]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422|cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422]]'
 source_type: cursor_changelog
 theme: automation-scheduling
@@ -69,21 +67,20 @@ type: change
 ## Also in this release
 
 - [[Changes/Cursor/2026-03-05-when-invoked-the-agent-spins-up-a-cloud-sandbox-and-follows-your-instructions-us|When invoked, the agent spins up a cloud sandbox and follows your instructions using…]] · Safety and Privacy
-- [[Changes/Cursor/2026-03-05-cursor-now-supports-automations-for-building-always-on-agents-that-run-based-on|Cursor now supports automations for building always-on agents that run based…]] · Automation and Scheduling
-- [[Changes/Cursor/2026-03-05-automations-run-on-schedules-or-are-triggered-by-events-from-slack-linear-github|Automations run on schedules or are triggered by events from Slack, Linear, GitHub…]] · Automation and Scheduling
+- [[Changes/Cursor/2026-03-05-cursor-now-supports-automations-for-building-always-on-agents-that-run-based-on-fb3c5d|Cursor now supports automations for building always-on agents that run based…]] · Automation and Scheduling
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2025-12-17 · ChatGPT · [[Changes/ChatGPT/2025-12-17-create-tasks-in-chat-or-in-pulse-whatever-s-easier-in-the-moment|Create tasks in chat or in Pulse—whatever’s easier in the moment]]
+- Earlier: 2025-12-17 · ChatGPT · [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks let you set up automated prompts that ChatGPT can run for you]]
 - Later: 2026-03-07 · Claude Code · [[Changes/Claude Code/2026-03-07-added-cron-scheduling-tools-for-recurring-prompts-within-a-session|Added cron scheduling tools for recurring prompts within a session]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-12-17 · ChatGPT · [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now|Tasks let you set up automated prompts that ChatGPT can run for you]]
+- Earliest same-theme entry in the tracked set: 2025-12-17 · ChatGPT · [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks let you set up automated prompts that ChatGPT can run for you]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,8 +5,8 @@ description: 'ChatGPT · 2025-09-09 · Voice and Audio: Last month we announced 
   everyone now has access to Advanced Voice Mode, with usage expanded from minutes
   per day…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use
-    voice to engage in a back-and-forth conversation with your assistant]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
+    are beginning to roll out new voice and image capabilities in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 715
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: voice
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 6c1445562cc49a5820b930952debb6c0832f9c34469224de030b9c74c9ec1224
+kind: change
+machine_hash: 4bc5633b75874bbab01d647780c13ee6c2d7f822d89cf7661436dd58c245b836
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,32 +45,32 @@ record:
       some feedback from its users about Advanced Voice.Stay tuned—more improvements
       to Voice are coming soon.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: last-month-we-announced-that-everyone-now-has-access-to-advanced-voice-mode-with
   source_release: chatgpt-2025-09-09-chatgpt-voice-update-c17a6a9f
   source_type: chatgpt_changelog
   theme: voice
-  title: Last month we announced that everyone now has access to Advanced Voice Mode…
+  title: ChatGPT Voice Update
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat|The
-  Advanced Voice upgrades we announced on June 7th are now rolling out to ChatGPT…]]'
+- '[[Changes/ChatGPT/2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat|Updates
+  to Advanced Voice Mode for Free tier users]]'
 - '[[Changes/ChatGPT/2025-08-07-today-we-re-rolling-out-improvements-to-voice-mode-to-make-it-more-accessible-an-055388|ChatGPT
-  rolls out improvements to Voice Mode to make it more accessible and useful…]]'
-- '[[Changes/ChatGPT/2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali-b6826c|Choose
-  from four distinct personalities or use the Default personality…]]'
+  Voice updates]]'
+- '[[Changes/ChatGPT/2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali-b6826c|Personalities]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-09-chatgpt-voice-update-c17a6a9f|chatgpt-2025-09-09-chatgpt-voice-update-c17a6a9f]]'
 source_type: chatgpt_changelog
 theme: voice
-title: Last month we announced that everyone now has access to Advanced Voice Mode…
+title: ChatGPT Voice Update
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Last month we announced that everyone now has access to Advanced Voice Mode…
+# ChatGPT Voice Update
 
 **ChatGPT** · 2025-09-09 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-09-chatgpt-voice-update-c17a6a9f|ChatGPT Voice Update]]
 <!-- chronolog:end -->
@@ -87,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-08-07 · ChatGPT · [[Changes/ChatGPT/2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali-b6826c|Choose from four distinct personalities or use the Default personality…]]
+- Earlier: 2025-08-07 · ChatGPT · [[Changes/ChatGPT/2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali-b6826c|Personalities]]
 - Later: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-turn-off-voice-mode-to-remove-the-option-to-use-voice-mode-in-chatgpt|Turn off voice mode, to remove the option to use voice mode in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Use voice to engage in a back-and-forth conversation with your assistant]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

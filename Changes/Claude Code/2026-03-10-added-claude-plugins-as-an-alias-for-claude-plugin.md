@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 141289f51e0a653ee184636256b5878de5ba6f6375994cdf22eebe1049d07052
+machine_hash: 43a75f4b9a5dfd4d3404800eb7a171f1f723079c9d277d1186fb405426e6e801
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,6 +47,7 @@ related_changes:
   tool search to bypass the third-party proxy gate when the environment…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48|claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added claude plugins as an alias for claude plugin
 type: change

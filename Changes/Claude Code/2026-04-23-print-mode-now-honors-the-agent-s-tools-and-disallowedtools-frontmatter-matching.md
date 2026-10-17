@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: c1d2cd242487c316580fd34457a7872339361e812116f45b5b103b4ab5516af1
+machine_hash: 3f277d38c4ef9c480dbaeb60da6b0bebc6c65dc47e87f83ed59441fc53de5e03
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   subagents can now be enabled on external builds by setting…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-119-github-312949780-573724e7|claude-code-2026-04-23-v2-1-119-github-312949780-573724e7]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: '--print mode now honors the agent''s tools: and disallowedTools: frontmatter…'
 type: change

@@ -14,9 +14,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 20e890920e97d0e61e0c5e6ff08798c515bdb96b9c85cbfe50b2f04bfe9084ee
+kind: change
+machine_hash: 6af9c607196ba13046e2e5b81853d7687b419cdbdb37900c7c6eae07b8adf711
 product: cursor
 product_name: Cursor
 record:
@@ -29,8 +30,9 @@ record:
   evidence:
   - quote: Windows and Linux support 🥳
     source_release: https://cursor.com/changelog/0-0-37
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: windows-and-linux-support
@@ -63,15 +65,13 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2023-03-14-instant-fix-all-lint-errors-with-ai|Instant fix all lint errors with AI 😎]] · Editor Experience
-- [[Changes/Cursor/2023-03-14-editing-works-for-same-file-on-multiple-tabs|Editing works for same file on multiple tabs]] · Editor Experience
-- [[Changes/Cursor/2023-03-14-edits-can-be-as-long-as-you-d-like|Edits can be as long as you'd like]] · Editor Experience
+- [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]] · Editor Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Later: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f|ChatGPT expands availability of the ChatGPT app for iOS to more countries and regions]]
+- Later: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f|ChatGPT app for iOS in more countries]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

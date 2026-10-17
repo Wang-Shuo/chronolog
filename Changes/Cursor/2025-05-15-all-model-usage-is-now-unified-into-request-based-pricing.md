@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 98dd0403299f9df670e8f2238e08747559afe6ff20490c7b12484e95bf2e58de
+machine_hash: f278335b330467c96d55542187e881978e2abd3c6e3c6fd05ac7e7438c77fb15
 product: cursor
 product_name: Cursor
 record:
@@ -59,6 +59,7 @@ related_changes:
   unified request-based pricing, Max Mode for all top models…]]'
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'
 source_type: cursor_changelog
+superseded: true
 theme: pricing-model
 title: All model usage is now unified into request-based pricing
 type: change

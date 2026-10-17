@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 97b3c43331b2a97fb7301a1ee6e002faed9549572f21c7f7207add235b3766be
+machine_hash: 645c0dfe9c9826cb94cf4dcd6fde9020a05c68f60d44b79c3a78b3de8aa24fed
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   ANTHROPIC_BEDROCK_SERVICE_TIER environment variable to select a Bedrock…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196|claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: /mcp now shows claude.ai connectors hidden by a manually-added server…
 type: change

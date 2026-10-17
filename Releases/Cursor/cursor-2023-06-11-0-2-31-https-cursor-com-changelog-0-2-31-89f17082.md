@@ -2,7 +2,7 @@
 changes_count: 0
 date: '2023-06-11'
 description: 'Cursor release Hotfix for chat focus on 2023-06-11: no tracked changes'
-machine_hash: 3224274202a33444e7e02e7ecb3d3b0500e922dad6d8bd9d825862a38c56c8f2
+machine_hash: 38819fbfe80ec8b70fc187457fc3e58bc09d9741831e942878fa4ba030f11058
 product: cursor
 product_name: Cursor
 record:
@@ -37,7 +37,7 @@ version: 0.2.31
 <!-- chronolog:begin region="summary" -->
 Chat should not steal your focus away! This is now fixed.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

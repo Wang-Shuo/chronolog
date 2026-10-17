@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8d9c141a74c2aa3adee94e4c9d4953a4b377b9b4b4293f6abce3d7d552983b8c
+machine_hash: 964b3b711140a04c0fb03d8f52ebda96754e9ade427c5089968f948661e55e91
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   /workflows agent list layout]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc|claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Improved subagent behavior
 type: change

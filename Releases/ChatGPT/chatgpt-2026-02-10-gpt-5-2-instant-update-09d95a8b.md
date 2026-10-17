@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-02-10'
 description: 'ChatGPT release GPT-5.2 Instant Update on 2026-02-10: 1 tracked change
   across Model Support'
-machine_hash: 41a6abfb44cdf08e53452b303e8ac03636a74b7d5a0539ba8e8cac8db3ac59b9
+machine_hash: e214e391eb4fe9f3234e7cc41670e8775cb3f235629e8799785c6f529d4c2497
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ version: GPT-5.2 Instant Update
 <!-- chronolog:begin region="summary" -->
 We’re making an update to GPT-5.2 Instant in ChatGPT and the API that improves response style and quality.Users should notice responses that are more measured and grounded in tone, in a way that’s more contextually appropriate to the conversation. The model also tends to output clearer, more relevant answers to…
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|We’re making an update to GPT-5.2 Instant in ChatGPT and the API that improves…]] · Model Support
+- [[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|GPT-5.2 Instant Update]] · Model Support
 <!-- chronolog:end -->

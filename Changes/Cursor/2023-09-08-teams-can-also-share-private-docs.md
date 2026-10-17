@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e25933a9e060aabc4bef4d5fbff91186bcd7fabe4b0bed5963e0aad360e6809a
+machine_hash: 477f845dd7f56526f81c4edd44d0d07890ef94a8440e1d7f159e128121e3fa0c
 product: cursor
 product_name: Cursor
 record:
@@ -39,6 +39,7 @@ record:
   type: change
 source_release: '[[Releases/Cursor/cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699|cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699]]'
 source_type: cursor_changelog
+superseded: true
 theme: collaboration
 title: Teams can also share private docs
 type: change

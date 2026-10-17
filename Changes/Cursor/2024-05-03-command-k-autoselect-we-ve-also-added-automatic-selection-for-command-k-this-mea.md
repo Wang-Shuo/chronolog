@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 91db7cc3fa3b5c872ec5a0598628ecf23eff129acdd7feacc599134b14616ece
+kind: change
+machine_hash: 9063d4a32b86061829d9db289eef63a58356c2cc290e65c8cb07b1c3a0da9fa2
 product: cursor
 product_name: Cursor
 record:
@@ -32,8 +33,9 @@ record:
       This means you can now press Command-K, and it will automatically select the
       region you''re working on, though you can still select manually if you prefer.'
     source_release: https://cursor.com/changelog/0-33-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: command-k-autoselect-we-ve-also-added-automatic-selection-for-command-k-this-mea

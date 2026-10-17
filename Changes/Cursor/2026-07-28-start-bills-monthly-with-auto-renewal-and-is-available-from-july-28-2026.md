@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0bf8c5575aa1b5f1242ef943c2615ef5835f21300d9c4ada7be459fb9ed83b60
+machine_hash: 729aec68759123c4dc68da07a37b85c5b2a402e646507dc7411f831313d2af26
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   introduces Cursor Start, a new ₹649 monthly plan for developers in India…]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df|cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df]]'
 source_type: cursor_changelog
+superseded: true
 theme: pricing-model
 title: Start bills monthly with auto-renewal and is available from July 28, 2026
 type: change

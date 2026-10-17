@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 4a0ce54312742202575506ba05c8abb6ed5189af58d616f69816d0591168a9ea
+machine_hash: f16106ce63fb42fc043cb5bf2e592238205d8cd04d75daeb13a8719844bea582
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   fallbackModel setting to configure up to three fallback models tried…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-06-v2-1-166-github-335118845-ef990727|claude-code-2026-06-06-v2-1-166-github-335118845-ef990727]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Claude Code now retries a turn once on the fallback model when the API rejects…
 type: change

@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: bc83730a30904ab691b0123bbfbdffea8ed9c392a3a41169cc69e50d192c1bda
+machine_hash: cb99f10acda274166a106686150d305763f4d3ce13282a89e1bb04ae7c9c2d3c
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   shorthand $0, $1, etc. for accessing individual arguments in custom commands]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-27-v2-1-20-github-280123443-38431f59|claude-code-2026-01-27-v2-1-20-github-280123443-38431f59]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added support for loading CLAUDE.md files from additional directories specified…
 type: change

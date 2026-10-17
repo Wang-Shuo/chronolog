@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c4ee4146e01cab32f21787172fdd8cec212bb601e70b78053b24d0cb85fe6135
+machine_hash: 6b4e30f855c7c21f1011f6ccf7ced0b91f6cc24b6761cb83dfe705d4e83711f1
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   iOS and Android, you can find the picker at the top of the conversation]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-17-v2-1-181-github-340975229-c771c493|claude-code-2026-06-17-v2-1-181-github-340975229-c771c493]]'
 source_type: github_releases
+superseded: true
 theme: mobile-desktop
 title: Added CLAUDE_CLIENT_PRESENCE_FILE environment variable
 type: change

@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: c367e469af472e94fc4bcba99a3186757d20ecbbdd7cac8d70118870988be0df
+machine_hash: 2f345c70a340ea551c209a27ffd6eb9b69f736187eb6621581ba4c8b702fcbf4
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   a startup warning for Bash allow rules with a wildcard before the subcommand…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96|claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added attach, logs, stop, respawn, and rm to claude --help
 type: change

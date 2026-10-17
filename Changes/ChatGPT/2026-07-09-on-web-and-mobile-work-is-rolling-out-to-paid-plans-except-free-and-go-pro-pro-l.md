@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 47d2d313ccc1d9a312d7cbc0b462d888065e74913bc50f184f656ce100a3f456
+machine_hash: c8c8d834af82b64111c88400643b7ae4c314129efffe6908f0e9ff72b2eb40fc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -62,6 +62,7 @@ related_changes:
   and Enterprise customers already have access to Sites]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: enterprise-admin
 title: On web and mobile, Work is rolling out to paid plans except Free and Go
 type: change

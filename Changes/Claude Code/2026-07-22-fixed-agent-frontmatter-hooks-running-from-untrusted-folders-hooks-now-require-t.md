@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 75e2b7155835ac50a84613ec44f4cf0848e79c1837f51792079257c2d5f464c5
+machine_hash: 3433a8811ef8d87454500356f2858ec89edba794af6d375fb103dfd41a779d0d
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,6 +54,7 @@ related_changes:
   auto mode]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4|claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed agent frontmatter hooks running from untrusted folders
 type: change

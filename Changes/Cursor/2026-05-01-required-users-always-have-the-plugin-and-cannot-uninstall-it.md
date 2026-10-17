@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 3f85a4b20eb293c25061993815790b377540b6adc1ee20e0093156226afe6fac
+machine_hash: d234d5d6cdac9530192882fc8bc215156514ddaa4d1250380c05b4d204b40a65
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   bundle capabilities like MCP servers, skills, subagents, rules, and hooks…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-01-team-marketplace-updates-https-cursor-com-changelog-05-01-26-3036cead|cursor-2026-05-01-team-marketplace-updates-https-cursor-com-changelog-05-01-26-3036cead]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: 'Required: users always have the plugin and cannot uninstall it'
 type: change

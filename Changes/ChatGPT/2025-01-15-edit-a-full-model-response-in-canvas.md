@@ -4,8 +4,8 @@ date: '2025-01-15'
 description: 'ChatGPT · 2025-01-15 · Files and Data: Edit a full model response in
   Canvas'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|ChatGPT
-    rolls out code interpreter to all ChatGPT Plus users over the next week]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
+    interpreter is now rolling out in beta on web]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 559
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: file-data
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 58bea62ae4ac0ea0338f9989fca7590a24fd96219b7a133acb562295211d20b6
+kind: change
+machine_hash: 97364ace074a44af0834c34b2ee8609ef70f99dddc69ea17274ac93434d0b565
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,8 +31,9 @@ record:
   evidence:
   - quote: Edit a full model response in Canvas
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: edit-a-full-model-response-in-canvas
@@ -51,11 +53,10 @@ record:
   title: Edit a full model response in Canvas
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-12-10-canvas-shortcut-you-can-now-paste-content-into-chatgpt-and-instantly-open-it-in|Canvas
-  shortcut: You can now paste content into ChatGPT and instantly open…]]'
-- '[[Changes/ChatGPT/2024-12-10-canvas-in-toolbox-canvas-has-been-added-as-an-option-in-the-toolbox|Canvas
-  in Toolbox: Canvas has been added as an option in the toolbox]]'
-- '[[Changes/ChatGPT/2024-12-13-advanced-data-analysis|Advanced data analysis]]'
+- '[[Changes/ChatGPT/2024-11-22-the-sidebar-when-pinned-can-now-stay-open-with-an-active-canvas-if-enough-space|The
+  sidebar when pinned can now stay open with an active Canvas if enough space…]]'
+- '[[Changes/ChatGPT/2024-12-10-today-we-made-canvas-available-in-4o-by-default-for-all-users-free-and-paid-addi-5aaec4|Canvas]]'
+- '[[Changes/ChatGPT/2024-12-13-advanced-data-analysis-1956f5|Advanced data analysis]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-01-15-import-from-chat-into-canvas-e328bc82|chatgpt-2025-01-15-import-from-chat-into-canvas-e328bc82]]'
 source_type: chatgpt_changelog
 theme: file-data
@@ -84,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2024-12-13 · ChatGPT · [[Changes/ChatGPT/2024-12-13-advanced-data-analysis|Advanced data analysis]]
-- Later: 2025-02-06 · ChatGPT · [[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or|Users can now share a Canvas asset such as rendered React/HTML code, document…]]
+- Earlier: 2024-12-13 · ChatGPT · [[Changes/ChatGPT/2024-12-13-advanced-data-analysis-1956f5|Advanced data analysis]]
+- Later: 2025-02-06 · ChatGPT · [[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or-2f5aff|Canvas sharing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|ChatGPT rolls out code interpreter to all ChatGPT Plus users over the next week]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

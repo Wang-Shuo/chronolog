@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f874690f4725c19419021be4fceccb4d4620e0f0fae73207031c15a2c74ca72f
+machine_hash: b11cc5662cf5e9667d54cc8e534ac6f520ae5a4a45440e73d8610590f3932485
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   the CLI to spawn a native Claude Code binary…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-22-v2-1-117-github-311984967-1d917373|claude-code-2026-04-22-v2-1-117-github-311984967-1d917373]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: The /resume command now offers to summarize stale, large sessions before…
 type: change

@@ -5,8 +5,8 @@ description: 'Claude Code · 2026-05-29 · Agent Mode: `claude agents`: the `age
   field in `settings.json` is now honored for dispatched sessions, with `--agent <name>`
   to…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1058
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: fa38fb6987f88e58d4d6658b5eee22acea4baf0e7730132529c52f15ef1b93c2
+kind: change
+machine_hash: fc257cc4c5f800cea7d410cadfc07cbe38a068962425dcf07d73840daad5e2ac
 product: claude-code
 product_name: Claude Code
 record:
@@ -32,8 +33,9 @@ record:
   - quote: '`claude agents`: the `agent` field in `settings.json` is now honored for
       dispatched sessions, with `--agent <name>` to override it'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.157
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: claude-agents-the-agent-field-in-settings-json-is-now-honored-for-dispatched-ses
@@ -44,10 +46,10 @@ record:
     dispatched…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-21-auto-mode-no-longer-suppresses-askuserquestion-when-the-user-or-a-skill-explicit|Auto
-  mode no longer suppresses AskUserQuestion when the user or a skill explicitly…]]'
-- '[[Changes/Claude Code/2026-05-28-claude-agents-pr-column-now-shows-pr-n-for-a-single-pr-or-n-prs-for-multiple|claude
-  agents: PR column now shows PR ♯N for a single PR or N PRs for multiple]]'
+- '[[Changes/Claude Code/2026-05-28-4-agent-mode-changes-in-v2-1-154|4 Agent Mode
+  changes in v2.1.154]]'
+- '[[Changes/Claude Code/2026-05-28-3-agent-mode-changes-in-v2-1-153|3 Agent Mode
+  changes in v2.1.153]]'
 - '[[Changes/Claude Code/2026-05-28-introducing-dynamic-workflows-ask-claude-to-create-a-workflow-and-it-orchestrate|Introducing
   dynamic workflows]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8|claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8]]'
@@ -72,23 +74,25 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-05-29-added-claude-plugin-init-name-to-scaffold-a-new-plugin-in-claude-skills|Added claude plugin init name to scaffold a new plugin in .claude/skills]] · Apps and Integrations
-- [[Changes/Claude Code/2026-05-29-plugins-in-claude-skills-directories-are-now-automatically-loaded-no-marketplace|Plugins in .claude/skills directories are now automatically loaded, no marketplace…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-05-29-enterworktree-can-now-switch-between-claude-managed-worktrees-mid-session|EnterWorktree can now switch between Claude-managed worktrees mid-session]] · Developer Workflow
-- [[Changes/Claude Code/2026-05-29-added-autocomplete-for-plugin-arguments-subcommands-installed-plugin-names-and-p|Added autocomplete for /plugin arguments]] · Apps and Integrations
+- [[Changes/Claude Code/2026-05-29-claude-agents-slash-command-autocomplete-in-the-dispatch-input-now-matches-subst|claude agents: slash-command autocomplete in the dispatch input now matches substrings]] · Interface Experience
+- [[Changes/Claude Code/2026-05-29-2-safety-and-privacy-changes-in-v2-1-157|2 Safety and Privacy changes in v2.1.157]] · Safety and Privacy
+- [[Changes/Claude Code/2026-05-29-3-developer-workflow-changes-in-v2-1-157|3 Developer Workflow changes in v2.1.157]] · Developer Workflow
+- [[Changes/Claude Code/2026-05-29-removed-the-ide-for-startup-hint-toast|Removed the "/ide for …" startup hint toast]] · Editor Experience
+- [[Changes/Claude Code/2026-05-29-improved-performance-of-long-and-resumed-conversations-by-eliminating-redundant|Improved performance of long and resumed conversations by eliminating redundant…]] · Reliability and Performance
+- [[Changes/Claude Code/2026-05-29-4-apps-and-integrations-changes-in-v2-1-157|4 Apps and Integrations changes in v2.1.157]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-introducing-dynamic-workflows-ask-claude-to-create-a-workflow-and-it-orchestrate|Introducing dynamic workflows]]
-- Later: 2026-05-29 · Cursor · [[Changes/Cursor/2026-05-29-auto-review-is-a-new-run-mode-that-allows-cursor-to-work-for-longer-with-fewer-a|Auto-review is a new run mode that allows Cursor to work for longer with fewer…]]
+- Later: 2026-05-29 · Cursor · [[Changes/Cursor/2026-05-29-auto-review-is-a-new-run-mode-that-allows-cursor-to-work-for-longer-with-fewer-a-61df08|Auto-review Run Mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9b8df976236d8f2c2ddee50dcc557ff3dad1d2c43c10fe30fe19b2911e46d000
+machine_hash: 7baf27ed704a74dc18fc4a990dc7cb1782bb780c02c9c4741d17150f0cf66086
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,6 +54,7 @@ related_changes:
   across your workspace]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-17-chatgpt-for-word-f072ecd9|chatgpt-2026-09-17-chatgpt-for-word-f072ecd9]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: collaboration
 title: ChatGPT for Word is available on all ChatGPT plans, including Free
 type: change

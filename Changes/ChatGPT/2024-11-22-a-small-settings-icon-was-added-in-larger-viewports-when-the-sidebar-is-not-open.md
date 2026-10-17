@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 27948cb7c1cdaee51f4556774fefb20c34eca1a870e9b65c348bca5805cb7cd7
+machine_hash: 7b28cc5e5aecb4d4be6d629f5523f573939578a440bbba56f1ca2e9414a8a586
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,6 +49,7 @@ related_changes:
   have a new chat UX!]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c|chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: interface-experience
 title: A small settings icon was added in larger viewports when the sidebar is not
   open

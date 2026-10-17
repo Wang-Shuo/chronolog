@@ -1,9 +1,9 @@
 ---
-changes_count: 2
+changes_count: 1
 date: '2026-08-31'
 description: 'ChatGPT release Use the browser extension in more browsers on 2026-08-31:
-  2 tracked changes across Mobile and Desktop'
-machine_hash: abf9b5e86271e4d2926003a8b3d2f7119b02142eb8011dfc3687bb17c6305851
+  1 tracked change across Mobile and Desktop'
+machine_hash: 400ec39e9e9dc6d44f9cde926f9aa63f44cafcba7d1605c0cfc785b08219b642
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,11 +39,10 @@ version: Use the browser extension in more browsers
 <!-- chronolog:begin region="summary" -->
 The ChatGPT browser extension now supports Microsoft Edge, Brave, Opera, and Vivaldi.
 
-Tracked 2 of 4 candidate lines.
+Tracked 1 card from 4 candidate lines; 2 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-08-31-side-chat-is-available-in-edge-brave-and-vivaldi-opera-supports-tab-mentions-and|Side chat is available in Edge, Brave, and Vivaldi]] · Mobile and Desktop
-- [[Changes/ChatGPT/2026-08-31-bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context|Bring your browser into Work and Codex]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-08-31-bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context-af2c3a|Bring your browser into Work and Codex]] · Mobile and Desktop
 <!-- chronolog:end -->

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 453e49ba1564697c28ed686e554e5b50da9fc3f8d3f9fdfc9cda3d4b2af2bb4a
+machine_hash: 960fbcf25b4fad82fe404ca7ed92ffbcf33bbc637654aa8cfbac30f0a77a8107
 product: cursor
 product_name: Cursor
 record:
@@ -51,6 +51,7 @@ related_changes:
   copilot can be slow and sometimes just not smart enough :(]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991|cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: We know that sometimes all of us want copilot to write an entire function or
   a big…

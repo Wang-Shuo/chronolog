@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b2e089c2babec25065f738c4e3e8459d1f739fe57eed69dcbaae1a3e338189d6
+machine_hash: 8801cc04424bfa20c76dba37f10fc15a5b7a9333c8dbba0181b8605d6ccfe4a3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,6 +64,7 @@ related_changes:
   voice: You can now chat with Santa in ChatGPT!]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d|chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: voice
 title: The first time you chat with Santa, your advanced voice limit will reset one
   time

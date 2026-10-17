@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8bd143f9df48ea1c20caa025e7cb0844208685215945bffe82c070c231d2ef6c
+machine_hash: 511c53494f95ed6e945dc72fd08ec5302c55729be1178fc26f0224b0eb0c6785
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   multi-second per-turn slowdowns in sessions with many permission deny/ask rules]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-210-github-354034085-7eba9ec7|claude-code-2026-07-14-v2-1-210-github-354034085-7eba9ec7]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Added a startup warning for Write(path), NotebookEdit(path), and Glob(path)…
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7bb73950c737b14de2667715b6f09a03f95e03fd7501e026cff08e1849849d13
+machine_hash: 35d8097f99c85f5d289428599db2553aed829cca621bda3c3207a399d5ee1058
 product: cursor
 product_name: Cursor
 record:
@@ -51,6 +51,7 @@ related_changes:
   claude agents --cwd path to scope the session list to a directory]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c|cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: To take engineering tasks from start to finish, agents need a development…
 type: change

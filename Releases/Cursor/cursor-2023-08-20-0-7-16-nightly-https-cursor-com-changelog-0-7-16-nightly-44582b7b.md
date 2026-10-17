@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-08-20'
 description: 'Cursor release More robust SSH support on 2023-08-20: 1 tracked change
   across Reliability and Performance'
-machine_hash: da0a71f475d2b2fc777fe0c61d76c17d8ebb1d7400d87fc9158f04c569ebbc9e
+machine_hash: 3a1dc50203eaa401c22e0b8d1d86ec045a552c62401f816e5428e6f0ab5a52f4
 product: cursor
 product_name: Cursor
 record:
@@ -39,10 +39,10 @@ version: 0.7.16-nightly
 <!-- chronolog:begin region="summary" -->
 SSH support is now more robust! Please continue to let us know if you are experiencing any SSH problems.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-08-20-ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie|SSH support is now more robust!]] · Reliability and Performance
+- [[Changes/Cursor/2023-08-20-ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie|More robust SSH support]] · Reliability and Performance
 <!-- chronolog:end -->

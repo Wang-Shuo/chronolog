@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 5c33069e6cf1f30fb8e6249e466de7b915ce083137f7c232f3c1070f91d8a6f1
+kind: change
+machine_hash: b67660d0a0721fe3fda81ad5d076db208a60be2dcd18733bc0bfb8e6b648bb2d
 product: claude-code
 product_name: Claude Code
 record:
@@ -34,8 +35,9 @@ record:
       `--plugin-dir`, `--permission-mode`, `--model`, `--effort`, and `--dangerously-skip-permissions`
       to configure dispatched background sessions'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.142
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-new-claude-agents-flags-add-dir-settings-mcp-config-plugin-dir-permission
@@ -60,12 +62,12 @@ record:
   title: Added new `claude agents` flags
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-07-added-sandbox-bwrappath-and-sandbox-socatpath-managed-settings-linux-wsl-to-spec|Added
-  sandbox.bwrapPath and sandbox.socatPath managed settings (Linux/WSL)…]]'
-- '[[Changes/Claude Code/2026-05-08-fixed-bash-permission-prompts-showing-an-internal-parser-diagnostic-instead-of-a|Fixed
-  Bash permission prompts showing an internal parser diagnostic instead…]]'
-- '[[Changes/Claude Code/2026-05-08-added-settings-automode-hard-deny-for-auto-mode-classifier-rules-that-block-unco|Added
-  settings.autoMode.hard_deny for auto mode classifier rules that block…]]'
+- '[[Changes/Claude Code/2026-05-11-fixed-skill-name-permission-rules-the-wildcard-form-now-works-as-a-prefix-match|Fixed
+  Skill(name ) permission rules]]'
+- '[[Changes/Claude Code/2026-05-13-5-safety-and-privacy-changes-in-v2-1-141|5 Safety
+  and Privacy changes in v2.1.141]]'
+- '[[Changes/Cursor/2026-05-13-environment-governance-and-security-controls|Environment
+  governance and security controls]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f|claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f]]'
 source_type: github_releases
 theme: safety-privacy
@@ -88,17 +90,17 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-05-14-plugins-with-a-root-level-skill-md-and-no-skills-subdirectory-are-now-surfaced-a|Plugins with a root-level SKILL.md and no skills/ subdirectory are now surfaced…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-05-14-fast-mode-now-uses-opus-4-7-by-default-previously-opus-4-6-set-claude-code-opus|Fast mode now uses Opus 4.7 by default (previously Opus 4.6)]] · Model Support
-- [[Changes/Claude Code/2026-05-14-the-plugin-details-pane-and-claude-plugin-details-now-show-lsp-servers-a-plugin|The /plugin details pane and claude plugin details now show LSP servers a plugin…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-05-14-web-setup-warns-before-replacing-an-existing-github-app-connection|/web-setup warns before replacing an existing GitHub App connection]] · Apps and Integrations
+- [[Changes/Claude Code/2026-05-14-improved-reactive-compaction-the-first-summarize-attempt-now-seeds-from-the-orig|Improved reactive compaction]] · Context Window
+- [[Changes/Claude Code/2026-05-14-improved-hook-configuration-error-configuring-a-prompt-or-agent-type-hook-for-se|Improved hook configuration error]] · Agent Mode
+- [[Changes/Claude Code/2026-05-14-2-model-support-changes-in-v2-1-142|2 Model Support changes in v2.1.142]] · Model Support
+- [[Changes/Claude Code/2026-05-14-3-apps-and-integrations-changes-in-v2-1-142|3 Apps and Integrations changes in v2.1.142]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-08 · Claude Code · [[Changes/Claude Code/2026-05-08-added-settings-automode-hard-deny-for-auto-mode-classifier-rules-that-block-unco|Added settings.autoMode.hard_deny for auto mode classifier rules that block…]]
-- Later: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-powershell-tool-now-passes-executionpolicy-bypass-opt-out-with-claude-code-power|PowerShell tool now passes -ExecutionPolicy Bypass]]
+- Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-environment-governance-and-security-controls|Environment governance and security controls]]
+- Later: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-3-safety-and-privacy-changes-in-v2-1-143|3 Safety and Privacy changes in v2.1.143]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

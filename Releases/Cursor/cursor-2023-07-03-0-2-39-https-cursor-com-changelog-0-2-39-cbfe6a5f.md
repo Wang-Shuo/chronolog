@@ -3,7 +3,7 @@ changes_count: 4
 date: '2023-07-03'
 description: 'Cursor release New inline edits on 2023-07-03: 4 tracked changes across
   Editor Experience, Apps and Integrations, Interface Experience'
-machine_hash: 44451fc9e4ca245e99800fea9b338d90b1078f1b7dd5e31a9dd53aaec2f37f11
+machine_hash: 81d3443c358e4beb2d90d6351e3ab9f7c29f5217c9b2f433f66a6cb62e0e0dd8
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.2.39
 <!-- chronolog:begin region="summary" -->
 Cmd+K's UI has been changed: it's in-editor, "sticky," and @-symbol-compatible.
 
-Tracked 4 of 6 candidate lines.
+Tracked 4 cards from 6 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

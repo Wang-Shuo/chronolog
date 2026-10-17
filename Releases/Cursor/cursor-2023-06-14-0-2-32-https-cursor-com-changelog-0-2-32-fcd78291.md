@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-06-14'
 description: 'Cursor release Small improvements on 2023-06-14: 1 tracked change across
   Developer Workflow'
-machine_hash: d87d574f6690a5edba0c4b0fe3b6d2201de76b2c9a037230bde95d15e58738d4
+machine_hash: a99251135639beddfafff864b195913944d5be5cf68b814c8ed1c893ad8648cd
 product: cursor
 product_name: Cursor
 record:
@@ -39,10 +39,10 @@ version: 0.2.32
 <!-- chronolog:begin region="summary" -->
 Small fix for a format-on-save bug that was introduced in the last release. Some small improvements to the AI linter and codebase-wide chat.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-06-14-small-fix-for-a-format-on-save-bug-that-was-introduced-in-the-last-release-some|Small fix for a format-on-save bug that was introduced in the last release]] · Developer Workflow
+- [[Changes/Cursor/2023-06-14-small-fix-for-a-format-on-save-bug-that-was-introduced-in-the-last-release-some|Small improvements]] · Developer Workflow
 <!-- chronolog:end -->

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9617ed5c14237a394bed95d80c511ee73c95e0cec073a173c1b177020d4a259d
+machine_hash: 80dac79eaeeea4dfc370b3df8a5c664c13348aa68eb8d6d9af5840e12a473f45
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,6 +58,7 @@ related_changes:
   opens an interactive settings panel inside the CLI where you can view…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Claude Opus 4.7 xhigh is now available!
 type: change

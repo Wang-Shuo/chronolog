@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: f6a5f9534286cba3da8def5a36d27840f92bd0724051a2449b8f9688ad4f8244
+machine_hash: 942c0f7df1e4ffce3a337338d43e7c0d7aa2b21849b5d708a61476f9d4b7f98f
 product: cursor
 product_name: Cursor
 record:
@@ -62,6 +62,7 @@ related_changes:
   lot of engineering work spans more than one codebase]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-05-20-26-f6af79ab|cursor-2026-05-20-3-5-https-cursor-com-changelog-05-20-26-f6af79ab]]'
 source_type: cursor_changelog
+superseded: true
 theme: automation-scheduling
 title: Many useful automations exist apart from code, where agents monitor your tools…
 type: change

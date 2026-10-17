@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-06-01'
 description: 'ChatGPT release Find live jobs and format your resume in ChatGPT on
   2026-06-01: 1 tracked change across Search and Browsing'
-machine_hash: 63972607b7be8ce5cadc035b3df2d3152c8bb57e75e553af6ec539a22c0632da
+machine_hash: ea6d28b15c1a0916db8f853652d3c6c1ccee74393a065fb25372f2968ae9753f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Find live jobs and format your resume in ChatGPT
 <!-- chronolog:begin region="summary" -->
 ChatGPT can now help with more of the job search process, from finding relevant live roles to tailoring a resume for a specific opportunity. When you search for jobs, ChatGPT can surface live listings and freelance opportunities from sources like Indeed, Upwork, Appcast, and across the web. Results are personalized…
 
-Tracked 1 of 3 candidate lines.
+Tracked 1 card from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-06-01-chatgpt-can-now-help-with-more-of-the-job-search-process-from-finding-relevant-l|ChatGPT can now help with more of the job search process, from finding relevant live…]] · Search and Browsing
+- [[Changes/ChatGPT/2026-06-01-chatgpt-can-now-help-with-more-of-the-job-search-process-from-finding-relevant-l|Find live jobs and format your resume in ChatGPT]] · Search and Browsing
 <!-- chronolog:end -->

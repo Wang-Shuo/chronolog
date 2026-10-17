@@ -15,9 +15,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 50e2496b997607269a124947840d86ab2d5fa297de3aac3a543e4c66814c9ba5
+kind: change
+machine_hash: 0ea50bc3a9bc183db935ca8606c941d0d19eb68668b5c12b26bb2b148cde4199
 product: cursor
 product_name: Cursor
 record:
@@ -33,8 +34,9 @@ record:
       edits faster in smaller chunks. To enable it, click the settings gear and enable
       "Chunked Streaming" under Features > Copilot++.
     source_release: https://cursor.com/changelog/0-38-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: copilot-now-has-chunked-streaming-currently-in-beta-it-will-surface-edits-faster

@@ -4,8 +4,8 @@ date: '2024-04-12'
 description: 'Cursor · 2024-04-12 · Context Window: .cursorrules: You can write down
   repo-level rules for the AI by creating a .cursorrules file in the root of your…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
-    prompt length for project generation]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 344
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 2f5751e5155f354d0574caac3b0a53b1b8a47e1afe66011d28a013dfb4f1aa06
+kind: change
+machine_hash: d929b8d8db13ddab1ad11e234d82546722949678bf9828e6d1bde3d8360e4ef5
 product: cursor
 product_name: Cursor
 record:
@@ -33,8 +34,9 @@ record:
       for context on what you''re building, style guidelines, or info on commonly-used
       methods.'
     source_release: https://cursor.com/changelog/0-32-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: cursorrules-you-can-write-down-repo-level-rules-for-the-ai-by-creating-a-cursorr
@@ -81,13 +83,13 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2024-04-01 · Cursor · [[Changes/Cursor/2024-04-01-long-context-chat-beta-this-is-a-new-experimental-feature-that-lets-you-talk-wit|Long Context Chat (Beta)]]
-- Later: 2024-06-08 · Cursor · [[Changes/Cursor/2024-06-08-adds-context-pills-to-chat-messages-so-you-can-see-what-will-be-was-used|Adds context pills to chat messages, so you can see what will be/was used]]
+- Later: 2024-06-08 · Cursor · [[Changes/Cursor/2024-06-08-adds-context-pills-to-chat-messages-so-you-can-see-what-will-be-was-used-a324a3|Adds context pills to chat messages, so you can see what will be/was used]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

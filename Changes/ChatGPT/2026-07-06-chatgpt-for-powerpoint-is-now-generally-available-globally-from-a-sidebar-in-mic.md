@@ -15,9 +15,10 @@ diffusion:
   theme: account-access
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 8be0f31d6bd2ff3004075c634bbe6d93e13db0b8b5193037efd8859810e6083b
+kind: launch
+machine_hash: 1c5c125cdda100f656cc57e3b99bdd8041074a79fe22a820a2d7808cde74580d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,8 +50,9 @@ record:
       and review important claims, numbers, and slide changes before sharing. Learn
       more about ChatGPT for PowerPoint.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: launch
   product: chatgpt
   product_name: ChatGPT
   slug: chatgpt-for-powerpoint-is-now-generally-available-globally-from-a-sidebar-in-mic
@@ -79,26 +81,26 @@ record:
     score: 50
     theme: interface-experience
   theme_resolution: manual-semantic-rule-v1
-  title: ChatGPT for PowerPoint is now generally available globally
+  title: ChatGPT for PowerPoint is now generally available
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-22-added-claude-platform-on-aws-refresh-credentials-option-to-login-when-awsauthref|Added
-  "Claude Platform on AWS - refresh credentials" option to /login…]]'
 - '[[Changes/Claude Code/2026-06-24-improved-mcp-oauth-discovery-and-token-requests-now-retry-once-after-transient-n|Improved
   MCP OAuth]]'
 - '[[Changes/Claude Code/2026-06-25-added-a-startup-notice-when-mcp-servers-need-authentication-pointing-at-mcp|Added
   a startup notice when MCP servers need authentication, pointing at /mcp]]'
+- '[[Changes/Claude Code/2026-07-01-login-now-opens-the-sign-in-dialog-from-the-claude-agents-view-instead-of-saying|/login
+  now opens the sign-in dialog from the claude agents view instead…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-fc1a6be9|chatgpt-2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-fc1a6be9]]'
 source_type: chatgpt_changelog
 theme: account-access
-title: ChatGPT for PowerPoint is now generally available globally
+title: ChatGPT for PowerPoint is now generally available
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT for PowerPoint is now generally available globally
+# ChatGPT for PowerPoint is now generally available
 
-**ChatGPT** · 2026-07-06 · [[Themes/account-access|Account and Access]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-fc1a6be9|ChatGPT for PowerPoint is now generally available]]
+**ChatGPT** · 2026-07-06 · [[Themes/account-access|Account and Access]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-fc1a6be9|ChatGPT for PowerPoint is now generally available]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -114,7 +116,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-added-a-startup-notice-when-mcp-servers-need-authentication-pointing-at-mcp|Added a startup notice when MCP servers need authentication, pointing at /mcp]]
+- Earlier: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-login-now-opens-the-sign-in-dialog-from-the-claude-agents-view-instead-of-saying|/login now opens the sign-in dialog from the claude agents view instead…]]
 - Later: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-added-a-warning-when-your-login-is-about-to-expire-so-you-can-re-authenticate-be|Added a warning when your login is about to expire, so you can re-authenticate…]]
 <!-- chronolog:end -->
 

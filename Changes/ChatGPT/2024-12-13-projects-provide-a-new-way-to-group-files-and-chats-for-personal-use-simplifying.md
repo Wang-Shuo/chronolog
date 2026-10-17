@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 50a3d033075677b9a7bf903301c7ec2f6e9a4add62825fe1cea8091e83490eea
+kind: change
+machine_hash: 86e197f417634f906b2df6dbd591a95b796079c9539c1ce3d0092b9b6169442a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,8 +39,9 @@ record:
       in your Project share context with your uploaded files and custom instructions.
       Chats in Projects use GPT-4o and support the following features:'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: projects-provide-a-new-way-to-group-files-and-chats-for-personal-use-simplifying
@@ -63,12 +65,12 @@ record:
   title: Projects provide a new way to group files and chats for personal use, simplifying…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-07-18-we-re-introducing-gpt-4o-mini-the-most-capable-and-cost-efficient-small-model-av-af297b|ChatGPT
-  introduces GPT-4o mini, the most capable and cost-efficient small model…]]'
+- '[[Changes/Cursor/2024-06-08-update-0-35-1-disables-copilot-partial-accepts-by-default-and-makes-the-keybindi|UPDATE
+  (0.35.1): Disables Copilot++ partial accepts by default and makes…]]'
+- '[[Changes/ChatGPT/2024-07-18-we-re-introducing-gpt-4o-mini-the-most-capable-and-cost-efficient-small-model-av-af297b|Introducing
+  GPT-4o mini]]'
 - '[[Changes/Cursor/2024-07-23-new-default-model-we-ve-made-claude-3-5-sonnet-the-default-model-for-users|New
   Default Model: We''ve made Claude 3.5 Sonnet the default model for users]]'
-- '[[Changes/Cursor/2024-10-09-switching-models-is-a-lot-easier-with-model-search-cmd-option-in-the-chat-compos|Switching
-  models is a lot easier with model search (Cmd-option-/) in the chat…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-13-projects-in-chatgpt-01b98e1c|chatgpt-2024-12-13-projects-in-chatgpt-01b98e1c]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -91,14 +93,13 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2024-12-13-advanced-data-analysis|Advanced data analysis]] · Files and Data
-- [[Changes/ChatGPT/2024-12-13-chatgpt-projects-are-available-to-all-plus-team-and-pro-users|ChatGPT Projects are available to all Plus, Team, and Pro users]] · Collaboration
+- [[Changes/ChatGPT/2024-12-13-advanced-data-analysis-1956f5|Advanced data analysis]] · Files and Data
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-10-09 · Cursor · [[Changes/Cursor/2024-10-09-switching-models-is-a-lot-easier-with-model-search-cmd-option-in-the-chat-compos|Switching models is a lot easier with model search (Cmd-option-/) in the chat…]]
+- Earlier: 2024-07-23 · Cursor · [[Changes/Cursor/2024-07-23-new-default-model-we-ve-made-claude-3-5-sonnet-the-default-model-for-users|New Default Model: We've made Claude 3.5 Sonnet the default model for users]]
 - Later: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-deepseek-models-deepseek-r1-and-deepseek-v3-are-supported-in-0-45-and-0-44-you-c|Deepseek models: Deepseek R1 and Deepseek v3 are supported in 0.45 and 0.44]]
 <!-- chronolog:end -->
 

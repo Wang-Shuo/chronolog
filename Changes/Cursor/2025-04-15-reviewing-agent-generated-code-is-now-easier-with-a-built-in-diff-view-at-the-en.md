@@ -5,8 +5,8 @@ description: 'Cursor · 2025-04-15 · Agent Mode: Reviewing agent generated code
   now easier with a built-in diff view at the end of each conversation. You’ll find
   the…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 649
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: e358bafc94982e079accbfe5e05d09de07b50c1e1bb97a6e2d51babe1f88d690
+kind: launch
+machine_hash: 6cd70db63150ee943eace4a46b15014bdcdef1472a498dc36e99ea30f1953abc
 product: cursor
 product_name: Cursor
 record:
@@ -35,36 +36,35 @@ record:
       at the end of each conversation. You’ll find the Review changes button at the
       bottom of chat after a message from the agent.
     source_release: https://cursor.com/changelog/0-49
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: reviewing-agent-generated-code-is-now-easier-with-a-built-in-diff-view-at-the-en
+  slug: making-reviews-easier
   source_release: cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f
   source_type: cursor_changelog
   theme: agent-mode
-  title: Reviewing agent generated code is now easier with a built-in diff view at
-    the end…
+  title: Making reviews easier
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-12-17-docs-git-web-and-folder-are-now-available-in-the-agent|@docs,
-  @git, @web, and @folder are now available in the agent]]'
-- '[[Changes/Cursor/2025-01-23-agent-sees-recent-changes-the-agent-can-use-a-tool-to-see-your-recent-changes-it|Agent
-  sees recent changes: The agent can use a tool to see your recent changes]]'
-- '[[Changes/Cursor/2025-01-23-cursor-rules-users-can-write-several-repository-level-rules-to-disk-in-the-curso|.cursor/rules:
-  Users can write several repository-level rules to disk…]]'
+- '[[Changes/Cursor/2025-02-19-agent-is-ready-agent-is-now-the-default-mode-bringing-a-more-powerful-and-unifie|Agent
+  is ready: Agent is now the default mode, bringing a more powerful and unified…]]'
+- '[[Changes/Cursor/2025-02-19-agent-tool-limit-upon-reaching-the-25-tool-call-limit-you-can-press-continue-to|Agent
+  tool limit]]'
+- '[[Changes/Cursor/2025-03-23-built-in-modes-custom-modes-beta|Built-in modes & custom
+  modes (beta)]]'
 source_release: '[[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f]]'
 source_type: cursor_changelog
 theme: agent-mode
-title: Reviewing agent generated code is now easier with a built-in diff view at the
-  end…
+title: Making reviews easier
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Reviewing agent generated code is now easier with a built-in diff view at the end…
+# Making reviews easier
 
-**Cursor** · 2025-04-15 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/0-49) · from [[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|Rules generation, improved agent terminal and MCP images]]
+**Cursor** · 2025-04-15 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://cursor.com/changelog/0-49) · from [[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|Rules generation, improved agent terminal and MCP images]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -76,23 +76,25 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2025-04-15-we-ve-also-fixed-a-long-standing-issue-where-always-attached-rules-now-persist-a|Cursor fixes a long-standing issue where Always attached rules now persist across…]] · Agent Mode
-- [[Changes/Cursor/2025-04-15-for-auto-attached-rules-with-path-patterns-defined-agent-will-now-automatically|For Auto Attached rules with path patterns defined, Agent will now automatically…]] · Agent Mode
-- [[Changes/Cursor/2025-04-15-you-can-now-generate-rules-directly-from-a-conversation-using-the-generate-curso|Generate rules directly from a conversation using the /Generate Cursor Rules command]] · Context Window
-- [[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|Chat history has moved into the command palette]] · Interface Experience
+- [[Changes/Cursor/2025-04-15-automated-and-improved-rules-15afc6|Automated and improved rules]] · Context Window
+- [[Changes/Cursor/2025-04-15-improved-agent-terminal-control|Improved agent terminal control]] · Developer Workflow
+- [[Changes/Cursor/2025-04-15-new-models|New models]] · Model Support
+- [[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|More accessible history]] · Interface Experience
+- [[Changes/Cursor/2025-04-15-images-in-mcp|Images in MCP]] · Apps and Integrations
+- [[Changes/Cursor/2025-04-15-project-structure-in-context-beta|Project structure in context (Beta)]] · Context Window
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-cursor-rules-users-can-write-several-repository-level-rules-to-disk-in-the-curso|.cursor/rules: Users can write several repository-level rules to disk…]]
-- Later: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-this-release-brings-bugbot-for-code-review-a-first-look-at-memories-one-click-mc|Cursor brings Bugbot for code review, a first look at memories, one-click MCP setup…]]
+- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-built-in-modes-custom-modes-beta|Built-in modes & custom modes (beta)]]
+- Later: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-fast-edits-for-long-files-with-agent|Fast edits for long files with Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: a3a0b7332a4d46bdabbb922fa41761e61a3f54dab04e453c1fb3eeaf3ef6faa2
+machine_hash: 9f2c9acc29d99955c641c95992640f1545a111a2379e81192ff81ff4b44cc9cc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,6 +53,7 @@ related_changes:
   introduces Pro 500, a new $500/month plan with the highest included usage…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-a-new-pro-plan-with-astra-ultrafast-f0c84e90|chatgpt-2026-09-29-a-new-pro-plan-with-astra-ultrafast-f0c84e90]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: pricing-model
 title: Among Pro plans, Ultrafast is available only with Pro 500
 type: change

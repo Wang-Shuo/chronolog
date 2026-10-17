@@ -15,9 +15,10 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 3e73f21367c08e4f7a31008c32d493d7ba0d8fea218a9941f2fe883cfaf71814
+kind: pricing
+machine_hash: 43728b7e8007be997edf909e314b2489deadf36cab5b10206a0cc882bb92518b
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +32,9 @@ record:
   - quote: Customers must be on usage-based billing for Bugbot to customize effort
       levels. Learn more in our docs and go to your Bugbot dashboard to get started.
     source_release: https://cursor.com/changelog/05-11-26
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: pricing
   product: cursor
   product_name: Cursor
   slug: customers-must-be-on-usage-based-billing-for-bugbot-to-customize-effort-levels-l
@@ -42,12 +44,12 @@ record:
   title: Customers must be on usage-based billing for Bugbot to customize effort levels
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-04-09-plus-20-month-plus-remains-best-for-steady-day-to-day-use-as-the-temporary-codex|Plus
-  ($20/month): Plus remains best for steady, day-to-day use]]'
-- '[[Changes/ChatGPT/2026-04-09-pro-200-month-our-highest-usage-option-remains-available-and-continues-on-its-cu|Pro
-  ($200/month): Our highest-usage option remains available and continues…]]'
 - '[[Changes/ChatGPT/2026-04-09-you-can-upgrade-switch-or-cancel-your-plan-from-settings-my-plan-or-from-the-pri|You
   can upgrade, switch, or cancel your plan from Settings  My Plan or…]]'
+- '[[Changes/Claude Code/2026-04-09-fixed-false-bash-permission-prompts-for-cut-d-paste-d-column-s-awk-print-1-file|Fixed
+  false Bash permission prompts for cut -d /, paste -d /, column -s /…]]'
+- '[[Changes/Claude Code/2026-04-22-opentelemetry-user-prompt-events-now-include-command-name-and-command-source-for|OpenTelemetry:
+  user_prompt events now include command_name and command_source…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617|cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617]]'
 source_type: cursor_changelog
 theme: pricing-model
@@ -58,7 +60,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Customers must be on usage-based billing for Bugbot to customize effort levels
 
-**Cursor** · 2026-05-11 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://cursor.com/changelog/05-11-26) · from [[Releases/Cursor/cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617|Bugbot Effort Levels]]
+**Cursor** · 2026-05-11 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://cursor.com/changelog/05-11-26) · from [[Releases/Cursor/cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617|Bugbot Effort Levels]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -79,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-04-09 · ChatGPT · [[Changes/ChatGPT/2026-04-09-you-can-upgrade-switch-or-cancel-your-plan-from-settings-my-plan-or-from-the-pri|You can upgrade, switch, or cancel your plan from Settings  My Plan or…]]
+- Earlier: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-opentelemetry-user-prompt-events-now-include-command-name-and-command-source-for|OpenTelemetry: user_prompt events now include command_name and command_source…]]
 - Later: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-added-projected-context-cost-per-turn-and-per-invocation-token-estimates-to-the|Added projected context cost (per-turn and per-invocation token estimates)…]]
 <!-- chronolog:end -->
 

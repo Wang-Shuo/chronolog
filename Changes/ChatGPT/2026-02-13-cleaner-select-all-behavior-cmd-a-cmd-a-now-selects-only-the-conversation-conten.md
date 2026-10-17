@@ -5,19 +5,19 @@ description: 'ChatGPT · 2026-02-13 · Collaboration: Cleaner “Select All” b
   (Cmd+A). Cmd+A now selects only the conversation content, excluding surrounding
   interface…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
-    can also share private docs]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 889
+  lag_days: 996
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 79d8e444f0083a406f50eed2265fe350159a91a60b9746d59d02390f1a7843df
+kind: change
+machine_hash: 1b305c8836bf014a67ac8c31190d8acf11d5a335e85fa4582a68d95f2b12744e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,10 +33,12 @@ record:
       content, excluding surrounding interface elements for cleaner copying and sharing
       of chat transcripts.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
+  scope: Web
   slug: cleaner-select-all-behavior-cmd-a-cmd-a-now-selects-only-the-conversation-conten
   source_release: chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0
   source_type: chatgpt_changelog
@@ -46,10 +48,11 @@ record:
 related_changes:
 - '[[Changes/ChatGPT/2025-11-25-share-photos-to-discuss-them-out-loud|Share photos
   to discuss them out loud]]'
-- '[[Changes/Cursor/2025-12-18-you-can-now-share-agent-conversations-with-your-team|Share
-  agent conversations with your team]]'
+- '[[Changes/Cursor/2026-01-22-added-team-and-mdm-hooks-support-to-cli-with-more-efficient-execution|Added
+  team and MDM hooks support to CLI with more efficient execution]]'
 - '[[Changes/Claude Code/2026-02-05-added-research-preview-agent-teams-feature-for-multi-agent-collaboration-token-i|Added
   research preview agent teams feature for multi-agent collaboration…]]'
+scope: Web
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0|chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -60,7 +63,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Cleaner “Select All” behavior (Cmd+A)
 
-**ChatGPT** · 2026-02-13 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0|ChatGPT updates: Better file uploads, easier copying, and more reliable long chats]]
+**ChatGPT** · 2026-02-13 · [[Themes/collaboration|Collaboration]] · Web · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0|ChatGPT updates: Better file uploads, easier copying, and more reliable long chats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -76,6 +79,7 @@ type: change
 - [[Changes/ChatGPT/2026-02-13-simplified-composer-the-message-composer-has-been-streamlined-to-reduce-visual-c|Simplified composer]] · Interface Experience
 - [[Changes/ChatGPT/2026-02-13-attach-up-to-20-files-in-a-single-message-you-can-now-upload-up-to-20-files-at-o|Attach up to 20 files in a single message]] · Context Window
 - [[Changes/ChatGPT/2026-02-13-expanded-file-type-support-we-now-support-additional-text-and-code-file-formats|Expanded file type support]] · Files and Data
+- [[Changes/ChatGPT/2026-02-13-performance-improvements-we-ve-made-multiple-performance-enhancements-to-improve|Performance improvements]] · Reliability and Performance
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
@@ -88,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

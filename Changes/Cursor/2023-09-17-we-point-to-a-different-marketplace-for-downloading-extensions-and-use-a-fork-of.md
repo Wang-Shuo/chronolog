@@ -5,8 +5,8 @@ description: 'Cursor · 2023-09-17 · Apps and Integrations: We point to a diffe
   marketplace for downloading extensions, and use a fork of ms-python and pyright
   to provide…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 178
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: cd85b061ed62e5ced91e0aaf219338aef6de1ebdc39d6dc6d4f495d0928760da
+kind: change
+machine_hash: 6088f0a300c7fd7863a68c5bfa66f6e17bdb9b91507c5eec40d2a09ff8817c55
 product: cursor
 product_name: Cursor
 record:
@@ -33,8 +34,9 @@ record:
   - quote: We point to a different marketplace for downloading extensions, and use
       a fork of ms-python and pyright to provide python support.
     source_release: https://cursor.com/changelog/0-11-1
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: cursor
   product_name: Cursor
   slug: we-point-to-a-different-marketplace-for-downloading-extensions-and-use-a-fork-of
@@ -43,25 +45,24 @@ record:
   theme: apps-integrations
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: We point to a different marketplace for downloading extensions, and use a
-    fork…
+  title: Cursor Python and Cursor Marketplace
   type: change
 related_changes:
+- '[[Changes/Cursor/2023-07-07-importing-vs-code-extensions-now-takes-into-account-enabled-disabled|Importing
+  VS Code extensions now takes into account enabled/disabled]]'
 - '[[Changes/Cursor/2023-07-28-more-robust-extension-handling-you-can-now-use-pre-release-extensions-again|More
   robust extension handling]]'
-- '[[Changes/Cursor/2023-09-08-the-main-addition-in-this-update-is-better-docs-support-this-means-you-can-add-a|The
-  main addition in this update is better docs support]]'
-- '[[Changes/Cursor/2023-09-11-we-serve-extensions-now-using-cursor-s-extension-marketplace|We
-  serve extensions now using Cursor''s Extension Marketplace]]'
+- '[[Changes/Cursor/2023-09-11-we-serve-extensions-now-using-cursor-s-extension-marketplace|Cursor
+  Marketplace]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-17-0-11-1-nightly-https-cursor-com-changelog-0-11-1-9c40f1bf|cursor-2023-09-17-0-11-1-nightly-https-cursor-com-changelog-0-11-1-9c40f1bf]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: We point to a different marketplace for downloading extensions, and use a fork…
+title: Cursor Python and Cursor Marketplace
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We point to a different marketplace for downloading extensions, and use a fork…
+# Cursor Python and Cursor Marketplace
 
 **Cursor** · 2023-09-17 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://cursor.com/changelog/0-11-1) · from [[Releases/Cursor/cursor-2023-09-17-0-11-1-nightly-https-cursor-com-changelog-0-11-1-9c40f1bf|Cursor Python and Cursor Marketplace]]
 <!-- chronolog:end -->
@@ -79,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2023-09-11 · Cursor · [[Changes/Cursor/2023-09-11-we-serve-extensions-now-using-cursor-s-extension-marketplace|We serve extensions now using Cursor's Extension Marketplace]]
+- Earlier: 2023-09-11 · Cursor · [[Changes/Cursor/2023-09-11-we-serve-extensions-now-using-cursor-s-extension-marketplace|Cursor Marketplace]]
 - Later: 2023-10-20 · Cursor · [[Changes/Cursor/2023-10-20-cursor-is-now-based-on-vs-code-1-83-1-this-ensures-that-the-newest-versions-of-a|Cursor is now based on VS Code 1.83.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

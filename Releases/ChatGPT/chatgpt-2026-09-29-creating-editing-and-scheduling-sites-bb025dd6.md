@@ -3,7 +3,7 @@ changes_count: 2
 date: '2026-09-29'
 description: 'ChatGPT release Creating, editing, and scheduling Sites on 2026-09-29:
   2 tracked changes across Automation and Scheduling, Mobile and Desktop'
-machine_hash: 31f8396c0516fa4b8704e0014f62898cc179774248b77d211d1a40e680b8e632
+machine_hash: 8f46865267ada856ca01fbcc6e05662b8d8e70b9af8226ac07529fcbad6d2a19
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +40,7 @@ version: Creating, editing, and scheduling Sites
 <!-- chronolog:begin region="summary" -->
 Site owners and editors on Plus and Pro can select Edit site from a published Site in a desktop browser to continue editing in ChatGPT, review changes, and publish when ready.
 
-Tracked 2 of 2 candidate lines.
+Tracked 2 cards from 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

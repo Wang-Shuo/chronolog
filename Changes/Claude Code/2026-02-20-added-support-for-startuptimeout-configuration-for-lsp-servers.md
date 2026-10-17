@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 29d1f14d5b5588098854aec40738cd240a3c7efb8950173f361b2c5511c9c6bc
+machine_hash: cf7d3b48067e3d32d012080fca0bed26ce64596e970cc344a85047dc810819fd
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   WorktreeCreate and WorktreeRemove hook events, enabling custom VCS setup…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-20-v2-1-50-github-288920711-09694b82|claude-code-2026-02-20-v2-1-50-github-288920711-09694b82]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added support for startupTimeout configuration for LSP servers
 type: change

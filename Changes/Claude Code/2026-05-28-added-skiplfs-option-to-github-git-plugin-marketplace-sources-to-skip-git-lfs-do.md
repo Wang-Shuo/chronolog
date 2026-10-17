@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 367cfe4a2f737b225eceb018e624ff8aa4221bf604b20e0d69a706b05e1a26fd
+machine_hash: 39a78629e1d93d2a7c2083062d02b9cd7ffcbb5df7ab52b55d04dc3f3ba5e52c
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   hooks can now return reloadSkills: true to re-scan skill…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a|claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added skipLfs option to github/git plugin marketplace sources to skip Git LFS…
 type: change

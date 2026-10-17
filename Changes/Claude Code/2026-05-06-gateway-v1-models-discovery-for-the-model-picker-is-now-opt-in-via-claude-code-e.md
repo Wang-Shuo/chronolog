@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 4240a36fc84051bbecf73bede78e96bc11d7eeb5a3600413bcd25307861c4ced
+machine_hash: edf4f5c51ff1ef58ea5b0defe4953805813d70a63fe65d5b2455029fa00968ac
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,6 +61,7 @@ related_changes:
   rolls out GPT-5.5 Instant as ChatGPT’s new default model]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f|claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Gateway /v1/models discovery for the /model picker is now opt-in…
 type: change

@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 3
 date: '2025-09-17'
 description: 'ChatGPT release Toggle thinking time in the message composer on 2025-09-17:
-  5 tracked changes across Model Support, Reliability and Performance'
-machine_hash: 45a44ae3534574503285ad840efd63b5a9fded54f5e1710ea1f569944223cf05
+  3 tracked changes across Mobile and Desktop, Model Support, Reliability and…'
+machine_hash: 1dfd143848bcd4332e0d561f1e8427566286f7ebe37e8c06226a52ebfd0dc958
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,16 +36,14 @@ version: Toggle thinking time in the message composer
 
 ## Summary
 <!-- chronolog:begin region="summary" -->
-5 tracked changes across 2 themes: Model Support, Reliability and Performance.
+3 tracked changes across 3 themes: Mobile and Desktop, Model Support, Reliability and Performance.
 
-Tracked 5 of 9 candidate lines.
+Tracked 3 cards from 9 candidate lines; 1 line pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-09-17-pro-users-get-two-additional-options-light-snappiest-and-heavy-deeper-reasoning|Pro users get two additional options: Light (snappiest) and Heavy (deeper reasoning)]] · Model Support
-- [[Changes/ChatGPT/2025-09-17-we-re-giving-plus-business-and-pro-users-more-control-over-how-long-gpt-5-thinks|We’re giving Plus, Business, and Pro users more control over how long GPT-5 thinks…]] · Model Support
-- [[Changes/ChatGPT/2025-09-17-when-you-select-gpt-5-with-thinking-in-chatgpt-you-ll-see-a-new-thinking-time-to|When you select GPT-5 with Thinking in ChatGPT, you’ll see a new thinking time…]] · Model Support
-- [[Changes/ChatGPT/2025-09-17-standard-new-default-balancing-speed-and-intelligence-and-extended-the-previous|Standard (new default, balancing speed and intelligence) and Extended…]] · Reliability and Performance
-- [[Changes/ChatGPT/2025-09-17-all-queries-default-to-standard-unless-you-choose-to-change-it-once-you-choose-a|All queries default to Standard unless you choose to change it]] · Model Support
+- [[Changes/ChatGPT/2025-09-17-the-thinking-time-toggle-is-live-today-on-chatgpt-com-settings-you-choose-on-the|The thinking-time toggle is live today on chatgpt.com]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-09-17-5-model-support-changes-in-toggle-thinking-time-in-the-message|5 Model Support changes in Toggle thinking time in the message…]] · Model Support · Digest
+- [[Changes/ChatGPT/2025-09-17-2-reliability-and-performance-changes-in-toggle-thinking-time-in-the-message|2 Reliability and Performance changes in Toggle thinking time in the message…]] · Reliability and Performance · Digest
 <!-- chronolog:end -->

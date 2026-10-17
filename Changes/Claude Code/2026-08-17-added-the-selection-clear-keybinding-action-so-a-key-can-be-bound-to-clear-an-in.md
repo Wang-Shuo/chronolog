@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7f1c3f81cc6c88b749d3c1a824a208e537805ed3f8405f0a11e59dc9c37e0138
+machine_hash: c0e53418ff0cdca8984da350dff63b227a94560f061ecfdacd1793f137af95e4
 product: claude-code
 product_name: Claude Code
 record:
@@ -59,6 +59,7 @@ related_changes:
   terminal title busy-spinner glyphs to reduce tab-bar jitter on some terminals]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673|claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added the selection:clear keybinding action, so a key can be bound to clear…
 type: change

@@ -14,9 +14,10 @@ diffusion:
   theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 1e0b453add3cccbad824066ccf46efcab519184c31837a52405131b06f965352
+kind: change
+machine_hash: 07e131ef99c242e9efd3237491787b956895a09d42dba106634674084848c9c0
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Added `--from-pr` flag to resume sessions linked to a specific GitHub PR
       number or URL
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.27
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-from-pr-flag-to-resume-sessions-linked-to-a-specific-github-pr-number-or-u
@@ -46,7 +48,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-06-12-starting-a-new-project-directly-from-a-chat|Starting
   a new project directly from a chat]]'
 - '[[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21|Branch
-  conversations in ChatGPT, making it easier to explore different directions…]]'
+  conversations on web]]'
 - '[[Changes/Claude Code/2025-12-19-added-support-for-custom-session-ids-when-forking-sessions-with-session-id-combi|Added
   support for custom session IDs when forking sessions with --session-id…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-30-v2-1-27-github-281663155-d003937d|claude-code-2026-01-30-v2-1-27-github-281663155-d003937d]]'
@@ -72,9 +74,8 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-01-30-2-developer-workflow-changes-in-v2-1-27|2 Developer Workflow changes in v2.1.27]] · Developer Workflow
 - [[Changes/Claude Code/2026-01-30-permissions-now-respect-content-level-ask-over-tool-level-allow-previously-allow|Permissions now respect content-level ask over tool-level allow]] · Safety and Privacy
-- [[Changes/Claude Code/2026-01-30-sessions-are-now-automatically-linked-to-prs-when-created-via-gh-pr-create|Sessions are now automatically linked to PRs when created via gh pr create]] · Developer Workflow
-- [[Changes/Claude Code/2026-01-30-added-tool-call-failures-and-denials-to-debug-logs|Added tool call failures and denials to debug logs]] · Developer Workflow
 - [[Changes/Claude Code/2026-01-30-vscode-enabled-claude-in-chrome-integration|VSCode: Enabled Claude in Chrome integration]] · Apps and Integrations
 <!-- chronolog:end -->
 

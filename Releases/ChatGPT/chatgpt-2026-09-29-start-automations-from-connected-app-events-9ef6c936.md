@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-09-29'
 description: 'ChatGPT release Start automations from connected-app events on 2026-09-29:
   1 tracked change across Apps and Integrations'
-machine_hash: b03c92540ae4dbfa81d6cfc390bbfa3baca1f26fb2aa507c6f8bd43bb5d0699f
+machine_hash: dbe575e9beec1d5f2e5d94b3eaf19dfb079553d9c7b41cbdc78186bab7932666
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Start automations from connected-app events
 <!-- chronolog:begin region="summary" -->
 Supported plugins can use MCP events to start an automation when something changes in a connected app. Describe what you want ChatGPT to follow and what it should do with matching updates—for example, prepare a summary when new information arrives in a channel you have asked it to monitor.
 
-Tracked 1 of 3 candidate lines.
+Tracked 1 card from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-09-29-supported-plugins-can-use-mcp-events-to-start-an-automation-when-something-chang|Supported plugins can use MCP events to start an automation when something changes…]] · Apps and Integrations
+- [[Changes/ChatGPT/2026-09-29-supported-plugins-can-use-mcp-events-to-start-an-automation-when-something-chang-d9add6|Start automations from connected-app events]] · Apps and Integrations
 <!-- chronolog:end -->

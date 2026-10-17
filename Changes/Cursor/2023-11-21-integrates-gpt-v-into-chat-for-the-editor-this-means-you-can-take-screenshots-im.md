@@ -5,8 +5,8 @@ description: 'Cursor · 2023-11-21 · Context Window: Integrates GPT-V into chat
   the editor. This means you can take screenshots/images and drag it into the chat
   inputbox…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended
-    prompt length for project generation]]'
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 201
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: context-window
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 5bb724fc735f4974470d6c529a5aec1ad9661996423b890d0d313fb3348aa963
+kind: change
+machine_hash: 31e9bb182e81ed8eb3e547dd98587f6b6c2ef06f9fe967dde522bfe95f2d08aa
 product: cursor
 product_name: Cursor
 record:
@@ -31,8 +32,9 @@ record:
   - quote: Integrates GPT-V into chat for the editor. This means you can take screenshots/images
       and drag it into the chat inputbox to have Cursor use them as context.
     source_release: https://cursor.com/changelog/0-16-2-nightly
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: integrates-gpt-v-into-chat-for-the-editor-this-means-you-can-take-screenshots-im
@@ -49,24 +51,23 @@ record:
     score: 50
     theme: editor-experience
   theme_resolution: manual-semantic-rule-v1
-  title: Integrates GPT-V into chat for the editor
+  title: GPT-V Support
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-08-you-can-also-paste-a-url-into-the-chat-and-the-model-will-automatically-include|You
-  can also paste a url into the chat and the model will automatically include…]]'
-- '[[Changes/Cursor/2023-09-10-ask-a-question-about-an-edit-that-the-model-with-option-enter-or-bring-in-contex|Ask
-  a question about an edit that the model with option+enter, or bring in context…]]'
+- '[[Changes/Cursor/2023-09-08-long-files-in-chat|Long files in chat]]'
+- '[[Changes/Cursor/2023-09-10-ask-a-question-about-an-edit-that-the-model-with-option-enter-or-bring-in-contex|Quick
+  question and @chat in cmd+k]]'
 - '[[Changes/Cursor/2023-11-10-copilot-beta-this-is-an-add-on-to-copilot-that-suggests-diffs-around-your-cursor|Copilot++
   (beta): this is an "add-on" to Copilot that suggests diffs around…]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-21-0-16-2-nightly-https-cursor-com-changelog-0-16-2-nightly-872eb87e|cursor-2023-11-21-0-16-2-nightly-https-cursor-com-changelog-0-16-2-nightly-872eb87e]]'
 source_type: cursor_changelog
 theme: context-window
-title: Integrates GPT-V into chat for the editor
+title: GPT-V Support
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Integrates GPT-V into chat for the editor
+# GPT-V Support
 
 **Cursor** · 2023-11-21 · [[Themes/context-window|Context Window]] · [Official source](https://cursor.com/changelog/0-16-2-nightly) · from [[Releases/Cursor/cursor-2023-11-21-0-16-2-nightly-https-cursor-com-changelog-0-16-2-nightly-872eb87e|GPT-V Support]]
 <!-- chronolog:end -->
@@ -85,13 +86,13 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2023-11-10 · Cursor · [[Changes/Cursor/2023-11-10-copilot-beta-this-is-an-add-on-to-copilot-that-suggests-diffs-around-your-cursor|Copilot++ (beta): this is an "add-on" to Copilot that suggests diffs around…]]
-- Later: 2023-11-24 · Cursor · [[Changes/Cursor/2023-11-24-you-can-now-folder-in-the-chat-to-chat-with-a-folder-let-us-know-what-you-think|@folder in the chat to chat with a folder]]
+- Later: 2023-11-24 · Cursor · [[Changes/Cursor/2023-11-24-you-can-now-folder-in-the-chat-to-chat-with-a-folder-let-us-know-what-you-think|@folder]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-extended-prompt-length-for-project-generation|Extended prompt length for project generation]]
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

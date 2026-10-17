@@ -3,7 +3,7 @@ changes_count: 2
 date: '2024-02-15'
 description: 'Cursor release Linter, Interpreter Mode Updates on 2024-02-15: 2 tracked
   changes across Agent Mode, Developer Workflow'
-machine_hash: 79ce0f33b65027c934957a65501fa0f583889da5c40729c1acdd4867f79d3913
+machine_hash: 0530ea19d393fbb0e6e82e7fc53b3fd655fe32c50206df5a75b7c37c97578217
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.27.x
 <!-- chronolog:begin region="summary" -->
 Two new updates to experimental features:
 
-Tracked 2 of 4 candidate lines.
+Tracked 2 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: bd2137bcb9b48459aa86112aa8b526180d3fa025b86e6308437dba5ea5a270a3
+machine_hash: 39628e88d824a30691327d37bbaf502ccf71688fd24c7001872d244e8087964f
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   sandbox.filesystem.disabled setting to skip filesystem isolation…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae|claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed read-only commands on Windows accessing network paths without a permission
   prompt

@@ -14,9 +14,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 378b63af8f96b004528e74f8e66dc608e31342cd9980efe99ef03ed14c05d8ed
+kind: change
+machine_hash: 2392288abe1ceae8f2325c95d1751f6d1eb0e6fd8d10b3dc99df37dac3bff2d3
 product: cursor
 product_name: Cursor
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Cursor Tab now auto-imports symbols in Python files! We've also significantly
       improved the Cursor Tab stability.
     source_release: https://cursor.com/changelog/0-41-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: cursor-tab-now-auto-imports-symbols-in-python-files-we-ve-also-significantly-imp
@@ -51,11 +53,11 @@ record:
   title: Cursor Tab now auto-imports symbols in Python files!
   type: change
 related_changes:
+- '[[Changes/Cursor/2024-05-03-stability-this-build-fixes-a-connection-error-problem-that-was-consistently-affe|Stability:
+  This build fixes a connection error problem that was consistently…]]'
 - '[[Changes/Cursor/2024-07-23-copilot-now-has-chunked-streaming-currently-in-beta-it-will-surface-edits-faster|Copilot++
   now has chunked streaming (currently in Beta)!]]'
 - '[[Changes/Cursor/2024-08-02-faster-cursor-tab-suggestions|Faster Cursor Tab Suggestions!]]'
-- '[[Changes/Cursor/2024-09-17-apply-and-composer-are-slightly-faster-in-this-release|Apply
-  and Composer are slightly faster in this release]]'
 source_release: '[[Releases/Cursor/cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8|cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -78,17 +80,18 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2024-09-17-apply-and-composer-are-slightly-faster-in-this-release|Apply and Composer are slightly faster in this release]] · Reliability and Performance
+- [[Changes/Cursor/2024-09-17-update-0-41-1-0-41-3-improves-onboarding-ux-fixes-a-bug-with-composer-cancellati|UPDATE (0.41.1–0.41.3): Improves onboarding UX, fixes a bug with composer…]] · Editor Experience
 - [[Changes/Cursor/2024-09-17-composer-notepads-previously-called-projects-can-now-include-tagged-files-and-be|Composer Notepads (previously called Projects) can now include tagged files…]] · Projects and Workspaces
-- [[Changes/Cursor/2024-09-17-composer-can-now-be-added-to-the-ai-pane-this-release-also-includes-many-stabili|Composer can now be added to the AI pane]] · Reliability and Performance
+- [[Changes/Cursor/2024-09-17-composer-can-now-be-added-to-the-ai-pane-this-release-also-includes-many-stabili-7b4c37|Composer can now be added to the AI pane]] · Reliability and Performance
 - [[Changes/Cursor/2024-09-17-this-update-fixes-the-following-security-issue-cve-2024-45599|This update fixes the following security issue: CVE-2024-45599]] · Safety and Privacy
+- [[Changes/Cursor/2024-09-17-we-ve-added-support-for-using-cursor-on-macs-over-remote-ssh|Cursor adds support for using Cursor on Macs over Remote SSH]] · Developer Workflow
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-08-02 · Cursor · [[Changes/Cursor/2024-08-02-faster-cursor-tab-suggestions|Faster Cursor Tab Suggestions!]]
-- Later: 2025-02-21 · ChatGPT · [[Changes/ChatGPT/2025-02-21-2-text-selection-improvements-you-can-now-select-text-across-horizontal-rulers-3|Text selection improvements: you can now select text across horizontal rulers]]
+- Later: 2024-11-24 · Cursor · [[Changes/Cursor/2024-11-24-several-performance-improvements|Several performance improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

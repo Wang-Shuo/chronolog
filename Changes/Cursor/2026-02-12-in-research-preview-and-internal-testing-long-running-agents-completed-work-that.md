@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6db1725d4993660f5e20e79ae007a19bfd3ce361201a8cfb68ef8bd415e7054d
+machine_hash: a0d2e80ca013599cc03098ce19c67af1491371c5c6274b4c497e9b1b776759bb
 product: cursor
 product_name: Cursor
 record:
@@ -51,6 +51,7 @@ related_changes:
   long-running agent is now available at cursor.com/agents for Ultra, Teams…]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-12-long-running-agents-in-research-preview-https-cursor-com-changel-2b95c718|cursor-2026-02-12-long-running-agents-in-research-preview-https-cursor-com-changel-2b95c718]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: In research preview and internal testing, long-running agents completed work…
 type: change

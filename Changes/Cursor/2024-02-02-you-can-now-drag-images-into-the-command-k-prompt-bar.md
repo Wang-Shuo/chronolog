@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 9fe282e62b74f0fd7dfad0a2f4aff42bc8416c2d578be493f68a7020659803fd
+kind: change
+machine_hash: a3f114eb9aba9a3fc939b590da92d7bb44a7a1a37bb76c92ce4d551dcfa7ae9d
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: You can now drag images into the Command-K prompt bar!
     source_release: https://cursor.com/changelog/0-25-x
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: you-can-now-drag-images-into-the-command-k-prompt-bar
@@ -41,9 +43,9 @@ record:
   title: Drag images into the Command-K prompt bar!
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-06-allows-users-to-provide-feedback-on-the-chat-response|Allows
-  users to provide feedback on the chat response]]'
-- '[[Changes/Cursor/2023-12-06-minor-onboarding-changes|Minor onboarding changes]]'
+- '[[Changes/Cursor/2023-11-27-copilot-improvements-we-ve-spent-some-time-improving-the-latency-of-copilot-and|Copilot++
+  Improvements: We''ve spent some time improving the latency…]]'
+- '[[Changes/Cursor/2023-12-06-minor-onboarding-changes-19f3e5|Onboarding & Feedback]]'
 - '[[Changes/Cursor/2023-12-16-previews-we-made-it-easier-to-see-what-codeblock-you-re-ing|@
   previews: We made it easier to see what codeblock you''re @''ing]]'
 source_release: '[[Releases/Cursor/cursor-2024-02-02-0-25-x-https-cursor-com-changelog-0-25-x-29976ab7|cursor-2024-02-02-0-25-x-https-cursor-com-changelog-0-25-x-29976ab7]]'

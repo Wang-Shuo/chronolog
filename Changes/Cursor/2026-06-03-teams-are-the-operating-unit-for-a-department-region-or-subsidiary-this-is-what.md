@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8486c180b6f9e7a2f70b7bf917aa8ca40ee60bbe750ba615cd589d1170e55370
+machine_hash: d49f90dea891feaff042e35a682983bf7b3a8c068572018fb3e71a080d540ce4
 product: cursor
 product_name: Cursor
 record:
@@ -67,6 +67,7 @@ related_changes:
   customers can now manage multiple Cursor teams from one place…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576|cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576]]'
 source_type: cursor_changelog
+superseded: true
 theme: safety-privacy
 title: Teams are the operating unit for a department, region, or subsidiary
 type: change

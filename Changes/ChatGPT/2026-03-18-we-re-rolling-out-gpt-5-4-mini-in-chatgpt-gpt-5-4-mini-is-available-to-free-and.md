@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: c3385c7e90a46c1198a0a2b1e00a50fce37d53a6a80aedddcb6ff15b54d57396
+kind: change
+machine_hash: 6dc42490cd2a03296859d8494de712265ffa22b8ce823044c50857b6fc9de3d3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,8 +47,9 @@ record:
       will not appear as a selectable model in the model picker. Learn more in our
       blog post.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and
@@ -70,7 +72,7 @@ record:
     score: 50
     theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v2
-  title: ChatGPT rolls out GPT-5.4 mini
+  title: GPT-5.4 mini in ChatGPT
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-03-17-pro-the-most-advanced-reasoning-models|Pro – the most
@@ -82,12 +84,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-18-gpt-5-4-mini-in-chatgpt-2d1677c3|chatgpt-2026-03-18-gpt-5-4-mini-in-chatgpt-2d1677c3]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: ChatGPT rolls out GPT-5.4 mini
+title: GPT-5.4 mini in ChatGPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT rolls out GPT-5.4 mini
+# GPT-5.4 mini in ChatGPT
 
 **ChatGPT** · 2026-03-18 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-18-gpt-5-4-mini-in-chatgpt-2d1677c3|GPT-5.4 mini in ChatGPT]]
 <!-- chronolog:end -->

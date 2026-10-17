@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 31b2aaee4e64c801e2f28bfe9e9ab426091f0bb2b0acd1679274442699c5918c
+kind: change
+machine_hash: d9e6c98697b352b9c97171288bb318308af6e68c5cd979500e159de64794de1e
 product: claude-code
 product_name: Claude Code
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Improved the extended-thinking indicator with a rotating progress hint
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.109
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: improved-the-extended-thinking-indicator-with-a-rotating-progress-hint
@@ -41,12 +43,11 @@ record:
   title: Improved the extended-thinking indicator with a rotating progress hint
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-15-added-autoscrollenabled-config-to-disable-conversation-auto-scroll-in-fullscreen|Added
-  autoScrollEnabled config to disable conversation auto-scroll in fullscreen mode]]'
-- '[[Changes/Claude Code/2026-04-15-changed-ctrl-o-to-toggle-between-normal-and-verbose-transcript-only-focus-view-i|Changed
-  Ctrl+O to toggle between normal and verbose transcript only]]'
+- '[[Changes/Cursor/2026-04-14-configuration-menu-in-cli|Configuration menu in CLI]]'
 - '[[Changes/Claude Code/2026-04-15-added-tui-command-and-tui-setting-run-tui-fullscreen-to-switch-to-flicker-free-r|Added
   /tui command and tui setting]]'
+- '[[Changes/Claude Code/2026-04-15-2-interface-experience-changes-in-v2-1-110|2 Interface
+  Experience changes in v2.1.110]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-15-v2-1-109-github-309146537-e05a2bc6|claude-code-2026-04-15-v2-1-109-github-309146537-e05a2bc6]]'
 source_type: github_releases
 theme: interface-experience
@@ -73,8 +74,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-added-tui-command-and-tui-setting-run-tui-fullscreen-to-switch-to-flicker-free-r|Added /tui command and tui setting]]
-- Later: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-effort-now-opens-an-interactive-slider-when-called-without-arguments-with-arrow|/effort now opens an interactive slider when called without arguments…]]
+- Earlier: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-2-interface-experience-changes-in-v2-1-110|2 Interface Experience changes in v2.1.110]]
+- Later: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-3-interface-experience-changes-in-v2-1-111|3 Interface Experience changes in v2.1.111]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

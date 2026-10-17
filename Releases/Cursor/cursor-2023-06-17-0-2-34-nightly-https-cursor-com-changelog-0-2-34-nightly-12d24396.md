@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-06-17'
 description: 'Cursor release Diffs in AI linter feedback on 2023-06-17: 1 tracked
   change across Developer Workflow'
-machine_hash: 61221119696413745cdf99160453e275619c94e3200f310ad26946c57d81931d
+machine_hash: 6cb0011ecf44d49ff9cc41b97a428f4e51629b4ac1ab2b7b6fc2316c66bd6440
 product: cursor
 product_name: Cursor
 record:
@@ -38,10 +38,10 @@ version: 0.2.34-nightly
 <!-- chronolog:begin region="summary" -->
 The AI linter now shows diffs!
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-06-17-the-ai-linter-now-shows-diffs|The AI linter now shows diffs!]] · Developer Workflow
+- [[Changes/Cursor/2023-06-17-the-ai-linter-now-shows-diffs|Diffs in AI linter feedback]] · Developer Workflow
 <!-- chronolog:end -->

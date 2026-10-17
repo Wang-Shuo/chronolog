@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 29a469efa742f890f70d15e5801d3029e133a88b9e33ba3c0019d7bb87e477ee
+machine_hash: 9378c5867b02c952a3059f2b3d02a3863bb8149f338f5e24003b6aa80315ee9f
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   now marks disconnected Remote Control sessions as offline and labels…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-12-v2-1-229-github-369475532-b063933d|claude-code-2026-08-12-v2-1-229-github-369475532-b063933d]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Documented claude remote-control --continue for resuming the most recent Remote…
 type: change

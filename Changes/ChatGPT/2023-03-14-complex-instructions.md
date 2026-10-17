@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b62463b3392c66369aa58a691144be58ba2680f5e05ecd1c8dd5834361defa71
+machine_hash: b036cd3fdbb53f3add4ed16f225caaca62829c8a1ae08db2cd965e10c4ef7857
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,6 +46,7 @@ related_changes:
   give every Plus subscriber a chance to try the model, we''ll dynamically adjust…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-03-14-announcing-gpt-4-in-chatgpt-43063370|chatgpt-2023-03-14-announcing-gpt-4-in-chatgpt-43063370]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: Complex instructions
 type: change

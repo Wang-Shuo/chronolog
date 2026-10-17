@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b5ed6d03d84ac9bf23a835aa1fd3d1b99af2bda38251700516bf48fb6c9c9818
+machine_hash: ad28c0302c936a092f0a59eb17c8bacfd0f16fb60495872d56cb275bee68fbb9
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   CLAUDE_CODE_PLUGIN_PREFER_HTTPS to clone GitHub plugin sources over HTTPS…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f|claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Plugins with a root-level SKILL.md and no skills/ subdirectory are now surfaced…
 type: change

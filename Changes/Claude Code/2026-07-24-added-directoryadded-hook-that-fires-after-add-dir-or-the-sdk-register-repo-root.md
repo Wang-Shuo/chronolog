@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 6542209e31b782c9300f69f79b43297cd1556f140deaa0531069c8965a67dba0
+machine_hash: bd7c84137a7b3cf8d25ad93c5797d4f63f3d9e0d859bbd4115b1a1ac8c13abe9
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   mcp_server_errors to the headless stream-json init event, listing…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233|claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added DirectoryAdded hook that fires after /add-dir or the SDK…
 type: change

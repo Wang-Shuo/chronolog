@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 27bb110c23ddab3f0fb5fbcf6b27b0a9ba424079f198e08307b71692b7b73dd1
+machine_hash: eaeebec3273f193b6bc4f3c053056f06d85ae77e7f7265c7314b00a42e9389b8
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   now run in the background by default, so Claude keeps working while they…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab|claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added background agent notifications in claude agents
 type: change

@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 19d46719584375c75b4b154f5793026458710a4b91b56021dd1361f6addf0318
+kind: change
+machine_hash: 4a2dbe98ee2882b0e872a503e770ba263514d0a0527334ada0f586ab41f0e4f2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,8 +39,9 @@ record:
       The model also tends to output clearer, more relevant answers to advice-seeking
       and how-to questions, more reliably placing the most important info upfront.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r
@@ -48,7 +50,7 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: We’re making an update to GPT-5.2 Instant in ChatGPT and the API that improves…
+  title: GPT-5.2 Instant Update
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-02-04-improved-system-prompts-to-more-clearly-guide-the-model-toward-using-dedicated-t|Improved
@@ -60,12 +62,12 @@ related_changes:
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-10-gpt-5-2-instant-update-09d95a8b|chatgpt-2026-02-10-gpt-5-2-instant-update-09d95a8b]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We’re making an update to GPT-5.2 Instant in ChatGPT and the API that improves…
+title: GPT-5.2 Instant Update
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We’re making an update to GPT-5.2 Instant in ChatGPT and the API that improves…
+# GPT-5.2 Instant Update
 
 **ChatGPT** · 2026-02-10 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-10-gpt-5-2-instant-update-09d95a8b|GPT-5.2 Instant Update]]
 <!-- chronolog:end -->
@@ -84,7 +86,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-02-07 · Claude Code · [[Changes/Claude Code/2026-02-07-fast-mode-is-now-available-for-opus-4-6-learn-more-at-https-code-claude-com-docs|Fast mode is now available for Opus 4.6]]
-- Later: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-as-previously-announced-we-have-retired-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o|As previously announced, we have retired GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI…]]
+- Later: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-as-previously-announced-we-have-retired-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o|Retiring GPT-4o and other legacy models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

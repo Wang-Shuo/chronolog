@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d63cbfdc0e065bdf3d8cea9752f71e253dae1abfc8b6c0b6e52d35e4fe1cc1c4
+machine_hash: 2b1334005693ccf30228a5edb674443646e58732c3535aac88785639cd20bf64
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   store.readiness_grace_seconds to the Claude apps gateway so /readyz can…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4|claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added the allowClaudeInChromeWithManagedMcp managed setting to let…
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 27c525a68c7d9c9a22af1a829bb2144c6c14db565ae5c561dcf1990f5c9d17bf
+machine_hash: b72107e9d24fdbc7a317989e2668abe26be4d469e26ac6cba3d47d2fba473997
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,6 +47,7 @@ related_changes:
   pinned chats in sync]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-21-updates-to-chatgpt-on-android-8e3bdeee|chatgpt-2026-08-21-updates-to-chatgpt-on-android-8e3bdeee]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: mobile-desktop
 title: Available in the ChatGPT app for Android, version 1.2026.216 or later
 type: change

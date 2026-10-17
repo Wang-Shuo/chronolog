@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1ea823e19208b972c2d9d89fd574b3b91767658b08411f64a4d4dfdbc34a7174
+machine_hash: 80779773cf4fd8ed2b93d11099bc08baa2b9d5f3c93d9cf859299a07ee54553b
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,6 +54,7 @@ related_changes:
   compound commands with cd prompting for permission when the only output…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91|claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed remote managed settings from a non-interactive run (claude -p, the SDK)…
 type: change

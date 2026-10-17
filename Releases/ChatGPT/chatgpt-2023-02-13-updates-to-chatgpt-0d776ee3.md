@@ -3,7 +3,7 @@ changes_count: 3
 date: '2023-02-13'
 description: 'ChatGPT release Updates to ChatGPT on 2023-02-13: 3 tracked changes
   across Reliability and Performance, Pricing Model'
-machine_hash: 036202e286ba07a31d764f8375197b13a2aeae1b7c0bc625ac2f102f804c3ad8
+machine_hash: 5eb2eb632fb5000424f8bd6cc051444fd388c33d1a2d83b8944c2fe3e504a895
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,12 +38,12 @@ version: Updates to ChatGPT
 <!-- chronolog:begin region="summary" -->
 We’ve made several updates to ChatGPT! Here's what's new:
 
-Tracked 3 of 4 candidate lines.
+Tracked 3 cards from 4 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - [[Changes/ChatGPT/2023-02-13-based-on-user-feedback-we-are-now-defaulting-plus-users-to-a-faster-version-of-c|Based on user feedback, we are now defaulting Plus users to a faster version…]] · Reliability and Performance
 - [[Changes/ChatGPT/2023-02-13-we-ve-updated-performance-of-the-chatgpt-model-on-our-free-plan-in-order-to-serv|ChatGPT updates performance of the ChatGPT model on our free plan in order to serve…]] · Reliability and Performance
-- [[Changes/ChatGPT/2023-02-13-we-rolled-out-the-ability-to-purchase-chatgpt-plus-internationally|We rolled out the ability to purchase ChatGPT Plus internationally]] · Pricing Model
+- [[Changes/ChatGPT/2023-02-13-we-rolled-out-the-ability-to-purchase-chatgpt-plus-internationally|We rolled out the ability to purchase ChatGPT Plus internationally]] · Pricing Model · Pricing
 <!-- chronolog:end -->

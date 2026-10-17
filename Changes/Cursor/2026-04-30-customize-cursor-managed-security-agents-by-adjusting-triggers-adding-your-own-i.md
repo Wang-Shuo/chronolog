@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0aae7e2cb9160c59a017110e1e809ddb434e28df0e1bf30816871eb970a8402f
+machine_hash: 2718f36f11afdaa8aa9b050901c02c1504cfa197b4b91cc229e6e2d0798b3e96
 product: cursor
 product_name: Cursor
 record:
@@ -68,6 +68,7 @@ related_changes:
   Reviewer checks every PR for security vulnerabilities, auth regressions…]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-30-cursor-security-review-https-cursor-com-changelog-04-30-26-640898b1|cursor-2026-04-30-cursor-security-review-https-cursor-com-changelog-04-30-26-640898b1]]'
 source_type: cursor_changelog
+superseded: true
 theme: safety-privacy
 title: Customize Cursor-managed security agents by adjusting triggers, adding your
   own…

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 987069e0b97590070fecaa853cbc117db7ab646de84db533bbb140b6e58a257b
+machine_hash: 176bbc83e961c3f7c6c8a0f5c3dda0a7e719b49a6d6e1959aea045dabffe7fdd
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   thinking hints sooner during long operations]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59|claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added autoScrollEnabled config to disable conversation auto-scroll in fullscreen
   mode

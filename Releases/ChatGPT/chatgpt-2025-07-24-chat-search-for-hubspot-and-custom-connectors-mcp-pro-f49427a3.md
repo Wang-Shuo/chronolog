@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-07-24'
 description: 'ChatGPT release Chat search for HubSpot and custom connectors (MCP)
   (Pro) on 2025-07-24: 1 tracked change across Apps and Integrations'
-machine_hash: a2edff04b0a4b94ec02b42b97606c8de9234be627fd35d7b5021ec6b3a552479
+machine_hash: 4c4a4b27d306132ab4a6b4bec6a2e1993b77679d03381d84b9fd3a370aadb2ae
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Chat search for HubSpot and custom connectors (MCP) (Pro)
 <!-- chronolog:begin region="summary" -->
 Pro users can now utilize chat search with HubSpot and custom connectors (MCP) in addition to deep research.Note this feature is currently limited to users located outside of the EEA, Switzerland, and the UK.Learn more about connectors, as well as how to create a custom connector using MCP.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-07-24-pro-users-can-now-utilize-chat-search-with-hubspot-and-custom-connectors-mcp-in-b9b682|Pro users can now utilize chat search with HubSpot and custom connectors (MCP)…]] · Apps and Integrations
+- [[Changes/ChatGPT/2025-07-24-pro-users-can-now-utilize-chat-search-with-hubspot-and-custom-connectors-mcp-in-b9b682|Chat search for HubSpot and custom connectors (MCP) (Pro)]] · Apps and Integrations
 <!-- chronolog:end -->

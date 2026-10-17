@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: fa0ce3a3f5f7bddf0167f4c11424ad12746d90a11407cb3dd8ba95a23219f54a
+kind: change
+machine_hash: cf0941943a4330398b32ca3ff9bf31cd5d2b574ad9b02570cdfc986c8fa2855c
 product: cursor
 product_name: Cursor
 record:
@@ -26,8 +27,9 @@ record:
   evidence:
   - quote: Opens the terminal in your current folder
     source_release: https://cursor.com/changelog/0-1-9
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: opens-the-terminal-in-your-current-folder
@@ -38,6 +40,8 @@ record:
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+- '[[Changes/Cursor/2023-03-23-terminal-no-longer-interferes-with-chat|Terminal no
+  longer interferes with chat]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-27-0-1-9-https-cursor-com-changelog-0-1-9-431f2ddc|cursor-2023-03-27-0-1-9-https-cursor-com-changelog-0-1-9-431f2ddc]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -67,7 +71,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earlier: 2023-03-23 · Cursor · [[Changes/Cursor/2023-03-23-terminal-no-longer-interferes-with-chat|Terminal no longer interferes with chat]]
 - Later: 2023-04-07 · Cursor · [[Changes/Cursor/2023-04-07-turns-off-the-auto-install-of-the-cursor-command-and-fixes-its-install-altogethe|Turns off the auto-install of the "cursor ." command (and fixes its install altogether)]]
 <!-- chronolog:end -->
 

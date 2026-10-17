@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 8eeacb25c5015a5859143d753028dfb36691bfbf526550ec1706d29376341a1d
+machine_hash: b2ae1f238ef12b729dfb34aa2502e1d25bc22e6029134f2370ae85cb1c1b8596
 product: cursor
 product_name: Cursor
 record:
@@ -62,6 +62,7 @@ related_changes:
   auto mode to ask before running rm -rf on a variable it can''t resolve…]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d|cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: Each side chat is a durable, full agent conversation that you can follow up…
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0af451a9e3490c37863dabf9ac862fb36a7214dc91872a1d003e1539e80f7f51
+machine_hash: 0c456289d0f37845367ec897f10f04957fe27c7820e9c7be1a00b436a3ab959d
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   --channels (research preview)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a|claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added CLI tool usage detection to plugin tips, in addition to file pattern
   matching

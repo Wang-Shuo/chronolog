@@ -4,8 +4,8 @@ date: '2023-07-10'
 description: 'Cursor · 2023-07-10 · Agent Mode: The goal: you write an interface specification,
   and an agent writes both the tests and the implementation for you. It makes…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-    to the first nightly release!]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 4
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: 1c47634df27fc11e55d695a3b99b1d62c7100ded2dee52a43ed5c91120059602
+kind: change
+machine_hash: 773664b816bdabf3e2dfdec63401d90c3e5670ffcc8b8a59d987857915a85294
 product: cursor
 product_name: Cursor
 record:
@@ -34,8 +35,9 @@ record:
       the tests and the implementation for you. It makes sure that the tests pass,
       so you don''t even need to look at the implementation at all.'
     source_release: https://cursor.com/changelog/0-2-46-nightly
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: change
   product: cursor
   product_name: Cursor
   slug: the-goal-you-write-an-interface-specification-and-an-agent-writes-both-the-tests
@@ -46,8 +48,8 @@ record:
     the tests…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome
-  to the first nightly release!]]'
+- '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+  new docs]]'
 - '[[Changes/Cursor/2023-07-10-this-nightly-build-comes-with-experimental-interface-agent-support|This
   nightly build comes with experimental interface agent support!]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-10-0-2-46-nightly-https-cursor-com-changelog-0-2-46-nightly-d5208398|cursor-2023-07-10-0-2-46-nightly-https-cursor-com-changelog-0-2-46-nightly-d5208398]]'
@@ -79,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earlier: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 - Later: 2024-02-15 · Cursor · [[Changes/Cursor/2024-02-15-interpreter-mode-we-ve-made-some-big-improvements-to-the-backend-powering-interp|Interpreter Mode: We've made some big improvements to the backend powering…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Welcome to the first nightly release!]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

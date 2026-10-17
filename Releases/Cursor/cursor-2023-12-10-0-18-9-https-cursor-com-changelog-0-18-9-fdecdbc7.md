@@ -3,7 +3,7 @@ changes_count: 0
 date: '2023-12-10'
 description: 'Cursor release Fix Onboarding for Option Edits on 2023-12-10: no tracked
   changes'
-machine_hash: 2a4046a60144f2ce2fc54820394a37fb14ecfb32389695d4189d18b57bfdea25
+machine_hash: 98b0fb1ecac8689d4be7900b1e8e8efdc474df67f9c25f77d4a7d20047eaeee8
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.18.9
 <!-- chronolog:begin region="summary" -->
 Minor onboarding fixes.
 
-Tracked 0 of 1 candidate line.
+Tracked 0 cards from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards

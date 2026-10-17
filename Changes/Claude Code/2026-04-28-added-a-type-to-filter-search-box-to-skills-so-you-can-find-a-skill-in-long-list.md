@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 39e9fd7fb1fdea1cbd46fae32b0369dab80ab0eee20aeed1452709135c77a028
+machine_hash: 447137dc025b82d32c2d60e1dec86ac3f9f17145acb8e35a13b914f4a72eed1e
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   CLAUDE_CODE_HIDE_CWD environment variable to hide the working directory…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce|claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: Added a type-to-filter search box to /skills so you can find a skill in long
   lists…

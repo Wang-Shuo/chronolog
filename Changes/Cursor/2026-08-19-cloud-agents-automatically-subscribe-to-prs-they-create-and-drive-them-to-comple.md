@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 608e9fed80b5b7672fd58c1c2eb24172b8e53d8990ceb1ef696d3ccfda371335
+machine_hash: 1de44bbc706e8014598fb6e96af14505d15214519b0853270a76f1baa6d499d0
 product: cursor
 product_name: Cursor
 record:
@@ -62,6 +62,7 @@ related_changes:
   an opt-in forward_user_identity apps gateway setting on Anthropic upstreams…]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1|cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1]]'
 source_type: cursor_changelog
+superseded: true
 theme: apps-integrations
 title: Cloud agents automatically subscribe to PRs they create and drive them…
 type: change

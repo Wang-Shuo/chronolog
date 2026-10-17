@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 29513a8599087f076c3f7024efac2e52f9733544f1449bf702f1d51ee4bc505c
+machine_hash: 25f73577121e0e394f5317a47dbda5321eefa5f0fdd2d7bf114b8e746d8bb37d
 product: cursor
 product_name: Cursor
 record:
@@ -51,6 +51,7 @@ related_changes:
   completion experience powered by gpt-4]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991|cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991]]'
 source_type: cursor_changelog
+superseded: true
 theme: model-support
 title: If you press ⌘/^+↩️ on any line, you will now get gpt-4 powering fast-completions
   for you!

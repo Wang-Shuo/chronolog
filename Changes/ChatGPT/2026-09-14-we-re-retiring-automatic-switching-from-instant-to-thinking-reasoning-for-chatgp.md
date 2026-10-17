@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 62b4ae885cb9c74386d5b5124eb6dbff3ad639511d660f7d6736d54d278095df
+kind: policy
+machine_hash: 75738baefd8e3aa1123ce949d608820a6d1ddf308dcc532a1a89cff3b11eece5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,8 +42,9 @@ record:
       ChatGPT can still switch automatically for safety purposes. For more information,
       see: GPT-5.6 and GPT-6 Pro in ChatGPT.'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: policy
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-retiring-automatic-switching-from-instant-to-thinking-reasoning-for-chatgp
@@ -64,28 +66,26 @@ record:
     score: 50
     theme: safety-privacy
   theme_resolution: manual-semantic-rule-v2
-  title: We’re retiring automatic switching from Instant to Thinking (reasoning) for
-    ChatGPT…
+  title: Changes to automatic switching to thinking in ChatGPT (Plus and Pro)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-09-chatgpt-voice-can-now-use-gpt-5-6-or-gpt-6-astra-when-it-needs-to-search-or-reas|ChatGPT
-  Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason…]]'
 - '[[Changes/Claude Code/2026-09-09-added-maxeffortlevel-setting-top-level-or-per-model-under-modelsettings-caps-the|Added
   maxEffortLevel setting (top-level or per model under modelSettings)]]'
+- '[[Changes/Claude Code/2026-09-10-2-model-support-changes-in-v2-1-268|2 Model Support
+  changes in v2.1.268]]'
 - '[[Changes/Claude Code/2026-09-11-added-claude-code-gateway-model-discovery-timeout-ms-to-extend-the-llm-gateway-v|Added
   CLAUDE_CODE_GATEWAY_MODEL_DISCOVERY_TIMEOUT_MS to extend the LLM gateway…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-14-changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-p-54d16c58|chatgpt-2026-09-14-changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-p-54d16c58]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: We’re retiring automatic switching from Instant to Thinking (reasoning) for
-  ChatGPT…
+title: Changes to automatic switching to thinking in ChatGPT (Plus and Pro)
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# We’re retiring automatic switching from Instant to Thinking (reasoning) for ChatGPT…
+# Changes to automatic switching to thinking in ChatGPT (Plus and Pro)
 
-**ChatGPT** · 2026-09-14 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-14-changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-p-54d16c58|Changes to automatic switching to thinking in ChatGPT (Plus and Pro)]]
+**ChatGPT** · 2026-09-14 · [[Themes/model-support|Model Support]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-14-changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-p-54d16c58|Changes to automatic switching to thinking in ChatGPT (Plus and Pro)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -102,7 +102,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-added-claude-code-gateway-model-discovery-timeout-ms-to-extend-the-llm-gateway-v|Added CLAUDE_CODE_GATEWAY_MODEL_DISCOVERY_TIMEOUT_MS to extend the LLM gateway…]]
-- Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-added-effort-attribute-to-the-claude-code-llm-request-opentelemetry-trace-span-m|Added effort attribute to the claude_code.llm_request OpenTelemetry trace span…]]
+- Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-improved-startup-time-slightly-by-skipping-a-redundant-validation-of-built-in-mo|Improved startup time slightly by skipping a redundant validation of built-in model…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

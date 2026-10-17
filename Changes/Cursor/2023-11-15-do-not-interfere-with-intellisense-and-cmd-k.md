@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0e8b15e700e1b46e85ca190b3f5b2471d16414d4853cc9831957cc5430e471f0
+machine_hash: ca45d76464af01f9f22ad9e07878febeb9482fa5bb8281dd7b1ced47144dcf4b
 product: cursor
 product_name: Cursor
 record:
@@ -46,6 +46,7 @@ related_changes:
 - '[[Changes/Cursor/2023-11-15-copilot-improvements|Copilot++ improvements]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-15-0-16-0-https-cursor-com-changelog-0-16-0-5861ed6e|cursor-2023-11-15-0-16-0-https-cursor-com-changelog-0-16-0-5861ed6e]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: Do not interfere with intellisense and cmd-k
 type: change

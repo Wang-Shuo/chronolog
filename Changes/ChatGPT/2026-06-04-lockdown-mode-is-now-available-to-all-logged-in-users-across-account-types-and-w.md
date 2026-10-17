@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: paradigm-shift
-machine_hash: 66acd7c9c1a9cd99261f25adc5a17373f66758f73235ff3576516db4152c5947
+kind: launch
+machine_hash: bed49afaf4757037e9db2c5b0aff62f63f6b80bd2062a889134c0ca0f6f8d89e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,8 +45,9 @@ record:
       > Security. Workspace admins can configure access for members through workspace
       settings and role-based access controls.Learn more: Lockdown Mode'
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: paradigm-shift
+  kind: launch
   product: chatgpt
   product_name: ChatGPT
   slug: lockdown-mode-is-now-available-to-all-logged-in-users-across-account-types-and-w
@@ -73,28 +75,26 @@ record:
     score: 50
     theme: enterprise-admin
   theme_resolution: manual-backfill-review-v1
-  title: Lockdown Mode is now available to all logged-in users across account types
-    and workspaces
+  title: Lockdown Mode is now available to all logged-in users
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-03-claude-agents-json-now-includes-waitingfor-showing-what-a-waiting-session-is-blo|claude
-  agents --json now includes waitingFor showing what a waiting session…]]'
+- '[[Changes/ChatGPT/2026-06-02-we-re-rolling-out-active-sessions-a-new-security-feature-in-chatgpt-that-helps-u-51e977|ChatGPT
+  rolls out Active sessions, a new security feature that helps users review…]]'
+- '[[Changes/Claude Code/2026-06-03-4-safety-and-privacy-changes-in-v2-1-162|4 Safety
+  and Privacy changes in v2.1.162]]'
 - '[[Changes/Cursor/2026-06-03-enterprise-customers-can-now-manage-multiple-cursor-teams-from-one-place-with-di|Enterprise
   customers can now manage multiple Cursor teams from one place…]]'
-- '[[Changes/Cursor/2026-06-03-teams-are-the-operating-unit-for-a-department-region-or-subsidiary-this-is-what|Teams
-  are the operating unit for a department, region, or subsidiary]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-f7dcb357|chatgpt-2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-f7dcb357]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
-title: Lockdown Mode is now available to all logged-in users across account types
-  and workspaces
+title: Lockdown Mode is now available to all logged-in users
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Lockdown Mode is now available to all logged-in users across account types and workspaces
+# Lockdown Mode is now available to all logged-in users
 
-**ChatGPT** · 2026-06-04 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-f7dcb357|Lockdown Mode is now available to all logged-in users]]
+**ChatGPT** · 2026-06-04 · [[Themes/safety-privacy|Safety and Privacy]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-f7dcb357|Lockdown Mode is now available to all logged-in users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -110,8 +110,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-06-03 · Cursor · [[Changes/Cursor/2026-06-03-teams-are-the-operating-unit-for-a-department-region-or-subsidiary-this-is-what|Teams are the operating unit for a department, region, or subsidiary]]
-- Later: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-you-can-now-hand-the-local-agent-your-own-tools-by-passing-function-definitions|Hand the local agent your own tools by passing function definitions through…]]
+- Earlier: 2026-06-03 · Cursor · [[Changes/Cursor/2026-06-03-enterprise-customers-can-now-manage-multiple-cursor-teams-from-one-place-with-di|Enterprise customers can now manage multiple Cursor teams from one place…]]
+- Later: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-fixed-org-managed-permission-rules-not-applying-for-the-entire-session-when-the|Fixed org-managed permission rules not applying for the entire session…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

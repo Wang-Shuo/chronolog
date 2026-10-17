@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0d851abf8c018914b2e1711f1e9cd0a47536bf6fdd2de5deb75db7d9c6ed3eb1
+machine_hash: 618a546f8af7ff5bcbe90942a0100b201502f51d49c8444ed15118d32f2ccf05
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   x-claude-code-request-class, x-claude-code-agent-type…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a]]'
 source_type: github_releases
+superseded: true
 theme: context-window
 title: Added autoCompactWindow to subagent frontmatter and --agents definitions…
 type: change

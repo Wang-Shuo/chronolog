@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 8df8b2aabb2928cf136ee90066c78b376225c3f5caa994936e2e3badde268f32
+machine_hash: 4c3cbbd2def9a7013cd17bae2558c849d8a1be6d4aa7746d9c792fe30ccaabcb
 product: cursor
 product_name: Cursor
 record:
@@ -52,6 +52,7 @@ related_changes:
   optional description argument to /plan (e.g., /plan fix the auth bug)…]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-25-self-hosted-cloud-agents-https-cursor-com-changelog-03-25-26-423e399c|cursor-2026-03-25-self-hosted-cloud-agents-https-cursor-com-changelog-03-25-26-423e399c]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Your codebase, build outputs, and secrets all stay on internal machines running…
 type: change

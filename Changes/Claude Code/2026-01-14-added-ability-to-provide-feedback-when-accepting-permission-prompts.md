@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: d6690c507eeea7babb613168ed58a7ca19beb582a3fc69b1528396e25181eab6
+machine_hash: d36d5cc44ba5a023cb56fb624597907f233d9b1102b40eba943083540f3610fd
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   detection and warnings for unreachable permission rules, with warnings…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80|claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Added ability to provide feedback when accepting permission prompts
 type: change

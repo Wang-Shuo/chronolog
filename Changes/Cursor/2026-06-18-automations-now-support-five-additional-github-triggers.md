@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 98eff8958e77ca2e0ff2c5f126bc9dc0e1a47935f7490cbcf7880507f798f7ec
+machine_hash: b1f01cf4e0420cb9ab6d403e6c6717ef56136999faa80324e4004f7912404051
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   the task you want to automate in plain language and Cursor will configure…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-18-3-8-https-cursor-com-changelog-06-18-26-0b493e15|cursor-2026-06-18-3-8-https-cursor-com-changelog-06-18-26-0b493e15]]'
 source_type: cursor_changelog
+superseded: true
 theme: automation-scheduling
 title: Automations now support five additional GitHub triggers
 type: change

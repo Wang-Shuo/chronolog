@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: cf57478e1add06bf3e58cbaa39728880d93bae430b9cb6eccc68d6dec35f260e
+machine_hash: 759f1b4be4d7c3b4b9bec7655571f3bf6f2942da3dcc0e0e58b5d969e55b68f1
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,6 +61,7 @@ related_changes:
   an optional headers: map on Claude apps gateway upstreams, to send static…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added mouse support to more lists in fullscreen mode
 type: change

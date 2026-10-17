@@ -5,19 +5,19 @@ description: 'ChatGPT · 2026-09-29 · Collaboration: Space brings your Pages, f
   and related work together in ChatGPT. Create a space for a project, add the material
   you…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
-    can also share private docs]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1117
+  lag_days: 1224
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 7ec831497873293442c9607fa4e2b81ebc6d522cc3e58cecf4146f3a0871d809
+kind: change
+machine_hash: f7ec527c42e0f882f38d26f5cdfe59c3eef995f4819351fa01e452ae2c6afa4e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,8 +35,9 @@ record:
       so you can keep building on the same work. Space replaces Library for accounts
       with access; your existing Projects remain separate.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: space-brings-your-pages-files-and-related-work-together-in-chatgpt-create-a-spac
@@ -45,24 +46,23 @@ record:
   theme: collaboration
   theme_matches: []
   theme_resolution: manual-semantic-rule-v1
-  title: Space brings your Pages, files, and related work together in ChatGPT
+  title: Organize your work in ChatGPT Space
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-09-library-sharing-lets-you-share-files-and-folders-in-chatgpt-choose-who-can-acces|Library
-  sharing lets you share files and folders in ChatGPT, choose who can access…]]'
-- '[[Changes/ChatGPT/2026-09-09-share-across-your-workspace-make-content-available-to-everyone-in-your-workspace|Share
-  across your workspace]]'
-- '[[Changes/ChatGPT/2026-09-17-chatgpt-for-word-is-available-on-all-chatgpt-plans-including-free-your-plan-s-to|ChatGPT
-  for Word is available on all ChatGPT plans, including Free]]'
+- '[[Changes/Cursor/2026-09-23-team-rules|Team rules]]'
+- '[[Changes/Claude Code/2026-09-28-2-collaboration-changes-in-v2-1-284|2 Collaboration
+  changes in v2.1.284]]'
+- '[[Changes/ChatGPT/2026-09-29-your-chatgpt-profile-now-brings-together-your-bio-activity-and-sites-you-choose-09d5dd|Share
+  your profile and showcase your Sites]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-organize-your-work-in-chatgpt-space-234deac3|chatgpt-2026-09-29-organize-your-work-in-chatgpt-space-234deac3]]'
 source_type: chatgpt_changelog
 theme: collaboration
-title: Space brings your Pages, files, and related work together in ChatGPT
+title: Organize your work in ChatGPT Space
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Space brings your Pages, files, and related work together in ChatGPT
+# Organize your work in ChatGPT Space
 
 **ChatGPT** · 2026-09-29 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-29-organize-your-work-in-chatgpt-space-234deac3|Organize your work in ChatGPT Space]]
 <!-- chronolog:end -->
@@ -80,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-17 · ChatGPT · [[Changes/ChatGPT/2026-09-17-chatgpt-for-word-is-available-on-all-chatgpt-plans-including-free-your-plan-s-to|ChatGPT for Word is available on all ChatGPT plans, including Free]]
-- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-your-chatgpt-profile-now-brings-together-your-bio-activity-and-sites-you-choose|Your ChatGPT profile now brings together your bio, activity, and Sites you choose…]]
+- Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-your-chatgpt-profile-now-brings-together-your-bio-activity-and-sites-you-choose-09d5dd|Share your profile and showcase your Sites]]
+- Later: 2026-10-13 · Cursor · [[Changes/Cursor/2026-10-13-starting-today-the-marketplace-is-also-open-to-public-submissions-so-any-team-bu|Starting today, the marketplace is also open to public submissions, so any team…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

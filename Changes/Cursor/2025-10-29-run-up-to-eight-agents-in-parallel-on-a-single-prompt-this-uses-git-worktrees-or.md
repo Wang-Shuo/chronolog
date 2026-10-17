@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: debf03a3052da468b606e95daa733fc5b07ea0d77335eb859585ee286252e0da
+machine_hash: ffe2294e2bf089358b153b3c5bc7ec638f1735202f2fbdacc542431fe346876b
 product: cursor
 product_name: Cursor
 record:
@@ -52,6 +52,7 @@ related_changes:
   control, and extend the Agent loop using custom scripts]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Run up to eight agents in parallel on a single prompt
 type: change

@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 5bdc2f81664236d41bb38730d73698e00accd2b056437e444c76afdaf24ca122
+kind: change
+machine_hash: b84c47ad4699b045b5d45d5554469e33c8e311e443874f5889f2cef9294f6b05
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
       VS Code, and JetBrains; `--permission-mode manual` and `"defaultMode": "manual"`
       are accepted alongside `default`'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.200
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: changed-the-default-permission-mode-to-manual-across-the-cli-help-vs-code-and-je

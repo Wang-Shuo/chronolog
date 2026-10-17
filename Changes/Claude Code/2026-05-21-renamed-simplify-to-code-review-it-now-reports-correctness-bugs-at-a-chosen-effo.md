@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: acfb571c64d8ec830da7c445e551760ceb97ccdede27d0d172a7d3e06b221a41
+kind: change
+machine_hash: c6242630b50daa2dfe32e5b2c57130d1f53e7b8d576dfd4ba8d8b9694beee6ee
 product: claude-code
 product_name: Claude Code
 record:
@@ -32,8 +33,9 @@ record:
       findings as inline GitHub PR comments. The old cleanup-and-fix behavior has
       been removed
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.147
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: renamed-simplify-to-code-review-it-now-reports-correctness-bugs-at-a-chosen-effo
@@ -43,10 +45,10 @@ record:
   title: Renamed `/simplify` to `/code-review`
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-to-make-it-easier-to-change-debug-and-review-environment-definitions-we-have-imp|To
-  make it easier to change, debug, and review environment definitions, we have…]]'
-- '[[Changes/Claude Code/2026-05-15-added-worktree-bgisolation-none-setting-to-let-background-sessions-edit-the-work|Added
-  worktree.bgIsolation: "none" setting to let background sessions edit…]]'
+- '[[Changes/Claude Code/2026-05-15-2-developer-workflow-changes-in-v2-1-143|2 Developer
+  Workflow changes in v2.1.143]]'
+- '[[Changes/Claude Code/2026-05-19-3-developer-workflow-changes-in-v2-1-144|3 Developer
+  Workflow changes in v2.1.144]]'
 - '[[Changes/Claude Code/2026-05-21-renamed-simplify-to-code-review-with-an-optional-effort-level-e-g-code-review-hi|Renamed
   /simplify to /code-review with an optional effort level…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd|claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd]]'
@@ -71,9 +73,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-05-21-improved-diff-rendering-performance-for-large-file-edits|Improved diff rendering performance for large file edits]] · Reliability and Performance
-- [[Changes/Claude Code/2026-05-21-improved-auto-updater-retries-transient-network-failures-reports-specific-error|Improved auto-updater: retries transient network failures, reports specific error…]] · Reliability and Performance
-- [[Changes/Claude Code/2026-05-21-pinned-background-sessions-ctrl-t-in-claude-agents-now-stay-alive-when-idle-are|Pinned background sessions (Ctrl+T in claude agents) now stay alive when idle…]] · Reliability and Performance
+- [[Changes/Claude Code/2026-05-21-3-reliability-and-performance-changes-in-v2-1-147|3 Reliability and Performance changes in v2.1.147]] · Reliability and Performance
 - [[Changes/Claude Code/2026-05-21-prompt-history-no-longer-records-consecutive-duplicate-entries-recalling-a-promp|Prompt history no longer records consecutive duplicate entries]] · Interface Experience
 <!-- chronolog:end -->
 
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-21 · Claude Code · [[Changes/Claude Code/2026-05-21-renamed-simplify-to-code-review-with-an-optional-effort-level-e-g-code-review-hi|Renamed /simplify to /code-review with an optional effort level…]]
-- Later: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-code-review-fix-now-applies-review-findings-to-your-working-tree-after-the-revie|/code-review --fix now applies review findings to your working tree after…]]
+- Later: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-2-developer-workflow-changes-in-v2-1-152|2 Developer Workflow changes in v2.1.152]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

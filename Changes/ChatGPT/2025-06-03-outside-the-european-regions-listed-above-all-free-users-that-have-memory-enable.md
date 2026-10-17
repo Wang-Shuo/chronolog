@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 394f7270ab4e37212ec245f3538b75badb6c5a414e037ad113c4dc85206427d3
+machine_hash: e59c23474e08599680e346cbd286eca493287ff5c95307c8112732f84269c9ca
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,6 +50,7 @@ related_changes:
   users in EEA (EU + UK), Switzerland, Norway, Iceland, or Liechtenstein will see…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3|chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: memory
 title: Outside the European regions listed above, all Free users that have memory
   enabled…

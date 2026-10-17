@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 4cce0e3a65d1cc37542f8403f0418b03bdf62174b271d80e22e2574930ed8332
+machine_hash: 96fa9216ace65d4243b9fb4b23a314220da0c17cfd7f58e7e36285ee5a6d36e0
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   sandbox.failIfUnavailable setting to exit with an error when sandbox…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7|claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Added conditional if field for hooks using permission rule syntax…
 type: change

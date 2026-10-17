@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: da4928db7f0173256410910e0fdf6960ffdbb3197a0e42e1d980be6a5d203a30
+machine_hash: 8718ab685425b632b6f19736319e6a257b187833091a51aad1f954909516b5a6
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   auto-mode denial reasons to the transcript, the denial toast…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-25-v2-1-193-github-344922230-0655000d|claude-code-2026-06-25-v2-1-193-github-344922230-0655000d]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added autoMode.classifyAllShell setting to route all Bash/PowerShell commands…
 type: change

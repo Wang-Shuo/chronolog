@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e15c6f250595f357a657e09d841a75b4032e07930c3582ad2145c147a672cb9f
+machine_hash: 388a31fdff8f6c7646619477a41036372fa0d4d7342257d63476c4162e59fc0d
 product: cursor
 product_name: Cursor
 record:
@@ -52,6 +52,7 @@ related_changes:
   run remotely in a secure environment and you''ll get updates directly…]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: Agents now plan ahead with structured to-do lists, making long-horizon tasks
   easier…

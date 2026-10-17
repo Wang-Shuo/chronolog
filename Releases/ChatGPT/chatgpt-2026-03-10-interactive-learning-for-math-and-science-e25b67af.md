@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-03-10'
 description: 'ChatGPT release Interactive learning for math and science on 2026-03-10:
   1 tracked change across Learning Tools'
-machine_hash: 455f91d80aac9acd116fb2e4971684db3cfe0c46097e7ef6c899605473f162d8
+machine_hash: d3236daa734f1e49f407d6cba71e22977de93d8607fd8dd7f38b580b9927a2b1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ version: Interactive learning for math and science
 <!-- chronolog:begin region="summary" -->
 When you ask ChatGPT about certain topics, it can now present an interactive visual module that lets you experiment with formulas and variables in real time. Adjust inputs, manipulate equations, and instantly see how changes affect graphs and outcomes—turning abstract concepts into something you can explore…
 
-Tracked 1 of 5 candidate lines.
+Tracked 1 card from 5 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-03-10-when-you-ask-chatgpt-about-certain-topics-it-can-now-present-an-interactive-visu|When you ask ChatGPT about certain topics, it can now present an interactive visual…]] · Learning Tools
+- [[Changes/ChatGPT/2026-03-10-when-you-ask-chatgpt-about-certain-topics-it-can-now-present-an-interactive-visu|Interactive learning for math and science]] · Learning Tools
 <!-- chronolog:end -->

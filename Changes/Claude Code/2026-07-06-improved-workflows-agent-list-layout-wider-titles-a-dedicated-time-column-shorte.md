@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: paradigm-shift
-machine_hash: 2281390d79647a88a31baa85315250455256b26bacdf26ebd053a9490100a437
+machine_hash: 7b002e51455c061d93987ea1563c41b02d0871a876706de28b51e5b5f7aedf55
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,6 +61,7 @@ related_changes:
   workflow.run_id and workflow.name OpenTelemetry attributes to telemetry…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8|claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Improved /workflows agent list layout
 type: change

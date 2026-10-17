@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: b89c18cc4e137113af8078c4355e286ab63eeea0c7e6bdafb1c9c399fefb279c
+machine_hash: 898a66fc15029e20dc755720a121a3c5f20d29b7982bb360a4d1b1a50bc1c1d9
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +47,7 @@ related_changes:
   also trained a new Cursor Tab model that''s smarter and more context-aware]]'
 source_release: '[[Releases/Cursor/cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492|cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492]]'
 source_type: cursor_changelog
+superseded: true
 theme: context-window
 title: '@Recommended in chat/composer to semantically search for context'
 type: change

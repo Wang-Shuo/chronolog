@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9f9f300ca7403d64cfaf41cd5e3de2083f47011947202f4e8a4288b50c6f986d
+machine_hash: 9745c04a254317b585ee14004e615217c1f02e47cd3eedd8e72cd14b24e37786
 product: cursor
 product_name: Cursor
 record:
@@ -57,6 +57,7 @@ related_changes:
   Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro…]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb|cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb]]'
 source_type: cursor_changelog
+superseded: true
 theme: enterprise-admin
 title: Both are available today on Teams and Enterprise plans
 type: change

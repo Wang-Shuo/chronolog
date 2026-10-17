@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 0f658246e9d8cab60bb64c51bb6c21235d9a12b459ec9ee61dd1cc150a8b7f66
+kind: change
+machine_hash: c1ccbea3861c774dd3d62f8877c1a9c450054f132b76d0c0f6973134ef991fa0
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,8 +28,9 @@ record:
   evidence:
   - quote: '[VSCode] Added `/usage` command to display current plan usage'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.14
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: vscode-added-usage-command-to-display-current-plan-usage
@@ -40,12 +42,12 @@ record:
   title: '[VSCode] Added `/usage` command to display current plan usage'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-13-added-date-range-filtering-to-stats-command-press-r-to-cycle-between-last-7-days|Added
-  date range filtering to /stats command - press r to cycle between Last 7…]]'
-- '[[Changes/Claude Code/2026-01-13-added-search-functionality-to-config-command-for-quickly-filtering-settings|Added
-  search functionality to /config command for quickly filtering settings]]'
+- '[[Changes/Claude Code/2026-01-13-3-developer-workflow-changes-in-v2-1-6|3 Developer
+  Workflow changes in v2.1.6]]'
 - '[[Changes/Claude Code/2026-01-16-added-session-url-attribution-to-commits-and-prs-created-from-web-sessions|Added
   session URL attribution to commits and PRs created from web sessions]]'
+- '[[Changes/Cursor/2026-01-16-2-developer-workflow-changes-in-cli-agent-modes-and-cloud-handoff|2
+  Developer Workflow changes in CLI Agent Modes and Cloud Handoff]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111|claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111]]'
 source_type: github_releases
 theme: developer-workflow
@@ -68,8 +70,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-01-20-added-support-for-pinning-plugins-to-specific-git-commit-shas-allowing-marketpla|Added support for pinning plugins to specific git commit SHAs, allowing marketplace…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-01-20-added-search-to-installed-plugins-list-type-to-filter-by-name-or-description|Added search to installed plugins list - type to filter by name or description]] · Apps and Integrations
+- [[Changes/Claude Code/2026-01-20-2-apps-and-integrations-changes-in-v2-1-14|2 Apps and Integrations changes in v2.1.14]] · Apps and Integrations
 - [[Changes/Claude Code/2026-01-20-added-history-based-autocomplete-in-bash-mode-type-a-partial-command-and-press-t|Added history-based autocomplete in bash mode (!) - type a partial command…]] · Editor Experience
 - [[Changes/Claude Code/2026-01-20-improved-backspace-to-delete-pasted-text-as-a-single-token-instead-of-one-charac|Improved backspace to delete pasted text as a single token instead of one character…]] · Interface Experience
 <!-- chronolog:end -->
@@ -77,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-16 · Claude Code · [[Changes/Claude Code/2026-01-16-added-session-url-attribution-to-commits-and-prs-created-from-web-sessions|Added session URL attribution to commits and PRs created from web sessions]]
+- Earlier: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-2-developer-workflow-changes-in-cli-agent-modes-and-cloud-handoff|2 Developer Workflow changes in CLI Agent Modes and Cloud Handoff]]
 - Later: 2026-01-21 · Claude Code · [[Changes/Claude Code/2026-01-21-added-deprecation-notification-for-npm-installations-run-claude-install-or-see-h|Added deprecation notification for npm installations - run claude install or see…]]
 <!-- chronolog:end -->
 

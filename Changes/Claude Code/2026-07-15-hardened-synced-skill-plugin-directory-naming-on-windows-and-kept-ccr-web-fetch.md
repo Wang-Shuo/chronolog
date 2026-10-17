@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 839bd9f4886db9d07169342a038e301d396860bb9188b2cee55b2b1031207952
+machine_hash: bb83ae01ab98537d247191736feffb587da47de89951a09b9d3613a80a3e8a09
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   and Edu users can find skills under Plugins in the sidebar, on the Skills…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57|claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Hardened synced skill/plugin directory naming on Windows and kept CCR web…
 type: change

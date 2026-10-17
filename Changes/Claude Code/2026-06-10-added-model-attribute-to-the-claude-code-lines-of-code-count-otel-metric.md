@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 64c995d72901986b5d7a34dd8eb8bfd3236756bf1a6efcac034e2401225bcb10
+machine_hash: 7207e857da0d1ce7903ba0da7099525563e8c5993e9345560f2d2d0b898657ef
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   only]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c|claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Added model attribute to the claude_code.lines_of_code.count OTEL metric
 type: change

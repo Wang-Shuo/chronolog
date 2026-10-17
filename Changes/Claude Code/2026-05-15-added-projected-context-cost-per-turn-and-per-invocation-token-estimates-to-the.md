@@ -15,9 +15,10 @@ diffusion:
   theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 28ed9e395cc0613d57a826222f1b159b2c967178313e1761c5124ce0d8f91d87
+kind: pricing
+machine_hash: 69a694e20b8773e6e41a2cae4f5ed4f4b2bb4abe2750df802b36d0f8530d893e
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Added projected context cost (per-turn and per-invocation token estimates)
       to the `/plugin` marketplace browse pane
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.143
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: pricing
   product: claude-code
   product_name: Claude Code
   slug: added-projected-context-cost-per-turn-and-per-invocation-token-estimates-to-the
@@ -55,10 +57,10 @@ record:
   title: Added projected context cost (per-turn and per-invocation token estimates)…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-04-09-pro-200-month-our-highest-usage-option-remains-available-and-continues-on-its-cu|Pro
-  ($200/month): Our highest-usage option remains available and continues…]]'
-- '[[Changes/ChatGPT/2026-04-09-you-can-upgrade-switch-or-cancel-your-plan-from-settings-my-plan-or-from-the-pri|You
-  can upgrade, switch, or cancel your plan from Settings  My Plan or…]]'
+- '[[Changes/Claude Code/2026-04-09-fixed-false-bash-permission-prompts-for-cut-d-paste-d-column-s-awk-print-1-file|Fixed
+  false Bash permission prompts for cut -d /, paste -d /, column -s /…]]'
+- '[[Changes/Claude Code/2026-04-22-opentelemetry-user-prompt-events-now-include-command-name-and-command-source-for|OpenTelemetry:
+  user_prompt events now include command_name and command_source…]]'
 - '[[Changes/Cursor/2026-05-11-customers-must-be-on-usage-based-billing-for-bugbot-to-customize-effort-levels-l|Customers
   must be on usage-based billing for Bugbot to customize effort levels]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c|claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c]]'
@@ -71,7 +73,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Added projected context cost (per-turn and per-invocation token estimates)…
 
-**Claude Code** · 2026-05-15 · [[Themes/pricing-model|Pricing Model]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.143) · from [[Releases/Claude Code/claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c|v2.1.143]]
+**Claude Code** · 2026-05-15 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.143) · from [[Releases/Claude Code/claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c|v2.1.143]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -83,10 +85,13 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-05-15-added-plugin-dependency-enforcement-claude-plugin-disable-now-refuses-when-anoth|Added plugin dependency enforcement]] · Apps and Integrations
-- [[Changes/Claude Code/2026-05-15-added-worktree-bgisolation-none-setting-to-let-background-sessions-edit-the-work|Added worktree.bgIsolation: "none" setting to let background sessions edit…]] · Developer Workflow
-- [[Changes/Claude Code/2026-05-15-background-sessions-now-preserve-the-model-and-effort-level-you-set-after-waking|Background sessions now preserve the model and effort level you set after waking from idle]] · Model Support
-- [[Changes/Claude Code/2026-05-15-powershell-tool-now-passes-executionpolicy-bypass-opt-out-with-claude-code-power|PowerShell tool now passes -ExecutionPolicy Bypass]] · Safety and Privacy
+- [[Changes/Claude Code/2026-05-15-bg-and-detach-now-preserve-allow-dangerously-skip-permissions-so-the-forked-work|/bg and ←-detach now preserve --allow-dangerously-skip-permissions…]] · Editor Experience
+- [[Changes/Claude Code/2026-05-15-3-safety-and-privacy-changes-in-v2-1-143|3 Safety and Privacy changes in v2.1.143]] · Safety and Privacy
+- [[Changes/Claude Code/2026-05-15-the-powershell-tool-is-now-enabled-by-default-on-windows-for-bedrock-vertex-and|The PowerShell tool is now enabled by default on Windows for Bedrock, Vertex…]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-05-15-3-apps-and-integrations-changes-in-v2-1-143|3 Apps and Integrations changes in v2.1.143]] · Apps and Integrations
+- [[Changes/Claude Code/2026-05-15-2-model-support-changes-in-v2-1-143|2 Model Support changes in v2.1.143]] · Model Support
+- [[Changes/Claude Code/2026-05-15-2-developer-workflow-changes-in-v2-1-143|2 Developer Workflow changes in v2.1.143]] · Developer Workflow
+- [[Changes/Claude Code/2026-05-15-2-agent-mode-changes-in-v2-1-143|2 Agent Mode changes in v2.1.143]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

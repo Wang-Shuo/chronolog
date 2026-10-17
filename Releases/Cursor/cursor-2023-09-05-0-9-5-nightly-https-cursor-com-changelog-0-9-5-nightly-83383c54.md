@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-09-05'
 description: 'Cursor release Cursor-Python LSP on 2023-09-05: 1 tracked change across
   Developer Workflow'
-machine_hash: 5e504ae5e6e1eebadd91d17570b222f6b3d387e7b3239955876f489f450b2d1f
+machine_hash: 69c19335c9b40835b0284f7b398c1a8cbde07908ee0b268e56bdffb42fb850ed
 product: cursor
 product_name: Cursor
 record:
@@ -39,10 +39,10 @@ version: 0.9.5-nightly
 <!-- chronolog:begin region="summary" -->
 Ships with cursor-python, a Language-Server fork of pyright built for Cursor
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-09-05-ships-with-cursor-python-a-language-server-fork-of-pyright-built-for-cursor|Ships with cursor-python, a Language-Server fork of pyright built for Cursor]] · Developer Workflow
+- [[Changes/Cursor/2023-09-05-ships-with-cursor-python-a-language-server-fork-of-pyright-built-for-cursor|Cursor-Python LSP]] · Developer Workflow
 <!-- chronolog:end -->

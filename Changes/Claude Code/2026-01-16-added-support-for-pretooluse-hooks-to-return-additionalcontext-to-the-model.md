@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: e0912d4b68e8397f33899f7f549f370d619102ab5a3a792b0b2ff3a35b44067a
+kind: change
+machine_hash: 5f45bb51b8dfa87a52d30ccb057c249ff5343f928f1c951bce84bb4b2d51f178
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
   - quote: Added support for `PreToolUse` hooks to return `additionalContext` to the
       model
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.9
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-support-for-pretooluse-hooks-to-return-additionalcontext-to-the-model
@@ -43,10 +45,10 @@ record:
     model
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-10-cursor-instruments-your-app-with-runtime-logs-to-find-the-root-cause-it-works-ac|Cursor
-  instruments your app with runtime logs to find the root cause]]'
 - '[[Changes/ChatGPT/2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-series-gpt-5-2-is-sm|Today,
   we’re releasing GPT-5.2, the next upgrade to the GPT-5 series]]'
+- '[[Changes/Cursor/2026-01-08-use-the-new-agent-models-command-list-models-flag-or-models-slash-command-to-lis|Model
+  list and selection]]'
 - '[[Changes/Claude Code/2026-01-09-merged-slash-commands-and-skills-simplifying-the-mental-model-with-no-change-in|Merged
   slash commands and skills, simplifying the mental model with no change in behavior]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-16-v2-1-9-github-277250534-9563859d|claude-code-2026-01-16-v2-1-9-github-277250534-9563859d]]'
@@ -81,7 +83,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-merged-slash-commands-and-skills-simplifying-the-mental-model-with-no-change-in|Merged slash commands and skills, simplifying the mental model with no change in behavior]]
-- Later: 2026-01-20 · ChatGPT · [[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|ChatGPT rolls out an age prediction model on ChatGPT consumer plans to help…]]
+- Later: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-models-removed-use-model-to-see-all-models-or-select-a-model|/models removed. Use /model to see all models or select a model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

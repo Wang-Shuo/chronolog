@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 4
 date: '2026-06-22'
-description: 'Cursor release Customize Cursor on 2026-06-22: 5 tracked changes across
+description: 'Cursor release Customize Cursor on 2026-06-22: 4 tracked changes across
   Apps and Integrations, Collaboration'
-machine_hash: 7cb3c2f82ac2cf6d3e53a768cf389687ec4a066e2c2c441c8512d94cb6391e7c
+machine_hash: aad25463493770ffc7f2808cf55f8e32059eaed97ac2cec679a8a8f074441d23
 product: cursor
 product_name: Cursor
 record:
@@ -39,14 +39,13 @@ version: '3.9'
 <!-- chronolog:begin region="summary" -->
 Plugins, skills, and MCPs let you customize Cursor for your workflows. The new Customize page brings them into one place.
 
-Tracked 5 of 9 candidate lines.
+Tracked 4 cards from 9 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-06-22-you-can-now-add-and-manage-plugins-skills-mcps-subagents-rules-commands-and-hook|Add and manage plugins, skills, MCPs, subagents, rules, commands, and hooks…]] · Apps and Integrations
-- [[Changes/Cursor/2026-06-22-plugins-now-support-prebuilt-canvases-shared-setup-templates-your-team-can-open|Plugins now support prebuilt canvases: shared setup templates your team can open and reuse]] · Collaboration
-- [[Changes/Cursor/2026-06-22-add-any-to-your-setup-with-one-click-from-the-new-customize-page-and-extend-curs|Add any to your setup with one click from the new Customize page and extend Cursor…]] · Apps and Integrations
-- [[Changes/Cursor/2026-06-22-cursor-now-shows-you-a-leaderboard-of-the-most-popular-plugins-skills-and-mcps-a|Cursor now shows you a leaderboard of the most popular plugins, skills, and MCPs…]] · Collaboration
-- [[Changes/Cursor/2026-06-22-plugins-skills-and-mcps-let-you-customize-cursor-for-your-workflows-the-new-cust|Plugins, skills, and MCPs let you customize Cursor for your workflows]] · Apps and Integrations
+- [[Changes/Cursor/2026-06-22-plugins-skills-and-mcps-let-you-customize-cursor-for-your-workflows-the-new-cust-241c4b|Plugins, skills, and MCPs let you customize Cursor for your workflows]] · Apps and Integrations
+- [[Changes/Cursor/2026-06-22-new-team-marketplaces|New Team Marketplaces]] · Collaboration · Launch
+- [[Changes/Cursor/2026-06-22-marketplace-leaderboard-654084|Marketplace leaderboard]] · Collaboration · Launch
+- [[Changes/Cursor/2026-06-22-plugin-canvases|Plugin canvases]] · Apps and Integrations · Launch
 <!-- chronolog:end -->

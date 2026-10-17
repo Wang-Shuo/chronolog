@@ -5,8 +5,8 @@ description: 'Cursor · 2026-04-08 · Apps and Integrations: Give Bugbot access 
   servers for additional context during code reviews. On Teams and Enterprise plans,
   you…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You
-    can join the waitlist to try plugins here]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1112
   relation: same-theme-chronology
@@ -15,14 +15,17 @@ diffusion:
   theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
-impact: incremental
-machine_hash: a90b3c7b9bdd4b55f0b86cf03c9f464fc0ddacf6d9dc97d831ab304bca86a232
+extractor_version: fallback-v5
+impact: significant
+kind: launch
+machine_hash: f0c88cb46a156cd6af70c3c78f6028a96913885eb044bbd1e38b22a41aa9546a
 product: cursor
 product_name: Cursor
 record:
+  ai_generated: true
   card_id: cursor-2026-04-08-bbecaa
   comparison: ''
+  confidence: low
   date: '2026-04-08'
   description: 'Cursor — Bugbot Learned Rules and MCP Support: Give Bugbot access
     to MCP servers for additional context during code reviews. On Teams and Enterprise
@@ -31,52 +34,35 @@ record:
   - quote: Give Bugbot access to MCP servers for additional context during code reviews.
       On Teams and Enterprise plans, you can add tools to Bugbot in the Bugbot dashboard.
     source_release: https://cursor.com/changelog/04-08-26
-  extractor_version: fallback-v4
-  impact: incremental
+  extractor_version: fallback-v5
+  impact: significant
+  kind: launch
   product: cursor
   product_name: Cursor
-  slug: give-bugbot-access-to-mcp-servers-for-additional-context-during-code-reviews-on
+  slug: bugbot-mcp-support
   source_release: cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11
   source_type: cursor_changelog
   theme: apps-integrations
-  theme_matches:
-  - matched_terms:
-    - mcp
-    score: 50
-    theme: apps-integrations
-  - matched_terms:
-    - teams
-    score: 50
-    theme: collaboration
-  - matched_terms:
-    - context
-    score: 50
-    theme: context-window
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
-  theme_resolution: manual-semantic-rule-v1
-  title: Give Bugbot access to MCP servers for additional context during code reviews
+  title: Bugbot MCP Support
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-07-added-compact-slacked-channel-header-with-a-clickable-channel-link-for-slack-mcp|Added
-  compact Slacked ♯channel header with a clickable channel link for Slack MCP…]]'
-- '[[Changes/Claude Code/2026-04-07-added-keep-coding-instructions-frontmatter-field-support-for-plugin-output-style|Added
-  keep-coding-instructions frontmatter field support for plugin output styles]]'
-- '[[Changes/Cursor/2026-04-08-it-looks-at-reactions-and-replies-to-bugbot-comments-and-comments-from-human-rev|It
-  looks at reactions and replies to Bugbot comments and comments from human…]]'
+- '[[Changes/Cursor/2026-04-02-2-apps-and-integrations-changes-in-3-0|2 Apps and Integrations
+  changes in 3.0]]'
+- '[[Changes/Claude Code/2026-04-04-remote-control-session-names-now-use-your-hostname-as-the-default-prefix-e-g-myh|Remote
+  Control session names now use your hostname as the default prefix…]]'
+- '[[Changes/Claude Code/2026-04-07-5-apps-and-integrations-changes-in-v2-1-94|5 Apps
+  and Integrations changes in v2.1.94]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11|cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11]]'
 source_type: cursor_changelog
 theme: apps-integrations
-title: Give Bugbot access to MCP servers for additional context during code reviews
+title: Bugbot MCP Support
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Give Bugbot access to MCP servers for additional context during code reviews
+# Bugbot MCP Support
 
-**Cursor** · 2026-04-08 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://cursor.com/changelog/04-08-26) · from [[Releases/Cursor/cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11|Bugbot Learned Rules and MCP Support]]
+**Cursor** · 2026-04-08 · [[Themes/apps-integrations|Apps and Integrations]] · Launch · [Official source](https://cursor.com/changelog/04-08-26) · from [[Releases/Cursor/cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11|Bugbot Learned Rules and MCP Support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -88,22 +74,22 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-04-08-it-looks-at-reactions-and-replies-to-bugbot-comments-and-comments-from-human-rev|It looks at reactions and replies to Bugbot comments and comments from human…]] · Apps and Integrations
-- [[Changes/Cursor/2026-04-08-bugbot-can-now-learn-from-feedback-on-pull-requests-and-turn-those-signals-into|Bugbot can now learn from feedback on pull requests and turn those signals…]] · Developer Workflow
+- [[Changes/Cursor/2026-04-08-bugbot-learned-rules-9e5cac|Bugbot Learned Rules]] · Developer Workflow
+- [[Changes/Cursor/2026-04-08-redesigned-bugbot-settings-and-split-personal-and-team-settings-into-clearer-sec|Redesigned Bugbot settings, and split personal and team settings into clearer sections]] · Collaboration
 - [[Changes/Cursor/2026-04-08-this-release-introduces-updates-to-bugbot-including-the-ability-to-self-improve|Cursor introduces updates to Bugbot including the ability to self-improve in real…]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-07 · Claude Code · [[Changes/Claude Code/2026-04-07-added-keep-coding-instructions-frontmatter-field-support-for-plugin-output-style|Added keep-coding-instructions frontmatter field support for plugin output styles]]
-- Later: 2026-04-13 · Claude Code · [[Changes/Claude Code/2026-04-13-added-background-monitor-support-for-plugins-via-a-top-level-monitors-manifest-k|Added background monitor support for plugins via a top-level monitors manifest key…]]
+- Earlier: 2026-04-07 · Claude Code · [[Changes/Claude Code/2026-04-07-5-apps-and-integrations-changes-in-v2-1-94|5 Apps and Integrations changes in v2.1.94]]
+- Later: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-2-apps-and-integrations-changes-in-v2-1-98|2 Apps and Integrations changes in v2.1.98]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-you-can-join-the-waitlist-to-try-plugins-here|You can join the waitlist to try plugins here]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

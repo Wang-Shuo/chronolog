@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 347e5233a31c2c2dd7bef4192a33dedf709f9c6062135b63734efff1c9d7de05
+machine_hash: f06886375b5f79d06467a82333757e86e8f13c645368d42b312e070951bac562
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   mode now prompts before writing build-tool config files that grant…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa|claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Parallel tool calls
 type: change

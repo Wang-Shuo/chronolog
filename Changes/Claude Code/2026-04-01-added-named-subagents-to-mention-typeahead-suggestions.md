@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 163fe6dbae24874f108d012570039e13de72774e906afdebe994210bfaacf8ac
+machine_hash: 90497c5693415ff969316f47b231ff6c37d1bff3b41278ace95fad2e1722a0c5
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,6 +47,7 @@ related_changes:
   PermissionDenied hook that fires after auto mode classifier denials]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-89-github-303967782-358023f0|claude-code-2026-04-01-v2-1-89-github-303967782-358023f0]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: Added named subagents to @ mention typeahead suggestions
 type: change

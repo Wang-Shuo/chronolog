@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 7861b589bd0a42b0cb090431bf30d0d8967e575dd3dc8718a9d38d9ce82b9c3f
+machine_hash: c38cbd3f26b09567d861994152c3123a76dc1702c318c60a4383078ae4d50d8f
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,6 +61,7 @@ related_changes:
   apps]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-23-v2-1-187-github-343665388-744f9775|claude-code-2026-06-23-v2-1-187-github-343665388-744f9775]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Added mouse click support to select menus…
 type: change

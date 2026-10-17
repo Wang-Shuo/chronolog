@@ -1,9 +1,9 @@
 ---
-changes_count: 4
+changes_count: 8
 date: '2025-08-21'
 description: 'Cursor release Linear integration, improved Agent terminal, and OS notifications
-  on 2025-08-21: 4 tracked changes across Agent Mode, Apps and Integrations…'
-machine_hash: d483dabcb83124fa485151225c5b814fca73b62097c42e66929ee2ef642d731d
+  on 2025-08-21: 8 tracked changes across Agent Mode, Apps and Integrations…'
+machine_hash: 38946b77b4577c4643a978c1bc42d51ab1a904c8447f20920f5e31619b0093db
 product: cursor
 product_name: Cursor
 record:
@@ -38,13 +38,17 @@ version: '1.5'
 <!-- chronolog:begin region="summary" -->
 #Run Agents in Linear
 
-Tracked 4 of 18 candidate lines.
+Tracked 8 cards from 18 candidate lines; 2 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2025-08-21-cursor-now-supports-mcp-elicitation-a-new-feature-in-the-mcp-spec-that-allows-se|Cursor now supports MCP elicitation, a new feature in the MCP spec that allows…]] · Apps and Integrations
-- [[Changes/Cursor/2025-08-21-you-can-now-start-background-agents-directly-from-linear-delegate-tasks-to-curso|Start Background Agents directly from Linear]] · Agent Mode
-- [[Changes/Cursor/2025-08-21-the-terminal-now-opens-on-the-left-with-a-clear-backdrop-and-border-animation-to|The terminal now opens on the left with a clear backdrop and border animation…]] · Developer Workflow
-- [[Changes/Cursor/2025-08-21-get-native-os-notifications-when-an-agent-run-finishes-or-when-input-is-required|Get native OS notifications when an agent run finishes or when input is required…]] · Agent Mode
+- [[Changes/Cursor/2025-08-21-cursor-now-supports-mcp-elicitation-a-new-feature-in-the-mcp-spec-that-allows-se|Support for MCP elicitation]] · Apps and Integrations · Launch
+- [[Changes/Cursor/2025-08-21-you-can-now-start-background-agents-directly-from-linear-delegate-tasks-to-curso|Run Agents in Linear]] · Agent Mode · Launch
+- [[Changes/Cursor/2025-08-21-tab-now-aware-of-full-notebook|Tab now aware of full notebook]] · Editor Experience
+- [[Changes/Cursor/2025-08-21-1-5-5-general-stability-improvements-and-bug-fixes-to-enhance-overall-applicatio|1.5.5: General stability improvements and bug fixes to enhance overall application…]] · Reliability and Performance
+- [[Changes/Cursor/2025-08-21-the-terminal-now-opens-on-the-left-with-a-clear-backdrop-and-border-animation-to|Improved review flow in Agent terminal]] · Developer Workflow · Launch
+- [[Changes/Cursor/2025-08-21-context-usage-is-always-shown-in-the-chat-input|Context usage is always shown in the chat input]] · Context Window
+- [[Changes/Cursor/2025-08-21-2-model-support-changes-in-1-5|2 Model Support changes in 1.5]] · Model Support · Digest
+- [[Changes/Cursor/2025-08-21-get-native-os-notifications-when-an-agent-run-finishes-or-when-input-is-required|OS notifications from Agent]] · Agent Mode · Launch
 <!-- chronolog:end -->

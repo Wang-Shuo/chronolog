@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 70eec5e8e302dac2a2cf10180c566d701fa4e9a5df1678edf2bd84d07844be47
+machine_hash: c8e47694e12a3368cee12900270c71a57f2035a52f1723b46ad2d40297c582bf
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   .husky to protected directories (acceptEdits mode)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b|claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: Fixed UI crash when malformed tool input reached the permission dialog
 type: change

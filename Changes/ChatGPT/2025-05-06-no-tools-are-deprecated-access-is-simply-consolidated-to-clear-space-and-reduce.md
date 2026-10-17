@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5259ec4b2b1419758fd6e86c122b9b620cd54c6493a82426f07ee6b1c3990931
+machine_hash: cb6255ebf72ae4d7e42cb53004652df6c30e361b22853c095f3fe518d2b18561
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,6 +52,7 @@ related_changes:
   history has moved into the command palette]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-06-mobile-ui-ios-android-changing-on-free-plus-pro-plans-be1d56cb|chatgpt-2025-05-06-mobile-ui-ios-android-changing-on-free-plus-pro-plans-be1d56cb]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: interface-experience
 title: No tools are deprecated—access is simply consolidated to clear space and reduce…
 type: change

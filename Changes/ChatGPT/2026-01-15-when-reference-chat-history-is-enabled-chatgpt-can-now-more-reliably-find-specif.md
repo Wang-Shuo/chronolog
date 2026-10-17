@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-01-15 · Memory and Personalization: When referenc
   history is enabled, ChatGPT can now more reliably find specific details from your
   past…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 910
   relation: same-theme-chronology
@@ -15,9 +15,10 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: ab4fc62145f663325c17a097485be4084acfd9972aaba696bceec960ba7f66e4
+kind: change
+machine_hash: 65a2cc8f6c1ff3ee26b70654481e28bd1b2953489e1f0c3c5acc0a7f6b306020
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,8 +36,9 @@ record:
       your question now appears as a source so you can open and review the original
       context.This memory improvement is now available for Plus and Pro users globally.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: when-reference-chat-history-is-enabled-chatgpt-can-now-more-reliably-find-specif
@@ -52,26 +54,24 @@ record:
     - context
     score: 50
     theme: context-window
-  title: When reference chat history is enabled, ChatGPT can now more reliably find
-    specific…
+  title: Improved memory for finding details from past chats (Plus & Pro)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-12-19-use-more-or-fewer-headers-lists|Use more or fewer
-  headers & lists]]'
-- '[[Changes/ChatGPT/2025-12-22-today-we-re-rolling-out-your-year-with-chatgpt-an-optional-personalized-end-of-y-740eb1|ChatGPT
-  rolls out Your Year with ChatGPT, an optional, personalized end-of-year…]]'
+- '[[Changes/ChatGPT/2025-12-19-in-addition-to-selecting-a-base-style-and-tone-preset-like-candid-and-friendly-y-21da79|New
+  detailed characteristic controls]]'
+- '[[Changes/ChatGPT/2025-12-22-today-we-re-rolling-out-your-year-with-chatgpt-an-optional-personalized-end-of-y-740eb1|Your
+  Year with ChatGPT]]'
 - '[[Changes/ChatGPT/2026-01-07-we-re-starting-to-roll-out-health-a-dedicated-space-in-chatgpt-for-health-and-we|We’re
   starting to roll out Health, a dedicated space in ChatGPT for health…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-15-improved-memory-for-finding-details-from-past-chats-plus-pro-7ff26748|chatgpt-2026-01-15-improved-memory-for-finding-details-from-past-chats-plus-pro-7ff26748]]'
 source_type: chatgpt_changelog
 theme: memory
-title: When reference chat history is enabled, ChatGPT can now more reliably find
-  specific…
+title: Improved memory for finding details from past chats (Plus & Pro)
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# When reference chat history is enabled, ChatGPT can now more reliably find specific…
+# Improved memory for finding details from past chats (Plus & Pro)
 
 **ChatGPT** · 2026-01-15 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-01-15-improved-memory-for-finding-details-from-past-chats-plus-pro-7ff26748|Improved memory for finding details from past chats (Plus & Pro)]]
 <!-- chronolog:end -->
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

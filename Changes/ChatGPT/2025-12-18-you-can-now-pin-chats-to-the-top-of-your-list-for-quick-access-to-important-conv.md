@@ -14,9 +14,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 07aa36e010b295d606bd48b64c101c3dcd9445a33091ed2be6ab19536e5b4b78
+kind: change
+machine_hash: 4c15b91ee5124764f933047bdd235ff1ba253cf6b2ddb44438e2d99e1dd49434
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,8 +34,9 @@ record:
       web, hover over a chat in the left-hand sidebar, click ⋯, and select Pin chat.
       On mobile, long-press a chat and select Pin chat.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv
@@ -52,24 +54,24 @@ record:
     - sidebar
     score: 50
     theme: interface-experience
-  title: Pin chats to the top of your list for quick access to important conversations
+  title: Pinned chats in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-14-available-on-web-mobile-ios-android-and-desktop-macos-windows-note-in-cambodia-l|Available
-  on web, mobile (iOS & Android), and desktop (macOS & Windows)]]'
-- '[[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-9033cc|Starting
+- '[[Changes/Cursor/2025-09-29-on-windows-agent-now-correctly-uses-powershell-on-macos-and-linux-powershell-wil|On
+  Windows, Agent now correctly uses PowerShell]]'
+- '[[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-3f946e|Starting
   today, project sharing is available to all ChatGPT users, including…]]'
-- '[[Changes/ChatGPT/2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05|We’re
-  piloting group chats so you can bring people - and ChatGPT - into the same…]]'
+- '[[Changes/ChatGPT/2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05|Group
+  chats in ChatGPT]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-18-pinned-chats-in-chatgpt-f0483839|chatgpt-2025-12-18-pinned-chats-in-chatgpt-f0483839]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
-title: Pin chats to the top of your list for quick access to important conversations
+title: Pinned chats in ChatGPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Pin chats to the top of your list for quick access to important conversations
+# Pinned chats in ChatGPT
 
 **ChatGPT** · 2025-12-18 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-12-18-pinned-chats-in-chatgpt-f0483839|Pinned chats in ChatGPT]]
 <!-- chronolog:end -->
@@ -87,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-11-13 · ChatGPT · [[Changes/ChatGPT/2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05|We’re piloting group chats so you can bring people - and ChatGPT - into the same…]]
+- Earlier: 2025-11-13 · ChatGPT · [[Changes/ChatGPT/2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05|Group chats in ChatGPT]]
 - Later: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-added-guidance-for-macos-users-when-alt-shortcuts-fail-due-to-terminal-configura|Added guidance for macOS users when Alt shortcuts fail due to terminal configuration]]
 <!-- chronolog:end -->
 

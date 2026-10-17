@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-07-11'
 description: 'Cursor release 0.2.46 - Patch for Cmd-k Generates on 2023-07-11: 1 tracked
   change across Editor Experience'
-machine_hash: 42f7243a4f8cd7bb9942bd4d51fbf2b0f858a0e8fd92402c632132e03569a201
+machine_hash: e2fecfa4446429f653287a510426c01e17ab53891d4753de73cf39fa6a0becdc
 product: cursor
 product_name: Cursor
 record:
@@ -39,10 +39,10 @@ version: 0.2.46
 <!-- chronolog:begin region="summary" -->
 This update improves the prompt for Cmd-k when you don't have any code selected.
 
-Tracked 1 of 1 candidate line.
+Tracked 1 card from 1 candidate line.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-07-11-this-update-improves-the-prompt-for-cmd-k-when-you-don-t-have-any-code-selected|This update improves the prompt for Cmd-k when you don't have any code selected]] · Editor Experience
+- [[Changes/Cursor/2023-07-11-this-update-improves-the-prompt-for-cmd-k-when-you-don-t-have-any-code-selected|0.2.46 - Patch for Cmd-k Generates]] · Editor Experience
 <!-- chronolog:end -->

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0568a4d5dc1941c4af90bdaeb8979829cc5f320d3b0ebe0af1d44d7da3b16326
+machine_hash: 77b23bd5031383b09508fd66ab7a65abd18511dfeebd869fececdec59eb1f470
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   disableSkillShellExecution setting to disable inline shell execution…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc|claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Plugins can now ship executables under bin/ and invoke them as bare commands…
 type: change

@@ -1,9 +1,10 @@
 ---
-changes_count: 5
+changes_count: 20
 date: '2025-09-29'
 description: 'Cursor release Browser Controls, Plan Mode, and Hooks on 2025-09-29:
-  5 tracked changes across Agent Mode, Apps and Integrations, Editor Experience'
-machine_hash: 84507e6f6b612215b5f996b1171c6ddb3b516bc963ffa42ed39f259c2a626e26
+  20 tracked changes across Agent Mode, Collaboration, Editor Experience, Account
+  and…'
+machine_hash: ecc4d55187f72df9c07f592ad12b261afa251cbb878d78ace3df0d0376fd2546
 product: cursor
 product_name: Cursor
 record:
@@ -38,14 +39,29 @@ version: '1.7'
 <!-- chronolog:begin region="summary" -->
 #Browser Controls
 
-Tracked 5 of 70 candidate lines.
+Tracked 20 cards from 70 candidate lines; 17 lines pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2025-09-29-when-writing-prompts-autocomplete-suggestions-will-appear-based-on-recent-change|When writing prompts, autocomplete suggestions will appear based on recent changes]] · Editor Experience
-- [[Changes/Cursor/2025-09-29-cursor-can-now-write-detailed-plans-before-starting-complex-tasks-this-allows-ag|Cursor can now write detailed plans before starting complex tasks]] · Agent Mode
-- [[Changes/Cursor/2025-09-29-agent-can-take-screenshots-improve-ui-and-debug-client-issues-read-more-about-br|Agent can take screenshots, improve UI, and debug client issues]] · Agent Mode
-- [[Changes/Cursor/2025-09-29-use-hooks-to-audit-agent-usage-block-commands-or-redact-secrets-from-context-it|Use Hooks to audit Agent usage, block commands, or redact secrets from context]] · Apps and Integrations
-- [[Changes/Cursor/2025-09-29-you-can-now-observe-control-and-extend-the-agent-loop-using-custom-scripts-hooks|Observe, control, and extend the Agent loop using custom scripts]] · Agent Mode
+- [[Changes/Cursor/2025-09-29-hooks-beta|Hooks (beta)]] · Agent Mode · Launch
+- [[Changes/Cursor/2025-09-29-when-writing-prompts-autocomplete-suggestions-will-appear-based-on-recent-change|Autocomplete for Agent]] · Editor Experience · Launch
+- [[Changes/Cursor/2025-09-29-share-prompts-with-deeplinks-beta|Share prompts with deeplinks (beta)]] · Collaboration · Launch
+- [[Changes/Cursor/2025-09-29-1-7-4-shift-tab-shortcut-improvements|1.7.4: Shift+Tab shortcut improvements]] · Editor Experience
+- [[Changes/Cursor/2025-09-29-team-rules|Team rules]] · Collaboration · Launch
+- [[Changes/Cursor/2025-09-29-1-7-20-web-search-auto-accept-setting|1.7.20: Web search auto-accept setting]] · Search and Browsing
+- [[Changes/Cursor/2025-09-29-cursor-can-now-write-detailed-plans-before-starting-complex-tasks-this-allows-ag|Plan Mode]] · Agent Mode · Launch
+- [[Changes/Cursor/2025-09-29-monitor-agents-from-menubar|Monitor Agents from menubar]] · Agent Mode · Launch
+- [[Changes/Cursor/2025-09-29-5-agent-mode-changes-in-1-7|5 Agent Mode changes in 1.7]] · Agent Mode · Digest
+- [[Changes/Cursor/2025-09-29-agent-can-take-screenshots-improve-ui-and-debug-client-issues-read-more-about-br|Browser Controls]] · Agent Mode · Launch
+- [[Changes/Cursor/2025-09-29-1-7-24-team-deeplinks-and-hooks-improvements|1.7.24: Team deeplinks and hooks improvements]] · Collaboration
+- [[Changes/Cursor/2025-09-29-4-apps-and-integrations-changes-in-1-7|4 Apps and Integrations changes in 1.7]] · Apps and Integrations · Digest
+- [[Changes/Cursor/2025-09-29-7-developer-workflow-changes-in-1-7|7 Developer Workflow changes in 1.7]] · Developer Workflow · Digest
+- [[Changes/Cursor/2025-09-29-8-reliability-and-performance-changes-in-1-7|8 Reliability and Performance changes in 1.7]] · Reliability and Performance · Digest
+- [[Changes/Cursor/2025-09-29-pr-summaries-from-bugbot|PR summaries from Bugbot]] · Editor Experience · Launch
+- [[Changes/Cursor/2025-09-29-sandboxed-terminals|Sandboxed terminals]] · Safety and Privacy · Launch
+- [[Changes/Cursor/2025-09-29-on-windows-agent-now-correctly-uses-powershell-on-macos-and-linux-powershell-wil|On Windows, Agent now correctly uses PowerShell]] · Mobile and Desktop
+- [[Changes/Cursor/2025-09-29-image-file-support-for-agent|Image file support for Agent]] · Agent Mode · Launch
+- [[Changes/Cursor/2025-09-29-1-7-45-model-picker-ux|1.7.45: Model picker UX]] · Interface Experience
+- [[Changes/Cursor/2025-09-29-1-7-41-token-sync-improvements-for-authentication|1.7.41: Token sync improvements for authentication]] · Account and Access
 <!-- chronolog:end -->

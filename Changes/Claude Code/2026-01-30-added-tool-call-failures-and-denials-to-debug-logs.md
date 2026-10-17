@@ -15,7 +15,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 917597286c935cebf6b379cb6a25c8af7b67edf654b8fd1c4d397b1055377b11
+machine_hash: cf19c34173dc82dcb54fcbb4995eb642c22094867da19977e2d923d96ee780c4
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   are now automatically linked to PRs when created via gh pr create]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-30-v2-1-27-github-281663155-d003937d|claude-code-2026-01-30-v2-1-27-github-281663155-d003937d]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added tool call failures and denials to debug logs
 type: change

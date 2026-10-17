@@ -3,7 +3,7 @@ changes_count: 3
 date: '2024-01-06'
 description: 'Cursor release Dev Containers on 2024-01-06: 3 tracked changes across
   Developer Workflow, Editor Experience'
-machine_hash: 297f076a360d4b49ce10186373100ee8ab7241c4551f55df7a53f8cb5cdbbfc1
+machine_hash: 0bf5e158fb9840b6468c18b99ced592b265ba0383f6e57319430054fd0b90ceb
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.22.0
 <!-- chronolog:begin region="summary" -->
 Dev containers are now supported! This build also:
 
-Tracked 3 of 3 candidate lines.
+Tracked 3 cards from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

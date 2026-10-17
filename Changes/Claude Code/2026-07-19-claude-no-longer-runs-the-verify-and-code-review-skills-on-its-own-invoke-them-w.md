@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 49da4caf0d903dfaa8253633387326a553b96a8916e82e9f473e8a2f7407cf44
+kind: change
+machine_hash: 1f52e3d909f6f5a6eab588b93a06806acfa07cdcea1301e4ae9ec645cfaaf57a
 product: claude-code
 product_name: Claude Code
 record:
@@ -29,8 +30,9 @@ record:
   - quote: Claude no longer runs the `/verify` and `/code-review` skills on its own;
       invoke them with `/verify` or `/code-review` when you want them
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.215
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: claude-no-longer-runs-the-verify-and-code-review-skills-on-its-own-invoke-them-w
@@ -40,12 +42,12 @@ record:
   title: Claude no longer runs the `/verify` and `/code-review` skills on its own
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-10-enterworktree-now-asks-for-confirmation-before-entering-a-git-worktree-outside-t|EnterWorktree
-  now asks for confirmation before entering a git worktree outside…]]'
-- '[[Changes/Claude Code/2026-07-10-commit-push-pr-now-auto-allows-git-push-to-the-repo-s-configured-push-remote-rem|/commit-push-pr
-  now auto-allows git push to the repo''s configured push remote…]]'
-- '[[Changes/Claude Code/2026-07-10-added-directory-path-suggestions-to-cd-matching-add-dir-behavior|Added
-  directory path suggestions to /cd, matching /add-dir behavior]]'
+- '[[Changes/Claude Code/2026-07-07-removed-the-startup-claude-command-missing-or-broken-warnings-they-now-appear-in|Removed
+  the startup "claude command missing or broken" warnings]]'
+- '[[Changes/Claude Code/2026-07-10-4-developer-workflow-changes-in-v2-1-206|4 Developer
+  Workflow changes in v2.1.206]]'
+- '[[Changes/Claude Code/2026-07-14-agent-view-ctrl-x-now-deletes-renamed-branch-worktrees-never-destroys-unpushed-c|Agent
+  view: Ctrl+X now deletes renamed-branch worktrees, never destroys unpushed…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-19-v2-1-215-github-356226333-6836aad6|claude-code-2026-07-19-v2-1-215-github-356226333-6836aad6]]'
 source_type: github_releases
 theme: developer-workflow
@@ -72,8 +74,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-10 · Claude Code · [[Changes/Claude Code/2026-07-10-added-directory-path-suggestions-to-cd-matching-add-dir-behavior|Added directory path suggestions to /cd, matching /add-dir behavior]]
-- Later: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-improved-footer-pr-badge-links-to-be-clickable-hyperlinks-even-when-terminal-sup|Improved footer PR badge links to be clickable hyperlinks even when terminal support…]]
+- Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-agent-view-ctrl-x-now-deletes-renamed-branch-worktrees-never-destroys-unpushed-c|Agent view: Ctrl+X now deletes renamed-branch worktrees, never destroys unpushed…]]
+- Later: 2026-07-20 · Claude Code · [[Changes/Claude Code/2026-07-20-2-developer-workflow-changes-in-v2-1-216|2 Developer Workflow changes in v2.1.216]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

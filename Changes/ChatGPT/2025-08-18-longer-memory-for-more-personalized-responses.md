@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: ef0b678402aac8f62c64612ada9fd4ee11f5a8fd81c69cd9a9e9c1a6fb90f578
+machine_hash: 544d79f7cc279a0cc5e853d866ff5c8a08173503572b71a1baa3d7d5c90faf59
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,6 +47,7 @@ related_changes:
   responses based on your past chats if memory is on, using examples…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a|chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: memory
 title: Longer memory for more personalized responses
 type: change

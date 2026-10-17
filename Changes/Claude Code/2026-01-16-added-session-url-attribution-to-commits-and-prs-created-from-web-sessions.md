@@ -13,9 +13,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 40ff4ae92cb05b2fff9c6478353d8e64de6ca68bceaea44f4cf427208746fdb7
+kind: change
+machine_hash: c4e6fa64ecb6b11b584e43b39e428b75c7b4afbd3e1c21ac82b2e3e33e6ba1ee
 product: claude-code
 product_name: Claude Code
 record:
@@ -27,8 +28,9 @@ record:
   evidence:
   - quote: Added session URL attribution to commits and PRs created from web sessions
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.9
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-session-url-attribution-to-commits-and-prs-created-from-web-sessions
@@ -40,12 +42,12 @@ record:
   title: Added session URL attribution to commits and PRs created from web sessions
   type: change
 related_changes:
+- '[[Changes/Claude Code/2026-01-09-3-developer-workflow-changes-in-v2-1-2|3 Developer
+  Workflow changes in v2.1.2]]'
 - '[[Changes/Claude Code/2026-01-12-added-claude-code-tmpdir-environment-variable-to-override-the-temp-directory-use|Added
   CLAUDE_CODE_TMPDIR environment variable to override the temp directory used…]]'
-- '[[Changes/Claude Code/2026-01-13-added-date-range-filtering-to-stats-command-press-r-to-cycle-between-last-7-days|Added
-  date range filtering to /stats command - press r to cycle between Last 7…]]'
-- '[[Changes/Claude Code/2026-01-13-added-search-functionality-to-config-command-for-quickly-filtering-settings|Added
-  search functionality to /config command for quickly filtering settings]]'
+- '[[Changes/Claude Code/2026-01-13-3-developer-workflow-changes-in-v2-1-6|3 Developer
+  Workflow changes in v2.1.6]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-16-v2-1-9-github-277250534-9563859d|claude-code-2026-01-16-v2-1-9-github-277250534-9563859d]]'
 source_type: github_releases
 theme: developer-workflow
@@ -77,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-added-search-functionality-to-config-command-for-quickly-filtering-settings|Added search functionality to /config command for quickly filtering settings]]
-- Later: 2026-01-20 · Claude Code · [[Changes/Claude Code/2026-01-20-vscode-added-usage-command-to-display-current-plan-usage|VSCode Added /usage command to display current plan usage]]
+- Earlier: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-3-developer-workflow-changes-in-v2-1-6|3 Developer Workflow changes in v2.1.6]]
+- Later: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-2-developer-workflow-changes-in-cli-agent-modes-and-cloud-handoff|2 Developer Workflow changes in CLI Agent Modes and Cloud Handoff]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

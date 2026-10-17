@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8bfe1e7c2cb6f7b4ecf5d4c736deed8ed30ad52d0afc014f5b4bae89edf6b580
+machine_hash: e0c5d1ab066181f0b463f860f92c204743dc2bdf4a544742e1012c93f976ec9c
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   performance in non-interactive mode (-p) by skipping unnecessary API…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-20-v2-1-50-github-288920711-09694b82|claude-code-2026-02-20-v2-1-50-github-288920711-09694b82]]'
 source_type: github_releases
+superseded: true
 theme: reliability-performance
 title: Improved memory usage during long sessions by clearing internal caches after
   compaction

@@ -4,19 +4,19 @@ date: '2026-09-09'
 description: 'ChatGPT · 2026-09-09 · Collaboration: Library sharing lets you share
   files and folders in ChatGPT, choose who can access them, and work with shared content…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
-    can also share private docs]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1097
+  lag_days: 1204
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 7f6fd16ba7d5dd46db459ecd3055ac993f94d86de0c0d4befeda864c9f526275
+kind: change
+machine_hash: 06e029e105c9654067d438510fc4af8864eef18a1d4e5e3743944e14186a3b89
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,8 +30,9 @@ record:
   - quote: Library sharing lets you share files and folders in ChatGPT, choose who
       can access them, and work with shared content directly in your conversations.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: library-sharing-lets-you-share-files-and-folders-in-chatgpt-choose-who-can-acces
@@ -44,12 +45,11 @@ record:
     access…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-09-share-with-specific-people-invite-recipients-and-assign-viewer-or-editor-access|Share
-  with specific people]]'
-- '[[Changes/ChatGPT/2026-09-09-manage-access-review-who-has-access-change-permissions-or-remove-access-from-the|Manage
-  access]]'
-- '[[Changes/ChatGPT/2026-09-09-find-and-use-shared-content-access-items-in-shared-with-me-and-use-shared-files|Find
-  and use shared content]]'
+- '[[Changes/ChatGPT/2026-09-08-share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their|Share
+  a prompt]]'
+- '[[Changes/ChatGPT/2026-09-09-4-collaboration-changes-in-share-files-and-folders|4
+  Collaboration changes in Share files and folders…]]'
+- '[[Changes/ChatGPT/2026-09-09-shared-folders-and-ownership|Shared folders and ownership]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d|chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -73,23 +73,21 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2026-09-09-share-with-specific-people-invite-recipients-and-assign-viewer-or-editor-access|Share with specific people]] · Collaboration
-- [[Changes/ChatGPT/2026-09-09-manage-access-review-who-has-access-change-permissions-or-remove-access-from-the|Manage access]] · Collaboration
-- [[Changes/ChatGPT/2026-09-09-find-and-use-shared-content-access-items-in-shared-with-me-and-use-shared-files|Find and use shared content]] · Collaboration
-- [[Changes/ChatGPT/2026-09-09-share-across-your-workspace-make-content-available-to-everyone-in-your-workspace|Share across your workspace]] · Collaboration
+- [[Changes/ChatGPT/2026-09-09-4-collaboration-changes-in-share-files-and-folders|4 Collaboration changes in Share files and folders…]] · Collaboration
+- [[Changes/ChatGPT/2026-09-09-shared-folders-and-ownership|Shared folders and ownership]] · Collaboration
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
 - Earlier: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their|Share a prompt]]
-- Later: 2026-09-17 · ChatGPT · [[Changes/ChatGPT/2026-09-17-chatgpt-for-word-is-available-on-all-chatgpt-plans-including-free-your-plan-s-to|ChatGPT for Word is available on all ChatGPT plans, including Free]]
+- Later: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-changed-ultrareview-in-non-interactive-sessions-to-refuse-when-the-repository-ha|Changed /ultrareview in non-interactive sessions to refuse when the repository has…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

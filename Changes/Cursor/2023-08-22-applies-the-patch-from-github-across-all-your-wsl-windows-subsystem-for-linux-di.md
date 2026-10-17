@@ -14,9 +14,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 8433af81eba32b7514c69c2bd1e22726adb9d758bdfccc3b89d84c3dc7dae6e8
+kind: change
+machine_hash: b8ff802a78eebef995508e9ef81e9d7a1f448c2ccf81c37bd6a6a4a4f2bfde98
 product: cursor
 product_name: Cursor
 record:
@@ -31,33 +32,33 @@ record:
       Linux) distros, either automatically or through the "Fix WSL" command palette
       command.
     source_release: https://cursor.com/changelog/0-8-4
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: applies-the-patch-from-github-across-all-your-wsl-windows-subsystem-for-linux-di
   source_release: cursor-2023-08-22-0-8-4-https-cursor-com-changelog-0-8-4-540922cd
   source_type: cursor_changelog
   theme: developer-workflow
-  title: Applies the patch from Github across all your WSL (Windows Subsystem for
-    Linux)…
+  title: WSL Fixes
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-08-01-improved-linter-please-give-us-feedback-on-the-linter-suggestions-using-the-smil|Improved
-  linter! Please give us feedback on the linter suggestions using the smiley faces]]'
-- '[[Changes/Cursor/2023-08-03-also-the-linter-is-slightly-improved|Also, the linter
-  is slightly improved]]'
+  linter]]'
+- '[[Changes/Cursor/2023-08-03-also-the-linter-is-slightly-improved|In-editor chat
+  is back!]]'
 - '[[Changes/Cursor/2023-08-17-the-cursor-nightly-command-now-works-on-mac|The cursor-nightly
   command now works on Mac]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-22-0-8-4-https-cursor-com-changelog-0-8-4-540922cd|cursor-2023-08-22-0-8-4-https-cursor-com-changelog-0-8-4-540922cd]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: Applies the patch from Github across all your WSL (Windows Subsystem for Linux)…
+title: WSL Fixes
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Applies the patch from Github across all your WSL (Windows Subsystem for Linux)…
+# WSL Fixes
 
 **Cursor** · 2023-08-22 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://cursor.com/changelog/0-8-4) · from [[Releases/Cursor/cursor-2023-08-22-0-8-4-https-cursor-com-changelog-0-8-4-540922cd|WSL Fixes]]
 <!-- chronolog:end -->
@@ -76,7 +77,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2023-08-17 · Cursor · [[Changes/Cursor/2023-08-17-the-cursor-nightly-command-now-works-on-mac|The cursor-nightly command now works on Mac]]
-- Later: 2023-08-26 · Cursor · [[Changes/Cursor/2023-08-26-we-had-a-big-bug-for-people-on-language-packs-thank-you-to-all-who-helped-us-deb|We had a big bug for people on language packs]]
+- Later: 2023-08-26 · Cursor · [[Changes/Cursor/2023-08-26-we-had-a-big-bug-for-people-on-language-packs-thank-you-to-all-who-helped-us-deb|Bug fix for people on language packs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

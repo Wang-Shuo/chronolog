@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 6c8e68b99cce200b8ff7f67757f2075edee21e9b09890abe7e36573ac5129a15
+machine_hash: df62770d76d9e97877d99c3650e49d1324f0a8f9961db8767109bb44854c2efc
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   Apps support interactive user interfaces like charts from Amplitude, diagrams…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added the /claude-api skill for building applications with the Claude API…
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 1630cdb6a9b119a863afadd87e8c843b0440b2d3f364b8d6e5c59d12513f5358
+machine_hash: be7983f6388bc691d1676885bc803303cac9c5ad28863ea453b543041f696322
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   warns before replacing an existing GitHub App connection]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c|claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added plugin dependency enforcement
 type: change

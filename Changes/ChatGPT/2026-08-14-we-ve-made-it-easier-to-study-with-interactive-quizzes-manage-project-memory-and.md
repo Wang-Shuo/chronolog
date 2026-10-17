@@ -4,8 +4,8 @@ date: '2026-08-14'
 description: 'ChatGPT · 2026-08-14 · Memory and Personalization: We’ve made it easier
   to study with interactive quizzes, manage project memory, and move between typing…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1121
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: b038bcff093a517453dd9ab86b21be39a3a03a014dbe2bc7bc3462500d328244
+kind: change
+machine_hash: 669b12438f8f59945dc368c30584c95e72a054b52c0edea5aec558bd70f79ef5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,8 +31,9 @@ record:
   - quote: We’ve made it easier to study with interactive quizzes, manage project
       memory, and move between typing, dictation, and desktop work.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: we-ve-made-it-easier-to-study-with-interactive-quizzes-manage-project-memory-and
@@ -55,12 +57,12 @@ record:
     memory…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-12-you-can-now-delete-the-memories-shown-on-your-memory-summary-page-and-turn-memor|Delete
-  the memories shown on your memory summary page and turn memory off…]]'
-- '[[Changes/ChatGPT/2026-06-12-type-what-you-want-changed-into-the-text-box-at-the-bottom-of-the-memory-summary|Type
-  what you want changed into the text box at the bottom of the memory summary…]]'
-- '[[Changes/ChatGPT/2026-06-12-if-you-don-t-want-information-from-a-chat-to-be-used-to-personalize-responses-yo|If
-  you don’t want information from a chat to be used to personalize responses, you…]]'
+- '[[Changes/Claude Code/2026-07-15-improved-the-memory-index-over-limit-warning-to-measure-only-loaded-content-excl|Improved
+  the memory index over-limit warning to measure only loaded content…]]'
+- '[[Changes/Claude Code/2026-07-18-added-an-iso-modified-timestamp-to-memory-file-frontmatter|Added
+  an ISO modified timestamp to memory file frontmatter]]'
+- '[[Changes/Claude Code/2026-08-13-cowork-sessions-no-longer-inline-external-imports-from-user-scope-memory-files|Cowork
+  sessions no longer inline external @-imports from user-scope memory files]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -83,21 +85,23 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2026-08-14-change-an-existing-project-s-memory-setting-for-eligible-unshared-projects-switc|Change an existing project’s memory setting]] · Memory and Personalization
-- [[Changes/ChatGPT/2026-08-14-practice-with-interactive-quizzes-ask-chatgpt-to-quiz-you-on-a-topic-and-answer|Practice with interactive quizzes]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-08-14-work-in-the-built-in-browser-or-chrome-browser-actions-are-available-in-the-linu|Work in the built-in browser or Chrome]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-08-14-learning-projects-and-personalized-suggestions|Learning, Projects, and personalized suggestions]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-08-14-use-chatgpt-and-codex-on-linux-the-desktop-app-is-now-available-globally-in-publ|Use ChatGPT and Codex on Linux]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-08-14-switch-between-typing-and-dictation-the-dictation-button-stays-available-after-y|Switch between typing and dictation]] · Voice and Audio
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-06-12 · ChatGPT · [[Changes/ChatGPT/2026-06-12-if-you-don-t-want-information-from-a-chat-to-be-used-to-personalize-responses-yo|If you don’t want information from a chat to be used to personalize responses, you…]]
-- Later: 2026-08-14 · ChatGPT · [[Changes/ChatGPT/2026-08-14-this-update-is-available-on-all-chatgpt-plans-shared-projects-continue-to-use-pr|This update is available on all ChatGPT plans]]
+- Earlier: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-cowork-sessions-no-longer-inline-external-imports-from-user-scope-memory-files|Cowork sessions no longer inline external @-imports from user-scope memory files]]
+- Later: 2026-08-14 · ChatGPT · [[Changes/ChatGPT/2026-08-14-you-can-now-change-a-project-s-memory-setting-after-you-create-it-open-the-proje-b36ffe|Edit memory settings for existing projects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

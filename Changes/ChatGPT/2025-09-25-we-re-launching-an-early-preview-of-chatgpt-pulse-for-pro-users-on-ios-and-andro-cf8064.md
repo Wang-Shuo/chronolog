@@ -4,8 +4,8 @@ date: '2025-09-25'
 description: 'ChatGPT · 2025-09-25 · Memory and Personalization: We’re launching an
   early preview of ChatGPT pulse for Pro users on iOS and Android. This is a new experience…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 798
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: memory
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 87e07fde539cae211fc8603a172d6e6019bab61d644da107070103e231834e90
+kind: launch
+machine_hash: 8e05e084696eac8ceb2b08f821883b9ebaef266adabb8dd31c2c206355318b71
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,8 +64,9 @@ record:
       saved memory and chat history to be turned on, and you can switch pulse off
       anytime in settings. See ChatGPT Pulse.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: launch
   product: chatgpt
   product_name: ChatGPT
   slug: we-re-launching-an-early-preview-of-chatgpt-pulse-for-pro-users-on-ios-and-andro
@@ -82,28 +84,26 @@ record:
     score: 100
     theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
-  title: ChatGPT launches an early preview of ChatGPT pulse for Pro users on iOS and
-    Android
+  title: Introducing ChatGPT Pulse for Pro users
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-aa77f4|An
+- '[[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-87f79a|An
   improvement to projects is now available]]'
 - '[[Changes/ChatGPT/2025-09-15-personalization-no-longer-opens-in-a-separate-modal-you-can-manage-personalizati|Personalization
-  no longer opens in a separate modal]]'
+  settings are now in Settings]]'
 - '[[Changes/ChatGPT/2025-09-22-longer-memory-for-more-personalized-responses|Longer
   memory for more personalized responses]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-25-introducing-chatgpt-pulse-for-pro-users-5be6c168|chatgpt-2025-09-25-introducing-chatgpt-pulse-for-pro-users-5be6c168]]'
 source_type: chatgpt_changelog
 theme: memory
-title: ChatGPT launches an early preview of ChatGPT pulse for Pro users on iOS and
-  Android
+title: Introducing ChatGPT Pulse for Pro users
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# ChatGPT launches an early preview of ChatGPT pulse for Pro users on iOS and Android
+# Introducing ChatGPT Pulse for Pro users
 
-**ChatGPT** · 2025-09-25 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-25-introducing-chatgpt-pulse-for-pro-users-5be6c168|Introducing ChatGPT Pulse for Pro users]]
+**ChatGPT** · 2025-09-25 · [[Themes/memory|Memory and Personalization]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-25-introducing-chatgpt-pulse-for-pro-users-5be6c168|Introducing ChatGPT Pulse for Pro users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -126,7 +126,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

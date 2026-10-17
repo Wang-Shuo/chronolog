@@ -1,9 +1,9 @@
 ---
-changes_count: 2
+changes_count: 1
 date: '2026-09-21'
-description: 'ChatGPT release Privacy Center in ChatGPT on 2026-09-21: 2 tracked changes
+description: 'ChatGPT release Privacy Center in ChatGPT on 2026-09-21: 1 tracked change
   across Safety and Privacy'
-machine_hash: 83d279399fd60da0131f5bb0ddfce24cb8aa14c760adfdad826f6014e61f8d1d
+machine_hash: 2eb49b8640c0675c3c80b402d20e4428f14321837af2f43c25dc2185ba8340e6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,11 +41,10 @@ version: Privacy Center in ChatGPT
 <!-- chronolog:begin region="summary" -->
 Privacy Center is rolling out to signed-in ChatGPT Free, Go, Plus, and Pro users. It brings together information about chat privacy, memory, personalization, data use, connected apps, and account security, with links to the settings that manage them. Your privacy controls remain in ChatGPT Settings.
 
-Tracked 2 of 3 candidate lines.
+Tracked 1 card from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-09-21-on-the-web-open-your-account-menu-select-help-then-select-privacy-center-on-mobi|On the web, open your account menu, select Help, then select Privacy Center]] · Safety and Privacy
-- [[Changes/ChatGPT/2026-09-21-privacy-center-is-rolling-out-to-signed-in-chatgpt-free-go-plus-and-pro-users-it|Privacy Center is rolling out to signed-in ChatGPT Free, Go, Plus, and Pro users]] · Safety and Privacy
+- [[Changes/ChatGPT/2026-09-21-privacy-center-is-rolling-out-to-signed-in-chatgpt-free-go-plus-and-pro-users-it-0d2f36|Privacy Center in ChatGPT]] · Safety and Privacy
 <!-- chronolog:end -->

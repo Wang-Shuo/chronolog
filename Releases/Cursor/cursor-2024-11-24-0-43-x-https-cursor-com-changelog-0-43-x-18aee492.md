@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 3
 date: '2024-11-24'
 description: 'Cursor release New Composer UI, Agent, Commit Messages on 2024-11-24:
-  5 tracked changes across Context Window, Developer Workflow, Interface Experience'
-machine_hash: d68ecbd9e30ad33aa701091ebd2ae1bffd7eb33005dcf8c20294b6b45525c144
+  3 tracked changes across Context Window, Interface Experience, Reliability and Performance'
+machine_hash: e74719ec921216adfa32357b4693c351d6475cfa92f86513341f7e22814a98c5
 product: cursor
 product_name: Cursor
 record:
@@ -38,14 +38,12 @@ version: 0.43.x
 <!-- chronolog:begin region="summary" -->
 Composer UI in the sidebar with inline diffs
 
-Tracked 5 of 8 candidate lines.
+Tracked 3 cards from 8 candidate lines; 1 line pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2024-11-24-recommended-in-chat-composer-to-semantically-search-for-context|@Recommended in chat/composer to semantically search for context]] · Context Window
-- [[Changes/Cursor/2024-11-24-generation-of-git-commit-messages|Generation of git commit messages]] · Developer Workflow
+- [[Changes/Cursor/2024-11-24-several-performance-improvements|Several performance improvements]] · Reliability and Performance
+- [[Changes/Cursor/2024-11-24-early-version-of-an-agent-in-composer-that-can-pick-its-own-context-and-use-the-1228de|Early version of an agent in composer that can pick its own context and use the terminal]] · Context Window
 - [[Changes/Cursor/2024-11-24-composer-ui-in-the-sidebar-with-inline-diffs|Composer UI in the sidebar with inline diffs]] · Interface Experience
-- [[Changes/Cursor/2024-11-24-file-pill-recommendations-in-chat-composer|File pill recommendations in chat/composer]] · Context Window
-- [[Changes/Cursor/2024-11-24-early-version-of-an-agent-in-composer-that-can-pick-its-own-context-and-use-the|Early version of an agent in composer that can pick its own context and use the terminal]] · Context Window
 <!-- chronolog:end -->

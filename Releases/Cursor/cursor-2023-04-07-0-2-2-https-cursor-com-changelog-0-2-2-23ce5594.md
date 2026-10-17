@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-04-07'
 description: 'Cursor release Bug Fixes Galore (2023-04-07) on 2023-04-07: 1 tracked
   change across Developer Workflow'
-machine_hash: b615dd77d65c27db3e93a8a16cddc22fcfcec68aa3d712d85463c58c43995be7
+machine_hash: a136696f0b00f8bbb7e41d7a5c52d18effbf71b3e1123d8327a0ff02c261520f
 product: cursor
 product_name: Cursor
 record:
@@ -38,7 +38,7 @@ version: 0.2.2
 <!-- chronolog:begin region="summary" -->
 1 tracked change across 1 theme: Developer Workflow.
 
-Tracked 1 of 3 candidate lines.
+Tracked 1 card from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

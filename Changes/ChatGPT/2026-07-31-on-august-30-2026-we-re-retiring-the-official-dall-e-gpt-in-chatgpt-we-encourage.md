@@ -4,19 +4,20 @@ date: '2026-07-31'
 description: 'ChatGPT · 2026-07-31 · Image Generation: On August 30, 2026, we’re retiring
   the official DALL·E GPT in ChatGPT. We encourage you to download any images you…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The
-    store features a diverse range of GPTs developed by our partners and the community]]'
+  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
+    3 for ChatGPT Free users]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 933
+  lag_days: 722
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: bed9acf9c17893c9be7d8e70f76f65ad79ba90d38c953ee19a6d8035fe30e71e
+kind: policy
+machine_hash: 4b2291d0085c75b9a3c4b0f55ea1ff39c5f2d210852e9b9d01d808504a8754d6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,34 +35,34 @@ record:
       creating or editing images, use ChatGPT Images. User-created GPTs with image
       generation enabled are not affected.Learn more in Images in ChatGPT.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: policy
   product: chatgpt
   product_name: ChatGPT
   slug: on-august-30-2026-we-re-retiring-the-official-dall-e-gpt-in-chatgpt-we-encourage
   source_release: chatgpt-2026-07-31-retiring-the-dall-e-gpt-582d3c79
   source_type: chatgpt_changelog
   theme: image-generation
-  title: On August 30, 2026, we’re retiring the official DALL·E GPT in ChatGPT
+  title: Retiring the DALL·E GPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-30-more-messages-larger-file-uploads-and-expanded-image-generation|More
-  messages, larger file uploads, and expanded image generation]]'
-- '[[Changes/ChatGPT/2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c|We’ve
-  introduced a new and improved version of ChatGPT Images, powered by our best…]]'
+- '[[Changes/ChatGPT/2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c|ChatGPT
+  Images on Web and Mobile (iOS & Android)]]'
+- '[[Changes/Cursor/2026-01-22-image-generation|Image generation]]'
 - '[[Changes/ChatGPT/2026-04-21-we-re-introducing-chatgpt-images-2-0-our-new-image-generation-model-in-chatgpt-c|ChatGPT
-  introduces ChatGPT Images 2.0, our new image generation model]]'
+  Images 2.0 in ChatGPT]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-31-retiring-the-dall-e-gpt-582d3c79|chatgpt-2026-07-31-retiring-the-dall-e-gpt-582d3c79]]'
 source_type: chatgpt_changelog
 theme: image-generation
-title: On August 30, 2026, we’re retiring the official DALL·E GPT in ChatGPT
+title: Retiring the DALL·E GPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# On August 30, 2026, we’re retiring the official DALL·E GPT in ChatGPT
+# Retiring the DALL·E GPT
 
-**ChatGPT** · 2026-07-31 · [[Themes/image-generation|Image Generation]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-31-retiring-the-dall-e-gpt-582d3c79|Retiring the DALL·E GPT]]
+**ChatGPT** · 2026-07-31 · [[Themes/image-generation|Image Generation]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-31-retiring-the-dall-e-gpt-582d3c79|Retiring the DALL·E GPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -77,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-04-21 · ChatGPT · [[Changes/ChatGPT/2026-04-21-we-re-introducing-chatgpt-images-2-0-our-new-image-generation-model-in-chatgpt-c|ChatGPT introduces ChatGPT Images 2.0, our new image generation model]]
-- Later: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-chatgpt-images-2-5-brings-sharper-details-more-precise-editing-and-faster-image|ChatGPT Images 2.5 brings sharper details, more precise editing, and faster image…]]
+- Earlier: 2026-04-21 · ChatGPT · [[Changes/ChatGPT/2026-04-21-we-re-introducing-chatgpt-images-2-0-our-new-image-generation-model-in-chatgpt-c|ChatGPT Images 2.0 in ChatGPT]]
+- Later: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-chatgpt-images-2-5-brings-sharper-details-more-precise-editing-and-faster-image-66acb5|ChatGPT Images 2.5 brings sharper details, more precise editing, and faster image…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|The store features a diverse range of GPTs developed by our partners and the community]]
+- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

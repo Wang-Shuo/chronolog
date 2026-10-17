@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 0b35806fefb4c4196929a02376f29c086c733d663dcd6b62181d4e61d4917054
+machine_hash: 628c9091832f55214d1b8ab95924d45e806d55571be47def0cc75d699a60aef5
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,6 +62,7 @@ related_changes:
   agents: autocomplete in the dispatch input now suggests native slash…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa|claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: 'Fullscreen mode: clipboard now uses wl-copy/xclip/xsel on Linux…'
 type: change

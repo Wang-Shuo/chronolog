@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 3fb0832af9a75327720746da2959c3cc4979883fcc1f1d0dcb26319c54417316
+kind: policy
+machine_hash: c4b824a371dc34bdd3b42d9c8e8f9e16a4c54a33fbfea5f247c65d39d7fc92cb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,8 +35,9 @@ record:
       GPT-5.5.This retirement was previously announced on May 28, 2026. It applies
       to ChatGPT only; there are no changes to the API.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: policy
   product: chatgpt
   product_name: ChatGPT
   slug: as-of-june-26-2026-gpt-4-5-is-no-longer-available-in-chatgpt-including-for-custo
@@ -44,28 +46,26 @@ record:
   theme: model-support
   theme_matches: []
   theme_resolution: manual-semantic-rule-v2
-  title: As of June 26, 2026, GPT-4.5 is no longer available in ChatGPT, including
-    for custom GPTs
+  title: Retiring GPT-4.5
   type: change
 related_changes:
 - '[[Changes/Claude Code/2026-06-19-added-a-warning-when-the-requested-model-is-deprecated-or-automatically-updated|Added
   a warning when the requested model is deprecated or automatically updated…]]'
-- '[[Changes/ChatGPT/2026-06-24-we-re-updating-gpt-5-5-instant-our-most-used-model-in-chatgpt-to-improve-convers|We’re
-  updating GPT-5.5 Instant, our most-used model in ChatGPT, to improve…]]'
+- '[[Changes/ChatGPT/2026-06-24-we-re-updating-gpt-5-5-instant-our-most-used-model-in-chatgpt-to-improve-convers|GPT-5.5
+  Instant Update]]'
 - '[[Changes/Claude Code/2026-06-25-added-claude-code-assistant-response-opentelemetry-log-event-containing-the-mode|Added
   claude_code.assistant_response OpenTelemetry log event containing…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-26-retiring-gpt-4-5-41879baf|chatgpt-2026-06-26-retiring-gpt-4-5-41879baf]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: As of June 26, 2026, GPT-4.5 is no longer available in ChatGPT, including for
-  custom GPTs
+title: Retiring GPT-4.5
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# As of June 26, 2026, GPT-4.5 is no longer available in ChatGPT, including for custom GPTs
+# Retiring GPT-4.5
 
-**ChatGPT** · 2026-06-26 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-26-retiring-gpt-4-5-41879baf|Retiring GPT-4.5]]
+**ChatGPT** · 2026-06-26 · [[Themes/model-support|Model Support]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-26-retiring-gpt-4-5-41879baf|Retiring GPT-4.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->

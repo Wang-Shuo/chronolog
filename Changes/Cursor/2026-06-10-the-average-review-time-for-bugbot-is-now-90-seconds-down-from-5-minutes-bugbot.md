@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 8e3806ea352cb4b5d03023851f0981c4b7f5a629218ef7fb776d8435351c2c8f
+machine_hash: 9241fbcd2fe36e7b171b67edf75247fea0f7361255f7600e58fcd82261d90296
 product: cursor
 product_name: Cursor
 record:
@@ -54,6 +54,7 @@ related_changes:
   performance gains are made possible by progress we''ve made training Composer…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-10-bugbot-is-now-over-3x-faster-22-cheaper-and-finds-10-more-bugs-h-c1721c78|cursor-2026-06-10-bugbot-is-now-over-3x-faster-22-cheaper-and-finds-10-more-bugs-h-c1721c78]]'
 source_type: cursor_changelog
+superseded: true
 theme: reliability-performance
 title: The average review time for Bugbot is now ~90 seconds, down from ~5 minutes
 type: change

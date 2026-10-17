@@ -14,9 +14,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 21aa8d78da16900d58148e1f695611a08e3d71ca564bcda059eef81f88455036
+kind: fix
+machine_hash: 4626d20ef6c6330d297c9e0e119ffd19d759aaf2e54d144fbd1408130766cb3f
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Fixed multi-second per-turn slowdowns in sessions with many permission
       deny/ask rules — rule matchers are now compiled once and cached
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.208
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: fix
   product: claude-code
   product_name: Claude Code
   slug: fixed-multi-second-per-turn-slowdowns-in-sessions-with-many-permission-deny-ask
@@ -44,12 +46,12 @@ record:
     rules
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-11-fixed-compound-commands-with-cd-prompting-for-permission-when-the-only-output-re|Fixed
-  compound commands with cd prompting for permission when the only output…]]'
-- '[[Changes/Claude Code/2026-07-11-fixed-remote-managed-settings-from-a-non-interactive-run-claude-p-the-sdk-being|Fixed
-  remote managed settings from a non-interactive run (claude -p, the SDK)…]]'
-- '[[Changes/Claude Code/2026-07-14-improved-auto-mode-the-permission-classifier-now-defaults-to-sonnet-5-for-extern|Improved
-  auto mode]]'
+- '[[Changes/Claude Code/2026-07-10-fixed-permission-prompt-tool-pointing-at-an-mcp-server-crashing-with-mcp-tool-no|Fixed
+  --permission-prompt-tool pointing at an MCP server crashing…]]'
+- '[[Changes/Claude Code/2026-07-11-2-safety-and-privacy-changes-in-v2-1-207|2 Safety
+  and Privacy changes in v2.1.207]]'
+- '[[Changes/Claude Code/2026-07-14-3-safety-and-privacy-changes-in-v2-1-210|3 Safety
+  and Privacy changes in v2.1.210]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-208-github-353442054-2756b984|claude-code-2026-07-14-v2-1-208-github-353442054-2756b984]]'
 source_type: github_releases
 theme: safety-privacy
@@ -61,7 +63,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Fixed multi-second per-turn slowdowns in sessions with many permission deny/ask rules
 
-**Claude Code** · 2026-07-14 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.208) · from [[Releases/Claude Code/claude-code-2026-07-14-v2-1-208-github-353442054-2756b984|v2.1.208]]
+**Claude Code** · 2026-07-14 · [[Themes/safety-privacy|Safety and Privacy]] · Fix · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.208) · from [[Releases/Claude Code/claude-code-2026-07-14-v2-1-208-github-353442054-2756b984|v2.1.208]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -73,17 +75,20 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-07-14-3-apps-and-integrations-changes-in-v2-1-208|3 Apps and Integrations changes in v2.1.208]] · Apps and Integrations
+- [[Changes/Claude Code/2026-07-14-agent-view-ctrl-x-now-deletes-renamed-branch-worktrees-never-destroys-unpushed-c|Agent view: Ctrl+X now deletes renamed-branch worktrees, never destroys unpushed…]] · Developer Workflow
 - [[Changes/Claude Code/2026-07-14-added-mouse-click-support-for-multi-select-menus-and-other-input-rows-in-fullscr|Added mouse-click support for multi-select menus and "Other" input rows in fullscreen mode]] · Interface Experience
-- [[Changes/Claude Code/2026-07-14-added-viminsertmoderemaps-setting-map-two-key-insert-mode-sequences-like-jj-to-e|Added vimInsertModeRemaps setting]] · Editor Experience
-- [[Changes/Claude Code/2026-07-14-added-claude-code-process-wrapper-agent-view-and-the-background-service-now-hono|Added CLAUDE_CODE_PROCESS_WRAPPER: agent view and the background service now honor…]] · Agent Mode
+- [[Changes/Claude Code/2026-07-14-2-editor-experience-changes-in-v2-1-208|2 Editor Experience changes in v2.1.208]] · Editor Experience
+- [[Changes/Claude Code/2026-07-14-4-agent-mode-changes-in-v2-1-208|4 Agent Mode changes in v2.1.208]] · Agent Mode
+- [[Changes/Claude Code/2026-07-14-3-reliability-and-performance-changes-in-v2-1-208|3 Reliability and Performance changes in v2.1.208]] · Reliability and Performance
 - [[Changes/Claude Code/2026-07-14-added-screen-reader-mode-opt-in-plain-text-rendering-for-screen-reader-users-run|Added screen reader mode: opt-in plain-text rendering for screen reader users]] · Accessibility and Localization
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-improved-auto-mode-the-permission-classifier-now-defaults-to-sonnet-5-for-extern|Improved auto mode]]
-- Later: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-added-a-startup-warning-for-write-path-notebookedit-path-and-glob-path-permissio|Added a startup warning for Write(path), NotebookEdit(path), and Glob(path)…]]
+- Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-3-safety-and-privacy-changes-in-v2-1-210|3 Safety and Privacy changes in v2.1.210]]
+- Later: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-2-safety-and-privacy-changes-in-v2-1-211|2 Safety and Privacy changes in v2.1.211]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

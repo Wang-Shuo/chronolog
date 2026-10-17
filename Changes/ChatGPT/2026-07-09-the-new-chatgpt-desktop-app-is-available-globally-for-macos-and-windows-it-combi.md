@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: d89d8eed1c1936845d2dcc10ce2bd67a78c676c59ecbd1a914a1cb2b01c5f508
+machine_hash: bd2546556a7d056ab72c253f7afad17037625b14b5fab1a79a1e997c0686b0d9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,6 +53,7 @@ related_changes:
   create a Site, start in ChatGPT Work on the web or in Work or Codex…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810|chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: mobile-desktop
 title: The new ChatGPT desktop app is available globally for macOS and Windows
 type: change

@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 9006b131514ddbf73c1ddb61989efd8713bc4d114b278991057e599363ef6651
+machine_hash: 22069e4b055a6776c62ad310c992776cdf2038812f3d0d35956abc6ee170253a
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,6 +48,7 @@ related_changes:
   and add approved apps in the new app directory]]'
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9|claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: Added search filtering to the plugin discover screen…
 type: change

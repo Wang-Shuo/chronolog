@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 472b6cd16103dcf5b75f0a86436f6ea9aa8b60c61f0cf3306181d4904c1111aa
+machine_hash: 8a6c2604801050117e60a0bf2c45150a10c3a740f7ad0657e7287729b4248ced
 product: claude-code
 product_name: Claude Code
 record:
@@ -65,6 +65,7 @@ related_changes:
   for Claude Sonnet 4.6]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140|claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Sonnet 4.5 with 1M context is being removed from the Max plan in favor of our…
 type: change

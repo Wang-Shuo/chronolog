@@ -1,9 +1,9 @@
 ---
-changes_count: 4
+changes_count: 5
 date: '2026-04-29'
 description: 'Cursor release Build programmatic agents with the Cursor SDK on 2026-04-29:
-  4 tracked changes across Apps and Integrations, Mobile and Desktop, Model Support'
-machine_hash: be8776b04322aaec93446abc01e18fa0ae88b1597e864c6eaed0d1dae4fd58d4
+  5 tracked changes across Apps and Integrations, Agent Mode, Developer Workflow…'
+machine_hash: 19de7d16aa4f751404c0c780c4630c78440db33259ec9ad53a6479e040089405
 product: cursor
 product_name: Cursor
 record:
@@ -39,13 +39,14 @@ version: Build programmatic agents with the Cursor SDK
 <!-- chronolog:begin region="summary" -->
 We're introducing the Cursor SDK so you can build agents with the same runtime, harness, and models that power Cursor.
 
-Tracked 4 of 13 candidate lines.
+Tracked 5 cards from 13 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-04-29-we-re-introducing-the-cursor-sdk-so-you-can-build-agents-with-the-same-runtime-h|Cursor introduces the Cursor SDK so you can build agents with the same runtime…]] · Apps and Integrations
-- [[Changes/Cursor/2026-04-29-run-npm-install-cursor-sdk-to-get-started-you-can-also-use-cursor-s-native-sdk-s|Run npm install @cursor/sdk to get started]] · Apps and Integrations
-- [[Changes/Cursor/2026-04-29-model-id-composer-2-5|model: { id: "composer-2.5" },]] · Model Support
+- [[Changes/Cursor/2026-04-29-we-re-introducing-the-cursor-sdk-so-you-can-build-agents-with-the-same-runtime-h|Cursor introduces the Cursor SDK so you can build agents with the same runtime…]] · Apps and Integrations · Launch
+- [[Changes/Cursor/2026-04-29-run-npm-install-cursor-sdk-to-get-started-you-can-also-use-cursor-s-native-sdk-s-76fb76|Run npm install @cursor/sdk to get started]] · Apps and Integrations
 - [[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The agents that run in the Cursor desktop app, CLI, and web app are now accessible…]] · Mobile and Desktop
+- [[Changes/Cursor/2026-04-29-3-agent-mode-changes-in-build-programmatic-agents|3 Agent Mode changes in Build programmatic agents…]] · Agent Mode · Digest
+- [[Changes/Cursor/2026-04-29-added-first-class-run-streaming-with-sse-events-reconnect-support-via-last-event|Added first-class run streaming with SSE events, reconnect support…]] · Developer Workflow
 <!-- chronolog:end -->

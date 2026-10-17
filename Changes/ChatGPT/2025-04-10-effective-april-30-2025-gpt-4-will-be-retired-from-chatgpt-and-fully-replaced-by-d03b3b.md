@@ -14,9 +14,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 69549a8b8d522a87df04c99689eba5a73fb706f5ec1d1d4f995bf3d16676537c
+kind: policy
+machine_hash: 2abfe06c970bfd837709593da1e40bb2dd7141323a635fc2a3023029d77205a0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,8 +46,9 @@ record:
       shape its successor. GPT‑4o builds on that foundation to deliver even greater
       capability, consistency, and creativity.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: policy
   product: chatgpt
   product_name: ChatGPT
   slug: effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by
@@ -65,28 +67,26 @@ record:
     score: 110
     theme: multimodal
   theme_resolution: manual-semantic-rule-v2
-  title: Effective April 30, 2025, GPT‑4 will be retired from ChatGPT and fully replaced
-    by GPT‑4o
+  title: Sunsetting GPT‑4 in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-27-early-testers-say-that-the-model-seems-to-better-understand-the-implied-intent-b|Early
-  testers say that the model seems to better understand the implied intent…]]'
-- '[[Changes/ChatGPT/2025-03-27-gpt-4o-has-further-improved-its-capability-to-tackle-complex-technical-and-codin|GPT-4o
-  has further improved its capability to tackle complex technical and coding problems]]'
-- '[[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|GPT-4o
-  is now more adept at following detailed instructions, especially for prompts…]]'
+- '[[Changes/ChatGPT/2025-03-27-early-testers-say-that-the-model-seems-to-better-understand-the-implied-intent-b|“Fuzzy”
+  improvements]]'
+- '[[Changes/ChatGPT/2025-03-27-gpt-4o-has-further-improved-its-capability-to-tackle-complex-technical-and-codin|Smarter
+  problem-solving in STEM and coding]]'
+- '[[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|Enhanced
+  instruction-following and formatting accuracy]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-04-10-sunsetting-gpt-4-in-chatgpt-fe1e4ad7|chatgpt-2025-04-10-sunsetting-gpt-4-in-chatgpt-fe1e4ad7]]'
 source_type: chatgpt_changelog
 theme: model-support
-title: Effective April 30, 2025, GPT‑4 will be retired from ChatGPT and fully replaced
-  by GPT‑4o
+title: Sunsetting GPT‑4 in ChatGPT
 type: change
 ---
 
 <!-- chronolog:begin region="header" -->
-# Effective April 30, 2025, GPT‑4 will be retired from ChatGPT and fully replaced by GPT‑4o
+# Sunsetting GPT‑4 in ChatGPT
 
-**ChatGPT** · 2025-04-10 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-04-10-sunsetting-gpt-4-in-chatgpt-fe1e4ad7|Sunsetting GPT‑4 in ChatGPT]]
+**ChatGPT** · 2025-04-10 · [[Themes/model-support|Model Support]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-04-10-sunsetting-gpt-4-in-chatgpt-fe1e4ad7|Sunsetting GPT‑4 in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -102,8 +102,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-03-27 · ChatGPT · [[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|GPT-4o is now more adept at following detailed instructions, especially for prompts…]]
-- Later: 2025-04-16 · ChatGPT · [[Changes/ChatGPT/2025-04-16-today-we-re-releasing-openai-o3-and-o4-mini-the-latest-in-our-o-series-of-models|Today, we’re releasing OpenAI o3 and o4-mini, the latest in our o-series of models…]]
+- Earlier: 2025-03-27 · ChatGPT · [[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|Enhanced instruction-following and formatting accuracy]]
+- Later: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-new-models|New models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

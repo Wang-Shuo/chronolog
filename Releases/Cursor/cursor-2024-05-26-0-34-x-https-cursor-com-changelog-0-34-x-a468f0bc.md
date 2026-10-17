@@ -1,9 +1,9 @@
 ---
-changes_count: 5
+changes_count: 4
 date: '2024-05-26'
 description: 'Cursor release VS Code 1.89, New Cursor Prediction UI, Gemini 1.5 Flash,
-  Copilot++ partial completion on 2024-05-26: 5 tracked changes across Editor…'
-machine_hash: 2982a7f8151fec04e467836e7453aa948df11d1abafb92ce3f8810136b1e998e
+  Copilot++ partial completion on 2024-05-26: 4 tracked changes across Editor…'
+machine_hash: dbd220e042c2ce0eb4dcf6bc4a68eedf94209e6221af0be7588f9d44903deebb
 product: cursor
 product_name: Cursor
 record:
@@ -41,14 +41,13 @@ version: 0.34.x
 <!-- chronolog:begin region="summary" -->
 Merges VS Code 1.89 into Cursor
 
-Tracked 5 of 8 candidate lines.
+Tracked 4 cards from 8 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - [[Changes/Cursor/2024-05-26-gemini-1-5-flash-is-available-in-long-context-mode|Gemini 1.5 Flash is available in long-context mode]] · Model Support
-- [[Changes/Cursor/2024-05-26-merges-vs-code-1-89-into-cursor|Merges VS Code 1.89 into Cursor]] · Editor Experience
-- [[Changes/Cursor/2024-05-26-new-cursor-prediction-ui|New Cursor Prediction UI]] · Editor Experience
-- [[Changes/Cursor/2024-05-26-better-performance-of-copilot-on-linter-errors|Better performance of Copilot++ on linter errors]] · Editor Experience
-- [[Changes/Cursor/2024-05-26-accept-partial-completions-with-copilot|Accept partial completions with Copilot++]] · Editor Experience
+- [[Changes/Cursor/2024-05-26-merges-vs-code-1-89-into-cursor-38031f|Merges VS Code 1.89 into Cursor]] · Editor Experience
+- [[Changes/Cursor/2024-05-26-gpt-4o-in-interpreter-mode|GPT-4o in Interpreter Mode]] · Model Support
+- [[Changes/Cursor/2024-05-26-accept-partial-completions-with-copilot-ce6049|Accept partial completions with Copilot++]] · Editor Experience
 <!-- chronolog:end -->

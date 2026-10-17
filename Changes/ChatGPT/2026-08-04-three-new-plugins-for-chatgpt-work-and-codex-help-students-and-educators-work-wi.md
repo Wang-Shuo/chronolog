@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: significant
-machine_hash: 0a784470e8f4ec8f17892d2ec4da2e9eea6bda20f3f895cd7d36e2e5f37ca7ab
+machine_hash: 68c155cc8ac02230461e940b649c73fe48cfb49d5fde09df6dc2f1d81e6205ea
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,6 +52,7 @@ related_changes:
 - '[[Changes/Cursor/2026-08-03-install-plugins-to-connect|Install plugins to connect]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-04-new-education-plugins-for-students-and-educators-d6701667|chatgpt-2026-08-04-new-education-plugins-for-students-and-educators-d6701667]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: apps-integrations
 title: Three new plugins for ChatGPT Work and Codex help students and educators work…
 type: change

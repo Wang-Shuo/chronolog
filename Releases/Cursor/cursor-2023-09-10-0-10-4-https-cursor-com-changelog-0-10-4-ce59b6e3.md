@@ -3,7 +3,7 @@ changes_count: 0
 date: '2023-09-10'
 description: 'Cursor release Fixed builtin cursor-python defaults on 2023-09-10: no
   tracked changes'
-machine_hash: 41042b340134d8b604413fde1bec97039436423ab8eeb8a14410dd619ada0ece
+machine_hash: cf89ca48432b8bba214146c1296d2575aaa2ca36e135e9164deae8ffa71ff23c
 product: cursor
 product_name: Cursor
 record:
@@ -39,7 +39,7 @@ version: 0.10.4
 <!-- chronolog:begin region="summary" -->
 The defaults for cursor python are different than pylance, which has affected several users. We make them
 
-Tracked 0 of 2 candidate lines.
+Tracked 0 cards from 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards

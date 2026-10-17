@@ -15,9 +15,10 @@ diffusion:
   theme: safety-privacy
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 9c0554528f389c2f91e0148fdeab2674b3e5c74e1caf5a968a85d5d8f3e8d6c8
+kind: fix
+machine_hash: ce6feb2c505e3d4e6ab3c54c9befa1da775c2c7be0996a855f91f700edd6fcc4
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
   - quote: Fixed external plugins enabled only by project `.claude/settings.json`
       not requiring explicit install consent on every loader path
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.195
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: fix
   product: claude-code
   product_name: Claude Code
   slug: fixed-external-plugins-enabled-only-by-project-claude-settings-json-not-requirin
@@ -45,10 +47,10 @@ record:
     requiring…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-23-added-mouse-click-support-to-select-menus-permission-prompts-model-config-etc-in|Added
-  mouse click support to select menus…]]'
-- '[[Changes/Claude Code/2026-06-23-added-sandbox-credentials-setting-to-block-sandboxed-commands-from-reading-crede|Added
-  sandbox.credentials setting to block sandboxed commands from reading…]]'
+- '[[Changes/Claude Code/2026-06-22-2-safety-and-privacy-changes-in-v2-1-186|2 Safety
+  and Privacy changes in v2.1.186]]'
+- '[[Changes/Claude Code/2026-06-23-2-safety-and-privacy-changes-in-v2-1-187|2 Safety
+  and Privacy changes in v2.1.187]]'
 - '[[Changes/Claude Code/2026-06-24-improved-sandbox-network-permission-dialog-hosts-you-allow-with-yes-are-now-reme|Improved
   sandbox network permission dialog]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460|claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460]]'
@@ -61,7 +63,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Fixed external plugins enabled only by project `.claude/settings.json` not requiring…
 
-**Claude Code** · 2026-06-26 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.195) · from [[Releases/Claude Code/claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460|v2.1.195]]
+**Claude Code** · 2026-06-26 · [[Themes/safety-privacy|Safety and Privacy]] · Fix · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.195) · from [[Releases/Claude Code/claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460|v2.1.195]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->

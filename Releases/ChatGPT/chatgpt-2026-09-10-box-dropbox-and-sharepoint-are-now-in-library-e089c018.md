@@ -3,7 +3,7 @@ changes_count: 2
 date: '2026-09-10'
 description: 'ChatGPT release Box, Dropbox, and SharePoint are now in Library on 2026-09-10:
   2 tracked changes across Enterprise and Administration, Search and Browsing'
-machine_hash: ee7660a61f7029151af249c2fed92fa83b285f28166c48664efbf53fcca40649
+machine_hash: 46fa3604a218d6644c0c276acda59de9ccda59645ce48db4119c41c6fdcdde45
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,11 +41,11 @@ version: Box, Dropbox, and SharePoint are now in Library
 <!-- chronolog:begin region="summary" -->
 Box, Dropbox, and SharePoint now join Google Drive in ChatGPT Library. Once connected, you can browse and search available files and folders, then add the files you need to a conversation through Add from Library or @mentions—without uploading them again. You can review supported file previews beside the conversation…
 
-Tracked 2 of 3 candidate lines.
+Tracked 2 cards from 3 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-integrations-are-now-rolling-out-to-go-plus-pro-busin|Box, Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro…]] · Enterprise and Administration
+- [[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-integrations-are-now-rolling-out-to-go-plus-pro-busin|Box, Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro…]] · Enterprise and Administration · Expansion
 - [[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-now-join-google-drive-in-chatgpt-library-once-connect|Box, Dropbox, and SharePoint now join Google Drive in ChatGPT Library]] · Search and Browsing
 <!-- chronolog:end -->

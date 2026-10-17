@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 5871f9809e7eb3c4e186665cf2a0f941840c7f682e70be8ee879c0b7e0e30449
+machine_hash: 45b5c4105381e531d4f8813b25ec5ca3dfe72895abfe3619972734e13920ee76
 product: cursor
 product_name: Cursor
 record:
@@ -52,6 +52,7 @@ related_changes:
   Cursor Tab accepts work with single-line selections]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
 source_type: cursor_changelog
+superseded: true
 theme: editor-experience
 title: When an issue is found, Bugbot leaves a comment on your PRs in GitHub
 type: change

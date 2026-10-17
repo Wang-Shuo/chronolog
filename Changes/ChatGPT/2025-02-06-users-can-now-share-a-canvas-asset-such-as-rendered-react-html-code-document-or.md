@@ -17,7 +17,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: e4ac250129f236a2566bdad52bf31c45cd0018e5b28ce70ccc985415900a873e
+machine_hash: afbb639a70d5c89aa8dd709d87be355333f51cf37864d1e26090428ce50928df
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,6 +50,7 @@ related_changes:
 - '[[Changes/ChatGPT/2025-01-15-edit-a-code-block-in-canvas|Edit a code block in Canvas]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-06-canvas-sharing-5abe3818|chatgpt-2025-02-06-canvas-sharing-5abe3818]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: file-data
 title: Users can now share a Canvas asset such as rendered React/HTML code, document…
 type: change

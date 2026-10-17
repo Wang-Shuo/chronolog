@@ -1,0 +1,100 @@
+---
+card_id: claude-code-2026-06-12-59c55b
+date: '2026-06-12'
+description: 'Claude Code · 2026-06-12 · Reliability and Performance: 2 changes in
+  v2.1.176 — Improved Bedrock credential caching: credentials from `awsCredentialExport`
+  are…'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1275
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: reliability-performance
+  tracked_products_count: 3
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: digest
+machine_hash: 6be0ca6ec53e9b1495c4d8e34ded94db4671faa2e2bb621661421ef43ac50c32
+product: claude-code
+product_name: Claude Code
+record:
+  card_id: claude-code-2026-06-12-59c55b
+  comparison: ''
+  date: '2026-06-12'
+  description: 'Claude Code — v2.1.176: 2 Reliability and Performance changes'
+  evidence:
+  - quote: 'Improved Bedrock credential caching: credentials from `awsCredentialExport`
+      are now cached until their `Expiration` instead of a fixed 1 hour'
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.176
+  - quote: Background sessions now show clearer guidance when a window left open across
+      an auto-update can't submit a reply, and `claude daemon status` explains version-skew
+      behavior
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.176
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: digest
+  product: claude-code
+  product_name: Claude Code
+  slug: 2-reliability-and-performance-changes-in-v2-1-176
+  source_release: claude-code-2026-06-12-v2-1-176-github-338777362-91e3deb6
+  source_type: github_releases
+  theme: reliability-performance
+  title: 2 Reliability and Performance changes in v2.1.176
+  type: change
+related_changes:
+- '[[Changes/Cursor/2026-06-04-reliability-performance-and-platform-improvements|Reliability,
+  performance, and platform improvements]]'
+- '[[Changes/Claude Code/2026-06-10-improved-performance-in-long-conversations-by-removing-redundant-message-normali|Improved
+  performance in long conversations by removing redundant message…]]'
+- '[[Changes/Cursor/2026-06-10-the-average-review-time-for-bugbot-is-now-90-seconds-down-from-5-minutes-bugbot-362593|The
+  average review time for Bugbot is now ~90 seconds, down from ~5 minutes]]'
+source_release: '[[Releases/Claude Code/claude-code-2026-06-12-v2-1-176-github-338777362-91e3deb6|claude-code-2026-06-12-v2-1-176-github-338777362-91e3deb6]]'
+source_type: github_releases
+theme: reliability-performance
+title: 2 Reliability and Performance changes in v2.1.176
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 2 Reliability and Performance changes in v2.1.176
+
+**Claude Code** · 2026-06-12 · [[Themes/reliability-performance|Reliability and Performance]] · Digest · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.176) · from [[Releases/Claude Code/claude-code-2026-06-12-v2-1-176-github-338777362-91e3deb6|v2.1.176]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+## Changes in this digest
+
+> Improved Bedrock credential caching: credentials from `awsCredentialExport` are now cached until their `Expiration` instead of a fixed 1 hour
+
+> Background sessions now show clearer guidance when a window left open across an auto-update can't submit a reply, and `claude daemon status` explains version-skew behavior
+
+Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.176
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-06-12-added-footerlinksregexes-setting-for-regex-matched-link-badges-in-the-footer-row|Added footerLinksRegexes setting for regex-matched link badges in the footer row…]] · Interface Experience
+- [[Changes/Claude Code/2026-06-12-session-titles-are-now-generated-in-the-language-of-your-conversation-set-the-la|Session titles are now generated in the language of your conversation…]] · Accessibility and Localization
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Reliability and Performance
+
+- Earlier: 2026-06-10 · Cursor · [[Changes/Cursor/2026-06-10-the-average-review-time-for-bugbot-is-now-90-seconds-down-from-5-minutes-bugbot-362593|The average review time for Bugbot is now ~90 seconds, down from ~5 minutes]]
+- Later: 2026-06-17 · ChatGPT · [[Changes/ChatGPT/2026-06-17-with-scheduled-tasks-users-can-ask-chatgpt-to-send-reminders-handle-recurring-wo|With scheduled tasks, users can ask ChatGPT to send reminders, handle recurring…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-06-12-59c55b&body=Card%3A%20Changes%2FClaude%20Code%2F2026-06-12-2-reliability-and-performance-changes-in-v2-1-176.md%0ACard%20ID%3A%20claude-code-2026-06-12-59c55b%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.176%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -14,9 +14,10 @@ diffusion:
   theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: b3dd3ec51ff314a4b554652995e7c501f2434fc3510b887c6a20567f1b33cc79
+kind: change
+machine_hash: b0fdd9b8726a7af0e827c29564775b6ca5a077ef09f6980e95eba8f7515d3e13
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   - quote: 'Added a `dir` prop on a mod''s `Text` for right-to-left text: on Windows
       and in VS Code''s terminal its rows read in that direction and sit flush right'
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.300
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-a-dir-prop-on-a-mod-s-text-for-right-to-left-text-on-windows-and-in-vs-cod
@@ -41,12 +43,12 @@ record:
   title: Added a `dir` prop on a mod's `Text` for right-to-left text
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-02-added-a-built-in-gh-api-to-cloud-sessions-whose-image-has-no-github-cli-and-fixe|Added
-  a built-in gh api to cloud sessions whose image has no GitHub CLI, and fixed…]]'
-- '[[Changes/Claude Code/2026-10-02-added-max-findings-n-all-to-code-review-to-report-more-or-fewer-findings-than-th|Added
-  --max-findings n / all to /code-review to report more or fewer findings than…]]'
+- '[[Changes/Claude Code/2026-10-07-code-review-improved-code-review-s-add-a-repository-dialog-to-list-each-reposito|Code
+  Review Improved Code Review''s Add a repository dialog to list each repository…]]'
 - '[[Changes/Claude Code/2026-10-08-added-a-line-on-stderr-when-it-is-a-terminal-that-says-what-a-claude-p-run-is-wa|Added
   a line on stderr, when it is a terminal, that says what a claude -p run…]]'
+- '[[Changes/Claude Code/2026-10-09-3-developer-workflow-changes-in-v2-1-296|3 Developer
+  Workflow changes in v2.1.296]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
 source_type: github_releases
 theme: developer-workflow
@@ -70,14 +72,22 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-10-14-added-cache-creation-5m-tokens-and-cache-creation-1h-tokens-to-the-opentelemetry|Added cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelemetry…]] · Context Window
-- [[Changes/Claude Code/2026-10-14-added-ui-view-agentid-for-mods-shows-an-agent-s-transcript-in-the-main-view-when|Added $.ui.view({ agentId }) for mods]] · Agent Mode
+- [[Changes/Claude Code/2026-10-14-7-apps-and-integrations-changes-in-v2-1-300|7 Apps and Integrations changes in v2.1.300]] · Apps and Integrations
+- [[Changes/Claude Code/2026-10-14-2-safety-and-privacy-changes-in-v2-1-300|2 Safety and Privacy changes in v2.1.300]] · Safety and Privacy
+- [[Changes/Claude Code/2026-10-14-3-mobile-and-desktop-changes-in-v2-1-300|3 Mobile and Desktop changes in v2.1.300]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-10-14-improved-the-note-claude-3-models-get-about-an-mentioned-pdf-so-they-less-often|Improved the note Claude 3 models get about an @-mentioned PDF, so they less often…]] · Model Support
+- [[Changes/Claude Code/2026-10-14-2-editor-experience-changes-in-v2-1-300|2 Editor Experience changes in v2.1.300]] · Editor Experience
+- [[Changes/Claude Code/2026-10-14-changed-exit-to-force-kill-background-commands-still-running-1-5-seconds-after-b|Changed exit to force-kill background commands still running 1.5 seconds after being…]] · Interface Experience
+- [[Changes/Claude Code/2026-10-14-claude-tag-added-support-for-slack-voice-clips-in-claude-in-slack-claude-reads-s|Claude Tag Added support for Slack voice clips in Claude in Slack]] · Voice and Audio
+- [[Changes/Claude Code/2026-10-14-3-agent-mode-changes-in-v2-1-300|3 Agent Mode changes in v2.1.300]] · Agent Mode
+- [[Changes/Claude Code/2026-10-14-changed-local-session-transcripts-to-also-record-each-api-request-s-system-promp|Changed local session transcripts to also record each API request's system prompt…]] · Collaboration
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-added-a-line-on-stderr-when-it-is-a-terminal-that-says-what-a-claude-p-run-is-wa|Added a line on stderr, when it is a terminal, that says what a claude -p run…]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-added-idle-compaction-in-the-terminal-a-200k-token-conversation-left-idle-for-ab|Added idle compaction in the terminal]]
+- Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-3-developer-workflow-changes-in-v2-1-296|3 Developer Workflow changes in v2.1.296]]
+- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-10-developer-workflow-changes-in-v2-1-299|10 Developer Workflow changes in v2.1.299]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

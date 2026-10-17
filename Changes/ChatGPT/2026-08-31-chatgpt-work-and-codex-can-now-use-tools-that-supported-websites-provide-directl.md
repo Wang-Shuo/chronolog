@@ -14,9 +14,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 8bcfa56383cc2a5d35e6be37c061a0e212b93e323f15da74940ebbaa74ab167a
+kind: change
+machine_hash: 9080ad88bf80671f8793608bf84848438acbdcb0b6128c1100ef915e6ad8489d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,8 +31,9 @@ record:
   - quote: ChatGPT Work and Codex can now use tools that supported websites provide
       directly in the desktop app’s built-in browser.
     source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: chatgpt-work-and-codex-can-now-use-tools-that-supported-websites-provide-directl
@@ -42,12 +44,12 @@ record:
     directly…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-28-available-globally-on-supported-plus-pro-business-and-enterprise-plans-across-we|Available
-  globally on supported Plus, Pro, Business, and Enterprise plans across…]]'
-- '[[Changes/ChatGPT/2026-08-31-side-chat-is-available-in-edge-brave-and-vivaldi-opera-supports-tab-mentions-and|Side
-  chat is available in Edge, Brave, and Vivaldi]]'
-- '[[Changes/ChatGPT/2026-08-31-bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context|Bring
-  your browser into Work and Codex]]'
+- '[[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Create
+  webhook-triggered tasks]]'
+- '[[Changes/Claude Code/2026-08-25-windows-macos-fixed-headless-sessions-not-cleaning-up-stale-entries-in-claude-se|Windows/macOS:
+  Fixed headless sessions not cleaning up stale entries…]]'
+- '[[Changes/Claude Code/2026-08-28-improved-amazon-bedrock-session-start-under-claude-code-provider-managed-by-host|Improved
+  Amazon Bedrock session start under CLAUDE_CODE_PROVIDER_MANAGED_BY_HOST…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-31-use-website-tools-in-the-desktop-browser-6c07f08a|chatgpt-2026-08-31-use-website-tools-in-the-desktop-browser-6c07f08a]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -76,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context|Bring your browser into Work and Codex]]
-- Later: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add|Edit and comment]]
+- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-improved-amazon-bedrock-session-start-under-claude-code-provider-managed-by-host|Improved Amazon Bedrock session start under CLAUDE_CODE_PROVIDER_MANAGED_BY_HOST…]]
+- Later: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context-af2c3a|Bring your browser into Work and Codex]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

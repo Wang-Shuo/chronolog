@@ -14,9 +14,10 @@ diffusion:
   theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 7f3909f59dc1979b5dc6da683e9c80bc2d13f120be12ed44948fbee580e9f5fb
+kind: change
+machine_hash: 1796b481260fe6331c73dc5007839877a907955441d33a8656ac37ae66d09936
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +29,9 @@ record:
   evidence:
   - quote: Removes a check in the chat that slows the chat down in certain cases.
     source_release: https://cursor.com/changelog/0-4-1-0-4-2
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: cursor
   product_name: Cursor
   slug: removes-a-check-in-the-chat-that-slows-the-chat-down-in-certain-cases
@@ -74,7 +76,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2023-02-13 · ChatGPT · [[Changes/ChatGPT/2023-02-13-we-ve-updated-performance-of-the-chatgpt-model-on-our-free-plan-in-order-to-serv|ChatGPT updates performance of the ChatGPT model on our free plan in order to serve…]]
-- Later: 2023-08-20 · Cursor · [[Changes/Cursor/2023-08-20-ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie|SSH support is now more robust!]]
+- Later: 2023-08-20 · Cursor · [[Changes/Cursor/2023-08-20-ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie|More robust SSH support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

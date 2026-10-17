@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 368161d8891f84964a3b0dc6e5488aeec43814fb1e2d35fc602690862b13fed8
+machine_hash: bd975559d205f3a441852411e7e907a0dc948eeb3e03c502d62b0f7e9e85d39c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -76,6 +76,7 @@ related_changes:
   along with typed answers as you listen]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37|chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: voice
 title: We’re making ChatGPT Voice a seamless part of the ChatGPT experience, so you
   can use…

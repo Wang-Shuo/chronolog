@@ -16,7 +16,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v4
 impact: incremental
-machine_hash: 7bb051407a25ad1e9a9e4a21529d66a7bc1390949f5ad7e635de26fd4b89d96c
+machine_hash: 87ad547726e5a8d08caf287cf94a5ea6876f1adc6596a8b89d7e54d856125658
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   sharing. Sharing chats is now easier and faster, with a quicker-loading share menu]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-06-v2-1-70-github-293754953-afac13c0|claude-code-2026-03-06-v2-1-70-github-293754953-afac13c0]]'
 source_type: github_releases
+superseded: true
 theme: reliability-performance
 title: Reduced prompt input re-renders during turns by ~74%
 type: change
