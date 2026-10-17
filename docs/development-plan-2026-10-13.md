@@ -166,9 +166,9 @@
 - [x] **M4.3 站点布局与首页。** [PR #9](https://github.com/Wang-Shuo/chronolog/pull/9)，[验收记录](acceptance/w1-site-layout-2026-10-15.md)：About 页、首页重排、Explorer / Graph / 页脚 / 标语、链接对比度、RSS 限定。
 
 - [x] **M4.4 卡片定义（P3）。** [PR #11](https://github.com/Wang-Shuo/chronolog/pull/11)，[验收记录](acceptance/w2-card-definition-2026-10-17.md)：方案 B + B+ 试点，B4 判定由 Wang-Shuo 于 2026-10-17 通过。
-- [ ] **M4.5 `uncategorized` 保留主题（P9）与 kind 微调。** [验收记录](acceptance/w2-uncategorized-2026-10-17.md)：待审 662 → 62；待交付 PR 批准合并。
-- [ ] **M4.6 主题页、月度归档与节奏面板（P5 / U5 / U6、P2、P7）。** [验收记录](acceptance/w2-theme-pages-2026-10-17.md)：Key moments 分道表、47 个月份归档页、三产品节奏面板；待交付 PR 批准合并。
-- [ ] **M4.7 产品页重构、研究摘要与 Eras（P6、C5、C3 / C4）。** [验收记录](acceptance/w2-narratives-2026-10-17.md)：5 个新主题摘要、Cursor 与 Claude Code Eras、策展 Key moments、写作指南；合并前需完成 [叙事复核包](acceptance/w2-evidence/review-packet-narratives.md) 的 B6 判定。
+- [x] **M4.5 `uncategorized` 保留主题（P9）与 kind 微调。** [PR #12](https://github.com/Wang-Shuo/chronolog/pull/12)，[验收记录](acceptance/w2-uncategorized-2026-10-17.md)：待审 662 → 62。
+- [x] **M4.6 主题页、月度归档与节奏面板（P5 / U5 / U6、P2、P7）。** [PR #13](https://github.com/Wang-Shuo/chronolog/pull/13)，[验收记录](acceptance/w2-theme-pages-2026-10-17.md)：Key moments 分道表、47 个月份归档页、三产品节奏面板。
+- [x] **M4.7 产品页重构、研究摘要与 Eras（P6、C5、C3 / C4）。** [PR #15](https://github.com/Wang-Shuo/chronolog/pull/15)，[验收记录](acceptance/w2-narratives-2026-10-17.md)：5 个新主题摘要、Cursor 与 Claude Code Eras、策展 Key moments、写作指南；B6 判定由 Wang-Shuo 于 2026-10-17 通过。
 
 **待排（W2）：** P5 / U5 主题页精选与分道时间线、P6 / C5 产品叙事与主题摘要、C6 词表修订、P7 节奏面板、P2 月度归档、C3 / C4 写作指南。每项沿用评审第 6 节的验收方式；涉及卡片集合变化的任务必须经 M2 的 B4–B6 人工复核。
 

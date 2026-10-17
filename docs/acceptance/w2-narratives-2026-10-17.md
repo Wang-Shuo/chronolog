@@ -36,3 +36,9 @@
 ## 结论
 
 工程验收通过。**合并条件：** Wang-Shuo 按复核包完成 B6 判定（7 个主题摘要、3 个产品的定位与 Eras、2 个主题的 Key moments），未通过项修订后再批准最终 head；按 PR 2 → PR 3 → PR 4 顺序合并部署。
+
+## B6 判定与上线记录（2026-10-17 补记）
+
+- Wang-Shuo 审阅叙事复核包后批准 [PR #15](https://github.com/Wang-Shuo/chronolog/pull/15) 的最终 head `43d3019`，未报告未通过项；PR 合并为 `d412bb3` 并部署。
+- 已知限制保持不变；后续策展修订通过 `editorial.yaml` 与交付 PR 进行。
+
