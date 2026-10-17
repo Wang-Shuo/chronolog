@@ -1,9 +1,9 @@
 ---
 created: '2023-01-09'
 date: '2026-10-14'
-description: Cross-product timeline of Model Support changes in ChatGPT, Claude Code
-  and Cursor.
-machine_hash: 160c23167a80db5bceb58d13cb51f1fb23935694ae8439d0a42e24a4736d39db
+description: 'Research question: how do the tracked products add, choose between and
+  retire models?'
+machine_hash: 59cf6f98e75f898d0173c9334557bf2b0511bba4d03c997b0478432813f3fc26
 modified: '2026-10-14'
 products_involved:
 - ChatGPT
@@ -26,7 +26,15 @@ title: Model Support
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->
-Explore the dated evidence below.
+**Research question: how do the tracked products add, choose between and retire models?**
+
+ChatGPT's [2023-03-14 GPT-4 announcement](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#announcing-gpt-4-in-chatgpt) ([[Releases/ChatGPT/chatgpt-2023-03-14-announcing-gpt-4-in-chatgpt-43063370|archived]]) brings GPT-4 to Plus subscribers under a usage cap adjusted to demand. The [2025-08-07 GPT-5 note](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5) ([[Releases/ChatGPT/chatgpt-2025-08-07-gpt-5-a50b91bc|archived]]) makes GPT-5 the default for all logged-in users as a single auto-switching system, with a model picker for paid tiers, and the [2025-08-12 update](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5-updates) ([[Releases/ChatGPT/chatgpt-2025-08-12-gpt-5-updates-9aaeee46|archived]]) adds a choice between “Auto”, “Fast” and “Thinking”. Retirements arrive as dated notes: the [2026-02-13 note](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-4o-and-other-legacy-models) ([[Releases/ChatGPT/chatgpt-2026-02-13-retiring-gpt-4o-and-other-legacy-models-71b41b16|archived]]) retires GPT-4o, GPT-4.1, GPT-4.1 mini and OpenAI o4-mini from ChatGPT with no API change, and the [2026-09-14 note](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-pro) ([[Releases/ChatGPT/chatgpt-2026-09-14-changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-p-54d16c58|archived]]) retires automatic switching from Instant to Thinking for Plus and Pro users, while ChatGPT can still switch automatically for safety purposes.
+
+Cursor's [2023-03-30 release](https://cursor.com/changelog/0-1-12) ([[Releases/Cursor/cursor-2023-03-30-0-1-12-https-cursor-com-changelog-0-1-12-f3e1800c|archived]]) lets users plug in an OpenAI API key for unlimited requests at cost. The [2024-03-12 Claude support release](https://cursor.com/changelog/claude-support) ([[Releases/Cursor/cursor-2024-03-12-claude-support-https-cursor-com-changelog-claude-support-ed1eb90a|archived]]) lets Pro and Business users add claude-3-opus as a custom model, and the [2024-07-23 release](https://cursor.com/changelog/0-38-x) ([[Releases/Cursor/cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df|archived]]) makes Claude 3.5 Sonnet the default model. [Cursor 2.0 on 2025-10-29](https://cursor.com/changelog/2-0) ([[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|archived]]) introduces Composer, described as Cursor's first agentic coding model, and the [2026-07-22 release](https://cursor.com/changelog/router) ([[Releases/Cursor/cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4|archived]]) adds Cursor Router, which sends each request to a frontier or a price-efficient model.
+
+Claude Code announces models inside its releases: [v2.1.32 on 2026-02-05](https://github.com/anthropics/claude-code/releases/tag/v2.1.32) ([[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|archived]]) makes Claude Opus 4.6 available, [v2.1.197 on 2026-06-30](https://github.com/anthropics/claude-code/releases/tag/v2.1.197) ([[Releases/Claude Code/claude-code-2026-06-30-v2-1-197-github-346856026-11e4aa1f|archived]]) makes Claude Sonnet 5 the default model with a native 1M-token context window, and [v2.1.280 on 2026-09-22](https://github.com/anthropics/claude-code/releases/tag/v2.1.280) ([[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|archived]]) adds Claude Opus 5.5 as the default Opus model. Model controls grow alongside: [v2.1.76 on 2026-03-14](https://github.com/anthropics/claude-code/releases/tag/v2.1.76) ([[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|archived]]) adds an `/effort` command, [v2.1.166 on 2026-06-06](https://github.com/anthropics/claude-code/releases/tag/v2.1.166) ([[Releases/Claude Code/claude-code-2026-06-06-v2-1-166-github-335118845-ef990727|archived]]) a `fallbackModel` setting with up to three fallback models, and [v2.1.196 on 2026-06-29](https://github.com/anthropics/claude-code/releases/tag/v2.1.196) ([[Releases/Claude Code/claude-code-2026-06-29-v2-1-196-github-346482381-e21be272|archived]]) organization default models set by admins.
+
+**Uncertainty and scope:** the record covers the three tracked products only, Claude Code coverage starts on 2025-12-19, and announcement dates are not availability dates for every plan, region or provider, so a model's name, default status or price in one product says nothing about its quality or availability in another.
 <!-- chronolog:end -->
 
 ## Key moments

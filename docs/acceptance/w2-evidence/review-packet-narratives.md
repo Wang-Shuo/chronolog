@@ -1,0 +1,554 @@
+# W2 研究摘要、产品 Era 与 Key moments 人工复核包 — 2026-10-17
+
+状态：**待人工复核。** 由 `w2-narratives-20261017` 回放生成（输入：`docs/acceptance/m3-evidence/live-generation-38668187171/generation/collection.json.gz`，reconcile 开启；`editorial_warnings` 为空）。下文的英文内容取自回放后 Vault 中的渲染页面，逐字引用；本文件不代表人工结论。
+
+## 判定口径
+
+按 [写作指南](../../style-guide.md) 第 9 节的清单（B6 口径）逐项复核：**发生了什么转折、证据在哪里、哪些结论仍不确定。** 每篇研究摘要、每个产品的定位与 Era、每份 Key moments 清单后有一行 `判定：`，请填写“通过”或“不通过：理由”。
+
+- 研究摘要：每个事实句同时链接官方来源与归档 Release 页；正文只陈述原文支持的内容（第三人称、现在时、肯定句）；所有限定集中在最后一句 “Uncertainty and scope”。`agent-mode` 与 `pricing-model` 只调整口吻并补归档链接，主张与官方链接不变；其余 5 篇为新增。
+- Era：边界取自一次可引用的公告；`from` 等于最早代表 Release 的日期，相邻 Era 首尾相接；每个 Era 最多 3 个代表 Release，均为真实归档 Release（`tests/test_m2_content.py` 在 M2 采集包上校验）。ChatGPT 的 5 个 Era 只调整口吻，日期与 Release 不变；Cursor 与 Claude Code 为新增。
+- Key moments：策展清单替代自动选择；只选上线与政策/价格变化，覆盖三个产品与多个年份；所有 id 都是该主题的活动卡片。
+
+## 一、主题研究摘要（7 篇）
+
+### T1 · agent-mode（Agent Mode，改写）
+
+页面：`Themes/agent-mode.md`；description：“Research question: what changed in delegated execution?”
+
+**渲染全文：**
+
+> **Research question: what changed in delegated execution?**
+>
+> Cursor's [2025-05-15 release](https://cursor.com/changelog/0-50) ([[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|archived]]) introduces Background Agent for parallel task execution. The [2025-06-04 release](https://cursor.com/changelog/1-0) ([[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|archived]]) expands access to the same remote coding agent, with privacy-mode limitations at that time, a within-product expansion of one named capability.
+>
+> ChatGPT's [2026-07-09 Work announcement](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work) ([[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|archived]]) describes longer research and creation tasks across apps and files, with user direction and approvals. [Dots on 2026-09-29](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meet-your-dot) ([[Releases/ChatGPT/chatgpt-2026-09-29-meet-your-dot-8b9f914b|archived]]) adds ongoing goals on a cloud computer, with plan and regional restrictions. Both are general-work agents, a different scope from Cursor's repository-oriented remote coding agent.
+>
+> Claude Code's [v2.1.296 on 2026-10-09](https://github.com/anthropics/claude-code/releases/tag/v2.1.296) ([[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|archived]]) adds a workflow-subagent model setting and per-subagent auto-compaction, controls over an execution system that already exists.
+>
+> **Uncertainty and scope:** the record covers the three tracked products only and Claude Code coverage starts at v2.0.73 (2025-12-19), so a first appearance here does not date when agent functionality first existed; similar names and dates do not establish identical autonomy, reliability, adoption or influence, the timeline below is a sequence of evidence rather than a diffusion claim, and generic permission fixes or unrelated uses of “mode” do not count as agent capabilities.
+
+**引用：**
+
+| # | 产品 | 链接文字 | Release 日期 | 官方来源 | 归档 Release |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Cursor | 2025-05-15 release | 2025-05-15 | <https://cursor.com/changelog/0-50> | `Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998`（Simplified Pricing, Background Agent and Refreshed Inline Edit） |
+| 2 | Cursor | 2025-06-04 release | 2025-06-04 | <https://cursor.com/changelog/1-0> | `Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca`（Bugbot, Background Agent access to everyone, and one-click MCP install） |
+| 3 | ChatGPT | 2026-07-09 Work announcement | 2026-07-09 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work> | `Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272`（Introducing ChatGPT Work） |
+| 4 | ChatGPT | Dots on 2026-09-29 | 2026-09-29 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meet-your-dot> | `Releases/ChatGPT/chatgpt-2026-09-29-meet-your-dot-8b9f914b`（Meet your dot） |
+| 5 | Claude Code | v2.1.296 on 2026-10-09 | 2026-10-09 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.296> | `Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a`（v2.1.296） |
+
+判定：
+
+### T2 · pricing-model（Pricing Model，改写）
+
+页面：`Themes/pricing-model.md`；description：“Research question: what is being charged for, and what does a plan unlock?”
+
+**渲染全文：**
+
+> **Research question: what is being charged for, and what does a plan unlock?**
+>
+> Cursor's [2025-05-15 announcement](https://cursor.com/changelog/0-50) ([[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|archived]]) distinguishes request-based ordinary usage from token-based Max Mode and states that plan quotas were unchanged at that time, a dated change of mechanism.
+>
+> ChatGPT's [2026-04-09 Pro changes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options) ([[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|archived]]) introduce a $100/month Pro option alongside $200/month Pro and describe usage allowances. The [2026-09-29 Pro 500 announcement](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-new-pro-plan-with-astra-ultrafast) ([[Releases/ChatGPT/chatgpt-2026-09-29-a-new-pro-plan-with-astra-ultrafast-f0c84e90|archived]]) adds a $500/month tier and gates Ultrafast to that tier: buying credits on Pro 100 or Pro 200 does not unlock it. Included allowances and purchased credits are distinct from feature eligibility.
+>
+> Claude Code's [v2.1.296 on 2026-10-09](https://github.com/anthropics/claude-code/releases/tag/v2.1.296) ([[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|archived]]) updates displayed Sonnet 5.5 cache-read cost figures from $0.20 to $0.10 per million tokens in cost reporting and budget controls, a client-side cost-accounting update.
+>
+> **Uncertainty and scope:** the record covers the three tracked products only and treats subscriptions, requests, token metering, credits and client cost estimates as different mechanisms; prices are historical statements with plan and rollout qualifications, so this evidence does not support “one product followed another,” universal price comparisons, claims about current price lists or invoices, a new Claude subscription price or every user's billed price, and shopping prices fall outside this theme unless they change the AI product's own charging mechanism.
+
+**引用：**
+
+| # | 产品 | 链接文字 | Release 日期 | 官方来源 | 归档 Release |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Cursor | 2025-05-15 announcement | 2025-05-15 | <https://cursor.com/changelog/0-50> | `Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998`（Simplified Pricing, Background Agent and Refreshed Inline Edit） |
+| 2 | ChatGPT | 2026-04-09 Pro changes | 2026-04-09 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options> | `Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2`（New Pro plan options） |
+| 3 | ChatGPT | 2026-09-29 Pro 500 announcement | 2026-09-29 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-new-pro-plan-with-astra-ultrafast> | `Releases/ChatGPT/chatgpt-2026-09-29-a-new-pro-plan-with-astra-ultrafast-f0c84e90`（A new Pro plan with Astra Ultrafast） |
+| 4 | Claude Code | v2.1.296 on 2026-10-09 | 2026-10-09 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.296> | `Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a`（v2.1.296） |
+
+判定：
+
+### T3 · model-support（Model Support，新增）
+
+页面：`Themes/model-support.md`；description：“Research question: how do the tracked products add, choose between and retire models?”
+
+**渲染全文：**
+
+> **Research question: how do the tracked products add, choose between and retire models?**
+>
+> ChatGPT's [2023-03-14 GPT-4 announcement](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#announcing-gpt-4-in-chatgpt) ([[Releases/ChatGPT/chatgpt-2023-03-14-announcing-gpt-4-in-chatgpt-43063370|archived]]) brings GPT-4 to Plus subscribers under a usage cap adjusted to demand. The [2025-08-07 GPT-5 note](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5) ([[Releases/ChatGPT/chatgpt-2025-08-07-gpt-5-a50b91bc|archived]]) makes GPT-5 the default for all logged-in users as a single auto-switching system, with a model picker for paid tiers, and the [2025-08-12 update](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5-updates) ([[Releases/ChatGPT/chatgpt-2025-08-12-gpt-5-updates-9aaeee46|archived]]) adds a choice between “Auto”, “Fast” and “Thinking”. Retirements arrive as dated notes: the [2026-02-13 note](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-4o-and-other-legacy-models) ([[Releases/ChatGPT/chatgpt-2026-02-13-retiring-gpt-4o-and-other-legacy-models-71b41b16|archived]]) retires GPT-4o, GPT-4.1, GPT-4.1 mini and OpenAI o4-mini from ChatGPT with no API change, and the [2026-09-14 note](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-pro) ([[Releases/ChatGPT/chatgpt-2026-09-14-changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-p-54d16c58|archived]]) retires automatic switching from Instant to Thinking for Plus and Pro users, while ChatGPT can still switch automatically for safety purposes.
+>
+> Cursor's [2023-03-30 release](https://cursor.com/changelog/0-1-12) ([[Releases/Cursor/cursor-2023-03-30-0-1-12-https-cursor-com-changelog-0-1-12-f3e1800c|archived]]) lets users plug in an OpenAI API key for unlimited requests at cost. The [2024-03-12 Claude support release](https://cursor.com/changelog/claude-support) ([[Releases/Cursor/cursor-2024-03-12-claude-support-https-cursor-com-changelog-claude-support-ed1eb90a|archived]]) lets Pro and Business users add claude-3-opus as a custom model, and the [2024-07-23 release](https://cursor.com/changelog/0-38-x) ([[Releases/Cursor/cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df|archived]]) makes Claude 3.5 Sonnet the default model. [Cursor 2.0 on 2025-10-29](https://cursor.com/changelog/2-0) ([[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|archived]]) introduces Composer, described as Cursor's first agentic coding model, and the [2026-07-22 release](https://cursor.com/changelog/router) ([[Releases/Cursor/cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4|archived]]) adds Cursor Router, which sends each request to a frontier or a price-efficient model.
+>
+> Claude Code announces models inside its releases: [v2.1.32 on 2026-02-05](https://github.com/anthropics/claude-code/releases/tag/v2.1.32) ([[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|archived]]) makes Claude Opus 4.6 available, [v2.1.197 on 2026-06-30](https://github.com/anthropics/claude-code/releases/tag/v2.1.197) ([[Releases/Claude Code/claude-code-2026-06-30-v2-1-197-github-346856026-11e4aa1f|archived]]) makes Claude Sonnet 5 the default model with a native 1M-token context window, and [v2.1.280 on 2026-09-22](https://github.com/anthropics/claude-code/releases/tag/v2.1.280) ([[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|archived]]) adds Claude Opus 5.5 as the default Opus model. Model controls grow alongside: [v2.1.76 on 2026-03-14](https://github.com/anthropics/claude-code/releases/tag/v2.1.76) ([[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|archived]]) adds an `/effort` command, [v2.1.166 on 2026-06-06](https://github.com/anthropics/claude-code/releases/tag/v2.1.166) ([[Releases/Claude Code/claude-code-2026-06-06-v2-1-166-github-335118845-ef990727|archived]]) a `fallbackModel` setting with up to three fallback models, and [v2.1.196 on 2026-06-29](https://github.com/anthropics/claude-code/releases/tag/v2.1.196) ([[Releases/Claude Code/claude-code-2026-06-29-v2-1-196-github-346482381-e21be272|archived]]) organization default models set by admins.
+>
+> **Uncertainty and scope:** the record covers the three tracked products only, Claude Code coverage starts on 2025-12-19, and announcement dates are not availability dates for every plan, region or provider, so a model's name, default status or price in one product says nothing about its quality or availability in another.
+
+**引用：**
+
+| # | 产品 | 链接文字 | Release 日期 | 官方来源 | 归档 Release |
+| --- | --- | --- | --- | --- | --- |
+| 1 | ChatGPT | 2023-03-14 GPT-4 announcement | 2023-03-14 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#announcing-gpt-4-in-chatgpt> | `Releases/ChatGPT/chatgpt-2023-03-14-announcing-gpt-4-in-chatgpt-43063370`（Announcing GPT-4 in ChatGPT） |
+| 2 | ChatGPT | 2025-08-07 GPT-5 note | 2025-08-07 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5> | `Releases/ChatGPT/chatgpt-2025-08-07-gpt-5-a50b91bc`（GPT-5） |
+| 3 | ChatGPT | 2025-08-12 update | 2025-08-12 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5-updates> | `Releases/ChatGPT/chatgpt-2025-08-12-gpt-5-updates-9aaeee46`（GPT-5 Updates） |
+| 4 | ChatGPT | 2026-02-13 note | 2026-02-13 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-4o-and-other-legacy-models> | `Releases/ChatGPT/chatgpt-2026-02-13-retiring-gpt-4o-and-other-legacy-models-71b41b16`（Retiring GPT-4o and other legacy models） |
+| 5 | ChatGPT | 2026-09-14 note | 2026-09-14 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-pro> | `Releases/ChatGPT/chatgpt-2026-09-14-changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-p-54d16c58`（Changes to automatic switching to thinking in ChatGPT (Plus and Pro)） |
+| 6 | Cursor | 2023-03-30 release | 2023-03-30 | <https://cursor.com/changelog/0-1-12> | `Releases/Cursor/cursor-2023-03-30-0-1-12-https-cursor-com-changelog-0-1-12-f3e1800c`（v0.1.12 (2023-03-30)） |
+| 7 | Cursor | 2024-03-12 Claude support release | 2024-03-12 | <https://cursor.com/changelog/claude-support> | `Releases/Cursor/cursor-2024-03-12-claude-support-https-cursor-com-changelog-claude-support-ed1eb90a`（Claude Support） |
+| 8 | Cursor | 2024-07-23 release | 2024-07-23 | <https://cursor.com/changelog/0-38-x> | `Releases/Cursor/cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df`（Copilot++ Chunked Streaming (beta), Composer improvements） |
+| 9 | Cursor | Cursor 2.0 on 2025-10-29 | 2025-10-29 | <https://cursor.com/changelog/2-0> | `Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e`（New Coding Model and Agent Interface） |
+| 10 | Cursor | 2026-07-22 release | 2026-07-22 | <https://cursor.com/changelog/router> | `Releases/Cursor/cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4`（Cursor Router） |
+| 11 | Claude Code | v2.1.32 on 2026-02-05 | 2026-02-05 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.32> | `Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0`（v2.1.32） |
+| 12 | Claude Code | v2.1.197 on 2026-06-30 | 2026-06-30 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.197> | `Releases/Claude Code/claude-code-2026-06-30-v2-1-197-github-346856026-11e4aa1f`（v2.1.197） |
+| 13 | Claude Code | v2.1.280 on 2026-09-22 | 2026-09-22 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.280> | `Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b`（v2.1.280） |
+| 14 | Claude Code | v2.1.76 on 2026-03-14 | 2026-03-14 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.76> | `Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc`（v2.1.76） |
+| 15 | Claude Code | v2.1.166 on 2026-06-06 | 2026-06-06 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.166> | `Releases/Claude Code/claude-code-2026-06-06-v2-1-166-github-335118845-ef990727`（v2.1.166） |
+| 16 | Claude Code | v2.1.196 on 2026-06-29 | 2026-06-29 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.196> | `Releases/Claude Code/claude-code-2026-06-29-v2-1-196-github-346482381-e21be272`（v2.1.196） |
+
+判定：
+
+### T4 · apps-integrations（Apps and Integrations，新增）
+
+页面：`Themes/apps-integrations.md`；description：“Research question: how do the tracked products connect to outside tools, and in what unit do they package those connections?”
+
+**渲染全文：**
+
+> **Research question: how do the tracked products connect to outside tools, and in what unit do they package those connections?**
+>
+> ChatGPT's [2023-03-23 plugins announcement](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt) ([[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|archived]]) introduces experimental plugins, tools designed for language models that access up-to-date information, run computations or use third-party services. The [2025-06-04 note](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-connectors-via-model-context-protocol-pro-team-enterprise-edu) ([[Releases/ChatGPT/chatgpt-2025-06-04-custom-connectors-via-model-context-protocol-pro-team-enterprise-a1bc36f5|archived]]) lets admins and users build and deploy custom connectors to proprietary systems using the Model Context Protocol (MCP), and the [2025-12-18 app directory](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-app-directory-in-chatgpt) ([[Releases/ChatGPT/chatgpt-2025-12-18-introducing-the-app-directory-in-chatgpt-c4ab90ba|archived]]) lists connectors as apps. The [2026-07-09 Work announcement](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work) ([[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|archived]]) replaces the App Directory with a Plugin Directory whose plugins package skills, apps and app templates, and the [2026-09-11 note](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#planned-custom-gpt-retirement-and-migration-to-plugins) ([[Releases/ChatGPT/chatgpt-2026-09-11-planned-custom-gpt-retirement-and-migration-to-plugins-05b21afb|archived]]) plans to retire custom GPTs, introduced on [2023-11-06](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpts) ([[Releases/ChatGPT/chatgpt-2023-11-06-introducing-gpts-3721c457|archived]]), with a migration path to plugins.
+>
+> Cursor's [0.45 release on 2025-01-23](https://cursor.com/changelog/0-45-x) ([[Releases/Cursor/cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228|archived]]) adds MCP support, and [Cursor 1.0 on 2025-06-04](https://cursor.com/changelog/1-0) ([[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|archived]]) adds one-click MCP setup with OAuth. The [2025-06-12 release](https://cursor.com/changelog/1-1) ([[Releases/Cursor/cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc|archived]]) lets teams launch Background Agents from Slack, where Cursor reads the whole thread before starting. The [2026-02-17 release](https://cursor.com/changelog/2-5) ([[Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320|archived]]) introduces plugins on the Cursor Marketplace, which package skills, subagents, MCP servers, hooks and rules into a single install, and the [2026-03-03 release](https://cursor.com/changelog/2-6) ([[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|archived]]) adds MCP Apps with interactive interfaces such as Figma diagrams inside Cursor.
+>
+> Claude Code's archive opens with a plugin marketplace in place: [v2.0.73 on 2025-12-19](https://github.com/anthropics/claude-code/releases/tag/v2.0.73) ([[Releases/Claude Code/claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9|archived]]) adds search filtering to the plugin discover screen. [v2.1.16 on 2026-01-22](https://github.com/anthropics/claude-code/releases/tag/v2.1.16) ([[Releases/Claude Code/claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428|archived]]) adds native plugin management to the VS Code extension, [v2.1.198 on 2026-07-01](https://github.com/anthropics/claude-code/releases/tag/v2.1.198) ([[Releases/Claude Code/claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab|archived]]) makes Claude in Chrome generally available, and [v2.1.287 on 2026-10-01](https://github.com/anthropics/claude-code/releases/tag/v2.1.287) ([[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|archived]]) adds Claude Mods, through which plugins may modify deeper behavior.
+>
+> **Uncertainty and scope:** the record covers the three tracked products only and Claude Code coverage starts on 2025-12-19, after its plugin system already existed, so shared words such as “plugin”, “app” and “connector” name each product's own packaging unit and do not indicate interoperable or equivalent integrations.
+
+**引用：**
+
+| # | 产品 | 链接文字 | Release 日期 | 官方来源 | 归档 Release |
+| --- | --- | --- | --- | --- | --- |
+| 1 | ChatGPT | 2023-03-23 plugins announcement | 2023-03-23 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt> | `Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8`（Introducing plugins in ChatGPT） |
+| 2 | ChatGPT | 2025-06-04 note | 2025-06-04 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-connectors-via-model-context-protocol-pro-team-enterprise-edu> | `Releases/ChatGPT/chatgpt-2025-06-04-custom-connectors-via-model-context-protocol-pro-team-enterprise-a1bc36f5`（Custom connectors via Model Context Protocol (Pro, Team, Enterprise, Edu)） |
+| 3 | ChatGPT | 2025-12-18 app directory | 2025-12-18 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-app-directory-in-chatgpt> | `Releases/ChatGPT/chatgpt-2025-12-18-introducing-the-app-directory-in-chatgpt-c4ab90ba`（Introducing the app directory in ChatGPT） |
+| 4 | ChatGPT | 2026-07-09 Work announcement | 2026-07-09 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work> | `Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272`（Introducing ChatGPT Work） |
+| 5 | ChatGPT | 2026-09-11 note | 2026-09-11 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#planned-custom-gpt-retirement-and-migration-to-plugins> | `Releases/ChatGPT/chatgpt-2026-09-11-planned-custom-gpt-retirement-and-migration-to-plugins-05b21afb`（Planned custom GPT retirement and migration to plugins） |
+| 6 | ChatGPT | 2023-11-06 | 2023-11-06 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpts> | `Releases/ChatGPT/chatgpt-2023-11-06-introducing-gpts-3721c457`（Introducing GPTs） |
+| 7 | Cursor | 0.45 release on 2025-01-23 | 2025-01-23 | <https://cursor.com/changelog/0-45-x> | `Releases/Cursor/cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228`（.cursor/rules, Better Codebase Understanding, New Tab Model） |
+| 8 | Cursor | Cursor 1.0 on 2025-06-04 | 2025-06-04 | <https://cursor.com/changelog/1-0> | `Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca`（Bugbot, Background Agent access to everyone, and one-click MCP install） |
+| 9 | Cursor | 2025-06-12 release | 2025-06-12 | <https://cursor.com/changelog/1-1> | `Releases/Cursor/cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc`（Background Agents in Slack） |
+| 10 | Cursor | 2026-02-17 release | 2026-02-17 | <https://cursor.com/changelog/2-5> | `Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320`（Plugins, Sandbox Access Controls, and Async Subagents） |
+| 11 | Cursor | 2026-03-03 release | 2026-03-03 | <https://cursor.com/changelog/2-6> | `Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3`（MCP Apps and Team Marketplaces for Plugins） |
+| 12 | Claude Code | v2.0.73 on 2025-12-19 | 2025-12-19 | <https://github.com/anthropics/claude-code/releases/tag/v2.0.73> | `Releases/Claude Code/claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9`（v2.0.73） |
+| 13 | Claude Code | v2.1.16 on 2026-01-22 | 2026-01-22 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.16> | `Releases/Claude Code/claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428`（v2.1.16） |
+| 14 | Claude Code | v2.1.198 on 2026-07-01 | 2026-07-01 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.198> | `Releases/Claude Code/claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab`（v2.1.198） |
+| 15 | Claude Code | v2.1.287 on 2026-10-01 | 2026-10-01 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.287> | `Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87`（v2.1.287） |
+
+判定：
+
+### T5 · context-window（Context Window，新增）
+
+页面：`Themes/context-window.md`；description：“Research question: how much material can each product bring into a conversation, and how does it handle the limit?”
+
+**渲染全文：**
+
+> **Research question: how much material can each product bring into a conversation, and how does it handle the limit?**
+>
+> ChatGPT's [2026-02-13 update](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats) ([[Releases/ChatGPT/chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0|archived]]) raises attachments to 20 files per message (previously 10), and the [2026-02-20 note](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#expanded-context-window-for-thinking) ([[Releases/ChatGPT/chatgpt-2026-02-20-expanded-context-window-for-thinking-31f2c4c2|archived]]) sets a total context window of 256k tokens (128k input and 128k maximum output) when users manually select Thinking, up from 196k total tokens. The [2026-03-25 note](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments) ([[Releases/ChatGPT/chatgpt-2026-03-25-large-pastes-are-now-handled-as-attachments-6bacf64e|archived]]) converts pastes over 5k characters into attachments for Plus, Pro and Business users so that large pastes do not consume the whole context window, and the [2026-06-22 note](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments-for-more-plans) ([[Releases/ChatGPT/chatgpt-2026-06-22-large-pastes-are-now-handled-as-attachments-for-more-plans-64db97b0|archived]]) extends this to Free and Go users at a 10k-character threshold.
+>
+> Cursor's [Codebase Context v1 on 2023-06-06](https://cursor.com/changelog/0-2-26) ([[Releases/Cursor/cursor-2023-06-06-0-2-26-https-cursor-com-changelog-0-2-26-1b7664cb|archived]]) brings context from the full codebase into chat responses, and the [2024-04-01 Long Context Chat beta](https://cursor.com/changelog/0-31-x) ([[Releases/Cursor/cursor-2024-04-01-0-31-x-https-cursor-com-changelog-0-31-x-f88ca4c9|archived]]) lets users talk with many files at once. The [2025-05-15 release](https://cursor.com/changelog/0-50) ([[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|archived]]) lets @folders add an entire codebase to context, the [2025-07-29 release](https://cursor.com/changelog/1-3) ([[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|archived]]) shows how much of the context window a conversation uses, and the [2025-09-12 release](https://cursor.com/changelog/1-6) ([[Releases/Cursor/cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea|archived]]) adds on-demand summarization alongside automatic summarization at the context-window limit. [Cursor Projects on 2026-09-10](https://cursor.com/changelog/projects) ([[Releases/Cursor/cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75|archived]]) keep a shared set of files that every agent in a project can read and extend.
+>
+> Claude Code's [v2.1.7 on 2026-01-14](https://github.com/anthropics/claude-code/releases/tag/v2.1.7) ([[Releases/Claude Code/claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80|archived]]) defers MCP tool descriptions to a search tool by default once they exceed 10% of the context window, and [v2.1.51 on 2026-02-24](https://github.com/anthropics/claude-code/releases/tag/v2.1.51) ([[Releases/Claude Code/claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c|archived]]) persists tool results over 50K characters to disk to reduce context window usage. [v2.1.197 on 2026-06-30](https://github.com/anthropics/claude-code/releases/tag/v2.1.197) ([[Releases/Claude Code/claude-code-2026-06-30-v2-1-197-github-346856026-11e4aa1f|archived]]) makes Claude Sonnet 5, with a native 1M-token context window, the default model, and [v2.1.247 on 2026-08-26](https://github.com/anthropics/claude-code/releases/tag/v2.1.247) ([[Releases/Claude Code/claude-code-2026-08-26-v2-1-247-github-377320078-fc507178|archived]]) sets Sonnet 5's default auto-compact window to that full 1M context.
+>
+> **Uncertainty and scope:** the record covers the three tracked products only and Claude Code coverage starts on 2025-12-19; token limits, file counts and summarization rules are each product's own measures under plan and model qualifications, so these figures do not compare capacity across products.
+
+**引用：**
+
+| # | 产品 | 链接文字 | Release 日期 | 官方来源 | 归档 Release |
+| --- | --- | --- | --- | --- | --- |
+| 1 | ChatGPT | 2026-02-13 update | 2026-02-13 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats> | `Releases/ChatGPT/chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0`（ChatGPT updates: Better file uploads, easier copying, and more reliable long chats） |
+| 2 | ChatGPT | 2026-02-20 note | 2026-02-20 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#expanded-context-window-for-thinking> | `Releases/ChatGPT/chatgpt-2026-02-20-expanded-context-window-for-thinking-31f2c4c2`（Expanded context window for Thinking） |
+| 3 | ChatGPT | 2026-03-25 note | 2026-03-25 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments> | `Releases/ChatGPT/chatgpt-2026-03-25-large-pastes-are-now-handled-as-attachments-6bacf64e`（Large pastes are now handled as attachments） |
+| 4 | ChatGPT | 2026-06-22 note | 2026-06-22 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments-for-more-plans> | `Releases/ChatGPT/chatgpt-2026-06-22-large-pastes-are-now-handled-as-attachments-for-more-plans-64db97b0`（Large pastes are now handled as attachments for more plans） |
+| 5 | Cursor | Codebase Context v1 on 2023-06-06 | 2023-06-06 | <https://cursor.com/changelog/0-2-26> | `Releases/Cursor/cursor-2023-06-06-0-2-26-https-cursor-com-changelog-0-2-26-1b7664cb`（Codebase Context v1） |
+| 6 | Cursor | 2024-04-01 Long Context Chat beta | 2024-04-01 | <https://cursor.com/changelog/0-31-x> | `Releases/Cursor/cursor-2024-04-01-0-31-x-https-cursor-com-changelog-0-31-x-f88ca4c9`（Long Context Chat Beta） |
+| 7 | Cursor | 2025-05-15 release | 2025-05-15 | <https://cursor.com/changelog/0-50> | `Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998`（Simplified Pricing, Background Agent and Refreshed Inline Edit） |
+| 8 | Cursor | 2025-07-29 release | 2025-07-29 | <https://cursor.com/changelog/1-3> | `Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3`（Shared terminal with Agent, context usage in chat, and faster edits） |
+| 9 | Cursor | 2025-09-12 release | 2025-09-12 | <https://cursor.com/changelog/1-6> | `Releases/Cursor/cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea`（Slash commands, summarization, and improved Agent terminal） |
+| 10 | Cursor | Cursor Projects on 2026-09-10 | 2026-09-10 | <https://cursor.com/changelog/projects> | `Releases/Cursor/cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75`（Cursor Projects） |
+| 11 | Claude Code | v2.1.7 on 2026-01-14 | 2026-01-14 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.7> | `Releases/Claude Code/claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80`（v2.1.7） |
+| 12 | Claude Code | v2.1.51 on 2026-02-24 | 2026-02-24 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.51> | `Releases/Claude Code/claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c`（v2.1.51） |
+| 13 | Claude Code | v2.1.197 on 2026-06-30 | 2026-06-30 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.197> | `Releases/Claude Code/claude-code-2026-06-30-v2-1-197-github-346856026-11e4aa1f`（v2.1.197） |
+| 14 | Claude Code | v2.1.247 on 2026-08-26 | 2026-08-26 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.247> | `Releases/Claude Code/claude-code-2026-08-26-v2-1-247-github-377320078-fc507178`（v2.1.247） |
+
+判定：
+
+### T6 · memory（Memory and Personalization，新增）
+
+页面：`Themes/memory.md`；description：“Research question: what do the tracked products remember between sessions, and how do users control it?”
+
+**渲染全文：**
+
+> **Research question: what do the tracked products remember between sessions, and how do users control it?**
+>
+> ChatGPT's [2023-07-20 custom instructions beta](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-instructions-are-rolling-out-in-beta) ([[Releases/ChatGPT/chatgpt-2023-07-20-custom-instructions-are-rolling-out-in-beta-bf9360b9|archived]]) lets users set preferences once to steer future conversations. The [2024-02-13 memory test](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-and-new-controls-for-chatgpt) ([[Releases/ChatGPT/chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded|archived]]) remembers things discussed across all chats; users can tell ChatGPT what to remember or forget, ask what it remembers, or turn memory off. The [2025-05-08 note](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#enhanced-memory-in-chatgpt-including-eu-on-pluspro) ([[Releases/ChatGPT/chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35|archived]]) rolls out enhanced memory, enabled through the Reference Chat History setting and off by default, to all Plus and Pro users including the EU; the [2025-08-22 note](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-only-memory) ([[Releases/ChatGPT/chatgpt-2025-08-22-project-only-memory-3424a221|archived]]) adds project-only memory, which keeps a project's context inside that project; and the [2025-10-15 note](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-can-now-automatically-manage-saved-memories-so-its-even-better-at-remembering-whats-important-to-you) ([[Releases/ChatGPT/chatgpt-2025-10-15-chatgpt-can-now-automatically-manage-saved-memories-so-it-s-even-00bd082a|archived]]) has ChatGPT manage saved memories automatically by keeping the most relevant details prioritized.
+>
+> Cursor's [1.0 release on 2025-06-04](https://cursor.com/changelog/1-0) ([[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|archived]]) introduces Memories as a beta: Cursor remembers facts from conversations, stored per project for each individual. The [2025-07-03 release](https://cursor.com/changelog/1-2) ([[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|archived]]) makes Memories generally available with user approval for background-generated memories, and the [2026-03-05 Automations release](https://cursor.com/changelog/03-05-26) ([[Releases/Cursor/cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422|archived]]) gives automation agents a memory tool that learns from past runs.
+>
+> Claude Code's [v2.1.32 on 2026-02-05](https://github.com/anthropics/claude-code/releases/tag/v2.1.32) ([[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|archived]]) has Claude record and recall memories automatically as it works, [v2.1.33 on 2026-02-06](https://github.com/anthropics/claude-code/releases/tag/v2.1.33) ([[Releases/Claude Code/claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0|archived]]) adds a `memory` frontmatter field that gives agents persistent memory at user, project or local scope, and [v2.1.59 on 2026-02-26](https://github.com/anthropics/claude-code/releases/tag/v2.1.59) ([[Releases/Claude Code/claude-code-2026-02-26-v2-1-59-github-290659389-9e2d6217|archived]]) saves useful context to auto-memory, managed with `/memory`.
+>
+> **Uncertainty and scope:** the record covers the three tracked products only, Claude Code coverage starts on 2025-12-19 and ChatGPT memory rollouts vary by plan and region; the theme also collects personalization settings and unrelated uses of “memory” such as RAM use, and the announcements do not measure what a product retains or how reliably it recalls it.
+
+**引用：**
+
+| # | 产品 | 链接文字 | Release 日期 | 官方来源 | 归档 Release |
+| --- | --- | --- | --- | --- | --- |
+| 1 | ChatGPT | 2023-07-20 custom instructions beta | 2023-07-20 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-instructions-are-rolling-out-in-beta> | `Releases/ChatGPT/chatgpt-2023-07-20-custom-instructions-are-rolling-out-in-beta-bf9360b9`（Custom instructions are rolling out in beta） |
+| 2 | ChatGPT | 2024-02-13 memory test | 2024-02-13 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-and-new-controls-for-chatgpt> | `Releases/ChatGPT/chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded`（Memory and new controls for ChatGPT） |
+| 3 | ChatGPT | 2025-05-08 note | 2025-05-08 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#enhanced-memory-in-chatgpt-including-eu-on-pluspro> | `Releases/ChatGPT/chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35`（Enhanced Memory in ChatGPT (including EU) on Plus/Pro） |
+| 4 | ChatGPT | 2025-08-22 note | 2025-08-22 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-only-memory> | `Releases/ChatGPT/chatgpt-2025-08-22-project-only-memory-3424a221`（Project-only memory） |
+| 5 | ChatGPT | 2025-10-15 note | 2025-10-15 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-can-now-automatically-manage-saved-memories-so-its-even-better-at-remembering-whats-important-to-you> | `Releases/ChatGPT/chatgpt-2025-10-15-chatgpt-can-now-automatically-manage-saved-memories-so-it-s-even-00bd082a`（ChatGPT can now automatically manage saved memories so it’s even better at remembering what’s important to you.） |
+| 6 | Cursor | 1.0 release on 2025-06-04 | 2025-06-04 | <https://cursor.com/changelog/1-0> | `Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca`（Bugbot, Background Agent access to everyone, and one-click MCP install） |
+| 7 | Cursor | 2025-07-03 release | 2025-07-03 | <https://cursor.com/changelog/1-2> | `Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d`（Agent Planning, Better Context & Faster Tab） |
+| 8 | Cursor | 2026-03-05 Automations release | 2026-03-05 | <https://cursor.com/changelog/03-05-26> | `Releases/Cursor/cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422`（Automations） |
+| 9 | Claude Code | v2.1.32 on 2026-02-05 | 2026-02-05 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.32> | `Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0`（v2.1.32） |
+| 10 | Claude Code | v2.1.33 on 2026-02-06 | 2026-02-06 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.33> | `Releases/Claude Code/claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0`（v2.1.33） |
+| 11 | Claude Code | v2.1.59 on 2026-02-26 | 2026-02-26 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.59> | `Releases/Claude Code/claude-code-2026-02-26-v2-1-59-github-290659389-9e2d6217`（v2.1.59） |
+
+判定：
+
+### T7 · safety-privacy（Safety and Privacy，新增）
+
+页面：`Themes/safety-privacy.md`；description：“Research question: which safeguards and privacy controls do the tracked products add, and for whom?”
+
+**渲染全文：**
+
+> **Research question: which safeguards and privacy controls do the tracked products add, and for whom?**
+>
+> ChatGPT's [2023-08-28 Enterprise launch](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-enterprise) ([[Releases/ChatGPT/chatgpt-2023-08-28-introducing-chatgpt-enterprise-eb7127e6|archived]]) offers enterprise-grade security and privacy. The [2025-09-29 note](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls) ([[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|archived]]) rolls out parental controls globally, with teen accounts connected to a parent's account, and the [2026-01-20 note](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#rolling-out-age-prediction) ([[Releases/ChatGPT/chatgpt-2026-01-20-rolling-out-age-prediction-2382655a|archived]]) adds an age prediction model on consumer plans that estimates whether an account likely belongs to someone under 18. [Lockdown Mode on 2026-06-04](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#lockdown-mode-is-now-available-to-all-logged-in-users) ([[Releases/ChatGPT/chatgpt-2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-f7dcb357|archived]]) becomes available to all logged-in users as an opt-in setting that limits web and external-service access to reduce the risk of data exfiltration from prompt injection, and the [2026-09-21 Privacy Center](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#privacy-center-in-chatgpt) ([[Releases/ChatGPT/chatgpt-2026-09-21-privacy-center-in-chatgpt-ecef9fba|archived]]) gathers information about chat privacy, memory, data use, connected apps and account security for Free, Go, Plus and Pro users.
+>
+> Cursor's [2023-04-16 release](https://cursor.com/changelog/0-2-4) ([[Releases/Cursor/cursor-2023-04-16-0-2-4-https-cursor-com-changelog-0-2-4-1ed55ed8|archived]]) adds Ghost mode for opting out of storing any kind of data on Cursor's servers. The [2025-09-29 release](https://cursor.com/changelog/1-7) ([[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|archived]]) runs non-allowlisted commands in a sandbox with read/write access to the workspace and no internet access, which [Cursor 2.0 on 2025-10-29](https://cursor.com/changelog/2-0) ([[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|archived]]) makes the default for agent commands on macOS, and the [2026-02-17 release](https://cursor.com/changelog/2-5) ([[Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320|archived]]) adds granular network and filesystem access controls to the sandbox. The [2026-04-30 release](https://cursor.com/changelog/04-30-26) ([[Releases/Cursor/cursor-2026-04-30-cursor-security-review-https-cursor-com-changelog-04-30-26-640898b1|archived]]) adds a Security Reviewer, in beta for Teams and Enterprise, that checks every pull request for security vulnerabilities, privacy and data-handling risks and prompt injection.
+>
+> Claude Code's [v2.1.83 on 2026-03-25](https://github.com/anthropics/claude-code/releases/tag/v2.1.83) ([[Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317|archived]]) adds a setting that strips Anthropic and cloud-provider credentials from subprocess environments, and [v2.1.136 on 2026-05-08](https://github.com/anthropics/claude-code/releases/tag/v2.1.136) ([[Releases/Claude Code/claude-code-2026-05-08-v2-1-136-github-319609716-58f21368|archived]]) adds auto mode classifier rules that block actions unconditionally. [v2.1.187 on 2026-06-23](https://github.com/anthropics/claude-code/releases/tag/v2.1.187) ([[Releases/Claude Code/claude-code-2026-06-23-v2-1-187-github-343665388-744f9775|archived]]) blocks sandboxed commands from reading credential files and secret environment variables, [v2.1.200 on 2026-07-03](https://github.com/anthropics/claude-code/releases/tag/v2.1.200) ([[Releases/Claude Code/claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d|archived]]) renames the “default” permission mode to “Manual”, and [v2.1.284 on 2026-09-28](https://github.com/anthropics/claude-code/releases/tag/v2.1.284) ([[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|archived]]) starts interactive terminal and VS Code sessions in auto mode when no permission mode is configured, on every plan and provider.
+>
+> **Uncertainty and scope:** the record covers the three tracked products only and Claude Code coverage starts on 2025-12-19; the controls serve different users, from families and workspace admins to developers running agents, and rollouts vary by plan and region, so the announcements neither measure how well a safeguard works nor compare protection across products.
+
+**引用：**
+
+| # | 产品 | 链接文字 | Release 日期 | 官方来源 | 归档 Release |
+| --- | --- | --- | --- | --- | --- |
+| 1 | ChatGPT | 2023-08-28 Enterprise launch | 2023-08-28 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-enterprise> | `Releases/ChatGPT/chatgpt-2023-08-28-introducing-chatgpt-enterprise-eb7127e6`（Introducing ChatGPT Enterprise） |
+| 2 | ChatGPT | 2025-09-29 note | 2025-09-29 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls> | `Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a`（Parental Controls） |
+| 3 | ChatGPT | 2026-01-20 note | 2026-01-20 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#rolling-out-age-prediction> | `Releases/ChatGPT/chatgpt-2026-01-20-rolling-out-age-prediction-2382655a`（Rolling out age prediction） |
+| 4 | ChatGPT | Lockdown Mode on 2026-06-04 | 2026-06-04 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#lockdown-mode-is-now-available-to-all-logged-in-users> | `Releases/ChatGPT/chatgpt-2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-f7dcb357`（Lockdown Mode is now available to all logged-in users） |
+| 5 | ChatGPT | 2026-09-21 Privacy Center | 2026-09-21 | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes#privacy-center-in-chatgpt> | `Releases/ChatGPT/chatgpt-2026-09-21-privacy-center-in-chatgpt-ecef9fba`（Privacy Center in ChatGPT） |
+| 6 | Cursor | 2023-04-16 release | 2023-04-16 | <https://cursor.com/changelog/0-2-4> | `Releases/Cursor/cursor-2023-04-16-0-2-4-https-cursor-com-changelog-0-2-4-1ed55ed8`（Chat Scrolling & Ghost Mode (2023-04-16)） |
+| 7 | Cursor | 2025-09-29 release | 2025-09-29 | <https://cursor.com/changelog/1-7> | `Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae`（Browser Controls, Plan Mode, and Hooks） |
+| 8 | Cursor | Cursor 2.0 on 2025-10-29 | 2025-10-29 | <https://cursor.com/changelog/2-0> | `Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e`（New Coding Model and Agent Interface） |
+| 9 | Cursor | 2026-02-17 release | 2026-02-17 | <https://cursor.com/changelog/2-5> | `Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320`（Plugins, Sandbox Access Controls, and Async Subagents） |
+| 10 | Cursor | 2026-04-30 release | 2026-04-30 | <https://cursor.com/changelog/04-30-26> | `Releases/Cursor/cursor-2026-04-30-cursor-security-review-https-cursor-com-changelog-04-30-26-640898b1`（Cursor Security Review） |
+| 11 | Claude Code | v2.1.83 on 2026-03-25 | 2026-03-25 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.83> | `Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317`（v2.1.83） |
+| 12 | Claude Code | v2.1.136 on 2026-05-08 | 2026-05-08 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.136> | `Releases/Claude Code/claude-code-2026-05-08-v2-1-136-github-319609716-58f21368`（v2.1.136） |
+| 13 | Claude Code | v2.1.187 on 2026-06-23 | 2026-06-23 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.187> | `Releases/Claude Code/claude-code-2026-06-23-v2-1-187-github-343665388-744f9775`（v2.1.187） |
+| 14 | Claude Code | v2.1.200 on 2026-07-03 | 2026-07-03 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.200> | `Releases/Claude Code/claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d`（v2.1.200） |
+| 15 | Claude Code | v2.1.284 on 2026-09-28 | 2026-09-28 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.284> | `Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49`（v2.1.284） |
+
+判定：
+
+## 二、产品定位与 Era（3 个产品）
+
+### P1 · ChatGPT（口吻改写；Era 日期与 Release 不变；新增定位）
+
+**定位（页面 description 与头部）：** “OpenAI's conversational AI assistant, tracked through the official ChatGPT release notes in the OpenAI Help Center.”
+
+**渲染头部：**
+
+> # ChatGPT
+>
+> OpenAI's conversational AI assistant, tracked through the official ChatGPT release notes in the OpenAI Help Center. · 292 releases · 2022-12-15 → 2026-10-07 · [[About|coverage details]]
+
+**渲染全文（Eras 区：narrative + eras）：**
+
+> ChatGPT's tracked history moves from a conversational interface to tool use, multimodal and persistent context, and finally delegated work; each boundary below follows a dated announcement rather than release volume.
+>
+> ### Conversation quality and paid access (2022-12-15 → 2023-03-22)
+>
+> The early record emphasizes answer quality, saved conversations and access. ChatGPT Plus added early access and model selection on 2023-02-09. The result is a conversational product with differentiated access before the tracked plugin announcement.
+>
+> Representative releases:
+>
+> - 2022-12-15: [Performance updates to ChatGPT](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [[Releases/ChatGPT/chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d|Archived release]]
+> - 2023-02-09: [Introducing ChatGPT Plus](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [[Releases/ChatGPT/chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524|Archived release]]
+>
+> ### Tools extend the conversation (2023-03-23 → 2023-09-24)
+>
+> Experimental plugins introduced browsing, Python computation and third-party services on 2023-03-23. Code Interpreter's later beta rollout turns uploaded files into inputs for computational work. The boundary is access to tools rather than a newer model.
+>
+> Representative releases:
+>
+> - 2023-03-23: [Introducing plugins in ChatGPT](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|Archived release]]
+> - 2023-07-06: [Code interpreter is now rolling out in beta on web](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [[Releases/ChatGPT/chatgpt-2023-07-06-code-interpreter-is-now-rolling-out-in-beta-on-web-427b9bc0|Archived release]]
+>
+> ### Multimodal interaction and persistent context (2023-09-25 → 2025-01-13)
+>
+> Voice and image input, announced on 2023-09-25, change how users provide context. The memory test later carries information between conversations with user controls, and GPT-4o broadens the model experience; together they are related interface and context shifts.
+>
+> Representative releases:
+>
+> - 2023-09-25: [New voice and image capabilities in ChatGPT](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [[Releases/ChatGPT/chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7|Archived release]]
+> - 2024-02-13: [Memory and new controls for ChatGPT](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [[Releases/ChatGPT/chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded|Archived release]]
+> - 2024-05-13: [Introducing GPT-4o](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [[Releases/ChatGPT/chatgpt-2024-05-13-introducing-gpt-4o-0a0709f8|Archived release]]
+>
+> ### Work can start later and repeat (2025-01-14 → 2026-07-08)
+>
+> Scheduled Tasks entered beta on 2025-01-14 with reminders and recurring actions at a future time. The trigger moves from an immediate conversation to scheduled execution.
+>
+> Representative releases:
+>
+> - 2025-01-14: [Scheduled tasks in ChatGPT](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [[Releases/ChatGPT/chatgpt-2025-01-14-scheduled-tasks-in-chatgpt-b8005b4a|Archived release]]
+>
+> ### Delegated work and ongoing agents (2026-07-09 → present)
+>
+> ChatGPT Work, announced on 2026-07-09, explicitly handles longer tasks across apps and files and produces finished deliverables, with progress visibility and approvals. September's dots announcement adds ongoing goals on a cloud computer. Access is staged and conditional.
+>
+> Representative releases:
+>
+> - 2026-07-09: [Introducing ChatGPT Work](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|Archived release]]
+> - 2026-09-29: [Meet your dot](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [[Releases/ChatGPT/chatgpt-2026-09-29-meet-your-dot-8b9f914b|Archived release]]
+>
+> **Scope:** Dates are changelog announcement dates, not universal availability dates, and rollouts differ by plan, region, device and admin policy; the archive begins on 2022-12-15 and does not establish the product's launch date, and the selected turning points claim neither that one phase replaced all capabilities of another, that every feature reached everyone at a boundary, nor that scheduled or delegated work is a general autonomous agent with measured completion quality or unattended reliability.
+
+**引用（代表 Release）：**
+
+| Era | 日期 | Release 标题 | 官方来源 | 归档 Release |
+| --- | --- | --- | --- | --- |
+| Conversation quality and paid access (2022-12-15 → 2023-03-22) | 2022-12-15 | Performance updates to ChatGPT | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes> | `Releases/ChatGPT/chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d` |
+| Conversation quality and paid access (2022-12-15 → 2023-03-22) | 2023-02-09 | Introducing ChatGPT Plus | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes> | `Releases/ChatGPT/chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524` |
+| Tools extend the conversation (2023-03-23 → 2023-09-24) | 2023-03-23 | Introducing plugins in ChatGPT | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes> | `Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8` |
+| Tools extend the conversation (2023-03-23 → 2023-09-24) | 2023-07-06 | Code interpreter is now rolling out in beta on web | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes> | `Releases/ChatGPT/chatgpt-2023-07-06-code-interpreter-is-now-rolling-out-in-beta-on-web-427b9bc0` |
+| Multimodal interaction and persistent context (2023-09-25 → 2025-01-13) | 2023-09-25 | New voice and image capabilities in ChatGPT | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes> | `Releases/ChatGPT/chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7` |
+| Multimodal interaction and persistent context (2023-09-25 → 2025-01-13) | 2024-02-13 | Memory and new controls for ChatGPT | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes> | `Releases/ChatGPT/chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded` |
+| Multimodal interaction and persistent context (2023-09-25 → 2025-01-13) | 2024-05-13 | Introducing GPT-4o | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes> | `Releases/ChatGPT/chatgpt-2024-05-13-introducing-gpt-4o-0a0709f8` |
+| Work can start later and repeat (2025-01-14 → 2026-07-08) | 2025-01-14 | Scheduled tasks in ChatGPT | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes> | `Releases/ChatGPT/chatgpt-2025-01-14-scheduled-tasks-in-chatgpt-b8005b4a` |
+| Delegated work and ongoing agents (2026-07-09 → present) | 2026-07-09 | Introducing ChatGPT Work | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes> | `Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272` |
+| Delegated work and ongoing agents (2026-07-09 → present) | 2026-09-29 | Meet your dot | <https://help.openai.com/en/articles/6825453-chatgpt-release-notes> | `Releases/ChatGPT/chatgpt-2026-09-29-meet-your-dot-8b9f914b` |
+
+判定：
+
+### P2 · Cursor（新增）
+
+**定位（页面 description 与头部）：** “AI code editor built on a fork of VSCodium, with local and cloud coding agents, tracked through the official Cursor changelog.”
+
+**渲染头部：**
+
+> # Cursor
+>
+> AI code editor built on a fork of VSCodium, with local and cloud coding agents, tracked through the official Cursor changelog. · 255 releases · 2023-03-14 → 2026-10-13 · [[About|coverage details]]
+
+**渲染全文（Eras 区：narrative + eras）：**
+
+> Cursor's tracked history moves from an AI-assisted code editor to multi-file Composer and an in-editor agent, then to background and cloud agents, and finally to automations, an SDK and long-running projects; each boundary below follows a dated changelog announcement.
+>
+> ### AI pair-programming editor (2023-03-14 → 2024-07-12)
+>
+> The earliest archived release, 0.0.37, lists edits of any length and Windows and Linux support. Cursor 0.2.0 moved the product onto a fork of VSCodium with the stated goal of an IDE optimized for pair-programming with AI. The Copilot++ beta of 2023-11-10 suggests diffs around the cursor from recent edits, so assistance extends from requested edits to predicted ones.
+>
+> Representative releases:
+>
+> - 2023-03-14: [v0.0.37 (2023-03-14)](https://cursor.com/changelog/0-0-37) · [[Releases/Cursor/cursor-2023-03-14-0-0-37-https-cursor-com-changelog-0-0-37-236c8006|Archived release]]
+> - 2023-04-06: [Introducing Cursor 0.2.0! (2023-04-06)](https://cursor.com/changelog/0-2-0) · [[Releases/Cursor/cursor-2023-04-06-0-2-0-https-cursor-com-changelog-0-2-0-2dbfe24a|Archived release]]
+> - 2023-11-10: [New models, Copilot++ beta](https://cursor.com/changelog/0-15-0-0-15-1) · [[Releases/Cursor/cursor-2023-11-10-0-15-0-0-15-1-https-cursor-com-changelog-0-15-0-0-15-1-9dc9cadb|Archived release]]
+>
+> ### Composer and the in-editor agent (2024-07-13 → 2025-05-14)
+>
+> Composer arrived on 2024-07-13 as an experimental multi-file editing feature. Version 0.43 added an early agent in Composer that picks its own context and uses the terminal, and 0.46 made Agent the default mode, unifying Chat, Composer and Agent in one interface.
+>
+> Representative releases:
+>
+> - 2024-07-13: [Composer (beta)](https://cursor.com/changelog/0-37-x) · [[Releases/Cursor/cursor-2024-07-13-0-37-x-https-cursor-com-changelog-0-37-x-eb934a21|Archived release]]
+> - 2024-11-24: [New Composer UI, Agent, Commit Messages](https://cursor.com/changelog/0-43-x) · [[Releases/Cursor/cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492|Archived release]]
+> - 2025-02-19: [Agent is ready and UI refresh](https://cursor.com/changelog/0-46-x) · [[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|Archived release]]
+>
+> ### Background agents (2025-05-15 → 2025-10-28)
+>
+> Background Agent arrived in early preview on 2025-05-15 for parallel task execution in remote environments. Cursor 1.0 expanded it to all users with privacy mode disabled, and 1.1 lets teams launch these agents from Slack threads, where they read the thread and open GitHub pull requests.
+>
+> Representative releases:
+>
+> - 2025-05-15: [Simplified Pricing, Background Agent and Refreshed Inline Edit](https://cursor.com/changelog/0-50) · [[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|Archived release]]
+> - 2025-06-04: [Bugbot, Background Agent access to everyone, and one-click MCP install](https://cursor.com/changelog/1-0) · [[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|Archived release]]
+> - 2025-06-12: [Background Agents in Slack](https://cursor.com/changelog/1-1) · [[Releases/Cursor/cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc|Archived release]]
+>
+> ### Own coding model and cloud agents (2025-10-29 → 2026-03-04)
+>
+> Cursor 2.0 introduced a coding model also named Composer, described as Cursor's first agentic coding model, and an editor that runs up to eight agents in parallel on isolated copies of the codebase. Long-running agents (research preview, 2026-02-12) plan first and work over longer horizons, and cloud agents with computer use (2026-02-24) run in isolated VMs and return pull requests with videos, screenshots and logs.
+>
+> Representative releases:
+>
+> - 2025-10-29: [New Coding Model and Agent Interface](https://cursor.com/changelog/2-0) · [[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|Archived release]]
+> - 2026-02-12: [Long-running Agents in Research Preview](https://cursor.com/changelog/02-12-26) · [[Releases/Cursor/cursor-2026-02-12-long-running-agents-in-research-preview-https-cursor-com-changel-2b95c718|Archived release]]
+> - 2026-02-24: [Cloud Agents with Computer Use](https://cursor.com/changelog/02-24-26) · [[Releases/Cursor/cursor-2026-02-24-cloud-agents-with-computer-use-https-cursor-com-changelog-02-24-252fc429|Archived release]]
+>
+> ### Automations, SDK and projects (2026-03-05 → present)
+>
+> Automations arrived on 2026-03-05 as always-on agents triggered by schedules or by events from Slack, Linear, GitHub, PagerDuty and webhooks. The Cursor SDK (public beta, 2026-04-29) exposes the same agent runtime to TypeScript programs, and Cursor Projects (2026-09-10) adds a coordinator agent that plans work, delegates it to subagents and keeps shared context over months.
+>
+> Representative releases:
+>
+> - 2026-03-05: [Automations](https://cursor.com/changelog/03-05-26) · [[Releases/Cursor/cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422|Archived release]]
+> - 2026-04-29: [Build programmatic agents with the Cursor SDK](https://cursor.com/changelog/sdk-release) · [[Releases/Cursor/cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3|Archived release]]
+> - 2026-09-10: [Cursor Projects](https://cursor.com/changelog/projects) · [[Releases/Cursor/cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75|Archived release]]
+>
+> **Scope:** Dates are changelog announcement dates, rollouts vary by plan, privacy mode and platform, and names are reused (Composer names both a 2024 editing feature and a 2025 coding model), so each era marks a selected turning point rather than the end of earlier capabilities or the moment every user received the new one.
+
+**引用（代表 Release）：**
+
+| Era | 日期 | Release 标题 | 官方来源 | 归档 Release |
+| --- | --- | --- | --- | --- |
+| AI pair-programming editor (2023-03-14 → 2024-07-12) | 2023-03-14 | v0.0.37 (2023-03-14) | <https://cursor.com/changelog/0-0-37> | `Releases/Cursor/cursor-2023-03-14-0-0-37-https-cursor-com-changelog-0-0-37-236c8006` |
+| AI pair-programming editor (2023-03-14 → 2024-07-12) | 2023-04-06 | Introducing Cursor 0.2.0! (2023-04-06) | <https://cursor.com/changelog/0-2-0> | `Releases/Cursor/cursor-2023-04-06-0-2-0-https-cursor-com-changelog-0-2-0-2dbfe24a` |
+| AI pair-programming editor (2023-03-14 → 2024-07-12) | 2023-11-10 | New models, Copilot++ beta | <https://cursor.com/changelog/0-15-0-0-15-1> | `Releases/Cursor/cursor-2023-11-10-0-15-0-0-15-1-https-cursor-com-changelog-0-15-0-0-15-1-9dc9cadb` |
+| Composer and the in-editor agent (2024-07-13 → 2025-05-14) | 2024-07-13 | Composer (beta) | <https://cursor.com/changelog/0-37-x> | `Releases/Cursor/cursor-2024-07-13-0-37-x-https-cursor-com-changelog-0-37-x-eb934a21` |
+| Composer and the in-editor agent (2024-07-13 → 2025-05-14) | 2024-11-24 | New Composer UI, Agent, Commit Messages | <https://cursor.com/changelog/0-43-x> | `Releases/Cursor/cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492` |
+| Composer and the in-editor agent (2024-07-13 → 2025-05-14) | 2025-02-19 | Agent is ready and UI refresh | <https://cursor.com/changelog/0-46-x> | `Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10` |
+| Background agents (2025-05-15 → 2025-10-28) | 2025-05-15 | Simplified Pricing, Background Agent and Refreshed Inline Edit | <https://cursor.com/changelog/0-50> | `Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998` |
+| Background agents (2025-05-15 → 2025-10-28) | 2025-06-04 | Bugbot, Background Agent access to everyone, and one-click MCP install | <https://cursor.com/changelog/1-0> | `Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca` |
+| Background agents (2025-05-15 → 2025-10-28) | 2025-06-12 | Background Agents in Slack | <https://cursor.com/changelog/1-1> | `Releases/Cursor/cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc` |
+| Own coding model and cloud agents (2025-10-29 → 2026-03-04) | 2025-10-29 | New Coding Model and Agent Interface | <https://cursor.com/changelog/2-0> | `Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e` |
+| Own coding model and cloud agents (2025-10-29 → 2026-03-04) | 2026-02-12 | Long-running Agents in Research Preview | <https://cursor.com/changelog/02-12-26> | `Releases/Cursor/cursor-2026-02-12-long-running-agents-in-research-preview-https-cursor-com-changel-2b95c718` |
+| Own coding model and cloud agents (2025-10-29 → 2026-03-04) | 2026-02-24 | Cloud Agents with Computer Use | <https://cursor.com/changelog/02-24-26> | `Releases/Cursor/cursor-2026-02-24-cloud-agents-with-computer-use-https-cursor-com-changelog-02-24-252fc429` |
+| Automations, SDK and projects (2026-03-05 → present) | 2026-03-05 | Automations | <https://cursor.com/changelog/03-05-26> | `Releases/Cursor/cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422` |
+| Automations, SDK and projects (2026-03-05 → present) | 2026-04-29 | Build programmatic agents with the Cursor SDK | <https://cursor.com/changelog/sdk-release> | `Releases/Cursor/cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3` |
+| Automations, SDK and projects (2026-03-05 → present) | 2026-09-10 | Cursor Projects | <https://cursor.com/changelog/projects> | `Releases/Cursor/cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75` |
+
+判定：
+
+### P3 · Claude Code（新增）
+
+**定位（页面 description 与头部）：** “Anthropic's coding agent for the terminal and IDEs, tracked through its official GitHub releases from v2.0.73 (2025-12-19).”
+
+**渲染头部：**
+
+> # Claude Code
+>
+> Anthropic's coding agent for the terminal and IDEs, tracked through its official GitHub releases from v2.0.73 (2025-12-19). · 243 releases · 2025-12-19 → 2026-10-14 · [[About|coverage details]]
+
+**渲染全文（Eras 区：narrative + eras）：**
+
+> Claude Code's archived history, which starts at v2.0.73 on 2025-12-19, moves from an interactive terminal agent with plugins, skills and experimental agent teams to auto mode and dynamic workflows that run many agents in the background, and most recently to mods that let plugins change deeper client behavior.
+>
+> ### Interactive agent, plugins and agent teams (2025-12-19 → 2026-04-15)
+>
+> The first archived releases already show plugins, skills and agents; v2.0.74 added an LSP tool for go-to-definition, find references and hover documentation. v2.1.32 (2026-02-05) brought Claude Opus 4.6, a research-preview agent teams feature for multi-agent collaboration and automatic memories, and v2.1.51 (2026-02-24) added the `claude remote-control` subcommand for serving the local environment.
+>
+> Representative releases:
+>
+> - 2025-12-19: [v2.0.74](https://github.com/anthropics/claude-code/releases/tag/v2.0.74) · [[Releases/Claude Code/claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10|Archived release]]
+> - 2026-02-05: [v2.1.32](https://github.com/anthropics/claude-code/releases/tag/v2.1.32) · [[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|Archived release]]
+> - 2026-02-24: [v2.1.51](https://github.com/anthropics/claude-code/releases/tag/v2.1.51) · [[Releases/Claude Code/claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c|Archived release]]
+>
+> ### Auto mode and dynamic workflows (2026-04-16 → 2026-09-30)
+>
+> Auto mode became available to Max subscribers using Opus 4.7 on 2026-04-16 and no longer required a launch flag. Dynamic workflows (v2.1.154, 2026-05-28) let Claude orchestrate tens to hundreds of agents in the background, and v2.1.207 (2026-07-11) made auto mode available without opt-in on Bedrock, Vertex AI and Foundry.
+>
+> Representative releases:
+>
+> - 2026-04-16: [v2.1.111](https://github.com/anthropics/claude-code/releases/tag/v2.1.111) · [[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|Archived release]]
+> - 2026-05-28: [v2.1.154](https://github.com/anthropics/claude-code/releases/tag/v2.1.154) · [[Releases/Claude Code/claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9|Archived release]]
+> - 2026-07-11: [v2.1.207](https://github.com/anthropics/claude-code/releases/tag/v2.1.207) · [[Releases/Claude Code/claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91|Archived release]]
+>
+> ### Mods extend the client (2026-10-01 → present)
+>
+> Claude Mods arrived in v2.1.287 on 2026-10-01: plugins may now modify deeper behavior, starting with a built-in mod in which a side agent flags things the user or Claude might miss. Following releases add mod interfaces such as prompt caching for `$.model.complete` (v2.1.292) and native notifications through `$.ui.notify` (v2.1.295).
+>
+> Representative releases:
+>
+> - 2026-10-01: [v2.1.287](https://github.com/anthropics/claude-code/releases/tag/v2.1.287) · [[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|Archived release]]
+> - 2026-10-06: [v2.1.292](https://github.com/anthropics/claude-code/releases/tag/v2.1.292) · [[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab|Archived release]]
+> - 2026-10-08: [v2.1.295](https://github.com/anthropics/claude-code/releases/tag/v2.1.295) · [[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|Archived release]]
+>
+> **Scope:** Coverage starts with GitHub release v2.0.73 on 2025-12-19, so plugins, skills and agents that already existed then have no archived launch date, and dates are release dates whose features may be gated by plan, provider, opt-in setting or research-preview status; the most recent era spans only the last two weeks of the archive.
+
+**引用（代表 Release）：**
+
+| Era | 日期 | Release 标题 | 官方来源 | 归档 Release |
+| --- | --- | --- | --- | --- |
+| Interactive agent, plugins and agent teams (2025-12-19 → 2026-04-15) | 2025-12-19 | v2.0.74 | <https://github.com/anthropics/claude-code/releases/tag/v2.0.74> | `Releases/Claude Code/claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10` |
+| Interactive agent, plugins and agent teams (2025-12-19 → 2026-04-15) | 2026-02-05 | v2.1.32 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.32> | `Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0` |
+| Interactive agent, plugins and agent teams (2025-12-19 → 2026-04-15) | 2026-02-24 | v2.1.51 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.51> | `Releases/Claude Code/claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c` |
+| Auto mode and dynamic workflows (2026-04-16 → 2026-09-30) | 2026-04-16 | v2.1.111 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.111> | `Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78` |
+| Auto mode and dynamic workflows (2026-04-16 → 2026-09-30) | 2026-05-28 | v2.1.154 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.154> | `Releases/Claude Code/claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9` |
+| Auto mode and dynamic workflows (2026-04-16 → 2026-09-30) | 2026-07-11 | v2.1.207 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.207> | `Releases/Claude Code/claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91` |
+| Mods extend the client (2026-10-01 → present) | 2026-10-01 | v2.1.287 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.287> | `Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87` |
+| Mods extend the client (2026-10-01 → present) | 2026-10-06 | v2.1.292 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.292> | `Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab` |
+| Mods extend the client (2026-10-01 → present) | 2026-10-08 | v2.1.295 | <https://github.com/anthropics/claude-code/releases/tag/v2.1.295> | `Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510` |
+
+判定：
+
+## 三、Key moments 策展清单
+
+### K1 · agent-mode（14 个）
+
+| # | 日期 | 产品 | kind | 标题 | card_id |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 2023-07-06 | Cursor | change | [Agents, new docs](../../../Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas.md) | `cursor-2023-07-06-d7057e` |
+| 2 | 2025-02-19 | Cursor | change | [Agent is ready: Agent is now the default mode, bringing a more powerful and unified…](../../../Changes/Cursor/2025-02-19-agent-is-ready-agent-is-now-the-default-mode-bringing-a-more-powerful-and-unifie.md) | `cursor-2025-02-19-a82ae4` |
+| 3 | 2025-05-15 | Cursor | launch | [Background Agent (Preview)](../../../Changes/Cursor/2025-05-15-background-agent-preview.md) | `cursor-2025-05-15-b63aab` |
+| 4 | 2025-06-04 | Cursor | launch | [Background Agent for everyone](../../../Changes/Cursor/2025-06-04-background-agent-for-everyone-8b35dc.md) | `cursor-2025-06-04-8b35dc` |
+| 5 | 2025-09-29 | ChatGPT | launch | [ChatGPT introduces Instant Checkout and the Agentic Commerce Protocol that powers…](../../../Changes/ChatGPT/2025-09-29-we-re-introducing-instant-checkout-in-chatgpt-and-the-agentic-commerce-protocol-8cbf19.md) | `chatgpt-2025-09-29-8cbf19` |
+| 6 | 2025-10-29 | Cursor | launch | [Multi-Agents](../../../Changes/Cursor/2025-10-29-multi-agents-bb4f56.md) | `cursor-2025-10-29-bb4f56` |
+| 7 | 2026-01-22 | Cursor | launch | [Subagents](../../../Changes/Cursor/2026-01-22-subagents.md) | `cursor-2026-01-22-66b299` |
+| 8 | 2026-04-16 | Claude Code | change | [Auto mode no longer requires --enable-auto-mode](../../../Changes/Claude%20Code/2026-04-16-auto-mode-no-longer-requires-enable-auto-mode.md) | `claude-code-2026-04-16-fccb21` |
+| 9 | 2026-05-28 | Claude Code | launch | [Introducing dynamic workflows](../../../Changes/Claude%20Code/2026-05-28-introducing-dynamic-workflows-ask-claude-to-create-a-workflow-and-it-orchestrate.md) | `claude-code-2026-05-28-dfaf75` |
+| 10 | 2026-06-10 | Claude Code | change | [Sub-agents can now spawn their own sub-agents (up to 5 levels deep)](../../../Changes/Claude%20Code/2026-06-10-sub-agents-can-now-spawn-their-own-sub-agents-up-to-5-levels-deep.md) | `claude-code-2026-06-10-78521c` |
+| 11 | 2026-07-09 | ChatGPT | change | [ChatGPT Work is an agent for longer, more involved tasks](../../../Changes/ChatGPT/2026-07-09-chatgpt-work-is-an-agent-for-longer-more-involved-tasks-it-can-research-and-anal.md) | `chatgpt-2026-07-09-ad1325` |
+| 12 | 2026-07-11 | Claude Code | expansion | [Auto mode is now available without CLAUDE_CODE_ENABLE_AUTO_MODE opt-in on Bedrock…](../../../Changes/Claude%20Code/2026-07-11-auto-mode-is-now-available-without-claude-code-enable-auto-mode-opt-in-on-bedroc.md) | `claude-code-2026-07-11-7ba039` |
+| 13 | 2026-09-10 | Cursor | launch | [Powered by Cloud Agents](../../../Changes/Cursor/2026-09-10-a-project-runs-on-its-own-computer-in-the-cloud-so-closing-your-laptop-doesn-t-s.md) | `cursor-2026-09-10-2aba56` |
+| 14 | 2026-09-29 | ChatGPT | launch | [ChatGPT introduces dots](../../../Changes/ChatGPT/2026-09-29-we-re-introducing-dots-always-on-agents-in-chatgpt-that-can-take-on-ongoing-work-24bef5.md) | `chatgpt-2026-09-29-24bef5` |
+
+渲染后的 Key moments 表格（主题页 `moments` 区）：
+
+> | Quarter | ChatGPT | Claude Code | Cursor |
+> | --- | --- | --- | --- |
+> | 2026 Q3 | 2026-09-29 [[Changes/ChatGPT/2026-09-29-we-re-introducing-dots-always-on-agents-in-chatgpt-that-can-take-on-ongoing-work-24bef5\|ChatGPT introduces dots]]<br>2026-07-09 [[Changes/ChatGPT/2026-07-09-chatgpt-work-is-an-agent-for-longer-more-involved-tasks-it-can-research-and-anal\|ChatGPT Work is an agent for longer, more involved tasks]] | 2026-07-11 [[Changes/Claude Code/2026-07-11-auto-mode-is-now-available-without-claude-code-enable-auto-mode-opt-in-on-bedroc\|Auto mode is now available without CLAUDE_CODE_ENABLE_AUTO_MODE opt-in on Bedrock…]] | 2026-09-10 [[Changes/Cursor/2026-09-10-a-project-runs-on-its-own-computer-in-the-cloud-so-closing-your-laptop-doesn-t-s\|Powered by Cloud Agents]] |
+> | 2026 Q2 | · | 2026-06-10 [[Changes/Claude Code/2026-06-10-sub-agents-can-now-spawn-their-own-sub-agents-up-to-5-levels-deep\|Sub-agents can now spawn their own sub-agents (up to 5 levels deep)]]<br>2026-05-28 [[Changes/Claude Code/2026-05-28-introducing-dynamic-workflows-ask-claude-to-create-a-workflow-and-it-orchestrate\|Introducing dynamic workflows]]<br>2026-04-16 [[Changes/Claude Code/2026-04-16-auto-mode-no-longer-requires-enable-auto-mode\|Auto mode no longer requires --enable-auto-mode]] | · |
+> | 2026 Q1 | · | · | 2026-01-22 [[Changes/Cursor/2026-01-22-subagents\|Subagents]] |
+> | 2025 Q4 | · | · | 2025-10-29 [[Changes/Cursor/2025-10-29-multi-agents-bb4f56\|Multi-Agents]] |
+> | 2025 Q3 | 2025-09-29 [[Changes/ChatGPT/2025-09-29-we-re-introducing-instant-checkout-in-chatgpt-and-the-agentic-commerce-protocol-8cbf19\|ChatGPT introduces Instant Checkout and the Agentic Commerce Protocol that powers…]] | · | · |
+> | 2025 Q2 | · | · | 2025-06-04 [[Changes/Cursor/2025-06-04-background-agent-for-everyone-8b35dc\|Background Agent for everyone]]<br>2025-05-15 [[Changes/Cursor/2025-05-15-background-agent-preview\|Background Agent (Preview)]] |
+> | 2025 Q1 | · | · | 2025-02-19 [[Changes/Cursor/2025-02-19-agent-is-ready-agent-is-now-the-default-mode-bringing-a-more-powerful-and-unifie\|Agent is ready: Agent is now the default mode, bringing a more powerful and unified…]] |
+> | 2023 Q3 | · | · | 2023-07-06 [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas\|Agents, new docs]] |
+
+判定：
+
+### K2 · pricing-model（13 个）
+
+| # | 日期 | 产品 | kind | 标题 | card_id |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 2022-12-15 | ChatGPT | policy | [Daily limit: To ensure a high-quality experience for all ChatGPT users, we…](../../../Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp.md) | `chatgpt-2022-12-15-6d306d` |
+| 2 | 2023-02-13 | ChatGPT | pricing | [We rolled out the ability to purchase ChatGPT Plus internationally](../../../Changes/ChatGPT/2023-02-13-we-rolled-out-the-ability-to-purchase-chatgpt-plus-internationally.md) | `chatgpt-2023-02-13-d327ff` |
+| 3 | 2023-03-27 | Cursor | policy | [Adds an optional paid plan if you'd like to avoid the server capacity rate limits](../../../Changes/Cursor/2023-03-27-adds-an-optional-paid-plan-if-you-d-like-to-avoid-the-server-capacity-rate-limit.md) | `cursor-2023-03-27-65c59e` |
+| 4 | 2023-11-03 | Cursor | policy | [Pro++ plan: if you hit your fast request limit and prefer to purchase more, you now can](../../../Changes/Cursor/2023-11-03-pro-plan-if-you-hit-your-fast-request-limit-and-prefer-to-purchase-more-you-now.md) | `cursor-2023-11-03-268faa` |
+| 5 | 2025-05-15 | Cursor | pricing | [Simpler, unified pricing](../../../Changes/Cursor/2025-05-15-simpler-unified-pricing-6a915c.md) | `cursor-2025-05-15-6a915c` |
+| 6 | 2025-08-18 | ChatGPT | launch | [ChatGPT launches ChatGPT Go, a new low-cost subscription plan](../../../Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially-e5f740.md) | `chatgpt-2025-08-18-e5f740` |
+| 7 | 2026-03-19 | Cursor | pricing | [Fast (default): $1.50/M input, $7.50/M output tokens](../../../Changes/Cursor/2026-03-19-fast-default-1-50-m-input-7-50-m-output-tokens.md) | `cursor-2026-03-19-425e73` |
+| 8 | 2026-04-09 | ChatGPT | launch | [We’re introducing a new $100/month Pro plan and updating how Codex usage works…](../../../Changes/ChatGPT/2026-04-09-we-re-introducing-a-new-100-month-pro-plan-and-updating-how-codex-usage-works-ac.md) | `chatgpt-2026-04-09-441673` |
+| 9 | 2026-05-19 | Claude Code | pricing | [Renamed "extra usage" to "usage credits" across CLI copy](../../../Changes/Claude%20Code/2026-05-19-renamed-extra-usage-to-usage-credits-across-cli-copy-extra-usage-is-now-usage-cr.md) | `claude-code-2026-05-19-3cdb1c` |
+| 10 | 2026-07-28 | Cursor | launch | [Cursor introduces Cursor Start, a new ₹649 monthly plan for developers in India…](../../../Changes/Cursor/2026-07-28-we-re-introducing-cursor-start-a-new-649-monthly-plan-for-developers-in-india-ma.md) | `cursor-2026-07-28-50e16f` |
+| 11 | 2026-08-27 | Claude Code | policy | [Added /usage-credits for Enterprise organizations billed through AWS Marketplace…](../../../Changes/Claude%20Code/2026-08-27-added-usage-credits-for-enterprise-organizations-billed-through-aws-marketplace.md) | `claude-code-2026-08-27-1c826e` |
+| 12 | 2026-09-29 | ChatGPT | launch | [A new Pro plan with Astra Ultrafast](../../../Changes/ChatGPT/2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o-e04989.md) | `chatgpt-2026-09-29-e04989` |
+| 13 | 2026-10-09 | Claude Code | pricing | [Updated /cost, the status line, --max-budget-usd and the SDK's cost figures…](../../../Changes/Claude%20Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price.md) | `claude-code-2026-10-09-9252d3` |
+
+渲染后的 Key moments 表格（主题页 `moments` 区）：
+
+> | Quarter | ChatGPT | Claude Code | Cursor |
+> | --- | --- | --- | --- |
+> | 2026 Q4 | · | 2026-10-09 [[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price\|Updated /cost, the status line, --max-budget-usd and the SDK's cost figures…]] | · |
+> | 2026 Q3 | 2026-09-29 [[Changes/ChatGPT/2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o-e04989\|A new Pro plan with Astra Ultrafast]] | 2026-08-27 [[Changes/Claude Code/2026-08-27-added-usage-credits-for-enterprise-organizations-billed-through-aws-marketplace\|Added /usage-credits for Enterprise organizations billed through AWS Marketplace…]] | 2026-07-28 [[Changes/Cursor/2026-07-28-we-re-introducing-cursor-start-a-new-649-monthly-plan-for-developers-in-india-ma\|Cursor introduces Cursor Start, a new ₹649 monthly plan for developers in India…]] |
+> | 2026 Q2 | 2026-04-09 [[Changes/ChatGPT/2026-04-09-we-re-introducing-a-new-100-month-pro-plan-and-updating-how-codex-usage-works-ac\|We’re introducing a new $100/month Pro plan and updating how Codex usage works…]] | 2026-05-19 [[Changes/Claude Code/2026-05-19-renamed-extra-usage-to-usage-credits-across-cli-copy-extra-usage-is-now-usage-cr\|Renamed "extra usage" to "usage credits" across CLI copy]] | · |
+> | 2026 Q1 | · | · | 2026-03-19 [[Changes/Cursor/2026-03-19-fast-default-1-50-m-input-7-50-m-output-tokens\|Fast (default): $1.50/M input, $7.50/M output tokens]] |
+> | 2025 Q3 | 2025-08-18 [[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially-e5f740\|ChatGPT launches ChatGPT Go, a new low-cost subscription plan]] | · | · |
+> | 2025 Q2 | · | · | 2025-05-15 [[Changes/Cursor/2025-05-15-simpler-unified-pricing-6a915c\|Simpler, unified pricing]] |
+> | 2023 Q4 | · | · | 2023-11-03 [[Changes/Cursor/2023-11-03-pro-plan-if-you-hit-your-fast-request-limit-and-prefer-to-purchase-more-you-now\|Pro++ plan: if you hit your fast request limit and prefer to purchase more, you now can]] |
+> | 2023 Q1 | 2023-02-13 [[Changes/ChatGPT/2023-02-13-we-rolled-out-the-ability-to-purchase-chatgpt-plus-internationally\|We rolled out the ability to purchase ChatGPT Plus internationally]] | · | 2023-03-27 [[Changes/Cursor/2023-03-27-adds-an-optional-paid-plan-if-you-d-like-to-avoid-the-server-capacity-rate-limit\|Adds an optional paid plan if you'd like to avoid the server capacity rate limits]] |
+> | 2022 Q4 | 2022-12-15 [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp\|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]] | · | · |
+
+判定：

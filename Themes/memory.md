@@ -1,9 +1,9 @@
 ---
 created: '2023-07-20'
 date: '2026-10-14'
-description: Cross-product timeline of Memory and Personalization changes in ChatGPT,
-  Claude Code and Cursor.
-machine_hash: eac045716bb2bcc0858f9380da91a38179df5d779b4697bd9d31333a1cbfc89a
+description: 'Research question: what do the tracked products remember between sessions,
+  and how do users control it?'
+machine_hash: 3b1d97147d46db31da42bb71d10a489277ff71ddeda7a41f50e4c81b5d693ef0
 modified: '2026-10-14'
 products_involved:
 - ChatGPT
@@ -26,7 +26,15 @@ title: Memory and Personalization
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->
-Explore the dated evidence below.
+**Research question: what do the tracked products remember between sessions, and how do users control it?**
+
+ChatGPT's [2023-07-20 custom instructions beta](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-instructions-are-rolling-out-in-beta) ([[Releases/ChatGPT/chatgpt-2023-07-20-custom-instructions-are-rolling-out-in-beta-bf9360b9|archived]]) lets users set preferences once to steer future conversations. The [2024-02-13 memory test](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-and-new-controls-for-chatgpt) ([[Releases/ChatGPT/chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded|archived]]) remembers things discussed across all chats; users can tell ChatGPT what to remember or forget, ask what it remembers, or turn memory off. The [2025-05-08 note](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#enhanced-memory-in-chatgpt-including-eu-on-pluspro) ([[Releases/ChatGPT/chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35|archived]]) rolls out enhanced memory, enabled through the Reference Chat History setting and off by default, to all Plus and Pro users including the EU; the [2025-08-22 note](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-only-memory) ([[Releases/ChatGPT/chatgpt-2025-08-22-project-only-memory-3424a221|archived]]) adds project-only memory, which keeps a project's context inside that project; and the [2025-10-15 note](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-can-now-automatically-manage-saved-memories-so-its-even-better-at-remembering-whats-important-to-you) ([[Releases/ChatGPT/chatgpt-2025-10-15-chatgpt-can-now-automatically-manage-saved-memories-so-it-s-even-00bd082a|archived]]) has ChatGPT manage saved memories automatically by keeping the most relevant details prioritized.
+
+Cursor's [1.0 release on 2025-06-04](https://cursor.com/changelog/1-0) ([[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|archived]]) introduces Memories as a beta: Cursor remembers facts from conversations, stored per project for each individual. The [2025-07-03 release](https://cursor.com/changelog/1-2) ([[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|archived]]) makes Memories generally available with user approval for background-generated memories, and the [2026-03-05 Automations release](https://cursor.com/changelog/03-05-26) ([[Releases/Cursor/cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422|archived]]) gives automation agents a memory tool that learns from past runs.
+
+Claude Code's [v2.1.32 on 2026-02-05](https://github.com/anthropics/claude-code/releases/tag/v2.1.32) ([[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|archived]]) has Claude record and recall memories automatically as it works, [v2.1.33 on 2026-02-06](https://github.com/anthropics/claude-code/releases/tag/v2.1.33) ([[Releases/Claude Code/claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0|archived]]) adds a `memory` frontmatter field that gives agents persistent memory at user, project or local scope, and [v2.1.59 on 2026-02-26](https://github.com/anthropics/claude-code/releases/tag/v2.1.59) ([[Releases/Claude Code/claude-code-2026-02-26-v2-1-59-github-290659389-9e2d6217|archived]]) saves useful context to auto-memory, managed with `/memory`.
+
+**Uncertainty and scope:** the record covers the three tracked products only, Claude Code coverage starts on 2025-12-19 and ChatGPT memory rollouts vary by plan and region; the theme also collects personalization settings and unrelated uses of “memory” such as RAM use, and the announcements do not measure what a product retains or how reliably it recalls it.
 <!-- chronolog:end -->
 
 ## Key moments

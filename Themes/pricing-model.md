@@ -2,7 +2,7 @@
 created: '2022-12-15'
 date: '2026-10-09'
 description: 'Research question: what is being charged for, and what does a plan unlock?'
-machine_hash: ac33eb90b85012b10d854bee2eb06ff6ee116121b07bf1537be0a8a67bb7124f
+machine_hash: 05d4115466a61b772835c80ed75f691ab15f40a47004125d551a8ef952921b15
 modified: '2026-10-09'
 products_involved:
 - ChatGPT
@@ -27,27 +27,28 @@ title: Pricing Model
 <!-- chronolog:begin region="narrative" -->
 **Research question: what is being charged for, and what does a plan unlock?**
 
-Cursor's [2025-05-15 announcement](https://cursor.com/changelog/0-50) distinguishes request-based ordinary usage from token-based Max Mode and says plan quotas were unchanged at that time. It is a dated mechanism change, not a current price list.
+Cursor's [2025-05-15 announcement](https://cursor.com/changelog/0-50) ([[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|archived]]) distinguishes request-based ordinary usage from token-based Max Mode and states that plan quotas were unchanged at that time, a dated change of mechanism.
 
-ChatGPT's [2026-04-09 Pro changes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options) introduce a $100/month Pro option alongside $200/month Pro and describe usage allowances. The [2026-09-29 Pro 500 announcement](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-new-pro-plan-with-astra-ultrafast) adds a $500/month tier and gates Ultrafast to that tier: buying credits on Pro 100 or Pro 200 does not unlock it. Included allowances and purchased credits are distinct from feature eligibility.
+ChatGPT's [2026-04-09 Pro changes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options) ([[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|archived]]) introduce a $100/month Pro option alongside $200/month Pro and describe usage allowances. The [2026-09-29 Pro 500 announcement](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-new-pro-plan-with-astra-ultrafast) ([[Releases/ChatGPT/chatgpt-2026-09-29-a-new-pro-plan-with-astra-ultrafast-f0c84e90|archived]]) adds a $500/month tier and gates Ultrafast to that tier: buying credits on Pro 100 or Pro 200 does not unlock it. Included allowances and purchased credits are distinct from feature eligibility.
 
-Claude Code's [v2.1.296](https://github.com/anthropics/claude-code/releases/tag/v2.1.296) updates displayed Sonnet 5.5 cache-read cost figures from $0.20 to $0.10 per million tokens in cost reporting and budget controls. A client cost-accounting update is not evidence of a new Claude subscription price or of every user's billed price.
+Claude Code's [v2.1.296 on 2026-10-09](https://github.com/anthropics/claude-code/releases/tag/v2.1.296) ([[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|archived]]) updates displayed Sonnet 5.5 cache-read cost figures from $0.20 to $0.10 per million tokens in cost reporting and budget controls, a client-side cost-accounting update.
 
-**Uncertainty and scope:** tracked-products-only. Subscriptions, requests, token metering, credits and client cost estimates are different mechanisms. Prices are historical statements with plan and rollout qualifications. This evidence does not support “one product followed another,” universal price comparisons, or claims about current invoices. References to shopping prices are outside this theme unless they change the AI product's own charging mechanism.
+**Uncertainty and scope:** the record covers the three tracked products only and treats subscriptions, requests, token metering, credits and client cost estimates as different mechanisms; prices are historical statements with plan and rollout qualifications, so this evidence does not support “one product followed another,” universal price comparisons, claims about current price lists or invoices, a new Claude subscription price or every user's billed price, and shopping prices fall outside this theme unless they change the AI product's own charging mechanism.
 <!-- chronolog:end -->
 
 ## Key moments
 <!-- chronolog:begin region="moments" -->
-Auto-selected; edit `key_moments` in editorial.yaml to curate.
-
 | Quarter | ChatGPT | Claude Code | Cursor |
 | --- | --- | --- | --- |
+| 2026 Q4 | · | 2026-10-09 [[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price\|Updated /cost, the status line, --max-budget-usd and the SDK's cost figures…]] | · |
 | 2026 Q3 | 2026-09-29 [[Changes/ChatGPT/2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o-e04989\|A new Pro plan with Astra Ultrafast]] | 2026-08-27 [[Changes/Claude Code/2026-08-27-added-usage-credits-for-enterprise-organizations-billed-through-aws-marketplace\|Added /usage-credits for Enterprise organizations billed through AWS Marketplace…]] | 2026-07-28 [[Changes/Cursor/2026-07-28-we-re-introducing-cursor-start-a-new-649-monthly-plan-for-developers-in-india-ma\|Cursor introduces Cursor Start, a new ₹649 monthly plan for developers in India…]] |
-| 2026 Q2 | 2026-04-09 [[Changes/ChatGPT/2026-04-09-we-re-introducing-a-new-100-month-pro-plan-and-updating-how-codex-usage-works-ac\|We’re introducing a new $100/month Pro plan and updating how Codex usage works…]] | · | · |
-| 2025 Q4 | 2025-10-30 [[Changes/ChatGPT/2025-10-30-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-44be9d\|ChatGPT Go, our low cost subscription plan, is now available in 8 additional…]]<br>2025-10-14 [[Changes/ChatGPT/2025-10-14-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-d58cbb\|ChatGPT Go, our low cost subscription plan, is now available in 71 additional…]]<br>2025-10-08 [[Changes/ChatGPT/2025-10-08-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now\|ChatGPT Go, our low cost subscription plan, is now available in 16 additional countries]] | · | · |
+| 2026 Q2 | 2026-04-09 [[Changes/ChatGPT/2026-04-09-we-re-introducing-a-new-100-month-pro-plan-and-updating-how-codex-usage-works-ac\|We’re introducing a new $100/month Pro plan and updating how Codex usage works…]] | 2026-05-19 [[Changes/Claude Code/2026-05-19-renamed-extra-usage-to-usage-credits-across-cli-copy-extra-usage-is-now-usage-cr\|Renamed "extra usage" to "usage credits" across CLI copy]] | · |
+| 2026 Q1 | · | · | 2026-03-19 [[Changes/Cursor/2026-03-19-fast-default-1-50-m-input-7-50-m-output-tokens\|Fast (default): $1.50/M input, $7.50/M output tokens]] |
 | 2025 Q3 | 2025-08-18 [[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially-e5f740\|ChatGPT launches ChatGPT Go, a new low-cost subscription plan]] | · | · |
-| 2025 Q2 | · | · | 2025-05-15 [[Changes/Cursor/2025-05-15-introducing-unified-request-based-pricing-max-mode-for-all-top-models-and-backgr\|Introducing unified request-based pricing, Max Mode for all top models…]] |
-| 2025 Q1 | · | · | 2025-03-23 [[Changes/Cursor/2025-03-23-this-release-introduces-chat-tabs-for-parallel-conversations-a-redesignedmodes-s\|Cursor introduces chat tabs for parallel conversations, a redesignedmodes system…]] |
+| 2025 Q2 | · | · | 2025-05-15 [[Changes/Cursor/2025-05-15-simpler-unified-pricing-6a915c\|Simpler, unified pricing]] |
+| 2023 Q4 | · | · | 2023-11-03 [[Changes/Cursor/2023-11-03-pro-plan-if-you-hit-your-fast-request-limit-and-prefer-to-purchase-more-you-now\|Pro++ plan: if you hit your fast request limit and prefer to purchase more, you now can]] |
+| 2023 Q1 | 2023-02-13 [[Changes/ChatGPT/2023-02-13-we-rolled-out-the-ability-to-purchase-chatgpt-plus-internationally\|We rolled out the ability to purchase ChatGPT Plus internationally]] | · | 2023-03-27 [[Changes/Cursor/2023-03-27-adds-an-optional-paid-plan-if-you-d-like-to-avoid-the-server-capacity-rate-limit\|Adds an optional paid plan if you'd like to avoid the server capacity rate limits]] |
+| 2022 Q4 | 2022-12-15 [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp\|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]] | · | · |
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="scope" -->

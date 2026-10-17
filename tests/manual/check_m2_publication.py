@@ -95,7 +95,8 @@ def audit(vault, site, base_url=None):
     for product, count in product_counts.items():
         display = next(v['product_name'] for v in changes.values() if v['product']==product)
         content = index['Products/'+display.replace(' ','-')]['content']
-        assert f'{count} tracked changes.' in content
+        # Title of the collapsed change list: "All tracked changes (1,320 cards)".
+        assert f'All tracked changes ({count:,} card' in content, product
     for theme,count in theme_counts.items():
         if theme in HOLDING_THEMES:  # "Other changes" cards have no theme page
             assert 'Themes/'+theme not in index, theme

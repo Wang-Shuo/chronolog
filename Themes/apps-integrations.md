@@ -1,9 +1,9 @@
 ---
 created: '2023-03-23'
 date: '2026-10-14'
-description: Cross-product timeline of Apps and Integrations changes in ChatGPT, Claude
-  Code and Cursor.
-machine_hash: f1983fcf0e884de8ba3338d5b3669ddc6cfa380166e4f8b2a5035985e27e03ca
+description: 'Research question: how do the tracked products connect to outside tools,
+  and in what unit do they package those connections?'
+machine_hash: 5c555fdc384e02df15699630215c812c35fd76b801468a77902b5d6cdc344d87
 modified: '2026-10-14'
 products_involved:
 - ChatGPT
@@ -26,7 +26,15 @@ title: Apps and Integrations
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->
-Explore the dated evidence below.
+**Research question: how do the tracked products connect to outside tools, and in what unit do they package those connections?**
+
+ChatGPT's [2023-03-23 plugins announcement](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt) ([[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|archived]]) introduces experimental plugins, tools designed for language models that access up-to-date information, run computations or use third-party services. The [2025-06-04 note](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-connectors-via-model-context-protocol-pro-team-enterprise-edu) ([[Releases/ChatGPT/chatgpt-2025-06-04-custom-connectors-via-model-context-protocol-pro-team-enterprise-a1bc36f5|archived]]) lets admins and users build and deploy custom connectors to proprietary systems using the Model Context Protocol (MCP), and the [2025-12-18 app directory](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-app-directory-in-chatgpt) ([[Releases/ChatGPT/chatgpt-2025-12-18-introducing-the-app-directory-in-chatgpt-c4ab90ba|archived]]) lists connectors as apps. The [2026-07-09 Work announcement](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work) ([[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|archived]]) replaces the App Directory with a Plugin Directory whose plugins package skills, apps and app templates, and the [2026-09-11 note](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#planned-custom-gpt-retirement-and-migration-to-plugins) ([[Releases/ChatGPT/chatgpt-2026-09-11-planned-custom-gpt-retirement-and-migration-to-plugins-05b21afb|archived]]) plans to retire custom GPTs, introduced on [2023-11-06](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpts) ([[Releases/ChatGPT/chatgpt-2023-11-06-introducing-gpts-3721c457|archived]]), with a migration path to plugins.
+
+Cursor's [0.45 release on 2025-01-23](https://cursor.com/changelog/0-45-x) ([[Releases/Cursor/cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228|archived]]) adds MCP support, and [Cursor 1.0 on 2025-06-04](https://cursor.com/changelog/1-0) ([[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|archived]]) adds one-click MCP setup with OAuth. The [2025-06-12 release](https://cursor.com/changelog/1-1) ([[Releases/Cursor/cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc|archived]]) lets teams launch Background Agents from Slack, where Cursor reads the whole thread before starting. The [2026-02-17 release](https://cursor.com/changelog/2-5) ([[Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320|archived]]) introduces plugins on the Cursor Marketplace, which package skills, subagents, MCP servers, hooks and rules into a single install, and the [2026-03-03 release](https://cursor.com/changelog/2-6) ([[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|archived]]) adds MCP Apps with interactive interfaces such as Figma diagrams inside Cursor.
+
+Claude Code's archive opens with a plugin marketplace in place: [v2.0.73 on 2025-12-19](https://github.com/anthropics/claude-code/releases/tag/v2.0.73) ([[Releases/Claude Code/claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9|archived]]) adds search filtering to the plugin discover screen. [v2.1.16 on 2026-01-22](https://github.com/anthropics/claude-code/releases/tag/v2.1.16) ([[Releases/Claude Code/claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428|archived]]) adds native plugin management to the VS Code extension, [v2.1.198 on 2026-07-01](https://github.com/anthropics/claude-code/releases/tag/v2.1.198) ([[Releases/Claude Code/claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab|archived]]) makes Claude in Chrome generally available, and [v2.1.287 on 2026-10-01](https://github.com/anthropics/claude-code/releases/tag/v2.1.287) ([[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|archived]]) adds Claude Mods, through which plugins may modify deeper behavior.
+
+**Uncertainty and scope:** the record covers the three tracked products only and Claude Code coverage starts on 2025-12-19, after its plugin system already existed, so shared words such as “plugin”, “app” and “connector” name each product's own packaging unit and do not indicate interoperable or equivalent integrations.
 <!-- chronolog:end -->
 
 ## Key moments

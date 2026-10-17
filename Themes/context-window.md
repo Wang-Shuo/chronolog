@@ -1,9 +1,9 @@
 ---
 created: '2023-05-04'
 date: '2026-10-14'
-description: Cross-product timeline of Context Window changes in ChatGPT, Claude Code
-  and Cursor.
-machine_hash: dc93fdb91cd640ed7ae99a9760796c48115844f3f0aa3f3c6d99c8d11974d55e
+description: 'Research question: how much material can each product bring into a conversation,
+  and how does it handle the limit?'
+machine_hash: 505737ef00171d8eaaf5cb4ee2b0414862661b5f261af88859e1a1194ae24d8e
 modified: '2026-10-14'
 products_involved:
 - ChatGPT
@@ -26,7 +26,15 @@ title: Context Window
 
 ## Research summary
 <!-- chronolog:begin region="narrative" -->
-Explore the dated evidence below.
+**Research question: how much material can each product bring into a conversation, and how does it handle the limit?**
+
+ChatGPT's [2026-02-13 update](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats) ([[Releases/ChatGPT/chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0|archived]]) raises attachments to 20 files per message (previously 10), and the [2026-02-20 note](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#expanded-context-window-for-thinking) ([[Releases/ChatGPT/chatgpt-2026-02-20-expanded-context-window-for-thinking-31f2c4c2|archived]]) sets a total context window of 256k tokens (128k input and 128k maximum output) when users manually select Thinking, up from 196k total tokens. The [2026-03-25 note](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments) ([[Releases/ChatGPT/chatgpt-2026-03-25-large-pastes-are-now-handled-as-attachments-6bacf64e|archived]]) converts pastes over 5k characters into attachments for Plus, Pro and Business users so that large pastes do not consume the whole context window, and the [2026-06-22 note](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments-for-more-plans) ([[Releases/ChatGPT/chatgpt-2026-06-22-large-pastes-are-now-handled-as-attachments-for-more-plans-64db97b0|archived]]) extends this to Free and Go users at a 10k-character threshold.
+
+Cursor's [Codebase Context v1 on 2023-06-06](https://cursor.com/changelog/0-2-26) ([[Releases/Cursor/cursor-2023-06-06-0-2-26-https-cursor-com-changelog-0-2-26-1b7664cb|archived]]) brings context from the full codebase into chat responses, and the [2024-04-01 Long Context Chat beta](https://cursor.com/changelog/0-31-x) ([[Releases/Cursor/cursor-2024-04-01-0-31-x-https-cursor-com-changelog-0-31-x-f88ca4c9|archived]]) lets users talk with many files at once. The [2025-05-15 release](https://cursor.com/changelog/0-50) ([[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|archived]]) lets @folders add an entire codebase to context, the [2025-07-29 release](https://cursor.com/changelog/1-3) ([[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|archived]]) shows how much of the context window a conversation uses, and the [2025-09-12 release](https://cursor.com/changelog/1-6) ([[Releases/Cursor/cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea|archived]]) adds on-demand summarization alongside automatic summarization at the context-window limit. [Cursor Projects on 2026-09-10](https://cursor.com/changelog/projects) ([[Releases/Cursor/cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75|archived]]) keep a shared set of files that every agent in a project can read and extend.
+
+Claude Code's [v2.1.7 on 2026-01-14](https://github.com/anthropics/claude-code/releases/tag/v2.1.7) ([[Releases/Claude Code/claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80|archived]]) defers MCP tool descriptions to a search tool by default once they exceed 10% of the context window, and [v2.1.51 on 2026-02-24](https://github.com/anthropics/claude-code/releases/tag/v2.1.51) ([[Releases/Claude Code/claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c|archived]]) persists tool results over 50K characters to disk to reduce context window usage. [v2.1.197 on 2026-06-30](https://github.com/anthropics/claude-code/releases/tag/v2.1.197) ([[Releases/Claude Code/claude-code-2026-06-30-v2-1-197-github-346856026-11e4aa1f|archived]]) makes Claude Sonnet 5, with a native 1M-token context window, the default model, and [v2.1.247 on 2026-08-26](https://github.com/anthropics/claude-code/releases/tag/v2.1.247) ([[Releases/Claude Code/claude-code-2026-08-26-v2-1-247-github-377320078-fc507178|archived]]) sets Sonnet 5's default auto-compact window to that full 1M context.
+
+**Uncertainty and scope:** the record covers the three tracked products only and Claude Code coverage starts on 2025-12-19; token limits, file counts and summarization rules are each product's own measures under plan and model qualifications, so these figures do not compare capacity across products.
 <!-- chronolog:end -->
 
 ## Key moments

@@ -12,12 +12,14 @@ def load_editorial(root: Path) -> dict[str, Any]:
 
 
 def attach_editorial(analysis: dict, releases: list[dict], editorial: dict) -> None:
+    """Attach product positioning, era narrative and the eras whose cited releases
+    are all in the run (an era with a missing release is left out)."""
     available = {r['release_id']: r for r in releases}
     for product, spec in editorial.get('products', {}).items():
         if product not in analysis['products']:
             continue
         eras = []
-        for era in spec['eras']:
+        for era in spec.get('eras', []):
             ids = era['releases']
             if not all(key in available for key in ids):
                 continue
@@ -26,7 +28,35 @@ def attach_editorial(analysis: dict, releases: list[dict], editorial: dict) -> N
                 {'release_id': r['release_id'], 'title': r['title'], 'date': r['date'],
                  'url': r['source_url']} for r in evidence]})
         analysis['products'][product].update(
-            eras=eras, narrative_summary=spec['summary'], narrative_limitations=spec['limitations'])
+            eras=eras, narrative_summary=spec.get('summary', ''),
+            narrative_limitations=spec.get('limitations', ''),
+            positioning=spec.get('positioning', ''))
+
+
+NARRATIVE_MISSING_RELEASE = 'narrative cites an archived release that is not in this run; not shown'
+RELEASE_LINK_RE = re.compile(r'\[\[(Releases/[^|\]]+)(?:\|[^\]]*)?\]\]')
+
+
+def theme_narratives(editorial: dict, releases: list[dict]) -> tuple[dict[str, str], list[dict[str, str]]]:
+    """Theme research summaries whose cited archived releases are all in the run.
+
+    A narrative links each claim to the official source and to the archived Release
+    page (``[[Releases/<Product>/<release_id>|archived]]``). Like a product era, a
+    narrative citing a release the run does not have is left out (the theme page falls
+    back to its default lead) and reported as an ``editorial_warnings`` entry.
+    """
+    available = {str(r['release_id']) for r in releases}
+    shown: dict[str, str] = {}
+    warnings: list[dict[str, str]] = []
+    for theme, text in (editorial.get('themes') or {}).items():
+        missing = sorted({target.rsplit('/', 1)[-1] for target in RELEASE_LINK_RE.findall(str(text))}
+                         - available)
+        if missing:
+            warnings.extend({'theme': str(theme), 'card_id': '', 'release_id': release_id,
+                             'reason': NARRATIVE_MISSING_RELEASE} for release_id in missing)
+            continue
+        shown[str(theme)] = str(text)
+    return shown, warnings
 
 
 KEY_MOMENT_UNKNOWN = 'not an active card of this theme; ignored'
