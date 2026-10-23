@@ -4,8 +4,8 @@ date: '2026-04-01'
 description: 'Claude Code · 2026-04-01 · Mobile and Desktop: PowerShell tool on Windows:
   external-command arguments containing both a double-quote and whitespace now prompt…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1114
   relation: same-theme-chronology

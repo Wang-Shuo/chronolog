@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 14d097fea4b3223ae6f4e40b408e1efa41afa2219a14cc4566e831c2dba62f5b
+machine_hash: 24a0d7660a8fc739ea2f2c11b8a2b04bfb08a006a09a7607e3f98bb350701aad
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   evidence:
   - quote: 'Stop generating: Based on your feedback, we''ve added the ability to stop
       generating ChatGPT''s response'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -55,13 +55,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Stop generating: Based on your feedback, we've added the ability to stop generating…
 
-**ChatGPT** · 2023-01-09 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-01-09-updates-to-chatgpt-0d776ee3|Updates to ChatGPT]]
+**ChatGPT** · 2023-01-09 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt) · from [[Releases/ChatGPT/chatgpt-2023-01-09-updates-to-chatgpt-0d776ee3|Updates to ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Stop generating: Based on your feedback, we've added the ability to stop generating ChatGPT's response
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -83,5 +83,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-01-09-254e7f&body=Card%3A%20Changes%2FChatGPT%2F2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin.md%0ACard%20ID%3A%20chatgpt-2023-01-09-254e7f%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-01-09-254e7f&body=Card%3A%20Changes%2FChatGPT%2F2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin.md%0ACard%20ID%3A%20chatgpt-2023-01-09-254e7f%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23updates-to-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

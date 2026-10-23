@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-10-09'
 description: 'ChatGPT release Adding Notion & Linear synced connectors on 2025-10-09:
   1 tracked change across Apps and Integrations'
-machine_hash: e73290649760e196688243f425de48b8eddd4e5a737f92a23e48ce5534f9dacf
+machine_hash: 44ad6c20092ecb71ddeefcdd99c85332fd9e6f2197a067c098e51982664d8392
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     your Connector settings (connect to Notion or Linear if you haven’t already, first).
     Once…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-notion-linear-synced-connectors
   title: Adding Notion & Linear synced connectors
   version: Adding Notion & Linear synced connectors
 release_id: chatgpt-2025-10-09-adding-notion-linear-synced-connectors-8b3828f2
 source_release: Adding Notion & Linear synced connectors
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-notion-linear-synced-connectors
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Adding Notion & Linear synced connectors
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Adding Notion & Linear synced connectors
 
-**ChatGPT** · 2025-10-09 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-10-09 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-notion-linear-synced-connectors)
 <!-- chronolog:end -->
 
 ## Summary

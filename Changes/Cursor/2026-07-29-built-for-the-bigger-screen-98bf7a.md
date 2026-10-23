@@ -5,8 +5,8 @@ description: 'Cursor · 2026-07-29 · Mobile and Desktop: The iPad layout is reb
   around the extra space. Sidebar chats stay pinned so you can watch several agents
   run at…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1233
   relation: same-theme-chronology

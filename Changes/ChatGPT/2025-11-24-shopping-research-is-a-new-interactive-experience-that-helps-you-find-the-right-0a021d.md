@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9cbe2d537274c01cf44af4d52648c89049daf02dab7e2a7e10f7de11b321909f
+machine_hash: d856042b95c8b38fd6ff138d0f45d59ba1e768c85f81d898cbe224a49b241788
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,7 +52,7 @@ record:
       on ChatGPT Web, iOS, and Android for logged‑in Free, Go, Plus, and Pro users.
       To help with holiday shopping, we’re making usage nearly unlimited across plans
       through the season. To learn more, visit the blog.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shopping-research-in-chatgpt
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -96,13 +96,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Shopping research in ChatGPT
 
-**ChatGPT** · 2025-11-24 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-11-24-shopping-research-in-chatgpt-1b8ce931|Shopping research in ChatGPT]]
+**ChatGPT** · 2025-11-24 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shopping-research-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2025-11-24-shopping-research-in-chatgpt-1b8ce931|Shopping research in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Shopping research is a new interactive experience that helps you find the right products without doing all the research yourself. Describe what you need—like a quiet cordless vacuum for a small apartment, a gift for a four‑year‑old who loves art, or a way to choose between three bikes—and ChatGPT will ask clarifying questions, research deeply across the internet, review quality sources, and build on ChatGPT’s understanding of you from past conversations and memory to return a personalized buyer’s guide with options, tradeoffs, and links to buy.ChatGPT learns what you like through an interactive interface allowing you to guide the research based on your real-time feedback.Shopping research is available on ChatGPT Web, iOS, and Android for logged‑in Free, Go, Plus, and Pro users. To help with holiday shopping, we’re making usage nearly unlimited across plans through the season. To learn more, visit the blog.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shopping-research-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -123,5 +123,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-11-24-0a021d&body=Card%3A%20Changes%2FChatGPT%2F2025-11-24-shopping-research-is-a-new-interactive-experience-that-helps-you-find-the-right-0a021d.md%0ACard%20ID%3A%20chatgpt-2025-11-24-0a021d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-11-24-0a021d&body=Card%3A%20Changes%2FChatGPT%2F2025-11-24-shopping-research-is-a-new-interactive-experience-that-helps-you-find-the-right-0a021d.md%0ACard%20ID%3A%20chatgpt-2025-11-24-0a021d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23shopping-research-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

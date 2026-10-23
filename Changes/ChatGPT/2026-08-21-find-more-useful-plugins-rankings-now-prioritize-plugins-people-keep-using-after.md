@@ -4,8 +4,8 @@ date: '2026-08-21'
 description: 'ChatGPT · 2026-08-21 · Mobile and Desktop: Find more useful plugins.
   Rankings now prioritize plugins people keep using after installation, helping relevant…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1256
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ee68f0e7b4dbca00996cf74da1a59013013febac8aa1ad4ed3827a01b38e7cd4
+machine_hash: e637094e2256d6a42268476ba7d19e20b0db066fd56e319b97dcc223c7a181c4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   - quote: Find more useful plugins. Rankings now prioritize plugins people keep using
       after installation, helping relevant options surface across ChatGPT on web and
       mobile.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-plugin-discovery-on-web-and-mobile
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -70,13 +70,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Find more useful plugins
 
-**ChatGPT** · 2026-08-21 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-21-improved-plugin-discovery-on-web-and-mobile-4a2c9c9b|Improved plugin discovery on web and mobile]]
+**ChatGPT** · 2026-08-21 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-plugin-discovery-on-web-and-mobile) · from [[Releases/ChatGPT/chatgpt-2026-08-21-improved-plugin-discovery-on-web-and-mobile-4a2c9c9b|Improved plugin discovery on web and mobile]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Find more useful plugins. Rankings now prioritize plugins people keep using after installation, helping relevant options surface across ChatGPT on web and mobile.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-plugin-discovery-on-web-and-mobile
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -100,5 +100,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-21-a7f317&body=Card%3A%20Changes%2FChatGPT%2F2026-08-21-find-more-useful-plugins-rankings-now-prioritize-plugins-people-keep-using-after.md%0ACard%20ID%3A%20chatgpt-2026-08-21-a7f317%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-21-a7f317&body=Card%3A%20Changes%2FChatGPT%2F2026-08-21-find-more-useful-plugins-rankings-now-prioritize-plugins-people-keep-using-after.md%0ACard%20ID%3A%20chatgpt-2026-08-21-a7f317%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23improved-plugin-discovery-on-web-and-mobile%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

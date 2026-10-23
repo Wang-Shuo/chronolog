@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-09-17 · Mobile and Desktop: You can now connect m
   accounts to plugins in ChatGPT, expanding support beyond Gmail, Google Calendar,
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1283
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 50046e53f97a00d4f7bec57baea9e72f252cfcdf37f4557df6044ccb61edc92f
+machine_hash: 841ca1284908b8a0a0ad49573094695d8ccba9ee98aa6cf8efaa763de75fb968
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ record:
       and work accounts into the same conversation, so ChatGPT can help you find information
       and get things done across your personal and work accounts. Available on all
       ChatGPT plans across web, mobile, and desktop.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connect-multiple-accounts-to-plugins-in-chatgpt
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -79,13 +79,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Connect multiple accounts to plugins in ChatGPT
 
-**ChatGPT** · 2026-09-17 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-17-connect-multiple-accounts-to-plugins-in-chatgpt-4c1d9bb4|Connect multiple accounts to plugins in ChatGPT]]
+**ChatGPT** · 2026-09-17 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connect-multiple-accounts-to-plugins-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-09-17-connect-multiple-accounts-to-plugins-in-chatgpt-4c1d9bb4|Connect multiple accounts to plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > You can now connect multiple accounts to plugins in ChatGPT, expanding support beyond Gmail, Google Calendar, and Google Contacts. Bring your personal and work accounts into the same conversation, so ChatGPT can help you find information and get things done across your personal and work accounts. Available on all ChatGPT plans across web, mobile, and desktop.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connect-multiple-accounts-to-plugins-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -106,5 +106,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-17-2ca169&body=Card%3A%20Changes%2FChatGPT%2F2026-09-17-you-can-now-connect-multiple-accounts-to-plugins-in-chatgpt-expanding-support-be.md%0ACard%20ID%3A%20chatgpt-2026-09-17-2ca169%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-17-2ca169&body=Card%3A%20Changes%2FChatGPT%2F2026-09-17-you-can-now-connect-multiple-accounts-to-plugins-in-chatgpt-expanding-support-be.md%0ACard%20ID%3A%20chatgpt-2026-09-17-2ca169%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23connect-multiple-accounts-to-plugins-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

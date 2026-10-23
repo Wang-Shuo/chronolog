@@ -4,7 +4,7 @@ date: '2026-06-18'
 description: 'ChatGPT release ChatGPT app experience updates on 2026-06-18: 9 tracked
   changes across Mobile and Desktop, Collaboration, Interface Experience, Reliability
   and…'
-machine_hash: 18190e47a818f1f926ea7bcf184c5cc5946610a905f9620344577c4e310a46dd
+machine_hash: 3f56f307eb25e1dd0444209aabaa76f7e1f78d82345141f8b23db9332bb7777e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     and sharing, more control over connected apps, and faster photo uploads on iOS,
     and more.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
   title: ChatGPT app experience updates
   version: ChatGPT app experience updates
 release_id: chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5
 source_release: ChatGPT app experience updates
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: ChatGPT app experience updates
 <!-- chronolog:begin region="header" -->
 # ChatGPT app experience updates
 
-**ChatGPT** · 2026-06-18 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-06-18 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates)
 <!-- chronolog:end -->
 
 ## Summary

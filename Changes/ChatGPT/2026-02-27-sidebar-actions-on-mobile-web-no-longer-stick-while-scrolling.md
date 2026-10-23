@@ -4,8 +4,8 @@ date: '2026-02-27'
 description: 'ChatGPT · 2026-02-27 · Mobile and Desktop: Sidebar actions on mobile
   web no longer stick while scrolling'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1081
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0a9de320385f0a698196d92ab4ad28ea356eeedf5b7161cd5dfce78185242337
+machine_hash: 030c578f30485a88fcdc996ee757f86611b257c768eac6e60f16345e66022360
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
     while scrolling'
   evidence:
   - quote: Sidebar actions on mobile web no longer stick while scrolling
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -68,13 +68,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Sidebar actions on mobile web no longer stick while scrolling
 
-**ChatGPT** · 2026-02-27 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|ChatGPT Web and Android updates: Edit image prompts, share faster, and smoother conversations]]
+**ChatGPT** · 2026-02-27 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations) · from [[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|ChatGPT Web and Android updates: Edit image prompts, share faster, and smoother conversations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Sidebar actions on mobile web no longer stick while scrolling
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -103,5 +103,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-27-c43164&body=Card%3A%20Changes%2FChatGPT%2F2026-02-27-sidebar-actions-on-mobile-web-no-longer-stick-while-scrolling.md%0ACard%20ID%3A%20chatgpt-2026-02-27-c43164%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-27-c43164&body=Card%3A%20Changes%2FChatGPT%2F2026-02-27-sidebar-actions-on-mobile-web-no-longer-stick-while-scrolling.md%0ACard%20ID%3A%20chatgpt-2026-02-27-c43164%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

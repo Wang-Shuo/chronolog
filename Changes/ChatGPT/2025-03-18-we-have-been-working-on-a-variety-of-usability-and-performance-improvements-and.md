@@ -5,8 +5,8 @@ description: 'ChatGPT · 2025-03-18 · Mobile and Desktop: We have been working 
   variety of usability and performance improvements and bug fixes across Web, Android,
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 735
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f25630cadcec0a79743e88ca30f7fdf190c53bd304f611b3e848d273f12e05d7
+machine_hash: bb96f816c405911517f9e7e502c2425373e86f2206e5736ef745f58334b95093
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
   - quote: We have been working on a variety of usability and performance improvements
       and bug fixes across Web, Android, and iOS. Below are a small number of specific
       callouts. For updates on the ChatGPT macOS app, please see this page.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-and-the-windows-desktop-app
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -74,13 +74,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # We have been working on a variety of usability and performance improvements and bug…
 
-**ChatGPT** · 2025-03-18 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255|Web and the Windows desktop app]]
+**ChatGPT** · 2025-03-18 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-and-the-windows-desktop-app) · from [[Releases/ChatGPT/chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255|Web and the Windows desktop app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We have been working on a variety of usability and performance improvements and bug fixes across Web, Android, and iOS. Below are a small number of specific callouts. For updates on the ChatGPT macOS app, please see this page.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-and-the-windows-desktop-app
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -105,5 +105,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-03-18-3de287&body=Card%3A%20Changes%2FChatGPT%2F2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and.md%0ACard%20ID%3A%20chatgpt-2025-03-18-3de287%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-03-18-3de287&body=Card%3A%20Changes%2FChatGPT%2F2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and.md%0ACard%20ID%3A%20chatgpt-2025-03-18-3de287%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23web-and-the-windows-desktop-app%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

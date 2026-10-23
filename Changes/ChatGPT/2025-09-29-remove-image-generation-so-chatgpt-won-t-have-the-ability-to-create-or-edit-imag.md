@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d4c517c136d47677a4cde4fa6b2c323da2d0e726bcdd29e2e1bb5d5fd461f970
+machine_hash: 94e5667889550d19ad3c61f4cdc383f49a8b77ed36e35c1a75bd832faf77c3a5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   evidence:
   - quote: Remove image generation, so ChatGPT won’t have the ability to create or
       edit images.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -60,13 +60,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Remove image generation, so ChatGPT won’t have the ability to create or edit images
 
-**ChatGPT** · 2025-09-29 · [[Themes/image-generation|Image Generation]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|Parental Controls]]
+**ChatGPT** · 2025-09-29 · [[Themes/image-generation|Image Generation]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls) · from [[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|Parental Controls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Remove image generation, so ChatGPT won’t have the ability to create or edit images.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -92,5 +92,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-29-259524&body=Card%3A%20Changes%2FChatGPT%2F2025-09-29-remove-image-generation-so-chatgpt-won-t-have-the-ability-to-create-or-edit-imag.md%0ACard%20ID%3A%20chatgpt-2025-09-29-259524%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-29-259524&body=Card%3A%20Changes%2FChatGPT%2F2025-09-29-remove-image-generation-so-chatgpt-won-t-have-the-ability-to-create-or-edit-imag.md%0ACard%20ID%3A%20chatgpt-2025-09-29-259524%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23parental-controls%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

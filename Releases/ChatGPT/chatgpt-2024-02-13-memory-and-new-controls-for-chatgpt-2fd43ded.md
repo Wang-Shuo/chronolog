@@ -3,7 +3,7 @@ changes_count: 1
 date: '2024-02-13'
 description: 'ChatGPT release Memory and new controls for ChatGPT on 2024-02-13: 1
   tracked change across Memory and Personalization'
-machine_hash: 777c3296b655db2cc6d2767a8ea9f93e2a2d720cd4c3a3ae5c3753925714ffe4
+machine_hash: eb335f2dbbdb0ac18cfebe3fbc154ce08e06882c7809f54959d592110b944816
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     conversations more helpful.You're in control of ChatGPT's memory. You can explicitly
     tell it to remember something, ask it what it remembers, and tell it to forget…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-and-new-controls-for-chatgpt
   title: Memory and new controls for ChatGPT
   version: Memory and new controls for ChatGPT
 release_id: chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded
 source_release: Memory and new controls for ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-and-new-controls-for-chatgpt
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Memory and new controls for ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Memory and new controls for ChatGPT
 
-**ChatGPT** · 2024-02-13 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2024-02-13 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-and-new-controls-for-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

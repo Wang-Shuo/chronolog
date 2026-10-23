@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-09-21'
 description: 'ChatGPT release Privacy Center in ChatGPT on 2026-09-21: 1 tracked change
   across Safety and Privacy'
-machine_hash: 2eb49b8640c0675c3c80b402d20e4428f14321837af2f43c25dc2185ba8340e6
+machine_hash: 60a8713cde0bddcca0107f1aa9bc10069006ad34fe58f139af7865953b9707d5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     data use, connected apps, and account security, with links to the settings that
     manage them. Your privacy controls remain in ChatGPT Settings.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#privacy-center-in-chatgpt
   title: Privacy Center in ChatGPT
   version: Privacy Center in ChatGPT
 release_id: chatgpt-2026-09-21-privacy-center-in-chatgpt-ecef9fba
 source_release: Privacy Center in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#privacy-center-in-chatgpt
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Privacy Center in ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Privacy Center in ChatGPT
 
-**ChatGPT** · 2026-09-21 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-09-21 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#privacy-center-in-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

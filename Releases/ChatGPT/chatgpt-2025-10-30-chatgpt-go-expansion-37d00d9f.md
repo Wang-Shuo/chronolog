@@ -3,7 +3,7 @@ changes_count: 3
 date: '2025-10-30'
 description: 'ChatGPT release ChatGPT Go expansion on 2025-10-30: 3 tracked changes
   across Image Generation, Memory and Personalization, Pricing Model'
-machine_hash: 5b70a8732996e8f3d8f6b89687c11212a1fd03c3e8723a498dc2e60ec0b46301
+machine_hash: 1c6dee6caf48e32343f076b839c1ba764e9eda1424c102c437e30396cc48816b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     to 98 countries. The new countries we added are Austria, Czech Republic, Denmark,
     Norway, Poland, Portugal, Spain and Sweden.For an affordable price, ChatGPT Go…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion
   title: ChatGPT Go expansion
   version: ChatGPT Go expansion
 release_id: chatgpt-2025-10-30-chatgpt-go-expansion-37d00d9f
 source_release: ChatGPT Go expansion
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: ChatGPT Go expansion
 <!-- chronolog:begin region="header" -->
 # ChatGPT Go expansion
 
-**ChatGPT** · 2025-10-30 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-10-30 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion)
 <!-- chronolog:end -->
 
 ## Summary

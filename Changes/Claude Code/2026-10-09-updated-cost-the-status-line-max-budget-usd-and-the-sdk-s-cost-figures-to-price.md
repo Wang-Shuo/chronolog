@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: c389b92734b44b825676e091f4671b057e37e094843f99388fb5fd2439e88122
+machine_hash: 25eb1904a8989c593f2826a270af7f5b157a00adc1973c82b772ae0d76fb9b26
 product: claude-code
 product_name: Claude Code
 record:
@@ -104,6 +104,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-improved-the-usage-credits-message-shown-to-team-and-enterprise-members-whose-or|Improved the /usage-credits message shown to Team and Enterprise members whose…]]
+- Later: 2026-10-15 · ChatGPT · [[Changes/ChatGPT/2026-10-15-the-rosalind-academic-plan-helps-eligible-academic-labs-use-chatgpt-for-life-sci|The Rosalind Academic Plan helps eligible academic labs use ChatGPT for life…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

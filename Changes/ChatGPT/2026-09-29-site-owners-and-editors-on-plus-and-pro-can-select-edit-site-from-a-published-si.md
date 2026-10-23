@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-09-29 · Mobile and Desktop: Site owners and edito
   Plus and Pro can select Edit site from a published Site in a desktop browser to
   continue…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1295
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e657dab53eff44ccca639cb38f159de2e38e948bfc829fd987d886a513ca3c93
+machine_hash: f8732ef576cbcba57bf16ba0cf817dd9b9b13673bd6927d96e134b7d8cf7ec7a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
   - quote: Site owners and editors on Plus and Pro can select Edit site from a published
       Site in a desktop browser to continue editing in ChatGPT, review changes, and
       publish when ready.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#creating-editing-and-scheduling-sites
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -63,13 +63,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Site owners and editors on Plus and Pro can select Edit site from a published Site…
 
-**ChatGPT** · 2026-09-29 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-29-creating-editing-and-scheduling-sites-bb025dd6|Creating, editing, and scheduling Sites]]
+**ChatGPT** · 2026-09-29 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#creating-editing-and-scheduling-sites) · from [[Releases/ChatGPT/chatgpt-2026-09-29-creating-editing-and-scheduling-sites-bb025dd6|Creating, editing, and scheduling Sites]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Site owners and editors on Plus and Pro can select Edit site from a published Site in a desktop browser to continue editing in ChatGPT, review changes, and publish when ready.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#creating-editing-and-scheduling-sites
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -92,5 +92,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-397043&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-site-owners-and-editors-on-plus-and-pro-can-select-edit-site-from-a-published-si.md%0ACard%20ID%3A%20chatgpt-2026-09-29-397043%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-397043&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-site-owners-and-editors-on-plus-and-pro-can-select-edit-site-from-a-published-si.md%0ACard%20ID%3A%20chatgpt-2026-09-29-397043%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23creating-editing-and-scheduling-sites%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

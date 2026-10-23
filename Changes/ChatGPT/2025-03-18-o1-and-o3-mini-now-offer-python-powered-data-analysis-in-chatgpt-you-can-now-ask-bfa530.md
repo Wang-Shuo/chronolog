@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: acfccc97f4c057a274bdea021a4f815a5920ebc041789b09e2c7ff75fc253e95
+machine_hash: 4086fc68d1bd2dcb69b33f344982bae2b0537607f43408d4d1b4196ef04b6aed
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       visualizing complex business metrics, and conducting scenario-based simulations.3.
       Conversation Drafts: Unsubmitted messages in your message prompt will now be
       saved.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-and-the-windows-desktop-app
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -74,13 +74,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # o1 and o3-mini now offer Python-powered data analysis in ChatGPT
 
-**ChatGPT** · 2025-03-18 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255|Web and the Windows desktop app]]
+**ChatGPT** · 2025-03-18 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-and-the-windows-desktop-app) · from [[Releases/ChatGPT/chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255|Web and the Windows desktop app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > o1 and o3-mini now offer Python-powered data analysis in ChatGPT: You can now ask these models to perform tasks like running regressions on test data, visualizing complex business metrics, and conducting scenario-based simulations.3. Conversation Drafts: Unsubmitted messages in your message prompt will now be saved.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-and-the-windows-desktop-app
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -105,5 +105,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-03-18-bfa530&body=Card%3A%20Changes%2FChatGPT%2F2025-03-18-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-ask-bfa530.md%0ACard%20ID%3A%20chatgpt-2025-03-18-bfa530%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-03-18-bfa530&body=Card%3A%20Changes%2FChatGPT%2F2025-03-18-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-ask-bfa530.md%0ACard%20ID%3A%20chatgpt-2025-03-18-bfa530%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23web-and-the-windows-desktop-app%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 087ce2a77df16f85cbd4278e7d5b8d7687a6d6fde254f408facfbac2ad8e605c
+machine_hash: b7297d07d440e1f1a2301d5f3ef5474744eda28ff3720d8080795154a28033fc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +40,7 @@ record:
       out. You can read more about the announcement here.Plus users will have a message
       limit that is up to 5x greater than free users, and Team and Enterprise users
       will have even higher limits.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-4o
   extractor_version: fallback-v5
   impact: significant
   kind: launch
@@ -97,13 +97,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Introducing GPT-4o
 
-**ChatGPT** · 2024-05-13 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-05-13-introducing-gpt-4o-0a0709f8|Introducing GPT-4o]]
+**ChatGPT** · 2024-05-13 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-4o) · from [[Releases/ChatGPT/chatgpt-2024-05-13-introducing-gpt-4o-0a0709f8|Introducing GPT-4o]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > GPT-4o is our newest flagship model that provides GPT-4-level intelligence that is much faster and improves on its capabilities across text, voice, and vision. Currently, only the new text and image capabilities have been rolled out. You can read more about the announcement here.Plus users will have a message limit that is up to 5x greater than free users, and Team and Enterprise users will have even higher limits.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-4o
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -124,5 +124,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-05-13-297427&body=Card%3A%20Changes%2FChatGPT%2F2024-05-13-gpt-4o-is-our-newest-flagship-model-that-provides-gpt-4-level-intelligence-that-297427.md%0ACard%20ID%3A%20chatgpt-2024-05-13-297427%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-05-13-297427&body=Card%3A%20Changes%2FChatGPT%2F2024-05-13-gpt-4o-is-our-newest-flagship-model-that-provides-gpt-4-level-intelligence-that-297427.md%0ACard%20ID%3A%20chatgpt-2024-05-13-297427%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23introducing-gpt-4o%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

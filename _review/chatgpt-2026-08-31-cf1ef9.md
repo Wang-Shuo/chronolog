@@ -1,6 +1,6 @@
 ---
 draft: true
-machine_hash: ff37e3845fd8d1ea9bd8168497f0420db74f4ce4c0d379900a4180710dc92ef3
+machine_hash: 2d4efa119255d60da90b8bb9fc43ad6bcdf812a330d916443b9b15585a6a0372
 product: chatgpt
 record:
   card_id: chatgpt-2026-08-31-cf1ef9
@@ -11,7 +11,7 @@ record:
   evidence:
   - quote: The ChatGPT browser extension now supports Microsoft Edge, Brave, Opera,
       and Vivaldi.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-the-browser-extension-in-more-browsers
   extractor_version: fallback-v5
   impact: incremental
   kind: change

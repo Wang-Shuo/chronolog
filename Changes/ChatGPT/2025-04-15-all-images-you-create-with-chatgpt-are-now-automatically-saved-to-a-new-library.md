@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 401e26ee9d85cd81b63c59e5b428ce9da456d4ac93d5b645f4597353df52b64f
+machine_hash: b91f8279cd8b8c22da49e19a893292df3dca4807478f3b4e1a7f6bb018f99f72
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ record:
       support coming soon). For now, it displays images generated with 4o Image Generation
       while we backfill older creations, and you can remove an image by deleting the
       conversation where it was made.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-image-library
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -94,13 +94,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT Image Library
 
-**ChatGPT** · 2025-04-15 · [[Themes/image-generation|Image Generation]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-04-15-chatgpt-image-library-83e31577|ChatGPT Image Library]]
+**ChatGPT** · 2025-04-15 · [[Themes/image-generation|Image Generation]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-image-library) · from [[Releases/ChatGPT/chatgpt-2025-04-15-chatgpt-image-library-83e31577|ChatGPT Image Library]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > All images you create with ChatGPT are now automatically saved to a new Library in the sidebar, giving you one place to browse, revisit, and reuse your work without digging through past conversations. The Library is rolling out today on Web, iOS, and Android for Free, Plus, and Pro users (Enterprise / Edu support coming soon). For now, it displays images generated with 4o Image Generation while we backfill older creations, and you can remove an image by deleting the conversation where it was made.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-image-library
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -121,5 +121,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-04-15-98ee2f&body=Card%3A%20Changes%2FChatGPT%2F2025-04-15-all-images-you-create-with-chatgpt-are-now-automatically-saved-to-a-new-library.md%0ACard%20ID%3A%20chatgpt-2025-04-15-98ee2f%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-04-15-98ee2f&body=Card%3A%20Changes%2FChatGPT%2F2025-04-15-all-images-you-create-with-chatgpt-are-now-automatically-saved-to-a-new-library.md%0ACard%20ID%3A%20chatgpt-2025-04-15-98ee2f%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-image-library%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

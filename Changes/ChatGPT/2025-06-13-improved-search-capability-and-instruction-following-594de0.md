@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7ca564bdbac010a2dd789a5cbf6de02b9e149e0fdb9c51496c9807d201f3d43d
+machine_hash: e088fffc0274f5aafd242d196f2ca1924ae115ace907b5f57869c5a44391e6df
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,12 +30,12 @@ record:
   evidence:
   - quote: More robust ability to follow instructions, especially in longer conversations,
       significantly reducing repetitive responses.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-the-chatgpt-search-response-quality
   - quote: Capability to run multiple searches automatically for complex or difficult
       questions.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-the-chatgpt-search-response-quality
   - quote: Search the web using an image you’ve uploaded.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-the-chatgpt-search-response-quality
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -66,7 +66,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Improved search capability and instruction following
 
-**ChatGPT** · 2025-06-13 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464|Improvements to the ChatGPT search response quality]]
+**ChatGPT** · 2025-06-13 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-the-chatgpt-search-response-quality) · from [[Releases/ChatGPT/chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464|Improvements to the ChatGPT search response quality]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -76,7 +76,7 @@ type: change
 >
 > Search the web using an image you’ve uploaded.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-the-chatgpt-search-response-quality
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -101,5 +101,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-13-594de0&body=Card%3A%20Changes%2FChatGPT%2F2025-06-13-improved-search-capability-and-instruction-following-594de0.md%0ACard%20ID%3A%20chatgpt-2025-06-13-594de0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-13-594de0&body=Card%3A%20Changes%2FChatGPT%2F2025-06-13-improved-search-capability-and-instruction-following-594de0.md%0ACard%20ID%3A%20chatgpt-2025-06-13-594de0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23improvements-to-the-chatgpt-search-response-quality%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

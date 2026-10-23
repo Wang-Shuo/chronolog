@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e5e4a01f590ac12f3f7644f6ff2cbcbf351b913bf282f4dcfdb63df00315e111
+machine_hash: 5c66f24fa8c99eba9fa2c4a96d9da7c752c11b14893ff75c0d9e593105f4b57d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,7 +60,7 @@ record:
       users across markets and platforms—just tap the Voice icon in the message composer
       to get started.This update is in addition to improvements we made earlier this
       year to ensure fewer interruptions and improved accents.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-advanced-voice-mode-for-paid-users
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -89,13 +89,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # We're upgrading Advanced Voice in ChatGPT for paid users with significant…
 
-**ChatGPT** · 2025-06-07 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-06-07-updates-to-advanced-voice-mode-for-paid-users-55969446|Updates to Advanced Voice Mode for paid users]]
+**ChatGPT** · 2025-06-07 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-advanced-voice-mode-for-paid-users) · from [[Releases/ChatGPT/chatgpt-2025-06-07-updates-to-advanced-voice-mode-for-paid-users-55969446|Updates to Advanced Voice Mode for paid users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We're upgrading Advanced Voice in ChatGPT for paid users with significant enhancements in intonation and naturalness, making interactions feel more fluid and human-like. When we first launched Advanced Voice, it represented a leap forward in AI speech—now, it speaks even more naturally, with subtler intonation, realistic cadence (including pauses and emphases), and more on-point expressiveness for certain emotions including empathy, sarcasm, and more.Voice also now offers intuitive and effective language translation. Just ask Voice to translate between languages, and it will continue translating throughout your conversation until you tell it to stop or switch. It’s ready to translate whenever you need it—whether you're asking for directions in Italy or chatting with a colleague from the Tokyo office. For example, at a restaurant in Brazil, Voice can translate your English sentences into Portuguese, and the waiter’s Portuguese responses back into English—making conversations effortless, no matter where you are or who you're speaking with.This upgrade to Advanced Voice is available for all paid users across markets and platforms—just tap the Voice icon in the message composer to get started.This update is in addition to improvements we made earlier this year to ensure fewer interruptions and improved accents.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-advanced-voice-mode-for-paid-users
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -118,5 +118,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-07-ad0b3e&body=Card%3A%20Changes%2FChatGPT%2F2025-06-07-we-re-upgrading-advanced-voice-in-chatgpt-for-paid-users-with-significant-enhanc-ad0b3e.md%0ACard%20ID%3A%20chatgpt-2025-06-07-ad0b3e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-07-ad0b3e&body=Card%3A%20Changes%2FChatGPT%2F2025-06-07-we-re-upgrading-advanced-voice-in-chatgpt-for-paid-users-with-significant-enhanc-ad0b3e.md%0ACard%20ID%3A%20chatgpt-2025-06-07-ad0b3e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23updates-to-advanced-voice-mode-for-paid-users%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

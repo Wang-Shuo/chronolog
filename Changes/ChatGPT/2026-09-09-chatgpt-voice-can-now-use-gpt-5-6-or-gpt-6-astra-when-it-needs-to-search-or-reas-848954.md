@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 552e8e35b7cab46b77ff8fde0329435a61db77b670b2359cdcc789dc177bd1cb
+machine_hash: b8f0937e85cfffbed00d3c9e7dd18c5ab9f4594f00dab581e212fd685a2e1066
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,18 +36,18 @@ record:
       or reason through harder questions. Choose your model and reasoning effort using
       the same controls as text chat. Available models and their usage limits depend
       on your plan.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-models-and-usage-limits-in-chatgpt-voice
   - quote: 'We’re also simplifying GPT-Live daily usage limits:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-models-and-usage-limits-in-chatgpt-voice
   - quote: 'Go: Up to 3 hours with GPT-Live-1 mini, replacing GPT-Live-1 access.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-models-and-usage-limits-in-chatgpt-voice
   - quote: 'Plus: Up to 3 hours with GPT-Live-1.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-models-and-usage-limits-in-chatgpt-voice
   - quote: Plus and Pro no longer switch to GPT-Live mini after reaching a Voice limit.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-models-and-usage-limits-in-chatgpt-voice
   - quote: With these updates, the separate Instant/Medium/High Voice intelligence
       levels are deprecated.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-models-and-usage-limits-in-chatgpt-voice
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason…
 
-**ChatGPT** · 2026-09-09 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-09-updated-models-and-usage-limits-in-chatgpt-voice-03e6b03f|Updated models and usage limits in ChatGPT Voice]]
+**ChatGPT** · 2026-09-09 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-models-and-usage-limits-in-chatgpt-voice) · from [[Releases/ChatGPT/chatgpt-2026-09-09-updated-models-and-usage-limits-in-chatgpt-voice-03e6b03f|Updated models and usage limits in ChatGPT Voice]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -106,7 +106,7 @@ type: change
 >
 > With these updates, the separate Instant/Medium/High Voice intelligence levels are deprecated.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-models-and-usage-limits-in-chatgpt-voice
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -130,5 +130,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-09-848954&body=Card%3A%20Changes%2FChatGPT%2F2026-09-09-chatgpt-voice-can-now-use-gpt-5-6-or-gpt-6-astra-when-it-needs-to-search-or-reas-848954.md%0ACard%20ID%3A%20chatgpt-2026-09-09-848954%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-09-848954&body=Card%3A%20Changes%2FChatGPT%2F2026-09-09-chatgpt-voice-can-now-use-gpt-5-6-or-gpt-6-astra-when-it-needs-to-search-or-reas-848954.md%0ACard%20ID%3A%20chatgpt-2026-09-09-848954%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23updated-models-and-usage-limits-in-chatgpt-voice%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

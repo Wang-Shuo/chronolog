@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-03-14'
 description: 'ChatGPT release Announcing GPT-4 in ChatGPT on 2023-03-14: 1 tracked
   change across Model Support'
-machine_hash: 8088c9cb9d676e8448a3cba8c77c56af10e25122f5669967ca134c2dcc2cfc0f
+machine_hash: 32b51287a3cfd76cef192e370ee5a9c6eb77ef0a7cd5bb4457e328bce1dd6ffd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
   source_summary: 'We’re excited to bring GPT-4, our latest model, to our ChatGPT
     Plus subscribers.GPT-4 has enhanced capabilities in:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#announcing-gpt-4-in-chatgpt
   title: Announcing GPT-4 in ChatGPT
   version: Announcing GPT-4 in ChatGPT
 release_id: chatgpt-2023-03-14-announcing-gpt-4-in-chatgpt-43063370
 source_release: Announcing GPT-4 in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#announcing-gpt-4-in-chatgpt
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: Announcing GPT-4 in ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Announcing GPT-4 in ChatGPT
 
-**ChatGPT** · 2023-03-14 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2023-03-14 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#announcing-gpt-4-in-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

@@ -4,8 +4,8 @@ date: '2026-09-03'
 description: 'Claude Code · 2026-09-03 · Mobile and Desktop: 3 changes in v2.1.260
   — Added Claude apps gateway support for newer Claude Desktop keys in `desktop` policy…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1269
   relation: same-theme-chronology

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cc6decf51ec3d28ccc12a9737940b0f9e7dfe2f426a5b6154b863bb507ca2bbd
+machine_hash: 6e788ad8995f25669f42f6ca67f46fc5540d620e00c0633ff088d3e87dd850ee
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   evidence:
   - quote: Content from a Live voice conversation can now appear on your iPhone’s
       Lock Screen and, on iPhones with Dynamic Island, in the Dynamic Island.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#see-live-voice-content-on-your-lock-screen
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -70,13 +70,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Content from a Live voice conversation can now appear on your iPhone’s Lock Screen…
 
-**ChatGPT** · 2026-08-31 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-31-see-live-voice-content-on-your-lock-screen-3b9abebd|See Live voice content on your Lock Screen]]
+**ChatGPT** · 2026-08-31 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#see-live-voice-content-on-your-lock-screen) · from [[Releases/ChatGPT/chatgpt-2026-08-31-see-live-voice-content-on-your-lock-screen-3b9abebd|See Live voice content on your Lock Screen]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Content from a Live voice conversation can now appear on your iPhone’s Lock Screen and, on iPhones with Dynamic Island, in the Dynamic Island.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#see-live-voice-content-on-your-lock-screen
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -100,5 +100,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-31-114d55&body=Card%3A%20Changes%2FChatGPT%2F2026-08-31-content-from-a-live-voice-conversation-can-now-appear-on-your-iphone-s-lock-scre.md%0ACard%20ID%3A%20chatgpt-2026-08-31-114d55%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-31-114d55&body=Card%3A%20Changes%2FChatGPT%2F2026-08-31-content-from-a-live-voice-conversation-can-now-appear-on-your-iphone-s-lock-scre.md%0ACard%20ID%3A%20chatgpt-2026-08-31-114d55%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23see-live-voice-content-on-your-lock-screen%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

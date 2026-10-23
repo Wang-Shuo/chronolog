@@ -3,7 +3,7 @@ changes_count: 4
 date: '2026-09-08'
 description: 'ChatGPT release ChatGPT Images 2.5: new ways to create and edit on 2026-09-08:
   4 tracked changes across Mobile and Desktop, Collaboration, Image Generation'
-machine_hash: 07cd94b4a0168058a3f784a4677af0b4594e4b2322c243802d62a3d5cc775ed1
+machine_hash: a72262143b32c97a7a556a101d1c8ac90a33defce3897ab4595e409a5c5854c8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
   source_summary: 'ChatGPT Images 2.5 brings sharper details, more precise editing,
     and faster image generation. We’re also introducing new ways to create and share:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-25-new-ways-to-create-and-edit
   title: 'ChatGPT Images 2.5: new ways to create and edit'
   version: 'ChatGPT Images 2.5: new ways to create and edit'
 release_id: chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d
 source_release: 'ChatGPT Images 2.5: new ways to create and edit'
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-25-new-ways-to-create-and-edit
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: 'ChatGPT Images 2.5: new ways to create and edit'
 <!-- chronolog:begin region="header" -->
 # ChatGPT Images 2.5: new ways to create and edit
 
-**ChatGPT** · 2026-09-08 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-09-08 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-25-new-ways-to-create-and-edit)
 <!-- chronolog:end -->
 
 ## Summary

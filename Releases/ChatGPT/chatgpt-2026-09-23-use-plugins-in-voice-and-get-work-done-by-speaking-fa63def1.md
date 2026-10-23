@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-09-23'
 description: 'ChatGPT release Use plugins in Voice and get work done by speaking on
   2026-09-23: 1 tracked change across Voice and Audio'
-machine_hash: cdcee3fdc7bf420ba108b4747a1f0511031c81122a69e60e41979e8781bd5699
+machine_hash: dbc88db880a4fc0ebe0840252e41aef5de7155e9f54a93b9e5d1fc73d4c1ba1e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -16,13 +16,13 @@ record:
     the plugins and connected apps available to your account during a Voice conversation
     and follow written responses in the chat.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking
   title: Use plugins in Voice and get work done by speaking
   version: Use plugins in Voice and get work done by speaking
 release_id: chatgpt-2026-09-23-use-plugins-in-voice-and-get-work-done-by-speaking-fa63def1
 source_release: Use plugins in Voice and get work done by speaking
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Use plugins in Voice and get work done by speaking
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Use plugins in Voice and get work done by speaking
 
-**ChatGPT** · 2026-09-23 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-09-23 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking)
 <!-- chronolog:end -->
 
 ## Summary

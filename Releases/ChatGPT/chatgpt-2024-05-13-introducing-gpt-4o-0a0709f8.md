@@ -3,7 +3,7 @@ changes_count: 1
 date: '2024-05-13'
 description: 'ChatGPT release Introducing GPT-4o on 2024-05-13: 1 tracked change across
   Model Support'
-machine_hash: 2f1344ca4855c851026bd05cb1a1b9b2b50470a810d074adaa1e342da9688fff
+machine_hash: 79364bfbc7d21c6ac09978a37df008fc866ea02188ef3e12d8149932b36b9b82
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     Currently, only the new text and image capabilities have been rolled out. You
     can read more about the announcement here.Plus users will have a message limit…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-4o
   title: Introducing GPT-4o
   version: Introducing GPT-4o
 release_id: chatgpt-2024-05-13-introducing-gpt-4o-0a0709f8
 source_release: Introducing GPT-4o
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-4o
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Introducing GPT-4o
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Introducing GPT-4o
 
-**ChatGPT** · 2024-05-13 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2024-05-13 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-4o)
 <!-- chronolog:end -->
 
 ## Summary

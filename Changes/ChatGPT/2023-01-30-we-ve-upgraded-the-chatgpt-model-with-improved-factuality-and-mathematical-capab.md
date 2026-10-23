@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 645f52e059c312a3ed984f4c6743b9f5e86833ecb7dff8e3bd58457e716515dd
+machine_hash: 7e9c73560d51a7ba20b28641d02a7498169e64c14abf4afc39284c649dc12601
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   evidence:
   - quote: We’ve upgraded the ChatGPT model with improved factuality and mathematical
       capabilities.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#factuality-and-mathematical-improvements
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -56,13 +56,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Factuality and mathematical improvements
 
-**ChatGPT** · 2023-01-30 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-01-30-factuality-and-mathematical-improvements-bde45cd9|Factuality and mathematical improvements]]
+**ChatGPT** · 2023-01-30 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#factuality-and-mathematical-improvements) · from [[Releases/ChatGPT/chatgpt-2023-01-30-factuality-and-mathematical-improvements-bde45cd9|Factuality and mathematical improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’ve upgraded the ChatGPT model with improved factuality and mathematical capabilities.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#factuality-and-mathematical-improvements
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -83,5 +83,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-01-30-2d26b7&body=Card%3A%20Changes%2FChatGPT%2F2023-01-30-we-ve-upgraded-the-chatgpt-model-with-improved-factuality-and-mathematical-capab.md%0ACard%20ID%3A%20chatgpt-2023-01-30-2d26b7%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-01-30-2d26b7&body=Card%3A%20Changes%2FChatGPT%2F2023-01-30-we-ve-upgraded-the-chatgpt-model-with-improved-factuality-and-mathematical-capab.md%0ACard%20ID%3A%20chatgpt-2023-01-30-2d26b7%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23factuality-and-mathematical-improvements%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

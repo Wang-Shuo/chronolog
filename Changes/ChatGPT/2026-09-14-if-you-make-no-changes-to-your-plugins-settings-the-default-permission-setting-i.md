@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4a77a0e3bebc8492a8f5f0f98a81e4efa35014b87619f552091194f3099eedca
+machine_hash: d4e5887dbefc652e2850b3e404be19fc30bae8c0356adb544776c5a2071a0444
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ record:
       reflects what we’ve seen from users: more than 70% of Health users already choose
       to allow ChatGPT to use data connected in Health without asking for permission
       each time.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-permissions-for-new-health-connections
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -73,13 +73,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # If you make no changes to your Plugins settings, the default permission setting…
 
-**ChatGPT** · 2026-09-14 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7|Updated permissions for new Health connections]]
+**ChatGPT** · 2026-09-14 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-permissions-for-new-health-connections) · from [[Releases/ChatGPT/chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7|Updated permissions for new Health connections]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > If you make no changes to your Plugins settings, the default permission setting is “Allow low-risk actions.” This means that once you’ve connected your information in Health, ChatGPT can use it when relevant without asking for permission each time, unless you are attempting a sensitive action, such as asking ChatGPT to email a training plan based on your data to a running partner. This change reflects what we’ve seen from users: more than 70% of Health users already choose to allow ChatGPT to use data connected in Health without asking for permission each time.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-permissions-for-new-health-connections
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -103,5 +103,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-14-2237ea&body=Card%3A%20Changes%2FChatGPT%2F2026-09-14-if-you-make-no-changes-to-your-plugins-settings-the-default-permission-setting-i.md%0ACard%20ID%3A%20chatgpt-2026-09-14-2237ea%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-14-2237ea&body=Card%3A%20Changes%2FChatGPT%2F2026-09-14-if-you-make-no-changes-to-your-plugins-settings-the-default-permission-setting-i.md%0ACard%20ID%3A%20chatgpt-2026-09-14-2237ea%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23updated-permissions-for-new-health-connections%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

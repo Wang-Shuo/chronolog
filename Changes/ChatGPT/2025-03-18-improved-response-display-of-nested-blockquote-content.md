@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dc984dfeb0fe14730dfa74163b9c98f792bb200288112efd6451d8e5d5ff0e48
+machine_hash: 24b22469a22e0ee596559143f0d5456f6b1bb0e52628884e050b0266d267af1c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
     content.'
   evidence:
   - quote: Improved response display of nested blockquote content.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -59,13 +59,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Improved response display of nested blockquote content
 
-**ChatGPT** · 2025-03-18 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-03-18-ios-app-6a42bb0f|iOS App]]
+**ChatGPT** · 2025-03-18 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app) · from [[Releases/ChatGPT/chatgpt-2025-03-18-ios-app-6a42bb0f|iOS App]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Improved response display of nested blockquote content.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -90,5 +90,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-03-18-e948eb&body=Card%3A%20Changes%2FChatGPT%2F2025-03-18-improved-response-display-of-nested-blockquote-content.md%0ACard%20ID%3A%20chatgpt-2025-03-18-e948eb%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-03-18-e948eb&body=Card%3A%20Changes%2FChatGPT%2F2025-03-18-improved-response-display-of-nested-blockquote-content.md%0ACard%20ID%3A%20chatgpt-2025-03-18-e948eb%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23ios-app%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -4,8 +4,8 @@ date: '2026-07-14'
 description: 'ChatGPT · 2026-07-14 · Mobile and Desktop: We’ve rolled out a new way
   to search your chats, projects, images, and documents in ChatGPT on web, iOS, and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1218
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fec2f15cb2934f7332a57c28d9b8c2fc77a5a0acea6bfcc1b806e1e460b65163
+machine_hash: db24f0aa2be8b58d22ca4c9ebda064edd771e35e799eca03afc92eef4134d6cb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +40,7 @@ record:
       sidebar to find what you need across everything, or use filters to narrow results
       by content type. Select a result to open the chat, project, or file directly
       in ChatGPT.Available on all ChatGPT plans globally.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#search-across-chats-projects-and-files-is-now-supercharged
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -87,13 +87,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Search across chats, projects, and files is now supercharged
 
-**ChatGPT** · 2026-07-14 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-14-search-across-chats-projects-and-files-is-now-supercharged-90a28571|Search across chats, projects, and files is now supercharged.]]
+**ChatGPT** · 2026-07-14 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#search-across-chats-projects-and-files-is-now-supercharged) · from [[Releases/ChatGPT/chatgpt-2026-07-14-search-across-chats-projects-and-files-is-now-supercharged-90a28571|Search across chats, projects, and files is now supercharged.]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’ve rolled out a new way to search your chats, projects, images, and documents in ChatGPT on web, iOS, and Android. You can quickly find past chats, projects, images, and documents from one place.Start searching from the ChatGPT sidebar to find what you need across everything, or use filters to narrow results by content type. Select a result to open the chat, project, or file directly in ChatGPT.Available on all ChatGPT plans globally.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#search-across-chats-projects-and-files-is-now-supercharged
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -114,5 +114,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-14-4d2327&body=Card%3A%20Changes%2FChatGPT%2F2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327.md%0ACard%20ID%3A%20chatgpt-2026-07-14-4d2327%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-14-4d2327&body=Card%3A%20Changes%2FChatGPT%2F2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327.md%0ACard%20ID%3A%20chatgpt-2026-07-14-4d2327%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23search-across-chats-projects-and-files-is-now-supercharged%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

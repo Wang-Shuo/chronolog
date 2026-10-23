@@ -4,8 +4,8 @@ date: '2026-06-29'
 description: 'Claude Code · 2026-06-29 · Mobile and Desktop: Improved background session
   reliability: long-running commands and workflows now survive the session''s process…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1203
   relation: same-theme-chronology

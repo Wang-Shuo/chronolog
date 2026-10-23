@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-10-02'
 description: 'ChatGPT release Finances expands to Free and Go users on 2026-10-02:
   1 tracked change across Mobile and Desktop'
-machine_hash: a7fb54cadec8344841163e150949f7dd09147391c4bc54cd07c1fad3ac8eccb2
+machine_hash: 81d0363d296634c44a3fcc7dab4d684fa48888fba193f66ff3522e287c9fdda1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     find ways to save, understand your spending, and make sense of your investments,
     with answers grounded in your finances.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#finances-expands-to-free-and-go-users
   title: Finances expands to Free and Go users
   version: Finances expands to Free and Go users
 release_id: chatgpt-2026-10-02-finances-expands-to-free-and-go-users-58adba1b
 source_release: Finances expands to Free and Go users
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#finances-expands-to-free-and-go-users
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Finances expands to Free and Go users
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Finances expands to Free and Go users
 
-**ChatGPT** · 2026-10-02 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-10-02 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#finances-expands-to-free-and-go-users)
 <!-- chronolog:end -->
 
 ## Summary

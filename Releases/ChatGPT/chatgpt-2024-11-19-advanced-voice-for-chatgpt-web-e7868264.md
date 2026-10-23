@@ -3,7 +3,7 @@ changes_count: 1
 date: '2024-11-19'
 description: 'ChatGPT release Advanced Voice for ChatGPT Web on 2024-11-19: 1 tracked
   change across Mobile and Desktop'
-machine_hash: b8249509d7b2d2c9d1a36a6eeb59ef6d537ea09a9d36fc34cbc864533c0edbb3
+machine_hash: b0d1271439beaf9d1adf67f44bb384222de06a82fa70cace5e864141a5b7d3c6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     with ChatGPT while doing tasks like shopping, planning, writing, and brainstorming.We’re
     starting…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#advanced-voice-for-chatgpt-web
   title: Advanced Voice for ChatGPT Web
   version: Advanced Voice for ChatGPT Web
 release_id: chatgpt-2024-11-19-advanced-voice-for-chatgpt-web-e7868264
 source_release: Advanced Voice for ChatGPT Web
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#advanced-voice-for-chatgpt-web
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Advanced Voice for ChatGPT Web
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Advanced Voice for ChatGPT Web
 
-**ChatGPT** · 2024-11-19 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2024-11-19 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#advanced-voice-for-chatgpt-web)
 <!-- chronolog:end -->
 
 ## Summary

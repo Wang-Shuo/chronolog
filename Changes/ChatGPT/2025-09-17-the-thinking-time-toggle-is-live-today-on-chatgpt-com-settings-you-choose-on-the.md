@@ -5,8 +5,8 @@ description: 'ChatGPT · 2025-09-17 · Mobile and Desktop: The thinking-time tog
   is live today on chatgpt.com. Settings you choose on the web won’t yet sync to mobile,
   but…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 918
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 277c89f6d799120677831ad620b8a7890e7845786cd513c3deb9b7ea1773e219
+machine_hash: 39ae96ecec4127bd7c5b17cb132678c29000affb6b0043de212cdec6b1e0a4b0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
   - quote: The thinking-time toggle is live today on chatgpt.com. Settings you choose
       on the web won’t yet sync to mobile, but we’ll bring this control to our iOS
       and Android apps in the coming weeks.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle-thinking-time-in-the-message-composer
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -73,13 +73,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # The thinking-time toggle is live today on chatgpt.com
 
-**ChatGPT** · 2025-09-17 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c|Toggle thinking time in the message composer]]
+**ChatGPT** · 2025-09-17 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle-thinking-time-in-the-message-composer) · from [[Releases/ChatGPT/chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c|Toggle thinking time in the message composer]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > The thinking-time toggle is live today on chatgpt.com. Settings you choose on the web won’t yet sync to mobile, but we’ll bring this control to our iOS and Android apps in the coming weeks.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle-thinking-time-in-the-message-composer
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -104,5 +104,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-17-36f4fd&body=Card%3A%20Changes%2FChatGPT%2F2025-09-17-the-thinking-time-toggle-is-live-today-on-chatgpt-com-settings-you-choose-on-the.md%0ACard%20ID%3A%20chatgpt-2025-09-17-36f4fd%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-17-36f4fd&body=Card%3A%20Changes%2FChatGPT%2F2025-09-17-the-thinking-time-toggle-is-live-today-on-chatgpt-com-settings-you-choose-on-the.md%0ACard%20ID%3A%20chatgpt-2025-09-17-36f4fd%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23toggle-thinking-time-in-the-message-composer%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

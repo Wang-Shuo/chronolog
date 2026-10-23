@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-03-17'
 description: 'ChatGPT release Sunsetting the “Nerdy” base style on 2026-03-17: 1 tracked
   change across Memory and Personalization'
-machine_hash: 8ee1f6199ce0fa317da4d1a43fc0f90493310ae883044878d98174c9d4c5473e
+machine_hash: 14deac9b5904cdc053bb511023e79ba2293fe10e72b8c4b0176517a7ecb023f3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     personality. You can manage personality settings anytime in ChatGPT under Settings
     → Personalization.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sunsetting-the-nerdy-base-style
   title: Sunsetting the “Nerdy” base style
   version: Sunsetting the “Nerdy” base style
 release_id: chatgpt-2026-03-17-sunsetting-the-nerdy-base-style-f0e6829f
 source_release: Sunsetting the “Nerdy” base style
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sunsetting-the-nerdy-base-style
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Sunsetting the “Nerdy” base style
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Sunsetting the “Nerdy” base style
 
-**ChatGPT** · 2026-03-17 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-03-17 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sunsetting-the-nerdy-base-style)
 <!-- chronolog:end -->
 
 ## Summary

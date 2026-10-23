@@ -3,8 +3,8 @@ card_id: chatgpt-2025-02-14-9f7f55
 date: '2025-02-14'
 description: 'ChatGPT · 2025-02-14 · Mobile and Desktop: iOS performance fixes.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 703
   relation: same-theme-chronology

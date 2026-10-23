@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-08-14'
 description: 'ChatGPT release Edit memory settings for existing projects on 2026-08-14:
   1 tracked change across Memory and Personalization'
-machine_hash: b9b73fce82612f61e265b7b2976cdf0971a5e5965c63ab7c8036cc144a6c365c
+machine_hash: d5cdabe8639c3e1bc984ee17607eb7c8336d73bd4a34c6800a5c6365554b615a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -16,13 +16,13 @@ record:
     Open the project, select the three-dot menu, choose Project settings, and select
     Default memory or Project-only memory under Memory.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#edit-memory-settings-for-existing-projects
   title: Edit memory settings for existing projects
   version: Edit memory settings for existing projects
 release_id: chatgpt-2026-08-14-edit-memory-settings-for-existing-projects-db366858
 source_release: Edit memory settings for existing projects
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#edit-memory-settings-for-existing-projects
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Edit memory settings for existing projects
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Edit memory settings for existing projects
 
-**ChatGPT** · 2026-08-14 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-08-14 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#edit-memory-settings-for-existing-projects)
 <!-- chronolog:end -->
 
 ## Summary

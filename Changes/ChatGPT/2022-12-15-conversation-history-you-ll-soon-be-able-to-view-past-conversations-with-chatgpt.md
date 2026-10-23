@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 580d47840247e3dfc201b094af34af9f7493d40d91d1b5a824b0fd08a6d8c220
+machine_hash: 27dc84bce3c9633b8a4f763be51ace93d87b0f10dd4ea7bbd01479a279632037
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
   - quote: 'Conversation history: You’ll soon be able to view past conversations with
       ChatGPT, rename your saved conversations and delete the ones you don’t want
       to keep. We are gradually rolling out this feature.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#performance-updates-to-chatgpt
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -58,13 +58,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Conversation history: You’ll soon be able to view past conversations with ChatGPT…
 
-**ChatGPT** · 2022-12-15 · [[Themes/projects-workspaces|Projects and Workspaces]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d|Performance updates to ChatGPT]]
+**ChatGPT** · 2022-12-15 · [[Themes/projects-workspaces|Projects and Workspaces]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#performance-updates-to-chatgpt) · from [[Releases/ChatGPT/chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d|Performance updates to ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Conversation history: You’ll soon be able to view past conversations with ChatGPT, rename your saved conversations and delete the ones you don’t want to keep. We are gradually rolling out this feature.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#performance-updates-to-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -87,5 +87,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2022-12-15-23a232&body=Card%3A%20Changes%2FChatGPT%2F2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt.md%0ACard%20ID%3A%20chatgpt-2022-12-15-23a232%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2022-12-15-23a232&body=Card%3A%20Changes%2FChatGPT%2F2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt.md%0ACard%20ID%3A%20chatgpt-2022-12-15-23a232%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23performance-updates-to-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

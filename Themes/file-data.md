@@ -3,7 +3,7 @@ created: '2023-07-06'
 date: '2026-10-14'
 description: Cross-product timeline of Files and Data changes in ChatGPT, Claude Code
   and Cursor.
-machine_hash: e4a87ba85a42d872daf3e0475fa12b38a14e6a35544eaa314e16076c188a58f3
+machine_hash: 5e67b7bc484e728cc4a06a564d82158798eda92a2f05f3e5f4e579e31d54cc6a
 modified: '2026-10-14'
 products_involved:
 - ChatGPT
@@ -21,7 +21,7 @@ title: Files and Data
 <!-- chronolog:begin region="header" -->
 # Files and Data
 
-34 tracked changes across ChatGPT, Claude Code and Cursor · 2023-07-06 → 2026-10-14 · Claude Code averages 6.9 cards per release, Cursor 4.0, ChatGPT 1.7
+34 tracked changes across ChatGPT, Claude Code and Cursor · 2023-07-06 → 2026-10-14 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary

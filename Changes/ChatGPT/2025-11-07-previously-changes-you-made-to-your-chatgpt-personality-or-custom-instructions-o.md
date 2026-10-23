@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a221e467c2557d7e33114bbd5e5896e52f472b081fd51b1302f1011245ff7dab
+machine_hash: 7fce8914aa71fd01dd7ff9c3467af66deacee0124fcd4c8f49c7c5b4f3ad77d1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ record:
       → Personalization are applied immediately across all chats (including existing
       conversations!) so your experience stays consistent everywhere without needing
       to start a new thread.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personality-and-custom-instructions-now-apply-to-all-chats
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -67,13 +67,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Personality and custom instructions now apply to all chats
 
-**ChatGPT** · 2025-11-07 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-11-07-personality-and-custom-instructions-now-apply-to-all-chats-81e2ff22|Personality and custom instructions now apply to all chats]]
+**ChatGPT** · 2025-11-07 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personality-and-custom-instructions-now-apply-to-all-chats) · from [[Releases/ChatGPT/chatgpt-2025-11-07-personality-and-custom-instructions-now-apply-to-all-chats-81e2ff22|Personality and custom instructions now apply to all chats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Previously, changes you made to your ChatGPT personality or custom instructions only applied to new conversations. Starting today, updates you make in Settings → Personalization are applied immediately across all chats (including existing conversations!) so your experience stays consistent everywhere without needing to start a new thread.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personality-and-custom-instructions-now-apply-to-all-chats
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -94,5 +94,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-11-07-2c37c7&body=Card%3A%20Changes%2FChatGPT%2F2025-11-07-previously-changes-you-made-to-your-chatgpt-personality-or-custom-instructions-o.md%0ACard%20ID%3A%20chatgpt-2025-11-07-2c37c7%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-11-07-2c37c7&body=Card%3A%20Changes%2FChatGPT%2F2025-11-07-previously-changes-you-made-to-your-chatgpt-personality-or-custom-instructions-o.md%0ACard%20ID%3A%20chatgpt-2025-11-07-2c37c7%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23personality-and-custom-instructions-now-apply-to-all-chats%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

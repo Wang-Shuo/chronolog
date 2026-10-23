@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a27cd324228593a1299029276b89e420f1d5bdfe79c092fcecba7f79c3b00c33
+machine_hash: e4d5176212aeb00af791ec78cee124a3adc589574a16c0b7ad50dd3b49e9257e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       Plus users in the U.S.Eligible users can securely connect supported financial
       accounts, view a dashboard of their finances, and ask ChatGPT questions grounded
       in their financial context
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personal-finance-in-chatgpt-expands-to-plus-users-and-android
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -76,13 +76,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Personal finance in ChatGPT expands to Plus users and Android
 
-**ChatGPT** · 2026-06-26 · [[Themes/file-data|Files and Data]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-26-personal-finance-in-chatgpt-expands-to-plus-users-and-android-e1f9ce56|Personal finance in ChatGPT expands to Plus users and Android]]
+**ChatGPT** · 2026-06-26 · [[Themes/file-data|Files and Data]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personal-finance-in-chatgpt-expands-to-plus-users-and-android) · from [[Releases/ChatGPT/chatgpt-2026-06-26-personal-finance-in-chatgpt-expands-to-plus-users-and-android-e1f9ce56|Personal finance in ChatGPT expands to Plus users and Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > The personal finance experience in ChatGPT is rolling out to Plus users in the U.S. on web and iOS. It is also now available on Android for Pro and Plus users in the U.S.Eligible users can securely connect supported financial accounts, view a dashboard of their finances, and ask ChatGPT questions grounded in their financial context
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personal-finance-in-chatgpt-expands-to-plus-users-and-android
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -103,5 +103,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-26-531a97&body=Card%3A%20Changes%2FChatGPT%2F2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u.md%0ACard%20ID%3A%20chatgpt-2026-06-26-531a97%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-26-531a97&body=Card%3A%20Changes%2FChatGPT%2F2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u.md%0ACard%20ID%3A%20chatgpt-2026-06-26-531a97%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23personal-finance-in-chatgpt-expands-to-plus-users-and-android%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -3,7 +3,7 @@ changes_count: 2
 date: '2025-11-25'
 description: 'ChatGPT release An improved Voice interface: the audio you know, with
   text and visuals when you need them. on 2025-11-25: 2 tracked changes across…'
-machine_hash: 2a33b1b622b2eeb604bf5bac2b4f18314f252658126569352509c2f8f70c474f
+machine_hash: 7abc48d1a56c04f17e768922f7ef0507046e11e0eb24f6c2cff922ae70cc64e8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,7 +17,7 @@ record:
     separate mode required.Many of you have asked for a more flexible Voice experience—now,
     you can speak, listen, and see your conversation at the same time. Answers will…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#an-improved-voice-interface-the-audio-you-know-with-text-and-visuals-when-you-need-them
   title: 'An improved Voice interface: the audio you know, with text and visuals when
     you need them.'
   version: 'An improved Voice interface: the audio you know, with text and visuals
@@ -26,7 +26,7 @@ release_id: chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-wi
 source_release: 'An improved Voice interface: the audio you know, with text and visuals
   when you need them.'
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#an-improved-voice-interface-the-audio-you-know-with-text-and-visuals-when-you-need-them
 tags:
 - release
 - chatgpt
@@ -39,7 +39,7 @@ version: 'An improved Voice interface: the audio you know, with text and visuals
 <!-- chronolog:begin region="header" -->
 # ChatGPT · An improved Voice interface: the audio you know, with text and visuals when you need them.
 
-**ChatGPT** · 2025-11-25 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-11-25 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#an-improved-voice-interface-the-audio-you-know-with-text-and-visuals-when-you-need-them)
 <!-- chronolog:end -->
 
 ## Summary

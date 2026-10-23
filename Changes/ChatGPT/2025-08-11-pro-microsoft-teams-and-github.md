@@ -15,7 +15,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b8395e33d9c130ff0811576d5f17f39912e8d1aba69dd9e2711de4a696a1cdf3
+machine_hash: bb7ed5cdabea58a343299c84cc32262a34da624bbbd0761f48720f1d31d2b721
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
     and GitHub'
   evidence:
   - quote: 'Pro: Microsoft Teams and GitHub'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-connectors-for-plus-and-pro
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -55,13 +55,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Pro: Microsoft Teams and GitHub
 
-**ChatGPT** · 2025-08-11 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a|Additional connectors for Plus and Pro]]
+**ChatGPT** · 2025-08-11 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-connectors-for-plus-and-pro) · from [[Releases/ChatGPT/chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a|Additional connectors for Plus and Pro]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Pro: Microsoft Teams and GitHub
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-connectors-for-plus-and-pro
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -85,5 +85,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-08-11-196b01&body=Card%3A%20Changes%2FChatGPT%2F2025-08-11-pro-microsoft-teams-and-github.md%0ACard%20ID%3A%20chatgpt-2025-08-11-196b01%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-08-11-196b01&body=Card%3A%20Changes%2FChatGPT%2F2025-08-11-pro-microsoft-teams-and-github.md%0ACard%20ID%3A%20chatgpt-2025-08-11-196b01%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23additional-connectors-for-plus-and-pro%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

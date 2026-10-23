@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3fa094cef762bae1f778dbb8dc9f37c4ab5a5d1d4b0612e3cba7b084e7097e82
+machine_hash: 2ec8921142ef078edaa735476d40f2f62d6207284e90dc3edd5d36d92b6e78d8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
     has an updated layout'
   evidence:
   - quote: DALL-E focused view has an updated layout
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -53,13 +53,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # DALL-E focused view has an updated layout
 
-**ChatGPT** · 2024-11-22 · [[Themes/image-generation|Image Generation]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c|Updates to the ChatGPT Web experience]]
+**ChatGPT** · 2024-11-22 · [[Themes/image-generation|Image Generation]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience) · from [[Releases/ChatGPT/chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c|Updates to the ChatGPT Web experience]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > DALL-E focused view has an updated layout
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -86,5 +86,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-11-22-11d890&body=Card%3A%20Changes%2FChatGPT%2F2024-11-22-dall-e-focused-view-has-an-updated-layout.md%0ACard%20ID%3A%20chatgpt-2024-11-22-11d890%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-11-22-11d890&body=Card%3A%20Changes%2FChatGPT%2F2024-11-22-dall-e-focused-view-has-an-updated-layout.md%0ACard%20ID%3A%20chatgpt-2024-11-22-11d890%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23updates-to-the-chatgpt-web-experience%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

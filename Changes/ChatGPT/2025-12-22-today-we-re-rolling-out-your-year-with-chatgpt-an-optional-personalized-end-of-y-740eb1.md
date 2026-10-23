@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 37ccd6d73eb42e8f4d0e9ad1a572e4036c8479bae4261a0b0b1fa1a74168eb7b
+machine_hash: d2f6956e682fbe5e3ff6de088c50fddc87d6d9280186714136ade77346eb32a8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,7 +52,7 @@ record:
       meet a minimum activity threshold. If you have very limited activity, you’ll
       only see basic chat statistics.At launch, this experience is available in English
       in the United States, United Kingdom, Canada, Australia, and New Zealand.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#your-year-with-chatgpt
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -90,13 +90,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Your Year with ChatGPT
 
-**ChatGPT** · 2025-12-22 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-12-22-your-year-with-chatgpt-6dbbef4d|Your Year with ChatGPT]]
+**ChatGPT** · 2025-12-22 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#your-year-with-chatgpt) · from [[Releases/ChatGPT/chatgpt-2025-12-22-your-year-with-chatgpt-6dbbef4d|Your Year with ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Today we’re rolling out Your Year with ChatGPT, an optional, personalized end-of-year experience that reflects on how you interacted with ChatGPT in 2025. It highlights high-level themes from your conversations and includes summary statistics about your usage over the year.This experience is rolling out gradually throughout the day, so it may not be available to everyone immediately. It’s available to Free, Plus, and Pro users in the United States, the United Kingdom, Canada, Australia, and New Zealand as well as Go, Plus, and Pro users in India, and is not available on Business, Enterprise, or Edu plans.To see Your Year with ChatGPT, Memory and Reference Chat History must be turned on, and you must meet a minimum activity threshold. If you have very limited activity, you’ll only see basic chat statistics.At launch, this experience is available in English in the United States, United Kingdom, Canada, Australia, and New Zealand.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#your-year-with-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -117,5 +117,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-12-22-740eb1&body=Card%3A%20Changes%2FChatGPT%2F2025-12-22-today-we-re-rolling-out-your-year-with-chatgpt-an-optional-personalized-end-of-y-740eb1.md%0ACard%20ID%3A%20chatgpt-2025-12-22-740eb1%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-12-22-740eb1&body=Card%3A%20Changes%2FChatGPT%2F2025-12-22-today-we-re-rolling-out-your-year-with-chatgpt-an-optional-personalized-end-of-y-740eb1.md%0ACard%20ID%3A%20chatgpt-2025-12-22-740eb1%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23your-year-with-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

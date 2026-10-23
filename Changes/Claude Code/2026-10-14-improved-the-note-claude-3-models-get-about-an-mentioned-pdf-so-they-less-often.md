@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 480050587a34fa0dee1213b43b1f28aebe1acafcfd7c30417e1d796608a7146d
+machine_hash: 16f7048dcb07e1976a4e827dabaf021fb98ba5672b65cacdba28d864a5570e75
 product: claude-code
 product_name: Claude Code
 record:
@@ -90,6 +90,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-2-model-support-changes-in-v2-1-299|2 Model Support changes in v2.1.299]]
+- Later: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-gpt-6-pro-in-the-chat-tab-now-offers|GPT-6 Pro in the chat tab now offers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

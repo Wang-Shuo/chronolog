@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5f312d86d43840df0a4df1d4a02e176f973ea447df87d58d9b27c5f77548e3ea
+machine_hash: f050427c0751912cb83ad1fe2e1eb12a2a25d194409c3a167ec45a75ab886fbd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   evidence:
   - quote: You can now select a chart, metric, or record in the Health tab to get
       personalized explanations and insights based on your connected health information.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#explore-your-health-data-with-personalized-summaries
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -60,13 +60,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Explore your health data with personalized summaries
 
-**ChatGPT** · 2026-09-28 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-28-explore-your-health-data-with-personalized-summaries-bc04c126|Explore your health data with personalized summaries]]
+**ChatGPT** · 2026-09-28 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#explore-your-health-data-with-personalized-summaries) · from [[Releases/ChatGPT/chatgpt-2026-09-28-explore-your-health-data-with-personalized-summaries-bc04c126|Explore your health data with personalized summaries]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > You can now select a chart, metric, or record in the Health tab to get personalized explanations and insights based on your connected health information.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#explore-your-health-data-with-personalized-summaries
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -87,5 +87,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-28-3e7905&body=Card%3A%20Changes%2FChatGPT%2F2026-09-28-you-can-now-select-a-chart-metric-or-record-in-the-health-tab-to-get-personalize.md%0ACard%20ID%3A%20chatgpt-2026-09-28-3e7905%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-28-3e7905&body=Card%3A%20Changes%2FChatGPT%2F2026-09-28-you-can-now-select-a-chart-metric-or-record-in-the-health-tab-to-get-personalize.md%0ACard%20ID%3A%20chatgpt-2026-09-28-3e7905%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23explore-your-health-data-with-personalized-summaries%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

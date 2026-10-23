@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ac451f1a7b6c9ba6029131c8524c2cb31a7bb29a02370e0235c69d150c01fc6b
+machine_hash: 7cef8384d29e317f1ea9dbe3486a7e8597774a55bc10cc26a251bf8b67a67045
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
     file uploads, and expanded image generation'
   evidence:
   - quote: More messages, larger file uploads, and expanded image generation
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-brazil
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -59,13 +59,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # More messages, larger file uploads, and expanded image generation
 
-**ChatGPT** · 2025-10-28 · [[Themes/image-generation|Image Generation]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-10-28-chatgpt-go-now-available-in-brazil-6c8c9319|ChatGPT Go now available in Brazil]]
+**ChatGPT** · 2025-10-28 · [[Themes/image-generation|Image Generation]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-brazil) · from [[Releases/ChatGPT/chatgpt-2025-10-28-chatgpt-go-now-available-in-brazil-6c8c9319|ChatGPT Go now available in Brazil]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > More messages, larger file uploads, and expanded image generation
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-brazil
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -89,5 +89,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-10-28-6f5b7b&body=Card%3A%20Changes%2FChatGPT%2F2025-10-28-more-messages-larger-file-uploads-and-expanded-image-generation.md%0ACard%20ID%3A%20chatgpt-2025-10-28-6f5b7b%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-10-28-6f5b7b&body=Card%3A%20Changes%2FChatGPT%2F2025-10-28-more-messages-larger-file-uploads-and-expanded-image-generation.md%0ACard%20ID%3A%20chatgpt-2025-10-28-6f5b7b%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-go-now-available-in-brazil%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-03-26 · Mobile and Desktop: To give you more spac
   view your most critical chats and projects, the sidebar menu is now simplified on
   iOS and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1108
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fcf5c5f1a73b537fa774284a32228e784d49b2a0b6ca9c4e56442d0c2b15c177
+machine_hash: ed07e3239cc52e4121c2d47279b144dc534c8fa463822be305d2c836126dcb69
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       sidebar menu is now simplified on iOS and Android. ChatGPT experiences available
       to you based on your plan and usage—like Images, Codex, Pulse, and Apps—now
       appear in a horizontal bar above your chats and projects.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-simplified-sidebar-on-mobile
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -80,13 +80,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # A simplified sidebar on mobile
 
-**ChatGPT** · 2026-03-26 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-26-a-simplified-sidebar-on-mobile-0f580b11|A simplified sidebar on mobile]]
+**ChatGPT** · 2026-03-26 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-simplified-sidebar-on-mobile) · from [[Releases/ChatGPT/chatgpt-2026-03-26-a-simplified-sidebar-on-mobile-0f580b11|A simplified sidebar on mobile]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > To give you more space to view your most critical chats and projects, the sidebar menu is now simplified on iOS and Android. ChatGPT experiences available to you based on your plan and usage—like Images, Codex, Pulse, and Apps—now appear in a horizontal bar above your chats and projects.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-simplified-sidebar-on-mobile
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -107,5 +107,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-26-1b70e7&body=Card%3A%20Changes%2FChatGPT%2F2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar.md%0ACard%20ID%3A%20chatgpt-2026-03-26-1b70e7%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-26-1b70e7&body=Card%3A%20Changes%2FChatGPT%2F2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar.md%0ACard%20ID%3A%20chatgpt-2026-03-26-1b70e7%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23a-simplified-sidebar-on-mobile%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -4,8 +4,8 @@ date: '2026-08-31'
 description: 'ChatGPT · 2026-08-31 · Mobile and Desktop: ChatGPT Work and Codex can
   now use tools that supported websites provide directly in the desktop app’s built-in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1266
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9080ad88bf80671f8793608bf84848438acbdcb0b6128c1100ef915e6ad8489d
+machine_hash: 645ad335c3464fbd1de7f75e98ebd2d34da7c9e4e54e17437008ea7bb99e026e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   evidence:
   - quote: ChatGPT Work and Codex can now use tools that supported websites provide
       directly in the desktop app’s built-in browser.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-website-tools-in-the-desktop-browser
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -60,13 +60,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT Work and Codex can now use tools that supported websites provide directly…
 
-**ChatGPT** · 2026-08-31 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-31-use-website-tools-in-the-desktop-browser-6c07f08a|Use website tools in the desktop browser]]
+**ChatGPT** · 2026-08-31 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-website-tools-in-the-desktop-browser) · from [[Releases/ChatGPT/chatgpt-2026-08-31-use-website-tools-in-the-desktop-browser-6c07f08a|Use website tools in the desktop browser]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT Work and Codex can now use tools that supported websites provide directly in the desktop app’s built-in browser.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-website-tools-in-the-desktop-browser
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -89,5 +89,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-31-5aa461&body=Card%3A%20Changes%2FChatGPT%2F2026-08-31-chatgpt-work-and-codex-can-now-use-tools-that-supported-websites-provide-directl.md%0ACard%20ID%3A%20chatgpt-2026-08-31-5aa461%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-31-5aa461&body=Card%3A%20Changes%2FChatGPT%2F2026-08-31-chatgpt-work-and-codex-can-now-use-tools-that-supported-websites-provide-directl.md%0ACard%20ID%3A%20chatgpt-2026-08-31-5aa461%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23use-website-tools-in-the-desktop-browser%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -4,7 +4,7 @@ date: '2025-06-04'
 description: 'ChatGPT release Connectors in beta for deep research (Plus, Pro, Team,
   Enterprise, Edu) on 2025-06-04: 3 tracked changes across Search and Browsing, Apps
   and…'
-machine_hash: 99d4aab89a4e43855b0d26147f6abd146be7b8b16b812466863671a3654dac04
+machine_hash: c676624e3cbbaaff1874c6ddf403b541ea1ff38a460a27fc1dad39f893f0252c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,14 +18,14 @@ record:
     EEA, and the UK) to generate long-form, cited responses that include your company’s
     internal tools.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connectors-in-beta-for-deep-research-plus-pro-team-enterprise-edu
   title: Connectors in beta for deep research (Plus, Pro, Team, Enterprise, Edu)
   version: Connectors in beta for deep research (Plus, Pro, Team, Enterprise, Edu)
 release_id: chatgpt-2025-06-04-connectors-in-beta-for-deep-research-plus-pro-team-enterprise-ed-6bb21f0f
 source_release: Connectors in beta for deep research (Plus, Pro, Team, Enterprise,
   Edu)
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connectors-in-beta-for-deep-research-plus-pro-team-enterprise-edu
 tags:
 - release
 - chatgpt
@@ -37,7 +37,7 @@ version: Connectors in beta for deep research (Plus, Pro, Team, Enterprise, Edu)
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Connectors in beta for deep research (Plus, Pro, Team, Enterprise, Edu)
 
-**ChatGPT** · 2025-06-04 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-06-04 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connectors-in-beta-for-deep-research-plus-pro-team-enterprise-edu)
 <!-- chronolog:end -->
 
 ## Summary

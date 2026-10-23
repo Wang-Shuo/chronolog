@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: ec13c560d854b85bd1d1a5c433a221b1decc3ea26481075ee02a79272a90a4be
+machine_hash: 54005fcd2e7511c69dec610c83dd16baca37852e29de721c29af83d73917b118
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   evidence:
   - quote: 'We''re launching ChatGPT Go, our low cost subscription plan, in Indonesia.For
       Rp 75.000/month, ChatGPT Go provides everything included in the Free plan, and:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-indonesia
   extractor_version: fallback-v5
   impact: incremental
   kind: expansion
@@ -58,13 +58,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT launches ChatGPT Go, our low cost subscription plan, in Indonesia
 
-**ChatGPT** · 2025-09-22 · [[Themes/pricing-model|Pricing Model]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7|ChatGPT Go now available in Indonesia]]
+**ChatGPT** · 2025-09-22 · [[Themes/pricing-model|Pricing Model]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-indonesia) · from [[Releases/ChatGPT/chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7|ChatGPT Go now available in Indonesia]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We're launching ChatGPT Go, our low cost subscription plan, in Indonesia.For Rp 75.000/month, ChatGPT Go provides everything included in the Free plan, and:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-indonesia
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -88,5 +88,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-22-8031be&body=Card%3A%20Changes%2FChatGPT%2F2025-09-22-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-indonesia-for-rp-75.md%0ACard%20ID%3A%20chatgpt-2025-09-22-8031be%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-22-8031be&body=Card%3A%20Changes%2FChatGPT%2F2025-09-22-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-indonesia-for-rp-75.md%0ACard%20ID%3A%20chatgpt-2025-09-22-8031be%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-go-now-available-in-indonesia%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

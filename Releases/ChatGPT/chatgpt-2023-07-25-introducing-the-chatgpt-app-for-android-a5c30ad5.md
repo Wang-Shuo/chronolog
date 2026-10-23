@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-07-25'
 description: 'ChatGPT release Introducing the ChatGPT app for Android on 2023-07-25:
   1 tracked change across Mobile and Desktop'
-machine_hash: c49f29bb67e11bd8c5cd865278e934361882c20c45e6abd6e669245dd5035e88
+machine_hash: 0b0d4ff236b40666b2930cabd2904ae4b9378f4c7c94f4ada22842ead612a9aa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     the rollout to additional countries over the next week. You can track the Android
     rollout here.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-chatgpt-app-for-android
   title: Introducing the ChatGPT app for Android
   version: Introducing the ChatGPT app for Android
 release_id: chatgpt-2023-07-25-introducing-the-chatgpt-app-for-android-a5c30ad5
 source_release: Introducing the ChatGPT app for Android
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-chatgpt-app-for-android
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Introducing the ChatGPT app for Android
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Introducing the ChatGPT app for Android
 
-**ChatGPT** · 2023-07-25 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2023-07-25 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-chatgpt-app-for-android)
 <!-- chronolog:end -->
 
 ## Summary

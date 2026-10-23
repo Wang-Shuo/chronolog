@@ -4,8 +4,8 @@ date: '2026-08-20'
 description: 'ChatGPT · 2026-08-20 · Mobile and Desktop: Use Computer History in more
   regions. Computer History is now available in the EEA, Switzerland, and the United…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1255
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d5a6db11b144efcb20abecb9574dd4d7e1e42078210576cb2f9b6546eddaf090
+machine_hash: d15fd6f6c28006de8cc8406b10fe1fda05f41fe655dfbef7ad48ea505dff76f4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       in the EEA, Switzerland, and the United Kingdom for Pro users in the ChatGPT
       desktop app on macOS. It is off by default and requires Memories. Learn more
       about Computer History.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-and-chatgpt-feature-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -72,13 +72,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Use Computer History in more regions
 
-**ChatGPT** · 2026-08-20 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|Codex and ChatGPT feature updates]]
+**ChatGPT** · 2026-08-20 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-and-chatgpt-feature-updates) · from [[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|Codex and ChatGPT feature updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Use Computer History in more regions. Computer History is now available in the EEA, Switzerland, and the United Kingdom for Pro users in the ChatGPT desktop app on macOS. It is off by default and requires Memories. Learn more about Computer History.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-and-chatgpt-feature-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -103,5 +103,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-20-13542d&body=Card%3A%20Changes%2FChatGPT%2F2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee.md%0ACard%20ID%3A%20chatgpt-2026-08-20-13542d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-20-13542d&body=Card%3A%20Changes%2FChatGPT%2F2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee.md%0ACard%20ID%3A%20chatgpt-2026-08-20-13542d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23codex-and-chatgpt-feature-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

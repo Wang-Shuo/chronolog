@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 35a03a07b9784f1e867173f96a4ea97e7ad65037678789d6439649365801000b
+machine_hash: f465ff1cab914233199269104d6277486100cad0abf3d1d9b32f28f4af36132a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   evidence:
   - quote: Saved memories and Chat history are offered only to Plus and Pro accounts.•
       Free‑tier users have access to Saved memories only.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#enhanced-memory-in-chatgpt-including-eu-on-pluspro
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -60,13 +60,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Saved memories and Chat history are offered only to Plus and Pro…
 
-**ChatGPT** · 2025-05-08 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35|Enhanced Memory in ChatGPT (including EU) on Plus/Pro]]
+**ChatGPT** · 2025-05-08 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#enhanced-memory-in-chatgpt-including-eu-on-pluspro) · from [[Releases/ChatGPT/chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35|Enhanced Memory in ChatGPT (including EU) on Plus/Pro]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Saved memories and Chat history are offered only to Plus and Pro accounts.• Free‑tier users have access to Saved memories only.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#enhanced-memory-in-chatgpt-including-eu-on-pluspro
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -90,5 +90,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-05-08-2800fc&body=Card%3A%20Changes%2FChatGPT%2F2025-05-08-saved-memories-and-chat-history-are-offered-only-to-plus-and-pro-accounts-free-t.md%0ACard%20ID%3A%20chatgpt-2025-05-08-2800fc%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-05-08-2800fc&body=Card%3A%20Changes%2FChatGPT%2F2025-05-08-saved-memories-and-chat-history-are-offered-only-to-plus-and-pro-accounts-free-t.md%0ACard%20ID%3A%20chatgpt-2025-05-08-2800fc%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23enhanced-memory-in-chatgpt-including-eu-on-pluspro%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

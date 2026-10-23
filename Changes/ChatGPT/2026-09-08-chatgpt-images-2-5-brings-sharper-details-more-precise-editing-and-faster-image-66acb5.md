@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 26223e53b5974940f1c6fa3e0337a3112034ace5dab3ebf01bb79db4bbda1a3c
+machine_hash: 5f55e5ef0a240aa9877c35a5ea17acd0ae4c417dcda07a342afebd6ee3ed899b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,18 +32,18 @@ record:
   evidence:
   - quote: 'ChatGPT Images 2.5 brings sharper details, more precise editing, and faster
       image generation. We’re also introducing new ways to create and share:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-25-new-ways-to-create-and-edit
   - quote: Start from a template. Open Images → Templates, choose a template, and
       customize the details. ChatGPT may ask follow-up questions to help refine your
       request.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-25-new-ways-to-create-and-edit
   - quote: Some users will also see animated dots and a Snake game while images are
       generated. The loading experience varies by platform and rollout; Snake isn’t
       available in Work mode.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-25-new-ways-to-create-and-edit
   - quote: Templates are not yet available in Work mode. Existing image-generation
       limits are unchanged.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-25-new-ways-to-create-and-edit
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT Images 2.5 brings sharper details, more precise editing, and faster image…
 
-**ChatGPT** · 2026-09-08 · [[Themes/image-generation|Image Generation]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d|ChatGPT Images 2.5: new ways to create and edit]]
+**ChatGPT** · 2026-09-08 · [[Themes/image-generation|Image Generation]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-25-new-ways-to-create-and-edit) · from [[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d|ChatGPT Images 2.5: new ways to create and edit]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -94,7 +94,7 @@ type: change
 >
 > Templates are not yet available in Work mode. Existing image-generation limits are unchanged.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-25-new-ways-to-create-and-edit
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -118,5 +118,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-08-66acb5&body=Card%3A%20Changes%2FChatGPT%2F2026-09-08-chatgpt-images-2-5-brings-sharper-details-more-precise-editing-and-faster-image-66acb5.md%0ACard%20ID%3A%20chatgpt-2026-09-08-66acb5%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-08-66acb5&body=Card%3A%20Changes%2FChatGPT%2F2026-09-08-chatgpt-images-2-5-brings-sharper-details-more-precise-editing-and-faster-image-66acb5.md%0ACard%20ID%3A%20chatgpt-2026-09-08-66acb5%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-images-25-new-ways-to-create-and-edit%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

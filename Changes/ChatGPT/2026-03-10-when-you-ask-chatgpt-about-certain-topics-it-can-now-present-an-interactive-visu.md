@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9c4db0b4c52a7dd3dacdf855f978643721b555b52cae7a57160538c4353aaccc
+machine_hash: 45b90a9243853198dfa4f1fbebf536a8edc2a7f397672e57364581cc8253081c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,7 +44,7 @@ record:
       feature builds on other learning tools in ChatGPT, like study mode and quizzes,
       designed to help students work through problems step by step and strengthen
       understanding.Try asking:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interactive-learning-for-math-and-science
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -71,13 +71,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Interactive learning for math and science
 
-**ChatGPT** · 2026-03-10 · [[Themes/learning-tools|Learning Tools]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-10-interactive-learning-for-math-and-science-e25b67af|Interactive learning for math and science]]
+**ChatGPT** · 2026-03-10 · [[Themes/learning-tools|Learning Tools]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interactive-learning-for-math-and-science) · from [[Releases/ChatGPT/chatgpt-2026-03-10-interactive-learning-for-math-and-science-e25b67af|Interactive learning for math and science]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > When you ask ChatGPT about certain topics, it can now present an interactive visual module that lets you experiment with formulas and variables in real time. Adjust inputs, manipulate equations, and instantly see how changes affect graphs and outcomes—turning abstract concepts into something you can explore directly.Interactive learning launches with 70+ math and science topics, including concepts like the Pythagorean theorem, ideal gas law, circle area, and lens equations.This feature builds on other learning tools in ChatGPT, like study mode and quizzes, designed to help students work through problems step by step and strengthen understanding.Try asking:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interactive-learning-for-math-and-science
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -98,5 +98,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-10-7abfb8&body=Card%3A%20Changes%2FChatGPT%2F2026-03-10-when-you-ask-chatgpt-about-certain-topics-it-can-now-present-an-interactive-visu.md%0ACard%20ID%3A%20chatgpt-2026-03-10-7abfb8%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-10-7abfb8&body=Card%3A%20Changes%2FChatGPT%2F2026-03-10-when-you-ask-chatgpt-about-certain-topics-it-can-now-present-an-interactive-visu.md%0ACard%20ID%3A%20chatgpt-2026-03-10-7abfb8%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23interactive-learning-for-math-and-science%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

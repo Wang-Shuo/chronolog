@@ -4,8 +4,8 @@ date: '2026-07-09'
 description: 'ChatGPT · 2026-07-09 · Mobile and Desktop: Beginning July 9, users on
   web, iOS, and Android will no longer be able to create new group chats, turn existing…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1213
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e0efaf9d060a7fd6b6d274a2c176dcdb0f8cebf41ee6a8ad138dd0aa908b7452
+machine_hash: ca246373779c637875cb29bd3aeb2c414cfc342bf25d761b8892514fc771cbfd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
   - quote: Beginning July 9, users on web, iOS, and Android will no longer be able
       to create new group chats, turn existing conversations into group chats, or
       join a group chat through an invite link.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-group-chats-in-chatgpt
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -65,13 +65,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Beginning July 9, users on web, iOS, and Android will no longer be able to create…
 
-**ChatGPT** · 2026-07-09 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-09-retiring-group-chats-in-chatgpt-b45b9e40|Retiring group chats in ChatGPT]]
+**ChatGPT** · 2026-07-09 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-group-chats-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-07-09-retiring-group-chats-in-chatgpt-b45b9e40|Retiring group chats in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Beginning July 9, users on web, iOS, and Android will no longer be able to create new group chats, turn existing conversations into group chats, or join a group chat through an invite link.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-group-chats-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -94,5 +94,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-09-ed8dc0&body=Card%3A%20Changes%2FChatGPT%2F2026-07-09-beginning-july-9-users-on-web-ios-and-android-will-no-longer-be-able-to-create-n.md%0ACard%20ID%3A%20chatgpt-2026-07-09-ed8dc0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-09-ed8dc0&body=Card%3A%20Changes%2FChatGPT%2F2026-07-09-beginning-july-9-users-on-web-ios-and-android-will-no-longer-be-able-to-create-n.md%0ACard%20ID%3A%20chatgpt-2026-07-09-ed8dc0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23retiring-group-chats-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

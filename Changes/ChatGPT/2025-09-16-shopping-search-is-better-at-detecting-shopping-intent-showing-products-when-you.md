@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f8b90f33765f8482d0bd0675e385ad49a552c609b3c82ae7b36282cb7ee96ea1
+machine_hash: 787d0cb9fcf97471407c5b53f49d5eba873fa927944a2fae83a76a1638e42cdb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   evidence:
   - quote: 'Shopping: Search is better at detecting shopping intent, showing products
       when you want them and keeping results focused when you don’t.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-search-in-chatgpt
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -63,13 +63,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Shopping: Search is better at detecting shopping intent, showing products when you…
 
-**ChatGPT** · 2025-09-16 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690|Improvements to search in ChatGPT]]
+**ChatGPT** · 2025-09-16 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-search-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690|Improvements to search in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Shopping: Search is better at detecting shopping intent, showing products when you want them and keeping results focused when you don’t.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-search-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -94,5 +94,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-16-fa547e&body=Card%3A%20Changes%2FChatGPT%2F2025-09-16-shopping-search-is-better-at-detecting-shopping-intent-showing-products-when-you.md%0ACard%20ID%3A%20chatgpt-2025-09-16-fa547e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-16-fa547e&body=Card%3A%20Changes%2FChatGPT%2F2025-09-16-shopping-search-is-better-at-detecting-shopping-intent-showing-products-when-you.md%0ACard%20ID%3A%20chatgpt-2025-09-16-fa547e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23improvements-to-search-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

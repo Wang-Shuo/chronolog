@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ceae4d74f68004737cbfda949687e6c73acffd9f78228137c8fc109546d81ede
+machine_hash: aaacd245a986e175ac17a315f8e03230988610dd9136c53d12c744b6e5c8ae33
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
     plans only]'
   evidence:
   - quote: Pro Standard [Pro plans only]
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#simplified-controls-in-the-model-picker
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -57,13 +57,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Pro Standard [Pro plans only]
 
-**ChatGPT** · 2026-06-10 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba|Simplified controls in the model picker]]
+**ChatGPT** · 2026-06-10 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#simplified-controls-in-the-model-picker) · from [[Releases/ChatGPT/chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba|Simplified controls in the model picker]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Pro Standard [Pro plans only]
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#simplified-controls-in-the-model-picker
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -88,5 +88,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-10-c9cf00&body=Card%3A%20Changes%2FChatGPT%2F2026-06-10-pro-standard-pro-plans-only.md%0ACard%20ID%3A%20chatgpt-2026-06-10-c9cf00%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-10-c9cf00&body=Card%3A%20Changes%2FChatGPT%2F2026-06-10-pro-standard-pro-plans-only.md%0ACard%20ID%3A%20chatgpt-2026-06-10-c9cf00%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23simplified-controls-in-the-model-picker%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

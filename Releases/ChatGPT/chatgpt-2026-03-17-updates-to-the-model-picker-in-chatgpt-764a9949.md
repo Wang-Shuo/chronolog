@@ -3,7 +3,7 @@ changes_count: 4
 date: '2026-03-17'
 description: 'ChatGPT release Updates to the model picker in ChatGPT on 2026-03-17:
   4 tracked changes across Model Support, Enterprise and Administration'
-machine_hash: 80293889439fac71be0e71c01710c92e597c78ff981ffd3fe7cb6dab72a34abf
+machine_hash: 8bab466279d5977c3f0cb7aeb4d1b3a6ed0680762cdc8c0a19d8b7422299f717
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -16,13 +16,13 @@ record:
     right level of reasoning.Users on Plus, Pro, Business, Enterprise, and Edu accounts
     will see a set of model options depending on their plan, including:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-model-picker-in-chatgpt
   title: Updates to the model picker in ChatGPT
   version: Updates to the model picker in ChatGPT
 release_id: chatgpt-2026-03-17-updates-to-the-model-picker-in-chatgpt-764a9949
 source_release: Updates to the model picker in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-model-picker-in-chatgpt
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Updates to the model picker in ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Updates to the model picker in ChatGPT
 
-**ChatGPT** · 2026-03-17 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-03-17 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-model-picker-in-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

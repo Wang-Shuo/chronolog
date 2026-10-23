@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2ebddd4c44f8cfd281f337b2a0507df0d48290906a7a0297eff141989065996a
+machine_hash: 7b64dae4756a0d3f4f1fa30f0cd511c2e87862aec538fc2a03a57cdaced7a13d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ record:
       in chat responses through writing blocks and code blocks. Paid users can continue
       using canvas for a limited time through legacy models until those models are
       sunset.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-update
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -82,13 +82,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # GPT-5.5 Instant Update
 
-**ChatGPT** · 2026-05-28 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-05-28-gpt-5-5-instant-update-6c17e30e|GPT-5.5 Instant Update]]
+**ChatGPT** · 2026-05-28 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-update) · from [[Releases/ChatGPT/chatgpt-2026-05-28-gpt-5-5-instant-update-6c17e30e|GPT-5.5 Instant Update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re updating GPT-5.5 Instant in ChatGPT and the API to improve response style and quality. It’s now easier to read, more natural in everyday conversations, and better paced in practical help tasks, with fewer overly long or bullet-heavy responses.With this update, canvas will no longer be available in GPT-5.5 Instant or GPT-5.5 Thinking. Writing and coding functionality is now supported directly in chat responses through writing blocks and code blocks. Paid users can continue using canvas for a limited time through legacy models until those models are sunset.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-update
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -109,5 +109,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-05-28-d778f1&body=Card%3A%20Changes%2FChatGPT%2F2026-05-28-we-re-updating-gpt-5-5-instant-in-chatgpt-and-the-api-to-improve-response-style.md%0ACard%20ID%3A%20chatgpt-2026-05-28-d778f1%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-05-28-d778f1&body=Card%3A%20Changes%2FChatGPT%2F2026-05-28-we-re-updating-gpt-5-5-instant-in-chatgpt-and-the-api-to-improve-response-style.md%0ACard%20ID%3A%20chatgpt-2026-05-28-d778f1%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23gpt-55-instant-update%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

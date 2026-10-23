@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d30295ea20b472991ac950102394531c18ee12a1ed89c660de3098fc4af89952
+machine_hash: 4274757814e64d2a320d54d77946123c9a62d6a1932ee3ce9a25a5a89e1b195b
 product: claude-code
 product_name: Claude Code
 record:
@@ -92,6 +92,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-10-06 · ChatGPT · [[Changes/ChatGPT/2026-10-06-upload-audio-files-to-chatgpt-to-create-transcripts-summarize-recordings-and-ask|Audio uploads in ChatGPT]]
+- Later: 2026-10-15 · ChatGPT · [[Changes/ChatGPT/2026-10-15-for-more-information-see-chatgpt-voice|For more information, see: ChatGPT Voice]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

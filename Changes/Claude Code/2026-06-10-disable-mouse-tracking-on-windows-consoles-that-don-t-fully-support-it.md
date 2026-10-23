@@ -4,8 +4,8 @@ date: '2026-06-10'
 description: 'Claude Code · 2026-06-10 · Mobile and Desktop: Disable mouse tracking
   on Windows consoles that don''t fully support it'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1184
   relation: same-theme-chronology

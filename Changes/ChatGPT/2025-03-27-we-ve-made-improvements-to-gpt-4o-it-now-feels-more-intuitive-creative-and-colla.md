@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f4ad3abe2fa6dbf831bb1796d3d775b6570f6f4ad07602845d03bf4229911994
+machine_hash: 7680d1367bfd9ba67b39e883ab429c4f4722f1dc73e9b62e3ff20de232785da1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   - quote: We’ve made improvements to GPT-4o—it now feels more intuitive, creative,
       and collaborative, with enhanced instruction-following, smarter coding capabilities,
       and a clearer communication style.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -62,13 +62,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT makes improvements to GPT-4o—it now feels more intuitive, creative…
 
-**ChatGPT** · 2025-03-27 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7|Improvements to GPT-4o]]
+**ChatGPT** · 2025-03-27 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o) · from [[Releases/ChatGPT/chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7|Improvements to GPT-4o]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’ve made improvements to GPT-4o—it now feels more intuitive, creative, and collaborative, with enhanced instruction-following, smarter coding capabilities, and a clearer communication style.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -93,5 +93,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-03-27-5afb48&body=Card%3A%20Changes%2FChatGPT%2F2025-03-27-we-ve-made-improvements-to-gpt-4o-it-now-feels-more-intuitive-creative-and-colla.md%0ACard%20ID%3A%20chatgpt-2025-03-27-5afb48%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-03-27-5afb48&body=Card%3A%20Changes%2FChatGPT%2F2025-03-27-we-ve-made-improvements-to-gpt-4o-it-now-feels-more-intuitive-creative-and-colla.md%0ACard%20ID%3A%20chatgpt-2025-03-27-5afb48%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23improvements-to-gpt-4o%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

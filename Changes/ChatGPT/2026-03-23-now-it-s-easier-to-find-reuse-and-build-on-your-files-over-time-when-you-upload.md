@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-03-23 · Mobile and Desktop: Now, it’s easier to
   reuse, and build on your files over time. When you upload or create a file—whether
   it’s a…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1105
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9e6b4b206b48190331c9b35dfbec7e5a8556b0dd0d2ec9fb6475bd789a2061b2
+machine_hash: f8b85c2c285015fbdbbcc7dc470d333099b7b1c118d3d499a7c9f32466dc9c87
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,7 +50,7 @@ record:
       uploaded in Temporary Chat are not saved to your Library.Availability: Rolling
       out globally for Plus, Pro, and Business users, coming soon to users in the
       European Economic Area, Switzerland, and the United Kingdom.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-in-chatgpt
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -101,13 +101,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # File Library in ChatGPT
 
-**ChatGPT** · 2026-03-23 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-23-file-library-in-chatgpt-7107c619|File Library in ChatGPT]]
+**ChatGPT** · 2026-03-23 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-03-23-file-library-in-chatgpt-7107c619|File Library in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Now, it’s easier to find, reuse, and build on your files over time. When you upload or create a file—whether it’s a PDF, spreadsheet, image, or more—it’s automatically saved to your Library. Generated images will continue to appear in the Images tab.You can quickly reference files in a chat using recent files in the composer, or browse everything you’ve uploaded in the Library tab in the sidebar. You can also ask ChatGPT about files you’ve saved (“What should I know about the document I uploaded yesterday?”) Library is available on web only. ‘Recent files’ in the composer and file search in ChatGPT are supported on iOS and Android.Files remain in your Library until you delete them. Files uploaded in Temporary Chat are not saved to your Library.Availability: Rolling out globally for Plus, Pro, and Business users, coming soon to users in the European Economic Area, Switzerland, and the United Kingdom.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -128,5 +128,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-23-acdb79&body=Card%3A%20Changes%2FChatGPT%2F2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload.md%0ACard%20ID%3A%20chatgpt-2026-03-23-acdb79%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-23-acdb79&body=Card%3A%20Changes%2FChatGPT%2F2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload.md%0ACard%20ID%3A%20chatgpt-2026-03-23-acdb79%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23file-library-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

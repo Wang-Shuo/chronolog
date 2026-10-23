@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-06-12'
 description: 'ChatGPT release Additional controls for memory summary on 2026-06-12:
   1 tracked change across Memory and Personalization'
-machine_hash: 796509c5d2274e81f3eac3c36752ae9f237279292f06b3764c6b880dd7bbdfde
+machine_hash: 116ea9aaff6173e6965a771fcdab8a17b9c7e0c5014e8353c3734392579a0259
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     ChatGPT may create new memories from chats that remain in your chat history. This
     control is…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-controls-for-memory-summary
   title: Additional controls for memory summary
   version: Additional controls for memory summary
 release_id: chatgpt-2026-06-12-additional-controls-for-memory-summary-37c89b72
 source_release: Additional controls for memory summary
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-controls-for-memory-summary
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Additional controls for memory summary
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Additional controls for memory summary
 
-**ChatGPT** · 2026-06-12 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-06-12 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-controls-for-memory-summary)
 <!-- chronolog:end -->
 
 ## Summary

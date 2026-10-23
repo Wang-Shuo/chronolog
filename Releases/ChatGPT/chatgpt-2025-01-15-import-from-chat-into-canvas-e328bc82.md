@@ -3,7 +3,7 @@ changes_count: 2
 date: '2025-01-15'
 description: 'ChatGPT release Import from Chat into Canvas on 2025-01-15: 2 tracked
   changes across Files and Data'
-machine_hash: ddb94aad1c449603984409b859a9105eac4d8265170363f8023711a980e53771
+machine_hash: 50c365725de3aaa678e5ae0c830427314627458b873b6821edf5af0e838a4c8e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
   release_id: chatgpt-2025-01-15-import-from-chat-into-canvas-e328bc82
   source_summary: Edit a full model response in Canvas
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#import-from-chat-into-canvas
   title: Import from Chat into Canvas
   version: Import from Chat into Canvas
 release_id: chatgpt-2025-01-15-import-from-chat-into-canvas-e328bc82
 source_release: Import from Chat into Canvas
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#import-from-chat-into-canvas
 tags:
 - release
 - chatgpt
@@ -31,7 +31,7 @@ version: Import from Chat into Canvas
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Import from Chat into Canvas
 
-**ChatGPT** · 2025-01-15 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-01-15 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#import-from-chat-into-canvas)
 <!-- chronolog:end -->
 
 ## Summary

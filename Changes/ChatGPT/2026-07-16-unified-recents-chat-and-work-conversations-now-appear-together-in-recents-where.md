@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4dbeffcff4ee1d4ecfb84ca70718470fcebacf1942a9d5473fef0db1965ef795
+machine_hash: 564d484cc83ae5517ce91ce7e3dbf4d884574ecd8996884a6637233e6fd788f1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   evidence:
   - quote: 'Unified Recents: Chat and Work conversations now appear together in Recents,
       where you can sort, filter, and pin them.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -66,13 +66,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Unified Recents: Chat and Work conversations now appear together in Recents, where…
 
-**ChatGPT** · 2026-07-16 · [[Themes/projects-workspaces|Projects and Workspaces]] · macOS and Windows · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad|ChatGPT desktop app experience updates]]
+**ChatGPT** · 2026-07-16 · [[Themes/projects-workspaces|Projects and Workspaces]] · macOS and Windows · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad|ChatGPT desktop app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Unified Recents: Chat and Work conversations now appear together in Recents, where you can sort, filter, and pin them.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -97,5 +97,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-16-3704a0&body=Card%3A%20Changes%2FChatGPT%2F2026-07-16-unified-recents-chat-and-work-conversations-now-appear-together-in-recents-where.md%0ACard%20ID%3A%20chatgpt-2026-07-16-3704a0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-16-3704a0&body=Card%3A%20Changes%2FChatGPT%2F2026-07-16-unified-recents-chat-and-work-conversations-now-appear-together-in-recents-where.md%0ACard%20ID%3A%20chatgpt-2026-07-16-3704a0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-desktop-app-experience-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

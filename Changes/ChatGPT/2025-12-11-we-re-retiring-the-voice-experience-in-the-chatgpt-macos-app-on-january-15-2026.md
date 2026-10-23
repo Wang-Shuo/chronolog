@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: e8a31d42072c839c2967248d7ad41daaf4fc3ceabf1751e081c7c5d694cac6dc
+machine_hash: bb299ef2013b906640688ca7a9c1e4c8f53ac49f6b8e3652d586ac1d0f27c15b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
   - quote: We’re retiring the Voice experience in the ChatGPT macOS app on January
       15, 2026. This change allows us to focus on more unified and improved voice
       experiences across our apps.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#voice-on-macos-desktop-app-is-retiring-effective-january-15-2026
   extractor_version: fallback-v5
   impact: incremental
   kind: policy
@@ -75,13 +75,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # We’re retiring the Voice experience in the ChatGPT macOS app on January 15, 2026
 
-**ChatGPT** · 2025-12-11 · [[Themes/voice|Voice and Audio]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-12-11-voice-on-macos-desktop-app-is-retiring-effective-january-15-2026-189e8580|Voice on macOS desktop app is retiring (effective January 15, 2026)]]
+**ChatGPT** · 2025-12-11 · [[Themes/voice|Voice and Audio]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#voice-on-macos-desktop-app-is-retiring-effective-january-15-2026) · from [[Releases/ChatGPT/chatgpt-2025-12-11-voice-on-macos-desktop-app-is-retiring-effective-january-15-2026-189e8580|Voice on macOS desktop app is retiring (effective January 15, 2026)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re retiring the Voice experience in the ChatGPT macOS app on January 15, 2026. This change allows us to focus on more unified and improved voice experiences across our apps.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#voice-on-macos-desktop-app-is-retiring-effective-january-15-2026
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -104,5 +104,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-12-11-178cb1&body=Card%3A%20Changes%2FChatGPT%2F2025-12-11-we-re-retiring-the-voice-experience-in-the-chatgpt-macos-app-on-january-15-2026.md%0ACard%20ID%3A%20chatgpt-2025-12-11-178cb1%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-12-11-178cb1&body=Card%3A%20Changes%2FChatGPT%2F2025-12-11-we-re-retiring-the-voice-experience-in-the-chatgpt-macos-app-on-january-15-2026.md%0ACard%20ID%3A%20chatgpt-2025-12-11-178cb1%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23voice-on-macos-desktop-app-is-retiring-effective-january-15-2026%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

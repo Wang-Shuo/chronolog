@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c9b558d2fd394734a15aa6bdfc323c91ac197190fb338c7cd778a49a74cc8431
+machine_hash: 900f192ad70350471abd14de7564b42177abb333ddef4f06c825c0362e708e60
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ record:
       signs in with the account that was granted access. You can review or remove
       viewers in the Site’s sharing controls. Learn more in Creating and managing
       ChatGPT Sites.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-sites-with-people-outside-your-workspace
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -68,13 +68,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Share Sites with people outside your workspace
 
-**ChatGPT** · 2026-09-03 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-03-share-sites-with-people-outside-your-workspace-88fde38a|Share Sites with people outside your workspace]]
+**ChatGPT** · 2026-09-03 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-sites-with-people-outside-your-workspace) · from [[Releases/ChatGPT/chatgpt-2026-09-03-share-sites-with-people-outside-your-workspace-88fde38a|Share Sites with people outside your workspace]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Eligible Site owners can now share a live ChatGPT Site with named people outside their workspace, without making the Site public. External viewers can use the shared Site but cannot edit or publish it.To share, open the Site, select Share, enter the recipient’s email, and save their viewer access. The recipient signs in with the account that was granted access. You can review or remove viewers in the Site’s sharing controls. Learn more in Creating and managing ChatGPT Sites.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-sites-with-people-outside-your-workspace
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -95,5 +95,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-03-e222bc&body=Card%3A%20Changes%2FChatGPT%2F2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside.md%0ACard%20ID%3A%20chatgpt-2026-09-03-e222bc%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-03-e222bc&body=Card%3A%20Changes%2FChatGPT%2F2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside.md%0ACard%20ID%3A%20chatgpt-2026-09-03-e222bc%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23share-sites-with-people-outside-your-workspace%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

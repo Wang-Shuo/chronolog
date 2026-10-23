@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: cffb4a1ffd8e344d577075ae32fd032e2a1b9b13bfad438dadfc04c490c40d98
+machine_hash: ebf5563ff14a316d43c4493df2fc2c508954a3d6e2d5f64f3239ee7791a0c169
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       have memory enabled will receive the upgrade automatically.• If you previously
       opted out of memory, ChatGPT will not reference past conversations unless you
       opt back in.See Memory FAQ.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#enhanced-memory-in-chatgpt-including-eu-on-pluspro
   extractor_version: fallback-v5
   impact: incremental
   kind: launch
@@ -64,13 +64,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Opt‑in reminders
 
-**ChatGPT** · 2025-05-08 · [[Themes/reliability-performance|Reliability and Performance]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35|Enhanced Memory in ChatGPT (including EU) on Plus/Pro]]
+**ChatGPT** · 2025-05-08 · [[Themes/reliability-performance|Reliability and Performance]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#enhanced-memory-in-chatgpt-including-eu-on-pluspro) · from [[Releases/ChatGPT/chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35|Enhanced Memory in ChatGPT (including EU) on Plus/Pro]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Outside the European regions listed above, all Plus and Pro accounts that have memory enabled will receive the upgrade automatically.• If you previously opted out of memory, ChatGPT will not reference past conversations unless you opt back in.See Memory FAQ.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#enhanced-memory-in-chatgpt-including-eu-on-pluspro
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -94,5 +94,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-05-08-507581&body=Card%3A%20Changes%2FChatGPT%2F2025-05-08-outside-the-european-regions-listed-above-all-plus-and-pro-accounts-that-have-me-507581.md%0ACard%20ID%3A%20chatgpt-2025-05-08-507581%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-05-08-507581&body=Card%3A%20Changes%2FChatGPT%2F2025-05-08-outside-the-european-regions-listed-above-all-plus-and-pro-accounts-that-have-me-507581.md%0ACard%20ID%3A%20chatgpt-2025-05-08-507581%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23enhanced-memory-in-chatgpt-including-eu-on-pluspro%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

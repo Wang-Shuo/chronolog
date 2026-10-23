@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-05-06'
 description: 'ChatGPT release Mobile UI (iOS/Android) changing on Free/Plus/Pro plans
   on 2025-05-06: 1 tracked change across Mobile and Desktop'
-machine_hash: 6ab7afe6dfa1e3770d9b2c1596fda02f2cf8a7d276dc6afacd956205a086d12e
+machine_hash: 52d3338f03c2ffb8503aa18527ef622b2422adbb38093fdc38e3de35391a55ae
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     that button opens a bottom‑sheet menu where users can choose tools like Create
     an image or Search the web.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#mobile-ui-iosandroid-changing-on-freepluspro-plans
   title: Mobile UI (iOS/Android) changing on Free/Plus/Pro plans
   version: Mobile UI (iOS/Android) changing on Free/Plus/Pro plans
 release_id: chatgpt-2025-05-06-mobile-ui-ios-android-changing-on-free-plus-pro-plans-be1d56cb
 source_release: Mobile UI (iOS/Android) changing on Free/Plus/Pro plans
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#mobile-ui-iosandroid-changing-on-freepluspro-plans
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Mobile UI (iOS/Android) changing on Free/Plus/Pro plans
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Mobile UI (iOS/Android) changing on Free/Plus/Pro plans
 
-**ChatGPT** · 2025-05-06 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-05-06 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#mobile-ui-iosandroid-changing-on-freepluspro-plans)
 <!-- chronolog:end -->
 
 ## Summary

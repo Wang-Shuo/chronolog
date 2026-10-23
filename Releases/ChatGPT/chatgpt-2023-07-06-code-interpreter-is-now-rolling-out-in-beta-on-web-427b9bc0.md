@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-07-06'
 description: 'ChatGPT release Code interpreter is now rolling out in beta on web on
   2023-07-06: 1 tracked change across Files and Data'
-machine_hash: 349c118cddf89ef86f89ad8b152ba10df071cf67525a9da7866afb1ce8bc1144
+machine_hash: 170101dc401d24df8faa1ac8462a55f1bf7a5f8b103ed2a33a89cb76bf06aa99
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     math, etc.We’ll be making these features accessible to Plus users on the web via
     the beta…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#code-interpreter-is-now-rolling-out-in-beta-on-web
   title: Code interpreter is now rolling out in beta on web
   version: Code interpreter is now rolling out in beta on web
 release_id: chatgpt-2023-07-06-code-interpreter-is-now-rolling-out-in-beta-on-web-427b9bc0
 source_release: Code interpreter is now rolling out in beta on web
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#code-interpreter-is-now-rolling-out-in-beta-on-web
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Code interpreter is now rolling out in beta on web
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Code interpreter is now rolling out in beta on web
 
-**ChatGPT** · 2023-07-06 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2023-07-06 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#code-interpreter-is-now-rolling-out-in-beta-on-web)
 <!-- chronolog:end -->
 
 ## Summary

@@ -3,7 +3,7 @@ changes_count: 4
 date: '2023-03-23'
 description: 'ChatGPT release Introducing plugins in ChatGPT on 2023-03-23: 4 tracked
   changes across Model Support, Apps and Integrations, Search and Browsing'
-machine_hash: e11a706da3682fc7edbb18bc40fedf3db08f9c8bfee01a45e93c351308317d30
+machine_hash: 13f0d19724d2157f3058182f176d28be83567a8b64bf3128c1639910e946b11b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     learn more about plugins here.Today, we will begin extending plugin access to
     users and…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt
   title: Introducing plugins in ChatGPT
   version: Introducing plugins in ChatGPT
 release_id: chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8
 source_release: Introducing plugins in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Introducing plugins in ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Introducing plugins in ChatGPT
 
-**ChatGPT** · 2023-03-23 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2023-03-23 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

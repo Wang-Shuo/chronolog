@@ -3,7 +3,7 @@ changes_count: 4
 date: '2025-03-18'
 description: 'ChatGPT release iOS App on 2025-03-18: 4 tracked changes across Interface
   Experience, Mobile and Desktop, Reliability and Performance'
-machine_hash: 3a689d5beceb49ed1a2fea8f2f38f5ec07acd936e3905d814ca28141314e8ff2
+machine_hash: 1f6c070b6806e401b2c0bb62e604eff17f2b9b019fab536c38d39d1d19f785d8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
   source_summary: 1⁠. Improved table-copying functionality out of ChatGPT responses
     on iOS and macOS.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app
   title: iOS App
   version: iOS App
 release_id: chatgpt-2025-03-18-ios-app-6a42bb0f
 source_release: iOS App
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: iOS App
 <!-- chronolog:begin region="header" -->
 # ChatGPT · iOS App
 
-**ChatGPT** · 2025-03-18 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-03-18 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app)
 <!-- chronolog:end -->
 
 ## Summary

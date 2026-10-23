@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f9e1186d169bf4364fe50a487cad0b90495c9430764539ad0ee9da27b2a333ab
+machine_hash: bbf7871f11ad572a4fc4d7dbc2f59344dad9bfc33129839738529f552a222ad2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       when a background Voice conversation no longer seems active, check whether you’re
       still there, and end the session if you don’t respond. You can turn off Background
       conversations at any time in Settings → Voice.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -75,13 +75,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Safeguards for background Voice conversations
 
-**ChatGPT** · 2026-08-07 · [[Themes/voice|Voice and Audio]] · iOS and Android · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
+**ChatGPT** · 2026-08-07 · [[Themes/voice|Voice and Audio]] · iOS and Android · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Safeguards for background Voice conversations. On mobile, ChatGPT can recognize when a background Voice conversation no longer seems active, check whether you’re still there, and end the session if you don’t respond. You can turn off Background conversations at any time in Settings → Voice.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -106,5 +106,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-07-be6a66&body=Card%3A%20Changes%2FChatGPT%2F2026-08-07-safeguards-for-background-voice-conversations-on-mobile-chatgpt-can-recognize-wh.md%0ACard%20ID%3A%20chatgpt-2026-08-07-be6a66%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-07-be6a66&body=Card%3A%20Changes%2FChatGPT%2F2026-08-07-safeguards-for-background-voice-conversations-on-mobile-chatgpt-can-recognize-wh.md%0ACard%20ID%3A%20chatgpt-2026-08-07-be6a66%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-app-experience-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

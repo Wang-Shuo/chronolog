@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-01-22'
 description: 'ChatGPT release 5.2 Personality System Prompt Update on 2026-01-22:
   1 tracked change across Model Support'
-machine_hash: cc8209a25d9af0efa1e5e0b0cb466a991298ed53a5f1f59351ed38de6e166c9d
+machine_hash: 5a6a1c323b8a01cd4263adb5b990ecd980e25073b87cdbb5c349ecfc3e9e32c5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     tone for ChatGPT, along with tuning characteristics like warmth and emoji use,
     within the…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#52-personality-system-prompt-update
   title: 5.2 Personality System Prompt Update
   version: 5.2 Personality System Prompt Update
 release_id: chatgpt-2026-01-22-5-2-personality-system-prompt-update-efbe6e4b
 source_release: 5.2 Personality System Prompt Update
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#52-personality-system-prompt-update
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: 5.2 Personality System Prompt Update
 <!-- chronolog:begin region="header" -->
 # ChatGPT · 5.2 Personality System Prompt Update
 
-**ChatGPT** · 2026-01-22 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-01-22 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#52-personality-system-prompt-update)
 <!-- chronolog:end -->
 
 ## Summary

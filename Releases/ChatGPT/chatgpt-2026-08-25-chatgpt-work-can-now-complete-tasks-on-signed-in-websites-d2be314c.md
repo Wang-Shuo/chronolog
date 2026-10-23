@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-08-25'
 description: 'ChatGPT release ChatGPT Work can now complete tasks on signed-in websites
   on 2026-08-25: 1 tracked change across Account and Access'
-machine_hash: fa90c611e190a07537e777725a4b8f7a4b3536837f76f1a1601e96e59c9f787a
+machine_hash: f9437224ab03e001a30bd2628d6e7e611c0b131c6e3aa72214a734b3cf3f840b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -16,13 +16,13 @@ record:
     done on some websites that require you to sign in—so you can hand off a task and
     step away while it keeps working.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-work-can-now-complete-tasks-on-signed-in-websites
   title: ChatGPT Work can now complete tasks on signed-in websites
   version: ChatGPT Work can now complete tasks on signed-in websites
 release_id: chatgpt-2026-08-25-chatgpt-work-can-now-complete-tasks-on-signed-in-websites-d2be314c
 source_release: ChatGPT Work can now complete tasks on signed-in websites
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-work-can-now-complete-tasks-on-signed-in-websites
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: ChatGPT Work can now complete tasks on signed-in websites
 <!-- chronolog:begin region="header" -->
 # ChatGPT Work can now complete tasks on signed-in websites
 
-**ChatGPT** · 2026-08-25 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-08-25 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-work-can-now-complete-tasks-on-signed-in-websites)
 <!-- chronolog:end -->
 
 ## Summary

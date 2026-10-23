@@ -1,10 +1,10 @@
 ---
 created: '2023-03-30'
-date: '2026-10-14'
+date: '2026-10-21'
 description: Cross-product timeline of Account and Access changes in ChatGPT, Claude
   Code and Cursor.
-machine_hash: 5c96d3d543206874f92be0d037d9b4c8065d31e3665ff6d96537b81562b47f29
-modified: '2026-10-14'
+machine_hash: 704e6e84f6aa5e10436bdf47a0ae2ca3c8bca2ee19fc32f31400d2453cb9060b
+modified: '2026-10-21'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Account and Access
 <!-- chronolog:begin region="header" -->
 # Account and Access
 
-77 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-30 → 2026-10-14 · Claude Code averages 6.9 cards per release, Cursor 4.0, ChatGPT 1.7
+80 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-30 → 2026-10-21 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -49,10 +49,13 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 68 entries (ChatGPT 8 · Claude Code 58 · Cursor 2)
+### 2026 · 71 entries (ChatGPT 8 · Claude Code 61 · Cursor 2)
 
 #### 2026-10
 
+- 2026-10-21 · **Claude Code** · [[Changes/Claude Code/2026-10-21-2-account-and-access-changes-in-v2-1-307|2 Account and Access changes in v2.1.307]] · Digest
+- 2026-10-20 · **Claude Code** · [[Changes/Claude Code/2026-10-20-vscode-changed-the-message-shown-when-a-session-does-not-start-in-time-and-no-ho|VSCode Changed the message shown when a session does not start in time and no hook…]]
+- 2026-10-16 · **Claude Code** · [[Changes/Claude Code/2026-10-16-added-a-notice-to-design-sync-and-design-login-that-standalone-claude-design-cla|Added a notice to /design-sync and /design-login that standalone Claude Design…]]
 - 2026-10-14 · **Claude Code** · [[Changes/Claude Code/2026-10-14-improved-the-error-shown-when-a-cloud-session-is-refused-because-your-claude-ai|Improved the error shown when a cloud session is refused because your claude.ai…]]
 - 2026-10-09 · **Claude Code** · [[Changes/Claude Code/2026-10-09-improved-the-errors-for-a-refused-cloud-session-they-now-say-why-your-organizati|Improved the errors for a refused cloud session]]
 - 2026-10-08 · **Claude Code** · [[Changes/Claude Code/2026-10-08-added-support-for-forceloginmethod-gateway-and-forcelogingatewayurl-in-your-own|Added support for forceLoginMethod: "gateway" and forceLoginGatewayUrl…]]

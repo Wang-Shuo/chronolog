@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 530085bf63e765ab9059598ec95c5baa01c81cfcc24addb6e323be5443087b86
+machine_hash: 66d456c4549d8ed765755cb902c594ed1140dbe3cb0692e13020e60ab30a897b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
   - quote: Pages follow Space’s availability and sharing settings. Sharing a Page
       does not give other people access to your private chats or memory; information
       added to the Page is visible to people who can view it.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-collaborate-on-pages
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -71,13 +71,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Pages follow Space’s availability and sharing settings
 
-**ChatGPT** · 2026-09-29 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-29-create-and-collaborate-on-pages-aae35683|Create and collaborate on Pages]]
+**ChatGPT** · 2026-09-29 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-collaborate-on-pages) · from [[Releases/ChatGPT/chatgpt-2026-09-29-create-and-collaborate-on-pages-aae35683|Create and collaborate on Pages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Pages follow Space’s availability and sharing settings. Sharing a Page does not give other people access to your private chats or memory; information added to the Page is visible to people who can view it.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-collaborate-on-pages
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -100,5 +100,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-2cbf84&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-pages-follow-space-s-availability-and-sharing-settings-sharing-a-page-does-not-g.md%0ACard%20ID%3A%20chatgpt-2026-09-29-2cbf84%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-2cbf84&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-pages-follow-space-s-availability-and-sharing-settings-sharing-a-page-does-not-g.md%0ACard%20ID%3A%20chatgpt-2026-09-29-2cbf84%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23create-and-collaborate-on-pages%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

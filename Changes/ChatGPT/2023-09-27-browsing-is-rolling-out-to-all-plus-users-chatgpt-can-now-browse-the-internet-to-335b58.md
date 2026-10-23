@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 12f4ec54f581a667af73ec19e32cb8969190084a4b47e1e9591f8efe11dc54cd
+machine_hash: a47b583d537f8a644b8997f4f14f9b9e205b434c2e9323c4675250caa0bc78d0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       to provide you with current and authoritative information, complete with direct
       links to sources. It is no longer limited to data before September 2021.To try
       it out, enable Browsing in your beta features setting.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-is-rolling-back-out-to-plus-users
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -64,13 +64,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Browsing is rolling out to all Plus users
 
-**ChatGPT** · 2023-09-27 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-09-27-browsing-is-rolling-back-out-to-plus-users-73e98403|Browsing is rolling back out to Plus users]]
+**ChatGPT** · 2023-09-27 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-is-rolling-back-out-to-plus-users) · from [[Releases/ChatGPT/chatgpt-2023-09-27-browsing-is-rolling-back-out-to-plus-users-73e98403|Browsing is rolling back out to Plus users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Browsing is rolling out to all Plus users. ChatGPT can now browse the internet to provide you with current and authoritative information, complete with direct links to sources. It is no longer limited to data before September 2021.To try it out, enable Browsing in your beta features setting.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-is-rolling-back-out-to-plus-users
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -93,5 +93,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-09-27-335b58&body=Card%3A%20Changes%2FChatGPT%2F2023-09-27-browsing-is-rolling-out-to-all-plus-users-chatgpt-can-now-browse-the-internet-to-335b58.md%0ACard%20ID%3A%20chatgpt-2023-09-27-335b58%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-09-27-335b58&body=Card%3A%20Changes%2FChatGPT%2F2023-09-27-browsing-is-rolling-out-to-all-plus-users-chatgpt-can-now-browse-the-internet-to-335b58.md%0ACard%20ID%3A%20chatgpt-2023-09-27-335b58%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23browsing-is-rolling-back-out-to-plus-users%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

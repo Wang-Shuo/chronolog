@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 47e0b25e7c642b3d701f54f2f6534f5b14db032dc16f9df1537797df692e91ea
+machine_hash: 38118c6d01be3726b7c86d82c0a0dedbdd4c609628a8988e20b6334e9b30eb8a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,11 +34,11 @@ record:
       a document, revise selected text, and adjust headings and formatting from the
       ChatGPT sidebar. Word joins Excel and PowerPoint through the same Microsoft
       add-in.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-word
   - quote: ChatGPT for Word is available on all ChatGPT plans, including Free. Your
       plan’s token limits apply, and Word draws from the shared usage allowance for
       Codex and other premium features on plans that include it.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-word
   extractor_version: fallback-v5
   impact: incremental
   kind: launch
@@ -67,7 +67,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT for Word
 
-**ChatGPT** · 2026-09-17 · [[Themes/interface-experience|Interface Experience]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-17-chatgpt-for-word-f072ecd9|ChatGPT for Word]]
+**ChatGPT** · 2026-09-17 · [[Themes/interface-experience|Interface Experience]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-word) · from [[Releases/ChatGPT/chatgpt-2026-09-17-chatgpt-for-word-f072ecd9|ChatGPT for Word]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -75,7 +75,7 @@ type: change
 >
 > ChatGPT for Word is available on all ChatGPT plans, including Free. Your plan’s token limits apply, and Word draws from the shared usage allowance for Codex and other premium features on plans that include it.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-word
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -96,5 +96,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-17-4c7506&body=Card%3A%20Changes%2FChatGPT%2F2026-09-17-chatgpt-is-now-available-in-microsoft-word-you-can-draft-from-notes-summarize-a-4c7506.md%0ACard%20ID%3A%20chatgpt-2026-09-17-4c7506%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-17-4c7506&body=Card%3A%20Changes%2FChatGPT%2F2026-09-17-chatgpt-is-now-available-in-microsoft-word-you-can-draft-from-notes-summarize-a-4c7506.md%0ACard%20ID%3A%20chatgpt-2026-09-17-4c7506%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-for-word%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

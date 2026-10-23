@@ -1,10 +1,10 @@
 ---
 created: '2023-05-24'
-date: '2026-10-14'
+date: '2026-10-19'
 description: Cross-product timeline of Collaboration changes in ChatGPT, Claude Code
   and Cursor.
-machine_hash: dbaa2e47f90e65b70ff737fc635b7d0dadbc253f17c6be8a42f5ee781403e96d
-modified: '2026-10-14'
+machine_hash: 19c09306816cbf9b32c3270db7c555415132a975da95ee93581370026e1dd1c9
+modified: '2026-10-19'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Collaboration
 <!-- chronolog:begin region="header" -->
 # Collaboration
 
-66 tracked changes across ChatGPT, Claude Code and Cursor · 2023-05-24 → 2026-10-14 · Claude Code averages 6.9 cards per release, Cursor 4.0, ChatGPT 1.7
+68 tracked changes across ChatGPT, Claude Code and Cursor · 2023-05-24 → 2026-10-19 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -51,10 +51,12 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 45 entries (ChatGPT 13 · Claude Code 11 · Cursor 21)
+### 2026 · 47 entries (ChatGPT 14 · Claude Code 12 · Cursor 21)
 
 #### 2026-10
 
+- 2026-10-19 · **Claude Code** · [[Changes/Claude Code/2026-10-19-added-a-warning-on-pro-and-max-plans-when-resuming-an-inactive-conversation-woul|Added a warning on Pro and Max plans when resuming an inactive conversation would…]] · Policy
+- 2026-10-16 · **ChatGPT** · [[Changes/ChatGPT/2026-10-16-chatgpt-slides-lets-you-create-presentations-and-keep-working-on-them-with-your|ChatGPT Slides lets you create presentations and keep working on them with your team…]]
 - 2026-10-14 · **Claude Code** · [[Changes/Claude Code/2026-10-14-changed-local-session-transcripts-to-also-record-each-api-request-s-system-promp|Changed local session transcripts to also record each API request's system prompt…]]
 - 2026-10-13 · **Cursor** · [[Changes/Cursor/2026-10-13-starting-today-the-marketplace-is-also-open-to-public-submissions-so-any-team-bu|Starting today, the marketplace is also open to public submissions, so any team…]]
 

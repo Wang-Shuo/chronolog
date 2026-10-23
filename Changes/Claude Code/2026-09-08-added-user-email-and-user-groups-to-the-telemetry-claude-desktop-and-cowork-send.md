@@ -4,8 +4,8 @@ date: '2026-09-08'
 description: 'Claude Code · 2026-09-08 · Mobile and Desktop: Added `user.email` and
   `user.groups` to the telemetry Claude Desktop and Cowork send through a Claude apps…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1274
   relation: same-theme-chronology

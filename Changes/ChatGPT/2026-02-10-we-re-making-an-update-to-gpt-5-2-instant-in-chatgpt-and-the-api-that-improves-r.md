@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4a2dbe98ee2882b0e872a503e770ba263514d0a0527334ada0f586ab41f0e4f2
+machine_hash: 3eec1cbd28b9cf3aecaafe40c80c6cba73c81b7f65e6b885e796e5da8e5425f9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ record:
       and grounded in tone, in a way that’s more contextually appropriate to the conversation.
       The model also tends to output clearer, more relevant answers to advice-seeking
       and how-to questions, more reliably placing the most important info upfront.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-52-instant-update
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -69,13 +69,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # GPT-5.2 Instant Update
 
-**ChatGPT** · 2026-02-10 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-10-gpt-5-2-instant-update-09d95a8b|GPT-5.2 Instant Update]]
+**ChatGPT** · 2026-02-10 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-52-instant-update) · from [[Releases/ChatGPT/chatgpt-2026-02-10-gpt-5-2-instant-update-09d95a8b|GPT-5.2 Instant Update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re making an update to GPT-5.2 Instant in ChatGPT and the API that improves response style and quality.Users should notice responses that are more measured and grounded in tone, in a way that’s more contextually appropriate to the conversation. The model also tends to output clearer, more relevant answers to advice-seeking and how-to questions, more reliably placing the most important info upfront.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-52-instant-update
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -96,5 +96,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-10-45228e&body=Card%3A%20Changes%2FChatGPT%2F2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r.md%0ACard%20ID%3A%20chatgpt-2026-02-10-45228e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-10-45228e&body=Card%3A%20Changes%2FChatGPT%2F2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r.md%0ACard%20ID%3A%20chatgpt-2026-02-10-45228e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23gpt-52-instant-update%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

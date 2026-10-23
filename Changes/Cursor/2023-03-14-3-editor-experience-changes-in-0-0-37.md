@@ -30,7 +30,7 @@ record:
     source_release: https://cursor.com/changelog/0-0-37
   - quote: Editing works for same file on multiple tabs
     source_release: https://cursor.com/changelog/0-0-37
-  - quote: Instant fix all lint errors with AI 😎
+  - quote: "Instant fix all lint errors with AI \U0001F60E"
     source_release: https://cursor.com/changelog/0-0-37
   extractor_version: fallback-v5
   impact: incremental

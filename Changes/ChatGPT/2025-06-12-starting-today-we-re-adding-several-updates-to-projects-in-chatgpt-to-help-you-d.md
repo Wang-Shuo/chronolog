@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e760e0a974171eaa65f5e4dd6800d2104c78ae2c31fd9a2dc26d2a0c2b54945e
+machine_hash: 2d74fcbfe1305198d5deca66c60b0ad8d913fd99d758526044d143ed6553c879
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   - quote: Starting today, we’re adding several updates to projects in ChatGPT to
       help you do more focused work. These updates are available for Plus, Pro, and
       Team users.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -60,13 +60,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Starting today, we’re adding several updates to projects in ChatGPT to help you do…
 
-**ChatGPT** · 2025-06-12 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8|Adding More Capabilities to Projects]]
+**ChatGPT** · 2025-06-12 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects) · from [[Releases/ChatGPT/chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8|Adding More Capabilities to Projects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Starting today, we’re adding several updates to projects in ChatGPT to help you do more focused work. These updates are available for Plus, Pro, and Team users.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -93,5 +93,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-12-a56e91&body=Card%3A%20Changes%2FChatGPT%2F2025-06-12-starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d.md%0ACard%20ID%3A%20chatgpt-2025-06-12-a56e91%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-12-a56e91&body=Card%3A%20Changes%2FChatGPT%2F2025-06-12-starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d.md%0ACard%20ID%3A%20chatgpt-2025-06-12-a56e91%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23adding-more-capabilities-to-projects%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c7bc02060b43fc1aed49bd03c94767c622a1765e9bfc263eaf13a4ebd9eacc7b
+machine_hash: 94d52fa584a4c58c3b049264c44ffa8b08bb451ea11ab54ef7fc457739ce7dcb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,7 +53,7 @@ record:
       updates are designed to make saved memory feel seamless, reliable, and easy
       to manage. We’re beginning to roll this out to Plus and Pro users globally on
       the web.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-can-now-automatically-manage-saved-memories-so-its-even-better-at-remembering-whats-important-to-you
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -82,13 +82,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT can now automatically manage saved memories so it’s even better…
 
-**ChatGPT** · 2025-10-15 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-10-15-chatgpt-can-now-automatically-manage-saved-memories-so-it-s-even-00bd082a|ChatGPT can now automatically manage saved memories so it’s even better at remembering what’s important to you.]]
+**ChatGPT** · 2025-10-15 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-can-now-automatically-manage-saved-memories-so-its-even-better-at-remembering-whats-important-to-you) · from [[Releases/ChatGPT/chatgpt-2025-10-15-chatgpt-can-now-automatically-manage-saved-memories-so-it-s-even-00bd082a|ChatGPT can now automatically manage saved memories so it’s even better at remembering what’s important to you.]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT now manages saved memories automatically by keeping the most relevant details prioritized and moving less important ones to the background. This helps prevent saved memories from reaching capacity and helps avoid “memory full” state in your ChatGPT account.To decide which memories stay top of mind, ChatGPT considers factors such as how recent a detail is and how often you talk about a topic. You can now also search your saved memories more easily and sort them by newest or oldest.You’re always in control: you can turn off automatic memory management at any time, and you can see which memories are currently top of mind and choose to prioritize or deprioritize any specific memory yourself in settings. You can also view and restore prior versions of saved memories.These updates are designed to make saved memory feel seamless, reliable, and easy to manage. We’re beginning to roll this out to Plus and Pro users globally on the web.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-can-now-automatically-manage-saved-memories-so-its-even-better-at-remembering-whats-important-to-you
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -109,5 +109,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-10-15-997f64&body=Card%3A%20Changes%2FChatGPT%2F2025-10-15-chatgpt-now-manages-saved-memories-automatically-by-keeping-the-most-relevant-de-997f64.md%0ACard%20ID%3A%20chatgpt-2025-10-15-997f64%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-10-15-997f64&body=Card%3A%20Changes%2FChatGPT%2F2025-10-15-chatgpt-now-manages-saved-memories-automatically-by-keeping-the-most-relevant-de-997f64.md%0ACard%20ID%3A%20chatgpt-2025-10-15-997f64%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-can-now-automatically-manage-saved-memories-so-its-even-better-at-remembering-whats-important-to-you%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

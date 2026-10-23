@@ -4,7 +4,7 @@ date: '2025-06-13'
 description: 'ChatGPT release Improvements to the ChatGPT search response quality
   on 2025-06-13: 4 tracked changes across Model Support, Reliability and Performance,
   Search…'
-machine_hash: 1f24510fcf023226e1d01989d17a49cd91f443e73bc6ce9eccfac26daeccb905
+machine_hash: bcfa928a2065781c4065e698af825c268e7624da225b0992b7ac204c709eadb8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     comprehensive, up-to-date responses. In testing, we found users preferred these
     search improvements over our previous search experience.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-the-chatgpt-search-response-quality
   title: Improvements to the ChatGPT search response quality
   version: Improvements to the ChatGPT search response quality
 release_id: chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464
 source_release: Improvements to the ChatGPT search response quality
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-the-chatgpt-search-response-quality
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Improvements to the ChatGPT search response quality
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Improvements to the ChatGPT search response quality
 
-**ChatGPT** · 2025-06-13 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-06-13 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-the-chatgpt-search-response-quality)
 <!-- chronolog:end -->
 
 ## Summary

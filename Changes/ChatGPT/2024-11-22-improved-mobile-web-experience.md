@@ -4,8 +4,8 @@ date: '2024-11-22'
 description: 'ChatGPT · 2024-11-22 · Mobile and Desktop: The experience with the on-screen
   keyboard on mobile devices has been greatly improved across iOS & Android devices'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 619
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5fc410325b7abf33dfa8a499aebd0cdc13f730bff106f4a5b1d8180dc703af09
+machine_hash: 40584c7a74554e9b95b1bdb761e1ca44a876e47b79e21cd26047fa8a554a0f1f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,14 +30,14 @@ record:
   evidence:
   - quote: The experience with the on-screen keyboard on mobile devices has been greatly
       improved across iOS & Android devices
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience
   - quote: The new sidebar is always in floating mode and auto closes when switching
       threads
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience
   - quote: We no longer focus the composer on mobile web when switching conversations
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience
   - quote: An issue causing scroll to get stuck in certain situations should be resolved
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -66,7 +66,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Improved Mobile Web Experience
 
-**ChatGPT** · 2024-11-22 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c|Updates to the ChatGPT Web experience]]
+**ChatGPT** · 2024-11-22 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience) · from [[Releases/ChatGPT/chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c|Updates to the ChatGPT Web experience]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -78,7 +78,7 @@ type: change
 >
 > An issue causing scroll to get stuck in certain situations should be resolved
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -105,5 +105,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-11-22-bb88f3&body=Card%3A%20Changes%2FChatGPT%2F2024-11-22-improved-mobile-web-experience.md%0ACard%20ID%3A%20chatgpt-2024-11-22-bb88f3%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-11-22-bb88f3&body=Card%3A%20Changes%2FChatGPT%2F2024-11-22-improved-mobile-web-experience.md%0ACard%20ID%3A%20chatgpt-2024-11-22-bb88f3%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23updates-to-the-chatgpt-web-experience%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

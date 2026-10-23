@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 720fd69d848435230fe075374baf39af17ca9ee6f560a77549e71406b60c32b6
+machine_hash: dc8c780961397e2f0f34211afe5a3fb19dfeff130a1f4141629738d5959c92a2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,7 +45,7 @@ record:
       by mistake, they can quickly verify their age with a selfie through Persona,
       a verification service available in Settings > Account. Users can check whether
       safeguards have been added and verify at any time.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#rolling-out-age-prediction
   extractor_version: fallback-v5
   impact: significant
   kind: policy
@@ -84,13 +84,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Rolling out age prediction
 
-**ChatGPT** · 2026-01-20 · [[Themes/model-support|Model Support]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-01-20-rolling-out-age-prediction-2382655a|Rolling out age prediction]]
+**ChatGPT** · 2026-01-20 · [[Themes/model-support|Model Support]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#rolling-out-age-prediction) · from [[Releases/ChatGPT/chatgpt-2026-01-20-rolling-out-age-prediction-2382655a|Rolling out age prediction]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We're rolling out an age prediction model on ChatGPT consumer plans to help determine whether an account likely belongs to someone under 18, so we can apply the right experience and safeguards for teens. The model looks at a combination of behavioral and account-level signals, including how long an account has existed, typical times of day when someone is active, usage patterns over time, and a user’s stated age.If an adult is placed in the under-18 experience by mistake, they can quickly verify their age with a selfie through Persona, a verification service available in Settings > Account. Users can check whether safeguards have been added and verify at any time.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#rolling-out-age-prediction
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -111,5 +111,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-01-20-1a215f&body=Card%3A%20Changes%2FChatGPT%2F2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete.md%0ACard%20ID%3A%20chatgpt-2026-01-20-1a215f%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-01-20-1a215f&body=Card%3A%20Changes%2FChatGPT%2F2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete.md%0ACard%20ID%3A%20chatgpt-2026-01-20-1a215f%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23rolling-out-age-prediction%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

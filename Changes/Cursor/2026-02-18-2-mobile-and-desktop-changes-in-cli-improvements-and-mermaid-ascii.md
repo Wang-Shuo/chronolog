@@ -4,8 +4,8 @@ date: '2026-02-18'
 description: 'Cursor · 2026-02-18 · Mobile and Desktop: 2 changes in CLI Improvements
   and Mermaid ASCII Diagrams — Clipboard operations on Linux now work with Wayland…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1072
   relation: same-theme-chronology

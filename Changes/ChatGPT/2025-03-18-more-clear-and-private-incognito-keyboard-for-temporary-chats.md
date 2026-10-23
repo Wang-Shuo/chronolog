@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bdd6eb113ad307be6b177bd63dcb31bda9180908b1eec36f5b4f419af1e29990
+machine_hash: f62ef06c9dd371ab7ae73d33e0cf65e5383b464b0903d4292fa09b6d34daadca
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
     Temporary Chats.'
   evidence:
   - quote: More clear and private Incognito keyboard for Temporary Chats.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#android-app
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -59,13 +59,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # More clear and private Incognito keyboard for Temporary Chats
 
-**ChatGPT** · 2025-03-18 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-03-18-android-app-c47c961b|Android App]]
+**ChatGPT** · 2025-03-18 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#android-app) · from [[Releases/ChatGPT/chatgpt-2025-03-18-android-app-c47c961b|Android App]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > More clear and private Incognito keyboard for Temporary Chats.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#android-app
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -88,5 +88,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-03-18-493059&body=Card%3A%20Changes%2FChatGPT%2F2025-03-18-more-clear-and-private-incognito-keyboard-for-temporary-chats.md%0ACard%20ID%3A%20chatgpt-2025-03-18-493059%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-03-18-493059&body=Card%3A%20Changes%2FChatGPT%2F2025-03-18-more-clear-and-private-incognito-keyboard-for-temporary-chats.md%0ACard%20ID%3A%20chatgpt-2025-03-18-493059%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23android-app%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

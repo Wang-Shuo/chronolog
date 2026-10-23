@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-07-03'
 description: 'ChatGPT release Browsing is temporarily disabled on 2023-07-03: 1 tracked
   change across Search and Browsing'
-machine_hash: 9112ef95a007ed3dcfa2cde46ed48bc9ee1a2acfc7aee6669f51ea7be56bdfac
+machine_hash: 41f57f8e30949cda3917be264e0858c458480c832834db573c31750797f9e7d1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     it may inadvertently fulfill this request. We are temporarily disabling Browse
     while we fix this.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-is-temporarily-disabled
   title: Browsing is temporarily disabled
   version: Browsing is temporarily disabled
 release_id: chatgpt-2023-07-03-browsing-is-temporarily-disabled-aaf0005e
 source_release: Browsing is temporarily disabled
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-is-temporarily-disabled
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Browsing is temporarily disabled
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Browsing is temporarily disabled
 
-**ChatGPT** · 2023-07-03 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2023-07-03 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-is-temporarily-disabled)
 <!-- chronolog:end -->
 
 ## Summary

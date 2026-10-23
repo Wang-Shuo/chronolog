@@ -1,20 +1,20 @@
 ---
 coverage:
-  acquired_at: '2026-10-15T01:55:30Z'
+  acquired_at: '2026-10-23T12:44:43Z'
   acquisition: http
   coverage: available-endpoint
   earliest: '2023-03-14'
   known_gaps: Official paginated changelog only; unannounced changes are outside scope.
-  last_successful_fetch: '2026-10-15T01:55:30Z'
-  latest: '2026-10-13'
-  release_count: 255
+  last_successful_fetch: '2026-10-23T12:44:43Z'
+  latest: '2026-10-16'
+  release_count: 256
   url: https://cursor.com/changelog
 created: '2023-03-14'
-date: '2026-10-13'
+date: '2026-10-16'
 description: AI code editor built on a fork of VSCodium, with local and cloud coding
   agents, tracked through the official Cursor changelog.
-machine_hash: 8a60f991b5fd68b51f6568a09be97f34164b8a150f7b7339ad7a7ebb87c99df4
-modified: '2026-10-13'
+machine_hash: 747f722ff961f9350934d3b9da9e2f683a66eb3c4a881fac1ab52ed2066288ca
+modified: '2026-10-16'
 product: cursor
 product_name: Cursor
 publication: active
@@ -44,18 +44,18 @@ top_themes:
 - file-data
 - multimodal
 - image-generation
-verbosity_baseline: 4.04
+verbosity_baseline: 4.03
 ---
 
 <!-- chronolog:begin region="header" -->
 # Cursor
 
-AI code editor built on a fork of VSCodium, with local and cloud coding agents, tracked through the official Cursor changelog. · 255 releases · 2023-03-14 → 2026-10-13 · [[About|coverage details]]
+AI code editor built on a fork of VSCodium, with local and cloud coding agents, tracked through the official Cursor changelog. · 256 releases · 2023-03-14 → 2026-10-16 · [[About|coverage details]]
 <!-- chronolog:end -->
 
 ## Release cadence
 <!-- chronolog:begin region="cadence" -->
-Last release 2026-10-13 (1 day before the archive date) · 14 releases in the last 90 days · cadence: normal
+Last release 2026-10-16 (6 days before the archive date) · 13 releases in the last 90 days · cadence: normal
 
 Monthly releases, last 12 months (baseline 5.9 per month):
 
@@ -70,7 +70,7 @@ Monthly releases, last 12 months (baseline 5.9 per month):
 - 2026-07 ▇▇▇▇▇▇▇▇ 5
 - 2026-08 ▇▇▇▇▇▇▇▇ 5
 - 2026-09 ▇▇▇▇▇ 3
-- 2026-10 ▇▇▇ 2
+- 2026-10 ▇▇▇▇▇ 3
 <!-- chronolog:end -->
 
 ## Eras
@@ -134,19 +134,20 @@ Representative releases:
 
 ## Themes
 <!-- chronolog:begin region="themes" -->
-- [[Themes/agent-mode|Agent Mode]] · 128 cards · ████████████
+- [[Themes/agent-mode|Agent Mode]] · 130 cards · ████████████
 - [[Themes/editor-experience|Editor Experience]] · 96 cards · █████████
 - [[Themes/developer-workflow|Developer Workflow]] · 74 cards · ███████
 - [[Themes/apps-integrations|Apps and Integrations]] · 69 cards · ██████
 - [[Themes/interface-experience|Interface Experience]] · 69 cards · ██████
-- [[Themes/reliability-performance|Reliability and Performance]] · 59 cards · ██████
+- [[Themes/reliability-performance|Reliability and Performance]] · 60 cards · ██████
 - [[Themes/context-window|Context Window]] · 52 cards · █████
-- [[Themes/model-support|Model Support]] · 48 cards · █████
+- [[Themes/model-support|Model Support]] · 48 cards · ████
 - Other changes · 41 cards
 <!-- chronolog:end -->
 
 ## Recent releases
 <!-- chronolog:begin region="recent" -->
+- 2026-10-16 · [[Releases/Cursor/cursor-2026-10-16-cloud-agent-canvases-and-environment-improvements-https-cursor-c-1809cd74|Cloud Agent Canvases and Environment Improvements]] · 3 cards
 - 2026-10-13 · [[Releases/Cursor/cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c|Origin App Marketplace]] · 5 cards
 - 2026-10-06 · [[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|Remote control for local agents]] · 5 cards
 - 2026-09-23 · [[Releases/Cursor/cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb|Rollouts and Security Review]] · 11 cards
@@ -156,18 +157,18 @@ Representative releases:
 - 2026-08-19 · [[Releases/Cursor/cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1|Cloud Agents and Cursor Harness Improvements]] · 6 cards
 - 2026-08-17 · [[Releases/Cursor/cursor-2026-08-17-origin-code-hosting-https-cursor-com-changelog-origin-code-hosti-ed3a9195|Origin Code Hosting]] · 6 cards
 - 2026-08-13 · [[Releases/Cursor/cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3|Cloud Agents Start 3x Faster with Builds]] · 5 cards
-- 2026-08-03 · [[Releases/Cursor/cursor-2026-08-03-google-workspace-plugins-https-cursor-com-changelog-google-works-e8cf52f1|Google Workspace Plugins]] · 1 card
 <!-- chronolog:end -->
 
 ## Coverage
 <!-- chronolog:begin region="coverage" -->
-255 releases · 2023-03-14 → 2026-10-13 · [official source](https://cursor.com/changelog) · Official paginated changelog only; unannounced changes are outside scope.
+256 releases · 2023-03-14 → 2026-10-16 · [official source](https://cursor.com/changelog) · Official paginated changelog only; unannounced changes are outside scope.
 
 Acquisition details, how cards are made and known gaps: [[About]].
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="releases" -->
-> [!info]- Release archive (255 releases)
+> [!info]- Release archive (256 releases)
+> - 2026-10-16: [[Releases/Cursor/cursor-2026-10-16-cloud-agent-canvases-and-environment-improvements-https-cursor-c-1809cd74|Cloud Agent Canvases and Environment Improvements]]
 > - 2026-10-13: [[Releases/Cursor/cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c|Origin App Marketplace]]
 > - 2026-10-06: [[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|Remote control for local agents]]
 > - 2026-09-23: [[Releases/Cursor/cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb|Rollouts and Security Review]]
@@ -426,9 +427,12 @@ Acquisition details, how cards are made and known gaps: [[About]].
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="changes" -->
-> [!info]- All tracked changes (812 cards)
-> **2026** · 338 cards
+> [!info]- All tracked changes (815 cards)
+> **2026** · 341 cards
 >
+> - 2026-10-16 · Agent Mode: [[Changes/Cursor/2026-10-16-canvases-from-cloud-agents|Canvases from cloud agents]]
+> - 2026-10-16 · Reliability and Performance: [[Changes/Cursor/2026-10-16-larger-faster-environments|Larger, faster environments]]
+> - 2026-10-16 · Agent Mode: [[Changes/Cursor/2026-10-16-environments-api|Environments API]]
 > - 2026-10-13 · Collaboration: [[Changes/Cursor/2026-10-13-starting-today-the-marketplace-is-also-open-to-public-submissions-so-any-team-bu|Starting today, the marketplace is also open to public submissions, so any team…]]
 > - 2026-10-13 · Apps and Integrations: [[Changes/Cursor/2026-10-13-apps-for-your-stack|Apps for your stack]]
 > - 2026-10-13 · Other changes: [[Changes/Cursor/2026-10-13-want-to-build-an-origin-app-start-with-the-publishing-guide-and-the-origin-api-r|Want to build an Origin app?]]

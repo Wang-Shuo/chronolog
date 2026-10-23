@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5519259513306ae04b63a74ecd938ecfb9d56bee605e10e84ee75c4978025772
+machine_hash: e06662d0b8e926e387e7bc90b522828691f4309ee2e73650853ea0b45a5393f1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
     and expanded image generation'
   evidence:
   - quote: More messages, larger file uploads, and expanded image generation
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-go
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -59,13 +59,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # More messages, larger file uploads, and expanded image generation
 
-**ChatGPT** · 2025-08-18 · [[Themes/image-generation|Image Generation]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a|Introducing ChatGPT Go]]
+**ChatGPT** · 2025-08-18 · [[Themes/image-generation|Image Generation]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-go) · from [[Releases/ChatGPT/chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a|Introducing ChatGPT Go]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > More messages, larger file uploads, and expanded image generation
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-go
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -89,5 +89,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-08-18-d19989&body=Card%3A%20Changes%2FChatGPT%2F2025-08-18-more-messages-larger-file-uploads-and-expanded-image-generation.md%0ACard%20ID%3A%20chatgpt-2025-08-18-d19989%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-08-18-d19989&body=Card%3A%20Changes%2FChatGPT%2F2025-08-18-more-messages-larger-file-uploads-and-expanded-image-generation.md%0ACard%20ID%3A%20chatgpt-2025-08-18-d19989%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23introducing-chatgpt-go%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

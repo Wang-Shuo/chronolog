@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a5eb6df4f13a1c67fb132fba2e59c92d8d883f12f8c0ed03b0437b52766b6694
+machine_hash: 7cb681ca536d3c41eb2f734ebda53619f462d91dc12b9f00988c37e907c2f003
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
     reasoning models'
   evidence:
   - quote: Pro – the most advanced reasoning models
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-model-picker-in-chatgpt
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -57,13 +57,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Pro – the most advanced reasoning models
 
-**ChatGPT** · 2026-03-17 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-17-updates-to-the-model-picker-in-chatgpt-764a9949|Updates to the model picker in ChatGPT]]
+**ChatGPT** · 2026-03-17 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-model-picker-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-03-17-updates-to-the-model-picker-in-chatgpt-764a9949|Updates to the model picker in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Pro – the most advanced reasoning models
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-model-picker-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -88,5 +88,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-17-a8f1a3&body=Card%3A%20Changes%2FChatGPT%2F2026-03-17-pro-the-most-advanced-reasoning-models.md%0ACard%20ID%3A%20chatgpt-2026-03-17-a8f1a3%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-17-a8f1a3&body=Card%3A%20Changes%2FChatGPT%2F2026-03-17-pro-the-most-advanced-reasoning-models.md%0ACard%20ID%3A%20chatgpt-2026-03-17-a8f1a3%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23updates-to-the-model-picker-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

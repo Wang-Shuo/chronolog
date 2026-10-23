@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e84fa6a181eebeaa8d9c91c8a7028816555bf1de866e87f90f74c5a8da519ace
+machine_hash: 9d5864d83de74b8b18232b791257df4e7abec79347ccbb7d65aea6452fac703f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
     mini apps directly in chat'
   evidence:
   - quote: Preview diagrams and mini apps directly in chat
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interactive-code-blocks-in-chatgpt
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -57,13 +57,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Preview diagrams and mini apps directly in chat
 
-**ChatGPT** · 2026-02-19 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-19-interactive-code-blocks-in-chatgpt-c2254f84|Interactive Code Blocks in ChatGPT]]
+**ChatGPT** · 2026-02-19 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interactive-code-blocks-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-02-19-interactive-code-blocks-in-chatgpt-c2254f84|Interactive Code Blocks in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Preview diagrams and mini apps directly in chat
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interactive-code-blocks-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -87,5 +87,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-19-80a3b7&body=Card%3A%20Changes%2FChatGPT%2F2026-02-19-preview-diagrams-and-mini-apps-directly-in-chat.md%0ACard%20ID%3A%20chatgpt-2026-02-19-80a3b7%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-19-80a3b7&body=Card%3A%20Changes%2FChatGPT%2F2026-02-19-preview-diagrams-and-mini-apps-directly-in-chat.md%0ACard%20ID%3A%20chatgpt-2026-02-19-80a3b7%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23interactive-code-blocks-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

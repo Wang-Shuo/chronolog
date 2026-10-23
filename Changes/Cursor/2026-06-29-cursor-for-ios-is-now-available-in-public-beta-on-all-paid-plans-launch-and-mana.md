@@ -4,8 +4,8 @@ date: '2026-06-29'
 description: 'Cursor · 2026-06-29 · Mobile and Desktop: Cursor for iOS is now available
   in public beta on all paid plans. Launch and manage always-on agents from anywhere.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1203
   relation: same-theme-chronology

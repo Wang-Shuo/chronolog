@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b967373939cadde7bd8be7d86b6d2dfd317fa0a8061e2a7c7d599b1f127c305
+machine_hash: d195fd13ec7ce7e6e378cf432a17c83f541738e8af8c592a4791532cecf0102d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
   - quote: Use the controls at the bottom of the screen, like the camera button below,
       to get started. You can find screen share and image upload controls under the
       “...” menu at the bottom of the screen.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#santa-voice-and-video-and-screen-share-in-voice-chats
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -72,13 +72,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Use the controls at the bottom of the screen, like the camera button below, to get started
 
-**ChatGPT** · 2024-12-12 · [[Themes/multimodal|Multimodal Input]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d|Santa Voice and Video and Screen Share in Voice Chats]]
+**ChatGPT** · 2024-12-12 · [[Themes/multimodal|Multimodal Input]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#santa-voice-and-video-and-screen-share-in-voice-chats) · from [[Releases/ChatGPT/chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d|Santa Voice and Video and Screen Share in Voice Chats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Use the controls at the bottom of the screen, like the camera button below, to get started. You can find screen share and image upload controls under the “...” menu at the bottom of the screen.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#santa-voice-and-video-and-screen-share-in-voice-chats
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -102,5 +102,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-12-12-5a71ee&body=Card%3A%20Changes%2FChatGPT%2F2024-12-12-use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get.md%0ACard%20ID%3A%20chatgpt-2024-12-12-5a71ee%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-12-12-5a71ee&body=Card%3A%20Changes%2FChatGPT%2F2024-12-12-use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get.md%0ACard%20ID%3A%20chatgpt-2024-12-12-5a71ee%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23santa-voice-and-video-and-screen-share-in-voice-chats%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

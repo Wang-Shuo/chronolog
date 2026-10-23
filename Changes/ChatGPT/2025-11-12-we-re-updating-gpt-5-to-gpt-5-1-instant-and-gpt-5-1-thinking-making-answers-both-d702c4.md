@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 05ee8adec8cdfbe0d1b2de531e90522475f099839f9f961caeee8946e7052c04
+machine_hash: 27fce6854f581fe8cd38c25b04f37a989290fb13a10243222bcf01e541ac6cb0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,7 +49,7 @@ record:
       and logged-out users, with Enterprise and Edu getting a temporary early-access
       toggle; GPT-5.1 will also be available soon in the API as gpt-5.1-chat-latest
       (Instant) and gpt-5.1 (Thinking).
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-51-in-chatgpt
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -90,13 +90,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # GPT-5.1 in ChatGPT
 
-**ChatGPT** · 2025-11-12 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-11-12-gpt-5-1-in-chatgpt-3b83bb2f|GPT-5.1 in ChatGPT]]
+**ChatGPT** · 2025-11-12 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-51-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2025-11-12-gpt-5-1-in-chatgpt-3b83bb2f|GPT-5.1 in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re updating GPT-5 to GPT-5.1 Instant and GPT-5.1 Thinking, making answers both smarter and more conversational. GPT-5.1 Instant now uses light adaptive reasoning for tougher questions while staying fast, and GPT-5.1 Thinking adapts its thinking time more precisely for complex tasks with clearer, less jargony responses.GPT-5.1 Auto continues to route each query to the best model, and GPT-5 models remain available for three months under the Legacy models dropdown so you can compare and transition at your own pace.GPT-5.1 Instant and Thinking are rolling out first to paid (Pro, Plus, Go, Business) users, then to free and logged-out users, with Enterprise and Edu getting a temporary early-access toggle; GPT-5.1 will also be available soon in the API as gpt-5.1-chat-latest (Instant) and gpt-5.1 (Thinking).
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-51-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -117,5 +117,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-11-12-d702c4&body=Card%3A%20Changes%2FChatGPT%2F2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4.md%0ACard%20ID%3A%20chatgpt-2025-11-12-d702c4%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-11-12-d702c4&body=Card%3A%20Changes%2FChatGPT%2F2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4.md%0ACard%20ID%3A%20chatgpt-2025-11-12-d702c4%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23gpt-51-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

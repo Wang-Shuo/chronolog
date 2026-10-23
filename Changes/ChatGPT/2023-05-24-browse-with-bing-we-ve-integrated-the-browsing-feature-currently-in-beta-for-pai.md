@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 3371cc6097cad6903a5cdc639d42c62c8e668137d4db299e66e1835f88245370
+machine_hash: bb784f1168c3dcb6b32a3286413a67c099ee600cc3cddfb34035fba7112a682d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
   - quote: Browse with Bing. We’ve integrated the browsing feature - currently in
       beta for paid users - more deeply with Bing. You can now click into queries
       that the model is performing. We look forward to expanding the integration soon.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app-available-in-more-countries-shared-links-in-alpha-bing-plugin-disable-history-on-ios
   extractor_version: fallback-v5
   impact: significant
   kind: launch
@@ -65,13 +65,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Bing Plugin
 
-**ChatGPT** · 2023-05-24 · [[Themes/apps-integrations|Apps and Integrations]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96|iOS app available in more countries, shared links in alpha, Bing Plugin, disable history on iOS]]
+**ChatGPT** · 2023-05-24 · [[Themes/apps-integrations|Apps and Integrations]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app-available-in-more-countries-shared-links-in-alpha-bing-plugin-disable-history-on-ios) · from [[Releases/ChatGPT/chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96|iOS app available in more countries, shared links in alpha, Bing Plugin, disable history on iOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Browse with Bing. We’ve integrated the browsing feature - currently in beta for paid users - more deeply with Bing. You can now click into queries that the model is performing. We look forward to expanding the integration soon.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app-available-in-more-countries-shared-links-in-alpha-bing-plugin-disable-history-on-ios
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -96,5 +96,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-05-24-d5e485&body=Card%3A%20Changes%2FChatGPT%2F2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai.md%0ACard%20ID%3A%20chatgpt-2023-05-24-d5e485%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-05-24-d5e485&body=Card%3A%20Changes%2FChatGPT%2F2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai.md%0ACard%20ID%3A%20chatgpt-2023-05-24-d5e485%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23ios-app-available-in-more-countries-shared-links-in-alpha-bing-plugin-disable-history-on-ios%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

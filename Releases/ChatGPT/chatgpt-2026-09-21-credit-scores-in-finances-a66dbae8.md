@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-09-21'
 description: 'ChatGPT release Credit scores in Finances on 2026-09-21: 1 tracked change
   across Mobile and Desktop'
-machine_hash: 1f78aee6d376c4a1da2a938e0fc7f6ad1d9cbb20317224dc07ba583b1543f853
+machine_hash: 59fbe317a85ecd6e74865e14672a1fd5839a29fed27e3f3263fa71bbc6c45402
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     insights into what’s affecting your score and how it relates to your finances
     and goals.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#credit-scores-in-finances
   title: Credit scores in Finances
   version: Credit scores in Finances
 release_id: chatgpt-2026-09-21-credit-scores-in-finances-a66dbae8
 source_release: Credit scores in Finances
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#credit-scores-in-finances
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Credit scores in Finances
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Credit scores in Finances
 
-**ChatGPT** · 2026-09-21 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-09-21 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#credit-scores-in-finances)
 <!-- chronolog:end -->
 
 ## Summary

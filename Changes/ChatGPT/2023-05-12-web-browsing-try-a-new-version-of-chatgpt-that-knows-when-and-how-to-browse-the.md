@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ee855d58143dd6b0e3f0c452f0a57b208c805cc4839f3a6e959f494b88f4b2b2
+machine_hash: 6420061a09e7540645bc9a48821830f99e89b7e718cdd45a23952b40df2aa56d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
   evidence:
   - quote: 'Web browsing: Try a new version of ChatGPT that knows when and how to
       browse the internet to answer questions about recent topics and events.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-browsing-and-plugins-are-now-rolling-out-in-beta
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -58,13 +58,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Web browsing: Try a new version of ChatGPT that knows when and how to browse…
 
-**ChatGPT** · 2023-05-12 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7|Web browsing and Plugins are now rolling out in beta]]
+**ChatGPT** · 2023-05-12 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-browsing-and-plugins-are-now-rolling-out-in-beta) · from [[Releases/ChatGPT/chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7|Web browsing and Plugins are now rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Web browsing: Try a new version of ChatGPT that knows when and how to browse the internet to answer questions about recent topics and events.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-browsing-and-plugins-are-now-rolling-out-in-beta
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -89,5 +89,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-05-12-b6aa27&body=Card%3A%20Changes%2FChatGPT%2F2023-05-12-web-browsing-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-browse-the.md%0ACard%20ID%3A%20chatgpt-2023-05-12-b6aa27%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-05-12-b6aa27&body=Card%3A%20Changes%2FChatGPT%2F2023-05-12-web-browsing-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-browse-the.md%0ACard%20ID%3A%20chatgpt-2023-05-12-b6aa27%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23web-browsing-and-plugins-are-now-rolling-out-in-beta%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

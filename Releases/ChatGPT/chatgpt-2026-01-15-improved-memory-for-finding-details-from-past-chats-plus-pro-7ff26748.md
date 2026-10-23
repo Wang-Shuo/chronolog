@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-01-15'
 description: 'ChatGPT release Improved memory for finding details from past chats
   (Plus & Pro) on 2026-01-15: 1 tracked change across Memory and Personalization'
-machine_hash: edd6fc180e4d8cec99933be97482004ff91fb8f2197f0196c72231f4fd481249
+machine_hash: 7db0b49296e430d76a6ae6283769053e1fee8075a8e498e3270b708677cc79e1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     answer your question now appears as a source so you can open and review the original
     context.This memory improvement is now available for Plus and Pro users globally.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-memory-for-finding-details-from-past-chats-plus-pro
   title: Improved memory for finding details from past chats (Plus & Pro)
   version: Improved memory for finding details from past chats (Plus & Pro)
 release_id: chatgpt-2026-01-15-improved-memory-for-finding-details-from-past-chats-plus-pro-7ff26748
 source_release: Improved memory for finding details from past chats (Plus & Pro)
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-memory-for-finding-details-from-past-chats-plus-pro
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Improved memory for finding details from past chats (Plus & Pro)
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Improved memory for finding details from past chats (Plus & Pro)
 
-**ChatGPT** · 2026-01-15 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-01-15 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-memory-for-finding-details-from-past-chats-plus-pro)
 <!-- chronolog:end -->
 
 ## Summary

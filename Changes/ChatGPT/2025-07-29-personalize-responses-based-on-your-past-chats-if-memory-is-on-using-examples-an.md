@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a39cceff9d63602b067b1aa068786a488950941e37b6933bf00130a0651a1bb6
+machine_hash: 7e5f055e3298a0641dd345433886c9a50fa0fdcdc0f4e88095477c22302bb4e1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   evidence:
   - quote: Personalize responses based on your past chats if memory is on, using examples
       and tips tailored to you.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#study-mode
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -57,13 +57,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Personalize responses based on your past chats if memory is on, using examples…
 
-**ChatGPT** · 2025-07-29 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-07-29-study-mode-ffbfbea6|Study Mode]]
+**ChatGPT** · 2025-07-29 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#study-mode) · from [[Releases/ChatGPT/chatgpt-2025-07-29-study-mode-ffbfbea6|Study Mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Personalize responses based on your past chats if memory is on, using examples and tips tailored to you.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#study-mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -88,5 +88,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-07-29-81a5aa&body=Card%3A%20Changes%2FChatGPT%2F2025-07-29-personalize-responses-based-on-your-past-chats-if-memory-is-on-using-examples-an.md%0ACard%20ID%3A%20chatgpt-2025-07-29-81a5aa%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-07-29-81a5aa&body=Card%3A%20Changes%2FChatGPT%2F2025-07-29-personalize-responses-based-on-your-past-chats-if-memory-is-on-using-examples-an.md%0ACard%20ID%3A%20chatgpt-2025-07-29-81a5aa%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23study-mode%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

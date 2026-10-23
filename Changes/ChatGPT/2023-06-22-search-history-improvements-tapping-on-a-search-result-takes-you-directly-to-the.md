@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fe9f0f05638250f7931a01d42d6bdebd17324d8eb555d1d7af8927633e5b1de9
+machine_hash: 50cda62a4d2b275bf4c2af8cae80f1b858953e81a90f51d09df929e554b9db28
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   evidence:
   - quote: 'Search History Improvements: Tapping on a search result takes you directly
       to the respective point in the conversation.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-and-search-on-mobile
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -58,13 +58,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Search History Improvements
 
-**ChatGPT** · 2023-06-22 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98|Browsing and search on mobile]]
+**ChatGPT** · 2023-06-22 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-and-search-on-mobile) · from [[Releases/ChatGPT/chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98|Browsing and search on mobile]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Search History Improvements: Tapping on a search result takes you directly to the respective point in the conversation.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-and-search-on-mobile
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -88,5 +88,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-06-22-8758f2&body=Card%3A%20Changes%2FChatGPT%2F2023-06-22-search-history-improvements-tapping-on-a-search-result-takes-you-directly-to-the.md%0ACard%20ID%3A%20chatgpt-2023-06-22-8758f2%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-06-22-8758f2&body=Card%3A%20Changes%2FChatGPT%2F2023-06-22-search-history-improvements-tapping-on-a-search-result-takes-you-directly-to-the.md%0ACard%20ID%3A%20chatgpt-2023-06-22-8758f2%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23browsing-and-search-on-mobile%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

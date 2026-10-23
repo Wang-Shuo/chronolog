@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e81e90f914540dda5477cbd4a3312fc412da37a32d6ab16fe5eaff7b0cbf8e6f
+machine_hash: 4dc3c8b43df48bf8235c4922d9e80d447670dd032834c270fd7331fa613c13dd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +40,7 @@ record:
       your wall is 72" wide and you can't drill into it, you can simply add that information
       midstream by clicking “update” in the sidebar and sending the new information
       as a message. The model will adjust its approach based on your new requirements.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interrupt-chatgpt
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -82,13 +82,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Interrupt ChatGPT
 
-**ChatGPT** · 2025-11-05 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-11-05-interrupt-chatgpt-f1320118|Interrupt ChatGPT]]
+**ChatGPT** · 2025-11-05 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interrupt-chatgpt) · from [[Releases/ChatGPT/chatgpt-2025-11-05-interrupt-chatgpt-f1320118|Interrupt ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > You can now interrupt long-running queries (such as deep research or GPT-5 Pro) to refine what you’re asking—no restart required or progress lost. For example, if you're researching the perfect bookshelf and suddenly remember that your wall is 72" wide and you can't drill into it, you can simply add that information midstream by clicking “update” in the sidebar and sending the new information as a message. The model will adjust its approach based on your new requirements.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interrupt-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -109,5 +109,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-11-05-04febe&body=Card%3A%20Changes%2FChatGPT%2F2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to.md%0ACard%20ID%3A%20chatgpt-2025-11-05-04febe%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-11-05-04febe&body=Card%3A%20Changes%2FChatGPT%2F2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to.md%0ACard%20ID%3A%20chatgpt-2025-11-05-04febe%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23interrupt-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

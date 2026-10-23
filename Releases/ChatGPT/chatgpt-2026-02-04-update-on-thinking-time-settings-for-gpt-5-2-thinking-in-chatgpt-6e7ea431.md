@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-02-04'
 description: 'ChatGPT release Update on thinking time settings for GPT-5.2 Thinking
   in ChatGPT on 2026-02-04: 1 tracked change across Model Support'
-machine_hash: 1192b6e76e8db99440e04f105398f34779dc83cbff7804824be0a2aca9a6404f
+machine_hash: ff18e06daa093d93c8a22571211a9900bb9b7e8290dfeffd75092c55f3f54b4f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     have now fixed.February 3, 2026: We made another small reduction to Standard thinking
     time based…'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#update-on-thinking-time-settings-for-gpt-52-thinking-in-chatgpt
   title: Update on thinking time settings for GPT-5.2 Thinking in ChatGPT
   version: Update on thinking time settings for GPT-5.2 Thinking in ChatGPT
 release_id: chatgpt-2026-02-04-update-on-thinking-time-settings-for-gpt-5-2-thinking-in-chatgpt-6e7ea431
 source_release: Update on thinking time settings for GPT-5.2 Thinking in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#update-on-thinking-time-settings-for-gpt-52-thinking-in-chatgpt
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Update on thinking time settings for GPT-5.2 Thinking in ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Update on thinking time settings for GPT-5.2 Thinking in ChatGPT
 
-**ChatGPT** · 2026-02-04 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-02-04 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#update-on-thinking-time-settings-for-gpt-52-thinking-in-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

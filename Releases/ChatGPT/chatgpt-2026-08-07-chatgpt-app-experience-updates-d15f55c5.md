@@ -3,7 +3,7 @@ changes_count: 4
 date: '2026-08-07'
 description: 'ChatGPT release ChatGPT app experience updates on 2026-08-07: 4 tracked
   changes across Voice and Audio, Files and Data'
-machine_hash: 850e739e2c58a2722c6b767c521d8b0d7888a173c7761b61752a102f071a5e38
+machine_hash: 14c7dcfed47f2b6a684ede9266d7984df606fd24c0de2c5645c3bb61aef0ec8e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
   source_summary: We’ve made it easier to bring documents and saved files into your
     conversations, find what you need, and pick up where you left off.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
   title: ChatGPT app experience updates
   version: ChatGPT app experience updates
 release_id: chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5
 source_release: ChatGPT app experience updates
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: ChatGPT app experience updates
 <!-- chronolog:begin region="header" -->
 # ChatGPT app experience updates
 
-**ChatGPT** · 2026-08-07 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-08-07 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates)
 <!-- chronolog:end -->
 
 ## Summary

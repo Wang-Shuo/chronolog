@@ -4,8 +4,8 @@ date: '2023-06-22'
 description: 'ChatGPT · 2023-06-22 · Mobile and Desktop: We’ve made two updates to
   the mobile ChatGPT app:'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 100
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7771023689ccad7379d4d1f7bd17de2c131139c85cc2f9b162b9147e0fbaf741
+machine_hash: 531ed63a5fc20279195cd3509775b6981a23de94d7317b620630b2bf1bba17b8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
     the mobile ChatGPT app:'
   evidence:
   - quote: 'We’ve made two updates to the mobile ChatGPT app:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-and-search-on-mobile
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -41,8 +41,8 @@ record:
   title: ChatGPT makes two updates to the mobile ChatGPT app
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support
-  🥳]]'
+- "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support
+  \U0001F973]]"
 - '[[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f|ChatGPT
   app for iOS in more countries]]'
 - '[[Changes/ChatGPT/2023-05-24-you-can-now-disable-your-chat-history-on-ios-conversations-started-on-your-devic|Disable
@@ -57,13 +57,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT makes two updates to the mobile ChatGPT app
 
-**ChatGPT** · 2023-06-22 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98|Browsing and search on mobile]]
+**ChatGPT** · 2023-06-22 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-and-search-on-mobile) · from [[Releases/ChatGPT/chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98|Browsing and search on mobile]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’ve made two updates to the mobile ChatGPT app:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-and-search-on-mobile
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -87,5 +87,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-06-22-88b23f&body=Card%3A%20Changes%2FChatGPT%2F2023-06-22-we-ve-made-two-updates-to-the-mobile-chatgpt-app.md%0ACard%20ID%3A%20chatgpt-2023-06-22-88b23f%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-06-22-88b23f&body=Card%3A%20Changes%2FChatGPT%2F2023-06-22-we-ve-made-two-updates-to-the-mobile-chatgpt-app.md%0ACard%20ID%3A%20chatgpt-2023-06-22-88b23f%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23browsing-and-search-on-mobile%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

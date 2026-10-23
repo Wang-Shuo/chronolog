@@ -3,7 +3,7 @@ changes_count: 2
 date: '2025-12-17'
 description: 'ChatGPT release Tasks are now in Pulse on 2025-12-17: 2 tracked changes
   across Automation and Scheduling, Editor Experience'
-machine_hash: a4c2c3399605856f7d84416a52935fd39083ea3354ae5e98d91088358794f0cc
+machine_hash: 302850ab77b75de09bd2643a748913f31d69be09e65ae13daea89731ecbc0542
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
   source_summary: 'Tasks let you set up automated prompts that ChatGPT can run for
     you.You can now manage all your tasks directly in Pulse:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#tasks-are-now-in-pulse
   title: Tasks are now in Pulse
   version: Tasks are now in Pulse
 release_id: chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44
 source_release: Tasks are now in Pulse
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#tasks-are-now-in-pulse
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: Tasks are now in Pulse
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Tasks are now in Pulse
 
-**ChatGPT** · 2025-12-17 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-12-17 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#tasks-are-now-in-pulse)
 <!-- chronolog:end -->
 
 ## Summary

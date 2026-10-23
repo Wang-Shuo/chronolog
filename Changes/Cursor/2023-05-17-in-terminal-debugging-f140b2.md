@@ -44,8 +44,8 @@ record:
 related_changes:
 - '[[Changes/Cursor/2023-04-14-don-t-install-cursor-command-on-startup|Don''t install
   "cursor" command on startup]]'
-- '[[Changes/Cursor/2023-04-29-working-remote-ssh-support-through-the-openremote-ssh-extension|🌐
-  Working remote ssh support through the "OpenRemote - SSH" extension]]'
+- "[[Changes/Cursor/2023-04-29-working-remote-ssh-support-through-the-openremote-ssh-extension|\U0001F310
+  Working remote ssh support through the \"OpenRemote - SSH\" extension]]"
 - '[[Changes/Cursor/2023-05-17-remote-ssh-is-easier-to-use|Remote SSH is easier to
   use!]]'
 source_release: '[[Releases/Cursor/cursor-2023-05-17-0-2-16-https-cursor-com-changelog-0-2-16-e0618ec3|cursor-2023-05-17-0-2-16-https-cursor-com-changelog-0-2-16-e0618ec3]]'

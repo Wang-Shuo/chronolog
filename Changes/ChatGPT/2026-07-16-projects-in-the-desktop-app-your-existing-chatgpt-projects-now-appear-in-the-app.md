@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1f643b0052bd65561394d482392d9446f103033c38da984224af32fe19fab7da
+machine_hash: f3e5ac72f9bdfaba1f23b86d465386c359161e361cce10d0ef1071c80a5c63c3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   - quote: 'Projects in the desktop app: Your existing ChatGPT Projects now appear
       in the app. You can start a Chat conversation inside a Project or begin a Work
       thread using Project context.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -78,13 +78,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Projects in the desktop app: Your existing ChatGPT Projects now appear in the app
 
-**ChatGPT** · 2026-07-16 · [[Themes/projects-workspaces|Projects and Workspaces]] · macOS and Windows · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad|ChatGPT desktop app experience updates]]
+**ChatGPT** · 2026-07-16 · [[Themes/projects-workspaces|Projects and Workspaces]] · macOS and Windows · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad|ChatGPT desktop app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Projects in the desktop app: Your existing ChatGPT Projects now appear in the app. You can start a Chat conversation inside a Project or begin a Work thread using Project context.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -109,5 +109,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-16-434e7b&body=Card%3A%20Changes%2FChatGPT%2F2026-07-16-projects-in-the-desktop-app-your-existing-chatgpt-projects-now-appear-in-the-app.md%0ACard%20ID%3A%20chatgpt-2026-07-16-434e7b%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-16-434e7b&body=Card%3A%20Changes%2FChatGPT%2F2026-07-16-projects-in-the-desktop-app-your-existing-chatgpt-projects-now-appear-in-the-app.md%0ACard%20ID%3A%20chatgpt-2026-07-16-434e7b%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-desktop-app-experience-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

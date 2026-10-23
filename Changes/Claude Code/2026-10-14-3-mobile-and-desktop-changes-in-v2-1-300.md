@@ -4,8 +4,8 @@ date: '2026-10-14'
 description: 'Claude Code · 2026-10-14 · Mobile and Desktop: 3 changes in v2.1.300
   — Changed `CLAUDE_CODE_PROVIDER_MANAGED_BY_HOST` sessions to ignore CA-bundle, tool-proxy…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1310
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2de55c0dd0411877f0b986f74ea1f6bff4e4057b21c1927e90d7d93b626d182c
+machine_hash: 42a89ac069c64f93df3d5d113f1fec38edd5b6ee51767dd6326cdc6042537bc9
 product: claude-code
 product_name: Claude Code
 record:
@@ -102,6 +102,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.300
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-added-support-for-turning-off-the-attribution-block-in-claude-desktop-s-code-tab|Added support for turning off the attribution block in Claude Desktop's Code tab]]
+- Later: 2026-10-15 · Claude Code · [[Changes/Claude Code/2026-10-15-2-mobile-and-desktop-changes-in-v2-1-301|2 Mobile and Desktop changes in v2.1.301]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

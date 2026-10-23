@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-08-09'
 description: 'ChatGPT release Custom instructions are now available to free users
   on 2023-08-09: 1 tracked change across Memory and Personalization'
-machine_hash: 27803d24a08c5d37955b6a6b04c3ac1e58400b5604218ae73429b9b489ea9883
+machine_hash: d4ceee90669143548d1ad03b764d397bcbb4b6a5e476c6df5772984a8bb4a44b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     interactions with ChatGPT by providing specific details and guidelines for your
     chats.To add your instructions:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-instructions-are-now-available-to-free-users
   title: Custom instructions are now available to free users
   version: Custom instructions are now available to free users
 release_id: chatgpt-2023-08-09-custom-instructions-are-now-available-to-free-users-47df9fa5
 source_release: Custom instructions are now available to free users
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-instructions-are-now-available-to-free-users
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Custom instructions are now available to free users
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Custom instructions are now available to free users
 
-**ChatGPT** · 2023-08-09 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2023-08-09 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-instructions-are-now-available-to-free-users)
 <!-- chronolog:end -->
 
 ## Summary

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 602588cd8a3282ee908e12b366ccf959a8067141e54cdd8c474821bc5048184c
+machine_hash: 2f531e1f72b4fe2596af2a0cb9bdce1fe8bceef80a11048fa9062904feeafb93
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
   - quote: 'Long-press send to choose a model: Users on paid plans can now long-press
       the send button to choose a model for a one-off message without changing their
       default model.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -64,13 +64,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Long-press send to choose a model
 
-**ChatGPT** · 2026-06-08 · [[Themes/model-support|Model Support]] · iOS · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
+**ChatGPT** · 2026-06-08 · [[Themes/model-support|Model Support]] · iOS · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Long-press send to choose a model: Users on paid plans can now long-press the send button to choose a model for a one-off message without changing their default model.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -101,5 +101,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-08-918879&body=Card%3A%20Changes%2FChatGPT%2F2026-06-08-long-press-send-to-choose-a-model-users-on-paid-plans-can-now-long-press-the-sen.md%0ACard%20ID%3A%20chatgpt-2026-06-08-918879%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-08-918879&body=Card%3A%20Changes%2FChatGPT%2F2026-06-08-long-press-send-to-choose-a-model-users-on-paid-plans-can-now-long-press-the-sen.md%0ACard%20ID%3A%20chatgpt-2026-06-08-918879%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-app-experience-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1172d4630ef3bddcd56eec8d712761c2b3c8190369fef1ed3713eb431fc7c982
+machine_hash: 9b4dacc08ef1583905f2c5ea20f362ece639c5f8a98542318490d08a81daea24
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
     model'
   evidence:
   - quote: 'Default: the standard ChatGPT model'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-plus
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -57,13 +57,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Default: the standard ChatGPT model
 
-**ChatGPT** · 2023-02-09 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524|Introducing ChatGPT Plus]]
+**ChatGPT** · 2023-02-09 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-plus) · from [[Releases/ChatGPT/chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524|Introducing ChatGPT Plus]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Default: the standard ChatGPT model
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-plus
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -87,5 +87,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-02-09-6b7506&body=Card%3A%20Changes%2FChatGPT%2F2023-02-09-default-the-standard-chatgpt-model.md%0ACard%20ID%3A%20chatgpt-2023-02-09-6b7506%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-02-09-6b7506&body=Card%3A%20Changes%2FChatGPT%2F2023-02-09-default-the-standard-chatgpt-model.md%0ACard%20ID%3A%20chatgpt-2023-02-09-6b7506%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23introducing-chatgpt-plus%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

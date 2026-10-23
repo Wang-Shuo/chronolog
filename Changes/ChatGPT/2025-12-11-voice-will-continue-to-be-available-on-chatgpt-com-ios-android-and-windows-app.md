@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 19ad2d3ff0f9628cbca2f6d99968353f1aac05993e095d7eed469e6f65105843
+machine_hash: c3b17ef1aed995a3bf0b9702d94bdcbcd1c1f67618857b32d7b6a0eba08ca70e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   evidence:
   - quote: Voice will continue to be available on chatgpt.com, iOS, Android, and Windows
       app.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#voice-on-macos-desktop-app-is-retiring-effective-january-15-2026
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -71,13 +71,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Voice will continue to be available on chatgpt.com, iOS, Android, and Windows app
 
-**ChatGPT** · 2025-12-11 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-12-11-voice-on-macos-desktop-app-is-retiring-effective-january-15-2026-189e8580|Voice on macOS desktop app is retiring (effective January 15, 2026)]]
+**ChatGPT** · 2025-12-11 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#voice-on-macos-desktop-app-is-retiring-effective-january-15-2026) · from [[Releases/ChatGPT/chatgpt-2025-12-11-voice-on-macos-desktop-app-is-retiring-effective-january-15-2026-189e8580|Voice on macOS desktop app is retiring (effective January 15, 2026)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Voice will continue to be available on chatgpt.com, iOS, Android, and Windows app.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#voice-on-macos-desktop-app-is-retiring-effective-january-15-2026
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -100,5 +100,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-12-11-ac9a55&body=Card%3A%20Changes%2FChatGPT%2F2025-12-11-voice-will-continue-to-be-available-on-chatgpt-com-ios-android-and-windows-app.md%0ACard%20ID%3A%20chatgpt-2025-12-11-ac9a55%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-12-11-ac9a55&body=Card%3A%20Changes%2FChatGPT%2F2025-12-11-voice-will-continue-to-be-available-on-chatgpt-com-ios-android-and-windows-app.md%0ACard%20ID%3A%20chatgpt-2025-12-11-ac9a55%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23voice-on-macos-desktop-app-is-retiring-effective-january-15-2026%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

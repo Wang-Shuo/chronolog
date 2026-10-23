@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4dac72a1d72e0a2117687ba52c94698be48bee3e472c6e1129d49fb46bca57dd
+machine_hash: 55726054d49c0b4a2a5dc3dc5f470e6100479d1137dadfa3343eb87bfa880f07
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,10 +33,10 @@ record:
   - quote: Users can now share a Canvas asset such as rendered React/HTML code, document,
       or code with another user, similar to how you share a conversation. You can
       do this from the Canvas toolbar when Canvas is open.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canvas-sharing
   - quote: For more details about the canvas feature in ChatGPT, check out the following
       Help Center article!
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canvas-sharing
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -63,7 +63,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Canvas sharing
 
-**ChatGPT** · 2025-02-06 · [[Themes/file-data|Files and Data]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-02-06-canvas-sharing-5abe3818|Canvas sharing]]
+**ChatGPT** · 2025-02-06 · [[Themes/file-data|Files and Data]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canvas-sharing) · from [[Releases/ChatGPT/chatgpt-2025-02-06-canvas-sharing-5abe3818|Canvas sharing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -71,7 +71,7 @@ type: change
 >
 > For more details about the canvas feature in ChatGPT, check out the following Help Center article!
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canvas-sharing
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -92,5 +92,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-02-06-2f5aff&body=Card%3A%20Changes%2FChatGPT%2F2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or-2f5aff.md%0ACard%20ID%3A%20chatgpt-2025-02-06-2f5aff%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-02-06-2f5aff&body=Card%3A%20Changes%2FChatGPT%2F2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or-2f5aff.md%0ACard%20ID%3A%20chatgpt-2025-02-06-2f5aff%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23canvas-sharing%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

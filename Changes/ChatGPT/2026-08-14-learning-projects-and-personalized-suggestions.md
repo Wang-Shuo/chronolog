@@ -4,8 +4,8 @@ date: '2026-08-14'
 description: 'ChatGPT · 2026-08-14 · Mobile and Desktop: Practice with interactive
   quizzes. Ask ChatGPT to quiz you on a topic and answer questions directly in your…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1249
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: adc6f4e63fdf9a4faa071390951e89c8bf9289aca904b0bd15e57d6cbc4aced3
+machine_hash: 9c1cb5b2afa693154afae7fe47376a44b16f62817da1a04d7baa79099a1f4a65
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,14 +32,14 @@ record:
   - quote: Practice with interactive quizzes. Ask ChatGPT to quiz you on a topic and
       answer questions directly in your conversation. Available to all consumer ChatGPT
       plans and Edu plans on web and mobile.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
   - quote: Change an existing project’s memory setting. For eligible unshared projects,
       switch between default and project-only memory without starting a new project.
       Shared projects remain project-only.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
   - quote: Get suggestions that fit how you use ChatGPT. Eligible paid users can see
       homepage suggestions based on their conversation history and connected tools.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: launch
@@ -68,7 +68,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Learning, Projects, and personalized suggestions
 
-**ChatGPT** · 2026-08-14 · [[Themes/mobile-desktop|Mobile and Desktop]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
+**ChatGPT** · 2026-08-14 · [[Themes/mobile-desktop|Mobile and Desktop]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -78,7 +78,7 @@ type: change
 >
 > Get suggestions that fit how you use ChatGPT. Eligible paid users can see homepage suggestions based on their conversation history and connected tools.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -104,5 +104,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-14-5a8335&body=Card%3A%20Changes%2FChatGPT%2F2026-08-14-learning-projects-and-personalized-suggestions.md%0ACard%20ID%3A%20chatgpt-2026-08-14-5a8335%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-14-5a8335&body=Card%3A%20Changes%2FChatGPT%2F2026-08-14-learning-projects-and-personalized-suggestions.md%0ACard%20ID%3A%20chatgpt-2026-08-14-5a8335%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-app-experience-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

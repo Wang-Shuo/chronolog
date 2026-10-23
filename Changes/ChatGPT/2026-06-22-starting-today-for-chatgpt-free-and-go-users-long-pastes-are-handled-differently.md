@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 46ad66a84ee783a4fcb9ee09ca56ad9927b6c5a8d06beb67d810152d42496763
+machine_hash: e86114f693f662b43d27812daa94db5fbef3a196afbd620d9c90aecca1e524cb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,7 +46,7 @@ record:
       ChatGPT Plus, Pro, and Business users. Previously if you sent more than 5k characters
       it was sent as an attachment. The threshold has now also been raised to 10k
       characters.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments-for-more-plans
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -77,13 +77,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Large pastes are now handled as attachments for more plans
 
-**ChatGPT** · 2026-06-22 · [[Themes/context-window|Context Window]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-22-large-pastes-are-now-handled-as-attachments-for-more-plans-64db97b0|Large pastes are now handled as attachments for more plans]]
+**ChatGPT** · 2026-06-22 · [[Themes/context-window|Context Window]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments-for-more-plans) · from [[Releases/ChatGPT/chatgpt-2026-06-22-large-pastes-are-now-handled-as-attachments-for-more-plans-64db97b0|Large pastes are now handled as attachments for more plans]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Starting today for ChatGPT Free and Go users, long pastes are handled differently in ChatGPT.If you paste more than 10k characters into the composer, ChatGPT will automatically convert the content into an attachment instead of inserting it directly into the text field. This keeps the composer cleaner and helps prevent large pastes from consuming your entire context window.You can still move the content back into the message at any time by clicking on Show in text field to convert the attachment back to a direct paste.This is already available to ChatGPT Plus, Pro, and Business users. Previously if you sent more than 5k characters it was sent as an attachment. The threshold has now also been raised to 10k characters.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments-for-more-plans
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -104,5 +104,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-22-e5a8ab&body=Card%3A%20Changes%2FChatGPT%2F2026-06-22-starting-today-for-chatgpt-free-and-go-users-long-pastes-are-handled-differently.md%0ACard%20ID%3A%20chatgpt-2026-06-22-e5a8ab%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-22-e5a8ab&body=Card%3A%20Changes%2FChatGPT%2F2026-06-22-starting-today-for-chatgpt-free-and-go-users-long-pastes-are-handled-differently.md%0ACard%20ID%3A%20chatgpt-2026-06-22-e5a8ab%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23large-pastes-are-now-handled-as-attachments-for-more-plans%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-04-02 · Mobile and Desktop: We’re rolling out C
   in CarPlay, giving you access to a hands-free ChatGPT experience while on-the-go.
   If you…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1115
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c8d4535d3c300658bb64a8e15a4062008943caafa5a670b3c98f2437e4ae55cf
+machine_hash: bcbb6139e9b280933a9218a262d6b325c1956388efb1f6e07d40127c9b2bfa80
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ record:
       to a supported car, you can start new voice conversations with ChatGPT directly
       from the CarPlay interface. You can also resume existing conversations you were
       having using voice mode in the ChatGPT mobile app. Learn more.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-in-apple-carplay
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -79,13 +79,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT in Apple CarPlay
 
-**ChatGPT** · 2026-04-02 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-02-chatgpt-in-apple-carplay-3c2ba8a2|ChatGPT in Apple CarPlay]]
+**ChatGPT** · 2026-04-02 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-in-apple-carplay) · from [[Releases/ChatGPT/chatgpt-2026-04-02-chatgpt-in-apple-carplay-3c2ba8a2|ChatGPT in Apple CarPlay]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re rolling out ChatGPT in CarPlay, giving you access to a hands-free ChatGPT experience while on-the-go. If you have iOS 26.4 or newer and are connected to a supported car, you can start new voice conversations with ChatGPT directly from the CarPlay interface. You can also resume existing conversations you were having using voice mode in the ChatGPT mobile app. Learn more.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-in-apple-carplay
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -106,5 +106,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-04-02-7b440e&body=Card%3A%20Changes%2FChatGPT%2F2026-04-02-we-re-rolling-out-chatgpt-in-carplay-giving-you-access-to-a-hands-free-chatgpt-e.md%0ACard%20ID%3A%20chatgpt-2026-04-02-7b440e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-04-02-7b440e&body=Card%3A%20Changes%2FChatGPT%2F2026-04-02-we-re-rolling-out-chatgpt-in-carplay-giving-you-access-to-a-hands-free-chatgpt-e.md%0ACard%20ID%3A%20chatgpt-2026-04-02-7b440e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-in-apple-carplay%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

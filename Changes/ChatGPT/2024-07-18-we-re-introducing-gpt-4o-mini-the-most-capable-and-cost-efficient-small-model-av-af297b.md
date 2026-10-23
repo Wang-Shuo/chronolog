@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 02cb4a387259f88adfa3f5029ac29ab4ffcb4f71c0bb154a13242be954161255
+machine_hash: 1c16aaf00b91bf9e2f914fdbe049728e355abdadaed4ba7961ffc1f3f78c8e57
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,7 +43,7 @@ record:
       that fetch data or take actions with external systems, and improved long-context
       performance compared to GPT-3.5 Turbo.You can read more about GPT-4o mini in
       the blog announcement here.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-4o-mini
   extractor_version: fallback-v5
   impact: significant
   kind: launch
@@ -92,13 +92,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Introducing GPT-4o mini
 
-**ChatGPT** · 2024-07-18 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-07-18-introducing-gpt-4o-mini-e0bf3077|Introducing GPT-4o mini]]
+**ChatGPT** · 2024-07-18 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-4o-mini) · from [[Releases/ChatGPT/chatgpt-2024-07-18-introducing-gpt-4o-mini-e0bf3077|Introducing GPT-4o mini]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re introducing GPT-4o mini, the most capable and cost-efficient small model available today. GPT-4o mini surpasses GPT-3.5 Turbo and other small models on academic benchmarks across both textual intelligence and multimodal reasoning and supports the same range of languages as GPT-4o. It also demonstrates strong performance in function calling, which can enable developers to build applications that fetch data or take actions with external systems, and improved long-context performance compared to GPT-3.5 Turbo.You can read more about GPT-4o mini in the blog announcement here.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-4o-mini
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -119,5 +119,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-07-18-af297b&body=Card%3A%20Changes%2FChatGPT%2F2024-07-18-we-re-introducing-gpt-4o-mini-the-most-capable-and-cost-efficient-small-model-av-af297b.md%0ACard%20ID%3A%20chatgpt-2024-07-18-af297b%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-07-18-af297b&body=Card%3A%20Changes%2FChatGPT%2F2024-07-18-we-re-introducing-gpt-4o-mini-the-most-capable-and-cost-efficient-small-model-av-af297b.md%0ACard%20ID%3A%20chatgpt-2024-07-18-af297b%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23introducing-gpt-4o-mini%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

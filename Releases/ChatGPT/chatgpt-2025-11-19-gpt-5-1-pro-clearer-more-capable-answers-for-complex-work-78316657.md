@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-11-19'
 description: 'ChatGPT release GPT-5.1 Pro: Clearer, more capable answers for complex
   work on 2025-11-19: 1 tracked change across Model Support'
-machine_hash: 20921a23c157200b2bdad1f09f33ac9b538cee983acef3f6c3600690c5fc4ea7
+machine_hash: c925d24d573950c1c66edabfc5e9f50b1acc0b63cf8997e329b422d028715eff
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     the model’s improved clarity, relevance, and structure in its responses.GPT-5.1
     Pro is rolling…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-51-pro-clearer-more-capable-answers-for-complex-work
   title: 'GPT-5.1 Pro: Clearer, more capable answers for complex work'
   version: 'GPT-5.1 Pro: Clearer, more capable answers for complex work'
 release_id: chatgpt-2025-11-19-gpt-5-1-pro-clearer-more-capable-answers-for-complex-work-78316657
 source_release: 'GPT-5.1 Pro: Clearer, more capable answers for complex work'
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-51-pro-clearer-more-capable-answers-for-complex-work
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: 'GPT-5.1 Pro: Clearer, more capable answers for complex work'
 <!-- chronolog:begin region="header" -->
 # ChatGPT · GPT-5.1 Pro: Clearer, more capable answers for complex work
 
-**ChatGPT** · 2025-11-19 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-11-19 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-51-pro-clearer-more-capable-answers-for-complex-work)
 <!-- chronolog:end -->
 
 ## Summary

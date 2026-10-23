@@ -3,7 +3,7 @@ changes_count: 5
 date: '2026-07-16'
 description: 'ChatGPT release ChatGPT desktop app experience updates on 2026-07-16:
   5 tracked changes across Mobile and Desktop, Projects and Workspaces'
-machine_hash: ef204cacd1db756161ba4a00b92f2a612cdeb42792b93b3c383df6b5726ed20b
+machine_hash: af9f434907277540d4e61d9bc1d2ef333e73079b80317be31b764e39320c94a4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -16,13 +16,13 @@ record:
     between Chat and Work, find your conversations and Projects, and continue Work
     across devices. These updates are now live for all plans on macOS and Windows.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates
   title: ChatGPT desktop app experience updates
   version: ChatGPT desktop app experience updates
 release_id: chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad
 source_release: ChatGPT desktop app experience updates
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: ChatGPT desktop app experience updates
 <!-- chronolog:begin region="header" -->
 # ChatGPT desktop app experience updates
 
-**ChatGPT** · 2026-07-16 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-07-16 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates)
 <!-- chronolog:end -->
 
 ## Summary

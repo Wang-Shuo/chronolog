@@ -1,9 +1,9 @@
 ---
 card_id: cursor-2023-05-04-35ddad
 date: '2023-05-04'
-description: 'Cursor · 2023-05-04 · Context Window: 2 changes in Enhanced Features
-  & Improvements (2023-05-04) — Alpha feature: 🧠 Alpha feature: Ask questions about
-  your…'
+description: "Cursor · 2023-05-04 · Context Window: 2 changes in Enhanced Features
+  & Improvements (2023-05-04) — Alpha feature: \U0001F9E0 Alpha feature: Ask questions
+  about your…"
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
     Context Window changes in 0.2.9]]'
@@ -28,11 +28,11 @@ record:
   description: 'Cursor — Enhanced Features & Improvements (2023-05-04): 2 Context
     Window changes'
   evidence:
-  - quote: 'Alpha feature: 🧠 Alpha feature: Ask questions about your entire repo 🛠️.
-      We are experimenting with ⌥+enter in the chat! The feature allows the model
-      to think deeply about your response, search through files, and deliver a well-crafted
-      answer. While it''s in alpha, we''re working hard to enhance this feature in
-      the coming weeks. We''d love to hear your feedback!'
+  - quote: "Alpha feature: \U0001F9E0 Alpha feature: Ask questions about your entire
+      repo \U0001F6E0️. We are experimenting with ⌥+enter in the chat! The feature
+      allows the model to think deeply about your response, search through files,
+      and deliver a well-crafted answer. While it's in alpha, we're working hard to
+      enhance this feature in the coming weeks. We'd love to hear your feedback!"
     source_release: https://cursor.com/changelog/0-2-9
   - quote: Extended prompt length for project generation
     source_release: https://cursor.com/changelog/0-2-9

@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 06e029e105c9654067d438510fc4af8864eef18a1d4e5e3743944e14186a3b89
+machine_hash: 64be182f74c9b6f369db32edbc13531d36dc903986e2b5e63c121b181d29575a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   evidence:
   - quote: Library sharing lets you share files and folders in ChatGPT, choose who
       can access them, and work with shared content directly in your conversations.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-files-and-folders-from-your-library
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -61,13 +61,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Library sharing lets you share files and folders in ChatGPT, choose who can access…
 
-**ChatGPT** · 2026-09-09 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d|Share files and folders from your Library]]
+**ChatGPT** · 2026-09-09 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-files-and-folders-from-your-library) · from [[Releases/ChatGPT/chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d|Share files and folders from your Library]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Library sharing lets you share files and folders in ChatGPT, choose who can access them, and work with shared content directly in your conversations.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-files-and-folders-from-your-library
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -91,5 +91,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-09-e54084&body=Card%3A%20Changes%2FChatGPT%2F2026-09-09-library-sharing-lets-you-share-files-and-folders-in-chatgpt-choose-who-can-acces.md%0ACard%20ID%3A%20chatgpt-2026-09-09-e54084%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-09-e54084&body=Card%3A%20Changes%2FChatGPT%2F2026-09-09-library-sharing-lets-you-share-files-and-folders-in-chatgpt-choose-who-can-acces.md%0ACard%20ID%3A%20chatgpt-2026-09-09-e54084%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23share-files-and-folders-from-your-library%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

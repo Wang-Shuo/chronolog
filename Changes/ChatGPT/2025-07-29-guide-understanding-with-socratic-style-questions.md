@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1546071c3f4487aecbfdbaa251716dcdfb5b91f78a16a29a8fdf2a930c6662f7
+machine_hash: 69567ff31071776bc381d86ae2a7279daa2fa36b3ec0f368c5266a3d3b8175de
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   description: 'ChatGPT — Study Mode: Guide understanding with Socratic-style questions.'
   evidence:
   - quote: Guide understanding with Socratic-style questions.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#study-mode
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -52,13 +52,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Guide understanding with Socratic-style questions
 
-**ChatGPT** · 2025-07-29 · [[Themes/learning-tools|Learning Tools]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-07-29-study-mode-ffbfbea6|Study Mode]]
+**ChatGPT** · 2025-07-29 · [[Themes/learning-tools|Learning Tools]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#study-mode) · from [[Releases/ChatGPT/chatgpt-2025-07-29-study-mode-ffbfbea6|Study Mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Guide understanding with Socratic-style questions.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#study-mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -82,5 +82,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-07-29-b76bfc&body=Card%3A%20Changes%2FChatGPT%2F2025-07-29-guide-understanding-with-socratic-style-questions.md%0ACard%20ID%3A%20chatgpt-2025-07-29-b76bfc%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-07-29-b76bfc&body=Card%3A%20Changes%2FChatGPT%2F2025-07-29-guide-understanding-with-socratic-style-questions.md%0ACard%20ID%3A%20chatgpt-2025-07-29-b76bfc%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23study-mode%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

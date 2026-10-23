@@ -1,10 +1,10 @@
 ---
 created: '2023-05-04'
-date: '2026-10-14'
+date: '2026-10-22'
 description: 'Research question: how much material can each product bring into a conversation,
   and how does it handle the limit?'
-machine_hash: 505737ef00171d8eaaf5cb4ee2b0414862661b5f261af88859e1a1194ae24d8e
-modified: '2026-10-14'
+machine_hash: 1d6b6ea5f813966b0d73f676b28f9ff3e7e965df567a49a0fa7d47a5b0b5cc83
+modified: '2026-10-22'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Context Window
 <!-- chronolog:begin region="header" -->
 # Context Window
 
-129 tracked changes across ChatGPT, Claude Code and Cursor · 2023-05-04 → 2026-10-14 · Claude Code averages 6.9 cards per release, Cursor 4.0, ChatGPT 1.7
+133 tracked changes across ChatGPT, Claude Code and Cursor · 2023-05-04 → 2026-10-22 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -61,10 +61,14 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 87 entries (ChatGPT 8 · Claude Code 67 · Cursor 12)
+### 2026 · 91 entries (ChatGPT 8 · Claude Code 71 · Cursor 12)
 
 #### 2026-10
 
+- 2026-10-22 · **Claude Code** · [[Changes/Claude Code/2026-10-22-updated-the-claude-api-skill-service-account-keys-and-workload-identity-federati|Updated the /claude-api skill]]
+- 2026-10-19 · **Claude Code** · [[Changes/Claude Code/2026-10-19-3-context-window-changes-in-v2-1-304|3 Context Window changes in v2.1.304]] · Digest
+- 2026-10-16 · **Claude Code** · [[Changes/Claude Code/2026-10-16-2-context-window-changes-in-v2-1-302|2 Context Window changes in v2.1.302]] · Digest
+- 2026-10-15 · **Claude Code** · [[Changes/Claude Code/2026-10-15-improved-switching-to-a-model-with-a-smaller-context-window-a-conversation-too-l|Improved switching to a model with a smaller context window]]
 - 2026-10-14 · **Claude Code** · [[Changes/Claude Code/2026-10-14-added-cache-creation-5m-tokens-and-cache-creation-1h-tokens-to-the-opentelemetry|Added cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelemetry…]]
 - 2026-10-14 · **Claude Code** · [[Changes/Claude Code/2026-10-14-2-context-window-changes-in-v2-1-299|2 Context Window changes in v2.1.299]] · Digest
 - 2026-10-14 · **Claude Code** · [[Changes/Claude Code/2026-10-14-added-usage-warnings-for-max-effort-workflows-always-on-context-and-large-tool-r|Added /usage warnings for max effort, workflows, always-on context and large tool…]]

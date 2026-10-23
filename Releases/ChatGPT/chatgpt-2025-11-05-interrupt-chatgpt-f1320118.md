@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-11-05'
 description: 'ChatGPT release Interrupt ChatGPT on 2025-11-05: 1 tracked change across
   Model Support'
-machine_hash: ab9b469627cb588478650d0d24ec6167daeb59c4238abf2d4d4a0cf9f4614dd4
+machine_hash: a42a0d605d37913d23c31d2e8fc6aab2fd9521aa103d73569ebebe2e3148ab5f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     that your wall is 72" wide and you can't drill into it, you can simply add that
     information…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interrupt-chatgpt
   title: Interrupt ChatGPT
   version: Interrupt ChatGPT
 release_id: chatgpt-2025-11-05-interrupt-chatgpt-f1320118
 source_release: Interrupt ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interrupt-chatgpt
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Interrupt ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Interrupt ChatGPT
 
-**ChatGPT** · 2025-11-05 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-11-05 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interrupt-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-06-12'
 description: 'ChatGPT release Retiring GPT-5.2 models on 2026-06-12: 1 tracked change
   across Model Support'
-machine_hash: b254af7dbd5c30c0888037c012fc43f6c4cae0bf2be9bf32f16bdf7803e4f00a
+machine_hash: 14e5b7f048bcff61fa22b7ce5a32ae0832174a42d24746777f8699b64cdb870a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     that used GPT-5.2 will automatically continue on the corresponding GPT-5.5 model.
     GPT-5.5 models remain available in ChatGPT.This retirement was previously…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-52-models
   title: Retiring GPT-5.2 models
   version: Retiring GPT-5.2 models
 release_id: chatgpt-2026-06-12-retiring-gpt-5-2-models-8b6fe7f1
 source_release: Retiring GPT-5.2 models
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-52-models
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Retiring GPT-5.2 models
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Retiring GPT-5.2 models
 
-**ChatGPT** · 2026-06-12 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-06-12 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-52-models)
 <!-- chronolog:end -->
 
 ## Summary

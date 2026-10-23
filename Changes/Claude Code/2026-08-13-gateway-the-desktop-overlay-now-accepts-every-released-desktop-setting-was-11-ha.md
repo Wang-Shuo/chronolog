@@ -4,8 +4,8 @@ date: '2026-08-13'
 description: 'Claude Code · 2026-08-13 · Mobile and Desktop: Gateway: the `desktop:`
   overlay now accepts every released Desktop setting (was 11 hand-listed keys), validated…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1248
   relation: same-theme-chronology

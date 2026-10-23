@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ab2f2a254e02c00a294cab0f31d1841387826160a45f0ee2fcc7f394dfe78ce9
+machine_hash: 985f916d4a6ae745c15b2695ed07d26b1e9abb4bf7714ef59b595e227c00489c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   evidence:
   - quote: Share your stickers in messaging apps. Download your pack or add it to
       iMessage or WhatsApp on supported devices.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-share-personalized-sticker-packs
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -68,13 +68,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Share your stickers in messaging apps
 
-**ChatGPT** · 2026-08-31 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-31-create-and-share-personalized-sticker-packs-120616f6|Create and share personalized sticker packs]]
+**ChatGPT** · 2026-08-31 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-share-personalized-sticker-packs) · from [[Releases/ChatGPT/chatgpt-2026-08-31-create-and-share-personalized-sticker-packs-120616f6|Create and share personalized sticker packs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Share your stickers in messaging apps. Download your pack or add it to iMessage or WhatsApp on supported devices.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-share-personalized-sticker-packs
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -95,5 +95,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-31-30dd60&body=Card%3A%20Changes%2FChatGPT%2F2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o.md%0ACard%20ID%3A%20chatgpt-2026-08-31-30dd60%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-31-30dd60&body=Card%3A%20Changes%2FChatGPT%2F2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o.md%0ACard%20ID%3A%20chatgpt-2026-08-31-30dd60%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23create-and-share-personalized-sticker-packs%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

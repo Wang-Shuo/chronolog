@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b0303d8bb8966570357aafd090545bdc9df848ed125991c9f12d0aa3f8aab15a
+machine_hash: 87bf97224a2e86f3aadf6255d28969c20dd39e99ef63eb6ecd8fc679ce793532
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   evidence:
   - quote: 'Code Interpreter: An experimental ChatGPT model that can use Python, and
       handles uploads and downloads'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -61,13 +61,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Code Interpreter: An experimental ChatGPT model that can use Python, and handles…
 
-**ChatGPT** · 2023-03-23 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|Introducing plugins in ChatGPT]]
+**ChatGPT** · 2023-03-23 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|Introducing plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Code Interpreter: An experimental ChatGPT model that can use Python, and handles uploads and downloads
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -92,5 +92,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-03-23-f4fabc&body=Card%3A%20Changes%2FChatGPT%2F2023-03-23-code-interpreter-an-experimental-chatgpt-model-that-can-use-python-and-handles-u.md%0ACard%20ID%3A%20chatgpt-2023-03-23-f4fabc%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-03-23-f4fabc&body=Card%3A%20Changes%2FChatGPT%2F2023-03-23-code-interpreter-an-experimental-chatgpt-model-that-can-use-python-and-handles-u.md%0ACard%20ID%3A%20chatgpt-2023-03-23-f4fabc%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23introducing-plugins-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

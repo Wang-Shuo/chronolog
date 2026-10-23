@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-06-22'
 description: 'ChatGPT release Large pastes are now handled as attachments for more
   plans on 2026-06-22: 1 tracked change across Context Window'
-machine_hash: 5302fc03ed143ca084e66630d85f905926cf762a5b7cf7e2fe6a4f6d91d35b95
+machine_hash: f8ab531b2285522726c79bf9069a1ae075cea3b8e95936d42579167e4e3857a7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     ChatGPT will automatically convert the content into an attachment instead of inserting
     it directly into the text field. This keeps the composer cleaner and helps prevent…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments-for-more-plans
   title: Large pastes are now handled as attachments for more plans
   version: Large pastes are now handled as attachments for more plans
 release_id: chatgpt-2026-06-22-large-pastes-are-now-handled-as-attachments-for-more-plans-64db97b0
 source_release: Large pastes are now handled as attachments for more plans
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments-for-more-plans
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Large pastes are now handled as attachments for more plans
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Large pastes are now handled as attachments for more plans
 
-**ChatGPT** · 2026-06-22 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-06-22 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments-for-more-plans)
 <!-- chronolog:end -->
 
 ## Summary

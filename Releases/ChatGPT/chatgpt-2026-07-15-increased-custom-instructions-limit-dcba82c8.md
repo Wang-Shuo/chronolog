@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-07-15'
 description: 'ChatGPT release Increased custom instructions limit on 2026-07-15: 1
   tracked change across Enterprise and Administration'
-machine_hash: b6a87adb6920ef08b72ebd14cf286221ac0cde913a578dc654732062934d4726
+machine_hash: e1b28f2a500a3489805fb44ddc00bdcd7e4b99e3a889070678630e907b168f23
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     to 5,000 characters, up from 1,500, giving them more room to customize ChatGPT’s
     response style and behavior.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#increased-custom-instructions-limit
   title: Increased custom instructions limit
   version: Increased custom instructions limit
 release_id: chatgpt-2026-07-15-increased-custom-instructions-limit-dcba82c8
 source_release: Increased custom instructions limit
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#increased-custom-instructions-limit
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Increased custom instructions limit
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Increased custom instructions limit
 
-**ChatGPT** · 2026-07-15 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-07-15 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#increased-custom-instructions-limit)
 <!-- chronolog:end -->
 
 ## Summary

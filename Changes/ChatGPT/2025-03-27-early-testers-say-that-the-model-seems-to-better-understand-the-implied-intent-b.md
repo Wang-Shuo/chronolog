@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 76c10d333c731fe6ce5f048fd6daf73280e95d52fd558045cc0d77be107d4013
+machine_hash: b0a09928199ea88c0e6a76f3e1c6389933c735fb7b9498313952677b5477aa03
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,7 +44,7 @@ record:
       now available in ChatGPT and in the API as the newest snapshot of chatgpt-4o-latest.
       We plan to bring these improvements to a dated model in the API in the coming
       weeks.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o
   extractor_version: fallback-v5
   impact: significant
   kind: launch
@@ -73,13 +73,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # “Fuzzy” improvements
 
-**ChatGPT** · 2025-03-27 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7|Improvements to GPT-4o]]
+**ChatGPT** · 2025-03-27 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o) · from [[Releases/ChatGPT/chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7|Improvements to GPT-4o]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Early testers say that the model seems to better understand the implied intent behind their prompts, especially when it comes to creative and collaborative tasks. It’s also slightly more concise and clear, using fewer markdown hierarchies and emojis for responses that are easier to read, less cluttered, and more focused. We're curious to see if our users also find this to be the case.This model is now available in ChatGPT and in the API as the newest snapshot of chatgpt-4o-latest. We plan to bring these improvements to a dated model in the API in the coming weeks.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -104,5 +104,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-03-27-800de1&body=Card%3A%20Changes%2FChatGPT%2F2025-03-27-early-testers-say-that-the-model-seems-to-better-understand-the-implied-intent-b.md%0ACard%20ID%3A%20chatgpt-2025-03-27-800de1%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-03-27-800de1&body=Card%3A%20Changes%2FChatGPT%2F2025-03-27-early-testers-say-that-the-model-seems-to-better-understand-the-implied-intent-b.md%0ACard%20ID%3A%20chatgpt-2025-03-27-800de1%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23improvements-to-gpt-4o%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

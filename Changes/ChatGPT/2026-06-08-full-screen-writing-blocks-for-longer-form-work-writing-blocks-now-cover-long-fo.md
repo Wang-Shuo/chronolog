@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 67461327111cd3755660bde7d40c7bade2ab56a30a3e1150a4acc54f9a21198f
+machine_hash: 2b4e82be1492e765c4693a89840ad0bee36560ee855571921c9a89ffc26b3ccb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,7 +43,7 @@ record:
       edit documents later. The experience also adds a wider document layout, cleaner
       titles, a table of contents for long documents, download support, undo and redo
       fixes, improved save behavior, and clearer loading states.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -88,13 +88,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Full-screen writing blocks for longer-form work
 
-**ChatGPT** · 2026-06-08 · [[Themes/file-data|Files and Data]] · Web · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
+**ChatGPT** · 2026-06-08 · [[Themes/file-data|Files and Data]] · Web · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Full-screen writing blocks for longer-form work: Writing blocks now cover long-form writing use cases, including essays, PRDs, reports, blog posts, notes, and other document work. Longer writing can now open in a focused full-screen editor. You can save your document to the Library, so you can find, reuse, or edit documents later. The experience also adds a wider document layout, cleaner titles, a table of contents for long documents, download support, undo and redo fixes, improved save behavior, and clearer loading states.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -125,5 +125,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-08-95da8e&body=Card%3A%20Changes%2FChatGPT%2F2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo.md%0ACard%20ID%3A%20chatgpt-2026-06-08-95da8e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-08-95da8e&body=Card%3A%20Changes%2FChatGPT%2F2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo.md%0ACard%20ID%3A%20chatgpt-2026-06-08-95da8e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-app-experience-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

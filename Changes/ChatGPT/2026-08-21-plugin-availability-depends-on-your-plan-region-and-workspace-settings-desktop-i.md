@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3578619984dcb927a83538229fbd86494183566706d57c780ff42bb90a7f05f4
+machine_hash: 40d50b7a13c4e24087e4bd8611ad3200820e1052e9f96407cdaa4b30e0a717be
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   evidence:
   - quote: Plugin availability depends on your plan, region, and workspace settings.
       Desktop is not included in this update.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-plugin-discovery-on-web-and-mobile
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -69,13 +69,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Plugin availability depends on your plan, region, and workspace settings
 
-**ChatGPT** · 2026-08-21 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-21-improved-plugin-discovery-on-web-and-mobile-4a2c9c9b|Improved plugin discovery on web and mobile]]
+**ChatGPT** · 2026-08-21 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-plugin-discovery-on-web-and-mobile) · from [[Releases/ChatGPT/chatgpt-2026-08-21-improved-plugin-discovery-on-web-and-mobile-4a2c9c9b|Improved plugin discovery on web and mobile]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Plugin availability depends on your plan, region, and workspace settings. Desktop is not included in this update.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-plugin-discovery-on-web-and-mobile
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -99,5 +99,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-21-404a9b&body=Card%3A%20Changes%2FChatGPT%2F2026-08-21-plugin-availability-depends-on-your-plan-region-and-workspace-settings-desktop-i.md%0ACard%20ID%3A%20chatgpt-2026-08-21-404a9b%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-21-404a9b&body=Card%3A%20Changes%2FChatGPT%2F2026-08-21-plugin-availability-depends-on-your-plan-region-and-workspace-settings-desktop-i.md%0ACard%20ID%3A%20chatgpt-2026-08-21-404a9b%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23improved-plugin-discovery-on-web-and-mobile%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

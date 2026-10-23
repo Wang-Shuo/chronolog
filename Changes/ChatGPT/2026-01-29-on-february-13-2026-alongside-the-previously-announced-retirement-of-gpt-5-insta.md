@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: b0659d9e9c9b1bd458699f0d1c84cc7bc7c4cef764f6f62e7b6030f477151b79
+machine_hash: 2f8df7d9add3775bb53d27366748ddb1c7cfa728cac52f6e9e19dc4032783b79
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       GPT‑5 (Instant and Thinking), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini,
       and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time.
       For more, see our blog post or help center.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-4o-and-other-legacy-models
   extractor_version: fallback-v5
   impact: incremental
   kind: policy
@@ -65,13 +65,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Retiring GPT-4o and other legacy models
 
-**ChatGPT** · 2026-01-29 · [[Themes/model-support|Model Support]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-01-29-retiring-gpt-4o-and-other-legacy-models-71b41b16|Retiring GPT-4o and other legacy models]]
+**ChatGPT** · 2026-01-29 · [[Themes/model-support|Model Support]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-4o-and-other-legacy-models) · from [[Releases/ChatGPT/chatgpt-2026-01-29-retiring-gpt-4o-and-other-legacy-models-71b41b16|Retiring GPT-4o and other legacy models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > On February 13, 2026, alongside the previously announced retirement of GPT‑5 (Instant and Thinking), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time. For more, see our blog post or help center.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-4o-and-other-legacy-models
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -92,5 +92,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-01-29-23f4fe&body=Card%3A%20Changes%2FChatGPT%2F2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta.md%0ACard%20ID%3A%20chatgpt-2026-01-29-23f4fe%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-01-29-23f4fe&body=Card%3A%20Changes%2FChatGPT%2F2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta.md%0ACard%20ID%3A%20chatgpt-2026-01-29-23f4fe%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23retiring-gpt-4o-and-other-legacy-models%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

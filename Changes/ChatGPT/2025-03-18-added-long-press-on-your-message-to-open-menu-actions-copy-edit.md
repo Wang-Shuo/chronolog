@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f4bdabf858e88ad05f09673645e52e1d11c378a9624a0bcde1fb91f4d7047169
+machine_hash: 494f7c59e70c5d87542cd530227b8ee60ecbe75cfb5cde7d82c1f916da8149fd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
     Copy, Edit.'
   evidence:
   - quote: 'Added long press on your message to open menu actions: Copy, Edit.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -57,13 +57,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Added long press on your message to open menu actions: Copy, Edit
 
-**ChatGPT** · 2025-03-18 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-03-18-ios-app-6a42bb0f|iOS App]]
+**ChatGPT** · 2025-03-18 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app) · from [[Releases/ChatGPT/chatgpt-2025-03-18-ios-app-6a42bb0f|iOS App]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Added long press on your message to open menu actions: Copy, Edit.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -88,5 +88,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-03-18-4dfad5&body=Card%3A%20Changes%2FChatGPT%2F2025-03-18-added-long-press-on-your-message-to-open-menu-actions-copy-edit.md%0ACard%20ID%3A%20chatgpt-2025-03-18-4dfad5%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-03-18-4dfad5&body=Card%3A%20Changes%2FChatGPT%2F2025-03-18-added-long-press-on-your-message-to-open-menu-actions-copy-edit.md%0ACard%20ID%3A%20chatgpt-2025-03-18-4dfad5%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23ios-app%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

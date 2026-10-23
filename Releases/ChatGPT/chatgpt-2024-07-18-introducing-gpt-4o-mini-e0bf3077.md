@@ -3,7 +3,7 @@ changes_count: 1
 date: '2024-07-18'
 description: 'ChatGPT release Introducing GPT-4o mini on 2024-07-18: 1 tracked change
   across Model Support'
-machine_hash: 874259fcc77b2671df6eb9ea170e4e069f977fb63bbdfeb16c563417ecb68988
+machine_hash: 168021c048c8913780cf04848302e8fd068a7b3cfac6399f1abc00f36cdeab73
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     reasoning and supports the same range of languages as GPT-4o. It also demonstrates
     strong…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-4o-mini
   title: Introducing GPT-4o mini
   version: Introducing GPT-4o mini
 release_id: chatgpt-2024-07-18-introducing-gpt-4o-mini-e0bf3077
 source_release: Introducing GPT-4o mini
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-4o-mini
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Introducing GPT-4o mini
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Introducing GPT-4o mini
 
-**ChatGPT** · 2024-07-18 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2024-07-18 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-4o-mini)
 <!-- chronolog:end -->
 
 ## Summary

@@ -1,10 +1,10 @@
 ---
 created: '2023-03-14'
-date: '2026-10-14'
+date: '2026-10-22'
 description: Cross-product timeline of Mobile and Desktop changes in ChatGPT, Claude
   Code and Cursor.
-machine_hash: 7503f5ca9189a2917e11b48ab3f56cdb2fa080b21b22ebeabdbfe59a489befde
-modified: '2026-10-14'
+machine_hash: b50b1f9afb534555ea21e703392fdcf8ed0e1da74453d5eb58a5e97b0bae3fa0
+modified: '2026-10-22'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Mobile and Desktop
 <!-- chronolog:begin region="header" -->
 # Mobile and Desktop
 
-127 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-14 → 2026-10-14 · Claude Code averages 6.9 cards per release, Cursor 4.0, ChatGPT 1.7
+133 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-14 → 2026-10-22 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -35,7 +35,7 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 | Quarter | ChatGPT | Claude Code | Cursor |
 | --- | --- | --- | --- |
-| 2026 Q4 | · | · | 2026-10-06 [[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer\|Keep your computer awake]] |
+| 2026 Q4 | 2026-10-20 [[Changes/ChatGPT/2026-10-20-locked-chats-let-you-keep-selected-conversations-in-your-account-while-hiding-th\|Introducing locked chats]] | · | 2026-10-06 [[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer\|Keep your computer awake]] |
 | 2026 Q3 | 2026-09-21 [[Changes/ChatGPT/2026-09-21-you-can-now-track-your-credit-score-in-chatgpt-securely-connect-your-experian-cr\|Credit scores in Finances]]<br>2026-09-17 [[Changes/ChatGPT/2026-09-17-you-can-now-connect-multiple-accounts-to-plugins-in-chatgpt-expanding-support-be\|Connect multiple accounts to plugins in ChatGPT]]<br>2026-08-25 [[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma\|Create webhook-triggered tasks]]<br>2026-08-14 [[Changes/ChatGPT/2026-08-14-learning-projects-and-personalized-suggestions\|Learning, Projects, and personalized suggestions]] | 2026-08-21 [[Changes/Claude Code/2026-08-21-windows-cross-session-messaging-is-now-available-so-claude-code-sessions-across\|Windows: cross-session messaging is now available, so Claude Code sessions across…]] | 2026-09-02 [[Changes/Cursor/2026-09-02-computer-use-on-linux-and-mac\|Computer use on Linux and Mac]]<br>2026-07-29 [[Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and\|A full review surface]] |
 | 2026 Q2 | 2026-05-14 [[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn\|Codex remote access from the ChatGPT mobile app]] | 2026-05-15 [[Changes/Claude Code/2026-05-15-the-powershell-tool-is-now-enabled-by-default-on-windows-for-bedrock-vertex-and\|The PowerShell tool is now enabled by default on Windows for Bedrock, Vertex…]] | 2026-06-29 [[Changes/Cursor/2026-06-29-cursor-for-ios-is-now-available-in-public-beta-on-all-paid-plans-launch-and-mana\|Cursor for iOS is now available in public beta on all paid plans]]<br>2026-06-17 [[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs\|Cursor introduces updates to cloud agents in the Agents Window of the Cursor desktop app]] |
 | 2025 Q4 | 2025-12-18 [[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv\|Pinned chats in ChatGPT]] | · | · |
@@ -51,10 +51,16 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 97 entries (ChatGPT 41 · Claude Code 43 · Cursor 13)
+### 2026 · 103 entries (ChatGPT 43 · Claude Code 47 · Cursor 13)
 
 #### 2026-10
 
+- 2026-10-22 · **Claude Code** · [[Changes/Claude Code/2026-10-22-changed-the-dangerous-rm-and-rmdir-prompt-in-bypass-permissions-mode-in-the-desk|Changed the dangerous rm and rmdir prompt in bypass permissions mode…]]
+- 2026-10-20 · **ChatGPT** · [[Changes/ChatGPT/2026-10-20-locked-chats-let-you-keep-selected-conversations-in-your-account-while-hiding-th|Introducing locked chats]] · Launch
+- 2026-10-20 · **Claude Code** · [[Changes/Claude Code/2026-10-20-changed-plugins-that-claude-desktop-mounts-by-path-to-no-longer-keep-their-allow|Changed plugins that Claude Desktop mounts by path to no longer keep…]]
+- 2026-10-19 · **Claude Code** · [[Changes/Claude Code/2026-10-19-windows-improved-git-command-start-up-with-a-standard-git-for-windows-install-by|Windows: Improved git command start-up with a standard Git for Windows install…]]
+- 2026-10-16 · **ChatGPT** · [[Changes/ChatGPT/2026-10-16-present-or-export-present-directly-from-chatgpt-on-the-web-export-to-powerpoint|Present or export. Present directly from ChatGPT]]
+- 2026-10-15 · **Claude Code** · [[Changes/Claude Code/2026-10-15-2-mobile-and-desktop-changes-in-v2-1-301|2 Mobile and Desktop changes in v2.1.301]] · Digest
 - 2026-10-14 · **Claude Code** · [[Changes/Claude Code/2026-10-14-added-support-for-turning-off-the-attribution-block-in-claude-desktop-s-code-tab|Added support for turning off the attribution block in Claude Desktop's Code tab]]
 - 2026-10-14 · **Claude Code** · [[Changes/Claude Code/2026-10-14-3-mobile-and-desktop-changes-in-v2-1-300|3 Mobile and Desktop changes in v2.1.300]] · Digest
 - 2026-10-09 · **Claude Code** · [[Changes/Claude Code/2026-10-09-2-mobile-and-desktop-changes-in-v2-1-296|2 Mobile and Desktop changes in v2.1.296]] · Digest

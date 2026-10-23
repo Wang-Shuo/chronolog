@@ -42,8 +42,8 @@ record:
   title: Small improvements
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-04-29-working-remote-ssh-support-through-the-openremote-ssh-extension|🌐
-  Working remote ssh support through the "OpenRemote - SSH" extension]]'
+- "[[Changes/Cursor/2023-04-29-working-remote-ssh-support-through-the-openremote-ssh-extension|\U0001F310
+  Working remote ssh support through the \"OpenRemote - SSH\" extension]]"
 - '[[Changes/Cursor/2023-05-17-remote-ssh-is-easier-to-use|Remote SSH is easier to
   use!]]'
 - '[[Changes/Cursor/2023-05-17-in-terminal-debugging-f140b2|In-terminal Debugging]]'

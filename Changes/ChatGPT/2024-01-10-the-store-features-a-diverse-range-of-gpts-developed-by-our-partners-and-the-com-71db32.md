@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 235034c92766477ad9cee0b96329e25c40176ddc4b78c5b479eeb3919f11db74
+machine_hash: 7aae986dff6da9702973ee0ff7de3786f3ce6f91758ea8adb30ae2a02cb78f60
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       the community. Browse popular and trending GPTs on the community leaderboard,
       with categories like DALL·E, writing, research, programming, education, and
       lifestyle.Explore GPTs at chatgpt.com/gpts.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-gpt-store-and-chatgpt-team-plan
   extractor_version: fallback-v5
   impact: incremental
   kind: launch
@@ -65,13 +65,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Discover what’s trending in the GPT Store
 
-**ChatGPT** · 2024-01-10 · [[Themes/apps-integrations|Apps and Integrations]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd|Introducing the GPT Store and ChatGPT Team plan]]
+**ChatGPT** · 2024-01-10 · [[Themes/apps-integrations|Apps and Integrations]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-gpt-store-and-chatgpt-team-plan) · from [[Releases/ChatGPT/chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd|Introducing the GPT Store and ChatGPT Team plan]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > The store features a diverse range of GPTs developed by our partners and the community. Browse popular and trending GPTs on the community leaderboard, with categories like DALL·E, writing, research, programming, education, and lifestyle.Explore GPTs at chatgpt.com/gpts.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-gpt-store-and-chatgpt-team-plan
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -94,5 +94,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-01-10-71db32&body=Card%3A%20Changes%2FChatGPT%2F2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32.md%0ACard%20ID%3A%20chatgpt-2024-01-10-71db32%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-01-10-71db32&body=Card%3A%20Changes%2FChatGPT%2F2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32.md%0ACard%20ID%3A%20chatgpt-2024-01-10-71db32%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23introducing-the-gpt-store-and-chatgpt-team-plan%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 62739cf7769df22b2c322e4230462f2cfe8c075ddee6ca0a8cf995630e45f4fd
+machine_hash: 9ac33f4eee1dcb06cc20dfc3945054086e1fd876304045a03c09307674da806f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
   - quote: On web and mobile, Enterprise and Edu workspaces have a two-week preview
       period. Work is off by default during the preview, and admins can opt out before
       it turns on automatically at the end of the preview.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -72,13 +72,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # On web and mobile, Enterprise and Edu workspaces have a two-week preview period
 
-**ChatGPT** · 2026-07-09 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|Introducing ChatGPT Work]]
+**ChatGPT** · 2026-07-09 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work) · from [[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|Introducing ChatGPT Work]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > On web and mobile, Enterprise and Edu workspaces have a two-week preview period. Work is off by default during the preview, and admins can opt out before it turns on automatically at the end of the preview.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -103,5 +103,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-09-a35fd3&body=Card%3A%20Changes%2FChatGPT%2F2026-07-09-on-web-and-mobile-enterprise-and-edu-workspaces-have-a-two-week-preview-period-w.md%0ACard%20ID%3A%20chatgpt-2026-07-09-a35fd3%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-09-a35fd3&body=Card%3A%20Changes%2FChatGPT%2F2026-07-09-on-web-and-mobile-enterprise-and-edu-workspaces-have-a-two-week-preview-period-w.md%0ACard%20ID%3A%20chatgpt-2026-07-09-a35fd3%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23introducing-chatgpt-work%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

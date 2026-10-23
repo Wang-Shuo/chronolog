@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e9ebc493718bce00453a5040134f95fce25cf0cf10f62ef4555d5551c874f555
+machine_hash: acb815f2cd072b628815ec140449059c9b4b1938d1ad34cc5c76f3a2822e63e9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,7 +45,7 @@ record:
       Microsoft Marketplace or ChatGPT from Google Workspace Marketplace, then sign
       in with an eligible ChatGPT account. Review outputs before relying on formulas
       or analysis. Learn more.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-excel-and-google-sheets
   extractor_version: fallback-v5
   impact: incremental
   kind: launch
@@ -100,13 +100,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT for Excel and Google Sheets
 
-**ChatGPT** · 2026-05-05 · [[Themes/account-access|Account and Access]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-05-05-chatgpt-for-excel-and-google-sheets-a25132e0|ChatGPT for Excel and Google Sheets]]
+**ChatGPT** · 2026-05-05 · [[Themes/account-access|Account and Access]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-excel-and-google-sheets) · from [[Releases/ChatGPT/chatgpt-2026-05-05-chatgpt-for-excel-and-google-sheets-a25132e0|ChatGPT for Excel and Google Sheets]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT for Excel and Google Sheets is now available globally, bringing ChatGPT into a sidebar in Microsoft Excel and Google Sheets so you can build, update, and understand spreadsheets in place. It can help with trackers, budgets, formulas, multi-tab files, scenario work, and spreadsheet cleanup, and supports Skills and apps where available.Free and Go include limited usage; Plus and Pro use the same agentic usage limits as Codex. You can purchase additional credits if you need to go beyond plan limits.Install ChatGPT for Excel from Microsoft Marketplace or ChatGPT from Google Workspace Marketplace, then sign in with an eligible ChatGPT account. Review outputs before relying on formulas or analysis. Learn more.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-excel-and-google-sheets
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -127,5 +127,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-05-05-f739c0&body=Card%3A%20Changes%2FChatGPT%2F2026-05-05-chatgpt-for-excel-and-google-sheets-is-now-available-globally-bringing-chatgpt-i.md%0ACard%20ID%3A%20chatgpt-2026-05-05-f739c0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-05-05-f739c0&body=Card%3A%20Changes%2FChatGPT%2F2026-05-05-chatgpt-for-excel-and-google-sheets-is-now-available-globally-bringing-chatgpt-i.md%0ACard%20ID%3A%20chatgpt-2026-05-05-f739c0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-for-excel-and-google-sheets%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

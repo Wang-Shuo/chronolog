@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ffaf8f6002bb1a5eb938a9aa8de639f42e2210d384ab2a411343e350305bf2cb
+machine_hash: f53bb190dcdc17f6585245845f6e41a1bd5db4906fbeee9654818ab264c2d6b9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,17 +28,17 @@ record:
     we started rolling out two updates to voice mode in ChatGPT:'
   evidence:
   - quote: 'Today we started rolling out two updates to voice mode in ChatGPT:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#santa-voice-and-video-and-screen-share-in-voice-chats
   - quote: 'Santa voice: You can now chat with Santa in ChatGPT! Until early January,
       you can find Santa in the list of available voices in settings or by tapping
       on a snowflake icon. We are rolling out Santa globally to all logged in users
       today, and you can chat with Santa everywhere you use voice mode.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#santa-voice-and-video-and-screen-share-in-voice-chats
   - quote: The first time you chat with Santa, your advanced voice limit will reset
       one time. So, if you’ve already used up your advanced voice limit for the day
       or the month (based on your subscription plan), you can still chat with Santa
       for the first time using advanced voice.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#santa-voice-and-video-and-screen-share-in-voice-chats
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -67,7 +67,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Today we started rolling out two updates to voice mode in ChatGPT
 
-**ChatGPT** · 2024-12-12 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d|Santa Voice and Video and Screen Share in Voice Chats]]
+**ChatGPT** · 2024-12-12 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#santa-voice-and-video-and-screen-share-in-voice-chats) · from [[Releases/ChatGPT/chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d|Santa Voice and Video and Screen Share in Voice Chats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -77,7 +77,7 @@ type: change
 >
 > The first time you chat with Santa, your advanced voice limit will reset one time. So, if you’ve already used up your advanced voice limit for the day or the month (based on your subscription plan), you can still chat with Santa for the first time using advanced voice.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#santa-voice-and-video-and-screen-share-in-voice-chats
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -101,5 +101,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-12-12-8ade79&body=Card%3A%20Changes%2FChatGPT%2F2024-12-12-today-we-started-rolling-out-two-updates-to-voice-mode-in-chatgpt-8ade79.md%0ACard%20ID%3A%20chatgpt-2024-12-12-8ade79%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-12-12-8ade79&body=Card%3A%20Changes%2FChatGPT%2F2024-12-12-today-we-started-rolling-out-two-updates-to-voice-mode-in-chatgpt-8ade79.md%0ACard%20ID%3A%20chatgpt-2024-12-12-8ade79%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23santa-voice-and-video-and-screen-share-in-voice-chats%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -43,8 +43,8 @@ related_changes:
   off the auto-install of the "cursor ." command (and fixes its install altogether)]]'
 - '[[Changes/Cursor/2023-04-14-don-t-install-cursor-command-on-startup|Don''t install
   "cursor" command on startup]]'
-- '[[Changes/Cursor/2023-04-29-working-remote-ssh-support-through-the-openremote-ssh-extension|🌐
-  Working remote ssh support through the "OpenRemote - SSH" extension]]'
+- "[[Changes/Cursor/2023-04-29-working-remote-ssh-support-through-the-openremote-ssh-extension|\U0001F310
+  Working remote ssh support through the \"OpenRemote - SSH\" extension]]"
 source_release: '[[Releases/Cursor/cursor-2023-05-17-0-2-16-https-cursor-com-changelog-0-2-16-e0618ec3|cursor-2023-05-17-0-2-16-https-cursor-com-changelog-0-2-16-e0618ec3]]'
 source_type: cursor_changelog
 theme: developer-workflow

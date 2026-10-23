@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2fddfb44586272f2b6d372f611dab8933b6c75442e717db63ec77751da024727
+machine_hash: fb45b67957b58da7575573ad9e6da9ae58c161b380a34ea0021df541db6105e2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,7 +46,7 @@ record:
       business data or conversations, and our models don’t learn from your usage.
       More details on our data privacy practices can be found on our privacy page
       and Trust Portal.You can learn more about the ChatGPT Team plan here.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-gpt-store-and-chatgpt-team-plan
   extractor_version: fallback-v5
   impact: significant
   kind: launch
@@ -70,13 +70,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Use ChatGPT alongside your team
 
-**ChatGPT** · 2024-01-10 · [[Themes/collaboration|Collaboration]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd|Introducing the GPT Store and ChatGPT Team plan]]
+**ChatGPT** · 2024-01-10 · [[Themes/collaboration|Collaboration]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-gpt-store-and-chatgpt-team-plan) · from [[Releases/ChatGPT/chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd|Introducing the GPT Store and ChatGPT Team plan]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re launching a new ChatGPT plan for teams of all sizes, which provides a secure, collaborative workspace to get the most out of ChatGPT at work.ChatGPT Team offers access to our advanced models like GPT-4 and DALL·E 3, and tools like Advanced Data Analysis. It additionally includes a dedicated collaborative workspace for your team and admin tools for team management. As with ChatGPT Enterprise, you own and control your business data — we do not train on your business data or conversations, and our models don’t learn from your usage. More details on our data privacy practices can be found on our privacy page and Trust Portal.You can learn more about the ChatGPT Team plan here.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-gpt-store-and-chatgpt-team-plan
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -99,5 +99,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-01-10-c68432&body=Card%3A%20Changes%2FChatGPT%2F2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432.md%0ACard%20ID%3A%20chatgpt-2024-01-10-c68432%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-01-10-c68432&body=Card%3A%20Changes%2FChatGPT%2F2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432.md%0ACard%20ID%3A%20chatgpt-2024-01-10-c68432%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23introducing-the-gpt-store-and-chatgpt-team-plan%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

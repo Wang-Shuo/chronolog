@@ -15,7 +15,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c1692d10237053ffc58c5ab7afba81dbfa2e714339be57ac0a0936da390cd5b5
+machine_hash: 933e067233e749d9042cbc0d0967ee573a1c77fdeac0e3d02abc66b357e6917b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
     projects'
   evidence:
   - quote: Sharing chats from projects
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -55,13 +55,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Sharing chats from projects
 
-**ChatGPT** · 2025-06-12 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8|Adding More Capabilities to Projects]]
+**ChatGPT** · 2025-06-12 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects) · from [[Releases/ChatGPT/chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8|Adding More Capabilities to Projects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Sharing chats from projects
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -88,5 +88,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-12-1db390&body=Card%3A%20Changes%2FChatGPT%2F2025-06-12-sharing-chats-from-projects.md%0ACard%20ID%3A%20chatgpt-2025-06-12-1db390%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-12-1db390&body=Card%3A%20Changes%2FChatGPT%2F2025-06-12-sharing-chats-from-projects.md%0ACard%20ID%3A%20chatgpt-2025-06-12-1db390%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23adding-more-capabilities-to-projects%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

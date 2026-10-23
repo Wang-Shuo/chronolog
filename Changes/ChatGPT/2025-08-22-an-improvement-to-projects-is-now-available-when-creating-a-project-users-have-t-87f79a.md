@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d102a0c1c491e737ca73619035fa146da8a594f6fd4fbe326e1017e487097172
+machine_hash: 6da35857b3fe99e4846320d4a1985dda720c36527b454afaff287cfe5d1d87cd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ record:
       chats outside of the project.This creates a focused, self-contained space, which
       is useful for long-running or sensitive work where you want ChatGPT to stay
       anchored to that project’s tone, context, and history.Note:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-only-memory
   - quote: Personal Memory must be enabled to utilize this feature.Settings -> Personalization
       -> Memory
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-only-memory
   extractor_version: fallback-v5
   impact: incremental
   kind: launch
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # An improvement to projects is now available
 
-**ChatGPT** · 2025-08-22 · [[Themes/memory|Memory and Personalization]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-08-22-project-only-memory-3424a221|Project-only memory]]
+**ChatGPT** · 2025-08-22 · [[Themes/memory|Memory and Personalization]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-only-memory) · from [[Releases/ChatGPT/chatgpt-2025-08-22-project-only-memory-3424a221|Project-only memory]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -90,7 +90,7 @@ type: change
 >
 > Personal Memory must be enabled to utilize this feature.Settings -> Personalization -> Memory
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-only-memory
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -113,5 +113,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-08-22-87f79a&body=Card%3A%20Changes%2FChatGPT%2F2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-87f79a.md%0ACard%20ID%3A%20chatgpt-2025-08-22-87f79a%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-08-22-87f79a&body=Card%3A%20Changes%2FChatGPT%2F2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-87f79a.md%0ACard%20ID%3A%20chatgpt-2025-08-22-87f79a%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23project-only-memory%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

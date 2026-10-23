@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-06-26'
 description: 'ChatGPT release Retiring GPT-4.5 on 2026-06-26: 1 tracked change across
   Model Support'
-machine_hash: ec1e6409bc412914a518eb2ed09e58519cf99b4f1caf702f424ee9c09ce860ba
+machine_hash: 99ef86542d7039a0f6ca910922bb73232d7561a625aff0232cbe5051c4505969
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     with GPT-5.5.This retirement was previously announced on May 28, 2026. It applies
     to ChatGPT only; there are no changes to the API.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-45
   title: Retiring GPT-4.5
   version: Retiring GPT-4.5
 release_id: chatgpt-2026-06-26-retiring-gpt-4-5-41879baf
 source_release: Retiring GPT-4.5
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-45
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Retiring GPT-4.5
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Retiring GPT-4.5
 
-**ChatGPT** · 2026-06-26 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-06-26 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-45)
 <!-- chronolog:end -->
 
 ## Summary

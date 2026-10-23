@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7efae0abe7f638f3ea48716d6df774b635afe25b931eeaea630fb38299003b4d
+machine_hash: 4d8750b3d8eb40b6b5de88b45c8b14c001557fb3de77a34069144220ba355327
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ record:
       you make in Personalization now apply across all chats immediately (including
       existing conversations), and GPT-5.1 models follow your custom instructions
       and style preferences more reliably.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-tone-and-personalization-controls
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -82,13 +82,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # New tone and personalization controls
 
-**ChatGPT** · 2025-11-12 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-11-12-new-tone-and-personalization-controls-8052eeb3|New tone and personalization controls]]
+**ChatGPT** · 2025-11-12 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-tone-and-personalization-controls) · from [[Releases/ChatGPT/chatgpt-2025-11-12-new-tone-and-personalization-controls-8052eeb3|New tone and personalization controls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re updating ChatGPT’s tone controls so it’s easier to make responses sound the way you prefer. You can now choose from updated presets like Default, Friendly, Efficient, Professional, Candid, and Quirky (with Cynical and Nerdy still available), and we’re experimenting with more granular controls over how concise, warm, or scannable responses are, plus how often emojis appear.Changes you make in Personalization now apply across all chats immediately (including existing conversations), and GPT-5.1 models follow your custom instructions and style preferences more reliably.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-tone-and-personalization-controls
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -109,5 +109,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-11-12-d3a253&body=Card%3A%20Changes%2FChatGPT%2F2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th-d3a253.md%0ACard%20ID%3A%20chatgpt-2025-11-12-d3a253%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-11-12-d3a253&body=Card%3A%20Changes%2FChatGPT%2F2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th-d3a253.md%0ACard%20ID%3A%20chatgpt-2025-11-12-d3a253%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23new-tone-and-personalization-controls%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

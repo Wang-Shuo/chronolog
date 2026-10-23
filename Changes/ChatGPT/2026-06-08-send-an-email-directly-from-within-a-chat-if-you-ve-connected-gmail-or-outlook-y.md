@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 82672ffb6e0b75029e616b4dc40887a793283b9f7ef33872cd37b66c266ff07e
+machine_hash: 506715e599b06766e5136e84f1d731d07adb3ea71fe7ef8d6d051ad0779289eb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       same conversation. ChatGPT will create a draft and you can choose to send it
       without leaving ChatGPT. Sending emails is available on the web for users on
       Plus, Pro, Business, and Enterprise plans with Gmail or Outlook connected.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -68,13 +68,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Send an email directly from within a chat
 
-**ChatGPT** · 2026-06-08 · [[Themes/enterprise-admin|Enterprise and Administration]] · Web · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
+**ChatGPT** · 2026-06-08 · [[Themes/enterprise-admin|Enterprise and Administration]] · Web · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Send an email directly from within a chat: If you’ve connected Gmail or Outlook, you can now ask ChatGPT to draft and send emails directly from the same conversation. ChatGPT will create a draft and you can choose to send it without leaving ChatGPT. Sending emails is available on the web for users on Plus, Pro, Business, and Enterprise plans with Gmail or Outlook connected.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -105,5 +105,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-08-5e6d65&body=Card%3A%20Changes%2FChatGPT%2F2026-06-08-send-an-email-directly-from-within-a-chat-if-you-ve-connected-gmail-or-outlook-y.md%0ACard%20ID%3A%20chatgpt-2026-06-08-5e6d65%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-08-5e6d65&body=Card%3A%20Changes%2FChatGPT%2F2026-06-08-send-an-email-directly-from-within-a-chat-if-you-ve-connected-gmail-or-outlook-y.md%0ACard%20ID%3A%20chatgpt-2026-06-08-5e6d65%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-app-experience-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

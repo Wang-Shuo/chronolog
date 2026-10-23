@@ -3,7 +3,7 @@ changes_count: 2
 date: '2026-01-07'
 description: 'ChatGPT release Health in ChatGPT on 2026-01-07: 2 tracked changes across
   Memory and Personalization, Mobile and Desktop'
-machine_hash: 2c707cde89fe2151bd9070e6b10d71b496170a3346d5cd30e84b4bd1b7c2003c
+machine_hash: 66c85043ed37c0c6fc471bd1183a488d3e639bcff671efeead85e8f4f8eed6a7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     Apple Health and supported wellness apps so answers can be grounded in your own
     data. Health is designed to help you navigate medical care, not replace it. Health…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt
   title: Health in ChatGPT
   version: Health in ChatGPT
 release_id: chatgpt-2026-01-07-health-in-chatgpt-4cb3bdf6
 source_release: Health in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Health in ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Health in ChatGPT
 
-**ChatGPT** · 2026-01-07 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-01-07 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

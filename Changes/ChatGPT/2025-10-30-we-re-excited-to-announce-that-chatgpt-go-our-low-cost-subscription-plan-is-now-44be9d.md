@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: 29d961e7ed3f49ed673c9a70552bbb2732ff0a47afb46093a9fa88213dd329dd
+machine_hash: 881cfbebdc5b2858ccca360bfbf1624949132ea79602004edd3f685d2f859bdc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ record:
       to 98 countries. The new countries we added are Austria, Czech Republic, Denmark,
       Norway, Poland, Portugal, Spain and Sweden.For an affordable price, ChatGPT
       Go provides everything included in the Free plan, and:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion
   extractor_version: fallback-v5
   impact: significant
   kind: expansion
@@ -68,13 +68,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT Go, our low cost subscription plan, is now available in 8 additional…
 
-**ChatGPT** · 2025-10-30 · [[Themes/pricing-model|Pricing Model]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-10-30-chatgpt-go-expansion-37d00d9f|ChatGPT Go expansion]]
+**ChatGPT** · 2025-10-30 · [[Themes/pricing-model|Pricing Model]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion) · from [[Releases/ChatGPT/chatgpt-2025-10-30-chatgpt-go-expansion-37d00d9f|ChatGPT Go expansion]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We're excited to announce that ChatGPT Go, our low cost subscription plan, is now available in 8 additional countries in Europe, bringing total coverage to 98 countries. The new countries we added are Austria, Czech Republic, Denmark, Norway, Poland, Portugal, Spain and Sweden.For an affordable price, ChatGPT Go provides everything included in the Free plan, and:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -98,5 +98,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-10-30-44be9d&body=Card%3A%20Changes%2FChatGPT%2F2025-10-30-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-44be9d.md%0ACard%20ID%3A%20chatgpt-2025-10-30-44be9d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-10-30-44be9d&body=Card%3A%20Changes%2FChatGPT%2F2025-10-30-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-44be9d.md%0ACard%20ID%3A%20chatgpt-2025-10-30-44be9d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-go-expansion%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c90f7f55debb4b7a462ee0e0a284e9bf51763bee62bf6992a7b00a43ddb36038
+machine_hash: c4b2733fb724d51733c7f6019667ebbfe594892ddfa32d75a472b62fcaa6f787
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       thinks through existing code to identify necessary changes, and consistently
       produces coding outputs that successfully compile and run, streamlining your
       coding workflows.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o
   extractor_version: fallback-v5
   impact: incremental
   kind: launch
@@ -66,13 +66,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Smarter problem-solving in STEM and coding
 
-**ChatGPT** · 2025-03-27 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7|Improvements to GPT-4o]]
+**ChatGPT** · 2025-03-27 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o) · from [[Releases/ChatGPT/chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7|Improvements to GPT-4o]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > GPT-4o has further improved its capability to tackle complex technical and coding problems. It now generates cleaner, simpler frontend code, more accurately thinks through existing code to identify necessary changes, and consistently produces coding outputs that successfully compile and run, streamlining your coding workflows.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -97,5 +97,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-03-27-9fca00&body=Card%3A%20Changes%2FChatGPT%2F2025-03-27-gpt-4o-has-further-improved-its-capability-to-tackle-complex-technical-and-codin.md%0ACard%20ID%3A%20chatgpt-2025-03-27-9fca00%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-03-27-9fca00&body=Card%3A%20Changes%2FChatGPT%2F2025-03-27-gpt-4o-has-further-improved-its-capability-to-tackle-complex-technical-and-codin.md%0ACard%20ID%3A%20chatgpt-2025-03-27-9fca00%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23improvements-to-gpt-4o%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

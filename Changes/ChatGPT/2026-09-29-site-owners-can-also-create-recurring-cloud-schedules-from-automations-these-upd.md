@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5fffb92246ebfffc311673523bd344158a578a5122507d5d6df0b8fc51e82474
+machine_hash: d50425bd3f82df6c7e2298e6f8e54abaeab96b848ecda0ae6996517ac4aaee5c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   - quote: Site owners can also create recurring cloud schedules from Automations.
       These updates are available where Sites is supported. Learn more about creating
       and managing Sites.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#creating-editing-and-scheduling-sites
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -60,13 +60,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Site owners can also create recurring cloud schedules from Automations
 
-**ChatGPT** · 2026-09-29 · [[Themes/automation-scheduling|Automation and Scheduling]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-29-creating-editing-and-scheduling-sites-bb025dd6|Creating, editing, and scheduling Sites]]
+**ChatGPT** · 2026-09-29 · [[Themes/automation-scheduling|Automation and Scheduling]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#creating-editing-and-scheduling-sites) · from [[Releases/ChatGPT/chatgpt-2026-09-29-creating-editing-and-scheduling-sites-bb025dd6|Creating, editing, and scheduling Sites]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Site owners can also create recurring cloud schedules from Automations. These updates are available where Sites is supported. Learn more about creating and managing Sites.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#creating-editing-and-scheduling-sites
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -89,5 +89,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-382f0b&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-site-owners-can-also-create-recurring-cloud-schedules-from-automations-these-upd.md%0ACard%20ID%3A%20chatgpt-2026-09-29-382f0b%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-382f0b&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-site-owners-can-also-create-recurring-cloud-schedules-from-automations-these-upd.md%0ACard%20ID%3A%20chatgpt-2026-09-29-382f0b%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23creating-editing-and-scheduling-sites%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

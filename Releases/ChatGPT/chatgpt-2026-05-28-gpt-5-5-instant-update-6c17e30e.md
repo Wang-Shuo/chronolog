@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-05-28'
 description: 'ChatGPT release GPT-5.5 Instant Update on 2026-05-28: 1 tracked change
   across Model Support'
-machine_hash: 1bb0d2e1238b0ea077c996bda1325bf9a22b3adf74ad46bd34b53665514185a8
+machine_hash: ca44ffe12833fbea789f318aa074355c93561a3c2179c9a2ca00e7a2a44d29bb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     or bullet-heavy responses.With this update, canvas will no longer be available
     in GPT-5.5 Instant…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-update
   title: GPT-5.5 Instant Update
   version: GPT-5.5 Instant Update
 release_id: chatgpt-2026-05-28-gpt-5-5-instant-update-6c17e30e
 source_release: GPT-5.5 Instant Update
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-update
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: GPT-5.5 Instant Update
 <!-- chronolog:begin region="header" -->
 # ChatGPT · GPT-5.5 Instant Update
 
-**ChatGPT** · 2026-05-28 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-05-28 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-update)
 <!-- chronolog:end -->
 
 ## Summary

@@ -3,7 +3,7 @@ created: '2023-03-23'
 date: '2026-10-05'
 description: Cross-product timeline of Search and Browsing changes in ChatGPT, Claude
   Code and Cursor.
-machine_hash: 403b3447008e8fb3fd629e66c31a24a37c5fee8aebc2f0088196700ff05c7738
+machine_hash: 612e2fa3199dffdb05089e4708f61572d65440a426b8904682fc60c092e4a66f
 modified: '2026-10-05'
 products_involved:
 - ChatGPT
@@ -21,7 +21,7 @@ title: Search and Browsing
 <!-- chronolog:begin region="header" -->
 # Search and Browsing
 
-38 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-23 → 2026-10-05 · Claude Code averages 6.9 cards per release, Cursor 4.0, ChatGPT 1.7
+38 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-23 → 2026-10-05 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary

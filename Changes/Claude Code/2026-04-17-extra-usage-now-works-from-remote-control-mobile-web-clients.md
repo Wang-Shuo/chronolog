@@ -4,8 +4,8 @@ date: '2026-04-17'
 description: 'Claude Code · 2026-04-17 · Mobile and Desktop: `/extra-usage` now works
   from Remote Control (mobile/web) clients'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1130
   relation: same-theme-chronology

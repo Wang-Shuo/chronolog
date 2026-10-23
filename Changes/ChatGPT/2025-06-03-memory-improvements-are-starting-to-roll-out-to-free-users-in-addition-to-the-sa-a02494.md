@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8f732a01582647070cd411c4a8789f71ea1e0b0dcfef5cb89571a087a547ae44
+machine_hash: e6041036f31fe207c242180056fdeed80acdfc28631653e2113b05ec8b874377
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       to the saved memories that were there before, ChatGPT now references your recent
       conversations to deliver responses that feel more relevant and tailored to you.Free
       users must be logged in and on up-to-date apps (iOS/Android v1.2025.147+).
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-more-comprehensive-for-free-users
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -79,13 +79,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Memory improvements are starting to roll out to Free users
 
-**ChatGPT** · 2025-06-03 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3|Memory is now more comprehensive for Free users]]
+**ChatGPT** · 2025-06-03 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-more-comprehensive-for-free-users) · from [[Releases/ChatGPT/chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3|Memory is now more comprehensive for Free users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Memory improvements are starting to roll out to Free users. In addition to the saved memories that were there before, ChatGPT now references your recent conversations to deliver responses that feel more relevant and tailored to you.Free users must be logged in and on up-to-date apps (iOS/Android v1.2025.147+).
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-more-comprehensive-for-free-users
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -108,5 +108,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-03-a02494&body=Card%3A%20Changes%2FChatGPT%2F2025-06-03-memory-improvements-are-starting-to-roll-out-to-free-users-in-addition-to-the-sa-a02494.md%0ACard%20ID%3A%20chatgpt-2025-06-03-a02494%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-03-a02494&body=Card%3A%20Changes%2FChatGPT%2F2025-06-03-memory-improvements-are-starting-to-roll-out-to-free-users-in-addition-to-the-sa-a02494.md%0ACard%20ID%3A%20chatgpt-2025-06-03-a02494%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23memory-is-now-more-comprehensive-for-free-users%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

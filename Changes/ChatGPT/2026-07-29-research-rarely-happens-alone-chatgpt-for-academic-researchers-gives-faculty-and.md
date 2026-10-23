@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 961c6fde540011c853b35edfd558a4deb5ac84d27cb30a7ca593fd74be8b15cc
+machine_hash: 8ed86bb26b4ceaf2f5ef18ac52b2bb48ec88c5c366ca6767a8172a62ec3cd7cf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,7 +53,7 @@ record:
       ChatGPT Edu institutions can still apply, but when approved, follow an institution-managed
       Edu route instead. The program covers ChatGPT access, not API credits.Read the
       full eligibility and program details in ChatGPT for Academic Researchers.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-academic-researchers
   extractor_version: fallback-v5
   impact: incremental
   kind: pricing
@@ -92,13 +92,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT for Academic Researchers
 
-**ChatGPT** · 2026-07-29 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-29-chatgpt-for-academic-researchers-9c67fb00|ChatGPT for Academic Researchers]]
+**ChatGPT** · 2026-07-29 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-academic-researchers) · from [[Releases/ChatGPT/chatgpt-2026-07-29-chatgpt-for-academic-researchers-9c67fb00|ChatGPT for Academic Researchers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Research rarely happens alone. ChatGPT for Academic Researchers gives faculty and postdoctoral researchers the ability to apply for 12 months of complimentary access to a dedicated ChatGPT workspace for a small, verified team. Each workspace supports up to five members and includes business data protections and ChatGPT Pro-level usage limits, helping researchers collaborate while keeping team research in its own workspace.To apply, researchers sign in with an institutional email, verify their affiliation through SheerID, and share a qualifying paper and a short description of their intended research use. Approved applicants complete a $0 checkout with a valid card, create the workspace, and can invite up to four verified collaborators from the same institution. Researchers at existing ChatGPT Edu institutions can still apply, but when approved, follow an institution-managed Edu route instead. The program covers ChatGPT access, not API credits.Read the full eligibility and program details in ChatGPT for Academic Researchers.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-academic-researchers
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -119,5 +119,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-29-aad3b3&body=Card%3A%20Changes%2FChatGPT%2F2026-07-29-research-rarely-happens-alone-chatgpt-for-academic-researchers-gives-faculty-and.md%0ACard%20ID%3A%20chatgpt-2026-07-29-aad3b3%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-29-aad3b3&body=Card%3A%20Changes%2FChatGPT%2F2026-07-29-research-rarely-happens-alone-chatgpt-for-academic-researchers-gives-faculty-and.md%0ACard%20ID%3A%20chatgpt-2026-07-29-aad3b3%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-for-academic-researchers%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

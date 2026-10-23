@@ -4,7 +4,7 @@ date: '2025-10-15'
 description: 'ChatGPT release ChatGPT can now automatically manage saved memories
   so it’s even better at remembering what’s important to you. on 2025-10-15: 1 tracked
   change…'
-machine_hash: 7aec7b70312195e556f1a0cd96902fd6d36d5403cef1b3c8458b755fcec7a129
+machine_hash: e5505a7a1bd9d5cdf50ab4a40e3c08e17c4ed2c5ddb77bf0627afaeadb4ffb35
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -19,7 +19,7 @@ record:
     full” state in your ChatGPT account.To decide which memories stay top of mind,
     ChatGPT…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-can-now-automatically-manage-saved-memories-so-its-even-better-at-remembering-whats-important-to-you
   title: ChatGPT can now automatically manage saved memories so it’s even better at
     remembering what’s important to you.
   version: ChatGPT can now automatically manage saved memories so it’s even better
@@ -28,7 +28,7 @@ release_id: chatgpt-2025-10-15-chatgpt-can-now-automatically-manage-saved-memori
 source_release: ChatGPT can now automatically manage saved memories so it’s even better
   at remembering what’s important to you.
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-can-now-automatically-manage-saved-memories-so-its-even-better-at-remembering-whats-important-to-you
 tags:
 - release
 - chatgpt
@@ -41,7 +41,7 @@ version: ChatGPT can now automatically manage saved memories so it’s even bett
 <!-- chronolog:begin region="header" -->
 # ChatGPT can now automatically manage saved memories so it’s even better at remembering what’s important to you.
 
-**ChatGPT** · 2025-10-15 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-10-15 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-can-now-automatically-manage-saved-memories-so-its-even-better-at-remembering-whats-important-to-you)
 <!-- chronolog:end -->
 
 ## Summary

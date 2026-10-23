@@ -3,7 +3,7 @@ changes_count: 3
 date: '2025-08-18'
 description: 'ChatGPT release Introducing ChatGPT Go on 2025-08-18: 3 tracked changes
   across Image Generation, Memory and Personalization, Pricing Model'
-machine_hash: 61731a098d0929dd206a19d0b98678c183bfc4bf6b2723293c1aa3fbf87c8150
+machine_hash: 0085d8c6a0d4b2b0810132cddb6c255e8ab92e0720dd4dc0cd53ebc65c805678
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -16,13 +16,13 @@ record:
     will initially be available for users in India only.For ₹399/month (GST included),
     ChatGPT Go provides everything included in the Free plan, and:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-go
   title: Introducing ChatGPT Go
   version: Introducing ChatGPT Go
 release_id: chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a
 source_release: Introducing ChatGPT Go
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-go
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Introducing ChatGPT Go
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Introducing ChatGPT Go
 
-**ChatGPT** · 2025-08-18 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-08-18 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-go)
 <!-- chronolog:end -->
 
 ## Summary

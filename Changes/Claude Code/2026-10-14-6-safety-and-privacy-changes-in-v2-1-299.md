@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 27b27759e7e0511b86c0e144f18c7afd22fef801f35c245aea56b9fd8c277880
+machine_hash: c2a932a68f50ae5bde7d5638884b8148be1a774f71f15dfa66647c074f2d94b3
 product: claude-code
 product_name: Claude Code
 record:
@@ -118,6 +118,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-2-safety-and-privacy-changes-in-v2-1-300|2 Safety and Privacy changes in v2.1.300]]
+- Later: 2026-10-15 · Claude Code · [[Changes/Claude Code/2026-10-15-5-safety-and-privacy-changes-in-v2-1-301|5 Safety and Privacy changes in v2.1.301]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

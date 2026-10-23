@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-03-10'
 description: 'ChatGPT release Interactive learning for math and science on 2026-03-10:
   1 tracked change across Learning Tools'
-machine_hash: d3236daa734f1e49f407d6cba71e22977de93d8607fd8dd7f38b580b9927a2b1
+machine_hash: e0ecf75828cc152896116d22b58c6a53a5ce69180e1ac1216f558b9414f1ad72
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     in real time. Adjust inputs, manipulate equations, and instantly see how changes
     affect graphs and outcomes—turning abstract concepts into something you can explore…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interactive-learning-for-math-and-science
   title: Interactive learning for math and science
   version: Interactive learning for math and science
 release_id: chatgpt-2026-03-10-interactive-learning-for-math-and-science-e25b67af
 source_release: Interactive learning for math and science
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interactive-learning-for-math-and-science
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Interactive learning for math and science
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Interactive learning for math and science
 
-**ChatGPT** · 2026-03-10 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-03-10 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interactive-learning-for-math-and-science)
 <!-- chronolog:end -->
 
 ## Summary

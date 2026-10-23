@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 35384863251916136a08b905f882ff50d946cfab023dfeff601c87ba0242859a
+machine_hash: 26fdbf5307c99356f736a72329519dad41ea72f8bcb37bff89c671cdcecb1af7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       (synced and non-synced), Microsoft OneDrive (Business), Microsoft SharePoint.Note
       this feature is currently limited to users located outside of the EEA, Switzerland,
       and the UK.Learn more about Connectors.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chat-search-connectors-pro
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -75,13 +75,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Chat search connectors (Pro)
 
-**ChatGPT** · 2025-06-24 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-06-24-chat-search-connectors-pro-a20d1d1a|Chat search connectors (Pro)]]
+**ChatGPT** · 2025-06-24 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chat-search-connectors-pro) · from [[Releases/ChatGPT/chatgpt-2025-06-24-chat-search-connectors-pro-a20d1d1a|Chat search connectors (Pro)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Pro users are now able to use chat search connectors (in addition to deep research connectors) for the following integrations: Dropbox, Box, Google Drive (synced and non-synced), Microsoft OneDrive (Business), Microsoft SharePoint.Note this feature is currently limited to users located outside of the EEA, Switzerland, and the UK.Learn more about Connectors.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chat-search-connectors-pro
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -102,5 +102,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-24-9d5a85&body=Card%3A%20Changes%2FChatGPT%2F2025-06-24-pro-users-are-now-able-to-use-chat-search-connectors-in-addition-to-deep-researc-9d5a85.md%0ACard%20ID%3A%20chatgpt-2025-06-24-9d5a85%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-24-9d5a85&body=Card%3A%20Changes%2FChatGPT%2F2025-06-24-pro-users-are-now-able-to-use-chat-search-connectors-in-addition-to-deep-researc-9d5a85.md%0ACard%20ID%3A%20chatgpt-2025-06-24-9d5a85%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chat-search-connectors-pro%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

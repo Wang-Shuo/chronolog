@@ -3,7 +3,7 @@ changes_count: 1
 date: '2024-04-29'
 description: 'ChatGPT release Memory is now available to Plus users on 2024-04-29:
   1 tracked change across Memory and Personalization'
-machine_hash: df0c20aad3671ead3c476b88fe2a20bfd916ea637ae9997d8178d54a0ec756bf
+machine_hash: 3a49561274d469954bf9c628f3e9c3320c88960a4a2a077cb17a2b5bd975b8f0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     new chat and tell ChatGPT anything you’d like it to remember.Memory can be turned
     on or off in settings. Team, Enterprise, and GPTs to come.'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-available-to-plus-users
   title: Memory is now available to Plus users
   version: Memory is now available to Plus users
 release_id: chatgpt-2024-04-29-memory-is-now-available-to-plus-users-4ba2f306
 source_release: Memory is now available to Plus users
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-available-to-plus-users
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Memory is now available to Plus users
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Memory is now available to Plus users
 
-**ChatGPT** · 2024-04-29 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2024-04-29 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-available-to-plus-users)
 <!-- chronolog:end -->
 
 ## Summary

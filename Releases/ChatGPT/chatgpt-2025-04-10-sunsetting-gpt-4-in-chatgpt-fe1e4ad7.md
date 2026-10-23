@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-04-10'
 description: 'ChatGPT release Sunsetting GPT‑4 in ChatGPT on 2025-04-10: 1 tracked
   change across Model Support'
-machine_hash: 6ab34a75bc5d14d7938da54d03b0dc1d53cfd8c10dc2da33bf33b1f0ba66bb6a
+machine_hash: 147b6dd0f5636a9d2b6d21ad898150655d7d216ba91466b51068e5b6fe1e8aab
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     evaluations it consistently surpasses GPT‑4 in writing, coding, STEM, and more.Recent
     upgrades have further improved GPT‑4o’s instruction following, problem solving…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sunsetting-gpt4-in-chatgpt
   title: Sunsetting GPT‑4 in ChatGPT
   version: Sunsetting GPT‑4 in ChatGPT
 release_id: chatgpt-2025-04-10-sunsetting-gpt-4-in-chatgpt-fe1e4ad7
 source_release: Sunsetting GPT‑4 in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sunsetting-gpt4-in-chatgpt
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Sunsetting GPT‑4 in ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Sunsetting GPT‑4 in ChatGPT
 
-**ChatGPT** · 2025-04-10 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-04-10 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sunsetting-gpt4-in-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

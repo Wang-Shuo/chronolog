@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 784b9ed7069fb01a428be0852f5977ce1f5fe4e200a4a4c9e993ddf3a2874230
+machine_hash: dfb6f101d1ebb8db178513112beb27feff681993508ec770a0cfabcfee8e3af3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,12 +28,12 @@ record:
     responses'
   evidence:
   - quote: Longer memory for more personalized responses
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion
   - quote: 'Available on web, mobile (iOS & Android), and desktop (macOS & Windows).Note:
       In Cambodia, Laos, and Nepal, ChatGPT Go subscriptions aren’t available in the
       iOS app currently. Web and Android subscriptions remain available.Learn more
       about ChatGPT Go.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -62,7 +62,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Longer memory for more personalized responses
 
-**ChatGPT** · 2025-10-08 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-10-08-chatgpt-go-expansion-37d00d9f|ChatGPT Go expansion]]
+**ChatGPT** · 2025-10-08 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion) · from [[Releases/ChatGPT/chatgpt-2025-10-08-chatgpt-go-expansion-37d00d9f|ChatGPT Go expansion]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -70,7 +70,7 @@ type: change
 >
 > Available on web, mobile (iOS & Android), and desktop (macOS & Windows).Note: In Cambodia, Laos, and Nepal, ChatGPT Go subscriptions aren’t available in the iOS app currently. Web and Android subscriptions remain available.Learn more about ChatGPT Go.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -94,5 +94,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-10-08-8c6877&body=Card%3A%20Changes%2FChatGPT%2F2025-10-08-longer-memory-for-more-personalized-responses-8c6877.md%0ACard%20ID%3A%20chatgpt-2025-10-08-8c6877%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-10-08-8c6877&body=Card%3A%20Changes%2FChatGPT%2F2025-10-08-longer-memory-for-more-personalized-responses-8c6877.md%0ACard%20ID%3A%20chatgpt-2025-10-08-8c6877%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-go-expansion%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

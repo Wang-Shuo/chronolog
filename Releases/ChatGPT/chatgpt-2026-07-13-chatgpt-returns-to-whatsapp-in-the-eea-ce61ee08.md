@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-07-13'
 description: 'ChatGPT release ChatGPT returns to WhatsApp in the EEA on 2026-07-13:
   1 tracked change across Voice and Audio'
-machine_hash: 0d59a7c00179d27bb9bf0fe8434e3c1ad2f975395af9ef74098460d372747eba
+machine_hash: 296e4348ba90ec1e0bb6ac1cb578edbd4f0d813de1da1cb384e455af4e890d9b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     upload images, send voice notes, create images, and use ChatGPT in many languages.
     Linking…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-returns-to-whatsapp-in-the-eea
   title: ChatGPT returns to WhatsApp in the EEA
   version: ChatGPT returns to WhatsApp in the EEA
 release_id: chatgpt-2026-07-13-chatgpt-returns-to-whatsapp-in-the-eea-ce61ee08
 source_release: ChatGPT returns to WhatsApp in the EEA
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-returns-to-whatsapp-in-the-eea
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: ChatGPT returns to WhatsApp in the EEA
 <!-- chronolog:begin region="header" -->
 # ChatGPT returns to WhatsApp in the EEA
 
-**ChatGPT** · 2026-07-13 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-07-13 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-returns-to-whatsapp-in-the-eea)
 <!-- chronolog:end -->
 
 ## Summary

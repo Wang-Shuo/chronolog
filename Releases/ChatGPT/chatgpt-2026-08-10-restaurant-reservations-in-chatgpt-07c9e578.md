@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-08-10'
 description: 'ChatGPT release Restaurant reservations in ChatGPT on 2026-08-10: 1
   tracked change across Mobile and Desktop'
-machine_hash: 1c3653b401f23d721e4a675688e9d2671bbb7475920c4bb2d091974697d33609
+machine_hash: 007224591947ea52d22e44431db413b685695dd29c962dbcd57c3db46540b9b6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     needs, or atmosphere. You’ll see available reservation times directly in the response.
     You…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#restaurant-reservations-in-chatgpt
   title: Restaurant reservations in ChatGPT
   version: Restaurant reservations in ChatGPT
 release_id: chatgpt-2026-08-10-restaurant-reservations-in-chatgpt-07c9e578
 source_release: Restaurant reservations in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#restaurant-reservations-in-chatgpt
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Restaurant reservations in ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Restaurant reservations in ChatGPT
 
-**ChatGPT** · 2026-08-10 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-08-10 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#restaurant-reservations-in-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

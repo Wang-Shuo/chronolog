@@ -3,7 +3,7 @@ changes_count: 2
 date: '2026-09-29'
 description: 'ChatGPT release Meetings plugin on 2026-09-29: 2 tracked changes across
   Apps and Integrations, Mobile and Desktop'
-machine_hash: 67eb6ecf80983745efb45c9e3d680c8e6cde43fd04f787f4a8e3893d4cca92ea
+machine_hash: f44e954013e8e80679c230640b987e705a00fdae8a3a105050b3bf05235c69b1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     in ChatGPT Space. You can keep them private or share them with your team, then
     ask ChatGPT to…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meetings-plugin
   title: Meetings plugin
   version: Meetings plugin
 release_id: chatgpt-2026-09-29-meetings-plugin-157dcc24
 source_release: Meetings plugin
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meetings-plugin
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Meetings plugin
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Meetings plugin
 
-**ChatGPT** · 2026-09-29 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-09-29 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meetings-plugin)
 <!-- chronolog:end -->
 
 ## Summary

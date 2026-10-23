@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-08-31 · Mobile and Desktop: Bring your browser in
   and Codex. Mention open tabs to use them as context, or ask ChatGPT to complete
   a…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1266
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 539156c26f1e940df6a47f9465b5492cf5d1ef4bdb4e152ea72655bd62076aff
+machine_hash: 1b02337131851139d3af738cd5e992b2cc0b0599b3c009e0a00534e7bd93bbbc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,11 +31,11 @@ record:
   evidence:
   - quote: Bring your browser into Work and Codex. Mention open tabs to use them as
       context, or ask ChatGPT to complete a browser task from the desktop app.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-the-browser-extension-in-more-browsers
   - quote: Side chat is available in Edge, Brave, and Vivaldi. Opera supports tab
       mentions and browser control, but not side chat. Update the desktop app before
       setup; availability depends on your workspace settings.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-the-browser-extension-in-more-browsers
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Bring your browser into Work and Codex
 
-**ChatGPT** · 2026-08-31 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-31-use-the-browser-extension-in-more-browsers-87a64682|Use the browser extension in more browsers]]
+**ChatGPT** · 2026-08-31 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-the-browser-extension-in-more-browsers) · from [[Releases/ChatGPT/chatgpt-2026-08-31-use-the-browser-extension-in-more-browsers-87a64682|Use the browser extension in more browsers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -82,7 +82,7 @@ type: change
 >
 > Side chat is available in Edge, Brave, and Vivaldi. Opera supports tab mentions and browser control, but not side chat. Update the desktop app before setup; availability depends on your workspace settings.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-the-browser-extension-in-more-browsers
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -103,5 +103,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-31-af2c3a&body=Card%3A%20Changes%2FChatGPT%2F2026-08-31-bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context-af2c3a.md%0ACard%20ID%3A%20chatgpt-2026-08-31-af2c3a%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-31-af2c3a&body=Card%3A%20Changes%2FChatGPT%2F2026-08-31-bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context-af2c3a.md%0ACard%20ID%3A%20chatgpt-2026-08-31-af2c3a%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23use-the-browser-extension-in-more-browsers%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

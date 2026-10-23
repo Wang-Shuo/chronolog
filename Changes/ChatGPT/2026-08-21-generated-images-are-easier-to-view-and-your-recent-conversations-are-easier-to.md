@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aee6954a611c44a2bfdd9e17eaaa21bb8e53f7c24dad34f2355c129e3b95bac7
+machine_hash: e2428f96d7e17bf8a04f1b9a73d66bb06b0d3e4bf48aeb5f3dfd2d4f20c23b97
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   evidence:
   - quote: Generated images are easier to view, and your recent conversations are
       easier to browse.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt-on-android
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -70,13 +70,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Generated images are easier to view, and your recent conversations are easier to browse
 
-**ChatGPT** · 2026-08-21 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-21-updates-to-chatgpt-on-android-8e3bdeee|Updates to ChatGPT on Android]]
+**ChatGPT** · 2026-08-21 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt-on-android) · from [[Releases/ChatGPT/chatgpt-2026-08-21-updates-to-chatgpt-on-android-8e3bdeee|Updates to ChatGPT on Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Generated images are easier to view, and your recent conversations are easier to browse.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt-on-android
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -99,5 +99,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-21-f1d36c&body=Card%3A%20Changes%2FChatGPT%2F2026-08-21-generated-images-are-easier-to-view-and-your-recent-conversations-are-easier-to.md%0ACard%20ID%3A%20chatgpt-2026-08-21-f1d36c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-21-f1d36c&body=Card%3A%20Changes%2FChatGPT%2F2026-08-21-generated-images-are-easier-to-view-and-your-recent-conversations-are-easier-to.md%0ACard%20ID%3A%20chatgpt-2026-08-21-f1d36c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23updates-to-chatgpt-on-android%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

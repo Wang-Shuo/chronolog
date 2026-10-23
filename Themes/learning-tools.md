@@ -3,7 +3,7 @@ created: '2025-07-29'
 date: '2026-04-01'
 description: Cross-product timeline of Learning Tools changes in ChatGPT and Claude
   Code.
-machine_hash: 4cde6f6be3c44652aaa077ae48e1ae45d38719011c439266176ff2149e4eb83f
+machine_hash: c4f96d2d6c08346f7a94259ee1d54e1b9174dc7e6fbb982cb5eef1f88a01d4c9
 modified: '2026-04-01'
 products_involved:
 - ChatGPT
@@ -20,7 +20,7 @@ title: Learning Tools
 <!-- chronolog:begin region="header" -->
 # Learning Tools
 
-4 tracked changes across ChatGPT and Claude Code · 2025-07-29 → 2026-04-01 · Claude Code averages 6.9 cards per release, ChatGPT 1.7
+4 tracked changes across ChatGPT and Claude Code · 2025-07-29 → 2026-04-01 · Claude Code averages 7.0 cards per release, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary

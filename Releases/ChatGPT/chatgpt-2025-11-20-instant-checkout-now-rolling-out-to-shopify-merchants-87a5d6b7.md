@@ -3,7 +3,7 @@ changes_count: 0
 date: '2025-11-20'
 description: 'ChatGPT release Instant Checkout now rolling out to Shopify merchants
   on 2025-11-20: no tracked changes'
-machine_hash: c73531cde6bdd4ba81e29fc262c06734043c5ebf1fc94dd58adf134fabfe2115
+machine_hash: d2d0e22e544581984a1abae818a85b2073415decb445ccb31e1ac493b4d9d2ec
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     in the chat with a quick confirmation of your shipping and payment details.Instant
     Checkout…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#instant-checkout-now-rolling-out-to-shopify-merchants
   title: Instant Checkout now rolling out to Shopify merchants
   version: Instant Checkout now rolling out to Shopify merchants
 release_id: chatgpt-2025-11-20-instant-checkout-now-rolling-out-to-shopify-merchants-87a5d6b7
 source_release: Instant Checkout now rolling out to Shopify merchants
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#instant-checkout-now-rolling-out-to-shopify-merchants
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Instant Checkout now rolling out to Shopify merchants
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Instant Checkout now rolling out to Shopify merchants
 
-**ChatGPT** · 2025-11-20 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-11-20 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#instant-checkout-now-rolling-out-to-shopify-merchants)
 <!-- chronolog:end -->
 
 ## Summary

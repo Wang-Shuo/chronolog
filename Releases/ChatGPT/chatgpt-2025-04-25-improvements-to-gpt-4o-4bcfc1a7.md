@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-04-25'
 description: 'ChatGPT release Improvements to GPT-4o on 2025-04-25: 1 tracked change
   across Model Support'
-machine_hash: a8edd7871b008ae9668b1fbab51e4fa53fdec714e482a28fb36a78b13c17ac54
+machine_hash: ea537b98de5a6503b7a423a60e3770f22c69f7547bba37ebbd62d12f30c22e89
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     at guiding conversations toward productive outcomes. We think these updates help
     GPT-4o feel…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o
   title: Improvements to GPT-4o
   version: Improvements to GPT-4o
 release_id: chatgpt-2025-04-25-improvements-to-gpt-4o-4bcfc1a7
 source_release: Improvements to GPT-4o
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Improvements to GPT-4o
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Improvements to GPT-4o
 
-**ChatGPT** · 2025-04-25 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-04-25 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o)
 <!-- chronolog:end -->
 
 ## Summary

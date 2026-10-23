@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 536341460638e725f14e411d772d3a2eaaca07893d545a94767685680ba7f599
+machine_hash: bf425650d4ba53b9fdda6deb072405445c9d278e0e86a42ca17bbacd054806c6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
   - quote: We’re sunsetting the preset Nerdy base style to simplify options and improve
       response quality. Users who selected it will be moved to the default personality.
       You can manage personality settings anytime in ChatGPT under Settings → Personalization.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sunsetting-the-nerdy-base-style
   extractor_version: fallback-v5
   impact: incremental
   kind: policy
@@ -62,13 +62,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Sunsetting the “Nerdy” base style
 
-**ChatGPT** · 2026-03-17 · [[Themes/memory|Memory and Personalization]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-17-sunsetting-the-nerdy-base-style-f0e6829f|Sunsetting the “Nerdy” base style]]
+**ChatGPT** · 2026-03-17 · [[Themes/memory|Memory and Personalization]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sunsetting-the-nerdy-base-style) · from [[Releases/ChatGPT/chatgpt-2026-03-17-sunsetting-the-nerdy-base-style-f0e6829f|Sunsetting the “Nerdy” base style]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re sunsetting the preset Nerdy base style to simplify options and improve response quality. Users who selected it will be moved to the default personality. You can manage personality settings anytime in ChatGPT under Settings → Personalization.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sunsetting-the-nerdy-base-style
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -89,5 +89,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-17-09905d&body=Card%3A%20Changes%2FChatGPT%2F2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res.md%0ACard%20ID%3A%20chatgpt-2026-03-17-09905d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-17-09905d&body=Card%3A%20Changes%2FChatGPT%2F2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res.md%0ACard%20ID%3A%20chatgpt-2026-03-17-09905d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23sunsetting-the-nerdy-base-style%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

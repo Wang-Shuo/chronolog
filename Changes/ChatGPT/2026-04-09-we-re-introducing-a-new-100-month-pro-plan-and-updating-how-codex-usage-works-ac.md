@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2430356d25016b660ebf28524e13a1cf7ad364308a3cf93c8e0296aaeaa1d03c
+machine_hash: d263c77653f9d1f5c4c54b9df78d9c6d82d62d5f02f9f00caa23d30332fb3e0c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   evidence:
   - quote: We’re introducing a new $100/month Pro plan and updating how Codex usage
       works across Plus and Pro.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options
   extractor_version: fallback-v5
   impact: significant
   kind: launch
@@ -63,13 +63,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # We’re introducing a new $100/month Pro plan and updating how Codex usage works…
 
-**ChatGPT** · 2026-04-09 · [[Themes/pricing-model|Pricing Model]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|New Pro plan options]]
+**ChatGPT** · 2026-04-09 · [[Themes/pricing-model|Pricing Model]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options) · from [[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|New Pro plan options]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re introducing a new $100/month Pro plan and updating how Codex usage works across Plus and Pro.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -95,5 +95,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-04-09-441673&body=Card%3A%20Changes%2FChatGPT%2F2026-04-09-we-re-introducing-a-new-100-month-pro-plan-and-updating-how-codex-usage-works-ac.md%0ACard%20ID%3A%20chatgpt-2026-04-09-441673%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-04-09-441673&body=Card%3A%20Changes%2FChatGPT%2F2026-04-09-we-re-introducing-a-new-100-month-pro-plan-and-updating-how-codex-usage-works-ac.md%0ACard%20ID%3A%20chatgpt-2026-04-09-441673%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23new-pro-plan-options%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

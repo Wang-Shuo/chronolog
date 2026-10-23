@@ -4,8 +4,8 @@ date: '2026-09-29'
 description: 'ChatGPT · 2026-09-29 · Mobile and Desktop: Audio is deleted once your
   notes are ready and can’t be accessed or replayed. Available in beta in the ChatGPT…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1295
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bc5623c890fa38ed2fc0cc83b2fdc6ac797cbd1782c3ba355bb20ddfbe5de783
+machine_hash: 6372681dc3bb3ad86c31b0c5f5e3600fafcc2298d0e7761053760c3b40ea32eb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   - quote: Audio is deleted once your notes are ready and can’t be accessed or replayed.
       Available in beta in the ChatGPT desktop app on macOS to Pro and Business users,
       with Enterprise coming soon. Learn more.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meetings-plugin
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -74,13 +74,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Audio is deleted once your notes are ready and can’t be accessed or replayed
 
-**ChatGPT** · 2026-09-29 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-29-meetings-plugin-157dcc24|Meetings plugin]]
+**ChatGPT** · 2026-09-29 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meetings-plugin) · from [[Releases/ChatGPT/chatgpt-2026-09-29-meetings-plugin-157dcc24|Meetings plugin]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Audio is deleted once your notes are ready and can’t be accessed or replayed. Available in beta in the ChatGPT desktop app on macOS to Pro and Business users, with Enterprise coming soon. Learn more.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meetings-plugin
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -103,5 +103,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-e895c4&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava.md%0ACard%20ID%3A%20chatgpt-2026-09-29-e895c4%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-e895c4&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava.md%0ACard%20ID%3A%20chatgpt-2026-09-29-e895c4%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23meetings-plugin%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

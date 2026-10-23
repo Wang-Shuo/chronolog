@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-11-06'
 description: 'ChatGPT release Introducing GPTs on 2023-11-06: 1 tracked change across
   Apps and Integrations'
-machine_hash: e656a82a05a598f5466f4db76bbed585d43790ab15f6c67a840c376289d8c0ba
+machine_hash: 50a1ed760e1b4b0100a3a4e6671f8107569b7e6ba5bb986244d7a9ce7b8e5f4a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     GPTs. GPTs are a new way for anyone to create a tailored version of ChatGPT to
     be more…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpts
   title: Introducing GPTs
   version: Introducing GPTs
 release_id: chatgpt-2023-11-06-introducing-gpts-3721c457
 source_release: Introducing GPTs
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpts
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Introducing GPTs
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Introducing GPTs
 
-**ChatGPT** · 2023-11-06 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2023-11-06 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpts)
 <!-- chronolog:end -->
 
 ## Summary

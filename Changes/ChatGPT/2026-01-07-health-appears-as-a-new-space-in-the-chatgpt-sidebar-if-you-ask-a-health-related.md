@@ -4,8 +4,8 @@ date: '2026-01-07'
 description: 'ChatGPT · 2026-01-07 · Mobile and Desktop: Health appears as a new space
   in the ChatGPT sidebar. If you ask a health-related question in a regular chat…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1030
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b16bc4087f6de37f322b2f94a4a3eccfbb8803df274c9a33d4157edb2c903cbf
+machine_hash: e4680bcbda81e7cb80314291fd4ff070a3bce1aa1ee730bf1423e586fd3ba360
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ record:
       users to learn and continue refining the experience. At launch, Health is available
       on web and iOS, with Android coming soon to ChatGPT Free, Go, Plus, and Pro
       users in supported countries (excluding the EEA, Switzerland, and the UK).
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -81,13 +81,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Health appears as a new space in the ChatGPT sidebar
 
-**ChatGPT** · 2026-01-07 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-01-07-health-in-chatgpt-4cb3bdf6|Health in ChatGPT]]
+**ChatGPT** · 2026-01-07 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-01-07-health-in-chatgpt-4cb3bdf6|Health in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Health appears as a new space in the ChatGPT sidebar. If you ask a health-related question in a regular chat, ChatGPT may also suggest continuing in Health. If you’re interested in getting access as it becomes available, you can sign up for the waitlist. We’re starting by providing access to a small group of early users to learn and continue refining the experience. At launch, Health is available on web and iOS, with Android coming soon to ChatGPT Free, Go, Plus, and Pro users in supported countries (excluding the EEA, Switzerland, and the UK).
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -110,5 +110,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-01-07-06e6e5&body=Card%3A%20Changes%2FChatGPT%2F2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related.md%0ACard%20ID%3A%20chatgpt-2026-01-07-06e6e5%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-01-07-06e6e5&body=Card%3A%20Changes%2FChatGPT%2F2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related.md%0ACard%20ID%3A%20chatgpt-2026-01-07-06e6e5%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23health-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

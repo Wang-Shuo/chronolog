@@ -3,7 +3,7 @@ changes_count: 4
 date: '2026-02-25'
 description: 'ChatGPT release Add sources to your projects from anywhere on 2026-02-25:
   4 tracked changes across Context Window, Apps and Integrations, Projects and…'
-machine_hash: 931a31c92f6e402e61c617494be22afda051625d95a68f9d3e28aa2821aaa45f
+machine_hash: b887c43a185f9f8dcb753945a0361224365a82a1a2dfbcf74f77e333165cd94b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -16,13 +16,13 @@ record:
     sources wherever your context already lives; from apps, conversations, or quick
     text inputs.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#add-sources-to-your-projects-from-anywhere
   title: Add sources to your projects from anywhere
   version: Add sources to your projects from anywhere
 release_id: chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292
 source_release: Add sources to your projects from anywhere
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#add-sources-to-your-projects-from-anywhere
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Add sources to your projects from anywhere
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Add sources to your projects from anywhere
 
-**ChatGPT** · 2026-02-25 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-02-25 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#add-sources-to-your-projects-from-anywhere)
 <!-- chronolog:end -->
 
 ## Summary

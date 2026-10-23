@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: c2b276145bc251b60fbdcfb07d430ef3218c77e608f5bf63f4eb487c2b0220c5
+machine_hash: 947bebbf505a90c76875349270af51e5b49e5766ed36c2a2332b9c2ea94e3722
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,11 +38,11 @@ record:
       information, run computations, or use third-party services. You can learn more
       about plugins here.Today, we will begin extending plugin access to users and
       developers from our waitlist. The plugins we are rolling out with are:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt
   - quote: 'You can join the waitlist to try plugins here:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt
   - quote: ChatGPT Plugin Waitlist
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt
   extractor_version: fallback-v5
   impact: significant
   kind: launch
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # We are announcing experimental support for AI plugins in ChatGPT
 
-**ChatGPT** · 2023-03-23 · [[Themes/apps-integrations|Apps and Integrations]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|Introducing plugins in ChatGPT]]
+**ChatGPT** · 2023-03-23 · [[Themes/apps-integrations|Apps and Integrations]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|Introducing plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -84,7 +84,7 @@ type: change
 >
 > ChatGPT Plugin Waitlist
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -108,5 +108,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-03-23-6b2581&body=Card%3A%20Changes%2FChatGPT%2F2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581.md%0ACard%20ID%3A%20chatgpt-2023-03-23-6b2581%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-03-23-6b2581&body=Card%3A%20Changes%2FChatGPT%2F2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581.md%0ACard%20ID%3A%20chatgpt-2023-03-23-6b2581%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23introducing-plugins-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

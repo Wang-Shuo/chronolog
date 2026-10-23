@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-10-16'
 description: 'ChatGPT release DALL·E 3 is now rolling out in beta on 2023-10-16: 1
   tracked change across Model Support'
-machine_hash: 3ee0348b71ecaa3f62309c6ad0b92a967ffb9dde7fa263838414f029fbfae2cc
+machine_hash: 34a2b1805bcd76f9bc0f6683d6d32a2da4405133ef938cec422ab4fe842f150d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     accurate images.To use DALL·E 3 on both web and mobile, choose DALL·E 3 in the
     selector under…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#dalle-3-is-now-rolling-out-in-beta
   title: DALL·E 3 is now rolling out in beta
   version: DALL·E 3 is now rolling out in beta
 release_id: chatgpt-2023-10-16-dall-e-3-is-now-rolling-out-in-beta-d2dd292b
 source_release: DALL·E 3 is now rolling out in beta
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#dalle-3-is-now-rolling-out-in-beta
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: DALL·E 3 is now rolling out in beta
 <!-- chronolog:begin region="header" -->
 # ChatGPT · DALL·E 3 is now rolling out in beta
 
-**ChatGPT** · 2023-10-16 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2023-10-16 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#dalle-3-is-now-rolling-out-in-beta)
 <!-- chronolog:end -->
 
 ## Summary

@@ -5,8 +5,8 @@ description: 'Cursor · 2026-10-06 · Mobile and Desktop: To stop your computer 
   sleeping while you''re away, turn on "Keep this computer awake" under Remote Control
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1302
   relation: same-theme-chronology

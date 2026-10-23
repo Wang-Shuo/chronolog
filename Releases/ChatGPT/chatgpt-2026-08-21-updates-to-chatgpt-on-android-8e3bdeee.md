@@ -3,7 +3,7 @@ changes_count: 2
 date: '2026-08-21'
 description: 'ChatGPT release Updates to ChatGPT on Android on 2026-08-21: 2 tracked
   changes across Interface Experience'
-machine_hash: fea195a426176ebc720fa570bf6680553143da7260bd1680910d9935effc6319
+machine_hash: 01a98afc919b5198b1f2e228a7a6cede8da9d1649497a0dbe2a455ecf8c264c0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
   source_summary: Generated images are easier to view, and your recent conversations
     are easier to browse.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt-on-android
   title: Updates to ChatGPT on Android
   version: Updates to ChatGPT on Android
 release_id: chatgpt-2026-08-21-updates-to-chatgpt-on-android-8e3bdeee
 source_release: Updates to ChatGPT on Android
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt-on-android
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: Updates to ChatGPT on Android
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Updates to ChatGPT on Android
 
-**ChatGPT** · 2026-08-21 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-08-21 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt-on-android)
 <!-- chronolog:end -->
 
 ## Summary

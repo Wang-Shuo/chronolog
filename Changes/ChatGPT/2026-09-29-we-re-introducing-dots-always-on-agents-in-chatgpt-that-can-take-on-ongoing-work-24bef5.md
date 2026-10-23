@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 488f3e8837380fc88047b0b48397f1aefaf7fbed64b5adcd8dab95ba0239678c
+machine_hash: f5cd5da0182336ac2b586ee31ddd7fcd6292f01ef8eecf98722d71d721fb38a4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,12 +34,12 @@ record:
       work and keep making progress between conversations. Give your dot a goal, connect
       the apps it needs, and define what it can do on its own. Powered by GPT-6 Astra,
       your dot has its own cloud computer and can bring results back for your review.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meet-your-dot
   - quote: Dots are rolling out gradually to eligible Pro and Business Premium users
       aged 18 and older in supported markets. Pro access excludes the European Economic
       Area, Switzerland, and the UK at launch. Enterprise access is a beta and is
       off by default. Create your dot in the ChatGPT desktop app or on desktop web.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meet-your-dot
   extractor_version: fallback-v5
   impact: incremental
   kind: launch
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT introduces dots
 
-**ChatGPT** · 2026-09-29 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-29-meet-your-dot-8b9f914b|Meet your dot]]
+**ChatGPT** · 2026-09-29 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meet-your-dot) · from [[Releases/ChatGPT/chatgpt-2026-09-29-meet-your-dot-8b9f914b|Meet your dot]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -86,7 +86,7 @@ type: change
 >
 > Dots are rolling out gradually to eligible Pro and Business Premium users aged 18 and older in supported markets. Pro access excludes the European Economic Area, Switzerland, and the UK at launch. Enterprise access is a beta and is off by default. Create your dot in the ChatGPT desktop app or on desktop web.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meet-your-dot
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -109,5 +109,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-24bef5&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-we-re-introducing-dots-always-on-agents-in-chatgpt-that-can-take-on-ongoing-work-24bef5.md%0ACard%20ID%3A%20chatgpt-2026-09-29-24bef5%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-24bef5&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-we-re-introducing-dots-always-on-agents-in-chatgpt-that-can-take-on-ongoing-work-24bef5.md%0ACard%20ID%3A%20chatgpt-2026-09-29-24bef5%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23meet-your-dot%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-03-26 · Mobile and Desktop: Users can now choose 
   their device location so ChatGPT can provide more relevant information, such as
   local…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1108
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e154171e880f4676ad02f0302b3cbafe5328f5b38fa3c21f3a6190836597fe72
+machine_hash: 03c36fdd4d8983a381e7cb19078232199343d5dea0c7100a7d421aa9ad828cb7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -62,7 +62,7 @@ record:
       who have set up parental controls can choose to disable device location sharing
       for their teen.Rolling out to all ChatGPT consumer plans on iOS, Android, and
       web.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#location-sharing
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -106,13 +106,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Location Sharing
 
-**ChatGPT** · 2026-03-26 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-26-location-sharing-b07f88a6|Location Sharing]]
+**ChatGPT** · 2026-03-26 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#location-sharing) · from [[Releases/ChatGPT/chatgpt-2026-03-26-location-sharing-b07f88a6|Location Sharing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Users can now choose to share their device location so ChatGPT can provide more relevant information, such as local recommendations, news, and weather. Sharing your device location is completely optional and off until you choose to enable it. You can update device location sharing in Settings > Data Controls at any time.Enabling location sharing will also enable precise location. Precise location means ChatGPT can use your device’s specific location, such as an exact address, to provide more tailored results. For example, if you ask “what are the best coffee shops near me?”, ChatGPT can use your precise location to provide more relevant nearby results. On mobile devices, you can choose to toggle off precise location separately while keeping approximate device location sharing on for additional control.ChatGPT deletes precise location data after it’s used to provide a more relevant response. If ChatGPT’s response includes information related to your specific location, such as the names of nearby restaurants or maps, that information becomes part of your conversation like any other response and will remain in your chat history unless you delete the conversation.Parents who have set up parental controls can choose to disable device location sharing for their teen.Rolling out to all ChatGPT consumer plans on iOS, Android, and web.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#location-sharing
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -133,5 +133,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-26-7907ed&body=Card%3A%20Changes%2FChatGPT%2F2026-03-26-users-can-now-choose-to-share-their-device-location-so-chatgpt-can-provide-more-7907ed.md%0ACard%20ID%3A%20chatgpt-2026-03-26-7907ed%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-26-7907ed&body=Card%3A%20Changes%2FChatGPT%2F2026-03-26-users-can-now-choose-to-share-their-device-location-so-chatgpt-can-provide-more-7907ed.md%0ACard%20ID%3A%20chatgpt-2026-03-26-7907ed%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23location-sharing%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

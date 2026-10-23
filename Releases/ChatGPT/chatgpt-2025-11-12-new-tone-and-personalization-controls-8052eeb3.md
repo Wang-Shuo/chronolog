@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-11-12'
 description: 'ChatGPT release New tone and personalization controls on 2025-11-12:
   1 tracked change across Model Support'
-machine_hash: 6663dc09507d71930dd3042ba450dd871b4ab3ea4bc97e51cb5c695d7be656f3
+machine_hash: d89f431033538d5f5ce5e7bf67b08516a91f0c280191a058ac3d4a430b305bc0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     still available), and we’re experimenting with more granular controls over how
     concise…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-tone-and-personalization-controls
   title: New tone and personalization controls
   version: New tone and personalization controls
 release_id: chatgpt-2025-11-12-new-tone-and-personalization-controls-8052eeb3
 source_release: New tone and personalization controls
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-tone-and-personalization-controls
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: New tone and personalization controls
 <!-- chronolog:begin region="header" -->
 # ChatGPT · New tone and personalization controls
 
-**ChatGPT** · 2025-11-12 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-11-12 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-tone-and-personalization-controls)
 <!-- chronolog:end -->
 
 ## Summary

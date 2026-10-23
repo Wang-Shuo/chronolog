@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-06-24'
 description: 'ChatGPT release Chat search connectors (Pro) on 2025-06-24: 1 tracked
   change across Apps and Integrations'
-machine_hash: f8ce71fad487c67b1a7cc50ead08c523aae92b6e15fc3e5a3ee551fa2e6c7b6f
+machine_hash: d60b7ef8b373a40d7a48cb569481050d7f0fb805407fbd8337894570d097285a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     Drive (synced and non-synced), Microsoft OneDrive (Business), Microsoft SharePoint.Note
     this feature is currently limited to users located outside of the EEA, Switzerland…'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chat-search-connectors-pro
   title: Chat search connectors (Pro)
   version: Chat search connectors (Pro)
 release_id: chatgpt-2025-06-24-chat-search-connectors-pro-a20d1d1a
 source_release: Chat search connectors (Pro)
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chat-search-connectors-pro
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Chat search connectors (Pro)
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Chat search connectors (Pro)
 
-**ChatGPT** · 2025-06-24 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-06-24 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chat-search-connectors-pro)
 <!-- chronolog:end -->
 
 ## Summary

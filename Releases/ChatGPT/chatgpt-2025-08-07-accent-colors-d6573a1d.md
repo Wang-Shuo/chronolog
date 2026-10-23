@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-08-07'
 description: 'ChatGPT release Accent Colors on 2025-08-07: 1 tracked change across
   Mobile and Desktop'
-machine_hash: c2a243179cdf6eb94126df5dcbd36d89d12e68e6e321ea15623e541a2421b053
+machine_hash: 9dc145cc6113cda6446b376dd26dc46a6770d362d38759d8770c8a62ab14c631
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     web: Click your profile icon at the bottom left, select Settings, go to the General
     tab, and choose an option from the Accent color drop-down.On mobile (iOS and Android)…'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#accent-colors
   title: Accent Colors
   version: Accent Colors
 release_id: chatgpt-2025-08-07-accent-colors-d6573a1d
 source_release: Accent Colors
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#accent-colors
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Accent Colors
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Accent Colors
 
-**ChatGPT** · 2025-08-07 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-08-07 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#accent-colors)
 <!-- chronolog:end -->
 
 ## Summary

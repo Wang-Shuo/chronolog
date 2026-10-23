@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-06-18 · Mobile and Desktop: ChatGPT now has more 
   to help with common questions, from pronunciation guidance to World Cup updates.
   It’s also…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1192
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ddda149caea90cf2ac55aacf25f70e815e94f04a0b465f475291239db0f3099f
+machine_hash: 27531bc8144aa7ca3cc52beed1cccca7dda7245c2bceeed8bb4cfa83e1a3acf5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       guidance to World Cup updates. It’s also smoother to use, with easier chat organization
       and sharing, more control over connected apps, and faster photo uploads on iOS,
       and more.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -83,13 +83,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT now has more ways to help with common questions, from pronunciation guidance…
 
-**ChatGPT** · 2026-06-18 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
+**ChatGPT** · 2026-06-18 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT now has more ways to help with common questions, from pronunciation guidance to World Cup updates. It’s also smoother to use, with easier chat organization and sharing, more control over connected apps, and faster photo uploads on iOS, and more.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -119,5 +119,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-18-f650fa&body=Card%3A%20Changes%2FChatGPT%2F2026-06-18-chatgpt-now-has-more-ways-to-help-with-common-questions-from-pronunciation-guida.md%0ACard%20ID%3A%20chatgpt-2026-06-18-f650fa%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-18-f650fa&body=Card%3A%20Changes%2FChatGPT%2F2026-06-18-chatgpt-now-has-more-ways-to-help-with-common-questions-from-pronunciation-guida.md%0ACard%20ID%3A%20chatgpt-2026-06-18-f650fa%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-app-experience-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

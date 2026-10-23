@@ -5,8 +5,8 @@ description: 'Claude Code · 2026-08-19 · Mobile and Desktop: Added `notify_whe
   to cross-session `SendMessage`: ask another Claude Code session on this machine
   to send…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1254
   relation: same-theme-chronology

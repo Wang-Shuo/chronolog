@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-02-10'
 description: 'ChatGPT release GPT-5.2 Instant Update on 2026-02-10: 1 tracked change
   across Model Support'
-machine_hash: e214e391eb4fe9f3234e7cc41670e8775cb3f235629e8799785c6f529d4c2497
+machine_hash: 8888fba8d2cff970241cd9456027ea22bcc623c37e118b912dddd9e7981617f7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     to the conversation. The model also tends to output clearer, more relevant answers
     to…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-52-instant-update
   title: GPT-5.2 Instant Update
   version: GPT-5.2 Instant Update
 release_id: chatgpt-2026-02-10-gpt-5-2-instant-update-09d95a8b
 source_release: GPT-5.2 Instant Update
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-52-instant-update
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: GPT-5.2 Instant Update
 <!-- chronolog:begin region="header" -->
 # ChatGPT · GPT-5.2 Instant Update
 
-**ChatGPT** · 2026-02-10 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-02-10 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-52-instant-update)
 <!-- chronolog:end -->
 
 ## Summary

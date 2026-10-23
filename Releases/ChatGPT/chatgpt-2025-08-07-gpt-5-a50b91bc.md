@@ -2,7 +2,7 @@
 changes_count: 1
 date: '2025-08-07'
 description: 'ChatGPT release GPT-5 on 2025-08-07: 1 tracked change across Model Support'
-machine_hash: a8eb6153181dc7d7d9a99d1874f6113432a755f479920da872ba7f7f5202817a
+machine_hash: 5ea7a76f07a2add28438d820a83d18d3a045ac250714bc66929463ba3436772e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     model and the new default for all logged-in users. It simplifies ChatGPT to a
     single…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5
   title: GPT-5
   version: GPT-5
 release_id: chatgpt-2025-08-07-gpt-5-a50b91bc
 source_release: GPT-5
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: GPT-5
 <!-- chronolog:begin region="header" -->
 # ChatGPT · GPT-5
 
-**ChatGPT** · 2025-08-07 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-08-07 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5)
 <!-- chronolog:end -->
 
 ## Summary

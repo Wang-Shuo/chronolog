@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-04-09'
 description: 'ChatGPT release GPT-5.3 Instant mini in ChatGPT on 2026-04-09: 1 tracked
   change across Model Support'
-machine_hash: c8fe727218e798fb561967eb17e692aa8d0dcaee6cc3f304389e6c6744148adf
+machine_hash: 1d88cb3a9ed056b70de42a026fc8af40e565d595a8a9995b171542e1e80d1eec
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     the model picker.Compared with GPT-5 Instant Mini, GPT-5.3 Instant Mini feels
     more natural in…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-53-instant-mini-in-chatgpt
   title: GPT-5.3 Instant mini in ChatGPT
   version: GPT-5.3 Instant mini in ChatGPT
 release_id: chatgpt-2026-04-09-gpt-5-3-instant-mini-in-chatgpt-bf5ed7ff
 source_release: GPT-5.3 Instant mini in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-53-instant-mini-in-chatgpt
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: GPT-5.3 Instant mini in ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · GPT-5.3 Instant mini in ChatGPT
 
-**ChatGPT** · 2026-04-09 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-04-09 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-53-instant-mini-in-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

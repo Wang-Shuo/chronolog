@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: df6c7889e7290637b8143dfe9b47daa54722aae6339214047ffc7b7cd2e322a8
+machine_hash: 7a5bdb220af6650b1b8bc90edd41b00662bc2706a9c440a0bc15a5129d5d4a61
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,12 +33,12 @@ record:
   - quote: Free users in EEA (EU + UK), Switzerland, Norway, Iceland, or Liechtenstein
       will see a prompt to enable this setting or can visit Settings > Personalization
       > Memory > Reference chat history to enable.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-more-comprehensive-for-free-users
   - quote: Outside the European regions listed above, all Free users that have memory
       enabled will receive the upgrade automatically.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-more-comprehensive-for-free-users
   - quote: You can turn off memory anytime in settings. Learn more in our Memory FAQ.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-more-comprehensive-for-free-users
   extractor_version: fallback-v5
   impact: incremental
   kind: launch
@@ -67,7 +67,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Opt‑in reminders
 
-**ChatGPT** · 2025-06-03 · [[Themes/memory|Memory and Personalization]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3|Memory is now more comprehensive for Free users]]
+**ChatGPT** · 2025-06-03 · [[Themes/memory|Memory and Personalization]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-more-comprehensive-for-free-users) · from [[Releases/ChatGPT/chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3|Memory is now more comprehensive for Free users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -77,7 +77,7 @@ type: change
 >
 > You can turn off memory anytime in settings. Learn more in our Memory FAQ.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-more-comprehensive-for-free-users
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -100,5 +100,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-03-e08369&body=Card%3A%20Changes%2FChatGPT%2F2025-06-03-opt-in-reminders-e08369.md%0ACard%20ID%3A%20chatgpt-2025-06-03-e08369%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-03-e08369&body=Card%3A%20Changes%2FChatGPT%2F2025-06-03-opt-in-reminders-e08369.md%0ACard%20ID%3A%20chatgpt-2025-06-03-e08369%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23memory-is-now-more-comprehensive-for-free-users%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

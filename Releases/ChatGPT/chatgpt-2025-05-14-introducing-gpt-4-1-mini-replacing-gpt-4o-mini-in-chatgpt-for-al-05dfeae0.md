@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-05-14'
 description: 'ChatGPT release Introducing GPT-4.1 mini, replacing GPT-4o mini, in
   ChatGPT for all users on 2025-05-14: 1 tracked change across Model Support'
-machine_hash: 65d835d58a1eed31be1f2dbce926227cf9b5166b0f308cab71255e8f1cb6dc30
+machine_hash: fcd7dd48cce0af13c837acb1ad4e92ae30f3f1ad17368bdc7754ffeb0fd06dc2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,14 +17,14 @@ record:
     and overall intelligence. Starting today, GPT-4.1 mini replaces GPT-4o mini in
     the model picker under "more models" for paid users, and will serve as the fallback…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-41-mini-replacing-gpt-4o-mini-in-chatgpt-for-all-users
   title: Introducing GPT-4.1 mini, replacing GPT-4o mini, in ChatGPT for all users
   version: Introducing GPT-4.1 mini, replacing GPT-4o mini, in ChatGPT for all users
 release_id: chatgpt-2025-05-14-introducing-gpt-4-1-mini-replacing-gpt-4o-mini-in-chatgpt-for-al-05dfeae0
 source_release: Introducing GPT-4.1 mini, replacing GPT-4o mini, in ChatGPT for all
   users
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-41-mini-replacing-gpt-4o-mini-in-chatgpt-for-all-users
 tags:
 - release
 - chatgpt
@@ -36,7 +36,7 @@ version: Introducing GPT-4.1 mini, replacing GPT-4o mini, in ChatGPT for all use
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Introducing GPT-4.1 mini, replacing GPT-4o mini, in ChatGPT for all users
 
-**ChatGPT** · 2025-05-14 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-05-14 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-41-mini-replacing-gpt-4o-mini-in-chatgpt-for-all-users)
 <!-- chronolog:end -->
 
 ## Summary

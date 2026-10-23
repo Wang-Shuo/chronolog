@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f30f1955c48ca1f0376df5a23eda0c15646cf6a32d184ad0eedaec7c94cf1933
+machine_hash: b3a98a208935b41f0502f056fa4404603a49f76014a653330f6ff2b43ea1d9e7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   evidence:
   - quote: 'Supported connectors: Google Drive, SharePoint, Dropbox, Box, Outlook,
       Gmail, Google Calendar, Linear, GitHub, HubSpot, and Teams'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connectors-in-beta-for-deep-research-plus-pro-team-enterprise-edu
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -71,13 +71,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Supported connectors: Google Drive, SharePoint, Dropbox, Box, Outlook, Gmail, Google…
 
-**ChatGPT** · 2025-06-04 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-06-04-connectors-in-beta-for-deep-research-plus-pro-team-enterprise-ed-6bb21f0f|Connectors in beta for deep research (Plus, Pro, Team, Enterprise, Edu)]]
+**ChatGPT** · 2025-06-04 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connectors-in-beta-for-deep-research-plus-pro-team-enterprise-edu) · from [[Releases/ChatGPT/chatgpt-2025-06-04-connectors-in-beta-for-deep-research-plus-pro-team-enterprise-ed-6bb21f0f|Connectors in beta for deep research (Plus, Pro, Team, Enterprise, Edu)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Supported connectors: Google Drive, SharePoint, Dropbox, Box, Outlook, Gmail, Google Calendar, Linear, GitHub, HubSpot, and Teams
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connectors-in-beta-for-deep-research-plus-pro-team-enterprise-edu
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -101,5 +101,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-04-1334fc&body=Card%3A%20Changes%2FChatGPT%2F2025-06-04-supported-connectors-google-drive-sharepoint-dropbox-box-outlook-gmail-google-ca.md%0ACard%20ID%3A%20chatgpt-2025-06-04-1334fc%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-04-1334fc&body=Card%3A%20Changes%2FChatGPT%2F2025-06-04-supported-connectors-google-drive-sharepoint-dropbox-box-outlook-gmail-google-ca.md%0ACard%20ID%3A%20chatgpt-2025-06-04-1334fc%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23connectors-in-beta-for-deep-research-plus-pro-team-enterprise-edu%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

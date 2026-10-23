@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-09-29'
 description: 'ChatGPT release Use your ChatGPT allowance in participating apps on
   2026-09-29: 1 tracked change across Model Support'
-machine_hash: 1169a3b8c788e8ddc798cd5adb2392999101cfa2bae764eb4104e95acd2a481f
+machine_hash: b6d911f262716266358d52f1022bcba1aae753b856a3612c0a41df30213e5765
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     can use your allowance and set an app-specific limit. Usage counts toward your
     existing plan allowance; connecting an app does not add more usage.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-your-chatgpt-allowance-in-participating-apps
   title: Use your ChatGPT allowance in participating apps
   version: Use your ChatGPT allowance in participating apps
 release_id: chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3
 source_release: Use your ChatGPT allowance in participating apps
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-your-chatgpt-allowance-in-participating-apps
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Use your ChatGPT allowance in participating apps
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Use your ChatGPT allowance in participating apps
 
-**ChatGPT** · 2026-09-29 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-09-29 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-your-chatgpt-allowance-in-participating-apps)
 <!-- chronolog:end -->
 
 ## Summary

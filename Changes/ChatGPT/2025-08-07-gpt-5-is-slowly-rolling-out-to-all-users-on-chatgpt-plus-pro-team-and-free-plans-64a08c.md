@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 17353f5b4378d32c363d19f57c8b5e30b4f542027bad095385080a5180b3338a
+machine_hash: 07e8790e0a112e2d978ca39594db73eb95aac7d21e3396186da037b58c94d35e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,7 +48,7 @@ record:
       enables you to manually select GPT-5 or GPT-5 Thinking. Pro and Team tier users
       have access to GPT-5 Thinking Pro, which takes a bit longer to think but delivers
       the accuracy you need for complex tasks.Learn more about GPT-5 in ChatGPT.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -102,13 +102,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # GPT-5
 
-**ChatGPT** · 2025-08-07 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-08-07-gpt-5-a50b91bc|GPT-5]]
+**ChatGPT** · 2025-08-07 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5) · from [[Releases/ChatGPT/chatgpt-2025-08-07-gpt-5-a50b91bc|GPT-5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > GPT-5 is slowly rolling out to all users on ChatGPT Plus, Pro, Team, and Free plans worldwide across web, mobile, and desktop. GPT-5 will be available to ChatGPT Enterprise and Edu plans soon.GPT-5 in ChatGPT is our next flagship model and the new default for all logged-in users. It simplifies ChatGPT to a single auto-switching system that brings together the best of our previous models into a smart, fast model.GPT-5 is available to all ChatGPT Tiers. Users on Paid tiers - Plus, Pro, and Team - have access to the model picker, which enables you to manually select GPT-5 or GPT-5 Thinking. Pro and Team tier users have access to GPT-5 Thinking Pro, which takes a bit longer to think but delivers the accuracy you need for complex tasks.Learn more about GPT-5 in ChatGPT.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -129,5 +129,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-08-07-64a08c&body=Card%3A%20Changes%2FChatGPT%2F2025-08-07-gpt-5-is-slowly-rolling-out-to-all-users-on-chatgpt-plus-pro-team-and-free-plans-64a08c.md%0ACard%20ID%3A%20chatgpt-2025-08-07-64a08c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-08-07-64a08c&body=Card%3A%20Changes%2FChatGPT%2F2025-08-07-gpt-5-is-slowly-rolling-out-to-all-users-on-chatgpt-plus-pro-team-and-free-plans-64a08c.md%0ACard%20ID%3A%20chatgpt-2025-08-07-64a08c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23gpt-5%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

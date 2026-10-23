@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bebcb31c549a90df9e43fc7e3757a67ee7c53cc1dccd1cb458a959b1aaab3327
+machine_hash: 518104a4b12fb32e827b10c809cf1ed596e13c85da14a8cfaaf479f84723b97c
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,6 +88,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-improved-rendering-speed-of-long-bulleted-or-numbered-replies-they-stream-resize|Improved rendering speed of long bulleted or numbered replies]]
+- Later: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-faster-responses|Faster responses]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

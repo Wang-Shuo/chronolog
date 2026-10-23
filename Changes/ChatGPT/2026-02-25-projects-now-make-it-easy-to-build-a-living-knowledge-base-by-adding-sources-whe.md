@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 38cc7718973a171ef535e5b147e2d347e2b05cf4e9b24884d2b979a82b889c52
+machine_hash: 4c29a7522b2d17cfdefed6bb939c1c09dd14a809d7efda2447870d4dd1813d23
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
   - quote: Projects now make it easy to build a living knowledge base by adding sources
       wherever your context already lives; from apps, conversations, or quick text
       inputs.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#add-sources-to-your-projects-from-anywhere
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -71,13 +71,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Projects now make it easy to build a living knowledge base by adding sources…
 
-**ChatGPT** · 2026-02-25 · [[Themes/context-window|Context Window]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292|Add sources to your projects from anywhere]]
+**ChatGPT** · 2026-02-25 · [[Themes/context-window|Context Window]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#add-sources-to-your-projects-from-anywhere) · from [[Releases/ChatGPT/chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292|Add sources to your projects from anywhere]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Projects now make it easy to build a living knowledge base by adding sources wherever your context already lives; from apps, conversations, or quick text inputs.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#add-sources-to-your-projects-from-anywhere
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -102,5 +102,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-25-5e16de&body=Card%3A%20Changes%2FChatGPT%2F2026-02-25-projects-now-make-it-easy-to-build-a-living-knowledge-base-by-adding-sources-whe.md%0ACard%20ID%3A%20chatgpt-2026-02-25-5e16de%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-25-5e16de&body=Card%3A%20Changes%2FChatGPT%2F2026-02-25-projects-now-make-it-easy-to-build-a-living-knowledge-base-by-adding-sources-whe.md%0ACard%20ID%3A%20chatgpt-2026-02-25-5e16de%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23add-sources-to-your-projects-from-anywhere%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

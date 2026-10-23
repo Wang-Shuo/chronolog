@@ -5,8 +5,8 @@ description: 'Claude Code · 2026-08-07 · Mobile and Desktop: 3 changes in v2.1
   — Added self-hosted environments: `claude self-hosted-runner` turns your own machines
   or…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1242
   relation: same-theme-chronology

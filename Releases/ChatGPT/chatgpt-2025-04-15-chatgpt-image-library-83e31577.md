@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-04-15'
 description: 'ChatGPT release ChatGPT Image Library on 2025-04-15: 1 tracked change
   across Image Generation'
-machine_hash: 80fc5f7090c6c1d59ef28ec781a5cdfcd0651c246a6bdf60de1a4e8e3598de2a
+machine_hash: 09346d58322b4da7891af725f929608a9172eaf9ca465de41643963a2d67c15c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     today on Web, iOS, and Android for Free, Plus, and Pro users (Enterprise / Edu
     support…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-image-library
   title: ChatGPT Image Library
   version: ChatGPT Image Library
 release_id: chatgpt-2025-04-15-chatgpt-image-library-83e31577
 source_release: ChatGPT Image Library
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-image-library
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: ChatGPT Image Library
 <!-- chronolog:begin region="header" -->
 # ChatGPT Image Library
 
-**ChatGPT** · 2025-04-15 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-04-15 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-image-library)
 <!-- chronolog:end -->
 
 ## Summary

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aa094f6990712d34114a55e39084817e229e5c5df57b2cd29d2411fde8d1aa72
+machine_hash: b185c2839ce470071e0dd8d5051c291f58b85c9721916c5948174e4875e396e1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
   - quote: 'Help with pronunciations: ChatGPT can now include text and audio pronunciation
       guidance for words in more than 60 languages. Ask how to pronounce a word and
       ChatGPT can explain it with both audio and text in the conversation.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -63,13 +63,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Help with pronunciations
 
-**ChatGPT** · 2026-06-18 · [[Themes/voice|Voice and Audio]] · Web, iOS, and Android · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
+**ChatGPT** · 2026-06-18 · [[Themes/voice|Voice and Audio]] · Web, iOS, and Android · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Help with pronunciations: ChatGPT can now include text and audio pronunciation guidance for words in more than 60 languages. Ask how to pronounce a word and ChatGPT can explain it with both audio and text in the conversation.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -99,5 +99,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-18-659ffb&body=Card%3A%20Changes%2FChatGPT%2F2026-06-18-help-with-pronunciations-chatgpt-can-now-include-text-and-audio-pronunciation-gu.md%0ACard%20ID%3A%20chatgpt-2026-06-18-659ffb%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-18-659ffb&body=Card%3A%20Changes%2FChatGPT%2F2026-06-18-help-with-pronunciations-chatgpt-can-now-include-text-and-audio-pronunciation-gu.md%0ACard%20ID%3A%20chatgpt-2026-06-18-659ffb%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-app-experience-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

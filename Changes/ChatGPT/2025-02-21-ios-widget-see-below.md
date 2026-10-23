@@ -3,8 +3,8 @@ card_id: chatgpt-2025-02-21-c3d18b
 date: '2025-02-21'
 description: 'ChatGPT · 2025-02-21 · Mobile and Desktop: iOS widget (see below):'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 710
   relation: same-theme-chronology

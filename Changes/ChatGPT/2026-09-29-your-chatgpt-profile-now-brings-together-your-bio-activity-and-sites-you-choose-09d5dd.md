@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 451638b0a9ba58a2eccebfa3a358a5060ea2c4d9bbcf5fb6768a17332d7af1e7
+machine_hash: 0f192961235e08f79536f36db45f55f1fa3b1e0c2e62079065c6cfe9bd28f03f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,11 +34,11 @@ record:
       you choose to showcase. Personal profiles are private by default. You can make
       yours public and share its link with other people signed in to ChatGPT. Shared
       profiles do not show conversation titles or content.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-your-profile-and-showcase-your-sites
   - quote: Profile sharing and the Sites showcase are available on web and desktop.
       In Business workspaces, administrators control whether coworkers can view workspace
       profiles. Enterprise access is coming later.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-your-profile-and-showcase-your-sites
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -68,7 +68,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Share your profile and showcase your Sites
 
-**ChatGPT** · 2026-09-29 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-29-share-your-profile-and-showcase-your-sites-b1579ad3|Share your profile and showcase your Sites]]
+**ChatGPT** · 2026-09-29 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-your-profile-and-showcase-your-sites) · from [[Releases/ChatGPT/chatgpt-2026-09-29-share-your-profile-and-showcase-your-sites-b1579ad3|Share your profile and showcase your Sites]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -76,7 +76,7 @@ type: change
 >
 > Profile sharing and the Sites showcase are available on web and desktop. In Business workspaces, administrators control whether coworkers can view workspace profiles. Enterprise access is coming later.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-your-profile-and-showcase-your-sites
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -97,5 +97,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-09d5dd&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-your-chatgpt-profile-now-brings-together-your-bio-activity-and-sites-you-choose-09d5dd.md%0ACard%20ID%3A%20chatgpt-2026-09-29-09d5dd%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-09d5dd&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-your-chatgpt-profile-now-brings-together-your-bio-activity-and-sites-you-choose-09d5dd.md%0ACard%20ID%3A%20chatgpt-2026-09-29-09d5dd%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23share-your-profile-and-showcase-your-sites%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

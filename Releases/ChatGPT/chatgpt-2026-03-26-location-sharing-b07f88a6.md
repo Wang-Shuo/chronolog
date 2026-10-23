@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-03-26'
 description: 'ChatGPT release Location Sharing on 2026-03-26: 1 tracked change across
   Mobile and Desktop'
-machine_hash: 736d7f6f87cb953fccc7f6a027e080a7c5f719dfdf2f196cb8d75ff846ceb249
+machine_hash: cf5fad1520fd6b25462010b23c7c075f134d652cc54db6feaa981910a7a826ce
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     enable it. You can update device location sharing in Settings > Data Controls
     at any…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#location-sharing
   title: Location Sharing
   version: Location Sharing
 release_id: chatgpt-2026-03-26-location-sharing-b07f88a6
 source_release: Location Sharing
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#location-sharing
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Location Sharing
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Location Sharing
 
-**ChatGPT** · 2026-03-26 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-03-26 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#location-sharing)
 <!-- chronolog:end -->
 
 ## Summary

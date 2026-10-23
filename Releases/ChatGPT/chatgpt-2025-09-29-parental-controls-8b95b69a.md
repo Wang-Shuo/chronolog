@@ -3,7 +3,7 @@ changes_count: 5
 date: '2025-09-29'
 description: 'ChatGPT release Parental Controls on 2025-09-29: 5 tracked changes across
   Image Generation, Memory and Personalization, Model Support, Safety and Privacy…'
-machine_hash: ed8a67406b7b91be61dafc2323c6a7e6a4af553df259f776e251ebf643a334ae
+machine_hash: 9718d510f2f3491dde09457daf1ca6fbc6d8895bcd382d252d25f912930e7e2e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     invite to their teen to connect accounts. After the teen accepts, the parent can
     manage the teen’s…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls
   title: Parental Controls
   version: Parental Controls
 release_id: chatgpt-2025-09-29-parental-controls-8b95b69a
 source_release: Parental Controls
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Parental Controls
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Parental Controls
 
-**ChatGPT** · 2025-09-29 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-09-29 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls)
 <!-- chronolog:end -->
 
 ## Summary

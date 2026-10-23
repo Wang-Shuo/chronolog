@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0626463405285453faeb3ebe0fd7aabce6c0511bbaf7db431fa1207b36316d17
+machine_hash: d2fe981aea1ecbb832ad29438b414d03012b8717fedaaeba05b5a7f48dce1175
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,15 +32,15 @@ record:
   - quote: 'In addition to selecting a base style and tone preset—like candid and
       friendly—you can now adjust specific characteristics individually. From the
       ‘personalization’ pane in settings, you can adjust ChatGPT to:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-detailed-characteristic-controls
   - quote: Be more or less warm
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-detailed-characteristic-controls
   - quote: Be more or less enthusiastic
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-detailed-characteristic-controls
   - quote: Use more or fewer headers & lists
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-detailed-characteristic-controls
   - quote: Use more or fewer emojis
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-detailed-characteristic-controls
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -69,7 +69,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # New detailed characteristic controls
 
-**ChatGPT** · 2025-12-19 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-12-19-new-detailed-characteristic-controls-fa363df4|New detailed characteristic controls]]
+**ChatGPT** · 2025-12-19 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-detailed-characteristic-controls) · from [[Releases/ChatGPT/chatgpt-2025-12-19-new-detailed-characteristic-controls-fa363df4|New detailed characteristic controls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -83,7 +83,7 @@ type: change
 >
 > Use more or fewer emojis
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-detailed-characteristic-controls
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -104,5 +104,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-12-19-21da79&body=Card%3A%20Changes%2FChatGPT%2F2025-12-19-in-addition-to-selecting-a-base-style-and-tone-preset-like-candid-and-friendly-y-21da79.md%0ACard%20ID%3A%20chatgpt-2025-12-19-21da79%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-12-19-21da79&body=Card%3A%20Changes%2FChatGPT%2F2025-12-19-in-addition-to-selecting-a-base-style-and-tone-preset-like-candid-and-friendly-y-21da79.md%0ACard%20ID%3A%20chatgpt-2025-12-19-21da79%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23new-detailed-characteristic-controls%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

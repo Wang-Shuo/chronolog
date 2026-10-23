@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-03-25'
 description: 'ChatGPT release Google Drive app unification on 2026-03-25: 1 tracked
   change across Apps and Integrations'
-machine_hash: 17a8540bceb7b562dfec0491b6718a8a2009b2f34c398211b5ace5e7775c4f62
+machine_hash: 31becf362e7af19e176b634706e8ac3485d36be5661c62877ace5086ce347405
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     Google Drive app in ChatGPT to use Google Drive, Docs, Sheets, and Slides actions,
     removing the…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#google-drive-app-unification
   title: Google Drive app unification
   version: Google Drive app unification
 release_id: chatgpt-2026-03-25-google-drive-app-unification-4e5cfa13
 source_release: Google Drive app unification
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#google-drive-app-unification
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Google Drive app unification
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Google Drive app unification
 
-**ChatGPT** · 2026-03-25 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-03-25 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#google-drive-app-unification)
 <!-- chronolog:end -->
 
 ## Summary

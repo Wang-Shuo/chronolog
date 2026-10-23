@@ -1,10 +1,10 @@
 ---
 created: '2023-01-09'
-date: '2026-10-14'
+date: '2026-10-19'
 description: 'Research question: how do the tracked products add, choose between and
   retire models?'
-machine_hash: 59cf6f98e75f898d0173c9334557bf2b0511bba4d03c997b0478432813f3fc26
-modified: '2026-10-14'
+machine_hash: def5125b7c0d377cfd3f2b7781511f6e3c0e4cdc7e6499c17341870239ac76a2
+modified: '2026-10-19'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Model Support
 <!-- chronolog:begin region="header" -->
 # Model Support
 
-218 tracked changes across ChatGPT, Claude Code and Cursor · 2023-01-09 → 2026-10-14 · Claude Code averages 6.9 cards per release, Cursor 4.0, ChatGPT 1.7
+221 tracked changes across ChatGPT, Claude Code and Cursor · 2023-01-09 → 2026-10-19 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -64,10 +64,13 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 137 entries (ChatGPT 33 · Claude Code 90 · Cursor 14)
+### 2026 · 140 entries (ChatGPT 34 · Claude Code 92 · Cursor 14)
 
 #### 2026-10
 
+- 2026-10-19 · **Claude Code** · [[Changes/Claude Code/2026-10-19-2-model-support-changes-in-v2-1-304|2 Model Support changes in v2.1.304]] · Digest
+- 2026-10-16 · **ChatGPT** · [[Changes/ChatGPT/2026-10-16-gpt-6-pro-in-the-chat-tab-now-offers|GPT-6 Pro in the chat tab now offers]]
+- 2026-10-16 · **Claude Code** · [[Changes/Claude Code/2026-10-16-improved-the-message-when-a-background-session-reopened-from-another-folder-has|Improved the message when a background session reopened from another folder has no…]]
 - 2026-10-14 · **Claude Code** · [[Changes/Claude Code/2026-10-14-2-model-support-changes-in-v2-1-299|2 Model Support changes in v2.1.299]] · Digest
 - 2026-10-14 · **Claude Code** · [[Changes/Claude Code/2026-10-14-improved-the-note-claude-3-models-get-about-an-mentioned-pdf-so-they-less-often|Improved the note Claude 3 models get about an @-mentioned PDF, so they less often…]]
 - 2026-10-09 · **Claude Code** · [[Changes/Claude Code/2026-10-09-claude-tag-changed-claude-in-slack-to-show-the-footer-with-the-session-link-mode|Claude Tag Changed Claude in Slack to show the footer with the session link, model…]]

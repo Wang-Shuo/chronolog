@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-11-21'
 description: 'ChatGPT release ChatGPT with voice is available to all users on 2023-11-21:
   1 tracked change across Voice and Audio'
-machine_hash: 4c888d177548d3699fdd3b3a2058741882468befc30b5da5eb2c78372e419bd8
+machine_hash: 63e0944ee3739c632096262243b6de841fb566d06898006ad04e20f9cfb3d0c0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
   source_summary: ChatGPT with voice is now available to all free users. Download
     the app on your phone and tap the headphones icon to start a conversation.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-with-voice-is-available-to-all-users
   title: ChatGPT with voice is available to all users
   version: ChatGPT with voice is available to all users
 release_id: chatgpt-2023-11-21-chatgpt-with-voice-is-available-to-all-users-d2d904ca
 source_release: ChatGPT with voice is available to all users
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-with-voice-is-available-to-all-users
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: ChatGPT with voice is available to all users
 <!-- chronolog:begin region="header" -->
 # ChatGPT with voice is available to all users
 
-**ChatGPT** · 2023-11-21 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2023-11-21 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-with-voice-is-available-to-all-users)
 <!-- chronolog:end -->
 
 ## Summary

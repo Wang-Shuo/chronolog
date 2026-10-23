@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-04-22'
 description: 'ChatGPT release ChatGPT for Clinicians on 2026-04-22: 1 tracked change
   across Account and Access'
-machine_hash: 0dc190a25f5af49fa3d89d9c6e400b8f1371fcb02b316e52c2981ba3c83b9c0f
+machine_hash: 67e8e32b58a2aca7e6e6180938d1e96b4ec09a3dda8638f8b2adb8712e0af503
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     research, with trusted clinical search, citations, reusable skills, deep research
     across…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-clinicians
   title: ChatGPT for Clinicians
   version: ChatGPT for Clinicians
 release_id: chatgpt-2026-04-22-chatgpt-for-clinicians-4ccc54d7
 source_release: ChatGPT for Clinicians
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-clinicians
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: ChatGPT for Clinicians
 <!-- chronolog:begin region="header" -->
 # ChatGPT for Clinicians
 
-**ChatGPT** · 2026-04-22 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-04-22 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-clinicians)
 <!-- chronolog:end -->
 
 ## Summary

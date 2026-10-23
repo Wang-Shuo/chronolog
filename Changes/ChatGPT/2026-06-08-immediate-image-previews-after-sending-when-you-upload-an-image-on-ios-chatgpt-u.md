@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-06-08 · Mobile and Desktop: Immediate image previ
   after sending: When you upload an image on iOS, ChatGPT used to show a gray box
   after you…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1182
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 49331b867c12bc8936823a2f43e89e6fcff5c3d671be462054671d31fd6c6924
+machine_hash: 0cf4cec1f1eb46ee144d86ddb1c2cf684d2f15123b23fa53b0cf75ab4ac3df39
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
   - quote: 'Immediate image previews after sending: When you upload an image on iOS,
       ChatGPT used to show a gray box after you sent your message. Now it shows the
       preview right away so that it’s clear which photo you sent.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -64,13 +64,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Immediate image previews after sending
 
-**ChatGPT** · 2026-06-08 · [[Themes/mobile-desktop|Mobile and Desktop]] · iOS · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
+**ChatGPT** · 2026-06-08 · [[Themes/mobile-desktop|Mobile and Desktop]] · iOS · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Immediate image previews after sending: When you upload an image on iOS, ChatGPT used to show a gray box after you sent your message. Now it shows the preview right away so that it’s clear which photo you sent.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -101,5 +101,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-08-afa8ae&body=Card%3A%20Changes%2FChatGPT%2F2026-06-08-immediate-image-previews-after-sending-when-you-upload-an-image-on-ios-chatgpt-u.md%0ACard%20ID%3A%20chatgpt-2026-06-08-afa8ae%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-08-afa8ae&body=Card%3A%20Changes%2FChatGPT%2F2026-06-08-immediate-image-previews-after-sending-when-you-upload-an-image-on-ios-chatgpt-u.md%0ACard%20ID%3A%20chatgpt-2026-06-08-afa8ae%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-app-experience-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

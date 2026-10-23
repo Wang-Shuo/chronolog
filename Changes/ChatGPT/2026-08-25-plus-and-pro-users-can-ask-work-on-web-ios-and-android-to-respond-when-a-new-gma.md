@@ -4,8 +4,8 @@ date: '2026-08-25'
 description: 'ChatGPT · 2026-08-25 · Mobile and Desktop: Plus and Pro users can ask
   Work on web, iOS, and Android to respond when a new Gmail message arrives, a Slack…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1260
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a3bcd14ddc1396fa95d23bc894f3d3b523bd3521a34a8d49c401218dc3c8ca76
+machine_hash: 150112f382171f80552d76607dc0569bec1908f93ffa126e9d66427ad5c44385
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +40,7 @@ record:
       that registration has opened, or draft next steps after a client shares feedback
       in Slack. Add @ChatGPT to each monitored Slack channel. Actions that require
       approval pause until you review them.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-can-respond-to-app-updates-and-be-shared
   extractor_version: fallback-v5
   impact: significant
   kind: launch
@@ -79,13 +79,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Create webhook-triggered tasks
 
-**ChatGPT** · 2026-08-25 · [[Themes/mobile-desktop|Mobile and Desktop]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4|Scheduled tasks can respond to app updates and be shared]]
+**ChatGPT** · 2026-08-25 · [[Themes/mobile-desktop|Mobile and Desktop]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-can-respond-to-app-updates-and-be-shared) · from [[Releases/ChatGPT/chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4|Scheduled tasks can respond to app updates and be shared]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Plus and Pro users can ask Work on web, iOS, and Android to respond when a new Gmail message arrives, a Slack channel receives a message, or a GitHub pull request changes. For example, ask ChatGPT to summarize an email announcing that registration has opened, or draft next steps after a client shares feedback in Slack. Add @ChatGPT to each monitored Slack channel. Actions that require approval pause until you review them.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-can-respond-to-app-updates-and-be-shared
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -110,5 +110,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-25-f34896&body=Card%3A%20Changes%2FChatGPT%2F2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma.md%0ACard%20ID%3A%20chatgpt-2026-08-25-f34896%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-25-f34896&body=Card%3A%20Changes%2FChatGPT%2F2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma.md%0ACard%20ID%3A%20chatgpt-2026-08-25-f34896%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23scheduled-tasks-can-respond-to-app-updates-and-be-shared%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

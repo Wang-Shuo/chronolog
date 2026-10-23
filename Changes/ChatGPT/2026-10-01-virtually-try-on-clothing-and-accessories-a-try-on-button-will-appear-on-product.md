@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4ac2f7ef9f00284db24bb6e4b92c3bf340ecc6d980f51baddafaa7ac5b8ed371
+machine_hash: 8a4e8b20279ea59aaa09bfd37168860c066cf4ab261d60ca707652470b1501e1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       take or upload a selfie to generate a virtual try-on with ChatGPT Images. Your
       reference photo is saved for future try-ons. You can change or delete it in
       Settings → Personalization → Reference photos.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-ways-to-shop-in-chatgpt
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -65,13 +65,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Virtually try on clothing and accessories
 
-**ChatGPT** · 2026-10-01 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-10-01-new-ways-to-shop-in-chatgpt-e89d4d85|New ways to shop in ChatGPT]]
+**ChatGPT** · 2026-10-01 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-ways-to-shop-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-10-01-new-ways-to-shop-in-chatgpt-e89d4d85|New ways to shop in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Virtually try on clothing and accessories: A “Try on” button will appear on product listings for clothes and accessories in ChatGPT. Select it, then take or upload a selfie to generate a virtual try-on with ChatGPT Images. Your reference photo is saved for future try-ons. You can change or delete it in Settings → Personalization → Reference photos.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-ways-to-shop-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -92,5 +92,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-10-01-19a0a0&body=Card%3A%20Changes%2FChatGPT%2F2026-10-01-virtually-try-on-clothing-and-accessories-a-try-on-button-will-appear-on-product.md%0ACard%20ID%3A%20chatgpt-2026-10-01-19a0a0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-10-01-19a0a0&body=Card%3A%20Changes%2FChatGPT%2F2026-10-01-virtually-try-on-clothing-and-accessories-a-try-on-button-will-appear-on-product.md%0ACard%20ID%3A%20chatgpt-2026-10-01-19a0a0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23new-ways-to-shop-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

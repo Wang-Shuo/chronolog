@@ -1,10 +1,10 @@
 ---
 created: '2023-09-25'
-date: '2026-10-14'
+date: '2026-10-22'
 description: Cross-product timeline of Voice and Audio changes in ChatGPT, Claude
   Code and Cursor.
-machine_hash: c69e822730ea6ce83d5c5394f9a8d0ef975238d99276ababb25a6597f96f0a28
-modified: '2026-10-14'
+machine_hash: a4d4d7d559966bc75045618b59258a8b2d656e0f10b4c8441722490d1d27dad0
+modified: '2026-10-22'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Voice and Audio
 <!-- chronolog:begin region="header" -->
 # Voice and Audio
 
-58 tracked changes across ChatGPT, Claude Code and Cursor · 2023-09-25 → 2026-10-14 · Claude Code averages 6.9 cards per release, Cursor 4.0, ChatGPT 1.7
+62 tracked changes across ChatGPT, Claude Code and Cursor · 2023-09-25 → 2026-10-22 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -49,10 +49,14 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 37 entries (ChatGPT 20 · Claude Code 12 · Cursor 5)
+### 2026 · 41 entries (ChatGPT 22 · Claude Code 14 · Cursor 5)
 
 #### 2026-10
 
+- 2026-10-22 · **Claude Code** · [[Changes/Claude Code/2026-10-22-vscode-added-a-log-warning-that-says-what-to-do-when-dictation-or-the-extension|VSCode Added a log warning that says what to do when dictation or the extension's…]]
+- 2026-10-21 · **Claude Code** · [[Changes/Claude Code/2026-10-21-2-voice-and-audio-changes-in-v2-1-307|2 Voice and Audio changes in v2.1.307]] · Digest
+- 2026-10-15 · **ChatGPT** · [[Changes/ChatGPT/2026-10-15-for-more-information-see-chatgpt-voice|For more information, see: ChatGPT Voice]]
+- 2026-10-15 · **ChatGPT** · [[Changes/ChatGPT/2026-10-15-we-re-rolling-out-gpt-live-1-1-and-gpt-live-1-1-quip-a-mini-version-of-the-model|ChatGPT rolls out GPT-Live-1.1 and GPT-Live-1.1 Quip, a mini version of the model…]]
 - 2026-10-14 · **Claude Code** · [[Changes/Claude Code/2026-10-14-claude-tag-added-support-for-slack-voice-clips-in-claude-in-slack-claude-reads-s|Claude Tag Added support for Slack voice clips in Claude in Slack]]
 - 2026-10-06 · **ChatGPT** · [[Changes/ChatGPT/2026-10-06-upload-audio-files-to-chatgpt-to-create-transcripts-summarize-recordings-and-ask|Audio uploads in ChatGPT]]
 

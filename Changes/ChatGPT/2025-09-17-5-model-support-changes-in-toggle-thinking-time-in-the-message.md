@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 71e995fc37dd17e917305772f77372a0f319e2e7c8a8680dc491baee6e5288b6
+machine_hash: af570d8d7581f72ccd8ec4a6de3150a0e9c2ede5ab1de711bfdcb0bedf9f7287
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,20 +32,20 @@ record:
       thinks before responding. You can now choose the level of reasoning time, so
       you can decide whether you want a quicker answer or more in-depth reasoning
       for your task.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle-thinking-time-in-the-message-composer
   - quote: When you select GPT-5 with Thinking in ChatGPT, you’ll see a new thinking
       time toggle in the message composer.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle-thinking-time-in-the-message-composer
   - quote: 'Pro users get two additional options: Light (snappiest) and Heavy (deeper
       reasoning).'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle-thinking-time-in-the-message-composer
   - quote: All queries default to Standard unless you choose to change it. Once you
       choose a different thinking time, your preference is saved and used for future
       queries until you switch again.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle-thinking-time-in-the-message-composer
   - quote: 'We’ve heard from some of you that GPT-5 Thinking’s answers can take longer
       than you’d like. Now you can decide what you need in the moment:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle-thinking-time-in-the-message-composer
   extractor_version: fallback-v5
   impact: incremental
   kind: digest
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # 5 Model Support changes in Toggle thinking time in the message…
 
-**ChatGPT** · 2025-09-17 · [[Themes/model-support|Model Support]] · Digest · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c|Toggle thinking time in the message composer]]
+**ChatGPT** · 2025-09-17 · [[Themes/model-support|Model Support]] · Digest · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle-thinking-time-in-the-message-composer) · from [[Releases/ChatGPT/chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c|Toggle thinking time in the message composer]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -90,7 +90,7 @@ type: change
 
 > We’ve heard from some of you that GPT-5 Thinking’s answers can take longer than you’d like. Now you can decide what you need in the moment:
 
-Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle-thinking-time-in-the-message-composer
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -115,5 +115,5 @@ Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-17-3f6f1f&body=Card%3A%20Changes%2FChatGPT%2F2025-09-17-5-model-support-changes-in-toggle-thinking-time-in-the-message.md%0ACard%20ID%3A%20chatgpt-2025-09-17-3f6f1f%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-17-3f6f1f&body=Card%3A%20Changes%2FChatGPT%2F2025-09-17-5-model-support-changes-in-toggle-thinking-time-in-the-message.md%0ACard%20ID%3A%20chatgpt-2025-09-17-3f6f1f%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23toggle-thinking-time-in-the-message-composer%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

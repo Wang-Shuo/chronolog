@@ -5,8 +5,8 @@ description: 'Claude Code · 2026-09-29 · Mobile and Desktop: 6 changes in v2.1
   — Added `claude --desktop` to open the Claude desktop app on the current directory,
   or on…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1295
   relation: same-theme-chronology

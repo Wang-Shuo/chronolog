@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-08-15'
 description: 'ChatGPT release GPT-5 Updates on 2025-08-15: 1 tracked change across
   Model Support'
-machine_hash: 9e09781a7522ebaf35d99d3aecfee3f7540332137a4227db68bd303eea17fdc3
+machine_hash: d45189f9d377032e90dc85b810efe6a9e247abb8b663f93f0b96c5e9ff03c4bc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     but create a noticeably more approachable ChatGPT experience.Warmth here means
     small…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5-updates
   title: GPT-5 Updates
   version: GPT-5 Updates
 release_id: chatgpt-2025-08-15-gpt-5-updates-9aaeee46
 source_release: GPT-5 Updates
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5-updates
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: GPT-5 Updates
 <!-- chronolog:begin region="header" -->
 # ChatGPT · GPT-5 Updates
 
-**ChatGPT** · 2025-08-15 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-08-15 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5-updates)
 <!-- chronolog:end -->
 
 ## Summary

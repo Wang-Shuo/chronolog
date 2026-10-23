@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6c683d9d4c91471877241e43479502c99b202019b08569f21851a5b89509ec7f
+machine_hash: 93dec42d66d897035e328cbf90334e57d673abcda9e49fe7a974717ecbcbb257
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,15 +32,15 @@ record:
   - quote: Live now supports plugins on web, iOS, and Android. You can use the plugins
       and connected apps available to your account during a Voice conversation and
       follow written responses in the chat.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking
   - quote: Voice is also available in Work on web and mobile. Ask it to create documents,
       presentations, and spreadsheets, use connected apps, or work in a browser. When
       you end a Voice call in Work, an unfinished task can continue in text.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking
   - quote: Free and Go users can use Voice in Chat with the plugins their plan supports.
       Voice in Work requires both Voice and Work access. Existing app connections,
       permissions, and usage limits apply.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Use plugins in Voice and get work done by speaking
 
-**ChatGPT** · 2026-09-23 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-23-use-plugins-in-voice-and-get-work-done-by-speaking-fa63def1|Use plugins in Voice and get work done by speaking]]
+**ChatGPT** · 2026-09-23 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking) · from [[Releases/ChatGPT/chatgpt-2026-09-23-use-plugins-in-voice-and-get-work-done-by-speaking-fa63def1|Use plugins in Voice and get work done by speaking]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -95,7 +95,7 @@ type: change
 >
 > Free and Go users can use Voice in Chat with the plugins their plan supports. Voice in Work requires both Voice and Work access. Existing app connections, permissions, and usage limits apply.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -116,5 +116,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-23-88a242&body=Card%3A%20Changes%2FChatGPT%2F2026-09-23-live-now-supports-plugins-on-web-ios-and-android-you-can-use-the-plugins-and-con-88a242.md%0ACard%20ID%3A%20chatgpt-2026-09-23-88a242%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-23-88a242&body=Card%3A%20Changes%2FChatGPT%2F2026-09-23-live-now-supports-plugins-on-web-ios-and-android-you-can-use-the-plugins-and-con-88a242.md%0ACard%20ID%3A%20chatgpt-2026-09-23-88a242%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23use-plugins-in-voice-and-get-work-done-by-speaking%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

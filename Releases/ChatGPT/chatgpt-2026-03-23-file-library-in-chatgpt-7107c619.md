@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-03-23'
 description: 'ChatGPT release File Library in ChatGPT on 2026-03-23: 1 tracked change
   across Mobile and Desktop'
-machine_hash: e5b43ad51f19c89fda3d3cf9e0fa16e4b05e20fed8b6a5588fd72f0673359f48
+machine_hash: a960c20566424154d295c25300e7515e637260943d15ef98ab330197fa9f7c4e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     in the Images tab.You can quickly reference files in a chat using recent files
     in the…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-in-chatgpt
   title: File Library in ChatGPT
   version: File Library in ChatGPT
 release_id: chatgpt-2026-03-23-file-library-in-chatgpt-7107c619
 source_release: File Library in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-in-chatgpt
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: File Library in ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · File Library in ChatGPT
 
-**ChatGPT** · 2026-03-23 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-03-23 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-in-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

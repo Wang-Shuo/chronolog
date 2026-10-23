@@ -5,8 +5,8 @@ description: 'Claude Code · 2026-05-15 · Mobile and Desktop: The PowerShell to
   now enabled by default on Windows for Bedrock, Vertex, and Foundry users. Opt out
   with…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1158
   relation: same-theme-chronology

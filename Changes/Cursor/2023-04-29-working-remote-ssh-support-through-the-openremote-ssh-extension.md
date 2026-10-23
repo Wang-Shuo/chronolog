@@ -1,8 +1,8 @@
 ---
 card_id: cursor-2023-04-29-d5dbb1
 date: '2023-04-29'
-description: 'Cursor · 2023-04-29 · Developer Workflow: 🌐 Working remote ssh support
-  through the "OpenRemote - SSH" extension'
+description: "Cursor · 2023-04-29 · Developer Workflow: \U0001F310 Working remote
+  ssh support through the \"OpenRemote - SSH\" extension"
 diffusion:
   first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
   inference: No adoption, equivalence, or causation claim.
@@ -25,10 +25,11 @@ record:
   comparison: ''
   confidence: low
   date: '2023-04-29'
-  description: 'Cursor — Multi-File Diffs & Remote SSH (2023-04-29): 🌐 Working remote
-    ssh support through the "OpenRemote - SSH" extension'
+  description: "Cursor — Multi-File Diffs & Remote SSH (2023-04-29): \U0001F310 Working
+    remote ssh support through the \"OpenRemote - SSH\" extension"
   evidence:
-  - quote: 🌐 Working remote ssh support through the "OpenRemote - SSH" extension
+  - quote: "\U0001F310 Working remote ssh support through the \"OpenRemote - SSH\"
+      extension"
     source_release: https://cursor.com/changelog/0-2-8
   extractor_version: fallback-v5
   impact: significant
@@ -39,7 +40,7 @@ record:
   source_release: cursor-2023-04-29-0-2-8-https-cursor-com-changelog-0-2-8-dcee1ea7
   source_type: cursor_changelog
   theme: developer-workflow
-  title: 🌐 Working remote ssh support through the "OpenRemote - SSH" extension
+  title: "\U0001F310 Working remote ssh support through the \"OpenRemote - SSH\" extension"
   type: change
 related_changes:
 - '[[Changes/Cursor/2023-03-27-opens-the-terminal-in-your-current-folder|Opens the
@@ -51,7 +52,7 @@ related_changes:
 source_release: '[[Releases/Cursor/cursor-2023-04-29-0-2-8-https-cursor-com-changelog-0-2-8-dcee1ea7|cursor-2023-04-29-0-2-8-https-cursor-com-changelog-0-2-8-dcee1ea7]]'
 source_type: cursor_changelog
 theme: developer-workflow
-title: 🌐 Working remote ssh support through the "OpenRemote - SSH" extension
+title: "\U0001F310 Working remote ssh support through the \"OpenRemote - SSH\" extension"
 type: change
 ---
 

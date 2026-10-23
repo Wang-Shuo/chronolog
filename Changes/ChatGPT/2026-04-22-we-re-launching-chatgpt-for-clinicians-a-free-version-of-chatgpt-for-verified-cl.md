@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: aa788ddeda907c868fe82f3f929a0de3e37b77c67fae831ecaf4aef2d8d25caa
+machine_hash: 8eb66bebc8dd8d88f17c9083073cff4f998ceb8275803d5dc476ee8ff0082a32
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,7 +48,7 @@ record:
       under the same login, and your existing ChatGPT workspace remains available.For
       more information, please see our help article ChatGPT for Clinicians or our
       blog post Making ChatGPT better for clinicians.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-clinicians
   extractor_version: fallback-v5
   impact: significant
   kind: launch
@@ -87,13 +87,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT for Clinicians
 
-**ChatGPT** · 2026-04-22 · [[Themes/account-access|Account and Access]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-22-chatgpt-for-clinicians-4ccc54d7|ChatGPT for Clinicians]]
+**ChatGPT** · 2026-04-22 · [[Themes/account-access|Account and Access]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-clinicians) · from [[Releases/ChatGPT/chatgpt-2026-04-22-chatgpt-for-clinicians-4ccc54d7|ChatGPT for Clinicians]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re launching ChatGPT for Clinicians, a free version of ChatGPT for verified clinicians in the United States. It’s designed to support real clinical work at the time of care, including evidence review, documentation, and medical research, with trusted clinical search, citations, reusable skills, deep research across medical literature, and support for earning CME credits on eligible clinical questions.If you already have a ChatGPT account, you can use that same account to sign up. After signup, ChatGPT for Clinicians appears as a separate workspace under the same login, and your existing ChatGPT workspace remains available.For more information, please see our help article ChatGPT for Clinicians or our blog post Making ChatGPT better for clinicians.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-clinicians
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -114,5 +114,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-04-22-432031&body=Card%3A%20Changes%2FChatGPT%2F2026-04-22-we-re-launching-chatgpt-for-clinicians-a-free-version-of-chatgpt-for-verified-cl.md%0ACard%20ID%3A%20chatgpt-2026-04-22-432031%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-04-22-432031&body=Card%3A%20Changes%2FChatGPT%2F2026-04-22-we-re-launching-chatgpt-for-clinicians-a-free-version-of-chatgpt-for-verified-cl.md%0ACard%20ID%3A%20chatgpt-2026-04-22-432031%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-for-clinicians%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

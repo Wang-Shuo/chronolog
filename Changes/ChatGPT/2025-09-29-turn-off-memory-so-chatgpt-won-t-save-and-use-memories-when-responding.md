@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bf7326f1307d944fc0161de714a5e9458eb63f08176c732a0005a8c213ff58fe
+machine_hash: 1de05be89568e3207e8a55ebb3acf1b6a33bce7f434df6c97b240b74e44eec81
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
     and use memories when responding.'
   evidence:
   - quote: Turn off memory, so ChatGPT won’t save and use memories when responding.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -57,13 +57,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Turn off memory, so ChatGPT won’t save and use memories when responding
 
-**ChatGPT** · 2025-09-29 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|Parental Controls]]
+**ChatGPT** · 2025-09-29 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls) · from [[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|Parental Controls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Turn off memory, so ChatGPT won’t save and use memories when responding.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -89,5 +89,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-29-d14d2e&body=Card%3A%20Changes%2FChatGPT%2F2025-09-29-turn-off-memory-so-chatgpt-won-t-save-and-use-memories-when-responding.md%0ACard%20ID%3A%20chatgpt-2025-09-29-d14d2e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-29-d14d2e&body=Card%3A%20Changes%2FChatGPT%2F2025-09-29-turn-off-memory-so-chatgpt-won-t-save-and-use-memories-when-responding.md%0ACard%20ID%3A%20chatgpt-2025-09-29-d14d2e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23parental-controls%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

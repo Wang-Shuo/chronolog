@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 3fd3bff1d7c8cff84cdb0cd33fd5600124f6cc918b4f56072779c904e7ef06ac
+machine_hash: 8f429bd9cb631acc830856fc243b905b9a5e6da1f90c27010b24dac2d5c64eb7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
   - quote: 'Pro ($100/month): Built for longer, high-intensity Codex sessions. It
       includes unlimited access to GPT-5.4, access to GPT-5.4 Pro, and, for a limited
       time, up to 10x more Codex usage than Plus (up from 5X standard usage allowance).'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options
   extractor_version: fallback-v5
   impact: incremental
   kind: pricing
@@ -63,13 +63,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Pro ($100/month): Built for longer, high-intensity Codex sessions
 
-**ChatGPT** · 2026-04-09 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|New Pro plan options]]
+**ChatGPT** · 2026-04-09 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options) · from [[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|New Pro plan options]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Pro ($100/month): Built for longer, high-intensity Codex sessions. It includes unlimited access to GPT-5.4, access to GPT-5.4 Pro, and, for a limited time, up to 10x more Codex usage than Plus (up from 5X standard usage allowance).
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -95,5 +95,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-04-09-384163&body=Card%3A%20Changes%2FChatGPT%2F2026-04-09-pro-100-month-built-for-longer-high-intensity-codex-sessions-it-includes-unlimit.md%0ACard%20ID%3A%20chatgpt-2026-04-09-384163%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-04-09-384163&body=Card%3A%20Changes%2FChatGPT%2F2026-04-09-pro-100-month-built-for-longer-high-intensity-codex-sessions-it-includes-unlimit.md%0ACard%20ID%3A%20chatgpt-2026-04-09-384163%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23new-pro-plan-options%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

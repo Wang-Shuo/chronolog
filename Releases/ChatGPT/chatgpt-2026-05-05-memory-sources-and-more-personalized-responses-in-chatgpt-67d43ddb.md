@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-05-05'
 description: 'ChatGPT release Memory sources and more personalized responses in ChatGPT
   on 2026-05-05: 1 tracked change across Memory and Personalization'
-machine_hash: f683bf7e31d98df068123a8ea219e5db1f18a8215ce622973566d24089e3ce3c
+machine_hash: 8ea32a4d20a0d84f1a54b0acba5ff0bc7706b186db54b22bba7865c6f6e453cc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     saved memories, and, where available, files and connected Gmail app to offer more
     tailored…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-sources-and-more-personalized-responses-in-chatgpt
   title: Memory sources and more personalized responses in ChatGPT
   version: Memory sources and more personalized responses in ChatGPT
 release_id: chatgpt-2026-05-05-memory-sources-and-more-personalized-responses-in-chatgpt-67d43ddb
 source_release: Memory sources and more personalized responses in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-sources-and-more-personalized-responses-in-chatgpt
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Memory sources and more personalized responses in ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Memory sources and more personalized responses in ChatGPT
 
-**ChatGPT** · 2026-05-05 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-05-05 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-sources-and-more-personalized-responses-in-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

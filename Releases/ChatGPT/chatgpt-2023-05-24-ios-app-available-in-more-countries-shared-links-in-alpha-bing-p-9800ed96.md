@@ -4,7 +4,7 @@ date: '2023-05-24'
 description: 'ChatGPT release iOS app available in more countries, shared links in
   alpha, Bing Plugin, disable history on iOS on 2023-05-24: 4 tracked changes across
   Mobile…'
-machine_hash: 5fb974e9fdc5a6a660741172c941452ca979541037b41695e330583b64d628c5
+machine_hash: bcbabfa9186761a99e2023c8b1c6d3b9c4f027e7364d914befa027e6a063b6d1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,7 +15,7 @@ record:
   release_id: chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96
   source_summary: ChatGPT app for iOS in more countries
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app-available-in-more-countries-shared-links-in-alpha-bing-plugin-disable-history-on-ios
   title: iOS app available in more countries, shared links in alpha, Bing Plugin,
     disable history on iOS
   version: iOS app available in more countries, shared links in alpha, Bing Plugin,
@@ -24,7 +24,7 @@ release_id: chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-
 source_release: iOS app available in more countries, shared links in alpha, Bing Plugin,
   disable history on iOS
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app-available-in-more-countries-shared-links-in-alpha-bing-plugin-disable-history-on-ios
 tags:
 - release
 - chatgpt
@@ -37,7 +37,7 @@ version: iOS app available in more countries, shared links in alpha, Bing Plugin
 <!-- chronolog:begin region="header" -->
 # ChatGPT · iOS app available in more countries, shared links in alpha, Bing Plugin, disable history on iOS
 
-**ChatGPT** · 2023-05-24 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2023-05-24 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app-available-in-more-countries-shared-links-in-alpha-bing-plugin-disable-history-on-ios)
 <!-- chronolog:end -->
 
 ## Summary

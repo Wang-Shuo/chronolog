@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-05-05'
 description: 'ChatGPT release ChatGPT for Excel and Google Sheets on 2026-05-05: 1
   tracked change across Account and Access'
-machine_hash: d5d6dc9311db2a541fe5aec04f56977491441cd60df390db5e33c58d766bc538
+machine_hash: 5f66460f7b566fe59ed7875a5d9a5ec21d632b096099c1b046ecdbfcecb0e320
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     formulas, multi-tab files, scenario work, and spreadsheet cleanup, and supports
     Skills…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-excel-and-google-sheets
   title: ChatGPT for Excel and Google Sheets
   version: ChatGPT for Excel and Google Sheets
 release_id: chatgpt-2026-05-05-chatgpt-for-excel-and-google-sheets-a25132e0
 source_release: ChatGPT for Excel and Google Sheets
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-excel-and-google-sheets
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: ChatGPT for Excel and Google Sheets
 <!-- chronolog:begin region="header" -->
 # ChatGPT for Excel and Google Sheets
 
-**ChatGPT** · 2026-05-05 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-05-05 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-excel-and-google-sheets)
 <!-- chronolog:end -->
 
 ## Summary

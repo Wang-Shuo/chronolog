@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3423122be663d48af5e7925470724a284921f9294c84eef617ff12ead2d28f84
+machine_hash: 625d3e7e50c472826029e2310a915a73149534f5c5f838342a546ddf5a53eb6c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ record:
       your Connector settings (connect to Notion or Linear if you haven’t already,
       first). Once synced, ChatGPT will automatically reference the indexed content
       when relevant. Learn more about synced connectors.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-notion-linear-synced-connectors
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -67,13 +67,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Adding Notion & Linear synced connectors
 
-**ChatGPT** · 2025-10-09 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-10-09-adding-notion-linear-synced-connectors-8b3828f2|Adding Notion & Linear synced connectors]]
+**ChatGPT** · 2025-10-09 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-notion-linear-synced-connectors) · from [[Releases/ChatGPT/chatgpt-2025-10-09-adding-notion-linear-synced-connectors-8b3828f2|Adding Notion & Linear synced connectors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We're adding Notion and Linear as synced connectors (for Pro users), so you can securely bring Notion pages and Linear issues/discussions into Chat for fast answers and summaries. You can enable sync for Notion and Linear from your Connector settings (connect to Notion or Linear if you haven’t already, first). Once synced, ChatGPT will automatically reference the indexed content when relevant. Learn more about synced connectors.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-notion-linear-synced-connectors
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -94,5 +94,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-10-09-d379c1&body=Card%3A%20Changes%2FChatGPT%2F2025-10-09-we-re-adding-notion-and-linear-as-synced-connectors-for-pro-users-so-you-can-sec.md%0ACard%20ID%3A%20chatgpt-2025-10-09-d379c1%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-10-09-d379c1&body=Card%3A%20Changes%2FChatGPT%2F2025-10-09-we-re-adding-notion-and-linear-as-synced-connectors-for-pro-users-so-you-can-sec.md%0ACard%20ID%3A%20chatgpt-2025-10-09-d379c1%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23adding-notion-linear-synced-connectors%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

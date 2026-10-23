@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-09-15'
 description: 'ChatGPT release Personalization settings are now in Settings on 2025-09-15:
   1 tracked change across Memory and Personalization'
-machine_hash: e5c7091b9c31799baf5ea82003a909b488ef773c327a82e1cfed4e71d30eaf2d
+machine_hash: ac1dc1f28284cc3f77cbd1c9b1de96f3a38d11f682a3691a094d086751815c1c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -16,13 +16,13 @@ record:
     personalization, choose a ChatGPT personality, add custom instructions, and update
     Memory directly in Settings → Personalization.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personalization-settings-are-now-in-settings
   title: Personalization settings are now in Settings
   version: Personalization settings are now in Settings
 release_id: chatgpt-2025-09-15-personalization-settings-are-now-in-settings-bdb1bffc
 source_release: Personalization settings are now in Settings
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personalization-settings-are-now-in-settings
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Personalization settings are now in Settings
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Personalization settings are now in Settings
 
-**ChatGPT** · 2025-09-15 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-09-15 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personalization-settings-are-now-in-settings)
 <!-- chronolog:end -->
 
 ## Summary

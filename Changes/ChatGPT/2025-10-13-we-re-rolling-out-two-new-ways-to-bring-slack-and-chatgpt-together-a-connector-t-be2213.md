@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 9afc6b3fbc1dd3924745a7cf27b16199a13554f6fa9bb0c743350fb2de93abe0
+machine_hash: 035eb0cdc00a5e1efc769a7d5a3ba125a080b831a778381dff1cf1cab69ff862
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,7 +64,7 @@ record:
       your Slack workspace settings.Installing the app requires the connector to be
       enabled for your account.Visit the ChatGPT app for Slack page to get started
       with installation.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#slack-connector-and-app
   extractor_version: fallback-v5
   impact: paradigm-shift
   kind: change
@@ -125,13 +125,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Slack connector and app
 
-**ChatGPT** · 2025-10-13 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-10-13-slack-connector-and-app-931a6153|Slack connector and app]]
+**ChatGPT** · 2025-10-13 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#slack-connector-and-app) · from [[Releases/ChatGPT/chatgpt-2025-10-13-slack-connector-and-app-931a6153|Slack connector and app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re rolling out two new ways to bring Slack and ChatGPT together: a connector that brings your Slack context into ChatGPT, and a ChatGPT app for Slack – an integration that enables you to chat with ChatGPT from inside Slack.With the ChatGPT app for Slack, you can chat one-on-one with ChatGPT in a dedicated Slack sidebar – a space to ask questions, summarize long threads into action items, draft replies, and search messages and files you already have access to. Chats you start in Slack also appear in your ChatGPT sidebar, so it’s easy to pick up later from web or mobile. Semantic search is supported for Slack customers with AI enabled on Business+ or Enterprise+ plans; all other plans use keyword search.With the ChatGPT connector for Slack, you can securely bring in context from your Slack channels and DMs, making responses more helpful. Available in chat, Deep Research, and Agent Mode. Users can enable from Settings > Apps & Connectors.Both app and connector are available to Plus, Pro, Business and Enterprise/Edu customers. Additionally, the ChatGPT app for Slack requires a paid Slack account; availability and workspace installation may depend on your Slack workspace settings.Installing the app requires the connector to be enabled for your account.Visit the ChatGPT app for Slack page to get started with installation.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#slack-connector-and-app
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -152,5 +152,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-10-13-be2213&body=Card%3A%20Changes%2FChatGPT%2F2025-10-13-we-re-rolling-out-two-new-ways-to-bring-slack-and-chatgpt-together-a-connector-t-be2213.md%0ACard%20ID%3A%20chatgpt-2025-10-13-be2213%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-10-13-be2213&body=Card%3A%20Changes%2FChatGPT%2F2025-10-13-we-re-rolling-out-two-new-ways-to-bring-slack-and-chatgpt-together-a-connector-t-be2213.md%0ACard%20ID%3A%20chatgpt-2025-10-13-be2213%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23slack-connector-and-app%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

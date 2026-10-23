@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-03-25'
 description: 'ChatGPT release Large pastes are now handled as attachments on 2026-03-25:
   1 tracked change across Context Window'
-machine_hash: 918799f4ad6ab60b93916eff361f96fb4b9229ede12d0993df07566996c75e23
+machine_hash: 7b237b80e062df9b906d6b534eb15fa1d78a5b41b02a03882944e34bf9345a1c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     instead of inserting it directly into the text field. This keeps the composer
     cleaner and…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments
   title: Large pastes are now handled as attachments
   version: Large pastes are now handled as attachments
 release_id: chatgpt-2026-03-25-large-pastes-are-now-handled-as-attachments-6bacf64e
 source_release: Large pastes are now handled as attachments
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Large pastes are now handled as attachments
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Large pastes are now handled as attachments
 
-**ChatGPT** · 2026-03-25 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-03-25 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments)
 <!-- chronolog:end -->
 
 ## Summary

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2024-12-10'
 description: 'ChatGPT release Canvas on 2024-12-10: 1 tracked change across Files
   and Data'
-machine_hash: d82b1b12911039beb33a3fbe17a784a2ad6046271bb1160af02e0efb11b21a4b
+machine_hash: 82eb6332cd0fc90b0179acd36482f0811f24f7ad13fe3f43186f20a4c92beb2f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -16,13 +16,13 @@ record:
     Free and Paid. Additionally, we launched a number of new capabilities for canvas,
     including:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canvas
   title: Canvas
   version: Canvas
 release_id: chatgpt-2024-12-10-canvas-a457e8f0
 source_release: Canvas
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canvas
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Canvas
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Canvas
 
-**ChatGPT** · 2024-12-10 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2024-12-10 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canvas)
 <!-- chronolog:end -->
 
 ## Summary

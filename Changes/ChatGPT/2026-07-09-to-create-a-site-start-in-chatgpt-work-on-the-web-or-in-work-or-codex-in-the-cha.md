@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-07-09 · Mobile and Desktop: To create a Site, sta
   ChatGPT Work on the web or in Work or Codex in the ChatGPT desktop app. Describe
   what you…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1213
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6bf75da1ee99d194f9284b1cfa315550a26f3a2b39ead98d822723e0367dd90c
+machine_hash: 7505e1473f52289bb62a332740c137d3c5da1b2bdec8c646dc2672b31a8def94
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       in the ChatGPT desktop app. Describe what you want to build, add any relevant
       content, files, data, links, or constraints, and review the private preview
       before publishing.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-sites-in-public-beta
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -63,13 +63,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # To create a Site, start in ChatGPT Work on the web or in Work or Codex…
 
-**ChatGPT** · 2026-07-09 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd|Introducing ChatGPT Sites in public beta]]
+**ChatGPT** · 2026-07-09 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-sites-in-public-beta) · from [[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd|Introducing ChatGPT Sites in public beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > To create a Site, start in ChatGPT Work on the web or in Work or Codex in the ChatGPT desktop app. Describe what you want to build, add any relevant content, files, data, links, or constraints, and review the private preview before publishing.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-sites-in-public-beta
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -94,5 +94,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-09-55908c&body=Card%3A%20Changes%2FChatGPT%2F2026-07-09-to-create-a-site-start-in-chatgpt-work-on-the-web-or-in-work-or-codex-in-the-cha.md%0ACard%20ID%3A%20chatgpt-2026-07-09-55908c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-09-55908c&body=Card%3A%20Changes%2FChatGPT%2F2026-07-09-to-create-a-site-start-in-chatgpt-work-on-the-web-or-in-work-or-codex-in-the-cha.md%0ACard%20ID%3A%20chatgpt-2026-07-09-55908c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23introducing-chatgpt-sites-in-public-beta%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -3,7 +3,7 @@ changes_count: 5
 date: '2026-04-09'
 description: 'ChatGPT release New Pro plan options on 2026-04-09: 5 tracked changes
   across Pricing Model'
-machine_hash: c05066d9a1cbeab13f1e6f3f2c9da295c94850acbf332cf47c3fa2b38f179127
+machine_hash: 1f6dd2149034161b8d905675be5eb45c02d5a426e0bb322b554121552dbf3105
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
   source_summary: We’re introducing a new $100/month Pro plan and updating how Codex
     usage works across Plus and Pro.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options
   title: New Pro plan options
   version: New Pro plan options
 release_id: chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2
 source_release: New Pro plan options
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: New Pro plan options
 <!-- chronolog:begin region="header" -->
 # ChatGPT · New Pro plan options
 
-**ChatGPT** · 2026-04-09 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-04-09 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options)
 <!-- chronolog:end -->
 
 ## Summary

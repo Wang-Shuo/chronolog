@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5a2a7a28f452c434aad798b8b729b03e8130bacc48f81b82f766cee78df20d7f
+machine_hash: 5f65307b47d6da202fb69e3a4fb5c83dc672c668be303c3c564f68cb43cca4e7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       creating another password. The product receives your name, email address, and
       profile picture if you have one. Signing in does not share your ChatGPT conversations
       or memory; you approve any additional access separately.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sign-in-to-other-products-with-chatgpt
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -73,13 +73,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Sign in to other products with ChatGPT
 
-**ChatGPT** · 2026-09-29 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-29-sign-in-to-other-products-with-chatgpt-3054f3c5|Sign in to other products with ChatGPT]]
+**ChatGPT** · 2026-09-29 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sign-in-to-other-products-with-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-09-29-sign-in-to-other-products-with-chatgpt-3054f3c5|Sign in to other products with ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > You can use your ChatGPT account to sign in to participating products without creating another password. The product receives your name, email address, and profile picture if you have one. Signing in does not share your ChatGPT conversations or memory; you approve any additional access separately.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sign-in-to-other-products-with-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -100,5 +100,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-428d59&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-you-can-use-your-chatgpt-account-to-sign-in-to-participating-products-without-cr.md%0ACard%20ID%3A%20chatgpt-2026-09-29-428d59%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-428d59&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-you-can-use-your-chatgpt-account-to-sign-in-to-participating-products-without-cr.md%0ACard%20ID%3A%20chatgpt-2026-09-29-428d59%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23sign-in-to-other-products-with-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 80d176dc5c1e3a99dbe240621550bb99f6afbacbc26ab4296cc54e852feed49e
+machine_hash: 1697af195d634a52f515fec9000a84d7a911fb5aa67d7193761e3a30f6203e70
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
   description: 'ChatGPT — Import from Chat into Canvas: Edit a code block in Canvas'
   evidence:
   - quote: Edit a code block in Canvas
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#import-from-chat-into-canvas
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -53,13 +53,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Edit a code block in Canvas
 
-**ChatGPT** · 2025-01-15 · [[Themes/file-data|Files and Data]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-01-15-import-from-chat-into-canvas-e328bc82|Import from Chat into Canvas]]
+**ChatGPT** · 2025-01-15 · [[Themes/file-data|Files and Data]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#import-from-chat-into-canvas) · from [[Releases/ChatGPT/chatgpt-2025-01-15-import-from-chat-into-canvas-e328bc82|Import from Chat into Canvas]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Edit a code block in Canvas
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#import-from-chat-into-canvas
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -82,5 +82,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-01-15-f32a4e&body=Card%3A%20Changes%2FChatGPT%2F2025-01-15-edit-a-code-block-in-canvas.md%0ACard%20ID%3A%20chatgpt-2025-01-15-f32a4e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-01-15-f32a4e&body=Card%3A%20Changes%2FChatGPT%2F2025-01-15-edit-a-code-block-in-canvas.md%0ACard%20ID%3A%20chatgpt-2025-01-15-f32a4e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23import-from-chat-into-canvas%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

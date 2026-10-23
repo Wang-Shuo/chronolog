@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-11-12'
 description: 'ChatGPT release GPT-5.1 in ChatGPT on 2025-11-12: 1 tracked change across
   Model Support'
-machine_hash: 7339945f19f056b0a082c87b3d44eaf53b1b49d6535365d3fcfb1efe0df708a3
+machine_hash: b2eec199ace197520ee89c65aafddff2d6ec9ece6758788c3e0f5f090ea0d9a4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     reasoning for tougher questions while staying fast, and GPT-5.1 Thinking adapts
     its thinking time more precisely for complex tasks with clearer, less jargony…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-51-in-chatgpt
   title: GPT-5.1 in ChatGPT
   version: GPT-5.1 in ChatGPT
 release_id: chatgpt-2025-11-12-gpt-5-1-in-chatgpt-3b83bb2f
 source_release: GPT-5.1 in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-51-in-chatgpt
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: GPT-5.1 in ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · GPT-5.1 in ChatGPT
 
-**ChatGPT** · 2025-11-12 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-11-12 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-51-in-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

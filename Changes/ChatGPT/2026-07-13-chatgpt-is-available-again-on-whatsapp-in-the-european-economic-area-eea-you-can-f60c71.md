@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b703c485cded3841410dd0fb1da9477b14a211ac74c3c04a1b1aec456fe845ae
+machine_hash: 09967b3a9156cf8d3787cd65ebd862b91a8804b3fa27b2e4a29372d542f775e2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ record:
       is based on the country code associated with your WhatsApp number and may roll
       out gradually. Usage limits apply.ChatGPT is also available on Kakao in South
       Korea and Viber in supported markets.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-returns-to-whatsapp-in-the-eea
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -78,13 +78,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT returns to WhatsApp in the EEA
 
-**ChatGPT** · 2026-07-13 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-13-chatgpt-returns-to-whatsapp-in-the-eea-ce61ee08|ChatGPT returns to WhatsApp in the EEA]]
+**ChatGPT** · 2026-07-13 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-returns-to-whatsapp-in-the-eea) · from [[Releases/ChatGPT/chatgpt-2026-07-13-chatgpt-returns-to-whatsapp-in-the-eea-ce61ee08|ChatGPT returns to WhatsApp in the EEA]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT is available again on WhatsApp in the European Economic Area (EEA). You can get started without a ChatGPT account by messaging the verified 1-800-CHATGPT contact at +1-800-242-8478.On WhatsApp, you can message ChatGPT, upload images, send voice notes, create images, and use ChatGPT in many languages. Linking your ChatGPT account is optional and provides higher usage limits.Availability is based on the country code associated with your WhatsApp number and may roll out gradually. Usage limits apply.ChatGPT is also available on Kakao in South Korea and Viber in supported markets.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-returns-to-whatsapp-in-the-eea
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -105,5 +105,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-13-f60c71&body=Card%3A%20Changes%2FChatGPT%2F2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can-f60c71.md%0ACard%20ID%3A%20chatgpt-2026-07-13-f60c71%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-13-f60c71&body=Card%3A%20Changes%2FChatGPT%2F2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can-f60c71.md%0ACard%20ID%3A%20chatgpt-2026-07-13-f60c71%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-returns-to-whatsapp-in-the-eea%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

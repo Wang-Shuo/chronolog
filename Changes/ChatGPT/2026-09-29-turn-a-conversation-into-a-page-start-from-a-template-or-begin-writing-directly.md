@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8bb563041d6b92787eab0881497482dd8465aba2e80524d492b995a1dc868d8b
+machine_hash: ba6cae3145d40e11e3cfb43ab9781bb2fce334d3919c0d07614ce9c6ce75dc0a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       directly in Space. Edit the text yourself or ask ChatGPT to revise it, add charts,
       or create interactive content. Collaborators can work on the same Page and leave
       comments, with each person using their own ChatGPT.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-collaborate-on-pages
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -68,13 +68,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Turn a conversation into a Page, start from a template, or begin writing directly in Space
 
-**ChatGPT** · 2026-09-29 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-29-create-and-collaborate-on-pages-aae35683|Create and collaborate on Pages]]
+**ChatGPT** · 2026-09-29 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-collaborate-on-pages) · from [[Releases/ChatGPT/chatgpt-2026-09-29-create-and-collaborate-on-pages-aae35683|Create and collaborate on Pages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Turn a conversation into a Page, start from a template, or begin writing directly in Space. Edit the text yourself or ask ChatGPT to revise it, add charts, or create interactive content. Collaborators can work on the same Page and leave comments, with each person using their own ChatGPT.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-collaborate-on-pages
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -97,5 +97,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-3996ee&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-turn-a-conversation-into-a-page-start-from-a-template-or-begin-writing-directly.md%0ACard%20ID%3A%20chatgpt-2026-09-29-3996ee%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-3996ee&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-turn-a-conversation-into-a-page-start-from-a-template-or-begin-writing-directly.md%0ACard%20ID%3A%20chatgpt-2026-09-29-3996ee%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23create-and-collaborate-on-pages%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

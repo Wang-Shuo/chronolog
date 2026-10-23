@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: be20a548ca642e54515507bb0f88fe94d8469736d38e700e3e1aaa5db85023da
+machine_hash: 4a8fa712d184e49f02cfffa360bd98e41146ebe11617f0cf94957d100112f0b3
 product: claude-code
 product_name: Claude Code
 record:
@@ -90,6 +90,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-changed-background-sessions-waiting-on-a-scheduled-wakeup-loop-they-are-now-left|Changed background sessions waiting on a scheduled wakeup (/loop)]]
+- Later: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-improved-memory-use-when-sending-requests-in-long-or-resumed-conversations|Improved memory use when sending requests in long or resumed conversations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-10-07'
 description: 'ChatGPT release GPT-6 and Intelligent UI in ChatGPT on 2026-10-07: 1
   tracked change across Model Support'
-machine_hash: 4bf15989a7ff51fa7ac874de6daf33994bf30ae89b9d106e1cc1df5aed323109
+machine_hash: 02ac30eac64c26441ede6e4dc6add3aa2468172772ed072c8a34661ad9a8150f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     conversation, such as calculators, bill splitters, and games. It can choose the
     format…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-6-and-intelligent-ui-in-chatgpt
   title: GPT-6 and Intelligent UI in ChatGPT
   version: GPT-6 and Intelligent UI in ChatGPT
 release_id: chatgpt-2026-10-07-gpt-6-and-intelligent-ui-in-chatgpt-43bd07f7
 source_release: GPT-6 and Intelligent UI in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-6-and-intelligent-ui-in-chatgpt
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: GPT-6 and Intelligent UI in ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · GPT-6 and Intelligent UI in ChatGPT
 
-**ChatGPT** · 2026-10-07 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-10-07 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-6-and-intelligent-ui-in-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

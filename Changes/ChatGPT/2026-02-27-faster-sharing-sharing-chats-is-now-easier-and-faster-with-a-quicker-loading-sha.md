@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9533551ca1dba3ef288c94003841bf2aaaf4548dc367ce90e8f96e0d88f2b8d4
+machine_hash: 69429f4dd3b9e6839921e92b403677de80ca1a84fdbd359e16be5cef19993bbe
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   evidence:
   - quote: Faster sharing. Sharing chats is now easier and faster, with a quicker-loading
       share menu.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -77,13 +77,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Faster sharing. Sharing chats is now easier and faster, with a quicker-loading share menu
 
-**ChatGPT** · 2026-02-27 · [[Themes/reliability-performance|Reliability and Performance]] · Web · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|ChatGPT Web and Android updates: Edit image prompts, share faster, and smoother conversations]]
+**ChatGPT** · 2026-02-27 · [[Themes/reliability-performance|Reliability and Performance]] · Web · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations) · from [[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|ChatGPT Web and Android updates: Edit image prompts, share faster, and smoother conversations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Faster sharing. Sharing chats is now easier and faster, with a quicker-loading share menu.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -112,5 +112,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-27-4554e1&body=Card%3A%20Changes%2FChatGPT%2F2026-02-27-faster-sharing-sharing-chats-is-now-easier-and-faster-with-a-quicker-loading-sha.md%0ACard%20ID%3A%20chatgpt-2026-02-27-4554e1%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-27-4554e1&body=Card%3A%20Changes%2FChatGPT%2F2026-02-27-faster-sharing-sharing-chats-is-now-easier-and-faster-with-a-quicker-loading-sha.md%0ACard%20ID%3A%20chatgpt-2026-02-27-4554e1%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

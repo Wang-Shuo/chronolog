@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: ddf23c71e1d22a112b431637b9f0e732784209121638f0808a95cb2c8b3024a7
+machine_hash: 6d4221b1d2a33ca20c10ce7ad23ad3002e1a5d55e0bf4d2c61662f654397c54e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       we are experimenting with a daily message cap. If you’re included in this group,
       you’ll be presented with an option to extend your access by providing feedback
       to ChatGPT.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#performance-updates-to-chatgpt
   extractor_version: fallback-v5
   impact: incremental
   kind: policy
@@ -59,13 +59,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Daily limit: To ensure a high-quality experience for all ChatGPT users, we…
 
-**ChatGPT** · 2022-12-15 · [[Themes/pricing-model|Pricing Model]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d|Performance updates to ChatGPT]]
+**ChatGPT** · 2022-12-15 · [[Themes/pricing-model|Pricing Model]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#performance-updates-to-chatgpt) · from [[Releases/ChatGPT/chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d|Performance updates to ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Daily limit: To ensure a high-quality experience for all ChatGPT users, we are experimenting with a daily message cap. If you’re included in this group, you’ll be presented with an option to extend your access by providing feedback to ChatGPT.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#performance-updates-to-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -88,5 +88,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2022-12-15-6d306d&body=Card%3A%20Changes%2FChatGPT%2F2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp.md%0ACard%20ID%3A%20chatgpt-2022-12-15-6d306d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2022-12-15-6d306d&body=Card%3A%20Changes%2FChatGPT%2F2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp.md%0ACard%20ID%3A%20chatgpt-2022-12-15-6d306d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23performance-updates-to-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

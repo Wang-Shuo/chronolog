@@ -4,8 +4,8 @@ date: '2025-06-12'
 description: 'ChatGPT · 2025-06-12 · Mobile and Desktop: Upload files and access model
   selector on mobile'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 821
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3cd62390fd73a1688588b7041d392a4efe5a3189db8caf68b267bc33a472e15f
+machine_hash: 9c847e16197d6123bc14c01b4c0a1375563b9e926326d866e84f606e8e95cdb0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
     model selector on mobile'
   evidence:
   - quote: Upload files and access model selector on mobile
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -69,13 +69,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Upload files and access model selector on mobile
 
-**ChatGPT** · 2025-06-12 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8|Adding More Capabilities to Projects]]
+**ChatGPT** · 2025-06-12 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects) · from [[Releases/ChatGPT/chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8|Adding More Capabilities to Projects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Upload files and access model selector on mobile
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -102,5 +102,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-12-09c330&body=Card%3A%20Changes%2FChatGPT%2F2025-06-12-upload-files-and-access-model-selector-on-mobile.md%0ACard%20ID%3A%20chatgpt-2025-06-12-09c330%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-12-09c330&body=Card%3A%20Changes%2FChatGPT%2F2025-06-12-upload-files-and-access-model-selector-on-mobile.md%0ACard%20ID%3A%20chatgpt-2025-06-12-09c330%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23adding-more-capabilities-to-projects%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

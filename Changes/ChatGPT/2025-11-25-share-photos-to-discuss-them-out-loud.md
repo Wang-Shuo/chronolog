@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f9865392f62bbe65f49bc1ed8d5878268a4b52e42c226cee3b5cc5b8a5e1ee3c
+machine_hash: 30ebb6fbe11435b6baf965d92f2d28a9ce81ca27471234a39f5ba6723fbef1c8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
     and visuals when you need them.: Share photos to discuss them out loud'
   evidence:
   - quote: Share photos to discuss them out loud
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#an-improved-voice-interface-the-audio-you-know-with-text-and-visuals-when-you-need-them
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -55,13 +55,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Share photos to discuss them out loud
 
-**ChatGPT** · 2025-11-25 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37|An improved Voice interface: the audio you know, with text and visuals when you need them.]]
+**ChatGPT** · 2025-11-25 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#an-improved-voice-interface-the-audio-you-know-with-text-and-visuals-when-you-need-them) · from [[Releases/ChatGPT/chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37|An improved Voice interface: the audio you know, with text and visuals when you need them.]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Share photos to discuss them out loud
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#an-improved-voice-interface-the-audio-you-know-with-text-and-visuals-when-you-need-them
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -84,5 +84,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-11-25-e1251e&body=Card%3A%20Changes%2FChatGPT%2F2025-11-25-share-photos-to-discuss-them-out-loud.md%0ACard%20ID%3A%20chatgpt-2025-11-25-e1251e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-11-25-e1251e&body=Card%3A%20Changes%2FChatGPT%2F2025-11-25-share-photos-to-discuss-them-out-loud.md%0ACard%20ID%3A%20chatgpt-2025-11-25-e1251e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23an-improved-voice-interface-the-audio-you-know-with-text-and-visuals-when-you-need-them%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

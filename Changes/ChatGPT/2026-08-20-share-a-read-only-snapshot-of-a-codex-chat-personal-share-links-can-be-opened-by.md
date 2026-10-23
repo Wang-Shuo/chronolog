@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 39139d29154854b352d32116502925b386c1b61bfec510c55fcc7aa9358ec4f0
+machine_hash: aaf4f6950af91a3bdd5832504d582a57d730a7dacd935ca21c177bf3e3d2dfc6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       calls or shell input and output. Codex redacts known secret patterns, but users
       should review the snapshot because sensitive paths, diffs, images, or other
       content may remain. Learn more about sharing a Codex chat.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-and-chatgpt-feature-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -66,13 +66,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Share a read-only snapshot of a Codex chat
 
-**ChatGPT** · 2026-08-20 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|Codex and ChatGPT feature updates]]
+**ChatGPT** · 2026-08-20 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-and-chatgpt-feature-updates) · from [[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|Codex and ChatGPT feature updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Share a read-only snapshot of a Codex chat. Personal share links can be opened by anyone with the link. A snapshot is static and does not include tool calls or shell input and output. Codex redacts known secret patterns, but users should review the snapshot because sensitive paths, diffs, images, or other content may remain. Learn more about sharing a Codex chat.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-and-chatgpt-feature-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -97,5 +97,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-20-eac99b&body=Card%3A%20Changes%2FChatGPT%2F2026-08-20-share-a-read-only-snapshot-of-a-codex-chat-personal-share-links-can-be-opened-by.md%0ACard%20ID%3A%20chatgpt-2026-08-20-eac99b%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-20-eac99b&body=Card%3A%20Changes%2FChatGPT%2F2026-08-20-share-a-read-only-snapshot-of-a-codex-chat-personal-share-links-can-be-opened-by.md%0ACard%20ID%3A%20chatgpt-2026-08-20-eac99b%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23codex-and-chatgpt-feature-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

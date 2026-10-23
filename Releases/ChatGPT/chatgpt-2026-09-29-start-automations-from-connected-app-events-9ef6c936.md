@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-09-29'
 description: 'ChatGPT release Start automations from connected-app events on 2026-09-29:
   1 tracked change across Apps and Integrations'
-machine_hash: dbe575e9beec1d5f2e5d94b3eaf19dfb079553d9c7b41cbdc78186bab7932666
+machine_hash: f46b1094de74bd7775c3fb655560b7d9d24bdb05767b4ae45e1caef85dd2906a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     and what it should do with matching updates—for example, prepare a summary when
     new information arrives in a channel you have asked it to monitor.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#start-automations-from-connected-app-events
   title: Start automations from connected-app events
   version: Start automations from connected-app events
 release_id: chatgpt-2026-09-29-start-automations-from-connected-app-events-9ef6c936
 source_release: Start automations from connected-app events
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#start-automations-from-connected-app-events
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Start automations from connected-app events
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Start automations from connected-app events
 
-**ChatGPT** · 2026-09-29 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-09-29 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#start-automations-from-connected-app-events)
 <!-- chronolog:end -->
 
 ## Summary

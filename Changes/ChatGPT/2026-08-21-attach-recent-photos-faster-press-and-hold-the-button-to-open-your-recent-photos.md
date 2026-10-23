@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e3ce291c6a1f0df8a03dcf6bbbcff29b7230cd7a92f19c6039cc569d3c944320
+machine_hash: f136f70fa7d207a0b6190464d6c6d30deac2782b3a41a9040e74ce31259cf2dc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   evidence:
   - quote: Attach recent photos faster. Press and hold the + button to open your recent
       photos, then choose one to add to your conversation.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt-on-ios
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -60,13 +60,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Attach recent photos faster
 
-**ChatGPT** · 2026-08-21 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-21-updates-to-chatgpt-on-ios-148662ce|Updates to ChatGPT on iOS]]
+**ChatGPT** · 2026-08-21 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt-on-ios) · from [[Releases/ChatGPT/chatgpt-2026-08-21-updates-to-chatgpt-on-ios-148662ce|Updates to ChatGPT on iOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Attach recent photos faster. Press and hold the + button to open your recent photos, then choose one to add to your conversation.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt-on-ios
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -87,5 +87,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-21-36ab93&body=Card%3A%20Changes%2FChatGPT%2F2026-08-21-attach-recent-photos-faster-press-and-hold-the-button-to-open-your-recent-photos.md%0ACard%20ID%3A%20chatgpt-2026-08-21-36ab93%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-21-36ab93&body=Card%3A%20Changes%2FChatGPT%2F2026-08-21-attach-recent-photos-faster-press-and-hold-the-button-to-open-your-recent-photos.md%0ACard%20ID%3A%20chatgpt-2026-08-21-36ab93%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23updates-to-chatgpt-on-ios%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

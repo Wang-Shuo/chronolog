@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e270ed3b0a2462f9651ffa5f0920558a8fc6478b1eb1e7e7325367895b34e1af
+machine_hash: 602fab490f5a810362b5f7971e5e9c37e297333020a71931248a6c788854a56b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
   evidence:
   - quote: Admins and users can now build and deploy custom connectors to proprietary
       systems using Model Context Protocol (MCP).
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-connectors-via-model-context-protocol-pro-team-enterprise-edu
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -81,13 +81,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Admins and users can now build and deploy custom connectors to proprietary systems…
 
-**ChatGPT** · 2025-06-04 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-06-04-custom-connectors-via-model-context-protocol-pro-team-enterprise-a1bc36f5|Custom connectors via Model Context Protocol (Pro, Team, Enterprise, Edu)]]
+**ChatGPT** · 2025-06-04 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-connectors-via-model-context-protocol-pro-team-enterprise-edu) · from [[Releases/ChatGPT/chatgpt-2025-06-04-custom-connectors-via-model-context-protocol-pro-team-enterprise-a1bc36f5|Custom connectors via Model Context Protocol (Pro, Team, Enterprise, Edu)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Admins and users can now build and deploy custom connectors to proprietary systems using Model Context Protocol (MCP).
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-connectors-via-model-context-protocol-pro-team-enterprise-edu
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -110,5 +110,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-04-d1ee85&body=Card%3A%20Changes%2FChatGPT%2F2025-06-04-admins-and-users-can-now-build-and-deploy-custom-connectors-to-proprietary-syste.md%0ACard%20ID%3A%20chatgpt-2025-06-04-d1ee85%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-04-d1ee85&body=Card%3A%20Changes%2FChatGPT%2F2025-06-04-admins-and-users-can-now-build-and-deploy-custom-connectors-to-proprietary-syste.md%0ACard%20ID%3A%20chatgpt-2025-06-04-d1ee85%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23custom-connectors-via-model-context-protocol-pro-team-enterprise-edu%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

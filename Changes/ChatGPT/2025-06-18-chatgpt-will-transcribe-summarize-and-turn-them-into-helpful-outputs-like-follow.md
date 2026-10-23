@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 94551a9a1da854bb841f495ea876be72af6325e978b7537f1a2f456ca88698a6
+machine_hash: cb814a9514d80e6891a8b2a9a8029dc12dbb7713955ae8b41de1f960ea2e600b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   evidence:
   - quote: ChatGPT will transcribe, summarize, and turn them into helpful outputs
       like follow-ups, plans, or even code.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-record-mode
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -60,13 +60,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT will transcribe, summarize, and turn them into helpful outputs like…
 
-**ChatGPT** · 2025-06-18 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-06-18-chatgpt-record-mode-f7984257|ChatGPT record mode]]
+**ChatGPT** · 2025-06-18 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-record-mode) · from [[Releases/ChatGPT/chatgpt-2025-06-18-chatgpt-record-mode-f7984257|ChatGPT record mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT will transcribe, summarize, and turn them into helpful outputs like follow-ups, plans, or even code.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-record-mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -89,5 +89,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-18-65ad93&body=Card%3A%20Changes%2FChatGPT%2F2025-06-18-chatgpt-will-transcribe-summarize-and-turn-them-into-helpful-outputs-like-follow.md%0ACard%20ID%3A%20chatgpt-2025-06-18-65ad93%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-18-65ad93&body=Card%3A%20Changes%2FChatGPT%2F2025-06-18-chatgpt-will-transcribe-summarize-and-turn-them-into-helpful-outputs-like-follow.md%0ACard%20ID%3A%20chatgpt-2025-06-18-65ad93%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-record-mode%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-03-10'
 description: 'ChatGPT release Auto top-up for flexible usage credits on 2026-03-10:
   1 tracked change across Pricing Model'
-machine_hash: db2f24084465afd73aaa2465b2d6e4523a4f7226561434e0bd2ea4ba358d5690
+machine_hash: 72a94525737248c29ad23818aef9098309430f15c91e33c7dc7b65b9dc2970b8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     your default payment method on file to purchase only the amount needed to reach
     your target…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#auto-top-up-for-flexible-usage-credits
   title: Auto top-up for flexible usage credits
   version: Auto top-up for flexible usage credits
 release_id: chatgpt-2026-03-10-auto-top-up-for-flexible-usage-credits-462c6ddf
 source_release: Auto top-up for flexible usage credits
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#auto-top-up-for-flexible-usage-credits
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Auto top-up for flexible usage credits
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Auto top-up for flexible usage credits
 
-**ChatGPT** · 2026-03-10 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-03-10 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#auto-top-up-for-flexible-usage-credits)
 <!-- chronolog:end -->
 
 ## Summary

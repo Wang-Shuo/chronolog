@@ -3,7 +3,7 @@ changes_count: 2
 date: '2025-06-04'
 description: 'ChatGPT release Custom connectors via Model Context Protocol (Pro, Team,
   Enterprise, Edu) on 2025-06-04: 2 tracked changes across Apps and Integrations'
-machine_hash: 6ea13e79c49bf1ad578be64e7334d5959d003edb3cda1153c741e396f52c4e35
+machine_hash: f932ce555f1210bb5d4bd4827233fe896f426ea4dab8f04c3b1190735f195b88
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,14 +15,14 @@ record:
   source_summary: Admins and users can now build and deploy custom connectors to proprietary
     systems using Model Context Protocol (MCP).
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-connectors-via-model-context-protocol-pro-team-enterprise-edu
   title: Custom connectors via Model Context Protocol (Pro, Team, Enterprise, Edu)
   version: Custom connectors via Model Context Protocol (Pro, Team, Enterprise, Edu)
 release_id: chatgpt-2025-06-04-custom-connectors-via-model-context-protocol-pro-team-enterprise-a1bc36f5
 source_release: Custom connectors via Model Context Protocol (Pro, Team, Enterprise,
   Edu)
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-connectors-via-model-context-protocol-pro-team-enterprise-edu
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Custom connectors via Model Context Protocol (Pro, Team, Enterprise, Ed
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Custom connectors via Model Context Protocol (Pro, Team, Enterprise, Edu)
 
-**ChatGPT** · 2025-06-04 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-06-04 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-connectors-via-model-context-protocol-pro-team-enterprise-edu)
 <!-- chronolog:end -->
 
 ## Summary

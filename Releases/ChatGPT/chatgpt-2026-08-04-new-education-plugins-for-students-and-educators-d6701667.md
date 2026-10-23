@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-08-04'
 description: 'ChatGPT release New education plugins for students and educators on
   2026-08-04: 1 tracked change across Apps and Integrations'
-machine_hash: dd64146b89c7f135d62658f1240a108338b423569bb1e06e4964ba6feb207881
+machine_hash: d96d1126566fac651254242bc583d9b7392414de5d0df394211838d10ca5f18e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -16,13 +16,13 @@ record:
     work with their own course materials, connected tools, and institution-approved
     apps.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-education-plugins-for-students-and-educators
   title: New education plugins for students and educators
   version: New education plugins for students and educators
 release_id: chatgpt-2026-08-04-new-education-plugins-for-students-and-educators-d6701667
 source_release: New education plugins for students and educators
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-education-plugins-for-students-and-educators
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: New education plugins for students and educators
 <!-- chronolog:begin region="header" -->
 # ChatGPT · New education plugins for students and educators
 
-**ChatGPT** · 2026-08-04 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-08-04 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-education-plugins-for-students-and-educators)
 <!-- chronolog:end -->
 
 ## Summary

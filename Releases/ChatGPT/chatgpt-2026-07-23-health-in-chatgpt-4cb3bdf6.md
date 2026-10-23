@@ -3,7 +3,7 @@ changes_count: 2
 date: '2026-07-23'
 description: 'ChatGPT release Health in ChatGPT on 2026-07-23: 2 tracked changes across
   Files and Data, Safety and Privacy'
-machine_hash: a349e10af1cdcfadabec02fd211a6ed26cb0d2aae88607d07f5d09a466b7050c
+machine_hash: 2c69112e34b2bd0e5bb8f88ffd32c71c4872f7d5aec72744a41d1f0085af9e5e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     connect supported health records and Apple Health data, see a dashboard of their
     health information, and ask questions grounded in their personal health context.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt
   title: Health in ChatGPT
   version: Health in ChatGPT
 release_id: chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6
 source_release: Health in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Health in ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Health in ChatGPT
 
-**ChatGPT** · 2026-07-23 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-07-23 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

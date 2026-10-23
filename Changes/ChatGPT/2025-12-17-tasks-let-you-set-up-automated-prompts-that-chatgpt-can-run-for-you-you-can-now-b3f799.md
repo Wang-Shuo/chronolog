@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2395ec2fb42eb5fbbabce249df807a1c762c19b0b6cf5538d431dc902def1336
+machine_hash: 1ab71e602ae1ff1bb9571db8475de1b747a2e6bfc18ba0808de3ec34778e850e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,9 +29,9 @@ record:
   evidence:
   - quote: 'Tasks let you set up automated prompts that ChatGPT can run for you.You
       can now manage all your tasks directly in Pulse:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#tasks-are-now-in-pulse
   - quote: Create tasks in chat or in Pulse—whatever’s easier in the moment.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#tasks-are-now-in-pulse
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -55,7 +55,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Tasks let you set up automated prompts that ChatGPT can run for you
 
-**ChatGPT** · 2025-12-17 · [[Themes/automation-scheduling|Automation and Scheduling]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44|Tasks are now in Pulse]]
+**ChatGPT** · 2025-12-17 · [[Themes/automation-scheduling|Automation and Scheduling]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#tasks-are-now-in-pulse) · from [[Releases/ChatGPT/chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44|Tasks are now in Pulse]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -63,7 +63,7 @@ type: change
 >
 > Create tasks in chat or in Pulse—whatever’s easier in the moment.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#tasks-are-now-in-pulse
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -85,5 +85,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-12-17-b3f799&body=Card%3A%20Changes%2FChatGPT%2F2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799.md%0ACard%20ID%3A%20chatgpt-2025-12-17-b3f799%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-12-17-b3f799&body=Card%3A%20Changes%2FChatGPT%2F2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799.md%0ACard%20ID%3A%20chatgpt-2025-12-17-b3f799%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23tasks-are-now-in-pulse%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

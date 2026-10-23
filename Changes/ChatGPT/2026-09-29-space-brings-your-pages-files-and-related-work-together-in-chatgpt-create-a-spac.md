@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f7ec527c42e0f882f38d26f5cdfe59c3eef995f4819351fa01e452ae2c6afa4e
+machine_hash: c8cb6a91ee45a56ae34a815de94a7b97cbd94e4e0a20d210da4ead10016a2c51
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       a space for a project, add the material you need, and share it with other people
       so you can keep building on the same work. Space replaces Library for accounts
       with access; your existing Projects remain separate.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#organize-your-work-in-chatgpt-space
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -64,13 +64,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Organize your work in ChatGPT Space
 
-**ChatGPT** · 2026-09-29 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-29-organize-your-work-in-chatgpt-space-234deac3|Organize your work in ChatGPT Space]]
+**ChatGPT** · 2026-09-29 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#organize-your-work-in-chatgpt-space) · from [[Releases/ChatGPT/chatgpt-2026-09-29-organize-your-work-in-chatgpt-space-234deac3|Organize your work in ChatGPT Space]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Space brings your Pages, files, and related work together in ChatGPT. Create a space for a project, add the material you need, and share it with other people so you can keep building on the same work. Space replaces Library for accounts with access; your existing Projects remain separate.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#organize-your-work-in-chatgpt-space
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -91,5 +91,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-100bf5&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-space-brings-your-pages-files-and-related-work-together-in-chatgpt-create-a-spac.md%0ACard%20ID%3A%20chatgpt-2026-09-29-100bf5%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-100bf5&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-space-brings-your-pages-files-and-related-work-together-in-chatgpt-create-a-spac.md%0ACard%20ID%3A%20chatgpt-2026-09-29-100bf5%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23organize-your-work-in-chatgpt-space%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

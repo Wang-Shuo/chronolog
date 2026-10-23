@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 752b13e65eca2c05276c732cca2a47cd0c06436f3bb2346d443b2e8c4d43dbf4
+machine_hash: 06a09f76ee301dcf67640b298aa93fa9b9c6d248ed4ba7668a6c414fe67c1d60
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   evidence:
   - quote: 'New UI for Temporary Chats: We’ve made accessing and viewing these private
       conversations more clear.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-and-the-windows-desktop-app
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -62,13 +62,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # New UI for Temporary Chats
 
-**ChatGPT** · 2025-03-18 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255|Web and the Windows desktop app]]
+**ChatGPT** · 2025-03-18 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-and-the-windows-desktop-app) · from [[Releases/ChatGPT/chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255|Web and the Windows desktop app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > New UI for Temporary Chats: We’ve made accessing and viewing these private conversations more clear.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-and-the-windows-desktop-app
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -93,5 +93,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-03-18-9d39f1&body=Card%3A%20Changes%2FChatGPT%2F2025-03-18-new-ui-for-temporary-chats-we-ve-made-accessing-and-viewing-these-private-conver.md%0ACard%20ID%3A%20chatgpt-2025-03-18-9d39f1%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-03-18-9d39f1&body=Card%3A%20Changes%2FChatGPT%2F2025-03-18-new-ui-for-temporary-chats-we-ve-made-accessing-and-viewing-these-private-conver.md%0ACard%20ID%3A%20chatgpt-2025-03-18-9d39f1%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23web-and-the-windows-desktop-app%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

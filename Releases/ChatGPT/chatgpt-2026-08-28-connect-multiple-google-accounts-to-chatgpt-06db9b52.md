@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-08-28'
 description: 'ChatGPT release Connect multiple Google accounts to ChatGPT on 2026-08-28:
   1 tracked change across Apps and Integrations'
-machine_hash: 41f07bd3c054773fd407ab4244257dcb5d376e7d307aedebd5b8be5c0b2cfcc1
+machine_hash: d8fdf2792c731d9f9f6d892af40b4752929c8891b8eb8a32cd69b16c055116a6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     into the same conversation. Ask ChatGPT to check your calendars together when
     planning your day or find emails across your connected inboxes.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connect-multiple-google-accounts-to-chatgpt
   title: Connect multiple Google accounts to ChatGPT
   version: Connect multiple Google accounts to ChatGPT
 release_id: chatgpt-2026-08-28-connect-multiple-google-accounts-to-chatgpt-06db9b52
 source_release: Connect multiple Google accounts to ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connect-multiple-google-accounts-to-chatgpt
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Connect multiple Google accounts to ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Connect multiple Google accounts to ChatGPT
 
-**ChatGPT** · 2026-08-28 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-08-28 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connect-multiple-google-accounts-to-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

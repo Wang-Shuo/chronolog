@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-06-08 · Mobile and Desktop: Cleaned up logged-out
   web experience: Logged-out users now see a composer in the middle of the screen
   to…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1182
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bfc8c42f607a245bd89b40f106ec3774cf4175c2981ea99b6560a3f477c780c5
+machine_hash: 86e19af4f8cbb6407cc8b795e6df9f4f975421159149842b22296043499ec4d7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
   - quote: 'Cleaned up logged-out mobile web experience: Logged-out users now see
       a composer in the middle of the screen to avoid being blocked by popups. The
       sidebar has also been simplified.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -73,13 +73,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Cleaned up logged-out mobile web experience
 
-**ChatGPT** · 2026-06-08 · [[Themes/mobile-desktop|Mobile and Desktop]] · iOS · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
+**ChatGPT** · 2026-06-08 · [[Themes/mobile-desktop|Mobile and Desktop]] · iOS · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Cleaned up logged-out mobile web experience: Logged-out users now see a composer in the middle of the screen to avoid being blocked by popups. The sidebar has also been simplified.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -110,5 +110,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-08-ccb8fe&body=Card%3A%20Changes%2FChatGPT%2F2026-06-08-cleaned-up-logged-out-mobile-web-experience-logged-out-users-now-see-a-composer.md%0ACard%20ID%3A%20chatgpt-2026-06-08-ccb8fe%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-08-ccb8fe&body=Card%3A%20Changes%2FChatGPT%2F2026-06-08-cleaned-up-logged-out-mobile-web-experience-logged-out-users-now-see-a-composer.md%0ACard%20ID%3A%20chatgpt-2026-06-08-ccb8fe%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-app-experience-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

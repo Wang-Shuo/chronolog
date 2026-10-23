@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-09-14'
 description: 'ChatGPT release Changes to automatic switching to thinking in ChatGPT
   (Plus and Pro) on 2026-09-14: 1 tracked change across Model Support'
-machine_hash: 808220085e55202133a099ee19d70e76a93bc5464643b89b7bb603ac50da63d9
+machine_hash: e82a69f3e5dba0182c8b1f878497c6e81b6a2770fa7e0c8adeba9f2052ade463
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     in the model picker to give ChatGPT more time to think or reason. We’re also removing
     the Higher intelligence setting from ChatGPT on the web for these plans. ChatGPT…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-pro
   title: Changes to automatic switching to thinking in ChatGPT (Plus and Pro)
   version: Changes to automatic switching to thinking in ChatGPT (Plus and Pro)
 release_id: chatgpt-2026-09-14-changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-p-54d16c58
 source_release: Changes to automatic switching to thinking in ChatGPT (Plus and Pro)
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-pro
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Changes to automatic switching to thinking in ChatGPT (Plus and Pro)
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Changes to automatic switching to thinking in ChatGPT (Plus and Pro)
 
-**ChatGPT** · 2026-09-14 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-09-14 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-pro)
 <!-- chronolog:end -->
 
 ## Summary

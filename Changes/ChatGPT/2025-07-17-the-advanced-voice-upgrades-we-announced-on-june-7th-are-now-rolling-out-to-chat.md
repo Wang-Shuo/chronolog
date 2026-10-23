@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: bd8ec694bd7950a0305f88383e31722a0bf32a6556ab532a518e201b3082e1cb
+machine_hash: 69b552881f1ff6f4fc4bac1ce48450cf3b26e5c610752e70a01ef520e46dd30e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       to ChatGPT free users too. With the same improvements available to paid users,
       ChatGPT sounds more natural and expressive, and can translate more effectively.
       Rate limits for free users stay the same.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-advanced-voice-mode-for-free-tier-users
   extractor_version: fallback-v5
   impact: incremental
   kind: expansion
@@ -64,13 +64,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Updates to Advanced Voice Mode for Free tier users
 
-**ChatGPT** · 2025-07-17 · [[Themes/voice|Voice and Audio]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-07-17-updates-to-advanced-voice-mode-for-free-tier-users-eeba7562|Updates to Advanced Voice Mode for Free tier users]]
+**ChatGPT** · 2025-07-17 · [[Themes/voice|Voice and Audio]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-advanced-voice-mode-for-free-tier-users) · from [[Releases/ChatGPT/chatgpt-2025-07-17-updates-to-advanced-voice-mode-for-free-tier-users-eeba7562|Updates to Advanced Voice Mode for Free tier users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > The Advanced Voice upgrades we announced on June 7th are now rolling out to ChatGPT free users too. With the same improvements available to paid users, ChatGPT sounds more natural and expressive, and can translate more effectively. Rate limits for free users stay the same.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-advanced-voice-mode-for-free-tier-users
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -91,5 +91,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-07-17-ce1159&body=Card%3A%20Changes%2FChatGPT%2F2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat.md%0ACard%20ID%3A%20chatgpt-2025-07-17-ce1159%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-07-17-ce1159&body=Card%3A%20Changes%2FChatGPT%2F2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat.md%0ACard%20ID%3A%20chatgpt-2025-07-17-ce1159%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23updates-to-advanced-voice-mode-for-free-tier-users%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

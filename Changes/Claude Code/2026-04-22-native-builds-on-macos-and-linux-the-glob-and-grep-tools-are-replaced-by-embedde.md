@@ -4,8 +4,8 @@ date: '2026-04-22'
 description: 'Claude Code · 2026-04-22 · Mobile and Desktop: Native builds on macOS
   and Linux: the `Glob` and `Grep` tools are replaced by embedded `bfs` and `ugrep`…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1135
   relation: same-theme-chronology

@@ -4,7 +4,7 @@ date: '2023-05-12'
 description: 'ChatGPT release Web browsing and Plugins are now rolling out in beta
   on 2023-05-12: 4 tracked changes across Apps and Integrations, Context Window, Search
   and…'
-machine_hash: e6e7555f93585fe001f127c669217aeb048d258e8f334a8cd92017f461965e03
+machine_hash: 3129910ecfadce412fdb216b1ea0c82b963a6c688f648ab6ea0f7f80a49b075f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     accessible via a new beta panel in your settings, which is rolling out to all
     Plus users over the course of the next week.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-browsing-and-plugins-are-now-rolling-out-in-beta
   title: Web browsing and Plugins are now rolling out in beta
   version: Web browsing and Plugins are now rolling out in beta
 release_id: chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7
 source_release: Web browsing and Plugins are now rolling out in beta
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-browsing-and-plugins-are-now-rolling-out-in-beta
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Web browsing and Plugins are now rolling out in beta
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Web browsing and Plugins are now rolling out in beta
 
-**ChatGPT** · 2023-05-12 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2023-05-12 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-browsing-and-plugins-are-now-rolling-out-in-beta)
 <!-- chronolog:end -->
 
 ## Summary
