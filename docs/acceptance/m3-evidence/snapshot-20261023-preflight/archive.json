@@ -1,0 +1,10 @@
+{
+  "source_commit": "c67c6f6e2299f013bbe71b5a9a698afb865ec428",
+  "run_id": "snapshot-recovery-20261023-preflight",
+  "input_kind": "live",
+  "status": "ready",
+  "applied_files": 0,
+  "raw_collection": "Reconstruct from collection.json.gz",
+  "raw_chatgpt_html": "Reconstruct from _inputs/chatgpt/chatgpt.html.gz at this delivery commit",
+  "previous_schedule": "https://github.com/Wang-Shuo/chronolog/actions/runs/39909120448"
+}

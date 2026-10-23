@@ -1,0 +1,953 @@
+{
+  "status": "passed",
+  "old_count": 292,
+  "new_count": 298,
+  "missing_release_ids": [],
+  "new_releases": [
+    {
+      "release_id": "chatgpt-2026-10-15-applications-for-the-rosalind-academic-plan-b85717ef",
+      "product": "chatgpt",
+      "product_name": "ChatGPT",
+      "date": "2026-10-15",
+      "version": "Applications for the Rosalind Academic Plan",
+      "title": "Applications for the Rosalind Academic Plan",
+      "body": "The Rosalind Academic Plan helps eligible academic labs use ChatGPT for life sciences research. Approved labs can receive up to 30 ChatGPT Business Standard seats at no cost for up to 12 months, with GPT-Rosalind access subject to trusted-access approval.\nApplications are now open to labs at U.S. universities. If you’re a principal investigator or lab lead, apply on behalf of your lab. Applying doesn’t give your lab immediate access. After approval, follow the instructions to set up your workspace and enable access for approved members. Labs covered by an OpenAI Enterprise agreement should use their university’s access process. For eligibility and setup details, see: Rosalind Academic Plan.",
+      "source_summary": "The Rosalind Academic Plan helps eligible academic labs use ChatGPT for life sciences research. Approved labs can receive up to 30 ChatGPT Business Standard seats at no cost for up to 12 months, with GPT-Rosalind access subject to trusted-access approval.",
+      "source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#applications-for-the-rosalind-academic-plan",
+      "source_type": "chatgpt_changelog"
+    },
+    {
+      "release_id": "chatgpt-2026-10-15-gpt-live-1-1-and-new-voices-in-chatgpt-3e3f7f0c",
+      "product": "chatgpt",
+      "product_name": "ChatGPT",
+      "date": "2026-10-15",
+      "version": "GPT-Live-1.1 and new voices in ChatGPT",
+      "title": "GPT-Live-1.1 and new voices in ChatGPT",
+      "body": "We’re rolling out GPT-Live-1.1 and GPT-Live-1.1 Quip, a mini version of the model, in ChatGPT Voice, with more natural accents across languages. Live also uses a wider range of short phrases to let you know when it’s searching.\nNew Live voices include options for French, German, Hindi, Japanese, Korean, and Mexican Spanish, plus Bubbie in English. The voices you see may vary by region and account.\nTo choose a voice, open Settings > Voice, then select Voice.\nFor more information, see: ChatGPT Voice.",
+      "source_summary": "We’re rolling out GPT-Live-1.1 and GPT-Live-1.1 Quip, a mini version of the model, in ChatGPT Voice, with more natural accents across languages. Live also uses a wider range of short phrases to let you know when it’s searching.",
+      "source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-live-11-and-new-voices-in-chatgpt",
+      "source_type": "chatgpt_changelog"
+    },
+    {
+      "release_id": "chatgpt-2026-10-15-site-limits-plus-and-pro-cd34b3a8",
+      "product": "chatgpt",
+      "product_name": "ChatGPT",
+      "date": "2026-10-15",
+      "version": "Site limits (Plus and Pro)",
+      "title": "Site limits (Plus and Pro)",
+      "body": "There is no longer a fixed limit on the number of Sites you can create. Usage and storage limits continue to apply.For usage and limits, see: Creating and using ChatGPT Sites.",
+      "source_summary": "There is no longer a fixed limit on the number of Sites you can create. Usage and storage limits continue to apply.For usage and limits, see: Creating and using ChatGPT Sites.",
+      "source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#site-limits-plus-and-pro",
+      "source_type": "chatgpt_changelog"
+    },
+    {
+      "release_id": "chatgpt-2026-10-16-create-and-collaborate-on-slides-in-chatgpt-0e009a16",
+      "product": "chatgpt",
+      "product_name": "ChatGPT",
+      "date": "2026-10-16",
+      "version": "Create and collaborate on slides in ChatGPT",
+      "title": "Create and collaborate on slides in ChatGPT",
+      "body": "ChatGPT Slides lets you create presentations and keep working on them with your team in Space. Start from a conversation, files, or an outline, or share an example deck to guide the style and layout.\n- Create and refine. Edit text, images, shapes, and charts directly, or ask ChatGPT to make changes. Generate custom images or add your own.\n- Work together. Invite teammates to edit the same deck in real time and leave shared comments.\n- Present or export. Present directly from ChatGPT. On the web, export to PowerPoint, PDF, or Google Slides. In the desktop app, open your deck in PowerPoint or Keynote when those apps are installed.\nSlides is rolling out to eligible Pro, Business, and Enterprise users with Space access on the web and in the desktop app. To get started, ask ChatGPT in Work to create a presentation in Space.",
+      "source_summary": "ChatGPT Slides lets you create presentations and keep working on them with your team in Space. Start from a conversation, files, or an outline, or share an example deck to guide the style and layout.",
+      "source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-collaborate-on-slides-in-chatgpt",
+      "source_type": "chatgpt_changelog"
+    },
+    {
+      "release_id": "chatgpt-2026-10-16-updates-to-gpt-6-pro-model-in-chatgpt-6a44f64a",
+      "product": "chatgpt",
+      "product_name": "ChatGPT",
+      "date": "2026-10-16",
+      "version": "Updates to GPT-6 Pro model in ChatGPT",
+      "title": "Updates to GPT-6 Pro model in ChatGPT",
+      "body": "GPT-6 Pro in the chat tab now offers:\n- Faster responses\n- Improved use of plugins and tools to carry out tasks.\n- Multiple agents that can work on different parts of a task in parallel. You can follow their progress in the conversation and open completed tasks to see what each agent did.\nThis update is rolling out to eligible Pro users in ChatGPT. Availability in managed workspaces depends on workspace settings and rollout eligibility.",
+      "source_summary": "GPT-6 Pro in the chat tab now offers:",
+      "source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-gpt-6-pro-model-in-chatgpt",
+      "source_type": "chatgpt_changelog"
+    },
+    {
+      "release_id": "chatgpt-2026-10-20-introducing-locked-chats-4e90035d",
+      "product": "chatgpt",
+      "product_name": "ChatGPT",
+      "date": "2026-10-20",
+      "version": "Introducing locked chats",
+      "title": "Introducing locked chats",
+      "body": "Locked chats let you keep selected conversations in your account while hiding them from regular chat history, pinned chats, and search. Open them with your 4-digit account PIN or supported device authentication. Your retention and model-improvement settings stay unchanged.Locked chats are rolling out gradually to Free, Go, Plus, and Pro users on the web, in the iOS and Android apps, and in the new ChatGPT desktop app for macOS and Windows. To lock a chat, open a chat’s more options menu (•••) and select Lock chat.Learn more about locked chats.",
+      "source_summary": "Locked chats let you keep selected conversations in your account while hiding them from regular chat history, pinned chats, and search. Open them with your 4-digit account PIN or supported device authentication. Your retention and model-improvement settings stay unchanged.Locked chats are rolling out gradually to Free…",
+      "source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-locked-chats",
+      "source_type": "chatgpt_changelog"
+    }
+  ],
+  "changed_existing_fields": {
+    "chatgpt-2026-09-09-updated-models-and-usage-limits-in-chatgpt-voice-03e6b03f": [
+      "source_url"
+    ],
+    "chatgpt-2026-07-14-search-across-chats-projects-and-files-is-now-supercharged-90a28571": [
+      "source_url"
+    ],
+    "chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5": [
+      "source_url"
+    ],
+    "chatgpt-2024-07-18-introducing-gpt-4o-mini-e0bf3077": [
+      "source_url"
+    ],
+    "chatgpt-2023-07-20-custom-instructions-are-rolling-out-in-beta-bf9360b9": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-29-creating-editing-and-scheduling-sites-bb025dd6": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-11-planned-custom-gpt-retirement-and-migration-to-plugins-05b21afb": [
+      "source_url"
+    ],
+    "chatgpt-2025-10-15-chatgpt-can-now-automatically-manage-saved-memories-so-it-s-even-00bd082a": [
+      "source_url"
+    ],
+    "chatgpt-2026-06-26-retiring-gpt-4-5-41879baf": [
+      "source_url"
+    ],
+    "chatgpt-2026-04-21-chatgpt-images-2-0-in-chatgpt-7e4d6415": [
+      "source_url"
+    ],
+    "chatgpt-2026-02-19-interactive-code-blocks-in-chatgpt-c2254f84": [
+      "source_url"
+    ],
+    "chatgpt-2025-04-29-updates-to-gpt-4o-3c847c95": [
+      "source_url"
+    ],
+    "chatgpt-2025-04-16-memory-with-search-0b018fd4": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-22-create-flashcards-in-chatgpt-5687648f": [
+      "source_url"
+    ],
+    "chatgpt-2024-04-01-start-using-chatgpt-instantly-40988be9": [
+      "source_url"
+    ],
+    "chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37": [
+      "source_url"
+    ],
+    "chatgpt-2025-12-18-introducing-the-app-directory-in-chatgpt-c4ab90ba": [
+      "source_url"
+    ],
+    "chatgpt-2023-01-09-updates-to-chatgpt-0d776ee3": [
+      "source_url"
+    ],
+    "chatgpt-2026-08-21-faster-long-conversations-on-the-web-5897e77b": [
+      "source_url"
+    ],
+    "chatgpt-2026-03-10-auto-top-up-for-flexible-usage-credits-462c6ddf": [
+      "source_url"
+    ],
+    "chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35": [
+      "source_url"
+    ],
+    "chatgpt-2025-11-21-more-images-in-answers-f12c1477": [
+      "source_url"
+    ],
+    "chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d": [
+      "source_url"
+    ],
+    "chatgpt-2023-11-21-chatgpt-with-voice-is-available-to-all-users-d2d904ca": [
+      "source_url"
+    ],
+    "chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5": [
+      "source_url"
+    ],
+    "chatgpt-2026-02-10-gpt-5-2-instant-update-09d95a8b": [
+      "source_url"
+    ],
+    "chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0": [
+      "source_url"
+    ],
+    "chatgpt-2026-01-12-dictation-updates-a47f3da4": [
+      "source_url"
+    ],
+    "chatgpt-2026-08-31-improved-pronunciation-help-in-chatgpt-c8d14d5b": [
+      "source_url"
+    ],
+    "chatgpt-2026-04-09-gpt-5-3-instant-mini-in-chatgpt-bf5ed7ff": [
+      "source_url"
+    ],
+    "chatgpt-2025-11-07-personality-and-custom-instructions-now-apply-to-all-chats-81e2ff22": [
+      "source_url"
+    ],
+    "chatgpt-2026-05-28-retiring-openai-o3-and-gpt-4-5-bb3c534d": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-23-use-plugins-in-voice-and-get-work-done-by-speaking-fa63def1": [
+      "source_url"
+    ],
+    "chatgpt-2024-12-13-projects-in-chatgpt-01b98e1c": [
+      "source_url"
+    ],
+    "chatgpt-2026-01-20-voice-updates-432d340b": [
+      "source_url"
+    ],
+    "chatgpt-2026-04-02-chatgpt-in-apple-carplay-3c2ba8a2": [
+      "source_url"
+    ],
+    "chatgpt-2023-07-06-code-interpreter-is-now-rolling-out-in-beta-on-web-427b9bc0": [
+      "source_url"
+    ],
+    "chatgpt-2025-10-28-chatgpt-go-now-available-in-brazil-6c8c9319": [
+      "source_url"
+    ],
+    "chatgpt-2026-10-06-audio-uploads-in-chatgpt-e9ed5a9f": [
+      "source_url"
+    ],
+    "chatgpt-2026-08-21-improved-plugin-discovery-on-web-and-mobile-4a2c9c9b": [
+      "source_url"
+    ],
+    "chatgpt-2026-07-06-gpt-5-5-instant-mini-in-chatgpt-1ce53754": [
+      "source_url"
+    ],
+    "chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5": [
+      "source_url"
+    ],
+    "chatgpt-2023-11-06-introducing-gpts-3721c457": [
+      "source_url"
+    ],
+    "chatgpt-2026-07-29-chatgpt-for-academic-researchers-9c67fb00": [
+      "source_url"
+    ],
+    "chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad": [
+      "source_url"
+    ],
+    "chatgpt-2026-03-27-updated-box-notion-linear-and-dropbox-apps-c362d055": [
+      "source_url"
+    ],
+    "chatgpt-2025-10-23-shared-projects-217fa07d": [
+      "source_url"
+    ],
+    "chatgpt-2025-05-12-microsoft-sharepoint-and-onedrive-connector-for-deep-research-fo-f616305b": [
+      "source_url"
+    ],
+    "chatgpt-2026-03-11-retiring-gpt-5-1-models-279eddb4": [
+      "source_url"
+    ],
+    "chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-17-connect-multiple-accounts-to-plugins-in-chatgpt-4c1d9bb4": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-29-a-new-pro-plan-with-astra-ultrafast-f0c84e90": [
+      "source_url"
+    ],
+    "chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572": [
+      "source_url"
+    ],
+    "chatgpt-2026-01-20-rolling-out-age-prediction-2382655a": [
+      "source_url"
+    ],
+    "chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba": [
+      "source_url"
+    ],
+    "chatgpt-2026-08-21-interactive-content-appears-sooner-on-the-web-514686ac": [
+      "source_url"
+    ],
+    "chatgpt-2026-08-04-large-pastes-are-now-handled-as-attachments-for-all-plans-8f11f30a": [
+      "source_url"
+    ],
+    "chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd": [
+      "source_url"
+    ],
+    "chatgpt-2025-06-04-connectors-in-beta-for-deep-research-plus-pro-team-enterprise-ed-6bb21f0f": [
+      "source_url"
+    ],
+    "chatgpt-2026-08-31-use-website-tools-in-the-desktop-browser-6c07f08a": [
+      "source_url"
+    ],
+    "chatgpt-2025-04-16-o3-and-o4-mini-in-chatgpt-1fd34eaa": [
+      "source_url"
+    ],
+    "chatgpt-2026-08-04-new-education-plugins-for-students-and-educators-d6701667": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-17-chatgpt-for-word-f072ecd9": [
+      "source_url"
+    ],
+    "chatgpt-2026-06-24-gpt-5-5-instant-update-6c17e30e": [
+      "source_url"
+    ],
+    "chatgpt-2026-07-09-retiring-group-chats-in-chatgpt-b45b9e40": [
+      "source_url"
+    ],
+    "chatgpt-2025-11-24-shopping-research-in-chatgpt-1b8ce931": [
+      "source_url"
+    ],
+    "chatgpt-2023-08-09-custom-instructions-are-now-available-to-free-users-47df9fa5": [
+      "source_url"
+    ],
+    "chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524": [
+      "source_url"
+    ],
+    "chatgpt-2026-07-09-retiring-atlas-c6a8b965": [
+      "source_url"
+    ],
+    "chatgpt-2024-05-13-introducing-gpt-4o-0a0709f8": [
+      "source_url"
+    ],
+    "chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8": [
+      "source_url"
+    ],
+    "chatgpt-2025-07-24-chat-search-for-hubspot-and-custom-connectors-mcp-pro-f49427a3": [
+      "source_url"
+    ],
+    "chatgpt-2025-02-06-canvas-sharing-5abe3818": [
+      "source_url"
+    ],
+    "chatgpt-2026-07-13-chatgpt-returns-to-whatsapp-in-the-eea-ce61ee08": [
+      "source_url"
+    ],
+    "chatgpt-2023-01-30-factuality-and-mathematical-improvements-bde45cd9": [
+      "source_url"
+    ],
+    "chatgpt-2025-10-13-slack-connector-and-app-931a6153": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-21-privacy-center-in-chatgpt-ecef9fba": [
+      "source_url"
+    ],
+    "chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690": [
+      "source_url"
+    ],
+    "chatgpt-2026-08-31-see-live-voice-content-on-your-lock-screen-3b9abebd": [
+      "source_url"
+    ],
+    "chatgpt-2025-05-06-mobile-ui-ios-android-changing-on-free-plus-pro-plans-be1d56cb": [
+      "source_url"
+    ],
+    "chatgpt-2026-06-02-active-account-session-controls-0830d01c": [
+      "source_url"
+    ],
+    "chatgpt-2023-08-28-introducing-chatgpt-enterprise-eb7127e6": [
+      "source_url"
+    ],
+    "chatgpt-2025-05-08-github-connector-for-deep-research-for-plus-pro-team-498e1135": [
+      "source_url"
+    ],
+    "chatgpt-2026-08-31-create-and-share-personalized-sticker-packs-120616f6": [
+      "source_url"
+    ],
+    "chatgpt-2026-03-05-gpt-5-4-thinking-in-chatgpt-df7dc812": [
+      "source_url"
+    ],
+    "chatgpt-2026-05-07-trusted-contact-in-chatgpt-941ecbdd": [
+      "source_url"
+    ],
+    "chatgpt-2025-12-16-chatgpt-images-on-web-and-mobile-ios-android-bd6b2208": [
+      "source_url"
+    ],
+    "chatgpt-2025-11-19-gpt-5-1-pro-clearer-more-capable-answers-for-complex-work-78316657": [
+      "source_url"
+    ],
+    "chatgpt-2026-04-30-advanced-account-security-in-chatgpt-d81bf569": [
+      "source_url"
+    ],
+    "chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1": [
+      "source_url"
+    ],
+    "chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d": [
+      "source_url"
+    ],
+    "chatgpt-2026-05-14-codex-remote-access-from-the-chatgpt-mobile-app-50be5441": [
+      "source_url"
+    ],
+    "chatgpt-2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-fc1a6be9": [
+      "source_url"
+    ],
+    "chatgpt-2026-08-28-connect-multiple-google-accounts-to-chatgpt-06db9b52": [
+      "source_url"
+    ],
+    "chatgpt-2025-05-01-sunsetting-monday-gpt-9d013d1e": [
+      "source_url"
+    ],
+    "chatgpt-2026-04-16-rolling-out-ads-in-australia-new-zealand-and-canada-82e516b1": [
+      "source_url"
+    ],
+    "chatgpt-2025-10-09-adding-notion-linear-synced-connectors-8b3828f2": [
+      "source_url"
+    ],
+    "chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a": [
+      "source_url"
+    ],
+    "chatgpt-2025-03-18-ios-app-6a42bb0f": [
+      "source_url"
+    ],
+    "chatgpt-2026-05-28-gpt-5-5-instant-update-6c17e30e": [
+      "source_url"
+    ],
+    "chatgpt-2026-04-22-fast-answers-in-chatgpt-300ebea9": [
+      "source_url"
+    ],
+    "chatgpt-2026-10-01-scan-notes-and-documents-more-easily-with-chatgpt-camera-29008b79": [
+      "source_url"
+    ],
+    "chatgpt-2026-06-22-large-pastes-are-now-handled-as-attachments-for-more-plans-64db97b0": [
+      "source_url"
+    ],
+    "chatgpt-2025-09-29-parental-controls-8b95b69a": [
+      "source_url"
+    ],
+    "chatgpt-2025-08-07-personalities-0d95bb60": [
+      "source_url"
+    ],
+    "chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7": [
+      "source_url"
+    ],
+    "chatgpt-2023-08-03-updates-to-chatgpt-0d776ee3": [
+      "source_url"
+    ],
+    "chatgpt-2026-08-21-more-time-aware-answers-3575e557": [
+      "source_url"
+    ],
+    "chatgpt-2025-05-12-export-deep-research-as-pdf-for-plus-pro-team-27caae9f": [
+      "source_url"
+    ],
+    "chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7": [
+      "source_url"
+    ],
+    "chatgpt-2025-12-22-your-year-with-chatgpt-6dbbef4d": [
+      "source_url"
+    ],
+    "chatgpt-2023-03-14-announcing-gpt-4-in-chatgpt-43063370": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-29-meetings-plugin-157dcc24": [
+      "source_url"
+    ],
+    "chatgpt-2023-09-27-browsing-is-rolling-back-out-to-plus-users-73e98403": [
+      "source_url"
+    ],
+    "chatgpt-2026-06-01-find-live-jobs-and-format-your-resume-in-chatgpt-69ee518e": [
+      "source_url"
+    ],
+    "chatgpt-2026-05-05-memory-sources-and-more-personalized-responses-in-chatgpt-67d43ddb": [
+      "source_url"
+    ],
+    "chatgpt-2025-09-15-personalization-settings-are-now-in-settings-bdb1bffc": [
+      "source_url"
+    ],
+    "chatgpt-2025-08-07-chatgpt-voice-updates-1159fad7": [
+      "source_url"
+    ],
+    "chatgpt-2025-09-04-branch-conversations-on-web-335d0aa3": [
+      "source_url"
+    ],
+    "chatgpt-2024-12-10-canvas-a457e8f0": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-29-share-your-profile-and-showcase-your-sites-b1579ad3": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-29-sign-in-to-other-products-with-chatgpt-3054f3c5": [
+      "source_url"
+    ],
+    "chatgpt-2024-11-19-advanced-voice-for-chatgpt-web-e7868264": [
+      "source_url"
+    ],
+    "chatgpt-2026-06-26-personal-finance-in-chatgpt-expands-to-plus-users-and-android-e1f9ce56": [
+      "source_url"
+    ],
+    "chatgpt-2026-07-09-skills-are-now-generally-available-24f58f9d": [
+      "source_url"
+    ],
+    "chatgpt-2026-07-08-introducing-gpt-live-1-in-chatgpt-voice-9a0cfc91": [
+      "source_url"
+    ],
+    "chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2": [
+      "source_url"
+    ],
+    "chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810": [
+      "source_url"
+    ],
+    "chatgpt-2026-03-23-file-library-in-chatgpt-7107c619": [
+      "source_url"
+    ],
+    "chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c": [
+      "source_url"
+    ],
+    "chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7": [
+      "source_url"
+    ],
+    "chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96": [
+      "source_url"
+    ],
+    "chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a": [
+      "source_url"
+    ],
+    "chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4": [
+      "source_url"
+    ],
+    "chatgpt-2026-01-30-more-visual-responses-d2d2073c": [
+      "source_url"
+    ],
+    "chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98": [
+      "source_url"
+    ],
+    "chatgpt-2026-04-22-chatgpt-for-clinicians-4ccc54d7": [
+      "source_url"
+    ],
+    "chatgpt-2026-03-25-large-pastes-are-now-handled-as-attachments-6bacf64e": [
+      "source_url"
+    ],
+    "chatgpt-2025-11-20-instant-checkout-now-rolling-out-to-shopify-merchants-87a5d6b7": [
+      "source_url"
+    ],
+    "chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574": [
+      "source_url"
+    ],
+    "chatgpt-2026-05-05-gpt-5-5-instant-in-chatgpt-6a2694d3": [
+      "source_url"
+    ],
+    "chatgpt-2026-02-09-testing-ads-in-chatgpt-free-go-df231623": [
+      "source_url"
+    ],
+    "chatgpt-2026-08-14-edit-memory-settings-for-existing-projects-db366858": [
+      "source_url"
+    ],
+    "chatgpt-2026-01-15-improved-memory-for-finding-details-from-past-chats-plus-pro-7ff26748": [
+      "source_url"
+    ],
+    "chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44": [
+      "source_url"
+    ],
+    "chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8": [
+      "source_url"
+    ],
+    "chatgpt-2025-06-07-updates-to-advanced-voice-mode-for-paid-users-55969446": [
+      "source_url"
+    ],
+    "chatgpt-2025-06-16-expanded-model-support-for-custom-gpts-55f4555f": [
+      "source_url"
+    ],
+    "chatgpt-2026-08-21-updates-to-chatgpt-on-android-8e3bdeee": [
+      "source_url"
+    ],
+    "chatgpt-2026-08-31-use-the-browser-extension-in-more-browsers-87a64682": [
+      "source_url"
+    ],
+    "chatgpt-2026-03-26-location-sharing-b07f88a6": [
+      "source_url"
+    ],
+    "chatgpt-2026-01-29-retiring-gpt-4o-and-other-legacy-models-71b41b16": [
+      "source_url"
+    ],
+    "chatgpt-2025-11-12-new-tone-and-personalization-controls-8052eeb3": [
+      "source_url"
+    ],
+    "chatgpt-2025-10-14-chatgpt-go-expansion-37d00d9f": [
+      "source_url"
+    ],
+    "chatgpt-2024-08-08-dall-e-3-for-chatgpt-free-users-379feaa2": [
+      "source_url"
+    ],
+    "chatgpt-2025-08-12-gpt-5-updates-9aaeee46": [
+      "source_url"
+    ],
+    "chatgpt-2023-08-21-custom-instructions-are-now-available-to-users-in-the-eu-uk-c7c52345": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-10-box-dropbox-and-sharepoint-are-now-in-library-e089c018": [
+      "source_url"
+    ],
+    "chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d": [
+      "source_url"
+    ],
+    "chatgpt-2026-05-15-personal-finances-in-chatgpt-028801eb": [
+      "source_url"
+    ],
+    "chatgpt-2025-07-17-updates-to-advanced-voice-mode-for-free-tier-users-eeba7562": [
+      "source_url"
+    ],
+    "chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464": [
+      "source_url"
+    ],
+    "chatgpt-2025-08-08-image-generation-update-to-chatgpt-free-1b23f923": [
+      "source_url"
+    ],
+    "chatgpt-2023-10-17-browsing-is-now-out-of-beta-6432b7b5": [
+      "source_url"
+    ],
+    "chatgpt-2025-07-24-canva-and-notion-connectors-pro-0091bf22": [
+      "source_url"
+    ],
+    "chatgpt-2025-06-24-project-file-limit-increased-pro-a6870635": [
+      "source_url"
+    ],
+    "chatgpt-2025-04-25-improvements-to-gpt-4o-4bcfc1a7": [
+      "source_url"
+    ],
+    "chatgpt-2025-04-10-sunsetting-gpt-4-in-chatgpt-fe1e4ad7": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-29-create-and-collaborate-on-pages-aae35683": [
+      "source_url"
+    ],
+    "chatgpt-2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-f7dcb357": [
+      "source_url"
+    ],
+    "chatgpt-2025-09-25-introducing-chatgpt-pulse-for-pro-users-5be6c168": [
+      "source_url"
+    ],
+    "chatgpt-2026-07-31-retiring-the-dall-e-gpt-582d3c79": [
+      "source_url"
+    ],
+    "chatgpt-2025-05-14-introducing-gpt-4-1-mini-replacing-gpt-4o-mini-in-chatgpt-for-al-05dfeae0": [
+      "source_url"
+    ],
+    "chatgpt-2025-10-08-chatgpt-go-expansion-37d00d9f": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-14-changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-p-54d16c58": [
+      "source_url"
+    ],
+    "chatgpt-2025-05-15-github-connector-for-deep-research-0808a124": [
+      "source_url"
+    ],
+    "chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d": [
+      "source_url"
+    ],
+    "chatgpt-2026-01-26-improvements-to-search-response-quality-in-voice-f8293292": [
+      "source_url"
+    ],
+    "chatgpt-2025-11-12-gpt-5-1-in-chatgpt-3b83bb2f": [
+      "source_url"
+    ],
+    "chatgpt-2023-09-11-chatgpt-language-support-alpha-on-web-2a9614e3": [
+      "source_url"
+    ],
+    "chatgpt-2025-07-29-study-mode-ffbfbea6": [
+      "source_url"
+    ],
+    "chatgpt-2026-03-16-gpt-5-3-instant-update-a32de9bf": [
+      "source_url"
+    ],
+    "chatgpt-2026-02-10-updates-to-deep-research-d407d051": [
+      "source_url"
+    ],
+    "chatgpt-2026-10-07-gpt-6-and-intelligent-ui-in-chatgpt-43bd07f7": [
+      "source_url"
+    ],
+    "chatgpt-2025-06-10-today-we-re-launching-openai-o3-pro-available-now-for-pro-users-43fd47c2": [
+      "source_url"
+    ],
+    "chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-29-start-automations-from-connected-app-events-9ef6c936": [
+      "source_url"
+    ],
+    "chatgpt-2026-06-26-improved-dictation-in-chatgpt-19d2c1ea": [
+      "source_url"
+    ],
+    "chatgpt-2023-10-16-dall-e-3-is-now-rolling-out-in-beta-d2dd292b": [
+      "source_url"
+    ],
+    "chatgpt-2026-08-13-google-drive-is-now-in-library-bbf66648": [
+      "source_url"
+    ],
+    "chatgpt-2026-08-10-restaurant-reservations-in-chatgpt-07c9e578": [
+      "source_url"
+    ],
+    "chatgpt-2026-06-04-memory-that-stays-more-up-to-date-8fc83f65": [
+      "source_url"
+    ],
+    "chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7": [
+      "source_url"
+    ],
+    "chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7": [
+      "source_url"
+    ],
+    "chatgpt-2026-08-13-computer-history-for-macos-4b03e9a3": [
+      "source_url"
+    ],
+    "chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6": [
+      "source_url"
+    ],
+    "chatgpt-2026-05-14-file-library-expands-to-free-and-go-users-with-storage-managemen-94a98ddb": [
+      "source_url"
+    ],
+    "chatgpt-2026-07-29-sign-in-with-chatgpt-d166182a": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-29-pro-200-subscriptions-a351b7b9": [
+      "source_url"
+    ],
+    "chatgpt-2025-12-18-pinned-chats-in-chatgpt-f0483839": [
+      "source_url"
+    ],
+    "chatgpt-2026-01-07-health-in-chatgpt-4cb3bdf6": [
+      "source_url"
+    ],
+    "chatgpt-2025-05-15-dropbox-connector-for-deep-research-for-plus-pro-team-25e1576a": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-21-credit-scores-in-finances-a66dbae8": [
+      "source_url"
+    ],
+    "chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-03-share-sites-with-people-outside-your-workspace-88fde38a": [
+      "source_url"
+    ],
+    "chatgpt-2025-11-13-group-chats-in-chatgpt-8a8193ad": [
+      "source_url"
+    ],
+    "chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272": [
+      "source_url"
+    ],
+    "chatgpt-2025-12-11-voice-on-macos-desktop-app-is-retiring-effective-january-15-2026-189e8580": [
+      "source_url"
+    ],
+    "chatgpt-2026-08-06-updates-to-gpt-5-6-in-chatgpt-29572055": [
+      "source_url"
+    ],
+    "chatgpt-2025-08-12-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-db727e12": [
+      "source_url"
+    ],
+    "chatgpt-2025-01-15-import-from-chat-into-canvas-e328bc82": [
+      "source_url"
+    ],
+    "chatgpt-2025-01-14-scheduled-tasks-in-chatgpt-b8005b4a": [
+      "source_url"
+    ],
+    "chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-29-organize-your-work-in-chatgpt-space-234deac3": [
+      "source_url"
+    ],
+    "chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292": [
+      "source_url"
+    ],
+    "chatgpt-2025-08-13-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-14e603bd": [
+      "source_url"
+    ],
+    "chatgpt-2026-10-01-new-ways-to-shop-in-chatgpt-e89d4d85": [
+      "source_url"
+    ],
+    "chatgpt-2025-05-14-releasing-gpt-4-1-in-chatgpt-for-all-paid-users-ab6fd3aa": [
+      "source_url"
+    ],
+    "chatgpt-2023-07-19-higher-message-limits-for-gpt-4-1b971518": [
+      "source_url"
+    ],
+    "chatgpt-2023-02-13-updates-to-chatgpt-0d776ee3": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-29-gpt-6-1-sol-in-chatgpt-work-and-codex-a0e5fef0": [
+      "source_url"
+    ],
+    "chatgpt-2026-01-22-5-2-personality-system-prompt-update-efbe6e4b": [
+      "source_url"
+    ],
+    "chatgpt-2025-04-15-chatgpt-image-library-83e31577": [
+      "source_url"
+    ],
+    "chatgpt-2026-03-03-gpt-5-3-instant-update-a32de9bf": [
+      "source_url"
+    ],
+    "chatgpt-2025-06-12-expanded-model-support-for-custom-gpts-55f4555f": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-01-healthcare-public-data-in-chatgpt-for-clinicians-d90a3c8e": [
+      "source_url"
+    ],
+    "chatgpt-2024-04-29-memory-is-now-available-to-plus-users-4ba2f306": [
+      "source_url"
+    ],
+    "chatgpt-2025-09-18-voice-updates-432d340b": [
+      "source_url"
+    ],
+    "chatgpt-2026-03-25-google-drive-app-unification-4e5cfa13": [
+      "source_url"
+    ],
+    "chatgpt-2025-11-05-interrupt-chatgpt-f1320118": [
+      "source_url"
+    ],
+    "chatgpt-2023-05-03-updates-to-chatgpt-0d776ee3": [
+      "source_url"
+    ],
+    "chatgpt-2026-03-10-interactive-learning-for-math-and-science-e25b67af": [
+      "source_url"
+    ],
+    "chatgpt-2026-02-20-expanded-context-window-for-thinking-31f2c4c2": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-03-zendesk-onenote-plugins-in-chatgpt-and-codex-beta-d31462ff": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-29-work-with-interactive-plugin-extensions-8f979183": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-03-introducing-gpt-6-astra-d055fc02": [
+      "source_url"
+    ],
+    "chatgpt-2025-06-18-chatgpt-record-mode-f7984257": [
+      "source_url"
+    ],
+    "chatgpt-2025-03-18-android-app-c47c961b": [
+      "source_url"
+    ],
+    "chatgpt-2025-08-15-gpt-5-updates-9aaeee46": [
+      "source_url"
+    ],
+    "chatgpt-2026-06-12-additional-controls-for-memory-summary-37c89b72": [
+      "source_url"
+    ],
+    "chatgpt-2026-03-18-gpt-5-4-mini-in-chatgpt-2d1677c3": [
+      "source_url"
+    ],
+    "chatgpt-2025-10-03-updating-gpt-5-a6c090c8": [
+      "source_url"
+    ],
+    "chatgpt-2025-10-29-chatgpt-pulse-on-web-18eeedf1": [
+      "source_url"
+    ],
+    "chatgpt-2023-07-03-browsing-is-temporarily-disabled-aaf0005e": [
+      "source_url"
+    ],
+    "chatgpt-2026-02-13-retiring-gpt-4o-and-other-legacy-models-71b41b16": [
+      "source_url"
+    ],
+    "chatgpt-2025-08-07-gpt-5-a50b91bc": [
+      "source_url"
+    ],
+    "chatgpt-2023-07-25-introducing-the-chatgpt-app-for-android-a5c30ad5": [
+      "source_url"
+    ],
+    "chatgpt-2026-10-02-finances-expands-to-free-and-go-users-58adba1b": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-25-security-history-in-chatgpt-5ecdb0cb": [
+      "source_url"
+    ],
+    "chatgpt-2026-07-23-chatgpt-voice-in-work-and-codex-on-desktop-449df8e7": [
+      "source_url"
+    ],
+    "chatgpt-2026-06-12-retiring-gpt-5-2-models-8b6fe7f1": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-10-data-plugin-in-chatgpt-work-and-codex-a8ab26d9": [
+      "source_url"
+    ],
+    "chatgpt-2026-04-28-easier-model-selection-in-chatgpt-f4badb6d": [
+      "source_url"
+    ],
+    "chatgpt-2026-06-04-rolling-out-ads-in-the-uk-6015e870": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-28-explore-your-health-data-with-personalized-summaries-bc04c126": [
+      "source_url"
+    ],
+    "chatgpt-2026-08-07-files-and-projects-in-chatgpt-voice-aaa6fa65": [
+      "source_url"
+    ],
+    "chatgpt-2025-01-17-more-personalization-in-custom-instructions-bab36367": [
+      "source_url"
+    ],
+    "chatgpt-2026-08-21-updates-to-chatgpt-on-ios-148662ce": [
+      "source_url"
+    ],
+    "chatgpt-2026-03-26-a-simplified-sidebar-on-mobile-0f580b11": [
+      "source_url"
+    ],
+    "chatgpt-2026-03-24-shopping-updates-in-chatgpt-4ca736aa": [
+      "source_url"
+    ],
+    "chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5": [
+      "source_url"
+    ],
+    "chatgpt-2025-06-24-chat-search-connectors-pro-a20d1d1a": [
+      "source_url"
+    ],
+    "chatgpt-2025-11-03-chatgpt-go-promo-india-d9dd74b7": [
+      "source_url"
+    ],
+    "chatgpt-2026-04-08-outlook-shared-mailboxes-and-calendars-in-chatgpt-51092ccc": [
+      "source_url"
+    ],
+    "chatgpt-2026-05-05-chatgpt-for-excel-and-google-sheets-a25132e0": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-29-meet-your-dot-8b9f914b": [
+      "source_url"
+    ],
+    "chatgpt-2026-08-25-chatgpt-work-can-now-complete-tasks-on-signed-in-websites-d2be314c": [
+      "source_url"
+    ],
+    "chatgpt-2026-03-17-updates-to-the-model-picker-in-chatgpt-764a9949": [
+      "source_url"
+    ],
+    "chatgpt-2025-09-03-projects-now-available-on-chatgpt-free-tier-000f73ae": [
+      "source_url"
+    ],
+    "chatgpt-2026-08-27-more-controls-in-temporary-chat-5ca95d13": [
+      "source_url"
+    ],
+    "chatgpt-2026-03-17-sunsetting-the-nerdy-base-style-f0e6829f": [
+      "source_url"
+    ],
+    "chatgpt-2025-06-04-custom-connectors-via-model-context-protocol-pro-team-enterprise-a1bc36f5": [
+      "source_url"
+    ],
+    "chatgpt-2026-02-12-chatgpt-voice-update-c17a6a9f": [
+      "source_url"
+    ],
+    "chatgpt-2025-09-09-chatgpt-voice-update-c17a6a9f": [
+      "source_url"
+    ],
+    "chatgpt-2025-08-07-accent-colors-d6573a1d": [
+      "source_url"
+    ],
+    "chatgpt-2025-10-30-chatgpt-go-expansion-37d00d9f": [
+      "source_url"
+    ],
+    "chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c": [
+      "source_url"
+    ],
+    "chatgpt-2026-02-04-update-on-thinking-time-settings-for-gpt-5-2-thinking-in-chatgpt-6e7ea431": [
+      "source_url"
+    ],
+    "chatgpt-2026-07-15-increased-custom-instructions-limit-dcba82c8": [
+      "source_url"
+    ],
+    "chatgpt-2025-08-22-project-only-memory-3424a221": [
+      "source_url"
+    ],
+    "chatgpt-2026-03-19-legacy-deep-research-mode-deprecation-notice-99d97534": [
+      "source_url"
+    ],
+    "chatgpt-2026-05-12-more-images-in-answers-for-free-users-34680cb9": [
+      "source_url"
+    ],
+    "chatgpt-2025-12-19-new-detailed-characteristic-controls-fa363df4": [
+      "source_url"
+    ],
+    "chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3": [
+      "source_url"
+    ]
+  },
+  "html_bytes": 910690,
+  "sha256": "e67d5b8105942a9134c55044491e169eae2323a47b4f6aa24416f1e41e58ff9e",
+  "capture": {
+    "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "captured_at": "2026-10-23T12:07:22.643Z",
+    "method": "browser-rendered document.documentElement.outerHTML; 100000-character chunks",
+    "dom_characters": 907918,
+    "exported_characters": 907918,
+    "chunk_count": 10
+  }
+}
