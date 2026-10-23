@@ -1,0 +1,14 @@
+{
+  "archive.json": "3f5b62bef409ffa2867980d9ac0a058c71736cc5e3bf24ef0580e38060be0061",
+  "browser-capture.json": "8ede006624a09ab87d20a735b53819d1da295caa73d51062f208ac691a5e6cde",
+  "build.log": "59585d74be005f6a83f75e568c6da550428f8453ba5138d423d74f9e2882c98b",
+  "collection.json.gz": "a3ac203a64107a8ed95607349a85149f2a70c2dea23193ee490185a1dfc02b8d",
+  "previous-schedule-quality.json": "ffffc55f4a9221373450731d8fce49f497c23d5710be17f0673a88010e6fa26e",
+  "publication.json": "bd0c35609165ccf47fe17681e259c5aff860023d13c298c6c5846e0467149bf6",
+  "quality.json": "efc18d7ae2f6ff5349aad076cf980da30bd0892437efb2fd6eb9f6a52c756131",
+  "quality.md": "b9a7de2f4e1ecb5c1e4758d7acb29e921fede481c967628cc9e5762fd171bf6b",
+  "snapshot-capture.json": "af3752bfeea4be3f3880ca4f49e0fdc1388892648aed75626ae6313e48dce139",
+  "snapshot-comparison.json": "1007d8bc7489cb9a8316e087a06061bea1dfecf75abdf1021294273bcc115618",
+  "tests.log": "3cc84f4bcad39e01b571085721775fff1e4585fc1a2a2530b09d7629958de815",
+  "vault-validation.json": "71beaa1469aeb82da7a3fe40cefd7e9d7005e4d541ce496725d8183caf843d38"
+}
