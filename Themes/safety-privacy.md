@@ -1,10 +1,10 @@
 ---
 created: '2023-04-16'
-date: '2026-10-22'
+date: '2026-10-23'
 description: 'Research question: which safeguards and privacy controls do the tracked
   products add, and for whom?'
-machine_hash: b7af88896bb21441d73303ec4fc7b0a342dc4fa1e73dd778f7a3438cefddc7fa
-modified: '2026-10-22'
+machine_hash: 60c64e50c68053891d18a81ec32a753fe24f7d85b4d78411b3d66977d2eaa2c1
+modified: '2026-10-23'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Safety and Privacy
 <!-- chronolog:begin region="header" -->
 # Safety and Privacy
 
-186 tracked changes across ChatGPT, Claude Code and Cursor · 2023-04-16 → 2026-10-22 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
+187 tracked changes across ChatGPT, Claude Code and Cursor · 2023-04-16 → 2026-10-23 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -58,10 +58,11 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 172 entries (ChatGPT 8 · Claude Code 145 · Cursor 19)
+### 2026 · 173 entries (ChatGPT 8 · Claude Code 146 · Cursor 19)
 
 #### 2026-10
 
+- 2026-10-23 · **Claude Code** · [[Changes/Claude Code/2026-10-23-4-safety-and-privacy-changes-in-v2-1-310|4 Safety and Privacy changes in v2.1.310]] · Digest
 - 2026-10-22 · **Claude Code** · [[Changes/Claude Code/2026-10-22-8-safety-and-privacy-changes-in-v2-1-309|8 Safety and Privacy changes in v2.1.309]] · Digest
 - 2026-10-21 · **Claude Code** · [[Changes/Claude Code/2026-10-21-added-the-claude-code-safety-event-opentelemetry-event-for-each-tool-call-a-perm|Added the claude_code.safety_event OpenTelemetry event for each tool call…]]
 - 2026-10-20 · **Claude Code** · [[Changes/Claude Code/2026-10-20-3-safety-and-privacy-changes-in-v2-1-305|3 Safety and Privacy changes in v2.1.305]] · Digest

@@ -1,9 +1,9 @@
 ---
 created: '2023-07-06'
-date: '2026-10-22'
+date: '2026-10-23'
 description: 'Research question: what changed in delegated execution?'
-machine_hash: cf8b2ae43c210848a433f90fd4c1a4217562624ef68406c4d434e318dea218cd
-modified: '2026-10-22'
+machine_hash: 63b8ecbf8855a7ca86ba5a000cd3479830132e64bec4bda2d0f663681fb35d3e
+modified: '2026-10-23'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -20,7 +20,7 @@ title: Agent Mode
 <!-- chronolog:begin region="header" -->
 # Agent Mode
 
-255 tracked changes across ChatGPT, Claude Code and Cursor · 2023-07-06 → 2026-10-22 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
+256 tracked changes across ChatGPT, Claude Code and Cursor · 2023-07-06 → 2026-10-23 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -57,10 +57,11 @@ Claude Code's [v2.1.296 on 2026-10-09](https://github.com/anthropics/claude-code
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 199 entries (ChatGPT 3 · Claude Code 120 · Cursor 76)
+### 2026 · 200 entries (ChatGPT 3 · Claude Code 121 · Cursor 76)
 
 #### 2026-10
 
+- 2026-10-23 · **Claude Code** · [[Changes/Claude Code/2026-10-23-2-agent-mode-changes-in-v2-1-310|2 Agent Mode changes in v2.1.310]] · Digest
 - 2026-10-22 · **Claude Code** · [[Changes/Claude Code/2026-10-22-changed-the-claude-api-skill-to-build-managed-agents-subagent-teams-on-multiagen|Changed the /claude-api skill to build Managed Agents subagent teams…]]
 - 2026-10-21 · **Claude Code** · [[Changes/Claude Code/2026-10-21-improved-fork-subagents-launched-together-each-is-now-told-which-launch-is-its-o|Improved fork subagents launched together]]
 - 2026-10-19 · **Claude Code** · [[Changes/Claude Code/2026-10-19-2-agent-mode-changes-in-v2-1-304|2 Agent Mode changes in v2.1.304]] · Digest

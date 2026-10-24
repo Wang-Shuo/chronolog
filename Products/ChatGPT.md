@@ -15,7 +15,7 @@ created: '2022-12-15'
 date: '2026-10-20'
 description: OpenAI's conversational AI assistant, tracked through the official ChatGPT
   release notes in the OpenAI Help Center.
-machine_hash: dc00645eb8e14c85b4f14c8c7a8b91e2a133adf4da1bc3d66b8f53962d185e7c
+machine_hash: 90c8814bfe5c71f1d93cf3941dc2ffc74fb7fc26c9fdb00d76f55492f22b642a
 modified: '2026-10-20'
 product: chatgpt
 product_name: ChatGPT
@@ -60,7 +60,7 @@ OpenAI's conversational AI assistant, tracked through the official ChatGPT relea
 
 ## Release cadence
 <!-- chronolog:begin region="cadence" -->
-Last release 2026-10-20 (2 days before the archive date) · 73 releases in the last 90 days · cadence: normal
+Last release 2026-10-20 (3 days before the archive date) · 73 releases in the last 90 days · cadence: normal
 
 Monthly releases, last 12 months (baseline 6.2 per month):
 

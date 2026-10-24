@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 12f3eb0b1caa4544f76da7de4d2765a82aac4f7c2b90ff7e9835d434323eaa3d
+machine_hash: 2ac9eabfe041f33c3ff948c122837874d8036bf95fd7f5258cab52c996e92d7c
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,6 +88,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-2-developer-workflow-changes-in-v2-1-307|2 Developer Workflow changes in v2.1.307]]
+- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-code-review-improved-the-code-review-admin-section-to-retry-the-first-load-and-s|Code Review Improved the Code Review admin section to retry the first load…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

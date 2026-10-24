@@ -1,10 +1,10 @@
 ---
 created: '2023-03-18'
-date: '2026-10-22'
+date: '2026-10-23'
 description: Cross-product timeline of Developer Workflow changes in ChatGPT, Claude
   Code and Cursor.
-machine_hash: 8109e04257c0d6c76c3ca4ab79ac1f4f37c4b9c0f5d63c73e0b671fbcb3f4a3b
-modified: '2026-10-22'
+machine_hash: f79331bfcff10e12031b910120b3adfd6bcafa8dabd596a6785e078df47ad682
+modified: '2026-10-23'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Developer Workflow
 <!-- chronolog:begin region="header" -->
 # Developer Workflow
 
-205 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-18 → 2026-10-22 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
+206 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-18 → 2026-10-23 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -52,10 +52,11 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 154 entries (ChatGPT 1 · Claude Code 128 · Cursor 25)
+### 2026 · 155 entries (ChatGPT 1 · Claude Code 129 · Cursor 25)
 
 #### 2026-10
 
+- 2026-10-23 · **Claude Code** · [[Changes/Claude Code/2026-10-23-code-review-improved-the-code-review-admin-section-to-retry-the-first-load-and-s|Code Review Improved the Code Review admin section to retry the first load…]]
 - 2026-10-22 · **Claude Code** · [[Changes/Claude Code/2026-10-22-improved-disk-full-handling-a-bash-command-cut-off-by-a-full-disk-now-says-so-an|Improved disk-full handling]]
 - 2026-10-21 · **Claude Code** · [[Changes/Claude Code/2026-10-21-2-developer-workflow-changes-in-v2-1-307|2 Developer Workflow changes in v2.1.307]] · Digest
 - 2026-10-20 · **Claude Code** · [[Changes/Claude Code/2026-10-20-2-developer-workflow-changes-in-v2-1-305|2 Developer Workflow changes in v2.1.305]] · Digest

@@ -1,10 +1,10 @@
 ---
 created: '2023-03-23'
-date: '2026-10-22'
+date: '2026-10-23'
 description: 'Research question: how do the tracked products connect to outside tools,
   and in what unit do they package those connections?'
-machine_hash: d569d16665fc90dfdcc09963b394c371ac31d88ef31a7195a52c5acc7bf15916
-modified: '2026-10-22'
+machine_hash: f822989fb8c1e118d93f2738d0c614742e2c8632d4cb2bdc777264249bf84919
+modified: '2026-10-23'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Apps and Integrations
 <!-- chronolog:begin region="header" -->
 # Apps and Integrations
 
-262 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-23 → 2026-10-22 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
+263 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-23 → 2026-10-23 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -63,10 +63,11 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 208 entries (ChatGPT 23 · Claude Code 152 · Cursor 33)
+### 2026 · 209 entries (ChatGPT 23 · Claude Code 153 · Cursor 33)
 
 #### 2026-10
 
+- 2026-10-23 · **Claude Code** · [[Changes/Claude Code/2026-10-23-2-apps-and-integrations-changes-in-v2-1-310|2 Apps and Integrations changes in v2.1.310]] · Digest
 - 2026-10-22 · **Claude Code** · [[Changes/Claude Code/2026-10-22-2-apps-and-integrations-changes-in-v2-1-309|2 Apps and Integrations changes in v2.1.309]] · Digest
 - 2026-10-21 · **Claude Code** · [[Changes/Claude Code/2026-10-21-3-apps-and-integrations-changes-in-v2-1-307|3 Apps and Integrations changes in v2.1.307]] · Digest
 - 2026-10-20 · **Claude Code** · [[Changes/Claude Code/2026-10-20-3-apps-and-integrations-changes-in-v2-1-305|3 Apps and Integrations changes in v2.1.305]] · Digest
