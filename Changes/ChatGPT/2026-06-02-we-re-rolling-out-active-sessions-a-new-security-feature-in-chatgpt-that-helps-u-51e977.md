@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f68fc9d514c34c7afd264adaf536c2b341a987cd898d8ac46908d1da458534a8
+machine_hash: 1ba5bf9ac14d68cd817124f9895527586933f9079183954ecdcc0d8f34de9cd5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,11 +33,11 @@ record:
   - quote: 'We’re rolling out Active sessions, a new security feature in ChatGPT that
       helps users review sessions associated with their account and sign out of sessions
       they don’t recognize.Users can now:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#active-account-session-controls
   - quote: Review first-party OpenAI sessions from Settings > Security > Active sessions,
       with available details such as device, app, approximate location, sign-in time,
       trusted-device status, and whether it is the current session
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#active-account-session-controls
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -68,7 +68,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT rolls out Active sessions, a new security feature that helps users review…
 
-**ChatGPT** · 2026-06-02 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-02-active-account-session-controls-0830d01c|Active account session controls]]
+**ChatGPT** · 2026-06-02 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#active-account-session-controls) · from [[Releases/ChatGPT/chatgpt-2026-06-02-active-account-session-controls-0830d01c|Active account session controls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -76,7 +76,7 @@ type: change
 >
 > Review first-party OpenAI sessions from Settings > Security > Active sessions, with available details such as device, app, approximate location, sign-in time, trusted-device status, and whether it is the current session
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#active-account-session-controls
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -100,5 +100,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-02-51e977&body=Card%3A%20Changes%2FChatGPT%2F2026-06-02-we-re-rolling-out-active-sessions-a-new-security-feature-in-chatgpt-that-helps-u-51e977.md%0ACard%20ID%3A%20chatgpt-2026-06-02-51e977%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-02-51e977&body=Card%3A%20Changes%2FChatGPT%2F2026-06-02-we-re-rolling-out-active-sessions-a-new-security-feature-in-chatgpt-that-helps-u-51e977.md%0ACard%20ID%3A%20chatgpt-2026-06-02-51e977%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23active-account-session-controls%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

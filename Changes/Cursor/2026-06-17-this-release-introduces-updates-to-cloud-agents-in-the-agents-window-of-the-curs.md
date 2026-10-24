@@ -4,8 +4,8 @@ date: '2026-06-17'
 description: 'Cursor · 2026-06-17 · Mobile and Desktop: This release introduces updates
   to cloud agents in the Agents Window of the Cursor desktop app.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1191
   relation: same-theme-chronology

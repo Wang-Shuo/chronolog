@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 172c67eb74600f164665300df95a44933103df3cbd1f0e24df2260de83f6e68d
+machine_hash: f2be0a85a06e4c667a6651b958e61247ab4734ff287a1422a52d30d0ef13c75a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   evidence:
   - quote: 'Browsing: An experimental model that knows when and how to browse the
       internet'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -63,13 +63,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Browsing: An experimental model that knows when and how to browse the internet
 
-**ChatGPT** · 2023-03-23 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|Introducing plugins in ChatGPT]]
+**ChatGPT** · 2023-03-23 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|Introducing plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Browsing: An experimental model that knows when and how to browse the internet
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -93,5 +93,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-03-23-c03c55&body=Card%3A%20Changes%2FChatGPT%2F2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet.md%0ACard%20ID%3A%20chatgpt-2023-03-23-c03c55%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-03-23-c03c55&body=Card%3A%20Changes%2FChatGPT%2F2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet.md%0ACard%20ID%3A%20chatgpt-2023-03-23-c03c55%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23introducing-plugins-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

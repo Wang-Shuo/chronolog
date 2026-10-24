@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 71a4a4d0ca0b35e78c528079a100bdbd0e4f02c6bae9157db4602f7c8d0a5008
+machine_hash: 4dc0c96fb2852957a12f04b3f01a054e8e218936fc80583637a5b9d300ab1865
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       once or recur no more than once per day using flexible scheduling windows. Free
       and Go users cannot create webhook-triggered tasks.For more information, see:
       Scheduled tasks in ChatGPT.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-can-respond-to-app-updates-and-be-shared
   extractor_version: fallback-v5
   impact: incremental
   kind: launch
@@ -64,13 +64,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Scheduled tasks for Free users
 
-**ChatGPT** · 2026-08-25 · [[Themes/automation-scheduling|Automation and Scheduling]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4|Scheduled tasks can respond to app updates and be shared]]
+**ChatGPT** · 2026-08-25 · [[Themes/automation-scheduling|Automation and Scheduling]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-can-respond-to-app-updates-and-be-shared) · from [[Releases/ChatGPT/chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4|Scheduled tasks can respond to app updates and be shared]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Free users can create up to three active scheduled tasks. Tasks can run once or recur no more than once per day using flexible scheduling windows. Free and Go users cannot create webhook-triggered tasks.For more information, see: Scheduled tasks in ChatGPT.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-can-respond-to-app-updates-and-be-shared
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -95,5 +95,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-25-c7d138&body=Card%3A%20Changes%2FChatGPT%2F2026-08-25-free-users-can-create-up-to-three-active-scheduled-tasks-tasks-can-run-once-or-r.md%0ACard%20ID%3A%20chatgpt-2026-08-25-c7d138%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-25-c7d138&body=Card%3A%20Changes%2FChatGPT%2F2026-08-25-free-users-can-create-up-to-three-active-scheduled-tasks-tasks-can-run-once-or-r.md%0ACard%20ID%3A%20chatgpt-2026-08-25-c7d138%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23scheduled-tasks-can-respond-to-app-updates-and-be-shared%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

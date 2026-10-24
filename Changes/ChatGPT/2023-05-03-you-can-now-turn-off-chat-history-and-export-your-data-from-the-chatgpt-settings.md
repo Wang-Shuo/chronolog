@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 295f09f3551b9a6072a9b35533f231fc20fd60927d6230eac72063d3f91fd4d9
+machine_hash: 39647e384a5f3cfffcbdf2c74ff5f7209d7b33bc269c2cbeeefd25cb1117772a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
   - quote: You can now turn off chat history and export your data from the ChatGPT
       settings. Conversations that are started when chat history is disabled won’t
       be used to train and improve our models, and won’t appear in the history sidebar.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -70,13 +70,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Turn off chat history and export your data from the ChatGPT settings
 
-**ChatGPT** · 2023-05-03 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-05-03-updates-to-chatgpt-0d776ee3|Updates to ChatGPT]]
+**ChatGPT** · 2023-05-03 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt) · from [[Releases/ChatGPT/chatgpt-2023-05-03-updates-to-chatgpt-0d776ee3|Updates to ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > You can now turn off chat history and export your data from the ChatGPT settings. Conversations that are started when chat history is disabled won’t be used to train and improve our models, and won’t appear in the history sidebar.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -99,5 +99,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-05-03-96ffb8&body=Card%3A%20Changes%2FChatGPT%2F2023-05-03-you-can-now-turn-off-chat-history-and-export-your-data-from-the-chatgpt-settings.md%0ACard%20ID%3A%20chatgpt-2023-05-03-96ffb8%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-05-03-96ffb8&body=Card%3A%20Changes%2FChatGPT%2F2023-05-03-you-can-now-turn-off-chat-history-and-export-your-data-from-the-chatgpt-settings.md%0ACard%20ID%3A%20chatgpt-2023-05-03-96ffb8%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23updates-to-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

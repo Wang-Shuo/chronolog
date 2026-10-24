@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 61d3c82ab13d5390bf4574339428253bc52fed0c1e1302e731625fb895a4b7a2
+machine_hash: 3ef8b3bddf0a78e2aeb52609c5165ff42e47b8de70cf0a4f0a07dd8b83b50007
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   evidence:
   - quote: Switch between typing and dictation. The dictation button stays available
       after you add text or attachments, so you can continue building the same message.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -61,13 +61,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Switch between typing and dictation
 
-**ChatGPT** · 2026-08-14 · [[Themes/voice|Voice and Audio]] · Android · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
+**ChatGPT** · 2026-08-14 · [[Themes/voice|Voice and Audio]] · Android · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Switch between typing and dictation. The dictation button stays available after you add text or attachments, so you can continue building the same message.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -93,5 +93,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-14-f210c3&body=Card%3A%20Changes%2FChatGPT%2F2026-08-14-switch-between-typing-and-dictation-the-dictation-button-stays-available-after-y.md%0ACard%20ID%3A%20chatgpt-2026-08-14-f210c3%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-14-f210c3&body=Card%3A%20Changes%2FChatGPT%2F2026-08-14-switch-between-typing-and-dictation-the-dictation-button-stays-available-after-y.md%0ACard%20ID%3A%20chatgpt-2026-08-14-f210c3%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-app-experience-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

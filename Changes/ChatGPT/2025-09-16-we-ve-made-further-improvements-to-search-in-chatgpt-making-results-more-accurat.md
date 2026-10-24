@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 96b7c2a45cead453caf511077b2c6d641b1231487a89b16137cd6391c308e550
+machine_hash: 28366dffd52912674734afdc5130162a079510a82383bdac15510a6a41f750bd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   evidence:
   - quote: We’ve made further improvements to search in ChatGPT, making results more
       accurate, reliable, and useful.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-search-in-chatgpt
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -60,13 +60,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT makes further improvements to search, making results more accurate…
 
-**ChatGPT** · 2025-09-16 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690|Improvements to search in ChatGPT]]
+**ChatGPT** · 2025-09-16 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-search-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690|Improvements to search in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’ve made further improvements to search in ChatGPT, making results more accurate, reliable, and useful.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-search-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -91,5 +91,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-16-60a139&body=Card%3A%20Changes%2FChatGPT%2F2025-09-16-we-ve-made-further-improvements-to-search-in-chatgpt-making-results-more-accurat.md%0ACard%20ID%3A%20chatgpt-2025-09-16-60a139%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-16-60a139&body=Card%3A%20Changes%2FChatGPT%2F2025-09-16-we-ve-made-further-improvements-to-search-in-chatgpt-making-results-more-accurat.md%0ACard%20ID%3A%20chatgpt-2025-09-16-60a139%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23improvements-to-search-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

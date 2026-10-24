@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 91c87b62322769cd2c76251f891073ac92346911da6b94163a7a4a239a5b68b3
+machine_hash: 664871d9e5f6ea4c7ba19ca6759a0f8a784ed79618fae664c4cbb1271296ca8f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,7 +58,7 @@ record:
       with full tool access translates into significantly stronger performance across
       academic benchmarks and real-world tasks, setting a new standard in both intelligence
       and usefulness.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#o3-and-o4-mini-in-chatgpt
   extractor_version: fallback-v5
   impact: significant
   kind: launch
@@ -100,13 +100,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # o3 and o4-mini in ChatGPT
 
-**ChatGPT** · 2025-04-16 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-04-16-o3-and-o4-mini-in-chatgpt-1fd34eaa|o3 and o4-mini in ChatGPT]]
+**ChatGPT** · 2025-04-16 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#o3-and-o4-mini-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2025-04-16-o3-and-o4-mini-in-chatgpt-1fd34eaa|o3 and o4-mini in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Today, we’re releasing OpenAI o3 and o4-mini, the latest in our o-series of models trained to think for longer before responding. These are the smartest models we’ve released to date, representing a step change in ChatGPT's capabilities for everyone from curious users to advanced researchers. For the first time, our reasoning models can agentically use and combine every tool within ChatGPT—this includes searching the web, analyzing uploaded files and other data with Python, reasoning deeply about visual inputs, and even generating images. Critically, these models are trained to reason about when and how to use tools to produce detailed and thoughtful answers in the right output formats, typically in under a minute, to solve more complex problems. This allows them to tackle multi-faceted questions more effectively, a step toward a more agentic ChatGPT that can independently execute tasks on your behalf. The combined power of state-of-the-art reasoning with full tool access translates into significantly stronger performance across academic benchmarks and real-world tasks, setting a new standard in both intelligence and usefulness.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#o3-and-o4-mini-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -127,5 +127,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-04-16-cebd09&body=Card%3A%20Changes%2FChatGPT%2F2025-04-16-today-we-re-releasing-openai-o3-and-o4-mini-the-latest-in-our-o-series-of-models.md%0ACard%20ID%3A%20chatgpt-2025-04-16-cebd09%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-04-16-cebd09&body=Card%3A%20Changes%2FChatGPT%2F2025-04-16-today-we-re-releasing-openai-o3-and-o4-mini-the-latest-in-our-o-series-of-models.md%0ACard%20ID%3A%20chatgpt-2025-04-16-cebd09%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23o3-and-o4-mini-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

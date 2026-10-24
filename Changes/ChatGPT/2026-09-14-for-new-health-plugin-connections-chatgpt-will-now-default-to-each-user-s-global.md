@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c43d44e9ea2cd419caf609af9303104e6d007da2a1b386e264bdb806cfaa4fd4
+machine_hash: c3639d510e61fbaf3d711b798170d7beaa7f8ce5ab1aefeeb2485e66c04d0553
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
   evidence:
   - quote: For new Health plugin connections, ChatGPT will now default to each user’s
       global plugins permissions setting.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-permissions-for-new-health-connections
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -64,13 +64,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # For new Health plugin connections, ChatGPT will now default to each user’s global…
 
-**ChatGPT** · 2026-09-14 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7|Updated permissions for new Health connections]]
+**ChatGPT** · 2026-09-14 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-permissions-for-new-health-connections) · from [[Releases/ChatGPT/chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7|Updated permissions for new Health connections]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > For new Health plugin connections, ChatGPT will now default to each user’s global plugins permissions setting.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-permissions-for-new-health-connections
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -94,5 +94,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-14-c10999&body=Card%3A%20Changes%2FChatGPT%2F2026-09-14-for-new-health-plugin-connections-chatgpt-will-now-default-to-each-user-s-global.md%0ACard%20ID%3A%20chatgpt-2026-09-14-c10999%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-14-c10999&body=Card%3A%20Changes%2FChatGPT%2F2026-09-14-for-new-health-plugin-connections-chatgpt-will-now-default-to-each-user-s-global.md%0ACard%20ID%3A%20chatgpt-2026-09-14-c10999%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23updated-permissions-for-new-health-connections%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

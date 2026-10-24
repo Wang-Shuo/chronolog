@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 4b2291d0085c75b9a3c4b0f55ea1ff39c5f2d210852e9b9d01d808504a8754d6
+machine_hash: 39a9f0a9d85cd9d57e2ad2869e870db44a863b63a10ffec8405dc3216832bea0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       We encourage you to download any images you want to keep before then.To continue
       creating or editing images, use ChatGPT Images. User-created GPTs with image
       generation enabled are not affected.Learn more in Images in ChatGPT.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-the-dalle-gpt
   extractor_version: fallback-v5
   impact: incremental
   kind: policy
@@ -62,13 +62,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Retiring the DALL·E GPT
 
-**ChatGPT** · 2026-07-31 · [[Themes/image-generation|Image Generation]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-31-retiring-the-dall-e-gpt-582d3c79|Retiring the DALL·E GPT]]
+**ChatGPT** · 2026-07-31 · [[Themes/image-generation|Image Generation]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-the-dalle-gpt) · from [[Releases/ChatGPT/chatgpt-2026-07-31-retiring-the-dall-e-gpt-582d3c79|Retiring the DALL·E GPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > On August 30, 2026, we’re retiring the official DALL·E GPT in ChatGPT. We encourage you to download any images you want to keep before then.To continue creating or editing images, use ChatGPT Images. User-created GPTs with image generation enabled are not affected.Learn more in Images in ChatGPT.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-the-dalle-gpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -89,5 +89,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-31-6515a2&body=Card%3A%20Changes%2FChatGPT%2F2026-07-31-on-august-30-2026-we-re-retiring-the-official-dall-e-gpt-in-chatgpt-we-encourage.md%0ACard%20ID%3A%20chatgpt-2026-07-31-6515a2%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-31-6515a2&body=Card%3A%20Changes%2FChatGPT%2F2026-07-31-on-august-30-2026-we-re-retiring-the-official-dall-e-gpt-in-chatgpt-we-encourage.md%0ACard%20ID%3A%20chatgpt-2026-07-31-6515a2%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23retiring-the-dalle-gpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

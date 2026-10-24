@@ -4,7 +4,7 @@ date: '2026-07-09'
 description: 'ChatGPT release Introducing ChatGPT Work on 2026-07-09: 4 tracked changes
   across Agent Mode, Apps and Integrations, Automation and Scheduling, Enterprise
   and…'
-machine_hash: 314571d457e1d340c40006210968d0b740392071d4975e711785640002033088
+machine_hash: ad8dd083b36b46b0a53f301d75efee532fd07138d7dddace504f87da679856d1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -19,13 +19,13 @@ record:
     its progress, answer questions, change direction, and approve important actions
     as it…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work
   title: Introducing ChatGPT Work
   version: Introducing ChatGPT Work
 release_id: chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272
 source_release: Introducing ChatGPT Work
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work
 tags:
 - release
 - chatgpt
@@ -36,7 +36,7 @@ version: Introducing ChatGPT Work
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Introducing ChatGPT Work
 
-**ChatGPT** · 2026-07-09 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-07-09 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work)
 <!-- chronolog:end -->
 
 ## Summary

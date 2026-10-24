@@ -5,8 +5,8 @@ description: 'Claude Code · 2026-04-16 · Mobile and Desktop: Windows: PowerShe
   is progressively rolling out. Opt in or out with `CLAUDE_CODE_USE_POWERSHELL_TOOL`.
   On…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1129
   relation: same-theme-chronology

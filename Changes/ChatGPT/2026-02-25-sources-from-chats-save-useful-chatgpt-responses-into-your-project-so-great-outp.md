@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8a490d08ac8f595e4a973afcc4d23c9a8a3aa31319dc13b618c1d39d42846019
+machine_hash: eb90a0f3ad1348a0782036d65579dbae302a6fb34ca4a5629b9a071840741360
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   evidence:
   - quote: 'Sources from chats: Save useful ChatGPT responses into your project so
       great outputs become reusable knowledge.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#add-sources-to-your-projects-from-anywhere
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -62,13 +62,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Sources from chats
 
-**ChatGPT** · 2026-02-25 · [[Themes/projects-workspaces|Projects and Workspaces]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292|Add sources to your projects from anywhere]]
+**ChatGPT** · 2026-02-25 · [[Themes/projects-workspaces|Projects and Workspaces]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#add-sources-to-your-projects-from-anywhere) · from [[Releases/ChatGPT/chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292|Add sources to your projects from anywhere]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Sources from chats: Save useful ChatGPT responses into your project so great outputs become reusable knowledge.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#add-sources-to-your-projects-from-anywhere
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -93,5 +93,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-25-21a801&body=Card%3A%20Changes%2FChatGPT%2F2026-02-25-sources-from-chats-save-useful-chatgpt-responses-into-your-project-so-great-outp.md%0ACard%20ID%3A%20chatgpt-2026-02-25-21a801%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-25-21a801&body=Card%3A%20Changes%2FChatGPT%2F2026-02-25-sources-from-chats-save-useful-chatgpt-responses-into-your-project-so-great-outp.md%0ACard%20ID%3A%20chatgpt-2026-02-25-21a801%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23add-sources-to-your-projects-from-anywhere%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

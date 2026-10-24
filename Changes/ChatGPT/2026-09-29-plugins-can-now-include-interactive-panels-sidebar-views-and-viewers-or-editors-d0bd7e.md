@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fe564d869c9b904885dd0a815733f3fdfb07e9c2707ee19c28cf7e5bed8f573d
+machine_hash: a07e624d9db35e56d645cee2d3fe66871f0c585ce74dc33fdaf0fcb6aa5f1e97
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,10 +34,10 @@ record:
       or editors for supported file types. Work with an app alongside your conversation,
       select the information you want ChatGPT to use, or complete a form provided
       by the plugin.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#work-with-interactive-plugin-extensions
   - quote: Plugins still require their applicable account connections and workspace
       permissions.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#work-with-interactive-plugin-extensions
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Work with interactive plugin extensions
 
-**ChatGPT** · 2026-09-29 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-29-work-with-interactive-plugin-extensions-8f979183|Work with interactive plugin extensions]]
+**ChatGPT** · 2026-09-29 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#work-with-interactive-plugin-extensions) · from [[Releases/ChatGPT/chatgpt-2026-09-29-work-with-interactive-plugin-extensions-8f979183|Work with interactive plugin extensions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -84,7 +84,7 @@ type: change
 >
 > Plugins still require their applicable account connections and workspace permissions.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#work-with-interactive-plugin-extensions
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -105,5 +105,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-d0bd7e&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-plugins-can-now-include-interactive-panels-sidebar-views-and-viewers-or-editors-d0bd7e.md%0ACard%20ID%3A%20chatgpt-2026-09-29-d0bd7e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-d0bd7e&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-plugins-can-now-include-interactive-panels-sidebar-views-and-viewers-or-editors-d0bd7e.md%0ACard%20ID%3A%20chatgpt-2026-09-29-d0bd7e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23work-with-interactive-plugin-extensions%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

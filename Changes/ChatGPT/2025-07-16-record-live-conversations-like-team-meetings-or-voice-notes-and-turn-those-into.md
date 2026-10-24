@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 10d12206a09302d7c0688070a663d5757a8f1c23e7f5114cef7ab901598a60e1
+machine_hash: 79322a02dd92e04eaa2486597fd3c14a0754c41822d1ca9f7dcd354ac58b216c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   evidence:
   - quote: Record live conversations like team meetings or voice notes, and turn those
       into an editable summary in canvas.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#record-mode-in-chatgpt-macos-desktop-app-plus
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -72,13 +72,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Record live conversations like team meetings or voice notes, and turn those…
 
-**ChatGPT** · 2025-07-16 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1|Record mode in ChatGPT macOS desktop app (Plus)]]
+**ChatGPT** · 2025-07-16 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#record-mode-in-chatgpt-macos-desktop-app-plus) · from [[Releases/ChatGPT/chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1|Record mode in ChatGPT macOS desktop app (Plus)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Record live conversations like team meetings or voice notes, and turn those into an editable summary in canvas.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#record-mode-in-chatgpt-macos-desktop-app-plus
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -101,5 +101,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-07-16-3ba6e4&body=Card%3A%20Changes%2FChatGPT%2F2025-07-16-record-live-conversations-like-team-meetings-or-voice-notes-and-turn-those-into.md%0ACard%20ID%3A%20chatgpt-2025-07-16-3ba6e4%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-07-16-3ba6e4&body=Card%3A%20Changes%2FChatGPT%2F2025-07-16-record-live-conversations-like-team-meetings-or-voice-notes-and-turn-those-into.md%0ACard%20ID%3A%20chatgpt-2025-07-16-3ba6e4%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23record-mode-in-chatgpt-macos-desktop-app-plus%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

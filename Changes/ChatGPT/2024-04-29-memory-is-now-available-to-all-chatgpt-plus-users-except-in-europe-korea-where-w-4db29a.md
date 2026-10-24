@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: 5ee82d77d8bb5392c51ad4c5dd5acd26a83364a1aa916ba382ce0f3a169016c0
+machine_hash: 75eaec562a1776d56a88470ec7219c61d510bc191b8dbefeff207e3d76072de5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       where we will be rolling it out soon. Using Memory is easy: just start a new
       chat and tell ChatGPT anything you’d like it to remember.Memory can be turned
       on or off in settings. Team, Enterprise, and GPTs to come.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-available-to-plus-users
   extractor_version: fallback-v5
   impact: significant
   kind: expansion
@@ -78,13 +78,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Memory is now available to Plus users
 
-**ChatGPT** · 2024-04-29 · [[Themes/memory|Memory and Personalization]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-04-29-memory-is-now-available-to-plus-users-4ba2f306|Memory is now available to Plus users]]
+**ChatGPT** · 2024-04-29 · [[Themes/memory|Memory and Personalization]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-available-to-plus-users) · from [[Releases/ChatGPT/chatgpt-2024-04-29-memory-is-now-available-to-plus-users-4ba2f306|Memory is now available to Plus users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Memory is now available to all ChatGPT Plus users, except in Europe Korea where we will be rolling it out soon. Using Memory is easy: just start a new chat and tell ChatGPT anything you’d like it to remember.Memory can be turned on or off in settings. Team, Enterprise, and GPTs to come.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-is-now-available-to-plus-users
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -105,5 +105,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-04-29-4db29a&body=Card%3A%20Changes%2FChatGPT%2F2024-04-29-memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w-4db29a.md%0ACard%20ID%3A%20chatgpt-2024-04-29-4db29a%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-04-29-4db29a&body=Card%3A%20Changes%2FChatGPT%2F2024-04-29-memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w-4db29a.md%0ACard%20ID%3A%20chatgpt-2024-04-29-4db29a%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23memory-is-now-available-to-plus-users%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

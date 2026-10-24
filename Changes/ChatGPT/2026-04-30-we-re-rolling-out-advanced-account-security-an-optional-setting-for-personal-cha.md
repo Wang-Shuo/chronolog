@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c01307a02668bfc30e5edf5c8585f065e6db07455e7fb24acdef2dcd1e825a3e
+machine_hash: 22a4aabf16feb9c4da4eb0fb0ad244d3a366eaf1118e250d5724fb3ad9a128cb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,7 +50,7 @@ record:
       recovery is also stricter. Users should save their recovery keys and keep access
       to their enrolled passkeys or security keys. If access to all sign-in methods
       and recovery keys is lost, access to the account may be lost.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#advanced-account-security-in-chatgpt
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -90,13 +90,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Advanced Account Security in ChatGPT
 
-**ChatGPT** · 2026-04-30 · [[Themes/account-access|Account and Access]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-30-advanced-account-security-in-chatgpt-d81bf569|Advanced Account Security in ChatGPT]]
+**ChatGPT** · 2026-04-30 · [[Themes/account-access|Account and Access]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#advanced-account-security-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-04-30-advanced-account-security-in-chatgpt-d81bf569|Advanced Account Security in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re rolling out Advanced Account Security, an optional setting for personal ChatGPT accounts that adds stronger sign-in requirements and stricter account safeguards to help reduce the risk of ATO (account take over), unauthorized access, and data exposure.With Advanced Account Security enabled, ChatGPT uses stronger sign-in methods like passkeys or compatible security keys and turns off weaker paths like password sign-in, email/SMS sign-in codes, and email-based account recovery. It also adds recovery keys, shorter active sessions, login notifications, and session management controls, giving users more protection and visibility across their account.Because these protections are stricter, recovery is also stricter. Users should save their recovery keys and keep access to their enrolled passkeys or security keys. If access to all sign-in methods and recovery keys is lost, access to the account may be lost.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#advanced-account-security-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -117,5 +117,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-04-30-139382&body=Card%3A%20Changes%2FChatGPT%2F2026-04-30-we-re-rolling-out-advanced-account-security-an-optional-setting-for-personal-cha.md%0ACard%20ID%3A%20chatgpt-2026-04-30-139382%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-04-30-139382&body=Card%3A%20Changes%2FChatGPT%2F2026-04-30-we-re-rolling-out-advanced-account-security-an-optional-setting-for-personal-cha.md%0ACard%20ID%3A%20chatgpt-2026-04-30-139382%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23advanced-account-security-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

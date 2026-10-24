@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 81f67ab0c9c06ee430f113800a8b7df3f27732c510c39f7a20ff3e1f81b76cb1
+machine_hash: 9062fc2acb79d3a1836c744093a55e8d5e6744ddb1b61a5af298475d1698f33a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       for prompts containing multiple or complex requests. It improves on generating
       outputs according to the format requested and achieves higher accuracy in classification
       tasks.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o
   extractor_version: fallback-v5
   impact: incremental
   kind: launch
@@ -64,13 +64,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Enhanced instruction-following and formatting accuracy
 
-**ChatGPT** · 2025-03-27 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7|Improvements to GPT-4o]]
+**ChatGPT** · 2025-03-27 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o) · from [[Releases/ChatGPT/chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7|Improvements to GPT-4o]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > GPT-4o is now more adept at following detailed instructions, especially for prompts containing multiple or complex requests. It improves on generating outputs according to the format requested and achieves higher accuracy in classification tasks.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -95,5 +95,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-03-27-d8484d&body=Card%3A%20Changes%2FChatGPT%2F2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp.md%0ACard%20ID%3A%20chatgpt-2025-03-27-d8484d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-03-27-d8484d&body=Card%3A%20Changes%2FChatGPT%2F2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp.md%0ACard%20ID%3A%20chatgpt-2025-03-27-d8484d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23improvements-to-gpt-4o%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

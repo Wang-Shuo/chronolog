@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bd635d8e91ac6f0cedc2495693741b1917489a362fb79b2f13943a3604787d53
+machine_hash: d0b41e763aa9cbafd9628af6c9139edd16d6bf08dd6922f5c2d1c1b93db9aa4d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       or lightweight app without leaving ChatGPT. You can create dashboards, project
       trackers, launch calendars, prototypes, internal portals, and reports, then
       preview and refine the result with ChatGPT before sharing it.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-sites-in-public-beta
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -66,13 +66,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT Sites lets you turn your work or ideas into an interactive website…
 
-**ChatGPT** · 2026-07-09 · [[Themes/artifact-creation|Artifact Creation]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd|Introducing ChatGPT Sites in public beta]]
+**ChatGPT** · 2026-07-09 · [[Themes/artifact-creation|Artifact Creation]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-sites-in-public-beta) · from [[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd|Introducing ChatGPT Sites in public beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT Sites lets you turn your work or ideas into an interactive website or lightweight app without leaving ChatGPT. You can create dashboards, project trackers, launch calendars, prototypes, internal portals, and reports, then preview and refine the result with ChatGPT before sharing it.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-sites-in-public-beta
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -94,5 +94,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-09-81aed6&body=Card%3A%20Changes%2FChatGPT%2F2026-07-09-chatgpt-sites-lets-you-turn-your-work-or-ideas-into-an-interactive-website-or-li.md%0ACard%20ID%3A%20chatgpt-2026-07-09-81aed6%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-09-81aed6&body=Card%3A%20Changes%2FChatGPT%2F2026-07-09-chatgpt-sites-lets-you-turn-your-work-or-ideas-into-an-interactive-website-or-li.md%0ACard%20ID%3A%20chatgpt-2026-07-09-81aed6%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23introducing-chatgpt-sites-in-public-beta%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

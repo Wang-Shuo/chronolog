@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: f7a572765fe00cb1c6d60bf81cb7ed116b61a04520d8f28f4101f28596ba2250
+machine_hash: 43fa8134672ee54dc93d5e50b84173d85a6a2be9b8ad0b4048ce094b0968bb57
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       in both voice and text) has now been sunset. We hope you enjoyed Monday's irreverent
       style, and we’re already working on new personalities for future use. Please
       stay tuned for what’s next!
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sunsetting-monday-gpt
   extractor_version: fallback-v5
   impact: significant
   kind: policy
@@ -73,13 +73,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Sunsetting Monday GPT
 
-**ChatGPT** · 2025-05-01 · [[Themes/voice|Voice and Audio]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-05-01-sunsetting-monday-gpt-9d013d1e|Sunsetting Monday GPT]]
+**ChatGPT** · 2025-05-01 · [[Themes/voice|Voice and Audio]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sunsetting-monday-gpt) · from [[Releases/ChatGPT/chatgpt-2025-05-01-sunsetting-monday-gpt-9d013d1e|Sunsetting Monday GPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Launched on April 1 as a one-month surprise, our “Monday” personality (available in both voice and text) has now been sunset. We hope you enjoyed Monday's irreverent style, and we’re already working on new personalities for future use. Please stay tuned for what’s next!
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sunsetting-monday-gpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -100,5 +100,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-05-01-c83f5d&body=Card%3A%20Changes%2FChatGPT%2F2025-05-01-launched-on-april-1-as-a-one-month-surprise-our-monday-personality-available-in.md%0ACard%20ID%3A%20chatgpt-2025-05-01-c83f5d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-05-01-c83f5d&body=Card%3A%20Changes%2FChatGPT%2F2025-05-01-launched-on-april-1-as-a-one-month-surprise-our-monday-personality-available-in.md%0ACard%20ID%3A%20chatgpt-2025-05-01-c83f5d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23sunsetting-monday-gpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

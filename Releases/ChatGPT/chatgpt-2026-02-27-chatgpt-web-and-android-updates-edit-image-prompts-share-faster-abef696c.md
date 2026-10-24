@@ -4,7 +4,7 @@ date: '2026-02-27'
 description: 'ChatGPT release ChatGPT Web and Android updates: Edit image prompts,
   share faster, and smoother conversations on 2026-02-27: 8 tracked changes across
   Interface…'
-machine_hash: 4226c1855cc3fbed3b8cff6a0b91ea6e65e2f8b89988b12d0a5793d1cda81768
+machine_hash: 7a5be09593e81fbbc906abd5aea19e732deeeddc397bfedaef92d068b6ddcd28
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,7 +15,7 @@ record:
   release_id: chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c
   source_summary: Web
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations
   title: 'ChatGPT Web and Android updates: Edit image prompts, share faster, and smoother
     conversations'
   version: 'ChatGPT Web and Android updates: Edit image prompts, share faster, and
@@ -24,7 +24,7 @@ release_id: chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompt
 source_release: 'ChatGPT Web and Android updates: Edit image prompts, share faster,
   and smoother conversations'
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations
 tags:
 - release
 - chatgpt
@@ -37,7 +37,7 @@ version: 'ChatGPT Web and Android updates: Edit image prompts, share faster, and
 <!-- chronolog:begin region="header" -->
 # ChatGPT Web and Android updates: Edit image prompts, share faster, and smoother conversations
 
-**ChatGPT** · 2026-02-27 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-02-27 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations)
 <!-- chronolog:end -->
 
 ## Summary

@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-06-18 · Mobile and Desktop: Long-press send to ch
   a model: Android users on paid plans can now long-press the send button to choose
   a model…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1192
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5bb897a6ffa962e8b8429551638bc72042b0d9e821102ea4d45b5cd09baba4a4
+machine_hash: 32a92144ef117b3945d4df8b4f8511a759fa63ea3763e6656a1f1525c03cbcb9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
   - quote: 'Long-press send to choose a model: Android users on paid plans can now
       long-press the send button to choose a model for a one-off message without changing
       their default model.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -75,13 +75,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Long-press send to choose a model
 
-**ChatGPT** · 2026-06-18 · [[Themes/mobile-desktop|Mobile and Desktop]] · Android · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
+**ChatGPT** · 2026-06-18 · [[Themes/mobile-desktop|Mobile and Desktop]] · Android · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Long-press send to choose a model: Android users on paid plans can now long-press the send button to choose a model for a one-off message without changing their default model.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -111,5 +111,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-18-2dae4c&body=Card%3A%20Changes%2FChatGPT%2F2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press.md%0ACard%20ID%3A%20chatgpt-2026-06-18-2dae4c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-18-2dae4c&body=Card%3A%20Changes%2FChatGPT%2F2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press.md%0ACard%20ID%3A%20chatgpt-2026-06-18-2dae4c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-app-experience-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

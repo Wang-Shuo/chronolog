@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 6f8ada6419a0dedd3a75d5951942be95f5934e0d694c2832c3ff37264cdb8135
+machine_hash: b59aeb9d88a6c7ea1fe140c7d16d476b188ceb6f38c60566e6e63b0b06f230b1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,10 +30,10 @@ record:
     again at $200/month.'
   evidence:
   - quote: Pro 200 is available for new subscriptions again at $200/month.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#pro-200-subscriptions
   - quote: Included usage allowances are changing. Users affected by these changes
       will receive an email with additional details. The monthly price remains $200.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#pro-200-subscriptions
   extractor_version: fallback-v5
   impact: significant
   kind: pricing
@@ -64,7 +64,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Pro 200 subscriptions
 
-**ChatGPT** · 2026-09-29 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-29-pro-200-subscriptions-a351b7b9|Pro 200 subscriptions]]
+**ChatGPT** · 2026-09-29 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#pro-200-subscriptions) · from [[Releases/ChatGPT/chatgpt-2026-09-29-pro-200-subscriptions-a351b7b9|Pro 200 subscriptions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -72,7 +72,7 @@ type: change
 >
 > Included usage allowances are changing. Users affected by these changes will receive an email with additional details. The monthly price remains $200.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#pro-200-subscriptions
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -93,5 +93,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-5ed430&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-pro-200-is-available-for-new-subscriptions-again-at-200-month-5ed430.md%0ACard%20ID%3A%20chatgpt-2026-09-29-5ed430%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-5ed430&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-pro-200-is-available-for-new-subscriptions-again-at-200-month-5ed430.md%0ACard%20ID%3A%20chatgpt-2026-09-29-5ed430%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23pro-200-subscriptions%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

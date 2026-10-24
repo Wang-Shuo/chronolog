@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 19cb24aa7dfab30d7ea65f4586ac9ffb1327a7292c3745e3eb401e05eaeb43f7
+machine_hash: c5389a3b6081659138e773e6973da7e276e8fea82103cf5dd4e83c7166c96b18
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,7 +46,7 @@ record:
       may be able to automatically add the promotion for you at the end of your current
       billing cycle - review ChatGPT Go Promotion (India) for more details.Update:
       as of January 21, 2026, the promo has ended'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-promo-india
   extractor_version: fallback-v5
   impact: significant
   kind: pricing
@@ -85,13 +85,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT Go Promo - India
 
-**ChatGPT** · 2025-11-03 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-11-03-chatgpt-go-promo-india-d9dd74b7|ChatGPT Go Promo - India]]
+**ChatGPT** · 2025-11-03 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-promo-india) · from [[Releases/ChatGPT/chatgpt-2025-11-03-chatgpt-go-promo-india-d9dd74b7|ChatGPT Go Promo - India]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Eligible customers in India can now get 12 months of ChatGPT Go at no cost. New users can redeem now on ChatGPT web or the Android app (Google Play). The Apple App Store option arrives next week - no promo code is required for redemption.Available to users in India who are new, on the free plan, or are current ChatGPT Go subscribers - one redemption per account. Requires a payment method (credit card or UPI).If you have an existing ChatGPT Go membership, we may be able to automatically add the promotion for you at the end of your current billing cycle - review ChatGPT Go Promotion (India) for more details.Update: as of January 21, 2026, the promo has ended
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-promo-india
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -112,5 +112,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-11-03-30492d&body=Card%3A%20Changes%2FChatGPT%2F2025-11-03-eligible-customers-in-india-can-now-get-12-months-of-chatgpt-go-at-no-cost-new-u.md%0ACard%20ID%3A%20chatgpt-2025-11-03-30492d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-11-03-30492d&body=Card%3A%20Changes%2FChatGPT%2F2025-11-03-eligible-customers-in-india-can-now-get-12-months-of-chatgpt-go-at-no-cost-new-u.md%0ACard%20ID%3A%20chatgpt-2025-11-03-30492d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-go-promo-india%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d4f192dc79dcf2c4c3d4c9ab5218642f62dd17c2e3c1cfb2b015189d8a131fe8
+machine_hash: 79cdcc0134986bbc458273c55581d470d30d67b54983be3bb22fa7d8ea1a3c0a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +40,7 @@ record:
       controls into the model picker. When you choose a Thinking or Pro model, you
       can select the level of thinking effort directly from the model picker.This
       update is available on web to ChatGPT users on Plus, Pro, and Business plans.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#easier-model-selection-in-chatgpt
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -79,13 +79,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Easier model selection in ChatGPT
 
-**ChatGPT** · 2026-04-28 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-28-easier-model-selection-in-chatgpt-f4badb6d|Easier model selection in ChatGPT]]
+**ChatGPT** · 2026-04-28 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#easier-model-selection-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-04-28-easier-model-selection-in-chatgpt-f4badb6d|Easier model selection in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re making it easier to choose the right model before you send a message. Model selection now appears in the composer, so you can find and switch models from the same place where you write your prompt.We’re also moving thinking effort controls into the model picker. When you choose a Thinking or Pro model, you can select the level of thinking effort directly from the model picker.This update is available on web to ChatGPT users on Plus, Pro, and Business plans.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#easier-model-selection-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -106,5 +106,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-04-28-5e72af&body=Card%3A%20Changes%2FChatGPT%2F2026-04-28-we-re-making-it-easier-to-choose-the-right-model-before-you-send-a-message-model.md%0ACard%20ID%3A%20chatgpt-2026-04-28-5e72af%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-04-28-5e72af&body=Card%3A%20Changes%2FChatGPT%2F2026-04-28-we-re-making-it-easier-to-choose-the-right-model-before-you-send-a-message-model.md%0ACard%20ID%3A%20chatgpt-2026-04-28-5e72af%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23easier-model-selection-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

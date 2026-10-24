@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-03-24'
 description: 'ChatGPT release Shopping updates in ChatGPT on 2026-03-24: 1 tracked
   change across Search and Browsing'
-machine_hash: 7d4c7ae87ab08b0e23a2718547648fd81fd8f2a6c911c091993c961453173aa2
+machine_hash: adf5dcfa9e07146d009d21306002503ad2f37c38bec0bfdeda88fcaa6c1d412b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     through conversation, and upload images to find similar items. Products can also
     be compared…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shopping-updates-in-chatgpt
   title: Shopping updates in ChatGPT
   version: Shopping updates in ChatGPT
 release_id: chatgpt-2026-03-24-shopping-updates-in-chatgpt-4ca736aa
 source_release: Shopping updates in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shopping-updates-in-chatgpt
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Shopping updates in ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Shopping updates in ChatGPT
 
-**ChatGPT** · 2026-03-24 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-03-24 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shopping-updates-in-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

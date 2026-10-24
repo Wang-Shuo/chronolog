@@ -3,7 +3,7 @@ changes_count: 2
 date: '2026-09-29'
 description: 'ChatGPT release Create and collaborate on Pages on 2026-09-29: 2 tracked
   changes across Editor Experience, Memory and Personalization'
-machine_hash: cb97380b4301448c949c15de0ba32ed1aaa350b630ec67fe1ab2c56a6cf17da9
+machine_hash: 2b91335ce0eff03d033bf3c1fec8993b7bd02a8797b45c3e9879be1a767b3e6b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     add charts, or create interactive content. Collaborators can work on the same
     Page and leave comments, with each person using their own ChatGPT.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-collaborate-on-pages
   title: Create and collaborate on Pages
   version: Create and collaborate on Pages
 release_id: chatgpt-2026-09-29-create-and-collaborate-on-pages-aae35683
 source_release: Create and collaborate on Pages
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-collaborate-on-pages
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Create and collaborate on Pages
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Create and collaborate on Pages
 
-**ChatGPT** · 2026-09-29 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-09-29 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-collaborate-on-pages)
 <!-- chronolog:end -->
 
 ## Summary

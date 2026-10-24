@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 35b6c32b65ae022a29c5691cf44dd350ab7af0af08588d5728d7d38cf9cc962b
+machine_hash: d7082a28e0e1434bd0d7976f34a1933f3f76375bb6171c47bed3e6a7ae81e866
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
   evidence:
   - quote: Opt out of model training, so their teen’s conversations won’t be used
       to improve models powering ChatGPT and Sora.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls
   extractor_version: fallback-v5
   impact: significant
   kind: policy
@@ -62,13 +62,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Opt out of model training, so their teen’s conversations won’t be used to improve…
 
-**ChatGPT** · 2025-09-29 · [[Themes/model-support|Model Support]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|Parental Controls]]
+**ChatGPT** · 2025-09-29 · [[Themes/model-support|Model Support]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls) · from [[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|Parental Controls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Opt out of model training, so their teen’s conversations won’t be used to improve models powering ChatGPT and Sora.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -94,5 +94,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-29-61b00f&body=Card%3A%20Changes%2FChatGPT%2F2025-09-29-opt-out-of-model-training-so-their-teen-s-conversations-won-t-be-used-to-improve.md%0ACard%20ID%3A%20chatgpt-2025-09-29-61b00f%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-29-61b00f&body=Card%3A%20Changes%2FChatGPT%2F2025-09-29-opt-out-of-model-training-so-their-teen-s-conversations-won-t-be-used-to-improve.md%0ACard%20ID%3A%20chatgpt-2025-09-29-61b00f%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23parental-controls%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

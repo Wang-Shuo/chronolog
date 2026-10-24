@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e01b159dc7833666375bd1b1d7160496e9019394eb868d68e8f4c11109c1a295
+machine_hash: bb2d52421ae4c76d44daae7e760c712610b34b63fe0f9fc25d72294af5d9c977
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,7 +50,7 @@ record:
       them in chat. To use them in deep research, you will still need to enable each
       connector separately and select it every time you start a new deep research
       request.Learn more about connectors.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-pro
   extractor_version: fallback-v5
   impact: significant
   kind: launch
@@ -104,13 +104,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Pro)
 
-**ChatGPT** · 2025-08-12 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-08-12-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-db727e12|Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Pro)]]
+**ChatGPT** · 2025-08-12 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-pro) · from [[Releases/ChatGPT/chatgpt-2025-08-12-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-db727e12|Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Pro)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Gmail, Google Calendar, and Google Contacts are now available to connect and use in chat. Once you enable them, ChatGPT will automatically reference them when relevant, making it faster and easier to bring information from these tools into your conversations without having to manually select them each time.This capability is part of GPT-5 and will begin rolling out to Pro users globally this week, followed by Plus, Team, Enterprise, and Edu plans in the coming weeks. To enable, visit Settings → Connectors→ Connect on the application.If you already have Gmail or Google Calendar enabled for deep research, you can now also use them in chat. To use them in deep research, you will still need to enable each connector separately and select it every time you start a new deep research request.Learn more about connectors.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-pro
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -131,5 +131,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-08-12-9ea6d6&body=Card%3A%20Changes%2FChatGPT%2F2025-08-12-gmail-google-calendar-and-google-contacts-are-now-available-to-connect-and-use-i-9ea6d6.md%0ACard%20ID%3A%20chatgpt-2025-08-12-9ea6d6%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-08-12-9ea6d6&body=Card%3A%20Changes%2FChatGPT%2F2025-08-12-gmail-google-calendar-and-google-contacts-are-now-available-to-connect-and-use-i-9ea6d6.md%0ACard%20ID%3A%20chatgpt-2025-08-12-9ea6d6%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-pro%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

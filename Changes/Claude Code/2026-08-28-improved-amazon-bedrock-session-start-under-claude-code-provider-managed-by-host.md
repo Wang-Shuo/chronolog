@@ -5,8 +5,8 @@ description: 'Claude Code · 2026-08-28 · Mobile and Desktop: Improved Amazon B
   session start under `CLAUDE_CODE_PROVIDER_MANAGED_BY_HOST` (e.g. Claude Desktop):
   a…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1263
   relation: same-theme-chronology

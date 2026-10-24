@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b38a0c500494f27dde6657ae21a4149f033fe00ccd57f60eb232feb45d4f1d3c
+machine_hash: 0113325c4b9202c014d8e98d363eac369ba14259bec2ea4be9bf4087cffb8478
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
     images.'
   evidence:
   - quote: Increased the default size for in‐line generated images.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#android-app
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -55,13 +55,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Increased the default size for in‐line generated images
 
-**ChatGPT** · 2025-03-18 · [[Themes/image-generation|Image Generation]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-03-18-android-app-c47c961b|Android App]]
+**ChatGPT** · 2025-03-18 · [[Themes/image-generation|Image Generation]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#android-app) · from [[Releases/ChatGPT/chatgpt-2025-03-18-android-app-c47c961b|Android App]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Increased the default size for in‐line generated images.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#android-app
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -84,5 +84,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-03-18-3ba525&body=Card%3A%20Changes%2FChatGPT%2F2025-03-18-increased-the-default-size-for-in-line-generated-images.md%0ACard%20ID%3A%20chatgpt-2025-03-18-3ba525%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-03-18-3ba525&body=Card%3A%20Changes%2FChatGPT%2F2025-03-18-increased-the-default-size-for-in-line-generated-images.md%0ACard%20ID%3A%20chatgpt-2025-03-18-3ba525%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23android-app%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

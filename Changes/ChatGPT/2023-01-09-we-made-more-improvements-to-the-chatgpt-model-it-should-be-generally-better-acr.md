@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 90c0e7219dc4e09687bb766a6185cfc3107b86a8aebedc78350564d3d309051a
+machine_hash: 788767f9df3e8ce78e36f87b7afe540d2a23f98d45bae7bd14d53bb57ef6ee14
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
   evidence:
   - quote: We made more improvements to the ChatGPT model! It should be generally
       better across a wide range of topics and has improved factuality.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -54,13 +54,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # We made more improvements to the ChatGPT model!
 
-**ChatGPT** · 2023-01-09 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-01-09-updates-to-chatgpt-0d776ee3|Updates to ChatGPT]]
+**ChatGPT** · 2023-01-09 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt) · from [[Releases/ChatGPT/chatgpt-2023-01-09-updates-to-chatgpt-0d776ee3|Updates to ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We made more improvements to the ChatGPT model! It should be generally better across a wide range of topics and has improved factuality.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -82,5 +82,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-01-09-5af3d4&body=Card%3A%20Changes%2FChatGPT%2F2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr.md%0ACard%20ID%3A%20chatgpt-2023-01-09-5af3d4%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-01-09-5af3d4&body=Card%3A%20Changes%2FChatGPT%2F2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr.md%0ACard%20ID%3A%20chatgpt-2023-01-09-5af3d4%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23updates-to-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

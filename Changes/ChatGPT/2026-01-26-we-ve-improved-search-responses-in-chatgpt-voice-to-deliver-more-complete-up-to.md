@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 404a3b7d72d6fc3c5cf3b832d1c4ac21d50fa1ca073360649d9cf4cb1c0be3e2
+machine_hash: e97981e51a70d0ad9d2ba03300d2fd322b74ec91d055a612bb36431e08a11a2e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   evidence:
   - quote: We’ve improved search responses in ChatGPT Voice to deliver more complete,
       up-to-date answers, including better access to shopping results.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-search-response-quality-in-voice
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -60,13 +60,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Improvements to search response quality in Voice
 
-**ChatGPT** · 2026-01-26 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-01-26-improvements-to-search-response-quality-in-voice-f8293292|Improvements to search response quality in Voice]]
+**ChatGPT** · 2026-01-26 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-search-response-quality-in-voice) · from [[Releases/ChatGPT/chatgpt-2026-01-26-improvements-to-search-response-quality-in-voice-f8293292|Improvements to search response quality in Voice]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’ve improved search responses in ChatGPT Voice to deliver more complete, up-to-date answers, including better access to shopping results.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-search-response-quality-in-voice
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -87,5 +87,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-01-26-4f4150&body=Card%3A%20Changes%2FChatGPT%2F2026-01-26-we-ve-improved-search-responses-in-chatgpt-voice-to-deliver-more-complete-up-to.md%0ACard%20ID%3A%20chatgpt-2026-01-26-4f4150%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-01-26-4f4150&body=Card%3A%20Changes%2FChatGPT%2F2026-01-26-we-ve-improved-search-responses-in-chatgpt-voice-to-deliver-more-complete-up-to.md%0ACard%20ID%3A%20chatgpt-2026-01-26-4f4150%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23improvements-to-search-response-quality-in-voice%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

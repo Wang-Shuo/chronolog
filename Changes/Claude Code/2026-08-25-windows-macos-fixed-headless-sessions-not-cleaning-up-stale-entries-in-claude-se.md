@@ -5,8 +5,8 @@ description: 'Claude Code · 2026-08-25 · Mobile and Desktop: Windows/macOS: Fi
   headless sessions not cleaning up stale entries in `~/.claude/sessions` left by
   sessions…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1260
   relation: same-theme-chronology

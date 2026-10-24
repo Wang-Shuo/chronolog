@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dba17660ed40c8d715f587c6e13e2bf15e245301564c329db2810f96c8beadda
+machine_hash: c127a30376107aa0cabddc0dde25a82965df0a9995343575f5fa4678fe8bcf23
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
   - quote: Based on user feedback, we are now defaulting Plus users to a faster version
       of ChatGPT, formerly known as “Turbo”. We’ll keep the previous version around
       for a while.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -59,13 +59,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Based on user feedback, we are now defaulting Plus users to a faster version…
 
-**ChatGPT** · 2023-02-13 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-02-13-updates-to-chatgpt-0d776ee3|Updates to ChatGPT]]
+**ChatGPT** · 2023-02-13 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt) · from [[Releases/ChatGPT/chatgpt-2023-02-13-updates-to-chatgpt-0d776ee3|Updates to ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Based on user feedback, we are now defaulting Plus users to a faster version of ChatGPT, formerly known as “Turbo”. We’ll keep the previous version around for a while.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -89,5 +89,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-02-13-24aa11&body=Card%3A%20Changes%2FChatGPT%2F2023-02-13-based-on-user-feedback-we-are-now-defaulting-plus-users-to-a-faster-version-of-c.md%0ACard%20ID%3A%20chatgpt-2023-02-13-24aa11%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-02-13-24aa11&body=Card%3A%20Changes%2FChatGPT%2F2023-02-13-based-on-user-feedback-we-are-now-defaulting-plus-users-to-a-faster-version-of-c.md%0ACard%20ID%3A%20chatgpt-2023-02-13-24aa11%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23updates-to-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

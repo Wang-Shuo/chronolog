@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ed81510b1cfd8cfd22fdb8ce2c5ede1472312b2eff83ee52c4db4246e03539a7
+machine_hash: 5c56289d878b6f0f16dcebfc37c3b783af0522ec8eb907b416c067ca437e4936
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   evidence:
   - quote: 'General performance: Among other improvements, users will notice that
       ChatGPT is now less likely to refuse to answer questions.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#performance-updates-to-chatgpt
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -54,13 +54,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # General performance: Among other improvements, users will notice that ChatGPT is now…
 
-**ChatGPT** · 2022-12-15 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d|Performance updates to ChatGPT]]
+**ChatGPT** · 2022-12-15 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#performance-updates-to-chatgpt) · from [[Releases/ChatGPT/chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d|Performance updates to ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > General performance: Among other improvements, users will notice that ChatGPT is now less likely to refuse to answer questions.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#performance-updates-to-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -83,5 +83,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2022-12-15-9c6f9c&body=Card%3A%20Changes%2FChatGPT%2F2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n.md%0ACard%20ID%3A%20chatgpt-2022-12-15-9c6f9c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2022-12-15-9c6f9c&body=Card%3A%20Changes%2FChatGPT%2F2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n.md%0ACard%20ID%3A%20chatgpt-2022-12-15-9c6f9c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23performance-updates-to-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

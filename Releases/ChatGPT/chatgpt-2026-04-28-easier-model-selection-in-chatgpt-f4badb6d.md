@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-04-28'
 description: 'ChatGPT release Easier model selection in ChatGPT on 2026-04-28: 1 tracked
   change across Model Support'
-machine_hash: a76a9d087d5c5a695858abc3003069b0e1be53e1375a33c2248d79c57e3e5e9e
+machine_hash: 1a467753786e7eea9191c73d34cdeab455d6eb91013b66f50261b554e21d5182
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     effort controls into the model picker. When you choose a Thinking or Pro model,
     you can…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#easier-model-selection-in-chatgpt
   title: Easier model selection in ChatGPT
   version: Easier model selection in ChatGPT
 release_id: chatgpt-2026-04-28-easier-model-selection-in-chatgpt-f4badb6d
 source_release: Easier model selection in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#easier-model-selection-in-chatgpt
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Easier model selection in ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Easier model selection in ChatGPT
 
-**ChatGPT** · 2026-04-28 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-04-28 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#easier-model-selection-in-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

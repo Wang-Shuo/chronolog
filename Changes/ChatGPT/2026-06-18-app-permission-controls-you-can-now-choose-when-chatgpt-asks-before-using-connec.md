@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4bcbc990ab04a1178bf209495f27ef26da5cf34977bc78b730b57df952c16fc6
+machine_hash: a316a859321cba1eeae2000a27e07eae687090d7fa2ca163c5bfb7267900547a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
   - quote: 'App permission controls: You can now choose when ChatGPT asks before using
       connected apps. Set ChatGPT to always ask, ask before making changes, or only
       ask before important changes. Manage preferences in Settings > Apps.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -68,13 +68,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # App permission controls: You can now choose when ChatGPT asks before using connected apps
 
-**ChatGPT** · 2026-06-18 · [[Themes/safety-privacy|Safety and Privacy]] · Web, iOS, and Android · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
+**ChatGPT** · 2026-06-18 · [[Themes/safety-privacy|Safety and Privacy]] · Web, iOS, and Android · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > App permission controls: You can now choose when ChatGPT asks before using connected apps. Set ChatGPT to always ask, ask before making changes, or only ask before important changes. Manage preferences in Settings > Apps.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -104,5 +104,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-18-2159f8&body=Card%3A%20Changes%2FChatGPT%2F2026-06-18-app-permission-controls-you-can-now-choose-when-chatgpt-asks-before-using-connec.md%0ACard%20ID%3A%20chatgpt-2026-06-18-2159f8%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-18-2159f8&body=Card%3A%20Changes%2FChatGPT%2F2026-06-18-app-permission-controls-you-can-now-choose-when-chatgpt-asks-before-using-connec.md%0ACard%20ID%3A%20chatgpt-2026-06-18-2159f8%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-app-experience-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: e4048ddcf615d53cab898005a506dec3040eb65aa4519ea89efb86743ec3bab1
+machine_hash: b1d2afccfc3235a0f770bf551acb0f044e6c463357ea9a67c706b5ea8872a8e8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
   - quote: We're doubling the number of messages ChatGPT Plus customers can send with
       GPT-4. Rolling out over the next week, the new message limit will be 40 every
       3 hours.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#higher-message-limits-for-gpt-4
   extractor_version: fallback-v5
   impact: significant
   kind: policy
@@ -64,13 +64,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Higher message limits for GPT-4
 
-**ChatGPT** · 2023-07-19 · [[Themes/model-support|Model Support]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-07-19-higher-message-limits-for-gpt-4-1b971518|Higher message limits for GPT-4]]
+**ChatGPT** · 2023-07-19 · [[Themes/model-support|Model Support]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#higher-message-limits-for-gpt-4) · from [[Releases/ChatGPT/chatgpt-2023-07-19-higher-message-limits-for-gpt-4-1b971518|Higher message limits for GPT-4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We're doubling the number of messages ChatGPT Plus customers can send with GPT-4. Rolling out over the next week, the new message limit will be 40 every 3 hours.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#higher-message-limits-for-gpt-4
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -91,5 +91,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-07-19-3f0b5f&body=Card%3A%20Changes%2FChatGPT%2F2023-07-19-we-re-doubling-the-number-of-messages-chatgpt-plus-customers-can-send-with-gpt-4.md%0ACard%20ID%3A%20chatgpt-2023-07-19-3f0b5f%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-07-19-3f0b5f&body=Card%3A%20Changes%2FChatGPT%2F2023-07-19-we-re-doubling-the-number-of-messages-chatgpt-plus-customers-can-send-with-gpt-4.md%0ACard%20ID%3A%20chatgpt-2023-07-19-3f0b5f%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23higher-message-limits-for-gpt-4%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

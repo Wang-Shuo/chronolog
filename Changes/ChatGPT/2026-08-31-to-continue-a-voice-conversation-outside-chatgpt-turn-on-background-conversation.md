@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9db3a7cb30a3154112952cefa753421871bcc9205f699cb5e1b586de30f10b76
+machine_hash: 145ffde1a47afd9ae97d405bf5378987626a3ce7d929ccb275fbdd988d680df5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   evidence:
   - quote: To continue a Voice conversation outside ChatGPT, turn on Background conversations
       in Settings → Voice.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#see-live-voice-content-on-your-lock-screen
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -59,13 +59,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # To continue a Voice conversation outside ChatGPT, turn on Background conversations…
 
-**ChatGPT** · 2026-08-31 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-31-see-live-voice-content-on-your-lock-screen-3b9abebd|See Live voice content on your Lock Screen]]
+**ChatGPT** · 2026-08-31 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#see-live-voice-content-on-your-lock-screen) · from [[Releases/ChatGPT/chatgpt-2026-08-31-see-live-voice-content-on-your-lock-screen-3b9abebd|See Live voice content on your Lock Screen]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > To continue a Voice conversation outside ChatGPT, turn on Background conversations in Settings → Voice.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#see-live-voice-content-on-your-lock-screen
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -89,5 +89,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-31-3e3ef6&body=Card%3A%20Changes%2FChatGPT%2F2026-08-31-to-continue-a-voice-conversation-outside-chatgpt-turn-on-background-conversation.md%0ACard%20ID%3A%20chatgpt-2026-08-31-3e3ef6%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-31-3e3ef6&body=Card%3A%20Changes%2FChatGPT%2F2026-08-31-to-continue-a-voice-conversation-outside-chatgpt-turn-on-background-conversation.md%0ACard%20ID%3A%20chatgpt-2026-08-31-3e3ef6%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23see-live-voice-content-on-your-lock-screen%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

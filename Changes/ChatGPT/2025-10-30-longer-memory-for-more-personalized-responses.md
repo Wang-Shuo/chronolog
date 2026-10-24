@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 58d32933459e0cfe6154de5ce3c490559422596becb23cb7012ba388f4ad382e
+machine_hash: 95726d313a6ea081fe788724c00497a5995381f844262bcfe8784a83174b30a9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
     responses'
   evidence:
   - quote: Longer memory for more personalized responses
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -57,13 +57,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Longer memory for more personalized responses
 
-**ChatGPT** · 2025-10-30 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-10-30-chatgpt-go-expansion-37d00d9f|ChatGPT Go expansion]]
+**ChatGPT** · 2025-10-30 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion) · from [[Releases/ChatGPT/chatgpt-2025-10-30-chatgpt-go-expansion-37d00d9f|ChatGPT Go expansion]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Longer memory for more personalized responses
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -87,5 +87,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-10-30-62644d&body=Card%3A%20Changes%2FChatGPT%2F2025-10-30-longer-memory-for-more-personalized-responses.md%0ACard%20ID%3A%20chatgpt-2025-10-30-62644d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-10-30-62644d&body=Card%3A%20Changes%2FChatGPT%2F2025-10-30-longer-memory-for-more-personalized-responses.md%0ACard%20ID%3A%20chatgpt-2025-10-30-62644d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-go-expansion%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

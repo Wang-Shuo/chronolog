@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6de429a094a00c380bf0efb655903746471e971b65b54df76782c35fc4eaa965
+machine_hash: 259af01955a0140db4b6b051b6728c755d943fe944d104b79ca431f823eb07a9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,11 +43,11 @@ record:
       also introducing storage management across plans. Storage includes files you
       upload and files created in ChatGPT, including documents, spreadsheets, presentations,
       and images. Limits vary by plan:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-expands-to-free-and-go-users-with-storage-management
   - quote: 'Free: 500 MB'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-expands-to-free-and-go-users-with-storage-management
   - quote: 'Plus and Business: 20 GB'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-expands-to-free-and-go-users-with-storage-management
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # File library is expanding to Free and Go users, including to users in the European…
 
-**ChatGPT** · 2026-05-14 · [[Themes/file-data|Files and Data]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-05-14-file-library-expands-to-free-and-go-users-with-storage-managemen-94a98ddb|File library expands to Free and Go users, with storage management]]
+**ChatGPT** · 2026-05-14 · [[Themes/file-data|Files and Data]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-expands-to-free-and-go-users-with-storage-management) · from [[Releases/ChatGPT/chatgpt-2026-05-14-file-library-expands-to-free-and-go-users-with-storage-managemen-94a98ddb|File library expands to Free and Go users, with storage management]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -98,7 +98,7 @@ type: change
 >
 > Plus and Business: 20 GB
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-expands-to-free-and-go-users-with-storage-management
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -121,5 +121,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-05-14-141640&body=Card%3A%20Changes%2FChatGPT%2F2026-05-14-file-library-is-expanding-to-free-and-go-users-including-to-users-in-the-europea-141640.md%0ACard%20ID%3A%20chatgpt-2026-05-14-141640%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-05-14-141640&body=Card%3A%20Changes%2FChatGPT%2F2026-05-14-file-library-is-expanding-to-free-and-go-users-including-to-users-in-the-europea-141640.md%0ACard%20ID%3A%20chatgpt-2026-05-14-141640%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23file-library-expands-to-free-and-go-users-with-storage-management%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 75738baefd8e3aa1123ce949d608820a6d1ddf308dcc532a1a89cff3b11eece5
+machine_hash: 0a9c0937f4c937012fe7e2f0bb206feedb618a00c553cb467f7d6a8015f86d82
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ record:
       removing the Higher intelligence setting from ChatGPT on the web for these plans.
       ChatGPT can still switch automatically for safety purposes. For more information,
       see: GPT-5.6 and GPT-6 Pro in ChatGPT.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-pro
   extractor_version: fallback-v5
   impact: significant
   kind: policy
@@ -85,13 +85,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Changes to automatic switching to thinking in ChatGPT (Plus and Pro)
 
-**ChatGPT** · 2026-09-14 · [[Themes/model-support|Model Support]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-14-changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-p-54d16c58|Changes to automatic switching to thinking in ChatGPT (Plus and Pro)]]
+**ChatGPT** · 2026-09-14 · [[Themes/model-support|Model Support]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-pro) · from [[Releases/ChatGPT/chatgpt-2026-09-14-changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-p-54d16c58|Changes to automatic switching to thinking in ChatGPT (Plus and Pro)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re retiring automatic switching from Instant to Thinking (reasoning) for ChatGPT Plus and Pro users globally. You can still select an available option in the model picker to give ChatGPT more time to think or reason. We’re also removing the Higher intelligence setting from ChatGPT on the web for these plans. ChatGPT can still switch automatically for safety purposes. For more information, see: GPT-5.6 and GPT-6 Pro in ChatGPT.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-pro
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -112,5 +112,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-14-40fdb5&body=Card%3A%20Changes%2FChatGPT%2F2026-09-14-we-re-retiring-automatic-switching-from-instant-to-thinking-reasoning-for-chatgp.md%0ACard%20ID%3A%20chatgpt-2026-09-14-40fdb5%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-14-40fdb5&body=Card%3A%20Changes%2FChatGPT%2F2026-09-14-we-re-retiring-automatic-switching-from-instant-to-thinking-reasoning-for-chatgp.md%0ACard%20ID%3A%20chatgpt-2026-09-14-40fdb5%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-pro%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

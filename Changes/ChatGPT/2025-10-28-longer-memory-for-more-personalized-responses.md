@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1828b2df047700d4c4532ed484f79bba23d0b27ddf805301bd78f78c5f82812a
+machine_hash: 1a4a1f846008f14db7ebcf0ecb6382f072b9bf4d61e6cce91fb29bec4f835208
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
     personalized responses'
   evidence:
   - quote: Longer memory for more personalized responses
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-brazil
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -57,13 +57,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Longer memory for more personalized responses
 
-**ChatGPT** · 2025-10-28 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-10-28-chatgpt-go-now-available-in-brazil-6c8c9319|ChatGPT Go now available in Brazil]]
+**ChatGPT** · 2025-10-28 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-brazil) · from [[Releases/ChatGPT/chatgpt-2025-10-28-chatgpt-go-now-available-in-brazil-6c8c9319|ChatGPT Go now available in Brazil]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Longer memory for more personalized responses
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-brazil
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -87,5 +87,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-10-28-9fade2&body=Card%3A%20Changes%2FChatGPT%2F2025-10-28-longer-memory-for-more-personalized-responses.md%0ACard%20ID%3A%20chatgpt-2025-10-28-9fade2%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-10-28-9fade2&body=Card%3A%20Changes%2FChatGPT%2F2025-10-28-longer-memory-for-more-personalized-responses.md%0ACard%20ID%3A%20chatgpt-2025-10-28-9fade2%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-go-now-available-in-brazil%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-08-14 · Mobile and Desktop: Use ChatGPT and Codex
   Linux. The desktop app is now available globally in public preview on Ubuntu 24.04
   LTS and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1249
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ba100924cc82a42293bec3da3ead3f424c209f963237a7b5ac74eec350593d3c
+machine_hash: c127dfe6db2de4e5382520270f5260cb8b03aed6ef7428370b9f1a7ca2486d66
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
   - quote: Use ChatGPT and Codex on Linux. The desktop app is now available globally
       in public preview on Ubuntu 24.04 LTS and 26.04 LTS, Debian 13, and Fedora 43
       and 44.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -63,13 +63,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Use ChatGPT and Codex on Linux
 
-**ChatGPT** · 2026-08-14 · [[Themes/mobile-desktop|Mobile and Desktop]] · Linux desktop · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
+**ChatGPT** · 2026-08-14 · [[Themes/mobile-desktop|Mobile and Desktop]] · Linux desktop · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Use ChatGPT and Codex on Linux. The desktop app is now available globally in public preview on Ubuntu 24.04 LTS and 26.04 LTS, Debian 13, and Fedora 43 and 44.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -95,5 +95,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-14-8503bc&body=Card%3A%20Changes%2FChatGPT%2F2026-08-14-use-chatgpt-and-codex-on-linux-the-desktop-app-is-now-available-globally-in-publ.md%0ACard%20ID%3A%20chatgpt-2026-08-14-8503bc%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-14-8503bc&body=Card%3A%20Changes%2FChatGPT%2F2026-08-14-use-chatgpt-and-codex-on-linux-the-desktop-app-is-now-available-globally-in-publ.md%0ACard%20ID%3A%20chatgpt-2026-08-14-8503bc%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-app-experience-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

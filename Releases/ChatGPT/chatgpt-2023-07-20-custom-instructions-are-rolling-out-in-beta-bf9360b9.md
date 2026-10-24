@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-07-20'
 description: 'ChatGPT release Custom instructions are rolling out in beta on 2023-07-20:
   1 tracked change across Memory and Personalization'
-machine_hash: 1ddcc80952e25f3e03d3f7e4dfd8c770e93dcfa3d81b1546934e7e08eaf70ba3
+machine_hash: 5853ad62355b2fb337f459f7dc6a1e947d96ee43cc0796cb6fd753b75084bb80
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     here.Custom instructions are available to all Plus users and expanding to all
     users in the…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-instructions-are-rolling-out-in-beta
   title: Custom instructions are rolling out in beta
   version: Custom instructions are rolling out in beta
 release_id: chatgpt-2023-07-20-custom-instructions-are-rolling-out-in-beta-bf9360b9
 source_release: Custom instructions are rolling out in beta
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-instructions-are-rolling-out-in-beta
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Custom instructions are rolling out in beta
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Custom instructions are rolling out in beta
 
-**ChatGPT** · 2023-07-20 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2023-07-20 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-instructions-are-rolling-out-in-beta)
 <!-- chronolog:end -->
 
 ## Summary

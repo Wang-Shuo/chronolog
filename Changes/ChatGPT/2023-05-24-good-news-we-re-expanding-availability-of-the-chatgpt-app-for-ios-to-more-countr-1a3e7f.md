@@ -5,8 +5,8 @@ description: 'ChatGPT · 2023-05-24 · Mobile and Desktop: Good news! We’re ex
   availability of the ChatGPT app for iOS to more countries and regions. Users in
   11…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 71
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: d1ae48100e50aef208866fa78f8e0076e2f3547494f7f53abb68f836c3643798
+machine_hash: 0aa53ff9954ac30b0ed3c361c6d39a2db159aa90dc7c436f532101fcbf53c18f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ record:
       Germany, Ireland, Jamaica, Korea, New Zealand, Nicaragua, Nigeria, and the United
       Kingdom.We will continue to roll out to more countries and regions in the coming
       weeks. You can track the iOS app rollout here.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app-available-in-more-countries-shared-links-in-alpha-bing-plugin-disable-history-on-ios
   extractor_version: fallback-v5
   impact: significant
   kind: launch
@@ -54,8 +54,8 @@ record:
   title: ChatGPT app for iOS in more countries
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support
-  🥳]]'
+- "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support
+  \U0001F973]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96|chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -66,13 +66,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT app for iOS in more countries
 
-**ChatGPT** · 2023-05-24 · [[Themes/mobile-desktop|Mobile and Desktop]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96|iOS app available in more countries, shared links in alpha, Bing Plugin, disable history on iOS]]
+**ChatGPT** · 2023-05-24 · [[Themes/mobile-desktop|Mobile and Desktop]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app-available-in-more-countries-shared-links-in-alpha-bing-plugin-disable-history-on-ios) · from [[Releases/ChatGPT/chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96|iOS app available in more countries, shared links in alpha, Bing Plugin, disable history on iOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Good news! We’re expanding availability of the ChatGPT app for iOS to more countries and regions. Users in 11 countries can now download the ChatGPT app in the Apple App Store including the United States: Albania, Croatia, France, Germany, Ireland, Jamaica, Korea, New Zealand, Nicaragua, Nigeria, and the United Kingdom.We will continue to roll out to more countries and regions in the coming weeks. You can track the iOS app rollout here.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app-available-in-more-countries-shared-links-in-alpha-bing-plugin-disable-history-on-ios
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -97,5 +97,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-05-24-1a3e7f&body=Card%3A%20Changes%2FChatGPT%2F2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f.md%0ACard%20ID%3A%20chatgpt-2023-05-24-1a3e7f%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-05-24-1a3e7f&body=Card%3A%20Changes%2FChatGPT%2F2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f.md%0ACard%20ID%3A%20chatgpt-2023-05-24-1a3e7f%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23ios-app-available-in-more-countries-shared-links-in-alpha-bing-plugin-disable-history-on-ios%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 52e09a2ef23e7267cf62a3a81c8a4b2113799abbe33428c7ba91d27e83cf53db
+machine_hash: f867989ba9c1cca05e65d7a011dd6b0b790bc77d241446ebeae9aa2de7f95df4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,7 +45,7 @@ record:
       in the blog post accompanying their API release. They also went through standard
       safety evaluations. Detailed results are available in the newly launched Safety
       Evaluations Hub.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-41-mini-replacing-gpt-4o-mini-in-chatgpt-for-all-users
   extractor_version: fallback-v5
   impact: significant
   kind: launch
@@ -92,13 +92,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Introducing GPT-4.1 mini, replacing GPT-4o mini, in ChatGPT for all users
 
-**ChatGPT** · 2025-05-14 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-05-14-introducing-gpt-4-1-mini-replacing-gpt-4o-mini-in-chatgpt-for-al-05dfeae0|Introducing GPT-4.1 mini, replacing GPT-4o mini, in ChatGPT for all users]]
+**ChatGPT** · 2025-05-14 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-41-mini-replacing-gpt-4o-mini-in-chatgpt-for-all-users) · from [[Releases/ChatGPT/chatgpt-2025-05-14-introducing-gpt-4-1-mini-replacing-gpt-4o-mini-in-chatgpt-for-al-05dfeae0|Introducing GPT-4.1 mini, replacing GPT-4o mini, in ChatGPT for all users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > GPT-4.1 mini is a fast, capable, and efficient small model, delivering significant improvements compared to GPT-4o mini—in instruction-following, coding, and overall intelligence. Starting today, GPT-4.1 mini replaces GPT-4o mini in the model picker under "more models" for paid users, and will serve as the fallback model for free users once they reach their GPT-4o usage limits. Rate limits remain the same.Evals for GPT-4.1 and GPT-4.1 mini were originally shared in the blog post accompanying their API release. They also went through standard safety evaluations. Detailed results are available in the newly launched Safety Evaluations Hub.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-41-mini-replacing-gpt-4o-mini-in-chatgpt-for-all-users
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -119,5 +119,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-05-14-722b7d&body=Card%3A%20Changes%2FChatGPT%2F2025-05-14-gpt-4-1-mini-is-a-fast-capable-and-efficient-small-model-delivering-significant-722b7d.md%0ACard%20ID%3A%20chatgpt-2025-05-14-722b7d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-05-14-722b7d&body=Card%3A%20Changes%2FChatGPT%2F2025-05-14-gpt-4-1-mini-is-a-fast-capable-and-efficient-small-model-delivering-significant-722b7d.md%0ACard%20ID%3A%20chatgpt-2025-05-14-722b7d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23introducing-gpt-41-mini-replacing-gpt-4o-mini-in-chatgpt-for-all-users%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

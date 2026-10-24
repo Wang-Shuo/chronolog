@@ -5,8 +5,8 @@ description: 'Claude Code · 2026-09-11 · Mobile and Desktop: Changed skills sy
   from claude.ai in cloud sessions to be named `anthropic-skills:<name>`, matching
   Claude…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1277
   relation: same-theme-chronology

@@ -3,7 +3,7 @@ changes_count: 2
 date: '2026-08-13'
 description: 'ChatGPT release Google Drive is now in Library on 2026-08-13: 2 tracked
   changes across Collaboration, Search and Browsing'
-machine_hash: 84f182687cb57724bf156de0a9c66cbcdca5f491622c667d05df07f846234d84
+machine_hash: 0ac6cf45dc31eb5e30435c54350774c1f3b77eaeaaa3fa0c7b6c1f1dae225ebc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     shared directly with you. You can also quickly pull up a Drive file from the composer
     or with @mentions and add it to any chat—without uploading it again.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#google-drive-is-now-in-library
   title: Google Drive is now in Library
   version: Google Drive is now in Library
 release_id: chatgpt-2026-08-13-google-drive-is-now-in-library-bbf66648
 source_release: Google Drive is now in Library
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#google-drive-is-now-in-library
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Google Drive is now in Library
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Google Drive is now in Library
 
-**ChatGPT** · 2026-08-13 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-08-13 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#google-drive-is-now-in-library)
 <!-- chronolog:end -->
 
 ## Summary

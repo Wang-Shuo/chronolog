@@ -4,8 +4,8 @@ date: '2025-03-18'
 description: 'ChatGPT · 2025-03-18 · Mobile and Desktop: Improved table-copying functionality
   out of ChatGPT responses on iOS and macOS.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 735
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b3bc32b6259057fa51fe8a00a41139f675c3ddba850ac076d644751a46720d3e
+machine_hash: ae8dda7ab98aeb7d39ff7d081cde9925639e6df0ad20823379e3ecf75445dcca
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   evidence:
   - quote: Improved table-copying functionality out of ChatGPT responses on iOS and
       macOS.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -58,13 +58,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Improved table-copying functionality out of ChatGPT responses on iOS and macOS
 
-**ChatGPT** · 2025-03-18 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-03-18-ios-app-6a42bb0f|iOS App]]
+**ChatGPT** · 2025-03-18 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app) · from [[Releases/ChatGPT/chatgpt-2025-03-18-ios-app-6a42bb0f|iOS App]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Improved table-copying functionality out of ChatGPT responses on iOS and macOS.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -89,5 +89,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-03-18-92f17b&body=Card%3A%20Changes%2FChatGPT%2F2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos.md%0ACard%20ID%3A%20chatgpt-2025-03-18-92f17b%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-03-18-92f17b&body=Card%3A%20Changes%2FChatGPT%2F2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos.md%0ACard%20ID%3A%20chatgpt-2025-03-18-92f17b%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23ios-app%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

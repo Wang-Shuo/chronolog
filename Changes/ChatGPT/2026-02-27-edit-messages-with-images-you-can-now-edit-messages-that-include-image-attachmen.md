@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3bf6daea1c8ff6b34c49f71e7003bdafc2423236d1641df03a14ffc27ff9121e
+machine_hash: d72091c096896318b9995c80e1c241660bbe544b48748b8f4335c43c66caee40
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
   - quote: Edit messages with images. You can now edit messages that include image
       attachments, so you don’t have to start over to adjust your prompt or regenerate
       results.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -66,13 +66,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Edit messages with images
 
-**ChatGPT** · 2026-02-27 · [[Themes/editor-experience|Editor Experience]] · Web · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|ChatGPT Web and Android updates: Edit image prompts, share faster, and smoother conversations]]
+**ChatGPT** · 2026-02-27 · [[Themes/editor-experience|Editor Experience]] · Web · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations) · from [[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|ChatGPT Web and Android updates: Edit image prompts, share faster, and smoother conversations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Edit messages with images. You can now edit messages that include image attachments, so you don’t have to start over to adjust your prompt or regenerate results.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -101,5 +101,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-27-f608a6&body=Card%3A%20Changes%2FChatGPT%2F2026-02-27-edit-messages-with-images-you-can-now-edit-messages-that-include-image-attachmen.md%0ACard%20ID%3A%20chatgpt-2026-02-27-f608a6%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-27-f608a6&body=Card%3A%20Changes%2FChatGPT%2F2026-02-27-edit-messages-with-images-you-can-now-edit-messages-that-include-image-attachmen.md%0ACard%20ID%3A%20chatgpt-2026-02-27-f608a6%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -5,8 +5,8 @@ description: 'ChatGPT · 2025-08-22 · Mobile and Desktop: This feature will ini
   only be available on the ChatGPT website and Windows app. Support for mobile (iOS
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 892
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8de68a69e6dabfeff82ad4abc325a711f0db1b35acb0f759fadeaac3df903167
+machine_hash: c28344bcac0911db3ae6fa8e7064ed0cf6614cb16b102bb22a833d5ecbf8a4f2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
   - quote: This feature will initially only be available on the ChatGPT website and
       Windows app. Support for mobile (iOS and Android) and macOS app will follow
       in the coming weeks.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-only-memory
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -65,13 +65,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # This feature will initially only be available on the ChatGPT website and Windows app
 
-**ChatGPT** · 2025-08-22 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-08-22-project-only-memory-3424a221|Project-only memory]]
+**ChatGPT** · 2025-08-22 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-only-memory) · from [[Releases/ChatGPT/chatgpt-2025-08-22-project-only-memory-3424a221|Project-only memory]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > This feature will initially only be available on the ChatGPT website and Windows app. Support for mobile (iOS and Android) and macOS app will follow in the coming weeks.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-only-memory
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -94,5 +94,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-08-22-8db6f0&body=Card%3A%20Changes%2FChatGPT%2F2025-08-22-this-feature-will-initially-only-be-available-on-the-chatgpt-website-and-windows.md%0ACard%20ID%3A%20chatgpt-2025-08-22-8db6f0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-08-22-8db6f0&body=Card%3A%20Changes%2FChatGPT%2F2025-08-22-this-feature-will-initially-only-be-available-on-the-chatgpt-website-and-windows.md%0ACard%20ID%3A%20chatgpt-2025-08-22-8db6f0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23project-only-memory%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

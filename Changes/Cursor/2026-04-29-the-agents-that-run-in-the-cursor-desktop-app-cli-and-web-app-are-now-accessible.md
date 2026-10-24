@@ -4,8 +4,8 @@ date: '2026-04-29'
 description: 'Cursor · 2026-04-29 · Mobile and Desktop: The agents that run in the
   Cursor desktop app, CLI, and web app are now accessible with a few lines of TypeScript…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1142
   relation: same-theme-chronology

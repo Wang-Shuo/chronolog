@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5cc90add09696382c2a66da4b7cb8ff2dd4e76462012591f2b00173a83cafab4
+machine_hash: d7caecd6b62d249db3e3350473c0cfae081ea53d1858651f0ee8bd967dad53ef
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ record:
       options, and much more.ChatGPT Enterprise also provides unlimited access to
       Advanced Data Analysis, previously known as Code Interpreter.Learn more on our
       website and connect with our sales team to get started.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-enterprise
   extractor_version: fallback-v5
   impact: incremental
   kind: launch
@@ -96,13 +96,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Introducing ChatGPT Enterprise
 
-**ChatGPT** · 2023-08-28 · [[Themes/safety-privacy|Safety and Privacy]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-08-28-introducing-chatgpt-enterprise-eb7127e6|Introducing ChatGPT Enterprise]]
+**ChatGPT** · 2023-08-28 · [[Themes/safety-privacy|Safety and Privacy]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-enterprise) · from [[Releases/ChatGPT/chatgpt-2023-08-28-introducing-chatgpt-enterprise-eb7127e6|Introducing ChatGPT Enterprise]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Today we’re launching ChatGPT Enterprise, which offers enterprise-grade security and privacy, unlimited higher-speed GPT-4 access, longer context windows for processing longer inputs, advanced data analysis capabilities, customization options, and much more.ChatGPT Enterprise also provides unlimited access to Advanced Data Analysis, previously known as Code Interpreter.Learn more on our website and connect with our sales team to get started.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-enterprise
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -123,5 +123,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-08-28-4958cf&body=Card%3A%20Changes%2FChatGPT%2F2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security-4958cf.md%0ACard%20ID%3A%20chatgpt-2023-08-28-4958cf%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-08-28-4958cf&body=Card%3A%20Changes%2FChatGPT%2F2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security-4958cf.md%0ACard%20ID%3A%20chatgpt-2023-08-28-4958cf%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23introducing-chatgpt-enterprise%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

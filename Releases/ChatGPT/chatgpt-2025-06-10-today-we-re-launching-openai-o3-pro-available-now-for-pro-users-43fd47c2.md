@@ -4,7 +4,7 @@ date: '2025-06-10'
 description: 'ChatGPT release Today, we''re launching OpenAI o3-pro—available now
   for Pro users in ChatGPT and in our API. on 2025-06-10: 1 tracked change across
   Model Support'
-machine_hash: af1d45264d7d440b06c0fbf5d78c335a42fbf0de3a88e6875ea3ba3cf61ad684
+machine_hash: 9e1c6732e831c82bd685536bfb84efe8c33aad477573f0dff441f532b6159f44
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -19,7 +19,7 @@ record:
     and coding—areas where o3-pro continues to excel, as shown in academic evaluations.
     Like o3…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#today-were-launching-openai-o3-proavailable-now-for-pro-users-in-chatgpt-and-in-our-api
   title: Today, we're launching OpenAI o3-pro—available now for Pro users in ChatGPT
     and in our API.
   version: Today, we're launching OpenAI o3-pro—available now for Pro users in ChatGPT
@@ -28,7 +28,7 @@ release_id: chatgpt-2025-06-10-today-we-re-launching-openai-o3-pro-available-now
 source_release: Today, we're launching OpenAI o3-pro—available now for Pro users in
   ChatGPT and in our API.
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#today-were-launching-openai-o3-proavailable-now-for-pro-users-in-chatgpt-and-in-our-api
 tags:
 - release
 - chatgpt
@@ -41,7 +41,7 @@ version: Today, we're launching OpenAI o3-pro—available now for Pro users in C
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Today, we're launching OpenAI o3-pro—available now for Pro users in ChatGPT and in our API.
 
-**ChatGPT** · 2025-06-10 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-06-10 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#today-were-launching-openai-o3-proavailable-now-for-pro-users-in-chatgpt-and-in-our-api)
 <!-- chronolog:end -->
 
 ## Summary

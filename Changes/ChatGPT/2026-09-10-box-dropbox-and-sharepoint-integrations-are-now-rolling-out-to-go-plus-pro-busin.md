@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: 323b709c4ad1a0b37012227c43952957733bc7b763f523cca7324d0e28ab380d
+machine_hash: 88562bc9409554231cdac3bb7435b4fc962b73e57e442c92d39f945f43e1f602
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       Pro, Business, Edu, Healthcare and Enterprise users on the web in both Chat
       and Work. Existing file permissions and workspace controls apply. Mobile support
       will follow.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#box-dropbox-and-sharepoint-are-now-in-library
   extractor_version: fallback-v5
   impact: significant
   kind: expansion
@@ -81,13 +81,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Box, Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro…
 
-**ChatGPT** · 2026-09-10 · [[Themes/enterprise-admin|Enterprise and Administration]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-10-box-dropbox-and-sharepoint-are-now-in-library-e089c018|Box, Dropbox, and SharePoint are now in Library]]
+**ChatGPT** · 2026-09-10 · [[Themes/enterprise-admin|Enterprise and Administration]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#box-dropbox-and-sharepoint-are-now-in-library) · from [[Releases/ChatGPT/chatgpt-2026-09-10-box-dropbox-and-sharepoint-are-now-in-library-e089c018|Box, Dropbox, and SharePoint are now in Library]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Box, Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro, Business, Edu, Healthcare and Enterprise users on the web in both Chat and Work. Existing file permissions and workspace controls apply. Mobile support will follow.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#box-dropbox-and-sharepoint-are-now-in-library
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -110,5 +110,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-10-b97838&body=Card%3A%20Changes%2FChatGPT%2F2026-09-10-box-dropbox-and-sharepoint-integrations-are-now-rolling-out-to-go-plus-pro-busin.md%0ACard%20ID%3A%20chatgpt-2026-09-10-b97838%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-10-b97838&body=Card%3A%20Changes%2FChatGPT%2F2026-09-10-box-dropbox-and-sharepoint-integrations-are-now-rolling-out-to-go-plus-pro-busin.md%0ACard%20ID%3A%20chatgpt-2026-09-10-b97838%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23box-dropbox-and-sharepoint-are-now-in-library%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

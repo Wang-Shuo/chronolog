@@ -3,7 +3,7 @@ changes_count: 2
 date: '2025-06-12'
 description: 'ChatGPT release Expanded Model Support for Custom GPTs on 2025-06-12:
   2 tracked changes across Enterprise and Administration, Model Support'
-machine_hash: 6fe88f5ecdddc935439c169997a63e419ac22789151bbe6ce034beb6563e615f
+machine_hash: abefba4f4d6018b59f4766ae4c1f1cf3168e9c20cf512f14176326971d9ab13d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     performance for different tasks, industries, and workflows. Creators can also
     set a recommended model to guide users.Key details:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#expanded-model-support-for-custom-gpts
   title: Expanded Model Support for Custom GPTs
   version: Expanded Model Support for Custom GPTs
 release_id: chatgpt-2025-06-12-expanded-model-support-for-custom-gpts-55f4555f
 source_release: Expanded Model Support for Custom GPTs
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#expanded-model-support-for-custom-gpts
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Expanded Model Support for Custom GPTs
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Expanded Model Support for Custom GPTs
 
-**ChatGPT** · 2025-06-12 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-06-12 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#expanded-model-support-for-custom-gpts)
 <!-- chronolog:end -->
 
 ## Summary

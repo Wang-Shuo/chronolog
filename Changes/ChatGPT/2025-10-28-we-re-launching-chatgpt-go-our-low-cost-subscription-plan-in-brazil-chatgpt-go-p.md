@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 1fc97a1bcda58bb0d5152d7012874ac4491e2ef26e32365b703d47b4da8f8074
+machine_hash: 2fb0d6683ec6686158d48c651768b69fa7345d6d269cab8c54cfb41393211414
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   evidence:
   - quote: 'We''re launching ChatGPT Go, our low cost subscription plan, in Brazil.
       ChatGPT Go provides everything included in the Free plan, and:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-brazil
   extractor_version: fallback-v5
   impact: incremental
   kind: expansion
@@ -60,13 +60,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT launches ChatGPT Go, our low cost subscription plan, in Brazil
 
-**ChatGPT** · 2025-10-28 · [[Themes/pricing-model|Pricing Model]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-10-28-chatgpt-go-now-available-in-brazil-6c8c9319|ChatGPT Go now available in Brazil]]
+**ChatGPT** · 2025-10-28 · [[Themes/pricing-model|Pricing Model]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-brazil) · from [[Releases/ChatGPT/chatgpt-2025-10-28-chatgpt-go-now-available-in-brazil-6c8c9319|ChatGPT Go now available in Brazil]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We're launching ChatGPT Go, our low cost subscription plan, in Brazil. ChatGPT Go provides everything included in the Free plan, and:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-brazil
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -90,5 +90,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-10-28-0fda81&body=Card%3A%20Changes%2FChatGPT%2F2025-10-28-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-brazil-chatgpt-go-p.md%0ACard%20ID%3A%20chatgpt-2025-10-28-0fda81%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-10-28-0fda81&body=Card%3A%20Changes%2FChatGPT%2F2025-10-28-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-brazil-chatgpt-go-p.md%0ACard%20ID%3A%20chatgpt-2025-10-28-0fda81%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-go-now-available-in-brazil%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

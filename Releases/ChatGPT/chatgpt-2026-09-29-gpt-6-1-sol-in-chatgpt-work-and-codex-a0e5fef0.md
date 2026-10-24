@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-09-29'
 description: 'ChatGPT release GPT-6.1 Sol in ChatGPT Work and Codex on 2026-09-29:
   1 tracked change across Model Support'
-machine_hash: 3ed7009260f04a0ba14f9576af98f3d4b6adadcbb103f3756c5819be5e694c56
+machine_hash: 336a8684dd6fb2d3d8b1f8cafa3341db1615ac189c4bcffd5f340df278c0b7e1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     and Edu workspace owners can enable model access in Workspace settings > Permissions
     & roles…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-61-sol-in-chatgpt-work-and-codex
   title: GPT-6.1 Sol in ChatGPT Work and Codex
   version: GPT-6.1 Sol in ChatGPT Work and Codex
 release_id: chatgpt-2026-09-29-gpt-6-1-sol-in-chatgpt-work-and-codex-a0e5fef0
 source_release: GPT-6.1 Sol in ChatGPT Work and Codex
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-61-sol-in-chatgpt-work-and-codex
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: GPT-6.1 Sol in ChatGPT Work and Codex
 <!-- chronolog:begin region="header" -->
 # ChatGPT · GPT-6.1 Sol in ChatGPT Work and Codex
 
-**ChatGPT** · 2026-09-29 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-09-29 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-61-sol-in-chatgpt-work-and-codex)
 <!-- chronolog:end -->
 
 ## Summary

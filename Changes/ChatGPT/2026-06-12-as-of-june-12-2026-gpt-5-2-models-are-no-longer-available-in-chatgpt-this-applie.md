@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 74532a9816075680614f8be52cff48672503d1ea636e2821d830d8d30ccfea0f
+machine_hash: 441a975b3c102d063de377199014cd24e7922681efdd7762adf7620db33b033b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ record:
       GPT-5.5 models remain available in ChatGPT.This retirement was previously announced
       with the release of GPT-5.3 Instant. Models will generally remain available
       in ChatGPT for 90 days after a successor is released.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-52-models
   extractor_version: fallback-v5
   impact: significant
   kind: policy
@@ -69,13 +69,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Retiring GPT-5.2 models
 
-**ChatGPT** · 2026-06-12 · [[Themes/model-support|Model Support]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-12-retiring-gpt-5-2-models-8b6fe7f1|Retiring GPT-5.2 models]]
+**ChatGPT** · 2026-06-12 · [[Themes/model-support|Model Support]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-52-models) · from [[Releases/ChatGPT/chatgpt-2026-06-12-retiring-gpt-5-2-models-8b6fe7f1|Retiring GPT-5.2 models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > As of June 12, 2026, GPT-5.2 models are no longer available in ChatGPT.This applies to GPT-5.2 Instant, GPT-5.2 Thinking, and GPT-5.2 Pro. Existing conversations that used GPT-5.2 will automatically continue on the corresponding GPT-5.5 model. GPT-5.5 models remain available in ChatGPT.This retirement was previously announced with the release of GPT-5.3 Instant. Models will generally remain available in ChatGPT for 90 days after a successor is released.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-52-models
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -96,5 +96,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-12-a53a9d&body=Card%3A%20Changes%2FChatGPT%2F2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie.md%0ACard%20ID%3A%20chatgpt-2026-06-12-a53a9d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-12-a53a9d&body=Card%3A%20Changes%2FChatGPT%2F2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie.md%0ACard%20ID%3A%20chatgpt-2026-06-12-a53a9d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23retiring-gpt-52-models%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

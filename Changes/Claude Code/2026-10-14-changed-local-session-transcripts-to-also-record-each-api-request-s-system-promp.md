@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 90f484144de7cf6dad0460b37162a017c64e68a2685e015a7308e8671826526e
+machine_hash: e22b7af6b360714300649fe1244e72dba864cdc2ecbcb11833b62fd245c10a14
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,6 +93,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-10-13 · Cursor · [[Changes/Cursor/2026-10-13-starting-today-the-marketplace-is-also-open-to-public-submissions-so-any-team-bu|Starting today, the marketplace is also open to public submissions, so any team…]]
+- Later: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-chatgpt-slides-lets-you-create-presentations-and-keep-working-on-them-with-your|ChatGPT Slides lets you create presentations and keep working on them with your team…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

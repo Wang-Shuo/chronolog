@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-12-18'
 description: 'ChatGPT release Introducing the app directory in ChatGPT on 2025-12-18:
   1 tracked change across Apps and Integrations'
-machine_hash: 81521d6fa580c124676fde04fb3c0b8548371cf4956b290ecdeb7e340959526e
+machine_hash: 981ce9f59cca3cb32f83c992d191495f6a6a2b111c38f801a003b300a9868a76
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     and reference information from third-party services.As part of this update, connectors
     now…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-app-directory-in-chatgpt
   title: Introducing the app directory in ChatGPT
   version: Introducing the app directory in ChatGPT
 release_id: chatgpt-2025-12-18-introducing-the-app-directory-in-chatgpt-c4ab90ba
 source_release: Introducing the app directory in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-app-directory-in-chatgpt
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Introducing the app directory in ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Introducing the app directory in ChatGPT
 
-**ChatGPT** · 2025-12-18 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-12-18 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-app-directory-in-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

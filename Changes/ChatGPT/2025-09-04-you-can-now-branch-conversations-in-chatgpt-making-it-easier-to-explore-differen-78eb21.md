@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 37d2099d71421a6ef759f6364943a032cfb32ed1e3c6b5f7e56e5e44109aa3a4
+machine_hash: 75626f821aa30c2f0a43eb5c9b100d3d5b892b6a706ecff84ff161ba1608e698
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       different directions without losing your original thread. Hover over a message,
       click More actions (⋯), and select Branch in new chat to start a separate conversation
       from that point.This feature is available today for all logged-in users on web.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#branch-conversations-on-web
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -67,13 +67,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Branch conversations on web
 
-**ChatGPT** · 2025-09-04 · [[Themes/projects-workspaces|Projects and Workspaces]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-04-branch-conversations-on-web-335d0aa3|Branch conversations on web]]
+**ChatGPT** · 2025-09-04 · [[Themes/projects-workspaces|Projects and Workspaces]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#branch-conversations-on-web) · from [[Releases/ChatGPT/chatgpt-2025-09-04-branch-conversations-on-web-335d0aa3|Branch conversations on web]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > You can now branch conversations in ChatGPT, making it easier to explore different directions without losing your original thread. Hover over a message, click More actions (⋯), and select Branch in new chat to start a separate conversation from that point.This feature is available today for all logged-in users on web.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#branch-conversations-on-web
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -94,5 +94,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-04-78eb21&body=Card%3A%20Changes%2FChatGPT%2F2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21.md%0ACard%20ID%3A%20chatgpt-2025-09-04-78eb21%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-04-78eb21&body=Card%3A%20Changes%2FChatGPT%2F2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21.md%0ACard%20ID%3A%20chatgpt-2025-09-04-78eb21%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23branch-conversations-on-web%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

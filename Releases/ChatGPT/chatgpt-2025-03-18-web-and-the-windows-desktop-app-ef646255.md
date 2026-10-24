@@ -3,7 +3,7 @@ changes_count: 4
 date: '2025-03-18'
 description: 'ChatGPT release Web and the Windows desktop app on 2025-03-18: 4 tracked
   changes across Mobile and Desktop, Model Support, Reliability and Performance, Safety…'
-machine_hash: 020902e34b4d2542faf5b2b497fcc2b9bd2eb01b5de8c41076880e8d052dd66c
+machine_hash: 23514cc9503988ab14b0b9c9af203d180ed22a196ee6fe05c30c282555e013d3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -16,13 +16,13 @@ record:
     and bug fixes across Web, Android, and iOS. Below are a small number of specific
     callouts. For updates on the ChatGPT macOS app, please see this page.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-and-the-windows-desktop-app
   title: Web and the Windows desktop app
   version: Web and the Windows desktop app
 release_id: chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255
 source_release: Web and the Windows desktop app
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-and-the-windows-desktop-app
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Web and the Windows desktop app
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Web and the Windows desktop app
 
-**ChatGPT** · 2025-03-18 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-03-18 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-and-the-windows-desktop-app)
 <!-- chronolog:end -->
 
 ## Summary

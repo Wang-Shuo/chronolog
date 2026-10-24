@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1925ab7e10f875fb55c33215891524fa3296831103de1f38108cf98b92658f7e
+machine_hash: e42507904e9b0b16d03d65cbd648cc4fe0dbf88a0323564b1c164cfad8d358f2
 product: claude-code
 product_name: Claude Code
 record:
@@ -96,6 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.300
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-added-a-one-time-note-when-plan-mode-won-t-ask-before-most-edits-or-commands-bec|Added a one-time note when plan mode won't ask before most edits or commands because…]]
+- Later: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-create-and-refine-edit-text-images-shapes-and-charts-directly-or-ask-chatgpt-to|Create and refine]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

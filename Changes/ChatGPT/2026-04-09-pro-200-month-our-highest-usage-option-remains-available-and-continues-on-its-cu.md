@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 7d4551fc16aca0e609022aaa5a8577c365668e755eb6248ef032b05f71cc8300
+machine_hash: 00a15fd9c75a5f4cd2dfef1448e51565397bd303a159e2f91e5958b39b018c5c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   evidence:
   - quote: 'Pro ($200/month): Our highest-usage option remains available and continues
       on its current Codex promotion through May 31.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options
   extractor_version: fallback-v5
   impact: incremental
   kind: pricing
@@ -62,13 +62,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Pro ($200/month): Our highest-usage option remains available and continues…
 
-**ChatGPT** · 2026-04-09 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|New Pro plan options]]
+**ChatGPT** · 2026-04-09 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options) · from [[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|New Pro plan options]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Pro ($200/month): Our highest-usage option remains available and continues on its current Codex promotion through May 31.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -94,5 +94,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-04-09-6c3292&body=Card%3A%20Changes%2FChatGPT%2F2026-04-09-pro-200-month-our-highest-usage-option-remains-available-and-continues-on-its-cu.md%0ACard%20ID%3A%20chatgpt-2026-04-09-6c3292%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-04-09-6c3292&body=Card%3A%20Changes%2FChatGPT%2F2026-04-09-pro-200-month-our-highest-usage-option-remains-available-and-continues-on-its-cu.md%0ACard%20ID%3A%20chatgpt-2026-04-09-6c3292%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23new-pro-plan-options%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

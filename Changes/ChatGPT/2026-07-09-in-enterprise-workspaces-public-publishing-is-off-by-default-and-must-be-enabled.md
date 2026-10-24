@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ebfebc7973dfbb2214d1fdca15b24f641acbd15fefc80ca68ec7571166c4e656
+machine_hash: fcb24f91b78038097af8c0e69a11dafa70efb7eaa7a4aec4ee4e17e7878f809d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ record:
       Lite, and Edu users, with Plus users following over the coming days. Sites is
       not available on Free or Go plans. Public publishing and the expanded beta rollout
       are not available in the EEA, Switzerland, or the United Kingdom at launch.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-sites-in-public-beta
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -69,13 +69,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # In Enterprise workspaces, public publishing is off by default and must be enabled…
 
-**ChatGPT** · 2026-07-09 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd|Introducing ChatGPT Sites in public beta]]
+**ChatGPT** · 2026-07-09 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-sites-in-public-beta) · from [[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd|Introducing ChatGPT Sites in public beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > In Enterprise workspaces, public publishing is off by default and must be enabled by an admin. Sites is also rolling out in public beta to Pro, Pro Lite, and Edu users, with Plus users following over the coming days. Sites is not available on Free or Go plans. Public publishing and the expanded beta rollout are not available in the EEA, Switzerland, or the United Kingdom at launch.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-sites-in-public-beta
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -100,5 +100,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-09-bd8946&body=Card%3A%20Changes%2FChatGPT%2F2026-07-09-in-enterprise-workspaces-public-publishing-is-off-by-default-and-must-be-enabled.md%0ACard%20ID%3A%20chatgpt-2026-07-09-bd8946%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-09-bd8946&body=Card%3A%20Changes%2FChatGPT%2F2026-07-09-in-enterprise-workspaces-public-publishing-is-off-by-default-and-must-be-enabled.md%0ACard%20ID%3A%20chatgpt-2026-07-09-bd8946%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23introducing-chatgpt-sites-in-public-beta%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

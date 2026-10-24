@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3d77a3ad4b6e768ecf9305b5871a2d5c515ad94ad6587df8d10677c6a7d8097d
+machine_hash: b1d83ff8b98d7becfb2f8a60150df50486a0d65ec0f1401f77c11c0ad4871332
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,7 +54,7 @@ record:
       countries over the next few weeks. Users will receive an in-product notice when
       the update becomes available to them. For Plus and Pro users, ChatGPT can also
       remember more useful context, with twice as much memory capacity.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-that-stays-more-up-to-date
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -98,13 +98,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Memory that stays more up to date
 
-**ChatGPT** · 2026-06-04 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-04-memory-that-stays-more-up-to-date-8fc83f65|Memory that stays more up to date]]
+**ChatGPT** · 2026-06-04 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-that-stays-more-up-to-date) · from [[Releases/ChatGPT/chatgpt-2026-06-04-memory-that-stays-more-up-to-date-8fc83f65|Memory that stays more up to date]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’ve upgraded memory so ChatGPT can better keep your context up to date, helping responses stay more relevant. This makes memory more useful by reducing stale or contradictory saved memories and helps ChatGPT better understand your preferences, goals, and ongoing work. You can review the memories that ChatGPT may use to personalize responses through sources or in your memory summary.Memories are now updated automatically, with ChatGPT keeping track of the details it determines are most important so it can continue building on the context you’ve already shared. If you prefer to revert to the legacy saved memories system, go to Settings > Memory > Saved memories.This update is rolling out to Plus and Pro users in the US today. To access it on iOS or Android, update your ChatGPT app to the latest version. We’ll expand to Free and Go plans and additional countries over the next few weeks. Users will receive an in-product notice when the update becomes available to them. For Plus and Pro users, ChatGPT can also remember more useful context, with twice as much memory capacity.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-that-stays-more-up-to-date
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -125,5 +125,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-04-9a48f3&body=Card%3A%20Changes%2FChatGPT%2F2026-06-04-we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping-9a48f3.md%0ACard%20ID%3A%20chatgpt-2026-06-04-9a48f3%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-04-9a48f3&body=Card%3A%20Changes%2FChatGPT%2F2026-06-04-we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping-9a48f3.md%0ACard%20ID%3A%20chatgpt-2026-06-04-9a48f3%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23memory-that-stays-more-up-to-date%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

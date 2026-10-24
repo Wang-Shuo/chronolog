@@ -3,7 +3,7 @@ changes_count: 2
 date: '2026-08-27'
 description: 'ChatGPT release More controls in temporary chat on 2026-08-27: 2 tracked
   changes across Memory and Personalization'
-machine_hash: 7d328416047e765f78472db5c33250bf395485c754834a42233b9c71dca88c60
+machine_hash: c9b45b545a54796a17b6626e1f74d7019033daa59065d84f89824fb9355105b5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     instructions from your regular chat settings. You can also choose to save a temporary
     chat.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-controls-in-temporary-chat
   title: More controls in temporary chat
   version: More controls in temporary chat
 release_id: chatgpt-2026-08-27-more-controls-in-temporary-chat-5ca95d13
 source_release: More controls in temporary chat
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-controls-in-temporary-chat
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: More controls in temporary chat
 <!-- chronolog:begin region="header" -->
 # ChatGPT · More controls in temporary chat
 
-**ChatGPT** · 2026-08-27 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-08-27 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-controls-in-temporary-chat)
 <!-- chronolog:end -->
 
 ## Summary

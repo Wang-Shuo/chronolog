@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a638662adc31d194d4183efac1ee56c22a161f574d6ff478e395ac9d47e52864
+machine_hash: 2712c0beecd73e93b6b8eef4ab9d0f6cd7acb3d88ebbe8956f669c5f2fac345f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,10 +37,10 @@ record:
       changes in a connected app. Describe what you want ChatGPT to follow and what
       it should do with matching updates—for example, prepare a summary when new information
       arrives in a channel you have asked it to monitor.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#start-automations-from-connected-app-events
   - quote: The connected account must have access to the event and any information
       used by the task.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#start-automations-from-connected-app-events
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Start automations from connected-app events
 
-**ChatGPT** · 2026-09-29 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-29-start-automations-from-connected-app-events-9ef6c936|Start automations from connected-app events]]
+**ChatGPT** · 2026-09-29 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#start-automations-from-connected-app-events) · from [[Releases/ChatGPT/chatgpt-2026-09-29-start-automations-from-connected-app-events-9ef6c936|Start automations from connected-app events]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -87,7 +87,7 @@ type: change
 >
 > The connected account must have access to the event and any information used by the task.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#start-automations-from-connected-app-events
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -108,5 +108,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-d9add6&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-supported-plugins-can-use-mcp-events-to-start-an-automation-when-something-chang-d9add6.md%0ACard%20ID%3A%20chatgpt-2026-09-29-d9add6%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-d9add6&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-supported-plugins-can-use-mcp-events-to-start-an-automation-when-something-chang-d9add6.md%0ACard%20ID%3A%20chatgpt-2026-09-29-d9add6%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23start-automations-from-connected-app-events%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

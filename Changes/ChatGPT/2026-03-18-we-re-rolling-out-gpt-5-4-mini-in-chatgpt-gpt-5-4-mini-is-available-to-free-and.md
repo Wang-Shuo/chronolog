@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6dc42490cd2a03296859d8494de712265ffa22b8ce823044c50857b6fc9de3d3
+machine_hash: 3d4bee7ca15bcbe9a093bd459e47b376c5d5399079afe4803dcadbe8c1549eee
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,7 +46,7 @@ record:
       the option to default Auto routing to GPT-5.4 mini, if preferred.GPT-5.4 mini
       will not appear as a selectable model in the model picker. Learn more in our
       blog post.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-54-mini-in-chatgpt
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -91,13 +91,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # GPT-5.4 mini in ChatGPT
 
-**ChatGPT** · 2026-03-18 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-18-gpt-5-4-mini-in-chatgpt-2d1677c3|GPT-5.4 mini in ChatGPT]]
+**ChatGPT** · 2026-03-18 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-54-mini-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-03-18-gpt-5-4-mini-in-chatgpt-2d1677c3|GPT-5.4 mini in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re rolling out GPT-5.4 mini in ChatGPT. GPT-5.4 mini is available to Free and Go users via the “Thinking” feature in the + menu. For all other users, GPT-5.4 mini is available as a rate limit fallback for GPT-5.4 Thinking.For Plus, Pro, and other paid users, GPT-5.4 mini will be used as a fallback for GPT-5.4 Thinking when rate limits are reached, helping with continued access to reasoning capabilities during high usage. Enterprise customers will retain the option to default Auto routing to GPT-5.4 mini, if preferred.GPT-5.4 mini will not appear as a selectable model in the model picker. Learn more in our blog post.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-54-mini-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -118,5 +118,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-18-64ffa1&body=Card%3A%20Changes%2FChatGPT%2F2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and.md%0ACard%20ID%3A%20chatgpt-2026-03-18-64ffa1%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-18-64ffa1&body=Card%3A%20Changes%2FChatGPT%2F2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and.md%0ACard%20ID%3A%20chatgpt-2026-03-18-64ffa1%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23gpt-54-mini-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -4,8 +4,8 @@ date: '2025-10-23'
 description: 'ChatGPT · 2025-10-23 · Mobile and Desktop: Starting today, project sharing
   is available to all ChatGPT users, including for Free, Plus, Pro, and Go users…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 954
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c0fa93fb91d1925f1efd1e671492b33933b6652589ac39d9e63d37a36baf728a
+machine_hash: 678e9a34a072d51380ce2d9bdabcfb1cab0d711b4e929eda3898fa7a5f59a0f5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,23 +37,23 @@ record:
       and custom instructions – so responses are informed by your group''s internal
       knowledge, and you can pick up where others left off.Shared projects are ideal
       for:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects
   - quote: 'Reporting: Store datasets and reports in one project, and return each
       week to generate updates without starting over.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects
   - quote: 'Research: Keep transcripts, survey results, and market research in one
       place, so anyone in the project can query and build on the findings.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects
   - quote: 'Project owners can choose to share a project with “Only those invited”
       or “Anyone with a link,” and can change visibility settings at any time including
       switching back to invite-only. The following collaboration limits apply:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects
   - quote: 'Pro users: up to 40 files and 100 collaborators'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects
   - quote: 'Plus and Go users: up to 25 files and 10 collaborators'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects
   - quote: 'Free users: up to 5 files and 5 collaborators'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Starting today, project sharing is available to all ChatGPT users, including…
 
-**ChatGPT** · 2025-10-23 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-10-23-shared-projects-217fa07d|Shared projects]]
+**ChatGPT** · 2025-10-23 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects) · from [[Releases/ChatGPT/chatgpt-2025-10-23-shared-projects-217fa07d|Shared projects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -114,7 +114,7 @@ type: change
 >
 > Free users: up to 5 files and 5 collaborators
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -138,5 +138,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-10-23-3f946e&body=Card%3A%20Changes%2FChatGPT%2F2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-3f946e.md%0ACard%20ID%3A%20chatgpt-2025-10-23-3f946e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-10-23-3f946e&body=Card%3A%20Changes%2FChatGPT%2F2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-3f946e.md%0ACard%20ID%3A%20chatgpt-2025-10-23-3f946e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23shared-projects%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

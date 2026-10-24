@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e67c0fbff270698f6421c47684fb81c9a001549e3be3217a994315a6b9b4a25c
+machine_hash: 33e5715996401fcaf40147d6e7c7f543a645a1dd1b5d0378117243fb5bfda3e8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,18 +41,18 @@ record:
       ChatGPT may create new memories from chats that remain in your chat history.
       This control is available to all ChatGPT users on the web and rolling out on
       mobile soon.To make changes to your memory summary, you can:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-controls-for-memory-summary
   - quote: Type what you want changed into the text box at the bottom of the memory
       summary, and it will update accordingly.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-controls-for-memory-summary
   - quote: Highlight any text in the memory summary to make a specific correction.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-controls-for-memory-summary
   - quote: If you don’t want information from a chat to be used to personalize responses,
       you can turn off memory or use Temporary Chat. Temporary Chats don’t use existing
       memories or create new memories.Memory updates, including memory summary, are
       still rolling out across ChatGPT plans and countries. You’ll be notified in
       ChatGPT when memory updates are available to you.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-controls-for-memory-summary
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Additional controls for memory summary
 
-**ChatGPT** · 2026-06-12 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-12-additional-controls-for-memory-summary-37c89b72|Additional controls for memory summary]]
+**ChatGPT** · 2026-06-12 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-controls-for-memory-summary) · from [[Releases/ChatGPT/chatgpt-2026-06-12-additional-controls-for-memory-summary-37c89b72|Additional controls for memory summary]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -107,7 +107,7 @@ type: change
 >
 > If you don’t want information from a chat to be used to personalize responses, you can turn off memory or use Temporary Chat. Temporary Chats don’t use existing memories or create new memories.Memory updates, including memory summary, are still rolling out across ChatGPT plans and countries. You’ll be notified in ChatGPT when memory updates are available to you.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-controls-for-memory-summary
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -128,5 +128,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-12-f16782&body=Card%3A%20Changes%2FChatGPT%2F2026-06-12-you-can-now-delete-the-memories-shown-on-your-memory-summary-page-and-turn-memor-f16782.md%0ACard%20ID%3A%20chatgpt-2026-06-12-f16782%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-12-f16782&body=Card%3A%20Changes%2FChatGPT%2F2026-06-12-you-can-now-delete-the-memories-shown-on-your-memory-summary-page-and-turn-memor-f16782.md%0ACard%20ID%3A%20chatgpt-2026-06-12-f16782%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23additional-controls-for-memory-summary%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

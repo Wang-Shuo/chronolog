@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 86c7842de9cce3633c1c05edab3fb07cfa5b8c4ea765d47c0b9a47068c5e74c7
+machine_hash: 9d08fe51eeeab254c6fb9baf1d97a3499b1659e638ad473cd8d7454250bf4929
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,18 +34,18 @@ record:
       memories and remain out of your chat history unless you save them. Personalization
       can be set only when you start a temporary chat and cannot be changed after
       the conversation begins.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-controls-in-temporary-chat
   - quote: 'Non-personalized: By default, temporary chats are not personalized. Non-personalized
       temporary chats do not use memory, custom instructions, or plugins, and they
       do not create new memories.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-controls-in-temporary-chat
   - quote: 'Saving a temporary chat: When a conversation becomes useful for the future,
       you can add it to your chat history. Saving converts it into a regular chat,
       so it then follows your account-level personalization settings and model-improvement
       preferences. For example, if you have memory enabled and save a temporary chat,
       this will become part of your chat history and can be referenced to personalized
       future responses.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-controls-in-temporary-chat
   extractor_version: fallback-v5
   impact: incremental
   kind: digest
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # 3 Memory and Personalization changes in More controls in temporary chat
 
-**ChatGPT** · 2026-08-27 · [[Themes/memory|Memory and Personalization]] · Digest · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-27-more-controls-in-temporary-chat-5ca95d13|More controls in temporary chat]]
+**ChatGPT** · 2026-08-27 · [[Themes/memory|Memory and Personalization]] · Digest · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-controls-in-temporary-chat) · from [[Releases/ChatGPT/chatgpt-2026-08-27-more-controls-in-temporary-chat-5ca95d13|More controls in temporary chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -86,7 +86,7 @@ type: change
 
 > Saving a temporary chat: When a conversation becomes useful for the future, you can add it to your chat history. Saving converts it into a regular chat, so it then follows your account-level personalization settings and model-improvement preferences. For example, if you have memory enabled and save a temporary chat, this will become part of your chat history and can be referenced to personalized future responses.
 
-Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-controls-in-temporary-chat
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -109,5 +109,5 @@ Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-27-44247e&body=Card%3A%20Changes%2FChatGPT%2F2026-08-27-3-memory-and-personalization-changes-in-more-controls-in-temporary-chat.md%0ACard%20ID%3A%20chatgpt-2026-08-27-44247e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-27-44247e&body=Card%3A%20Changes%2FChatGPT%2F2026-08-27-3-memory-and-personalization-changes-in-more-controls-in-temporary-chat.md%0ACard%20ID%3A%20chatgpt-2026-08-27-44247e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23more-controls-in-temporary-chat%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

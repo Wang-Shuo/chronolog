@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a25c0f5640469c9eb41fe4392054f6aedddd7dbe040430d26c9c29d3f0838a4c
+machine_hash: 3641af7fb8d64076d53fde9adf8b97b5f41ad65d199fabe3cc4d778e0d4116da
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ record:
       cleaner and helps prevent large pastes from consuming your entire context window.
       You can still move the content back into the message at any time by clicking
       on Show in text field to convert the attachment back to a direct paste.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -72,13 +72,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Large pastes are now handled as attachments
 
-**ChatGPT** · 2026-03-25 · [[Themes/context-window|Context Window]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-25-large-pastes-are-now-handled-as-attachments-6bacf64e|Large pastes are now handled as attachments]]
+**ChatGPT** · 2026-03-25 · [[Themes/context-window|Context Window]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments) · from [[Releases/ChatGPT/chatgpt-2026-03-25-large-pastes-are-now-handled-as-attachments-6bacf64e|Large pastes are now handled as attachments]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Starting today for ChatGPT Plus, Pro, and Business users, long pastes are handled differently in ChatGPT. If you paste more than 5k characters into the composer, ChatGPT will automatically convert the content into an attachment instead of inserting it directly into the text field. This keeps the composer cleaner and helps prevent large pastes from consuming your entire context window. You can still move the content back into the message at any time by clicking on Show in text field to convert the attachment back to a direct paste.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -99,5 +99,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-25-60882a&body=Card%3A%20Changes%2FChatGPT%2F2026-03-25-starting-today-for-chatgpt-plus-pro-and-business-users-long-pastes-are-handled-d.md%0ACard%20ID%3A%20chatgpt-2026-03-25-60882a%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-25-60882a&body=Card%3A%20Changes%2FChatGPT%2F2026-03-25-starting-today-for-chatgpt-plus-pro-and-business-users-long-pastes-are-handled-d.md%0ACard%20ID%3A%20chatgpt-2026-03-25-60882a%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23large-pastes-are-now-handled-as-attachments%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

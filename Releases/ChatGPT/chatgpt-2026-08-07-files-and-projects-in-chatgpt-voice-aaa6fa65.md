@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-08-07'
 description: 'ChatGPT release Files and Projects in ChatGPT Voice on 2026-08-07: 1
   tracked change across Voice and Audio'
-machine_hash: 729c3ea0b0394ec323f105d7d39996e6a707c9c3a1543ee13ac713261139adf9
+machine_hash: 1e695f739cab81e7b51eb2372ce851043a6846b6bfcc2e6fdef009ecec07ae82
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     questions. You can also use voice in Projects, referencing recent project chats,
     sources, and project instructions.Learn more about ChatGPT Voice.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#files-and-projects-in-chatgpt-voice
   title: Files and Projects in ChatGPT Voice
   version: Files and Projects in ChatGPT Voice
 release_id: chatgpt-2026-08-07-files-and-projects-in-chatgpt-voice-aaa6fa65
 source_release: Files and Projects in ChatGPT Voice
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#files-and-projects-in-chatgpt-voice
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Files and Projects in ChatGPT Voice
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Files and Projects in ChatGPT Voice
 
-**ChatGPT** · 2026-08-07 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-08-07 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#files-and-projects-in-chatgpt-voice)
 <!-- chronolog:end -->
 
 ## Summary

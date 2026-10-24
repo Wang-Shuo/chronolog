@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 848ac73b3181fe399ce21c6db39ab57bd29f5c893b8caeb1ae10c9056ed1c640
+machine_hash: 9dc616c9baafed05645a59d1bbde225852cd6a79d610e38fc300cdf86b4bd272
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
   - quote: We’re rolling out an update to GPT-5.3 Instant that improves follow-up
       tone and reduces teaser-style phrasing in responses (e.g., “If you want…”, “You’ll
       never believe…”, “I can tell you these three things that…”).
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-53-instant-update
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -63,13 +63,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # GPT-5.3 Instant update
 
-**ChatGPT** · 2026-03-16 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-16-gpt-5-3-instant-update-a32de9bf|GPT-5.3 Instant update]]
+**ChatGPT** · 2026-03-16 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-53-instant-update) · from [[Releases/ChatGPT/chatgpt-2026-03-16-gpt-5-3-instant-update-a32de9bf|GPT-5.3 Instant update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re rolling out an update to GPT-5.3 Instant that improves follow-up tone and reduces teaser-style phrasing in responses (e.g., “If you want…”, “You’ll never believe…”, “I can tell you these three things that…”).
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-53-instant-update
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -90,5 +90,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-16-e8105e&body=Card%3A%20Changes%2FChatGPT%2F2026-03-16-we-re-rolling-out-an-update-to-gpt-5-3-instant-that-improves-follow-up-tone-and.md%0ACard%20ID%3A%20chatgpt-2026-03-16-e8105e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-16-e8105e&body=Card%3A%20Changes%2FChatGPT%2F2026-03-16-we-re-rolling-out-an-update-to-gpt-5-3-instant-that-improves-follow-up-tone-and.md%0ACard%20ID%3A%20chatgpt-2026-03-16-e8105e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23gpt-53-instant-update%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

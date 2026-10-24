@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-05-12'
 description: 'ChatGPT release More images in answers for Free users on 2026-05-12:
   1 tracked change across Mobile and Desktop'
-machine_hash: 20da4e0f2bc50f13437aea4d5f3f936aa10fb93fcf52a9b4fd943f381f4e865a
+machine_hash: 835fcc2370ab29134f0aba0dc4594e5f73f081d007c2fae9d7d51d61f694fde5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     relevant parts of an answer. You can click any image to view it at its original
     size and see…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-images-in-answers-for-free-users
   title: More images in answers for Free users
   version: More images in answers for Free users
 release_id: chatgpt-2026-05-12-more-images-in-answers-for-free-users-34680cb9
 source_release: More images in answers for Free users
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-images-in-answers-for-free-users
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: More images in answers for Free users
 <!-- chronolog:begin region="header" -->
 # ChatGPT · More images in answers for Free users
 
-**ChatGPT** · 2026-05-12 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-05-12 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-images-in-answers-for-free-users)
 <!-- chronolog:end -->
 
 ## Summary

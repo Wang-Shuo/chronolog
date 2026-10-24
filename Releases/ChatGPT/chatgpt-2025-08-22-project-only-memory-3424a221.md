@@ -3,7 +3,7 @@ changes_count: 2
 date: '2025-08-22'
 description: 'ChatGPT release Project-only memory on 2025-08-22: 2 tracked changes
   across Memory and Personalization, Mobile and Desktop'
-machine_hash: 7e6b6247f5f27d9221bab1c960b7cad5c058a60452c6915fb1911ffe3805b3ce
+machine_hash: 3f75fecdc137f0ae57cd82fb517a80baa7eeade99d389bc6e3fcaaf1ecfec107
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     ChatGPT can use other conversations in that project for additional context, and
     won’t use your saved memories from outside the project to shape responses…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-only-memory
   title: Project-only memory
   version: Project-only memory
 release_id: chatgpt-2025-08-22-project-only-memory-3424a221
 source_release: Project-only memory
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-only-memory
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Project-only memory
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Project-only memory
 
-**ChatGPT** · 2025-08-22 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-08-22 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-only-memory)
 <!-- chronolog:end -->
 
 ## Summary

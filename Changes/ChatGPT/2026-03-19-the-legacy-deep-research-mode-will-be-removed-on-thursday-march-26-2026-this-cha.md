@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 217d2f33a5f3eceb6607962d95e79548ac297abd3543a488803872866e64b5ad
+machine_hash: 83820e4a2bb3329dce5264dfa57479cf27d6bd4d61763d32beb164c02e6ab6e6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       This change only affects the legacy mode; the current deep research experience
       will remain unchanged.Historical conversations and results will remain accessible.To
       learn more about deep research, see: Deep research in ChatGPT.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#legacy-deep-research-mode-deprecation-notice
   extractor_version: fallback-v5
   impact: incremental
   kind: policy
@@ -63,13 +63,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Legacy deep research mode deprecation notice
 
-**ChatGPT** · 2026-03-19 · [[Themes/search-browsing|Search and Browsing]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-19-legacy-deep-research-mode-deprecation-notice-99d97534|Legacy deep research mode deprecation notice]]
+**ChatGPT** · 2026-03-19 · [[Themes/search-browsing|Search and Browsing]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#legacy-deep-research-mode-deprecation-notice) · from [[Releases/ChatGPT/chatgpt-2026-03-19-legacy-deep-research-mode-deprecation-notice-99d97534|Legacy deep research mode deprecation notice]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > The legacy deep research mode will be removed on Thursday, March 26, 2026. This change only affects the legacy mode; the current deep research experience will remain unchanged.Historical conversations and results will remain accessible.To learn more about deep research, see: Deep research in ChatGPT.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#legacy-deep-research-mode-deprecation-notice
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -90,5 +90,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-19-f2d483&body=Card%3A%20Changes%2FChatGPT%2F2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha.md%0ACard%20ID%3A%20chatgpt-2026-03-19-f2d483%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-19-f2d483&body=Card%3A%20Changes%2FChatGPT%2F2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha.md%0ACard%20ID%3A%20chatgpt-2026-03-19-f2d483%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23legacy-deep-research-mode-deprecation-notice%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

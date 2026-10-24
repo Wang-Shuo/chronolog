@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7f500601c38bf429afab6837e01d5f6ced7f9e4b09f41318ae59a227ff07528a
+machine_hash: f9897b85ca98e36f094a4e25ad8714d35f6474107afb5dbe95177e595c220556
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   evidence:
   - quote: 'Group work: Upload notes, proposals, and contracts so collaborators can
       draft deliverables faster and stay in sync.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -60,13 +60,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Group work: Upload notes, proposals, and contracts so collaborators can draft…
 
-**ChatGPT** · 2025-10-23 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-10-23-shared-projects-217fa07d|Shared projects]]
+**ChatGPT** · 2025-10-23 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects) · from [[Releases/ChatGPT/chatgpt-2025-10-23-shared-projects-217fa07d|Shared projects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Group work: Upload notes, proposals, and contracts so collaborators can draft deliverables faster and stay in sync.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -90,5 +90,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-10-23-a05ea1&body=Card%3A%20Changes%2FChatGPT%2F2025-10-23-group-work-upload-notes-proposals-and-contracts-so-collaborators-can-draft-deliv.md%0ACard%20ID%3A%20chatgpt-2025-10-23-a05ea1%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-10-23-a05ea1&body=Card%3A%20Changes%2FChatGPT%2F2025-10-23-group-work-upload-notes-proposals-and-contracts-so-collaborators-can-draft-deliv.md%0ACard%20ID%3A%20chatgpt-2025-10-23-a05ea1%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23shared-projects%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b58bcf03a43898972b5c7a03449ea0190da753518e1ba05781282caea28f2daf
+machine_hash: da24b92981a3bbd345b6ffaa9c2427c86d259611378c0fe0a292426703b320a8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       review and customize the instructions and, when applicable, the schedule, connect
       their own apps, and create an independent copy. Running a shared webhook-triggered
       task requires access to Work and the recipient’s own connected app.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-can-respond-to-app-updates-and-be-shared
   extractor_version: fallback-v5
   impact: incremental
   kind: launch
@@ -63,13 +63,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Share scheduled tasks
 
-**ChatGPT** · 2026-08-25 · [[Themes/automation-scheduling|Automation and Scheduling]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4|Scheduled tasks can respond to app updates and be shared]]
+**ChatGPT** · 2026-08-25 · [[Themes/automation-scheduling|Automation and Scheduling]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-can-respond-to-app-updates-and-be-shared) · from [[Releases/ChatGPT/chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4|Scheduled tasks can respond to app updates and be shared]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Free, Go, Plus, and Pro users can share scheduled tasks. Recipients can review and customize the instructions and, when applicable, the schedule, connect their own apps, and create an independent copy. Running a shared webhook-triggered task requires access to Work and the recipient’s own connected app.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-can-respond-to-app-updates-and-be-shared
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -94,5 +94,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-25-4d6e01&body=Card%3A%20Changes%2FChatGPT%2F2026-08-25-free-go-plus-and-pro-users-can-share-scheduled-tasks-recipients-can-review-and-c.md%0ACard%20ID%3A%20chatgpt-2026-08-25-4d6e01%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-25-4d6e01&body=Card%3A%20Changes%2FChatGPT%2F2026-08-25-free-go-plus-and-pro-users-can-share-scheduled-tasks-recipients-can-review-and-c.md%0ACard%20ID%3A%20chatgpt-2026-08-25-4d6e01%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23scheduled-tasks-can-respond-to-app-updates-and-be-shared%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

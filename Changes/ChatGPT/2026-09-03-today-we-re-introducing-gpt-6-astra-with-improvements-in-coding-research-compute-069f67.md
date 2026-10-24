@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 742af4c3fb347e2ee0d632e4f9c53fd31b120983cc2b7ddc574cce582c8f217c
+machine_hash: b3c27978c23bea228db01ce8bc36c55ff2b8f5f8a586c46b3f95b8d186e13bf5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,15 +34,15 @@ record:
       computer use, and complex, multi-step work. Astra can create documents, spreadsheets,
       and presentations that follow your templates and instructions, and adapt when
       you add requirements or change direction.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-6-astra
   - quote: Access is rolling out to a limited set of organizations. Astra is not yet
       generally available. Broader availability is planned over the coming days.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-6-astra
   - quote: Astra includes additional safety monitoring to look for cases where agents
       may not have interpreted your instructions correctly. If a potential case is
       detected, the conversation may be paused or stopped as a precaution for you
       to review and decide how to proceed.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-6-astra
   extractor_version: fallback-v5
   impact: incremental
   kind: launch
@@ -73,7 +73,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Introducing GPT-6 Astra
 
-**ChatGPT** · 2026-09-03 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-03-introducing-gpt-6-astra-d055fc02|Introducing GPT-6 Astra]]
+**ChatGPT** · 2026-09-03 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-6-astra) · from [[Releases/ChatGPT/chatgpt-2026-09-03-introducing-gpt-6-astra-d055fc02|Introducing GPT-6 Astra]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -83,7 +83,7 @@ type: change
 >
 > Astra includes additional safety monitoring to look for cases where agents may not have interpreted your instructions correctly. If a potential case is detected, the conversation may be paused or stopped as a precaution for you to review and decide how to proceed.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-6-astra
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -104,5 +104,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-03-069f67&body=Card%3A%20Changes%2FChatGPT%2F2026-09-03-today-we-re-introducing-gpt-6-astra-with-improvements-in-coding-research-compute-069f67.md%0ACard%20ID%3A%20chatgpt-2026-09-03-069f67%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-03-069f67&body=Card%3A%20Changes%2FChatGPT%2F2026-09-03-today-we-re-introducing-gpt-6-astra-with-improvements-in-coding-research-compute-069f67.md%0ACard%20ID%3A%20chatgpt-2026-09-03-069f67%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23introducing-gpt-6-astra%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

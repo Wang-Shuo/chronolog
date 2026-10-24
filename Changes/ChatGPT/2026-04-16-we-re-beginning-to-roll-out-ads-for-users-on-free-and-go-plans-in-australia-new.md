@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: e86f4af235cf1d849abbc22ae1344311316789e1f59ccea7987a995d0a43f940
+machine_hash: bdd16e6ff0644ad084ec8d00858b28c23e57e6797e31ef52ca4aa4746bc4953f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
   - quote: We're beginning to roll out ads for users on Free and Go plans in Australia,
       New Zealand, and Canada. Plus, Pro, Business, Enterprise, and Education plans
       do not have ads.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#rolling-out-ads-in-australia-new-zealand-and-canada
   extractor_version: fallback-v5
   impact: significant
   kind: expansion
@@ -62,13 +62,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Rolling out ads in Australia, New Zealand, and Canada
 
-**ChatGPT** · 2026-04-16 · [[Themes/enterprise-admin|Enterprise and Administration]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-16-rolling-out-ads-in-australia-new-zealand-and-canada-82e516b1|Rolling out ads in Australia, New Zealand, and Canada]]
+**ChatGPT** · 2026-04-16 · [[Themes/enterprise-admin|Enterprise and Administration]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#rolling-out-ads-in-australia-new-zealand-and-canada) · from [[Releases/ChatGPT/chatgpt-2026-04-16-rolling-out-ads-in-australia-new-zealand-and-canada-82e516b1|Rolling out ads in Australia, New Zealand, and Canada]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We're beginning to roll out ads for users on Free and Go plans in Australia, New Zealand, and Canada. Plus, Pro, Business, Enterprise, and Education plans do not have ads.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#rolling-out-ads-in-australia-new-zealand-and-canada
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -89,5 +89,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-04-16-63c95c&body=Card%3A%20Changes%2FChatGPT%2F2026-04-16-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-australia-new.md%0ACard%20ID%3A%20chatgpt-2026-04-16-63c95c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-04-16-63c95c&body=Card%3A%20Changes%2FChatGPT%2F2026-04-16-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-australia-new.md%0ACard%20ID%3A%20chatgpt-2026-04-16-63c95c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23rolling-out-ads-in-australia-new-zealand-and-canada%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

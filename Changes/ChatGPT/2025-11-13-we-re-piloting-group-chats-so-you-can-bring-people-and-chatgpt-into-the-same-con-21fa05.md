@@ -5,8 +5,8 @@ description: 'ChatGPT · 2025-11-13 · Mobile and Desktop: We’re piloting grou
   so you can bring people - and ChatGPT - into the same conversation. Plan trips,
   make…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 975
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 170571305e0f9dc86a2c91143080f3619ad6de8c39a24e88741746f4e57b940f
+machine_hash: cfb3bcd7ce06c917e7ee0363a3b14cea99e2e9e4af047bc0c351f96e0cb6f11f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,7 +43,7 @@ record:
       Android in New Zealand, Japan, South Korea, and Taiwan. We’ll use early feedback
       from this pilot to improve the experience and inform how we expand to more regions
       and plans over time. To learn more visit the blog.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#group-chats-in-chatgpt
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -72,13 +72,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Group chats in ChatGPT
 
-**ChatGPT** · 2025-11-13 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-11-13-group-chats-in-chatgpt-8a8193ad|Group chats in ChatGPT]]
+**ChatGPT** · 2025-11-13 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#group-chats-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2025-11-13-group-chats-in-chatgpt-8a8193ad|Group chats in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re piloting group chats so you can bring people - and ChatGPT - into the same conversation. Plan trips, make decisions, and collaborate on projects together while ChatGPT helps search, summarize, generate content, and keep everyone on the same page.Group chats are starting to roll out on ChatGPT Web, iOS, and Android in New Zealand, Japan, South Korea, and Taiwan. We’ll use early feedback from this pilot to improve the experience and inform how we expand to more regions and plans over time. To learn more visit the blog.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#group-chats-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -99,5 +99,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-11-13-21fa05&body=Card%3A%20Changes%2FChatGPT%2F2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05.md%0ACard%20ID%3A%20chatgpt-2025-11-13-21fa05%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-11-13-21fa05&body=Card%3A%20Changes%2FChatGPT%2F2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05.md%0ACard%20ID%3A%20chatgpt-2025-11-13-21fa05%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23group-chats-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -1,10 +1,10 @@
 ---
 created: '2023-03-18'
-date: '2026-10-14'
+date: '2026-10-22'
 description: Cross-product timeline of Developer Workflow changes in ChatGPT, Claude
   Code and Cursor.
-machine_hash: ac344dc745bde01e4b73fa672b2d8a79fc0f0e373a385ee9595bbcbac5f43af4
-modified: '2026-10-14'
+machine_hash: 8109e04257c0d6c76c3ca4ab79ac1f4f37c4b9c0f5d63c73e0b671fbcb3f4a3b
+modified: '2026-10-22'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Developer Workflow
 <!-- chronolog:begin region="header" -->
 # Developer Workflow
 
-200 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-18 → 2026-10-14 · Claude Code averages 6.9 cards per release, Cursor 4.0, ChatGPT 1.7
+205 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-18 → 2026-10-22 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -52,10 +52,15 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 149 entries (ChatGPT 1 · Claude Code 123 · Cursor 25)
+### 2026 · 154 entries (ChatGPT 1 · Claude Code 128 · Cursor 25)
 
 #### 2026-10
 
+- 2026-10-22 · **Claude Code** · [[Changes/Claude Code/2026-10-22-improved-disk-full-handling-a-bash-command-cut-off-by-a-full-disk-now-says-so-an|Improved disk-full handling]]
+- 2026-10-21 · **Claude Code** · [[Changes/Claude Code/2026-10-21-2-developer-workflow-changes-in-v2-1-307|2 Developer Workflow changes in v2.1.307]] · Digest
+- 2026-10-20 · **Claude Code** · [[Changes/Claude Code/2026-10-20-2-developer-workflow-changes-in-v2-1-305|2 Developer Workflow changes in v2.1.305]] · Digest
+- 2026-10-19 · **Claude Code** · [[Changes/Claude Code/2026-10-19-3-developer-workflow-changes-in-v2-1-304|3 Developer Workflow changes in v2.1.304]] · Digest
+- 2026-10-15 · **Claude Code** · [[Changes/Claude Code/2026-10-15-added-rows-to-a-mod-s-input-a-text-field-of-several-lines-in-the-terminal-where|Added rows to a mod's Input]]
 - 2026-10-14 · **Claude Code** · [[Changes/Claude Code/2026-10-14-added-a-dir-prop-on-a-mod-s-text-for-right-to-left-text-on-windows-and-in-vs-cod|Added a dir prop on a mod's Text for right-to-left text]]
 - 2026-10-14 · **Claude Code** · [[Changes/Claude Code/2026-10-14-10-developer-workflow-changes-in-v2-1-299|10 Developer Workflow changes in v2.1.299]] · Digest
 - 2026-10-09 · **Claude Code** · [[Changes/Claude Code/2026-10-09-3-developer-workflow-changes-in-v2-1-296|3 Developer Workflow changes in v2.1.296]] · Digest

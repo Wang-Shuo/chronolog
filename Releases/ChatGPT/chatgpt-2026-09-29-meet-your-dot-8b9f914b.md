@@ -3,7 +3,7 @@ changes_count: 2
 date: '2026-09-29'
 description: 'ChatGPT release Meet your dot on 2026-09-29: 2 tracked changes across
   Agent Mode, Enterprise and Administration'
-machine_hash: 1b237fcb716a4bb3a50c7a8c4803e8f0a7678d40446585ae7a38bdbb66870955
+machine_hash: e23aa2d342bb6bc2d0e2abb998a208e387b4f0e03ecca9eb21461c43eb825690
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     by GPT-6 Astra, your dot has its own cloud computer and can bring results back
     for your review.'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meet-your-dot
   title: Meet your dot
   version: Meet your dot
 release_id: chatgpt-2026-09-29-meet-your-dot-8b9f914b
 source_release: Meet your dot
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meet-your-dot
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Meet your dot
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Meet your dot
 
-**ChatGPT** · 2026-09-29 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-09-29 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meet-your-dot)
 <!-- chronolog:end -->
 
 ## Summary

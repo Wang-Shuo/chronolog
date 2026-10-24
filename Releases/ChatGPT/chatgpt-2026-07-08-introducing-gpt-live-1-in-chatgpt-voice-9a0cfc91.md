@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-07-08'
 description: 'ChatGPT release Introducing GPT-Live-1 in ChatGPT Voice on 2026-07-08:
   1 tracked change across Voice and Audio'
-machine_hash: bf3282d1cc3328ea04c7f51f4141a459e45cd10dab6e141d467faa2d5a4100dc
+machine_hash: 0dd8c5f12b155d781b4a46bb8aa87d5583c4930d58fa53970ef8d72b954ecde4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     Both models can listen and speak at the same time, making turn-taking and interruptions
     feel more natural.GPT-Live-1 works inside a ChatGPT chat, with spoken responses…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-live-1-in-chatgpt-voice
   title: Introducing GPT-Live-1 in ChatGPT Voice
   version: Introducing GPT-Live-1 in ChatGPT Voice
 release_id: chatgpt-2026-07-08-introducing-gpt-live-1-in-chatgpt-voice-9a0cfc91
 source_release: Introducing GPT-Live-1 in ChatGPT Voice
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-live-1-in-chatgpt-voice
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Introducing GPT-Live-1 in ChatGPT Voice
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Introducing GPT-Live-1 in ChatGPT Voice
 
-**ChatGPT** · 2026-07-08 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-07-08 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-live-1-in-chatgpt-voice)
 <!-- chronolog:end -->
 
 ## Summary

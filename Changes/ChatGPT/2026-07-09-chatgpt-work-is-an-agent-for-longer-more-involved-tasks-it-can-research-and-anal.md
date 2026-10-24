@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: d2aefac493d667a933ab79ea28ff00e3557bcd5ef20929a0cddfd674f83c55b9
+machine_hash: 405e1cbe7d7f2f879967460811942ede5fbec2f00731279ac4fb478d680ca226
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       documents, spreadsheets, presentations, reports, and Sites. You can follow its
       progress, answer questions, change direction, and approve important actions
       as it works.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work
   extractor_version: fallback-v5
   impact: paradigm-shift
   kind: change
@@ -81,13 +81,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT Work is an agent for longer, more involved tasks
 
-**ChatGPT** · 2026-07-09 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|Introducing ChatGPT Work]]
+**ChatGPT** · 2026-07-09 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work) · from [[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|Introducing ChatGPT Work]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT Work is an agent for longer, more involved tasks. It can research and analyze information, work across connected apps and files, and create finished documents, spreadsheets, presentations, reports, and Sites. You can follow its progress, answer questions, change direction, and approve important actions as it works.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -112,5 +112,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-09-ad1325&body=Card%3A%20Changes%2FChatGPT%2F2026-07-09-chatgpt-work-is-an-agent-for-longer-more-involved-tasks-it-can-research-and-anal.md%0ACard%20ID%3A%20chatgpt-2026-07-09-ad1325%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-09-ad1325&body=Card%3A%20Changes%2FChatGPT%2F2026-07-09-chatgpt-work-is-an-agent-for-longer-more-involved-tasks-it-can-research-and-anal.md%0ACard%20ID%3A%20chatgpt-2026-07-09-ad1325%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23introducing-chatgpt-work%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -3,7 +3,7 @@ changes_count: 3
 date: '2026-08-31'
 description: 'ChatGPT release See Live voice content on your Lock Screen on 2026-08-31:
   3 tracked changes across Voice and Audio'
-machine_hash: 4f1a0ee7a20ae5dd6246f4948d99e1cad0d9638047698af65c60baa7336de317
+machine_hash: 69fb1d440a230249748b4edbfcf7b802099f48c878b1676f207622fae3a02abb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
   source_summary: Content from a Live voice conversation can now appear on your iPhone’s
     Lock Screen and, on iPhones with Dynamic Island, in the Dynamic Island.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#see-live-voice-content-on-your-lock-screen
   title: See Live voice content on your Lock Screen
   version: See Live voice content on your Lock Screen
 release_id: chatgpt-2026-08-31-see-live-voice-content-on-your-lock-screen-3b9abebd
 source_release: See Live voice content on your Lock Screen
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#see-live-voice-content-on-your-lock-screen
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: See Live voice content on your Lock Screen
 <!-- chronolog:begin region="header" -->
 # ChatGPT · See Live voice content on your Lock Screen
 
-**ChatGPT** · 2026-08-31 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-08-31 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#see-live-voice-content-on-your-lock-screen)
 <!-- chronolog:end -->
 
 ## Summary

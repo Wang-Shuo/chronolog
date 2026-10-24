@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 06b8aeb71d44e4cd9c2d7393312dd7a7304c9bd709f10278ef91a46cda986b45
+machine_hash: 95432677d567c778d77fc906c18ab03a04cf529bf754ca7e015f4dd64e941c10
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ record:
       a small portion of ChatGPT free and Plus users this week to learn how useful
       it is. We will share plans for a broader roll out soon.You can read more about
       memory and controls here.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-and-new-controls-for-chatgpt
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -71,13 +71,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Memory and new controls for ChatGPT
 
-**ChatGPT** · 2024-02-13 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded|Memory and new controls for ChatGPT]]
+**ChatGPT** · 2024-02-13 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-and-new-controls-for-chatgpt) · from [[Releases/ChatGPT/chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded|Memory and new controls for ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re testing memory with ChatGPT. Remembering things you discuss across all chats saves you from having to repeat information and makes future conversations more helpful.You're in control of ChatGPT's memory. You can explicitly tell it to remember something, ask it what it remembers, and tell it to forget conversationally or through settings. You can also turn it off entirely.We are rolling out to a small portion of ChatGPT free and Plus users this week to learn how useful it is. We will share plans for a broader roll out soon.You can read more about memory and controls here.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-and-new-controls-for-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -98,5 +98,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-02-13-9872c8&body=Card%3A%20Changes%2FChatGPT%2F2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8.md%0ACard%20ID%3A%20chatgpt-2024-02-13-9872c8%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-02-13-9872c8&body=Card%3A%20Changes%2FChatGPT%2F2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8.md%0ACard%20ID%3A%20chatgpt-2024-02-13-9872c8%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23memory-and-new-controls-for-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -4,8 +4,8 @@ date: '2026-10-06'
 description: 'Cursor · 2026-10-06 · Mobile and Desktop: You can now see and reply
   to the local agents running on your computer from the Cursor iOS app.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1302
   relation: same-theme-chronology

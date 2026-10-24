@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-07-09'
 description: 'ChatGPT release Retiring Atlas on 2026-07-09: 1 tracked change across
   Account and Access'
-machine_hash: 5aa23128bbe678d30373ad7ac8c5fad8cee68e2cd13d21fcf275f4e3a52decd2
+machine_hash: 3350020e0ae18468bbd42d128af157e77743335069b8565db5a5d732f19f1506
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     data you want to keep. Atlas browser data, including bookmarks, open tabs, and
     browser…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-atlas
   title: Retiring Atlas
   version: Retiring Atlas
 release_id: chatgpt-2026-07-09-retiring-atlas-c6a8b965
 source_release: Retiring Atlas
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-atlas
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Retiring Atlas
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Retiring Atlas
 
-**ChatGPT** · 2026-07-09 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-07-09 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-atlas)
 <!-- chronolog:end -->
 
 ## Summary

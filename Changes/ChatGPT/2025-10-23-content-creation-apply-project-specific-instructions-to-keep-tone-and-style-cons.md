@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 99ba6eddf172d4c6779e21637b113f7b8f7ec555d5ad649549c384c09697b523
+machine_hash: b1b59eaa603d3674ac27f2fed45281636b21e4af33e1d8c7f4828f69da555dd7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   evidence:
   - quote: 'Content creation: Apply project-specific instructions to keep tone and
       style consistent across contributors.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -58,13 +58,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Content creation: Apply project-specific instructions to keep tone and style…
 
-**ChatGPT** · 2025-10-23 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-10-23-shared-projects-217fa07d|Shared projects]]
+**ChatGPT** · 2025-10-23 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects) · from [[Releases/ChatGPT/chatgpt-2025-10-23-shared-projects-217fa07d|Shared projects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Content creation: Apply project-specific instructions to keep tone and style consistent across contributors.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -88,5 +88,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-10-23-52a8ca&body=Card%3A%20Changes%2FChatGPT%2F2025-10-23-content-creation-apply-project-specific-instructions-to-keep-tone-and-style-cons.md%0ACard%20ID%3A%20chatgpt-2025-10-23-52a8ca%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-10-23-52a8ca&body=Card%3A%20Changes%2FChatGPT%2F2025-10-23-content-creation-apply-project-specific-instructions-to-keep-tone-and-style-cons.md%0ACard%20ID%3A%20chatgpt-2025-10-23-52a8ca%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23shared-projects%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

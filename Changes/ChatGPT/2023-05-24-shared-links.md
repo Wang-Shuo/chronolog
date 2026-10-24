@@ -15,7 +15,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7ac8dfcc4f10c2ec2b05d19039234a1950e6a242016ec79b1453f388f553c8c6
+machine_hash: 2c81b14c8bc754b023020a519ae5ef3983aa0757052674aee3a513b1a9299e61
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,7 +26,7 @@ record:
     Bing Plugin, disable history on iOS: Shared Links'
   evidence:
   - quote: Shared Links
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app-available-in-more-countries-shared-links-in-alpha-bing-plugin-disable-history-on-ios
   extractor_version: fallback-v5
   impact: incremental
   kind: launch
@@ -50,13 +50,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Shared Links
 
-**ChatGPT** · 2023-05-24 · [[Themes/collaboration|Collaboration]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96|iOS app available in more countries, shared links in alpha, Bing Plugin, disable history on iOS]]
+**ChatGPT** · 2023-05-24 · [[Themes/collaboration|Collaboration]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app-available-in-more-countries-shared-links-in-alpha-bing-plugin-disable-history-on-ios) · from [[Releases/ChatGPT/chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96|iOS app available in more countries, shared links in alpha, Bing Plugin, disable history on iOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Shared Links
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#ios-app-available-in-more-countries-shared-links-in-alpha-bing-plugin-disable-history-on-ios
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -80,5 +80,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-05-24-9617fc&body=Card%3A%20Changes%2FChatGPT%2F2023-05-24-shared-links.md%0ACard%20ID%3A%20chatgpt-2023-05-24-9617fc%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-05-24-9617fc&body=Card%3A%20Changes%2FChatGPT%2F2023-05-24-shared-links.md%0ACard%20ID%3A%20chatgpt-2023-05-24-9617fc%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23ios-app-available-in-more-countries-shared-links-in-alpha-bing-plugin-disable-history-on-ios%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

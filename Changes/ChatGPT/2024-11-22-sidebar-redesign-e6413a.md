@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: add729636f2d3ae19a144c3b6d3e495bc0a456852b0e853b3c5a4da20a0cb79b
+machine_hash: e7ff795100b5fbac93339931cf1c348637f28cf8b9bba25be5c45fc899312ea4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,17 +30,17 @@ record:
     added with soft dismiss behavior'
   evidence:
   - quote: New floating mode added with soft dismiss behavior
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience
   - quote: Recent conversations are now limited in the sidebar, with an unlimited
       infinite scroll flyout for all conversations
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience
   - quote: Recent GPTs & Pinned GPTs are now displayed below conversations
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience
   - quote: A small settings icon was added in larger viewports when the sidebar is
       not open
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience
   - quote: New transitions were added to create a more immersive feel
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience
   extractor_version: fallback-v5
   impact: significant
   kind: launch
@@ -69,7 +69,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Sidebar redesign
 
-**ChatGPT** · 2024-11-22 · [[Themes/interface-experience|Interface Experience]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c|Updates to the ChatGPT Web experience]]
+**ChatGPT** · 2024-11-22 · [[Themes/interface-experience|Interface Experience]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience) · from [[Releases/ChatGPT/chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c|Updates to the ChatGPT Web experience]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -83,7 +83,7 @@ type: change
 >
 > New transitions were added to create a more immersive feel
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -110,5 +110,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-11-22-e6413a&body=Card%3A%20Changes%2FChatGPT%2F2024-11-22-sidebar-redesign-e6413a.md%0ACard%20ID%3A%20chatgpt-2024-11-22-e6413a%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-11-22-e6413a&body=Card%3A%20Changes%2FChatGPT%2F2024-11-22-sidebar-redesign-e6413a.md%0ACard%20ID%3A%20chatgpt-2024-11-22-e6413a%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23updates-to-the-chatgpt-web-experience%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

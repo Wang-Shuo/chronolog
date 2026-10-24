@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 92c4f6b7af6a77b591739c5801c8acab40be074221b296296c9a76d9528ae53e
+machine_hash: 13852e2260ee6e1a0d4ab7b975e139f0b815a825a0f8e1dd24fc07d0a72598f7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   evidence:
   - quote: The new chat button has been moved to the left of the Model Picker to be
       easier to access
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -72,13 +72,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # The new chat button has been moved to the left of the Model Picker to be easier to access
 
-**ChatGPT** · 2024-11-22 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c|Updates to the ChatGPT Web experience]]
+**ChatGPT** · 2024-11-22 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience) · from [[Releases/ChatGPT/chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c|Updates to the ChatGPT Web experience]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > The new chat button has been moved to the left of the Model Picker to be easier to access
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -105,5 +105,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-11-22-03f583&body=Card%3A%20Changes%2FChatGPT%2F2024-11-22-the-new-chat-button-has-been-moved-to-the-left-of-the-model-picker-to-be-easier.md%0ACard%20ID%3A%20chatgpt-2024-11-22-03f583%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-11-22-03f583&body=Card%3A%20Changes%2FChatGPT%2F2024-11-22-the-new-chat-button-has-been-moved-to-the-left-of-the-model-picker-to-be-easier.md%0ACard%20ID%3A%20chatgpt-2024-11-22-03f583%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23updates-to-the-chatgpt-web-experience%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-02-12'
 description: 'ChatGPT release ChatGPT Voice Update on 2026-02-12: 1 tracked change
   across Voice and Audio'
-machine_hash: 97ebd687a7bedb730445d1e1765409c1e6675bcf5de5f857349f03ec92ecbf6a
+machine_hash: 4fa28fa2c3e63ae561fe2b04f4383d777f9a5da3c81c68215904809f52b7bd48
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     on the free ChatGPT plan, and by Plus users when limits are reached for the main
     model.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-voice-update
   title: ChatGPT Voice Update
   version: ChatGPT Voice Update
 release_id: chatgpt-2026-02-12-chatgpt-voice-update-c17a6a9f
 source_release: ChatGPT Voice Update
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-voice-update
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: ChatGPT Voice Update
 <!-- chronolog:begin region="header" -->
 # ChatGPT Voice Update
 
-**ChatGPT** · 2026-02-12 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-02-12 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-voice-update)
 <!-- chronolog:end -->
 
 ## Summary

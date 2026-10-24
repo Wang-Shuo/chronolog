@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0be59f654b798fa34c482a819b41aa2b0985af91a79737ac5b36e7f7c5c6ab0b
+machine_hash: 07882524739742deae1cac6dc6ab0c43dde4935d65787dc6f1e55746df26b5e3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,14 +34,14 @@ record:
       your Google Drive files and folders directly from Library, including items shared
       directly with you. You can also quickly pull up a Drive file from the composer
       or with @mentions and add it to any chat—without uploading it again.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#google-drive-is-now-in-library
   - quote: When you’re working with a file, you can now keep Google Docs, Sheets,
       and Slides open beside the conversation while asking ChatGPT to summarize, analyze,
       compare, or create something new from them. You can also select a folder and
       ask ChatGPT to work across the files it contains. Your content stays connected
       to Drive, so it’s easy to return to the original. Where supported and authorized,
       ChatGPT can update the source file directly.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#google-drive-is-now-in-library
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # If you have the Google Drive plugin connected, you can now see and browse…
 
-**ChatGPT** · 2026-08-13 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-13-google-drive-is-now-in-library-bbf66648|Google Drive is now in Library]]
+**ChatGPT** · 2026-08-13 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#google-drive-is-now-in-library) · from [[Releases/ChatGPT/chatgpt-2026-08-13-google-drive-is-now-in-library-bbf66648|Google Drive is now in Library]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -88,7 +88,7 @@ type: change
 >
 > When you’re working with a file, you can now keep Google Docs, Sheets, and Slides open beside the conversation while asking ChatGPT to summarize, analyze, compare, or create something new from them. You can also select a folder and ask ChatGPT to work across the files it contains. Your content stays connected to Drive, so it’s easy to return to the original. Where supported and authorized, ChatGPT can update the source file directly.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#google-drive-is-now-in-library
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -111,5 +111,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-13-97f18f&body=Card%3A%20Changes%2FChatGPT%2F2026-08-13-if-you-have-the-google-drive-plugin-connected-you-can-now-see-and-browse-your-go-97f18f.md%0ACard%20ID%3A%20chatgpt-2026-08-13-97f18f%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-13-97f18f&body=Card%3A%20Changes%2FChatGPT%2F2026-08-13-if-you-have-the-google-drive-plugin-connected-you-can-now-see-and-browse-your-go-97f18f.md%0ACard%20ID%3A%20chatgpt-2026-08-13-97f18f%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23google-drive-is-now-in-library%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

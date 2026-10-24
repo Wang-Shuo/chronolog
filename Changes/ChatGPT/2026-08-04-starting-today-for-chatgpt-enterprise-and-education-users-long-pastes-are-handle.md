@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5458945275aa7880176323b45c9f9da74495432a0c457584eac6d43c5959ac9f
+machine_hash: 66509d2c74b20f4ab16cacc565bc9d6fc3913364ce7ffa0a9f2ed63e4e28c773
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   evidence:
   - quote: Starting today for ChatGPT Enterprise and Education users, long pastes
       are handled differently in ChatGPT.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments-for-all-plans
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -61,13 +61,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Starting today for ChatGPT Enterprise and Education users, long pastes are handled…
 
-**ChatGPT** · 2026-08-04 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-04-large-pastes-are-now-handled-as-attachments-for-all-plans-8f11f30a|Large pastes are now handled as attachments for all plans]]
+**ChatGPT** · 2026-08-04 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments-for-all-plans) · from [[Releases/ChatGPT/chatgpt-2026-08-04-large-pastes-are-now-handled-as-attachments-for-all-plans-8f11f30a|Large pastes are now handled as attachments for all plans]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Starting today for ChatGPT Enterprise and Education users, long pastes are handled differently in ChatGPT.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments-for-all-plans
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -90,5 +90,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-04-eade3c&body=Card%3A%20Changes%2FChatGPT%2F2026-08-04-starting-today-for-chatgpt-enterprise-and-education-users-long-pastes-are-handle.md%0ACard%20ID%3A%20chatgpt-2026-08-04-eade3c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-04-eade3c&body=Card%3A%20Changes%2FChatGPT%2F2026-08-04-starting-today-for-chatgpt-enterprise-and-education-users-long-pastes-are-handle.md%0ACard%20ID%3A%20chatgpt-2026-08-04-eade3c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23large-pastes-are-now-handled-as-attachments-for-all-plans%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -3,7 +3,7 @@ created: '2023-09-25'
 date: '2026-05-08'
 description: Cross-product timeline of Multimodal Input changes in ChatGPT, Claude
   Code and Cursor.
-machine_hash: 3e4f8ceface98369795c209f3d58a0e1bdd0ecb148b992208660123866b4f05b
+machine_hash: fc6dfbeb899aee268afe2af2fc8bc63d42727748043c7e6d7896f2f22e4faf97
 modified: '2026-05-08'
 products_involved:
 - ChatGPT
@@ -21,7 +21,7 @@ title: Multimodal Input
 <!-- chronolog:begin region="header" -->
 # Multimodal Input
 
-5 tracked changes across ChatGPT, Claude Code and Cursor · 2023-09-25 → 2026-05-08 · Claude Code averages 6.9 cards per release, Cursor 4.0, ChatGPT 1.7
+5 tracked changes across ChatGPT, Claude Code and Cursor · 2023-09-25 → 2026-05-08 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary

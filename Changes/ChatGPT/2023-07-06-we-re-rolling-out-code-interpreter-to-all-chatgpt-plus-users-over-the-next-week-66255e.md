@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 20e480306728568b67c846aaa1fdeb7937a31e87959b6f85b57c3900b3b57b72
+machine_hash: fc1e64cfb89bd935977c3fa44d08a9b7f2547670899f17a351e64d7186566ddd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       math, etc.We’ll be making these features accessible to Plus users on the web
       via the beta panel in your settings over the course of the next week.To enable
       code interpreter:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#code-interpreter-is-now-rolling-out-in-beta-on-web
   extractor_version: fallback-v5
   impact: incremental
   kind: expansion
@@ -61,13 +61,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Code interpreter is now rolling out in beta on web
 
-**ChatGPT** · 2023-07-06 · [[Themes/file-data|Files and Data]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-07-06-code-interpreter-is-now-rolling-out-in-beta-on-web-427b9bc0|Code interpreter is now rolling out in beta on web]]
+**ChatGPT** · 2023-07-06 · [[Themes/file-data|Files and Data]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#code-interpreter-is-now-rolling-out-in-beta-on-web) · from [[Releases/ChatGPT/chatgpt-2023-07-06-code-interpreter-is-now-rolling-out-in-beta-on-web-427b9bc0|Code interpreter is now rolling out in beta on web]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re rolling out code interpreter to all ChatGPT Plus users over the next week.It lets ChatGPT run code, optionally with access to files you've uploaded. You can ask ChatGPT to analyze data, create charts, edit files, perform math, etc.We’ll be making these features accessible to Plus users on the web via the beta panel in your settings over the course of the next week.To enable code interpreter:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#code-interpreter-is-now-rolling-out-in-beta-on-web
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -87,5 +87,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-07-06-66255e&body=Card%3A%20Changes%2FChatGPT%2F2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e.md%0ACard%20ID%3A%20chatgpt-2023-07-06-66255e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-07-06-66255e&body=Card%3A%20Changes%2FChatGPT%2F2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e.md%0ACard%20ID%3A%20chatgpt-2023-07-06-66255e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23code-interpreter-is-now-rolling-out-in-beta-on-web%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

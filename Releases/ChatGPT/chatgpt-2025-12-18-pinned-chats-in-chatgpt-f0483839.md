@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-12-18'
 description: 'ChatGPT release Pinned chats in ChatGPT on 2025-12-18: 1 tracked change
   across Mobile and Desktop'
-machine_hash: c7d81c45a7e612fe61b5051f76499957bc9456d327f199a3585c78715e5447a1
+machine_hash: a22f7c072d0aa6ea2632f09c4bf4935b3a95ad5b89b49915c50788ca88aba6e1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     Atlas. On web, hover over a chat in the left-hand sidebar, click ⋯, and select
     Pin chat. On mobile, long-press a chat and select Pin chat.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#pinned-chats-in-chatgpt
   title: Pinned chats in ChatGPT
   version: Pinned chats in ChatGPT
 release_id: chatgpt-2025-12-18-pinned-chats-in-chatgpt-f0483839
 source_release: Pinned chats in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#pinned-chats-in-chatgpt
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Pinned chats in ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Pinned chats in ChatGPT
 
-**ChatGPT** · 2025-12-18 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-12-18 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#pinned-chats-in-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

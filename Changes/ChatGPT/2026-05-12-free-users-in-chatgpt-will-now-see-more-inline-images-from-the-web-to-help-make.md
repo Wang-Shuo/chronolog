@@ -4,8 +4,8 @@ date: '2026-05-12'
 description: 'ChatGPT · 2026-05-12 · Mobile and Desktop: Free users in ChatGPT will
   now see more inline images from the web to help make visual topics easier to understand…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1155
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 581b6068660605ad1963073685aa4e26b3f843b1384a2cf377cacb5008480b5e
+machine_hash: 0dc0617155813744a3fc3dd66fa59067af9ab25ad0a826a8a827d9514c6dd219
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       parts of an answer. You can click any image to view it at its original size
       and see source attribution.This is rolling out globally on web and iOS to Free
       users for responses using 5.5-Instant.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-images-in-answers-for-free-users
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -66,13 +66,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # More images in answers for Free users
 
-**ChatGPT** · 2026-05-12 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-05-12-more-images-in-answers-for-free-users-34680cb9|More images in answers for Free users]]
+**ChatGPT** · 2026-05-12 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-images-in-answers-for-free-users) · from [[Releases/ChatGPT/chatgpt-2026-05-12-more-images-in-answers-for-free-users-34680cb9|More images in answers for Free users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Free users in ChatGPT will now see more inline images from the web to help make visual topics easier to understand, including well-known people, places, and products. When visuals can add clarity, images may appear alongside relevant parts of an answer. You can click any image to view it at its original size and see source attribution.This is rolling out globally on web and iOS to Free users for responses using 5.5-Instant.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-images-in-answers-for-free-users
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -93,5 +93,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-05-12-635177&body=Card%3A%20Changes%2FChatGPT%2F2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make.md%0ACard%20ID%3A%20chatgpt-2026-05-12-635177%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-05-12-635177&body=Card%3A%20Changes%2FChatGPT%2F2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make.md%0ACard%20ID%3A%20chatgpt-2026-05-12-635177%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23more-images-in-answers-for-free-users%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -4,7 +4,7 @@ date: '2026-07-09'
 description: 'ChatGPT release Introducing ChatGPT Sites in public beta on 2026-07-09:
   4 tracked changes across Enterprise and Administration, Artifact Creation, Mobile
   and…'
-machine_hash: 0be93fdef7dc04f4be52b41a20540bfcf8f063cdae5519de9605eff8dabc1547
+machine_hash: f8e16dbbe7829cfb90de5ed279009f7d6b886b148c6034346872fb472dbaa9a7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     project trackers, launch calendars, prototypes, internal portals, and reports,
     then preview and refine the result with ChatGPT before sharing it.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-sites-in-public-beta
   title: Introducing ChatGPT Sites in public beta
   version: Introducing ChatGPT Sites in public beta
 release_id: chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd
 source_release: Introducing ChatGPT Sites in public beta
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-sites-in-public-beta
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Introducing ChatGPT Sites in public beta
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Introducing ChatGPT Sites in public beta
 
-**ChatGPT** · 2026-07-09 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-07-09 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-sites-in-public-beta)
 <!-- chronolog:end -->
 
 ## Summary

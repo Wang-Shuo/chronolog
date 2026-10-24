@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a5be6430c9f1ecd037c2c0e7aa2ecca00c0dc5fd01036de6d85f71e8159529d3
+machine_hash: 3d088e740f0e59150f132fa7eb7da5e8df3b8e5ae0a98f1a58d0070b12552138
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
   - quote: Expanded file type support. We now support additional text and code file
       formats, improving compatibility with source files, logs, configuration files,
       and other structured text.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -68,13 +68,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Expanded file type support
 
-**ChatGPT** · 2026-02-13 · [[Themes/file-data|Files and Data]] · Web · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0|ChatGPT updates: Better file uploads, easier copying, and more reliable long chats]]
+**ChatGPT** · 2026-02-13 · [[Themes/file-data|Files and Data]] · Web · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats) · from [[Releases/ChatGPT/chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0|ChatGPT updates: Better file uploads, easier copying, and more reliable long chats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Expanded file type support. We now support additional text and code file formats, improving compatibility with source files, logs, configuration files, and other structured text.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -101,5 +101,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-13-b3a162&body=Card%3A%20Changes%2FChatGPT%2F2026-02-13-expanded-file-type-support-we-now-support-additional-text-and-code-file-formats.md%0ACard%20ID%3A%20chatgpt-2026-02-13-b3a162%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-13-b3a162&body=Card%3A%20Changes%2FChatGPT%2F2026-02-13-expanded-file-type-support-we-now-support-additional-text-and-code-file-formats.md%0ACard%20ID%3A%20chatgpt-2026-02-13-b3a162%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-07-16 · Mobile and Desktop: We’ve updated the C
   desktop app to make it easier to choose between Chat and Work, find your conversations
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1220
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4c25f3e8628b03e98e5b229449f62b1829ca5494c2b27fd4b670c966bc1e01ac
+machine_hash: b7e8dda6616c72edb24e860a9eb6ed077793d8ae193d01b67605a4e031eb94c2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
   - quote: We’ve updated the ChatGPT desktop app to make it easier to choose between
       Chat and Work, find your conversations and Projects, and continue Work across
       devices. These updates are now live for all plans on macOS and Windows.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -64,13 +64,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT updates the ChatGPT desktop app to make it easier to choose between Chat…
 
-**ChatGPT** · 2026-07-16 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad|ChatGPT desktop app experience updates]]
+**ChatGPT** · 2026-07-16 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad|ChatGPT desktop app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’ve updated the ChatGPT desktop app to make it easier to choose between Chat and Work, find your conversations and Projects, and continue Work across devices. These updates are now live for all plans on macOS and Windows.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -96,5 +96,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-16-5f6f38&body=Card%3A%20Changes%2FChatGPT%2F2026-07-16-we-ve-updated-the-chatgpt-desktop-app-to-make-it-easier-to-choose-between-chat-a.md%0ACard%20ID%3A%20chatgpt-2026-07-16-5f6f38%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-16-5f6f38&body=Card%3A%20Changes%2FChatGPT%2F2026-07-16-we-ve-updated-the-chatgpt-desktop-app-to-make-it-easier-to-choose-between-chat-a.md%0ACard%20ID%3A%20chatgpt-2026-07-16-5f6f38%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-desktop-app-experience-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -3,7 +3,7 @@ changes_count: 3
 date: '2025-08-11'
 description: 'ChatGPT release Additional connectors for Plus and Pro on 2025-08-11:
   3 tracked changes across Collaboration, Search and Browsing'
-machine_hash: e665eac463b0612035fa8a40564efed2956f68f316386a7e73fa8451752782f9
+machine_hash: 66f4d2074104ee749fda15384abc78937aa02a74d26b5502a01688a1f0977ab1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -16,13 +16,13 @@ record:
     in chat.The following connectors are now available to search by chat in addition
     to deep research.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-connectors-for-plus-and-pro
   title: Additional connectors for Plus and Pro
   version: Additional connectors for Plus and Pro
 release_id: chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a
 source_release: Additional connectors for Plus and Pro
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-connectors-for-plus-and-pro
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Additional connectors for Plus and Pro
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Additional connectors for Plus and Pro
 
-**ChatGPT** · 2025-08-11 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-08-11 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-connectors-for-plus-and-pro)
 <!-- chronolog:end -->
 
 ## Summary

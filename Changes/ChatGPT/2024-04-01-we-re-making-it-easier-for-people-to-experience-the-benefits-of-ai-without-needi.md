@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dbf15a7c7bce5663cd6468e2257236026d33353e0f5ebb99b7d937d2014757c2
+machine_hash: 01d8200ba484c499a9da08dbf911e221a6d4b0817859c804e59ede758c5ae45a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       needing to sign up. Starting today, you can use ChatGPT instantly, without needing
       to sign-up. We're rolling this out gradually, with the aim to make AI accessible
       to anyone curious about its capabilities.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#start-using-chatgpt-instantly
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -66,13 +66,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Start using ChatGPT instantly
 
-**ChatGPT** · 2024-04-01 · [[Themes/account-access|Account and Access]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-04-01-start-using-chatgpt-instantly-40988be9|Start using ChatGPT instantly]]
+**ChatGPT** · 2024-04-01 · [[Themes/account-access|Account and Access]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#start-using-chatgpt-instantly) · from [[Releases/ChatGPT/chatgpt-2024-04-01-start-using-chatgpt-instantly-40988be9|Start using ChatGPT instantly]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re making it easier for people to experience the benefits of AI without needing to sign up. Starting today, you can use ChatGPT instantly, without needing to sign-up. We're rolling this out gradually, with the aim to make AI accessible to anyone curious about its capabilities.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#start-using-chatgpt-instantly
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -93,5 +93,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-04-01-9d75a2&body=Card%3A%20Changes%2FChatGPT%2F2024-04-01-we-re-making-it-easier-for-people-to-experience-the-benefits-of-ai-without-needi.md%0ACard%20ID%3A%20chatgpt-2024-04-01-9d75a2%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-04-01-9d75a2&body=Card%3A%20Changes%2FChatGPT%2F2024-04-01-we-re-making-it-easier-for-people-to-experience-the-benefits-of-ai-without-needi.md%0ACard%20ID%3A%20chatgpt-2024-04-01-9d75a2%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23start-using-chatgpt-instantly%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

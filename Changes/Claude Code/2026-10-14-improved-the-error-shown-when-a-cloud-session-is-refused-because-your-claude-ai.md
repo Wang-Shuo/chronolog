@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e2ca1a6fc1055a6ce7c4a47542417ff831720c303d44fe029ee1de28ccae8125
+machine_hash: b64418a0c25da1ed469dded412a08c45ea9c6e459c78edde432621b1135f9f2d
 product: claude-code
 product_name: Claude Code
 record:
@@ -92,6 +92,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-improved-the-errors-for-a-refused-cloud-session-they-now-say-why-your-organizati|Improved the errors for a refused cloud session]]
+- Later: 2026-10-16 · Claude Code · [[Changes/Claude Code/2026-10-16-added-a-notice-to-design-sync-and-design-login-that-standalone-claude-design-cla|Added a notice to /design-sync and /design-login that standalone Claude Design…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

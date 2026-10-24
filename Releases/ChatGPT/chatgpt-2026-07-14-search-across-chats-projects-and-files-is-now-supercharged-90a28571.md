@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-07-14'
 description: 'ChatGPT release Search across chats, projects, and files is now supercharged.
   on 2026-07-14: 1 tracked change across Mobile and Desktop'
-machine_hash: dfd1e01bfbd39fe0f5fa821f976e157af12c6f7df57be83fd58e9179805ca41f
+machine_hash: f50b29ba7a6f31293fc08aaeab3e4b08621d3849708a92be81156b2838068618
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     sidebar to find what you need across everything, or use filters to narrow results
     by…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#search-across-chats-projects-and-files-is-now-supercharged
   title: Search across chats, projects, and files is now supercharged.
   version: Search across chats, projects, and files is now supercharged.
 release_id: chatgpt-2026-07-14-search-across-chats-projects-and-files-is-now-supercharged-90a28571
 source_release: Search across chats, projects, and files is now supercharged.
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#search-across-chats-projects-and-files-is-now-supercharged
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Search across chats, projects, and files is now supercharged.
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Search across chats, projects, and files is now supercharged.
 
-**ChatGPT** · 2026-07-14 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-07-14 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#search-across-chats-projects-and-files-is-now-supercharged)
 <!-- chronolog:end -->
 
 ## Summary

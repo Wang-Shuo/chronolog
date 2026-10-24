@@ -4,8 +4,8 @@ date: '2025-02-28'
 description: 'ChatGPT · 2025-02-28 · Mobile and Desktop: Long press to select text
   on iOS and moved the message quick actions to always be visible below the message:'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 717
   relation: same-theme-chronology

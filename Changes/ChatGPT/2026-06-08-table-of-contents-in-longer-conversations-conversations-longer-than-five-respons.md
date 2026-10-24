@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ef697ea9e2120caaedf57017170ed0223cce8c9162e01368cc4205b900d73ff2
+machine_hash: 79e240fb80b037c93bbdc653febda00009f175b904276bafae2431429e9a8c8c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
   - quote: 'Table of contents in longer conversations: Conversations longer than five
       responses can now include a table of contents, so you can scan sections and
       jump to the part you need.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -65,13 +65,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Table of contents in longer conversations
 
-**ChatGPT** · 2026-06-08 · [[Themes/interface-experience|Interface Experience]] · Web · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
+**ChatGPT** · 2026-06-08 · [[Themes/interface-experience|Interface Experience]] · Web · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Table of contents in longer conversations: Conversations longer than five responses can now include a table of contents, so you can scan sections and jump to the part you need.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -102,5 +102,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-08-7c23e0&body=Card%3A%20Changes%2FChatGPT%2F2026-06-08-table-of-contents-in-longer-conversations-conversations-longer-than-five-respons.md%0ACard%20ID%3A%20chatgpt-2026-06-08-7c23e0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-08-7c23e0&body=Card%3A%20Changes%2FChatGPT%2F2026-06-08-table-of-contents-in-longer-conversations-conversations-longer-than-five-respons.md%0ACard%20ID%3A%20chatgpt-2026-06-08-7c23e0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-app-experience-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

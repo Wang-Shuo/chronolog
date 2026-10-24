@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a24ff4dbd4562029f845cbba6fc4d77315fa372519bf56712b9e99c800a29691
+machine_hash: 5f51dafc30f34d71a6d24ca97ffaa3efa2e8a37eea58372d0df5449ccf08ad0e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   evidence:
   - quote: 'Third-party plugins: An experimental model that knows when and how to
       use external plugins.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -72,13 +72,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Third-party plugins: An experimental model that knows when and how to use external plugins
 
-**ChatGPT** · 2023-03-23 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|Introducing plugins in ChatGPT]]
+**ChatGPT** · 2023-03-23 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|Introducing plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Third-party plugins: An experimental model that knows when and how to use external plugins.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-plugins-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -103,5 +103,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-03-23-3b27d2&body=Card%3A%20Changes%2FChatGPT%2F2023-03-23-third-party-plugins-an-experimental-model-that-knows-when-and-how-to-use-externa.md%0ACard%20ID%3A%20chatgpt-2023-03-23-3b27d2%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-03-23-3b27d2&body=Card%3A%20Changes%2FChatGPT%2F2023-03-23-third-party-plugins-an-experimental-model-that-knows-when-and-how-to-use-externa.md%0ACard%20ID%3A%20chatgpt-2023-03-23-3b27d2%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23introducing-plugins-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

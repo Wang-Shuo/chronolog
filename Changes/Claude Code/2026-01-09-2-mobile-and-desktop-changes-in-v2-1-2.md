@@ -5,8 +5,8 @@ description: 'Claude Code · 2026-01-09 · Mobile and Desktop: 2 changes in v2.1
   Added support for Windows Package Manager (winget) installations with automatic
   detection…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1032
   relation: same-theme-chronology

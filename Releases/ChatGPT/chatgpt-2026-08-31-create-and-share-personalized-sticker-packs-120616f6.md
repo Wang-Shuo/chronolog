@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-08-31'
 description: 'ChatGPT release Create and share personalized sticker packs on 2026-08-31:
   1 tracked change across Collaboration'
-machine_hash: 3fbb94ff209c168489af2e09dffec429cd80fc89d1082c532694606eb998508d
+machine_hash: da8ddfc70ad62c71fc51473e9ab669474ea42fc1ce7deca7c334c3bd1b4fd103
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
   source_summary: Turn an idea or a photo into a set of stickers you can use in your
     messages.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-share-personalized-sticker-packs
   title: Create and share personalized sticker packs
   version: Create and share personalized sticker packs
 release_id: chatgpt-2026-08-31-create-and-share-personalized-sticker-packs-120616f6
 source_release: Create and share personalized sticker packs
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-share-personalized-sticker-packs
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: Create and share personalized sticker packs
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Create and share personalized sticker packs
 
-**ChatGPT** · 2026-08-31 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-08-31 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-share-personalized-sticker-packs)
 <!-- chronolog:end -->
 
 ## Summary

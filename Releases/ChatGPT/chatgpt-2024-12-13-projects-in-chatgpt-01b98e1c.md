@@ -3,7 +3,7 @@ changes_count: 2
 date: '2024-12-13'
 description: 'ChatGPT release Projects in ChatGPT on 2024-12-13: 2 tracked changes
   across Files and Data, Model Support'
-machine_hash: 48586581c0cfd6d00a0cc573c952117296f36274fd0d3f26be6c3af39f8b8253
+machine_hash: 764f1ada6fd46c21e10e8dd77a34e7d6c8613569d679681b0cfe3432561577b6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     in your Project share context with your uploaded files and custom instructions.
     Chats in…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#projects-in-chatgpt
   title: Projects in ChatGPT
   version: Projects in ChatGPT
 release_id: chatgpt-2024-12-13-projects-in-chatgpt-01b98e1c
 source_release: Projects in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#projects-in-chatgpt
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Projects in ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Projects in ChatGPT
 
-**ChatGPT** · 2024-12-13 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2024-12-13 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#projects-in-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

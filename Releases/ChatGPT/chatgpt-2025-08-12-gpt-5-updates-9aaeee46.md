@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-08-12'
 description: 'ChatGPT release GPT-5 Updates on 2025-08-12: 1 tracked change across
   Model Support'
-machine_hash: af290bb7ce3a4e6c205964d90b98773da12e68592cdb7e4b218fb40c4e3636ca
+machine_hash: 513ea406ebbccec28cecbcc6ad02bbccf630c7c6b439696abf3206490a5d6225
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     then extra capacity on GPT-5 Thinking mini after that limit. The context limit
     for GPT-5…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5-updates
   title: GPT-5 Updates
   version: GPT-5 Updates
 release_id: chatgpt-2025-08-12-gpt-5-updates-9aaeee46
 source_release: GPT-5 Updates
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5-updates
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: GPT-5 Updates
 <!-- chronolog:begin region="header" -->
 # ChatGPT · GPT-5 Updates
 
-**ChatGPT** · 2025-08-12 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-08-12 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5-updates)
 <!-- chronolog:end -->
 
 ## Summary

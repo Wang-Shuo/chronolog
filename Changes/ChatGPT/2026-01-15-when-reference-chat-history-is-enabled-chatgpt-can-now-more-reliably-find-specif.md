@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 65a2cc8f6c1ff3ee26b70654481e28bd1b2953489e1f0c3c5acc0a7f6b306020
+machine_hash: 1acf186fcdadc11ad89a71d04ba5cf142bd66a2a713326ec72d2a3f9453a9843
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       specific details from your past chats when you ask. Any past chat used to answer
       your question now appears as a source so you can open and review the original
       context.This memory improvement is now available for Plus and Pro users globally.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-memory-for-finding-details-from-past-chats-plus-pro
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -73,13 +73,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Improved memory for finding details from past chats (Plus & Pro)
 
-**ChatGPT** · 2026-01-15 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-01-15-improved-memory-for-finding-details-from-past-chats-plus-pro-7ff26748|Improved memory for finding details from past chats (Plus & Pro)]]
+**ChatGPT** · 2026-01-15 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-memory-for-finding-details-from-past-chats-plus-pro) · from [[Releases/ChatGPT/chatgpt-2026-01-15-improved-memory-for-finding-details-from-past-chats-plus-pro-7ff26748|Improved memory for finding details from past chats (Plus & Pro)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > When reference chat history is enabled, ChatGPT can now more reliably find specific details from your past chats when you ask. Any past chat used to answer your question now appears as a source so you can open and review the original context.This memory improvement is now available for Plus and Pro users globally.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-memory-for-finding-details-from-past-chats-plus-pro
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -100,5 +100,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-01-15-a3ac65&body=Card%3A%20Changes%2FChatGPT%2F2026-01-15-when-reference-chat-history-is-enabled-chatgpt-can-now-more-reliably-find-specif.md%0ACard%20ID%3A%20chatgpt-2026-01-15-a3ac65%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-01-15-a3ac65&body=Card%3A%20Changes%2FChatGPT%2F2026-01-15-when-reference-chat-history-is-enabled-chatgpt-can-now-more-reliably-find-specif.md%0ACard%20ID%3A%20chatgpt-2026-01-15-a3ac65%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23improved-memory-for-finding-details-from-past-chats-plus-pro%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

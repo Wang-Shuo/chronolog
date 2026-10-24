@@ -3,7 +3,7 @@ changes_count: 3
 date: '2025-10-23'
 description: 'ChatGPT release Shared projects on 2025-10-23: 3 tracked changes across
   Collaboration, Mobile and Desktop, Reliability and Performance'
-machine_hash: 738d3e07bedb3f8ab32c902a5bf34d77a9bd2ef459876166569fe0e6059bcfd2
+machine_hash: 3832c81c8ac5051ef6d532a39fb97db40b8fdabb517dba21458c25b5f81783de
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     can draw from anything in the shared project – including chats, uploaded files
     and custom instructions – so responses are informed by your group's internal knowledge…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects
   title: Shared projects
   version: Shared projects
 release_id: chatgpt-2025-10-23-shared-projects-217fa07d
 source_release: Shared projects
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Shared projects
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Shared projects
 
-**ChatGPT** · 2025-10-23 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-10-23 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shared-projects)
 <!-- chronolog:end -->
 
 ## Summary

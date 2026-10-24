@@ -3,7 +3,7 @@ changes_count: 2
 date: '2023-01-09'
 description: 'ChatGPT release Updates to ChatGPT on 2023-01-09: 2 tracked changes
   across Interface Experience, Model Support'
-machine_hash: d97eef94ed61e57a3b03b1bc18a60375dfc485911ffe45d5ee86d655283b20bb
+machine_hash: e0faec6f53a72842f76d9d1370aaf5c7812028a3ed4bb6d9e05e925541f9424c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
   source_summary: 'We''re excited to announce several updates to ChatGPT! Here''s
     what''s new:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
   title: Updates to ChatGPT
   version: Updates to ChatGPT
 release_id: chatgpt-2023-01-09-updates-to-chatgpt-0d776ee3
 source_release: Updates to ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: Updates to ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Updates to ChatGPT
 
-**ChatGPT** · 2023-01-09 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2023-01-09 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

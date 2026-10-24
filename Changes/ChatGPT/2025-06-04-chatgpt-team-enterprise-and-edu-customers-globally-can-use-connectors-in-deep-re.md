@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0ed6a2f2ab6726219229ba1e7738cabf63501dad4445c6a23ca70d74e9dabfe4
+machine_hash: 5b33a63bac54fad1d0756abe601b5b77c7fc4ce463322e205fefb074486afa97
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       in deep research, as well as Pro and Plus users (excluding users in Switzerland,
       EEA, and the UK) to generate long-form, cited responses that include your company’s
       internal tools.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connectors-in-beta-for-deep-research-plus-pro-team-enterprise-edu
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -84,13 +84,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT Team, Enterprise, and Edu customers globally can use connectors in deep…
 
-**ChatGPT** · 2025-06-04 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-06-04-connectors-in-beta-for-deep-research-plus-pro-team-enterprise-ed-6bb21f0f|Connectors in beta for deep research (Plus, Pro, Team, Enterprise, Edu)]]
+**ChatGPT** · 2025-06-04 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connectors-in-beta-for-deep-research-plus-pro-team-enterprise-edu) · from [[Releases/ChatGPT/chatgpt-2025-06-04-connectors-in-beta-for-deep-research-plus-pro-team-enterprise-ed-6bb21f0f|Connectors in beta for deep research (Plus, Pro, Team, Enterprise, Edu)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT Team, Enterprise, and Edu customers globally can use connectors in deep research, as well as Pro and Plus users (excluding users in Switzerland, EEA, and the UK) to generate long-form, cited responses that include your company’s internal tools.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connectors-in-beta-for-deep-research-plus-pro-team-enterprise-edu
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -114,5 +114,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-04-83d3de&body=Card%3A%20Changes%2FChatGPT%2F2025-06-04-chatgpt-team-enterprise-and-edu-customers-globally-can-use-connectors-in-deep-re.md%0ACard%20ID%3A%20chatgpt-2025-06-04-83d3de%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-04-83d3de&body=Card%3A%20Changes%2FChatGPT%2F2025-06-04-chatgpt-team-enterprise-and-edu-customers-globally-can-use-connectors-in-deep-re.md%0ACard%20ID%3A%20chatgpt-2025-06-04-83d3de%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23connectors-in-beta-for-deep-research-plus-pro-team-enterprise-edu%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

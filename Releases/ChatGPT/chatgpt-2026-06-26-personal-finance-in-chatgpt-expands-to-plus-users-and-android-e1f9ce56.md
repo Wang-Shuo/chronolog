@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-06-26'
 description: 'ChatGPT release Personal finance in ChatGPT expands to Plus users and
   Android on 2026-06-26: 1 tracked change across Files and Data'
-machine_hash: 8a8840fdb09d23124e5e6837130706145091c43da8ef98455d9800d2a40a7c55
+machine_hash: 579ecf1f2c9de4d0fdaba82a410d7a17b3c576cbc976f6a140a57dcb8e8f3f42
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     accounts, view a dashboard of their finances, and ask ChatGPT questions grounded
     in their…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personal-finance-in-chatgpt-expands-to-plus-users-and-android
   title: Personal finance in ChatGPT expands to Plus users and Android
   version: Personal finance in ChatGPT expands to Plus users and Android
 release_id: chatgpt-2026-06-26-personal-finance-in-chatgpt-expands-to-plus-users-and-android-e1f9ce56
 source_release: Personal finance in ChatGPT expands to Plus users and Android
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personal-finance-in-chatgpt-expands-to-plus-users-and-android
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Personal finance in ChatGPT expands to Plus users and Android
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Personal finance in ChatGPT expands to Plus users and Android
 
-**ChatGPT** · 2026-06-26 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-06-26 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personal-finance-in-chatgpt-expands-to-plus-users-and-android)
 <!-- chronolog:end -->
 
 ## Summary

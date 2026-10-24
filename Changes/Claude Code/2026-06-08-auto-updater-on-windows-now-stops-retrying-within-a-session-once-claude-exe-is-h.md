@@ -4,8 +4,8 @@ date: '2026-06-08'
 description: 'Claude Code · 2026-06-08 · Mobile and Desktop: Auto-updater on Windows
   now stops retrying within a session once `claude.exe` is held by another process'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1182
   relation: same-theme-chronology

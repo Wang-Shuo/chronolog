@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-08-10 · Mobile and Desktop: ChatGPT can now help 
   find available restaurant reservations with OpenTable, Resy, and Yelp.Ask in the
   chat and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1245
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1a736f4a4bcbe0cb5752bab0f57a35b51a200a5490a278e5990f7bcd663fecd2
+machine_hash: 56223bb3ae457fa93cded37f1dee8974f0d48e80339d04a550117541fdd7479b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,7 +45,7 @@ record:
       across all ChatGPT plans on mobile, web, and desktop. Reservations are available
       globally with OpenTable and in the US with Resy and in the US and Canada with
       Yelp. ChatGPT Work does not include restaurant reservation search.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#restaurant-reservations-in-chatgpt
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -74,13 +74,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Restaurant reservations in ChatGPT
 
-**ChatGPT** · 2026-08-10 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-10-restaurant-reservations-in-chatgpt-07c9e578|Restaurant reservations in ChatGPT]]
+**ChatGPT** · 2026-08-10 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#restaurant-reservations-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-08-10-restaurant-reservations-in-chatgpt-07c9e578|Restaurant reservations in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT can now help you find available restaurant reservations with OpenTable, Resy, and Yelp.Ask in the chat and include where and when you’d like to eat, your party size, and any preferences, such as cuisine, budget, dietary needs, or atmosphere. You’ll see available reservation times directly in the response. You can also ask follow-up questions to narrow your options or check a specific restaurant. When you find a time that works, select it to book it.Rolling out across all ChatGPT plans on mobile, web, and desktop. Reservations are available globally with OpenTable and in the US with Resy and in the US and Canada with Yelp. ChatGPT Work does not include restaurant reservation search.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#restaurant-reservations-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -101,5 +101,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-10-7c31a4&body=Card%3A%20Changes%2FChatGPT%2F2026-08-10-chatgpt-can-now-help-you-find-available-restaurant-reservations-with-opentable-r.md%0ACard%20ID%3A%20chatgpt-2026-08-10-7c31a4%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-10-7c31a4&body=Card%3A%20Changes%2FChatGPT%2F2026-08-10-chatgpt-can-now-help-you-find-available-restaurant-reservations-with-opentable-r.md%0ACard%20ID%3A%20chatgpt-2026-08-10-7c31a4%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23restaurant-reservations-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

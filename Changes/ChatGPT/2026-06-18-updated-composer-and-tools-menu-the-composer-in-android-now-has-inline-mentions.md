@@ -4,8 +4,8 @@ date: '2026-06-18'
 description: 'ChatGPT · 2026-06-18 · Mobile and Desktop: Updated composer and tools
   menu: The composer in Android now has inline mentions, and an updated menu for Plugins.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1192
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d255056dd01e70c25b1d5f63d8c9ec99e8241386bfafb7cbeb965a3ccaa600dc
+machine_hash: 464ea10439a99e0446129fa145deedc69455792a7ef1eb3cd5bf49014a5d23c0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   evidence:
   - quote: 'Updated composer and tools menu: The composer in Android now has inline
       mentions, and an updated menu for Plugins.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -75,13 +75,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Updated composer and tools menu
 
-**ChatGPT** · 2026-06-18 · [[Themes/mobile-desktop|Mobile and Desktop]] · Android · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
+**ChatGPT** · 2026-06-18 · [[Themes/mobile-desktop|Mobile and Desktop]] · Android · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Updated composer and tools menu: The composer in Android now has inline mentions, and an updated menu for Plugins.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -111,5 +111,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-18-1d7fe7&body=Card%3A%20Changes%2FChatGPT%2F2026-06-18-updated-composer-and-tools-menu-the-composer-in-android-now-has-inline-mentions.md%0ACard%20ID%3A%20chatgpt-2026-06-18-1d7fe7%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-18-1d7fe7&body=Card%3A%20Changes%2FChatGPT%2F2026-06-18-updated-composer-and-tools-menu-the-composer-in-android-now-has-inline-mentions.md%0ACard%20ID%3A%20chatgpt-2026-06-18-1d7fe7%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-app-experience-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

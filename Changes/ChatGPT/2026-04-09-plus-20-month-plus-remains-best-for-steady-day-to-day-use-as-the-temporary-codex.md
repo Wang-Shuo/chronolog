@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 44b009e98fb797b22ea8b9c48c153b6802fbb4f82b655ce7a73628a74be9db01
+machine_hash: f707304270a4b3ce9581634aa07f7a0e1acba3497b6917c8c129e9574f0773c4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       temporary Codex promotion on Plus ends, we’re rebalancing Plus usage to support
       more sessions across the week, rather than longer, high-intensity sessions on
       a single day.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options
   extractor_version: fallback-v5
   impact: significant
   kind: pricing
@@ -67,13 +67,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Plus ($20/month): Plus remains best for steady, day-to-day use
 
-**ChatGPT** · 2026-04-09 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|New Pro plan options]]
+**ChatGPT** · 2026-04-09 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options) · from [[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|New Pro plan options]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Plus ($20/month): Plus remains best for steady, day-to-day use. As the temporary Codex promotion on Plus ends, we’re rebalancing Plus usage to support more sessions across the week, rather than longer, high-intensity sessions on a single day.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -99,5 +99,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-04-09-66d25c&body=Card%3A%20Changes%2FChatGPT%2F2026-04-09-plus-20-month-plus-remains-best-for-steady-day-to-day-use-as-the-temporary-codex.md%0ACard%20ID%3A%20chatgpt-2026-04-09-66d25c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-04-09-66d25c&body=Card%3A%20Changes%2FChatGPT%2F2026-04-09-plus-20-month-plus-remains-best-for-steady-day-to-day-use-as-the-temporary-codex.md%0ACard%20ID%3A%20chatgpt-2026-04-09-66d25c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23new-pro-plan-options%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

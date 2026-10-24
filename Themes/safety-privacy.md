@@ -1,10 +1,10 @@
 ---
 created: '2023-04-16'
-date: '2026-10-14'
+date: '2026-10-22'
 description: 'Research question: which safeguards and privacy controls do the tracked
   products add, and for whom?'
-machine_hash: ada3b7fa3cb8b9a127497077664685654164e12cdc9d0057c2c5578d8dfa6779
-modified: '2026-10-14'
+machine_hash: b7af88896bb21441d73303ec4fc7b0a342dc4fa1e73dd778f7a3438cefddc7fa
+modified: '2026-10-22'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Safety and Privacy
 <!-- chronolog:begin region="header" -->
 # Safety and Privacy
 
-180 tracked changes across ChatGPT, Claude Code and Cursor · 2023-04-16 → 2026-10-14 · Claude Code averages 6.9 cards per release, Cursor 4.0, ChatGPT 1.7
+186 tracked changes across ChatGPT, Claude Code and Cursor · 2023-04-16 → 2026-10-22 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -58,10 +58,16 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 166 entries (ChatGPT 8 · Claude Code 139 · Cursor 19)
+### 2026 · 172 entries (ChatGPT 8 · Claude Code 145 · Cursor 19)
 
 #### 2026-10
 
+- 2026-10-22 · **Claude Code** · [[Changes/Claude Code/2026-10-22-8-safety-and-privacy-changes-in-v2-1-309|8 Safety and Privacy changes in v2.1.309]] · Digest
+- 2026-10-21 · **Claude Code** · [[Changes/Claude Code/2026-10-21-added-the-claude-code-safety-event-opentelemetry-event-for-each-tool-call-a-perm|Added the claude_code.safety_event OpenTelemetry event for each tool call…]]
+- 2026-10-20 · **Claude Code** · [[Changes/Claude Code/2026-10-20-3-safety-and-privacy-changes-in-v2-1-305|3 Safety and Privacy changes in v2.1.305]] · Digest
+- 2026-10-19 · **Claude Code** · [[Changes/Claude Code/2026-10-19-added-decider-person-to-a-mod-s-tool-check-answer-only-the-permission-dialog-or|Added decider: "person" to a mod's tool.check answer: only the permission dialog…]]
+- 2026-10-16 · **Claude Code** · [[Changes/Claude Code/2026-10-16-2-safety-and-privacy-changes-in-v2-1-302|2 Safety and Privacy changes in v2.1.302]] · Digest
+- 2026-10-15 · **Claude Code** · [[Changes/Claude Code/2026-10-15-5-safety-and-privacy-changes-in-v2-1-301|5 Safety and Privacy changes in v2.1.301]] · Digest
 - 2026-10-14 · **Claude Code** · [[Changes/Claude Code/2026-10-14-2-safety-and-privacy-changes-in-v2-1-300|2 Safety and Privacy changes in v2.1.300]] · Digest
 - 2026-10-14 · **Claude Code** · [[Changes/Claude Code/2026-10-14-6-safety-and-privacy-changes-in-v2-1-299|6 Safety and Privacy changes in v2.1.299]] · Digest
 - 2026-10-13 · **Cursor** · [[Changes/Cursor/2026-10-13-origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security|Origin now integrates with over 20 apps for deployments, CI, code review, security…]]

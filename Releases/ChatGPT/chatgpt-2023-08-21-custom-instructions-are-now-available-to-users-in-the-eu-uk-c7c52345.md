@@ -3,7 +3,7 @@ changes_count: 1
 date: '2023-08-21'
 description: 'ChatGPT release Custom instructions are now available to users in the
   EU & UK on 2023-08-21: 1 tracked change across Memory and Personalization'
-machine_hash: 18181f244813c80aef233818c2a34aa302dd9644e980e12c9d30f17187796c63
+machine_hash: c4213b5ed90ed79bf02ae4c36137c4956db130b78bf39ba0474273e4fbeb7715
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
   source_summary: 'Custom instructions are now available to users in the European
     Union United Kingdom.To add your instructions:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-instructions-are-now-available-to-users-in-the-eu-uk
   title: Custom instructions are now available to users in the EU & UK
   version: Custom instructions are now available to users in the EU & UK
 release_id: chatgpt-2023-08-21-custom-instructions-are-now-available-to-users-in-the-eu-uk-c7c52345
 source_release: Custom instructions are now available to users in the EU & UK
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-instructions-are-now-available-to-users-in-the-eu-uk
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: Custom instructions are now available to users in the EU & UK
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Custom instructions are now available to users in the EU & UK
 
-**ChatGPT** · 2023-08-21 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2023-08-21 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-instructions-are-now-available-to-users-in-the-eu-uk)
 <!-- chronolog:end -->
 
 ## Summary

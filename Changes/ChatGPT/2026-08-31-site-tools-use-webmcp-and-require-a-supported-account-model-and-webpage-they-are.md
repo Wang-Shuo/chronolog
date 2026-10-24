@@ -4,8 +4,8 @@ date: '2026-08-31'
 description: 'ChatGPT · 2026-08-31 · Mobile and Desktop: Site tools use WebMCP and
   require a supported account, model, and webpage. They are available in the built-in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1266
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3722233fd19d380bbe02f4b7e361b8daf7c73d9beb464093b90a0aaf059ee004
+machine_hash: 2434885a9039133fbc7c7dd3bc26b3b1a16a4a235d1bd453896f151b69cf01fb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
   - quote: Site tools use WebMCP and require a supported account, model, and webpage.
       They are available in the built-in desktop browser, not through the Chrome extension.
       Existing website-access and sensitive-action confirmations still apply.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-website-tools-in-the-desktop-browser
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -73,13 +73,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Site tools use WebMCP and require a supported account, model, and webpage
 
-**ChatGPT** · 2026-08-31 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-31-use-website-tools-in-the-desktop-browser-6c07f08a|Use website tools in the desktop browser]]
+**ChatGPT** · 2026-08-31 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-website-tools-in-the-desktop-browser) · from [[Releases/ChatGPT/chatgpt-2026-08-31-use-website-tools-in-the-desktop-browser-6c07f08a|Use website tools in the desktop browser]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Site tools use WebMCP and require a supported account, model, and webpage. They are available in the built-in desktop browser, not through the Chrome extension. Existing website-access and sensitive-action confirmations still apply.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-website-tools-in-the-desktop-browser
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -102,5 +102,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-31-f1b6a5&body=Card%3A%20Changes%2FChatGPT%2F2026-08-31-site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are.md%0ACard%20ID%3A%20chatgpt-2026-08-31-f1b6a5%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-31-f1b6a5&body=Card%3A%20Changes%2FChatGPT%2F2026-08-31-site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are.md%0ACard%20ID%3A%20chatgpt-2026-08-31-f1b6a5%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23use-website-tools-in-the-desktop-browser%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

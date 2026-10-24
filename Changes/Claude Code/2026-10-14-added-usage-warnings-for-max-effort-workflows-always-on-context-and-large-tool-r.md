@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d4fef40b88b9b22610f55766a84399f306b647a1ce9bc45a60a5afc4b3babf14
+machine_hash: ab730ccc0fa1e22adfc6c5d6a694e5bfc4b0571e934ced6a4d7993d4e14811d2
 product: claude-code
 product_name: Claude Code
 record:
@@ -92,6 +92,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-added-cache-creation-5m-tokens-and-cache-creation-1h-tokens-to-the-opentelemetry|Added cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelemetry…]]
+- Later: 2026-10-15 · Claude Code · [[Changes/Claude Code/2026-10-15-improved-switching-to-a-model-with-a-smaller-context-window-a-conversation-too-l|Improved switching to a model with a smaller context window]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

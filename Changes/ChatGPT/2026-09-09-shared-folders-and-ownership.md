@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 40cab4bdf9d867ef0d450ab9e626d3b3ff22e4fcbfeb93c817dcdbb0e200ff9c
+machine_hash: 372d347976ed6fc3416476c50a78dc8b38d7f90bed2ae2238a188ddca064b971
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,10 +29,10 @@ record:
   evidence:
   - quote: Files uploaded to a shared folder belong to the folder’s owner. The person
       who uploaded each file is still recorded.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-files-and-folders-from-your-library
   - quote: If you upload a file to someone else’s shared folder and they later remove
       your folder access, the file stays in their folder and you lose access to it.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-files-and-folders-from-your-library
   extractor_version: fallback-v5
   impact: incremental
   kind: launch
@@ -63,7 +63,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Shared folders and ownership
 
-**ChatGPT** · 2026-09-09 · [[Themes/collaboration|Collaboration]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d|Share files and folders from your Library]]
+**ChatGPT** · 2026-09-09 · [[Themes/collaboration|Collaboration]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-files-and-folders-from-your-library) · from [[Releases/ChatGPT/chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d|Share files and folders from your Library]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -71,7 +71,7 @@ type: change
 >
 > If you upload a file to someone else’s shared folder and they later remove your folder access, the file stays in their folder and you lose access to it.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-files-and-folders-from-your-library
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -95,5 +95,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-09-cf4436&body=Card%3A%20Changes%2FChatGPT%2F2026-09-09-shared-folders-and-ownership.md%0ACard%20ID%3A%20chatgpt-2026-09-09-cf4436%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-09-cf4436&body=Card%3A%20Changes%2FChatGPT%2F2026-09-09-shared-folders-and-ownership.md%0ACard%20ID%3A%20chatgpt-2026-09-09-cf4436%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23share-files-and-folders-from-your-library%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

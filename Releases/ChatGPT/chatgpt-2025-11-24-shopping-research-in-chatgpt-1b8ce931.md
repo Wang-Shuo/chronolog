@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-11-24'
 description: 'ChatGPT release Shopping research in ChatGPT on 2025-11-24: 1 tracked
   change across Memory and Personalization'
-machine_hash: 318d295ab70a84c6a534d9f4ffbeb95ca7dfc72779ee161a5a69fcd91e2a2ebb
+machine_hash: d3a1a7cc0529ff1605e8abfdf42081d1cf7b7caecfe9946bc38dec6ba175d728
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     you need—like a quiet cordless vacuum for a small apartment, a gift for a four‑year‑old
     who loves art, or a way to choose between three bikes—and ChatGPT will ask clarifying…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shopping-research-in-chatgpt
   title: Shopping research in ChatGPT
   version: Shopping research in ChatGPT
 release_id: chatgpt-2025-11-24-shopping-research-in-chatgpt-1b8ce931
 source_release: Shopping research in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shopping-research-in-chatgpt
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Shopping research in ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Shopping research in ChatGPT
 
-**ChatGPT** · 2025-11-24 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-11-24 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shopping-research-in-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

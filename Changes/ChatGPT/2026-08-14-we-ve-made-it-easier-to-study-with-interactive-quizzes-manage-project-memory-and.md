@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 669b12438f8f59945dc368c30584c95e72a054b52c0edea5aec558bd70f79ef5
+machine_hash: f47720f34a640a8f264fc2b7e6b7b616327f23a4e5cf62cf95c234254c5f9bca
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   evidence:
   - quote: We’ve made it easier to study with interactive quizzes, manage project
       memory, and move between typing, dictation, and desktop work.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -73,13 +73,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT makes it easier to study with interactive quizzes, manage project memory…
 
-**ChatGPT** · 2026-08-14 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
+**ChatGPT** · 2026-08-14 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’ve made it easier to study with interactive quizzes, manage project memory, and move between typing, dictation, and desktop work.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -105,5 +105,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-14-3323d0&body=Card%3A%20Changes%2FChatGPT%2F2026-08-14-we-ve-made-it-easier-to-study-with-interactive-quizzes-manage-project-memory-and.md%0ACard%20ID%3A%20chatgpt-2026-08-14-3323d0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-14-3323d0&body=Card%3A%20Changes%2FChatGPT%2F2026-08-14-we-ve-made-it-easier-to-study-with-interactive-quizzes-manage-project-memory-and.md%0ACard%20ID%3A%20chatgpt-2026-08-14-3323d0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-app-experience-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: de19902ad774fb7d41d667a973e10223e3a9068417e7169c98ba25ab0631906d
+machine_hash: 3e1c0deb5007aebd34b6152e3802c1eecaab674f035f604aa612b9a541c92a1b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,7 +36,7 @@ record:
       For more details, check out our blog post explaining what happened and our initial
       findings, and this blog post where we expand on what we missed with sycophancy
       and the changes we're going to make going forward.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-gpt-4o
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -66,13 +66,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Updates to GPT-4o
 
-**ChatGPT** · 2025-04-29 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-04-29-updates-to-gpt-4o-3c847c95|Updates to GPT-4o]]
+**ChatGPT** · 2025-04-29 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-gpt-4o) · from [[Releases/ChatGPT/chatgpt-2025-04-29-updates-to-gpt-4o-3c847c95|Updates to GPT-4o]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We've reverted the most recent update to GPT-4o due to issues with overly agreeable responses (sycophancy).We’re actively working on further improvements. For more details, check out our blog post explaining what happened and our initial findings, and this blog post where we expand on what we missed with sycophancy and the changes we're going to make going forward.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-gpt-4o
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -93,5 +93,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-04-29-097503&body=Card%3A%20Changes%2FChatGPT%2F2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503.md%0ACard%20ID%3A%20chatgpt-2025-04-29-097503%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-04-29-097503&body=Card%3A%20Changes%2FChatGPT%2F2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503.md%0ACard%20ID%3A%20chatgpt-2025-04-29-097503%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23updates-to-gpt-4o%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

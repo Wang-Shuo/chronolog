@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 690d11b352313579052f5baa0b18a7d4d6d798014e8a6f1d6254b6d432eecd04
+machine_hash: 774cfc2691baffe4ba77a99c5bb7c74107577577551e6e4dbe360ca58d03901c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
   evidence:
   - quote: 'Plus: Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and
       Microsoft Teams'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-connectors-for-plus-and-pro
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -59,13 +59,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Plus: Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and Microsoft Teams
 
-**ChatGPT** · 2025-08-11 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a|Additional connectors for Plus and Pro]]
+**ChatGPT** · 2025-08-11 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-connectors-for-plus-and-pro) · from [[Releases/ChatGPT/chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a|Additional connectors for Plus and Pro]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Plus: Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and Microsoft Teams
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-connectors-for-plus-and-pro
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -89,5 +89,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-08-11-5966c6&body=Card%3A%20Changes%2FChatGPT%2F2025-08-11-plus-box-canva-dropbox-hubspot-notion-microsoft-sharepoint-and-microsoft-teams.md%0ACard%20ID%3A%20chatgpt-2025-08-11-5966c6%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-08-11-5966c6&body=Card%3A%20Changes%2FChatGPT%2F2025-08-11-plus-box-canva-dropbox-hubspot-notion-microsoft-sharepoint-and-microsoft-teams.md%0ACard%20ID%3A%20chatgpt-2025-08-11-5966c6%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23additional-connectors-for-plus-and-pro%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

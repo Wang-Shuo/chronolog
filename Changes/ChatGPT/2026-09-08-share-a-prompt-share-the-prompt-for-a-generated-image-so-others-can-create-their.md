@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 64642530f198c45ac1f4b24fe2b65483de451ca0301b275d44408c522a0463e1
+machine_hash: a767f8e4f6b4dc22de48d8e4392dae49a4b5ace1fb8c87e4878f15285aeb912e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   evidence:
   - quote: Share a prompt. Share the prompt for a generated image so others can create
       their own version.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-25-new-ways-to-create-and-edit
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -60,13 +60,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Share a prompt
 
-**ChatGPT** · 2026-09-08 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d|ChatGPT Images 2.5: new ways to create and edit]]
+**ChatGPT** · 2026-09-08 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-25-new-ways-to-create-and-edit) · from [[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d|ChatGPT Images 2.5: new ways to create and edit]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Share a prompt. Share the prompt for a generated image so others can create their own version.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-25-new-ways-to-create-and-edit
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -91,5 +91,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-08-1e7f3d&body=Card%3A%20Changes%2FChatGPT%2F2026-09-08-share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their.md%0ACard%20ID%3A%20chatgpt-2026-09-08-1e7f3d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-08-1e7f3d&body=Card%3A%20Changes%2FChatGPT%2F2026-09-08-share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their.md%0ACard%20ID%3A%20chatgpt-2026-09-08-1e7f3d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-images-25-new-ways-to-create-and-edit%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

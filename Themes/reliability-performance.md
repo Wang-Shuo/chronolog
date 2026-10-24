@@ -1,10 +1,10 @@
 ---
 created: '2022-12-15'
-date: '2026-10-09'
+date: '2026-10-22'
 description: Cross-product timeline of Reliability and Performance changes in ChatGPT,
   Claude Code and Cursor.
-machine_hash: 56bc8a974ef44489a0fee81b370659542aa195e8f67608f37c3c1c52fb37126c
-modified: '2026-10-09'
+machine_hash: c3979169766a599f330fec18a5223909ab2082da4b843847455a7eb83dff89c3
+modified: '2026-10-22'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Reliability and Performance
 <!-- chronolog:begin region="header" -->
 # Reliability and Performance
 
-149 tracked changes across ChatGPT, Claude Code and Cursor · 2022-12-15 → 2026-10-09 · Claude Code averages 6.9 cards per release, Cursor 4.0, ChatGPT 1.7
+153 tracked changes across ChatGPT, Claude Code and Cursor · 2022-12-15 → 2026-10-22 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -35,6 +35,7 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 | Quarter | ChatGPT | Claude Code | Cursor |
 | --- | --- | --- | --- |
+| 2026 Q4 | · | · | 2026-10-16 [[Changes/Cursor/2026-10-16-larger-faster-environments\|Larger, faster environments]] |
 | 2026 Q3 | · | · | 2026-09-23 [[Changes/Cursor/2026-09-23-deploy-tracking\|Deploy tracking]] |
 | 2026 Q2 | · | 2026-05-11 [[Changes/Claude Code/2026-05-11-added-scroll-speed-command-to-tune-mouse-wheel-scroll-speed-with-a-live-preview\|Added /scroll-speed command to tune mouse wheel scroll speed with a live preview]] | 2026-06-04 [[Changes/Cursor/2026-06-04-reliability-performance-and-platform-improvements\|Reliability, performance, and platform improvements]]<br>2026-05-07 [[Changes/Cursor/2026-05-07-pin-skills-as-quick-actions\|Pin skills as quick actions]] |
 | 2026 Q1 | · | · | 2026-03-19 [[Changes/Cursor/2026-03-19-composer-2-is-now-available-in-cursor-frontier-level-coding-performance-with-str\|Composer 2 is now available in Cursor]] |
@@ -49,10 +50,14 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 94 entries (ChatGPT 6 · Claude Code 73 · Cursor 15)
+### 2026 · 98 entries (ChatGPT 7 · Claude Code 75 · Cursor 16)
 
 #### 2026-10
 
+- 2026-10-22 · **Claude Code** · [[Changes/Claude Code/2026-10-22-2-reliability-and-performance-changes-in-v2-1-309|2 Reliability and Performance changes in v2.1.309]] · Digest
+- 2026-10-19 · **Claude Code** · [[Changes/Claude Code/2026-10-19-improved-responsiveness-and-throughput-when-many-subagents-are-running-at-the-sa|Improved responsiveness and throughput when many subagents are running at the same time]]
+- 2026-10-16 · **ChatGPT** · [[Changes/ChatGPT/2026-10-16-faster-responses|Faster responses]]
+- 2026-10-16 · **Cursor** · [[Changes/Cursor/2026-10-16-larger-faster-environments|Larger, faster environments]] · Launch
 - 2026-10-09 · **Claude Code** · [[Changes/Claude Code/2026-10-09-improved-transcript-toggle-ctrl-o-responsiveness-in-code-heavy-conversations-by|Improved transcript toggle (ctrl+o) responsiveness in code-heavy conversations…]]
 - 2026-10-06 · **Claude Code** · [[Changes/Claude Code/2026-10-06-improved-rendering-speed-of-long-bulleted-or-numbered-replies-they-stream-resize|Improved rendering speed of long bulleted or numbered replies]]
 - 2026-10-05 · **Claude Code** · [[Changes/Claude Code/2026-10-05-improved-responsiveness-while-resuming-large-sessions-timers-input-and-rendering|Improved responsiveness while resuming large sessions]]

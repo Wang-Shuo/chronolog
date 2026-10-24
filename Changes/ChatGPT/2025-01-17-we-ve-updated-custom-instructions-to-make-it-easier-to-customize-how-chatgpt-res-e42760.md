@@ -4,8 +4,8 @@ date: '2025-01-17'
 description: 'ChatGPT · 2025-01-17 · Mobile and Desktop: We''ve updated custom instructions
   to make it easier to customize how ChatGPT responds to you. With the new UI, you…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 675
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1295c9d31ab52afaa16c19ac13bc82984263eddec0aeb5536de03afd051edb3a
+machine_hash: 144b5e76c6230b6fdc5c354459f891c49ed526c4cb87239179bf514c4e620432
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ record:
       new UI is rolling out now on http://chatgpt.com and desktop on Windows, and
       is coming to mobile and desktop on macOS in the next few weeks. Available soon
       to ChatGPT users in the EU, Norway, Iceland, Liechtenstein, and Switzerland.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-personalization-in-custom-instructions
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -83,13 +83,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # More personalization in Custom Instructions
 
-**ChatGPT** · 2025-01-17 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-01-17-more-personalization-in-custom-instructions-bab36367|More personalization in Custom Instructions]]
+**ChatGPT** · 2025-01-17 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-personalization-in-custom-instructions) · from [[Releases/ChatGPT/chatgpt-2025-01-17-more-personalization-in-custom-instructions-bab36367|More personalization in Custom Instructions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We've updated custom instructions to make it easier to customize how ChatGPT responds to you. With the new UI, you can tell ChatGPT the traits you want it to have, how you want it to talk to you, and any rules you want it to follow.If you're already using custom instructions, this won't change your current settings.The new UI is rolling out now on http://chatgpt.com and desktop on Windows, and is coming to mobile and desktop on macOS in the next few weeks. Available soon to ChatGPT users in the EU, Norway, Iceland, Liechtenstein, and Switzerland.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-personalization-in-custom-instructions
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -110,5 +110,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-01-17-e42760&body=Card%3A%20Changes%2FChatGPT%2F2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760.md%0ACard%20ID%3A%20chatgpt-2025-01-17-e42760%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-01-17-e42760&body=Card%3A%20Changes%2FChatGPT%2F2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760.md%0ACard%20ID%3A%20chatgpt-2025-01-17-e42760%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23more-personalization-in-custom-instructions%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

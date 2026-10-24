@@ -4,8 +4,8 @@ date: '2026-01-22'
 description: 'Cursor · 2026-01-22 · Mobile and Desktop: Windows notifications now
   have accept/reject buttons like MacOS.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1045
   relation: same-theme-chronology

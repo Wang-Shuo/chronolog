@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d329a4baadae0a6d4da67d5140ae2f97b96f14f936293e310c0772882a16248a
+machine_hash: 4ed301d016b47231050835c421d7e03b90e42306da59bde7e010c07c500ec4af
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,15 +34,15 @@ record:
   - quote: Plus and Pro users can now use an updated GPT‑5.6 Sol in ChatGPT with more
       reliable facts, more focused answers, and a new slider to choose how much thought
       ChatGPT puts into a response.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-gpt56-in-chatgpt
   - quote: GPT‑5.6 Luna will become the default model for Free and Go users this week.
       Starting next week, they’ll also have unlimited text chats and access to a new
       Think button for harder questions (subject to abuse guardrails). Limits will
       still apply for file uploads, images and other tools.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-gpt56-in-chatgpt
   - quote: This release applies to the chat experience in ChatGPT. Work and Codex
       are not changing as part of this release.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-gpt56-in-chatgpt
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -71,7 +71,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Updates to GPT‑5.6 in ChatGPT
 
-**ChatGPT** · 2026-08-06 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-06-updates-to-gpt-5-6-in-chatgpt-29572055|Updates to GPT‑5.6 in ChatGPT]]
+**ChatGPT** · 2026-08-06 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-gpt56-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-08-06-updates-to-gpt-5-6-in-chatgpt-29572055|Updates to GPT‑5.6 in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -81,7 +81,7 @@ type: change
 >
 > This release applies to the chat experience in ChatGPT. Work and Codex are not changing as part of this release.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-gpt56-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -102,5 +102,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-06-397840&body=Card%3A%20Changes%2FChatGPT%2F2026-08-06-plus-and-pro-users-can-now-use-an-updated-gpt-5-6-sol-in-chatgpt-with-more-relia-397840.md%0ACard%20ID%3A%20chatgpt-2026-08-06-397840%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-06-397840&body=Card%3A%20Changes%2FChatGPT%2F2026-08-06-plus-and-pro-users-can-now-use-an-updated-gpt-5-6-sol-in-chatgpt-with-more-relia-397840.md%0ACard%20ID%3A%20chatgpt-2026-08-06-397840%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23updates-to-gpt56-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-09-25'
 description: 'ChatGPT release Introducing ChatGPT Pulse for Pro users on 2025-09-25:
   1 tracked change across Memory and Personalization'
-machine_hash: 3d39d8a1b00aa6baf10bfe4b928815853c0c92f308f7c50dc542ddefea64c71e
+machine_hash: f0acb76ae7c6000dc891ef635423bba606a8b6769c723d2b99a0288a1f6f2d54
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     on asynchronous research ChatGPT can do on your behalf overnight, synthesizing
     information from…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-pulse-for-pro-users
   title: Introducing ChatGPT Pulse for Pro users
   version: Introducing ChatGPT Pulse for Pro users
 release_id: chatgpt-2025-09-25-introducing-chatgpt-pulse-for-pro-users-5be6c168
 source_release: Introducing ChatGPT Pulse for Pro users
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-pulse-for-pro-users
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Introducing ChatGPT Pulse for Pro users
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Introducing ChatGPT Pulse for Pro users
 
-**ChatGPT** · 2025-09-25 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-09-25 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-pulse-for-pro-users)
 <!-- chronolog:end -->
 
 ## Summary

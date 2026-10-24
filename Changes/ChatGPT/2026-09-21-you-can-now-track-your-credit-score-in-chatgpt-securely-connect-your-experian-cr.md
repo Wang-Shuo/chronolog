@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-09-21 · Mobile and Desktop: You can now track you
   score in ChatGPT. Securely connect your Experian® credit report and VantageScore®
   3.0…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1287
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 919eccb096e4cf67aa318f53a77c44ea92dec7fa926f58ff3a6ba898e77c64c3
+machine_hash: b8800759978bbf0af3bbddabfde4ceb48c5153b5e93596dd1b2e919f64220e38
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,15 +33,15 @@ record:
   - quote: You can now track your credit score in ChatGPT. Securely connect your Experian®
       credit report and VantageScore® 3.0 credit score to get personalized insights
       into what’s affecting your score and how it relates to your finances and goals.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#credit-scores-in-finances
   - quote: Your score and report update monthly, and credit monitoring can alert you
       to important changes, such as a new inquiry, account, or address. Your Experian
       connection is separate from your bank accounts, so you can use the credit-score
       feature without connecting accounts through Plaid.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#credit-scores-in-finances
   - quote: This feature is rolling out in Finances to Plus and Pro users in the U.S.
       on web, iOS, and Android. Some eligible users may not see it right away.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#credit-scores-in-finances
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -70,7 +70,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Credit scores in Finances
 
-**ChatGPT** · 2026-09-21 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-21-credit-scores-in-finances-a66dbae8|Credit scores in Finances]]
+**ChatGPT** · 2026-09-21 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#credit-scores-in-finances) · from [[Releases/ChatGPT/chatgpt-2026-09-21-credit-scores-in-finances-a66dbae8|Credit scores in Finances]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -80,7 +80,7 @@ type: change
 >
 > This feature is rolling out in Finances to Plus and Pro users in the U.S. on web, iOS, and Android. Some eligible users may not see it right away.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#credit-scores-in-finances
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -101,5 +101,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-21-a2c613&body=Card%3A%20Changes%2FChatGPT%2F2026-09-21-you-can-now-track-your-credit-score-in-chatgpt-securely-connect-your-experian-cr.md%0ACard%20ID%3A%20chatgpt-2026-09-21-a2c613%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-21-a2c613&body=Card%3A%20Changes%2FChatGPT%2F2026-09-21-you-can-now-track-your-credit-score-in-chatgpt-securely-connect-your-experian-cr.md%0ACard%20ID%3A%20chatgpt-2026-09-21-a2c613%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23credit-scores-in-finances%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

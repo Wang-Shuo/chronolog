@@ -3,7 +3,7 @@ changes_count: 3
 date: '2026-09-14'
 description: 'ChatGPT release Updated permissions for new Health connections on 2026-09-14:
   3 tracked changes across Apps and Integrations, Safety and Privacy'
-machine_hash: f4ccd79dc47aebf2c77221327b13f8c0edea774e3da39cf728ec2fb3b892e3e6
+machine_hash: 5090213b92064531e569c06c382d36852a7db9663af1050bdb09643876664432
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
   source_summary: For new Health plugin connections, ChatGPT will now default to each
     user’s global plugins permissions setting.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-permissions-for-new-health-connections
   title: Updated permissions for new Health connections
   version: Updated permissions for new Health connections
 release_id: chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7
 source_release: Updated permissions for new Health connections
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-permissions-for-new-health-connections
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: Updated permissions for new Health connections
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Updated permissions for new Health connections
 
-**ChatGPT** · 2026-09-14 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-09-14 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-permissions-for-new-health-connections)
 <!-- chronolog:end -->
 
 ## Summary

@@ -3,7 +3,7 @@ changes_count: 6
 date: '2026-02-13'
 description: 'ChatGPT release ChatGPT updates: Better file uploads, easier copying,
   and more reliable long chats on 2026-02-13: 6 tracked changes across Interface…'
-machine_hash: 03798354b179e404b77350b993bed3d44207cbe720877f9023b5b7ff4c5a05d5
+machine_hash: 99aa12f1370334c18a9e37469d21d801671590cb013b844b6cb9e46732591ff8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,7 +14,7 @@ record:
   release_id: chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0
   source_summary: Web
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats
   title: 'ChatGPT updates: Better file uploads, easier copying, and more reliable
     long chats'
   version: 'ChatGPT updates: Better file uploads, easier copying, and more reliable
@@ -23,7 +23,7 @@ release_id: chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copyin
 source_release: 'ChatGPT updates: Better file uploads, easier copying, and more reliable
   long chats'
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats
 tags:
 - release
 - chatgpt
@@ -36,7 +36,7 @@ version: 'ChatGPT updates: Better file uploads, easier copying, and more reliabl
 <!-- chronolog:begin region="header" -->
 # ChatGPT updates: Better file uploads, easier copying, and more reliable long chats
 
-**ChatGPT** · 2026-02-13 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-02-13 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats)
 <!-- chronolog:end -->
 
 ## Summary

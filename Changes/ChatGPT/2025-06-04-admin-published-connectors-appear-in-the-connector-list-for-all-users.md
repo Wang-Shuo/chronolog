@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d683fd3abf479c4ed430cad303bbd032eaf3b25e570e1a10f2f19f93d9782522
+machine_hash: 238b17ea1313745b0c10199780d8e2bc602accfb76d3ed46cbe66ec627f814a0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
     all users'
   evidence:
   - quote: Admin-published connectors appear in the connector list for all users
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-connectors-via-model-context-protocol-pro-team-enterprise-edu
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -58,13 +58,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Admin-published connectors appear in the connector list for all users
 
-**ChatGPT** · 2025-06-04 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-06-04-custom-connectors-via-model-context-protocol-pro-team-enterprise-a1bc36f5|Custom connectors via Model Context Protocol (Pro, Team, Enterprise, Edu)]]
+**ChatGPT** · 2025-06-04 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-connectors-via-model-context-protocol-pro-team-enterprise-edu) · from [[Releases/ChatGPT/chatgpt-2025-06-04-custom-connectors-via-model-context-protocol-pro-team-enterprise-a1bc36f5|Custom connectors via Model Context Protocol (Pro, Team, Enterprise, Edu)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Admin-published connectors appear in the connector list for all users
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-connectors-via-model-context-protocol-pro-team-enterprise-edu
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -87,5 +87,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-04-16ea98&body=Card%3A%20Changes%2FChatGPT%2F2025-06-04-admin-published-connectors-appear-in-the-connector-list-for-all-users.md%0ACard%20ID%3A%20chatgpt-2025-06-04-16ea98%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-04-16ea98&body=Card%3A%20Changes%2FChatGPT%2F2025-06-04-admin-published-connectors-appear-in-the-connector-list-for-all-users.md%0ACard%20ID%3A%20chatgpt-2025-06-04-16ea98%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23custom-connectors-via-model-context-protocol-pro-team-enterprise-edu%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

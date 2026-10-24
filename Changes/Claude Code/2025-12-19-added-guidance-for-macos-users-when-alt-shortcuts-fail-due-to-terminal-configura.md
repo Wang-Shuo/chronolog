@@ -4,8 +4,8 @@ date: '2025-12-19'
 description: 'Claude Code · 2025-12-19 · Mobile and Desktop: Added guidance for macOS
   users when Alt shortcuts fail due to terminal configuration'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1011
   relation: same-theme-chronology

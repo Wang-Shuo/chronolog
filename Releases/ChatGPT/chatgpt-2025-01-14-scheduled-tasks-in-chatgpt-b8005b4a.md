@@ -3,7 +3,7 @@ changes_count: 0
 date: '2025-01-14'
 description: 'ChatGPT release Scheduled tasks in ChatGPT on 2025-01-14: no tracked
   changes'
-machine_hash: f6ef13c60f915e60f3d3c7bb9057a72a021a290a3bc82d6c4343f20165ad8805
+machine_hash: 055f314fb70b3625db9c7400e7f1de91113e8ed28abb459ba5e2ebdc9ce717b4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     take care of it.Scheduled tasks is in early beta for Plus, Pro, and Teams. Eventually
     this…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt
   title: Scheduled tasks in ChatGPT
   version: Scheduled tasks in ChatGPT
 release_id: chatgpt-2025-01-14-scheduled-tasks-in-chatgpt-b8005b4a
 source_release: Scheduled tasks in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Scheduled tasks in ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Scheduled tasks in ChatGPT
 
-**ChatGPT** · 2025-01-14 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-01-14 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

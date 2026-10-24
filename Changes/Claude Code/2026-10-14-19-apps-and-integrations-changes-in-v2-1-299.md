@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 95c2c405556bd3bd728a84cb921dff4f1097ec8192ddf84f83b10bf13162f243
+machine_hash: af126093a363f052b08dc036c810863ab1dd6d03f7d2584cbee83cbcabc7e8cf
 product: claude-code
 product_name: Claude Code
 record:
@@ -190,6 +190,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-7-apps-and-integrations-changes-in-v2-1-300|7 Apps and Integrations changes in v2.1.300]]
+- Later: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-improved-use-of-plugins-and-tools-to-carry-out-tasks|Improved use of plugins and tools to carry out tasks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

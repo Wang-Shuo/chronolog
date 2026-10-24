@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 11a07dc1071302989777eac254f12564bc19850c8e5fb5e1760ec1192bbd1ade
+machine_hash: 8148df64e3f35826d534ac3a4a64dde72f08012dffbe15798dd8c09d12832cba
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,11 +34,11 @@ record:
       Pro users. It brings together information about chat privacy, memory, personalization,
       data use, connected apps, and account security, with links to the settings that
       manage them. Your privacy controls remain in ChatGPT Settings.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#privacy-center-in-chatgpt
   - quote: On the web, open your account menu, select Help, then select Privacy Center.
       On mobile, open Settings, then select Privacy Center on iOS or Privacy center
       on Android. Available options depend on your plan, region, and workspace settings.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#privacy-center-in-chatgpt
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Privacy Center in ChatGPT
 
-**ChatGPT** · 2026-09-21 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-21-privacy-center-in-chatgpt-ecef9fba|Privacy Center in ChatGPT]]
+**ChatGPT** · 2026-09-21 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#privacy-center-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-09-21-privacy-center-in-chatgpt-ecef9fba|Privacy Center in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -95,7 +95,7 @@ type: change
 >
 > On the web, open your account menu, select Help, then select Privacy Center. On mobile, open Settings, then select Privacy Center on iOS or Privacy center on Android. Available options depend on your plan, region, and workspace settings.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#privacy-center-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -116,5 +116,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-21-0d2f36&body=Card%3A%20Changes%2FChatGPT%2F2026-09-21-privacy-center-is-rolling-out-to-signed-in-chatgpt-free-go-plus-and-pro-users-it-0d2f36.md%0ACard%20ID%3A%20chatgpt-2026-09-21-0d2f36%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-21-0d2f36&body=Card%3A%20Changes%2FChatGPT%2F2026-09-21-privacy-center-is-rolling-out-to-signed-in-chatgpt-free-go-plus-and-pro-users-it-0d2f36.md%0ACard%20ID%3A%20chatgpt-2026-09-21-0d2f36%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23privacy-center-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

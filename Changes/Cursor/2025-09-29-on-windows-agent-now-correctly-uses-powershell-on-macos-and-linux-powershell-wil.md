@@ -4,8 +4,8 @@ date: '2025-09-29'
 description: 'Cursor · 2025-09-29 · Mobile and Desktop: On Windows, Agent now correctly
   uses PowerShell. On macOS and Linux, PowerShell will be used if it''s set as your…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 930
   relation: same-theme-chronology

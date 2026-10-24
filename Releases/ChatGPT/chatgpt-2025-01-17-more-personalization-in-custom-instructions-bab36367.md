@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-01-17'
 description: 'ChatGPT release More personalization in Custom Instructions on 2025-01-17:
   1 tracked change across Mobile and Desktop'
-machine_hash: 4b325f7b28508b96ee5674382af9bf305bc5aba67b5dd223d161a710e15cd26b
+machine_hash: a4b7e68e0d7f450e339445726bab1df584998a942780e4203e5bd17402d6c066
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     to follow.If you're already using custom instructions, this won't change your
     current settings.The…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-personalization-in-custom-instructions
   title: More personalization in Custom Instructions
   version: More personalization in Custom Instructions
 release_id: chatgpt-2025-01-17-more-personalization-in-custom-instructions-bab36367
 source_release: More personalization in Custom Instructions
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-personalization-in-custom-instructions
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: More personalization in Custom Instructions
 <!-- chronolog:begin region="header" -->
 # ChatGPT · More personalization in Custom Instructions
 
-**ChatGPT** · 2025-01-17 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-01-17 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-personalization-in-custom-instructions)
 <!-- chronolog:end -->
 
 ## Summary

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a94f7fac28c75edd934f74363dd94f11ff97e82c1702766e4765470c5b05eaa0
+machine_hash: d19afa453c67acc9c1b45e95d79c2b99cfffdbc2ea15868374775fe86f126385
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,7 +48,7 @@ record:
       you prefer ChatGPT to always generate personalized answers, you can turn Fast
       answers off anytime in Personalization settings.We’ll continue expanding Fast
       answers to more kinds of questions over time.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#fast-answers-in-chatgpt
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -96,13 +96,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Fast answers in ChatGPT
 
-**ChatGPT** · 2026-04-22 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-22-fast-answers-in-chatgpt-300ebea9|Fast answers in ChatGPT]]
+**ChatGPT** · 2026-04-22 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#fast-answers-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-04-22-fast-answers-in-chatgpt-300ebea9|Fast answers in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Sometimes, you just want the right answer as quickly as possible. We’re rolling out Fast answers, a quicker way to get responses to common information-seeking questions in ChatGPT, like “Show me the Seven Wonders of the World” or “Which football team has the most super bowl titles?”When your question doesn’t require a personalized response and ChatGPT has a high-confidence answer ready, it can now respond faster while still providing a useful, in-depth answer. Fast answers do not reference your past chats or memory. Fast answers are available globally on web, iOS, and Android for logged in and logged out users across plans. If you prefer ChatGPT to always generate personalized answers, you can turn Fast answers off anytime in Personalization settings.We’ll continue expanding Fast answers to more kinds of questions over time.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#fast-answers-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -123,5 +123,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-04-22-29853c&body=Card%3A%20Changes%2FChatGPT%2F2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou.md%0ACard%20ID%3A%20chatgpt-2026-04-22-29853c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-04-22-29853c&body=Card%3A%20Changes%2FChatGPT%2F2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou.md%0ACard%20ID%3A%20chatgpt-2026-04-22-29853c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23fast-answers-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

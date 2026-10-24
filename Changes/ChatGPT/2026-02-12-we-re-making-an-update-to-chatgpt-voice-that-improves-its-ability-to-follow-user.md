@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 81d4b1097e8bf21c7c3f4478b9b92ef6c149c49022c0e2d5915a2fce79791584
+machine_hash: 0c2bc0e22e09b32a35073d2ab30f5d0b8f31908b9ed3a53e65b2d122391dd101
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       user instructions, and usage of tools like web search to provide better responses.
       This update applies to the version of Voice primarily used by those on the free
       ChatGPT plan, and by Plus users when limits are reached for the main model.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-voice-update
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -79,13 +79,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT Voice Update
 
-**ChatGPT** · 2026-02-12 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-12-chatgpt-voice-update-c17a6a9f|ChatGPT Voice Update]]
+**ChatGPT** · 2026-02-12 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-voice-update) · from [[Releases/ChatGPT/chatgpt-2026-02-12-chatgpt-voice-update-c17a6a9f|ChatGPT Voice Update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re making an update to ChatGPT Voice that improves its ability to follow user instructions, and usage of tools like web search to provide better responses. This update applies to the version of Voice primarily used by those on the free ChatGPT plan, and by Plus users when limits are reached for the main model.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-voice-update
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -106,5 +106,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-12-bf1ae0&body=Card%3A%20Changes%2FChatGPT%2F2026-02-12-we-re-making-an-update-to-chatgpt-voice-that-improves-its-ability-to-follow-user.md%0ACard%20ID%3A%20chatgpt-2026-02-12-bf1ae0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-12-bf1ae0&body=Card%3A%20Changes%2FChatGPT%2F2026-02-12-we-re-making-an-update-to-chatgpt-voice-that-improves-its-ability-to-follow-user.md%0ACard%20ID%3A%20chatgpt-2026-02-12-bf1ae0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-voice-update%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

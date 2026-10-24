@@ -3,7 +3,7 @@ changes_count: 3
 date: '2023-06-22'
 description: 'ChatGPT release Browsing and search on mobile on 2023-06-22: 3 tracked
   changes across Mobile and Desktop, Model Support, Search and Browsing'
-machine_hash: 523358e6cf6c3905ccefd6b8fd0238fbc18a2fdb4b8304c6ab1077b8bc2fd2e7
+machine_hash: 413b8b6fd20b73be0b704fd69d631481d69fc0ed2312965806a5815e57becba7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -14,13 +14,13 @@ record:
   release_id: chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98
   source_summary: 'We’ve made two updates to the mobile ChatGPT app:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-and-search-on-mobile
   title: Browsing and search on mobile
   version: Browsing and search on mobile
 release_id: chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98
 source_release: Browsing and search on mobile
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-and-search-on-mobile
 tags:
 - release
 - chatgpt
@@ -31,7 +31,7 @@ version: Browsing and search on mobile
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Browsing and search on mobile
 
-**ChatGPT** · 2023-06-22 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2023-06-22 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-and-search-on-mobile)
 <!-- chronolog:end -->
 
 ## Summary

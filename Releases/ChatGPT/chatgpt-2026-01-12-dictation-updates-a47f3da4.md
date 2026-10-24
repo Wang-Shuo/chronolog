@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-01-12'
 description: 'ChatGPT release Dictation Updates on 2026-01-12: 1 tracked change across
   Voice and Audio'
-machine_hash: 0efb09f1000e6d04996915caccbbaac2c4511ba268243e333274382c686825ad
+machine_hash: 04dd5af532d8d08cd4fde4fe3444e79b0cbc0bcaeab9d5334e13f6c4dbc42bce
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
   source_summary: We’re improving our dictation capabilities in ChatGPT for all logged-in
     users, significantly reducing empty transcriptions and improving accuracy.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#dictation-updates
   title: Dictation Updates
   version: Dictation Updates
 release_id: chatgpt-2026-01-12-dictation-updates-a47f3da4
 source_release: Dictation Updates
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#dictation-updates
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: Dictation Updates
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Dictation Updates
 
-**ChatGPT** · 2026-01-12 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-01-12 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#dictation-updates)
 <!-- chronolog:end -->
 
 ## Summary

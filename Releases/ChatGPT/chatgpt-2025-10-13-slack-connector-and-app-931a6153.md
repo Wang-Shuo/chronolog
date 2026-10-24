@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-10-13'
 description: 'ChatGPT release Slack connector and app on 2025-10-13: 1 tracked change
   across Apps and Integrations'
-machine_hash: 46edfafa7dbf2a1e36940ba9fbe94e3553e3869c3f47318288596413b1eede73
+machine_hash: d920e8796d34642a4d856977a153f86109538ec1e12fd4d4bc0bfc02289aa988
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     the ChatGPT app for Slack, you can chat one-on-one with ChatGPT in a dedicated
     Slack…'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#slack-connector-and-app
   title: Slack connector and app
   version: Slack connector and app
 release_id: chatgpt-2025-10-13-slack-connector-and-app-931a6153
 source_release: Slack connector and app
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#slack-connector-and-app
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Slack connector and app
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Slack connector and app
 
-**ChatGPT** · 2025-10-13 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-10-13 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#slack-connector-and-app)
 <!-- chronolog:end -->
 
 ## Summary

@@ -3,7 +3,7 @@ changes_count: 3
 date: '2025-10-14'
 description: 'ChatGPT release ChatGPT Go expansion on 2025-10-14: 3 tracked changes
   across Image Generation, Memory and Personalization, Pricing Model'
-machine_hash: 8a6f94f9f21e725975da7fc701fcc6a19dde051887f050e97507b93ac34a6e8d
+machine_hash: 84c91fc8956ebcac5cc66ff07273cf76a15625188a3e7d2aa7c160135d01ad0a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     89 countries.For an affordable price, ChatGPT Go provides everything included
     in the Free plan, and:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion
   title: ChatGPT Go expansion
   version: ChatGPT Go expansion
 release_id: chatgpt-2025-10-14-chatgpt-go-expansion-37d00d9f
 source_release: ChatGPT Go expansion
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: ChatGPT Go expansion
 <!-- chronolog:begin region="header" -->
 # ChatGPT Go expansion
 
-**ChatGPT** · 2025-10-14 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-10-14 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion)
 <!-- chronolog:end -->
 
 ## Summary

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: d2ff9aa33b7a06af7d0e6f08e3f284907f7828bb133cf4054979401379b2e840
+machine_hash: 92f567a60ed6bf586763ccbe404c714377e33a204d9da6ca6db324888cc06b6d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,17 +33,17 @@ record:
   evidence:
   - quote: 'We’re excited to bring GPT-4, our latest model, to our ChatGPT Plus subscribers.GPT-4
       has enhanced capabilities in:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#announcing-gpt-4-in-chatgpt
   - quote: Advanced reasoning
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#announcing-gpt-4-in-chatgpt
   - quote: Complex instructions
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#announcing-gpt-4-in-chatgpt
   - quote: More creativity
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#announcing-gpt-4-in-chatgpt
   - quote: To give every Plus subscriber a chance to try the model, we'll dynamically
       adjust the cap for GPT-4 usage based on demand. You can learn more about GPT-4
       here.For this release, there are no updates to free accounts.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#announcing-gpt-4-in-chatgpt
   extractor_version: fallback-v5
   impact: significant
   kind: launch
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Announcing GPT-4 in ChatGPT
 
-**ChatGPT** · 2023-03-14 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-03-14-announcing-gpt-4-in-chatgpt-43063370|Announcing GPT-4 in ChatGPT]]
+**ChatGPT** · 2023-03-14 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#announcing-gpt-4-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2023-03-14-announcing-gpt-4-in-chatgpt-43063370|Announcing GPT-4 in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -88,7 +88,7 @@ type: change
 >
 > To give every Plus subscriber a chance to try the model, we'll dynamically adjust the cap for GPT-4 usage based on demand. You can learn more about GPT-4 here.For this release, there are no updates to free accounts.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#announcing-gpt-4-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -109,5 +109,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-03-14-7153e9&body=Card%3A%20Changes%2FChatGPT%2F2023-03-14-we-re-excited-to-bring-gpt-4-our-latest-model-to-our-chatgpt-plus-subscribers-gp-7153e9.md%0ACard%20ID%3A%20chatgpt-2023-03-14-7153e9%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-03-14-7153e9&body=Card%3A%20Changes%2FChatGPT%2F2023-03-14-we-re-excited-to-bring-gpt-4-our-latest-model-to-our-chatgpt-plus-subscribers-gp-7153e9.md%0ACard%20ID%3A%20chatgpt-2023-03-14-7153e9%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23announcing-gpt-4-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

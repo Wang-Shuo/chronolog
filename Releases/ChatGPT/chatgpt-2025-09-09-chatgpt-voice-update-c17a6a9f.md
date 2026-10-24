@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-09-09'
 description: 'ChatGPT release ChatGPT Voice Update on 2025-09-09: 1 tracked change
   across Voice and Audio'
-machine_hash: ef3fe204b5cfb8d0ab111f468459f372bddf283dbefaacb673c01dafb4ac5e30
+machine_hash: 7d30bc4c78068ea9323861b53d2da5f3ff609a8318d62abcca5f64b9f53c3926
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     be retired following a 30-day sunset period. We’ve heard feedback that Standard
     Voice is special to…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-voice-update
   title: ChatGPT Voice Update
   version: ChatGPT Voice Update
 release_id: chatgpt-2025-09-09-chatgpt-voice-update-c17a6a9f
 source_release: ChatGPT Voice Update
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-voice-update
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: ChatGPT Voice Update
 <!-- chronolog:begin region="header" -->
 # ChatGPT Voice Update
 
-**ChatGPT** · 2025-09-09 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-09-09 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-voice-update)
 <!-- chronolog:end -->
 
 ## Summary

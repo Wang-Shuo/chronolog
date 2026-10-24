@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-12-22'
 description: 'ChatGPT release Your Year with ChatGPT on 2025-12-22: 1 tracked change
   across Memory and Personalization'
-machine_hash: f572586c07a96ec26dfc43b8120862a0d4d57b467be8019f76328b357460bd9e
+machine_hash: 4e32e4920728ccf82d5286217694edf5181c037a23388f3faa039b11b1d12405
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     It highlights high-level themes from your conversations and includes summary statistics
     about your usage over the year.This experience is rolling out gradually…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#your-year-with-chatgpt
   title: Your Year with ChatGPT
   version: Your Year with ChatGPT
 release_id: chatgpt-2025-12-22-your-year-with-chatgpt-6dbbef4d
 source_release: Your Year with ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#your-year-with-chatgpt
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Your Year with ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Your Year with ChatGPT
 
-**ChatGPT** · 2025-12-22 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-12-22 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#your-year-with-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

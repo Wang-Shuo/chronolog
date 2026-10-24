@@ -4,8 +4,8 @@ date: '2026-09-08'
 description: 'ChatGPT · 2026-09-08 · Mobile and Desktop: Edit and comment. On mobile,
   open a generated image full-screen to edit it or add comments to tell ChatGPT what…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1274
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 347a937fc17c428cedb7434c30f117955d30ca0a84ad8bc4beec1b6a47838fad
+machine_hash: 11a5397d6c4b284fa26687e7638df4d6c3d1e018106174b361ac65d7ea99dae2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   evidence:
   - quote: Edit and comment. On mobile, open a generated image full-screen to edit
       it or add comments to tell ChatGPT what you’d like to change..
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-25-new-ways-to-create-and-edit
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -69,13 +69,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Edit and comment
 
-**ChatGPT** · 2026-09-08 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d|ChatGPT Images 2.5: new ways to create and edit]]
+**ChatGPT** · 2026-09-08 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-25-new-ways-to-create-and-edit) · from [[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d|ChatGPT Images 2.5: new ways to create and edit]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Edit and comment. On mobile, open a generated image full-screen to edit it or add comments to tell ChatGPT what you’d like to change..
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-25-new-ways-to-create-and-edit
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -100,5 +100,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-08-48cf73&body=Card%3A%20Changes%2FChatGPT%2F2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add.md%0ACard%20ID%3A%20chatgpt-2026-09-08-48cf73%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-08-48cf73&body=Card%3A%20Changes%2FChatGPT%2F2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add.md%0ACard%20ID%3A%20chatgpt-2026-09-08-48cf73%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-images-25-new-ways-to-create-and-edit%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

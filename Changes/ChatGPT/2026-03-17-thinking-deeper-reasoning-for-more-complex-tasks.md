@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 028c5a082de96b431fbe1c0520733a8fedf7b34959ec03846baea57f0d64228b
+machine_hash: eb3aa1642e3f741e1f51bff466e10bc0d0d5d9d9778ca59a5aa2e3e7526b87a9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
     reasoning for more complex tasks'
   evidence:
   - quote: Thinking – deeper reasoning for more complex tasks
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-model-picker-in-chatgpt
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -59,13 +59,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Thinking – deeper reasoning for more complex tasks
 
-**ChatGPT** · 2026-03-17 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-17-updates-to-the-model-picker-in-chatgpt-764a9949|Updates to the model picker in ChatGPT]]
+**ChatGPT** · 2026-03-17 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-model-picker-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-03-17-updates-to-the-model-picker-in-chatgpt-764a9949|Updates to the model picker in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Thinking – deeper reasoning for more complex tasks
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-model-picker-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -90,5 +90,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-17-acdeda&body=Card%3A%20Changes%2FChatGPT%2F2026-03-17-thinking-deeper-reasoning-for-more-complex-tasks.md%0ACard%20ID%3A%20chatgpt-2026-03-17-acdeda%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-17-acdeda&body=Card%3A%20Changes%2FChatGPT%2F2026-03-17-thinking-deeper-reasoning-for-more-complex-tasks.md%0ACard%20ID%3A%20chatgpt-2026-03-17-acdeda%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23updates-to-the-model-picker-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

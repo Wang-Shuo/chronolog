@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fb43119761788c2506fddebe8a8b45b006fc9af6cabd7d46a0710462200e38d1
+machine_hash: bbf6414fc90629d18452456e064fccbbe31b32171efed670af300c336476a2b1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
   - quote: Business and Enterprise customers already have access to Sites. Starting
       today, they can also publish Sites publicly and share them with anyone through
       a URL, expanding Sites beyond people in their workspace.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-sites-in-public-beta
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -61,13 +61,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Business and Enterprise customers already have access to Sites
 
-**ChatGPT** · 2026-07-09 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd|Introducing ChatGPT Sites in public beta]]
+**ChatGPT** · 2026-07-09 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-sites-in-public-beta) · from [[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd|Introducing ChatGPT Sites in public beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Business and Enterprise customers already have access to Sites. Starting today, they can also publish Sites publicly and share them with anyone through a URL, expanding Sites beyond people in their workspace.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-sites-in-public-beta
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -92,5 +92,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-09-6ad0f1&body=Card%3A%20Changes%2FChatGPT%2F2026-07-09-business-and-enterprise-customers-already-have-access-to-sites-starting-today-th.md%0ACard%20ID%3A%20chatgpt-2026-07-09-6ad0f1%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-09-6ad0f1&body=Card%3A%20Changes%2FChatGPT%2F2026-07-09-business-and-enterprise-customers-already-have-access-to-sites-starting-today-th.md%0ACard%20ID%3A%20chatgpt-2026-07-09-6ad0f1%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23introducing-chatgpt-sites-in-public-beta%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

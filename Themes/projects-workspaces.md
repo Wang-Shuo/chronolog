@@ -3,7 +3,7 @@ created: '2022-12-15'
 date: '2026-07-16'
 description: Cross-product timeline of Projects and Workspaces changes in ChatGPT,
   Claude Code and Cursor.
-machine_hash: 00de553a588db72eff7a9c725f2e866b3dfa78be0539654ac707115f87124c9d
+machine_hash: b826e2f6aa80a9f4790847af93fa66d0c2df1f27d0946a31e53c91dd59c76564
 modified: '2026-07-16'
 products_involved:
 - ChatGPT
@@ -21,7 +21,7 @@ title: Projects and Workspaces
 <!-- chronolog:begin region="header" -->
 # Projects and Workspaces
 
-25 tracked changes across ChatGPT, Claude Code and Cursor · 2022-12-15 → 2026-07-16 · Claude Code averages 6.9 cards per release, Cursor 4.0, ChatGPT 1.7
+25 tracked changes across ChatGPT, Claude Code and Cursor · 2022-12-15 → 2026-07-16 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 14fe6edc2a802f1bd46b2368eae583bb8dbdc634169863821707bdca83545249
+machine_hash: 020267c63eb1ae9b0ef0f487ba099e8b36a0df1b0fbb602c0e4f99c7a6325ba6
 product: claude-code
 product_name: Claude Code
 record:
@@ -100,6 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.300
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-5-agent-mode-changes-in-v2-1-299|5 Agent Mode changes in v2.1.299]]
+- Later: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-multiple-agents-that-can-work-on-different-parts-of-a-task-in-parallel-you-can-f|Multiple agents that can work on different parts of a task in parallel]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

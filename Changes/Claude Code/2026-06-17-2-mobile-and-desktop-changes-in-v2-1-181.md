@@ -5,8 +5,8 @@ description: 'Claude Code · 2026-06-17 · Mobile and Desktop: 2 changes in v2.1
   — Added `CLAUDE_CLIENT_PRESENCE_FILE` environment variable: point it at a marker
   file to…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1191
   relation: same-theme-chronology

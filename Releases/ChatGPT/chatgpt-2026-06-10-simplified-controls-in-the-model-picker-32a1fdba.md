@@ -3,7 +3,7 @@ changes_count: 4
 date: '2026-06-10'
 description: 'ChatGPT release Simplified controls in the model picker on 2026-06-10:
   4 tracked changes across Model Support, Interface Experience'
-machine_hash: 6cde0933964c41a7bd77824d5fa644ab936348f2d83acfef44e08faa138aa174
+machine_hash: a498bb9acfd2dde86ea5f9c0dc6fb435026377e3da4a539b4c62b2cab85f62b7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -16,13 +16,13 @@ record:
     balance of speed and reasoning effort that works best for your task.The model
     picker now has the following simplified options:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#simplified-controls-in-the-model-picker
   title: Simplified controls in the model picker
   version: Simplified controls in the model picker
 release_id: chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba
 source_release: Simplified controls in the model picker
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#simplified-controls-in-the-model-picker
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Simplified controls in the model picker
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Simplified controls in the model picker
 
-**ChatGPT** · 2026-06-10 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-06-10 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#simplified-controls-in-the-model-picker)
 <!-- chronolog:end -->
 
 ## Summary

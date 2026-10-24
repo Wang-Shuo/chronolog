@@ -1,10 +1,10 @@
 ---
 created: '2023-03-23'
-date: '2026-10-14'
+date: '2026-10-22'
 description: 'Research question: how do the tracked products connect to outside tools,
   and in what unit do they package those connections?'
-machine_hash: 5c555fdc384e02df15699630215c812c35fd76b801468a77902b5d6cdc344d87
-modified: '2026-10-14'
+machine_hash: d569d16665fc90dfdcc09963b394c371ac31d88ef31a7195a52c5acc7bf15916
+modified: '2026-10-22'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Apps and Integrations
 <!-- chronolog:begin region="header" -->
 # Apps and Integrations
 
-256 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-23 → 2026-10-14 · Claude Code averages 6.9 cards per release, Cursor 4.0, ChatGPT 1.7
+262 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-23 → 2026-10-22 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -63,10 +63,16 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 202 entries (ChatGPT 22 · Claude Code 147 · Cursor 33)
+### 2026 · 208 entries (ChatGPT 23 · Claude Code 152 · Cursor 33)
 
 #### 2026-10
 
+- 2026-10-22 · **Claude Code** · [[Changes/Claude Code/2026-10-22-2-apps-and-integrations-changes-in-v2-1-309|2 Apps and Integrations changes in v2.1.309]] · Digest
+- 2026-10-21 · **Claude Code** · [[Changes/Claude Code/2026-10-21-3-apps-and-integrations-changes-in-v2-1-307|3 Apps and Integrations changes in v2.1.307]] · Digest
+- 2026-10-20 · **Claude Code** · [[Changes/Claude Code/2026-10-20-3-apps-and-integrations-changes-in-v2-1-305|3 Apps and Integrations changes in v2.1.305]] · Digest
+- 2026-10-19 · **Claude Code** · [[Changes/Claude Code/2026-10-19-8-apps-and-integrations-changes-in-v2-1-304|8 Apps and Integrations changes in v2.1.304]] · Digest
+- 2026-10-16 · **ChatGPT** · [[Changes/ChatGPT/2026-10-16-improved-use-of-plugins-and-tools-to-carry-out-tasks|Improved use of plugins and tools to carry out tasks]]
+- 2026-10-16 · **Claude Code** · [[Changes/Claude Code/2026-10-16-3-apps-and-integrations-changes-in-v2-1-302|3 Apps and Integrations changes in v2.1.302]] · Digest
 - 2026-10-14 · **Claude Code** · [[Changes/Claude Code/2026-10-14-7-apps-and-integrations-changes-in-v2-1-300|7 Apps and Integrations changes in v2.1.300]] · Digest
 - 2026-10-14 · **Claude Code** · [[Changes/Claude Code/2026-10-14-19-apps-and-integrations-changes-in-v2-1-299|19 Apps and Integrations changes in v2.1.299]] · Digest
 - 2026-10-13 · **Cursor** · [[Changes/Cursor/2026-10-13-2-apps-and-integrations-changes-in-origin-app-marketplace|2 Apps and Integrations changes in Origin App Marketplace]] · Digest

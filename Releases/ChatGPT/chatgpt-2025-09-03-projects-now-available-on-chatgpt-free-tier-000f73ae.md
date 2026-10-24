@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-09-03'
 description: 'ChatGPT release Projects Now Available on ChatGPT Free Tier on 2025-09-03:
   1 tracked change across Enterprise and Administration'
-machine_hash: 42c4f75411ca60505ad42d336f971da914f648ebe1300133b94e1ac222b6904f
+machine_hash: 20f67fd6ea8565606dff45fc106e048090c9c25c2939bcf982762ef7d38f4753
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     Plus, Go, and Edu support up to 25 files per project. Pro, Business, and Enterprise
     support up to…'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#projects-now-available-on-chatgpt-free-tier
   title: Projects Now Available on ChatGPT Free Tier
   version: Projects Now Available on ChatGPT Free Tier
 release_id: chatgpt-2025-09-03-projects-now-available-on-chatgpt-free-tier-000f73ae
 source_release: Projects Now Available on ChatGPT Free Tier
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#projects-now-available-on-chatgpt-free-tier
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Projects Now Available on ChatGPT Free Tier
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Projects Now Available on ChatGPT Free Tier
 
-**ChatGPT** · 2025-09-03 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-09-03 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#projects-now-available-on-chatgpt-free-tier)
 <!-- chronolog:end -->
 
 ## Summary

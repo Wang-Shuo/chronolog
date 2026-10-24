@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 786ab8068d9929678123ab44d5ac1ff8fc946ea91c201320104d2a8f9466ec12
+machine_hash: 683d04c9b71e4a873b7b1209155d1f9badeb82abb8ce1fe9768d464662813f6a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ record:
       up to 40 files per project.New customization options are available for all plans,
       including colors and icons, to help keep your projects organized.Learn more
       about projects in ChatGPT.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#projects-now-available-on-chatgpt-free-tier
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -69,13 +69,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Projects Now Available on ChatGPT Free Tier
 
-**ChatGPT** · 2025-09-03 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-03-projects-now-available-on-chatgpt-free-tier-000f73ae|Projects Now Available on ChatGPT Free Tier]]
+**ChatGPT** · 2025-09-03 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#projects-now-available-on-chatgpt-free-tier) · from [[Releases/ChatGPT/chatgpt-2025-09-03-projects-now-available-on-chatgpt-free-tier-000f73ae|Projects Now Available on ChatGPT Free Tier]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Projects bring your chats and files into one place, helping you stay focused and get things done. They’re now available on our Free tier, with up to 5 file uploads per project.We’ve also updated file uploads on paid tiers: Plus, Go, and Edu support up to 25 files per project. Pro, Business, and Enterprise support up to 40 files per project.New customization options are available for all plans, including colors and icons, to help keep your projects organized.Learn more about projects in ChatGPT.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#projects-now-available-on-chatgpt-free-tier
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -96,5 +96,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-03-96a40d&body=Card%3A%20Changes%2FChatGPT%2F2025-09-03-projects-bring-your-chats-and-files-into-one-place-helping-you-stay-focused-and-96a40d.md%0ACard%20ID%3A%20chatgpt-2025-09-03-96a40d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-03-96a40d&body=Card%3A%20Changes%2FChatGPT%2F2025-09-03-projects-bring-your-chats-and-files-into-one-place-helping-you-stay-focused-and-96a40d.md%0ACard%20ID%3A%20chatgpt-2025-09-03-96a40d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23projects-now-available-on-chatgpt-free-tier%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

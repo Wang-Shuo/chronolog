@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9970af7e291cc6a8fcd641d50b5e5214cf6ac69d449884b725fe3c45ffba3efd
+machine_hash: 7adc03bc799ea58664999d54b5c5d1044c5293e99c1cdf56b0d6a72a7d592806
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       guiding conversations toward productive outcomes. We think these updates help
       GPT-4o feel more intuitive and effective across a variety of tasks–we hope you
       agree!
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -75,13 +75,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Improvements to GPT-4o
 
-**ChatGPT** · 2025-04-25 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-04-25-improvements-to-gpt-4o-4bcfc1a7|Improvements to GPT-4o]]
+**ChatGPT** · 2025-04-25 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o) · from [[Releases/ChatGPT/chatgpt-2025-04-25-improvements-to-gpt-4o-4bcfc1a7|Improvements to GPT-4o]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re making additional improvements to GPT-4o, optimizing when it saves memories and enhancing problem-solving capabilities for STEM. We’ve also made subtle changes to the way it responds, making it more proactive and better at guiding conversations toward productive outcomes. We think these updates help GPT-4o feel more intuitive and effective across a variety of tasks–we hope you agree!
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-gpt-4o
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -102,5 +102,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-04-25-6ac8ab&body=Card%3A%20Changes%2FChatGPT%2F2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories.md%0ACard%20ID%3A%20chatgpt-2025-04-25-6ac8ab%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-04-25-6ac8ab&body=Card%3A%20Changes%2FChatGPT%2F2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories.md%0ACard%20ID%3A%20chatgpt-2025-04-25-6ac8ab%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23improvements-to-gpt-4o%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

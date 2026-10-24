@@ -4,7 +4,7 @@ date: '2024-11-22'
 description: 'ChatGPT release Updates to the ChatGPT Web experience on 2024-11-22:
   6 tracked changes across Interface Experience, Files and Data, Image Generation,
   Mobile…'
-machine_hash: 9198e1d1cfd020c9d93b615114e220e21a81a4d272ec6461e5a99903393a8c92
+machine_hash: 9578c1993fb11dae23f9b885c3e1a1d34b05e52e51125a8f9f0b3ad91e07c4e4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -16,13 +16,13 @@ record:
   source_summary: We are rolling out the following updates over the next two weeks
     to all ChatGPT users.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience
   title: Updates to the ChatGPT Web experience
   version: Updates to the ChatGPT Web experience
 release_id: chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c
 source_release: Updates to the ChatGPT Web experience
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Updates to the ChatGPT Web experience
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Updates to the ChatGPT Web experience
 
-**ChatGPT** · 2024-11-22 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2024-11-22 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-the-chatgpt-web-experience)
 <!-- chronolog:end -->
 
 ## Summary

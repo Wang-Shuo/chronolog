@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-05-08'
 description: 'ChatGPT release GitHub connector for deep research for Plus/Pro/Team
   on 2025-05-08: 1 tracked change across Search and Browsing'
-machine_hash: 80bc05868e95e71d7334102e9de8af26541354a1471fd252af1fdb28d4cf2e0a
+machine_hash: 8fb76e5472ce656bd8c36d1350bcee51af140739997fce5d13c535928167a0df
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     in the EEA, Switzerland, and the UK. Enterprise user access will be announced
     at a later date.See: Connecting GitHub to ChatGPT deep research.'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#github-connector-for-deep-research-for-plusproteam
   title: GitHub connector for deep research for Plus/Pro/Team
   version: GitHub connector for deep research for Plus/Pro/Team
 release_id: chatgpt-2025-05-08-github-connector-for-deep-research-for-plus-pro-team-498e1135
 source_release: GitHub connector for deep research for Plus/Pro/Team
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#github-connector-for-deep-research-for-plusproteam
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: GitHub connector for deep research for Plus/Pro/Team
 <!-- chronolog:begin region="header" -->
 # ChatGPT · GitHub connector for deep research for Plus/Pro/Team
 
-**ChatGPT** · 2025-05-08 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-05-08 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#github-connector-for-deep-research-for-plusproteam)
 <!-- chronolog:end -->
 
 ## Summary

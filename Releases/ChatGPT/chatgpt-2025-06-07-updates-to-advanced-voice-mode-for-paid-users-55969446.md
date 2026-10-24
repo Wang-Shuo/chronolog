@@ -3,7 +3,7 @@ changes_count: 2
 date: '2025-06-07'
 description: 'ChatGPT release Updates to Advanced Voice Mode for paid users on 2025-06-07:
   2 tracked changes across Voice and Audio'
-machine_hash: ae3d94dc8f46a167e3e7c5f3c8cbab65526ab3bb3a1acc63d1ab812f886c32a1
+machine_hash: c5e5f8971da4ca1930dbd1e72e0347c44c15d0c92bab9a0b7e82be832494fc30
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     and human-like. When we first launched Advanced Voice, it represented a leap forward
     in AI speech—now, it speaks even more naturally, with subtler intonation…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-advanced-voice-mode-for-paid-users
   title: Updates to Advanced Voice Mode for paid users
   version: Updates to Advanced Voice Mode for paid users
 release_id: chatgpt-2025-06-07-updates-to-advanced-voice-mode-for-paid-users-55969446
 source_release: Updates to Advanced Voice Mode for paid users
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-advanced-voice-mode-for-paid-users
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Updates to Advanced Voice Mode for paid users
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Updates to Advanced Voice Mode for paid users
 
-**ChatGPT** · 2025-06-07 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-06-07 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-advanced-voice-mode-for-paid-users)
 <!-- chronolog:end -->
 
 ## Summary

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-05-12'
 description: 'ChatGPT release Microsoft SharePoint and OneDrive connector for deep
   research for Plus/Pro/Team on 2025-05-12: 1 tracked change across Search and Browsing'
-machine_hash: 187823835e7beb9348390445f67fd64a33cc518fe97b5d6c0af8feda4708fa1e
+machine_hash: be9e66031c1c3027b731d59181570b20d7b93b6f6fe4fe496fab9cdbbff3be9e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,14 +18,14 @@ record:
     be announced at a later date.See: Connecting SharePoint and Microsoft OneDrive
     to ChatGPT deep…'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#microsoft-sharepoint-and-onedrive-connector-for-deep-research-for-plusproteam
   title: Microsoft SharePoint and OneDrive connector for deep research for Plus/Pro/Team
   version: Microsoft SharePoint and OneDrive connector for deep research for Plus/Pro/Team
 release_id: chatgpt-2025-05-12-microsoft-sharepoint-and-onedrive-connector-for-deep-research-fo-f616305b
 source_release: Microsoft SharePoint and OneDrive connector for deep research for
   Plus/Pro/Team
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#microsoft-sharepoint-and-onedrive-connector-for-deep-research-for-plusproteam
 tags:
 - release
 - chatgpt
@@ -37,7 +37,7 @@ version: Microsoft SharePoint and OneDrive connector for deep research for Plus/
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Microsoft SharePoint and OneDrive connector for deep research for Plus/Pro/Team
 
-**ChatGPT** · 2025-05-12 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-05-12 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#microsoft-sharepoint-and-onedrive-connector-for-deep-research-for-plusproteam)
 <!-- chronolog:end -->
 
 ## Summary

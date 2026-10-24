@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 705faa50b7b679de434a5079237a3b9ca55012995edce58ccc08652cbd8e6cc5
+machine_hash: 299cc018143ecf7d9fb1faead2aa280b1dcf50a13fe09ded9003471c12b701c4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   evidence:
   - quote: We’re improving the quality and latency of responses of the version of
       Advanced Voice powered by GPT-4o mini.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#voice-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -72,13 +72,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Voice Updates
 
-**ChatGPT** · 2025-09-18 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-18-voice-updates-432d340b|Voice Updates]]
+**ChatGPT** · 2025-09-18 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#voice-updates) · from [[Releases/ChatGPT/chatgpt-2025-09-18-voice-updates-432d340b|Voice Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re improving the quality and latency of responses of the version of Advanced Voice powered by GPT-4o mini.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#voice-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -99,5 +99,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-18-34d11c&body=Card%3A%20Changes%2FChatGPT%2F2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced.md%0ACard%20ID%3A%20chatgpt-2025-09-18-34d11c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-18-34d11c&body=Card%3A%20Changes%2FChatGPT%2F2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced.md%0ACard%20ID%3A%20chatgpt-2025-09-18-34d11c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23voice-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -3,7 +3,7 @@ changes_count: 3
 date: '2023-02-09'
 description: 'ChatGPT release Introducing ChatGPT Plus on 2023-02-09: 3 tracked changes
   across Interface Experience, Model Support, Reliability and Performance'
-machine_hash: 7c814206be0966457be419b49d955bd3cdf6da62a112b8c1bd303ab71c5651bf
+machine_hash: f75257ccb90a6912453214d98ce19147e591515383e48154058df0f671565866
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -16,13 +16,13 @@ record:
     to new, experimental features. We are beginning to roll out the ability for Plus
     users to choose between different versions of ChatGPT:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-plus
   title: Introducing ChatGPT Plus
   version: Introducing ChatGPT Plus
 release_id: chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524
 source_release: Introducing ChatGPT Plus
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-plus
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: Introducing ChatGPT Plus
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Introducing ChatGPT Plus
 
-**ChatGPT** · 2023-02-09 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2023-02-09 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-plus)
 <!-- chronolog:end -->
 
 ## Summary

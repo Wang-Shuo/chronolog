@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-09-04'
 description: 'ChatGPT release Branch conversations on web on 2025-09-04: 1 tracked
   change across Projects and Workspaces'
-machine_hash: 0d42e906503e07b60b39285fd884c9d9e42980afafce3167c3004e713fb56bf7
+machine_hash: f18d5421192201fb252b1b7e69184fc3de76beb0fd2e38f32ca6c40667dce53f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     conversation from that point.This feature is available today for all logged-in
     users on web.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#branch-conversations-on-web
   title: Branch conversations on web
   version: Branch conversations on web
 release_id: chatgpt-2025-09-04-branch-conversations-on-web-335d0aa3
 source_release: Branch conversations on web
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#branch-conversations-on-web
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Branch conversations on web
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Branch conversations on web
 
-**ChatGPT** · 2025-09-04 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-09-04 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#branch-conversations-on-web)
 <!-- chronolog:end -->
 
 ## Summary

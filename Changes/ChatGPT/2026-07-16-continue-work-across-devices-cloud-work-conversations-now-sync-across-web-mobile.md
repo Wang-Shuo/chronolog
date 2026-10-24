@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-07-16 · Mobile and Desktop: Continue Work across 
   Cloud Work conversations now sync across web, mobile, and desktop, so you can start
   on…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1220
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c9d4a22c8b04ae55fa0dc92685be7e4db05ebdbecd6ae11a69e9f1cac0d32c3e
+machine_hash: 7d0f20b5bd6378686ba59cbb02147a6fc4fa9a8f6d28027916ad2527de3bc9d7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
   - quote: 'Continue Work across devices: Cloud Work conversations now sync across
       web, mobile, and desktop, so you can start on one surface and continue on another.
       Local conversations stay on your computer.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -64,13 +64,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Continue Work across devices
 
-**ChatGPT** · 2026-07-16 · [[Themes/mobile-desktop|Mobile and Desktop]] · macOS and Windows · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad|ChatGPT desktop app experience updates]]
+**ChatGPT** · 2026-07-16 · [[Themes/mobile-desktop|Mobile and Desktop]] · macOS and Windows · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad|ChatGPT desktop app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Continue Work across devices: Cloud Work conversations now sync across web, mobile, and desktop, so you can start on one surface and continue on another. Local conversations stay on your computer.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -96,5 +96,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-16-d5b45e&body=Card%3A%20Changes%2FChatGPT%2F2026-07-16-continue-work-across-devices-cloud-work-conversations-now-sync-across-web-mobile.md%0ACard%20ID%3A%20chatgpt-2026-07-16-d5b45e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-16-d5b45e&body=Card%3A%20Changes%2FChatGPT%2F2026-07-16-continue-work-across-devices-cloud-work-conversations-now-sync-across-web-mobile.md%0ACard%20ID%3A%20chatgpt-2026-07-16-d5b45e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-desktop-app-experience-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

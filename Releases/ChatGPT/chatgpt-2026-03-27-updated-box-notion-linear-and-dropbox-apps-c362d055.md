@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-03-27'
 description: 'ChatGPT release Updated Box, Notion, Linear, and Dropbox apps on 2026-03-27:
   1 tracked change across Apps and Integrations'
-machine_hash: f333b4156db89bc1e5eb6c781719d3a5126eb2b482c8658d609271df9ca5e8ca
+machine_hash: 1f9ce951a8bf9e8f07ef8eaff68346aaadcb424fb6e59b072cad100b3c43332a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     use these apps in ChatGPT, reconnect the app to start using the updated experience.
     Existing…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-box-notion-linear-and-dropbox-apps
   title: Updated Box, Notion, Linear, and Dropbox apps
   version: Updated Box, Notion, Linear, and Dropbox apps
 release_id: chatgpt-2026-03-27-updated-box-notion-linear-and-dropbox-apps-c362d055
 source_release: Updated Box, Notion, Linear, and Dropbox apps
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-box-notion-linear-and-dropbox-apps
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Updated Box, Notion, Linear, and Dropbox apps
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Updated Box, Notion, Linear, and Dropbox apps
 
-**ChatGPT** · 2026-03-27 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-03-27 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-box-notion-linear-and-dropbox-apps)
 <!-- chronolog:end -->
 
 ## Summary

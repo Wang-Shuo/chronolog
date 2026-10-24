@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 01e1cbf4b87d3172a900c207bf5f6cf69732437ae37b139c17ef283eda73ab51
+machine_hash: 9aaaefffda846161e37ef00221987b0003a55a1f541d596b0c7f2f765053efd2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   - quote: The initial experience includes My Drive and files and folders shared directly
       with you; Shared Drives aren’t included yet. Some Google Drive editing and collaboration
       features aren’t yet available in ChatGPT.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#google-drive-is-now-in-library
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -62,13 +62,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # The initial experience includes My Drive and files and folders shared directly with you
 
-**ChatGPT** · 2026-08-13 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-13-google-drive-is-now-in-library-bbf66648|Google Drive is now in Library]]
+**ChatGPT** · 2026-08-13 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#google-drive-is-now-in-library) · from [[Releases/ChatGPT/chatgpt-2026-08-13-google-drive-is-now-in-library-bbf66648|Google Drive is now in Library]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > The initial experience includes My Drive and files and folders shared directly with you; Shared Drives aren’t included yet. Some Google Drive editing and collaboration features aren’t yet available in ChatGPT.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#google-drive-is-now-in-library
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -91,5 +91,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-13-9658d3&body=Card%3A%20Changes%2FChatGPT%2F2026-08-13-the-initial-experience-includes-my-drive-and-files-and-folders-shared-directly-w.md%0ACard%20ID%3A%20chatgpt-2026-08-13-9658d3%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-13-9658d3&body=Card%3A%20Changes%2FChatGPT%2F2026-08-13-the-initial-experience-includes-my-drive-and-files-and-folders-shared-directly-w.md%0ACard%20ID%3A%20chatgpt-2026-08-13-9658d3%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23google-drive-is-now-in-library%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

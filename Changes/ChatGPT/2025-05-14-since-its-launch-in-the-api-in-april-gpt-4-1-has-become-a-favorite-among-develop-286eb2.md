@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 300124e386efecf3a55ce588e3b56e0b3a6c7d2db6c596afcf481a3bf1547422
+machine_hash: 137afafb610c7db5009b95bdc0700f3a33d73676e2e59d8cd49757625b8e6a84
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,7 +46,7 @@ record:
       the "more models" dropdown in the model picker. Enterprise and Edu users will
       get access in the coming weeks. GPT-4.1 has the same rate limits as GPT-4o for
       paid users.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#releasing-gpt-41-in-chatgpt-for-all-paid-users
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -97,13 +97,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Releasing GPT-4.1 in ChatGPT for all paid users
 
-**ChatGPT** · 2025-05-14 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-05-14-releasing-gpt-4-1-in-chatgpt-for-all-paid-users-ab6fd3aa|Releasing GPT-4.1 in ChatGPT for all paid users]]
+**ChatGPT** · 2025-05-14 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#releasing-gpt-41-in-chatgpt-for-all-paid-users) · from [[Releases/ChatGPT/chatgpt-2025-05-14-releasing-gpt-4-1-in-chatgpt-for-all-paid-users-ab6fd3aa|Releasing GPT-4.1 in ChatGPT for all paid users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Since its launch in the API in April, GPT-4.1 has become a favorite among developers—by popular demand, we’re making it available directly in ChatGPT.GPT-4.1 is a specialized model that excels at coding tasks. Compared to GPT-4o, it's even stronger at precise instruction following and web development tasks, and offers an alternative to OpenAI o3 and OpenAI o4-mini for simpler, everyday coding needs.Starting today, Plus, Pro, and Team users can access GPT-4.1 via the "more models" dropdown in the model picker. Enterprise and Edu users will get access in the coming weeks. GPT-4.1 has the same rate limits as GPT-4o for paid users.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#releasing-gpt-41-in-chatgpt-for-all-paid-users
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -124,5 +124,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-05-14-286eb2&body=Card%3A%20Changes%2FChatGPT%2F2025-05-14-since-its-launch-in-the-api-in-april-gpt-4-1-has-become-a-favorite-among-develop-286eb2.md%0ACard%20ID%3A%20chatgpt-2025-05-14-286eb2%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-05-14-286eb2&body=Card%3A%20Changes%2FChatGPT%2F2025-05-14-since-its-launch-in-the-api-in-april-gpt-4-1-has-become-a-favorite-among-develop-286eb2.md%0ACard%20ID%3A%20chatgpt-2025-05-14-286eb2%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23releasing-gpt-41-in-chatgpt-for-all-paid-users%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

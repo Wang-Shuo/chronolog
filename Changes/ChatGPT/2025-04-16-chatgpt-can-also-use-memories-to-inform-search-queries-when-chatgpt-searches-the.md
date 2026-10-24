@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d9725c0b605fbe2452d9082ddb34d09b05f8cd30b2339517292764b73dbb25b0
+machine_hash: 3fd648c1de67b1c3a6113ee950d1aaadced77a5620d72c418c315d8064af3b51
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   evidence:
   - quote: ChatGPT can also use memories to inform search queries when ChatGPT searches
       the web using third-party search providers. Learn more about search.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-with-search
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -59,13 +59,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Memory with Search
 
-**ChatGPT** · 2025-04-16 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-04-16-memory-with-search-0b018fd4|Memory with Search]]
+**ChatGPT** · 2025-04-16 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-with-search) · from [[Releases/ChatGPT/chatgpt-2025-04-16-memory-with-search-0b018fd4|Memory with Search]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT can also use memories to inform search queries when ChatGPT searches the web using third-party search providers. Learn more about search.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-with-search
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -86,5 +86,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-04-16-c95e51&body=Card%3A%20Changes%2FChatGPT%2F2025-04-16-chatgpt-can-also-use-memories-to-inform-search-queries-when-chatgpt-searches-the.md%0ACard%20ID%3A%20chatgpt-2025-04-16-c95e51%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-04-16-c95e51&body=Card%3A%20Changes%2FChatGPT%2F2025-04-16-chatgpt-can-also-use-memories-to-inform-search-queries-when-chatgpt-searches-the.md%0ACard%20ID%3A%20chatgpt-2025-04-16-c95e51%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23memory-with-search%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

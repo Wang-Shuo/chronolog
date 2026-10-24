@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3d62af56b5638589c3944a06cb7340a66ea275f323705a8aae12e78d883c5c4d
+machine_hash: f62aebbf8dcd9e37f3f76864a42deb2fb6e48721c3fa3e1c0b826eef2e8a7c61
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ record:
       start, review, and manage research in one place. Create and edit a research
       plan before it begins, and track progress with the ability to adjust direction
       mid-run.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-deep-research
   extractor_version: fallback-v5
   impact: incremental
   kind: launch
@@ -82,13 +82,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Updates to deep research
 
-**ChatGPT** · 2026-02-10 · [[Themes/interface-experience|Interface Experience]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-10-updates-to-deep-research-d407d051|Updates to deep research]]
+**ChatGPT** · 2026-02-10 · [[Themes/interface-experience|Interface Experience]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-deep-research) · from [[Releases/ChatGPT/chatgpt-2026-02-10-updates-to-deep-research-d407d051|Updates to deep research]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re introducing improvements to deep research in ChatGPT to help produce more accurate, credible reports with greater control. You can now focus research on specific websites and a larger collection of connected apps as trusted sources. A redesigned sidebar entry point and fullscreen report view make it easier to start, review, and manage research in one place. Create and edit a research plan before it begins, and track progress with the ability to adjust direction mid-run.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-deep-research
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -109,5 +109,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-10-b6b1d4&body=Card%3A%20Changes%2FChatGPT%2F2026-02-10-we-re-introducing-improvements-to-deep-research-in-chatgpt-to-help-produce-more.md%0ACard%20ID%3A%20chatgpt-2026-02-10-b6b1d4%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-10-b6b1d4&body=Card%3A%20Changes%2FChatGPT%2F2026-02-10-we-re-introducing-improvements-to-deep-research-in-chatgpt-to-help-produce-more.md%0ACard%20ID%3A%20chatgpt-2026-02-10-b6b1d4%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23updates-to-deep-research%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

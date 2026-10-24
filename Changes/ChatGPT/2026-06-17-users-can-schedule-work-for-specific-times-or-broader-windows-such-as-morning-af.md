@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b231fce9e271ca4670f04084981c750aef3b0bf5628fd3e7d509c2781d8159e6
+machine_hash: 3e52fecc36acdb7ef3008caef90b953bc07936bc506c9098e69e9c3238fae4b6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   evidence:
   - quote: Users can schedule work for specific times or broader windows, such as
       morning, afternoon, or evening.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -60,13 +60,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Users can schedule work for specific times or broader windows, such as morning…
 
-**ChatGPT** · 2026-06-17 · [[Themes/automation-scheduling|Automation and Scheduling]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a|Scheduled tasks in ChatGPT]]
+**ChatGPT** · 2026-06-17 · [[Themes/automation-scheduling|Automation and Scheduling]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a|Scheduled tasks in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Users can schedule work for specific times or broader windows, such as morning, afternoon, or evening.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -93,5 +93,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-17-b41991&body=Card%3A%20Changes%2FChatGPT%2F2026-06-17-users-can-schedule-work-for-specific-times-or-broader-windows-such-as-morning-af.md%0ACard%20ID%3A%20chatgpt-2026-06-17-b41991%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-17-b41991&body=Card%3A%20Changes%2FChatGPT%2F2026-06-17-users-can-schedule-work-for-specific-times-or-broader-windows-such-as-morning-af.md%0ACard%20ID%3A%20chatgpt-2026-06-17-b41991%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23scheduled-tasks-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

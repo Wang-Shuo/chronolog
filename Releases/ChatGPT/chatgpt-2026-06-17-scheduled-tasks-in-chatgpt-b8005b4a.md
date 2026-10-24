@@ -3,7 +3,7 @@ changes_count: 6
 date: '2026-06-17'
 description: 'ChatGPT release Scheduled tasks in ChatGPT on 2026-06-17: 6 tracked
   changes across Automation and Scheduling, Reliability and Performance, Apps and…'
-machine_hash: f35db4068328c304166af22fafb87a48b1726514dfed50fbc619507db49a0f17
+machine_hash: d9bb41a37e95f514ec41cfe966f5324eaa70eb1fe575fc857ad84f21d9d37b71
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     find and manage, faster and more reliable, with more useful notifications.What’s
     changing
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt
   title: Scheduled tasks in ChatGPT
   version: Scheduled tasks in ChatGPT
 release_id: chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a
 source_release: Scheduled tasks in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Scheduled tasks in ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Scheduled tasks in ChatGPT
 
-**ChatGPT** · 2026-06-17 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-06-17 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

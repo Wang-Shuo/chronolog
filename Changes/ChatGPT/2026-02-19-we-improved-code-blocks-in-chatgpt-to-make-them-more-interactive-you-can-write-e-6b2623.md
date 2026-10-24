@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6d4096bb88c49fa33e7532067971c8f7639cffc0ae5bf869721968acde02923a
+machine_hash: c63de298ffcb1a52c1618a1a3b28677a83c647620459141e9a75788f807c150f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,9 +31,9 @@ record:
   evidence:
   - quote: 'We improved Code Blocks in ChatGPT to make them more interactive. You
       can write, edit, and preview your code in ChatGPT, all in oneplace:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interactive-code-blocks-in-chatgpt
   - quote: Write and edit text in-line
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interactive-code-blocks-in-chatgpt
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -64,7 +64,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # We improved Code Blocks in ChatGPT to make them more interactive
 
-**ChatGPT** · 2026-02-19 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-19-interactive-code-blocks-in-chatgpt-c2254f84|Interactive Code Blocks in ChatGPT]]
+**ChatGPT** · 2026-02-19 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interactive-code-blocks-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-02-19-interactive-code-blocks-in-chatgpt-c2254f84|Interactive Code Blocks in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -72,7 +72,7 @@ type: change
 >
 > Write and edit text in-line
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interactive-code-blocks-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -96,5 +96,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-19-6b2623&body=Card%3A%20Changes%2FChatGPT%2F2026-02-19-we-improved-code-blocks-in-chatgpt-to-make-them-more-interactive-you-can-write-e-6b2623.md%0ACard%20ID%3A%20chatgpt-2026-02-19-6b2623%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-19-6b2623&body=Card%3A%20Changes%2FChatGPT%2F2026-02-19-we-improved-code-blocks-in-chatgpt-to-make-them-more-interactive-you-can-write-e-6b2623.md%0ACard%20ID%3A%20chatgpt-2026-02-19-6b2623%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23interactive-code-blocks-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

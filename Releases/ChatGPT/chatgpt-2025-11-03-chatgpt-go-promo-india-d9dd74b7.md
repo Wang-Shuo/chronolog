@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-11-03'
 description: 'ChatGPT release ChatGPT Go Promo - India on 2025-11-03: 1 tracked change
   across Pricing Model'
-machine_hash: 0ea3dca934ac9e9f24d33e830aef12a5f8209f344ad4a82402e1fb06b3412373
+machine_hash: b931daa1f6d5d0bba833630d65ea4afa69b7c2f035c1e96295b78522d7a6ee03
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     for redemption.Available to users in India who are new, on the free plan, or are
     current ChatGPT…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-promo-india
   title: ChatGPT Go Promo - India
   version: ChatGPT Go Promo - India
 release_id: chatgpt-2025-11-03-chatgpt-go-promo-india-d9dd74b7
 source_release: ChatGPT Go Promo - India
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-promo-india
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: ChatGPT Go Promo - India
 <!-- chronolog:begin region="header" -->
 # ChatGPT Go Promo - India
 
-**ChatGPT** · 2025-11-03 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-11-03 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-promo-india)
 <!-- chronolog:end -->
 
 ## Summary

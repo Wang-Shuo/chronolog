@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-08-13'
 description: 'ChatGPT release Computer History for macOS on 2026-08-13: 1 tracked
   change across Enterprise and Administration'
-machine_hash: 36cfcda0f678b8510e682120f3d3b0c1f3bf7db0da65b67a12f9afb34f2e5358
+machine_hash: cc5f7ce41cfe284d8caaf6dc84b0dcd5761e6efb3225cdc9f2b603f75483eaf6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     events—not screenshots, screen recordings, microphone input, or system audio—and
     private…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#computer-history-for-macos
   title: Computer History for macOS
   version: Computer History for macOS
 release_id: chatgpt-2026-08-13-computer-history-for-macos-4b03e9a3
 source_release: Computer History for macOS
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#computer-history-for-macos
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Computer History for macOS
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Computer History for macOS
 
-**ChatGPT** · 2026-08-13 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-08-13 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#computer-history-for-macos)
 <!-- chronolog:end -->
 
 ## Summary

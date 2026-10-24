@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 281b7bd0017e1ba638a09f88fb44fd6f13635b1c3a723049772c81876289d07a
+machine_hash: aaa2d7bf30b5dad8f9477b98f535468d82881ece05806c6957d4debbe746c6bb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       and more natural. You can still select a different base style and tone for ChatGPT,
       along with tuning characteristics like warmth and emoji use, within the Personalization
       menu in settings.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#52-personality-system-prompt-update
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -80,13 +80,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # 5.2 Personality System Prompt Update
 
-**ChatGPT** · 2026-01-22 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-01-22-5-2-personality-system-prompt-update-efbe6e4b|5.2 Personality System Prompt Update]]
+**ChatGPT** · 2026-01-22 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#52-personality-system-prompt-update) · from [[Releases/ChatGPT/chatgpt-2026-01-22-5-2-personality-system-prompt-update-efbe6e4b|5.2 Personality System Prompt Update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re updating GPT-5.2 Instant’s default personality to be more conversational and better at adapting its tone contextually, making exchanges feel smoother and more natural. You can still select a different base style and tone for ChatGPT, along with tuning characteristics like warmth and emoji use, within the Personalization menu in settings.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#52-personality-system-prompt-update
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -107,5 +107,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-01-22-e38ffc&body=Card%3A%20Changes%2FChatGPT%2F2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a.md%0ACard%20ID%3A%20chatgpt-2026-01-22-e38ffc%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-01-22-e38ffc&body=Card%3A%20Changes%2FChatGPT%2F2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a.md%0ACard%20ID%3A%20chatgpt-2026-01-22-e38ffc%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%2352-personality-system-prompt-update%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

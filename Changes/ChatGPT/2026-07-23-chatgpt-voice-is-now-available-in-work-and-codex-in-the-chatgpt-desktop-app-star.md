@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: 120912aea9998b0b9fd2a8e158e123702aa0a9f3ed9f00c581db7e9399adabd0
+machine_hash: f30b962193e2eac1bbeba0e2f12a51ebfd3858b2d6e8d1504bd55824a1394f72
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       app. Start a new task in Voice to speak naturally, interrupt, and ask Voice
       to start or coordinate work using the tools and permissions available to the
       selected experience.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-voice-in-work-and-codex-on-desktop
   extractor_version: fallback-v5
   impact: significant
   kind: expansion
@@ -72,13 +72,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT Voice in Work and Codex on desktop
 
-**ChatGPT** · 2026-07-23 · [[Themes/voice|Voice and Audio]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-23-chatgpt-voice-in-work-and-codex-on-desktop-449df8e7|ChatGPT Voice in Work and Codex on desktop]]
+**ChatGPT** · 2026-07-23 · [[Themes/voice|Voice and Audio]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-voice-in-work-and-codex-on-desktop) · from [[Releases/ChatGPT/chatgpt-2026-07-23-chatgpt-voice-in-work-and-codex-on-desktop-449df8e7|ChatGPT Voice in Work and Codex on desktop]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT Voice is now available in Work and Codex in the ChatGPT desktop app. Start a new task in Voice to speak naturally, interrupt, and ask Voice to start or coordinate work using the tools and permissions available to the selected experience.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-voice-in-work-and-codex-on-desktop
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -99,5 +99,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-23-de2af4&body=Card%3A%20Changes%2FChatGPT%2F2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star.md%0ACard%20ID%3A%20chatgpt-2026-07-23-de2af4%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-23-de2af4&body=Card%3A%20Changes%2FChatGPT%2F2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star.md%0ACard%20ID%3A%20chatgpt-2026-07-23-de2af4%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-voice-in-work-and-codex-on-desktop%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

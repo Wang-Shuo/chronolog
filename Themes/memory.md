@@ -1,10 +1,10 @@
 ---
 created: '2023-07-20'
-date: '2026-10-14'
+date: '2026-10-19'
 description: 'Research question: what do the tracked products remember between sessions,
   and how do users control it?'
-machine_hash: 3b1d97147d46db31da42bb71d10a489277ff71ddeda7a41f50e4c81b5d693ef0
-modified: '2026-10-14'
+machine_hash: 0eb70c0954ff4fe60d5e39b326f2c0e9bb10c63f0065b4ca45c1c23d47f9a1c5
+modified: '2026-10-19'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Memory and Personalization
 <!-- chronolog:begin region="header" -->
 # Memory and Personalization
 
-77 tracked changes across ChatGPT, Claude Code and Cursor · 2023-07-20 → 2026-10-14 · Claude Code averages 6.9 cards per release, Cursor 4.0, ChatGPT 1.7
+78 tracked changes across ChatGPT, Claude Code and Cursor · 2023-07-20 → 2026-10-19 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -59,10 +59,11 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 43 entries (ChatGPT 15 · Claude Code 25 · Cursor 3)
+### 2026 · 44 entries (ChatGPT 15 · Claude Code 26 · Cursor 3)
 
 #### 2026-10
 
+- 2026-10-19 · **Claude Code** · [[Changes/Claude Code/2026-10-19-improved-memory-use-when-sending-requests-in-long-or-resumed-conversations|Improved memory use when sending requests in long or resumed conversations]]
 - 2026-10-14 · **Claude Code** · [[Changes/Claude Code/2026-10-14-improved-memory-and-disk-use-when-pdfs-are-mentioned-their-bytes-are-no-longer-k|Improved memory and disk use when PDFs are @-mentioned]]
 - 2026-10-05 · **Claude Code** · [[Changes/Claude Code/2026-10-05-changed-background-sessions-waiting-on-a-scheduled-wakeup-loop-they-are-now-left|Changed background sessions waiting on a scheduled wakeup (/loop)]]
 - 2026-10-01 · **ChatGPT** · [[Changes/ChatGPT/2026-10-01-virtually-try-on-clothing-and-accessories-a-try-on-button-will-appear-on-product|Virtually try on clothing and accessories]]

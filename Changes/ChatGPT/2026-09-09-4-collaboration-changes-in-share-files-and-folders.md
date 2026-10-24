@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 802a26d3bfde5a66f351efd5023cf1271d923718104523f90dce0243d09f971d
+machine_hash: 8d13748ea64d1f21c1547c912a8f3eaf1dbcc662bab51925d3a3abcf8fb53ddd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,16 +28,16 @@ record:
   evidence:
   - quote: Share with specific people. Invite recipients and assign Viewer or Editor
       access.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-files-and-folders-from-your-library
   - quote: Share across your workspace. Make content available to everyone in your
       workspace.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-files-and-folders-from-your-library
   - quote: Manage access. Review who has access, change permissions, or remove access
       from the sharing dialog.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-files-and-folders-from-your-library
   - quote: Find and use shared content. Access items in Shared with me and use shared
       files in conversations with ChatGPT.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-files-and-folders-from-your-library
   extractor_version: fallback-v5
   impact: incremental
   kind: digest
@@ -66,7 +66,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # 4 Collaboration changes in Share files and folders…
 
-**ChatGPT** · 2026-09-09 · [[Themes/collaboration|Collaboration]] · Digest · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d|Share files and folders from your Library]]
+**ChatGPT** · 2026-09-09 · [[Themes/collaboration|Collaboration]] · Digest · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-files-and-folders-from-your-library) · from [[Releases/ChatGPT/chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d|Share files and folders from your Library]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -80,7 +80,7 @@ type: change
 
 > Find and use shared content. Access items in Shared with me and use shared files in conversations with ChatGPT.
 
-Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-files-and-folders-from-your-library
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -104,5 +104,5 @@ Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-09-5c12ea&body=Card%3A%20Changes%2FChatGPT%2F2026-09-09-4-collaboration-changes-in-share-files-and-folders.md%0ACard%20ID%3A%20chatgpt-2026-09-09-5c12ea%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-09-5c12ea&body=Card%3A%20Changes%2FChatGPT%2F2026-09-09-4-collaboration-changes-in-share-files-and-folders.md%0ACard%20ID%3A%20chatgpt-2026-09-09-5c12ea%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23share-files-and-folders-from-your-library%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

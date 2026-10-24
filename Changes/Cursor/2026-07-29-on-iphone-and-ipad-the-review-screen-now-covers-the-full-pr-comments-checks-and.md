@@ -4,8 +4,8 @@ date: '2026-07-29'
 description: 'Cursor · 2026-07-29 · Mobile and Desktop: On iPhone and iPad, the review
   screen now covers the full PR: comments, checks, and approvals. Add or change…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1233
   relation: same-theme-chronology

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 98f4279ffe16626f6eff74ae277308df6d627c3089a5e23ad787f7e84599a6fb
+machine_hash: e80d1901bf87b37d0bccc37ae7782b5099c8291270e53f9ffb80c09e502f43ac
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ record:
       to open a side panel with key facts and trusted sources, making it easy to understand
       the context without asking follow-up questions. Rolling out globally on iOS,
       Android, web.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-visual-responses
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -83,13 +83,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # More visual responses
 
-**ChatGPT** · 2026-01-30 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-01-30-more-visual-responses-d2d2073c|More visual responses]]
+**ChatGPT** · 2026-01-30 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-visual-responses) · from [[Releases/ChatGPT/chatgpt-2026-01-30-more-visual-responses-d2d2073c|More visual responses]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Responses in ChatGPT are now more visual and easier to scan.For everyday questions, responses may include at-a-glance visuals—like checking your team’s latest stats, converting units, or doing a quick calculation.Answers now also highlight important people, places, products, and ideas. You can tap any highlight to open a side panel with key facts and trusted sources, making it easy to understand the context without asking follow-up questions. Rolling out globally on iOS, Android, web.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-visual-responses
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -110,5 +110,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-01-30-6823f1&body=Card%3A%20Changes%2FChatGPT%2F2026-01-30-responses-in-chatgpt-are-now-more-visual-and-easier-to-scan-for-everyday-questio.md%0ACard%20ID%3A%20chatgpt-2026-01-30-6823f1%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-01-30-6823f1&body=Card%3A%20Changes%2FChatGPT%2F2026-01-30-responses-in-chatgpt-are-now-more-visual-and-easier-to-scan-for-everyday-questio.md%0ACard%20ID%3A%20chatgpt-2026-01-30-6823f1%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23more-visual-responses%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

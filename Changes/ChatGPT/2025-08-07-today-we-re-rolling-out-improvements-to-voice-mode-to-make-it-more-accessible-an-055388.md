@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c967efd4fb003bdd4836adce795940714d98c8faa7f29b0a775b00a4dcb15229
+machine_hash: 49c0f5ba119626bd71f78fbf75a683e7488cf93b622bdce286c723159632adb1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ record:
       unifying all users onto our latest voice experience.For paid users, Voice now
       adapts to your instructions, adjusting its speaking style (length, speed, tone,
       and more) to fit the moment.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-voice-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -77,13 +77,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT Voice updates
 
-**ChatGPT** · 2025-08-07 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-08-07-chatgpt-voice-updates-1159fad7|ChatGPT Voice updates]]
+**ChatGPT** · 2025-08-07 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-voice-updates) · from [[Releases/ChatGPT/chatgpt-2025-08-07-chatgpt-voice-updates-1159fad7|ChatGPT Voice updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Today we’re rolling out improvements to Voice Mode to make it more accessible and useful for everyone. It also now works with custom GPTs. We’re expanding access with near-unlimited use for Plus users and hours each day for Free users. To simplify the experience, Standard Voice Mode will be retired in 30 days, unifying all users onto our latest voice experience.For paid users, Voice now adapts to your instructions, adjusting its speaking style (length, speed, tone, and more) to fit the moment.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-voice-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -104,5 +104,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-08-07-055388&body=Card%3A%20Changes%2FChatGPT%2F2025-08-07-today-we-re-rolling-out-improvements-to-voice-mode-to-make-it-more-accessible-an-055388.md%0ACard%20ID%3A%20chatgpt-2025-08-07-055388%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-08-07-055388&body=Card%3A%20Changes%2FChatGPT%2F2025-08-07-today-we-re-rolling-out-improvements-to-voice-mode-to-make-it-more-accessible-an-055388.md%0ACard%20ID%3A%20chatgpt-2025-08-07-055388%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-voice-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

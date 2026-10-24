@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 39f1bde58a9cb2b2356e8313c68edfffde1edecf2be180890e21e3b21b31cdaa
+machine_hash: b57f33fe5228f7172341480f95ff228ed939a46ea09477b294bffc0717d48c85
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ record:
       Instant Mini, GPT-5.5 Instant Mini better tracks evolving user intent, calibrates
       tone, and avoids repetitive or overly structured responses. Testing also showed
       stronger personalization and fewer factual issues.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-mini-in-chatgpt
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -86,13 +86,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # GPT-5.5 Instant Mini in ChatGPT
 
-**ChatGPT** · 2026-07-06 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-06-gpt-5-5-instant-mini-in-chatgpt-1ce53754|GPT-5.5 Instant Mini in ChatGPT]]
+**ChatGPT** · 2026-07-06 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-mini-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-07-06-gpt-5-5-instant-mini-in-chatgpt-1ce53754|GPT-5.5 Instant Mini in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re rolling out GPT-5.5 Instant Mini in ChatGPT. It replaces GPT-5.3 Instant Mini as the fallback model users reach after hitting their GPT-5.5 Instant or Auto rate limits. Because it serves as a fallback, it won’t appear in the model picker. This update does not affect the API or Codex.Compared with GPT-5.3 Instant Mini, GPT-5.5 Instant Mini better tracks evolving user intent, calibrates tone, and avoids repetitive or overly structured responses. Testing also showed stronger personalization and fewer factual issues.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-mini-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -113,5 +113,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-06-367b99&body=Card%3A%20Changes%2FChatGPT%2F2026-07-06-we-re-rolling-out-gpt-5-5-instant-mini-in-chatgpt-it-replaces-gpt-5-3-instant-mi.md%0ACard%20ID%3A%20chatgpt-2026-07-06-367b99%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-06-367b99&body=Card%3A%20Changes%2FChatGPT%2F2026-07-06-we-re-rolling-out-gpt-5-5-instant-mini-in-chatgpt-it-replaces-gpt-5-3-instant-mi.md%0ACard%20ID%3A%20chatgpt-2026-07-06-367b99%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23gpt-55-instant-mini-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 80efd0ec922bbaf689208b0eedce6231e73f7a70aeed66ce61cadbbb399db44f
+machine_hash: f85d2d13baeafce3664999bfff6ebd4fd4219ffa16fafd9668bbe06b492a3cd3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,9 +57,9 @@ record:
       be contacted by email, SMS, push notification, or all three.Parents can adjust
       certain features, set time limits, and add safeguards that work for their family
       including:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls
   - quote: Set quiet hours, or specific times when ChatGPT can’t be used.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls
   extractor_version: fallback-v5
   impact: significant
   kind: policy
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT rolls out parental controls globally to help families guide how ChatGPT…
 
-**ChatGPT** · 2025-09-29 · [[Themes/safety-privacy|Safety and Privacy]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|Parental Controls]]
+**ChatGPT** · 2025-09-29 · [[Themes/safety-privacy|Safety and Privacy]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls) · from [[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|Parental Controls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -106,7 +106,7 @@ type: change
 >
 > Set quiet hours, or specific times when ChatGPT can’t be used.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -132,5 +132,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-29-289d0a&body=Card%3A%20Changes%2FChatGPT%2F2025-09-29-we-re-rolling-out-parental-controls-globally-in-chatgpt-to-help-families-guide-h-289d0a.md%0ACard%20ID%3A%20chatgpt-2025-09-29-289d0a%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-29-289d0a&body=Card%3A%20Changes%2FChatGPT%2F2025-09-29-we-re-rolling-out-parental-controls-globally-in-chatgpt-to-help-families-guide-h-289d0a.md%0ACard%20ID%3A%20chatgpt-2025-09-29-289d0a%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23parental-controls%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

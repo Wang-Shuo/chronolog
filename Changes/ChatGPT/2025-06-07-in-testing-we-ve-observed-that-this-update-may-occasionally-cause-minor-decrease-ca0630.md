@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bf88e836474701332b8c49291a4bf2ff5a6bde056b678628fc61aa5a91876b7a
+machine_hash: 79946d00ff9023cdae8151c4ca2918d58fab6282ba8a6264e46e8b71f9bb4555
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ record:
       persist with this update, resulting in unintended sounds resembling ads, gibberish,
       or background music. We are actively investigating these issues and working
       toward a solution.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-advanced-voice-mode-for-paid-users
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -69,13 +69,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # In testing, we've observed that this update may occasionally cause minor decreases…
 
-**ChatGPT** · 2025-06-07 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-06-07-updates-to-advanced-voice-mode-for-paid-users-55969446|Updates to Advanced Voice Mode for paid users]]
+**ChatGPT** · 2025-06-07 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-advanced-voice-mode-for-paid-users) · from [[Releases/ChatGPT/chatgpt-2025-06-07-updates-to-advanced-voice-mode-for-paid-users-55969446|Updates to Advanced Voice Mode for paid users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > In testing, we've observed that this update may occasionally cause minor decreases in audio quality, including unexpected variations in tone and pitch. These issues are more noticeable with certain voice options. We expect to improve audio consistency over time.Additionally, rare hallucinations in Voice Mode persist with this update, resulting in unintended sounds resembling ads, gibberish, or background music. We are actively investigating these issues and working toward a solution.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-advanced-voice-mode-for-paid-users
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -98,5 +98,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-07-ca0630&body=Card%3A%20Changes%2FChatGPT%2F2025-06-07-in-testing-we-ve-observed-that-this-update-may-occasionally-cause-minor-decrease-ca0630.md%0ACard%20ID%3A%20chatgpt-2025-06-07-ca0630%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-07-ca0630&body=Card%3A%20Changes%2FChatGPT%2F2025-06-07-in-testing-we-ve-observed-that-this-update-may-occasionally-cause-minor-decrease-ca0630.md%0ACard%20ID%3A%20chatgpt-2025-06-07-ca0630%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23updates-to-advanced-voice-mode-for-paid-users%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

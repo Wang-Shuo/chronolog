@@ -3,7 +3,7 @@ changes_count: 4
 date: '2026-08-25'
 description: 'ChatGPT release Scheduled tasks can respond to app updates and be shared
   on 2026-08-25: 4 tracked changes across Automation and Scheduling, Mobile and Desktop'
-machine_hash: 60fe55210c0f359558081907a59b7c7c395a47ba39ef5c1083a1bb8a9eb69a1b
+machine_hash: cbec74c87f2e4128fa33bb4d2d58618bbee83e43991102561e9052df00fba87c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     customize it, connect their own apps, and schedule an independent copy.Supported
     webhooks…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-can-respond-to-app-updates-and-be-shared
   title: Scheduled tasks can respond to app updates and be shared
   version: Scheduled tasks can respond to app updates and be shared
 release_id: chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4
 source_release: Scheduled tasks can respond to app updates and be shared
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-can-respond-to-app-updates-and-be-shared
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Scheduled tasks can respond to app updates and be shared
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Scheduled tasks can respond to app updates and be shared
 
-**ChatGPT** · 2026-08-25 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-08-25 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-can-respond-to-app-updates-and-be-shared)
 <!-- chronolog:end -->
 
 ## Summary

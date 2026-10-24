@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d53ede2f76b611e6e14b455ea99b3a83778dd7fec0d29f3ed8337062a6d2afd2
+machine_hash: 605a9c02688fbe4c992491fa523f1a55707ca9db1fb4a2bbb1e9b9d000a2d670
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ record:
       you can use the drawing tool in our mobile app.To get started, tap the photo
       button to capture or choose an image. You can also discuss multiple images or
       use our drawing tool to guide your assistant.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-voice-and-image-capabilities-in-chatgpt
   extractor_version: fallback-v5
   impact: incremental
   kind: launch
@@ -60,13 +60,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Image input will be generally available to Plus users on all platforms
 
-**ChatGPT** · 2023-09-25 · [[Themes/multimodal|Multimodal Input]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7|New voice and image capabilities in ChatGPT]]
+**ChatGPT** · 2023-09-25 · [[Themes/multimodal|Multimodal Input]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-voice-and-image-capabilities-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7|New voice and image capabilities in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > You can now show ChatGPT one or more images. Troubleshoot why your grill won’t start, explore the contents of your fridge to plan a meal, or analyze a complex graph for work-related data. To focus on a specific part of the image, you can use the drawing tool in our mobile app.To get started, tap the photo button to capture or choose an image. You can also discuss multiple images or use our drawing tool to guide your assistant.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-voice-and-image-capabilities-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -89,5 +89,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-09-25-e42bd6&body=Card%3A%20Changes%2FChatGPT%2F2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6.md%0ACard%20ID%3A%20chatgpt-2023-09-25-e42bd6%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-09-25-e42bd6&body=Card%3A%20Changes%2FChatGPT%2F2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6.md%0ACard%20ID%3A%20chatgpt-2023-09-25-e42bd6%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23new-voice-and-image-capabilities-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

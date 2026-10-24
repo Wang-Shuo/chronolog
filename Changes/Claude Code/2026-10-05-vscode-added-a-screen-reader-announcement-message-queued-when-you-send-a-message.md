@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6b7d041ed9e75619eeb740413de02791cd226bf29f1e0ea32418b240e394ffe1
+machine_hash: a141d832e482f008676bb2a08cf40e3d66a3f2e468ea11cb1b78c8d70d83f4e2
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,6 +91,7 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-2-accessibility-and-localization-changes-in-v2-1-288|2 Accessibility and Localization changes in v2.1.288]]
+- Later: 2026-10-20 · Claude Code · [[Changes/Claude Code/2026-10-20-vscode-added-a-running-start-up-hooks-spinner-status-with-a-screen-reader-announ|VSCode Added a "Running start-up hooks" spinner status, with a screen reader…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

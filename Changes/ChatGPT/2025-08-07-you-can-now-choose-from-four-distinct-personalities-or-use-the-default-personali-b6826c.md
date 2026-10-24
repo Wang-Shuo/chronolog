@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f937c1014f4d618805b46295174eb1b907ef97a055cfa44810287a9731387531
+machine_hash: a4ab465d2d0877ae73c18802c5185df9fdf77874e74a717e63c74c649b240663
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,7 +46,7 @@ record:
       back with calm clarity and light wit.Nerd – Playful and curious, explaining
       concepts clearly while celebrating knowledge and discovery.Please note that
       these personalities will not apply to Voice mode.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personalities
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -84,13 +84,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Personalities
 
-**ChatGPT** · 2025-08-07 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-08-07-personalities-0d95bb60|Personalities]]
+**ChatGPT** · 2025-08-07 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personalities) · from [[Releases/ChatGPT/chatgpt-2025-08-07-personalities-0d95bb60|Personalities]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > You can now choose from four distinct personalities or use the Default personality in your Customize ChatGPT settings. Default is the standard ChatGPT style: clear, neutral, and adaptable. The other personalities each have their own style and tone, described below.Cynic – Sarcastic and dry, delivers blunt help with wit. Often teases, but provides direct, practical answers when it matters.Robot – Precise, efficient, and emotionless, delivering direct answers without extra words.Listener – Warm and laid-back, reflecting your thoughts back with calm clarity and light wit.Nerd – Playful and curious, explaining concepts clearly while celebrating knowledge and discovery.Please note that these personalities will not apply to Voice mode.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personalities
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -111,5 +111,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-08-07-b6826c&body=Card%3A%20Changes%2FChatGPT%2F2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali-b6826c.md%0ACard%20ID%3A%20chatgpt-2025-08-07-b6826c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-08-07-b6826c&body=Card%3A%20Changes%2FChatGPT%2F2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali-b6826c.md%0ACard%20ID%3A%20chatgpt-2025-08-07-b6826c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23personalities%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

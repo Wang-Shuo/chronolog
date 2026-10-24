@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 86e197f417634f906b2df6dbd591a95b796079c9539c1ce3d0092b9b6169442a
+machine_hash: 0fe1925bc0d39202d779c483e6ee51bf63af54d7360fbdfb3fe65c9e1205859e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ record:
       custom instructions and upload files in your Projects, and any conversations
       in your Project share context with your uploaded files and custom instructions.
       Chats in Projects use GPT-4o and support the following features:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#projects-in-chatgpt
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -81,13 +81,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Projects provide a new way to group files and chats for personal use, simplifying…
 
-**ChatGPT** · 2024-12-13 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-12-13-projects-in-chatgpt-01b98e1c|Projects in ChatGPT]]
+**ChatGPT** · 2024-12-13 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#projects-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2024-12-13-projects-in-chatgpt-01b98e1c|Projects in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Projects provide a new way to group files and chats for personal use, simplifying the management of work that involves multiple chats. You can set custom instructions and upload files in your Projects, and any conversations in your Project share context with your uploaded files and custom instructions. Chats in Projects use GPT-4o and support the following features:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#projects-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -110,5 +110,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-12-13-325f0a&body=Card%3A%20Changes%2FChatGPT%2F2024-12-13-projects-provide-a-new-way-to-group-files-and-chats-for-personal-use-simplifying.md%0ACard%20ID%3A%20chatgpt-2024-12-13-325f0a%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-12-13-325f0a&body=Card%3A%20Changes%2FChatGPT%2F2024-12-13-projects-provide-a-new-way-to-group-files-and-chats-for-personal-use-simplifying.md%0ACard%20ID%3A%20chatgpt-2024-12-13-325f0a%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23projects-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

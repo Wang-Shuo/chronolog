@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f222e3a3ba2e78a9d3ba28643c0340eea913aba436c27c7abf321a61ec1a90d9
+machine_hash: 8709aeac1fd963aee522c1c1a386cf233c611b8dbf29eb73956147e547d32a5f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       It is also gradually rolling out to Plus and Pro users, except for those in
       the EEA, Switzerland, and the UK. Enterprise user access will be announced at
       a later date.See: Connect apps to ChatGPT deep research'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#dropbox-connector-for-deep-research-for-plusproteam
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -82,13 +82,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Dropbox connector for deep research for Plus/Pro/Team
 
-**ChatGPT** · 2025-05-15 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-05-15-dropbox-connector-for-deep-research-for-plus-pro-team-25e1576a|Dropbox connector for deep research for Plus/Pro/Team]]
+**ChatGPT** · 2025-05-15 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#dropbox-connector-for-deep-research-for-plusproteam) · from [[Releases/ChatGPT/chatgpt-2025-05-15-dropbox-connector-for-deep-research-for-plus-pro-team-25e1576a|Dropbox connector for deep research for Plus/Pro/Team]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT deep research with Dropbox is available globally to Team users. It is also gradually rolling out to Plus and Pro users, except for those in the EEA, Switzerland, and the UK. Enterprise user access will be announced at a later date.See: Connect apps to ChatGPT deep research
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#dropbox-connector-for-deep-research-for-plusproteam
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -109,5 +109,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-05-15-eaf8af&body=Card%3A%20Changes%2FChatGPT%2F2025-05-15-chatgpt-deep-research-with-dropbox-is-available-globally-to-team-users-it-is-als-eaf8af.md%0ACard%20ID%3A%20chatgpt-2025-05-15-eaf8af%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-05-15-eaf8af&body=Card%3A%20Changes%2FChatGPT%2F2025-05-15-chatgpt-deep-research-with-dropbox-is-available-globally-to-team-users-it-is-als-eaf8af.md%0ACard%20ID%3A%20chatgpt-2025-05-15-eaf8af%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23dropbox-connector-for-deep-research-for-plusproteam%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

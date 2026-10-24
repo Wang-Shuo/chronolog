@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-11-13'
 description: 'ChatGPT release Group chats in ChatGPT on 2025-11-13: 1 tracked change
   across Mobile and Desktop'
-machine_hash: f93f4fa3fd5502279de85b69346c71892c60eddffb2fb79053ac008bdccda436
+machine_hash: 44257c30c4e77fe81d52ea7306224c123dd7ef3306adb9e404750eb36db8e4e2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     together while ChatGPT helps search, summarize, generate content, and keep everyone
     on the same page.Group chats are starting to roll out on ChatGPT Web, iOS, and…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#group-chats-in-chatgpt
   title: Group chats in ChatGPT
   version: Group chats in ChatGPT
 release_id: chatgpt-2025-11-13-group-chats-in-chatgpt-8a8193ad
 source_release: Group chats in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#group-chats-in-chatgpt
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Group chats in ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Group chats in ChatGPT
 
-**ChatGPT** · 2025-11-13 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-11-13 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#group-chats-in-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

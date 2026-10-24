@@ -4,8 +4,8 @@ date: '2026-08-12'
 description: 'Claude Code · 2026-08-12 · Mobile and Desktop: Changed self-hosted runner
   Windows startup to require an explicit `--base-dir`; there is no default checkout…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1247
   relation: same-theme-chronology

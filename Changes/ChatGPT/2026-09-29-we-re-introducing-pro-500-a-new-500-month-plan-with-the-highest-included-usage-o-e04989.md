@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: c146eed2b928da610020adc2bbe47a916bd816ab48eedb9f0f4662b6f156f877
+machine_hash: c9019b9ef8c1e8dba66f2473557692286e70eacb962ef1967ab12de11457769e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,11 +37,11 @@ record:
       Select Ultrafast in the model picker to use a faster service tier for GPT-6
       Astra. It uses your included allowance first, then your credit balance after
       that allowance is used.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-new-pro-plan-with-astra-ultrafast
   - quote: Among Pro plans, Ultrafast is available only with Pro 500. Buying credits
       on Pro 100 or Pro 200 does not unlock it. Pro 500 subscriptions are available
       through ChatGPT on the web at launch.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-new-pro-plan-with-astra-ultrafast
   extractor_version: fallback-v5
   impact: significant
   kind: launch
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # A new Pro plan with Astra Ultrafast
 
-**ChatGPT** · 2026-09-29 · [[Themes/pricing-model|Pricing Model]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-29-a-new-pro-plan-with-astra-ultrafast-f0c84e90|A new Pro plan with Astra Ultrafast]]
+**ChatGPT** · 2026-09-29 · [[Themes/pricing-model|Pricing Model]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-new-pro-plan-with-astra-ultrafast) · from [[Releases/ChatGPT/chatgpt-2026-09-29-a-new-pro-plan-with-astra-ultrafast-f0c84e90|A new Pro plan with Astra Ultrafast]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -92,7 +92,7 @@ type: change
 >
 > Among Pro plans, Ultrafast is available only with Pro 500. Buying credits on Pro 100 or Pro 200 does not unlock it. Pro 500 subscriptions are available through ChatGPT on the web at launch.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-new-pro-plan-with-astra-ultrafast
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -113,5 +113,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-e04989&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o-e04989.md%0ACard%20ID%3A%20chatgpt-2026-09-29-e04989%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-e04989&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o-e04989.md%0ACard%20ID%3A%20chatgpt-2026-09-29-e04989%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23a-new-pro-plan-with-astra-ultrafast%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

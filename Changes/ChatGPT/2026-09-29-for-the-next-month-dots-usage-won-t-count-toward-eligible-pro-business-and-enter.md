@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 33aab54f8ae765c7df2f97727bc6e8526e1bd4b0c5ad5a45768cb8700116d323
+machine_hash: bdd70ca86dba69b996332f414d25bdc9f5a705d72aebd38f56159aeb203af837
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   - quote: For the next month, dots usage won’t count toward eligible Pro, Business,
       and Enterprise users’ plan allowances. After this period, we’ll share usage
       terms for each plan.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meet-your-dot
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -60,13 +60,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # For the next month, dots usage won’t count toward eligible Pro, Business…
 
-**ChatGPT** · 2026-09-29 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-29-meet-your-dot-8b9f914b|Meet your dot]]
+**ChatGPT** · 2026-09-29 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meet-your-dot) · from [[Releases/ChatGPT/chatgpt-2026-09-29-meet-your-dot-8b9f914b|Meet your dot]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > For the next month, dots usage won’t count toward eligible Pro, Business, and Enterprise users’ plan allowances. After this period, we’ll share usage terms for each plan.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meet-your-dot
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -89,5 +89,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-cf91af&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-for-the-next-month-dots-usage-won-t-count-toward-eligible-pro-business-and-enter.md%0ACard%20ID%3A%20chatgpt-2026-09-29-cf91af%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-cf91af&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-for-the-next-month-dots-usage-won-t-count-toward-eligible-pro-business-and-enter.md%0ACard%20ID%3A%20chatgpt-2026-09-29-cf91af%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23meet-your-dot%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

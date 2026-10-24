@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 92304ebd879c5a372ef6475fcb506ffe686044b35a931d8364bb5a278ae21e7b
+machine_hash: 9817f4077c2fb17e1c2f3d0f1a87654a4ef6f92b92fb6bf8065c4152e702a17b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       It is also gradually rolling out to Plus and Pro users, except for those in
       the EEA, Switzerland, and the UK. Enterprise user access will be announced at
       a later date.See: Connecting GitHub to ChatGPT deep research.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#github-connector-for-deep-research-for-plusproteam
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -78,13 +78,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # GitHub connector for deep research for Plus/Pro/Team
 
-**ChatGPT** · 2025-05-08 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-05-08-github-connector-for-deep-research-for-plus-pro-team-498e1135|GitHub connector for deep research for Plus/Pro/Team]]
+**ChatGPT** · 2025-05-08 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#github-connector-for-deep-research-for-plusproteam) · from [[Releases/ChatGPT/chatgpt-2025-05-08-github-connector-for-deep-research-for-plus-pro-team-498e1135|GitHub connector for deep research for Plus/Pro/Team]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT deep research with GitHub is available globally to Team users. It is also gradually rolling out to Plus and Pro users, except for those in the EEA, Switzerland, and the UK. Enterprise user access will be announced at a later date.See: Connecting GitHub to ChatGPT deep research.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#github-connector-for-deep-research-for-plusproteam
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -105,5 +105,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-05-08-ad2e25&body=Card%3A%20Changes%2FChatGPT%2F2025-05-08-chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also-ad2e25.md%0ACard%20ID%3A%20chatgpt-2025-05-08-ad2e25%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-05-08-ad2e25&body=Card%3A%20Changes%2FChatGPT%2F2025-05-08-chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also-ad2e25.md%0ACard%20ID%3A%20chatgpt-2025-05-08-ad2e25%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23github-connector-for-deep-research-for-plusproteam%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

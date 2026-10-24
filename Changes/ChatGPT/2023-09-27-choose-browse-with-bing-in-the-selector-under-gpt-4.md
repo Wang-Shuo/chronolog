@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9ebf4dc575d291d773a5cbcdaad64cd72c5b04ed5f19b374c490e840469105a4
+machine_hash: ce6c50f65b27813233cb7cd94c1eb1bedbf942ed409c5c24c19290b996936853
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
     with Bing in the selector under GPT-4.'
   evidence:
   - quote: Choose Browse with Bing in the selector under GPT-4.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-is-rolling-back-out-to-plus-users
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -66,13 +66,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Choose Browse with Bing in the selector under GPT-4
 
-**ChatGPT** · 2023-09-27 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-09-27-browsing-is-rolling-back-out-to-plus-users-73e98403|Browsing is rolling back out to Plus users]]
+**ChatGPT** · 2023-09-27 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-is-rolling-back-out-to-plus-users) · from [[Releases/ChatGPT/chatgpt-2023-09-27-browsing-is-rolling-back-out-to-plus-users-73e98403|Browsing is rolling back out to Plus users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Choose Browse with Bing in the selector under GPT-4.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-is-rolling-back-out-to-plus-users
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -95,5 +95,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-09-27-53ecfb&body=Card%3A%20Changes%2FChatGPT%2F2023-09-27-choose-browse-with-bing-in-the-selector-under-gpt-4.md%0ACard%20ID%3A%20chatgpt-2023-09-27-53ecfb%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-09-27-53ecfb&body=Card%3A%20Changes%2FChatGPT%2F2023-09-27-choose-browse-with-bing-in-the-selector-under-gpt-4.md%0ACard%20ID%3A%20chatgpt-2023-09-27-53ecfb%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23browsing-is-rolling-back-out-to-plus-users%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

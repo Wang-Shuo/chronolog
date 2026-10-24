@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3b4015ae7205679054244f248ed7ef539c644225e59de06e0496aa2097254b1d
+machine_hash: 0c5332f496a1f9794374d7ceb1fea3e0c4c6af8e82471aa022412be0b4bb4ad5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
   - quote: We’re rolling out new controls in temporary chat. You can now choose to
       personalize responses in a temporary chat with memory, plugins, and custom instructions
       from your regular chat settings. You can also choose to save a temporary chat.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-controls-in-temporary-chat
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -74,13 +74,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT rolls out new controls in temporary chat
 
-**ChatGPT** · 2026-08-27 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-27-more-controls-in-temporary-chat-5ca95d13|More controls in temporary chat]]
+**ChatGPT** · 2026-08-27 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-controls-in-temporary-chat) · from [[Releases/ChatGPT/chatgpt-2026-08-27-more-controls-in-temporary-chat-5ca95d13|More controls in temporary chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re rolling out new controls in temporary chat. You can now choose to personalize responses in a temporary chat with memory, plugins, and custom instructions from your regular chat settings. You can also choose to save a temporary chat.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-controls-in-temporary-chat
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -103,5 +103,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-27-bf6281&body=Card%3A%20Changes%2FChatGPT%2F2026-08-27-we-re-rolling-out-new-controls-in-temporary-chat-you-can-now-choose-to-personali.md%0ACard%20ID%3A%20chatgpt-2026-08-27-bf6281%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-27-bf6281&body=Card%3A%20Changes%2FChatGPT%2F2026-08-27-we-re-rolling-out-new-controls-in-temporary-chat-you-can-now-choose-to-personali.md%0ACard%20ID%3A%20chatgpt-2026-08-27-bf6281%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23more-controls-in-temporary-chat%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

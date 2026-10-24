@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 4fda885eda39921d275691ae0b8b0d0518bc4b1ca307749c89056e92ea67cdfa
+machine_hash: 0bc1ffb4bcef62e7213f2194813bfa59454ed44774eb39c9cd8b1b138b9b70e5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +40,7 @@ record:
       will be retired from ChatGPT on June 26, 2026 following a 30-day sunset period.
       These models are currently available to paid users only via model settings.
       These changes apply to ChatGPT only; there are no changes to the API.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-openai-o3-and-gpt-45
   extractor_version: fallback-v5
   impact: significant
   kind: policy
@@ -71,13 +71,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Retiring OpenAI o3 and GPT-4.5
 
-**ChatGPT** · 2026-05-28 · [[Themes/model-support|Model Support]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-05-28-retiring-openai-o3-and-gpt-4-5-bb3c534d|Retiring OpenAI o3 and GPT-4.5]]
+**ChatGPT** · 2026-05-28 · [[Themes/model-support|Model Support]] · Policy · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-openai-o3-and-gpt-45) · from [[Releases/ChatGPT/chatgpt-2026-05-28-retiring-openai-o3-and-gpt-4-5-bb3c534d|Retiring OpenAI o3 and GPT-4.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Today, we’re continuing to retire older models with limited usage in ChatGPT so we can better serve our newer, most capable models. OpenAI o3 will be retired from ChatGPT on August 26, 2026 following a 90-day sunset period, and GPT-4.5 will be retired from ChatGPT on June 26, 2026 following a 30-day sunset period. These models are currently available to paid users only via model settings. These changes apply to ChatGPT only; there are no changes to the API.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-openai-o3-and-gpt-45
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -98,5 +98,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-05-28-c12534&body=Card%3A%20Changes%2FChatGPT%2F2026-05-28-today-we-re-continuing-to-retire-older-models-with-limited-usage-in-chatgpt-so-w.md%0ACard%20ID%3A%20chatgpt-2026-05-28-c12534%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-05-28-c12534&body=Card%3A%20Changes%2FChatGPT%2F2026-05-28-today-we-re-continuing-to-retire-older-models-with-limited-usage-in-chatgpt-so-w.md%0ACard%20ID%3A%20chatgpt-2026-05-28-c12534%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23retiring-openai-o3-and-gpt-45%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

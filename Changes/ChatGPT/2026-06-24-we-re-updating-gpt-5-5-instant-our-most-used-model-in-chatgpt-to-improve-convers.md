@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4ecd5e81a4024faef23f1e668c481a6d8e13ee8e90472a5604839d33f1f1a320
+machine_hash: 7c44086bc50855773f6b60a4fbadf12c9f43e2b0cb6d4d219d6173272bbfc121
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,7 +58,7 @@ record:
       those elements are helpful.Overall, responses should feel more tasteful and
       cohesive. Formatting is less templated and more intentionally designed, with
       greater creativity alongside better restraint.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-update
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -98,13 +98,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # GPT-5.5 Instant Update
 
-**ChatGPT** · 2026-06-24 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-24-gpt-5-5-instant-update-6c17e30e|GPT-5.5 Instant Update]]
+**ChatGPT** · 2026-06-24 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-update) · from [[Releases/ChatGPT/chatgpt-2026-06-24-gpt-5-5-instant-update-6c17e30e|GPT-5.5 Instant Update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re updating GPT-5.5 Instant, our most-used model in ChatGPT, to improve conversational quality—especially when users are making a decision, asking for advice, planning something, researching options, or shopping.The model is better at identifying the underlying goal behind a question and carrying context across multiple turns. It also follows complex instructions more reliably: when a request includes several constraints or requirements, responses are more likely to address all of them and clearly explain why a recommendation is a good fit.When users add constraints, clarify what they mean, or push back on an answer, the model should adapt more effectively instead of repeating its original approach.Shopping and local business queries should also feel more useful. The model makes better use of location context to surface relevant nearby options and can bring together product recommendations, business information, and images more coherently when those elements are helpful.Overall, responses should feel more tasteful and cohesive. Formatting is less templated and more intentionally designed, with greater creativity alongside better restraint.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-update
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -125,5 +125,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-24-0f2a65&body=Card%3A%20Changes%2FChatGPT%2F2026-06-24-we-re-updating-gpt-5-5-instant-our-most-used-model-in-chatgpt-to-improve-convers.md%0ACard%20ID%3A%20chatgpt-2026-06-24-0f2a65%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-24-0f2a65&body=Card%3A%20Changes%2FChatGPT%2F2026-06-24-we-re-updating-gpt-5-5-instant-our-most-used-model-in-chatgpt-to-improve-convers.md%0ACard%20ID%3A%20chatgpt-2026-06-24-0f2a65%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23gpt-55-instant-update%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

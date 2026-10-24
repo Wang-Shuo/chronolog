@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 0569c0eeac11aafe15741969b2e1576f624ea7c30ce9dce57567e46a990ee1a6
+machine_hash: ddee5d503ead10720a02731b43a1526f965421aaf2e77cdbf2be6e0d3d7db1f5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -55,7 +55,7 @@ record:
       Extra High reasoning. The Pro reasoning option continues to use GPT-6 Astra
       and doesn’t support Intelligent UI. The models powering Work and Codex aren’t
       changing with this release.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-6-and-intelligent-ui-in-chatgpt
   extractor_version: fallback-v5
   impact: significant
   kind: launch
@@ -98,13 +98,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # GPT-6 and Intelligent UI in ChatGPT
 
-**ChatGPT** · 2026-10-07 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-10-07-gpt-6-and-intelligent-ui-in-chatgpt-43bd07f7|GPT-6 and Intelligent UI in ChatGPT]]
+**ChatGPT** · 2026-10-07 · [[Themes/model-support|Model Support]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-6-and-intelligent-ui-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-10-07-gpt-6-and-intelligent-ui-in-chatgpt-43bd07f7|GPT-6 and Intelligent UI in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re introducing GPT-6 with Intelligent UI in ChatGPT. ChatGPT can now combine text, visuals, and interactive elements to fit your question, from side-by-side comparisons and diagrams to tools you can use directly in the conversation, such as calculators, bill splitters, and games. It can choose the format automatically, and still use a simple text answer when that works best.GPT-6 can also begin answering while it continues to think or use tools, then add more findings without another prompt. You can start reading before the full answer is ready.The rollout starts globally today for Plus, Pro, Business, and Enterprise in the Chat tab, and expands to Free and Go starting tomorrow. Enterprise availability depends on workspace admin settings.Plus, Pro, Business, and Enterprise use GPT-6 Sol; Free and Go use GPT-6 Luna. Intelligent UI is available from Instant through Extra High reasoning. The Pro reasoning option continues to use GPT-6 Astra and doesn’t support Intelligent UI. The models powering Work and Codex aren’t changing with this release.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-6-and-intelligent-ui-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -125,5 +125,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-10-07-a7a761&body=Card%3A%20Changes%2FChatGPT%2F2026-10-07-we-re-introducing-gpt-6-with-intelligent-ui-in-chatgpt-chatgpt-can-now-combine-t.md%0ACard%20ID%3A%20chatgpt-2026-10-07-a7a761%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-10-07-a7a761&body=Card%3A%20Changes%2FChatGPT%2F2026-10-07-we-re-introducing-gpt-6-with-intelligent-ui-in-chatgpt-chatgpt-can-now-combine-t.md%0ACard%20ID%3A%20chatgpt-2026-10-07-a7a761%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23gpt-6-and-intelligent-ui-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9f4741871f0b057b7d0ed2ea8ae84fd98a27b8116d8eeb55d732c9084cd098f9
+machine_hash: 13193eec2cc9058c857cd1130ced3cc35e00754b88b5f2245416b8c9225e2de3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,7 +46,7 @@ record:
       to sift through past conversations.Learn more about ChatGPT Images in our ChatGPT
       Images FAQ.Available on Free, Go, Plus, Edu, and Pro plans. Business and Enterprise
       are coming soon!
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-on-web-and-mobile-ios-android
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -92,13 +92,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT Images on Web and Mobile (iOS & Android)
 
-**ChatGPT** · 2025-12-16 · [[Themes/image-generation|Image Generation]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-12-16-chatgpt-images-on-web-and-mobile-ios-android-bd6b2208|ChatGPT Images on Web and Mobile (iOS & Android)]]
+**ChatGPT** · 2025-12-16 · [[Themes/image-generation|Image Generation]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-on-web-and-mobile-ios-android) · from [[Releases/ChatGPT/chatgpt-2025-12-16-chatgpt-images-on-web-and-mobile-ios-android-bd6b2208|ChatGPT Images on Web and Mobile (iOS & Android)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’ve introduced a new and improved version of ChatGPT Images, powered by our best image generation model yet. With ChatGPT Images, precise instruction following and editing makes AI image creation not just more fun, but meaningfully more useful—from everyday edits to creative transformations.All images you create with ChatGPT are automatically saved under My images at https://chatgpt.com/images, giving you a single place to browse, revisit, and reuse your work without having to sift through past conversations.Learn more about ChatGPT Images in our ChatGPT Images FAQ.Available on Free, Go, Plus, Edu, and Pro plans. Business and Enterprise are coming soon!
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-on-web-and-mobile-ios-android
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -119,5 +119,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-12-16-a63d5c&body=Card%3A%20Changes%2FChatGPT%2F2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c.md%0ACard%20ID%3A%20chatgpt-2025-12-16-a63d5c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-12-16-a63d5c&body=Card%3A%20Changes%2FChatGPT%2F2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c.md%0ACard%20ID%3A%20chatgpt-2025-12-16-a63d5c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-images-on-web-and-mobile-ios-android%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

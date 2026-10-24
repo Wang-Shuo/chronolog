@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c5bfbc3daec106690ee6aadf658af44a720122a7790dc39709dcfda8fd939377
+machine_hash: 68951c16c0472447cf4f9d9689992099027d5d507955b9dd8e3b913950e9b112
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -27,7 +27,7 @@ record:
   description: 'ChatGPT — Introducing ChatGPT Plus: Turbo: optimized for speed (alpha)'
   evidence:
   - quote: 'Turbo: optimized for speed (alpha)'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-plus
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -52,13 +52,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Turbo: optimized for speed (alpha)
 
-**ChatGPT** · 2023-02-09 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524|Introducing ChatGPT Plus]]
+**ChatGPT** · 2023-02-09 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-plus) · from [[Releases/ChatGPT/chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524|Introducing ChatGPT Plus]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Turbo: optimized for speed (alpha)
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-plus
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -82,5 +82,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-02-09-b74e9d&body=Card%3A%20Changes%2FChatGPT%2F2023-02-09-turbo-optimized-for-speed-alpha.md%0ACard%20ID%3A%20chatgpt-2023-02-09-b74e9d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-02-09-b74e9d&body=Card%3A%20Changes%2FChatGPT%2F2023-02-09-turbo-optimized-for-speed-alpha.md%0ACard%20ID%3A%20chatgpt-2023-02-09-b74e9d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23introducing-chatgpt-plus%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

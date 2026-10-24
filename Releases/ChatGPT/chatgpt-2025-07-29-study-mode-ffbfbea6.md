@@ -3,7 +3,7 @@ changes_count: 4
 date: '2025-07-29'
 description: 'ChatGPT release Study Mode on 2025-07-29: 4 tracked changes across Learning
   Tools, Memory and Personalization, Mobile and Desktop'
-machine_hash: 56b906eba164767c782f1288418069aef45ea55f211803e8c435453a843caa36
+machine_hash: 1e4b2e3493cfb56c631a4ec60864eed44153e024e9f6fb2eda999bbe803d1b5e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     works with any model available in ChatGPT on iOS, Android, web, and desktop.Study
     mode is a new learning experience in ChatGPT designed to help you build a deeper…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#study-mode
   title: Study Mode
   version: Study Mode
 release_id: chatgpt-2025-07-29-study-mode-ffbfbea6
 source_release: Study Mode
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#study-mode
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Study Mode
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Study Mode
 
-**ChatGPT** · 2025-07-29 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-07-29 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#study-mode)
 <!-- chronolog:end -->
 
 ## Summary

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 92969a99bde7694ffab075e93f6cbde70b08566c90d16fbb6d87eb4ad88b7fa0
+machine_hash: 8fe53a03f2900f2fedad26c7425244b526e0c6febd448ebb79953b66df4e4b64
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   evidence:
   - quote: 'Edit messages with attachments: You can now edit messages that include
       attachments, so you can revise your prompt without starting over.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -63,13 +63,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Edit messages with attachments
 
-**ChatGPT** · 2026-06-08 · [[Themes/editor-experience|Editor Experience]] · iOS · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
+**ChatGPT** · 2026-06-08 · [[Themes/editor-experience|Editor Experience]] · iOS · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Edit messages with attachments: You can now edit messages that include attachments, so you can revise your prompt without starting over.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -100,5 +100,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-08-e93c53&body=Card%3A%20Changes%2FChatGPT%2F2026-06-08-edit-messages-with-attachments-you-can-now-edit-messages-that-include-attachment.md%0ACard%20ID%3A%20chatgpt-2026-06-08-e93c53%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-08-e93c53&body=Card%3A%20Changes%2FChatGPT%2F2026-06-08-edit-messages-with-attachments-you-can-now-edit-messages-that-include-attachment.md%0ACard%20ID%3A%20chatgpt-2026-06-08-e93c53%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-app-experience-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

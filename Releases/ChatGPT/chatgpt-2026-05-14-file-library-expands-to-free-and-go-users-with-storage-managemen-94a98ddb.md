@@ -3,7 +3,7 @@ changes_count: 2
 date: '2026-05-14'
 description: 'ChatGPT release File library expands to Free and Go users, with storage
   management on 2026-05-14: 2 tracked changes across Files and Data, Mobile and Desktop'
-machine_hash: 64d496731457f9362b7de80055830939f13c6a4aaa0a73c2a7fb03977e40dd05
+machine_hash: be29b4d1e1ace5da606b6411c9f8b03eac5fc046aa94fbef09cfa2403fcd9e9f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     browse saved files in Library, and ask ChatGPT about files you’ve used before,
     like…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-expands-to-free-and-go-users-with-storage-management
   title: File library expands to Free and Go users, with storage management
   version: File library expands to Free and Go users, with storage management
 release_id: chatgpt-2026-05-14-file-library-expands-to-free-and-go-users-with-storage-managemen-94a98ddb
 source_release: File library expands to Free and Go users, with storage management
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-expands-to-free-and-go-users-with-storage-management
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: File library expands to Free and Go users, with storage management
 <!-- chronolog:begin region="header" -->
 # ChatGPT · File library expands to Free and Go users, with storage management
 
-**ChatGPT** · 2026-05-14 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-05-14 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-expands-to-free-and-go-users-with-storage-management)
 <!-- chronolog:end -->
 
 ## Summary

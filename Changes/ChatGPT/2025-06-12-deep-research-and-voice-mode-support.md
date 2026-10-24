@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 77e16a322ea6415166ff0cab37ebb31d4b5bfde9f13d297974adb580afff526b
+machine_hash: b2f76e98aab1f1323272bbcb6846081ec738e9bb31c833b056a18b1cf20fceef
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
     voice mode support'
   evidence:
   - quote: Deep research and voice mode support
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -68,13 +68,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Deep research and voice mode support
 
-**ChatGPT** · 2025-06-12 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8|Adding More Capabilities to Projects]]
+**ChatGPT** · 2025-06-12 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects) · from [[Releases/ChatGPT/chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8|Adding More Capabilities to Projects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Deep research and voice mode support
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-more-capabilities-to-projects
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -101,5 +101,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-12-e6eb10&body=Card%3A%20Changes%2FChatGPT%2F2025-06-12-deep-research-and-voice-mode-support.md%0ACard%20ID%3A%20chatgpt-2025-06-12-e6eb10%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-12-e6eb10&body=Card%3A%20Changes%2FChatGPT%2F2025-06-12-deep-research-and-voice-mode-support.md%0ACard%20ID%3A%20chatgpt-2025-06-12-e6eb10%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23adding-more-capabilities-to-projects%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

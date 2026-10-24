@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-09-29'
 description: 'ChatGPT release A new Pro plan with Astra Ultrafast on 2026-09-29: 1
   tracked change across Pricing Model'
-machine_hash: ec67b19a9eee2b02c51cdaad27afd7f80420b46ced2aa5f87594f2dd2f689268
+machine_hash: 34b496671eefb797a7fd49dea94b7b7ad6e43360761d01483b36cde4a7b96613
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     GPT-6 Astra. It uses your included allowance first, then your credit balance after
     that…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-new-pro-plan-with-astra-ultrafast
   title: A new Pro plan with Astra Ultrafast
   version: A new Pro plan with Astra Ultrafast
 release_id: chatgpt-2026-09-29-a-new-pro-plan-with-astra-ultrafast-f0c84e90
 source_release: A new Pro plan with Astra Ultrafast
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-new-pro-plan-with-astra-ultrafast
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: A new Pro plan with Astra Ultrafast
 <!-- chronolog:begin region="header" -->
 # ChatGPT · A new Pro plan with Astra Ultrafast
 
-**ChatGPT** · 2026-09-29 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-09-29 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-new-pro-plan-with-astra-ultrafast)
 <!-- chronolog:end -->
 
 ## Summary

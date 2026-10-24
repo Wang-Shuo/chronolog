@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e9479c0f3b26b7b7d93f99dc7441b026f604b6daf8283e5f754558cac0bfaca0
+machine_hash: dffcb05de04f79760e28d7ef678a5b3ef8df451f2994defba32eed8a0918fd21
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
   - quote: We’ve upgraded ChatGPT search for all users to provide even more comprehensive,
       up-to-date responses. In testing, we found users preferred these search improvements
       over our previous search experience.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-the-chatgpt-search-response-quality
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -63,13 +63,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # We’ve upgraded ChatGPT search for all users to provide even more comprehensive…
 
-**ChatGPT** · 2025-06-13 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464|Improvements to the ChatGPT search response quality]]
+**ChatGPT** · 2025-06-13 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-the-chatgpt-search-response-quality) · from [[Releases/ChatGPT/chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464|Improvements to the ChatGPT search response quality]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’ve upgraded ChatGPT search for all users to provide even more comprehensive, up-to-date responses. In testing, we found users preferred these search improvements over our previous search experience.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-the-chatgpt-search-response-quality
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -94,5 +94,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-13-2cebee&body=Card%3A%20Changes%2FChatGPT%2F2025-06-13-we-ve-upgraded-chatgpt-search-for-all-users-to-provide-even-more-comprehensive-u.md%0ACard%20ID%3A%20chatgpt-2025-06-13-2cebee%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-13-2cebee&body=Card%3A%20Changes%2FChatGPT%2F2025-06-13-we-ve-upgraded-chatgpt-search-for-all-users-to-provide-even-more-comprehensive-u.md%0ACard%20ID%3A%20chatgpt-2025-06-13-2cebee%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23improvements-to-the-chatgpt-search-response-quality%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 06bf09005695be640a78166ac9e9e3f53a4eae36ca5a632d874b64e74a8f5e1f
+machine_hash: 77f1f012c2d2ccb06bbdec38b59b967168480ce3dea3f9624d16c6d5f1691057
 product: claude-code
 product_name: Claude Code
 record:
@@ -109,6 +109,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-changed-exit-to-force-kill-background-commands-still-running-1-5-seconds-after-b|Changed exit to force-kill background commands still running 1.5 seconds after being…]]
+- Later: 2026-10-15 · Claude Code · [[Changes/Claude Code/2026-10-15-2-interface-experience-changes-in-v2-1-301|2 Interface Experience changes in v2.1.301]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

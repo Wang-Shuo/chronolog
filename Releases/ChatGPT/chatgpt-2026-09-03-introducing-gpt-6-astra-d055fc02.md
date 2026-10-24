@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-09-03'
 description: 'ChatGPT release Introducing GPT-6 Astra on 2026-09-03: 1 tracked change
   across Model Support'
-machine_hash: 3e2096cb9c725227c0c39d55d08f93cd790b6f531cf85c3fa3655814cfa923be
+machine_hash: 0c278404f2fcaaa9b6d299ae9c58f337c0c4707c48efcc3ee94c567eb92ab4e0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     spreadsheets, and presentations that follow your templates and instructions, and
     adapt when you add requirements or change direction.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-6-astra
   title: Introducing GPT-6 Astra
   version: Introducing GPT-6 Astra
 release_id: chatgpt-2026-09-03-introducing-gpt-6-astra-d055fc02
 source_release: Introducing GPT-6 Astra
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-6-astra
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Introducing GPT-6 Astra
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Introducing GPT-6 Astra
 
-**ChatGPT** · 2026-09-03 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-09-03 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-6-astra)
 <!-- chronolog:end -->
 
 ## Summary

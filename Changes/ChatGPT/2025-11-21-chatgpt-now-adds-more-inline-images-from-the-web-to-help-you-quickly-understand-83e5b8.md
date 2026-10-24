@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bcd2669641197a5aee98ef8d26d24cf7621f8db88de0e9b7597d515ef7a4b12a
+machine_hash: 57c5c173f8bea01cf53031ce5c869404421310fd28f6801e63b7787d6cf79292
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,7 +38,7 @@ record:
       of the images to see them in original dimensions and with the source attribution.These
       improvements are gradually rolling out globally across all ChatGPT plans, on
       web, iOS, and Android for responses using GPT 5.1.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-images-in-answers
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -79,13 +79,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # More images in answers
 
-**ChatGPT** · 2025-11-21 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-11-21-more-images-in-answers-f12c1477|More images in answers]]
+**ChatGPT** · 2025-11-21 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-images-in-answers) · from [[Releases/ChatGPT/chatgpt-2025-11-21-more-images-in-answers-f12c1477|More images in answers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > ChatGPT now adds more inline images from the web to help you quickly understand topics like well-known people, places, and products. When visuals can add clarity, you’ll see images placed beside the relevant paragraph. You can click on any of the images to see them in original dimensions and with the source attribution.These improvements are gradually rolling out globally across all ChatGPT plans, on web, iOS, and Android for responses using GPT 5.1.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-images-in-answers
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -106,5 +106,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-11-21-83e5b8&body=Card%3A%20Changes%2FChatGPT%2F2025-11-21-chatgpt-now-adds-more-inline-images-from-the-web-to-help-you-quickly-understand-83e5b8.md%0ACard%20ID%3A%20chatgpt-2025-11-21-83e5b8%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-11-21-83e5b8&body=Card%3A%20Changes%2FChatGPT%2F2025-11-21-chatgpt-now-adds-more-inline-images-from-the-web-to-help-you-quickly-understand-83e5b8.md%0ACard%20ID%3A%20chatgpt-2025-11-21-83e5b8%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23more-images-in-answers%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

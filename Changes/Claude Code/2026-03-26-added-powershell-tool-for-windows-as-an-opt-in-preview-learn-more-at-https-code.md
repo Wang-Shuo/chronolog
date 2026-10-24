@@ -4,8 +4,8 @@ date: '2026-03-26'
 description: 'Claude Code · 2026-03-26 · Mobile and Desktop: Added PowerShell tool
   for Windows as an opt-in preview. Learn more at…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1108
   relation: same-theme-chronology

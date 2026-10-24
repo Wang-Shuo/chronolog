@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b8448294dcd77e7fac4223a3fc06b71a99904811f275abd285810ddfe1e1882f
+machine_hash: 784daa8d076594c21fbc47010bd061214734fae08ec4db78096ac04d08ade32f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +40,7 @@ record:
       and Liechtenstein, over the next week. Video and screen share are subject to
       daily usage limits for all plans, and image uploads are subject to ChatGPT vision
       message limits.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#santa-voice-and-video-and-screen-share-in-voice-chats
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -90,13 +90,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Video and screenshare
 
-**ChatGPT** · 2024-12-12 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d|Santa Voice and Video and Screen Share in Voice Chats]]
+**ChatGPT** · 2024-12-12 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#santa-voice-and-video-and-screen-share-in-voice-chats) · from [[Releases/ChatGPT/chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d|Santa Voice and Video and Screen Share in Voice Chats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Video and screenshare: In our latest mobile apps, we are starting to roll out real-time video, screen share, and image upload capabilities in advanced voice. We expect to complete this rollout to all Team and most Plus and Pro users, except for those in the European Union, Switzerland, Iceland, Norway, and Liechtenstein, over the next week. Video and screen share are subject to daily usage limits for all plans, and image uploads are subject to ChatGPT vision message limits.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#santa-voice-and-video-and-screen-share-in-voice-chats
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -120,5 +120,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-12-12-176239&body=Card%3A%20Changes%2FChatGPT%2F2024-12-12-video-and-screenshare-in-our-latest-mobile-apps-we-are-starting-to-roll-out-real.md%0ACard%20ID%3A%20chatgpt-2024-12-12-176239%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2024-12-12-176239&body=Card%3A%20Changes%2FChatGPT%2F2024-12-12-video-and-screenshare-in-our-latest-mobile-apps-we-are-starting-to-roll-out-real.md%0ACard%20ID%3A%20chatgpt-2024-12-12-176239%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23santa-voice-and-video-and-screen-share-in-voice-chats%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

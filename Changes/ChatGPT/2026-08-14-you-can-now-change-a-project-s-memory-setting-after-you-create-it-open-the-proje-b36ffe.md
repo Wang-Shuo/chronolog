@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0352af4e6fbcf051cf8f9266ae07de8263e972dac6419836bd495c09892daa94
+machine_hash: 34f07a3c0f6ac9bb39f85805a71af6b39dea1d72c8fc6f5d4036c28e43b0dc72
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,16 +32,16 @@ record:
   - quote: You can now change a project’s memory setting after you create it. Open
       the project, select the three-dot menu, choose Project settings, and select
       Default memory or Project-only memory under Memory.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#edit-memory-settings-for-existing-projects
   - quote: With project-only memory, ChatGPT can use conversations from the same project
       for context, but it won’t reference memories or conversations from outside the
       project. Information from the project is also kept out of memory used in chats
       outside the project.Changes may take a few hours to take effect.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#edit-memory-settings-for-existing-projects
   - quote: This update is available on all ChatGPT plans. Shared projects continue
       to use project-only memory and cannot be switched to default memory. ChatGPT
       Work is not available in projects using project-only memory.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#edit-memory-settings-for-existing-projects
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Edit memory settings for existing projects
 
-**ChatGPT** · 2026-08-14 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-14-edit-memory-settings-for-existing-projects-db366858|Edit memory settings for existing projects]]
+**ChatGPT** · 2026-08-14 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#edit-memory-settings-for-existing-projects) · from [[Releases/ChatGPT/chatgpt-2026-08-14-edit-memory-settings-for-existing-projects-db366858|Edit memory settings for existing projects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -89,7 +89,7 @@ type: change
 >
 > This update is available on all ChatGPT plans. Shared projects continue to use project-only memory and cannot be switched to default memory. ChatGPT Work is not available in projects using project-only memory.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#edit-memory-settings-for-existing-projects
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -110,5 +110,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-14-b36ffe&body=Card%3A%20Changes%2FChatGPT%2F2026-08-14-you-can-now-change-a-project-s-memory-setting-after-you-create-it-open-the-proje-b36ffe.md%0ACard%20ID%3A%20chatgpt-2026-08-14-b36ffe%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-14-b36ffe&body=Card%3A%20Changes%2FChatGPT%2F2026-08-14-you-can-now-change-a-project-s-memory-setting-after-you-create-it-open-the-proje-b36ffe.md%0ACard%20ID%3A%20chatgpt-2026-08-14-b36ffe%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23edit-memory-settings-for-existing-projects%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-09-03'
 description: 'ChatGPT release Zendesk & OneNote Plugins in ChatGPT and Codex Beta
   on 2026-09-03: 1 tracked change across Apps and Integrations'
-machine_hash: 4243000099fb20e5d1d07746b2f26dda84ff45c6a5efa93c9267aadcc5e07665
+machine_hash: 170c3ce9414142140a1fbe2da4a904323777684bc216446ebed75a4512738135
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     relevant knowledge, and prepare replies in ChatGPT and Codex. Members connect
     their own Zendesk accounts to work with the support information they can access.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#zendesk-onenote-plugins-in-chatgpt-and-codex-beta
   title: Zendesk & OneNote Plugins in ChatGPT and Codex [Beta]
   version: Zendesk & OneNote Plugins in ChatGPT and Codex [Beta]
 release_id: chatgpt-2026-09-03-zendesk-onenote-plugins-in-chatgpt-and-codex-beta-d31462ff
 source_release: Zendesk & OneNote Plugins in ChatGPT and Codex [Beta]
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#zendesk-onenote-plugins-in-chatgpt-and-codex-beta
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Zendesk & OneNote Plugins in ChatGPT and Codex [Beta]
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Zendesk & OneNote Plugins in ChatGPT and Codex [Beta]
 
-**ChatGPT** · 2026-09-03 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-09-03 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#zendesk-onenote-plugins-in-chatgpt-and-codex-beta)
 <!-- chronolog:end -->
 
 ## Summary

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 64e179d7c23c2fcf345ec4db987c11dfe5e93af3ea0f34f578ab1687f0764bf9
+machine_hash: 08d7627bb03d92423faed0ee401cef91eac64eacd77f14bf0f7ab822861e9f47
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   evidence:
   - quote: You can change your Health permissions anytime in Settings → Plugins →
       Health. Learn more about how we keep Health data private and secure.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-permissions-for-new-health-connections
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -59,13 +59,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # You can change your Health permissions anytime in Settings → Plugins → Health
 
-**ChatGPT** · 2026-09-14 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7|Updated permissions for new Health connections]]
+**ChatGPT** · 2026-09-14 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-permissions-for-new-health-connections) · from [[Releases/ChatGPT/chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7|Updated permissions for new Health connections]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > You can change your Health permissions anytime in Settings → Plugins → Health. Learn more about how we keep Health data private and secure.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-permissions-for-new-health-connections
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -89,5 +89,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-14-d001f0&body=Card%3A%20Changes%2FChatGPT%2F2026-09-14-you-can-change-your-health-permissions-anytime-in-settings-plugins-health-learn.md%0ACard%20ID%3A%20chatgpt-2026-09-14-d001f0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-14-d001f0&body=Card%3A%20Changes%2FChatGPT%2F2026-09-14-you-can-change-your-health-permissions-anytime-in-settings-plugins-health-learn.md%0ACard%20ID%3A%20chatgpt-2026-09-14-d001f0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23updated-permissions-for-new-health-connections%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

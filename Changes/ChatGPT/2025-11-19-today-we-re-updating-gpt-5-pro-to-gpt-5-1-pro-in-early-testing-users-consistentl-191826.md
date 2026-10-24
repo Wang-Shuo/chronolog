@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 49d3be1e97d63e9105b438d65ef94703f240ba9e9335bbafa0d86dabfc442bee
+machine_hash: a8d435de687eb8436c096ec1bc2bfad47882813902c6c1af9248f6a201fc20f9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,7 +42,7 @@ record:
       Pro is rolling out today for all ChatGPT Pro users and is available in the model
       picker. GPT-5 Pro will remain available as a legacy model for 90 days before
       being retired.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-51-pro-clearer-more-capable-answers-for-complex-work
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -83,13 +83,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # GPT-5.1 Pro: Clearer, more capable answers for complex work
 
-**ChatGPT** · 2025-11-19 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-11-19-gpt-5-1-pro-clearer-more-capable-answers-for-complex-work-78316657|GPT-5.1 Pro: Clearer, more capable answers for complex work]]
+**ChatGPT** · 2025-11-19 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-51-pro-clearer-more-capable-answers-for-complex-work) · from [[Releases/ChatGPT/chatgpt-2025-11-19-gpt-5-1-pro-clearer-more-capable-answers-for-complex-work-78316657|GPT-5.1 Pro: Clearer, more capable answers for complex work]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Today we’re updating GPT-5 Pro to GPT-5.1 Pro. In early testing, users consistently preferred GPT-5.1 Pro over GPT-5 Pro, rating it especially highly for writing help, data science, and business questions. Testers highlighted the model’s improved clarity, relevance, and structure in its responses.GPT-5.1 Pro is rolling out today for all ChatGPT Pro users and is available in the model picker. GPT-5 Pro will remain available as a legacy model for 90 days before being retired.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-51-pro-clearer-more-capable-answers-for-complex-work
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -110,5 +110,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-11-19-191826&body=Card%3A%20Changes%2FChatGPT%2F2025-11-19-today-we-re-updating-gpt-5-pro-to-gpt-5-1-pro-in-early-testing-users-consistentl-191826.md%0ACard%20ID%3A%20chatgpt-2025-11-19-191826%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-11-19-191826&body=Card%3A%20Changes%2FChatGPT%2F2025-11-19-today-we-re-updating-gpt-5-pro-to-gpt-5-1-pro-in-early-testing-users-consistentl-191826.md%0ACard%20ID%3A%20chatgpt-2025-11-19-191826%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23gpt-51-pro-clearer-more-capable-answers-for-complex-work%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

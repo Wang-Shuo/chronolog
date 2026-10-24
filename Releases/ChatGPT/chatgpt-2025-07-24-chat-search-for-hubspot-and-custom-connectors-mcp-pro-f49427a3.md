@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-07-24'
 description: 'ChatGPT release Chat search for HubSpot and custom connectors (MCP)
   (Pro) on 2025-07-24: 1 tracked change across Apps and Integrations'
-machine_hash: 4c4a4b27d306132ab4a6b4bec6a2e1993b77679d03381d84b9fd3a370aadb2ae
+machine_hash: feb92cf4f49afe083993547ab173635d42c9bcac806d4dee9d33258cb12f934d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     located outside of the EEA, Switzerland, and the UK.Learn more about connectors,
     as well as how to create a custom connector using MCP.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chat-search-for-hubspot-and-custom-connectors-mcp-pro
   title: Chat search for HubSpot and custom connectors (MCP) (Pro)
   version: Chat search for HubSpot and custom connectors (MCP) (Pro)
 release_id: chatgpt-2025-07-24-chat-search-for-hubspot-and-custom-connectors-mcp-pro-f49427a3
 source_release: Chat search for HubSpot and custom connectors (MCP) (Pro)
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chat-search-for-hubspot-and-custom-connectors-mcp-pro
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Chat search for HubSpot and custom connectors (MCP) (Pro)
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Chat search for HubSpot and custom connectors (MCP) (Pro)
 
-**ChatGPT** · 2025-07-24 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-07-24 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chat-search-for-hubspot-and-custom-connectors-mcp-pro)
 <!-- chronolog:end -->
 
 ## Summary

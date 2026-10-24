@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f8845c1ff593e9f20264d1aeebf1cd2015b2e4b93c983f7fe8595ef3cf72a37a
+machine_hash: 79652e689285d87ed3b33851a257c09148d010c5d42e3fa6d73f8c2488cdcb0d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
     Edu): Combines internal + web sources for synthesis'
   evidence:
   - quote: Combines internal + web sources for synthesis
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connectors-in-beta-for-deep-research-plus-pro-team-enterprise-edu
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -59,13 +59,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Combines internal + web sources for synthesis
 
-**ChatGPT** · 2025-06-04 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-06-04-connectors-in-beta-for-deep-research-plus-pro-team-enterprise-ed-6bb21f0f|Connectors in beta for deep research (Plus, Pro, Team, Enterprise, Edu)]]
+**ChatGPT** · 2025-06-04 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connectors-in-beta-for-deep-research-plus-pro-team-enterprise-edu) · from [[Releases/ChatGPT/chatgpt-2025-06-04-connectors-in-beta-for-deep-research-plus-pro-team-enterprise-ed-6bb21f0f|Connectors in beta for deep research (Plus, Pro, Team, Enterprise, Edu)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Combines internal + web sources for synthesis
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connectors-in-beta-for-deep-research-plus-pro-team-enterprise-edu
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -89,5 +89,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-04-74d0d0&body=Card%3A%20Changes%2FChatGPT%2F2025-06-04-combines-internal-web-sources-for-synthesis.md%0ACard%20ID%3A%20chatgpt-2025-06-04-74d0d0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-04-74d0d0&body=Card%3A%20Changes%2FChatGPT%2F2025-06-04-combines-internal-web-sources-for-synthesis.md%0ACard%20ID%3A%20chatgpt-2025-06-04-74d0d0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23connectors-in-beta-for-deep-research-plus-pro-team-enterprise-edu%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

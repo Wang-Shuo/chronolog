@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 7c1e9a4ca1072ffa3ca0d31d036c2b2e84319d307eb511420fb3378c3fda55c0
+machine_hash: 4dd03ca72640e54946662068f4b576b953b239539077c6e3071b99403fa3354b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   evidence:
   - quote: You can upgrade, switch, or cancel your plan from Settings > My Plan or
       from the Pricing page.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options
   extractor_version: fallback-v5
   impact: paradigm-shift
   kind: pricing
@@ -60,13 +60,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # You can upgrade, switch, or cancel your plan from Settings > My Plan or…
 
-**ChatGPT** · 2026-04-09 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|New Pro plan options]]
+**ChatGPT** · 2026-04-09 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options) · from [[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|New Pro plan options]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > You can upgrade, switch, or cancel your plan from Settings > My Plan or from the Pricing page.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -92,5 +92,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-04-09-c070f4&body=Card%3A%20Changes%2FChatGPT%2F2026-04-09-you-can-upgrade-switch-or-cancel-your-plan-from-settings-my-plan-or-from-the-pri.md%0ACard%20ID%3A%20chatgpt-2026-04-09-c070f4%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-04-09-c070f4&body=Card%3A%20Changes%2FChatGPT%2F2026-04-09-you-can-upgrade-switch-or-cancel-your-plan-from-settings-my-plan-or-from-the-pri.md%0ACard%20ID%3A%20chatgpt-2026-04-09-c070f4%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23new-pro-plan-options%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

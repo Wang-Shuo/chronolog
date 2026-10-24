@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d371940e52b8378ccadcdbe3b1a27f5c1271ee34ee183fe33c56ae2bba58570d
+machine_hash: 5de1162f767429ba1fc6efa7f050c7bc8d1954630cbfb937550e97da09067c87
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
   - quote: Pro users can now connect to Canva and Notion for both chat search and
       deep research.Note this feature is currently limited to users located outside
       of the EEA, Switzerland, and the UK.Learn more about connectors.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canva-and-notion-connectors-pro
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -72,13 +72,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Canva and Notion connectors (Pro)
 
-**ChatGPT** · 2025-07-24 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-07-24-canva-and-notion-connectors-pro-0091bf22|Canva and Notion connectors (Pro)]]
+**ChatGPT** · 2025-07-24 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canva-and-notion-connectors-pro) · from [[Releases/ChatGPT/chatgpt-2025-07-24-canva-and-notion-connectors-pro-0091bf22|Canva and Notion connectors (Pro)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Pro users can now connect to Canva and Notion for both chat search and deep research.Note this feature is currently limited to users located outside of the EEA, Switzerland, and the UK.Learn more about connectors.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#canva-and-notion-connectors-pro
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -99,5 +99,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-07-24-bd2af2&body=Card%3A%20Changes%2FChatGPT%2F2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2.md%0ACard%20ID%3A%20chatgpt-2025-07-24-bd2af2%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-07-24-bd2af2&body=Card%3A%20Changes%2FChatGPT%2F2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2.md%0ACard%20ID%3A%20chatgpt-2025-07-24-bd2af2%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23canva-and-notion-connectors-pro%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

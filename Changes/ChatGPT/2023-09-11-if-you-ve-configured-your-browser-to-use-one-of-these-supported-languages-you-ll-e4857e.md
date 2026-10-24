@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bb765dc1365aaede65aad1956557e2796f3a4e4aa2c4d3b2159e66fd713b79e2
+machine_hash: ca1c96b22b199d91b264a485a1c8c2120d77a56d48e5a11e9df946bf2925fc9d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       You can deactivate this option at any time through the settings menu.This feature
       is in alpha, requires opting in, and currently can only be used on the web at
       chatgpt.com. Learn more here.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-language-support-alpha-on-web
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -68,13 +68,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # If you've configured your browser to use one of these supported languages, you'll…
 
-**ChatGPT** · 2023-09-11 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-09-11-chatgpt-language-support-alpha-on-web-2a9614e3|ChatGPT language support - Alpha on web]]
+**ChatGPT** · 2023-09-11 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-language-support-alpha-on-web) · from [[Releases/ChatGPT/chatgpt-2023-09-11-chatgpt-language-support-alpha-on-web-2a9614e3|ChatGPT language support - Alpha on web]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > If you've configured your browser to use one of these supported languages, you'll see a banner in ChatGPT that enables you to switch your language settings. You can deactivate this option at any time through the settings menu.This feature is in alpha, requires opting in, and currently can only be used on the web at chatgpt.com. Learn more here.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-language-support-alpha-on-web
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -97,5 +97,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-09-11-e4857e&body=Card%3A%20Changes%2FChatGPT%2F2023-09-11-if-you-ve-configured-your-browser-to-use-one-of-these-supported-languages-you-ll-e4857e.md%0ACard%20ID%3A%20chatgpt-2023-09-11-e4857e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-09-11-e4857e&body=Card%3A%20Changes%2FChatGPT%2F2023-09-11-if-you-ve-configured-your-browser-to-use-one-of-these-supported-languages-you-ll-e4857e.md%0ACard%20ID%3A%20chatgpt-2023-09-11-e4857e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-language-support-alpha-on-web%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

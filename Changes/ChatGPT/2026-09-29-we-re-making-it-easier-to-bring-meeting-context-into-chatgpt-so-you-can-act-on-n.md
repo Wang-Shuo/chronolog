@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 24183ecbdc90d21cc3b36925372dec8681e925b8c07571acd890b5f1d0ee7d49
+machine_hash: 9e5e7f72efc3801b79c644d907a36f80394df40201b9316896a29964835e9799
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       said in the meeting and saves personalized summaries with action items in ChatGPT
       Space. You can keep them private or share them with your team, then ask ChatGPT
       to update a project plan or draft a follow-up.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meetings-plugin
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -84,13 +84,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # We’re making it easier to bring meeting context into ChatGPT so you can act on next…
 
-**ChatGPT** · 2026-09-29 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-29-meetings-plugin-157dcc24|Meetings plugin]]
+**ChatGPT** · 2026-09-29 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meetings-plugin) · from [[Releases/ChatGPT/chatgpt-2026-09-29-meetings-plugin-157dcc24|Meetings plugin]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re making it easier to bring meeting context into ChatGPT so you can act on next steps faster. The Meetings plugin takes notes for you based on what’s said in the meeting and saves personalized summaries with action items in ChatGPT Space. You can keep them private or share them with your team, then ask ChatGPT to update a project plan or draft a follow-up.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meetings-plugin
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -113,5 +113,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-d6115b&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-we-re-making-it-easier-to-bring-meeting-context-into-chatgpt-so-you-can-act-on-n.md%0ACard%20ID%3A%20chatgpt-2026-09-29-d6115b%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-d6115b&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-we-re-making-it-easier-to-bring-meeting-context-into-chatgpt-so-you-can-act-on-n.md%0ACard%20ID%3A%20chatgpt-2026-09-29-d6115b%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23meetings-plugin%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

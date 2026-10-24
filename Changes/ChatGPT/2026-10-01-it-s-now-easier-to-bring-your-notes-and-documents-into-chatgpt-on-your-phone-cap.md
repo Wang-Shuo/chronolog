@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9497b012d66673de1b2b1dce33b5a9561b6ca4ce9acab214449b1b6d0fba5cb3
+machine_hash: 29499b7a72f4c8e4d8f99680033376cd1aa321812a945548e286e32fdc13b82b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
   - quote: It’s now easier to bring your notes and documents into ChatGPT on your
       phone. Capture multiple pages in a row, and ChatGPT automatically combines them
       into a single PDF, ready to upload to your chat.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scan-notes-and-documents-more-easily-with-chatgpt-camera
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -62,13 +62,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Scan notes and documents more easily with ChatGPT camera
 
-**ChatGPT** · 2026-10-01 · [[Themes/file-data|Files and Data]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-10-01-scan-notes-and-documents-more-easily-with-chatgpt-camera-29008b79|Scan notes and documents more easily with ChatGPT camera]]
+**ChatGPT** · 2026-10-01 · [[Themes/file-data|Files and Data]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scan-notes-and-documents-more-easily-with-chatgpt-camera) · from [[Releases/ChatGPT/chatgpt-2026-10-01-scan-notes-and-documents-more-easily-with-chatgpt-camera-29008b79|Scan notes and documents more easily with ChatGPT camera]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > It’s now easier to bring your notes and documents into ChatGPT on your phone. Capture multiple pages in a row, and ChatGPT automatically combines them into a single PDF, ready to upload to your chat.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scan-notes-and-documents-more-easily-with-chatgpt-camera
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -89,5 +89,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-10-01-8e727d&body=Card%3A%20Changes%2FChatGPT%2F2026-10-01-it-s-now-easier-to-bring-your-notes-and-documents-into-chatgpt-on-your-phone-cap.md%0ACard%20ID%3A%20chatgpt-2026-10-01-8e727d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-10-01-8e727d&body=Card%3A%20Changes%2FChatGPT%2F2026-10-01-it-s-now-easier-to-bring-your-notes-and-documents-into-chatgpt-on-your-phone-cap.md%0ACard%20ID%3A%20chatgpt-2026-10-01-8e727d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23scan-notes-and-documents-more-easily-with-chatgpt-camera%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

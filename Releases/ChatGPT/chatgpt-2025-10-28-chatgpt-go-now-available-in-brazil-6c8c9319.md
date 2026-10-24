@@ -3,7 +3,7 @@ changes_count: 3
 date: '2025-10-28'
 description: 'ChatGPT release ChatGPT Go now available in Brazil on 2025-10-28: 3
   tracked changes across Image Generation, Memory and Personalization, Pricing Model'
-machine_hash: fe71c3b843a3747e7935f7bf59f75ce50da5a460b19bea6c7e32fba60df9e93d
+machine_hash: 0c800e3583512cfc6604c4d7f6fb1bd9b50bb779d7b3f5a00d2131aa9e71f676
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
   source_summary: 'We''re launching ChatGPT Go, our low cost subscription plan, in
     Brazil. ChatGPT Go provides everything included in the Free plan, and:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-brazil
   title: ChatGPT Go now available in Brazil
   version: ChatGPT Go now available in Brazil
 release_id: chatgpt-2025-10-28-chatgpt-go-now-available-in-brazil-6c8c9319
 source_release: ChatGPT Go now available in Brazil
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-brazil
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: ChatGPT Go now available in Brazil
 <!-- chronolog:begin region="header" -->
 # ChatGPT Go now available in Brazil
 
-**ChatGPT** · 2025-10-28 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-10-28 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-brazil)
 <!-- chronolog:end -->
 
 ## Summary

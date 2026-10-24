@@ -5,8 +5,8 @@ description: 'Cursor · 2023-12-30 · Mobile and Desktop: Cursor is now based on
   Code 1.85.1, which, among other things, includes floating editor windows. Just drag
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 291
   relation: same-theme-chronology

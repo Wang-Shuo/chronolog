@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6bd55c4166a661ac352f02b3e2b33906c4731f31aa4bc4a7a0ae1f19a8e2ac3b
+machine_hash: d6404a4d53d0de0805802acc978c509f2624cc23df080bc2d6ce9b441ec16152
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,7 +41,7 @@ record:
       tone, relevance, and conversational flow. These are nuanced problems that don’t
       always show up in benchmarks, but shape whether ChatGPT feels helpful or frustrating.
       GPT‑5.3 Instant directly reflects user feedback in these areas.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-53-instant-update
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -70,13 +70,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # GPT-5.3 Instant Update
 
-**ChatGPT** · 2026-03-03 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-03-gpt-5-3-instant-update-a32de9bf|GPT-5.3 Instant Update]]
+**ChatGPT** · 2026-03-03 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-53-instant-update) · from [[Releases/ChatGPT/chatgpt-2026-03-03-gpt-5-3-instant-update-a32de9bf|GPT-5.3 Instant Update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > GPT‑5.3 Instant delivers more accurate answers, richer and better-contextualized results when searching the web, and reduces unnecessary dead ends, caveats, and overly declarative phrasing that can interrupt the flow of conversation.This update focuses on the parts of the ChatGPT experience people feel every day: tone, relevance, and conversational flow. These are nuanced problems that don’t always show up in benchmarks, but shape whether ChatGPT feels helpful or frustrating. GPT‑5.3 Instant directly reflects user feedback in these areas.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-53-instant-update
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -97,5 +97,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-03-74335e&body=Card%3A%20Changes%2FChatGPT%2F2026-03-03-gpt-5-3-instant-delivers-more-accurate-answers-richer-and-better-contextualized.md%0ACard%20ID%3A%20chatgpt-2026-03-03-74335e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-03-74335e&body=Card%3A%20Changes%2FChatGPT%2F2026-03-03-gpt-5-3-instant-delivers-more-accurate-answers-richer-and-better-contextualized.md%0ACard%20ID%3A%20chatgpt-2026-03-03-74335e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23gpt-53-instant-update%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

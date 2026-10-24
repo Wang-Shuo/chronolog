@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 049b8ab02bedd426fc26784af138318eb632f5119233c62c3fee9a787073e809
+machine_hash: 8acc82c9a6d7f7f37bf46409c3c868c4dc9c8d6be0994c155f22a3696391ab64
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,20 +35,20 @@ record:
   - quote: 'We’re updating the model picker to make it easier to choose the balance
       of speed and reasoning effort that works best for your task.The model picker
       now has the following simplified options:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#simplified-controls-in-the-model-picker
   - quote: On iOS and Android, you can find the picker at the top of the conversation.
       On web, it appears directly in the message composer.Users have the ability to
       decide whether Instant auto-switches to Medium for higher reasoning when required.
       You can turn this on or off in General > Settings.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#simplified-controls-in-the-model-picker
   - quote: 'What changed from the previous model picker: Thinking Standard is now
       Medium, Thinking Extended is now High, and Thinking Heavy is now Extra High.
       Pro Standard and Pro Extended remain available under Pro. Thinking Light is
       no longer available.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#simplified-controls-in-the-model-picker
   - quote: These model picker updates are rolling out to Plus and Pro users on web,
       iOS, and Android globally today.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#simplified-controls-in-the-model-picker
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # We’re updating the model picker to make it easier to choose the balance of speed…
 
-**ChatGPT** · 2026-06-10 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba|Simplified controls in the model picker]]
+**ChatGPT** · 2026-06-10 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#simplified-controls-in-the-model-picker) · from [[Releases/ChatGPT/chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba|Simplified controls in the model picker]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -105,7 +105,7 @@ type: change
 >
 > These model picker updates are rolling out to Plus and Pro users on web, iOS, and Android globally today.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#simplified-controls-in-the-model-picker
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -130,5 +130,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-10-b05795&body=Card%3A%20Changes%2FChatGPT%2F2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed-b05795.md%0ACard%20ID%3A%20chatgpt-2026-06-10-b05795%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-10-b05795&body=Card%3A%20Changes%2FChatGPT%2F2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed-b05795.md%0ACard%20ID%3A%20chatgpt-2026-06-10-b05795%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23simplified-controls-in-the-model-picker%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

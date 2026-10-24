@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 47b01e70ece526734b89a0bcb213e69c01f1e28c02d7e7fcaddd898d56c34ff6
+machine_hash: 12be725b7bd4743936dc494d85f04418d609d548524ff19ecdcab519675cb0a0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       ways we don't want, e.g. if a user specifically asks for a URL's full text,
       it may inadvertently fulfill this request. We are temporarily disabling Browse
       while we fix this.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-is-temporarily-disabled
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -63,13 +63,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Browsing is temporarily disabled
 
-**ChatGPT** · 2023-07-03 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-07-03-browsing-is-temporarily-disabled-aaf0005e|Browsing is temporarily disabled]]
+**ChatGPT** · 2023-07-03 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-is-temporarily-disabled) · from [[Releases/ChatGPT/chatgpt-2023-07-03-browsing-is-temporarily-disabled-aaf0005e|Browsing is temporarily disabled]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We've learned that the browsing beta can occasionally display content in ways we don't want, e.g. if a user specifically asks for a URL's full text, it may inadvertently fulfill this request. We are temporarily disabling Browse while we fix this.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-is-temporarily-disabled
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -90,5 +90,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-07-03-f27b70&body=Card%3A%20Changes%2FChatGPT%2F2023-07-03-we-ve-learned-that-the-browsing-beta-can-occasionally-display-content-in-ways-we.md%0ACard%20ID%3A%20chatgpt-2023-07-03-f27b70%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-07-03-f27b70&body=Card%3A%20Changes%2FChatGPT%2F2023-07-03-we-ve-learned-that-the-browsing-beta-can-occasionally-display-content-in-ways-we.md%0ACard%20ID%3A%20chatgpt-2023-07-03-f27b70%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23browsing-is-temporarily-disabled%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

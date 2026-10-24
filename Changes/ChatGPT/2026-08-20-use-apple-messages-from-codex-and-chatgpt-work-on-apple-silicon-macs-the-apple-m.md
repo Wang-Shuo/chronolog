@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ede0e9dd7e937d4bf4a25a684db8605ffdd9b75a93d8d2d1080f78703b691bdd
+machine_hash: ab037c5f89d1c9800e4f295d20a00fb569ebb369b2fe9513920a29143d0cfe26
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       SMS, and RCS conversations and prepare or send messages through Messages. By
       default, ChatGPT asks the user to approve the message and recipients before
       sending. Learn more about the Apple Messages plugin.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-and-chatgpt-feature-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -75,13 +75,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Use Apple Messages from Codex and ChatGPT Work
 
-**ChatGPT** · 2026-08-20 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|Codex and ChatGPT feature updates]]
+**ChatGPT** · 2026-08-20 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-and-chatgpt-feature-updates) · from [[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|Codex and ChatGPT feature updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Use Apple Messages from Codex and ChatGPT Work. On Apple silicon Macs, the Apple Messages plugin in the ChatGPT desktop app can read and search iMessage, SMS, and RCS conversations and prepare or send messages through Messages. By default, ChatGPT asks the user to approve the message and recipients before sending. Learn more about the Apple Messages plugin.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-and-chatgpt-feature-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -106,5 +106,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-20-96b57b&body=Card%3A%20Changes%2FChatGPT%2F2026-08-20-use-apple-messages-from-codex-and-chatgpt-work-on-apple-silicon-macs-the-apple-m.md%0ACard%20ID%3A%20chatgpt-2026-08-20-96b57b%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-20-96b57b&body=Card%3A%20Changes%2FChatGPT%2F2026-08-20-use-apple-messages-from-codex-and-chatgpt-work-on-apple-silicon-macs-the-apple-m.md%0ACard%20ID%3A%20chatgpt-2026-08-20-96b57b%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23codex-and-chatgpt-feature-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

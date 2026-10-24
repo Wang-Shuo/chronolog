@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d3073ae3abb9b04c2efcf6769160a8589dc18b7784600364185f7a5ed6de3936
+machine_hash: eb6c56b5f9feb9c31a18f44e7c213b7a31aceccfaa84350a77989242efc4f37c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   - quote: Dictate with fewer interruptions. If dictation fails because of a connection
       issue or timeout, ChatGPT automatically retries once, helping you finish recording
       without starting over.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -62,13 +62,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Dictate with fewer interruptions
 
-**ChatGPT** · 2026-08-07 · [[Themes/voice|Voice and Audio]] · iOS · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
+**ChatGPT** · 2026-08-07 · [[Themes/voice|Voice and Audio]] · iOS · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Dictate with fewer interruptions. If dictation fails because of a connection issue or timeout, ChatGPT automatically retries once, helping you finish recording without starting over.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -93,5 +93,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-07-ff2454&body=Card%3A%20Changes%2FChatGPT%2F2026-08-07-dictate-with-fewer-interruptions-if-dictation-fails-because-of-a-connection-issu.md%0ACard%20ID%3A%20chatgpt-2026-08-07-ff2454%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-07-ff2454&body=Card%3A%20Changes%2FChatGPT%2F2026-08-07-dictate-with-fewer-interruptions-if-dictation-fails-because-of-a-connection-issu.md%0ACard%20ID%3A%20chatgpt-2026-08-07-ff2454%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-app-experience-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

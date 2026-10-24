@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1fd7801fbc03175e344f50dd98df397b842e34759b77ee55b864fa157b85e280
+machine_hash: 544f3696ade2cc7f9156859db17667d03212b5dd3ae7c35d7c903320cdf9d144
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   evidence:
   - quote: Edit and review tasks in Pulse anytime after you create them. Please note
       that Pulse is only available in ChatGPT Pro.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#tasks-are-now-in-pulse
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -60,13 +60,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Edit and review tasks in Pulse anytime after you create them
 
-**ChatGPT** · 2025-12-17 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44|Tasks are now in Pulse]]
+**ChatGPT** · 2025-12-17 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#tasks-are-now-in-pulse) · from [[Releases/ChatGPT/chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44|Tasks are now in Pulse]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Edit and review tasks in Pulse anytime after you create them. Please note that Pulse is only available in ChatGPT Pro.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#tasks-are-now-in-pulse
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -89,5 +89,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-12-17-9f65ee&body=Card%3A%20Changes%2FChatGPT%2F2025-12-17-edit-and-review-tasks-in-pulse-anytime-after-you-create-them-please-note-that-pu.md%0ACard%20ID%3A%20chatgpt-2025-12-17-9f65ee%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-12-17-9f65ee&body=Card%3A%20Changes%2FChatGPT%2F2025-12-17-edit-and-review-tasks-in-pulse-anytime-after-you-create-them-please-note-that-pu.md%0ACard%20ID%3A%20chatgpt-2025-12-17-9f65ee%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23tasks-are-now-in-pulse%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 31e6fbe3c6ba2d7a75485b00c76be45684cda036e38ce179ee5e5904cf623e03
+machine_hash: 3faa24cd04bf4707b99e365db73c8904940cc27f284df71728bc6a8691b5c378
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,13 +35,13 @@ record:
       credit balance when it falls below the minimum balance you choose, using your
       default payment method on file to purchase only the amount needed to reach your
       target balance.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#auto-top-up-for-flexible-usage-credits
   - quote: 'You can manage auto top-up from Codex Settings → Usage Dashboard. Auto
       top-up applies to the same shared credit balance used across supported features
       like Codex and Sora, and if your balance is already below your selected minimum
       when you turn it on, a top-up may happen right away. Learn more: Using Credits
       for Flexible Usage in ChatGPT (Free/Go/Plus/Pro) & Sora.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#auto-top-up-for-flexible-usage-credits
   extractor_version: fallback-v5
   impact: incremental
   kind: pricing
@@ -71,7 +71,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Auto top-up for flexible usage credits
 
-**ChatGPT** · 2026-03-10 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-03-10-auto-top-up-for-flexible-usage-credits-462c6ddf|Auto top-up for flexible usage credits]]
+**ChatGPT** · 2026-03-10 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#auto-top-up-for-flexible-usage-credits) · from [[Releases/ChatGPT/chatgpt-2026-03-10-auto-top-up-for-flexible-usage-credits-462c6ddf|Auto top-up for flexible usage credits]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -79,7 +79,7 @@ type: change
 >
 > You can manage auto top-up from Codex Settings → Usage Dashboard. Auto top-up applies to the same shared credit balance used across supported features like Codex and Sora, and if your balance is already below your selected minimum when you turn it on, a top-up may happen right away. Learn more: Using Credits for Flexible Usage in ChatGPT (Free/Go/Plus/Pro) & Sora.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#auto-top-up-for-flexible-usage-credits
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -100,5 +100,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-10-5e9d54&body=Card%3A%20Changes%2FChatGPT%2F2026-03-10-eligible-chatgpt-plus-and-pro-users-can-now-turn-on-auto-top-up-for-credits-used-5e9d54.md%0ACard%20ID%3A%20chatgpt-2026-03-10-5e9d54%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-03-10-5e9d54&body=Card%3A%20Changes%2FChatGPT%2F2026-03-10-eligible-chatgpt-plus-and-pro-users-can-now-turn-on-auto-top-up-for-credits-used-5e9d54.md%0ACard%20ID%3A%20chatgpt-2026-03-10-5e9d54%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23auto-top-up-for-flexible-usage-credits%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7226a2a44d09db5c3d2d9f875ff857df1679cc473f80e9ad0adfb4ff3a042675
+machine_hash: 96aaf48ff3d6f43ac93976e62718649ee34f96dd9a0e4b437821ed3ab5896199
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
     improving answer quality.'
   evidence:
   - quote: 'Factuality: Fewer hallucinations, improving answer quality.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-search-in-chatgpt
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -59,13 +59,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Factuality: Fewer hallucinations, improving answer quality
 
-**ChatGPT** · 2025-09-16 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690|Improvements to search in ChatGPT]]
+**ChatGPT** · 2025-09-16 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-search-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690|Improvements to search in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Factuality: Fewer hallucinations, improving answer quality.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-search-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -90,5 +90,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-16-2c56ab&body=Card%3A%20Changes%2FChatGPT%2F2025-09-16-factuality-fewer-hallucinations-improving-answer-quality.md%0ACard%20ID%3A%20chatgpt-2025-09-16-2c56ab%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-16-2c56ab&body=Card%3A%20Changes%2FChatGPT%2F2025-09-16-factuality-fewer-hallucinations-improving-answer-quality.md%0ACard%20ID%3A%20chatgpt-2025-09-16-2c56ab%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23improvements-to-search-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

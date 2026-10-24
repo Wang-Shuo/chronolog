@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 71fc95ae31e116b61f69c6d12cf1bdc2f6d31b46b5b465289086828e84a0483b
+machine_hash: a967646d5b669bcc4b508194f54851a9fa1f2468db095c53064f16d9300439f3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,7 +44,7 @@ record:
       vary by workspace settings, region, client version, and model. Transcripts may
       contain errors, and performance may vary across languages.For more information,
       see: Uploading files and audio to ChatGPT.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#audio-uploads-in-chatgpt
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -87,13 +87,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Audio uploads in ChatGPT
 
-**ChatGPT** · 2026-10-06 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-10-06-audio-uploads-in-chatgpt-e9ed5a9f|Audio uploads in ChatGPT]]
+**ChatGPT** · 2026-10-06 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#audio-uploads-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-10-06-audio-uploads-in-chatgpt-e9ed5a9f|Audio uploads in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Upload audio files to ChatGPT to create transcripts, summarize recordings, and ask questions about their contents. You can turn a meeting, interview, or lecture into structured notes or a follow-up email draft. To get started, attach a supported audio file to a conversation and describe what you need.Audio uploads are available with paid ChatGPT subscriptions and workspaces. Availability may vary by workspace settings, region, client version, and model. Transcripts may contain errors, and performance may vary across languages.For more information, see: Uploading files and audio to ChatGPT.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#audio-uploads-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -114,5 +114,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-10-06-1107d4&body=Card%3A%20Changes%2FChatGPT%2F2026-10-06-upload-audio-files-to-chatgpt-to-create-transcripts-summarize-recordings-and-ask.md%0ACard%20ID%3A%20chatgpt-2026-10-06-1107d4%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-10-06-1107d4&body=Card%3A%20Changes%2FChatGPT%2F2026-10-06-upload-audio-files-to-chatgpt-to-create-transcripts-summarize-recordings-and-ask.md%0ACard%20ID%3A%20chatgpt-2026-10-06-1107d4%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23audio-uploads-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

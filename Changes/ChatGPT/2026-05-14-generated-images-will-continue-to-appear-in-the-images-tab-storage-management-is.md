@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-05-14 · Mobile and Desktop: Generated images will
   to appear in the Images tab.Storage management is currently available on web and
   you…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1157
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7e2595ff4d57fe2b3a9be5675b7566b7a6ad46494be582bf4c90e8ddc352a037
+machine_hash: e2f35931522bab9b922122abaa710b34b5f74ba44b057c6eda7942e58dcd9b9b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,7 @@ record:
       until you delete them. Files uploaded in Temporary Chat aren’t saved to Library.Library
       and ‘Recent files’ in the composer are supported on web, iOS, and Android. Learn
       more about File storage and Library in ChatGPT.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-expands-to-free-and-go-users-with-storage-management
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -82,13 +82,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Generated images will continue to appear in the Images tab
 
-**ChatGPT** · 2026-05-14 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-05-14-file-library-expands-to-free-and-go-users-with-storage-managemen-94a98ddb|File library expands to Free and Go users, with storage management]]
+**ChatGPT** · 2026-05-14 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-expands-to-free-and-go-users-with-storage-management) · from [[Releases/ChatGPT/chatgpt-2026-05-14-file-library-expands-to-free-and-go-users-with-storage-managemen-94a98ddb|File library expands to Free and Go users, with storage management]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Generated images will continue to appear in the Images tab.Storage management is currently available on web and you can access it from Settings > Storage; you can also delete files directly from Library.Files remain in your Library until you delete them. Files uploaded in Temporary Chat aren’t saved to Library.Library and ‘Recent files’ in the composer are supported on web, iOS, and Android. Learn more about File storage and Library in ChatGPT.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-expands-to-free-and-go-users-with-storage-management
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -111,5 +111,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-05-14-8895ca&body=Card%3A%20Changes%2FChatGPT%2F2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is.md%0ACard%20ID%3A%20chatgpt-2026-05-14-8895ca%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-05-14-8895ca&body=Card%3A%20Changes%2FChatGPT%2F2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is.md%0ACard%20ID%3A%20chatgpt-2026-05-14-8895ca%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23file-library-expands-to-free-and-go-users-with-storage-management%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

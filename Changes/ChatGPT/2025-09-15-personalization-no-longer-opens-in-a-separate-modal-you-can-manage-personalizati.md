@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 330f059ebfe2026246befd5da93c965a9c176bdb7fffe4216f783b99a28ebf9b
+machine_hash: 834686f8d85c12d93a152c7e1aef1c27aa77f6daf4c8945cf688c88547f481aa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
   - quote: Personalization no longer opens in a separate modal. You can manage personalization,
       choose a ChatGPT personality, add custom instructions, and update Memory directly
       in Settings → Personalization.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personalization-settings-are-now-in-settings
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -61,13 +61,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Personalization settings are now in Settings
 
-**ChatGPT** · 2025-09-15 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-15-personalization-settings-are-now-in-settings-bdb1bffc|Personalization settings are now in Settings]]
+**ChatGPT** · 2025-09-15 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personalization-settings-are-now-in-settings) · from [[Releases/ChatGPT/chatgpt-2025-09-15-personalization-settings-are-now-in-settings-bdb1bffc|Personalization settings are now in Settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Personalization no longer opens in a separate modal. You can manage personalization, choose a ChatGPT personality, add custom instructions, and update Memory directly in Settings → Personalization.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personalization-settings-are-now-in-settings
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -88,5 +88,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-15-ed5e00&body=Card%3A%20Changes%2FChatGPT%2F2025-09-15-personalization-no-longer-opens-in-a-separate-modal-you-can-manage-personalizati.md%0ACard%20ID%3A%20chatgpt-2025-09-15-ed5e00%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-15-ed5e00&body=Card%3A%20Changes%2FChatGPT%2F2025-09-15-personalization-no-longer-opens-in-a-separate-modal-you-can-manage-personalizati.md%0ACard%20ID%3A%20chatgpt-2025-09-15-ed5e00%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23personalization-settings-are-now-in-settings%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 819464ae31449fbe3737f26343c0f50bd467e879b4ef88f374ee736efaea49a0
+machine_hash: 4c05eb1496952b009ddc0b6c79effb7e1e1316b0b1457c3e4b2848781dcc332b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
       rich and interactive bar, line, pie, and scatter charts directly in the conversation.
       Ask for a chart, or ChatGPT may include one when it helps make trends and comparisons
       easier to understand.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -67,13 +67,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Interactive charts in answers
 
-**ChatGPT** · 2026-06-08 · [[Themes/file-data|Files and Data]] · Web, iOS, and Android · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
+**ChatGPT** · 2026-06-08 · [[Themes/file-data|Files and Data]] · Web, iOS, and Android · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Interactive charts in answers: ChatGPT can now turn some answers into rich and interactive bar, line, pie, and scatter charts directly in the conversation. Ask for a chart, or ChatGPT may include one when it helps make trends and comparisons easier to understand.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -104,5 +104,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-08-6e32ab&body=Card%3A%20Changes%2FChatGPT%2F2026-06-08-interactive-charts-in-answers-chatgpt-can-now-turn-some-answers-into-rich-and-in.md%0ACard%20ID%3A%20chatgpt-2026-06-08-6e32ab%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-08-6e32ab&body=Card%3A%20Changes%2FChatGPT%2F2026-06-08-interactive-charts-in-answers-chatgpt-can-now-turn-some-answers-into-rich-and-in.md%0ACard%20ID%3A%20chatgpt-2026-06-08-6e32ab%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-app-experience-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

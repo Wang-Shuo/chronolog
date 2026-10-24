@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 128c0fe5b9d2683a00bd5f46fb4d3816eec2f724cbd751cb3d985a4e4853a6a7
+machine_hash: caa010e3616aae6510ec794eb1d51e173a684326bcc5552cc0a8536606b4a1c8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
   - quote: You can now export your deep research reports as well-formatted PDFs—complete
       with tables, images, linked citations, and sources.To use, click the share icon
       and select 'Download as PDF.' It works for both new and past reports.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#export-deep-research-as-pdf-for-plusproteam
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -63,13 +63,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Export Deep Research as PDF for Plus/Pro/Team
 
-**ChatGPT** · 2025-05-12 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-05-12-export-deep-research-as-pdf-for-plus-pro-team-27caae9f|Export Deep Research as PDF for Plus/Pro/Team]]
+**ChatGPT** · 2025-05-12 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#export-deep-research-as-pdf-for-plusproteam) · from [[Releases/ChatGPT/chatgpt-2025-05-12-export-deep-research-as-pdf-for-plus-pro-team-27caae9f|Export Deep Research as PDF for Plus/Pro/Team]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > You can now export your deep research reports as well-formatted PDFs—complete with tables, images, linked citations, and sources.To use, click the share icon and select 'Download as PDF.' It works for both new and past reports.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#export-deep-research-as-pdf-for-plusproteam
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -90,5 +90,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-05-12-87a3fa&body=Card%3A%20Changes%2FChatGPT%2F2025-05-12-you-can-now-export-your-deep-research-reports-as-well-formatted-pdfs-complete-wi-87a3fa.md%0ACard%20ID%3A%20chatgpt-2025-05-12-87a3fa%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-05-12-87a3fa&body=Card%3A%20Changes%2FChatGPT%2F2025-05-12-you-can-now-export-your-deep-research-reports-as-well-formatted-pdfs-complete-wi-87a3fa.md%0ACard%20ID%3A%20chatgpt-2025-05-12-87a3fa%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23export-deep-research-as-pdf-for-plusproteam%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

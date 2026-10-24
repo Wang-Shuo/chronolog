@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 821834d22ccf79e88859c51e3430f0017e4efbd7b8c71d676c31793fbf5dabca
+machine_hash: 96c50b70684d7cb91dffafd9d0731acaa79d4812fe04add761092b04ea01f5d9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   evidence:
   - quote: Monitoring tasks can search the web and check connected apps for changes
       and notify users only when there is something worth reporting.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -61,13 +61,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Monitoring tasks can search the web and check connected apps for changes and notify…
 
-**ChatGPT** · 2026-06-17 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a|Scheduled tasks in ChatGPT]]
+**ChatGPT** · 2026-06-17 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a|Scheduled tasks in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Monitoring tasks can search the web and check connected apps for changes and notify users only when there is something worth reporting.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -94,5 +94,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-17-8bf603&body=Card%3A%20Changes%2FChatGPT%2F2026-06-17-monitoring-tasks-can-search-the-web-and-check-connected-apps-for-changes-and-not.md%0ACard%20ID%3A%20chatgpt-2026-06-17-8bf603%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-17-8bf603&body=Card%3A%20Changes%2FChatGPT%2F2026-06-17-monitoring-tasks-can-search-the-web-and-check-connected-apps-for-changes-and-not.md%0ACard%20ID%3A%20chatgpt-2026-06-17-8bf603%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23scheduled-tasks-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-03-03'
 description: 'ChatGPT release GPT-5.3 Instant Update on 2026-03-03: 1 tracked change
   across Model Support'
-machine_hash: ccbd8599ff29c64a6cf884ac241221e5b4107137f79db7ebb19c1a9c8d9c2fab
+machine_hash: af29a4cea5c0185878b3fdcf7fdbea1a18f609418758a8680cd69ffc0ec97ab6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     overly declarative phrasing that can interrupt the flow of conversation.This update
     focuses on the parts of the ChatGPT experience people feel every day: tone…'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-53-instant-update
   title: GPT-5.3 Instant Update
   version: GPT-5.3 Instant Update
 release_id: chatgpt-2026-03-03-gpt-5-3-instant-update-a32de9bf
 source_release: GPT-5.3 Instant Update
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-53-instant-update
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: GPT-5.3 Instant Update
 <!-- chronolog:begin region="header" -->
 # ChatGPT · GPT-5.3 Instant Update
 
-**ChatGPT** · 2026-03-03 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-03-03 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-53-instant-update)
 <!-- chronolog:end -->
 
 ## Summary

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-01-29'
 description: 'ChatGPT release Retiring GPT-4o and other legacy models on 2026-01-29:
   1 tracked change across Model Support'
-machine_hash: 182057d3719ad81d84a6cd9cc63fe2ed494f0648b1a6a32b4f9fbea9534e1b06
+machine_hash: eea53f6e75403d4eaae2617a94adee5a3240c821b39d95ec207ad5c032e635b6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time.
     For more, see our blog post or help center.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-4o-and-other-legacy-models
   title: Retiring GPT-4o and other legacy models
   version: Retiring GPT-4o and other legacy models
 release_id: chatgpt-2026-01-29-retiring-gpt-4o-and-other-legacy-models-71b41b16
 source_release: Retiring GPT-4o and other legacy models
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-4o-and-other-legacy-models
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Retiring GPT-4o and other legacy models
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Retiring GPT-4o and other legacy models
 
-**ChatGPT** · 2026-01-29 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-01-29 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-4o-and-other-legacy-models)
 <!-- chronolog:end -->
 
 ## Summary

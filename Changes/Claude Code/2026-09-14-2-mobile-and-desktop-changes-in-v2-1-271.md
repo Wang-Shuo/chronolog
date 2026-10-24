@@ -5,8 +5,8 @@ description: 'Claude Code · 2026-09-14 · Mobile and Desktop: 2 changes in v2.1
   — Added a spinner tip pointing Bedrock, Vertex AI, Foundry and LLM gateway users
   to the…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1280
   relation: same-theme-chronology

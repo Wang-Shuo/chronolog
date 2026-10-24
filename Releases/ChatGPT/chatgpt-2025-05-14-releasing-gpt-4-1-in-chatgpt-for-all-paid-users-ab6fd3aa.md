@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-05-14'
 description: 'ChatGPT release Releasing GPT-4.1 in ChatGPT for all paid users on 2025-05-14:
   1 tracked change across Model Support'
-machine_hash: bbf3bca5fd6f32df89b37a4c79456272b86494fedec2d64dd209ed85639edcd6
+machine_hash: 502d1f6f2d5fd2ecd33ef67eec7308c41a1bb01d81d62fe582a129337dd1a435
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     is a specialized model that excels at coding tasks. Compared to GPT-4o, it's even
     stronger at precise instruction following and web development tasks, and offers…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#releasing-gpt-41-in-chatgpt-for-all-paid-users
   title: Releasing GPT-4.1 in ChatGPT for all paid users
   version: Releasing GPT-4.1 in ChatGPT for all paid users
 release_id: chatgpt-2025-05-14-releasing-gpt-4-1-in-chatgpt-for-all-paid-users-ab6fd3aa
 source_release: Releasing GPT-4.1 in ChatGPT for all paid users
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#releasing-gpt-41-in-chatgpt-for-all-paid-users
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Releasing GPT-4.1 in ChatGPT for all paid users
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Releasing GPT-4.1 in ChatGPT for all paid users
 
-**ChatGPT** · 2025-05-14 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-05-14 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#releasing-gpt-41-in-chatgpt-for-all-paid-users)
 <!-- chronolog:end -->
 
 ## Summary

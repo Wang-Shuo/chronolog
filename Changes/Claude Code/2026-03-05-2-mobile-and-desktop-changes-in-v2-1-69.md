@@ -5,8 +5,8 @@ description: 'Claude Code · 2026-03-05 · Mobile and Desktop: 2 changes in v2.1
   — Added a one-time startup prompt suggesting Claude Code Desktop on macOS and Windows
   (max…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1087
   relation: same-theme-chronology

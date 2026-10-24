@@ -3,7 +3,7 @@ changes_count: 2
 date: '2023-09-27'
 description: 'ChatGPT release Browsing is rolling back out to Plus users on 2023-09-27:
   2 tracked changes across Model Support, Search and Browsing'
-machine_hash: 663ef2987cb7d660bbce59f365aa991ca2ee71edb03dcaca0e4c5e94eda873ff
+machine_hash: 1cca7a67072ea466da780534dc80dbd60dc798a0aff69d8f0a62d9df4e3948a2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     with direct links to sources. It is no longer limited to data before September
     2021.To try it out, enable Browsing in your beta features setting.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-is-rolling-back-out-to-plus-users
   title: Browsing is rolling back out to Plus users
   version: Browsing is rolling back out to Plus users
 release_id: chatgpt-2023-09-27-browsing-is-rolling-back-out-to-plus-users-73e98403
 source_release: Browsing is rolling back out to Plus users
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-is-rolling-back-out-to-plus-users
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Browsing is rolling back out to Plus users
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Browsing is rolling back out to Plus users
 
-**ChatGPT** · 2023-09-27 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2023-09-27 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-is-rolling-back-out-to-plus-users)
 <!-- chronolog:end -->
 
 ## Summary

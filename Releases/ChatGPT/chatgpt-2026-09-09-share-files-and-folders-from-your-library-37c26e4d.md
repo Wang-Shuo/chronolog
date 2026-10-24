@@ -3,7 +3,7 @@ changes_count: 3
 date: '2026-09-09'
 description: 'ChatGPT release Share files and folders from your Library on 2026-09-09:
   3 tracked changes across Collaboration'
-machine_hash: e29baafe24fea73b8356916e8e1f117e24fb4c8f185f8942b0c816eff8a473f6
+machine_hash: b97386dc1cd81868141782c5f2f3e5855128a6f2d0ef78be7353032e98320a79
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -15,13 +15,13 @@ record:
   source_summary: Library sharing lets you share files and folders in ChatGPT, choose
     who can access them, and work with shared content directly in your conversations.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-files-and-folders-from-your-library
   title: Share files and folders from your Library
   version: Share files and folders from your Library
 release_id: chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d
 source_release: Share files and folders from your Library
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-files-and-folders-from-your-library
 tags:
 - release
 - chatgpt
@@ -32,7 +32,7 @@ version: Share files and folders from your Library
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Share files and folders from your Library
 
-**ChatGPT** · 2026-09-09 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-09-09 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-files-and-folders-from-your-library)
 <!-- chronolog:end -->
 
 ## Summary

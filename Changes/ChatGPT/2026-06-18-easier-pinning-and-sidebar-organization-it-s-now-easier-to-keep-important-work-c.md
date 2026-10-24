@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b4ee0548c76c6ebce720a9ecbb2a151cf00c5ce01b54cad43b1926af77d0b947
+machine_hash: 2758354a05a413f20392fa74e0cf487f05f0814df8b91bba809f4d3422b65e9d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -35,7 +35,7 @@ record:
       and your Pinned section now includes both chats and projects. You can also organize
       Recents as one combined list, or group chats by project so related work stays
       together.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -66,13 +66,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Easier pinning and sidebar organization
 
-**ChatGPT** · 2026-06-18 · [[Themes/interface-experience|Interface Experience]] · Web · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
+**ChatGPT** · 2026-06-18 · [[Themes/interface-experience|Interface Experience]] · Web · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Easier pinning and sidebar organization: It’s now easier to keep important work close in ChatGPT. You can pin chats and projects directly from the sidebar, and your Pinned section now includes both chats and projects. You can also organize Recents as one combined list, or group chats by project so related work stays together.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -102,5 +102,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-18-55d7b8&body=Card%3A%20Changes%2FChatGPT%2F2026-06-18-easier-pinning-and-sidebar-organization-it-s-now-easier-to-keep-important-work-c.md%0ACard%20ID%3A%20chatgpt-2026-06-18-55d7b8%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-18-55d7b8&body=Card%3A%20Changes%2FChatGPT%2F2026-06-18-easier-pinning-and-sidebar-organization-it-s-now-easier-to-keep-important-work-c.md%0ACard%20ID%3A%20chatgpt-2026-06-18-55d7b8%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-app-experience-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

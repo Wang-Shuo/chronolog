@@ -1,10 +1,10 @@
 ---
 created: '2023-03-14'
-date: '2026-10-14'
+date: '2026-10-22'
 description: Cross-product timeline of Editor Experience changes in ChatGPT, Claude
   Code and Cursor.
-machine_hash: 2dc5c00a34617acdbc4360cfef997713b9465246b0481b5474efaf30f1573f2c
-modified: '2026-10-14'
+machine_hash: 416a0233e3a1522aae2e7016f609fd5841b828764ac01ea1201f4e40ecc44ff0
+modified: '2026-10-22'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Editor Experience
 <!-- chronolog:begin region="header" -->
 # Editor Experience
 
-163 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-14 → 2026-10-14 · Claude Code averages 6.9 cards per release, Cursor 4.0, ChatGPT 1.7
+166 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-14 → 2026-10-22 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -54,10 +54,13 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 85 entries (ChatGPT 5 · Claude Code 60 · Cursor 20)
+### 2026 · 88 entries (ChatGPT 7 · Claude Code 61 · Cursor 20)
 
 #### 2026-10
 
+- 2026-10-22 · **Claude Code** · [[Changes/Claude Code/2026-10-22-2-editor-experience-changes-in-v2-1-309|2 Editor Experience changes in v2.1.309]] · Digest
+- 2026-10-16 · **ChatGPT** · [[Changes/ChatGPT/2026-10-16-create-and-refine-edit-text-images-shapes-and-charts-directly-or-ask-chatgpt-to|Create and refine]]
+- 2026-10-16 · **ChatGPT** · [[Changes/ChatGPT/2026-10-16-work-together-invite-teammates-to-edit-the-same-deck-in-real-time-and-leave-shar|Work together]]
 - 2026-10-14 · **Claude Code** · [[Changes/Claude Code/2026-10-14-added-a-one-time-note-when-plan-mode-won-t-ask-before-most-edits-or-commands-bec|Added a one-time note when plan mode won't ask before most edits or commands because…]]
 - 2026-10-14 · **Claude Code** · [[Changes/Claude Code/2026-10-14-2-editor-experience-changes-in-v2-1-300|2 Editor Experience changes in v2.1.300]] · Digest
 - 2026-10-09 · **Claude Code** · [[Changes/Claude Code/2026-10-09-cloud-sessions-added-a-status-filter-to-the-sessions-and-runners-lists-on-a-self|Cloud sessions Added a status filter to the Sessions and Runners lists…]]

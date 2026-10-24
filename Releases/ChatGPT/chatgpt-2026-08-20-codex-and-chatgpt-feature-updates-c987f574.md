@@ -3,7 +3,7 @@ changes_count: 4
 date: '2026-08-20'
 description: 'ChatGPT release Codex and ChatGPT feature updates on 2026-08-20: 4 tracked
   changes across Mobile and Desktop, Apps and Integrations, Collaboration'
-machine_hash: de7919ed29889302080c6d424bb6ad22d1d981b290c4d2a5372e3154bba446a2
+machine_hash: 2f978f80fbbcad528c33a02a8137efddfc383b14c2fa156ba422af028863a3ab
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     custom domains remain separate and unchanged. In the Site’s settings, select Change
     URL…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-and-chatgpt-feature-updates
   title: Codex and ChatGPT feature updates
   version: Codex and ChatGPT feature updates
 release_id: chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574
 source_release: Codex and ChatGPT feature updates
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-and-chatgpt-feature-updates
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Codex and ChatGPT feature updates
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Codex and ChatGPT feature updates
 
-**ChatGPT** · 2026-08-20 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-08-20 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-and-chatgpt-feature-updates)
 <!-- chronolog:end -->
 
 ## Summary

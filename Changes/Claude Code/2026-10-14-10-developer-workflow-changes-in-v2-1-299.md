@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9bb65ad9181b6705d4bcfd1e15a49c0ac8e87796484f784e061b0eba1ced2af9
+machine_hash: b72f19fcef85191a3c8dff1785ba4881c2e8beeae3447ff101e771213b794a8c
 product: claude-code
 product_name: Claude Code
 record:
@@ -143,6 +143,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-added-a-dir-prop-on-a-mod-s-text-for-right-to-left-text-on-windows-and-in-vs-cod|Added a dir prop on a mod's Text for right-to-left text]]
+- Later: 2026-10-15 · Claude Code · [[Changes/Claude Code/2026-10-15-added-rows-to-a-mod-s-input-a-text-field-of-several-lines-in-the-terminal-where|Added rows to a mod's Input]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

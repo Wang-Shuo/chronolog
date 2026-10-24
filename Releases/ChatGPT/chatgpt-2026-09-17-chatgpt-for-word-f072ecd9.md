@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-09-17'
 description: 'ChatGPT release ChatGPT for Word on 2026-09-17: 1 tracked change across
   Interface Experience'
-machine_hash: 6c375b97ba63e6e40dd69b0cf96b628820c6f138117d6b406a2ea82a0ade397f
+machine_hash: 9c7afcfa8d9f5e473601528b816e36fe6df80463d7d8651fca3f299556a0b007
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     from the ChatGPT sidebar. Word joins Excel and PowerPoint through the same Microsoft
     add-in.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-word
   title: ChatGPT for Word
   version: ChatGPT for Word
 release_id: chatgpt-2026-09-17-chatgpt-for-word-f072ecd9
 source_release: ChatGPT for Word
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-word
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: ChatGPT for Word
 <!-- chronolog:begin region="header" -->
 # ChatGPT for Word
 
-**ChatGPT** · 2026-09-17 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-09-17 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-word)
 <!-- chronolog:end -->
 
 ## Summary

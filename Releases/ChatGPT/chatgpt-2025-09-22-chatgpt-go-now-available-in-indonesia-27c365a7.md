@@ -3,7 +3,7 @@ changes_count: 3
 date: '2025-09-22'
 description: 'ChatGPT release ChatGPT Go now available in Indonesia on 2025-09-22:
   3 tracked changes across Image Generation, Memory and Personalization, Pricing Model'
-machine_hash: de23afa6d4431125b6e8e2ea4de7c80e38f2b179d6ac2d6904223523db7f5cf4
+machine_hash: a40d670c0de752180f74e05515b6f504aff4374039bacd7d6a607e8d662b6d9f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -16,13 +16,13 @@ record:
     Indonesia.For Rp 75.000/month, ChatGPT Go provides everything included in the
     Free plan, and:'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-indonesia
   title: ChatGPT Go now available in Indonesia
   version: ChatGPT Go now available in Indonesia
 release_id: chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7
 source_release: ChatGPT Go now available in Indonesia
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-indonesia
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: ChatGPT Go now available in Indonesia
 <!-- chronolog:begin region="header" -->
 # ChatGPT Go now available in Indonesia
 
-**ChatGPT** · 2025-09-22 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-09-22 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-now-available-in-indonesia)
 <!-- chronolog:end -->
 
 ## Summary

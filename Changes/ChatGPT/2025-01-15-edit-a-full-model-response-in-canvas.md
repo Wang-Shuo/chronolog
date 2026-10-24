@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 97364ace074a44af0834c34b2ee8609ef70f99dddc69ea17274ac93434d0b565
+machine_hash: 6c2c21aaf9f2595be21401cccaf6e5f1aefd4836c24dd5f8c6ddc051eb8b19ae
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
     in Canvas'
   evidence:
   - quote: Edit a full model response in Canvas
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#import-from-chat-into-canvas
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -67,13 +67,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Edit a full model response in Canvas
 
-**ChatGPT** · 2025-01-15 · [[Themes/file-data|Files and Data]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-01-15-import-from-chat-into-canvas-e328bc82|Import from Chat into Canvas]]
+**ChatGPT** · 2025-01-15 · [[Themes/file-data|Files and Data]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#import-from-chat-into-canvas) · from [[Releases/ChatGPT/chatgpt-2025-01-15-import-from-chat-into-canvas-e328bc82|Import from Chat into Canvas]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Edit a full model response in Canvas
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#import-from-chat-into-canvas
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -96,5 +96,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-01-15-1662f4&body=Card%3A%20Changes%2FChatGPT%2F2025-01-15-edit-a-full-model-response-in-canvas.md%0ACard%20ID%3A%20chatgpt-2025-01-15-1662f4%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-01-15-1662f4&body=Card%3A%20Changes%2FChatGPT%2F2025-01-15-edit-a-full-model-response-in-canvas.md%0ACard%20ID%3A%20chatgpt-2025-01-15-1662f4%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23import-from-chat-into-canvas%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

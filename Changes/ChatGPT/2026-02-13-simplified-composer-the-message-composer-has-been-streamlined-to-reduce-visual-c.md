@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ac190163ee7140eb33becbc36448bfc0051ec84d7c39b498e9d62a73c4c8bf34
+machine_hash: cf977f4dbd450b1b3883a921855ef0dca1dde2d55a7982cc2dc61e28d515540f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   evidence:
   - quote: Simplified composer. The message composer has been streamlined to reduce
       visual complexity and make it easier to focus on your message.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -64,13 +64,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Simplified composer
 
-**ChatGPT** · 2026-02-13 · [[Themes/interface-experience|Interface Experience]] · Android · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0|ChatGPT updates: Better file uploads, easier copying, and more reliable long chats]]
+**ChatGPT** · 2026-02-13 · [[Themes/interface-experience|Interface Experience]] · Android · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats) · from [[Releases/ChatGPT/chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0|ChatGPT updates: Better file uploads, easier copying, and more reliable long chats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Simplified composer. The message composer has been streamlined to reduce visual complexity and make it easier to focus on your message.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -97,5 +97,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-13-3a2b87&body=Card%3A%20Changes%2FChatGPT%2F2026-02-13-simplified-composer-the-message-composer-has-been-streamlined-to-reduce-visual-c.md%0ACard%20ID%3A%20chatgpt-2026-02-13-3a2b87%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-13-3a2b87&body=Card%3A%20Changes%2FChatGPT%2F2026-02-13-simplified-composer-the-message-composer-has-been-streamlined-to-reduce-visual-c.md%0ACard%20ID%3A%20chatgpt-2026-02-13-3a2b87%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

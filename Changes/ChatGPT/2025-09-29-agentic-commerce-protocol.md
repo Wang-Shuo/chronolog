@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0cf8b613f273bfd922ef81cca1828ff32eabcd4993393a790dd8846fb1f026a5
+machine_hash: 544883cef9a1148ebf58f0ffbfc3bce5136e401d379f6e36f51df2cfd4f514c6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,7 +40,7 @@ record:
       be accepting and onboarding merchants on a rolling basis.Developers can start
       exploring the Agentic Commerce Protocol documentation and example implementations
       on GitHub.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-instant-checkout-and-the-agentic-commerce-protocol
   extractor_version: fallback-v5
   impact: incremental
   kind: launch
@@ -69,13 +69,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Agentic Commerce Protocol
 
-**ChatGPT** · 2025-09-29 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e|Introducing Instant Checkout and the Agentic Commerce Protocol]]
+**ChatGPT** · 2025-09-29 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-instant-checkout-and-the-agentic-commerce-protocol) · from [[Releases/ChatGPT/chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e|Introducing Instant Checkout and the Agentic Commerce Protocol]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > The Agentic Commerce Protocol (ACP) gives merchants and developers a way to build agentic commerce experiences that work with their current systems and connect them with 700M+ weekly active users on ChatGPT.If you’re a merchant and want to add Instant Checkout in ChatGPT, apply on our merchant page. We’ll be accepting and onboarding merchants on a rolling basis.Developers can start exploring the Agentic Commerce Protocol documentation and example implementations on GitHub.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-instant-checkout-and-the-agentic-commerce-protocol
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -98,5 +98,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-29-c1e3a0&body=Card%3A%20Changes%2FChatGPT%2F2025-09-29-agentic-commerce-protocol.md%0ACard%20ID%3A%20chatgpt-2025-09-29-c1e3a0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-29-c1e3a0&body=Card%3A%20Changes%2FChatGPT%2F2025-09-29-agentic-commerce-protocol.md%0ACard%20ID%3A%20chatgpt-2025-09-29-c1e3a0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23introducing-instant-checkout-and-the-agentic-commerce-protocol%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

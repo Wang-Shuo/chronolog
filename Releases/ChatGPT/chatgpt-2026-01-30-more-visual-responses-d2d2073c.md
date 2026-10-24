@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-01-30'
 description: 'ChatGPT release More visual responses on 2026-01-30: 1 tracked change
   across Interface Experience'
-machine_hash: 4e488532371b8935b63e410d6e96f7e0203e8cc55ea43c6de8264bd4df9a3d7c
+machine_hash: c145b289485d39f6307bcfc2a58f97524f7b46e4a9c56d3d1f4be83f81ee1ac5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     also highlight important people, places, products, and ideas. You can tap any
     highlight to open…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-visual-responses
   title: More visual responses
   version: More visual responses
 release_id: chatgpt-2026-01-30-more-visual-responses-d2d2073c
 source_release: More visual responses
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-visual-responses
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: More visual responses
 <!-- chronolog:begin region="header" -->
 # ChatGPT · More visual responses
 
-**ChatGPT** · 2026-01-30 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-01-30 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-visual-responses)
 <!-- chronolog:end -->
 
 ## Summary

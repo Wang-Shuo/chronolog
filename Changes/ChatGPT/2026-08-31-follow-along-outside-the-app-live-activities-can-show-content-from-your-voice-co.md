@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7840900120a1e9ff49a63709029255df689e6cb621fcc97ed4f504c3d94561f2
+machine_hash: 4aca07359333adbb6e8ffc9c5e67a04a53900641dfd85564eb041e7d7db91e6a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   evidence:
   - quote: Follow along outside the app. Live Activities can show content from your
       voice conversation while you use another app or your phone is locked.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#see-live-voice-content-on-your-lock-screen
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -60,13 +60,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Follow along outside the app
 
-**ChatGPT** · 2026-08-31 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-31-see-live-voice-content-on-your-lock-screen-3b9abebd|See Live voice content on your Lock Screen]]
+**ChatGPT** · 2026-08-31 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#see-live-voice-content-on-your-lock-screen) · from [[Releases/ChatGPT/chatgpt-2026-08-31-see-live-voice-content-on-your-lock-screen-3b9abebd|See Live voice content on your Lock Screen]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Follow along outside the app. Live Activities can show content from your voice conversation while you use another app or your phone is locked.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#see-live-voice-content-on-your-lock-screen
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -90,5 +90,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-31-11fda5&body=Card%3A%20Changes%2FChatGPT%2F2026-08-31-follow-along-outside-the-app-live-activities-can-show-content-from-your-voice-co.md%0ACard%20ID%3A%20chatgpt-2026-08-31-11fda5%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-31-11fda5&body=Card%3A%20Changes%2FChatGPT%2F2026-08-31-follow-along-outside-the-app-live-activities-can-show-content-from-your-voice-co.md%0ACard%20ID%3A%20chatgpt-2026-08-31-11fda5%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23see-live-voice-content-on-your-lock-screen%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

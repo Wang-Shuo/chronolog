@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-07-09'
 description: 'ChatGPT release The new ChatGPT desktop app brings Chat, Work, and Codex
   together on 2026-07-09: 1 tracked change across Mobile and Desktop'
-machine_hash: 3aed00641e38de9e81741d8dd27375c9b02069fc425435b42b8b882fe90b4372
+machine_hash: 04be04a97f9cc8062373643b93a4292b15d8c51a9c560aec80b60d9a435ee24c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -16,13 +16,13 @@ record:
     Windows. It combines Chat for questions and conversation, Work for research and
     finished deliverables, and Codex for software development in one app.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together
   title: The new ChatGPT desktop app brings Chat, Work, and Codex together
   version: The new ChatGPT desktop app brings Chat, Work, and Codex together
 release_id: chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810
 source_release: The new ChatGPT desktop app brings Chat, Work, and Codex together
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: The new ChatGPT desktop app brings Chat, Work, and Codex together
 <!-- chronolog:begin region="header" -->
 # ChatGPT · The new ChatGPT desktop app brings Chat, Work, and Codex together
 
-**ChatGPT** · 2026-07-09 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-07-09 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together)
 <!-- chronolog:end -->
 
 ## Summary

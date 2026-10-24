@@ -5,8 +5,8 @@ description: 'Claude Code · 2026-09-18 · Mobile and Desktop: [Claude Code on t
   Changed the admin Claude Code setting labeled "Web" to "Cloud sessions" and removed
   the…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1284
   relation: same-theme-chronology

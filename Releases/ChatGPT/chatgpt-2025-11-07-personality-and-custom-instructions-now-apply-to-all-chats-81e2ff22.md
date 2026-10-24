@@ -3,7 +3,7 @@ changes_count: 1
 date: '2025-11-07'
 description: 'ChatGPT release Personality and custom instructions now apply to all
   chats on 2025-11-07: 1 tracked change across Memory and Personalization'
-machine_hash: 512f969bc9ccd1c7b97fdca93c2f1cb913100bf8c6a3ea027302ad70ddad8fd1
+machine_hash: feca820db88a07bde18b7e4e4151cc7af6209ddd8011c001c60f348d1f817fd8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     existing conversations!) so your experience stays consistent everywhere without
     needing to…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personality-and-custom-instructions-now-apply-to-all-chats
   title: Personality and custom instructions now apply to all chats
   version: Personality and custom instructions now apply to all chats
 release_id: chatgpt-2025-11-07-personality-and-custom-instructions-now-apply-to-all-chats-81e2ff22
 source_release: Personality and custom instructions now apply to all chats
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personality-and-custom-instructions-now-apply-to-all-chats
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Personality and custom instructions now apply to all chats
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Personality and custom instructions now apply to all chats
 
-**ChatGPT** · 2025-11-07 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2025-11-07 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personality-and-custom-instructions-now-apply-to-all-chats)
 <!-- chronolog:end -->
 
 ## Summary

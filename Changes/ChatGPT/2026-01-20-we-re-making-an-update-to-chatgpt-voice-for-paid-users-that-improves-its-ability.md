@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 642124b9c7b5be7fa93acc8b651677e816ed2a5de7becc29d8ea5f2d05af288e
+machine_hash: 947e652da832e6ff90e874429eb2794989b682f84bfe1a76418a6753cc18cef9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   - quote: We’re making an update to ChatGPT Voice for paid users that improves its
       ability to follow user instructions, as well as fixes a bug where Voice can
       sometimes repeat back custom instructions.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#voice-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -69,13 +69,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Voice Updates
 
-**ChatGPT** · 2026-01-20 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-01-20-voice-updates-432d340b|Voice Updates]]
+**ChatGPT** · 2026-01-20 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#voice-updates) · from [[Releases/ChatGPT/chatgpt-2026-01-20-voice-updates-432d340b|Voice Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re making an update to ChatGPT Voice for paid users that improves its ability to follow user instructions, as well as fixes a bug where Voice can sometimes repeat back custom instructions.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#voice-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -96,5 +96,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-01-20-68039e&body=Card%3A%20Changes%2FChatGPT%2F2026-01-20-we-re-making-an-update-to-chatgpt-voice-for-paid-users-that-improves-its-ability.md%0ACard%20ID%3A%20chatgpt-2026-01-20-68039e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-01-20-68039e&body=Card%3A%20Changes%2FChatGPT%2F2026-01-20-we-re-making-an-update-to-chatgpt-voice-for-paid-users-that-improves-its-ability.md%0ACard%20ID%3A%20chatgpt-2026-01-20-68039e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23voice-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 58a2fd87c0c5952fe88b97b7ccfa954bc7f2afabb856f3c192aacc5b83a0aeab
+machine_hash: 5e6e25ba3398c195600137a5e9ba4fcca3e454bd690b70ebdc6eda4808adcd55
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
   evidence:
   - quote: Capture meetings, brainstorms, or voice notes. Launching today for Pro,
       Enterprise, and Edu users. Previously launched for Team users on June 4, 2025.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-record-mode
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -72,13 +72,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Capture meetings, brainstorms, or voice notes
 
-**ChatGPT** · 2025-06-18 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-06-18-chatgpt-record-mode-f7984257|ChatGPT record mode]]
+**ChatGPT** · 2025-06-18 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-record-mode) · from [[Releases/ChatGPT/chatgpt-2025-06-18-chatgpt-record-mode-f7984257|ChatGPT record mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Capture meetings, brainstorms, or voice notes. Launching today for Pro, Enterprise, and Edu users. Previously launched for Team users on June 4, 2025.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-record-mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -101,5 +101,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-18-7680b9&body=Card%3A%20Changes%2FChatGPT%2F2025-06-18-capture-meetings-brainstorms-or-voice-notes-launching-today-for-pro-enterprise-a.md%0ACard%20ID%3A%20chatgpt-2025-06-18-7680b9%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-18-7680b9&body=Card%3A%20Changes%2FChatGPT%2F2025-06-18-capture-meetings-brainstorms-or-voice-notes-launching-today-for-pro-enterprise-a.md%0ACard%20ID%3A%20chatgpt-2025-06-18-7680b9%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-record-mode%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

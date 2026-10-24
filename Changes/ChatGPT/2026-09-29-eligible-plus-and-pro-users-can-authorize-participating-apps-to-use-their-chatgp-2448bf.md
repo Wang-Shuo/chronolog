@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4dbacc2366ea3aab17e5b4b5266cac592f1ffdd1afb9270bf91e81440cf81c9b
+machine_hash: 4246da637f13ea518e95d723ff1569a8f4bbfe6ca22fc224fcc710d4876e8538
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,11 +37,11 @@ record:
       ChatGPT model allowance without creating an API key. Choose which apps can use
       your allowance and set an app-specific limit. Usage counts toward your existing
       plan allowance; connecting an app does not add more usage.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-your-chatgpt-allowance-in-participating-apps
   - quote: This is a limited preview with participating integrations. Using purchased
       credits requires a separate opt-in. A partner may still charge for its own product
       or services.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-your-chatgpt-allowance-in-participating-apps
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Use your ChatGPT allowance in participating apps
 
-**ChatGPT** · 2026-09-29 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3|Use your ChatGPT allowance in participating apps]]
+**ChatGPT** · 2026-09-29 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-your-chatgpt-allowance-in-participating-apps) · from [[Releases/ChatGPT/chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3|Use your ChatGPT allowance in participating apps]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -88,7 +88,7 @@ type: change
 >
 > This is a limited preview with participating integrations. Using purchased credits requires a separate opt-in. A partner may still charge for its own product or services.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-your-chatgpt-allowance-in-participating-apps
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -109,5 +109,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-2448bf&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp-2448bf.md%0ACard%20ID%3A%20chatgpt-2026-09-29-2448bf%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-2448bf&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp-2448bf.md%0ACard%20ID%3A%20chatgpt-2026-09-29-2448bf%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23use-your-chatgpt-allowance-in-participating-apps%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

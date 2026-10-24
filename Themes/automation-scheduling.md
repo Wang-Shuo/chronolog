@@ -3,7 +3,7 @@ created: '2025-12-17'
 date: '2026-10-08'
 description: Cross-product timeline of Automation and Scheduling changes in ChatGPT,
   Claude Code and Cursor.
-machine_hash: 22e236632687eb0c3da781d3aea3f04a728627b9b2476a5e326fab44568cb209
+machine_hash: 04a66609cb0839e545ade45b0cbc3901e54240c81c03dd2004152aad158042c6
 modified: '2026-10-08'
 products_involved:
 - ChatGPT
@@ -21,7 +21,7 @@ title: Automation and Scheduling
 <!-- chronolog:begin region="header" -->
 # Automation and Scheduling
 
-38 tracked changes across ChatGPT, Claude Code and Cursor · 2025-12-17 → 2026-10-08 · Claude Code averages 6.9 cards per release, Cursor 4.0, ChatGPT 1.7
+38 tracked changes across ChatGPT, Claude Code and Cursor · 2025-12-17 → 2026-10-08 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary

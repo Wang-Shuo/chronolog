@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 795b9647139b2875dac817f35f5998f17a9845b76e0986799020809790ee6fc9
+machine_hash: ca6dd6b34db116a4fd5dd2060c1e9c0d766e4f3615a5e7cfe8fccd139dfe3a17
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -34,7 +34,7 @@ record:
   evidence:
   - quote: Open search results in a new tab. Cmd+click in the search panel now opens
       results in a new tab, making it easier to explore without losing your place.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -75,13 +75,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Open search results in a new tab
 
-**ChatGPT** · 2026-02-27 · [[Themes/search-browsing|Search and Browsing]] · Web · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|ChatGPT Web and Android updates: Edit image prompts, share faster, and smoother conversations]]
+**ChatGPT** · 2026-02-27 · [[Themes/search-browsing|Search and Browsing]] · Web · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations) · from [[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|ChatGPT Web and Android updates: Edit image prompts, share faster, and smoother conversations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Open search results in a new tab. Cmd+click in the search panel now opens results in a new tab, making it easier to explore without losing your place.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -110,5 +110,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-27-2bf79d&body=Card%3A%20Changes%2FChatGPT%2F2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results.md%0ACard%20ID%3A%20chatgpt-2026-02-27-2bf79d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-27-2bf79d&body=Card%3A%20Changes%2FChatGPT%2F2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results.md%0ACard%20ID%3A%20chatgpt-2026-02-27-2bf79d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

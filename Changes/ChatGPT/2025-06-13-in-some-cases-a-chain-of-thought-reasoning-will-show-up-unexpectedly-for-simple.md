@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9968204915d4585740032cd14154597f5d32f68cf106b224c74173e51fc56ad6
+machine_hash: 9e5bbea008aa8f14f6c04bca3bb503cc5807f0a98a00e8fdf5f4da5a256de8fd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   evidence:
   - quote: In some cases, a “chain of thought” reasoning will show up unexpectedly
       for simple queries. A fix for this is rolling out to users shortly.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-the-chatgpt-search-response-quality
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -64,13 +64,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # In some cases, a “chain of thought” reasoning will show up unexpectedly for simple queries
 
-**ChatGPT** · 2025-06-13 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464|Improvements to the ChatGPT search response quality]]
+**ChatGPT** · 2025-06-13 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-the-chatgpt-search-response-quality) · from [[Releases/ChatGPT/chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464|Improvements to the ChatGPT search response quality]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > In some cases, a “chain of thought” reasoning will show up unexpectedly for simple queries. A fix for this is rolling out to users shortly.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-the-chatgpt-search-response-quality
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -95,5 +95,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-13-54d615&body=Card%3A%20Changes%2FChatGPT%2F2025-06-13-in-some-cases-a-chain-of-thought-reasoning-will-show-up-unexpectedly-for-simple.md%0ACard%20ID%3A%20chatgpt-2025-06-13-54d615%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-13-54d615&body=Card%3A%20Changes%2FChatGPT%2F2025-06-13-in-some-cases-a-chain-of-thought-reasoning-will-show-up-unexpectedly-for-simple.md%0ACard%20ID%3A%20chatgpt-2025-06-13-54d615%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23improvements-to-the-chatgpt-search-response-quality%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

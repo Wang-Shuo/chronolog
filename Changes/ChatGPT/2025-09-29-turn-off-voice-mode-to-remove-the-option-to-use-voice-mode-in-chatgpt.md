@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4b6394f45d51bc93da15c1f9a09c47c21d1b2c8f7910ffcf42f837e6f28f3e99
+machine_hash: b709d4958246150548a3d9af2e33e196c3014a59c5b06210eef70b8cd0116a3f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
     to use voice mode in ChatGPT.'
   evidence:
   - quote: Turn off voice mode, to remove the option to use voice mode in ChatGPT.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -56,13 +56,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Turn off voice mode, to remove the option to use voice mode in ChatGPT
 
-**ChatGPT** · 2025-09-29 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|Parental Controls]]
+**ChatGPT** · 2025-09-29 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls) · from [[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|Parental Controls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Turn off voice mode, to remove the option to use voice mode in ChatGPT.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#parental-controls
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -88,5 +88,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-29-9d6772&body=Card%3A%20Changes%2FChatGPT%2F2025-09-29-turn-off-voice-mode-to-remove-the-option-to-use-voice-mode-in-chatgpt.md%0ACard%20ID%3A%20chatgpt-2025-09-29-9d6772%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-09-29-9d6772&body=Card%3A%20Changes%2FChatGPT%2F2025-09-29-turn-off-voice-mode-to-remove-the-option-to-use-voice-mode-in-chatgpt.md%0ACard%20ID%3A%20chatgpt-2025-09-29-9d6772%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23parental-controls%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

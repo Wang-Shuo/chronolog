@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c5ef40d897606b957865b1823320acff4e9c6975dc348fc904e55f07e8e35648
+machine_hash: a25b00458912182bff4ad958aa247e21300f8819c94ec326058cc8ebc6ce4ad0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,7 +51,7 @@ record:
       users may not see it right away.ChatGPT can help users understand and plan,
       but it cannot move money, pay bills, place trades, file taxes, or act as a financial,
       legal, tax, or investment adviser.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personal-finances-in-chatgpt
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -90,13 +90,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Personal finances in ChatGPT
 
-**ChatGPT** · 2026-05-15 · [[Themes/file-data|Files and Data]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-05-15-personal-finances-in-chatgpt-028801eb|Personal finances in ChatGPT]]
+**ChatGPT** · 2026-05-15 · [[Themes/file-data|Files and Data]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personal-finances-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-05-15-personal-finances-in-chatgpt-028801eb|Personal finances in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re starting to roll out a new personal finance experience in ChatGPT. Pro users in the United States can securely connect supported financial accounts, see a dashboard of where their money is going, and ask questions grounded in their financial context.Available on web and iOS, Finances lets you view spending, bills, subscriptions, net worth, and investment information in one place. You can ask questions directly in ChatGPT or use the Finances page to explore insights, review upcoming payments, track recurring charges, and think through budgets, savings goals, debt payoff, and other financial decisions.Users can connect accounts through Plaid. This experience is rolling out gradually, so some eligible users may not see it right away.ChatGPT can help users understand and plan, but it cannot move money, pay bills, place trades, file taxes, or act as a financial, legal, tax, or investment adviser.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personal-finances-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -117,5 +117,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-05-15-337daf&body=Card%3A%20Changes%2FChatGPT%2F2026-05-15-we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user.md%0ACard%20ID%3A%20chatgpt-2026-05-15-337daf%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-05-15-337daf&body=Card%3A%20Changes%2FChatGPT%2F2026-05-15-we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user.md%0ACard%20ID%3A%20chatgpt-2026-05-15-337daf%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23personal-finances-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

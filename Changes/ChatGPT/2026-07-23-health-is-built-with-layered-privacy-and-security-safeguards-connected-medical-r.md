@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c160a1fd8110e3b0efc6064d29d9c9fad18293614530e0a70719119d7ea07a06
+machine_hash: df869244962cc0ca6e30ab9a7ec910bcd23639ac76e50bdfe1d569a1c808637b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
   - quote: Health is built with layered privacy and security safeguards. Connected
       medical records and Apple Health information, and conversations that use it,
       are not used to train our foundation models or target ads.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -72,13 +72,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Health is built with layered privacy and security safeguards
 
-**ChatGPT** · 2026-07-23 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6|Health in ChatGPT]]
+**ChatGPT** · 2026-07-23 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6|Health in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Health is built with layered privacy and security safeguards. Connected medical records and Apple Health information, and conversations that use it, are not used to train our foundation models or target ads.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -101,5 +101,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-23-4a5fd5&body=Card%3A%20Changes%2FChatGPT%2F2026-07-23-health-is-built-with-layered-privacy-and-security-safeguards-connected-medical-r.md%0ACard%20ID%3A%20chatgpt-2026-07-23-4a5fd5%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-23-4a5fd5&body=Card%3A%20Changes%2FChatGPT%2F2026-07-23-health-is-built-with-layered-privacy-and-security-safeguards-connected-medical-r.md%0ACard%20ID%3A%20chatgpt-2026-07-23-4a5fd5%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23health-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

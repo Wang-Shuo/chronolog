@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 27417dfa791d9804cf704052e0d015f40ab614087583d241e0230e246ade19ad
+machine_hash: feb6dc98df90cf3bf82a65b86d96bbfd2ec0f207d7875606cd28d1a7f5abd3a1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
       for now. When an existing group chat becomes read-only, users will retain access
       to the messages, files, and images already shared there. Individual ChatGPT
       conversations are unaffected.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-group-chats-in-chatgpt
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -65,13 +65,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Existing group chats will remain available and can continue to be used for now
 
-**ChatGPT** · 2026-07-09 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-09-retiring-group-chats-in-chatgpt-b45b9e40|Retiring group chats in ChatGPT]]
+**ChatGPT** · 2026-07-09 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-group-chats-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-07-09-retiring-group-chats-in-chatgpt-b45b9e40|Retiring group chats in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Existing group chats will remain available and can continue to be used for now. When an existing group chat becomes read-only, users will retain access to the messages, files, and images already shared there. Individual ChatGPT conversations are unaffected.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-group-chats-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -94,5 +94,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-09-af71cf&body=Card%3A%20Changes%2FChatGPT%2F2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w.md%0ACard%20ID%3A%20chatgpt-2026-07-09-af71cf%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-09-af71cf&body=Card%3A%20Changes%2FChatGPT%2F2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w.md%0ACard%20ID%3A%20chatgpt-2026-07-09-af71cf%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23retiring-group-chats-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

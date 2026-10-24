@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b305c8836bf014a67ac8c31190d8acf11d5a335e85fa4582a68d95f2b12744e
+machine_hash: 87de20728003ce1aa31a484731aa8949d6f57ff15bf6c30e7a5bddfda96ce62d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
   - quote: Cleaner “Select All” behavior (Cmd+A). Cmd+A now selects only the conversation
       content, excluding surrounding interface elements for cleaner copying and sharing
       of chat transcripts.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -63,13 +63,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Cleaner “Select All” behavior (Cmd+A)
 
-**ChatGPT** · 2026-02-13 · [[Themes/collaboration|Collaboration]] · Web · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0|ChatGPT updates: Better file uploads, easier copying, and more reliable long chats]]
+**ChatGPT** · 2026-02-13 · [[Themes/collaboration|Collaboration]] · Web · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats) · from [[Releases/ChatGPT/chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0|ChatGPT updates: Better file uploads, easier copying, and more reliable long chats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Cleaner “Select All” behavior (Cmd+A). Cmd+A now selects only the conversation content, excluding surrounding interface elements for cleaner copying and sharing of chat transcripts.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -96,5 +96,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-13-dc142e&body=Card%3A%20Changes%2FChatGPT%2F2026-02-13-cleaner-select-all-behavior-cmd-a-cmd-a-now-selects-only-the-conversation-conten.md%0ACard%20ID%3A%20chatgpt-2026-02-13-dc142e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-13-dc142e&body=Card%3A%20Changes%2FChatGPT%2F2026-02-13-cleaner-select-all-behavior-cmd-a-cmd-a-now-selects-only-the-conversation-conten.md%0ACard%20ID%3A%20chatgpt-2026-02-13-dc142e%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -1,11 +1,11 @@
 ---
 card_id: cursor-2023-03-14-0021fe
 date: '2023-03-14'
-description: 'Cursor · 2023-03-14 · Mobile and Desktop: Windows and Linux support
-  🥳'
+description: "Cursor · 2023-03-14 · Mobile and Desktop: Windows and Linux support
+  \U0001F973"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 0
   relation: same-theme-chronology
@@ -26,9 +26,9 @@ record:
   comparison: ''
   confidence: low
   date: '2023-03-14'
-  description: 'Cursor — v0.0.37 (2023-03-14): Windows and Linux support 🥳'
+  description: "Cursor — v0.0.37 (2023-03-14): Windows and Linux support \U0001F973"
   evidence:
-  - quote: Windows and Linux support 🥳
+  - quote: "Windows and Linux support \U0001F973"
     source_release: https://cursor.com/changelog/0-0-37
   extractor_version: fallback-v5
   impact: significant
@@ -41,12 +41,12 @@ record:
   theme: mobile-desktop
   theme_matches: []
   theme_resolution: manual-backfill-review-v1
-  title: Windows and Linux support 🥳
+  title: "Windows and Linux support \U0001F973"
   type: change
 source_release: '[[Releases/Cursor/cursor-2023-03-14-0-0-37-https-cursor-com-changelog-0-0-37-236c8006|cursor-2023-03-14-0-0-37-https-cursor-com-changelog-0-0-37-236c8006]]'
 source_type: cursor_changelog
 theme: mobile-desktop
-title: Windows and Linux support 🥳
+title: "Windows and Linux support \U0001F973"
 type: change
 ---
 

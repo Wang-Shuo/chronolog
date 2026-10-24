@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cda1abc328c061f2f7a77f3c1c20153693fc3e6c754140a8d8f24aac2045e931
+machine_hash: fbd7ebc05ebcb03594f59e5c1263e3ba794136d5a989baf3f22eddd1313a8c79
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,7 +45,7 @@ record:
       users also now have a “Show additional models” toggle in ChatGPT web settings
       which will add models like o3, o4-mini, 4.1, and GPT-5 Thinking mini. 4.5 is
       only available to Pro users due to GPUs.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5-updates
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -89,13 +89,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # GPT-5 Updates
 
-**ChatGPT** · 2025-08-12 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-08-12-gpt-5-updates-9aaeee46|GPT-5 Updates]]
+**ChatGPT** · 2025-08-12 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5-updates) · from [[Releases/ChatGPT/chatgpt-2025-08-12-gpt-5-updates-9aaeee46|GPT-5 Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > You can now choose between “Auto”, “Fast”, and “Thinking” for GPT-5. Most users will want Auto, but the additional control will be useful for some people.ChatGPT Plus users now have 3,000 messages/week with GPT-5 Thinking, and then extra capacity on GPT-5 Thinking mini after that limit. The context limit for GPT-5 Thinking is 196k tokens. We may have to update rate limits over time depending on usage.4o is back in the model picker for all paid users by default. Paid users also now have a “Show additional models” toggle in ChatGPT web settings which will add models like o3, o4-mini, 4.1, and GPT-5 Thinking mini. 4.5 is only available to Pro users due to GPUs.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-5-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -116,5 +116,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-08-12-f4c05b&body=Card%3A%20Changes%2FChatGPT%2F2025-08-12-you-can-now-choose-between-auto-fast-and-thinking-for-gpt-5-most-users-will-want-f4c05b.md%0ACard%20ID%3A%20chatgpt-2025-08-12-f4c05b%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-08-12-f4c05b&body=Card%3A%20Changes%2FChatGPT%2F2025-08-12-you-can-now-choose-between-auto-fast-and-thinking-for-gpt-5-most-users-will-want-f4c05b.md%0ACard%20ID%3A%20chatgpt-2025-08-12-f4c05b%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23gpt-5-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

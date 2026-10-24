@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aba1b86dcde008bcffed0ce0693a968727e2e84887a0419718dc871399fe1b17
+machine_hash: 876ce9f315794e30322fac23cd3c1a679dddbda48a2bac181d07e0b737bb7512
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -26,12 +26,12 @@ record:
   description: 'ChatGPT — Scheduled tasks in ChatGPT: Update on Pulse'
   evidence:
   - quote: Update on Pulse
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt
   - quote: Pulse is being sunset as proactive updates move into scheduled tasks. Pro
       users will continue to have access for 14 days from today. To keep receiving
       daily updates, you can ask ChatGPT to schedule a daily briefing based on your
       interests and past chats.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -60,7 +60,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Update on Pulse
 
-**ChatGPT** · 2026-06-17 · [[Themes/automation-scheduling|Automation and Scheduling]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a|Scheduled tasks in ChatGPT]]
+**ChatGPT** · 2026-06-17 · [[Themes/automation-scheduling|Automation and Scheduling]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a|Scheduled tasks in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -68,7 +68,7 @@ type: change
 >
 > Pulse is being sunset as proactive updates move into scheduled tasks. Pro users will continue to have access for 14 days from today. To keep receiving daily updates, you can ask ChatGPT to schedule a daily briefing based on your interests and past chats.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -95,5 +95,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-17-f71397&body=Card%3A%20Changes%2FChatGPT%2F2026-06-17-update-on-pulse.md%0ACard%20ID%3A%20chatgpt-2026-06-17-f71397%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-06-17-f71397&body=Card%3A%20Changes%2FChatGPT%2F2026-06-17-update-on-pulse.md%0ACard%20ID%3A%20chatgpt-2026-06-17-f71397%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23scheduled-tasks-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

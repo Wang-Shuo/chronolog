@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3b6f85dee2d1cb053ccb209377856e894c1a885b4ebe5e232edf105208bdb2d2
+machine_hash: ca0fe22a731ef5c8bf535266e885503a078ffb0f57001e91e700965eb82fde6f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -31,7 +31,7 @@ record:
   evidence:
   - quote: We’ve made it easier to bring documents and saved files into your conversations,
       find what you need, and pick up where you left off.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -60,13 +60,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # ChatGPT makes it easier to bring documents and saved files into your conversations…
 
-**ChatGPT** · 2026-08-07 · [[Themes/file-data|Files and Data]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
+**ChatGPT** · 2026-08-07 · [[Themes/file-data|Files and Data]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’ve made it easier to bring documents and saved files into your conversations, find what you need, and pick up where you left off.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -91,5 +91,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-07-5fe84d&body=Card%3A%20Changes%2FChatGPT%2F2026-08-07-we-ve-made-it-easier-to-bring-documents-and-saved-files-into-your-conversations.md%0ACard%20ID%3A%20chatgpt-2026-08-07-5fe84d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-07-5fe84d&body=Card%3A%20Changes%2FChatGPT%2F2026-08-07-we-ve-made-it-easier-to-bring-documents-and-saved-files-into-your-conversations.md%0ACard%20ID%3A%20chatgpt-2026-08-07-5fe84d%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-app-experience-updates%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

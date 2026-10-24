@@ -3,7 +3,7 @@ changes_count: 10
 date: '2026-06-08'
 description: 'ChatGPT release ChatGPT app experience updates on 2026-06-08: 10 tracked
   changes across Mobile and Desktop, Files and Data, Interface Experience, Editor…'
-machine_hash: a80d9f1f03f0b01e05bf350ace6dbb781ef67f8dbce02c895c7d376e46f10b7b
+machine_hash: 8ad511893c71233d6482d9d1e3d8cf038ac50585e318267a4936d1ed26296ed8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -16,13 +16,13 @@ record:
     Also fixes long-standing issues around editing messages with attachments, and
     various other bug fixes.
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
   title: ChatGPT app experience updates
   version: ChatGPT app experience updates
 release_id: chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5
 source_release: ChatGPT app experience updates
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates
 tags:
 - release
 - chatgpt
@@ -33,7 +33,7 @@ version: ChatGPT app experience updates
 <!-- chronolog:begin region="header" -->
 # ChatGPT app experience updates
 
-**ChatGPT** · 2026-06-08 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-06-08 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates)
 <!-- chronolog:end -->
 
 ## Summary

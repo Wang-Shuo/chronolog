@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-10-06'
 description: 'ChatGPT release Audio uploads in ChatGPT on 2026-10-06: 1 tracked change
   across Voice and Audio'
-machine_hash: a91467a0c7251c27dfa2667f02d6b426710830671d1a69e0dc4e916be48a169b
+machine_hash: 16854aab8c70201c483ddcab5cccbf620056a10a49847b41b6ef95e048b17131
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     a supported audio file to a conversation and describe what you need.Audio uploads
     are…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#audio-uploads-in-chatgpt
   title: Audio uploads in ChatGPT
   version: Audio uploads in ChatGPT
 release_id: chatgpt-2026-10-06-audio-uploads-in-chatgpt-e9ed5a9f
 source_release: Audio uploads in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#audio-uploads-in-chatgpt
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: Audio uploads in ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Audio uploads in ChatGPT
 
-**ChatGPT** · 2026-10-06 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-10-06 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#audio-uploads-in-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

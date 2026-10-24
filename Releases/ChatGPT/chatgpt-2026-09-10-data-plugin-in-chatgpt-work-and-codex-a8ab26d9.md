@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-09-10'
 description: 'ChatGPT release Data plugin in ChatGPT Work and Codex on 2026-09-10:
   1 tracked change across Apps and Integrations'
-machine_hash: 4cc27bc436bba9047bda7afb5927c9ff6cf81f6510e05c915fae2b2477643938
+machine_hash: 9cd8c105635f733cc27507842cfcf95cf019fad780db8d5921e0f2ca00044121
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     dashboard or report. You can refine the analysis with follow-up questions and
     bring in your team’s metric definitions and other business context.To get started…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#data-plugin-in-chatgpt-work-and-codex
   title: Data plugin in ChatGPT Work and Codex
   version: Data plugin in ChatGPT Work and Codex
 release_id: chatgpt-2026-09-10-data-plugin-in-chatgpt-work-and-codex-a8ab26d9
 source_release: Data plugin in ChatGPT Work and Codex
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#data-plugin-in-chatgpt-work-and-codex
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Data plugin in ChatGPT Work and Codex
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Data plugin in ChatGPT Work and Codex
 
-**ChatGPT** · 2026-09-10 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-09-10 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#data-plugin-in-chatgpt-work-and-codex)
 <!-- chronolog:end -->
 
 ## Summary

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a1b571ab4a8ad2da0fe4ae4a643cac5a63066372a4619feaea2be90d0d1aef7c
+machine_hash: 6cb22948b86f60c96c836511b4f0e8f99a2a08f18a70b2477e91fecdf7058425
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -30,7 +30,7 @@ record:
     40 uploaded files, up from 20, for Pro users.'
   evidence:
   - quote: Projects can now support 40 uploaded files, up from 20, for Pro users.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-file-limit-increased-pro
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -60,13 +60,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Project file limit increased (Pro)
 
-**ChatGPT** · 2025-06-24 · [[Themes/file-data|Files and Data]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-06-24-project-file-limit-increased-pro-a6870635|Project file limit increased (Pro)]]
+**ChatGPT** · 2025-06-24 · [[Themes/file-data|Files and Data]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-file-limit-increased-pro) · from [[Releases/ChatGPT/chatgpt-2025-06-24-project-file-limit-increased-pro-a6870635|Project file limit increased (Pro)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Projects can now support 40 uploaded files, up from 20, for Pro users.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#project-file-limit-increased-pro
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -87,5 +87,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-24-e74d4b&body=Card%3A%20Changes%2FChatGPT%2F2025-06-24-projects-can-now-support-40-uploaded-files-up-from-20-for-pro-users.md%0ACard%20ID%3A%20chatgpt-2025-06-24-e74d4b%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-06-24-e74d4b&body=Card%3A%20Changes%2FChatGPT%2F2025-06-24-projects-can-now-support-40-uploaded-files-up-from-20-for-pro-users.md%0ACard%20ID%3A%20chatgpt-2025-06-24-e74d4b%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23project-file-limit-increased-pro%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

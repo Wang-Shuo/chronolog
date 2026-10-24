@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-06-24'
 description: 'ChatGPT release GPT-5.5 Instant Update on 2026-06-24: 1 tracked change
   across Model Support'
-machine_hash: 8bec55f426b9006d2553807b4af1f23e5a925f426d713a63eb8523f1eb5888b6
+machine_hash: da9ad94d4faa332e1249e92bb0d16e13d9f862b6fb70fcb6a576fd06ab3aced8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -18,13 +18,13 @@ record:
     is better at identifying the underlying goal behind a question and carrying context
     across…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-update
   title: GPT-5.5 Instant Update
   version: GPT-5.5 Instant Update
 release_id: chatgpt-2026-06-24-gpt-5-5-instant-update-6c17e30e
 source_release: GPT-5.5 Instant Update
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-update
 tags:
 - release
 - chatgpt
@@ -35,7 +35,7 @@ version: GPT-5.5 Instant Update
 <!-- chronolog:begin region="header" -->
 # ChatGPT · GPT-5.5 Instant Update
 
-**ChatGPT** · 2026-06-24 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-06-24 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-update)
 <!-- chronolog:end -->
 
 ## Summary

@@ -5,8 +5,8 @@ description: 'Claude Code · 2026-10-08 · Mobile and Desktop: 2 changes in v2.1
   — Changed `claude agents` stopped with its background service (macOS, or Linux without
   the…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1304
   relation: same-theme-chronology

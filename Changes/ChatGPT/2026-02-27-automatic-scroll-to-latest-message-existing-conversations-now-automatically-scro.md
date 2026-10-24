@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 07332134fb21ff72f33c0c88b72b8e9dd01c566f73234fbc522ea462faed4b76
+machine_hash: f9f84c971691e83310172e88ed28d2fa5940bd90919b3258630b9fe31c54c9df
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -32,7 +32,7 @@ record:
   evidence:
   - quote: Automatic scroll to latest message. Existing conversations now automatically
       scroll to the bottom, so you can jump right back in.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -65,13 +65,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Automatic scroll to latest message
 
-**ChatGPT** · 2026-02-27 · [[Themes/interface-experience|Interface Experience]] · Android · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|ChatGPT Web and Android updates: Edit image prompts, share faster, and smoother conversations]]
+**ChatGPT** · 2026-02-27 · [[Themes/interface-experience|Interface Experience]] · Android · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations) · from [[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|ChatGPT Web and Android updates: Edit image prompts, share faster, and smoother conversations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Automatic scroll to latest message. Existing conversations now automatically scroll to the bottom, so you can jump right back in.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -100,5 +100,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-27-0e79ba&body=Card%3A%20Changes%2FChatGPT%2F2026-02-27-automatic-scroll-to-latest-message-existing-conversations-now-automatically-scro.md%0ACard%20ID%3A%20chatgpt-2026-02-27-0e79ba%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-02-27-0e79ba&body=Card%3A%20Changes%2FChatGPT%2F2026-02-27-automatic-scroll-to-latest-message-existing-conversations-now-automatically-scro.md%0ACard%20ID%3A%20chatgpt-2026-02-27-0e79ba%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

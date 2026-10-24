@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 74be1d43c85fa97f4f7cc15b9cc3b0a2fcd0aa1e3c961b11713be53122a14915
+machine_hash: d62ee28308ab7f246912150f8085defddcdba4e32684d3f22cdca5aaef577d0c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -28,7 +28,7 @@ record:
     Unlimited GPT-Live-1 usage.'
   evidence:
   - quote: 'Pro ($200/month): Unlimited GPT-Live-1 usage.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-models-and-usage-limits-in-chatgpt-voice
   extractor_version: fallback-v5
   impact: incremental
   kind: pricing
@@ -59,13 +59,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Pro ($200/month): Unlimited GPT-Live-1 usage
 
-**ChatGPT** · 2026-09-09 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-09-updated-models-and-usage-limits-in-chatgpt-voice-03e6b03f|Updated models and usage limits in ChatGPT Voice]]
+**ChatGPT** · 2026-09-09 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-models-and-usage-limits-in-chatgpt-voice) · from [[Releases/ChatGPT/chatgpt-2026-09-09-updated-models-and-usage-limits-in-chatgpt-voice-03e6b03f|Updated models and usage limits in ChatGPT Voice]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Pro ($200/month): Unlimited GPT-Live-1 usage.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-models-and-usage-limits-in-chatgpt-voice
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -89,5 +89,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-09-36c3c2&body=Card%3A%20Changes%2FChatGPT%2F2026-09-09-pro-200-month-unlimited-gpt-live-1-usage.md%0ACard%20ID%3A%20chatgpt-2026-09-09-36c3c2%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-09-36c3c2&body=Card%3A%20Changes%2FChatGPT%2F2026-09-09-pro-200-month-unlimited-gpt-live-1-usage.md%0ACard%20ID%3A%20chatgpt-2026-09-09-36c3c2%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23updated-models-and-usage-limits-in-chatgpt-voice%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

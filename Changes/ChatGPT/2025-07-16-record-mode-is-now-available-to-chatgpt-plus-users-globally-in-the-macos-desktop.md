@@ -4,8 +4,8 @@ date: '2025-07-16'
 description: 'ChatGPT · 2025-07-16 · Mobile and Desktop: Record mode is now available
   to ChatGPT Plus users globally in the macOS desktop app.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 855
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: e4d7ddc5f634c9fcbb5c8a8f6f47863569947a4f36b25e786f6c26e10487bf24
+machine_hash: d1bd0fa8b18d4875c41674d0a151f1c5b8fa90016ad9a38aa5662218009e47a7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   evidence:
   - quote: Record mode is now available to ChatGPT Plus users globally in the macOS
       desktop app.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#record-mode-in-chatgpt-macos-desktop-app-plus
   extractor_version: fallback-v5
   impact: incremental
   kind: expansion
@@ -60,13 +60,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Record mode is now available to ChatGPT Plus users globally in the macOS desktop app
 
-**ChatGPT** · 2025-07-16 · [[Themes/mobile-desktop|Mobile and Desktop]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1|Record mode in ChatGPT macOS desktop app (Plus)]]
+**ChatGPT** · 2025-07-16 · [[Themes/mobile-desktop|Mobile and Desktop]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#record-mode-in-chatgpt-macos-desktop-app-plus) · from [[Releases/ChatGPT/chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1|Record mode in ChatGPT macOS desktop app (Plus)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Record mode is now available to ChatGPT Plus users globally in the macOS desktop app.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#record-mode-in-chatgpt-macos-desktop-app-plus
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -89,5 +89,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-07-16-86ff26&body=Card%3A%20Changes%2FChatGPT%2F2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop.md%0ACard%20ID%3A%20chatgpt-2025-07-16-86ff26%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2025-07-16-86ff26&body=Card%3A%20Changes%2FChatGPT%2F2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop.md%0ACard%20ID%3A%20chatgpt-2025-07-16-86ff26%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23record-mode-in-chatgpt-macos-desktop-app-plus%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-03-11'
 description: 'ChatGPT release Retiring GPT-5.1 models on 2026-03-11: 1 tracked change
   across Model Support'
-machine_hash: 7abd9519bcf37e0b85ddc4ced6b27afd5744d3e8a4261e2bce04b44568d8a8ff
+machine_hash: 2983f2b8f3b88befa7a615237ec3e3adc2204560e22551f3a609a2e94ff3121f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     conversations that used GPT-5.1 will automatically continue on the corresponding
     current model: GPT-5.3 Instant, GPT-5.4 Thinking, or GPT-5.4 Pro.'
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-51-models
   title: Retiring GPT-5.1 models
   version: Retiring GPT-5.1 models
 release_id: chatgpt-2026-03-11-retiring-gpt-5-1-models-279eddb4
 source_release: Retiring GPT-5.1 models
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-51-models
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: Retiring GPT-5.1 models
 <!-- chronolog:begin region="header" -->
 # ChatGPT · Retiring GPT-5.1 models
 
-**ChatGPT** · 2026-03-11 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-03-11 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-51-models)
 <!-- chronolog:end -->
 
 ## Summary

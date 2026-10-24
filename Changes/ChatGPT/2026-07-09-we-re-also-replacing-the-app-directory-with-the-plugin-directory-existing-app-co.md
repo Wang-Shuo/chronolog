@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5b9c7a3288521a9265f677645e655bba5610da18838f8a54460b09879067b87a
+machine_hash: e8c542f0cf695ff66a9ad71256763c689a9b8530d5a9a063a8a8950fc86615b5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,7 +33,7 @@ record:
       app connections are unaffected. Plugins can package skills, apps, and app templates
       for specific workflows, and are available from ChatGPT on web and desktop, including
       Work and Codex.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -74,13 +74,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # We’re also replacing the App Directory with the Plugin Directory
 
-**ChatGPT** · 2026-07-09 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|Introducing ChatGPT Work]]
+**ChatGPT** · 2026-07-09 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work) · from [[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|Introducing ChatGPT Work]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re also replacing the App Directory with the Plugin Directory. Existing app connections are unaffected. Plugins can package skills, apps, and app templates for specific workflows, and are available from ChatGPT on web and desktop, including Work and Codex.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -105,5 +105,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-09-9c5d58&body=Card%3A%20Changes%2FChatGPT%2F2026-07-09-we-re-also-replacing-the-app-directory-with-the-plugin-directory-existing-app-co.md%0ACard%20ID%3A%20chatgpt-2026-07-09-9c5d58%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-09-9c5d58&body=Card%3A%20Changes%2FChatGPT%2F2026-07-09-we-re-also-replacing-the-app-directory-with-the-plugin-directory-existing-app-co.md%0ACard%20ID%3A%20chatgpt-2026-07-09-9c5d58%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23introducing-chatgpt-work%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

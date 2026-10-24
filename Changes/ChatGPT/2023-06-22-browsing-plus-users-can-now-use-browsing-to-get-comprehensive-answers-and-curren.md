@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4598f35483dca45a9a5137dc3f875de7f5ded7516ffd22796f632c86a45a8ace
+machine_hash: 85831fc7ba519f12fc81972ddbf15891ee798bff402b0163aeeb2f83a7e0cdb4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       original training data. To try it out, enable Browsing in the “new features”
       section of your app settings. Then select GPT-4 in the model switcher and choose
       “Browse with Bing” in the drop-down.'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-and-search-on-mobile
   extractor_version: fallback-v5
   impact: significant
   kind: change
@@ -79,13 +79,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Browsing: Plus users can now use Browsing to get comprehensive answers and current…
 
-**ChatGPT** · 2023-06-22 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98|Browsing and search on mobile]]
+**ChatGPT** · 2023-06-22 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-and-search-on-mobile) · from [[Releases/ChatGPT/chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98|Browsing and search on mobile]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Browsing: Plus users can now use Browsing to get comprehensive answers and current insights on events and information that extend beyond the model's original training data. To try it out, enable Browsing in the “new features” section of your app settings. Then select GPT-4 in the model switcher and choose “Browse with Bing” in the drop-down.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#browsing-and-search-on-mobile
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -109,5 +109,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-06-22-1011b0&body=Card%3A%20Changes%2FChatGPT%2F2023-06-22-browsing-plus-users-can-now-use-browsing-to-get-comprehensive-answers-and-curren.md%0ACard%20ID%3A%20chatgpt-2023-06-22-1011b0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-06-22-1011b0&body=Card%3A%20Changes%2FChatGPT%2F2023-06-22-browsing-plus-users-can-now-use-browsing-to-get-comprehensive-answers-and-curren.md%0ACard%20ID%3A%20chatgpt-2023-06-22-1011b0%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23browsing-and-search-on-mobile%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

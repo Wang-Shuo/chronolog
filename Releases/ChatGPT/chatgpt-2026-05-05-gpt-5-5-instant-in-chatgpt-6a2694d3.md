@@ -3,7 +3,7 @@ changes_count: 1
 date: '2026-05-05'
 description: 'ChatGPT release GPT-5.5 Instant in ChatGPT on 2026-05-05: 1 tracked
   change across Model Support'
-machine_hash: eba161ee2e6a0b88c77463a87d6b309cb79f471989acd748c518e2af322b44dc
+machine_hash: d9770547c7cc674ed50ccb34ab3e614e652739778c72c8c8e45e9dc73cb1f59d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -17,13 +17,13 @@ record:
     across accuracy, clarity and conciseness, image understanding, STEM questions,
     and when ChatGPT decides to search the web.GPT-5.5 Instant is more factually reliable…
   source_type: chatgpt_changelog
-  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+  source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-in-chatgpt
   title: GPT-5.5 Instant in ChatGPT
   version: GPT-5.5 Instant in ChatGPT
 release_id: chatgpt-2026-05-05-gpt-5-5-instant-in-chatgpt-6a2694d3
 source_release: GPT-5.5 Instant in ChatGPT
 source_type: chatgpt_changelog
-source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+source_url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-in-chatgpt
 tags:
 - release
 - chatgpt
@@ -34,7 +34,7 @@ version: GPT-5.5 Instant in ChatGPT
 <!-- chronolog:begin region="header" -->
 # ChatGPT · GPT-5.5 Instant in ChatGPT
 
-**ChatGPT** · 2026-05-05 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+**ChatGPT** · 2026-05-05 · [Official release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-in-chatgpt)
 <!-- chronolog:end -->
 
 ## Summary

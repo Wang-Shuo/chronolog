@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b4c925852cac651d01abcba127b84691dbb8d2e6758df04d855c3b15293aaae5
+machine_hash: 5d6ade447ab982dcbf8e8944aa94c6b6be404c592bb4cfdd37b6e6934924dcbc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -29,7 +29,7 @@ record:
   evidence:
   - quote: Keep recent chats easier to browse. Your sidebar now shows up to eight
       recent conversations.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt-on-android
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -68,13 +68,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Keep recent chats easier to browse
 
-**ChatGPT** · 2026-08-21 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-08-21-updates-to-chatgpt-on-android-8e3bdeee|Updates to ChatGPT on Android]]
+**ChatGPT** · 2026-08-21 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt-on-android) · from [[Releases/ChatGPT/chatgpt-2026-08-21-updates-to-chatgpt-on-android-8e3bdeee|Updates to ChatGPT on Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Keep recent chats easier to browse. Your sidebar now shows up to eight recent conversations.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt-on-android
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -97,5 +97,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-21-9fd387&body=Card%3A%20Changes%2FChatGPT%2F2026-08-21-keep-recent-chats-easier-to-browse-your-sidebar-now-shows-up-to-eight-recent-con.md%0ACard%20ID%3A%20chatgpt-2026-08-21-9fd387%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-08-21-9fd387&body=Card%3A%20Changes%2FChatGPT%2F2026-08-21-keep-recent-chats-easier-to-browse-your-sidebar-now-shows-up-to-eight-recent-con.md%0ACard%20ID%3A%20chatgpt-2026-08-21-9fd387%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23updates-to-chatgpt-on-android%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

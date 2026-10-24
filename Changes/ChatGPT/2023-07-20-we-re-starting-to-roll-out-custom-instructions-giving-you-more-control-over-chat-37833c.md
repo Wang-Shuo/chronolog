@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dd8b2bccc078e9c760a990ac994e73ed7208c12ea0589fccfe84d1e955039c6b
+machine_hash: 36b57d3c63e9d3ed74787a65b452b23e361febf0d1b4978a3ac8b4bbfa3717f3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -37,7 +37,7 @@ record:
       conversations. You can read more about custom instructions in the blogpost here.Custom
       instructions are available to all Plus users and expanding to all users in the
       coming weeks.To enable beta features:'
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-instructions-are-rolling-out-in-beta
   extractor_version: fallback-v5
   impact: incremental
   kind: change
@@ -59,13 +59,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Custom instructions are rolling out in beta
 
-**ChatGPT** · 2023-07-20 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2023-07-20-custom-instructions-are-rolling-out-in-beta-bf9360b9|Custom instructions are rolling out in beta]]
+**ChatGPT** · 2023-07-20 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-instructions-are-rolling-out-in-beta) · from [[Releases/ChatGPT/chatgpt-2023-07-20-custom-instructions-are-rolling-out-in-beta-bf9360b9|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > We’re starting to roll out custom instructions, giving you more control over ChatGPT’s responses. Set your preferences once, and they’ll steer future conversations. You can read more about custom instructions in the blogpost here.Custom instructions are available to all Plus users and expanding to all users in the coming weeks.To enable beta features:
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#custom-instructions-are-rolling-out-in-beta
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -85,5 +85,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-07-20-37833c&body=Card%3A%20Changes%2FChatGPT%2F2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c.md%0ACard%20ID%3A%20chatgpt-2023-07-20-37833c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2023-07-20-37833c&body=Card%3A%20Changes%2FChatGPT%2F2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c.md%0ACard%20ID%3A%20chatgpt-2023-07-20-37833c%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23custom-instructions-are-rolling-out-in-beta%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->
