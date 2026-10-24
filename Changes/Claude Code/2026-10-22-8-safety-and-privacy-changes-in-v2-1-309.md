@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 230f94c4f3e62e3460bd4d2b86e966d889e639a727cb861643411dfe12ecf0a1
+machine_hash: dc41c940674e560c1866afc2a95925854409da44a377395bcd5e41c054ade1f9
 product: claude-code
 product_name: Claude Code
 record:
@@ -127,6 +127,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.309
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-added-the-claude-code-safety-event-opentelemetry-event-for-each-tool-call-a-perm|Added the claude_code.safety_event OpenTelemetry event for each tool call…]]
+- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-4-safety-and-privacy-changes-in-v2-1-310|4 Safety and Privacy changes in v2.1.310]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

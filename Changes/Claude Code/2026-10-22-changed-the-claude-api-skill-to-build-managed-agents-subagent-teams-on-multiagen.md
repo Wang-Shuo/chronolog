@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eb3954aff125c86670d95cba4a756d08adca4ba56a41df5fd721ba117e894b6b
+machine_hash: a1b361a5f3c42db14001e7d6abfe7e331c08244f0d064dda16be77e64deeb765
 product: claude-code
 product_name: Claude Code
 record:
@@ -96,6 +96,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-improved-fork-subagents-launched-together-each-is-now-told-which-launch-is-its-o|Improved fork subagents launched together]]
+- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-2-agent-mode-changes-in-v2-1-310|2 Agent Mode changes in v2.1.310]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

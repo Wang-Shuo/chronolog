@@ -1,10 +1,10 @@
 ---
 created: '2023-03-14'
-date: '2026-10-22'
+date: '2026-10-23'
 description: Cross-product timeline of Editor Experience changes in ChatGPT, Claude
   Code and Cursor.
-machine_hash: 416a0233e3a1522aae2e7016f609fd5841b828764ac01ea1201f4e40ecc44ff0
-modified: '2026-10-22'
+machine_hash: 101ffcbcdf992fbfaa0374772ddb754ea95f6fac8fcb4a32162578b830af4e81
+modified: '2026-10-23'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Editor Experience
 <!-- chronolog:begin region="header" -->
 # Editor Experience
 
-166 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-14 → 2026-10-22 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
+167 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-14 → 2026-10-23 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -54,10 +54,11 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 88 entries (ChatGPT 7 · Claude Code 61 · Cursor 20)
+### 2026 · 89 entries (ChatGPT 7 · Claude Code 62 · Cursor 20)
 
 #### 2026-10
 
+- 2026-10-23 · **Claude Code** · [[Changes/Claude Code/2026-10-23-cloud-sessions-changed-the-cloud-environment-dialog-to-open-network-access-setup|Cloud sessions Changed the cloud environment dialog to open network access, setup…]]
 - 2026-10-22 · **Claude Code** · [[Changes/Claude Code/2026-10-22-2-editor-experience-changes-in-v2-1-309|2 Editor Experience changes in v2.1.309]] · Digest
 - 2026-10-16 · **ChatGPT** · [[Changes/ChatGPT/2026-10-16-create-and-refine-edit-text-images-shapes-and-charts-directly-or-ask-chatgpt-to|Create and refine]]
 - 2026-10-16 · **ChatGPT** · [[Changes/ChatGPT/2026-10-16-work-together-invite-teammates-to-edit-the-same-deck-in-real-time-and-leave-shar|Work together]]

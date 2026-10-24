@@ -1,11 +1,11 @@
 ---
 coverage:
-  acquired_at: '2026-10-23T12:44:43Z'
+  acquired_at: '2026-10-24T05:54:17Z'
   acquisition: http
   coverage: available-endpoint
   earliest: '2023-03-14'
   known_gaps: Official paginated changelog only; unannounced changes are outside scope.
-  last_successful_fetch: '2026-10-23T12:44:43Z'
+  last_successful_fetch: '2026-10-24T05:54:17Z'
   latest: '2026-10-16'
   release_count: 256
   url: https://cursor.com/changelog
@@ -13,7 +13,7 @@ created: '2023-03-14'
 date: '2026-10-16'
 description: AI code editor built on a fork of VSCodium, with local and cloud coding
   agents, tracked through the official Cursor changelog.
-machine_hash: 747f722ff961f9350934d3b9da9e2f683a66eb3c4a881fac1ab52ed2066288ca
+machine_hash: af782df2762a0f4fa2f82785182efe56e911836a24ce4d18c1c27d0499c06475
 modified: '2026-10-16'
 product: cursor
 product_name: Cursor
@@ -55,7 +55,7 @@ AI code editor built on a fork of VSCodium, with local and cloud coding agents, 
 
 ## Release cadence
 <!-- chronolog:begin region="cadence" -->
-Last release 2026-10-16 (6 days before the archive date) · 13 releases in the last 90 days · cadence: normal
+Last release 2026-10-16 (7 days before the archive date) · 13 releases in the last 90 days · cadence: normal
 
 Monthly releases, last 12 months (baseline 5.9 per month):
 

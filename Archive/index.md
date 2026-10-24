@@ -1,10 +1,10 @@
 ---
 created: '2022-12-15'
-date: '2026-10-22'
+date: '2026-10-23'
 description: Every tracked change by month of announcement, with the number of changes
   per product in each month.
-machine_hash: 6dda42a9a1db2f51740d4549697b0b3154767ef4cadbc641016c0a5a6a738777
-modified: '2026-10-22'
+machine_hash: dabf1cf61e29aa0a3765ef445f9c2e2f0b0c8d7e546f7fb3e05f1df8c451456d
+modified: '2026-10-23'
 publication: active
 tags:
 - archive
@@ -12,13 +12,13 @@ title: Archive
 ---
 
 <!-- chronolog:begin region="header" -->
-Tracked changes by month of announcement, newest first: 2,689 tracked changes in 47 months, December 2022 → October 2026.
+Tracked changes by month of announcement, newest first: 2,697 tracked changes in 47 months, December 2022 → October 2026.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="months" -->
 ### 2026
 
-- [[Archive/2026-10|October 2026]] · 199 changes (ChatGPT 18 · Claude Code 168 · Cursor 13)
+- [[Archive/2026-10|October 2026]] · 207 changes (ChatGPT 18 · Claude Code 176 · Cursor 13)
 - [[Archive/2026-09|September 2026]] · 294 changes (ChatGPT 46 · Claude Code 230 · Cursor 18)
 - [[Archive/2026-08|August 2026]] · 220 changes (ChatGPT 44 · Claude Code 155 · Cursor 21)
 - [[Archive/2026-07|July 2026]] · 175 changes (ChatGPT 30 · Claude Code 114 · Cursor 31)

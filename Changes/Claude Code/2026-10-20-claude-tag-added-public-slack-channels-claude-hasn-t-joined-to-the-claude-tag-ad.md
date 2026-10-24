@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 78cdcecbb0214bbecdebb92bcce69afe966844f8cf904768e73b55b56bc4be92
+machine_hash: cc22cb3225ea6152953eba7159a198dccfa97d50e1e871d42dd8133b59a3add9
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,6 +86,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-10-15 · ChatGPT · [[Changes/ChatGPT/2026-10-15-applications-are-now-open-to-labs-at-u-s-universities-if-you-re-a-principal-inve|Applications are now open to labs at U.S. universities]]
+- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-cloud-sessions-added-claude-code-cloud-sessions-and-remote-control-permissions-t|Cloud sessions Added Claude Code cloud sessions and Remote Control permissions…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
