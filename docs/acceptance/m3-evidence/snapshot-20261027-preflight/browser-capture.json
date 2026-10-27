@@ -1,0 +1,20 @@
+{
+  "captured_at": "2026-10-27T02:32:46.149Z",
+  "dom_chars": 913294,
+  "exported_chars": 913294,
+  "chunk_sizes": [
+    100000,
+    100000,
+    100000,
+    100000,
+    100000,
+    100000,
+    100000,
+    100000,
+    100000,
+    13294
+  ],
+  "source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+  "ends_with_html": true,
+  "contains_truncation": false
+}

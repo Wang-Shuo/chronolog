@@ -1,0 +1,34 @@
+{
+  "old_count": 298,
+  "new_count": 300,
+  "earliest": "2022-12-15",
+  "latest": "2026-10-26",
+  "missing_ids": [],
+  "added": [
+    {
+      "release_id": "chatgpt-2026-10-21-momo-payments-in-vietnam-cb7c2ee9",
+      "product": "chatgpt",
+      "product_name": "ChatGPT",
+      "date": "2026-10-21",
+      "version": "MoMo payments in Vietnam",
+      "title": "MoMo payments in Vietnam",
+      "body": "You can now use MoMo to pay for ChatGPT Go, Plus, and Pro subscriptions purchased on chatgpt.com in Vietnam.Subscriptions purchased through the iOS or Android app continue to be managed by the Apple App Store or Google Play. For supported currencies and payment methods, see: Multi-currency billing.",
+      "source_summary": "You can now use MoMo to pay for ChatGPT Go, Plus, and Pro subscriptions purchased on chatgpt.com in Vietnam.Subscriptions purchased through the iOS or Android app continue to be managed by the Apple App Store or Google Play. For supported currencies and payment methods, see: Multi-currency billing.",
+      "source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#momo-payments-in-vietnam",
+      "source_type": "chatgpt_changelog"
+    },
+    {
+      "release_id": "chatgpt-2026-10-26-gpt-6-1-terra-d321b573",
+      "product": "chatgpt",
+      "product_name": "ChatGPT",
+      "date": "2026-10-26",
+      "version": "GPT-6.1 Terra",
+      "title": "GPT-6.1 Terra",
+      "body": "GPT-6.1 Terra is rolling out in ChatGPT Work and Codex. It supports a range of tasks, including visual reasoning, computer use, and writing.The rollout includes Plus, Pro, Business, Enterprise, and Edu plans. As it reaches your account, you can use Terra in the Work and Codex experiences available with your plan, region, and workspace settings.Select GPT-6.1 Terra from the model list. Your plan’s overall usage limits are unchanged. Note that some Plus and Pro users may see GPT-6.1 Terra at Medium instead of GPT-6.1 Sol at Light in the default Power presets in Work. Standard and Fast modes are supported where available.Terra does not support UAE inference residency; this restriction is based on where inference runs, not your location.For help using the model, see: ChatGPT Work and Codex. For current usage estimates, see: Pricing.",
+      "source_summary": "GPT-6.1 Terra is rolling out in ChatGPT Work and Codex. It supports a range of tasks, including visual reasoning, computer use, and writing.The rollout includes Plus, Pro, Business, Enterprise, and Edu plans. As it reaches your account, you can use Terra in the Work and Codex experiences available with your plan…",
+      "source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-61-terra",
+      "source_type": "chatgpt_changelog"
+    }
+  ],
+  "modified": []
+}
