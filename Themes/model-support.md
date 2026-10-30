@@ -1,10 +1,10 @@
 ---
 created: '2023-01-09'
-date: '2026-10-19'
+date: '2026-10-30'
 description: 'Research question: how do the tracked products add, choose between and
   retire models?'
-machine_hash: def5125b7c0d377cfd3f2b7781511f6e3c0e4cdc7e6499c17341870239ac76a2
-modified: '2026-10-19'
+machine_hash: af80b523cd7cb8bb88f165fd3d153f119afdad4abf33388c63955029da8a7e29
+modified: '2026-10-30'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Model Support
 <!-- chronolog:begin region="header" -->
 # Model Support
 
-221 tracked changes across ChatGPT, Claude Code and Cursor · 2023-01-09 → 2026-10-19 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
+225 tracked changes across ChatGPT, Claude Code and Cursor · 2023-01-09 → 2026-10-30 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -64,10 +64,14 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 140 entries (ChatGPT 34 · Claude Code 92 · Cursor 14)
+### 2026 · 144 entries (ChatGPT 35 · Claude Code 95 · Cursor 14)
 
 #### 2026-10
 
+- 2026-10-30 · **Claude Code** · [[Changes/Claude Code/2026-10-30-2-model-support-changes-in-v2-1-314|2 Model Support changes in v2.1.314]] · Digest
+- 2026-10-27 · **Claude Code** · [[Changes/Claude Code/2026-10-27-3-model-support-changes-in-v2-1-312|3 Model Support changes in v2.1.312]] · Digest
+- 2026-10-26 · **ChatGPT** · [[Changes/ChatGPT/2026-10-26-gpt-6-1-terra-is-rolling-out-in-chatgpt-work-and-codex-it-supports-a-range-of-ta|GPT-6.1 Terra]]
+- 2026-10-26 · **Claude Code** · [[Changes/Claude Code/2026-10-26-5-model-support-changes-in-v2-1-311|5 Model Support changes in v2.1.311]] · Digest
 - 2026-10-19 · **Claude Code** · [[Changes/Claude Code/2026-10-19-2-model-support-changes-in-v2-1-304|2 Model Support changes in v2.1.304]] · Digest
 - 2026-10-16 · **ChatGPT** · [[Changes/ChatGPT/2026-10-16-gpt-6-pro-in-the-chat-tab-now-offers|GPT-6 Pro in the chat tab now offers]]
 - 2026-10-16 · **Claude Code** · [[Changes/Claude Code/2026-10-16-improved-the-message-when-a-background-session-reopened-from-another-folder-has|Improved the message when a background session reopened from another folder has no…]]

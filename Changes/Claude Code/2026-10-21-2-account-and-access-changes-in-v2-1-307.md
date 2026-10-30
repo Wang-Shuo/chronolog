@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: de5ee377903031f5f9574cfd1263e2df66752299a41f09e2385d2ade0c44d773
+machine_hash: a659d43d7779f142becb5b5a8513be37c678b03b73bc5a5d5b3a5a1c68db7fde
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,6 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.307
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-20 · Claude Code · [[Changes/Claude Code/2026-10-20-vscode-changed-the-message-shown-when-a-session-does-not-start-in-time-and-no-ho|VSCode Changed the message shown when a session does not start in time and no hook…]]
+- Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-improved-the-message-shown-when-a-pasted-sign-in-code-is-refused-it-now-says-the|Improved the message shown when a pasted sign-in code is refused]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -1,21 +1,21 @@
 ---
 coverage:
-  acquired_at: '2026-10-23T12:44:27Z'
+  acquired_at: '2026-10-30T12:41:57Z'
   acquisition: http
   coverage: available-endpoint
   earliest: '2025-12-19'
   known_gaps: GitHub Releases starts at v2.0.73 on 2025-12-19. Official CHANGELOG.md
     contains 0.2.x–2.0.72 history without publication dates; not imported.
-  last_successful_fetch: '2026-10-23T12:44:27Z'
-  latest: '2026-10-22'
-  release_count: 252
+  last_successful_fetch: '2026-10-30T12:41:57Z'
+  latest: '2026-10-30'
+  release_count: 256
   url: https://api.github.com/repos/anthropics/claude-code/releases
 created: '2025-12-19'
-date: '2026-10-22'
+date: '2026-10-30'
 description: Anthropic's coding agent for the terminal and IDEs, tracked through its
   official GitHub releases from v2.0.73 (2025-12-19).
-machine_hash: 178de9a71b8e80c6d90f061a385e83e1200bb59249b4e627442a64a32ae01424
-modified: '2026-10-22'
+machine_hash: 573c08720412066bd89199090c744ebae8c9633464e76a1eeb76ea8fb1f5b493
+modified: '2026-10-30'
 product: claude-code
 product_name: Claude Code
 publication: active
@@ -37,8 +37,8 @@ top_themes:
 - memory
 - enterprise-admin
 - pricing-model
-- automation-scheduling
 - accessibility-localization
+- automation-scheduling
 - voice
 - projects-workspaces
 - collaboration
@@ -46,18 +46,18 @@ top_themes:
 - search-browsing
 - multimodal
 - learning-tools
-verbosity_baseline: 6.97
+verbosity_baseline: 7.03
 ---
 
 <!-- chronolog:begin region="header" -->
 # Claude Code
 
-Anthropic's coding agent for the terminal and IDEs, tracked through its official GitHub releases from v2.0.73 (2025-12-19). · 252 releases · 2025-12-19 → 2026-10-22 · [[About|coverage details]]
+Anthropic's coding agent for the terminal and IDEs, tracked through its official GitHub releases from v2.0.73 (2025-12-19). · 256 releases · 2025-12-19 → 2026-10-30 · [[About|coverage details]]
 <!-- chronolog:end -->
 
 ## Release cadence
 <!-- chronolog:begin region="cadence" -->
-Last release 2026-10-22 (the archive date) · 76 releases in the last 90 days · cadence: normal
+Last release 2026-10-30 (the archive date) · 79 releases in the last 90 days · cadence: normal
 
 Monthly releases, last 12 months (baseline 23.1 per month):
 
@@ -72,7 +72,7 @@ Monthly releases, last 12 months (baseline 23.1 per month):
 - 2026-07 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 22
 - 2026-08 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 27
 - 2026-09 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 27
-- 2026-10 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 21
+- 2026-10 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 25
 <!-- chronolog:end -->
 
 ## Eras
@@ -116,40 +116,44 @@ Representative releases:
 
 ## Themes
 <!-- chronolog:begin region="themes" -->
-- [[Themes/apps-integrations|Apps and Integrations]] · 153 cards · ████████████
-- [[Themes/safety-privacy|Safety and Privacy]] · 145 cards · ███████████
-- [[Themes/developer-workflow|Developer Workflow]] · 130 cards · ██████████
-- [[Themes/interface-experience|Interface Experience]] · 124 cards · ██████████
-- [[Themes/agent-mode|Agent Mode]] · 120 cards · █████████
-- [[Themes/model-support|Model Support]] · 92 cards · ███████
-- [[Themes/reliability-performance|Reliability and Performance]] · 75 cards · ██████
-- [[Themes/context-window|Context Window]] · 72 cards · ██████
-- Other changes · 128 cards
+- [[Themes/apps-integrations|Apps and Integrations]] · 157 cards · ████████████
+- [[Themes/safety-privacy|Safety and Privacy]] · 149 cards · ███████████
+- [[Themes/developer-workflow|Developer Workflow]] · 133 cards · ██████████
+- [[Themes/interface-experience|Interface Experience]] · 127 cards · ██████████
+- [[Themes/agent-mode|Agent Mode]] · 124 cards · █████████
+- [[Themes/model-support|Model Support]] · 95 cards · ███████
+- [[Themes/reliability-performance|Reliability and Performance]] · 76 cards · ██████
+- [[Themes/context-window|Context Window]] · 74 cards · ██████
+- Other changes · 131 cards
 <!-- chronolog:end -->
 
 ## Recent releases
 <!-- chronolog:begin region="recent" -->
+- 2026-10-30 · [[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|v2.1.314]] · 12 cards
+- 2026-10-27 · [[Releases/Claude Code/claude-code-2026-10-27-v2-1-312-github-425846009-439d063a|v2.1.312]] · 8 cards
+- 2026-10-26 · [[Releases/Claude Code/claude-code-2026-10-26-v2-1-311-github-424682562-151da26b|v2.1.311]] · 12 cards
+- 2026-10-23 · [[Releases/Claude Code/claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2|v2.1.310]] · 8 cards
 - 2026-10-22 · [[Releases/Claude Code/claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99|v2.1.309]] · 10 cards
 - 2026-10-22 · [[Releases/Claude Code/claude-code-2026-10-22-v2-1-308-github-420299398-0af311eb|v2.1.308]] · 0 cards
 - 2026-10-21 · [[Releases/Claude Code/claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d|v2.1.307]] · 9 cards
 - 2026-10-21 · [[Releases/Claude Code/claude-code-2026-10-21-v2-1-306-github-419073006-dde2e38e|v2.1.306]] · 0 cards
 - 2026-10-20 · [[Releases/Claude Code/claude-code-2026-10-20-v2-1-305-github-418781864-90995baa|v2.1.305]] · 9 cards
 - 2026-10-19 · [[Releases/Claude Code/claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994|v2.1.304]] · 12 cards
-- 2026-10-18 · [[Releases/Claude Code/claude-code-2026-10-18-v2-1-303-github-416715237-080c2dd2|v2.1.303]] · 0 cards
-- 2026-10-16 · [[Releases/Claude Code/claude-code-2026-10-16-v2-1-302-github-415177347-763faf43|v2.1.302]] · 7 cards
-- 2026-10-15 · [[Releases/Claude Code/claude-code-2026-10-15-v2-1-301-github-413913133-a3fb5b4e|v2.1.301]] · 6 cards
-- 2026-10-14 · [[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|v2.1.300]] · 13 cards
 <!-- chronolog:end -->
 
 ## Coverage
 <!-- chronolog:begin region="coverage" -->
-252 releases · 2025-12-19 → 2026-10-22 · [official source](https://github.com/anthropics/claude-code/releases) · GitHub Releases starts at v2.0.73 on 2025-12-19. Official CHANGELOG.md contains 0.2.x–2.0.72 history without publication dates; not imported.
+256 releases · 2025-12-19 → 2026-10-30 · [official source](https://github.com/anthropics/claude-code/releases) · GitHub Releases starts at v2.0.73 on 2025-12-19. Official CHANGELOG.md contains 0.2.x–2.0.72 history without publication dates; not imported.
 
 Acquisition details, how cards are made and known gaps: [[About]].
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="releases" -->
-> [!info]- Release archive (252 releases)
+> [!info]- Release archive (256 releases)
+> - 2026-10-30: [[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|v2.1.314]]
+> - 2026-10-27: [[Releases/Claude Code/claude-code-2026-10-27-v2-1-312-github-425846009-439d063a|v2.1.312]]
+> - 2026-10-26: [[Releases/Claude Code/claude-code-2026-10-26-v2-1-311-github-424682562-151da26b|v2.1.311]]
+> - 2026-10-23: [[Releases/Claude Code/claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2|v2.1.310]]
 > - 2026-10-22: [[Releases/Claude Code/claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99|v2.1.309]]
 > - 2026-10-22: [[Releases/Claude Code/claude-code-2026-10-22-v2-1-308-github-420299398-0af311eb|v2.1.308]]
 > - 2026-10-21: [[Releases/Claude Code/claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d|v2.1.307]]
@@ -405,9 +409,49 @@ Acquisition details, how cards are made and known gaps: [[About]].
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="changes" -->
-> [!info]- All tracked changes (1,373 cards)
-> **2026** · 1,362 cards
+> [!info]- All tracked changes (1,413 cards)
+> **2026** · 1,402 cards
 >
+> - 2026-10-30 · Mobile and Desktop: [[Changes/Claude Code/2026-10-30-3-mobile-and-desktop-changes-in-v2-1-314|3 Mobile and Desktop changes in v2.1.314]]
+> - 2026-10-30 · Memory and Personalization: [[Changes/Claude Code/2026-10-30-2-memory-and-personalization-changes-in-v2-1-314|2 Memory and Personalization changes in v2.1.314]]
+> - 2026-10-30 · Safety and Privacy: [[Changes/Claude Code/2026-10-30-10-safety-and-privacy-changes-in-v2-1-314|10 Safety and Privacy changes in v2.1.314]]
+> - 2026-10-30 · Other changes: [[Changes/Claude Code/2026-10-30-10-other-changes-in-v2-1-314|10 other changes in v2.1.314]]
+> - 2026-10-30 · Apps and Integrations: [[Changes/Claude Code/2026-10-30-3-apps-and-integrations-changes-in-v2-1-314|3 Apps and Integrations changes in v2.1.314]]
+> - 2026-10-30 · Reliability and Performance: [[Changes/Claude Code/2026-10-30-macos-changed-git-grep-in-most-commands-that-claude-runs-to-use-the-c-locale-to|macOS: Changed git grep in most commands that Claude runs to use the C locale…]]
+> - 2026-10-30 · Account and Access: [[Changes/Claude Code/2026-10-30-improved-the-cloud-session-error-shown-while-a-request-refused-for-your-claude-a|Improved the cloud session error shown while a request refused for your claude.ai…]]
+> - 2026-10-30 · Model Support: [[Changes/Claude Code/2026-10-30-2-model-support-changes-in-v2-1-314|2 Model Support changes in v2.1.314]]
+> - 2026-10-30 · Developer Workflow: [[Changes/Claude Code/2026-10-30-4-developer-workflow-changes-in-v2-1-314|4 Developer Workflow changes in v2.1.314]]
+> - 2026-10-30 · Enterprise and Administration: [[Changes/Claude Code/2026-10-30-3-enterprise-and-administration-changes-in-v2-1-314|3 Enterprise and Administration changes in v2.1.314]]
+> - 2026-10-30 · Editor Experience: [[Changes/Claude Code/2026-10-30-improved-permissions-review-tab-now-called-recently-blocked-the-footer-says-what|Improved /permissions review tab, now called Recently blocked]]
+> - 2026-10-30 · Agent Mode: [[Changes/Claude Code/2026-10-30-3-agent-mode-changes-in-v2-1-314|3 Agent Mode changes in v2.1.314]]
+> - 2026-10-27 · Model Support: [[Changes/Claude Code/2026-10-27-3-model-support-changes-in-v2-1-312|3 Model Support changes in v2.1.312]]
+> - 2026-10-27 · Context Window: [[Changes/Claude Code/2026-10-27-changed-a-subagent-s-autocompactwindow-to-lower-the-window-set-by-claude-code-au|Changed a subagent's autoCompactWindow to lower the window set…]]
+> - 2026-10-27 · Safety and Privacy: [[Changes/Claude Code/2026-10-27-changed-claude-code-to-stop-sending-the-claude-code-safety-event-opentelemetry-e|Changed Claude Code to stop sending the claude_code.safety_event OpenTelemetry event]]
+> - 2026-10-27 · Interface Experience: [[Changes/Claude Code/2026-10-27-2-interface-experience-changes-in-v2-1-312|2 Interface Experience changes in v2.1.312]]
+> - 2026-10-27 · Editor Experience: [[Changes/Claude Code/2026-10-27-cloud-sessions-added-a-bash-editor-with-colors-line-numbers-and-a-copy-button-to|Cloud sessions Added a Bash editor with colors, line numbers and a Copy button…]]
+> - 2026-10-27 · Apps and Integrations: [[Changes/Claude Code/2026-10-27-2-apps-and-integrations-changes-in-v2-1-312|2 Apps and Integrations changes in v2.1.312]]
+> - 2026-10-27 · Other changes: [[Changes/Claude Code/2026-10-27-5-other-changes-in-v2-1-312|5 other changes in v2.1.312]]
+> - 2026-10-27 · Agent Mode: [[Changes/Claude Code/2026-10-27-2-agent-mode-changes-in-v2-1-312|2 Agent Mode changes in v2.1.312]]
+> - 2026-10-26 · Account and Access: [[Changes/Claude Code/2026-10-26-improved-the-message-shown-when-a-pasted-sign-in-code-is-refused-it-now-says-the|Improved the message shown when a pasted sign-in code is refused]]
+> - 2026-10-26 · Developer Workflow: [[Changes/Claude Code/2026-10-26-4-developer-workflow-changes-in-v2-1-311|4 Developer Workflow changes in v2.1.311]]
+> - 2026-10-26 · Context Window: [[Changes/Claude Code/2026-10-26-2-context-window-changes-in-v2-1-311|2 Context Window changes in v2.1.311]]
+> - 2026-10-26 · Files and Data: [[Changes/Claude Code/2026-10-26-improved-the-artifact-tool-s-choice-between-a-page-and-a-document-explainers-and|Improved the Artifact tool's choice between a page and a document]]
+> - 2026-10-26 · Accessibility and Localization: [[Changes/Claude Code/2026-10-26-3-accessibility-and-localization-changes-in-v2-1-311|3 Accessibility and Localization changes in v2.1.311]]
+> - 2026-10-26 · Model Support: [[Changes/Claude Code/2026-10-26-5-model-support-changes-in-v2-1-311|5 Model Support changes in v2.1.311]]
+> - 2026-10-26 · Editor Experience: [[Changes/Claude Code/2026-10-26-vscode-changed-the-session-list-side-bar-to-load-web-sessions-when-the-web-tab-i|VSCode Changed the session list side bar to load Web sessions when the Web tab…]]
+> - 2026-10-26 · Agent Mode: [[Changes/Claude Code/2026-10-26-2-agent-mode-changes-in-v2-1-311|2 Agent Mode changes in v2.1.311]]
+> - 2026-10-26 · Other changes: [[Changes/Claude Code/2026-10-26-12-other-changes-in-v2-1-311|12 other changes in v2.1.311]]
+> - 2026-10-26 · Interface Experience: [[Changes/Claude Code/2026-10-26-changed-clicks-on-scrollbar-arrows-and-bars-in-fullscreen-lists-to-act-when-the|Changed clicks on scrollbar arrows and bars in fullscreen lists to act…]]
+> - 2026-10-26 · Safety and Privacy: [[Changes/Claude Code/2026-10-26-changed-startup-warnings-about-permission-rules-in-settings-files-to-show-once-p|Changed startup warnings about permission rules in settings files to show once per…]]
+> - 2026-10-26 · Apps and Integrations: [[Changes/Claude Code/2026-10-26-3-apps-and-integrations-changes-in-v2-1-311|3 Apps and Integrations changes in v2.1.311]]
+> - 2026-10-23 · Apps and Integrations: [[Changes/Claude Code/2026-10-23-2-apps-and-integrations-changes-in-v2-1-310|2 Apps and Integrations changes in v2.1.310]]
+> - 2026-10-23 · Interface Experience: [[Changes/Claude Code/2026-10-23-improved-a-mod-s-image-to-draw-inside-tmux-with-allow-passthrough-and-focus-even|Improved a mod's Image to draw inside tmux with allow-passthrough…]]
+> - 2026-10-23 · Developer Workflow: [[Changes/Claude Code/2026-10-23-code-review-improved-the-code-review-admin-section-to-retry-the-first-load-and-s|Code Review Improved the Code Review admin section to retry the first load…]]
+> - 2026-10-23 · Safety and Privacy: [[Changes/Claude Code/2026-10-23-4-safety-and-privacy-changes-in-v2-1-310|4 Safety and Privacy changes in v2.1.310]]
+> - 2026-10-23 · Enterprise and Administration: [[Changes/Claude Code/2026-10-23-cloud-sessions-added-claude-code-cloud-sessions-and-remote-control-permissions-t|Cloud sessions Added Claude Code cloud sessions and Remote Control permissions…]]
+> - 2026-10-23 · Memory and Personalization: [[Changes/Claude Code/2026-10-23-improved-memory-use-of-non-interactive-sessions-p-agent-sdk-during-compaction-wh|Improved memory use of non-interactive sessions (-p, Agent SDK) during compaction…]]
+> - 2026-10-23 · Editor Experience: [[Changes/Claude Code/2026-10-23-cloud-sessions-changed-the-cloud-environment-dialog-to-open-network-access-setup|Cloud sessions Changed the cloud environment dialog to open network access, setup…]]
+> - 2026-10-23 · Agent Mode: [[Changes/Claude Code/2026-10-23-2-agent-mode-changes-in-v2-1-310|2 Agent Mode changes in v2.1.310]]
 > - 2026-10-22 · Agent Mode: [[Changes/Claude Code/2026-10-22-changed-the-claude-api-skill-to-build-managed-agents-subagent-teams-on-multiagen|Changed the /claude-api skill to build Managed Agents subagent teams…]]
 > - 2026-10-22 · Voice and Audio: [[Changes/Claude Code/2026-10-22-vscode-added-a-log-warning-that-says-what-to-do-when-dictation-or-the-extension|VSCode Added a log warning that says what to do when dictation or the extension's…]]
 > - 2026-10-22 · Editor Experience: [[Changes/Claude Code/2026-10-22-2-editor-experience-changes-in-v2-1-309|2 Editor Experience changes in v2.1.309]]

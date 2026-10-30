@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4e6eb6f02df4852377be102e8ac89ff649b52c3ef3767019fabd434faacca969
+machine_hash: bc88a9c0f79d44f885c83ce2ed8e097809cb0651d1103165d4ea445bbda9dc5d
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,6 +93,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-changed-background-sessions-whose-scheduled-task-is-gone-they-now-move-to-comple|Changed background sessions whose scheduled task is gone]]
+- Later: 2026-10-20 · Cursor · [[Changes/Cursor/2026-10-20-channels|Channels]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

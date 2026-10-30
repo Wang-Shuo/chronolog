@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9f818b1b21187616167df6accdf1f251b26d490caca7c87c5227b3e705f51ae0
+machine_hash: 127cd0f6cac8414577dde51499a96946f5024fc1f1dc536b39deafd9ce7e36dd
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Changed the dangerous `rm` and `rmdir` prompt in bypass permissions mode…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-19-windows-improved-git-command-start-up-with-a-standard-git-for-windows-install-by|Windows:
-  Improved git command start-up with a standard Git for Windows install…]]'
 - '[[Changes/ChatGPT/2026-10-20-locked-chats-let-you-keep-selected-conversations-in-your-account-while-hiding-th|Introducing
   locked chats]]'
 - '[[Changes/Claude Code/2026-10-20-changed-plugins-that-claude-desktop-mounts-by-path-to-no-longer-keep-their-allow|Changed
   plugins that Claude Desktop mounts by path to no longer keep…]]'
+- '[[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo
+  payments in Vietnam]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99|claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -87,7 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-20 · Claude Code · [[Changes/Claude Code/2026-10-20-changed-plugins-that-claude-desktop-mounts-by-path-to-no-longer-keep-their-allow|Changed plugins that Claude Desktop mounts by path to no longer keep…]]
+- Earlier: 2026-10-21 · ChatGPT · [[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo payments in Vietnam]]
+- Later: 2026-10-27 · ChatGPT · [[Changes/ChatGPT/2026-10-27-you-can-learn-more-about-how-chatgpt-uses-connected-apps-here-available-to-all-c|You can learn more about how ChatGPT uses connected apps here]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

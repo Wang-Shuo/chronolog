@@ -1,20 +1,20 @@
 ---
 coverage:
-  acquired_at: '2026-10-23T12:44:43Z'
+  acquired_at: '2026-10-30T12:42:45Z'
   acquisition: http
   coverage: available-endpoint
   earliest: '2023-03-14'
   known_gaps: Official paginated changelog only; unannounced changes are outside scope.
-  last_successful_fetch: '2026-10-23T12:44:43Z'
-  latest: '2026-10-16'
-  release_count: 256
+  last_successful_fetch: '2026-10-30T12:42:45Z'
+  latest: '2026-10-20'
+  release_count: 257
   url: https://cursor.com/changelog
 created: '2023-03-14'
-date: '2026-10-16'
+date: '2026-10-20'
 description: AI code editor built on a fork of VSCodium, with local and cloud coding
   agents, tracked through the official Cursor changelog.
-machine_hash: 747f722ff961f9350934d3b9da9e2f683a66eb3c4a881fac1ab52ed2066288ca
-modified: '2026-10-16'
+machine_hash: 78fcd8cec7d5508be64ed3d0e418e1514f4d39306f0154f0fbff50edbfd314eb
+modified: '2026-10-20'
 product: cursor
 product_name: Cursor
 publication: active
@@ -44,18 +44,18 @@ top_themes:
 - file-data
 - multimodal
 - image-generation
-verbosity_baseline: 4.03
+verbosity_baseline: 4.04
 ---
 
 <!-- chronolog:begin region="header" -->
 # Cursor
 
-AI code editor built on a fork of VSCodium, with local and cloud coding agents, tracked through the official Cursor changelog. · 256 releases · 2023-03-14 → 2026-10-16 · [[About|coverage details]]
+AI code editor built on a fork of VSCodium, with local and cloud coding agents, tracked through the official Cursor changelog. · 257 releases · 2023-03-14 → 2026-10-20 · [[About|coverage details]]
 <!-- chronolog:end -->
 
 ## Release cadence
 <!-- chronolog:begin region="cadence" -->
-Last release 2026-10-16 (6 days before the archive date) · 13 releases in the last 90 days · cadence: normal
+Last release 2026-10-20 (10 days before the archive date) · 12 releases in the last 90 days · cadence: normal
 
 Monthly releases, last 12 months (baseline 5.9 per month):
 
@@ -70,7 +70,7 @@ Monthly releases, last 12 months (baseline 5.9 per month):
 - 2026-07 ▇▇▇▇▇▇▇▇ 5
 - 2026-08 ▇▇▇▇▇▇▇▇ 5
 - 2026-09 ▇▇▇▇▇ 3
-- 2026-10 ▇▇▇▇▇ 3
+- 2026-10 ▇▇▇▇▇▇ 4
 <!-- chronolog:end -->
 
 ## Eras
@@ -134,12 +134,12 @@ Representative releases:
 
 ## Themes
 <!-- chronolog:begin region="themes" -->
-- [[Themes/agent-mode|Agent Mode]] · 130 cards · ████████████
+- [[Themes/agent-mode|Agent Mode]] · 135 cards · ████████████
 - [[Themes/editor-experience|Editor Experience]] · 96 cards · █████████
 - [[Themes/developer-workflow|Developer Workflow]] · 74 cards · ███████
 - [[Themes/apps-integrations|Apps and Integrations]] · 69 cards · ██████
 - [[Themes/interface-experience|Interface Experience]] · 69 cards · ██████
-- [[Themes/reliability-performance|Reliability and Performance]] · 60 cards · ██████
+- [[Themes/reliability-performance|Reliability and Performance]] · 60 cards · █████
 - [[Themes/context-window|Context Window]] · 52 cards · █████
 - [[Themes/model-support|Model Support]] · 48 cards · ████
 - Other changes · 41 cards
@@ -147,6 +147,7 @@ Representative releases:
 
 ## Recent releases
 <!-- chronolog:begin region="recent" -->
+- 2026-10-20 · [[Releases/Cursor/cursor-2026-10-20-agent-sdk-https-cursor-com-changelog-agent-sdk-00fcb04c|Agent SDK]] · 6 cards
 - 2026-10-16 · [[Releases/Cursor/cursor-2026-10-16-cloud-agent-canvases-and-environment-improvements-https-cursor-c-1809cd74|Cloud Agent Canvases and Environment Improvements]] · 3 cards
 - 2026-10-13 · [[Releases/Cursor/cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c|Origin App Marketplace]] · 5 cards
 - 2026-10-06 · [[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|Remote control for local agents]] · 5 cards
@@ -156,18 +157,18 @@ Representative releases:
 - 2026-08-27 · [[Releases/Cursor/cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae|Start from scratch, without a repo]] · 3 cards
 - 2026-08-19 · [[Releases/Cursor/cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1|Cloud Agents and Cursor Harness Improvements]] · 6 cards
 - 2026-08-17 · [[Releases/Cursor/cursor-2026-08-17-origin-code-hosting-https-cursor-com-changelog-origin-code-hosti-ed3a9195|Origin Code Hosting]] · 6 cards
-- 2026-08-13 · [[Releases/Cursor/cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3|Cloud Agents Start 3x Faster with Builds]] · 5 cards
 <!-- chronolog:end -->
 
 ## Coverage
 <!-- chronolog:begin region="coverage" -->
-256 releases · 2023-03-14 → 2026-10-16 · [official source](https://cursor.com/changelog) · Official paginated changelog only; unannounced changes are outside scope.
+257 releases · 2023-03-14 → 2026-10-20 · [official source](https://cursor.com/changelog) · Official paginated changelog only; unannounced changes are outside scope.
 
 Acquisition details, how cards are made and known gaps: [[About]].
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="releases" -->
-> [!info]- Release archive (256 releases)
+> [!info]- Release archive (257 releases)
+> - 2026-10-20: [[Releases/Cursor/cursor-2026-10-20-agent-sdk-https-cursor-com-changelog-agent-sdk-00fcb04c|Agent SDK]]
 > - 2026-10-16: [[Releases/Cursor/cursor-2026-10-16-cloud-agent-canvases-and-environment-improvements-https-cursor-c-1809cd74|Cloud Agent Canvases and Environment Improvements]]
 > - 2026-10-13: [[Releases/Cursor/cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c|Origin App Marketplace]]
 > - 2026-10-06: [[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|Remote control for local agents]]
@@ -427,9 +428,15 @@ Acquisition details, how cards are made and known gaps: [[About]].
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="changes" -->
-> [!info]- All tracked changes (815 cards)
-> **2026** · 341 cards
+> [!info]- All tracked changes (821 cards)
+> **2026** · 347 cards
 >
+> - 2026-10-20 · Agent Mode: [[Changes/Cursor/2026-10-20-the-agent-sdk-is-available-today-it-allows-you-to-define-an-agent-as-a-folder-of|The Agent SDK is available today]]
+> - 2026-10-20 · Agent Mode: [[Changes/Cursor/2026-10-20-agents-as-code|Agents as code]]
+> - 2026-10-20 · Agent Mode: [[Changes/Cursor/2026-10-20-evals|Evals]]
+> - 2026-10-20 · Automation and Scheduling: [[Changes/Cursor/2026-10-20-channels|Channels]]
+> - 2026-10-20 · Agent Mode: [[Changes/Cursor/2026-10-20-the-agent-sdk-is-generally-available-today-read-the-docs-and-get-started|The Agent SDK is generally available today]]
+> - 2026-10-20 · Agent Mode: [[Changes/Cursor/2026-10-20-deploy-agents-wherever-you-need-them|Deploy agents wherever you need them]]
 > - 2026-10-16 · Agent Mode: [[Changes/Cursor/2026-10-16-canvases-from-cloud-agents|Canvases from cloud agents]]
 > - 2026-10-16 · Reliability and Performance: [[Changes/Cursor/2026-10-16-larger-faster-environments|Larger, faster environments]]
 > - 2026-10-16 · Agent Mode: [[Changes/Cursor/2026-10-16-environments-api|Environments API]]

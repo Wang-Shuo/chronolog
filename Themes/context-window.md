@@ -1,10 +1,10 @@
 ---
 created: '2023-05-04'
-date: '2026-10-22'
+date: '2026-10-27'
 description: 'Research question: how much material can each product bring into a conversation,
   and how does it handle the limit?'
-machine_hash: 1d6b6ea5f813966b0d73f676b28f9ff3e7e965df567a49a0fa7d47a5b0b5cc83
-modified: '2026-10-22'
+machine_hash: 0788093bf3014d99493fbf734223369a310358c2df6e3a9a04ce0d4dde071055
+modified: '2026-10-27'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Context Window
 <!-- chronolog:begin region="header" -->
 # Context Window
 
-133 tracked changes across ChatGPT, Claude Code and Cursor · 2023-05-04 → 2026-10-22 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
+135 tracked changes across ChatGPT, Claude Code and Cursor · 2023-05-04 → 2026-10-27 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -61,10 +61,12 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 91 entries (ChatGPT 8 · Claude Code 71 · Cursor 12)
+### 2026 · 93 entries (ChatGPT 8 · Claude Code 73 · Cursor 12)
 
 #### 2026-10
 
+- 2026-10-27 · **Claude Code** · [[Changes/Claude Code/2026-10-27-changed-a-subagent-s-autocompactwindow-to-lower-the-window-set-by-claude-code-au|Changed a subagent's autoCompactWindow to lower the window set…]]
+- 2026-10-26 · **Claude Code** · [[Changes/Claude Code/2026-10-26-2-context-window-changes-in-v2-1-311|2 Context Window changes in v2.1.311]] · Digest
 - 2026-10-22 · **Claude Code** · [[Changes/Claude Code/2026-10-22-updated-the-claude-api-skill-service-account-keys-and-workload-identity-federati|Updated the /claude-api skill]]
 - 2026-10-19 · **Claude Code** · [[Changes/Claude Code/2026-10-19-3-context-window-changes-in-v2-1-304|3 Context Window changes in v2.1.304]] · Digest
 - 2026-10-16 · **Claude Code** · [[Changes/Claude Code/2026-10-16-2-context-window-changes-in-v2-1-302|2 Context Window changes in v2.1.302]] · Digest

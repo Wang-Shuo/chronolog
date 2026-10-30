@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a1845125c39b19b028ca42f77e3d7db990f73b9f9e4d13221ed98f0517c19a2c
+machine_hash: 6f27c36839646c022506fb8533864730c82b4b5687146b621ac6285fff2219c3
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-20 · ChatGPT · [[Changes/ChatGPT/2026-10-20-locked-chats-let-you-keep-selected-conversations-in-your-account-while-hiding-th|Introducing locked chats]]
-- Later: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-changed-the-dangerous-rm-and-rmdir-prompt-in-bypass-permissions-mode-in-the-desk|Changed the dangerous rm and rmdir prompt in bypass permissions mode…]]
+- Later: 2026-10-21 · ChatGPT · [[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo payments in Vietnam]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

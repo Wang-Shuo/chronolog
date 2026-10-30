@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eb3954aff125c86670d95cba4a756d08adca4ba56a41df5fd721ba117e894b6b
+machine_hash: dfb58c11e23c18538b94f870db79c629e612550faadfc3f4718cd81d3dadd05d
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,10 +53,9 @@ record:
   title: Changed the `/claude-api` skill to build Managed Agents subagent teams…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-19-2-agent-mode-changes-in-v2-1-304|2 Agent Mode
-  changes in v2.1.304]]'
-- '[[Changes/Claude Code/2026-10-19-added-claude-api-managed-agents-secure-which-compares-a-managed-agents-agent-s-s|Added
-  /claude-api managed-agents-secure, which compares a Managed Agents agent''s…]]'
+- '[[Changes/Cursor/2026-10-20-agents-as-code|Agents as code]]'
+- '[[Changes/Cursor/2026-10-20-the-agent-sdk-is-available-today-it-allows-you-to-define-an-agent-as-a-folder-of|The
+  Agent SDK is available today]]'
 - '[[Changes/Claude Code/2026-10-21-improved-fork-subagents-launched-together-each-is-now-told-which-launch-is-its-o|Improved
   fork subagents launched together]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99|claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99]]'
@@ -96,6 +95,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-improved-fork-subagents-launched-together-each-is-now-told-which-launch-is-its-o|Improved fork subagents launched together]]
+- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-2-agent-mode-changes-in-v2-1-310|2 Agent Mode changes in v2.1.310]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

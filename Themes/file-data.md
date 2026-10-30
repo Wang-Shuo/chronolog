@@ -1,10 +1,10 @@
 ---
 created: '2023-07-06'
-date: '2026-10-14'
+date: '2026-10-26'
 description: Cross-product timeline of Files and Data changes in ChatGPT, Claude Code
   and Cursor.
-machine_hash: 5e67b7bc484e728cc4a06a564d82158798eda92a2f05f3e5f4e579e31d54cc6a
-modified: '2026-10-14'
+machine_hash: 558d9cf90bb144558fe6b72f61d04796e3a883ef746daa80e6536d5355d91df8
+modified: '2026-10-26'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Files and Data
 <!-- chronolog:begin region="header" -->
 # Files and Data
 
-34 tracked changes across ChatGPT, Claude Code and Cursor · 2023-07-06 → 2026-10-14 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
+35 tracked changes across ChatGPT, Claude Code and Cursor · 2023-07-06 → 2026-10-26 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -45,10 +45,11 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 25 entries (ChatGPT 10 · Claude Code 10 · Cursor 5)
+### 2026 · 26 entries (ChatGPT 10 · Claude Code 11 · Cursor 5)
 
 #### 2026-10
 
+- 2026-10-26 · **Claude Code** · [[Changes/Claude Code/2026-10-26-improved-the-artifact-tool-s-choice-between-a-page-and-a-document-explainers-and|Improved the Artifact tool's choice between a page and a document]]
 - 2026-10-14 · **Claude Code** · [[Changes/Claude Code/2026-10-14-2-files-and-data-changes-in-v2-1-299|2 Files and Data changes in v2.1.299]] · Digest
 - 2026-10-01 · **ChatGPT** · [[Changes/ChatGPT/2026-10-01-it-s-now-easier-to-bring-your-notes-and-documents-into-chatgpt-on-your-phone-cap|Scan notes and documents more easily with ChatGPT camera]]
 

@@ -1,10 +1,10 @@
 ---
 created: '2023-09-11'
-date: '2026-10-21'
+date: '2026-10-26'
 description: Cross-product timeline of Accessibility and Localization changes in ChatGPT
   and Claude Code.
-machine_hash: 4d56d1b0ef10d91474f56b62671b68ead19fa5eb4f0c2efd9b432a696965da67
-modified: '2026-10-21'
+machine_hash: 9de8a59e28cca380d471d8845f1e1b9db8e2d7cfee9baaaded92360a5d76ad2d
+modified: '2026-10-26'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -20,7 +20,7 @@ title: Accessibility and Localization
 <!-- chronolog:begin region="header" -->
 # Accessibility and Localization
 
-16 tracked changes across ChatGPT and Claude Code · 2023-09-11 → 2026-10-21 · Claude Code averages 7.0 cards per release, ChatGPT 1.7
+17 tracked changes across ChatGPT and Claude Code · 2023-09-11 → 2026-10-26 · Claude Code averages 7.0 cards per release, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -40,10 +40,11 @@ No key moments selected yet. Auto-selected; edit `key_moments` in editorial.yaml
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 15 entries (Claude Code 15)
+### 2026 · 16 entries (Claude Code 16)
 
 #### 2026-10
 
+- 2026-10-26 · **Claude Code** · [[Changes/Claude Code/2026-10-26-3-accessibility-and-localization-changes-in-v2-1-311|3 Accessibility and Localization changes in v2.1.311]] · Digest
 - 2026-10-21 · **Claude Code** · [[Changes/Claude Code/2026-10-21-changed-the-axscreenreader-setting-and-claude-ax-screen-reader-in-a-settings-env|Changed the axScreenReader setting and CLAUDE_AX_SCREEN_READER in a settings…]]
 - 2026-10-20 · **Claude Code** · [[Changes/Claude Code/2026-10-20-vscode-added-a-running-start-up-hooks-spinner-status-with-a-screen-reader-announ|VSCode Added a "Running start-up hooks" spinner status, with a screen reader…]]
 - 2026-10-05 · **Claude Code** · [[Changes/Claude Code/2026-10-05-vscode-added-a-screen-reader-announcement-message-queued-when-you-send-a-message|VSCode Added a screen reader announcement, "Message queued.", when you send…]]

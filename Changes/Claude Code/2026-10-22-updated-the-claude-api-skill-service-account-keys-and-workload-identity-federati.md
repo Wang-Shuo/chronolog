@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b6717efd110d419ac6632bb7676b72db479ea213f30d0b812a3a72ca848cc260
+machine_hash: bc2fda021550a06e50c4f4afa3be6b416112e080d15384932f213a5a35c9e5bf
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,6 +85,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-3-context-window-changes-in-v2-1-304|3 Context Window changes in v2.1.304]]
+- Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-2-context-window-changes-in-v2-1-311|2 Context Window changes in v2.1.311]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

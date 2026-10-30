@@ -1,0 +1,21 @@
+{
+  "kind": "live-generation-in-isolated-vault-applied-to-delivery-branch",
+  "run_id": "recovery-20261030-preflight",
+  "base_commit": "80911db89ed10923205d471fd756a47d5b45a16f",
+  "applied_files": 107,
+  "files_sha256": {
+    "browser-capture.json": "2a53386d743486f34a18071a08e5b21aae385f105d6c2232ef41c8936c73c5ae",
+    "build.log": "2c9e67c3d55807031a6bd2297d487325e6f08a6aea7d292008c8fcf257a21e4a",
+    "candidate-evidence-check.json": "b303a676954431f1a4d8503f4bdab10d143592b9e26d8164b5e300af859ad473",
+    "collection.json.gz": "ec603a5207e99437b928b3ecffab6a2f9afd5c3e6796cb5160d93f7610f69922",
+    "evidence-sha256.json": "381506f45c182e8c52980e9589c859930cdf2100a52ac7b92edfbc6da56363f5",
+    "publication.json": "3105766b2e158be5c1b68800c59a5a9ec74c6bf3d12b158269bab9c29f385e12",
+    "quality.json": "c3c336af255e85bae0362e780cd14f07de2871ac78e2171ccbfe10e4b3ea45c9",
+    "quality.md": "2426da7d659374be8d1fa412e6b04beba3f3929c7564c9679799c6fd235175f0",
+    "snapshot-capture.json": "d3207573cf7e9affefc8756fbed82c7f706b46180a613c7da935ac6fcfee4f61",
+    "snapshot-comparison.json": "f7d993f9b57492d7fdc2b60f44747b41b00f2724741c567a450e90ff13771463",
+    "tests.log": "a2948329ee114419e8187dff1ec2a71361953b917c38773f4e58e64316516112",
+    "vault-validation.json": "b27444b77c31a93fa930fe31963d164b3f3c9a9b94fa20698166a2afa05eb255",
+    "idempotence.json": "bb6e210ae786f5f8b840e9d3400286dcf2df5499a5a0e1d1ae61084d1e276056"
+  }
+}

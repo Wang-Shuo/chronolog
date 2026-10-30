@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 02900f18fa5cd40fa613d73d626f314bbce81a59829797d275cfc87eadde9558
+machine_hash: 36b33f5d998e3cdde02fbb199f8e3494cd88542b2df225723b31d362c630501a
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,6 +86,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-15 · Claude Code · [[Changes/Claude Code/2026-10-15-2-interface-experience-changes-in-v2-1-301|2 Interface Experience changes in v2.1.301]]
+- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-improved-a-mod-s-image-to-draw-inside-tmux-with-allow-passthrough-and-focus-even|Improved a mod's Image to draw inside tmux with allow-passthrough…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

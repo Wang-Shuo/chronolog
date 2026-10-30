@@ -1,10 +1,10 @@
 ---
 created: '2023-03-30'
-date: '2026-10-21'
+date: '2026-10-30'
 description: Cross-product timeline of Account and Access changes in ChatGPT, Claude
   Code and Cursor.
-machine_hash: 704e6e84f6aa5e10436bdf47a0ae2ca3c8bca2ee19fc32f31400d2453cb9060b
-modified: '2026-10-21'
+machine_hash: b53a6be40c3873167ff671f4e4b3800fb54e072a696d8a6d97218a7e8bfd26a8
+modified: '2026-10-30'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Account and Access
 <!-- chronolog:begin region="header" -->
 # Account and Access
 
-80 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-30 → 2026-10-21 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
+82 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-30 → 2026-10-30 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -49,10 +49,12 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 71 entries (ChatGPT 8 · Claude Code 61 · Cursor 2)
+### 2026 · 73 entries (ChatGPT 8 · Claude Code 63 · Cursor 2)
 
 #### 2026-10
 
+- 2026-10-30 · **Claude Code** · [[Changes/Claude Code/2026-10-30-improved-the-cloud-session-error-shown-while-a-request-refused-for-your-claude-a|Improved the cloud session error shown while a request refused for your claude.ai…]]
+- 2026-10-26 · **Claude Code** · [[Changes/Claude Code/2026-10-26-improved-the-message-shown-when-a-pasted-sign-in-code-is-refused-it-now-says-the|Improved the message shown when a pasted sign-in code is refused]]
 - 2026-10-21 · **Claude Code** · [[Changes/Claude Code/2026-10-21-2-account-and-access-changes-in-v2-1-307|2 Account and Access changes in v2.1.307]] · Digest
 - 2026-10-20 · **Claude Code** · [[Changes/Claude Code/2026-10-20-vscode-changed-the-message-shown-when-a-session-does-not-start-in-time-and-no-ho|VSCode Changed the message shown when a session does not start in time and no hook…]]
 - 2026-10-16 · **Claude Code** · [[Changes/Claude Code/2026-10-16-added-a-notice-to-design-sync-and-design-login-that-standalone-claude-design-cla|Added a notice to /design-sync and /design-login that standalone Claude Design…]]

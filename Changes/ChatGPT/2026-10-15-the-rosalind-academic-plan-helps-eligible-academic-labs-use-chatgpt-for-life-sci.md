@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: fde6234fd7ec168a04f0fa4c6e9098a6660260444cca965e6413f42cc4a54b48
+machine_hash: 3d39e42a6a4e21fd024c26ceb5d93fdd27b233ed2175d1848f879ec4eb3b6997
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -84,6 +84,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price|Updated /cost, the status line, --max-budget-usd and the SDK's cost figures…]]
+- Later: 2026-10-28 · ChatGPT · [[Changes/ChatGPT/2026-10-28-eligible-chatgpt-pro-and-business-subscribers-can-activate-promotional-api-credi|API credits for eligible ChatGPT Pro and Business plans]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

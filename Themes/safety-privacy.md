@@ -1,10 +1,10 @@
 ---
 created: '2023-04-16'
-date: '2026-10-22'
+date: '2026-10-30'
 description: 'Research question: which safeguards and privacy controls do the tracked
   products add, and for whom?'
-machine_hash: b7af88896bb21441d73303ec4fc7b0a342dc4fa1e73dd778f7a3438cefddc7fa
-modified: '2026-10-22'
+machine_hash: d9b1d016594598956d7849f1c3f9036a81f6cec15aebd610d65cc7443a25e5c6
+modified: '2026-10-30'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Safety and Privacy
 <!-- chronolog:begin region="header" -->
 # Safety and Privacy
 
-186 tracked changes across ChatGPT, Claude Code and Cursor · 2023-04-16 → 2026-10-22 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
+191 tracked changes across ChatGPT, Claude Code and Cursor · 2023-04-16 → 2026-10-30 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -58,10 +58,15 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 172 entries (ChatGPT 8 · Claude Code 145 · Cursor 19)
+### 2026 · 177 entries (ChatGPT 9 · Claude Code 149 · Cursor 19)
 
 #### 2026-10
 
+- 2026-10-30 · **Claude Code** · [[Changes/Claude Code/2026-10-30-10-safety-and-privacy-changes-in-v2-1-314|10 Safety and Privacy changes in v2.1.314]] · Digest
+- 2026-10-28 · **ChatGPT** · [[Changes/ChatGPT/2026-10-28-texting-your-dot-is-starting-to-roll-out-in-beta-to-pro-users-in-the-u-s|Texting your dot]]
+- 2026-10-27 · **Claude Code** · [[Changes/Claude Code/2026-10-27-changed-claude-code-to-stop-sending-the-claude-code-safety-event-opentelemetry-e|Changed Claude Code to stop sending the claude_code.safety_event OpenTelemetry event]]
+- 2026-10-26 · **Claude Code** · [[Changes/Claude Code/2026-10-26-changed-startup-warnings-about-permission-rules-in-settings-files-to-show-once-p|Changed startup warnings about permission rules in settings files to show once per…]]
+- 2026-10-23 · **Claude Code** · [[Changes/Claude Code/2026-10-23-4-safety-and-privacy-changes-in-v2-1-310|4 Safety and Privacy changes in v2.1.310]] · Digest
 - 2026-10-22 · **Claude Code** · [[Changes/Claude Code/2026-10-22-8-safety-and-privacy-changes-in-v2-1-309|8 Safety and Privacy changes in v2.1.309]] · Digest
 - 2026-10-21 · **Claude Code** · [[Changes/Claude Code/2026-10-21-added-the-claude-code-safety-event-opentelemetry-event-for-each-tool-call-a-perm|Added the claude_code.safety_event OpenTelemetry event for each tool call…]]
 - 2026-10-20 · **Claude Code** · [[Changes/Claude Code/2026-10-20-3-safety-and-privacy-changes-in-v2-1-305|3 Safety and Privacy changes in v2.1.305]] · Digest

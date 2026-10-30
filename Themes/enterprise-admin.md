@@ -1,10 +1,10 @@
 ---
 created: '2025-06-04'
-date: '2026-10-20'
+date: '2026-10-30'
 description: Cross-product timeline of Enterprise and Administration changes in ChatGPT,
   Claude Code and Cursor.
-machine_hash: ebd3d26101c6daf5c37bf0e673e52685ea5514625e414d42ce99ea7b9920b7cd
-modified: '2026-10-20'
+machine_hash: a2aa428d7285f8bbfa2c0f7ee284700f231842bd96aec5005862e97efac1085a
+modified: '2026-10-30'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Enterprise and Administration
 <!-- chronolog:begin region="header" -->
 # Enterprise and Administration
 
-57 tracked changes across ChatGPT, Claude Code and Cursor · 2025-06-04 → 2026-10-20 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
+59 tracked changes across ChatGPT, Claude Code and Cursor · 2025-06-04 → 2026-10-30 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -49,10 +49,12 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 48 entries (ChatGPT 13 · Claude Code 25 · Cursor 10)
+### 2026 · 50 entries (ChatGPT 13 · Claude Code 27 · Cursor 10)
 
 #### 2026-10
 
+- 2026-10-30 · **Claude Code** · [[Changes/Claude Code/2026-10-30-3-enterprise-and-administration-changes-in-v2-1-314|3 Enterprise and Administration changes in v2.1.314]] · Digest
+- 2026-10-23 · **Claude Code** · [[Changes/Claude Code/2026-10-23-cloud-sessions-added-claude-code-cloud-sessions-and-remote-control-permissions-t|Cloud sessions Added Claude Code cloud sessions and Remote Control permissions…]]
 - 2026-10-20 · **Claude Code** · [[Changes/Claude Code/2026-10-20-claude-tag-added-public-slack-channels-claude-hasn-t-joined-to-the-claude-tag-ad|Claude Tag Added public Slack channels Claude hasn't joined to the Claude Tag…]]
 - 2026-10-15 · **ChatGPT** · [[Changes/ChatGPT/2026-10-15-applications-are-now-open-to-labs-at-u-s-universities-if-you-re-a-principal-inve|Applications are now open to labs at U.S. universities]]
 - 2026-10-08 · **Claude Code** · [[Changes/Claude Code/2026-10-08-claude-tag-changed-claude-s-notice-that-a-channel-shared-across-enterprise-grid|Claude Tag Changed Claude's notice that a channel shared across Enterprise Grid…]]
