@@ -1,0 +1,21 @@
+{
+  "kind": "isolated-live-preflight",
+  "run_id": "recovery-20261027-auth-preflight",
+  "base_commit": "5dff1a70562ede05ba8426283040f46989e00dbf",
+  "applied_files": 0,
+  "chatgpt_acquisition": "http; fresh browser bundle separately validated as fallback",
+  "files_sha256": {
+    "browser-capture.json": "41c2da9ce7aff3ab007a0792f48e5424e55a93fb54780591be71aea761977011",
+    "build.log": "0ce650ca9db74838bb405693cda0b2664ec2938ed459839f08c9ef735f3cae48",
+    "candidate-evidence-check.json": "13ecf36ca205dcefbfe69a6752042b82de18a43d1d6c4f77ec305ffbb478d0c0",
+    "collection.json.gz": "e3b62a29008ecfc5113ad25a195f3530798e409f96c4def63888e6431f95fd62",
+    "evidence-sha256.json": "cb01c98a086a7d30bed8ec9b8fae3b7f192cc18cf5954a5a4b3bd13b840816aa",
+    "publication.json": "db2da724431d68dad0a45b115109c8de605b6d2ad48c30e4a190a15d6045fd29",
+    "quality.json": "40d5a62f3d24d719e8c1e5f88f13b55c9f045fc6ca1835da8aae6f0679185e07",
+    "quality.md": "d784bfa3c31d5c547b69cb554d18e313ba5f8bf923b5bd1d7e9667f25f8b2a71",
+    "snapshot-capture.json": "daa71ef284f61bb60570054477e8f1c6a6d02fb2200cfc5dca6e3de6a867f33a",
+    "snapshot-comparison.json": "61d4aebab6d3bd04d08982365f130e83a4dc20c83d054d64d75d78e8098a62e7",
+    "tests.log": "984a039ef1ae57b80d5f3fb6250de4b64b25bf93aa0c9f288eddfe10dffcce11",
+    "vault-validation.json": "6c7a59eb62d669598414f825f22d162d5a7a185dc27f76d9e951fa7764b9e176"
+  }
+}
