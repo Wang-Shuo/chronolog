@@ -1,0 +1,13 @@
+{
+  "source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+  "started_at": "2026-10-31T02:12:29Z",
+  "status": "failed",
+  "automation": "playwright-chromium",
+  "browser_channel": "chrome",
+  "baseline_releases": 303,
+  "initial_http_status": 403,
+  "final_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+  "error": "ValueError: official browser capture did not become usable: empty or duplicate ChatGPT release identities",
+  "failed_document_sha256": "656b9590b37162ec1c4f6c4b6105d9adebd6cb1ca8916f5f52547091680fdc9a",
+  "completed_at": "2026-10-31T02:13:16Z"
+}

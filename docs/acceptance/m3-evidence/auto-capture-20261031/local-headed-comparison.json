@@ -1,0 +1,13 @@
+{
+  "captured_at": "2026-10-31T02:13:47Z",
+  "baseline_count": 303,
+  "captured_count": 304,
+  "missing_ids": [],
+  "new_releases": [
+    {
+      "date": "2026-10-30",
+      "title": "Account switching on iOS and Android",
+      "release_id": "chatgpt-2026-10-30-account-switching-on-ios-and-android-911d7929"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "product": "chatgpt",
+  "identical_records": true,
+  "before_sha256": "380f463a03595a0ca8dc59ace5df766e29b217239b556036ff9ae136a2fd5c70",
+  "after_sha256": "380f463a03595a0ca8dc59ace5df766e29b217239b556036ff9ae136a2fd5c70",
+  "releases": 303,
+  "cards": 507,
+  "pending": 38
+}
