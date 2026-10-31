@@ -219,6 +219,17 @@ def test_workflows_keep_prs_unprivileged_and_deploy_behind_review_and_build():
     assert generate['publish']['needs'] == 'generate'
     assert generate['publish']['permissions'] == {'contents': 'write', 'pull-requests': 'write', 'actions': 'write'}
     assert 'default_branch' in generate['generate']['if']
+    assert workflows['generate']['on']['workflow_dispatch']['inputs']['preview']['default'] == 'false'
+    assert 'inputs.preview != true' in generate['publish']['if']
+    assert 'default_branch' in generate['publish']['if']
+    generation_steps = generate['generate']['steps']
+    for step_name in ('Prepare managed review branch', 'Export gated candidate without writing to GitHub'):
+        assert next(s for s in generation_steps if s.get('name') == step_name)['if'] == 'inputs.preview != true'
+    collector = next(s for s in generation_steps if s.get('name') == 'Collect and gate isolated candidate')
+    assert '--snapshot-bundle _inputs/chatgpt' not in collector['run']
+    assert '--allow-partial' in collector['run'] and '--browser-fallback' in collector['run']
+    assert 'if [ "$PREVIEW" != true ]; then args+=(--apply); fi' in collector['run']
+    assert collector['env']['CHRONOLOG_BROWSER_HEADED'] == '1'
     publisher = generate['publish']['steps']
     checkout = next(s for s in publisher if s.get('uses') == 'actions/checkout@v4')
     assert checkout['with']['ref'] == '${{ github.sha }}'

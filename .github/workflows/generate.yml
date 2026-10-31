@@ -3,6 +3,11 @@ on:
   schedule:
     - cron: '15 1 * * *' # 09:15 Asia/Shanghai
   workflow_dispatch:
+    inputs:
+      preview:
+        description: Read-only live preview on the selected branch (no push or PR)
+        type: boolean
+        default: false
 permissions:
   contents: read
 concurrency:
@@ -10,7 +15,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   generate:
-    if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch) || (github.event_name == 'workflow_dispatch' && inputs.preview)
     permissions:
       contents: read
       pull-requests: read
@@ -29,6 +34,7 @@ jobs:
           node-version: '22'
           cache: npm
       - name: Prepare managed review branch
+        if: inputs.preview != true
         env:
           GH_TOKEN: ${{ github.token }}
           BASE_BRANCH: ${{ github.event.repository.default_branch }}
@@ -39,16 +45,32 @@ jobs:
           python -m _scripts.rolling_pr prepare --base "$BASE_BRANCH" --state _pipeline/rolling-state.json
       - run: python -m pip install -e '.[dev]'
       - run: npm ci
+      - name: Install optional browser collector
+        continue-on-error: true
+        run: |
+          python -m pip install -e '.[browser]'
+          python -m playwright install --with-deps --no-shell chromium
       - name: Collect and gate isolated candidate
         env:
           SITE_BASE: ${{ vars.CHRONOLOG_BASE_URL }}
           CHRONOLOG_GITHUB_READ_TOKEN: ${{ github.token }}
+          CHRONOLOG_BROWSER_HEADED: '1'
+          PREVIEW: ${{ inputs.preview }}
         run: |
           base="${SITE_BASE:-${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY#*/}}"
-          python -m _scripts.operations --mode generate --apply --run-id "daily-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}" --output _pipeline/operations --base-url "$base" --production --snapshot-bundle _inputs/chatgpt
+          args=(python -m _scripts.operations --mode generate --run-id "daily-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}" --output _pipeline/operations --base-url "$base" --production --browser-fallback --allow-partial)
+          if [ "$PREVIEW" != true ]; then args+=(--apply); fi
+          if command -v xvfb-run >/dev/null 2>&1; then
+            xvfb-run -a "${args[@]}"
+          else
+            # A missing display/browser is recorded as a source failure; healthy sources continue.
+            "${args[@]}"
+          fi
       - name: Export gated candidate without writing to GitHub
+        if: inputs.preview != true
         run: python -m _scripts.rolling_pr package --state _pipeline/rolling-state.json --report _pipeline/operations --bundle _pipeline/publication
       - uses: actions/upload-artifact@v4
+        if: inputs.preview != true
         with:
           name: candidate-${{ github.run_id }}-${{ github.run_attempt }}
           retention-days: 7
@@ -83,12 +105,14 @@ jobs:
             _pipeline/operations/*.html
             _pipeline/operations/*.md
             _pipeline/operations/*.log
+            _pipeline/operations/browser/
             _pipeline/operations/candidate/_pipeline/*/manifest.json
             _pipeline/operations/candidate/_pipeline/*/04-validated/*.json
             _pipeline/operations/candidate/_pipeline/dlq/*.json
 
   publish:
     needs: generate
+    if: inputs.preview != true && github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:

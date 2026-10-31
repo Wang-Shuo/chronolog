@@ -97,8 +97,11 @@ def key_moments(editorial: dict, cards: list[dict]) -> tuple[dict[str, list[str]
 
 def source_coverage(source: dict | None, releases: list[dict], previous: dict | None = None) -> dict:
     state = dict(previous or {})
+    if source and source.get('status') == 'failed':
+        state['collection_status'] = 'delayed'
     # A replay's processing time must not masquerade as a successful live fetch.
     if source and source.get('status') == 'success' and source.get('coverage') != 'no-change':
+        state.pop('collection_status', None)
         state.update({key: source[key] for key in (
             'acquired_at', 'acquisition', 'url', 'coverage', 'known_gaps', 'snapshot_sha256'
         ) if key in source})
@@ -171,6 +174,8 @@ def render_coverage_summary(state: dict, release_count: int | None = None) -> st
     if state.get('url'):
         parts.append(f"[official source]({reader_source_url(state['url'])})")
     line = ' · '.join(parts)
+    if state.get('collection_status') == 'delayed':
+        line += ' · Collection delayed; previously archived content retained'
     if state.get('known_gaps'):
         line += ' · ' + ' '.join(str(state['known_gaps']).split())
     return line
@@ -190,6 +195,8 @@ def render_source_details(product_name: str, state: dict, release_count: int | N
     lines.append(archived)
     lines.append(f'- {acquisition_line(state)}' if state else
                  '- Source acquisition time has not been recorded.')
+    if state.get('collection_status') == 'delayed':
+        lines.append('- Collection delayed. Previously archived content is retained; newer releases may be missing.')
     if state.get('known_gaps'):
         lines.append(f"- Known gaps: {' '.join(str(state['known_gaps']).split())}")
     return '\n'.join(lines)
