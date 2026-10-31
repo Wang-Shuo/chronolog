@@ -87,7 +87,7 @@ python -m playwright install --no-shell chromium
 python -m _scripts.browser_capture --headed --output /tmp/chronolog-browser-probe-001
 ```
 
-本机已有 Chrome 时，可用 `--channel chrome` 单独验证；日常生成可设 `CHRONOLOG_BROWSER_CHANNEL=chrome`。两者仍创建独立上下文，不读取用户会话。普通浏览器模式设 `CHRONOLOG_BROWSER_HEADED=1`。CI 下载完整 Chromium 并通过 Xvfb 提供虚拟显示；本机实测普通 Chrome 成功、无界面 Chrome 403，不能假定两种模式等价。
+本机已有 Chrome 时，可用 `--channel chrome` 单独验证；日常生成可设 `CHRONOLOG_BROWSER_CHANNEL=chrome`。两者仍创建独立上下文，不读取用户会话。普通浏览器模式设 `CHRONOLOG_BROWSER_HEADED=1`。CI 固定为 Playwright 支持的 Ubuntu 24.04，下载完整 Chromium 并通过 Xvfb 提供虚拟显示；本机实测普通 Chrome 成功、无界面 Chrome 403，不能假定两种模式等价。
 
 真实隔离生成，不直接写入 Vault：
 

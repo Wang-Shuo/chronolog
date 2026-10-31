@@ -2,7 +2,7 @@
 
 ## 交付行为
 
-日常采集先尝试官方 HTTP，ChatGPT 失败后启动普通 Chromium 浏览器，在 GitHub Ubuntu runner 上使用 Xvfb。完整 DOM 两次解析一致、旧 Release ID 无缺失时，自动生成带实际时间和 SHA-256 的快照，并立即消费。原文和诊断随 generation artifact 保留 90 天，不再依赖 `_inputs/chatgpt` 的每日快照 PR。人工内容批准和部署门禁保留。
+日常采集先尝试官方 HTTP，ChatGPT 失败后启动普通 Chromium 浏览器，在固定的 GitHub Ubuntu 24.04 runner 上使用 Xvfb。完整 DOM 两次解析一致、旧 Release ID 无缺失时，自动生成带实际时间和 SHA-256 的快照，并立即消费。原文和诊断随 generation artifact 保留 90 天，不再依赖 `_inputs/chatgpt` 的每日快照 PR。人工内容批准和部署门禁保留。
 
 日常任务显式启用 `--allow-partial`。失败来源必须有历史基线，其 Release、卡片事实和待审项全部保留，不参与对账删除；产品页、首页和 About 提示采集延迟，停止对此来源推断发布沉默。其他完整成功来源继续更新。全源失败、无基线、不完整成功输入和内容/构建失败仍拒绝应用候选。未启用该参数的命令保持严格整批门禁。
 
@@ -27,6 +27,6 @@
 
 ## GitHub 验证与验收边界
 
-[只读真实预演 41159532798](https://github.com/Wang-Shuo/chronolog/actions/runs/41159532798) 使用实现提交 `d1bfd139`。查看其中 `generation-41159532798-1` artifact 的 `quality.json`、`browser/browser-capture.json` 和原文 bundle，可分别判断工程门禁与来源采集状态；不能只凭 workflow 绿色就宣称三个来源均健康。
+[只读真实预演 41159532798](https://github.com/Wang-Shuo/chronolog/actions/runs/41159532798) 使用实现提交 `d1bfd139`。该次运行完整工程门禁通过、发布任务跳过，但 `ubuntu-latest` 已升级到 Playwright 不支持的 Ubuntu 26.04，浏览器安装失败。故障隔离保留了 ChatGPT 并继续处理其他来源。最终配置固定 Ubuntu 24.04，避免系统版本漂移；后续预演见 PR 中的运行链接。查看其中 `generation-41159532798-1` artifact 的 `quality.json`、`browser/browser-capture.json` 和原文 bundle，可分别判断工程门禁与来源采集状态；不能只凭 workflow 绿色就宣称三个来源均健康。
 
 本交付之后的日常采集不需要单独快照审批，但新内容仍须审核。现有 `_inputs/chatgpt` 仅保留为旧交付记录，不再被日常工作流自动读取。七次连续真实日常运行、长期浏览器稳定性与交接验收仍需累积，单次预演不计作完成。

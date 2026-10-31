@@ -215,6 +215,7 @@ def test_workflows_keep_prs_unprivileged_and_deploy_behind_review_and_build():
     assert workflows['quality']['permissions']=={'contents':'read'}
     assert workflows['generate']['concurrency']['cancel-in-progress']=='false'
     generate = workflows['generate']['jobs']
+    assert generate['generate']['runs-on'] == 'ubuntu-24.04'
     assert generate['generate']['permissions'] == {'contents': 'read', 'pull-requests': 'read'}
     assert generate['publish']['needs'] == 'generate'
     assert generate['publish']['permissions'] == {'contents': 'write', 'pull-requests': 'write', 'actions': 'write'}
