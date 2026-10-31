@@ -231,6 +231,7 @@ def test_workflows_keep_prs_unprivileged_and_deploy_behind_review_and_build():
     assert '--allow-partial' in collector['run'] and '--browser-fallback' in collector['run']
     assert 'if [ "$PREVIEW" != true ]; then args+=(--apply); fi' in collector['run']
     assert collector['env']['CHRONOLOG_BROWSER_HEADED'] == '1'
+    assert collector['env']['CHRONOLOG_BROWSER_CHANNEL'] == 'chrome'
     publisher = generate['publish']['steps']
     checkout = next(s for s in publisher if s.get('uses') == 'actions/checkout@v4')
     assert checkout['with']['ref'] == '${{ github.sha }}'

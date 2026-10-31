@@ -70,7 +70,7 @@ Quality 派发成功只表示检查已排队，不代表检查通过；合并前
 日常工作流不再从 `_inputs/chatgpt` 读取旧快照，也不要求每天提交独立快照 PR。
 
 1. 先访问官方 [ChatGPT release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) HTTP 页面。
-2. HTTP 失败或历史覆盖缩短时，用 Playwright Chromium 的独立、无登录浏览器上下文打开同一官方页面。最多等待约 45 秒，读取完整 DOM；两次连续解析结果相同且包含全部已归档 Release ID 才接受。没有验证码处理、隐身插件或用户 Cookie 导入。浏览器安装失败会进入同样的来源故障处理，不阻断其他来源。
+2. HTTP 失败或历史覆盖缩短时，用 Playwright 控制 Google Chrome 的独立、无登录浏览器上下文打开同一官方页面。最多等待约 45 秒，读取完整 DOM；两次连续解析结果相同且包含全部已归档 Release ID 才接受。没有验证码处理、隐身插件或用户 Cookie 导入。浏览器安装失败会进入同样的来源故障处理，不阻断其他来源。
 3. 自动记录真实获取时间、官方 URL、原文 SHA-256 和浏览器结果。成功的 `chatgpt.html.gz` / `capture.json` 放入该次运行的 `browser/bundle/`；失败页面放入 `browser/failed-document.html.gz`，不会伪装成有效快照。浏览器诊断、原文、标准化 `collection.json.gz` 和摘要均随 generation artifact 保留 90 天，内容 PR 链接到该次运行。
 4. 浏览器也失败时，保留 ChatGPT 已归档事实及其原获取时间；Claude Code / Cursor 成功且完整时继续生成。报告保留 ChatGPT 的 `failed` 状态和原 HTTP 错误，整体 `collection_health: degraded`；不能将绿色构建解释为三源采集均成功。
 5. 只有事实、导航或采集健康状态发生变化才产生内容差异；单纯获取时间变化不会开 PR。首次进入采集延迟和恢复健康会更新读者提示；重复失败的错误和时间只进入证据，不反复产生内容 PR。所有内容仍经同一个滚动 PR 审核一次再发布。
@@ -87,7 +87,7 @@ python -m playwright install --no-shell chromium
 python -m _scripts.browser_capture --headed --output /tmp/chronolog-browser-probe-001
 ```
 
-本机已有 Chrome 时，可用 `--channel chrome` 单独验证；日常生成可设 `CHRONOLOG_BROWSER_CHANNEL=chrome`。两者仍创建独立上下文，不读取用户会话。普通浏览器模式设 `CHRONOLOG_BROWSER_HEADED=1`。CI 固定为 Playwright 支持的 Ubuntu 24.04，下载完整 Chromium 并通过 Xvfb 提供虚拟显示；本机实测普通 Chrome 成功、无界面 Chrome 403，不能假定两种模式等价。
+本机已有 Chrome 时，可用 `--channel chrome` 单独验证；日常生成可设 `CHRONOLOG_BROWSER_CHANNEL=chrome`。两者仍创建独立上下文，不读取用户会话。普通浏览器模式设 `CHRONOLOG_BROWSER_HEADED=1`。CI 固定为 Playwright 支持的 Ubuntu 24.04，安装 Google Chrome 并通过 Xvfb 提供虚拟显示；本机实测普通 Chrome 成功、无界面 Chrome 403，不能假定两种模式等价。
 
 真实隔离生成，不直接写入 Vault：
 

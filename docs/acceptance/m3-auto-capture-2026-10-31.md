@@ -2,7 +2,7 @@
 
 ## 交付行为
 
-日常采集先尝试官方 HTTP，ChatGPT 失败后启动普通 Chromium 浏览器，在固定的 GitHub Ubuntu 24.04 runner 上使用 Xvfb。完整 DOM 两次解析一致、旧 Release ID 无缺失时，自动生成带实际时间和 SHA-256 的快照，并立即消费。原文和诊断随 generation artifact 保留 90 天，不再依赖 `_inputs/chatgpt` 的每日快照 PR。人工内容批准和部署门禁保留。
+日常采集先尝试官方 HTTP，ChatGPT 失败后启动普通 Google Chrome 浏览器，在固定的 GitHub Ubuntu 24.04 runner 上使用 Xvfb。完整 DOM 两次解析一致、旧 Release ID 无缺失时，自动生成带实际时间和 SHA-256 的快照，并立即消费。原文和诊断随 generation artifact 保留 90 天，不再依赖 `_inputs/chatgpt` 的每日快照 PR。人工内容批准和部署门禁保留。
 
 日常任务显式启用 `--allow-partial`。失败来源必须有历史基线，其 Release、卡片事实和待审项全部保留，不参与对账删除；产品页、首页和 About 提示采集延迟，停止对此来源推断发布沉默。其他完整成功来源继续更新。全源失败、无基线、不完整成功输入和内容/构建失败仍拒绝应用候选。未启用该参数的命令保持严格整批门禁。
 
@@ -26,6 +26,8 @@
 回归覆盖还包括：重复故障不产生页面变化、来源恢复清除延迟状态、失败来源待审项与人工文字保留、全源失败/缺少基线停止、部分模式仍拒绝重复 ID/混入失败来源数据/不完整输入、空白或截断页面不成为快照，以及预演不会进入发布任务。接入普通浏览器环境变量和预演分支后，相关 43 项测试通过；最终提交的全部检查见 PR Quality。
 
 ## GitHub 验证与验收边界
+
+Ubuntu 24.04 下的 [Chromium 预演 41160139361](https://github.com/Wang-Shuo/chronolog/actions/runs/41160139361) 成功安装浏览器，但官方页面仍返回 403。三源报告明确为 degraded；保留 ChatGPT 的同时，其他来源通过全部门禁且 publish 被跳过。因此正式配置与本机成功环境对齐为普通 Google Chrome，最终运行结果见 PR 的验证链接。
 
 [只读真实预演 41159532798](https://github.com/Wang-Shuo/chronolog/actions/runs/41159532798) 使用实现提交 `d1bfd139`。该次运行完整工程门禁通过、发布任务跳过，但 `ubuntu-latest` 已升级到 Playwright 不支持的 Ubuntu 26.04，浏览器安装失败。故障隔离保留了 ChatGPT 并继续处理其他来源。最终配置固定 Ubuntu 24.04，避免系统版本漂移；后续预演见 PR 中的运行链接。查看其中 `generation-41159532798-1` artifact 的 `quality.json`、`browser/browser-capture.json` 和原文 bundle，可分别判断工程门禁与来源采集状态；不能只凭 workflow 绿色就宣称三个来源均健康。
 
