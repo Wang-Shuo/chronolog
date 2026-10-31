@@ -1601,6 +1601,15 @@ SCOPE_CALLOUT = (
     "equivalent capabilities, adoption, or causation.\n\n</details>")
 
 
+def t(day):
+    return f'<time datetime="{day}">{day}</time>'
+
+
+LEGEND = ("First in archive: each product's earliest tracked change in this theme. "
+          '"·" marks a quarter without a key moment, and "not archived" a quarter before '
+          "the product's archive begins.")
+
+
 def moment(product_name, date, suffix, kind="change", impact="incremental", title=None,
            release=None, theme="agent-mode", quote=None):
     product = product_name.lower().replace(" ", "-")
@@ -1721,10 +1730,14 @@ def test_key_moments_are_launches_and_announcements_one_per_release():
         "",
         "| Quarter | ChatGPT | Claude Code |",
         "| --- | --- | --- |",
-        "| 2026 Q4 | · | 2026-10-14 [[Changes/x/claude-code-2026-10-14-b00001\\|Claude Code b00001]] |",
-        "| 2026 Q3 | 2026-07-09 [[Changes/x/chatgpt-2026-07-09-a00001\\|ChatGPT a00001]] | "
-        "2026-09-01 [[Changes/x/claude-code-2026-09-01-b00003\\|Agent hooks]]<br>"
-        "2026-08-01 [[Changes/x/claude-code-2026-08-01-b00004\\|Background agents are now on by default]] |",
+        f"| **First in archive** | {t('2026-07-09')} [[Changes/x/chatgpt-2026-07-09-a00001\\|ChatGPT a00001]] | "
+        f"{t('2026-04-01')} [[Changes/x/claude-code-2026-04-01-b00008\\|Claude Code b00008]] |",
+        f"| 2026 Q4 | · | {t('2026-10-14')} [[Changes/x/claude-code-2026-10-14-b00001\\|Claude Code b00001]] |",
+        f"| 2026 Q3 | {t('2026-07-09')} [[Changes/x/chatgpt-2026-07-09-a00001\\|ChatGPT a00001]] | "
+        f"{t('2026-09-01')} [[Changes/x/claude-code-2026-09-01-b00003\\|Agent hooks]]<br>"
+        f"{t('2026-08-01')} [[Changes/x/claude-code-2026-08-01-b00004\\|Background agents are now on by default]] |",
+        "",
+        LEGEND,
     ])
     only_digests = [moment("Cursor", "2026-01-01", "c00001", kind="digest"),
                     moment("Cursor", "2026-02-01", "c00002", impact="significant")]
@@ -1786,12 +1799,46 @@ def test_editorial_key_moments_take_precedence_and_unknown_ids_fall_back():
     assert curated["moments"] == "\n".join([
         "| Quarter | ChatGPT | Cursor |",
         "| --- | --- | --- |",
-        "| 2026 Q3 | 2026-07-09 [[Changes/x/chatgpt-2026-07-09-a00001\\|ChatGPT a00001]] | · |",
-        "| 2025 Q2 | · | 2025-05-15 [[Changes/x/cursor-2025-05-15-c00001\\|Cursor c00001]] |",
+        f"| **First in archive** | {t('2026-07-09')} [[Changes/x/chatgpt-2026-07-09-a00001\\|ChatGPT a00001]] | "
+        f"{t('2025-05-15')} [[Changes/x/cursor-2025-05-15-c00001\\|Cursor c00001]] |",
+        f"| 2026 Q3 | {t('2026-07-09')} [[Changes/x/chatgpt-2026-07-09-a00001\\|ChatGPT a00001]] | · |",
+        "| 2025 Q3 → 2026 Q2 | · | · |",
+        f"| 2025 Q2 | · | {t('2025-05-15')} [[Changes/x/cursor-2025-05-15-c00001\\|Cursor c00001]] |",
+        "",
+        LEGEND,
     ])
     _, fallback = theme_regions(cards, card_targets=targets, key_moments=["cursor-2020-01-01-ffffff"])
     assert fallback["moments"].startswith(AUTO_MOMENTS_CAPTION)
     assert "cursor-2026-10-06-c00002" in fallback["moments"]
+
+
+def test_key_moments_state_coverage_so_an_empty_cell_never_reads_as_later():
+    cards = [moment("Cursor", "2023-07-06", "c00001", kind="launch"),
+             moment("Cursor", "2025-05-15", "c00002", kind="launch"),
+             moment("Claude Code", "2026-01-10", "b00001", kind="fix"),
+             moment("Claude Code", "2026-04-16", "b00002", kind="launch")]
+    targets = {card["card_id"]: f"Changes/x/{card['card_id']}" for card in cards}
+    starts = {"Claude Code": "2025-12-19", "Cursor": "2023-03-14"}
+    rows = theme_regions(cards, card_targets=targets, archive_start=starts)[1]["moments"].split("\n")
+
+    begins = f"archive begins {t('2025-12-19')}"
+    not_archived = '<span class="not-archived">not archived</span>'
+    assert rows[2:4] == ["| Quarter | Claude Code | Cursor |", "| --- | --- | --- |"]
+    # The first row is each product's earliest card in the theme, a fix included.
+    assert rows[4].startswith(f"| **First in archive** | {t('2026-01-10')} [[Changes/x/claude-code-2026-01-10-b00001")
+    assert rows[5].startswith(f"| 2026 Q2 | {t('2026-04-16')} ") and rows[5].endswith(" | · |")
+    # Skipped quarters are one range row; Claude Code's archive begins inside it.
+    assert rows[6] == f"| 2025 Q3 → 2026 Q1 | {begins} | · |"
+    assert rows[7].startswith(f"| 2025 Q2 | {not_archived} | {t('2025-05-15')} ")
+    assert rows[8] == f"| 2023 Q4 → 2025 Q1 | {not_archived} | · |"
+    assert rows[9].startswith(f"| 2023 Q3 | {not_archived} | {t('2023-07-06')} ")
+    assert rows[-1].endswith("Archives begin: Claude Code 2025-12-19 · Cursor 2023-03-14.")
+    # A one-quarter gap is named alone; a moment in the starting quarter needs no marker.
+    from _scripts.writer import coverage_cell, quarter_number
+    q = quarter_number
+    assert coverage_cell(q("2025 Q4"), q("2025 Q4"), "2025-12-19") == begins
+    assert coverage_cell(q("2026 Q1"), q("2026 Q1"), "2025-12-19") == "·"
+    assert coverage_cell(q("2025 Q1"), q("2025 Q1"), None) == "·"
 
 
 def test_editorial_key_moments_validation_reports_unknown_and_repeated_ids():
