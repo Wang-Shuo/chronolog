@@ -2,8 +2,8 @@
 changes_count: 1
 date: '2025-12-18'
 description: 'ChatGPT release Pinned chats in ChatGPT on 2025-12-18: 1 tracked change
-  across Mobile and Desktop'
-machine_hash: a22f7c072d0aa6ea2632f09c4bf4935b3a95ad5b89b49915c50788ca88aba6e1
+  across Interface Experience'
+machine_hash: 16f813e2fc06034221b967e1d980adef70e856d5ef0c80e26e569bfffba6ef91
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,5 +46,5 @@ Tracked 1 card from 1 candidate line.
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|Pinned chats in ChatGPT]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|Pinned chats in ChatGPT]] · Interface Experience
 <!-- chronolog:end -->

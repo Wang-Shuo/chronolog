@@ -4,8 +4,8 @@ date: '2025-11-25'
 description: 'ChatGPT · 2025-11-25 · Voice and Audio: We’re making ChatGPT Voice a
   seamless part of the ChatGPT experience, so you can use voice right inside the chat…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
-    are beginning to roll out new voice and image capabilities in ChatGPT]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
+    (Beta) is now rolling out to Plus users on iOS and Android]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 792
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4445a529236cc7747c68e5762e5677e58b9a1891192dd2d31d360e09ca5a78e6
+machine_hash: 00869eb2ac1006359ea75e9b74062f9f19b69968dd534735b5c76a8a373dea6b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -134,7 +134,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

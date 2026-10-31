@@ -4,10 +4,10 @@ date: '2026-08-13'
 description: 'Claude Code · 2026-08-13 · Automation and Scheduling: Pasted and clipboard
   images are read without blocking the event loop'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks
-    let you set up automated prompts that ChatGPT can run for you]]'
+  first_in_tracked: '[[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled
+    tasks in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 239
+  lag_days: 576
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1d255dc48a3862c140ce7f2e0a4648997a3ba293d4d18deaa5e5001283f56be3
+machine_hash: a65bb48b82e5109d4ac9ff232730e6f56cc043f7073484e49324ca212568dff1
 product: claude-code
 product_name: Claude Code
 record:
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-12-17 · ChatGPT · [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks let you set up automated prompts that ChatGPT can run for you]]
+- Earliest same-theme entry in the tracked set: 2025-01-14 · ChatGPT · [[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled tasks in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

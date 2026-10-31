@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 11519075dc88560a2038024c85d6d326038b38ffe388b5fad416e2970cf0efd4
+machine_hash: 93555cfaa4115415ab4fea2bf3c5b8a22324fddfb728cecfa108dd830981fd0a
 product: claude-code
 product_name: Claude Code
 record:
@@ -73,10 +73,10 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-09-18-3-enterprise-and-administration-changes-in-v2-1-277|3 Enterprise and Administration changes in v2.1.277]] · Enterprise and Administration
+- [[Changes/Claude Code/2026-09-18-2-enterprise-and-administration-changes-in-v2-1-277|2 Enterprise and Administration changes in v2.1.277]] · Enterprise and Administration
 - [[Changes/Claude Code/2026-09-18-4-safety-and-privacy-changes-in-v2-1-277|4 Safety and Privacy changes in v2.1.277]] · Safety and Privacy
+- [[Changes/Claude Code/2026-09-18-2-editor-experience-changes-in-v2-1-277|2 Editor Experience changes in v2.1.277]] · Editor Experience
 - [[Changes/Claude Code/2026-09-18-vscode-added-the-session-s-cost-and-token-usage-to-the-account-usage-dialog-and|VSCode Added the session's cost and token usage to the Account & usage dialog…]] · Pricing Model
-- [[Changes/Claude Code/2026-09-18-removed-the-background-haiku-auto-title-request-from-claude-p-runs-launched-outs|Removed the background Haiku auto-title request from claude -p runs launched…]] · Editor Experience
 - [[Changes/Claude Code/2026-09-18-vscode-added-a-sign-out-row-to-the-panel-menu-with-logout-in-the-typed-command-m|VSCode Added a Sign out row to the panel menu, with /logout in the typed command menu]] · Interface Experience
 - [[Changes/Claude Code/2026-09-18-improved-ultrareview-when-there-s-nothing-to-review-messages-say-which-case-you|Improved /ultrareview when there's nothing to review]] · Developer Workflow
 - [[Changes/Claude Code/2026-09-18-6-apps-and-integrations-changes-in-v2-1-277|6 Apps and Integrations changes in v2.1.277]] · Apps and Integrations

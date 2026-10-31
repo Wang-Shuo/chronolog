@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3a3573f96c2d7ce30d04577c42262b917035cb32c80e101da05ec01970cce003
+machine_hash: d6f8f4f4ab8917afcc2b668436d6562a70b056bf46ffd88c0b409146945f581b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,10 +50,6 @@ record:
     - tab
     score: 50
     theme: editor-experience
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
   - matched_terms:
     - sidebar
     score: 50

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ba91cb160ceb815167168699838caf749b3d08827d8705c178a2cd5a341ec5b5
+machine_hash: 26657e0b2f160443a37902648f393b63ba8b61de3b1a97813c15058ffa137c82
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -88,17 +88,9 @@ record:
     score: 270
     theme: memory
   - matched_terms:
-    - apps
-    score: 50
-    theme: apps-integrations
-  - matched_terms:
     - context
     score: 50
     theme: context-window
-  - matched_terms:
-    - mobile
-    score: 50
-    theme: mobile-desktop
   - matched_terms:
     - models
     score: 50
@@ -110,10 +102,10 @@ record:
   title: Memory sources and more personalized responses in ChatGPT
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|Sunsetting
+  the “Nerdy” base style]]'
 - '[[Changes/Claude Code/2026-03-27-memory-filenames-in-the-saved-n-memories-notice-now-highlight-on-hover-and-open|Memory
   filenames in the "Saved N memories" notice now highlight on hover and open on click]]'
-- '[[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file
-  diff rendering is now much faster, smoother, and less memory-heavy]]'
 - '[[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|Fast
   answers in ChatGPT]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-05-memory-sources-and-more-personalized-responses-in-chatgpt-67d43ddb|chatgpt-2026-05-05-memory-sources-and-more-personalized-responses-in-chatgpt-67d43ddb]]'

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2758354a05a413f20392fa74e0cf487f05f0814df8b91bba809f4d3422b65e9d
+machine_hash: 2358ad75cb6d47bb8d97e97834328adc37f47d315fd629c7792d282b257bb962
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -80,7 +80,7 @@ type: change
 
 - [[Changes/ChatGPT/2026-06-18-updated-composer-and-tools-menu-the-composer-in-android-now-has-inline-mentions|Updated composer and tools menu]] · Mobile and Desktop
 - [[Changes/ChatGPT/2026-06-18-app-permission-controls-you-can-now-choose-when-chatgpt-asks-before-using-connec|App permission controls: You can now choose when ChatGPT asks before using connected apps]] · Safety and Privacy
-- [[Changes/ChatGPT/2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press|Long-press send to choose a model]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press|Long-press send to choose a model]] · Model Support
 - [[Changes/ChatGPT/2026-06-18-improved-camera-and-photo-uploads-taking-and-uploading-photos-in-chatgpt-on-ios|Improved camera and photo uploads]] · Mobile and Desktop
 - [[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World Cup updates]] · Collaboration
 - [[Changes/ChatGPT/2026-06-18-help-with-pronunciations-chatgpt-can-now-include-text-and-audio-pronunciation-gu|Help with pronunciations]] · Voice and Audio

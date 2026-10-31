@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0d57bc11de77dd81e7127c8f357693df70eb8458a949229ce3848964a0c90ba5
+machine_hash: 14a992a83c44a06a72a90c45e6f5ac0e5ab5d7b95f0b7e45a750758d8133b9dc
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: Changed how failed API requests are retried
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp-2448bf|Use
-  your ChatGPT allowance in participating apps]]'
 - '[[Changes/ChatGPT/2026-09-29-gpt-6-1-sol-improves-on-gpt-6-sol-in-agentic-coding-computer-use-and-professiona-815850|GPT-6.1
   Sol in ChatGPT Work and Codex]]'
+- '[[Changes/ChatGPT/2026-09-29-eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp|Eligible
+  Plus and Pro users can authorize participating apps to use their ChatGPT…]]'
 - '[[Changes/Claude Code/2026-09-29-3-model-support-changes-in-v2-1-285|3 Model Support
   changes in v2.1.285]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7|claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7]]'

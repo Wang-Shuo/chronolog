@@ -4,8 +4,8 @@ date: '2026-08-31'
 description: 'ChatGPT · 2026-08-31 · Voice and Audio: To continue a Voice conversation
   outside ChatGPT, turn on Background conversations in Settings → Voice.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
-    are beginning to roll out new voice and image capabilities in ChatGPT]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
+    (Beta) is now rolling out to Plus users on iOS and Android]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1071
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 145ffde1a47afd9ae97d405bf5378987626a3ce7d929ccb275fbdd988d680df5
+machine_hash: 9a3f1ac9aa96ea4acf8f944c7a182f3e5cea1bb654364e2d11c3188773ebb53f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

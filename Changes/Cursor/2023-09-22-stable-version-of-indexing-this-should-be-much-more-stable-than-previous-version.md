@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 38295ea107484a61b6c460fc9aa7226e4e77b6a0964291bad929aefa0a64d658
+machine_hash: fad1b31e0f4a1c0fa253ac2ee2f331f3cffade65b7c2649ef404dac1b7162fbd
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
   title: Stable Indexing v0.1
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-07-we-release-an-improved-new-ai-project-feature-to-nightly-users-this-is-a-more-ro|We
-  release an improved New AI Project feature to nightly users]]'
+- '[[Changes/Cursor/2023-09-08-better-state-management-prevents-crashes-from-editor-using-too-much-memory|Better
+  state management - prevents crashes from editor using too much memory]]'
 - '[[Changes/Cursor/2023-09-08-following-this-update-future-updates-should-come-as-staged-rollouts-this-will-me|Staged
   Rollouts]]'
 - '[[Changes/Cursor/2023-09-20-we-ship-a-new-version-of-indexing-which-should-be-significantly-more-stable-than|More

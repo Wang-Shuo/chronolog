@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 72b39268011d5548624fa9e7d273b259c88fedc024cb0da002f5491f32d97e09
+machine_hash: 39adf83fa7ee312f4588d3de30ea21b812bc798784e77abce417fd991f6ec85a
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,16 +42,6 @@ record:
   source_release: claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d
   source_type: github_releases
   theme: account-access
-  theme_matches:
-  - matched_terms:
-    - login
-    - sign in
-    score: 110
-    theme: account-access
-  - matched_terms:
-    - apps
-    score: 50
-    theme: apps-integrations
   title: Improved Claude apps gateway sign-in rate limit errors
   type: change
 related_changes:

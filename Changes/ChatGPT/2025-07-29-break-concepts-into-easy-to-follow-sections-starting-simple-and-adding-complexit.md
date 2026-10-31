@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a6e530f38a0497d9aa5b3fa0b9f2e3a096cc40dfa6e3220c0606404e5ff54306
+machine_hash: bd06546bad7fe5f590df7085589196befcf4df818af4e35ed7b10f5085d1cd7f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,6 +45,7 @@ record:
   type: change
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-29-study-mode-ffbfbea6|chatgpt-2025-07-29-study-mode-ffbfbea6]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: learning-tools
 title: Break concepts into easy to follow sections starting simple and adding complexity…
 type: change

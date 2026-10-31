@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 27531bc8144aa7ca3cc52beed1cccca7dda7245c2bceeed8bb4cfa83e1a3acf5
+machine_hash: 693d7bd591f07e8a06df1d5f4ce46fe09c81043e847e386e6f636af6fcc4959f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,17 +46,9 @@ record:
   theme: mobile-desktop
   theme_matches:
   - matched_terms:
-    - apps
-    score: 50
-    theme: apps-integrations
-  - matched_terms:
     - sharing
     score: 50
     theme: collaboration
-  - matched_terms:
-    - ios
-    score: 50
-    theme: mobile-desktop
   - matched_terms:
     - faster
     score: 50
@@ -66,10 +58,10 @@ record:
     guidance…
   type: change
 related_changes:
+- '[[Changes/Claude Code/2026-06-17-2-mobile-and-desktop-changes-in-v2-1-181|2 Mobile
+  and Desktop changes in v2.1.181]]'
 - '[[Changes/ChatGPT/2026-06-18-updated-composer-and-tools-menu-the-composer-in-android-now-has-inline-mentions|Updated
   composer and tools menu]]'
-- '[[Changes/ChatGPT/2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press|Long-press
-  send to choose a model]]'
 - '[[Changes/ChatGPT/2026-06-18-improved-camera-and-photo-uploads-taking-and-uploading-photos-in-chatgpt-on-ios|Improved
   camera and photo uploads]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5]]'
@@ -97,7 +89,7 @@ type: change
 
 - [[Changes/ChatGPT/2026-06-18-updated-composer-and-tools-menu-the-composer-in-android-now-has-inline-mentions|Updated composer and tools menu]] · Mobile and Desktop
 - [[Changes/ChatGPT/2026-06-18-app-permission-controls-you-can-now-choose-when-chatgpt-asks-before-using-connec|App permission controls: You can now choose when ChatGPT asks before using connected apps]] · Safety and Privacy
-- [[Changes/ChatGPT/2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press|Long-press send to choose a model]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press|Long-press send to choose a model]] · Model Support
 - [[Changes/ChatGPT/2026-06-18-improved-camera-and-photo-uploads-taking-and-uploading-photos-in-chatgpt-on-ios|Improved camera and photo uploads]] · Mobile and Desktop
 - [[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World Cup updates]] · Collaboration
 - [[Changes/ChatGPT/2026-06-18-easier-pinning-and-sidebar-organization-it-s-now-easier-to-keep-important-work-c|Easier pinning and sidebar organization]] · Interface Experience
@@ -108,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-17 · Cursor · [[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|Cursor introduces updates to cloud agents in the Agents Window of the Cursor desktop app]]
+- Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-2-mobile-and-desktop-changes-in-v2-1-181|2 Mobile and Desktop changes in v2.1.181]]
 - Later: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|Improved background session reliability]]
 <!-- chronolog:end -->
 

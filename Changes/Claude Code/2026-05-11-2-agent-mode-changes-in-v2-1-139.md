@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7b6587a6b670110c90f8de555354326e58b127f0ac4b2f84b7e4e150898a6833
+machine_hash: dbb68522f63d90a334932da4fb74d4cde637b26e50266b9dcf935d5886bcb656
 product: claude-code
 product_name: Claude Code
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.139
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-07 · Cursor · [[Changes/Cursor/2026-05-07-added-the-ability-to-control-explore-subagent-behavior-from-settings-choose-a-sp|Added the ability to control Explore subagent behavior from settings]]
-- Later: 2026-05-12 · Claude Code · [[Changes/Claude Code/2026-05-12-2-agent-mode-changes-in-v2-1-140|2 Agent Mode changes in v2.1.140]]
+- Later: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-mention-cursor-in-any-teams-channel-to-delegate-a-task-to-a-cloud-agent-or-pull-d30c31|Mention @Cursor in any Teams channel to delegate a task to a cloud agent or pull…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

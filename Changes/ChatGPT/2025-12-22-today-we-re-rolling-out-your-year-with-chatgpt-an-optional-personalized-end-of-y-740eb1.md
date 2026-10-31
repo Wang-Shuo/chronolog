@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d2f6956e682fbe5e3ff6de088c50fddc87d6d9280186714136ade77346eb32a8
+machine_hash: adb643efb3e91b2f1b53131263cd4a16eb2091728ec865c70a6ccce3a85ac541
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -62,15 +62,6 @@ record:
   source_release: chatgpt-2025-12-22-your-year-with-chatgpt-6dbbef4d
   source_type: chatgpt_changelog
   theme: memory
-  theme_matches:
-  - matched_terms:
-    - memory
-    score: 110
-    theme: memory
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
   title: Your Year with ChatGPT
   type: change
 related_changes:

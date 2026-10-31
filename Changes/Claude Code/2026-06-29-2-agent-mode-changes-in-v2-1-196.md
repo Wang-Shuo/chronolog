@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e16ba9196d963f0bb82179106080a265e6683074230c19a58b392ca14ccee5c6
+machine_hash: b8b6450db7959590c369033324a915bbfb014deaa1eee5c203862e357ddd8512
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.196
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-26 · Claude Code · [[Changes/Claude Code/2026-06-26-improved-claude-agents-completed-list-to-fill-available-vertical-space-on-short|Improved claude agents completed list to fill available vertical space]]
-- Later: 2026-06-29 · Cursor · [[Changes/Cursor/2026-06-29-remote-control-3ec330|Remote Control]]
+- Later: 2026-06-29 · Cursor · [[Changes/Cursor/2026-06-29-cloud-agents-on-mobile-1bc371|Cloud agents on mobile]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

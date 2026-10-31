@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2c2088cbb7ea6639188f033b7124c7e3d402334e1110793e2af48e588d31c20f
+machine_hash: 827802950abfde235ed7b943e0fcd133f5c31845c48f7e1bc3df276a882e536f
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: Added "Always copy full response" option to the `/copy` picker
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-26-added-copy-command-to-show-an-interactive-picker-when-code-blocks-are-present-al|Added
-  /copy command to show an interactive picker when code blocks are present…]]'
 - '[[Changes/ChatGPT/2026-02-27-automatic-scroll-to-latest-message-existing-conversations-now-automatically-scro|Automatic
   scroll to latest message]]'
+- '[[Changes/ChatGPT/2026-02-27-sidebar-actions-on-mobile-web-no-longer-stick-while-scrolling|Sidebar
+  actions on mobile web no longer stick while scrolling]]'
 - '[[Changes/ChatGPT/2026-02-27-faster-sidebar-actions-sidebar-interactions-such-as-renaming-chats-are-now-faste|Faster
   sidebar actions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c|claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c]]'

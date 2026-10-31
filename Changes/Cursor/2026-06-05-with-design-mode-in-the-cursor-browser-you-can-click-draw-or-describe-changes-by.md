@@ -5,8 +5,8 @@ description: 'Cursor · 2026-06-05 · Voice and Audio: With Design Mode in the C
   browser, you can click, draw, or describe changes by voice to help agents update
   your UI.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
-    are beginning to roll out new voice and image capabilities in ChatGPT]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
+    (Beta) is now rolling out to Plus users on iOS and Android]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 984
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 887dc93069800db902f25ed68675ff2d2d6b333d58c84fccf779de53517098c9
+machine_hash: 5ffba966669e72b3ab12a559b5377c182d1870b717b00a9918c1caa68a18c47a
 product: cursor
 product_name: Cursor
 record:
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

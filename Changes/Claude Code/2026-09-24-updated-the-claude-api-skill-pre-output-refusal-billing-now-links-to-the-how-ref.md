@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 2c740383d8c6493790887d2f4c0459aaaad39acf68e9b11b1947900f16c9244b
+machine_hash: 7099f25d95e7f1a32016a362f343d8e888f57774e6d1d4432b2e681a0eaa19b4
 product: claude-code
 product_name: Claude Code
 record:
@@ -72,8 +72,8 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-09-24-claude-tag-changed-newly-connected-slack-workspaces-to-follow-the-current-defaul|Claude Tag Changed newly connected Slack workspaces to follow the current default…]] · Model Support
-- [[Changes/Claude Code/2026-09-24-2-mobile-and-desktop-changes-in-v2-1-282|2 Mobile and Desktop changes in v2.1.282]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-09-24-2-model-support-changes-in-v2-1-282|2 Model Support changes in v2.1.282]] · Model Support
+- [[Changes/Claude Code/2026-09-24-improved-the-error-shown-on-windows-when-a-session-can-t-be-resumed-because-its|Improved the error shown on Windows when a session can't be resumed because…]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-09-24-4-interface-experience-changes-in-v2-1-282|4 Interface Experience changes in v2.1.282]] · Interface Experience
 - [[Changes/Claude Code/2026-09-24-changed-windows-wsl-managed-settings-so-an-admin-policy-that-is-present-but-inva|Changed Windows/WSL managed settings so an admin policy that is present but invalid…]] · Developer Workflow
 - [[Changes/Claude Code/2026-09-24-2-agent-mode-changes-in-v2-1-282|2 Agent Mode changes in v2.1.282]] · Agent Mode

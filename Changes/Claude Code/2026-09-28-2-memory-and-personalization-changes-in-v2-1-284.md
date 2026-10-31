@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b3ef147051e75686c45f86a1f04f39f344ca459cede69df7257af6f2a32a04e1
+machine_hash: c79ae7f67113eb3e1355ba3a44193254db921c12399329348144dcc1a8c91476
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,6 +54,7 @@ related_changes:
   lists in /help, /hooks, /copy, /chrome, /memory, /ide…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'
 source_type: github_releases
+superseded: true
 theme: memory
 title: 2 Memory and Personalization changes in v2.1.284
 type: change

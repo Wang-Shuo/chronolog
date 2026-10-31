@@ -1,7 +1,7 @@
 ---
 created: '2022-12-15'
 date: '2026-10-31'
-machine_hash: 63817959d20e14d1af95d4eeacea763a3695d6eb2a53ba6ae08ef15af65f1b51
+machine_hash: a61a5864b855556326b3559141c49ef8fb3fda24ead4152c07f19d5f5137ed03
 modified: '2026-10-31'
 publication: active
 tags:
@@ -12,37 +12,34 @@ title: ChronoLog
 <!-- chronolog:begin region="header" -->
 # ChronoLog
 
-Tracked changes in ChatGPT, Claude Code and Cursor, from official release notes. 3 products · 2,751 tracked changes · 25 themes · archive to 2026-10-31 · [[About|About the data]]
+Tracked changes in ChatGPT, Claude Code and Cursor, from official release notes. 3 products · 2,742 tracked changes · 25 themes · archive to 2026-10-31 · [[About|About the data]]
 <!-- chronolog:end -->
 
 ## Latest changes
 <!-- chronolog:begin region="recent" -->
 ### ChatGPT
 - 2026-10-30 · Memory and Personalization: [[Changes/ChatGPT/2026-10-30-account-switching-is-rolling-out-to-the-chatgpt-ios-and-android-apps-you-can-sta|Account switching on iOS and Android]]
-- 2026-10-28 · Pricing Model: [[Changes/ChatGPT/2026-10-28-eligible-chatgpt-pro-and-business-subscribers-can-activate-promotional-api-credi|API credits for eligible ChatGPT Pro and Business plans]]
 - 2026-10-28 · Safety and Privacy: [[Changes/ChatGPT/2026-10-28-texting-your-dot-is-starting-to-roll-out-in-beta-to-pro-users-in-the-u-s|Texting your dot]]
-- 2026-10-27 · Automation and Scheduling: [[Changes/ChatGPT/2026-10-27-icloud-users-can-now-connect-mail-and-calendar-to-chatgpt-to-find-emails-catch-u|iCloud users can now connect Mail and Calendar to ChatGPT to find emails, catch up…]]
-- 2026-10-27 · Mobile and Desktop: [[Changes/ChatGPT/2026-10-27-you-can-learn-more-about-how-chatgpt-uses-connected-apps-here-available-to-all-c|You can learn more about how ChatGPT uses connected apps here]]
+- 2026-10-28 · Pricing Model: [[Changes/ChatGPT/2026-10-28-eligible-chatgpt-pro-and-business-subscribers-can-activate-promotional-api-credi|API credits for eligible ChatGPT Pro and Business plans]]
+- 2026-10-27 · [[Releases/ChatGPT/chatgpt-2026-10-27-icloud-mail-and-calendar-plugins-in-chatgpt-216bf9bc|iCloud Mail and Calendar plugins in ChatGPT]] · 2 cards: Automation and Scheduling, Mobile and Desktop
 - 2026-10-26 · Model Support: [[Changes/ChatGPT/2026-10-26-gpt-6-1-terra-is-rolling-out-in-chatgpt-work-and-codex-it-supports-a-range-of-ta|GPT-6.1 Terra]]
-- 17 more in this window → [[Products/ChatGPT|ChatGPT]]
+- 2026-10-21 · Pricing Model: [[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo payments in Vietnam]]
+- 8 more releases in this window → [[Products/ChatGPT|ChatGPT]]
 
 ### Claude Code
-- 2026-10-31 · Account and Access: [[Changes/Claude Code/2026-10-31-vscode-added-sign-in-to-a-claude-apps-gateway-from-the-chat-panel-with-no-termin|VSCode Added sign-in to a Claude apps gateway from the chat panel, with no…]]
-- 2026-10-31 · Agent Mode: [[Changes/Claude Code/2026-10-31-2-agent-mode-changes-in-v2-1-316|2 Agent Mode changes in v2.1.316]]
-- 2026-10-31 · Apps and Integrations: [[Changes/Claude Code/2026-10-31-7-apps-and-integrations-changes-in-v2-1-316|7 Apps and Integrations changes in v2.1.316]]
-- 2026-10-31 · Automation and Scheduling: [[Changes/Claude Code/2026-10-31-2-automation-and-scheduling-changes-in-v2-1-316|2 Automation and Scheduling changes in v2.1.316]]
-- 2026-10-31 · Developer Workflow: [[Changes/Claude Code/2026-10-31-2-developer-workflow-changes-in-v2-1-316|2 Developer Workflow changes in v2.1.316]]
-- 2026-10-31 · Editor Experience: [[Changes/Claude Code/2026-10-31-2-editor-experience-changes-in-v2-1-316|2 Editor Experience changes in v2.1.316]]
-- 176 more in this window → [[Products/Claude Code|Claude Code]]
+- 2026-10-31 · Model Support: [[Changes/Claude Code/2026-10-31-deprecated-fast-mode-for-opus-4-8-as-of-october-30-2026-it-will-be-removed-on-no|Deprecated fast mode for Opus 4.8 as of October 30, 2026]] · +7 more in [[Releases/Claude Code/claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9|v2.1.316]]
+- 2026-10-30 · [[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|v2.1.314]] · 10 cards: Safety and Privacy, Developer Workflow, Agent Mode, +7 more
+- 2026-10-27 · [[Releases/Claude Code/claude-code-2026-10-27-v2-1-312-github-425846009-439d063a|v2.1.312]] · 7 cards: Model Support, Agent Mode, Apps and Integrations, +4 more
+- 2026-10-26 · [[Releases/Claude Code/claude-code-2026-10-26-v2-1-311-github-424682562-151da26b|v2.1.311]] · 11 cards: Model Support, Developer Workflow, Accessibility and Localization, +8 more
+- 2026-10-23 · [[Releases/Claude Code/claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2|v2.1.310]] · 8 cards: Safety and Privacy, Agent Mode, Apps and Integrations, +5 more
+- 2026-10-22 · [[Releases/Claude Code/claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99|v2.1.309]] · 9 cards: Safety and Privacy, Apps and Integrations, Editor Experience, +6 more
+- 16 more releases in this window → [[Products/Claude Code|Claude Code]]
 
 ### Cursor
-- 2026-10-20 · Agent Mode: [[Changes/Cursor/2026-10-20-deploy-agents-wherever-you-need-them|Deploy agents wherever you need them]]
-- 2026-10-20 · Agent Mode: [[Changes/Cursor/2026-10-20-the-agent-sdk-is-generally-available-today-read-the-docs-and-get-started|The Agent SDK is generally available today]]
-- 2026-10-20 · Agent Mode: [[Changes/Cursor/2026-10-20-evals|Evals]]
-- 2026-10-20 · Agent Mode: [[Changes/Cursor/2026-10-20-agents-as-code|Agents as code]]
-- 2026-10-20 · Agent Mode: [[Changes/Cursor/2026-10-20-the-agent-sdk-is-available-today-it-allows-you-to-define-an-agent-as-a-folder-of|The Agent SDK is available today]]
-- 2026-10-20 · Automation and Scheduling: [[Changes/Cursor/2026-10-20-channels|Channels]]
-- 12 more in this window → [[Products/Cursor|Cursor]]
+- 2026-10-20 · [[Releases/Cursor/cursor-2026-10-20-agent-sdk-https-cursor-com-changelog-agent-sdk-00fcb04c|Agent SDK]] · 6 cards: Agent Mode, Automation and Scheduling
+- 2026-10-16 · [[Releases/Cursor/cursor-2026-10-16-cloud-agent-canvases-and-environment-improvements-https-cursor-c-1809cd74|Cloud Agent Canvases and Environment Improvements]] · 3 cards: Agent Mode, Reliability and Performance
+- 2026-10-13 · [[Releases/Cursor/cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c|Origin App Marketplace]] · 3 cards: Apps and Integrations, Safety and Privacy
+- 2026-10-06 · [[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|Remote control for local agents]] · 5 cards: Enterprise and Administration, Agent Mode, Mobile and Desktop
 
 All months: [[Archive/index|Archive]]
 <!-- chronolog:end -->
@@ -51,6 +48,11 @@ All months: [[Archive/index|Archive]]
 <!-- chronolog:begin region="featured" -->
 - [[Themes/agent-mode|Agent Mode]] — From assisted edits to delegated work
 - [[Themes/pricing-model|Pricing Model]] — Plans, allowances, and usage charging
+- [[Themes/apps-integrations|Apps and Integrations]] — How do the tracked products connect to outside tools, and in what unit do they package those connections?
+- [[Themes/model-support|Model Support]] — How do the tracked products add, choose between and retire models?
+- [[Themes/safety-privacy|Safety and Privacy]] — Which safeguards and privacy controls do the tracked products add, and for whom?
+- [[Themes/context-window|Context Window]] — How much material can each product bring into a conversation, and how does it handle the limit?
+- [[Themes/memory|Memory and Personalization]] — What do the tracked products remember between sessions, and how do users control it?
 <!-- chronolog:end -->
 
 ## Products
@@ -62,21 +64,21 @@ All months: [[Archive/index|Archive]]
 
 ## Themes
 <!-- chronolog:begin region="themes" -->
-**Paradigm** · [[Themes/agent-mode|Agent Mode]] (265)
+**Paradigm** · [[Themes/agent-mode|Agent Mode]] (275)
 
-**Capability** · [[Themes/model-support|Model Support]] (226) · [[Themes/context-window|Context Window]] (135) · [[Themes/memory|Memory and Personalization]] (81) · [[Themes/voice|Voice and Audio]] (62) · [[Themes/search-browsing|Search and Browsing]] (38) · [[Themes/file-data|Files and Data]] (35) · [[Themes/image-generation|Image Generation]] (17) · [[Themes/multimodal|Multimodal Input]] (5) · [[Themes/learning-tools|Learning Tools]] (4) · [[Themes/artifact-creation|Artifact Creation]] (1)
+**Capability** · [[Themes/model-support|Model Support]] (229) · [[Themes/context-window|Context Window]] (136) · [[Themes/memory|Memory and Personalization]] (69) · [[Themes/voice|Voice and Audio]] (64) · [[Themes/search-browsing|Search and Browsing]] (39) · [[Themes/file-data|Files and Data]] (35) · [[Themes/image-generation|Image Generation]] (17) · [[Themes/multimodal|Multimodal Input]] (5) · [[Themes/learning-tools|Learning Tools]] (3) · [[Themes/artifact-creation|Artifact Creation]] (1)
 
-**Workflow** · [[Themes/interface-experience|Interface Experience]] (220) · [[Themes/developer-workflow|Developer Workflow]] (209) · [[Themes/editor-experience|Editor Experience]] (171) · [[Themes/collaboration|Collaboration]] (68) · [[Themes/automation-scheduling|Automation and Scheduling]] (41) · [[Themes/projects-workspaces|Projects and Workspaces]] (25)
+**Workflow** · [[Themes/interface-experience|Interface Experience]] (228) · [[Themes/developer-workflow|Developer Workflow]] (214) · [[Themes/editor-experience|Editor Experience]] (172) · [[Themes/collaboration|Collaboration]] (59) · [[Themes/automation-scheduling|Automation and Scheduling]] (42) · [[Themes/projects-workspaces|Projects and Workspaces]] (26)
 
-**Platform** · [[Themes/mobile-desktop|Mobile and Desktop]] (136) · [[Themes/account-access|Account and Access]] (83)
+**Platform** · [[Themes/mobile-desktop|Mobile and Desktop]] (96) · [[Themes/account-access|Account and Access]] (84)
 
-**Ecosystem** · [[Themes/apps-integrations|Apps and Integrations]] (267)
+**Ecosystem** · [[Themes/apps-integrations|Apps and Integrations]] (271)
 
-**Business** · [[Themes/pricing-model|Pricing Model]] (64) · [[Themes/enterprise-admin|Enterprise and Administration]] (60)
+**Business** · [[Themes/pricing-model|Pricing Model]] (65) · [[Themes/enterprise-admin|Enterprise and Administration]] (60)
 
-**Trust** · [[Themes/safety-privacy|Safety and Privacy]] (191)
+**Trust** · [[Themes/safety-privacy|Safety and Privacy]] (192)
 
-**Quality** · [[Themes/reliability-performance|Reliability and Performance]] (154) · [[Themes/accessibility-localization|Accessibility and Localization]] (17)
+**Quality** · [[Themes/reliability-performance|Reliability and Performance]] (167) · [[Themes/accessibility-localization|Accessibility and Localization]] (17)
 <!-- chronolog:end -->
 
 ## About the data

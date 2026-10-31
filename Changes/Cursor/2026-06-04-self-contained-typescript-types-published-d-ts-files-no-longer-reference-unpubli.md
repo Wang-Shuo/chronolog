@@ -7,7 +7,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 18a9dad4d2f9e61cd757b3013b7f2f9ccb33205659c6a9d80d5aaadfc986b5f9
+machine_hash: 08a74ad984f02f3ca6eaa1a1e3fca18164859ec7ad73f556ef49b0fb4eaa20d8
 product: cursor
 product_name: Cursor
 record:
@@ -65,7 +65,7 @@ type: change
 - [[Changes/Cursor/2026-06-04-reliable-wait-on-local-runs-local-runs-no-longer-resolve-wait-before-the-termina|Reliable wait() on local runs]] · Automation and Scheduling
 - [[Changes/Cursor/2026-06-04-jsonl-and-custom-stores|JSONL and custom stores]] · Agent Mode
 - [[Changes/Cursor/2026-06-04-auto-review|Auto-review]] · Agent Mode
-- [[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run correlation: Every send() now carries a platform-generated requestId, exposed…]] · Memory and Personalization
+- [[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run correlation: Every send() now carries a platform-generated requestId, exposed…]] · Reliability and Performance
 - [[Changes/Cursor/2026-06-04-nested-subagents|Nested subagents]] · Agent Mode
 - [[Changes/Cursor/2026-06-04-we-ve-shipped-a-batch-of-new-functionality-across-the-typescript-and-python-sdks|We've shipped a batch of new functionality across the TypeScript and Python SDKs]] · Apps and Integrations
 - [[Changes/Cursor/2026-06-04-2-apps-and-integrations-changes-in-custom-stores-custom-tools|2 Apps and Integrations changes in Custom stores, custom tools…]] · Apps and Integrations

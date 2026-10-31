@@ -4,8 +4,8 @@ date: '2026-07-08'
 description: 'ChatGPT · 2026-07-08 · Voice and Audio: We’re rolling out a new ChatGPT
   Voice experience. ChatGPT Voice is now powered by GPT-Live-1 for paid users and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
-    are beginning to roll out new voice and image capabilities in ChatGPT]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
+    (Beta) is now rolling out to Plus users on iOS and Android]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1017
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5a84153e249bda1000f02d51664e1d4df4aadd343560ee3f1ebde75cc6a9955d
+machine_hash: e8ce9b5d11e65d76f5a9d3a6443f7960d446e6775108b4a6171cf7ea85e50631
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -71,11 +71,6 @@ record:
     score: 110
     theme: memory
   - matched_terms:
-    - android
-    - ios
-    score: 100
-    theme: mobile-desktop
-  - matched_terms:
     - screen sharing
     score: 60
     theme: multimodal
@@ -84,17 +79,9 @@ record:
     score: 60
     theme: search-browsing
   - matched_terms:
-    - apps
-    score: 50
-    theme: apps-integrations
-  - matched_terms:
     - sharing
     score: 50
     theme: collaboration
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
   - matched_terms:
     - models
     score: 50
@@ -102,11 +89,12 @@ record:
   title: Introducing GPT-Live-1 in ChatGPT Voice
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2026-06-18-help-with-pronunciations-chatgpt-can-now-include-text-and-audio-pronunciation-gu|Help
+  with pronunciations]]'
 - '[[Changes/ChatGPT/2026-06-26-we-re-rolling-out-a-new-speech-to-text-model-for-dictation-in-chatgpt-across-all|Improved
   dictation in ChatGPT]]'
 - '[[Changes/Claude Code/2026-06-26-improved-voice-mode-on-linux-now-distinguishes-no-microphone-from-sox-not-instal|Improved
   voice mode on Linux]]'
-- '[[Changes/Cursor/2026-06-29-cloud-agents-on-mobile-1bc371|Cloud agents on mobile]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-08-introducing-gpt-live-1-in-chatgpt-voice-9a0cfc91|chatgpt-2026-07-08-introducing-gpt-live-1-in-chatgpt-voice-9a0cfc91]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -133,14 +121,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-06-29 · Cursor · [[Changes/Cursor/2026-06-29-cloud-agents-on-mobile-1bc371|Cloud agents on mobile]]
+- Earlier: 2026-06-26 · Claude Code · [[Changes/Claude Code/2026-06-26-improved-voice-mode-on-linux-now-distinguishes-no-microphone-from-sox-not-instal|Improved voice mode on Linux]]
 - Later: 2026-07-13 · ChatGPT · [[Changes/ChatGPT/2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can-f60c71|ChatGPT returns to WhatsApp in the EEA]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

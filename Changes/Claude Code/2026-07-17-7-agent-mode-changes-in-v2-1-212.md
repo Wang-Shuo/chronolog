@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9c5a1fe9276e9cab11f77448cdcfde7da6ce9887f165ab025ceda1a590d3bd27
+machine_hash: e781fae04ebecf5f7a207eb7ecd9c8430e0ec5d1c59ab211eb8e47da40b1fdb9
 product: claude-code
 product_name: Claude Code
 record:
@@ -103,10 +103,11 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.212
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-07-17-mcp-tool-calls-running-longer-than-2-minutes-now-move-to-the-background-automati|MCP tool calls running longer than 2 minutes now move to the background…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-07-17-typing-resume-in-the-agent-view-now-opens-a-picker-of-past-sessions-including-se|Typing /resume in the agent view now opens a picker of past sessions]] · Interface Experience
 - [[Changes/Claude Code/2026-07-17-updated-the-auth-status-panel-title-from-cloud-authentication-to-authentication|Updated the auth status panel title from "Cloud authentication" to "Authentication"]] · Account and Access
+- [[Changes/Claude Code/2026-07-17-changed-enterprise-forceloginmethod-to-be-enforced-for-vs-code-extension-sdk-set|Changed Enterprise forceLoginMethod to be enforced for VS Code extension, SDK…]] · Developer Workflow
 - [[Changes/Claude Code/2026-07-17-3-search-and-browsing-changes-in-v2-1-212|3 Search and Browsing changes in v2.1.212]] · Search and Browsing
-- [[Changes/Claude Code/2026-07-17-2-apps-and-integrations-changes-in-v2-1-212|2 Apps and Integrations changes in v2.1.212]] · Apps and Integrations
 - [[Changes/Claude Code/2026-07-17-3-model-support-changes-in-v2-1-212|3 Model Support changes in v2.1.212]] · Model Support
 - [[Changes/Claude Code/2026-07-17-3-safety-and-privacy-changes-in-v2-1-212|3 Safety and Privacy changes in v2.1.212]] · Safety and Privacy
 - [[Changes/Claude Code/2026-07-17-corrected-an-earlier-release-note-2-1-200-tmux-through-the-3-6-series-lacks-sync|Corrected an earlier release note (2.1.200)]] · Other changes

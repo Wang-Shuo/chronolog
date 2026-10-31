@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 355ccb781c2e5df050e65068b919867ae842c50c70b33654a1f9d78261b0f61c
+machine_hash: cdbf7512c943bce4cb2f31f6b575facac777f548795d05dfd35a080086f603a5
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,6 +61,7 @@ related_changes:
   IDE detection speed at startup]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c|claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c]]'
 source_type: github_releases
+superseded: true
 theme: reliability-performance
 title: Faster --resume on fork-heavy and very large sessions
 type: change

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 3d39e42a6a4e21fd024c26ceb5d93fdd27b233ed2175d1848f879ec4eb3b6997
+machine_hash: 8c396cb82f4cdc75afa067c119de70259cca0a68408486598732a87db0165a81
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,8 +49,8 @@ record:
   title: The Rosalind Academic Plan helps eligible academic labs use ChatGPT for life…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o-e04989|A
-  new Pro plan with Astra Ultrafast]]'
+- '[[Changes/Claude Code/2026-09-29-claude-tag-added-direct-messages-with-claude-for-members-on-an-enterprise-plan-s|Claude
+  Tag Added direct messages with Claude for members on an Enterprise plan…]]'
 - '[[Changes/Claude Code/2026-10-02-improved-the-usage-credits-message-shown-to-team-and-enterprise-members-whose-or|Improved
   the /usage-credits message shown to Team and Enterprise members whose…]]'
 - '[[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price|Updated
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price|Updated /cost, the status line, --max-budget-usd and the SDK's cost figures…]]
-- Later: 2026-10-28 · ChatGPT · [[Changes/ChatGPT/2026-10-28-eligible-chatgpt-pro-and-business-subscribers-can-activate-promotional-api-credi|API credits for eligible ChatGPT Pro and Business plans]]
+- Later: 2026-10-21 · ChatGPT · [[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo payments in Vietnam]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

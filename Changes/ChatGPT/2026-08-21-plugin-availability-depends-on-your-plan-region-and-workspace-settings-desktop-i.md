@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 40d50b7a13c4e24087e4bd8611ad3200820e1052e9f96407cdaa4b30e0a717be
+machine_hash: 9084675eac0a6cd0d7259868778ceaf71ab7d5c1ec0e2a897f62b06083506a88
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,16 +40,6 @@ record:
   source_release: chatgpt-2026-08-21-improved-plugin-discovery-on-web-and-mobile-4a2c9c9b
   source_type: chatgpt_changelog
   theme: apps-integrations
-  theme_matches:
-  - matched_terms:
-    - plugin
-    score: 50
-    theme: apps-integrations
-  - matched_terms:
-    - desktop
-    score: 50
-    theme: mobile-desktop
-  theme_resolution: manual-semantic-rule-v1
   title: Plugin availability depends on your plan, region, and workspace settings
   type: change
 related_changes:
@@ -82,7 +72,7 @@ type: change
 ## Also in this release
 
 - [[Changes/ChatGPT/2026-08-21-updated-plugin-recommendations-make-it-easier-to-find-tools-people-continue-to-u|Updated plugin recommendations make it easier to find tools people continue to use]] · Apps and Integrations
-- [[Changes/ChatGPT/2026-08-21-find-more-useful-plugins-rankings-now-prioritize-plugins-people-keep-using-after|Find more useful plugins]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-08-21-find-more-useful-plugins-rankings-now-prioritize-plugins-people-keep-using-after|Find more useful plugins]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

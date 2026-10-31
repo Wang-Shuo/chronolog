@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 45c1e073c36098de3bcf3e8b1cf23cd0da55d63d03cb8bc48ada0b871a8cc39d
+machine_hash: 4a58e699d954b2331bf417576db9b36ea97e3f3e3755a68ac818ddb945d4f46e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,10 +44,10 @@ record:
   title: Work together
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-added-a-one-time-note-when-plan-mode-won-t-ask-before-most-edits-or-commands-bec|Added
-  a one-time note when plan mode won''t ask before most edits or commands because…]]'
-- '[[Changes/Claude Code/2026-10-14-2-editor-experience-changes-in-v2-1-300|2 Editor
+- '[[Changes/Claude Code/2026-10-14-3-editor-experience-changes-in-v2-1-300|3 Editor
   Experience changes in v2.1.300]]'
+- '[[Changes/Claude Code/2026-10-14-2-editor-experience-changes-in-v2-1-299|2 Editor
+  Experience changes in v2.1.299]]'
 - '[[Changes/ChatGPT/2026-10-16-create-and-refine-edit-text-images-shapes-and-charts-directly-or-ask-chatgpt-to|Create
   and refine]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-16-create-and-collaborate-on-slides-in-chatgpt-0e009a16|chatgpt-2026-10-16-create-and-collaborate-on-slides-in-chatgpt-0e009a16]]'
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-2-editor-experience-changes-in-v2-1-300|2 Editor Experience changes in v2.1.300]]
+- Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-2-editor-experience-changes-in-v2-1-299|2 Editor Experience changes in v2.1.299]]
 - Later: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-2-editor-experience-changes-in-v2-1-309|2 Editor Experience changes in v2.1.309]]
 <!-- chronolog:end -->
 

@@ -2,7 +2,7 @@
 created: '2026-07-09'
 date: '2026-07-09'
 description: Cross-product timeline of Artifact Creation changes in ChatGPT.
-machine_hash: 0d65fa8e79d05fae45783adb3abcf2bac1b3f33a7d7384484b26d517158cc4db
+machine_hash: 78bfe92e2ed41c0150774ce77d54edc5c8dd34ffb4706105e42ad18f06da3bd0
 modified: '2026-07-09'
 products_involved:
 - ChatGPT
@@ -28,7 +28,7 @@ Explore the dated evidence below.
 
 ## Key moments
 <!-- chronolog:begin region="moments" -->
-No key moments selected yet. Auto-selected; edit `key_moments` in editorial.yaml to curate.
+No key moments selected yet. Selected automatically from launches and standalone announcements.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="scope" -->
@@ -38,9 +38,8 @@ No key moments selected yet. Auto-selected; edit `key_moments` in editorial.yaml
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 1 entry (ChatGPT 1)
-
-#### 2026-07
-
-- 2026-07-09 · **ChatGPT** · [[Changes/ChatGPT/2026-07-09-chatgpt-sites-lets-you-turn-your-work-or-ideas-into-an-interactive-website-or-li|ChatGPT Sites lets you turn your work or ideas into an interactive website…]]
+> [!info]+ 2026 · 1 entry (ChatGPT 1)
+> **2026-07**
+>
+> - 2026-07-09 · **ChatGPT** · [[Changes/ChatGPT/2026-07-09-chatgpt-sites-lets-you-turn-your-work-or-ideas-into-an-interactive-website-or-li|ChatGPT Sites lets you turn your work or ideas into an interactive website…]]
 <!-- chronolog:end -->

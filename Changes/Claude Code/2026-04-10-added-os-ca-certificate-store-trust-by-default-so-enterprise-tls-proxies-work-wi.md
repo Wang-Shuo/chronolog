@@ -5,10 +5,10 @@ description: 'Claude Code · 2026-04-10 · Enterprise and Administration: Added 
   certificate store trust by default, so enterprise TLS proxies work without extra
   setup…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
-    users can only access stable release (no pre-release)]]'
+  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
+    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 310
+  lag_days: 751
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fa964b399192986d759caa0da119a54544a5149ed1c5888d76566de932efbfd6
+machine_hash: ec14e7f9597df65db88fd212827e3bf0a5d56cd8637c3e8ca7af53e10b853cae
 product: claude-code
 product_name: Claude Code
 record:
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
+- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f9f8b47c599db14f77f429c4b3c99cbe8daa38bd05ff0b2671cbc1c848260f6a
+machine_hash: c097bcb262faaf1c11276999dcc31d628d39031c5cf14505e2e2623e46c69cfc
 product: claude-code
 product_name: Claude Code
 record:
@@ -77,8 +77,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.98
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-04-09-fixed-false-bash-permission-prompts-for-cut-d-paste-d-column-s-awk-print-1-file|Fixed false Bash permission prompts for cut -d /, paste -d /, column -s /…]] · Pricing Model
-- [[Changes/Claude Code/2026-04-09-6-safety-and-privacy-changes-in-v2-1-98|6 Safety and Privacy changes in v2.1.98]] · Safety and Privacy
+- [[Changes/Claude Code/2026-04-09-7-safety-and-privacy-changes-in-v2-1-98|7 Safety and Privacy changes in v2.1.98]] · Safety and Privacy
 - [[Changes/Claude Code/2026-04-09-fixed-a-memory-leak-where-remote-control-permission-handler-entries-were-retaine|Fixed a memory leak where Remote Control permission handler entries were retained…]] · Reliability and Performance
 - [[Changes/Claude Code/2026-04-09-6-developer-workflow-changes-in-v2-1-98|6 Developer Workflow changes in v2.1.98]] · Developer Workflow
 - [[Changes/Claude Code/2026-04-09-added-interactive-google-vertex-ai-setup-wizard-accessible-from-the-login-screen|Added interactive Google Vertex AI setup wizard accessible from the login screen…]] · Account and Access

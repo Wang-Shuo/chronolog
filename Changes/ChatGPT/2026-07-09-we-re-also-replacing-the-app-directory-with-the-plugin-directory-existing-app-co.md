@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e8c542f0cf695ff66a9ad71256763c689a9b8530d5a9a063a8a8950fc86615b5
+machine_hash: e41dcfd76b619c5bb022a4cff1a8da83406d363b1b4ba20928ea814491d8f2b7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,18 +43,6 @@ record:
   source_release: chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272
   source_type: chatgpt_changelog
   theme: apps-integrations
-  theme_matches:
-  - matched_terms:
-    - app directory
-    - apps
-    - plugin
-    - plugins
-    score: 210
-    theme: apps-integrations
-  - matched_terms:
-    - desktop
-    score: 50
-    theme: mobile-desktop
   title: We’re also replacing the App Directory with the Plugin Directory
   type: change
 related_changes:

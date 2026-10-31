@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2beaa20e4d450e1c0e0185b241b1aa11801a8d2c772a4367cd2e9cbb76f7896f
+machine_hash: 2b323e27cd62d06da2bdcdf0181cd06eca8e789a10e48555e8a10a0af4badf24
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,8 +50,8 @@ record:
   title: Added `claude_code.assistant_response` OpenTelemetry log event containing…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-15-bug-now-requires-a-description-before-submitting-and-no-longer-uses-model-refusa|/bug
-  now requires a description before submitting, and no longer uses…]]'
+- '[[Changes/ChatGPT/2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press|Long-press
+  send to choose a model]]'
 - '[[Changes/Claude Code/2026-06-19-added-a-warning-when-the-requested-model-is-deprecated-or-automatically-updated|Added
   a warning when the requested model is deprecated or automatically updated…]]'
 - '[[Changes/ChatGPT/2026-06-24-we-re-updating-gpt-5-5-instant-our-most-used-model-in-chatgpt-to-improve-convers|GPT-5.5

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 068713a1d79fad9ba0354a0dca12de8ff4b23827203e1615e61d1bb83a6a7895
+machine_hash: 7a9d7d1654adf0405afa42658a2ba593392b4ec1ec67e116e3255010f76b185f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,30 +46,15 @@ record:
   source_release: chatgpt-2026-10-30-account-switching-on-ios-and-android-911d7929
   source_type: chatgpt_changelog
   theme: memory
-  theme_matches:
-  - matched_terms:
-    - memory
-    score: 110
-    theme: memory
-  - matched_terms:
-    - android
-    - ios
-    score: 100
-    theme: mobile-desktop
-  - matched_terms:
-    - apps
-    score: 50
-    theme: apps-integrations
-  theme_resolution: manual-semantic-rule-v1
   title: Account switching on iOS and Android
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-improved-memory-and-disk-use-when-pdfs-are-mentioned-their-bytes-are-no-longer-k|Improved
-  memory and disk use when PDFs are @-mentioned]]'
-- '[[Changes/Claude Code/2026-10-19-improved-memory-use-when-sending-requests-in-long-or-resumed-conversations|Improved
-  memory use when sending requests in long or resumed conversations]]'
-- '[[Changes/Claude Code/2026-10-23-improved-memory-use-of-non-interactive-sessions-p-agent-sdk-during-compaction-wh|Improved
-  memory use of non-interactive sessions (-p, Agent SDK) during compaction…]]'
+- '[[Changes/Claude Code/2026-09-29-changed-memory-so-that-auto-memory-can-no-longer-be-turned-on-from-a-background|Changed
+  /memory so that Auto-memory can no longer be turned on from a background…]]'
+- '[[Changes/ChatGPT/2026-10-01-virtually-try-on-clothing-and-accessories-a-try-on-button-will-appear-on-product|Virtually
+  try on clothing and accessories]]'
+- '[[Changes/Claude Code/2026-10-01-improved-memory-the-left-and-right-arrow-keys-now-flip-its-on-off-settings-such|Improved
+  /memory: the left and right arrow keys now flip its on/off settings, such…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-30-account-switching-on-ios-and-android-911d7929|chatgpt-2026-10-30-account-switching-on-ios-and-android-911d7929]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -96,8 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-improved-memory-use-of-non-interactive-sessions-p-agent-sdk-during-compaction-wh|Improved memory use of non-interactive sessions (-p, Agent SDK) during compaction…]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-2-memory-and-personalization-changes-in-v2-1-314|2 Memory and Personalization changes in v2.1.314]]
+- Earlier: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-improved-memory-the-left-and-right-arrow-keys-now-flip-its-on-off-settings-such|Improved /memory: the left and right arrow keys now flip its on/off settings, such…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

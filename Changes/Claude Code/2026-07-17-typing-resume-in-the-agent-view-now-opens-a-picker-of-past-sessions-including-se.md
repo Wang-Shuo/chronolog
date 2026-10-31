@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 80587c2a11d4aaaaf8ef386e2e057bf29f13ac38e3234004c37799ea70ac5888
+machine_hash: c180838a9d0b42cb7b18001090203ba644469ed3b3a2fba6713b3d6a26ca3636
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,9 +87,10 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-07-17-7-agent-mode-changes-in-v2-1-212|7 Agent Mode changes in v2.1.212]] · Agent Mode
+- [[Changes/Claude Code/2026-07-17-mcp-tool-calls-running-longer-than-2-minutes-now-move-to-the-background-automati|MCP tool calls running longer than 2 minutes now move to the background…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-07-17-updated-the-auth-status-panel-title-from-cloud-authentication-to-authentication|Updated the auth status panel title from "Cloud authentication" to "Authentication"]] · Account and Access
+- [[Changes/Claude Code/2026-07-17-changed-enterprise-forceloginmethod-to-be-enforced-for-vs-code-extension-sdk-set|Changed Enterprise forceLoginMethod to be enforced for VS Code extension, SDK…]] · Developer Workflow
 - [[Changes/Claude Code/2026-07-17-3-search-and-browsing-changes-in-v2-1-212|3 Search and Browsing changes in v2.1.212]] · Search and Browsing
-- [[Changes/Claude Code/2026-07-17-2-apps-and-integrations-changes-in-v2-1-212|2 Apps and Integrations changes in v2.1.212]] · Apps and Integrations
 - [[Changes/Claude Code/2026-07-17-3-model-support-changes-in-v2-1-212|3 Model Support changes in v2.1.212]] · Model Support
 - [[Changes/Claude Code/2026-07-17-3-safety-and-privacy-changes-in-v2-1-212|3 Safety and Privacy changes in v2.1.212]] · Safety and Privacy
 - [[Changes/Claude Code/2026-07-17-corrected-an-earlier-release-note-2-1-200-tmux-through-the-3-6-series-lacks-sync|Corrected an earlier release note (2.1.200)]] · Other changes

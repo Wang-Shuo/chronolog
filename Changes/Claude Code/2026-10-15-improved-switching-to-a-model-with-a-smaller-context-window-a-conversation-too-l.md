@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3a6b97e6a75c6427d11482246dd2370b321c490fcabfa2675daa1ce4d8d05a6b
+machine_hash: 2edde4f8bcda694e32608bab3599f249012da97def905dd1d1ebbeba53a2244f
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,10 +84,10 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-10-15-2-developer-workflow-changes-in-v2-1-301|2 Developer Workflow changes in v2.1.301]] · Developer Workflow
 - [[Changes/Claude Code/2026-10-15-5-safety-and-privacy-changes-in-v2-1-301|5 Safety and Privacy changes in v2.1.301]] · Safety and Privacy
 - [[Changes/Claude Code/2026-10-15-2-interface-experience-changes-in-v2-1-301|2 Interface Experience changes in v2.1.301]] · Interface Experience
-- [[Changes/Claude Code/2026-10-15-2-mobile-and-desktop-changes-in-v2-1-301|2 Mobile and Desktop changes in v2.1.301]] · Mobile and Desktop
-- [[Changes/Claude Code/2026-10-15-added-rows-to-a-mod-s-input-a-text-field-of-several-lines-in-the-terminal-where|Added rows to a mod's Input]] · Developer Workflow
+- [[Changes/Claude Code/2026-10-15-improved-artifacts-pages-claude-writes-now-paint-the-band-above-a-sticky-header|Improved artifacts: pages Claude writes now paint the band above a sticky header…]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-10-15-7-other-changes-in-v2-1-301|7 other changes in v2.1.301]] · Other changes
 <!-- chronolog:end -->
 

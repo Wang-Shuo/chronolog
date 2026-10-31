@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bf88c9094739d707e232add4f282db94f38da9ed3bf69cf2a4ebaf1b760ffa48
+machine_hash: 1764fdb45bf868dd132db032da1c0cfed9ab9a3c9d3faed7d669e21da5e801f2
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
 related_changes:
 - '[[Changes/Claude Code/2026-06-22-improved-memory-the-agent-is-now-reminded-to-compact-its-memory-md-index-when-ne|Improved
   memory: the agent is now reminded to compact its MEMORY.md index…]]'
-- '[[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced
-  long-session memory growth from terminal output cache]]'
 - '[[Changes/Claude Code/2026-07-14-memory-writes-that-leave-a-memory-md-index-over-its-read-limit-now-produce-an-ex|Memory
   writes that leave a MEMORY.md index over its read limit now produce…]]'
+- '[[Changes/ChatGPT/2026-07-15-we-re-increasing-the-character-limit-for-custom-instructions-in-chatgpt-plus-pro|Increased
+  custom instructions limit]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57|claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57]]'
 source_type: github_releases
 theme: memory
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-memory-writes-that-leave-a-memory-md-index-over-its-read-limit-now-produce-an-ex|Memory writes that leave a MEMORY.md index over its read limit now produce…]]
+- Earlier: 2026-07-15 · ChatGPT · [[Changes/ChatGPT/2026-07-15-we-re-increasing-the-character-limit-for-custom-instructions-in-chatgpt-plus-pro|Increased custom instructions limit]]
 - Later: 2026-07-18 · Claude Code · [[Changes/Claude Code/2026-07-18-added-an-iso-modified-timestamp-to-memory-file-frontmatter|Added an ISO modified timestamp to memory file frontmatter]]
 <!-- chronolog:end -->
 

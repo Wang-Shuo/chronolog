@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f47720f34a640a8f264fc2b7e6b7b616327f23a4e5cf62cf95c234254c5f9bca
+machine_hash: 853b2ef5c58628fccf62883065a308edfea3678e3675b626adb7e9cb075460f4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,10 +45,6 @@ record:
     - memory
     score: 110
     theme: memory
-  - matched_terms:
-    - desktop
-    score: 50
-    theme: mobile-desktop
   - matched_terms:
     - dictation
     score: 50

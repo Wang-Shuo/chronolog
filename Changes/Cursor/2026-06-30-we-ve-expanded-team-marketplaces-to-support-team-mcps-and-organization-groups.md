@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fb1497fd4b00cdf44bc958e31bf945cc63333d11950e3cdf8e5bab0bc6ec6242
+machine_hash: a29d25a86391737cb492e9d336da0cf1084e754be1ad7f1550943450b3921516
 product: cursor
 product_name: Cursor
 record:
@@ -43,7 +43,7 @@ record:
   title: Cursor expands team marketplaces to support Team MCPs and organization groups
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-22-marketplace-leaderboard-654084|Marketplace leaderboard]]'
+- '[[Changes/Cursor/2026-06-22-new-team-marketplaces|New Team Marketplaces]]'
 - '[[Changes/Cursor/2026-06-30-team-mcps-in-team-marketplaces-27f9ef|Team MCPs in
   team marketplaces]]'
 - '[[Changes/Cursor/2026-06-30-marketplace-access-by-organization-group-a2cf9b|Marketplace
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-06-22 · Cursor · [[Changes/Cursor/2026-06-22-marketplace-leaderboard-654084|Marketplace leaderboard]]
+- Earlier: 2026-06-22 · Cursor · [[Changes/Cursor/2026-06-22-new-team-marketplaces|New Team Marketplaces]]
 - Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w|Existing group chats will remain available and can continue to be used for now]]
 <!-- chronolog:end -->
 

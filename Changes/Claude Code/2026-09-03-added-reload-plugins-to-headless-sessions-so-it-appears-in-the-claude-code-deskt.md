@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 78184e308997e89127327305f0410c787942383274adcb7eec78b60f6eef1295
+machine_hash: d8ec305231ce76d72a8b6d99a4d8ef9aaf064a69b69bef4a94d60ace010577dc
 product: claude-code
 product_name: Claude Code
 record:
@@ -39,16 +39,6 @@ record:
   source_release: claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc
   source_type: github_releases
   theme: apps-integrations
-  theme_matches:
-  - matched_terms:
-    - plugins
-    score: 50
-    theme: apps-integrations
-  - matched_terms:
-    - desktop
-    score: 50
-    theme: mobile-desktop
-  theme_resolution: manual-semantic-rule-v1
   title: Added `/reload-plugins` to headless sessions, so it appears in the Claude
     Code…
   type: change
@@ -82,15 +72,15 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-09-03-2-model-support-changes-in-v2-1-260|2 Model Support changes in v2.1.260]] · Model Support
-- [[Changes/Claude Code/2026-09-03-2-context-window-changes-in-v2-1-260|2 Context Window changes in v2.1.260]] · Context Window
 - [[Changes/Claude Code/2026-09-03-improved-the-settings-error-for-rules-such-as-edit-c-dir-name-where-is-read-as-a|Improved the settings error for rules such as Edit(C:\dir\(name)\), where…]] · Editor Experience
 - [[Changes/Claude Code/2026-09-03-improved-deleting-a-background-session-whose-worktree-has-unpushed-commits-the-m|Improved deleting a background session whose worktree has unpushed commits]] · Developer Workflow
 - [[Changes/Claude Code/2026-09-03-4-interface-experience-changes-in-v2-1-260|4 Interface Experience changes in v2.1.260]] · Interface Experience
 - [[Changes/Claude Code/2026-09-03-3-mobile-and-desktop-changes-in-v2-1-260|3 Mobile and Desktop changes in v2.1.260]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-09-03-2-agent-mode-changes-in-v2-1-260|2 Agent Mode changes in v2.1.260]] · Agent Mode
+- [[Changes/Claude Code/2026-09-03-3-context-window-changes-in-v2-1-260|3 Context Window changes in v2.1.260]] · Context Window
 - [[Changes/Claude Code/2026-09-03-4-apps-and-integrations-changes-in-v2-1-260|4 Apps and Integrations changes in v2.1.260]] · Apps and Integrations
 - [[Changes/Claude Code/2026-09-03-7-safety-and-privacy-changes-in-v2-1-260|7 Safety and Privacy changes in v2.1.260]] · Safety and Privacy
-- [[Changes/Claude Code/2026-09-03-4-other-changes-in-v2-1-260|4 other changes in v2.1.260]] · Other changes
+- [[Changes/Claude Code/2026-09-03-3-other-changes-in-v2-1-260|3 other changes in v2.1.260]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

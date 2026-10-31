@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 35446446ac5a0f2a61513eaa81063d6d6de221757fb49e4bb6f352a09fe31e01
+machine_hash: 1d05a07228c0443aad80e0df6efc3b5a18048bd1d464fafe8391ea1ae74af563
 product: cursor
 product_name: Cursor
 record:
@@ -97,7 +97,7 @@ type: change
 - [[Changes/Cursor/2026-04-02-added-an-enterprise-admin-control-for-disabling-made-with-cursor-code-attributio|Added an Enterprise Admin control for disabling "Made with Cursor" code attribution…]] · Enterprise and Administration
 - [[Changes/Cursor/2026-04-02-agent-tabs-in-the-editor|Agent Tabs in the Editor]] · Editor Experience
 - [[Changes/Cursor/2026-04-02-past-chat-transcripts-are-now-surfaced-directly-in-at-mention-search-results|Past chat transcripts are now surfaced directly in at-mention search results]] · Search and Browsing
-- [[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file diff rendering is now much faster, smoother, and less memory-heavy]] · Memory and Personalization
+- [[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file diff rendering is now much faster, smoother, and less memory-heavy]] · Reliability and Performance
 - [[Changes/Cursor/2026-04-02-2-apps-and-integrations-changes-in-3-0|2 Apps and Integrations changes in 3.0]] · Apps and Integrations
 - [[Changes/Cursor/2026-04-02-2-other-changes-in-3-0|2 other changes in 3.0]] · Other changes
 <!-- chronolog:end -->

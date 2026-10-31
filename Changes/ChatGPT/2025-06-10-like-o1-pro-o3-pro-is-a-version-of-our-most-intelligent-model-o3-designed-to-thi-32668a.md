@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b235191687bcd8cf6024775d2381264a27e92f937bda9883153d05a285032c1f
+machine_hash: 51a314b7bb6e7fe5b3c4a6ea8df33f70d945036fdeb4dc8a031a1d0e929dc212
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -135,7 +135,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-max-mode-is-now-available-for-gemini-2-5-flash|Max mode is now available for Gemini 2.5 Flash]]
-- Later: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-creators-can-now-choose-from-the-full-set-of-chatgpt-models-gpt-4o-o3-o4-mini-an-ad1adf|Creators can now choose from the full set of ChatGPT models…]]
+- Later: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload files and access model selector on mobile]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e2f35931522bab9b922122abaa710b34b5f74ba44b057c6eda7942e58dcd9b9b
+machine_hash: dfd6c0c08fa97ca6ee9642fe2e1cafc22cc9f141510abf4152e1a3cdf4e07fa7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,11 +51,6 @@ record:
   theme: mobile-desktop
   theme_matches:
   - matched_terms:
-    - android
-    - ios
-    score: 100
-    theme: mobile-desktop
-  - matched_terms:
     - generated images
     score: 60
     theme: image-generation
@@ -63,15 +58,16 @@ record:
     - tab
     score: 50
     theme: editor-experience
+  theme_resolution: manual-semantic-rule-v1
   title: Generated images will continue to appear in the Images tab
   type: change
 related_changes:
+- '[[Changes/Claude Code/2026-04-17-extra-usage-now-works-from-remote-control-mobile-web-clients|/extra-usage
+  now works from Remote Control (mobile/web) clients]]'
 - '[[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The
   agents that run in the Cursor desktop app, CLI, and web app are now accessible…]]'
 - '[[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|More
   images in answers for Free users]]'
-- '[[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|Codex
-  remote access from the ChatGPT mobile app]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-14-file-library-expands-to-free-and-go-users-with-storage-managemen-94a98ddb|chatgpt-2026-05-14-file-library-expands-to-free-and-go-users-with-storage-managemen-94a98ddb]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -100,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-05-14 · ChatGPT · [[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|Codex remote access from the ChatGPT mobile app]]
+- Earlier: 2026-05-12 · ChatGPT · [[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|More images in answers for Free users]]
 - Later: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-the-powershell-tool-is-now-enabled-by-default-on-windows-for-bedrock-vertex-and|The PowerShell tool is now enabled by default on Windows for Bedrock, Vertex…]]
 <!-- chronolog:end -->
 

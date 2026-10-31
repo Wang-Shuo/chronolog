@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e08d20bb8557499005b9e2b3df09a91715f0c35a904593672cf289cdc38a555a
+machine_hash: 826fadfd03effb56536d9821db97466185e0402eb72f9f45e47af6b3f1d95e52
 product: cursor
 product_name: Cursor
 record:
@@ -48,6 +48,7 @@ related_changes:
 - '[[Changes/Cursor/2025-10-29-improved-performance|Improved Performance]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
+superseded: true
 theme: reliability-performance
 title: Optimized findFiles performance to batch concurrent calls at bounded concurrency
 type: change

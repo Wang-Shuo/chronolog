@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a659d43d7779f142becb5b5a8513be37c678b03b73bc5a5d5b3a5a1c68db7fde
+machine_hash: 62babdefed1abd00966355cb2f7a9732c753a1f2dd6b705c30816f22c47400a8
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Account and Access changes in v2.1.307
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-improved-the-error-shown-when-a-cloud-session-is-refused-because-your-claude-ai|Improved
-  the error shown when a cloud session is refused because your claude.ai…]]'
 - '[[Changes/Claude Code/2026-10-16-added-a-notice-to-design-sync-and-design-login-that-standalone-claude-design-cla|Added
   a notice to /design-sync and /design-login that standalone Claude Design…]]'
+- '[[Changes/ChatGPT/2026-10-20-locked-chats-let-you-keep-selected-conversations-in-your-account-while-hiding-th|Introducing
+  locked chats]]'
 - '[[Changes/Claude Code/2026-10-20-vscode-changed-the-message-shown-when-a-session-does-not-start-in-time-and-no-ho|VSCode
   Changed the message shown when a session does not start in time and no hook…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d|claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d]]'

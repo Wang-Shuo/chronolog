@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ffddcd9946a429ad0830150e34c509438b0d5963c48590bde4477b33cb082050
+machine_hash: 7b2bfb624982127caf4c89194a80c9d127b6445795769cc102cab4d8ff0023d3
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,11 +42,11 @@ record:
   title: Added `/terminal-setup` support for Kitty, Alacritty, Zed, and Warp terminals
   type: change
 related_changes:
+- '[[Changes/Cursor/2025-10-29-3-developer-workflow-changes-in-2-0|3 Developer Workflow
+  changes in 2.0]]'
 - '[[Changes/Cursor/2025-12-10-ask-mode-can-use-a-read-only-terminal-to-get-better-answers-like-checking-git-co|Ask
   Mode can use a read-only terminal to get better answers, like checking git commits]]'
 - '[[Changes/Cursor/2025-12-10-debug-mode|Debug Mode]]'
-- '[[Changes/Claude Code/2025-12-19-added-lsp-language-server-protocol-tool-for-code-intelligence-features-like-go-t|Added
-  LSP (Language Server Protocol) tool for code intelligence features like…]]'
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10|claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10]]'
 source_type: github_releases
 theme: developer-workflow
@@ -69,9 +69,8 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2025-12-19-added-lsp-language-server-protocol-tool-for-code-intelligence-features-like-go-t|Added LSP (Language Server Protocol) tool for code intelligence features like…]] · Developer Workflow
 - [[Changes/Claude Code/2025-12-19-2-interface-experience-changes-in-v2-0-74|2 Interface Experience changes in v2.0.74]] · Interface Experience
-- [[Changes/Claude Code/2025-12-19-added-guidance-for-macos-users-when-alt-shortcuts-fail-due-to-terminal-configura|Added guidance for macOS users when Alt shortcuts fail due to terminal configuration]] · Mobile and Desktop
+- [[Changes/Claude Code/2025-12-19-2-developer-workflow-changes-in-v2-0-74|2 Developer Workflow changes in v2.0.74]] · Developer Workflow
 - [[Changes/Claude Code/2025-12-19-improved-context-command-visualization-with-grouped-skills-and-agents-by-source|Improved /context command visualization with grouped skills and agents by source…]] · Context Window
 - [[Changes/Claude Code/2025-12-19-vscode-added-gift-tag-pictogram-for-year-end-promotion-message|VSCode Added gift tag pictogram for year-end promotion message]] · Other changes
 <!-- chronolog:end -->

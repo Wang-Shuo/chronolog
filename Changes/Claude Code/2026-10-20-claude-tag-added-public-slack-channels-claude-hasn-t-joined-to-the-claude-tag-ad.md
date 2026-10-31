@@ -4,10 +4,10 @@ date: '2026-10-20'
 description: 'Claude Code · 2026-10-20 · Enterprise and Administration: [Claude Tag]
   Added public Slack channels Claude hasn''t joined to the Claude Tag admin Add place…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
-    users can only access stable release (no pre-release)]]'
+  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
+    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 503
+  lag_days: 944
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cc22cb3225ea6152953eba7159a198dccfa97d50e1e871d42dd8133b59a3add9
+machine_hash: ee4f63470c2c794de54bf0265bc9917050c7b047c73231bc9fb584ecc0da4c5d
 product: claude-code
 product_name: Claude Code
 record:
@@ -72,10 +72,9 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-10-20-changed-plugins-that-claude-desktop-mounts-by-path-to-no-longer-keep-their-allow|Changed plugins that Claude Desktop mounts by path to no longer keep…]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-10-20-2-developer-workflow-changes-in-v2-1-305|2 Developer Workflow changes in v2.1.305]] · Developer Workflow
-- [[Changes/Claude Code/2026-10-20-3-apps-and-integrations-changes-in-v2-1-305|3 Apps and Integrations changes in v2.1.305]] · Apps and Integrations
 - [[Changes/Claude Code/2026-10-20-vscode-changed-the-message-shown-when-a-session-does-not-start-in-time-and-no-ho|VSCode Changed the message shown when a session does not start in time and no hook…]] · Account and Access
+- [[Changes/Claude Code/2026-10-20-4-apps-and-integrations-changes-in-v2-1-305|4 Apps and Integrations changes in v2.1.305]] · Apps and Integrations
 - [[Changes/Claude Code/2026-10-20-3-safety-and-privacy-changes-in-v2-1-305|3 Safety and Privacy changes in v2.1.305]] · Safety and Privacy
 - [[Changes/Claude Code/2026-10-20-improved-a-mod-s-image-to-draw-its-picture-in-iterm2-3-5-and-later-with-fullscre|Improved a mod's Image to draw its picture in iTerm2 3.5 and later with fullscreen…]] · Interface Experience
 - [[Changes/Claude Code/2026-10-20-vscode-added-a-running-start-up-hooks-spinner-status-with-a-screen-reader-announ|VSCode Added a "Running start-up hooks" spinner status, with a screen reader…]] · Accessibility and Localization
@@ -92,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
+- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

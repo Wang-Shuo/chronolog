@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6c98b6040de581f24298b19b6f260e65f2b0565c16bded8990a6412bbc0e29a1
+machine_hash: 5e3d04c12a19a73186db9f1d8c71403f7de1848c94e8ae4702f7ee8833369441
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,10 +45,10 @@ record:
     your team…
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2026-09-29-your-chatgpt-profile-now-brings-together-your-bio-activity-and-sites-you-choose-09d5dd|Share
+  your profile and showcase your Sites]]'
 - '[[Changes/ChatGPT/2026-09-29-space-brings-your-pages-files-and-related-work-together-in-chatgpt-create-a-spac|Organize
   your work in ChatGPT Space]]'
-- '[[Changes/Cursor/2026-10-13-starting-today-the-marketplace-is-also-open-to-public-submissions-so-any-team-bu|Starting
-  today, the marketplace is also open to public submissions, so any team…]]'
 - '[[Changes/Claude Code/2026-10-14-changed-local-session-transcripts-to-also-record-each-api-request-s-system-promp|Changed
   local session transcripts to also record each API request''s system prompt…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-16-create-and-collaborate-on-slides-in-chatgpt-0e009a16|chatgpt-2026-10-16-create-and-collaborate-on-slides-in-chatgpt-0e009a16]]'

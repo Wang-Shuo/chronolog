@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 39ae96ecec4127bd7c5b17cb132678c29000affb6b0043de212cdec6b1e0a4b0
+machine_hash: 2b9ef9bcc985daa86ab76c75cfed3a9dedb48f549426c753ae4d4eb48a6bef65
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,10 +57,10 @@ record:
   title: The thinking-time toggle is live today on chatgpt.com
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-6e22f0|Study
-  mode is currently available to users in Free, Plus, Pro, and Teams plans…]]'
-- '[[Changes/ChatGPT/2025-08-07-you-can-now-set-an-accent-color-that-applies-to-elements-in-chatgpt-including-yo-865968|Accent
-  Colors]]'
+- '[[Changes/ChatGPT/2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved
+  table-copying functionality out of ChatGPT responses on iOS and macOS]]'
+- '[[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|Record
+  mode is now available to ChatGPT Plus users globally in the macOS desktop app]]'
 - '[[Changes/ChatGPT/2025-08-22-this-feature-will-initially-only-be-available-on-the-chatgpt-website-and-windows|This
   feature will initially only be available on the ChatGPT website and Windows app]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c|chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c]]'
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-08-22 · ChatGPT · [[Changes/ChatGPT/2025-08-22-this-feature-will-initially-only-be-available-on-the-chatgpt-website-and-windows|This feature will initially only be available on the ChatGPT website and Windows app]]
-- Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-on-windows-agent-now-correctly-uses-powershell-on-macos-and-linux-powershell-wil|On Windows, Agent now correctly uses PowerShell]]
+- Later: 2025-10-23 · ChatGPT · [[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-3f946e|Starting today, project sharing is available to all ChatGPT users, including…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

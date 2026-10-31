@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7bcd73bcc9f9e96ce586ca15e8d57dc0c0cc0aff4ba97b1eeec9f8fdd9ea56fc
+machine_hash: 20e09b1dad9d65b557b6fa72b55e3dd4c68f8b97e9da2ff01d5dbe13a5b2ec02
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,12 @@ record:
   title: We release an improved New AI Project feature to nightly users
   type: change
 related_changes:
+- '[[Changes/Cursor/2023-08-20-ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie|More
+  robust SSH support]]'
 - '[[Changes/Cursor/2023-08-22-ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie|SSH
   support is now more robust!]]'
 - '[[Changes/Cursor/2023-09-05-updates-to-docs-try-pasting-a-link-in-chat-you-can-delete-edit-docs-you-can-see|Docs
   updates]]'
-- '[[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg|We
-  no longer store any full files in memory and prevent users from @''ing very large…]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-07-0-9-8-nightly-https-cursor-com-changelog-0-9-8-nightly-bc635135|cursor-2023-09-07-0-9-8-nightly-https-cursor-com-changelog-0-9-8-nightly-bc635135]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2023-09-07 · Cursor · [[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg|We no longer store any full files in memory and prevent users from @'ing very large…]]
-- Later: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-following-this-update-future-updates-should-come-as-staged-rollouts-this-will-me|Staged Rollouts]]
+- Earlier: 2023-09-05 · Cursor · [[Changes/Cursor/2023-09-05-updates-to-docs-try-pasting-a-link-in-chat-you-can-delete-edit-docs-you-can-see|Docs updates]]
+- Later: 2023-09-07 · Cursor · [[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg-8d6c31|Better State Management]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

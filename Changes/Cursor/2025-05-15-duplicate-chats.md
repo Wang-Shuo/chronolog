@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 6ed779993bbf2b3f0f4405a900480def73acd4e39a36baa84addb1c77042a510
+machine_hash: fcb0dda0cc88f4004dc15060b9d20c88f43333b913e1f3602d1167b93df71772
 product: cursor
 product_name: Cursor
 record:
@@ -47,11 +47,12 @@ record:
   title: Duplicate Chats
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-new-onboarding|New onboarding]]'
 - '[[Changes/Cursor/2025-03-23-2-interface-experience-changes-in-0-48-x|2 Interface
   Experience changes in 0.48.x]]'
 - '[[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|More
   accessible history]]'
+- '[[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a35dd7|Mobile
+  UI (iOS/Android) changing on Free/Plus/Pro plans]]'
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -87,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|More accessible history]]
+- Earlier: 2025-05-06 · ChatGPT · [[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a35dd7|Mobile UI (iOS/Android) changing on Free/Plus/Pro plans]]
 - Later: 2025-06-03 · ChatGPT · [[Changes/ChatGPT/2025-06-03-memory-improvements-are-starting-to-roll-out-to-free-users-in-addition-to-the-sa-a02494|Memory improvements are starting to roll out to Free users]]
 <!-- chronolog:end -->
 

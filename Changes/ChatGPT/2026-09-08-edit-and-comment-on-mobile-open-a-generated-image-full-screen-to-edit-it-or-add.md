@@ -1,23 +1,23 @@
 ---
 card_id: chatgpt-2026-09-08-48cf73
 date: '2026-09-08'
-description: 'ChatGPT · 2026-09-08 · Mobile and Desktop: Edit and comment. On mobile,
+description: 'ChatGPT · 2026-09-08 · Interface Experience: Edit and comment. On mobile,
   open a generated image full-screen to edit it or add comments to tell ChatGPT what…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1274
+  lag_days: 1338
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: mobile-desktop
+  theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 11a5397d6c4b284fa26687e7638df4d6c3d1e018106174b361ac65d7ea99dae2
+machine_hash: c49998f956c20deeb5f4e32ed65e6591c24ea87003e37076e828b64ab34dde74
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,29 +39,19 @@ record:
   slug: edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add
   source_release: chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d
   source_type: chatgpt_changelog
-  theme: mobile-desktop
-  theme_matches:
-  - matched_terms:
-    - full screen
-    score: 60
-    theme: interface-experience
-  - matched_terms:
-    - mobile
-    score: 50
-    theme: mobile-desktop
-  theme_resolution: manual-semantic-rule-v1
+  theme: interface-experience
   title: Edit and comment
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-02-computer-use-on-linux-and-mac|Computer use on Linux
-  and Mac]]'
-- '[[Changes/Claude Code/2026-09-03-3-mobile-and-desktop-changes-in-v2-1-260|3 Mobile
-  and Desktop changes in v2.1.260]]'
-- '[[Changes/Claude Code/2026-09-04-vscode-added-a-hollow-ring-in-the-session-list-for-sessions-open-in-a-terminal-a|VSCode
-  Added a hollow ring in the session list for sessions open in a terminal…]]'
+- '[[Changes/Claude Code/2026-09-02-vscode-added-an-active-quick-filter-and-a-status-filter-menu-needs-input-working|VSCode
+  Added an Active quick filter and a status filter menu…]]'
+- '[[Changes/Claude Code/2026-09-03-4-interface-experience-changes-in-v2-1-260|4 Interface
+  Experience changes in v2.1.260]]'
+- '[[Changes/Claude Code/2026-09-04-3-interface-experience-changes-in-v2-1-261|3 Interface
+  Experience changes in v2.1.261]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d|chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d]]'
 source_type: chatgpt_changelog
-theme: mobile-desktop
+theme: interface-experience
 title: Edit and comment
 type: change
 ---
@@ -69,7 +59,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Edit and comment
 
-**ChatGPT** · 2026-09-08 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-25-new-ways-to-create-and-edit) · from [[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d|ChatGPT Images 2.5: new ways to create and edit]]
+**ChatGPT** · 2026-09-08 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-25-new-ways-to-create-and-edit) · from [[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d|ChatGPT Images 2.5: new ways to create and edit]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -87,16 +77,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Mobile and Desktop
+## Nearby in Interface Experience
 
-- Earlier: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-vscode-added-a-hollow-ring-in-the-session-list-for-sessions-open-in-a-terminal-a|VSCode Added a hollow ring in the session list for sessions open in a terminal…]]
-- Later: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-added-user-email-and-user-groups-to-the-telemetry-claude-desktop-and-cowork-send|Added user.email and user.groups to the telemetry Claude Desktop and Cowork send…]]
+- Earlier: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-3-interface-experience-changes-in-v2-1-261|3 Interface Experience changes in v2.1.261]]
+- Later: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-improved-the-diff-panel-it-no-longer-flashes-0-files-changed-and-a-spinner-befor|Improved the /diff panel]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 14f9bcb3812173598f81b6246d5f077bf7af0149360c8865a5d77d75e50247e0
+machine_hash: 2a2a5ecec88d18b246bf05a6983883f98a067201ec67f7188a15bbff0d5ac68e
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Interface Experience changes in v2.1.257
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-21-3-interface-experience-changes-in-v2-1-239|3 Interface
-  Experience changes in v2.1.239]]'
 - '[[Changes/Claude Code/2026-08-26-changed-the-prompt-footer-pr-badge-to-skip-its-github-re-check-on-terminal-refoc|Changed
   the prompt-footer PR badge to skip its GitHub re-check on terminal refocus…]]'
 - '[[Changes/Claude Code/2026-08-27-2-interface-experience-changes-in-v2-1-248|2 Interface
   Experience changes in v2.1.248]]'
+- '[[Changes/Claude Code/2026-08-28-added-a-spend-limit-bar-to-usage-and-a-rate-limits-spend-limit-status-line-field|Added
+  a Spend limit bar to /usage and a rate_limits.spend_limit status line…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6|claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6]]'
 source_type: github_releases
 theme: interface-experience
@@ -93,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.257
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-2-interface-experience-changes-in-v2-1-248|2 Interface Experience changes in v2.1.248]]
+- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-added-a-spend-limit-bar-to-usage-and-a-rate-limits-spend-limit-status-line-field|Added a Spend limit bar to /usage and a rate_limits.spend_limit status line…]]
 - Later: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-vscode-added-an-active-quick-filter-and-a-status-filter-menu-needs-input-working|VSCode Added an Active quick filter and a status filter menu…]]
 <!-- chronolog:end -->
 

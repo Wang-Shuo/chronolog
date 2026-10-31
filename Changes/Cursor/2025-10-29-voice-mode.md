@@ -5,8 +5,8 @@ description: 'Cursor · 2025-10-29 · Voice and Audio: Control Agent with your v
   using built-in speech-to-text conversion. You can also define custom submit keywords
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
-    are beginning to roll out new voice and image capabilities in ChatGPT]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
+    (Beta) is now rolling out to Plus users on iOS and Android]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 765
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: fbbc59ddb767a7abe45e9e47dd7e442aa4887274c0ce13f871b476d939927d26
+machine_hash: 51442d3648324fcff2f4f2ef9e0946acf804a5e08f16df763b9dd48652a5c2da
 product: cursor
 product_name: Cursor
 record:
@@ -76,19 +76,18 @@ type: change
 
 - [[Changes/Cursor/2025-10-29-shareable-team-commands|Shareable Team Commands]] · Collaboration
 - [[Changes/Cursor/2025-10-29-improved-code-review|Improved Code Review]] · Developer Workflow
-- [[Changes/Cursor/2025-10-29-browser-ga-1124ce|Browser (GA)]] · Enterprise and Administration
+- [[Changes/Cursor/2025-10-29-browser-ga-1124ce|Browser (GA)]] · Agent Mode
 - [[Changes/Cursor/2025-10-29-optimized-text-parsing-for-chat-rendering|Optimized text parsing for chat rendering]] · Interface Experience
 - [[Changes/Cursor/2025-10-29-sandboxed-terminals-ga|Sandboxed Terminals (GA)]] · Safety and Privacy
 - [[Changes/Cursor/2025-10-29-improved-agent-harness|Improved Agent Harness]] · Agent Mode
 - [[Changes/Cursor/2025-10-29-cursor-for-enterprise|Cursor for Enterprise]] · Enterprise and Administration
 - [[Changes/Cursor/2025-10-29-audit-log|Audit Log]] · Collaboration
-- [[Changes/Cursor/2025-10-29-increased-default-memory-for-typescript-language-server|Increased default memory for TypeScript language server]] · Memory and Personalization
 - [[Changes/Cursor/2025-10-29-background-agents-have-been-renamed-to-cloud-agents|Background Agents have been renamed to Cloud Agents]] · Agent Mode
 - [[Changes/Cursor/2025-10-29-cloud-agents|Cloud Agents]] · Agent Mode
+- [[Changes/Cursor/2025-10-29-2-reliability-and-performance-changes-in-2-0|2 Reliability and Performance changes in 2.0]] · Reliability and Performance
 - [[Changes/Cursor/2025-10-29-introducing-our-first-agentic-coding-model-composer-is-a-frontier-model-that-is|Composer]] · Model Support
 - [[Changes/Cursor/2025-10-29-improved-performance|Improved Performance]] · Reliability and Performance
 - [[Changes/Cursor/2025-10-29-3-developer-workflow-changes-in-2-0|3 Developer Workflow changes in 2.0]] · Developer Workflow
-- [[Changes/Cursor/2025-10-29-optimized-findfiles-performance-to-batch-concurrent-calls-at-bounded-concurrency|Optimized findFiles performance to batch concurrent calls at bounded concurrency]] · Reliability and Performance
 - [[Changes/Cursor/2025-10-29-plan-mode-in-background|Plan Mode in Background]] · Model Support
 - [[Changes/Cursor/2025-10-29-hooks-cloud-distribution|Hooks: Cloud Distribution]] · Enterprise and Administration
 - [[Changes/Cursor/2025-10-29-multi-agents-bb4f56|Multi-Agents]] · Agent Mode
@@ -108,7 +107,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

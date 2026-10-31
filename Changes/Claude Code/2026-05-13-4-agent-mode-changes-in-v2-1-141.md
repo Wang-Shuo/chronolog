@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1ce3affc8347c3971f450417745978933e18aaefdedfc166879903d6cff24f45
+machine_hash: 99cc8b764054d3c3ae90cdd1558bda030dbdbe8d72cc79d960814eaf296eb35f
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,10 +50,10 @@ record:
   title: 4 Agent Mode changes in v2.1.141
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-07-added-the-ability-to-control-explore-subagent-behavior-from-settings-choose-a-sp|Added
-  the ability to control Explore subagent behavior from settings]]'
 - '[[Changes/Claude Code/2026-05-11-2-agent-mode-changes-in-v2-1-139|2 Agent Mode
   changes in v2.1.139]]'
+- '[[Changes/Cursor/2026-05-11-mention-cursor-in-any-teams-channel-to-delegate-a-task-to-a-cloud-agent-or-pull-d30c31|Mention
+  @Cursor in any Teams channel to delegate a task to a cloud agent or pull…]]'
 - '[[Changes/Claude Code/2026-05-12-2-agent-mode-changes-in-v2-1-140|2 Agent Mode
   changes in v2.1.140]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'
@@ -92,7 +92,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.141
 - [[Changes/Claude Code/2026-05-13-rewind-menu-added-summarize-up-to-here-to-compress-earlier-context-while-keeping|Rewind menu: added "Summarize up to here" to compress earlier context while keeping…]] · Context Window
 - [[Changes/Claude Code/2026-05-13-feedback-can-now-include-recent-sessions-last-24-hours-or-7-days-for-issues-span|/feedback can now include recent sessions (last 24 hours or 7 days) for issues…]] · Projects and Workspaces
 - [[Changes/Claude Code/2026-05-13-bedrock-awscredentialexport-now-always-runs-when-configured-instead-of-being-ski|Bedrock: awsCredentialExport now always runs when configured instead of being…]] · Account and Access
-- [[Changes/Claude Code/2026-05-13-2-apps-and-integrations-changes-in-v2-1-141|2 Apps and Integrations changes in v2.1.141]] · Apps and Integrations
+- [[Changes/Claude Code/2026-05-13-added-terminalsequence-field-to-hook-json-output-so-hooks-can-emit-desktop-notif|Added terminalSequence field to hook JSON output so hooks can emit desktop…]] · Developer Workflow
+- [[Changes/Claude Code/2026-05-13-added-claude-code-plugin-prefer-https-to-clone-github-plugin-sources-over-https|Added CLAUDE_CODE_PLUGIN_PREFER_HTTPS to clone GitHub plugin sources over HTTPS…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-05-13-added-anthropic-workspace-id-environment-variable-for-workload-identity-federati|Added ANTHROPIC_WORKSPACE_ID environment variable for workload identity federation]] · Enterprise and Administration
 - [[Changes/Claude Code/2026-05-13-empty-idle-background-sessions-left-over-from-are-now-automatically-retired-by-t|Empty idle background sessions left over from ← are now automatically retired…]] · Other changes
 <!-- chronolog:end -->

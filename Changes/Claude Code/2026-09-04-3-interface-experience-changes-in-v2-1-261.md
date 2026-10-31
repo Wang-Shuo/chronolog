@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 929d4b63fc55ee5fc208ba4928dff7352f7f7f4fdd74aba9b5aa4f885b48cbc7
+machine_hash: f753125a6db5ef797e1a646a98d565027003428571ab6de17408237f6dc364d7
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,11 +83,10 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.261
 ## Also in this release
 
 - [[Changes/Claude Code/2026-09-04-improved-streaming-performance-already-rendered-blocks-are-no-longer-re-checked|Improved streaming performance]] · Reliability and Performance
-- [[Changes/Claude Code/2026-09-04-vscode-added-a-hollow-ring-in-the-session-list-for-sessions-open-in-a-terminal-a|VSCode Added a hollow ring in the session list for sessions open in a terminal…]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-09-04-3-developer-workflow-changes-in-v2-1-261|3 Developer Workflow changes in v2.1.261]] · Developer Workflow
 - [[Changes/Claude Code/2026-09-04-2-agent-mode-changes-in-v2-1-261|2 Agent Mode changes in v2.1.261]] · Agent Mode
 - [[Changes/Claude Code/2026-09-04-vscode-added-an-add-server-form-and-a-remove-action-to-the-mcp-servers-dialog-so|VSCode Added an Add server form and a Remove action to the MCP servers dialog…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-09-04-2-account-and-access-changes-in-v2-1-261|2 Account and Access changes in v2.1.261]] · Account and Access
-- [[Changes/Claude Code/2026-09-04-2-developer-workflow-changes-in-v2-1-261|2 Developer Workflow changes in v2.1.261]] · Developer Workflow
 - [[Changes/Claude Code/2026-09-04-changed-context-token-counting-to-use-a-local-estimate-when-the-token-counting-a|Changed /context token counting to use a local estimate when the token-counting…]] · Context Window
 - [[Changes/Claude Code/2026-09-04-added-skill-doctor-to-show-which-loaded-skills-go-unused-and-what-they-cost-in-c|Added /skill-doctor to show which loaded skills go unused and what they cost…]] · Context Window
 - [[Changes/Claude Code/2026-09-04-4-safety-and-privacy-changes-in-v2-1-261|4 Safety and Privacy changes in v2.1.261]] · Safety and Privacy
@@ -99,7 +98,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.261
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-4-interface-experience-changes-in-v2-1-260|4 Interface Experience changes in v2.1.260]]
-- Later: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-improved-the-diff-panel-it-no-longer-flashes-0-files-changed-and-a-spinner-befor|Improved the /diff panel]]
+- Later: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add|Edit and comment]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

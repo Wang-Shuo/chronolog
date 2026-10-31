@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-03-10 · Learning Tools: When you ask ChatGPT abou
   topics, it can now present an interactive visual module that lets you experiment
   with…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-07-29-break-concepts-into-easy-to-follow-sections-starting-simple-and-adding-complexit|Break
-    concepts into easy to follow sections starting simple and adding complexity…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-4b5d0a|Study
+    mode is currently available to users in Free, Plus, Pro, and Teams plans…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 224
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 45b90a9243853198dfa4f1fbebf536a8edc2a7f397672e57364581cc8253081c
+machine_hash: 5ca665b16fb58c4f09963fe3bf5f5e1a887d2dc2702c3132e9c03641a932b08d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,10 +57,8 @@ record:
   title: Interactive learning for math and science
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-07-29-break-concepts-into-easy-to-follow-sections-starting-simple-and-adding-complexit|Break
-  concepts into easy to follow sections starting simple and adding complexity…]]'
-- '[[Changes/ChatGPT/2025-07-29-guide-understanding-with-socratic-style-questions|Guide
-  understanding with Socratic-style questions]]'
+- '[[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-4b5d0a|Study
+  mode is currently available to users in Free, Plus, Pro, and Teams plans…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-10-interactive-learning-for-math-and-science-e25b67af|chatgpt-2026-03-10-interactive-learning-for-math-and-science-e25b67af]]'
 source_type: chatgpt_changelog
 theme: learning-tools
@@ -87,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Learning Tools
 
-- Earlier: 2025-07-29 · ChatGPT · [[Changes/ChatGPT/2025-07-29-guide-understanding-with-socratic-style-questions|Guide understanding with Socratic-style questions]]
+- Earlier: 2025-07-29 · ChatGPT · [[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-4b5d0a|Study mode is currently available to users in Free, Plus, Pro, and Teams plans…]]
 - Later: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-added-powerup-interactive-lessons-teaching-claude-code-features-with-animated-de|Added /powerup — interactive lessons teaching Claude Code features with animated demos]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-07-29 · ChatGPT · [[Changes/ChatGPT/2025-07-29-break-concepts-into-easy-to-follow-sections-starting-simple-and-adding-complexit|Break concepts into easy to follow sections starting simple and adding complexity…]]
+- Earliest same-theme entry in the tracked set: 2025-07-29 · ChatGPT · [[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-4b5d0a|Study mode is currently available to users in Free, Plus, Pro, and Teams plans…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

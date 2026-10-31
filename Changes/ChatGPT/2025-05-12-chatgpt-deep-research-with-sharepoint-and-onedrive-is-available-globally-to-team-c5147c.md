@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0fecf1987e61bfcc63c376568251da1a80cc475866004fcc7b41b108446cfb0a
+machine_hash: 4c5b71bcd9ee007fc16d5d81f3a7212ad3c2eb3a3f6602df9488a2b8dd61e76e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,20 +46,6 @@ record:
   source_release: chatgpt-2025-05-12-microsoft-sharepoint-and-onedrive-connector-for-deep-research-fo-f616305b
   source_type: chatgpt_changelog
   theme: search-browsing
-  theme_matches:
-  - matched_terms:
-    - deep research
-    score: 60
-    theme: search-browsing
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
-  theme_resolution: manual-semantic-rule-v1
   title: Microsoft SharePoint and OneDrive connector for deep research for Plus/Pro/Team
   type: change
 related_changes:

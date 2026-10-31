@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0b62758f28c2a0ac498d1a21665358affa7a5822a89772f37dbb13bf7d8ab832
+machine_hash: 516f748d5e062b2614cb73ade28d737d0fdab00ef03ca86fc4ffd249e56134e6
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: Added a `disableBundledSkills` setting and `CLAUDE_CODE_DISABLE_BUNDLED_SKILLS`…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-03-effort-now-confirms-when-your-chosen-level-will-persist-as-the-default-for-new-s|/effort
-  now confirms when your chosen level will persist as the default for new sessions]]'
+- '[[Changes/Claude Code/2026-06-03-2-model-support-changes-in-v2-1-162|2 Model Support
+  changes in v2.1.162]]'
 - '[[Changes/Claude Code/2026-06-06-3-model-support-changes-in-v2-1-166|3 Model Support
   changes in v2.1.166]]'
 - '[[Changes/ChatGPT/2026-06-08-long-press-send-to-choose-a-model-users-on-paid-plans-can-now-long-press-the-sen|Long-press

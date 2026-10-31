@@ -1,24 +1,24 @@
 ---
 card_id: chatgpt-2026-03-23-acdb79
 date: '2026-03-23'
-description: 'ChatGPT · 2026-03-23 · Mobile and Desktop: Now, it’s easier to find,
+description: 'ChatGPT · 2026-03-23 · Search and Browsing: Now, it’s easier to find,
   reuse, and build on your files over time. When you upload or create a file—whether
   it’s a…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
+    An experimental model that knows when and how to browse the internet]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1105
+  lag_days: 1096
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: mobile-desktop
+  theme: search-browsing
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f8b85c2c285015fbdbbcc7dc470d333099b7b1c118d3d499a7c9f32466dc9c87
+machine_hash: f76c0cb04fe9e804e5637193ec82efb26d27928736dc2070a57f9e6003d7718e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -59,13 +59,8 @@ record:
   slug: now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload
   source_release: chatgpt-2026-03-23-file-library-in-chatgpt-7107c619
   source_type: chatgpt_changelog
-  theme: mobile-desktop
+  theme: search-browsing
   theme_matches:
-  - matched_terms:
-    - android
-    - ios
-    score: 100
-    theme: mobile-desktop
   - matched_terms:
     - generated images
     score: 60
@@ -82,18 +77,19 @@ record:
     - browse
     score: 50
     theme: search-browsing
+  theme_resolution: manual-semantic-rule-v1
   title: File Library in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-05-2-mobile-and-desktop-changes-in-v2-1-69|2 Mobile
-  and Desktop changes in v2.1.69]]'
-- '[[Changes/Claude Code/2026-03-11-improved-clipboard-image-pasting-performance-on-macos|Improved
-  clipboard image pasting performance on macOS]]'
-- '[[Changes/Claude Code/2026-03-17-2-mobile-and-desktop-changes-in-v2-1-77|2 Mobile
-  and Desktop changes in v2.1.77]]'
+- '[[Changes/Cursor/2026-01-16-added-webfetch-websearch-tools-approval-options-for-granular-controls-over-web-s|Added
+  WebFetch, WebSearch tools, & approval options for granular controls over web…]]'
+- '[[Changes/ChatGPT/2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results|Open
+  search results in a new tab]]'
+- '[[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|Legacy
+  deep research mode deprecation notice]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-23-file-library-in-chatgpt-7107c619|chatgpt-2026-03-23-file-library-in-chatgpt-7107c619]]'
 source_type: chatgpt_changelog
-theme: mobile-desktop
+theme: search-browsing
 title: File Library in ChatGPT
 type: change
 ---
@@ -101,7 +97,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # File Library in ChatGPT
 
-**ChatGPT** · 2026-03-23 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-03-23-file-library-in-chatgpt-7107c619|File Library in ChatGPT]]
+**ChatGPT** · 2026-03-23 · [[Themes/search-browsing|Search and Browsing]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-03-23-file-library-in-chatgpt-7107c619|File Library in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -115,16 +111,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Mobile and Desktop
+## Nearby in Search and Browsing
 
-- Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-2-mobile-and-desktop-changes-in-v2-1-77|2 Mobile and Desktop changes in v2.1.77]]
-- Later: 2026-03-26 · ChatGPT · [[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|A simplified sidebar on mobile]]
+- Earlier: 2026-03-19 · ChatGPT · [[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|Legacy deep research mode deprecation notice]]
+- Later: 2026-03-24 · ChatGPT · [[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|Shopping updates in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

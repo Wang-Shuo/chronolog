@@ -1,23 +1,24 @@
 ---
 card_id: cursor-2026-07-29-40fd2a
 date: '2026-07-29'
-description: 'Cursor · 2026-07-29 · Mobile and Desktop: On iPhone and iPad, the review
-  screen now covers the full PR: comments, checks, and approvals. Add or change…'
+description: 'Cursor · 2026-07-29 · Agent Mode: On iPhone and iPad, the review screen
+  now covers the full PR: comments, checks, and approvals. Add or change reviewers,
+  read…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1233
+  lag_days: 1119
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: mobile-desktop
+  theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 16992d442e7c4d509d79c027df74e8a34705bcca07c4ab6de415ee95bb720914
+machine_hash: 6f5ac4f8148e6d3d16a1135df54d0ba6669b93ea17987c3859ab4dc127b11f66
 product: cursor
 product_name: Cursor
 record:
@@ -44,29 +45,19 @@ record:
   slug: a-full-review-surface
   source_release: cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c
   source_type: cursor_changelog
-  theme: mobile-desktop
-  theme_matches:
-  - matched_terms:
-    - ipad
-    - iphone
-    score: 100
-    theme: mobile-desktop
-  - matched_terms:
-    - agent
-    score: 50
-    theme: agent-mode
+  theme: agent-mode
   title: A full review surface
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-16-a-clearer-desktop-layout-a-global-switcher-lets-you-choose-between-chatgpt-and-c|A
-  clearer desktop layout: A global switcher lets you choose between ChatGPT and Codex]]'
-- '[[Changes/ChatGPT/2026-07-16-we-ve-updated-the-chatgpt-desktop-app-to-make-it-easier-to-choose-between-chat-a|ChatGPT
-  updates the ChatGPT desktop app to make it easier to choose between Chat…]]'
-- '[[Changes/ChatGPT/2026-07-16-continue-work-across-devices-cloud-work-conversations-now-sync-across-web-mobile|Continue
-  Work across devices]]'
+- '[[Changes/Cursor/2026-07-22-auto-mode-is-now-powered-by-cursor-router|Auto mode
+  is now powered by Cursor Router]]'
+- '[[Changes/Claude Code/2026-07-24-4-agent-mode-changes-in-v2-1-219|4 Agent Mode
+  changes in v2.1.219]]'
+- '[[Changes/Cursor/2026-07-28-always-on-cloud-agents-that-build-test-and-ship-code-while-you-keep-working-725c7c|Always-on
+  cloud agents that build, test, and ship code while you keep working]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c|cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c]]'
 source_type: cursor_changelog
-theme: mobile-desktop
+theme: agent-mode
 title: A full review surface
 type: change
 ---
@@ -74,7 +65,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # A full review surface
 
-**Cursor** · 2026-07-29 · [[Themes/mobile-desktop|Mobile and Desktop]] · Launch · [Official source](https://cursor.com/changelog/ipad) · from [[Releases/Cursor/cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c|Cursor, now on iPad]]
+**Cursor** · 2026-07-29 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://cursor.com/changelog/ipad) · from [[Releases/Cursor/cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c|Cursor, now on iPad]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -94,16 +85,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Mobile and Desktop
+## Nearby in Agent Mode
 
-- Earlier: 2026-07-16 · ChatGPT · [[Changes/ChatGPT/2026-07-16-continue-work-across-devices-cloud-work-conversations-now-sync-across-web-mobile|Continue Work across devices]]
-- Later: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-3-mobile-and-desktop-changes-in-v2-1-224|3 Mobile and Desktop changes in v2.1.224]]
+- Earlier: 2026-07-28 · Cursor · [[Changes/Cursor/2026-07-28-always-on-cloud-agents-that-build-test-and-ship-code-while-you-keep-working-725c7c|Always-on cloud agents that build, test, and ship code while you keep working]]
+- Later: 2026-08-06 · Claude Code · [[Changes/Claude Code/2026-08-06-2-agent-mode-changes-in-v2-1-223|2 Agent Mode changes in v2.1.223]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 95432677d567c778d77fc906c18ab03a04cf529bf754ca7e015f4dd64e941c10
+machine_hash: 0a323689461ca96c2e2f62912087264aae46fdb6f583676f2a0edd149fedc66a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -55,12 +55,12 @@ record:
   title: Memory and new controls for ChatGPT
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+  instructions are rolling out in beta]]'
+- '[[Changes/ChatGPT/2023-08-09-custom-instructions-are-now-available-to-chatgpt-users-on-the-free-plan-except-f-963d1e|Custom
+  instructions are now available to free users]]'
 - '[[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king-cfc1d5|Custom
   instructions are now available to users in the EU & UK]]'
-- '[[Changes/Cursor/2023-09-07-this-should-reduce-any-significant-memory-issues-that-users-have-been-experienci|This
-  should reduce any significant memory issues that users have been experiencing]]'
-- '[[Changes/Cursor/2023-09-08-better-state-management-prevents-crashes-from-editor-using-too-much-memory|Better
-  state management - prevents crashes from editor using too much memory]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded|chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-better-state-management-prevents-crashes-from-editor-using-too-much-memory|Better state management - prevents crashes from editor using too much memory]]
+- Earlier: 2023-08-21 · ChatGPT · [[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king-cfc1d5|Custom instructions are now available to users in the EU & UK]]
 - Later: 2024-04-29 · ChatGPT · [[Changes/ChatGPT/2024-04-29-memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w-4db29a|Memory is now available to Plus users]]
 <!-- chronolog:end -->
 

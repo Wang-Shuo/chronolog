@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 718af8823fbed87cbf024cb3ba192eaa88bdba5e6a8d2e0571909e995ec58523
+machine_hash: f9798a1a02316b809f60eeb5b8d5fb3bef6cb2eabcdbfefe2b39378d59f00b54
 product: cursor
 product_name: Cursor
 record:
@@ -39,10 +39,6 @@ record:
   source_type: cursor_changelog
   theme: safety-privacy
   theme_matches:
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
   - matched_terms:
     - admins
     score: 50

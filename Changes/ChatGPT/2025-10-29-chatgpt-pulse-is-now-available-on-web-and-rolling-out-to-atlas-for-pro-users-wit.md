@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: fe2fcd191db66d5fab947cfc748a5d8814554fd521a227dcf1f00e8d0dd20a2d
+machine_hash: 39298dc47954192bfcde2a1f350f214e81892499a5139e9ec7a420d72ea4e9d7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2025-10-28 · ChatGPT · [[Changes/ChatGPT/2025-10-28-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]]
-- Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-increased-default-memory-for-typescript-language-server|Increased default memory for TypeScript language server]]
+- Later: 2025-10-30 · ChatGPT · [[Changes/ChatGPT/2025-10-30-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

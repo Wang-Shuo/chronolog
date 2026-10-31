@@ -2,8 +2,8 @@
 changes_count: 3
 date: '2026-08-21'
 description: 'ChatGPT release Improved plugin discovery on web and mobile on 2026-08-21:
-  3 tracked changes across Apps and Integrations, Mobile and Desktop'
-machine_hash: 19653748f4b1e68a2bf7c5691ab9902e4315f618e15e111205a59a163cc0af79
+  3 tracked changes across Apps and Integrations'
+machine_hash: e054b62904baaa0d76c7f54c3ed3a6dbb9e19521eb39f76099aa9d61136500f9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,5 +46,5 @@ Tracked 3 cards from 4 candidate lines.
 <!-- chronolog:begin region="cards" -->
 - [[Changes/ChatGPT/2026-08-21-updated-plugin-recommendations-make-it-easier-to-find-tools-people-continue-to-u|Updated plugin recommendations make it easier to find tools people continue to use]] · Apps and Integrations
 - [[Changes/ChatGPT/2026-08-21-plugin-availability-depends-on-your-plan-region-and-workspace-settings-desktop-i|Plugin availability depends on your plan, region, and workspace settings]] · Apps and Integrations
-- [[Changes/ChatGPT/2026-08-21-find-more-useful-plugins-rankings-now-prioritize-plugins-people-keep-using-after|Find more useful plugins]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-08-21-find-more-useful-plugins-rankings-now-prioritize-plugins-people-keep-using-after|Find more useful plugins]] · Apps and Integrations
 <!-- chronolog:end -->

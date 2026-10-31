@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d18d02df58efceb5e71dc2b809d39c9835690eada4b17124851d85acdf213d23
+machine_hash: 845a8e463121b59a9dc4425ba5c461293a7921564af4815190320880cc55ccba
 product: cursor
 product_name: Cursor
 record:
@@ -43,11 +43,11 @@ record:
   title: 3 Collaboration changes in Organizations for Cursor Enterprise
   type: change
 related_changes:
+- '[[Changes/Cursor/2026-05-20-shared-canvases-a27a45|Shared canvases]]'
 - '[[Changes/Claude Code/2026-06-02-otel-resource-attributes-values-are-now-included-as-labels-on-metric-datapoints|OTEL_RESOURCE_ATTRIBUTES
   values are now included as labels on metric datapoints…]]'
 - '[[Changes/Claude Code/2026-06-03-quieter-startup-notices-group-by-severity-and-session-info-and-announcements-sha|Quieter
   startup: notices group by severity, and session info and announcements share…]]'
-- '[[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|Organizations]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576|cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -76,18 +76,19 @@ Source: https://cursor.com/changelog/enterprise-organizations
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|Organizations]] · Collaboration
+- [[Changes/Cursor/2026-06-03-admins-can-move-users-between-teams-through-the-dashboard-api-or-csv|Admins can move users between teams through the dashboard, API, or CSV]] · Enterprise and Administration
+- [[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|Organizations]] · Enterprise and Administration
 - [[Changes/Cursor/2026-06-03-groups-are-a-lightweight-collection-of-users-that-can-sit-across-or-within-teams|Groups]] · Collaboration
 - [[Changes/Cursor/2026-06-03-enterprise-customers-can-now-manage-multiple-cursor-teams-from-one-place-with-di|Enterprise customers can now manage multiple Cursor teams from one place…]] · Safety and Privacy
 - [[Changes/Cursor/2026-06-03-teams|Teams]] · Collaboration
-- [[Changes/Cursor/2026-06-03-2-other-changes-in-organizations-for-cursor-enterprise|2 other changes in Organizations for Cursor Enterprise]] · Other changes
+- [[Changes/Cursor/2026-06-03-organization-level-idp-management|Organization-level IDP management]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
 - Earlier: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-quieter-startup-notices-group-by-severity-and-session-info-and-announcements-sha|Quieter startup: notices group by severity, and session info and announcements share…]]
-- Later: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an|With canvases, agents can create interactive artifacts like dashboards, reports…]]
+- Later: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World Cup updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

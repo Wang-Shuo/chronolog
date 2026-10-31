@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d12b3c9a3eea2a020f2eb5c53d1b8e093cf357da771812e8eaba823972e5c8f7
+machine_hash: fa3b849c61348de5cf7f3ddae4693cfac36d08eeb3bb494b5e3c15d7af7dc088
 product: claude-code
 product_name: Claude Code
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.161
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-claude-agents-slash-command-autocomplete-in-the-dispatch-input-now-matches-subst|claude agents: slash-command autocomplete in the dispatch input now matches substrings]]
-- Later: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-2-interface-experience-changes-in-v2-1-162|2 Interface Experience changes in v2.1.162]]
+- Later: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-clicking-a-slash-command-in-the-autocomplete-menu-now-fills-it-into-your-prompt|Clicking a slash command in the autocomplete menu now fills it into your prompt…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

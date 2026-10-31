@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 437054a5d3a78b631d77303ddc40dfde6a9ea498dd65094ff451f6373ee424ef
+machine_hash: 420f9540d503f95c1bedd6ad1d2a377277b45c2b515de70a24ba28a34ab3b57f
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: Changed terminal hyperlinks in rendered markdown
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-20-2-developer-workflow-changes-in-v2-1-238|2 Developer
-  Workflow changes in v2.1.238]]'
 - '[[Changes/Claude Code/2026-08-21-2-developer-workflow-changes-in-v2-1-239|2 Developer
   Workflow changes in v2.1.239]]'
+- '[[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Create
+  webhook-triggered tasks]]'
 - '[[Changes/Claude Code/2026-08-25-2-developer-workflow-changes-in-v2-1-246|2 Developer
   Workflow changes in v2.1.246]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-26-v2-1-247-github-377320078-fc507178|claude-code-2026-08-26-v2-1-247-github-377320078-fc507178]]'

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 99e5cba554be72a87e4b1bbb2a727a8cd4be0fa4c6b7a188bebcc69999005e1f
+machine_hash: d53afc13fc56168a79f5ec3fc6022594109dbfaa5b9342d357141339ec022cd7
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,6 +55,7 @@ related_changes:
   Claude Haiku 5.5 (claude-haiku-5-5), now the default Haiku model…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: 2 Model Support changes in v2.1.295
 type: change

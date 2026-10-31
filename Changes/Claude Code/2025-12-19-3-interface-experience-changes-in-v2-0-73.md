@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 766947bf7e53fa020e88f088e183da338a3c874136a241bbf97583c05352f8f3
+machine_hash: 663348cdd407f95eab822dd7cf37c1b36df72652a83f4aab2add3d5300d66508
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,11 @@ record:
   title: 3 Interface Experience changes in v2.0.73
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-optimized-text-parsing-for-chat-rendering|Optimized
-  text parsing for chat rendering]]'
 - '[[Changes/Cursor/2025-11-21-set-origin-allowlist-from-dashboard-to-restrict-browser-tools-browser-tools-and|Set
   origin allowlist from dashboard to restrict browser tools]]'
 - '[[Changes/Cursor/2025-12-10-pinned-chats|Pinned chats]]'
+- '[[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|Pinned
+  chats in ChatGPT]]'
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9|claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9]]'
 source_type: github_releases
 theme: interface-experience
@@ -86,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.0.73
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-pinned-chats|Pinned chats]]
+- Earlier: 2025-12-18 · ChatGPT · [[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|Pinned chats in ChatGPT]]
 - Later: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-2-interface-experience-changes-in-v2-0-74|2 Interface Experience changes in v2.0.74]]
 <!-- chronolog:end -->
 

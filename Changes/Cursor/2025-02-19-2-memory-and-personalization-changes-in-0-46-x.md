@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 870df10cb3867829852b4bb448c347ec5f12c524a012de4318e99cd5119a4d20
+machine_hash: 40b3c035608df10de9ce98803751d9c39aa21750dff77f3f14fbd7f07a5a021a
 product: cursor
 product_name: Cursor
 record:
@@ -54,6 +54,7 @@ related_changes:
   is now available to Plus users]]'
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
 source_type: cursor_changelog
+superseded: true
 theme: memory
 title: 2 Memory and Personalization changes in 0.46.x
 type: change

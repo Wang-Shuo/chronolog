@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b17fe028cb0d6c48279c0d97dce504c8bcc22036246570d1b30ec6509100b473
+machine_hash: 3f04685a891c69b6514af1257dfbb8cf814a05aa53d9451eb33384729f49ed2d
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,8 +51,8 @@ record:
   title: 3 Apps and Integrations changes in v2.1.143
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-13-2-apps-and-integrations-changes-in-v2-1-141|2
-  Apps and Integrations changes in v2.1.141]]'
+- '[[Changes/Claude Code/2026-05-13-added-claude-code-plugin-prefer-https-to-clone-github-plugin-sources-over-https|Added
+  CLAUDE_CODE_PLUGIN_PREFER_HTTPS to clone GitHub plugin sources over HTTPS…]]'
 - '[[Changes/Cursor/2026-05-13-improved-mcp-auth-token-lifecycle-handling|Improved
   MCP auth token lifecycle handling]]'
 - '[[Changes/Claude Code/2026-05-14-3-apps-and-integrations-changes-in-v2-1-142|3

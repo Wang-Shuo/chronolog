@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5f65307b47d6da202fb69e3a4fb5c83dc672c668be303c3c564f68cb43cca4e7
+machine_hash: 6e7e5bd7ffacd4a407e5632941cece5ec6963bceda6c2e28c93ff3e00a7cc3fa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -59,8 +59,8 @@ record:
 related_changes:
 - '[[Changes/Claude Code/2026-09-25-improved-lists-in-help-hooks-copy-chrome-memory-ide-release-notes-rewind-diff-re|Improved
   lists in /help, /hooks, /copy, /chrome, /memory, /ide…]]'
-- '[[Changes/Claude Code/2026-09-28-2-memory-and-personalization-changes-in-v2-1-284|2
-  Memory and Personalization changes in v2.1.284]]'
+- '[[Changes/Claude Code/2026-09-28-improved-auto-memory-loading-invisible-characters-and-tags-that-imitate-claude-c|Improved
+  auto-memory loading]]'
 - '[[Changes/ChatGPT/2026-09-29-pages-follow-space-s-availability-and-sharing-settings-sharing-a-page-does-not-g|Pages
   follow Space’s availability and sharing settings]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-sign-in-to-other-products-with-chatgpt-3054f3c5|chatgpt-2026-09-29-sign-in-to-other-products-with-chatgpt-3054f3c5]]'

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 8b5f28147693c4be49f4d134989ebc47a8a9c0f12c1b9486c0ae15881372b3f2
+machine_hash: 6fcf5b1f38c8fa3fc92646446d97c66214f6cf94b5175ddfa6a0697c3725cbe7
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,12 +54,12 @@ record:
     whose…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-28-2-pricing-model-changes-in-v2-1-284|2 Pricing
-  Model changes in v2.1.284]]'
 - '[[Changes/ChatGPT/2026-09-29-pro-200-is-available-for-new-subscriptions-again-at-200-month-5ed430|Pro
   200 subscriptions]]'
 - '[[Changes/ChatGPT/2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o-e04989|A
   new Pro plan with Astra Ultrafast]]'
+- '[[Changes/Claude Code/2026-09-29-claude-tag-added-direct-messages-with-claude-for-members-on-an-enterprise-plan-s|Claude
+  Tag Added direct messages with Claude for members on an Enterprise plan…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6|claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6]]'
 source_type: github_releases
 theme: pricing-model
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o-e04989|A new Pro plan with Astra Ultrafast]]
+- Earlier: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-claude-tag-added-direct-messages-with-claude-for-members-on-an-enterprise-plan-s|Claude Tag Added direct messages with Claude for members on an Enterprise plan…]]
 - Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price|Updated /cost, the status line, --max-budget-usd and the SDK's cost figures…]]
 <!-- chronolog:end -->
 

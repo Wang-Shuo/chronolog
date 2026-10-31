@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8a4df584012af05c0f59aba79f46b8a1205ff441dbb1d596a433c0b0f8a83ea7
+machine_hash: d210f8cb97dcbd80d9ff2f66a4ac5f2bae877f3549a47459cce32ca8531178dd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,10 +52,10 @@ record:
   title: Improved display and faster streaming of conversations and message menu actions
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-11-5-reliability-and-performance-changes-in-0-47-x|5 Reliability
-  and Performance changes in 0.47.x]]'
 - '[[Changes/Cursor/2025-03-11-this-release-focuses-mainly-on-stability-and-performance-improvements-to-make-ex|This
   release focuses mainly on stability and performance improvements to make…]]'
+- '[[Changes/ChatGPT/2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and|We
+  have been working on a variety of usability and performance improvements and bug…]]'
 - '[[Changes/ChatGPT/2025-03-18-in-line-message-error-retries-if-you-encounter-a-message-error-you-can-retry-or|In-line
   message error retries]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-ios-app-6a42bb0f|chatgpt-2025-03-18-ios-app-6a42bb0f]]'

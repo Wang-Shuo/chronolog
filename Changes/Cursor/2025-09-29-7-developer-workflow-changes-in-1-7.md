@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 698e0ea397ca9102fb66d2c6be1b65484fe92011f620b82f8d616b350d1d2040
+machine_hash: 2b8b2d1b5329ded852865fb7e093e21a096aa24fbb8330cef7cdf7f82a39741b
 product: cursor
 product_name: Cursor
 record:
@@ -101,14 +101,13 @@ Source: https://cursor.com/changelog/1-7
 - [[Changes/Cursor/2025-09-29-1-7-20-web-search-auto-accept-setting|1.7.20: Web search auto-accept setting]] · Search and Browsing
 - [[Changes/Cursor/2025-09-29-cursor-can-now-write-detailed-plans-before-starting-complex-tasks-this-allows-ag|Plan Mode]] · Agent Mode
 - [[Changes/Cursor/2025-09-29-monitor-agents-from-menubar|Monitor Agents from menubar]] · Agent Mode
-- [[Changes/Cursor/2025-09-29-5-agent-mode-changes-in-1-7|5 Agent Mode changes in 1.7]] · Agent Mode
 - [[Changes/Cursor/2025-09-29-agent-can-take-screenshots-improve-ui-and-debug-client-issues-read-more-about-br|Browser Controls]] · Agent Mode
+- [[Changes/Cursor/2025-09-29-6-agent-mode-changes-in-1-7|6 Agent Mode changes in 1.7]] · Agent Mode
 - [[Changes/Cursor/2025-09-29-1-7-24-team-deeplinks-and-hooks-improvements|1.7.24: Team deeplinks and hooks improvements]] · Collaboration
 - [[Changes/Cursor/2025-09-29-4-apps-and-integrations-changes-in-1-7|4 Apps and Integrations changes in 1.7]] · Apps and Integrations
 - [[Changes/Cursor/2025-09-29-8-reliability-and-performance-changes-in-1-7|8 Reliability and Performance changes in 1.7]] · Reliability and Performance
 - [[Changes/Cursor/2025-09-29-pr-summaries-from-bugbot|PR summaries from Bugbot]] · Editor Experience
 - [[Changes/Cursor/2025-09-29-sandboxed-terminals|Sandboxed terminals]] · Safety and Privacy
-- [[Changes/Cursor/2025-09-29-on-windows-agent-now-correctly-uses-powershell-on-macos-and-linux-powershell-wil|On Windows, Agent now correctly uses PowerShell]] · Mobile and Desktop
 - [[Changes/Cursor/2025-09-29-image-file-support-for-agent|Image file support for Agent]] · Agent Mode
 - [[Changes/Cursor/2025-09-29-1-7-45-model-picker-ux|1.7.45: Model picker UX]] · Interface Experience
 - [[Changes/Cursor/2025-09-29-1-7-41-token-sync-improvements-for-authentication|1.7.41: Token sync improvements for authentication]] · Account and Access

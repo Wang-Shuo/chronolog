@@ -8,7 +8,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 491dc6f798d93e935cf8c2bc2d454489e6da2ee6a0d083a07997f5a8dd4e3c15
+machine_hash: 8924dbd1ea368a95340ca76b590d43e23f9e0e2487a05906fb705b90c39ba9f7
 product: cursor
 product_name: Cursor
 record:
@@ -61,15 +61,15 @@ Source: https://cursor.com/changelog/0-46-x
 
 - [[Changes/Cursor/2025-02-19-2-apps-and-integrations-changes-in-0-46-x|2 Apps and Integrations changes in 0.46.x]] · Apps and Integrations
 - [[Changes/Cursor/2025-02-19-ignore-files-cursorignore-now-blocks-files-from-being-added-in-chat-or-sent-up-f|Ignore files: .cursorignore now blocks files from being added in chat or sent up…]] · Editor Experience
+- [[Changes/Cursor/2025-02-19-0-46-9-memory-and-performances-fixes-composer-chat-remembers-your-last-mode-sele|0.46.9: Memory and performances fixes, composer/chat remembers your last mode…]] · Memory and Personalization
 - [[Changes/Cursor/2025-02-19-ui-refresh-phase-one-of-a-fresh-coat-of-paint-with-new-default-cursor-themes-des|UI refresh: Phase one of a fresh coat of paint with new default Cursor themes…]] · Context Window
-- [[Changes/Cursor/2025-02-19-2-memory-and-personalization-changes-in-0-46-x|2 Memory and Personalization changes in 0.46.x]] · Memory and Personalization
-- [[Changes/Cursor/2025-02-19-0-46-7-improved-memory-usage-and-performance|0.46.7: Improved memory usage and performance]] · Reliability and Performance
 - [[Changes/Cursor/2025-02-19-tab-rebinding-tab-suggestions-can-now-be-rebound-to-a-different-keybinding-using|Tab rebinding: Tab suggestions can now be rebound to a different keybinding using…]] · Editor Experience
 - [[Changes/Cursor/2025-02-19-agent-is-ready-agent-is-now-the-default-mode-bringing-a-more-powerful-and-unifie|Agent is ready: Agent is now the default mode, bringing a more powerful and unified…]] · Agent Mode
 - [[Changes/Cursor/2025-02-19-agent-tool-limit-upon-reaching-the-25-tool-call-limit-you-can-press-continue-to|Agent tool limit]] · Agent Mode
 - [[Changes/Cursor/2025-02-19-web-search-agent-can-now-automatically-search-the-web-for-up-to-date-information|Web search: Agent can now automatically search the web for up-to-date information…]] · Search and Browsing
 - [[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface Experience changes in 0.46.x]] · Interface Experience
 - [[Changes/Cursor/2025-02-19-mcp-improvements|MCP improvements]] · Apps and Integrations
+- [[Changes/Cursor/2025-02-19-2-reliability-and-performance-changes-in-0-46-x|2 Reliability and Performance changes in 0.46.x]] · Reliability and Performance
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

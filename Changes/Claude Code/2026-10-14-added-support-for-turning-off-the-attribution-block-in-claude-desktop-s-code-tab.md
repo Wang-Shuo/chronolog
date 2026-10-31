@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d36a3ba045f630002d020e8f0a5a71be73a72f2ec44b0706a22c66aef642e3a0
+machine_hash: ee661f645957a9dfe118b9d96700e4ce4bfa53e17b23eee0febc11aedeedff9c
 product: claude-code
 product_name: Claude Code
 record:
@@ -69,6 +69,7 @@ related_changes:
   and Desktop changes in v2.1.296]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'
 source_type: github_releases
+superseded: true
 theme: mobile-desktop
 title: Added support for turning off the attribution block in Claude Desktop's Code
   tab

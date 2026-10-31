@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 916a5c2e12b3ae6eaadc4644364b263fa9a98f318949b40f577e10a96a15fd12
+machine_hash: ead3de7213475e363ec2be8d1a481e89287dcac8e942436876df61ec1049b0e9
 product: claude-code
 product_name: Claude Code
 record:
@@ -77,14 +77,14 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.281
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-09-23-10-agent-mode-changes-in-v2-1-281|10 Agent Mode changes in v2.1.281]] · Agent Mode
 - [[Changes/Claude Code/2026-09-23-improved-interactive-startup-time-git-reads-startup-telemetry-and-the-bedrock-ve|Improved interactive startup time]] · Model Support
 - [[Changes/Claude Code/2026-09-23-claude-tag-changed-the-routine-list-claude-gives-when-asked-in-a-slack-thread-to|Claude Tag Changed the routine list Claude gives when asked in a Slack thread…]] · Automation and Scheduling
 - [[Changes/Claude Code/2026-09-23-7-developer-workflow-changes-in-v2-1-281|7 Developer Workflow changes in v2.1.281]] · Developer Workflow
 - [[Changes/Claude Code/2026-09-23-2-mobile-and-desktop-changes-in-v2-1-281|2 Mobile and Desktop changes in v2.1.281]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-09-23-4-interface-experience-changes-in-v2-1-281|4 Interface Experience changes in v2.1.281]] · Interface Experience
-- [[Changes/Claude Code/2026-09-23-9-agent-mode-changes-in-v2-1-281|9 Agent Mode changes in v2.1.281]] · Agent Mode
+- [[Changes/Claude Code/2026-09-23-17-apps-and-integrations-changes-in-v2-1-281|17 Apps and Integrations changes in v2.1.281]] · Apps and Integrations
 - [[Changes/Claude Code/2026-09-23-improved-deep-research-reliability-on-long-research-briefs-by-removing-unused-re|Improved /deep-research reliability on long research briefs by removing unused…]] · Search and Browsing
-- [[Changes/Claude Code/2026-09-23-18-apps-and-integrations-changes-in-v2-1-281|18 Apps and Integrations changes in v2.1.281]] · Apps and Integrations
 - [[Changes/Claude Code/2026-09-23-12-safety-and-privacy-changes-in-v2-1-281|12 Safety and Privacy changes in v2.1.281]] · Safety and Privacy
 - [[Changes/Claude Code/2026-09-23-improved-screen-reader-output-in-mcp-a-disabled-server-is-read-as-off-instead-of|Improved screen-reader output in /mcp]] · Accessibility and Localization
 - [[Changes/Claude Code/2026-09-23-13-other-changes-in-v2-1-281|13 other changes in v2.1.281]] · Other changes

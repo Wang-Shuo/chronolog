@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d72252b1a85f9944daa961c3ed5c06f275f490464680d77c74c1b0ec2da03d3e
+machine_hash: 87c9897716e8d8c790e3d36eef1ea7f5c551e505b3c480822ac8cb9c11c9f2fe
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,10 @@ record:
   title: 4 Agent Mode changes in v2.1.232
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-06-2-agent-mode-changes-in-v2-1-223|2 Agent Mode
-  changes in v2.1.223]]'
 - '[[Changes/Claude Code/2026-08-07-removed-the-200-subagent-per-session-spawn-cap-long-running-sessions-no-longer-r|Removed
   the 200-subagent-per-session spawn cap]]'
+- '[[Changes/Claude Code/2026-08-11-removed-the-outdated-note-about-auto-mode-sessions-costing-slightly-more-from-th|Removed
+  the outdated note about auto mode sessions costing slightly more…]]'
 - '[[Changes/Claude Code/2026-08-12-improved-workflow-fan-outs-to-stagger-same-prefix-sibling-agents-so-subsequent-a|Improved
   workflow fan-outs to stagger same-prefix sibling agents so subsequent…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-13-v2-1-232-github-370225682-71e478db|claude-code-2026-08-13-v2-1-232-github-370225682-71e478db]]'

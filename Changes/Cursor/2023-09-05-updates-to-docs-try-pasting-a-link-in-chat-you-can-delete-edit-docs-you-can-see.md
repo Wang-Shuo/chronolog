@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7d1cbe3e8c0b9d773434c066545fadc6cdcb2ceeb8656ee96f2385b4ba0171b9
+machine_hash: 91ca250db307c777b15c494d87d4a4820301fd307f48dee8fec7730148fd72da
 product: cursor
 product_name: Cursor
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2023-08-22 · Cursor · [[Changes/Cursor/2023-08-22-ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie|SSH support is now more robust!]]
-- Later: 2023-09-07 · Cursor · [[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg|We no longer store any full files in memory and prevent users from @'ing very large…]]
+- Later: 2023-09-07 · Cursor · [[Changes/Cursor/2023-09-07-we-release-an-improved-new-ai-project-feature-to-nightly-users-this-is-a-more-ro|We release an improved New AI Project feature to nightly users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

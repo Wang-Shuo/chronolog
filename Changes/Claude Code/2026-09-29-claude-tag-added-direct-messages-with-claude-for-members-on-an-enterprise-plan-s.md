@@ -1,23 +1,24 @@
 ---
 card_id: claude-code-2026-09-29-10d64b
 date: '2026-09-29'
-description: 'Claude Code · 2026-09-29 · Enterprise and Administration: [Claude Tag]
-  Added direct messages with Claude for members on an Enterprise plan Standard or…'
+description: 'Claude Code · 2026-09-29 · Pricing Model: [Claude Tag] Added direct
+  messages with Claude for members on an Enterprise plan Standard or Usage-Based Chat
+  seat…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
-    users can only access stable release (no pre-release)]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
+    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 482
+  lag_days: 1384
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: enterprise-admin
+  theme: pricing-model
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
-kind: change
-machine_hash: ddefd01e955d677271c741afdd377f6af6bd8537d363f204cac5a6f619736584
+kind: pricing
+machine_hash: 7d1e6bab90f9fbe19c36e1a77ec308d9a4423002e0d969feb10ec95dcf654c82
 product: claude-code
 product_name: Claude Code
 record:
@@ -34,36 +35,26 @@ record:
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.285
   extractor_version: fallback-v5
   impact: incremental
-  kind: change
+  kind: pricing
   product: claude-code
   product_name: Claude Code
   slug: claude-tag-added-direct-messages-with-claude-for-members-on-an-enterprise-plan-s
   source_release: claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc
   source_type: github_releases
-  theme: enterprise-admin
-  theme_matches:
-  - matched_terms:
-    - usage based
-    score: 60
-    theme: pricing-model
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
-  theme_resolution: manual-semantic-rule-v1
+  theme: pricing-model
   title: '[Claude Tag] Added direct messages with Claude for members on an Enterprise
     plan…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-3-enterprise-and-administration-changes-in-v2-1-277|3
-  Enterprise and Administration changes in v2.1.277]]'
-- '[[Changes/Claude Code/2026-09-28-claude-tag-improved-notify-members-now-in-admin-settings-one-press-reaches-every|Claude
-  Tag Improved "Notify members now" in admin settings]]'
-- '[[Changes/ChatGPT/2026-09-29-for-the-next-month-dots-usage-won-t-count-toward-eligible-pro-business-and-enter|For
-  the next month, dots usage won’t count toward eligible Pro, Business…]]'
+- '[[Changes/Claude Code/2026-09-28-2-pricing-model-changes-in-v2-1-284|2 Pricing
+  Model changes in v2.1.284]]'
+- '[[Changes/ChatGPT/2026-09-29-pro-200-is-available-for-new-subscriptions-again-at-200-month-5ed430|Pro
+  200 subscriptions]]'
+- '[[Changes/ChatGPT/2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o-e04989|A
+  new Pro plan with Astra Ultrafast]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc|claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc]]'
 source_type: github_releases
-theme: enterprise-admin
+theme: pricing-model
 title: Claude Tag Added direct messages with Claude for members on an Enterprise plan…
 type: change
 ---
@@ -71,7 +62,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # [Claude Tag] Added direct messages with Claude for members on an Enterprise plan…
 
-**Claude Code** · 2026-09-29 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.285) · from [[Releases/Claude Code/claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc|v2.1.285]]
+**Claude Code** · 2026-09-29 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.285) · from [[Releases/Claude Code/claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc|v2.1.285]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -99,16 +90,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Enterprise and Administration
+## Nearby in Pricing Model
 
-- Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-for-the-next-month-dots-usage-won-t-count-toward-eligible-pro-business-and-enter|For the next month, dots usage won’t count toward eligible Pro, Business…]]
-- Later: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-claude-tag-added-an-edit-button-to-the-allowed-domains-card-on-a-channel-s-confi|Claude Tag Added an Edit button to the Allowed domains card on a channel's…]]
+- Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o-e04989|A new Pro plan with Astra Ultrafast]]
+- Later: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-improved-the-usage-credits-message-shown-to-team-and-enterprise-members-whose-or|Improved the /usage-credits message shown to Team and Enterprise members whose…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

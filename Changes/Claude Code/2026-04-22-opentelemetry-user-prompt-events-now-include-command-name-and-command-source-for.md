@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 492a3045a5b9cf05a6448a0f408e7986fcc6827c7f3c4b50ab60d0816b9940c6
+machine_hash: 0059a32670269438c60b5ebbf52df65e5721030dfd0c4e0ad08435bfe602ea6b
 product: claude-code
 product_name: Claude Code
 record:
@@ -59,12 +59,12 @@ record:
   title: 'OpenTelemetry: `user_prompt` events now include `command_name` and `command_source`…'
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2026-04-09-plus-20-month-plus-remains-best-for-steady-day-to-day-use-as-the-temporary-codex|Plus
+  ($20/month): Plus remains best for steady, day-to-day use]]'
 - '[[Changes/ChatGPT/2026-04-09-pro-200-month-our-highest-usage-option-remains-available-and-continues-on-its-cu|Pro
   ($200/month): Our highest-usage option remains available and continues…]]'
 - '[[Changes/ChatGPT/2026-04-09-you-can-upgrade-switch-or-cancel-your-plan-from-settings-my-plan-or-from-the-pri|You
   can upgrade, switch, or cancel your plan from Settings  My Plan or…]]'
-- '[[Changes/Claude Code/2026-04-09-fixed-false-bash-permission-prompts-for-cut-d-paste-d-column-s-awk-print-1-file|Fixed
-  false Bash permission prompts for cut -d /, paste -d /, column -s /…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-22-v2-1-117-github-311984967-1d917373|claude-code-2026-04-22-v2-1-117-github-311984967-1d917373]]'
 source_type: github_releases
 theme: pricing-model
@@ -87,11 +87,10 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-04-22-native-builds-on-macos-and-linux-the-glob-and-grep-tools-are-replaced-by-embedde|Native builds on macOS and Linux]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-04-22-2-developer-workflow-changes-in-v2-1-117|2 Developer Workflow changes in v2.1.117]] · Developer Workflow
 - [[Changes/Claude Code/2026-04-22-4-apps-and-integrations-changes-in-v2-1-117|4 Apps and Integrations changes in v2.1.117]] · Apps and Integrations
-- [[Changes/Claude Code/2026-04-22-windows-cached-where-exe-executable-lookups-per-process-for-faster-subprocess-la|Windows: cached where.exe executable lookups per process for faster subprocess launches]] · Reliability and Performance
 - [[Changes/Claude Code/2026-04-22-2-model-support-changes-in-v2-1-117|2 Model Support changes in v2.1.117]] · Model Support
+- [[Changes/Claude Code/2026-04-22-2-reliability-and-performance-changes-in-v2-1-117|2 Reliability and Performance changes in v2.1.117]] · Reliability and Performance
 - [[Changes/Claude Code/2026-04-22-2-agent-mode-changes-in-v2-1-117|2 Agent Mode changes in v2.1.117]] · Agent Mode
 - [[Changes/Claude Code/2026-04-22-advisor-tool-experimental-dialog-now-carries-an-experimental-label-learn-more-li|Advisor Tool (experimental)]] · Other changes
 <!-- chronolog:end -->
@@ -99,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-fixed-false-bash-permission-prompts-for-cut-d-paste-d-column-s-awk-print-1-file|Fixed false Bash permission prompts for cut -d /, paste -d /, column -s /…]]
+- Earlier: 2026-04-09 · ChatGPT · [[Changes/ChatGPT/2026-04-09-you-can-upgrade-switch-or-cancel-your-plan-from-settings-my-plan-or-from-the-pri|You can upgrade, switch, or cancel your plan from Settings  My Plan or…]]
 - Later: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-customers-must-be-on-usage-based-billing-for-bugbot-to-customize-effort-levels-l|Customers must be on usage-based billing for Bugbot to customize effort levels]]
 <!-- chronolog:end -->
 

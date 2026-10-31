@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e80d1901bf87b37d0bccc37ae7782b5099c8291270e53f9ffb80c09e502f43ac
+machine_hash: 8224d51813aa7f3ff51b08df29ae710ad79628ce5752577032f3fa8765edf45a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,20 +49,7 @@ record:
   source_release: chatgpt-2026-01-30-more-visual-responses-d2d2073c
   source_type: chatgpt_changelog
   theme: interface-experience
-  theme_matches:
-  - matched_terms:
-    - android
-    - ios
-    score: 100
-    theme: mobile-desktop
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
-  - matched_terms:
-    - context
-    score: 50
-    theme: context-window
+  theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: More visual responses
   type: change

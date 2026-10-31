@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6ad45e4fddf1a30e44ea083fb7ea76e6bee06d1cd4944195afa3925fa9af2744
+machine_hash: d96a83fb816d6d589afdc48504d94ebc32094a3337ba77e0ea2359ec0aa2f343
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
     `/tmp`
   type: change
 related_changes:
+- '[[Changes/Cursor/2026-07-22-admin-controls-per-team-and-per-group-enablement-mode-restrictions-default-mode|Admin
+  controls: per-team and per-group enablement, mode restrictions, default mode…]]'
 - '[[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch
   between teams that you belong to directly in the app]]'
-- '[[Changes/Claude Code/2026-08-11-removed-the-outdated-note-about-auto-mode-sessions-costing-slightly-more-from-th|Removed
-  the outdated note about auto mode sessions costing slightly more…]]'
 - '[[Changes/ChatGPT/2026-08-13-the-initial-experience-includes-my-drive-and-files-and-folders-shared-directly-w|The
   initial experience includes My Drive and files and folders shared directly with
   you]]'

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d228268c3bb246bdb83ed05a84533bacf3870d5ffa4700eb242a784b12f41538
+machine_hash: a6ad8b8c66ca8b0a874efbb98808c59eae2bfd72684d9fa2c1144e97c9ef4a3d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,10 +54,6 @@ record:
     score: 110
     theme: memory
   - matched_terms:
-    - apps
-    score: 50
-    theme: apps-integrations
-  - matched_terms:
     - models
     score: 50
     theme: model-support
@@ -92,7 +88,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health appears as a new space in the ChatGPT sidebar]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health appears as a new space in the ChatGPT sidebar]] · Interface Experience
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

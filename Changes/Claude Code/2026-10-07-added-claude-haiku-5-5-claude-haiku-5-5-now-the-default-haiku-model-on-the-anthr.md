@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2306870fca0ed82456ea6b57a93436310778ada8826cfe11d4ceb1580482ec2a
+machine_hash: 9db74b1ec5631f639547e81a1d54d6b95ec0554e37601926cd1eacc8918083c7
 product: claude-code
 product_name: Claude Code
 record:
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-07 · ChatGPT · [[Changes/ChatGPT/2026-10-07-we-re-introducing-gpt-6-with-intelligent-ui-in-chatgpt-chatgpt-can-now-combine-t|GPT-6 and Intelligent UI in ChatGPT]]
-- Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-2-model-support-changes-in-v2-1-295|2 Model Support changes in v2.1.295]]
+- Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-3-model-support-changes-in-v2-1-295|3 Model Support changes in v2.1.295]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

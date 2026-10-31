@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9012f4b1a4f41dd08cbe8f84b50f06f8fee10186fc795f54a6780dba3f39c4be
+machine_hash: b1919bc63ae1795e7e15c5e8d5b0054e39032c8394b26d47cc884cd47d775ec9
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   try on clothing and accessories]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'
 source_type: github_releases
+superseded: true
 theme: memory
 title: 2 Memory and Personalization changes in v2.1.287
 type: change

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 28364a324cf21dc34f0b9bbb33cb33bdba452f1cfecfe2cdf5f107aaf1d87d88
+machine_hash: eff6ef41221308b3b174947326daf4454cab7823c185cf3814e3e4ed765f05dc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -73,7 +73,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload files and access model selector on mobile]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload files and access model selector on mobile]] · Model Support
 - [[Changes/ChatGPT/2025-06-12-sharing-chats-from-projects|Sharing chats from projects]] · Collaboration
 - [[Changes/ChatGPT/2025-06-12-starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d|Starting today, we’re adding several updates to projects in ChatGPT to help you do…]] · Collaboration
 - [[Changes/ChatGPT/2025-06-12-improvements-to-memory-to-reference-past-chats-in-a-project|Improvements to memory to reference past chats in a project]] · Memory and Personalization

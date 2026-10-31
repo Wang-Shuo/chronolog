@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 95bd73c0cabd4a9668186cdb7de91a6d0abdca5e792a5d0600e8747e4844c105
+machine_hash: d2731d34cfda7da027cf52b4f89c316d0ca88d6a51909084fcb92ca6a4b9d8a0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,10 +60,6 @@ record:
   source_type: chatgpt_changelog
   theme: model-support
   theme_matches:
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
   - matched_terms:
     - model
     score: 50

@@ -4,10 +4,10 @@ date: '2026-06-08'
 description: 'Claude Code · 2026-06-08 · Automation and Scheduling: `/workflows` now
   opens immediately even while a turn is in progress'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks
-    let you set up automated prompts that ChatGPT can run for you]]'
+  first_in_tracked: '[[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled
+    tasks in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 173
+  lag_days: 510
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 340710d5789b075bef34759f30371556a352ef043083df1432cdf41516417d3a
+machine_hash: 097d22ae9b93b64998ebe83b4e9a8d527556e51a7988190d146dd2bb9245e948
 product: claude-code
 product_name: Claude Code
 record:
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-12-17 · ChatGPT · [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks let you set up automated prompts that ChatGPT can run for you]]
+- Earliest same-theme entry in the tracked set: 2025-01-14 · ChatGPT · [[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled tasks in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

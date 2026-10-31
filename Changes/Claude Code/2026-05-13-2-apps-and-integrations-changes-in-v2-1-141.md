@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9b0881a23d17a254e4e82ef0c4714b4121f1fc8b7fb8771b4cdda63a9d9cbd30
+machine_hash: 69a6a0e3d9e8122752e60b97542333f2471c98001b229c6c4d30fa29c80e01dc
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   now warn when a default component folder (e.g. commands/) is silently…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: 2 Apps and Integrations changes in v2.1.141
 type: change

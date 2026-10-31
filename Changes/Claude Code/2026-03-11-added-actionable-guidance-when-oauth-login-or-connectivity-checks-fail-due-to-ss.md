@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 821d80db4fa9674d5beb7ba8457fca53c25e314b7485ba9db9094bb183cf08a7
+machine_hash: 8238d31a69450b99f347283a7e084543380f42ce3e4a5c7df680761ba6947cbe
 product: claude-code
 product_name: Claude Code
 record:
@@ -73,12 +73,11 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-03-11-improved-ide-detection-speed-at-startup|Improved IDE detection speed at startup]] · Reliability and Performance
 - [[Changes/Claude Code/2026-03-11-improved-voice-mode-to-automatically-retry-transient-connection-failures-during|Improved voice mode to automatically retry transient connection failures during…]] · Voice and Audio
 - [[Changes/Claude Code/2026-03-11-2-interface-experience-changes-in-v2-1-73|2 Interface Experience changes in v2.1.73]] · Interface Experience
+- [[Changes/Claude Code/2026-03-11-2-reliability-and-performance-changes-in-v2-1-73|2 Reliability and Performance changes in v2.1.73]] · Reliability and Performance
 - [[Changes/Claude Code/2026-03-11-fixed-freezes-and-100-cpu-loops-triggered-by-permission-prompts-for-complex-bash|Fixed freezes and 100% CPU loops triggered by permission prompts for complex bash commands]] · Safety and Privacy
 - [[Changes/Claude Code/2026-03-11-deprecated-output-style-command-use-config-instead-output-style-is-now-fixed-at|Deprecated /output-style command — use /config instead]] · Developer Workflow
-- [[Changes/Claude Code/2026-03-11-improved-clipboard-image-pasting-performance-on-macos|Improved clipboard image pasting performance on macOS]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-03-11-improved-the-remote-control-spawn-mode-selection-prompt-with-better-context|Improved the Remote Control spawn mode selection prompt with better context]] · Context Window
 - [[Changes/Claude Code/2026-03-11-2-model-support-changes-in-v2-1-73|2 Model Support changes in v2.1.73]] · Model Support
 <!-- chronolog:end -->

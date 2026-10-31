@@ -8,7 +8,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 03a8ea0580775584c833dce231ed6f3d7ca315ef76aff3584fbd0989fc3ecfa7
+machine_hash: 3a290016d57148c0d35d499f2e516d733619485ccd419b8e21300b1ae41cccaf
 product: cursor
 product_name: Cursor
 record:
@@ -70,7 +70,7 @@ Source: https://cursor.com/changelog/3-0
 - [[Changes/Cursor/2026-04-02-agent-tabs-in-the-editor|Agent Tabs in the Editor]] · Editor Experience
 - [[Changes/Cursor/2026-04-02-agents-window-da5689|Agents Window]] · Agent Mode
 - [[Changes/Cursor/2026-04-02-past-chat-transcripts-are-now-surfaced-directly-in-at-mention-search-results|Past chat transcripts are now surfaced directly in at-mention search results]] · Search and Browsing
-- [[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file diff rendering is now much faster, smoother, and less memory-heavy]] · Memory and Personalization
+- [[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file diff rendering is now much faster, smoother, and less memory-heavy]] · Reliability and Performance
 - [[Changes/Cursor/2026-04-02-2-apps-and-integrations-changes-in-3-0|2 Apps and Integrations changes in 3.0]] · Apps and Integrations
 <!-- chronolog:end -->
 

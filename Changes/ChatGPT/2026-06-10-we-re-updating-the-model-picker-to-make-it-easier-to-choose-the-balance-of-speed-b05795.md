@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8acc82c9a6d7f7f37bf46409c3c868c4dc9c8d6be0994c155f22a3696391ab64
+machine_hash: 330cd805450f4bcd6c9353f0f054f40817ddca47882898e27e07bbef063db53a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -76,10 +76,10 @@ record:
     speed…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-08-improvement-to-charts-table-of-contents-and-full-screen-writing-also-fixes-long|Improvement
-  to charts, table of contents and full screen writing]]'
 - '[[Changes/ChatGPT/2026-06-08-table-of-contents-in-longer-conversations-conversations-longer-than-five-respons|Table
   of contents in longer conversations]]'
+- '[[Changes/ChatGPT/2026-06-08-cleaned-up-logged-out-mobile-web-experience-logged-out-users-now-see-a-composer|Cleaned
+  up logged-out mobile web experience]]'
 - '[[Changes/Claude Code/2026-06-08-2-interface-experience-changes-in-v2-1-169|2 Interface
   Experience changes in v2.1.169]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba|chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba]]'

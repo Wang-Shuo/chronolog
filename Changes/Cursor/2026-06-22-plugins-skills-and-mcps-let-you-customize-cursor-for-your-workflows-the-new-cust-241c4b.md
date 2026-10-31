@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5bad9020c7676bb3ee39e2318fd5e1095dff8aa66ca033c64b4585ba3f37f7a0
+machine_hash: a1ddd4c4fb52aa8a8022072f1b9706462fd901ff74cf570ae6a31edd0184db0f
 product: cursor
 product_name: Cursor
 record:
@@ -80,7 +80,7 @@ type: change
 ## Also in this release
 
 - [[Changes/Cursor/2026-06-22-new-team-marketplaces|New Team Marketplaces]] · Collaboration
-- [[Changes/Cursor/2026-06-22-marketplace-leaderboard-654084|Marketplace leaderboard]] · Collaboration
+- [[Changes/Cursor/2026-06-22-marketplace-leaderboard-654084|Marketplace leaderboard]] · Apps and Integrations
 - [[Changes/Cursor/2026-06-22-plugin-canvases|Plugin canvases]] · Apps and Integrations
 <!-- chronolog:end -->
 

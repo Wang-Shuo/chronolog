@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: acb815f2cd072b628815ec140449059c9b4b1938d1ad34cc5c76f3a2822e63e9
+machine_hash: 3811ea2c9286878f8e1cd137a8688231be355764bc469474664e6eb983a7fa15
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,10 +64,6 @@ record:
     - agentic
     score: 50
     theme: agent-mode
-  - matched_terms:
-    - apps
-    score: 50
-    theme: apps-integrations
   - matched_terms:
     - tab
     score: 50

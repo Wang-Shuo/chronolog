@@ -1,23 +1,23 @@
 ---
 card_id: cursor-2026-06-04-b7e396
 date: '2026-06-04'
-description: 'Cursor · 2026-06-04 · Collaboration: With canvases, agents can create
-  interactive artifacts like dashboards, reports, and internal tools that you can
-  share…'
+description: 'Cursor · 2026-06-04 · Agent Mode: With canvases, agents can create interactive
+  artifacts like dashboards, reports, and internal tools that you can share with…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1107
+  lag_days: 1064
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: collaboration
+  theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9192607d6d753a73d588937ef92954512af8fd0a8bf59cfd5d5c41f2f8dd9c6e
+machine_hash: 112338e83c7fa9b55f77c90290ae6f0fcd4317f907906563457f9321a60e5689
 product: cursor
 product_name: Cursor
 record:
@@ -39,27 +39,16 @@ record:
   slug: with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an
   source_release: cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85
   source_type: cursor_changelog
-  theme: collaboration
-  theme_matches:
-  - matched_terms:
-    - agents
-    score: 50
-    theme: agent-mode
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
-  theme_resolution: manual-semantic-rule-v1
+  theme: agent-mode
   title: With canvases, agents can create interactive artifacts like dashboards, reports…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-03-3-collaboration-changes-in-organizations-for-cursor-enterprise|3
-  Collaboration changes in Organizations for Cursor Enterprise]]'
-- '[[Changes/Cursor/2026-06-03-groups-are-a-lightweight-collection-of-users-that-can-sit-across-or-within-teams|Groups]]'
-- '[[Changes/Cursor/2026-06-03-teams|Teams]]'
+- '[[Changes/Cursor/2026-06-04-jsonl-and-custom-stores|JSONL and custom stores]]'
+- '[[Changes/Cursor/2026-06-04-auto-review|Auto-review]]'
+- '[[Changes/Cursor/2026-06-04-nested-subagents|Nested subagents]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85|cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85]]'
 source_type: cursor_changelog
-theme: collaboration
+theme: agent-mode
 title: With canvases, agents can create interactive artifacts like dashboards, reports…
 type: change
 ---
@@ -67,7 +56,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # With canvases, agents can create interactive artifacts like dashboards, reports…
 
-**Cursor** · 2026-06-04 · [[Themes/collaboration|Collaboration]] · [Official source](https://cursor.com/changelog/canvas-improvements) · from [[Releases/Cursor/cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85|Canvas Design Mode and Context Usage Report]]
+**Cursor** · 2026-06-04 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/canvas-improvements) · from [[Releases/Cursor/cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85|Canvas Design Mode and Context Usage Report]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -89,16 +78,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Collaboration
+## Nearby in Agent Mode
 
-- Earlier: 2026-06-03 · Cursor · [[Changes/Cursor/2026-06-03-teams|Teams]]
-- Later: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World Cup updates]]
+- Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-nested-subagents|Nested subagents]]
+- Later: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-5-agent-mode-changes-in-custom-stores-custom-tools|5 Agent Mode changes in Custom stores, custom tools…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

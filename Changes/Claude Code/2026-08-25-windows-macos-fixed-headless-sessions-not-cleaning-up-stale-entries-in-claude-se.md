@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1219da51a9bd90b26332f41928f323897e3ceda494e14873ca156f963385042d
+machine_hash: 58fa5ca0a85d556175154c9f760157448587f8430e6e3a1a471998d22f3050df
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 'Windows/macOS: Fixed headless sessions not cleaning up stale entries…'
   type: change
 related_changes:
+- '[[Changes/Claude Code/2026-08-20-improved-startup-bare-claude-starts-sooner-on-macos|Improved
+  startup: bare claude starts sooner on macOS]]'
 - '[[Changes/Claude Code/2026-08-21-remote-sessions-images-uploaded-from-mobile-now-include-their-saved-file-path-so|Remote
   sessions: images uploaded from mobile now include their saved file path…]]'
 - '[[Changes/Claude Code/2026-08-21-windows-cross-session-messaging-is-now-available-so-claude-code-sessions-across|Windows:
   cross-session messaging is now available, so Claude Code sessions across…]]'
-- '[[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Create
-  webhook-triggered tasks]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0|claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-25 · ChatGPT · [[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Create webhook-triggered tasks]]
-- Later: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-improved-amazon-bedrock-session-start-under-claude-code-provider-managed-by-host|Improved Amazon Bedrock session start under CLAUDE_CODE_PROVIDER_MANAGED_BY_HOST…]]
+- Earlier: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-windows-cross-session-messaging-is-now-available-so-claude-code-sessions-across|Windows: cross-session messaging is now available, so Claude Code sessions across…]]
+- Later: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o|Share your stickers in messaging apps]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

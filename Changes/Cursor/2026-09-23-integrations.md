@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 4cb687b36c34694a47bf4021d98bf76d9996abd76894e0836c59f4ca94eab701
+machine_hash: 136db9532c8bcbfc408526a496cc02d4cb1654c1b8a6c6e449559df4804ccdda
 product: cursor
 product_name: Cursor
 record:
@@ -51,7 +51,7 @@ related_changes:
   Apps and Integrations changes in v2.1.277]]'
 - '[[Changes/Claude Code/2026-09-22-8-apps-and-integrations-changes-in-v2-1-280|8
   Apps and Integrations changes in v2.1.280]]'
-- '[[Changes/Claude Code/2026-09-23-18-apps-and-integrations-changes-in-v2-1-281|18
+- '[[Changes/Claude Code/2026-09-23-17-apps-and-integrations-changes-in-v2-1-281|17
   Apps and Integrations changes in v2.1.281]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb|cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb]]'
 source_type: cursor_changelog
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-18-apps-and-integrations-changes-in-v2-1-281|18 Apps and Integrations changes in v2.1.281]]
+- Earlier: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-17-apps-and-integrations-changes-in-v2-1-281|17 Apps and Integrations changes in v2.1.281]]
 - Later: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-8-apps-and-integrations-changes-in-v2-1-282|8 Apps and Integrations changes in v2.1.282]]
 <!-- chronolog:end -->
 

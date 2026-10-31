@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6f27c36839646c022506fb8533864730c82b4b5687146b621ac6285fff2219c3
+machine_hash: 4cc328c8fa7c06333a31dadf74701240461fed1e92e4091e679fb5e871fa0012
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,6 +61,7 @@ related_changes:
   locked chats]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-20-v2-1-305-github-418781864-90995baa|claude-code-2026-10-20-v2-1-305-github-418781864-90995baa]]'
 source_type: github_releases
+superseded: true
 theme: mobile-desktop
 title: Changed plugins that Claude Desktop mounts by path to no longer keep…
 type: change

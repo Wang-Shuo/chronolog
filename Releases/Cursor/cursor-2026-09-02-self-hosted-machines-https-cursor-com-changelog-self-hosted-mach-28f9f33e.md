@@ -2,8 +2,8 @@
 changes_count: 3
 date: '2026-09-02'
 description: 'Cursor release Self-hosted machines on 2026-09-02: 3 tracked changes
-  across Agent Mode, Mobile and Desktop'
-machine_hash: a9e37dfa775e4ecd396b8298251e045744dee2d3e9ae8f9fc632879a749a56ce
+  across Agent Mode'
+machine_hash: 4dd5a06905a101347a333efdb4a22472f637b07b03a0ca898c94e5d2fc320d91
 product: cursor
 product_name: Cursor
 record:
@@ -45,6 +45,6 @@ Tracked 3 cards from 7 candidate lines; 3 lines pending review.
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - [[Changes/Cursor/2026-09-02-run-on-your-sandboxes|Run on your sandboxes]] · Agent Mode · Launch
-- [[Changes/Cursor/2026-09-02-computer-use-on-linux-and-mac|Computer use on Linux and Mac]] · Mobile and Desktop · Launch
+- [[Changes/Cursor/2026-09-02-computer-use-on-linux-and-mac|Computer use on Linux and Mac]] · Agent Mode · Launch
 - [[Changes/Cursor/2026-09-02-cursor-supports-self-hosted-machines-which-let-you-keep-tool-execution-entirely|Cursor supports self-hosted machines, which let you keep tool execution entirely…]] · Agent Mode
 <!-- chronolog:end -->

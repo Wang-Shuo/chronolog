@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 593fb9e6d65ae7d7079c41e7953fc613f3185a9feb41e16579594ab6357801d9
+machine_hash: 30964bf3083977e169eb04ce5dd3e8358daeb0ed1d17d001954e08524db4c64d
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,7 +50,7 @@ related_changes:
   Developer Workflow changes in New CLI Features and Improved CLI…]]'
 - '[[Changes/Claude Code/2026-01-09-improved-slash-command-suggestion-readability-by-truncating-long-descriptions-to|Improved
   slash command suggestion readability by truncating long descriptions to 2 lines]]'
-- '[[Changes/Claude Code/2026-01-09-3-developer-workflow-changes-in-v2-1-2|3 Developer
+- '[[Changes/Claude Code/2026-01-09-4-developer-workflow-changes-in-v2-1-2|4 Developer
   Workflow changes in v2.1.2]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-12-v2-1-5-github-276118083-94c73a96|claude-code-2026-01-12-v2-1-5-github-276118083-94c73a96]]'
 source_type: github_releases
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-3-developer-workflow-changes-in-v2-1-2|3 Developer Workflow changes in v2.1.2]]
+- Earlier: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-4-developer-workflow-changes-in-v2-1-2|4 Developer Workflow changes in v2.1.2]]
 - Later: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-3-developer-workflow-changes-in-v2-1-6|3 Developer Workflow changes in v2.1.6]]
 <!-- chronolog:end -->
 

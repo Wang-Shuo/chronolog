@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3f8c29247b29aab33cf733d77ee5532ba0fe9d9eb69c3e2ab6f0de899a70b05b
+machine_hash: ea400bbbcc67c184f00add80e431e30b34437a36667cca313dcb3f606c709c2e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,8 +45,8 @@ record:
   title: Improvement to charts, table of contents and full screen writing
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-03-2-interface-experience-changes-in-v2-1-162|2 Interface
-  Experience changes in v2.1.162]]'
+- '[[Changes/Claude Code/2026-06-03-clicking-a-slash-command-in-the-autocomplete-menu-now-fills-it-into-your-prompt|Clicking
+  a slash command in the autocomplete menu now fills it into your prompt…]]'
 - '[[Changes/Claude Code/2026-06-04-2-interface-experience-changes-in-v2-1-163|2 Interface
   Experience changes in v2.1.163]]'
 - '[[Changes/Cursor/2026-06-04-shared-canvases-can-now-be-opened-full-screen-in-the-browser-making-them-easier|Shared
@@ -80,7 +80,7 @@ type: change
 - [[Changes/ChatGPT/2026-06-08-long-press-send-to-choose-a-model-users-on-paid-plans-can-now-long-press-the-sen|Long-press send to choose a model]] · Model Support
 - [[Changes/ChatGPT/2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo|Full-screen writing blocks for longer-form work]] · Files and Data
 - [[Changes/ChatGPT/2026-06-08-immediate-image-previews-after-sending-when-you-upload-an-image-on-ios-chatgpt-u|Immediate image previews after sending]] · Mobile and Desktop
-- [[Changes/ChatGPT/2026-06-08-cleaned-up-logged-out-mobile-web-experience-logged-out-users-now-see-a-composer|Cleaned up logged-out mobile web experience]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-06-08-cleaned-up-logged-out-mobile-web-experience-logged-out-users-now-see-a-composer|Cleaned up logged-out mobile web experience]] · Interface Experience
 - [[Changes/ChatGPT/2026-06-08-edit-messages-with-attachments-you-can-now-edit-messages-that-include-attachment|Edit messages with attachments]] · Editor Experience
 <!-- chronolog:end -->
 

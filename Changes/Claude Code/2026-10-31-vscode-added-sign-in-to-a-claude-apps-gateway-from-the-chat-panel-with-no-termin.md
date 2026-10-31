@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c56f744ca58aa5e43c153913d802fc70f0baf57525b6a898d15afe143e269776
+machine_hash: 4dc1a68e18e16a79af2e5693c174fedc26bd63d75f5965b1ec36c6c850d55c58
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,6 @@ record:
     - sign in
     score: 60
     theme: account-access
-  - matched_terms:
-    - apps
-    score: 50
-    theme: apps-integrations
   - matched_terms:
     - terminal
     score: 50

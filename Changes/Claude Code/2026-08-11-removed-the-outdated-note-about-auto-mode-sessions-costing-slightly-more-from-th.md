@@ -1,23 +1,24 @@
 ---
 card_id: claude-code-2026-08-11-e2c732
 date: '2026-08-11'
-description: 'Claude Code · 2026-08-11 · Collaboration: Removed the outdated note
-  about auto mode sessions costing slightly more from the first-use notice for Pro,
-  Max, and…'
+description: 'Claude Code · 2026-08-11 · Agent Mode: Removed the outdated note about
+  auto mode sessions costing slightly more from the first-use notice for Pro, Max,
+  and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1175
+  lag_days: 1132
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: collaboration
+  theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c77f1ad0e1651b6d4e000874dea1ffc19dab60f07bfa9a378718ea9afcb9e529
+machine_hash: dd152929df4dce2736b803aec1babb739ee89a8f01868930ed069999444bfe89
 product: claude-code
 product_name: Claude Code
 record:
@@ -39,29 +40,18 @@ record:
   slug: removed-the-outdated-note-about-auto-mode-sessions-costing-slightly-more-from-th
   source_release: claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9
   source_type: github_releases
-  theme: collaboration
-  theme_matches:
-  - matched_terms:
-    - auto mode
-    score: 60
-    theme: agent-mode
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
-  theme_resolution: manual-semantic-rule-v1
+  theme: agent-mode
   title: Removed the outdated note about auto mode sessions costing slightly more…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-10-combined-all-remote-options-your-machines-team-pools-and-existing-remote-workspa|Combined
-  all remote options—your machines, team pools, and existing remote…]]'
-- '[[Changes/Cursor/2026-07-22-admin-controls-per-team-and-per-group-enablement-mode-restrictions-default-mode|Admin
-  controls: per-team and per-group enablement, mode restrictions, default mode…]]'
-- '[[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch
-  between teams that you belong to directly in the app]]'
+- '[[Changes/Cursor/2026-07-29-inbox|Inbox]]'
+- '[[Changes/Claude Code/2026-08-06-2-agent-mode-changes-in-v2-1-223|2 Agent Mode
+  changes in v2.1.223]]'
+- '[[Changes/Claude Code/2026-08-07-removed-the-200-subagent-per-session-spawn-cap-long-running-sessions-no-longer-r|Removed
+  the 200-subagent-per-session spawn cap]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9|claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9]]'
 source_type: github_releases
-theme: collaboration
+theme: agent-mode
 title: Removed the outdated note about auto mode sessions costing slightly more…
 type: change
 ---
@@ -69,7 +59,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Removed the outdated note about auto mode sessions costing slightly more…
 
-**Claude Code** · 2026-08-11 · [[Themes/collaboration|Collaboration]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.228) · from [[Releases/Claude Code/claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9|v2.1.228]]
+**Claude Code** · 2026-08-11 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.228) · from [[Releases/Claude Code/claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9|v2.1.228]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -89,16 +79,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Collaboration
+## Nearby in Agent Mode
 
-- Earlier: 2026-07-29 · Cursor · [[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch between teams that you belong to directly in the app]]
-- Later: 2026-08-13 · ChatGPT · [[Changes/ChatGPT/2026-08-13-the-initial-experience-includes-my-drive-and-files-and-folders-shared-directly-w|The initial experience includes My Drive and files and folders shared directly with you]]
+- Earlier: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-removed-the-200-subagent-per-session-spawn-cap-long-running-sessions-no-longer-r|Removed the 200-subagent-per-session spawn cap]]
+- Later: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-improved-workflow-fan-outs-to-stagger-same-prefix-sibling-agents-so-subsequent-a|Improved workflow fan-outs to stagger same-prefix sibling agents so subsequent…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 2f10fc83f2fc70e2c4e911122a8a9bba5843eceecdfadd67454ba3e3f4a0a267
+machine_hash: 6cd2981ed50e8423de3ed4e160a0af7f736b559f0f111c7dd103d28ebc29d133
 product: cursor
 product_name: Cursor
 record:
@@ -51,10 +51,6 @@ record:
     - agent
     score: 50
     theme: agent-mode
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
   - matched_terms:
     - menu
     score: 50

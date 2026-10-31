@@ -4,10 +4,10 @@ date: '2026-07-09'
 description: 'ChatGPT · 2026-07-09 · Enterprise and Administration: On web and mobile,
   Enterprise and Edu workspaces have a two-week preview period. Work is off by default…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
-    users can only access stable release (no pre-release)]]'
+  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
+    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 400
+  lag_days: 841
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9ac33f4eee1dcb06cc20dfc3945054086e1fd876304045a03c09307674da806f
+machine_hash: b83e109dcd33d1836ca97c9b934b79277e1cb9d28b5fe5fe5b31a42eb5247e14
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,16 +42,6 @@ record:
   source_release: chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272
   source_type: chatgpt_changelog
   theme: enterprise-admin
-  theme_matches:
-  - matched_terms:
-    - admins
-    - enterprise
-    score: 100
-    theme: enterprise-admin
-  - matched_terms:
-    - mobile
-    score: 50
-    theme: mobile-desktop
   title: On web and mobile, Enterprise and Edu workspaces have a two-week preview
     period
   type: change
@@ -99,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
+- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

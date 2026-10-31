@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 27fce6854f581fe8cd38c25b04f37a989290fb13a10243222bcf01e541ac6cb0
+machine_hash: 74148a164d73826e7a228d65d3f0469a95be3c1375d3fd06c18c513086aef175
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -59,18 +59,7 @@ record:
   source_release: chatgpt-2025-11-12-gpt-5-1-in-chatgpt-3b83bb2f
   source_type: chatgpt_changelog
   theme: model-support
-  theme_matches:
-  - matched_terms:
-    - gpt 5
-    - gpt 5 1
-    - model
-    - models
-    score: 230
-    theme: model-support
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
+  theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: GPT-5.1 in ChatGPT
   type: change

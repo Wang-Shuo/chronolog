@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7932d7b2355b4090475f3d6e6c431f116a822a6147a2cf89215ee372611d12ca
+machine_hash: dc56add004fb4df8d82a96ce971da412a0985f1a5a8237ab1dffa71dcead4a8d
 product: claude-code
 product_name: Claude Code
 record:
@@ -70,12 +70,11 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-10-09-cloud-sessions-added-a-status-filter-to-the-sessions-and-runners-lists-on-a-self|Cloud sessions Added a status filter to the Sessions and Runners lists…]] · Editor Experience
+- [[Changes/Claude Code/2026-10-09-3-editor-experience-changes-in-v2-1-296|3 Editor Experience changes in v2.1.296]] · Editor Experience
 - [[Changes/Claude Code/2026-10-09-3-developer-workflow-changes-in-v2-1-296|3 Developer Workflow changes in v2.1.296]] · Developer Workflow
 - [[Changes/Claude Code/2026-10-09-improved-transcript-toggle-ctrl-o-responsiveness-in-code-heavy-conversations-by|Improved transcript toggle (ctrl+o) responsiveness in code-heavy conversations…]] · Reliability and Performance
 - [[Changes/Claude Code/2026-10-09-4-safety-and-privacy-changes-in-v2-1-296|4 Safety and Privacy changes in v2.1.296]] · Safety and Privacy
 - [[Changes/Claude Code/2026-10-09-2-context-window-changes-in-v2-1-296|2 Context Window changes in v2.1.296]] · Context Window
-- [[Changes/Claude Code/2026-10-09-2-mobile-and-desktop-changes-in-v2-1-296|2 Mobile and Desktop changes in v2.1.296]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-10-09-3-agent-mode-changes-in-v2-1-296|3 Agent Mode changes in v2.1.296]] · Agent Mode
 - [[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price|Updated /cost, the status line, --max-budget-usd and the SDK's cost figures…]] · Pricing Model
 - [[Changes/Claude Code/2026-10-09-improved-the-errors-for-a-refused-cloud-session-they-now-say-why-your-organizati|Improved the errors for a refused cloud session]] · Account and Access

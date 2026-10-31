@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: c5389a3b6081659138e773e6973da7e276e8fea82103cf5dd4e83c7166c96b18
+machine_hash: 09cb16b0c4bfbff64d171342565493dc73d43bda0709f645b322349dce6528c5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,16 +56,6 @@ record:
   source_release: chatgpt-2025-11-03-chatgpt-go-promo-india-d9dd74b7
   source_type: chatgpt_changelog
   theme: pricing-model
-  theme_matches:
-  - matched_terms:
-    - android
-    score: 50
-    theme: mobile-desktop
-  - matched_terms:
-    - billing
-    score: 50
-    theme: pricing-model
-  theme_resolution: manual-semantic-rule-v1
   title: ChatGPT Go Promo - India
   type: change
 related_changes:

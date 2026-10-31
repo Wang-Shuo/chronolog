@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7d0f20b5bd6378686ba59cbb02147a6fc4fa9a8f6d28027916ad2527de3bc9d7
+machine_hash: 913e1bdea74172dc55e74c564334b032c68b57d5860fa92cd3ec0defd320115e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-07-14 · ChatGPT · [[Changes/ChatGPT/2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327|Search across chats, projects, and files is now supercharged]]
-- Later: 2026-07-29 · Cursor · [[Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and|A full review surface]]
+- Later: 2026-07-29 · Cursor · [[Changes/Cursor/2026-07-29-built-for-the-bigger-screen-98bf7a|Built for the bigger screen]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

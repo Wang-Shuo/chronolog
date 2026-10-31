@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9836248b5d967270ea168cec9634415dbdc425dea9e0787bf3535aabf40be546
+machine_hash: 400727280eb2d3bedb2b7c054dd7ec17abcd9d8fc213e0cd9f82a3b9adfbb839
 product: cursor
 product_name: Cursor
 record:
@@ -69,7 +69,7 @@ type: change
 >
 > Agent can now automatically run MCP tools with Yolo mode
 >
-> Configure Project Servers with <project-root>/.cursor/mcp.json
+> Configure Project Servers with \<project-root>/.cursor/mcp.json
 >
 > Support for Agent to use MCP resources as context
 >
@@ -81,14 +81,14 @@ type: change
 
 - [[Changes/Cursor/2025-02-19-2-apps-and-integrations-changes-in-0-46-x|2 Apps and Integrations changes in 0.46.x]] · Apps and Integrations
 - [[Changes/Cursor/2025-02-19-ignore-files-cursorignore-now-blocks-files-from-being-added-in-chat-or-sent-up-f|Ignore files: .cursorignore now blocks files from being added in chat or sent up…]] · Editor Experience
+- [[Changes/Cursor/2025-02-19-0-46-9-memory-and-performances-fixes-composer-chat-remembers-your-last-mode-sele|0.46.9: Memory and performances fixes, composer/chat remembers your last mode…]] · Memory and Personalization
 - [[Changes/Cursor/2025-02-19-ui-refresh-phase-one-of-a-fresh-coat-of-paint-with-new-default-cursor-themes-des|UI refresh: Phase one of a fresh coat of paint with new default Cursor themes…]] · Context Window
-- [[Changes/Cursor/2025-02-19-2-memory-and-personalization-changes-in-0-46-x|2 Memory and Personalization changes in 0.46.x]] · Memory and Personalization
-- [[Changes/Cursor/2025-02-19-0-46-7-improved-memory-usage-and-performance|0.46.7: Improved memory usage and performance]] · Reliability and Performance
 - [[Changes/Cursor/2025-02-19-tab-rebinding-tab-suggestions-can-now-be-rebound-to-a-different-keybinding-using|Tab rebinding: Tab suggestions can now be rebound to a different keybinding using…]] · Editor Experience
 - [[Changes/Cursor/2025-02-19-agent-is-ready-agent-is-now-the-default-mode-bringing-a-more-powerful-and-unifie|Agent is ready: Agent is now the default mode, bringing a more powerful and unified…]] · Agent Mode
 - [[Changes/Cursor/2025-02-19-agent-tool-limit-upon-reaching-the-25-tool-call-limit-you-can-press-continue-to|Agent tool limit]] · Agent Mode
 - [[Changes/Cursor/2025-02-19-web-search-agent-can-now-automatically-search-the-web-for-up-to-date-information|Web search: Agent can now automatically search the web for up-to-date information…]] · Search and Browsing
 - [[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface Experience changes in 0.46.x]] · Interface Experience
+- [[Changes/Cursor/2025-02-19-2-reliability-and-performance-changes-in-0-46-x|2 Reliability and Performance changes in 0.46.x]] · Reliability and Performance
 - [[Changes/Cursor/2025-02-19-2-other-changes-in-0-46-x|2 other changes in 0.46.x]] · Other changes
 <!-- chronolog:end -->
 

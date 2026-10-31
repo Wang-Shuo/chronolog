@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 0435440c1abda7f5341d458187bae734308c2ea90f24d8c26d3ed2eefefe6ce2
+machine_hash: 4fdcbfb9b0f1c8b9feb40fc1a48efb5620118f5265027c1b7033a2448bf888f2
 product: cursor
 product_name: Cursor
 record:
@@ -50,8 +50,8 @@ record:
   title: New Settings and Dashboard
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|More
-  accessible history]]'
+- '[[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a35dd7|Mobile
+  UI (iOS/Android) changing on Free/Plus/Pro plans]]'
 - '[[Changes/Cursor/2025-05-15-duplicate-chats|Duplicate Chats]]'
 - '[[Changes/ChatGPT/2025-06-03-memory-improvements-are-starting-to-roll-out-to-free-users-in-addition-to-the-sa-a02494|Memory
   improvements are starting to roll out to Free users]]'

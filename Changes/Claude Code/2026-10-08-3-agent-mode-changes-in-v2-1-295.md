@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8858b1fd49be4ed68a206b71a3224deb0dcd762eaeefc8378c38c565e30f08f6
+machine_hash: 2f37c30dc671de246950cf25c48fd7035cf8ce8ea7b7c8bfa64f6e46d6900e8d
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,6 +56,7 @@ related_changes:
   changes in v2.1.293]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'
 source_type: github_releases
+superseded: true
 theme: agent-mode
 title: 3 Agent Mode changes in v2.1.295
 type: change

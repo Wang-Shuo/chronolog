@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c03a5f9bd946e4c7ca77415faf47d1ab3cbb29e4002128da912d4ca6caa6c4a4
+machine_hash: bf12f621ecfdba7d2d1dcba393446cf6079c443e5b1b42097d45bc5806e6371c
 product: cursor
 product_name: Cursor
 record:
@@ -93,9 +93,8 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-10-13-origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security|Origin now integrates with over 20 apps for deployments, CI, code review, security…]] · Safety and Privacy
 - [[Changes/Cursor/2026-10-13-2-apps-and-integrations-changes-in-origin-app-marketplace|2 Apps and Integrations changes in Origin App Marketplace]] · Apps and Integrations
-- [[Changes/Cursor/2026-10-13-starting-today-the-marketplace-is-also-open-to-public-submissions-so-any-team-bu|Starting today, the marketplace is also open to public submissions, so any team…]] · Collaboration
+- [[Changes/Cursor/2026-10-13-origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security-99509e|Origin now integrates with over 20 apps for deployments, CI, code review, security…]] · Safety and Privacy
 - [[Changes/Cursor/2026-10-13-want-to-build-an-origin-app-start-with-the-publishing-guide-and-the-origin-api-r|Want to build an Origin app?]] · Other changes
 <!-- chronolog:end -->
 

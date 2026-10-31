@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 17f188bd44c3cef77daf538da6f2e38ca661e80d7b7e1e604f1485ad7ccb7250
+machine_hash: 713edcdc0e10a78876e22206bef0099750ac90051bb319dc3e221af44fef828f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,8 +49,8 @@ record:
   title: Enhanced memory rolling out to all Plus and Pro users (including the EU)
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-2-memory-and-personalization-changes-in-0-46-x|2 Memory
-  and Personalization changes in 0.46.x]]'
+- '[[Changes/Cursor/2025-02-19-0-46-9-memory-and-performances-fixes-composer-chat-remembers-your-last-mode-sele|0.46.9:
+  Memory and performances fixes, composer/chat remembers your last mode…]]'
 - '[[Changes/ChatGPT/2025-04-16-chatgpt-can-also-use-memories-to-inform-search-queries-when-chatgpt-searches-the|Memory
   with Search]]'
 - '[[Changes/ChatGPT/2025-05-08-saved-memories-and-chat-history-are-offered-only-to-plus-and-pro-accounts-free-t|Saved

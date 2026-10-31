@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c00d273b55f71b6d1e661cc2204dc72b2c2125104c3894b653143c88bfca5dee
+machine_hash: 7f0969f525e04e011d02587a21f8970891ebd97a6bd386532bc21364a02d0f6d
 product: claude-code
 product_name: Claude Code
 record:
@@ -77,10 +77,9 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.117
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-04-22-native-builds-on-macos-and-linux-the-glob-and-grep-tools-are-replaced-by-embedde|Native builds on macOS and Linux]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-04-22-2-developer-workflow-changes-in-v2-1-117|2 Developer Workflow changes in v2.1.117]] · Developer Workflow
 - [[Changes/Claude Code/2026-04-22-4-apps-and-integrations-changes-in-v2-1-117|4 Apps and Integrations changes in v2.1.117]] · Apps and Integrations
-- [[Changes/Claude Code/2026-04-22-windows-cached-where-exe-executable-lookups-per-process-for-faster-subprocess-la|Windows: cached where.exe executable lookups per process for faster subprocess launches]] · Reliability and Performance
+- [[Changes/Claude Code/2026-04-22-2-reliability-and-performance-changes-in-v2-1-117|2 Reliability and Performance changes in v2.1.117]] · Reliability and Performance
 - [[Changes/Claude Code/2026-04-22-opentelemetry-user-prompt-events-now-include-command-name-and-command-source-for|OpenTelemetry: user_prompt events now include command_name and command_source…]] · Pricing Model
 - [[Changes/Claude Code/2026-04-22-2-agent-mode-changes-in-v2-1-117|2 Agent Mode changes in v2.1.117]] · Agent Mode
 - [[Changes/Claude Code/2026-04-22-advisor-tool-experimental-dialog-now-carries-an-experimental-label-learn-more-li|Advisor Tool (experimental)]] · Other changes

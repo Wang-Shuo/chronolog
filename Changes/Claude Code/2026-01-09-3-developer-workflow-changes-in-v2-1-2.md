@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 703537eaf6d0d416cac8eb8686163e72b069e54e0ccb455e6a9dfd2447040d21
+machine_hash: cea5daf4b84b103026b3b8e0c877eaf03e359209856928342e69ca9d25bf4393
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,6 +54,7 @@ related_changes:
   slash command suggestion readability by truncating long descriptions to 2 lines]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-2-github-275344737-27089666|claude-code-2026-01-09-v2-1-2-github-275344737-27089666]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: 3 Developer Workflow changes in v2.1.2
 type: change

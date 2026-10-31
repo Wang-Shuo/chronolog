@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3d4bee7ca15bcbe9a093bd459e47b376c5d5399079afe4803dcadbe8c1549eee
+machine_hash: c0c94cd251114d78d4aba5f8bbec888f4a8b741a824dd66f7aea55953d820fef
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -67,10 +67,6 @@ record:
     - picker
     score: 100
     theme: interface-experience
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v2
   title: GPT-5.4 mini in ChatGPT
   type: change

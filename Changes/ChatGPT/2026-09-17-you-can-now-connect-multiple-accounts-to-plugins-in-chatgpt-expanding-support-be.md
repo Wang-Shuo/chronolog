@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 841ca1284908b8a0a0ad49573094695d8ccba9ee98aa6cf8efaa763de75fb968
+machine_hash: 0efc66bcef06410c93e9c9ff6bf2bf6e345efe404b49864854d0c7ca54a2acef
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -65,8 +65,8 @@ record:
 related_changes:
 - '[[Changes/Claude Code/2026-09-11-changed-skills-synced-from-claude-ai-in-cloud-sessions-to-be-named-anthropic-ski|Changed
   skills synced from claude.ai in cloud sessions to be named…]]'
-- '[[Changes/Claude Code/2026-09-14-2-mobile-and-desktop-changes-in-v2-1-271|2 Mobile
-  and Desktop changes in v2.1.271]]'
+- '[[Changes/Claude Code/2026-09-14-improved-mobile-to-show-a-single-qr-code-for-claude-ai-mobile-which-opens-the-ri|Improved
+  /mobile to show a single QR code for claude.ai/mobile, which opens…]]'
 - '[[Changes/Claude Code/2026-09-15-claude-code-on-the-web-removed-the-full-page-desktop-app-download-screen-that-ne|Claude
   Code on the web Removed the full-page desktop-app download screen that new…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-17-connect-multiple-accounts-to-plugins-in-chatgpt-4c1d9bb4|chatgpt-2026-09-17-connect-multiple-accounts-to-plugins-in-chatgpt-4c1d9bb4]]'

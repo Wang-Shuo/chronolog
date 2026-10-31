@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 34f07a3c0f6ac9bb39f85805a71af6b39dea1d72c8fc6f5d4036c28e43b0dc72
+machine_hash: 2261b8e97079fe7b45e0eb60188752247ef193bb0cb2f22d875a63adbfcc10e4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-08-14 · ChatGPT · [[Changes/ChatGPT/2026-08-14-we-ve-made-it-easier-to-study-with-interactive-quizzes-manage-project-memory-and|ChatGPT makes it easier to study with interactive quizzes, manage project memory…]]
-- Later: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-added-opt-in-memory-cgroup-support-for-bash-tool-commands-on-linux-claude-code-t|Added opt-in memory cgroup support for Bash tool commands on Linux…]]
+- Later: 2026-08-20 · ChatGPT · [[Changes/ChatGPT/2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee|Use Computer History in more regions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

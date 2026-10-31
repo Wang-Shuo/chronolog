@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 10b1901c2e8b4d1369fec8e7a3fe54667240ffa46fba35808945dcd2b39f193f
+machine_hash: 8ea22f43c8eb42ca05b080871c739b6956a57d66d6ab1829eefd081d1037cd10
 product: cursor
 product_name: Cursor
 record:
@@ -42,20 +42,6 @@ record:
   source_release: cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576
   source_type: cursor_changelog
   theme: safety-privacy
-  theme_matches:
-  - matched_terms:
-    - teams
-    score: 50
-    theme: collaboration
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
-  - matched_terms:
-    - security
-    score: 50
-    theme: safety-privacy
-  theme_resolution: manual-semantic-rule-v1
   title: Enterprise customers can now manage multiple Cursor teams from one place…
   type: change
 related_changes:
@@ -87,11 +73,12 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|Organizations]] · Collaboration
+- [[Changes/Cursor/2026-06-03-admins-can-move-users-between-teams-through-the-dashboard-api-or-csv|Admins can move users between teams through the dashboard, API, or CSV]] · Enterprise and Administration
+- [[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|Organizations]] · Enterprise and Administration
 - [[Changes/Cursor/2026-06-03-3-collaboration-changes-in-organizations-for-cursor-enterprise|3 Collaboration changes in Organizations for Cursor Enterprise]] · Collaboration
 - [[Changes/Cursor/2026-06-03-groups-are-a-lightweight-collection-of-users-that-can-sit-across-or-within-teams|Groups]] · Collaboration
 - [[Changes/Cursor/2026-06-03-teams|Teams]] · Collaboration
-- [[Changes/Cursor/2026-06-03-2-other-changes-in-organizations-for-cursor-enterprise|2 other changes in Organizations for Cursor Enterprise]] · Other changes
+- [[Changes/Cursor/2026-06-03-organization-level-idp-management|Organization-level IDP management]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: bf425650d4ba53b9fdda6deb072405445c9d278e0e86a42ca17bbacd054806c6
+machine_hash: c119bdce9298b4ceefa43d1e154756493a31c4d8a8db1c621705c9ff463602c8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,8 +50,8 @@ related_changes:
   automatically saves useful context to auto-memory]]'
 - '[[Changes/Claude Code/2026-02-28-project-configs-auto-memory-now-shared-across-git-worktrees-of-the-same-reposito|Project
   configs & auto memory now shared across git worktrees of the same repository]]'
-- '[[Changes/Claude Code/2026-03-12-2-memory-and-personalization-changes-in-v2-1-74|2
-  Memory and Personalization changes in v2.1.74]]'
+- '[[Changes/Claude Code/2026-03-12-added-automemorydirectory-setting-to-configure-a-custom-directory-for-auto-memor|Added
+  autoMemoryDirectory setting to configure a custom directory for auto-memory…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-17-sunsetting-the-nerdy-base-style-f0e6829f|chatgpt-2026-03-17-sunsetting-the-nerdy-base-style-f0e6829f]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-03-12 · Claude Code · [[Changes/Claude Code/2026-03-12-2-memory-and-personalization-changes-in-v2-1-74|2 Memory and Personalization changes in v2.1.74]]
+- Earlier: 2026-03-12 · Claude Code · [[Changes/Claude Code/2026-03-12-added-automemorydirectory-setting-to-configure-a-custom-directory-for-auto-memor|Added autoMemoryDirectory setting to configure a custom directory for auto-memory…]]
 - Later: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-memory-filenames-in-the-saved-n-memories-notice-now-highlight-on-hover-and-open|Memory filenames in the "Saved N memories" notice now highlight on hover and open on click]]
 <!-- chronolog:end -->
 

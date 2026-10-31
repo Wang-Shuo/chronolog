@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: affd4c5387c2beea323dbe9b997986c069a69e3138a7be13c482d43a8bcdaf95
+machine_hash: 893ee21e4290745b0bba971415614764e8fba3131a76cf5edd2fca18a467480d
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,7 +53,7 @@ related_changes:
   Apps and Integrations changes in v2.1.302]]'
 - '[[Changes/Claude Code/2026-10-19-8-apps-and-integrations-changes-in-v2-1-304|8
   Apps and Integrations changes in v2.1.304]]'
-- '[[Changes/Claude Code/2026-10-20-3-apps-and-integrations-changes-in-v2-1-305|3
+- '[[Changes/Claude Code/2026-10-20-4-apps-and-integrations-changes-in-v2-1-305|4
   Apps and Integrations changes in v2.1.305]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d|claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d]]'
 source_type: github_releases
@@ -96,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.307
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-20 · Claude Code · [[Changes/Claude Code/2026-10-20-3-apps-and-integrations-changes-in-v2-1-305|3 Apps and Integrations changes in v2.1.305]]
+- Earlier: 2026-10-20 · Claude Code · [[Changes/Claude Code/2026-10-20-4-apps-and-integrations-changes-in-v2-1-305|4 Apps and Integrations changes in v2.1.305]]
 - Later: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-2-apps-and-integrations-changes-in-v2-1-309|2 Apps and Integrations changes in v2.1.309]]
 <!-- chronolog:end -->
 

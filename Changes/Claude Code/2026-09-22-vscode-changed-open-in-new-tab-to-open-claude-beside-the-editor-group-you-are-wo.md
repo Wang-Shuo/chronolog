@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5c74773ed0c1f05c8ac0e8b6db209a59b43e482443e888b180b8e1ee420ec077
+machine_hash: 536f6709fc4b0294b0f9c84d11f1e2b923d07d44cb41ce42bb062c3526482d60
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,8 +50,8 @@ related_changes:
   Experience changes in v2.1.275]]'
 - '[[Changes/Claude Code/2026-09-17-vscode-added-a-claudecode-lockeditorgroups-setting-to-stop-claude-from-locking-t|VSCode
   Added a claudeCode.lockEditorGroups setting to stop Claude from locking…]]'
-- '[[Changes/Claude Code/2026-09-18-removed-the-background-haiku-auto-title-request-from-claude-p-runs-launched-outs|Removed
-  the background Haiku auto-title request from claude -p runs launched…]]'
+- '[[Changes/Claude Code/2026-09-18-2-editor-experience-changes-in-v2-1-277|2 Editor
+  Experience changes in v2.1.277]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b]]'
 source_type: github_releases
 theme: editor-experience
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-removed-the-background-haiku-auto-title-request-from-claude-p-runs-launched-outs|Removed the background Haiku auto-title request from claude -p runs launched…]]
+- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-2-editor-experience-changes-in-v2-1-277|2 Editor Experience changes in v2.1.277]]
 - Later: 2026-09-28 · ChatGPT · [[Changes/ChatGPT/2026-09-28-you-can-now-select-a-chart-metric-or-record-in-the-health-tab-to-get-personalize|Explore your health data with personalized summaries]]
 <!-- chronolog:end -->
 

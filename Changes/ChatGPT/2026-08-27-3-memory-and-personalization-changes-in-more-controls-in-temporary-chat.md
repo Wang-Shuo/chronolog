@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9d08fe51eeeab254c6fb9baf1d97a3499b1659e638ad473cd8d7454250bf4929
+machine_hash: 774563b6ebc5a6e27cc62eb2c692224f4dafbae031c93c97cf043156422612d6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,10 +58,10 @@ record:
   title: 3 Memory and Personalization changes in More controls in temporary chat
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-14-added-opt-in-memory-cgroup-support-for-bash-tool-commands-on-linux-claude-code-t|Added
-  opt-in memory cgroup support for Bash tool commands on Linux…]]'
-- '[[Changes/Claude Code/2026-08-18-improved-the-embedded-grep-in-native-macos-linux-builds-pathological-patterns-no|Improved
-  the embedded grep in native macOS/Linux builds]]'
+- '[[Changes/ChatGPT/2026-08-14-you-can-now-change-a-project-s-memory-setting-after-you-create-it-open-the-proje-b36ffe|Edit
+  memory settings for existing projects]]'
+- '[[Changes/ChatGPT/2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee|Use
+  Computer History in more regions]]'
 - '[[Changes/Claude Code/2026-08-20-updated-the-bundled-claude-api-skill-for-the-managed-agents-aug-19-release-web-s|Updated
   the bundled claude-api skill for the Managed Agents Aug 19 release]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-27-more-controls-in-temporary-chat-5ca95d13|chatgpt-2026-08-27-more-controls-in-temporary-chat-5ca95d13]]'

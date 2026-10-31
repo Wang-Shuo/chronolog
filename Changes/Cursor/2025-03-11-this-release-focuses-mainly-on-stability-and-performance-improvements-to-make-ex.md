@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6b797d4a0b890587a3fa26536249d03a3e29ab3fd6df13f3f2ee60a0ca9bc93d
+machine_hash: 9512310647929541276e5c1ca7a86906532b081a87ae4ab14794aac05e2c86f7
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,8 @@ record:
     make…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-0-46-7-improved-memory-usage-and-performance|0.46.7:
-  Improved memory usage and performance]]'
+- '[[Changes/Cursor/2025-02-19-2-reliability-and-performance-changes-in-0-46-x|2 Reliability
+  and Performance changes in 0.46.x]]'
 - '[[Changes/ChatGPT/2025-02-21-text-selection-improvements-you-can-now-select-text-across-horizontal-rulers-3-p|Text
   selection improvements: you can now select text across horizontal rulers]]'
 - '[[Changes/Cursor/2025-03-11-5-reliability-and-performance-changes-in-0-47-x|5 Reliability
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-02-21 · ChatGPT · [[Changes/ChatGPT/2025-02-21-text-selection-improvements-you-can-now-select-text-across-horizontal-rulers-3-p|Text selection improvements: you can now select text across horizontal rulers]]
-- Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-in-line-message-error-retries-if-you-encounter-a-message-error-you-can-retry-or|In-line message error retries]]
+- Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and|We have been working on a variety of usability and performance improvements and bug…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

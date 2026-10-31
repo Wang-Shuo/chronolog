@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4786d6851ca8c18586d441612fdd81b55b641d20e0cca04dcdb68bd89ffc58e6
+machine_hash: 83d7f985535261399f69f53c51c7a64673e95da44d95311978f2db1acbde3329
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,7 +55,7 @@ record:
   title: 5 Safety and Privacy changes in v2.1.301
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-13-origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security|Origin
+- '[[Changes/Cursor/2026-10-13-origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security-99509e|Origin
   now integrates with over 20 apps for deployments, CI, code review, security…]]'
 - '[[Changes/Claude Code/2026-10-14-2-safety-and-privacy-changes-in-v2-1-300|2 Safety
   and Privacy changes in v2.1.300]]'
@@ -93,10 +93,10 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.301
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-10-15-2-developer-workflow-changes-in-v2-1-301|2 Developer Workflow changes in v2.1.301]] · Developer Workflow
 - [[Changes/Claude Code/2026-10-15-2-interface-experience-changes-in-v2-1-301|2 Interface Experience changes in v2.1.301]] · Interface Experience
-- [[Changes/Claude Code/2026-10-15-2-mobile-and-desktop-changes-in-v2-1-301|2 Mobile and Desktop changes in v2.1.301]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-10-15-improved-artifacts-pages-claude-writes-now-paint-the-band-above-a-sticky-header|Improved artifacts: pages Claude writes now paint the band above a sticky header…]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-10-15-improved-switching-to-a-model-with-a-smaller-context-window-a-conversation-too-l|Improved switching to a model with a smaller context window]] · Context Window
-- [[Changes/Claude Code/2026-10-15-added-rows-to-a-mod-s-input-a-text-field-of-several-lines-in-the-terminal-where|Added rows to a mod's Input]] · Developer Workflow
 - [[Changes/Claude Code/2026-10-15-7-other-changes-in-v2-1-301|7 other changes in v2.1.301]] · Other changes
 <!-- chronolog:end -->
 

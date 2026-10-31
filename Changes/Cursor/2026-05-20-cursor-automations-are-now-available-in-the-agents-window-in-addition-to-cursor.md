@@ -5,10 +5,10 @@ description: 'Cursor · 2026-05-20 · Automation and Scheduling: Cursor Automati
   are now available in the Agents Window, in addition to cursor.com/automations. Create
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks
-    let you set up automated prompts that ChatGPT can run for you]]'
+  first_in_tracked: '[[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled
+    tasks in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 154
+  lag_days: 491
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 90180d46818724e5debcd3b0bb748e6923fb08d5c9ff5935920272e7bb93526b
+machine_hash: 785b2c07966fffddcd5db935c38c1ce0145f7c32573c48c3b713ac9aa82d7b42
 product: cursor
 product_name: Cursor
 record:
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-12-17 · ChatGPT · [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks let you set up automated prompts that ChatGPT can run for you]]
+- Earliest same-theme entry in the tracked set: 2025-01-14 · ChatGPT · [[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled tasks in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

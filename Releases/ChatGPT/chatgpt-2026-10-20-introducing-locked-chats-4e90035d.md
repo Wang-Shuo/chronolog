@@ -2,8 +2,8 @@
 changes_count: 1
 date: '2026-10-20'
 description: 'ChatGPT release Introducing locked chats on 2026-10-20: 1 tracked change
-  across Mobile and Desktop'
-machine_hash: 566c580ef93022a0faafa798552f9d590a4f9809676bb2f3d84fb178bf74d147
+  across Account and Access'
+machine_hash: 0a733d32dcace493e53ec44411fa26b1f5cf13c5ff21891ef2fcd6cd69c21e7b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,5 +47,5 @@ Tracked 1 card from 1 candidate line.
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-10-20-locked-chats-let-you-keep-selected-conversations-in-your-account-while-hiding-th|Introducing locked chats]] · Mobile and Desktop · Launch
+- [[Changes/ChatGPT/2026-10-20-locked-chats-let-you-keep-selected-conversations-in-your-account-while-hiding-th|Introducing locked chats]] · Account and Access · Launch
 <!-- chronolog:end -->

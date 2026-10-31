@@ -5,10 +5,10 @@ description: 'Cursor · 2026-04-02 · Automation and Scheduling: Reduced the bro
   automation tool surface and tightened the subagent to use browser tools only, helping
   it…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks
-    let you set up automated prompts that ChatGPT can run for you]]'
+  first_in_tracked: '[[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled
+    tasks in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 106
+  lag_days: 443
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9116980853db01ac82aeae71f96ba287b7bb361472b568b2a54ca71af4583cb3
+machine_hash: 3a8fcee085d2c90b8c55904c705869e1408d65962e5822a816c317321de8ee44
 product: cursor
 product_name: Cursor
 record:
@@ -97,7 +97,7 @@ type: change
 - [[Changes/Cursor/2026-04-02-agent-tabs-in-the-editor|Agent Tabs in the Editor]] · Editor Experience
 - [[Changes/Cursor/2026-04-02-agents-window-da5689|Agents Window]] · Agent Mode
 - [[Changes/Cursor/2026-04-02-past-chat-transcripts-are-now-surfaced-directly-in-at-mention-search-results|Past chat transcripts are now surfaced directly in at-mention search results]] · Search and Browsing
-- [[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file diff rendering is now much faster, smoother, and less memory-heavy]] · Memory and Personalization
+- [[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file diff rendering is now much faster, smoother, and less memory-heavy]] · Reliability and Performance
 - [[Changes/Cursor/2026-04-02-2-apps-and-integrations-changes-in-3-0|2 Apps and Integrations changes in 3.0]] · Apps and Integrations
 - [[Changes/Cursor/2026-04-02-2-other-changes-in-3-0|2 other changes in 3.0]] · Other changes
 <!-- chronolog:end -->
@@ -112,7 +112,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-12-17 · ChatGPT · [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks let you set up automated prompts that ChatGPT can run for you]]
+- Earliest same-theme entry in the tracked set: 2025-01-14 · ChatGPT · [[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled tasks in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

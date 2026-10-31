@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 236b3a069c19033aaf6ebf6be3854981773a267f2b8ba5a06a6a6d9f286e6e6d
+machine_hash: 407c0f8c8e0c374724e27920a0f7966e2a64501cb3d8d5e928a6cbb0acd0c65b
 product: claude-code
 product_name: Claude Code
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.292
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-4-agent-mode-changes-in-v2-1-290|4 Agent Mode changes in v2.1.290]]
-- Later: 2026-10-06 · Cursor · [[Changes/Cursor/2026-10-06-remote-control-doesn-t-move-your-agents-anywhere-it-keeps-running-on-your-comput|Agents keep running on your computer]]
+- Later: 2026-10-06 · Cursor · [[Changes/Cursor/2026-10-06-you-can-now-see-and-reply-to-the-local-agents-running-on-your-computer-from-the|See and reply to the local agents running on your computer from the Cursor iOS app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

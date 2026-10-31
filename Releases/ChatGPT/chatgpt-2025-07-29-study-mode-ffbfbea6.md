@@ -1,9 +1,9 @@
 ---
-changes_count: 4
+changes_count: 2
 date: '2025-07-29'
-description: 'ChatGPT release Study Mode on 2025-07-29: 4 tracked changes across Learning
-  Tools, Memory and Personalization, Mobile and Desktop'
-machine_hash: 1e4b2e3493cfb56c631a4ec60864eed44153e024e9f6fb2eda999bbe803d1b5e
+description: 'ChatGPT release Study Mode on 2025-07-29: 2 tracked changes across Learning
+  Tools, Memory and Personalization'
+machine_hash: b92b1cc7a9a67c2563ec6f16cd794ad030307136e0d2808e6e8396c8f32e1882
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,13 +41,11 @@ version: Study Mode
 <!-- chronolog:begin region="summary" -->
 Study mode is currently available to users in Free, Plus, Pro, and Teams plans globally and will expand to Edu plans in the coming weeks. Study mode works with any model available in ChatGPT on iOS, Android, web, and desktop.Study mode is a new learning experience in ChatGPT designed to help you build a deeper…
 
-Tracked 4 cards from 7 candidate lines.
+Tracked 2 cards from 7 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-07-29-break-concepts-into-easy-to-follow-sections-starting-simple-and-adding-complexit|Break concepts into easy to follow sections starting simple and adding complexity…]] · Learning Tools
-- [[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-6e22f0|Study mode is currently available to users in Free, Plus, Pro, and Teams plans…]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-4b5d0a|Study mode is currently available to users in Free, Plus, Pro, and Teams plans…]] · Learning Tools
 - [[Changes/ChatGPT/2025-07-29-personalize-responses-based-on-your-past-chats-if-memory-is-on-using-examples-an|Personalize responses based on your past chats if memory is on, using examples…]] · Memory and Personalization
-- [[Changes/ChatGPT/2025-07-29-guide-understanding-with-socratic-style-questions|Guide understanding with Socratic-style questions]] · Learning Tools
 <!-- chronolog:end -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2d7c8cd97b03ddd51d470d0292a27f14d8abc43bcc6e713d28c1aa2cc8402ca0
+machine_hash: 74444c7eaa075bc9668cac8c790aa4c6b85f03babf8d98f8a7d01b6e11d5154b
 product: claude-code
 product_name: Claude Code
 record:
@@ -113,7 +113,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.234
 ## Also in this release
 
 - [[Changes/Claude Code/2026-08-17-2-model-support-changes-in-v2-1-234|2 Model Support changes in v2.1.234]] · Model Support
-- [[Changes/Claude Code/2026-08-17-2-apps-and-integrations-changes-in-v2-1-234|2 Apps and Integrations changes in v2.1.234]] · Apps and Integrations
+- [[Changes/Claude Code/2026-08-17-remote-control-effort-picks-made-on-a-phone-or-on-claude-ai-code-now-apply-to-te|Remote Control: effort picks made on a phone or on claude.ai/code now apply…]] · Developer Workflow
+- [[Changes/Claude Code/2026-08-17-remote-control-signing-this-computer-in-to-a-different-claude-ai-account-or-orga|Remote Control: signing this computer in to a different claude.ai account…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-08-17-2-context-window-changes-in-v2-1-234|2 Context Window changes in v2.1.234]] · Context Window
 - [[Changes/Claude Code/2026-08-17-3-interface-experience-changes-in-v2-1-234|3 Interface Experience changes in v2.1.234]] · Interface Experience
 - [[Changes/Claude Code/2026-08-17-removed-the-redundant-allowed-by-auto-mode-classifier-line-that-auto-mode-showed|Removed the redundant "Allowed by auto mode classifier" line that auto mode showed…]] · Agent Mode

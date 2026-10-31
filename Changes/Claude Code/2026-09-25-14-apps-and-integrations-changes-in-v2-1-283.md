@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e9efed8556dd474593e74582ff22795c95a78616e780fbc5c83c9e92944e9217
+machine_hash: e7eb3749459e3d79542b829edad5432dbc2537669a3915f641a1f557e92ae0e4
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,7 +87,7 @@ record:
   title: 14 Apps and Integrations changes in v2.1.283
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-23-18-apps-and-integrations-changes-in-v2-1-281|18
+- '[[Changes/Claude Code/2026-09-23-17-apps-and-integrations-changes-in-v2-1-281|17
   Apps and Integrations changes in v2.1.281]]'
 - '[[Changes/Cursor/2026-09-23-integrations|Integrations]]'
 - '[[Changes/Claude Code/2026-09-24-8-apps-and-integrations-changes-in-v2-1-282|8
@@ -159,7 +159,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.283
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-8-apps-and-integrations-changes-in-v2-1-282|8 Apps and Integrations changes in v2.1.282]]
-- Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-9-apps-and-integrations-changes-in-v2-1-284|9 Apps and Integrations changes in v2.1.284]]
+- Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-8-apps-and-integrations-changes-in-v2-1-284|8 Apps and Integrations changes in v2.1.284]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

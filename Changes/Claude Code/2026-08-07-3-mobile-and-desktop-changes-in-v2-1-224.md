@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a52c5af4a1e54bcde003a8a4e986115f2f5d64dd9b61816ad1ca36577ea1ca01
+machine_hash: d414c7cea40c43ed4d59b9447f603e398b611b07f9535ccf5ae8fd7b68dd04c7
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,8 +51,8 @@ record:
   title: 3 Mobile and Desktop changes in v2.1.224
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and|A
-  full review surface]]'
+- '[[Changes/ChatGPT/2026-07-16-continue-work-across-devices-cloud-work-conversations-now-sync-across-web-mobile|Continue
+  Work across devices]]'
 - '[[Changes/Cursor/2026-07-29-built-for-the-bigger-screen-98bf7a|Built for the bigger
   screen]]'
 - '[[Changes/Cursor/2026-07-29-cursor-for-ipad-is-now-available-on-all-paid-plans-ce68be|Cursor

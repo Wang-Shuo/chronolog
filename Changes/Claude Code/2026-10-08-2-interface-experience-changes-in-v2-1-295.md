@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 91251735820b3f21705583a648c5e1020d2289f89ce5abffa4ccbe87011a4600
+machine_hash: c1ec696f504e2aa190376af824af44d435b6ac67100faabb3b9e89773297c23c
 product: claude-code
 product_name: Claude Code
 record:
@@ -78,18 +78,18 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.295
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-10-08-3-agent-mode-changes-in-v2-1-295|3 Agent Mode changes in v2.1.295]] · Agent Mode
 - [[Changes/Claude Code/2026-10-08-added-a-line-on-stderr-when-it-is-a-terminal-that-says-what-a-claude-p-run-is-wa|Added a line on stderr, when it is a terminal, that says what a claude -p run…]] · Developer Workflow
 - [[Changes/Claude Code/2026-10-08-improved-token-counts-behind-a-claude-apps-gateway-on-amazon-bedrock-which-conte|Improved token counts behind a Claude apps gateway on Amazon Bedrock…]] · Context Window
 - [[Changes/Claude Code/2026-10-08-changed-ctrl-c-at-the-idle-prompt-of-an-attached-background-session-to-leave-a-p|Changed Ctrl+C at the idle prompt of an attached background session to leave…]] · Automation and Scheduling
 - [[Changes/Claude Code/2026-10-08-14-apps-and-integrations-changes-in-v2-1-295|14 Apps and Integrations changes in v2.1.295]] · Apps and Integrations
 - [[Changes/Claude Code/2026-10-08-added-support-for-forceloginmethod-gateway-and-forcelogingatewayurl-in-your-own|Added support for forceLoginMethod: "gateway" and forceLoginGatewayUrl…]] · Account and Access
 - [[Changes/Claude Code/2026-10-08-changed-tab-stops-to-count-from-where-a-text-starts-instead-of-from-the-screen-s|Changed tab stops to count from where a text starts instead of from the screen's left edge]] · Editor Experience
-- [[Changes/Claude Code/2026-10-08-2-model-support-changes-in-v2-1-295|2 Model Support changes in v2.1.295]] · Model Support
-- [[Changes/Claude Code/2026-10-08-2-mobile-and-desktop-changes-in-v2-1-295|2 Mobile and Desktop changes in v2.1.295]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-10-08-changed-the-claude-apps-gateway-to-start-with-a-warning-and-serve-a-desktop-poli|Changed the Claude apps gateway to start with a warning and serve a desktop policy…]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-10-08-4-agent-mode-changes-in-v2-1-295|4 Agent Mode changes in v2.1.295]] · Agent Mode
+- [[Changes/Claude Code/2026-10-08-3-model-support-changes-in-v2-1-295|3 Model Support changes in v2.1.295]] · Model Support
 - [[Changes/Claude Code/2026-10-08-5-safety-and-privacy-changes-in-v2-1-295|5 Safety and Privacy changes in v2.1.295]] · Safety and Privacy
 - [[Changes/Claude Code/2026-10-08-claude-tag-changed-claude-s-notice-that-a-channel-shared-across-enterprise-grid|Claude Tag Changed Claude's notice that a channel shared across Enterprise Grid…]] · Enterprise and Administration
-- [[Changes/Claude Code/2026-10-08-15-other-changes-in-v2-1-295|15 other changes in v2.1.295]] · Other changes
+- [[Changes/Claude Code/2026-10-08-14-other-changes-in-v2-1-295|14 other changes in v2.1.295]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

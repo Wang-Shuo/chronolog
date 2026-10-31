@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 51ea0f8d388449e2c49f2b4351305d601579b820b07be41aae6299f32ee1b443
+machine_hash: 3951cedcb0a47863b44f624d8caaebdd1bf170961e7982c8ca4de5cacc285362
 product: claude-code
 product_name: Claude Code
 record:
@@ -80,15 +80,15 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-09-23-10-agent-mode-changes-in-v2-1-281|10 Agent Mode changes in v2.1.281]] · Agent Mode
 - [[Changes/Claude Code/2026-09-23-improved-interactive-startup-time-git-reads-startup-telemetry-and-the-bedrock-ve|Improved interactive startup time]] · Model Support
 - [[Changes/Claude Code/2026-09-23-2-account-and-access-changes-in-v2-1-281|2 Account and Access changes in v2.1.281]] · Account and Access
 - [[Changes/Claude Code/2026-09-23-claude-tag-changed-the-routine-list-claude-gives-when-asked-in-a-slack-thread-to|Claude Tag Changed the routine list Claude gives when asked in a Slack thread…]] · Automation and Scheduling
 - [[Changes/Claude Code/2026-09-23-7-developer-workflow-changes-in-v2-1-281|7 Developer Workflow changes in v2.1.281]] · Developer Workflow
 - [[Changes/Claude Code/2026-09-23-2-mobile-and-desktop-changes-in-v2-1-281|2 Mobile and Desktop changes in v2.1.281]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-09-23-4-interface-experience-changes-in-v2-1-281|4 Interface Experience changes in v2.1.281]] · Interface Experience
-- [[Changes/Claude Code/2026-09-23-9-agent-mode-changes-in-v2-1-281|9 Agent Mode changes in v2.1.281]] · Agent Mode
+- [[Changes/Claude Code/2026-09-23-17-apps-and-integrations-changes-in-v2-1-281|17 Apps and Integrations changes in v2.1.281]] · Apps and Integrations
 - [[Changes/Claude Code/2026-09-23-improved-deep-research-reliability-on-long-research-briefs-by-removing-unused-re|Improved /deep-research reliability on long research briefs by removing unused…]] · Search and Browsing
-- [[Changes/Claude Code/2026-09-23-18-apps-and-integrations-changes-in-v2-1-281|18 Apps and Integrations changes in v2.1.281]] · Apps and Integrations
 - [[Changes/Claude Code/2026-09-23-12-safety-and-privacy-changes-in-v2-1-281|12 Safety and Privacy changes in v2.1.281]] · Safety and Privacy
 - [[Changes/Claude Code/2026-09-23-13-other-changes-in-v2-1-281|13 other changes in v2.1.281]] · Other changes
 <!-- chronolog:end -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a2aa12b31841e826fc049a4b8cb22e922420a57ea610effbb06539ee8e88ae92
+machine_hash: a6d6fdc3a9c32f7ed873609b482e58ee7cd5a6923b228455b927c80a9ff926d8
 product: cursor
 product_name: Cursor
 record:
@@ -70,9 +70,10 @@ type: change
 ## Also in this release
 
 - [[Changes/Cursor/2025-03-23-2-model-support-changes-in-0-48-x|2 Model Support changes in 0.48.x]] · Model Support
-- [[Changes/Cursor/2025-03-23-2-collaboration-changes-in-0-48-x|2 Collaboration changes in 0.48.x]] · Collaboration
+- [[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved indexing performance for teams sharing codebases]] · Collaboration
 - [[Changes/Cursor/2025-03-23-chat-will-now-display-a-notification-about-usage-based-pricing-when-approaching|Chat will now display a notification about usage-based pricing when approaching fast…]] · Pricing Model
 - [[Changes/Cursor/2025-03-23-2-reliability-and-performance-changes-in-0-48-x|2 Reliability and Performance changes in 0.48.x]] · Reliability and Performance
+- [[Changes/Cursor/2025-03-23-enhanced-visibility-of-auto-run-controls-configured-by-team-admins-clarifying-wh|Enhanced visibility of auto-run controls configured by team admins, clarifying…]] · Enterprise and Administration
 - [[Changes/Cursor/2025-03-23-new-onboarding|New onboarding]] · Interface Experience
 - [[Changes/Cursor/2025-03-23-usage-based-cost-visibility|Usage-based cost visibility]] · Pricing Model
 - [[Changes/Cursor/2025-03-23-built-in-modes-custom-modes-beta|Built-in modes & custom modes (beta)]] · Agent Mode

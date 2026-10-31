@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 633c2685c92a5d46f48ecebb983a1921cefffac7111494b0df85c739322fd6ac
+machine_hash: 2c7e3b53a2ced2181fd3dbcef6215d578b280c097c60ec25551e77e4ed5fab37
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,6 +58,7 @@ related_changes:
   bash command parsing by switching to a native module]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f|claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f]]'
 source_type: github_releases
+superseded: true
 theme: reliability-performance
 title: Improved IDE detection speed at startup
 type: change

@@ -1,23 +1,23 @@
 ---
 card_id: cursor-2026-10-06-a357c2
 date: '2026-10-06'
-description: 'Cursor · 2026-10-06 · Mobile and Desktop: You can now see and reply
-  to the local agents running on your computer from the Cursor iOS app.'
+description: 'Cursor · 2026-10-06 · Agent Mode: You can now see and reply to the local
+  agents running on your computer from the Cursor iOS app.'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1302
+  lag_days: 1188
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: mobile-desktop
+  theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 81a978e695ac12b0d6b3c4d183bf9b903ed1c58cc64582d6a5f8f55276456bd4
+machine_hash: 59295df9780d28f9950d677d9bd530d32b82123b343122fb568c34a6a51099d1
 product: cursor
 product_name: Cursor
 record:
@@ -38,30 +38,20 @@ record:
   slug: you-can-now-see-and-reply-to-the-local-agents-running-on-your-computer-from-the
   source_release: cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd
   source_type: cursor_changelog
-  theme: mobile-desktop
-  theme_matches:
-  - matched_terms:
-    - agents
-    score: 50
-    theme: agent-mode
-  - matched_terms:
-    - ios
-    score: 50
-    theme: mobile-desktop
-  theme_resolution: manual-semantic-rule-v1
+  theme: agent-mode
   title: See and reply to the local agents running on your computer from the Cursor
     iOS app
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-01-2-mobile-and-desktop-changes-in-v2-1-287|2 Mobile
-  and Desktop changes in v2.1.287]]'
-- '[[Changes/ChatGPT/2026-10-02-finances-in-chatgpt-is-rolling-out-to-free-and-go-users-in-the-u-s-on-web-ios-an|Finances
-  expands to Free and Go users]]'
-- '[[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer|Keep
-  your computer awake]]'
+- '[[Changes/Claude Code/2026-10-05-added-claude-api-managed-agents-onboard-quickstart-name-to-build-a-console-quick|Added
+  /claude-api managed-agents-onboard quickstart-name to build a Console…]]'
+- '[[Changes/Claude Code/2026-10-05-4-agent-mode-changes-in-v2-1-290|4 Agent Mode
+  changes in v2.1.290]]'
+- '[[Changes/Claude Code/2026-10-06-3-agent-mode-changes-in-v2-1-292|3 Agent Mode
+  changes in v2.1.292]]'
 source_release: '[[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd]]'
 source_type: cursor_changelog
-theme: mobile-desktop
+theme: agent-mode
 title: See and reply to the local agents running on your computer from the Cursor
   iOS app
 type: change
@@ -70,7 +60,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # See and reply to the local agents running on your computer from the Cursor iOS app
 
-**Cursor** · 2026-10-06 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://cursor.com/changelog/remote-control-local-agents) · from [[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|Remote control for local agents]]
+**Cursor** · 2026-10-06 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://cursor.com/changelog/remote-control-local-agents) · from [[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|Remote control for local agents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -89,16 +79,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Mobile and Desktop
+## Nearby in Agent Mode
 
-- Earlier: 2026-10-02 · ChatGPT · [[Changes/ChatGPT/2026-10-02-finances-in-chatgpt-is-rolling-out-to-free-and-go-users-in-the-u-s-on-web-ios-an|Finances expands to Free and Go users]]
-- Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-2-mobile-and-desktop-changes-in-v2-1-295|2 Mobile and Desktop changes in v2.1.295]]
+- Earlier: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-3-agent-mode-changes-in-v2-1-292|3 Agent Mode changes in v2.1.292]]
+- Later: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-2-agent-mode-changes-in-v2-1-293|2 Agent Mode changes in v2.1.293]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

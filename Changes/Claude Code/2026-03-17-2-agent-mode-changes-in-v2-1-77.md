@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eab54bfbcb8e9f1247b8c639ab862e77460b3f0bcbd2ffaa57432eea92b066ae
+machine_hash: 4722d0b2801b9bb1bbdece70b6ee230c5cff13d7e2f1429784d24cc3ce26ce12
 product: claude-code
 product_name: Claude Code
 record:
@@ -77,13 +77,13 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.77
 ## Also in this release
 
 - [[Changes/Claude Code/2026-03-17-show-a-notice-when-apikeyhelper-takes-longer-than-10s-preventing-it-from-blockin|Show a notice when apiKeyHelper takes longer than 10s, preventing it from blocking…]] · Automation and Scheduling
+- [[Changes/Claude Code/2026-03-17-vscode-when-option-click-doesn-t-trigger-native-selection-on-macos-the-footer-no|VSCode When option+click doesn't trigger native selection on macOS, the footer now…]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-03-17-vscode-improved-plan-preview-tab-titles-to-use-the-plan-s-heading-instead-of-cla|VSCode Improved plan preview tab titles to use the plan's heading instead…]] · Editor Experience
 - [[Changes/Claude Code/2026-03-17-copy-now-accepts-an-optional-index-copy-n-copies-the-nth-latest-assistant-respon|/copy now accepts an optional index: /copy N copies the Nth-latest assistant response]] · Interface Experience
 - [[Changes/Claude Code/2026-03-17-2-apps-and-integrations-changes-in-v2-1-77|2 Apps and Integrations changes in v2.1.77]] · Apps and Integrations
 - [[Changes/Claude Code/2026-03-17-background-bash-tasks-are-now-killed-if-output-exceeds-5gb-preventing-runaway-pr|Background bash tasks are now killed if output exceeds 5GB, preventing runaway…]] · Developer Workflow
-- [[Changes/Claude Code/2026-03-17-faster-resume-on-fork-heavy-and-very-large-sessions-up-to-45-faster-loading-and|Faster --resume on fork-heavy and very large sessions]] · Reliability and Performance
+- [[Changes/Claude Code/2026-03-17-2-reliability-and-performance-changes-in-v2-1-77|2 Reliability and Performance changes in v2.1.77]] · Reliability and Performance
 - [[Changes/Claude Code/2026-03-17-3-safety-and-privacy-changes-in-v2-1-77|3 Safety and Privacy changes in v2.1.77]] · Safety and Privacy
-- [[Changes/Claude Code/2026-03-17-2-mobile-and-desktop-changes-in-v2-1-77|2 Mobile and Desktop changes in v2.1.77]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-03-17-increased-default-maximum-output-token-limits-for-claude-opus-4-6-to-64k-tokens|Increased default maximum output token limits for Claude Opus 4.6 to 64k tokens…]] · Model Support
 - [[Changes/Claude Code/2026-03-17-3-other-changes-in-v2-1-77|3 other changes in v2.1.77]] · Other changes
 <!-- chronolog:end -->

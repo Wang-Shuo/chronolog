@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5dba25c2daf8cf30bf97f3e7970498bba53759214243e2f8a814cd91b3629aed
+machine_hash: d76acc1595769e909f160ce84adced775aade89de188cfbe17aa84f467093e93
 product: cursor
 product_name: Cursor
 record:
@@ -50,10 +50,6 @@ record:
     score: 50
     theme: agent-mode
   - matched_terms:
-    - desktop
-    score: 50
-    theme: mobile-desktop
-  - matched_terms:
     - model
     score: 50
     theme: model-support
@@ -61,12 +57,12 @@ record:
   title: The agents that run in the Cursor desktop app, CLI, and web app are now accessible…
   type: change
 related_changes:
+- '[[Changes/Claude Code/2026-04-15-added-push-notification-tool-claude-can-send-mobile-push-notifications-when-remo|Added
+  push notification tool]]'
 - '[[Changes/Claude Code/2026-04-16-windows-powershell-tool-is-progressively-rolling-out-opt-in-or-out-with-claude-c|Windows:
   PowerShell tool is progressively rolling out]]'
 - '[[Changes/Claude Code/2026-04-17-extra-usage-now-works-from-remote-control-mobile-web-clients|/extra-usage
   now works from Remote Control (mobile/web) clients]]'
-- '[[Changes/Claude Code/2026-04-22-native-builds-on-macos-and-linux-the-glob-and-grep-tools-are-replaced-by-embedde|Native
-  builds on macOS and Linux]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3|cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3]]'
 source_type: cursor_changelog
 theme: mobile-desktop
@@ -98,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-native-builds-on-macos-and-linux-the-glob-and-grep-tools-are-replaced-by-embedde|Native builds on macOS and Linux]]
+- Earlier: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-extra-usage-now-works-from-remote-control-mobile-web-clients|/extra-usage now works from Remote Control (mobile/web) clients]]
 - Later: 2026-05-12 · ChatGPT · [[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|More images in answers for Free users]]
 <!-- chronolog:end -->
 

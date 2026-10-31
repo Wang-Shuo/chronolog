@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: db24f0aa2be8b58d22ca4c9ebda064edd771e35e799eca03afc92eef4134d6cb
+machine_hash: b6009e1144553c873878360b87244f15ec549cfc05f7d16f8f7cbb3120e211e7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,11 +52,6 @@ record:
   theme: mobile-desktop
   theme_matches:
   - matched_terms:
-    - android
-    - ios
-    score: 100
-    theme: mobile-desktop
-  - matched_terms:
     - chat project
     score: 60
     theme: projects-workspaces
@@ -68,13 +63,14 @@ record:
     - sidebar
     score: 50
     theme: interface-experience
+  theme_resolution: manual-semantic-rule-v1
   title: Search across chats, projects, and files is now supercharged
   type: change
 related_changes:
 - '[[Changes/ChatGPT/2026-07-09-to-create-a-site-start-in-chatgpt-work-on-the-web-or-in-work-or-codex-in-the-cha|To
   create a Site, start in ChatGPT Work on the web or in Work or Codex…]]'
-- '[[Changes/ChatGPT/2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi-ae6433|The
-  new ChatGPT desktop app brings Chat, Work, and Codex together]]'
+- '[[Changes/ChatGPT/2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi|The
+  new ChatGPT desktop app is available globally for macOS and Windows]]'
 - '[[Changes/ChatGPT/2026-07-09-beginning-july-9-users-on-web-ios-and-android-will-no-longer-be-able-to-create-n|Beginning
   July 9, users on web, iOS, and Android will no longer be able to create…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-14-search-across-chats-projects-and-files-is-now-supercharged-90a28571|chatgpt-2026-07-14-search-across-chats-projects-and-files-is-now-supercharged-90a28571]]'

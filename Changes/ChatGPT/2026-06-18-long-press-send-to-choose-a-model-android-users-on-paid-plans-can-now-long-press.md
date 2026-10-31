@@ -1,24 +1,24 @@
 ---
 card_id: chatgpt-2026-06-18-2dae4c
 date: '2026-06-18'
-description: 'ChatGPT · 2026-06-18 · Mobile and Desktop: Long-press send to choose
-  a model: Android users on paid plans can now long-press the send button to choose
-  a model…'
+description: 'ChatGPT · 2026-06-18 · Model Support: Long-press send to choose a model:
+  Android users on paid plans can now long-press the send button to choose a model
+  for a…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1192
+  lag_days: 1256
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: mobile-desktop
+  theme: model-support
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 32a92144ef117b3945d4df8b4f8511a759fa63ea3763e6656a1f1525c03cbcb9
+machine_hash: 3cc2ec5d40ffecfdd8b694d097d0afa72bf33d2b6e545591b7993dab7ffe1dbf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,30 +44,20 @@ record:
   slug: long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press
   source_release: chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5
   source_type: chatgpt_changelog
-  theme: mobile-desktop
-  theme_matches:
-  - matched_terms:
-    - android
-    score: 50
-    theme: mobile-desktop
-  - matched_terms:
-    - model
-    score: 50
-    theme: model-support
-  theme_resolution: manual-semantic-rule-v1
+  theme: model-support
   title: Long-press send to choose a model
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-17-2-mobile-and-desktop-changes-in-v2-1-181|2 Mobile
-  and Desktop changes in v2.1.181]]'
-- '[[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|Cursor
-  introduces updates to cloud agents in the Agents Window of the Cursor desktop app]]'
-- '[[Changes/ChatGPT/2026-06-18-updated-composer-and-tools-menu-the-composer-in-android-now-has-inline-mentions|Updated
-  composer and tools menu]]'
+- '[[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|Retiring
+  GPT-5.2 models]]'
+- '[[Changes/Claude Code/2026-06-12-added-enforceavailablemodels-managed-setting-when-enabled-the-availablemodels-al|Added
+  enforceAvailableModels managed setting]]'
+- '[[Changes/Claude Code/2026-06-15-bug-now-requires-a-description-before-submitting-and-no-longer-uses-model-refusa|/bug
+  now requires a description before submitting, and no longer uses…]]'
 scope: Android
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
-theme: mobile-desktop
+theme: model-support
 title: Long-press send to choose a model
 type: change
 ---
@@ -75,7 +65,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Long-press send to choose a model
 
-**ChatGPT** · 2026-06-18 · [[Themes/mobile-desktop|Mobile and Desktop]] · Android · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
+**ChatGPT** · 2026-06-18 · [[Themes/model-support|Model Support]] · Android · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -98,16 +88,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Mobile and Desktop
+## Nearby in Model Support
 
-- Earlier: 2026-06-17 · Cursor · [[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|Cursor introduces updates to cloud agents in the Agents Window of the Cursor desktop app]]
-- Later: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|Improved background session reliability]]
+- Earlier: 2026-06-15 · Claude Code · [[Changes/Claude Code/2026-06-15-bug-now-requires-a-description-before-submitting-and-no-longer-uses-model-refusa|/bug now requires a description before submitting, and no longer uses…]]
+- Later: 2026-06-19 · Claude Code · [[Changes/Claude Code/2026-06-19-added-a-warning-when-the-requested-model-is-deprecated-or-automatically-updated|Added a warning when the requested model is deprecated or automatically updated…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

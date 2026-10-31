@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0dc0617155813744a3fc3dd66fa59067af9ab25ad0a826a8a827d9514c6dd219
+machine_hash: ecfde48bae1fd44a2bf03b47eec0194fcd7a2f49c9facaa0e21ad5d35b72d716
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,10 +50,10 @@ record:
   title: More images in answers for Free users
   type: change
 related_changes:
+- '[[Changes/Claude Code/2026-04-16-windows-powershell-tool-is-progressively-rolling-out-opt-in-or-out-with-claude-c|Windows:
+  PowerShell tool is progressively rolling out]]'
 - '[[Changes/Claude Code/2026-04-17-extra-usage-now-works-from-remote-control-mobile-web-clients|/extra-usage
   now works from Remote Control (mobile/web) clients]]'
-- '[[Changes/Claude Code/2026-04-22-native-builds-on-macos-and-linux-the-glob-and-grep-tools-are-replaced-by-embedde|Native
-  builds on macOS and Linux]]'
 - '[[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The
   agents that run in the Cursor desktop app, CLI, and web app are now accessible…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-12-more-images-in-answers-for-free-users-34680cb9|chatgpt-2026-05-12-more-images-in-answers-for-free-users-34680cb9]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-04-29 · Cursor · [[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The agents that run in the Cursor desktop app, CLI, and web app are now accessible…]]
-- Later: 2026-05-14 · ChatGPT · [[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|Codex remote access from the ChatGPT mobile app]]
+- Later: 2026-05-14 · ChatGPT · [[Changes/ChatGPT/2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is|Generated images will continue to appear in the Images tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

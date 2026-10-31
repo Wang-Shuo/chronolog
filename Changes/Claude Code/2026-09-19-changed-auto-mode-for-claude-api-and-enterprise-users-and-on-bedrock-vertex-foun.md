@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: fde51e5eb3a68203b5aa2276c8ef61357c99ce660f77a9609b8ba3fdcbed4056
+machine_hash: dbbddebd348f50b949422531f4d3904442e23a5be0e3a28e1c9afb7366c9038e
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,10 +51,6 @@ record:
     - auto mode
     score: 60
     theme: agent-mode
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
   - matched_terms:
     - billing
     score: 50

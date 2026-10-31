@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bd89a59d63e03186cbf4e36e2b48ecc4a4cd9c9b148e9d5e52f95b8e652b6f6a
+machine_hash: 9759fb65f61848c9c599d2027e0a25136fef0d2374e56a01ac6decfb667c7969
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,10 +50,10 @@ record:
   title: 3 Apps and Integrations changes in v2.1.246
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-21-updated-plugin-recommendations-make-it-easier-to-find-tools-people-continue-to-u|Updated
-  plugin recommendations make it easier to find tools people continue to use]]'
 - '[[Changes/ChatGPT/2026-08-21-plugin-availability-depends-on-your-plan-region-and-workspace-settings-desktop-i|Plugin
   availability depends on your plan, region, and workspace settings]]'
+- '[[Changes/ChatGPT/2026-08-21-find-more-useful-plugins-rankings-now-prioritize-plugins-people-keep-using-after|Find
+  more useful plugins]]'
 - '[[Changes/Claude Code/2026-08-21-2-apps-and-integrations-changes-in-v2-1-239|2
   Apps and Integrations changes in v2.1.239]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0|claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0]]'

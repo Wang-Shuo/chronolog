@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 409f02a6b41b6faabf835b5efc89bbc7a6a5ff562069621a4d04ae12fda58504
+machine_hash: dce4d0272d292d2d32c21e6843481b6e4775dda3c963c577c511fc843ddc3c1c
 product: cursor
 product_name: Cursor
 record:
@@ -55,20 +55,16 @@ record:
     - sidebar
     score: 50
     theme: interface-experience
-  - matched_terms:
-    - ipad
-    score: 50
-    theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
   title: Built for the bigger screen
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2026-07-16-a-clearer-desktop-layout-a-global-switcher-lets-you-choose-between-chatgpt-and-c|A
+  clearer desktop layout: A global switcher lets you choose between ChatGPT and Codex]]'
 - '[[Changes/ChatGPT/2026-07-16-we-ve-updated-the-chatgpt-desktop-app-to-make-it-easier-to-choose-between-chat-a|ChatGPT
   updates the ChatGPT desktop app to make it easier to choose between Chat…]]'
 - '[[Changes/ChatGPT/2026-07-16-continue-work-across-devices-cloud-work-conversations-now-sync-across-web-mobile|Continue
   Work across devices]]'
-- '[[Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and|A
-  full review surface]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c|cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c]]'
 source_type: cursor_changelog
 theme: mobile-desktop
@@ -93,7 +89,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and|A full review surface]] · Mobile and Desktop
+- [[Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and|A full review surface]] · Agent Mode
 - [[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch between teams that you belong to directly in the app]] · Collaboration
 - [[Changes/Cursor/2026-07-29-inbox|Inbox]] · Agent Mode
 - [[Changes/Cursor/2026-07-29-cursor-for-ipad-is-now-available-on-all-paid-plans-ce68be|Cursor for iPad is now available on all paid plans]] · Mobile and Desktop

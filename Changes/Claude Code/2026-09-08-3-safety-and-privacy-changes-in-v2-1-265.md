@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bbfee94923a45d9460d0039a6c580b99dcf182de97baa1aa89cc3130f71dc80a
+machine_hash: 4ff9e3671126999059aa144ab08d3b5bce19013158673d64de64cc4c6d58e6db
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,10 +84,9 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.265
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-09-08-added-user-email-and-user-groups-to-the-telemetry-claude-desktop-and-cowork-send|Added user.email and user.groups to the telemetry Claude Desktop and Cowork send…]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-09-08-4-apps-and-integrations-changes-in-v2-1-265|4 Apps and Integrations changes in v2.1.265]] · Apps and Integrations
-- [[Changes/Claude Code/2026-09-08-improved-worktree-startup-on-large-repositories-the-new-worktree-is-now-checked|Improved --worktree startup on large repositories]] · Developer Workflow
 - [[Changes/Claude Code/2026-09-08-2-account-and-access-changes-in-v2-1-265|2 Account and Access changes in v2.1.265]] · Account and Access
+- [[Changes/Claude Code/2026-09-08-2-developer-workflow-changes-in-v2-1-265|2 Developer Workflow changes in v2.1.265]] · Developer Workflow
 - [[Changes/Claude Code/2026-09-08-improved-workflows-agent-detail-tool-calls-are-marked-running-failed-or-done-the|Improved /workflows agent detail]] · Agent Mode
 - [[Changes/Claude Code/2026-09-08-6-other-changes-in-v2-1-265|6 other changes in v2.1.265]] · Other changes
 <!-- chronolog:end -->

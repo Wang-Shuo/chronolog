@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7fce8914aa71fd01dd7ff9c3467af66deacee0124fcd4c8f49c7c5b4f3ad77d1
+machine_hash: 3149dae4c9e0f6199def9529c9104b18511cfeb6fe4dc2eb594f412d796cb1a9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,10 +51,10 @@ record:
   title: Personality and custom instructions now apply to all chats
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2025-10-28-longer-memory-for-more-personalized-responses|Longer
+  memory for more personalized responses]]'
 - '[[Changes/ChatGPT/2025-10-29-chatgpt-pulse-is-now-available-on-web-and-rolling-out-to-atlas-for-pro-users-wit|ChatGPT
   Pulse on Web]]'
-- '[[Changes/Cursor/2025-10-29-increased-default-memory-for-typescript-language-server|Increased
-  default memory for TypeScript language server]]'
 - '[[Changes/ChatGPT/2025-10-30-longer-memory-for-more-personalized-responses|Longer
   memory for more personalized responses]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-07-personality-and-custom-instructions-now-apply-to-all-chats-81e2ff22|chatgpt-2025-11-07-personality-and-custom-instructions-now-apply-to-all-chats-81e2ff22]]'

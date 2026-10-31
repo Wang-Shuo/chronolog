@@ -5,10 +5,10 @@ description: 'ChatGPT · 2026-07-09 · Enterprise and Administration: In Enterpr
   workspaces, public publishing is off by default and must be enabled by an admin.
   Sites is…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
-    users can only access stable release (no pre-release)]]'
+  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
+    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 400
+  lag_days: 841
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fcb24f91b78038097af8c0e69a11dafa70efb7eaa7a4aec4ee4e17e7878f809d
+machine_hash: c017f04be23ba282feba4b70ec654dece24bc21943d0d747cfb236a55fdfdb73
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-on-web-and-mobile-enterprise-and-edu-workspaces-have-a-two-week-preview-period-w|On web and mobile, Enterprise and Edu workspaces have a two-week preview period]]
-- Later: 2026-07-15 · ChatGPT · [[Changes/ChatGPT/2026-07-15-we-re-increasing-the-character-limit-for-custom-instructions-in-chatgpt-plus-pro|Increased custom instructions limit]]
+- Later: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-changed-usage-credits-to-ask-for-confirmation-before-sending-a-request-to-organi|Changed /usage-credits to ask for confirmation before sending a request…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
+- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

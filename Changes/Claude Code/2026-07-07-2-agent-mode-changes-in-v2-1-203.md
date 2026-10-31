@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7e1a48f4db3dd59ad454755099db1ad4489e07edfcb58c84d036762a4cc39e4b
+machine_hash: d308ed505b7bae4ef3e528d5bbb531b4b1dc0cb8b736e6735e7d3380842fafb7
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Agent Mode changes in v2.1.203
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-29-live-activities-and-push-notifications|Live Activities
-  and push notifications]]'
+- '[[Changes/Cursor/2026-06-29-cursor-for-ios-is-now-available-in-public-beta-on-all-paid-plans-launch-and-mana|Cursor
+  for iOS is now available in public beta on all paid plans]]'
 - '[[Changes/Claude Code/2026-07-01-5-agent-mode-changes-in-v2-1-198|5 Agent Mode
   changes in v2.1.198]]'
 - '[[Changes/Claude Code/2026-07-06-3-agent-mode-changes-in-v2-1-202|3 Agent Mode

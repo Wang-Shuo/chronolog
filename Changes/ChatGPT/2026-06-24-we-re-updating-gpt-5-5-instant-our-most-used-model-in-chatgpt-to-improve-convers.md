@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7c44086bc50855773f6b60a4fbadf12c9f43e2b0cb6d4d219d6173272bbfc121
+machine_hash: 33a54c38b581774dae5b71b6a90d75e45b77579335581738e09c5451583fa275
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -82,10 +82,10 @@ record:
   title: GPT-5.5 Instant Update
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-12-added-enforceavailablemodels-managed-setting-when-enabled-the-availablemodels-al|Added
-  enforceAvailableModels managed setting]]'
 - '[[Changes/Claude Code/2026-06-15-bug-now-requires-a-description-before-submitting-and-no-longer-uses-model-refusa|/bug
   now requires a description before submitting, and no longer uses…]]'
+- '[[Changes/ChatGPT/2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press|Long-press
+  send to choose a model]]'
 - '[[Changes/Claude Code/2026-06-19-added-a-warning-when-the-requested-model-is-deprecated-or-automatically-updated|Added
   a warning when the requested model is deprecated or automatically updated…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-24-gpt-5-5-instant-update-6c17e30e|chatgpt-2026-06-24-gpt-5-5-instant-update-6c17e30e]]'

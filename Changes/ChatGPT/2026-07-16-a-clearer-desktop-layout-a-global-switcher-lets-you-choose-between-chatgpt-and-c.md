@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 01e9bde3c8a93061d54e84edc63c1fec254f8ff0ce68f30a4f3432af21cc87b9
+machine_hash: cbda885e05dac3f5a496ee01251333fbd830f860cd2fea05f4b21e148eacdb4b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,8 +48,8 @@ record:
     and Codex'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi-ae6433|The
-  new ChatGPT desktop app brings Chat, Work, and Codex together]]'
+- '[[Changes/ChatGPT/2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi|The
+  new ChatGPT desktop app is available globally for macOS and Windows]]'
 - '[[Changes/ChatGPT/2026-07-09-beginning-july-9-users-on-web-ios-and-android-will-no-longer-be-able-to-create-n|Beginning
   July 9, users on web, iOS, and Android will no longer be able to create…]]'
 - '[[Changes/ChatGPT/2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327|Search
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-07-14 · ChatGPT · [[Changes/ChatGPT/2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327|Search across chats, projects, and files is now supercharged]]
-- Later: 2026-07-29 · Cursor · [[Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and|A full review surface]]
+- Later: 2026-07-29 · Cursor · [[Changes/Cursor/2026-07-29-built-for-the-bigger-screen-98bf7a|Built for the bigger screen]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

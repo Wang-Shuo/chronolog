@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e410fd90ab93a59c4bf1fff09a2d376fb173ef5185980f15e8ff14a543448a0a
+machine_hash: dd1cdb235582318309e56b7a9a552ca80efb36e26705fb342f6b4b01822b1ff1
 product: cursor
 product_name: Cursor
 record:
@@ -55,6 +55,7 @@ related_changes:
   can now create a team marketplace without connecting a repository first]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4|cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4]]'
 source_type: cursor_changelog
+superseded: true
 theme: collaboration
 title: Cursor is now available in Microsoft Teams
 type: change

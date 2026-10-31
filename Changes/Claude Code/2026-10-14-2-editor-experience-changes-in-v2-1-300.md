@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e42507904e9b0b16d03d65cbd648cc4fe0dbf88a0323564b1c164cfad8d358f2
+machine_hash: 0511f62fc702f400b070a54601834aae0c5419736786b6f72b0e4ff7202eb853
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,6 +54,7 @@ related_changes:
   a one-time note when plan mode won''t ask before most edits or commands because…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
 source_type: github_releases
+superseded: true
 theme: editor-experience
 title: 2 Editor Experience changes in v2.1.300
 type: change

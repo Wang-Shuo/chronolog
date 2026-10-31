@@ -1,23 +1,24 @@
 ---
 card_id: claude-code-2026-03-12-d6df1f
 date: '2026-03-12'
-description: 'Claude Code · 2026-03-12 · Memory and Personalization: Added actionable
+description: 'Claude Code · 2026-03-12 · Reliability and Performance: Added actionable
   suggestions to `/context` command — identifies context-heavy tools, memory bloat,
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re
-    starting to roll out custom instructions, giving you more control over…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 966
+  lag_days: 1183
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: memory
+  theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 20fc3bd065f47380a9045d91125c0a15e59d6021734cd7d728a5f7fe1e8ab967
+kind: change
+machine_hash: c9b73b03e9c8431b5a19fd2a90781386f16a027a1f5768a61a514a22d3df7f83
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,14 +32,15 @@ record:
   - quote: Added actionable suggestions to `/context` command — identifies context-heavy
       tools, memory bloat, and capacity warnings with specific optimization tips
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.74
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-actionable-suggestions-to-context-command-identifies-context-heavy-tools-m
   source_release: claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae
   source_type: github_releases
-  theme: memory
+  theme: reliability-performance
   theme_matches:
   - matched_terms:
     - memory
@@ -48,19 +50,19 @@ record:
     - context
     score: 50
     theme: context-window
+  theme_resolution: manual-semantic-rule-v2
   title: Added actionable suggestions to `/context` command
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-28-project-configs-auto-memory-now-shared-across-git-worktrees-of-the-same-reposito|Project
-  configs & auto memory now shared across git worktrees of the same repository]]'
-- '[[Changes/Claude Code/2026-03-06-reduced-startup-memory-by-426kb-for-users-without-custom-ca-certificates|Reduced
-  startup memory by ~426KB for users without custom CA certificates]]'
-- '[[Changes/Claude Code/2026-03-12-added-automemorydirectory-setting-to-configure-a-custom-directory-for-auto-memor|Added
-  autoMemoryDirectory setting to configure a custom directory for auto-memory…]]'
+- '[[Changes/Claude Code/2026-03-06-3-reliability-and-performance-changes-in-v2-1-70|3
+  Reliability and Performance changes in v2.1.70]]'
+- '[[Changes/Claude Code/2026-03-10-improved-bash-command-parsing-by-switching-to-a-native-module-faster-initializat|Improved
+  bash command parsing by switching to a native module]]'
+- '[[Changes/Claude Code/2026-03-11-2-reliability-and-performance-changes-in-v2-1-73|2
+  Reliability and Performance changes in v2.1.73]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae|claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae]]'
 source_type: github_releases
-superseded: true
-theme: memory
+theme: reliability-performance
 title: Added actionable suggestions to /context command
 type: change
 ---
@@ -68,7 +70,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Added actionable suggestions to `/context` command
 
-**Claude Code** · 2026-03-12 · [[Themes/memory|Memory and Personalization]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.74) · from [[Releases/Claude Code/claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae|v2.1.74]]
+**Claude Code** · 2026-03-12 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.74) · from [[Releases/Claude Code/claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae|v2.1.74]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -87,16 +89,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Memory and Personalization
+## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-06 · Claude Code · [[Changes/Claude Code/2026-03-06-reduced-startup-memory-by-426kb-for-users-without-custom-ca-certificates|Reduced startup memory by ~426KB for users without custom CA certificates]]
-- Later: 2026-03-17 · ChatGPT · [[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|We’re sunsetting the preset Nerdy base style to simplify options and improve…]]
+- Earlier: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-2-reliability-and-performance-changes-in-v2-1-73|2 Reliability and Performance changes in v2.1.73]]
+- Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-2-reliability-and-performance-changes-in-v2-1-77|2 Reliability and Performance changes in v2.1.77]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|We’re starting to roll out custom instructions, giving you more control over…]]
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,10 +4,10 @@ date: '2026-04-23'
 description: 'Claude Code · 2026-04-23 · Enterprise and Administration: Added `DISABLE_UPDATES`
   env var to completely block all update paths including manual `claude update`…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
-    users can only access stable release (no pre-release)]]'
+  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
+    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 323
+  lag_days: 764
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fe57292414d7fd0790c9bf7a0a030af442f6d82d9cf439408c1bd50e63dfd637
+machine_hash: ee24a3245563da35f270fde2438c736d3199e2f3086ca4fa666b1d2fac2a1f88
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Added `DISABLE_UPDATES` env var to completely block all update paths including…
   type: change
 related_changes:
+- '[[Changes/Claude Code/2026-04-07-changed-default-effort-level-from-medium-to-high-for-api-key-bedrock-vertex-foun|Changed
+  default effort level from medium to high for API-key…]]'
 - '[[Changes/Claude Code/2026-04-10-added-os-ca-certificate-store-trust-by-default-so-enterprise-tls-proxies-work-wi|Added
   OS CA certificate store trust by default, so enterprise TLS proxies work…]]'
 - '[[Changes/ChatGPT/2026-04-16-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-australia-new|Rolling
   out ads in Australia, New Zealand, and Canada]]'
-- '[[Changes/Claude Code/2026-04-23-from-pr-now-accepts-gitlab-merge-request-bitbucket-pull-request-and-github-enter|--from-pr
-  now accepts GitLab merge-request, Bitbucket pull-request, and GitHub…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c|claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -84,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-from-pr-now-accepts-gitlab-merge-request-bitbucket-pull-request-and-github-enter|--from-pr now accepts GitLab merge-request, Bitbucket pull-request, and GitHub…]]
+- Earlier: 2026-04-16 · ChatGPT · [[Changes/ChatGPT/2026-04-16-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-australia-new|Rolling out ads in Australia, New Zealand, and Canada]]
 - Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-pasting-a-pr-url-into-the-resume-search-box-now-finds-the-session-that-created-t|Pasting a PR URL into the /resume search box now finds the session that created…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
+- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

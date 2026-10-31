@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b9a60660973a02cb925b8cc83d6c625a37e91e8d3441da163fc4bb213e337a72
+machine_hash: b6488d448b4a10f714d14687edd4f57bf5c3c78584bfbb8b4f641fe90d009f60
 product: cursor
 product_name: Cursor
 record:
@@ -55,8 +55,8 @@ related_changes:
   /team-onboarding command to generate a teammate ramp-up guide…]]'
 - '[[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a-b1834a|Admins
   can now create a team marketplace without connecting a repository first]]'
-- '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams-5c75c9|Cursor
-  is now available in Microsoft Teams]]'
+- '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is
+  now available in Microsoft Teams]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da|cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams-5c75c9|Cursor is now available in Microsoft Teams]]
+- Earlier: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is now available in Microsoft Teams]]
 - Later: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-otel-resource-attributes-values-are-now-included-as-labels-on-metric-datapoints|OTEL_RESOURCE_ATTRIBUTES values are now included as labels on metric datapoints…]]
 <!-- chronolog:end -->
 

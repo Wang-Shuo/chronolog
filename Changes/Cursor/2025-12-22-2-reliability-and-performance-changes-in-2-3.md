@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9c06a9c4f5d8e45f038b12205a48d4c7a9cc06d7606f07a98c4e3fc7776643b4
+machine_hash: 083e5d5467d9f915e142e3256f4b6316f44dfaa803d24f92730f4bf362dcfd44
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,7 @@ record:
   title: 2 Reliability and Performance changes in 2.3
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-optimized-findfiles-performance-to-batch-concurrent-calls-at-bounded-concurrency|Optimized
-  findFiles performance to batch concurrent calls at bounded concurrency]]'
+- '[[Changes/Cursor/2025-10-29-improved-performance|Improved Performance]]'
 - '[[Changes/Cursor/2025-12-10-2-reliability-and-performance-changes-in-2-2|2 Reliability
   and Performance changes in 2.2]]'
 - '[[Changes/Cursor/2025-12-22-for-this-holiday-release-we-ve-focused-entirely-on-fixing-bugs-and-improving-sta|For

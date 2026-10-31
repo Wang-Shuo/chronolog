@@ -2,8 +2,8 @@
 changes_count: 10
 date: '2026-06-08'
 description: 'ChatGPT release ChatGPT app experience updates on 2026-06-08: 10 tracked
-  changes across Mobile and Desktop, Files and Data, Interface Experience, Editor…'
-machine_hash: 8ad511893c71233d6482d9d1e3d8cf038ac50585e318267a4936d1ed26296ed8
+  changes across Interface Experience, Files and Data, Mobile and Desktop, Editor…'
+machine_hash: 215d5a284b057c712a8b1686594ba3cd975b57b7e75b0e0482bfed516ac49a89
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,6 +53,6 @@ Tracked 10 cards from 11 candidate lines; 1 line pending review.
 - [[Changes/ChatGPT/2026-06-08-long-press-send-to-choose-a-model-users-on-paid-plans-can-now-long-press-the-sen|Long-press send to choose a model]] · Model Support
 - [[Changes/ChatGPT/2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo|Full-screen writing blocks for longer-form work]] · Files and Data
 - [[Changes/ChatGPT/2026-06-08-immediate-image-previews-after-sending-when-you-upload-an-image-on-ios-chatgpt-u|Immediate image previews after sending]] · Mobile and Desktop
-- [[Changes/ChatGPT/2026-06-08-cleaned-up-logged-out-mobile-web-experience-logged-out-users-now-see-a-composer|Cleaned up logged-out mobile web experience]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-06-08-cleaned-up-logged-out-mobile-web-experience-logged-out-users-now-see-a-composer|Cleaned up logged-out mobile web experience]] · Interface Experience
 - [[Changes/ChatGPT/2026-06-08-edit-messages-with-attachments-you-can-now-edit-messages-that-include-attachment|Edit messages with attachments]] · Editor Experience
 <!-- chronolog:end -->

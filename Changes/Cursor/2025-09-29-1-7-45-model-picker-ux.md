@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c427030bf3fb3ef0231c81267c66f7423c70d47e7764a1cfac6a8cb2f7bc7f33
+machine_hash: 58d94ef49c3bbfe737b17b8e164473b92d9cc2afb8a2d1a339230c4f4a7dce34
 product: cursor
 product_name: Cursor
 record:
@@ -88,15 +88,14 @@ type: change
 - [[Changes/Cursor/2025-09-29-1-7-20-web-search-auto-accept-setting|1.7.20: Web search auto-accept setting]] · Search and Browsing
 - [[Changes/Cursor/2025-09-29-cursor-can-now-write-detailed-plans-before-starting-complex-tasks-this-allows-ag|Plan Mode]] · Agent Mode
 - [[Changes/Cursor/2025-09-29-monitor-agents-from-menubar|Monitor Agents from menubar]] · Agent Mode
-- [[Changes/Cursor/2025-09-29-5-agent-mode-changes-in-1-7|5 Agent Mode changes in 1.7]] · Agent Mode
 - [[Changes/Cursor/2025-09-29-agent-can-take-screenshots-improve-ui-and-debug-client-issues-read-more-about-br|Browser Controls]] · Agent Mode
+- [[Changes/Cursor/2025-09-29-6-agent-mode-changes-in-1-7|6 Agent Mode changes in 1.7]] · Agent Mode
 - [[Changes/Cursor/2025-09-29-1-7-24-team-deeplinks-and-hooks-improvements|1.7.24: Team deeplinks and hooks improvements]] · Collaboration
 - [[Changes/Cursor/2025-09-29-4-apps-and-integrations-changes-in-1-7|4 Apps and Integrations changes in 1.7]] · Apps and Integrations
 - [[Changes/Cursor/2025-09-29-7-developer-workflow-changes-in-1-7|7 Developer Workflow changes in 1.7]] · Developer Workflow
 - [[Changes/Cursor/2025-09-29-8-reliability-and-performance-changes-in-1-7|8 Reliability and Performance changes in 1.7]] · Reliability and Performance
 - [[Changes/Cursor/2025-09-29-pr-summaries-from-bugbot|PR summaries from Bugbot]] · Editor Experience
 - [[Changes/Cursor/2025-09-29-sandboxed-terminals|Sandboxed terminals]] · Safety and Privacy
-- [[Changes/Cursor/2025-09-29-on-windows-agent-now-correctly-uses-powershell-on-macos-and-linux-powershell-wil|On Windows, Agent now correctly uses PowerShell]] · Mobile and Desktop
 - [[Changes/Cursor/2025-09-29-image-file-support-for-agent|Image file support for Agent]] · Agent Mode
 - [[Changes/Cursor/2025-09-29-1-7-41-token-sync-improvements-for-authentication|1.7.41: Token sync improvements for authentication]] · Account and Access
 - [[Changes/Cursor/2025-09-29-15-other-changes-in-1-7|15 other changes in 1.7]] · Other changes

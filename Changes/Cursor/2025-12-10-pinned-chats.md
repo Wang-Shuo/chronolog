@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 51ab7f1fc4167fb7b0397e5c8ee91916c73a584de6c117b6399904be76c6f716
+machine_hash: 86665734664b0c0150fc63df8708070061f698a1d4a9dacdb0fc64aac5a784bc
 product: cursor
 product_name: Cursor
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-set-origin-allowlist-from-dashboard-to-restrict-browser-tools-browser-tools-and|Set origin allowlist from dashboard to restrict browser tools]]
-- Later: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-3-interface-experience-changes-in-v2-0-73|3 Interface Experience changes in v2.0.73]]
+- Later: 2025-12-18 · ChatGPT · [[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|Pinned chats in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

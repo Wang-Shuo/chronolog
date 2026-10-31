@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6fcadcc553385652e7c60eb52e0023db9f2eb5ebfd8ddd59bf531ecf8a8e5dae
+machine_hash: df0a570a2e3856fcd3758168cfb9dc9c6f04af93e4785948067d76ae2473fcae
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
 related_changes:
 - '[[Changes/Claude Code/2026-02-28-project-configs-auto-memory-now-shared-across-git-worktrees-of-the-same-reposito|Project
   configs & auto memory now shared across git worktrees of the same repository]]'
-- '[[Changes/Claude Code/2026-03-12-2-memory-and-personalization-changes-in-v2-1-74|2
-  Memory and Personalization changes in v2.1.74]]'
+- '[[Changes/Claude Code/2026-03-12-added-automemorydirectory-setting-to-configure-a-custom-directory-for-auto-memor|Added
+  autoMemoryDirectory setting to configure a custom directory for auto-memory…]]'
 - '[[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|Sunsetting
   the “Nerdy” base style]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859|claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-03-17 · ChatGPT · [[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|Sunsetting the “Nerdy” base style]]
-- Later: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file diff rendering is now much faster, smoother, and less memory-heavy]]
+- Later: 2026-04-22 · ChatGPT · [[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|Fast answers in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c8d0ef71d707835a731c357ec467d571f8fa9aa345aa9d72f1524f0171773dc7
+machine_hash: ab186b5f4f67f0f75d2a2f7c180ff6089403a40d94e0d9e61f9db3c8dbc81326
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,11 +41,12 @@ record:
   title: Confirmation dialog for logging out (iOS, web)
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Advanced
+  Voice for ChatGPT Web]]'
+- '[[Changes/ChatGPT/2024-11-22-improved-mobile-web-experience|Improved Mobile Web
+  Experience]]'
 - '[[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|More
   personalization in Custom Instructions]]'
-- '[[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved
-  Android conversation parsing performance]]'
-- '[[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b|chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -70,8 +71,8 @@ type: change
 
 - [[Changes/ChatGPT/2025-02-14-whisper-chatgpt-s-voice-to-text-feature-now-shows-a-text-preview-of-dictated-tex|Whisper (ChatGPT's voice-to-text feature) now shows a text preview of dictated text…]] · Voice and Audio
 - [[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set ChatGPT as default search engine in Safari]] · Search and Browsing
-- [[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved Android conversation parsing performance]] · Mobile and Desktop
-- [[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved Android conversation parsing performance]] · Reliability and Performance
+- [[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes]] · Reliability and Performance
 - [[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|Updated launch animations and composer design on Android]] · Mobile and Desktop
 <!-- chronolog:end -->
 

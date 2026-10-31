@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 20fba8f251396fce8816b0880c866c0110ca14485075b0846078c8d954fc8955
+machine_hash: 61b7c076afdaf363a3af7265149d19bf50587f282b1f4e7dc963451ec3bb0823
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,7 +46,7 @@ record:
 related_changes:
 - '[[Changes/Claude Code/2026-01-09-improved-slash-command-suggestion-readability-by-truncating-long-descriptions-to|Improved
   slash command suggestion readability by truncating long descriptions to 2 lines]]'
-- '[[Changes/Claude Code/2026-01-09-3-developer-workflow-changes-in-v2-1-2|3 Developer
+- '[[Changes/Claude Code/2026-01-09-4-developer-workflow-changes-in-v2-1-2|4 Developer
   Workflow changes in v2.1.2]]'
 - '[[Changes/Claude Code/2026-01-12-added-claude-code-tmpdir-environment-variable-to-override-the-temp-directory-use|Added
   CLAUDE_CODE_TMPDIR environment variable to override the temp directory used…]]'

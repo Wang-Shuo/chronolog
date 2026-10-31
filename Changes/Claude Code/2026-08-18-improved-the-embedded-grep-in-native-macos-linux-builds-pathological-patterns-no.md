@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 37b2a5792ec169f56aae8c515dde7b22c3f0a9b9353dfd61ec2d5804365d085a
+machine_hash: b0ee2a2185b53cc4b184436a507f618070fa7a783182656e350a3e062c004111
 product: claude-code
 product_name: Claude Code
 record:
@@ -66,6 +66,7 @@ related_changes:
   opt-in memory cgroup support for Bash tool commands on Linux…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f|claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f]]'
 source_type: github_releases
+superseded: true
 theme: memory
 title: Improved the embedded grep in native macOS/Linux builds
 type: change

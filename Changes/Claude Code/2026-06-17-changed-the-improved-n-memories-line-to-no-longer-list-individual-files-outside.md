@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 740ce5ac5f0d9ce4504692e4405c647614d8de49b44fb1ab0864d24bbc124c35
+machine_hash: 9e0b335e38564199ed4824c92b8dc8905d2230432a5cce3780ab76dc93b9068e
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
     outside…
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Memory
+  sources and more personalized responses in ChatGPT]]'
 - '[[Changes/ChatGPT/2026-06-04-we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping-9a48f3|Memory
   that stays more up to date]]'
-- '[[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run
-  correlation: Every send() now carries a platform-generated requestId, exposed…]]'
 - '[[Changes/ChatGPT/2026-06-12-you-can-now-delete-the-memories-shown-on-your-memory-summary-page-and-turn-memor-f16782|Additional
   controls for memory summary]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-17-v2-1-181-github-340975229-c771c493|claude-code-2026-06-17-v2-1-181-github-340975229-c771c493]]'

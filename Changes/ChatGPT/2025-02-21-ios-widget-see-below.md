@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 203e3866502f0071e3803f935875fa5eaa62137b246be91cb84be8e63b9faf92
+machine_hash: 086187f884a97b7bac45cdee9c962189cf774094e5a4fcd5622d55f979f844f0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,8 @@ record:
   title: iOS widget (see below)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes]]'
+- '[[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|More
+  personalization in Custom Instructions]]'
 - '[[Changes/ChatGPT/2025-02-14-confirmation-dialog-for-logging-out-ios-web|Confirmation
   dialog for logging out (iOS, web)]]'
 - '[[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|Updated

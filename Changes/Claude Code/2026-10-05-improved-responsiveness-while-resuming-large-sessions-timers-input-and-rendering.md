@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7f027946603b19b75e440a98746130a440113867426370f1f814081b12f7b423
+machine_hash: 4f1e4e459aa1c7e45d0135a4b377dee898aa502b04343e53dbdd974bd78d2332
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   Reliability and Performance changes in v2.1.287]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6|claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6]]'
 source_type: github_releases
+superseded: true
 theme: reliability-performance
 title: Improved responsiveness while resuming large sessions
 type: change

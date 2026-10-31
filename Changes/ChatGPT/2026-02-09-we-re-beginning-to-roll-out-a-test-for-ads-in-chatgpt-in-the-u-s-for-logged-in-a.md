@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 911fec09896291fe09c1f88d90c144071c45641c3b986c624eeecd52353d3d70
+machine_hash: ecc3b3331fc7817aa0cdd9a115b237a882a81ad3ef04cd8107dcb68777bb1eb9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -77,10 +77,6 @@ record:
     - personalization
     score: 100
     theme: memory
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
   - matched_terms:
     - performance
     score: 50

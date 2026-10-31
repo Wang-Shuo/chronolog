@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: fa887e7d98ea4f1dcedd1816bb7fee1f0684507da8791378a50edaef06227e0c
+machine_hash: 5573ea38a08a890697743b54f44b6107184772a849e05e37f397017aa43f60b9
 product: cursor
 product_name: Cursor
 record:
@@ -93,7 +93,7 @@ type: change
 ## Also in this release
 
 - [[Changes/Cursor/2026-06-17-handoff-between-local-and-cloud|Handoff between local and cloud]] · Agent Mode
-- [[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|Cursor introduces updates to cloud agents in the Agents Window of the Cursor desktop app]] · Mobile and Desktop
+- [[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|Cursor introduces updates to cloud agents in the Agents Window of the Cursor desktop app]] · Agent Mode
 - [[Changes/Cursor/2026-06-17-cloud-subagents-with-in-cloud-eb7958|Cloud subagents with /in-cloud]] · Agent Mode
 <!-- chronolog:end -->
 

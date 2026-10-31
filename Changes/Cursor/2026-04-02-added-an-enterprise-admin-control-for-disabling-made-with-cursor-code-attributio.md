@@ -4,10 +4,10 @@ date: '2026-04-02'
 description: 'Cursor · 2026-04-02 · Enterprise and Administration: Added an Enterprise
   Admin control for disabling "Made with Cursor" code attribution for the entire team…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
-    users can only access stable release (no pre-release)]]'
+  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
+    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 302
+  lag_days: 743
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 4176066b287dbf74b92fd2bd760576de396e1eb182df9eb3d47c8f978b2e6f89
+machine_hash: 9ea4f2c9b2d4f54d03d0d3eef0d53617b41bd8871805df08f5293335966514ea
 product: cursor
 product_name: Cursor
 record:
@@ -53,10 +53,6 @@ record:
     - agent
     score: 50
     theme: agent-mode
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
   title: Added an Enterprise Admin control for disabling "Made with Cursor" code attribution…
   type: change
 related_changes:
@@ -98,7 +94,7 @@ type: change
 - [[Changes/Cursor/2026-04-02-agent-tabs-in-the-editor|Agent Tabs in the Editor]] · Editor Experience
 - [[Changes/Cursor/2026-04-02-agents-window-da5689|Agents Window]] · Agent Mode
 - [[Changes/Cursor/2026-04-02-past-chat-transcripts-are-now-surfaced-directly-in-at-mention-search-results|Past chat transcripts are now surfaced directly in at-mention search results]] · Search and Browsing
-- [[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file diff rendering is now much faster, smoother, and less memory-heavy]] · Memory and Personalization
+- [[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file diff rendering is now much faster, smoother, and less memory-heavy]] · Reliability and Performance
 - [[Changes/Cursor/2026-04-02-2-apps-and-integrations-changes-in-3-0|2 Apps and Integrations changes in 3.0]] · Apps and Integrations
 - [[Changes/Cursor/2026-04-02-2-other-changes-in-3-0|2 other changes in 3.0]] · Other changes
 <!-- chronolog:end -->
@@ -113,7 +109,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
+- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

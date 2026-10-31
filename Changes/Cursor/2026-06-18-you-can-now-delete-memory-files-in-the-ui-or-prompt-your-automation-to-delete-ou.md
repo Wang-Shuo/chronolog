@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 429ef1dc19bf8d6fe46a1728882fca08db384cb40ddd5ab6530db2cae6a33380
+machine_hash: db4564e015798e0bd2ded271c2667818520a9b5f6c980ca4fee05c343fe7a12c
 product: cursor
 product_name: Cursor
 record:
@@ -55,8 +55,8 @@ record:
     memories…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run
-  correlation: Every send() now carries a platform-generated requestId, exposed…]]'
+- '[[Changes/ChatGPT/2026-06-04-we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping-9a48f3|Memory
+  that stays more up to date]]'
 - '[[Changes/ChatGPT/2026-06-12-you-can-now-delete-the-memories-shown-on-your-memory-summary-page-and-turn-memor-f16782|Additional
   controls for memory summary]]'
 - '[[Changes/Claude Code/2026-06-17-changed-the-improved-n-memories-line-to-no-longer-list-individual-files-outside|Changed

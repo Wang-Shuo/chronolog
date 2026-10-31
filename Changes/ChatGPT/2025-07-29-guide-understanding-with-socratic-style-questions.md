@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 69567ff31071776bc381d86ae2a7279daa2fa36b3ec0f368c5266a3d3b8175de
+machine_hash: b4ee428ee33f7aa4c08c8be4e23bfe96c95443c13fd2e4ddaa812ecfac8739ac
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,6 +44,7 @@ related_changes:
   concepts into easy to follow sections starting simple and adding complexity…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-29-study-mode-ffbfbea6|chatgpt-2025-07-29-study-mode-ffbfbea6]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: learning-tools
 title: Guide understanding with Socratic-style questions
 type: change

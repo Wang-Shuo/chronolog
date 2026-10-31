@@ -15,7 +15,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 933e067233e749d9042cbc0d0967ee573a1c77fdeac0e3d02abc66b357e6917b
+machine_hash: e1eed433b5c4ebe94425928f70a6ed815cb89394800bac41ec3a42b579b33226
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,8 +41,8 @@ record:
 related_changes:
 - '[[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer
   is now default-on and available to all Pro/Business users by hitting cmd+I]]'
-- '[[Changes/Cursor/2025-03-23-2-collaboration-changes-in-0-48-x|2 Collaboration changes
-  in 0.48.x]]'
+- '[[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved
+  indexing performance for teams sharing codebases]]'
 - '[[Changes/Cursor/2025-06-04-admin-api-for-teams-to-access-usage-metrics-and-spend-data|Admin
   API for teams to access usage metrics and spend data]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8|chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8]]'
@@ -67,7 +67,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload files and access model selector on mobile]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload files and access model selector on mobile]] · Model Support
 - [[Changes/ChatGPT/2025-06-12-starting-a-new-project-directly-from-a-chat|Starting a new project directly from a chat]] · Projects and Workspaces
 - [[Changes/ChatGPT/2025-06-12-starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d|Starting today, we’re adding several updates to projects in ChatGPT to help you do…]] · Collaboration
 - [[Changes/ChatGPT/2025-06-12-improvements-to-memory-to-reference-past-chats-in-a-project|Improvements to memory to reference past chats in a project]] · Memory and Personalization

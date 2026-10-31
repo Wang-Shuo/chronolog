@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c62a3e2d82eb410538fdc7ecf5ef872a96152182d1756daf961c751da961bc1a
+machine_hash: 9754cc0bcf9395c1dde7b3b514b467965e67de82a91cda3377e995dab62a6870
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     identify…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-13-feedback-can-now-include-recent-sessions-last-24-hours-or-7-days-for-issues-span|/feedback
-  can now include recent sessions (last 24 hours or 7 days) for issues…]]'
+- '[[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|Codex
+  remote access from the ChatGPT mobile app]]'
 - '[[Changes/Claude Code/2026-06-24-added-rewind-support-for-resuming-a-conversation-from-before-clear-was-run|Added
   /rewind support for resuming a conversation from before /clear was run]]'
 - '[[Changes/Claude Code/2026-06-26-improved-remote-session-startup-with-a-provisioning-checklist-while-the-containe|Improved

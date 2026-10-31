@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 38a79bfc6f9c1f64b88f6de13337eb31930d4c0f03c92a3a2c4f203235fe213e
+machine_hash: 7f66c2f3d3f4b37379b8cc2b9cc14e7271c8331de906ce77161bc6e9311e8381
 product: claude-code
 product_name: Claude Code
 record:
@@ -75,7 +75,7 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-10-23-2-agent-mode-changes-in-v2-1-310|2 Agent Mode changes in v2.1.310]] · Agent Mode
-- [[Changes/Claude Code/2026-10-23-improved-memory-use-of-non-interactive-sessions-p-agent-sdk-during-compaction-wh|Improved memory use of non-interactive sessions (-p, Agent SDK) during compaction…]] · Memory and Personalization
+- [[Changes/Claude Code/2026-10-23-improved-memory-use-of-non-interactive-sessions-p-agent-sdk-during-compaction-wh|Improved memory use of non-interactive sessions (-p, Agent SDK) during compaction…]] · Reliability and Performance
 - [[Changes/Claude Code/2026-10-23-cloud-sessions-added-claude-code-cloud-sessions-and-remote-control-permissions-t|Cloud sessions Added Claude Code cloud sessions and Remote Control permissions…]] · Enterprise and Administration
 - [[Changes/Claude Code/2026-10-23-4-safety-and-privacy-changes-in-v2-1-310|4 Safety and Privacy changes in v2.1.310]] · Safety and Privacy
 - [[Changes/Claude Code/2026-10-23-code-review-improved-the-code-review-admin-section-to-retry-the-first-load-and-s|Code Review Improved the Code Review admin section to retry the first load…]] · Developer Workflow

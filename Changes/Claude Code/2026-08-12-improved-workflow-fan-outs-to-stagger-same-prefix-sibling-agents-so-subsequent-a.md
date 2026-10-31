@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5b1dc70929a3b2750d403d1b236aabbee4a136fbff2749f74dd84a04b967e115
+machine_hash: bedf1d962fe1ff15078d74ac69038c145819ab8e42f117e149969781071644a2
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,12 @@ record:
   title: Improved workflow fan-outs to stagger same-prefix sibling agents so subsequent…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-29-inbox|Inbox]]'
 - '[[Changes/Claude Code/2026-08-06-2-agent-mode-changes-in-v2-1-223|2 Agent Mode
   changes in v2.1.223]]'
 - '[[Changes/Claude Code/2026-08-07-removed-the-200-subagent-per-session-spawn-cap-long-running-sessions-no-longer-r|Removed
   the 200-subagent-per-session spawn cap]]'
+- '[[Changes/Claude Code/2026-08-11-removed-the-outdated-note-about-auto-mode-sessions-costing-slightly-more-from-th|Removed
+  the outdated note about auto mode sessions costing slightly more…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-12-v2-1-229-github-369475532-b063933d|claude-code-2026-08-12-v2-1-229-github-369475532-b063933d]]'
 source_type: github_releases
 theme: agent-mode
@@ -84,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-removed-the-200-subagent-per-session-spawn-cap-long-running-sessions-no-longer-r|Removed the 200-subagent-per-session spawn cap]]
+- Earlier: 2026-08-11 · Claude Code · [[Changes/Claude Code/2026-08-11-removed-the-outdated-note-about-auto-mode-sessions-costing-slightly-more-from-th|Removed the outdated note about auto mode sessions costing slightly more…]]
 - Later: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-4-agent-mode-changes-in-v2-1-232|4 Agent Mode changes in v2.1.232]]
 <!-- chronolog:end -->
 

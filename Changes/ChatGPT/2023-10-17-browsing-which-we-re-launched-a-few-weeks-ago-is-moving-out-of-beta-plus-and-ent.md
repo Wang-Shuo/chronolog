@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a82d763b9e0fe0f73fea03294591f83ca8c2c8e628b3230a61f2f8d964ee2199
+machine_hash: 842d65e1957ed32c26c30491ebddc315a7833e421a465fe2d164e3d5cc03fd4f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,10 +56,6 @@ record:
     - browsing
     score: 100
     theme: search-browsing
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v2
   title: Browsing is now out of beta
   type: change

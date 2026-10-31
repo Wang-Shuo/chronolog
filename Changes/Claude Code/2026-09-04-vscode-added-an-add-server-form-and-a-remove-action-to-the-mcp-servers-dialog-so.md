@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9aed821ad4ecfa63102b99ea1a12ac9ec3f26382d96f979030d9e7166be23314
+machine_hash: 5845ff394eef2794a889db218900f7bd75b8d1100804f4cb2fb7253ad8ded9b8
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,10 +85,9 @@ type: change
 
 - [[Changes/Claude Code/2026-09-04-improved-streaming-performance-already-rendered-blocks-are-no-longer-re-checked|Improved streaming performance]] · Reliability and Performance
 - [[Changes/Claude Code/2026-09-04-3-interface-experience-changes-in-v2-1-261|3 Interface Experience changes in v2.1.261]] · Interface Experience
-- [[Changes/Claude Code/2026-09-04-vscode-added-a-hollow-ring-in-the-session-list-for-sessions-open-in-a-terminal-a|VSCode Added a hollow ring in the session list for sessions open in a terminal…]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-09-04-3-developer-workflow-changes-in-v2-1-261|3 Developer Workflow changes in v2.1.261]] · Developer Workflow
 - [[Changes/Claude Code/2026-09-04-2-agent-mode-changes-in-v2-1-261|2 Agent Mode changes in v2.1.261]] · Agent Mode
 - [[Changes/Claude Code/2026-09-04-2-account-and-access-changes-in-v2-1-261|2 Account and Access changes in v2.1.261]] · Account and Access
-- [[Changes/Claude Code/2026-09-04-2-developer-workflow-changes-in-v2-1-261|2 Developer Workflow changes in v2.1.261]] · Developer Workflow
 - [[Changes/Claude Code/2026-09-04-changed-context-token-counting-to-use-a-local-estimate-when-the-token-counting-a|Changed /context token counting to use a local estimate when the token-counting…]] · Context Window
 - [[Changes/Claude Code/2026-09-04-added-skill-doctor-to-show-which-loaded-skills-go-unused-and-what-they-cost-in-c|Added /skill-doctor to show which loaded skills go unused and what they cost…]] · Context Window
 - [[Changes/Claude Code/2026-09-04-4-safety-and-privacy-changes-in-v2-1-261|4 Safety and Privacy changes in v2.1.261]] · Safety and Privacy

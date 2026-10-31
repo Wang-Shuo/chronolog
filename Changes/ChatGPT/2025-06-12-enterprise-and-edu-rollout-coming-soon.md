@@ -4,10 +4,10 @@ date: '2025-06-12'
 description: 'ChatGPT · 2025-06-12 · Enterprise and Administration: Enterprise and
   Edu rollout coming soon.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
-    users can only access stable release (no pre-release)]]'
+  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
+    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 8
+  lag_days: 449
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e74ded11cc4e99bc1d42262ec78de24ad92233bc49bdb6e84d57b702a9eac21e
+machine_hash: e4e689bc3b1c122c3f957803d341f64c3944b5fe824932ce8312a95ba730d5d0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,6 +41,10 @@ record:
   title: Enterprise and Edu rollout coming soon
   type: change
 related_changes:
+- '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
+  improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+- '[[Changes/Cursor/2025-03-23-enhanced-visibility-of-auto-run-controls-configured-by-team-admins-clarifying-wh|Enhanced
+  visibility of auto-run controls configured by team admins, clarifying…]]'
 - '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
   users can only access stable release (no pre-release)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-12-expanded-model-support-for-custom-gpts-55f4555f|chatgpt-2025-06-12-expanded-model-support-for-custom-gpts-55f4555f]]'
@@ -72,13 +76,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
-- Later: 2025-09-03 · ChatGPT · [[Changes/ChatGPT/2025-09-03-projects-bring-your-chats-and-files-into-one-place-helping-you-stay-focused-and-96a40d|Projects Now Available on ChatGPT Free Tier]]
+- Later: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow team admins to configure an extension allowlist]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
+- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

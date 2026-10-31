@@ -1,22 +1,23 @@
 ---
 card_id: chatgpt-2025-02-14-9f7f55
 date: '2025-02-14'
-description: 'ChatGPT · 2025-02-14 · Mobile and Desktop: iOS performance fixes.'
+description: 'ChatGPT · 2025-02-14 · Reliability and Performance: iOS performance
+  fixes.'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 703
+  lag_days: 792
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: mobile-desktop
+  theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1ff8a6d779a6ac96e156b848879e3cc3d7af3d1b66dbd80744898a6507a70297
+machine_hash: 0322009f0bd184a476afd1dae3376f12f7bc585a3fbef4d9376ad1a79a84d259
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,29 +37,19 @@ record:
   slug: ios-performance-fixes
   source_release: chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b
   source_type: chatgpt_changelog
-  theme: mobile-desktop
-  theme_matches:
-  - matched_terms:
-    - ios
-    score: 50
-    theme: mobile-desktop
-  - matched_terms:
-    - performance
-    score: 50
-    theme: reliability-performance
-  theme_resolution: manual-semantic-rule-v1
+  theme: reliability-performance
   title: iOS performance fixes
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-11-22-improved-mobile-web-experience|Improved Mobile Web
-  Experience]]'
-- '[[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|More
-  personalization in Custom Instructions]]'
+- '[[Changes/Cursor/2024-12-17-cheaper-and-faster-bug-finding-model|Cheaper and faster
+  Bug Finding Model]]'
+- '[[Changes/Cursor/2025-01-23-also-adds-mcp-support-team-configurable-blocklists-fixes-composer-stuck-on-gener|Also
+  adds MCP support, team-configurable blocklists, fixes Composer stuck…]]'
 - '[[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved
   Android conversation parsing performance]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b|chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b]]'
 source_type: chatgpt_changelog
-theme: mobile-desktop
+theme: reliability-performance
 title: iOS performance fixes
 type: change
 ---
@@ -66,7 +57,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # iOS performance fixes
 
-**ChatGPT** · 2025-02-14 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b|- Set ChatGPT as default search engine in Safari.]]
+**ChatGPT** · 2025-02-14 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b|- Set ChatGPT as default search engine in Safari.]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -80,22 +71,22 @@ type: change
 
 - [[Changes/ChatGPT/2025-02-14-whisper-chatgpt-s-voice-to-text-feature-now-shows-a-text-preview-of-dictated-tex|Whisper (ChatGPT's voice-to-text feature) now shows a text preview of dictated text…]] · Voice and Audio
 - [[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set ChatGPT as default search engine in Safari]] · Search and Browsing
-- [[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved Android conversation parsing performance]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved Android conversation parsing performance]] · Reliability and Performance
 - [[Changes/ChatGPT/2025-02-14-confirmation-dialog-for-logging-out-ios-web|Confirmation dialog for logging out (iOS, web)]] · Mobile and Desktop
 - [[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|Updated launch animations and composer design on Android]] · Mobile and Desktop
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Mobile and Desktop
+## Nearby in Reliability and Performance
 
-- Earlier: 2025-01-17 · ChatGPT · [[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|More personalization in Custom Instructions]]
-- Later: 2025-02-21 · ChatGPT · [[Changes/ChatGPT/2025-02-21-ios-widget-see-below|iOS widget (see below)]]
+- Earlier: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-also-adds-mcp-support-team-configurable-blocklists-fixes-composer-stuck-on-gener|Also adds MCP support, team-configurable blocklists, fixes Composer stuck…]]
+- Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-2-reliability-and-performance-changes-in-0-46-x|2 Reliability and Performance changes in 0.46.x]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

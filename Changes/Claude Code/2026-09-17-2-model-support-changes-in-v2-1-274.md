@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f019195a2facad940c088fcb7db3ea0116236f133289055ef1ca5b2ac3a034b
+machine_hash: 2d5061258e8eade1f48af2af4052d538ab73c5143599eccd320906a824fd983c
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
 related_changes:
 - '[[Changes/ChatGPT/2026-09-14-we-re-retiring-automatic-switching-from-instant-to-thinking-reasoning-for-chatgp|Changes
   to automatic switching to thinking in ChatGPT (Plus and Pro)]]'
-- '[[Changes/Claude Code/2026-09-14-improved-startup-time-slightly-by-skipping-a-redundant-validation-of-built-in-mo|Improved
-  startup time slightly by skipping a redundant validation of built-in model…]]'
+- '[[Changes/Claude Code/2026-09-14-2-model-support-changes-in-v2-1-271|2 Model Support
+  changes in v2.1.271]]'
 - '[[Changes/Claude Code/2026-09-15-changed-bug-and-feedback-reports-to-include-only-model-behavior-params-model-sys|Changed
   /bug and /feedback reports to include only model-behavior params…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d|claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d]]'

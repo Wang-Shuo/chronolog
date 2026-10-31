@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b91f8279cd8b8c22da49e19a893292df3dca4807478f3b4e1a7f6bb018f99f72
+machine_hash: 7905581a93c3c5675ae5f5d5939d14c8882b45110402335926b33198ac2d4126
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,15 +58,6 @@ record:
     score: 120
     theme: image-generation
   - matched_terms:
-    - android
-    - ios
-    score: 100
-    theme: mobile-desktop
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
-  - matched_terms:
     - sidebar
     score: 50
     theme: interface-experience
@@ -74,7 +65,6 @@ record:
     - browse
     score: 50
     theme: search-browsing
-  theme_resolution: manual-semantic-rule-v1
   title: ChatGPT Image Library
   type: change
 related_changes:

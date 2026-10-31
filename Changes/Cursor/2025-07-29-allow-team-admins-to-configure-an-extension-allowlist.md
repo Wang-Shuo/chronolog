@@ -1,22 +1,23 @@
 ---
 card_id: cursor-2025-07-29-f6b2d1
 date: '2025-07-29'
-description: 'Cursor · 2025-07-29 · Collaboration: Allow team admins to configure
-  an extension allowlist'
+description: 'Cursor · 2025-07-29 · Enterprise and Administration: Allow team admins
+  to configure an extension allowlist'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
+    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 797
+  lag_days: 496
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: collaboration
+  theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c5199ec318a3b45666a872b10795acb404bc72063490350bfacba976021191fc
+machine_hash: a67ea30002b0fef9e12830c5d92435c9aad025482e8b8fce28229abfe458a391
 product: cursor
 product_name: Cursor
 record:
@@ -36,28 +37,19 @@ record:
   slug: allow-team-admins-to-configure-an-extension-allowlist
   source_release: cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3
   source_type: cursor_changelog
-  theme: collaboration
-  theme_matches:
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
-  - matched_terms:
-    - admins
-    score: 50
-    theme: enterprise-admin
-  theme_resolution: manual-semantic-rule-v1
+  theme: enterprise-admin
   title: Allow team admins to configure an extension allowlist
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-12-sharing-chats-from-projects|Sharing chats from projects]]'
-- '[[Changes/ChatGPT/2025-06-12-starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d|Starting
-  today, we’re adding several updates to projects in ChatGPT to help you do…]]'
-- '[[Changes/Cursor/2025-06-12-use-cursor-where-your-team-works-3e7ca8|Use Cursor
-  where your team works]]'
+- '[[Changes/Cursor/2025-03-23-enhanced-visibility-of-auto-run-controls-configured-by-team-admins-clarifying-wh|Enhanced
+  visibility of auto-run controls configured by team admins, clarifying…]]'
+- '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
+  users can only access stable release (no pre-release)]]'
+- '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise
+  and Edu rollout coming soon]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3]]'
 source_type: cursor_changelog
-theme: collaboration
+theme: enterprise-admin
 title: Allow team admins to configure an extension allowlist
 type: change
 ---
@@ -65,7 +57,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Allow team admins to configure an extension allowlist
 
-**Cursor** · 2025-07-29 · [[Themes/collaboration|Collaboration]] · [Official source](https://cursor.com/changelog/1-3) · from [[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|Shared terminal with Agent, context usage in chat, and faster edits]]
+**Cursor** · 2025-07-29 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://cursor.com/changelog/1-3) · from [[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|Shared terminal with Agent, context usage in chat, and faster edits]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -90,16 +82,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Collaboration
+## Nearby in Enterprise and Administration
 
-- Earlier: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-use-cursor-where-your-team-works-3e7ca8|Use Cursor where your team works]]
-- Later: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-ai-code-tracking-api-get-commit-level-visibility-into-ai-usage-and-accepted-chan|AI code tracking API]]
+- Earlier: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise and Edu rollout coming soon]]
+- Later: 2025-09-03 · ChatGPT · [[Changes/ChatGPT/2025-09-03-projects-bring-your-chats-and-files-into-one-place-helping-you-stay-focused-and-96a40d|Projects Now Available on ChatGPT Free Tier]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

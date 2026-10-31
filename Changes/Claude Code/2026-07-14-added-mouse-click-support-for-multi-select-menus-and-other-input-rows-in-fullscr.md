@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 359911f656e55c927bd1cebf2d9838fcd42a6196602073ff6a70ef2e1ae8f813
+machine_hash: b7ffb8e02791980f9d541de367e8fbe06ae9da32704346cb8b43eca8053bdd12
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,7 +45,7 @@ record:
     fullscreen mode
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-10-6-interface-experience-changes-in-side-chats-and-conversation-search|6
+- '[[Changes/Cursor/2026-07-10-7-interface-experience-changes-in-side-chats-and-conversation-search|7
   Interface Experience changes in Side Chats and Conversation Search]]'
 - '[[Changes/Cursor/2026-07-10-redesigned-project-and-repo-pickers|Redesigned project
   and repo pickers]]'

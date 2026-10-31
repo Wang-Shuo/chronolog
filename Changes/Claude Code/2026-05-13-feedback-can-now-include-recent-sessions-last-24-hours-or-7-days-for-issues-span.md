@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c4d9a17f8f12fa9af7d90513d85eacec995f3f6544f4514826ab0871e5bae71f
+machine_hash: 3759c80b685c7e2ad1ff6c3db1e75748dcbfb70d787e5199499abfa65c7efe7f
 product: claude-code
 product_name: Claude Code
 record:
@@ -79,7 +79,8 @@ type: change
 - [[Changes/Claude Code/2026-05-13-vscode-voice-mode-the-wsl-error-now-suggests-installing-sox-libsox-fmt-pulse-for|VSCode Voice mode]] · Voice and Audio
 - [[Changes/Claude Code/2026-05-13-rewind-menu-added-summarize-up-to-here-to-compress-earlier-context-while-keeping|Rewind menu: added "Summarize up to here" to compress earlier context while keeping…]] · Context Window
 - [[Changes/Claude Code/2026-05-13-bedrock-awscredentialexport-now-always-runs-when-configured-instead-of-being-ski|Bedrock: awsCredentialExport now always runs when configured instead of being…]] · Account and Access
-- [[Changes/Claude Code/2026-05-13-2-apps-and-integrations-changes-in-v2-1-141|2 Apps and Integrations changes in v2.1.141]] · Apps and Integrations
+- [[Changes/Claude Code/2026-05-13-added-terminalsequence-field-to-hook-json-output-so-hooks-can-emit-desktop-notif|Added terminalSequence field to hook JSON output so hooks can emit desktop…]] · Developer Workflow
+- [[Changes/Claude Code/2026-05-13-added-claude-code-plugin-prefer-https-to-clone-github-plugin-sources-over-https|Added CLAUDE_CODE_PLUGIN_PREFER_HTTPS to clone GitHub plugin sources over HTTPS…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-05-13-4-agent-mode-changes-in-v2-1-141|4 Agent Mode changes in v2.1.141]] · Agent Mode
 - [[Changes/Claude Code/2026-05-13-added-anthropic-workspace-id-environment-variable-for-workload-identity-federati|Added ANTHROPIC_WORKSPACE_ID environment variable for workload identity federation]] · Enterprise and Administration
 - [[Changes/Claude Code/2026-05-13-empty-idle-background-sessions-left-over-from-are-now-automatically-retired-by-t|Empty idle background sessions left over from ← are now automatically retired…]] · Other changes
@@ -89,7 +90,7 @@ type: change
 ## Nearby in Projects and Workspaces
 
 - Earlier: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-added-claude-project-purge-path-to-delete-all-claude-code-state-for-a-project-tr|- Added claude project purge path to delete all Claude Code state for a project…]]
-- Later: 2026-06-24 · Claude Code · [[Changes/Claude Code/2026-06-24-added-rewind-support-for-resuming-a-conversation-from-before-clear-was-run|Added /rewind support for resuming a conversation from before /clear was run]]
+- Later: 2026-05-14 · ChatGPT · [[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|Codex remote access from the ChatGPT mobile app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

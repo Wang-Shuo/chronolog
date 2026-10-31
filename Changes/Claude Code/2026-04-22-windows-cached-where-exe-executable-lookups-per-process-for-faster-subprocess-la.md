@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 59f00e280c1f189ccb45cd1374ae5265619786dda32ab80d5650e0cf6ff7ef25
+machine_hash: a5deb501e69e5d90d935bcbe5b138028dc46fa148a0b84cefcfc83661b927597
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   on large sessions is significantly faster (up to 67% on 40MB+ sessions)…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-22-v2-1-117-github-311984967-1d917373|claude-code-2026-04-22-v2-1-117-github-311984967-1d917373]]'
 source_type: github_releases
+superseded: true
 theme: reliability-performance
 title: 'Windows: cached where.exe executable lookups per process for faster subprocess
   launches'

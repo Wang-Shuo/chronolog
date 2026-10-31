@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aaf4f6950af91a3bdd5832504d582a57d730a7dacd935ca21c177bf3e3d2dfc6
+machine_hash: 7aae2bdcf0f56414f6ee9fdb5a3ef27322db3ee614eef29ca95343b0c67dd3a5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee|Use Computer History in more regions]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee|Use Computer History in more regions]] · Memory and Personalization
 - [[Changes/ChatGPT/2026-08-20-keep-pinned-chats-in-sync-pinned-chats-now-stay-in-sync-between-the-chatgpt-desk|Keep pinned chats in sync]] · Mobile and Desktop
 - [[Changes/ChatGPT/2026-08-20-use-apple-messages-from-codex-and-chatgpt-work-on-apple-silicon-macs-the-apple-m|Use Apple Messages from Codex and ChatGPT Work]] · Apps and Integrations
 <!-- chronolog:end -->
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-removed-the-default-teammate-model-setting-from-config-agent-team-teammates-now|Removed the "Default teammate model" setting from /config]]
-- Later: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o|Share your stickers in messaging apps]]
+- Later: 2026-09-03 · ChatGPT · [[Changes/ChatGPT/2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside|Share Sites with people outside your workspace]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

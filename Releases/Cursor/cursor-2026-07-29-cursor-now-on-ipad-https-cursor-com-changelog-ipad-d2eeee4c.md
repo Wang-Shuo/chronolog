@@ -2,8 +2,8 @@
 changes_count: 6
 date: '2026-07-29'
 description: 'Cursor release Cursor, now on iPad on 2026-07-29: 6 tracked changes
-  across Mobile and Desktop, Agent Mode, Collaboration, Other changes'
-machine_hash: adcd8e7dd643d54353608fb2149ad6b83a8e456243209c27e7f28e471e8a0c47
+  across Agent Mode, Mobile and Desktop, Collaboration, Other changes'
+machine_hash: 4513767c84113890b3668f6905c83dda396a96efe0632e9a3ea65569f954038e
 product: cursor
 product_name: Cursor
 record:
@@ -43,7 +43,7 @@ Tracked 6 cards from 10 candidate lines.
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and|A full review surface]] · Mobile and Desktop · Launch
+- [[Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and|A full review surface]] · Agent Mode · Launch
 - [[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch between teams that you belong to directly in the app]] · Collaboration
 - [[Changes/Cursor/2026-07-29-built-for-the-bigger-screen-98bf7a|Built for the bigger screen]] · Mobile and Desktop · Launch
 - [[Changes/Cursor/2026-07-29-inbox|Inbox]] · Agent Mode · Launch

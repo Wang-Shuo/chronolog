@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 82efa070ee1c17158203eb6a77f4fced34178e7dc583190d80c0d4632d655321
+machine_hash: ca5593b2f60828763fc43c1842095583f5481f5cf83af716bbf2d4118634ec21
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Auto-updater on Windows now stops retrying within a session once `claude.exe`…
   type: change
 related_changes:
+- '[[Changes/Cursor/2026-06-04-bundled-ripgrep-local-shell-runs-use-the-bundled-platform-rg-binary-without-modi|Bundled
+  ripgrep: Local shell runs use the bundled platform rg binary without…]]'
 - '[[Changes/ChatGPT/2026-06-08-cleaner-edit-message-flow-android-now-makes-it-clearer-when-you-re-editing-a-pre|Cleaner
   edit-message flow]]'
 - '[[Changes/ChatGPT/2026-06-08-immediate-image-previews-after-sending-when-you-upload-an-image-on-ios-chatgpt-u|Immediate
   image previews after sending]]'
-- '[[Changes/ChatGPT/2026-06-08-cleaned-up-logged-out-mobile-web-experience-logged-out-users-now-see-a-composer|Cleaned
-  up logged-out mobile web experience]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d|claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-08 · ChatGPT · [[Changes/ChatGPT/2026-06-08-cleaned-up-logged-out-mobile-web-experience-logged-out-users-now-see-a-composer|Cleaned up logged-out mobile web experience]]
+- Earlier: 2026-06-08 · ChatGPT · [[Changes/ChatGPT/2026-06-08-immediate-image-previews-after-sending-when-you-upload-an-image-on-ios-chatgpt-u|Immediate image previews after sending]]
 - Later: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-disable-mouse-tracking-on-windows-consoles-that-don-t-fully-support-it|Disable mouse tracking on Windows consoles that don't fully support it]]
 <!-- chronolog:end -->
 

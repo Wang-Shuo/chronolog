@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 53fe8dff9adb7f2660c2c32c07eebe13747729d7cd747a7d2c91a6c86609dd7c
+machine_hash: 969a47ac71b2005338269a6b15a136c27198ad8010453dfc4feb052ac424203e
 product: cursor
 product_name: Cursor
 record:
@@ -61,9 +61,10 @@ record:
   title: 5 Agent Mode changes in Custom stores, custom tools…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-jsonl-and-custom-stores|JSONL and custom stores]]'
 - '[[Changes/Cursor/2026-06-04-auto-review|Auto-review]]'
 - '[[Changes/Cursor/2026-06-04-nested-subagents|Nested subagents]]'
+- '[[Changes/Cursor/2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an|With
+  canvases, agents can create interactive artifacts like dashboards, reports…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856|cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -102,7 +103,7 @@ Source: https://cursor.com/changelog/sdk-updates-jun-2026
 - [[Changes/Cursor/2026-06-04-reliable-wait-on-local-runs-local-runs-no-longer-resolve-wait-before-the-termina|Reliable wait() on local runs]] · Automation and Scheduling
 - [[Changes/Cursor/2026-06-04-jsonl-and-custom-stores|JSONL and custom stores]] · Agent Mode
 - [[Changes/Cursor/2026-06-04-auto-review|Auto-review]] · Agent Mode
-- [[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run correlation: Every send() now carries a platform-generated requestId, exposed…]] · Memory and Personalization
+- [[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run correlation: Every send() now carries a platform-generated requestId, exposed…]] · Reliability and Performance
 - [[Changes/Cursor/2026-06-04-nested-subagents|Nested subagents]] · Agent Mode
 - [[Changes/Cursor/2026-06-04-we-ve-shipped-a-batch-of-new-functionality-across-the-typescript-and-python-sdks|We've shipped a batch of new functionality across the TypeScript and Python SDKs]] · Apps and Integrations
 - [[Changes/Cursor/2026-06-04-2-apps-and-integrations-changes-in-custom-stores-custom-tools|2 Apps and Integrations changes in Custom stores, custom tools…]] · Apps and Integrations
@@ -113,7 +114,7 @@ Source: https://cursor.com/changelog/sdk-updates-jun-2026
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-added-the-ability-for-agents-to-embed-buttons-in-canvases-that-will-run-a-specif|Added the ability for agents to embed buttons in canvases that will run a specific…]]
+- Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an|With canvases, agents can create interactive artifacts like dashboards, reports…]]
 - Later: 2026-06-05 · Cursor · [[Changes/Cursor/2026-06-05-ask-the-agent-to-make-one-match-the-other-remove-repeated-content-or-adjust-a-gr|Multi-select elements]]
 <!-- chronolog:end -->
 

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 779b2f1bae2b79d51e376fa51fa9d1053a3e9f0d481fb4593ca01778f00c9ac0
+machine_hash: b3ed667459537eab6d5bdb88ad49a36750cc500b7cfd18bd1221c3535a6f3cca
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.211
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-3-apps-and-integrations-changes-in-v2-1-208|3 Apps and Integrations changes in v2.1.208]]
-- Later: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-2-apps-and-integrations-changes-in-v2-1-212|2 Apps and Integrations changes in v2.1.212]]
+- Later: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-mcp-tool-calls-running-longer-than-2-minutes-now-move-to-the-background-automati|MCP tool calls running longer than 2 minutes now move to the background…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

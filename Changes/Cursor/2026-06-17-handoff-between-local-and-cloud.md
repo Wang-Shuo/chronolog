@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 46409682431c81e58897ea1f3a79aa1463a345b3a68d1bbe8b7e41a412bf1d4e
+machine_hash: 361f8266368694604b56482d8964e12aa2f09fb9579d54df29062f11794f7630
 product: cursor
 product_name: Cursor
 record:
@@ -78,7 +78,7 @@ type: change
 ## Also in this release
 
 - [[Changes/Cursor/2026-06-17-cloud-environment-setup-8a7697|Cloud environment setup]] · Developer Workflow
-- [[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|Cursor introduces updates to cloud agents in the Agents Window of the Cursor desktop app]] · Mobile and Desktop
+- [[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|Cursor introduces updates to cloud agents in the Agents Window of the Cursor desktop app]] · Agent Mode
 - [[Changes/Cursor/2026-06-17-cloud-subagents-with-in-cloud-eb7958|Cloud subagents with /in-cloud]] · Agent Mode
 <!-- chronolog:end -->
 

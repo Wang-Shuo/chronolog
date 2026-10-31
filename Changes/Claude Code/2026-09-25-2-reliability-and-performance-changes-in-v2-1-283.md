@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 07776249b55dca392e5b5593573af1050d2d0a3d9bc382bbb43a2dfb923ed77e
+machine_hash: 065b58b38e0556bc301fd50ce6b04b7121f60d8e91938fb5c4daf4729df8f92d
 product: claude-code
 product_name: Claude Code
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.283
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-deploy-tracking|Deploy tracking]]
-- Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-fixed-the-powershell-tool-s-permission-check-skipping-deny-and-ask-rules-and-cac|Fixed the PowerShell tool's permission check skipping deny and ask rules…]]
+- Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-improved-startup-time-and-memory-use-by-building-only-the-parts-of-the-settings|Improved startup time and memory use by building only the parts of the settings…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

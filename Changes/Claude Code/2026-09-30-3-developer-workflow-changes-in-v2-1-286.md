@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 78b0ecf9bef284bc9196b9110bc2636a0068ba8b98c96a3cc5a121c5fbdaccc1
+machine_hash: a76229d304214dac17eb8057b678b0a8d7d6542d7b200e5846cdae44c3d1be28
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Developer Workflow changes in v2.1.286
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-24-changed-windows-wsl-managed-settings-so-an-admin-policy-that-is-present-but-inva|Changed
-  Windows/WSL managed settings so an admin policy that is present but invalid…]]'
 - '[[Changes/Claude Code/2026-09-25-3-developer-workflow-changes-in-v2-1-283|3 Developer
   Workflow changes in v2.1.283]]'
+- '[[Changes/Claude Code/2026-09-28-changed-recap-to-decline-with-a-short-notice-when-it-arrives-relayed-from-a-chat|Changed
+  /recap to decline with a short notice when it arrives relayed from a chat…]]'
 - '[[Changes/Claude Code/2026-09-29-3-developer-workflow-changes-in-v2-1-285|3 Developer
   Workflow changes in v2.1.285]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7|claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7]]'

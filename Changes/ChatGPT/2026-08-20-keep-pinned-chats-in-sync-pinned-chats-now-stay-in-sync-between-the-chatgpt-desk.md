@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 987da2c902d852828c8f1b279936592c1e48edf47291e176979da537a897242b
+machine_hash: 9408f5b526db0da48345251ce2f83432035ae8a0fe75ce0e6c9dae56caf81c4e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,12 +46,12 @@ record:
   title: Keep pinned chats in sync
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2026-08-14-learning-projects-and-personalized-suggestions|Learning,
+  Projects, and personalized suggestions]]'
 - '[[Changes/ChatGPT/2026-08-14-use-chatgpt-and-codex-on-linux-the-desktop-app-is-now-available-globally-in-publ|Use
   ChatGPT and Codex on Linux]]'
 - '[[Changes/Claude Code/2026-08-19-added-notify-when-idle-to-cross-session-sendmessage-ask-another-claude-code-sess|Added
   notify_when_idle to cross-session SendMessage]]'
-- '[[Changes/ChatGPT/2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee|Use
-  Computer History in more regions]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee|Use Computer History in more regions]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee|Use Computer History in more regions]] · Memory and Personalization
 - [[Changes/ChatGPT/2026-08-20-use-apple-messages-from-codex-and-chatgpt-work-on-apple-silicon-macs-the-apple-m|Use Apple Messages from Codex and ChatGPT Work]] · Apps and Integrations
 - [[Changes/ChatGPT/2026-08-20-share-a-read-only-snapshot-of-a-codex-chat-personal-share-links-can-be-opened-by|Share a read-only snapshot of a Codex chat]] · Collaboration
 <!-- chronolog:end -->

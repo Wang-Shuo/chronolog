@@ -15,7 +15,7 @@ created: '2022-12-15'
 date: '2026-10-30'
 description: OpenAI's conversational AI assistant, tracked through the official ChatGPT
   release notes in the OpenAI Help Center.
-machine_hash: ece519713ede2701ae4c15cbe85a5f8e9b43291e2bcf2b5ddc57ae9f0797c818
+machine_hash: 5e97bdfd3fec690819b18b46c69ea25ab8b61aedd7a1dc0f3d973f9c879ab0aa
 modified: '2026-10-30'
 product: chatgpt
 product_name: ChatGPT
@@ -32,24 +32,24 @@ top_themes:
 - interface-experience
 - search-browsing
 - pricing-model
+- reliability-performance
 - collaboration
 - file-data
-- reliability-performance
 - image-generation
-- enterprise-admin
 - safety-privacy
+- enterprise-admin
 - context-window
 - account-access
 - automation-scheduling
 - editor-experience
 - projects-workspaces
 - agent-mode
-- learning-tools
 - multimodal
-- accessibility-localization
+- learning-tools
 - developer-workflow
+- accessibility-localization
 - artifact-creation
-verbosity_baseline: 1.72
+verbosity_baseline: 1.71
 ---
 
 <!-- chronolog:begin region="header" -->
@@ -134,14 +134,14 @@ Representative releases:
 
 ## Themes
 <!-- chronolog:begin region="themes" -->
-- [[Themes/model-support|Model Support]] · 82 cards · ████████████
-- [[Themes/mobile-desktop|Mobile and Desktop]] · 71 cards · ██████████
-- [[Themes/memory|Memory and Personalization]] · 43 cards · ██████
-- [[Themes/voice|Voice and Audio]] · 42 cards · ██████
-- [[Themes/apps-integrations|Apps and Integrations]] · 40 cards · ██████
-- [[Themes/interface-experience|Interface Experience]] · 24 cards · ████
-- [[Themes/search-browsing|Search and Browsing]] · 24 cards · ████
-- [[Themes/collaboration|Collaboration]] · 22 cards · ███
+- [[Themes/model-support|Model Support]] · 85 cards · ████████████
+- [[Themes/mobile-desktop|Mobile and Desktop]] · 47 cards · ███████
+- [[Themes/memory|Memory and Personalization]] · 45 cards · ██████
+- [[Themes/voice|Voice and Audio]] · 45 cards · ██████
+- [[Themes/apps-integrations|Apps and Integrations]] · 42 cards · ██████
+- [[Themes/interface-experience|Interface Experience]] · 31 cards · ████
+- [[Themes/search-browsing|Search and Browsing]] · 25 cards · ████
+- [[Themes/pricing-model|Pricing Model]] · 23 cards · ███
 - Other changes · 3 cards
 <!-- chronolog:end -->
 
@@ -475,8 +475,8 @@ Acquisition details, how cards are made and known gaps: [[About]].
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="changes" -->
-> [!info]- All tracked changes (508 cards)
-> **2026** · 271 cards
+> [!info]- All tracked changes (509 cards)
+> **2026** · 273 cards
 >
 > - 2026-10-30 · Memory and Personalization: [[Changes/ChatGPT/2026-10-30-account-switching-is-rolling-out-to-the-chatgpt-ios-and-android-apps-you-can-sta|Account switching on iOS and Android]]
 > - 2026-10-28 · Safety and Privacy: [[Changes/ChatGPT/2026-10-28-texting-your-dot-is-starting-to-roll-out-in-beta-to-pro-users-in-the-u-s|Texting your dot]]
@@ -484,8 +484,8 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2026-10-27 · Mobile and Desktop: [[Changes/ChatGPT/2026-10-27-you-can-learn-more-about-how-chatgpt-uses-connected-apps-here-available-to-all-c|You can learn more about how ChatGPT uses connected apps here]]
 > - 2026-10-27 · Automation and Scheduling: [[Changes/ChatGPT/2026-10-27-icloud-users-can-now-connect-mail-and-calendar-to-chatgpt-to-find-emails-catch-u|iCloud users can now connect Mail and Calendar to ChatGPT to find emails, catch up…]]
 > - 2026-10-26 · Model Support: [[Changes/ChatGPT/2026-10-26-gpt-6-1-terra-is-rolling-out-in-chatgpt-work-and-codex-it-supports-a-range-of-ta|GPT-6.1 Terra]]
-> - 2026-10-21 · Mobile and Desktop: [[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo payments in Vietnam]]
-> - 2026-10-20 · Mobile and Desktop: [[Changes/ChatGPT/2026-10-20-locked-chats-let-you-keep-selected-conversations-in-your-account-while-hiding-th|Introducing locked chats]]
+> - 2026-10-21 · Pricing Model: [[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo payments in Vietnam]]
+> - 2026-10-20 · Account and Access: [[Changes/ChatGPT/2026-10-20-locked-chats-let-you-keep-selected-conversations-in-your-account-while-hiding-th|Introducing locked chats]]
 > - 2026-10-16 · Editor Experience: [[Changes/ChatGPT/2026-10-16-work-together-invite-teammates-to-edit-the-same-deck-in-real-time-and-leave-shar|Work together]]
 > - 2026-10-16 · Collaboration: [[Changes/ChatGPT/2026-10-16-chatgpt-slides-lets-you-create-presentations-and-keep-working-on-them-with-your|ChatGPT Slides lets you create presentations and keep working on them with your team…]]
 > - 2026-10-16 · Editor Experience: [[Changes/ChatGPT/2026-10-16-create-and-refine-edit-text-images-shapes-and-charts-directly-or-ask-chatgpt-to|Create and refine]]
@@ -503,12 +503,14 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2026-10-02 · Mobile and Desktop: [[Changes/ChatGPT/2026-10-02-finances-in-chatgpt-is-rolling-out-to-free-and-go-users-in-the-u-s-on-web-ios-an|Finances expands to Free and Go users]]
 > - 2026-10-01 · Files and Data: [[Changes/ChatGPT/2026-10-01-it-s-now-easier-to-bring-your-notes-and-documents-into-chatgpt-on-your-phone-cap|Scan notes and documents more easily with ChatGPT camera]]
 > - 2026-10-01 · Memory and Personalization: [[Changes/ChatGPT/2026-10-01-virtually-try-on-clothing-and-accessories-a-try-on-button-will-appear-on-product|Virtually try on clothing and accessories]]
-> - 2026-09-29 · Mobile and Desktop: [[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio is deleted once your notes are ready and can’t be accessed or replayed]]
+> - 2026-09-29 · Voice and Audio: [[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio is deleted once your notes are ready and can’t be accessed or replayed]]
+> - 2026-09-29 · Model Support: [[Changes/ChatGPT/2026-09-29-eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp|Eligible Plus and Pro users can authorize participating apps to use their ChatGPT…]]
 > - 2026-09-29 · Pricing Model: [[Changes/ChatGPT/2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o-e04989|A new Pro plan with Astra Ultrafast]]
 > - 2026-09-29 · Apps and Integrations: [[Changes/ChatGPT/2026-09-29-supported-plugins-can-use-mcp-events-to-start-an-automation-when-something-chang-d9add6|Start automations from connected-app events]]
 > - 2026-09-29 · Apps and Integrations: [[Changes/ChatGPT/2026-09-29-we-re-making-it-easier-to-bring-meeting-context-into-chatgpt-so-you-can-act-on-n|We’re making it easier to bring meeting context into ChatGPT so you can act on next…]]
 > - 2026-09-29 · Apps and Integrations: [[Changes/ChatGPT/2026-09-29-plugins-can-now-include-interactive-panels-sidebar-views-and-viewers-or-editors-d0bd7e|Work with interactive plugin extensions]]
 > - 2026-09-29 · Enterprise and Administration: [[Changes/ChatGPT/2026-09-29-for-the-next-month-dots-usage-won-t-count-toward-eligible-pro-business-and-enter|For the next month, dots usage won’t count toward eligible Pro, Business…]]
+> - 2026-09-29 · Apps and Integrations: [[Changes/ChatGPT/2026-09-29-this-is-a-limited-preview-with-participating-integrations-using-purchased-credit|This is a limited preview with participating integrations]]
 > - 2026-09-29 · Model Support: [[Changes/ChatGPT/2026-09-29-gpt-6-1-sol-improves-on-gpt-6-sol-in-agentic-coding-computer-use-and-professiona-815850|GPT-6.1 Sol in ChatGPT Work and Codex]]
 > - 2026-09-29 · Pricing Model: [[Changes/ChatGPT/2026-09-29-pro-200-is-available-for-new-subscriptions-again-at-200-month-5ed430|Pro 200 subscriptions]]
 > - 2026-09-29 · Memory and Personalization: [[Changes/ChatGPT/2026-09-29-you-can-use-your-chatgpt-account-to-sign-in-to-participating-products-without-cr|Sign in to other products with ChatGPT]]
@@ -517,7 +519,6 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2026-09-29 · Automation and Scheduling: [[Changes/ChatGPT/2026-09-29-site-owners-can-also-create-recurring-cloud-schedules-from-automations-these-upd|Site owners can also create recurring cloud schedules from Automations]]
 > - 2026-09-29 · Memory and Personalization: [[Changes/ChatGPT/2026-09-29-pages-follow-space-s-availability-and-sharing-settings-sharing-a-page-does-not-g|Pages follow Space’s availability and sharing settings]]
 > - 2026-09-29 · Agent Mode: [[Changes/ChatGPT/2026-09-29-we-re-introducing-dots-always-on-agents-in-chatgpt-that-can-take-on-ongoing-work-24bef5|ChatGPT introduces dots]]
-> - 2026-09-29 · Model Support: [[Changes/ChatGPT/2026-09-29-eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp-2448bf|Use your ChatGPT allowance in participating apps]]
 > - 2026-09-29 · Collaboration: [[Changes/ChatGPT/2026-09-29-space-brings-your-pages-files-and-related-work-together-in-chatgpt-create-a-spac|Organize your work in ChatGPT Space]]
 > - 2026-09-29 · Collaboration: [[Changes/ChatGPT/2026-09-29-your-chatgpt-profile-now-brings-together-your-bio-activity-and-sites-you-choose-09d5dd|Share your profile and showcase your Sites]]
 > - 2026-09-28 · Editor Experience: [[Changes/ChatGPT/2026-09-28-you-can-now-select-a-chart-metric-or-record-in-the-health-tab-to-get-personalize|Explore your health data with personalized summaries]]
@@ -543,29 +544,29 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2026-09-09 · Pricing Model: [[Changes/ChatGPT/2026-09-09-pro-200-month-unlimited-gpt-live-1-usage|Pro ($200/month): Unlimited GPT-Live-1 usage]]
 > - 2026-09-08 · Mobile and Desktop: [[Changes/ChatGPT/2026-09-08-turn-a-sketch-into-an-image-on-mobile-type-in-the-message-box-and-select-sketch|Turn a sketch into an image]]
 > - 2026-09-08 · Image Generation: [[Changes/ChatGPT/2026-09-08-chatgpt-images-2-5-brings-sharper-details-more-precise-editing-and-faster-image-66acb5|ChatGPT Images 2.5 brings sharper details, more precise editing, and faster image…]]
-> - 2026-09-08 · Mobile and Desktop: [[Changes/ChatGPT/2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add|Edit and comment]]
+> - 2026-09-08 · Interface Experience: [[Changes/ChatGPT/2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add|Edit and comment]]
 > - 2026-09-08 · Collaboration: [[Changes/ChatGPT/2026-09-08-share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their|Share a prompt]]
 > - 2026-09-03 · Collaboration: [[Changes/ChatGPT/2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside|Share Sites with people outside your workspace]]
 > - 2026-09-03 · Model Support: [[Changes/ChatGPT/2026-09-03-today-we-re-introducing-gpt-6-astra-with-improvements-in-coding-research-compute-069f67|Introducing GPT-6 Astra]]
 > - 2026-09-03 · Apps and Integrations: [[Changes/ChatGPT/2026-09-03-today-we-added-the-zendesk-and-onenote-plugins-in-the-plugin-directory-the-zende-012cbd|Zendesk & OneNote Plugins in ChatGPT and Codex Beta]]
 > - 2026-09-01 · Apps and Integrations: [[Changes/ChatGPT/2026-09-01-eligible-chatgpt-for-clinicians-users-in-the-united-states-can-now-use-healthcar|Healthcare Public Data in ChatGPT for Clinicians]]
-> - 2026-08-31 · Mobile and Desktop: [[Changes/ChatGPT/2026-08-31-site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are|Site tools use WebMCP and require a supported account, model, and webpage]]
-> - 2026-08-31 · Mobile and Desktop: [[Changes/ChatGPT/2026-08-31-bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context-af2c3a|Bring your browser into Work and Codex]]
+> - 2026-08-31 · Model Support: [[Changes/ChatGPT/2026-08-31-site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are|Site tools use WebMCP and require a supported account, model, and webpage]]
+> - 2026-08-31 · Context Window: [[Changes/ChatGPT/2026-08-31-bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context-af2c3a|Bring your browser into Work and Codex]]
 > - 2026-08-31 · Mobile and Desktop: [[Changes/ChatGPT/2026-08-31-chatgpt-work-and-codex-can-now-use-tools-that-supported-websites-provide-directl|ChatGPT Work and Codex can now use tools that supported websites provide directly…]]
 > - 2026-08-31 · Voice and Audio: [[Changes/ChatGPT/2026-08-31-to-continue-a-voice-conversation-outside-chatgpt-turn-on-background-conversation|To continue a Voice conversation outside ChatGPT, turn on Background conversations…]]
-> - 2026-08-31 · Collaboration: [[Changes/ChatGPT/2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o|Share your stickers in messaging apps]]
+> - 2026-08-31 · Mobile and Desktop: [[Changes/ChatGPT/2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o|Share your stickers in messaging apps]]
 > - 2026-08-31 · Voice and Audio: [[Changes/ChatGPT/2026-08-31-follow-along-outside-the-app-live-activities-can-show-content-from-your-voice-co|Follow along outside the app]]
 > - 2026-08-31 · Voice and Audio: [[Changes/ChatGPT/2026-08-31-content-from-a-live-voice-conversation-can-now-appear-on-your-iphone-s-lock-scre|Content from a Live voice conversation can now appear on your iPhone’s Lock Screen…]]
 > - 2026-08-28 · Apps and Integrations: [[Changes/ChatGPT/2026-08-28-you-can-now-connect-multiple-accounts-for-gmail-google-calendar-and-google-conta-b4c5da|Connect multiple Google accounts to ChatGPT]]
 > - 2026-08-27 · Memory and Personalization: [[Changes/ChatGPT/2026-08-27-we-re-rolling-out-new-controls-in-temporary-chat-you-can-now-choose-to-personali|ChatGPT rolls out new controls in temporary chat]]
 > - 2026-08-27 · Memory and Personalization: [[Changes/ChatGPT/2026-08-27-3-memory-and-personalization-changes-in-more-controls-in-temporary-chat|3 Memory and Personalization changes in More controls in temporary chat]]
-> - 2026-08-25 · Mobile and Desktop: [[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Create webhook-triggered tasks]]
+> - 2026-08-25 · Developer Workflow: [[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Create webhook-triggered tasks]]
 > - 2026-08-25 · Automation and Scheduling: [[Changes/ChatGPT/2026-08-25-free-users-can-create-up-to-three-active-scheduled-tasks-tasks-can-run-once-or-r|Scheduled tasks for Free users]]
 > - 2026-08-25 · Account and Access: [[Changes/ChatGPT/2026-08-25-chatgpt-work-s-browser-on-web-and-mobile-can-also-help-you-get-tasks-done-on-som-99be54|ChatGPT Work can now complete tasks on signed-in websites]]
 > - 2026-08-25 · Automation and Scheduling: [[Changes/ChatGPT/2026-08-25-free-go-plus-and-pro-users-can-share-scheduled-tasks-recipients-can-review-and-c|Share scheduled tasks]]
 > - 2026-08-25 · Automation and Scheduling: [[Changes/ChatGPT/2026-08-25-scheduled-tasks-in-chatgpt-work-can-use-webhooks-to-respond-when-something-chang|Scheduled tasks in ChatGPT Work can use webhooks to respond when something changes…]]
 > - 2026-08-21 · Interface Experience: [[Changes/ChatGPT/2026-08-21-generated-images-are-easier-to-view-and-your-recent-conversations-are-easier-to|Generated images are easier to view, and your recent conversations are easier to browse]]
-> - 2026-08-21 · Mobile and Desktop: [[Changes/ChatGPT/2026-08-21-find-more-useful-plugins-rankings-now-prioritize-plugins-people-keep-using-after|Find more useful plugins]]
+> - 2026-08-21 · Apps and Integrations: [[Changes/ChatGPT/2026-08-21-find-more-useful-plugins-rankings-now-prioritize-plugins-people-keep-using-after|Find more useful plugins]]
 > - 2026-08-21 · Interface Experience: [[Changes/ChatGPT/2026-08-21-keep-recent-chats-easier-to-browse-your-sidebar-now-shows-up-to-eight-recent-con|Keep recent chats easier to browse]]
 > - 2026-08-21 · Apps and Integrations: [[Changes/ChatGPT/2026-08-21-plugin-availability-depends-on-your-plan-region-and-workspace-settings-desktop-i|Plugin availability depends on your plan, region, and workspace settings]]
 > - 2026-08-21 · Reliability and Performance: [[Changes/ChatGPT/2026-08-21-attach-recent-photos-faster-press-and-hold-the-button-to-open-your-recent-photos|Attach recent photos faster]]
@@ -573,7 +574,7 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2026-08-20 · Collaboration: [[Changes/ChatGPT/2026-08-20-share-a-read-only-snapshot-of-a-codex-chat-personal-share-links-can-be-opened-by|Share a read-only snapshot of a Codex chat]]
 > - 2026-08-20 · Apps and Integrations: [[Changes/ChatGPT/2026-08-20-use-apple-messages-from-codex-and-chatgpt-work-on-apple-silicon-macs-the-apple-m|Use Apple Messages from Codex and ChatGPT Work]]
 > - 2026-08-20 · Mobile and Desktop: [[Changes/ChatGPT/2026-08-20-keep-pinned-chats-in-sync-pinned-chats-now-stay-in-sync-between-the-chatgpt-desk|Keep pinned chats in sync]]
-> - 2026-08-20 · Mobile and Desktop: [[Changes/ChatGPT/2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee|Use Computer History in more regions]]
+> - 2026-08-20 · Memory and Personalization: [[Changes/ChatGPT/2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee|Use Computer History in more regions]]
 > - 2026-08-14 · Voice and Audio: [[Changes/ChatGPT/2026-08-14-switch-between-typing-and-dictation-the-dictation-button-stays-available-after-y|Switch between typing and dictation]]
 > - 2026-08-14 · Memory and Personalization: [[Changes/ChatGPT/2026-08-14-you-can-now-change-a-project-s-memory-setting-after-you-create-it-open-the-proje-b36ffe|Edit memory settings for existing projects]]
 > - 2026-08-14 · Mobile and Desktop: [[Changes/ChatGPT/2026-08-14-use-chatgpt-and-codex-on-linux-the-desktop-app-is-now-available-globally-in-publ|Use ChatGPT and Codex on Linux]]
@@ -604,15 +605,15 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2026-07-16 · Mobile and Desktop: [[Changes/ChatGPT/2026-07-16-a-clearer-desktop-layout-a-global-switcher-lets-you-choose-between-chatgpt-and-c|A clearer desktop layout: A global switcher lets you choose between ChatGPT and Codex]]
 > - 2026-07-16 · Projects and Workspaces: [[Changes/ChatGPT/2026-07-16-projects-in-the-desktop-app-your-existing-chatgpt-projects-now-appear-in-the-app|Projects in the desktop app: Your existing ChatGPT Projects now appear in the app]]
 > - 2026-07-16 · Projects and Workspaces: [[Changes/ChatGPT/2026-07-16-unified-recents-chat-and-work-conversations-now-appear-together-in-recents-where|Unified Recents: Chat and Work conversations now appear together in Recents, where…]]
-> - 2026-07-15 · Enterprise and Administration: [[Changes/ChatGPT/2026-07-15-we-re-increasing-the-character-limit-for-custom-instructions-in-chatgpt-plus-pro|Increased custom instructions limit]]
+> - 2026-07-15 · Memory and Personalization: [[Changes/ChatGPT/2026-07-15-we-re-increasing-the-character-limit-for-custom-instructions-in-chatgpt-plus-pro|Increased custom instructions limit]]
 > - 2026-07-14 · Mobile and Desktop: [[Changes/ChatGPT/2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327|Search across chats, projects, and files is now supercharged]]
 > - 2026-07-13 · Voice and Audio: [[Changes/ChatGPT/2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can-f60c71|ChatGPT returns to WhatsApp in the EEA]]
 > - 2026-07-09 · Mobile and Desktop: [[Changes/ChatGPT/2026-07-09-beginning-july-9-users-on-web-ios-and-android-will-no-longer-be-able-to-create-n|Beginning July 9, users on web, iOS, and Android will no longer be able to create…]]
+> - 2026-07-09 · Mobile and Desktop: [[Changes/ChatGPT/2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi|The new ChatGPT desktop app is available globally for macOS and Windows]]
 > - 2026-07-09 · Account and Access: [[Changes/ChatGPT/2026-07-09-we-re-deprecating-atlas-as-we-bring-browser-based-agentic-capabilities-into-chat|Retiring Atlas]]
 > - 2026-07-09 · Enterprise and Administration: [[Changes/ChatGPT/2026-07-09-in-enterprise-workspaces-public-publishing-is-off-by-default-and-must-be-enabled|In Enterprise workspaces, public publishing is off by default and must be enabled…]]
 > - 2026-07-09 · Apps and Integrations: [[Changes/ChatGPT/2026-07-09-enterprise-and-edu-users-can-find-skills-under-plugins-in-the-sidebar-on-the-ski|Skills are now generally available]]
 > - 2026-07-09 · Collaboration: [[Changes/ChatGPT/2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w|Existing group chats will remain available and can continue to be used for now]]
-> - 2026-07-09 · Mobile and Desktop: [[Changes/ChatGPT/2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi-ae6433|The new ChatGPT desktop app brings Chat, Work, and Codex together]]
 > - 2026-07-09 · Agent Mode: [[Changes/ChatGPT/2026-07-09-chatgpt-work-is-an-agent-for-longer-more-involved-tasks-it-can-research-and-anal|ChatGPT Work is an agent for longer, more involved tasks]]
 > - 2026-07-09 · Enterprise and Administration: [[Changes/ChatGPT/2026-07-09-on-web-and-mobile-enterprise-and-edu-workspaces-have-a-two-week-preview-period-w|On web and mobile, Enterprise and Edu workspaces have a two-week preview period]]
 > - 2026-07-09 · Apps and Integrations: [[Changes/ChatGPT/2026-07-09-we-re-also-replacing-the-app-directory-with-the-plugin-directory-existing-app-co|We’re also replacing the App Directory with the Plugin Directory]]
@@ -620,6 +621,7 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2026-07-09 · Enterprise and Administration: [[Changes/ChatGPT/2026-07-09-business-and-enterprise-customers-already-have-access-to-sites-starting-today-th|Business and Enterprise customers already have access to Sites]]
 > - 2026-07-09 · Mobile and Desktop: [[Changes/ChatGPT/2026-07-09-to-create-a-site-start-in-chatgpt-work-on-the-web-or-in-work-or-codex-in-the-cha|To create a Site, start in ChatGPT Work on the web or in Work or Codex…]]
 > - 2026-07-09 · Automation and Scheduling: [[Changes/ChatGPT/2026-07-09-work-can-also-keep-projects-moving-through-scheduled-tasks-that-run-once-repeat-2d6910|Work can also keep projects moving through Scheduled Tasks that run once, repeat…]]
+> - 2026-07-09 · Safety and Privacy: [[Changes/ChatGPT/2026-07-09-on-desktop-work-can-use-local-files-and-desktop-apps-with-your-permission-the-bu-1e4d11|On desktop, Work can use local files and desktop apps with your permission]]
 > - 2026-07-08 · Voice and Audio: [[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|Introducing GPT-Live-1 in ChatGPT Voice]]
 > - 2026-07-06 · Account and Access: [[Changes/ChatGPT/2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-globally-from-a-sidebar-in-mic|ChatGPT for PowerPoint is now generally available]]
 > - 2026-07-06 · Model Support: [[Changes/ChatGPT/2026-07-06-we-re-rolling-out-gpt-5-5-instant-mini-in-chatgpt-it-replaces-gpt-5-3-instant-mi|GPT-5.5 Instant Mini in ChatGPT]]
@@ -634,7 +636,7 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2026-06-18 · Interface Experience: [[Changes/ChatGPT/2026-06-18-easier-pinning-and-sidebar-organization-it-s-now-easier-to-keep-important-work-c|Easier pinning and sidebar organization]]
 > - 2026-06-18 · Collaboration: [[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World Cup updates]]
 > - 2026-06-18 · Mobile and Desktop: [[Changes/ChatGPT/2026-06-18-improved-camera-and-photo-uploads-taking-and-uploading-photos-in-chatgpt-on-ios|Improved camera and photo uploads]]
-> - 2026-06-18 · Mobile and Desktop: [[Changes/ChatGPT/2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press|Long-press send to choose a model]]
+> - 2026-06-18 · Model Support: [[Changes/ChatGPT/2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press|Long-press send to choose a model]]
 > - 2026-06-18 · Safety and Privacy: [[Changes/ChatGPT/2026-06-18-app-permission-controls-you-can-now-choose-when-chatgpt-asks-before-using-connec|App permission controls: You can now choose when ChatGPT asks before using connected apps]]
 > - 2026-06-18 · Mobile and Desktop: [[Changes/ChatGPT/2026-06-18-updated-composer-and-tools-menu-the-composer-in-android-now-has-inline-mentions|Updated composer and tools menu]]
 > - 2026-06-17 · Automation and Scheduling: [[Changes/ChatGPT/2026-06-17-update-on-pulse|Update on Pulse]]
@@ -650,7 +652,7 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2026-06-10 · Model Support: [[Changes/ChatGPT/2026-06-10-extra-high-pro-plans-only|Extra High Pro plans only]]
 > - 2026-06-10 · Model Support: [[Changes/ChatGPT/2026-06-10-pro-extended-pro-plans-only|Pro Extended Pro plans only]]
 > - 2026-06-08 · Editor Experience: [[Changes/ChatGPT/2026-06-08-edit-messages-with-attachments-you-can-now-edit-messages-that-include-attachment|Edit messages with attachments]]
-> - 2026-06-08 · Mobile and Desktop: [[Changes/ChatGPT/2026-06-08-cleaned-up-logged-out-mobile-web-experience-logged-out-users-now-see-a-composer|Cleaned up logged-out mobile web experience]]
+> - 2026-06-08 · Interface Experience: [[Changes/ChatGPT/2026-06-08-cleaned-up-logged-out-mobile-web-experience-logged-out-users-now-see-a-composer|Cleaned up logged-out mobile web experience]]
 > - 2026-06-08 · Mobile and Desktop: [[Changes/ChatGPT/2026-06-08-immediate-image-previews-after-sending-when-you-upload-an-image-on-ios-chatgpt-u|Immediate image previews after sending]]
 > - 2026-06-08 · Files and Data: [[Changes/ChatGPT/2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo|Full-screen writing blocks for longer-form work]]
 > - 2026-06-08 · Model Support: [[Changes/ChatGPT/2026-06-08-long-press-send-to-choose-a-model-users-on-paid-plans-can-now-long-press-the-sen|Long-press send to choose a model]]
@@ -670,7 +672,7 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2026-05-28 · Model Support: [[Changes/ChatGPT/2026-05-28-today-we-re-continuing-to-retire-older-models-with-limited-usage-in-chatgpt-so-w|Retiring OpenAI o3 and GPT-4.5]]
 > - 2026-05-15 · Files and Data: [[Changes/ChatGPT/2026-05-15-we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user|Personal finances in ChatGPT]]
 > - 2026-05-14 · Mobile and Desktop: [[Changes/ChatGPT/2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is|Generated images will continue to appear in the Images tab]]
-> - 2026-05-14 · Mobile and Desktop: [[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|Codex remote access from the ChatGPT mobile app]]
+> - 2026-05-14 · Projects and Workspaces: [[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|Codex remote access from the ChatGPT mobile app]]
 > - 2026-05-14 · Files and Data: [[Changes/ChatGPT/2026-05-14-file-library-is-expanding-to-free-and-go-users-including-to-users-in-the-europea-141640|File library is expanding to Free and Go users, including to users in the European…]]
 > - 2026-05-12 · Mobile and Desktop: [[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|More images in answers for Free users]]
 > - 2026-05-07 · Safety and Privacy: [[Changes/ChatGPT/2026-05-07-over-the-coming-weeks-we-ll-be-rolling-out-trusted-contact-an-optional-safety-fe|Trusted contact in ChatGPT]]
@@ -693,11 +695,11 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2026-04-02 · Mobile and Desktop: [[Changes/ChatGPT/2026-04-02-we-re-rolling-out-chatgpt-in-carplay-giving-you-access-to-a-hands-free-chatgpt-e|ChatGPT in Apple CarPlay]]
 > - 2026-03-27 · Apps and Integrations: [[Changes/ChatGPT/2026-03-27-we-re-rolling-out-updated-box-notion-linear-and-dropbox-apps-in-chatgpt-these-up-9f6ee9|Updated Box, Notion, Linear, and Dropbox apps]]
 > - 2026-03-26 · Mobile and Desktop: [[Changes/ChatGPT/2026-03-26-users-can-now-choose-to-share-their-device-location-so-chatgpt-can-provide-more-7907ed|Location Sharing]]
-> - 2026-03-26 · Mobile and Desktop: [[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|A simplified sidebar on mobile]]
+> - 2026-03-26 · Interface Experience: [[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|A simplified sidebar on mobile]]
 > - 2026-03-25 · Apps and Integrations: [[Changes/ChatGPT/2026-03-25-google-s-file-connectors-in-chatgpt-are-now-unified-under-google-drive-providing|Google Drive app unification]]
 > - 2026-03-25 · Context Window: [[Changes/ChatGPT/2026-03-25-starting-today-for-chatgpt-plus-pro-and-business-users-long-pastes-are-handled-d|Large pastes are now handled as attachments]]
 > - 2026-03-24 · Search and Browsing: [[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|Shopping updates in ChatGPT]]
-> - 2026-03-23 · Mobile and Desktop: [[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|File Library in ChatGPT]]
+> - 2026-03-23 · Search and Browsing: [[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|File Library in ChatGPT]]
 > - 2026-03-19 · Search and Browsing: [[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|Legacy deep research mode deprecation notice]]
 > - 2026-03-18 · Model Support: [[Changes/ChatGPT/2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and|GPT-5.4 mini in ChatGPT]]
 > - 2026-03-17 · Model Support: [[Changes/ChatGPT/2026-03-17-thinking-deeper-reasoning-for-more-complex-tasks|Thinking – deeper reasoning for more complex tasks]]
@@ -714,7 +716,7 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2026-02-27 · Editor Experience: [[Changes/ChatGPT/2026-02-27-edit-messages-with-images-you-can-now-edit-messages-that-include-image-attachmen|Edit messages with images]]
 > - 2026-02-27 · Interface Experience: [[Changes/ChatGPT/2026-02-27-faster-sidebar-actions-sidebar-interactions-such-as-renaming-chats-are-now-faste|Faster sidebar actions]]
 > - 2026-02-27 · Files and Data: [[Changes/ChatGPT/2026-02-27-export-visuals-from-code-blocks-flowcharts-diagrams-and-data-visualizations-crea|Export visuals from Code Blocks]]
-> - 2026-02-27 · Mobile and Desktop: [[Changes/ChatGPT/2026-02-27-sidebar-actions-on-mobile-web-no-longer-stick-while-scrolling|Sidebar actions on mobile web no longer stick while scrolling]]
+> - 2026-02-27 · Interface Experience: [[Changes/ChatGPT/2026-02-27-sidebar-actions-on-mobile-web-no-longer-stick-while-scrolling|Sidebar actions on mobile web no longer stick while scrolling]]
 > - 2026-02-27 · Voice and Audio: [[Changes/ChatGPT/2026-02-27-improved-dictation-visuals-dictation-now-has-a-clearer-more-streamlined-interfac|Improved dictation visuals]]
 > - 2026-02-27 · Reliability and Performance: [[Changes/ChatGPT/2026-02-27-faster-sharing-sharing-chats-is-now-easier-and-faster-with-a-quicker-loading-sha|Faster sharing. Sharing chats is now easier and faster, with a quicker-loading share menu]]
 > - 2026-02-27 · Search and Browsing: [[Changes/ChatGPT/2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results|Open search results in a new tab]]
@@ -748,13 +750,13 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2026-01-15 · Memory and Personalization: [[Changes/ChatGPT/2026-01-15-when-reference-chat-history-is-enabled-chatgpt-can-now-more-reliably-find-specif|Improved memory for finding details from past chats (Plus & Pro)]]
 > - 2026-01-12 · Voice and Audio: [[Changes/ChatGPT/2026-01-12-we-re-improving-our-dictation-capabilities-in-chatgpt-for-all-logged-in-users-si|Dictation Updates]]
 > - 2026-01-07 · Memory and Personalization: [[Changes/ChatGPT/2026-01-07-we-re-starting-to-roll-out-health-a-dedicated-space-in-chatgpt-for-health-and-we|We’re starting to roll out Health, a dedicated space in ChatGPT for health…]]
-> - 2026-01-07 · Mobile and Desktop: [[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health appears as a new space in the ChatGPT sidebar]]
+> - 2026-01-07 · Interface Experience: [[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health appears as a new space in the ChatGPT sidebar]]
 >
-> **2025** · 164 cards
+> **2025** · 163 cards
 >
 > - 2025-12-22 · Memory and Personalization: [[Changes/ChatGPT/2025-12-22-today-we-re-rolling-out-your-year-with-chatgpt-an-optional-personalized-end-of-y-740eb1|Your Year with ChatGPT]]
 > - 2025-12-19 · Memory and Personalization: [[Changes/ChatGPT/2025-12-19-in-addition-to-selecting-a-base-style-and-tone-preset-like-candid-and-friendly-y-21da79|New detailed characteristic controls]]
-> - 2025-12-18 · Mobile and Desktop: [[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|Pinned chats in ChatGPT]]
+> - 2025-12-18 · Interface Experience: [[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|Pinned chats in ChatGPT]]
 > - 2025-12-18 · Apps and Integrations: [[Changes/ChatGPT/2025-12-18-you-can-now-browse-and-add-approved-apps-in-the-new-app-directory-apps-let-you-w|Introducing the app directory in ChatGPT]]
 > - 2025-12-17 · Automation and Scheduling: [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks let you set up automated prompts that ChatGPT can run for you]]
 > - 2025-12-17 · Editor Experience: [[Changes/ChatGPT/2025-12-17-edit-and-review-tasks-in-pulse-anytime-after-you-create-them-please-note-that-pu|Edit and review tasks in Pulse anytime after you create them]]
@@ -832,13 +834,11 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2025-08-11 · Collaboration: [[Changes/ChatGPT/2025-08-11-pro-microsoft-teams-and-github|Pro: Microsoft Teams and GitHub]]
 > - 2025-08-08 · Image Generation: [[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|Image generation update to ChatGPT Free]]
 > - 2025-08-07 · Voice and Audio: [[Changes/ChatGPT/2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali-b6826c|Personalities]]
-> - 2025-08-07 · Mobile and Desktop: [[Changes/ChatGPT/2025-08-07-you-can-now-set-an-accent-color-that-applies-to-elements-in-chatgpt-including-yo-865968|Accent Colors]]
+> - 2025-08-07 · Voice and Audio: [[Changes/ChatGPT/2025-08-07-you-can-now-set-an-accent-color-that-applies-to-elements-in-chatgpt-including-yo-865968|Accent Colors]]
 > - 2025-08-07 · Model Support: [[Changes/ChatGPT/2025-08-07-gpt-5-is-slowly-rolling-out-to-all-users-on-chatgpt-plus-pro-team-and-free-plans-64a08c|GPT-5]]
 > - 2025-08-07 · Voice and Audio: [[Changes/ChatGPT/2025-08-07-today-we-re-rolling-out-improvements-to-voice-mode-to-make-it-more-accessible-an-055388|ChatGPT Voice updates]]
-> - 2025-07-29 · Learning Tools: [[Changes/ChatGPT/2025-07-29-guide-understanding-with-socratic-style-questions|Guide understanding with Socratic-style questions]]
 > - 2025-07-29 · Memory and Personalization: [[Changes/ChatGPT/2025-07-29-personalize-responses-based-on-your-past-chats-if-memory-is-on-using-examples-an|Personalize responses based on your past chats if memory is on, using examples…]]
-> - 2025-07-29 · Mobile and Desktop: [[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-6e22f0|Study mode is currently available to users in Free, Plus, Pro, and Teams plans…]]
-> - 2025-07-29 · Learning Tools: [[Changes/ChatGPT/2025-07-29-break-concepts-into-easy-to-follow-sections-starting-simple-and-adding-complexit|Break concepts into easy to follow sections starting simple and adding complexity…]]
+> - 2025-07-29 · Learning Tools: [[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-4b5d0a|Study mode is currently available to users in Free, Plus, Pro, and Teams plans…]]
 > - 2025-07-24 · Search and Browsing: [[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2|Canva and Notion connectors (Pro)]]
 > - 2025-07-24 · Apps and Integrations: [[Changes/ChatGPT/2025-07-24-pro-users-can-now-utilize-chat-search-with-hubspot-and-custom-connectors-mcp-in-b9b682|Chat search for HubSpot and custom connectors (MCP) (Pro)]]
 > - 2025-07-17 · Voice and Audio: [[Changes/ChatGPT/2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat|Updates to Advanced Voice Mode for Free tier users]]
@@ -860,7 +860,7 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2025-06-12 · Projects and Workspaces: [[Changes/ChatGPT/2025-06-12-starting-a-new-project-directly-from-a-chat|Starting a new project directly from a chat]]
 > - 2025-06-12 · Collaboration: [[Changes/ChatGPT/2025-06-12-sharing-chats-from-projects|Sharing chats from projects]]
 > - 2025-06-12 · Enterprise and Administration: [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise and Edu rollout coming soon]]
-> - 2025-06-12 · Mobile and Desktop: [[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload files and access model selector on mobile]]
+> - 2025-06-12 · Model Support: [[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload files and access model selector on mobile]]
 > - 2025-06-10 · Model Support: [[Changes/ChatGPT/2025-06-10-like-o1-pro-o3-pro-is-a-version-of-our-most-intelligent-model-o3-designed-to-thi-32668a|ChatGPT launches OpenAI o3-pro—available now for Pro users and in our API]]
 > - 2025-06-07 · Voice and Audio: [[Changes/ChatGPT/2025-06-07-in-testing-we-ve-observed-that-this-update-may-occasionally-cause-minor-decrease-ca0630|In testing, we've observed that this update may occasionally cause minor decreases…]]
 > - 2025-06-07 · Voice and Audio: [[Changes/ChatGPT/2025-06-07-we-re-upgrading-advanced-voice-in-chatgpt-for-paid-users-with-significant-enhanc-ad0b3e|We're upgrading Advanced Voice in ChatGPT for paid users with significant…]]
@@ -881,7 +881,7 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2025-05-08 · Search and Browsing: [[Changes/ChatGPT/2025-05-08-chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also-ad2e25|GitHub connector for deep research for Plus/Pro/Team]]
 > - 2025-05-08 · Reliability and Performance: [[Changes/ChatGPT/2025-05-08-outside-the-european-regions-listed-above-all-plus-and-pro-accounts-that-have-me-507581|Opt‑in reminders]]
 > - 2025-05-08 · Memory and Personalization: [[Changes/ChatGPT/2025-05-08-saved-memories-and-chat-history-are-offered-only-to-plus-and-pro-accounts-free-t|Saved memories and Chat history are offered only to Plus and Pro…]]
-> - 2025-05-06 · Mobile and Desktop: [[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a35dd7|Mobile UI (iOS/Android) changing on Free/Plus/Pro plans]]
+> - 2025-05-06 · Interface Experience: [[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a35dd7|Mobile UI (iOS/Android) changing on Free/Plus/Pro plans]]
 > - 2025-05-01 · Voice and Audio: [[Changes/ChatGPT/2025-05-01-launched-on-april-1-as-a-one-month-surprise-our-monday-personality-available-in|Sunsetting Monday GPT]]
 > - 2025-04-29 · Model Support: [[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|Updates to GPT-4o]]
 > - 2025-04-25 · Model Support: [[Changes/ChatGPT/2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories|Improvements to GPT-4o]]
@@ -901,21 +901,22 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2025-03-18 · Interface Experience: [[Changes/ChatGPT/2025-03-18-added-long-press-on-your-message-to-open-menu-actions-copy-edit|Added long press on your message to open menu actions: Copy, Edit]]
 > - 2025-03-18 · Safety and Privacy: [[Changes/ChatGPT/2025-03-18-more-clear-and-private-incognito-keyboard-for-temporary-chats|More clear and private Incognito keyboard for Temporary Chats]]
 > - 2025-03-18 · Reliability and Performance: [[Changes/ChatGPT/2025-03-18-in-line-message-error-retries-if-you-encounter-a-message-error-you-can-retry-or|In-line message error retries]]
-> - 2025-03-18 · Mobile and Desktop: [[Changes/ChatGPT/2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and|We have been working on a variety of usability and performance improvements and bug…]]
+> - 2025-03-18 · Reliability and Performance: [[Changes/ChatGPT/2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and|We have been working on a variety of usability and performance improvements and bug…]]
 > - 2025-03-18 · Image Generation: [[Changes/ChatGPT/2025-03-18-increased-the-default-size-for-in-line-generated-images|Increased the default size for in‐line generated images]]
 > - 2025-02-28 · Mobile and Desktop: [[Changes/ChatGPT/2025-02-28-long-press-to-select-text-on-ios-and-moved-the-message-quick-actions-to-always-b-a40c3f|Long press to select text on iOS and moved the message quick actions to always…]]
 > - 2025-02-21 · Mobile and Desktop: [[Changes/ChatGPT/2025-02-21-ios-widget-see-below|iOS widget (see below)]]
 > - 2025-02-21 · Reliability and Performance: [[Changes/ChatGPT/2025-02-21-text-selection-improvements-you-can-now-select-text-across-horizontal-rulers-3-p|Text selection improvements: you can now select text across horizontal rulers]]
 > - 2025-02-14 · Mobile and Desktop: [[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|Updated launch animations and composer design on Android]]
 > - 2025-02-14 · Mobile and Desktop: [[Changes/ChatGPT/2025-02-14-confirmation-dialog-for-logging-out-ios-web|Confirmation dialog for logging out (iOS, web)]]
-> - 2025-02-14 · Mobile and Desktop: [[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes]]
-> - 2025-02-14 · Mobile and Desktop: [[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved Android conversation parsing performance]]
+> - 2025-02-14 · Reliability and Performance: [[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes]]
+> - 2025-02-14 · Reliability and Performance: [[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved Android conversation parsing performance]]
 > - 2025-02-14 · Search and Browsing: [[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set ChatGPT as default search engine in Safari]]
 > - 2025-02-14 · Voice and Audio: [[Changes/ChatGPT/2025-02-14-whisper-chatgpt-s-voice-to-text-feature-now-shows-a-text-preview-of-dictated-tex|Whisper (ChatGPT's voice-to-text feature) now shows a text preview of dictated text…]]
 > - 2025-02-06 · Files and Data: [[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or-2f5aff|Canvas sharing]]
 > - 2025-01-17 · Mobile and Desktop: [[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|More personalization in Custom Instructions]]
 > - 2025-01-15 · Files and Data: [[Changes/ChatGPT/2025-01-15-edit-a-code-block-in-canvas|Edit a code block in Canvas]]
 > - 2025-01-15 · Files and Data: [[Changes/ChatGPT/2025-01-15-edit-a-full-model-response-in-canvas|Edit a full model response in Canvas]]
+> - 2025-01-14 · Automation and Scheduling: [[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled tasks in ChatGPT]]
 >
 > **2024** · 23 cards
 >
@@ -953,7 +954,7 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2023-09-27 · Search and Browsing: [[Changes/ChatGPT/2023-09-27-browsing-is-rolling-out-to-all-plus-users-chatgpt-can-now-browse-the-internet-to-335b58|Browsing is rolling out to all Plus users]]
 > - 2023-09-25 · Multimodal Input: [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image input will be generally available to Plus users on all platforms]]
 > - 2023-09-25 · Voice and Audio: [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
-> - 2023-09-25 · Mobile and Desktop: [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
+> - 2023-09-25 · Voice and Audio: [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
 > - 2023-09-11 · Interface Experience: [[Changes/ChatGPT/2023-09-11-if-you-ve-configured-your-browser-to-use-one-of-these-supported-languages-you-ll-e4857e|If you've configured your browser to use one of these supported languages, you'll…]]
 > - 2023-09-11 · Accessibility and Localization: [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
 > - 2023-08-28 · Safety and Privacy: [[Changes/ChatGPT/2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security-4958cf|Introducing ChatGPT Enterprise]]

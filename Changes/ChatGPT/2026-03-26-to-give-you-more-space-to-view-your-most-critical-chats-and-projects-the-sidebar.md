@@ -1,24 +1,24 @@
 ---
 card_id: chatgpt-2026-03-26-1b70e7
 date: '2026-03-26'
-description: 'ChatGPT · 2026-03-26 · Mobile and Desktop: To give you more space to
-  view your most critical chats and projects, the sidebar menu is now simplified on
-  iOS and…'
+description: 'ChatGPT · 2026-03-26 · Interface Experience: To give you more space
+  to view your most critical chats and projects, the sidebar menu is now simplified
+  on iOS…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1108
+  lag_days: 1172
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: mobile-desktop
+  theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ed07e3239cc52e4121c2d47279b144dc534c8fa463822be305d2c836126dcb69
+machine_hash: d35aa1705ed2cd2fe713e205d11261f9fe52dab8b72d19ce2800039b4fd3625a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,35 +44,19 @@ record:
   slug: to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar
   source_release: chatgpt-2026-03-26-a-simplified-sidebar-on-mobile-0f580b11
   source_type: chatgpt_changelog
-  theme: mobile-desktop
-  theme_matches:
-  - matched_terms:
-    - menu
-    - sidebar
-    score: 100
-    theme: interface-experience
-  - matched_terms:
-    - android
-    - ios
-    score: 100
-    theme: mobile-desktop
-  - matched_terms:
-    - apps
-    score: 50
-    theme: apps-integrations
-  theme_resolution: manual-semantic-rule-v1
+  theme: interface-experience
   title: A simplified sidebar on mobile
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-11-improved-clipboard-image-pasting-performance-on-macos|Improved
-  clipboard image pasting performance on macOS]]'
-- '[[Changes/Claude Code/2026-03-17-2-mobile-and-desktop-changes-in-v2-1-77|2 Mobile
-  and Desktop changes in v2.1.77]]'
-- '[[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|File
-  Library in ChatGPT]]'
+- '[[Changes/Claude Code/2026-03-18-added-show-turn-duration-toggle-to-the-config-menu|Added
+  "Show turn duration" toggle to the /config menu]]'
+- '[[Changes/Claude Code/2026-03-19-2-interface-experience-changes-in-v2-1-80|2 Interface
+  Experience changes in v2.1.80]]'
+- '[[Changes/Claude Code/2026-03-25-2-interface-experience-changes-in-v2-1-83|2 Interface
+  Experience changes in v2.1.83]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-26-a-simplified-sidebar-on-mobile-0f580b11|chatgpt-2026-03-26-a-simplified-sidebar-on-mobile-0f580b11]]'
 source_type: chatgpt_changelog
-theme: mobile-desktop
+theme: interface-experience
 title: A simplified sidebar on mobile
 type: change
 ---
@@ -80,7 +64,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # A simplified sidebar on mobile
 
-**ChatGPT** · 2026-03-26 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-simplified-sidebar-on-mobile) · from [[Releases/ChatGPT/chatgpt-2026-03-26-a-simplified-sidebar-on-mobile-0f580b11|A simplified sidebar on mobile]]
+**ChatGPT** · 2026-03-26 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-simplified-sidebar-on-mobile) · from [[Releases/ChatGPT/chatgpt-2026-03-26-a-simplified-sidebar-on-mobile-0f580b11|A simplified sidebar on mobile]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -94,16 +78,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Mobile and Desktop
+## Nearby in Interface Experience
 
-- Earlier: 2026-03-23 · ChatGPT · [[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|File Library in ChatGPT]]
-- Later: 2026-03-26 · ChatGPT · [[Changes/ChatGPT/2026-03-26-users-can-now-choose-to-share-their-device-location-so-chatgpt-can-provide-more-7907ed|Location Sharing]]
+- Earlier: 2026-03-25 · Claude Code · [[Changes/Claude Code/2026-03-25-2-interface-experience-changes-in-v2-1-83|2 Interface Experience changes in v2.1.83]]
+- Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-improved-mention-file-autocomplete-performance-on-large-repositories|Improved @-mention file autocomplete performance on large repositories]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

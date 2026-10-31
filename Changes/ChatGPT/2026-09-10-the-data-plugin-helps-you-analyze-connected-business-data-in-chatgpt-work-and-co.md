@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8fdd3e3241a90fc8f0ad1994db16c75cc26b048a67b5152be8c62b563df0fb0c
+machine_hash: 25354e9c7996d298d411abdac4d6f60ea1d51576d8261924a760f81bc9e1a69b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -55,10 +55,6 @@ record:
     - plugin
     score: 50
     theme: apps-integrations
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
   - matched_terms:
     - context
     score: 50

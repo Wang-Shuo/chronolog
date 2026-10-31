@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c9427a1c0d11293df52c5b840b37f9e112fe2e8fb5da6c1172b13aea90bc4a33
+machine_hash: b1b6270d8d778a3c2627ed3a969c7d891c506bf12afe4717dc3cba062bdb2f7c
 product: claude-code
 product_name: Claude Code
 record:
@@ -40,16 +40,6 @@ record:
   source_release: claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859
   source_type: github_releases
   theme: apps-integrations
-  theme_matches:
-  - matched_terms:
-    - connectors
-    - mcp
-    score: 100
-    theme: apps-integrations
-  - matched_terms:
-    - macos
-    score: 50
-    theme: mobile-desktop
   title: Reduced startup event-loop stalls when many claude.ai MCP connectors are
     configured…
   type: change

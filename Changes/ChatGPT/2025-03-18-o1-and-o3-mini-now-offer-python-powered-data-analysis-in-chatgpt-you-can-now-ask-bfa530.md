@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4086fc68d1bd2dcb69b33f344982bae2b0537607f43408d4d1b4196ef04b6aed
+machine_hash: 15796ad5de8492f57285fb906f3f8bcfc4fea32a300443e7895382a14e3bcd19
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and|We have been working on a variety of usability and performance improvements and bug…]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and|We have been working on a variety of usability and performance improvements and bug…]] · Reliability and Performance
 - [[Changes/ChatGPT/2025-03-18-in-line-message-error-retries-if-you-encounter-a-message-error-you-can-retry-or|In-line message error retries]] · Reliability and Performance
 - [[Changes/ChatGPT/2025-03-18-new-ui-for-temporary-chats-we-ve-made-accessing-and-viewing-these-private-conver|New UI for Temporary Chats]] · Safety and Privacy
 <!-- chronolog:end -->

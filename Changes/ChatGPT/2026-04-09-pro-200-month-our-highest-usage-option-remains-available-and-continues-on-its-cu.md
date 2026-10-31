@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 00a15fd9c75a5f4cd2dfef1448e51565397bd303a159e2f91e5958b39b018c5c
+machine_hash: de203ac6f31f5a1408fdb93c28a965b9a9d4a04d513fce3155785aa0c90f1e57
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users|Added per-model and cache-hit breakdown to /cost for subscription users]]
-- Later: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-fixed-false-bash-permission-prompts-for-cut-d-paste-d-column-s-awk-print-1-file|Fixed false Bash permission prompts for cut -d /, paste -d /, column -s /…]]
+- Later: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-opentelemetry-user-prompt-events-now-include-command-name-and-command-source-for|OpenTelemetry: user_prompt events now include command_name and command_source…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

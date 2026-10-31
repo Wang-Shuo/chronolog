@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4899368fe519e78c7794475ed85231bdbf3999065a1fe216517323108de14226
+machine_hash: a0480d0b6e5e2afdc5bb995a34b990cf422fa87bd15d9b41c146acca21d8e83e
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Memory writes that leave a MEMORY.md index over its read limit now produce…
   type: change
 related_changes:
+- '[[Changes/Claude Code/2026-06-17-changed-the-improved-n-memories-line-to-no-longer-list-individual-files-outside|Changed
+  the Improved N memories line to no longer list individual files outside…]]'
 - '[[Changes/Cursor/2026-06-18-you-can-now-delete-memory-files-in-the-ui-or-prompt-your-automation-to-delete-ou|Delete
   memory files in the UI, or prompt your automation to delete outdated memories…]]'
 - '[[Changes/Claude Code/2026-06-22-improved-memory-the-agent-is-now-reminded-to-compact-its-memory-md-index-when-ne|Improved
   memory: the agent is now reminded to compact its MEMORY.md index…]]'
-- '[[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced
-  long-session memory growth from terminal output cache]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-210-github-354034085-7eba9ec7|claude-code-2026-07-14-v2-1-210-github-354034085-7eba9ec7]]'
 source_type: github_releases
 theme: memory
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-06-24 · Claude Code · [[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced long-session memory growth from terminal output cache]]
-- Later: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-improved-the-memory-index-over-limit-warning-to-measure-only-loaded-content-excl|Improved the memory index over-limit warning to measure only loaded content…]]
+- Earlier: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-improved-memory-the-agent-is-now-reminded-to-compact-its-memory-md-index-when-ne|Improved memory: the agent is now reminded to compact its MEMORY.md index…]]
+- Later: 2026-07-15 · ChatGPT · [[Changes/ChatGPT/2026-07-15-we-re-increasing-the-character-limit-for-custom-instructions-in-chatgpt-plus-pro|Increased custom instructions limit]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

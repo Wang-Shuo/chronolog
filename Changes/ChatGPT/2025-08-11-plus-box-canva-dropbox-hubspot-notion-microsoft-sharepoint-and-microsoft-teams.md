@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 774cfc2691baffe4ba77a99c5bb7c74107577577551e6e4dbe360ca58d03901c
+machine_hash: 6abdefad4c842a0f3e7f16748f6ad6a1acede08632e51457c0c228744ff0df9b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,8 +42,8 @@ record:
     Teams'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow
-  team admins to configure an extension allowlist]]'
+- '[[Changes/Cursor/2025-06-12-use-cursor-where-your-team-works-3e7ca8|Use Cursor
+  where your team works]]'
 - '[[Changes/Cursor/2025-08-06-ai-code-tracking-api-get-commit-level-visibility-into-ai-usage-and-accepted-chan|AI
   code tracking API]]'
 - '[[Changes/ChatGPT/2025-08-11-pro-microsoft-teams-and-github|Pro: Microsoft Teams

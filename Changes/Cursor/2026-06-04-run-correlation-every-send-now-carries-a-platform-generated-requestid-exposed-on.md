@@ -1,24 +1,24 @@
 ---
 card_id: cursor-2026-06-04-3a79fb
 date: '2026-06-04'
-description: 'Cursor · 2026-06-04 · Memory and Personalization: Run correlation: Every
-  send() now carries a platform-generated requestId, exposed on Run and RunResult
+description: 'Cursor · 2026-06-04 · Reliability and Performance: Run correlation:
+  Every send() now carries a platform-generated requestId, exposed on Run and RunResult
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
-    instructions are rolling out in beta]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1050
+  lag_days: 1267
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: memory
+  theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7955929085937326bcb83e18e76f9ca79e15bb18a5953dbfbe77f637a84e6468
+machine_hash: 8b1a908f6df2e75d524b8ed932d696750f03e813744c81f228a5acd10a39b7d8
 product: cursor
 product_name: Cursor
 record:
@@ -46,20 +46,22 @@ record:
   slug: run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on
   source_release: cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856
   source_type: cursor_changelog
-  theme: memory
+  theme: reliability-performance
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v2
   title: 'Run correlation: Every send() now carries a platform-generated requestId,
     exposed…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|Fast
-  answers in ChatGPT]]'
-- '[[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Memory
-  sources and more personalized responses in ChatGPT]]'
-- '[[Changes/ChatGPT/2026-06-04-we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping-9a48f3|Memory
-  that stays more up to date]]'
+- '[[Changes/Claude Code/2026-06-02-improved-auto-mode-classifier-latency-by-reducing-reasoning-on-routine-actions-l|Improved
+  auto mode classifier latency by reducing reasoning on routine actions…]]'
+- '[[Changes/Claude Code/2026-06-02-improved-rendering-performance-for-large-file-writes|Improved
+  rendering performance for large file writes]]'
+- '[[Changes/Cursor/2026-06-04-reliability-performance-and-platform-improvements|Reliability,
+  performance, and platform improvements]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856|cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856]]'
 source_type: cursor_changelog
-theme: memory
+theme: reliability-performance
 title: 'Run correlation: Every send() now carries a platform-generated requestId,
   exposed…'
 type: change
@@ -68,7 +70,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Run correlation: Every send() now carries a platform-generated requestId, exposed…
 
-**Cursor** · 2026-06-04 · [[Themes/memory|Memory and Personalization]] · [Official source](https://cursor.com/changelog/sdk-updates-jun-2026) · from [[Releases/Cursor/cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856|Custom stores, custom tools, and auto-review for the Cursor SDK]]
+**Cursor** · 2026-06-04 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://cursor.com/changelog/sdk-updates-jun-2026) · from [[Releases/Cursor/cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856|Custom stores, custom tools, and auto-review for the Cursor SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -95,16 +97,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Memory and Personalization
+## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-04 · ChatGPT · [[Changes/ChatGPT/2026-06-04-we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping-9a48f3|Memory that stays more up to date]]
-- Later: 2026-06-12 · ChatGPT · [[Changes/ChatGPT/2026-06-12-you-can-now-delete-the-memories-shown-on-your-memory-summary-page-and-turn-memor-f16782|Additional controls for memory summary]]
+- Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-improved-rendering-performance-for-large-file-writes|Improved rendering performance for large file writes]]
+- Later: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-improved-performance-in-long-conversations-by-removing-redundant-message-normali|Improved performance in long conversations by removing redundant message…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

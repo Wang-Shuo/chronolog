@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fa42bd2c512d5ac234dac4d134b4f1d85d28dcecff1d23f940329171efd339d5
+machine_hash: 8c2a4a0de046e0e6dc18c852f677bd175a891de153ea812b4c2bcf41cd89e506
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,10 +63,6 @@ record:
     score: 50
     theme: editor-experience
   - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
-  - matched_terms:
     - model
     score: 50
     theme: model-support
@@ -74,12 +70,12 @@ record:
   title: GPT-6.1 Sol in ChatGPT Work and Codex
   type: change
 related_changes:
+- '[[Changes/Claude Code/2026-09-24-2-model-support-changes-in-v2-1-282|2 Model Support
+  changes in v2.1.282]]'
 - '[[Changes/Claude Code/2026-09-25-3-model-support-changes-in-v2-1-283|3 Model Support
   changes in v2.1.283]]'
 - '[[Changes/Claude Code/2026-09-28-6-model-support-changes-in-v2-1-284|6 Model Support
   changes in v2.1.284]]'
-- '[[Changes/ChatGPT/2026-09-29-eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp-2448bf|Use
-  your ChatGPT allowance in participating apps]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-gpt-6-1-sol-in-chatgpt-work-and-codex-a0e5fef0|chatgpt-2026-09-29-gpt-6-1-sol-in-chatgpt-work-and-codex-a0e5fef0]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -108,8 +104,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp-2448bf|Use your ChatGPT allowance in participating apps]]
-- Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-3-model-support-changes-in-v2-1-285|3 Model Support changes in v2.1.285]]
+- Earlier: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-6-model-support-changes-in-v2-1-284|6 Model Support changes in v2.1.284]]
+- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp|Eligible Plus and Pro users can authorize participating apps to use their ChatGPT…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

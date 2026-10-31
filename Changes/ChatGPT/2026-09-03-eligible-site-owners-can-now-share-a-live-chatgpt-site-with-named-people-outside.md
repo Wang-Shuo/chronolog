@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 900f192ad70350471abd14de7564b42177abb333ddef4f06c825c0362e708e60
+machine_hash: 2a72111a89c9333a0e4a806dc337a7433a7da00cfce0ef3590a889b34d86bc70
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,12 +52,12 @@ record:
   title: Share Sites with people outside your workspace
   type: change
 related_changes:
+- '[[Changes/Claude Code/2026-08-13-hardened-the-auto-generated-cross-session-messaging-socket-directory-on-shared-t|Hardened
+  the auto-generated cross-session messaging socket directory on shared /tmp]]'
 - '[[Changes/Claude Code/2026-08-17-removed-the-default-teammate-model-setting-from-config-agent-team-teammates-now|Removed
   the "Default teammate model" setting from /config]]'
 - '[[Changes/ChatGPT/2026-08-20-share-a-read-only-snapshot-of-a-codex-chat-personal-share-links-can-be-opened-by|Share
   a read-only snapshot of a Codex chat]]'
-- '[[Changes/ChatGPT/2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o|Share
-  your stickers in messaging apps]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-03-share-sites-with-people-outside-your-workspace-88fde38a|chatgpt-2026-09-03-share-sites-with-people-outside-your-workspace-88fde38a]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o|Share your stickers in messaging apps]]
+- Earlier: 2026-08-20 · ChatGPT · [[Changes/ChatGPT/2026-08-20-share-a-read-only-snapshot-of-a-codex-chat-personal-share-links-can-be-opened-by|Share a read-only snapshot of a Codex chat]]
 - Later: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their|Share a prompt]]
 <!-- chronolog:end -->
 

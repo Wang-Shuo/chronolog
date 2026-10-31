@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 93164bc72f1106f7e22cdbb3a8f3b01dfc7dc2757e6ba0497579e2666bc3dd72
+machine_hash: 7ed1e66372e3d96395ee08bbe1c8f7916c693875125c3d1dd3074f3edf6c3e9b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,25 +46,17 @@ record:
   source_release: chatgpt-2026-10-28-api-credits-for-eligible-chatgpt-pro-and-business-plans-a2290f64
   source_type: chatgpt_changelog
   theme: pricing-model
-  theme_matches:
-  - matched_terms:
-    - agents
-    score: 50
-    theme: agent-mode
-  - matched_terms:
-    - apps
-    score: 50
-    theme: apps-integrations
+  theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: API credits for eligible ChatGPT Pro and Business plans
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-02-improved-the-usage-credits-message-shown-to-team-and-enterprise-members-whose-or|Improved
-  the /usage-credits message shown to Team and Enterprise members whose…]]'
 - '[[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price|Updated
   /cost, the status line, --max-budget-usd and the SDK''s cost figures…]]'
 - '[[Changes/ChatGPT/2026-10-15-the-rosalind-academic-plan-helps-eligible-academic-labs-use-chatgpt-for-life-sci|The
   Rosalind Academic Plan helps eligible academic labs use ChatGPT for life…]]'
+- '[[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo
+  payments in Vietnam]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-28-api-credits-for-eligible-chatgpt-pro-and-business-plans-a2290f64|chatgpt-2026-10-28-api-credits-for-eligible-chatgpt-pro-and-business-plans-a2290f64]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -91,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-15 · ChatGPT · [[Changes/ChatGPT/2026-10-15-the-rosalind-academic-plan-helps-eligible-academic-labs-use-chatgpt-for-life-sci|The Rosalind Academic Plan helps eligible academic labs use ChatGPT for life…]]
+- Earlier: 2026-10-21 · ChatGPT · [[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo payments in Vietnam]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

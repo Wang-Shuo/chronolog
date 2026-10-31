@@ -2,8 +2,8 @@
 changes_count: 1
 date: '2026-08-31'
 description: 'ChatGPT release Create and share personalized sticker packs on 2026-08-31:
-  1 tracked change across Collaboration'
-machine_hash: da8ddfc70ad62c71fc51473e9ab669474ea42fc1ce7deca7c334c3bd1b4fd103
+  1 tracked change across Mobile and Desktop'
+machine_hash: 68c25090e62a253f79e84103545822ed54a2e9683c5f8e428096e8c770a8ff59
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,5 +44,5 @@ Tracked 1 card from 4 candidate lines; 2 lines pending review.
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o|Share your stickers in messaging apps]] · Collaboration
+- [[Changes/ChatGPT/2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o|Share your stickers in messaging apps]] · Mobile and Desktop
 <!-- chronolog:end -->

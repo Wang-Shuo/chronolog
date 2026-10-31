@@ -2,8 +2,8 @@
 changes_count: 1
 date: '2025-08-07'
 description: 'ChatGPT release Accent Colors on 2025-08-07: 1 tracked change across
-  Mobile and Desktop'
-machine_hash: 9dc145cc6113cda6446b376dd26dc46a6770d362d38759d8770c8a62ab14c631
+  Voice and Audio'
+machine_hash: f1cd81605ed4a8b0c900e3dc381ebc7db06e48b6ab35e90560e4867ba6502c7b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,5 +46,5 @@ Tracked 1 card from 1 candidate line.
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-08-07-you-can-now-set-an-accent-color-that-applies-to-elements-in-chatgpt-including-yo-865968|Accent Colors]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-08-07-you-can-now-set-an-accent-color-that-applies-to-elements-in-chatgpt-including-yo-865968|Accent Colors]] · Voice and Audio
 <!-- chronolog:end -->

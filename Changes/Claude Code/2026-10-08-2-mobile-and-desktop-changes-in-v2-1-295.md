@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4e67ce2b5e81a7897eae955040791cfff42e2fd030a834b29634525968ec7f8d
+machine_hash: 04fbdd2c6099d791fc1b84c3374ee3b8266ec80541ef4960db4db5dea3c25f5f
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,6 +55,7 @@ related_changes:
   and reply to the local agents running on your computer from the Cursor iOS app]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'
 source_type: github_releases
+superseded: true
 theme: mobile-desktop
 title: 2 Mobile and Desktop changes in v2.1.295
 type: change

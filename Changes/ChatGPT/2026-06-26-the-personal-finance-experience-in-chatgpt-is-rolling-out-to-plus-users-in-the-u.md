@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e4d5176212aeb00af791ec78cee124a3adc589574a16c0b7ad50dd3b49e9257e
+machine_hash: 591a24a1d4056db584a5041609b5b3a655e4e49b90909aeed4182897a69afee3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,16 +46,7 @@ record:
   source_release: chatgpt-2026-06-26-personal-finance-in-chatgpt-expands-to-plus-users-and-android-e1f9ce56
   source_type: chatgpt_changelog
   theme: file-data
-  theme_matches:
-  - matched_terms:
-    - android
-    - ios
-    score: 100
-    theme: mobile-desktop
-  - matched_terms:
-    - context
-    score: 50
-    theme: context-window
+  theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Personal finance in ChatGPT expands to Plus users and Android
   type: change

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f3c691375ef7fb9c7cd7eba4bc3d5319cc53ecddca233025ca243f5b625d3b48
+machine_hash: f9940fc86cfce76b88ff983f7bfa904644e081ecb58b202588763995ae9790e0
 product: cursor
 product_name: Cursor
 record:
@@ -46,9 +46,9 @@ record:
 related_changes:
 - '[[Changes/ChatGPT/2025-10-23-group-work-upload-notes-proposals-and-contracts-so-collaborators-can-draft-deliv|Group
   work: Upload notes, proposals, and contracts so collaborators can draft…]]'
+- '[[Changes/Cursor/2025-10-29-2-reliability-and-performance-changes-in-2-0|2 Reliability
+  and Performance changes in 2.0]]'
 - '[[Changes/Cursor/2025-10-29-improved-performance|Improved Performance]]'
-- '[[Changes/Cursor/2025-10-29-optimized-findfiles-performance-to-batch-concurrent-calls-at-bounded-concurrency|Optimized
-  findFiles performance to batch concurrent calls at bounded concurrency]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -89,7 +89,7 @@ Source: https://cursor.com/changelog/2-2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-optimized-findfiles-performance-to-batch-concurrent-calls-at-bounded-concurrency|Optimized findFiles performance to batch concurrent calls at bounded concurrency]]
+- Earlier: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-improved-performance|Improved Performance]]
 - Later: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-for-this-holiday-release-we-ve-focused-entirely-on-fixing-bugs-and-improving-sta|For this holiday release, we've focused entirely on fixing bugs and improving stability]]
 <!-- chronolog:end -->
 

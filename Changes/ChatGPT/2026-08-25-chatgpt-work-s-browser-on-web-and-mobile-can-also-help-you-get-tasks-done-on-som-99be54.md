@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f0169a20c6c74b5d5a2172e0d8035edc90e5ff9d930e433c9d220f2e55da0c58
+machine_hash: 3a10d15efe524858639917aa0bc61dc1c7294ed706a007d3b16f341f66dc2c81
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,16 +60,6 @@ record:
   source_release: chatgpt-2026-08-25-chatgpt-work-can-now-complete-tasks-on-signed-in-websites-d2be314c
   source_type: chatgpt_changelog
   theme: account-access
-  theme_matches:
-  - matched_terms:
-    - sign in
-    score: 60
-    theme: account-access
-  - matched_terms:
-    - mobile
-    score: 50
-    theme: mobile-desktop
-  theme_resolution: manual-semantic-rule-v1
   title: ChatGPT Work can now complete tasks on signed-in websites
   type: change
 related_changes:

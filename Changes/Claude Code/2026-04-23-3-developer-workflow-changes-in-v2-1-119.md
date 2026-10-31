@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ad4a133f10cc18066c29cef766494dfc949191537c06eef9f429497bcc8cda47
+machine_hash: 26a04361b875e8eb1379900360e2c5fdf63fa8662a2e7092a6dc87fb2ba6c729
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,6 +55,7 @@ related_changes:
   on Windows can now inherit Windows-side managed settings…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-119-github-312949780-573724e7|claude-code-2026-04-23-v2-1-119-github-312949780-573724e7]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: 3 Developer Workflow changes in v2.1.119
 type: change

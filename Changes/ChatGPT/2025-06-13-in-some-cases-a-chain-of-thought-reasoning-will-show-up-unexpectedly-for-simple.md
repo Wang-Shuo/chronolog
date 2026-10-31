@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9e5bbea008aa8f14f6c04bca3bb503cc5807f0a98a00e8fdf5f4da5a256de8fd
+machine_hash: 794d41042d8128609ce3a0319788a8a964afc94aeb5d896453e86fe56d0cd9ea
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,8 +47,8 @@ record:
     simple queries
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-10-like-o1-pro-o3-pro-is-a-version-of-our-most-intelligent-model-o3-designed-to-thi-32668a|ChatGPT
-  launches OpenAI o3-pro—available now for Pro users and in our API]]'
+- '[[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload
+  files and access model selector on mobile]]'
 - '[[Changes/ChatGPT/2025-06-12-creators-can-now-choose-from-the-full-set-of-chatgpt-models-gpt-4o-o3-o4-mini-an-ad1adf|Creators
   can now choose from the full set of ChatGPT models…]]'
 - '[[Changes/Cursor/2025-06-12-once-connected-try-it-in-any-channel-with-cursor-and-write-a-prompt-use-the-comm|Once

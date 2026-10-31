@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ba91f4666cabf86c3f037c24c3364580692d9a8f6fe5985d3bfc82b7bc9d3513
+machine_hash: f9e2a7bbc50c5ad4076e7cd757d4d3779f38114b178a051cb61e83eeb7f7865f
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,10 +41,10 @@ record:
   title: Added an ISO `modified` timestamp to memory file frontmatter
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced
-  long-session memory growth from terminal output cache]]'
 - '[[Changes/Claude Code/2026-07-14-memory-writes-that-leave-a-memory-md-index-over-its-read-limit-now-produce-an-ex|Memory
   writes that leave a MEMORY.md index over its read limit now produce…]]'
+- '[[Changes/ChatGPT/2026-07-15-we-re-increasing-the-character-limit-for-custom-instructions-in-chatgpt-plus-pro|Increased
+  custom instructions limit]]'
 - '[[Changes/Claude Code/2026-07-15-improved-the-memory-index-over-limit-warning-to-measure-only-loaded-content-excl|Improved
   the memory index over-limit warning to measure only loaded content…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-18-v2-1-214-github-355973317-478680c5|claude-code-2026-07-18-v2-1-214-github-355973317-478680c5]]'

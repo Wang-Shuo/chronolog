@@ -5,10 +5,10 @@ description: 'ChatGPT · 2026-06-08 · Enterprise and Administration: Send an em
   directly from within a chat: If you’ve connected Gmail or Outlook, you can now ask
   ChatGPT…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
-    users can only access stable release (no pre-release)]]'
+  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
+    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 369
+  lag_days: 810
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 506715e599b06766e5136e84f1d731d07adb3ea71fe7ef8d6d051ad0779289eb
+machine_hash: 51a717189bf18640c055aecae8c4558f0a0dda97749540c8e6e9efed0466ad7e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,8 +51,7 @@ record:
   title: Send an email directly from within a chat
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-13-added-anthropic-workspace-id-environment-variable-for-workload-identity-federati|Added
-  ANTHROPIC_WORKSPACE_ID environment variable for workload identity federation]]'
+- '[[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|Organizations]]'
 - '[[Changes/ChatGPT/2026-06-04-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-the-uk-plus-pr|Rolling
   out ads in the UK]]'
 - '[[Changes/Claude Code/2026-06-04-added-requiredminimumversion-and-requiredmaximumversion-managed-settings-claude|Added
@@ -87,7 +86,7 @@ type: change
 - [[Changes/ChatGPT/2026-06-08-long-press-send-to-choose-a-model-users-on-paid-plans-can-now-long-press-the-sen|Long-press send to choose a model]] · Model Support
 - [[Changes/ChatGPT/2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo|Full-screen writing blocks for longer-form work]] · Files and Data
 - [[Changes/ChatGPT/2026-06-08-immediate-image-previews-after-sending-when-you-upload-an-image-on-ios-chatgpt-u|Immediate image previews after sending]] · Mobile and Desktop
-- [[Changes/ChatGPT/2026-06-08-cleaned-up-logged-out-mobile-web-experience-logged-out-users-now-see-a-composer|Cleaned up logged-out mobile web experience]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-06-08-cleaned-up-logged-out-mobile-web-experience-logged-out-users-now-see-a-composer|Cleaned up logged-out mobile web experience]] · Interface Experience
 - [[Changes/ChatGPT/2026-06-08-edit-messages-with-attachments-you-can-now-edit-messages-that-include-attachment|Edit messages with attachments]] · Editor Experience
 <!-- chronolog:end -->
 
@@ -101,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
+- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

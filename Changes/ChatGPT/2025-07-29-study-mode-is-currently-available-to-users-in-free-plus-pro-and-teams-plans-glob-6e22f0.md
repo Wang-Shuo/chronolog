@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b44a791b09a015d24630e80e324facd520f802253ab537de563a5134cd35c333
+machine_hash: 823bec0507f091c38cb1257057887f41f70a719a060a6b9c243fad3e4312a4ff
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -94,6 +94,7 @@ related_changes:
   mode is now available to ChatGPT Plus users globally in the macOS desktop app]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-29-study-mode-ffbfbea6|chatgpt-2025-07-29-study-mode-ffbfbea6]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: mobile-desktop
 title: Study mode is currently available to users in Free, Plus, Pro, and Teams plans…
 type: change

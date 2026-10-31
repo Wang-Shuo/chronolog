@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7dc1514fca3812a86af6c6e9695393453662cc65ece2a63005b68f5d9540c4e2
+machine_hash: 3587c33e8ecf26f0c61b5bfc47d0c8434e33e07128ef8e90487fb3cc92d00bef
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,12 +39,12 @@ record:
   title: Faster responses
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-05-improved-responsiveness-while-resuming-large-sessions-timers-input-and-rendering|Improved
-  responsiveness while resuming large sessions]]'
 - '[[Changes/Claude Code/2026-10-06-improved-rendering-speed-of-long-bulleted-or-numbered-replies-they-stream-resize|Improved
   rendering speed of long bulleted or numbered replies]]'
 - '[[Changes/Claude Code/2026-10-09-improved-transcript-toggle-ctrl-o-responsiveness-in-code-heavy-conversations-by|Improved
   transcript toggle (ctrl+o) responsiveness in code-heavy conversations…]]'
+- '[[Changes/Claude Code/2026-10-14-improved-memory-and-disk-use-when-pdfs-are-mentioned-their-bytes-are-no-longer-k|Improved
+  memory and disk use when PDFs are @-mentioned]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-16-updates-to-gpt-6-pro-model-in-chatgpt-6a44f64a|chatgpt-2026-10-16-updates-to-gpt-6-pro-model-in-chatgpt-6a44f64a]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-improved-transcript-toggle-ctrl-o-responsiveness-in-code-heavy-conversations-by|Improved transcript toggle (ctrl+o) responsiveness in code-heavy conversations…]]
+- Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-improved-memory-and-disk-use-when-pdfs-are-mentioned-their-bytes-are-no-longer-k|Improved memory and disk use when PDFs are @-mentioned]]
 - Later: 2026-10-16 · Cursor · [[Changes/Cursor/2026-10-16-larger-faster-environments|Larger, faster environments]]
 <!-- chronolog:end -->
 

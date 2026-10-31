@@ -1,23 +1,23 @@
 ---
 card_id: claude-code-2026-10-23-599f2a
 date: '2026-10-23'
-description: 'Claude Code · 2026-10-23 · Memory and Personalization: Improved memory
+description: 'Claude Code · 2026-10-23 · Reliability and Performance: Improved memory
   use of non-interactive sessions (`-p`, Agent SDK) during compaction when the transcript…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
-    instructions are rolling out in beta]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1191
+  lag_days: 1408
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: memory
+  theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: af30e811e2311cd17e0a77e3f18a7fa9786d9606d0890b1553c0eb1e9d936d78
+machine_hash: ef20eada518a7211d33712f3977cb4a2299b290f8035646d89759bb27a68865b
 product: claude-code
 product_name: Claude Code
 record:
@@ -40,7 +40,7 @@ record:
   slug: improved-memory-use-of-non-interactive-sessions-p-agent-sdk-during-compaction-wh
   source_release: claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2
   source_type: github_releases
-  theme: memory
+  theme: reliability-performance
   theme_matches:
   - matched_terms:
     - memory
@@ -50,19 +50,19 @@ record:
     - agent
     score: 50
     theme: agent-mode
+  theme_resolution: manual-semantic-rule-v2
   title: Improved memory use of non-interactive sessions (`-p`, Agent SDK) during
     compaction…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-05-changed-background-sessions-waiting-on-a-scheduled-wakeup-loop-they-are-now-left|Changed
-  background sessions waiting on a scheduled wakeup (/loop)]]'
-- '[[Changes/Claude Code/2026-10-14-improved-memory-and-disk-use-when-pdfs-are-mentioned-their-bytes-are-no-longer-k|Improved
-  memory and disk use when PDFs are @-mentioned]]'
-- '[[Changes/Claude Code/2026-10-19-improved-memory-use-when-sending-requests-in-long-or-resumed-conversations|Improved
-  memory use when sending requests in long or resumed conversations]]'
+- '[[Changes/Cursor/2026-10-16-larger-faster-environments|Larger, faster environments]]'
+- '[[Changes/Claude Code/2026-10-19-2-reliability-and-performance-changes-in-v2-1-304|2
+  Reliability and Performance changes in v2.1.304]]'
+- '[[Changes/Claude Code/2026-10-22-2-reliability-and-performance-changes-in-v2-1-309|2
+  Reliability and Performance changes in v2.1.309]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2|claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2]]'
 source_type: github_releases
-theme: memory
+theme: reliability-performance
 title: Improved memory use of non-interactive sessions (-p, Agent SDK) during compaction…
 type: change
 ---
@@ -70,7 +70,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Improved memory use of non-interactive sessions (`-p`, Agent SDK) during compaction…
 
-**Claude Code** · 2026-10-23 · [[Themes/memory|Memory and Personalization]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.310) · from [[Releases/Claude Code/claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2|v2.1.310]]
+**Claude Code** · 2026-10-23 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.310) · from [[Releases/Claude Code/claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2|v2.1.310]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -92,16 +92,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Memory and Personalization
+## Nearby in Reliability and Performance
 
-- Earlier: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-improved-memory-use-when-sending-requests-in-long-or-resumed-conversations|Improved memory use when sending requests in long or resumed conversations]]
-- Later: 2026-10-30 · ChatGPT · [[Changes/ChatGPT/2026-10-30-account-switching-is-rolling-out-to-the-chatgpt-ios-and-android-apps-you-can-sta|Account switching on iOS and Android]]
+- Earlier: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-2-reliability-and-performance-changes-in-v2-1-309|2 Reliability and Performance changes in v2.1.309]]
+- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-3-reliability-and-performance-changes-in-v2-1-314|3 Reliability and Performance changes in v2.1.314]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

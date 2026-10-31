@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2bddec8320ed964535eb1e83803ff518511b10598dd6ef652b6a1f89fa77713d
+machine_hash: fabc236675f8a71086d4263975a7c29495a8ec8fa0d5debc380b9c24434eda2b
 product: cursor
 product_name: Cursor
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d|Starting today, we’re adding several updates to projects in ChatGPT to help you do…]]
-- Later: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow team admins to configure an extension allowlist]]
+- Later: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-ai-code-tracking-api-get-commit-level-visibility-into-ai-usage-and-accepted-chan|AI code tracking API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

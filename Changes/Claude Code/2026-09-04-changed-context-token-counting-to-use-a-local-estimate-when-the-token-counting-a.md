@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f588b1f70c5a5bbf8a3a82a84aadf9f62d72323b736c048c0f4198915b9996ad
+machine_hash: 2ce536d9e5828e2230f69c52cdbf6010850fb51b35895088b70456a87bfbb1c4
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,11 +56,11 @@ record:
   title: Changed `/context` token counting to use a local estimate when the token-counting…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-27-improved-the-workflow-tool-s-prompt-footprint-its-description-is-now-about-1k-to|Improved
-  the Workflow tool''s prompt footprint]]'
 - '[[Changes/Claude Code/2026-08-28-improved-retry-when-the-model-s-tool-call-is-malformed-the-broken-output-is-now|Improved
   retry when the model''s tool call is malformed]]'
-- '[[Changes/Claude Code/2026-09-03-2-context-window-changes-in-v2-1-260|2 Context
+- '[[Changes/ChatGPT/2026-08-31-bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context-af2c3a|Bring
+  your browser into Work and Codex]]'
+- '[[Changes/Claude Code/2026-09-03-3-context-window-changes-in-v2-1-260|3 Context
   Window changes in v2.1.260]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519|claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519]]'
 source_type: github_releases
@@ -86,11 +86,10 @@ type: change
 
 - [[Changes/Claude Code/2026-09-04-improved-streaming-performance-already-rendered-blocks-are-no-longer-re-checked|Improved streaming performance]] · Reliability and Performance
 - [[Changes/Claude Code/2026-09-04-3-interface-experience-changes-in-v2-1-261|3 Interface Experience changes in v2.1.261]] · Interface Experience
-- [[Changes/Claude Code/2026-09-04-vscode-added-a-hollow-ring-in-the-session-list-for-sessions-open-in-a-terminal-a|VSCode Added a hollow ring in the session list for sessions open in a terminal…]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-09-04-3-developer-workflow-changes-in-v2-1-261|3 Developer Workflow changes in v2.1.261]] · Developer Workflow
 - [[Changes/Claude Code/2026-09-04-2-agent-mode-changes-in-v2-1-261|2 Agent Mode changes in v2.1.261]] · Agent Mode
 - [[Changes/Claude Code/2026-09-04-vscode-added-an-add-server-form-and-a-remove-action-to-the-mcp-servers-dialog-so|VSCode Added an Add server form and a Remove action to the MCP servers dialog…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-09-04-2-account-and-access-changes-in-v2-1-261|2 Account and Access changes in v2.1.261]] · Account and Access
-- [[Changes/Claude Code/2026-09-04-2-developer-workflow-changes-in-v2-1-261|2 Developer Workflow changes in v2.1.261]] · Developer Workflow
 - [[Changes/Claude Code/2026-09-04-added-skill-doctor-to-show-which-loaded-skills-go-unused-and-what-they-cost-in-c|Added /skill-doctor to show which loaded skills go unused and what they cost…]] · Context Window
 - [[Changes/Claude Code/2026-09-04-4-safety-and-privacy-changes-in-v2-1-261|4 Safety and Privacy changes in v2.1.261]] · Safety and Privacy
 - [[Changes/Claude Code/2026-09-04-improved-the-model-picker-and-the-vs-code-model-pill-to-show-a-model-s-name-inst|Improved the /model picker and the VS Code model pill to show a model's name…]] · Model Support
@@ -100,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-2-context-window-changes-in-v2-1-260|2 Context Window changes in v2.1.260]]
+- Earlier: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-3-context-window-changes-in-v2-1-260|3 Context Window changes in v2.1.260]]
 - Later: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-improved-prompt-cache-stability-subagents-and-sessions-started-with-system-promp|Improved prompt-cache stability]]
 <!-- chronolog:end -->
 

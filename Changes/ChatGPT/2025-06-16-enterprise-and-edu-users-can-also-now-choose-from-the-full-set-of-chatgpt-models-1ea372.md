@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9ab86cb49c0e7596f3008dcd65bad9b807d7342795ab44278adc006d08c70bd9
+machine_hash: 312e3d93996bb4e4c5953b78345951e6b86fbf32596fd04179c23f201261f299
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,20 +47,7 @@ record:
   source_release: chatgpt-2025-06-16-expanded-model-support-for-custom-gpts-55f4555f
   source_type: chatgpt_changelog
   theme: model-support
-  theme_matches:
-  - matched_terms:
-    - gpt 4o
-    - models
-    score: 110
-    theme: model-support
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
+  theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Expanded Model Support for Custom GPTs
   type: change

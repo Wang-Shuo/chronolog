@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 0a9c0937f4c937012fe7e2f0bb206feedb618a00c553cb467f7d6a8015f86d82
+machine_hash: 0a5e3269ee21028b50546296a9cdfdde4314794cacc0b6a86da12c4c7a2d3093
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -102,7 +102,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-added-claude-code-gateway-model-discovery-timeout-ms-to-extend-the-llm-gateway-v|Added CLAUDE_CODE_GATEWAY_MODEL_DISCOVERY_TIMEOUT_MS to extend the LLM gateway…]]
-- Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-improved-startup-time-slightly-by-skipping-a-redundant-validation-of-built-in-mo|Improved startup time slightly by skipping a redundant validation of built-in model…]]
+- Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-2-model-support-changes-in-v2-1-271|2 Model Support changes in v2.1.271]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

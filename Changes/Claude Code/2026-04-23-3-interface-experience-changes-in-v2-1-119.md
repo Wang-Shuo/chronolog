@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6cfd9eff0c087a0058bb2265fc806b668942dbe0cf535272a960d4d7566ad7da
+machine_hash: f3c8588cfff8693f9084182ef57d6c73d07537dcd9bdccb3788ceb2f6581b01c
 product: claude-code
 product_name: Claude Code
 record:
@@ -81,10 +81,9 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.119
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-04-23-from-pr-now-accepts-gitlab-merge-request-bitbucket-pull-request-and-github-enter|--from-pr now accepts GitLab merge-request, Bitbucket pull-request, and GitHub…]] · Enterprise and Administration
+- [[Changes/Claude Code/2026-04-23-4-developer-workflow-changes-in-v2-1-119|4 Developer Workflow changes in v2.1.119]] · Developer Workflow
 - [[Changes/Claude Code/2026-04-23-3-apps-and-integrations-changes-in-v2-1-119|3 Apps and Integrations changes in v2.1.119]] · Apps and Integrations
 - [[Changes/Claude Code/2026-04-23-config-settings-theme-editor-mode-verbose-etc-now-persist-to-claude-settings-jso|/config settings (theme, editor mode, verbose, etc.) now persist…]] · Editor Experience
-- [[Changes/Claude Code/2026-04-23-3-developer-workflow-changes-in-v2-1-119|3 Developer Workflow changes in v2.1.119]] · Developer Workflow
 - [[Changes/Claude Code/2026-04-23-2-agent-mode-changes-in-v2-1-119|2 Agent Mode changes in v2.1.119]] · Agent Mode
 - [[Changes/Claude Code/2026-04-23-4-safety-and-privacy-changes-in-v2-1-119|4 Safety and Privacy changes in v2.1.119]] · Safety and Privacy
 - [[Changes/Claude Code/2026-04-23-3-other-changes-in-v2-1-119|3 other changes in v2.1.119]] · Other changes

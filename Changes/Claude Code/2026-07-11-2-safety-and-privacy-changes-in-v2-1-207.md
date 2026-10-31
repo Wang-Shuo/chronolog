@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 66642bb61843204cbcab43b2fa7e1e5ac47cbdc9fab817d56f7daa651636f72c
+machine_hash: 61bdad070b55fcc2a091dc37ee93b0a94d0685354d454f0d6be00dc9e9afde66
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Safety and Privacy changes in v2.1.207
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-07-added-a-grey-badge-to-the-footer-when-in-manual-permission-mode-making-the-activ|Added
-  a grey ⏸ badge to the footer when in manual permission mode, making the active…]]'
 - '[[Changes/Claude Code/2026-07-08-background-task-notifications-now-explicitly-state-that-no-human-input-has-occur|Background
   task notifications now explicitly state that no human input has occurred…]]'
+- '[[Changes/ChatGPT/2026-07-09-on-desktop-work-can-use-local-files-and-desktop-apps-with-your-permission-the-bu-1e4d11|On
+  desktop, Work can use local files and desktop apps with your permission]]'
 - '[[Changes/Claude Code/2026-07-10-fixed-permission-prompt-tool-pointing-at-an-mcp-server-crashing-with-mcp-tool-no|Fixed
   --permission-prompt-tool pointing at an MCP server crashing…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91|claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91]]'

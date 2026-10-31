@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 20bc624775c59b48aa68ac0556a364898d675bada8aa42efc80f7d88c7ef922c
+machine_hash: 175e5c613e1fa24e161ff6ba68cf0e36a951b7f3d1f9c740007abd827912df5f
 product: cursor
 product_name: Cursor
 record:
@@ -49,6 +49,7 @@ related_changes:
   instructions are now available to users in the EU & UK]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-07-0-9-7-nightly-https-cursor-com-changelog-0-9-7-nightly-87d1216f|cursor-2023-09-07-0-9-7-nightly-https-cursor-com-changelog-0-9-7-nightly-87d1216f]]'
 source_type: cursor_changelog
+superseded: true
 theme: memory
 title: This should reduce any significant memory issues that users have been experiencing
 type: change

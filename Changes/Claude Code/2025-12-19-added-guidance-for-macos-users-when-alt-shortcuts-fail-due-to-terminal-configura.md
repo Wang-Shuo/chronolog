@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b85d10bfca395950b6a92bf8663e2a48cd9c05c1d7c7afd9791dc08d045fc50c
+machine_hash: 69ed85c869fc42636162637edad3c668f07e1e65a4aa9566d0113c73120c84a2
 product: claude-code
 product_name: Claude Code
 record:
@@ -60,6 +60,7 @@ related_changes:
   chats in ChatGPT]]'
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10|claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10]]'
 source_type: github_releases
+superseded: true
 theme: mobile-desktop
 title: Added guidance for macOS users when Alt shortcuts fail due to terminal configuration
 type: change

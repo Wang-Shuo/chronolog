@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: d1bd0fa8b18d4875c41674d0a151f1c5b8fa90016ad9a38aa5662218009e47a7
+machine_hash: 7d8cdeb052b4d0a66bde442b0407b2573cf75cf379bf42de5b0649ddf0d38533
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,11 @@ record:
     desktop app
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2025-02-21-ios-widget-see-below|iOS widget (see below)]]'
+- '[[Changes/ChatGPT/2025-02-28-long-press-to-select-text-on-ios-and-moved-the-message-quick-actions-to-always-b-a40c3f|Long
+  press to select text on iOS and moved the message quick actions to always…]]'
 - '[[Changes/ChatGPT/2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved
   table-copying functionality out of ChatGPT responses on iOS and macOS]]'
-- '[[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a35dd7|Mobile
-  UI (iOS/Android) changing on Free/Plus/Pro plans]]'
-- '[[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload
-  files and access model selector on mobile]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1|chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -78,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload files and access model selector on mobile]]
-- Later: 2025-07-29 · ChatGPT · [[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-6e22f0|Study mode is currently available to users in Free, Plus, Pro, and Teams plans…]]
+- Earlier: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved table-copying functionality out of ChatGPT responses on iOS and macOS]]
+- Later: 2025-08-22 · ChatGPT · [[Changes/ChatGPT/2025-08-22-this-feature-will-initially-only-be-available-on-the-chatgpt-website-and-windows|This feature will initially only be available on the ChatGPT website and Windows app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

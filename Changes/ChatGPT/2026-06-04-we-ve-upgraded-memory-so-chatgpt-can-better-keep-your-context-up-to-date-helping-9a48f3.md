@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b1d83ff8b98d7becfb2f8a60150df50486a0d65ec0f1401f77c11c0ad4871332
+machine_hash: 9e9c8629872d374567f2b6654177184d613e1ba0241933322e15f1ae14d72cc6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -71,19 +71,14 @@ record:
     score: 160
     theme: memory
   - matched_terms:
-    - android
-    - ios
-    score: 100
-    theme: mobile-desktop
-  - matched_terms:
     - context
     score: 50
     theme: context-window
   title: Memory that stays more up to date
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file
-  diff rendering is now much faster, smoother, and less memory-heavy]]'
+- '[[Changes/Claude Code/2026-03-27-memory-filenames-in-the-saved-n-memories-notice-now-highlight-on-hover-and-open|Memory
+  filenames in the "Saved N memories" notice now highlight on hover and open on click]]'
 - '[[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|Fast
   answers in ChatGPT]]'
 - '[[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Memory
@@ -115,7 +110,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-05-05 · ChatGPT · [[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Memory sources and more personalized responses in ChatGPT]]
-- Later: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run correlation: Every send() now carries a platform-generated requestId, exposed…]]
+- Later: 2026-06-12 · ChatGPT · [[Changes/ChatGPT/2026-06-12-you-can-now-delete-the-memories-shown-on-your-memory-summary-page-and-turn-memor-f16782|Additional controls for memory summary]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

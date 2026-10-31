@@ -8,7 +8,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 628a445b91b973c4f9f98639061d3ec55f443c02df0d735849140fd8d0564c69
+machine_hash: ccfb4c1906cd2f9c16b8cf4055da30380fbb2e9315f96fac81f3a3088f0f2b50
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,8 +83,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.282
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-09-24-claude-tag-changed-newly-connected-slack-workspaces-to-follow-the-current-defaul|Claude Tag Changed newly connected Slack workspaces to follow the current default…]] · Model Support
-- [[Changes/Claude Code/2026-09-24-2-mobile-and-desktop-changes-in-v2-1-282|2 Mobile and Desktop changes in v2.1.282]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-09-24-2-model-support-changes-in-v2-1-282|2 Model Support changes in v2.1.282]] · Model Support
+- [[Changes/Claude Code/2026-09-24-improved-the-error-shown-on-windows-when-a-session-can-t-be-resumed-because-its|Improved the error shown on Windows when a session can't be resumed because…]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-09-24-4-interface-experience-changes-in-v2-1-282|4 Interface Experience changes in v2.1.282]] · Interface Experience
 - [[Changes/Claude Code/2026-09-24-updated-the-claude-api-skill-pre-output-refusal-billing-now-links-to-the-how-ref|Updated the claude-api skill]] · Pricing Model
 - [[Changes/Claude Code/2026-09-24-changed-windows-wsl-managed-settings-so-an-admin-policy-that-is-present-but-inva|Changed Windows/WSL managed settings so an admin policy that is present but invalid…]] · Developer Workflow

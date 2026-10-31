@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b3c27978c23bea228db01ce8bc36c55ff2b8f5f8a586c46b3f95b8d186e13bf5
+machine_hash: 8ae18026517af5312df839af8bff22336303a353eba80c773aaf9048dfdaf811
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,10 +57,10 @@ record:
   title: Introducing GPT-6 Astra
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-26-added-claude-api-cost-optimize-to-profile-an-existing-project-s-claude-api-spend|Added
-  /claude-api cost-optimize to profile an existing project''s Claude API spend…]]'
-- '[[Changes/Claude Code/2026-08-28-4-model-support-changes-in-v2-1-251|4 Model Support
+- '[[Changes/Claude Code/2026-08-28-5-model-support-changes-in-v2-1-251|5 Model Support
   changes in v2.1.251]]'
+- '[[Changes/ChatGPT/2026-08-31-site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are|Site
+  tools use WebMCP and require a supported account, model, and webpage]]'
 - '[[Changes/Claude Code/2026-09-01-6-model-support-changes-in-v2-1-257|6 Model Support
   changes in v2.1.257]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-03-introducing-gpt-6-astra-d055fc02|chatgpt-2026-09-03-introducing-gpt-6-astra-d055fc02]]'

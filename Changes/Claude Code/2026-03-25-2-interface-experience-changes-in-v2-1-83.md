@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 429112adbaef47ef424fd55fd2fcf1c586588cb1962671635921a57cf83f0fcb
+machine_hash: d884837c447538481a512657426e3e6661c93b7973f8521ff8466bb285b35892
 product: claude-code
 product_name: Claude Code
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.83
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-19 · Claude Code · [[Changes/Claude Code/2026-03-19-2-interface-experience-changes-in-v2-1-80|2 Interface Experience changes in v2.1.80]]
-- Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-improved-mention-file-autocomplete-performance-on-large-repositories|Improved @-mention file autocomplete performance on large repositories]]
+- Later: 2026-03-26 · ChatGPT · [[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|A simplified sidebar on mobile]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

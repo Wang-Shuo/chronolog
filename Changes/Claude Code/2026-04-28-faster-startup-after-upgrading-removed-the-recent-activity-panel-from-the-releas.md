@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0a50f778ab85839e22af78994e05d8ceb3531290b13537dc5f900800bd66fee1
+machine_hash: 0410bb047bf7c3b8a8c0e384392eb465d89aa1243727fa44af295b90155cc88e
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ related_changes:
   /ultrareview: faster launch with parallelized checks, diffstat…]]'
 - '[[Changes/Claude Code/2026-04-20-resume-on-large-sessions-is-significantly-faster-up-to-67-on-40mb-sessions-and-h|/resume
   on large sessions is significantly faster (up to 67% on 40MB+ sessions)…]]'
-- '[[Changes/Claude Code/2026-04-22-windows-cached-where-exe-executable-lookups-per-process-for-faster-subprocess-la|Windows:
-  cached where.exe executable lookups per process for faster subprocess launches]]'
+- '[[Changes/Claude Code/2026-04-22-2-reliability-and-performance-changes-in-v2-1-117|2
+  Reliability and Performance changes in v2.1.117]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce|claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce]]'
 source_type: github_releases
 theme: reliability-performance
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-windows-cached-where-exe-executable-lookups-per-process-for-faster-subprocess-la|Windows: cached where.exe executable lookups per process for faster subprocess launches]]
+- Earlier: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-2-reliability-and-performance-changes-in-v2-1-117|2 Reliability and Performance changes in v2.1.117]]
 - Later: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-updated-the-tui-fullscreen-startup-banner-to-describe-additional-renderer-benefi|Updated the /tui fullscreen startup banner to describe additional renderer…]]
 <!-- chronolog:end -->
 

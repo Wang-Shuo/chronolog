@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 467d1a9def3a4815d506748635ead8dde7ef30478b8afac57368336bd5f48ead
+machine_hash: 5ed614bb9d9a8fe1e4dfbf61218b2f7bfd23590eb6065ce4a3d560c67efa825b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,9 +45,10 @@ record:
   title: Longer memory for more personalized responses
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2025-06-12-improvements-to-memory-to-reference-past-chats-in-a-project|Improvements
+  to memory to reference past chats in a project]]'
 - '[[Changes/Cursor/2025-07-03-memories-is-now-ga-since-1-0-we-ve-improved-memory-generation-quality-added-in-e|Memories
   (now GA)]]'
-- '[[Changes/Cursor/2025-07-03-faster-tab|Faster Tab]]'
 - '[[Changes/ChatGPT/2025-07-29-personalize-responses-based-on-your-past-chats-if-memory-is-on-using-examples-an|Personalize
   responses based on your past chats if memory is on, using examples…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a|chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a]]'

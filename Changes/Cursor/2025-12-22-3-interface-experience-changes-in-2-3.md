@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f6ca90e9edef5a4cf79746264d3063288a7d4336b4c90ff853659ac6a6ab6f83
+machine_hash: e4ffb7b0e62eee397f58232d998fe207fee3d0fef36af8893377dfc0282bb3fa
 product: cursor
 product_name: Cursor
 record:
@@ -46,7 +46,8 @@ record:
   title: 3 Interface Experience changes in 2.3
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-10-pinned-chats|Pinned chats]]'
+- '[[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|Pinned
+  chats in ChatGPT]]'
 - '[[Changes/Claude Code/2025-12-19-3-interface-experience-changes-in-v2-0-73|3 Interface
   Experience changes in v2.0.73]]'
 - '[[Changes/Claude Code/2025-12-19-2-interface-experience-changes-in-v2-0-74|2 Interface
@@ -93,7 +94,7 @@ Source: https://cursor.com/changelog/2-3
 ## Nearby in Interface Experience
 
 - Earlier: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-2-interface-experience-changes-in-v2-0-74|2 Interface Experience changes in v2.0.74]]
-- Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-2-interface-experience-changes-in-v2-1-3|2 Interface Experience changes in v2.1.3]]
+- Later: 2026-01-07 · ChatGPT · [[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health appears as a new space in the ChatGPT sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

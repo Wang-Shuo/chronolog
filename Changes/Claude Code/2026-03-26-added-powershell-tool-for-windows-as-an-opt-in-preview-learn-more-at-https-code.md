@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1fcdec81d7a709e60d4fe3047e3041575c721348fa4b5e4a2be2dbb28584da91
+machine_hash: 7f0d6c22be7da89dc03c832be9ea12b0f6bdddc8b9f57c71d45c6db8bc39d4d6
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: Added PowerShell tool for Windows as an opt-in preview
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|File
-  Library in ChatGPT]]'
-- '[[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|A
-  simplified sidebar on mobile]]'
+- '[[Changes/Claude Code/2026-03-05-2-mobile-and-desktop-changes-in-v2-1-69|2 Mobile
+  and Desktop changes in v2.1.69]]'
+- '[[Changes/Claude Code/2026-03-17-vscode-when-option-click-doesn-t-trigger-native-selection-on-macos-the-footer-no|VSCode
+  When option+click doesn''t trigger native selection on macOS, the footer now…]]'
 - '[[Changes/ChatGPT/2026-03-26-users-can-now-choose-to-share-their-device-location-so-chatgpt-can-provide-more-7907ed|Location
   Sharing]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa|claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa]]'

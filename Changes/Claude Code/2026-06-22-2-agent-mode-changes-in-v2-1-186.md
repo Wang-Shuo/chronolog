@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a90c8604a5e52dee8d30d8794a7706a53e70c465e3f686f158318c1ae368f2f5
+machine_hash: f0e942f2021880b5df93c46d53afd17d15a541e7a67b35377a7abc9f6edb6cf0
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Agent Mode changes in v2.1.186
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-17-handoff-between-local-and-cloud|Handoff between local
-  and cloud]]'
+- '[[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|Cursor
+  introduces updates to cloud agents in the Agents Window of the Cursor desktop app]]'
 - '[[Changes/Cursor/2026-06-17-cloud-subagents-with-in-cloud-eb7958|Cloud subagents
   with /in-cloud]]'
 - '[[Changes/Claude Code/2026-06-19-improved-auto-mode-safety-destructive-git-commands-git-reset-hard-git-checkout-g|Improved

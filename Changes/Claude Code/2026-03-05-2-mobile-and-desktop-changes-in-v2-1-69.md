@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7db6df7df198b1201cc28b4d6f48429b984de60db6f93aa045fc443a2901767d
+machine_hash: 95b2ff8b340cfb46cf7828788065ebb4ef58461fe2d8091941ea927c4323c39a
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Mobile and Desktop changes in v2.1.69
   type: change
 related_changes:
+- '[[Changes/Cursor/2026-01-22-windows-notifications-now-have-accept-reject-buttons-like-macos|Windows
+  notifications now have accept/reject buttons like MacOS]]'
 - '[[Changes/Claude Code/2026-02-13-added-windows-arm64-win32-arm64-native-binary-support|Added
   Windows ARM64 (win32-arm64) native binary support]]'
 - '[[Changes/Cursor/2026-02-18-2-mobile-and-desktop-changes-in-cli-improvements-and-mermaid-ascii|2
   Mobile and Desktop changes in CLI Improvements and Mermaid ASCII…]]'
-- '[[Changes/ChatGPT/2026-02-27-sidebar-actions-on-mobile-web-no-longer-stick-while-scrolling|Sidebar
-  actions on mobile web no longer stick while scrolling]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -95,8 +95,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.69
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-02-27 · ChatGPT · [[Changes/ChatGPT/2026-02-27-sidebar-actions-on-mobile-web-no-longer-stick-while-scrolling|Sidebar actions on mobile web no longer stick while scrolling]]
-- Later: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-improved-clipboard-image-pasting-performance-on-macos|Improved clipboard image pasting performance on macOS]]
+- Earlier: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-2-mobile-and-desktop-changes-in-cli-improvements-and-mermaid-ascii|2 Mobile and Desktop changes in CLI Improvements and Mermaid ASCII…]]
+- Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-vscode-when-option-click-doesn-t-trigger-native-selection-on-macos-the-footer-no|VSCode When option+click doesn't trigger native selection on macOS, the footer now…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

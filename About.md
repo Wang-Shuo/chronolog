@@ -3,7 +3,7 @@ created: '2022-12-15'
 date: '2026-10-31'
 description: Where ChronoLog's data comes from, how official release notes become
   reviewed Change Cards, what is grouped or skipped, and how to report a problem.
-machine_hash: 8f72856a85318e651039819298cf14ce5afe1fe82bf460dd398345d5788919c4
+machine_hash: 66b499cdf81569b8c5df4fb231318993821f991c92e668b8a62a0f19a37bb6c5
 modified: '2026-10-31'
 publication: active
 tags:
@@ -55,7 +55,7 @@ ChronoLog tracks announced changes in three products: ChatGPT, Claude Code and C
 
 ## Review status
 <!-- chronolog:begin region="status" -->
-3 products · 818 archived releases · 2,751 tracked changes · 25 themes. Pending theme review: 63. Silence alerts: 0. Every generated batch is reviewed in a pull request before it is published.
+3 products · 818 archived releases · 2,742 tracked changes · 25 themes. Pending theme review: 62. Silence alerts: 0. Every generated batch is reviewed in a pull request before it is published.
 <!-- chronolog:end -->
 
 ## Glossary

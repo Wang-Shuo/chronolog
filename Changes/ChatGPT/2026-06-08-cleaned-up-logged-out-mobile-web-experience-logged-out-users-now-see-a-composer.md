@@ -1,24 +1,24 @@
 ---
 card_id: chatgpt-2026-06-08-ccb8fe
 date: '2026-06-08'
-description: 'ChatGPT · 2026-06-08 · Mobile and Desktop: Cleaned up logged-out mobile
+description: 'ChatGPT · 2026-06-08 · Interface Experience: Cleaned up logged-out mobile
   web experience: Logged-out users now see a composer in the middle of the screen
   to…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1182
+  lag_days: 1246
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: mobile-desktop
+  theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 86e19af4f8cbb6407cc8b795e6df9f4f975421159149842b22296043499ec4d7
+machine_hash: e43e6ea1e7d1bc4cbd9c60162774047d709cd1b795f6581ca168bd076d5d4313
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,30 +42,20 @@ record:
   slug: cleaned-up-logged-out-mobile-web-experience-logged-out-users-now-see-a-composer
   source_release: chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5
   source_type: chatgpt_changelog
-  theme: mobile-desktop
-  theme_matches:
-  - matched_terms:
-    - sidebar
-    score: 50
-    theme: interface-experience
-  - matched_terms:
-    - mobile
-    score: 50
-    theme: mobile-desktop
-  theme_resolution: manual-semantic-rule-v1
+  theme: interface-experience
   title: Cleaned up logged-out mobile web experience
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-bundled-ripgrep-local-shell-runs-use-the-bundled-platform-rg-binary-without-modi|Bundled
-  ripgrep: Local shell runs use the bundled platform rg binary without…]]'
-- '[[Changes/ChatGPT/2026-06-08-cleaner-edit-message-flow-android-now-makes-it-clearer-when-you-re-editing-a-pre|Cleaner
-  edit-message flow]]'
-- '[[Changes/ChatGPT/2026-06-08-immediate-image-previews-after-sending-when-you-upload-an-image-on-ios-chatgpt-u|Immediate
-  image previews after sending]]'
+- '[[Changes/Cursor/2026-06-04-shared-canvases-can-now-be-opened-full-screen-in-the-browser-making-them-easier|Shared
+  canvases can now be opened full-screen in the browser, making them easier…]]'
+- '[[Changes/ChatGPT/2026-06-08-improvement-to-charts-table-of-contents-and-full-screen-writing-also-fixes-long|Improvement
+  to charts, table of contents and full screen writing]]'
+- '[[Changes/ChatGPT/2026-06-08-table-of-contents-in-longer-conversations-conversations-longer-than-five-respons|Table
+  of contents in longer conversations]]'
 scope: iOS
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
-theme: mobile-desktop
+theme: interface-experience
 title: Cleaned up logged-out mobile web experience
 type: change
 ---
@@ -73,7 +63,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Cleaned up logged-out mobile web experience
 
-**ChatGPT** · 2026-06-08 · [[Themes/mobile-desktop|Mobile and Desktop]] · iOS · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
+**ChatGPT** · 2026-06-08 · [[Themes/interface-experience|Interface Experience]] · iOS · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates) · from [[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|ChatGPT app experience updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -97,16 +87,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Mobile and Desktop
+## Nearby in Interface Experience
 
-- Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-bundled-ripgrep-local-shell-runs-use-the-bundled-platform-rg-binary-without-modi|Bundled ripgrep: Local shell runs use the bundled platform rg binary without…]]
-- Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-auto-updater-on-windows-now-stops-retrying-within-a-session-once-claude-exe-is-h|Auto-updater on Windows now stops retrying within a session once claude.exe…]]
+- Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-shared-canvases-can-now-be-opened-full-screen-in-the-browser-making-them-easier|Shared canvases can now be opened full-screen in the browser, making them easier…]]
+- Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-2-interface-experience-changes-in-v2-1-169|2 Interface Experience changes in v2.1.169]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

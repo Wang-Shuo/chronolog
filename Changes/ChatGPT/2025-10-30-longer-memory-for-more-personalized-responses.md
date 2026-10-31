@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 95726d313a6ea081fe788724c00497a5995381f844262bcfe8784a83174b30a9
+machine_hash: 6bf9ba4c7f2d6e9e1b27232f0a6821127c514a465e69fb56269ce1b4badb440f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,12 +41,12 @@ record:
   title: Longer memory for more personalized responses
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2025-10-15-chatgpt-now-manages-saved-memories-automatically-by-keeping-the-most-relevant-de-997f64|ChatGPT
+  can now automatically manage saved memories so it’s even better…]]'
 - '[[Changes/ChatGPT/2025-10-28-longer-memory-for-more-personalized-responses|Longer
   memory for more personalized responses]]'
 - '[[Changes/ChatGPT/2025-10-29-chatgpt-pulse-is-now-available-on-web-and-rolling-out-to-atlas-for-pro-users-wit|ChatGPT
   Pulse on Web]]'
-- '[[Changes/Cursor/2025-10-29-increased-default-memory-for-typescript-language-server|Increased
-  default memory for TypeScript language server]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-30-chatgpt-go-expansion-37d00d9f|chatgpt-2025-10-30-chatgpt-go-expansion-37d00d9f]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-increased-default-memory-for-typescript-language-server|Increased default memory for TypeScript language server]]
+- Earlier: 2025-10-29 · ChatGPT · [[Changes/ChatGPT/2025-10-29-chatgpt-pulse-is-now-available-on-web-and-rolling-out-to-atlas-for-pro-users-wit|ChatGPT Pulse on Web]]
 - Later: 2025-11-07 · ChatGPT · [[Changes/ChatGPT/2025-11-07-previously-changes-you-made-to-your-chatgpt-personality-or-custom-instructions-o|Personality and custom instructions now apply to all chats]]
 <!-- chronolog:end -->
 

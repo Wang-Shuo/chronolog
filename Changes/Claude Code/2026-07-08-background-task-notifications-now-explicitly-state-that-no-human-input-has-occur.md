@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e1bdfbc7b8e46a76a840bc9b7bfb98eb23b562903a1033be61d18f4f79617aa4
+machine_hash: 238889143ef36740e6df836a89bffb3d9d05f590a61a930e6c0c01a49b2542de
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-added-a-grey-badge-to-the-footer-when-in-manual-permission-mode-making-the-activ|Added a grey ⏸ badge to the footer when in manual permission mode, making the active…]]
-- Later: 2026-07-10 · Claude Code · [[Changes/Claude Code/2026-07-10-fixed-permission-prompt-tool-pointing-at-an-mcp-server-crashing-with-mcp-tool-no|Fixed --permission-prompt-tool pointing at an MCP server crashing…]]
+- Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-on-desktop-work-can-use-local-files-and-desktop-apps-with-your-permission-the-bu-1e4d11|On desktop, Work can use local files and desktop apps with your permission]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

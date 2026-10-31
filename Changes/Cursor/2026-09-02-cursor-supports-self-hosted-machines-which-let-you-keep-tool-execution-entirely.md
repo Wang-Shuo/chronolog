@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3280b63a5ad88878e578680dad646dbda468c5588e311929c36c573948a46734
+machine_hash: 5f30d29f78edf35c30997427227b21e81bd3e09356e95460daaa571c6e82ff8c
 product: cursor
 product_name: Cursor
 record:
@@ -45,11 +45,11 @@ record:
   title: Cursor supports self-hosted machines, which let you keep tool execution entirely…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-5-agent-mode-changes-in-v2-1-257|5 Agent Mode
-  changes in v2.1.257]]'
 - '[[Changes/Claude Code/2026-09-02-2-agent-mode-changes-in-v2-1-259|2 Agent Mode
   changes in v2.1.259]]'
 - '[[Changes/Cursor/2026-09-02-run-on-your-sandboxes|Run on your sandboxes]]'
+- '[[Changes/Cursor/2026-09-02-computer-use-on-linux-and-mac|Computer use on Linux
+  and Mac]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-02-self-hosted-machines-https-cursor-com-changelog-self-hosted-mach-28f9f33e|cursor-2026-09-02-self-hosted-machines-https-cursor-com-changelog-self-hosted-mach-28f9f33e]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -75,7 +75,7 @@ type: change
 ## Also in this release
 
 - [[Changes/Cursor/2026-09-02-run-on-your-sandboxes|Run on your sandboxes]] · Agent Mode
-- [[Changes/Cursor/2026-09-02-computer-use-on-linux-and-mac|Computer use on Linux and Mac]] · Mobile and Desktop
+- [[Changes/Cursor/2026-09-02-computer-use-on-linux-and-mac|Computer use on Linux and Mac]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

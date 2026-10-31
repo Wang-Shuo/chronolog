@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7c840f7c0e11e919ae07cb8c301c77a34241d8877d827fa6091ef3720a4f85ca
+machine_hash: f37c4d93b6ef5bbd0d7a7c5897e977981d0e08e40641f1026e0422accefc4a08
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,12 @@ record:
   title: Aux Window Fixes
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|Copilot++
-  Improvements]]'
 - '[[Changes/Cursor/2023-12-16-update-0-20-1-0-20-2-we-added-tldrs-to-make-it-easier-to-sort-through-the-bugs-f|UPDATE
   (0.20.1-0.20.2): We added TLDRs to make it easier to sort through the bugs…]]'
 - '[[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|Multiple
   Command-K, Copilot++ UI]]'
+- '[[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|VS
+  Code 1.85.1]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-31-0-21-4-nightly-https-cursor-com-changelog-0-21-4-nightly-8e148bcb|cursor-2023-12-31-0-21-4-nightly-https-cursor-com-changelog-0-21-4-nightly-8e148bcb]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -73,7 +73,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-12-29 · Cursor · [[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|Multiple Command-K, Copilot++ UI]]
+- Earlier: 2023-12-30 · Cursor · [[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|VS Code 1.85.1]]
 - Later: 2024-01-03 · Cursor · [[Changes/Cursor/2024-01-03-hold-down-command-press-and-release-shift-and-continue-holding-down-command-this|Early Preview: Hold-cmd-tap-shift to Trigger AI Rewrite]]
 <!-- chronolog:end -->
 

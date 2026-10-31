@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 91ccaf8245d5a9808aa43092802399b4b820134c201e5b8399f5b4bee0f03ec3
+machine_hash: 4532e7a641f19ccc36810185b941f228192171d9744cbe3e451898d2bdfeb017
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,10 +61,10 @@ record:
   title: Improved auto mode safety
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-17-improved-the-subagent-panel-idle-subagents-auto-hide-after-30s-the-list-caps-at|Improved
-  the subagent panel]]'
 - '[[Changes/Cursor/2026-06-17-handoff-between-local-and-cloud|Handoff between local
   and cloud]]'
+- '[[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|Cursor
+  introduces updates to cloud agents in the Agents Window of the Cursor desktop app]]'
 - '[[Changes/Cursor/2026-06-17-cloud-subagents-with-in-cloud-eb7958|Cloud subagents
   with /in-cloud]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-19-v2-1-183-github-341696059-98586912|claude-code-2026-06-19-v2-1-183-github-341696059-98586912]]'

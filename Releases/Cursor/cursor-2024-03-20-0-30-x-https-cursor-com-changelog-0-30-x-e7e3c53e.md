@@ -2,8 +2,8 @@
 changes_count: 5
 date: '2024-03-20'
 description: 'Cursor release Faster Copilot++, Claude on 2024-03-20: 5 tracked changes
-  across Collaboration, Editor Experience, Interface Experience, Model Support…'
-machine_hash: e8b44d807cd52465cb62d61659ff85022d44af744b4b05bcc1638ef4d28cf3a6
+  across Editor Experience, Enterprise and Administration, Interface Experience, Model…'
+machine_hash: c030c25f6ef41858d6107906837ba91df17a0548d51f5e01e23d2954f6c3f13a
 product: cursor
 product_name: Cursor
 record:
@@ -48,7 +48,7 @@ Tracked 5 cards from 5 candidate lines.
 <!-- chronolog:begin region="cards" -->
 - [[Changes/Cursor/2024-03-20-stable-claude-support-all-the-newest-claude-models-are-available-for-pro-and-api|Stable Claude Support]] · Model Support
 - [[Changes/Cursor/2024-03-20-team-invites-we-made-it-a-bit-easier-for-you-to-invite-your-colleagues-to-your-c|Team invites: We made it a bit easier for you to invite your colleagues…]] · Editor Experience
-- [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]] · Collaboration
+- [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]] · Enterprise and Administration
 - [[Changes/Cursor/2024-03-20-new-settings-we-moved-all-our-settings-to-be-accessible-by-the-gear-in-the-top-r|New Settings: We moved all our settings to be accessible by the gear in the top right]] · Interface Experience
 - [[Changes/Cursor/2024-03-20-faster-copilot-we-ve-made-copilot-2x-faster-this-speed-bump-comes-from-a-new-mod|Faster Copilot++: We've made Copilot++ ~2x faster!]] · Reliability and Performance
 <!-- chronolog:end -->

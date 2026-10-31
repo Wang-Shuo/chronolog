@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9457e98d715ff3ae607030882ffccc455efa9f9374c76a411aee2e3120142b58
+machine_hash: 5f43cbdf60c88765806d449a6b87b8d822ec42ec9ba34a2e2e9cb2b2630def75
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,11 +88,10 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.296
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-10-09-cloud-sessions-added-a-status-filter-to-the-sessions-and-runners-lists-on-a-self|Cloud sessions Added a status filter to the Sessions and Runners lists…]] · Editor Experience
+- [[Changes/Claude Code/2026-10-09-3-editor-experience-changes-in-v2-1-296|3 Editor Experience changes in v2.1.296]] · Editor Experience
 - [[Changes/Claude Code/2026-10-09-3-developer-workflow-changes-in-v2-1-296|3 Developer Workflow changes in v2.1.296]] · Developer Workflow
 - [[Changes/Claude Code/2026-10-09-improved-transcript-toggle-ctrl-o-responsiveness-in-code-heavy-conversations-by|Improved transcript toggle (ctrl+o) responsiveness in code-heavy conversations…]] · Reliability and Performance
 - [[Changes/Claude Code/2026-10-09-2-context-window-changes-in-v2-1-296|2 Context Window changes in v2.1.296]] · Context Window
-- [[Changes/Claude Code/2026-10-09-2-mobile-and-desktop-changes-in-v2-1-296|2 Mobile and Desktop changes in v2.1.296]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-10-09-3-agent-mode-changes-in-v2-1-296|3 Agent Mode changes in v2.1.296]] · Agent Mode
 - [[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price|Updated /cost, the status line, --max-budget-usd and the SDK's cost figures…]] · Pricing Model
 - [[Changes/Claude Code/2026-10-09-improved-the-errors-for-a-refused-cloud-session-they-now-say-why-your-organizati|Improved the errors for a refused cloud session]] · Account and Access
@@ -106,7 +105,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.296
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-5-safety-and-privacy-changes-in-v2-1-295|5 Safety and Privacy changes in v2.1.295]]
-- Later: 2026-10-13 · Cursor · [[Changes/Cursor/2026-10-13-origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security|Origin now integrates with over 20 apps for deployments, CI, code review, security…]]
+- Later: 2026-10-13 · Cursor · [[Changes/Cursor/2026-10-13-origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security-99509e|Origin now integrates with over 20 apps for deployments, CI, code review, security…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

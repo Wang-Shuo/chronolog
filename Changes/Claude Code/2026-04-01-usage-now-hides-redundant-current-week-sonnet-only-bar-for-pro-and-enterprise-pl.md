@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aab49a50a2d1d47864df516a911f0186765f0c3359d48a5faf945da0fd8ab199
+machine_hash: 13e752e63a7d1a237117d82890967aa9e8f288954dc909108dd9ba0d44c31e07
 product: claude-code
 product_name: Claude Code
 record:
@@ -39,15 +39,7 @@ record:
   source_release: claude-code-2026-04-01-v2-1-89-github-303967782-358023f0
   source_type: github_releases
   theme: model-support
-  theme_matches:
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
-  - matched_terms:
-    - sonnet
-    score: 50
-    theme: model-support
+  theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: '`/usage` now hides redundant "Current week (Sonnet only)" bar for Pro and
     Enterprise plans'

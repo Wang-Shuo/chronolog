@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 66d456c4549d8ed765755cb902c594ed1140dbe3cb0692e13020e60ab30a897b
+machine_hash: 85837c7ce9a1f7c76126b95202450aafce9bd8df439bca88bb6e1eae078ad107
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -59,8 +59,8 @@ related_changes:
   Added Memory and Instructions entries to the Customize menu]]'
 - '[[Changes/Claude Code/2026-09-25-improved-lists-in-help-hooks-copy-chrome-memory-ide-release-notes-rewind-diff-re|Improved
   lists in /help, /hooks, /copy, /chrome, /memory, /ide…]]'
-- '[[Changes/Claude Code/2026-09-28-2-memory-and-personalization-changes-in-v2-1-284|2
-  Memory and Personalization changes in v2.1.284]]'
+- '[[Changes/Claude Code/2026-09-28-improved-auto-memory-loading-invisible-characters-and-tags-that-imitate-claude-c|Improved
+  auto-memory loading]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-create-and-collaborate-on-pages-aae35683|chatgpt-2026-09-29-create-and-collaborate-on-pages-aae35683]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-2-memory-and-personalization-changes-in-v2-1-284|2 Memory and Personalization changes in v2.1.284]]
+- Earlier: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-improved-auto-memory-loading-invisible-characters-and-tags-that-imitate-claude-c|Improved auto-memory loading]]
 - Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-you-can-use-your-chatgpt-account-to-sign-in-to-participating-products-without-cr|Sign in to other products with ChatGPT]]
 <!-- chronolog:end -->
 

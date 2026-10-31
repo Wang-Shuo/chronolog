@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 64a963bea6852964554c031ab9249a0fdad1a1cc26eba61b4b8110bd32904607
+machine_hash: 46d8fce4433f74d7044ee715601f39652d74e71ce62d3c7e4e94f0b4211269e1
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,10 @@ record:
   title: '[VSCode] Added an Active quick filter and a status filter menu…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-26-changed-the-prompt-footer-pr-badge-to-skip-its-github-re-check-on-terminal-refoc|Changed
-  the prompt-footer PR badge to skip its GitHub re-check on terminal refocus…]]'
 - '[[Changes/Claude Code/2026-08-27-2-interface-experience-changes-in-v2-1-248|2 Interface
   Experience changes in v2.1.248]]'
+- '[[Changes/Claude Code/2026-08-28-added-a-spend-limit-bar-to-usage-and-a-rate-limits-spend-limit-status-line-field|Added
+  a Spend limit bar to /usage and a rate_limits.spend_limit status line…]]'
 - '[[Changes/Claude Code/2026-09-01-2-interface-experience-changes-in-v2-1-257|2 Interface
   Experience changes in v2.1.257]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f|claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f]]'

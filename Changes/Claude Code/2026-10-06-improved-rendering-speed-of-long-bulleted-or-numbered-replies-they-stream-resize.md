@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 16458c1d64d85aaf64a3b3cdf0ca754be9ebf900d5fdd2db4069d20a3d6c097b
+machine_hash: fec074781941b3c55cbc4c1aefd61122a60bbf7c49d070f1b003b769f188ed45
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
 related_changes:
 - '[[Changes/Claude Code/2026-09-29-fixed-the-powershell-tool-s-permission-check-skipping-deny-and-ask-rules-and-cac|Fixed
   the PowerShell tool''s permission check skipping deny and ask rules…]]'
-- '[[Changes/Claude Code/2026-10-01-2-reliability-and-performance-changes-in-v2-1-287|2
+- '[[Changes/Claude Code/2026-10-01-3-reliability-and-performance-changes-in-v2-1-287|3
   Reliability and Performance changes in v2.1.287]]'
-- '[[Changes/Claude Code/2026-10-05-improved-responsiveness-while-resuming-large-sessions-timers-input-and-rendering|Improved
-  responsiveness while resuming large sessions]]'
+- '[[Changes/Claude Code/2026-10-05-2-reliability-and-performance-changes-in-v2-1-290|2
+  Reliability and Performance changes in v2.1.290]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab|claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab]]'
 source_type: github_releases
 theme: reliability-performance
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-improved-responsiveness-while-resuming-large-sessions-timers-input-and-rendering|Improved responsiveness while resuming large sessions]]
+- Earlier: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-2-reliability-and-performance-changes-in-v2-1-290|2 Reliability and Performance changes in v2.1.290]]
 - Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-improved-transcript-toggle-ctrl-o-responsiveness-in-code-heavy-conversations-by|Improved transcript toggle (ctrl+o) responsiveness in code-heavy conversations…]]
 <!-- chronolog:end -->
 

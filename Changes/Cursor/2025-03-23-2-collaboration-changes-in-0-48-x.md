@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 27104a1a263b9c3e89508ea854db16fe8e0ba52b2ab0dde6cabae19e090e220a
+machine_hash: 1d4106d87e2d209b642fd2ef29c61b2ba9078dcb548a352166528d0f67295607
 product: cursor
 product_name: Cursor
 record:
@@ -51,6 +51,7 @@ related_changes:
   is now default-on and available to all Pro/Business users by hitting cmd+I]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'
 source_type: cursor_changelog
+superseded: true
 theme: collaboration
 title: 2 Collaboration changes in 0.48.x
 type: change

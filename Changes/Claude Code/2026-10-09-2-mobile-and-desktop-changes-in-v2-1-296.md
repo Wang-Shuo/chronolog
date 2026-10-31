@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e9dc0dd4bd944f57430efaccc35c6d980f734fa587268b99822a5f9d2b33f460
+machine_hash: d11cb3f6ffa10bb462089375d3bb6007abf80707120c9d9b8106fd81db74863d
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,6 +55,7 @@ related_changes:
   and Desktop changes in v2.1.295]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a]]'
 source_type: github_releases
+superseded: true
 theme: mobile-desktop
 title: 2 Mobile and Desktop changes in v2.1.296
 type: change

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bdfb0ee44917bf09b1f561ca5b5e8e83eddd1ab0101a94402914e9d89291b427
+machine_hash: 8d1ac2ea8a366d815f1f346fdacaa0d17790a52c6d5285e6312fd2a424645d04
 product: cursor
 product_name: Cursor
 record:
@@ -58,6 +58,7 @@ related_changes:
   adds MCP support, team-configurable blocklists, fixes Composer stuck…]]'
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
 source_type: cursor_changelog
+superseded: true
 theme: reliability-performance
 title: '0.46.7: Improved memory usage and performance'
 type: change

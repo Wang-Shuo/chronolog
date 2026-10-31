@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a0e3f464557468cccc0804605beb3cdc4e5e0055496b3dad7f2088dffbfddbed
+machine_hash: fba2de587dcc78f30515e1f4b1bbe804f4082e4c72dca6d78a740f0ad2a8b796
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,7 +43,8 @@ record:
     first…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-nested-subagents|Nested subagents]]'
+- '[[Changes/Cursor/2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an|With
+  canvases, agents can create interactive artifacts like dashboards, reports…]]'
 - '[[Changes/Cursor/2026-06-04-5-agent-mode-changes-in-custom-stores-custom-tools|5
   Agent Mode changes in Custom stores, custom tools…]]'
 - '[[Changes/Cursor/2026-06-05-ask-the-agent-to-make-one-match-the-other-remove-repeated-content-or-adjust-a-gr|Multi-select

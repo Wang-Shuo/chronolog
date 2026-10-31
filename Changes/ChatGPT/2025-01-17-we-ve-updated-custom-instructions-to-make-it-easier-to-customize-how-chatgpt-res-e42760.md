@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 144b5e76c6230b6fdc5c354459f891c49ed526c4cb87239179bf514c4e620432
+machine_hash: c215dfe6e41a602876bcc662a2fe6540d9ccfdcd848a6515c2513ce26666826e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -67,8 +67,8 @@ record:
   title: More personalization in Custom Instructions
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|VS
-  Code 1.85.1]]'
+- '[[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|Introducing
+  the ChatGPT app for Android]]'
 - '[[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Advanced
   Voice for ChatGPT Web]]'
 - '[[Changes/ChatGPT/2024-11-22-improved-mobile-web-experience|Improved Mobile Web
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2024-11-22 · ChatGPT · [[Changes/ChatGPT/2024-11-22-improved-mobile-web-experience|Improved Mobile Web Experience]]
-- Later: 2025-02-14 · ChatGPT · [[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved Android conversation parsing performance]]
+- Later: 2025-02-14 · ChatGPT · [[Changes/ChatGPT/2025-02-14-confirmation-dialog-for-logging-out-ios-web|Confirmation dialog for logging out (iOS, web)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

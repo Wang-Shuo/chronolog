@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 18db7fd63a525f58230509fa198a8895d3dde792bbc1aa537155198969ba8738
+machine_hash: f17c9e73af893b85b0786018d3bab80b1cc43a02f804d778df3d91d19edc38aa
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
     retained…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-01-2-reliability-and-performance-changes-in-v2-1-90|2
-  Reliability and Performance changes in v2.1.90]]'
 - '[[Changes/Claude Code/2026-04-02-improved-performance-faster-stripansi-on-bun-by-routing-through-bun-stripansi|Improved
   performance: faster stripAnsi on Bun by routing through Bun.stripANSI]]'
+- '[[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file
+  diff rendering is now much faster, smoother, and less memory-heavy]]'
 - '[[Changes/Claude Code/2026-04-04-improved-write-tool-diff-computation-speed-for-large-files-60-faster-on-files-wi|Improved
   Write tool diff computation speed for large files…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-09-v2-1-98-github-307232194-a0774436|claude-code-2026-04-09-v2-1-98-github-307232194-a0774436]]'
@@ -74,9 +74,8 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-04-09-fixed-false-bash-permission-prompts-for-cut-d-paste-d-column-s-awk-print-1-file|Fixed false Bash permission prompts for cut -d /, paste -d /, column -s /…]] · Pricing Model
-- [[Changes/Claude Code/2026-04-09-6-safety-and-privacy-changes-in-v2-1-98|6 Safety and Privacy changes in v2.1.98]] · Safety and Privacy
 - [[Changes/Claude Code/2026-04-09-2-editor-experience-changes-in-v2-1-98|2 Editor Experience changes in v2.1.98]] · Editor Experience
+- [[Changes/Claude Code/2026-04-09-7-safety-and-privacy-changes-in-v2-1-98|7 Safety and Privacy changes in v2.1.98]] · Safety and Privacy
 - [[Changes/Claude Code/2026-04-09-6-developer-workflow-changes-in-v2-1-98|6 Developer Workflow changes in v2.1.98]] · Developer Workflow
 - [[Changes/Claude Code/2026-04-09-added-interactive-google-vertex-ai-setup-wizard-accessible-from-the-login-screen|Added interactive Google Vertex AI setup wizard accessible from the login screen…]] · Account and Access
 - [[Changes/Claude Code/2026-04-09-3-agent-mode-changes-in-v2-1-98|3 Agent Mode changes in v2.1.98]] · Agent Mode

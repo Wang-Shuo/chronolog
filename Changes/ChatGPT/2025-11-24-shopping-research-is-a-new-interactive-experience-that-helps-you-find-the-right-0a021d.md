@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d856042b95c8b38fd6ff138d0f45d59ba1e768c85f81d898cbe224a49b241788
+machine_hash: 7912713780b51c507215dffce68dfd630c0f86f5866ca7ff9f2f671b24e4eb41
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -68,20 +68,14 @@ record:
     score: 110
     theme: memory
   - matched_terms:
-    - android
-    - ios
-    score: 100
-    theme: mobile-desktop
-  - matched_terms:
     - shopping research
     score: 60
     theme: search-browsing
-  theme_resolution: manual-semantic-rule-v1
   title: Shopping research in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-increased-default-memory-for-typescript-language-server|Increased
-  default memory for TypeScript language server]]'
+- '[[Changes/ChatGPT/2025-10-29-chatgpt-pulse-is-now-available-on-web-and-rolling-out-to-atlas-for-pro-users-wit|ChatGPT
+  Pulse on Web]]'
 - '[[Changes/ChatGPT/2025-10-30-longer-memory-for-more-personalized-responses|Longer
   memory for more personalized responses]]'
 - '[[Changes/ChatGPT/2025-11-07-previously-changes-you-made-to-your-chatgpt-personality-or-custom-instructions-o|Personality

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4c29a7522b2d17cfdefed6bb939c1c09dd14a809d7efda2447870d4dd1813d23
+machine_hash: 44231b3536ca3e4fcf3c468ffd4654f064aa54afd88383a4eefe6b0382776038
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,16 +42,6 @@ record:
   source_release: chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292
   source_type: chatgpt_changelog
   theme: context-window
-  theme_matches:
-  - matched_terms:
-    - apps
-    score: 50
-    theme: apps-integrations
-  - matched_terms:
-    - context
-    score: 50
-    theme: context-window
-  theme_resolution: manual-semantic-rule-v1
   title: Projects now make it easy to build a living knowledge base by adding sources…
   type: change
 related_changes:

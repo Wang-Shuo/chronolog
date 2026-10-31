@@ -2,8 +2,8 @@
 changes_count: 1
 date: '2026-03-26'
 description: 'ChatGPT release A simplified sidebar on mobile on 2026-03-26: 1 tracked
-  change across Mobile and Desktop'
-machine_hash: 1144192771e35f9924fd972f88d742beb54c744e1f5b57b0f2ba67aa3cbd6fd1
+  change across Interface Experience'
+machine_hash: 0810af8a2c450b357ea6bd6538cad74559e4a68c73d7c55f28f2d4d0ac87b9e1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,5 +46,5 @@ Tracked 1 card from 1 candidate line.
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|A simplified sidebar on mobile]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|A simplified sidebar on mobile]] · Interface Experience
 <!-- chronolog:end -->

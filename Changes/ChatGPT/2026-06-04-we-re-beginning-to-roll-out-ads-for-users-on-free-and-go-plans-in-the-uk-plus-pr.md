@@ -4,10 +4,10 @@ date: '2026-06-04'
 description: 'ChatGPT · 2026-06-04 · Enterprise and Administration: We''re beginning
   to roll out ads for users on Free and Go plans in the UK. Plus, Pro, Business…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
-    users can only access stable release (no pre-release)]]'
+  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
+    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 365
+  lag_days: 806
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 19a1b0d851e31d12abd8201c8a026f8839a2abc3ae0b2e4603db24d017531054
+machine_hash: eeb0144380fdee4cfc77a7e4984b638cafd440e1fde838fdfc4c129ff45449fc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,11 @@ record:
   title: Rolling out ads in the UK
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-08-added-claude-code-enable-feedback-survey-for-otel-to-re-enable-the-session-quali|Added
-  CLAUDE_CODE_ENABLE_FEEDBACK_SURVEY_FOR_OTEL to re-enable the session quality…]]'
-- '[[Changes/Cursor/2026-05-11-teams-admins-and-individual-plan-users-can-now-customize-the-effort-level-bugbot|Teams
-  admins and Individual plan users can now customize the effort level Bugbot…]]'
 - '[[Changes/Claude Code/2026-05-13-added-anthropic-workspace-id-environment-variable-for-workload-identity-federati|Added
   ANTHROPIC_WORKSPACE_ID environment variable for workload identity federation]]'
+- '[[Changes/Cursor/2026-06-03-admins-can-move-users-between-teams-through-the-dashboard-api-or-csv|Admins
+  can move users between teams through the dashboard, API, or CSV]]'
+- '[[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|Organizations]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-04-rolling-out-ads-in-the-uk-6015e870|chatgpt-2026-06-04-rolling-out-ads-in-the-uk-6015e870]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
@@ -75,14 +74,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-added-anthropic-workspace-id-environment-variable-for-workload-identity-federati|Added ANTHROPIC_WORKSPACE_ID environment variable for workload identity federation]]
+- Earlier: 2026-06-03 · Cursor · [[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|Organizations]]
 - Later: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-added-requiredminimumversion-and-requiredmaximumversion-managed-settings-claude|Added requiredMinimumVersion and requiredMaximumVersion managed settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
+- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

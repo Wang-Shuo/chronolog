@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2e8c7b3ea223b9d62c10fb7bb3a78fe7ef5cb4ff81b1ff0e1ac6c8f591835aa4
+machine_hash: 44d35e4cb3f7457e139478b9ac137136ac54b2728ea525a3510ee6b10ddc229e
 product: cursor
 product_name: Cursor
 record:
@@ -71,7 +71,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-09-02-computer-use-on-linux-and-mac|Computer use on Linux and Mac]] · Mobile and Desktop
+- [[Changes/Cursor/2026-09-02-computer-use-on-linux-and-mac|Computer use on Linux and Mac]] · Agent Mode
 - [[Changes/Cursor/2026-09-02-cursor-supports-self-hosted-machines-which-let-you-keep-tool-execution-entirely|Cursor supports self-hosted machines, which let you keep tool execution entirely…]] · Agent Mode
 <!-- chronolog:end -->
 

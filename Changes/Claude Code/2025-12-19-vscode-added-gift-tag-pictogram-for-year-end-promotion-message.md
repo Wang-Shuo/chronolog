@@ -7,7 +7,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9344661aafec7123fd65a3c45582f5ed7e3ee91019a7f8ce54b3a1c38ccdf20c
+machine_hash: 6ac023bc0f85aede2c6e92331f1baa3003588ef65ddabb139ba023dca4d38469
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,10 +55,9 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2025-12-19-added-lsp-language-server-protocol-tool-for-code-intelligence-features-like-go-t|Added LSP (Language Server Protocol) tool for code intelligence features like…]] · Developer Workflow
 - [[Changes/Claude Code/2025-12-19-added-terminal-setup-support-for-kitty-alacritty-zed-and-warp-terminals|Added /terminal-setup support for Kitty, Alacritty, Zed, and Warp terminals]] · Developer Workflow
 - [[Changes/Claude Code/2025-12-19-2-interface-experience-changes-in-v2-0-74|2 Interface Experience changes in v2.0.74]] · Interface Experience
-- [[Changes/Claude Code/2025-12-19-added-guidance-for-macos-users-when-alt-shortcuts-fail-due-to-terminal-configura|Added guidance for macOS users when Alt shortcuts fail due to terminal configuration]] · Mobile and Desktop
+- [[Changes/Claude Code/2025-12-19-2-developer-workflow-changes-in-v2-0-74|2 Developer Workflow changes in v2.0.74]] · Developer Workflow
 - [[Changes/Claude Code/2025-12-19-improved-context-command-visualization-with-grouped-skills-and-agents-by-source|Improved /context command visualization with grouped skills and agents by source…]] · Context Window
 <!-- chronolog:end -->
 

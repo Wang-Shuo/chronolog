@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 603214f999e324272e255ca54d72e35c9d6e48cf14a07c79a93bc851f11027f5
+machine_hash: b75aa52d3f7d65f1cc7ab4a5ea9dbd03f5a3385b0acda2ca659daed2770ea67a
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.97
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-04-07 · Claude Code · [[Changes/Claude Code/2026-04-07-vscode-added-a-warning-banner-when-settings-json-files-fail-to-parse-so-users-kn|VSCode Added a warning banner when settings.json files fail to parse, so users…]]
-- Later: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-6-safety-and-privacy-changes-in-v2-1-98|6 Safety and Privacy changes in v2.1.98]]
+- Later: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-7-safety-and-privacy-changes-in-v2-1-98|7 Safety and Privacy changes in v2.1.98]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

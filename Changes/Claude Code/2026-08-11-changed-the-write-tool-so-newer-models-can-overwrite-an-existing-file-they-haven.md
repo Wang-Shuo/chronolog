@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4b89881a151e3de8107b9e0df1de8443bf01e0bd59562cc2b56f41f7c593d413
+machine_hash: d1c858626e8f2b4724fd614f4a1162d1911b8d223756106e21c816f33fa51d57
 product: claude-code
 product_name: Claude Code
 record:
@@ -78,7 +78,7 @@ type: change
 - [[Changes/Claude Code/2026-08-11-2-apps-and-integrations-changes-in-v2-1-228|2 Apps and Integrations changes in v2.1.228]] · Apps and Integrations
 - [[Changes/Claude Code/2026-08-11-updated-terminal-title-busy-spinner-glyphs-to-reduce-tab-bar-jitter-on-some-term|Updated terminal title busy-spinner glyphs to reduce tab-bar jitter on some terminals]] · Interface Experience
 - [[Changes/Claude Code/2026-08-11-improved-compaction-progress-the-retry-countdown-and-stall-hint-now-appear-durin|Improved compaction progress]] · Context Window
-- [[Changes/Claude Code/2026-08-11-removed-the-outdated-note-about-auto-mode-sessions-costing-slightly-more-from-th|Removed the outdated note about auto mode sessions costing slightly more…]] · Collaboration
+- [[Changes/Claude Code/2026-08-11-removed-the-outdated-note-about-auto-mode-sessions-costing-slightly-more-from-th|Removed the outdated note about auto mode sessions costing slightly more…]] · Agent Mode
 - [[Changes/Claude Code/2026-08-11-improved-vertex-ai-credential-handling-expired-or-missing-google-cloud-credentia|Improved Vertex AI credential handling]] · Other changes
 <!-- chronolog:end -->
 

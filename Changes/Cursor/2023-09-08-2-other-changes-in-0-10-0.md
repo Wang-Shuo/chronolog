@@ -7,7 +7,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e7fd12927a50bf7c6288c13a0feee1de16e5b889c2f62fc308a3ae666f0b6345
+machine_hash: 9a48170c96ae6d963ccfd7c15c33764ef0e10b9de6073c316c807f0657e10d18
 product: cursor
 product_name: Cursor
 record:
@@ -57,7 +57,7 @@ Source: https://cursor.com/changelog/0-10-0
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2023-09-08-better-state-management-prevents-crashes-from-editor-using-too-much-memory|Better state management - prevents crashes from editor using too much memory]] · Memory and Personalization
+- [[Changes/Cursor/2023-09-08-better-state-management-prevents-crashes-from-editor-using-too-much-memory|Better state management - prevents crashes from editor using too much memory]] · Reliability and Performance
 - [[Changes/Cursor/2023-09-08-long-files-in-chat|Long files in chat]] · Context Window
 - [[Changes/Cursor/2023-09-08-following-this-update-future-updates-should-come-as-staged-rollouts-this-will-me|Staged Rollouts]] · Reliability and Performance
 <!-- chronolog:end -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 42a89ac069c64f93df3d5d113f1fec38edd5b6ee51767dd6326cdc6042537bc9
+machine_hash: 711fb68c655fb03cec261a46a70af3f6f2c6d89ee76eaef33f69c01f03a30d9b
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,6 +58,7 @@ related_changes:
   support for turning off the attribution block in Claude Desktop''s Code tab]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
 source_type: github_releases
+superseded: true
 theme: mobile-desktop
 title: 3 Mobile and Desktop changes in v2.1.300
 type: change

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 71c88d06bf0f6c7a72703d53826a3466515b78ff07a7c2659d6461401c40ab3d
+machine_hash: b142b4e1eea300107ca47dffb2129e092434c77c5737d632631f35b888022890
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,9 @@ record:
   title: 2 Apps and Integrations changes in v2.1.187
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-22-2-apps-and-integrations-changes-in-v2-1-186|2
-  Apps and Integrations changes in v2.1.186]]'
 - '[[Changes/Cursor/2026-06-22-plugins-skills-and-mcps-let-you-customize-cursor-for-your-workflows-the-new-cust-241c4b|Plugins,
   skills, and MCPs let you customize Cursor for your workflows]]'
+- '[[Changes/Cursor/2026-06-22-marketplace-leaderboard-654084|Marketplace leaderboard]]'
 - '[[Changes/Cursor/2026-06-22-plugin-canvases|Plugin canvases]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-23-v2-1-187-github-343665388-744f9775|claude-code-2026-06-23-v2-1-187-github-343665388-744f9775]]'
 source_type: github_releases

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fabfb9236ce4543ae4f7edea29f5b019e6eaba5f9cda9c027dddd5a1f59f5f25
+machine_hash: fe0fed983bcacafbebcabc1b41731ed136a841941800bf9523685fc5123412da
 product: claude-code
 product_name: Claude Code
 record:
@@ -69,13 +69,12 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-03-11-improved-ide-detection-speed-at-startup|Improved IDE detection speed at startup]] · Reliability and Performance
 - [[Changes/Claude Code/2026-03-11-improved-voice-mode-to-automatically-retry-transient-connection-failures-during|Improved voice mode to automatically retry transient connection failures during…]] · Voice and Audio
 - [[Changes/Claude Code/2026-03-11-added-actionable-guidance-when-oauth-login-or-connectivity-checks-fail-due-to-ss|Added actionable guidance when OAuth login or connectivity checks fail due to SSL…]] · Account and Access
 - [[Changes/Claude Code/2026-03-11-2-interface-experience-changes-in-v2-1-73|2 Interface Experience changes in v2.1.73]] · Interface Experience
+- [[Changes/Claude Code/2026-03-11-2-reliability-and-performance-changes-in-v2-1-73|2 Reliability and Performance changes in v2.1.73]] · Reliability and Performance
 - [[Changes/Claude Code/2026-03-11-fixed-freezes-and-100-cpu-loops-triggered-by-permission-prompts-for-complex-bash|Fixed freezes and 100% CPU loops triggered by permission prompts for complex bash commands]] · Safety and Privacy
 - [[Changes/Claude Code/2026-03-11-deprecated-output-style-command-use-config-instead-output-style-is-now-fixed-at|Deprecated /output-style command — use /config instead]] · Developer Workflow
-- [[Changes/Claude Code/2026-03-11-improved-clipboard-image-pasting-performance-on-macos|Improved clipboard image pasting performance on macOS]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-03-11-2-model-support-changes-in-v2-1-73|2 Model Support changes in v2.1.73]] · Model Support
 <!-- chronolog:end -->
 

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0f69df0f7abc65024f5542c05040eb95aeb72a1eb324aab6caff66bb95ba4e06
+machine_hash: 7496b54408349fa1cc8086b099ecd8e8fe8733e5f9b3e46521232143843ac4b2
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,10 +41,10 @@ record:
   title: Changed `/skills` menu to sort alphabetically for easier scanning
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-19-2-interface-experience-changes-in-v2-1-80|2 Interface
-  Experience changes in v2.1.80]]'
 - '[[Changes/Claude Code/2026-03-25-2-interface-experience-changes-in-v2-1-83|2 Interface
   Experience changes in v2.1.83]]'
+- '[[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|A
+  simplified sidebar on mobile]]'
 - '[[Changes/Claude Code/2026-03-26-improved-mention-file-autocomplete-performance-on-large-repositories|Improved
   @-mention file autocomplete performance on large repositories]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859|claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859]]'

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: ca6157c6fe617933e753200c41e171dda537bba87b215e25412fd25b5eda5f29
+machine_hash: 5b02fee375213bab3c5ea5817f4dd190e37a684ff0e03cc5b1fba42c56dfabae
 product: cursor
 product_name: Cursor
 record:
@@ -47,15 +47,7 @@ record:
   source_release: cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e
   source_type: cursor_changelog
   theme: safety-privacy
-  theme_matches:
-  - matched_terms:
-    - agent
-    score: 50
-    theme: agent-mode
-  - matched_terms:
-    - macos
-    score: 50
-    theme: mobile-desktop
+  theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Sandboxed Terminals (GA)
   type: change
@@ -91,19 +83,18 @@ type: change
 
 - [[Changes/Cursor/2025-10-29-shareable-team-commands|Shareable Team Commands]] · Collaboration
 - [[Changes/Cursor/2025-10-29-improved-code-review|Improved Code Review]] · Developer Workflow
-- [[Changes/Cursor/2025-10-29-browser-ga-1124ce|Browser (GA)]] · Enterprise and Administration
+- [[Changes/Cursor/2025-10-29-browser-ga-1124ce|Browser (GA)]] · Agent Mode
 - [[Changes/Cursor/2025-10-29-optimized-text-parsing-for-chat-rendering|Optimized text parsing for chat rendering]] · Interface Experience
 - [[Changes/Cursor/2025-10-29-improved-agent-harness|Improved Agent Harness]] · Agent Mode
 - [[Changes/Cursor/2025-10-29-voice-mode|Voice Mode]] · Voice and Audio
 - [[Changes/Cursor/2025-10-29-cursor-for-enterprise|Cursor for Enterprise]] · Enterprise and Administration
 - [[Changes/Cursor/2025-10-29-audit-log|Audit Log]] · Collaboration
-- [[Changes/Cursor/2025-10-29-increased-default-memory-for-typescript-language-server|Increased default memory for TypeScript language server]] · Memory and Personalization
 - [[Changes/Cursor/2025-10-29-background-agents-have-been-renamed-to-cloud-agents|Background Agents have been renamed to Cloud Agents]] · Agent Mode
 - [[Changes/Cursor/2025-10-29-cloud-agents|Cloud Agents]] · Agent Mode
+- [[Changes/Cursor/2025-10-29-2-reliability-and-performance-changes-in-2-0|2 Reliability and Performance changes in 2.0]] · Reliability and Performance
 - [[Changes/Cursor/2025-10-29-introducing-our-first-agentic-coding-model-composer-is-a-frontier-model-that-is|Composer]] · Model Support
 - [[Changes/Cursor/2025-10-29-improved-performance|Improved Performance]] · Reliability and Performance
 - [[Changes/Cursor/2025-10-29-3-developer-workflow-changes-in-2-0|3 Developer Workflow changes in 2.0]] · Developer Workflow
-- [[Changes/Cursor/2025-10-29-optimized-findfiles-performance-to-batch-concurrent-calls-at-bounded-concurrency|Optimized findFiles performance to batch concurrent calls at bounded concurrency]] · Reliability and Performance
 - [[Changes/Cursor/2025-10-29-plan-mode-in-background|Plan Mode in Background]] · Model Support
 - [[Changes/Cursor/2025-10-29-hooks-cloud-distribution|Hooks: Cloud Distribution]] · Enterprise and Administration
 - [[Changes/Cursor/2025-10-29-multi-agents-bb4f56|Multi-Agents]] · Agent Mode

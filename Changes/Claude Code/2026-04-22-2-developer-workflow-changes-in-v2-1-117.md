@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1e166eb06e124b97db8b3062869b52ae44ab44ee182d7e2a4b3e3458f87105c0
+machine_hash: e86ea35e191a610e726c6882ba6f9007179775d6cb40b60398f229ef0d02ee18
 product: claude-code
 product_name: Claude Code
 record:
@@ -75,10 +75,9 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.117
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-04-22-native-builds-on-macos-and-linux-the-glob-and-grep-tools-are-replaced-by-embedde|Native builds on macOS and Linux]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-04-22-4-apps-and-integrations-changes-in-v2-1-117|4 Apps and Integrations changes in v2.1.117]] · Apps and Integrations
-- [[Changes/Claude Code/2026-04-22-windows-cached-where-exe-executable-lookups-per-process-for-faster-subprocess-la|Windows: cached where.exe executable lookups per process for faster subprocess launches]] · Reliability and Performance
 - [[Changes/Claude Code/2026-04-22-2-model-support-changes-in-v2-1-117|2 Model Support changes in v2.1.117]] · Model Support
+- [[Changes/Claude Code/2026-04-22-2-reliability-and-performance-changes-in-v2-1-117|2 Reliability and Performance changes in v2.1.117]] · Reliability and Performance
 - [[Changes/Claude Code/2026-04-22-opentelemetry-user-prompt-events-now-include-command-name-and-command-source-for|OpenTelemetry: user_prompt events now include command_name and command_source…]] · Pricing Model
 - [[Changes/Claude Code/2026-04-22-2-agent-mode-changes-in-v2-1-117|2 Agent Mode changes in v2.1.117]] · Agent Mode
 - [[Changes/Claude Code/2026-04-22-advisor-tool-experimental-dialog-now-carries-an-experimental-label-learn-more-li|Advisor Tool (experimental)]] · Other changes
@@ -88,7 +87,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.117
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-3-developer-workflow-changes-in-v2-1-113|3 Developer Workflow changes in v2.1.113]]
-- Later: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-wsl-on-windows-can-now-inherit-windows-side-managed-settings-via-the-wslinherits|WSL on Windows can now inherit Windows-side managed settings…]]
+- Later: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-4-developer-workflow-changes-in-v2-1-119|4 Developer Workflow changes in v2.1.119]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

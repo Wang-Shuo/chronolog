@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6876711bab45c284c6ed9a8fe19029ca77d0bedc3364b69fd6e202804f31c57b
+machine_hash: 1be16449ba892831ad696ef28a77412b39fb96d4e5b66dfe0ef380d55c468bd1
 product: cursor
 product_name: Cursor
 record:
@@ -82,9 +82,10 @@ Source: https://cursor.com/changelog/0-48-x
 
 - [[Changes/Cursor/2025-03-23-0-48-2-allows-users-to-accept-reject-file-edited-in-another-chat-tab|0.48.2 - Allows users to accept/reject file edited in another chat tab]] · Editor Experience
 - [[Changes/Cursor/2025-03-23-2-model-support-changes-in-0-48-x|2 Model Support changes in 0.48.x]] · Model Support
-- [[Changes/Cursor/2025-03-23-2-collaboration-changes-in-0-48-x|2 Collaboration changes in 0.48.x]] · Collaboration
+- [[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved indexing performance for teams sharing codebases]] · Collaboration
 - [[Changes/Cursor/2025-03-23-chat-will-now-display-a-notification-about-usage-based-pricing-when-approaching|Chat will now display a notification about usage-based pricing when approaching fast…]] · Pricing Model
 - [[Changes/Cursor/2025-03-23-2-reliability-and-performance-changes-in-0-48-x|2 Reliability and Performance changes in 0.48.x]] · Reliability and Performance
+- [[Changes/Cursor/2025-03-23-enhanced-visibility-of-auto-run-controls-configured-by-team-admins-clarifying-wh|Enhanced visibility of auto-run controls configured by team admins, clarifying…]] · Enterprise and Administration
 - [[Changes/Cursor/2025-03-23-new-onboarding|New onboarding]] · Interface Experience
 - [[Changes/Cursor/2025-03-23-usage-based-cost-visibility|Usage-based cost visibility]] · Pricing Model
 - [[Changes/Cursor/2025-03-23-built-in-modes-custom-modes-beta|Built-in modes & custom modes (beta)]] · Agent Mode

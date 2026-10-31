@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: feb6dc98df90cf3bf82a65b86d96bbfd2ec0f207d7875606cd28d1a7f5abd3a1
+machine_hash: 7193cb0630bfe4470a975af82a692f7a4aa57b3f6898952c0ce10d51d2a9cb9d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-06-30 · Cursor · [[Changes/Cursor/2026-06-30-we-ve-expanded-team-marketplaces-to-support-team-mcps-and-organization-groups|Cursor expands team marketplaces to support Team MCPs and organization groups]]
-- Later: 2026-07-10 · Cursor · [[Changes/Cursor/2026-07-10-combined-all-remote-options-your-machines-team-pools-and-existing-remote-workspa|Combined all remote options—your machines, team pools, and existing remote…]]
+- Later: 2026-07-22 · Cursor · [[Changes/Cursor/2026-07-22-admin-controls-per-team-and-per-group-enablement-mode-restrictions-default-mode|Admin controls: per-team and per-group enablement, mode restrictions, default mode…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

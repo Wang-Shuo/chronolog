@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f3e5ac72f9bdfaba1f23b86d465386c359161e361cce10d0ef1071c80a5c63c3
+machine_hash: ed4f14f7b1c5f3edd5daad98426b0ce53ed56a689a11391fd20db94c2cbe6072
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,10 +51,6 @@ record:
     - context
     score: 50
     theme: context-window
-  - matched_terms:
-    - desktop
-    score: 50
-    theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
   title: 'Projects in the desktop app: Your existing ChatGPT Projects now appear in
     the app'

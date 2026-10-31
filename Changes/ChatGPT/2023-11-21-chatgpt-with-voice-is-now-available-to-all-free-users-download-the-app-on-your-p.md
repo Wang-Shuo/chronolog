@@ -4,8 +4,8 @@ date: '2023-11-21'
 description: 'ChatGPT · 2023-11-21 · Voice and Audio: ChatGPT with voice is now available
   to all free users. Download the app on your phone and tap the headphones icon to…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
-    are beginning to roll out new voice and image capabilities in ChatGPT]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
+    (Beta) is now rolling out to Plus users on iOS and Android]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 57
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 3f5f272c7f086bec223d65920542b34d685b7fa408be06bb0575b7ff453314b3
+machine_hash: 9e6f560689415f0af4e7dd23ce4a0719b4192056ec469b3ba8c45b98fe1002c9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,6 +43,8 @@ record:
   title: ChatGPT with voice is available to all users
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
+  (Beta) is now rolling out to Plus users on iOS and Android]]'
 - '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
   are beginning to roll out new voice and image capabilities in ChatGPT]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-11-21-chatgpt-with-voice-is-available-to-all-users-d2d904ca|chatgpt-2023-11-21-chatgpt-with-voice-is-available-to-all-users-d2d904ca]]'
@@ -78,7 +80,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

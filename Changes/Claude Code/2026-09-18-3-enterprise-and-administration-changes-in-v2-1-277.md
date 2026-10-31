@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1390d9efe31091b0c84474714fb3e679577c9988fc86a9c359d81e49cc4eab55
+machine_hash: 214e85911778ceeff2a7f9c5c43da60c668a02f19e671bb49e1baaad8514a85f
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,6 +58,7 @@ related_changes:
   Tag Improved Claude''s notices in Enterprise Grid channels shared across…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36|claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36]]'
 source_type: github_releases
+superseded: true
 theme: enterprise-admin
 title: 3 Enterprise and Administration changes in v2.1.277
 type: change

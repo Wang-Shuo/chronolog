@@ -2,8 +2,8 @@
 changes_count: 4
 date: '2025-03-18'
 description: 'ChatGPT release Web and the Windows desktop app on 2025-03-18: 4 tracked
-  changes across Mobile and Desktop, Model Support, Reliability and Performance, Safety…'
-machine_hash: 23514cc9503988ab14b0b9c9af203d180ed22a196ee6fe05c30c282555e013d3
+  changes across Reliability and Performance, Model Support, Safety and Privacy'
+machine_hash: d9d0df0d92949102e0840f6b4fd753b677ede62cada15bbe1f09f2c7823117bb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,7 +45,7 @@ Tracked 4 cards from 4 candidate lines.
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and|We have been working on a variety of usability and performance improvements and bug…]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and|We have been working on a variety of usability and performance improvements and bug…]] · Reliability and Performance
 - [[Changes/ChatGPT/2025-03-18-in-line-message-error-retries-if-you-encounter-a-message-error-you-can-retry-or|In-line message error retries]] · Reliability and Performance
 - [[Changes/ChatGPT/2025-03-18-new-ui-for-temporary-chats-we-ve-made-accessing-and-viewing-these-private-conver|New UI for Temporary Chats]] · Safety and Privacy
 - [[Changes/ChatGPT/2025-03-18-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-ask-bfa530|o1 and o3-mini now offer Python-powered data analysis in ChatGPT]] · Model Support

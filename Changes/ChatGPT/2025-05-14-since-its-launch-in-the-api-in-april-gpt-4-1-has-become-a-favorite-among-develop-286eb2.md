@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 137afafb610c7db5009b95bdc0700f3a33d73676e2e59d8cd49757625b8e6a84
+machine_hash: 6057087653d9df2f79da951f970d720c218c42cc314d2fc3d9d53159890e1379
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -65,14 +65,6 @@ record:
     - models
     score: 290
     theme: model-support
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
   - matched_terms:
     - picker
     score: 50

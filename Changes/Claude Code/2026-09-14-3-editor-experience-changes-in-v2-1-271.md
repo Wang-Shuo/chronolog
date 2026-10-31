@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 32264a41d0f30b23d47d60ce307e3a11dc7a51c7155f35d9e9c5b43db9b95e33
+machine_hash: 02b902c2f310370d38d33e03a8f347c5a18da3f88af00c32f49f1654ed7bc44a
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,13 +88,13 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.271
 - [[Changes/Claude Code/2026-09-14-added-support-for-a-multiplier-above-1-up-to-10-in-the-modelpricing-managed-sett|Added support for a multiplier above 1, up to 10, in the modelPricing managed…]] · Pricing Model
 - [[Changes/Claude Code/2026-09-14-2-files-and-data-changes-in-v2-1-271|2 Files and Data changes in v2.1.271]] · Files and Data
 - [[Changes/Claude Code/2026-09-14-5-apps-and-integrations-changes-in-v2-1-271|5 Apps and Integrations changes in v2.1.271]] · Apps and Integrations
+- [[Changes/Claude Code/2026-09-14-2-model-support-changes-in-v2-1-271|2 Model Support changes in v2.1.271]] · Model Support
 - [[Changes/Claude Code/2026-09-14-7-safety-and-privacy-changes-in-v2-1-271|7 Safety and Privacy changes in v2.1.271]] · Safety and Privacy
 - [[Changes/Claude Code/2026-09-14-improved-the-spinner-status-during-long-thinking-it-now-reads-deep-in-thought-af|Improved the spinner status during long thinking]] · Context Window
 - [[Changes/Claude Code/2026-09-14-7-agent-mode-changes-in-v2-1-271|7 Agent Mode changes in v2.1.271]] · Agent Mode
 - [[Changes/Claude Code/2026-09-14-improved-terminal-rendering-performance-large-diffs-and-long-transcripts-render|Improved terminal rendering performance]] · Reliability and Performance
-- [[Changes/Claude Code/2026-09-14-2-mobile-and-desktop-changes-in-v2-1-271|2 Mobile and Desktop changes in v2.1.271]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-09-14-3-interface-experience-changes-in-v2-1-271|3 Interface Experience changes in v2.1.271]] · Interface Experience
-- [[Changes/Claude Code/2026-09-14-improved-startup-time-slightly-by-skipping-a-redundant-validation-of-built-in-mo|Improved startup time slightly by skipping a redundant validation of built-in model…]] · Model Support
+- [[Changes/Claude Code/2026-09-14-improved-mobile-to-show-a-single-qr-code-for-claude-ai-mobile-which-opens-the-ri|Improved /mobile to show a single QR code for claude.ai/mobile, which opens…]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-09-14-9-other-changes-in-v2-1-271|9 other changes in v2.1.271]] · Other changes
 <!-- chronolog:end -->
 

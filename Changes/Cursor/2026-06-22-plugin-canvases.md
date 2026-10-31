@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5128893e0e97f5ea2d9cbcfe82b476ee2589e8a3047e5716b877b75f6ad7a7bb
+machine_hash: e2b9cd815a8661813e8cb2fd71fc9d3726637fb5d57e53c598ae661a02d9b367
 product: cursor
 product_name: Cursor
 record:
@@ -49,12 +49,11 @@ record:
   title: Plugin canvases
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-19-added-attribution-sessionurl-setting-to-omit-the-claude-ai-session-link-from-com|Added
-  attribution.sessionUrl setting to omit the claude.ai session link…]]'
 - '[[Changes/Claude Code/2026-06-22-2-apps-and-integrations-changes-in-v2-1-186|2
   Apps and Integrations changes in v2.1.186]]'
 - '[[Changes/Cursor/2026-06-22-plugins-skills-and-mcps-let-you-customize-cursor-for-your-workflows-the-new-cust-241c4b|Plugins,
   skills, and MCPs let you customize Cursor for your workflows]]'
+- '[[Changes/Cursor/2026-06-22-marketplace-leaderboard-654084|Marketplace leaderboard]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2|cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -83,7 +82,7 @@ type: change
 
 - [[Changes/Cursor/2026-06-22-plugins-skills-and-mcps-let-you-customize-cursor-for-your-workflows-the-new-cust-241c4b|Plugins, skills, and MCPs let you customize Cursor for your workflows]] · Apps and Integrations
 - [[Changes/Cursor/2026-06-22-new-team-marketplaces|New Team Marketplaces]] · Collaboration
-- [[Changes/Cursor/2026-06-22-marketplace-leaderboard-654084|Marketplace leaderboard]] · Collaboration
+- [[Changes/Cursor/2026-06-22-marketplace-leaderboard-654084|Marketplace leaderboard]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

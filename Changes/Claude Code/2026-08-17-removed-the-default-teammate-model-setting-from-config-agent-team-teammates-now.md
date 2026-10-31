@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: c526d5309c1acfbb2de9446f0ffbcd44bedcb3b11b05efb9f80917bbad039183
+machine_hash: ccf00d480049720509f20392492dde7e95e6925277d8386cae3c3d4f0ce3257e
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,10 +48,6 @@ record:
     score: 50
     theme: agent-mode
   - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
-  - matched_terms:
     - model
     score: 50
     theme: model-support
@@ -59,8 +55,8 @@ record:
   title: Removed the "Default teammate model" setting from `/config`
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-11-removed-the-outdated-note-about-auto-mode-sessions-costing-slightly-more-from-th|Removed
-  the outdated note about auto mode sessions costing slightly more…]]'
+- '[[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch
+  between teams that you belong to directly in the app]]'
 - '[[Changes/ChatGPT/2026-08-13-the-initial-experience-includes-my-drive-and-files-and-folders-shared-directly-w|The
   initial experience includes My Drive and files and folders shared directly with
   you]]'
@@ -89,7 +85,8 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-08-17-2-model-support-changes-in-v2-1-234|2 Model Support changes in v2.1.234]] · Model Support
-- [[Changes/Claude Code/2026-08-17-2-apps-and-integrations-changes-in-v2-1-234|2 Apps and Integrations changes in v2.1.234]] · Apps and Integrations
+- [[Changes/Claude Code/2026-08-17-remote-control-effort-picks-made-on-a-phone-or-on-claude-ai-code-now-apply-to-te|Remote Control: effort picks made on a phone or on claude.ai/code now apply…]] · Developer Workflow
+- [[Changes/Claude Code/2026-08-17-remote-control-signing-this-computer-in-to-a-different-claude-ai-account-or-orga|Remote Control: signing this computer in to a different claude.ai account…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-08-17-2-context-window-changes-in-v2-1-234|2 Context Window changes in v2.1.234]] · Context Window
 - [[Changes/Claude Code/2026-08-17-8-safety-and-privacy-changes-in-v2-1-234|8 Safety and Privacy changes in v2.1.234]] · Safety and Privacy
 - [[Changes/Claude Code/2026-08-17-3-interface-experience-changes-in-v2-1-234|3 Interface Experience changes in v2.1.234]] · Interface Experience

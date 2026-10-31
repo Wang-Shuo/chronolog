@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8709aeac1fd963aee522c1c1a386cf233c611b8dbf29eb73956147e547d32a5f
+machine_hash: 62dcfc89a75147dc24a79a2c85370755b21eac7b0ef7039c67a265b47ef7a08d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,24 +45,6 @@ record:
   source_release: chatgpt-2025-05-15-dropbox-connector-for-deep-research-for-plus-pro-team-25e1576a
   source_type: chatgpt_changelog
   theme: search-browsing
-  theme_matches:
-  - matched_terms:
-    - deep research
-    score: 60
-    theme: search-browsing
-  - matched_terms:
-    - apps
-    score: 50
-    theme: apps-integrations
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
-  theme_resolution: manual-semantic-rule-v1
   title: Dropbox connector for deep research for Plus/Pro/Team
   type: change
 related_changes:

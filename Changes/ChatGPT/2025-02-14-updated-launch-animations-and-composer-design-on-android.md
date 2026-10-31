@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3c2dd0ac7861e31820fb7f0efb2f7ae2ba65a681bface7554b88068f06111df0
+machine_hash: 4fe17232f1e0dba93621df98e4337d68f9780ec25f553650a01475166486dd37
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,9 +41,10 @@ record:
   title: Updated launch animations and composer design on Android
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved
-  Android conversation parsing performance]]'
-- '[[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes]]'
+- '[[Changes/ChatGPT/2024-11-22-improved-mobile-web-experience|Improved Mobile Web
+  Experience]]'
+- '[[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|More
+  personalization in Custom Instructions]]'
 - '[[Changes/ChatGPT/2025-02-14-confirmation-dialog-for-logging-out-ios-web|Confirmation
   dialog for logging out (iOS, web)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b|chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b]]'
@@ -70,8 +71,8 @@ type: change
 
 - [[Changes/ChatGPT/2025-02-14-whisper-chatgpt-s-voice-to-text-feature-now-shows-a-text-preview-of-dictated-tex|Whisper (ChatGPT's voice-to-text feature) now shows a text preview of dictated text…]] · Voice and Audio
 - [[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set ChatGPT as default search engine in Safari]] · Search and Browsing
-- [[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved Android conversation parsing performance]] · Mobile and Desktop
-- [[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved Android conversation parsing performance]] · Reliability and Performance
+- [[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes]] · Reliability and Performance
 - [[Changes/ChatGPT/2025-02-14-confirmation-dialog-for-logging-out-ios-web|Confirmation dialog for logging out (iOS, web)]] · Mobile and Desktop
 <!-- chronolog:end -->
 

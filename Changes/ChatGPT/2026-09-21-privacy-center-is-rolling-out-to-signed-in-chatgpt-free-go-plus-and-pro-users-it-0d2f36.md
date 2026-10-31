@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8148df64e3f35826d534ac3a4a64dde72f08012dffbe15798dd8c09d12832cba
+machine_hash: 491d5df05c3a8f13d5ca09a49828f6a033f25d5b90c5cad244f34132be254564
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,10 +63,6 @@ record:
     - account security
     score: 60
     theme: account-access
-  - matched_terms:
-    - apps
-    score: 50
-    theme: apps-integrations
   theme_resolution: manual-semantic-rule-v2
   title: Privacy Center in ChatGPT
   type: change

@@ -2,8 +2,8 @@
 changes_count: 1
 date: '2026-05-14'
 description: 'ChatGPT release Codex remote access from the ChatGPT mobile app on 2026-05-14:
-  1 tracked change across Mobile and Desktop'
-machine_hash: 00539113a40aea71fc1ce5bcd4eed842b1aee41a2a4ff8b3f09ac6a1c2b4fbbe
+  1 tracked change across Projects and Workspaces'
+machine_hash: cf0a5a195166982e24844cfe803514b5dbec40725c23abe42f3c6c330f8d442a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,5 +47,5 @@ Tracked 1 card from 1 candidate line.
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|Codex remote access from the ChatGPT mobile app]] · Mobile and Desktop · Expansion
+- [[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|Codex remote access from the ChatGPT mobile app]] · Projects and Workspaces · Expansion
 <!-- chronolog:end -->

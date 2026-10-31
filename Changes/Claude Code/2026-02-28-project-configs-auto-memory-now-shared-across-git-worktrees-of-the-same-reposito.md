@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2c0c82cbb18926087925778d7b240ed97b3adf8a964af18c0ff49c8d848b63da
+machine_hash: f320d4a8f7ff5bd70a0473142bdf9bae23d083175f24a64920a206a6573e6268
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-02-26 · Claude Code · [[Changes/Claude Code/2026-02-26-claude-automatically-saves-useful-context-to-auto-memory-manage-with-memory|Claude automatically saves useful context to auto-memory]]
-- Later: 2026-03-12 · Claude Code · [[Changes/Claude Code/2026-03-12-2-memory-and-personalization-changes-in-v2-1-74|2 Memory and Personalization changes in v2.1.74]]
+- Later: 2026-03-12 · Claude Code · [[Changes/Claude Code/2026-03-12-added-automemorydirectory-setting-to-configure-a-custom-directory-for-auto-memor|Added autoMemoryDirectory setting to configure a custom directory for auto-memory…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

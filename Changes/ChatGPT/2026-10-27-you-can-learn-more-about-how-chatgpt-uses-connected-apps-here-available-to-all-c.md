@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5df3e3e883924c70f0222791941de8f76164670f9885deda35f65ceda4c49cf4
+machine_hash: 50a4c9eaf0094fe1786a76fba85b1aab2584ebff43ac0b8b63161e99efde14d7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,10 +54,10 @@ record:
   title: You can learn more about how ChatGPT uses connected apps here
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-20-changed-plugins-that-claude-desktop-mounts-by-path-to-no-longer-keep-their-allow|Changed
-  plugins that Claude Desktop mounts by path to no longer keep…]]'
-- '[[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo
-  payments in Vietnam]]'
+- '[[Changes/ChatGPT/2026-10-16-present-or-export-present-directly-from-chatgpt-on-the-web-export-to-powerpoint|Present
+  or export. Present directly from ChatGPT]]'
+- '[[Changes/Claude Code/2026-10-19-windows-improved-git-command-start-up-with-a-standard-git-for-windows-install-by|Windows:
+  Improved git command start-up with a standard Git for Windows install…]]'
 - '[[Changes/Claude Code/2026-10-22-changed-the-dangerous-rm-and-rmdir-prompt-in-bypass-permissions-mode-in-the-desk|Changed
   the dangerous rm and rmdir prompt in bypass permissions mode…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-27-icloud-mail-and-calendar-plugins-in-chatgpt-216bf9bc|chatgpt-2026-10-27-icloud-mail-and-calendar-plugins-in-chatgpt-216bf9bc]]'
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-changed-the-dangerous-rm-and-rmdir-prompt-in-bypass-permissions-mode-in-the-desk|Changed the dangerous rm and rmdir prompt in bypass permissions mode…]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-3-mobile-and-desktop-changes-in-v2-1-314|3 Mobile and Desktop changes in v2.1.314]]
+- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-2-mobile-and-desktop-changes-in-v2-1-314|2 Mobile and Desktop changes in v2.1.314]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

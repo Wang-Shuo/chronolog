@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 69e145bda0099999748f159a677c0d925d64d356a9a0af284330d17f58c8505f
+machine_hash: f5794230c7b92c5d182ca694fa549b766e2359609b252c0662879f3cf899ed66
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: WSL on Windows can now inherit Windows-side managed settings…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-16-added-ultrareview-for-running-comprehensive-code-review-in-the-cloud-using-paral|Added
-  /ultrareview for running comprehensive code review in the cloud using…]]'
 - '[[Changes/Claude Code/2026-04-17-3-developer-workflow-changes-in-v2-1-113|3 Developer
   Workflow changes in v2.1.113]]'
 - '[[Changes/Claude Code/2026-04-22-2-developer-workflow-changes-in-v2-1-117|2 Developer
   Workflow changes in v2.1.117]]'
+- '[[Changes/Claude Code/2026-04-23-4-developer-workflow-changes-in-v2-1-119|4 Developer
+  Workflow changes in v2.1.119]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c|claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c]]'
 source_type: github_releases
 theme: developer-workflow
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-2-developer-workflow-changes-in-v2-1-117|2 Developer Workflow changes in v2.1.117]]
-- Later: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-3-developer-workflow-changes-in-v2-1-119|3 Developer Workflow changes in v2.1.119]]
+- Earlier: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-4-developer-workflow-changes-in-v2-1-119|4 Developer Workflow changes in v2.1.119]]
+- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-opentelemetry-added-claude-code-at-mention-log-event-for-mention-resolution|OpenTelemetry: added claude_code.at_mention log event for @-mention resolution]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

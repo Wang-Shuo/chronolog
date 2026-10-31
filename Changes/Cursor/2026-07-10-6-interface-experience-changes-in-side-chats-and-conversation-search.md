@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 851833999d4ef59013cd46bb856ba7c65b661e1f9cd262dd079a4cd229fef449
+machine_hash: 160647867e2744c2445be4f0ace1fc184514730a00b44e5608233f30a2b16750
 product: cursor
 product_name: Cursor
 record:
@@ -65,6 +65,7 @@ related_changes:
 - '[[Changes/Cursor/2026-07-10-conversation-search-454cae|Conversation search]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d|cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d]]'
 source_type: cursor_changelog
+superseded: true
 theme: interface-experience
 title: 6 Interface Experience changes in Side Chats and Conversation Search
 type: change

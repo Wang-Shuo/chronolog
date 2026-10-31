@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d012ec6497b9f45bfc82a2fa511298b1257901519b097cbec3f2b6a4dce91211
+machine_hash: 93283f086d24c8486117f5214026cfe56b246335076bab8b4c4ae0e425518495
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
     tool…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-17-2-apps-and-integrations-changes-in-v2-1-234|2
-  Apps and Integrations changes in v2.1.234]]'
+- '[[Changes/Claude Code/2026-08-17-remote-control-signing-this-computer-in-to-a-different-claude-ai-account-or-orga|Remote
+  Control: signing this computer in to a different claude.ai account…]]'
 - '[[Changes/Cursor/2026-08-17-app-extensions-for-cursor-repos|App extensions for
   Cursor repos]]'
 - '[[Changes/Cursor/2026-08-17-settings|Settings]]'

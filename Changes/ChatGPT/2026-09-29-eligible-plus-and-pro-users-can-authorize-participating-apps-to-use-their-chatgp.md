@@ -15,9 +15,10 @@ diffusion:
   theme: model-support
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 88bc0aa4c584e89ea579f8ff20632b540126131d5a350c6608bc9a560f5310e3
+kind: change
+machine_hash: 8b4eb0b2a5ba98e5d456f2d93a07784ba5063608bedb6a99814683e92bff3d11
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -36,38 +37,28 @@ record:
       ChatGPT model allowance without creating an API key. Choose which apps can use
       your allowance and set an app-specific limit. Usage counts toward your existing
       plan allowance; connecting an app does not add more usage.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-your-chatgpt-allowance-in-participating-apps
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp
   source_release: chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3
   source_type: chatgpt_changelog
   theme: model-support
-  theme_matches:
-  - matched_terms:
-    - apps
-    score: 50
-    theme: apps-integrations
-  - matched_terms:
-    - model
-    score: 50
-    theme: model-support
-  theme_resolution: manual-semantic-rule-v1
   title: Eligible Plus and Pro users can authorize participating apps to use their
     ChatGPT…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-28-added-claude-sonnet-5-5-claude-sonnet-5-5-now-the-default-sonnet-model-on-the-an|Added
-  Claude Sonnet 5.5 (claude-sonnet-5-5), now the default Sonnet model…]]'
-- '[[Changes/ChatGPT/2026-09-29-for-availability-and-model-selection-see-chatgpt-work-and-codex|For
-  availability and model selection, see: ChatGPT Work and Codex]]'
-- '[[Changes/ChatGPT/2026-09-29-gpt-6-1-sol-improves-on-gpt-6-sol-in-agentic-coding-computer-use-and-professiona|GPT-6.1
-  Sol improves on GPT-6 Sol in agentic coding, computer use, and professional work]]'
+- '[[Changes/Claude Code/2026-09-25-3-model-support-changes-in-v2-1-283|3 Model Support
+  changes in v2.1.283]]'
+- '[[Changes/Claude Code/2026-09-28-6-model-support-changes-in-v2-1-284|6 Model Support
+  changes in v2.1.284]]'
+- '[[Changes/ChatGPT/2026-09-29-gpt-6-1-sol-improves-on-gpt-6-sol-in-agentic-coding-computer-use-and-professiona-815850|GPT-6.1
+  Sol in ChatGPT Work and Codex]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3|chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3]]'
 source_type: chatgpt_changelog
-superseded: true
 theme: model-support
 title: Eligible Plus and Pro users can authorize participating apps to use their ChatGPT…
 type: change
@@ -76,13 +67,13 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Eligible Plus and Pro users can authorize participating apps to use their ChatGPT…
 
-**ChatGPT** · 2026-09-29 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3|Use your ChatGPT allowance in participating apps]]
+**ChatGPT** · 2026-09-29 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-your-chatgpt-allowance-in-participating-apps) · from [[Releases/ChatGPT/chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3|Use your ChatGPT allowance in participating apps]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > Eligible Plus and Pro users can authorize participating apps to use their ChatGPT model allowance without creating an API key. Choose which apps can use your allowance and set an app-specific limit. Usage counts toward your existing plan allowance; connecting an app does not add more usage.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-your-chatgpt-allowance-in-participating-apps
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
@@ -94,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-gpt-6-1-sol-improves-on-gpt-6-sol-in-agentic-coding-computer-use-and-professiona|GPT-6.1 Sol improves on GPT-6 Sol in agentic coding, computer use, and professional work]]
-- Later: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-added-prompt-caching-to-model-complete-for-mods-prompt-and-system-take-blocks-of|Added prompt caching to $.model.complete for mods]]
+- Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-gpt-6-1-sol-improves-on-gpt-6-sol-in-agentic-coding-computer-use-and-professiona-815850|GPT-6.1 Sol in ChatGPT Work and Codex]]
+- Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-3-model-support-changes-in-v2-1-285|3 Model Support changes in v2.1.285]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
@@ -105,5 +96,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-e3377a&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp.md%0ACard%20ID%3A%20chatgpt-2026-09-29-e3377a%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-09-29-e3377a&body=Card%3A%20Changes%2FChatGPT%2F2026-09-29-eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp.md%0ACard%20ID%3A%20chatgpt-2026-09-29-e3377a%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23use-your-chatgpt-allowance-in-participating-apps%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

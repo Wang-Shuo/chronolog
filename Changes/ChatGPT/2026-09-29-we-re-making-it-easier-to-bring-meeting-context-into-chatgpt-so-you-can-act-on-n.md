@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9e5e7f72efc3801b79c644d907a36f80394df40201b9316896a29964835e9799
+machine_hash: 2659b43d98dc9a5bc8098b25e65e3344fe306febfe67fc68d9a0707be267508b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,10 +51,6 @@ record:
     score: 50
     theme: apps-integrations
   - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
-  - matched_terms:
     - context
     score: 50
     theme: context-window
@@ -67,10 +63,10 @@ record:
     on next…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-25-14-apps-and-integrations-changes-in-v2-1-283|14
-  Apps and Integrations changes in v2.1.283]]'
-- '[[Changes/Claude Code/2026-09-28-9-apps-and-integrations-changes-in-v2-1-284|9
+- '[[Changes/Claude Code/2026-09-28-8-apps-and-integrations-changes-in-v2-1-284|8
   Apps and Integrations changes in v2.1.284]]'
+- '[[Changes/ChatGPT/2026-09-29-this-is-a-limited-preview-with-participating-integrations-using-purchased-credit|This
+  is a limited preview with participating integrations]]'
 - '[[Changes/ChatGPT/2026-09-29-plugins-can-now-include-interactive-panels-sidebar-views-and-viewers-or-editors-d0bd7e|Work
   with interactive plugin extensions]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-meetings-plugin-157dcc24|chatgpt-2026-09-29-meetings-plugin-157dcc24]]'
@@ -96,7 +92,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio is deleted once your notes are ready and can’t be accessed or replayed]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio is deleted once your notes are ready and can’t be accessed or replayed]] · Voice and Audio
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8223afa786bd8f15e2da821c6dd376c60e5fe454f313a58c28e2c5d60b017a00
+machine_hash: cb24c2d1e22f079c3d5eb3f9e4ddd4be8d458f10ffd421b7edbbadc3b86226fc
 product: claude-code
 product_name: Claude Code
 record:
@@ -63,6 +63,7 @@ related_changes:
   now works from Remote Control (mobile/web) clients]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-22-v2-1-117-github-311984967-1d917373|claude-code-2026-04-22-v2-1-117-github-311984967-1d917373]]'
 source_type: github_releases
+superseded: true
 theme: mobile-desktop
 title: Native builds on macOS and Linux
 type: change

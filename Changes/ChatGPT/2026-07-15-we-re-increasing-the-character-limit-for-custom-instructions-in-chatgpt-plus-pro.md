@@ -1,23 +1,23 @@
 ---
 card_id: chatgpt-2026-07-15-f04dc1
 date: '2026-07-15'
-description: 'ChatGPT · 2026-07-15 · Enterprise and Administration: We’re increasing
+description: 'ChatGPT · 2026-07-15 · Memory and Personalization: We’re increasing
   the character limit for custom instructions in ChatGPT. Plus, Pro, Enterprise, Business…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
-    users can only access stable release (no pre-release)]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 406
+  lag_days: 1091
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: enterprise-admin
+  theme: memory
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ceffa0e25952a257a6810aa0be945fa53429075bb3769437a9a1368a151d48ef
+machine_hash: 44a6ed205f012440d9d01d20b5f04e2d782d7c84902cd586c02c772262ce34ea
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,29 +42,19 @@ record:
   slug: we-re-increasing-the-character-limit-for-custom-instructions-in-chatgpt-plus-pro
   source_release: chatgpt-2026-07-15-increased-custom-instructions-limit-dcba82c8
   source_type: chatgpt_changelog
-  theme: enterprise-admin
-  theme_matches:
-  - matched_terms:
-    - custom instructions
-    score: 60
-    theme: memory
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
-  theme_resolution: manual-semantic-rule-v1
+  theme: memory
   title: Increased custom instructions limit
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-business-and-enterprise-customers-already-have-access-to-sites-starting-today-th|Business
-  and Enterprise customers already have access to Sites]]'
-- '[[Changes/ChatGPT/2026-07-09-on-web-and-mobile-enterprise-and-edu-workspaces-have-a-two-week-preview-period-w|On
-  web and mobile, Enterprise and Edu workspaces have a two-week preview period]]'
-- '[[Changes/ChatGPT/2026-07-09-in-enterprise-workspaces-public-publishing-is-off-by-default-and-must-be-enabled|In
-  Enterprise workspaces, public publishing is off by default and must be enabled…]]'
+- '[[Changes/Cursor/2026-06-18-you-can-now-delete-memory-files-in-the-ui-or-prompt-your-automation-to-delete-ou|Delete
+  memory files in the UI, or prompt your automation to delete outdated memories…]]'
+- '[[Changes/Claude Code/2026-06-22-improved-memory-the-agent-is-now-reminded-to-compact-its-memory-md-index-when-ne|Improved
+  memory: the agent is now reminded to compact its MEMORY.md index…]]'
+- '[[Changes/Claude Code/2026-07-14-memory-writes-that-leave-a-memory-md-index-over-its-read-limit-now-produce-an-ex|Memory
+  writes that leave a MEMORY.md index over its read limit now produce…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-15-increased-custom-instructions-limit-dcba82c8|chatgpt-2026-07-15-increased-custom-instructions-limit-dcba82c8]]'
 source_type: chatgpt_changelog
-theme: enterprise-admin
+theme: memory
 title: Increased custom instructions limit
 type: change
 ---
@@ -72,7 +62,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Increased custom instructions limit
 
-**ChatGPT** · 2026-07-15 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#increased-custom-instructions-limit) · from [[Releases/ChatGPT/chatgpt-2026-07-15-increased-custom-instructions-limit-dcba82c8|Increased custom instructions limit]]
+**ChatGPT** · 2026-07-15 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#increased-custom-instructions-limit) · from [[Releases/ChatGPT/chatgpt-2026-07-15-increased-custom-instructions-limit-dcba82c8|Increased custom instructions limit]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -86,16 +76,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Enterprise and Administration
+## Nearby in Memory and Personalization
 
-- Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-in-enterprise-workspaces-public-publishing-is-off-by-default-and-must-be-enabled|In Enterprise workspaces, public publishing is off by default and must be enabled…]]
-- Later: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-changed-usage-credits-to-ask-for-confirmation-before-sending-a-request-to-organi|Changed /usage-credits to ask for confirmation before sending a request…]]
+- Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-memory-writes-that-leave-a-memory-md-index-over-its-read-limit-now-produce-an-ex|Memory writes that leave a MEMORY.md index over its read limit now produce…]]
+- Later: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-improved-the-memory-index-over-limit-warning-to-measure-only-loaded-content-excl|Improved the memory index over-limit warning to measure only loaded content…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

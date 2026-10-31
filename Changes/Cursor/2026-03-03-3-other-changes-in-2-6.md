@@ -8,7 +8,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 543bf0f10f496d55adf17b53dbc77e562814386f84126ca6d0293b7b0618d713
+machine_hash: 1e73aa2ecaef01ddc605315f8b16ab65550af02e2fbee56f483d195f63e35d0f
 product: cursor
 product_name: Cursor
 record:
@@ -71,7 +71,7 @@ Source: https://cursor.com/changelog/2-6
 - [[Changes/Cursor/2026-03-03-3-developer-workflow-changes-in-2-6|3 Developer Workflow changes in 2.6]] · Developer Workflow
 - [[Changes/Cursor/2026-03-03-clearer-more-consistent-team-and-enterprise-policy-and-access-controls|Clearer, more consistent team and enterprise policy and access controls]] · Enterprise and Administration
 - [[Changes/Cursor/2026-03-03-2-context-window-changes-in-2-6|2 Context Window changes in 2.6]] · Context Window
-- [[Changes/Cursor/2026-03-03-on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p|Team marketplaces for plugins]] · Enterprise and Administration
+- [[Changes/Cursor/2026-03-03-on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p|Team marketplaces for plugins]] · Apps and Integrations
 - [[Changes/Cursor/2026-03-03-fixed-team-permission-and-access-control-inconsistencies-across-organization-set|Fixed team permission and access control inconsistencies across organization setups]] · Safety and Privacy
 - [[Changes/Cursor/2026-03-03-the-content-from-your-plan-files-are-now-included-in-autocomplete-suggestions-as|The content from your plan files are now included in autocomplete suggestions as you…]] · Interface Experience
 - [[Changes/Cursor/2026-03-03-this-release-introduces-interactive-uis-in-agent-chats-a-way-for-teams-to-share|Cursor introduces interactive UIs in agent chats, a way for teams to share private…]] · Developer Workflow

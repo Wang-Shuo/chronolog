@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ed633d6dcc9c06271b1567e9786fe1062b39dc795102dcfbbbe7bd964bf07948
+machine_hash: 25a67f7f2887c46a40db3f5bf22b229eecd186cfe126534afc6343065bcf0f9f
 product: cursor
 product_name: Cursor
 record:
@@ -67,6 +67,7 @@ related_changes:
   and Privacy changes in v2.1.296]]'
 source_release: '[[Releases/Cursor/cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c|cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c]]'
 source_type: cursor_changelog
+superseded: true
 theme: safety-privacy
 title: Origin now integrates with over 20 apps for deployments, CI, code review, security…
 type: change

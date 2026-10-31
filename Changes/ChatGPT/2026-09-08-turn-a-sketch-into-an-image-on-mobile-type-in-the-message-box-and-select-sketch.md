@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f0158b85b03d9606446d9fb07661491c41bffa91d441462cd74c7a936f724acf
+machine_hash: 45657af8976ba124c6d51bcd19bd21b04894cecf6c86d2bd77760aae5787aac8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,12 @@ record:
   title: Turn a sketch into an image
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2026-08-31-chatgpt-work-and-codex-can-now-use-tools-that-supported-websites-provide-directl|ChatGPT
+  Work and Codex can now use tools that supported websites provide directly…]]'
+- '[[Changes/Claude Code/2026-09-01-changed-add-dir-add-dir-and-additionaldirectories-to-refuse-network-paths-unc-sh|Changed
+  --add-dir, /add-dir, and additionalDirectories to refuse network paths…]]'
 - '[[Changes/Claude Code/2026-09-03-3-mobile-and-desktop-changes-in-v2-1-260|3 Mobile
   and Desktop changes in v2.1.260]]'
-- '[[Changes/Claude Code/2026-09-04-vscode-added-a-hollow-ring-in-the-session-list-for-sessions-open-in-a-terminal-a|VSCode
-  Added a hollow ring in the session list for sessions open in a terminal…]]'
-- '[[Changes/ChatGPT/2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add|Edit
-  and comment]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d|chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -72,15 +72,15 @@ type: change
 ## Also in this release
 
 - [[Changes/ChatGPT/2026-09-08-share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their|Share a prompt]] · Collaboration
-- [[Changes/ChatGPT/2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add|Edit and comment]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add|Edit and comment]] · Interface Experience
 - [[Changes/ChatGPT/2026-09-08-chatgpt-images-2-5-brings-sharper-details-more-precise-editing-and-faster-image-66acb5|ChatGPT Images 2.5 brings sharper details, more precise editing, and faster image…]] · Image Generation
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-vscode-added-a-hollow-ring-in-the-session-list-for-sessions-open-in-a-terminal-a|VSCode Added a hollow ring in the session list for sessions open in a terminal…]]
-- Later: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-added-user-email-and-user-groups-to-the-telemetry-claude-desktop-and-cowork-send|Added user.email and user.groups to the telemetry Claude Desktop and Cowork send…]]
+- Earlier: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-3-mobile-and-desktop-changes-in-v2-1-260|3 Mobile and Desktop changes in v2.1.260]]
+- Later: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-changed-skills-synced-from-claude-ai-in-cloud-sessions-to-be-named-anthropic-ski|Changed skills synced from claude.ai in cloud sessions to be named…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

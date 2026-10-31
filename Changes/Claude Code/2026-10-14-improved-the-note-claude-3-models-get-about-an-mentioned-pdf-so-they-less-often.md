@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 16f7048dcb07e1976a4e827dabaf021fb98ba5672b65cacdba28d864a5570e75
+machine_hash: 6971b99b7ff349c24185681e9a6936f1930d5c47c1d6cff8c65baafeed958549
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,7 +43,7 @@ record:
     often…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-08-2-model-support-changes-in-v2-1-295|2 Model Support
+- '[[Changes/Claude Code/2026-10-08-3-model-support-changes-in-v2-1-295|3 Model Support
   changes in v2.1.295]]'
 - '[[Changes/Claude Code/2026-10-09-claude-tag-changed-claude-in-slack-to-show-the-footer-with-the-session-link-mode|Claude
   Tag Changed Claude in Slack to show the footer with the session link, model…]]'
@@ -76,8 +76,8 @@ type: change
 - [[Changes/Claude Code/2026-10-14-7-apps-and-integrations-changes-in-v2-1-300|7 Apps and Integrations changes in v2.1.300]] · Apps and Integrations
 - [[Changes/Claude Code/2026-10-14-added-a-dir-prop-on-a-mod-s-text-for-right-to-left-text-on-windows-and-in-vs-cod|Added a dir prop on a mod's Text for right-to-left text]] · Developer Workflow
 - [[Changes/Claude Code/2026-10-14-2-safety-and-privacy-changes-in-v2-1-300|2 Safety and Privacy changes in v2.1.300]] · Safety and Privacy
-- [[Changes/Claude Code/2026-10-14-3-mobile-and-desktop-changes-in-v2-1-300|3 Mobile and Desktop changes in v2.1.300]] · Mobile and Desktop
-- [[Changes/Claude Code/2026-10-14-2-editor-experience-changes-in-v2-1-300|2 Editor Experience changes in v2.1.300]] · Editor Experience
+- [[Changes/Claude Code/2026-10-14-3-editor-experience-changes-in-v2-1-300|3 Editor Experience changes in v2.1.300]] · Editor Experience
+- [[Changes/Claude Code/2026-10-14-2-mobile-and-desktop-changes-in-v2-1-300|2 Mobile and Desktop changes in v2.1.300]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-10-14-changed-exit-to-force-kill-background-commands-still-running-1-5-seconds-after-b|Changed exit to force-kill background commands still running 1.5 seconds after being…]] · Interface Experience
 - [[Changes/Claude Code/2026-10-14-claude-tag-added-support-for-slack-voice-clips-in-claude-in-slack-claude-reads-s|Claude Tag Added support for Slack voice clips in Claude in Slack]] · Voice and Audio
 - [[Changes/Claude Code/2026-10-14-3-agent-mode-changes-in-v2-1-300|3 Agent Mode changes in v2.1.300]] · Agent Mode

@@ -2,8 +2,9 @@
 changes_count: 6
 date: '2025-06-12'
 description: 'ChatGPT release Adding More Capabilities to Projects on 2025-06-12:
-  6 tracked changes across Collaboration, Memory and Personalization, Mobile and Desktop…'
-machine_hash: 81daced41c0286b70ecb902b9a882425c8495f74dcad0a676e2fc9978aecebf4
+  6 tracked changes across Collaboration, Memory and Personalization, Model Support,
+  Projects…'
+machine_hash: a899b3406edabf2f7e903d6b1b78e541404e2f29515ea5efb539ab3af63999e4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,7 +46,7 @@ Tracked 6 cards from 7 candidate lines.
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload files and access model selector on mobile]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload files and access model selector on mobile]] · Model Support
 - [[Changes/ChatGPT/2025-06-12-sharing-chats-from-projects|Sharing chats from projects]] · Collaboration
 - [[Changes/ChatGPT/2025-06-12-starting-a-new-project-directly-from-a-chat|Starting a new project directly from a chat]] · Projects and Workspaces
 - [[Changes/ChatGPT/2025-06-12-starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d|Starting today, we’re adding several updates to projects in ChatGPT to help you do…]] · Collaboration

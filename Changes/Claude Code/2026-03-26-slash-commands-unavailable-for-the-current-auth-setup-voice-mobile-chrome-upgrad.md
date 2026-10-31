@@ -5,8 +5,8 @@ description: 'Claude Code · 2026-03-26 · Voice and Audio: Slash commands unava
   for the current auth setup (`/voice`, `/mobile`, `/chrome`, `/upgrade`, etc.) are
   now…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
-    are beginning to roll out new voice and image capabilities in ChatGPT]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
+    (Beta) is now rolling out to Plus users on iOS and Android]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 913
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7ca3a95ef59de6ecedd1784455ce3b746849965eda07c3a11e2e27bb1f379032
+machine_hash: a295da35d4c5de7802e3236e56c40837becb87df2ad9abcd9ae1d8c7c10f258d
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,15 +41,6 @@ record:
   source_release: claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa
   source_type: github_releases
   theme: voice
-  theme_matches:
-  - matched_terms:
-    - voice
-    score: 110
-    theme: voice
-  - matched_terms:
-    - mobile
-    score: 50
-    theme: mobile-desktop
   title: Slash commands unavailable for the current auth setup…
   type: change
 related_changes:
@@ -103,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

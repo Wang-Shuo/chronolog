@@ -1,9 +1,9 @@
 ---
-changes_count: 8
+changes_count: 7
 date: '2026-07-10'
-description: 'Cursor release Side Chats and Conversation Search on 2026-07-10: 8 tracked
-  changes across Interface Experience, Agent Mode, Collaboration, Context Window…'
-machine_hash: 1bf54ad06faf6c178b36e590c29afb540cfab4c253c22ee77f064e6c13bc3c13
+description: 'Cursor release Side Chats and Conversation Search on 2026-07-10: 7 tracked
+  changes across Interface Experience, Agent Mode, Context Window, Other changes'
+machine_hash: cbe05836e9547b24c31ead9139aefa911927e05f8d08615781a71f51ec6cefa0
 product: cursor
 product_name: Cursor
 record:
@@ -40,7 +40,7 @@ version: '3.11'
 <!-- chronolog:begin region="summary" -->
 This release makes it easier to stay in flow with side chats that run alongside your main chat, the ability to search agent transcripts, and simplified project and repo pickers.
 
-Tracked 8 cards from 24 candidate lines.
+Tracked 7 cards from 24 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
@@ -48,9 +48,8 @@ Tracked 8 cards from 24 candidate lines.
 - [[Changes/Cursor/2026-07-10-side-chats|Side chats]] · Context Window · Launch
 - [[Changes/Cursor/2026-07-10-conversation-search-454cae|Conversation search]] · Interface Experience · Launch
 - [[Changes/Cursor/2026-07-10-new-cloud-agent-hooks|New cloud agent hooks]] · Agent Mode · Launch
-- [[Changes/Cursor/2026-07-10-6-interface-experience-changes-in-side-chats-and-conversation-search|6 Interface Experience changes in Side Chats and Conversation Search]] · Interface Experience · Digest
+- [[Changes/Cursor/2026-07-10-7-interface-experience-changes-in-side-chats-and-conversation-search|7 Interface Experience changes in Side Chats and Conversation Search]] · Interface Experience · Digest
 - [[Changes/Cursor/2026-07-10-this-release-makes-it-easier-to-stay-in-flow-with-side-chats-that-run-alongside|Cursor makes it easier to stay in flow with side chats that run alongside your main…]] · Agent Mode
-- [[Changes/Cursor/2026-07-10-combined-all-remote-options-your-machines-team-pools-and-existing-remote-workspa|Combined all remote options—your machines, team pools, and existing remote…]] · Collaboration
 - [[Changes/Cursor/2026-07-10-redesigned-project-and-repo-pickers|Redesigned project and repo pickers]] · Interface Experience · Launch
 - [[Changes/Cursor/2026-07-10-6-other-changes-in-side-chats-and-conversation-search|6 other changes in Side Chats and Conversation Search]] · Other changes · Digest
 <!-- chronolog:end -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 645ad335c3464fbd1de7f75e98ebd2d34da7c9e4e54e17437008ea7bb99e026e
+machine_hash: 717ea1cbd68541110d282606baad9fba9094f804e59c82c445b1d58233074993
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,12 +44,12 @@ record:
     directly…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Create
-  webhook-triggered tasks]]'
+- '[[Changes/Claude Code/2026-08-21-windows-cross-session-messaging-is-now-available-so-claude-code-sessions-across|Windows:
+  cross-session messaging is now available, so Claude Code sessions across…]]'
 - '[[Changes/Claude Code/2026-08-25-windows-macos-fixed-headless-sessions-not-cleaning-up-stale-entries-in-claude-se|Windows/macOS:
   Fixed headless sessions not cleaning up stale entries…]]'
-- '[[Changes/Claude Code/2026-08-28-improved-amazon-bedrock-session-start-under-claude-code-provider-managed-by-host|Improved
-  Amazon Bedrock session start under CLAUDE_CODE_PROVIDER_MANAGED_BY_HOST…]]'
+- '[[Changes/ChatGPT/2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o|Share
+  your stickers in messaging apps]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-31-use-website-tools-in-the-desktop-browser-6c07f08a|chatgpt-2026-08-31-use-website-tools-in-the-desktop-browser-6c07f08a]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -72,14 +72,14 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2026-08-31-site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are|Site tools use WebMCP and require a supported account, model, and webpage]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-08-31-site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are|Site tools use WebMCP and require a supported account, model, and webpage]] · Model Support
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-improved-amazon-bedrock-session-start-under-claude-code-provider-managed-by-host|Improved Amazon Bedrock session start under CLAUDE_CODE_PROVIDER_MANAGED_BY_HOST…]]
-- Later: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context-af2c3a|Bring your browser into Work and Codex]]
+- Earlier: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o|Share your stickers in messaging apps]]
+- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-changed-add-dir-add-dir-and-additionaldirectories-to-refuse-network-paths-unc-sh|Changed --add-dir, /add-dir, and additionalDirectories to refuse network paths…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

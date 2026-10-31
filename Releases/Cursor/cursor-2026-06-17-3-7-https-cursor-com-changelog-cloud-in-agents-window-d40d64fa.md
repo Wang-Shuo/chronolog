@@ -2,9 +2,8 @@
 changes_count: 4
 date: '2026-06-17'
 description: 'Cursor release Cloud Environment Setup and Cloud Subagents in Agents
-  Window on 2026-06-17: 4 tracked changes across Agent Mode, Developer Workflow, Mobile
-  and…'
-machine_hash: 620694fb6295464d4fd682afefcc8ef3ea055f99f62e183193f5bab27d62f663
+  Window on 2026-06-17: 4 tracked changes across Agent Mode, Developer Workflow'
+machine_hash: 10fd3a3ac295b0fc4c251aa7de5142af7eea7c3d8f39929c66c6d58bed7c5369
 product: cursor
 product_name: Cursor
 record:
@@ -47,6 +46,6 @@ Tracked 4 cards from 8 candidate lines.
 <!-- chronolog:begin region="cards" -->
 - [[Changes/Cursor/2026-06-17-cloud-environment-setup-8a7697|Cloud environment setup]] · Developer Workflow · Launch
 - [[Changes/Cursor/2026-06-17-handoff-between-local-and-cloud|Handoff between local and cloud]] · Agent Mode · Launch
-- [[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|Cursor introduces updates to cloud agents in the Agents Window of the Cursor desktop app]] · Mobile and Desktop · Launch
+- [[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|Cursor introduces updates to cloud agents in the Agents Window of the Cursor desktop app]] · Agent Mode · Launch
 - [[Changes/Cursor/2026-06-17-cloud-subagents-with-in-cloud-eb7958|Cloud subagents with /in-cloud]] · Agent Mode · Launch
 <!-- chronolog:end -->

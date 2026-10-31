@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a9b5552e924ae5d83f37cc54d0782ca10a20bf8cb9b0484ebcf068684ced5ec9
+machine_hash: 13bfdf4b79b8ce9cd08bed7ef321d259e937d5a3674f2107642385e2d6117f43
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     starts
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-01-added-claude-project-purge-path-to-delete-all-claude-code-state-for-a-project-tr|-
-  Added claude project purge path to delete all Claude Code state for a project…]]'
 - '[[Changes/Claude Code/2026-05-13-feedback-can-now-include-recent-sessions-last-24-hours-or-7-days-for-issues-span|/feedback
   can now include recent sessions (last 24 hours or 7 days) for issues…]]'
+- '[[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|Codex
+  remote access from the ChatGPT mobile app]]'
 - '[[Changes/Claude Code/2026-06-24-added-rewind-support-for-resuming-a-conversation-from-before-clear-was-run|Added
   /rewind support for resuming a conversation from before /clear was run]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460|claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460]]'

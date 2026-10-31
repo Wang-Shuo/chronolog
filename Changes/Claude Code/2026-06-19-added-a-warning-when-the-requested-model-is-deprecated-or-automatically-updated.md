@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: policy
-machine_hash: 3d6b8bfb9f19dcfbc525c21d9de5254b57abc1c7056e9004ab7767663e5840ec
+machine_hash: cb4920ccf5f3008771ba0151d43e4d6ab7aba7a41f278987725a87144cbadb13
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,12 +56,12 @@ record:
   title: Added a warning when the requested model is deprecated or automatically updated…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|Retiring
-  GPT-5.2 models]]'
 - '[[Changes/Claude Code/2026-06-12-added-enforceavailablemodels-managed-setting-when-enabled-the-availablemodels-al|Added
   enforceAvailableModels managed setting]]'
 - '[[Changes/Claude Code/2026-06-15-bug-now-requires-a-description-before-submitting-and-no-longer-uses-model-refusa|/bug
   now requires a description before submitting, and no longer uses…]]'
+- '[[Changes/ChatGPT/2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press|Long-press
+  send to choose a model]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-19-v2-1-183-github-341696059-98586912|claude-code-2026-06-19-v2-1-183-github-341696059-98586912]]'
 source_type: github_releases
 theme: model-support
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-15 · Claude Code · [[Changes/Claude Code/2026-06-15-bug-now-requires-a-description-before-submitting-and-no-longer-uses-model-refusa|/bug now requires a description before submitting, and no longer uses…]]
+- Earlier: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press|Long-press send to choose a model]]
 - Later: 2026-06-24 · ChatGPT · [[Changes/ChatGPT/2026-06-24-we-re-updating-gpt-5-5-instant-our-most-used-model-in-chatgpt-to-improve-convers|GPT-5.5 Instant Update]]
 <!-- chronolog:end -->
 

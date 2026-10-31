@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 86975cd2b474ee95d07dd64e4e5c77a2878027b182c13e8780c44bf2c705ddbf
+machine_hash: 891b633a8d6e52d566a5276322f32b0472aabd7c34685fa06d4af1d4f4263c64
 product: claude-code
 product_name: Claude Code
 record:
@@ -115,6 +115,7 @@ related_changes:
   Apps and Integrations changes in v2.1.280]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95|claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95]]'
 source_type: github_releases
+superseded: true
 theme: apps-integrations
 title: 18 Apps and Integrations changes in v2.1.281
 type: change

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 59e20675e26589a953f9d8a5de3f1b7fb475b0e32ebfd3ddf8db674005a08df8
+machine_hash: 770282132cdf825ad3b22a41294415add90d812a316af9d2262ee3c3a11b9acb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-02-21 · ChatGPT · [[Changes/ChatGPT/2025-02-21-ios-widget-see-below|iOS widget (see below)]]
-- Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and|We have been working on a variety of usability and performance improvements and bug…]]
+- Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved table-copying functionality out of ChatGPT responses on iOS and macOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

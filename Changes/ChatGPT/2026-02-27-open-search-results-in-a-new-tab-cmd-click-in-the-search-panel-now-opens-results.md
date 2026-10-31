@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ca6dd6b34db116a4fd5dd2060c1e9c0d766e4f3615a5e7cfe8fccd139dfe3a17
+machine_hash: 1f097034941c7c4dd503054ec4d9dbcfd4bc6d8aaeb30e2b709b205135bb8af8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -90,7 +90,7 @@ type: change
 - [[Changes/ChatGPT/2026-02-27-automatic-scroll-to-latest-message-existing-conversations-now-automatically-scro|Automatic scroll to latest message]] · Interface Experience
 - [[Changes/ChatGPT/2026-02-27-faster-sharing-sharing-chats-is-now-easier-and-faster-with-a-quicker-loading-sha|Faster sharing. Sharing chats is now easier and faster, with a quicker-loading share menu]] · Reliability and Performance
 - [[Changes/ChatGPT/2026-02-27-improved-dictation-visuals-dictation-now-has-a-clearer-more-streamlined-interfac|Improved dictation visuals]] · Voice and Audio
-- [[Changes/ChatGPT/2026-02-27-sidebar-actions-on-mobile-web-no-longer-stick-while-scrolling|Sidebar actions on mobile web no longer stick while scrolling]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-02-27-sidebar-actions-on-mobile-web-no-longer-stick-while-scrolling|Sidebar actions on mobile web no longer stick while scrolling]] · Interface Experience
 - [[Changes/ChatGPT/2026-02-27-export-visuals-from-code-blocks-flowcharts-diagrams-and-data-visualizations-crea|Export visuals from Code Blocks]] · Files and Data
 - [[Changes/ChatGPT/2026-02-27-faster-sidebar-actions-sidebar-interactions-such-as-renaming-chats-are-now-faste|Faster sidebar actions]] · Interface Experience
 - [[Changes/ChatGPT/2026-02-27-edit-messages-with-images-you-can-now-edit-messages-that-include-image-attachmen|Edit messages with images]] · Editor Experience

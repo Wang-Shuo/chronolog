@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 33ac5febc423bb495a3df445369ca25d58a585d1ecc61380d14d43397c9f8a64
+machine_hash: c0d703a2e7e85f7c7596d453136f0562219454481b7f7f1ecda036af576d90fd
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: Reduced Remote Control `/poll` rate to once per 10 minutes while connected…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-03-mcp-apps-support-interactive-user-interfaces-like-charts-from-amplitude-diagrams|MCP
-  Apps]]'
+- '[[Changes/Cursor/2026-03-03-on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p|Team
+  marketplaces for plugins]]'
 - '[[Changes/Claude Code/2026-03-05-added-reload-plugins-command-to-activate-pending-plugin-changes-without-restarti|Added
   /reload-plugins command to activate pending plugin changes without restarting]]'
 - '[[Changes/Claude Code/2026-03-05-7-apps-and-integrations-changes-in-v2-1-69|7 Apps

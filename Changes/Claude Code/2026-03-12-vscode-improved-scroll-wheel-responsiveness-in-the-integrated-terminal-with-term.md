@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 83922cba4e1408fc2b6ee48d9c4daca12e3a63d918ed0d1cfe6eb2358565ce7d
+machine_hash: 6601a70d8cfd28f1d3f3d3602c61757a07dcb5ee5c12327420c978570dab1710
 product: claude-code
 product_name: Claude Code
 record:
@@ -79,8 +79,9 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-03-12-2-memory-and-personalization-changes-in-v2-1-74|2 Memory and Personalization changes in v2.1.74]] · Memory and Personalization
+- [[Changes/Claude Code/2026-03-12-added-automemorydirectory-setting-to-configure-a-custom-directory-for-auto-memor|Added autoMemoryDirectory setting to configure a custom directory for auto-memory…]] · Memory and Personalization
 - [[Changes/Claude Code/2026-03-12-fixed-voice-mode-silently-failing-on-the-macos-native-binary-for-users-whose-ter|Fixed voice mode silently failing on the macOS native binary for users whose…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-03-12-added-actionable-suggestions-to-context-command-identifies-context-heavy-tools-m|Added actionable suggestions to /context command]] · Reliability and Performance
 - [[Changes/Claude Code/2026-03-12-changed-plugin-dir-so-local-dev-copies-now-override-installed-marketplace-plugin|Changed --plugin-dir so local dev copies now override installed marketplace…]] · Apps and Integrations
 <!-- chronolog:end -->
 

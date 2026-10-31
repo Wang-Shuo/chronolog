@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 080b19277357effb362a6a248b34f5d819bc784b8e5ec44d655070ed51dd9d8d
+machine_hash: 7231b753abd3aea700a605e6ef1d66e4b78e1d2a0d340c35ae5bd5b2c99b2153
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,22 +52,17 @@ record:
     score: 100
     theme: reliability-performance
   - matched_terms:
-    - android
-    score: 50
-    theme: mobile-desktop
-  - matched_terms:
     - model
     score: 50
     theme: model-support
   title: 'Text selection improvements: you can now select text across horizontal rulers'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-12-17-cheaper-and-faster-bug-finding-model|Cheaper and faster
-  Bug Finding Model]]'
-- '[[Changes/Cursor/2025-01-23-also-adds-mcp-support-team-configurable-blocklists-fixes-composer-stuck-on-gener|Also
-  adds MCP support, team-configurable blocklists, fixes Composer stuck…]]'
-- '[[Changes/Cursor/2025-02-19-0-46-7-improved-memory-usage-and-performance|0.46.7:
-  Improved memory usage and performance]]'
+- '[[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved
+  Android conversation parsing performance]]'
+- '[[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes]]'
+- '[[Changes/Cursor/2025-02-19-2-reliability-and-performance-changes-in-0-46-x|2 Reliability
+  and Performance changes in 0.46.x]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-21-1-6b86b273|chatgpt-2025-02-21-1-6b86b273]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
@@ -96,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-0-46-7-improved-memory-usage-and-performance|0.46.7: Improved memory usage and performance]]
+- Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-2-reliability-and-performance-changes-in-0-46-x|2 Reliability and Performance changes in 0.46.x]]
 - Later: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-5-reliability-and-performance-changes-in-0-47-x|5 Reliability and Performance changes in 0.47.x]]
 <!-- chronolog:end -->
 

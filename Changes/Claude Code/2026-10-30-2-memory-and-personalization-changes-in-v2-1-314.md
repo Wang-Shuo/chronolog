@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d871f459655dc5f543fa4d09533576e369e334fba9ade1ca3847873f1f971f2f
+machine_hash: ec2ea10e6d04ef372ffac0543229738072fb002e41506d1ee44af10e243e43b7
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   switching on iOS and Android]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7]]'
 source_type: github_releases
+superseded: true
 theme: memory
 title: 2 Memory and Personalization changes in v2.1.314
 type: change

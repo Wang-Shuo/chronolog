@@ -2,9 +2,8 @@
 changes_count: 9
 date: '2026-06-18'
 description: 'ChatGPT release ChatGPT app experience updates on 2026-06-18: 9 tracked
-  changes across Mobile and Desktop, Collaboration, Interface Experience, Reliability
-  and…'
-machine_hash: 3f56f307eb25e1dd0444209aabaa76f7e1f78d82345141f8b23db9332bb7777e
+  changes across Mobile and Desktop, Collaboration, Interface Experience, Model Support…'
+machine_hash: 9d8a1a1e2170107a1e87ee4e6b7c9747c18853c59dc1fb0dd33b10e1dc31f2e3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,7 +48,7 @@ Tracked 9 cards from 10 candidate lines; 1 line pending review.
 <!-- chronolog:begin region="cards" -->
 - [[Changes/ChatGPT/2026-06-18-updated-composer-and-tools-menu-the-composer-in-android-now-has-inline-mentions|Updated composer and tools menu]] · Mobile and Desktop
 - [[Changes/ChatGPT/2026-06-18-app-permission-controls-you-can-now-choose-when-chatgpt-asks-before-using-connec|App permission controls: You can now choose when ChatGPT asks before using connected apps]] · Safety and Privacy
-- [[Changes/ChatGPT/2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press|Long-press send to choose a model]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press|Long-press send to choose a model]] · Model Support
 - [[Changes/ChatGPT/2026-06-18-improved-camera-and-photo-uploads-taking-and-uploading-photos-in-chatgpt-on-ios|Improved camera and photo uploads]] · Mobile and Desktop
 - [[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World Cup updates]] · Collaboration
 - [[Changes/ChatGPT/2026-06-18-easier-pinning-and-sidebar-organization-it-s-now-easier-to-keep-important-work-c|Easier pinning and sidebar organization]] · Interface Experience

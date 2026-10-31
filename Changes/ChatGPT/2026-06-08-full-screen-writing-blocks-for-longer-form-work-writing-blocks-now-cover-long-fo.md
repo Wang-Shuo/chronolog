@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2b4e82be1492e765c4693a89840ad0bee36560ee855571921c9a89ffc26b3ccb
+machine_hash: 853664a3223004e80808996c71919eac50fe68d0a7e53c32faa94cad788ae668
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -107,7 +107,7 @@ type: change
 - [[Changes/ChatGPT/2026-06-08-table-of-contents-in-longer-conversations-conversations-longer-than-five-respons|Table of contents in longer conversations]] · Interface Experience
 - [[Changes/ChatGPT/2026-06-08-long-press-send-to-choose-a-model-users-on-paid-plans-can-now-long-press-the-sen|Long-press send to choose a model]] · Model Support
 - [[Changes/ChatGPT/2026-06-08-immediate-image-previews-after-sending-when-you-upload-an-image-on-ios-chatgpt-u|Immediate image previews after sending]] · Mobile and Desktop
-- [[Changes/ChatGPT/2026-06-08-cleaned-up-logged-out-mobile-web-experience-logged-out-users-now-see-a-composer|Cleaned up logged-out mobile web experience]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-06-08-cleaned-up-logged-out-mobile-web-experience-logged-out-users-now-see-a-composer|Cleaned up logged-out mobile web experience]] · Interface Experience
 - [[Changes/ChatGPT/2026-06-08-edit-messages-with-attachments-you-can-now-edit-messages-that-include-attachment|Edit messages with attachments]] · Editor Experience
 <!-- chronolog:end -->
 

@@ -7,7 +7,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bf1b3a68d8b3b0fe598d63a7c2c0b0b463ea43648c8fc20c568d3d1b92618bc4
+machine_hash: 6f526d23e8a8a902d1528f0be517d0acd025c20928e3858c76e10a132852fee6
 product: cursor
 product_name: Cursor
 record:
@@ -77,9 +77,8 @@ Source: https://cursor.com/changelog/side-chat
 - [[Changes/Cursor/2026-07-10-side-chats|Side chats]] · Context Window
 - [[Changes/Cursor/2026-07-10-conversation-search-454cae|Conversation search]] · Interface Experience
 - [[Changes/Cursor/2026-07-10-new-cloud-agent-hooks|New cloud agent hooks]] · Agent Mode
-- [[Changes/Cursor/2026-07-10-6-interface-experience-changes-in-side-chats-and-conversation-search|6 Interface Experience changes in Side Chats and Conversation Search]] · Interface Experience
+- [[Changes/Cursor/2026-07-10-7-interface-experience-changes-in-side-chats-and-conversation-search|7 Interface Experience changes in Side Chats and Conversation Search]] · Interface Experience
 - [[Changes/Cursor/2026-07-10-this-release-makes-it-easier-to-stay-in-flow-with-side-chats-that-run-alongside|Cursor makes it easier to stay in flow with side chats that run alongside your main…]] · Agent Mode
-- [[Changes/Cursor/2026-07-10-combined-all-remote-options-your-machines-team-pools-and-existing-remote-workspa|Combined all remote options—your machines, team pools, and existing remote…]] · Collaboration
 - [[Changes/Cursor/2026-07-10-redesigned-project-and-repo-pickers|Redesigned project and repo pickers]] · Interface Experience
 <!-- chronolog:end -->
 

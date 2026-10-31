@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: badf27aea4a507b69d09267d3675a27546b256753cd5fd16bf5a7547a8b7a0d6
+machine_hash: daf6fa6154ee3443104b902b264e523e5eb410c6b1c6b608aac01345170ff280
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Developer Workflow changes in v2.1.143
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-11-added-hook-args-string-field-exec-form-that-spawns-the-command-directly-without|Added
-  hook args: string field (exec form) that spawns the command directly…]]'
+- '[[Changes/Claude Code/2026-05-13-added-terminalsequence-field-to-hook-json-output-so-hooks-can-emit-desktop-notif|Added
+  terminalSequence field to hook JSON output so hooks can emit desktop…]]'
 - '[[Changes/Cursor/2026-05-13-environment-configuration-as-code-827fd1|Environment
   configuration as code]]'
 - '[[Changes/Cursor/2026-05-13-removed-noisy-in-app-terminal-notifications-and-improved-shortcut-behavior|Removed

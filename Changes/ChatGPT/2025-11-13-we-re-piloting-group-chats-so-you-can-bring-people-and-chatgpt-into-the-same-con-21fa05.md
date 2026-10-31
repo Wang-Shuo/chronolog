@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cfb3bcd7ce06c917e7ee0363a3b14cea99e2e9e4af047bc0c351f96e0cb6f11f
+machine_hash: 49139add3359595595b215def4c195a795c692a44e773460c0e53136d8d3ef98
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,10 +56,10 @@ record:
   title: Group chats in ChatGPT
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2025-08-22-this-feature-will-initially-only-be-available-on-the-chatgpt-website-and-windows|This
+  feature will initially only be available on the ChatGPT website and Windows app]]'
 - '[[Changes/ChatGPT/2025-09-17-the-thinking-time-toggle-is-live-today-on-chatgpt-com-settings-you-choose-on-the|The
   thinking-time toggle is live today on chatgpt.com]]'
-- '[[Changes/Cursor/2025-09-29-on-windows-agent-now-correctly-uses-powershell-on-macos-and-linux-powershell-wil|On
-  Windows, Agent now correctly uses PowerShell]]'
 - '[[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-3f946e|Starting
   today, project sharing is available to all ChatGPT users, including…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-13-group-chats-in-chatgpt-8a8193ad|chatgpt-2025-11-13-group-chats-in-chatgpt-8a8193ad]]'
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-10-23 · ChatGPT · [[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-3f946e|Starting today, project sharing is available to all ChatGPT users, including…]]
-- Later: 2025-12-18 · ChatGPT · [[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|Pinned chats in ChatGPT]]
+- Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-added-support-for-windows-package-manager-winget-installations-with-automatic-de|Added support for Windows Package Manager (winget) installations with automatic…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

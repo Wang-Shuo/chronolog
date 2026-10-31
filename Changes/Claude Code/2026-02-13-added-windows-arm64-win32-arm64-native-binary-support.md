@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 21259e731c88e2d75d6c5584067e9e0a6b58ffd9218cc6e0c3742b3c474632cf
+machine_hash: d49e44d61fa45116435fdff33987c14719ed892c2433359bedef69d31cee026d
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: Added Windows ARM64 (win32-arm64) native binary support
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health
-  appears as a new space in the ChatGPT sidebar]]'
-- '[[Changes/Claude Code/2026-01-09-2-mobile-and-desktop-changes-in-v2-1-2|2 Mobile
-  and Desktop changes in v2.1.2]]'
+- '[[Changes/ChatGPT/2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05|Group
+  chats in ChatGPT]]'
+- '[[Changes/Claude Code/2026-01-09-added-support-for-windows-package-manager-winget-installations-with-automatic-de|Added
+  support for Windows Package Manager (winget) installations with automatic…]]'
 - '[[Changes/Cursor/2026-01-22-windows-notifications-now-have-accept-reject-buttons-like-macos|Windows
   notifications now have accept/reject buttons like MacOS]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8|claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8]]'

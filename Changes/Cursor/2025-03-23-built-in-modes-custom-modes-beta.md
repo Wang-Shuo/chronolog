@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 1641a341725d64e06d15c7616a91029741cc2092ec3f5b5692284167542e5740
+machine_hash: 2cb3c9716896bda62b14852fe73d6a5c13b7b5dd12ebb42a2336afc3e03af210
 product: cursor
 product_name: Cursor
 record:
@@ -98,9 +98,10 @@ type: change
 
 - [[Changes/Cursor/2025-03-23-0-48-2-allows-users-to-accept-reject-file-edited-in-another-chat-tab|0.48.2 - Allows users to accept/reject file edited in another chat tab]] · Editor Experience
 - [[Changes/Cursor/2025-03-23-2-model-support-changes-in-0-48-x|2 Model Support changes in 0.48.x]] · Model Support
-- [[Changes/Cursor/2025-03-23-2-collaboration-changes-in-0-48-x|2 Collaboration changes in 0.48.x]] · Collaboration
+- [[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved indexing performance for teams sharing codebases]] · Collaboration
 - [[Changes/Cursor/2025-03-23-chat-will-now-display-a-notification-about-usage-based-pricing-when-approaching|Chat will now display a notification about usage-based pricing when approaching fast…]] · Pricing Model
 - [[Changes/Cursor/2025-03-23-2-reliability-and-performance-changes-in-0-48-x|2 Reliability and Performance changes in 0.48.x]] · Reliability and Performance
+- [[Changes/Cursor/2025-03-23-enhanced-visibility-of-auto-run-controls-configured-by-team-admins-clarifying-wh|Enhanced visibility of auto-run controls configured by team admins, clarifying…]] · Enterprise and Administration
 - [[Changes/Cursor/2025-03-23-new-onboarding|New onboarding]] · Interface Experience
 - [[Changes/Cursor/2025-03-23-usage-based-cost-visibility|Usage-based cost visibility]] · Pricing Model
 - [[Changes/Cursor/2025-03-23-added-input-token-count-for-chat-messages-click-the-three-dots-to-view-we-re-con|Added input token count for chat messages (click the three dots to view)]] · Context Window

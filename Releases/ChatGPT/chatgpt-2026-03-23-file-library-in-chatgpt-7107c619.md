@@ -2,8 +2,8 @@
 changes_count: 1
 date: '2026-03-23'
 description: 'ChatGPT release File Library in ChatGPT on 2026-03-23: 1 tracked change
-  across Mobile and Desktop'
-machine_hash: a960c20566424154d295c25300e7515e637260943d15ef98ab330197fa9f7c4e
+  across Search and Browsing'
+machine_hash: 59467497cd08292645effa32b84a1a9e1700935514df440c4fec63a766accbdf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,5 +47,5 @@ Tracked 1 card from 1 candidate line.
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|File Library in ChatGPT]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|File Library in ChatGPT]] · Search and Browsing
 <!-- chronolog:end -->

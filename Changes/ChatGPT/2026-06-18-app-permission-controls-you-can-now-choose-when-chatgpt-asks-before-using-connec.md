@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a316a859321cba1eeae2000a27e07eae687090d7fa2ca163c5bfb7267900547a
+machine_hash: e914004a5184afdea97b56299a73b5dc26a46fab253a1480bbddcba95641a08b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -81,7 +81,7 @@ type: change
 ## Also in this release
 
 - [[Changes/ChatGPT/2026-06-18-updated-composer-and-tools-menu-the-composer-in-android-now-has-inline-mentions|Updated composer and tools menu]] · Mobile and Desktop
-- [[Changes/ChatGPT/2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press|Long-press send to choose a model]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press|Long-press send to choose a model]] · Model Support
 - [[Changes/ChatGPT/2026-06-18-improved-camera-and-photo-uploads-taking-and-uploading-photos-in-chatgpt-on-ios|Improved camera and photo uploads]] · Mobile and Desktop
 - [[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World Cup updates]] · Collaboration
 - [[Changes/ChatGPT/2026-06-18-easier-pinning-and-sidebar-organization-it-s-now-easier-to-keep-important-work-c|Easier pinning and sidebar organization]] · Interface Experience

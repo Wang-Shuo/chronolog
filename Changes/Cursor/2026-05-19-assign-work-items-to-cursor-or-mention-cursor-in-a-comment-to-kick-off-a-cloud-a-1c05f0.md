@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 32bd667111e4d24a8f78fc846a6c316ec30647fff32e1275fbe7cf2549f9fb6f
+machine_hash: 7b343a93b90b46f286760e1e8ca02269345ef90472d0ce1e49a625b5d4ba73ff
 product: cursor
 product_name: Cursor
 record:
@@ -47,16 +47,6 @@ record:
   source_release: cursor-2026-05-19-cursor-in-jira-https-cursor-com-changelog-05-19-26-4a0261e4
   source_type: cursor_changelog
   theme: agent-mode
-  theme_matches:
-  - matched_terms:
-    - agent
-    - cloud agent
-    score: 110
-    theme: agent-mode
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
   title: Assign work items to Cursor, or mention @Cursor in a comment to kick off
     a cloud agent
   type: change

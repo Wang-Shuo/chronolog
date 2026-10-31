@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6f3ef728c05d4595a4f24fa63fc012d33a1c22b1f8a8445204637caeaca1dc73
+machine_hash: e02dc82c87c40e60e058234576bd9c6ded13769f69a64cae4765c1f31713673a
 product: cursor
 product_name: Cursor
 record:
@@ -82,7 +82,7 @@ Source: https://cursor.com/changelog/1-3
 - [[Changes/Cursor/2025-07-29-2-safety-and-privacy-changes-in-1-3|2 Safety and Privacy changes in 1.3]] · Safety and Privacy
 - [[Changes/Cursor/2025-07-29-2-reliability-and-performance-changes-in-1-3|2 Reliability and Performance changes in 1.3]] · Reliability and Performance
 - [[Changes/Cursor/2025-07-29-2-developer-workflow-changes-in-1-3|2 Developer Workflow changes in 1.3]] · Developer Workflow
-- [[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow team admins to configure an extension allowlist]] · Collaboration
+- [[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow team admins to configure an extension allowlist]] · Enterprise and Administration
 - [[Changes/Cursor/2025-07-29-3-other-changes-in-1-3|3 other changes in 1.3]] · Other changes
 <!-- chronolog:end -->
 

@@ -4,8 +4,8 @@ date: '2025-12-11'
 description: 'ChatGPT · 2025-12-11 · Voice and Audio: Voice will continue to be available
   on chatgpt.com, iOS, Android, and Windows app.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
-    are beginning to roll out new voice and image capabilities in ChatGPT]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
+    (Beta) is now rolling out to Plus users on iOS and Android]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 808
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c3b17ef1aed995a3bf0b9702d94bdcbcd1c1f67618857b32d7b6a0eba08ca70e
+machine_hash: a849babb6e768d43fe5d1fc7814d187156c2a0eada57444764bfb459e23aae87
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,17 +40,6 @@ record:
   source_release: chatgpt-2025-12-11-voice-on-macos-desktop-app-is-retiring-effective-january-15-2026-189e8580
   source_type: chatgpt_changelog
   theme: voice
-  theme_matches:
-  - matched_terms:
-    - voice
-    score: 110
-    theme: voice
-  - matched_terms:
-    - android
-    - ios
-    score: 100
-    theme: mobile-desktop
-  theme_resolution: manual-semantic-rule-v1
   title: Voice will continue to be available on chatgpt.com, iOS, Android, and Windows
     app
   type: change
@@ -96,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

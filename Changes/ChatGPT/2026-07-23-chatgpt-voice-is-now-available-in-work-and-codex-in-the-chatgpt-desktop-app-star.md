@@ -4,8 +4,8 @@ date: '2026-07-23'
 description: 'ChatGPT · 2026-07-23 · Voice and Audio: ChatGPT Voice is now available
   in Work and Codex in the ChatGPT desktop app. Start a new task in Voice to speak…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
-    are beginning to roll out new voice and image capabilities in ChatGPT]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
+    (Beta) is now rolling out to Plus users on iOS and Android]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1032
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: f30b962193e2eac1bbeba0e2f12a51ebfd3858b2d6e8d1504bd55824a1394f72
+machine_hash: 4ac7531d6444311d7132f8c01d88a19ba139c4f5df8c9bb8ff43b1c501b1106e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,19 +45,11 @@ record:
   source_release: chatgpt-2026-07-23-chatgpt-voice-in-work-and-codex-on-desktop-449df8e7
   source_type: chatgpt_changelog
   theme: voice
-  theme_matches:
-  - matched_terms:
-    - voice
-    score: 110
-    theme: voice
-  - matched_terms:
-    - desktop
-    score: 50
-    theme: mobile-desktop
   title: ChatGPT Voice in Work and Codex on desktop
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-29-cloud-agents-on-mobile-1bc371|Cloud agents on mobile]]'
+- '[[Changes/Claude Code/2026-06-26-improved-voice-mode-on-linux-now-distinguishes-no-microphone-from-sox-not-instal|Improved
+  voice mode on Linux]]'
 - '[[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|Introducing
   GPT-Live-1 in ChatGPT Voice]]'
 - '[[Changes/ChatGPT/2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can-f60c71|ChatGPT
@@ -95,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

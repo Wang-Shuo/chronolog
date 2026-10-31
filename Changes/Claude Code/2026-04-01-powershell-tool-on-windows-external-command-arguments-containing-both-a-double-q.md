@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b8c2526dae0f7ea91b5d906ce2c25a643abc0330fd61f8f0310366f97ba4ca0c
+machine_hash: ba7aad6805c48407b89a8174ddfbd7e574c463efe0cbd327989363cc29b563ca
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: PowerShell tool on Windows
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|A
-  simplified sidebar on mobile]]'
+- '[[Changes/Claude Code/2026-03-17-vscode-when-option-click-doesn-t-trigger-native-selection-on-macos-the-footer-no|VSCode
+  When option+click doesn''t trigger native selection on macOS, the footer now…]]'
 - '[[Changes/ChatGPT/2026-03-26-users-can-now-choose-to-share-their-device-location-so-chatgpt-can-provide-more-7907ed|Location
   Sharing]]'
 - '[[Changes/Claude Code/2026-03-26-added-powershell-tool-for-windows-as-an-opt-in-preview-learn-more-at-https-code|Added

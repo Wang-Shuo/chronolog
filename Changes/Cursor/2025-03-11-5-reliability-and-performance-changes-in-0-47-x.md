@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d7c45e73e03d99db87accdb31fd4e9ccfbe167726bcb660f81bed792fc403978
+machine_hash: 984567443cedf94909965b8fe6ec8b665c015e1f777c3897f77b1768bda2c706
 product: cursor
 product_name: Cursor
 record:
@@ -52,10 +52,9 @@ record:
   title: 5 Reliability and Performance changes in 0.47.x
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-01-23-also-adds-mcp-support-team-configurable-blocklists-fixes-composer-stuck-on-gener|Also
-  adds MCP support, team-configurable blocklists, fixes Composer stuck…]]'
-- '[[Changes/Cursor/2025-02-19-0-46-7-improved-memory-usage-and-performance|0.46.7:
-  Improved memory usage and performance]]'
+- '[[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes]]'
+- '[[Changes/Cursor/2025-02-19-2-reliability-and-performance-changes-in-0-46-x|2 Reliability
+  and Performance changes in 0.46.x]]'
 - '[[Changes/ChatGPT/2025-02-21-text-selection-improvements-you-can-now-select-text-across-horizontal-rulers-3-p|Text
   selection improvements: you can now select text across horizontal rulers]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e|cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e]]'
@@ -104,7 +103,7 @@ Source: https://cursor.com/changelog/0-47-x
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-02-21 · ChatGPT · [[Changes/ChatGPT/2025-02-21-text-selection-improvements-you-can-now-select-text-across-horizontal-rulers-3-p|Text selection improvements: you can now select text across horizontal rulers]]
-- Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-in-line-message-error-retries-if-you-encounter-a-message-error-you-can-retry-or|In-line message error retries]]
+- Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and|We have been working on a variety of usability and performance improvements and bug…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

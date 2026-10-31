@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bb646c01676eee4aebfb24658eef9610f52e1fb7857517ebd5d5d6e4aa8f7cf5
+machine_hash: e7c7c4d1d249be431f1467457dfcbb2a6f5620fd669ebd6e14e9a45daf09fdc6
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,8 +54,8 @@ record:
     Cowork…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-2-mobile-and-desktop-changes-in-v2-1-271|2 Mobile
-  and Desktop changes in v2.1.271]]'
+- '[[Changes/Claude Code/2026-09-14-improved-mobile-to-show-a-single-qr-code-for-claude-ai-mobile-which-opens-the-ri|Improved
+  /mobile to show a single QR code for claude.ai/mobile, which opens…]]'
 - '[[Changes/Claude Code/2026-09-15-claude-code-on-the-web-removed-the-full-page-desktop-app-download-screen-that-ne|Claude
   Code on the web Removed the full-page desktop-app download screen that new…]]'
 - '[[Changes/ChatGPT/2026-09-17-you-can-now-connect-multiple-accounts-to-plugins-in-chatgpt-expanding-support-be|Connect

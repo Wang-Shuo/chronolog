@@ -7,7 +7,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4c5a328f96fef7f5c4032a048e3db010de4e977bb68a7850547af526a932fee0
+machine_hash: 4863c3f5e55cb723319f616c0864c32a3be8d5c3b727318274d5a53aa2c11f4d
 product: cursor
 product_name: Cursor
 record:
@@ -58,7 +58,7 @@ Source: https://cursor.com/changelog/ipad
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and|A full review surface]] · Mobile and Desktop
+- [[Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and|A full review surface]] · Agent Mode
 - [[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch between teams that you belong to directly in the app]] · Collaboration
 - [[Changes/Cursor/2026-07-29-built-for-the-bigger-screen-98bf7a|Built for the bigger screen]] · Mobile and Desktop
 - [[Changes/Cursor/2026-07-29-inbox|Inbox]] · Agent Mode

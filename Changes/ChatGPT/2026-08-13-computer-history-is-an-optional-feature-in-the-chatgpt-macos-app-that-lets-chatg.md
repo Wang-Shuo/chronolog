@@ -4,10 +4,10 @@ date: '2026-08-13'
 description: 'ChatGPT · 2026-08-13 · Enterprise and Administration: Computer History
   is an optional feature in the ChatGPT macOS app that lets ChatGPT and Codex reference…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
-    users can only access stable release (no pre-release)]]'
+  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
+    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 435
+  lag_days: 876
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 89ee91b46c5d0485fea437dc5496a1339526394c653a29978855a9bb3bec05db
+machine_hash: bbab28e867f2896ae0c1e72271ec090a6e2235ab64c577efa09f7cdf072d461b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,14 +60,6 @@ record:
     - enterprise
     score: 100
     theme: enterprise-admin
-  - matched_terms:
-    - apps
-    score: 50
-    theme: apps-integrations
-  - matched_terms:
-    - macos
-    score: 50
-    theme: mobile-desktop
   - matched_terms:
     - browsing
     score: 50
@@ -117,7 +109,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
+- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

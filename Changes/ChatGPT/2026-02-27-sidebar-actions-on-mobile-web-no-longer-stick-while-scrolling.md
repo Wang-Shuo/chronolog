@@ -1,23 +1,23 @@
 ---
 card_id: chatgpt-2026-02-27-c43164
 date: '2026-02-27'
-description: 'ChatGPT · 2026-02-27 · Mobile and Desktop: Sidebar actions on mobile
+description: 'ChatGPT · 2026-02-27 · Interface Experience: Sidebar actions on mobile
   web no longer stick while scrolling'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1081
+  lag_days: 1145
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: mobile-desktop
+  theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 030c578f30485a88fcdc996ee757f86611b257c768eac6e60f16345e66022360
+machine_hash: b7861557d49eb07df18dbf632f56d8c4a4f64aa1d5a71e5c2ed55480badee6bb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,29 +38,19 @@ record:
   slug: sidebar-actions-on-mobile-web-no-longer-stick-while-scrolling
   source_release: chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c
   source_type: chatgpt_changelog
-  theme: mobile-desktop
-  theme_matches:
-  - matched_terms:
-    - sidebar
-    score: 50
-    theme: interface-experience
-  - matched_terms:
-    - mobile
-    score: 50
-    theme: mobile-desktop
-  theme_resolution: manual-semantic-rule-v1
+  theme: interface-experience
   title: Sidebar actions on mobile web no longer stick while scrolling
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-windows-notifications-now-have-accept-reject-buttons-like-macos|Windows
-  notifications now have accept/reject buttons like MacOS]]'
-- '[[Changes/Claude Code/2026-02-13-added-windows-arm64-win32-arm64-native-binary-support|Added
-  Windows ARM64 (win32-arm64) native binary support]]'
-- '[[Changes/Cursor/2026-02-18-2-mobile-and-desktop-changes-in-cli-improvements-and-mermaid-ascii|2
-  Mobile and Desktop changes in CLI Improvements and Mermaid ASCII…]]'
+- '[[Changes/Claude Code/2026-02-26-improved-ordering-of-short-task-lists|Improved
+  ordering of short task lists]]'
+- '[[Changes/Claude Code/2026-02-26-added-copy-command-to-show-an-interactive-picker-when-code-blocks-are-present-al|Added
+  /copy command to show an interactive picker when code blocks are present…]]'
+- '[[Changes/ChatGPT/2026-02-27-automatic-scroll-to-latest-message-existing-conversations-now-automatically-scro|Automatic
+  scroll to latest message]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c]]'
 source_type: chatgpt_changelog
-theme: mobile-desktop
+theme: interface-experience
 title: Sidebar actions on mobile web no longer stick while scrolling
 type: change
 ---
@@ -68,7 +58,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Sidebar actions on mobile web no longer stick while scrolling
 
-**ChatGPT** · 2026-02-27 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations) · from [[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|ChatGPT Web and Android updates: Edit image prompts, share faster, and smoother conversations]]
+**ChatGPT** · 2026-02-27 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations) · from [[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|ChatGPT Web and Android updates: Edit image prompts, share faster, and smoother conversations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -90,16 +80,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Mobile and Desktop
+## Nearby in Interface Experience
 
-- Earlier: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-2-mobile-and-desktop-changes-in-cli-improvements-and-mermaid-ascii|2 Mobile and Desktop changes in CLI Improvements and Mermaid ASCII…]]
-- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-2-mobile-and-desktop-changes-in-v2-1-69|2 Mobile and Desktop changes in v2.1.69]]
+- Earlier: 2026-02-26 · Claude Code · [[Changes/Claude Code/2026-02-26-added-copy-command-to-show-an-interactive-picker-when-code-blocks-are-present-al|Added /copy command to show an interactive picker when code blocks are present…]]
+- Later: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-added-always-copy-full-response-option-to-the-copy-picker-when-selected-future-c|Added "Always copy full response" option to the /copy picker]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

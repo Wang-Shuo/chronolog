@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 25b91f5c82b865f8d3c6a43ab9ed5487c96672fa1e4618f29e44d44823898b0e
+machine_hash: 2262c987225211d498f59efa8b1fc6aee61b831603890b2320156bb206590d27
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
 related_changes:
 - '[[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a-b1834a|Admins
   can now create a team marketplace without connecting a repository first]]'
-- '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams-5c75c9|Cursor
-  is now available in Microsoft Teams]]'
+- '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is
+  now available in Microsoft Teams]]'
 - '[[Changes/Cursor/2026-05-20-shared-canvases-a27a45|Shared canvases]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa|claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa]]'
 source_type: github_releases

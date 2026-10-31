@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a4847411001b0ff786a04c062254cbb10877d225d5882e3a391b345cf0990cdb
+machine_hash: f8cf55288567c1beaa73acc593ae996bbd03c58107af1b7c623cafd33a6b90af
 product: claude-code
 product_name: Claude Code
 record:
@@ -73,12 +73,12 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-03-17-show-a-notice-when-apikeyhelper-takes-longer-than-10s-preventing-it-from-blockin|Show a notice when apiKeyHelper takes longer than 10s, preventing it from blocking…]] · Automation and Scheduling
+- [[Changes/Claude Code/2026-03-17-vscode-when-option-click-doesn-t-trigger-native-selection-on-macos-the-footer-no|VSCode When option+click doesn't trigger native selection on macOS, the footer now…]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-03-17-vscode-improved-plan-preview-tab-titles-to-use-the-plan-s-heading-instead-of-cla|VSCode Improved plan preview tab titles to use the plan's heading instead…]] · Editor Experience
 - [[Changes/Claude Code/2026-03-17-copy-now-accepts-an-optional-index-copy-n-copies-the-nth-latest-assistant-respon|/copy now accepts an optional index: /copy N copies the Nth-latest assistant response]] · Interface Experience
 - [[Changes/Claude Code/2026-03-17-2-apps-and-integrations-changes-in-v2-1-77|2 Apps and Integrations changes in v2.1.77]] · Apps and Integrations
-- [[Changes/Claude Code/2026-03-17-faster-resume-on-fork-heavy-and-very-large-sessions-up-to-45-faster-loading-and|Faster --resume on fork-heavy and very large sessions]] · Reliability and Performance
+- [[Changes/Claude Code/2026-03-17-2-reliability-and-performance-changes-in-v2-1-77|2 Reliability and Performance changes in v2.1.77]] · Reliability and Performance
 - [[Changes/Claude Code/2026-03-17-3-safety-and-privacy-changes-in-v2-1-77|3 Safety and Privacy changes in v2.1.77]] · Safety and Privacy
-- [[Changes/Claude Code/2026-03-17-2-mobile-and-desktop-changes-in-v2-1-77|2 Mobile and Desktop changes in v2.1.77]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-03-17-2-agent-mode-changes-in-v2-1-77|2 Agent Mode changes in v2.1.77]] · Agent Mode
 - [[Changes/Claude Code/2026-03-17-increased-default-maximum-output-token-limits-for-claude-opus-4-6-to-64k-tokens|Increased default maximum output token limits for Claude Opus 4.6 to 64k tokens…]] · Model Support
 - [[Changes/Claude Code/2026-03-17-3-other-changes-in-v2-1-77|3 other changes in v2.1.77]] · Other changes

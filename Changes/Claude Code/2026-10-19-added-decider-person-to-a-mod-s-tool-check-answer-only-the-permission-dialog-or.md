@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8b49ab9754cb025924f53d78de4203e274a7fa8b10c8f24181689ec692ef060e
+machine_hash: 614bc054691632ecfc1bb1efbf6e732efdd13a0a5189ab135a8a105bccb7e14d
 product: claude-code
 product_name: Claude Code
 record:
@@ -79,14 +79,13 @@ type: change
 
 - [[Changes/Claude Code/2026-10-19-added-a-warning-on-pro-and-max-plans-when-resuming-an-inactive-conversation-woul|Added a warning on Pro and Max plans when resuming an inactive conversation would…]] · Collaboration
 - [[Changes/Claude Code/2026-10-19-windows-improved-git-command-start-up-with-a-standard-git-for-windows-install-by|Windows: Improved git command start-up with a standard Git for Windows install…]] · Mobile and Desktop
-- [[Changes/Claude Code/2026-10-19-improved-responsiveness-and-throughput-when-many-subagents-are-running-at-the-sa|Improved responsiveness and throughput when many subagents are running at the same time]] · Reliability and Performance
 - [[Changes/Claude Code/2026-10-19-3-context-window-changes-in-v2-1-304|3 Context Window changes in v2.1.304]] · Context Window
 - [[Changes/Claude Code/2026-10-19-8-apps-and-integrations-changes-in-v2-1-304|8 Apps and Integrations changes in v2.1.304]] · Apps and Integrations
 - [[Changes/Claude Code/2026-10-19-2-agent-mode-changes-in-v2-1-304|2 Agent Mode changes in v2.1.304]] · Agent Mode
 - [[Changes/Claude Code/2026-10-19-3-developer-workflow-changes-in-v2-1-304|3 Developer Workflow changes in v2.1.304]] · Developer Workflow
 - [[Changes/Claude Code/2026-10-19-added-claude-api-managed-agents-secure-which-compares-a-managed-agents-agent-s-s|Added /claude-api managed-agents-secure, which compares a Managed Agents agent's…]] · Agent Mode
 - [[Changes/Claude Code/2026-10-19-2-model-support-changes-in-v2-1-304|2 Model Support changes in v2.1.304]] · Model Support
-- [[Changes/Claude Code/2026-10-19-improved-memory-use-when-sending-requests-in-long-or-resumed-conversations|Improved memory use when sending requests in long or resumed conversations]] · Memory and Personalization
+- [[Changes/Claude Code/2026-10-19-2-reliability-and-performance-changes-in-v2-1-304|2 Reliability and Performance changes in v2.1.304]] · Reliability and Performance
 - [[Changes/Claude Code/2026-10-19-9-other-changes-in-v2-1-304|9 other changes in v2.1.304]] · Other changes
 <!-- chronolog:end -->
 

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: 75eaec562a1776d56a88470ec7219c61d510bc191b8dbefeff207e3d76072de5
+machine_hash: 9da4a8cabbb32aee8164b2402228b5a48bf8139b7859949cb775d54c7a58056a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,26 +46,13 @@ record:
   source_release: chatgpt-2024-04-29-memory-is-now-available-to-plus-users-4ba2f306
   source_type: chatgpt_changelog
   theme: memory
-  theme_matches:
-  - matched_terms:
-    - memory
-    score: 110
-    theme: memory
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
   title: Memory is now available to Plus users
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-07-this-should-reduce-any-significant-memory-issues-that-users-have-been-experienci|This
-  should reduce any significant memory issues that users have been experiencing]]'
-- '[[Changes/Cursor/2023-09-08-better-state-management-prevents-crashes-from-editor-using-too-much-memory|Better
-  state management - prevents crashes from editor using too much memory]]'
+- '[[Changes/ChatGPT/2023-08-09-custom-instructions-are-now-available-to-chatgpt-users-on-the-free-plan-except-f-963d1e|Custom
+  instructions are now available to free users]]'
+- '[[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king-cfc1d5|Custom
+  instructions are now available to users in the EU & UK]]'
 - '[[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|Memory
   and new controls for ChatGPT]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-04-29-memory-is-now-available-to-plus-users-4ba2f306|chatgpt-2024-04-29-memory-is-now-available-to-plus-users-4ba2f306]]'
@@ -95,7 +82,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2024-02-13 · ChatGPT · [[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|Memory and new controls for ChatGPT]]
-- Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-2-memory-and-personalization-changes-in-0-46-x|2 Memory and Personalization changes in 0.46.x]]
+- Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-0-46-9-memory-and-performances-fixes-composer-chat-remembers-your-last-mode-sele|0.46.9: Memory and performances fixes, composer/chat remembers your last mode…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8a6fb8a61067a99b3d8a15859d8d93f182f7639ef0ab7f2d3e34ed82ddc02956
+machine_hash: 6c4932e3dffde5fd07ac79372b7d004ada12cd80478916988e8c1a4dc8856d58
 product: cursor
 product_name: Cursor
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-3-developer-workflow-changes-in-2-0|3 Developer Workflow changes in 2.0]]
-- Later: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-added-lsp-language-server-protocol-tool-for-code-intelligence-features-like-go-t|Added LSP (Language Server Protocol) tool for code intelligence features like…]]
+- Later: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-added-terminal-setup-support-for-kitty-alacritty-zed-and-warp-terminals|Added /terminal-setup support for Kitty, Alacritty, Zed, and Warp terminals]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

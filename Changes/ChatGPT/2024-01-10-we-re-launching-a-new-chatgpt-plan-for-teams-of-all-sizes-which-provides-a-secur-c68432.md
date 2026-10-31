@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: fb45b67957b58da7575573ad9e6da9ae58c161b380a34ea0021df541db6105e2
+machine_hash: 86a004d7f4a748d9cac3038b60622ce0c152bc30c56880810dbf5c44e1852490
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
-- Later: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Later: 2024-08-22 · Cursor · [[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer is now default-on and available to all Pro/Business users by hitting cmd+I]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

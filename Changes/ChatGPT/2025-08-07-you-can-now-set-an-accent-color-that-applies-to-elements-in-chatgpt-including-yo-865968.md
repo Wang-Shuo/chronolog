@@ -1,24 +1,23 @@
 ---
 card_id: chatgpt-2025-08-07-865968
 date: '2025-08-07'
-description: 'ChatGPT · 2025-08-07 · Mobile and Desktop: You can now set an accent
-  color that applies to elements in ChatGPT, including your conversation bubbles,
-  the Voice…'
+description: 'ChatGPT · 2025-08-07 · Voice and Audio: You can now set an accent color
+  that applies to elements in ChatGPT, including your conversation bubbles, the Voice…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
+    (Beta) is now rolling out to Plus users on iOS and Android]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 877
+  lag_days: 682
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: mobile-desktop
+  theme: voice
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 849833381b013f239d6872177fa249ccf7805e83127d122b509c9106bccf4e37
+machine_hash: 74a1db1b290ef414b7651cce9ecf169a34cb750c23a5000dc14bfc4e58c4db9b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,14 +46,8 @@ record:
   slug: you-can-now-set-an-accent-color-that-applies-to-elements-in-chatgpt-including-yo
   source_release: chatgpt-2025-08-07-accent-colors-d6573a1d
   source_type: chatgpt_changelog
-  theme: mobile-desktop
+  theme: voice
   theme_matches:
-  - matched_terms:
-    - android
-    - ios
-    - mobile
-    score: 150
-    theme: mobile-desktop
   - matched_terms:
     - voice
     score: 110
@@ -70,15 +63,15 @@ record:
   title: Accent Colors
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload
-  files and access model selector on mobile]]'
-- '[[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|Record
-  mode is now available to ChatGPT Plus users globally in the macOS desktop app]]'
-- '[[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-6e22f0|Study
-  mode is currently available to users in Free, Plus, Pro, and Teams plans…]]'
+- '[[Changes/ChatGPT/2025-07-16-record-live-conversations-like-team-meetings-or-voice-notes-and-turn-those-into|Record
+  live conversations like team meetings or voice notes, and turn those…]]'
+- '[[Changes/ChatGPT/2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat|Updates
+  to Advanced Voice Mode for Free tier users]]'
+- '[[Changes/ChatGPT/2025-08-07-today-we-re-rolling-out-improvements-to-voice-mode-to-make-it-more-accessible-an-055388|ChatGPT
+  Voice updates]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-accent-colors-d6573a1d|chatgpt-2025-08-07-accent-colors-d6573a1d]]'
 source_type: chatgpt_changelog
-theme: mobile-desktop
+theme: voice
 title: Accent Colors
 type: change
 ---
@@ -86,7 +79,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Accent Colors
 
-**ChatGPT** · 2025-08-07 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#accent-colors) · from [[Releases/ChatGPT/chatgpt-2025-08-07-accent-colors-d6573a1d|Accent Colors]]
+**ChatGPT** · 2025-08-07 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#accent-colors) · from [[Releases/ChatGPT/chatgpt-2025-08-07-accent-colors-d6573a1d|Accent Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -100,16 +93,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Mobile and Desktop
+## Nearby in Voice and Audio
 
-- Earlier: 2025-07-29 · ChatGPT · [[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-6e22f0|Study mode is currently available to users in Free, Plus, Pro, and Teams plans…]]
-- Later: 2025-08-22 · ChatGPT · [[Changes/ChatGPT/2025-08-22-this-feature-will-initially-only-be-available-on-the-chatgpt-website-and-windows|This feature will initially only be available on the ChatGPT website and Windows app]]
+- Earlier: 2025-08-07 · ChatGPT · [[Changes/ChatGPT/2025-08-07-today-we-re-rolling-out-improvements-to-voice-mode-to-make-it-more-accessible-an-055388|ChatGPT Voice updates]]
+- Later: 2025-08-07 · ChatGPT · [[Changes/ChatGPT/2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali-b6826c|Personalities]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

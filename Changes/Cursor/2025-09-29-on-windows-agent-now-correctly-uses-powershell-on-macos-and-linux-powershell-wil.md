@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 84b8880281185bd8570d0ec1fd3c6554c913d50f7e22fe0c65fb02b2323ca1a4
+machine_hash: acc3126819127810382fd2bc643f2b847ba8416489dc5d951ae683fcdf2f2a1c
 product: cursor
 product_name: Cursor
 record:
@@ -65,6 +65,7 @@ related_changes:
   thinking-time toggle is live today on chatgpt.com]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
 source_type: cursor_changelog
+superseded: true
 theme: mobile-desktop
 title: On Windows, Agent now correctly uses PowerShell
 type: change

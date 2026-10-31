@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 995019dadbf042993fa247be2183cdba3e4078776f260e0a0909c9e98a1f78b5
+machine_hash: 3b3e35e55db2e31f29bc93615087a63f86c1d8524ddbb4a874ee807a98a409ed
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: Improved brief mode to retry once when Claude responds with plain text instead…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-02-improved-performance-faster-stripansi-on-bun-by-routing-through-bun-stripansi|Improved
-  performance: faster stripAnsi on Bun by routing through Bun.stripANSI]]'
+- '[[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file
+  diff rendering is now much faster, smoother, and less memory-heavy]]'
 - '[[Changes/Claude Code/2026-04-04-improved-write-tool-diff-computation-speed-for-large-files-60-faster-on-files-wi|Improved
   Write tool diff computation speed for large files…]]'
 - '[[Changes/Claude Code/2026-04-09-fixed-a-memory-leak-where-remote-control-permission-handler-entries-were-retaine|Fixed

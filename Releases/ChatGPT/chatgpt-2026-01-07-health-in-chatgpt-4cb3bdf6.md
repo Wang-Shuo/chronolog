@@ -2,8 +2,8 @@
 changes_count: 2
 date: '2026-01-07'
 description: 'ChatGPT release Health in ChatGPT on 2026-01-07: 2 tracked changes across
-  Memory and Personalization, Mobile and Desktop'
-machine_hash: 66c85043ed37c0c6fc471bd1183a488d3e639bcff671efeead85e8f4f8eed6a7
+  Interface Experience, Memory and Personalization'
+machine_hash: b100c85004675f2a6a03b84820bbe857e31cc4515e973dfb12a0baf6aec8478f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,6 +46,6 @@ Tracked 2 cards from 3 candidate lines.
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health appears as a new space in the ChatGPT sidebar]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health appears as a new space in the ChatGPT sidebar]] · Interface Experience
 - [[Changes/ChatGPT/2026-01-07-we-re-starting-to-roll-out-health-a-dedicated-space-in-chatgpt-for-health-and-we|We’re starting to roll out Health, a dedicated space in ChatGPT for health…]] · Memory and Personalization
 <!-- chronolog:end -->

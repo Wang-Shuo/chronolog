@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6be0ca6ec53e9b1495c4d8e34ded94db4671faa2e2bb621661421ef43ac50c32
+machine_hash: 84b4ab1be2dc70ade48cc84b7dc7b7e6d38443ddac4110d76ed8ddb90add5d3e
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Reliability and Performance changes in v2.1.176
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-reliability-performance-and-platform-improvements|Reliability,
-  performance, and platform improvements]]'
+- '[[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run
+  correlation: Every send() now carries a platform-generated requestId, exposed…]]'
 - '[[Changes/Claude Code/2026-06-10-improved-performance-in-long-conversations-by-removing-redundant-message-normali|Improved
   performance in long conversations by removing redundant message…]]'
 - '[[Changes/Cursor/2026-06-10-the-average-review-time-for-bugbot-is-now-90-seconds-down-from-5-minutes-bugbot-362593|The

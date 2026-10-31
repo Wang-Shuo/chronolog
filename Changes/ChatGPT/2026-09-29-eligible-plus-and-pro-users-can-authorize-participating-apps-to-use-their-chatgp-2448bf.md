@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4246da637f13ea518e95d723ff1569a8f4bbfe6ca22fc224fcc710d4876e8538
+machine_hash: 60260a2b689a0a78821e072fdfc2f338d775ea8b2727add7f9418a046b4fb50a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -72,6 +72,7 @@ related_changes:
   changes in v2.1.284]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3|chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: model-support
 title: Use your ChatGPT allowance in participating apps
 type: change

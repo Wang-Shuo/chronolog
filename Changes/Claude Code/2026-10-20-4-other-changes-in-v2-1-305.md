@@ -7,7 +7,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d7804ba8970c7af3d57413220bef95d5c4b2987555f8840c3a01f164d2edb566
+machine_hash: 6a98fc5e1e1d69017760f7b36f34c78a392e568476bd09289cefa035a5a41840
 product: claude-code
 product_name: Claude Code
 record:
@@ -70,10 +70,9 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.305
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-10-20-changed-plugins-that-claude-desktop-mounts-by-path-to-no-longer-keep-their-allow|Changed plugins that Claude Desktop mounts by path to no longer keep…]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-10-20-2-developer-workflow-changes-in-v2-1-305|2 Developer Workflow changes in v2.1.305]] · Developer Workflow
-- [[Changes/Claude Code/2026-10-20-3-apps-and-integrations-changes-in-v2-1-305|3 Apps and Integrations changes in v2.1.305]] · Apps and Integrations
 - [[Changes/Claude Code/2026-10-20-vscode-changed-the-message-shown-when-a-session-does-not-start-in-time-and-no-ho|VSCode Changed the message shown when a session does not start in time and no hook…]] · Account and Access
+- [[Changes/Claude Code/2026-10-20-4-apps-and-integrations-changes-in-v2-1-305|4 Apps and Integrations changes in v2.1.305]] · Apps and Integrations
 - [[Changes/Claude Code/2026-10-20-3-safety-and-privacy-changes-in-v2-1-305|3 Safety and Privacy changes in v2.1.305]] · Safety and Privacy
 - [[Changes/Claude Code/2026-10-20-claude-tag-added-public-slack-channels-claude-hasn-t-joined-to-the-claude-tag-ad|Claude Tag Added public Slack channels Claude hasn't joined to the Claude Tag…]] · Enterprise and Administration
 - [[Changes/Claude Code/2026-10-20-improved-a-mod-s-image-to-draw-its-picture-in-iterm2-3-5-and-later-with-fullscre|Improved a mod's Image to draw its picture in iTerm2 3.5 and later with fullscreen…]] · Interface Experience

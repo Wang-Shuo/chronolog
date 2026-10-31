@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f465ff1cab914233199269104d6277486100cad0abf3d1d9b32f28f4af36132a
+machine_hash: 0cd9aa20b213a4a351c2439b05e1114ef3091ef0fe3523be70247e6114c741b0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,8 +46,8 @@ record:
 related_changes:
 - '[[Changes/ChatGPT/2024-04-29-memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w-4db29a|Memory
   is now available to Plus users]]'
-- '[[Changes/Cursor/2025-02-19-2-memory-and-personalization-changes-in-0-46-x|2 Memory
-  and Personalization changes in 0.46.x]]'
+- '[[Changes/Cursor/2025-02-19-0-46-9-memory-and-performances-fixes-composer-chat-remembers-your-last-mode-sele|0.46.9:
+  Memory and performances fixes, composer/chat remembers your last mode…]]'
 - '[[Changes/ChatGPT/2025-04-16-chatgpt-can-also-use-memories-to-inform-search-queries-when-chatgpt-searches-the|Memory
   with Search]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35|chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35]]'

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7eaa12f6e9140b985b543babd8572ba59beedead38eed3e44cb3aec142901371
+machine_hash: 31836cf18391d940a25a34bf379a8b14959009a6261899b6b1259c2dbd21c476
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,9 +46,10 @@ record:
   title: 2 Developer Workflow changes in v2.1.238
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-13-build-history-and-debugging|Build history and debugging]]'
 - '[[Changes/Claude Code/2026-08-14-added-gitlab-merge-request-url-support-to-the-worktree-flag-and-the-claude-agent|Added
   GitLab merge request URL support to the --worktree flag…]]'
+- '[[Changes/Claude Code/2026-08-17-remote-control-effort-picks-made-on-a-phone-or-on-claude-ai-code-now-apply-to-te|Remote
+  Control: effort picks made on a phone or on claude.ai/code now apply…]]'
 - '[[Changes/Claude Code/2026-08-19-2-developer-workflow-changes-in-v2-1-236|2 Developer
   Workflow changes in v2.1.236]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2|claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2]]'

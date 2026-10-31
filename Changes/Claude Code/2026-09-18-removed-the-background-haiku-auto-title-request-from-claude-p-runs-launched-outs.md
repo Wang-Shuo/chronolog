@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1276056586ec3f949950cff121bdaeb93d59537e87a2fe8e96b711e3bfa6293f
+machine_hash: 3b590d7311ef3f9284637e06455b591e912cabca6434beb086085c215c99ba4e
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,6 +50,7 @@ related_changes:
   Added a claudeCode.lockEditorGroups setting to stop Claude from locking…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36|claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36]]'
 source_type: github_releases
+superseded: true
 theme: editor-experience
 title: Removed the background Haiku auto-title request from claude -p runs launched…
 type: change

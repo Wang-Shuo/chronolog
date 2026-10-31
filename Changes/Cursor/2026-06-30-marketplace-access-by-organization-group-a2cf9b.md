@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a9a35855dc5a724b43f6ba1d014229c7d736e75b3b9e86e51e8177a32402fb44
+machine_hash: 335a43220992e51de9bf6ec699c215f31c0b4b08700ee21984892a35155ec84e
 product: cursor
 product_name: Cursor
 record:
@@ -49,8 +49,9 @@ record:
   title: Marketplace access by organization group
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World
+  Cup updates]]'
 - '[[Changes/Cursor/2026-06-22-new-team-marketplaces|New Team Marketplaces]]'
-- '[[Changes/Cursor/2026-06-22-marketplace-leaderboard-654084|Marketplace leaderboard]]'
 - '[[Changes/Cursor/2026-06-30-team-mcps-in-team-marketplaces-27f9ef|Team MCPs in
   team marketplaces]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-30-3-10-https-cursor-com-changelog-team-marketplace-updates-eb3caab2|cursor-2026-06-30-3-10-https-cursor-com-changelog-team-marketplace-updates-eb3caab2]]'
@@ -86,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-06-22 · Cursor · [[Changes/Cursor/2026-06-22-marketplace-leaderboard-654084|Marketplace leaderboard]]
+- Earlier: 2026-06-22 · Cursor · [[Changes/Cursor/2026-06-22-new-team-marketplaces|New Team Marketplaces]]
 - Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w|Existing group chats will remain available and can continue to be used for now]]
 <!-- chronolog:end -->
 

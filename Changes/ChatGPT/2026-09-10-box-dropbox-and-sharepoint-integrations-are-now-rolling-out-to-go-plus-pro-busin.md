@@ -5,10 +5,10 @@ description: 'ChatGPT · 2026-09-10 · Enterprise and Administration: Box, Dropb
   and SharePoint integrations are now rolling out to Go, Plus, Pro, Business, Edu,
   Healthcare…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
-    users can only access stable release (no pre-release)]]'
+  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
+    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 463
+  lag_days: 904
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: 88562bc9409554231cdac3bb7435b4fc962b73e57e442c92d39f945f43e1f602
+machine_hash: 8ea0de23523091c50a30c1832e77e8b2b3fb0aa60e6e0ca6bc801c634987c370
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,10 +56,6 @@ record:
     - integrations
     score: 50
     theme: apps-integrations
-  - matched_terms:
-    - mobile
-    score: 50
-    theme: mobile-desktop
   title: Box, Dropbox, and SharePoint integrations are now rolling out to Go, Plus,
     Pro…
   type: change
@@ -106,7 +102,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
+- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

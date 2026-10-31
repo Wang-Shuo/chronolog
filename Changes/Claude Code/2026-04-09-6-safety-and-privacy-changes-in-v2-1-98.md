@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c0c38962327d445ed9256fc3fa68c1dc3596da7ba62ccc0dfd109d36307eea60
+machine_hash: 5ce8826b95dde146cb37bc94cc519a3c7e564ec4d94ca02b3b7c1d28598db6d2
 product: claude-code
 product_name: Claude Code
 record:
@@ -65,6 +65,7 @@ related_changes:
   and Privacy changes in v2.1.97]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-09-v2-1-98-github-307232194-a0774436|claude-code-2026-04-09-v2-1-98-github-307232194-a0774436]]'
 source_type: github_releases
+superseded: true
 theme: safety-privacy
 title: 6 Safety and Privacy changes in v2.1.98
 type: change

@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2d74fcbfe1305198d5deca66c60b0ad8d913fd99d758526044d143ed6553c879
+machine_hash: c056484c630dad8b65aced9388153371a71bde0f5f7a22ee0cec8035895bc4e5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,8 +44,8 @@ record:
     you do…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-2-collaboration-changes-in-0-48-x|2 Collaboration changes
-  in 0.48.x]]'
+- '[[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved
+  indexing performance for teams sharing codebases]]'
 - '[[Changes/Cursor/2025-06-04-admin-api-for-teams-to-access-usage-metrics-and-spend-data|Admin
   API for teams to access usage metrics and spend data]]'
 - '[[Changes/ChatGPT/2025-06-12-sharing-chats-from-projects|Sharing chats from projects]]'
@@ -72,7 +72,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload files and access model selector on mobile]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload files and access model selector on mobile]] · Model Support
 - [[Changes/ChatGPT/2025-06-12-sharing-chats-from-projects|Sharing chats from projects]] · Collaboration
 - [[Changes/ChatGPT/2025-06-12-starting-a-new-project-directly-from-a-chat|Starting a new project directly from a chat]] · Projects and Workspaces
 - [[Changes/ChatGPT/2025-06-12-improvements-to-memory-to-reference-past-chats-in-a-project|Improvements to memory to reference past chats in a project]] · Memory and Personalization

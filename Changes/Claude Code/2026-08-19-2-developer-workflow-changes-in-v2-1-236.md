@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: acc2165137a81e47cb54b6fe986785390a61c875f554f4a6480a6ea47e23db30
+machine_hash: 9f257f25ceecf95eed4eebb366888b05be62922ddc7910655406a2f7d1f9d28f
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,11 @@ record:
   title: 2 Developer Workflow changes in v2.1.236
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-13-remote-control-the-terminal-now-says-whether-a-session-was-taken-over-by-another|Remote
-  Control: the terminal now says whether a session was taken over by another…]]'
 - '[[Changes/Cursor/2026-08-13-build-history-and-debugging|Build history and debugging]]'
 - '[[Changes/Claude Code/2026-08-14-added-gitlab-merge-request-url-support-to-the-worktree-flag-and-the-claude-agent|Added
   GitLab merge request URL support to the --worktree flag…]]'
+- '[[Changes/Claude Code/2026-08-17-remote-control-effort-picks-made-on-a-phone-or-on-claude-ai-code-now-apply-to-te|Remote
+  Control: effort picks made on a phone or on claude.ai/code now apply…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79|claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79]]'
 source_type: github_releases
 theme: developer-workflow
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.236
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-added-gitlab-merge-request-url-support-to-the-worktree-flag-and-the-claude-agent|Added GitLab merge request URL support to the --worktree flag…]]
+- Earlier: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-remote-control-effort-picks-made-on-a-phone-or-on-claude-ai-code-now-apply-to-te|Remote Control: effort picks made on a phone or on claude.ai/code now apply…]]
 - Later: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-2-developer-workflow-changes-in-v2-1-238|2 Developer Workflow changes in v2.1.238]]
 <!-- chronolog:end -->
 

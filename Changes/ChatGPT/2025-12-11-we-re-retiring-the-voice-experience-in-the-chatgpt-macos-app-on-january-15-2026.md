@@ -4,8 +4,8 @@ date: '2025-12-11'
 description: 'ChatGPT · 2025-12-11 · Voice and Audio: We’re retiring the Voice experience
   in the ChatGPT macOS app on January 15, 2026. This change allows us to focus on…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
-    are beginning to roll out new voice and image capabilities in ChatGPT]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
+    (Beta) is now rolling out to Plus users on iOS and Android]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 808
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: bb299ef2013b906640688ca7a9c1e4c8f53ac49f6b8e3652d586ac1d0f27c15b
+machine_hash: d45bb6aec68556eb0156f95c5735a8da0df0ca0a08e7af2536aae36e73557a9e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,19 +42,6 @@ record:
   source_release: chatgpt-2025-12-11-voice-on-macos-desktop-app-is-retiring-effective-january-15-2026-189e8580
   source_type: chatgpt_changelog
   theme: voice
-  theme_matches:
-  - matched_terms:
-    - voice
-    score: 110
-    theme: voice
-  - matched_terms:
-    - apps
-    score: 50
-    theme: apps-integrations
-  - matched_terms:
-    - macos
-    score: 50
-    theme: mobile-desktop
   title: We’re retiring the Voice experience in the ChatGPT macOS app on January 15,
     2026
   type: change
@@ -100,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

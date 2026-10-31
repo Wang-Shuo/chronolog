@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 668bf74be727b60a7a7616fba0ea413a0ea6e9e28967e02cfb936e5bba42c9da
+machine_hash: aa72e77dfd49c458d6a21b15e868cb3f8ef58834fdd394b12e40e82060f0e98a
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: Improved Write tool diff computation speed for large files…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-improved-scroll-performance-with-large-transcripts-by-replacing-wasm-yoga-layout|Improved
-  scroll performance with large transcripts by replacing WASM yoga-layout…]]'
 - '[[Changes/Claude Code/2026-04-01-2-reliability-and-performance-changes-in-v2-1-90|2
   Reliability and Performance changes in v2.1.90]]'
 - '[[Changes/Claude Code/2026-04-02-improved-performance-faster-stripansi-on-bun-by-routing-through-bun-stripansi|Improved
   performance: faster stripAnsi on Bun by routing through Bun.stripANSI]]'
+- '[[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file
+  diff rendering is now much faster, smoother, and less memory-heavy]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5|claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5]]'
 source_type: github_releases
 theme: reliability-performance
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-04-02 · Claude Code · [[Changes/Claude Code/2026-04-02-improved-performance-faster-stripansi-on-bun-by-routing-through-bun-stripansi|Improved performance: faster stripAnsi on Bun by routing through Bun.stripANSI]]
+- Earlier: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file diff rendering is now much faster, smoother, and less memory-heavy]]
 - Later: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-fixed-a-memory-leak-where-remote-control-permission-handler-entries-were-retaine|Fixed a memory leak where Remote Control permission handler entries were retained…]]
 <!-- chronolog:end -->
 

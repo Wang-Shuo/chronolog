@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4639904bbe227125b70bffe7d17612da959f1632908d993d5dcd00b4ec4d58e9
+machine_hash: ea11a11db52385082ecc94f5eefe1858141d3b437bd6ad8bfa41d8336a2ac858
 product: cursor
 product_name: Cursor
 record:
@@ -58,6 +58,7 @@ related_changes:
   Pulse on Web]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
+superseded: true
 theme: memory
 title: Increased default memory for TypeScript language server
 type: change
