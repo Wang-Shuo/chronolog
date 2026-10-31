@@ -1,10 +1,10 @@
 ---
 created: '2023-01-09'
-date: '2026-10-20'
+date: '2026-10-27'
 description: Cross-product timeline of Interface Experience changes in ChatGPT, Claude
   Code and Cursor.
-machine_hash: 70d882a5b20359fc3e09e924b9ffce7489753a588b38a103c953b74b723b0438
-modified: '2026-10-20'
+machine_hash: ab0894ff736920a519815facdbae1e1417669f2fa86dfa7715483c90e3f1d4f5
+modified: '2026-10-27'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Interface Experience
 <!-- chronolog:begin region="header" -->
 # Interface Experience
 
-217 tracked changes across ChatGPT, Claude Code and Cursor · 2023-01-09 → 2026-10-20 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
+220 tracked changes across ChatGPT, Claude Code and Cursor · 2023-01-09 → 2026-10-27 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -55,10 +55,13 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 154 entries (ChatGPT 14 · Claude Code 122 · Cursor 18)
+### 2026 · 157 entries (ChatGPT 14 · Claude Code 125 · Cursor 18)
 
 #### 2026-10
 
+- 2026-10-27 · **Claude Code** · [[Changes/Claude Code/2026-10-27-2-interface-experience-changes-in-v2-1-312|2 Interface Experience changes in v2.1.312]] · Digest
+- 2026-10-26 · **Claude Code** · [[Changes/Claude Code/2026-10-26-changed-clicks-on-scrollbar-arrows-and-bars-in-fullscreen-lists-to-act-when-the|Changed clicks on scrollbar arrows and bars in fullscreen lists to act…]]
+- 2026-10-23 · **Claude Code** · [[Changes/Claude Code/2026-10-23-improved-a-mod-s-image-to-draw-inside-tmux-with-allow-passthrough-and-focus-even|Improved a mod's Image to draw inside tmux with allow-passthrough…]]
 - 2026-10-20 · **Claude Code** · [[Changes/Claude Code/2026-10-20-improved-a-mod-s-image-to-draw-its-picture-in-iterm2-3-5-and-later-with-fullscre|Improved a mod's Image to draw its picture in iTerm2 3.5 and later with fullscreen…]]
 - 2026-10-15 · **Claude Code** · [[Changes/Claude Code/2026-10-15-2-interface-experience-changes-in-v2-1-301|2 Interface Experience changes in v2.1.301]] · Digest
 - 2026-10-14 · **Claude Code** · [[Changes/Claude Code/2026-10-14-changed-exit-to-force-kill-background-commands-still-running-1-5-seconds-after-b|Changed exit to force-kill background commands still running 1.5 seconds after being…]]

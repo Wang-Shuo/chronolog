@@ -1,9 +1,9 @@
 ---
 created: '2023-07-06'
-date: '2026-10-22'
+date: '2026-10-30'
 description: 'Research question: what changed in delegated execution?'
-machine_hash: cf8b2ae43c210848a433f90fd4c1a4217562624ef68406c4d434e318dea218cd
-modified: '2026-10-22'
+machine_hash: 5c44b94c6a27b5ccde32a5ea63f440a79f79a5ba84d88a46362b7aa43a321c13
+modified: '2026-10-30'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -20,7 +20,7 @@ title: Agent Mode
 <!-- chronolog:begin region="header" -->
 # Agent Mode
 
-255 tracked changes across ChatGPT, Claude Code and Cursor · 2023-07-06 → 2026-10-22 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
+264 tracked changes across ChatGPT, Claude Code and Cursor · 2023-07-06 → 2026-10-30 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -57,12 +57,21 @@ Claude Code's [v2.1.296 on 2026-10-09](https://github.com/anthropics/claude-code
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 199 entries (ChatGPT 3 · Claude Code 120 · Cursor 76)
+### 2026 · 208 entries (ChatGPT 3 · Claude Code 124 · Cursor 81)
 
 #### 2026-10
 
+- 2026-10-30 · **Claude Code** · [[Changes/Claude Code/2026-10-30-3-agent-mode-changes-in-v2-1-314|3 Agent Mode changes in v2.1.314]] · Digest
+- 2026-10-27 · **Claude Code** · [[Changes/Claude Code/2026-10-27-2-agent-mode-changes-in-v2-1-312|2 Agent Mode changes in v2.1.312]] · Digest
+- 2026-10-26 · **Claude Code** · [[Changes/Claude Code/2026-10-26-2-agent-mode-changes-in-v2-1-311|2 Agent Mode changes in v2.1.311]] · Digest
+- 2026-10-23 · **Claude Code** · [[Changes/Claude Code/2026-10-23-2-agent-mode-changes-in-v2-1-310|2 Agent Mode changes in v2.1.310]] · Digest
 - 2026-10-22 · **Claude Code** · [[Changes/Claude Code/2026-10-22-changed-the-claude-api-skill-to-build-managed-agents-subagent-teams-on-multiagen|Changed the /claude-api skill to build Managed Agents subagent teams…]]
 - 2026-10-21 · **Claude Code** · [[Changes/Claude Code/2026-10-21-improved-fork-subagents-launched-together-each-is-now-told-which-launch-is-its-o|Improved fork subagents launched together]]
+- 2026-10-20 · **Cursor** · [[Changes/Cursor/2026-10-20-deploy-agents-wherever-you-need-them|Deploy agents wherever you need them]] · Launch
+- 2026-10-20 · **Cursor** · [[Changes/Cursor/2026-10-20-the-agent-sdk-is-generally-available-today-read-the-docs-and-get-started|The Agent SDK is generally available today]]
+- 2026-10-20 · **Cursor** · [[Changes/Cursor/2026-10-20-evals|Evals]] · Launch
+- 2026-10-20 · **Cursor** · [[Changes/Cursor/2026-10-20-agents-as-code|Agents as code]] · Launch
+- 2026-10-20 · **Cursor** · [[Changes/Cursor/2026-10-20-the-agent-sdk-is-available-today-it-allows-you-to-define-an-agent-as-a-folder-of|The Agent SDK is available today]]
 - 2026-10-19 · **Claude Code** · [[Changes/Claude Code/2026-10-19-2-agent-mode-changes-in-v2-1-304|2 Agent Mode changes in v2.1.304]] · Digest
 - 2026-10-19 · **Claude Code** · [[Changes/Claude Code/2026-10-19-added-claude-api-managed-agents-secure-which-compares-a-managed-agents-agent-s-s|Added /claude-api managed-agents-secure, which compares a Managed Agents agent's…]]
 - 2026-10-16 · **ChatGPT** · [[Changes/ChatGPT/2026-10-16-multiple-agents-that-can-work-on-different-parts-of-a-task-in-parallel-you-can-f|Multiple agents that can work on different parts of a task in parallel]]

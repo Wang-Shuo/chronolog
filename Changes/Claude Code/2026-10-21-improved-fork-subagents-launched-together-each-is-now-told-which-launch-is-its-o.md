@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fafef2d62e752058f903bfde14b5c20a345a2a2d22de19058eff48d1fc3d366e
+machine_hash: 72d77b164fff2a78907cefd75a2d3b7239ec89412bf830f3837eb8c394d54177
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,10 @@ record:
   title: Improved fork subagents launched together
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-16-canvases-from-cloud-agents|Canvases from cloud agents]]'
-- '[[Changes/Claude Code/2026-10-19-2-agent-mode-changes-in-v2-1-304|2 Agent Mode
-  changes in v2.1.304]]'
-- '[[Changes/Claude Code/2026-10-19-added-claude-api-managed-agents-secure-which-compares-a-managed-agents-agent-s-s|Added
-  /claude-api managed-agents-secure, which compares a Managed Agents agent''s…]]'
+- '[[Changes/Cursor/2026-10-20-evals|Evals]]'
+- '[[Changes/Cursor/2026-10-20-agents-as-code|Agents as code]]'
+- '[[Changes/Cursor/2026-10-20-the-agent-sdk-is-available-today-it-allows-you-to-define-an-agent-as-a-folder-of|The
+  Agent SDK is available today]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d|claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d]]'
 source_type: github_releases
 theme: agent-mode
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-added-claude-api-managed-agents-secure-which-compares-a-managed-agents-agent-s-s|Added /claude-api managed-agents-secure, which compares a Managed Agents agent's…]]
+- Earlier: 2026-10-20 · Cursor · [[Changes/Cursor/2026-10-20-the-agent-sdk-is-available-today-it-allows-you-to-define-an-agent-as-a-folder-of|The Agent SDK is available today]]
 - Later: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-changed-the-claude-api-skill-to-build-managed-agents-subagent-teams-on-multiagen|Changed the /claude-api skill to build Managed Agents subagent teams…]]
 <!-- chronolog:end -->
 

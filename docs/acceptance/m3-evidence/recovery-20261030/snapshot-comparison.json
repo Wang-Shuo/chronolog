@@ -1,0 +1,46 @@
+{
+  "old_count": 300,
+  "new_count": 303,
+  "earliest": "2022-12-15",
+  "latest": "2026-10-28",
+  "missing_ids": [],
+  "added": [
+    {
+      "release_id": "chatgpt-2026-10-27-icloud-mail-and-calendar-plugins-in-chatgpt-216bf9bc",
+      "product": "chatgpt",
+      "product_name": "ChatGPT",
+      "date": "2026-10-27",
+      "version": "iCloud Mail and Calendar plugins in ChatGPT",
+      "title": "iCloud Mail and Calendar plugins in ChatGPT",
+      "body": "iCloud users can now connect Mail and Calendar to ChatGPT to find emails, catch up on your inbox, check your schedule, and update calendar events.\nYou can learn more about how ChatGPT uses connected apps here. Available to all ChatGPT plans on the web, desktop app, and iOS.",
+      "source_summary": "iCloud users can now connect Mail and Calendar to ChatGPT to find emails, catch up on your inbox, check your schedule, and update calendar events.",
+      "source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#icloud-mail-and-calendar-plugins-in-chatgpt",
+      "source_type": "chatgpt_changelog"
+    },
+    {
+      "release_id": "chatgpt-2026-10-28-api-credits-for-eligible-chatgpt-pro-and-business-plans-a2290f64",
+      "product": "chatgpt",
+      "product_name": "ChatGPT",
+      "date": "2026-10-28",
+      "version": "API credits for eligible ChatGPT Pro and Business plans",
+      "title": "API credits for eligible ChatGPT Pro and Business plans",
+      "body": "Eligible ChatGPT Pro and Business subscribers can activate promotional API credits to build apps and agents with the OpenAI API. The credits apply to a linked API organization and are separate from ChatGPT usage credits.See API credits benefit for eligible ChatGPT subscriptions for eligibility, activation steps and offer terms.",
+      "source_summary": "Eligible ChatGPT Pro and Business subscribers can activate promotional API credits to build apps and agents with the OpenAI API. The credits apply to a linked API organization and are separate from ChatGPT usage credits.See API credits benefit for eligible ChatGPT subscriptions for eligibility, activation steps and…",
+      "source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#api-credits-for-eligible-chatgpt-pro-and-business-plans",
+      "source_type": "chatgpt_changelog"
+    },
+    {
+      "release_id": "chatgpt-2026-10-28-texting-your-dot-7b46a795",
+      "product": "chatgpt",
+      "product_name": "ChatGPT",
+      "date": "2026-10-28",
+      "version": "Texting your dot",
+      "title": "Texting your dot",
+      "body": "Texting your dot is starting to roll out in beta to Pro users in the U.S.\nYour dot is now just a text away. Reach your dot safely and securely, through iMessage or RCS. Your dot will also text you proactively with updates that may be relevant for you.\nYour dot can only text you, and you’re the only one who can text your dot. This doesn’t give your dot or OpenAI access to your other text conversations.\nTo get started, open your dot’s profile in ChatGPT and select Texting. Make sure iMessage is enabled on your iPhone or RCS is enabled on your Android phone. Texting your dot shares the same memory and plugins as your dot in the ChatGPT app, so context carries over.\nWe use Linq, a third-party messaging provider, to send and receive texts for your dot. As part of our partnership with Linq, we’ve done extensive penetration testing with our frontier models and third-party security firms.",
+      "source_summary": "Texting your dot is starting to roll out in beta to Pro users in the U.S.",
+      "source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#texting-your-dot",
+      "source_type": "chatgpt_changelog"
+    }
+  ],
+  "modified": []
+}

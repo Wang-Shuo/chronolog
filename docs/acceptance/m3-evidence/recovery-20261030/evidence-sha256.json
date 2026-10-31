@@ -1,0 +1,12 @@
+{
+  "build.log": "2c9e67c3d55807031a6bd2297d487325e6f08a6aea7d292008c8fcf257a21e4a",
+  "chatgpt.html": "b0c232648085670c5c2e40452ecbbc9fd13d811f0f4f78a71cc2cf22aeb4de1a",
+  "collection.json": "7d26ca24ad238eac23eddde5b241becba583a4d607a33f15b52da177d33dd049",
+  "collection.json.gz": "ec603a5207e99437b928b3ecffab6a2f9afd5c3e6796cb5160d93f7610f69922",
+  "publication.json": "3105766b2e158be5c1b68800c59a5a9ec74c6bf3d12b158269bab9c29f385e12",
+  "quality.json": "c3c336af255e85bae0362e780cd14f07de2871ac78e2171ccbfe10e4b3ea45c9",
+  "quality.md": "2426da7d659374be8d1fa412e6b04beba3f3929c7564c9679799c6fd235175f0",
+  "snapshot-capture.json": "d3207573cf7e9affefc8756fbed82c7f706b46180a613c7da935ac6fcfee4f61",
+  "tests.log": "a2948329ee114419e8187dff1ec2a71361953b917c38773f4e58e64316516112",
+  "vault-validation.json": "b27444b77c31a93fa930fe31963d164b3f3c9a9b94fa20698166a2afa05eb255"
+}

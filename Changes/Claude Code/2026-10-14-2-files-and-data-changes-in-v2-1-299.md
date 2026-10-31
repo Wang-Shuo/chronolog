@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d43f7fe813238ed2011f0d8528a095e3298eaceadc59501776f8848f92855350
+machine_hash: 49acc457e55be7820f5d3a80e7326623f2857d160b2caee0e3a674ca751babca
 product: claude-code
 product_name: Claude Code
 record:
@@ -98,6 +98,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
 ## Nearby in Files and Data
 
 - Earlier: 2026-10-01 · ChatGPT · [[Changes/ChatGPT/2026-10-01-it-s-now-easier-to-bring-your-notes-and-documents-into-chatgpt-on-your-phone-cap|Scan notes and documents more easily with ChatGPT camera]]
+- Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-improved-the-artifact-tool-s-choice-between-a-page-and-a-document-explainers-and|Improved the Artifact tool's choice between a page and a document]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

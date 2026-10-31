@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2717598f2163c8882f5e30a6ab405c9781e17adc31fedfd90658aebd692ba548
+machine_hash: 0f4863f8e7a3043c21447254769af3c13b861538ffb8ee159c7af1b5f48e2e4d
 product: claude-code
 product_name: Claude Code
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.304
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-16 · Cursor · [[Changes/Cursor/2026-10-16-canvases-from-cloud-agents|Canvases from cloud agents]]
-- Later: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-improved-fork-subagents-launched-together-each-is-now-told-which-launch-is-its-o|Improved fork subagents launched together]]
+- Later: 2026-10-20 · Cursor · [[Changes/Cursor/2026-10-20-deploy-agents-wherever-you-need-them|Deploy agents wherever you need them]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

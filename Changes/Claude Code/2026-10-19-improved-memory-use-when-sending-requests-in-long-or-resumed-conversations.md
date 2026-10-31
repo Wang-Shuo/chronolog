@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5f618e15922bfdd4a790235ddcce7562e8d226a71aa50f6e6a2bf33c324b7d0f
+machine_hash: cf83562b2fa3b2aefd372864349523f349ce2924c6f3e72346eaaa1aa0090f4a
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,6 +86,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-improved-memory-and-disk-use-when-pdfs-are-mentioned-their-bytes-are-no-longer-k|Improved memory and disk use when PDFs are @-mentioned]]
+- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-improved-memory-use-of-non-interactive-sessions-p-agent-sdk-during-compaction-wh|Improved memory use of non-interactive sessions (-p, Agent SDK) during compaction…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -1,10 +1,10 @@
 ---
 created: '2023-03-14'
-date: '2026-10-22'
+date: '2026-10-30'
 description: Cross-product timeline of Mobile and Desktop changes in ChatGPT, Claude
   Code and Cursor.
-machine_hash: b50b1f9afb534555ea21e703392fdcf8ed0e1da74453d5eb58a5e97b0bae3fa0
-modified: '2026-10-22'
+machine_hash: d3b22702a5981251b32d9d47a1e41ccf7b6a9bcfe05b59a1e9c0992bf95fa43d
+modified: '2026-10-30'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Mobile and Desktop
 <!-- chronolog:begin region="header" -->
 # Mobile and Desktop
 
-133 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-14 → 2026-10-22 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
+136 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-14 → 2026-10-30 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -35,12 +35,12 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 | Quarter | ChatGPT | Claude Code | Cursor |
 | --- | --- | --- | --- |
-| 2026 Q4 | 2026-10-20 [[Changes/ChatGPT/2026-10-20-locked-chats-let-you-keep-selected-conversations-in-your-account-while-hiding-th\|Introducing locked chats]] | · | 2026-10-06 [[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer\|Keep your computer awake]] |
+| 2026 Q4 | 2026-10-21 [[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased\|MoMo payments in Vietnam]]<br>2026-10-20 [[Changes/ChatGPT/2026-10-20-locked-chats-let-you-keep-selected-conversations-in-your-account-while-hiding-th\|Introducing locked chats]] | · | 2026-10-06 [[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer\|Keep your computer awake]] |
 | 2026 Q3 | 2026-09-21 [[Changes/ChatGPT/2026-09-21-you-can-now-track-your-credit-score-in-chatgpt-securely-connect-your-experian-cr\|Credit scores in Finances]]<br>2026-09-17 [[Changes/ChatGPT/2026-09-17-you-can-now-connect-multiple-accounts-to-plugins-in-chatgpt-expanding-support-be\|Connect multiple accounts to plugins in ChatGPT]]<br>2026-08-25 [[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma\|Create webhook-triggered tasks]]<br>2026-08-14 [[Changes/ChatGPT/2026-08-14-learning-projects-and-personalized-suggestions\|Learning, Projects, and personalized suggestions]] | 2026-08-21 [[Changes/Claude Code/2026-08-21-windows-cross-session-messaging-is-now-available-so-claude-code-sessions-across\|Windows: cross-session messaging is now available, so Claude Code sessions across…]] | 2026-09-02 [[Changes/Cursor/2026-09-02-computer-use-on-linux-and-mac\|Computer use on Linux and Mac]]<br>2026-07-29 [[Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and\|A full review surface]] |
 | 2026 Q2 | 2026-05-14 [[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn\|Codex remote access from the ChatGPT mobile app]] | 2026-05-15 [[Changes/Claude Code/2026-05-15-the-powershell-tool-is-now-enabled-by-default-on-windows-for-bedrock-vertex-and\|The PowerShell tool is now enabled by default on Windows for Bedrock, Vertex…]] | 2026-06-29 [[Changes/Cursor/2026-06-29-cursor-for-ios-is-now-available-in-public-beta-on-all-paid-plans-launch-and-mana\|Cursor for iOS is now available in public beta on all paid plans]]<br>2026-06-17 [[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs\|Cursor introduces updates to cloud agents in the Agents Window of the Cursor desktop app]] |
 | 2025 Q4 | 2025-12-18 [[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv\|Pinned chats in ChatGPT]] | · | · |
 | 2025 Q3 | 2025-08-07 [[Changes/ChatGPT/2025-08-07-you-can-now-set-an-accent-color-that-applies-to-elements-in-chatgpt-including-yo-865968\|Accent Colors]]<br>2025-07-16 [[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop\|Record mode is now available to ChatGPT Plus users globally in the macOS desktop app]] | · | · |
-| 2023 Q3 | 2023-09-25 [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e\|Voice (Beta) is now rolling out to Plus users on iOS and Android]]<br>2023-07-25 [[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9\|Introducing the ChatGPT app for Android]] | · | · |
+| 2023 Q3 | 2023-09-25 [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e\|Voice (Beta) is now rolling out to Plus users on iOS and Android]] | · | · |
 | 2023 Q2 | 2023-05-24 [[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f\|ChatGPT app for iOS in more countries]] | · | · |
 <!-- chronolog:end -->
 
@@ -51,11 +51,14 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 103 entries (ChatGPT 43 · Claude Code 47 · Cursor 13)
+### 2026 · 106 entries (ChatGPT 45 · Claude Code 48 · Cursor 13)
 
 #### 2026-10
 
+- 2026-10-30 · **Claude Code** · [[Changes/Claude Code/2026-10-30-3-mobile-and-desktop-changes-in-v2-1-314|3 Mobile and Desktop changes in v2.1.314]] · Digest
+- 2026-10-27 · **ChatGPT** · [[Changes/ChatGPT/2026-10-27-you-can-learn-more-about-how-chatgpt-uses-connected-apps-here-available-to-all-c|You can learn more about how ChatGPT uses connected apps here]]
 - 2026-10-22 · **Claude Code** · [[Changes/Claude Code/2026-10-22-changed-the-dangerous-rm-and-rmdir-prompt-in-bypass-permissions-mode-in-the-desk|Changed the dangerous rm and rmdir prompt in bypass permissions mode…]]
+- 2026-10-21 · **ChatGPT** · [[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo payments in Vietnam]]
 - 2026-10-20 · **ChatGPT** · [[Changes/ChatGPT/2026-10-20-locked-chats-let-you-keep-selected-conversations-in-your-account-while-hiding-th|Introducing locked chats]] · Launch
 - 2026-10-20 · **Claude Code** · [[Changes/Claude Code/2026-10-20-changed-plugins-that-claude-desktop-mounts-by-path-to-no-longer-keep-their-allow|Changed plugins that Claude Desktop mounts by path to no longer keep…]]
 - 2026-10-19 · **Claude Code** · [[Changes/Claude Code/2026-10-19-windows-improved-git-command-start-up-with-a-standard-git-for-windows-install-by|Windows: Improved git command start-up with a standard Git for Windows install…]]

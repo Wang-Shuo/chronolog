@@ -1,0 +1,14 @@
+{
+  "new_cards": 52,
+  "by_product": {
+    "chatgpt": 6,
+    "claude-code": 40,
+    "cursor": 6
+  },
+  "total_releases": 816,
+  "total_cards": 2741,
+  "pending": 63,
+  "quotes_checked": 127,
+  "unmatched_quotes": [],
+  "scope": "Quote presence only, not semantic approval."
+}

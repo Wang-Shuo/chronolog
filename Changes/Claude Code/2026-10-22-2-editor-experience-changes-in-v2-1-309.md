@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e6a8cc7e4a73d34064833227f93307e445ca89c784a7ba4756334c1169bc21b7
+machine_hash: f3b66799ba5284d2dbe78ef8f7c22f606d7c9cd4ec3223878c66a38f01f2fcd0
 product: claude-code
 product_name: Claude Code
 record:
@@ -92,6 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.309
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-work-together-invite-teammates-to-edit-the-same-deck-in-real-time-and-leave-shar|Work together]]
+- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-cloud-sessions-changed-the-cloud-environment-dialog-to-open-network-access-setup|Cloud sessions Changed the cloud environment dialog to open network access, setup…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

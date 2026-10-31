@@ -1,9 +1,9 @@
 ---
 created: '2022-12-15'
-date: '2026-10-15'
+date: '2026-10-28'
 description: 'Research question: what is being charged for, and what does a plan unlock?'
-machine_hash: 7c95e97bd1dead09010e0fcf9d2e85f6dc69043d1fb78cce337dc6a6389adda3
-modified: '2026-10-15'
+machine_hash: 7c022a025c82843ecac1d14a42f8297b254e7c6d3e13fe5de2819fde8a0a69b9
+modified: '2026-10-28'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -20,7 +20,7 @@ title: Pricing Model
 <!-- chronolog:begin region="header" -->
 # Pricing Model
 
-63 tracked changes across ChatGPT, Claude Code and Cursor · 2022-12-15 → 2026-10-15 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
+64 tracked changes across ChatGPT, Claude Code and Cursor · 2022-12-15 → 2026-10-28 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -58,10 +58,11 @@ Claude Code's [v2.1.296 on 2026-10-09](https://github.com/anthropics/claude-code
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 44 entries (ChatGPT 12 · Claude Code 23 · Cursor 9)
+### 2026 · 45 entries (ChatGPT 13 · Claude Code 23 · Cursor 9)
 
 #### 2026-10
 
+- 2026-10-28 · **ChatGPT** · [[Changes/ChatGPT/2026-10-28-eligible-chatgpt-pro-and-business-subscribers-can-activate-promotional-api-credi|API credits for eligible ChatGPT Pro and Business plans]] · Pricing
 - 2026-10-15 · **ChatGPT** · [[Changes/ChatGPT/2026-10-15-the-rosalind-academic-plan-helps-eligible-academic-labs-use-chatgpt-for-life-sci|The Rosalind Academic Plan helps eligible academic labs use ChatGPT for life…]] · Pricing
 - 2026-10-09 · **Claude Code** · [[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price|Updated /cost, the status line, --max-budget-usd and the SDK's cost figures…]] · Pricing
 - 2026-10-02 · **Claude Code** · [[Changes/Claude Code/2026-10-02-improved-the-usage-credits-message-shown-to-team-and-enterprise-members-whose-or|Improved the /usage-credits message shown to Team and Enterprise members whose…]] · Pricing

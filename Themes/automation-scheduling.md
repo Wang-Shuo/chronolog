@@ -1,10 +1,10 @@
 ---
 created: '2025-12-17'
-date: '2026-10-08'
+date: '2026-10-27'
 description: Cross-product timeline of Automation and Scheduling changes in ChatGPT,
   Claude Code and Cursor.
-machine_hash: 04a66609cb0839e545ade45b0cbc3901e54240c81c03dd2004152aad158042c6
-modified: '2026-10-08'
+machine_hash: e006e529595a109ee926a2e7114d9e04c7c49b4cc7f9ee230d8194a70b2f2fd1
+modified: '2026-10-27'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Automation and Scheduling
 <!-- chronolog:begin region="header" -->
 # Automation and Scheduling
 
-38 tracked changes across ChatGPT, Claude Code and Cursor · 2025-12-17 → 2026-10-08 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
+40 tracked changes across ChatGPT, Claude Code and Cursor · 2025-12-17 → 2026-10-27 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -35,6 +35,7 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 | Quarter | ChatGPT | Claude Code | Cursor |
 | --- | --- | --- | --- |
+| 2026 Q4 | · | · | 2026-10-20 [[Changes/Cursor/2026-10-20-channels\|Channels]] |
 | 2026 Q3 | 2026-08-25 [[Changes/ChatGPT/2026-08-25-free-go-plus-and-pro-users-can-share-scheduled-tasks-recipients-can-review-and-c\|Share scheduled tasks]] | · | · |
 | 2026 Q2 | · | · | 2026-06-18 [[Changes/Cursor/2026-06-18-computer-use-tool-for-automations\|Computer use tool for automations]]<br>2026-05-20 [[Changes/Cursor/2026-05-20-no-repo-automations\|No-repo automations]] |
 | 2026 Q1 | · | 2026-03-07 [[Changes/Claude Code/2026-03-07-added-loop-command-to-run-a-prompt-or-slash-command-on-a-recurring-interval-e-g\|Added /loop command to run a prompt or slash command on a recurring interval…]] | · |
@@ -47,10 +48,12 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 37 entries (ChatGPT 7 · Claude Code 16 · Cursor 14)
+### 2026 · 39 entries (ChatGPT 8 · Claude Code 16 · Cursor 15)
 
 #### 2026-10
 
+- 2026-10-27 · **ChatGPT** · [[Changes/ChatGPT/2026-10-27-icloud-users-can-now-connect-mail-and-calendar-to-chatgpt-to-find-emails-catch-u|iCloud users can now connect Mail and Calendar to ChatGPT to find emails, catch up…]]
+- 2026-10-20 · **Cursor** · [[Changes/Cursor/2026-10-20-channels|Channels]] · Launch
 - 2026-10-08 · **Claude Code** · [[Changes/Claude Code/2026-10-08-changed-ctrl-c-at-the-idle-prompt-of-an-attached-background-session-to-leave-a-p|Changed Ctrl+C at the idle prompt of an attached background session to leave…]]
 - 2026-10-05 · **Claude Code** · [[Changes/Claude Code/2026-10-05-changed-background-sessions-whose-scheduled-task-is-gone-they-now-move-to-comple|Changed background sessions whose scheduled task is gone]]
 

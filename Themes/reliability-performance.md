@@ -1,10 +1,10 @@
 ---
 created: '2022-12-15'
-date: '2026-10-22'
+date: '2026-10-30'
 description: Cross-product timeline of Reliability and Performance changes in ChatGPT,
   Claude Code and Cursor.
-machine_hash: c3979169766a599f330fec18a5223909ab2082da4b843847455a7eb83dff89c3
-modified: '2026-10-22'
+machine_hash: 6de2654ca839cf5628f2b5689ff9219ab318fba1144c481934aef05b7234f0ff
+modified: '2026-10-30'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Reliability and Performance
 <!-- chronolog:begin region="header" -->
 # Reliability and Performance
 
-153 tracked changes across ChatGPT, Claude Code and Cursor · 2022-12-15 → 2026-10-22 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
+154 tracked changes across ChatGPT, Claude Code and Cursor · 2022-12-15 → 2026-10-30 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -50,10 +50,11 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 98 entries (ChatGPT 7 · Claude Code 75 · Cursor 16)
+### 2026 · 99 entries (ChatGPT 7 · Claude Code 76 · Cursor 16)
 
 #### 2026-10
 
+- 2026-10-30 · **Claude Code** · [[Changes/Claude Code/2026-10-30-macos-changed-git-grep-in-most-commands-that-claude-runs-to-use-the-c-locale-to|macOS: Changed git grep in most commands that Claude runs to use the C locale…]]
 - 2026-10-22 · **Claude Code** · [[Changes/Claude Code/2026-10-22-2-reliability-and-performance-changes-in-v2-1-309|2 Reliability and Performance changes in v2.1.309]] · Digest
 - 2026-10-19 · **Claude Code** · [[Changes/Claude Code/2026-10-19-improved-responsiveness-and-throughput-when-many-subagents-are-running-at-the-sa|Improved responsiveness and throughput when many subagents are running at the same time]]
 - 2026-10-16 · **ChatGPT** · [[Changes/ChatGPT/2026-10-16-faster-responses|Faster responses]]

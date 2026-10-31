@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 51489e4d8a2893e094f5c6982aa6cbc29e8494cd493fdb7b13ff6e25851401b8
+machine_hash: 8ec6b46c271c2cdcd3de435ed109f83eaf78a6f904f68c8e0f5350972c93b0ef
 product: claude-code
 product_name: Claude Code
 record:
@@ -92,6 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.309
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-improved-responsiveness-and-throughput-when-many-subagents-are-running-at-the-sa|Improved responsiveness and throughput when many subagents are running at the same time]]
+- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-macos-changed-git-grep-in-most-commands-that-claude-runs-to-use-the-c-locale-to|macOS: Changed git grep in most commands that Claude runs to use the C locale…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
