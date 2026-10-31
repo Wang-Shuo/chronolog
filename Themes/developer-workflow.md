@@ -1,10 +1,10 @@
 ---
 created: '2023-03-18'
-date: '2026-10-30'
+date: '2026-10-31'
 description: Cross-product timeline of Developer Workflow changes in ChatGPT, Claude
   Code and Cursor.
-machine_hash: 671803cab20a51ede738a0f2cd119167dfea972248ca196b0945c611020635dc
-modified: '2026-10-30'
+machine_hash: 538fa1db40eafc1e5bca4164130f9efee2076ca61b28f78517ad32a4147bc936
+modified: '2026-10-31'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Developer Workflow
 <!-- chronolog:begin region="header" -->
 # Developer Workflow
 
-208 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-18 → 2026-10-30 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
+209 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-18 → 2026-10-31 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -52,10 +52,11 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 157 entries (ChatGPT 1 · Claude Code 131 · Cursor 25)
+### 2026 · 158 entries (ChatGPT 1 · Claude Code 132 · Cursor 25)
 
 #### 2026-10
 
+- 2026-10-31 · **Claude Code** · [[Changes/Claude Code/2026-10-31-2-developer-workflow-changes-in-v2-1-316|2 Developer Workflow changes in v2.1.316]] · Digest
 - 2026-10-30 · **Claude Code** · [[Changes/Claude Code/2026-10-30-4-developer-workflow-changes-in-v2-1-314|4 Developer Workflow changes in v2.1.314]] · Digest
 - 2026-10-26 · **Claude Code** · [[Changes/Claude Code/2026-10-26-4-developer-workflow-changes-in-v2-1-311|4 Developer Workflow changes in v2.1.311]] · Digest
 - 2026-10-23 · **Claude Code** · [[Changes/Claude Code/2026-10-23-code-review-improved-the-code-review-admin-section-to-retry-the-first-load-and-s|Code Review Improved the Code Review admin section to retry the first load…]]

@@ -290,6 +290,22 @@ def test_parse_chatgpt_changelog_splits_same_day_entries_and_filters_codex_only(
     assert releases[0]["source_url"].endswith("#researchers")
 
 
+def test_chatgpt_support_widget_is_not_a_release_or_part_of_release_body():
+    product = {'name': 'chatgpt', 'display_name': 'ChatGPT',
+               'url': 'https://help.openai.com/en/articles/6825453-chatgpt-release-notes'}
+    first = '<h1>October 30, 2026</h1><h2>Account switching</h2><p>Contact support if account switching fails.</p>'
+    last = '<h1>December 15, 2022</h1><h2>General updates</h2><p>Conversation history is available.</p>'
+    widget = '''<div class="ai-voice-help-contact intercom-interblocks-callout" data-no-toc="true">
+        <h2>Need more help? Contact us for product questions, account support and general troubleshooting.</h2>
+        <div><p>Contact support</p><br><img src="icon.svg"><svg><path/></svg></div></div>'''
+    expected = parse_chatgpt_changelog(product, '<article>' + first + last + '</article>', None)
+    # Test both the observed trailing widget and a widget followed by real content.
+    for content in [first + last + widget, first + widget + last]:
+        actual = parse_chatgpt_changelog(product, '<article>' + content + '</article>', None)
+        assert actual == expected
+    assert 'Contact support' in expected[0]['body']  # Do not filter official text by phrase.
+
+
 def test_fetch_rss_releases_normalizes_feed_entries(monkeypatch):
     calls = {}
 

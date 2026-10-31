@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 8022c13f84d1402ccbbfc4528e0964e69d16ab89d39edd0489c6f3f1a6356b79
+machine_hash: af30e811e2311cd17e0a77e3f18a7fa9786d9606d0890b1553c0eb1e9d936d78
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-improved-memory-use-when-sending-requests-in-long-or-resumed-conversations|Improved memory use when sending requests in long or resumed conversations]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-2-memory-and-personalization-changes-in-v2-1-314|2 Memory and Personalization changes in v2.1.314]]
+- Later: 2026-10-30 · ChatGPT · [[Changes/ChatGPT/2026-10-30-account-switching-is-rolling-out-to-the-chatgpt-ios-and-android-apps-you-can-sta|Account switching on iOS and Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

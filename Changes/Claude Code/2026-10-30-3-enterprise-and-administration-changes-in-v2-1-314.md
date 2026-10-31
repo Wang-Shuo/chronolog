@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3134acf3150add3460f579368d811b2e890a470970b1414dec453416c2b1d577
+machine_hash: b2a59525be449122cb527aa9d7ceb4e0ab640b3dea563dc174dfd36d6bf6a1ce
 product: claude-code
 product_name: Claude Code
 record:
@@ -101,6 +101,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.314
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-cloud-sessions-added-claude-code-cloud-sessions-and-remote-control-permissions-t|Cloud sessions Added Claude Code cloud sessions and Remote Control permissions…]]
+- Later: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-2-enterprise-and-administration-changes-in-v2-1-316|2 Enterprise and Administration changes in v2.1.316]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

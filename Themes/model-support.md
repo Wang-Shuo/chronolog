@@ -1,10 +1,10 @@
 ---
 created: '2023-01-09'
-date: '2026-10-30'
+date: '2026-10-31'
 description: 'Research question: how do the tracked products add, choose between and
   retire models?'
-machine_hash: af80b523cd7cb8bb88f165fd3d153f119afdad4abf33388c63955029da8a7e29
-modified: '2026-10-30'
+machine_hash: 146226d7cc1a3167538999dda89e98efa589b2fdde0a402b744a8d633a004310
+modified: '2026-10-31'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Model Support
 <!-- chronolog:begin region="header" -->
 # Model Support
 
-225 tracked changes across ChatGPT, Claude Code and Cursor · 2023-01-09 → 2026-10-30 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
+226 tracked changes across ChatGPT, Claude Code and Cursor · 2023-01-09 → 2026-10-31 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -64,10 +64,11 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 144 entries (ChatGPT 35 · Claude Code 95 · Cursor 14)
+### 2026 · 145 entries (ChatGPT 35 · Claude Code 96 · Cursor 14)
 
 #### 2026-10
 
+- 2026-10-31 · **Claude Code** · [[Changes/Claude Code/2026-10-31-deprecated-fast-mode-for-opus-4-8-as-of-october-30-2026-it-will-be-removed-on-no|Deprecated fast mode for Opus 4.8 as of October 30, 2026]] · Policy
 - 2026-10-30 · **Claude Code** · [[Changes/Claude Code/2026-10-30-2-model-support-changes-in-v2-1-314|2 Model Support changes in v2.1.314]] · Digest
 - 2026-10-27 · **Claude Code** · [[Changes/Claude Code/2026-10-27-3-model-support-changes-in-v2-1-312|3 Model Support changes in v2.1.312]] · Digest
 - 2026-10-26 · **ChatGPT** · [[Changes/ChatGPT/2026-10-26-gpt-6-1-terra-is-rolling-out-in-chatgpt-work-and-codex-it-supports-a-range-of-ta|GPT-6.1 Terra]]

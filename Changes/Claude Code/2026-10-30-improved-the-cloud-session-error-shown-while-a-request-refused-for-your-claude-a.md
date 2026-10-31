@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8b634554a87505f5c01e93fbeed1e892275c878bb2ae21fd595c7d367d28ad4a
+machine_hash: 08f3daa430ea4ceb89214981c6eed5fa78153dce437d8a2ef2146f4045db9d5e
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,6 +88,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-improved-the-message-shown-when-a-pasted-sign-in-code-is-refused-it-now-says-the|Improved the message shown when a pasted sign-in code is refused]]
+- Later: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-vscode-added-sign-in-to-a-claude-apps-gateway-from-the-chat-panel-with-no-termin|VSCode Added sign-in to a Claude apps gateway from the chat panel, with no…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

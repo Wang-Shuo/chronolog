@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 94ccd4d13e953e6e149e8ec83ec9c266253eb6e01b101a63c93f9c76f4697943
+machine_hash: 0ef3747710176d492b440a60c664b457ce77f6765af7c6b089483bb15c0ad485
 product: claude-code
 product_name: Claude Code
 record:
@@ -99,6 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.314
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-2-agent-mode-changes-in-v2-1-312|2 Agent Mode changes in v2.1.312]]
+- Later: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-2-agent-mode-changes-in-v2-1-316|2 Agent Mode changes in v2.1.316]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -1,9 +1,9 @@
 ---
 created: '2023-07-06'
-date: '2026-10-30'
+date: '2026-10-31'
 description: 'Research question: what changed in delegated execution?'
-machine_hash: 5c44b94c6a27b5ccde32a5ea63f440a79f79a5ba84d88a46362b7aa43a321c13
-modified: '2026-10-30'
+machine_hash: 42035d369ebd3431c27754097be0b73c54f9b8d26b2181e14b53505e426708bd
+modified: '2026-10-31'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -20,7 +20,7 @@ title: Agent Mode
 <!-- chronolog:begin region="header" -->
 # Agent Mode
 
-264 tracked changes across ChatGPT, Claude Code and Cursor · 2023-07-06 → 2026-10-30 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
+265 tracked changes across ChatGPT, Claude Code and Cursor · 2023-07-06 → 2026-10-31 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -57,10 +57,11 @@ Claude Code's [v2.1.296 on 2026-10-09](https://github.com/anthropics/claude-code
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 208 entries (ChatGPT 3 · Claude Code 124 · Cursor 81)
+### 2026 · 209 entries (ChatGPT 3 · Claude Code 125 · Cursor 81)
 
 #### 2026-10
 
+- 2026-10-31 · **Claude Code** · [[Changes/Claude Code/2026-10-31-2-agent-mode-changes-in-v2-1-316|2 Agent Mode changes in v2.1.316]] · Digest
 - 2026-10-30 · **Claude Code** · [[Changes/Claude Code/2026-10-30-3-agent-mode-changes-in-v2-1-314|3 Agent Mode changes in v2.1.314]] · Digest
 - 2026-10-27 · **Claude Code** · [[Changes/Claude Code/2026-10-27-2-agent-mode-changes-in-v2-1-312|2 Agent Mode changes in v2.1.312]] · Digest
 - 2026-10-26 · **Claude Code** · [[Changes/Claude Code/2026-10-26-2-agent-mode-changes-in-v2-1-311|2 Agent Mode changes in v2.1.311]] · Digest
