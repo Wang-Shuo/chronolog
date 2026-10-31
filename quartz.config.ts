@@ -30,6 +30,8 @@ const config: QuartzConfig = {
       "tests",
       "content",
       "README.md",
+      "PRODUCT.md",
+      "DESIGN.md",
       "node_modules",
       "quartz",
     ],
