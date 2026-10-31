@@ -3,7 +3,7 @@ created: '2025-07-29'
 date: '2026-04-01'
 description: Cross-product timeline of Learning Tools changes in ChatGPT and Claude
   Code.
-machine_hash: 5d0508320d7d477f42082348a9e2f5afea64baffd490a85a1930afaa42acc050
+machine_hash: 2b0c6dccf6142c0247ea2d29ea06d8c9fdc6f51d4bd86f65e90868717e862198
 modified: '2026-04-01'
 products_involved:
 - ChatGPT
@@ -34,7 +34,10 @@ Selected automatically from launches and standalone announcements.
 
 | Quarter | ChatGPT | Claude Code |
 | --- | --- | --- |
-| 2026 Q2 | · | 2026-04-01 [[Changes/Claude Code/2026-04-01-added-powerup-interactive-lessons-teaching-claude-code-features-with-animated-de\|Added /powerup — interactive lessons teaching Claude Code features with animated demos]] |
+| **First in archive** | <time datetime="2025-07-29">2025-07-29</time> [[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-4b5d0a\|Study mode is currently available to users in Free, Plus, Pro, and Teams plans…]] | <time datetime="2026-04-01">2026-04-01</time> [[Changes/Claude Code/2026-04-01-added-powerup-interactive-lessons-teaching-claude-code-features-with-animated-de\|Added /powerup — interactive lessons teaching Claude Code features with animated demos]] |
+| 2026 Q2 | · | <time datetime="2026-04-01">2026-04-01</time> [[Changes/Claude Code/2026-04-01-added-powerup-interactive-lessons-teaching-claude-code-features-with-animated-de\|Added /powerup — interactive lessons teaching Claude Code features with animated demos]] |
+
+First in archive: each product's earliest tracked change in this theme. "·" marks a quarter without a key moment, and "not archived" a quarter before the product's archive begins. Archives begin: ChatGPT 2022-12-15 · Claude Code 2025-12-19.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="scope" -->

@@ -2,7 +2,7 @@
 created: '2024-08-08'
 date: '2026-09-08'
 description: Cross-product timeline of Image Generation changes in ChatGPT and Cursor.
-machine_hash: 64b2aee03f3d61dc5f81d36c33fe61097be65472c7ee67e82e7362b73f91c325
+machine_hash: 678e85edcefab2375f0acb178d5b7f629f56fc0561f34b96419be094332898be
 modified: '2026-09-08'
 products_involved:
 - ChatGPT
@@ -33,8 +33,11 @@ Selected automatically from launches and standalone announcements.
 
 | Quarter | ChatGPT | Cursor |
 | --- | --- | --- |
-| 2026 Q2 | 2026-04-21 [[Changes/ChatGPT/2026-04-21-we-re-introducing-chatgpt-images-2-0-our-new-image-generation-model-in-chatgpt-c\|ChatGPT Images 2.0 in ChatGPT]] | · |
-| 2026 Q1 | · | 2026-01-22 [[Changes/Cursor/2026-01-22-image-generation\|Image generation]] |
+| **First in archive** | <time datetime="2024-08-08">2024-08-08</time> [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c\|DALL·E 3 for ChatGPT Free users]] | <time datetime="2026-01-22">2026-01-22</time> [[Changes/Cursor/2026-01-22-image-generation\|Image generation]] |
+| 2026 Q2 | <time datetime="2026-04-21">2026-04-21</time> [[Changes/ChatGPT/2026-04-21-we-re-introducing-chatgpt-images-2-0-our-new-image-generation-model-in-chatgpt-c\|ChatGPT Images 2.0 in ChatGPT]] | · |
+| 2026 Q1 | · | <time datetime="2026-01-22">2026-01-22</time> [[Changes/Cursor/2026-01-22-image-generation\|Image generation]] |
+
+First in archive: each product's earliest tracked change in this theme. "·" marks a quarter without a key moment, and "not archived" a quarter before the product's archive begins. Archives begin: ChatGPT 2022-12-15 · Cursor 2023-03-14.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="scope" -->

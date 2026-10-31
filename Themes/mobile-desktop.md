@@ -3,7 +3,7 @@ created: '2023-03-14'
 date: '2026-10-30'
 description: Cross-product timeline of Mobile and Desktop changes in ChatGPT, Claude
   Code and Cursor.
-machine_hash: d8ae706626019ee483848937fef39734e853ff1c41a5208370195a09a5a1e598
+machine_hash: 1cae395084aeb9883ee29b5a2bbbe37b1e5197f25dfc82f1f343556b8d1fa724
 modified: '2026-10-30'
 products_involved:
 - ChatGPT
@@ -35,12 +35,17 @@ Selected automatically from launches and standalone announcements.
 
 | Quarter | ChatGPT | Claude Code | Cursor |
 | --- | --- | --- | --- |
-| 2026 Q4 | · | · | 2026-10-06 [[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer\|Keep your computer awake]] |
-| 2026 Q3 | 2026-09-21 [[Changes/ChatGPT/2026-09-21-you-can-now-track-your-credit-score-in-chatgpt-securely-connect-your-experian-cr\|Credit scores in Finances]]<br>2026-09-17 [[Changes/ChatGPT/2026-09-17-you-can-now-connect-multiple-accounts-to-plugins-in-chatgpt-expanding-support-be\|Connect multiple accounts to plugins in ChatGPT]]<br>2026-08-14 [[Changes/ChatGPT/2026-08-14-learning-projects-and-personalized-suggestions\|Learning, Projects, and personalized suggestions]] | 2026-08-21 [[Changes/Claude Code/2026-08-21-windows-cross-session-messaging-is-now-available-so-claude-code-sessions-across\|Windows: cross-session messaging is now available, so Claude Code sessions across…]] | 2026-07-29 [[Changes/Cursor/2026-07-29-built-for-the-bigger-screen-98bf7a\|Built for the bigger screen]] |
-| 2026 Q2 | · | 2026-05-15 [[Changes/Claude Code/2026-05-15-the-powershell-tool-is-now-enabled-by-default-on-windows-for-bedrock-vertex-and\|The PowerShell tool is now enabled by default on Windows for Bedrock, Vertex…]] | · |
-| 2025 Q3 | 2025-07-16 [[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop\|Record mode is now available to ChatGPT Plus users globally in the macOS desktop app]] | · | · |
-| 2023 Q3 | 2023-07-25 [[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9\|Introducing the ChatGPT app for Android]] | · | · |
-| 2023 Q2 | 2023-05-24 [[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f\|ChatGPT app for iOS in more countries]] | · | · |
+| **First in archive** | <time datetime="2023-05-24">2023-05-24</time> [[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f\|ChatGPT app for iOS in more countries]] | <time datetime="2026-01-09">2026-01-09</time> [[Changes/Claude Code/2026-01-09-added-support-for-windows-package-manager-winget-installations-with-automatic-de\|Added support for Windows Package Manager (winget) installations with automatic…]] | <time datetime="2023-03-14">2023-03-14</time> [[Changes/Cursor/2023-03-14-windows-and-linux-support\|Windows and Linux support 🥳]] |
+| 2026 Q4 | · | · | <time datetime="2026-10-06">2026-10-06</time> [[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer\|Keep your computer awake]] |
+| 2026 Q3 | <time datetime="2026-09-21">2026-09-21</time> [[Changes/ChatGPT/2026-09-21-you-can-now-track-your-credit-score-in-chatgpt-securely-connect-your-experian-cr\|Credit scores in Finances]]<br><time datetime="2026-09-17">2026-09-17</time> [[Changes/ChatGPT/2026-09-17-you-can-now-connect-multiple-accounts-to-plugins-in-chatgpt-expanding-support-be\|Connect multiple accounts to plugins in ChatGPT]]<br><time datetime="2026-08-14">2026-08-14</time> [[Changes/ChatGPT/2026-08-14-learning-projects-and-personalized-suggestions\|Learning, Projects, and personalized suggestions]] | <time datetime="2026-08-21">2026-08-21</time> [[Changes/Claude Code/2026-08-21-windows-cross-session-messaging-is-now-available-so-claude-code-sessions-across\|Windows: cross-session messaging is now available, so Claude Code sessions across…]] | <time datetime="2026-07-29">2026-07-29</time> [[Changes/Cursor/2026-07-29-built-for-the-bigger-screen-98bf7a\|Built for the bigger screen]] |
+| 2026 Q2 | · | <time datetime="2026-05-15">2026-05-15</time> [[Changes/Claude Code/2026-05-15-the-powershell-tool-is-now-enabled-by-default-on-windows-for-bedrock-vertex-and\|The PowerShell tool is now enabled by default on Windows for Bedrock, Vertex…]] | · |
+| 2025 Q4 → 2026 Q1 | · | archive begins <time datetime="2025-12-19">2025-12-19</time> | · |
+| 2025 Q3 | <time datetime="2025-07-16">2025-07-16</time> [[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop\|Record mode is now available to ChatGPT Plus users globally in the macOS desktop app]] | <span class="not-archived">not archived</span> | · |
+| 2023 Q4 → 2025 Q2 | · | <span class="not-archived">not archived</span> | · |
+| 2023 Q3 | <time datetime="2023-07-25">2023-07-25</time> [[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9\|Introducing the ChatGPT app for Android]] | <span class="not-archived">not archived</span> | · |
+| 2023 Q2 | <time datetime="2023-05-24">2023-05-24</time> [[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f\|ChatGPT app for iOS in more countries]] | <span class="not-archived">not archived</span> | · |
+
+First in archive: each product's earliest tracked change in this theme. "·" marks a quarter without a key moment, and "not archived" a quarter before the product's archive begins. Archives begin: ChatGPT 2022-12-15 · Claude Code 2025-12-19 · Cursor 2023-03-14.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="scope" -->

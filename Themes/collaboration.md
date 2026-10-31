@@ -3,7 +3,7 @@ created: '2023-05-24'
 date: '2026-10-19'
 description: Cross-product timeline of Collaboration changes in ChatGPT, Claude Code
   and Cursor.
-machine_hash: 7f32ee016377f846b0c126a50d5140a36f774e3e970e56da63235ba6e286ee4a
+machine_hash: af7d19372e10d443699536475f4a37b5735cbd5b66b2f669e8904997e2d701e1
 modified: '2026-10-19'
 products_involved:
 - ChatGPT
@@ -35,13 +35,19 @@ Selected automatically from launches and standalone announcements.
 
 | Quarter | ChatGPT | Claude Code | Cursor |
 | --- | --- | --- | --- |
-| 2026 Q3 | 2026-09-09 [[Changes/ChatGPT/2026-09-09-shared-folders-and-ownership\|Shared folders and ownership]] | · | 2026-09-23 [[Changes/Cursor/2026-09-23-team-rules\|Team rules]] |
-| 2026 Q2 | · | 2026-04-10 [[Changes/Claude Code/2026-04-10-added-team-onboarding-command-to-generate-a-teammate-ramp-up-guide-from-your-loc\|Added /team-onboarding command to generate a teammate ramp-up guide…]] | 2026-06-30 [[Changes/Cursor/2026-06-30-team-mcps-in-team-marketplaces-27f9ef\|Team MCPs in team marketplaces]]<br>2026-06-22 [[Changes/Cursor/2026-06-22-new-team-marketplaces\|New Team Marketplaces]]<br>2026-06-03 [[Changes/Cursor/2026-06-03-groups-are-a-lightweight-collection-of-users-that-can-sit-across-or-within-teams\|Groups]]<br>2026-05-20 [[Changes/Cursor/2026-05-20-shared-canvases-a27a45\|Shared canvases]]<br>2026-05-11 [[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams\|Cursor is now available in Microsoft Teams]] |
-| 2025 Q4 | · | · | 2025-10-29 [[Changes/Cursor/2025-10-29-shareable-team-commands\|Shareable Team Commands]] |
-| 2025 Q3 | · | · | 2025-09-29 [[Changes/Cursor/2025-09-29-share-prompts-with-deeplinks-beta\|Share prompts with deeplinks (beta)]] |
-| 2025 Q2 | · | · | 2025-06-12 [[Changes/Cursor/2025-06-12-use-cursor-where-your-team-works-3e7ca8\|Use Cursor where your team works]] |
-| 2024 Q1 | 2024-01-10 [[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432\|Use ChatGPT alongside your team]] | · | · |
-| 2023 Q2 | 2023-05-24 [[Changes/ChatGPT/2023-05-24-shared-links\|Shared Links]] | · | · |
+| **First in archive** | <time datetime="2023-05-24">2023-05-24</time> [[Changes/ChatGPT/2023-05-24-shared-links\|Shared Links]] | <time datetime="2026-02-05">2026-02-05</time> [[Changes/Claude Code/2026-02-05-added-research-preview-agent-teams-feature-for-multi-agent-collaboration-token-i\|Added research preview agent teams feature for multi-agent collaboration…]] | <time datetime="2024-08-22">2024-08-22</time> [[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm\|Composer is now default-on and available to all Pro/Business users by hitting cmd+I]] |
+| 2026 Q3 | <time datetime="2026-09-09">2026-09-09</time> [[Changes/ChatGPT/2026-09-09-shared-folders-and-ownership\|Shared folders and ownership]] | · | <time datetime="2026-09-23">2026-09-23</time> [[Changes/Cursor/2026-09-23-team-rules\|Team rules]] |
+| 2026 Q2 | · | <time datetime="2026-04-10">2026-04-10</time> [[Changes/Claude Code/2026-04-10-added-team-onboarding-command-to-generate-a-teammate-ramp-up-guide-from-your-loc\|Added /team-onboarding command to generate a teammate ramp-up guide…]] | <time datetime="2026-06-30">2026-06-30</time> [[Changes/Cursor/2026-06-30-team-mcps-in-team-marketplaces-27f9ef\|Team MCPs in team marketplaces]]<br><time datetime="2026-06-22">2026-06-22</time> [[Changes/Cursor/2026-06-22-new-team-marketplaces\|New Team Marketplaces]]<br><time datetime="2026-06-03">2026-06-03</time> [[Changes/Cursor/2026-06-03-groups-are-a-lightweight-collection-of-users-that-can-sit-across-or-within-teams\|Groups]]<br><time datetime="2026-05-20">2026-05-20</time> [[Changes/Cursor/2026-05-20-shared-canvases-a27a45\|Shared canvases]]<br><time datetime="2026-05-11">2026-05-11</time> [[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams\|Cursor is now available in Microsoft Teams]] |
+| 2026 Q1 | · | · | · |
+| 2025 Q4 | · | archive begins <time datetime="2025-12-19">2025-12-19</time> | <time datetime="2025-10-29">2025-10-29</time> [[Changes/Cursor/2025-10-29-shareable-team-commands\|Shareable Team Commands]] |
+| 2025 Q3 | · | <span class="not-archived">not archived</span> | <time datetime="2025-09-29">2025-09-29</time> [[Changes/Cursor/2025-09-29-share-prompts-with-deeplinks-beta\|Share prompts with deeplinks (beta)]] |
+| 2025 Q2 | · | <span class="not-archived">not archived</span> | <time datetime="2025-06-12">2025-06-12</time> [[Changes/Cursor/2025-06-12-use-cursor-where-your-team-works-3e7ca8\|Use Cursor where your team works]] |
+| 2024 Q2 → 2025 Q1 | · | <span class="not-archived">not archived</span> | · |
+| 2024 Q1 | <time datetime="2024-01-10">2024-01-10</time> [[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432\|Use ChatGPT alongside your team]] | <span class="not-archived">not archived</span> | · |
+| 2023 Q3 → 2023 Q4 | · | <span class="not-archived">not archived</span> | · |
+| 2023 Q2 | <time datetime="2023-05-24">2023-05-24</time> [[Changes/ChatGPT/2023-05-24-shared-links\|Shared Links]] | <span class="not-archived">not archived</span> | · |
+
+First in archive: each product's earliest tracked change in this theme. "·" marks a quarter without a key moment, and "not archived" a quarter before the product's archive begins. Archives begin: ChatGPT 2022-12-15 · Claude Code 2025-12-19 · Cursor 2023-03-14.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="scope" -->

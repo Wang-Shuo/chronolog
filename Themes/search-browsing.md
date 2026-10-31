@@ -3,7 +3,7 @@ created: '2023-03-23'
 date: '2026-10-05'
 description: Cross-product timeline of Search and Browsing changes in ChatGPT, Claude
   Code and Cursor.
-machine_hash: 8f01219eee6550de348b0fa9d955b3a46f07b4a72f4fdecf174f9ef8b434e5a5
+machine_hash: 29cee68adfabc5f4ef11ee08bfd0eca9f2e0dfe313d1cc5488d3802f13063943
 modified: '2026-10-05'
 products_involved:
 - ChatGPT
@@ -35,7 +35,10 @@ Selected automatically from launches and standalone announcements.
 
 | Quarter | ChatGPT | Claude Code | Cursor |
 | --- | --- | --- | --- |
-| 2025 Q2 | 2025-05-12 [[Changes/ChatGPT/2025-05-12-you-can-now-export-your-deep-research-reports-as-well-formatted-pdfs-complete-wi-87a3fa\|Export Deep Research as PDF for Plus/Pro/Team]] | · | · |
+| **First in archive** | <time datetime="2023-03-23">2023-03-23</time> [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet\|Browsing: An experimental model that knows when and how to browse the internet]] | <time datetime="2026-05-19">2026-05-19</time> [[Changes/Claude Code/2026-05-19-the-plugin-browse-and-discover-panes-now-show-when-a-plugin-was-last-updated\|The /plugin browse and discover panes now show when a plugin was last updated]] | <time datetime="2024-01-25">2024-01-25</time> [[Changes/Cursor/2024-01-25-using-web-in-chat-will-give-the-ai-the-ability-to-crawl-the-web-the-tools-it-can\|Using @Web in chat will give the AI the ability to crawl the web!]] |
+| 2025 Q2 | <time datetime="2025-05-12">2025-05-12</time> [[Changes/ChatGPT/2025-05-12-you-can-now-export-your-deep-research-reports-as-well-formatted-pdfs-complete-wi-87a3fa\|Export Deep Research as PDF for Plus/Pro/Team]] | <span class="not-archived">not archived</span> | · |
+
+First in archive: each product's earliest tracked change in this theme. "·" marks a quarter without a key moment, and "not archived" a quarter before the product's archive begins. Archives begin: ChatGPT 2022-12-15 · Claude Code 2025-12-19 · Cursor 2023-03-14.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="scope" -->

@@ -3,7 +3,7 @@ created: '2023-03-30'
 date: '2026-10-31'
 description: Cross-product timeline of Account and Access changes in ChatGPT, Claude
   Code and Cursor.
-machine_hash: d066eb971de11ac808d9fdc5cdc8d10e857ac80d95d219a04230fb8d78ea9ec0
+machine_hash: 2f25beddc91a814d46b23ba29726e035b1980235e7f401305ad2340cc1f0681e
 modified: '2026-10-31'
 products_involved:
 - ChatGPT
@@ -35,12 +35,17 @@ Selected automatically from launches and standalone announcements.
 
 | Quarter | ChatGPT | Claude Code | Cursor |
 | --- | --- | --- | --- |
-| 2026 Q4 | 2026-10-20 [[Changes/ChatGPT/2026-10-20-locked-chats-let-you-keep-selected-conversations-in-your-account-while-hiding-th\|Introducing locked chats]] | · | · |
-| 2026 Q3 | 2026-07-06 [[Changes/ChatGPT/2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-globally-from-a-sidebar-in-mic\|ChatGPT for PowerPoint is now generally available]] | 2026-09-28 [[Changes/Claude Code/2026-09-28-added-mcp-reconnect-all-in-the-interactive-terminal-to-retry-every-mcp-server-th\|Added /mcp reconnect all in the interactive terminal to retry every MCP server…]] | · |
-| 2026 Q2 | 2026-05-05 [[Changes/ChatGPT/2026-05-05-chatgpt-for-excel-and-google-sheets-is-now-available-globally-bringing-chatgpt-i\|ChatGPT for Excel and Google Sheets]]<br>2026-04-22 [[Changes/ChatGPT/2026-04-22-we-re-launching-chatgpt-for-clinicians-a-free-version-of-chatgpt-for-verified-cl\|ChatGPT for Clinicians]] | · | · |
-| 2026 Q1 | · | · | 2026-01-16 [[Changes/Cursor/2026-01-16-one-click-mcp-authentication\|One-click MCP authentication]] |
-| 2025 Q2 | · | · | 2025-06-04 [[Changes/Cursor/2025-06-04-mcp-one-click-install-and-oauth-support\|MCP one-click install and OAuth support]] |
-| 2023 Q3 | · | · | 2023-07-25 [[Changes/Cursor/2023-07-25-you-can-now-chat-with-any-codebase-no-need-to-have-a-github-repo-login-through-g\|"with codebase" for all codebases!]] |
+| **First in archive** | <time datetime="2024-04-01">2024-04-01</time> [[Changes/ChatGPT/2024-04-01-we-re-making-it-easier-for-people-to-experience-the-benefits-of-ai-without-needi\|Start using ChatGPT instantly]] | <time datetime="2026-01-13">2026-01-13</time> [[Changes/Claude Code/2026-01-13-updated-help-improve-claude-setting-fetch-to-refresh-oauth-and-retry-when-it-fai\|Updated "Help improve Claude" setting fetch to refresh OAuth and retry when it fails…]] | <time datetime="2023-03-30">2023-03-30</time> [[Changes/Cursor/2023-03-30-ai-now-requires-login\|AI now requires login]] |
+| 2026 Q4 | <time datetime="2026-10-20">2026-10-20</time> [[Changes/ChatGPT/2026-10-20-locked-chats-let-you-keep-selected-conversations-in-your-account-while-hiding-th\|Introducing locked chats]] | · | · |
+| 2026 Q3 | <time datetime="2026-07-06">2026-07-06</time> [[Changes/ChatGPT/2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-globally-from-a-sidebar-in-mic\|ChatGPT for PowerPoint is now generally available]] | <time datetime="2026-09-28">2026-09-28</time> [[Changes/Claude Code/2026-09-28-added-mcp-reconnect-all-in-the-interactive-terminal-to-retry-every-mcp-server-th\|Added /mcp reconnect all in the interactive terminal to retry every MCP server…]] | · |
+| 2026 Q2 | <time datetime="2026-05-05">2026-05-05</time> [[Changes/ChatGPT/2026-05-05-chatgpt-for-excel-and-google-sheets-is-now-available-globally-bringing-chatgpt-i\|ChatGPT for Excel and Google Sheets]]<br><time datetime="2026-04-22">2026-04-22</time> [[Changes/ChatGPT/2026-04-22-we-re-launching-chatgpt-for-clinicians-a-free-version-of-chatgpt-for-verified-cl\|ChatGPT for Clinicians]] | · | · |
+| 2026 Q1 | · | · | <time datetime="2026-01-16">2026-01-16</time> [[Changes/Cursor/2026-01-16-one-click-mcp-authentication\|One-click MCP authentication]] |
+| 2025 Q3 → 2025 Q4 | · | archive begins <time datetime="2025-12-19">2025-12-19</time> | · |
+| 2025 Q2 | · | <span class="not-archived">not archived</span> | <time datetime="2025-06-04">2025-06-04</time> [[Changes/Cursor/2025-06-04-mcp-one-click-install-and-oauth-support\|MCP one-click install and OAuth support]] |
+| 2023 Q4 → 2025 Q1 | · | <span class="not-archived">not archived</span> | · |
+| 2023 Q3 | · | <span class="not-archived">not archived</span> | <time datetime="2023-07-25">2023-07-25</time> [[Changes/Cursor/2023-07-25-you-can-now-chat-with-any-codebase-no-need-to-have-a-github-repo-login-through-g\|"with codebase" for all codebases!]] |
+
+First in archive: each product's earliest tracked change in this theme. "·" marks a quarter without a key moment, and "not archived" a quarter before the product's archive begins. Archives begin: ChatGPT 2022-12-15 · Claude Code 2025-12-19 · Cursor 2023-03-14.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="scope" -->
