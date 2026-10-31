@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 1747a98fab1d49003d73bf42f0f23e7848c83b4316e20ba7f229c78ab56f20e6
+machine_hash: 6a52999733eeedd22cbdcce68c445aecb2ac11ebf334a2278a3da87c5b9b956a
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,7 +48,7 @@ record:
   type: change
 related_changes:
 - '[[Changes/Cursor/2026-07-10-conversation-search-454cae|Conversation search]]'
-- '[[Changes/Cursor/2026-07-10-6-interface-experience-changes-in-side-chats-and-conversation-search|6
+- '[[Changes/Cursor/2026-07-10-7-interface-experience-changes-in-side-chats-and-conversation-search|7
   Interface Experience changes in Side Chats and Conversation Search]]'
 - '[[Changes/Cursor/2026-07-10-redesigned-project-and-repo-pickers|Redesigned project
   and repo pickers]]'

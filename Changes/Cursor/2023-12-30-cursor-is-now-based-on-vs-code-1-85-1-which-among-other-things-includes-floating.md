@@ -1,24 +1,24 @@
 ---
 card_id: cursor-2023-12-30-784eeb
 date: '2023-12-30'
-description: 'Cursor · 2023-12-30 · Mobile and Desktop: Cursor is now based on VS
-  Code 1.85.1, which, among other things, includes floating editor windows. Just drag
-  and…'
+description: 'Cursor · 2023-12-30 · Editor Experience: Cursor is now based on VS Code
+  1.85.1, which, among other things, includes floating editor windows. Just drag and
+  drop…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 291
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: mobile-desktop
+  theme: editor-experience
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 584e6d82a090b9278e1cf0e3736bd729dbfbdaf13826add276e9e49a618b3f5d
+machine_hash: 3b8e55529f5fea17e17b461d8ce5d5d3183c2db36e51bd2c98356e8ce8ea2e6f
 product: cursor
 product_name: Cursor
 record:
@@ -41,29 +41,19 @@ record:
   slug: cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating
   source_release: cursor-2023-12-30-0-21-3-nightly-https-cursor-com-changelog-0-21-3-nightly-0516160f
   source_type: cursor_changelog
-  theme: mobile-desktop
-  theme_matches:
-  - matched_terms:
-    - editor
-    score: 50
-    theme: editor-experience
-  - matched_terms:
-    - desktop
-    score: 50
-    theme: mobile-desktop
-  theme_resolution: manual-semantic-rule-v1
+  theme: editor-experience
   title: VS Code 1.85.1
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-06-22-we-ve-made-two-updates-to-the-mobile-chatgpt-app|ChatGPT
-  makes two updates to the mobile ChatGPT app]]'
-- '[[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|Introducing
-  the ChatGPT app for Android]]'
-- '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
-  (Beta) is now rolling out to Plus users on iOS and Android]]'
+- '[[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|Copilot++
+  Improvements]]'
+- '[[Changes/Cursor/2023-12-16-update-0-20-1-0-20-2-we-added-tldrs-to-make-it-easier-to-sort-through-the-bugs-f|UPDATE
+  (0.20.1-0.20.2): We added TLDRs to make it easier to sort through the bugs…]]'
+- '[[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|Multiple
+  Command-K, Copilot++ UI]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-30-0-21-3-nightly-https-cursor-com-changelog-0-21-3-nightly-0516160f|cursor-2023-12-30-0-21-3-nightly-https-cursor-com-changelog-0-21-3-nightly-0516160f]]'
 source_type: cursor_changelog
-theme: mobile-desktop
+theme: editor-experience
 title: VS Code 1.85.1
 type: change
 ---
@@ -71,7 +61,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # VS Code 1.85.1
 
-**Cursor** · 2023-12-30 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://cursor.com/changelog/0-21-3-nightly) · from [[Releases/Cursor/cursor-2023-12-30-0-21-3-nightly-https-cursor-com-changelog-0-21-3-nightly-0516160f|VS Code 1.85.1]]
+**Cursor** · 2023-12-30 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://cursor.com/changelog/0-21-3-nightly) · from [[Releases/Cursor/cursor-2023-12-30-0-21-3-nightly-https-cursor-com-changelog-0-21-3-nightly-0516160f|VS Code 1.85.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -85,16 +75,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Mobile and Desktop
+## Nearby in Editor Experience
 
-- Earlier: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
-- Later: 2024-11-19 · ChatGPT · [[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Advanced Voice for ChatGPT Web]]
+- Earlier: 2023-12-29 · Cursor · [[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|Multiple Command-K, Copilot++ UI]]
+- Later: 2023-12-31 · Cursor · [[Changes/Cursor/2023-12-31-you-can-now-use-chat-and-cmd-k-in-the-aux-window-without-too-many-problems|Aux Window Fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

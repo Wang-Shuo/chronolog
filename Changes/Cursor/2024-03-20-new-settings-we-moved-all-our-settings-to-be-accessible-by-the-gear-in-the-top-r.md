@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 921430d4db00cc32883d36c5ffa649bf07b830a8888a92688a2c8121cf4912b7
+machine_hash: 26cb71dd468d49e89a2eddf7fedcb1b489f5e8d79c5ddc278a587d89f2d729c9
 product: cursor
 product_name: Cursor
 record:
@@ -77,7 +77,7 @@ type: change
 
 - [[Changes/Cursor/2024-03-20-stable-claude-support-all-the-newest-claude-models-are-available-for-pro-and-api|Stable Claude Support]] · Model Support
 - [[Changes/Cursor/2024-03-20-team-invites-we-made-it-a-bit-easier-for-you-to-invite-your-colleagues-to-your-c|Team invites: We made it a bit easier for you to invite your colleagues…]] · Editor Experience
-- [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]] · Collaboration
+- [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]] · Enterprise and Administration
 - [[Changes/Cursor/2024-03-20-faster-copilot-we-ve-made-copilot-2x-faster-this-speed-bump-comes-from-a-new-mod|Faster Copilot++: We've made Copilot++ ~2x faster!]] · Reliability and Performance
 <!-- chronolog:end -->
 

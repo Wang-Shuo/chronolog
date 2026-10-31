@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 0c4214ea270b89d4161beb38508866173cc3b8c16e00509721a6d14fb9fe9776
+machine_hash: b4839812b6a7e1891b609dc74e077c7338feeaff85bd39107c2cbabfc230fd96
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,11 @@ record:
   title: Improved Agent Harness
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-5-agent-mode-changes-in-1-7|5 Agent Mode changes in
+- '[[Changes/Cursor/2025-09-29-6-agent-mode-changes-in-1-7|6 Agent Mode changes in
   1.7]]'
-- '[[Changes/Cursor/2025-09-29-agent-can-take-screenshots-improve-ui-and-debug-client-issues-read-more-about-br|Browser
-  Controls]]'
 - '[[Changes/Cursor/2025-09-29-image-file-support-for-agent|Image file support for
   Agent]]'
+- '[[Changes/Cursor/2025-10-29-browser-ga-1124ce|Browser (GA)]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -75,19 +74,18 @@ type: change
 
 - [[Changes/Cursor/2025-10-29-shareable-team-commands|Shareable Team Commands]] · Collaboration
 - [[Changes/Cursor/2025-10-29-improved-code-review|Improved Code Review]] · Developer Workflow
-- [[Changes/Cursor/2025-10-29-browser-ga-1124ce|Browser (GA)]] · Enterprise and Administration
+- [[Changes/Cursor/2025-10-29-browser-ga-1124ce|Browser (GA)]] · Agent Mode
 - [[Changes/Cursor/2025-10-29-optimized-text-parsing-for-chat-rendering|Optimized text parsing for chat rendering]] · Interface Experience
 - [[Changes/Cursor/2025-10-29-sandboxed-terminals-ga|Sandboxed Terminals (GA)]] · Safety and Privacy
 - [[Changes/Cursor/2025-10-29-voice-mode|Voice Mode]] · Voice and Audio
 - [[Changes/Cursor/2025-10-29-cursor-for-enterprise|Cursor for Enterprise]] · Enterprise and Administration
 - [[Changes/Cursor/2025-10-29-audit-log|Audit Log]] · Collaboration
-- [[Changes/Cursor/2025-10-29-increased-default-memory-for-typescript-language-server|Increased default memory for TypeScript language server]] · Memory and Personalization
 - [[Changes/Cursor/2025-10-29-background-agents-have-been-renamed-to-cloud-agents|Background Agents have been renamed to Cloud Agents]] · Agent Mode
 - [[Changes/Cursor/2025-10-29-cloud-agents|Cloud Agents]] · Agent Mode
+- [[Changes/Cursor/2025-10-29-2-reliability-and-performance-changes-in-2-0|2 Reliability and Performance changes in 2.0]] · Reliability and Performance
 - [[Changes/Cursor/2025-10-29-introducing-our-first-agentic-coding-model-composer-is-a-frontier-model-that-is|Composer]] · Model Support
 - [[Changes/Cursor/2025-10-29-improved-performance|Improved Performance]] · Reliability and Performance
 - [[Changes/Cursor/2025-10-29-3-developer-workflow-changes-in-2-0|3 Developer Workflow changes in 2.0]] · Developer Workflow
-- [[Changes/Cursor/2025-10-29-optimized-findfiles-performance-to-batch-concurrent-calls-at-bounded-concurrency|Optimized findFiles performance to batch concurrent calls at bounded concurrency]] · Reliability and Performance
 - [[Changes/Cursor/2025-10-29-plan-mode-in-background|Plan Mode in Background]] · Model Support
 - [[Changes/Cursor/2025-10-29-hooks-cloud-distribution|Hooks: Cloud Distribution]] · Enterprise and Administration
 - [[Changes/Cursor/2025-10-29-multi-agents-bb4f56|Multi-Agents]] · Agent Mode

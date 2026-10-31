@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a004c62f8a58e1f3b7b6a703ef41d3b6822e364e7a35a91613dd95ab0e3a5b14
+machine_hash: da54af942b3e8c11344811583280f0fdf3dd31ad9878ff42e1b0759530a3bac8
 product: cursor
 product_name: Cursor
 record:
@@ -43,9 +43,9 @@ record:
     stability
   type: change
 related_changes:
+- '[[Changes/Cursor/2025-10-29-2-reliability-and-performance-changes-in-2-0|2 Reliability
+  and Performance changes in 2.0]]'
 - '[[Changes/Cursor/2025-10-29-improved-performance|Improved Performance]]'
-- '[[Changes/Cursor/2025-10-29-optimized-findfiles-performance-to-batch-concurrent-calls-at-bounded-concurrency|Optimized
-  findFiles performance to batch concurrent calls at bounded concurrency]]'
 - '[[Changes/Cursor/2025-12-10-2-reliability-and-performance-changes-in-2-2|2 Reliability
   and Performance changes in 2.2]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465|cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465]]'

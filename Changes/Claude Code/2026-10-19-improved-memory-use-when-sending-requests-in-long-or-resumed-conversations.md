@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cf83562b2fa3b2aefd372864349523f349ce2924c6f3e72346eaaa1aa0090f4a
+machine_hash: 2fc1adc0315bc06fe3a18fb092fe7a20d8a03e42c36fc9ed88b55a9ff531a335
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
   memory and disk use when PDFs are @-mentioned]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994|claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994]]'
 source_type: github_releases
+superseded: true
 theme: memory
 title: Improved memory use when sending requests in long or resumed conversations
 type: change

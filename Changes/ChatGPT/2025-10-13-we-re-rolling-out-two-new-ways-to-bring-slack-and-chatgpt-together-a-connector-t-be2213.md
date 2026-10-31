@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 035eb0cdc00a5e1efc769a7d5a3ba125a080b831a778381dff1cf1cab69ff862
+machine_hash: 344be83053b90e22c3ec150e648ad49498fb9ee03b982f7640b20c51bd59de81
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -96,17 +96,9 @@ record:
     score: 50
     theme: context-window
   - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
-  - matched_terms:
     - sidebar
     score: 50
     theme: interface-experience
-  - matched_terms:
-    - mobile
-    score: 50
-    theme: mobile-desktop
   title: Slack connector and app
   type: change
 related_changes:

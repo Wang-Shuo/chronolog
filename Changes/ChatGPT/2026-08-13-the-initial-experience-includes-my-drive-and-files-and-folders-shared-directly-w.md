@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9aaaefffda846161e37ef00221987b0003a55a1f541d596b0c7f2f765053efd2
+machine_hash: 0be887dfe51da12b08d9942dac8ea536cf1c17243541c6823a93ba18566dec95
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,12 +45,12 @@ record:
     with you
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w|Existing
+  group chats will remain available and can continue to be used for now]]'
 - '[[Changes/Cursor/2026-07-22-admin-controls-per-team-and-per-group-enablement-mode-restrictions-default-mode|Admin
   controls: per-team and per-group enablement, mode restrictions, default mode…]]'
 - '[[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch
   between teams that you belong to directly in the app]]'
-- '[[Changes/Claude Code/2026-08-11-removed-the-outdated-note-about-auto-mode-sessions-costing-slightly-more-from-th|Removed
-  the outdated note about auto mode sessions costing slightly more…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-13-google-drive-is-now-in-library-bbf66648|chatgpt-2026-08-13-google-drive-is-now-in-library-bbf66648]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-08-11 · Claude Code · [[Changes/Claude Code/2026-08-11-removed-the-outdated-note-about-auto-mode-sessions-costing-slightly-more-from-th|Removed the outdated note about auto mode sessions costing slightly more…]]
+- Earlier: 2026-07-29 · Cursor · [[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch between teams that you belong to directly in the app]]
 - Later: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-hardened-the-auto-generated-cross-session-messaging-socket-directory-on-shared-t|Hardened the auto-generated cross-session messaging socket directory on shared /tmp]]
 <!-- chronolog:end -->
 

@@ -1,23 +1,23 @@
 ---
 card_id: cursor-2024-03-20-362eb0
 date: '2024-03-20'
-description: 'Cursor · 2024-03-20 · Collaboration: Admin improvements: Team admins
-  can now mark themselves as unpaid users and can see the last time team members used
-  the…'
+description: 'Cursor · 2024-03-20 · Enterprise and Administration: Admin improvements:
+  Team admins can now mark themselves as unpaid users and can see the last time team…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
+    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 301
+  lag_days: 0
   relation: same-theme-chronology
-  role: later-observed
+  role: first-observed
   scope: tracked-products-only
-  theme: collaboration
+  theme: enterprise-admin
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9b3f4c06dfb9c94b674aabef5c930405633ee02821afb80d510cd2c5b4778684
+machine_hash: 63f68bd04fcad9cc50c04453df80a8fc1129eee4f5526bebc98a7c21c6ad9ba0
 product: cursor
 product_name: Cursor
 record:
@@ -39,27 +39,13 @@ record:
   slug: admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s
   source_release: cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e
   source_type: cursor_changelog
-  theme: collaboration
-  theme_matches:
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
-  - matched_terms:
-    - admins
-    score: 50
-    theme: enterprise-admin
-  theme_resolution: manual-semantic-rule-v1
+  theme: enterprise-admin
   title: 'Admin improvements: Team admins can now mark themselves as unpaid users
     and can see…'
   type: change
-related_changes:
-- '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
-- '[[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|Use
-  ChatGPT alongside your team]]'
 source_release: '[[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e|cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e]]'
 source_type: cursor_changelog
-theme: collaboration
+theme: enterprise-admin
 title: 'Admin improvements: Team admins can now mark themselves as unpaid users and
   can see…'
 type: change
@@ -68,7 +54,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Admin improvements: Team admins can now mark themselves as unpaid users and can see…
 
-**Cursor** · 2024-03-20 · [[Themes/collaboration|Collaboration]] · [Official source](https://cursor.com/changelog/0-30-x) · from [[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e|Faster Copilot++, Claude]]
+**Cursor** · 2024-03-20 · [[Themes/enterprise-admin|Enterprise and Administration]] · [Official source](https://cursor.com/changelog/0-30-x) · from [[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e|Faster Copilot++, Claude]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -87,16 +73,15 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Collaboration
+## Nearby in Enterprise and Administration
 
-- Earlier: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|Use ChatGPT alongside your team]]
-- Later: 2024-08-22 · Cursor · [[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer is now default-on and available to all Pro/Business users by hitting cmd+I]]
+- Later: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-enhanced-visibility-of-auto-run-controls-configured-by-team-admins-clarifying-wh|Enhanced visibility of auto-run controls configured by team admins, clarifying…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry among the 3 tracked products.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

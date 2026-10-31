@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f0c6d3f627f948f3352f5796511b56498353408c0ef688ec1930c74017c07178
+machine_hash: 485d8681e073a8360c74371651dcfb847a647a8206f29827276308927fcddb1e
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,8 +48,8 @@ record:
     turn…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-improved-startup-time-slightly-by-skipping-a-redundant-validation-of-built-in-mo|Improved
-  startup time slightly by skipping a redundant validation of built-in model…]]'
+- '[[Changes/Claude Code/2026-09-14-2-model-support-changes-in-v2-1-271|2 Model Support
+  changes in v2.1.271]]'
 - '[[Changes/Claude Code/2026-09-15-changed-bug-and-feedback-reports-to-include-only-model-behavior-params-model-sys|Changed
   /bug and /feedback reports to include only model-behavior params…]]'
 - '[[Changes/Claude Code/2026-09-17-2-model-support-changes-in-v2-1-274|2 Model Support

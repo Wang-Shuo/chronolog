@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 13193eec2cc9058c857cd1130ced3cc35e00754b88b5f2245416b8c9225e2de3
+machine_hash: a9ee112af5861fbd0c7f38e5e15f538f8a9c0786382ae5ad793421622acf7717
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -61,10 +61,6 @@ record:
     - image generation
     score: 120
     theme: image-generation
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
   - matched_terms:
     - model
     score: 50

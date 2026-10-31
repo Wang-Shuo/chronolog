@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 06a09f76ee301dcf67640b298aa93fa9b9c6d248ed4ba7668a6c414fe67c1d60
+machine_hash: 6af3e3e66449239925f46ddee02889ff5467185bd442befd1c5f1a83b6329d4e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and|We have been working on a variety of usability and performance improvements and bug…]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and|We have been working on a variety of usability and performance improvements and bug…]] · Reliability and Performance
 - [[Changes/ChatGPT/2025-03-18-in-line-message-error-retries-if-you-encounter-a-message-error-you-can-retry-or|In-line message error retries]] · Reliability and Performance
 - [[Changes/ChatGPT/2025-03-18-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-ask-bfa530|o1 and o3-mini now offer Python-powered data analysis in ChatGPT]] · Model Support
 <!-- chronolog:end -->

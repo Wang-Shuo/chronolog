@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 8ed86bb26b4ceaf2f5ef18ac52b2bb48ec88c5c366ca6767a8172a62ec3cd7cf
+machine_hash: 28309a572d054c37d3c860143387cc1ca5aebf9cff5a051e80fa59f2fac38b0a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,15 +63,7 @@ record:
   source_release: chatgpt-2026-07-29-chatgpt-for-academic-researchers-9c67fb00
   source_type: chatgpt_changelog
   theme: pricing-model
-  theme_matches:
-  - matched_terms:
-    - sign in
-    score: 60
-    theme: account-access
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
+  theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: ChatGPT for Academic Researchers
   type: change

@@ -4,8 +4,8 @@ date: '2026-07-09'
 description: 'ChatGPT · 2026-07-09 · Mobile and Desktop: The new ChatGPT desktop app
   is available globally for macOS and Windows. It combines Chat for questions and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1213
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: bd2546556a7d056ab72c253f7afad17037625b14b5fab1a79a1e997c0686b0d9
+kind: change
+machine_hash: a9b33b8174a854229cf6aaa2e808fa5e9b9eca50ac855d8451a2be91cc8dfc10
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -33,9 +34,10 @@ record:
   - quote: The new ChatGPT desktop app is available globally for macOS and Windows.
       It combines Chat for questions and conversation, Work for research and finished
       deliverables, and Codex for software development in one app.
-    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  extractor_version: fallback-v4
+    source_release: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: chatgpt
   product_name: ChatGPT
   slug: the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi
@@ -45,15 +47,14 @@ record:
   title: The new ChatGPT desktop app is available globally for macOS and Windows
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2026-06-18-chatgpt-now-has-more-ways-to-help-with-common-questions-from-pronunciation-guida|ChatGPT
+  now has more ways to help with common questions, from pronunciation guidance…]]'
 - '[[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|Improved
   background session reliability]]'
-- '[[Changes/Cursor/2026-06-29-cursor-for-ios-is-now-available-in-public-beta-on-all-paid-plans-launch-and-mana|Cursor
-  for iOS is now available in public beta on all paid plans]]'
 - '[[Changes/ChatGPT/2026-07-09-to-create-a-site-start-in-chatgpt-work-on-the-web-or-in-work-or-codex-in-the-cha|To
   create a Site, start in ChatGPT Work on the web or in Work or Codex…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810|chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810]]'
 source_type: chatgpt_changelog
-superseded: true
 theme: mobile-desktop
 title: The new ChatGPT desktop app is available globally for macOS and Windows
 type: change
@@ -62,20 +63,19 @@ type: change
 <!-- chronolog:begin region="header" -->
 # The new ChatGPT desktop app is available globally for macOS and Windows
 
-**ChatGPT** · 2026-07-09 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · from [[Releases/ChatGPT/chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810|The new ChatGPT desktop app brings Chat, Work, and Codex together]]
+**ChatGPT** · 2026-07-09 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together) · from [[Releases/ChatGPT/chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810|The new ChatGPT desktop app brings Chat, Work, and Codex together]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
 > The new ChatGPT desktop app is available globally for macOS and Windows. It combines Chat for questions and conversation, Work for research and finished deliverables, and Codex for software development in one app.
 >
-> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+> Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2026-07-09-if-you-already-use-the-codex-app-update-it-as-usual-to-move-to-the-new-chatgpt-d|If you already use the Codex app, update it as usual to move to the new ChatGPT…]] · Safety and Privacy
-- [[Changes/ChatGPT/2026-07-09-on-desktop-work-can-use-local-files-and-desktop-apps-with-your-permission-the-bu|On desktop, Work can use local files and desktop apps with your permission]] · Safety and Privacy
+- [[Changes/ChatGPT/2026-07-09-on-desktop-work-can-use-local-files-and-desktop-apps-with-your-permission-the-bu-1e4d11|On desktop, Work can use local files and desktop apps with your permission]] · Safety and Privacy
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
@@ -92,5 +92,5 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
-[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-09-e26c54&body=Card%3A%20Changes%2FChatGPT%2F2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi.md%0ACard%20ID%3A%20chatgpt-2026-07-09-e26c54%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%0A%0AWhat%20should%20be%20corrected%3F%0A)
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20chatgpt-2026-07-09-e26c54&body=Card%3A%20Changes%2FChatGPT%2F2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi.md%0ACard%20ID%3A%20chatgpt-2026-07-09-e26c54%0ASource%3A%20https%3A%2F%2Fhelp.openai.com%2Fen%2Farticles%2F6825453-chatgpt-release-notes%23the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together%0A%0AWhat%20should%20be%20corrected%3F%0A)
 <!-- chronolog:end -->

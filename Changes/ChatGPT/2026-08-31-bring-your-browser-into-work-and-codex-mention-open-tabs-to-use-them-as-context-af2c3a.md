@@ -1,24 +1,24 @@
 ---
 card_id: chatgpt-2026-08-31-af2c3a
 date: '2026-08-31'
-description: 'ChatGPT · 2026-08-31 · Mobile and Desktop: Bring your browser into Work
+description: 'ChatGPT · 2026-08-31 · Context Window: Bring your browser into Work
   and Codex. Mention open tabs to use them as context, or ask ChatGPT to complete
-  a…'
+  a browser…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1266
+  lag_days: 1215
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: mobile-desktop
+  theme: context-window
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b02337131851139d3af738cd5e992b2cc0b0599b3c009e0a00534e7bd93bbbc
+machine_hash: 28fd39d1ed4f5ce2555122784200f64e3726596abb58e1f43f0e492cff520a65
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,29 +44,19 @@ record:
   slug: bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context
   source_release: chatgpt-2026-08-31-use-the-browser-extension-in-more-browsers-87a64682
   source_type: chatgpt_changelog
-  theme: mobile-desktop
-  theme_matches:
-  - matched_terms:
-    - context
-    score: 50
-    theme: context-window
-  - matched_terms:
-    - desktop
-    score: 50
-    theme: mobile-desktop
-  theme_resolution: manual-semantic-rule-v1
+  theme: context-window
   title: Bring your browser into Work and Codex
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-25-windows-macos-fixed-headless-sessions-not-cleaning-up-stale-entries-in-claude-se|Windows/macOS:
-  Fixed headless sessions not cleaning up stale entries…]]'
-- '[[Changes/Claude Code/2026-08-28-improved-amazon-bedrock-session-start-under-claude-code-provider-managed-by-host|Improved
-  Amazon Bedrock session start under CLAUDE_CODE_PROVIDER_MANAGED_BY_HOST…]]'
-- '[[Changes/ChatGPT/2026-08-31-chatgpt-work-and-codex-can-now-use-tools-that-supported-websites-provide-directl|ChatGPT
-  Work and Codex can now use tools that supported websites provide directly…]]'
+- '[[Changes/Claude Code/2026-08-26-changed-sonnet-5-s-default-auto-compact-window-to-its-full-1m-context-so-session|Changed
+  Sonnet 5''s default auto-compact window to its full 1M context, so sessions…]]'
+- '[[Changes/Claude Code/2026-08-27-improved-the-workflow-tool-s-prompt-footprint-its-description-is-now-about-1k-to|Improved
+  the Workflow tool''s prompt footprint]]'
+- '[[Changes/Claude Code/2026-08-28-improved-retry-when-the-model-s-tool-call-is-malformed-the-broken-output-is-now|Improved
+  retry when the model''s tool call is malformed]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-31-use-the-browser-extension-in-more-browsers-87a64682|chatgpt-2026-08-31-use-the-browser-extension-in-more-browsers-87a64682]]'
 source_type: chatgpt_changelog
-theme: mobile-desktop
+theme: context-window
 title: Bring your browser into Work and Codex
 type: change
 ---
@@ -74,7 +64,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Bring your browser into Work and Codex
 
-**ChatGPT** · 2026-08-31 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-the-browser-extension-in-more-browsers) · from [[Releases/ChatGPT/chatgpt-2026-08-31-use-the-browser-extension-in-more-browsers-87a64682|Use the browser extension in more browsers]]
+**ChatGPT** · 2026-08-31 · [[Themes/context-window|Context Window]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-the-browser-extension-in-more-browsers) · from [[Releases/ChatGPT/chatgpt-2026-08-31-use-the-browser-extension-in-more-browsers-87a64682|Use the browser extension in more browsers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -90,16 +80,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Mobile and Desktop
+## Nearby in Context Window
 
-- Earlier: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-chatgpt-work-and-codex-can-now-use-tools-that-supported-websites-provide-directl|ChatGPT Work and Codex can now use tools that supported websites provide directly…]]
-- Later: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are|Site tools use WebMCP and require a supported account, model, and webpage]]
+- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-improved-retry-when-the-model-s-tool-call-is-malformed-the-broken-output-is-now|Improved retry when the model's tool call is malformed]]
+- Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-3-context-window-changes-in-v2-1-260|3 Context Window changes in v2.1.260]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

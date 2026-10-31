@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eca328699b55de63b1566afc58c53b92de82bfa256473baf0b05296518401be4
+machine_hash: 135fd3a4b7067023b2493c8f88f689dbdc9a2f6829f1fdfa885643c3f7d17b26
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,10 +50,10 @@ record:
 related_changes:
 - '[[Changes/Claude Code/2026-09-03-improved-deleting-a-background-session-whose-worktree-has-unpushed-commits-the-m|Improved
   deleting a background session whose worktree has unpushed commits]]'
-- '[[Changes/Claude Code/2026-09-04-2-developer-workflow-changes-in-v2-1-261|2 Developer
+- '[[Changes/Claude Code/2026-09-04-3-developer-workflow-changes-in-v2-1-261|3 Developer
   Workflow changes in v2.1.261]]'
-- '[[Changes/Claude Code/2026-09-08-improved-worktree-startup-on-large-repositories-the-new-worktree-is-now-checked|Improved
-  --worktree startup on large repositories]]'
+- '[[Changes/Claude Code/2026-09-08-2-developer-workflow-changes-in-v2-1-265|2 Developer
+  Workflow changes in v2.1.265]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-09-v2-1-267-github-385748811-6409148e|claude-code-2026-09-09-v2-1-267-github-385748811-6409148e]]'
 source_type: github_releases
 theme: developer-workflow
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.267
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-improved-worktree-startup-on-large-repositories-the-new-worktree-is-now-checked|Improved --worktree startup on large repositories]]
+- Earlier: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-2-developer-workflow-changes-in-v2-1-265|2 Developer Workflow changes in v2.1.265]]
 - Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-code-review-added-a-note-under-the-still-open-findings-list-in-follow-up-reviews|Code Review Added a note under the still-open findings list in follow-up reviews]]
 <!-- chronolog:end -->
 

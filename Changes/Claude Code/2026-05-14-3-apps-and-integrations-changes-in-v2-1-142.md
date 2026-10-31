@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c5b2c93acd769462517ca3e9b69e546ffdda90cb3253cff489419bbd57cc5f98
+machine_hash: 4838bc6947f19afb6d57654d24f06f834f8bb2c280f574eb765a5b7710937017
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,8 +48,8 @@ record:
 related_changes:
 - '[[Changes/Claude Code/2026-05-12-plugins-now-warn-when-a-default-component-folder-e-g-commands-is-silently-ignore|Plugins
   now warn when a default component folder (e.g. commands/) is silently…]]'
-- '[[Changes/Claude Code/2026-05-13-2-apps-and-integrations-changes-in-v2-1-141|2
-  Apps and Integrations changes in v2.1.141]]'
+- '[[Changes/Claude Code/2026-05-13-added-claude-code-plugin-prefer-https-to-clone-github-plugin-sources-over-https|Added
+  CLAUDE_CODE_PLUGIN_PREFER_HTTPS to clone GitHub plugin sources over HTTPS…]]'
 - '[[Changes/Cursor/2026-05-13-improved-mcp-auth-token-lifecycle-handling|Improved
   MCP auth token lifecycle handling]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f|claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f]]'

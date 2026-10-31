@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 57c5c173f8bea01cf53031ce5c869404421310fd28f6801e63b7787d6cf79292
+machine_hash: 74b1301dd220fcf6c10b06f41de3fc113d8f59d5c60f3a67845fbbd671ac4e3b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,17 +48,7 @@ record:
   source_release: chatgpt-2025-11-21-more-images-in-answers-f12c1477
   source_type: chatgpt_changelog
   theme: model-support
-  theme_matches:
-  - matched_terms:
-    - gpt 5
-    - gpt 5 1
-    score: 130
-    theme: model-support
-  - matched_terms:
-    - android
-    - ios
-    score: 100
-    theme: mobile-desktop
+  theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: More images in answers
   type: change

@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ce1c190d02d38d8e368887847be297b82f74277be0fc87476a498496e0c8edf3
+machine_hash: 8b111e9b19f7b95b0b21cbba035cc42acfa97faf91112f3c950c855a10cb10cd
 product: cursor
 product_name: Cursor
 record:
@@ -46,10 +46,6 @@ record:
     score: 60
     theme: enterprise-admin
   - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
-  - matched_terms:
     - model
     score: 50
     theme: model-support
@@ -58,12 +54,12 @@ record:
     mode…'
   type: change
 related_changes:
+- '[[Changes/Cursor/2026-06-30-marketplace-access-by-organization-group-a2cf9b|Marketplace
+  access by organization group]]'
 - '[[Changes/Cursor/2026-06-30-we-ve-expanded-team-marketplaces-to-support-team-mcps-and-organization-groups|Cursor
   expands team marketplaces to support Team MCPs and organization groups]]'
 - '[[Changes/ChatGPT/2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w|Existing
   group chats will remain available and can continue to be used for now]]'
-- '[[Changes/Cursor/2026-07-10-combined-all-remote-options-your-machines-team-pools-and-existing-remote-workspa|Combined
-  all remote options—your machines, team pools, and existing remote…]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4|cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -99,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-07-10 · Cursor · [[Changes/Cursor/2026-07-10-combined-all-remote-options-your-machines-team-pools-and-existing-remote-workspa|Combined all remote options—your machines, team pools, and existing remote…]]
+- Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w|Existing group chats will remain available and can continue to be used for now]]
 - Later: 2026-07-29 · Cursor · [[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch between teams that you belong to directly in the app]]
 <!-- chronolog:end -->
 

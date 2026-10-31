@@ -7,7 +7,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 98ab4a319193b2a042a0df300799b7c5d7aba5cfb3adc8dcee1300b53fdb7854
+machine_hash: 40c7614fd47ab513d17cf3982fa53b0d40175f0b3a8a0fd8bef85fea74f0d7e7
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,7 +62,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.191
 - [[Changes/Claude Code/2026-06-24-added-rewind-support-for-resuming-a-conversation-from-before-clear-was-run|Added /rewind support for resuming a conversation from before /clear was run]] · Projects and Workspaces
 - [[Changes/Claude Code/2026-06-24-2-apps-and-integrations-changes-in-v2-1-191|2 Apps and Integrations changes in v2.1.191]] · Apps and Integrations
 - [[Changes/Claude Code/2026-06-24-improved-sandbox-network-permission-dialog-hosts-you-allow-with-yes-are-now-reme|Improved sandbox network permission dialog]] · Safety and Privacy
-- [[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced long-session memory growth from terminal output cache]] · Memory and Personalization
+- [[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced long-session memory growth from terminal output cache]] · Reliability and Performance
 - [[Changes/Claude Code/2026-06-24-improved-mcp-oauth-discovery-and-token-requests-now-retry-once-after-transient-n|Improved MCP OAuth]] · Account and Access
 <!-- chronolog:end -->
 

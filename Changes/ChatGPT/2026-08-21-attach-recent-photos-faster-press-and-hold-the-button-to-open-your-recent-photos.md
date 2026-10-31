@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f136f70fa7d207a0b6190464d6c6d30deac2782b3a41a9040e74ce31259cf2dc
+machine_hash: a5c082ba82ca727adc2a63a854abaa19eac98d2609c2be7f3688cf8aa59257d0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,8 +44,8 @@ record:
   title: Attach recent photos faster
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-18-improved-memory-and-cpu-usage-while-cloud-sessions-such-as-ultrareview-or-autofi|Improved
-  memory and CPU usage while cloud sessions such as /ultrareview…]]'
+- '[[Changes/Claude Code/2026-08-18-2-reliability-and-performance-changes-in-v2-1-235|2
+  Reliability and Performance changes in v2.1.235]]'
 - '[[Changes/Claude Code/2026-08-19-improved-startup-performance-the-session-counter-is-now-written-in-the-backgroun|Improved
   startup performance: the session counter is now written in the background]]'
 - '[[Changes/Claude Code/2026-08-20-improved-startup-responsiveness-the-automatic-update-check-now-runs-about-10-sec|Improved

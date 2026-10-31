@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f050427c0751912cb83ad1fe2e1eb12a2a25d194409c3a167ec45a75ab886fbd
+machine_hash: fd533607af02e32b7e971c0889389fce523daa275d5fd83236d091cdeef05821
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,8 +46,8 @@ record:
 related_changes:
 - '[[Changes/Claude Code/2026-09-17-vscode-added-a-claudecode-lockeditorgroups-setting-to-stop-claude-from-locking-t|VSCode
   Added a claudeCode.lockEditorGroups setting to stop Claude from locking…]]'
-- '[[Changes/Claude Code/2026-09-18-removed-the-background-haiku-auto-title-request-from-claude-p-runs-launched-outs|Removed
-  the background Haiku auto-title request from claude -p runs launched…]]'
+- '[[Changes/Claude Code/2026-09-18-2-editor-experience-changes-in-v2-1-277|2 Editor
+  Experience changes in v2.1.277]]'
 - '[[Changes/Claude Code/2026-09-22-vscode-changed-open-in-new-tab-to-open-claude-beside-the-editor-group-you-are-wo|VSCode
   Changed "Open in New Tab" to open Claude beside the editor group you…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-28-explore-your-health-data-with-personalized-summaries-bc04c126|chatgpt-2026-09-28-explore-your-health-data-with-personalized-summaries-bc04c126]]'

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: f85d2d13baeafce3664999bfff6ebd4fd4219ffa16fafd9668bbe06b492a3cd3
+machine_hash: 061211e170f7856d66601b51535a9244a0360ae3bcda93f856bb91e331059881
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -69,16 +69,6 @@ record:
   source_release: chatgpt-2025-09-29-parental-controls-8b95b69a
   source_type: chatgpt_changelog
   theme: safety-privacy
-  theme_matches:
-  - matched_terms:
-    - parental controls
-    - safety
-    score: 110
-    theme: safety-privacy
-  - matched_terms:
-    - mobile
-    score: 50
-    theme: mobile-desktop
   title: ChatGPT rolls out parental controls globally to help families guide how ChatGPT…
   type: change
 related_changes:

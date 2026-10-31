@@ -2,9 +2,8 @@
 changes_count: 13
 date: '2026-03-03'
 description: 'Cursor release MCP Apps and Team Marketplaces for Plugins on 2026-03-03:
-  13 tracked changes across Apps and Integrations, Developer Workflow, Enterprise
-  and…'
-machine_hash: e308ebde012eb2176a8e91b3d9d88e79366387ea90bc15e17094508cec428d67
+  13 tracked changes across Apps and Integrations, Developer Workflow, Agent Mode…'
+machine_hash: 3e40c0fe28737e5a63b6ef09e731eae493ad31f88944a977a37ada36eeb21f49
 product: cursor
 product_name: Cursor
 record:
@@ -53,7 +52,7 @@ Tracked 13 cards from 33 candidate lines.
 - [[Changes/Cursor/2026-03-03-3-developer-workflow-changes-in-2-6|3 Developer Workflow changes in 2.6]] · Developer Workflow · Digest
 - [[Changes/Cursor/2026-03-03-clearer-more-consistent-team-and-enterprise-policy-and-access-controls|Clearer, more consistent team and enterprise policy and access controls]] · Enterprise and Administration
 - [[Changes/Cursor/2026-03-03-2-context-window-changes-in-2-6|2 Context Window changes in 2.6]] · Context Window · Digest
-- [[Changes/Cursor/2026-03-03-on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p|Team marketplaces for plugins]] · Enterprise and Administration · Launch
+- [[Changes/Cursor/2026-03-03-on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p|Team marketplaces for plugins]] · Apps and Integrations · Launch
 - [[Changes/Cursor/2026-03-03-fixed-team-permission-and-access-control-inconsistencies-across-organization-set|Fixed team permission and access control inconsistencies across organization setups]] · Safety and Privacy · Fix
 - [[Changes/Cursor/2026-03-03-the-content-from-your-plan-files-are-now-included-in-autocomplete-suggestions-as|The content from your plan files are now included in autocomplete suggestions as you…]] · Interface Experience
 - [[Changes/Cursor/2026-03-03-this-release-introduces-interactive-uis-in-agent-chats-a-way-for-teams-to-share|Cursor introduces interactive UIs in agent chats, a way for teams to share private…]] · Developer Workflow · Launch

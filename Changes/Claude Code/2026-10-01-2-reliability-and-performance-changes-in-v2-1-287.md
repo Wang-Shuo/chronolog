@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 885df52ba4d65d8ebe4d84a9090149dd7ecfee02923b5b4fc087d4ce52752b10
+machine_hash: 8405a9a94f0f79a7c55d930fa317504d59d34d88490d5e6d1147dda2fe468f3e
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   the PowerShell tool''s permission check skipping deny and ask rules…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'
 source_type: github_releases
+superseded: true
 theme: reliability-performance
 title: 2 Reliability and Performance changes in v2.1.287
 type: change

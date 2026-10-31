@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8f046c509a79e5cb88e39c302ee4beba59986ed98ef11f6d450d130796bb2837
+machine_hash: 4b947b3fc5845459d1b6f0d1fbe4bba29e39ffa797635462415a3b8fa1d5b07c
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Improved memory usage and startup time when resuming large sessions
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-10-improved-bash-command-parsing-by-switching-to-a-native-module-faster-initializat|Improved
-  bash command parsing by switching to a native module]]'
-- '[[Changes/Claude Code/2026-03-11-improved-ide-detection-speed-at-startup|Improved
-  IDE detection speed at startup]]'
-- '[[Changes/Claude Code/2026-03-17-faster-resume-on-fork-heavy-and-very-large-sessions-up-to-45-faster-loading-and|Faster
-  --resume on fork-heavy and very large sessions]]'
+- '[[Changes/Claude Code/2026-03-11-2-reliability-and-performance-changes-in-v2-1-73|2
+  Reliability and Performance changes in v2.1.73]]'
+- '[[Changes/Claude Code/2026-03-12-added-actionable-suggestions-to-context-command-identifies-context-heavy-tools-m|Added
+  actionable suggestions to /context command]]'
+- '[[Changes/Claude Code/2026-03-17-2-reliability-and-performance-changes-in-v2-1-77|2
+  Reliability and Performance changes in v2.1.77]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721|claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721]]'
 source_type: github_releases
 theme: reliability-performance
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-faster-resume-on-fork-heavy-and-very-large-sessions-up-to-45-faster-loading-and|Faster --resume on fork-heavy and very large sessions]]
+- Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-2-reliability-and-performance-changes-in-v2-1-77|2 Reliability and Performance changes in v2.1.77]]
 - Later: 2026-03-18 · Claude Code · [[Changes/Claude Code/2026-03-18-2-reliability-and-performance-changes-in-v2-1-79|2 Reliability and Performance changes in v2.1.79]]
 <!-- chronolog:end -->
 

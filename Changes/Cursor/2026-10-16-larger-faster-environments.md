@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 37cb54c383849f71b329c4f694ccd9a283d5998102eeae351d540a6bf5cd6cca
+machine_hash: b7df061e7a361a0c28ba29868f2aea7bfaf8f54e388ba41249c266fa69dd2b9e
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,10 @@ record:
   title: Larger, faster environments
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-06-improved-rendering-speed-of-long-bulleted-or-numbered-replies-they-stream-resize|Improved
-  rendering speed of long bulleted or numbered replies]]'
 - '[[Changes/Claude Code/2026-10-09-improved-transcript-toggle-ctrl-o-responsiveness-in-code-heavy-conversations-by|Improved
   transcript toggle (ctrl+o) responsiveness in code-heavy conversations…]]'
+- '[[Changes/Claude Code/2026-10-14-improved-memory-and-disk-use-when-pdfs-are-mentioned-their-bytes-are-no-longer-k|Improved
+  memory and disk use when PDFs are @-mentioned]]'
 - '[[Changes/ChatGPT/2026-10-16-faster-responses|Faster responses]]'
 source_release: '[[Releases/Cursor/cursor-2026-10-16-cloud-agent-canvases-and-environment-improvements-https-cursor-c-1809cd74|cursor-2026-10-16-cloud-agent-canvases-and-environment-improvements-https-cursor-c-1809cd74]]'
 source_type: cursor_changelog
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-faster-responses|Faster responses]]
-- Later: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-improved-responsiveness-and-throughput-when-many-subagents-are-running-at-the-sa|Improved responsiveness and throughput when many subagents are running at the same time]]
+- Later: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-2-reliability-and-performance-changes-in-v2-1-304|2 Reliability and Performance changes in v2.1.304]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

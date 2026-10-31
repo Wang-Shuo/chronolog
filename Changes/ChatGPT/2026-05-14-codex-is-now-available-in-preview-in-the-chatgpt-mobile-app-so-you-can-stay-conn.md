@@ -1,24 +1,24 @@
 ---
 card_id: chatgpt-2026-05-14-366d1d
 date: '2026-05-14'
-description: 'ChatGPT · 2026-05-14 · Mobile and Desktop: Codex is now available in
-  preview in the ChatGPT mobile app, so you can stay connected to active work from
+description: 'ChatGPT · 2026-05-14 · Projects and Workspaces: Codex is now available
+  in preview in the ChatGPT mobile app, so you can stay connected to active work from
   your…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|Conversation
+    history: You’ll soon be able to view past conversations with ChatGPT…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1157
+  lag_days: 1246
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: mobile-desktop
+  theme: projects-workspaces
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: 564e7f67e988ce2b70f49d220644adda35de29a32d91de53d647a4f82f767e8a
+machine_hash: 49aa436a74c470ea14478be2f5b31bfce5389585d3a809196d3eed3667838ad4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -68,15 +68,8 @@ record:
   slug: codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn
   source_release: chatgpt-2026-05-14-codex-remote-access-from-the-chatgpt-mobile-app-50be5441
   source_type: chatgpt_changelog
-  theme: mobile-desktop
+  theme: projects-workspaces
   theme_matches:
-  - matched_terms:
-    - android
-    - ios
-    - macos
-    - mobile
-    score: 200
-    theme: mobile-desktop
   - matched_terms:
     - project context
     score: 60
@@ -93,18 +86,19 @@ record:
     - terminal
     score: 50
     theme: developer-workflow
+  theme_resolution: manual-semantic-rule-v1
   title: Codex remote access from the ChatGPT mobile app
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-22-native-builds-on-macos-and-linux-the-glob-and-grep-tools-are-replaced-by-embedde|Native
-  builds on macOS and Linux]]'
-- '[[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The
-  agents that run in the Cursor desktop app, CLI, and web app are now accessible…]]'
-- '[[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|More
-  images in answers for Free users]]'
+- '[[Changes/Claude Code/2026-04-07-improved-resume-to-resume-sessions-from-other-worktrees-of-the-same-repo-directl|Improved
+  --resume to resume sessions from other worktrees of the same repo…]]'
+- '[[Changes/Claude Code/2026-05-01-added-claude-project-purge-path-to-delete-all-claude-code-state-for-a-project-tr|-
+  Added claude project purge path to delete all Claude Code state for a project…]]'
+- '[[Changes/Claude Code/2026-05-13-feedback-can-now-include-recent-sessions-last-24-hours-or-7-days-for-issues-span|/feedback
+  can now include recent sessions (last 24 hours or 7 days) for issues…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-14-codex-remote-access-from-the-chatgpt-mobile-app-50be5441|chatgpt-2026-05-14-codex-remote-access-from-the-chatgpt-mobile-app-50be5441]]'
 source_type: chatgpt_changelog
-theme: mobile-desktop
+theme: projects-workspaces
 title: Codex remote access from the ChatGPT mobile app
 type: change
 ---
@@ -112,7 +106,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Codex remote access from the ChatGPT mobile app
 
-**ChatGPT** · 2026-05-14 · [[Themes/mobile-desktop|Mobile and Desktop]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-remote-access-from-the-chatgpt-mobile-app) · from [[Releases/ChatGPT/chatgpt-2026-05-14-codex-remote-access-from-the-chatgpt-mobile-app-50be5441|Codex remote access from the ChatGPT mobile app]]
+**ChatGPT** · 2026-05-14 · [[Themes/projects-workspaces|Projects and Workspaces]] · Expansion · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-remote-access-from-the-chatgpt-mobile-app) · from [[Releases/ChatGPT/chatgpt-2026-05-14-codex-remote-access-from-the-chatgpt-mobile-app-50be5441|Codex remote access from the ChatGPT mobile app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -126,16 +120,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Mobile and Desktop
+## Nearby in Projects and Workspaces
 
-- Earlier: 2026-05-12 · ChatGPT · [[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|More images in answers for Free users]]
-- Later: 2026-05-14 · ChatGPT · [[Changes/ChatGPT/2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is|Generated images will continue to appear in the Images tab]]
+- Earlier: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-feedback-can-now-include-recent-sessions-last-24-hours-or-7-days-for-issues-span|/feedback can now include recent sessions (last 24 hours or 7 days) for issues…]]
+- Later: 2026-06-24 · Claude Code · [[Changes/Claude Code/2026-06-24-added-rewind-support-for-resuming-a-conversation-from-before-clear-was-run|Added /rewind support for resuming a conversation from before /clear was run]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt|Conversation history: You’ll soon be able to view past conversations with ChatGPT…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

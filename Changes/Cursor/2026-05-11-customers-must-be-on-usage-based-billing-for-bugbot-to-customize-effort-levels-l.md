@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 933d6ccd28f8ea4e9c60552bbca7500de3676135c2f6e8abb242c062e46ebb80
+machine_hash: 509aab7c2f8458fa6169c214cfadc3d3ced4f17ef7414dd9f8d78c1f3c4fb517
 product: cursor
 product_name: Cursor
 record:
@@ -44,10 +44,10 @@ record:
   title: Customers must be on usage-based billing for Bugbot to customize effort levels
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2026-04-09-pro-200-month-our-highest-usage-option-remains-available-and-continues-on-its-cu|Pro
+  ($200/month): Our highest-usage option remains available and continues…]]'
 - '[[Changes/ChatGPT/2026-04-09-you-can-upgrade-switch-or-cancel-your-plan-from-settings-my-plan-or-from-the-pri|You
   can upgrade, switch, or cancel your plan from Settings  My Plan or…]]'
-- '[[Changes/Claude Code/2026-04-09-fixed-false-bash-permission-prompts-for-cut-d-paste-d-column-s-awk-print-1-file|Fixed
-  false Bash permission prompts for cut -d /, paste -d /, column -s /…]]'
 - '[[Changes/Claude Code/2026-04-22-opentelemetry-user-prompt-events-now-include-command-name-and-command-source-for|OpenTelemetry:
   user_prompt events now include command_name and command_source…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617|cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617]]'

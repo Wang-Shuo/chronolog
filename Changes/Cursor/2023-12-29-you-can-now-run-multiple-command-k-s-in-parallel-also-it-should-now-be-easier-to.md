@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2d98020b6a6fc675d3114f5dea1c8c7eab83a435d408315f5cf756ba2664550d
+machine_hash: 465571e7d30b1a8038472f8d6a3907c6e730ba02a3fe1e502f8e0aeb3cf00b2c
 product: cursor
 product_name: Cursor
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2023-12-16 · Cursor · [[Changes/Cursor/2023-12-16-update-0-20-1-0-20-2-we-added-tldrs-to-make-it-easier-to-sort-through-the-bugs-f|UPDATE (0.20.1-0.20.2): We added TLDRs to make it easier to sort through the bugs…]]
-- Later: 2023-12-31 · Cursor · [[Changes/Cursor/2023-12-31-you-can-now-use-chat-and-cmd-k-in-the-aux-window-without-too-many-problems|Aux Window Fixes]]
+- Later: 2023-12-30 · Cursor · [[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|VS Code 1.85.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

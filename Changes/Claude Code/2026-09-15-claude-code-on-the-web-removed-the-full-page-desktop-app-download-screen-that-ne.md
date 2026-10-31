@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fe1aff2e609a2758c6457f9903462acae99e083f6a6c04b0cdb4c7389c44ce32
+machine_hash: 2d31031ba2c21cb98f0f324d3722261e9d96f8b5aee447364fcb8d459479ca12
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     that new…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-08-added-user-email-and-user-groups-to-the-telemetry-claude-desktop-and-cowork-send|Added
-  user.email and user.groups to the telemetry Claude Desktop and Cowork send…]]'
+- '[[Changes/ChatGPT/2026-09-08-turn-a-sketch-into-an-image-on-mobile-type-in-the-message-box-and-select-sketch|Turn
+  a sketch into an image]]'
 - '[[Changes/Claude Code/2026-09-11-changed-skills-synced-from-claude-ai-in-cloud-sessions-to-be-named-anthropic-ski|Changed
   skills synced from claude.ai in cloud sessions to be named…]]'
-- '[[Changes/Claude Code/2026-09-14-2-mobile-and-desktop-changes-in-v2-1-271|2 Mobile
-  and Desktop changes in v2.1.271]]'
+- '[[Changes/Claude Code/2026-09-14-improved-mobile-to-show-a-single-qr-code-for-claude-ai-mobile-which-opens-the-ri|Improved
+  /mobile to show a single QR code for claude.ai/mobile, which opens…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-2-mobile-and-desktop-changes-in-v2-1-271|2 Mobile and Desktop changes in v2.1.271]]
+- Earlier: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-improved-mobile-to-show-a-single-qr-code-for-claude-ai-mobile-which-opens-the-ri|Improved /mobile to show a single QR code for claude.ai/mobile, which opens…]]
 - Later: 2026-09-17 · ChatGPT · [[Changes/ChatGPT/2026-09-17-you-can-now-connect-multiple-accounts-to-plugins-in-chatgpt-expanding-support-be|Connect multiple accounts to plugins in ChatGPT]]
 <!-- chronolog:end -->
 

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2712c0beecd73e93b6b8eef4ab9d0f6cd7acb3d88ebbe8956f669c5f2fac345f
+machine_hash: 3f48a0024f4a63b56fd971a0a1a10ae3aa9ef4687707834034a0f1f54f230b9b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,8 +63,8 @@ record:
   title: Start automations from connected-app events
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-28-9-apps-and-integrations-changes-in-v2-1-284|9
-  Apps and Integrations changes in v2.1.284]]'
+- '[[Changes/ChatGPT/2026-09-29-this-is-a-limited-preview-with-participating-integrations-using-purchased-credit|This
+  is a limited preview with participating integrations]]'
 - '[[Changes/ChatGPT/2026-09-29-plugins-can-now-include-interactive-panels-sidebar-views-and-viewers-or-editors-d0bd7e|Work
   with interactive plugin extensions]]'
 - '[[Changes/ChatGPT/2026-09-29-we-re-making-it-easier-to-bring-meeting-context-into-chatgpt-so-you-can-act-on-n|We’re

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bc006c65ebcb26b7dcd0121ceacdf694ce2fdf087cd3d4b010671838ff67debc
+machine_hash: 1e1ed39f57a620d17b70de16fe03b824e5af46447cef24399b5285574d025f23
 product: cursor
 product_name: Cursor
 record:
@@ -48,12 +48,11 @@ record:
   title: 4 Reliability and Performance changes in 1.2
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-04-faster-responses-with-parallel-tool-calls|Faster responses
-  with parallel tool calls]]'
 - '[[Changes/Cursor/2025-06-12-3-reliability-and-performance-changes-in-1-1|3 Reliability
   and Performance changes in 1.1]]'
 - '[[Changes/ChatGPT/2025-06-13-improved-search-capability-and-instruction-following-594de0|Improved
   search capability and instruction following]]'
+- '[[Changes/Cursor/2025-07-03-faster-tab|Faster Tab]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -87,7 +86,7 @@ Source: https://cursor.com/changelog/1-2
 - [[Changes/Cursor/2025-07-03-chat-rendering-bugs-resolved-toolcall-display-overflow-issues|Chat rendering bugs resolved (toolcall display, overflow issues)]] · Interface Experience
 - [[Changes/Cursor/2025-07-03-memories-is-now-ga-since-1-0-we-ve-improved-memory-generation-quality-added-in-e|Memories (now GA)]] · Memory and Personalization
 - [[Changes/Cursor/2025-07-03-let-agent-resolve-merge-conflicts|Let Agent resolve merge conflicts]] · Agent Mode
-- [[Changes/Cursor/2025-07-03-faster-tab|Faster Tab]] · Memory and Personalization
+- [[Changes/Cursor/2025-07-03-faster-tab|Faster Tab]] · Reliability and Performance
 - [[Changes/Cursor/2025-07-03-agent-to-dos-3ffa24|Agent To-dos]] · Agent Mode
 - [[Changes/Cursor/2025-07-03-2-apps-and-integrations-changes-in-1-2|2 Apps and Integrations changes in 1.2]] · Apps and Integrations
 - [[Changes/Cursor/2025-07-03-you-can-now-queue-follow-up-messages-for-agent-once-it-s-done-with-current-task|Queued messages]] · Agent Mode

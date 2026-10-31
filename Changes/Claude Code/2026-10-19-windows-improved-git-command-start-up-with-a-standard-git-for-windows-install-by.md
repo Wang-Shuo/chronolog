@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4766c8e714f6c4fbb126ad8bf77b8521daa1b345fcfdd485907ec67b08d081ec
+machine_hash: 9301b8a5ee79146cc3350ef0bf6c86fe84f54d82c69f47495a2a28c33a401dca
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 'Windows: Improved git command start-up with a standard Git for Windows install…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-3-mobile-and-desktop-changes-in-v2-1-300|3 Mobile
+- '[[Changes/Claude Code/2026-10-14-2-mobile-and-desktop-changes-in-v2-1-300|2 Mobile
   and Desktop changes in v2.1.300]]'
-- '[[Changes/Claude Code/2026-10-15-2-mobile-and-desktop-changes-in-v2-1-301|2 Mobile
-  and Desktop changes in v2.1.301]]'
+- '[[Changes/Claude Code/2026-10-15-improved-artifacts-pages-claude-writes-now-paint-the-band-above-a-sticky-header|Improved
+  artifacts: pages Claude writes now paint the band above a sticky header…]]'
 - '[[Changes/ChatGPT/2026-10-16-present-or-export-present-directly-from-chatgpt-on-the-web-export-to-powerpoint|Present
   or export. Present directly from ChatGPT]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994|claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994]]'
@@ -75,7 +75,6 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-10-19-added-a-warning-on-pro-and-max-plans-when-resuming-an-inactive-conversation-woul|Added a warning on Pro and Max plans when resuming an inactive conversation would…]] · Collaboration
-- [[Changes/Claude Code/2026-10-19-improved-responsiveness-and-throughput-when-many-subagents-are-running-at-the-sa|Improved responsiveness and throughput when many subagents are running at the same time]] · Reliability and Performance
 - [[Changes/Claude Code/2026-10-19-3-context-window-changes-in-v2-1-304|3 Context Window changes in v2.1.304]] · Context Window
 - [[Changes/Claude Code/2026-10-19-8-apps-and-integrations-changes-in-v2-1-304|8 Apps and Integrations changes in v2.1.304]] · Apps and Integrations
 - [[Changes/Claude Code/2026-10-19-2-agent-mode-changes-in-v2-1-304|2 Agent Mode changes in v2.1.304]] · Agent Mode
@@ -83,7 +82,7 @@ type: change
 - [[Changes/Claude Code/2026-10-19-added-decider-person-to-a-mod-s-tool-check-answer-only-the-permission-dialog-or|Added decider: "person" to a mod's tool.check answer: only the permission dialog…]] · Safety and Privacy
 - [[Changes/Claude Code/2026-10-19-added-claude-api-managed-agents-secure-which-compares-a-managed-agents-agent-s-s|Added /claude-api managed-agents-secure, which compares a Managed Agents agent's…]] · Agent Mode
 - [[Changes/Claude Code/2026-10-19-2-model-support-changes-in-v2-1-304|2 Model Support changes in v2.1.304]] · Model Support
-- [[Changes/Claude Code/2026-10-19-improved-memory-use-when-sending-requests-in-long-or-resumed-conversations|Improved memory use when sending requests in long or resumed conversations]] · Memory and Personalization
+- [[Changes/Claude Code/2026-10-19-2-reliability-and-performance-changes-in-v2-1-304|2 Reliability and Performance changes in v2.1.304]] · Reliability and Performance
 - [[Changes/Claude Code/2026-10-19-9-other-changes-in-v2-1-304|9 other changes in v2.1.304]] · Other changes
 <!-- chronolog:end -->
 
@@ -91,7 +90,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-present-or-export-present-directly-from-chatgpt-on-the-web-export-to-powerpoint|Present or export. Present directly from ChatGPT]]
-- Later: 2026-10-20 · ChatGPT · [[Changes/ChatGPT/2026-10-20-locked-chats-let-you-keep-selected-conversations-in-your-account-while-hiding-th|Introducing locked chats]]
+- Later: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-changed-the-dangerous-rm-and-rmdir-prompt-in-bypass-permissions-mode-in-the-desk|Changed the dangerous rm and rmdir prompt in bypass permissions mode…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

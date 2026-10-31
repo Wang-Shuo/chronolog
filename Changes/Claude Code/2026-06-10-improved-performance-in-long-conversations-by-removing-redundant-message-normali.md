@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 64ad278849170c7c0981b11bd8fe4c7875b383fbff4d0dfa38cffc342b5dc430
+machine_hash: 6cd7f328f438ee737e63fa4c8461d106b8a325141fdc53e21e67fa6eef37ff7c
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Improved performance in long conversations by removing redundant message…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-improved-auto-mode-classifier-latency-by-reducing-reasoning-on-routine-actions-l|Improved
-  auto mode classifier latency by reducing reasoning on routine actions…]]'
 - '[[Changes/Claude Code/2026-06-02-improved-rendering-performance-for-large-file-writes|Improved
   rendering performance for large file writes]]'
 - '[[Changes/Cursor/2026-06-04-reliability-performance-and-platform-improvements|Reliability,
   performance, and platform improvements]]'
+- '[[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run
+  correlation: Every send() now carries a platform-generated requestId, exposed…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c|claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c]]'
 source_type: github_releases
 theme: reliability-performance
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-reliability-performance-and-platform-improvements|Reliability, performance, and platform improvements]]
+- Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run correlation: Every send() now carries a platform-generated requestId, exposed…]]
 - Later: 2026-06-10 · Cursor · [[Changes/Cursor/2026-06-10-the-average-review-time-for-bugbot-is-now-90-seconds-down-from-5-minutes-bugbot-362593|The average review time for Bugbot is now ~90 seconds, down from ~5 minutes]]
 <!-- chronolog:end -->
 

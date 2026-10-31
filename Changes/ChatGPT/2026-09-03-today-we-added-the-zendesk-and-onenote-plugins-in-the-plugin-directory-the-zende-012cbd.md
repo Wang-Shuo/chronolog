@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e1ef73ff9f3acbfb8f470ce1e3e29de2a1d1feeb8b658a8b547668693b463bcf
+machine_hash: 9261b7a55fe08f8003590a28dd708569f69324e3c6565dfb26ce0c7f0f64b997
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,16 +50,6 @@ record:
   source_release: chatgpt-2026-09-03-zendesk-onenote-plugins-in-chatgpt-and-codex-beta-d31462ff
   source_type: chatgpt_changelog
   theme: apps-integrations
-  theme_matches:
-  - matched_terms:
-    - plugin
-    - plugins
-    score: 100
-    theme: apps-integrations
-  - matched_terms:
-    - teams
-    score: 50
-    theme: collaboration
   title: Zendesk & OneNote Plugins in ChatGPT and Codex [Beta]
   type: change
 related_changes:

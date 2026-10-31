@@ -1,23 +1,23 @@
 ---
 card_id: chatgpt-2026-09-29-e895c4
 date: '2026-09-29'
-description: 'ChatGPT · 2026-09-29 · Mobile and Desktop: Audio is deleted once your
-  notes are ready and can’t be accessed or replayed. Available in beta in the ChatGPT…'
+description: 'ChatGPT · 2026-09-29 · Voice and Audio: Audio is deleted once your notes
+  are ready and can’t be accessed or replayed. Available in beta in the ChatGPT desktop…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
+    (Beta) is now rolling out to Plus users on iOS and Android]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1295
+  lag_days: 1100
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: mobile-desktop
+  theme: voice
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6372681dc3bb3ad86c31b0c5f5e3600fafcc2298d0e7761053760c3b40ea32eb
+machine_hash: 75da6477ec11b79d1705e5dac0ef5bea9bdf844a3790a830dcf324d0143b3142
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,33 +40,19 @@ record:
   slug: audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava
   source_release: chatgpt-2026-09-29-meetings-plugin-157dcc24
   source_type: chatgpt_changelog
-  theme: mobile-desktop
-  theme_matches:
-  - matched_terms:
-    - desktop
-    - macos
-    score: 100
-    theme: mobile-desktop
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
-  - matched_terms:
-    - audio
-    score: 50
-    theme: voice
+  theme: voice
   title: Audio is deleted once your notes are ready and can’t be accessed or replayed
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-23-2-mobile-and-desktop-changes-in-v2-1-281|2 Mobile
-  and Desktop changes in v2.1.281]]'
-- '[[Changes/Claude Code/2026-09-24-2-mobile-and-desktop-changes-in-v2-1-282|2 Mobile
-  and Desktop changes in v2.1.282]]'
-- '[[Changes/ChatGPT/2026-09-29-site-owners-and-editors-on-plus-and-pro-can-select-edit-site-from-a-published-si|Site
-  owners and editors on Plus and Pro can select Edit site from a published Site…]]'
+- '[[Changes/ChatGPT/2026-08-31-follow-along-outside-the-app-live-activities-can-show-content-from-your-voice-co|Follow
+  along outside the app]]'
+- '[[Changes/ChatGPT/2026-08-31-to-continue-a-voice-conversation-outside-chatgpt-turn-on-background-conversation|To
+  continue a Voice conversation outside ChatGPT, turn on Background conversations…]]'
+- '[[Changes/ChatGPT/2026-09-23-live-now-supports-plugins-on-web-ios-and-android-you-can-use-the-plugins-and-con-88a242|Use
+  plugins in Voice and get work done by speaking]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-meetings-plugin-157dcc24|chatgpt-2026-09-29-meetings-plugin-157dcc24]]'
 source_type: chatgpt_changelog
-theme: mobile-desktop
+theme: voice
 title: Audio is deleted once your notes are ready and can’t be accessed or replayed
 type: change
 ---
@@ -74,7 +60,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Audio is deleted once your notes are ready and can’t be accessed or replayed
 
-**ChatGPT** · 2026-09-29 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meetings-plugin) · from [[Releases/ChatGPT/chatgpt-2026-09-29-meetings-plugin-157dcc24|Meetings plugin]]
+**ChatGPT** · 2026-09-29 · [[Themes/voice|Voice and Audio]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meetings-plugin) · from [[Releases/ChatGPT/chatgpt-2026-09-29-meetings-plugin-157dcc24|Meetings plugin]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -90,16 +76,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Mobile and Desktop
+## Nearby in Voice and Audio
 
-- Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-site-owners-and-editors-on-plus-and-pro-can-select-edit-site-from-a-published-si|Site owners and editors on Plus and Pro can select Edit site from a published Site…]]
-- Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-6-mobile-and-desktop-changes-in-v2-1-285|6 Mobile and Desktop changes in v2.1.285]]
+- Earlier: 2026-09-23 · ChatGPT · [[Changes/ChatGPT/2026-09-23-live-now-supports-plugins-on-web-ios-and-android-you-can-use-the-plugins-and-con-88a242|Use plugins in Voice and get work done by speaking]]
+- Later: 2026-10-06 · ChatGPT · [[Changes/ChatGPT/2026-10-06-upload-audio-files-to-chatgpt-to-create-transcripts-summarize-recordings-and-ask|Audio uploads in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

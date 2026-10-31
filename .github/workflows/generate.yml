@@ -46,7 +46,12 @@ jobs:
           python -m _scripts.rolling_pr prepare --base "$BASE_BRANCH" --state _pipeline/rolling-state.json
       - run: python -m pip install -e '.[dev]'
       - run: npm ci
+      # Automatic browser capture of the ChatGPT page is opt-in (repository variable
+      # CHRONOLOG_BROWSER_FALLBACK=true): the Help Center answers automated HTTP with 403,
+      # and a capture that only succeeds in a headed browser works around that refusal.
+      # Off, ChatGPT keeps its reviewed history and is refreshed from a manual snapshot.
       - name: Install optional browser collector
+        if: vars.CHRONOLOG_BROWSER_FALLBACK == 'true'
         continue-on-error: true
         run: |
           python -m pip install -e '.[browser]'
@@ -57,12 +62,14 @@ jobs:
           CHRONOLOG_GITHUB_READ_TOKEN: ${{ github.token }}
           CHRONOLOG_BROWSER_HEADED: '1'
           CHRONOLOG_BROWSER_CHANNEL: chrome
+          BROWSER_FALLBACK: ${{ vars.CHRONOLOG_BROWSER_FALLBACK }}
           PREVIEW: ${{ inputs.preview }}
         run: |
           base="${SITE_BASE:-${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY#*/}}"
-          args=(python -m _scripts.operations --mode generate --run-id "daily-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}" --output _pipeline/operations --base-url "$base" --production --browser-fallback --allow-partial)
+          args=(python -m _scripts.operations --mode generate --run-id "daily-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}" --output _pipeline/operations --base-url "$base" --production --allow-partial)
           if [ "$PREVIEW" != true ]; then args+=(--apply); fi
-          if command -v xvfb-run >/dev/null 2>&1; then
+          if [ "$BROWSER_FALLBACK" = true ]; then args+=(--browser-fallback); fi
+          if [ "$BROWSER_FALLBACK" = true ] && command -v xvfb-run >/dev/null 2>&1; then
             xvfb-run -a "${args[@]}"
           else
             # A missing display/browser is recorded as a source failure; healthy sources continue.
@@ -148,3 +155,41 @@ jobs:
           name: publication-${{ github.run_id }}-${{ github.run_attempt }}
           retention-days: 90
           path: _pipeline/publication/rolling-pr.json
+
+  # A degraded run exits 0 and a waiting review PR is silent, so one issue carries the
+  # pipeline's state: opened or commented while something needs attention, closed on
+  # recovery. The job fails when a run failed or a source's reviewed data is too old.
+  notify:
+    needs: [generate, publish]
+    if: always() && inputs.preview != true && github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    permissions:
+      actions: read
+      contents: read
+      issues: write
+      pull-requests: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install -e .
+      - uses: actions/download-artifact@v4
+        # A run that stopped before uploading its report is assessed as failed.
+        continue-on-error: true
+        with:
+          name: generation-${{ github.run_id }}-${{ github.run_attempt }}
+          path: _pipeline/generation
+      - name: Update the pipeline health issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          BASE_BRANCH: ${{ github.event.repository.default_branch }}
+          OWNER: ${{ github.repository_owner }}
+          PUBLISH_RESULT: ${{ needs.publish.result }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          python -m _scripts.pipeline_health --quality _pipeline/generation/operations/quality.json \
+            --publish-result "$PUBLISH_RESULT" --base "$BASE_BRANCH" --owner "$OWNER" --run-url "$RUN_URL"

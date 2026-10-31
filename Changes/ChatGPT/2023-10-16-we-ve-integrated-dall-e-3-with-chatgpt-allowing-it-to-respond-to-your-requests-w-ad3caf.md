@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0ac2e029cdfac85e2f7617f6d2a787960c4be69adac064ec0e35b752172c4f52
+machine_hash: efb8955e6a52dc603b6377c5c6c106eaee93ba20ff0c3ec93d0a93c56e82305d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,10 +56,6 @@ record:
     - gpt 4
     score: 60
     theme: model-support
-  - matched_terms:
-    - mobile
-    score: 50
-    theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v2
   title: DALL·E 3 is now rolling out in beta
   type: change

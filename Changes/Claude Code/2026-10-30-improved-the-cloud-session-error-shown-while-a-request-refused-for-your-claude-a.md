@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 08f3daa430ea4ceb89214981c6eed5fa78153dce437d8a2ef2146f4045db9d5e
+machine_hash: 073ef516c94e3921851aec50995c8bdea160e8beea3930424e404b663d11ed81
 product: claude-code
 product_name: Claude Code
 record:
@@ -72,15 +72,14 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-10-30-3-agent-mode-changes-in-v2-1-314|3 Agent Mode changes in v2.1.314]] · Agent Mode
-- [[Changes/Claude Code/2026-10-30-improved-permissions-review-tab-now-called-recently-blocked-the-footer-says-what|Improved /permissions review tab, now called Recently blocked]] · Editor Experience
+- [[Changes/Claude Code/2026-10-30-3-reliability-and-performance-changes-in-v2-1-314|3 Reliability and Performance changes in v2.1.314]] · Reliability and Performance
 - [[Changes/Claude Code/2026-10-30-3-enterprise-and-administration-changes-in-v2-1-314|3 Enterprise and Administration changes in v2.1.314]] · Enterprise and Administration
 - [[Changes/Claude Code/2026-10-30-4-developer-workflow-changes-in-v2-1-314|4 Developer Workflow changes in v2.1.314]] · Developer Workflow
 - [[Changes/Claude Code/2026-10-30-2-model-support-changes-in-v2-1-314|2 Model Support changes in v2.1.314]] · Model Support
-- [[Changes/Claude Code/2026-10-30-macos-changed-git-grep-in-most-commands-that-claude-runs-to-use-the-c-locale-to|macOS: Changed git grep in most commands that Claude runs to use the C locale…]] · Reliability and Performance
 - [[Changes/Claude Code/2026-10-30-3-apps-and-integrations-changes-in-v2-1-314|3 Apps and Integrations changes in v2.1.314]] · Apps and Integrations
 - [[Changes/Claude Code/2026-10-30-10-safety-and-privacy-changes-in-v2-1-314|10 Safety and Privacy changes in v2.1.314]] · Safety and Privacy
-- [[Changes/Claude Code/2026-10-30-2-memory-and-personalization-changes-in-v2-1-314|2 Memory and Personalization changes in v2.1.314]] · Memory and Personalization
-- [[Changes/Claude Code/2026-10-30-3-mobile-and-desktop-changes-in-v2-1-314|3 Mobile and Desktop changes in v2.1.314]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-10-30-2-mobile-and-desktop-changes-in-v2-1-314|2 Mobile and Desktop changes in v2.1.314]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-10-30-2-editor-experience-changes-in-v2-1-314|2 Editor Experience changes in v2.1.314]] · Editor Experience
 - [[Changes/Claude Code/2026-10-30-10-other-changes-in-v2-1-314|10 other changes in v2.1.314]] · Other changes
 <!-- chronolog:end -->
 

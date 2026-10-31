@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3fd648c1de67b1c3a6113ee950d1aaadced77a5620d72c418c315d8064af3b51
+machine_hash: 655838521608db8b69f40361fb430df3b27bb412c1b35ce1b07fd5ef90895ca3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,8 +47,8 @@ related_changes:
   and new controls for ChatGPT]]'
 - '[[Changes/ChatGPT/2024-04-29-memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w-4db29a|Memory
   is now available to Plus users]]'
-- '[[Changes/Cursor/2025-02-19-2-memory-and-personalization-changes-in-0-46-x|2 Memory
-  and Personalization changes in 0.46.x]]'
+- '[[Changes/Cursor/2025-02-19-0-46-9-memory-and-performances-fixes-composer-chat-remembers-your-last-mode-sele|0.46.9:
+  Memory and performances fixes, composer/chat remembers your last mode…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-04-16-memory-with-search-0b018fd4|chatgpt-2025-04-16-memory-with-search-0b018fd4]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-2-memory-and-personalization-changes-in-0-46-x|2 Memory and Personalization changes in 0.46.x]]
+- Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-0-46-9-memory-and-performances-fixes-composer-chat-remembers-your-last-mode-sele|0.46.9: Memory and performances fixes, composer/chat remembers your last mode…]]
 - Later: 2025-05-08 · ChatGPT · [[Changes/ChatGPT/2025-05-08-saved-memories-and-chat-history-are-offered-only-to-plus-and-pro-accounts-free-t|Saved memories and Chat history are offered only to Plus and Pro…]]
 <!-- chronolog:end -->
 

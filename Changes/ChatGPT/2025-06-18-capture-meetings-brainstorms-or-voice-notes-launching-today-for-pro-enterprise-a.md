@@ -4,8 +4,8 @@ date: '2025-06-18'
 description: 'ChatGPT · 2025-06-18 · Voice and Audio: Capture meetings, brainstorms,
   or voice notes. Launching today for Pro, Enterprise, and Edu users. Previously launched…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
-    are beginning to roll out new voice and image capabilities in ChatGPT]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
+    (Beta) is now rolling out to Plus users on iOS and Android]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 632
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5e6e25ba3398c195600137a5e9ba4fcca3e454bd690b70ebdc6eda4808adcd55
+machine_hash: e8d64b448e17e2938350c0c66ee6156e99bddb32fe3ef136b073e8461d63a1c8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,19 +40,6 @@ record:
   source_release: chatgpt-2025-06-18-chatgpt-record-mode-f7984257
   source_type: chatgpt_changelog
   theme: voice
-  theme_matches:
-  - matched_terms:
-    - voice
-    score: 110
-    theme: voice
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
   title: Capture meetings, brainstorms, or voice notes
   type: change
 related_changes:
@@ -97,7 +84,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

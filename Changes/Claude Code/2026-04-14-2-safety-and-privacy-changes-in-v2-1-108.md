@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1f72192b68cd72405d468b96c32b54fe6a3f7673095cc7335289917a6d7a69fa
+machine_hash: 57bebf962ed4c67d2242c46995f93b0aab8239fa842cd9d7e997f692a2cf3eda
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,7 +44,7 @@ record:
   title: 2 Safety and Privacy changes in v2.1.108
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-09-6-safety-and-privacy-changes-in-v2-1-98|6 Safety
+- '[[Changes/Claude Code/2026-04-09-7-safety-and-privacy-changes-in-v2-1-98|7 Safety
   and Privacy changes in v2.1.98]]'
 - '[[Changes/Claude Code/2026-04-10-fixed-a-command-injection-vulnerability-in-the-posix-which-fallback-used-by-lsp|Fixed
   a command injection vulnerability in the POSIX which fallback used by LSP…]]'

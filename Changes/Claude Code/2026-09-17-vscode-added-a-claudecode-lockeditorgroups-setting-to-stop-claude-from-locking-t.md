@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 21931342f871bbf57519bc00781c285dd5dca5519e8df4e48ee678bc323fae98
+machine_hash: 7db7fba49184dc4665a1dfd29aee70a8e0e9ebbb18971228ea244ed32ebb0415
 product: claude-code
 product_name: Claude Code
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-10-editor-experience-changes-in-v2-1-275|10 Editor Experience changes in v2.1.275]]
-- Later: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-removed-the-background-haiku-auto-title-request-from-claude-p-runs-launched-outs|Removed the background Haiku auto-title request from claude -p runs launched…]]
+- Later: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-2-editor-experience-changes-in-v2-1-277|2 Editor Experience changes in v2.1.277]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

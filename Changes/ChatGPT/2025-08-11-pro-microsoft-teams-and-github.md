@@ -15,7 +15,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bb7ed5cdabea58a343299c84cc32262a34da624bbbd0761f48720f1d31d2b721
+machine_hash: 21e392466ce5abe5d22742f19f977341c775afaa3c02450cc1500752765be120
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,10 +39,10 @@ record:
   title: 'Pro: Microsoft Teams and GitHub'
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2025-06-12-starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d|Starting
+  today, we’re adding several updates to projects in ChatGPT to help you do…]]'
 - '[[Changes/Cursor/2025-06-12-use-cursor-where-your-team-works-3e7ca8|Use Cursor
   where your team works]]'
-- '[[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow
-  team admins to configure an extension allowlist]]'
 - '[[Changes/Cursor/2025-08-06-ai-code-tracking-api-get-commit-level-visibility-into-ai-usage-and-accepted-chan|AI
   code tracking API]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a|chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a]]'

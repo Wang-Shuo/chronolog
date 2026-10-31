@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9ccc8d9cb9a6bc49d38cf23cd0853d5b1a496c973c55bea4719523f23c32ddf0
+machine_hash: 8a93e8461321807f1f467ac8477c44bef823015bf1d6a324c5adb529781da053
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -73,7 +73,7 @@ type: change
 ## Also in this release
 
 - [[Changes/ChatGPT/2026-08-21-plugin-availability-depends-on-your-plan-region-and-workspace-settings-desktop-i|Plugin availability depends on your plan, region, and workspace settings]] · Apps and Integrations
-- [[Changes/ChatGPT/2026-08-21-find-more-useful-plugins-rankings-now-prioritize-plugins-people-keep-using-after|Find more useful plugins]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-08-21-find-more-useful-plugins-rankings-now-prioritize-plugins-people-keep-using-after|Find more useful plugins]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

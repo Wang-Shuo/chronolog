@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 59d539c927f8e22aa92dafcde3cf45be75bd0331f5db3f4262956fc8fe06b23e
+machine_hash: cc8c0a895388a06e7832f801b9b6c45c2e462d82a8bb860df3c6fdd279d875e8
 product: cursor
 product_name: Cursor
 record:
@@ -40,10 +40,10 @@ record:
   title: Removed noisy in-app terminal notifications and improved shortcut behavior
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-08-2-developer-workflow-changes-in-v2-1-136|2 Developer
-  Workflow changes in v2.1.136]]'
 - '[[Changes/Claude Code/2026-05-11-added-hook-args-string-field-exec-form-that-spawns-the-command-directly-without|Added
   hook args: string field (exec form) that spawns the command directly…]]'
+- '[[Changes/Claude Code/2026-05-13-added-terminalsequence-field-to-hook-json-output-so-hooks-can-emit-desktop-notif|Added
+  terminalSequence field to hook JSON output so hooks can emit desktop…]]'
 - '[[Changes/Cursor/2026-05-13-environment-configuration-as-code-827fd1|Environment
   configuration as code]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d|cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d]]'

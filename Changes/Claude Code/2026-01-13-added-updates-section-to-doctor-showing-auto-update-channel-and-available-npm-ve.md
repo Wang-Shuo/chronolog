@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9e89502ab134afa4f05a440e56ef3126f65dc6de6984769e6d212118fc3bd5b1
+machine_hash: a4bb1243c92c9bb9c6b5761563259d7aee4c6400f2718eb1c4c4e91c841e7d80
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     npm…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-22-3-interface-experience-changes-in-2-3|3 Interface Experience
-  changes in 2.3]]'
+- '[[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health
+  appears as a new space in the ChatGPT sidebar]]'
 - '[[Changes/Claude Code/2026-01-09-2-interface-experience-changes-in-v2-1-3|2 Interface
   Experience changes in v2.1.3]]'
 - '[[Changes/Claude Code/2026-01-09-added-shift-tab-keyboard-shortcut-in-plan-mode-to-quickly-select-auto-accept-edi|Added

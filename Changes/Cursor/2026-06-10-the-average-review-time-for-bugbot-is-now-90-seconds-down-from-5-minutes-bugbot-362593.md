@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2ef482ca58a0a3381fb99d2b7eb6669506eb57096b2fcf81f0b5f7d50659d66a
+machine_hash: 0bae56febadc7afc270ba4fb1a9172f183bad129bf1dc15827e403eb448d549c
 product: cursor
 product_name: Cursor
 record:
@@ -52,10 +52,10 @@ record:
   title: The average review time for Bugbot is now ~90 seconds, down from ~5 minutes
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-improved-rendering-performance-for-large-file-writes|Improved
-  rendering performance for large file writes]]'
 - '[[Changes/Cursor/2026-06-04-reliability-performance-and-platform-improvements|Reliability,
   performance, and platform improvements]]'
+- '[[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run
+  correlation: Every send() now carries a platform-generated requestId, exposed…]]'
 - '[[Changes/Claude Code/2026-06-10-improved-performance-in-long-conversations-by-removing-redundant-message-normali|Improved
   performance in long conversations by removing redundant message…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-10-bugbot-is-now-over-3x-faster-22-cheaper-and-finds-10-more-bugs-h-c1721c78|cursor-2026-06-10-bugbot-is-now-over-3x-faster-22-cheaper-and-finds-10-more-bugs-h-c1721c78]]'

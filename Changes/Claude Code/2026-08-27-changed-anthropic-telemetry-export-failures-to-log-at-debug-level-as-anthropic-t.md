@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0570470315d922a981098b9b856143da41c3b68afe4920513c5e328fd75d70d3
+machine_hash: ed3a5497cb6d7124ef1e05b65a02aecaeb0ab0bda363791de9d829ec334e0cc2
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: Changed Anthropic telemetry export failures to log at debug level…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-21-2-developer-workflow-changes-in-v2-1-239|2 Developer
-  Workflow changes in v2.1.239]]'
+- '[[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Create
+  webhook-triggered tasks]]'
 - '[[Changes/Claude Code/2026-08-25-2-developer-workflow-changes-in-v2-1-246|2 Developer
   Workflow changes in v2.1.246]]'
 - '[[Changes/Claude Code/2026-08-26-changed-terminal-hyperlinks-in-rendered-markdown-link-targets-that-point-at-a-ne|Changed

@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ad2b3186c5d3ce7b75e8f39853e98dac43b58d0d416caa742380a1c4a88e443d
+machine_hash: f1ba7a9e6d519bcc8ff397bbc009239d1f0b97cfc19396f4a613055473ec9f41
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,7 +42,7 @@ record:
   title: Added session URL attribution to commits and PRs created from web sessions
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-09-3-developer-workflow-changes-in-v2-1-2|3 Developer
+- '[[Changes/Claude Code/2026-01-09-4-developer-workflow-changes-in-v2-1-2|4 Developer
   Workflow changes in v2.1.2]]'
 - '[[Changes/Claude Code/2026-01-12-added-claude-code-tmpdir-environment-variable-to-override-the-temp-directory-use|Added
   CLAUDE_CODE_TMPDIR environment variable to override the temp directory used…]]'

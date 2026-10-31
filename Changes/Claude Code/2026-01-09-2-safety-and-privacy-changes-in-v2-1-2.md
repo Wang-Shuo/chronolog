@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e65fc8afcd197aded78c36682450c49fd9aebf121a283ca126e3de0f4aa295ee
+machine_hash: bd43bb7dc56f96ed76596bf987a97576e8bb0a19d4d9b98b0209df22f29050f4
 product: claude-code
 product_name: Claude Code
 record:
@@ -76,10 +76,10 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.2
 ## Also in this release
 
 - [[Changes/Claude Code/2026-01-09-2-apps-and-integrations-changes-in-v2-1-2|2 Apps and Integrations changes in v2.1.2]] · Apps and Integrations
-- [[Changes/Claude Code/2026-01-09-2-mobile-and-desktop-changes-in-v2-1-2|2 Mobile and Desktop changes in v2.1.2]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-01-09-4-developer-workflow-changes-in-v2-1-2|4 Developer Workflow changes in v2.1.2]] · Developer Workflow
 - [[Changes/Claude Code/2026-01-09-added-shift-tab-keyboard-shortcut-in-plan-mode-to-quickly-select-auto-accept-edi|Added Shift+Tab keyboard shortcut in plan mode to quickly select…]] · Interface Experience
-- [[Changes/Claude Code/2026-01-09-3-developer-workflow-changes-in-v2-1-2|3 Developer Workflow changes in v2.1.2]] · Developer Workflow
 - [[Changes/Claude Code/2026-01-09-added-agent-type-to-sessionstart-hook-input-populated-if-agent-is-specified|Added agent_type to SessionStart hook input, populated if --agent is specified]] · Agent Mode
+- [[Changes/Claude Code/2026-01-09-added-support-for-windows-package-manager-winget-installations-with-automatic-de|Added support for Windows Package Manager (winget) installations with automatic…]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-01-09-4-other-changes-in-v2-1-2|4 other changes in v2.1.2]] · Other changes
 <!-- chronolog:end -->
 

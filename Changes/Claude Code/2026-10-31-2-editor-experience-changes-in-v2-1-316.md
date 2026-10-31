@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a6691d4ff510e223bf2377bc3e13eec40f321dd35fc6a54933d8a63429f99d6d
+machine_hash: 84d77a6d07281ff3f0abcb4d4d645c4f7a858fc7e04e1521bc1b34e1e5e55937
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,8 +50,8 @@ related_changes:
   Changed the session list side bar to load Web sessions when the Web tab…]]'
 - '[[Changes/Claude Code/2026-10-27-cloud-sessions-added-a-bash-editor-with-colors-line-numbers-and-a-copy-button-to|Cloud
   sessions Added a Bash editor with colors, line numbers and a Copy button…]]'
-- '[[Changes/Claude Code/2026-10-30-improved-permissions-review-tab-now-called-recently-blocked-the-footer-says-what|Improved
-  /permissions review tab, now called Recently blocked]]'
+- '[[Changes/Claude Code/2026-10-30-2-editor-experience-changes-in-v2-1-314|2 Editor
+  Experience changes in v2.1.314]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9|claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9]]'
 source_type: github_releases
 theme: editor-experience
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.316
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-improved-permissions-review-tab-now-called-recently-blocked-the-footer-says-what|Improved /permissions review tab, now called Recently blocked]]
+- Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-2-editor-experience-changes-in-v2-1-314|2 Editor Experience changes in v2.1.314]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

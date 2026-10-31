@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: dfc20b869877389fa5cca5e5a902ffbf95125c559262ef6b01ee484ba21451ae
+machine_hash: 8948aff8da245dfa57ff7f6fa335c228d313549d8d94529662691a80b0b0cf4a
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,6 +55,7 @@ related_changes:
   CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE; the environment variable is now a no-op]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c|claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: /effort now confirms when your chosen level will persist as the default for
   new sessions

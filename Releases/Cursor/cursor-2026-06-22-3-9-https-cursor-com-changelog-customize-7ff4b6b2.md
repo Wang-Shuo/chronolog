@@ -3,7 +3,7 @@ changes_count: 4
 date: '2026-06-22'
 description: 'Cursor release Customize Cursor on 2026-06-22: 4 tracked changes across
   Apps and Integrations, Collaboration'
-machine_hash: aad25463493770ffc7f2808cf55f8e32059eaed97ac2cec679a8a8f074441d23
+machine_hash: 9207b0fce6186778a9a7362647bc195172cca70e5fbee7a12c1af66812349a82
 product: cursor
 product_name: Cursor
 record:
@@ -46,6 +46,6 @@ Tracked 4 cards from 9 candidate lines.
 <!-- chronolog:begin region="cards" -->
 - [[Changes/Cursor/2026-06-22-plugins-skills-and-mcps-let-you-customize-cursor-for-your-workflows-the-new-cust-241c4b|Plugins, skills, and MCPs let you customize Cursor for your workflows]] · Apps and Integrations
 - [[Changes/Cursor/2026-06-22-new-team-marketplaces|New Team Marketplaces]] · Collaboration · Launch
-- [[Changes/Cursor/2026-06-22-marketplace-leaderboard-654084|Marketplace leaderboard]] · Collaboration · Launch
+- [[Changes/Cursor/2026-06-22-marketplace-leaderboard-654084|Marketplace leaderboard]] · Apps and Integrations · Launch
 - [[Changes/Cursor/2026-06-22-plugin-canvases|Plugin canvases]] · Apps and Integrations · Launch
 <!-- chronolog:end -->

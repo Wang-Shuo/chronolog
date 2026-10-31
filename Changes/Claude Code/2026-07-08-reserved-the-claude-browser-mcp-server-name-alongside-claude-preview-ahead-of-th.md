@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3a185c25df7fc83e0e9088c2b6a3e3851526538013e257a8d2121cdb3b752f88
+machine_hash: c498dafc7bac6f6c505d768ace42a031b01c4c9eee9684ef549983e0abc5612e
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,16 +42,6 @@ record:
   source_release: claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba
   source_type: github_releases
   theme: apps-integrations
-  theme_matches:
-  - matched_terms:
-    - mcp
-    score: 50
-    theme: apps-integrations
-  - matched_terms:
-    - desktop
-    score: 50
-    theme: mobile-desktop
-  theme_resolution: manual-semantic-rule-v1
   title: Reserved the "Claude Browser" MCP server name (alongside "Claude Preview")
     ahead…
   type: change

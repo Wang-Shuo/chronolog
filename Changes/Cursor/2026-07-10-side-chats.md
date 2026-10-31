@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 2ac4e6d25624717015bc5fb77c1a7ee37571b3ca520b8e1acb7004339a23f088
+machine_hash: 2b0dbd2fa68adb941c8d42e714b6fe7f1f855039473d2b7589db16d31150c495
 product: cursor
 product_name: Cursor
 record:
@@ -99,9 +99,8 @@ type: change
 
 - [[Changes/Cursor/2026-07-10-conversation-search-454cae|Conversation search]] · Interface Experience
 - [[Changes/Cursor/2026-07-10-new-cloud-agent-hooks|New cloud agent hooks]] · Agent Mode
-- [[Changes/Cursor/2026-07-10-6-interface-experience-changes-in-side-chats-and-conversation-search|6 Interface Experience changes in Side Chats and Conversation Search]] · Interface Experience
+- [[Changes/Cursor/2026-07-10-7-interface-experience-changes-in-side-chats-and-conversation-search|7 Interface Experience changes in Side Chats and Conversation Search]] · Interface Experience
 - [[Changes/Cursor/2026-07-10-this-release-makes-it-easier-to-stay-in-flow-with-side-chats-that-run-alongside|Cursor makes it easier to stay in flow with side chats that run alongside your main…]] · Agent Mode
-- [[Changes/Cursor/2026-07-10-combined-all-remote-options-your-machines-team-pools-and-existing-remote-workspa|Combined all remote options—your machines, team pools, and existing remote…]] · Collaboration
 - [[Changes/Cursor/2026-07-10-redesigned-project-and-repo-pickers|Redesigned project and repo pickers]] · Interface Experience
 - [[Changes/Cursor/2026-07-10-6-other-changes-in-side-chats-and-conversation-search|6 other changes in Side Chats and Conversation Search]] · Other changes
 <!-- chronolog:end -->

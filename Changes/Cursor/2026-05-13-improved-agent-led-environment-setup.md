@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 2fba1e805803468dabb65aa75caf41a99c8bce31f9bebc01cd63ef7dd46bfd08
+machine_hash: 862f7fe7c5daee0dd315c56978c164a5028220e91987439634f9c5b2ddcae091
 product: cursor
 product_name: Cursor
 record:
@@ -50,8 +50,8 @@ record:
   title: Improved agent-led environment setup
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-11-2-agent-mode-changes-in-v2-1-139|2 Agent Mode
-  changes in v2.1.139]]'
+- '[[Changes/Cursor/2026-05-11-mention-cursor-in-any-teams-channel-to-delegate-a-task-to-a-cloud-agent-or-pull-d30c31|Mention
+  @Cursor in any Teams channel to delegate a task to a cloud agent or pull…]]'
 - '[[Changes/Claude Code/2026-05-12-2-agent-mode-changes-in-v2-1-140|2 Agent Mode
   changes in v2.1.140]]'
 - '[[Changes/Claude Code/2026-05-13-4-agent-mode-changes-in-v2-1-141|4 Agent Mode

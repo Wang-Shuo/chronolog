@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 680371a17d0582d907ec8870234bcbace0f7588e0957d690997eee2bed55f519
+machine_hash: 00e3adaaafff2463f9ba4d2d79d6b4530ef8f79397294872961bc47421acfbb5
 product: claude-code
 product_name: Claude Code
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-2-reliability-and-performance-changes-in-v2-1-90|2 Reliability and Performance changes in v2.1.90]]
-- Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-improved-write-tool-diff-computation-speed-for-large-files-60-faster-on-files-wi|Improved Write tool diff computation speed for large files…]]
+- Later: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file diff rendering is now much faster, smoother, and less memory-heavy]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

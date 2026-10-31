@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bef3aa6696960b46bfddca8115a957fa6dd76fcfcee97e1bdcd8ca1e8e489dc3
+machine_hash: b28a12ff344bfb496cb5f01907b192fcaee224e79008d3e98bf783102f2374a2
 product: claude-code
 product_name: Claude Code
 record:
@@ -59,6 +59,7 @@ related_changes:
 - '[[Changes/Cursor/2026-10-16-larger-faster-environments|Larger, faster environments]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994|claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994]]'
 source_type: github_releases
+superseded: true
 theme: reliability-performance
 title: Improved responsiveness and throughput when many subagents are running at the
   same time

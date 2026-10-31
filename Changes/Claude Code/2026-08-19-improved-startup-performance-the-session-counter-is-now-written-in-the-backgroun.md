@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cab4ad15946b9d5b854bb55aaa79a687f1a02a8bc91d1d0de128c7df90a4f8b9
+machine_hash: 08e6fea0fe717934b21f3dd226ba0d98618c1e262722dd610217da2c3dcf4b2b
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,11 +43,11 @@ record:
     background'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-10-improved-performance-fewer-event-loop-stalls-on-file-not-found-suggestions-and-a|Improved
-  performance: fewer event-loop stalls on file-not-found suggestions…]]'
 - '[[Changes/Cursor/2026-08-13-faster-starts|Faster starts]]'
-- '[[Changes/Claude Code/2026-08-18-improved-memory-and-cpu-usage-while-cloud-sessions-such-as-ultrareview-or-autofi|Improved
-  memory and CPU usage while cloud sessions such as /ultrareview…]]'
+- '[[Changes/Claude Code/2026-08-14-added-opt-in-memory-cgroup-support-for-bash-tool-commands-on-linux-claude-code-t|Added
+  opt-in memory cgroup support for Bash tool commands on Linux…]]'
+- '[[Changes/Claude Code/2026-08-18-2-reliability-and-performance-changes-in-v2-1-235|2
+  Reliability and Performance changes in v2.1.235]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79|claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79]]'
 source_type: github_releases
 theme: reliability-performance
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-08-18 · Claude Code · [[Changes/Claude Code/2026-08-18-improved-memory-and-cpu-usage-while-cloud-sessions-such-as-ultrareview-or-autofi|Improved memory and CPU usage while cloud sessions such as /ultrareview…]]
+- Earlier: 2026-08-18 · Claude Code · [[Changes/Claude Code/2026-08-18-2-reliability-and-performance-changes-in-v2-1-235|2 Reliability and Performance changes in v2.1.235]]
 - Later: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-improved-startup-responsiveness-the-automatic-update-check-now-runs-about-10-sec|Improved startup responsiveness]]
 <!-- chronolog:end -->
 

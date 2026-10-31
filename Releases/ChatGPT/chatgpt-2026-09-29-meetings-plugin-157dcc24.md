@@ -2,8 +2,8 @@
 changes_count: 2
 date: '2026-09-29'
 description: 'ChatGPT release Meetings plugin on 2026-09-29: 2 tracked changes across
-  Apps and Integrations, Mobile and Desktop'
-machine_hash: f44e954013e8e80679c230640b987e705a00fdae8a3a105050b3bf05235c69b1
+  Apps and Integrations, Voice and Audio'
+machine_hash: d05fb1eb31dfa18cdcd79730abd9c3590ce1a199dbf1d5d3a98c317f9d5965d8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,5 +48,5 @@ Tracked 2 cards from 2 candidate lines.
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - [[Changes/ChatGPT/2026-09-29-we-re-making-it-easier-to-bring-meeting-context-into-chatgpt-so-you-can-act-on-n|We’re making it easier to bring meeting context into ChatGPT so you can act on next…]] · Apps and Integrations
-- [[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio is deleted once your notes are ready and can’t be accessed or replayed]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio is deleted once your notes are ready and can’t be accessed or replayed]] · Voice and Audio
 <!-- chronolog:end -->

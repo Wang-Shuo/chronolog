@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 98d4b0828b315783306be8c6b987d60af57a81ee254906a7aea474c2d217c4ca
+machine_hash: 3647f84382ccf34f9bf9390350a8fb3e2aa971db3c9388995a15c0d4096e0c9e
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   configs & auto memory now shared across git worktrees of the same repository]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae|claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae]]'
 source_type: github_releases
+superseded: true
 theme: memory
 title: 2 Memory and Personalization changes in v2.1.74
 type: change

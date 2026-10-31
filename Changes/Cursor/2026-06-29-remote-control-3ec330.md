@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: e464b37c2af65519ec4649b74c89e3813f09dcb6b615264e03e2ab586ecea9ac
+machine_hash: c1d139e3cfd1d8ec5e25b863526e509cc929617a66d3800c91ed3dc34ddac3b5
 product: cursor
 product_name: Cursor
 record:
@@ -51,12 +51,11 @@ record:
   title: Remote Control
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-25-3-agent-mode-changes-in-v2-1-193|3 Agent Mode
-  changes in v2.1.193]]'
 - '[[Changes/Claude Code/2026-06-26-improved-claude-agents-completed-list-to-fill-available-vertical-space-on-short|Improved
   claude agents completed list to fill available vertical space]]'
 - '[[Changes/Claude Code/2026-06-29-2-agent-mode-changes-in-v2-1-196|2 Agent Mode
   changes in v2.1.196]]'
+- '[[Changes/Cursor/2026-06-29-cloud-agents-on-mobile-1bc371|Cloud agents on mobile]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-29-3-9-https-cursor-com-changelog-ios-mobile-app-d7278607|cursor-2026-06-29-3-9-https-cursor-com-changelog-ios-mobile-app-d7278607]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -83,9 +82,9 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-06-29-cloud-agents-on-mobile-1bc371|Cloud agents on mobile]] · Voice and Audio
+- [[Changes/Cursor/2026-06-29-cloud-agents-on-mobile-1bc371|Cloud agents on mobile]] · Agent Mode
 - [[Changes/Cursor/2026-06-29-live-activities-and-push-notifications|Live Activities and push notifications]] · Agent Mode
-- [[Changes/Cursor/2026-06-29-cursor-for-ios-is-now-available-in-public-beta-on-all-paid-plans-launch-and-mana|Cursor for iOS is now available in public beta on all paid plans]] · Mobile and Desktop
+- [[Changes/Cursor/2026-06-29-cursor-for-ios-is-now-available-in-public-beta-on-all-paid-plans-launch-and-mana|Cursor for iOS is now available in public beta on all paid plans]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

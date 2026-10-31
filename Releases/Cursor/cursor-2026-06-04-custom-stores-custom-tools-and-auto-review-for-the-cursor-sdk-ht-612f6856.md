@@ -3,7 +3,7 @@ changes_count: 13
 date: '2026-06-04'
 description: 'Cursor release Custom stores, custom tools, and auto-review for the
   Cursor SDK on 2026-06-04: 13 tracked changes across Agent Mode, Apps and Integrations…'
-machine_hash: 98f5e183fe99fa6d08f0d65961d305f8ed4a8ab9223fc5e2ecfc65888bdd1c32
+machine_hash: 8834e2c4e761d9f0dee482294e9b1b3eaf451f917cdec1c6b35c43b76a5aa602
 product: cursor
 product_name: Cursor
 record:
@@ -52,7 +52,7 @@ Tracked 13 cards from 29 candidate lines.
 - [[Changes/Cursor/2026-06-04-reliable-wait-on-local-runs-local-runs-no-longer-resolve-wait-before-the-termina|Reliable wait() on local runs]] · Automation and Scheduling
 - [[Changes/Cursor/2026-06-04-jsonl-and-custom-stores|JSONL and custom stores]] · Agent Mode · Launch
 - [[Changes/Cursor/2026-06-04-auto-review|Auto-review]] · Agent Mode · Launch
-- [[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run correlation: Every send() now carries a platform-generated requestId, exposed…]] · Memory and Personalization
+- [[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run correlation: Every send() now carries a platform-generated requestId, exposed…]] · Reliability and Performance
 - [[Changes/Cursor/2026-06-04-nested-subagents|Nested subagents]] · Agent Mode · Launch
 - [[Changes/Cursor/2026-06-04-we-ve-shipped-a-batch-of-new-functionality-across-the-typescript-and-python-sdks|We've shipped a batch of new functionality across the TypeScript and Python SDKs]] · Apps and Integrations
 - [[Changes/Cursor/2026-06-04-2-apps-and-integrations-changes-in-custom-stores-custom-tools|2 Apps and Integrations changes in Custom stores, custom tools…]] · Apps and Integrations · Digest

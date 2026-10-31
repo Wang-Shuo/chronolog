@@ -7,7 +7,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ed9061d2726062c323841cad72ed040e40a428e6833a5812354b1c1711b214ce
+machine_hash: b92635663decd5c4bcbdd4ba6a145f0db470bf3b3d668d037900072bea0369d9
 product: cursor
 product_name: Cursor
 record:
@@ -33,6 +33,7 @@ record:
   type: change
 source_release: '[[Releases/Cursor/cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576|cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576]]'
 source_type: cursor_changelog
+superseded: true
 theme: uncategorized
 title: 2 other changes in Organizations for Cursor Enterprise
 type: change

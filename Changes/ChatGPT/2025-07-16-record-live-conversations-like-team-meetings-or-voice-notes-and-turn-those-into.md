@@ -4,8 +4,8 @@ date: '2025-07-16'
 description: 'ChatGPT · 2025-07-16 · Voice and Audio: Record live conversations like
   team meetings or voice notes, and turn those into an editable summary in canvas.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
-    are beginning to roll out new voice and image capabilities in ChatGPT]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
+    (Beta) is now rolling out to Plus users on iOS and Android]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 660
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 79322a02dd92e04eaa2486597fd3c14a0754c41822d1ca9f7dcd354ac58b216c
+machine_hash: 037a24164e2aaa2840d0168af0f36c7ed7c368bb598223bac739be58d4725fd0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,10 +45,6 @@ record:
     - voice
     score: 110
     theme: voice
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
   - matched_terms:
     - canvas
     score: 50
@@ -97,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

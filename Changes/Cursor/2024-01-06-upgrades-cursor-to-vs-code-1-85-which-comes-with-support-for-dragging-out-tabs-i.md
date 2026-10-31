@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2ce86c5aeeeb92370ec4af4103c16c3124cb3b9f99913ba8dc5a0af9893a7ec0
+machine_hash: d9d5948eed8062e572f578a6137a0cff85e697d14aca389e2e359709f8e890da
 product: cursor
 product_name: Cursor
 record:
@@ -47,8 +47,8 @@ record:
     tabs…
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|Multiple
-  Command-K, Copilot++ UI]]'
+- '[[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|VS
+  Code 1.85.1]]'
 - '[[Changes/Cursor/2023-12-31-you-can-now-use-chat-and-cmd-k-in-the-aux-window-without-too-many-problems|Aux
   Window Fixes]]'
 - '[[Changes/Cursor/2024-01-03-hold-down-command-press-and-release-shift-and-continue-holding-down-command-this|Early

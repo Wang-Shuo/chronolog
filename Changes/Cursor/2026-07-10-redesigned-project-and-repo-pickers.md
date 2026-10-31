@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1daf13393ffaae327eb8cf803928014841b6721a8aaf9b0b8d5b503a7e5e2193
+machine_hash: 01db50573d6f7cabbd40bae7a4a0f99876a4b85d0f0e3bdd96891c06b67cbd9a
 product: cursor
 product_name: Cursor
 record:
@@ -53,7 +53,7 @@ related_changes:
 - '[[Changes/Claude Code/2026-07-07-removed-a-redundant-navigation-hint-from-the-claude-agents-footer|Removed
   a redundant navigation hint from the claude agents footer]]'
 - '[[Changes/Cursor/2026-07-10-conversation-search-454cae|Conversation search]]'
-- '[[Changes/Cursor/2026-07-10-6-interface-experience-changes-in-side-chats-and-conversation-search|6
+- '[[Changes/Cursor/2026-07-10-7-interface-experience-changes-in-side-chats-and-conversation-search|7
   Interface Experience changes in Side Chats and Conversation Search]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d|cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d]]'
 source_type: cursor_changelog
@@ -82,9 +82,8 @@ type: change
 - [[Changes/Cursor/2026-07-10-side-chats|Side chats]] · Context Window
 - [[Changes/Cursor/2026-07-10-conversation-search-454cae|Conversation search]] · Interface Experience
 - [[Changes/Cursor/2026-07-10-new-cloud-agent-hooks|New cloud agent hooks]] · Agent Mode
-- [[Changes/Cursor/2026-07-10-6-interface-experience-changes-in-side-chats-and-conversation-search|6 Interface Experience changes in Side Chats and Conversation Search]] · Interface Experience
+- [[Changes/Cursor/2026-07-10-7-interface-experience-changes-in-side-chats-and-conversation-search|7 Interface Experience changes in Side Chats and Conversation Search]] · Interface Experience
 - [[Changes/Cursor/2026-07-10-this-release-makes-it-easier-to-stay-in-flow-with-side-chats-that-run-alongside|Cursor makes it easier to stay in flow with side chats that run alongside your main…]] · Agent Mode
-- [[Changes/Cursor/2026-07-10-combined-all-remote-options-your-machines-team-pools-and-existing-remote-workspa|Combined all remote options—your machines, team pools, and existing remote…]] · Collaboration
 - [[Changes/Cursor/2026-07-10-6-other-changes-in-side-chats-and-conversation-search|6 other changes in Side Chats and Conversation Search]] · Other changes
 <!-- chronolog:end -->
 

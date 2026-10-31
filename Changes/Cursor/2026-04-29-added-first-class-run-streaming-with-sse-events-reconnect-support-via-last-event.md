@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c50de3ed1207c48553a8b88299c204b084bdf482cddaedfa17b0f1ac55ec6b90
+machine_hash: 566d8462f508a41fe85999e9a566ce6c2a201585e1eb3f5af09d685d13f28093
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
   title: Added first-class run streaming with SSE events, reconnect support…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-23-3-developer-workflow-changes-in-v2-1-119|3 Developer
-  Workflow changes in v2.1.119]]'
+- '[[Changes/Claude Code/2026-04-23-wsl-on-windows-can-now-inherit-windows-side-managed-settings-via-the-wslinherits|WSL
+  on Windows can now inherit Windows-side managed settings…]]'
 - '[[Changes/Claude Code/2026-04-28-opentelemetry-added-claude-code-at-mention-log-event-for-mention-resolution|OpenTelemetry:
   added claude_code.at_mention log event for @-mention resolution]]'
 - '[[Changes/Claude Code/2026-04-28-4-developer-workflow-changes-in-v2-1-121|4 Developer

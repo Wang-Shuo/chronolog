@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 597fd4fcd5d0d326da12504f75957ae4c3570635c65ed4fde7a3d06e1edba086
+machine_hash: 46f566588ad9589176202f6168ae22428ef89e327b79064357b57b899b2436dc
 product: claude-code
 product_name: Claude Code
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-get-started-by-installing-the-integration-in-the-cursor-dashboard-learn-more-in|Get started by installing the integration in the Cursor dashboard]]
-- Later: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-2-apps-and-integrations-changes-in-v2-1-141|2 Apps and Integrations changes in v2.1.141]]
+- Later: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-added-claude-code-plugin-prefer-https-to-clone-github-plugin-sources-over-https|Added CLAUDE_CODE_PLUGIN_PREFER_HTTPS to clone GitHub plugin sources over HTTPS…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

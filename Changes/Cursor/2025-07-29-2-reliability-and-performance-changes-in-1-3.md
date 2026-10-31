@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7bab10251f24a19551e05cb2e432984f0c68a4d309a0a5a9603a688bbce32627
+machine_hash: cbf757b4e4feac52f9f1fd86b86ea45e1c6816bf63ed31de6214bf906d697bc0
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,7 @@ record:
   title: 2 Reliability and Performance changes in 1.3
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-13-improved-search-capability-and-instruction-following-594de0|Improved
-  search capability and instruction following]]'
+- '[[Changes/Cursor/2025-07-03-faster-tab|Faster Tab]]'
 - '[[Changes/Cursor/2025-07-03-4-reliability-and-performance-changes-in-1-2|4 Reliability
   and Performance changes in 1.2]]'
 - '[[Changes/Cursor/2025-07-29-agent-edits-are-now-faster-by-lazy-loading-linter-errors-search-replace-edit-lat|Faster
@@ -83,7 +82,7 @@ Source: https://cursor.com/changelog/1-3
 - [[Changes/Cursor/2025-07-29-extension-marketplace-supports-custom-urls|Extension marketplace supports custom URLs]] · Apps and Integrations
 - [[Changes/Cursor/2025-07-29-2-safety-and-privacy-changes-in-1-3|2 Safety and Privacy changes in 1.3]] · Safety and Privacy
 - [[Changes/Cursor/2025-07-29-2-developer-workflow-changes-in-1-3|2 Developer Workflow changes in 1.3]] · Developer Workflow
-- [[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow team admins to configure an extension allowlist]] · Collaboration
+- [[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow team admins to configure an extension allowlist]] · Enterprise and Administration
 - [[Changes/Cursor/2025-07-29-3-other-changes-in-1-3|3 other changes in 1.3]] · Other changes
 <!-- chronolog:end -->
 

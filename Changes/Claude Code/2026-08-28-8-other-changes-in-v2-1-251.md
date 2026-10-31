@@ -8,7 +8,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2a76096e0a2ac6428c862634595263f9f85cbaac5437c684926be6738a4be72a
+machine_hash: 255a693a5463a31ca1d8fcd561c2e8beb7d6246f3292686bd522c2278a36ae40
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,6 +55,7 @@ record:
   type: change
 source_release: '[[Releases/Claude Code/claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96|claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96]]'
 source_type: github_releases
+superseded: true
 theme: uncategorized
 title: 8 other changes in v2.1.251
 type: change

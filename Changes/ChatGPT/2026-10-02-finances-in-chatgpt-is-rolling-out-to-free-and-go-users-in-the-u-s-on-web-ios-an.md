@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1c8e9955a4c5d3446cfeb3262473f571239aaf7917e68a44716510b905622dbe
+machine_hash: cb69c95a46423aca41522a08fc538fe0bd05d5c34810587586b740f124314c04
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,8 +47,8 @@ record:
   title: Finances expands to Free and Go users
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio
-  is deleted once your notes are ready and can’t be accessed or replayed]]'
+- '[[Changes/ChatGPT/2026-09-29-site-owners-and-editors-on-plus-and-pro-can-select-edit-site-from-a-published-si|Site
+  owners and editors on Plus and Pro can select Edit site from a published Site…]]'
 - '[[Changes/Claude Code/2026-09-29-6-mobile-and-desktop-changes-in-v2-1-285|6 Mobile
   and Desktop changes in v2.1.285]]'
 - '[[Changes/Claude Code/2026-10-01-2-mobile-and-desktop-changes-in-v2-1-287|2 Mobile

@@ -2,8 +2,8 @@
 changes_count: 4
 date: '2026-06-29'
 description: 'Cursor release Cursor Mobile App for iOS on 2026-06-29: 4 tracked changes
-  across Agent Mode, Mobile and Desktop, Voice and Audio'
-machine_hash: ee7d8914587769381fc29a5be3da7227a378f4b9f7e03b19c73bc1a588452359
+  across Agent Mode'
+machine_hash: 1a3100dbc04ffdf6bb3d10a21fe0ba77acfeba0aa302ad67290bf1c6aafeec7f
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ Tracked 4 cards from 9 candidate lines; 2 lines pending review.
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2026-06-29-cloud-agents-on-mobile-1bc371|Cloud agents on mobile]] · Voice and Audio · Launch
+- [[Changes/Cursor/2026-06-29-cloud-agents-on-mobile-1bc371|Cloud agents on mobile]] · Agent Mode · Launch
 - [[Changes/Cursor/2026-06-29-remote-control-3ec330|Remote Control]] · Agent Mode · Launch
 - [[Changes/Cursor/2026-06-29-live-activities-and-push-notifications|Live Activities and push notifications]] · Agent Mode · Launch
-- [[Changes/Cursor/2026-06-29-cursor-for-ios-is-now-available-in-public-beta-on-all-paid-plans-launch-and-mana|Cursor for iOS is now available in public beta on all paid plans]] · Mobile and Desktop · Launch
+- [[Changes/Cursor/2026-06-29-cursor-for-ios-is-now-available-in-public-beta-on-all-paid-plans-launch-and-mana|Cursor for iOS is now available in public beta on all paid plans]] · Agent Mode · Launch
 <!-- chronolog:end -->

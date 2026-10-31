@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 54b16f1d3aded6d84914024173a3d2a20515617370d3cc3f6740d065a5b29622
+machine_hash: 7f388d39a343c8edf4f9769fe4bee2b83c7fac9cf0ba0dd06c77e4ce702e1c1f
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
     files
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-memory-writes-that-leave-a-memory-md-index-over-its-read-limit-now-produce-an-ex|Memory
-  writes that leave a MEMORY.md index over its read limit now produce…]]'
+- '[[Changes/ChatGPT/2026-07-15-we-re-increasing-the-character-limit-for-custom-instructions-in-chatgpt-plus-pro|Increased
+  custom instructions limit]]'
 - '[[Changes/Claude Code/2026-07-15-improved-the-memory-index-over-limit-warning-to-measure-only-loaded-content-excl|Improved
   the memory index over-limit warning to measure only loaded content…]]'
 - '[[Changes/Claude Code/2026-07-18-added-an-iso-modified-timestamp-to-memory-file-frontmatter|Added

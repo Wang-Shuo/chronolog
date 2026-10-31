@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eb3ecfb53aed9c585de125102e426d929ae3f41701eccfba955d29ac07a6bfdb
+machine_hash: 32acbcb7b43833a10026064a0ee80537e8b4d54593c146d9c90ba545f025afad
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: Improved the message shown when a pasted sign-in code is refused
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-16-added-a-notice-to-design-sync-and-design-login-that-standalone-claude-design-cla|Added
-  a notice to /design-sync and /design-login that standalone Claude Design…]]'
+- '[[Changes/ChatGPT/2026-10-20-locked-chats-let-you-keep-selected-conversations-in-your-account-while-hiding-th|Introducing
+  locked chats]]'
 - '[[Changes/Claude Code/2026-10-20-vscode-changed-the-message-shown-when-a-session-does-not-start-in-time-and-no-ho|VSCode
   Changed the message shown when a session does not start in time and no hook…]]'
 - '[[Changes/Claude Code/2026-10-21-2-account-and-access-changes-in-v2-1-307|2 Account

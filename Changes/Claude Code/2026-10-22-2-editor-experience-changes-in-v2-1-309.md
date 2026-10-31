@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f3b66799ba5284d2dbe78ef8f7c22f606d7c9cd4ec3223878c66a38f01f2fcd0
+machine_hash: 3c85f3d01de7de3218b45990855767f4b0e3d7cd3446c6f4027f0d8311a5722a
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Editor Experience changes in v2.1.309
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-2-editor-experience-changes-in-v2-1-300|2 Editor
-  Experience changes in v2.1.300]]'
+- '[[Changes/Claude Code/2026-10-14-2-editor-experience-changes-in-v2-1-299|2 Editor
+  Experience changes in v2.1.299]]'
 - '[[Changes/ChatGPT/2026-10-16-create-and-refine-edit-text-images-shapes-and-charts-directly-or-ask-chatgpt-to|Create
   and refine]]'
 - '[[Changes/ChatGPT/2026-10-16-work-together-invite-teammates-to-edit-the-same-deck-in-real-time-and-leave-shar|Work

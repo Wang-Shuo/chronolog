@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 405e1cbe7d7f2f879967460811942ede5fbec2f00731279ac4fb478d680ca226
+machine_hash: c3517d39900388e871c62c6f2573955660aa964d36d3c62cf1c477bb35620ea5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,10 +57,6 @@ record:
     - agent
     score: 50
     theme: agent-mode
-  - matched_terms:
-    - apps
-    score: 50
-    theme: apps-integrations
   theme_resolution: manual-semantic-rule-v2
   title: ChatGPT Work is an agent for longer, more involved tasks
   type: change

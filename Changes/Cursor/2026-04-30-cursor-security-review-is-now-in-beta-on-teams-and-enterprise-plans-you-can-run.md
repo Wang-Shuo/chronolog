@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cb982063f24914b0183f8df6d2083b150bd189216fe02c44e7892c624155d75c
+machine_hash: dbe5dafb5ff66891ba7e1673f09c3c692e4aa5a8aa2ab968f82e37258706f409
 product: cursor
 product_name: Cursor
 record:
@@ -51,14 +51,6 @@ record:
     - agents
     score: 50
     theme: agent-mode
-  - matched_terms:
-    - teams
-    score: 50
-    theme: collaboration
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v2
   title: Cursor Security Review is now in beta on Teams and Enterprise plans
   type: change

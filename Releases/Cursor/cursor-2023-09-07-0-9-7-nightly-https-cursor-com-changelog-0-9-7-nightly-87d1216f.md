@@ -1,9 +1,9 @@
 ---
-changes_count: 2
+changes_count: 1
 date: '2023-09-07'
-description: 'Cursor release Better State Management on 2023-09-07: 2 tracked changes
-  across Memory and Personalization, Reliability and Performance'
-machine_hash: 790a8afc568907a335d6cdcdb5994238f633430ebf40f2e1b98aab3d9e16839c
+description: 'Cursor release Better State Management on 2023-09-07: 1 tracked change
+  across Reliability and Performance'
+machine_hash: 0cbb549f5060ffe76a50a27207ee67a3db0518c5ac5b6fddc317b9d5c30b22bb
 product: cursor
 product_name: Cursor
 record:
@@ -39,11 +39,10 @@ version: 0.9.7-nightly
 <!-- chronolog:begin region="summary" -->
 We no longer store any full files in memory and prevent users from @'ing very large files (> 2MB)
 
-Tracked 2 cards from 2 candidate lines.
+Tracked 1 card from 2 candidate lines.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg|We no longer store any full files in memory and prevent users from @'ing very large…]] · Reliability and Performance
-- [[Changes/Cursor/2023-09-07-this-should-reduce-any-significant-memory-issues-that-users-have-been-experienci|This should reduce any significant memory issues that users have been experiencing]] · Memory and Personalization
+- [[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg-8d6c31|Better State Management]] · Reliability and Performance
 <!-- chronolog:end -->

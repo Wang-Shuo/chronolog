@@ -3,7 +3,7 @@ changes_count: 14
 date: '2026-04-02'
 description: 'Cursor release New Cursor Interface on 2026-04-02: 14 tracked changes
   across Agent Mode, Editor Experience, Apps and Integrations, Automation and Scheduling…'
-machine_hash: 5f306c721672eec5f5c3f678854538b171d25f63854bdefaf84096c38341cd5d
+machine_hash: ef190adc95cbcc1040ac91eb0e3701d46e6015bcaed940ca107963d580bc01a8
 product: cursor
 product_name: Cursor
 record:
@@ -54,7 +54,7 @@ Tracked 14 cards from 46 candidate lines.
 - [[Changes/Cursor/2026-04-02-agent-tabs-in-the-editor|Agent Tabs in the Editor]] · Editor Experience · Launch
 - [[Changes/Cursor/2026-04-02-agents-window-da5689|Agents Window]] · Agent Mode · Launch
 - [[Changes/Cursor/2026-04-02-past-chat-transcripts-are-now-surfaced-directly-in-at-mention-search-results|Past chat transcripts are now surfaced directly in at-mention search results]] · Search and Browsing
-- [[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file diff rendering is now much faster, smoother, and less memory-heavy]] · Memory and Personalization
+- [[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file diff rendering is now much faster, smoother, and less memory-heavy]] · Reliability and Performance
 - [[Changes/Cursor/2026-04-02-2-apps-and-integrations-changes-in-3-0|2 Apps and Integrations changes in 3.0]] · Apps and Integrations · Digest
 - [[Changes/Cursor/2026-04-02-2-other-changes-in-3-0|2 other changes in 3.0]] · Other changes · Digest
 <!-- chronolog:end -->

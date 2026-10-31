@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cf61f5fc8c4cb7221da15186d328918f7d330899c6578afefe2767aa98d28411
+machine_hash: c358ed30b15d367e1bc2dcfcd087f2c07981b5ac9bf5ba2ae6706c646cd325ef
 product: claude-code
 product_name: Claude Code
 record:
@@ -65,6 +65,7 @@ related_changes:
   Fixed headless sessions not cleaning up stale entries…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96|claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96]]'
 source_type: github_releases
+superseded: true
 theme: mobile-desktop
 title: Improved Amazon Bedrock session start under CLAUDE_CODE_PROVIDER_MANAGED_BY_HOST…
 type: change

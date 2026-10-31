@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6da35857b3fe99e4846320d4a1985dda720c36527b454afaff287cfe5d1d87cd
+machine_hash: f5b7c65875877902251e61cfe0501d21c93f5324dfc18189db6faac4f1144feb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -67,7 +67,8 @@ record:
   title: An improvement to projects is now available
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-03-faster-tab|Faster Tab]]'
+- '[[Changes/Cursor/2025-07-03-memories-is-now-ga-since-1-0-we-ve-improved-memory-generation-quality-added-in-e|Memories
+  (now GA)]]'
 - '[[Changes/ChatGPT/2025-07-29-personalize-responses-based-on-your-past-chats-if-memory-is-on-using-examples-an|Personalize
   responses based on your past chats if memory is on, using examples…]]'
 - '[[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses-4644fd|Longer

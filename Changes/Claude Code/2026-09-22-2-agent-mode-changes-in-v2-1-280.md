@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: de4b0579a75a54ed35d7aac188db818b89ffbf62a55d77101a5f64f44f6badad
+machine_hash: 5c551db25689da941d66ccf0d81f898d22d2d028f127fb8b2638b1eb02222285
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.280
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-19 · Claude Code · [[Changes/Claude Code/2026-09-19-added-an-auto-mode-server-row-to-status-showing-whether-this-session-s-auto-mode|Added an Auto mode server row to /status showing whether this session's auto…]]
-- Later: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-9-agent-mode-changes-in-v2-1-281|9 Agent Mode changes in v2.1.281]]
+- Later: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-10-agent-mode-changes-in-v2-1-281|10 Agent Mode changes in v2.1.281]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

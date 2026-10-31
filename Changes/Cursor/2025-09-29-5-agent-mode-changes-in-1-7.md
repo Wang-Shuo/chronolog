@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b0984b561019c38771a0df833b1a5e95d2b9617b61d24049dabc2f7962932a12
+machine_hash: 52a590e1a671e3b32c155d28f122021dbdc3e582479cb0411e039b795f5d43ca
 product: cursor
 product_name: Cursor
 record:
@@ -54,6 +54,7 @@ related_changes:
 - '[[Changes/Cursor/2025-09-29-monitor-agents-from-menubar|Monitor Agents from menubar]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
 source_type: cursor_changelog
+superseded: true
 theme: agent-mode
 title: 5 Agent Mode changes in 1.7
 type: change

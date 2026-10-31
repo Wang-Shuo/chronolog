@@ -41,6 +41,13 @@ const style = `
   line-height: 1.35;
   color: var(--gray);
 }
+/* Card titles quote env var names and flags (CLAUDE_CODE_ENABLE_AUTO_MODE); unbroken,
+   they widened theme pages to 458px on a 390px phone via the Backlinks list. Quartz sets
+   break-word on these elements directly, which does not shrink their minimum width. */
+article :is(p, ul, ol, li, a, td, th),
+.sidebar :is(p, ul, ol, li, a) {
+  overflow-wrap: anywhere;
+}
 `
 
 // Same title markup and classes as Quartz's PageTitle, plus a one-line tagline.

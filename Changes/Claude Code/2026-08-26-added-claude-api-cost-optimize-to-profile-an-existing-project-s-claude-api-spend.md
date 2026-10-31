@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3605825403722ab50bf92e2fe5beea42374c6942c788627b4cab0d66459b9dca
+machine_hash: c969f4d4e8147dcddc031906bc40ac60036062e7602bfd4e2bf2317341bfbb4d
 product: claude-code
 product_name: Claude Code
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-added-anthropic-default-model-environment-variable-sets-the-model-new-sessions-s|Added ANTHROPIC_DEFAULT_MODEL environment variable]]
-- Later: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-4-model-support-changes-in-v2-1-251|4 Model Support changes in v2.1.251]]
+- Later: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-5-model-support-changes-in-v2-1-251|5 Model Support changes in v2.1.251]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

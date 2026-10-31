@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: fix
-machine_hash: 7dc5f4cb444780a1ebe333e25aa41ada24c7082c9fa6485616903882cd3a4d20
+machine_hash: 6075186dbc21994445f1f5a6dc5420b680cf7acae0e67ce298ce8b6bc3a931d9
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,15 +41,7 @@ record:
   source_release: claude-code-2026-04-18-v2-1-114-github-310615961-aa4049e4
   source_type: github_releases
   theme: safety-privacy
-  theme_matches:
-  - matched_terms:
-    - agent
-    score: 50
-    theme: agent-mode
-  - matched_terms:
-    - teams
-    score: 50
-    theme: collaboration
+  theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed a crash in the permission dialog when an agent teams teammate requested
     tool…

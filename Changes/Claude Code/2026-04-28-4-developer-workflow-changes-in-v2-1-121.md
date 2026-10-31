@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2ebd3140c67056a6905b6e551999d37d17498bcc2187a721a58ef30d8e977151
+machine_hash: ae471e995685dbf4538167751c456bc714cc35520ddf44c16a38770b34605238
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,10 @@ record:
   title: 4 Developer Workflow changes in v2.1.121
   type: change
 related_changes:
+- '[[Changes/Claude Code/2026-04-23-4-developer-workflow-changes-in-v2-1-119|4 Developer
+  Workflow changes in v2.1.119]]'
 - '[[Changes/Claude Code/2026-04-23-wsl-on-windows-can-now-inherit-windows-side-managed-settings-via-the-wslinherits|WSL
   on Windows can now inherit Windows-side managed settings…]]'
-- '[[Changes/Claude Code/2026-04-23-3-developer-workflow-changes-in-v2-1-119|3 Developer
-  Workflow changes in v2.1.119]]'
 - '[[Changes/Claude Code/2026-04-28-opentelemetry-added-claude-code-at-mention-log-event-for-mention-resolution|OpenTelemetry:
   added claude_code.at_mention log event for @-mention resolution]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce|claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce]]'

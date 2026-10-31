@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1f52e3d909f6f5a6eab588b93a06806acfa07cdcea1301e4ae9ec645cfaaf57a
+machine_hash: ff3762364a1ffb0e3d9cc320ce27ed9c942ad57dfba5e08b786b8847291dfa26
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: Claude no longer runs the `/verify` and `/code-review` skills on its own
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-07-removed-the-startup-claude-command-missing-or-broken-warnings-they-now-appear-in|Removed
-  the startup "claude command missing or broken" warnings]]'
 - '[[Changes/Claude Code/2026-07-10-4-developer-workflow-changes-in-v2-1-206|4 Developer
   Workflow changes in v2.1.206]]'
 - '[[Changes/Claude Code/2026-07-14-agent-view-ctrl-x-now-deletes-renamed-branch-worktrees-never-destroys-unpushed-c|Agent
   view: Ctrl+X now deletes renamed-branch worktrees, never destroys unpushed…]]'
+- '[[Changes/Claude Code/2026-07-17-changed-enterprise-forceloginmethod-to-be-enforced-for-vs-code-extension-sdk-set|Changed
+  Enterprise forceLoginMethod to be enforced for VS Code extension, SDK…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-19-v2-1-215-github-356226333-6836aad6|claude-code-2026-07-19-v2-1-215-github-356226333-6836aad6]]'
 source_type: github_releases
 theme: developer-workflow
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-agent-view-ctrl-x-now-deletes-renamed-branch-worktrees-never-destroys-unpushed-c|Agent view: Ctrl+X now deletes renamed-branch worktrees, never destroys unpushed…]]
+- Earlier: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-changed-enterprise-forceloginmethod-to-be-enforced-for-vs-code-extension-sdk-set|Changed Enterprise forceLoginMethod to be enforced for VS Code extension, SDK…]]
 - Later: 2026-07-20 · Claude Code · [[Changes/Claude Code/2026-07-20-2-developer-workflow-changes-in-v2-1-216|2 Developer Workflow changes in v2.1.216]]
 <!-- chronolog:end -->
 

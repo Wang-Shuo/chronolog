@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 69807969e7361fcb04bf84a4924f9b3f612e6d47a848f2e53d92f7704dd00fc6
+machine_hash: cbd6221d4eb2e74f3f93a19ba02ec9ccb5604c459f58b901a126f9aed6e5fe53
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Agent Mode changes in v2.1.223
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-24-4-agent-mode-changes-in-v2-1-219|4 Agent Mode
-  changes in v2.1.219]]'
 - '[[Changes/Cursor/2026-07-28-always-on-cloud-agents-that-build-test-and-ship-code-while-you-keep-working-725c7c|Always-on
   cloud agents that build, test, and ship code while you keep working]]'
+- '[[Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and|A
+  full review surface]]'
 - '[[Changes/Cursor/2026-07-29-inbox|Inbox]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d|claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d]]'
 source_type: github_releases

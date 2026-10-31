@@ -1,24 +1,24 @@
 ---
 card_id: claude-code-2026-08-14-c22adb
 date: '2026-08-14'
-description: 'Claude Code · 2026-08-14 · Memory and Personalization: Added opt-in
+description: 'Claude Code · 2026-08-14 · Reliability and Performance: Added opt-in
   memory cgroup support for Bash tool commands on Linux (`CLAUDE_CODE_TOOL_MEMORY_LIMIT`)
   so…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
-    instructions are rolling out in beta]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1121
+  lag_days: 1338
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: memory
+  theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: de3ae5593a4e20bf77d4a8922d7f46ffd457a4fd23f4a2e65b3a1b122996df6b
+machine_hash: 4fa75a5f0169ea030ba7bcdbc3cff4a32e702565af0c6ff7839f476d60d0ad8f
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,19 +42,20 @@ record:
   slug: added-opt-in-memory-cgroup-support-for-bash-tool-commands-on-linux-claude-code-t
   source_release: claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9
   source_type: github_releases
-  theme: memory
+  theme: reliability-performance
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v2
   title: Added opt-in memory cgroup support for Bash tool commands on Linux…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-13-cowork-sessions-no-longer-inline-external-imports-from-user-scope-memory-files|Cowork
-  sessions no longer inline external @-imports from user-scope memory files]]'
-- '[[Changes/ChatGPT/2026-08-14-we-ve-made-it-easier-to-study-with-interactive-quizzes-manage-project-memory-and|ChatGPT
-  makes it easier to study with interactive quizzes, manage project memory…]]'
-- '[[Changes/ChatGPT/2026-08-14-you-can-now-change-a-project-s-memory-setting-after-you-create-it-open-the-proje-b36ffe|Edit
-  memory settings for existing projects]]'
+- '[[Changes/Claude Code/2026-07-21-added-warnings-when-transcript-writes-are-failing-e-g-disk-full-or-when-session|Added
+  warnings when transcript writes are failing (e.g. disk full) or when session…]]'
+- '[[Changes/Claude Code/2026-08-10-improved-performance-fewer-event-loop-stalls-on-file-not-found-suggestions-and-a|Improved
+  performance: fewer event-loop stalls on file-not-found suggestions…]]'
+- '[[Changes/Cursor/2026-08-13-faster-starts|Faster starts]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9|claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9]]'
 source_type: github_releases
-theme: memory
+theme: reliability-performance
 title: Added opt-in memory cgroup support for Bash tool commands on Linux…
 type: change
 ---
@@ -62,7 +63,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Added opt-in memory cgroup support for Bash tool commands on Linux…
 
-**Claude Code** · 2026-08-14 · [[Themes/memory|Memory and Personalization]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.233) · from [[Releases/Claude Code/claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9|v2.1.233]]
+**Claude Code** · 2026-08-14 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.233) · from [[Releases/Claude Code/claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9|v2.1.233]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -86,16 +87,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Memory and Personalization
+## Nearby in Reliability and Performance
 
-- Earlier: 2026-08-14 · ChatGPT · [[Changes/ChatGPT/2026-08-14-you-can-now-change-a-project-s-memory-setting-after-you-create-it-open-the-proje-b36ffe|Edit memory settings for existing projects]]
-- Later: 2026-08-18 · Claude Code · [[Changes/Claude Code/2026-08-18-improved-the-embedded-grep-in-native-macos-linux-builds-pathological-patterns-no|Improved the embedded grep in native macOS/Linux builds]]
+- Earlier: 2026-08-13 · Cursor · [[Changes/Cursor/2026-08-13-faster-starts|Faster starts]]
+- Later: 2026-08-18 · Claude Code · [[Changes/Claude Code/2026-08-18-2-reliability-and-performance-changes-in-v2-1-235|2 Reliability and Performance changes in v2.1.235]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

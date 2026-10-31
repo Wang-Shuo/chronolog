@@ -1,23 +1,23 @@
 ---
 card_id: cursor-2023-09-08-0cc2fc
 date: '2023-09-08'
-description: 'Cursor · 2023-09-08 · Memory and Personalization: Better state management
+description: 'Cursor · 2023-09-08 · Reliability and Performance: Better state management
   - prevents crashes from editor using too much memory'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
-    instructions are rolling out in beta]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 50
+  lag_days: 267
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: memory
+  theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 34b694b6e3aca89949e373c080c8a1b6bcdbae415c50558ba965149173996135
+machine_hash: 3bf15b28d591b3b48c4ae8a2182e8aa68c877becf77ee28ee8522ac0eb3c6f0c
 product: cursor
 product_name: Cursor
 record:
@@ -37,7 +37,7 @@ record:
   slug: better-state-management-prevents-crashes-from-editor-using-too-much-memory
   source_release: cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699
   source_type: cursor_changelog
-  theme: memory
+  theme: reliability-performance
   theme_matches:
   - matched_terms:
     - memory
@@ -47,18 +47,19 @@ record:
     - editor
     score: 50
     theme: editor-experience
+  theme_resolution: manual-semantic-rule-v2
   title: Better state management - prevents crashes from editor using too much memory
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-08-09-custom-instructions-are-now-available-to-chatgpt-users-on-the-free-plan-except-f-963d1e|Custom
-  instructions are now available to free users]]'
-- '[[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king-cfc1d5|Custom
-  instructions are now available to users in the EU & UK]]'
-- '[[Changes/Cursor/2023-09-07-this-should-reduce-any-significant-memory-issues-that-users-have-been-experienci|This
-  should reduce any significant memory issues that users have been experiencing]]'
+- '[[Changes/Cursor/2023-09-05-updates-to-docs-try-pasting-a-link-in-chat-you-can-delete-edit-docs-you-can-see|Docs
+  updates]]'
+- '[[Changes/Cursor/2023-09-07-we-release-an-improved-new-ai-project-feature-to-nightly-users-this-is-a-more-ro|We
+  release an improved New AI Project feature to nightly users]]'
+- '[[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg-8d6c31|Better
+  State Management]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699|cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699]]'
 source_type: cursor_changelog
-theme: memory
+theme: reliability-performance
 title: Better state management - prevents crashes from editor using too much memory
 type: change
 ---
@@ -66,7 +67,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Better state management - prevents crashes from editor using too much memory
 
-**Cursor** · 2023-09-08 · [[Themes/memory|Memory and Personalization]] · [Official source](https://cursor.com/changelog/0-10-0) · from [[Releases/Cursor/cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699|Better Docs Management, Staged Rollouts]]
+**Cursor** · 2023-09-08 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://cursor.com/changelog/0-10-0) · from [[Releases/Cursor/cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699|Better Docs Management, Staged Rollouts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -84,16 +85,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Memory and Personalization
+## Nearby in Reliability and Performance
 
-- Earlier: 2023-09-07 · Cursor · [[Changes/Cursor/2023-09-07-this-should-reduce-any-significant-memory-issues-that-users-have-been-experienci|This should reduce any significant memory issues that users have been experiencing]]
-- Later: 2024-02-13 · ChatGPT · [[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|Memory and new controls for ChatGPT]]
+- Earlier: 2023-09-07 · Cursor · [[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg-8d6c31|Better State Management]]
+- Later: 2023-09-20 · Cursor · [[Changes/Cursor/2023-09-20-we-ship-a-new-version-of-indexing-which-should-be-significantly-more-stable-than|More Stable Codebase Indexing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

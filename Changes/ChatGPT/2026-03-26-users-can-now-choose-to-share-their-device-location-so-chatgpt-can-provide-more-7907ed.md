@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 03c36fdd4d8983a381e7cb19078232199343d5dea0c7100a7d421aa9ad828cb7
+machine_hash: 99c5fb91408049dc813e4b07175941404dc853fb5ce9a71a0620c6566174dad2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -74,12 +74,6 @@ record:
   theme: mobile-desktop
   theme_matches:
   - matched_terms:
-    - android
-    - ios
-    - mobile
-    score: 150
-    theme: mobile-desktop
-  - matched_terms:
     - parental controls
     score: 60
     theme: safety-privacy
@@ -87,15 +81,16 @@ record:
     - sharing
     score: 50
     theme: collaboration
+  theme_resolution: manual-semantic-rule-v1
   title: Location Sharing
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-17-2-mobile-and-desktop-changes-in-v2-1-77|2 Mobile
-  and Desktop changes in v2.1.77]]'
-- '[[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|File
-  Library in ChatGPT]]'
-- '[[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|A
-  simplified sidebar on mobile]]'
+- '[[Changes/Cursor/2026-02-18-2-mobile-and-desktop-changes-in-cli-improvements-and-mermaid-ascii|2
+  Mobile and Desktop changes in CLI Improvements and Mermaid ASCII…]]'
+- '[[Changes/Claude Code/2026-03-05-2-mobile-and-desktop-changes-in-v2-1-69|2 Mobile
+  and Desktop changes in v2.1.69]]'
+- '[[Changes/Claude Code/2026-03-17-vscode-when-option-click-doesn-t-trigger-native-selection-on-macos-the-footer-no|VSCode
+  When option+click doesn''t trigger native selection on macOS, the footer now…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-26-location-sharing-b07f88a6|chatgpt-2026-03-26-location-sharing-b07f88a6]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -122,7 +117,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-03-26 · ChatGPT · [[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|A simplified sidebar on mobile]]
+- Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-vscode-when-option-click-doesn-t-trigger-native-selection-on-macos-the-footer-no|VSCode When option+click doesn't trigger native selection on macOS, the footer now…]]
 - Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-added-powershell-tool-for-windows-as-an-opt-in-preview-learn-more-at-https-code|Added PowerShell tool for Windows as an opt-in preview]]
 <!-- chronolog:end -->
 

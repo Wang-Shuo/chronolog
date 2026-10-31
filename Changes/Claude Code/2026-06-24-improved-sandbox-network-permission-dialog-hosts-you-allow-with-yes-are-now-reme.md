@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fd5d99a0a826edce200a9cfa0f24c1c149c9f2298079333dcd3e90ae61f37850
+machine_hash: 03aa8ad1d4e154105314a4c3eb9df957ede16b5f3ca514ede063539eaffaa061
 product: claude-code
 product_name: Claude Code
 record:
@@ -78,7 +78,7 @@ type: change
 
 - [[Changes/Claude Code/2026-06-24-added-rewind-support-for-resuming-a-conversation-from-before-clear-was-run|Added /rewind support for resuming a conversation from before /clear was run]] · Projects and Workspaces
 - [[Changes/Claude Code/2026-06-24-2-apps-and-integrations-changes-in-v2-1-191|2 Apps and Integrations changes in v2.1.191]] · Apps and Integrations
-- [[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced long-session memory growth from terminal output cache]] · Memory and Personalization
+- [[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced long-session memory growth from terminal output cache]] · Reliability and Performance
 - [[Changes/Claude Code/2026-06-24-improved-mcp-oauth-discovery-and-token-requests-now-retry-once-after-transient-n|Improved MCP OAuth]] · Account and Access
 - [[Changes/Claude Code/2026-06-24-2-other-changes-in-v2-1-191|2 other changes in v2.1.191]] · Other changes
 <!-- chronolog:end -->

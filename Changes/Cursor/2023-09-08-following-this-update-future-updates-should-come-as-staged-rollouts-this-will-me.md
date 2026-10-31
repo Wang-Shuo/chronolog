@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 20e09e7479c518963aeb7a260b1f9f9ca7d5985ae9f0a33fee1c20a9306a082a
+machine_hash: c7e1e88392a7d6149fa6610d91743b5da8ddb150b3651536cecac44347b23c0f
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,12 @@ record:
   title: Staged Rollouts
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-05-updates-to-docs-try-pasting-a-link-in-chat-you-can-delete-edit-docs-you-can-see|Docs
-  updates]]'
-- '[[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg|We
-  no longer store any full files in memory and prevent users from @''ing very large…]]'
 - '[[Changes/Cursor/2023-09-07-we-release-an-improved-new-ai-project-feature-to-nightly-users-this-is-a-more-ro|We
   release an improved New AI Project feature to nightly users]]'
+- '[[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg-8d6c31|Better
+  State Management]]'
+- '[[Changes/Cursor/2023-09-08-better-state-management-prevents-crashes-from-editor-using-too-much-memory|Better
+  state management - prevents crashes from editor using too much memory]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699|cursor-2023-09-08-0-10-0-https-cursor-com-changelog-0-10-0-8f32d699]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -72,7 +72,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2023-09-08-better-state-management-prevents-crashes-from-editor-using-too-much-memory|Better state management - prevents crashes from editor using too much memory]] · Memory and Personalization
+- [[Changes/Cursor/2023-09-08-better-state-management-prevents-crashes-from-editor-using-too-much-memory|Better state management - prevents crashes from editor using too much memory]] · Reliability and Performance
 - [[Changes/Cursor/2023-09-08-long-files-in-chat|Long files in chat]] · Context Window
 - [[Changes/Cursor/2023-09-08-2-other-changes-in-0-10-0|2 other changes in 0.10.0]] · Other changes
 <!-- chronolog:end -->
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2023-09-07 · Cursor · [[Changes/Cursor/2023-09-07-we-release-an-improved-new-ai-project-feature-to-nightly-users-this-is-a-more-ro|We release an improved New AI Project feature to nightly users]]
+- Earlier: 2023-09-07 · Cursor · [[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg-8d6c31|Better State Management]]
 - Later: 2023-09-20 · Cursor · [[Changes/Cursor/2023-09-20-we-ship-a-new-version-of-indexing-which-should-be-significantly-more-stable-than|More Stable Codebase Indexing]]
 <!-- chronolog:end -->
 

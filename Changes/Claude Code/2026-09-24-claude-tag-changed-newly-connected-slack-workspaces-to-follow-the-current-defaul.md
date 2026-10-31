@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6b3819488d000d408ebe4a8da22ee478a4232f9181638038521d2c140e3b3b6d
+machine_hash: cad1f5fc57558c3e98c0fd2cca4af33900107c34f4117554f1f1b8b2023f2f08
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,6 +55,7 @@ related_changes:
   interactive startup time]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4|claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Claude Tag Changed newly connected Slack workspaces to follow the current default…
 type: change

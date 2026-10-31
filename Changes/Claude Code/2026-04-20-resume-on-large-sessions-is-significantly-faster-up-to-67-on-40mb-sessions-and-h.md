@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d1cfeee97d3fed7175b4ac345c918b75c895f4e68a1e3ade0fbd7aa2e5f75b38
+machine_hash: b745524ff834821ddef66f0b467e6c0abbadbcf51009036c3c6a72d8a102f0b5
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-improved-ultrareview-faster-launch-with-parallelized-checks-diffstat-in-the-laun|Improved /ultrareview: faster launch with parallelized checks, diffstat…]]
-- Later: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-windows-cached-where-exe-executable-lookups-per-process-for-faster-subprocess-la|Windows: cached where.exe executable lookups per process for faster subprocess launches]]
+- Later: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-2-reliability-and-performance-changes-in-v2-1-117|2 Reliability and Performance changes in v2.1.117]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

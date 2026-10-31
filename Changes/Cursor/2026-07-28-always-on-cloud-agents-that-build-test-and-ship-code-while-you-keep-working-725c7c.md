@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d5c7ae04c32c1f76c0f7e87900798eb4387f7cc52437f3f5f1b15e78b71011bb
+machine_hash: abc778f80cb7ecbfbec592a17fe5ce47936a679b38373e7337a083aaa4d45529
 product: cursor
 product_name: Cursor
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-24 · Claude Code · [[Changes/Claude Code/2026-07-24-4-agent-mode-changes-in-v2-1-219|4 Agent Mode changes in v2.1.219]]
-- Later: 2026-07-29 · Cursor · [[Changes/Cursor/2026-07-29-inbox|Inbox]]
+- Later: 2026-07-29 · Cursor · [[Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and|A full review surface]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

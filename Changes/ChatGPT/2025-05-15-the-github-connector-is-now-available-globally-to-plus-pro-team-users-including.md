@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 0dead972422da0db837a8e15e6c56fb019ce189d588bdcdde7bfbcdee27f5265
+machine_hash: de49969bc37f4f7ff3d5cded014d6141619f5dbe0110ec7eb9aabfde6a6d76eb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,16 +40,6 @@ record:
   source_release: chatgpt-2025-05-15-github-connector-for-deep-research-0808a124
   source_type: chatgpt_changelog
   theme: apps-integrations
-  theme_matches:
-  - matched_terms:
-    - connector
-    score: 50
-    theme: apps-integrations
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
-  theme_resolution: manual-semantic-rule-v1
   title: GitHub connector for deep research
   type: change
 related_changes:

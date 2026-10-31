@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c8cb6a91ee45a56ae34a815de94a7b97cbd94e4e0a20d210da4ead10016a2c51
+machine_hash: c4cbc78b72de20440c5f321d05f201372bcec4db14eef45bc434791e553bda7a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-your-chatgpt-profile-now-brings-together-your-bio-activity-and-sites-you-choose-09d5dd|Share your profile and showcase your Sites]]
-- Later: 2026-10-13 · Cursor · [[Changes/Cursor/2026-10-13-starting-today-the-marketplace-is-also-open-to-public-submissions-so-any-team-bu|Starting today, the marketplace is also open to public submissions, so any team…]]
+- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-changed-local-session-transcripts-to-also-record-each-api-request-s-system-promp|Changed local session transcripts to also record each API request's system prompt…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -2,8 +2,8 @@
 changes_count: 1
 date: '2026-10-21'
 description: 'ChatGPT release MoMo payments in Vietnam on 2026-10-21: 1 tracked change
-  across Mobile and Desktop'
-machine_hash: 21152417c890bd2e148e70b02ca0e07d3dbb43feb64aa17060d56f99b938153a
+  across Pricing Model'
+machine_hash: 03aa0d937be7a9b18a6fbbadff0bec4af726d97eee111eaa9bdca044f2352dd8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,5 +46,5 @@ Tracked 1 card from 1 candidate line.
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo payments in Vietnam]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo payments in Vietnam]] · Pricing Model · Pricing
 <!-- chronolog:end -->

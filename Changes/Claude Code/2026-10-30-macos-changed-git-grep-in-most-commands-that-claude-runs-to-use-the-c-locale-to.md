@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 44b480cfd6df9ea727926bc706943053c75c59ba331ceab84c1404ebd5a38132
+machine_hash: 7f9aebed144963ca376b189f5932c6ee568f869e6776ca78c01517db45a147e5
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,6 +62,7 @@ related_changes:
   Reliability and Performance changes in v2.1.309]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7]]'
 source_type: github_releases
+superseded: true
 theme: reliability-performance
 title: 'macOS: Changed git grep in most commands that Claude runs to use the C locale…'
 type: change

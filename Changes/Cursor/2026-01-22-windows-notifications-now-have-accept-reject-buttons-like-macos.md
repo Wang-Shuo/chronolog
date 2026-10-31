@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 70783ac0be21c901db5c8acc158ebe31d32251a5b94eccd7dba5c0e32e2066db
+machine_hash: 6d0be80b652b48125c232ba7dc13bbe9e5e2d738bacfc4574203898526fc260d
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,12 @@ record:
   title: Windows notifications now have accept/reject buttons like MacOS
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-added-guidance-for-macos-users-when-alt-shortcuts-fail-due-to-terminal-configura|Added
-  guidance for macOS users when Alt shortcuts fail due to terminal configuration]]'
-- '[[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health
-  appears as a new space in the ChatGPT sidebar]]'
-- '[[Changes/Claude Code/2026-01-09-2-mobile-and-desktop-changes-in-v2-1-2|2 Mobile
-  and Desktop changes in v2.1.2]]'
+- '[[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-3f946e|Starting
+  today, project sharing is available to all ChatGPT users, including…]]'
+- '[[Changes/ChatGPT/2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05|Group
+  chats in ChatGPT]]'
+- '[[Changes/Claude Code/2026-01-09-added-support-for-windows-package-manager-winget-installations-with-automatic-de|Added
+  support for Windows Package Manager (winget) installations with automatic…]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'
 source_type: cursor_changelog
 theme: mobile-desktop
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-2-mobile-and-desktop-changes-in-v2-1-2|2 Mobile and Desktop changes in v2.1.2]]
+- Earlier: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-added-support-for-windows-package-manager-winget-installations-with-automatic-de|Added support for Windows Package Manager (winget) installations with automatic…]]
 - Later: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-added-windows-arm64-win32-arm64-native-binary-support|Added Windows ARM64 (win32-arm64) native binary support]]
 <!-- chronolog:end -->
 

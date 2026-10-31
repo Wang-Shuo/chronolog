@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8a4e8b20279ea59aaa09bfd37168860c066cf4ab261d60ca707652470b1501e1
+machine_hash: 07ca18726bdc3ea268d801379d8031641a547c0efc6dc025a23940355ea42777
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-changed-memory-so-that-auto-memory-can-no-longer-be-turned-on-from-a-background|Changed /memory so that Auto-memory can no longer be turned on from a background…]]
-- Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-2-memory-and-personalization-changes-in-v2-1-287|2 Memory and Personalization changes in v2.1.287]]
+- Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-improved-memory-the-left-and-right-arrow-keys-now-flip-its-on-off-settings-such|Improved /memory: the left and right arrow keys now flip its on/off settings, such…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5b33a63bac54fad1d0756abe601b5b77c7fc4ce463322e205fefb074486afa97
+machine_hash: e29b7c2567fe99a30069449666a8c0361e754cc8f8253925aff4cd0fdce19705
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,14 +54,6 @@ record:
     - connectors
     score: 50
     theme: apps-integrations
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
   theme_resolution: manual-semantic-rule-v1
   title: ChatGPT Team, Enterprise, and Edu customers globally can use connectors in
     deep…

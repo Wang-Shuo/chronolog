@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f8732ef576cbcba57bf16ba0cf817dd9b9b13673bd6927d96e134b7d8cf7ec7a
+machine_hash: c828f948fbf3b24ed82258d214f15472dc0e2a7b827969a674522e176fe185e9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,8 +50,8 @@ related_changes:
   scores in Finances]]'
 - '[[Changes/Claude Code/2026-09-23-2-mobile-and-desktop-changes-in-v2-1-281|2 Mobile
   and Desktop changes in v2.1.281]]'
-- '[[Changes/Claude Code/2026-09-24-2-mobile-and-desktop-changes-in-v2-1-282|2 Mobile
-  and Desktop changes in v2.1.282]]'
+- '[[Changes/Claude Code/2026-09-24-improved-the-error-shown-on-windows-when-a-session-can-t-be-resumed-because-its|Improved
+  the error shown on Windows when a session can''t be resumed because…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-creating-editing-and-scheduling-sites-bb025dd6|chatgpt-2026-09-29-creating-editing-and-scheduling-sites-bb025dd6]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-2-mobile-and-desktop-changes-in-v2-1-282|2 Mobile and Desktop changes in v2.1.282]]
-- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio is deleted once your notes are ready and can’t be accessed or replayed]]
+- Earlier: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-improved-the-error-shown-on-windows-when-a-session-can-t-be-resumed-because-its|Improved the error shown on Windows when a session can't be resumed because…]]
+- Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-6-mobile-and-desktop-changes-in-v2-1-285|6 Mobile and Desktop changes in v2.1.285]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

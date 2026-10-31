@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3809732efb5c5e181d31fbb68c3f8631090aa85474d6ef05693ea480b96fde0d
+machine_hash: 431dbfc23a7bf1237a9e031a2de99312d4a40f829b92f31a1fd8959b7420c194
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Mobile and Desktop changes in CLI Improvements and Mermaid ASCII…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-09-2-mobile-and-desktop-changes-in-v2-1-2|2 Mobile
-  and Desktop changes in v2.1.2]]'
+- '[[Changes/Claude Code/2026-01-09-added-support-for-windows-package-manager-winget-installations-with-automatic-de|Added
+  support for Windows Package Manager (winget) installations with automatic…]]'
 - '[[Changes/Cursor/2026-01-22-windows-notifications-now-have-accept-reject-buttons-like-macos|Windows
   notifications now have accept/reject buttons like MacOS]]'
 - '[[Changes/Claude Code/2026-02-13-added-windows-arm64-win32-arm64-native-binary-support|Added
@@ -94,7 +94,7 @@ Source: https://cursor.com/changelog/cli-feb-18-2026
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-added-windows-arm64-win32-arm64-native-binary-support|Added Windows ARM64 (win32-arm64) native binary support]]
-- Later: 2026-02-27 · ChatGPT · [[Changes/ChatGPT/2026-02-27-sidebar-actions-on-mobile-web-no-longer-stick-while-scrolling|Sidebar actions on mobile web no longer stick while scrolling]]
+- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-2-mobile-and-desktop-changes-in-v2-1-69|2 Mobile and Desktop changes in v2.1.69]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

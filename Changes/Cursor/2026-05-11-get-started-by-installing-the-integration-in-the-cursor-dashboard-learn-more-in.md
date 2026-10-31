@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 71959ae1ba4ca613c4364cf858de070e1c5da4a9705ec2a76c638b65581ea87d
+machine_hash: d2c13ab0166529007ee9e9e0a4cf30c7b0537265ce17ddeb0c62d476fe6cc2d8
 product: cursor
 product_name: Cursor
 record:
@@ -72,7 +72,8 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams-5c75c9|Cursor is now available in Microsoft Teams]] · Collaboration
+- [[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is now available in Microsoft Teams]] · Collaboration
+- [[Changes/Cursor/2026-05-11-mention-cursor-in-any-teams-channel-to-delegate-a-task-to-a-cloud-agent-or-pull-d30c31|Mention @Cursor in any Teams channel to delegate a task to a cloud agent or pull…]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

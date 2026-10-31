@@ -4,10 +4,10 @@ date: '2026-03-26'
 description: 'Claude Code · 2026-03-26 · Enterprise and Administration: Added `allowedChannelPlugins`
   managed setting for team/enterprise admins to define a channel plugin…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
-    users can only access stable release (no pre-release)]]'
+  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
+    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 295
+  lag_days: 736
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 55f339c3939c074d8595a93258eaa370ccf79cf79846613f21be052bbdfcdd80
+machine_hash: dd0c965844ab5c112dea4537f07ccbb37bc8311c1dfa072debf62d9650b85325
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,6 @@ record:
     - plugin
     score: 50
     theme: apps-integrations
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
   title: Added `allowedChannelPlugins` managed setting for team/enterprise admins
     to define…
   type: change
@@ -107,7 +103,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
+- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

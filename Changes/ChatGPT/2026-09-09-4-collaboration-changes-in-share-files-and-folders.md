@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8d13748ea64d1f21c1547c912a8f3eaf1dbcc662bab51925d3a3abcf8fb53ddd
+machine_hash: 2fc8be0aa8fb3d2a6fd35caf19c179423bbf39625986e0b401e3079a3b7e468e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,8 +50,8 @@ record:
   title: 4 Collaboration changes in Share files and folders…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o|Share
-  your stickers in messaging apps]]'
+- '[[Changes/ChatGPT/2026-08-20-share-a-read-only-snapshot-of-a-codex-chat-personal-share-links-can-be-opened-by|Share
+  a read-only snapshot of a Codex chat]]'
 - '[[Changes/ChatGPT/2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside|Share
   Sites with people outside your workspace]]'
 - '[[Changes/ChatGPT/2026-09-08-share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their|Share

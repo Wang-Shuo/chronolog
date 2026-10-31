@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 87ca78f2e95cf992885fd740296418568709bcf0ddccda918096201d0497688d
+machine_hash: 2cd30621adee6357766b7610ceb30fd1182f0a7de514c5e26196951e6c37b2f5
 product: claude-code
 product_name: Claude Code
 record:
@@ -39,15 +39,7 @@ record:
   source_release: claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44
   source_type: github_releases
   theme: model-support
-  theme_matches:
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
-  - matched_terms:
-    - sonnet
-    score: 50
-    theme: model-support
+  theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Changed Sonnet 4.5 users on Pro/Max/Team Premium to be automatically migrated…
   type: change

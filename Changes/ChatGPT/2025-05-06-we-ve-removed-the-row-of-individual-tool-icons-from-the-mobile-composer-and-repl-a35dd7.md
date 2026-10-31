@@ -1,23 +1,23 @@
 ---
 card_id: chatgpt-2025-05-06-a35dd7
 date: '2025-05-06'
-description: 'ChatGPT · 2025-05-06 · Mobile and Desktop: We''ve removed the row of
-  individual tool icons from the mobile composer and replaced it with the new sliders‑style…'
+description: 'ChatGPT · 2025-05-06 · Interface Experience: We''ve removed the row
+  of individual tool icons from the mobile composer and replaced it with the new sliders‑style…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 784
+  lag_days: 848
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: mobile-desktop
+  theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8f9ba6e52962fa9cb8635f2918316891f549b6cd2589318a0329ae3710f10e31
+machine_hash: 4ca8c9c58b67ae01bde0c07f0717e9c18bec6721250a5d87703c4fb66bfe562c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,29 +48,18 @@ record:
   slug: we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl
   source_release: chatgpt-2025-05-06-mobile-ui-ios-android-changing-on-free-plus-pro-plans-be1d56cb
   source_type: chatgpt_changelog
-  theme: mobile-desktop
-  theme_matches:
-  - matched_terms:
-    - menu
-    score: 50
-    theme: interface-experience
-  - matched_terms:
-    - mobile
-    score: 50
-    theme: mobile-desktop
-  theme_resolution: manual-semantic-rule-v1
+  theme: interface-experience
   title: Mobile UI (iOS/Android) changing on Free/Plus/Pro plans
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-28-long-press-to-select-text-on-ios-and-moved-the-message-quick-actions-to-always-b-a40c3f|Long
-  press to select text on iOS and moved the message quick actions to always…]]'
-- '[[Changes/ChatGPT/2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and|We
-  have been working on a variety of usability and performance improvements and bug…]]'
-- '[[Changes/ChatGPT/2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved
-  table-copying functionality out of ChatGPT responses on iOS and macOS]]'
+- '[[Changes/Cursor/2025-03-23-new-onboarding|New onboarding]]'
+- '[[Changes/Cursor/2025-03-23-2-interface-experience-changes-in-0-48-x|2 Interface
+  Experience changes in 0.48.x]]'
+- '[[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|More
+  accessible history]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-06-mobile-ui-ios-android-changing-on-free-plus-pro-plans-be1d56cb|chatgpt-2025-05-06-mobile-ui-ios-android-changing-on-free-plus-pro-plans-be1d56cb]]'
 source_type: chatgpt_changelog
-theme: mobile-desktop
+theme: interface-experience
 title: Mobile UI (iOS/Android) changing on Free/Plus/Pro plans
 type: change
 ---
@@ -78,7 +67,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Mobile UI (iOS/Android) changing on Free/Plus/Pro plans
 
-**ChatGPT** · 2025-05-06 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#mobile-ui-iosandroid-changing-on-freepluspro-plans) · from [[Releases/ChatGPT/chatgpt-2025-05-06-mobile-ui-ios-android-changing-on-free-plus-pro-plans-be1d56cb|Mobile UI (iOS/Android) changing on Free/Plus/Pro plans]]
+**ChatGPT** · 2025-05-06 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#mobile-ui-iosandroid-changing-on-freepluspro-plans) · from [[Releases/ChatGPT/chatgpt-2025-05-06-mobile-ui-ios-android-changing-on-free-plus-pro-plans-be1d56cb|Mobile UI (iOS/Android) changing on Free/Plus/Pro plans]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -94,16 +83,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Mobile and Desktop
+## Nearby in Interface Experience
 
-- Earlier: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved table-copying functionality out of ChatGPT responses on iOS and macOS]]
-- Later: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload files and access model selector on mobile]]
+- Earlier: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|More accessible history]]
+- Later: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-duplicate-chats|Duplicate Chats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 0ff7f54228b92e4f9e69e4982ab4fcbbd0c1333c262ffac3a75be4fc61fe352a
+machine_hash: 94114047c73ef3cbd861f008fb6295b1692e398d637d335b3764e74643fd79c9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -74,7 +74,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2023-08-09 · ChatGPT · [[Changes/ChatGPT/2023-08-09-custom-instructions-are-now-available-to-chatgpt-users-on-the-free-plan-except-f-963d1e|Custom instructions are now available to free users]]
-- Later: 2023-09-07 · Cursor · [[Changes/Cursor/2023-09-07-this-should-reduce-any-significant-memory-issues-that-users-have-been-experienci|This should reduce any significant memory issues that users have been experiencing]]
+- Later: 2024-02-13 · ChatGPT · [[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|Memory and new controls for ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 182a40f1a0dc40a92e3f826efb2a8c3a43e0c00315d37b9aa762726fec41c16f
+machine_hash: cf172ff962055838c6e12ab26b0521854971ca3266e755353ce06f1852588a30
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,6 +55,7 @@ related_changes:
   can upgrade, switch, or cancel your plan from Settings  My Plan or…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-09-v2-1-98-github-307232194-a0774436|claude-code-2026-04-09-v2-1-98-github-307232194-a0774436]]'
 source_type: github_releases
+superseded: true
 theme: pricing-model
 title: Fixed false Bash permission prompts for cut -d /, paste -d /, column -s /…
 type: change

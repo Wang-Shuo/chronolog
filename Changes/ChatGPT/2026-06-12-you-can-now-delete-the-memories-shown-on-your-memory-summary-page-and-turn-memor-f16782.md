@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 33e5715996401fcaf40147d6e7c7f543a645a1dd1b5d0378117243fb5bfda3e8
+machine_hash: 2ec02c79ab3c5f203dcaf8cf21f8f164ec7406c8f3c43bdb92473ab643718d8b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -72,19 +72,15 @@ record:
     - menu
     score: 50
     theme: interface-experience
-  - matched_terms:
-    - mobile
-    score: 50
-    theme: mobile-desktop
   title: Additional controls for memory summary
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|Fast
+  answers in ChatGPT]]'
 - '[[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Memory
   sources and more personalized responses in ChatGPT]]'
 - '[[Changes/ChatGPT/2026-06-04-we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping-9a48f3|Memory
   that stays more up to date]]'
-- '[[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run
-  correlation: Every send() now carries a platform-generated requestId, exposed…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-12-additional-controls-for-memory-summary-37c89b72|chatgpt-2026-06-12-additional-controls-for-memory-summary-37c89b72]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -117,7 +113,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run correlation: Every send() now carries a platform-generated requestId, exposed…]]
+- Earlier: 2026-06-04 · ChatGPT · [[Changes/ChatGPT/2026-06-04-we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping-9a48f3|Memory that stays more up to date]]
 - Later: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-changed-the-improved-n-memories-line-to-no-longer-list-individual-files-outside|Changed the Improved N memories line to no longer list individual files outside…]]
 <!-- chronolog:end -->
 

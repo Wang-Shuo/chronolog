@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d19afa453c67acc9c1b45e95d79c2b99cfffdbc2ea15868374775fe86f126385
+machine_hash: b28c859b94ef070c80f67a398df8c32f628a47abac9ea6eb4a54d59d0ebd0880
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -65,27 +65,18 @@ record:
     score: 160
     theme: memory
   - matched_terms:
-    - android
-    - ios
-    score: 100
-    theme: mobile-desktop
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
-  - matched_terms:
     - faster
     score: 50
     theme: reliability-performance
   title: Fast answers in ChatGPT
   type: change
 related_changes:
+- '[[Changes/Claude Code/2026-03-12-added-automemorydirectory-setting-to-configure-a-custom-directory-for-auto-memor|Added
+  autoMemoryDirectory setting to configure a custom directory for auto-memory…]]'
 - '[[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|Sunsetting
   the “Nerdy” base style]]'
 - '[[Changes/Claude Code/2026-03-27-memory-filenames-in-the-saved-n-memories-notice-now-highlight-on-hover-and-open|Memory
   filenames in the "Saved N memories" notice now highlight on hover and open on click]]'
-- '[[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file
-  diff rendering is now much faster, smoother, and less memory-heavy]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-22-fast-answers-in-chatgpt-300ebea9|chatgpt-2026-04-22-fast-answers-in-chatgpt-300ebea9]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -112,7 +103,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file diff rendering is now much faster, smoother, and less memory-heavy]]
+- Earlier: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-memory-filenames-in-the-saved-n-memories-notice-now-highlight-on-hover-and-open|Memory filenames in the "Saved N memories" notice now highlight on hover and open on click]]
 - Later: 2026-05-05 · ChatGPT · [[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Memory sources and more personalized responses in ChatGPT]]
 <!-- chronolog:end -->
 

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1d14896d36c8ad03a19e8f7524f7b24c4fc8e44fba7ae78d6e62f7853928af01
+machine_hash: 110b123e23413effd9c032408227e34896cc4e58e6490ee7ac38f5f48dbbf093
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Mobile and Desktop changes in v2.1.181
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-08-cleaned-up-logged-out-mobile-web-experience-logged-out-users-now-see-a-composer|Cleaned
-  up logged-out mobile web experience]]'
+- '[[Changes/ChatGPT/2026-06-08-immediate-image-previews-after-sending-when-you-upload-an-image-on-ios-chatgpt-u|Immediate
+  image previews after sending]]'
 - '[[Changes/Claude Code/2026-06-08-auto-updater-on-windows-now-stops-retrying-within-a-session-once-claude-exe-is-h|Auto-updater
   on Windows now stops retrying within a session once claude.exe…]]'
 - '[[Changes/Claude Code/2026-06-10-disable-mouse-tracking-on-windows-consoles-that-don-t-fully-support-it|Disable
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.181
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-disable-mouse-tracking-on-windows-consoles-that-don-t-fully-support-it|Disable mouse tracking on Windows consoles that don't fully support it]]
-- Later: 2026-06-17 · Cursor · [[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|Cursor introduces updates to cloud agents in the Agents Window of the Cursor desktop app]]
+- Later: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-updated-composer-and-tools-menu-the-composer-in-android-now-has-inline-mentions|Updated composer and tools menu]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

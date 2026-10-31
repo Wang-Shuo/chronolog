@@ -2,9 +2,8 @@
 changes_count: 4
 date: '2023-09-08'
 description: 'Cursor release Better Docs Management, Staged Rollouts on 2023-09-08:
-  4 tracked changes across Context Window, Memory and Personalization, Reliability
-  and…'
-machine_hash: 63ce10b68aefc62f48a79c281d3a290c297afc6a583f5e9e634b2dded6c9b703
+  4 tracked changes across Reliability and Performance, Context Window, Other changes'
+machine_hash: 9ce07762a180014e8fdeda85dbedb13439485aafe6af5a1bdd5db80e3c46fb86
 product: cursor
 product_name: Cursor
 record:
@@ -44,7 +43,7 @@ Tracked 4 cards from 9 candidate lines; 4 lines pending review.
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-09-08-better-state-management-prevents-crashes-from-editor-using-too-much-memory|Better state management - prevents crashes from editor using too much memory]] · Memory and Personalization
+- [[Changes/Cursor/2023-09-08-better-state-management-prevents-crashes-from-editor-using-too-much-memory|Better state management - prevents crashes from editor using too much memory]] · Reliability and Performance
 - [[Changes/Cursor/2023-09-08-long-files-in-chat|Long files in chat]] · Context Window · Launch
 - [[Changes/Cursor/2023-09-08-following-this-update-future-updates-should-come-as-staged-rollouts-this-will-me|Staged Rollouts]] · Reliability and Performance · Launch
 - [[Changes/Cursor/2023-09-08-2-other-changes-in-0-10-0|2 other changes in 0.10.0]] · Other changes · Digest

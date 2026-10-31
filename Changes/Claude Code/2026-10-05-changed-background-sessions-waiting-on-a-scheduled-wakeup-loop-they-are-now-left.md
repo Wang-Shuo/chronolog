@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f5b219a13cc3182c6765a29e669918a9c194be7a87268444fb0ade8a7ee99e83
+machine_hash: 5957ec14090e336c06ae62069eaa5518145c3f845001b57999002f9e173c4033
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   Memory and Personalization changes in v2.1.287]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6|claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6]]'
 source_type: github_releases
+superseded: true
 theme: memory
 title: Changed background sessions waiting on a scheduled wakeup (/loop)
 type: change

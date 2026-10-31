@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8de15749949b69dfe4602426fde6f4a5c9c097f9e64136a560549f5315d50978
+machine_hash: 5c7c8db3c2abc3223a0e7f85f51c572da41298edbf8386952d4c963b285aef55
 product: cursor
 product_name: Cursor
 record:
@@ -61,6 +61,7 @@ related_changes:
   group chats will remain available and can continue to be used for now]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d|cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d]]'
 source_type: cursor_changelog
+superseded: true
 theme: collaboration
 title: Combined all remote options—your machines, team pools, and existing remote…
 type: change

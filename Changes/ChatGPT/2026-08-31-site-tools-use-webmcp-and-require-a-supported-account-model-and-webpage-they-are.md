@@ -1,23 +1,23 @@
 ---
 card_id: chatgpt-2026-08-31-f1b6a5
 date: '2026-08-31'
-description: 'ChatGPT · 2026-08-31 · Mobile and Desktop: Site tools use WebMCP and
-  require a supported account, model, and webpage. They are available in the built-in…'
+description: 'ChatGPT · 2026-08-31 · Model Support: Site tools use WebMCP and require
+  a supported account, model, and webpage. They are available in the built-in desktop…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1266
+  lag_days: 1330
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: mobile-desktop
+  theme: model-support
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2434885a9039133fbc7c7dd3bc26b3b1a16a4a235d1bd453896f151b69cf01fb
+machine_hash: 542151e38f239195c5b1c8b3506eb7c01ce9140be58613318357334de4302fb6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,29 +43,19 @@ record:
   slug: site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are
   source_release: chatgpt-2026-08-31-use-website-tools-in-the-desktop-browser-6c07f08a
   source_type: chatgpt_changelog
-  theme: mobile-desktop
-  theme_matches:
-  - matched_terms:
-    - desktop
-    score: 50
-    theme: mobile-desktop
-  - matched_terms:
-    - model
-    score: 50
-    theme: model-support
-  theme_resolution: manual-semantic-rule-v1
+  theme: model-support
   title: Site tools use WebMCP and require a supported account, model, and webpage
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-improved-amazon-bedrock-session-start-under-claude-code-provider-managed-by-host|Improved
-  Amazon Bedrock session start under CLAUDE_CODE_PROVIDER_MANAGED_BY_HOST…]]'
-- '[[Changes/ChatGPT/2026-08-31-chatgpt-work-and-codex-can-now-use-tools-that-supported-websites-provide-directl|ChatGPT
-  Work and Codex can now use tools that supported websites provide directly…]]'
-- '[[Changes/ChatGPT/2026-08-31-bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context-af2c3a|Bring
-  your browser into Work and Codex]]'
+- '[[Changes/Claude Code/2026-08-19-added-anthropic-default-model-environment-variable-sets-the-model-new-sessions-s|Added
+  ANTHROPIC_DEFAULT_MODEL environment variable]]'
+- '[[Changes/Claude Code/2026-08-26-added-claude-api-cost-optimize-to-profile-an-existing-project-s-claude-api-spend|Added
+  /claude-api cost-optimize to profile an existing project''s Claude API spend…]]'
+- '[[Changes/Claude Code/2026-08-28-5-model-support-changes-in-v2-1-251|5 Model Support
+  changes in v2.1.251]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-31-use-website-tools-in-the-desktop-browser-6c07f08a|chatgpt-2026-08-31-use-website-tools-in-the-desktop-browser-6c07f08a]]'
 source_type: chatgpt_changelog
-theme: mobile-desktop
+theme: model-support
 title: Site tools use WebMCP and require a supported account, model, and webpage
 type: change
 ---
@@ -73,7 +63,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Site tools use WebMCP and require a supported account, model, and webpage
 
-**ChatGPT** · 2026-08-31 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-website-tools-in-the-desktop-browser) · from [[Releases/ChatGPT/chatgpt-2026-08-31-use-website-tools-in-the-desktop-browser-6c07f08a|Use website tools in the desktop browser]]
+**ChatGPT** · 2026-08-31 · [[Themes/model-support|Model Support]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-website-tools-in-the-desktop-browser) · from [[Releases/ChatGPT/chatgpt-2026-08-31-use-website-tools-in-the-desktop-browser-6c07f08a|Use website tools in the desktop browser]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -89,16 +79,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Mobile and Desktop
+## Nearby in Model Support
 
-- Earlier: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context-af2c3a|Bring your browser into Work and Codex]]
-- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-changed-add-dir-add-dir-and-additionaldirectories-to-refuse-network-paths-unc-sh|Changed --add-dir, /add-dir, and additionalDirectories to refuse network paths…]]
+- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-5-model-support-changes-in-v2-1-251|5 Model Support changes in v2.1.251]]
+- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-6-model-support-changes-in-v2-1-257|6 Model Support changes in v2.1.257]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

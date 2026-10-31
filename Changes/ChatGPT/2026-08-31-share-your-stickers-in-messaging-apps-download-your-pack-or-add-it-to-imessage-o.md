@@ -1,22 +1,23 @@
 ---
 card_id: chatgpt-2026-08-31-30dd60
 date: '2026-08-31'
-description: 'ChatGPT · 2026-08-31 · Collaboration: Share your stickers in messaging
+description: 'ChatGPT · 2026-08-31 · Mobile and Desktop: Share your stickers in messaging
   apps. Download your pack or add it to iMessage or WhatsApp on supported devices.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1195
+  lag_days: 1266
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: collaboration
+  theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 985f916d4a6ae745c15b2695ed07d26b1e9abb4bf7714ef59b595e227c00489c
+machine_hash: b7a4ad00b32e8f91a2eff52b88dc9c62073a9bdae0a9c0ba9aaf1262038abda7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -38,29 +39,19 @@ record:
   slug: share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o
   source_release: chatgpt-2026-08-31-create-and-share-personalized-sticker-packs-120616f6
   source_type: chatgpt_changelog
-  theme: collaboration
-  theme_matches:
-  - matched_terms:
-    - apps
-    score: 50
-    theme: apps-integrations
-  - matched_terms:
-    - whatsapp
-    score: 50
-    theme: mobile-desktop
-  theme_resolution: manual-semantic-rule-v1
+  theme: mobile-desktop
   title: Share your stickers in messaging apps
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-13-hardened-the-auto-generated-cross-session-messaging-socket-directory-on-shared-t|Hardened
-  the auto-generated cross-session messaging socket directory on shared /tmp]]'
-- '[[Changes/Claude Code/2026-08-17-removed-the-default-teammate-model-setting-from-config-agent-team-teammates-now|Removed
-  the "Default teammate model" setting from /config]]'
-- '[[Changes/ChatGPT/2026-08-20-share-a-read-only-snapshot-of-a-codex-chat-personal-share-links-can-be-opened-by|Share
-  a read-only snapshot of a Codex chat]]'
+- '[[Changes/Claude Code/2026-08-21-remote-sessions-images-uploaded-from-mobile-now-include-their-saved-file-path-so|Remote
+  sessions: images uploaded from mobile now include their saved file path…]]'
+- '[[Changes/Claude Code/2026-08-21-windows-cross-session-messaging-is-now-available-so-claude-code-sessions-across|Windows:
+  cross-session messaging is now available, so Claude Code sessions across…]]'
+- '[[Changes/Claude Code/2026-08-25-windows-macos-fixed-headless-sessions-not-cleaning-up-stale-entries-in-claude-se|Windows/macOS:
+  Fixed headless sessions not cleaning up stale entries…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-31-create-and-share-personalized-sticker-packs-120616f6|chatgpt-2026-08-31-create-and-share-personalized-sticker-packs-120616f6]]'
 source_type: chatgpt_changelog
-theme: collaboration
+theme: mobile-desktop
 title: Share your stickers in messaging apps
 type: change
 ---
@@ -68,7 +59,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Share your stickers in messaging apps
 
-**ChatGPT** · 2026-08-31 · [[Themes/collaboration|Collaboration]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-share-personalized-sticker-packs) · from [[Releases/ChatGPT/chatgpt-2026-08-31-create-and-share-personalized-sticker-packs-120616f6|Create and share personalized sticker packs]]
+**ChatGPT** · 2026-08-31 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-share-personalized-sticker-packs) · from [[Releases/ChatGPT/chatgpt-2026-08-31-create-and-share-personalized-sticker-packs-120616f6|Create and share personalized sticker packs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -82,16 +73,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Collaboration
+## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-20 · ChatGPT · [[Changes/ChatGPT/2026-08-20-share-a-read-only-snapshot-of-a-codex-chat-personal-share-links-can-be-opened-by|Share a read-only snapshot of a Codex chat]]
-- Later: 2026-09-03 · ChatGPT · [[Changes/ChatGPT/2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside|Share Sites with people outside your workspace]]
+- Earlier: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-windows-macos-fixed-headless-sessions-not-cleaning-up-stale-entries-in-claude-se|Windows/macOS: Fixed headless sessions not cleaning up stale entries…]]
+- Later: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-chatgpt-work-and-codex-can-now-use-tools-that-supported-websites-provide-directl|ChatGPT Work and Codex can now use tools that supported websites provide directly…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

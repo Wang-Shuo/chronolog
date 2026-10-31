@@ -1,9 +1,9 @@
 ---
-changes_count: 15
+changes_count: 16
 date: '2025-03-23'
 description: 'Cursor release Chat tabs, Custom modes & Faster indexing on 2025-03-23:
-  15 tracked changes across Pricing Model, Editor Experience, Interface Experience…'
-machine_hash: c23b0501b1d23133e01c17ad6a55235a66ed4bad20d70eb75af61727c51eb703
+  16 tracked changes across Pricing Model, Editor Experience, Interface Experience…'
+machine_hash: 7338e8b670ca8191e62bbd88106c7afb06e0a915e2ef199661ff204afa714c91
 product: cursor
 product_name: Cursor
 record:
@@ -38,16 +38,17 @@ version: 0.48.x
 <!-- chronolog:begin region="summary" -->
 Other (6)↓↑
 
-Tracked 15 cards from 33 candidate lines; 1 line pending review.
+Tracked 16 cards from 33 candidate lines; 1 line pending review.
 <!-- chronolog:end -->
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
 - [[Changes/Cursor/2025-03-23-0-48-2-allows-users-to-accept-reject-file-edited-in-another-chat-tab|0.48.2 - Allows users to accept/reject file edited in another chat tab]] · Editor Experience
 - [[Changes/Cursor/2025-03-23-2-model-support-changes-in-0-48-x|2 Model Support changes in 0.48.x]] · Model Support · Digest
-- [[Changes/Cursor/2025-03-23-2-collaboration-changes-in-0-48-x|2 Collaboration changes in 0.48.x]] · Collaboration · Digest
+- [[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved indexing performance for teams sharing codebases]] · Collaboration
 - [[Changes/Cursor/2025-03-23-chat-will-now-display-a-notification-about-usage-based-pricing-when-approaching|Chat will now display a notification about usage-based pricing when approaching fast…]] · Pricing Model · Policy
 - [[Changes/Cursor/2025-03-23-2-reliability-and-performance-changes-in-0-48-x|2 Reliability and Performance changes in 0.48.x]] · Reliability and Performance · Digest
+- [[Changes/Cursor/2025-03-23-enhanced-visibility-of-auto-run-controls-configured-by-team-admins-clarifying-wh|Enhanced visibility of auto-run controls configured by team admins, clarifying…]] · Enterprise and Administration
 - [[Changes/Cursor/2025-03-23-new-onboarding|New onboarding]] · Interface Experience · Launch
 - [[Changes/Cursor/2025-03-23-usage-based-cost-visibility|Usage-based cost visibility]] · Pricing Model · Pricing
 - [[Changes/Cursor/2025-03-23-built-in-modes-custom-modes-beta|Built-in modes & custom modes (beta)]] · Agent Mode · Launch

@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 85c414d9cfd7a3296cdfdaa8e78a5288e959e3e158d4cfd70f099291bb25e176
+machine_hash: 9d11c9840d243a87fc787d7433bbe703a39e371caca9e91784398020fa8417b0
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
     support…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-agent-view-ctrl-x-now-deletes-renamed-branch-worktrees-never-destroys-unpushed-c|Agent
-  view: Ctrl+X now deletes renamed-branch worktrees, never destroys unpushed…]]'
+- '[[Changes/Claude Code/2026-07-17-changed-enterprise-forceloginmethod-to-be-enforced-for-vs-code-extension-sdk-set|Changed
+  Enterprise forceLoginMethod to be enforced for VS Code extension, SDK…]]'
 - '[[Changes/Claude Code/2026-07-19-claude-no-longer-runs-the-verify-and-code-review-skills-on-its-own-invoke-them-w|Claude
   no longer runs the /verify and /code-review skills on its own]]'
 - '[[Changes/Claude Code/2026-07-20-2-developer-workflow-changes-in-v2-1-216|2 Developer

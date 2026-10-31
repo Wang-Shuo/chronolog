@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d4add5abb63288932b4048fdd8576b3b5d144ae0f4e8cf8b01421bfe76bcaef2
+machine_hash: bc9dc20db0126ed863457310c5b33cd35e58996ff1a8a27b4a0352670e1fb4b7
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,6 +61,7 @@ related_changes:
   /claude-api cost-optimize to profile an existing project''s Claude API spend…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96|claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: 4 Model Support changes in v2.1.251
 type: change

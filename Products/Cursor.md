@@ -13,7 +13,7 @@ created: '2023-03-14'
 date: '2026-10-20'
 description: AI code editor built on a fork of VSCodium, with local and cloud coding
   agents, tracked through the official Cursor changelog.
-machine_hash: f3474fb51b9d4d0b3340213311d6ddcbc6202c0268345f47090933435f5eec41
+machine_hash: 5d9e4548febceb7741b47c8cf58e0975d472f5d91e1238d807e7c6f367f1ced5
 modified: '2026-10-20'
 product: cursor
 product_name: Cursor
@@ -25,26 +25,26 @@ top_themes:
 - agent-mode
 - editor-experience
 - developer-workflow
-- interface-experience
 - apps-integrations
+- interface-experience
 - reliability-performance
 - context-window
 - model-support
-- collaboration
 - safety-privacy
-- pricing-model
+- collaboration
 - enterprise-admin
-- mobile-desktop
+- pricing-model
 - automation-scheduling
 - account-access
-- memory
+- mobile-desktop
 - projects-workspaces
 - search-browsing
 - voice
 - file-data
+- memory
 - multimodal
 - image-generation
-verbosity_baseline: 4.04
+verbosity_baseline: 4.03
 ---
 
 <!-- chronolog:begin region="header" -->
@@ -134,13 +134,13 @@ Representative releases:
 
 ## Themes
 <!-- chronolog:begin region="themes" -->
-- [[Themes/agent-mode|Agent Mode]] · 135 cards · ████████████
-- [[Themes/editor-experience|Editor Experience]] · 96 cards · █████████
-- [[Themes/developer-workflow|Developer Workflow]] · 74 cards · ███████
-- [[Themes/apps-integrations|Apps and Integrations]] · 69 cards · ██████
+- [[Themes/agent-mode|Agent Mode]] · 144 cards · ████████████
+- [[Themes/editor-experience|Editor Experience]] · 97 cards · ████████
+- [[Themes/developer-workflow|Developer Workflow]] · 74 cards · ██████
+- [[Themes/apps-integrations|Apps and Integrations]] · 71 cards · ██████
 - [[Themes/interface-experience|Interface Experience]] · 69 cards · ██████
-- [[Themes/reliability-performance|Reliability and Performance]] · 60 cards · █████
-- [[Themes/context-window|Context Window]] · 52 cards · █████
+- [[Themes/reliability-performance|Reliability and Performance]] · 64 cards · █████
+- [[Themes/context-window|Context Window]] · 52 cards · ████
 - [[Themes/model-support|Model Support]] · 48 cards · ████
 - Other changes · 41 cards
 <!-- chronolog:end -->
@@ -149,7 +149,7 @@ Representative releases:
 <!-- chronolog:begin region="recent" -->
 - 2026-10-20 · [[Releases/Cursor/cursor-2026-10-20-agent-sdk-https-cursor-com-changelog-agent-sdk-00fcb04c|Agent SDK]] · 6 cards
 - 2026-10-16 · [[Releases/Cursor/cursor-2026-10-16-cloud-agent-canvases-and-environment-improvements-https-cursor-c-1809cd74|Cloud Agent Canvases and Environment Improvements]] · 3 cards
-- 2026-10-13 · [[Releases/Cursor/cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c|Origin App Marketplace]] · 5 cards
+- 2026-10-13 · [[Releases/Cursor/cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c|Origin App Marketplace]] · 4 cards
 - 2026-10-06 · [[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|Remote control for local agents]] · 5 cards
 - 2026-09-23 · [[Releases/Cursor/cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb|Rollouts and Security Review]] · 11 cards
 - 2026-09-10 · [[Releases/Cursor/cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75|Cursor Projects]] · 4 cards
@@ -428,7 +428,7 @@ Acquisition details, how cards are made and known gaps: [[About]].
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="changes" -->
-> [!info]- All tracked changes (821 cards)
+> [!info]- All tracked changes (819 cards)
 > **2026** · 347 cards
 >
 > - 2026-10-20 · Agent Mode: [[Changes/Cursor/2026-10-20-the-agent-sdk-is-available-today-it-allows-you-to-define-an-agent-as-a-folder-of|The Agent SDK is available today]]
@@ -440,15 +440,14 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2026-10-16 · Agent Mode: [[Changes/Cursor/2026-10-16-canvases-from-cloud-agents|Canvases from cloud agents]]
 > - 2026-10-16 · Reliability and Performance: [[Changes/Cursor/2026-10-16-larger-faster-environments|Larger, faster environments]]
 > - 2026-10-16 · Agent Mode: [[Changes/Cursor/2026-10-16-environments-api|Environments API]]
-> - 2026-10-13 · Collaboration: [[Changes/Cursor/2026-10-13-starting-today-the-marketplace-is-also-open-to-public-submissions-so-any-team-bu|Starting today, the marketplace is also open to public submissions, so any team…]]
 > - 2026-10-13 · Apps and Integrations: [[Changes/Cursor/2026-10-13-apps-for-your-stack|Apps for your stack]]
+> - 2026-10-13 · Safety and Privacy: [[Changes/Cursor/2026-10-13-origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security-99509e|Origin now integrates with over 20 apps for deployments, CI, code review, security…]]
 > - 2026-10-13 · Other changes: [[Changes/Cursor/2026-10-13-want-to-build-an-origin-app-start-with-the-publishing-guide-and-the-origin-api-r|Want to build an Origin app?]]
 > - 2026-10-13 · Apps and Integrations: [[Changes/Cursor/2026-10-13-2-apps-and-integrations-changes-in-origin-app-marketplace|2 Apps and Integrations changes in Origin App Marketplace]]
-> - 2026-10-13 · Safety and Privacy: [[Changes/Cursor/2026-10-13-origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security|Origin now integrates with over 20 apps for deployments, CI, code review, security…]]
 > - 2026-10-06 · Enterprise and Administration: [[Changes/Cursor/2026-10-06-for-enterprise-teams|For Enterprise teams]]
 > - 2026-10-06 · Agent Mode: [[Changes/Cursor/2026-10-06-remote-control-doesn-t-move-your-agents-anywhere-it-keeps-running-on-your-comput|Agents keep running on your computer]]
 > - 2026-10-06 · Enterprise and Administration: [[Changes/Cursor/2026-10-06-remote-control-is-on-by-default-for-everyone-except-enterprise-organizations|Remote Control is on by default for everyone except Enterprise organizations]]
-> - 2026-10-06 · Mobile and Desktop: [[Changes/Cursor/2026-10-06-you-can-now-see-and-reply-to-the-local-agents-running-on-your-computer-from-the|See and reply to the local agents running on your computer from the Cursor iOS app]]
+> - 2026-10-06 · Agent Mode: [[Changes/Cursor/2026-10-06-you-can-now-see-and-reply-to-the-local-agents-running-on-your-computer-from-the|See and reply to the local agents running on your computer from the Cursor iOS app]]
 > - 2026-10-06 · Mobile and Desktop: [[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer|Keep your computer awake]]
 > - 2026-09-23 · Developer Workflow: [[Changes/Cursor/2026-09-23-when-a-pull-request-opens-rollouts-reads-the-diff-and-the-systems-it-touches-the|Monitoring plans]]
 > - 2026-09-23 · Pricing Model: [[Changes/Cursor/2026-09-23-for-the-next-10-days-we-re-including-usage-credits-so-teams-can-try-rollouts-on|For the next 10 days, we're including usage credits so teams can try Rollouts…]]
@@ -466,7 +465,7 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2026-09-10 · Agent Mode: [[Changes/Cursor/2026-09-10-a-project-runs-on-its-own-computer-in-the-cloud-so-closing-your-laptop-doesn-t-s|Powered by Cloud Agents]]
 > - 2026-09-10 · Context Window: [[Changes/Cursor/2026-09-10-you-shouldn-t-have-to-onboard-an-agent-every-time-you-start-a-task-each-project|Shared context]]
 > - 2026-09-02 · Agent Mode: [[Changes/Cursor/2026-09-02-cursor-supports-self-hosted-machines-which-let-you-keep-tool-execution-entirely|Cursor supports self-hosted machines, which let you keep tool execution entirely…]]
-> - 2026-09-02 · Mobile and Desktop: [[Changes/Cursor/2026-09-02-computer-use-on-linux-and-mac|Computer use on Linux and Mac]]
+> - 2026-09-02 · Agent Mode: [[Changes/Cursor/2026-09-02-computer-use-on-linux-and-mac|Computer use on Linux and Mac]]
 > - 2026-09-02 · Agent Mode: [[Changes/Cursor/2026-09-02-run-on-your-sandboxes|Run on your sandboxes]]
 > - 2026-08-27 · Agent Mode: [[Changes/Cursor/2026-08-27-cursor-now-port-forwards-your-cloud-agent-s-live-environment-straight-to-your-br|A live preview, right in the browser]]
 > - 2026-08-27 · Editor Experience: [[Changes/Cursor/2026-08-27-once-the-agent-s-build-is-to-your-liking-click-the-create-repo-button-to-save-yo|Turn it into a real repo, whenever you want]]
@@ -494,7 +493,7 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2026-07-29 · Mobile and Desktop: [[Changes/Cursor/2026-07-29-built-for-the-bigger-screen-98bf7a|Built for the bigger screen]]
 > - 2026-07-29 · Collaboration: [[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch between teams that you belong to directly in the app]]
 > - 2026-07-29 · Other changes: [[Changes/Cursor/2026-07-29-2-other-changes-in-cursor-now-on-ipad|2 other changes in Cursor, now on iPad]]
-> - 2026-07-29 · Mobile and Desktop: [[Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and|A full review surface]]
+> - 2026-07-29 · Agent Mode: [[Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and|A full review surface]]
 > - 2026-07-28 · Interface Experience: [[Changes/Cursor/2026-07-28-existing-free-users-in-india-can-upgrade-their-plan-from-the-dashboard-new-users-aeb811|Existing Free users in India can upgrade their plan from the dashboard]]
 > - 2026-07-28 · Agent Mode: [[Changes/Cursor/2026-07-28-always-on-cloud-agents-that-build-test-and-ship-code-while-you-keep-working-725c7c|Always-on cloud agents that build, test, and ship code while you keep working]]
 > - 2026-07-28 · Pricing Model: [[Changes/Cursor/2026-07-28-we-re-introducing-cursor-start-a-new-649-monthly-plan-for-developers-in-india-ma|Cursor introduces Cursor Start, a new ₹649 monthly plan for developers in India…]]
@@ -513,22 +512,21 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2026-07-17 · Apps and Integrations: [[Changes/Cursor/2026-07-17-multi-repo-environment-support-4b706e|Multi-repo environment support]]
 > - 2026-07-17 · Apps and Integrations: [[Changes/Cursor/2026-07-17-cursor-in-slack-now-shares-a-plan-before-it-starts-runs-in-multi-repo-environmen|Cursor in Slack now shares a plan before it starts, runs in multi-repo environments…]]
 > - 2026-07-10 · Interface Experience: [[Changes/Cursor/2026-07-10-redesigned-project-and-repo-pickers|Redesigned project and repo pickers]]
-> - 2026-07-10 · Collaboration: [[Changes/Cursor/2026-07-10-combined-all-remote-options-your-machines-team-pools-and-existing-remote-workspa|Combined all remote options—your machines, team pools, and existing remote…]]
 > - 2026-07-10 · Agent Mode: [[Changes/Cursor/2026-07-10-this-release-makes-it-easier-to-stay-in-flow-with-side-chats-that-run-alongside|Cursor makes it easier to stay in flow with side chats that run alongside your main…]]
+> - 2026-07-10 · Interface Experience: [[Changes/Cursor/2026-07-10-7-interface-experience-changes-in-side-chats-and-conversation-search|7 Interface Experience changes in Side Chats and Conversation Search]]
 > - 2026-07-10 · Other changes: [[Changes/Cursor/2026-07-10-6-other-changes-in-side-chats-and-conversation-search|6 other changes in Side Chats and Conversation Search]]
-> - 2026-07-10 · Interface Experience: [[Changes/Cursor/2026-07-10-6-interface-experience-changes-in-side-chats-and-conversation-search|6 Interface Experience changes in Side Chats and Conversation Search]]
 > - 2026-07-10 · Agent Mode: [[Changes/Cursor/2026-07-10-new-cloud-agent-hooks|New cloud agent hooks]]
 > - 2026-07-10 · Interface Experience: [[Changes/Cursor/2026-07-10-conversation-search-454cae|Conversation search]]
 > - 2026-07-10 · Context Window: [[Changes/Cursor/2026-07-10-side-chats|Side chats]]
 > - 2026-06-30 · Collaboration: [[Changes/Cursor/2026-06-30-we-ve-expanded-team-marketplaces-to-support-team-mcps-and-organization-groups|Cursor expands team marketplaces to support Team MCPs and organization groups]]
 > - 2026-06-30 · Collaboration: [[Changes/Cursor/2026-06-30-marketplace-access-by-organization-group-a2cf9b|Marketplace access by organization group]]
 > - 2026-06-30 · Collaboration: [[Changes/Cursor/2026-06-30-team-mcps-in-team-marketplaces-27f9ef|Team MCPs in team marketplaces]]
-> - 2026-06-29 · Mobile and Desktop: [[Changes/Cursor/2026-06-29-cursor-for-ios-is-now-available-in-public-beta-on-all-paid-plans-launch-and-mana|Cursor for iOS is now available in public beta on all paid plans]]
+> - 2026-06-29 · Agent Mode: [[Changes/Cursor/2026-06-29-cursor-for-ios-is-now-available-in-public-beta-on-all-paid-plans-launch-and-mana|Cursor for iOS is now available in public beta on all paid plans]]
 > - 2026-06-29 · Agent Mode: [[Changes/Cursor/2026-06-29-live-activities-and-push-notifications|Live Activities and push notifications]]
 > - 2026-06-29 · Agent Mode: [[Changes/Cursor/2026-06-29-remote-control-3ec330|Remote Control]]
-> - 2026-06-29 · Voice and Audio: [[Changes/Cursor/2026-06-29-cloud-agents-on-mobile-1bc371|Cloud agents on mobile]]
+> - 2026-06-29 · Agent Mode: [[Changes/Cursor/2026-06-29-cloud-agents-on-mobile-1bc371|Cloud agents on mobile]]
 > - 2026-06-22 · Apps and Integrations: [[Changes/Cursor/2026-06-22-plugin-canvases|Plugin canvases]]
-> - 2026-06-22 · Collaboration: [[Changes/Cursor/2026-06-22-marketplace-leaderboard-654084|Marketplace leaderboard]]
+> - 2026-06-22 · Apps and Integrations: [[Changes/Cursor/2026-06-22-marketplace-leaderboard-654084|Marketplace leaderboard]]
 > - 2026-06-22 · Collaboration: [[Changes/Cursor/2026-06-22-new-team-marketplaces|New Team Marketplaces]]
 > - 2026-06-22 · Apps and Integrations: [[Changes/Cursor/2026-06-22-plugins-skills-and-mcps-let-you-customize-cursor-for-your-workflows-the-new-cust-241c4b|Plugins, skills, and MCPs let you customize Cursor for your workflows]]
 > - 2026-06-18 · Memory and Personalization: [[Changes/Cursor/2026-06-18-you-can-now-delete-memory-files-in-the-ui-or-prompt-your-automation-to-delete-ou|Delete memory files in the UI, or prompt your automation to delete outdated memories…]]
@@ -539,7 +537,7 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2026-06-18 · Automation and Scheduling: [[Changes/Cursor/2026-06-18-new-github-triggers|New GitHub triggers]]
 > - 2026-06-18 · Automation and Scheduling: [[Changes/Cursor/2026-06-18-computer-use-tool-for-automations|Computer use tool for automations]]
 > - 2026-06-17 · Agent Mode: [[Changes/Cursor/2026-06-17-cloud-subagents-with-in-cloud-eb7958|Cloud subagents with /in-cloud]]
-> - 2026-06-17 · Mobile and Desktop: [[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|Cursor introduces updates to cloud agents in the Agents Window of the Cursor desktop app]]
+> - 2026-06-17 · Agent Mode: [[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|Cursor introduces updates to cloud agents in the Agents Window of the Cursor desktop app]]
 > - 2026-06-17 · Agent Mode: [[Changes/Cursor/2026-06-17-handoff-between-local-and-cloud|Handoff between local and cloud]]
 > - 2026-06-17 · Developer Workflow: [[Changes/Cursor/2026-06-17-cloud-environment-setup-8a7697|Cloud environment setup]]
 > - 2026-06-10 · Safety and Privacy: [[Changes/Cursor/2026-06-10-run-bugbot-before-you-push-3e5964|Run Bugbot before you push]]
@@ -550,7 +548,7 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2026-06-04 · Files and Data: [[Changes/Cursor/2026-06-04-0-1-6-release-and-analytics-cursor-sdk-0-1-6-documents-the-buildkite-release-pat|0.1.6 release and analytics]]
 > - 2026-06-04 · Context Window: [[Changes/Cursor/2026-06-04-context-usage-report-in-canvas-d08e2a|Context usage report in canvas]]
 > - 2026-06-04 · Agent Mode: [[Changes/Cursor/2026-06-04-5-agent-mode-changes-in-custom-stores-custom-tools|5 Agent Mode changes in Custom stores, custom tools…]]
-> - 2026-06-04 · Collaboration: [[Changes/Cursor/2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an|With canvases, agents can create interactive artifacts like dashboards, reports…]]
+> - 2026-06-04 · Agent Mode: [[Changes/Cursor/2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an|With canvases, agents can create interactive artifacts like dashboards, reports…]]
 > - 2026-06-04 · Interface Experience: [[Changes/Cursor/2026-06-04-shared-canvases-can-now-be-opened-full-screen-in-the-browser-making-them-easier|Shared canvases can now be opened full-screen in the browser, making them easier…]]
 > - 2026-06-04 · Other changes: [[Changes/Cursor/2026-06-04-self-contained-typescript-types-published-d-ts-files-no-longer-reference-unpubli|Self-contained TypeScript types]]
 > - 2026-06-04 · Apps and Integrations: [[Changes/Cursor/2026-06-04-2-apps-and-integrations-changes-in-custom-stores-custom-tools|2 Apps and Integrations changes in Custom stores, custom tools…]]
@@ -560,7 +558,7 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2026-06-04 · Agent Mode: [[Changes/Cursor/2026-06-04-nested-subagents|Nested subagents]]
 > - 2026-06-04 · Files and Data: [[Changes/Cursor/2026-06-04-design-mode-is-now-available-in-canvases|Design Mode in canvases]]
 > - 2026-06-04 · Context Window: [[Changes/Cursor/2026-06-04-this-release-introduces-design-mode-for-faster-canvas-editing-new-ways-to-unders|Cursor introduces Design Mode for faster canvas editing, new ways to understand…]]
-> - 2026-06-04 · Memory and Personalization: [[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run correlation: Every send() now carries a platform-generated requestId, exposed…]]
+> - 2026-06-04 · Reliability and Performance: [[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run correlation: Every send() now carries a platform-generated requestId, exposed…]]
 > - 2026-06-04 · Agent Mode: [[Changes/Cursor/2026-06-04-auto-review|Auto-review]]
 > - 2026-06-04 · Agent Mode: [[Changes/Cursor/2026-06-04-jsonl-and-custom-stores|JSONL and custom stores]]
 > - 2026-06-04 · Automation and Scheduling: [[Changes/Cursor/2026-06-04-reliable-wait-on-local-runs-local-runs-no-longer-resolve-wait-before-the-termina|Reliable wait() on local runs]]
@@ -569,11 +567,12 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2026-06-04 · Mobile and Desktop: [[Changes/Cursor/2026-06-04-bundled-ripgrep-local-shell-runs-use-the-bundled-platform-rg-binary-without-modi|Bundled ripgrep: Local shell runs use the bundled platform rg binary without…]]
 > - 2026-06-04 · Safety and Privacy: [[Changes/Cursor/2026-06-04-custom-tools-056918|Custom tools]]
 > - 2026-06-03 · Collaboration: [[Changes/Cursor/2026-06-03-teams|Teams]]
-> - 2026-06-03 · Other changes: [[Changes/Cursor/2026-06-03-2-other-changes-in-organizations-for-cursor-enterprise|2 other changes in Organizations for Cursor Enterprise]]
 > - 2026-06-03 · Safety and Privacy: [[Changes/Cursor/2026-06-03-enterprise-customers-can-now-manage-multiple-cursor-teams-from-one-place-with-di|Enterprise customers can now manage multiple Cursor teams from one place…]]
 > - 2026-06-03 · Collaboration: [[Changes/Cursor/2026-06-03-groups-are-a-lightweight-collection-of-users-that-can-sit-across-or-within-teams|Groups]]
 > - 2026-06-03 · Collaboration: [[Changes/Cursor/2026-06-03-3-collaboration-changes-in-organizations-for-cursor-enterprise|3 Collaboration changes in Organizations for Cursor Enterprise]]
-> - 2026-06-03 · Collaboration: [[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|Organizations]]
+> - 2026-06-03 · Enterprise and Administration: [[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|Organizations]]
+> - 2026-06-03 · Enterprise and Administration: [[Changes/Cursor/2026-06-03-admins-can-move-users-between-teams-through-the-dashboard-api-or-csv|Admins can move users between teams through the dashboard, API, or CSV]]
+> - 2026-06-03 · Other changes: [[Changes/Cursor/2026-06-03-organization-level-idp-management|Organization-level IDP management]]
 > - 2026-05-29 · Agent Mode: [[Changes/Cursor/2026-05-29-auto-review-is-a-new-run-mode-that-allows-cursor-to-work-for-longer-with-fewer-a-61df08|Auto-review Run Mode]]
 > - 2026-05-20 · Automation and Scheduling: [[Changes/Cursor/2026-05-20-this-release-brings-cursor-automations-to-the-agents-window-and-introduces-the-a-cd58e1|Cursor brings Cursor Automations to the Agents Window and introduces the ability…]]
 > - 2026-05-20 · Automation and Scheduling: [[Changes/Cursor/2026-05-20-cursor-automations-are-now-available-in-the-agents-window-in-addition-to-cursor|Automations in the Agents Window]]
@@ -604,11 +603,12 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2026-05-13 · Apps and Integrations: [[Changes/Cursor/2026-05-13-improved-mcp-auth-token-lifecycle-handling|Improved MCP auth token lifecycle handling]]
 > - 2026-05-11 · Reliability and Performance: [[Changes/Cursor/2026-05-11-default-bugbot-continues-to-use-the-same-effort-level-as-it-does-today-optimized|Default: Bugbot continues to use the same effort level as it does today]]
 > - 2026-05-11 · Apps and Integrations: [[Changes/Cursor/2026-05-11-get-started-by-installing-the-integration-in-the-cursor-dashboard-learn-more-in|Get started by installing the integration in the Cursor dashboard]]
+> - 2026-05-11 · Agent Mode: [[Changes/Cursor/2026-05-11-mention-cursor-in-any-teams-channel-to-delegate-a-task-to-a-cloud-agent-or-pull-d30c31|Mention @Cursor in any Teams channel to delegate a task to a cloud agent or pull…]]
+> - 2026-05-11 · Collaboration: [[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is now available in Microsoft Teams]]
 > - 2026-05-11 · Pricing Model: [[Changes/Cursor/2026-05-11-customers-must-be-on-usage-based-billing-for-bugbot-to-customize-effort-levels-l|Customers must be on usage-based billing for Bugbot to customize effort levels]]
 > - 2026-05-11 · Enterprise and Administration: [[Changes/Cursor/2026-05-11-teams-admins-and-individual-plan-users-can-now-customize-the-effort-level-bugbot|Teams admins and Individual plan users can now customize the effort level Bugbot…]]
 > - 2026-05-11 · Model Support: [[Changes/Cursor/2026-05-11-custom-describe-in-natural-language-when-bugbot-should-use-default-or-high-effor|Custom: Describe in natural language when Bugbot should use default or high effort]]
 > - 2026-05-11 · Other changes: [[Changes/Cursor/2026-05-11-2-other-changes-in-05-11-26|2 other changes in 05.11.26]]
-> - 2026-05-11 · Collaboration: [[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams-5c75c9|Cursor is now available in Microsoft Teams]]
 > - 2026-05-11 · Model Support: [[Changes/Cursor/2026-05-11-high-bugbot-spends-more-time-reasoning-reviews-are-more-expensive-and-take-longe|High: Bugbot spends more time reasoning]]
 > - 2026-05-07 · Model Support: [[Changes/Cursor/2026-05-07-added-support-for-general-model-names-for-subagent-configuration-i-e-set-model-o|Added support for general model names for subagent configuration (i.e., set model]]
 > - 2026-05-07 · Developer Workflow: [[Changes/Cursor/2026-05-07-this-release-introduces-a-new-pr-review-experience-faster-execution-on-plans-thr|Cursor introduces a new PR review experience, faster execution on plans through…]]
@@ -667,7 +667,7 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2026-04-08 · Developer Workflow: [[Changes/Cursor/2026-04-08-bugbot-learned-rules-9e5cac|Bugbot Learned Rules]]
 > - 2026-04-08 · Other changes: [[Changes/Cursor/2026-04-08-6-other-changes-in-04-08-26|6 other changes in 04.08.26]]
 > - 2026-04-02 · Apps and Integrations: [[Changes/Cursor/2026-04-02-2-apps-and-integrations-changes-in-3-0|2 Apps and Integrations changes in 3.0]]
-> - 2026-04-02 · Memory and Personalization: [[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file diff rendering is now much faster, smoother, and less memory-heavy]]
+> - 2026-04-02 · Reliability and Performance: [[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file diff rendering is now much faster, smoother, and less memory-heavy]]
 > - 2026-04-02 · Search and Browsing: [[Changes/Cursor/2026-04-02-past-chat-transcripts-are-now-surfaced-directly-in-at-mention-search-results|Past chat transcripts are now surfaced directly in at-mention search results]]
 > - 2026-04-02 · Agent Mode: [[Changes/Cursor/2026-04-02-agents-window-da5689|Agents Window]]
 > - 2026-04-02 · Editor Experience: [[Changes/Cursor/2026-04-02-agent-tabs-in-the-editor|Agent Tabs in the Editor]]
@@ -695,7 +695,7 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2026-03-03 · Developer Workflow: [[Changes/Cursor/2026-03-03-this-release-introduces-interactive-uis-in-agent-chats-a-way-for-teams-to-share|Cursor introduces interactive UIs in agent chats, a way for teams to share private…]]
 > - 2026-03-03 · Interface Experience: [[Changes/Cursor/2026-03-03-the-content-from-your-plan-files-are-now-included-in-autocomplete-suggestions-as|The content from your plan files are now included in autocomplete suggestions as you…]]
 > - 2026-03-03 · Safety and Privacy: [[Changes/Cursor/2026-03-03-fixed-team-permission-and-access-control-inconsistencies-across-organization-set|Fixed team permission and access control inconsistencies across organization setups]]
-> - 2026-03-03 · Enterprise and Administration: [[Changes/Cursor/2026-03-03-on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p|Team marketplaces for plugins]]
+> - 2026-03-03 · Apps and Integrations: [[Changes/Cursor/2026-03-03-on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p|Team marketplaces for plugins]]
 > - 2026-03-03 · Context Window: [[Changes/Cursor/2026-03-03-2-context-window-changes-in-2-6|2 Context Window changes in 2.6]]
 > - 2026-03-03 · Enterprise and Administration: [[Changes/Cursor/2026-03-03-clearer-more-consistent-team-and-enterprise-policy-and-access-controls|Clearer, more consistent team and enterprise policy and access controls]]
 > - 2026-03-03 · Developer Workflow: [[Changes/Cursor/2026-03-03-3-developer-workflow-changes-in-2-6|3 Developer Workflow changes in 2.6]]
@@ -779,7 +779,7 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2026-01-08 · Model Support: [[Changes/Cursor/2026-01-08-use-the-new-agent-models-command-list-models-flag-or-models-slash-command-to-lis|Model list and selection]]
 > - 2026-01-08 · Reliability and Performance: [[Changes/Cursor/2026-01-08-2-reliability-and-performance-changes-in-new-cli-features-and-improved-cli|2 Reliability and Performance changes in New CLI Features and Improved CLI…]]
 >
-> **2025** · 215 cards
+> **2025** · 214 cards
 >
 > - 2025-12-22 · Reliability and Performance: [[Changes/Cursor/2025-12-22-2-reliability-and-performance-changes-in-2-3|2 Reliability and Performance changes in 2.3]]
 > - 2025-12-22 · Account and Access: [[Changes/Cursor/2025-12-22-2-account-and-access-changes-in-2-3|2 Account and Access changes in 2.3]]
@@ -820,27 +820,25 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2025-10-29 · Agent Mode: [[Changes/Cursor/2025-10-29-multi-agents-bb4f56|Multi-Agents]]
 > - 2025-10-29 · Enterprise and Administration: [[Changes/Cursor/2025-10-29-hooks-cloud-distribution|Hooks: Cloud Distribution]]
 > - 2025-10-29 · Model Support: [[Changes/Cursor/2025-10-29-plan-mode-in-background|Plan Mode in Background]]
-> - 2025-10-29 · Reliability and Performance: [[Changes/Cursor/2025-10-29-optimized-findfiles-performance-to-batch-concurrent-calls-at-bounded-concurrency|Optimized findFiles performance to batch concurrent calls at bounded concurrency]]
 > - 2025-10-29 · Other changes: [[Changes/Cursor/2025-10-29-notepads-have-been-deprecated|Notepads have been deprecated]]
 > - 2025-10-29 · Developer Workflow: [[Changes/Cursor/2025-10-29-3-developer-workflow-changes-in-2-0|3 Developer Workflow changes in 2.0]]
 > - 2025-10-29 · Reliability and Performance: [[Changes/Cursor/2025-10-29-improved-performance|Improved Performance]]
 > - 2025-10-29 · Model Support: [[Changes/Cursor/2025-10-29-introducing-our-first-agentic-coding-model-composer-is-a-frontier-model-that-is|Composer]]
+> - 2025-10-29 · Reliability and Performance: [[Changes/Cursor/2025-10-29-2-reliability-and-performance-changes-in-2-0|2 Reliability and Performance changes in 2.0]]
 > - 2025-10-29 · Agent Mode: [[Changes/Cursor/2025-10-29-cloud-agents|Cloud Agents]]
 > - 2025-10-29 · Agent Mode: [[Changes/Cursor/2025-10-29-background-agents-have-been-renamed-to-cloud-agents|Background Agents have been renamed to Cloud Agents]]
-> - 2025-10-29 · Memory and Personalization: [[Changes/Cursor/2025-10-29-increased-default-memory-for-typescript-language-server|Increased default memory for TypeScript language server]]
 > - 2025-10-29 · Collaboration: [[Changes/Cursor/2025-10-29-audit-log|Audit Log]]
 > - 2025-10-29 · Enterprise and Administration: [[Changes/Cursor/2025-10-29-cursor-for-enterprise|Cursor for Enterprise]]
 > - 2025-10-29 · Voice and Audio: [[Changes/Cursor/2025-10-29-voice-mode|Voice Mode]]
 > - 2025-10-29 · Agent Mode: [[Changes/Cursor/2025-10-29-improved-agent-harness|Improved Agent Harness]]
 > - 2025-10-29 · Safety and Privacy: [[Changes/Cursor/2025-10-29-sandboxed-terminals-ga|Sandboxed Terminals (GA)]]
 > - 2025-10-29 · Interface Experience: [[Changes/Cursor/2025-10-29-optimized-text-parsing-for-chat-rendering|Optimized text parsing for chat rendering]]
-> - 2025-10-29 · Enterprise and Administration: [[Changes/Cursor/2025-10-29-browser-ga-1124ce|Browser (GA)]]
+> - 2025-10-29 · Agent Mode: [[Changes/Cursor/2025-10-29-browser-ga-1124ce|Browser (GA)]]
 > - 2025-10-29 · Developer Workflow: [[Changes/Cursor/2025-10-29-improved-code-review|Improved Code Review]]
 > - 2025-10-29 · Collaboration: [[Changes/Cursor/2025-10-29-shareable-team-commands|Shareable Team Commands]]
 > - 2025-09-29 · Account and Access: [[Changes/Cursor/2025-09-29-1-7-41-token-sync-improvements-for-authentication|1.7.41: Token sync improvements for authentication]]
 > - 2025-09-29 · Interface Experience: [[Changes/Cursor/2025-09-29-1-7-45-model-picker-ux|1.7.45: Model picker UX]]
 > - 2025-09-29 · Agent Mode: [[Changes/Cursor/2025-09-29-image-file-support-for-agent|Image file support for Agent]]
-> - 2025-09-29 · Mobile and Desktop: [[Changes/Cursor/2025-09-29-on-windows-agent-now-correctly-uses-powershell-on-macos-and-linux-powershell-wil|On Windows, Agent now correctly uses PowerShell]]
 > - 2025-09-29 · Safety and Privacy: [[Changes/Cursor/2025-09-29-sandboxed-terminals|Sandboxed terminals]]
 > - 2025-09-29 · Editor Experience: [[Changes/Cursor/2025-09-29-pr-summaries-from-bugbot|PR summaries from Bugbot]]
 > - 2025-09-29 · Reliability and Performance: [[Changes/Cursor/2025-09-29-8-reliability-and-performance-changes-in-1-7|8 Reliability and Performance changes in 1.7]]
@@ -848,8 +846,8 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2025-09-29 · Developer Workflow: [[Changes/Cursor/2025-09-29-7-developer-workflow-changes-in-1-7|7 Developer Workflow changes in 1.7]]
 > - 2025-09-29 · Apps and Integrations: [[Changes/Cursor/2025-09-29-4-apps-and-integrations-changes-in-1-7|4 Apps and Integrations changes in 1.7]]
 > - 2025-09-29 · Collaboration: [[Changes/Cursor/2025-09-29-1-7-24-team-deeplinks-and-hooks-improvements|1.7.24: Team deeplinks and hooks improvements]]
+> - 2025-09-29 · Agent Mode: [[Changes/Cursor/2025-09-29-6-agent-mode-changes-in-1-7|6 Agent Mode changes in 1.7]]
 > - 2025-09-29 · Agent Mode: [[Changes/Cursor/2025-09-29-agent-can-take-screenshots-improve-ui-and-debug-client-issues-read-more-about-br|Browser Controls]]
-> - 2025-09-29 · Agent Mode: [[Changes/Cursor/2025-09-29-5-agent-mode-changes-in-1-7|5 Agent Mode changes in 1.7]]
 > - 2025-09-29 · Agent Mode: [[Changes/Cursor/2025-09-29-monitor-agents-from-menubar|Monitor Agents from menubar]]
 > - 2025-09-29 · Agent Mode: [[Changes/Cursor/2025-09-29-cursor-can-now-write-detailed-plans-before-starting-complex-tasks-this-allows-ag|Plan Mode]]
 > - 2025-09-29 · Search and Browsing: [[Changes/Cursor/2025-09-29-1-7-20-web-search-auto-accept-setting|1.7.20: Web search auto-accept setting]]
@@ -889,7 +887,7 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2025-08-06 · Agent Mode: [[Changes/Cursor/2025-08-06-github-support-for-background-agents|GitHub support for Background Agents]]
 > - 2025-08-06 · Agent Mode: [[Changes/Cursor/2025-08-06-improved-agent-tools-488891|Improved Agent tools]]
 > - 2025-08-06 · Model Support: [[Changes/Cursor/2025-08-06-separate-models-per-agent|Separate models per Agent]]
-> - 2025-07-29 · Collaboration: [[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow team admins to configure an extension allowlist]]
+> - 2025-07-29 · Enterprise and Administration: [[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow team admins to configure an extension allowlist]]
 > - 2025-07-29 · Developer Workflow: [[Changes/Cursor/2025-07-29-2-developer-workflow-changes-in-1-3|2 Developer Workflow changes in 1.3]]
 > - 2025-07-29 · Reliability and Performance: [[Changes/Cursor/2025-07-29-2-reliability-and-performance-changes-in-1-3|2 Reliability and Performance changes in 1.3]]
 > - 2025-07-29 · Safety and Privacy: [[Changes/Cursor/2025-07-29-2-safety-and-privacy-changes-in-1-3|2 Safety and Privacy changes in 1.3]]
@@ -908,7 +906,7 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2025-07-03 · Agent Mode: [[Changes/Cursor/2025-07-03-you-can-now-queue-follow-up-messages-for-agent-once-it-s-done-with-current-task|Queued messages]]
 > - 2025-07-03 · Apps and Integrations: [[Changes/Cursor/2025-07-03-2-apps-and-integrations-changes-in-1-2|2 Apps and Integrations changes in 1.2]]
 > - 2025-07-03 · Agent Mode: [[Changes/Cursor/2025-07-03-agent-to-dos-3ffa24|Agent To-dos]]
-> - 2025-07-03 · Memory and Personalization: [[Changes/Cursor/2025-07-03-faster-tab|Faster Tab]]
+> - 2025-07-03 · Reliability and Performance: [[Changes/Cursor/2025-07-03-faster-tab|Faster Tab]]
 > - 2025-07-03 · Agent Mode: [[Changes/Cursor/2025-07-03-let-agent-resolve-merge-conflicts|Let Agent resolve merge conflicts]]
 > - 2025-07-03 · Other changes: [[Changes/Cursor/2025-07-03-2-other-changes-in-1-2|2 other changes in 1.2]]
 > - 2025-07-03 · Memory and Personalization: [[Changes/Cursor/2025-07-03-memories-is-now-ga-since-1-0-we-ve-improved-memory-generation-quality-added-in-e|Memories (now GA)]]
@@ -961,9 +959,10 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2025-03-23 · Agent Mode: [[Changes/Cursor/2025-03-23-built-in-modes-custom-modes-beta|Built-in modes & custom modes (beta)]]
 > - 2025-03-23 · Pricing Model: [[Changes/Cursor/2025-03-23-usage-based-cost-visibility|Usage-based cost visibility]]
 > - 2025-03-23 · Interface Experience: [[Changes/Cursor/2025-03-23-new-onboarding|New onboarding]]
+> - 2025-03-23 · Enterprise and Administration: [[Changes/Cursor/2025-03-23-enhanced-visibility-of-auto-run-controls-configured-by-team-admins-clarifying-wh|Enhanced visibility of auto-run controls configured by team admins, clarifying…]]
 > - 2025-03-23 · Reliability and Performance: [[Changes/Cursor/2025-03-23-2-reliability-and-performance-changes-in-0-48-x|2 Reliability and Performance changes in 0.48.x]]
 > - 2025-03-23 · Pricing Model: [[Changes/Cursor/2025-03-23-chat-will-now-display-a-notification-about-usage-based-pricing-when-approaching|Chat will now display a notification about usage-based pricing when approaching fast…]]
-> - 2025-03-23 · Collaboration: [[Changes/Cursor/2025-03-23-2-collaboration-changes-in-0-48-x|2 Collaboration changes in 0.48.x]]
+> - 2025-03-23 · Collaboration: [[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved indexing performance for teams sharing codebases]]
 > - 2025-03-23 · Model Support: [[Changes/Cursor/2025-03-23-2-model-support-changes-in-0-48-x|2 Model Support changes in 0.48.x]]
 > - 2025-03-23 · Editor Experience: [[Changes/Cursor/2025-03-23-0-48-2-allows-users-to-accept-reject-file-edited-in-another-chat-tab|0.48.2 - Allows users to accept/reject file edited in another chat tab]]
 > - 2025-03-11 · Reliability and Performance: [[Changes/Cursor/2025-03-11-this-release-focuses-mainly-on-stability-and-performance-improvements-to-make-ex|This release focuses mainly on stability and performance improvements to make…]]
@@ -975,6 +974,7 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2025-03-11 · Interface Experience: [[Changes/Cursor/2025-03-11-keyboard-shortcuts-all-keyboard-shortcuts-are-now-available-in-the-keyboard-shor|Keyboard Shortcuts: All keyboard shortcuts are now available in the Keyboard…]]
 > - 2025-03-11 · Other changes: [[Changes/Cursor/2025-03-11-6-other-changes-in-0-47-x|6 other changes in 0.47.x]]
 > - 2025-03-11 · Reliability and Performance: [[Changes/Cursor/2025-03-11-5-reliability-and-performance-changes-in-0-47-x|5 Reliability and Performance changes in 0.47.x]]
+> - 2025-02-19 · Reliability and Performance: [[Changes/Cursor/2025-02-19-2-reliability-and-performance-changes-in-0-46-x|2 Reliability and Performance changes in 0.46.x]]
 > - 2025-02-19 · Apps and Integrations: [[Changes/Cursor/2025-02-19-mcp-improvements|MCP improvements]]
 > - 2025-02-19 · Other changes: [[Changes/Cursor/2025-02-19-2-other-changes-in-0-46-x|2 other changes in 0.46.x]]
 > - 2025-02-19 · Interface Experience: [[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface Experience changes in 0.46.x]]
@@ -982,9 +982,8 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2025-02-19 · Agent Mode: [[Changes/Cursor/2025-02-19-agent-tool-limit-upon-reaching-the-25-tool-call-limit-you-can-press-continue-to|Agent tool limit]]
 > - 2025-02-19 · Agent Mode: [[Changes/Cursor/2025-02-19-agent-is-ready-agent-is-now-the-default-mode-bringing-a-more-powerful-and-unifie|Agent is ready: Agent is now the default mode, bringing a more powerful and unified…]]
 > - 2025-02-19 · Editor Experience: [[Changes/Cursor/2025-02-19-tab-rebinding-tab-suggestions-can-now-be-rebound-to-a-different-keybinding-using|Tab rebinding: Tab suggestions can now be rebound to a different keybinding using…]]
-> - 2025-02-19 · Reliability and Performance: [[Changes/Cursor/2025-02-19-0-46-7-improved-memory-usage-and-performance|0.46.7: Improved memory usage and performance]]
-> - 2025-02-19 · Memory and Personalization: [[Changes/Cursor/2025-02-19-2-memory-and-personalization-changes-in-0-46-x|2 Memory and Personalization changes in 0.46.x]]
 > - 2025-02-19 · Context Window: [[Changes/Cursor/2025-02-19-ui-refresh-phase-one-of-a-fresh-coat-of-paint-with-new-default-cursor-themes-des|UI refresh: Phase one of a fresh coat of paint with new default Cursor themes…]]
+> - 2025-02-19 · Memory and Personalization: [[Changes/Cursor/2025-02-19-0-46-9-memory-and-performances-fixes-composer-chat-remembers-your-last-mode-sele|0.46.9: Memory and performances fixes, composer/chat remembers your last mode…]]
 > - 2025-02-19 · Editor Experience: [[Changes/Cursor/2025-02-19-ignore-files-cursorignore-now-blocks-files-from-being-added-in-chat-or-sent-up-f|Ignore files: .cursorignore now blocks files from being added in chat or sent up…]]
 > - 2025-02-19 · Apps and Integrations: [[Changes/Cursor/2025-02-19-2-apps-and-integrations-changes-in-0-46-x|2 Apps and Integrations changes in 0.46.x]]
 > - 2025-01-23 · Context Window: [[Changes/Cursor/2025-01-23-optional-long-context-when-tagging-long-files-users-have-the-option-to-request-a|Optional Long Context]]
@@ -1051,7 +1050,7 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2024-04-01 · Interface Experience: [[Changes/Cursor/2024-04-01-update-0-31-1-0-31-3-adds-back-in-ai-review-alpha-fixes-the-cursor-settings-menu|UPDATE (0.31.1–0.31.3): Adds back in AI Review (alpha), fixes…]]
 > - 2024-03-20 · Reliability and Performance: [[Changes/Cursor/2024-03-20-faster-copilot-we-ve-made-copilot-2x-faster-this-speed-bump-comes-from-a-new-mod|Faster Copilot++: We've made Copilot++ ~2x faster!]]
 > - 2024-03-20 · Interface Experience: [[Changes/Cursor/2024-03-20-new-settings-we-moved-all-our-settings-to-be-accessible-by-the-gear-in-the-top-r|New Settings: We moved all our settings to be accessible by the gear in the top right]]
-> - 2024-03-20 · Collaboration: [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+> - 2024-03-20 · Enterprise and Administration: [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
 > - 2024-03-20 · Editor Experience: [[Changes/Cursor/2024-03-20-team-invites-we-made-it-a-bit-easier-for-you-to-invite-your-colleagues-to-your-c|Team invites: We made it a bit easier for you to invite your colleagues…]]
 > - 2024-03-20 · Model Support: [[Changes/Cursor/2024-03-20-stable-claude-support-all-the-newest-claude-models-are-available-for-pro-and-api|Stable Claude Support]]
 > - 2024-03-12 · Model Support: [[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|Claude Support]]
@@ -1084,10 +1083,10 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2024-01-06 · Developer Workflow: [[Changes/Cursor/2024-01-06-wsl-and-dev-containers-should-now-work-properly|Better Remote Support]]
 > - 2024-01-03 · Editor Experience: [[Changes/Cursor/2024-01-03-hold-down-command-press-and-release-shift-and-continue-holding-down-command-this|Early Preview: Hold-cmd-tap-shift to Trigger AI Rewrite]]
 >
-> **2023** · 175 cards
+> **2023** · 174 cards
 >
 > - 2023-12-31 · Editor Experience: [[Changes/Cursor/2023-12-31-you-can-now-use-chat-and-cmd-k-in-the-aux-window-without-too-many-problems|Aux Window Fixes]]
-> - 2023-12-30 · Mobile and Desktop: [[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|VS Code 1.85.1]]
+> - 2023-12-30 · Editor Experience: [[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|VS Code 1.85.1]]
 > - 2023-12-29 · Editor Experience: [[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|Multiple Command-K, Copilot++ UI]]
 > - 2023-12-16 · Apps and Integrations: [[Changes/Cursor/2023-12-16-copilot-we-ve-continued-to-improve-the-copilot-ghost-text-experience-surprisingl|Copilot++: We've continued to improve the Copilot++ ghost text experience]]
 > - 2023-12-16 · Interface Experience: [[Changes/Cursor/2023-12-16-previews-we-made-it-easier-to-see-what-codeblock-you-re-ing|@ previews: We made it easier to see what codeblock you're @'ing]]
@@ -1136,11 +1135,10 @@ Acquisition details, how cards are made and known gaps: [[About]].
 > - 2023-09-08 · Reliability and Performance: [[Changes/Cursor/2023-09-08-following-this-update-future-updates-should-come-as-staged-rollouts-this-will-me|Staged Rollouts]]
 > - 2023-09-08 · Other changes: [[Changes/Cursor/2023-09-08-2-other-changes-in-0-10-0|2 other changes in 0.10.0]]
 > - 2023-09-08 · Context Window: [[Changes/Cursor/2023-09-08-long-files-in-chat|Long files in chat]]
-> - 2023-09-08 · Memory and Personalization: [[Changes/Cursor/2023-09-08-better-state-management-prevents-crashes-from-editor-using-too-much-memory|Better state management - prevents crashes from editor using too much memory]]
+> - 2023-09-08 · Reliability and Performance: [[Changes/Cursor/2023-09-08-better-state-management-prevents-crashes-from-editor-using-too-much-memory|Better state management - prevents crashes from editor using too much memory]]
 > - 2023-09-07 · Projects and Workspaces: [[Changes/Cursor/2023-09-07-ux-for-producing-a-project-end-to-end-b8d638|UX for producing a project end-to-end]]
-> - 2023-09-07 · Memory and Personalization: [[Changes/Cursor/2023-09-07-this-should-reduce-any-significant-memory-issues-that-users-have-been-experienci|This should reduce any significant memory issues that users have been experiencing]]
+> - 2023-09-07 · Reliability and Performance: [[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg-8d6c31|Better State Management]]
 > - 2023-09-07 · Reliability and Performance: [[Changes/Cursor/2023-09-07-we-release-an-improved-new-ai-project-feature-to-nightly-users-this-is-a-more-ro|We release an improved New AI Project feature to nightly users]]
-> - 2023-09-07 · Reliability and Performance: [[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg|We no longer store any full files in memory and prevent users from @'ing very large…]]
 > - 2023-09-05 · Reliability and Performance: [[Changes/Cursor/2023-09-05-updates-to-docs-try-pasting-a-link-in-chat-you-can-delete-edit-docs-you-can-see|Docs updates]]
 > - 2023-09-05 · Developer Workflow: [[Changes/Cursor/2023-09-05-ships-with-cursor-python-a-language-server-fork-of-pyright-built-for-cursor|Cursor-Python LSP]]
 > - 2023-09-05 · Editor Experience: [[Changes/Cursor/2023-09-05-cmd-k-will-no-longer-output-backticks-if-you-do-file|Cmd-K will no longer output backticks if you do @file]]

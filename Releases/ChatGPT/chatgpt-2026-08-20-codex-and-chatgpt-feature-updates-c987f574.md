@@ -2,8 +2,8 @@
 changes_count: 4
 date: '2026-08-20'
 description: 'ChatGPT release Codex and ChatGPT feature updates on 2026-08-20: 4 tracked
-  changes across Mobile and Desktop, Apps and Integrations, Collaboration'
-machine_hash: 2f978f80fbbcad528c33a02a8137efddfc383b14c2fa156ba422af028863a3ab
+  changes across Apps and Integrations, Collaboration, Memory and Personalization…'
+machine_hash: c674d7c901c3274fd799380339d3123155c7646228af8555787b6c8f27b23f0e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,7 +47,7 @@ Tracked 4 cards from 5 candidate lines; 1 line pending review.
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee|Use Computer History in more regions]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee|Use Computer History in more regions]] · Memory and Personalization
 - [[Changes/ChatGPT/2026-08-20-keep-pinned-chats-in-sync-pinned-chats-now-stay-in-sync-between-the-chatgpt-desk|Keep pinned chats in sync]] · Mobile and Desktop
 - [[Changes/ChatGPT/2026-08-20-use-apple-messages-from-codex-and-chatgpt-work-on-apple-silicon-macs-the-apple-m|Use Apple Messages from Codex and ChatGPT Work]] · Apps and Integrations
 - [[Changes/ChatGPT/2026-08-20-share-a-read-only-snapshot-of-a-codex-chat-personal-share-links-can-be-opened-by|Share a read-only snapshot of a Codex chat]] · Collaboration

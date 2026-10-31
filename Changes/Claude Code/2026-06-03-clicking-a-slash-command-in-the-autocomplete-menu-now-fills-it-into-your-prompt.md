@@ -14,9 +14,10 @@ diffusion:
   theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 2d9fa170466a7ca6fdd379b6cbdbad83759165c46991720dd8cb4c32f1d4f708
+kind: change
+machine_hash: 39bff0ed309905a16cea0d5384ec10a6b85dea2b921e51e67dc1bd8299fa4876
 product: claude-code
 product_name: Claude Code
 record:
@@ -30,8 +31,9 @@ record:
   - quote: Clicking a slash command in the autocomplete menu now fills it into your
       prompt instead of running it immediately; press Enter to run
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.162
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: clicking-a-slash-command-in-the-autocomplete-menu-now-fills-it-into-your-prompt
@@ -52,15 +54,14 @@ record:
     prompt…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-22-markdown-output-now-renders-gfm-task-list-checkboxes-todo-x-done-instead-of-plai|Markdown
-  output now renders GFM task list checkboxes (-   todo / - x done)…]]'
-- '[[Changes/Claude Code/2026-05-28-claude-agents-autocomplete-in-the-dispatch-input-now-suggests-native-slash-comma|claude
-  agents: autocomplete in the dispatch input now suggests native slash…]]'
-- '[[Changes/Claude Code/2026-06-02-fullscreen-mode-clipboard-now-uses-wl-copy-xclip-xsel-on-linux-when-available-co|Fullscreen
-  mode: clipboard now uses wl-copy/xclip/xsel on Linux…]]'
+- '[[Changes/Claude Code/2026-05-28-2-interface-experience-changes-in-v2-1-153|2 Interface
+  Experience changes in v2.1.153]]'
+- '[[Changes/Claude Code/2026-05-29-claude-agents-slash-command-autocomplete-in-the-dispatch-input-now-matches-subst|claude
+  agents: slash-command autocomplete in the dispatch input now matches substrings]]'
+- '[[Changes/Claude Code/2026-06-02-2-interface-experience-changes-in-v2-1-161|2 Interface
+  Experience changes in v2.1.161]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c|claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c]]'
 source_type: github_releases
-superseded: true
 theme: interface-experience
 title: Clicking a slash command in the autocomplete menu now fills it into your prompt…
 type: change
@@ -82,16 +83,19 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-06-03-tools-explicitly-listing-grep-glob-now-provides-the-dedicated-search-tools-on-na|--tools: explicitly listing Grep/Glob now provides the dedicated search tools…]] · Developer Workflow
-- [[Changes/Claude Code/2026-06-03-claude-agents-json-now-includes-waitingfor-showing-what-a-waiting-session-is-blo|claude agents --json now includes waitingFor showing what a waiting session…]] · Safety and Privacy
+- [[Changes/Claude Code/2026-06-03-2-model-support-changes-in-v2-1-162|2 Model Support changes in v2.1.162]] · Model Support
+- [[Changes/Claude Code/2026-06-03-quieter-startup-notices-group-by-severity-and-session-info-and-announcements-sha|Quieter startup: notices group by severity, and session info and announcements share…]] · Collaboration
+- [[Changes/Claude Code/2026-06-03-renamed-windsurf-to-devin-desktop-in-the-ide-menu-terminal-setup-and-scroll-spee|Renamed Windsurf to Devin Desktop in the /ide menu, /terminal-setup…]] · Editor Experience
 - [[Changes/Claude Code/2026-06-03-remote-control-now-shows-as-a-persistent-footer-pill-with-a-link-to-the-session|Remote Control now shows as a persistent footer pill (with a link to the session)…]] · Apps and Integrations
-- [[Changes/Claude Code/2026-06-03-effort-now-confirms-when-your-chosen-level-will-persist-as-the-default-for-new-s|/effort now confirms when your chosen level will persist as the default for new sessions]] · Model Support
+- [[Changes/Claude Code/2026-06-03-4-safety-and-privacy-changes-in-v2-1-162|4 Safety and Privacy changes in v2.1.162]] · Safety and Privacy
+- [[Changes/Claude Code/2026-06-03-4-other-changes-in-v2-1-162|4 other changes in v2.1.162]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-fullscreen-mode-clipboard-now-uses-wl-copy-xclip-xsel-on-linux-when-available-co|Fullscreen mode: clipboard now uses wl-copy/xclip/xsel on Linux…]]
-- Later: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-added-a-c-to-copy-shortcut-to-btw-that-copies-the-raw-markdown-answer-to-the-cli|Added a "c to copy" shortcut to /btw that copies the raw markdown answer…]]
+- Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-2-interface-experience-changes-in-v2-1-161|2 Interface Experience changes in v2.1.161]]
+- Later: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-2-interface-experience-changes-in-v2-1-163|2 Interface Experience changes in v2.1.163]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

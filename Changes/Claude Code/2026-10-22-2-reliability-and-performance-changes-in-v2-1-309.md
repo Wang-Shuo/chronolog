@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8ec6b46c271c2cdcd3de435ed109f83eaf78a6f904f68c8e0f5350972c93b0ef
+machine_hash: 2a40f64cfc6f1d711057ed1805e6822be609e28b9f57b8687307ea9528c28d86
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,8 +49,8 @@ record:
 related_changes:
 - '[[Changes/ChatGPT/2026-10-16-faster-responses|Faster responses]]'
 - '[[Changes/Cursor/2026-10-16-larger-faster-environments|Larger, faster environments]]'
-- '[[Changes/Claude Code/2026-10-19-improved-responsiveness-and-throughput-when-many-subagents-are-running-at-the-sa|Improved
-  responsiveness and throughput when many subagents are running at the same time]]'
+- '[[Changes/Claude Code/2026-10-19-2-reliability-and-performance-changes-in-v2-1-304|2
+  Reliability and Performance changes in v2.1.304]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99|claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99]]'
 source_type: github_releases
 theme: reliability-performance
@@ -91,8 +91,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.309
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-improved-responsiveness-and-throughput-when-many-subagents-are-running-at-the-sa|Improved responsiveness and throughput when many subagents are running at the same time]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-macos-changed-git-grep-in-most-commands-that-claude-runs-to-use-the-c-locale-to|macOS: Changed git grep in most commands that Claude runs to use the C locale…]]
+- Earlier: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-2-reliability-and-performance-changes-in-v2-1-304|2 Reliability and Performance changes in v2.1.304]]
+- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-improved-memory-use-of-non-interactive-sessions-p-agent-sdk-during-compaction-wh|Improved memory use of non-interactive sessions (-p, Agent SDK) during compaction…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 8e61862dfb9d2d647d965dfa776a4e97702f20a404773a0fd019cd68ed88069c
+machine_hash: 4308d28ea316f03b711db7010bc57490ffeceb2d27391522c4e147da20e5ac64
 product: claude-code
 product_name: Claude Code
 record:
@@ -75,7 +75,8 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-08-17-2-model-support-changes-in-v2-1-234|2 Model Support changes in v2.1.234]] · Model Support
-- [[Changes/Claude Code/2026-08-17-2-apps-and-integrations-changes-in-v2-1-234|2 Apps and Integrations changes in v2.1.234]] · Apps and Integrations
+- [[Changes/Claude Code/2026-08-17-remote-control-effort-picks-made-on-a-phone-or-on-claude-ai-code-now-apply-to-te|Remote Control: effort picks made on a phone or on claude.ai/code now apply…]] · Developer Workflow
+- [[Changes/Claude Code/2026-08-17-remote-control-signing-this-computer-in-to-a-different-claude-ai-account-or-orga|Remote Control: signing this computer in to a different claude.ai account…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-08-17-2-context-window-changes-in-v2-1-234|2 Context Window changes in v2.1.234]] · Context Window
 - [[Changes/Claude Code/2026-08-17-8-safety-and-privacy-changes-in-v2-1-234|8 Safety and Privacy changes in v2.1.234]] · Safety and Privacy
 - [[Changes/Claude Code/2026-08-17-3-interface-experience-changes-in-v2-1-234|3 Interface Experience changes in v2.1.234]] · Interface Experience

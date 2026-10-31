@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 743fdfcf7a0cbc4c58d1b8e954ae136529f89ce382c82a246a9dc872472b6aab
+machine_hash: 25529f977d7a0dc390b4c564f5d7648289d1a8484b0c9c05093d3c5770657920
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,9 @@ record:
   title: Multi-select elements
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-auto-review|Auto-review]]'
 - '[[Changes/Cursor/2026-06-04-nested-subagents|Nested subagents]]'
+- '[[Changes/Cursor/2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an|With
+  canvases, agents can create interactive artifacts like dashboards, reports…]]'
 - '[[Changes/Cursor/2026-06-04-5-agent-mode-changes-in-custom-stores-custom-tools|5
   Agent Mode changes in Custom stores, custom tools…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-05-3-7-https-cursor-com-changelog-design-mode-improvements-936ff395|cursor-2026-06-05-3-7-https-cursor-com-changelog-design-mode-improvements-936ff395]]'

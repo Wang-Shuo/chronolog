@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 40bca5f5af3f201a2a54d0a7742c72fae69eef2cc6fd8ca59d6310e7fc97926a
+machine_hash: 4ed7c8a5d771413b3cfd089434393584756fbd0abd48aba181e5cbf9d158e493
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,10 +51,6 @@ record:
     - terminal
     score: 50
     theme: developer-workflow
-  - matched_terms:
-    - macos
-    score: 50
-    theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v2
   title: Fixed voice mode silently failing on the macOS native binary for users whose…
   type: change
@@ -87,7 +83,8 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Claude Code/2026-03-12-2-memory-and-personalization-changes-in-v2-1-74|2 Memory and Personalization changes in v2.1.74]] · Memory and Personalization
+- [[Changes/Claude Code/2026-03-12-added-automemorydirectory-setting-to-configure-a-custom-directory-for-auto-memor|Added autoMemoryDirectory setting to configure a custom directory for auto-memory…]] · Memory and Personalization
+- [[Changes/Claude Code/2026-03-12-added-actionable-suggestions-to-context-command-identifies-context-heavy-tools-m|Added actionable suggestions to /context command]] · Reliability and Performance
 - [[Changes/Claude Code/2026-03-12-vscode-improved-scroll-wheel-responsiveness-in-the-integrated-terminal-with-term|VSCode Improved scroll wheel responsiveness in the integrated terminal…]] · Developer Workflow
 - [[Changes/Claude Code/2026-03-12-changed-plugin-dir-so-local-dev-copies-now-override-installed-marketplace-plugin|Changed --plugin-dir so local dev copies now override installed marketplace…]] · Apps and Integrations
 <!-- chronolog:end -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 19a7bf9e85393a0993bf8500b64a1c552bbbe53ac6a282b8acbe2be30aee362e
+machine_hash: 1fec5c41cbd18fdb3c8ecf64d373ce49abfa822fb6cf47d0b31f2ea75be643a1
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-14 · ChatGPT · [[Changes/ChatGPT/2026-08-14-use-chatgpt-and-codex-on-linux-the-desktop-app-is-now-available-globally-in-publ|Use ChatGPT and Codex on Linux]]
-- Later: 2026-08-20 · ChatGPT · [[Changes/ChatGPT/2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee|Use Computer History in more regions]]
+- Later: 2026-08-20 · ChatGPT · [[Changes/ChatGPT/2026-08-20-keep-pinned-chats-in-sync-pinned-chats-now-stay-in-sync-between-the-chatgpt-desk|Keep pinned chats in sync]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

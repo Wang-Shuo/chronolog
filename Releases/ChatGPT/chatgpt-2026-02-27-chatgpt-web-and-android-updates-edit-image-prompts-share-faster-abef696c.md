@@ -4,7 +4,7 @@ date: '2026-02-27'
 description: 'ChatGPT release ChatGPT Web and Android updates: Edit image prompts,
   share faster, and smoother conversations on 2026-02-27: 8 tracked changes across
   Interface…'
-machine_hash: 7a5be09593e81fbbc906abd5aea19e732deeeddc397bfedaef92d068b6ddcd28
+machine_hash: 71f6ff018d2ed36ad944b7882bd8790fe413a17282869b8f05590f929b9f7083
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,7 +53,7 @@ Tracked 8 cards from 11 candidate lines; 1 line pending review.
 - [[Changes/ChatGPT/2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results|Open search results in a new tab]] · Search and Browsing
 - [[Changes/ChatGPT/2026-02-27-faster-sharing-sharing-chats-is-now-easier-and-faster-with-a-quicker-loading-sha|Faster sharing. Sharing chats is now easier and faster, with a quicker-loading share menu]] · Reliability and Performance
 - [[Changes/ChatGPT/2026-02-27-improved-dictation-visuals-dictation-now-has-a-clearer-more-streamlined-interfac|Improved dictation visuals]] · Voice and Audio
-- [[Changes/ChatGPT/2026-02-27-sidebar-actions-on-mobile-web-no-longer-stick-while-scrolling|Sidebar actions on mobile web no longer stick while scrolling]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-02-27-sidebar-actions-on-mobile-web-no-longer-stick-while-scrolling|Sidebar actions on mobile web no longer stick while scrolling]] · Interface Experience
 - [[Changes/ChatGPT/2026-02-27-export-visuals-from-code-blocks-flowcharts-diagrams-and-data-visualizations-crea|Export visuals from Code Blocks]] · Files and Data
 - [[Changes/ChatGPT/2026-02-27-faster-sidebar-actions-sidebar-interactions-such-as-renaming-chats-are-now-faste|Faster sidebar actions]] · Interface Experience
 - [[Changes/ChatGPT/2026-02-27-edit-messages-with-images-you-can-now-edit-messages-that-include-image-attachmen|Edit messages with images]] · Editor Experience

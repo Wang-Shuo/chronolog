@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b7297d07d440e1f1a2301d5f3ef5474744eda28ff3720d8080795154a28033fc
+machine_hash: 2ff3733e8c4a1518e9c7b7fcf90752d0061583878e9be362f2e96e6028c3f93b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -61,14 +61,6 @@ record:
     - voice
     score: 110
     theme: voice
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
   - matched_terms:
     - vision
     score: 50

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0e849973f7a3b4ac68346120db3b87405647c45e5c9de760fd537e18f3188247
+machine_hash: 1091b24f470ccfc087d140044d4cbfcb06fbd336864713efbb625ece906a9a87
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,6 +62,7 @@ related_changes:
   out ads in Australia, New Zealand, and Canada]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-119-github-312949780-573724e7|claude-code-2026-04-23-v2-1-119-github-312949780-573724e7]]'
 source_type: github_releases
+superseded: true
 theme: enterprise-admin
 title: --from-pr now accepts GitLab merge-request, Bitbucket pull-request, and GitHub…
 type: change

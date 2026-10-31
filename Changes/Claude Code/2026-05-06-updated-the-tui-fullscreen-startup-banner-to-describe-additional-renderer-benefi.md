@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 91450ae0aa38458ff701352e6229935119185031c2c341d05d8cd51be4d09afc
+machine_hash: 54f0c14afa2c25c9ffd10e3f4bfbed77c11d72c54f2b3cc1892f49df24ca3293
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,8 +58,8 @@ record:
 related_changes:
 - '[[Changes/Claude Code/2026-04-20-resume-on-large-sessions-is-significantly-faster-up-to-67-on-40mb-sessions-and-h|/resume
   on large sessions is significantly faster (up to 67% on 40MB+ sessions)…]]'
-- '[[Changes/Claude Code/2026-04-22-windows-cached-where-exe-executable-lookups-per-process-for-faster-subprocess-la|Windows:
-  cached where.exe executable lookups per process for faster subprocess launches]]'
+- '[[Changes/Claude Code/2026-04-22-2-reliability-and-performance-changes-in-v2-1-117|2
+  Reliability and Performance changes in v2.1.117]]'
 - '[[Changes/Claude Code/2026-04-28-faster-startup-after-upgrading-removed-the-recent-activity-panel-from-the-releas|Faster
   startup after upgrading]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664|claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664]]'

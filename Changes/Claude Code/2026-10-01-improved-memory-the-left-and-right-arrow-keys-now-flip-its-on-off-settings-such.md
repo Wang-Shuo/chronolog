@@ -1,0 +1,105 @@
+---
+card_id: claude-code-2026-10-01-9c6924
+date: '2026-10-01'
+description: 'Claude Code · 2026-10-01 · Memory and Personalization: Improved `/memory`:
+  the left and right arrow keys now flip its on/off settings, such as Auto-memory'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1169
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: memory
+  tracked_products_count: 3
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: 13563de0c2d3e702dda4274f0f7e6c3aa73c2ef9a9df2f47b4daf6ec79419191
+product: claude-code
+product_name: Claude Code
+record:
+  card_id: claude-code-2026-10-01-9c6924
+  comparison: ''
+  date: '2026-10-01'
+  description: 'Claude Code — v2.1.287: Improved `/memory`: the left and right arrow
+    keys now flip its on/off settings, such as Auto-memory'
+  evidence:
+  - quote: 'Improved `/memory`: the left and right arrow keys now flip its on/off
+      settings, such as Auto-memory'
+    source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.287
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: claude-code
+  product_name: Claude Code
+  slug: improved-memory-the-left-and-right-arrow-keys-now-flip-its-on-off-settings-such
+  source_release: claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87
+  source_type: github_releases
+  theme: memory
+  title: 'Improved `/memory`: the left and right arrow keys now flip its on/off settings,
+    such…'
+  type: change
+related_changes:
+- '[[Changes/ChatGPT/2026-09-29-you-can-use-your-chatgpt-account-to-sign-in-to-participating-products-without-cr|Sign
+  in to other products with ChatGPT]]'
+- '[[Changes/Claude Code/2026-09-29-changed-memory-so-that-auto-memory-can-no-longer-be-turned-on-from-a-background|Changed
+  /memory so that Auto-memory can no longer be turned on from a background…]]'
+- '[[Changes/ChatGPT/2026-10-01-virtually-try-on-clothing-and-accessories-a-try-on-button-will-appear-on-product|Virtually
+  try on clothing and accessories]]'
+source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'
+source_type: github_releases
+theme: memory
+title: 'Improved /memory: the left and right arrow keys now flip its on/off settings,
+  such…'
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Improved `/memory`: the left and right arrow keys now flip its on/off settings, such…
+
+**Claude Code** · 2026-10-01 · [[Themes/memory|Memory and Personalization]] · [Official source](https://github.com/anthropics/claude-code/releases/tag/v2.1.287) · from [[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|v2.1.287]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Improved `/memory`: the left and right arrow keys now flip its on/off settings, such as Auto-memory
+>
+> Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.287
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Claude Code/2026-10-01-4-model-support-changes-in-v2-1-287|4 Model Support changes in v2.1.287]] · Model Support
+- [[Changes/Claude Code/2026-10-01-changed-opus-4-7-and-fable-to-use-a-1m-context-window-by-default-on-bedrock-vert|Changed Opus 4.7+ and Fable to use a 1M context window by default on Bedrock…]] · Context Window
+- [[Changes/Claude Code/2026-10-01-2-mobile-and-desktop-changes-in-v2-1-287|2 Mobile and Desktop changes in v2.1.287]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-10-01-vscode-changed-the-claude-in-chrome-enabled-by-default-switch-to-also-connect-th|VSCode Changed the Claude in Chrome "Enabled by default" switch to also connect…]] · Editor Experience
+- [[Changes/Claude Code/2026-10-01-6-safety-and-privacy-changes-in-v2-1-287|6 Safety and Privacy changes in v2.1.287]] · Safety and Privacy
+- [[Changes/Claude Code/2026-10-01-3-developer-workflow-changes-in-v2-1-287|3 Developer Workflow changes in v2.1.287]] · Developer Workflow
+- [[Changes/Claude Code/2026-10-01-11-apps-and-integrations-changes-in-v2-1-287|11 Apps and Integrations changes in v2.1.287]] · Apps and Integrations
+- [[Changes/Claude Code/2026-10-01-changed-screen-reader-mode-to-write-new-or-changed-lines-without-first-pausing-w|Changed screen reader mode to write new or changed lines without first pausing…]] · Accessibility and Localization
+- [[Changes/Claude Code/2026-10-01-3-reliability-and-performance-changes-in-v2-1-287|3 Reliability and Performance changes in v2.1.287]] · Reliability and Performance
+- [[Changes/Claude Code/2026-10-01-4-agent-mode-changes-in-v2-1-287|4 Agent Mode changes in v2.1.287]] · Agent Mode
+- [[Changes/Claude Code/2026-10-01-added-url-prompts-from-mcp-servers-on-the-2025-11-25-protocol-for-example-to-sig|Added URL prompts from MCP servers on the 2025-11-25 protocol, for example to sign in]] · Account and Access
+- [[Changes/Claude Code/2026-10-01-improved-sdk-sessions-so-a-message-sent-with-priority-now-no-longer-cancels-a-ru|Improved SDK sessions so a message sent with priority "now" no longer cancels…]] · Search and Browsing
+- [[Changes/Claude Code/2026-10-01-4-other-changes-in-v2-1-287|4 other changes in v2.1.287]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Memory and Personalization
+
+- Earlier: 2026-10-01 · ChatGPT · [[Changes/ChatGPT/2026-10-01-virtually-try-on-clothing-and-accessories-a-try-on-button-will-appear-on-product|Virtually try on clothing and accessories]]
+- Later: 2026-10-30 · ChatGPT · [[Changes/ChatGPT/2026-10-30-account-switching-is-rolling-out-to-the-chatgpt-ios-and-android-apps-you-can-sta|Account switching on iOS and Android]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20claude-code-2026-10-01-9c6924&body=Card%3A%20Changes%2FClaude%20Code%2F2026-10-01-improved-memory-the-left-and-right-arrow-keys-now-flip-its-on-off-settings-such.md%0ACard%20ID%3A%20claude-code-2026-10-01-9c6924%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-code%2Freleases%2Ftag%2Fv2.1.287%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

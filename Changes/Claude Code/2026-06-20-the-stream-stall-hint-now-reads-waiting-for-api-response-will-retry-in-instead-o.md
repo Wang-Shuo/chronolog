@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1a7831b97508b040327c472d4f9685f3916c2f09740f5fca7dbb39ddb5ef9b49
+machine_hash: 9eeeda1e0a532c97c964885f39bed949c90bc25abb61a388b5341856b2d22108
 product: claude-code
 product_name: Claude Code
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-easier-conversation-sharing-sharing-a-conversation-is-now-faster-with-a-one-clic|Easier conversation sharing]]
-- Later: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-added-automatic-memory-pressure-reaping-for-idle-background-shell-commands-disab|Added automatic memory-pressure reaping for idle background shell commands…]]
+- Later: 2026-06-24 · Claude Code · [[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced long-session memory growth from terminal output cache]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5973c3a146408317d7ae53124f1cbdefeef7437e1d99b20dbc244eb6e576267d
+machine_hash: 1af094b35f92b18ae4afdd46e62b71880ff4ff6dc38fe18cb138d8428280ec47
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   tab stops to count from where a text starts instead of from the screen''s left edge]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a]]'
 source_type: github_releases
+superseded: true
 theme: editor-experience
 title: Cloud sessions Added a status filter to the Sessions and Runners lists…
 type: change

@@ -2,7 +2,7 @@
 created: '2024-08-08'
 date: '2026-09-08'
 description: Cross-product timeline of Image Generation changes in ChatGPT and Cursor.
-machine_hash: b0e1705cd74f43173452845d62dd3c640bd67735295ef9635b36d1f9a87c2aaf
+machine_hash: b4d07eff663fd6ed15455aee6e3970a4100f78532cef659efd804212c20e2d1e
 modified: '2026-09-08'
 products_involved:
 - ChatGPT
@@ -29,7 +29,7 @@ Explore the dated evidence below.
 
 ## Key moments
 <!-- chronolog:begin region="moments" -->
-Auto-selected; edit `key_moments` in editorial.yaml to curate.
+Selected automatically from launches and standalone announcements.
 
 | Quarter | ChatGPT | Cursor |
 | --- | --- | --- |
@@ -44,62 +44,59 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 4 entries (ChatGPT 3 · Cursor 1)
+> [!info]- 2026 · 4 entries (ChatGPT 3 · Cursor 1)
+> **2026-09**
+>
+> - 2026-09-08 · **ChatGPT** · [[Changes/ChatGPT/2026-09-08-chatgpt-images-2-5-brings-sharper-details-more-precise-editing-and-faster-image-66acb5|ChatGPT Images 2.5 brings sharper details, more precise editing, and faster image…]]
+>
+> **2026-07**
+>
+> - 2026-07-31 · **ChatGPT** · [[Changes/ChatGPT/2026-07-31-on-august-30-2026-we-re-retiring-the-official-dall-e-gpt-in-chatgpt-we-encourage|Retiring the DALL·E GPT]] · Policy
+>
+> **2026-04**
+>
+> - 2026-04-21 · **ChatGPT** · [[Changes/ChatGPT/2026-04-21-we-re-introducing-chatgpt-images-2-0-our-new-image-generation-model-in-chatgpt-c|ChatGPT Images 2.0 in ChatGPT]] · Launch
+>
+> **2026-01**
+>
+> - 2026-01-22 · **Cursor** · [[Changes/Cursor/2026-01-22-image-generation|Image generation]] · Launch
 
-#### 2026-09
+> [!info]- 2025 · 11 entries (ChatGPT 11)
+> **2025-12**
+>
+> - 2025-12-16 · **ChatGPT** · [[Changes/ChatGPT/2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c|ChatGPT Images on Web and Mobile (iOS & Android)]]
+>
+> **2025-10**
+>
+> - 2025-10-30 · **ChatGPT** · [[Changes/ChatGPT/2025-10-30-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
+> - 2025-10-28 · **ChatGPT** · [[Changes/ChatGPT/2025-10-28-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
+> - 2025-10-14 · **ChatGPT** · [[Changes/ChatGPT/2025-10-14-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
+> - 2025-10-08 · **ChatGPT** · [[Changes/ChatGPT/2025-10-08-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
+>
+> **2025-09**
+>
+> - 2025-09-29 · **ChatGPT** · [[Changes/ChatGPT/2025-09-29-remove-image-generation-so-chatgpt-won-t-have-the-ability-to-create-or-edit-imag|Remove image generation, so ChatGPT won’t have the ability to create or edit images]]
+> - 2025-09-22 · **ChatGPT** · [[Changes/ChatGPT/2025-09-22-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
+>
+> **2025-08**
+>
+> - 2025-08-18 · **ChatGPT** · [[Changes/ChatGPT/2025-08-18-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
+> - 2025-08-08 · **ChatGPT** · [[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|Image generation update to ChatGPT Free]]
+>
+> **2025-04**
+>
+> - 2025-04-15 · **ChatGPT** · [[Changes/ChatGPT/2025-04-15-all-images-you-create-with-chatgpt-are-now-automatically-saved-to-a-new-library|ChatGPT Image Library]]
+>
+> **2025-03**
+>
+> - 2025-03-18 · **ChatGPT** · [[Changes/ChatGPT/2025-03-18-increased-the-default-size-for-in-line-generated-images|Increased the default size for in‐line generated images]]
 
-- 2026-09-08 · **ChatGPT** · [[Changes/ChatGPT/2026-09-08-chatgpt-images-2-5-brings-sharper-details-more-precise-editing-and-faster-image-66acb5|ChatGPT Images 2.5 brings sharper details, more precise editing, and faster image…]]
-
-#### 2026-07
-
-- 2026-07-31 · **ChatGPT** · [[Changes/ChatGPT/2026-07-31-on-august-30-2026-we-re-retiring-the-official-dall-e-gpt-in-chatgpt-we-encourage|Retiring the DALL·E GPT]] · Policy
-
-#### 2026-04
-
-- 2026-04-21 · **ChatGPT** · [[Changes/ChatGPT/2026-04-21-we-re-introducing-chatgpt-images-2-0-our-new-image-generation-model-in-chatgpt-c|ChatGPT Images 2.0 in ChatGPT]] · Launch
-
-#### 2026-01
-
-- 2026-01-22 · **Cursor** · [[Changes/Cursor/2026-01-22-image-generation|Image generation]] · Launch
-
-### 2025 · 11 entries (ChatGPT 11)
-
-#### 2025-12
-
-- 2025-12-16 · **ChatGPT** · [[Changes/ChatGPT/2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c|ChatGPT Images on Web and Mobile (iOS & Android)]]
-
-#### 2025-10
-
-- 2025-10-30 · **ChatGPT** · [[Changes/ChatGPT/2025-10-30-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
-- 2025-10-28 · **ChatGPT** · [[Changes/ChatGPT/2025-10-28-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
-- 2025-10-14 · **ChatGPT** · [[Changes/ChatGPT/2025-10-14-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
-- 2025-10-08 · **ChatGPT** · [[Changes/ChatGPT/2025-10-08-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
-
-#### 2025-09
-
-- 2025-09-29 · **ChatGPT** · [[Changes/ChatGPT/2025-09-29-remove-image-generation-so-chatgpt-won-t-have-the-ability-to-create-or-edit-imag|Remove image generation, so ChatGPT won’t have the ability to create or edit images]]
-- 2025-09-22 · **ChatGPT** · [[Changes/ChatGPT/2025-09-22-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
-
-#### 2025-08
-
-- 2025-08-18 · **ChatGPT** · [[Changes/ChatGPT/2025-08-18-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
-- 2025-08-08 · **ChatGPT** · [[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|Image generation update to ChatGPT Free]]
-
-#### 2025-04
-
-- 2025-04-15 · **ChatGPT** · [[Changes/ChatGPT/2025-04-15-all-images-you-create-with-chatgpt-are-now-automatically-saved-to-a-new-library|ChatGPT Image Library]]
-
-#### 2025-03
-
-- 2025-03-18 · **ChatGPT** · [[Changes/ChatGPT/2025-03-18-increased-the-default-size-for-in-line-generated-images|Increased the default size for in‐line generated images]]
-
-### 2024 · 2 entries (ChatGPT 2)
-
-#### 2024-11
-
-- 2024-11-22 · **ChatGPT** · [[Changes/ChatGPT/2024-11-22-dall-e-focused-view-has-an-updated-layout|DALL-E focused view has an updated layout]]
-
-#### 2024-08
-
-- 2024-08-08 · **ChatGPT** · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
+> [!info]- 2024 · 2 entries (ChatGPT 2)
+> **2024-11**
+>
+> - 2024-11-22 · **ChatGPT** · [[Changes/ChatGPT/2024-11-22-dall-e-focused-view-has-an-updated-layout|DALL-E focused view has an updated layout]]
+>
+> **2024-08**
+>
+> - 2024-08-08 · **ChatGPT** · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
 <!-- chronolog:end -->

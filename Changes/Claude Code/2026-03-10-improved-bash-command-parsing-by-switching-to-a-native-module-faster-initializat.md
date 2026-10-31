@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 76011bef9e40e3810d901005bc70bc8ce2dedea4c3127ae7ed6ff675ca85ed8e
+machine_hash: cb6a43f88ef611a948a0d9ae92c2b9fb5bb1e9b3fd63ed32a6a538553a135a91
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-03-06 · Claude Code · [[Changes/Claude Code/2026-03-06-3-reliability-and-performance-changes-in-v2-1-70|3 Reliability and Performance changes in v2.1.70]]
-- Later: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-improved-ide-detection-speed-at-startup|Improved IDE detection speed at startup]]
+- Later: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-2-reliability-and-performance-changes-in-v2-1-73|2 Reliability and Performance changes in v2.1.73]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

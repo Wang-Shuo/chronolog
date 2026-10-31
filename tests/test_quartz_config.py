@@ -61,12 +61,22 @@ def test_explorer_hides_card_release_and_alert_folders_and_opens_by_default():
     assert {"tags", "Changes", "Releases", "Alerts"} == set(re.findall(r'"([^"]+)"', match.group(1)))
 
 
-def test_graph_renders_only_on_card_and_theme_pages():
+def test_explorer_sorts_folders_in_reading_order_and_months_newest_first():
+    layout = LAYOUT.read_text(encoding="utf-8")
+    sort_fn = re.search(r"\n    sortFn: (\(a, b\) => \{.*?\n    \}),\n", layout, re.S).group(1)
+    assert 'const folders = ["Products", "Themes", "Archive"]' in sort_fn
+    assert "b.slugSegment.localeCompare(a.slugSegment)" in sort_fn
+    # Serialized with toString(): an inner function would be wrapped in the build's
+    # __name helper, which does not exist in the browser and empties the Explorer.
+    assert sort_fn.count("=>") == 1 and "function" not in sort_fn
+
+
+def test_graph_renders_only_on_card_pages():
     layout = LAYOUT.read_text(encoding="utf-8")
     assert layout.count("Component.Graph(") == 1
     conditional = re.search(r"Component\.ConditionalRender\(\{(.*?)\n\}\)", layout, re.S).group(1)
     assert "component: Component.Graph()" in conditional
-    assert 's.startsWith("Changes/")' in conditional and 's.startsWith("Themes/")' in conditional
+    assert '.startsWith("Changes/")' in conditional and "Themes/" not in conditional
     assert "Component.TableOfContents()" in layout and "Component.Backlinks()" in layout
 
 
@@ -114,3 +124,25 @@ def test_archive_folder_page_shows_its_folder_note_without_a_second_page_list():
     match = re.search(r"filterFn: \(node\) => !\[(.*?)\]\.includes\(node\.slugSegment\)",
                       LAYOUT.read_text(encoding="utf-8"))
     assert "Archive" not in match.group(1)
+
+
+def test_quotes_render_verbatim_and_static_assets_ignore_gitignore():
+    config = CONFIG.read_text(encoding="utf-8")
+    # SmartyPants would turn `--flag` in quoted source text into `—flag`.
+    assert "Plugin.GitHubFlavoredMarkdown({ enableSmartyPants: false })" in config
+    # quartz/ is git-ignored, so Quartz's own Static emitter published no icon or image.
+    assert "Plugin.Static()" not in config and "ChronologStatic()," in config
+    emitter = Path("_scripts/static_assets.ts").read_text(encoding="utf-8")
+    assert 'globby("**", { cwd: staticPath })' in emitter and "gitignore" not in emitter.split("export")[1]
+    setup = Path("_scripts/setup_quartz.mjs").read_text(encoding="utf-8")
+    assert 'for (const name of ["icon.png", "og-image.png"])' in setup
+    for name in ("icon.png", "og-image.png"):
+        assert (Path("_scripts/brand") / name).stat().st_size > 1000
+
+
+def test_analytics_is_off_unless_the_deploy_sets_a_goatcounter_code():
+    config = CONFIG.read_text(encoding="utf-8")
+    assert "const goatcounter = process.env.CHRONOLOG_GOATCOUNTER_CODE" in config
+    assert 'analytics: goatcounter ? { provider: "goatcounter", websiteId: goatcounter } : null,' in config
+    deploy = Path(".github/workflows/deploy.yml").read_text(encoding="utf-8")
+    assert "CHRONOLOG_GOATCOUNTER_CODE: ${{ vars.CHRONOLOG_GOATCOUNTER_CODE }}" in deploy

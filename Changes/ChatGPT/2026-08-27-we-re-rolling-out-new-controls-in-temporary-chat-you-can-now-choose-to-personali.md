@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0c5332f496a1f9794374d7ceb1fea3e0c4c6af8e82471aa022412be0b4bb4ad5
+machine_hash: 5cccfc556b1379ac70d536b6f1db309dd7578613273374e178c8abab8a84b778
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,8 +58,8 @@ record:
   title: ChatGPT rolls out new controls in temporary chat
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-18-improved-the-embedded-grep-in-native-macos-linux-builds-pathological-patterns-no|Improved
-  the embedded grep in native macOS/Linux builds]]'
+- '[[Changes/ChatGPT/2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee|Use
+  Computer History in more regions]]'
 - '[[Changes/Claude Code/2026-08-20-updated-the-bundled-claude-api-skill-for-the-managed-agents-aug-19-release-web-s|Updated
   the bundled claude-api skill for the Managed Agents Aug 19 release]]'
 - '[[Changes/ChatGPT/2026-08-27-3-memory-and-personalization-changes-in-more-controls-in-temporary-chat|3

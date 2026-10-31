@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 772b7cf5be2bf8b31ec07598051811f9398b458183b45b68fb607faf38cd9f56
+machine_hash: 9cc71454c4e6f4c80d7d59585b61dd18077e2c3ae7ad4c67f28f699b2826c700
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,11 +55,11 @@ record:
   title: 5 Agent Mode changes in v2.1.198
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-29-2-agent-mode-changes-in-v2-1-196|2 Agent Mode
-  changes in v2.1.196]]'
 - '[[Changes/Cursor/2026-06-29-remote-control-3ec330|Remote Control]]'
 - '[[Changes/Cursor/2026-06-29-live-activities-and-push-notifications|Live Activities
   and push notifications]]'
+- '[[Changes/Cursor/2026-06-29-cursor-for-ios-is-now-available-in-public-beta-on-all-paid-plans-launch-and-mana|Cursor
+  for iOS is now available in public beta on all paid plans]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab|claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab]]'
 source_type: github_releases
 theme: agent-mode
@@ -105,7 +105,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.198
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-29 · Cursor · [[Changes/Cursor/2026-06-29-live-activities-and-push-notifications|Live Activities and push notifications]]
+- Earlier: 2026-06-29 · Cursor · [[Changes/Cursor/2026-06-29-cursor-for-ios-is-now-available-in-public-beta-on-all-paid-plans-launch-and-mana|Cursor for iOS is now available in public beta on all paid plans]]
 - Later: 2026-07-06 · Claude Code · [[Changes/Claude Code/2026-07-06-3-agent-mode-changes-in-v2-1-202|3 Agent Mode changes in v2.1.202]]
 <!-- chronolog:end -->
 

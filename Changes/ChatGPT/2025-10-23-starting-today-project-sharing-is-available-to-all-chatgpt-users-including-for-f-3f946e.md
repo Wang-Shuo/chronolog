@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 678e9a34a072d51380ce2d9bdabcfb1cab0d711b4e929eda3898fa7a5f59a0f5
+machine_hash: be781ae084173edecbeb5ef9a79b39089cb0c56d12d68ce26c45451dec9b80ec
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -65,11 +65,6 @@ record:
   theme: mobile-desktop
   theme_matches:
   - matched_terms:
-    - android
-    - ios
-    score: 100
-    theme: mobile-desktop
-  - matched_terms:
     - custom instructions
     score: 60
     theme: memory
@@ -77,15 +72,16 @@ record:
     - sharing
     score: 50
     theme: collaboration
+  theme_resolution: manual-semantic-rule-v1
   title: Starting today, project sharing is available to all ChatGPT users, including…
   type: change
 related_changes:
+- '[[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|Record
+  mode is now available to ChatGPT Plus users globally in the macOS desktop app]]'
 - '[[Changes/ChatGPT/2025-08-22-this-feature-will-initially-only-be-available-on-the-chatgpt-website-and-windows|This
   feature will initially only be available on the ChatGPT website and Windows app]]'
 - '[[Changes/ChatGPT/2025-09-17-the-thinking-time-toggle-is-live-today-on-chatgpt-com-settings-you-choose-on-the|The
   thinking-time toggle is live today on chatgpt.com]]'
-- '[[Changes/Cursor/2025-09-29-on-windows-agent-now-correctly-uses-powershell-on-macos-and-linux-powershell-wil|On
-  Windows, Agent now correctly uses PowerShell]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-23-shared-projects-217fa07d|chatgpt-2025-10-23-shared-projects-217fa07d]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -127,7 +123,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-on-windows-agent-now-correctly-uses-powershell-on-macos-and-linux-powershell-wil|On Windows, Agent now correctly uses PowerShell]]
+- Earlier: 2025-09-17 · ChatGPT · [[Changes/ChatGPT/2025-09-17-the-thinking-time-toggle-is-live-today-on-chatgpt-com-settings-you-choose-on-the|The thinking-time toggle is live today on chatgpt.com]]
 - Later: 2025-11-13 · ChatGPT · [[Changes/ChatGPT/2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05|Group chats in ChatGPT]]
 <!-- chronolog:end -->
 

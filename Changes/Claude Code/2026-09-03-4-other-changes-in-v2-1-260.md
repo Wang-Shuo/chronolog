@@ -7,7 +7,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e3ec4e2d980bc7dc7f476c5876ed35e1205e2d39baa993f7d06f1cae47491b6f
+machine_hash: b40ad28e7734340e8cc22d556d71c127560f0fdecdb908e02944ee8881e122e6
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,6 +44,7 @@ record:
   type: change
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
 source_type: github_releases
+superseded: true
 theme: uncategorized
 title: 4 other changes in v2.1.260
 type: change

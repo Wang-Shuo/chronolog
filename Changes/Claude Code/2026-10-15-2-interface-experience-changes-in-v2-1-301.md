@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fc20fcdd038324a45924eb8ab6d2c8c272f505dca5d03ecde044cf72897eb2ba
+machine_hash: 5443dd0428bc05af02cc9c6a126129a93d2ccf17660597565522f42ccd39fe3c
 product: claude-code
 product_name: Claude Code
 record:
@@ -78,10 +78,10 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.301
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-10-15-2-developer-workflow-changes-in-v2-1-301|2 Developer Workflow changes in v2.1.301]] · Developer Workflow
 - [[Changes/Claude Code/2026-10-15-5-safety-and-privacy-changes-in-v2-1-301|5 Safety and Privacy changes in v2.1.301]] · Safety and Privacy
-- [[Changes/Claude Code/2026-10-15-2-mobile-and-desktop-changes-in-v2-1-301|2 Mobile and Desktop changes in v2.1.301]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-10-15-improved-artifacts-pages-claude-writes-now-paint-the-band-above-a-sticky-header|Improved artifacts: pages Claude writes now paint the band above a sticky header…]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-10-15-improved-switching-to-a-model-with-a-smaller-context-window-a-conversation-too-l|Improved switching to a model with a smaller context window]] · Context Window
-- [[Changes/Claude Code/2026-10-15-added-rows-to-a-mod-s-input-a-text-field-of-several-lines-in-the-terminal-where|Added rows to a mod's Input]] · Developer Workflow
 - [[Changes/Claude Code/2026-10-15-7-other-changes-in-v2-1-301|7 other changes in v2.1.301]] · Other changes
 <!-- chronolog:end -->
 

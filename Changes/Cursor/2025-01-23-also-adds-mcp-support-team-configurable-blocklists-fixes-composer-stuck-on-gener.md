@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: efea9444489ba2b55fffd298df73cd8f0d29e1d3f68f707f4611c7cc50902eed
+machine_hash: 275525639be1f30c5b2439e3900c0a7f1036e605d4f2e7665e0df982f273f652
 product: cursor
 product_name: Cursor
 record:
@@ -53,10 +53,6 @@ record:
     - mcp
     score: 50
     theme: apps-integrations
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
   theme_resolution: manual-semantic-rule-v2
   title: Also adds MCP support, team-configurable blocklists, fixes Composer stuck…
   type: change
@@ -102,7 +98,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-12-17 · Cursor · [[Changes/Cursor/2024-12-17-cheaper-and-faster-bug-finding-model|Cheaper and faster Bug Finding Model]]
-- Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-0-46-7-improved-memory-usage-and-performance|0.46.7: Improved memory usage and performance]]
+- Later: 2025-02-14 · ChatGPT · [[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved Android conversation parsing performance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

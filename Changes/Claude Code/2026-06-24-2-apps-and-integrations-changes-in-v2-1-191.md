@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6eb1048f1cff2a8060c25eecaa00ae5dd711840a643ceb4f51a0b4edaedfd65c
+machine_hash: fb25fd9b3b228c6a1943320821d3b554236992ff5ed4c6da18c7cbf1ed985986
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,7 @@ record:
   title: 2 Apps and Integrations changes in v2.1.191
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-22-plugins-skills-and-mcps-let-you-customize-cursor-for-your-workflows-the-new-cust-241c4b|Plugins,
-  skills, and MCPs let you customize Cursor for your workflows]]'
+- '[[Changes/Cursor/2026-06-22-marketplace-leaderboard-654084|Marketplace leaderboard]]'
 - '[[Changes/Cursor/2026-06-22-plugin-canvases|Plugin canvases]]'
 - '[[Changes/Claude Code/2026-06-23-2-apps-and-integrations-changes-in-v2-1-187|2
   Apps and Integrations changes in v2.1.187]]'
@@ -77,7 +76,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.191
 
 - [[Changes/Claude Code/2026-06-24-added-rewind-support-for-resuming-a-conversation-from-before-clear-was-run|Added /rewind support for resuming a conversation from before /clear was run]] · Projects and Workspaces
 - [[Changes/Claude Code/2026-06-24-improved-sandbox-network-permission-dialog-hosts-you-allow-with-yes-are-now-reme|Improved sandbox network permission dialog]] · Safety and Privacy
-- [[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced long-session memory growth from terminal output cache]] · Memory and Personalization
+- [[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced long-session memory growth from terminal output cache]] · Reliability and Performance
 - [[Changes/Claude Code/2026-06-24-improved-mcp-oauth-discovery-and-token-requests-now-retry-once-after-transient-n|Improved MCP OAuth]] · Account and Access
 - [[Changes/Claude Code/2026-06-24-2-other-changes-in-v2-1-191|2 other changes in v2.1.191]] · Other changes
 <!-- chronolog:end -->

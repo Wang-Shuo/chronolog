@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 157e2d27ff9dd1b8185b6a8d32c3b764bafda1c9c4c143beb6db70af0ad118bd
+machine_hash: ae115f1e88c33c813b57f692001de86a272e97fb99f7b35636f44c947987f173
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,8 +48,8 @@ related_changes:
   agents: slash-command autocomplete in the dispatch input now matches substrings]]'
 - '[[Changes/Claude Code/2026-06-02-2-interface-experience-changes-in-v2-1-161|2 Interface
   Experience changes in v2.1.161]]'
-- '[[Changes/Claude Code/2026-06-03-2-interface-experience-changes-in-v2-1-162|2 Interface
-  Experience changes in v2.1.162]]'
+- '[[Changes/Claude Code/2026-06-03-clicking-a-slash-command-in-the-autocomplete-menu-now-fills-it-into-your-prompt|Clicking
+  a slash command in the autocomplete menu now fills it into your prompt…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988|claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988]]'
 source_type: github_releases
 theme: interface-experience
@@ -88,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.163
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-2-interface-experience-changes-in-v2-1-162|2 Interface Experience changes in v2.1.162]]
+- Earlier: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-clicking-a-slash-command-in-the-autocomplete-menu-now-fills-it-into-your-prompt|Clicking a slash command in the autocomplete menu now fills it into your prompt…]]
 - Later: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-shared-canvases-can-now-be-opened-full-screen-in-the-browser-making-them-easier|Shared canvases can now be opened full-screen in the browser, making them easier…]]
 <!-- chronolog:end -->
 

@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d3bd33e06e6d9a97f338647d3796bf374b27e902f5aaa7f41a00bb91a284d544
+machine_hash: 1fbdb6ebd4ebd6aac384f19279a32ddbea627d5c057306741dfc04f7b8ee491f
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-08 · Claude Code · [[Changes/Claude Code/2026-05-08-2-developer-workflow-changes-in-v2-1-136|2 Developer Workflow changes in v2.1.136]]
-- Later: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-environment-configuration-as-code-827fd1|Environment configuration as code]]
+- Later: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-added-terminalsequence-field-to-hook-json-output-so-hooks-can-emit-desktop-notif|Added terminalSequence field to hook JSON output so hooks can emit desktop…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

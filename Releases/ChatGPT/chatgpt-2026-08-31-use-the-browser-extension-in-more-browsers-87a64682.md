@@ -2,8 +2,8 @@
 changes_count: 1
 date: '2026-08-31'
 description: 'ChatGPT release Use the browser extension in more browsers on 2026-08-31:
-  1 tracked change across Mobile and Desktop'
-machine_hash: 257968a30ec3b7a6efb665380c39487d9834486dac7305aa8d1d9fb68de26f81
+  1 tracked change across Context Window'
+machine_hash: 452779ff8f63db399ae042d10afa409a53074ce474b2e84611f55e9aa373494f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,5 +44,5 @@ Tracked 1 card from 4 candidate lines; 2 lines pending review.
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-08-31-bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context-af2c3a|Bring your browser into Work and Codex]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-08-31-bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context-af2c3a|Bring your browser into Work and Codex]] · Context Window
 <!-- chronolog:end -->

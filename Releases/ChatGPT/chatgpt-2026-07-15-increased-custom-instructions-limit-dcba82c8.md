@@ -2,8 +2,8 @@
 changes_count: 1
 date: '2026-07-15'
 description: 'ChatGPT release Increased custom instructions limit on 2026-07-15: 1
-  tracked change across Enterprise and Administration'
-machine_hash: e1b28f2a500a3489805fb44ddc00bdcd7e4b99e3a889070678630e907b168f23
+  tracked change across Memory and Personalization'
+machine_hash: 06ffa2d44b7f1991d94a69b6d8ed7f17dec26b38083d377596386a784fbf9c0a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,5 +46,5 @@ Tracked 1 card from 1 candidate line.
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2026-07-15-we-re-increasing-the-character-limit-for-custom-instructions-in-chatgpt-plus-pro|Increased custom instructions limit]] · Enterprise and Administration
+- [[Changes/ChatGPT/2026-07-15-we-re-increasing-the-character-limit-for-custom-instructions-in-chatgpt-plus-pro|Increased custom instructions limit]] · Memory and Personalization
 <!-- chronolog:end -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f9897b85ca98e36f094a4e25ad8714d35f6474107afb5dbe95177e595c220556
+machine_hash: ee3074392945736afd5fbc988bb2bbb1892e40e7facd158660f065bd4355013f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-8-reliability-and-performance-changes-in-1-7|8 Reliability and Performance changes in 1.7]]
-- Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-improved-performance|Improved Performance]]
+- Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-2-reliability-and-performance-changes-in-2-0|2 Reliability and Performance changes in 2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

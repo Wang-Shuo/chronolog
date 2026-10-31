@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c6c14aed8e41bc819a72419fdc7c774aab62cd9d3291df8a09588abbb8e7f9a9
+machine_hash: 4e150196be227b5e559cd97f464991db8f6c0dd99dc8577e8c10058b1936ea3c
 product: cursor
 product_name: Cursor
 record:
@@ -62,6 +62,7 @@ related_changes:
   your work in ChatGPT Space]]'
 source_release: '[[Releases/Cursor/cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c|cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c]]'
 source_type: cursor_changelog
+superseded: true
 theme: collaboration
 title: Starting today, the marketplace is also open to public submissions, so any
   team…

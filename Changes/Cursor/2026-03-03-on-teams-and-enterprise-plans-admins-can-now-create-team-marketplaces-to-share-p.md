@@ -1,23 +1,24 @@
 ---
 card_id: cursor-2026-03-03-ba695c
 date: '2026-03-03'
-description: 'Cursor · 2026-03-03 · Enterprise and Administration: On Teams and Enterprise
-  plans, Admins can now create team marketplaces to share private plugins…'
+description: 'Cursor · 2026-03-03 · Apps and Integrations: On Teams and Enterprise
+  plans, Admins can now create team marketplaces to share private plugins internally.
+  Go to…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
-    users can only access stable release (no pre-release)]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 272
+  lag_days: 1076
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: enterprise-admin
+  theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4faf66319bd6ba5f374691e7a0cf72af4340b611b3e7ec5cf891ec6b0a8eac73
+machine_hash: decab52efea258ff97a6f36d388b48ecd6341cf894c7bf850370a860b5e8aa3f
 product: cursor
 product_name: Cursor
 record:
@@ -41,34 +42,19 @@ record:
   slug: team-marketplaces-for-plugins
   source_release: cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3
   source_type: cursor_changelog
-  theme: enterprise-admin
-  theme_matches:
-  - matched_terms:
-    - team
-    - teams
-    score: 100
-    theme: collaboration
-  - matched_terms:
-    - admins
-    - enterprise
-    score: 100
-    theme: enterprise-admin
-  - matched_terms:
-    - plugins
-    score: 50
-    theme: apps-integrations
-  theme_resolution: manual-semantic-rule-v1
+  theme: apps-integrations
   title: Team marketplaces for plugins
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-18-many-of-the-largest-software-companies-in-the-world-have-adopted-cursor-for-ente|Many
-  of the largest software companies in the world have adopted Cursor for Enterprise]]'
-- '[[Changes/Cursor/2026-01-22-cursor-blame|Cursor Blame]]'
-- '[[Changes/Cursor/2026-03-03-clearer-more-consistent-team-and-enterprise-policy-and-access-controls|Clearer,
-  more consistent team and enterprise policy and access controls]]'
+- '[[Changes/Claude Code/2026-02-28-added-enable-claudeai-mcp-servers-false-env-var-to-opt-out-from-making-claude-ai|Added
+  ENABLE_CLAUDEAI_MCP_SERVERS=false env var to opt out from making claude.ai…]]'
+- '[[Changes/Cursor/2026-03-03-3-apps-and-integrations-changes-in-2-6|3 Apps and Integrations
+  changes in 2.6]]'
+- '[[Changes/Cursor/2026-03-03-mcp-apps-support-interactive-user-interfaces-like-charts-from-amplitude-diagrams|MCP
+  Apps]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3]]'
 source_type: cursor_changelog
-theme: enterprise-admin
+theme: apps-integrations
 title: Team marketplaces for plugins
 type: change
 ---
@@ -76,7 +62,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Team marketplaces for plugins
 
-**Cursor** · 2026-03-03 · [[Themes/enterprise-admin|Enterprise and Administration]] · Launch · [Official source](https://cursor.com/changelog/2-6) · from [[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|MCP Apps and Team Marketplaces for Plugins]]
+**Cursor** · 2026-03-03 · [[Themes/apps-integrations|Apps and Integrations]] · Launch · [Official source](https://cursor.com/changelog/2-6) · from [[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|MCP Apps and Team Marketplaces for Plugins]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -103,16 +89,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Enterprise and Administration
+## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-cursor-blame|Cursor Blame]]
-- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-improved-macos-startup-for-claude-ai-enterprise-team-users-by-skipping-an-unnece|Improved macOS startup for Claude.ai enterprise/team users by skipping…]]
+- Earlier: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-added-enable-claudeai-mcp-servers-false-env-var-to-opt-out-from-making-claude-ai|Added ENABLE_CLAUDEAI_MCP_SERVERS=false env var to opt out from making claude.ai…]]
+- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-added-reload-plugins-command-to-activate-pending-plugin-changes-without-restarti|Added /reload-plugins command to activate pending plugin changes without restarting]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

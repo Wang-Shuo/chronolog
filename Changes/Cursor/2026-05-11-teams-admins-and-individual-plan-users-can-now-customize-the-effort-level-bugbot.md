@@ -5,10 +5,10 @@ description: 'Cursor · 2026-05-11 · Enterprise and Administration: Teams admin
   Individual plan users can now customize the effort level Bugbot uses for its PR
   reviews…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
-    users can only access stable release (no pre-release)]]'
+  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
+    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 341
+  lag_days: 782
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5d03e20759eae3bcc91b6480b3816b9f76c6b9b2b81e6884b2b75936d7e20122
+machine_hash: f9a40598f8e4eae090550ea6d68a6a27fdfe0a7a5dd58a0c4a2e61fa79e66d75
 product: cursor
 product_name: Cursor
 record:
@@ -41,15 +41,7 @@ record:
   source_release: cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617
   source_type: cursor_changelog
   theme: enterprise-admin
-  theme_matches:
-  - matched_terms:
-    - teams
-    score: 50
-    theme: collaboration
-  - matched_terms:
-    - admins
-    score: 50
-    theme: enterprise-admin
+  theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: Teams admins and Individual plan users can now customize the effort level
     Bugbot…
@@ -100,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
+- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

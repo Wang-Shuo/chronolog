@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b54dd0840904aae8d77981266dc9963fa09f6636e579efe19fd47a1964eeb34f
+machine_hash: 5aa8607e3a244c41bea55577f656351d6743239ec699a58a0c5a26027ef687c6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,16 +60,6 @@ record:
   source_release: chatgpt-2026-05-07-trusted-contact-in-chatgpt-941ecbdd
   source_type: chatgpt_changelog
   theme: safety-privacy
-  theme_matches:
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
-  - matched_terms:
-    - safety
-    score: 50
-    theme: safety-privacy
-  theme_resolution: manual-semantic-rule-v1
   title: Trusted contact in ChatGPT
   type: change
 related_changes:

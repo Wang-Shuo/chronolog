@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 45ba34a1b55cfc5dd7e6e32050c0dd6be2c9cc1f6915d139a3e0aeda5fa34ad8
+machine_hash: 767c2b64efba5845708dfbda43625011620c13b35ad4f4963a1d856ea325a161
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,8 +57,8 @@ record:
   title: Added projected context cost (per-turn and per-invocation token estimates)…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-09-fixed-false-bash-permission-prompts-for-cut-d-paste-d-column-s-awk-print-1-file|Fixed
-  false Bash permission prompts for cut -d /, paste -d /, column -s /…]]'
+- '[[Changes/ChatGPT/2026-04-09-you-can-upgrade-switch-or-cancel-your-plan-from-settings-my-plan-or-from-the-pri|You
+  can upgrade, switch, or cancel your plan from Settings  My Plan or…]]'
 - '[[Changes/Claude Code/2026-04-22-opentelemetry-user-prompt-events-now-include-command-name-and-command-source-for|OpenTelemetry:
   user_prompt events now include command_name and command_source…]]'
 - '[[Changes/Cursor/2026-05-11-customers-must-be-on-usage-based-billing-for-bugbot-to-customize-effort-levels-l|Customers

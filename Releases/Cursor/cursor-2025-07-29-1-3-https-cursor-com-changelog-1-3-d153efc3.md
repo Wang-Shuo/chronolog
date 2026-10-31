@@ -3,7 +3,7 @@ changes_count: 11
 date: '2025-07-29'
 description: 'Cursor release Shared terminal with Agent, context usage in chat, and
   faster edits on 2025-07-29: 11 tracked changes across Agent Mode, Reliability and…'
-machine_hash: 9b31757c9ca5019a3309bbbd5e3343de4d0060a380d0e4ab957963f6e1d39c74
+machine_hash: aaf921c51788dfe1bf909ac1eb94cbf960590957be11bc0a9ddfac2b44422c21
 product: cursor
 product_name: Cursor
 record:
@@ -52,6 +52,6 @@ Tracked 11 cards from 24 candidate lines.
 - [[Changes/Cursor/2025-07-29-2-safety-and-privacy-changes-in-1-3|2 Safety and Privacy changes in 1.3]] · Safety and Privacy · Digest
 - [[Changes/Cursor/2025-07-29-2-reliability-and-performance-changes-in-1-3|2 Reliability and Performance changes in 1.3]] · Reliability and Performance · Digest
 - [[Changes/Cursor/2025-07-29-2-developer-workflow-changes-in-1-3|2 Developer Workflow changes in 1.3]] · Developer Workflow · Digest
-- [[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow team admins to configure an extension allowlist]] · Collaboration
+- [[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow team admins to configure an extension allowlist]] · Enterprise and Administration
 - [[Changes/Cursor/2025-07-29-3-other-changes-in-1-3|3 other changes in 1.3]] · Other changes · Digest
 <!-- chronolog:end -->

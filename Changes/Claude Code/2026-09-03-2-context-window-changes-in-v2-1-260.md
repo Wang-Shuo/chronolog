@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9145aaf9e98df74dc763da5fe97a4388e256154cb2c8315ae1cf05edc9d05f75
+machine_hash: a73ee355acd11daa2584cdc20600d846794ff2c93933cdee0b20e57633bd7dc5
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   retry when the model''s tool call is malformed]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
 source_type: github_releases
+superseded: true
 theme: context-window
 title: 2 Context Window changes in v2.1.260
 type: change

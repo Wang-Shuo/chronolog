@@ -1,23 +1,23 @@
 ---
 card_id: cursor-2026-04-02-eaa46c
 date: '2026-04-02'
-description: 'Cursor · 2026-04-02 · Memory and Personalization: Large-file diff rendering
+description: 'Cursor · 2026-04-02 · Reliability and Performance: Large-file diff rendering
   is now much faster, smoother, and less memory-heavy.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
-    instructions are rolling out in beta]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 987
+  lag_days: 1204
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: memory
+  theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 394f460ea6399a21bf8a2214fcdeb7d7b82948e08503893cc57f3e73c834f0e4
+machine_hash: 0e00a6c4a9fdc4c26bacb52884ac571d4e85895e611204ce276ce1e6759bb120
 product: cursor
 product_name: Cursor
 record:
@@ -37,7 +37,7 @@ record:
   slug: large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy
   source_release: cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad
   source_type: cursor_changelog
-  theme: memory
+  theme: reliability-performance
   theme_matches:
   - matched_terms:
     - memory
@@ -47,18 +47,19 @@ record:
     - faster
     score: 50
     theme: reliability-performance
+  theme_resolution: manual-semantic-rule-v2
   title: Large-file diff rendering is now much faster, smoother, and less memory-heavy
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-12-2-memory-and-personalization-changes-in-v2-1-74|2
-  Memory and Personalization changes in v2.1.74]]'
-- '[[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|Sunsetting
-  the “Nerdy” base style]]'
-- '[[Changes/Claude Code/2026-03-27-memory-filenames-in-the-saved-n-memories-notice-now-highlight-on-hover-and-open|Memory
-  filenames in the "Saved N memories" notice now highlight on hover and open on click]]'
+- '[[Changes/Claude Code/2026-03-26-improved-scroll-performance-with-large-transcripts-by-replacing-wasm-yoga-layout|Improved
+  scroll performance with large transcripts by replacing WASM yoga-layout…]]'
+- '[[Changes/Claude Code/2026-04-01-2-reliability-and-performance-changes-in-v2-1-90|2
+  Reliability and Performance changes in v2.1.90]]'
+- '[[Changes/Claude Code/2026-04-02-improved-performance-faster-stripansi-on-bun-by-routing-through-bun-stripansi|Improved
+  performance: faster stripAnsi on Bun by routing through Bun.stripANSI]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'
 source_type: cursor_changelog
-theme: memory
+theme: reliability-performance
 title: Large-file diff rendering is now much faster, smoother, and less memory-heavy
 type: change
 ---
@@ -66,7 +67,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Large-file diff rendering is now much faster, smoother, and less memory-heavy
 
-**Cursor** · 2026-04-02 · [[Themes/memory|Memory and Personalization]] · [Official source](https://cursor.com/changelog/3-0) · from [[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|New Cursor Interface]]
+**Cursor** · 2026-04-02 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://cursor.com/changelog/3-0) · from [[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|New Cursor Interface]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -94,16 +95,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Memory and Personalization
+## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-memory-filenames-in-the-saved-n-memories-notice-now-highlight-on-hover-and-open|Memory filenames in the "Saved N memories" notice now highlight on hover and open on click]]
-- Later: 2026-04-22 · ChatGPT · [[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|Fast answers in ChatGPT]]
+- Earlier: 2026-04-02 · Claude Code · [[Changes/Claude Code/2026-04-02-improved-performance-faster-stripansi-on-bun-by-routing-through-bun-stripansi|Improved performance: faster stripAnsi on Bun by routing through Bun.stripANSI]]
+- Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-improved-write-tool-diff-computation-speed-for-large-files-60-faster-on-files-wi|Improved Write tool diff computation speed for large files…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

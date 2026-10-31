@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 32ab88b7ab832483ab787195d350d7aaa495756ed2c6fe19e0eb2905cb192d6b
+machine_hash: f1f5c5acbf7ee15001cad30718fb5beb990ff4aa41ae4a01c93f72bdced7ea2c
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Reliability and Performance changes in v2.1.79
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-11-improved-ide-detection-speed-at-startup|Improved
-  IDE detection speed at startup]]'
-- '[[Changes/Claude Code/2026-03-17-faster-resume-on-fork-heavy-and-very-large-sessions-up-to-45-faster-loading-and|Faster
-  --resume on fork-heavy and very large sessions]]'
+- '[[Changes/Claude Code/2026-03-12-added-actionable-suggestions-to-context-command-identifies-context-heavy-tools-m|Added
+  actionable suggestions to /context command]]'
+- '[[Changes/Claude Code/2026-03-17-2-reliability-and-performance-changes-in-v2-1-77|2
+  Reliability and Performance changes in v2.1.77]]'
 - '[[Changes/Claude Code/2026-03-17-improved-memory-usage-and-startup-time-when-resuming-large-sessions|Improved
   memory usage and startup time when resuming large sessions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd|claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd]]'

@@ -4,19 +4,19 @@ date: '2026-05-11'
 description: 'Cursor · 2026-05-11 · Collaboration: Cursor is now available in Microsoft
   Teams.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams
-    can also share private docs]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 976
+  lag_days: 1083
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: incremental
-machine_hash: 6aae188c21943302ea7a2145a39a2d3a450ac63f806d51613e6be2bbaaa466d3
+kind: launch
+machine_hash: f2fa53ef3b8c9524b474cd73569c2cce3e59b2d520a5e1a3fde8867ffb163874
 product: cursor
 product_name: Cursor
 record:
@@ -28,8 +28,9 @@ record:
   evidence:
   - quote: Cursor is now available in Microsoft Teams.
     source_release: https://cursor.com/changelog/microsoft-teams
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: incremental
+  kind: launch
   product: cursor
   product_name: Cursor
   slug: cursor-is-now-available-in-microsoft-teams
@@ -39,15 +40,14 @@ record:
   title: Cursor is now available in Microsoft Teams
   type: change
 related_changes:
+- '[[Changes/Cursor/2026-04-08-redesigned-bugbot-settings-and-split-personal-and-team-settings-into-clearer-sec|Redesigned
+  Bugbot settings, and split personal and team settings into clearer sections]]'
 - '[[Changes/Claude Code/2026-04-10-added-team-onboarding-command-to-generate-a-teammate-ramp-up-guide-from-your-loc|Added
   /team-onboarding command to generate a teammate ramp-up guide…]]'
-- '[[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a|Admins
+- '[[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a-b1834a|Admins
   can now create a team marketplace without connecting a repository first]]'
-- '[[Changes/Cursor/2026-05-04-customers-with-existing-blocklists-will-need-to-migrate-to-the-new-system-by-jun|Customers
-  with existing blocklists will need to migrate to the new system by June 1st]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4|cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4]]'
 source_type: cursor_changelog
-superseded: true
 theme: collaboration
 title: Cursor is now available in Microsoft Teams
 type: change
@@ -56,7 +56,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Cursor is now available in Microsoft Teams
 
-**Cursor** · 2026-05-11 · [[Themes/collaboration|Collaboration]] · [Official source](https://cursor.com/changelog/microsoft-teams) · from [[Releases/Cursor/cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4|Cursor in Microsoft Teams]]
+**Cursor** · 2026-05-11 · [[Themes/collaboration|Collaboration]] · Launch · [Official source](https://cursor.com/changelog/microsoft-teams) · from [[Releases/Cursor/cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4|Cursor in Microsoft Teams]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -68,22 +68,21 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cursor/2026-05-11-mention-cursor-in-any-teams-channel-to-delegate-a-task-to-a-cloud-agent-or-pull|Mention @Cursor in any Teams channel to delegate a task to a cloud agent or pull…]] · Agent Mode
-- [[Changes/Cursor/2026-05-11-cursor-automatically-picks-the-right-repository-and-model-based-on-your-prompt-a|Cursor automatically picks the right repository and model based on your prompt…]] · Context Window
+- [[Changes/Cursor/2026-05-11-mention-cursor-in-any-teams-channel-to-delegate-a-task-to-a-cloud-agent-or-pull-d30c31|Mention @Cursor in any Teams channel to delegate a task to a cloud agent or pull…]] · Agent Mode
 - [[Changes/Cursor/2026-05-11-get-started-by-installing-the-integration-in-the-cursor-dashboard-learn-more-in|Get started by installing the integration in the Cursor dashboard]] · Apps and Integrations
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-05-04 · Cursor · [[Changes/Cursor/2026-05-04-customers-with-existing-blocklists-will-need-to-migrate-to-the-new-system-by-jun|Customers with existing blocklists will need to migrate to the new system by June 1st]]
-- Later: 2026-05-20 · Cursor · [[Changes/Cursor/2026-05-20-you-can-now-share-canvases-from-cursor-with-your-teammates|Share canvases from Cursor with your teammates]]
+- Earlier: 2026-05-01 · Cursor · [[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a-b1834a|Admins can now create a team marketplace without connecting a repository first]]
+- Later: 2026-05-20 · Cursor · [[Changes/Cursor/2026-05-20-shared-canvases-a27a45|Shared canvases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-teams-can-also-share-private-docs|Teams can also share private docs]]
+- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

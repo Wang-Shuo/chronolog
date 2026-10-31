@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 582706df8fa3e6530b4fdc793e511005fbc561efd50af00e57b48389451e799f
+machine_hash: 3552208d191bef4ded7fd094c713ae6d27e6638cb4bae67940dc54228ae88b15
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,8 +48,8 @@ record:
   title: 3 Safety and Privacy changes in v2.1.210
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-08-background-task-notifications-now-explicitly-state-that-no-human-input-has-occur|Background
-  task notifications now explicitly state that no human input has occurred…]]'
+- '[[Changes/ChatGPT/2026-07-09-on-desktop-work-can-use-local-files-and-desktop-apps-with-your-permission-the-bu-1e4d11|On
+  desktop, Work can use local files and desktop apps with your permission]]'
 - '[[Changes/Claude Code/2026-07-10-fixed-permission-prompt-tool-pointing-at-an-mcp-server-crashing-with-mcp-tool-no|Fixed
   --permission-prompt-tool pointing at an MCP server crashing…]]'
 - '[[Changes/Claude Code/2026-07-11-2-safety-and-privacy-changes-in-v2-1-207|2 Safety

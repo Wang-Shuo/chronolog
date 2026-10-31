@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6be36eafdb3d2a924090bc72655bf120a1e37558d2dbf1cc4bf7899050d4261c
+machine_hash: a03656040879a1b0274d2aa3e6b317af99aa976bb5f47339ed71e855ba82a1f7
 product: cursor
 product_name: Cursor
 record:
@@ -77,7 +77,7 @@ Source: https://cursor.com/changelog/1-2
 - [[Changes/Cursor/2025-07-03-chat-rendering-bugs-resolved-toolcall-display-overflow-issues|Chat rendering bugs resolved (toolcall display, overflow issues)]] · Interface Experience
 - [[Changes/Cursor/2025-07-03-memories-is-now-ga-since-1-0-we-ve-improved-memory-generation-quality-added-in-e|Memories (now GA)]] · Memory and Personalization
 - [[Changes/Cursor/2025-07-03-let-agent-resolve-merge-conflicts|Let Agent resolve merge conflicts]] · Agent Mode
-- [[Changes/Cursor/2025-07-03-faster-tab|Faster Tab]] · Memory and Personalization
+- [[Changes/Cursor/2025-07-03-faster-tab|Faster Tab]] · Reliability and Performance
 - [[Changes/Cursor/2025-07-03-agent-to-dos-3ffa24|Agent To-dos]] · Agent Mode
 - [[Changes/Cursor/2025-07-03-2-apps-and-integrations-changes-in-1-2|2 Apps and Integrations changes in 1.2]] · Apps and Integrations
 - [[Changes/Cursor/2025-07-03-you-can-now-queue-follow-up-messages-for-agent-once-it-s-done-with-current-task|Queued messages]] · Agent Mode

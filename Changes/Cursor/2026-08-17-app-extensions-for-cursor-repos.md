@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e35ca8c8b65b8d532a5deacebafadb9bbcd079535bb165b6ab6dcb987dbbd57f
+machine_hash: 61db803c97a7b3e63fd71f84c28ee6fa41a6fdb06a9c7e7a529db9ed754c4a65
 product: cursor
 product_name: Cursor
 record:
@@ -54,8 +54,8 @@ related_changes:
   Apps and Integrations changes in v2.1.232]]'
 - '[[Changes/Claude Code/2026-08-14-2-apps-and-integrations-changes-in-v2-1-233|2
   Apps and Integrations changes in v2.1.233]]'
-- '[[Changes/Claude Code/2026-08-17-2-apps-and-integrations-changes-in-v2-1-234|2
-  Apps and Integrations changes in v2.1.234]]'
+- '[[Changes/Claude Code/2026-08-17-remote-control-signing-this-computer-in-to-a-different-claude-ai-account-or-orga|Remote
+  Control: signing this computer in to a different claude.ai account…]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-17-origin-code-hosting-https-cursor-com-changelog-origin-code-hosti-ed3a9195|cursor-2026-08-17-origin-code-hosting-https-cursor-com-changelog-origin-code-hosti-ed3a9195]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-2-apps-and-integrations-changes-in-v2-1-234|2 Apps and Integrations changes in v2.1.234]]
+- Earlier: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-remote-control-signing-this-computer-in-to-a-different-claude-ai-account-or-orga|Remote Control: signing this computer in to a different claude.ai account…]]
 - Later: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-sigterm-in-print-sdk-mode-no-longer-records-an-interrupted-turn-or-synthetic-too|SIGTERM in print/SDK mode no longer records an interrupted turn or synthetic tool…]]
 <!-- chronolog:end -->
 

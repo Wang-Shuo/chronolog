@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 30ead78f75348fa7c90535f2be6d6780448ebc6bdcbbb5617eb136b5611e8d53
+machine_hash: 75b58223b3c85a3750a80d2bcbcd485a536a3dc1444885bbdf3bc3a05c110c0d
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   Experience changes in v2.1.161]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c|claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c]]'
 source_type: github_releases
+superseded: true
 theme: interface-experience
 title: 2 Interface Experience changes in v2.1.162
 type: change

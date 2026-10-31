@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d4dfaac9e17bf6c61c4099bd45d5034dee57b17491bb6e3f5d6c5e3154ffa3a5
+machine_hash: 551e6c2730945be068d6909c41b80e9453534077d6dca4fa4320fa080a2ac3db
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,20 +41,6 @@ record:
   source_release: claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc
   source_type: github_releases
   theme: account-access
-  theme_matches:
-  - matched_terms:
-    - sign in
-    score: 60
-    theme: account-access
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
-  - matched_terms:
-    - enterprise
-    score: 50
-    theme: enterprise-admin
-  theme_resolution: manual-semantic-rule-v1
   title: Changed Team and Enterprise sessions, and sessions whose sign-in plan Claude
     Code…
   type: change
@@ -89,7 +75,7 @@ type: change
 ## Also in this release
 
 - [[Changes/Claude Code/2026-09-29-2-context-window-changes-in-v2-1-285|2 Context Window changes in v2.1.285]] · Context Window
-- [[Changes/Claude Code/2026-09-29-claude-tag-added-direct-messages-with-claude-for-members-on-an-enterprise-plan-s|Claude Tag Added direct messages with Claude for members on an Enterprise plan…]] · Enterprise and Administration
+- [[Changes/Claude Code/2026-09-29-claude-tag-added-direct-messages-with-claude-for-members-on-an-enterprise-plan-s|Claude Tag Added direct messages with Claude for members on an Enterprise plan…]] · Pricing Model
 - [[Changes/Claude Code/2026-09-29-6-mobile-and-desktop-changes-in-v2-1-285|6 Mobile and Desktop changes in v2.1.285]] · Mobile and Desktop
 - [[Changes/Claude Code/2026-09-29-improved-responsiveness-when-leaving-the-ctrl-o-transcript-view-in-long-sessions|Improved responsiveness when leaving the ctrl+o transcript view in long sessions…]] · Interface Experience
 - [[Changes/Claude Code/2026-09-29-3-model-support-changes-in-v2-1-285|3 Model Support changes in v2.1.285]] · Model Support

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c97a28631a7794a686b35b6cd32da887f1900119db3ca35f8fd5c24af6b9fafb
+machine_hash: 2289f6d869c90ba940b3ce4487216891edd90b2b2d1d70bb0be0573bbd945ee2
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
     system…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-20-the-stream-stall-hint-now-reads-waiting-for-api-response-will-retry-in-instead-o|The
-  stream-stall hint now reads "Waiting for API response · will retry in …" instead…]]'
+- '[[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced
+  long-session memory growth from terminal output cache]]'
 - '[[Changes/Claude Code/2026-06-25-added-automatic-memory-pressure-reaping-for-idle-background-shell-commands-disab|Added
   automatic memory-pressure reaping for idle background shell commands…]]'
 - '[[Changes/Claude Code/2026-07-02-2-reliability-and-performance-changes-in-v2-1-199|2

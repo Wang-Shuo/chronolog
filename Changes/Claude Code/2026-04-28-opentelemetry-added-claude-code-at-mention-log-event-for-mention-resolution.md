@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9ccf03ca78b22851fb3b4c966b4fae8d0f5feeca7ba566d0c21c2c62789b847a
+machine_hash: 3d6c2e9f635c2ff84a58c278c2779be24885d5aa2cebaac7ef487d2e122b54fd
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
 related_changes:
 - '[[Changes/Claude Code/2026-04-22-2-developer-workflow-changes-in-v2-1-117|2 Developer
   Workflow changes in v2.1.117]]'
+- '[[Changes/Claude Code/2026-04-23-4-developer-workflow-changes-in-v2-1-119|4 Developer
+  Workflow changes in v2.1.119]]'
 - '[[Changes/Claude Code/2026-04-23-wsl-on-windows-can-now-inherit-windows-side-managed-settings-via-the-wslinherits|WSL
   on Windows can now inherit Windows-side managed settings…]]'
-- '[[Changes/Claude Code/2026-04-23-3-developer-workflow-changes-in-v2-1-119|3 Developer
-  Workflow changes in v2.1.119]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196|claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196]]'
 source_type: github_releases
 theme: developer-workflow
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-3-developer-workflow-changes-in-v2-1-119|3 Developer Workflow changes in v2.1.119]]
+- Earlier: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-wsl-on-windows-can-now-inherit-windows-side-managed-settings-via-the-wslinherits|WSL on Windows can now inherit Windows-side managed settings…]]
 - Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-4-developer-workflow-changes-in-v2-1-121|4 Developer Workflow changes in v2.1.121]]
 <!-- chronolog:end -->
 

@@ -24,9 +24,13 @@ themes:
     aliases: [editor, autocomplete, completion, ide, tab, inline-edit, code-edit, cmd-k, copilot-plus-plus, cursor-prediction]
     category: workflow
     status: official
+  # context_aliases name a plan, platform or audience: who or where a change reaches,
+  # not what it is about. They count only when no other theme matches the line, so
+  # "rolling out to Plus and Team users on iOS" does not decide the theme.
   - slug: collaboration
     display_name: Collaboration
-    aliases: [team, teams, collaboration, sharing, multiplayer]
+    aliases: [collaboration, sharing, multiplayer]
+    context_aliases: [team, teams]
     category: workflow
     status: official
   - slug: multimodal
@@ -42,6 +46,9 @@ themes:
   - slug: memory
     display_name: Memory and Personalization
     aliases: [memory, memories, personalization, custom-instructions, personality]
+    # In these developer tools' changelogs a bare "memory" is RAM; the theme needs a
+    # product-memory context (memories, auto-memory, /memory, memory files, …).
+    resource_sense_products: [claude-code, cursor]
     category: capability
     status: official
   - slug: image-generation
@@ -56,7 +63,8 @@ themes:
     status: official
   - slug: apps-integrations
     display_name: Apps and Integrations
-    aliases: [apps, app-directory, connectors, connector, plugins, plugin, integration, integrations, mcp]
+    aliases: [app-directory, connectors, connector, plugins, plugin, integration, integrations, mcp]
+    context_aliases: [apps]
     category: ecosystem
     status: official
   - slug: safety-privacy
@@ -66,12 +74,14 @@ themes:
     status: official
   - slug: enterprise-admin
     display_name: Enterprise and Administration
-    aliases: [enterprise, administrator, admins, admin-controls, workspace-controls, business-plan, education-plan]
+    aliases: [administrator, admins, admin-controls, workspace-controls]
+    context_aliases: [enterprise, business-plan, education-plan]
     category: business
     status: official
   - slug: mobile-desktop
     display_name: Mobile and Desktop
-    aliases: [mobile, desktop, ios, android, macos, windows-desktop, ipad, iphone, whatsapp, carplay]
+    aliases: [windows-desktop, whatsapp, carplay]
+    context_aliases: [mobile, desktop, ios, android, macos, ipad, iphone]
     category: platform
     status: official
   - slug: interface-experience

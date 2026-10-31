@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 898cf32ccc8f4e553c31d2c8a76a466accc50786bd6fd9a7e965472d1de0d9fc
+machine_hash: a1fe7c9f2f533f3185da4109dac02f2834809fa5dcf66e138f2d470bdbac463a
 product: cursor
 product_name: Cursor
 record:
@@ -40,12 +40,12 @@ record:
   title: Admin API for teams to access usage metrics and spend data
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-  improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+- '[[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|Use
+  ChatGPT alongside your team]]'
 - '[[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer
   is now default-on and available to all Pro/Business users by hitting cmd+I]]'
-- '[[Changes/Cursor/2025-03-23-2-collaboration-changes-in-0-48-x|2 Collaboration changes
-  in 0.48.x]]'
+- '[[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved
+  indexing performance for teams sharing codebases]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-2-collaboration-changes-in-0-48-x|2 Collaboration changes in 0.48.x]]
+- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved indexing performance for teams sharing codebases]]
 - Later: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-sharing-chats-from-projects|Sharing chats from projects]]
 <!-- chronolog:end -->
 

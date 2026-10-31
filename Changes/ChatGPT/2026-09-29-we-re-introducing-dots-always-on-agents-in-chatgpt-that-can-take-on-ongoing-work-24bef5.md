@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f5cd5da0182336ac2b586ee31ddd7fcd6292f01ef8eecf98722d71d721fb38a4
+machine_hash: e0d315ef4313af19e1a955f639782ff0a8799366bac7f2c326d5a877eda694d4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,15 +49,7 @@ record:
   source_release: chatgpt-2026-09-29-meet-your-dot-8b9f914b
   source_type: chatgpt_changelog
   theme: agent-mode
-  theme_matches:
-  - matched_terms:
-    - agents
-    score: 50
-    theme: agent-mode
-  - matched_terms:
-    - apps
-    score: 50
-    theme: apps-integrations
+  theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: ChatGPT introduces dots
   type: change

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dfb58c11e23c18538b94f870db79c629e612550faadfc3f4718cd81d3dadd05d
+machine_hash: 72ef586a0793568c7acd16cf36dd8ddfe323d1fabc193985ccaebc2952632e22
 product: claude-code
 product_name: Claude Code
 record:
@@ -40,16 +40,6 @@ record:
   source_release: claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99
   source_type: github_releases
   theme: agent-mode
-  theme_matches:
-  - matched_terms:
-    - agents
-    - subagent
-    score: 100
-    theme: agent-mode
-  - matched_terms:
-    - teams
-    score: 50
-    theme: collaboration
   title: Changed the `/claude-api` skill to build Managed Agents subagent teams…
   type: change
 related_changes:

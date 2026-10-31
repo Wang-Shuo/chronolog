@@ -3,13 +3,18 @@ import * as Plugin from "./quartz/plugins"
 import { ActiveChronolog } from "./_scripts/publication_filter"
 import { ChronologFeed } from "./_scripts/feed"
 import ChronologFolderContent from "./_scripts/folder_content"
+import { ChronologStatic } from "./_scripts/static_assets"
+
+// Page views are counted only when the build sets CHRONOLOG_GOATCOUNTER_CODE (the site
+// code of <code>.goatcounter.com; cookie-free). Without it no analytics script is emitted.
+const goatcounter = process.env.CHRONOLOG_GOATCOUNTER_CODE
 
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "ChronoLog",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: goatcounter ? { provider: "goatcounter", websiteId: goatcounter } : null,
     locale: "en-US",
     baseUrl: process.env.CHRONOLOG_BASE_URL ?? "localhost:8080",
     ignorePatterns: [
@@ -70,7 +75,8 @@ const config: QuartzConfig = {
       Plugin.SyntaxHighlighting(),
       // Source quotes can contain #Heading fragments; taxonomy comes from frontmatter.
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false, parseTags: false }),
-      Plugin.GitHubFlavoredMarkdown(),
+      // Quotes are verbatim source text: SmartyPants would turn `--flag` into `—flag`.
+      Plugin.GitHubFlavoredMarkdown({ enableSmartyPants: false }),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest", prettyLinks: false }),
       Plugin.Description(),
@@ -87,7 +93,7 @@ const config: QuartzConfig = {
       Plugin.ContentIndex({ enableSiteMap: true, enableRSS: false }),
       ChronologFeed(),
       Plugin.Assets(),
-      Plugin.Static(),
+      ChronologStatic(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
     ],

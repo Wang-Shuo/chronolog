@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f30f5ed6df4273dac12c1d4d354be031bdda4ee7d1214c0b15bf0a61a555442f
+machine_hash: fd42b4b3f58aeed092163fec18809ada2f0a80cdfae0d98055b47481b897fcf1
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     pressure
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-22-windows-cached-where-exe-executable-lookups-per-process-for-faster-subprocess-la|Windows:
-  cached where.exe executable lookups per process for faster subprocess launches]]'
+- '[[Changes/Claude Code/2026-04-22-2-reliability-and-performance-changes-in-v2-1-117|2
+  Reliability and Performance changes in v2.1.117]]'
 - '[[Changes/Claude Code/2026-04-28-faster-startup-after-upgrading-removed-the-recent-activity-panel-from-the-releas|Faster
   startup after upgrading]]'
 - '[[Changes/Claude Code/2026-05-06-updated-the-tui-fullscreen-startup-banner-to-describe-additional-renderer-benefi|Updated

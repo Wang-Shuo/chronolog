@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dc4614e992191ef700d54040f6f92ad5193a345345ba5561d23e08c829357470
+machine_hash: 434fdc5086e3c756f7e9696627dd66fc0f8e1e75654eb78004b4c605bab078fb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -74,12 +74,12 @@ record:
   title: Shopping updates in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-16-added-webfetch-websearch-tools-approval-options-for-granular-controls-over-web-s|Added
-  WebFetch, WebSearch tools, & approval options for granular controls over web…]]'
 - '[[Changes/ChatGPT/2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results|Open
   search results in a new tab]]'
 - '[[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|Legacy
   deep research mode deprecation notice]]'
+- '[[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|File
+  Library in ChatGPT]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-24-shopping-updates-in-chatgpt-4ca736aa|chatgpt-2026-03-24-shopping-updates-in-chatgpt-4ca736aa]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -106,7 +106,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-03-19 · ChatGPT · [[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|Legacy deep research mode deprecation notice]]
+- Earlier: 2026-03-23 · ChatGPT · [[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|File Library in ChatGPT]]
 - Later: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-past-chat-transcripts-are-now-surfaced-directly-in-at-mention-search-results|Past chat transcripts are now surfaced directly in at-mention search results]]
 <!-- chronolog:end -->
 

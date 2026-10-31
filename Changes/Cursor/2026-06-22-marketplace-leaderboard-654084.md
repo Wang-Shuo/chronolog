@@ -1,22 +1,23 @@
 ---
 card_id: cursor-2026-06-22-654084
 date: '2026-06-22'
-description: 'Cursor · 2026-06-22 · Collaboration: Cursor now shows you a leaderboard
-  of the most popular plugins, skills, and MCPs across your team.'
+description: 'Cursor · 2026-06-22 · Apps and Integrations: Cursor now shows you a
+  leaderboard of the most popular plugins, skills, and MCPs across your team.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1125
+  lag_days: 1187
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: collaboration
+  theme: apps-integrations
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a010d6b894d856ea5fb1a9da919b43f87c2c596899a941fbc29a8eb2cb7fd78d
+machine_hash: bed092be3563601f78f29e4a7ffab83740aac366c483916692f0498d00c9c66d
 product: cursor
 product_name: Cursor
 record:
@@ -40,28 +41,19 @@ record:
   slug: marketplace-leaderboard
   source_release: cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2
   source_type: cursor_changelog
-  theme: collaboration
-  theme_matches:
-  - matched_terms:
-    - plugins
-    score: 50
-    theme: apps-integrations
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
-  theme_resolution: manual-semantic-rule-v1
+  theme: apps-integrations
   title: Marketplace leaderboard
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an|With
-  canvases, agents can create interactive artifacts like dashboards, reports…]]'
-- '[[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World
-  Cup updates]]'
-- '[[Changes/Cursor/2026-06-22-new-team-marketplaces|New Team Marketplaces]]'
+- '[[Changes/Claude Code/2026-06-19-added-attribution-sessionurl-setting-to-omit-the-claude-ai-session-link-from-com|Added
+  attribution.sessionUrl setting to omit the claude.ai session link…]]'
+- '[[Changes/Claude Code/2026-06-22-2-apps-and-integrations-changes-in-v2-1-186|2
+  Apps and Integrations changes in v2.1.186]]'
+- '[[Changes/Cursor/2026-06-22-plugins-skills-and-mcps-let-you-customize-cursor-for-your-workflows-the-new-cust-241c4b|Plugins,
+  skills, and MCPs let you customize Cursor for your workflows]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2|cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2]]'
 source_type: cursor_changelog
-theme: collaboration
+theme: apps-integrations
 title: Marketplace leaderboard
 type: change
 ---
@@ -69,7 +61,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Marketplace leaderboard
 
-**Cursor** · 2026-06-22 · [[Themes/collaboration|Collaboration]] · Launch · [Official source](https://cursor.com/changelog/customize) · from [[Releases/Cursor/cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2|Customize Cursor]]
+**Cursor** · 2026-06-22 · [[Themes/apps-integrations|Apps and Integrations]] · Launch · [Official source](https://cursor.com/changelog/customize) · from [[Releases/Cursor/cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2|Customize Cursor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -89,16 +81,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Collaboration
+## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World Cup updates]]
-- Later: 2026-06-30 · Cursor · [[Changes/Cursor/2026-06-30-team-mcps-in-team-marketplaces-27f9ef|Team MCPs in team marketplaces]]
+- Earlier: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-2-apps-and-integrations-changes-in-v2-1-186|2 Apps and Integrations changes in v2.1.186]]
+- Later: 2026-06-23 · Claude Code · [[Changes/Claude Code/2026-06-23-2-apps-and-integrations-changes-in-v2-1-187|2 Apps and Integrations changes in v2.1.187]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

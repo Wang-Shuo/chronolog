@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cab114a2c0227354688f5ce584624079bb8837f59eb7f076eded90b1a2058377
+machine_hash: f3ce2e4046be150990d95b5d29156c4001a2cb0418d8141c210e9d1b50a9e8da
 product: claude-code
 product_name: Claude Code
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-windows-powershell-tool-is-progressively-rolling-out-opt-in-or-out-with-claude-c|Windows: PowerShell tool is progressively rolling out]]
-- Later: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-native-builds-on-macos-and-linux-the-glob-and-grep-tools-are-replaced-by-embedde|Native builds on macOS and Linux]]
+- Later: 2026-04-29 · Cursor · [[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The agents that run in the Cursor desktop app, CLI, and web app are now accessible…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

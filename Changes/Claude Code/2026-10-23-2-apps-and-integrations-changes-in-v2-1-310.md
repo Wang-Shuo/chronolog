@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: faa960686b91dab33fec86186e919ea6877063a5b4a26e4715877abe03a85e8f
+machine_hash: 3f5eff6d98b72c6bd64ccd3fc5a87a767f9124a946a1d24b4bbfdcdebe0c9d4c
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,7 +47,7 @@ record:
   title: 2 Apps and Integrations changes in v2.1.310
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-20-3-apps-and-integrations-changes-in-v2-1-305|3
+- '[[Changes/Claude Code/2026-10-20-4-apps-and-integrations-changes-in-v2-1-305|4
   Apps and Integrations changes in v2.1.305]]'
 - '[[Changes/Claude Code/2026-10-21-3-apps-and-integrations-changes-in-v2-1-307|3
   Apps and Integrations changes in v2.1.307]]'
@@ -81,7 +81,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.310
 
 - [[Changes/Claude Code/2026-10-23-2-agent-mode-changes-in-v2-1-310|2 Agent Mode changes in v2.1.310]] · Agent Mode
 - [[Changes/Claude Code/2026-10-23-cloud-sessions-changed-the-cloud-environment-dialog-to-open-network-access-setup|Cloud sessions Changed the cloud environment dialog to open network access, setup…]] · Editor Experience
-- [[Changes/Claude Code/2026-10-23-improved-memory-use-of-non-interactive-sessions-p-agent-sdk-during-compaction-wh|Improved memory use of non-interactive sessions (-p, Agent SDK) during compaction…]] · Memory and Personalization
+- [[Changes/Claude Code/2026-10-23-improved-memory-use-of-non-interactive-sessions-p-agent-sdk-during-compaction-wh|Improved memory use of non-interactive sessions (-p, Agent SDK) during compaction…]] · Reliability and Performance
 - [[Changes/Claude Code/2026-10-23-cloud-sessions-added-claude-code-cloud-sessions-and-remote-control-permissions-t|Cloud sessions Added Claude Code cloud sessions and Remote Control permissions…]] · Enterprise and Administration
 - [[Changes/Claude Code/2026-10-23-4-safety-and-privacy-changes-in-v2-1-310|4 Safety and Privacy changes in v2.1.310]] · Safety and Privacy
 - [[Changes/Claude Code/2026-10-23-code-review-improved-the-code-review-admin-section-to-retry-the-first-load-and-s|Code Review Improved the Code Review admin section to retry the first load…]] · Developer Workflow

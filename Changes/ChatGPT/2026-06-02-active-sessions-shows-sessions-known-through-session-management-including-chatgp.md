@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 065f45367af1e88cfd400fe673487e31673bdd7dfcd3b4d461527cdfcaaa659b
+machine_hash: 8bc9f56b896e1ee2c7a8d36965268cd5fdb4b205a737b8811f746e496d4b9f01
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,16 +45,6 @@ record:
   source_release: chatgpt-2026-06-02-active-account-session-controls-0830d01c
   source_type: chatgpt_changelog
   theme: account-access
-  theme_matches:
-  - matched_terms:
-    - sign in
-    score: 60
-    theme: account-access
-  - matched_terms:
-    - apps
-    score: 50
-    theme: apps-integrations
-  theme_resolution: manual-semantic-rule-v1
   title: Active sessions shows sessions known through session management, including
     ChatGPT…
   type: change

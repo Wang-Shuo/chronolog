@@ -20,21 +20,34 @@ export const sharedPageComponents: SharedLayout = {
 }
 
 // Cards, releases and alerts are reached from product, theme and release pages; listing
-// thousands of leaves in the sidebar hides the entry points. filterFn is serialized with
-// toString() and run in the browser, so it must not reference anything outside itself.
+// thousands of leaves in the sidebar hides the entry points. filterFn and sortFn are
+// serialized with toString() and run in the browser, so they must not reference anything
+// outside themselves, nor define inner functions (the build wraps those in an undefined
+// __name helper). Folders come in reading order (Products, Themes, Archive) and months
+// newest first; month titles such as "April 2026" would otherwise sort by name.
 const explorer = () =>
   Component.Explorer({
     folderDefaultState: "open",
     filterFn: (node) => !["tags", "Changes", "Releases", "Alerts"].includes(node.slugSegment),
+    sortFn: (a, b) => {
+      if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1
+      const folders = ["Products", "Themes", "Archive"]
+      const rankA = folders.includes(a.slugSegment) ? folders.indexOf(a.slugSegment) : folders.length
+      const rankB = folders.includes(b.slugSegment) ? folders.indexOf(b.slugSegment) : folders.length
+      if (rankA !== rankB) return rankA - rankB
+      const month = /^\d{4}-\d{2}$/
+      if (month.test(a.slugSegment) && month.test(b.slugSegment)) {
+        return b.slugSegment.localeCompare(a.slugSegment)
+      }
+      return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
+    },
   })
 
-// The local graph is useful around a card or a theme; on aggregate pages it is noise.
+// The local graph is useful around a card. Around a theme it draws every card of the
+// theme (hundreds of nodes), and its canvas widened theme pages on phones.
 const graph = Component.ConditionalRender({
   component: Component.Graph(),
-  condition: (props) => {
-    const s = props.fileData.slug ?? ""
-    return s.startsWith("Changes/") || s.startsWith("Themes/")
-  },
+  condition: (props) => (props.fileData.slug ?? "").startsWith("Changes/"),
 })
 
 export const defaultContentPageLayout: PageLayout = {

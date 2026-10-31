@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b765e247c78b544aeab6f636b23b7e1f3e28c8fc131379606b16020b0ecd9193
+machine_hash: e55768c431a4d7e8b2d7d40a670691b2bb234b90a116858d2de3ecff13592ef9
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,6 +52,7 @@ related_changes:
   Workflow changes in v2.1.261]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405|claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Improved --worktree startup on large repositories
 type: change

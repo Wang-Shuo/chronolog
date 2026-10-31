@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 10cb6ad6bb6dd0a5131ba8e940eccf62a4358f9bcdebc208957006ccfa57814f
+machine_hash: 9ac818c0fd599a01de6bf3befbd65754601bec1ed2d020af3643404800dc1585
 product: cursor
 product_name: Cursor
 record:
@@ -45,9 +45,8 @@ record:
   title: New Team Marketplaces
   type: change
 related_changes:
+- '[[Changes/Cursor/2026-06-03-groups-are-a-lightweight-collection-of-users-that-can-sit-across-or-within-teams|Groups]]'
 - '[[Changes/Cursor/2026-06-03-teams|Teams]]'
-- '[[Changes/Cursor/2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an|With
-  canvases, agents can create interactive artifacts like dashboards, reports…]]'
 - '[[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World
   Cup updates]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2|cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2]]'
@@ -73,7 +72,7 @@ type: change
 ## Also in this release
 
 - [[Changes/Cursor/2026-06-22-plugins-skills-and-mcps-let-you-customize-cursor-for-your-workflows-the-new-cust-241c4b|Plugins, skills, and MCPs let you customize Cursor for your workflows]] · Apps and Integrations
-- [[Changes/Cursor/2026-06-22-marketplace-leaderboard-654084|Marketplace leaderboard]] · Collaboration
+- [[Changes/Cursor/2026-06-22-marketplace-leaderboard-654084|Marketplace leaderboard]] · Apps and Integrations
 - [[Changes/Cursor/2026-06-22-plugin-canvases|Plugin canvases]] · Apps and Integrations
 <!-- chronolog:end -->
 

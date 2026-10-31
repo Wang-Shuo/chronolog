@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 210f3c753b589c43f4a448c97345f86bd81c34ac9266039cb41ca36267e22b57
+machine_hash: 2d561d0b7720e0e373d3f5f7a19b1dba4aa3b0281b102b7e8d30b59ba8268d1d
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,8 @@ related_changes:
   started by installing the integration in the Cursor dashboard]]'
 - '[[Changes/Claude Code/2026-05-12-plugins-now-warn-when-a-default-component-folder-e-g-commands-is-silently-ignore|Plugins
   now warn when a default component folder (e.g. commands/) is silently…]]'
-- '[[Changes/Claude Code/2026-05-13-2-apps-and-integrations-changes-in-v2-1-141|2
-  Apps and Integrations changes in v2.1.141]]'
+- '[[Changes/Claude Code/2026-05-13-added-claude-code-plugin-prefer-https-to-clone-github-plugin-sources-over-https|Added
+  CLAUDE_CODE_PLUGIN_PREFER_HTTPS to clone GitHub plugin sources over HTTPS…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d|cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-2-apps-and-integrations-changes-in-v2-1-141|2 Apps and Integrations changes in v2.1.141]]
+- Earlier: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-added-claude-code-plugin-prefer-https-to-clone-github-plugin-sources-over-https|Added CLAUDE_CODE_PLUGIN_PREFER_HTTPS to clone GitHub plugin sources over HTTPS…]]
 - Later: 2026-05-14 · Claude Code · [[Changes/Claude Code/2026-05-14-3-apps-and-integrations-changes-in-v2-1-142|3 Apps and Integrations changes in v2.1.142]]
 <!-- chronolog:end -->
 

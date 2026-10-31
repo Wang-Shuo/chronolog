@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 277de16430448b9557e6209f3753479a1af36469dfca80aa95170d25a590a4fd
+machine_hash: a5ea0cec4007dfc00fdaac2fdce7db81a2c2e16c49927da9c2f127f384ccdb1c
 product: claude-code
 product_name: Claude Code
 record:
@@ -64,6 +64,7 @@ related_changes:
   and Desktop changes in v2.1.260]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519|claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519]]'
 source_type: github_releases
+superseded: true
 theme: mobile-desktop
 title: VSCode Added a hollow ring in the session list for sessions open in a terminal…
 type: change

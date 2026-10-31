@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ca246373779c637875cb29bd3aeb2c414cfc342bf25d761b8892514fc771cbfd
+machine_hash: d5338d433b897a9d297c8624c4bb6a13e918a61387e5c623f094e069f2391bd9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,12 +48,12 @@ record:
     create…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-29-cursor-for-ios-is-now-available-in-public-beta-on-all-paid-plans-launch-and-mana|Cursor
-  for iOS is now available in public beta on all paid plans]]'
+- '[[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|Improved
+  background session reliability]]'
 - '[[Changes/ChatGPT/2026-07-09-to-create-a-site-start-in-chatgpt-work-on-the-web-or-in-work-or-codex-in-the-cha|To
   create a Site, start in ChatGPT Work on the web or in Work or Codex…]]'
-- '[[Changes/ChatGPT/2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi-ae6433|The
-  new ChatGPT desktop app brings Chat, Work, and Codex together]]'
+- '[[Changes/ChatGPT/2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi|The
+  new ChatGPT desktop app is available globally for macOS and Windows]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-retiring-group-chats-in-chatgpt-b45b9e40|chatgpt-2026-07-09-retiring-group-chats-in-chatgpt-b45b9e40]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi-ae6433|The new ChatGPT desktop app brings Chat, Work, and Codex together]]
+- Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi|The new ChatGPT desktop app is available globally for macOS and Windows]]
 - Later: 2026-07-14 · ChatGPT · [[Changes/ChatGPT/2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327|Search across chats, projects, and files is now supercharged]]
 <!-- chronolog:end -->
 

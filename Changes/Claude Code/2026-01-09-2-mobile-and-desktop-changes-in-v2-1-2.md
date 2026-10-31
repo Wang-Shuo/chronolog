@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0364ccc6197018d8f759c3c61585e45a4731e75082327e85a170cc97bf743f44
+machine_hash: c336c8b6e04f5ad1d79000185d8bddd42a9edd17a0dbfedd3a96f098ce765688
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   appears as a new space in the ChatGPT sidebar]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-2-github-275344737-27089666|claude-code-2026-01-09-v2-1-2-github-275344737-27089666]]'
 source_type: github_releases
+superseded: true
 theme: mobile-desktop
 title: 2 Mobile and Desktop changes in v2.1.2
 type: change

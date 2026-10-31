@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e6041036f31fe207c242180056fdeed80acdfc28631653e2113b05ec8b874377
+machine_hash: 9979514c2f4157980e5fd9f7d44d3a8687237bffe26a3fa7142e61f31a8a4f0b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,29 +45,15 @@ record:
   source_release: chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3
   source_type: chatgpt_changelog
   theme: interface-experience
-  theme_matches:
-  - matched_terms:
-    - memory
-    - memories
-    score: 160
-    theme: memory
-  - matched_terms:
-    - android
-    - ios
-    score: 100
-    theme: mobile-desktop
-  - matched_terms:
-    - apps
-    score: 50
-    theme: apps-integrations
+  theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Memory improvements are starting to roll out to Free users
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-2-interface-experience-changes-in-0-48-x|2 Interface
-  Experience changes in 0.48.x]]'
 - '[[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|More
   accessible history]]'
+- '[[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a35dd7|Mobile
+  UI (iOS/Android) changing on Free/Plus/Pro plans]]'
 - '[[Changes/Cursor/2025-05-15-duplicate-chats|Duplicate Chats]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3|chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3]]'
 source_type: chatgpt_changelog

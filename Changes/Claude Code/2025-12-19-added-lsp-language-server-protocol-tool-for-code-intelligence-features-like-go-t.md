@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5c32ec9b98a850e29c12dada9ceb3ac3237f0665f7c1baf044eefdbee52b2f82
+machine_hash: 216dae89638a9da2b641fd7a0f40bcb9fc22ef01ee63ac9ac9dd71b7424d5bca
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,6 +49,7 @@ related_changes:
 - '[[Changes/Cursor/2025-12-10-debug-mode|Debug Mode]]'
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10|claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added LSP (Language Server Protocol) tool for code intelligence features like…
 type: change

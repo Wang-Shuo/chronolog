@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a25b00458912182bff4ad958aa247e21300f8819c94ec326058cc8ebc6ce4ad0
+machine_hash: d7c1daf190c3121fd9c9a6e637dff6f548b4b1f8d1b6ab613e3ca343dae91783
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -61,15 +61,7 @@ record:
   source_release: chatgpt-2026-05-15-personal-finances-in-chatgpt-028801eb
   source_type: chatgpt_changelog
   theme: file-data
-  theme_matches:
-  - matched_terms:
-    - context
-    score: 50
-    theme: context-window
-  - matched_terms:
-    - ios
-    score: 50
-    theme: mobile-desktop
+  theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Personal finances in ChatGPT
   type: change

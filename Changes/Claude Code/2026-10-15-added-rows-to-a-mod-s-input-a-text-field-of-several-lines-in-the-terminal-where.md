@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3884af47c884b7d152fb46188d0e8e9506ef17fb0b30b95f87cd871b21872f48
+machine_hash: 3bc6c1ac54f60337b359c80624d779e6391a92d0f9b62e64668bdd7198b355ba
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   Workflow changes in v2.1.299]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-15-v2-1-301-github-413913133-a3fb5b4e|claude-code-2026-10-15-v2-1-301-github-413913133-a3fb5b4e]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: Added rows to a mod's Input
 type: change

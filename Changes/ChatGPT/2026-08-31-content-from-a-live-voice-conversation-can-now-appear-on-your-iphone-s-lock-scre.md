@@ -4,8 +4,8 @@ date: '2026-08-31'
 description: 'ChatGPT · 2026-08-31 · Voice and Audio: Content from a Live voice conversation
   can now appear on your iPhone’s Lock Screen and, on iPhones with Dynamic Island…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
-    are beginning to roll out new voice and image capabilities in ChatGPT]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
+    (Beta) is now rolling out to Plus users on iOS and Android]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1071
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6e788ad8995f25669f42f6ca67f46fc5540d620e00c0633ff088d3e87dd850ee
+machine_hash: 7959ebd74435c51307ace82679614cd82cd2de44b0a68d51de808597da6ea836
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,15 +40,6 @@ record:
   source_release: chatgpt-2026-08-31-see-live-voice-content-on-your-lock-screen-3b9abebd
   source_type: chatgpt_changelog
   theme: voice
-  theme_matches:
-  - matched_terms:
-    - voice
-    score: 110
-    theme: voice
-  - matched_terms:
-    - iphone
-    score: 50
-    theme: mobile-desktop
   title: Content from a Live voice conversation can now appear on your iPhone’s Lock
     Screen…
   type: change
@@ -96,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

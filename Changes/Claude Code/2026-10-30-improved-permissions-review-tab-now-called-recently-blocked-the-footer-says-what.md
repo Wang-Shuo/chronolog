@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3c6e004155e2c56539949f03a12038d6dafccb9c49e66cb35f8ea55424993f06
+machine_hash: 4497d0d96a77d0949dbcb23931847f2bbe774c300e37e4bcb4ed8f4fac9f9e06
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,6 +51,7 @@ related_changes:
   sessions Added a Bash editor with colors, line numbers and a Copy button…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7]]'
 source_type: github_releases
+superseded: true
 theme: editor-experience
 title: Improved /permissions review tab, now called Recently blocked
 type: change

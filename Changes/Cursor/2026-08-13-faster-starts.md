@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: d61d294dd3540dab4508f1787483cf85d8e182d1b03442bdb3ed418ce693fa60
+machine_hash: 77b54c2aa5ff368e8f1279d4369d849452495cf92d24d40cadfe69703a1ddcf2
 product: cursor
 product_name: Cursor
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-08-10 · Claude Code · [[Changes/Claude Code/2026-08-10-improved-performance-fewer-event-loop-stalls-on-file-not-found-suggestions-and-a|Improved performance: fewer event-loop stalls on file-not-found suggestions…]]
-- Later: 2026-08-18 · Claude Code · [[Changes/Claude Code/2026-08-18-improved-memory-and-cpu-usage-while-cloud-sessions-such-as-ultrareview-or-autofi|Improved memory and CPU usage while cloud sessions such as /ultrareview…]]
+- Later: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-added-opt-in-memory-cgroup-support-for-bash-tool-commands-on-linux-claude-code-t|Added opt-in memory cgroup support for Bash tool commands on Linux…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

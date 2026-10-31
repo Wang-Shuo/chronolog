@@ -1,23 +1,22 @@
 ---
 card_id: chatgpt-2026-08-25-f34896
 date: '2026-08-25'
-description: 'ChatGPT · 2026-08-25 · Mobile and Desktop: Plus and Pro users can ask
+description: 'ChatGPT · 2026-08-25 · Developer Workflow: Plus and Pro users can ask
   Work on web, iOS, and Android to respond when a new Gmail message arrives, a Slack…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1260
+  lag_days: 1256
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: mobile-desktop
+  theme: developer-workflow
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 150112f382171f80552d76607dc0569bec1908f93ffa126e9d66427ad5c44385
+machine_hash: 47033c9cb8dc22c596fbf30ff74470a8e701997ad14bbf668c0e1f1704c02266
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,29 +48,19 @@ record:
   slug: create-webhook-triggered-tasks
   source_release: chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4
   source_type: chatgpt_changelog
-  theme: mobile-desktop
-  theme_matches:
-  - matched_terms:
-    - android
-    - ios
-    score: 100
-    theme: mobile-desktop
-  - matched_terms:
-    - pull request
-    score: 60
-    theme: developer-workflow
+  theme: developer-workflow
   title: Create webhook-triggered tasks
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-21-find-more-useful-plugins-rankings-now-prioritize-plugins-people-keep-using-after|Find
-  more useful plugins]]'
-- '[[Changes/Claude Code/2026-08-21-remote-sessions-images-uploaded-from-mobile-now-include-their-saved-file-path-so|Remote
-  sessions: images uploaded from mobile now include their saved file path…]]'
-- '[[Changes/Claude Code/2026-08-21-windows-cross-session-messaging-is-now-available-so-claude-code-sessions-across|Windows:
-  cross-session messaging is now available, so Claude Code sessions across…]]'
+- '[[Changes/Claude Code/2026-08-19-2-developer-workflow-changes-in-v2-1-236|2 Developer
+  Workflow changes in v2.1.236]]'
+- '[[Changes/Claude Code/2026-08-20-2-developer-workflow-changes-in-v2-1-238|2 Developer
+  Workflow changes in v2.1.238]]'
+- '[[Changes/Claude Code/2026-08-21-2-developer-workflow-changes-in-v2-1-239|2 Developer
+  Workflow changes in v2.1.239]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4|chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4]]'
 source_type: chatgpt_changelog
-theme: mobile-desktop
+theme: developer-workflow
 title: Create webhook-triggered tasks
 type: change
 ---
@@ -79,7 +68,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Create webhook-triggered tasks
 
-**ChatGPT** · 2026-08-25 · [[Themes/mobile-desktop|Mobile and Desktop]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-can-respond-to-app-updates-and-be-shared) · from [[Releases/ChatGPT/chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4|Scheduled tasks can respond to app updates and be shared]]
+**ChatGPT** · 2026-08-25 · [[Themes/developer-workflow|Developer Workflow]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-can-respond-to-app-updates-and-be-shared) · from [[Releases/ChatGPT/chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4|Scheduled tasks can respond to app updates and be shared]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -97,16 +86,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Mobile and Desktop
+## Nearby in Developer Workflow
 
-- Earlier: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-windows-cross-session-messaging-is-now-available-so-claude-code-sessions-across|Windows: cross-session messaging is now available, so Claude Code sessions across…]]
-- Later: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-windows-macos-fixed-headless-sessions-not-cleaning-up-stale-entries-in-claude-se|Windows/macOS: Fixed headless sessions not cleaning up stale entries…]]
+- Earlier: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-2-developer-workflow-changes-in-v2-1-239|2 Developer Workflow changes in v2.1.239]]
+- Later: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-2-developer-workflow-changes-in-v2-1-246|2 Developer Workflow changes in v2.1.246]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ab037c5f89d1c9800e4f295d20a00fb569ebb369b2fe9513920a29143d0cfe26
+machine_hash: 4b222e44c52e0c792e0475833a39dbc156ca691acab61f25d7f04a06eb151f51
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,16 +47,6 @@ record:
   source_release: chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574
   source_type: chatgpt_changelog
   theme: apps-integrations
-  theme_matches:
-  - matched_terms:
-    - plugin
-    score: 50
-    theme: apps-integrations
-  - matched_terms:
-    - desktop
-    score: 50
-    theme: mobile-desktop
-  theme_resolution: manual-semantic-rule-v1
   title: Use Apple Messages from Codex and ChatGPT Work
   type: change
 related_changes:
@@ -87,7 +77,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee|Use Computer History in more regions]] · Mobile and Desktop
+- [[Changes/ChatGPT/2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee|Use Computer History in more regions]] · Memory and Personalization
 - [[Changes/ChatGPT/2026-08-20-keep-pinned-chats-in-sync-pinned-chats-now-stay-in-sync-between-the-chatgpt-desk|Keep pinned chats in sync]] · Mobile and Desktop
 - [[Changes/ChatGPT/2026-08-20-share-a-read-only-snapshot-of-a-codex-chat-personal-share-links-can-be-opened-by|Share a read-only snapshot of a Codex chat]] · Collaboration
 <!-- chronolog:end -->

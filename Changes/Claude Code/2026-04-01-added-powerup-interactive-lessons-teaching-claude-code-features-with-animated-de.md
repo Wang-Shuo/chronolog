@@ -4,8 +4,8 @@ date: '2026-04-01'
 description: 'Claude Code · 2026-04-01 · Learning Tools: Added `/powerup` — interactive
   lessons teaching Claude Code features with animated demos'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-07-29-break-concepts-into-easy-to-follow-sections-starting-simple-and-adding-complexit|Break
-    concepts into easy to follow sections starting simple and adding complexity…]]'
+  first_in_tracked: '[[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-4b5d0a|Study
+    mode is currently available to users in Free, Plus, Pro, and Teams plans…]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 246
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bbbd8beef8b75993881b1aa6aee0b2844a93ea1cd83455b95579595ece4fdbc6
+machine_hash: 32551b1e1bf022ea7b8fb064b1abda3bcf3095022ed4281cb4b9aa44ecbb0511
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,8 @@ record:
     animated demos
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-07-29-break-concepts-into-easy-to-follow-sections-starting-simple-and-adding-complexit|Break
-  concepts into easy to follow sections starting simple and adding complexity…]]'
-- '[[Changes/ChatGPT/2025-07-29-guide-understanding-with-socratic-style-questions|Guide
-  understanding with Socratic-style questions]]'
+- '[[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-4b5d0a|Study
+  mode is currently available to users in Free, Plus, Pro, and Teams plans…]]'
 - '[[Changes/ChatGPT/2026-03-10-when-you-ask-chatgpt-about-certain-topics-it-can-now-present-an-interactive-visu|Interactive
   learning for math and science]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b|claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b]]'
@@ -90,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-07-29 · ChatGPT · [[Changes/ChatGPT/2025-07-29-break-concepts-into-easy-to-follow-sections-starting-simple-and-adding-complexit|Break concepts into easy to follow sections starting simple and adding complexity…]]
+- Earliest same-theme entry in the tracked set: 2025-07-29 · ChatGPT · [[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-4b5d0a|Study mode is currently available to users in Free, Plus, Pro, and Teams plans…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

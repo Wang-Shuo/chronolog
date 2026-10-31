@@ -1,23 +1,24 @@
 ---
 card_id: chatgpt-2026-08-20-13542d
 date: '2026-08-20'
-description: 'ChatGPT · 2026-08-20 · Mobile and Desktop: Use Computer History in more
-  regions. Computer History is now available in the EEA, Switzerland, and the United…'
+description: 'ChatGPT · 2026-08-20 · Memory and Personalization: Use Computer History
+  in more regions. Computer History is now available in the EEA, Switzerland, and
+  the…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
+    instructions are rolling out in beta]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1255
+  lag_days: 1127
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: mobile-desktop
+  theme: memory
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d15fd6f6c28006de8cc8406b10fe1fda05f41fe655dfbef7ad48ea505dff76f4
+machine_hash: e2b5dc1a7bdf30e01bcc6d76ab0893004f39dfb5b24e6253dc2605d5b89a8957
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,29 +43,19 @@ record:
   slug: use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee
   source_release: chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574
   source_type: chatgpt_changelog
-  theme: mobile-desktop
-  theme_matches:
-  - matched_terms:
-    - desktop
-    - macos
-    score: 100
-    theme: mobile-desktop
-  - matched_terms:
-    - memories
-    score: 50
-    theme: memory
+  theme: memory
   title: Use Computer History in more regions
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-14-learning-projects-and-personalized-suggestions|Learning,
-  Projects, and personalized suggestions]]'
-- '[[Changes/ChatGPT/2026-08-14-use-chatgpt-and-codex-on-linux-the-desktop-app-is-now-available-globally-in-publ|Use
-  ChatGPT and Codex on Linux]]'
-- '[[Changes/Claude Code/2026-08-19-added-notify-when-idle-to-cross-session-sendmessage-ask-another-claude-code-sess|Added
-  notify_when_idle to cross-session SendMessage]]'
+- '[[Changes/Claude Code/2026-08-13-cowork-sessions-no-longer-inline-external-imports-from-user-scope-memory-files|Cowork
+  sessions no longer inline external @-imports from user-scope memory files]]'
+- '[[Changes/ChatGPT/2026-08-14-we-ve-made-it-easier-to-study-with-interactive-quizzes-manage-project-memory-and|ChatGPT
+  makes it easier to study with interactive quizzes, manage project memory…]]'
+- '[[Changes/ChatGPT/2026-08-14-you-can-now-change-a-project-s-memory-setting-after-you-create-it-open-the-proje-b36ffe|Edit
+  memory settings for existing projects]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574]]'
 source_type: chatgpt_changelog
-theme: mobile-desktop
+theme: memory
 title: Use Computer History in more regions
 type: change
 ---
@@ -72,7 +63,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Use Computer History in more regions
 
-**ChatGPT** · 2026-08-20 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-and-chatgpt-feature-updates) · from [[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|Codex and ChatGPT feature updates]]
+**ChatGPT** · 2026-08-20 · [[Themes/memory|Memory and Personalization]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-and-chatgpt-feature-updates) · from [[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|Codex and ChatGPT feature updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -90,16 +81,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Mobile and Desktop
+## Nearby in Memory and Personalization
 
-- Earlier: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-added-notify-when-idle-to-cross-session-sendmessage-ask-another-claude-code-sess|Added notify_when_idle to cross-session SendMessage]]
-- Later: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-improved-startup-bare-claude-starts-sooner-on-macos|Improved startup: bare claude starts sooner on macOS]]
+- Earlier: 2026-08-14 · ChatGPT · [[Changes/ChatGPT/2026-08-14-you-can-now-change-a-project-s-memory-setting-after-you-create-it-open-the-proje-b36ffe|Edit memory settings for existing projects]]
+- Later: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-updated-the-bundled-claude-api-skill-for-the-managed-agents-aug-19-release-web-s|Updated the bundled claude-api skill for the Managed Agents Aug 19 release]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

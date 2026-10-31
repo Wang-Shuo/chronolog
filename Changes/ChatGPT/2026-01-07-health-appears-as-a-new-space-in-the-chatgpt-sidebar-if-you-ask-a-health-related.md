@@ -1,23 +1,24 @@
 ---
 card_id: chatgpt-2026-01-07-06e6e5
 date: '2026-01-07'
-description: 'ChatGPT · 2026-01-07 · Mobile and Desktop: Health appears as a new space
-  in the ChatGPT sidebar. If you ask a health-related question in a regular chat…'
+description: 'ChatGPT · 2026-01-07 · Interface Experience: Health appears as a new
+  space in the ChatGPT sidebar. If you ask a health-related question in a regular
+  chat…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1030
+  lag_days: 1094
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: mobile-desktop
+  theme: interface-experience
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e4680bcbda81e7cb80314291fd4ff070a3bce1aa1ee730bf1423e586fd3ba360
+machine_hash: 19b732fcf6338395012a4fb05aa1adb1f49ae2ce88e92e07687eec93d8f05f92
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,29 +52,19 @@ record:
   slug: health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related
   source_release: chatgpt-2026-01-07-health-in-chatgpt-4cb3bdf6
   source_type: chatgpt_changelog
-  theme: mobile-desktop
-  theme_matches:
-  - matched_terms:
-    - android
-    - ios
-    score: 100
-    theme: mobile-desktop
-  - matched_terms:
-    - sidebar
-    score: 50
-    theme: interface-experience
+  theme: interface-experience
   title: Health appears as a new space in the ChatGPT sidebar
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05|Group
-  chats in ChatGPT]]'
-- '[[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|Pinned
-  chats in ChatGPT]]'
-- '[[Changes/Claude Code/2025-12-19-added-guidance-for-macos-users-when-alt-shortcuts-fail-due-to-terminal-configura|Added
-  guidance for macOS users when Alt shortcuts fail due to terminal configuration]]'
+- '[[Changes/Claude Code/2025-12-19-3-interface-experience-changes-in-v2-0-73|3 Interface
+  Experience changes in v2.0.73]]'
+- '[[Changes/Claude Code/2025-12-19-2-interface-experience-changes-in-v2-0-74|2 Interface
+  Experience changes in v2.0.74]]'
+- '[[Changes/Cursor/2025-12-22-3-interface-experience-changes-in-2-3|3 Interface Experience
+  changes in 2.3]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-07-health-in-chatgpt-4cb3bdf6|chatgpt-2026-01-07-health-in-chatgpt-4cb3bdf6]]'
 source_type: chatgpt_changelog
-theme: mobile-desktop
+theme: interface-experience
 title: Health appears as a new space in the ChatGPT sidebar
 type: change
 ---
@@ -81,7 +72,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Health appears as a new space in the ChatGPT sidebar
 
-**ChatGPT** · 2026-01-07 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-01-07-health-in-chatgpt-4cb3bdf6|Health in ChatGPT]]
+**ChatGPT** · 2026-01-07 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt) · from [[Releases/ChatGPT/chatgpt-2026-01-07-health-in-chatgpt-4cb3bdf6|Health in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -97,16 +88,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Mobile and Desktop
+## Nearby in Interface Experience
 
-- Earlier: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-added-guidance-for-macos-users-when-alt-shortcuts-fail-due-to-terminal-configura|Added guidance for macOS users when Alt shortcuts fail due to terminal configuration]]
-- Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-2-mobile-and-desktop-changes-in-v2-1-2|2 Mobile and Desktop changes in v2.1.2]]
+- Earlier: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-3-interface-experience-changes-in-2-3|3 Interface Experience changes in 2.3]]
+- Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-2-interface-experience-changes-in-v2-1-3|2 Interface Experience changes in v2.1.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

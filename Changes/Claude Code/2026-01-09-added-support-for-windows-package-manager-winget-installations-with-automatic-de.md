@@ -4,8 +4,8 @@ date: '2026-01-09'
 description: 'Claude Code · 2026-01-09 · Mobile and Desktop: Added support for Windows
   Package Manager (winget) installations with automatic detection and update instructions'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support 🥳]]'
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1032
   relation: same-theme-chronology
@@ -14,9 +14,10 @@ diffusion:
   theme: mobile-desktop
   tracked_products_count: 3
 evolves_from: []
-extractor_version: fallback-v4
+extractor_version: fallback-v5
 impact: significant
-machine_hash: 8bd35bce80ad0b40f697adab802c8d3f9bb6a1460306e5e866e86b179e1e0ed2
+kind: change
+machine_hash: 49acfc2a88d1f23e272cc3f5e96fd5ec8320cfd0fc9a54a7f8dc63b3b742c2f8
 product: claude-code
 product_name: Claude Code
 record:
@@ -31,8 +32,9 @@ record:
   - quote: Added support for Windows Package Manager (winget) installations with automatic
       detection and update instructions
     source_release: https://github.com/anthropics/claude-code/releases/tag/v2.1.2
-  extractor_version: fallback-v4
+  extractor_version: fallback-v5
   impact: significant
+  kind: change
   product: claude-code
   product_name: Claude Code
   slug: added-support-for-windows-package-manager-winget-installations-with-automatic-de
@@ -44,15 +46,14 @@ record:
   title: Added support for Windows Package Manager (winget) installations with automatic…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|Pin
-  chats to the top of your list for quick access to important conversations]]'
-- '[[Changes/Claude Code/2025-12-19-added-guidance-for-macos-users-when-alt-shortcuts-fail-due-to-terminal-configura|Added
-  guidance for macOS users when Alt shortcuts fail due to terminal configuration]]'
-- '[[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health
-  appears as a new space in the ChatGPT sidebar]]'
+- '[[Changes/ChatGPT/2025-09-17-the-thinking-time-toggle-is-live-today-on-chatgpt-com-settings-you-choose-on-the|The
+  thinking-time toggle is live today on chatgpt.com]]'
+- '[[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-3f946e|Starting
+  today, project sharing is available to all ChatGPT users, including…]]'
+- '[[Changes/ChatGPT/2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05|Group
+  chats in ChatGPT]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-2-github-275344737-27089666|claude-code-2026-01-09-v2-1-2-github-275344737-27089666]]'
 source_type: github_releases
-superseded: true
 theme: mobile-desktop
 title: Added support for Windows Package Manager (winget) installations with automatic…
 type: change
@@ -73,17 +74,19 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
+- [[Changes/Claude Code/2026-01-09-2-apps-and-integrations-changes-in-v2-1-2|2 Apps and Integrations changes in v2.1.2]] · Apps and Integrations
+- [[Changes/Claude Code/2026-01-09-2-safety-and-privacy-changes-in-v2-1-2|2 Safety and Privacy changes in v2.1.2]] · Safety and Privacy
+- [[Changes/Claude Code/2026-01-09-4-developer-workflow-changes-in-v2-1-2|4 Developer Workflow changes in v2.1.2]] · Developer Workflow
 - [[Changes/Claude Code/2026-01-09-added-shift-tab-keyboard-shortcut-in-plan-mode-to-quickly-select-auto-accept-edi|Added Shift+Tab keyboard shortcut in plan mode to quickly select…]] · Interface Experience
-- [[Changes/Claude Code/2026-01-09-added-source-path-metadata-to-images-dragged-onto-the-terminal-helping-claude-un|Added source path metadata to images dragged onto the terminal, helping Claude…]] · Developer Workflow
-- [[Changes/Claude Code/2026-01-09-added-clickable-hyperlinks-for-file-paths-in-tool-output-in-terminals-that-suppo|Added clickable hyperlinks for file paths in tool output in terminals that support…]] · Developer Workflow
-- [[Changes/Claude Code/2026-01-09-added-force-autoupdate-plugins-environment-variable-to-allow-plugin-autoupdate-e|Added FORCE_AUTOUPDATE_PLUGINS environment variable to allow plugin autoupdate…]] · Apps and Integrations
+- [[Changes/Claude Code/2026-01-09-added-agent-type-to-sessionstart-hook-input-populated-if-agent-is-specified|Added agent_type to SessionStart hook input, populated if --agent is specified]] · Agent Mode
+- [[Changes/Claude Code/2026-01-09-4-other-changes-in-v2-1-2|4 other changes in v2.1.2]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-01-07 · ChatGPT · [[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health appears as a new space in the ChatGPT sidebar]]
-- Later: 2026-01-22 · Claude Code · [[Changes/Claude Code/2026-01-22-ide-fixed-a-race-condition-on-windows-where-the-claude-code-sidebar-view-contain|IDE Fixed a race condition on Windows where the Claude Code sidebar view container…]]
+- Earlier: 2025-11-13 · ChatGPT · [[Changes/ChatGPT/2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05|Group chats in ChatGPT]]
+- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-windows-notifications-now-have-accept-reject-buttons-like-macos|Windows notifications now have accept/reject buttons like MacOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

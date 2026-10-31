@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a95d45a48a09f722671ee80142acd9a822d71a37722485ceeaf47a2e8ec2e0ab
+machine_hash: a19a012decf8a1066d71c38e2cfef96a28802ee7021c79f2e7a8bc5e4c04c620
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,7 +46,8 @@ record:
   title: 2 Agent Mode changes in v2.1.261
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-02-run-on-your-sandboxes|Run on your sandboxes]]'
+- '[[Changes/Cursor/2026-09-02-computer-use-on-linux-and-mac|Computer use on Linux
+  and Mac]]'
 - '[[Changes/Cursor/2026-09-02-cursor-supports-self-hosted-machines-which-let-you-keep-tool-execution-entirely|Cursor
   supports self-hosted machines, which let you keep tool execution entirely…]]'
 - '[[Changes/Claude Code/2026-09-03-2-agent-mode-changes-in-v2-1-260|2 Agent Mode
@@ -79,10 +80,9 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.261
 
 - [[Changes/Claude Code/2026-09-04-improved-streaming-performance-already-rendered-blocks-are-no-longer-re-checked|Improved streaming performance]] · Reliability and Performance
 - [[Changes/Claude Code/2026-09-04-3-interface-experience-changes-in-v2-1-261|3 Interface Experience changes in v2.1.261]] · Interface Experience
-- [[Changes/Claude Code/2026-09-04-vscode-added-a-hollow-ring-in-the-session-list-for-sessions-open-in-a-terminal-a|VSCode Added a hollow ring in the session list for sessions open in a terminal…]] · Mobile and Desktop
+- [[Changes/Claude Code/2026-09-04-3-developer-workflow-changes-in-v2-1-261|3 Developer Workflow changes in v2.1.261]] · Developer Workflow
 - [[Changes/Claude Code/2026-09-04-vscode-added-an-add-server-form-and-a-remove-action-to-the-mcp-servers-dialog-so|VSCode Added an Add server form and a Remove action to the MCP servers dialog…]] · Apps and Integrations
 - [[Changes/Claude Code/2026-09-04-2-account-and-access-changes-in-v2-1-261|2 Account and Access changes in v2.1.261]] · Account and Access
-- [[Changes/Claude Code/2026-09-04-2-developer-workflow-changes-in-v2-1-261|2 Developer Workflow changes in v2.1.261]] · Developer Workflow
 - [[Changes/Claude Code/2026-09-04-changed-context-token-counting-to-use-a-local-estimate-when-the-token-counting-a|Changed /context token counting to use a local estimate when the token-counting…]] · Context Window
 - [[Changes/Claude Code/2026-09-04-added-skill-doctor-to-show-which-loaded-skills-go-unused-and-what-they-cost-in-c|Added /skill-doctor to show which loaded skills go unused and what they cost…]] · Context Window
 - [[Changes/Claude Code/2026-09-04-4-safety-and-privacy-changes-in-v2-1-261|4 Safety and Privacy changes in v2.1.261]] · Safety and Privacy

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f81add2a6b2c849922cc4e5a43ae8c41e4f273b60ff0d8b7a5487e784e3658e4
+machine_hash: c1458d32e7d91449c3def11393cbf5b04c45303254338e18fcb9217437a1e045
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     repos)
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-17-faster-resume-on-fork-heavy-and-very-large-sessions-up-to-45-faster-loading-and|Faster
-  --resume on fork-heavy and very large sessions]]'
+- '[[Changes/Claude Code/2026-03-17-2-reliability-and-performance-changes-in-v2-1-77|2
+  Reliability and Performance changes in v2.1.77]]'
 - '[[Changes/Claude Code/2026-03-17-improved-memory-usage-and-startup-time-when-resuming-large-sessions|Improved
   memory usage and startup time when resuming large sessions]]'
 - '[[Changes/Claude Code/2026-03-18-2-reliability-and-performance-changes-in-v2-1-79|2

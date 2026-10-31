@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 429594ea2ad10232b95c782f6d2a05d5ee809933ecfa20dab887289f71232479
+machine_hash: 984b1a266eb6eff9477cd9c9a9b54f52b03cee69a88fa65fe406ecaf0ab07dd7
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
     reviews'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-04-2-developer-workflow-changes-in-v2-1-261|2 Developer
+- '[[Changes/Claude Code/2026-09-04-3-developer-workflow-changes-in-v2-1-261|3 Developer
   Workflow changes in v2.1.261]]'
-- '[[Changes/Claude Code/2026-09-08-improved-worktree-startup-on-large-repositories-the-new-worktree-is-now-checked|Improved
-  --worktree startup on large repositories]]'
+- '[[Changes/Claude Code/2026-09-08-2-developer-workflow-changes-in-v2-1-265|2 Developer
+  Workflow changes in v2.1.265]]'
 - '[[Changes/Claude Code/2026-09-09-3-developer-workflow-changes-in-v2-1-267|3 Developer
   Workflow changes in v2.1.267]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848|claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848]]'

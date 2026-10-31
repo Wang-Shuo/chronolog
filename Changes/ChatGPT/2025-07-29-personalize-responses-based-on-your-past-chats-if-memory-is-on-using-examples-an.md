@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7e5f055e3298a0641dd345433886c9a50fa0fdcdc0f4e88095477c22302bb4e1
+machine_hash: dac362db86d7b48839824930f3c36740004cf13b652f1caad8e095cfe83000cf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,11 +42,11 @@ record:
   title: Personalize responses based on your past chats if memory is on, using examples…
   type: change
 related_changes:
+- '[[Changes/Cursor/2025-06-04-memories|Memories]]'
 - '[[Changes/ChatGPT/2025-06-12-improvements-to-memory-to-reference-past-chats-in-a-project|Improvements
   to memory to reference past chats in a project]]'
 - '[[Changes/Cursor/2025-07-03-memories-is-now-ga-since-1-0-we-ve-improved-memory-generation-quality-added-in-e|Memories
   (now GA)]]'
-- '[[Changes/Cursor/2025-07-03-faster-tab|Faster Tab]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-29-study-mode-ffbfbea6|chatgpt-2025-07-29-study-mode-ffbfbea6]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -69,15 +69,13 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2025-07-29-break-concepts-into-easy-to-follow-sections-starting-simple-and-adding-complexit|Break concepts into easy to follow sections starting simple and adding complexity…]] · Learning Tools
-- [[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-6e22f0|Study mode is currently available to users in Free, Plus, Pro, and Teams plans…]] · Mobile and Desktop
-- [[Changes/ChatGPT/2025-07-29-guide-understanding-with-socratic-style-questions|Guide understanding with Socratic-style questions]] · Learning Tools
+- [[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-4b5d0a|Study mode is currently available to users in Free, Plus, Pro, and Teams plans…]] · Learning Tools
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-faster-tab|Faster Tab]]
+- Earlier: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-memories-is-now-ga-since-1-0-we-ve-improved-memory-generation-quality-added-in-e|Memories (now GA)]]
 - Later: 2025-08-18 · ChatGPT · [[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses-4644fd|Longer memory for more personalized responses]]
 <!-- chronolog:end -->
 

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 95374e08680eaadacffea51c09266507e1ab225df496ed4e4069f58b53ce4003
+machine_hash: 2dd8c90d5ffc89102e18dd692ca4194ba4eb80548abbc4e299799098a0a1bc31
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     row…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-08-table-of-contents-in-longer-conversations-conversations-longer-than-five-respons|Table
-  of contents in longer conversations]]'
+- '[[Changes/ChatGPT/2026-06-08-cleaned-up-logged-out-mobile-web-experience-logged-out-users-now-see-a-composer|Cleaned
+  up logged-out mobile web experience]]'
 - '[[Changes/Claude Code/2026-06-08-2-interface-experience-changes-in-v2-1-169|2 Interface
   Experience changes in v2.1.169]]'
 - '[[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed-b05795|We’re

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 980b4a7cc3d13376580225c47f3c1624e1ba73c39551d064e4ef1c38d9ce1cbf
+machine_hash: ed87b6eb409ddbdf6dc0725b2d446dd3771371e8c111b2d118d0fb2de7e7a336
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,7 +47,7 @@ record:
 related_changes:
 - '[[Changes/Claude Code/2026-10-19-8-apps-and-integrations-changes-in-v2-1-304|8
   Apps and Integrations changes in v2.1.304]]'
-- '[[Changes/Claude Code/2026-10-20-3-apps-and-integrations-changes-in-v2-1-305|3
+- '[[Changes/Claude Code/2026-10-20-4-apps-and-integrations-changes-in-v2-1-305|4
   Apps and Integrations changes in v2.1.305]]'
 - '[[Changes/Claude Code/2026-10-21-3-apps-and-integrations-changes-in-v2-1-307|3
   Apps and Integrations changes in v2.1.307]]'

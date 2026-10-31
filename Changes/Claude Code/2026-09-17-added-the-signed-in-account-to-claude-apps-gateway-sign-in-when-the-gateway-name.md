@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8e917424e55ff391dcb36674959e1dfa1f2df2b23ee42db2f356df10873f09c5
+machine_hash: e48c71db61ac7e91122b561129f8ad6211e330118407e9327044b507f6d75f1f
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,16 +42,6 @@ record:
   source_release: claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd
   source_type: github_releases
   theme: account-access
-  theme_matches:
-  - matched_terms:
-    - sign in
-    score: 60
-    theme: account-access
-  - matched_terms:
-    - apps
-    score: 50
-    theme: apps-integrations
-  theme_resolution: manual-semantic-rule-v1
   title: Added the signed-in account to Claude apps gateway sign-in
   type: change
 related_changes:

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0c30783afa3fbfe1a4ff251012cbf05189feffc455a7ea5ce0411742aac47fbc
+machine_hash: fc8674b33e28c9e5b4fe35256f32626865e7c4b4c407aa50aa58fd393c6c57db
 product: cursor
 product_name: Cursor
 record:
@@ -53,6 +53,7 @@ related_changes:
   updates]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-07-0-9-7-nightly-https-cursor-com-changelog-0-9-7-nightly-87d1216f|cursor-2023-09-07-0-9-7-nightly-https-cursor-com-changelog-0-9-7-nightly-87d1216f]]'
 source_type: cursor_changelog
+superseded: true
 theme: reliability-performance
 title: We no longer store any full files in memory and prevent users from @'ing very
   large…

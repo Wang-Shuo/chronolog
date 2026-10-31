@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7da5a7ec23ff1eb9237c384730669222c8a1301ef9d2b1e472391119d205c82d
+machine_hash: 8cc78613d7e68ebfa4a26b0d252e29cc6655405058e0e5d1be5c92f815015d9a
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Apps and Integrations changes in v2.1.247
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-21-plugin-availability-depends-on-your-plan-region-and-workspace-settings-desktop-i|Plugin
-  availability depends on your plan, region, and workspace settings]]'
+- '[[Changes/ChatGPT/2026-08-21-find-more-useful-plugins-rankings-now-prioritize-plugins-people-keep-using-after|Find
+  more useful plugins]]'
 - '[[Changes/Claude Code/2026-08-21-2-apps-and-integrations-changes-in-v2-1-239|2
   Apps and Integrations changes in v2.1.239]]'
 - '[[Changes/Claude Code/2026-08-25-3-apps-and-integrations-changes-in-v2-1-246|3

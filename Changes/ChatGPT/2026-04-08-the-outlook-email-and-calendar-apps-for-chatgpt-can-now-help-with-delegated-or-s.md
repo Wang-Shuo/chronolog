@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a20bb6969ff714e6c6987347da9f4945ead329fd41ce61403a53a44e9926869c
+machine_hash: 379adf509dfa7b4304fd55c3e5b31ff53a0baa064a28679227c958e53466bd24
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,21 +53,11 @@ record:
   source_release: chatgpt-2026-04-08-outlook-shared-mailboxes-and-calendars-in-chatgpt-51092ccc
   source_type: chatgpt_changelog
   theme: search-browsing
-  theme_matches:
-  - matched_terms:
-    - apps
-    score: 50
-    theme: apps-integrations
-  - matched_terms:
-    - browse
-    score: 50
-    theme: search-browsing
-  theme_resolution: manual-semantic-rule-v1
   title: Outlook shared mailboxes and calendars in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|Legacy
-  deep research mode deprecation notice]]'
+- '[[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|File
+  Library in ChatGPT]]'
 - '[[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|Shopping
   updates in ChatGPT]]'
 - '[[Changes/Cursor/2026-04-02-past-chat-transcripts-are-now-surfaced-directly-in-at-mention-search-results|Past

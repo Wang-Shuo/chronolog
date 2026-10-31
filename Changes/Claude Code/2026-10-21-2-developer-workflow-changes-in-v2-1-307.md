@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0996855b2bd63f3ceb878073875e5cc8dd8a57beda63289347f922db257fb302
+machine_hash: f013bc43f31ad2fbc496930cb235f8f25496360c4c5d69a3be584a0706053bf6
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Developer Workflow changes in v2.1.307
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-15-added-rows-to-a-mod-s-input-a-text-field-of-several-lines-in-the-terminal-where|Added
-  rows to a mod''s Input]]'
+- '[[Changes/Claude Code/2026-10-15-2-developer-workflow-changes-in-v2-1-301|2 Developer
+  Workflow changes in v2.1.301]]'
 - '[[Changes/Claude Code/2026-10-19-3-developer-workflow-changes-in-v2-1-304|3 Developer
   Workflow changes in v2.1.304]]'
 - '[[Changes/Claude Code/2026-10-20-2-developer-workflow-changes-in-v2-1-305|2 Developer

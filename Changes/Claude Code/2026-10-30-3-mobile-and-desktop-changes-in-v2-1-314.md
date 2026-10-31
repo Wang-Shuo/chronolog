@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3cfbdb0c5735997a9c738e8413cb4766928c072c5b22096aaf81518eff782e96
+machine_hash: 6db5b7b5ea5b65277ae19134fb930e04cc0dde077c9e8734443abb8958e038c3
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,6 +58,7 @@ related_changes:
   can learn more about how ChatGPT uses connected apps here]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7]]'
 source_type: github_releases
+superseded: true
 theme: mobile-desktop
 title: 3 Mobile and Desktop changes in v2.1.314
 type: change

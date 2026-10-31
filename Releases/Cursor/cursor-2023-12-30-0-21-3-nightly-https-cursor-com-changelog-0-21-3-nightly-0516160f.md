@@ -2,8 +2,8 @@
 changes_count: 1
 date: '2023-12-30'
 description: 'Cursor release VS Code 1.85.1 on 2023-12-30: 1 tracked change across
-  Mobile and Desktop'
-machine_hash: 86432693993fb049128553da38bed54620e7e2febeb6e2126bb17b79e67f142b
+  Editor Experience'
+machine_hash: 26c5d13623cd99afda06271468b3978359d52a06869b0166e4e0e87c7ae190fd
 product: cursor
 product_name: Cursor
 record:
@@ -45,5 +45,5 @@ Tracked 1 card from 1 candidate line.
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|VS Code 1.85.1]] · Mobile and Desktop
+- [[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|VS Code 1.85.1]] · Editor Experience
 <!-- chronolog:end -->

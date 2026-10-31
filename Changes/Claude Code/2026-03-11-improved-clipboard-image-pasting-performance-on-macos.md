@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eb5bd7a25c52fb548dbb843c08ac9e71b8e3673b28f90c4d6fb69a284240e7be
+machine_hash: a4a9611404da134aa1e52f92b7436adda3e4b4df634fa17e6c42633a308ff5a4
 product: claude-code
 product_name: Claude Code
 record:
@@ -59,6 +59,7 @@ related_changes:
   and Desktop changes in v2.1.69]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f|claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f]]'
 source_type: github_releases
+superseded: true
 theme: mobile-desktop
 title: Improved clipboard image pasting performance on macOS
 type: change

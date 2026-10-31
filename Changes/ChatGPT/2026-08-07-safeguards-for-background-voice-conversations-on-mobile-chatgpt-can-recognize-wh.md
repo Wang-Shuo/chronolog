@@ -5,8 +5,8 @@ description: 'ChatGPT · 2026-08-07 · Voice and Audio: Safeguards for backgroun
   conversations. On mobile, ChatGPT can recognize when a background Voice conversation
   no…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
-    are beginning to roll out new voice and image capabilities in ChatGPT]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
+    (Beta) is now rolling out to Plus users on iOS and Android]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1047
   relation: same-theme-chronology
@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bbf7871f11ad572a4fc4d7dbc2f59344dad9bfc33129839738529f552a222ad2
+machine_hash: fa47e4adff23593afe3c0e78f68240c565a78190ba25600984eec7c4699fe48f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,15 +46,6 @@ record:
   source_release: chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5
   source_type: chatgpt_changelog
   theme: voice
-  theme_matches:
-  - matched_terms:
-    - voice
-    score: 110
-    theme: voice
-  - matched_terms:
-    - mobile
-    score: 50
-    theme: mobile-desktop
   title: Safeguards for background Voice conversations
   type: change
 related_changes:
@@ -102,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

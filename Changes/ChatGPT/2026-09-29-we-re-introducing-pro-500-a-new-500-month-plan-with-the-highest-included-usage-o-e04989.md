@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: c9019b9ef8c1e8dba66f2473557692286e70eacb962ef1967ab12de11457769e
+machine_hash: 5519fbde3e86d29b8b243e64ed8bbc3deb25b8e0b3603a0e4bd78d70222dd457
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -103,7 +103,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-pro-200-is-available-for-new-subscriptions-again-at-200-month-5ed430|Pro 200 subscriptions]]
-- Later: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-improved-the-usage-credits-message-shown-to-team-and-enterprise-members-whose-or|Improved the /usage-credits message shown to Team and Enterprise members whose…]]
+- Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-claude-tag-added-direct-messages-with-claude-for-members-on-an-enterprise-plan-s|Claude Tag Added direct messages with Claude for members on an Enterprise plan…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

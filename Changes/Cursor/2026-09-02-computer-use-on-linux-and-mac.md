@@ -1,23 +1,23 @@
 ---
 card_id: cursor-2026-09-02-4ce91d
 date: '2026-09-02'
-description: 'Cursor · 2026-09-02 · Mobile and Desktop: Self-hosted workers now support
-  computer use on Linux and Mac. With the right desktop packages, an agent can click…'
+description: 'Cursor · 2026-09-02 · Agent Mode: Self-hosted workers now support computer
+  use on Linux and Mac. With the right desktop packages, an agent can click, type…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1268
+  lag_days: 1154
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: mobile-desktop
+  theme: agent-mode
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 1534b8f6eb1da9a60be6cbb43541bd0219a88371f2e19a4f586293e822b4b7f7
+machine_hash: c1ec782b8a2317d284754a7f838cb6ab39cb328f18a15783e80239d67b694bc1
 product: cursor
 product_name: Cursor
 record:
@@ -43,29 +43,18 @@ record:
   slug: computer-use-on-linux-and-mac
   source_release: cursor-2026-09-02-self-hosted-machines-https-cursor-com-changelog-self-hosted-mach-28f9f33e
   source_type: cursor_changelog
-  theme: mobile-desktop
-  theme_matches:
-  - matched_terms:
-    - agent
-    score: 50
-    theme: agent-mode
-  - matched_terms:
-    - desktop
-    score: 50
-    theme: mobile-desktop
-  theme_resolution: manual-semantic-rule-v1
+  theme: agent-mode
   title: Computer use on Linux and Mac
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-31-bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context-af2c3a|Bring
-  your browser into Work and Codex]]'
-- '[[Changes/ChatGPT/2026-08-31-site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are|Site
-  tools use WebMCP and require a supported account, model, and webpage]]'
-- '[[Changes/Claude Code/2026-09-01-changed-add-dir-add-dir-and-additionaldirectories-to-refuse-network-paths-unc-sh|Changed
-  --add-dir, /add-dir, and additionalDirectories to refuse network paths…]]'
+- '[[Changes/Claude Code/2026-09-01-5-agent-mode-changes-in-v2-1-257|5 Agent Mode
+  changes in v2.1.257]]'
+- '[[Changes/Claude Code/2026-09-02-2-agent-mode-changes-in-v2-1-259|2 Agent Mode
+  changes in v2.1.259]]'
+- '[[Changes/Cursor/2026-09-02-run-on-your-sandboxes|Run on your sandboxes]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-02-self-hosted-machines-https-cursor-com-changelog-self-hosted-mach-28f9f33e|cursor-2026-09-02-self-hosted-machines-https-cursor-com-changelog-self-hosted-mach-28f9f33e]]'
 source_type: cursor_changelog
-theme: mobile-desktop
+theme: agent-mode
 title: Computer use on Linux and Mac
 type: change
 ---
@@ -73,7 +62,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Computer use on Linux and Mac
 
-**Cursor** · 2026-09-02 · [[Themes/mobile-desktop|Mobile and Desktop]] · Launch · [Official source](https://cursor.com/changelog/self-hosted-machines) · from [[Releases/Cursor/cursor-2026-09-02-self-hosted-machines-https-cursor-com-changelog-self-hosted-mach-28f9f33e|Self-hosted machines]]
+**Cursor** · 2026-09-02 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://cursor.com/changelog/self-hosted-machines) · from [[Releases/Cursor/cursor-2026-09-02-self-hosted-machines-https-cursor-com-changelog-self-hosted-mach-28f9f33e|Self-hosted machines]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -90,16 +79,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Mobile and Desktop
+## Nearby in Agent Mode
 
-- Earlier: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-changed-add-dir-add-dir-and-additionaldirectories-to-refuse-network-paths-unc-sh|Changed --add-dir, /add-dir, and additionalDirectories to refuse network paths…]]
-- Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-3-mobile-and-desktop-changes-in-v2-1-260|3 Mobile and Desktop changes in v2.1.260]]
+- Earlier: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-2-agent-mode-changes-in-v2-1-259|2 Agent Mode changes in v2.1.259]]
+- Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-2-agent-mode-changes-in-v2-1-260|2 Agent Mode changes in v2.1.260]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

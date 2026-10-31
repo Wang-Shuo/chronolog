@@ -1,24 +1,24 @@
 ---
 card_id: chatgpt-2026-10-20-2a9750
 date: '2026-10-20'
-description: 'ChatGPT · 2026-10-20 · Mobile and Desktop: Locked chats let you keep
+description: 'ChatGPT · 2026-10-20 · Account and Access: Locked chats let you keep
   selected conversations in your account while hiding them from regular chat history,
   pinned…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
+    login]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1316
+  lag_days: 1300
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: mobile-desktop
+  theme: account-access
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 663daf2a34723bf93c787a1287c8869449c51e12413112de52c41cab61e1e2da
+machine_hash: e5392b0ab4b51f8856ec0c7303d290d73fd0a0b7b73444fd6574f529d6b07420
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,23 +53,12 @@ record:
   slug: locked-chats-let-you-keep-selected-conversations-in-your-account-while-hiding-th
   source_release: chatgpt-2026-10-20-introducing-locked-chats-4e90035d
   source_type: chatgpt_changelog
-  theme: mobile-desktop
+  theme: account-access
   theme_matches:
-  - matched_terms:
-    - android
-    - desktop
-    - ios
-    - macos
-    score: 200
-    theme: mobile-desktop
   - matched_terms:
     - authentication
     score: 50
     theme: account-access
-  - matched_terms:
-    - apps
-    score: 50
-    theme: apps-integrations
   - matched_terms:
     - menu
     score: 50
@@ -78,18 +67,19 @@ record:
     - model
     score: 50
     theme: model-support
+  theme_resolution: manual-semantic-rule-v1
   title: Introducing locked chats
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-15-2-mobile-and-desktop-changes-in-v2-1-301|2 Mobile
-  and Desktop changes in v2.1.301]]'
-- '[[Changes/ChatGPT/2026-10-16-present-or-export-present-directly-from-chatgpt-on-the-web-export-to-powerpoint|Present
-  or export. Present directly from ChatGPT]]'
-- '[[Changes/Claude Code/2026-10-19-windows-improved-git-command-start-up-with-a-standard-git-for-windows-install-by|Windows:
-  Improved git command start-up with a standard Git for Windows install…]]'
+- '[[Changes/Claude Code/2026-10-09-improved-the-errors-for-a-refused-cloud-session-they-now-say-why-your-organizati|Improved
+  the errors for a refused cloud session]]'
+- '[[Changes/Claude Code/2026-10-14-improved-the-error-shown-when-a-cloud-session-is-refused-because-your-claude-ai|Improved
+  the error shown when a cloud session is refused because your claude.ai…]]'
+- '[[Changes/Claude Code/2026-10-16-added-a-notice-to-design-sync-and-design-login-that-standalone-claude-design-cla|Added
+  a notice to /design-sync and /design-login that standalone Claude Design…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-20-introducing-locked-chats-4e90035d|chatgpt-2026-10-20-introducing-locked-chats-4e90035d]]'
 source_type: chatgpt_changelog
-theme: mobile-desktop
+theme: account-access
 title: Introducing locked chats
 type: change
 ---
@@ -97,7 +87,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Introducing locked chats
 
-**ChatGPT** · 2026-10-20 · [[Themes/mobile-desktop|Mobile and Desktop]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-locked-chats) · from [[Releases/ChatGPT/chatgpt-2026-10-20-introducing-locked-chats-4e90035d|Introducing locked chats]]
+**ChatGPT** · 2026-10-20 · [[Themes/account-access|Account and Access]] · Launch · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-locked-chats) · from [[Releases/ChatGPT/chatgpt-2026-10-20-introducing-locked-chats-4e90035d|Introducing locked chats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -111,16 +101,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Mobile and Desktop
+## Nearby in Account and Access
 
-- Earlier: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-windows-improved-git-command-start-up-with-a-standard-git-for-windows-install-by|Windows: Improved git command start-up with a standard Git for Windows install…]]
-- Later: 2026-10-20 · Claude Code · [[Changes/Claude Code/2026-10-20-changed-plugins-that-claude-desktop-mounts-by-path-to-no-longer-keep-their-allow|Changed plugins that Claude Desktop mounts by path to no longer keep…]]
+- Earlier: 2026-10-16 · Claude Code · [[Changes/Claude Code/2026-10-16-added-a-notice-to-design-sync-and-design-login-that-standalone-claude-design-cla|Added a notice to /design-sync and /design-login that standalone Claude Design…]]
+- Later: 2026-10-20 · Claude Code · [[Changes/Claude Code/2026-10-20-vscode-changed-the-message-shown-when-a-session-does-not-start-in-time-and-no-ho|VSCode Changed the message shown when a session does not start in time and no hook…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

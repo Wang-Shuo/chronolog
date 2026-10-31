@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eac872f26b9ebb624624cefae56674df8ce158c2c72698ae6c6d79310700c44b
+machine_hash: cc392cbca12dbdfe1e6f34ae5311f2b68759d273301c254bba976e2ad3a92b97
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,6 +54,7 @@ related_changes:
   deleting a background session whose worktree has unpushed commits]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519|claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519]]'
 source_type: github_releases
+superseded: true
 theme: developer-workflow
 title: 2 Developer Workflow changes in v2.1.261
 type: change

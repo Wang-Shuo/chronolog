@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 593aedd8444da9a7b308470c3b39d2deb6f953d2c0f64367f2fef06a4a4cb144
+machine_hash: 4283a8221310f09e2408576a72701fb16df5213843f57c5d53c5d50c3c69331f
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-improved-the-error-shown-when-a-cloud-session-is-refused-because-your-claude-ai|Improved the error shown when a cloud session is refused because your claude.ai…]]
-- Later: 2026-10-20 · Claude Code · [[Changes/Claude Code/2026-10-20-vscode-changed-the-message-shown-when-a-session-does-not-start-in-time-and-no-ho|VSCode Changed the message shown when a session does not start in time and no hook…]]
+- Later: 2026-10-20 · ChatGPT · [[Changes/ChatGPT/2026-10-20-locked-chats-let-you-keep-selected-conversations-in-your-account-while-hiding-th|Introducing locked chats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

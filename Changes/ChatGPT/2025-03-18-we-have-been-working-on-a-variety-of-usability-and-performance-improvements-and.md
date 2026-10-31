@@ -1,24 +1,23 @@
 ---
 card_id: chatgpt-2025-03-18-3de287
 date: '2025-03-18'
-description: 'ChatGPT · 2025-03-18 · Mobile and Desktop: We have been working on a
-  variety of usability and performance improvements and bug fixes across Web, Android,
-  and…'
+description: 'ChatGPT · 2025-03-18 · Reliability and Performance: We have been working
+  on a variety of usability and performance improvements and bug fixes across Web…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 735
+  lag_days: 824
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: mobile-desktop
+  theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bb96f816c405911517f9e7e502c2425373e86f2206e5736ef745f58334b95093
+machine_hash: f57890f7f146352025d77e078d2d6919ef2d6c8c8c18610b0aa9d8d2e26c82c4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,30 +41,20 @@ record:
   slug: we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and
   source_release: chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255
   source_type: chatgpt_changelog
-  theme: mobile-desktop
-  theme_matches:
-  - matched_terms:
-    - android
-    - ios
-    - macos
-    score: 150
-    theme: mobile-desktop
-  - matched_terms:
-    - performance
-    score: 50
-    theme: reliability-performance
+  theme: reliability-performance
   title: We have been working on a variety of usability and performance improvements
     and bug…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|Updated
-  launch animations and composer design on Android]]'
-- '[[Changes/ChatGPT/2025-02-21-ios-widget-see-below|iOS widget (see below)]]'
-- '[[Changes/ChatGPT/2025-02-28-long-press-to-select-text-on-ios-and-moved-the-message-quick-actions-to-always-b-a40c3f|Long
-  press to select text on iOS and moved the message quick actions to always…]]'
+- '[[Changes/ChatGPT/2025-02-21-text-selection-improvements-you-can-now-select-text-across-horizontal-rulers-3-p|Text
+  selection improvements: you can now select text across horizontal rulers]]'
+- '[[Changes/Cursor/2025-03-11-5-reliability-and-performance-changes-in-0-47-x|5 Reliability
+  and Performance changes in 0.47.x]]'
+- '[[Changes/Cursor/2025-03-11-this-release-focuses-mainly-on-stability-and-performance-improvements-to-make-ex|This
+  release focuses mainly on stability and performance improvements to make…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255|chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255]]'
 source_type: chatgpt_changelog
-theme: mobile-desktop
+theme: reliability-performance
 title: We have been working on a variety of usability and performance improvements
   and bug…
 type: change
@@ -74,7 +63,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # We have been working on a variety of usability and performance improvements and bug…
 
-**ChatGPT** · 2025-03-18 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-and-the-windows-desktop-app) · from [[Releases/ChatGPT/chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255|Web and the Windows desktop app]]
+**ChatGPT** · 2025-03-18 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#web-and-the-windows-desktop-app) · from [[Releases/ChatGPT/chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255|Web and the Windows desktop app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -92,16 +81,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Mobile and Desktop
+## Nearby in Reliability and Performance
 
-- Earlier: 2025-02-28 · ChatGPT · [[Changes/ChatGPT/2025-02-28-long-press-to-select-text-on-ios-and-moved-the-message-quick-actions-to-always-b-a40c3f|Long press to select text on iOS and moved the message quick actions to always…]]
-- Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved table-copying functionality out of ChatGPT responses on iOS and macOS]]
+- Earlier: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-this-release-focuses-mainly-on-stability-and-performance-improvements-to-make-ex|This release focuses mainly on stability and performance improvements to make…]]
+- Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-improved-display-and-faster-streaming-of-conversations-and-message-menu-actions|Improved display and faster streaming of conversations and message menu actions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -457,14 +457,18 @@ def load_theme_vocabulary(path: str | Path) -> dict[str, dict[str, Any]]:
             normalize_match_text(theme["slug"]),
             normalize_match_text(theme["display_name"]),
         }
+        context_terms = {
+            normalize_match_text(term) for term in theme.get("context_aliases", [])
+        } - canonical_terms
         alias_terms = {
             normalize_match_text(term) for term in theme.get("aliases", [])
         } - canonical_terms
         vocab[theme["slug"]] = {
             **theme,
             "canonical_terms": canonical_terms,
-            "alias_terms": alias_terms,
-            "terms": canonical_terms | alias_terms,
+            "alias_terms": alias_terms | context_terms,
+            "context_terms": context_terms,
+            "terms": canonical_terms | alias_terms | context_terms,
         }
     return vocab
 
@@ -565,6 +569,14 @@ def rank_theme_matches(
                 "matched_terms": matched_terms,
             }
         )
+    # A theme matched only by plan, platform or audience names (context_aliases) yields
+    # to any theme matched by what the line is about.
+    context_only = {
+        match["theme"] for match in matches
+        if set(match["matched_terms"]) <= themes[match["theme"]].get("context_terms", set())
+    }
+    if len(context_only) < len(matches):
+        matches = [match for match in matches if match["theme"] not in context_only]
     return sorted(matches, key=lambda match: (-match["score"], match["theme"]))
 
 
@@ -635,7 +647,25 @@ RESOURCE_MEMORY_RE = re.compile(
     re.I,
 )
 PRODUCT_MEMORY_RE = re.compile(
-    r"\bmemories\b|\bremember\w*|\bpersonali[sz]\w*|\bMEMORY\.md\b|\bCLAUDE\.md\b", re.I
+    r"\bmemories\b|\bremember\w*|\brecall\w*|\bpersonali[sz]\w*|\bMEMORY\.md\b|\bCLAUDE\.md\b|"
+    r"\bauto[- ]?memory\b|\bautoMemory\w*|/memory\b|`memory`|"
+    r"\b(?:saved|persistent) memory\b|\bmemory (?:files?|index|stores?|dialog|directory|tool)\b",
+    re.I,
+)
+# A dollar amount, not shell or awk text such as $1 or $(pwd); matched outside code spans.
+MONEY_RE = r"(?<![\w$])\$\d+(?:[.,]\d+)*[kKmMbB]?(?![\w}'\"])"
+INLINE_CODE_RE = re.compile(r"`+[^`]*`+")
+# (theme, pattern, whether inline code is ignored); the first match wins.
+SPECIFIC_OVERRIDES = (
+    ('agent-mode', r'^ChatGPT Work is an agent|^We[’\']re introducing dots', False),
+    ('collaboration', r'share with specific people|share across your workspace|library sharing|assign viewer or editor', False),
+    ('model-support', r'^(?:Added|Introducing) (?:Claude )?(?:Opus|Sonnet|Haiku|Fable|GPT[- ])', False),
+    ('pricing-model', MONEY_RE, True),
+    ('pricing-model', r'(?:request|token)[ -]based pricing|\bcredits?\b.*\b(?:usage|top.up|allowance)\b', False),
+    ('safety-privacy', r'lockdown mode|credentials? from subprocess|(?:permission|classifier) rules', False),
+    ('developer-workflow', r'login shell', False),
+    ('interface-experience', r'recent (?:chats|conversations)|new chat ux|new settings|theme picker|focus view', False),
+    ('context-window', r'auto.compact|autocompactwindow', False),
 )
 
 
@@ -650,20 +680,12 @@ def is_resource_memory(text: str) -> bool:
 def semantic_preclassification_override(
     text: str,
     themes: dict[str, dict[str, Any]],
+    product: str | None = None,
 ) -> str | None:
     normalized = normalize_match_text(text)
-    specific = (
-        ('agent-mode', r'^ChatGPT Work is an agent|^We[’\']re introducing dots'),
-        ('collaboration', r'share with specific people|share across your workspace|library sharing|assign viewer or editor'),
-        ('model-support', r'^(?:Added|Introducing) (?:Claude )?(?:Opus|Sonnet|Haiku|Fable|GPT[- ])'),
-        ('pricing-model', r'\$\d|(?:request|token)[ -]based pricing|\bcredits?\b.*\b(?:usage|top.up|allowance)\b'),
-        ('safety-privacy', r'lockdown mode|credentials? from subprocess|(?:permission|classifier) rules'),
-        ('developer-workflow', r'login shell'),
-        ('interface-experience', r'recent (?:chats|conversations)|new chat ux|new settings|theme picker|focus view'),
-        ('context-window', r'auto.compact|autocompactwindow'),
-    )
-    for theme, pattern in specific:
-        if theme in themes and re.search(pattern, text, re.I):
+    code_free = INLINE_CODE_RE.sub(" ", text)
+    for theme, pattern, ignore_code in SPECIFIC_OVERRIDES:
+        if theme in themes and re.search(pattern, code_free if ignore_code else text, re.I):
             return theme
     technical_memory_phrases = (
         "memory allocation",
@@ -674,9 +696,12 @@ def semantic_preclassification_override(
         "memory usage",
         "out of memory",
     )
+    resource_sense = product in themes.get("memory", {}).get("resource_sense_products", ())
     if "reliability-performance" in themes and (
         any(contains_phrase(normalized, phrase) for phrase in technical_memory_phrases)
         or is_resource_memory(text)
+        or (resource_sense and re.search(r"\bmemory\b", text, re.I)
+            and not PRODUCT_MEMORY_RE.search(text))
     ):
         return "reliability-performance"
     if "safety-privacy" in themes and re.search(
@@ -1315,6 +1340,7 @@ def line_classification(
     text: str,
     themes: dict[str, dict[str, Any]],
     review_decision: str | None = None,
+    product: str | None = None,
 ) -> dict[str, Any] | None:
     """Theme of one line: review decision, semantic override, skip rules, hint.
 
@@ -1327,7 +1353,7 @@ def line_classification(
             "theme_resolution": "manual-backfill-review-v1",
             "theme_matches": classification.get("theme_matches", []),
         }
-    override = semantic_preclassification_override(text, themes)
+    override = semantic_preclassification_override(text, themes, product)
     if override:
         classification = {
             "theme": override,
@@ -1351,9 +1377,10 @@ def feature_classification(
     heading: str,
     first_text: str,
     themes: dict[str, dict[str, Any]],
+    product: str | None = None,
 ) -> dict[str, Any]:
     """Theme of a feature section: the heading alone when it matches, else heading + text."""
-    override = semantic_preclassification_override(heading, themes)
+    override = semantic_preclassification_override(heading, themes, product)
     heading_only = classify_theme(heading, themes)
     if override:
         return {
@@ -1365,7 +1392,7 @@ def feature_classification(
         return heading_only
     joined = f"{heading}. {first_text}" if first_text else heading
     classification = classify_theme(joined, themes)
-    override = semantic_preclassification_override(joined, themes)
+    override = semantic_preclassification_override(joined, themes, product)
     if override:
         return {
             "theme": override,
@@ -1443,7 +1470,7 @@ class _ReleaseCards:
         decision = self.decisions.get(line_id)
         if decision == "skip":
             return None
-        classification = line_classification(text, self.themes, decision)
+        classification = line_classification(text, self.themes, decision, self.release.get("product"))
         if classification is None:
             return None
         self.used.add(line_id)
@@ -1469,7 +1496,7 @@ class _ReleaseCards:
         items = [item for block in section["blocks"] if (item := self.item(block))]
         heading = section["heading"]
         first = items[0]["text"] if items else ""
-        classification = feature_classification(heading, first, self.themes)
+        classification = feature_classification(heading, first, self.themes, self.release.get("product"))
         if not items:
             heading_id = self.identity([heading])
             if heading_id in self.used or self.decisions.get(heading_id) == "skip":

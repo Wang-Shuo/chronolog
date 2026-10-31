@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f62aebbf8dcd9e37f3f76864a42deb2fb6e48721c3fa3e1c0b826eef2e8a7c61
+machine_hash: 3f395e954f992b35a930f9b60a6d56583b2a54bb1e0a507c5994315df8ac038e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -59,10 +59,6 @@ record:
     - deep research
     score: 60
     theme: search-browsing
-  - matched_terms:
-    - apps
-    score: 50
-    theme: apps-integrations
   title: Updates to deep research
   type: change
 related_changes:

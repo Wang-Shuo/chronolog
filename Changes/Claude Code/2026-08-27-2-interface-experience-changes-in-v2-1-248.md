@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b252e4f50f15376edcc38b3f234742824edf4a0dbb2537279175540a07388482
+machine_hash: d86e966f6f01e23dba5f286bbe2b4612bb72c903326b5e57fbf420092b2f6ac9
 product: claude-code
 product_name: Claude Code
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.248
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-changed-the-prompt-footer-pr-badge-to-skip-its-github-re-check-on-terminal-refoc|Changed the prompt-footer PR badge to skip its GitHub re-check on terminal refocus…]]
-- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-2-interface-experience-changes-in-v2-1-257|2 Interface Experience changes in v2.1.257]]
+- Later: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-added-a-spend-limit-bar-to-usage-and-a-rate-limits-spend-limit-status-line-field|Added a Spend limit bar to /usage and a rate_limits.spend_limit status line…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

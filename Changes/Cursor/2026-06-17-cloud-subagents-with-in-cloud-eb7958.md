@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c2c889f24f8f032f9729d175677a220519e4fb0d2dc08050c166e37e32b5326d
+machine_hash: 28b5b85fff77c75ae67b2df13d8510c7e1da23c601614a63f18c990457621f26
 product: cursor
 product_name: Cursor
 record:
@@ -56,12 +56,12 @@ record:
   title: Cloud subagents with /in-cloud
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-15-2-agent-mode-changes-in-v2-1-178|2 Agent Mode
-  changes in v2.1.178]]'
 - '[[Changes/Claude Code/2026-06-17-improved-the-subagent-panel-idle-subagents-auto-hide-after-30s-the-list-caps-at|Improved
   the subagent panel]]'
 - '[[Changes/Cursor/2026-06-17-handoff-between-local-and-cloud|Handoff between local
   and cloud]]'
+- '[[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|Cursor
+  introduces updates to cloud agents in the Agents Window of the Cursor desktop app]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa|cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -92,7 +92,7 @@ type: change
 
 - [[Changes/Cursor/2026-06-17-cloud-environment-setup-8a7697|Cloud environment setup]] · Developer Workflow
 - [[Changes/Cursor/2026-06-17-handoff-between-local-and-cloud|Handoff between local and cloud]] · Agent Mode
-- [[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|Cursor introduces updates to cloud agents in the Agents Window of the Cursor desktop app]] · Mobile and Desktop
+- [[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|Cursor introduces updates to cloud agents in the Agents Window of the Cursor desktop app]] · Agent Mode
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

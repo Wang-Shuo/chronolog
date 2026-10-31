@@ -2,9 +2,8 @@
 changes_count: 6
 date: '2025-02-14'
 description: 'ChatGPT release - Set ChatGPT as default search engine in Safari. on
-  2025-02-14: 6 tracked changes across Mobile and Desktop, Search and Browsing, Voice
-  and…'
-machine_hash: 55bd79f10d956ef95f6600525f4abcb6a3d720e05cdcefad1d0e3759c4467c7d
+  2025-02-14: 6 tracked changes across Mobile and Desktop, Reliability and Performance…'
+machine_hash: 2e0713e1038bb8093e8e1c728d34ffe1c8827b3ebff338fb7184f9f7e7565c7b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,8 +45,8 @@ Tracked 6 cards from 6 candidate lines.
 <!-- chronolog:begin region="cards" -->
 - [[Changes/ChatGPT/2025-02-14-whisper-chatgpt-s-voice-to-text-feature-now-shows-a-text-preview-of-dictated-tex|Whisper (ChatGPT's voice-to-text feature) now shows a text preview of dictated text…]] · Voice and Audio
 - [[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set ChatGPT as default search engine in Safari]] · Search and Browsing
-- [[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved Android conversation parsing performance]] · Mobile and Desktop
-- [[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved Android conversation parsing performance]] · Reliability and Performance
+- [[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes]] · Reliability and Performance
 - [[Changes/ChatGPT/2025-02-14-confirmation-dialog-for-logging-out-ios-web|Confirmation dialog for logging out (iOS, web)]] · Mobile and Desktop
 - [[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|Updated launch animations and composer design on Android]] · Mobile and Desktop
 <!-- chronolog:end -->

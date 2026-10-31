@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 17668498c97befcb23be097de6022d9bf134b054b3f2f00d37a8e9979ad261db
+machine_hash: 149845a3a1986e9c09ad139079c1e7cd52cec72b5c67a6680b98224027e65369
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
     to 2 lines
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-added-lsp-language-server-protocol-tool-for-code-intelligence-features-like-go-t|Added
-  LSP (Language Server Protocol) tool for code intelligence features like…]]'
 - '[[Changes/Claude Code/2025-12-19-added-terminal-setup-support-for-kitty-alacritty-zed-and-warp-terminals|Added
   /terminal-setup support for Kitty, Alacritty, Zed, and Warp terminals]]'
+- '[[Changes/Claude Code/2025-12-19-2-developer-workflow-changes-in-v2-0-74|2 Developer
+  Workflow changes in v2.0.74]]'
 - '[[Changes/Cursor/2026-01-08-3-developer-workflow-changes-in-new-cli-features-and-improved-cli|3
   Developer Workflow changes in New CLI Features and Improved CLI…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-3-github-275638643-101f767c|claude-code-2026-01-09-v2-1-3-github-275638643-101f767c]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-3-developer-workflow-changes-in-new-cli-features-and-improved-cli|3 Developer Workflow changes in New CLI Features and Improved CLI…]]
-- Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-3-developer-workflow-changes-in-v2-1-2|3 Developer Workflow changes in v2.1.2]]
+- Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-4-developer-workflow-changes-in-v2-1-2|4 Developer Workflow changes in v2.1.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e91b2fa8e32a61c018dd821de46b6a55729142be95a11b5779d66cf0914fc1a2
+machine_hash: aeb3e059ca6ca24ff2cf35e24d9ded6d2d099ed7b01ea213e9cdf282bdc70958
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -68,6 +68,7 @@ related_changes:
   create a Site, start in ChatGPT Work on the web or in Work or Codex…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810|chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810]]'
 source_type: chatgpt_changelog
+superseded: true
 theme: mobile-desktop
 title: The new ChatGPT desktop app brings Chat, Work, and Codex together
 type: change

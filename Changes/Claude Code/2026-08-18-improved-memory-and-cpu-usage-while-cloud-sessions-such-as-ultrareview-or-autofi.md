@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 284a5e83719349fd633c4c7da61f543f0aae67b332270f70ac7906d65a3ae453
+machine_hash: c5fd714bf7f291873216a979b309998d4ed350791657fcdd3e05291a447dde59
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,6 +54,7 @@ related_changes:
 - '[[Changes/Cursor/2026-08-13-faster-starts|Faster starts]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f|claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f]]'
 source_type: github_releases
+superseded: true
 theme: reliability-performance
 title: Improved memory and CPU usage while cloud sessions such as /ultrareview…
 type: change

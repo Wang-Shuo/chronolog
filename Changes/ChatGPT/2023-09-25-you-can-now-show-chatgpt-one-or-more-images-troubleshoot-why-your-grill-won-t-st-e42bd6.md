@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 605a9c02688fbe4c992491fa523f1a55707ca9db1fb4a2bbb1e9b9d000a2d670
+machine_hash: faf82225fa7ca6173c057e7cec1eda3379cc4a05c36bea789670df58dba7f026
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -72,7 +72,7 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]] · Mobile and Desktop
+- [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]] · Voice and Audio
 - [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]] · Voice and Audio
 <!-- chronolog:end -->
 

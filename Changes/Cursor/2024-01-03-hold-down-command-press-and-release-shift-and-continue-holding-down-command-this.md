@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 09b6a513781baa299260644bbffdfff72b08eebca2a242fc1468decf19f43cfd
+machine_hash: 8fcd07bc24be26b7894247f5d75abb0ef92545f22074bd776d608486dcfd0968
 product: cursor
 product_name: Cursor
 record:
@@ -51,10 +51,10 @@ record:
   title: 'Early Preview: Hold-cmd-tap-shift to Trigger AI Rewrite'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-16-update-0-20-1-0-20-2-we-added-tldrs-to-make-it-easier-to-sort-through-the-bugs-f|UPDATE
-  (0.20.1-0.20.2): We added TLDRs to make it easier to sort through the bugs…]]'
 - '[[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|Multiple
   Command-K, Copilot++ UI]]'
+- '[[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|VS
+  Code 1.85.1]]'
 - '[[Changes/Cursor/2023-12-31-you-can-now-use-chat-and-cmd-k-in-the-aux-window-without-too-many-problems|Aux
   Window Fixes]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-03-0-21-5-nightly-https-cursor-com-changelog-0-21-5-nightly-3b0a9ab7|cursor-2024-01-03-0-21-5-nightly-https-cursor-com-changelog-0-21-5-nightly-3b0a9ab7]]'

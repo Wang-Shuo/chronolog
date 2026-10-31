@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 328168125b35fb03b0fa6cc3731a1669b793f9b911c96d0ed6a1117b06107874
+machine_hash: 0445db92af0163ceeffcc75b21352699d0e4447b84c183dd97c792186121cb1f
 product: cursor
 product_name: Cursor
 record:
@@ -89,19 +89,18 @@ type: change
 
 - [[Changes/Cursor/2025-10-29-shareable-team-commands|Shareable Team Commands]] · Collaboration
 - [[Changes/Cursor/2025-10-29-improved-code-review|Improved Code Review]] · Developer Workflow
-- [[Changes/Cursor/2025-10-29-browser-ga-1124ce|Browser (GA)]] · Enterprise and Administration
+- [[Changes/Cursor/2025-10-29-browser-ga-1124ce|Browser (GA)]] · Agent Mode
 - [[Changes/Cursor/2025-10-29-optimized-text-parsing-for-chat-rendering|Optimized text parsing for chat rendering]] · Interface Experience
 - [[Changes/Cursor/2025-10-29-sandboxed-terminals-ga|Sandboxed Terminals (GA)]] · Safety and Privacy
 - [[Changes/Cursor/2025-10-29-improved-agent-harness|Improved Agent Harness]] · Agent Mode
 - [[Changes/Cursor/2025-10-29-voice-mode|Voice Mode]] · Voice and Audio
 - [[Changes/Cursor/2025-10-29-cursor-for-enterprise|Cursor for Enterprise]] · Enterprise and Administration
 - [[Changes/Cursor/2025-10-29-audit-log|Audit Log]] · Collaboration
-- [[Changes/Cursor/2025-10-29-increased-default-memory-for-typescript-language-server|Increased default memory for TypeScript language server]] · Memory and Personalization
 - [[Changes/Cursor/2025-10-29-background-agents-have-been-renamed-to-cloud-agents|Background Agents have been renamed to Cloud Agents]] · Agent Mode
 - [[Changes/Cursor/2025-10-29-cloud-agents|Cloud Agents]] · Agent Mode
+- [[Changes/Cursor/2025-10-29-2-reliability-and-performance-changes-in-2-0|2 Reliability and Performance changes in 2.0]] · Reliability and Performance
 - [[Changes/Cursor/2025-10-29-improved-performance|Improved Performance]] · Reliability and Performance
 - [[Changes/Cursor/2025-10-29-3-developer-workflow-changes-in-2-0|3 Developer Workflow changes in 2.0]] · Developer Workflow
-- [[Changes/Cursor/2025-10-29-optimized-findfiles-performance-to-batch-concurrent-calls-at-bounded-concurrency|Optimized findFiles performance to batch concurrent calls at bounded concurrency]] · Reliability and Performance
 - [[Changes/Cursor/2025-10-29-plan-mode-in-background|Plan Mode in Background]] · Model Support
 - [[Changes/Cursor/2025-10-29-hooks-cloud-distribution|Hooks: Cloud Distribution]] · Enterprise and Administration
 - [[Changes/Cursor/2025-10-29-multi-agents-bb4f56|Multi-Agents]] · Agent Mode

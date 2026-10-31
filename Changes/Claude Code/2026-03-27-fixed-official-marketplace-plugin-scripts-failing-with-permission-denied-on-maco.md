@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 2cc2b6d3dbbce6fdaad184ce807f8c9a72ab587aa4094c08a94f72deb004654d
+machine_hash: e55a8f0b960d66f3aa168b485e29bb96c9891ec3cadd63e22ba097da07e687ea
 product: claude-code
 product_name: Claude Code
 record:
@@ -39,15 +39,7 @@ record:
   source_release: claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859
   source_type: github_releases
   theme: safety-privacy
-  theme_matches:
-  - matched_terms:
-    - plugin
-    score: 50
-    theme: apps-integrations
-  - matched_terms:
-    - macos
-    score: 50
-    theme: mobile-desktop
+  theme_matches: []
   theme_resolution: manual-semantic-rule-v2
   title: Fixed official marketplace plugin scripts failing…
   type: change

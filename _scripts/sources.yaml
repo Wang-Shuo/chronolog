@@ -6,6 +6,9 @@ products:
     feed_type: chatgpt_changelog
     url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
     backfill: full
+    # Refreshed from a manual browser snapshot (about weekly) while automated access is
+    # refused; pipeline_health flags reviewed data older than this many days.
+    max_staleness_days: 8
     themes: [multimodal, voice, memory, image-generation, search-browsing, apps-integrations, safety-privacy, enterprise-admin, mobile-desktop, model-support, pricing-model, automation-scheduling, projects-workspaces, accessibility-localization, learning-tools]
     track_silence: true
     silence_window: month
@@ -17,6 +20,7 @@ products:
     feed_type: github_releases
     repo: anthropics/claude-code
     backfill: full
+    max_staleness_days: 2
     themes: [agent-mode, context-window, model-support, editor-experience, collaboration, apps-integrations, safety-privacy, automation-scheduling, projects-workspaces, accessibility-localization]
     track_silence: true
     silence_window: month
@@ -28,6 +32,7 @@ products:
     feed_type: cursor_changelog
     url: https://cursor.com/changelog
     backfill: full
+    max_staleness_days: 2
     themes: [agent-mode, context-window, model-support, editor-experience, collaboration, apps-integrations, enterprise-admin, mobile-desktop, pricing-model, automation-scheduling, projects-workspaces, accessibility-localization]
     track_silence: true
     silence_window: month

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ede0771113b3517cc72b6590742bf64becf25ed288ec264f81940f5265644fa9
+machine_hash: 3a89f5d28c8eb63fa5f6b656d5eee2345c1a7eaf241e9b40c795ae89ececc2c3
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,6 +53,7 @@ related_changes:
   to automatic switching to thinking in ChatGPT (Plus and Pro)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'
 source_type: github_releases
+superseded: true
 theme: model-support
 title: Improved startup time slightly by skipping a redundant validation of built-in
   model…

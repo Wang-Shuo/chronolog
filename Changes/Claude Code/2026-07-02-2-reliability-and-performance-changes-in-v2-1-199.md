@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ae399b5c6c4c180b706e48f45f48c370ef696750723e8c679e658a76501b3770
+machine_hash: 8ce608fa8ea44929c288a314878c07743bb39d04680aa39688bd6d017cbec3e2
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Reliability and Performance changes in v2.1.199
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-18-easier-conversation-sharing-sharing-a-conversation-is-now-faster-with-a-one-clic|Easier
-  conversation sharing]]'
 - '[[Changes/Claude Code/2026-06-20-the-stream-stall-hint-now-reads-waiting-for-api-response-will-retry-in-instead-o|The
   stream-stall hint now reads "Waiting for API response · will retry in …" instead…]]'
+- '[[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced
+  long-session memory growth from terminal output cache]]'
 - '[[Changes/Claude Code/2026-06-25-added-automatic-memory-pressure-reaping-for-idle-background-shell-commands-disab|Added
   automatic memory-pressure reaping for idle background shell commands…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f|claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f]]'

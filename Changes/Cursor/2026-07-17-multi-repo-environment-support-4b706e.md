@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 81837114d0f4cbc69695b1e87042579a96ff737d761efd47245a7171b724f4f6
+machine_hash: f189b262ce14a5b2bf7c8666b8d4c19802f61d10a78a0ca444785ab2117e6c32
 product: cursor
 product_name: Cursor
 record:
@@ -57,8 +57,8 @@ record:
 related_changes:
 - '[[Changes/Claude Code/2026-07-15-2-apps-and-integrations-changes-in-v2-1-211|2
   Apps and Integrations changes in v2.1.211]]'
-- '[[Changes/Claude Code/2026-07-17-2-apps-and-integrations-changes-in-v2-1-212|2
-  Apps and Integrations changes in v2.1.212]]'
+- '[[Changes/Claude Code/2026-07-17-mcp-tool-calls-running-longer-than-2-minutes-now-move-to-the-background-automati|MCP
+  tool calls running longer than 2 minutes now move to the background…]]'
 - '[[Changes/Cursor/2026-07-17-cursor-in-slack-now-shares-a-plan-before-it-starts-runs-in-multi-repo-environmen|Cursor
   in Slack now shares a plan before it starts, runs in multi-repo environments…]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6|cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6]]'
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-2-apps-and-integrations-changes-in-v2-1-212|2 Apps and Integrations changes in v2.1.212]]
+- Earlier: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-mcp-tool-calls-running-longer-than-2-minutes-now-move-to-the-background-automati|MCP tool calls running longer than 2 minutes now move to the background…]]
 - Later: 2026-07-18 · Claude Code · [[Changes/Claude Code/2026-07-18-changed-sessionstart-hooks-to-report-source-fork-when-a-session-begins-as-a-fork|Changed SessionStart hooks to report source "fork" when a session begins as a fork…]]
 <!-- chronolog:end -->
 

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: d183ef940b85ab126fc6940d8961bd9d22c09b303bcd915611398d3bab16bcd6
+machine_hash: 366e43bdae4b510b4313e435ac269cfc62b369c39ca400c4b9a803b3013ed09f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -73,17 +73,6 @@ record:
   source_release: chatgpt-2025-09-25-introducing-chatgpt-pulse-for-pro-users-5be6c168
   source_type: chatgpt_changelog
   theme: memory
-  theme_matches:
-  - matched_terms:
-    - memory
-    score: 110
-    theme: memory
-  - matched_terms:
-    - android
-    - ios
-    score: 100
-    theme: mobile-desktop
-  theme_resolution: manual-semantic-rule-v1
   title: Introducing ChatGPT Pulse for Pro users
   type: change
 related_changes:

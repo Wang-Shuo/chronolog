@@ -4,8 +4,8 @@ date: '2026-09-23'
 description: 'ChatGPT · 2026-09-23 · Voice and Audio: Live now supports plugins on
   web, iOS, and Android. You can use the plugins and connected apps available to your…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
-    are beginning to roll out new voice and image capabilities in ChatGPT]]'
+  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
+    (Beta) is now rolling out to Plus users on iOS and Android]]'
   inference: No adoption, equivalence, or causation claim.
   lag_days: 1094
   relation: same-theme-chronology
@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 93dec42d66d897035e328cbf90334e57d673abcda9e49fe7a974717ecbcbb257
+machine_hash: 9503a47afde7c9648053e771a0530a3610e8d83f9d5defa85d95a02a3613bd71
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,11 +60,6 @@ record:
     - plugins
     score: 100
     theme: apps-integrations
-  - matched_terms:
-    - android
-    - ios
-    score: 100
-    theme: mobile-desktop
   theme_resolution: manual-semantic-rule-v1
   title: Use plugins in Voice and get work done by speaking
   type: change
@@ -106,13 +101,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-to-continue-a-voice-conversation-outside-chatgpt-turn-on-background-conversation|To continue a Voice conversation outside ChatGPT, turn on Background conversations…]]
-- Later: 2026-10-06 · ChatGPT · [[Changes/ChatGPT/2026-10-06-upload-audio-files-to-chatgpt-to-create-transcripts-summarize-recordings-and-ask|Audio uploads in ChatGPT]]
+- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio is deleted once your notes are ready and can’t be accessed or replayed]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

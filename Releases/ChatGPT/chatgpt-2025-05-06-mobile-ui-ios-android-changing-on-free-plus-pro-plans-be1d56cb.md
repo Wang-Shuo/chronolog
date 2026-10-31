@@ -2,8 +2,8 @@
 changes_count: 1
 date: '2025-05-06'
 description: 'ChatGPT release Mobile UI (iOS/Android) changing on Free/Plus/Pro plans
-  on 2025-05-06: 1 tracked change across Mobile and Desktop'
-machine_hash: 52d3338f03c2ffb8503aa18527ef622b2422adbb38093fdc38e3de35391a55ae
+  on 2025-05-06: 1 tracked change across Interface Experience'
+machine_hash: 2d5fc0f02a11eaa565bf7ee82d351a7d748d71e657e5e0a787c3abb65cdbbb1c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,5 +46,5 @@ Tracked 1 card from 2 candidate lines.
 
 ## Change Cards
 <!-- chronolog:begin region="cards" -->
-- [[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a35dd7|Mobile UI (iOS/Android) changing on Free/Plus/Pro plans]] · Mobile and Desktop
+- [[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a35dd7|Mobile UI (iOS/Android) changing on Free/Plus/Pro plans]] · Interface Experience
 <!-- chronolog:end -->

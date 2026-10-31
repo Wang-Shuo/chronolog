@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f340f8f22d9c7e29efd7577e80059cf101dddddf7a825069ef9171db740893ad
+machine_hash: a1862fa7a6873006243752e4d6d2f9d4abe37e9de2b9bbc76d45abf085a6d64a
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,9 +43,10 @@ record:
   title: Improved startup responsiveness
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-13-faster-starts|Faster starts]]'
-- '[[Changes/Claude Code/2026-08-18-improved-memory-and-cpu-usage-while-cloud-sessions-such-as-ultrareview-or-autofi|Improved
-  memory and CPU usage while cloud sessions such as /ultrareview…]]'
+- '[[Changes/Claude Code/2026-08-14-added-opt-in-memory-cgroup-support-for-bash-tool-commands-on-linux-claude-code-t|Added
+  opt-in memory cgroup support for Bash tool commands on Linux…]]'
+- '[[Changes/Claude Code/2026-08-18-2-reliability-and-performance-changes-in-v2-1-235|2
+  Reliability and Performance changes in v2.1.235]]'
 - '[[Changes/Claude Code/2026-08-19-improved-startup-performance-the-session-counter-is-now-written-in-the-backgroun|Improved
   startup performance: the session counter is now written in the background]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2|claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2]]'

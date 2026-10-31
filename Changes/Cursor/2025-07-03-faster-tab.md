@@ -1,23 +1,23 @@
 ---
 card_id: cursor-2025-07-03-2f5eac
 date: '2025-07-03'
-description: 'Cursor · 2025-07-03 · Memory and Personalization: Tab completions are
+description: 'Cursor · 2025-07-03 · Reliability and Performance: Tab completions are
   now ~100ms faster, and TTFT has been reduced by 30%. We made this possible by…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
-    instructions are rolling out in beta]]'
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 714
+  lag_days: 931
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
-  theme: memory
+  theme: reliability-performance
   tracked_products_count: 3
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 78f56822ad995f0b31d888f5ec12df59dc6548a305276065215d1d2bf3cae2e7
+machine_hash: 5aec89ee5ad7667da914ebbd6afd1a62ab91e7b05aec4da01e772793f01db451
 product: cursor
 product_name: Cursor
 record:
@@ -40,7 +40,7 @@ record:
   slug: faster-tab
   source_release: cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d
   source_type: cursor_changelog
-  theme: memory
+  theme: reliability-performance
   theme_matches:
   - matched_terms:
     - memory
@@ -54,17 +54,19 @@ record:
     - faster
     score: 50
     theme: reliability-performance
+  theme_resolution: manual-semantic-rule-v2
   title: Faster Tab
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-04-memories|Memories]]'
-- '[[Changes/ChatGPT/2025-06-12-improvements-to-memory-to-reference-past-chats-in-a-project|Improvements
-  to memory to reference past chats in a project]]'
-- '[[Changes/Cursor/2025-07-03-memories-is-now-ga-since-1-0-we-ve-improved-memory-generation-quality-added-in-e|Memories
-  (now GA)]]'
+- '[[Changes/Cursor/2025-06-04-faster-responses-with-parallel-tool-calls|Faster responses
+  with parallel tool calls]]'
+- '[[Changes/Cursor/2025-06-12-3-reliability-and-performance-changes-in-1-1|3 Reliability
+  and Performance changes in 1.1]]'
+- '[[Changes/ChatGPT/2025-06-13-improved-search-capability-and-instruction-following-594de0|Improved
+  search capability and instruction following]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d]]'
 source_type: cursor_changelog
-theme: memory
+theme: reliability-performance
 title: Faster Tab
 type: change
 ---
@@ -72,7 +74,7 @@ type: change
 <!-- chronolog:begin region="header" -->
 # Faster Tab
 
-**Cursor** · 2025-07-03 · [[Themes/memory|Memory and Personalization]] · [Official source](https://cursor.com/changelog/1-2) · from [[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|Agent Planning, Better Context & Faster Tab]]
+**Cursor** · 2025-07-03 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://cursor.com/changelog/1-2) · from [[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|Agent Planning, Better Context & Faster Tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="evidence" -->
@@ -99,16 +101,16 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
-## Nearby in Memory and Personalization
+## Nearby in Reliability and Performance
 
-- Earlier: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-improvements-to-memory-to-reference-past-chats-in-a-project|Improvements to memory to reference past chats in a project]]
-- Later: 2025-07-29 · ChatGPT · [[Changes/ChatGPT/2025-07-29-personalize-responses-based-on-your-past-chats-if-memory-is-on-using-examples-an|Personalize responses based on your past chats if memory is on, using examples…]]
+- Earlier: 2025-06-13 · ChatGPT · [[Changes/ChatGPT/2025-06-13-improved-search-capability-and-instruction-following-594de0|Improved search capability and instruction following]]
+- Later: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-agent-edits-are-now-faster-by-lazy-loading-linter-errors-search-replace-edit-lat|Faster edits]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-20 · ChatGPT · [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom instructions are rolling out in beta]]
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 659dc9c9da263dfdfb9195c25172bd03b313c19fdb07310af4515685fb1cc91c
+machine_hash: e4d16f101646e6f9ba2df40b28e23f486949216cc55e83586fc6ce9d67e00f54
 product: claude-code
 product_name: Claude Code
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-07-10 · Claude Code · [[Changes/Claude Code/2026-07-10-4-developer-workflow-changes-in-v2-1-206|4 Developer Workflow changes in v2.1.206]]
-- Later: 2026-07-19 · Claude Code · [[Changes/Claude Code/2026-07-19-claude-no-longer-runs-the-verify-and-code-review-skills-on-its-own-invoke-them-w|Claude no longer runs the /verify and /code-review skills on its own]]
+- Later: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-changed-enterprise-forceloginmethod-to-be-enforced-for-vs-code-extension-sdk-set|Changed Enterprise forceLoginMethod to be enforced for VS Code extension, SDK…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

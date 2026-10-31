@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 87f33f8f85d2d6a3510e07a5fb2eba965b42f9858e66506fe044ab6e868c9e12
+machine_hash: 5406a0562e8e13c17d477dc8ecd0f0fa278016ea857102b503df6262d86a5ad9
 product: claude-code
 product_name: Claude Code
 record:
@@ -66,6 +66,7 @@ related_changes:
   a sketch into an image]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405|claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405]]'
 source_type: github_releases
+superseded: true
 theme: mobile-desktop
 title: Added user.email and user.groups to the telemetry Claude Desktop and Cowork
   send…

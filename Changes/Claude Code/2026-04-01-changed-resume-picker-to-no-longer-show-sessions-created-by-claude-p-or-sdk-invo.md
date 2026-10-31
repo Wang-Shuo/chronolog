@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ef04ec3c5d5cacc5ddefa09f8f2a617fbba933153c25407d9b0171b735451506
+machine_hash: 1ccdae0d211281f07018f92370aa1a408c7538913f8cce67bba27b7fc56ce41e
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
     or SDK…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-25-2-interface-experience-changes-in-v2-1-83|2 Interface
-  Experience changes in v2.1.83]]'
+- '[[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|A
+  simplified sidebar on mobile]]'
 - '[[Changes/Claude Code/2026-03-26-improved-mention-file-autocomplete-performance-on-large-repositories|Improved
   @-mention file autocomplete performance on large repositories]]'
 - '[[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed

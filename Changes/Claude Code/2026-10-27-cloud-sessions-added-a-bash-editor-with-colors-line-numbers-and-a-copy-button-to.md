@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d209c7512d82f36bc564c5c7374b1d9e61e3550e16ec04f236f3b2728f050938
+machine_hash: 9612c06a9298de7cf24cbbb934e5c6f7ca220bccbad5426e9fee56044930c714
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-vscode-changed-the-session-list-side-bar-to-load-web-sessions-when-the-web-tab-i|VSCode Changed the session list side bar to load Web sessions when the Web tab…]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-improved-permissions-review-tab-now-called-recently-blocked-the-footer-says-what|Improved /permissions review tab, now called Recently blocked]]
+- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-2-editor-experience-changes-in-v2-1-314|2 Editor Experience changes in v2.1.314]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

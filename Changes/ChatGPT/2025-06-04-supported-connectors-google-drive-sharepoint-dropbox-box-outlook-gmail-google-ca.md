@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b3a98a208935b41f0502f056fa4404603a49f76014a653330f6ff2b43ea1d9e7
+machine_hash: d6b2dd6fcf158eb7301edeb5aa2dac462ea9c9c4dd0d5e60d234d35c29e3f717
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,15 +41,7 @@ record:
   source_release: chatgpt-2025-06-04-connectors-in-beta-for-deep-research-plus-pro-team-enterprise-ed-6bb21f0f
   source_type: chatgpt_changelog
   theme: apps-integrations
-  theme_matches:
-  - matched_terms:
-    - connectors
-    score: 50
-    theme: apps-integrations
-  - matched_terms:
-    - teams
-    score: 50
-    theme: collaboration
+  theme_matches: []
   theme_resolution: manual-backfill-review-v1
   title: 'Supported connectors: Google Drive, SharePoint, Dropbox, Box, Outlook, Gmail,
     Google…'

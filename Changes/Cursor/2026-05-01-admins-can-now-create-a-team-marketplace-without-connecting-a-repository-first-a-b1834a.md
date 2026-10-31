@@ -16,7 +16,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f2dc300e725e255e09e56c533d698db97fe9de403d0c6d59aba144d9bdc80f96
+machine_hash: ce29271c60678a435d933e4e5848a43aa0ae5ac2386d8a3b7200b0f95bced86c
 product: cursor
 product_name: Cursor
 record:
@@ -55,10 +55,6 @@ record:
     - plugins
     score: 50
     theme: apps-integrations
-  - matched_terms:
-    - team
-    score: 50
-    theme: collaboration
   - matched_terms:
     - admins
     score: 50
@@ -111,7 +107,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-04-10 · Claude Code · [[Changes/Claude Code/2026-04-10-added-team-onboarding-command-to-generate-a-teammate-ramp-up-guide-from-your-loc|Added /team-onboarding command to generate a teammate ramp-up guide…]]
-- Later: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams-5c75c9|Cursor is now available in Microsoft Teams]]
+- Later: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is now available in Microsoft Teams]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4b28dbbbfc0486ac9ed6a3dd588eb7b124203afc55eafff47eb480be95071234
+machine_hash: ad47a2b9edf2a2025a85357a3f66963ad8e0a2caa3ad35be0f47c493d8135d35
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,7 +54,7 @@ record:
   title: Improved prompt-cache stability
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-03-2-context-window-changes-in-v2-1-260|2 Context
+- '[[Changes/Claude Code/2026-09-03-3-context-window-changes-in-v2-1-260|3 Context
   Window changes in v2.1.260]]'
 - '[[Changes/Claude Code/2026-09-04-changed-context-token-counting-to-use-a-local-estimate-when-the-token-counting-a|Changed
   /context token counting to use a local estimate when the token-counting…]]'

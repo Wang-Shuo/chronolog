@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: ba3bebec29969cf2757517bea4e5536061558a34cff2fa0accd090420f470c75
+machine_hash: fcca645acfa1c4f0d8a97939d6924f6c730d889960657289286c13e6c221d1c1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -83,10 +83,6 @@ record:
     - agentic
     score: 50
     theme: agent-mode
-  - matched_terms:
-    - desktop
-    score: 50
-    theme: mobile-desktop
   - matched_terms:
     - browsing
     score: 50

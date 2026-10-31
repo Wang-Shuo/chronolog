@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c86c2916658dc78a60bf5a5206786c53129cd50926fc5673fb80902ceab81b3b
+machine_hash: ab4a346e7abc27e4637b1d8b7cab1fd79a99b71c581fae9c0a3fd66dd691bd9e
 product: claude-code
 product_name: Claude Code
 record:
@@ -102,7 +102,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-vscode-added-memory-and-instructions-entries-to-the-customize-menu-memory-shows|VSCode Added Memory and Instructions entries to the Customize menu]]
-- Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-2-memory-and-personalization-changes-in-v2-1-284|2 Memory and Personalization changes in v2.1.284]]
+- Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-improved-auto-memory-loading-invisible-characters-and-tags-that-imitate-claude-c|Improved auto-memory loading]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

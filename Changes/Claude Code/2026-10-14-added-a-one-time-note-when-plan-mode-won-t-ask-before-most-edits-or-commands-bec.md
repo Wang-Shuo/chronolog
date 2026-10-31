@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4d1b77995064c3bd8cea6ef0968bf25d81b7892ea7e51bdc0b58a75da66bceb9
+machine_hash: f4b43b81a4bf68d49984491c312dd7883ad6464a43008f9fab831cb7f2544a4c
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,6 +54,7 @@ related_changes:
   sessions Added a status filter to the Sessions and Runners lists…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'
 source_type: github_releases
+superseded: true
 theme: editor-experience
 title: Added a one-time note when plan mode won't ask before most edits or commands
   because…
