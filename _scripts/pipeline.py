@@ -28,16 +28,23 @@ def execution_date(timezone: str = "Asia/Shanghai") -> str:
     return datetime.now(ZoneInfo(timezone)).date().isoformat()
 
 
-def check_collection(payload: dict[str, Any], reconcile: bool) -> set[str]:
+def check_collection(payload: dict[str, Any], reconcile: bool, allow_partial: bool = False) -> set[str]:
     sources = payload.get("sources", [])
-    if payload.get("errors") or not sources or any(s.get("status") != "success" for s in sources):
+    if not sources or (not allow_partial and (payload.get("errors") or any(s.get("status") != "success" for s in sources))):
         raise ValueError(f"collection failed: {payload.get('errors') or sources or 'no requested sources'}")
-    requested = {s["product"] for s in sources}
-    if len(requested) != len(sources):
+    if len({s['product'] for s in sources}) != len(sources):
         raise ValueError("duplicate source status")
+    if any(s.get('status') not in {'success', 'failed'} for s in sources):
+        raise ValueError('invalid source status')
+    failed = {s['product'] for s in sources if s['status'] == 'failed'}
+    if any(e.get('product') not in failed for e in payload.get('errors', [])):
+        raise ValueError('unattributed collection error')
+    requested = {s['product'] for s in sources if s['status'] == 'success'}
+    if not requested:
+        raise ValueError('collection failed: no successful sources')
     if payload.get("mode") not in {"full", "incremental"}:
         raise ValueError("collection must declare full or incremental mode")
-    if reconcile and (payload["mode"] != "full" or any(not s.get("complete") for s in sources)):
+    if reconcile and (payload["mode"] != "full" or any(not s.get("complete") for s in sources if s['product'] in requested)):
         raise ValueError("reconcile requires complete full collection for every requested source")
     releases = payload.get("releases", [])
     ids = set()
@@ -53,6 +60,10 @@ def check_collection(payload: dict[str, Any], reconcile: bool) -> set[str]:
             if value in {"", ".", ".."} or "/" in value or "\\" in value:
                 raise ValueError(f"unsafe {key}: {value}")
     for source in sources:
+        if source['product'] in failed:
+            if source.get('count') != 0 or source.get('complete') or not source.get('error'):
+                raise ValueError('failed source must contain no accepted data and explain its failure')
+            continue
         count = sum(r["product"] == source["product"] for r in releases)
         if source.get("count") != count or not source.get("collected_at"):
             raise ValueError(f"source manifest count/time mismatch: {source['product']}")
@@ -76,6 +87,7 @@ def run_pipeline(
     limit: int | None = None, snapshot_paths: dict[str, Path] | None = None,
     today: str | None = None, timezone: str = "Asia/Shanghai", reconcile: bool = False,
     collection: dict[str, Any] | None = None,
+    allow_partial: bool = False,
     after_write: Callable[[int, str], None] | None = None,
 ) -> dict[str, Any]:
     root = root.resolve()
@@ -125,7 +137,11 @@ def run_pipeline(
             manifest.update(mode=collection.get("mode"), sources=collection.get("sources", []),
                             collection_errors=collection.get("errors", []))
             write_json(manifest_path, manifest)
-            requested = check_collection(collection, reconcile)
+            requested = check_collection(collection, reconcile, allow_partial)
+            configured = {s['name'] for s in sources}
+            failed_products = {s['product'] for s in collection['sources'] if s['status'] == 'failed'}
+            if failed_products - configured:
+                raise ValueError('cannot retain an unknown failed source')
             if limit is not None and reconcile:
                 raise ValueError("reconcile cannot use a limited collection")
             managed = requested | {source["name"] for source in sources}
@@ -144,6 +160,8 @@ def run_pipeline(
             batch = read_json(paths.valid_cards)
             history = read_history(root, managed)
             historical_products = {r["product"] for r in history[0]}
+            if failed_products - historical_products:
+                raise ValueError('failed source requires an existing historical source baseline')
             if any(s.get("coverage") == "no-change" and s["product"] not in historical_products
                    for s in collection["sources"]):
                 raise ValueError("no-change requires an existing historical source baseline")
@@ -153,6 +171,8 @@ def run_pipeline(
                 batch.get("pending_theme_review", []), reconcile_products,
             )
             manifest.update(requested_products=sorted(requested),
+                            retained_products=sorted(failed_products),
+                            collection_health='degraded' if failed_products else 'healthy',
                             reconcile_products=sorted(reconcile_products),
                             merged_releases=len(releases), merged_cards=len(cards),
                             pending_theme_review=len(pending), phase="staging")
@@ -179,11 +199,17 @@ def run_pipeline(
                 info['coverage'] = source_coverage(source_states.get(product),
                     [r for r in releases if r['product'] == product], previous)
             silence = detect_silence(releases, [s for s in sources if s["name"] in requested], effective_today)
+            silence['pending'].extend({'product': p, 'silence_tracking': 'collection-error',
+                                       'reason': 'collection delayed; historical content retained'}
+                                      for p in sorted(failed_products))
             # Cadence is measured to the newest archived release (not the clock), so the
             # same archive renders the same product pages on any day; alerts keep the clock.
             silence["cadence"] = cadence_summary(
                 releases, sources, cadence_anchor(releases, effective_today), silence["alerts"]
             )
+            for product in failed_products:
+                if product in silence['cadence']:
+                    silence['cadence'][product]['status'] = 'collection-delayed'
             for dest, value in ((staged.analyze_a, analysis_a), (staged.analyze_b, analysis_b),
                                 (staged.silence, silence), (paths.analyze_a, analysis_a),
                                 (paths.analyze_b, analysis_b), (paths.silence, silence)):

@@ -23,6 +23,7 @@ if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
 from _scripts.collect import collect_live, load_sources, fetch_chatgpt_releases, source_result
+from _scripts.browser_capture import capture as capture_browser, validate_coverage
 from _scripts.common import PipelinePaths, read_json, write_json, utc_timestamp
 from _scripts.history import read_history
 from _scripts.pipeline import run_pipeline, check_machine_hashes
@@ -105,9 +106,24 @@ def validate_site(root: Path, vault: Path, out: Path, report: dict, base_url: st
     write_json(out / 'site/deployment.json', identity)
 
 
-def collect(root: Path, out: Path, bundle: Path | None) -> dict:
+def collect(root: Path, out: Path, bundle: Path | None, *, browser_fallback: bool = False) -> dict:
     payload = collect_live(root / '_scripts/sources.yaml', out / 'collection.json', None, 'all')
+    baseline = {r['release_id'] for r in read_history(root, {'chatgpt'})[0]}
+    current = next((s for s in payload['sources'] if s['product'] == 'chatgpt'), None)
+    if current and current['status'] == 'success':
+        try:
+            validate_coverage([r for r in payload['releases'] if r['product'] == 'chatgpt'], baseline)
+        except ValueError as exc:
+            current.update(status='failed', complete=False, count=0, earliest=None, latest=None, error=str(exc))
+            payload['releases'] = [r for r in payload['releases'] if r['product'] != 'chatgpt']
     failed = next((s for s in payload['sources'] if s['product'] == 'chatgpt' and s['status'] == 'failed'), None)
+    original_error = failed['error'] if failed else None
+    if failed and browser_fallback:
+        try:
+            product = next(s for s in load_sources(root / '_scripts/sources.yaml') if s['name'] == 'chatgpt')
+            bundle = capture_browser(product, out / 'browser', baseline)
+        except Exception as exc:
+            failed['error'] += f'; automatic browser capture failed: {exc}'
     if failed and bundle is not None:
         try:
             html, meta = load_bundle(bundle)
@@ -115,17 +131,18 @@ def collect(root: Path, out: Path, bundle: Path | None) -> dict:
             captured.write_bytes(html)
             product = next(s for s in load_sources(root / '_scripts/sources.yaml') if s['name'] == 'chatgpt')
             releases = fetch_chatgpt_releases(product, None, captured)
-            if not releases:
-                raise ValueError('snapshot contains no ChatGPT releases')
+            validate_coverage(releases, baseline)
             state = source_result('chatgpt', releases, complete=True, coverage='available-endpoint')
             state.update(acquisition='browser-snapshot', acquired_at=meta['captured_at'],
-                         snapshot_sha256=meta['sha256'], url=SOURCE, http_error=failed['error'])
+                         snapshot_sha256=meta['sha256'], url=SOURCE, http_error=original_error)
             payload['sources'] = [state if s['product'] == 'chatgpt' else s for s in payload['sources']]
             payload['errors'] = [e for e in payload['errors'] if e['product'] != 'chatgpt']
             payload['releases'] = [r for r in payload['releases'] if r['product'] != 'chatgpt'] + releases
             write_json(out / 'snapshot-capture.json', meta)
         except Exception as exc:
             failed['error'] += f'; snapshot fallback rejected: {exc}'
+    payload['errors'] = [{'product': s['product'], 'error': s['error']}
+                         for s in payload['sources'] if s['status'] == 'failed']
     write_json(out / 'collection.json', payload)
     return payload
 
@@ -138,7 +155,8 @@ def copy_vault(root: Path, candidate: Path) -> None:
 
 def run(root: Path, run_id: str, out: Path, *, mode: str, base_url: str,
         collection: dict | None = None, snapshot_bundle: Path | None = None, apply: bool = False,
-        production: bool = False, gate: Callable = validate_site) -> dict:
+        production: bool = False, gate: Callable = validate_site,
+        browser_fallback: bool = False, allow_partial: bool = False) -> dict:
     root, out = root.resolve(), out.resolve()
     PipelinePaths(run_id, root)  # validate identity before any filesystem mutation
     if out.exists() or out == root or root.is_relative_to(out):
@@ -163,12 +181,15 @@ def run(root: Path, run_id: str, out: Path, *, mode: str, base_url: str,
         before = inventory(root)
         if mode == 'generate':
             copy_vault(root, candidate)
-            payload = collection if collection is not None else collect(root, out, snapshot_bundle)
+            payload = collection if collection is not None else collect(root, out, snapshot_bundle,
+                                                                        browser_fallback=browser_fallback)
             report['sources'] = payload.get('sources', [])
+            report['collection_health'] = 'degraded' if any(s['status'] == 'failed' for s in report['sources']) else 'healthy'
             packed = json.dumps(payload, ensure_ascii=False, sort_keys=True).encode()
             (out / 'collection.json.gz').write_bytes(gzip.compress(packed, mtime=0))
             report['input_sha256'] = hashlib.sha256(packed).hexdigest()
-            manifest = run_pipeline(candidate, run_id, collection=payload, reconcile=True)
+            manifest = run_pipeline(candidate, run_id, collection=payload, reconcile=True,
+                                    allow_partial=allow_partial)
             report['pipeline'] = manifest
             report['pending_theme_review'] = manifest['pending_theme_review']
             report['changes'] = changes(before, inventory(candidate))
@@ -226,6 +247,8 @@ def main():
     p.add_argument('--mode', choices=['generate', 'check'], required=True)
     p.add_argument('--collection', type=Path, help='Explicit offline replay; never counted as live acquisition')
     p.add_argument('--snapshot-bundle', type=Path)
+    p.add_argument('--browser-fallback', action='store_true', help='Capture the official page automatically if HTTP fails')
+    p.add_argument('--allow-partial', action='store_true', help='Retain failed sources with an existing historical baseline')
     p.add_argument('--base-url', default=os.environ.get('CHRONOLOG_BASE_URL', 'localhost:8080'))
     p.add_argument('--apply', action='store_true')
     p.add_argument('--production', action='store_true')
@@ -235,8 +258,11 @@ def main():
         data = a.collection.read_bytes()
         payload = json.loads(gzip.decompress(data) if a.collection.suffix == '.gz' else data)
     report = run(a.root, a.run_id, a.output, mode=a.mode, base_url=a.base_url,
-        collection=payload, snapshot_bundle=a.snapshot_bundle, apply=a.apply, production=a.production)
+        collection=payload, snapshot_bundle=a.snapshot_bundle, apply=a.apply, production=a.production,
+        browser_fallback=a.browser_fallback, allow_partial=a.allow_partial)
     print(f"{report['status']}: {a.output / 'quality.md'}")
+    if report.get('collection_health') == 'degraded' and os.environ.get('GITHUB_ACTIONS') == 'true':
+        print('::warning title=Source collection delayed::Some sources failed; see quality.md. Their historical content was retained.')
     raise SystemExit(1 if report['status'] == 'failed' else 0)
 
 if __name__ == '__main__':

@@ -223,7 +223,7 @@ year lists, with two curated research summaries.
 ## M3 operations
 
 [M3 runbook](docs/m3-operations.md) covers repository setup, the daily review PR,
-ChatGPT browser snapshot handoff, reviewed-commit deployment, rollback and evidence
+automatic ChatGPT browser capture, source failure isolation, reviewed-commit deployment and evidence
 retention. [Implementation evidence](docs/acceptance/m3-2026-10-13.md) separates
 local checks from the seven real daily runs and public deployment still required.
 
@@ -250,6 +250,11 @@ checked against the active search index. The first reviewed Pages deployment is
 live at https://wang-shuo.github.io/chronolog/. Repository permissions and branch
 protection are configured. The temporary-credential workflow is enabled after reviewed PR #3 merged. Its
 first live collection passed credential setup and collected Claude Code/Cursor;
-ChatGPT requires a fresh official browser snapshot when automated access is
-blocked. Seven real daily runs and recovery/handoff acceptance remain outstanding. See the
+Daily generation now tries an isolated Chromium browser when ChatGPT HTTP is blocked.
+Captures are dated run artifacts, so they do not require a separate snapshot PR.
+If a source remains unavailable, its existing archive is retained and marked delayed
+while complete healthy sources continue; all-source failure or a missing historical
+baseline still blocks generation. Content changes retain human review. Browser
+access is not guaranteed, and seven real daily runs plus recovery/handoff acceptance
+remain outstanding. See the
 [M3 operations runbook](docs/m3-operations.md).

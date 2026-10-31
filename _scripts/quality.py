@@ -71,6 +71,9 @@ def markdown(report: dict) -> str:
         lines.append('| ' + ' | '.join(safe(v) for v in (s.get('product'), s.get('status'),
             s.get('acquisition', 'none'), s.get('acquired_at', 'unknown'),
             f"{s.get('earliest')} → {s.get('latest')}")) + ' |')
+    if report.get('collection_health') == 'degraded':
+        lines += ['', '**Degraded collection:** failed sources retain their last reviewed content. '
+                  'Only successful sources are updated and reconciled. This is not a fully successful collection.']
     lines += ['', '## Changes', '', json.dumps(report.get('changes', {}).get('counts', {}), sort_keys=True), '',
         f"Pending themes: {report.get('pending_theme_review', 'not assessed')}; DLQ: {report.get('dlq_count', 'not assessed')}; conflicts: {len(report.get('conflicts', []))}.",
         '', '| Gate | Result | Evidence |', '| --- | --- | --- |']

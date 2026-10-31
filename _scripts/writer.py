@@ -902,7 +902,7 @@ def render_change_markdown(
 
 
 CADENCE_BAR_WIDTH = 20
-CADENCE_STATUS_LABELS = {"not-tracked": "not tracked"}
+CADENCE_STATUS_LABELS = {"not-tracked": "not tracked", "collection-delayed": "collection delayed"}
 
 
 def cadence_status(cadence: dict[str, Any] | None) -> str:

@@ -1,0 +1,11 @@
+{
+  "history-preservation.json": "d6f5957b19266ca295f9871ab50e7444cb69d1e605a62794a341b9eea308a13e",
+  "local-degraded-publication.json": "79ff8f940e0f199b5c778c1b6d94f0ee24852f690c9e1791fd5a21352ceaeec2",
+  "local-degraded-quality.json": "b16fe503952ac53d8df4b7fda88aceffa3c157adbb2e354e5062a156de4aa341",
+  "local-degraded-quality.md": "77d5070ebab9cc26852555d6af7ae2147311a524a2367554904935499142a335",
+  "local-degraded-tests.log": "310da76a0f915b8d66248b9845c764f29244ea7680b63964320fc4d07c37d4c3",
+  "local-degraded-vault-validation.json": "d2b4eec991177535392b179841cb2b19034fb207c783f57d1d9c3d0cd0144889",
+  "local-headed-capture.json": "43bf7f8e576aae858d06113067880a8c8bbec3dfd24114bcbc621c6b7591bc2a",
+  "local-headed-comparison.json": "61cb22e8c7803a3d99772678f379e016102c1fb6bd646f424ccfa2a6e59e7f80",
+  "local-headless-capture.json": "e597e294b60bdbf5455e805b14d22add4c9847721fdb88e0aee4421961c193ae"
+}

@@ -34,15 +34,15 @@ Quality 派发成功只表示检查已排队，不代表检查通过；合并前
 
 普通实现和文档交付可使用 **Open delivery PR**：传入已推送的 `codex/` 分支、标题和正文，由 Actions 创建机器人 PR 并派发 Quality。该流程不修改分支、不审批或合并；已合并的分支不会重复创建 PR。
 
-凭据成功不代表三个来源都会采集成功。ChatGPT HTTP 仍可能返回 403，需要下一节的有效官方浏览器快照；缺失或过期时整批应明确失败。
+凭据成功不代表三个来源都会采集成功。日常生成对 ChatGPT 使用 HTTP → 自动浏览器两级采集；单源故障在有历史基线时隔离，报告标记 degraded，其他成功来源继续更新。全部失败、缺少基线或内容校验失败仍停止发布。
 
 ## 2. 每日流程与报告
 
 生成调度为每天 **09:15 Asia/Shanghai（01:15 UTC）**，GitHub 可能延迟执行。调度不会直接部署。
 
-- 生成操作先复制 Vault，执行全量三来源采集及 reconcile，再跑全部 pytest（包含固定黄金样本）、Vault 校验、Quartz 构建、HTML/索引/图谱/RSS 校验。
+- 生成操作先复制 Vault，尝试全量三来源采集，仅对成功且完整的来源执行 reconcile，再跑全部 pytest（包含固定黄金样本）、Vault 校验、Quartz 构建、HTML/索引/图谱/RSS 校验。
 - 构建内容位于独立临时目录，避免 Quartz 的 `_pipeline` 忽略规则把候选内容全部过滤。即使构建进程返回成功，活动集合不匹配仍会失败。
-- 任一采集、内容、链接或构建门禁失败时，不写回待审 Vault，不推送新候选。报告中保留成功和失败来源，以及未运行的检查。
+- 日常任务显式启用 `--allow-partial`：失败来源保留历史 Release、卡片和待审项，不重新抽取或对账删除；产品页、首页和 About 显示采集延迟，不推断其产品停止发布。全部来源失败、失败来源无历史基线、成功来源不完整，以及内容、链接或构建门禁失败时仍不写回或推送候选。未启用此选项的命令保持严格整批失败。
 - 全部门禁通过才把候选文件写入生成分支。已有 PR 上的人工编辑会随历史读取和 M1 所有权保护保留；与主分支合并冲突或机器区冲突时停止。推送使用精确的远端 commit lease，拒绝覆盖并发修改。
 - 只有获取时间发生变化不创建或更新内容 PR。本次成功采集时间仍保存到 Actions artifact；站点展示上一次审核发布包含的获取时间，两者可能不同。
 - 根目录的 `About.md` 与 `index.md` 一样由 writer 机器维护；获取时间戳只出现在 `About.md` 和运行产物中，首页与产品页只显示发布日期区间。
@@ -65,38 +65,47 @@ Quality 派发成功只表示检查已排队，不代表检查通过；合并前
 
 状态含义：`no-change` 为获取成功且没有内容变化；`candidate-applied` 为候选已通过本地门禁并写入生成分支；`rolling-pr.json` 的 `review-required` 才表示 PR 创建/更新且 Quality 派发成功（检查本身仍可能失败）。`failed` 必须查看具体阶段；不能把它解释为产品没有发布。依赖或权限等前置步骤失败时，工作流也会生成 `phase: setup` 的失败记录。
 
-## 3. ChatGPT HTTP 403 与人工快照
+## 3. ChatGPT 自动采集与证据
 
-默认始终尝试官方 HTTP 采集。失败后仅允许使用具有获取时间和 SHA-256 的官方浏览器快照；其他来源失败仍按 M1 门禁拒绝整批发布。
+日常工作流不再从 `_inputs/chatgpt` 读取旧快照，也不要求每天提交独立快照 PR。
 
-1. 在浏览器打开官方 [ChatGPT release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)，保存完整渲染 HTML。确认没有工具输出截断，并记录实际获取时间及其时区。
-2. 创建新的交接包，时间必须是本次实际获取时间，不能使用重放时间或文件 mtime：
+1. 先访问官方 [ChatGPT release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) HTTP 页面。
+2. HTTP 失败或历史覆盖缩短时，用 Playwright 控制 Google Chrome 的独立、无登录浏览器上下文打开同一官方页面。最多等待约 45 秒，读取完整 DOM；两次连续解析结果相同且包含全部已归档 Release ID 才接受。没有验证码处理、隐身插件或用户 Cookie 导入。浏览器安装失败会进入同样的来源故障处理，不阻断其他来源。
+3. 自动记录真实获取时间、官方 URL、原文 SHA-256 和浏览器结果。成功的 `chatgpt.html.gz` / `capture.json` 放入该次运行的 `browser/bundle/`；失败页面放入 `browser/failed-document.html.gz`，不会伪装成有效快照。浏览器诊断、原文、标准化 `collection.json.gz` 和摘要均随 generation artifact 保留 90 天，内容 PR 链接到该次运行。
+4. 浏览器也失败时，保留 ChatGPT 已归档事实及其原获取时间；Claude Code / Cursor 成功且完整时继续生成。报告保留 ChatGPT 的 `failed` 状态和原 HTTP 错误，整体 `collection_health: degraded`；不能将绿色构建解释为三源采集均成功。
+5. 只有事实、导航或采集健康状态发生变化才产生内容差异；单纯获取时间变化不会开 PR。首次进入采集延迟和恢复健康会更新读者提示；重复失败的错误和时间只进入证据，不反复产生内容 PR。所有内容仍经同一个滚动 PR 审核一次再发布。
 
-   ```bash
-   .venv/bin/python -m _scripts.snapshot_bundle \
-     --html /absolute/path/chatgpt.html \
-     --captured-at 'YYYY-MM-DDTHH:MM:SS+08:00' \
-     --output /tmp/chronolog-new-capture
-   ```
+自动采集保存的快照仍使用 **36 小时**有效期和真实时间校验，但在同一次运行里立即消费，不需要等快照先审批。已生成并审核的内容可正常部署，输入随后过期不会阻止该内容部署。HTTP 和浏览器都检查历史 Release ID 覆盖；官方改标题或移除旧记录也可能触发保护，此时应核查缺失原因后通过实现或内容交付处理，不能自动把缺失当成删除授权。
 
-3. 包含 `chatgpt.html.gz` 与 `capture.json`。核对后将两者放入仓库 `_inputs/chatgpt/`，通过独立交付 PR 审核合并到 `main`，再从 `main` 手动重跑生成流程。滚动发布仅允许 Vault Markdown，快照文件须通过独立交付流程更新。该目录不会进入公开站点。
-4. 快照有效期为 **36 小时**；未来时间超过五分钟、摘要不匹配、文件缺失、异常短文档或无法解析都会失败。过期后需要重新获取，不得修改旧包时间来续期。
+### 本地验证与异常恢复
 
-页面与报告明确标识 `browser-snapshot`；即使当日使用新快照，也不记为自动 HTTP 成功。原 HTTP 错误保留在来源记录的 `http_error` 中。
+安装可选依赖与浏览器（生产 Quality / 部署只校验提交，不需要浏览器）：
 
-### 每日快照交接
+```bash
+python -m pip install -e '.[dev,browser]'
+python -m playwright install --no-shell chromium
+python -m _scripts.browser_capture --headed --output /tmp/chronolog-browser-probe-001
+```
 
-每天 **20:00 Asia/Shanghai** 按此流程交接：从官方页面获取完整浏览器 HTML，记录实际获取时间，并准备独立快照交付 PR。晚间获取距离次日 09:15 调度约 13 小时，给审核、合并和调度延迟留出余量；交接须在次日调度前合并至 `main`。晚间快照在第三天 08:00 左右过期，因此仍需每日更新，不能跨过一天直接复用。
+本机已有 Chrome 时，可用 `--channel chrome` 单独验证；日常生成可设 `CHRONOLOG_BROWSER_CHANNEL=chrome`。两者仍创建独立上下文，不读取用户会话。普通浏览器模式设 `CHRONOLOG_BROWSER_HEADED=1`。CI 固定为 Playwright 支持的 Ubuntu 24.04，安装 Google Chrome 并通过 Xvfb 提供虚拟显示；本机实测普通 Chrome 成功、无界面 Chrome 403，不能假定两种模式等价。
 
-交接时记录包摘要、实际获取时间与到期时间，并用当前解析器对比上一份快照：列出 Release 数量、最早和最新日期、缺失 ID、正文变化及新增记录。发现工具输出截断、覆盖范围缩短或未解释的历史缺失时，先重新获取和核查，不能将其当作完整来源执行 reconcile。来源章节锚点变化应与正文变化分别说明。
+真实隔离生成，不直接写入 Vault：
 
-快照 PR 在 Quality 通过后，仍须保留对**最终 head 的人工批准**再合并；批准后若有新提交，重新审核最终 head。交接状态至少记录“已获取／PR 待审核／已合并／生成结果”，附 PR、运行链接、有效期和阻断原因。生成完成后确认三个来源成功，再按下一节审核内容与发布。快照过期或未及时合并时明确报告，重新获取官方页面；不得修改旧包时间续期，也不得将失败记作 `no-change`。
+```bash
+CHRONOLOG_BROWSER_HEADED=1 python -m _scripts.operations --mode generate \
+  --run-id local-auto-001 --output /tmp/chronolog-auto-001 \
+  --browser-fallback --allow-partial --base-url localhost:8080
+```
 
-本次恢复的快照、完整性比较和隔离预检见[2026-10-23 快照交付记录](acceptance/m3-chatgpt-snapshot-2026-10-23.md)。本节约定操作时间；GitHub 仅自动运行每日生成，浏览器快照交接尚未接入独立自动调度。
+在 Actions 手动运行 Generate review candidate，勾选 `preview`，可对所选分支进行真实只读预演。预演不准备或写入滚动分支、不应用候选、不打包推送、不运行发布任务；报告和浏览器证据仍上传为 artifact。正式定时任务仅在默认分支运行。
+
+工作流在只读 generation 任务中安装浏览器并运行采集，发布任务仍只接受 Vault Markdown，不接受脚本或快照输入进入滚动分支。浏览器访问限制可能因运行环境而异；本地成功不能代替 GitHub runner 或连续日常运行的成功证据。
+
+人工浏览器快照仍是异常恢复工具，而非每日必做项。需要时保存完整官方 DOM，用 `_scripts.snapshot_bundle --html ... --captured-at ... --output ...` 创建新包，然后给同次隔离生成显式传 `--snapshot-bundle /path/to/bundle`。核对后将内容与必要验收证据放在同一个交付 PR；不再先合并快照、再等待第二个内容 PR。禁止修改旧包时间续期。手动包也必须通过摘要、时间和历史覆盖检查。
 
 ## 4. 人工审核与发布
 
-在 Rolling PR 中查看摘要、实际 Markdown diff、143 张既有待审候选中的变化和新增的候选。重点核对事实修正、被废弃记录、主题归属与叙事引用。不要把自动通过等同于内容审批；`_review` 的候选不会自动晋升。
+在 Rolling PR 中查看摘要、实际 Markdown diff、既有待审候选中的变化和新增候选。重点核对事实修正、被废弃记录、主题归属与叙事引用。不要把自动通过等同于内容审批；`_review` 的候选不会自动晋升。
 
 审核最新 PR head 后合并至 `main`。Deploy reviewed site 会：
 
@@ -111,7 +120,8 @@ Quality 派发成功只表示检查已排队，不代表检查通过；合并前
 
 | 故障 | 保留内容与恢复操作 |
 | --- | --- |
-| ChatGPT 403 / 单源或全源失败 | 不推送该批候选；查看来源错误，补充新快照或等待上游恢复，再重新运行生成任务。 |
+| 单源采集失败 | 日常模式保留该来源历史并显示延迟，其他成功来源继续；查看 generation artifact 的来源错误和浏览器证据。恢复后自动清除延迟标记。 |
+| 全源失败 / 失败来源无基线 / 成功来源不完整 | 不推送候选，检查来源、网络和覆盖证据后重跑；不能把失败视为没有新发布。 |
 | DLQ / 黄金样本 / 链接失败 | 查看相应记录，在实现 PR 中修复并通过 Quality 后重跑；不要跳过失败门禁。 |
 | 机器区或主分支合并冲突 | 保留远端 PR；在待审分支中处理冲突或将人工修改迁移到正确的人类区域，再重跑。 |
 | Quality 派发失败 / 发布凭据权限不足 | 查看 `publication` 报告和发布任务日志；确认 Actions 的创建 PR 设置，重新启动完整生成运行以刷新状态。已有 PR 的 no-change 运行也会补派发检查。 |
@@ -126,7 +136,7 @@ Quality 派发成功只表示检查已排队，不代表检查通过；合并前
 
 - Quality、生成输入/诊断和部署证据 artifact 保留 **90 天**；Pages 站点包保留 **14 天**。期限内可通过 Actions UI 或 `gh run download` 下载。
 - 关键验收报告下载到 `docs/acceptance/` 并随验收 PR 保存，不依赖临时 runner 或开发机 `_pipeline/`。90 天届满前，将需长期保留的证据移入仓库的验收目录或已批准的长期存储位置。
-- 输入及诊断只进入具有仓库访问权限的 artifact；活动站点只发出通过发布过滤的内容。M2 历史证据摘要保留当时版本，不随 M3 修改重写。
+- 输入及诊断保留在具有仓库访问权限的 artifact，不作为网页发布；活动站点只发出通过发布过滤的内容。M2 历史证据摘要保留当时版本，不随 M3 修改重写。
 
 ## 7. 本地复现与正式验收
 
