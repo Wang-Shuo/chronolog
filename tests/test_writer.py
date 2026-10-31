@@ -80,7 +80,8 @@ def test_render_theme_markdown_contains_navigable_year_timeline(tmp_path: Path):
 
     markdown = render_theme_markdown("agent-mode", cards)
 
-    assert "### 2025" in markdown
+    assert "> [!info]+ 2025 · 2 entries (Aider 1 · Cursor 1)" in markdown
+    assert "> **2025-02**" in markdown and "> **2025-01**" in markdown
     assert "same-theme chronology" in markdown
     assert "timeline" in markdown
     assert "Aider" in markdown
@@ -773,10 +774,15 @@ def test_theme_display_names_label_theme_index_and_product_pages():
     # Without a vocabulary entry the slug is title-cased.
     assert frontmatter.loads(render_theme_markdown("file-data", []))["title"] == "File Data"
 
-    index = render_index_markdown([card], {"products": {}}, {"themes": {"agent-mode": {}, "mobile-desktop": {}}},
+    index = render_index_markdown([card], {"products": {}},
+                                  {"themes": {"agent-mode": {}, "mobile-desktop": {}},
+                                   "editorial": {"mobile-desktop": editorial, "agent-mode": "x"}},
                                   {}, theme_labels=labels)
     assert "**Other** · [[Themes/mobile-desktop|Mobile and Desktop]] (1)" in index
-    assert "- [[Themes/agent-mode|Agent Mode]] — From assisted edits to delegated work" in index
+    # A summarised theme is featured with its research question; one without active
+    # cards (agent-mode here) is not.
+    assert "- [[Themes/mobile-desktop|Mobile and Desktop]] — What changed on _desktop_?" in index
+    assert "[[Themes/agent-mode|" not in index
 
     info = {"product_name": "Cursor", "verbosity_baseline": 1, "eras": [],
             "top_themes": ["mobile-desktop", "agent-mode"]}
@@ -895,9 +901,10 @@ def home_card(product: str, product_name: str, date: str, theme: str, suffix: st
             "source_release": f"{product}-{date}-r"}
 
 
-def home_release(product: str, product_name: str, date: str) -> dict:
-    return {"release_id": f"{product}-{date}-r", "product": product,
-            "product_name": product_name, "date": date}
+def home_release(product: str, product_name: str, date: str, title: str = "") -> dict:
+    release = {"release_id": f"{product}-{date}-r", "product": product,
+               "product_name": product_name, "date": date}
+    return {**release, "title": title} if title else release
 
 
 HOME_COVERAGE = {
@@ -931,7 +938,7 @@ def home_inputs(coverage=None):
     releases = {
         "chatgpt": [home_release("chatgpt", "ChatGPT", day)
                     for day in ("2025-01-01", "2026-07-20", "2026-10-01")],
-        "claude-code": [home_release("claude-code", "Claude Code", "2026-10-14")],
+        "claude-code": [home_release("claude-code", "Claude Code", "2026-10-14", "v2.1.300")],
         "cursor": [home_release("cursor", "Cursor", day) for day in ("2026-08-01", "2026-10-13")],
     }
     themes = {"themes": {theme: {} for theme in {card["theme"] for card in cards}}}
@@ -967,20 +974,19 @@ def test_home_page_leads_with_latest_changes_anchored_on_data():
     assert recent[0] == "- ⚠ ChatGPT: No release for two months."
     # The window ends at the newest card (2026-10-14), not at today's date.
     assert recent[1] == "### ChatGPT\n- No changes archived between 2026-09-15 and 2026-10-14."
-    # Same date: ordered by theme, then card_id.
+    # One line per release: four routine Claude Code cards of v2.1.300 are listed by the
+    # version, with the themes holding the most quoted items.
     assert recent[2] == "\n".join([
         "### Claude Code",
-        "- 2026-10-14 · Context Window: [[2026-10-14-context-window-bbbbb0|Claude Code bbbbb0]]",
-        "- 2026-10-14 · Context Window: [[2026-10-14-context-window-bbbbb2|Claude Code bbbbb2]]",
-        "- 2026-10-14 · Mystery Theme: [[2026-10-14-mystery-theme-bbbbb3|Claude Code bbbbb3]]",
-        "- 2026-10-14 · Safety and Privacy: [[2026-10-14-safety-privacy-bbbbb1|Claude Code bbbbb1]]",
+        "- 2026-10-14 · v2.1.300 · 4 cards: Context Window, Mystery Theme, Safety and Privacy",
     ])
     cursor = recent[3].splitlines()
     assert cursor[0] == "### Cursor"
     assert [line.split(" · ")[0] for line in cursor[1:7]] == [
         f"- 2026-10-{day:02d}" for day in range(9, 3, -1)]
-    # Nine Cursor cards fall in the window; the 2026-08-01 card does not.
-    assert cursor[7:] == ["- 3 more in this window → [[Products/Cursor|Cursor]]"]
+    assert cursor[1] == "- 2026-10-09 · Agent Mode: [[2026-10-09-agent-mode-c00009|Cursor c00009]]"
+    # Nine one-card Cursor releases fall in the window; the 2026-08-01 card does not.
+    assert cursor[7:] == ["- 3 more releases in this window → [[Products/Cursor|Cursor]]"]
 
 
 def test_home_page_products_themes_and_coverage_summary():
@@ -1013,10 +1019,70 @@ def test_home_page_products_themes_and_coverage_summary():
         "",
         "Acquisition times, how cards are made, review status and glossary: [[About|About the data]].",
     ])
-    assert "Agent Mode]] — From assisted edits to delegated work" in regions["featured"]
+    # Without research summaries no theme is featured.
+    assert regions["featured"] == "No featured themes yet."
     # Review counts and acquisition timestamps live on the About page only.
     for text in ("Pending theme review", "Alert count", "Overview", "T01:55", "+0800", "fetch"):
         assert text not in post.content
+
+
+def test_start_exploring_lists_every_summarised_theme():
+    cards, analysis_a, analysis_b, releases = home_inputs()
+    analysis_b["editorial"] = {
+        "context-window": "**Research question: how large can the context get?**\n\nText.",
+        "agent-mode": "**Research question: what changed in delegated execution?**\n\nText.",
+        "safety-privacy": "No research question.",
+        "voice": "**Research question: who speaks?**",  # no active cards
+    }
+    regions = extract_machine_regions(frontmatter.loads(render_index_markdown(
+        cards, analysis_a, analysis_b, {"alerts": []}, theme_labels=HOME_LABELS,
+        releases_by_product=releases, vocabulary=HOME_VOCABULARY)).content)
+    # Curated taglines first, then the other summarised themes by card count.
+    assert regions["featured"] == "\n".join([
+        "- [[Themes/agent-mode|Agent Mode]] — From assisted edits to delegated work",
+        "- [[Themes/context-window|Context Window]] — How large can the context get?",
+        "- [[Themes/safety-privacy|Safety and Privacy]]",
+    ])
+
+
+def release_cards(*specs):
+    """Cards of one Claude Code release ``cc-r``: (suffix, theme, kind, evidence count)."""
+    return [{**moment("Claude Code", "2026-10-14", suffix, kind=kind, release="cc-r", theme=theme),
+             "evidence": [{"source_release": "https://example.com", "quote": f"q{n}"}
+                          for n in range(count)]}
+            for suffix, theme, kind, count in specs]
+
+
+def test_home_release_line_prefers_a_headline_card_of_a_versioned_release():
+    from _scripts.writer import release_line
+    release = {"release_id": "cc-r", "date": "2026-10-14", "title": "v2.1.300"}
+    cards = release_cards(("b1", "agent-mode", "digest", 9), ("b2", "pricing-model", "pricing", 1),
+                          ("b3", "agent-mode", "launch", 1), ("b4", "agent-mode", "fix", 1))
+    targets = {"cc-r": "Releases/Claude Code/cc-r"}
+    assert release_line(release, cards, None, targets, THEME_LABELS) == (
+        "- 2026-10-14 · Agent Mode: [[2026-10-14-claude-code-b3|Claude Code b3]] · "
+        "+3 more in [[Releases/Claude Code/cc-r|v2.1.300]]")
+    # Without a launch, pricing or policy card, the version lists its busiest themes.
+    routine = release_cards(("b1", "agent-mode", "digest", 2), ("b2", "context-window", "change", 1),
+                            ("b3", "model-support", "digest", 5), ("b4", "safety-privacy", "fix", 1),
+                            ("b5", "voice", "digest", 3))
+    assert release_line(release, routine, None, targets, THEME_LABELS) == (
+        "- 2026-10-14 · [[Releases/Claude Code/cc-r|v2.1.300]] · 5 cards: "
+        "Model Support, Voice, Agent Mode, +2 more")
+
+
+def test_home_release_line_uses_a_descriptive_title_and_lists_single_cards():
+    from _scripts.writer import release_line
+    release = {"release_id": "cc-r", "date": "2026-10-14", "title": "Agent SDK"}
+    cards = release_cards(("b1", "agent-mode", "launch", 1), ("b2", "agent-mode", "change", 2))
+    # A descriptive release title beats any single card as the headline.
+    assert release_line(release, cards, None, None, THEME_LABELS) == (
+        "- 2026-10-14 · Agent SDK · 2 cards: Agent Mode")
+    assert release_line(release, cards[:1], None, None, THEME_LABELS) == (
+        "- 2026-10-14 · Agent Mode: [[2026-10-14-claude-code-b1|Claude Code b1]]")
+    # A release missing from the run falls back to its best card.
+    assert release_line(None, cards, None, None, THEME_LABELS) == (
+        "- 2026-10-14 · Agent Mode: [[2026-10-14-claude-code-b1|Claude Code b1]] · +1 more")
 
 
 def legacy_index_markdown(lead: str = "") -> str:
@@ -1201,6 +1267,20 @@ def test_digest_card_lists_each_change_and_names_the_release():
     assert post["kind"] == "digest"
     assert post["description"] == (
         "Claude Code · 2026-10-14 · Agent Mode: 3 changes in v2.1.300 — Added agent checkpoints")
+
+
+def test_quotes_escape_tag_like_text_outside_code_spans():
+    from _scripts.writer import quote_markdown
+    card = {**change_card(), "evidence": [{
+        "source_release": "https://example.com",
+        "quote": "Run agent-sdk github replay <pr-url> or `open <file>` with a < b",
+    }]}
+    regions = extract_machine_regions(frontmatter.loads(
+        render_change_markdown(card, {}, {}, theme_labels=THEME_LABELS)).content)
+    # Without the escape the placeholder is parsed as an HTML tag and vanishes.
+    assert regions["evidence"].splitlines()[0] == (
+        r"> Run agent-sdk github replay \<pr-url> or `open <file>` with a < b")
+    assert quote_markdown("</b> and <!-- x -->") == r"\</b> and \<!-- x -->"
 
 
 def test_multi_paragraph_card_quotes_one_group_and_labels_kind_and_scope():
@@ -1574,25 +1654,33 @@ def test_theme_timeline_groups_by_year_and_month_with_counts():
                                                     for card in cards})
 
     assert regions["timeline"] == "\n".join([
-        "### 2026 · 5 entries (ChatGPT 1 · Claude Code 2 · Cursor 2)",
+        "> [!info]+ 2026 · 5 entries (ChatGPT 1 · Claude Code 2 · Cursor 2)",
+        "> **2026-10**",
+        ">",
+        "> - 2026-10-14 · **Claude Code** · [[Changes/x/claude-code-2026-10-14-b00001|3 Agent Mode changes in v2.1.300]] · Digest",
+        "> - 2026-10-06 · **Claude Code** · [[Changes/x/claude-code-2026-10-06-b00002|Claude Code b00002]]",
+        "> - 2026-10-06 · **Cursor** · [[Changes/x/cursor-2026-10-06-c00001|Cursor c00001]] · Launch",
+        ">",
+        "> **2026-09**",
+        ">",
+        "> - 2026-09-30 · **Cursor** · [[Changes/x/cursor-2026-09-30-c00002|Cursor c00002]]",
+        "> - 2026-09-29 · **ChatGPT** · [[Changes/x/chatgpt-2026-09-29-a00001|ChatGPT a00001]] · Pricing",
         "",
-        "#### 2026-10",
-        "",
-        "- 2026-10-14 · **Claude Code** · [[Changes/x/claude-code-2026-10-14-b00001|3 Agent Mode changes in v2.1.300]] · Digest",
-        "- 2026-10-06 · **Claude Code** · [[Changes/x/claude-code-2026-10-06-b00002|Claude Code b00002]]",
-        "- 2026-10-06 · **Cursor** · [[Changes/x/cursor-2026-10-06-c00001|Cursor c00001]] · Launch",
-        "",
-        "#### 2026-09",
-        "",
-        "- 2026-09-30 · **Cursor** · [[Changes/x/cursor-2026-09-30-c00002|Cursor c00002]]",
-        "- 2026-09-29 · **ChatGPT** · [[Changes/x/chatgpt-2026-09-29-a00001|ChatGPT a00001]] · Pricing",
-        "",
-        "### 2025 · 1 entry (Cursor 1)",
-        "",
-        "#### 2025-12",
-        "",
-        "- 2025-12-01 · **Cursor** · [[Changes/x/cursor-2025-12-01-c00003|Cursor c00003]] · Policy",
+        "> [!info]+ 2025 · 1 entry (Cursor 1)",
+        "> **2025-12**",
+        ">",
+        "> - 2025-12-01 · **Cursor** · [[Changes/x/cursor-2025-12-01-c00003|Cursor c00003]] · Policy",
     ])
+
+
+def test_theme_timeline_folds_each_year_once_the_theme_is_long():
+    from _scripts.writer import TIMELINE_OPEN_MAX
+    cards = [moment("Cursor", f"2026-10-{day:02d}", f"c{day:05d}")
+             for day in range(1, TIMELINE_OPEN_MAX + 2)]
+    timeline = theme_regions(cards)[1]["timeline"]
+    assert timeline.startswith(f"> [!info]- 2026 · {TIMELINE_OPEN_MAX + 1} entries (Cursor {TIMELINE_OPEN_MAX + 1})")
+    assert "[!info]+" not in timeline
+    assert "### " not in timeline and "#### " not in timeline
 
 
 def test_key_moments_are_launches_and_announcements_one_per_release():

@@ -7,7 +7,9 @@ Current implementation status, priorities, and acceptance criteria are tracked i
 [development plan (2026-10-13)](docs/development-plan-2026-10-13.md). Product, UI and
 content design recommendations for the reader-facing site are in the
 [design review (2026-10-15)](docs/design-review-2026-10-15.md); delivery progress is
-summarised in the [progress record (2026-10-17)](docs/progress-2026-10-17.md).
+summarised in the [progress record (2026-10-17)](docs/progress-2026-10-17.md). The
+[project review (2026-10-31)](docs/review-2026-10-31.md) covers product, content, code
+and operations together and sets the current priorities.
 The pipeline merges historical Markdown with each new batch, validates a staged vault,
 and publishes through a recoverable transaction. Content-quality and public-release
 acceptance remain separate milestones.
@@ -29,6 +31,12 @@ python -m pytest -q
 - Cursor: [Cursor changelog](https://cursor.com/changelog)
 
 ## Daily incremental updates
+
+The scheduled GitHub workflow runs `python -m _scripts.operations --mode generate`
+(see [M3 operations](#m3-operations)): a full collection of every source with
+reconciliation, `--allow-partial` so one failed source keeps its archive while the
+others update, and every test and build gate in an isolated copy. The local CLI below
+is the strict variant for development and replays:
 
 ```bash
 python _scripts/run_pipeline.py
@@ -88,18 +96,23 @@ A historical snapshot is not a fresh observation of the upstream site.
 
 ## Failure gates, review and recovery
 
-Any requested source failure, invalid extracted card (Round 1 DLQ), machine-region
-conflict, broken link or failed publication-set check blocks publication. Pending
-theme candidates are normal review work, not validation failures.
+Any requested source failure (unless `--allow-partial` is given, as in the daily
+workflow), invalid extracted card (Round 1 DLQ), machine-region conflict, broken link
+or failed publication-set check blocks publication. Pending theme candidates are
+normal review work, not validation failures.
 
 Theme classification is local and reproducible. `_scripts/themes.yaml` defines the
-vocabulary; `_scripts/backfill_review.yaml` records stable-ID decisions. The pipeline
+vocabulary; its `context_aliases` (plan, platform and audience names such as Team,
+Enterprise or iOS) decide a theme only when nothing else in the line matches.
+`_scripts/backfill_review.yaml` records stable-ID decisions. The pipeline
 does not call an external LLM API. Pending records persist as draft Markdown under
 `_review/`, excluded from Quartz. Successful re-extraction after a vocabulary or
 review-decision update promotes them; resolved review records and notes remain under
 `_review/resolved/`. Published facts also persist in machine-owned `record` frontmatter,
 so deleting completed run JSON does not remove historical inputs. Human regions,
-custom frontmatter and `human_overrides` remain preserved.
+custom frontmatter and `human_overrides` remain preserved; `human_overrides` is not
+yet applied to titles or themes (review 2026-10-31, item 8), so correct a card's theme
+with a decision in `_scripts/backfill_review.yaml`.
 
 Inspect `_pipeline/<run-id>/` for:
 
@@ -204,8 +217,9 @@ npx quartz build --serve
 The 2026-10-13 refresh contains 787 releases from ChatGPT, Claude Code and Cursor.
 Source acquisition time and release date are separate on the home and product pages.
 ChatGPT uses a dated official browser snapshot; Claude Code Releases starts at
-v2.0.73 and is not a complete lifetime history. Rules extract at most five cards
-per release; pending themes stay in `_review/`.
+v2.0.73 and is not a complete lifetime history. Since W2 a release yields one card per
+feature section and theme digests for long lists, without a per-release cap (About
+page, "How cards are made"); pending themes stay in `_review/`.
 
 [Acceptance evidence](docs/acceptance/m2-2026-10-13.md) includes the compressed
 source corpus, golden samples, actual publication checks and reproduction commands.
@@ -223,9 +237,10 @@ year lists, with two curated research summaries.
 ## M3 operations
 
 [M3 runbook](docs/m3-operations.md) covers repository setup, the daily review PR,
-automatic ChatGPT browser capture, source failure isolation, reviewed-commit deployment and evidence
-retention. [Implementation evidence](docs/acceptance/m3-2026-10-13.md) separates
-local checks from the seven real daily runs and public deployment still required.
+ChatGPT snapshots, source failure isolation, the pipeline health issue, reviewed-commit
+deployment and evidence retention. [Implementation evidence](docs/acceptance/m3-2026-10-13.md)
+separates local checks from real daily runs; continuous runs (C1), failure-recovery
+drills (C3) and handoff (C5) remain open.
 
 The `Quality` workflow runs tests, golden samples, Vault validation, Quartz and
 actual publication/RSS checks on every PR. `Generate review candidate` works in an
@@ -246,15 +261,22 @@ Local validation without changing the Vault:
 ```
 
 Set `CHRONOLOG_BASE_URL=host/path` for the intended deployment. RSS is enabled and
-checked against the active search index. The first reviewed Pages deployment is
-live at https://wang-shuo.github.io/chronolog/. Repository permissions and branch
-protection are configured. The temporary-credential workflow is enabled after reviewed PR #3 merged. Its
-first live collection passed credential setup and collected Claude Code/Cursor;
-Daily generation now tries an isolated Chromium browser when ChatGPT HTTP is blocked.
-Captures are dated run artifacts, so they do not require a separate snapshot PR.
-If a source remains unavailable, its existing archive is retained and marked delayed
-while complete healthy sources continue; all-source failure or a missing historical
-baseline still blocks generation. Content changes retain human review. Browser
-access is not guaranteed, and seven real daily runs plus recovery/handoff acceptance
-remain outstanding. See the
-[M3 operations runbook](docs/m3-operations.md).
+checked against the active search index. The reviewed Pages deployment is live at
+https://wang-shuo.github.io/chronolog/; repository permissions and branch protection
+are configured, and daily generation uses job-scoped temporary credentials.
+
+The ChatGPT Help Center answers automated requests with HTTP 403. Daily generation no
+longer works around that by default: ChatGPT keeps its reviewed archive, is marked
+delayed, and is refreshed from a manual browser snapshot (runbook section 3). Setting
+the repository variable `CHRONOLOG_BROWSER_FALLBACK=true` re-enables the automatic
+headed-Chrome capture. A source that fails keeps its archive while complete healthy
+sources continue; all-source failure or a missing historical baseline still blocks
+generation. Content changes retain human review.
+
+After each scheduled generation a `notify` job maintains one issue, "ChronoLog
+pipeline health": it opens (assigned to the repository owner) or comments while a run
+failed, a source's reviewed data is older than its `max_staleness_days` in
+`_scripts/sources.yaml`, or the review PR has waited three days, and closes on
+recovery. Failed runs and stale sources also turn the run red. Page views are counted
+with GoatCounter only when the repository variable `CHRONOLOG_GOATCOUNTER_CODE` is set.
+See the [M3 operations runbook](docs/m3-operations.md).

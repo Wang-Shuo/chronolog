@@ -1,6 +1,6 @@
 # M3 运行与交接手册
 
-M3 使用 GitHub Actions 采集并生成一个持续更新的待审 PR，经人工审核、合并后部署到 GitHub Pages。2026-10-14 已确认仓库为 [Wang-Shuo/chronolog](https://github.com/Wang-Shuo/chronolog)，并配置本地 `origin`；部署目标为 GitHub Pages，预期 URL 为 `https://wang-shuo.github.io/chronolog/`。远端启用与正式验收仍需按[开发计划](development-plan-2026-10-13.md)的 C1–C5 完成。
+M3 使用 GitHub Actions 采集并生成一个持续更新的待审 PR，经人工审核、合并后部署到 GitHub Pages。仓库为 [Wang-Shuo/chronolog](https://github.com/Wang-Shuo/chronolog)，站点为 `https://wang-shuo.github.io/chronolog/`。**状态（2026-10-31）：** C2、C4 已通过；C1 连续运行、C3 故障恢复演练、C5 交接仍待完成，见[开发计划](development-plan-2026-10-13.md)与[全面评审](review-2026-10-31.md)第 5 节。
 
 ## 1. 首次启用
 
@@ -10,7 +10,7 @@ M3 使用 GitHub Actions 采集并生成一个持续更新的待审 PR，经人�
 4. 设置 `main` 分支规则：要求通过 PR 合并、至少一名人工批准、更新后撤销旧批准，并将 **Quality / quality** 设为 required check。不得让生成机器人绕过此规则。部署脚本另行检查合并 commit 对应 PR 的最终 head 获人工批准，拒绝直接推送、旧 head 批准和 bot 批准。
 5. 先手工运行 Quality，再运行 Generate review candidate。确认报告和 artifact 可下载，新的真实来源更新进入 `codex/chronolog-updates`，无需第二个并行 PR。
 
-当前仓库地址及部署目标已确认，GitHub CLI 已登录；Pages 来源、base URL 和主分支规则已配置。PR #2 已经最终 head 人工批准、合并并成功上线，见[2026-10-14 公开部署记录](acceptance/m3-live-2026-10-14.md)。临时凭据改造已随 PR #3 审核合并并部署，首次真实运行的凭据准备通过；ChatGPT 自动访问被阻止且缺少备用快照，采集按门禁停止，见[首次运行记录](acceptance/m3-ephemeral-runtime-2026-10-14.md)。随后 PR #4 合并有效快照，2026-10-15 [真实采集与临时凭据发布](acceptance/m3-first-live-generation-2026-10-15.md)成功，内容 PR #5 已获用户对最终 head 的人工批准并成功部署，见[首次真实内容发布](acceptance/m3-first-reviewed-content-release-2026-10-15.md)。API 标题显示问题已在本次交付分支修复并重生成，待人工批准后发布，见[标题修复验收](acceptance/m3-dollar-title-fix-2026-10-15.md)。连续运行与恢复交接仍待验收。
+仓库地址、Pages 来源、base URL 与主分支规则均已配置；历次启用与发布证据见 `acceptance/m3-*` 记录（PR #2–#6、#17、#20–#24）。
 
 GitHub Release 采集使用工作流的只读 `github.token`，通过 `CHRONOLOG_GITHUB_READ_TOKEN` 注入，避免匿名共享 IP 限流；不会使用 PR 写入 token。令牌仅用于固定 `api.github.com` 请求，带认证时不跟随重定向。仓库迁移导致 3xx 时应修正 `sources.yaml`。本地未设置该变量时仍使用匿名请求，限流会留下失败记录并停止该批发布。
 
@@ -34,11 +34,11 @@ Quality 派发成功只表示检查已排队，不代表检查通过；合并前
 
 普通实现和文档交付可使用 **Open delivery PR**：传入已推送的 `codex/` 分支、标题和正文，由 Actions 创建机器人 PR 并派发 Quality。该流程不修改分支、不审批或合并；已合并的分支不会重复创建 PR。
 
-凭据成功不代表三个来源都会采集成功。日常生成对 ChatGPT 使用 HTTP → 自动浏览器两级采集；单源故障在有历史基线时隔离，报告标记 degraded，其他成功来源继续更新。全部失败、缺少基线或内容校验失败仍停止发布。
+凭据成功不代表三个来源都会采集成功。日常生成对 ChatGPT 只做 HTTP 采集（官方页面通常返回 403）；自动浏览器采集需仓库变量 `CHRONOLOG_BROWSER_FALLBACK=true` 才开启，见第 3 节。单源故障在有历史基线时隔离，报告标记 degraded，其他成功来源继续更新。全部失败、缺少基线或内容校验失败仍停止发布。
 
 ## 2. 每日流程与报告
 
-生成调度为每天 **09:15 Asia/Shanghai（01:15 UTC）**，GitHub 可能延迟执行。调度不会直接部署。
+生成调度为每天 **09:15 Asia/Shanghai（01:15 UTC）**。GitHub 的定时任务实际在 05:36–07:05 UTC（北京时间 13:36–15:05）才启动，延迟 4–6 小时属常见情况。调度不会直接部署。
 
 - 生成操作先复制 Vault，尝试全量三来源采集，仅对成功且完整的来源执行 reconcile，再跑全部 pytest（包含固定黄金样本）、Vault 校验、Quartz 构建、HTML/索引/图谱/RSS 校验。
 - 构建内容位于独立临时目录，避免 Quartz 的 `_pipeline` 忽略规则把候选内容全部过滤。即使构建进程返回成功，活动集合不匹配仍会失败。
@@ -65,17 +65,27 @@ Quality 派发成功只表示检查已排队，不代表检查通过；合并前
 
 状态含义：`no-change` 为获取成功且没有内容变化；`candidate-applied` 为候选已通过本地门禁并写入生成分支；`rolling-pr.json` 的 `review-required` 才表示 PR 创建/更新且 Quality 派发成功（检查本身仍可能失败）。`failed` 必须查看具体阶段；不能把它解释为产品没有发布。依赖或权限等前置步骤失败时，工作流也会生成 `phase: setup` 的失败记录。
 
-## 3. ChatGPT 自动采集与证据
+### 2.1 Pipeline health issue
 
-日常工作流不再从 `_inputs/chatgpt` 读取旧快照，也不要求每天提交独立快照 PR。
+每次定时生成后，`notify` 任务（`_scripts/pipeline_health.py`，只有 `issues: write` 等只读权限）维护一个标题为 **ChronoLog pipeline health** 的 issue：
 
-1. 先访问官方 [ChatGPT release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) HTTP 页面。
-2. HTTP 失败或历史覆盖缩短时，用 Playwright 控制 Google Chrome 的独立、无登录浏览器上下文打开同一官方页面。最多等待约 45 秒，读取完整 DOM；两次连续解析结果相同且包含全部已归档 Release ID 才接受。没有验证码处理、隐身插件或用户 Cookie 导入。浏览器安装失败会进入同样的来源故障处理，不阻断其他来源。
-3. 自动记录真实获取时间、官方 URL、原文 SHA-256 和浏览器结果。成功的 `chatgpt.html.gz` / `capture.json` 放入该次运行的 `browser/bundle/`；失败页面放入 `browser/failed-document.html.gz`，不会伪装成有效快照。浏览器诊断、原文、标准化 `collection.json.gz` 和摘要均随 generation artifact 保留 90 天，内容 PR 链接到该次运行。
-4. 浏览器也失败时，保留 ChatGPT 已归档事实及其原获取时间；Claude Code / Cursor 成功且完整时继续生成。报告保留 ChatGPT 的 `failed` 状态和原 HTTP 错误，整体 `collection_health: degraded`；不能将绿色构建解释为三源采集均成功。
-5. 只有事实、导航或采集健康状态发生变化才产生内容差异；单纯获取时间变化不会开 PR。首次进入采集延迟和恢复健康会更新读者提示；重复失败的错误和时间只进入证据，不反复产生内容 PR。所有内容仍经同一个滚动 PR 审核一次再发布。
+- 运行失败、发布任务失败，或某来源已审核数据超过 `sources.yaml` 的 `max_staleness_days`（默认 2 天；ChatGPT 8 天）时：没有打开的 issue 就新建并指派给仓库所有者，已有则追加评论；同时该任务失败，运行变红。
+- 滚动审核 PR 等待超过 3 天：只在 issue 中提醒，不使运行失败。
+- 以上都不存在时关闭 issue，并附上恢复的运行链接。
 
-自动采集保存的快照仍使用 **36 小时**有效期和真实时间校验，但在同一次运行里立即消费，不需要等快照先审批。已生成并审核的内容可正常部署，输入随后过期不会阻止该内容部署。HTTP 和浏览器都检查历史 Release ID 覆盖；官方改标题或移除旧记录也可能触发保护，此时应核查缺失原因后通过实现或内容交付处理，不能自动把缺失当成删除授权。
+采集失败的来源，按主分支 `Products/*.md` 中 `coverage` 的获取时间计算已审核数据的年龄；采集成功但内容 PR 迟迟未合并的情况，由“审核 PR 等待超过 3 天”的提醒覆盖。
+
+## 3. ChatGPT 采集：HTTP、人工快照与可选浏览器采集
+
+官方帮助中心对自动化请求返回 HTTP 403。在有界面的浏览器里才能拿到页面，等于绕开站点明确的拒绝，因此日常工作流默认不再自动浏览器采集（[全面评审](review-2026-10-31.md) 5.2）。
+
+1. 日常生成先访问官方 [ChatGPT release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) HTTP 页面。成功即正常采集。
+2. HTTP 失败时，保留 ChatGPT 已审核的归档及其原获取时间，报告标记 `degraded`，Claude Code / Cursor 照常更新；站点显示 ChatGPT 采集延迟。
+3. **约每周一次人工快照**：在普通浏览器中打开官方页面、保存完整 DOM，用下文“本地验证与异常恢复”最后一段的 `snapshot_bundle` 流程生成包，跑一次隔离生成，再以交付 PR 提交内容。`sources.yaml` 中 ChatGPT 的 `max_staleness_days: 8` 是这一节奏的上限：已审核数据超过 8 天，健康 issue 提醒并使运行失败（第 2.1 节）。
+4. **可选的自动浏览器采集**：设置仓库变量 `CHRONOLOG_BROWSER_FALLBACK=true` 后，HTTP 失败或历史覆盖缩短时，用 Playwright 控制 Google Chrome 的独立、无登录上下文打开同一官方页面（CI 中通过 Xvfb 提供显示），最多等待约 45 秒；两次连续解析结果相同且包含全部已归档 Release ID 才接受。没有验证码处理、隐身插件或 Cookie 导入。获取时间、URL、原文 SHA-256 与浏览器证据随 generation artifact 保留 90 天。启用前请自行判断是否符合 OpenAI 的使用条款。
+5. 只有事实、导航或采集健康状态变化才产生内容差异；单纯获取时间变化不会开 PR。所有内容仍经同一个滚动 PR 审核一次再发布。
+
+快照仍使用 **36 小时**有效期和真实时间校验，并在同一次运行里立即消费。HTTP、浏览器与人工快照都检查历史 Release ID 覆盖；官方改标题或移除旧记录也可能触发保护，此时应核查缺失原因后通过实现或内容交付处理，不能自动把缺失当成删除授权。
 
 ### 本地验证与异常恢复
 
@@ -101,7 +111,7 @@ CHRONOLOG_BROWSER_HEADED=1 python -m _scripts.operations --mode generate \
 
 工作流在只读 generation 任务中安装浏览器并运行采集，发布任务仍只接受 Vault Markdown，不接受脚本或快照输入进入滚动分支。浏览器访问限制可能因运行环境而异；本地成功不能代替 GitHub runner 或连续日常运行的成功证据。
 
-人工浏览器快照仍是异常恢复工具，而非每日必做项。需要时保存完整官方 DOM，用 `_scripts.snapshot_bundle --html ... --captured-at ... --output ...` 创建新包，然后给同次隔离生成显式传 `--snapshot-bundle /path/to/bundle`。核对后将内容与必要验收证据放在同一个交付 PR；不再先合并快照、再等待第二个内容 PR。禁止修改旧包时间续期。手动包也必须通过摘要、时间和历史覆盖检查。
+人工浏览器快照是 ChatGPT 的常规更新方式（约每周一次）。保存完整官方 DOM，用 `_scripts.snapshot_bundle --html ... --captured-at ... --output ...` 创建新包，然后给同次隔离生成显式传 `--snapshot-bundle /path/to/bundle`。核对后将内容与必要验收证据放在同一个交付 PR；不再先合并快照、再等待第二个内容 PR。禁止修改旧包时间续期。手动包也必须通过摘要、时间和历史覆盖检查。
 
 ## 4. 人工审核与发布
 

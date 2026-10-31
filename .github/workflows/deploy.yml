@@ -39,6 +39,8 @@ jobs:
       - name: Build exact reviewed commit
         env:
           PAGES_URL: ${{ steps.pages.outputs.base_url }}
+          # Optional page-view counting; empty keeps the site free of analytics scripts.
+          CHRONOLOG_GOATCOUNTER_CODE: ${{ vars.CHRONOLOG_GOATCOUNTER_CODE }}
         run: |
           base="${PAGES_URL#https://}"
           python -m _scripts.operations --mode check --run-id "deploy-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}" --output _pipeline/deploy --base-url "$base" --production

@@ -478,7 +478,9 @@ SCOPE_NOTE = (
 TIMELINE_KINDS = ("launch", "pricing", "policy", "digest")
 KEY_MOMENTS_PER_PRODUCT = 12
 KEY_MOMENTS_TOTAL = 30
-AUTO_MOMENTS_CAPTION = "Auto-selected; edit `key_moments` in editorial.yaml to curate."
+AUTO_MOMENTS_CAPTION = "Selected automatically from launches and standalone announcements."
+# Themes up to this many entries show their timeline open; longer ones fold each year.
+TIMELINE_OPEN_MAX = 12
 
 
 def scope_callout() -> str:
@@ -618,22 +620,24 @@ def key_moments_table(
 
 
 def theme_timeline(cards: list[dict[str, Any]], card_targets: dict[str, str] | None) -> str:
-    """Every card of a theme, newest first, under year (with counts) and month headings."""
+    """Every card of a theme, newest first: one callout per year titled with its counts,
+    months as bold labels inside. Years fold unless the theme has at most
+    ``TIMELINE_OPEN_MAX`` entries; the key moments above summarise a long timeline."""
     if not cards:
         return "No changes yet."
-    lines: list[str] = []
+    blocks: list[str] = []
     for year in sorted({card["date"][:4] for card in cards}, reverse=True):
         year_cards = [card for card in cards if card["date"].startswith(year)]
         counts = Counter(card["product_name"] for card in year_cards)
         breakdown = " · ".join(f"{name} {counts[name]:,}" for name in sorted(counts))
-        lines.extend([f"### {year} · {entries(len(year_cards))} ({breakdown})", ""])
+        lines: list[str] = []
         for month in sorted({card["date"][:7] for card in year_cards}, reverse=True):
             month_cards = sorted(
                 (card for card in year_cards if card["date"].startswith(month)),
                 key=lambda card: (card["product_name"], card["card_id"]),
             )
             month_cards.sort(key=lambda card: card["date"], reverse=True)
-            lines.extend([f"#### {month}", ""])
+            lines.extend([f"**{month}**", ""])
             for card in month_cards:
                 kind = str(card.get("kind") or "change")
                 label = f" · {KIND_LABELS[kind]}" if kind in TIMELINE_KINDS else ""
@@ -642,7 +646,12 @@ def theme_timeline(cards: list[dict[str, Any]], card_targets: dict[str, str] | N
                     f"{card_link(card, card_targets)}{label}"
                 )
             lines.append("")
-    return "\n".join(lines).rstrip()
+        blocks.append(callout(
+            f"{year} · {entries(len(year_cards))} ({breakdown})",
+            "\n".join(lines),
+            folded=len(cards) > TIMELINE_OPEN_MAX,
+        ))
+    return "\n\n".join(blocks)
 
 
 def render_theme_markdown(
@@ -737,20 +746,35 @@ def change_description(
     return cap_text(f"{card['product_name']} · {card['date']} · {display}: {quote_text}")
 
 
+# A quote is source text, not HTML: a placeholder such as <pr-url> outside a code span
+# would be parsed as a tag and vanish from the page.
+TAG_LIKE_RE = re.compile(r"<(?=[A-Za-z/!?])")
+CODE_SPAN_RE = re.compile(r"(`+[^`]*`+)")
+
+
+def quote_markdown(quote: str) -> str:
+    """A source quote with tag-like ``<`` escaped outside inline code spans."""
+    return "".join(
+        part if part.startswith("`") else TAG_LIKE_RE.sub(r"\\<", part)
+        for part in CODE_SPAN_RE.split(str(quote))
+    )
+
+
 def render_evidence(card: dict[str, Any]) -> str:
     """Quoted source text: a digest lists each item; other cards quote one group."""
     evidence = card["evidence"]
     sources = list(dict.fromkeys(str(item["source_release"]) for item in evidence))
     if card.get("kind") == "digest":
-        quotes = "\n\n".join(f"> {item['quote']}" for item in evidence)
+        quotes = "\n\n".join(f"> {quote_markdown(item['quote'])}" for item in evidence)
         return f"## Changes in this digest\n\n{quotes}\n\n" + "\n".join(
             f"Source: {source}" for source in sources
         )
     if len(evidence) > 1 and len(sources) == 1:
-        quotes = "\n>\n".join(f"> {item['quote']}" for item in evidence)
+        quotes = "\n>\n".join(f"> {quote_markdown(item['quote'])}" for item in evidence)
         return f"{quotes}\n>\n> Source: {sources[0]}"
     return "\n\n".join(
-        f"> {item['quote']}\n>\n> Source: {item['source_release']}" for item in evidence
+        f"> {quote_markdown(item['quote'])}\n>\n> Source: {item['source_release']}"
+        for item in evidence
     )
 
 
@@ -957,10 +981,10 @@ def theme_bar(count: int, peak: int) -> str:
     return "█" * max(1, min(THEME_BAR_WIDTH, math.floor(count / peak * THEME_BAR_WIDTH + 0.5)))
 
 
-def callout(title: str, content: str) -> str:
-    """A collapsed Obsidian/Quartz callout: every line prefixed with ``> ``, blank
-    lines as a bare ``>``."""
-    lines = [f"> [!info]- {title}"]
+def callout(title: str, content: str, *, folded: bool = True) -> str:
+    """An Obsidian/Quartz callout, collapsed unless ``folded`` is false (then open but
+    collapsible): every line prefixed with ``> ``, blank lines as a bare ``>``."""
+    lines = [f"> [!info]{'-' if folded else '+'} {title}"]
     lines.extend(f"> {line}" if line.strip() else ">" for line in content.rstrip().split("\n"))
     return "\n".join(lines)
 
@@ -1286,15 +1310,23 @@ def render_alert_markdown(alert: dict[str, Any]) -> str:
 
 SITE_TITLE = "ChronoLog"
 ABOUT_LINK = "[[About|About the data]]"
+# Curated taglines; other themes with a research summary show its research question.
 FEATURED_THEMES = (
     ("agent-mode", "From assisted edits to delegated work"),
     ("pricing-model", "Plans, allowances, and usage charging"),
 )
+RESEARCH_QUESTION_RE = re.compile(r"\*\*Research question:\s*(.+?)\*\*")
 THEME_CATEGORY_ORDER = (
     "paradigm", "capability", "workflow", "platform", "ecosystem", "business", "trust", "quality",
 )
 RECENT_WINDOW_DAYS = 30
 RECENT_PER_PRODUCT = 6
+RECENT_THEMES_SHOWN = 3
+# Home-page headline of a versioned release: a launch, then a standalone announcement
+# (rank 1, see moment_tier), then pricing or policy, then an expansion. Plain changes,
+# fixes and digests are not headlines.
+HEADLINE_KIND_RANK = {"launch": 0, "pricing": 2, "policy": 2, "expansion": 3}
+VERSION_TITLE_RE = re.compile(r"^v?\d+(?:\.\d+)+")
 RELEASE_ACTIVITY_DAYS = 90
 NUMBER_WORDS = ("no", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten")
 
@@ -1336,18 +1368,72 @@ def ordered_products(products: dict[str, dict[str, Any]]) -> list[tuple[str, dic
 ARCHIVE_LINK = "All months: [[Archive/index|Archive]]"
 
 
+def headline_rank(card: dict[str, Any]) -> int | None:
+    """Rank of a card as its release's home-page headline, lower first; ``None`` when
+    it is not a headline."""
+    if moment_tier(card) == 1:
+        return 1
+    return HEADLINE_KIND_RANK.get(str(card.get("kind") or "change"))
+
+
+def release_line(
+    release: dict[str, Any] | None,
+    release_cards: list[dict[str, Any]],
+    card_targets: dict[str, str] | None,
+    release_targets: dict[str, str] | None,
+    theme_labels: dict[str, str] | None,
+) -> str:
+    """One home-page line for the cards of one release.
+
+    A single card is listed as itself. A release with a descriptive title (ChatGPT,
+    Cursor) is listed by that title; a versioned release (Claude Code) by its best
+    headline card when it has one, otherwise by its version. Release lines name the
+    themes with the most quoted items."""
+    def card_line(card: dict[str, Any], suffix: str = "") -> str:
+        return (f"- {card['date']} · {theme_label(card['theme'], theme_labels)}: "
+                f"{card_link(card, card_targets)}{suffix}")
+
+    def headline_key(card: dict[str, Any]) -> tuple[int, int, str]:
+        rank = headline_rank(card)
+        return (len(HEADLINE_KIND_RANK) + 1 if rank is None else rank,
+                -len(card.get("evidence") or []), card["card_id"])
+
+    if len(release_cards) == 1:
+        return card_line(release_cards[0])
+    if release is None:
+        return card_line(min(release_cards, key=headline_key), f" · +{len(release_cards) - 1} more")
+    title = str(release.get("title") or "")
+    link = release_label(release, release_targets)
+    if not title or VERSION_TITLE_RE.match(title):
+        headlines = [card for card in release_cards if headline_rank(card) is not None]
+        if headlines:
+            return card_line(min(headlines, key=headline_key),
+                             f" · +{len(release_cards) - 1} more in {link}")
+    items: Counter = Counter()
+    for card in release_cards:
+        items[theme_label(card["theme"], theme_labels)] += max(1, len(card.get("evidence") or []))
+    themes = [label for label, _ in sorted(items.items(), key=lambda item: (-item[1], item[0]))]
+    shown = themes[:RECENT_THEMES_SHOWN]
+    if len(themes) > len(shown):
+        shown.append(f"+{len(themes) - len(shown)} more")
+    return (f"- {release['date']} · {link} · {counted_cards(len(release_cards))}: "
+            + ", ".join(shown))
+
+
 def recent_changes(
     cards: list[dict[str, Any]],
     products: list[tuple[str, dict[str, Any]]],
     alerts: list[dict[str, Any]],
     card_targets: dict[str, str] | None,
     theme_labels: dict[str, str] | None,
+    releases: dict[str, dict[str, Any]] | None = None,
+    release_targets: dict[str, str] | None = None,
 ) -> str:
-    """Newest cards per product in the window ending at the latest card date (not today),
-    followed by a link to the monthly archive.
+    """Newest releases per product in the window ending at the latest card date (not
+    today), one line each (``release_line``), followed by a link to the monthly archive.
 
-    Cards of a holding theme ("Other changes") are left out, including from the count of
-    further cards in the window."""
+    Cards of a holding theme ("Other changes") are left out, including from the counts;
+    ``releases`` maps release ids to releases."""
     cards = [card for card in cards if card["theme"] not in HOLDING_THEMES]
     warnings = [f"- ⚠ {alert['product_name']}: {alert['message']}" for alert in alerts]
     sections = ["\n".join(warnings)] if warnings else []
@@ -1357,22 +1443,53 @@ def recent_changes(
     start = window_start(anchor, RECENT_WINDOW_DAYS)
     for product, info in products:
         name = info["product_name"]
-        in_window = sorted(
-            (card for card in cards
-             if card["product"] == product and start <= card["date"] <= anchor),
-            key=lambda card: (card["theme"], card["card_id"]),
+        by_release: dict[str, list[dict[str, Any]]] = defaultdict(list)
+        for card in cards:
+            if card["product"] == product and start <= card["date"] <= anchor:
+                by_release[str(card.get("source_release") or card["card_id"])].append(card)
+        newest = sorted(
+            by_release.items(),
+            key=lambda item: (max(card["date"] for card in item[1]), item[0]),
+            reverse=True,
         )
-        in_window.sort(key=lambda card: card["date"], reverse=True)
         entries = [
-            f"- {card['date']} · {theme_label(card['theme'], theme_labels)}: "
-            f"{card_link(card, card_targets)}"
-            for card in in_window[:RECENT_PER_PRODUCT]
+            release_line((releases or {}).get(release_id), release_cards, card_targets,
+                         release_targets, theme_labels)
+            for release_id, release_cards in newest[:RECENT_PER_PRODUCT]
         ] or [f"- No changes archived between {start} and {anchor}."]
-        remaining = len(in_window) - RECENT_PER_PRODUCT
+        remaining = len(newest) - RECENT_PER_PRODUCT
         if remaining > 0:
-            entries.append(f"- {remaining} more in this window → [[Products/{name}|{name}]]")
+            entries.append(
+                f"- {plural(remaining, 'more release')} in this window → [[Products/{name}|{name}]]"
+            )
         sections.append(f"### {name}\n" + "\n".join(entries))
     return "\n\n".join(sections + [ARCHIVE_LINK])
+
+
+def featured_themes(
+    narratives: dict[str, str],
+    theme_counts: Counter,
+    theme_labels: dict[str, str] | None,
+) -> str:
+    """Every theme with a research summary and active cards: curated taglines first, in
+    ``FEATURED_THEMES`` order, then the others by card count with their research question."""
+    taglines = dict(FEATURED_THEMES)
+    curated = list(taglines)
+    themes = sorted(
+        (theme for theme in narratives if theme_counts.get(theme)),
+        key=lambda theme: (curated.index(theme) if theme in taglines else len(curated),
+                           -theme_counts[theme], theme),
+    )
+    lines = []
+    for theme in themes:
+        label = taglines.get(theme, "")
+        if not label:
+            question = RESEARCH_QUESTION_RE.search(narratives[theme])
+            label = question.group(1).strip() if question else ""
+            label = label[:1].upper() + label[1:]
+        link = f"[[Themes/{theme}|{wiki_label(theme_label(theme, theme_labels))}]]"
+        lines.append(f"- {link} — {label}" if label else f"- {link}")
+    return "\n".join(lines)
 
 
 def product_activity(
@@ -1444,6 +1561,7 @@ def render_index_markdown(
     releases_by_product: dict[str, list[dict[str, Any]]] | None = None,
     vocabulary: dict[str, dict[str, Any]] | None = None,
     card_targets: dict[str, str] | None = None,
+    release_targets: dict[str, str] | None = None,
 ) -> str:
     """Reader home page: latest changes, products, themes and a coverage summary.
 
@@ -1452,8 +1570,11 @@ def render_index_markdown(
     Acquisition timestamps and review counts live on the About page.
     """
     products = ordered_products(analysis_a.get("products", {}))
-    themes = analysis_b.get("themes", {})
     releases_by_product = releases_by_product or {}
+    releases_by_id = {
+        release["release_id"]: release
+        for releases in releases_by_product.values() for release in releases
+    }
     # A holding theme is not a theme: no group, no page and not in the theme count.
     theme_counts = Counter(card["theme"] for card in cards if card["theme"] not in HOLDING_THEMES)
     release_dates = [r["date"] for releases in releases_by_product.values() for r in releases]
@@ -1477,12 +1598,12 @@ def render_index_markdown(
     regions = {
         "header": f"# {SITE_TITLE}\n\n{site_lead(product_names)} " + " · ".join(stats),
         "recent": recent_changes(
-            cards, products, silence.get("alerts", []), card_targets, theme_labels
+            cards, products, silence.get("alerts", []), card_targets, theme_labels,
+            releases_by_id, release_targets,
         ),
-        "featured": "\n".join(
-            f"- [[Themes/{theme}|{wiki_label(theme_label(theme, theme_labels))}]] — {label}"
-            for theme, label in FEATURED_THEMES
-            if theme in themes) or "No featured themes yet.",
+        "featured": featured_themes(
+            analysis_b.get("editorial", {}), theme_counts, theme_labels
+        ) or "No featured themes yet.",
         "products": product_activity(
             products, releases_by_product, silence.get("cadence")
         ) or "No products yet.",
@@ -2284,6 +2405,7 @@ def write_run(
             releases_by_product=releases_by_product,
             vocabulary=vocabulary,
             card_targets=card_targets,
+            release_targets=release_targets,
         ),
         conflicts,
         migration_pending,

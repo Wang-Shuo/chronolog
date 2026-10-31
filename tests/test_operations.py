@@ -228,10 +228,23 @@ def test_workflows_keep_prs_unprivileged_and_deploy_behind_review_and_build():
         assert next(s for s in generation_steps if s.get('name') == step_name)['if'] == 'inputs.preview != true'
     collector = next(s for s in generation_steps if s.get('name') == 'Collect and gate isolated candidate')
     assert '--snapshot-bundle _inputs/chatgpt' not in collector['run']
-    assert '--allow-partial' in collector['run'] and '--browser-fallback' in collector['run']
+    assert '--allow-partial' in collector['run']
+    # Browser capture of the ChatGPT page is opt-in through a repository variable.
+    assert '--browser-fallback --' not in collector['run']
+    assert 'if [ "$BROWSER_FALLBACK" = true ]; then args+=(--browser-fallback); fi' in collector['run']
+    assert collector['env']['BROWSER_FALLBACK'] == '${{ vars.CHRONOLOG_BROWSER_FALLBACK }}'
+    browser = next(s for s in generation_steps if s.get('name') == 'Install optional browser collector')
+    assert browser['if'] == "vars.CHRONOLOG_BROWSER_FALLBACK == 'true'"
     assert 'if [ "$PREVIEW" != true ]; then args+=(--apply); fi' in collector['run']
     assert collector['env']['CHRONOLOG_BROWSER_HEADED'] == '1'
     assert collector['env']['CHRONOLOG_BROWSER_CHANNEL'] == 'chrome'
+    # The health job only reads and writes issues; it runs after every real generation.
+    notify = generate['notify']
+    assert notify['needs'] == ['generate', 'publish']
+    assert notify['if'].startswith('always() && inputs.preview != true')
+    assert notify['permissions'] == {'actions': 'read', 'contents': 'read', 'issues': 'write',
+                                     'pull-requests': 'read'}
+    assert any('_scripts.pipeline_health' in s.get('run', '') for s in notify['steps'])
     publisher = generate['publish']['steps']
     checkout = next(s for s in publisher if s.get('uses') == 'actions/checkout@v4')
     assert checkout['with']['ref'] == '${{ github.sha }}'

@@ -68,7 +68,7 @@
 | --- | --- |
 | 主题研究摘要、产品定位、Era | `_scripts/editorial.yaml` 的 `themes` / `products` |
 | 主题页 Key moments | `editorial.yaml` 的 `key_moments: {主题: [card_id, …]}`；10–16 个，三产品与多个年份都要覆盖，选上线与政策/价格变化；id 必须是该主题的活动卡片 |
-| 单张卡片的标题或主题更正 | 卡片 frontmatter 的 `human_overrides`（M1 所有权模型保留），或 `backfill_review.yaml` 的审核决策 |
+| 单张卡片的主题更正 | `backfill_review.yaml` 的审核决策（按卡片或条目的稳定 ID）。卡片 frontmatter 的 `human_overrides` 会被保留，但 writer 目前不读取它，标题与主题更正尚不生效（见[全面评审](review-2026-10-31.md)本月清单 ⑧） |
 | 卡片页、主题页上的人工批注 | 机器区域之外的人工区域 |
 | 生成页面的机器区域 | **不要手改**：`machine_hash` 会报冲突，下一次运行也会覆盖；改 `editorial.yaml` 或 writer |
 

@@ -9,11 +9,13 @@ import pytest
 from _scripts.common import PipelinePaths, card_id_for, read_json, slugify, write_json
 from _scripts.extract import (
     card_title,
+    classify_theme,
     extract_cards_from_release,
     extract_run,
     load_review_decisions,
     load_theme_vocabulary,
     rank_theme_matches,
+    semantic_preclassification_override,
 )
 from _scripts.validate import validate_card
 
@@ -152,16 +154,62 @@ def test_extractor_resolves_known_ambiguous_theme_with_semantic_rule():
     themes = load_theme_vocabulary("_scripts/themes.yaml")
 
     cards = extract_cards_from_release(
-        release_with_body("- Agent team controls improve review permissions"),
+        release_with_body("- Agent sharing controls improve review"),
         themes,
     )
 
-    assert cards[0]["theme"] == "collaboration"
+    assert cards[0]["theme"] == "agent-mode"
     assert cards[0]["theme_resolution"] == "manual-semantic-rule-v1"
     assert [match["theme"] for match in cards[0]["theme_matches"][:2]] == [
         "agent-mode",
         "collaboration",
     ]
+
+
+def test_plan_and_platform_names_only_decide_a_theme_when_nothing_else_matches():
+    themes = load_theme_vocabulary("_scripts/themes.yaml")
+
+    def theme_of(text: str) -> str:
+        return classify_theme(text, themes)["theme"]
+
+    # "team" names a plan or an agent team, not collaboration; "iOS" and "Enterprise"
+    # say where a change reaches. Each yields to what the line is about.
+    assert theme_of("Agent team controls improve review permissions") == "agent-mode"
+    assert theme_of("Voice conversations are now on iOS and Android") == "voice"
+    assert theme_of("Custom instructions now hold more text for Enterprise users") == "memory"
+    # With no other theme in the line, the platform or plan still decides.
+    assert theme_of("ChatGPT for Android is now available") == "mobile-desktop"
+    assert theme_of("Enterprise workspaces get a new dashboard") == "enterprise-admin"
+
+
+def test_dollar_amounts_in_code_are_not_prices():
+    themes = load_theme_vocabulary("_scripts/themes.yaml")
+    shell = "Fixed false Bash permission prompts for `awk '{print $1}' file`"
+    assert semantic_preclassification_override(shell, themes) == "safety-privacy"
+    assert semantic_preclassification_override("Pro now costs $200/month", themes) == "pricing-model"
+    assert semantic_preclassification_override("Standard: $0.50/M input tokens", themes) == "pricing-model"
+    # Credits phrases still match through code spans such as a command name.
+    assert semantic_preclassification_override(
+        "Added `/usage-credits` so members see credits against their usage", themes) == "pricing-model"
+
+
+def test_developer_tool_memory_means_ram_unless_it_names_product_memory():
+    themes = load_theme_vocabulary("_scripts/themes.yaml")
+
+    def override(text: str, product: str) -> str | None:
+        return semantic_preclassification_override(text, themes, product)
+
+    ram = "Improved the embedded grep: pathological patterns fail fast instead of exhausting memory"
+    assert override(ram, "claude-code") == "reliability-performance"
+    assert override("Increased default memory for TypeScript language server.", "cursor") == (
+        "reliability-performance")
+    for product_memory in ("Added an ISO timestamp to memory file frontmatter",
+                           "Project configs & auto memory now shared across git worktrees",
+                           "Improved `/memory`: arrow keys flip settings such as Auto-memory",
+                           "Agents have access to a memory tool that lets them learn from past runs"):
+        assert override(product_memory, "claude-code") is None
+    # ChatGPT's memory is the product feature.
+    assert override("Memory now covers chats in projects for Plus users", "chatgpt") is None
 
 
 def test_extractor_skips_generic_headings_instructions_and_unclassified_bugfixes():
