@@ -1,10 +1,10 @@
 ---
 created: '2023-03-14'
-date: '2026-10-30'
+date: '2026-10-31'
 description: Cross-product timeline of Editor Experience changes in ChatGPT, Claude
   Code and Cursor.
-machine_hash: ad32b21c83c643a78c68618078cb961a3af0a664f85b75cb8ddbf671ecc311a8
-modified: '2026-10-30'
+machine_hash: e44b02d42ed15ab6354a9bb7cd56a1020de889c4636f136d549fde87a32ab849
+modified: '2026-10-31'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Editor Experience
 <!-- chronolog:begin region="header" -->
 # Editor Experience
 
-170 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-14 → 2026-10-30 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
+171 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-14 → 2026-10-31 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -54,10 +54,11 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 92 entries (ChatGPT 7 · Claude Code 65 · Cursor 20)
+### 2026 · 93 entries (ChatGPT 7 · Claude Code 66 · Cursor 20)
 
 #### 2026-10
 
+- 2026-10-31 · **Claude Code** · [[Changes/Claude Code/2026-10-31-2-editor-experience-changes-in-v2-1-316|2 Editor Experience changes in v2.1.316]] · Digest
 - 2026-10-30 · **Claude Code** · [[Changes/Claude Code/2026-10-30-improved-permissions-review-tab-now-called-recently-blocked-the-footer-says-what|Improved /permissions review tab, now called Recently blocked]]
 - 2026-10-27 · **Claude Code** · [[Changes/Claude Code/2026-10-27-cloud-sessions-added-a-bash-editor-with-colors-line-numbers-and-a-copy-button-to|Cloud sessions Added a Bash editor with colors, line numbers and a Copy button…]]
 - 2026-10-26 · **Claude Code** · [[Changes/Claude Code/2026-10-26-vscode-changed-the-session-list-side-bar-to-load-web-sessions-when-the-web-tab-i|VSCode Changed the session list side bar to load Web sessions when the Web tab…]]

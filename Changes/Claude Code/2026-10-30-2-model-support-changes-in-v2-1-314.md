@@ -17,7 +17,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6da4b7534e8607bfbb210cb8931525817f86cf8ecfbe144f7ac8853677ce79a3
+machine_hash: 1341dcd5997a3bf1ceb2756ad6cd0951e534d67c0394b27abf7db66c3ff76ba7
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,6 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.314
 ## Nearby in Model Support
 
 - Earlier: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-3-model-support-changes-in-v2-1-312|3 Model Support changes in v2.1.312]]
+- Later: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-deprecated-fast-mode-for-opus-4-8-as-of-october-30-2026-it-will-be-removed-on-no|Deprecated fast mode for Opus 4.8 as of October 30, 2026]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

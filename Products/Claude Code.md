@@ -1,21 +1,21 @@
 ---
 coverage:
-  acquired_at: '2026-10-30T12:41:57Z'
+  acquired_at: '2026-10-31T04:08:35Z'
   acquisition: http
   coverage: available-endpoint
   earliest: '2025-12-19'
   known_gaps: GitHub Releases starts at v2.0.73 on 2025-12-19. Official CHANGELOG.md
     contains 0.2.x–2.0.72 history without publication dates; not imported.
-  last_successful_fetch: '2026-10-30T12:41:57Z'
-  latest: '2026-10-30'
-  release_count: 256
+  last_successful_fetch: '2026-10-31T04:08:35Z'
+  latest: '2026-10-31'
+  release_count: 257
   url: https://api.github.com/repos/anthropics/claude-code/releases
 created: '2025-12-19'
-date: '2026-10-30'
+date: '2026-10-31'
 description: Anthropic's coding agent for the terminal and IDEs, tracked through its
   official GitHub releases from v2.0.73 (2025-12-19).
-machine_hash: 573c08720412066bd89199090c744ebae8c9633464e76a1eeb76ea8fb1f5b493
-modified: '2026-10-30'
+machine_hash: 8f11d3283a275bb53369c68c2744ebf027ba9cb98d14aabe4282fa8f83fb12e8
+modified: '2026-10-31'
 product: claude-code
 product_name: Claude Code
 publication: active
@@ -37,8 +37,8 @@ top_themes:
 - memory
 - enterprise-admin
 - pricing-model
-- accessibility-localization
 - automation-scheduling
+- accessibility-localization
 - voice
 - projects-workspaces
 - collaboration
@@ -46,18 +46,18 @@ top_themes:
 - search-browsing
 - multimodal
 - learning-tools
-verbosity_baseline: 7.03
+verbosity_baseline: 7.04
 ---
 
 <!-- chronolog:begin region="header" -->
 # Claude Code
 
-Anthropic's coding agent for the terminal and IDEs, tracked through its official GitHub releases from v2.0.73 (2025-12-19). · 256 releases · 2025-12-19 → 2026-10-30 · [[About|coverage details]]
+Anthropic's coding agent for the terminal and IDEs, tracked through its official GitHub releases from v2.0.73 (2025-12-19). · 257 releases · 2025-12-19 → 2026-10-31 · [[About|coverage details]]
 <!-- chronolog:end -->
 
 ## Release cadence
 <!-- chronolog:begin region="cadence" -->
-Last release 2026-10-30 (the archive date) · 79 releases in the last 90 days · cadence: normal
+Last release 2026-10-31 (the archive date) · 80 releases in the last 90 days · cadence: normal
 
 Monthly releases, last 12 months (baseline 23.1 per month):
 
@@ -72,7 +72,7 @@ Monthly releases, last 12 months (baseline 23.1 per month):
 - 2026-07 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 22
 - 2026-08 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 27
 - 2026-09 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 27
-- 2026-10 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 25
+- 2026-10 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 26
 <!-- chronolog:end -->
 
 ## Eras
@@ -116,19 +116,20 @@ Representative releases:
 
 ## Themes
 <!-- chronolog:begin region="themes" -->
-- [[Themes/apps-integrations|Apps and Integrations]] · 157 cards · ████████████
+- [[Themes/apps-integrations|Apps and Integrations]] · 158 cards · ████████████
 - [[Themes/safety-privacy|Safety and Privacy]] · 149 cards · ███████████
-- [[Themes/developer-workflow|Developer Workflow]] · 133 cards · ██████████
+- [[Themes/developer-workflow|Developer Workflow]] · 134 cards · ██████████
 - [[Themes/interface-experience|Interface Experience]] · 127 cards · ██████████
-- [[Themes/agent-mode|Agent Mode]] · 124 cards · █████████
-- [[Themes/model-support|Model Support]] · 95 cards · ███████
+- [[Themes/agent-mode|Agent Mode]] · 125 cards · █████████
+- [[Themes/model-support|Model Support]] · 96 cards · ███████
 - [[Themes/reliability-performance|Reliability and Performance]] · 76 cards · ██████
 - [[Themes/context-window|Context Window]] · 74 cards · ██████
-- Other changes · 131 cards
+- Other changes · 132 cards
 <!-- chronolog:end -->
 
 ## Recent releases
 <!-- chronolog:begin region="recent" -->
+- 2026-10-31 · [[Releases/Claude Code/claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9|v2.1.316]] · 9 cards
 - 2026-10-30 · [[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|v2.1.314]] · 12 cards
 - 2026-10-27 · [[Releases/Claude Code/claude-code-2026-10-27-v2-1-312-github-425846009-439d063a|v2.1.312]] · 8 cards
 - 2026-10-26 · [[Releases/Claude Code/claude-code-2026-10-26-v2-1-311-github-424682562-151da26b|v2.1.311]] · 12 cards
@@ -138,18 +139,18 @@ Representative releases:
 - 2026-10-21 · [[Releases/Claude Code/claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d|v2.1.307]] · 9 cards
 - 2026-10-21 · [[Releases/Claude Code/claude-code-2026-10-21-v2-1-306-github-419073006-dde2e38e|v2.1.306]] · 0 cards
 - 2026-10-20 · [[Releases/Claude Code/claude-code-2026-10-20-v2-1-305-github-418781864-90995baa|v2.1.305]] · 9 cards
-- 2026-10-19 · [[Releases/Claude Code/claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994|v2.1.304]] · 12 cards
 <!-- chronolog:end -->
 
 ## Coverage
 <!-- chronolog:begin region="coverage" -->
-256 releases · 2025-12-19 → 2026-10-30 · [official source](https://github.com/anthropics/claude-code/releases) · GitHub Releases starts at v2.0.73 on 2025-12-19. Official CHANGELOG.md contains 0.2.x–2.0.72 history without publication dates; not imported.
+257 releases · 2025-12-19 → 2026-10-31 · [official source](https://github.com/anthropics/claude-code/releases) · GitHub Releases starts at v2.0.73 on 2025-12-19. Official CHANGELOG.md contains 0.2.x–2.0.72 history without publication dates; not imported.
 
 Acquisition details, how cards are made and known gaps: [[About]].
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="releases" -->
-> [!info]- Release archive (256 releases)
+> [!info]- Release archive (257 releases)
+> - 2026-10-31: [[Releases/Claude Code/claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9|v2.1.316]]
 > - 2026-10-30: [[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|v2.1.314]]
 > - 2026-10-27: [[Releases/Claude Code/claude-code-2026-10-27-v2-1-312-github-425846009-439d063a|v2.1.312]]
 > - 2026-10-26: [[Releases/Claude Code/claude-code-2026-10-26-v2-1-311-github-424682562-151da26b|v2.1.311]]
@@ -409,9 +410,18 @@ Acquisition details, how cards are made and known gaps: [[About]].
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="changes" -->
-> [!info]- All tracked changes (1,413 cards)
-> **2026** · 1,402 cards
+> [!info]- All tracked changes (1,422 cards)
+> **2026** · 1,411 cards
 >
+> - 2026-10-31 · Enterprise and Administration: [[Changes/Claude Code/2026-10-31-2-enterprise-and-administration-changes-in-v2-1-316|2 Enterprise and Administration changes in v2.1.316]]
+> - 2026-10-31 · Editor Experience: [[Changes/Claude Code/2026-10-31-2-editor-experience-changes-in-v2-1-316|2 Editor Experience changes in v2.1.316]]
+> - 2026-10-31 · Other changes: [[Changes/Claude Code/2026-10-31-2-other-changes-in-v2-1-316|2 other changes in v2.1.316]]
+> - 2026-10-31 · Agent Mode: [[Changes/Claude Code/2026-10-31-2-agent-mode-changes-in-v2-1-316|2 Agent Mode changes in v2.1.316]]
+> - 2026-10-31 · Model Support: [[Changes/Claude Code/2026-10-31-deprecated-fast-mode-for-opus-4-8-as-of-october-30-2026-it-will-be-removed-on-no|Deprecated fast mode for Opus 4.8 as of October 30, 2026]]
+> - 2026-10-31 · Account and Access: [[Changes/Claude Code/2026-10-31-vscode-added-sign-in-to-a-claude-apps-gateway-from-the-chat-panel-with-no-termin|VSCode Added sign-in to a Claude apps gateway from the chat panel, with no…]]
+> - 2026-10-31 · Automation and Scheduling: [[Changes/Claude Code/2026-10-31-2-automation-and-scheduling-changes-in-v2-1-316|2 Automation and Scheduling changes in v2.1.316]]
+> - 2026-10-31 · Developer Workflow: [[Changes/Claude Code/2026-10-31-2-developer-workflow-changes-in-v2-1-316|2 Developer Workflow changes in v2.1.316]]
+> - 2026-10-31 · Apps and Integrations: [[Changes/Claude Code/2026-10-31-7-apps-and-integrations-changes-in-v2-1-316|7 Apps and Integrations changes in v2.1.316]]
 > - 2026-10-30 · Mobile and Desktop: [[Changes/Claude Code/2026-10-30-3-mobile-and-desktop-changes-in-v2-1-314|3 Mobile and Desktop changes in v2.1.314]]
 > - 2026-10-30 · Memory and Personalization: [[Changes/Claude Code/2026-10-30-2-memory-and-personalization-changes-in-v2-1-314|2 Memory and Personalization changes in v2.1.314]]
 > - 2026-10-30 · Safety and Privacy: [[Changes/Claude Code/2026-10-30-10-safety-and-privacy-changes-in-v2-1-314|10 Safety and Privacy changes in v2.1.314]]

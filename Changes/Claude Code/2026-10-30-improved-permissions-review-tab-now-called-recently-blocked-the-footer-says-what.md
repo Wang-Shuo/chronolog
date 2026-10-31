@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 09f170d32e6780c4f9a8863aa3efa0f0c390fb0561fe9ef2f14a2694ca7e666e
+machine_hash: 3c6e004155e2c56539949f03a12038d6dafccb9c49e66cb35f8ea55424993f06
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,6 +88,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-cloud-sessions-added-a-bash-editor-with-colors-line-numbers-and-a-copy-button-to|Cloud sessions Added a Bash editor with colors, line numbers and a Copy button…]]
+- Later: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-2-editor-experience-changes-in-v2-1-316|2 Editor Experience changes in v2.1.316]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

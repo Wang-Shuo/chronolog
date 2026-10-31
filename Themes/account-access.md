@@ -1,10 +1,10 @@
 ---
 created: '2023-03-30'
-date: '2026-10-30'
+date: '2026-10-31'
 description: Cross-product timeline of Account and Access changes in ChatGPT, Claude
   Code and Cursor.
-machine_hash: b53a6be40c3873167ff671f4e4b3800fb54e072a696d8a6d97218a7e8bfd26a8
-modified: '2026-10-30'
+machine_hash: 9a79204c6a2c3a2e9ffc5896266a8585e3bad44c4cff2b93fd0d6c8039bf81c6
+modified: '2026-10-31'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Account and Access
 <!-- chronolog:begin region="header" -->
 # Account and Access
 
-82 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-30 → 2026-10-30 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
+83 tracked changes across ChatGPT, Claude Code and Cursor · 2023-03-30 → 2026-10-31 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -49,10 +49,11 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 73 entries (ChatGPT 8 · Claude Code 63 · Cursor 2)
+### 2026 · 74 entries (ChatGPT 8 · Claude Code 64 · Cursor 2)
 
 #### 2026-10
 
+- 2026-10-31 · **Claude Code** · [[Changes/Claude Code/2026-10-31-vscode-added-sign-in-to-a-claude-apps-gateway-from-the-chat-panel-with-no-termin|VSCode Added sign-in to a Claude apps gateway from the chat panel, with no…]]
 - 2026-10-30 · **Claude Code** · [[Changes/Claude Code/2026-10-30-improved-the-cloud-session-error-shown-while-a-request-refused-for-your-claude-a|Improved the cloud session error shown while a request refused for your claude.ai…]]
 - 2026-10-26 · **Claude Code** · [[Changes/Claude Code/2026-10-26-improved-the-message-shown-when-a-pasted-sign-in-code-is-refused-it-now-says-the|Improved the message shown when a pasted sign-in code is refused]]
 - 2026-10-21 · **Claude Code** · [[Changes/Claude Code/2026-10-21-2-account-and-access-changes-in-v2-1-307|2 Account and Access changes in v2.1.307]] · Digest

@@ -1,10 +1,10 @@
 ---
 created: '2025-12-17'
-date: '2026-10-27'
+date: '2026-10-31'
 description: Cross-product timeline of Automation and Scheduling changes in ChatGPT,
   Claude Code and Cursor.
-machine_hash: e006e529595a109ee926a2e7114d9e04c7c49b4cc7f9ee230d8194a70b2f2fd1
-modified: '2026-10-27'
+machine_hash: d3f51fa1bfb7e49e1b640506371f0a72367029b9d41f59e084107a43e71cf48b
+modified: '2026-10-31'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Automation and Scheduling
 <!-- chronolog:begin region="header" -->
 # Automation and Scheduling
 
-40 tracked changes across ChatGPT, Claude Code and Cursor · 2025-12-17 → 2026-10-27 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
+41 tracked changes across ChatGPT, Claude Code and Cursor · 2025-12-17 → 2026-10-31 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -48,10 +48,11 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 39 entries (ChatGPT 8 · Claude Code 16 · Cursor 15)
+### 2026 · 40 entries (ChatGPT 8 · Claude Code 17 · Cursor 15)
 
 #### 2026-10
 
+- 2026-10-31 · **Claude Code** · [[Changes/Claude Code/2026-10-31-2-automation-and-scheduling-changes-in-v2-1-316|2 Automation and Scheduling changes in v2.1.316]] · Digest
 - 2026-10-27 · **ChatGPT** · [[Changes/ChatGPT/2026-10-27-icloud-users-can-now-connect-mail-and-calendar-to-chatgpt-to-find-emails-catch-u|iCloud users can now connect Mail and Calendar to ChatGPT to find emails, catch up…]]
 - 2026-10-20 · **Cursor** · [[Changes/Cursor/2026-10-20-channels|Channels]] · Launch
 - 2026-10-08 · **Claude Code** · [[Changes/Claude Code/2026-10-08-changed-ctrl-c-at-the-idle-prompt-of-an-attached-background-session-to-leave-a-p|Changed Ctrl+C at the idle prompt of an attached background session to leave…]]
