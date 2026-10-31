@@ -80,8 +80,8 @@ def test_render_theme_markdown_contains_navigable_year_timeline(tmp_path: Path):
 
     markdown = render_theme_markdown("agent-mode", cards)
 
-    assert "> [!info]+ 2025 · 2 entries (Aider 1 · Cursor 1)" in markdown
-    assert "> **2025-02**" in markdown and "> **2025-01**" in markdown
+    assert '<details class="disclosure" open>\n<summary>2025 · 2 entries (Aider 1 · Cursor 1)</summary>' in markdown
+    assert "\n**2025-02**\n" in markdown and "\n**2025-01**\n" in markdown
     assert "same-theme chronology" in markdown
     assert "timeline" in markdown
     assert "Aider" in markdown
@@ -789,7 +789,7 @@ def test_theme_display_names_label_theme_index_and_product_pages():
     product = render_product_markdown("cursor", info, [card], {card["card_id"]: "Changes/Cursor/x"},
                                       theme_labels=labels)
     assert "- [[Themes/mobile-desktop|Mobile and Desktop]] · 1 card · " + "█" * 12 in product
-    assert "> - 2025-02-01 · Mobile and Desktop: [[Changes/Cursor/x|Agent shell]]" in product
+    assert "\n- 2025-02-01 · Mobile and Desktop: [[Changes/Cursor/x|Agent shell]]\n" in product
 
 
 def write_run_inputs(root: Path, run_id: str, cards, releases, analysis_b=None) -> None:
@@ -1501,7 +1501,7 @@ def test_home_index_product_and_about_leave_other_changes_out_of_themes():
     themes = extract_machine_regions(frontmatter.loads(product).content)["themes"].splitlines()
     assert themes[0].startswith("- [[Themes/agent-mode|Agent Mode]] · ")
     assert themes[-1] == "- Other changes · 2 cards"  # plain text, listed last
-    assert "> - 2026-10-09 · Other changes: [[2026-10-09-uncategorized-c00099|Cursor c00099]]" in product
+    assert "\n- 2026-10-09 · Other changes: [[2026-10-09-uncategorized-c00099|Cursor c00099]]\n" in product
 
     about = extract_machine_regions(frontmatter.loads(render_about_markdown(
         cards + other, analysis_a["products"], releases, {"alerts": []})).content)
@@ -1549,7 +1549,7 @@ def test_write_run_gives_other_changes_no_theme_page_and_no_neighbours(tmp_path:
     assert extract_machine_regions(release.content)["cards"].splitlines()[-1].endswith(
         "· Other changes · Digest")
     product = (vault / "Products/Cursor.md").read_text(encoding="utf-8")
-    assert "> - 2025-03-01 · Other changes: [[Changes/Cursor/2025-03-01-quasar-three|Quasar three]]" in product
+    assert "\n- 2025-03-01 · Other changes: [[Changes/Cursor/2025-03-01-quasar-three|Quasar three]]\n" in product
     index = extract_machine_regions(frontmatter.load(vault / "index.md").content)
     assert "Other changes" not in index["recent"] and "uncategorized" not in index["themes"]
 
@@ -1596,9 +1596,9 @@ from _scripts.writer import (  # noqa: E402
 
 VERBOSITY = {"ChatGPT": 1.71, "Claude Code": 6.91, "Cursor": 4.04, "Aider": 9.0}
 SCOPE_CALLOUT = (
-    "> [!info]- How to read this timeline\n"
-    "> Scope: tracked-products-only. Entries show same-theme chronology; they do not establish "
-    "equivalent capabilities, adoption, or causation.")
+    '<details class="disclosure">\n<summary>How to read this timeline</summary>\n\n'
+    "Scope: tracked-products-only. Entries show same-theme chronology; they do not establish "
+    "equivalent capabilities, adoption, or causation.\n\n</details>")
 
 
 def moment(product_name, date, suffix, kind="change", impact="incremental", title=None,
@@ -1654,22 +1654,30 @@ def test_theme_timeline_groups_by_year_and_month_with_counts():
                                                     for card in cards})
 
     assert regions["timeline"] == "\n".join([
-        "> [!info]+ 2026 · 5 entries (ChatGPT 1 · Claude Code 2 · Cursor 2)",
-        "> **2026-10**",
-        ">",
-        "> - 2026-10-14 · **Claude Code** · [[Changes/x/claude-code-2026-10-14-b00001|3 Agent Mode changes in v2.1.300]] · Digest",
-        "> - 2026-10-06 · **Claude Code** · [[Changes/x/claude-code-2026-10-06-b00002|Claude Code b00002]]",
-        "> - 2026-10-06 · **Cursor** · [[Changes/x/cursor-2026-10-06-c00001|Cursor c00001]] · Launch",
-        ">",
-        "> **2026-09**",
-        ">",
-        "> - 2026-09-30 · **Cursor** · [[Changes/x/cursor-2026-09-30-c00002|Cursor c00002]]",
-        "> - 2026-09-29 · **ChatGPT** · [[Changes/x/chatgpt-2026-09-29-a00001|ChatGPT a00001]] · Pricing",
+        '<details class="disclosure" open>',
+        "<summary>2026 · 5 entries (ChatGPT 1 · Claude Code 2 · Cursor 2)</summary>",
         "",
-        "> [!info]+ 2025 · 1 entry (Cursor 1)",
-        "> **2025-12**",
-        ">",
-        "> - 2025-12-01 · **Cursor** · [[Changes/x/cursor-2025-12-01-c00003|Cursor c00003]] · Policy",
+        "**2026-10**",
+        "",
+        "- 2026-10-14 · **Claude Code** · [[Changes/x/claude-code-2026-10-14-b00001|3 Agent Mode changes in v2.1.300]] · Digest",
+        "- 2026-10-06 · **Claude Code** · [[Changes/x/claude-code-2026-10-06-b00002|Claude Code b00002]]",
+        "- 2026-10-06 · **Cursor** · [[Changes/x/cursor-2026-10-06-c00001|Cursor c00001]] · Launch",
+        "",
+        "**2026-09**",
+        "",
+        "- 2026-09-30 · **Cursor** · [[Changes/x/cursor-2026-09-30-c00002|Cursor c00002]]",
+        "- 2026-09-29 · **ChatGPT** · [[Changes/x/chatgpt-2026-09-29-a00001|ChatGPT a00001]] · Pricing",
+        "",
+        "</details>",
+        "",
+        '<details class="disclosure" open>',
+        "<summary>2025 · 1 entry (Cursor 1)</summary>",
+        "",
+        "**2025-12**",
+        "",
+        "- 2025-12-01 · **Cursor** · [[Changes/x/cursor-2025-12-01-c00003|Cursor c00003]] · Policy",
+        "",
+        "</details>",
     ])
 
 
@@ -1678,8 +1686,9 @@ def test_theme_timeline_folds_each_year_once_the_theme_is_long():
     cards = [moment("Cursor", f"2026-10-{day:02d}", f"c{day:05d}")
              for day in range(1, TIMELINE_OPEN_MAX + 2)]
     timeline = theme_regions(cards)[1]["timeline"]
-    assert timeline.startswith(f"> [!info]- 2026 · {TIMELINE_OPEN_MAX + 1} entries (Cursor {TIMELINE_OPEN_MAX + 1})")
-    assert "[!info]+" not in timeline
+    assert timeline.startswith('<details class="disclosure">\n'
+                               f"<summary>2026 · {TIMELINE_OPEN_MAX + 1} entries (Cursor {TIMELINE_OPEN_MAX + 1})</summary>")
+    assert " open>" not in timeline
     assert "### " not in timeline and "#### " not in timeline
 
 
@@ -2091,23 +2100,22 @@ def test_product_recent_releases_are_the_last_ten_newest_first_with_card_counts(
     assert lines[-1].startswith("- 2026-03-01 · ")
 
 
-def test_product_archive_and_changes_are_collapsed_callouts_with_every_line_prefixed():
+def test_product_archive_and_changes_are_collapsed_disclosures():
     info, cards, releases, targets = product_inputs()
     regions = extract_machine_regions(frontmatter.loads(render_product_markdown(
         "cursor", info, cards + [{**cards[0], "card_id": "cursor-2025-12-01-old000", "date": "2025-12-01"}],
         {cards[0]["card_id"]: "Changes/Cursor/x"}, releases=releases, release_targets=targets)).content)
     archive = regions["releases"].split("\n")
-    assert archive[0] == "> [!info]- Release archive (12 releases)"
-    assert archive[1] == "> - 2026-12-01: [[Releases/Cursor/cursor-2026-12-01-r|Release 12]]"
-    assert len(archive) == 13
+    assert archive[:3] == ['<details class="disclosure">', "<summary>Release archive (12 releases)</summary>", ""]
+    assert archive[3] == "- 2026-12-01: [[Releases/Cursor/cursor-2026-12-01-r|Release 12]]"
+    assert archive[-2:] == ["", "</details>"] and len(archive) == 17
     changes = regions["changes"].split("\n")
-    assert changes[0] == "> [!info]- All tracked changes (12 cards)"
-    assert changes[1:3] == ["> **2026** · 11 cards", ">"]
-    assert changes[3] == "> - 2026-11-01 · Uncategorized: [[2026-11-01-change-10|Change 10]]"
-    assert "> **2025** · 1 card" in changes
-    assert "> - 2026-01-01 · Agent Mode: [[Changes/Cursor/x|Change 0]]" in changes
-    for region in (archive, changes):
-        assert all(line == ">" or line.startswith("> ") for line in region)
+    assert changes[:3] == ['<details class="disclosure">', "<summary>All tracked changes (12 cards)</summary>", ""]
+    assert changes[3:5] == ["**2026** · 11 cards", ""]
+    assert changes[5] == "- 2026-11-01 · Uncategorized: [[2026-11-01-change-10|Change 10]]"
+    assert "**2025** · 1 card" in changes
+    assert "- 2026-01-01 · Agent Mode: [[Changes/Cursor/x|Change 0]]" in changes
+    assert changes[-2:] == ["", "</details>"]
 
 
 def test_legacy_product_page_migrates_to_the_new_skeleton_idempotently(tmp_path: Path):
@@ -2148,7 +2156,7 @@ def test_legacy_product_page_with_human_text_is_kept_and_reported(tmp_path: Path
     assert "## Summary" in content and "## Themes" not in content  # structure kept
     regions = extract_machine_regions(content)
     assert regions["cadence"].startswith("Last release 2026-10-13")  # present regions refreshed
-    assert regions["releases"].startswith("> [!info]- Release archive (12 releases)")
+    assert regions["releases"].startswith('<details class="disclosure">\n<summary>Release archive (12 releases)</summary>')
     assert conflicts == [] and pending == [{"file": str(target), "reason": MIGRATION_PENDING_REASON}]
     once = target.read_bytes()
     write_markdown_file(target, rendered, conflicts, [])
