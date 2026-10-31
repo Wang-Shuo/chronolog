@@ -3,7 +3,7 @@ created: '2023-03-14'
 date: '2026-10-31'
 description: Cross-product timeline of Editor Experience changes in ChatGPT, Claude
   Code and Cursor.
-machine_hash: 9708af755553c372c2a61992326ed5485bcd537e061ad5dceb7846841faa2781
+machine_hash: a5955102eabb28471353e92166f6583188de89c44b062f0ea83f2e2b1a8d0d25
 modified: '2026-10-31'
 products_involved:
 - ChatGPT
@@ -35,16 +35,20 @@ Selected automatically from launches and standalone announcements.
 
 | Quarter | ChatGPT | Claude Code | Cursor |
 | --- | --- | --- | --- |
-| 2026 Q3 | 2026-09-28 [[Changes/ChatGPT/2026-09-28-you-can-now-select-a-chart-metric-or-record-in-the-health-tab-to-get-personalize\|Explore your health data with personalized summaries]] | · | 2026-08-27 [[Changes/Cursor/2026-08-27-once-the-agent-s-build-is-to-your-liking-click-the-create-repo-button-to-save-yo\|Turn it into a real repo, whenever you want]]<br>2026-08-17 [[Changes/Cursor/2026-08-17-origin-repos\|Origin Repos]] |
-| 2026 Q2 | · | · | 2026-05-07 [[Changes/Cursor/2026-05-07-multitask-is-now-available-in-the-editor-for-running-async-subagents-to-parallel\|/multitask is now available in the editor for running async subagents to parallelize…]]<br>2026-04-02 [[Changes/Cursor/2026-04-02-agent-tabs-in-the-editor\|Agent Tabs in the Editor]] |
-| 2026 Q1 | · | · | 2026-01-16 [[Changes/Cursor/2026-01-16-this-release-brings-many-of-the-editor-s-most-loved-features-to-the-cursor-cli-a\|Cursor brings many of the editor’s most-loved features to the Cursor CLI, along…]] |
-| 2025 Q4 | · | · | 2025-12-10 [[Changes/Cursor/2025-12-10-browser-layout-and-style-editor-c9ae9c\|Browser layout and style editor]] |
-| 2025 Q3 | · | · | 2025-09-29 [[Changes/Cursor/2025-09-29-when-writing-prompts-autocomplete-suggestions-will-appear-based-on-recent-change\|Autocomplete for Agent]] |
-| 2025 Q2 | · | · | 2025-05-15 [[Changes/Cursor/2025-05-15-new-tab-model\|New Tab model]] |
-| 2025 Q1 | · | · | 2025-03-23 [[Changes/Cursor/2025-03-23-chat-tabs\|Chat tabs]] |
-| 2023 Q4 | · | · | 2023-12-31 [[Changes/Cursor/2023-12-31-you-can-now-use-chat-and-cmd-k-in-the-aux-window-without-too-many-problems\|Aux Window Fixes]] |
-| 2023 Q3 | · | · | 2023-09-27 [[Changes/Cursor/2023-09-27-you-can-now-use-an-early-preview-of-edit-in-the-chat-it-s-significantly-faster-a\|/edit in chat]] |
-| 2023 Q2 | · | · | 2023-05-17 [[Changes/Cursor/2023-05-17-diff-generate-improvements\|Diff/Generate improvements]] |
+| **First in archive** | <time datetime="2025-12-17">2025-12-17</time> [[Changes/ChatGPT/2025-12-17-edit-and-review-tasks-in-pulse-anytime-after-you-create-them-please-note-that-pu\|Edit and review tasks in Pulse anytime after you create them]] | <time datetime="2025-12-19">2025-12-19</time> [[Changes/Claude Code/2025-12-19-vscode-added-tab-icon-badges-showing-pending-permissions-blue-and-unread-complet\|VSCode Added tab icon badges showing pending permissions (blue) and unread…]] | <time datetime="2023-03-14">2023-03-14</time> [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37\|3 Editor Experience changes in 0.0.37]] |
+| 2026 Q3 | <time datetime="2026-09-28">2026-09-28</time> [[Changes/ChatGPT/2026-09-28-you-can-now-select-a-chart-metric-or-record-in-the-health-tab-to-get-personalize\|Explore your health data with personalized summaries]] | · | <time datetime="2026-08-27">2026-08-27</time> [[Changes/Cursor/2026-08-27-once-the-agent-s-build-is-to-your-liking-click-the-create-repo-button-to-save-yo\|Turn it into a real repo, whenever you want]]<br><time datetime="2026-08-17">2026-08-17</time> [[Changes/Cursor/2026-08-17-origin-repos\|Origin Repos]] |
+| 2026 Q2 | · | · | <time datetime="2026-05-07">2026-05-07</time> [[Changes/Cursor/2026-05-07-multitask-is-now-available-in-the-editor-for-running-async-subagents-to-parallel\|/multitask is now available in the editor for running async subagents to parallelize…]]<br><time datetime="2026-04-02">2026-04-02</time> [[Changes/Cursor/2026-04-02-agent-tabs-in-the-editor\|Agent Tabs in the Editor]] |
+| 2026 Q1 | · | · | <time datetime="2026-01-16">2026-01-16</time> [[Changes/Cursor/2026-01-16-this-release-brings-many-of-the-editor-s-most-loved-features-to-the-cursor-cli-a\|Cursor brings many of the editor’s most-loved features to the Cursor CLI, along…]] |
+| 2025 Q4 | · | archive begins <time datetime="2025-12-19">2025-12-19</time> | <time datetime="2025-12-10">2025-12-10</time> [[Changes/Cursor/2025-12-10-browser-layout-and-style-editor-c9ae9c\|Browser layout and style editor]] |
+| 2025 Q3 | · | <span class="not-archived">not archived</span> | <time datetime="2025-09-29">2025-09-29</time> [[Changes/Cursor/2025-09-29-when-writing-prompts-autocomplete-suggestions-will-appear-based-on-recent-change\|Autocomplete for Agent]] |
+| 2025 Q2 | · | <span class="not-archived">not archived</span> | <time datetime="2025-05-15">2025-05-15</time> [[Changes/Cursor/2025-05-15-new-tab-model\|New Tab model]] |
+| 2025 Q1 | · | <span class="not-archived">not archived</span> | <time datetime="2025-03-23">2025-03-23</time> [[Changes/Cursor/2025-03-23-chat-tabs\|Chat tabs]] |
+| 2024 Q1 → 2024 Q4 | · | <span class="not-archived">not archived</span> | · |
+| 2023 Q4 | · | <span class="not-archived">not archived</span> | <time datetime="2023-12-31">2023-12-31</time> [[Changes/Cursor/2023-12-31-you-can-now-use-chat-and-cmd-k-in-the-aux-window-without-too-many-problems\|Aux Window Fixes]] |
+| 2023 Q3 | · | <span class="not-archived">not archived</span> | <time datetime="2023-09-27">2023-09-27</time> [[Changes/Cursor/2023-09-27-you-can-now-use-an-early-preview-of-edit-in-the-chat-it-s-significantly-faster-a\|/edit in chat]] |
+| 2023 Q2 | · | <span class="not-archived">not archived</span> | <time datetime="2023-05-17">2023-05-17</time> [[Changes/Cursor/2023-05-17-diff-generate-improvements\|Diff/Generate improvements]] |
+
+First in archive: each product's earliest tracked change in this theme. "·" marks a quarter without a key moment, and "not archived" a quarter before the product's archive begins. Archives begin: ChatGPT 2022-12-15 · Claude Code 2025-12-19 · Cursor 2023-03-14.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="scope" -->

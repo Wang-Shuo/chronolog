@@ -2,7 +2,7 @@
 created: '2023-07-06'
 date: '2026-10-31'
 description: 'Research question: what changed in delegated execution?'
-machine_hash: ec550b306fcb1bbdb6f423c899f1f76b245a2018ee23e74c5d14d5f5d7395b09
+machine_hash: 69d7d3e8385ee3f52520d04fba7f79c068bd1764bd210a56ce7f3a24bdf01982
 modified: '2026-10-31'
 products_involved:
 - ChatGPT
@@ -40,14 +40,18 @@ Claude Code's [v2.1.296 on 2026-10-09](https://github.com/anthropics/claude-code
 <!-- chronolog:begin region="moments" -->
 | Quarter | ChatGPT | Claude Code | Cursor |
 | --- | --- | --- | --- |
-| 2026 Q3 | 2026-09-29 [[Changes/ChatGPT/2026-09-29-we-re-introducing-dots-always-on-agents-in-chatgpt-that-can-take-on-ongoing-work-24bef5\|ChatGPT introduces dots]]<br>2026-07-09 [[Changes/ChatGPT/2026-07-09-chatgpt-work-is-an-agent-for-longer-more-involved-tasks-it-can-research-and-anal\|ChatGPT Work is an agent for longer, more involved tasks]] | 2026-07-11 [[Changes/Claude Code/2026-07-11-auto-mode-is-now-available-without-claude-code-enable-auto-mode-opt-in-on-bedroc\|Auto mode is now available without CLAUDE_CODE_ENABLE_AUTO_MODE opt-in on Bedrock…]] | 2026-09-10 [[Changes/Cursor/2026-09-10-a-project-runs-on-its-own-computer-in-the-cloud-so-closing-your-laptop-doesn-t-s\|Powered by Cloud Agents]] |
-| 2026 Q2 | · | 2026-06-10 [[Changes/Claude Code/2026-06-10-sub-agents-can-now-spawn-their-own-sub-agents-up-to-5-levels-deep\|Sub-agents can now spawn their own sub-agents (up to 5 levels deep)]]<br>2026-05-28 [[Changes/Claude Code/2026-05-28-introducing-dynamic-workflows-ask-claude-to-create-a-workflow-and-it-orchestrate\|Introducing dynamic workflows]]<br>2026-04-16 [[Changes/Claude Code/2026-04-16-auto-mode-no-longer-requires-enable-auto-mode\|Auto mode no longer requires --enable-auto-mode]] | · |
-| 2026 Q1 | · | · | 2026-01-22 [[Changes/Cursor/2026-01-22-subagents\|Subagents]] |
-| 2025 Q4 | · | · | 2025-10-29 [[Changes/Cursor/2025-10-29-multi-agents-bb4f56\|Multi-Agents]] |
-| 2025 Q3 | 2025-09-29 [[Changes/ChatGPT/2025-09-29-we-re-introducing-instant-checkout-in-chatgpt-and-the-agentic-commerce-protocol-8cbf19\|ChatGPT introduces Instant Checkout and the Agentic Commerce Protocol that powers…]] | · | · |
-| 2025 Q2 | · | · | 2025-06-04 [[Changes/Cursor/2025-06-04-background-agent-for-everyone-8b35dc\|Background Agent for everyone]]<br>2025-05-15 [[Changes/Cursor/2025-05-15-background-agent-preview\|Background Agent (Preview)]] |
-| 2025 Q1 | · | · | 2025-02-19 [[Changes/Cursor/2025-02-19-agent-is-ready-agent-is-now-the-default-mode-bringing-a-more-powerful-and-unifie\|Agent is ready: Agent is now the default mode, bringing a more powerful and unified…]] |
-| 2023 Q3 | · | · | 2023-07-06 [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas\|Agents, new docs]] |
+| **First in archive** | <time datetime="2025-09-29">2025-09-29</time> [[Changes/ChatGPT/2025-09-29-we-re-introducing-instant-checkout-in-chatgpt-and-the-agentic-commerce-protocol-8cbf19\|ChatGPT introduces Instant Checkout and the Agentic Commerce Protocol that powers…]] | <time datetime="2026-01-09">2026-01-09</time> [[Changes/Claude Code/2026-01-09-added-agent-type-to-sessionstart-hook-input-populated-if-agent-is-specified\|Added agent_type to SessionStart hook input, populated if --agent is specified]] | <time datetime="2023-07-06">2023-07-06</time> [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas\|Agents, new docs]] |
+| 2026 Q3 | <time datetime="2026-09-29">2026-09-29</time> [[Changes/ChatGPT/2026-09-29-we-re-introducing-dots-always-on-agents-in-chatgpt-that-can-take-on-ongoing-work-24bef5\|ChatGPT introduces dots]]<br><time datetime="2026-07-09">2026-07-09</time> [[Changes/ChatGPT/2026-07-09-chatgpt-work-is-an-agent-for-longer-more-involved-tasks-it-can-research-and-anal\|ChatGPT Work is an agent for longer, more involved tasks]] | <time datetime="2026-07-11">2026-07-11</time> [[Changes/Claude Code/2026-07-11-auto-mode-is-now-available-without-claude-code-enable-auto-mode-opt-in-on-bedroc\|Auto mode is now available without CLAUDE_CODE_ENABLE_AUTO_MODE opt-in on Bedrock…]] | <time datetime="2026-09-10">2026-09-10</time> [[Changes/Cursor/2026-09-10-a-project-runs-on-its-own-computer-in-the-cloud-so-closing-your-laptop-doesn-t-s\|Powered by Cloud Agents]] |
+| 2026 Q2 | · | <time datetime="2026-06-10">2026-06-10</time> [[Changes/Claude Code/2026-06-10-sub-agents-can-now-spawn-their-own-sub-agents-up-to-5-levels-deep\|Sub-agents can now spawn their own sub-agents (up to 5 levels deep)]]<br><time datetime="2026-05-28">2026-05-28</time> [[Changes/Claude Code/2026-05-28-introducing-dynamic-workflows-ask-claude-to-create-a-workflow-and-it-orchestrate\|Introducing dynamic workflows]]<br><time datetime="2026-04-16">2026-04-16</time> [[Changes/Claude Code/2026-04-16-auto-mode-no-longer-requires-enable-auto-mode\|Auto mode no longer requires --enable-auto-mode]] | · |
+| 2026 Q1 | · | · | <time datetime="2026-01-22">2026-01-22</time> [[Changes/Cursor/2026-01-22-subagents\|Subagents]] |
+| 2025 Q4 | · | archive begins <time datetime="2025-12-19">2025-12-19</time> | <time datetime="2025-10-29">2025-10-29</time> [[Changes/Cursor/2025-10-29-multi-agents-bb4f56\|Multi-Agents]] |
+| 2025 Q3 | <time datetime="2025-09-29">2025-09-29</time> [[Changes/ChatGPT/2025-09-29-we-re-introducing-instant-checkout-in-chatgpt-and-the-agentic-commerce-protocol-8cbf19\|ChatGPT introduces Instant Checkout and the Agentic Commerce Protocol that powers…]] | <span class="not-archived">not archived</span> | · |
+| 2025 Q2 | · | <span class="not-archived">not archived</span> | <time datetime="2025-06-04">2025-06-04</time> [[Changes/Cursor/2025-06-04-background-agent-for-everyone-8b35dc\|Background Agent for everyone]]<br><time datetime="2025-05-15">2025-05-15</time> [[Changes/Cursor/2025-05-15-background-agent-preview\|Background Agent (Preview)]] |
+| 2025 Q1 | · | <span class="not-archived">not archived</span> | <time datetime="2025-02-19">2025-02-19</time> [[Changes/Cursor/2025-02-19-agent-is-ready-agent-is-now-the-default-mode-bringing-a-more-powerful-and-unifie\|Agent is ready: Agent is now the default mode, bringing a more powerful and unified…]] |
+| 2023 Q4 → 2024 Q4 | · | <span class="not-archived">not archived</span> | · |
+| 2023 Q3 | · | <span class="not-archived">not archived</span> | <time datetime="2023-07-06">2023-07-06</time> [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas\|Agents, new docs]] |
+
+First in archive: each product's earliest tracked change in this theme. "·" marks a quarter without a key moment, and "not archived" a quarter before the product's archive begins. Archives begin: ChatGPT 2022-12-15 · Claude Code 2025-12-19 · Cursor 2023-03-14.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="scope" -->

@@ -116,7 +116,7 @@ ChronoLog looks like a working archive in a quiet reading room: warm paper, near
 
 The system is Quartz's three-column reading layout, re-inked. Structure comes from typography and hairline rules, not from boxes or shadows. Density is that of a research document: plain lists of dated entries joined by middle dots, compact tables, and long cited paragraphs at a comfortable 1.6 line height. Color is scarce and functional. Ochre means "this goes somewhere", teal means "you are pointing at it", and everything else is ink on paper. Dark mode is the same room after hours: carbon paper, lamp-lit ochre, nothing new added.
 
-Data visualization stays typographic. Cadence is drawn with block characters (█) in running text, timelines are tables of quarters × products, and empty cells hold a quiet middle dot. This keeps the archive readable in Obsidian, in RSS and on the web alike.
+Data visualization stays typographic. Cadence is drawn with block characters (█) in running text, timelines are tables of quarters × products, and an empty cell says why it is empty: a quiet middle dot, or `not archived`. This keeps the archive readable in Obsidian, in RSS and on the web alike.
 
 **Key Characteristics:**
 - Warm off-white paper and warm near-black ink; one ochre accent, one teal hover.
@@ -216,8 +216,13 @@ The card's core: the official source text, quoted.
 - **Style:** a blockquote with a 3px Archive Ochre left rule, 1rem left padding and no background, in Carbon Ink body text. It ends with a "Source:" line linking to the official URL.
 
 ### Tables (Key moments)
-- **Style:** a borderless table on paper. The header row is in body weight 700 with a 2px Graphite rule beneath; body rows are separated by Paper Rule hairlines. Cell padding is 0.4rem × 0.7rem in the header and 0.2rem × 0.7rem in the body, with line height 2rem.
-- **Key moments** is the signature use: one row per quarter (newest first) and one column per product. Each cell stacks `YYYY-MM-DD` and an internal link per entry, and an empty cell holds a single centered middle dot (·).
+- **Style:** a borderless table on paper, aligned with the text column (no inset). The header row is in body weight 700 with a 2px Graphite rule beneath; body rows are separated by Paper Rule hairlines. Cells are top-aligned with 0.45rem × 0.7rem padding and a 1.5 line height, and the first column never wraps on wide screens.
+- **Key moments** is the signature use. Each cell stacks a `<time>` date and an internal link per entry, and dates never break at their hyphens. The rows are:
+  - a bold **First in archive** row leading the table, with each product's earliest tracked card in the theme;
+  - one row per quarter (newest first);
+  - a range row (`2023 Q4 → 2024 Q4`) for quarters skipped between two rows.
+- **Coverage states:** an empty cell says why it is empty. A middle dot (·) means no key moment inside the product's archive. `not archived` (Graphite) means the quarter is wholly before the product's archive begins. `archive begins YYYY-MM-DD` marks the quarter or range where it does. A one-line legend under the table lists each product's archive start. An empty cell must never read as "this product was later".
+- **Phones (< 800px):** the table takes its natural width and scrolls inside its container. Product columns are about 9rem wide, and the quarter column (4.5rem, allowed to wrap) stays pinned on paper with a hairline edge painted by the cell itself.
 
 ### Cadence bars
 - **Style:** inline block-character bars (█) in Carbon Ink, each followed by its number, in a plain list labelled by `YYYY-MM` (product pages) or theme name and card count (theme rankings). Typographic and copy-pasteable. They render the same in Obsidian, RSS and the site.
@@ -245,7 +250,7 @@ The wordmark plus the one-line tagline "Tracked changes in ChatGPT, Claude Code 
 ### Do:
 - **Do** keep Archive Ochre for followable things only (links, tags, breadcrumbs, source rules, wordmark); see The Ochre-Means-Citable Rule.
 - **Do** separate content with Paper Rule hairlines and tone, keeping every surface flat.
-- **Do** draw data with type: block-character bars, quarter × product tables, middle-dot placeholders for empty cells.
+- **Do** draw data with type: block-character bars, quarter × product tables, and middle-dot placeholders for quarters without a moment, kept distinct from `not archived`.
 - **Do** set dates as `YYYY-MM-DD` and join metadata with middle dots (`2026-10-30 · Memory and Personalization: …`).
 - **Do** verify that every new color pairing meets WCAG AA in both modes; the incumbent text colors measure 5.0–11.8:1 in light mode and 6.4–13:1 in dark mode.
 - **Do** keep every page free of horizontal scroll at 390px, breaking long identifiers anywhere.

@@ -3,7 +3,7 @@ created: '2023-09-25'
 date: '2026-10-22'
 description: Cross-product timeline of Voice and Audio changes in ChatGPT, Claude
   Code and Cursor.
-machine_hash: a5905d6dbbf56fe3549880d5835a7f426d14b7b33fd2c0cc89738196ec5802b4
+machine_hash: 200b7ba4e532f4176942977c1fdf20c5191101714f698ae443bffbd779495f5a
 modified: '2026-10-22'
 products_involved:
 - ChatGPT
@@ -35,12 +35,17 @@ Selected automatically from launches and standalone announcements.
 
 | Quarter | ChatGPT | Claude Code | Cursor |
 | --- | --- | --- | --- |
-| 2026 Q3 | 2026-07-23 [[Changes/ChatGPT/2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star\|ChatGPT Voice in Work and Codex on desktop]]<br>2026-07-08 [[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by\|Introducing GPT-Live-1 in ChatGPT Voice]] | · | · |
-| 2026 Q2 | · | · | 2026-06-05 [[Changes/Cursor/2026-06-05-narrate-changes-through-the-design-mode-overlay-the-mic-stays-available-while-an\|Voice input]]<br>2026-04-13 [[Changes/Cursor/2026-04-13-upgraded-voice-input-26be2e\|Upgraded voice input]] |
-| 2025 Q4 | · | · | 2025-10-29 [[Changes/Cursor/2025-10-29-voice-mode\|Voice Mode]] |
-| 2025 Q3 | 2025-08-07 [[Changes/ChatGPT/2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali-b6826c\|Personalities]]<br>2025-08-07 [[Changes/ChatGPT/2025-08-07-you-can-now-set-an-accent-color-that-applies-to-elements-in-chatgpt-including-yo-865968\|Accent Colors]] | · | · |
-| 2023 Q4 | 2023-11-21 [[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p\|ChatGPT with voice is available to all users]] | · | · |
-| 2023 Q3 | 2023-09-25 [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e\|Voice (Beta) is now rolling out to Plus users on iOS and Android]] | · | · |
+| **First in archive** | <time datetime="2023-09-25">2023-09-25</time> [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e\|Voice (Beta) is now rolling out to Plus users on iOS and Android]] | <time datetime="2026-03-05">2026-03-05</time> [[Changes/Claude Code/2026-03-05-3-voice-and-audio-changes-in-v2-1-69\|3 Voice and Audio changes in v2.1.69]] | <time datetime="2025-10-29">2025-10-29</time> [[Changes/Cursor/2025-10-29-voice-mode\|Voice Mode]] |
+| 2026 Q3 | <time datetime="2026-07-23">2026-07-23</time> [[Changes/ChatGPT/2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star\|ChatGPT Voice in Work and Codex on desktop]]<br><time datetime="2026-07-08">2026-07-08</time> [[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by\|Introducing GPT-Live-1 in ChatGPT Voice]] | · | · |
+| 2026 Q2 | · | · | <time datetime="2026-06-05">2026-06-05</time> [[Changes/Cursor/2026-06-05-narrate-changes-through-the-design-mode-overlay-the-mic-stays-available-while-an\|Voice input]]<br><time datetime="2026-04-13">2026-04-13</time> [[Changes/Cursor/2026-04-13-upgraded-voice-input-26be2e\|Upgraded voice input]] |
+| 2026 Q1 | · | · | · |
+| 2025 Q4 | · | archive begins <time datetime="2025-12-19">2025-12-19</time> | <time datetime="2025-10-29">2025-10-29</time> [[Changes/Cursor/2025-10-29-voice-mode\|Voice Mode]] |
+| 2025 Q3 | <time datetime="2025-08-07">2025-08-07</time> [[Changes/ChatGPT/2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali-b6826c\|Personalities]]<br><time datetime="2025-08-07">2025-08-07</time> [[Changes/ChatGPT/2025-08-07-you-can-now-set-an-accent-color-that-applies-to-elements-in-chatgpt-including-yo-865968\|Accent Colors]] | <span class="not-archived">not archived</span> | · |
+| 2024 Q1 → 2025 Q2 | · | <span class="not-archived">not archived</span> | · |
+| 2023 Q4 | <time datetime="2023-11-21">2023-11-21</time> [[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p\|ChatGPT with voice is available to all users]] | <span class="not-archived">not archived</span> | · |
+| 2023 Q3 | <time datetime="2023-09-25">2023-09-25</time> [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e\|Voice (Beta) is now rolling out to Plus users on iOS and Android]] | <span class="not-archived">not archived</span> | · |
+
+First in archive: each product's earliest tracked change in this theme. "·" marks a quarter without a key moment, and "not archived" a quarter before the product's archive begins. Archives begin: ChatGPT 2022-12-15 · Claude Code 2025-12-19 · Cursor 2023-03-14.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="scope" -->

@@ -3,7 +3,7 @@ created: '2024-03-20'
 date: '2026-10-31'
 description: Cross-product timeline of Enterprise and Administration changes in ChatGPT,
   Claude Code and Cursor.
-machine_hash: 75dfe1591bcd220983f94cb36bb3b72d10f7c2175798487455505e720fc56597
+machine_hash: ad8f16cfa8319ffd05926bdc53fc1dc0af13e1c0524a07d1be7d2b2b3fc96860
 modified: '2026-10-31'
 products_involved:
 - ChatGPT
@@ -35,11 +35,14 @@ Selected automatically from launches and standalone announcements.
 
 | Quarter | ChatGPT | Claude Code | Cursor |
 | --- | --- | --- | --- |
-| 2026 Q4 | · | · | 2026-10-06 [[Changes/Cursor/2026-10-06-for-enterprise-teams\|For Enterprise teams]] |
-| 2026 Q3 | · | · | 2026-07-22 [[Changes/Cursor/2026-07-22-admin-controls\|Admin controls]] |
-| 2026 Q2 | · | · | 2026-06-03 [[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr\|Organizations]]<br>2026-05-04 [[Changes/Cursor/2026-05-04-this-release-introduces-updates-for-enterprise-admins-a-new-system-for-model-con\|Cursor introduces updates for Enterprise admins]] |
-| 2026 Q1 | · | · | 2026-01-22 [[Changes/Cursor/2026-01-22-cursor-blame\|Cursor Blame]] |
-| 2025 Q4 | · | · | 2025-10-29 [[Changes/Cursor/2025-10-29-cursor-for-enterprise\|Cursor for Enterprise]] |
+| **First in archive** | <time datetime="2025-06-12">2025-06-12</time> [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon\|Enterprise and Edu rollout coming soon]] | <time datetime="2026-03-05">2026-03-05</time> [[Changes/Claude Code/2026-03-05-improved-macos-startup-for-claude-ai-enterprise-team-users-by-skipping-an-unnece\|Improved macOS startup for Claude.ai enterprise/team users by skipping…]] | <time datetime="2024-03-20">2024-03-20</time> [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s\|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]] |
+| 2026 Q4 | · | · | <time datetime="2026-10-06">2026-10-06</time> [[Changes/Cursor/2026-10-06-for-enterprise-teams\|For Enterprise teams]] |
+| 2026 Q3 | · | · | <time datetime="2026-07-22">2026-07-22</time> [[Changes/Cursor/2026-07-22-admin-controls\|Admin controls]] |
+| 2026 Q2 | · | · | <time datetime="2026-06-03">2026-06-03</time> [[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr\|Organizations]]<br><time datetime="2026-05-04">2026-05-04</time> [[Changes/Cursor/2026-05-04-this-release-introduces-updates-for-enterprise-admins-a-new-system-for-model-con\|Cursor introduces updates for Enterprise admins]] |
+| 2026 Q1 | · | · | <time datetime="2026-01-22">2026-01-22</time> [[Changes/Cursor/2026-01-22-cursor-blame\|Cursor Blame]] |
+| 2025 Q4 | · | archive begins <time datetime="2025-12-19">2025-12-19</time> | <time datetime="2025-10-29">2025-10-29</time> [[Changes/Cursor/2025-10-29-cursor-for-enterprise\|Cursor for Enterprise]] |
+
+First in archive: each product's earliest tracked change in this theme. "·" marks a quarter without a key moment, and "not archived" a quarter before the product's archive begins. Archives begin: ChatGPT 2022-12-15 · Claude Code 2025-12-19 · Cursor 2023-03-14.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="scope" -->

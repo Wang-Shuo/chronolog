@@ -3,7 +3,7 @@ created: '2022-12-15'
 date: '2026-10-30'
 description: Cross-product timeline of Reliability and Performance changes in ChatGPT,
   Claude Code and Cursor.
-machine_hash: 797471f514e07a005c4e40d242a132c6cc0b9bbb10e7baa398c8eb4e46d073a3
+machine_hash: b8d3e04db5eff692aa207d0bf1e1513f56c33c7a41585cb04070d5dc7cb7e4b9
 modified: '2026-10-30'
 products_involved:
 - ChatGPT
@@ -35,12 +35,17 @@ Selected automatically from launches and standalone announcements.
 
 | Quarter | ChatGPT | Claude Code | Cursor |
 | --- | --- | --- | --- |
-| 2026 Q4 | · | · | 2026-10-16 [[Changes/Cursor/2026-10-16-larger-faster-environments\|Larger, faster environments]] |
-| 2026 Q3 | · | · | 2026-09-23 [[Changes/Cursor/2026-09-23-deploy-tracking\|Deploy tracking]] |
-| 2026 Q2 | · | 2026-05-11 [[Changes/Claude Code/2026-05-11-added-scroll-speed-command-to-tune-mouse-wheel-scroll-speed-with-a-live-preview\|Added /scroll-speed command to tune mouse wheel scroll speed with a live preview]] | 2026-06-04 [[Changes/Cursor/2026-06-04-reliability-performance-and-platform-improvements\|Reliability, performance, and platform improvements]]<br>2026-05-07 [[Changes/Cursor/2026-05-07-pin-skills-as-quick-actions\|Pin skills as quick actions]] |
-| 2026 Q1 | · | · | 2026-03-19 [[Changes/Cursor/2026-03-19-composer-2-is-now-available-in-cursor-frontier-level-coding-performance-with-str\|Composer 2 is now available in Cursor]] |
-| 2025 Q2 | 2025-05-08 [[Changes/ChatGPT/2025-05-08-outside-the-european-regions-listed-above-all-plus-and-pro-accounts-that-have-me-507581\|Opt‑in reminders]] | · | · |
-| 2023 Q3 | · | · | 2023-09-08 [[Changes/Cursor/2023-09-08-following-this-update-future-updates-should-come-as-staged-rollouts-this-will-me\|Staged Rollouts]] |
+| **First in archive** | <time datetime="2022-12-15">2022-12-15</time> [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n\|General performance: Among other improvements, users will notice that ChatGPT is now…]] | <time datetime="2026-01-14">2026-01-14</time> [[Changes/Claude Code/2026-01-14-improved-typing-responsiveness-by-reducing-memory-allocation-overhead-in-termina\|Improved typing responsiveness by reducing memory allocation overhead in terminal…]] | <time datetime="2023-07-26">2023-07-26</time> [[Changes/Cursor/2023-07-26-removes-a-check-in-the-chat-that-slows-the-chat-down-in-certain-cases\|Removes a check in the chat that slows the chat down in certain cases]] |
+| 2026 Q4 | · | · | <time datetime="2026-10-16">2026-10-16</time> [[Changes/Cursor/2026-10-16-larger-faster-environments\|Larger, faster environments]] |
+| 2026 Q3 | · | · | <time datetime="2026-09-23">2026-09-23</time> [[Changes/Cursor/2026-09-23-deploy-tracking\|Deploy tracking]] |
+| 2026 Q2 | · | <time datetime="2026-05-11">2026-05-11</time> [[Changes/Claude Code/2026-05-11-added-scroll-speed-command-to-tune-mouse-wheel-scroll-speed-with-a-live-preview\|Added /scroll-speed command to tune mouse wheel scroll speed with a live preview]] | <time datetime="2026-06-04">2026-06-04</time> [[Changes/Cursor/2026-06-04-reliability-performance-and-platform-improvements\|Reliability, performance, and platform improvements]]<br><time datetime="2026-05-07">2026-05-07</time> [[Changes/Cursor/2026-05-07-pin-skills-as-quick-actions\|Pin skills as quick actions]] |
+| 2026 Q1 | · | · | <time datetime="2026-03-19">2026-03-19</time> [[Changes/Cursor/2026-03-19-composer-2-is-now-available-in-cursor-frontier-level-coding-performance-with-str\|Composer 2 is now available in Cursor]] |
+| 2025 Q3 → 2025 Q4 | · | archive begins <time datetime="2025-12-19">2025-12-19</time> | · |
+| 2025 Q2 | <time datetime="2025-05-08">2025-05-08</time> [[Changes/ChatGPT/2025-05-08-outside-the-european-regions-listed-above-all-plus-and-pro-accounts-that-have-me-507581\|Opt‑in reminders]] | <span class="not-archived">not archived</span> | · |
+| 2023 Q4 → 2025 Q1 | · | <span class="not-archived">not archived</span> | · |
+| 2023 Q3 | · | <span class="not-archived">not archived</span> | <time datetime="2023-09-08">2023-09-08</time> [[Changes/Cursor/2023-09-08-following-this-update-future-updates-should-come-as-staged-rollouts-this-will-me\|Staged Rollouts]] |
+
+First in archive: each product's earliest tracked change in this theme. "·" marks a quarter without a key moment, and "not archived" a quarter before the product's archive begins. Archives begin: ChatGPT 2022-12-15 · Claude Code 2025-12-19 · Cursor 2023-03-14.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="scope" -->

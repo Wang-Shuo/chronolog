@@ -3,7 +3,7 @@ created: '2023-07-06'
 date: '2026-10-26'
 description: Cross-product timeline of Files and Data changes in ChatGPT, Claude Code
   and Cursor.
-machine_hash: 290fb604d72b6cc51bfb6e3fa9ee8dbb965e9408282715425bcc4ddd9a111e0e
+machine_hash: 9cc81f5ab80547124d7f11df8c7140b78071ef981bd460890964644457838847
 modified: '2026-10-26'
 products_involved:
 - ChatGPT
@@ -35,7 +35,10 @@ Selected automatically from launches and standalone announcements.
 
 | Quarter | ChatGPT | Claude Code | Cursor |
 | --- | --- | --- | --- |
-| 2026 Q2 | · | · | 2026-06-04 [[Changes/Cursor/2026-06-04-design-mode-is-now-available-in-canvases\|Design Mode in canvases]] |
+| **First in archive** | <time datetime="2023-07-06">2023-07-06</time> [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e\|Code interpreter is now rolling out in beta on web]] | <time datetime="2026-02-04">2026-02-04</time> [[Changes/Claude Code/2026-02-04-improved-pdf-and-request-size-error-messages-to-show-actual-limits-100-pages-20m\|Improved PDF and request size error messages to show actual limits (100 pages, 20MB)]] | <time datetime="2026-04-13">2026-04-13</time> [[Changes/Cursor/2026-04-13-plan-tabs-now-get-the-same-document-behaviors-as-files-support-for-reliable-load\|Plan tabs now get the same document behaviors as files]] |
+| 2026 Q2 | · | · | <time datetime="2026-06-04">2026-06-04</time> [[Changes/Cursor/2026-06-04-design-mode-is-now-available-in-canvases\|Design Mode in canvases]] |
+
+First in archive: each product's earliest tracked change in this theme. "·" marks a quarter without a key moment, and "not archived" a quarter before the product's archive begins. Archives begin: ChatGPT 2022-12-15 · Claude Code 2025-12-19 · Cursor 2023-03-14.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="scope" -->

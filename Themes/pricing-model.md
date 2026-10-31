@@ -2,7 +2,7 @@
 created: '2022-12-15'
 date: '2026-10-28'
 description: 'Research question: what is being charged for, and what does a plan unlock?'
-machine_hash: 3679c51991c63e1f004a685d9214054abb54f23b0b903a352dc83ba20e382e71
+machine_hash: 777c8774c3079773f9e3b5ed740788a215074c14ad552351f98c4bf01f6f0fec
 modified: '2026-10-28'
 products_involved:
 - ChatGPT
@@ -40,15 +40,21 @@ Claude Code's [v2.1.296 on 2026-10-09](https://github.com/anthropics/claude-code
 <!-- chronolog:begin region="moments" -->
 | Quarter | ChatGPT | Claude Code | Cursor |
 | --- | --- | --- | --- |
-| 2026 Q4 | · | 2026-10-09 [[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price\|Updated /cost, the status line, --max-budget-usd and the SDK's cost figures…]] | · |
-| 2026 Q3 | 2026-09-29 [[Changes/ChatGPT/2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o-e04989\|A new Pro plan with Astra Ultrafast]] | 2026-08-27 [[Changes/Claude Code/2026-08-27-added-usage-credits-for-enterprise-organizations-billed-through-aws-marketplace\|Added /usage-credits for Enterprise organizations billed through AWS Marketplace…]] | 2026-07-28 [[Changes/Cursor/2026-07-28-we-re-introducing-cursor-start-a-new-649-monthly-plan-for-developers-in-india-ma\|Cursor introduces Cursor Start, a new ₹649 monthly plan for developers in India…]] |
-| 2026 Q2 | 2026-04-09 [[Changes/ChatGPT/2026-04-09-we-re-introducing-a-new-100-month-pro-plan-and-updating-how-codex-usage-works-ac\|We’re introducing a new $100/month Pro plan and updating how Codex usage works…]] | 2026-05-19 [[Changes/Claude Code/2026-05-19-renamed-extra-usage-to-usage-credits-across-cli-copy-extra-usage-is-now-usage-cr\|Renamed "extra usage" to "usage credits" across CLI copy]] | · |
-| 2026 Q1 | · | · | 2026-03-19 [[Changes/Cursor/2026-03-19-fast-default-1-50-m-input-7-50-m-output-tokens\|Fast (default): $1.50/M input, $7.50/M output tokens]] |
-| 2025 Q3 | 2025-08-18 [[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially-e5f740\|ChatGPT launches ChatGPT Go, a new low-cost subscription plan]] | · | · |
-| 2025 Q2 | · | · | 2025-05-15 [[Changes/Cursor/2025-05-15-simpler-unified-pricing-6a915c\|Simpler, unified pricing]] |
-| 2023 Q4 | · | · | 2023-11-03 [[Changes/Cursor/2023-11-03-pro-plan-if-you-hit-your-fast-request-limit-and-prefer-to-purchase-more-you-now\|Pro++ plan: if you hit your fast request limit and prefer to purchase more, you now can]] |
-| 2023 Q1 | 2023-02-13 [[Changes/ChatGPT/2023-02-13-we-rolled-out-the-ability-to-purchase-chatgpt-plus-internationally\|We rolled out the ability to purchase ChatGPT Plus internationally]] | · | 2023-03-27 [[Changes/Cursor/2023-03-27-adds-an-optional-paid-plan-if-you-d-like-to-avoid-the-server-capacity-rate-limit\|Adds an optional paid plan if you'd like to avoid the server capacity rate limits]] |
-| 2022 Q4 | 2022-12-15 [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp\|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]] | · | · |
+| **First in archive** | <time datetime="2022-12-15">2022-12-15</time> [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp\|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]] | <time datetime="2026-02-04">2026-02-04</time> [[Changes/Claude Code/2026-02-04-removed-misleading-anthropic-api-pricing-from-model-selector-for-third-party-pro\|Removed misleading Anthropic API pricing from model selector for third-party…]] | <time datetime="2023-03-27">2023-03-27</time> [[Changes/Cursor/2023-03-27-adds-an-optional-paid-plan-if-you-d-like-to-avoid-the-server-capacity-rate-limit\|Adds an optional paid plan if you'd like to avoid the server capacity rate limits]] |
+| 2026 Q4 | · | <time datetime="2026-10-09">2026-10-09</time> [[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price\|Updated /cost, the status line, --max-budget-usd and the SDK's cost figures…]] | · |
+| 2026 Q3 | <time datetime="2026-09-29">2026-09-29</time> [[Changes/ChatGPT/2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o-e04989\|A new Pro plan with Astra Ultrafast]] | <time datetime="2026-08-27">2026-08-27</time> [[Changes/Claude Code/2026-08-27-added-usage-credits-for-enterprise-organizations-billed-through-aws-marketplace\|Added /usage-credits for Enterprise organizations billed through AWS Marketplace…]] | <time datetime="2026-07-28">2026-07-28</time> [[Changes/Cursor/2026-07-28-we-re-introducing-cursor-start-a-new-649-monthly-plan-for-developers-in-india-ma\|Cursor introduces Cursor Start, a new ₹649 monthly plan for developers in India…]] |
+| 2026 Q2 | <time datetime="2026-04-09">2026-04-09</time> [[Changes/ChatGPT/2026-04-09-we-re-introducing-a-new-100-month-pro-plan-and-updating-how-codex-usage-works-ac\|We’re introducing a new $100/month Pro plan and updating how Codex usage works…]] | <time datetime="2026-05-19">2026-05-19</time> [[Changes/Claude Code/2026-05-19-renamed-extra-usage-to-usage-credits-across-cli-copy-extra-usage-is-now-usage-cr\|Renamed "extra usage" to "usage credits" across CLI copy]] | · |
+| 2026 Q1 | · | · | <time datetime="2026-03-19">2026-03-19</time> [[Changes/Cursor/2026-03-19-fast-default-1-50-m-input-7-50-m-output-tokens\|Fast (default): $1.50/M input, $7.50/M output tokens]] |
+| 2025 Q4 | · | archive begins <time datetime="2025-12-19">2025-12-19</time> | · |
+| 2025 Q3 | <time datetime="2025-08-18">2025-08-18</time> [[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially-e5f740\|ChatGPT launches ChatGPT Go, a new low-cost subscription plan]] | <span class="not-archived">not archived</span> | · |
+| 2025 Q2 | · | <span class="not-archived">not archived</span> | <time datetime="2025-05-15">2025-05-15</time> [[Changes/Cursor/2025-05-15-simpler-unified-pricing-6a915c\|Simpler, unified pricing]] |
+| 2024 Q1 → 2025 Q1 | · | <span class="not-archived">not archived</span> | · |
+| 2023 Q4 | · | <span class="not-archived">not archived</span> | <time datetime="2023-11-03">2023-11-03</time> [[Changes/Cursor/2023-11-03-pro-plan-if-you-hit-your-fast-request-limit-and-prefer-to-purchase-more-you-now\|Pro++ plan: if you hit your fast request limit and prefer to purchase more, you now can]] |
+| 2023 Q2 → 2023 Q3 | · | <span class="not-archived">not archived</span> | · |
+| 2023 Q1 | <time datetime="2023-02-13">2023-02-13</time> [[Changes/ChatGPT/2023-02-13-we-rolled-out-the-ability-to-purchase-chatgpt-plus-internationally\|We rolled out the ability to purchase ChatGPT Plus internationally]] | <span class="not-archived">not archived</span> | <time datetime="2023-03-27">2023-03-27</time> [[Changes/Cursor/2023-03-27-adds-an-optional-paid-plan-if-you-d-like-to-avoid-the-server-capacity-rate-limit\|Adds an optional paid plan if you'd like to avoid the server capacity rate limits]] |
+| 2022 Q4 | <time datetime="2022-12-15">2022-12-15</time> [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp\|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]] | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> |
+
+First in archive: each product's earliest tracked change in this theme. "·" marks a quarter without a key moment, and "not archived" a quarter before the product's archive begins. Archives begin: ChatGPT 2022-12-15 · Claude Code 2025-12-19 · Cursor 2023-03-14.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="scope" -->

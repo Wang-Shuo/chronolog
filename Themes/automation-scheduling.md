@@ -3,7 +3,7 @@ created: '2025-01-14'
 date: '2026-10-31'
 description: Cross-product timeline of Automation and Scheduling changes in ChatGPT,
   Claude Code and Cursor.
-machine_hash: c43c3a8f39b9b809f0958716825432147c8eaf7b69a57fdc67c0e16e2029c742
+machine_hash: f5150ff14845554211572e18e721ef50f44f4ce893033c25a261adc493eb77a7
 modified: '2026-10-31'
 products_involved:
 - ChatGPT
@@ -35,10 +35,13 @@ Selected automatically from launches and standalone announcements.
 
 | Quarter | ChatGPT | Claude Code | Cursor |
 | --- | --- | --- | --- |
-| 2026 Q4 | · | · | 2026-10-20 [[Changes/Cursor/2026-10-20-channels\|Channels]] |
-| 2026 Q3 | 2026-08-25 [[Changes/ChatGPT/2026-08-25-free-go-plus-and-pro-users-can-share-scheduled-tasks-recipients-can-review-and-c\|Share scheduled tasks]] | · | · |
-| 2026 Q2 | · | · | 2026-06-18 [[Changes/Cursor/2026-06-18-computer-use-tool-for-automations\|Computer use tool for automations]]<br>2026-05-20 [[Changes/Cursor/2026-05-20-no-repo-automations\|No-repo automations]] |
-| 2026 Q1 | · | 2026-03-07 [[Changes/Claude Code/2026-03-07-added-loop-command-to-run-a-prompt-or-slash-command-on-a-recurring-interval-e-g\|Added /loop command to run a prompt or slash command on a recurring interval…]] | · |
+| **First in archive** | <time datetime="2025-01-14">2025-01-14</time> [[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6\|Scheduled tasks in ChatGPT]] | <time datetime="2026-03-07">2026-03-07</time> [[Changes/Claude Code/2026-03-07-added-cron-scheduling-tools-for-recurring-prompts-within-a-session\|Added cron scheduling tools for recurring prompts within a session]] | <time datetime="2026-03-05">2026-03-05</time> [[Changes/Cursor/2026-03-05-create-automations-at-cursor-com-automations-or-start-from-a-template-read-more\|Create automations at cursor.com/automations, or start from a template]] |
+| 2026 Q4 | · | · | <time datetime="2026-10-20">2026-10-20</time> [[Changes/Cursor/2026-10-20-channels\|Channels]] |
+| 2026 Q3 | <time datetime="2026-08-25">2026-08-25</time> [[Changes/ChatGPT/2026-08-25-free-go-plus-and-pro-users-can-share-scheduled-tasks-recipients-can-review-and-c\|Share scheduled tasks]] | · | · |
+| 2026 Q2 | · | · | <time datetime="2026-06-18">2026-06-18</time> [[Changes/Cursor/2026-06-18-computer-use-tool-for-automations\|Computer use tool for automations]]<br><time datetime="2026-05-20">2026-05-20</time> [[Changes/Cursor/2026-05-20-no-repo-automations\|No-repo automations]] |
+| 2026 Q1 | · | <time datetime="2026-03-07">2026-03-07</time> [[Changes/Claude Code/2026-03-07-added-loop-command-to-run-a-prompt-or-slash-command-on-a-recurring-interval-e-g\|Added /loop command to run a prompt or slash command on a recurring interval…]] | · |
+
+First in archive: each product's earliest tracked change in this theme. "·" marks a quarter without a key moment, and "not archived" a quarter before the product's archive begins. Archives begin: ChatGPT 2022-12-15 · Claude Code 2025-12-19 · Cursor 2023-03-14.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="scope" -->

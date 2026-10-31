@@ -3,7 +3,7 @@ created: '2023-05-04'
 date: '2026-10-27'
 description: 'Research question: how much material can each product bring into a conversation,
   and how does it handle the limit?'
-machine_hash: 44637d1bad8a4e96292861f2d2c39afa0e4de507e709a9fd421357246506f4cc
+machine_hash: ef4dc3805704f4c9f1104811926bf3a7e3ebfaa359602a5760a618d768edf8ba
 modified: '2026-10-27'
 products_involved:
 - ChatGPT
@@ -43,15 +43,20 @@ Selected automatically from launches and standalone announcements.
 
 | Quarter | ChatGPT | Claude Code | Cursor |
 | --- | --- | --- | --- |
-| 2026 Q4 | · | 2026-10-14 [[Changes/Claude Code/2026-10-14-added-usage-warnings-for-max-effort-workflows-always-on-context-and-large-tool-r\|Added /usage warnings for max effort, workflows, always-on context and large tool…]] | · |
-| 2026 Q3 | · | 2026-09-04 [[Changes/Claude Code/2026-09-04-added-skill-doctor-to-show-which-loaded-skills-go-unused-and-what-they-cost-in-c\|Added /skill-doctor to show which loaded skills go unused and what they cost…]] | 2026-09-10 [[Changes/Cursor/2026-09-10-you-shouldn-t-have-to-onboard-an-agent-every-time-you-start-a-task-each-project\|Shared context]]<br>2026-07-17 [[Changes/Cursor/2026-07-17-cross-channel-workflows\|Cross-channel workflows]]<br>2026-07-10 [[Changes/Cursor/2026-07-10-side-chats\|Side chats]] |
-| 2026 Q2 | · | 2026-06-08 [[Changes/Claude Code/2026-06-08-added-cd-command-to-move-a-session-to-a-new-working-directory-without-breaking-t\|Added /cd command to move a session to a new working directory without breaking…]] | 2026-06-04 [[Changes/Cursor/2026-06-04-this-release-introduces-design-mode-for-faster-canvas-editing-new-ways-to-unders\|Cursor introduces Design Mode for faster canvas editing, new ways to understand…]]<br>2026-05-13 [[Changes/Cursor/2026-05-13-compact-chat-responses\|Compact chat responses]] |
-| 2025 Q4 | · | · | 2025-12-18 [[Changes/Cursor/2025-12-18-conversation-insights-2efafc\|Conversation insights]] |
-| 2025 Q3 | · | · | 2025-09-12 [[Changes/Cursor/2025-09-12-cursor-automatically-summarizes-long-conversation-for-you-when-reaching-the-cont\|Summarization triggers]]<br>2025-07-29 [[Changes/Cursor/2025-07-29-at-the-end-of-a-conversation-you-can-now-see-how-much-of-the-context-window-is-u\|View context usage in Chat]] |
-| 2025 Q2 | · | · | 2025-05-15 [[Changes/Cursor/2025-05-15-include-your-entire-codebase-in-context\|Include your entire codebase in context]] |
-| 2023 Q4 | · | · | 2023-11-24 [[Changes/Cursor/2023-11-24-you-can-now-folder-in-the-chat-to-chat-with-a-folder-let-us-know-what-you-think\|@folder]] |
-| 2023 Q3 | · | · | 2023-09-08 [[Changes/Cursor/2023-09-08-long-files-in-chat\|Long files in chat]] |
-| 2023 Q2 | · | · | 2023-06-06 [[Changes/Cursor/2023-06-06-codebase-context-v1-bd6ee5\|Codebase Context v1]] |
+| **First in archive** | <time datetime="2023-05-12">2023-05-12</time> [[Changes/ChatGPT/2023-05-12-for-more-information-on-our-rollout-process-please-check-out-the-article-here-in\|For more information on our rollout process, please check out the article here]] | <time datetime="2025-12-19">2025-12-19</time> [[Changes/Claude Code/2025-12-19-improved-context-command-visualization-with-grouped-skills-and-agents-by-source\|Improved /context command visualization with grouped skills and agents by source…]] | <time datetime="2023-05-04">2023-05-04</time> [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9\|2 Context Window changes in 0.2.9]] |
+| 2026 Q4 | · | <time datetime="2026-10-14">2026-10-14</time> [[Changes/Claude Code/2026-10-14-added-usage-warnings-for-max-effort-workflows-always-on-context-and-large-tool-r\|Added /usage warnings for max effort, workflows, always-on context and large tool…]] | · |
+| 2026 Q3 | · | <time datetime="2026-09-04">2026-09-04</time> [[Changes/Claude Code/2026-09-04-added-skill-doctor-to-show-which-loaded-skills-go-unused-and-what-they-cost-in-c\|Added /skill-doctor to show which loaded skills go unused and what they cost…]] | <time datetime="2026-09-10">2026-09-10</time> [[Changes/Cursor/2026-09-10-you-shouldn-t-have-to-onboard-an-agent-every-time-you-start-a-task-each-project\|Shared context]]<br><time datetime="2026-07-17">2026-07-17</time> [[Changes/Cursor/2026-07-17-cross-channel-workflows\|Cross-channel workflows]]<br><time datetime="2026-07-10">2026-07-10</time> [[Changes/Cursor/2026-07-10-side-chats\|Side chats]] |
+| 2026 Q2 | · | <time datetime="2026-06-08">2026-06-08</time> [[Changes/Claude Code/2026-06-08-added-cd-command-to-move-a-session-to-a-new-working-directory-without-breaking-t\|Added /cd command to move a session to a new working directory without breaking…]] | <time datetime="2026-06-04">2026-06-04</time> [[Changes/Cursor/2026-06-04-this-release-introduces-design-mode-for-faster-canvas-editing-new-ways-to-unders\|Cursor introduces Design Mode for faster canvas editing, new ways to understand…]]<br><time datetime="2026-05-13">2026-05-13</time> [[Changes/Cursor/2026-05-13-compact-chat-responses\|Compact chat responses]] |
+| 2026 Q1 | · | · | · |
+| 2025 Q4 | · | archive begins <time datetime="2025-12-19">2025-12-19</time> | <time datetime="2025-12-18">2025-12-18</time> [[Changes/Cursor/2025-12-18-conversation-insights-2efafc\|Conversation insights]] |
+| 2025 Q3 | · | <span class="not-archived">not archived</span> | <time datetime="2025-09-12">2025-09-12</time> [[Changes/Cursor/2025-09-12-cursor-automatically-summarizes-long-conversation-for-you-when-reaching-the-cont\|Summarization triggers]]<br><time datetime="2025-07-29">2025-07-29</time> [[Changes/Cursor/2025-07-29-at-the-end-of-a-conversation-you-can-now-see-how-much-of-the-context-window-is-u\|View context usage in Chat]] |
+| 2025 Q2 | · | <span class="not-archived">not archived</span> | <time datetime="2025-05-15">2025-05-15</time> [[Changes/Cursor/2025-05-15-include-your-entire-codebase-in-context\|Include your entire codebase in context]] |
+| 2024 Q1 → 2025 Q1 | · | <span class="not-archived">not archived</span> | · |
+| 2023 Q4 | · | <span class="not-archived">not archived</span> | <time datetime="2023-11-24">2023-11-24</time> [[Changes/Cursor/2023-11-24-you-can-now-folder-in-the-chat-to-chat-with-a-folder-let-us-know-what-you-think\|@folder]] |
+| 2023 Q3 | · | <span class="not-archived">not archived</span> | <time datetime="2023-09-08">2023-09-08</time> [[Changes/Cursor/2023-09-08-long-files-in-chat\|Long files in chat]] |
+| 2023 Q2 | · | <span class="not-archived">not archived</span> | <time datetime="2023-06-06">2023-06-06</time> [[Changes/Cursor/2023-06-06-codebase-context-v1-bd6ee5\|Codebase Context v1]] |
+
+First in archive: each product's earliest tracked change in this theme. "·" marks a quarter without a key moment, and "not archived" a quarter before the product's archive begins. Archives begin: ChatGPT 2022-12-15 · Claude Code 2025-12-19 · Cursor 2023-03-14.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="scope" -->
