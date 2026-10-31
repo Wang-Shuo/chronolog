@@ -1,10 +1,10 @@
 ---
 created: '2025-06-04'
-date: '2026-10-30'
+date: '2026-10-31'
 description: Cross-product timeline of Enterprise and Administration changes in ChatGPT,
   Claude Code and Cursor.
-machine_hash: a2aa428d7285f8bbfa2c0f7ee284700f231842bd96aec5005862e97efac1085a
-modified: '2026-10-30'
+machine_hash: 8d9e686cfcf6b570953ee5d5eebedb9d04196fbef021c035c7c3f8c029b82ae1
+modified: '2026-10-31'
 products_involved:
 - ChatGPT
 - Claude Code
@@ -21,7 +21,7 @@ title: Enterprise and Administration
 <!-- chronolog:begin region="header" -->
 # Enterprise and Administration
 
-59 tracked changes across ChatGPT, Claude Code and Cursor · 2025-06-04 → 2026-10-30 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
+60 tracked changes across ChatGPT, Claude Code and Cursor · 2025-06-04 → 2026-10-31 · Claude Code averages 7.0 cards per release, Cursor 4.0, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -49,10 +49,11 @@ Auto-selected; edit `key_moments` in editorial.yaml to curate.
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-### 2026 · 50 entries (ChatGPT 13 · Claude Code 27 · Cursor 10)
+### 2026 · 51 entries (ChatGPT 13 · Claude Code 28 · Cursor 10)
 
 #### 2026-10
 
+- 2026-10-31 · **Claude Code** · [[Changes/Claude Code/2026-10-31-2-enterprise-and-administration-changes-in-v2-1-316|2 Enterprise and Administration changes in v2.1.316]] · Digest
 - 2026-10-30 · **Claude Code** · [[Changes/Claude Code/2026-10-30-3-enterprise-and-administration-changes-in-v2-1-314|3 Enterprise and Administration changes in v2.1.314]] · Digest
 - 2026-10-23 · **Claude Code** · [[Changes/Claude Code/2026-10-23-cloud-sessions-added-claude-code-cloud-sessions-and-remote-control-permissions-t|Cloud sessions Added Claude Code cloud sessions and Remote Control permissions…]]
 - 2026-10-20 · **Claude Code** · [[Changes/Claude Code/2026-10-20-claude-tag-added-public-slack-channels-claude-hasn-t-joined-to-the-claude-tag-ad|Claude Tag Added public Slack channels Claude hasn't joined to the Claude Tag…]]

@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c16e771e6f27247fbdec1ae06d4d41d586d53b6741f2369485fced794ea66540
+machine_hash: 594e634db4e05f97b32bb6c2830cf384c7069593a52ea85c20f4a797eb627d51
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -82,6 +82,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-10-20 · Cursor · [[Changes/Cursor/2026-10-20-channels|Channels]]
+- Later: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-2-automation-and-scheduling-changes-in-v2-1-316|2 Automation and Scheduling changes in v2.1.316]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

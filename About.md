@@ -1,10 +1,10 @@
 ---
 created: '2022-12-15'
-date: '2026-10-30'
+date: '2026-10-31'
 description: Where ChronoLog's data comes from, how official release notes become
   reviewed Change Cards, what is grouped or skipped, and how to report a problem.
-machine_hash: b080e67a90c6e1a49dc5801db73e3217721607b37d910ee1e73490b49f524ac2
-modified: '2026-10-30'
+machine_hash: 8f72856a85318e651039819298cf14ce5afe1fe82bf460dd398345d5788919c4
+modified: '2026-10-31'
 publication: active
 tags:
 - about
@@ -21,20 +21,20 @@ ChronoLog tracks announced changes in three products: ChatGPT, Claude Code and C
 <!-- chronolog:begin region="sources" -->
 ### ChatGPT
 - Official source: [ChatGPT release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-- Archived releases: 303, dated 2022-12-15 → 2026-10-28
-- Official browser snapshot captured: 2026-10-30T12:40:58.527Z. Imported snapshot; this is not a successful automatic HTTP fetch.
+- Archived releases: 304, dated 2022-12-15 → 2026-10-30
+- Official browser snapshot captured: 2026-10-31T04:08:55Z. Imported snapshot; this is not a successful automatic HTTP fetch.
 - Known gaps: Official changelog entries only; Codex-only entries excluded. Rollout dates are not universal availability dates.
 
 ### Claude Code
 - Official source: [Claude Code GitHub releases](https://github.com/anthropics/claude-code/releases)
-- Archived releases: 256, dated 2025-12-19 → 2026-10-30
-- Last successful fetch: 2026-10-30T12:41:57Z.
+- Archived releases: 257, dated 2025-12-19 → 2026-10-31
+- Last successful fetch: 2026-10-31T04:08:35Z.
 - Known gaps: GitHub Releases starts at v2.0.73 on 2025-12-19. Official CHANGELOG.md contains 0.2.x–2.0.72 history without publication dates; not imported.
 
 ### Cursor
 - Official source: [Cursor changelog](https://cursor.com/changelog)
 - Archived releases: 257, dated 2023-03-14 → 2026-10-20
-- Last successful fetch: 2026-10-30T12:42:45Z.
+- Last successful fetch: 2026-10-31T04:08:46Z.
 - Known gaps: Official paginated changelog only; unannounced changes are outside scope.
 <!-- chronolog:end -->
 
@@ -55,7 +55,7 @@ ChronoLog tracks announced changes in three products: ChatGPT, Claude Code and C
 
 ## Review status
 <!-- chronolog:begin region="status" -->
-3 products · 816 archived releases · 2,741 tracked changes · 25 themes. Pending theme review: 63. Silence alerts: 0. Every generated batch is reviewed in a pull request before it is published.
+3 products · 818 archived releases · 2,751 tracked changes · 25 themes. Pending theme review: 63. Silence alerts: 0. Every generated batch is reviewed in a pull request before it is published.
 <!-- chronolog:end -->
 
 ## Glossary

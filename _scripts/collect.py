@@ -398,12 +398,26 @@ class ArticleBlockParser(HTMLParser):
         self.in_article = False
         self.active: dict[str, Any] | None = None
         self.blocks: list[dict[str, str]] = []
+        self.ignored_depth = 0
+
+    # DOM void elements do not have an end tag and must not extend a skipped subtree.
+    VOID_TAGS = {'area', 'base', 'br', 'col', 'embed', 'hr', 'img', 'input',
+                 'link', 'meta', 'param', 'source', 'track', 'wbr'}
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         if tag == "article" and not self.in_article:
             self.in_article = True
             return
         if not self.in_article:
+            return
+        if self.ignored_depth:
+            if tag not in self.VOID_TAGS:
+                self.ignored_depth += 1
+            return
+        # The Help Center injects this support widget inside <article>, after the
+        # release body. Its h2 otherwise becomes a release on the final date.
+        if 'ai-voice-help-contact' in (dict(attrs).get('class') or '').split():
+            self.ignored_depth = 1
             return
         if self.active is not None:
             return
@@ -413,6 +427,10 @@ class ArticleBlockParser(HTMLParser):
 
     def handle_endtag(self, tag: str) -> None:
         if not self.in_article:
+            return
+        if self.ignored_depth:
+            if tag not in self.VOID_TAGS:
+                self.ignored_depth -= 1
             return
         if self.active is not None and tag == self.active["tag"]:
             text = normalize_space("".join(self.active["parts"]))
@@ -429,7 +447,7 @@ class ArticleBlockParser(HTMLParser):
             self.in_article = False
 
     def handle_data(self, data: str) -> None:
-        if self.active is not None:
+        if self.active is not None and not self.ignored_depth:
             self.active["parts"].append(data)
 
 

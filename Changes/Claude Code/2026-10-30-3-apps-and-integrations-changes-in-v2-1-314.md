@@ -18,7 +18,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eb2f5c78a86039f123fc9bd475ba9416d260d3dbba1cc3207b0cf76cb040243c
+machine_hash: b3e40328927654a0425e1938b4a269eeb9cc655bef0ce2d3f77825df41e643b2
 product: claude-code
 product_name: Claude Code
 record:
@@ -99,6 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.314
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-2-apps-and-integrations-changes-in-v2-1-312|2 Apps and Integrations changes in v2.1.312]]
+- Later: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-7-apps-and-integrations-changes-in-v2-1-316|7 Apps and Integrations changes in v2.1.316]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

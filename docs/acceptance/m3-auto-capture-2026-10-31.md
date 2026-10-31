@@ -27,6 +27,8 @@
 
 ## GitHub 验证与验收边界
 
+后续正式运行的内容核对发现，305 条解析结果中有一条来自官网内嵌的支持联系组件，并非真实发布。自动采集和故障隔离的执行结果仍有效；发布计数与内容正确性按[支持组件修复验收](m3-support-widget-fix-2026-10-31.md)更正为 304 条 ChatGPT 发布。该伪记录未发布到主站。
+
 Ubuntu 24.04 下的 [Chromium 预演 41160139361](https://github.com/Wang-Shuo/chronolog/actions/runs/41160139361) 成功安装浏览器，但官方页面仍返回 403。三源报告明确为 degraded；保留 ChatGPT 的同时，其他来源通过全部门禁且 publish 被跳过。因此正式配置与本机成功环境对齐为普通 Google Chrome，最终运行结果见 PR 的验证链接。
 
 [只读真实预演 41159532798](https://github.com/Wang-Shuo/chronolog/actions/runs/41159532798) 使用实现提交 `d1bfd139`。该次运行完整工程门禁通过、发布任务跳过，但 `ubuntu-latest` 已升级到 Playwright 不支持的 Ubuntu 26.04，浏览器安装失败。故障隔离保留了 ChatGPT 并继续处理其他来源。最终配置固定 Ubuntu 24.04，避免系统版本漂移；后续预演见 PR 中的运行链接。查看其中 `generation-41159532798-1` artifact 的 `quality.json`、`browser/browser-capture.json` 和原文 bundle，可分别判断工程门禁与来源采集状态；不能只凭 workflow 绿色就宣称三个来源均健康。

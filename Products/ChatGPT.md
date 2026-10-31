@@ -1,22 +1,22 @@
 ---
 coverage:
-  acquired_at: '2026-10-30T12:40:58.527Z'
+  acquired_at: '2026-10-31T04:08:55Z'
   acquisition: browser-snapshot
   coverage: available-endpoint
   earliest: '2022-12-15'
   known_gaps: Official changelog entries only; Codex-only entries excluded. Rollout
     dates are not universal availability dates.
-  latest: '2026-10-28'
-  release_count: 303
-  snapshot_captured_at: '2026-10-30T12:40:58.527Z'
-  snapshot_sha256: b0c232648085670c5c2e40452ecbbc9fd13d811f0f4f78a71cc2cf22aeb4de1a
+  latest: '2026-10-30'
+  release_count: 304
+  snapshot_captured_at: '2026-10-31T04:08:55Z'
+  snapshot_sha256: 88daaa65ffd76032df107c9404230ff1d32063228e4bdbea14aef13c53620ede
   url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 created: '2022-12-15'
-date: '2026-10-28'
+date: '2026-10-30'
 description: OpenAI's conversational AI assistant, tracked through the official ChatGPT
   release notes in the OpenAI Help Center.
-machine_hash: f9332f216089b8fc09c500949cb615d60812d6c602b42910d7fc34711ba1e359
-modified: '2026-10-28'
+machine_hash: ece519713ede2701ae4c15cbe85a5f8e9b43291e2bcf2b5ddc57ae9f0797c818
+modified: '2026-10-30'
 product: chatgpt
 product_name: ChatGPT
 publication: active
@@ -55,12 +55,12 @@ verbosity_baseline: 1.72
 <!-- chronolog:begin region="header" -->
 # ChatGPT
 
-OpenAI's conversational AI assistant, tracked through the official ChatGPT release notes in the OpenAI Help Center. · 303 releases · 2022-12-15 → 2026-10-28 · [[About|coverage details]]
+OpenAI's conversational AI assistant, tracked through the official ChatGPT release notes in the OpenAI Help Center. · 304 releases · 2022-12-15 → 2026-10-30 · [[About|coverage details]]
 <!-- chronolog:end -->
 
 ## Release cadence
 <!-- chronolog:begin region="cadence" -->
-Last release 2026-10-28 (2 days before the archive date) · 75 releases in the last 90 days · cadence: normal
+Last release 2026-10-30 (1 day before the archive date) · 76 releases in the last 90 days · cadence: normal
 
 Monthly releases, last 12 months (baseline 6.2 per month):
 
@@ -75,7 +75,7 @@ Monthly releases, last 12 months (baseline 6.2 per month):
 - 2026-07 ▇▇▇▇▇▇▇▇▇▇▇ 18
 - 2026-08 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 26
 - 2026-09 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 33
-- 2026-10 ▇▇▇▇▇▇▇▇▇▇ 16
+- 2026-10 ▇▇▇▇▇▇▇▇▇▇ 17
 <!-- chronolog:end -->
 
 ## Eras
@@ -136,7 +136,7 @@ Representative releases:
 <!-- chronolog:begin region="themes" -->
 - [[Themes/model-support|Model Support]] · 82 cards · ████████████
 - [[Themes/mobile-desktop|Mobile and Desktop]] · 71 cards · ██████████
-- [[Themes/memory|Memory and Personalization]] · 42 cards · ██████
+- [[Themes/memory|Memory and Personalization]] · 43 cards · ██████
 - [[Themes/voice|Voice and Audio]] · 42 cards · ██████
 - [[Themes/apps-integrations|Apps and Integrations]] · 40 cards · ██████
 - [[Themes/interface-experience|Interface Experience]] · 24 cards · ████
@@ -147,6 +147,7 @@ Representative releases:
 
 ## Recent releases
 <!-- chronolog:begin region="recent" -->
+- 2026-10-30 · [[Releases/ChatGPT/chatgpt-2026-10-30-account-switching-on-ios-and-android-911d7929|Account switching on iOS and Android]] · 1 card
 - 2026-10-28 · [[Releases/ChatGPT/chatgpt-2026-10-28-texting-your-dot-7b46a795|Texting your dot]] · 1 card
 - 2026-10-28 · [[Releases/ChatGPT/chatgpt-2026-10-28-api-credits-for-eligible-chatgpt-pro-and-business-plans-a2290f64|API credits for eligible ChatGPT Pro and Business plans]] · 1 card
 - 2026-10-27 · [[Releases/ChatGPT/chatgpt-2026-10-27-icloud-mail-and-calendar-plugins-in-chatgpt-216bf9bc|iCloud Mail and Calendar plugins in ChatGPT]] · 2 cards
@@ -156,18 +157,18 @@ Representative releases:
 - 2026-10-16 · [[Releases/ChatGPT/chatgpt-2026-10-16-updates-to-gpt-6-pro-model-in-chatgpt-6a44f64a|Updates to GPT-6 Pro model in ChatGPT]] · 4 cards
 - 2026-10-16 · [[Releases/ChatGPT/chatgpt-2026-10-16-create-and-collaborate-on-slides-in-chatgpt-0e009a16|Create and collaborate on slides in ChatGPT]] · 4 cards
 - 2026-10-15 · [[Releases/ChatGPT/chatgpt-2026-10-15-site-limits-plus-and-pro-cd34b3a8|Site limits (Plus and Pro)]] · 0 cards
-- 2026-10-15 · [[Releases/ChatGPT/chatgpt-2026-10-15-gpt-live-1-1-and-new-voices-in-chatgpt-3e3f7f0c|GPT-Live-1.1 and new voices in ChatGPT]] · 2 cards
 <!-- chronolog:end -->
 
 ## Coverage
 <!-- chronolog:begin region="coverage" -->
-303 releases · 2022-12-15 → 2026-10-28 · [official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · Official changelog entries only; Codex-only entries excluded. Rollout dates are not universal availability dates.
+304 releases · 2022-12-15 → 2026-10-30 · [official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · Official changelog entries only; Codex-only entries excluded. Rollout dates are not universal availability dates.
 
 Acquisition details, how cards are made and known gaps: [[About]].
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="releases" -->
-> [!info]- Release archive (303 releases)
+> [!info]- Release archive (304 releases)
+> - 2026-10-30: [[Releases/ChatGPT/chatgpt-2026-10-30-account-switching-on-ios-and-android-911d7929|Account switching on iOS and Android]]
 > - 2026-10-28: [[Releases/ChatGPT/chatgpt-2026-10-28-texting-your-dot-7b46a795|Texting your dot]]
 > - 2026-10-28: [[Releases/ChatGPT/chatgpt-2026-10-28-api-credits-for-eligible-chatgpt-pro-and-business-plans-a2290f64|API credits for eligible ChatGPT Pro and Business plans]]
 > - 2026-10-27: [[Releases/ChatGPT/chatgpt-2026-10-27-icloud-mail-and-calendar-plugins-in-chatgpt-216bf9bc|iCloud Mail and Calendar plugins in ChatGPT]]
@@ -474,9 +475,10 @@ Acquisition details, how cards are made and known gaps: [[About]].
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="changes" -->
-> [!info]- All tracked changes (507 cards)
-> **2026** · 270 cards
+> [!info]- All tracked changes (508 cards)
+> **2026** · 271 cards
 >
+> - 2026-10-30 · Memory and Personalization: [[Changes/ChatGPT/2026-10-30-account-switching-is-rolling-out-to-the-chatgpt-ios-and-android-apps-you-can-sta|Account switching on iOS and Android]]
 > - 2026-10-28 · Safety and Privacy: [[Changes/ChatGPT/2026-10-28-texting-your-dot-is-starting-to-roll-out-in-beta-to-pro-users-in-the-u-s|Texting your dot]]
 > - 2026-10-28 · Pricing Model: [[Changes/ChatGPT/2026-10-28-eligible-chatgpt-pro-and-business-subscribers-can-activate-promotional-api-credi|API credits for eligible ChatGPT Pro and Business plans]]
 > - 2026-10-27 · Mobile and Desktop: [[Changes/ChatGPT/2026-10-27-you-can-learn-more-about-how-chatgpt-uses-connected-apps-here-available-to-all-c|You can learn more about how ChatGPT uses connected apps here]]
