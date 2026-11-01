@@ -2,6 +2,7 @@
 coverage:
   acquired_at: '2026-10-31T04:08:55Z'
   acquisition: browser-snapshot
+  collection_status: delayed
   coverage: available-endpoint
   earliest: '2022-12-15'
   known_gaps: Official changelog entries only; Codex-only entries excluded. Rollout
@@ -15,7 +16,7 @@ created: '2022-12-15'
 date: '2026-10-30'
 description: OpenAI's conversational AI assistant, tracked through the official ChatGPT
   release notes in the OpenAI Help Center.
-machine_hash: 5e97bdfd3fec690819b18b46c69ea25ab8b61aedd7a1dc0f3d973f9c879ab0aa
+machine_hash: e603b11132157fa9617e4b5ca1d58b82b806c318afaf1b5b09c405218175f751
 modified: '2026-10-30'
 product: chatgpt
 product_name: ChatGPT
@@ -60,7 +61,7 @@ OpenAI's conversational AI assistant, tracked through the official ChatGPT relea
 
 ## Release cadence
 <!-- chronolog:begin region="cadence" -->
-Last release 2026-10-30 (1 day before the archive date) · 76 releases in the last 90 days · cadence: normal
+Last release 2026-10-30 (1 day before the archive date) · 76 releases in the last 90 days · cadence: collection delayed
 
 Monthly releases, last 12 months (baseline 6.2 per month):
 
@@ -161,7 +162,7 @@ Representative releases:
 
 ## Coverage
 <!-- chronolog:begin region="coverage" -->
-304 releases · 2022-12-15 → 2026-10-30 · [official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · Official changelog entries only; Codex-only entries excluded. Rollout dates are not universal availability dates.
+304 releases · 2022-12-15 → 2026-10-30 · [official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · Collection delayed; previously archived content retained · Official changelog entries only; Codex-only entries excluded. Rollout dates are not universal availability dates.
 
 Acquisition details, how cards are made and known gaps: [[About]].
 <!-- chronolog:end -->

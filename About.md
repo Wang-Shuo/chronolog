@@ -3,7 +3,7 @@ created: '2022-12-15'
 date: '2026-10-31'
 description: Where ChronoLog's data comes from, how official release notes become
   reviewed Change Cards, what is grouped or skipped, and how to report a problem.
-machine_hash: 66b499cdf81569b8c5df4fb231318993821f991c92e668b8a62a0f19a37bb6c5
+machine_hash: 9af4406e94e9a899cc57dff0203f16c671d047ebb1102e48863ccc78f704139f
 modified: '2026-10-31'
 publication: active
 tags:
@@ -23,18 +23,19 @@ ChronoLog tracks announced changes in three products: ChatGPT, Claude Code and C
 - Official source: [ChatGPT release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 - Archived releases: 304, dated 2022-12-15 → 2026-10-30
 - Official browser snapshot captured: 2026-10-31T04:08:55Z. Imported snapshot; this is not a successful automatic HTTP fetch.
+- Collection delayed. Previously archived content is retained; newer releases may be missing.
 - Known gaps: Official changelog entries only; Codex-only entries excluded. Rollout dates are not universal availability dates.
 
 ### Claude Code
 - Official source: [Claude Code GitHub releases](https://github.com/anthropics/claude-code/releases)
 - Archived releases: 257, dated 2025-12-19 → 2026-10-31
-- Last successful fetch: 2026-10-31T04:08:35Z.
+- Last successful fetch: 2026-11-01T07:32:22Z.
 - Known gaps: GitHub Releases starts at v2.0.73 on 2025-12-19. Official CHANGELOG.md contains 0.2.x–2.0.72 history without publication dates; not imported.
 
 ### Cursor
 - Official source: [Cursor changelog](https://cursor.com/changelog)
 - Archived releases: 257, dated 2023-03-14 → 2026-10-20
-- Last successful fetch: 2026-10-31T04:08:46Z.
+- Last successful fetch: 2026-11-01T07:32:35Z.
 - Known gaps: Official paginated changelog only; unannounced changes are outside scope.
 <!-- chronolog:end -->
 
