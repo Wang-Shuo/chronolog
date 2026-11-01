@@ -1,7 +1,7 @@
 ---
 created: '2022-12-15'
 date: '2026-10-31'
-machine_hash: a61a5864b855556326b3559141c49ef8fb3fda24ead4152c07f19d5f5137ed03
+machine_hash: 87b10220337ea8f9b622ec83bb4ee0ae12b4063f79a8b4b24a6e10ff318d3465
 modified: '2026-10-31'
 publication: active
 tags:
@@ -57,7 +57,7 @@ All months: [[Archive/index|Archive]]
 
 ## Products
 <!-- chronolog:begin region="products" -->
-- [[Products/ChatGPT|ChatGPT]] · 304 releases · 2022-12-15 → 2026-10-30 · 76 releases in the last 90 days · cadence: normal
+- [[Products/ChatGPT|ChatGPT]] · 304 releases · 2022-12-15 → 2026-10-30 · 76 releases in the last 90 days · cadence: collection delayed
 - [[Products/Claude Code|Claude Code]] · 257 releases · 2025-12-19 → 2026-10-31 · 80 releases in the last 90 days · cadence: normal
 - [[Products/Cursor|Cursor]] · 257 releases · 2023-03-14 → 2026-10-20 · 12 releases in the last 90 days · cadence: normal
 <!-- chronolog:end -->
@@ -83,7 +83,7 @@ All months: [[Archive/index|Archive]]
 
 ## About the data
 <!-- chronolog:begin region="coverage" -->
-- ChatGPT · 304 releases · 2022-12-15 → 2026-10-30 · [official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · Official changelog entries only; Codex-only entries excluded. Rollout dates are not universal availability dates.
+- ChatGPT · 304 releases · 2022-12-15 → 2026-10-30 · [official source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · Collection delayed; previously archived content retained · Official changelog entries only; Codex-only entries excluded. Rollout dates are not universal availability dates.
 - Claude Code · 257 releases · 2025-12-19 → 2026-10-31 · [official source](https://github.com/anthropics/claude-code/releases) · GitHub Releases starts at v2.0.73 on 2025-12-19. Official CHANGELOG.md contains 0.2.x–2.0.72 history without publication dates; not imported.
 - Cursor · 257 releases · 2023-03-14 → 2026-10-20 · [official source](https://cursor.com/changelog) · Official paginated changelog only; unannounced changes are outside scope.
 

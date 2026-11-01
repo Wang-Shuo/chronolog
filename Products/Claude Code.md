@@ -1,12 +1,12 @@
 ---
 coverage:
-  acquired_at: '2026-10-31T04:08:35Z'
+  acquired_at: '2026-11-01T07:32:22Z'
   acquisition: http
   coverage: available-endpoint
   earliest: '2025-12-19'
   known_gaps: GitHub Releases starts at v2.0.73 on 2025-12-19. Official CHANGELOG.md
     contains 0.2.x–2.0.72 history without publication dates; not imported.
-  last_successful_fetch: '2026-10-31T04:08:35Z'
+  last_successful_fetch: '2026-11-01T07:32:22Z'
   latest: '2026-10-31'
   release_count: 257
   url: https://api.github.com/repos/anthropics/claude-code/releases
@@ -14,7 +14,7 @@ created: '2025-12-19'
 date: '2026-10-31'
 description: Anthropic's coding agent for the terminal and IDEs, tracked through its
   official GitHub releases from v2.0.73 (2025-12-19).
-machine_hash: 996535c3df4c93350cd47d4ac5daceeca37f1747c60375415efb34574e9eaf19
+machine_hash: 7bc130cb78458055755c4064e7d5f29160f14ea281becff0afce1c8433194e8e
 modified: '2026-10-31'
 product: claude-code
 product_name: Claude Code
