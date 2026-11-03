@@ -155,7 +155,69 @@ article .not-archived {
     background: linear-gradient(to left, var(--lightgray) 1px, var(--light) 1px);
   }
 }
+/* Inside a timeline year, the fold of fixes, digests and other changes reads one step
+   below the year itself. */
+article details.disclosure details.disclosure > summary {
+  font-weight: 400;
+  color: var(--darkgray);
+}
+/* Its entries indent to the summary text, so where the fold ends stays visible. */
+article details.disclosure details.disclosure > :not(summary) {
+  margin-left: 1.35rem;
+}
+/* Timeline filter: native radio buttons, so the keyboard and screen readers get a
+   standard radio group; the chosen product is set in Heading Ink at 600. */
+article fieldset.timeline-filter {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25rem 1.25rem;
+  margin: 1rem 0;
+  padding: 0;
+  border: 0;
+}
+article fieldset.timeline-filter legend {
+  float: left;
+  padding: 0;
+  margin-right: 0.25rem;
+  color: var(--gray);
+}
+article fieldset.timeline-filter label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  min-height: 2rem;
+  cursor: pointer;
+  color: var(--darkgray);
+}
+article fieldset.timeline-filter label:has(input:checked) {
+  color: var(--dark);
+  font-weight: 600;
+}
+article fieldset.timeline-filter input {
+  margin: 0;
+  accent-color: var(--dark);
+}
+${timelineFilterRules(8)}
 `
+
+/** With the n-th product chosen, hide every timeline entry, month, year and fold that
+ * holds none of its entries. writer.py marks each entry's product as ``tl-p<n>`` and
+ * numbers the radio buttons alike (``TIMELINE_FILTER_PRODUCTS`` is the same 8). */
+function timelineFilterRules(products: number): string {
+  return Array.from({ length: products }, (_, index) => {
+    const only = `article:has(#tl-only-${index + 1}:checked) .timeline`
+    const mine = `.tl-p${index + 1}`
+    return [
+      `${only} li:not(:has(${mine})),`,
+      `${only} ul:not(:has(${mine})),`,
+      `${only} p:has(+ ul):not(:has(+ ul ${mine})),`,
+      `${only} details:not(:has(${mine})) {`,
+      `  display: none;`,
+      `}`,
+    ].join("\n")
+  }).join("\n")
+}
 
 // Same title markup and classes as Quartz's PageTitle, plus a one-line tagline.
 export default (() => {

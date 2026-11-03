@@ -475,8 +475,6 @@ SCOPE_NOTE = (
     "Scope: tracked-products-only. Entries show same-theme chronology; "
     "they do not establish equivalent capabilities, adoption, or causation."
 )
-# Kinds labelled in theme timelines; expansion, fix and plain changes are not.
-TIMELINE_KINDS = ("launch", "pricing", "policy", "digest")
 KEY_MOMENTS_PER_PRODUCT = 12
 KEY_MOMENTS_TOTAL = 30
 AUTO_MOMENTS_CAPTION = "Selected automatically from launches and standalone announcements."
@@ -687,39 +685,98 @@ def key_moments_legend(product_names: list[str], archive_start: dict[str, str] |
             f"the product's archive begins.{begins}")
 
 
-def theme_timeline(cards: list[dict[str, Any]], card_targets: dict[str, str] | None) -> str:
-    """Every card of a theme, newest first: one callout per year titled with its counts,
-    months as bold labels inside. Years fold unless the theme has at most
-    ``TIMELINE_OPEN_MAX`` entries; the key moments above summarise a long timeline."""
+TIMELINE_SIGNAL_KINDS = ("launch", "expansion", "pricing", "policy")
+# A year with at most this many entries shows open even on a long timeline.
+TIMELINE_YEAR_OPEN_MAX = 5
+TIMELINE_LEAD = ("Launches, expansions, pricing and policy changes and standalone announcements "
+                 "come first in each year; fixes, digests and other changes are folded beneath them.")
+TIMELINE_FILTER_PRODUCTS = 8  # site_title.tsx styles filters for up to this many products
+
+
+def timeline_signal(card: dict[str, Any]) -> bool:
+    """Listed first in its year: a key-moment candidate (``moment_tier``) or a card whose
+    kind is launch, expansion, pricing or policy. Fixes, digests and other changes fold."""
+    kind = str(card.get("kind") or "change")
+    return kind in TIMELINE_SIGNAL_KINDS or moment_tier(card) is not None
+
+
+def timeline_months(
+    cards: list[dict[str, Any]], card_targets: dict[str, str] | None, product_index: dict[str, int]
+) -> list[str]:
+    """Month labels, newest first, each over its entries; every entry names its kind and
+    marks its product (``tl-p<n>``) for the timeline filter."""
+    lines: list[str] = []
+    for month in sorted({card["date"][:7] for card in cards}, reverse=True):
+        month_cards = sorted(
+            (card for card in cards if card["date"].startswith(month)),
+            key=lambda card: (card["product_name"], card["card_id"]),
+        )
+        month_cards.sort(key=lambda card: card["date"], reverse=True)
+        lines.extend([f"**{month}**", ""])
+        for card in month_cards:
+            name = card["product_name"]
+            product = f"**{name}**"
+            if name in product_index:
+                product = f'<span class="tl-product tl-p{product_index[name]}">{product}</span>'
+            kind = KIND_LABELS.get(str(card.get("kind") or "change"), "Change")
+            lines.append(f"- {card['date']} · {product} · {card_link(card, card_targets)} · {kind}")
+        lines.append("")
+    return lines
+
+
+def product_breakdown(cards: list[dict[str, Any]]) -> str:
+    counts = Counter(card["product_name"] for card in cards)
+    return " · ".join(f"{name} {counts[name]:,}" for name in sorted(counts))
+
+
+def timeline_filter(product_names: list[str]) -> str:
+    """Native radio buttons, one per product; ``site_title.tsx`` hides the other products'
+    entries, months and years with ``:has()``, so filtering needs no script."""
+    options = ['<label><input type="radio" name="timeline-product" id="tl-only-all" checked> All</label>']
+    options += [
+        f'<label><input type="radio" name="timeline-product" id="tl-only-{index}"> '
+        f"{escape_html(name, quote=False)}</label>"
+        for index, name in enumerate(product_names, start=1)
+    ]
+    return "\n".join(['<fieldset class="timeline-filter">', "<legend>Show</legend>", *options, "</fieldset>"])
+
+
+def theme_timeline(
+    cards: list[dict[str, Any]],
+    card_targets: dict[str, str] | None,
+    product_names: list[str] | None = None,
+) -> str:
+    """Every card of a theme, newest first, in one disclosure per year titled with its
+    counts. Inside a year, signal entries (``timeline_signal``) are listed by month and the
+    rest fold beneath them in a second disclosure (critique 2026-10-31, P1). Years open
+    when the theme has at most ``TIMELINE_OPEN_MAX`` entries or the year at most
+    ``TIMELINE_YEAR_OPEN_MAX``. With several products a filter leads the timeline."""
     if not cards:
         return "No changes yet."
+    names = product_names or sorted({card["product_name"] for card in cards})
+    filtered = 1 < len(names) <= TIMELINE_FILTER_PRODUCTS
+    product_index = {name: index for index, name in enumerate(names, start=1)} if filtered else {}
     blocks: list[str] = []
     for year in sorted({card["date"][:4] for card in cards}, reverse=True):
         year_cards = [card for card in cards if card["date"].startswith(year)]
-        counts = Counter(card["product_name"] for card in year_cards)
-        breakdown = " · ".join(f"{name} {counts[name]:,}" for name in sorted(counts))
-        lines: list[str] = []
-        for month in sorted({card["date"][:7] for card in year_cards}, reverse=True):
-            month_cards = sorted(
-                (card for card in year_cards if card["date"].startswith(month)),
-                key=lambda card: (card["product_name"], card["card_id"]),
-            )
-            month_cards.sort(key=lambda card: card["date"], reverse=True)
-            lines.extend([f"**{month}**", ""])
-            for card in month_cards:
-                kind = str(card.get("kind") or "change")
-                label = f" · {KIND_LABELS[kind]}" if kind in TIMELINE_KINDS else ""
-                lines.append(
-                    f"- {card['date']} · **{card['product_name']}** · "
-                    f"{card_link(card, card_targets)}{label}"
-                )
-            lines.append("")
+        signal = [card for card in year_cards if timeline_signal(card)]
+        routine = [card for card in year_cards if not timeline_signal(card)]
+        if signal and routine:
+            lines = timeline_months(signal, card_targets, product_index)
+            lines.append(callout(
+                f"Fixes, digests and other changes · {len(routine):,} ({product_breakdown(routine)})",
+                "\n".join(timeline_months(routine, card_targets, product_index)),
+            ))
+        else:
+            lines = timeline_months(year_cards, card_targets, product_index)
         blocks.append(callout(
-            f"{year} · {entries(len(year_cards))} ({breakdown})",
+            f"{year} · {entries(len(year_cards))} ({product_breakdown(year_cards)})",
             "\n".join(lines),
-            folded=len(cards) > TIMELINE_OPEN_MAX,
+            folded=len(cards) > TIMELINE_OPEN_MAX and len(year_cards) > TIMELINE_YEAR_OPEN_MAX,
         ))
-    return "\n\n".join(blocks)
+    lead = [TIMELINE_LEAD] if any(not timeline_signal(card) for card in cards) else []
+    parts = lead + ([timeline_filter(names)] if filtered else []) + blocks
+    return '<div class="timeline">\n\n' + "\n\n".join(parts) + "\n\n</div>"
 
 
 def render_theme_markdown(
@@ -771,7 +828,7 @@ def render_theme_markdown(
         "narrative": editorial or "Explore the dated evidence below.",
         "moments": moments_text,
         "scope": scope_callout(),
-        "timeline": theme_timeline(ordered, card_targets),
+        "timeline": theme_timeline(ordered, card_targets, products_involved),
     }
     lead = editorial_lead(editorial)
     if not lead:
