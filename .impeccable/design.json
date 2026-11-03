@@ -1,0 +1,369 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-31T15:13:30+00:00",
+  "title": "Design System: ChronoLog",
+  "extensions": {
+    "colorMeta": {
+      "archive-ochre": {
+        "role": "primary",
+        "displayName": "Archive Ochre",
+        "canonical": "oklch(51.3% 0.102 72.8)",
+        "tonalRamp": [
+          "#170600",
+          "#331b00",
+          "#523300",
+          "#7d5414",
+          "#a37739",
+          "#c49d6b",
+          "#e5c59c",
+          "#ffeaca"
+        ]
+      },
+      "archive-ochre-lamp": {
+        "role": "primary",
+        "displayName": "Archive Ochre, Lamp-Lit (dark mode)",
+        "canonical": "oklch(72.5% 0.132 77.0)",
+        "tonalRamp": [
+          "#190500",
+          "#361a00",
+          "#563100",
+          "#835200",
+          "#a97509",
+          "#c99c56",
+          "#e9c48d",
+          "#ffeabe"
+        ]
+      },
+      "ochre-wash": {
+        "role": "primary",
+        "displayName": "Ochre Wash"
+      },
+      "ochre-wash-lamp": {
+        "role": "primary",
+        "displayName": "Ochre Wash, Lamp-Lit (dark mode)"
+      },
+      "patina-teal": {
+        "role": "secondary",
+        "displayName": "Patina Teal",
+        "canonical": "oklch(50.6% 0.053 188.8)",
+        "tonalRamp": [
+          "#000f0d",
+          "#0c2725",
+          "#20413f",
+          "#3c6763",
+          "#5d8a86",
+          "#87adaa",
+          "#b3d2cf",
+          "#dcf5f2"
+        ]
+      },
+      "patina-teal-lamp": {
+        "role": "secondary",
+        "displayName": "Patina Teal, Lamp-Lit (dark mode)",
+        "canonical": "oklch(69.9% 0.058 187.2)",
+        "tonalRamp": [
+          "#000f0d",
+          "#092724",
+          "#1d423e",
+          "#386763",
+          "#5a8b86",
+          "#85aea9",
+          "#b1d3ce",
+          "#daf5f2"
+        ]
+      },
+      "reading-room-paper": {
+        "role": "neutral",
+        "displayName": "Reading-Room Paper",
+        "canonical": "oklch(97.6% 0.007 97.4)",
+        "tonalRamp": [
+          "#0b0b0a",
+          "#22221f",
+          "#3b3b38",
+          "#5e5e5a",
+          "#81807c",
+          "#a5a5a1",
+          "#cbcac7",
+          "#efeeec"
+        ]
+      },
+      "paper-rule": {
+        "role": "neutral",
+        "displayName": "Paper Rule",
+        "canonical": "oklch(89.1% 0.013 91.5)",
+        "tonalRamp": [
+          "#0c0b08",
+          "#23221d",
+          "#3c3a35",
+          "#605d56",
+          "#838078",
+          "#a7a49e",
+          "#cccac5",
+          "#f0eeea"
+        ]
+      },
+      "graphite": {
+        "role": "neutral",
+        "displayName": "Graphite",
+        "canonical": "oklch(52.4% 0.011 93.7)",
+        "tonalRamp": [
+          "#0c0b09",
+          "#23221e",
+          "#3c3a36",
+          "#5f5e57",
+          "#828079",
+          "#a6a59f",
+          "#cccac5",
+          "#efeeea"
+        ]
+      },
+      "night-graphite": {
+        "role": "neutral",
+        "displayName": "Night Graphite (dark mode)"
+      },
+      "carbon-ink": {
+        "role": "neutral",
+        "displayName": "Carbon Ink",
+        "canonical": "oklch(32.1% 0.007 95.3)",
+        "tonalRamp": [
+          "#0c0b0a",
+          "#22221f",
+          "#3b3a37",
+          "#5f5e5a",
+          "#81807c",
+          "#a5a5a1",
+          "#cbcac7",
+          "#efeeec"
+        ]
+      },
+      "heading-ink": {
+        "role": "neutral",
+        "displayName": "Heading Ink",
+        "canonical": "oklch(20.3% 0.006 106.9)",
+        "tonalRamp": [
+          "#0b0b0a",
+          "#222220",
+          "#3b3b38",
+          "#5e5e5a",
+          "#80807d",
+          "#a5a5a2",
+          "#cbcbc8",
+          "#eeeeec"
+        ]
+      },
+      "marginal-note": {
+        "role": "neutral",
+        "displayName": "Marginal Note",
+        "canonical": "oklch(95.5% 0.067 93.6)",
+        "tonalRamp": [
+          "#100b00",
+          "#282107",
+          "#433a1a",
+          "#695d33",
+          "#8d8054",
+          "#afa47f",
+          "#d4cbac",
+          "#f6efd6"
+        ]
+      },
+      "marginal-note-lamp": {
+        "role": "neutral",
+        "displayName": "Marginal Note, Lamp-Lit (dark mode)"
+      },
+      "product-chatgpt": {
+        "role": "reserved",
+        "displayName": "ChatGPT Teal (reserved)"
+      },
+      "product-claude-code": {
+        "role": "reserved",
+        "displayName": "Claude Code Amber (reserved)"
+      },
+      "product-cursor": {
+        "role": "reserved",
+        "displayName": "Cursor Slate (reserved)"
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "The page's own H1: theme, product or card title."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Page sections such as Latest changes, Research summary, Key moments, Timeline."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Sub-groups within a section, such as a product under Latest changes."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Cited paragraphs, dated lists and table cells."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Site tagline and quiet metadata, in Graphite."
+      },
+      "wordmark": {
+        "displayName": "Wordmark",
+        "purpose": "\"ChronoLog\" in Archive Ochre at the top of the left rail; the home link."
+      },
+      "mono": {
+        "displayName": "Mono",
+        "purpose": "Code, flags and environment variables quoted from changelogs."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "link-color",
+        "value": "color 0.2s ease",
+        "purpose": "The only motion: link color shifts from Archive Ochre to Patina Teal on hover."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "mobile",
+        "value": "800px",
+        "purpose": "Below this, a single column; rails collapse."
+      },
+      {
+        "name": "desktop",
+        "value": "1200px",
+        "purpose": "At and above this, the three-column grid with both rails."
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Internal Link",
+      "kind": "custom",
+      "refersTo": "link-internal",
+      "description": "A filed reference to another vault page: ochre text on an ochre wash; teal on hover.",
+      "html": "<p class=\"ds-body\">2026-10-26 · Model Support: <a class=\"ds-link-internal\" href=\"#\">GPT-6.1 Terra</a></p>",
+      "css": ".ds-body { font-family: Inter, system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 1rem; line-height: 1.6; color: var(--darkgray, #34332f); margin: 0; } .ds-link-internal { color: var(--secondary, #8a5c12); font-weight: 600; text-decoration: none; background-color: var(--highlight, rgba(155, 106, 25, 0.15)); padding: 0 0.1rem; border-radius: 5px; transition: color 0.2s ease; } .ds-link-internal:hover { color: var(--tertiary, #3f6f6b); } .ds-link-internal:focus-visible { outline: 2px solid var(--tertiary, #3f6f6b); outline-offset: 2px; }"
+    },
+    {
+      "name": "External Source Link",
+      "kind": "custom",
+      "refersTo": "link-external",
+      "description": "A link to the official source: bare ochre text with an outbound glyph.",
+      "html": "<p class=\"ds-body\">Cursor's <a class=\"ds-link-external\" href=\"#\">2025-05-15 release<svg aria-hidden=\"true\" width=\"10\" height=\"10\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" style=\"margin-left:2px;vertical-align:baseline\"><path d=\"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6\"/><path d=\"M15 3h6v6\"/><path d=\"M10 14 21 3\"/></svg></a> introduces Background Agent.</p>",
+      "css": ".ds-body { font-family: Inter, system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 1rem; line-height: 1.6; color: var(--darkgray, #34332f); margin: 0; } .ds-link-external { color: var(--secondary, #8a5c12); font-weight: 600; text-decoration: none; transition: color 0.2s ease; } .ds-link-external:hover { color: var(--tertiary, #3f6f6b); } .ds-link-external:focus-visible { outline: 2px solid var(--tertiary, #3f6f6b); outline-offset: 2px; border-radius: 2px; }"
+    },
+    {
+      "name": "Tag Pill",
+      "kind": "chip",
+      "refersTo": "tag-pill",
+      "description": "Taxonomy tag above the page title, as an internal-link pill with a leading #.",
+      "html": "<span class=\"ds-tags\"><a class=\"ds-tag\" href=\"#\">theme</a><a class=\"ds-tag\" href=\"#\">moc</a></span>",
+      "css": ".ds-tags { display: inline-flex; gap: 0.5rem; font-family: Inter, system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; } .ds-tag { color: var(--secondary, #8a5c12); font-weight: 600; text-decoration: none; background-color: var(--highlight, rgba(155, 106, 25, 0.15)); padding: 0 0.4rem; border-radius: 5px; transition: color 0.2s ease; } .ds-tag::before { content: '#'; } .ds-tag:hover { color: var(--tertiary, #3f6f6b); } .ds-tag:focus-visible { outline: 2px solid var(--tertiary, #3f6f6b); outline-offset: 2px; }"
+    },
+    {
+      "name": "Search Field",
+      "kind": "input",
+      "refersTo": "search-field",
+      "description": "The left-rail search trigger: paper field, hairline border, magnifier and placeholder.",
+      "html": "<button class=\"ds-search\" type=\"button\"><svg aria-hidden=\"true\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"><circle cx=\"11\" cy=\"11\" r=\"7\"/><path d=\"m20 20-3.5-3.5\"/></svg><span>Search</span></button>",
+      "css": ".ds-search { display: flex; align-items: center; gap: 0.5rem; width: 224px; height: 2rem; padding: 0 0.5rem; font-family: Inter, system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 1rem; color: var(--darkgray, #34332f); background: var(--light, #f8f7f2); border: 1px solid var(--lightgray, #dedbd2); border-radius: 4px; cursor: pointer; text-align: left; transition: border-color 0.2s ease; } .ds-search span { opacity: 0.8; } .ds-search:hover { border-color: var(--gray, #6c6a63); } .ds-search:focus-visible { outline: 2px solid var(--tertiary, #3f6f6b); outline-offset: 2px; }"
+    },
+    {
+      "name": "Evidence Quote",
+      "kind": "custom",
+      "refersTo": "evidence-quote",
+      "description": "The official source text on a Change Card, ruled in ochre and ending with its source link.",
+      "html": "<blockquote class=\"ds-quote\"><p>The Agent SDK is generally available today. Read the docs and get started.</p><p>Source: <a href=\"#\">https://cursor.com/changelog/agent-sdk</a></p></blockquote>",
+      "css": ".ds-quote { margin: 1rem 0; padding-left: 1rem; border-left: 3px solid var(--secondary, #8a5c12); font-family: Inter, system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 1rem; line-height: 1.6; color: var(--darkgray, #34332f); } .ds-quote p { margin: 0 0 1rem; } .ds-quote p:last-child { margin: 0; } .ds-quote a { color: var(--secondary, #8a5c12); font-weight: 600; text-decoration: none; transition: color 0.2s ease; } .ds-quote a:hover { color: var(--tertiary, #3f6f6b); }"
+    },
+    {
+      "name": "Key Moments Table",
+      "kind": "custom",
+      "refersTo": "table-cell",
+      "description": "Quarters × products, newest first; dated ochre links per cell, a middle dot when empty.",
+      "html": "<table class=\"ds-moments\"><thead><tr><th>Quarter</th><th>ChatGPT</th><th>Claude Code</th><th>Cursor</th></tr></thead><tbody><tr><td>2026 Q2</td><td class=\"ds-empty\">·</td><td>2026-06-10 <a href=\"#\">Sub-agents can now spawn their own sub-agents</a></td><td class=\"ds-empty\">·</td></tr><tr><td>2026 Q1</td><td class=\"ds-empty\">·</td><td class=\"ds-empty\">·</td><td>2026-01-22 <a href=\"#\">Subagents</a></td></tr></tbody></table>",
+      "css": ".ds-moments { border-collapse: collapse; font-family: Inter, system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 1rem; color: var(--darkgray, #34332f); } .ds-moments th { text-align: left; font-weight: 700; padding: 0.4rem 0.7rem; border-bottom: 2px solid var(--gray, #6c6a63); color: var(--dark, #171714); } .ds-moments td { padding: 0.2rem 0.7rem; line-height: 2rem; border-bottom: 1px solid var(--lightgray, #dedbd2); vertical-align: middle; } .ds-moments tr:last-child td { border-bottom: none; } .ds-moments .ds-empty { text-align: center; } .ds-moments a { color: var(--secondary, #8a5c12); font-weight: 600; text-decoration: none; background: var(--highlight, rgba(155, 106, 25, 0.15)); padding: 0 0.1rem; border-radius: 5px; transition: color 0.2s ease; } .ds-moments a:hover { color: var(--tertiary, #3f6f6b); }"
+    },
+    {
+      "name": "Cadence Bars",
+      "kind": "custom",
+      "description": "Monthly release cadence drawn with block characters in running text.",
+      "html": "<ul class=\"ds-cadence\"><li>2026-03 <span>█████████████████</span> 17</li><li>2026-04 <span>██████████</span> 10</li><li>2026-05 <span>██████████</span> 10</li><li>2026-06 <span>████████████████</span> 16</li></ul>",
+      "css": ".ds-cadence { font-family: Inter, system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 1rem; line-height: 1.6; color: var(--darkgray, #34332f); padding-left: 1.4rem; margin: 0; } .ds-cadence span { letter-spacing: -0.05em; color: var(--darkgray, #34332f); }"
+    },
+    {
+      "name": "Site Title",
+      "kind": "nav",
+      "refersTo": "wordmark",
+      "description": "Ochre wordmark (home link) over the Graphite one-line tagline, top of the left rail.",
+      "html": "<div class=\"ds-site-title\"><a class=\"ds-wordmark\" href=\"#\">ChronoLog</a><p class=\"ds-tagline\">Tracked changes in ChatGPT, Claude Code and Cursor</p></div>",
+      "css": ".ds-site-title { display: flex; flex-direction: column; gap: 0.25rem; max-width: 256px; font-family: Inter, system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; } .ds-wordmark { font-size: 1.75rem; font-weight: 700; color: var(--secondary, #8a5c12); text-decoration: none; transition: color 0.2s ease; } .ds-wordmark:hover { color: var(--tertiary, #3f6f6b); } .ds-wordmark:focus-visible { outline: 2px solid var(--tertiary, #3f6f6b); outline-offset: 2px; } .ds-tagline { margin: 0; font-size: 0.85rem; line-height: 1.35; color: var(--gray, #6c6a63); }"
+    },
+    {
+      "name": "Disclosure",
+      "kind": "custom",
+      "description": "Native <details> fold for timeline years and product archives: ruled list, Heading Ink summary, ochre CSS chevron.",
+      "html": "<div class=\"ds-folds\"><details class=\"ds-disclosure\" open><summary>2026 · 218 entries (ChatGPT 3 · Claude Code 126 · Cursor 89)</summary><p class=\"ds-month\">2026-10</p><ul><li>2026-10-20 · <strong>Cursor</strong> · <a href=\"#\">Agent SDK</a> · Launch</li></ul></details><details class=\"ds-disclosure\"><summary>2025 · 52 entries (ChatGPT 2 · Cursor 50)</summary><p>…</p></details></div>",
+      "css": ".ds-folds { font-family: Inter, system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: var(--darkgray, #34332f); max-width: 640px; } .ds-disclosure { border-top: 1px solid var(--lightgray, #dedbd2); } .ds-disclosure:last-child { border-bottom: 1px solid var(--lightgray, #dedbd2); } .ds-disclosure > summary { display: flex; align-items: center; gap: 0.75rem; padding: 0.65rem 0; list-style: none; cursor: pointer; font-weight: 600; color: var(--dark, #171714); } .ds-disclosure > summary::-webkit-details-marker { display: none; } .ds-disclosure > summary::before { content: ''; flex: none; width: 0.45rem; height: 0.45rem; margin-left: 0.15rem; border-right: 2px solid var(--secondary, #8a5c12); border-bottom: 2px solid var(--secondary, #8a5c12); transform: rotate(-45deg); transition: transform 0.2s ease, border-color 0.2s ease; } .ds-disclosure[open] > summary::before { transform: translateY(-0.15rem) rotate(45deg); } .ds-disclosure > summary:hover::before { border-color: var(--tertiary, #3f6f6b); } .ds-disclosure > summary:focus-visible { outline: 2px solid var(--tertiary, #3f6f6b); outline-offset: 2px; border-radius: 2px; } .ds-month { font-weight: 600; color: var(--dark, #171714); margin: 0.25rem 0; } .ds-disclosure ul { margin: 0 0 1rem; line-height: 1.6; } .ds-disclosure a { color: var(--secondary, #8a5c12); font-weight: 600; text-decoration: none; background: rgba(155,106,25,0.15); padding: 0 0.1rem; border-radius: 5px; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Reading-Room Archive",
+    "overview": "ChronoLog looks like a working archive in a quiet reading room: warm paper, near-black ink, and a single ochre tone that marks every citable thing. Nothing on the page competes with the record. The reader walks the stacks (Products, Themes, Archive in the left rail), pulls a file (a theme, a product, a card), and finds every claim stamped with a date and a path back to its official source. The calm is deliberate: the reader is weighing evidence, and the interface should feel like a catalogue, not a feed.\n\nThe system is Quartz's three-column reading layout, re-inked. Structure comes from typography and hairline rules, not from boxes or shadows. Density is that of a research document: plain lists of dated entries joined by middle dots, compact tables, and long cited paragraphs at a comfortable 1.6 line height. Color is scarce and functional. Ochre means \"this goes somewhere\", teal means \"you are pointing at it\", and everything else is ink on paper. Dark mode is the same room after hours: carbon paper, lamp-lit ochre, nothing new added.\n\nData visualization stays typographic. Cadence is drawn with block characters (█) in running text, timelines are tables of quarters × products, and empty cells hold a quiet middle dot. This keeps the archive readable in Obsidian, in RSS and on the web alike.",
+    "keyCharacteristics": [
+      "Warm off-white paper and warm near-black ink; one ochre accent, one teal hover.",
+      "Flat surfaces; hierarchy from type size, weight and hairline rules only.",
+      "Every citable reference is ochre: internal links sit on a soft ochre wash, external links are bare ochre text with an outbound glyph.",
+      "ISO dates (`YYYY-MM-DD`) and middle-dot (·) separators are a visual signature as much as a writing rule.",
+      "Charts are made of type: block-character bars, quarter-by-product tables."
+    ],
+    "rules": [
+      {
+        "name": "The Ochre-Means-Citable Rule",
+        "body": "Archive Ochre is spent only on things a reader can follow: links, tags, breadcrumbs, the source rule of an evidence quote, the wordmark. Never use it for decoration, emphasis or status.",
+        "section": "colors"
+      },
+      {
+        "name": "The Teal-Under-the-Pointer Rule",
+        "body": "Patina Teal appears only as a response to the reader (hover, keyboard focus, selection). A surface that shows teal at rest is wrong.",
+        "section": "colors"
+      },
+      {
+        "name": "The One-Room Rule",
+        "body": "Every color in use comes from this palette. Stock Quartz colors do not ship: the cyan `info` callout that once framed the theme timeline year groups was replaced with palette disclosures (2026-10-31), and any new Quartz component is re-inked before it appears.",
+        "section": "colors"
+      },
+      {
+        "name": "The Weight-Not-Color Rule",
+        "body": "Hierarchy is set by size and weight in ink colors. Headings never take the accent; the accent is reserved for links.",
+        "section": "typography"
+      },
+      {
+        "name": "The ISO-Date Rule",
+        "body": "Dates in content render as `YYYY-MM-DD` in the body face, set in running text at body size, never as badges.",
+        "section": "typography"
+      },
+      {
+        "name": "The Flat-Paper Rule",
+        "body": "Surfaces do not lift. If something needs separating, use a hairline rule or a change of tone, never a shadow or a card container.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "**Do** keep Archive Ochre for followable things only (links, tags, breadcrumbs, source rules, wordmark); see The Ochre-Means-Citable Rule.",
+      "**Do** separate content with Paper Rule hairlines and tone, keeping every surface flat.",
+      "**Do** draw data with type: block-character bars, quarter × product tables, middle-dot placeholders for empty cells.",
+      "**Do** set dates as `YYYY-MM-DD` and join metadata with middle dots (`2026-10-30 · Memory and Personalization: …`).",
+      "**Do** verify that every new color pairing meets WCAG AA in both modes; the incumbent text colors measure 5.0–11.8:1 in light mode and 6.4–13:1 in dark mode.",
+      "**Do** keep every page free of horizontal scroll at 390px, breaking long identifiers anywhere.",
+      "**Do** put site-wide CSS in a component under `_scripts/` (currently `site_title.tsx`), never in `quartz/`, which is overwritten on install."
+    ],
+    "donts": [
+      "**Don't** introduce colors from outside the palette, including stock Quartz component colors such as the cyan callout.",
+      "**Don't** use shadows, raised cards or boxed containers for content blocks.",
+      "**Don't** color headings with the accent or use color alone to rank importance.",
+      "**Don't** show Patina Teal at rest; it belongs to hover and selection.",
+      "**Don't** use the reserved product colors decoratively; their first real use defines their rules.",
+      "**Don't** add a second typeface for display; Inter carries every role except quoted code."
+    ]
+  }
+}

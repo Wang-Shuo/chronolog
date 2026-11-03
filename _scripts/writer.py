@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+from html import escape as escape_html
 import math
 import re
 import sys
@@ -485,7 +486,7 @@ TIMELINE_OPEN_MAX = 12
 
 def scope_callout() -> str:
     """The collapsed reading note shared by timeline pages (U6)."""
-    return f"> [!info]- How to read this timeline\n> {SCOPE_NOTE}"
+    return callout("How to read this timeline", SCOPE_NOTE)
 
 
 def table_link(card: dict[str, Any], card_targets: dict[str, str] | None = None) -> str:
@@ -982,11 +983,16 @@ def theme_bar(count: int, peak: int) -> str:
 
 
 def callout(title: str, content: str, *, folded: bool = True) -> str:
-    """An Obsidian/Quartz callout, collapsed unless ``folded`` is false (then open but
-    collapsible): every line prefixed with ``> ``, blank lines as a bare ``>``."""
-    lines = [f"> [!info]{'-' if folded else '+'} {title}"]
-    lines.extend(f"> {line}" if line.strip() else ">" for line in content.rstrip().split("\n"))
-    return "\n".join(lines)
+    """A native ``<details>`` disclosure, collapsed unless ``folded`` is false (then open
+    but collapsible). Quartz's own callouts open with a click handler on a ``div``: a
+    keyboard cannot reach them and their hidden links stay in the tab order (critique
+    2026-10-31, P0). Blank lines around the content keep it Markdown, so lists and
+    wikilinks inside still render; ``disclosure`` is styled in ``site_title.tsx``."""
+    opened = "" if folded else " open"
+    return (
+        f'<details class="disclosure"{opened}>\n<summary>{escape_html(title, quote=False)}</summary>\n\n'
+        f"{content.rstrip()}\n\n</details>"
+    )
 
 
 def counted_cards(count: int) -> str:

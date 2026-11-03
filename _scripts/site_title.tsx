@@ -48,6 +48,64 @@ article :is(p, ul, ol, li, a, td, th),
 .sidebar :is(p, ul, ol, li, a) {
   overflow-wrap: anywhere;
 }
+/* Keyboard focus in the palette: Patina Teal answers the reader, like hover does
+   (DESIGN.md, Teal-Under-the-Pointer). 5.3:1 on paper, 6.9:1 on carbon. */
+:focus-visible {
+  outline: 2px solid var(--tertiary);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+/* Disclosures: timeline years, the product release archive and change list. writer.py
+   emits native <details>, so they open from the keyboard and folded links leave the tab
+   order. Consecutive disclosures read as one ruled list: Paper Rule hairlines, a Heading
+   Ink summary line and an Archive Ochre chevron (DESIGN.md, One-Room Rule). */
+article details.disclosure {
+  margin: 1rem 0;
+  border-top: 1px solid var(--lightgray);
+}
+article details.disclosure + details.disclosure {
+  margin-top: -1rem;
+}
+article details.disclosure:not(:has(+ details.disclosure)) {
+  border-bottom: 1px solid var(--lightgray);
+}
+article details.disclosure > summary {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.65rem 0;
+  list-style: none;
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--dark);
+}
+article details.disclosure > summary::-webkit-details-marker {
+  display: none;
+}
+article details.disclosure > summary::before {
+  content: "";
+  flex: none;
+  width: 0.45rem;
+  height: 0.45rem;
+  margin-left: 0.15rem;
+  border-right: 2px solid var(--secondary);
+  border-bottom: 2px solid var(--secondary);
+  transform: rotate(-45deg);
+}
+article details.disclosure[open] > summary::before {
+  transform: translateY(-0.15rem) rotate(45deg);
+}
+article details.disclosure > summary:hover::before {
+  border-color: var(--tertiary);
+}
+article details.disclosure > :last-child {
+  margin-bottom: 1rem;
+}
+@media (prefers-reduced-motion: no-preference) {
+  article details.disclosure > summary::before {
+    transition: transform 0.2s ease, border-color 0.2s ease;
+  }
+}
 `
 
 // Same title markup and classes as Quartz's PageTitle, plus a one-line tagline.
