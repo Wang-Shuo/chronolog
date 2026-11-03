@@ -3,7 +3,7 @@ created: '2025-07-29'
 date: '2026-04-01'
 description: Cross-product timeline of Learning Tools changes in ChatGPT and Claude
   Code.
-machine_hash: 2b0c6dccf6142c0247ea2d29ea06d8c9fdc6f51d4bd86f65e90868717e862198
+machine_hash: 9565296c27f9f6b46fefb1337e581f02ccfac308c810ab7c407e7ee15799dd64
 modified: '2026-04-01'
 products_involved:
 - ChatGPT
@@ -51,16 +51,32 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
+<div class="timeline">
+
+Launches, expansions, pricing and policy changes and standalone announcements come first in each year; fixes, digests and other changes are folded beneath them.
+
+<fieldset class="timeline-filter">
+<legend>Show</legend>
+<label><input type="radio" name="timeline-product" id="tl-only-all" checked> All</label>
+<label><input type="radio" name="timeline-product" id="tl-only-1"> ChatGPT</label>
+<label><input type="radio" name="timeline-product" id="tl-only-2"> Claude Code</label>
+</fieldset>
+
 <details class="disclosure" open>
 <summary>2026 · 2 entries (ChatGPT 1 · Claude Code 1)</summary>
 
 **2026-04**
 
-- 2026-04-01 · **Claude Code** · [[Changes/Claude Code/2026-04-01-added-powerup-interactive-lessons-teaching-claude-code-features-with-animated-de|Added /powerup — interactive lessons teaching Claude Code features with animated demos]]
+- 2026-04-01 · <span class="tl-product tl-p2">**Claude Code**</span> · [[Changes/Claude Code/2026-04-01-added-powerup-interactive-lessons-teaching-claude-code-features-with-animated-de|Added /powerup — interactive lessons teaching Claude Code features with animated demos]] · Change
+
+<details class="disclosure">
+<summary>Fixes, digests and other changes · 1 (ChatGPT 1)</summary>
 
 **2026-03**
 
-- 2026-03-10 · **ChatGPT** · [[Changes/ChatGPT/2026-03-10-when-you-ask-chatgpt-about-certain-topics-it-can-now-present-an-interactive-visu|Interactive learning for math and science]]
+- 2026-03-10 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2026-03-10-when-you-ask-chatgpt-about-certain-topics-it-can-now-present-an-interactive-visu|Interactive learning for math and science]] · Change
+
+</details>
 
 </details>
 
@@ -69,7 +85,9 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 **2025-07**
 
-- 2025-07-29 · **ChatGPT** · [[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-4b5d0a|Study mode is currently available to users in Free, Plus, Pro, and Teams plans…]]
+- 2025-07-29 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2025-07-29-study-mode-is-currently-available-to-users-in-free-plus-pro-and-teams-plans-glob-4b5d0a|Study mode is currently available to users in Free, Plus, Pro, and Teams plans…]] · Change
 
 </details>
+
+</div>
 <!-- chronolog:end -->

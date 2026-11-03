@@ -2,7 +2,7 @@
 created: '2024-08-08'
 date: '2026-09-08'
 description: Cross-product timeline of Image Generation changes in ChatGPT and Cursor.
-machine_hash: 678e85edcefab2375f0acb178d5b7f629f56fc0561f34b96419be094332898be
+machine_hash: e1dd6cd9b9ce795d486f9803c7a697579230aad1111159436fea45e323df8e87
 modified: '2026-09-08'
 products_involved:
 - ChatGPT
@@ -51,24 +51,40 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
-<details class="disclosure">
+<div class="timeline">
+
+Launches, expansions, pricing and policy changes and standalone announcements come first in each year; fixes, digests and other changes are folded beneath them.
+
+<fieldset class="timeline-filter">
+<legend>Show</legend>
+<label><input type="radio" name="timeline-product" id="tl-only-all" checked> All</label>
+<label><input type="radio" name="timeline-product" id="tl-only-1"> ChatGPT</label>
+<label><input type="radio" name="timeline-product" id="tl-only-2"> Cursor</label>
+</fieldset>
+
+<details class="disclosure" open>
 <summary>2026 · 4 entries (ChatGPT 3 · Cursor 1)</summary>
-
-**2026-09**
-
-- 2026-09-08 · **ChatGPT** · [[Changes/ChatGPT/2026-09-08-chatgpt-images-2-5-brings-sharper-details-more-precise-editing-and-faster-image-66acb5|ChatGPT Images 2.5 brings sharper details, more precise editing, and faster image…]]
 
 **2026-07**
 
-- 2026-07-31 · **ChatGPT** · [[Changes/ChatGPT/2026-07-31-on-august-30-2026-we-re-retiring-the-official-dall-e-gpt-in-chatgpt-we-encourage|Retiring the DALL·E GPT]] · Policy
+- 2026-07-31 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2026-07-31-on-august-30-2026-we-re-retiring-the-official-dall-e-gpt-in-chatgpt-we-encourage|Retiring the DALL·E GPT]] · Policy
 
 **2026-04**
 
-- 2026-04-21 · **ChatGPT** · [[Changes/ChatGPT/2026-04-21-we-re-introducing-chatgpt-images-2-0-our-new-image-generation-model-in-chatgpt-c|ChatGPT Images 2.0 in ChatGPT]] · Launch
+- 2026-04-21 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2026-04-21-we-re-introducing-chatgpt-images-2-0-our-new-image-generation-model-in-chatgpt-c|ChatGPT Images 2.0 in ChatGPT]] · Launch
 
 **2026-01**
 
-- 2026-01-22 · **Cursor** · [[Changes/Cursor/2026-01-22-image-generation|Image generation]] · Launch
+- 2026-01-22 · <span class="tl-product tl-p2">**Cursor**</span> · [[Changes/Cursor/2026-01-22-image-generation|Image generation]] · Launch
+
+<details class="disclosure">
+<summary>Fixes, digests and other changes · 1 (ChatGPT 1)</summary>
+
+**2026-09**
+
+- 2026-09-08 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2026-09-08-chatgpt-images-2-5-brings-sharper-details-more-precise-editing-and-faster-image-66acb5|ChatGPT Images 2.5 brings sharper details, more precise editing, and faster image…]] · Change
+
+</details>
 
 </details>
 
@@ -77,45 +93,47 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 **2025-12**
 
-- 2025-12-16 · **ChatGPT** · [[Changes/ChatGPT/2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c|ChatGPT Images on Web and Mobile (iOS & Android)]]
+- 2025-12-16 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c|ChatGPT Images on Web and Mobile (iOS & Android)]] · Change
 
 **2025-10**
 
-- 2025-10-30 · **ChatGPT** · [[Changes/ChatGPT/2025-10-30-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
-- 2025-10-28 · **ChatGPT** · [[Changes/ChatGPT/2025-10-28-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
-- 2025-10-14 · **ChatGPT** · [[Changes/ChatGPT/2025-10-14-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
-- 2025-10-08 · **ChatGPT** · [[Changes/ChatGPT/2025-10-08-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
+- 2025-10-30 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2025-10-30-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]] · Change
+- 2025-10-28 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2025-10-28-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]] · Change
+- 2025-10-14 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2025-10-14-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]] · Change
+- 2025-10-08 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2025-10-08-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]] · Change
 
 **2025-09**
 
-- 2025-09-29 · **ChatGPT** · [[Changes/ChatGPT/2025-09-29-remove-image-generation-so-chatgpt-won-t-have-the-ability-to-create-or-edit-imag|Remove image generation, so ChatGPT won’t have the ability to create or edit images]]
-- 2025-09-22 · **ChatGPT** · [[Changes/ChatGPT/2025-09-22-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
+- 2025-09-29 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2025-09-29-remove-image-generation-so-chatgpt-won-t-have-the-ability-to-create-or-edit-imag|Remove image generation, so ChatGPT won’t have the ability to create or edit images]] · Change
+- 2025-09-22 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2025-09-22-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]] · Change
 
 **2025-08**
 
-- 2025-08-18 · **ChatGPT** · [[Changes/ChatGPT/2025-08-18-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
-- 2025-08-08 · **ChatGPT** · [[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|Image generation update to ChatGPT Free]]
+- 2025-08-18 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2025-08-18-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]] · Change
+- 2025-08-08 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|Image generation update to ChatGPT Free]] · Change
 
 **2025-04**
 
-- 2025-04-15 · **ChatGPT** · [[Changes/ChatGPT/2025-04-15-all-images-you-create-with-chatgpt-are-now-automatically-saved-to-a-new-library|ChatGPT Image Library]]
+- 2025-04-15 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2025-04-15-all-images-you-create-with-chatgpt-are-now-automatically-saved-to-a-new-library|ChatGPT Image Library]] · Change
 
 **2025-03**
 
-- 2025-03-18 · **ChatGPT** · [[Changes/ChatGPT/2025-03-18-increased-the-default-size-for-in-line-generated-images|Increased the default size for in‐line generated images]]
+- 2025-03-18 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2025-03-18-increased-the-default-size-for-in-line-generated-images|Increased the default size for in‐line generated images]] · Change
 
 </details>
 
-<details class="disclosure">
+<details class="disclosure" open>
 <summary>2024 · 2 entries (ChatGPT 2)</summary>
 
 **2024-11**
 
-- 2024-11-22 · **ChatGPT** · [[Changes/ChatGPT/2024-11-22-dall-e-focused-view-has-an-updated-layout|DALL-E focused view has an updated layout]]
+- 2024-11-22 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2024-11-22-dall-e-focused-view-has-an-updated-layout|DALL-E focused view has an updated layout]] · Change
 
 **2024-08**
 
-- 2024-08-08 · **ChatGPT** · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
+- 2024-08-08 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]] · Change
 
 </details>
+
+</div>
 <!-- chronolog:end -->

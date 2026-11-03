@@ -3,7 +3,7 @@ created: '2023-09-25'
 date: '2026-05-08'
 description: Cross-product timeline of Multimodal Input changes in ChatGPT, Claude
   Code and Cursor.
-machine_hash: 5351dce304036ed1ccf229f61e79bf63020e43db67d947395a645d3b3c0be5a3
+machine_hash: 38d637637c0a665400dde753000072a4e3afc536b69be4e8406846a5ead9ab99
 modified: '2026-05-08'
 products_involved:
 - ChatGPT
@@ -52,12 +52,24 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
+<div class="timeline">
+
+Launches, expansions, pricing and policy changes and standalone announcements come first in each year; fixes, digests and other changes are folded beneath them.
+
+<fieldset class="timeline-filter">
+<legend>Show</legend>
+<label><input type="radio" name="timeline-product" id="tl-only-all" checked> All</label>
+<label><input type="radio" name="timeline-product" id="tl-only-1"> ChatGPT</label>
+<label><input type="radio" name="timeline-product" id="tl-only-2"> Claude Code</label>
+<label><input type="radio" name="timeline-product" id="tl-only-3"> Cursor</label>
+</fieldset>
+
 <details class="disclosure" open>
 <summary>2026 · 1 entry (Claude Code 1)</summary>
 
 **2026-05**
 
-- 2026-05-08 · **Claude Code** · [[Changes/Claude Code/2026-05-08-wsl2-image-paste-from-windows-clipboard-now-works-via-a-powershell-fallback-when|WSL2: image paste from Windows clipboard now works via a PowerShell fallback…]]
+- 2026-05-08 · <span class="tl-product tl-p2">**Claude Code**</span> · [[Changes/Claude Code/2026-05-08-wsl2-image-paste-from-windows-clipboard-now-works-via-a-powershell-fallback-when|WSL2: image paste from Windows clipboard now works via a PowerShell fallback…]] · Change
 
 </details>
 
@@ -66,7 +78,7 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 **2025-12**
 
-- 2025-12-19 · **Claude Code** · [[Changes/Claude Code/2025-12-19-added-clickable-image-n-links-that-open-attached-images-in-the-default-viewer|Added clickable Image ♯N links that open attached images in the default viewer]]
+- 2025-12-19 · <span class="tl-product tl-p2">**Claude Code**</span> · [[Changes/Claude Code/2025-12-19-added-clickable-image-n-links-that-open-attached-images-in-the-default-viewer|Added clickable Image ♯N links that open attached images in the default viewer]] · Change
 
 </details>
 
@@ -75,20 +87,27 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 **2024-12**
 
-- 2024-12-12 · **ChatGPT** · [[Changes/ChatGPT/2024-12-12-use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get|Use the controls at the bottom of the screen, like the camera button below, to get started]]
+- 2024-12-12 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2024-12-12-use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get|Use the controls at the bottom of the screen, like the camera button below, to get started]] · Change
 
 </details>
 
 <details class="disclosure" open>
 <summary>2023 · 2 entries (ChatGPT 1 · Cursor 1)</summary>
 
-**2023-11**
-
-- 2023-11-27 · **Cursor** · [[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image Support in Chat]]
-
 **2023-09**
 
-- 2023-09-25 · **ChatGPT** · [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image input will be generally available to Plus users on all platforms]] · Launch
+- 2023-09-25 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image input will be generally available to Plus users on all platforms]] · Launch
+
+<details class="disclosure">
+<summary>Fixes, digests and other changes · 1 (Cursor 1)</summary>
+
+**2023-11**
+
+- 2023-11-27 · <span class="tl-product tl-p3">**Cursor**</span> · [[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image Support in Chat]] · Change
 
 </details>
+
+</details>
+
+</div>
 <!-- chronolog:end -->
