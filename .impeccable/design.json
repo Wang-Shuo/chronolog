@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-31T15:13:30+00:00",
+  "generatedAt": "2026-10-31T15:51:57+00:00",
   "title": "Design System: ChronoLog",
   "extensions": {
     "colorMeta": {
@@ -279,9 +279,9 @@
       "name": "Key Moments Table",
       "kind": "custom",
       "refersTo": "table-cell",
-      "description": "Quarters × products, newest first; dated ochre links per cell, a middle dot when empty.",
-      "html": "<table class=\"ds-moments\"><thead><tr><th>Quarter</th><th>ChatGPT</th><th>Claude Code</th><th>Cursor</th></tr></thead><tbody><tr><td>2026 Q2</td><td class=\"ds-empty\">·</td><td>2026-06-10 <a href=\"#\">Sub-agents can now spawn their own sub-agents</a></td><td class=\"ds-empty\">·</td></tr><tr><td>2026 Q1</td><td class=\"ds-empty\">·</td><td class=\"ds-empty\">·</td><td>2026-01-22 <a href=\"#\">Subagents</a></td></tr></tbody></table>",
-      "css": ".ds-moments { border-collapse: collapse; font-family: Inter, system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 1rem; color: var(--darkgray, #34332f); } .ds-moments th { text-align: left; font-weight: 700; padding: 0.4rem 0.7rem; border-bottom: 2px solid var(--gray, #6c6a63); color: var(--dark, #171714); } .ds-moments td { padding: 0.2rem 0.7rem; line-height: 2rem; border-bottom: 1px solid var(--lightgray, #dedbd2); vertical-align: middle; } .ds-moments tr:last-child td { border-bottom: none; } .ds-moments .ds-empty { text-align: center; } .ds-moments a { color: var(--secondary, #8a5c12); font-weight: 600; text-decoration: none; background: var(--highlight, rgba(155, 106, 25, 0.15)); padding: 0 0.1rem; border-radius: 5px; transition: color 0.2s ease; } .ds-moments a:hover { color: var(--tertiary, #3f6f6b); }"
+      "description": "Quarters × products, newest first, led by a First in archive row; an empty cell is · (no moment) or not archived (before the archive).",
+      "html": "<table class=\"ds-moments\"><thead><tr><th>Quarter</th><th>Claude Code</th><th>Cursor</th></tr></thead><tbody><tr><td><strong>First in archive</strong></td><td><time>2026-01-09</time> <a href=\"#\">Added agent_type to SessionStart</a></td><td><time>2023-07-06</time> <a href=\"#\">Agents, new docs</a></td></tr><tr><td>2026 Q1</td><td class=\"ds-empty\">·</td><td><time>2026-01-22</time> <a href=\"#\">Subagents</a></td></tr><tr><td>2025 Q4</td><td>archive begins <time>2025-12-19</time></td><td><time>2025-10-29</time> <a href=\"#\">Multi-Agents</a></td></tr><tr><td>2023 Q4 → 2024 Q4</td><td><span class=\"ds-not-archived\">not archived</span></td><td class=\"ds-empty\">·</td></tr></tbody></table>",
+      "css": ".ds-moments { border-collapse: collapse; font-family: Inter, system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 1rem; color: var(--darkgray, #34332f); } .ds-moments th { text-align: left; font-weight: 700; padding: 0.4rem 0.7rem; border-bottom: 2px solid var(--gray, #6c6a63); color: var(--dark, #171714); } .ds-moments td { padding: 0.2rem 0.7rem; line-height: 1.5; vertical-align: top; padding-top: 0.45rem; padding-bottom: 0.45rem; border-bottom: 1px solid var(--lightgray, #dedbd2); vertical-align: middle; } .ds-moments tr:last-child td { border-bottom: none; } .ds-moments time { white-space: nowrap; } .ds-moments td:first-child { white-space: nowrap; } .ds-moments .ds-not-archived { color: var(--gray, #6c6a63); } .ds-moments a { color: var(--secondary, #8a5c12); font-weight: 600; text-decoration: none; background: var(--highlight, rgba(155, 106, 25, 0.15)); padding: 0 0.1rem; border-radius: 5px; transition: color 0.2s ease; } .ds-moments a:hover { color: var(--tertiary, #3f6f6b); }"
     },
     {
       "name": "Cadence Bars",
@@ -308,7 +308,7 @@
   ],
   "narrative": {
     "northStar": "The Reading-Room Archive",
-    "overview": "ChronoLog looks like a working archive in a quiet reading room: warm paper, near-black ink, and a single ochre tone that marks every citable thing. Nothing on the page competes with the record. The reader walks the stacks (Products, Themes, Archive in the left rail), pulls a file (a theme, a product, a card), and finds every claim stamped with a date and a path back to its official source. The calm is deliberate: the reader is weighing evidence, and the interface should feel like a catalogue, not a feed.\n\nThe system is Quartz's three-column reading layout, re-inked. Structure comes from typography and hairline rules, not from boxes or shadows. Density is that of a research document: plain lists of dated entries joined by middle dots, compact tables, and long cited paragraphs at a comfortable 1.6 line height. Color is scarce and functional. Ochre means \"this goes somewhere\", teal means \"you are pointing at it\", and everything else is ink on paper. Dark mode is the same room after hours: carbon paper, lamp-lit ochre, nothing new added.\n\nData visualization stays typographic. Cadence is drawn with block characters (█) in running text, timelines are tables of quarters × products, and empty cells hold a quiet middle dot. This keeps the archive readable in Obsidian, in RSS and on the web alike.",
+    "overview": "ChronoLog looks like a working archive in a quiet reading room: warm paper, near-black ink, and a single ochre tone that marks every citable thing. Nothing on the page competes with the record. The reader walks the stacks (Products, Themes, Archive in the left rail), pulls a file (a theme, a product, a card), and finds every claim stamped with a date and a path back to its official source. The calm is deliberate: the reader is weighing evidence, and the interface should feel like a catalogue, not a feed.\n\nThe system is Quartz's three-column reading layout, re-inked. Structure comes from typography and hairline rules, not from boxes or shadows. Density is that of a research document: plain lists of dated entries joined by middle dots, compact tables, and long cited paragraphs at a comfortable 1.6 line height. Color is scarce and functional. Ochre means \"this goes somewhere\", teal means \"you are pointing at it\", and everything else is ink on paper. Dark mode is the same room after hours: carbon paper, lamp-lit ochre, nothing new added.\n\nData visualization stays typographic. Cadence is drawn with block characters (█) in running text, timelines are tables of quarters × products, and an empty cell says why it is empty: a quiet middle dot, or `not archived`. This keeps the archive readable in Obsidian, in RSS and on the web alike.",
     "keyCharacteristics": [
       "Warm off-white paper and warm near-black ink; one ochre accent, one teal hover.",
       "Flat surfaces; hierarchy from type size, weight and hairline rules only.",
@@ -351,7 +351,7 @@
     "dos": [
       "**Do** keep Archive Ochre for followable things only (links, tags, breadcrumbs, source rules, wordmark); see The Ochre-Means-Citable Rule.",
       "**Do** separate content with Paper Rule hairlines and tone, keeping every surface flat.",
-      "**Do** draw data with type: block-character bars, quarter × product tables, middle-dot placeholders for empty cells.",
+      "**Do** draw data with type: block-character bars, quarter × product tables, and middle-dot placeholders for quarters without a moment, kept distinct from `not archived`.",
       "**Do** set dates as `YYYY-MM-DD` and join metadata with middle dots (`2026-10-30 · Memory and Personalization: …`).",
       "**Do** verify that every new color pairing meets WCAG AA in both modes; the incumbent text colors measure 5.0–11.8:1 in light mode and 6.4–13:1 in dark mode.",
       "**Do** keep every page free of horizontal scroll at 390px, breaking long identifiers anywhere.",

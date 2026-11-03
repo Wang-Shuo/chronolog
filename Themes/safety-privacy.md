@@ -3,7 +3,7 @@ created: '2023-04-16'
 date: '2026-10-30'
 description: 'Research question: which safeguards and privacy controls do the tracked
   products add, and for whom?'
-machine_hash: 8ab8e7c380c229ec7da86df5fd904a707ee0a61588ef64446ff39ec895e0134d
+machine_hash: 4b16854d3e6ce3b6c9912877605329909afdb5b14931f4d2e9b2e5193c5e049a
 modified: '2026-10-30'
 products_involved:
 - ChatGPT
@@ -43,12 +43,16 @@ Selected automatically from launches and standalone announcements.
 
 | Quarter | ChatGPT | Claude Code | Cursor |
 | --- | --- | --- | --- |
-| 2026 Q3 | 2026-09-25 [[Changes/ChatGPT/2026-09-25-we-re-introducing-security-history-a-new-way-to-review-recent-security-activity-6f32cc\|Security history in ChatGPT]] | · | 2026-09-23 [[Changes/Cursor/2026-09-23-today-we-re-launching-two-cursor-bots-for-the-last-mile-of-shipping-code-rollout-af394f\|Cursor launches two Cursor bots for the last mile of shipping code]] |
-| 2026 Q2 | 2026-06-04 [[Changes/ChatGPT/2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-across-account-types-and-w\|Lockdown Mode is now available to all logged-in users]] | 2026-04-16 [[Changes/Claude Code/2026-04-16-added-less-permission-prompts-skill-scans-transcripts-for-common-read-only-bash\|Added /less-permission-prompts skill]] | 2026-06-10 [[Changes/Cursor/2026-06-10-run-bugbot-before-you-push-3e5964\|Run Bugbot before you push]]<br>2026-06-04 [[Changes/Cursor/2026-06-04-custom-tools-056918\|Custom tools]]<br>2026-05-13 [[Changes/Cursor/2026-05-13-environment-governance-and-security-controls\|Environment governance and security controls]]<br>2026-04-30 [[Changes/Cursor/2026-04-30-security-reviewer-checks-every-pr-for-security-vulnerabilities-auth-regressions\|Security Reviewer]] |
-| 2026 Q1 | · | · | 2026-02-17 [[Changes/Cursor/2026-02-17-sandbox-network-access-controls\|Sandbox network access controls]] |
-| 2025 Q4 | · | · | 2025-10-29 [[Changes/Cursor/2025-10-29-sandboxed-terminals-ga\|Sandboxed Terminals (GA)]] |
-| 2025 Q3 | · | · | 2025-09-29 [[Changes/Cursor/2025-09-29-sandboxed-terminals\|Sandboxed terminals]] |
-| 2023 Q3 | 2023-08-28 [[Changes/ChatGPT/2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security-4958cf\|Introducing ChatGPT Enterprise]] | · | · |
+| **First in archive** | <time datetime="2023-08-28">2023-08-28</time> [[Changes/ChatGPT/2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security-4958cf\|Introducing ChatGPT Enterprise]] | <time datetime="2026-01-09">2026-01-09</time> [[Changes/Claude Code/2026-01-09-2-safety-and-privacy-changes-in-v2-1-2\|2 Safety and Privacy changes in v2.1.2]] | <time datetime="2023-04-16">2023-04-16</time> [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers\|Ghost mode for opting out of storing any kind of data on our servers]] |
+| 2026 Q3 | <time datetime="2026-09-25">2026-09-25</time> [[Changes/ChatGPT/2026-09-25-we-re-introducing-security-history-a-new-way-to-review-recent-security-activity-6f32cc\|Security history in ChatGPT]] | · | <time datetime="2026-09-23">2026-09-23</time> [[Changes/Cursor/2026-09-23-today-we-re-launching-two-cursor-bots-for-the-last-mile-of-shipping-code-rollout-af394f\|Cursor launches two Cursor bots for the last mile of shipping code]] |
+| 2026 Q2 | <time datetime="2026-06-04">2026-06-04</time> [[Changes/ChatGPT/2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-across-account-types-and-w\|Lockdown Mode is now available to all logged-in users]] | <time datetime="2026-04-16">2026-04-16</time> [[Changes/Claude Code/2026-04-16-added-less-permission-prompts-skill-scans-transcripts-for-common-read-only-bash\|Added /less-permission-prompts skill]] | <time datetime="2026-06-10">2026-06-10</time> [[Changes/Cursor/2026-06-10-run-bugbot-before-you-push-3e5964\|Run Bugbot before you push]]<br><time datetime="2026-06-04">2026-06-04</time> [[Changes/Cursor/2026-06-04-custom-tools-056918\|Custom tools]]<br><time datetime="2026-05-13">2026-05-13</time> [[Changes/Cursor/2026-05-13-environment-governance-and-security-controls\|Environment governance and security controls]]<br><time datetime="2026-04-30">2026-04-30</time> [[Changes/Cursor/2026-04-30-security-reviewer-checks-every-pr-for-security-vulnerabilities-auth-regressions\|Security Reviewer]] |
+| 2026 Q1 | · | · | <time datetime="2026-02-17">2026-02-17</time> [[Changes/Cursor/2026-02-17-sandbox-network-access-controls\|Sandbox network access controls]] |
+| 2025 Q4 | · | archive begins <time datetime="2025-12-19">2025-12-19</time> | <time datetime="2025-10-29">2025-10-29</time> [[Changes/Cursor/2025-10-29-sandboxed-terminals-ga\|Sandboxed Terminals (GA)]] |
+| 2025 Q3 | · | <span class="not-archived">not archived</span> | <time datetime="2025-09-29">2025-09-29</time> [[Changes/Cursor/2025-09-29-sandboxed-terminals\|Sandboxed terminals]] |
+| 2023 Q4 → 2025 Q2 | · | <span class="not-archived">not archived</span> | · |
+| 2023 Q3 | <time datetime="2023-08-28">2023-08-28</time> [[Changes/ChatGPT/2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security-4958cf\|Introducing ChatGPT Enterprise]] | <span class="not-archived">not archived</span> | · |
+
+First in archive: each product's earliest tracked change in this theme. "·" marks a quarter without a key moment, and "not archived" a quarter before the product's archive begins. Archives begin: ChatGPT 2022-12-15 · Claude Code 2025-12-19 · Cursor 2023-03-14.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="scope" -->

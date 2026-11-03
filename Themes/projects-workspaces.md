@@ -3,7 +3,7 @@ created: '2022-12-15'
 date: '2026-07-16'
 description: Cross-product timeline of Projects and Workspaces changes in ChatGPT,
   Claude Code and Cursor.
-machine_hash: f38d2c3d0eeef856fb96bee379bcd32dbbb9c8357298c86339fa077dad14c2ae
+machine_hash: 41913c9e8fef84218cc8395d9c4eaa223bc7a4e102d41530825a105633a94366
 modified: '2026-07-16'
 products_involved:
 - ChatGPT
@@ -35,9 +35,14 @@ Selected automatically from launches and standalone announcements.
 
 | Quarter | ChatGPT | Claude Code | Cursor |
 | --- | --- | --- | --- |
-| 2026 Q2 | 2026-05-14 [[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn\|Codex remote access from the ChatGPT mobile app]] | 2026-06-24 [[Changes/Claude Code/2026-06-24-added-rewind-support-for-resuming-a-conversation-from-before-clear-was-run\|Added /rewind support for resuming a conversation from before /clear was run]] | · |
-| 2025 Q3 | 2025-09-04 [[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21\|Branch conversations on web]] | · | · |
-| 2024 Q1 | · | · | 2024-02-02 [[Changes/Cursor/2024-02-02-you-can-now-search-through-past-chats\|Search through past chats]] |
+| **First in archive** | <time datetime="2022-12-15">2022-12-15</time> [[Changes/ChatGPT/2022-12-15-conversation-history-you-ll-soon-be-able-to-view-past-conversations-with-chatgpt\|Conversation history: You’ll soon be able to view past conversations with ChatGPT…]] | <time datetime="2025-12-19">2025-12-19</time> [[Changes/Claude Code/2025-12-19-added-support-for-custom-session-ids-when-forking-sessions-with-session-id-combi\|Added support for custom session IDs when forking sessions with --session-id…]] | <time datetime="2023-04-19">2023-04-19</time> [[Changes/Cursor/2023-04-19-new-experimental-feature-generate-entire-projects-from-a-single-prompt\|New experimental feature: Generate entire projects from a single prompt]] |
+| 2026 Q2 | <time datetime="2026-05-14">2026-05-14</time> [[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn\|Codex remote access from the ChatGPT mobile app]] | <time datetime="2026-06-24">2026-06-24</time> [[Changes/Claude Code/2026-06-24-added-rewind-support-for-resuming-a-conversation-from-before-clear-was-run\|Added /rewind support for resuming a conversation from before /clear was run]] | · |
+| 2025 Q4 → 2026 Q1 | · | archive begins <time datetime="2025-12-19">2025-12-19</time> | · |
+| 2025 Q3 | <time datetime="2025-09-04">2025-09-04</time> [[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21\|Branch conversations on web]] | <span class="not-archived">not archived</span> | · |
+| 2024 Q2 → 2025 Q2 | · | <span class="not-archived">not archived</span> | · |
+| 2024 Q1 | · | <span class="not-archived">not archived</span> | <time datetime="2024-02-02">2024-02-02</time> [[Changes/Cursor/2024-02-02-you-can-now-search-through-past-chats\|Search through past chats]] |
+
+First in archive: each product's earliest tracked change in this theme. "·" marks a quarter without a key moment, and "not archived" a quarter before the product's archive begins. Archives begin: ChatGPT 2022-12-15 · Claude Code 2025-12-19 · Cursor 2023-03-14.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="scope" -->

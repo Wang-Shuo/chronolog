@@ -3,7 +3,7 @@ created: '2023-07-20'
 date: '2026-10-30'
 description: 'Research question: what do the tracked products remember between sessions,
   and how do users control it?'
-machine_hash: f2a2d4607edd9948fa3024fa6b5f661f50db9335279d77fe81b1e058d8e164a4
+machine_hash: bff86f01b94ab9a5f9b5ad28828906fdc36af71507929dbf834638dd136530dc
 modified: '2026-10-30'
 products_involved:
 - ChatGPT
@@ -43,13 +43,19 @@ Selected automatically from launches and standalone announcements.
 
 | Quarter | ChatGPT | Claude Code | Cursor |
 | --- | --- | --- | --- |
-| 2026 Q3 | 2026-08-14 [[Changes/ChatGPT/2026-08-14-you-can-now-change-a-project-s-memory-setting-after-you-create-it-open-the-proje-b36ffe\|Edit memory settings for existing projects]] | · | · |
-| 2026 Q2 | 2026-06-12 [[Changes/ChatGPT/2026-06-12-you-can-now-delete-the-memories-shown-on-your-memory-summary-page-and-turn-memor-f16782\|Additional controls for memory summary]] | · | 2026-06-18 [[Changes/Cursor/2026-06-18-you-can-now-delete-memory-files-in-the-ui-or-prompt-your-automation-to-delete-ou\|Delete memory files in the UI, or prompt your automation to delete outdated memories…]] |
-| 2025 Q4 | 2025-10-29 [[Changes/ChatGPT/2025-10-29-chatgpt-pulse-is-now-available-on-web-and-rolling-out-to-atlas-for-pro-users-wit\|ChatGPT Pulse on Web]] | · | · |
-| 2025 Q3 | 2025-09-25 [[Changes/ChatGPT/2025-09-25-we-re-launching-an-early-preview-of-chatgpt-pulse-for-pro-users-on-ios-and-andro-cf8064\|Introducing ChatGPT Pulse for Pro users]]<br>2025-08-22 [[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-87f79a\|An improvement to projects is now available]] | · | 2025-07-03 [[Changes/Cursor/2025-07-03-memories-is-now-ga-since-1-0-we-ve-improved-memory-generation-quality-added-in-e\|Memories (now GA)]] |
-| 2025 Q2 | 2025-06-03 [[Changes/ChatGPT/2025-06-03-opt-in-reminders-e08369\|Opt‑in reminders]] | · | 2025-06-04 [[Changes/Cursor/2025-06-04-memories\|Memories]] |
-| 2024 Q2 | 2024-04-29 [[Changes/ChatGPT/2024-04-29-memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w-4db29a\|Memory is now available to Plus users]] | · | · |
-| 2023 Q3 | 2023-08-21 [[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king-cfc1d5\|Custom instructions are now available to users in the EU & UK]]<br>2023-08-09 [[Changes/ChatGPT/2023-08-09-custom-instructions-are-now-available-to-chatgpt-users-on-the-free-plan-except-f-963d1e\|Custom instructions are now available to free users]] | · | · |
+| **First in archive** | <time datetime="2023-07-20">2023-07-20</time> [[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c\|Custom instructions are rolling out in beta]] | <time datetime="2026-02-05">2026-02-05</time> [[Changes/Claude Code/2026-02-05-claude-now-automatically-records-and-recalls-memories-as-it-works\|Claude now automatically records and recalls memories as it works]] | <time datetime="2025-02-19">2025-02-19</time> [[Changes/Cursor/2025-02-19-0-46-9-memory-and-performances-fixes-composer-chat-remembers-your-last-mode-sele\|0.46.9: Memory and performances fixes, composer/chat remembers your last mode…]] |
+| 2026 Q3 | <time datetime="2026-08-14">2026-08-14</time> [[Changes/ChatGPT/2026-08-14-you-can-now-change-a-project-s-memory-setting-after-you-create-it-open-the-proje-b36ffe\|Edit memory settings for existing projects]] | · | · |
+| 2026 Q2 | <time datetime="2026-06-12">2026-06-12</time> [[Changes/ChatGPT/2026-06-12-you-can-now-delete-the-memories-shown-on-your-memory-summary-page-and-turn-memor-f16782\|Additional controls for memory summary]] | · | <time datetime="2026-06-18">2026-06-18</time> [[Changes/Cursor/2026-06-18-you-can-now-delete-memory-files-in-the-ui-or-prompt-your-automation-to-delete-ou\|Delete memory files in the UI, or prompt your automation to delete outdated memories…]] |
+| 2026 Q1 | · | · | · |
+| 2025 Q4 | <time datetime="2025-10-29">2025-10-29</time> [[Changes/ChatGPT/2025-10-29-chatgpt-pulse-is-now-available-on-web-and-rolling-out-to-atlas-for-pro-users-wit\|ChatGPT Pulse on Web]] | archive begins <time datetime="2025-12-19">2025-12-19</time> | · |
+| 2025 Q3 | <time datetime="2025-09-25">2025-09-25</time> [[Changes/ChatGPT/2025-09-25-we-re-launching-an-early-preview-of-chatgpt-pulse-for-pro-users-on-ios-and-andro-cf8064\|Introducing ChatGPT Pulse for Pro users]]<br><time datetime="2025-08-22">2025-08-22</time> [[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-87f79a\|An improvement to projects is now available]] | <span class="not-archived">not archived</span> | <time datetime="2025-07-03">2025-07-03</time> [[Changes/Cursor/2025-07-03-memories-is-now-ga-since-1-0-we-ve-improved-memory-generation-quality-added-in-e\|Memories (now GA)]] |
+| 2025 Q2 | <time datetime="2025-06-03">2025-06-03</time> [[Changes/ChatGPT/2025-06-03-opt-in-reminders-e08369\|Opt‑in reminders]] | <span class="not-archived">not archived</span> | <time datetime="2025-06-04">2025-06-04</time> [[Changes/Cursor/2025-06-04-memories\|Memories]] |
+| 2024 Q3 → 2025 Q1 | · | <span class="not-archived">not archived</span> | · |
+| 2024 Q2 | <time datetime="2024-04-29">2024-04-29</time> [[Changes/ChatGPT/2024-04-29-memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w-4db29a\|Memory is now available to Plus users]] | <span class="not-archived">not archived</span> | · |
+| 2023 Q4 → 2024 Q1 | · | <span class="not-archived">not archived</span> | · |
+| 2023 Q3 | <time datetime="2023-08-21">2023-08-21</time> [[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king-cfc1d5\|Custom instructions are now available to users in the EU & UK]]<br><time datetime="2023-08-09">2023-08-09</time> [[Changes/ChatGPT/2023-08-09-custom-instructions-are-now-available-to-chatgpt-users-on-the-free-plan-except-f-963d1e\|Custom instructions are now available to free users]] | <span class="not-archived">not archived</span> | · |
+
+First in archive: each product's earliest tracked change in this theme. "·" marks a quarter without a key moment, and "not archived" a quarter before the product's archive begins. Archives begin: ChatGPT 2022-12-15 · Claude Code 2025-12-19 · Cursor 2023-03-14.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="scope" -->

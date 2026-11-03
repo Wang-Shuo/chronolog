@@ -594,30 +594,97 @@ def quarter_label(day: str) -> str:
     return f"{day[:4]} Q{(int(day[5:7]) - 1) // 3 + 1}"
 
 
+def quarter_number(label: str) -> int:
+    """``"2026 Q3"`` as a count of quarters, so neighbours differ by one."""
+    year, quarter = label.split(" Q")
+    return int(year) * 4 + int(quarter) - 1
+
+
+def quarter_name(number: int) -> str:
+    return f"{number // 4} Q{number % 4 + 1}"
+
+
+def dated(day: str) -> str:
+    """An ISO date as ``<time>``; the site keeps it on one line (``site_title.tsx``)."""
+    return f'<time datetime="{day}">{day}</time>'
+
+
+NOT_ARCHIVED = '<span class="not-archived">not archived</span>'
+FIRST_IN_ARCHIVE = "First in archive"
+
+
+def coverage_cell(first: int, last: int, start: str | None) -> str:
+    """A cell without a key moment for quarters ``first``..``last``: ``·`` inside the
+    product's archive, ``not archived`` wholly before it, and the archive's first date
+    in the quarter range where it begins, so an empty cell never reads as "later"."""
+    if not start:
+        return "·"
+    begins = quarter_number(quarter_label(start))
+    if last < begins:
+        return NOT_ARCHIVED
+    if first <= begins:
+        return f"archive begins {dated(start)}"
+    return "·"
+
+
 def key_moments_table(
     moments: list[dict[str, Any]],
     product_names: list[str],
     card_targets: dict[str, str] | None,
+    *,
+    firsts: dict[str, dict[str, Any]] | None = None,
+    archive_start: dict[str, str] | None = None,
 ) -> str:
-    """One row per quarter with a key moment, newest first; one column per product."""
-    rows: dict[str, dict[str, list[dict[str, Any]]]] = defaultdict(lambda: defaultdict(list))
+    """One row per quarter with a key moment, newest first; one column per product.
+
+    ``firsts`` (each product's earliest card in the theme) leads as a "First in archive"
+    row. Quarters skipped between two rows appear as one range row, and cells without a
+    moment state the product's coverage (``coverage_cell``) from ``archive_start``,
+    the first archived release date per product (critique 2026-10-31, P1)."""
+    starts = archive_start or {}
+    rows: dict[int, dict[str, list[dict[str, Any]]]] = defaultdict(lambda: defaultdict(list))
     for card in moments:
-        rows[quarter_label(card["date"])][card["product_name"]].append(card)
+        rows[quarter_number(quarter_label(card["date"]))][card["product_name"]].append(card)
     lines = [
         "| Quarter | " + " | ".join(product_names) + " |",
         "| --- |" + " --- |" * len(product_names),
     ]
-    for quarter in sorted(rows, reverse=True):
+    if firsts:
+        cells = [
+            f"{dated(firsts[name]['date'])} {table_link(firsts[name], card_targets)}"
+            if name in firsts else "·"
+            for name in product_names
+        ]
+        lines.append(f"| **{FIRST_IN_ARCHIVE}** | " + " | ".join(cells) + " |")
+    quarters = sorted(rows, reverse=True)
+    for index, quarter in enumerate(quarters):
         cells = []
         for name in product_names:
             items = sorted(rows[quarter][name], key=lambda card: (card["date"], card["card_id"]),
                            reverse=True)
             cells.append(
-                "<br>".join(f"{card['date']} {table_link(card, card_targets)}" for card in items)
-                or "·"
+                "<br>".join(f"{dated(card['date'])} {table_link(card, card_targets)}" for card in items)
+                or coverage_cell(quarter, quarter, starts.get(name))
             )
-        lines.append(f"| {quarter} | " + " | ".join(cells) + " |")
+        lines.append(f"| {quarter_name(quarter)} | " + " | ".join(cells) + " |")
+        older = quarters[index + 1] if index + 1 < len(quarters) else None
+        if older is not None and quarter - older > 1:
+            first, last = older + 1, quarter - 1
+            label = quarter_name(first) if first == last else f"{quarter_name(first)} → {quarter_name(last)}"
+            gap = [coverage_cell(first, last, starts.get(name)) for name in product_names]
+            lines.append(f"| {label} | " + " | ".join(gap) + " |")
     return "\n".join(lines)
+
+
+def key_moments_legend(product_names: list[str], archive_start: dict[str, str] | None) -> str:
+    """One line under the table: what the first row and an empty cell mean, and where
+    each product's archive begins."""
+    starts = [f"{name} {archive_start[name]}" for name in product_names
+              if (archive_start or {}).get(name)]
+    begins = f" Archives begin: {' · '.join(starts)}." if starts else ""
+    return (f"{FIRST_IN_ARCHIVE}: each product's earliest tracked change in this theme. "
+            f'"·" marks a quarter without a key moment, and "not archived" a quarter before '
+            f"the product's archive begins.{begins}")
 
 
 def theme_timeline(cards: list[dict[str, Any]], card_targets: dict[str, str] | None) -> str:
@@ -664,12 +731,14 @@ def render_theme_markdown(
     *,
     verbosity: dict[str, float] | None = None,
     key_moments: list[str] | None = None,
+    archive_start: dict[str, str] | None = None,
 ) -> str:
     """Theme page: header with counts and granularity, research summary, key moments,
     a collapsed reading note and the full timeline grouped by year and month.
 
     ``verbosity`` maps product names to ``verbosity_baseline``; ``key_moments`` is the
-    validated editorial list of card ids for this theme (auto-selected when absent)."""
+    validated editorial list of card ids for this theme (auto-selected when absent);
+    ``archive_start`` maps product names to their first archived release date."""
     display = theme_label(theme, theme_labels)
     ordered = sorted(cards, key=lambda card: (card["date"], card["product_name"], card["card_id"]))
     products_involved = sorted({card["product_name"] for card in ordered})
@@ -688,8 +757,13 @@ def render_theme_markdown(
     moments = curated or auto_key_moments(ordered)
     caption = "" if curated else AUTO_MOMENTS_CAPTION
     if moments:
-        table = key_moments_table(moments, products_involved, card_targets)
-        moments_text = f"{caption}\n\n{table}" if caption else table
+        firsts = {}
+        for card in ordered:
+            firsts.setdefault(card["product_name"], card)
+        table = key_moments_table(moments, products_involved, card_targets,
+                                  firsts=firsts, archive_start=archive_start)
+        legend = key_moments_legend(products_involved, archive_start)
+        moments_text = "\n\n".join(part for part in (caption, table, legend) if part)
     else:
         moments_text = "No key moments selected yet." + (f" {caption}" if caption else "")
     regions = {
@@ -2348,6 +2422,10 @@ def write_run(
         info["product_name"]: info.get("verbosity_baseline") for info in products_info.values()
     }
     key_moments = analysis_b.get("key_moments", {})
+    archive_start = {
+        info["product_name"]: min(release["date"] for release in releases_by_product[product])
+        for product, info in products_info.items() if releases_by_product.get(product)
+    }
     for theme, theme_cards in cards_by_theme.items():
         # A holding theme ("Other changes") has no theme page.
         if theme in HOLDING_THEMES:
@@ -2363,6 +2441,7 @@ def write_run(
                 theme_labels=theme_labels,
                 verbosity=verbosity,
                 key_moments=key_moments.get(theme),
+                archive_start=archive_start,
             ),
             conflicts,
             migration_pending,

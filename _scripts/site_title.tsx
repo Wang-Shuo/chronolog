@@ -106,6 +106,55 @@ article details.disclosure > :last-child {
     transition: transform 0.2s ease, border-color 0.2s ease;
   }
 }
+/* Key moments and other tables: aligned with the text column rather than inset by
+   Quartz's 1rem margin, entries top-aligned so a quarter reads across products, and a
+   1.5 line height instead of 2rem so stacked entries stay compact. */
+article .table-container > table {
+  margin: 1rem 0;
+}
+article .table-container > table > * {
+  line-height: 1.5;
+}
+article .table-container td {
+  padding-top: 0.45rem;
+  padding-bottom: 0.45rem;
+  vertical-align: top;
+}
+article .table-container td:first-child {
+  white-space: nowrap;
+}
+/* ISO dates never break at their hyphens ("2026-09-" / "29"). */
+article time {
+  white-space: nowrap;
+}
+/* A quarter before a product's archive begins: present, but quieter than evidence. */
+article .not-archived {
+  color: var(--gray);
+}
+/* Phones: a product column needs ~9rem to read; the table scrolls sideways inside its
+   container while the quarter column stays pinned on paper, so a cell never loses its
+   row. No shadow (Flat-Paper Rule): a hairline marks the pinned edge. */
+@media all and (max-width: 800px) {
+  /* Browsers ignore min-width on table cells: let the table take its natural width and
+     give each column a preferred one instead. */
+  article .table-container > table {
+    width: max-content;
+  }
+  article .table-container :is(td, th) {
+    width: 9rem;
+  }
+  article .table-container :is(td, th):first-child {
+    position: sticky;
+    left: 0;
+    width: 4.5rem;
+    max-width: 4.5rem;
+    padding-left: 0;
+    white-space: normal;
+    /* A collapsed table's borders stay put while the cell sticks, so the hairline is
+       painted by the cell itself. */
+    background: linear-gradient(to left, var(--lightgray) 1px, var(--light) 1px);
+  }
+}
 `
 
 // Same title markup and classes as Quartz's PageTitle, plus a one-line tagline.
