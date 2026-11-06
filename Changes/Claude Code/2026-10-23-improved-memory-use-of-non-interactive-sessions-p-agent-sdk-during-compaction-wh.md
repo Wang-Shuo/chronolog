@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: ef20eada518a7211d33712f3977cb4a2299b290f8035646d89759bb27a68865b
+machine_hash: b6eb5a4eccde49652c58e995dbc66cee4d02f05bc2e4ac01618cac6cd05320f6
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-2-reliability-and-performance-changes-in-v2-1-309|2 Reliability and Performance changes in v2.1.309]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-3-reliability-and-performance-changes-in-v2-1-314|3 Reliability and Performance changes in v2.1.314]]
+- Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-2-reliability-and-performance-changes-in-rust-v0-164-0|2 Reliability and Performance changes in rust-v0.164.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

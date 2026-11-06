@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 249d016957c00075a1993853f3aee5782c5add1290a49156d7603e18e647894d
+machine_hash: 9627f685fe2c22bd51c42169dc5d27e52b7991c065d6101a154c8dec59b9ca1d
 product: cursor
 product_name: Cursor
 record:
@@ -49,10 +49,10 @@ record:
   title: Plan mode improvements in CLI
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-17-added-spinnertipsoverride-setting-to-customize-spinner-tips-configure-tips-with|Added
-  spinnerTipsOverride setting to customize spinner tips]]'
 - '[[Changes/Cursor/2026-02-17-3-interface-experience-changes-in-2-5|3 Interface Experience
   changes in 2.5]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-17-4-interface-experience-changes-in-v0-0-411|4
+  Interface Experience changes in v0.0.411]]'
 - '[[Changes/Claude Code/2026-02-18-3-interface-experience-changes-in-v2-1-47|3 Interface
   Experience changes in v2.1.47]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7|cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7]]'
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-18 · Claude Code · [[Changes/Claude Code/2026-02-18-3-interface-experience-changes-in-v2-1-47|3 Interface Experience changes in v2.1.47]]
-- Later: 2026-02-26 · Claude Code · [[Changes/Claude Code/2026-02-26-improved-ordering-of-short-task-lists|Improved ordering of short task lists]]
+- Later: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-ui-update-subdue-footer-colors-and-animate-progress-indicator-by-keithguerin-in|ui: update & subdue footer colors and animate progress indicator]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

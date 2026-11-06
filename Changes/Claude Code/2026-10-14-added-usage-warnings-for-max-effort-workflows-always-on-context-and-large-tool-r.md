@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 31a25914bd5aaf971f1ca04506e077abecca229fbd0d1a0896b98aea62d64d2a
+machine_hash: eeca6842d4e1c2bb349efa7c15fad910af720c6a369da1d5b2546941e1b0e8c9
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
     large tool…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-2-context-window-changes-in-v2-1-296|2 Context
-  Window changes in v2.1.296]]'
+- '[[Changes/Cline/2026-10-13-2-context-window-changes-in-v4-1-24|2 Context Window
+  changes in v4.1.24]]'
 - '[[Changes/Claude Code/2026-10-14-added-cache-creation-5m-tokens-and-cache-creation-1h-tokens-to-the-opentelemetry|Added
   cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelemetry…]]'
 - '[[Changes/Claude Code/2026-10-14-2-context-window-changes-in-v2-1-299|2 Context

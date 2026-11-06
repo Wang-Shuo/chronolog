@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0e8df5a373cb838e021be953ce43b28bd8651f526820e0a2545313c6420e088f
+machine_hash: a3fb7d768498bfe91a2a2eafb77539829efb7f191e00e1a896cc1392f681a468
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: Improved context-low warning to show as a transient footer notification instead…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-01-changed-hook-output-over-50k-characters-to-be-saved-to-disk-with-a-file-path-pre|Changed
-  hook output over 50K characters to be saved to disk with a file path…]]'
 - '[[Changes/Claude Code/2026-04-02-2-context-window-changes-in-v2-1-91|2 Context
   Window changes in v2.1.91]]'
 - '[[Changes/Claude Code/2026-04-04-pro-users-now-see-a-footer-hint-when-returning-to-a-session-after-the-prompt-cac|Pro
   users now see a footer hint when returning to a session after the prompt cache…]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-06-slash-command-timeline-entries-now-include-the-command-name-e-g-review-plan-for|Slash
+  command timeline entries now include the command name (e.g., "Review", "Plan")…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33|claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33]]'
 source_type: github_releases
 theme: context-window
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-pro-users-now-see-a-footer-hint-when-returning-to-a-session-after-the-prompt-cac|Pro users now see a footer hint when returning to a session after the prompt cache…]]
-- Later: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-added-exclude-dynamic-system-prompt-sections-flag-to-print-mode-for-improved-cro|Added --exclude-dynamic-system-prompt-sections flag to print mode for improved…]]
+- Earlier: 2026-04-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-06-slash-command-timeline-entries-now-include-the-command-name-e-g-review-plan-for|Slash command timeline entries now include the command name (e.g., "Review", "Plan")…]]
+- Later: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-5-context-window-changes-in-v0-37-0|5 Context Window changes in v0.37.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

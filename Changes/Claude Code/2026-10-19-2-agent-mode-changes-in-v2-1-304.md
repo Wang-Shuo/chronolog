@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5d235f35706fac30fff555d365c17da3cc39037504376628099b0a6aac8cd3e6
+machine_hash: f1781743a240f5aea88997df59a71593b4050dd847eb3af2a2d3114172a284dd
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.304
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-16 · Cursor · [[Changes/Cursor/2026-10-16-canvases-from-cloud-agents|Canvases from cloud agents]]
-- Later: 2026-10-20 · Cursor · [[Changes/Cursor/2026-10-20-deploy-agents-wherever-you-need-them|Deploy agents wherever you need them]]
+- Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-2-agent-mode-changes-in-v1-0-100|2 Agent Mode changes in v1.0.100]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

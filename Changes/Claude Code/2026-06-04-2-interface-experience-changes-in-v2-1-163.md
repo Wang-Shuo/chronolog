@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ae115f1e88c33c813b57f692001de86a272e97fb99f7b35636f44c947987f173
+machine_hash: 2d4cb955deb7cfd24c282c1e9fa17a8879eb7f160ec155c6837cccbbb72cb1ae
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Interface Experience changes in v2.1.163
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-29-claude-agents-slash-command-autocomplete-in-the-dispatch-input-now-matches-subst|claude
-  agents: slash-command autocomplete in the dispatch input now matches substrings]]'
+- '[[Changes/Codex CLI/2026-06-01-2-interface-experience-changes-in-rust-v0-136-0|2
+  Interface Experience changes in rust-v0.136.0]]'
 - '[[Changes/Claude Code/2026-06-02-2-interface-experience-changes-in-v2-1-161|2 Interface
   Experience changes in v2.1.161]]'
 - '[[Changes/Claude Code/2026-06-03-clicking-a-slash-command-in-the-autocomplete-menu-now-fills-it-into-your-prompt|Clicking
@@ -89,7 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.163
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-clicking-a-slash-command-in-the-autocomplete-menu-now-fills-it-into-your-prompt|Clicking a slash command in the autocomplete menu now fills it into your prompt…]]
-- Later: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-shared-canvases-can-now-be-opened-full-screen-in-the-browser-making-them-easier|Shared canvases can now be opened full-screen in the browser, making them easier…]]
+- Later: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-2-interface-experience-changes-in-rust-v0-137-0|2 Interface Experience changes in rust-v0.137.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 969f17817895c8cd46d60367c674cd64336ba16227a5ddda04624d9bf3933a5e
+machine_hash: fde08ef2114e1bfe5fafbe9425293aa80dba911afbabf9e77bf6663622951bae
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Model Support changes in 0.48.x
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-11-sonnet-3-7-thinking-we-ve-made-a-few-improvements-to-3-7-prompting-thinking-will|Sonnet
-  3.7 thinking: We''ve made a few improvements to 3.7 prompting]]'
-- '[[Changes/Cursor/2025-03-11-3-model-support-changes-in-0-47-x|3 Model Support changes
-  in 0.47.x]]'
 - '[[Changes/ChatGPT/2025-03-18-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-ask-bfa530|o1
   and o3-mini now offer Python-powered data analysis in ChatGPT]]'
+- '[[Changes/OpenHands/2025-03-18-make-microagents-available-in-the-event-stream-as-recall-observations-accessible|Make
+  microagents available in the event stream as recall observations…]]'
+- '[[Changes/Aider/2025-03-21-6-model-support-changes-in-v0-78-0|6 Model Support changes
+  in v0.78.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'
 source_type: cursor_changelog
 theme: model-support
@@ -97,8 +97,8 @@ Source: https://cursor.com/changelog/0-48-x
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-ask-bfa530|o1 and o3-mini now offer Python-powered data analysis in ChatGPT]]
-- Later: 2025-03-27 · ChatGPT · [[Changes/ChatGPT/2025-03-27-we-ve-made-improvements-to-gpt-4o-it-now-feels-more-intuitive-creative-and-colla|ChatGPT makes improvements to GPT-4o—it now feels more intuitive, creative…]]
+- Earlier: 2025-03-21 · Aider · [[Changes/Aider/2025-03-21-6-model-support-changes-in-v0-78-0|6 Model Support changes in v0.78.0]]
+- Later: 2025-03-25 · Aider · [[Changes/Aider/2025-03-25-2-model-support-changes-in-v0-79-0|2 Model Support changes in v0.79.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

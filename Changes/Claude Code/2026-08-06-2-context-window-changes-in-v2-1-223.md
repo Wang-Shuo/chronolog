@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3b1ac304f0d500dcc0d2cc10da1eb96e7b054417726d8e3662018dfb0f2f927e
+machine_hash: 243f5cb9014fe27b50204de9b9bbf1a9f1e3f865b3fbfd4bd4e4f7a74ab7ef3c
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Context Window changes in v2.1.223
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-22-changed-skills-with-context-fork-to-run-in-the-background-by-default-opt-out-per|Changed
-  skills with context: fork to run in the background by default]]'
 - '[[Changes/ChatGPT/2026-08-04-if-you-paste-more-than-10k-characters-into-the-composer-chatgpt-will-automatical-1bd022|If
   you paste more than 10k characters into the composer, ChatGPT will automatically…]]'
 - '[[Changes/Claude Code/2026-08-04-improved-stats-panel-to-count-cache-tokens-in-its-token-totals-with-a-breakdown|Improved
   Stats panel to count cache tokens in its token totals, with a breakdown…]]'
+- '[[Changes/Cline/2026-08-05-recover-from-running-out-of-context-instead-of-failing-with-a-raw-provider-error|Recover
+  from running out of context instead of failing with a raw provider error]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d|claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d]]'
 source_type: github_releases
 theme: context-window
@@ -87,8 +87,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.223
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-improved-stats-panel-to-count-cache-tokens-in-its-token-totals-with-a-breakdown|Improved Stats panel to count cache tokens in its token totals, with a breakdown…]]
-- Later: 2026-08-11 · Claude Code · [[Changes/Claude Code/2026-08-11-improved-compaction-progress-the-retry-countdown-and-stall-hint-now-appear-durin|Improved compaction progress]]
+- Earlier: 2026-08-05 · Cline · [[Changes/Cline/2026-08-05-recover-from-running-out-of-context-instead-of-failing-with-a-raw-provider-error|Recover from running out of context instead of failing with a raw provider error]]
+- Later: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-10-context-window-changes-in-rust-v0-147-0|10 Context Window changes in rust-v0.147.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

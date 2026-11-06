@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 60bea55158381483ff789605046744d01380fe13b7b940c83f389a0ea200b292
+machine_hash: 3f11a120eef9ac34a1a1ab3a11c3ad9429326f6e3f2d345226aa7b5514ecce80
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     prompt…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-28-2-collaboration-changes-in-v2-1-284|2 Collaboration
-  changes in v2.1.284]]'
-- '[[Changes/ChatGPT/2026-09-29-your-chatgpt-profile-now-brings-together-your-bio-activity-and-sites-you-choose-09d5dd|Share
-  your profile and showcase your Sites]]'
-- '[[Changes/ChatGPT/2026-09-29-space-brings-your-pages-files-and-related-work-together-in-chatgpt-create-a-spac|Organize
-  your work in ChatGPT Space]]'
+- '[[Changes/Codex CLI/2026-10-01-49130-move-content-filter-guidance-into-the-shared-responses-retry-handler-won-o|♯49130
+  Move content-filter guidance into the shared Responses retry handler @won-openai]]'
+- '[[Changes/Codex CLI/2026-10-07-2-collaboration-changes-in-rust-v0-161-0|2 Collaboration
+  changes in rust-v0.161.0]]'
+- '[[Changes/Codex CLI/2026-10-08-2-collaboration-changes-in-rust-v0-162-0|2 Collaboration
+  changes in rust-v0.162.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
 source_type: github_releases
 theme: collaboration
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-space-brings-your-pages-files-and-related-work-together-in-chatgpt-create-a-spac|Organize your work in ChatGPT Space]]
-- Later: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-chatgpt-slides-lets-you-create-presentations-and-keep-working-on-them-with-your|ChatGPT Slides lets you create presentations and keep working on them with your team…]]
+- Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-2-collaboration-changes-in-rust-v0-162-0|2 Collaboration changes in rust-v0.162.0]]
+- Later: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-4-collaboration-changes-in-rust-v0-163-0|4 Collaboration changes in rust-v0.163.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c865cf25f013bd3ac725354e73e13e58b8191446be15b7ba4524d52e0c212839
+machine_hash: 261c25a8995d0de0554060fc424f42d2c60e15edafc1c8fe99da4d72f2632307
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -69,12 +69,12 @@ record:
   title: On desktop, Work can use local files and desktop apps with your permission
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-06-fixed-remote-control-sessions-showing-the-wrong-permission-mode-in-the-mobile-an|Fixed
-  /remote-control sessions showing the wrong permission mode in the mobile…]]'
-- '[[Changes/Claude Code/2026-07-07-added-a-grey-badge-to-the-footer-when-in-manual-permission-mode-making-the-activ|Added
-  a grey ⏸ badge to the footer when in manual permission mode, making the active…]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-07-8-safety-and-privacy-changes-in-v1-0-69|8
+  Safety and Privacy changes in v1.0.69]]'
 - '[[Changes/Claude Code/2026-07-08-background-task-notifications-now-explicitly-state-that-no-human-input-has-occur|Background
   task notifications now explicitly state that no human input has occurred…]]'
+- '[[Changes/Codex CLI/2026-07-08-13-safety-and-privacy-changes-in-rust-v0-143-0|13
+  Safety and Privacy changes in rust-v0.143.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810|chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
@@ -105,8 +105,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-07-08 · Claude Code · [[Changes/Claude Code/2026-07-08-background-task-notifications-now-explicitly-state-that-no-human-input-has-occur|Background task notifications now explicitly state that no human input has occurred…]]
-- Later: 2026-07-10 · Claude Code · [[Changes/Claude Code/2026-07-10-fixed-permission-prompt-tool-pointing-at-an-mcp-server-crashing-with-mcp-tool-no|Fixed --permission-prompt-tool pointing at an MCP server crashing…]]
+- Earlier: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-13-safety-and-privacy-changes-in-rust-v0-143-0|13 Safety and Privacy changes in rust-v0.143.0]]
+- Later: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-4-safety-and-privacy-changes-in-rust-v0-144-0|4 Safety and Privacy changes in rust-v0.144.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -4,20 +4,20 @@ date: '2026-06-04'
 description: 'Cursor · 2026-06-04 · Automation and Scheduling: Reliable wait() on
   local runs: Local runs no longer resolve wait() before the terminal result is written…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled
-    tasks in ChatGPT]]'
+  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
+    syntax error loop detection]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 506
+  lag_days: 638
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4e0a29a0045385bda96bd9d2b23e6a95feedf668b58eb7e36c60549e98be9fdf
+machine_hash: b54a440b40d829b950c8a4793e939c91d72bedcaa40ea65c6b263ec000224046
 product: cursor
 product_name: Cursor
 record:
@@ -55,12 +55,12 @@ record:
   title: Reliable wait() on local runs
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-20-a-lot-of-engineering-work-spans-more-than-one-codebase-you-can-now-attach-multip|Multi-repo
-  automations]]'
-- '[[Changes/Cursor/2026-05-20-cursor-automations-are-now-available-in-the-agents-window-in-addition-to-cursor|Automations
-  in the Agents Window]]'
 - '[[Changes/Cursor/2026-05-20-this-release-brings-cursor-automations-to-the-agents-window-and-introduces-the-a-cd58e1|Cursor
   brings Cursor Automations to the Agents Window and introduces the ability…]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-28-schedule-manager-hint-bar-text-no-longer-wraps-over-dialog-borders-when-entries|Schedule
+  manager hint bar text no longer wraps over dialog borders when entries are added]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-02-experimental-schedule-prompts-with-every-and-after|/experimental
+  schedule prompts with /every and /after]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856|cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856]]'
 source_type: cursor_changelog
 theme: automation-scheduling
@@ -100,14 +100,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-05-20 · Cursor · [[Changes/Cursor/2026-05-20-this-release-brings-cursor-automations-to-the-agents-window-and-introduces-the-a-cd58e1|Cursor brings Cursor Automations to the Agents Window and introduces the ability…]]
+- Earlier: 2026-06-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-02-experimental-schedule-prompts-with-every-and-after|/experimental schedule prompts with /every and /after]]
 - Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-workflows-now-opens-immediately-even-while-a-turn-is-in-progress|/workflows now opens immediately even while a turn is in progress]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-01-14 · ChatGPT · [[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled tasks in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

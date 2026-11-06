@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: d4400ce164a533475ea66b0488e1d33cbc7e4eca5d815ade7dbdb16c41079813
+machine_hash: 4f8bda326e396cbf2552311cecc6bbbefdbd5b3efa3c8fcec1fd7feeece164e3
 product: cursor
 product_name: Cursor
 record:
@@ -47,8 +47,8 @@ record:
     worktrees…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-23-2-agent-mode-changes-in-v2-1-119|2 Agent Mode
-  changes in v2.1.119]]'
+- '[[Changes/Codex CLI/2026-04-24-5-agent-mode-changes-in-rust-v0-125-0|5 Agent Mode
+  changes in rust-v0.125.0]]'
 - '[[Changes/Cursor/2026-04-24-multi-root-workspaces-in-agents-window|Multi-root workspaces
   in Agents Window]]'
 - '[[Changes/Cursor/2026-04-24-worktrees-in-agents-window-44e81c|Worktrees in Agents
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-2-agent-mode-changes-in-v2-1-119|2 Agent Mode changes in v2.1.119]]
-- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-2-agent-mode-changes-in-v2-1-121|2 Agent Mode changes in v2.1.121]]
+- Earlier: 2026-04-24 · Codex CLI · [[Changes/Codex CLI/2026-04-24-5-agent-mode-changes-in-rust-v0-125-0|5 Agent Mode changes in rust-v0.125.0]]
+- Later: 2026-04-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-24-custom-agents-skills-and-commands-from-claude-are-no-longer-loaded-by-the-copilo|Custom agents, skills, and commands from ~/.claude/ are no longer loaded…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

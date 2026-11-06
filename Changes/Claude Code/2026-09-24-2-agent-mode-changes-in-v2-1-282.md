@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 129822c310406b3e25fc14517dff90815518ca5fd2032949a804859528e221ba
+machine_hash: 68d8fa71df5c1e4c0959c88a6d8161daba018fe22eeeaae7bf93837bbb110670
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Agent Mode changes in v2.1.282
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-22-2-agent-mode-changes-in-v2-1-280|2 Agent Mode
-  changes in v2.1.280]]'
+- '[[Changes/OpenHands/2026-09-22-docs-refresh-agents-md-guidance-by-all-hands-bot-in-https-github-com-openhands-o|docs:
+  refresh AGENTS.md guidance]]'
 - '[[Changes/Claude Code/2026-09-23-10-agent-mode-changes-in-v2-1-281|10 Agent Mode
   changes in v2.1.281]]'
 - '[[Changes/Cursor/2026-09-23-when-rollouts-detects-a-regression-it-names-the-change-it-suspects-and-notifies|When

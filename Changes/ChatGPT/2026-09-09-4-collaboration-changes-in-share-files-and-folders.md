@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2fc8be0aa8fb3d2a6fd35caf19c179423bbf39625986e0b401e3079a3b7e468e
+machine_hash: 4a20435faed8ab0685e916e7c03811fcdf76fca5e60282e0e435516f43f7b893
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,10 +50,10 @@ record:
   title: 4 Collaboration changes in Share files and folders…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-20-share-a-read-only-snapshot-of-a-codex-chat-personal-share-links-can-be-opened-by|Share
-  a read-only snapshot of a Codex chat]]'
-- '[[Changes/ChatGPT/2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside|Share
-  Sites with people outside your workspace]]'
+- '[[Changes/Codex CLI/2026-09-03-6-collaboration-changes-in-rust-v0-153-0|6 Collaboration
+  changes in rust-v0.153.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-04-exporting-a-resumed-session-with-share-or-share-gist-writes-the-whole-transcript|Exporting
+  a resumed session with --share or --share-gist writes the whole transcript…]]'
 - '[[Changes/ChatGPT/2026-09-08-share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their|Share
   a prompt]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d|chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d]]'
@@ -94,7 +94,7 @@ Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-
 ## Nearby in Collaboration
 
 - Earlier: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their|Share a prompt]]
-- Later: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-changed-ultrareview-in-non-interactive-sessions-to-refuse-when-the-repository-ha|Changed /ultrareview in non-interactive sessions to refuse when the repository has…]]
+- Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-6-collaboration-changes-in-rust-v0-154-0|6 Collaboration changes in rust-v0.154.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

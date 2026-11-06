@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 13563de0c2d3e702dda4274f0f7e6c3aa73c2ef9a9df2f47b4daf6ec79419191
+machine_hash: bbbba4cdec51947b25592e963eb0a8483d7b2ac08e1b4d4cedb8f3f495a1f342
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-10-01 · ChatGPT · [[Changes/ChatGPT/2026-10-01-virtually-try-on-clothing-and-accessories-a-try-on-button-will-appear-on-product|Virtually try on clothing and accessories]]
-- Later: 2026-10-30 · ChatGPT · [[Changes/ChatGPT/2026-10-30-account-switching-is-rolling-out-to-the-chatgpt-ios-and-android-apps-you-can-sta|Account switching on iOS and Android]]
+- Later: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-49000-isolate-the-memory-startup-metadata-test-from-git-enrichment-jif-oai|♯49000 Isolate the memory startup metadata test from Git enrichment @jif-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

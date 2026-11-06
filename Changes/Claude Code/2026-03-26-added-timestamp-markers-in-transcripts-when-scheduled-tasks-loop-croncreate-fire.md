@@ -4,20 +4,20 @@ date: '2026-03-26'
 description: 'Claude Code · 2026-03-26 · Automation and Scheduling: Added timestamp
   markers in transcripts when scheduled tasks (`/loop`, `CronCreate`) fire'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled
-    tasks in ChatGPT]]'
+  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
+    syntax error loop detection]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 436
+  lag_days: 568
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 018d753a97c005ca66d84c9016dcf9a1deeb5859d138e0943c68e2e9417aaa29
+machine_hash: f4b02ded5fe686d2473ee885980e58b455206693387acdaaa4938056504534e7
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     fire
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-07-added-loop-command-to-run-a-prompt-or-slash-command-on-a-recurring-interval-e-g|Added
-  /loop command to run a prompt or slash command on a recurring interval…]]'
-- '[[Changes/Claude Code/2026-03-10-added-claude-code-disable-cron-environment-variable-to-immediately-stop-schedule|Added
-  CLAUDE_CODE_DISABLE_CRON environment variable to immediately stop scheduled…]]'
 - '[[Changes/Claude Code/2026-03-17-show-a-notice-when-apikeyhelper-takes-longer-than-10s-preventing-it-from-blockin|Show
   a notice when apiKeyHelper takes longer than 10s, preventing it from blocking…]]'
+- '[[Changes/Gemini CLI/2026-03-17-2-automation-and-scheduling-changes-in-v0-34-0|2
+  Automation and Scheduling changes in v0.34.0]]'
+- '[[Changes/Gemini CLI/2026-03-24-2-automation-and-scheduling-changes-in-v0-35-0|2
+  Automation and Scheduling changes in v0.35.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7|claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -85,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-show-a-notice-when-apikeyhelper-takes-longer-than-10s-preventing-it-from-blockin|Show a notice when apiKeyHelper takes longer than 10s, preventing it from blocking…]]
-- Later: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-reduced-the-browser-automation-tool-surface-and-tightened-the-subagent-to-use-br|Reduced the browser automation tool surface and tightened the subagent to use…]]
+- Earlier: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-2-automation-and-scheduling-changes-in-v0-35-0|2 Automation and Scheduling changes in v0.35.0]]
+- Later: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-2-automation-and-scheduling-changes-in-rust-v0-117-0|2 Automation and Scheduling changes in rust-v0.117.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-01-14 · ChatGPT · [[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled tasks in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

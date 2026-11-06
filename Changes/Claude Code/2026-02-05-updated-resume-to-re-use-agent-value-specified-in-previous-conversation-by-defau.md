@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 549d7ca0d70cc8a8a3758fbed831fe814fe229ec5c1ea5810717fc75f079ced7
+machine_hash: 1e1dd6938bee28646ea30b510da5a449014b0fdccc2e105124b348d96944cf4d
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     by default
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-23-added-env-var-claude-code-enable-tasks-set-to-false-to-keep-the-old-system-tempo|Added
-  env var CLAUDE_CODE_ENABLE_TASKS, set to false to keep the old system…]]'
-- '[[Changes/Claude Code/2026-01-27-2-agent-mode-changes-in-v2-1-20|2 Agent Mode changes
-  in v2.1.20]]'
-- '[[Changes/Claude Code/2026-02-03-added-token-count-tool-uses-and-duration-metrics-to-task-tool-results|Added
-  token count, tool uses, and duration metrics to Task tool results]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-03-support-agents-skills-directory-for-auto-loading-skills|Support
+  .agents/skills directory for auto-loading skills]]'
+- '[[Changes/Codex CLI/2026-02-04-4-agent-mode-changes-in-rust-v0-95-0|4 Agent Mode
+  changes in rust-v0.95.0]]'
+- '[[Changes/Gemini CLI/2026-02-04-15-agent-mode-changes-in-v0-27-0|15 Agent Mode
+  changes in v0.27.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0]]'
 source_type: github_releases
 theme: agent-mode
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-added-token-count-tool-uses-and-duration-metrics-to-task-tool-results|Added token count, tool uses, and duration metrics to Task tool results]]
-- Later: 2026-02-06 · Claude Code · [[Changes/Claude Code/2026-02-06-2-agent-mode-changes-in-v2-1-33|2 Agent Mode changes in v2.1.33]]
+- Earlier: 2026-02-04 · Gemini CLI · [[Changes/Gemini CLI/2026-02-04-15-agent-mode-changes-in-v0-27-0|15 Agent Mode changes in v0.27.0]]
+- Later: 2026-02-05 · Codex CLI · [[Changes/Codex CLI/2026-02-05-10649-fix-test-shell-command-interruption-flake-gt-oai|♯10649 Fix test_shell_command_interruption flake @gt-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

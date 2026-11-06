@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: daf0059a80cd67c2bf7ec22642b70ed7b50537d6f89097ddcb402ec1b4d9ad39
+machine_hash: f9307278c25c2e7e888c99ee7bfe3d098ea2d6fcc42787af2e91a4335ff7187e
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     at startup
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-17-improved-startup-performance-by-removing-eager-loading-of-session-history-for-st|Improved
-  startup performance by removing eager loading of session history for stats…]]'
 - '[[Changes/ChatGPT/2026-02-25-sources-from-chats-save-useful-chatgpt-responses-into-your-project-so-great-outp|Sources
   from chats]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-27-add-chronicle-command-with-standup-tips-and-improve-subcommands-powered-by-sessi|Add
+  /chronicle command with standup, tips, and improve subcommands powered…]]'
 - '[[Changes/Claude Code/2026-03-06-improved-rename-to-work-while-claude-is-processing-instead-of-being-silently-que|Improved
   /rename to work while Claude is processing, instead of being silently queued]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc]]'
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Projects and Workspaces
 
 - Earlier: 2026-03-06 · Claude Code · [[Changes/Claude Code/2026-03-06-improved-rename-to-work-while-claude-is-processing-instead-of-being-silently-que|Improved /rename to work while Claude is processing, instead of being silently queued]]
-- Later: 2026-04-07 · Claude Code · [[Changes/Claude Code/2026-04-07-improved-resume-to-resume-sessions-from-other-worktrees-of-the-same-repo-directl|Improved --resume to resume sessions from other worktrees of the same repo…]]
+- Later: 2026-03-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-17-session-resume-no-longer-fails-with-session-file-is-corrupted-for-sessions-creat|Session resume no longer fails with 'Session file is corrupted' for sessions created…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dbf8eec27baf98e84afd2aff75077ca648473bcf6c6321e1c92741a65b625e10
+machine_hash: cdf4db6dc207a5b4a409502a18567af13607d021b158622b04100a83a3196e8d
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     created…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-10-added-os-ca-certificate-store-trust-by-default-so-enterprise-tls-proxies-work-wi|Added
-  OS CA certificate store trust by default, so enterprise TLS proxies work…]]'
+- '[[Changes/Codex CLI/2026-04-10-the-readme-now-uses-the-current-chatgpt-business-plan-name-16348|The
+  README now uses the current ChatGPT Business plan name (♯16348)]]'
 - '[[Changes/ChatGPT/2026-04-16-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-australia-new|Rolling
   out ads in Australia, New Zealand, and Canada]]'
 - '[[Changes/Claude Code/2026-04-23-added-disable-updates-env-var-to-completely-block-all-update-paths-including-man|Added

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 54f7f913ed6274c35ba98ac94fac3c30b6d9d800b48f1d926bff86230a7eb7ff
+machine_hash: b997dc027a10a2326809dcde9109f364687982710b8a4e1efa18ed45e0db901b
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
   title: Made MCP connection behavior more predictable, and added explicit stale token…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-06-added-claude-code-session-id-environment-variable-to-the-bash-tool-subprocess-en|Added
-  CLAUDE_CODE_SESSION_ID environment variable to the Bash tool subprocess…]]'
-- '[[Changes/Claude Code/2026-05-06-3-apps-and-integrations-changes-in-v2-1-129|3
-  Apps and Integrations changes in v2.1.129]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-06-2-apps-and-integrations-changes-in-v1-0-42|2
+  Apps and Integrations changes in v1.0.42]]'
 - '[[Changes/Claude Code/2026-05-07-2-apps-and-integrations-changes-in-v2-1-133|2
   Apps and Integrations changes in v2.1.133]]'
+- '[[Changes/Codex CLI/2026-05-07-39-apps-and-integrations-changes-in-rust-v0-129-0|39
+  Apps and Integrations changes in rust-v0.129.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3|cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-07 · Claude Code · [[Changes/Claude Code/2026-05-07-2-apps-and-integrations-changes-in-v2-1-133|2 Apps and Integrations changes in v2.1.133]]
+- Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-39-apps-and-integrations-changes-in-rust-v0-129-0|39 Apps and Integrations changes in rust-v0.129.0]]
 - Later: 2026-05-08 · Claude Code · [[Changes/Claude Code/2026-05-08-changed-plugin-marketplace-removal-key-to-d-matching-delete-elsewhere-instead-of|Changed plugin marketplace removal key to d (matching delete elsewhere) instead…]]
 <!-- chronolog:end -->
 

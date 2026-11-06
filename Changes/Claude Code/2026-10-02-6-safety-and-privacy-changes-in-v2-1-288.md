@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d90e7d9e1d432cafc29186e83b8eec990eb8a97261ef560ae4e4c5c5e200f8fb
+machine_hash: 120c2a45939eca2d5a6455198b0aff7dc07fe8ff20ac28686b45f75ec6df0021
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,12 +57,12 @@ record:
   title: 6 Safety and Privacy changes in v2.1.288
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-29-9-safety-and-privacy-changes-in-v2-1-285|9 Safety
-  and Privacy changes in v2.1.285]]'
-- '[[Changes/Claude Code/2026-09-30-4-safety-and-privacy-changes-in-v2-1-286|4 Safety
-  and Privacy changes in v2.1.286]]'
 - '[[Changes/Claude Code/2026-10-01-6-safety-and-privacy-changes-in-v2-1-287|6 Safety
   and Privacy changes in v2.1.287]]'
+- '[[Changes/Codex CLI/2026-10-01-7-safety-and-privacy-changes-in-rust-v0-160-0|7
+  Safety and Privacy changes in rust-v0.160.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-01-2-safety-and-privacy-changes-in-v1-0-91|2
+  Safety and Privacy changes in v1.0.91]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6|claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6]]'
 source_type: github_releases
 theme: safety-privacy
@@ -112,7 +112,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.288
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-6-safety-and-privacy-changes-in-v2-1-287|6 Safety and Privacy changes in v2.1.287]]
+- Earlier: 2026-10-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-01-2-safety-and-privacy-changes-in-v1-0-91|2 Safety and Privacy changes in v1.0.91]]
 - Later: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-19-safety-and-privacy-changes-in-v2-1-290|19 Safety and Privacy changes in v2.1.290]]
 <!-- chronolog:end -->
 

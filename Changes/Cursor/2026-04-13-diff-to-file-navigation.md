@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7f8b5bbf0c0f0e53546ac29f80b25705c2758d48c146fccdf9f4d5d19a9b24ca
+machine_hash: 238d6cda3369f922b2ac98083e61fdcebc6a203b5dcbbb5688d9a33bfea373f0
 product: cursor
 product_name: Cursor
 record:
@@ -46,10 +46,10 @@ record:
   title: Diff to file navigation
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-08-2-interface-experience-changes-in-v2-1-97|2 Interface
-  Experience changes in v2.1.97]]'
-- '[[Changes/Claude Code/2026-04-10-improved-focus-mode-claude-now-writes-more-self-contained-summaries-since-it-kno|Improved
-  focus mode]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-10-slash-command-picker-shows-full-skill-descriptions-and-a-refined-scrollbar|Slash
+  command picker shows full skill descriptions and a refined scrollbar]]'
+- '[[Changes/Codex CLI/2026-04-11-2-interface-experience-changes-in-rust-v0-120-0|2
+  Interface Experience changes in rust-v0.120.0]]'
 - '[[Changes/Claude Code/2026-04-13-improved-network-error-messages-connection-errors-now-show-a-retry-message-immed|Improved
   network error messages]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313|cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313]]'
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-13 · Claude Code · [[Changes/Claude Code/2026-04-13-improved-network-error-messages-connection-errors-now-show-a-retry-message-immed|Improved network error messages]]
-- Later: 2026-04-14 · Claude Code · [[Changes/Claude Code/2026-04-14-2-interface-experience-changes-in-v2-1-108|2 Interface Experience changes in v2.1.108]]
+- Later: 2026-04-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-13-2-interface-experience-changes-in-v1-0-25|2 Interface Experience changes in v1.0.25]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -1,0 +1,97 @@
+---
+card_id: windsurf-2026-10-26-c136f6
+date: '2026-10-26'
+description: 'Windsurf · 2026-10-26 · Mobile and Desktop: On macOS, banners at the
+  top of the window no longer interfere with the window controls.'
+diffusion:
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1322
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: mobile-desktop
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: 399b818fb3d80b7c2255830499fe6c10586b038d71317907a6e7b48020549cb9
+product: windsurf
+product_name: Windsurf
+record:
+  card_id: windsurf-2026-10-26-c136f6
+  comparison: ''
+  date: '2026-10-26'
+  description: 'Windsurf — v3.11.228: On macOS, banners at the top of the window no
+    longer interfere with the window controls.'
+  evidence:
+  - quote: On macOS, banners at the top of the window no longer interfere with the
+      window controls.
+    source_release: https://docs.devin.ai/desktop/changelog#v3-11-228
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: windsurf
+  product_name: Windsurf
+  slug: on-macos-banners-at-the-top-of-the-window-no-longer-interfere-with-the-window-co
+  source_release: windsurf-2026-10-26-v3-11-228-40b60cc1
+  source_type: windsurf_changelog
+  theme: mobile-desktop
+  title: On macOS, banners at the top of the window no longer interfere with the window
+    controls
+  type: change
+related_changes:
+- '[[Changes/OpenHands/2026-10-23-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a|The
+  app isn''t signed with an Apple Developer ID yet, so macOS may call a]]'
+- '[[Changes/OpenHands/2026-10-23-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a-6f8043|The
+  app isn''t signed with an Apple Developer ID yet, so macOS may call a]]'
+- '[[Changes/Windsurf/2026-10-23-on-windows-wsl-distros-can-be-used-as-remote-agent-hosts-alongside-ssh-hosts-and|On
+  Windows, WSL distros can be used as remote agent hosts alongside SSH hosts…]]'
+source_release: '[[Releases/Windsurf/windsurf-2026-10-26-v3-11-228-40b60cc1|windsurf-2026-10-26-v3-11-228-40b60cc1]]'
+source_type: windsurf_changelog
+theme: mobile-desktop
+title: On macOS, banners at the top of the window no longer interfere with the window
+  controls
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# On macOS, banners at the top of the window no longer interfere with the window controls
+
+**Windsurf** · 2026-10-26 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://docs.devin.ai/desktop/changelog#v3-11-228) · from [[Releases/Windsurf/windsurf-2026-10-26-v3-11-228-40b60cc1|v3.11.228]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> On macOS, banners at the top of the window no longer interfere with the window controls.
+>
+> Source: https://docs.devin.ai/desktop/changelog#v3-11-228
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Windsurf/2026-10-26-a-dropped-connection-during-sign-in-no-longer-signs-you-out-devin-desktop-retrie|A dropped connection during sign-in no longer signs you out]] · Account and Access
+- [[Changes/Windsurf/2026-10-26-ide-mode-now-offers-devin-cloud-whenever-your-account-has-cloud-access-the-same|IDE mode now offers Devin Cloud whenever your account has Cloud access, the same…]] · Collaboration
+- [[Changes/Windsurf/2026-10-26-the-status-bar-no-longer-disappears-after-you-switch-from-agent-mode-to-ide-mode|The status bar no longer disappears after you switch from Agent mode to IDE mode]] · Agent Mode
+- [[Changes/Windsurf/2026-10-26-2-developer-workflow-changes-in-v3-11-228|2 Developer Workflow changes in v3.11.228]] · Developer Workflow
+- [[Changes/Windsurf/2026-10-26-2-other-changes-in-v3-11-228|2 other changes in v3.11.228]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2026-10-23 · Windsurf · [[Changes/Windsurf/2026-10-23-on-windows-wsl-distros-can-be-used-as-remote-agent-hosts-alongside-ssh-hosts-and|On Windows, WSL distros can be used as remote agent hosts alongside SSH hosts…]]
+- Later: 2026-10-27 · ChatGPT · [[Changes/ChatGPT/2026-10-27-you-can-learn-more-about-how-chatgpt-uses-connected-apps-here-available-to-all-c|You can learn more about how ChatGPT uses connected apps here]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20windsurf-2026-10-26-c136f6&body=Card%3A%20Changes%2FWindsurf%2F2026-10-26-on-macos-banners-at-the-top-of-the-window-no-longer-interfere-with-the-window-co.md%0ACard%20ID%3A%20windsurf-2026-10-26-c136f6%0ASource%3A%20https%3A%2F%2Fdocs.devin.ai%2Fdesktop%2Fchangelog%23v3-11-228%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

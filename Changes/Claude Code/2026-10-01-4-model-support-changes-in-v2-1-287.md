@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ecb4dbd79c7a829550c67a30956daa0e0778729474e334ece0fd6d3ad46b8a0
+machine_hash: 0bc824a2f3712af7e36ef3f83a01d5dd2a1672b8ffc54d0e9104aca098e3141d
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
   title: 4 Model Support changes in v2.1.287
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp|Eligible
-  Plus and Pro users can authorize participating apps to use their ChatGPT…]]'
-- '[[Changes/Claude Code/2026-09-29-3-model-support-changes-in-v2-1-285|3 Model Support
-  changes in v2.1.285]]'
 - '[[Changes/Claude Code/2026-09-30-changed-how-failed-api-requests-are-retried-one-limit-now-covers-a-whole-model-c|Changed
   how failed API requests are retried]]'
+- '[[Changes/Cline/2026-09-30-6-model-support-changes-in-v4-1-22|6 Model Support changes
+  in v4.1.22]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-30-2-model-support-changes-in-v1-0-90|2 Model
+  Support changes in v1.0.90]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'
 source_type: github_releases
 theme: model-support
@@ -106,8 +106,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.287
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-changed-how-failed-api-requests-are-retried-one-limit-now-covers-a-whole-model-c|Changed how failed API requests are retried]]
-- Later: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-changed-the-client-side-auto-mode-classifier-to-ignore-an-anthropic-default-sonn|Changed the client-side auto mode classifier to ignore…]]
+- Earlier: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-2-model-support-changes-in-v1-0-90|2 Model Support changes in v1.0.90]]
+- Later: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-5-model-support-changes-in-rust-v0-160-0|5 Model Support changes in rust-v0.160.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

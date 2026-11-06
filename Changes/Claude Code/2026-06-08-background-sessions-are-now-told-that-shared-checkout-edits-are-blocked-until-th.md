@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 42104ad08219124a8e1c66e8e5b68a704b0da97a300ce515f206e7c1ce3996d6
+machine_hash: 9c048ba31f7b814841acdff1de4a47918a1897f63858c5dbe2f3827fbb617623
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
     they…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-2-developer-workflow-changes-in-v2-1-161|2 Developer
-  Workflow changes in v2.1.161]]'
-- '[[Changes/Claude Code/2026-06-03-tools-explicitly-listing-grep-glob-now-provides-the-dedicated-search-tools-on-na|--tools:
-  explicitly listing Grep/Glob now provides the dedicated search tools…]]'
-- '[[Changes/Claude Code/2026-06-04-skills-added-escape-syntax-to-include-a-literal-before-a-digit-in-command-bodies|Skills:
-  added \$ escape syntax to include a literal $ before a digit in command bodies]]'
+- '[[Changes/Codex CLI/2026-06-04-6-developer-workflow-changes-in-rust-v0-137-0|6
+  Developer Workflow changes in rust-v0.137.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-05-11-developer-workflow-changes-in-v1-0-60|11
+  Developer Workflow changes in v1.0.60]]'
+- '[[Changes/Cline/2026-06-07-add-a-debug-section-in-settings-for-cline-testers|Add
+  a debug section in settings for Cline testers]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d|claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d]]'
 source_type: github_releases
 theme: developer-workflow
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-skills-added-escape-syntax-to-include-a-literal-before-a-digit-in-command-bodies|Skills: added \$ escape syntax to include a literal $ before a digit in command bodies]]
-- Later: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-2-developer-workflow-changes-in-v2-1-172|2 Developer Workflow changes in v2.1.172]]
+- Earlier: 2026-06-07 · Cline · [[Changes/Cline/2026-06-07-add-a-debug-section-in-settings-for-cline-testers|Add a debug section in settings for Cline testers]]
+- Later: 2026-06-08 · Codex CLI · [[Changes/Codex CLI/2026-06-08-7-developer-workflow-changes-in-rust-v0-138-0|7 Developer Workflow changes in rust-v0.138.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

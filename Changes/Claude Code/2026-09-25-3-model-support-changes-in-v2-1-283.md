@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5db460e9d249f95e217335039a54c21fad7b0240b8a5854e67109958c6a20703
+machine_hash: 4df92061c66be76eb79e8231919dc306889c9258d8f9f5cab46d2d170bce8c20
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,12 @@ record:
   title: 3 Model Support changes in v2.1.283
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-22-5-model-support-changes-in-v2-1-280|5 Model Support
-  changes in v2.1.280]]'
-- '[[Changes/Claude Code/2026-09-23-improved-interactive-startup-time-git-reads-startup-telemetry-and-the-bedrock-ve|Improved
-  interactive startup time]]'
+- '[[Changes/Codex CLI/2026-09-23-2-model-support-changes-in-rust-v0-156-1|2 Model
+  Support changes in rust-v0.156.1]]'
 - '[[Changes/Claude Code/2026-09-24-2-model-support-changes-in-v2-1-282|2 Model Support
   changes in v2.1.282]]'
+- '[[Changes/Cline/2026-09-24-3-model-support-changes-in-v4-1-21|3 Model Support changes
+  in v4.1.21]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8|claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8]]'
 source_type: github_releases
 theme: model-support
@@ -99,8 +99,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.283
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-2-model-support-changes-in-v2-1-282|2 Model Support changes in v2.1.282]]
-- Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-6-model-support-changes-in-v2-1-284|6 Model Support changes in v2.1.284]]
+- Earlier: 2026-09-24 · Cline · [[Changes/Cline/2026-09-24-3-model-support-changes-in-v4-1-21|3 Model Support changes in v4.1.21]]
+- Later: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-8-model-support-changes-in-rust-v0-157-0|8 Model Support changes in rust-v0.157.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

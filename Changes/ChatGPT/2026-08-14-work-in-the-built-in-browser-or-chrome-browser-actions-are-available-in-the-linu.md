@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 62c1aae2190784225e46b76f845bbdad17ccb65563b9035206ca312326262d01
+machine_hash: 422bc32b23ed34d9c595461f8831afa3dccff0eb80f72f76605fd12a50c3f090
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,12 +54,11 @@ record:
   title: Work in the built-in browser or Chrome
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-10-chatgpt-can-now-help-you-find-available-restaurant-reservations-with-opentable-r|Restaurant
-  reservations in ChatGPT]]'
 - '[[Changes/Claude Code/2026-08-12-changed-self-hosted-runner-windows-startup-to-require-an-explicit-base-dir-there|Changed
   self-hosted runner Windows startup to require an explicit --base-dir]]'
 - '[[Changes/Claude Code/2026-08-13-gateway-the-desktop-overlay-now-accepts-every-released-desktop-setting-was-11-ha|Gateway:
   the desktop: overlay now accepts every released Desktop setting…]]'
+- '[[Changes/Windsurf/2026-08-13-devin-desktop|Devin Desktop]]'
 scope: Linux desktop
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
@@ -92,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-gateway-the-desktop-overlay-now-accepts-every-released-desktop-setting-was-11-ha|Gateway: the desktop: overlay now accepts every released Desktop setting…]]
-- Later: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-added-notify-when-idle-to-cross-session-sendmessage-ask-another-claude-code-sess|Added notify_when_idle to cross-session SendMessage]]
+- Earlier: 2026-08-13 · Windsurf · [[Changes/Windsurf/2026-08-13-devin-desktop|Devin Desktop]]
+- Later: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-3-mobile-and-desktop-changes-in-rust-v0-148-0|3 Mobile and Desktop changes in rust-v0.148.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

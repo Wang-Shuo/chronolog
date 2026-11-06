@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 47b1d47a39b91e65fda0c3471275dc7aa9c0d3638acda1620c2c0eb3cf52c696
+machine_hash: 9626965c83299e55cf7f9a0f24abd0018c77a32b3d53be8082b960282cd5714c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,11 +43,11 @@ record:
     macOS
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|Updated
-  launch animations and composer design on Android]]'
 - '[[Changes/ChatGPT/2025-02-21-ios-widget-see-below|iOS widget (see below)]]'
 - '[[Changes/ChatGPT/2025-02-28-long-press-to-select-text-on-ios-and-moved-the-message-quick-actions-to-always-b-a40c3f|Long
   press to select text on iOS and moved the message quick actions to always…]]'
+- '[[Changes/Aider/2025-03-10-specify-desktop-notification-command-with-notifications-command|Specify
+  desktop notification command with --notifications-command]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-ios-app-6a42bb0f|chatgpt-2025-03-18-ios-app-6a42bb0f]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-02-28 · ChatGPT · [[Changes/ChatGPT/2025-02-28-long-press-to-select-text-on-ios-and-moved-the-message-quick-actions-to-always-b-a40c3f|Long press to select text on iOS and moved the message quick actions to always…]]
-- Later: 2025-07-16 · ChatGPT · [[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|Record mode is now available to ChatGPT Plus users globally in the macOS desktop app]]
+- Earlier: 2025-03-10 · Aider · [[Changes/Aider/2025-03-10-specify-desktop-notification-command-with-notifications-command|Specify desktop notification command with --notifications-command]]
+- Later: 2025-04-23 · OpenHands · [[Changes/OpenHands/2025-04-23-addressed-failure-of-docker-containers-to-start-on-windows-by-happyherp-in-https|Addressed failure of Docker containers to start on Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

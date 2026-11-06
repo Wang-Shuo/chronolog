@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d51d43372a225b8f923a8d4cdeb5c6697d795a1a546268fa712c8e50b9fbb965
+machine_hash: 019d1ebacb409179b8ae39bf5bcf86842b3f8c81cc72d6ceb6a66541fe968dd6
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,12 @@ record:
   title: 4 Apps and Integrations changes in v2.1.157
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-27-4-apps-and-integrations-changes-in-v2-1-152|4
-  Apps and Integrations changes in v2.1.152]]'
-- '[[Changes/Claude Code/2026-05-28-2-apps-and-integrations-changes-in-v2-1-153|2
-  Apps and Integrations changes in v2.1.153]]'
-- '[[Changes/Claude Code/2026-05-28-4-apps-and-integrations-changes-in-v2-1-154|4
-  Apps and Integrations changes in v2.1.154]]'
+- '[[Changes/Cline/2026-05-28-move-the-vs-code-extension-project-into-apps-vscode|Move
+  the VS Code extension project into apps/vscode]]'
+- '[[Changes/Codex CLI/2026-05-28-14-apps-and-integrations-changes-in-rust-v0-135-0|14
+  Apps and Integrations changes in rust-v0.135.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-28-10-apps-and-integrations-changes-in-v1-0-55|10
+  Apps and Integrations changes in v1.0.55]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8|claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8]]'
 source_type: github_releases
 theme: apps-integrations
@@ -97,8 +97,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.157
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-4-apps-and-integrations-changes-in-v2-1-154|4 Apps and Integrations changes in v2.1.154]]
-- Later: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-mcp-now-collapses-claude-ai-connectors-you-ve-never-signed-in-to-behind-a-show-u|/mcp now collapses claude.ai connectors you've never signed in to behind…]]
+- Earlier: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-10-apps-and-integrations-changes-in-v1-0-55|10 Apps and Integrations changes in v1.0.55]]
+- Later: 2026-05-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-29-2-apps-and-integrations-changes-in-v1-0-56|2 Apps and Integrations changes in v1.0.56]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 174813bd942a669af56598b95bdf872a74f301adca9ae0254e926999661783b3
+machine_hash: b143b03858a92d2c1de212e5cc0aac67da3cbf827da3395b8a085f3c7209531e
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: '`!` bash commands now trigger Claude to respond to the output automatically'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-08-added-cd-command-to-move-a-session-to-a-new-working-directory-without-breaking-t|Added
-  /cd command to move a session to a new working directory without breaking…]]'
-- '[[Changes/Claude Code/2026-06-12-vscode-added-usage-attribution-to-the-account-usage-dialog-usage-showing-cache-m|VSCode
-  Added usage attribution to the Account & usage dialog (/usage) showing…]]'
+- '[[Changes/Codex CLI/2026-06-15-7-context-window-changes-in-rust-v0-140-0|7 Context
+  Window changes in rust-v0.140.0]]'
+- '[[Changes/Codex CLI/2026-06-18-2-context-window-changes-in-rust-v0-141-0|2 Context
+  Window changes in rust-v0.141.0]]'
 - '[[Changes/ChatGPT/2026-06-22-starting-today-for-chatgpt-free-and-go-users-long-pastes-are-handled-differently|Large
   pastes are now handled as attachments for more plans]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b|claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-06-22 · ChatGPT · [[Changes/ChatGPT/2026-06-22-starting-today-for-chatgpt-free-and-go-users-long-pastes-are-handled-differently|Large pastes are now handled as attachments for more plans]]
-- Later: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-subagents-and-context-compaction-now-inherit-the-session-s-extended-thinking-con|Subagents and context compaction now inherit the session's extended thinking…]]
+- Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-10-context-window-changes-in-rust-v0-142-0|10 Context Window changes in rust-v0.142.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

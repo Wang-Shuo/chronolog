@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 3faa24cd04bf4707b99e365db73c8904940cc27f284df71728bc6a8691b5c378
+machine_hash: 007fc3b5af8f6071a55a29c6eed17f6e76ce22c898165739e9b8352b1d39ae6d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,11 +56,12 @@ record:
   title: Auto top-up for flexible usage credits
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-03-eligible-customers-in-india-can-now-get-12-months-of-chatgpt-go-at-no-cost-new-u|ChatGPT
-  Go Promo - India]]'
-- '[[Changes/Cursor/2025-12-18-billing-groups|Billing groups]]'
-- '[[Changes/Claude Code/2026-02-04-removed-misleading-anthropic-api-pricing-from-model-selector-for-third-party-pro|Removed
-  misleading Anthropic API pricing from model selector for third-party…]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-07-display-warning-when-user-has-no-copilot-subscription|Display
+  warning when user has no Copilot subscription]]'
+- '[[Changes/Gemini CLI/2026-03-03-feat-billing-implement-g1-ai-credits-overage-flow-with-billing-telemetry-by-gsqu|feat(billing):
+  implement G1 AI credits overage flow with billing telemetry]]'
+- '[[Changes/Cline/2026-03-04-token-cost-updates-now-happen-immediately-as-usage-chunks-arrive-not-after-tool|Token/cost
+  updates now happen immediately as usage chunks arrive, not after tool execution]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-10-auto-top-up-for-flexible-usage-credits-462c6ddf|chatgpt-2026-03-10-auto-top-up-for-flexible-usage-credits-462c6ddf]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -89,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-02-04 · Claude Code · [[Changes/Claude Code/2026-02-04-removed-misleading-anthropic-api-pricing-from-model-selector-for-third-party-pro|Removed misleading Anthropic API pricing from model selector for third-party…]]
-- Later: 2026-03-19 · Cursor · [[Changes/Cursor/2026-03-19-standard-0-50-m-input-2-50-m-output-tokens|Standard: $0.50/M input, $2.50/M output tokens]]
+- Earlier: 2026-03-04 · Cline · [[Changes/Cline/2026-03-04-token-cost-updates-now-happen-immediately-as-usage-chunks-arrive-not-after-tool|Token/cost updates now happen immediately as usage chunks arrive, not after tool execution]]
+- Later: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-2-pricing-model-changes-in-v0-34-0|2 Pricing Model changes in v0.34.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

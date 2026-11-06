@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 81b455627b6441268aedb57ffb84e77e6488e569822fe181ae8a3ffb925b118d
+machine_hash: b3f85d5e9c5434510f1fe2c4d160d0091b6bc35d20c95995d9c0a9bc7018ab77
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,12 @@ record:
   title: 3 Model Support changes in v2.1.68
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-19-2-model-support-changes-in-v2-1-49|2 Model Support
-  changes in v2.1.49]]'
-- '[[Changes/Claude Code/2026-02-24-the-model-picker-now-shows-human-readable-labels-e-g-sonnet-4-5-instead-of-raw-m|The
-  /model picker now shows human-readable labels (e.g., "Sonnet 4.5") instead…]]'
-- '[[Changes/ChatGPT/2026-03-03-gpt-5-3-instant-delivers-more-accurate-answers-richer-and-better-contextualized|GPT-5.3
-  Instant Update]]'
+- '[[Changes/Cline/2026-03-03-restore-gpt-oss-native-file-editing-on-openai-compatible-models|Restore
+  GPT-OSS native file editing on OpenAI-compatible models]]'
+- '[[Changes/Gemini CLI/2026-03-03-3-model-support-changes-in-v0-32-0|3 Model Support
+  changes in v0.32.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-03-2-model-support-changes-in-v0-0-421|2 Model
+  Support changes in v0.0.421]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-04-v2-1-68-github-292908895-c7aaa3de|claude-code-2026-03-04-v2-1-68-github-292908895-c7aaa3de]]'
 source_type: github_releases
 theme: model-support
@@ -87,8 +87,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.68
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-03 · ChatGPT · [[Changes/ChatGPT/2026-03-03-gpt-5-3-instant-delivers-more-accurate-answers-richer-and-better-contextualized|GPT-5.3 Instant Update]]
-- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-changed-sonnet-4-5-users-on-pro-max-team-premium-to-be-automatically-migrated-to|Changed Sonnet 4.5 users on Pro/Max/Team Premium to be automatically migrated…]]
+- Earlier: 2026-03-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-03-2-model-support-changes-in-v0-0-421|2 Model Support changes in v0.0.421]]
+- Later: 2026-03-04 · Cline · [[Changes/Cline/2026-03-04-2-model-support-changes-in-v3-70-0|2 Model Support changes in v3.70.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

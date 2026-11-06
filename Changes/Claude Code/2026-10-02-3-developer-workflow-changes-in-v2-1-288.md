@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f4ab71a5a0afc51acebabb198f83bb9109c5dd39109f40984a6872b73c505485
+machine_hash: 490b965e7ee49595de475025c805050df473cd4bc37623e8ca8ccd30c20b8487
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,12 +50,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.288
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-29-3-developer-workflow-changes-in-v2-1-285|3 Developer
-  Workflow changes in v2.1.285]]'
-- '[[Changes/Claude Code/2026-09-30-3-developer-workflow-changes-in-v2-1-286|3 Developer
-  Workflow changes in v2.1.286]]'
 - '[[Changes/Claude Code/2026-10-01-3-developer-workflow-changes-in-v2-1-287|3 Developer
   Workflow changes in v2.1.287]]'
+- '[[Changes/Codex CLI/2026-10-01-2-developer-workflow-changes-in-rust-v0-160-0|2
+  Developer Workflow changes in rust-v0.160.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-01-complete-statically-analyzable-read-only-shell-pipelines-can-now-enter-execution|Complete,
+  statically analyzable read-only shell pipelines can now enter…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6|claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6]]'
 source_type: github_releases
 theme: developer-workflow
@@ -99,7 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.288
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-3-developer-workflow-changes-in-v2-1-287|3 Developer Workflow changes in v2.1.287]]
+- Earlier: 2026-10-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-01-complete-statically-analyzable-read-only-shell-pipelines-can-now-enter-execution|Complete, statically analyzable read-only shell pipelines can now enter…]]
 - Later: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-5-developer-workflow-changes-in-v2-1-290|5 Developer Workflow changes in v2.1.290]]
 <!-- chronolog:end -->
 

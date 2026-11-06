@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: decab52efea258ff97a6f36d388b48ecd6341cf894c7bf850370a860b5e8aa3f
+machine_hash: 22d22dff925515b1af7b9d90620640425fc72e4334a08f8f29d144da2c3b8655
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,8 @@ record:
   title: Team marketplaces for plugins
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-28-added-enable-claudeai-mcp-servers-false-env-var-to-opt-out-from-making-claude-ai|Added
-  ENABLE_CLAUDEAI_MCP_SERVERS=false env var to opt out from making claude.ai…]]'
+- '[[Changes/Cline/2026-03-03-3-apps-and-integrations-changes-in-v3-69-0|3 Apps and
+  Integrations changes in v3.69.0]]'
 - '[[Changes/Cursor/2026-03-03-3-apps-and-integrations-changes-in-2-6|3 Apps and Integrations
   changes in 2.6]]'
 - '[[Changes/Cursor/2026-03-03-mcp-apps-support-interactive-user-interfaces-like-charts-from-amplitude-diagrams|MCP
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-added-enable-claudeai-mcp-servers-false-env-var-to-opt-out-from-making-claude-ai|Added ENABLE_CLAUDEAI_MCP_SERVERS=false env var to opt out from making claude.ai…]]
-- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-added-reload-plugins-command-to-activate-pending-plugin-changes-without-restarti|Added /reload-plugins command to activate pending plugin changes without restarting]]
+- Earlier: 2026-03-03 · Cline · [[Changes/Cline/2026-03-03-3-apps-and-integrations-changes-in-v3-69-0|3 Apps and Integrations changes in v3.69.0]]
+- Later: 2026-03-03 · Gemini CLI · [[Changes/Gemini CLI/2026-03-03-3-apps-and-integrations-changes-in-v0-32-0|3 Apps and Integrations changes in v0.32.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

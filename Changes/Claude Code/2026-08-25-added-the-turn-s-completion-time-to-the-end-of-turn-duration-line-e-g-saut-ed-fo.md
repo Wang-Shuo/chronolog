@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 97ba4ec7ec8870a6ea757eca76236dc4818ee655ba99025f77610ffc3a53a5e2
+machine_hash: c43f7192a7864d34a838278018a65c6ad7b0fed7fea4579738359bed80af5e44
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,12 @@ record:
   title: Added the turn's completion time to the end-of-turn duration line…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-17-origin-repos|Origin Repos]]'
-- '[[Changes/Cursor/2026-08-17-pull-requests|Pull requests]]'
 - '[[Changes/Claude Code/2026-08-21-claude-in-chrome-clear-now-closes-the-session-s-chrome-tab-group-and-empty-group|Claude
   in Chrome]]'
+- '[[Changes/Cline/2026-08-21-show-the-diff-edit-view-for-multi-line-edits-in-files-with-crlf-line-endings|Show
+  the diff edit view for multi-line edits in files with CRLF line endings]]'
+- '[[Changes/Cline/2026-08-23-restore-task-completion-telemetry-for-interactive-sessions-a-share-of-interactiv|Restore
+  task completion telemetry for interactive sessions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0|claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0]]'
 source_type: github_releases
 theme: editor-experience
@@ -81,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-claude-in-chrome-clear-now-closes-the-session-s-chrome-tab-group-and-empty-group|Claude in Chrome]]
+- Earlier: 2026-08-23 · Cline · [[Changes/Cline/2026-08-23-restore-task-completion-telemetry-for-interactive-sessions-a-share-of-interactiv|Restore task completion telemetry for interactive sessions]]
 - Later: 2026-08-27 · Cursor · [[Changes/Cursor/2026-08-27-once-the-agent-s-build-is-to-your-liking-click-the-create-repo-button-to-save-yo|Turn it into a real repo, whenever you want]]
 <!-- chronolog:end -->
 

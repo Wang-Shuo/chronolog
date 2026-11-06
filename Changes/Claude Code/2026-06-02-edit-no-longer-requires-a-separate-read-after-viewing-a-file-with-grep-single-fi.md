@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 845255a04ef4f893a54e6a5bcbb208a2159a87116f1cfc27e79bf161e415702c
+machine_hash: 60ee95799b615cf46146e128d51f920cdd99aaca223edcfeb53a1b9f80fee73f
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: Edit no longer requires a separate Read after viewing a file with `grep`
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-22-diff-detail-view-can-now-be-scrolled-with-the-keyboard-arrows-j-k-pgup-pgdn-spac|/diff
-  detail view can now be scrolled with the keyboard…]]'
-- '[[Changes/Claude Code/2026-05-28-remote-control-autocomplete-now-shows-disconnect-remote-control-when-remote-cont|/remote-control
-  autocomplete now shows "Disconnect Remote Control" when Remote…]]'
-- '[[Changes/Claude Code/2026-05-29-removed-the-ide-for-startup-hint-toast|Removed
-  the "/ide for …" startup hint toast]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-29-2-editor-experience-changes-in-v1-0-56|2
+  Editor Experience changes in v1.0.56]]'
+- '[[Changes/Codex CLI/2026-06-01-2-editor-experience-changes-in-rust-v0-136-0|2 Editor
+  Experience changes in rust-v0.136.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-01-9-editor-experience-changes-in-v1-0-57|9
+  Editor Experience changes in v1.0.57]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a|claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a]]'
 source_type: github_releases
 theme: editor-experience
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-removed-the-ide-for-startup-hint-toast|Removed the "/ide for …" startup hint toast]]
+- Earlier: 2026-06-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-01-9-editor-experience-changes-in-v1-0-57|9 Editor Experience changes in v1.0.57]]
 - Later: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-renamed-windsurf-to-devin-desktop-in-the-ide-menu-terminal-setup-and-scroll-spee|Renamed Windsurf to Devin Desktop in the /ide menu, /terminal-setup…]]
 <!-- chronolog:end -->
 

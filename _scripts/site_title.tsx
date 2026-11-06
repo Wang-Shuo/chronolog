@@ -1,12 +1,13 @@
 import { pathToRoot } from "../quartz/util/path"
 import { classNames } from "../quartz/util/lang"
+import { ACTIVE_PRODUCTS, SITE_TAGLINE } from "./products"
 import {
   QuartzComponent,
   QuartzComponentConstructor,
   QuartzComponentProps,
 } from "../quartz/components/types"
 
-export const TAGLINE = "Tracked changes in ChatGPT, Claude Code and Cursor"
+export const TAGLINE = SITE_TAGLINE
 
 // quartz/ is re-copied from node_modules on install, so site-wide rules live here: this
 // component is on every page. Product colours are defined for later use by content.
@@ -131,6 +132,20 @@ article time {
 article .not-archived {
   color: var(--gray);
 }
+/* Larger portfolios need readable product columns on desktop too. Keep the
+   comparison within Quartz's horizontal scroll container. */
+article .table-container > table:has(th:nth-child(5)) {
+  width: max-content;
+}
+article .table-container > table:has(th:nth-child(5)) :is(td, th) {
+  width: 10rem;
+}
+article .table-container > table:has(th:nth-child(5)) :is(td, th):first-child {
+  position: sticky;
+  left: 0;
+  width: 4.5rem;
+  background: linear-gradient(to left, var(--lightgray) 1px, var(--light) 1px);
+}
 /* Phones: a product column needs ~9rem to read; the table scrolls sideways inside its
    container while the quarter column stays pinned on paper, so a cell never loses its
    row. No shadow (Flat-Paper Rule): a hairline marks the pinned edge. */
@@ -155,7 +170,69 @@ article .not-archived {
     background: linear-gradient(to left, var(--lightgray) 1px, var(--light) 1px);
   }
 }
+/* Inside a timeline year, the fold of fixes, digests and other changes reads one step
+   below the year itself. */
+article details.disclosure details.disclosure > summary {
+  font-weight: 400;
+  color: var(--darkgray);
+}
+/* Its entries indent to the summary text, so where the fold ends stays visible. */
+article details.disclosure details.disclosure > :not(summary) {
+  margin-left: 1.35rem;
+}
+/* Timeline filter: native radio buttons, so the keyboard and screen readers get a
+   standard radio group; the chosen product is set in Heading Ink at 600. */
+article fieldset.timeline-filter {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25rem 1.25rem;
+  margin: 1rem 0;
+  padding: 0;
+  border: 0;
+}
+article fieldset.timeline-filter legend {
+  float: left;
+  padding: 0;
+  margin-right: 0.25rem;
+  color: var(--gray);
+}
+article fieldset.timeline-filter label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  min-height: 2rem;
+  cursor: pointer;
+  color: var(--darkgray);
+}
+article fieldset.timeline-filter label:has(input:checked) {
+  color: var(--dark);
+  font-weight: 600;
+}
+article fieldset.timeline-filter input {
+  margin: 0;
+  accent-color: var(--dark);
+}
+${timelineFilterRules(ACTIVE_PRODUCTS.length)}
 `
+
+/** With the n-th product chosen, hide every timeline entry, month, year and fold that
+ * holds none of its entries. writer.py marks each entry's product as ``tl-p<n>`` and
+ * numbers the radio buttons alike. The catalog supplies the number of rules. */
+function timelineFilterRules(products: number): string {
+  return Array.from({ length: products }, (_, index) => {
+    const only = `article:has(#tl-only-${index + 1}:checked) .timeline`
+    const mine = `.tl-p${index + 1}`
+    return [
+      `${only} li:not(:has(${mine})),`,
+      `${only} ul:not(:has(${mine})),`,
+      `${only} p:has(+ ul):not(:has(+ ul ${mine})),`,
+      `${only} details:not(:has(${mine})) {`,
+      `  display: none;`,
+      `}`,
+    ].join("\n")
+  }).join("\n")
+}
 
 // Same title markup and classes as Quartz's PageTitle, plus a one-line tagline.
 export default (() => {

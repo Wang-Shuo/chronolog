@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d5b602fcd84533be20ef8bfa82296ce74b87e9e29c73074b72c85cf0533d0859
+machine_hash: a08a1bc2dce9b86738a24b0290acc64385b496cbf085adb17299b9988224b027
 product: cursor
 product_name: Cursor
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2023-05-17 · Cursor · [[Changes/Cursor/2023-05-17-diff-generate-improvements|Diff/Generate improvements]]
-- Later: 2023-07-03 · Cursor · [[Changes/Cursor/2023-07-03-long-code-selections-no-longer-brick-the-editor|Long code selections no longer brick the editor]]
+- Later: 2023-06-25 · Aider · [[Changes/Aider/2023-06-25-2-editor-experience-changes-in-v0-7-0|2 Editor Experience changes in v0.7.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

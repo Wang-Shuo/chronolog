@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1d7bc6a615d57fc925e67147b7f2f3b6f49581d0e46bdb260a76f49c42909ecd
+machine_hash: 38c6b9ad72d4187c7952ad69afd8c1f2b91bfb8460d16d522692be41b70f8852
 product: cursor
 product_name: Cursor
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-agentic-commerce-protocol|Agentic Commerce Protocol]]
-- Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-browser-ga-1124ce|Browser (GA)]]
+- Later: 2025-10-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-01-improved-the-experience-of-writing-prompts-while-the-agent-is-running-up-down-ar|Improved the experience of writing prompts while the agent is running -- up/down…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

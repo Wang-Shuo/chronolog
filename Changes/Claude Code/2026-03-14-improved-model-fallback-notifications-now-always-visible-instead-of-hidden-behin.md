@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 96c98b668d4c2468a57d67b28bed400dedfb2a1997b02f3d2d5933f32493d4eb
+machine_hash: 49eb5936bd84be23c08b63d462d34a070e432c7fbbd273ab4a13cc1e66c6111f
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: Improved model fallback notifications
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-11-as-of-march-11-2026-gpt-5-1-models-are-no-longer-available-in-chatgpt-this-appli|Retiring
-  GPT-5.1 models]]'
-- '[[Changes/Claude Code/2026-03-11-2-model-support-changes-in-v2-1-73|2 Model Support
-  changes in v2.1.73]]'
+- '[[Changes/Cline/2026-03-12-2-model-support-changes-in-v3-72-0|2 Model Support changes
+  in v3.72.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-13-setting-claude-sonnet-4-6-as-the-default-model-is-now-preserved-correctly|Setting
+  claude-sonnet-4.6 as the default model is now preserved correctly]]'
 - '[[Changes/Claude Code/2026-03-14-added-effort-slash-command-to-set-model-effort-level|Added
   /effort slash command to set model effort level]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc]]'
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-2-model-support-changes-in-v2-1-73|2 Model Support changes in v2.1.73]]
+- Earlier: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-setting-claude-sonnet-4-6-as-the-default-model-is-now-preserved-correctly|Setting claude-sonnet-4.6 as the default model is now preserved correctly]]
 - Later: 2026-03-16 · ChatGPT · [[Changes/ChatGPT/2026-03-16-we-re-rolling-out-an-update-to-gpt-5-3-instant-that-improves-follow-up-tone-and|GPT-5.3 Instant update]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5d648144733f93053e4e301ee8dddc06f84ef42fe71a3025783c7c3ab5a7b53d
+machine_hash: 27f9cf34fff635dee93ffb0fe80b9aa5baa866939cd328f53f2399ae54fa8423
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Interface Experience changes in v2.1.111
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-15-added-tui-command-and-tui-setting-run-tui-fullscreen-to-switch-to-flicker-free-r|Added
-  /tui command and tui setting]]'
 - '[[Changes/Claude Code/2026-04-15-2-interface-experience-changes-in-v2-1-110|2 Interface
   Experience changes in v2.1.110]]'
 - '[[Changes/Claude Code/2026-04-15-improved-the-extended-thinking-indicator-with-a-rotating-progress-hint|Improved
   the extended-thinking indicator with a rotating progress hint]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-15-status-bar-shows-files-and-issues-hints-while-typing-and-help-hint-when-the-slas|Status
+  bar shows @files and ♯issues hints while typing, and /help hint…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'
 source_type: github_releases
 theme: interface-experience
@@ -97,8 +97,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.111
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-improved-the-extended-thinking-indicator-with-a-rotating-progress-hint|Improved the extended-thinking indicator with a rotating progress hint]]
-- Later: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-3-interface-experience-changes-in-v2-1-113|3 Interface Experience changes in v2.1.113]]
+- Earlier: 2026-04-15 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-15-status-bar-shows-files-and-issues-hints-while-typing-and-help-hint-when-the-slas|Status bar shows @files and ♯issues hints while typing, and /help hint…]]
+- Later: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-2-interface-experience-changes-in-v1-0-28|2 Interface Experience changes in v1.0.28]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

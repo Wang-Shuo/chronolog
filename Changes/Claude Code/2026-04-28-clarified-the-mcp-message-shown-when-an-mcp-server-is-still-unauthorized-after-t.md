@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8cf566b9fd4d3e7842a299d4ccd138bf908f35519c53d6e120bceca2bbb12bf2
+machine_hash: 7e37210861e64c40154fded2e40be500aa6be3bc47ff950b93e1e38d26ed7a4e
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,12 +54,12 @@ record:
     after…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-04-added-interactive-bedrock-setup-wizard-accessible-from-the-login-screen-when-sel|Added
-  interactive Bedrock setup wizard accessible from the login screen…]]'
-- '[[Changes/Claude Code/2026-04-09-added-interactive-google-vertex-ai-setup-wizard-accessible-from-the-login-screen|Added
-  interactive Google Vertex AI setup wizard accessible from the login screen…]]'
 - '[[Changes/ChatGPT/2026-04-22-we-re-launching-chatgpt-for-clinicians-a-free-version-of-chatgpt-for-verified-cl|ChatGPT
   for Clinicians]]'
+- '[[Changes/Gemini CLI/2026-04-23-docs-correct-documentation-for-enforced-authentication-type-by-cocosheng-g-in-ht|docs:
+  correct documentation for enforced authentication type]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-23-2-account-and-access-changes-in-v1-0-35|2
+  Account and Access changes in v1.0.35]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196|claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196]]'
 source_type: github_releases
 theme: account-access
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-04-22 · ChatGPT · [[Changes/ChatGPT/2026-04-22-we-re-launching-chatgpt-for-clinicians-a-free-version-of-chatgpt-for-verified-cl|ChatGPT for Clinicians]]
-- Later: 2026-04-30 · ChatGPT · [[Changes/ChatGPT/2026-04-30-we-re-rolling-out-advanced-account-security-an-optional-setting-for-personal-cha|Advanced Account Security in ChatGPT]]
+- Earlier: 2026-04-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-23-2-account-and-access-changes-in-v1-0-35|2 Account and Access changes in v1.0.35]]
+- Later: 2026-04-28 · Gemini CLI · [[Changes/Gemini CLI/2026-04-28-docs-migrate-installation-and-authentication-to-mdx-with-tabbed-layouts-by-g-sam|docs: migrate installation and authentication to mdx with tabbed layouts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

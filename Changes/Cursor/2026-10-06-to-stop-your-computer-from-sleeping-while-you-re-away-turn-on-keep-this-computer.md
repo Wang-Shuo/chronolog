@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 138effbb9a4544078b3a62c3100c7e818204bf47fbb7ff33a92a67c88583800a
+machine_hash: ae85759804704ea8a7345988e17ce5d3b10af6b9acb7a7faec1fb4b69df07b61
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,12 @@ record:
   title: Keep your computer awake
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-29-6-mobile-and-desktop-changes-in-v2-1-285|6 Mobile
-  and Desktop changes in v2.1.285]]'
-- '[[Changes/Claude Code/2026-10-01-2-mobile-and-desktop-changes-in-v2-1-287|2 Mobile
-  and Desktop changes in v2.1.287]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-01-sandboxed-commands-run-on-windows-versions-without-filesystem-enumeration-suppor|Sandboxed
+  commands run on Windows versions without filesystem enumeration support…]]'
 - '[[Changes/ChatGPT/2026-10-02-finances-in-chatgpt-is-rolling-out-to-free-and-go-users-in-the-u-s-on-web-ios-an|Finances
   expands to Free and Go users]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-05-sandboxed-commands-on-windows-write-temporary-files-to-the-granted-temp-director|Sandboxed
+  commands on Windows write temporary files to the granted temp directory…]]'
 source_release: '[[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd]]'
 source_type: cursor_changelog
 theme: mobile-desktop
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-02 · ChatGPT · [[Changes/ChatGPT/2026-10-02-finances-in-chatgpt-is-rolling-out-to-free-and-go-users-in-the-u-s-on-web-ios-an|Finances expands to Free and Go users]]
+- Earlier: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-sandboxed-commands-on-windows-write-temporary-files-to-the-granted-temp-director|Sandboxed commands on Windows write temporary files to the granted temp directory…]]
 - Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-changed-the-claude-apps-gateway-to-start-with-a-warning-and-serve-a-desktop-poli|Changed the Claude apps gateway to start with a warning and serve a desktop policy…]]
 <!-- chronolog:end -->
 

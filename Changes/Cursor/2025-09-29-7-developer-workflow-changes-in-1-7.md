@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2b8b2d1b5329ded852865fb7e093e21a096aa24fbb8330cef7cdf7f82a39741b
+machine_hash: b720313691ae5c0210b3727fdc15d19290ffb680fe970055f8a613fdae26915c
 product: cursor
 product_name: Cursor
 record:
@@ -53,10 +53,12 @@ record:
   title: 7 Developer Workflow changes in 1.7
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-12-improved-terminal-for-agent|Improved terminal for Agent]]'
-- '[[Changes/Cursor/2025-09-12-5-developer-workflow-changes-in-1-6|5 Developer Workflow
-  changes in 1.6]]'
-- '[[Changes/Cursor/2025-09-12-custom-slash-commands-b79c4b|Custom slash commands]]'
+- '[[Changes/Gemini CLI/2025-09-24-10-developer-workflow-changes-in-v0-6-0|10 Developer
+  Workflow changes in v0.6.0]]'
+- '[[Changes/Codex CLI/2025-09-26-3-developer-workflow-changes-in-rust-v0-42-0|3 Developer
+  Workflow changes in rust-v0.42.0]]'
+- '[[Changes/GitHub Copilot CLI/2025-09-26-improved-powershell-parsing-of-foreach-object-and-detection-of-command-name-expr|Improved
+  PowerShell parsing of ForEach-Object and detection of command name…]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -117,8 +119,8 @@ Source: https://cursor.com/changelog/1-7
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-custom-slash-commands-b79c4b|Custom slash commands]]
-- Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-improved-code-review|Improved Code Review]]
+- Earlier: 2025-09-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-26-improved-powershell-parsing-of-foreach-object-and-detection-of-command-name-expr|Improved PowerShell parsing of ForEach-Object and detection of command name…]]
+- Later: 2025-09-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-29-added-glob-matching-to-shell-rules-when-using-allow-tool-and-deny-tool-you-can-n|Added glob matching to shell rules]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

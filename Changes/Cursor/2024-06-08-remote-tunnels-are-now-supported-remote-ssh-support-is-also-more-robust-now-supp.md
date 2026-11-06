@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ba6f0cc8312bdb835e52c9c261fe9f0c4245b3bb0124924bca61f2421c6725a1
+machine_hash: 5f76424ac815e247156fbbe7b25e1f6244e410111eba53cf142f3069c8460f1a
 product: cursor
 product_name: Cursor
 record:
@@ -44,11 +44,12 @@ record:
   title: Remote tunnels are now supported!
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-06-improves-the-stability-of-wsl|Improves the stability
-  of WSL]]'
-- '[[Changes/Cursor/2024-01-15-working-wsl-codebase-search|Working WSL codebase search]]'
-- '[[Changes/Cursor/2024-02-15-linter-you-can-now-turn-on-an-ai-linter-in-the-more-tab-beside-chat-it-ll-scan-y|Linter:
-  You can now turn on an AI linter in the "More" tab beside Chat]]'
+- '[[Changes/Aider/2024-05-10-2-developer-workflow-changes-in-v0-34-0|2 Developer
+  Workflow changes in v0.34.0]]'
+- '[[Changes/Aider/2024-05-22-4-developer-workflow-changes-in-v0-36-0|4 Developer
+  Workflow changes in v0.36.0]]'
+- '[[Changes/OpenHands/2024-06-04-windows-doc-extended-with-more-wsl-hints-by-tobitege-in-https-github-com-opendev|Windows
+  doc extended with more WSL hints]]'
 source_release: '[[Releases/Cursor/cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90|cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -79,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-02-15 · Cursor · [[Changes/Cursor/2024-02-15-linter-you-can-now-turn-on-an-ai-linter-in-the-more-tab-beside-chat-it-ll-scan-y|Linter: You can now turn on an AI linter in the "More" tab beside Chat]]
-- Later: 2024-07-03 · Cursor · [[Changes/Cursor/2024-07-03-when-the-chat-suggests-a-code-block-click-apply-to-instantly-see-the-change-to-t|When the chat suggests a code block, click "Apply" to instantly see the change…]]
+- Earlier: 2024-06-04 · OpenHands · [[Changes/OpenHands/2024-06-04-windows-doc-extended-with-more-wsl-hints-by-tobitege-in-https-github-com-opendev|Windows doc extended with more WSL hints]]
+- Later: 2024-06-17 · Aider · [[Changes/Aider/2024-06-17-2-developer-workflow-changes-in-v0-38-0|2 Developer Workflow changes in v0.38.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

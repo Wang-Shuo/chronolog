@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7b33ce4263a2c97061467a1e5a5311b6b3babfdfa39c195fcfe2ed0ac1553803
+machine_hash: 69f643edead9f575e2a2e2816e5c12a5725c51106508feb1030753f38a19f760
 product: cursor
 product_name: Cursor
 record:
@@ -50,9 +50,10 @@ record:
   title: Existing Free users in India can upgrade their plan from the dashboard
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-17-typing-resume-in-the-agent-view-now-opens-a-picker-of-past-sessions-including-se|Typing
-  /resume in the agent view now opens a picker of past sessions]]'
-- '[[Changes/Cursor/2026-07-17-interaction-improvements-dee44a|Interaction improvements]]'
+- '[[Changes/Codex CLI/2026-07-21-18-interface-experience-changes-in-rust-v0-145-0|18
+  Interface Experience changes in rust-v0.145.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-23-add-model-plan-or-model-plan-to-pick-a-model-used-while-in-plan-mode-pass-a-mode|Add
+  /model plan (or /model --plan) to pick a model used while in plan mode]]'
 - '[[Changes/Claude Code/2026-07-24-2-interface-experience-changes-in-v2-1-219|2 Interface
   Experience changes in v2.1.219]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df|cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df]]'
@@ -89,7 +90,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-24 · Claude Code · [[Changes/Claude Code/2026-07-24-2-interface-experience-changes-in-v2-1-219|2 Interface Experience changes in v2.1.219]]
-- Later: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-vscode-added-focus-view-a-chat-menu-toggle-that-hides-tool-activity-behind-an-ex|VSCode Added Focus view]]
+- Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-8-interface-experience-changes-in-rust-v0-146-0|8 Interface Experience changes in rust-v0.146.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e431085dcb6ec482721c214991a2e5a9c30947b86ccc130577b9f9b2b2783e2a
+machine_hash: ee60efefab272597f9401c3fd11f419524af129c45b294fac95d7403ebe731dd
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     all tools)
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-04-added-plugin-list-command-to-list-installed-plugins-with-enabled-disabled-filter|Added
-  /plugin list command to list installed plugins…]]'
-- '[[Changes/Cursor/2026-06-04-we-ve-shipped-a-batch-of-new-functionality-across-the-typescript-and-python-sdks|We''ve
-  shipped a batch of new functionality across the TypeScript and Python SDKs]]'
 - '[[Changes/Cursor/2026-06-04-2-apps-and-integrations-changes-in-custom-stores-custom-tools|2
   Apps and Integrations changes in Custom stores, custom tools…]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-05-mcp-tools-added-or-removed-by-a-server-mid-turn-are-now-available-immediately-in|MCP
+  tools added or removed by a server mid-turn are now available immediately…]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-05-10-apps-and-integrations-changes-in-v1-0-60|10
+  Apps and Integrations changes in v1.0.60]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-06-v2-1-166-github-335118845-ef990727|claude-code-2026-06-06-v2-1-166-github-335118845-ef990727]]'
 source_type: github_releases
 theme: apps-integrations
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-2-apps-and-integrations-changes-in-custom-stores-custom-tools|2 Apps and Integrations changes in Custom stores, custom tools…]]
-- Later: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-3-apps-and-integrations-changes-in-v2-1-172|3 Apps and Integrations changes in v2.1.172]]
+- Earlier: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-10-apps-and-integrations-changes-in-v1-0-60|10 Apps and Integrations changes in v1.0.60]]
+- Later: 2026-06-08 · Codex CLI · [[Changes/Codex CLI/2026-06-08-19-apps-and-integrations-changes-in-rust-v0-138-0|19 Apps and Integrations changes in rust-v0.138.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

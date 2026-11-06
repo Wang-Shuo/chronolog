@@ -1,0 +1,110 @@
+---
+card_id: codex-cli-2025-12-02-84da7d
+date: '2025-12-02'
+description: 'Codex CLI · 2025-12-02 · Apps and Integrations: 3 changes in 0.64.0
+  — MCP startup tolerates missing type fields, stream error messages are clarified,
+  and rmcp…'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 985
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: apps-integrations
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: digest
+machine_hash: 800f633cde903f76c2ade5c9b1f84add8b0c38bc5e9c50400ca0c3363578e6c6
+product: codex-cli
+product_name: Codex CLI
+record:
+  card_id: codex-cli-2025-12-02-84da7d
+  comparison: ''
+  date: '2025-12-02'
+  description: 'Codex CLI — 0.64.0: 3 Apps and Integrations changes'
+  evidence:
+  - quote: MCP startup tolerates missing type fields, stream error messages are clarified,
+      and rmcp nix output hash issues are resolved.
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.64.0
+  - quote: 'support MCP elicitations by @nornagon-openai in #6947'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.64.0
+  - quote: 'feat: declare server capability in shell-tool-mcp by @bolinfest in #7112'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.64.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: digest
+  product: codex-cli
+  product_name: Codex CLI
+  slug: 3-apps-and-integrations-changes-in-rust-v0-64-0
+  source_release: codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886
+  source_type: github_releases
+  theme: apps-integrations
+  title: 3 Apps and Integrations changes in rust-v0.64.0
+  type: change
+related_changes:
+- '[[Changes/Gemini CLI/2025-11-26-feat-zed-integration-use-default-model-routing-for-zed-integration-by-benbrandt|feat(zed-integration):
+  Use default model routing for Zed integration]]'
+- '[[Changes/Cline/2025-11-27-feat-hooks-implement-taskcomplete-hook-by-candieduniverse-in-https-github-com-cl|feat(hooks):
+  Implement TaskComplete hook]]'
+- '[[Changes/Cline/2025-12-02-feat-cerebras-add-x-cerebras-3rd-party-integration-header-by-sebastiand-cerebras|feat(cerebras):
+  add X-Cerebras-3rd-Party-Integration header]]'
+source_release: '[[Releases/Codex CLI/codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886|codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886]]'
+source_type: github_releases
+theme: apps-integrations
+title: 3 Apps and Integrations changes in rust-v0.64.0
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 3 Apps and Integrations changes in rust-v0.64.0
+
+**Codex CLI** · 2025-12-02 · [[Themes/apps-integrations|Apps and Integrations]] · Digest · [Official source](https://github.com/openai/codex/releases/tag/rust-v0.64.0) · from [[Releases/Codex CLI/codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886|0.64.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+## Changes in this digest
+
+> MCP startup tolerates missing type fields, stream error messages are clarified, and rmcp nix output hash issues are resolved.
+
+> support MCP elicitations by @nornagon-openai in #6947
+
+> feat: declare server capability in shell-tool-mcp by @bolinfest in #7112
+
+Source: https://github.com/openai/codex/releases/tag/rust-v0.64.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Codex CLI/2025-12-02-2-model-support-changes-in-rust-v0-64-0|2 Model Support changes in rust-v0.64.0]] · Model Support
+- [[Changes/Codex CLI/2025-12-02-5-context-window-changes-in-rust-v0-64-0|5 Context Window changes in rust-v0.64.0]] · Context Window
+- [[Changes/Codex CLI/2025-12-02-feat-support-login-as-an-option-on-shell-tool-mcp-by-bolinfest-in-7120|feat: support login as an option on shell-tool-mcp by @bolinfest in ♯7120]] · Account and Access
+- [[Changes/Codex CLI/2025-12-02-9-safety-and-privacy-changes-in-rust-v0-64-0|9 Safety and Privacy changes in rust-v0.64.0]] · Safety and Privacy
+- [[Changes/Codex CLI/2025-12-02-powershell-apply-patch-parsing-is-corrected-and-apply-patch-tests-now-cover-shel|PowerShell apply_patch parsing is corrected, and apply_patch tests now cover…]] · Agent Mode
+- [[Changes/Codex CLI/2025-12-02-4-developer-workflow-changes-in-rust-v0-64-0|4 Developer Workflow changes in rust-v0.64.0]] · Developer Workflow
+- [[Changes/Codex CLI/2025-12-02-execution-gains-an-experimental-exp-model-unified-exec-pruning-to-limit-session|Execution gains an experimental “exp” model, unified exec pruning to limit session…]] · Mobile and Desktop
+- [[Changes/Codex CLI/2025-12-02-3-editor-experience-changes-in-rust-v0-64-0|3 Editor Experience changes in rust-v0.64.0]] · Editor Experience
+- [[Changes/Codex CLI/2025-12-02-chore-dedup-unified-exec-waited-rendering-by-jif-oai-in-7256|chore: dedup unified exec "waited" rendering by @jif-oai in ♯7256]] · Interface Experience
+- [[Changes/Codex CLI/2025-12-02-46-other-changes-in-rust-v0-64-0|46 other changes in rust-v0.64.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2025-12-02 · Cline · [[Changes/Cline/2025-12-02-feat-cerebras-add-x-cerebras-3rd-party-integration-header-by-sebastiand-cerebras|feat(cerebras): add X-Cerebras-3rd-Party-Integration header]]
+- Later: 2025-12-02 · Gemini CLI · [[Changes/Gemini CLI/2025-12-02-9-apps-and-integrations-changes-in-v0-19-0|9 Apps and Integrations changes in v0.19.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20codex-cli-2025-12-02-84da7d&body=Card%3A%20Changes%2FCodex%20CLI%2F2025-12-02-3-apps-and-integrations-changes-in-rust-v0-64-0.md%0ACard%20ID%3A%20codex-cli-2025-12-02-84da7d%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fopenai%2Fcodex%2Freleases%2Ftag%2Frust-v0.64.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

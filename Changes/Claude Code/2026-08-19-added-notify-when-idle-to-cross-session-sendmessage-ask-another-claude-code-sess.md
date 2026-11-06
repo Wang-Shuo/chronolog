@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1fec5c41cbd18fdb3c8ecf64d373ce49abfa822fb6cf47d0b31f2ea75be643a1
+machine_hash: 559fac7cd1cc06dccbe90549bdda0a78e2845f98d65fa0a7985a9b25ec8680c8
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Added `notify_when_idle` to cross-session `SendMessage`
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-14-work-in-the-built-in-browser-or-chrome-browser-actions-are-available-in-the-linu|Work
-  in the built-in browser or Chrome]]'
 - '[[Changes/ChatGPT/2026-08-14-learning-projects-and-personalized-suggestions|Learning,
   Projects, and personalized suggestions]]'
 - '[[Changes/ChatGPT/2026-08-14-use-chatgpt-and-codex-on-linux-the-desktop-app-is-now-available-globally-in-publ|Use
   ChatGPT and Codex on Linux]]'
+- '[[Changes/Codex CLI/2026-08-18-3-mobile-and-desktop-changes-in-rust-v0-148-0|3
+  Mobile and Desktop changes in rust-v0.148.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79|claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-14 · ChatGPT · [[Changes/ChatGPT/2026-08-14-use-chatgpt-and-codex-on-linux-the-desktop-app-is-now-available-globally-in-publ|Use ChatGPT and Codex on Linux]]
+- Earlier: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-3-mobile-and-desktop-changes-in-rust-v0-148-0|3 Mobile and Desktop changes in rust-v0.148.0]]
 - Later: 2026-08-20 · ChatGPT · [[Changes/ChatGPT/2026-08-20-keep-pinned-chats-in-sync-pinned-chats-now-stay-in-sync-between-the-chatgpt-desk|Keep pinned chats in sync]]
 <!-- chronolog:end -->
 

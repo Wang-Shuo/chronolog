@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e8b0b7bfcc35332a2dfa9533df43ce63cdcbe175598217098c7b00c0f9e6e0cb
+machine_hash: 2e630c3b2b3c2c88230ca039114c2f20e193667ac2be095abf24a26de4986f8a
 product: cursor
 product_name: Cursor
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2023-06-06 · Cursor · [[Changes/Cursor/2023-06-06-codebase-context-v1-bd6ee5|Codebase Context v1]]
-- Later: 2023-07-19 · Cursor · [[Changes/Cursor/2023-07-19-advanced-context-controls-only-show-up-if-you-have-indexed-your-codebase|Advanced context controls only show up if you have indexed your codebase]]
+- Later: 2023-06-07 · Aider · [[Changes/Aider/2023-06-07-2-context-window-changes-in-v0-5-0|2 Context Window changes in v0.5.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

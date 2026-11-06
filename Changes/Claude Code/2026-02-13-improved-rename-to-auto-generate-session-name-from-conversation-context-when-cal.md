@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a084d6255cbbec438f33729137e274dfb93c185445c81cb00a8fe6fad3cfb240
+machine_hash: d9018f009b5f11fd0b10a3b74661597bd0a787ade714a62886dd8378d99d7dc8
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,10 @@ record:
   title: Improved `/rename` to auto-generate session name from conversation context…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-03-added-pages-parameter-to-the-read-tool-for-pdfs-allowing-specific-page-ranges-to|Added
-  pages parameter to the Read tool for PDFs, allowing specific page ranges…]]'
-- '[[Changes/Claude Code/2026-02-05-2-context-window-changes-in-v2-1-32|2 Context
-  Window changes in v2.1.32]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-11-expose-session-context-in-session-list-sdk-response|Expose
+  session context in session.list SDK response]]'
+- '[[Changes/Codex CLI/2026-02-12-3-context-window-changes-in-rust-v0-100-0|3 Context
+  Window changes in rust-v0.100.0]]'
 - '[[Changes/ChatGPT/2026-02-13-attach-up-to-20-files-in-a-single-message-you-can-now-upload-up-to-20-files-at-o|Attach
   up to 20 files in a single message]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8|claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8]]'
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-attach-up-to-20-files-in-a-single-message-you-can-now-upload-up-to-20-files-at-o|Attach up to 20 files in a single message]]
-- Later: 2026-02-17 · Cursor · [[Changes/Cursor/2026-02-17-agents-can-now-search-past-conversations-and-use-chat-history-as-context|Agents can now search past conversations and use chat history as context]]
+- Later: 2026-02-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-14-shell-mode-pastes-raw-text-instead-of-paste-tokens|Shell mode pastes raw text instead of paste tokens]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

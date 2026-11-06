@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4773ea1d1ba73f7cb34da600e75a6148257dce6d3949b0e80c4c677561ef17cf
+machine_hash: d1ceb91d8b07ad8f5fa630c5523cdf29d28ec7dd843020ab30974e0c9b4c56c6
 product: cursor
 product_name: Cursor
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-long-files-in-chat|Long files in chat]]
-- Later: 2023-11-10 · Cursor · [[Changes/Cursor/2023-11-10-copilot-beta-this-is-an-add-on-to-copilot-that-suggests-diffs-around-your-cursor|Copilot++ (beta): this is an "add-on" to Copilot that suggests diffs around…]]
+- Later: 2023-11-07 · Aider · [[Changes/Aider/2023-11-07-2-context-window-changes-in-v0-17-0|2 Context Window changes in v0.17.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

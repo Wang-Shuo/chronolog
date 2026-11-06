@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e1f65e3a5459f059fc5acb7bb9df0ae06338473f5f057aedac3ca6a35166ecc8
+machine_hash: c7d007baf9a691df27d7e36c60d231ca87bc7e6cade4b2f4da3e34600835749a
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
   title: 5 Developer Workflow changes in v2.1.84
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-17-background-bash-tasks-are-now-killed-if-output-exceeds-5gb-preventing-runaway-pr|Background
-  bash tasks are now killed if output exceeds 5GB, preventing runaway…]]'
-- '[[Changes/Claude Code/2026-03-17-terminal-notifications-iterm2-kitty-ghostty-popups-progress-bar-now-reach-the-ou|Terminal
-  notifications (iTerm2/Kitty/Ghostty popups, progress bar) now reach…]]'
-- '[[Changes/Claude Code/2026-03-20-4-developer-workflow-changes-in-v2-1-81|4 Developer
-  Workflow changes in v2.1.81]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-20-2-developer-workflow-changes-in-v1-0-10|2
+  Developer Workflow changes in v1.0.10]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-23-2-developer-workflow-changes-in-v1-0-11|2
+  Developer Workflow changes in v1.0.11]]'
+- '[[Changes/Gemini CLI/2026-03-24-feat-skills-improve-async-pr-review-workflow-and-logging-by-mattkorwel-in-https|feat(skills):
+  improve async-pr-review workflow and logging]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa|claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa]]'
 source_type: github_releases
 theme: developer-workflow
@@ -105,7 +105,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.84
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-20 · Claude Code · [[Changes/Claude Code/2026-03-20-4-developer-workflow-changes-in-v2-1-81|4 Developer Workflow changes in v2.1.81]]
+- Earlier: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-feat-skills-improve-async-pr-review-workflow-and-logging-by-mattkorwel-in-https|feat(skills): improve async-pr-review workflow and logging]]
 - Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-improved-powershell-dangerous-command-detection|Improved PowerShell dangerous command detection]]
 <!-- chronolog:end -->
 

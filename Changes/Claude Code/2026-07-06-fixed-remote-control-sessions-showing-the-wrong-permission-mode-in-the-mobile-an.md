@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 0b1fc39104c77f4060e571bd472609e54cc2a8c2267a00fa4030a2712b08aca8
+machine_hash: c266ed6f968dda943dbfc77a5c43ee6d920dff3526e9107e6e7f692aeadbfd8d
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,10 +53,10 @@ record:
     mobile…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-26-fixed-external-plugins-enabled-only-by-project-claude-settings-json-not-requirin|Fixed
-  external plugins enabled only by project .claude/settings.json not requiring…]]'
-- '[[Changes/Claude Code/2026-06-29-security-claude-mcp-list-get-no-longer-spawn-mcp-json-servers-that-a-repo-self-a|Security:
-  claude mcp list/get no longer spawn .mcp.json servers that a repo…]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-30-3-safety-and-privacy-changes-in-v1-0-66|3
+  Safety and Privacy changes in v1.0.66]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-01-4-safety-and-privacy-changes-in-v1-0-68|4
+  Safety and Privacy changes in v1.0.68]]'
 - '[[Changes/Claude Code/2026-07-03-changed-the-default-permission-mode-to-manual-across-the-cli-help-vs-code-and-je|Changed
   the "default" permission mode to "Manual" across the CLI, --help, VS Code…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8|claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-changed-the-default-permission-mode-to-manual-across-the-cli-help-vs-code-and-je|Changed the "default" permission mode to "Manual" across the CLI, --help, VS Code…]]
-- Later: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-added-a-grey-badge-to-the-footer-when-in-manual-permission-mode-making-the-activ|Added a grey ⏸ badge to the footer when in manual permission mode, making the active…]]
+- Later: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-4-safety-and-privacy-changes-in-1-9-0|4 Safety and Privacy changes in 1.9.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

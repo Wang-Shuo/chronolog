@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: f18c6a1ecaf676922f3c73fe621f0b81f79c5fc63b9f9f814493811933124a56
+machine_hash: 65f77af6c77ccb72450574b6db089f27c41ff2897dcb94fbb52f2b8b5bf35920
 product: cursor
 product_name: Cursor
 record:
@@ -49,11 +49,12 @@ record:
   title: Usage and pricing visibility
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-this-release-introduces-chat-tabs-for-parallel-conversations-a-redesignedmodes-s|Cursor
-  introduces chat tabs for parallel conversations, a redesignedmodes system…]]'
-- '[[Changes/Cursor/2025-05-15-simpler-unified-pricing-6a915c|Simpler, unified pricing]]'
-- '[[Changes/Cursor/2025-05-15-introducing-unified-request-based-pricing-max-mode-for-all-top-models-and-backgr|Introducing
-  unified request-based pricing, Max Mode for all top models…]]'
+- '[[Changes/Cline/2025-07-11-supporting-buy-credits-url-response-from-backend-by-pashpashpash-in-https-github|supporting
+  buy_credits_url response from backend]]'
+- '[[Changes/Cline/2025-07-15-removing-reasoning-ux-for-grok-4-models-and-correct-pricing-by-arafatkatze-in-ht|Removing
+  reasoning UX for Grok 4 models and correct pricing]]'
+- '[[Changes/Cline/2025-07-31-adding-redirecturl-to-credits-purchasing-experience-by-pashpashpash-in-https-git|adding
+  redirectUrl to credits purchasing experience]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889|cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889]]'
 source_type: cursor_changelog
 theme: pricing-model
@@ -93,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-introducing-unified-request-based-pricing-max-mode-for-all-top-models-and-backgr|Introducing unified request-based pricing, Max Mode for all top models…]]
+- Earlier: 2025-07-31 · Cline · [[Changes/Cline/2025-07-31-adding-redirecturl-to-credits-purchasing-experience-by-pashpashpash-in-https-git|adding redirectUrl to credits purchasing experience]]
 - Later: 2025-08-18 · ChatGPT · [[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially-e5f740|ChatGPT launches ChatGPT Go, a new low-cost subscription plan]]
 <!-- chronolog:end -->
 

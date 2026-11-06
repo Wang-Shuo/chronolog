@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f6bf4846d7c3682a1b5e26c555309dcbb1859a67dfb0d95986c1cb24c93e65d8
+machine_hash: 3be48aa333f2d3d146a070deca43e7f202799a86963960c4665a269469818090
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2025-07-24 · ChatGPT · [[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2|Canva and Notion connectors (Pro)]]
-- Later: 2025-09-16 · ChatGPT · [[Changes/ChatGPT/2025-09-16-we-ve-made-further-improvements-to-search-in-chatgpt-making-results-more-accurat|ChatGPT makes further improvements to search, making results more accurate…]]
+- Later: 2025-08-18 · Gemini CLI · [[Changes/Gemini CLI/2025-08-18-feat-core-migrate-web-search-write-file-and-discovered-tool-by-joshualitt-in-htt|feat(core): Migrate web-search, write-file, and discovered-tool]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

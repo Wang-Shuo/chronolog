@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c05a5dbfe5b9e9e380c7781698e10b7009d61db138bf0bc08ee7965306cc1024
+machine_hash: e068764ce483feb79f0285d72b5ef67760aceee330d7a4e0e5251689c0f02037
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,11 @@ record:
   title: 2 Agent Mode changes in v2.1.311
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-21-improved-fork-subagents-launched-together-each-is-now-told-which-launch-is-its-o|Improved
-  fork subagents launched together]]'
-- '[[Changes/Claude Code/2026-10-22-changed-the-claude-api-skill-to-build-managed-agents-subagent-teams-on-multiagen|Changed
-  the /claude-api skill to build Managed Agents subagent teams…]]'
-- '[[Changes/Claude Code/2026-10-23-2-agent-mode-changes-in-v2-1-310|2 Agent Mode
-  changes in v2.1.310]]'
+- '[[Changes/Codex CLI/2026-10-23-13-agent-mode-changes-in-rust-v0-164-0|13 Agent
+  Mode changes in rust-v0.164.0]]'
+- '[[Changes/Windsurf/2026-10-23-new-agent-window|New Agent Window]]'
+- '[[Changes/Windsurf/2026-10-23-3-agent-mode-changes-in-v3-11-212|3 Agent Mode changes
+  in v3.11.212]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-26-v2-1-311-github-424682562-151da26b|claude-code-2026-10-26-v2-1-311-github-424682562-151da26b]]'
 source_type: github_releases
 theme: agent-mode
@@ -94,8 +93,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.311
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-2-agent-mode-changes-in-v2-1-310|2 Agent Mode changes in v2.1.310]]
-- Later: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-2-agent-mode-changes-in-v2-1-312|2 Agent Mode changes in v2.1.312]]
+- Earlier: 2026-10-23 · Windsurf · [[Changes/Windsurf/2026-10-23-3-agent-mode-changes-in-v3-11-212|3 Agent Mode changes in v3.11.212]]
+- Later: 2026-10-26 · Windsurf · [[Changes/Windsurf/2026-10-26-the-status-bar-no-longer-disappears-after-you-switch-from-agent-mode-to-ide-mode|The status bar no longer disappears after you switch from Agent mode to IDE mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

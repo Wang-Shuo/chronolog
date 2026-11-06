@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 09c2648c23afc826e02c038080fc3670afccf890eed3ae9f99ef78e6fd94c885
+machine_hash: a690fc471c7f7688efbd7db32666cbb9bb8bbc0759f5ee914c1130b7a1318625
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
   title: 4 Safety and Privacy changes in v2.1.284
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-24-4-safety-and-privacy-changes-in-v2-1-282|4 Safety
-  and Privacy changes in v2.1.282]]'
-- '[[Changes/ChatGPT/2026-09-25-we-re-introducing-security-history-a-new-way-to-review-recent-security-activity-6f32cc|Security
-  history in ChatGPT]]'
 - '[[Changes/Claude Code/2026-09-25-3-safety-and-privacy-changes-in-v2-1-283|3 Safety
   and Privacy changes in v2.1.283]]'
+- '[[Changes/Codex CLI/2026-09-25-2-safety-and-privacy-changes-in-rust-v0-157-0|2
+  Safety and Privacy changes in rust-v0.157.0]]'
+- '[[Changes/OpenHands/2026-09-25-fix-mcp-keep-oauth-credentials-on-cloud-saves-and-skip-consent-when-tokens-still|fix(mcp):
+  keep OAuth credentials on cloud saves and skip consent when tokens still work]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'
 source_type: github_releases
 theme: safety-privacy
@@ -108,8 +108,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.284
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-3-safety-and-privacy-changes-in-v2-1-283|3 Safety and Privacy changes in v2.1.283]]
-- Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-9-safety-and-privacy-changes-in-v2-1-285|9 Safety and Privacy changes in v2.1.285]]
+- Earlier: 2026-09-25 · OpenHands · [[Changes/OpenHands/2026-09-25-fix-mcp-keep-oauth-credentials-on-cloud-saves-and-skip-consent-when-tokens-still|fix(mcp): keep OAuth credentials on cloud saves and skip consent when tokens still work]]
+- Later: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-9-safety-and-privacy-changes-in-rust-v0-158-0|9 Safety and Privacy changes in rust-v0.158.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 9c52aa828236703d56b7f0c0958424a3a9766fddf6427d6bc1cc842525ae8c26
+machine_hash: a7adc081659c530b2cd1015fe9bbca7decee096c1631afb495a6d68b644c398e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -65,10 +65,11 @@ record:
   title: Security history in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-security-review|Security Review]]'
 - '[[Changes/Cursor/2026-09-23-findings|Findings]]'
 - '[[Changes/Claude Code/2026-09-24-4-safety-and-privacy-changes-in-v2-1-282|4 Safety
   and Privacy changes in v2.1.282]]'
+- '[[Changes/Cline/2026-09-24-raised-the-minimum-js-yaml-version-to-4-3-2-to-pick-up-a-security-fix-in-the-par|Raised
+  the minimum js-yaml version to 4.3.2 to pick up a security fix in the parser…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-25-security-history-in-chatgpt-5ecdb0cb|chatgpt-2026-09-25-security-history-in-chatgpt-5ecdb0cb]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
@@ -97,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-4-safety-and-privacy-changes-in-v2-1-282|4 Safety and Privacy changes in v2.1.282]]
+- Earlier: 2026-09-24 · Cline · [[Changes/Cline/2026-09-24-raised-the-minimum-js-yaml-version-to-4-3-2-to-pick-up-a-security-fix-in-the-par|Raised the minimum js-yaml version to 4.3.2 to pick up a security fix in the parser…]]
 - Later: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-3-safety-and-privacy-changes-in-v2-1-283|3 Safety and Privacy changes in v2.1.283]]
 <!-- chronolog:end -->
 

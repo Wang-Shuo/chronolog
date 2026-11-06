@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fc4fb40528114fa9a3c046d84c34c07fad6874e49ac08d1bf3c532e41343e702
+machine_hash: 845ec64bfbf9ad783f32134b3254ba6c57b558f7d511ec233ca0a2d33cb4872d
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,11 +43,12 @@ record:
     preview
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-07-improved-memory-usage-by-releasing-warm-spare-background-workers-under-memory-pr|Improved
-  memory usage by releasing warm-spare background workers under memory pressure]]'
-- '[[Changes/Cursor/2026-05-07-pin-skills-as-quick-actions|Pin skills as quick actions]]'
 - '[[Changes/Cursor/2026-05-07-build-in-parallel-from-plans|Build in parallel from
   plans]]'
+- '[[Changes/Codex CLI/2026-05-08-added-a-faster-cargo-profiling-build-profile-and-disabled-empty-doctest-targets|Added
+  a faster Cargo profiling build profile and disabled empty doctest targets…]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-08-faster-user-list-and-user-switch-for-multi-account-users|Faster
+  /user list and /user switch for multi-account users]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'
 source_type: github_releases
 theme: reliability-performance
@@ -85,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-05-07 · Cursor · [[Changes/Cursor/2026-05-07-build-in-parallel-from-plans|Build in parallel from plans]]
+- Earlier: 2026-05-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-08-faster-user-list-and-user-switch-for-multi-account-users|Faster /user list and /user switch for multi-account users]]
 - Later: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-default-bugbot-continues-to-use-the-same-effort-level-as-it-does-today-optimized|Default: Bugbot continues to use the same effort level as it does today]]
 <!-- chronolog:end -->
 

@@ -87,7 +87,8 @@ def test_content_meta_hides_reading_time_and_title_has_a_tagline():
     assert "Component.PageTitle()" not in layout and layout.count("SiteTitle()") == 2
     title = Path("_scripts/site_title.tsx").read_text(encoding="utf-8")
     assert '<p class="site-tagline">' in title and 'class="page-title"' in title
-    assert "Tracked changes in ChatGPT, Claude Code and Cursor" in title
+    assert "SITE_TAGLINE" in title
+    assert "Tracked changes in AI assistants and coding tools" in Path("_scripts/products.ts").read_text()
     for rule in (".global-graph-icon", "--product-chatgpt", "--product-claude-code",
                  "--product-cursor", ".site-tagline"):
         assert rule in title
@@ -107,8 +108,7 @@ def test_rss_is_a_custom_feed_of_cards_and_releases():
     assert config.index("ChronologFeed()") > config.index("Plugin.ContentIndex(")
     feed = Path("_scripts/feed.tsx").read_text(encoding="utf-8")
     assert 'FEED_SECTIONS = ["Changes/", "Releases/"]' in feed and "FEED_LIMIT = 30" in feed
-    assert ('"Tracked changes in ChatGPT, Claude Code and Cursor, from official release notes"'
-            in feed)
+    assert 'const FEED_DESCRIPTION = SITE_DESCRIPTION' in feed
     assert 'rel="alternate"' in feed and 'type="application/rss+xml"' in feed
 
 

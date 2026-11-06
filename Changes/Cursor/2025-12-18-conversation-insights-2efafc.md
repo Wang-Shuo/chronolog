@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: ad584f65306e2ccdeece5bec1645d839caa89ce50c755af6ffd080984fa6209b
+machine_hash: 90a541e7dff4c14d09eb48dff668f6f8f34840b04d51866e2ac320917b516d21
 product: cursor
 product_name: Cursor
 record:
@@ -59,11 +59,12 @@ record:
   title: Conversation insights
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-12-cursor-automatically-summarizes-long-conversation-for-you-when-reaching-the-cont|Summarization
-  triggers]]'
-- '[[Changes/Cursor/2025-10-29-improved-prompt-ui|Improved Prompt UI]]'
-- '[[Changes/Cursor/2025-11-21-rules-in-home-folder-cursor-rules-will-be-included-in-context|Rules
-  in home folder (~/.cursor/rules) will be included in context]]'
+- '[[Changes/Cline/2025-12-11-2-context-window-changes-in-v3-41-0|2 Context Window
+  changes in v3.41.0]]'
+- '[[Changes/Cline/2025-12-17-added-support-for-dynamic-tool-instructions-that-adapt-based-on-runtime-context|Added
+  support for dynamic tool instructions that adapt based on runtime context…]]'
+- '[[Changes/Codex CLI/2025-12-18-7935-exec-server-additional-context-for-errors|♯7935
+  exec-server: additional context for errors]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb|cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb]]'
 source_type: cursor_changelog
 theme: context-window
@@ -98,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-rules-in-home-folder-cursor-rules-will-be-included-in-context|Rules in home folder (~/.cursor/rules) will be included in context]]
+- Earlier: 2025-12-18 · Codex CLI · [[Changes/Codex CLI/2025-12-18-7935-exec-server-additional-context-for-errors|♯7935 exec-server: additional context for errors]]
 - Later: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-improved-context-command-visualization-with-grouped-skills-and-agents-by-source|Improved /context command visualization with grouped skills and agents by source…]]
 <!-- chronolog:end -->
 

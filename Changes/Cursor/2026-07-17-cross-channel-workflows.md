@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a9152189a05601990c424ab45ca145ad79979f3b24b38536341bc873a1481a5b
+machine_hash: bddccca915c35957c64e4c07a94c9d4b9b2ac278cf5ec67c49d831e6b5525492
 product: cursor
 product_name: Cursor
 record:
@@ -46,11 +46,11 @@ record:
   title: Cross-channel workflows
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-01-subagents-and-context-compaction-now-inherit-the-session-s-extended-thinking-con|Subagents
-  and context compaction now inherit the session''s extended thinking…]]'
-- '[[Changes/Claude Code/2026-07-08-improved-auto-mode-to-ask-before-running-rm-rf-on-a-variable-it-can-t-resolve-fr|Improved
-  auto mode to ask before running rm -rf on a variable it can''t resolve…]]'
 - '[[Changes/Cursor/2026-07-10-side-chats|Side chats]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-10-press-tab-to-switch-the-context-window-in-model|Press
+  Tab to switch the context window in /model]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-16-2-context-window-changes-in-v1-0-71|2 Context
+  Window changes in v1.0.71]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6|cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6]]'
 source_type: cursor_changelog
 theme: context-window
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-07-10 · Cursor · [[Changes/Cursor/2026-07-10-side-chats|Side chats]]
+- Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-2-context-window-changes-in-v1-0-71|2 Context Window changes in v1.0.71]]
 - Later: 2026-07-20 · Claude Code · [[Changes/Claude Code/2026-07-20-context-now-shows-an-explicit-warning-when-the-conversation-exceeds-the-context|/context now shows an explicit warning when the conversation exceeds the context…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 66e37e0a4ea0a538226264b9514bb0ba84d5650d0254847098c0fe74a33561da
+machine_hash: 475963c13cf7a4cffb7afdd59926ed2d5e562d639bdbc4e9c615b1faabdfb7b8
 product: cursor
 product_name: Cursor
 record:
@@ -43,11 +43,12 @@ record:
   title: '1.5.5: General stability improvements and bug fixes to enhance overall application…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-29-agent-edits-are-now-faster-by-lazy-loading-linter-errors-search-replace-edit-lat|Faster
-  edits]]'
-- '[[Changes/Cursor/2025-07-29-2-reliability-and-performance-changes-in-1-3|2 Reliability
-  and Performance changes in 1.3]]'
-- '[[Changes/Cursor/2025-08-06-1-4-5-improved-performance|1.4.5: Improved performance]]'
+- '[[Changes/Gemini CLI/2025-08-06-4-reliability-and-performance-changes-in-v0-1-18|4
+  Reliability and Performance changes in v0.1.18]]'
+- '[[Changes/Gemini CLI/2025-08-12-2-reliability-and-performance-changes-in-v0-1-19|2
+  Reliability and Performance changes in v0.1.19]]'
+- '[[Changes/Gemini CLI/2025-08-14-6-reliability-and-performance-changes-in-v0-1-21|6
+  Reliability and Performance changes in v0.1.21]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89|cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -83,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-1-4-5-improved-performance|1.4.5: Improved performance]]
-- Later: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-5-reliability-and-performance-changes-in-1-6|5 Reliability and Performance changes in 1.6]]
+- Earlier: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-6-reliability-and-performance-changes-in-v0-1-21|6 Reliability and Performance changes in v0.1.21]]
+- Later: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-2-reliability-and-performance-changes-in-rust-v0-24-0|2 Reliability and Performance changes in rust-v0.24.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

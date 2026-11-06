@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ca5593b2f60828763fc43c1842095583f5481f5cf83af716bbf2d4118634ec21
+machine_hash: f730c285448c53550adbebc0f2ca3df62fd4bba78bbf43fec49fd4394fa9eafd
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: Auto-updater on Windows now stops retrying within a session once `claude.exe`…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-bundled-ripgrep-local-shell-runs-use-the-bundled-platform-rg-binary-without-modi|Bundled
-  ripgrep: Local shell runs use the bundled platform rg binary without…]]'
+- '[[Changes/Windsurf/2026-06-06-hardened-migration-from-windsurf-on-windows-to-preserve-shortcut-icon|Hardened
+  migration from Windsurf on Windows to preserve shortcut icon]]'
 - '[[Changes/ChatGPT/2026-06-08-cleaner-edit-message-flow-android-now-makes-it-clearer-when-you-re-editing-a-pre|Cleaner
   edit-message flow]]'
 - '[[Changes/ChatGPT/2026-06-08-immediate-image-previews-after-sending-when-you-upload-an-image-on-ios-chatgpt-u|Immediate
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-08 · ChatGPT · [[Changes/ChatGPT/2026-06-08-immediate-image-previews-after-sending-when-you-upload-an-image-on-ios-chatgpt-u|Immediate image previews after sending]]
-- Later: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-disable-mouse-tracking-on-windows-consoles-that-don-t-fully-support-it|Disable mouse tracking on Windows consoles that don't fully support it]]
+- Later: 2026-06-08 · Codex CLI · [[Changes/Codex CLI/2026-06-08-4-mobile-and-desktop-changes-in-rust-v0-138-0|4 Mobile and Desktop changes in rust-v0.138.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

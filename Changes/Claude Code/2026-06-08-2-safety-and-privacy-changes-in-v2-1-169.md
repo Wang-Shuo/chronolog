@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0c6b97bda7cbeb74537b8536b3b6346d07b3ccde1af279093ec76a197189f7d2
+machine_hash: 0f57b4ae2d30cdde883ba4db7992a28dc57f68d9d162773199d74c9913ccd0ad
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,9 +46,9 @@ record:
   title: 2 Safety and Privacy changes in v2.1.169
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-04-fixed-org-managed-permission-rules-not-applying-for-the-entire-session-when-the|Fixed
-  org-managed permission rules not applying for the entire session…]]'
 - '[[Changes/Cursor/2026-06-04-custom-tools-056918|Custom tools]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-05-2-safety-and-privacy-changes-in-v1-0-60|2
+  Safety and Privacy changes in v1.0.60]]'
 - '[[Changes/Claude Code/2026-06-06-hardened-cross-session-messaging-messages-relayed-via-sendmessage-from-other-cla|Hardened
   cross-session messaging]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d|claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d]]'
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.169
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-06-06 · Claude Code · [[Changes/Claude Code/2026-06-06-hardened-cross-session-messaging-messages-relayed-via-sendmessage-from-other-cla|Hardened cross-session messaging]]
-- Later: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-2-safety-and-privacy-changes-in-v2-1-172|2 Safety and Privacy changes in v2.1.172]]
+- Later: 2026-06-08 · Codex CLI · [[Changes/Codex CLI/2026-06-08-6-safety-and-privacy-changes-in-rust-v0-138-0|6 Safety and Privacy changes in rust-v0.138.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

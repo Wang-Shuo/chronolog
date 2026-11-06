@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 28b5b85fff77c75ae67b2df13d8510c7e1da23c601614a63f18c990457621f26
+machine_hash: af0fe62fa6beab52bfc85035c6d23df8e2e9fa6a0f158ab173e2fdfb6b8bd289
 product: cursor
 product_name: Cursor
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-improved-the-subagent-panel-idle-subagents-auto-hide-after-30s-the-list-caps-at|Improved the subagent panel]]
-- Later: 2026-06-19 · Claude Code · [[Changes/Claude Code/2026-06-19-improved-auto-mode-safety-destructive-git-commands-git-reset-hard-git-checkout-g|Improved auto mode safety]]
+- Later: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-5-agent-mode-changes-in-rust-v0-141-0|5 Agent Mode changes in rust-v0.141.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

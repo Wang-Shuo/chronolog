@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 051642d9e366af8e44400ab80affe8911956ad8649651a8a48029b13ecd9e5e3
+machine_hash: 8417b750b2e89e8b4a940fde53ff874dc8e3894638db1262c3fafe672633b364
 product: cursor
 product_name: Cursor
 record:
@@ -52,8 +52,8 @@ record:
   title: Both pro and API key users can also try out gpt-4-0125-preview by configuring…
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-16-ai-review-beta-this-is-a-new-experimental-feature-that-let-s-gpt-4-scan-your-git|AI
-  Review (beta)]]'
+- '[[Changes/Aider/2024-01-04-add-images-to-the-chat-to-automatically-use-gpt-4-vision-by-joshuavial|Add
+  images to the chat to automatically use GPT-4 Vision, by @joshuavial]]'
 - '[[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti-bb4c11|Cursor-Fast
   is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…]]'
 - '[[Changes/Cursor/2024-01-18-cursor-fast-this-is-a-new-model-available-in-command-k-and-chat-expect-it-to-be|"cursor-fast":
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-01-18 · Cursor · [[Changes/Cursor/2024-01-18-cursor-fast-this-is-a-new-model-available-in-command-k-and-chat-expect-it-to-be|"cursor-fast": This is a new model available in command-k and chat]]
-- Later: 2024-03-12 · Cursor · [[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|Claude Support]]
+- Later: 2024-02-03 · Aider · [[Changes/Aider/2024-02-03-added-support-for-model-gpt-4-0125-preview-and-openai-s-alias-model-gpt-4-turbo|Added support for --model gpt-4-0125-preview and OpenAI's alias…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

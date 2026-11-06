@@ -1,0 +1,140 @@
+---
+card_id: github-copilot-cli-2026-07-16-f5ffa4
+date: '2026-07-16'
+description: 'GitHub Copilot CLI · 2026-07-16 · Agent Mode: 8 changes in 1.0.71 —
+  `copilot -p --autopilot` no longer hangs when a background shell or agent outlives
+  the…'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1106
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: agent-mode
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: digest
+machine_hash: 2bd8f452dcf4df4e94b40c877b946ef5c2b069901657abeaec87542c1cf322ae
+product: github-copilot-cli
+product_name: GitHub Copilot CLI
+record:
+  card_id: github-copilot-cli-2026-07-16-f5ffa4
+  comparison: ''
+  date: '2026-07-16'
+  description: 'GitHub Copilot CLI — 1.0.71: 8 Agent Mode changes'
+  evidence:
+  - quote: '`copilot -p --autopilot` no longer hangs when a background shell or agent
+      outlives the turn; it now honors the COPILOT_TASK_WAIT_TIMEOUT_SECONDS timeout
+      the same way plain `-p` does.'
+    source_release: https://github.com/github/copilot-cli/releases/tag/v1.0.71
+  - quote: Reopening the /subagents model picker keeps each agent's reasoning effort
+      and context tier
+    source_release: https://github.com/github/copilot-cli/releases/tag/v1.0.71
+  - quote: Limit which built-in agents are available to tasks and subagents
+    source_release: https://github.com/github/copilot-cli/releases/tag/v1.0.71
+  - quote: Custom agents that request a shell tool by alias now also receive the matching
+      read, list, and stop shell tools
+    source_release: https://github.com/github/copilot-cli/releases/tag/v1.0.71
+  - quote: Apply updated session options (shell flags, streaming, custom agent defaults)
+      immediately after /settings changes
+    source_release: https://github.com/github/copilot-cli/releases/tag/v1.0.71
+  - quote: Show selected custom agents once in /agent and keep their source label
+      when the file name differs from the display name
+    source_release: https://github.com/github/copilot-cli/releases/tag/v1.0.71
+  - quote: Surface the real load error for malformed custom agents
+    source_release: https://github.com/github/copilot-cli/releases/tag/v1.0.71
+  - quote: Reject custom-agent names that would create hidden files
+    source_release: https://github.com/github/copilot-cli/releases/tag/v1.0.71
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: digest
+  product: github-copilot-cli
+  product_name: GitHub Copilot CLI
+  slug: 8-agent-mode-changes-in-v1-0-71
+  source_release: github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622
+  source_type: github_releases
+  theme: agent-mode
+  title: 8 Agent Mode changes in v1.0.71
+  type: change
+related_changes:
+- '[[Changes/Claude Code/2026-07-14-4-agent-mode-changes-in-v2-1-208|4 Agent Mode
+  changes in v2.1.208]]'
+- '[[Changes/Claude Code/2026-07-14-3-agent-mode-changes-in-v2-1-210|3 Agent Mode
+  changes in v2.1.210]]'
+- '[[Changes/Claude Code/2026-07-15-2-agent-mode-changes-in-v2-1-211|2 Agent Mode
+  changes in v2.1.211]]'
+source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622|github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622]]'
+source_type: github_releases
+theme: agent-mode
+title: 8 Agent Mode changes in v1.0.71
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 8 Agent Mode changes in v1.0.71
+
+**GitHub Copilot CLI** · 2026-07-16 · [[Themes/agent-mode|Agent Mode]] · Digest · [Official source](https://github.com/github/copilot-cli/releases/tag/v1.0.71) · from [[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622|1.0.71]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+## Changes in this digest
+
+> `copilot -p --autopilot` no longer hangs when a background shell or agent outlives the turn; it now honors the COPILOT_TASK_WAIT_TIMEOUT_SECONDS timeout the same way plain `-p` does.
+
+> Reopening the /subagents model picker keeps each agent's reasoning effort and context tier
+
+> Limit which built-in agents are available to tasks and subagents
+
+> Custom agents that request a shell tool by alias now also receive the matching read, list, and stop shell tools
+
+> Apply updated session options (shell flags, streaming, custom agent defaults) immediately after /settings changes
+
+> Show selected custom agents once in /agent and keep their source label when the file name differs from the display name
+
+> Surface the real load error for malformed custom agents
+
+> Reject custom-agent names that would create hidden files
+
+Source: https://github.com/github/copilot-cli/releases/tag/v1.0.71
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/GitHub Copilot CLI/2026-07-16-3-model-support-changes-in-v1-0-71|3 Model Support changes in v1.0.71]] · Model Support
+- [[Changes/GitHub Copilot CLI/2026-07-16-server-mode-reconnects-oauth-mcp-servers-from-cached-tokens|Server mode reconnects OAuth MCP servers from cached tokens]] · Account and Access
+- [[Changes/GitHub Copilot CLI/2026-07-16-5-editor-experience-changes-in-v1-0-71|5 Editor Experience changes in v1.0.71]] · Editor Experience
+- [[Changes/GitHub Copilot CLI/2026-07-16-add-canvas-support-in-the-cli-for-extension-driven-interactions|Add canvas support in the CLI for extension-driven interactions]] · Files and Data
+- [[Changes/GitHub Copilot CLI/2026-07-16-refresh-memory-context-after-30-minutes-in-long-lived-sessions|Refresh memory context after 30 minutes in long-lived sessions]] · Memory and Personalization
+- [[Changes/GitHub Copilot CLI/2026-07-16-2-safety-and-privacy-changes-in-v1-0-71|2 Safety and Privacy changes in v1.0.71]] · Safety and Privacy
+- [[Changes/GitHub Copilot CLI/2026-07-16-8-developer-workflow-changes-in-v1-0-71|8 Developer Workflow changes in v1.0.71]] · Developer Workflow
+- [[Changes/GitHub Copilot CLI/2026-07-16-3-pricing-model-changes-in-v1-0-71|3 Pricing Model changes in v1.0.71]] · Pricing Model
+- [[Changes/GitHub Copilot CLI/2026-07-16-2-collaboration-changes-in-v1-0-71|2 Collaboration changes in v1.0.71]] · Collaboration
+- [[Changes/GitHub Copilot CLI/2026-07-16-2-context-window-changes-in-v1-0-71|2 Context Window changes in v1.0.71]] · Context Window
+- [[Changes/GitHub Copilot CLI/2026-07-16-add-plugins-marketplace-browse-and-update-commands|Add plugins marketplace browse and update commands]] · Search and Browsing
+- [[Changes/GitHub Copilot CLI/2026-07-16-add-voice-devices-to-choose-and-persist-the-microphone-for-voice-mode|Add /voice devices to choose and persist the microphone for voice mode]] · Voice and Audio
+- [[Changes/GitHub Copilot CLI/2026-07-16-16-apps-and-integrations-changes-in-v1-0-71|16 Apps and Integrations changes in v1.0.71]] · Apps and Integrations
+- [[Changes/GitHub Copilot CLI/2026-07-16-5-interface-experience-changes-in-v1-0-71|5 Interface Experience changes in v1.0.71]] · Interface Experience
+- [[Changes/GitHub Copilot CLI/2026-07-16-30-other-changes-in-v1-0-71|30 other changes in v1.0.71]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-2-agent-mode-changes-in-v2-1-211|2 Agent Mode changes in v2.1.211]]
+- Later: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-7-agent-mode-changes-in-v2-1-212|7 Agent Mode changes in v2.1.212]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20github-copilot-cli-2026-07-16-f5ffa4&body=Card%3A%20Changes%2FGitHub%20Copilot%20CLI%2F2026-07-16-8-agent-mode-changes-in-v1-0-71.md%0ACard%20ID%3A%20github-copilot-cli-2026-07-16-f5ffa4%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fgithub%2Fcopilot-cli%2Freleases%2Ftag%2Fv1.0.71%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

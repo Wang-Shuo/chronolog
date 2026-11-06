@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8a822c157b41f7533407a30936fb10351ca154f8b3b4582e9f7dd41e4c8a280a
+machine_hash: da9a3fc3c20d96a569ccf7a83ab81e188426e9426fb4406cc3ca3a9b5a0ea39f
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,11 +49,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.283
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-rollouts|Rollouts]]'
 - '[[Changes/Cursor/2026-09-23-when-a-pull-request-opens-rollouts-reads-the-diff-and-the-systems-it-touches-the|Monitoring
   plans]]'
 - '[[Changes/Claude Code/2026-09-24-changed-windows-wsl-managed-settings-so-an-admin-policy-that-is-present-but-inva|Changed
   Windows/WSL managed settings so an admin policy that is present but invalid…]]'
+- '[[Changes/Cline/2026-09-24-a-command-that-prints-nothing-no-longer-shows-a-raw-json-blob-like-query-git-add|A
+  command that prints nothing no longer shows a raw JSON blob like…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8|claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8]]'
 source_type: github_releases
 theme: developer-workflow
@@ -98,8 +99,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.283
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-changed-windows-wsl-managed-settings-so-an-admin-policy-that-is-present-but-inva|Changed Windows/WSL managed settings so an admin policy that is present but invalid…]]
-- Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-changed-recap-to-decline-with-a-short-notice-when-it-arrives-relayed-from-a-chat|Changed /recap to decline with a short notice when it arrives relayed from a chat…]]
+- Earlier: 2026-09-24 · Cline · [[Changes/Cline/2026-09-24-a-command-that-prints-nothing-no-longer-shows-a-raw-json-blob-like-query-git-add|A command that prints nothing no longer shows a raw JSON blob like…]]
+- Later: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-4-developer-workflow-changes-in-rust-v0-157-0|4 Developer Workflow changes in rust-v0.157.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

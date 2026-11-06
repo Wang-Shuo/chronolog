@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 400727280eb2d3bedb2b7c054dd7ec17abcd9d8fc213e0cd9f82a3b9adfbb839
+machine_hash: 09a0e7a9bd78020cb9617932abfd861bfc4b7de6a16ee2c0f8f7ac5b244e9f46
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,10 @@ record:
   title: MCP improvements
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-05-16-upload-the-latest-file-versions-directly-from-google-drive-microsoft-onedrive-pe-70f6a3|Upload
-  the latest file versions directly from Google Drive, Microsoft OneDrive…]]'
-- '[[Changes/Cursor/2024-07-03-docs-management-go-to-cursor-settings-features-docs-to-re-index-your-docs|Docs
-  management! Go to Cursor Settings  Features  Docs to re-index your docs]]'
+- '[[Changes/Cline/2025-01-30-add-advanced-settings-to-remove-mcp-prompts-from-requests-to-save-tokens-enable|Add
+  Advanced Settings to remove MCP prompts from requests to save tokens…]]'
+- '[[Changes/Cline/2025-02-19-introducing-mcp-marketplace-you-can-now-discover-and-install-the-best-mcp-server|Introducing
+  MCP Marketplace!]]'
 - '[[Changes/Cursor/2025-02-19-2-apps-and-integrations-changes-in-0-46-x|2 Apps and
   Integrations changes in 0.46.x]]'
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
@@ -95,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-07-03 · Cursor · [[Changes/Cursor/2024-07-03-docs-management-go-to-cursor-settings-features-docs-to-re-index-your-docs|Docs management! Go to Cursor Settings  Features  Docs to re-index your docs]]
-- Later: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-mcp-added-global-server-configuration-with-cursor-mcp-json-and-support-for-envir|MCP: Added global server configuration with ~/.cursor/mcp.json and support…]]
+- Earlier: 2025-02-19 · Cline · [[Changes/Cline/2025-02-19-introducing-mcp-marketplace-you-can-now-discover-and-install-the-best-mcp-server|Introducing MCP Marketplace!]]
+- Later: 2025-03-01 · Cline · [[Changes/Cline/2025-03-01-2-apps-and-integrations-changes-in-v3-5-0|2 Apps and Integrations changes in v3.5.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

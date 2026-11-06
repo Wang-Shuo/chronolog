@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 04e57540da6d1205dbaadb5fca087061d09aa379e1be13291ca06f0b64be020f
+machine_hash: 7f7823a20656e6eb92c7b74ae408ccd7df53dcfe2c17e33c03de35268b98bf3e
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Apps and Integrations changes in v2.1.77
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-12-changed-plugin-dir-so-local-dev-copies-now-override-installed-marketplace-plugin|Changed
-  --plugin-dir so local dev copies now override installed marketplace…]]'
-- '[[Changes/Claude Code/2026-03-14-4-apps-and-integrations-changes-in-v2-1-76|4 Apps
-  and Integrations changes in v2.1.76]]'
+- '[[Changes/Codex CLI/2026-03-16-17-apps-and-integrations-changes-in-rust-v0-115-0|17
+  Apps and Integrations changes in rust-v0.115.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-16-6-apps-and-integrations-changes-in-v1-0-6|6
+  Apps and Integrations changes in v1.0.6]]'
 - '[[Changes/Claude Code/2026-03-17-3-apps-and-integrations-changes-in-v2-1-78|3 Apps
   and Integrations changes in v2.1.78]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c|claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c]]'
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.77
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-3-apps-and-integrations-changes-in-v2-1-78|3 Apps and Integrations changes in v2.1.78]]
-- Later: 2026-03-18 · Claude Code · [[Changes/Claude Code/2026-03-18-2-apps-and-integrations-changes-in-v2-1-79|2 Apps and Integrations changes in v2.1.79]]
+- Later: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-4-apps-and-integrations-changes-in-v0-34-0|4 Apps and Integrations changes in v0.34.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

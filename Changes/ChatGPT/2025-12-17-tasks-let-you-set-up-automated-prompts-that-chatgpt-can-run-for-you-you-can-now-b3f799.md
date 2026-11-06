@@ -4,20 +4,20 @@ date: '2025-12-17'
 description: 'ChatGPT · 2025-12-17 · Automation and Scheduling: Tasks let you set
   up automated prompts that ChatGPT can run for you.You can now manage all your tasks…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled
-    tasks in ChatGPT]]'
+  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
+    syntax error loop detection]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 337
+  lag_days: 469
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 32ac9dc7543433814b072d583af2ba6437836c0c4e51260f49f50c4700384891
+machine_hash: 9692e318911d72b674d14e2da45fe853a6f13eb9afaffbcc75b59ce9561278a8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,8 +46,12 @@ record:
   title: Tasks let you set up automated prompts that ChatGPT can run for you
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled
-  tasks in ChatGPT]]'
+- '[[Changes/Codex CLI/2025-10-30-chore-decompose-submission-loop-in-https-github-com-openai-codex-pull-5854|chore:
+  decompose submission loop in (source link)]]'
+- '[[Changes/Gemini CLI/2025-11-04-revert-nightly-schedule-by-skeshive-in-https-github-com-google-gemini-gemini-cli|revert
+  nightly schedule]]'
+- '[[Changes/Gemini CLI/2025-11-07-feat-prevent-self-imports-and-fix-build-loop-by-mattkorwel-in-https-github-com-g|feat:
+  Prevent self-imports and fix build loop]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44|chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44]]'
 source_type: chatgpt_changelog
 theme: automation-scheduling
@@ -78,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2025-01-14 · ChatGPT · [[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled tasks in ChatGPT]]
-- Later: 2026-03-05 · Cursor · [[Changes/Cursor/2026-03-05-create-automations-at-cursor-com-automations-or-start-from-a-template-read-more|Create automations at cursor.com/automations, or start from a template]]
+- Earlier: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-feat-prevent-self-imports-and-fix-build-loop-by-mattkorwel-in-https-github-com-g|feat: Prevent self-imports and fix build loop]]
+- Later: 2025-12-18 · Codex CLI · [[Changes/Codex CLI/2025-12-18-7961-refactor-tui-event-loop-to-enable-dropping-recreating-crossterm-event-strea|♯7961 refactor TUI event loop to enable dropping + recreating crossterm event stream]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-01-14 · ChatGPT · [[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled tasks in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

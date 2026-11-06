@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 9c8cf81d61d540a63deb6f2e83ca5a7347cb6ea0839cd51d09a56aeb481850ca
+machine_hash: dc83d866fb131116ef7f232f04e282371f865ab092fd5271ad68a8bc65e93295
 product: cursor
 product_name: Cursor
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-subagent-forking-is-now-on-by-default-a-subagent-type-fork-subagent-inherits-the|Subagent forking is now on by default]]
-- Later: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-improved-claude-self-hosted-runner-session-start-time-the-session-branch-is-now|Improved claude self-hosted-runner session start time]]
+- Later: 2026-08-13 · OpenHands · [[Changes/OpenHands/2026-08-13-chore-enforce-typed-openhands-typescript-client-for-agent-server-api-calls-no-ad|chore: enforce typed @openhands/typescript-client for agent-server API calls…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

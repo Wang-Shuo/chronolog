@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 23626cbacf16e896f9e14a5580921507bc5910bd84ecdff37de74d74b51d1aef
+machine_hash: e4a6ca92667e5975c0a197d9bbc7ff626d8d62b6a51a79efd7000a78ad7699dc
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,10 +52,10 @@ record:
   title: Status line commands now receive `COLUMNS` and `LINES` environment variables…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-27-2-developer-workflow-changes-in-v2-1-152|2 Developer
-  Workflow changes in v2.1.152]]'
 - '[[Changes/Claude Code/2026-05-27-added-reload-skills-command-to-re-scan-skill-directories-without-restarting-the|Added
   /reload-skills command to re-scan skill directories without restarting the session]]'
+- '[[Changes/Gemini CLI/2026-05-27-feat-core-expose-rag-snippets-to-local-log-file-for-debugging-by-spencer426-in-h|feat(core):
+  expose RAG snippets to local log file for debugging]]'
 - '[[Changes/Claude Code/2026-05-28-simplify-now-runs-a-cleanup-only-review-reuse-simplification-efficiency-altitude|/simplify
   now runs a cleanup-only review…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a|claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a]]'
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-simplify-now-runs-a-cleanup-only-review-reuse-simplification-efficiency-altitude|/simplify now runs a cleanup-only review…]]
-- Later: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-3-developer-workflow-changes-in-v2-1-157|3 Developer Workflow changes in v2.1.157]]
+- Later: 2026-05-28 · Codex CLI · [[Changes/Codex CLI/2026-05-28-codex-doctor-now-reports-richer-environment-git-terminal-app-server-and-thread-i|codex doctor now reports richer environment, Git, terminal, app-server, and thread…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

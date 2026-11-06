@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 71d64ff6472f03bb3eb4ed5e4f2a01ed50dcc811018bb0b3b6f0171e3e549d35
+machine_hash: 9837a26d7d7b102bf557128b6b2d9f85a45509bab7245870e360f5913566ddb9
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: Changed `/deep-research` to start only when invoked manually
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-the-plugin-browse-and-discover-panes-now-show-when-a-plugin-was-last-updated|The
-  /plugin browse and discover panes now show when a plugin was last updated]]'
-- '[[Changes/ChatGPT/2026-06-01-chatgpt-can-now-help-with-more-of-the-job-search-process-from-finding-relevant-l|Find
-  live jobs and format your resume in ChatGPT]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-16-add-plugins-marketplace-browse-and-update-commands|Add
+  plugins marketplace browse and update commands]]'
 - '[[Changes/Claude Code/2026-07-17-3-search-and-browsing-changes-in-v2-1-212|3 Search
   and Browsing changes in v2.1.212]]'
+- '[[Changes/Codex CLI/2026-07-21-3-search-and-browsing-changes-in-rust-v0-145-0|3
+  Search and Browsing changes in rust-v0.145.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4|claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4]]'
 source_type: github_releases
 theme: search-browsing
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-3-search-and-browsing-changes-in-v2-1-212|3 Search and Browsing changes in v2.1.212]]
-- Later: 2026-08-13 · ChatGPT · [[Changes/ChatGPT/2026-08-13-if-you-have-the-google-drive-plugin-connected-you-can-now-see-and-browse-your-go-97f18f|If you have the Google Drive plugin connected, you can now see and browse…]]
+- Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-3-search-and-browsing-changes-in-rust-v0-145-0|3 Search and Browsing changes in rust-v0.145.0]]
+- Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-2-search-and-browsing-changes-in-rust-v0-146-0|2 Search and Browsing changes in rust-v0.146.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

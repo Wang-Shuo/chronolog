@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-03-07 · Automation and Scheduling: Added `/lo
   command to run a prompt or slash command on a recurring interval (e.g. `/loop 5m
   check the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled
-    tasks in ChatGPT]]'
+  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
+    syntax error loop detection]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 417
+  lag_days: 549
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 484a1917daea509d8d98a7848c05a1b77ad31e45df09b628b991a9cb51b4c988
+machine_hash: f5d88e4651050f75729e2faefeb1c0b30a725cf8987b8fb0ddfd829fad60e184
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-01-14 · ChatGPT · [[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled tasks in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

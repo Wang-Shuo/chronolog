@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2efe9ab61c75122ae6747228f43a005532ef4b018357daa3eac18df134f9a387
+machine_hash: ca6ff0504de9efcfd34a1bab16d3925a5172077128bf5d4caa779845d47874d5
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Improved focus mode
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-deprecated-the-previous-worktree-and-best-of-n-selection-from-the-editor|Deprecated
-  the previous worktree and best-of-n selection from the Editor]]'
-- '[[Changes/Claude Code/2026-04-04-release-notes-is-now-an-interactive-version-picker|/release-notes
-  is now an interactive version picker]]'
 - '[[Changes/Claude Code/2026-04-08-2-interface-experience-changes-in-v2-1-97|2 Interface
   Experience changes in v2.1.97]]'
+- '[[Changes/Gemini CLI/2026-04-08-refine-onboarding-metrics-to-log-the-duration-explicitly-and-use-the-tier-name-b|Refine
+  onboarding metrics to log the duration explicitly and use the tier name]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-09-slash-command-picker-appears-above-the-text-input-for-a-more-stable-layout|Slash
+  command picker appears above the text input for a more stable layout]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642|claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642]]'
 source_type: github_releases
 theme: interface-experience
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-2-interface-experience-changes-in-v2-1-97|2 Interface Experience changes in v2.1.97]]
-- Later: 2026-04-13 · Claude Code · [[Changes/Claude Code/2026-04-13-improved-network-error-messages-connection-errors-now-show-a-retry-message-immed|Improved network error messages]]
+- Earlier: 2026-04-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-09-slash-command-picker-appears-above-the-text-input-for-a-more-stable-layout|Slash command picker appears above the text input for a more stable layout]]
+- Later: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-10-interface-experience-changes-in-rust-v0-119-0|10 Interface Experience changes in rust-v0.119.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

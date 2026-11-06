@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 243799f5aaa91e887f95f91e1cbb474585b1201436e8a73a3908e55e8d2cbba7
+machine_hash: f9ffb5f08a7317323b122fb87d2b881b4043964dc89408585d2f2103ea642b7a
 product: cursor
 product_name: Cursor
 record:
@@ -52,10 +52,9 @@ record:
   title: Improved Performance
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-8-reliability-and-performance-changes-in-1-7|8 Reliability
-  and Performance changes in 1.7]]'
-- '[[Changes/ChatGPT/2025-10-23-group-work-upload-notes-proposals-and-contracts-so-collaborators-can-draft-deliv|Group
-  work: Upload notes, proposals, and contracts so collaborators can draft…]]'
+- '[[Changes/Windsurf/2025-10-26-various-performance-improvements-and-bug-fixes|Various
+  performance improvements and bug fixes]]'
+- '[[Changes/Windsurf/2025-10-26-falcon-alpha|Falcon Alpha]]'
 - '[[Changes/Cursor/2025-10-29-2-reliability-and-performance-changes-in-2-0|2 Reliability
   and Performance changes in 2.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
@@ -112,8 +111,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-10-23 · ChatGPT · [[Changes/ChatGPT/2025-10-23-group-work-upload-notes-proposals-and-contracts-so-collaborators-can-draft-deliv|Group work: Upload notes, proposals, and contracts so collaborators can draft…]]
-- Later: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-2-reliability-and-performance-changes-in-2-2|2 Reliability and Performance changes in 2.2]]
+- Earlier: 2025-10-26 · Windsurf · [[Changes/Windsurf/2025-10-26-falcon-alpha|Falcon Alpha]]
+- Later: 2025-10-30 · Codex CLI · [[Changes/Codex CLI/2025-10-30-chore-speed-up-pipeline-in-https-github-com-openai-codex-pull-5812|chore: speed-up pipeline in (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

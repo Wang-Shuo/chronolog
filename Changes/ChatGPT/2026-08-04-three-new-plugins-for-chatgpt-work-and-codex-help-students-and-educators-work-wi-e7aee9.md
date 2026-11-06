@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 244bce92b25be97afe1110d91236f5e32edfb44e091b5764b918d0ca6065871c
+machine_hash: d9378dd2f87c83f22fee6cbf9bf635560daa654018a18109c6cfa95698ab20e7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,12 +51,12 @@ record:
     work…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-28-plugins-mcp-servers-hooks-and-skills-to-extend-cursor-across-your-workflows|Plugins,
-  MCP servers, hooks, and skills to extend Cursor across your workflows]]'
-- '[[Changes/ChatGPT/2026-07-29-we-re-beginning-to-roll-out-sign-in-with-chatgpt-across-select-plugins-and-partn|Sign
-  in with ChatGPT]]'
 - '[[Changes/Cursor/2026-08-03-cursor-can-now-read-write-and-act-across-your-google-workspace|Google
   Workspace Plugins]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-03-4-apps-and-integrations-changes-in-v1-0-78|4
+  Apps and Integrations changes in v1.0.78]]'
+- '[[Changes/OpenHands/2026-08-03-chore-bump-openhands-extensions-to-0-13-0-by-hieptl-in-https-github-com-openhand|chore:
+  bump @openhands/extensions to 0.13.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-04-new-education-plugins-for-students-and-educators-d6701667|chatgpt-2026-08-04-new-education-plugins-for-students-and-educators-d6701667]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-03 · Cursor · [[Changes/Cursor/2026-08-03-cursor-can-now-read-write-and-act-across-your-google-workspace|Google Workspace Plugins]]
+- Earlier: 2026-08-03 · OpenHands · [[Changes/OpenHands/2026-08-03-chore-bump-openhands-extensions-to-0-13-0-by-hieptl-in-https-github-com-openhand|chore: bump @openhands/extensions to 0.13.0]]
 - Later: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-4-apps-and-integrations-changes-in-v2-1-221|4 Apps and Integrations changes in v2.1.221]]
 <!-- chronolog:end -->
 

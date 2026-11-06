@@ -1,0 +1,100 @@
+---
+card_id: github-copilot-cli-2025-10-16-9f9e15
+date: '2025-10-16'
+description: 'GitHub Copilot CLI · 2025-10-16 · Developer Workflow: Enabled the Kitty
+  protocol by default. Multi-line input is now supported via Shift+Ctrl on terminal
+  that…'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 943
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: developer-workflow
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: significant
+kind: change
+machine_hash: 8c119f4806b976289827e6d91e1dce5f6ec3007ffc1968569d1736c59d874e7c
+product: github-copilot-cli
+product_name: GitHub Copilot CLI
+record:
+  ai_generated: true
+  card_id: github-copilot-cli-2025-10-16-9f9e15
+  comparison: ''
+  confidence: low
+  date: '2025-10-16'
+  description: 'GitHub Copilot CLI — 0.0.342: Enabled the Kitty protocol by default.
+    Multi-line input is now supported via Shift+Ctrl on terminal that support the
+    Kitty protocol. Multi-line input is also supported in VSCode and its forks by
+    running the `/terminal-setup` command (fixes https://github.com/github/copilot-cli/issues/14)'
+  evidence:
+  - quote: Enabled the Kitty protocol by default. Multi-line input is now supported
+      via Shift+Ctrl on terminal that support the Kitty protocol. Multi-line input
+      is also supported in VSCode and its forks by running the `/terminal-setup` command
+      (fixes https://github.com/github/copilot-cli/issues/14)
+    source_release: https://github.com/github/copilot-cli/releases/tag/v0.0.342
+  extractor_version: fallback-v5
+  impact: significant
+  kind: change
+  product: github-copilot-cli
+  product_name: GitHub Copilot CLI
+  slug: enabled-the-kitty-protocol-by-default-multi-line-input-is-now-supported-via-shif
+  source_release: github-copilot-cli-2025-10-16-v0-0-342-github-254861396-9c0ec25f
+  source_type: github_releases
+  theme: developer-workflow
+  title: Enabled the Kitty protocol by default
+  type: change
+related_changes:
+- '[[Changes/Gemini CLI/2025-10-15-3-developer-workflow-changes-in-v0-9-0|3 Developer
+  Workflow changes in v0.9.0]]'
+- '[[Changes/GitHub Copilot CLI/2025-10-15-added-terminal-setup-command-to-set-up-multi-line-input-on-terminals-not-impleme|Added
+  /terminal-setup command to set up multi-line input on terminals not…]]'
+- '[[Changes/Cline/2025-10-16-8-developer-workflow-changes-in-v3-33-0|8 Developer
+  Workflow changes in v3.33.0]]'
+source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-16-v0-0-342-github-254861396-9c0ec25f|github-copilot-cli-2025-10-16-v0-0-342-github-254861396-9c0ec25f]]'
+source_type: github_releases
+theme: developer-workflow
+title: Enabled the Kitty protocol by default
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Enabled the Kitty protocol by default
+
+**GitHub Copilot CLI** · 2025-10-16 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://github.com/github/copilot-cli/releases/tag/v0.0.342) · from [[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-16-v0-0-342-github-254861396-9c0ec25f|0.0.342]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Enabled the Kitty protocol by default. Multi-line input is now supported via Shift+Ctrl on terminal that support the Kitty protocol. Multi-line input is also supported in VSCode and its forks by running the `/terminal-setup` command (fixes https://github.com/github/copilot-cli/issues/14)
+>
+> Source: https://github.com/github/copilot-cli/releases/tag/v0.0.342
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/GitHub Copilot CLI/2025-10-16-enabled-non-interactive-ghe-logins-by-respecting-the-gh-host-environment-variabl|Enabled non-interactive GHE logins by respecting the GH_HOST environment variable…]] · Account and Access
+- [[Changes/GitHub Copilot CLI/2025-10-16-added-debug-logging-when-calls-to-model-result-in-copilot-api-errors-this-should|Added debug logging when calls to /model result in Copilot API errors]] · Model Support
+- [[Changes/GitHub Copilot CLI/2025-10-16-5-editor-experience-changes-in-v0-0-342|5 Editor Experience changes in v0.0.342]] · Editor Experience
+- [[Changes/GitHub Copilot CLI/2025-10-16-3-other-changes-in-v0-0-342|3 other changes in v0.0.342]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Developer Workflow
+
+- Earlier: 2025-10-16 · Cline · [[Changes/Cline/2025-10-16-8-developer-workflow-changes-in-v3-33-0|8 Developer Workflow changes in v3.33.0]]
+- Later: 2025-10-17 · Codex CLI · [[Changes/Codex CLI/2025-10-17-add-parsed-command-to-execapprovalrequestevent-5222|Add parsed command to ExecApprovalRequestEvent (♯5222)]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20github-copilot-cli-2025-10-16-9f9e15&body=Card%3A%20Changes%2FGitHub%20Copilot%20CLI%2F2025-10-16-enabled-the-kitty-protocol-by-default-multi-line-input-is-now-supported-via-shif.md%0ACard%20ID%3A%20github-copilot-cli-2025-10-16-9f9e15%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fgithub%2Fcopilot-cli%2Freleases%2Ftag%2Fv0.0.342%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4fa75a5f0169ea030ba7bcdbc3cff4a32e702565af0c6ff7839f476d60d0ad8f
+machine_hash: 7e568db9987afa1130208a5fea0e4f1f8660f3acabcbcc926a6b0c3de79804ed
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,8 +48,8 @@ record:
   title: Added opt-in memory cgroup support for Bash tool commands on Linux…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-21-added-warnings-when-transcript-writes-are-failing-e-g-disk-full-or-when-session|Added
-  warnings when transcript writes are failing (e.g. disk full) or when session…]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-03-resuming-a-long-session-is-dramatically-faster-and-far-lighter-on-memory-because|Resuming
+  a long session is dramatically faster and far lighter on memory, because…]]'
 - '[[Changes/Claude Code/2026-08-10-improved-performance-fewer-event-loop-stalls-on-file-not-found-suggestions-and-a|Improved
   performance: fewer event-loop stalls on file-not-found suggestions…]]'
 - '[[Changes/Cursor/2026-08-13-faster-starts|Faster starts]]'

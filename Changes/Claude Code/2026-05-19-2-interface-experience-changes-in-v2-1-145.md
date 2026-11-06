@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 81360ad9ad0b47f91a4fb8acb6e45e148e707e0ef0e9db0d31215f50a4546d5a
+machine_hash: 37270141b0eb9266778999a31a070ab0313a78a667514a5c3be4565475d8a984
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,11 @@ record:
   title: 2 Interface Experience changes in v2.1.145
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-13-2-interface-experience-changes-in-v2-1-141|2 Interface
-  Experience changes in v2.1.141]]'
-- '[[Changes/Cursor/2026-05-13-3-interface-experience-changes-in-3-4|3 Interface Experience
-  changes in 3.4]]'
 - '[[Changes/Cursor/2026-05-13-full-screen-tabs-faa5d2|Full-screen tabs]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-13-support-j-k-keys-for-up-down-navigation-in-the-diff-view|Support
+  j/k keys for up/down navigation in the /diff view]]'
+- '[[Changes/Codex CLI/2026-05-18-5-interface-experience-changes-in-rust-v0-131-0|5
+  Interface Experience changes in rust-v0.131.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4|claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4]]'
 source_type: github_releases
 theme: interface-experience
@@ -85,7 +85,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.145
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-full-screen-tabs-faa5d2|Full-screen tabs]]
+- Earlier: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-5-interface-experience-changes-in-rust-v0-131-0|5 Interface Experience changes in rust-v0.131.0]]
 - Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-model-now-changes-the-model-for-the-current-session-only-press-d-in-the-model-pi|/model now changes the model for the current session only]]
 <!-- chronolog:end -->
 

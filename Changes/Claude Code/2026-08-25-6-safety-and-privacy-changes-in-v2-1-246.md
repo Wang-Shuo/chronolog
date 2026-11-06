@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 82e0da9df1e56eacb6786b171990e3e42b1bd1ad77b93f5c0aa22d7a786a2fd3
+machine_hash: 69dae6f5455237bfb0239bd7fd180576987b30661e1ed4b033ac405e57e0c1cb
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,10 +58,10 @@ record:
   title: 6 Safety and Privacy changes in v2.1.246
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-19-2-safety-and-privacy-changes-in-v2-1-236|2 Safety
-  and Privacy changes in v2.1.236]]'
 - '[[Changes/Claude Code/2026-08-20-3-safety-and-privacy-changes-in-v2-1-238|3 Safety
   and Privacy changes in v2.1.238]]'
+- '[[Changes/Codex CLI/2026-08-20-18-safety-and-privacy-changes-in-rust-v0-149-0|18
+  Safety and Privacy changes in rust-v0.149.0]]'
 - '[[Changes/Claude Code/2026-08-21-fixed-fullscreen-mode-answering-a-permission-prompt-or-pressing-a-button-when-yo|Fixed
   fullscreen mode answering a permission prompt or pressing a button when you…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0|claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0]]'
@@ -112,7 +112,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.246
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-fixed-fullscreen-mode-answering-a-permission-prompt-or-pressing-a-button-when-yo|Fixed fullscreen mode answering a permission prompt or pressing a button when you…]]
-- Later: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-2-safety-and-privacy-changes-in-v2-1-247|2 Safety and Privacy changes in v2.1.247]]
+- Later: 2026-08-25 · Gemini CLI · [[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-26120-clarify-privacy-notice-wording-and-selection-options-b|SSR Agent Issue Fix (26120): Clarify privacy notice wording and selection options]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

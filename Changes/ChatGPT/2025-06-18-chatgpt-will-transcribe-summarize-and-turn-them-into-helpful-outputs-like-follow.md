@@ -4,20 +4,20 @@ date: '2025-06-18'
 description: 'ChatGPT · 2025-06-18 · Voice and Audio: ChatGPT will transcribe, summarize,
   and turn them into helpful outputs like follow-ups, plans, or even code.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
-    (Beta) is now rolling out to Plus users on iOS and Android]]'
+  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
+    link) support, which allows you…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 632
+  lag_days: 677
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2ac80fc0fc536766bb7860606b9a3a708c4756a63afd2f79461e09d0f5773d84
+machine_hash: e94aa4e5c41d164bb9722669b5512696a6cb6bc762fbcb5293a9f470128ffd2b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -79,13 +79,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-deep-research-and-voice-mode-support|Deep research and voice mode support]]
-- Later: 2025-07-16 · ChatGPT · [[Changes/ChatGPT/2025-07-16-record-live-conversations-like-team-meetings-or-voice-notes-and-turn-those-into|Record live conversations like team meetings or voice notes, and turn those…]]
+- Later: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-feat-add-audio-and-video-support-to-read-file-by-santhoshkumarcodes-in-https-git|feat: add audio and video support to read_file]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
+- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

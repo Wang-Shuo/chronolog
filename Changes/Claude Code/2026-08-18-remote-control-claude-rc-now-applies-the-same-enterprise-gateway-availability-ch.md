@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c883fbe2c7fab2f906a3d055068674ca9c53b9a8a17f691eaf364ffa599c30d3
+machine_hash: 5be560f2419742caf836c6cbdba25246f3b6eab14ce47685f1ab0c120ef53420
 product: claude-code
 product_name: Claude Code
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-changed-the-github-app-setup-tip-to-no-longer-appear-in-repositories-whose-origi|Changed the GitHub app setup tip to no longer appear in repositories whose origin…]]
-- Later: 2026-09-10 · ChatGPT · [[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-integrations-are-now-rolling-out-to-go-plus-pro-busin|Box, Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro…]]
+- Later: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-2-enterprise-and-administration-changes-in-v1-0-81|2 Enterprise and Administration changes in v1.0.81]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

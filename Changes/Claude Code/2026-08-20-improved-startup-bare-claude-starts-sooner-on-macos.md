@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ae4713d87b686794bcfd744dd4308f853be9b98bb8999337f8eeec60ec226963
+machine_hash: ebc4956f0dad35064819fc3877ff55a600be4b9c99663f3251bb205d415b0ca4
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,8 +41,8 @@ record:
   title: 'Improved startup: bare `claude` starts sooner on macOS'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-14-use-chatgpt-and-codex-on-linux-the-desktop-app-is-now-available-globally-in-publ|Use
-  ChatGPT and Codex on Linux]]'
+- '[[Changes/Codex CLI/2026-08-18-3-mobile-and-desktop-changes-in-rust-v0-148-0|3
+  Mobile and Desktop changes in rust-v0.148.0]]'
 - '[[Changes/Claude Code/2026-08-19-added-notify-when-idle-to-cross-session-sendmessage-ask-another-claude-code-sess|Added
   notify_when_idle to cross-session SendMessage]]'
 - '[[Changes/ChatGPT/2026-08-20-keep-pinned-chats-in-sync-pinned-chats-now-stay-in-sync-between-the-chatgpt-desk|Keep
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-20 · ChatGPT · [[Changes/ChatGPT/2026-08-20-keep-pinned-chats-in-sync-pinned-chats-now-stay-in-sync-between-the-chatgpt-desk|Keep pinned chats in sync]]
-- Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-remote-sessions-images-uploaded-from-mobile-now-include-their-saved-file-path-so|Remote sessions: images uploaded from mobile now include their saved file path…]]
+- Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-7-mobile-and-desktop-changes-in-rust-v0-149-0|7 Mobile and Desktop changes in rust-v0.149.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

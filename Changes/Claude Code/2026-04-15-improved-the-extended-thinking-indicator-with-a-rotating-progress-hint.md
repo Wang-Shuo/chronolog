@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d9e6c98697b352b9c97171288bb318308af6e68c5cd979500e159de64794de1e
+machine_hash: 3553935049d423933d269126b11e3fca5b8aecdb47f8321eff7ab5eafe68180e
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,7 +43,8 @@ record:
   title: Improved the extended-thinking indicator with a rotating progress hint
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-14-configuration-menu-in-cli|Configuration menu in CLI]]'
+- '[[Changes/Gemini CLI/2026-04-14-2-interface-experience-changes-in-v0-38-0|2 Interface
+  Experience changes in v0.38.0]]'
 - '[[Changes/Claude Code/2026-04-15-added-tui-command-and-tui-setting-run-tui-fullscreen-to-switch-to-flicker-free-r|Added
   /tui command and tui setting]]'
 - '[[Changes/Claude Code/2026-04-15-2-interface-experience-changes-in-v2-1-110|2 Interface
@@ -75,7 +76,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-2-interface-experience-changes-in-v2-1-110|2 Interface Experience changes in v2.1.110]]
-- Later: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-3-interface-experience-changes-in-v2-1-111|3 Interface Experience changes in v2.1.111]]
+- Later: 2026-04-15 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-15-status-bar-shows-files-and-issues-hints-while-typing-and-help-hint-when-the-slas|Status bar shows @files and ♯issues hints while typing, and /help hint…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

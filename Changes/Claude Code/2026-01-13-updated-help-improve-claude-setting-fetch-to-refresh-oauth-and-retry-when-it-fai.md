@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b22e5cd31208865441b1b56d8e7482d3a03b3bd54deb924a413e3bb23aa3c4c
+machine_hash: cde786926c21d65968381082c667a0f5d6e8a9f4c91d62738a143a4e0cd3eade
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
     it fails…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-04-mcp-one-click-install-and-oauth-support|MCP one-click
-  install and OAuth support]]'
-- '[[Changes/Cursor/2025-09-29-1-7-41-token-sync-improvements-for-authentication|1.7.41:
-  Token sync improvements for authentication]]'
-- '[[Changes/Cursor/2025-12-22-2-account-and-access-changes-in-2-3|2 Account and Access
-  changes in 2.3]]'
+- '[[Changes/Cline/2026-01-06-added-support-for-azure-based-identity-authentication-in-openai-compatible-provi|Added
+  support for Azure based identity authentication in OpenAI Compatible provider…]]'
+- '[[Changes/Codex CLI/2026-01-07-2-account-and-access-changes-in-rust-v0-79-0|2 Account
+  and Access changes in rust-v0.79.0]]'
+- '[[Changes/Gemini CLI/2026-01-07-validate-oauth-resource-parameter-matches-mcp-server-url-by-galz10-in-https-gith|Validate
+  OAuth resource parameter matches MCP server URL]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a|claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a]]'
 source_type: github_releases
 theme: account-access
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-2-account-and-access-changes-in-2-3|2 Account and Access changes in 2.3]]
+- Earlier: 2026-01-07 · Gemini CLI · [[Changes/Gemini CLI/2026-01-07-validate-oauth-resource-parameter-matches-mcp-server-url-by-galz10-in-https-gith|Validate OAuth resource parameter matches MCP server URL]]
 - Later: 2026-01-14 · Claude Code · [[Changes/Claude Code/2026-01-14-changed-oauth-and-api-console-urls-from-console-anthropic-com-to-platform-claude|Changed OAuth and API Console URLs from console.anthropic.com to platform.claude.com]]
 <!-- chronolog:end -->
 

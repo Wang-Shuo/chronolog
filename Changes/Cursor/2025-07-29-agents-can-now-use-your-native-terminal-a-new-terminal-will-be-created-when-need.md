@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: fc13d5d52ef829b68e3ee74f4606e09060b8c2e3da0183840964a818f75c3f33
+machine_hash: 32c00f3e4650c7a55d0315d4180774ec9448b486747ec18384425be832cc16c4
 product: cursor
 product_name: Cursor
 record:
@@ -57,11 +57,12 @@ record:
   title: Share terminal with Agent
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-03-you-can-now-queue-follow-up-messages-for-agent-once-it-s-done-with-current-task|Queued
-  messages]]'
-- '[[Changes/Cursor/2025-07-03-2-agent-mode-changes-in-1-2|2 Agent Mode changes in
-  1.2]]'
-- '[[Changes/Cursor/2025-07-03-background-agent-improvements|Background Agent improvements]]'
+- '[[Changes/Gemini CLI/2025-07-19-3-agent-mode-changes-in-v0-1-13|3 Agent Mode changes
+  in v0.1.13]]'
+- '[[Changes/OpenHands/2025-07-24-2-agent-mode-changes-in-0-50-0|2 Agent Mode changes
+  in 0.50.0]]'
+- '[[Changes/Gemini CLI/2025-07-25-5-agent-mode-changes-in-v0-1-14|5 Agent Mode changes
+  in v0.1.14]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -99,8 +100,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-background-agent-improvements|Background Agent improvements]]
-- Later: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-improved-agent-tools-488891|Improved Agent tools]]
+- Earlier: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-5-agent-mode-changes-in-v0-1-14|5 Agent Mode changes in v0.1.14]]
+- Later: 2025-07-30 · Gemini CLI · [[Changes/Gemini CLI/2025-07-30-6-agent-mode-changes-in-v0-1-15|6 Agent Mode changes in v0.1.15]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

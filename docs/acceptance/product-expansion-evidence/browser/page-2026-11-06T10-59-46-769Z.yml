@@ -1,0 +1,922 @@
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - generic [ref=e5]:
+      - heading [level=2] [ref=e6]:
+        - link "ChronoLog" [ref=e7] [cursor=pointer]:
+          - /url: .
+      - paragraph [ref=e8]: Tracked changes in AI assistants and coding tools
+    - button [ref=e10] [cursor=pointer]:
+      - img "Search" [ref=e11]
+      - paragraph [ref=e15]: Search
+    - button [ref=e16] [cursor=pointer]:
+      - img "Dark mode" [ref=e17]
+    - generic [ref=e19]:
+      - button [expanded] [ref=e20] [cursor=pointer]:
+        - heading "Explorer" [level=2] [ref=e21]
+      - group [ref=e23]:
+        - list [ref=e24]:
+          - listitem [ref=e25]:
+            - generic [ref=e26]:
+              - img [ref=e27] [cursor=pointer]
+              - link "Products" [ref=e29] [cursor=pointer]:
+                - /url: ./Products/
+            - list [ref=e31]:
+              - listitem [ref=e32]:
+                - link "Aider" [ref=e33] [cursor=pointer]:
+                  - /url: ./Products/Aider
+              - listitem [ref=e34]:
+                - link "ChatGPT" [ref=e35] [cursor=pointer]:
+                  - /url: ./Products/ChatGPT
+              - listitem [ref=e36]:
+                - link "Claude Code" [ref=e37] [cursor=pointer]:
+                  - /url: ./Products/Claude-Code
+              - listitem [ref=e38]:
+                - link "Cline" [ref=e39] [cursor=pointer]:
+                  - /url: ./Products/Cline
+              - listitem [ref=e40]:
+                - link "Codex CLI" [ref=e41] [cursor=pointer]:
+                  - /url: ./Products/Codex-CLI
+              - listitem [ref=e42]:
+                - link "Cursor" [ref=e43] [cursor=pointer]:
+                  - /url: ./Products/Cursor
+              - listitem [ref=e44]:
+                - link "Gemini CLI" [ref=e45] [cursor=pointer]:
+                  - /url: ./Products/Gemini-CLI
+              - listitem [ref=e46]:
+                - link "GitHub Copilot CLI" [ref=e47] [cursor=pointer]:
+                  - /url: ./Products/GitHub-Copilot-CLI
+              - listitem [ref=e48]:
+                - link "OpenHands" [ref=e49] [cursor=pointer]:
+                  - /url: ./Products/OpenHands
+              - listitem [ref=e50]:
+                - link "Windsurf" [ref=e51] [cursor=pointer]:
+                  - /url: ./Products/Windsurf
+          - listitem [ref=e52]:
+            - generic [ref=e53]:
+              - img [ref=e54] [cursor=pointer]
+              - link "Themes" [ref=e56] [cursor=pointer]:
+                - /url: ./Themes/
+            - list [ref=e58]:
+              - listitem [ref=e59]:
+                - link "Accessibility and Localization" [ref=e60] [cursor=pointer]:
+                  - /url: ./Themes/accessibility-localization
+              - listitem [ref=e61]:
+                - link "Account and Access" [ref=e62] [cursor=pointer]:
+                  - /url: ./Themes/account-access
+              - listitem [ref=e63]:
+                - link "Agent Mode" [ref=e64] [cursor=pointer]:
+                  - /url: ./Themes/agent-mode
+              - listitem [ref=e65]:
+                - link "Apps and Integrations" [ref=e66] [cursor=pointer]:
+                  - /url: ./Themes/apps-integrations
+              - listitem [ref=e67]:
+                - link "Artifact Creation" [ref=e68] [cursor=pointer]:
+                  - /url: ./Themes/artifact-creation
+              - listitem [ref=e69]:
+                - link "Automation and Scheduling" [ref=e70] [cursor=pointer]:
+                  - /url: ./Themes/automation-scheduling
+              - listitem [ref=e71]:
+                - link "Collaboration" [ref=e72] [cursor=pointer]:
+                  - /url: ./Themes/collaboration
+              - listitem [ref=e73]:
+                - link "Context Window" [ref=e74] [cursor=pointer]:
+                  - /url: ./Themes/context-window
+              - listitem [ref=e75]:
+                - link "Developer Workflow" [ref=e76] [cursor=pointer]:
+                  - /url: ./Themes/developer-workflow
+              - listitem [ref=e77]:
+                - link "Editor Experience" [ref=e78] [cursor=pointer]:
+                  - /url: ./Themes/editor-experience
+              - listitem [ref=e79]:
+                - link "Enterprise and Administration" [ref=e80] [cursor=pointer]:
+                  - /url: ./Themes/enterprise-admin
+              - listitem [ref=e81]:
+                - link "Files and Data" [ref=e82] [cursor=pointer]:
+                  - /url: ./Themes/file-data
+              - listitem [ref=e83]:
+                - link "Image Generation" [ref=e84] [cursor=pointer]:
+                  - /url: ./Themes/image-generation
+              - listitem [ref=e85]:
+                - link "Interface Experience" [ref=e86] [cursor=pointer]:
+                  - /url: ./Themes/interface-experience
+              - listitem [ref=e87]:
+                - link "Learning Tools" [ref=e88] [cursor=pointer]:
+                  - /url: ./Themes/learning-tools
+              - listitem [ref=e89]:
+                - link "Memory and Personalization" [ref=e90] [cursor=pointer]:
+                  - /url: ./Themes/memory
+              - listitem [ref=e91]:
+                - link "Mobile and Desktop" [ref=e92] [cursor=pointer]:
+                  - /url: ./Themes/mobile-desktop
+              - listitem [ref=e93]:
+                - link "Model Support" [ref=e94] [cursor=pointer]:
+                  - /url: ./Themes/model-support
+              - listitem [ref=e95]:
+                - link "Multimodal Input" [ref=e96] [cursor=pointer]:
+                  - /url: ./Themes/multimodal
+              - listitem [ref=e97]:
+                - link "Pricing Model" [ref=e98] [cursor=pointer]:
+                  - /url: ./Themes/pricing-model
+              - listitem [ref=e99]:
+                - link "Projects and Workspaces" [ref=e100] [cursor=pointer]:
+                  - /url: ./Themes/projects-workspaces
+              - listitem [ref=e101]:
+                - link "Reliability and Performance" [ref=e102] [cursor=pointer]:
+                  - /url: ./Themes/reliability-performance
+              - listitem [ref=e103]:
+                - link "Safety and Privacy" [ref=e104] [cursor=pointer]:
+                  - /url: ./Themes/safety-privacy
+              - listitem [ref=e105]:
+                - link "Search and Browsing" [ref=e106] [cursor=pointer]:
+                  - /url: ./Themes/search-browsing
+              - listitem [ref=e107]:
+                - link "Voice and Audio" [ref=e108] [cursor=pointer]:
+                  - /url: ./Themes/voice
+          - listitem [ref=e109]:
+            - generic [ref=e110]:
+              - img [ref=e111] [cursor=pointer]
+              - link "Archive" [ref=e113] [cursor=pointer]:
+                - /url: ./Archive/
+            - list [ref=e115]:
+              - listitem [ref=e116]:
+                - link "November 2026" [ref=e117] [cursor=pointer]:
+                  - /url: ./Archive/2026-11
+              - listitem [ref=e118]:
+                - link "October 2026" [ref=e119] [cursor=pointer]:
+                  - /url: ./Archive/2026-10
+              - listitem [ref=e120]:
+                - link "September 2026" [ref=e121] [cursor=pointer]:
+                  - /url: ./Archive/2026-09
+              - listitem [ref=e122]:
+                - link "August 2026" [ref=e123] [cursor=pointer]:
+                  - /url: ./Archive/2026-08
+              - listitem [ref=e124]:
+                - link "July 2026" [ref=e125] [cursor=pointer]:
+                  - /url: ./Archive/2026-07
+              - listitem [ref=e126]:
+                - link "June 2026" [ref=e127] [cursor=pointer]:
+                  - /url: ./Archive/2026-06
+              - listitem [ref=e128]:
+                - link "May 2026" [ref=e129] [cursor=pointer]:
+                  - /url: ./Archive/2026-05
+              - listitem [ref=e130]:
+                - link "April 2026" [ref=e131] [cursor=pointer]:
+                  - /url: ./Archive/2026-04
+              - listitem [ref=e132]:
+                - link "March 2026" [ref=e133] [cursor=pointer]:
+                  - /url: ./Archive/2026-03
+              - listitem [ref=e134]:
+                - link "February 2026" [ref=e135] [cursor=pointer]:
+                  - /url: ./Archive/2026-02
+              - listitem [ref=e136]:
+                - link "January 2026" [ref=e137] [cursor=pointer]:
+                  - /url: ./Archive/2026-01
+              - listitem [ref=e138]:
+                - link "December 2025" [ref=e139] [cursor=pointer]:
+                  - /url: ./Archive/2025-12
+              - listitem [ref=e140]:
+                - link "November 2025" [ref=e141] [cursor=pointer]:
+                  - /url: ./Archive/2025-11
+              - listitem [ref=e142]:
+                - link "October 2025" [ref=e143] [cursor=pointer]:
+                  - /url: ./Archive/2025-10
+              - listitem [ref=e144]:
+                - link "September 2025" [ref=e145] [cursor=pointer]:
+                  - /url: ./Archive/2025-09
+              - listitem [ref=e146]:
+                - link "August 2025" [ref=e147] [cursor=pointer]:
+                  - /url: ./Archive/2025-08
+              - listitem [ref=e148]:
+                - link "July 2025" [ref=e149] [cursor=pointer]:
+                  - /url: ./Archive/2025-07
+              - listitem [ref=e150]:
+                - link "June 2025" [ref=e151] [cursor=pointer]:
+                  - /url: ./Archive/2025-06
+              - listitem [ref=e152]:
+                - link "May 2025" [ref=e153] [cursor=pointer]:
+                  - /url: ./Archive/2025-05
+              - listitem [ref=e154]:
+                - link "April 2025" [ref=e155] [cursor=pointer]:
+                  - /url: ./Archive/2025-04
+              - listitem [ref=e156]:
+                - link "March 2025" [ref=e157] [cursor=pointer]:
+                  - /url: ./Archive/2025-03
+              - listitem [ref=e158]:
+                - link "February 2025" [ref=e159] [cursor=pointer]:
+                  - /url: ./Archive/2025-02
+              - listitem [ref=e160]:
+                - link "January 2025" [ref=e161] [cursor=pointer]:
+                  - /url: ./Archive/2025-01
+              - listitem [ref=e162]:
+                - link "December 2024" [ref=e163] [cursor=pointer]:
+                  - /url: ./Archive/2024-12
+              - listitem [ref=e164]:
+                - link "November 2024" [ref=e165] [cursor=pointer]:
+                  - /url: ./Archive/2024-11
+              - listitem [ref=e166]:
+                - link "October 2024" [ref=e167] [cursor=pointer]:
+                  - /url: ./Archive/2024-10
+              - listitem [ref=e168]:
+                - link "September 2024" [ref=e169] [cursor=pointer]:
+                  - /url: ./Archive/2024-09
+              - listitem [ref=e170]:
+                - link "August 2024" [ref=e171] [cursor=pointer]:
+                  - /url: ./Archive/2024-08
+              - listitem [ref=e172]:
+                - link "July 2024" [ref=e173] [cursor=pointer]:
+                  - /url: ./Archive/2024-07
+              - listitem [ref=e174]:
+                - link "June 2024" [ref=e175] [cursor=pointer]:
+                  - /url: ./Archive/2024-06
+              - listitem [ref=e176]:
+                - link "May 2024" [ref=e177] [cursor=pointer]:
+                  - /url: ./Archive/2024-05
+              - listitem [ref=e178]:
+                - link "April 2024" [ref=e179] [cursor=pointer]:
+                  - /url: ./Archive/2024-04
+              - listitem [ref=e180]:
+                - link "March 2024" [ref=e181] [cursor=pointer]:
+                  - /url: ./Archive/2024-03
+              - listitem [ref=e182]:
+                - link "February 2024" [ref=e183] [cursor=pointer]:
+                  - /url: ./Archive/2024-02
+              - listitem [ref=e184]:
+                - link "January 2024" [ref=e185] [cursor=pointer]:
+                  - /url: ./Archive/2024-01
+              - listitem [ref=e186]:
+                - link "December 2023" [ref=e187] [cursor=pointer]:
+                  - /url: ./Archive/2023-12
+              - listitem [ref=e188]:
+                - link "November 2023" [ref=e189] [cursor=pointer]:
+                  - /url: ./Archive/2023-11
+              - listitem [ref=e190]:
+                - link "October 2023" [ref=e191] [cursor=pointer]:
+                  - /url: ./Archive/2023-10
+              - listitem [ref=e192]:
+                - link "September 2023" [ref=e193] [cursor=pointer]:
+                  - /url: ./Archive/2023-09
+              - listitem [ref=e194]:
+                - link "August 2023" [ref=e195] [cursor=pointer]:
+                  - /url: ./Archive/2023-08
+              - listitem [ref=e196]:
+                - link "July 2023" [ref=e197] [cursor=pointer]:
+                  - /url: ./Archive/2023-07
+              - listitem [ref=e198]:
+                - link "June 2023" [ref=e199] [cursor=pointer]:
+                  - /url: ./Archive/2023-06
+              - listitem [ref=e200]:
+                - link "May 2023" [ref=e201] [cursor=pointer]:
+                  - /url: ./Archive/2023-05
+              - listitem [ref=e202]:
+                - link "April 2023" [ref=e203] [cursor=pointer]:
+                  - /url: ./Archive/2023-04
+              - listitem [ref=e204]:
+                - link "March 2023" [ref=e205] [cursor=pointer]:
+                  - /url: ./Archive/2023-03
+              - listitem [ref=e206]:
+                - link "February 2023" [ref=e207] [cursor=pointer]:
+                  - /url: ./Archive/2023-02
+              - listitem [ref=e208]:
+                - link "January 2023" [ref=e209] [cursor=pointer]:
+                  - /url: ./Archive/2023-01
+              - listitem [ref=e210]:
+                - link "December 2022" [ref=e211] [cursor=pointer]:
+                  - /url: ./Archive/2022-12
+          - listitem [ref=e212]:
+            - link "About the data" [ref=e213] [cursor=pointer]:
+              - /url: ./About
+          - listitem [ref=e214]
+  - generic [ref=e215]:
+    - generic [ref=e217]:
+      - navigation "breadcrumbs" [ref=e218]:
+        - link "Home" [ref=e220] [cursor=pointer]:
+          - /url: ""
+      - paragraph [ref=e221]:
+        - time [ref=e222]: Nov 06, 2026
+      - list [ref=e223]:
+        - listitem [ref=e224]:
+          - link "#index" [ref=e225] [cursor=pointer]:
+            - /url: ./tags/
+    - article [ref=e226]:
+      - heading "ChronoLog" [level=1] [ref=e227]:
+        - text: ChronoLog
+        - link [aria-hidden] [ref=e228] [cursor=pointer]:
+          - /url: "#chronolog"
+      - paragraph [ref=e232]:
+        - text: Tracked changes in AI assistants and coding tools, from official release notes. 10 products · 7,829 tracked changes · 25 themes · archive to 2026-11-06 ·
+        - link "About the data" [ref=e233] [cursor=pointer]:
+          - /url: ./About
+      - heading "Latest changes" [level=2] [ref=e234]:
+        - text: Latest changes
+        - link [aria-hidden] [ref=e235] [cursor=pointer]:
+          - /url: "#latest-changes"
+      - list [ref=e239]:
+        - listitem [ref=e240]: "⚠ Aider: Aider has no releases in the last 2 month windows."
+      - heading "Aider" [level=3] [ref=e241]:
+        - text: Aider
+        - link [aria-hidden] [ref=e242] [cursor=pointer]:
+          - /url: "#aider"
+      - list [ref=e246]:
+        - listitem [ref=e247]: No changes archived between 2026-10-08 and 2026-11-06.
+      - heading "ChatGPT" [level=3] [ref=e248]:
+        - text: ChatGPT
+        - link [aria-hidden] [ref=e249] [cursor=pointer]:
+          - /url: "#chatgpt"
+      - list [ref=e253]:
+        - listitem [ref=e254]:
+          - text: "2026-10-30 · Memory and Personalization:"
+          - link "Account switching on iOS and Android" [ref=e255] [cursor=pointer]:
+            - /url: ./Changes/ChatGPT/2026-10-30-account-switching-is-rolling-out-to-the-chatgpt-ios-and-android-apps-you-can-sta
+        - listitem [ref=e256]:
+          - text: "2026-10-28 · Safety and Privacy:"
+          - link "Texting your dot" [ref=e257] [cursor=pointer]:
+            - /url: ./Changes/ChatGPT/2026-10-28-texting-your-dot-is-starting-to-roll-out-in-beta-to-pro-users-in-the-u-s
+        - listitem [ref=e258]:
+          - text: "2026-10-28 · Pricing Model:"
+          - link "API credits for eligible ChatGPT Pro and Business plans" [ref=e259] [cursor=pointer]:
+            - /url: ./Changes/ChatGPT/2026-10-28-eligible-chatgpt-pro-and-business-subscribers-can-activate-promotional-api-credi
+        - listitem [ref=e260]:
+          - text: 2026-10-27 ·
+          - link "iCloud Mail and Calendar plugins in ChatGPT" [ref=e261] [cursor=pointer]:
+            - /url: ./Releases/ChatGPT/chatgpt-2026-10-27-icloud-mail-and-calendar-plugins-in-chatgpt-216bf9bc
+          - text: "· 2 cards: Automation and Scheduling, Mobile and Desktop"
+        - listitem [ref=e262]:
+          - text: "2026-10-26 · Model Support:"
+          - link "GPT-6.1 Terra" [ref=e263] [cursor=pointer]:
+            - /url: ./Changes/ChatGPT/2026-10-26-gpt-6-1-terra-is-rolling-out-in-chatgpt-work-and-codex-it-supports-a-range-of-ta
+        - listitem [ref=e264]:
+          - text: "2026-10-21 · Pricing Model:"
+          - link "MoMo payments in Vietnam" [ref=e265] [cursor=pointer]:
+            - /url: ./Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased
+        - listitem [ref=e266]:
+          - text: 5 more releases in this window →
+          - link "ChatGPT" [ref=e267] [cursor=pointer]:
+            - /url: ./Products/ChatGPT
+      - heading "Claude Code" [level=3] [ref=e268]:
+        - text: Claude Code
+        - link [aria-hidden] [ref=e269] [cursor=pointer]:
+          - /url: "#claude-code"
+      - list [ref=e273]:
+        - listitem [ref=e274]:
+          - text: "2026-10-31 · Model Support:"
+          - link "Deprecated fast mode for Opus 4.8 as of October 30, 2026" [ref=e275] [cursor=pointer]:
+            - /url: ./Changes/Claude-Code/2026-10-31-deprecated-fast-mode-for-opus-4-8-as-of-october-30-2026-it-will-be-removed-on-no
+          - text: · +7 more in
+          - link "v2.1.316" [ref=e276] [cursor=pointer]:
+            - /url: ./Releases/Claude-Code/claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9
+        - listitem [ref=e277]:
+          - text: 2026-10-30 ·
+          - link "v2.1.314" [ref=e278] [cursor=pointer]:
+            - /url: ./Releases/Claude-Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7
+          - text: "· 10 cards: Safety and Privacy, Developer Workflow, Agent Mode, +7 more"
+        - listitem [ref=e279]:
+          - text: 2026-10-27 ·
+          - link "v2.1.312" [ref=e280] [cursor=pointer]:
+            - /url: ./Releases/Claude-Code/claude-code-2026-10-27-v2-1-312-github-425846009-439d063a
+          - text: "· 7 cards: Model Support, Agent Mode, Apps and Integrations, +4 more"
+        - listitem [ref=e281]:
+          - text: 2026-10-26 ·
+          - link "v2.1.311" [ref=e282] [cursor=pointer]:
+            - /url: ./Releases/Claude-Code/claude-code-2026-10-26-v2-1-311-github-424682562-151da26b
+          - text: "· 11 cards: Model Support, Developer Workflow, Accessibility and Localization, +8 more"
+        - listitem [ref=e283]:
+          - text: 2026-10-23 ·
+          - link "v2.1.310" [ref=e284] [cursor=pointer]:
+            - /url: ./Releases/Claude-Code/claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2
+          - text: "· 8 cards: Safety and Privacy, Agent Mode, Apps and Integrations, +5 more"
+        - listitem [ref=e285]:
+          - text: 2026-10-22 ·
+          - link "v2.1.309" [ref=e286] [cursor=pointer]:
+            - /url: ./Releases/Claude-Code/claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99
+          - text: "· 9 cards: Safety and Privacy, Apps and Integrations, Editor Experience, +6 more"
+        - listitem [ref=e287]:
+          - text: 10 more releases in this window →
+          - link "Claude Code" [ref=e288] [cursor=pointer]:
+            - /url: ./Products/Claude-Code
+      - heading "Cline" [level=3] [ref=e289]:
+        - text: Cline
+        - link [aria-hidden] [ref=e290] [cursor=pointer]:
+          - /url: "#cline"
+      - list [ref=e294]:
+        - listitem [ref=e295]:
+          - text: 2026-10-26 ·
+          - link "v4.1.26" [ref=e296] [cursor=pointer]:
+            - /url: ./Releases/Cline/cline-2026-10-26-v4-1-26-github-424033561-1dc8e551
+          - text: "· 4 cards: Model Support, Context Window, Developer Workflow, +1 more"
+        - listitem [ref=e297]:
+          - text: 2026-10-16 ·
+          - link "v4.1.25" [ref=e298] [cursor=pointer]:
+            - /url: ./Releases/Cline/cline-2026-10-16-v4-1-25-github-414630227-91f6e52e
+          - text: "· 3 cards: Model Support, Context Window, Safety and Privacy"
+        - listitem [ref=e299]:
+          - text: 2026-10-13 ·
+          - link "v4.1.24" [ref=e300] [cursor=pointer]:
+            - /url: ./Releases/Cline/cline-2026-10-13-v4-1-24-github-411804449-05899922
+          - text: "· 6 cards: Model Support, Account and Access, Context Window, +3 more"
+      - heading "Codex CLI" [level=3] [ref=e301]:
+        - text: Codex CLI
+        - link [aria-hidden] [ref=e302] [cursor=pointer]:
+          - /url: "#codex-cli"
+      - list [ref=e306]:
+        - listitem [ref=e307]:
+          - text: 2026-11-06 ·
+          - link "0.167.0" [ref=e308] [cursor=pointer]:
+            - /url: ./Releases/Codex-CLI/codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc
+          - text: "· 13 cards: Interface Experience, Apps and Integrations, Context Window, +10 more"
+        - listitem [ref=e309]:
+          - text: "2026-10-29 · Pricing Model:"
+          - link "♯56495 Add paginated channel subscription queries to the local message board @felixxia-oai" [ref=e310] [cursor=pointer]:
+            - /url: ./Changes/Codex-CLI/2026-10-29-56495-add-paginated-channel-subscription-queries-to-the-local-message-board-feli
+          - text: · +15 more in
+          - link "0.166.0" [ref=e311] [cursor=pointer]:
+            - /url: ./Releases/Codex-CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a
+        - listitem [ref=e312]:
+          - text: 2026-10-27 ·
+          - link "0.165.0" [ref=e313] [cursor=pointer]:
+            - /url: ./Releases/Codex-CLI/codex-cli-2026-10-27-rust-v0-165-0-github-425927431-1fa685eb
+          - text: "· 9 cards: Apps and Integrations, Model Support, Memory and Personalization, +6 more"
+        - listitem [ref=e314]:
+          - text: "2026-10-23 · Account and Access:"
+          - link "The Amazon Bedrock setup wizard is now enabled by default, with API key entry…" [ref=e315] [cursor=pointer]:
+            - /url: ./Changes/Codex-CLI/2026-10-23-the-amazon-bedrock-setup-wizard-is-now-enabled-by-default-with-api-key-entry-gro
+          - text: · +14 more in
+          - link "0.164.0" [ref=e316] [cursor=pointer]:
+            - /url: ./Releases/Codex-CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d
+        - listitem [ref=e317]:
+          - text: 2026-10-15 ·
+          - link "0.163.0" [ref=e318] [cursor=pointer]:
+            - /url: ./Releases/Codex-CLI/codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6
+          - text: "· 13 cards: Safety and Privacy, Context Window, Apps and Integrations, +10 more"
+        - listitem [ref=e319]:
+          - text: 2026-10-08 ·
+          - link "0.162.0" [ref=e320] [cursor=pointer]:
+            - /url: ./Releases/Codex-CLI/codex-cli-2026-10-08-rust-v0-162-0-github-407151970-b80d60db
+          - text: "· 14 cards: Apps and Integrations, Agent Mode, Safety and Privacy, +11 more"
+      - heading "Cursor" [level=3] [ref=e321]:
+        - text: Cursor
+        - link [aria-hidden] [ref=e322] [cursor=pointer]:
+          - /url: "#cursor"
+      - list [ref=e326]:
+        - listitem [ref=e327]:
+          - text: 2026-10-20 ·
+          - link "Agent SDK" [ref=e328] [cursor=pointer]:
+            - /url: ./Releases/Cursor/cursor-2026-10-20-agent-sdk-https-cursor-com-changelog-agent-sdk-00fcb04c
+          - text: "· 6 cards: Agent Mode, Automation and Scheduling"
+        - listitem [ref=e329]:
+          - text: 2026-10-16 ·
+          - link "Cloud Agent Canvases and Environment Improvements" [ref=e330] [cursor=pointer]:
+            - /url: ./Releases/Cursor/cursor-2026-10-16-cloud-agent-canvases-and-environment-improvements-https-cursor-c-1809cd74
+          - text: "· 3 cards: Agent Mode, Reliability and Performance"
+        - listitem [ref=e331]:
+          - text: 2026-10-13 ·
+          - link "Origin App Marketplace" [ref=e332] [cursor=pointer]:
+            - /url: ./Releases/Cursor/cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c
+          - text: "· 3 cards: Apps and Integrations, Safety and Privacy"
+      - heading "Gemini CLI" [level=3] [ref=e333]:
+        - text: Gemini CLI
+        - link [aria-hidden] [ref=e334] [cursor=pointer]:
+          - /url: "#gemini-cli"
+      - list [ref=e338]:
+        - listitem [ref=e339]:
+          - text: 2026-11-04 ·
+          - link "Release v0.67.0" [ref=e340] [cursor=pointer]:
+            - /url: ./Releases/Gemini-CLI/gemini-cli-2026-11-04-v0-67-0-github-434415349-61471746
+          - text: "· 3 cards: Editor Experience, Model Support, Safety and Privacy"
+        - listitem [ref=e341]:
+          - text: 2026-10-27 ·
+          - link "Release v0.66.0" [ref=e342] [cursor=pointer]:
+            - /url: ./Releases/Gemini-CLI/gemini-cli-2026-10-27-v0-66-0-github-425948678-1df8e1c2
+          - text: "· 3 cards: Automation and Scheduling, Model Support, Safety and Privacy"
+      - heading "GitHub Copilot CLI" [level=3] [ref=e343]:
+        - text: GitHub Copilot CLI
+        - link [aria-hidden] [ref=e344] [cursor=pointer]:
+          - /url: "#github-copilot-cli"
+      - list [ref=e348]:
+        - listitem [ref=e349]:
+          - text: 2026-11-06 ·
+          - link "1.0.106" [ref=e350] [cursor=pointer]:
+            - /url: ./Releases/GitHub-Copilot-CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4
+          - text: "· 20 cards: Apps and Integrations, Developer Workflow, Editor Experience, +17 more"
+        - listitem [ref=e351]:
+          - text: 2026-10-27 ·
+          - link "1.0.104" [ref=e352] [cursor=pointer]:
+            - /url: ./Releases/GitHub-Copilot-CLI/github-copilot-cli-2026-10-27-v1-0-104-github-424965462-ca411ba6
+          - text: "· 2 cards: Apps and Integrations, Model Support"
+        - listitem [ref=e353]:
+          - text: 2026-10-22 ·
+          - link "1.0.103" [ref=e354] [cursor=pointer]:
+            - /url: ./Releases/GitHub-Copilot-CLI/github-copilot-cli-2026-10-22-v1-0-103-github-420944485-e95a7f56
+          - text: "· 4 cards: Model Support, Safety and Privacy, Apps and Integrations, +1 more"
+        - listitem [ref=e355]:
+          - text: 2026-10-21 ·
+          - link "1.0.102" [ref=e356] [cursor=pointer]:
+            - /url: ./Releases/GitHub-Copilot-CLI/github-copilot-cli-2026-10-21-v1-0-102-github-419886241-eab5a98d
+          - text: "· 4 cards: Apps and Integrations, Editor Experience, Model Support, +1 more"
+        - listitem [ref=e357]:
+          - text: 2026-10-20 ·
+          - link "1.0.101" [ref=e358] [cursor=pointer]:
+            - /url: ./Releases/GitHub-Copilot-CLI/github-copilot-cli-2026-10-20-v1-0-101-github-418747415-a1bf6298
+          - text: "· 8 cards: Model Support, Account and Access, Apps and Integrations, +5 more"
+        - listitem [ref=e359]:
+          - text: "2026-10-19 · Pricing Model:"
+          - link "Complete usage reporting no longer shows partial status or phantom unattributed…" [ref=e360] [cursor=pointer]:
+            - /url: ./Changes/GitHub-Copilot-CLI/2026-10-19-complete-usage-reporting-no-longer-shows-partial-status-or-phantom-unattributed
+          - text: · +13 more in
+          - link "1.0.100" [ref=e361] [cursor=pointer]:
+            - /url: ./Releases/GitHub-Copilot-CLI/github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578
+        - listitem [ref=e362]:
+          - text: 5 more releases in this window →
+          - link "GitHub Copilot CLI" [ref=e363] [cursor=pointer]:
+            - /url: ./Products/GitHub-Copilot-CLI
+      - heading "OpenHands" [level=3] [ref=e364]:
+        - text: OpenHands
+        - link [aria-hidden] [ref=e365] [cursor=pointer]:
+          - /url: "#openhands"
+      - list [ref=e369]:
+        - listitem [ref=e370]:
+          - text: 2026-11-05 ·
+          - link "v1.36.0" [ref=e371] [cursor=pointer]:
+            - /url: ./Releases/OpenHands/openhands-2026-11-05-v1-36-0-github-435773936-3d3cf53c
+          - text: "· 5 cards: Automation and Scheduling, Apps and Integrations, Agent Mode, +2 more"
+        - listitem [ref=e372]:
+          - text: 2026-11-03 ·
+          - link "v1.35.0" [ref=e373] [cursor=pointer]:
+            - /url: ./Releases/OpenHands/openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0
+          - text: "· 9 cards: Interface Experience, Automation and Scheduling, Agent Mode, +6 more"
+        - listitem [ref=e374]:
+          - text: 2026-10-27 ·
+          - link "v1.34.0" [ref=e375] [cursor=pointer]:
+            - /url: ./Releases/OpenHands/openhands-2026-10-27-v1-34-0-github-425575573-3f638892
+          - text: "· 10 cards: Automation and Scheduling, Interface Experience, Agent Mode, +7 more"
+        - listitem [ref=e376]:
+          - text: 2026-10-23 ·
+          - link "v1.33.0" [ref=e377] [cursor=pointer]:
+            - /url: ./Releases/OpenHands/openhands-2026-10-23-v1-33-0-github-421895037-4944fa1e
+          - text: "· 4 cards: Automation and Scheduling, Editor Experience, Interface Experience, +1 more"
+        - listitem [ref=e378]:
+          - text: 2026-10-23 ·
+          - link "v1.32.0" [ref=e379] [cursor=pointer]:
+            - /url: ./Releases/OpenHands/openhands-2026-10-23-v1-32-0-github-421408191-d358ba87
+          - text: "· 4 cards: Automation and Scheduling, Apps and Integrations, Files and Data, +1 more"
+        - listitem [ref=e380]:
+          - text: 2026-10-22 ·
+          - link "v1.31.0" [ref=e381] [cursor=pointer]:
+            - /url: ./Releases/OpenHands/openhands-2026-10-22-v1-31-0-github-420932125-8ecc1112
+          - text: "· 2 cards: Automation and Scheduling, Mobile and Desktop"
+        - listitem [ref=e382]:
+          - text: 7 more releases in this window →
+          - link "OpenHands" [ref=e383] [cursor=pointer]:
+            - /url: ./Products/OpenHands
+      - heading "Windsurf" [level=3] [ref=e384]:
+        - text: Windsurf
+        - link [aria-hidden] [ref=e385] [cursor=pointer]:
+          - /url: "#windsurf"
+      - list [ref=e389]:
+        - listitem [ref=e390]:
+          - text: "2026-10-30 · Enterprise and Administration:"
+          - link "Members an enterprise admin has listed for Anthropic's Cyber Verification Program…" [ref=e391] [cursor=pointer]:
+            - /url: ./Changes/Windsurf/2026-10-30-members-an-enterprise-admin-has-listed-for-anthropic-s-cyber-verification-progra
+        - listitem [ref=e392]:
+          - text: "2026-10-29 · Reliability and Performance:"
+          - link "Reduced memory usage for large Devin Local sessions" [ref=e393] [cursor=pointer]:
+            - /url: ./Changes/Windsurf/2026-10-29-reduced-memory-usage-for-large-devin-local-sessions
+        - listitem [ref=e394]:
+          - text: "2026-10-28 · Editor Experience:"
+          - link "In Devin Local, some tool requests, such as web fetches and multi-file edits, now…" [ref=e395] [cursor=pointer]:
+            - /url: ./Changes/Windsurf/2026-10-28-in-devin-local-some-tool-requests-such-as-web-fetches-and-multi-file-edits-now-c
+        - listitem [ref=e396]:
+          - text: 2026-10-26 ·
+          - link "v3.11.228" [ref=e397] [cursor=pointer]:
+            - /url: ./Releases/Windsurf/windsurf-2026-10-26-v3-11-228-40b60cc1
+          - text: "· 5 cards: Developer Workflow, Account and Access, Agent Mode, +2 more"
+        - listitem [ref=e398]:
+          - text: 2026-10-24 ·
+          - link "v3.11.216" [ref=e399] [cursor=pointer]:
+            - /url: ./Releases/Windsurf/windsurf-2026-10-24-v3-11-216-5e8fa8fb
+          - text: "· 2 cards: Developer Workflow, Account and Access"
+        - listitem [ref=e400]:
+          - text: "2026-10-23 · Agent Mode:"
+          - link "New Agent Window" [ref=e401] [cursor=pointer]:
+            - /url: ./Changes/Windsurf/2026-10-23-new-agent-window
+          - text: · +7 more in
+          - link "v3.11.212" [ref=e402] [cursor=pointer]:
+            - /url: ./Releases/Windsurf/windsurf-2026-10-23-v3-11-212-ce285b20
+        - listitem [ref=e403]:
+          - text: 1 more release in this window →
+          - link "Windsurf" [ref=e404] [cursor=pointer]:
+            - /url: ./Products/Windsurf
+      - paragraph [ref=e405]:
+        - text: "All months:"
+        - link "Archive" [ref=e406] [cursor=pointer]:
+          - /url: ./Archive/
+      - heading "Start exploring" [level=2] [ref=e407]:
+        - text: Start exploring
+        - link [aria-hidden] [ref=e408] [cursor=pointer]:
+          - /url: "#start-exploring"
+      - list [ref=e412]:
+        - listitem [ref=e413]:
+          - link "Agent Mode" [ref=e414] [cursor=pointer]:
+            - /url: ./Themes/agent-mode
+          - text: — From assisted edits to delegated work
+        - listitem [ref=e415]:
+          - link "Pricing Model" [ref=e416] [cursor=pointer]:
+            - /url: ./Themes/pricing-model
+          - text: — Plans, allowances, and usage charging
+        - listitem [ref=e417]:
+          - link "Model Support" [ref=e418] [cursor=pointer]:
+            - /url: ./Themes/model-support
+          - text: — How do the tracked products add, choose between and retire models?
+        - listitem [ref=e419]:
+          - link "Apps and Integrations" [ref=e420] [cursor=pointer]:
+            - /url: ./Themes/apps-integrations
+          - text: — How do the tracked products connect to outside tools, and in what unit do they package those connections?
+        - listitem [ref=e421]:
+          - link "Safety and Privacy" [ref=e422] [cursor=pointer]:
+            - /url: ./Themes/safety-privacy
+          - text: — Which safeguards and privacy controls do the tracked products add, and for whom?
+        - listitem [ref=e423]:
+          - link "Context Window" [ref=e424] [cursor=pointer]:
+            - /url: ./Themes/context-window
+          - text: — How much material can each product bring into a conversation, and how does it handle the limit?
+        - listitem [ref=e425]:
+          - link "Memory and Personalization" [ref=e426] [cursor=pointer]:
+            - /url: ./Themes/memory
+          - text: — What do the tracked products remember between sessions, and how do users control it?
+      - heading "Products" [level=2] [ref=e427]:
+        - text: Products
+        - link [aria-hidden] [ref=e428] [cursor=pointer]:
+          - /url: "#products"
+      - list [ref=e432]:
+        - listitem [ref=e433]:
+          - link "Aider" [ref=e434] [cursor=pointer]:
+            - /url: ./Products/Aider
+          - text: "· 93 releases · 2023-06-07 → 2025-08-09 · 0 releases in the last 90 days · cadence: silent"
+        - listitem [ref=e435]:
+          - link "ChatGPT" [ref=e436] [cursor=pointer]:
+            - /url: ./Products/ChatGPT
+          - text: "· 304 releases · 2022-12-15 → 2026-10-30 · 71 releases in the last 90 days · cadence: normal"
+        - listitem [ref=e437]:
+          - link "Claude Code" [ref=e438] [cursor=pointer]:
+            - /url: ./Products/Claude-Code
+          - text: "· 257 releases · 2025-12-19 → 2026-10-31 · 74 releases in the last 90 days · cadence: normal"
+        - listitem [ref=e439]:
+          - link "Cline" [ref=e440] [cursor=pointer]:
+            - /url: ./Products/Cline
+          - text: "· 297 releases · 2024-07-28 → 2026-10-26 · 19 releases in the last 90 days · cadence: quiet"
+        - listitem [ref=e441]:
+          - link "Codex CLI" [ref=e442] [cursor=pointer]:
+            - /url: ./Products/Codex-CLI
+          - text: "· 179 releases · 2025-06-30 → 2026-11-06 · 35 releases in the last 90 days · cadence: normal"
+        - listitem [ref=e443]:
+          - link "Cursor" [ref=e444] [cursor=pointer]:
+            - /url: ./Products/Cursor
+          - text: "· 257 releases · 2023-03-14 → 2026-10-20 · 11 releases in the last 90 days · cadence: normal"
+        - listitem [ref=e445]:
+          - link "Gemini CLI" [ref=e446] [cursor=pointer]:
+            - /url: ./Products/Gemini-CLI
+          - text: "· 160 releases · 2025-06-28 → 2026-11-04 · 13 releases in the last 90 days · cadence: quiet"
+        - listitem [ref=e447]:
+          - link "GitHub Copilot CLI" [ref=e448] [cursor=pointer]:
+            - /url: ./Products/GitHub-Copilot-CLI
+          - text: "· 193 releases · 2025-09-26 → 2026-11-06 · 26 releases in the last 90 days · cadence: normal"
+        - listitem [ref=e449]:
+          - link "OpenHands" [ref=e450] [cursor=pointer]:
+            - /url: ./Products/OpenHands
+          - text: "· 137 releases · 2024-06-04 → 2026-11-05 · 27 releases in the last 90 days · cadence: normal"
+        - listitem [ref=e451]:
+          - link "Windsurf" [ref=e452] [cursor=pointer]:
+            - /url: ./Products/Windsurf
+          - text: "· 121 releases · 2025-04-02 → 2026-10-30 · 17 releases in the last 90 days · cadence: normal"
+      - heading "Themes" [level=2] [ref=e453]:
+        - text: Themes
+        - link [aria-hidden] [ref=e454] [cursor=pointer]:
+          - /url: "#themes"
+      - paragraph [ref=e458]:
+        - strong [ref=e459]: Paradigm
+        - text: ·
+        - link "Agent Mode" [ref=e460] [cursor=pointer]:
+          - /url: ./Themes/agent-mode
+        - text: (584)
+      - paragraph [ref=e461]:
+        - strong [ref=e462]: Capability
+        - text: ·
+        - link "Model Support" [ref=e463] [cursor=pointer]:
+          - /url: ./Themes/model-support
+        - text: (860) ·
+        - link "Context Window" [ref=e464] [cursor=pointer]:
+          - /url: ./Themes/context-window
+        - text: (420) ·
+        - link "Memory and Personalization" [ref=e465] [cursor=pointer]:
+          - /url: ./Themes/memory
+        - text: (194) ·
+        - link "Voice and Audio" [ref=e466] [cursor=pointer]:
+          - /url: ./Themes/voice
+        - text: (119) ·
+        - link "Search and Browsing" [ref=e467] [cursor=pointer]:
+          - /url: ./Themes/search-browsing
+        - text: (103) ·
+        - link "Files and Data" [ref=e468] [cursor=pointer]:
+          - /url: ./Themes/file-data
+        - text: (99) ·
+        - link "Image Generation" [ref=e469] [cursor=pointer]:
+          - /url: ./Themes/image-generation
+        - text: (42) ·
+        - link "Multimodal Input" [ref=e470] [cursor=pointer]:
+          - /url: ./Themes/multimodal
+        - text: (16) ·
+        - link "Learning Tools" [ref=e471] [cursor=pointer]:
+          - /url: ./Themes/learning-tools
+        - text: (3) ·
+        - link "Artifact Creation" [ref=e472] [cursor=pointer]:
+          - /url: ./Themes/artifact-creation
+        - text: (1)
+      - paragraph [ref=e473]:
+        - strong [ref=e474]: Workflow
+        - text: ·
+        - link "Developer Workflow" [ref=e475] [cursor=pointer]:
+          - /url: ./Themes/developer-workflow
+        - text: (660) ·
+        - link "Interface Experience" [ref=e476] [cursor=pointer]:
+          - /url: ./Themes/interface-experience
+        - text: (517) ·
+        - link "Editor Experience" [ref=e477] [cursor=pointer]:
+          - /url: ./Themes/editor-experience
+        - text: (498) ·
+        - link "Collaboration" [ref=e478] [cursor=pointer]:
+          - /url: ./Themes/collaboration
+        - text: (160) ·
+        - link "Automation and Scheduling" [ref=e479] [cursor=pointer]:
+          - /url: ./Themes/automation-scheduling
+        - text: (130) ·
+        - link "Projects and Workspaces" [ref=e480] [cursor=pointer]:
+          - /url: ./Themes/projects-workspaces
+        - text: (56)
+      - paragraph [ref=e481]:
+        - strong [ref=e482]: Platform
+        - text: ·
+        - link "Account and Access" [ref=e483] [cursor=pointer]:
+          - /url: ./Themes/account-access
+        - text: (288) ·
+        - link "Mobile and Desktop" [ref=e484] [cursor=pointer]:
+          - /url: ./Themes/mobile-desktop
+        - text: (277)
+      - paragraph [ref=e485]:
+        - strong [ref=e486]: Ecosystem
+        - text: ·
+        - link "Apps and Integrations" [ref=e487] [cursor=pointer]:
+          - /url: ./Themes/apps-integrations
+        - text: (720)
+      - paragraph [ref=e488]:
+        - strong [ref=e489]: Business
+        - text: ·
+        - link "Pricing Model" [ref=e490] [cursor=pointer]:
+          - /url: ./Themes/pricing-model
+        - text: (149) ·
+        - link "Enterprise and Administration" [ref=e491] [cursor=pointer]:
+          - /url: ./Themes/enterprise-admin
+        - text: (99)
+      - paragraph [ref=e492]:
+        - strong [ref=e493]: Trust
+        - text: ·
+        - link "Safety and Privacy" [ref=e494] [cursor=pointer]:
+          - /url: ./Themes/safety-privacy
+        - text: (462)
+      - paragraph [ref=e495]:
+        - strong [ref=e496]: Quality
+        - text: ·
+        - link "Reliability and Performance" [ref=e497] [cursor=pointer]:
+          - /url: ./Themes/reliability-performance
+        - text: (331) ·
+        - link "Accessibility and Localization" [ref=e498] [cursor=pointer]:
+          - /url: ./Themes/accessibility-localization
+        - text: (43)
+      - heading "About the data" [level=2] [ref=e499]:
+        - text: About the data
+        - link [aria-hidden] [ref=e500] [cursor=pointer]:
+          - /url: "#about-the-data"
+      - list [ref=e504]:
+        - listitem [ref=e505]:
+          - text: Aider · 93 releases · 2023-06-07 → 2025-08-09 ·
+          - link "official source" [ref=e506] [cursor=pointer]:
+            - /url: https://github.com/Aider-AI/aider/releases
+          - text: · Stable versioned GitHub releases only; preview builds and unannounced changes are excluded. The latest upstream release may be older than the last successful fetch.
+        - listitem [ref=e509]:
+          - text: ChatGPT · 304 releases · 2022-12-15 → 2026-10-30 ·
+          - link "official source" [ref=e510] [cursor=pointer]:
+            - /url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+          - text: · Official changelog entries only; Codex-only entries excluded. Rollout dates are not universal availability dates.
+        - listitem [ref=e513]:
+          - text: Claude Code · 257 releases · 2025-12-19 → 2026-10-31 ·
+          - link "official source" [ref=e514] [cursor=pointer]:
+            - /url: https://github.com/anthropics/claude-code/releases
+          - text: · GitHub Releases starts at v2.0.73 on 2025-12-19. Official CHANGELOG.md contains 0.2.x–2.0.72 history without publication dates; not imported.
+        - listitem [ref=e517]:
+          - text: Cline · 297 releases · 2024-07-28 → 2026-10-26 ·
+          - link "official source" [ref=e518] [cursor=pointer]:
+            - /url: https://github.com/cline/cline/releases
+          - text: · Stable versioned Cline application releases only; separately tagged SDK and CLI packages and preview builds are excluded.
+        - listitem [ref=e521]:
+          - text: Codex CLI · 179 releases · 2025-06-30 → 2026-11-06 ·
+          - link "official source" [ref=e522] [cursor=pointer]:
+            - /url: https://github.com/openai/codex/releases
+          - text: · Stable versioned Codex CLI releases only; alpha builds, SDK-only releases, the Codex app and cloud-only announcements are outside this source's scope.
+        - listitem [ref=e525]:
+          - text: Cursor · 257 releases · 2023-03-14 → 2026-10-20 ·
+          - link "official source" [ref=e526] [cursor=pointer]:
+            - /url: https://cursor.com/changelog
+          - text: · Official paginated changelog only; unannounced changes are outside scope.
+        - listitem [ref=e529]:
+          - text: Gemini CLI · 160 releases · 2025-06-28 → 2026-11-04 ·
+          - link "official source" [ref=e530] [cursor=pointer]:
+            - /url: https://github.com/google-gemini/gemini-cli/releases
+          - text: · Stable versioned Gemini CLI releases only; nightly and preview builds are excluded. This is not the Gemini consumer app or the Gemini API changelog.
+        - listitem [ref=e533]:
+          - text: GitHub Copilot CLI · 193 releases · 2025-09-26 → 2026-11-06 ·
+          - link "official source" [ref=e534] [cursor=pointer]:
+            - /url: https://github.com/github/copilot-cli/releases
+          - text: · Stable versioned GitHub Copilot CLI releases only; prereleases are excluded. Copilot's IDE, web and other product surfaces have separate release histories.
+        - listitem [ref=e537]:
+          - text: OpenHands · 137 releases · 2024-06-04 → 2026-11-05 ·
+          - link "official source" [ref=e538] [cursor=pointer]:
+            - /url: https://github.com/OpenHands/OpenHands/releases
+          - text: · Stable versioned releases of the OpenHands application available from its current repository. SDK releases, preview builds and temporary PR evidence uploads are excluded; endpoint coverage does not establish the product's launch date.
+        - listitem [ref=e541]:
+          - text: Windsurf · 121 releases · 2025-04-02 → 2026-10-30 ·
+          - link "official source" [ref=e542] [cursor=pointer]:
+            - /url: https://docs.devin.ai/desktop/changelog
+          - text: · Windsurf's official changelog now continues as Devin Desktop. Only the stable desktop changelog is tracked, from the earliest entry still on the page; Next previews, Windsurf plugins and Devin Cloud have separate histories.
+      - paragraph [ref=e545]:
+        - text: "Acquisition times, how cards are made, review status and glossary:"
+        - link "About the data" [ref=e546] [cursor=pointer]:
+          - /url: ./About
+        - text: .
+    - separator [ref=e547]
+  - generic [ref=e549]:
+    - button [expanded] [ref=e550] [cursor=pointer]:
+      - heading "Table of Contents" [level=3] [ref=e551]
+    - list [ref=e554]:
+      - listitem [ref=e555]:
+        - link "ChronoLog" [ref=e556] [cursor=pointer]:
+          - /url: "#chronolog"
+      - listitem [ref=e557]:
+        - link "Latest changes" [ref=e558] [cursor=pointer]:
+          - /url: "#latest-changes"
+      - listitem [ref=e559]:
+        - link "Aider" [ref=e560] [cursor=pointer]:
+          - /url: "#aider"
+      - listitem [ref=e561]:
+        - link "ChatGPT" [ref=e562] [cursor=pointer]:
+          - /url: "#chatgpt"
+      - listitem [ref=e563]:
+        - link "Claude Code" [ref=e564] [cursor=pointer]:
+          - /url: "#claude-code"
+      - listitem [ref=e565]:
+        - link "Cline" [ref=e566] [cursor=pointer]:
+          - /url: "#cline"
+      - listitem [ref=e567]:
+        - link "Codex CLI" [ref=e568] [cursor=pointer]:
+          - /url: "#codex-cli"
+      - listitem [ref=e569]:
+        - link "Cursor" [ref=e570] [cursor=pointer]:
+          - /url: "#cursor"
+      - listitem [ref=e571]:
+        - link "Gemini CLI" [ref=e572] [cursor=pointer]:
+          - /url: "#gemini-cli"
+      - listitem [ref=e573]:
+        - link "GitHub Copilot CLI" [ref=e574] [cursor=pointer]:
+          - /url: "#github-copilot-cli"
+      - listitem [ref=e575]:
+        - link "OpenHands" [ref=e576] [cursor=pointer]:
+          - /url: "#openhands"
+      - listitem [ref=e577]:
+        - link "Windsurf" [ref=e578] [cursor=pointer]:
+          - /url: "#windsurf"
+      - listitem [ref=e579]:
+        - link "Start exploring" [ref=e580] [cursor=pointer]:
+          - /url: "#start-exploring"
+      - listitem [ref=e581]:
+        - link "Products" [ref=e582] [cursor=pointer]:
+          - /url: "#products"
+      - listitem [ref=e583]:
+        - link "Themes" [ref=e584] [cursor=pointer]:
+          - /url: "#themes"
+      - listitem [ref=e585]:
+        - link "About the data" [ref=e586] [cursor=pointer]:
+          - /url: "#about-the-data"
+      - listitem [ref=e587]
+  - contentinfo [ref=e588]:
+    - paragraph [ref=e589]:
+      - text: Created with
+      - link "Quartz v0.1.0" [ref=e590] [cursor=pointer]:
+        - /url: https://quartz.jzhao.xyz/
+      - text: © 2026
+    - list [ref=e591]:
+      - listitem [ref=e592]:
+        - link "GitHub" [ref=e593] [cursor=pointer]:
+          - /url: https://github.com/Wang-Shuo/chronolog
+      - listitem [ref=e594]:
+        - link "About" [ref=e595] [cursor=pointer]:
+          - /url: https://wang-shuo.github.io/chronolog/About
+      - listitem [ref=e596]:
+        - link "RSS" [ref=e597] [cursor=pointer]:
+          - /url: https://wang-shuo.github.io/chronolog/index.xml

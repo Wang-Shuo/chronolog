@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c498dafc7bac6f6c505d768ace42a031b01c4c9eee9684ef549983e0abc5612e
+machine_hash: 702f553889b10fef2f5038f3749fbbe5ef0e6b756dc0680325c79a99001e81d0
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     ahead…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-02-stacked-slash-skill-invocations-like-skill-a-skill-b-do-xyz-now-load-all-leading|Stacked
-  slash-skill invocations like /skill-a /skill-b do XYZ now load all leading…]]'
-- '[[Changes/Claude Code/2026-07-06-improved-mcp-error-messages-clearer-error-when-a-server-config-has-url-but-no-ty|Improved
-  MCP error messages]]'
 - '[[Changes/Claude Code/2026-07-07-2-apps-and-integrations-changes-in-v2-1-203|2
   Apps and Integrations changes in v2.1.203]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-07-7-apps-and-integrations-changes-in-v1-0-69|7
+  Apps and Integrations changes in v1.0.69]]'
+- '[[Changes/OpenHands/2026-07-07-2-apps-and-integrations-changes-in-1-9-1|2 Apps
+  and Integrations changes in 1.9.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba|claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba]]'
 source_type: github_releases
 theme: apps-integrations
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-2-apps-and-integrations-changes-in-v2-1-203|2 Apps and Integrations changes in v2.1.203]]
-- Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-we-re-also-replacing-the-app-directory-with-the-plugin-directory-existing-app-co|We’re also replacing the App Directory with the Plugin Directory]]
+- Earlier: 2026-07-07 · OpenHands · [[Changes/OpenHands/2026-07-07-2-apps-and-integrations-changes-in-1-9-1|2 Apps and Integrations changes in 1.9.1]]
+- Later: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-66-apps-and-integrations-changes-in-rust-v0-143-0|66 Apps and Integrations changes in rust-v0.143.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

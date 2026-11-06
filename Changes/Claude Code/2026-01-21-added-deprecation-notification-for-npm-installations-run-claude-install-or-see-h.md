@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 6043269cf2d31c9ccca0d91abf0f4390c77ae863f844a5047ba72e6b41c1d49c
+machine_hash: eefb2f93ade91bdcb4c2d0cfcadd188d5e9fb11117074e59b46b436a0749757a
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     or see…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-16-added-session-url-attribution-to-commits-and-prs-created-from-web-sessions|Added
-  session URL attribution to commits and PRs created from web sessions]]'
-- '[[Changes/Cursor/2026-01-16-2-developer-workflow-changes-in-cli-agent-modes-and-cloud-handoff|2
-  Developer Workflow changes in CLI Agent Modes and Cloud Handoff]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-19-add-resume-command-to-switch-sessions|Add
+  /resume command to switch sessions]]'
 - '[[Changes/Claude Code/2026-01-20-vscode-added-usage-command-to-display-current-plan-usage|VSCode
   Added /usage command to display current plan usage]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-20-2-developer-workflow-changes-in-v0-0-388|2
+  Developer Workflow changes in v0.0.388]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-21-v2-1-15-github-278799996-0b5b2e8b|claude-code-2026-01-21-v2-1-15-github-278799996-0b5b2e8b]]'
 source_type: github_releases
 theme: developer-workflow
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-20 · Claude Code · [[Changes/Claude Code/2026-01-20-vscode-added-usage-command-to-display-current-plan-usage|VSCode Added /usage command to display current plan usage]]
-- Later: 2026-01-22 · Claude Code · [[Changes/Claude Code/2026-01-22-added-new-task-management-system-including-new-capabilities-like-dependency-trac|Added new task management system, including new capabilities like dependency tracking]]
+- Earlier: 2026-01-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-20-2-developer-workflow-changes-in-v0-0-388|2 Developer Workflow changes in v0.0.388]]
+- Later: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-9-developer-workflow-changes-in-rust-v0-88-0|9 Developer Workflow changes in rust-v0.88.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3f786e68f691519f6b95395e5b3ff754a2e40480aaca77e28b82b37c422efd86
+machine_hash: 6e76a45475e950580ba3c09e1c1e5e74c9f5b0f97ee173ecedceecfb6ca8e13b
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Interface Experience changes in v2.1.187
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-18-easier-pinning-and-sidebar-organization-it-s-now-easier-to-keep-important-work-c|Easier
-  pinning and sidebar organization]]'
 - '[[Changes/Claude Code/2026-06-19-added-config-help-to-list-all-available-shorthand-keys-for-config-key-value|Added
   /config --help to list all available shorthand keys for /config key=value]]'
 - '[[Changes/Claude Code/2026-06-19-changed-config-toggle-behavior-enter-and-space-both-change-the-selected-setting|Changed
   /config toggle behavior]]'
+- '[[Changes/Codex CLI/2026-06-22-4-interface-experience-changes-in-rust-v0-142-0|4
+  Interface Experience changes in rust-v0.142.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-23-v2-1-187-github-343665388-744f9775|claude-code-2026-06-23-v2-1-187-github-343665388-744f9775]]'
 source_type: github_releases
 theme: interface-experience
@@ -84,8 +84,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.187
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-19 · Claude Code · [[Changes/Claude Code/2026-06-19-changed-config-toggle-behavior-enter-and-space-both-change-the-selected-setting|Changed /config toggle behavior]]
-- Later: 2026-06-26 · Claude Code · [[Changes/Claude Code/2026-06-26-added-claude-code-disable-mouse-clicks-to-disable-mouse-click-drag-hover-in-full|Added CLAUDE_CODE_DISABLE_MOUSE_CLICKS to disable mouse click/drag/hover…]]
+- Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-4-interface-experience-changes-in-rust-v0-142-0|4 Interface Experience changes in rust-v0.142.0]]
+- Later: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-11-interface-experience-changes-in-v1-0-64|11 Interface Experience changes in v1.0.64]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

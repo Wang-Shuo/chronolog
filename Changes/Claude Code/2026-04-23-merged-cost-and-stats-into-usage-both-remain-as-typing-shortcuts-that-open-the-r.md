@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 02ac2f822c4870cbea453876e3786ef2c35e09087698d46f469538db5de83fe0
+machine_hash: b51189e7b64bd189c5110631cfe3d1ac91d33dad9da53abdadbb7984134f4490
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-config-settings-theme-editor-mode-verbose-etc-now-persist-to-claude-settings-jso|/config settings (theme, editor mode, verbose, etc.) now persist…]]
-- Later: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-powershell-tool-bare-e-g-git-diff-file-is-no-longer-mis-flagged-as-the-stop-pars|PowerShell tool: bare -- (e.g. git diff -- file) is no longer mis-flagged…]]
+- Later: 2026-04-23 · Gemini CLI · [[Changes/Gemini CLI/2026-04-23-chore-core-increase-codebase-investigator-turn-limits-to-50-by-abhipatel12-in-ht|chore(core): increase codebase investigator turn limits to 50]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

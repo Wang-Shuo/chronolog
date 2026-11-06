@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2c7a0ea0c57cd0a12fe9d0449078321c1292ef9f8f050a63db28031b3ee2fac1
+machine_hash: ca48423d6bdff8e082a0ecc2c7584fb8363ac4420a7dc1b02d676e150855897e
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: Improved interactive startup time
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-added-a-send-now-key-ctrl-enter-or-ctrl-x-ctrl-s-that-interrupts-the-current-tur|Added
-  a send-now key (ctrl+enter, or ctrl+x ctrl+s) that interrupts the current turn…]]'
-- '[[Changes/Claude Code/2026-09-18-changed-fable-to-always-appear-in-model-on-the-anthropic-api-it-is-greyed-out-on|Changed
-  Fable to always appear in /model on the Anthropic API]]'
-- '[[Changes/Claude Code/2026-09-22-5-model-support-changes-in-v2-1-280|5 Model Support
-  changes in v2.1.280]]'
+- '[[Changes/Cline/2026-09-22-3-model-support-changes-in-v4-1-20|3 Model Support changes
+  in v4.1.20]]'
+- '[[Changes/Codex CLI/2026-09-22-25-model-support-changes-in-rust-v0-156-0|25 Model
+  Support changes in rust-v0.156.0]]'
+- '[[Changes/OpenHands/2026-09-22-test-strengthen-llm-profile-configuration-by-aivong-openhands-in-https-github-co|test:
+  strengthen LLM profile configuration]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95|claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95]]'
 source_type: github_releases
 theme: model-support
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-5-model-support-changes-in-v2-1-280|5 Model Support changes in v2.1.280]]
-- Later: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-2-model-support-changes-in-v2-1-282|2 Model Support changes in v2.1.282]]
+- Earlier: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-test-strengthen-llm-profile-configuration-by-aivong-openhands-in-https-github-co|test: strengthen LLM profile configuration]]
+- Later: 2026-09-23 · Codex CLI · [[Changes/Codex CLI/2026-09-23-2-model-support-changes-in-rust-v0-156-1|2 Model Support changes in rust-v0.156.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

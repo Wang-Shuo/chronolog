@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 930b17f0788c1e136f042ad74c76cc8671156a905f7200ef26452f8525b2a46f
+machine_hash: cce924ec1b327858bea3b533e788907d3f782c9d4e950dc0840f10faf3397332
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Remote Control is now disabled when `ANTHROPIC_BASE_URL` points at a non-Anthropic…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-23-2-apps-and-integrations-changes-in-v2-1-187|2
-  Apps and Integrations changes in v2.1.187]]'
-- '[[Changes/Claude Code/2026-06-24-2-apps-and-integrations-changes-in-v2-1-191|2
-  Apps and Integrations changes in v2.1.191]]'
-- '[[Changes/Claude Code/2026-06-25-2-apps-and-integrations-changes-in-v2-1-193|2
-  Apps and Integrations changes in v2.1.193]]'
+- '[[Changes/Codex CLI/2026-06-25-9-apps-and-integrations-changes-in-rust-v0-142-2|9
+  Apps and Integrations changes in rust-v0.142.2]]'
+- '[[Changes/Cline/2026-06-26-13-apps-and-integrations-changes-in-v4-0-0|13 Apps and
+  Integrations changes in v4.0.0]]'
+- '[[Changes/Cline/2026-06-28-roll-the-stable-vs-code-extension-back-to-the-pre-sdk-migration-codebase-to-reso|Roll
+  the stable VS Code extension back to the pre-SDK-migration codebase to resolve…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-29-v2-1-196-github-346482381-e21be272|claude-code-2026-06-29-v2-1-196-github-346482381-e21be272]]'
 source_type: github_releases
 theme: apps-integrations
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-2-apps-and-integrations-changes-in-v2-1-193|2 Apps and Integrations changes in v2.1.193]]
-- Later: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-claude-in-chrome-is-now-generally-available|Claude in Chrome is now generally available]]
+- Earlier: 2026-06-28 · Cline · [[Changes/Cline/2026-06-28-roll-the-stable-vs-code-extension-back-to-the-pre-sdk-migration-codebase-to-reso|Roll the stable VS Code extension back to the pre-SDK-migration codebase to resolve…]]
+- Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-9-apps-and-integrations-changes-in-v1-0-66|9 Apps and Integrations changes in v1.0.66]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

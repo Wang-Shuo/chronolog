@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eadaf99c2c11d8661ca246df9c7c67d27aa4d0a80688f81a2b5c5dd25d7fee52
+machine_hash: 75c3871772aaf84c6cbf259db790b064b1252af1b9e098dc9ce97daf022511de
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,11 @@ record:
   title: 2 Model Support changes in v2.1.129
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-04-updated-model-picker-collapsed-duplicate-opus-4-7-entries-and-current-opus-now-s|Updated
-  /model picker]]'
 - '[[Changes/Cursor/2026-05-04-model-access-controls-d2ba4f|Model access controls]]'
 - '[[Changes/ChatGPT/2026-05-05-we-re-rolling-out-gpt-5-5-instant-as-chatgpt-s-new-default-model-it-replaces-gpt|GPT-5.5
   Instant in ChatGPT]]'
+- '[[Changes/Gemini CLI/2026-05-05-3-model-support-changes-in-v0-41-0|3 Model Support
+  changes in v0.41.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f|claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f]]'
 source_type: github_releases
 theme: model-support
@@ -84,8 +84,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.129
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-05 · ChatGPT · [[Changes/ChatGPT/2026-05-05-we-re-rolling-out-gpt-5-5-instant-as-chatgpt-s-new-default-model-it-replaces-gpt|GPT-5.5 Instant in ChatGPT]]
-- Later: 2026-05-07 · Cursor · [[Changes/Cursor/2026-05-07-added-support-for-general-model-names-for-subagent-configuration-i-e-set-model-o|Added support for general model names for subagent configuration (i.e., set model]]
+- Earlier: 2026-05-05 · Gemini CLI · [[Changes/Gemini CLI/2026-05-05-3-model-support-changes-in-v0-41-0|3 Model Support changes in v0.41.0]]
+- Later: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-4-model-support-changes-in-rust-v0-129-0|4 Model Support changes in rust-v0.129.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

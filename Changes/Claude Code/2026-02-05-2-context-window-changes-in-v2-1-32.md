@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 902dafe29f291262104a3cac04f971485a57a1d259f079d6beec2f10a7371de0
+machine_hash: fb83461c62b3c18d618ab1122ff7d4777ae875cd50ec40a700784cf4ff7fd38a
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Context Window changes in v2.1.32
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-16-added-auto-n-syntax-for-configuring-the-mcp-tool-search-auto-enable-threshold-wh|Added
-  auto:N syntax for configuring the MCP tool search auto-enable threshold…]]'
-- '[[Changes/Cursor/2026-01-22-agents-can-now-read-pdfs-which-you-can-attach-in-chats-as-context|Agents
-  can now read PDFs, which you can attach in chats as context]]'
+- '[[Changes/Codex CLI/2026-02-02-2-context-window-changes-in-rust-v0-94-0|2 Context
+  Window changes in rust-v0.94.0]]'
 - '[[Changes/Claude Code/2026-02-03-added-pages-parameter-to-the-read-tool-for-pdfs-allowing-specific-page-ranges-to|Added
   pages parameter to the Read tool for PDFs, allowing specific page ranges…]]'
+- '[[Changes/Codex CLI/2026-02-04-2-context-window-changes-in-rust-v0-95-0|2 Context
+  Window changes in rust-v0.95.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0]]'
 source_type: github_releases
 theme: context-window
@@ -88,8 +88,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.32
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-added-pages-parameter-to-the-read-tool-for-pdfs-allowing-specific-page-ranges-to|Added pages parameter to the Read tool for PDFs, allowing specific page ranges…]]
-- Later: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-attach-up-to-20-files-in-a-single-message-you-can-now-upload-up-to-20-files-at-o|Attach up to 20 files in a single message]]
+- Earlier: 2026-02-04 · Codex CLI · [[Changes/Codex CLI/2026-02-04-2-context-window-changes-in-rust-v0-95-0|2 Context Window changes in rust-v0.95.0]]
+- Later: 2026-02-05 · Codex CLI · [[Changes/Codex CLI/2026-02-05-10692-fix-remote-compaction-estimator-payload-instruction-small-mismatch-charley|♯10692 Fix remote compaction estimator/payload instruction small mismatch @charley-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

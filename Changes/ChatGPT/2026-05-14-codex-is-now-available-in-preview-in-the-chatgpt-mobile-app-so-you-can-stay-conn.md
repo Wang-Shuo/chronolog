@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: 49aa436a74c470ea14478be2f5b31bfce5389585d3a809196d3eed3667838ad4
+machine_hash: 1bca53f4cfdeba569c0a79d18bc49127affeedc464ca37e049a837c247701923
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -90,10 +90,10 @@ record:
   title: Codex remote access from the ChatGPT mobile app
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-07-improved-resume-to-resume-sessions-from-other-worktrees-of-the-same-repo-directl|Improved
-  --resume to resume sessions from other worktrees of the same repo…]]'
-- '[[Changes/Claude Code/2026-05-01-added-claude-project-purge-path-to-delete-all-claude-code-state-for-a-project-tr|-
-  Added claude project purge path to delete all Claude Code state for a project…]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-01-session-history-file-tracking-and-the-chronicle-command-are-now-available-to-all|Session
+  history, file tracking, and the /chronicle command are now available to all users]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-01-session-resume-selector-displays-summaries-on-a-single-line-truncated-to-fit-the|Session
+  resume selector displays summaries on a single line, truncated to fit…]]'
 - '[[Changes/Claude Code/2026-05-13-feedback-can-now-include-recent-sessions-last-24-hours-or-7-days-for-issues-span|/feedback
   can now include recent sessions (last 24 hours or 7 days) for issues…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-14-codex-remote-access-from-the-chatgpt-mobile-app-50be5441|chatgpt-2026-05-14-codex-remote-access-from-the-chatgpt-mobile-app-50be5441]]'
@@ -123,7 +123,7 @@ type: change
 ## Nearby in Projects and Workspaces
 
 - Earlier: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-feedback-can-now-include-recent-sessions-last-24-hours-or-7-days-for-issues-span|/feedback can now include recent sessions (last 24 hours or 7 days) for issues…]]
-- Later: 2026-06-24 · Claude Code · [[Changes/Claude Code/2026-06-24-added-rewind-support-for-resuming-a-conversation-from-before-clear-was-run|Added /rewind support for resuming a conversation from before /clear was run]]
+- Later: 2026-06-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-01-session-resume-works-correctly-after-a-crash-that-left-partial-data-in-the-sessi|Session resume works correctly after a crash that left partial data in the session log]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

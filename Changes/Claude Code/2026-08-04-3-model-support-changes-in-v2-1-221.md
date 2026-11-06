@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 50a0b384fdb767fb39ef739a107da11d1e63d9f6a1f7e9de97fed9914f434eee
+machine_hash: c3fad1dc40cfd19c39ebb89d82c6c2eafb67099eec34d7ff78715aa600b4868b
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,11 +47,12 @@ record:
   title: 3 Model Support changes in v2.1.221
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-22-routed-model-can-be-displayed-or-hidden-hidden-by-default|Routed
-  model can be displayed or hidden (hidden by default)]]'
-- '[[Changes/Cursor/2026-07-22-optimization-modes-e62142|Optimization modes]]'
-- '[[Changes/Claude Code/2026-07-24-3-model-support-changes-in-v2-1-219|3 Model Support
-  changes in v2.1.219]]'
+- '[[Changes/Cline/2026-07-31-legacy-bundle-legacy-extension-3fdc186f1-4-0-12-free-model-button-wording|Legacy
+  bundle: legacy-extension @ 3fdc186f1 (4.0.12 + free-model button wording)]]'
+- '[[Changes/Cline/2026-08-02-4-model-support-changes-in-v4-1-3|4 Model Support changes
+  in v4.1.3]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-03-the-allow-all-auto-safety-judge-model-is-no-longer-user-configurable-the-judge-m|The
+  /allow-all auto safety-judge model is no longer user-configurable]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce|claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce]]'
 source_type: github_releases
 theme: model-support
@@ -93,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.221
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-24 · Claude Code · [[Changes/Claude Code/2026-07-24-3-model-support-changes-in-v2-1-219|3 Model Support changes in v2.1.219]]
+- Earlier: 2026-08-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-03-the-allow-all-auto-safety-judge-model-is-no-longer-user-configurable-the-judge-m|The /allow-all auto safety-judge model is no longer user-configurable]]
 - Later: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-improved-the-refusal-when-claude-tries-to-invoke-a-skill-with-disable-model-invo|Improved the refusal when Claude tries to invoke a skill with disable-model-invocation]]
 <!-- chronolog:end -->
 

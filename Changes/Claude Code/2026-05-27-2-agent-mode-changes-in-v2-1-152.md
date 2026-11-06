@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0202849f81e24adbf0f2a8624c8760e0ab96b9ac0fa97001ae9fbaba86191a9a
+machine_hash: 797d5b585a9efdb6928e88429986a1da3f939e150a2142d4ca3dc27cdf78f5fe
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,11 +46,12 @@ record:
   title: 2 Agent Mode changes in v2.1.152
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-19-assign-work-items-to-cursor-or-mention-cursor-in-a-comment-to-kick-off-a-cloud-a-1c05f0|Assign
-  work items to Cursor, or mention @Cursor in a comment to kick off a cloud agent]]'
-- '[[Changes/Cursor/2026-05-20-loop-skill|/loop skill]]'
-- '[[Changes/Claude Code/2026-05-21-auto-mode-no-longer-suppresses-askuserquestion-when-the-user-or-a-skill-explicit|Auto
-  mode no longer suppresses AskUserQuestion when the user or a skill explicitly…]]'
+- '[[Changes/Gemini CLI/2026-05-22-2-agent-mode-changes-in-v0-43-0|2 Agent Mode changes
+  in v0.43.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-23-custom-agents-support-opt-in-deferred-tool-loading-via-deferred-tool-loading-in|Custom
+  agents support opt-in deferred tool loading via deferred-tool-loading…]]'
+- '[[Changes/Codex CLI/2026-05-26-3-agent-mode-changes-in-rust-v0-134-0|3 Agent Mode
+  changes in rust-v0.134.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850|claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850]]'
 source_type: github_releases
 theme: agent-mode
@@ -91,8 +92,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.152
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-21 · Claude Code · [[Changes/Claude Code/2026-05-21-auto-mode-no-longer-suppresses-askuserquestion-when-the-user-or-a-skill-explicit|Auto mode no longer suppresses AskUserQuestion when the user or a skill explicitly…]]
-- Later: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-4-agent-mode-changes-in-v2-1-154|4 Agent Mode changes in v2.1.154]]
+- Earlier: 2026-05-26 · Codex CLI · [[Changes/Codex CLI/2026-05-26-3-agent-mode-changes-in-rust-v0-134-0|3 Agent Mode changes in rust-v0.134.0]]
+- Later: 2026-05-27 · Gemini CLI · [[Changes/Gemini CLI/2026-05-27-4-agent-mode-changes-in-v0-44-0|4 Agent Mode changes in v0.44.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

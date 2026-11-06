@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 27d00b8925a504c32cff5521bf2082fcf8a9a72d01c13d180c4477a062c9ab4c
+machine_hash: a9b42637431a3cf84b62aefd431956bb605cfa72fd76e99c6567b5b8f90f614c
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,8 @@ record:
   title: 'Sandboxed Terminals: Admin Controls'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-03-projects-bring-your-chats-and-files-into-one-place-helping-you-stay-focused-and-96a40d|Projects
-  Now Available on ChatGPT Free Tier]]'
+- '[[Changes/Gemini CLI/2025-09-04-2-enterprise-and-administration-changes-in-v0-3-0|2
+  Enterprise and Administration changes in v0.3.0]]'
 - '[[Changes/Cursor/2025-10-29-cursor-for-enterprise|Cursor for Enterprise]]'
 - '[[Changes/Cursor/2025-10-29-hooks-cloud-distribution|Hooks: Cloud Distribution]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-09-03 · ChatGPT · [[Changes/ChatGPT/2025-09-03-projects-bring-your-chats-and-files-into-one-place-helping-you-stay-focused-and-96a40d|Projects Now Available on ChatGPT Free Tier]]
+- Earlier: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-2-enterprise-and-administration-changes-in-v0-3-0|2 Enterprise and Administration changes in v0.3.0]]
 - Later: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-3-enterprise-and-administration-changes-in-2-1|3 Enterprise and Administration changes in 2.1]]
 <!-- chronolog:end -->
 

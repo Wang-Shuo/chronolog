@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c017f04be23ba282feba4b70ec654dece24bc21943d0d747cfb236a55fdfdb73
+machine_hash: 44a0c341cb493751281265abc9f3696392007e851d53d3ad690439da86e724c2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,8 +53,8 @@ record:
     enabled…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-08-send-an-email-directly-from-within-a-chat-if-you-ve-connected-gmail-or-outlook-y|Send
-  an email directly from within a chat]]'
+- '[[Changes/OpenHands/2026-07-07-feat-enterprise-auth-super-admin-management-endpoint-grant-revoke-list-by-jpshac|feat(enterprise/auth):
+  super-admin management endpoint (grant/revoke/list)]]'
 - '[[Changes/ChatGPT/2026-07-09-business-and-enterprise-customers-already-have-access-to-sites-starting-today-th|Business
   and Enterprise customers already have access to Sites]]'
 - '[[Changes/ChatGPT/2026-07-09-on-web-and-mobile-enterprise-and-edu-workspaces-have-a-two-week-preview-period-w|On
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-on-web-and-mobile-enterprise-and-edu-workspaces-have-a-two-week-preview-period-w|On web and mobile, Enterprise and Edu workspaces have a two-week preview period]]
-- Later: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-changed-usage-credits-to-ask-for-confirmation-before-sending-a-request-to-organi|Changed /usage-credits to ask for confirmation before sending a request…]]
+- Later: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-long-running-sessions-refresh-enterprise-managed-settings-hourly|Long-running sessions refresh enterprise managed settings hourly]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

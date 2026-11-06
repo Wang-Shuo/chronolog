@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 219f959fc81ab989642d7f4e08de44bc4411749ff8825179164deca5c205de97
+machine_hash: bc9794d644307a0dcf6943602caef5b16764693d73c9faecd132d38cdb68c99b
 product: cursor
 product_name: Cursor
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Interface Experience changes in 3.4
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-07-improved-focus-mode-behavior|Improved focus mode
-  behavior]]'
-- '[[Changes/Claude Code/2026-05-11-added-transcript-view-navigation-for-keyboard-shortcuts-to-jump-between-user-pro|Added
-  transcript view navigation]]'
+- '[[Changes/Gemini CLI/2026-05-12-test-evals-add-behavioral-eval-for-file-creation-and-write-file-tool-selection-b|test(evals):
+  add behavioral eval for file creation and write_file tool selection]]'
 - '[[Changes/Claude Code/2026-05-13-2-interface-experience-changes-in-v2-1-141|2 Interface
   Experience changes in v2.1.141]]'
+- '[[Changes/Cline/2026-05-13-show-a-clear-searching-state-in-the-mention-file-picker|Show
+  a clear "Searching..." state in the @-mention file picker]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d|cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -94,8 +94,8 @@ Source: https://cursor.com/changelog/3-4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-2-interface-experience-changes-in-v2-1-141|2 Interface Experience changes in v2.1.141]]
-- Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-2-interface-experience-changes-in-v2-1-145|2 Interface Experience changes in v2.1.145]]
+- Earlier: 2026-05-13 · Cline · [[Changes/Cline/2026-05-13-show-a-clear-searching-state-in-the-mention-file-picker|Show a clear "Searching..." state in the @-mention file picker]]
+- Later: 2026-05-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-13-support-j-k-keys-for-up-down-navigation-in-the-diff-view|Support j/k keys for up/down navigation in the /diff view]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

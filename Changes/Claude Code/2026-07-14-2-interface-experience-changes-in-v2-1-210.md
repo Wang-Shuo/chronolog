@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 66c91efeffd9b981a84909a63656375a2400b62893b79a72c4cc69217193e815
+machine_hash: d31757b750a71a0f74e6f1d5cfde63e474b36772e88a2a8d85ed0377cdc11405
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Interface Experience changes in v2.1.210
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-10-redesigned-project-and-repo-pickers|Redesigned project
-  and repo pickers]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-10-4-interface-experience-changes-in-v1-0-70|4
+  Interface Experience changes in v1.0.70]]'
 - '[[Changes/Claude Code/2026-07-11-improved-agent-view-pasting-the-same-text-again-now-expands-the-collapsed-pasted|Improved
   agent view]]'
 - '[[Changes/Claude Code/2026-07-14-added-mouse-click-support-for-multi-select-menus-and-other-input-rows-in-fullscr|Added

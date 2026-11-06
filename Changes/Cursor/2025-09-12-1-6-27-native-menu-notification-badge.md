@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f48721ed72aaddef1aae8f787e24f96d5335aa132987a152d85445e6ac291e96
+machine_hash: cfc9c73acbfe57e508a08092eb3082a7beab3597b65b5fe1ef3ab1286b3aa301
 product: cursor
 product_name: Cursor
 record:
@@ -41,11 +41,12 @@ record:
   title: '1.6.27: Native menu notification badge'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-03-memory-improvements-are-starting-to-roll-out-to-free-users-in-addition-to-the-sa-a02494|Memory
-  improvements are starting to roll out to Free users]]'
-- '[[Changes/Cursor/2025-06-04-new-settings-and-dashboard|New Settings and Dashboard]]'
-- '[[Changes/Cursor/2025-07-03-chat-rendering-bugs-resolved-toolcall-display-overflow-issues|Chat
-  rendering bugs resolved (toolcall display, overflow issues)]]'
+- '[[Changes/Gemini CLI/2025-09-04-2-interface-experience-changes-in-v0-3-0|2 Interface
+  Experience changes in v0.3.0]]'
+- '[[Changes/Codex CLI/2025-09-05-3135-tui-add-session-resume-picker-resume-and-quick-resume-continue|♯3135
+  TUI: Add session resume picker (--resume) and quick resume (--continue)]]'
+- '[[Changes/Cline/2025-09-11-2-interface-experience-changes-in-v3-28-0|2 Interface
+  Experience changes in v3.28.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea|cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -83,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-chat-rendering-bugs-resolved-toolcall-display-overflow-issues|Chat rendering bugs resolved (toolcall display, overflow issues)]]
-- Later: 2025-09-16 · ChatGPT · [[Changes/ChatGPT/2025-09-16-formatting-answers-are-better-formatted-for-quick-understanding-without-losing-d|Formatting: Answers are better formatted for quick understanding without losing…]]
+- Earlier: 2025-09-11 · Cline · [[Changes/Cline/2025-09-11-2-interface-experience-changes-in-v3-28-0|2 Interface Experience changes in v3.28.0]]
+- Later: 2025-09-15 · Codex CLI · [[Changes/Codex CLI/2025-09-15-5-interface-experience-changes-in-rust-v0-36-0|5 Interface Experience changes in rust-v0.36.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

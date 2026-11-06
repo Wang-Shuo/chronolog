@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 0fe0ef684b249fb9c406c8f34f65ada1ad0048d222077912923c85d428038b3e
+machine_hash: 68377f3cf74508b3219defa8aac77d3e8e9c3d50829cbe739f468604a2b289df
 product: cursor
 product_name: Cursor
 record:
@@ -67,12 +67,12 @@ record:
     the terminal
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-06-08-adds-context-pills-to-chat-messages-so-you-can-see-what-will-be-was-used-a324a3|Adds
-  context pills to chat messages, so you can see what will be/was used]]'
-- '[[Changes/Cursor/2024-08-22-we-ve-also-trained-a-new-cursor-tab-model-that-s-smarter-and-more-context-aware-56db10|We''ve
-  also trained a new Cursor Tab model that''s smarter and more context-aware]]'
-- '[[Changes/Cursor/2024-10-09-composer-now-only-applies-files-that-are-in-context-to-prevent-hallucinations|Composer
-  now only applies files that are in context to prevent hallucinations]]'
+- '[[Changes/OpenHands/2024-10-17-display-in-the-logs-the-prompt-cache-hit-or-miss-for-deepseek-chat-by-enyst-in-h|Display
+  in the logs the prompt cache hit or miss for Deepseek Chat]]'
+- '[[Changes/Aider/2024-11-01-save-fname-command-will-make-a-file-of-add-and-read-only-commands-that-recreate|/save
+  fname command will make a file of /add and /read-only commands…]]'
+- '[[Changes/OpenHands/2024-11-15-truncate-agent-history-when-context-window-is-exceeded-by-enyst-in-https-github|Truncate
+  agent history when context window is exceeded]]'
 source_release: '[[Releases/Cursor/cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492|cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492]]'
 source_type: cursor_changelog
 theme: context-window
@@ -111,8 +111,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-10-09 · Cursor · [[Changes/Cursor/2024-10-09-composer-now-only-applies-files-that-are-in-context-to-prevent-hallucinations|Composer now only applies files that are in context to prevent hallucinations]]
-- Later: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-fusion-model-we-ve-trained-a-new-tab-model-that-is-substantially-better-at-jumps|Fusion Model: We've trained a new Tab Model that is substantially better at jumps…]]
+- Earlier: 2024-11-15 · OpenHands · [[Changes/OpenHands/2024-11-15-truncate-agent-history-when-context-window-is-exceeded-by-enyst-in-https-github|Truncate agent history when context window is exceeded]]
+- Later: 2024-11-26 · Aider · [[Changes/Aider/2024-11-26-ollama-models-now-default-to-an-8k-context-window|Ollama models now default to an 8k context window]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

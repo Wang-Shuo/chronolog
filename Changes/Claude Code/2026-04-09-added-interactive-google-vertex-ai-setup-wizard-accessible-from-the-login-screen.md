@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6612f2fe7c17263741320ed057a03f0d3ae7eb3da896685537aed3f89f896274
+machine_hash: dfa2b564c0af63cca64af8d20826f531280b4fc4d2f6d5d19504e8a77c4b6502
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,12 +58,12 @@ record:
     screen…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-20-updated-mcp-oauth-to-support-client-id-metadata-document-cimd-sep-991-for-server|Updated
-  MCP OAuth to support Client ID Metadata Document (CIMD / SEP-991)…]]'
-- '[[Changes/Claude Code/2026-03-26-mcp-oauth-now-follows-rfc-9728-protected-resource-metadata-discovery-to-find-the|MCP
-  OAuth now follows RFC 9728 Protected Resource Metadata discovery to find…]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-03-mcp-oauth-flows-now-support-https-redirect-uris-via-a-self-signed-certificate-fa|MCP
+  OAuth flows now support HTTPS redirect URIs via a self-signed certificate…]]'
 - '[[Changes/Claude Code/2026-04-04-added-interactive-bedrock-setup-wizard-accessible-from-the-login-screen-when-sel|Added
   interactive Bedrock setup wizard accessible from the login screen…]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-07-enterprise-github-url-input-in-the-login-flow-now-accepts-keyboard-input-and-sub|Enterprise
+  GitHub URL input in the login flow now accepts keyboard input and submits…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-09-v2-1-98-github-307232194-a0774436|claude-code-2026-04-09-v2-1-98-github-307232194-a0774436]]'
 source_type: github_releases
 theme: account-access
@@ -99,8 +99,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-added-interactive-bedrock-setup-wizard-accessible-from-the-login-screen-when-sel|Added interactive Bedrock setup wizard accessible from the login screen…]]
-- Later: 2026-04-22 · ChatGPT · [[Changes/ChatGPT/2026-04-22-we-re-launching-chatgpt-for-clinicians-a-free-version-of-chatgpt-for-verified-cl|ChatGPT for Clinicians]]
+- Earlier: 2026-04-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-07-enterprise-github-url-input-in-the-login-flow-now-accepts-keyboard-input-and-sub|Enterprise GitHub URL input in the login flow now accepts keyboard input and submits…]]
+- Later: 2026-04-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-09-support-bearer-token-authentication-for-byok-anthropic-models|Support bearer token authentication for BYOK Anthropic models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

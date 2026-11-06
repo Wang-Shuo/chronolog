@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 76bd4bc334e2a9efedd5021cd6f9ce8fdb6f5f218b9e1dbd0d633d7697a04f96
+machine_hash: 2633f1a24ab201651ecfd0fe8187797eaecf250f50ea4432e9ab9f39162e8ee1
 product: cursor
 product_name: Cursor
 record:
@@ -41,10 +41,10 @@ record:
   title: Cursor starts up faster
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-09-17-cursor-tab-now-auto-imports-symbols-in-python-files-we-ve-also-significantly-imp|Cursor
-  Tab now auto-imports symbols in Python files!]]'
-- '[[Changes/Cursor/2024-09-17-composer-can-now-be-added-to-the-ai-pane-this-release-also-includes-many-stabili-7b4c37|Composer
-  can now be added to the AI pane]]'
+- '[[Changes/OpenHands/2024-10-03-improve-the-docker-runtime-build-speed-fix-issues-in-build-by-xingyaoww-in-https|Improve
+  the docker runtime build speed & fix issues in build]]'
+- '[[Changes/Cline/2024-10-09-2-reliability-and-performance-changes-in-v2-0-0|2 Reliability
+  and Performance changes in v2.0.0]]'
 - '[[Changes/Cursor/2024-11-24-several-performance-improvements|Several performance
   improvements]]'
 source_release: '[[Releases/Cursor/cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e|cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e]]'
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-11-24 · Cursor · [[Changes/Cursor/2024-11-24-several-performance-improvements|Several performance improvements]]
-- Later: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-also-adds-mcp-support-team-configurable-blocklists-fixes-composer-stuck-on-gener|Also adds MCP support, team-configurable blocklists, fixes Composer stuck…]]
+- Later: 2024-12-18 · Cline · [[Changes/Cline/2024-12-18-when-cline-needs-to-make-targeted-edits-to-large-files-he-now-uses-a-search-repl|When Cline needs to make targeted edits to large files, he now uses a search…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

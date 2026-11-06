@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 39a9f0a9d85cd9d57e2ad2869e870db44a863b63a10ffec8405dc3216832bea0
+machine_hash: 5f9180faa33316a171b5c3667eabb68e450a54ca4e6b54480d4637ed476d3d4a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,11 +47,12 @@ record:
   title: Retiring the DALL·E GPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c|ChatGPT
-  Images on Web and Mobile (iOS & Android)]]'
-- '[[Changes/Cursor/2026-01-22-image-generation|Image generation]]'
-- '[[Changes/ChatGPT/2026-04-21-we-re-introducing-chatgpt-images-2-0-our-new-image-generation-model-in-chatgpt-c|ChatGPT
-  Images 2.0 in ChatGPT]]'
+- '[[Changes/Codex CLI/2026-07-09-31596-use-the-image-generation-extension-by-default-won-openai|♯31596
+  Use the image generation extension by default @won-openai]]'
+- '[[Changes/Codex CLI/2026-07-21-3-image-generation-changes-in-rust-v0-145-0|3 Image
+  Generation changes in rust-v0.145.0]]'
+- '[[Changes/Codex CLI/2026-07-29-34850-disable-image-generation-for-free-plan-accounts-copyberry|♯34850
+  Disable image generation for Free-plan accounts @copyberry]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-31-retiring-the-dall-e-gpt-582d3c79|chatgpt-2026-07-31-retiring-the-dall-e-gpt-582d3c79]]'
 source_type: chatgpt_changelog
 theme: image-generation
@@ -78,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-04-21 · ChatGPT · [[Changes/ChatGPT/2026-04-21-we-re-introducing-chatgpt-images-2-0-our-new-image-generation-model-in-chatgpt-c|ChatGPT Images 2.0 in ChatGPT]]
-- Later: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-chatgpt-images-2-5-brings-sharper-details-more-precise-editing-and-faster-image-66acb5|ChatGPT Images 2.5 brings sharper details, more precise editing, and faster image…]]
+- Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-34850-disable-image-generation-for-free-plan-accounts-copyberry|♯34850 Disable image generation for Free-plan accounts @copyberry]]
+- Later: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-38024-expose-image-generation-usage-limit-failures-copyberry|♯38024 Expose image generation usage-limit failures @copyberry]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

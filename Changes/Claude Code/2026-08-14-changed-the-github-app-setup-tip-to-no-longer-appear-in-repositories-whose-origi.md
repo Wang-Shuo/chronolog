@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3d05f7b908c216ab1a7cf9f79bcd75805926fa66f6021da055f9db83b8b0e09d
+machine_hash: 65e2ccb55626c26db7cac30aef1ab16c90120643b774e44518d23602b616a354
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
     origin…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-04-starting-today-for-chatgpt-enterprise-and-education-users-long-pastes-are-handle|Starting
-  today for ChatGPT Enterprise and Education users, long pastes are handled…]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-10-2-enterprise-and-administration-changes-in-v1-0-79|2
+  Enterprise and Administration changes in v1.0.79]]'
 - '[[Changes/ChatGPT/2026-08-13-computer-history-is-an-optional-feature-in-the-chatgpt-macos-app-that-lets-chatg|Computer
   History for macOS]]'
 - '[[Changes/Claude Code/2026-08-13-enterprise-policy-a-url-typed-blockedmarketplaces-entry-for-a-bare-repo-url-keep|Enterprise

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dd152929df4dce2736b803aec1babb739ee89a8f01868930ed069999444bfe89
+machine_hash: e0c053c60ad9375ba2ed1e5317159965ebfb1f341470e5d2180a7ba5874c9495
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,12 @@ record:
   title: Removed the outdated note about auto mode sessions costing slightly more…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-29-inbox|Inbox]]'
-- '[[Changes/Claude Code/2026-08-06-2-agent-mode-changes-in-v2-1-223|2 Agent Mode
-  changes in v2.1.223]]'
 - '[[Changes/Claude Code/2026-08-07-removed-the-200-subagent-per-session-spawn-cap-long-running-sessions-no-longer-r|Removed
   the 200-subagent-per-session spawn cap]]'
+- '[[Changes/Codex CLI/2026-08-07-17-agent-mode-changes-in-rust-v0-147-0|17 Agent
+  Mode changes in rust-v0.147.0]]'
+- '[[Changes/OpenHands/2026-08-07-feat-add-a-typed-agent-action-for-launching-local-or-cloud-child-conversations-b|feat:
+  add a typed agent action for launching local or Cloud child conversations]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9|claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9]]'
 source_type: github_releases
 theme: agent-mode
@@ -81,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-removed-the-200-subagent-per-session-spawn-cap-long-running-sessions-no-longer-r|Removed the 200-subagent-per-session spawn cap]]
-- Later: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-improved-workflow-fan-outs-to-stagger-same-prefix-sibling-agents-so-subsequent-a|Improved workflow fan-outs to stagger same-prefix sibling agents so subsequent…]]
+- Earlier: 2026-08-07 · OpenHands · [[Changes/OpenHands/2026-08-07-feat-add-a-typed-agent-action-for-launching-local-or-cloud-child-conversations-b|feat: add a typed agent action for launching local or Cloud child conversations]]
+- Later: 2026-08-11 · Gemini CLI · [[Changes/Gemini CLI/2026-08-11-2-agent-mode-changes-in-v0-55-1|2 Agent Mode changes in v0.55.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

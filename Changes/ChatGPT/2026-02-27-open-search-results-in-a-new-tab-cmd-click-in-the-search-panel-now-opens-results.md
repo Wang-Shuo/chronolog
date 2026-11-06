@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1f097034941c7c4dd503054ec4d9dbcfd4bc6d8aaeb30e2b709b205135bb8af8
+machine_hash: b31698bbac3562cfa13597b637acd3d314a361cde7177cb5d99460be1c7cba11
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,12 +58,12 @@ record:
   title: Open search results in a new tab
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-16-shopping-search-is-better-at-detecting-shopping-intent-showing-products-when-you|Shopping:
-  Search is better at detecting shopping intent, showing products when you…]]'
-- '[[Changes/Cursor/2025-09-29-1-7-20-web-search-auto-accept-setting|1.7.20: Web search
-  auto-accept setting]]'
-- '[[Changes/Cursor/2026-01-16-added-webfetch-websearch-tools-approval-options-for-granular-controls-over-web-s|Added
-  WebFetch, WebSearch tools, & approval options for granular controls over web…]]'
+- '[[Changes/Codex CLI/2026-02-17-11224-chore-clarify-web-search-deprecation-notices-and-consolidate-tests-sayan-o|♯11224
+  chore: clarify web_search deprecation notices and consolidate tests @sayan-oai]]'
+- '[[Changes/Gemini CLI/2026-02-25-introduce-limits-for-search-results-by-gundermanc-in-https-github-com-google-gem|Introduce
+  limits for search results]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-25-add-research-command-for-deep-research-with-exportable-reports|Add
+  /research command for deep research with exportable reports]]'
 scope: Web
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c]]'
 source_type: chatgpt_changelog
@@ -99,8 +99,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-added-webfetch-websearch-tools-approval-options-for-granular-controls-over-web-s|Added WebFetch, WebSearch tools, & approval options for granular controls over web…]]
-- Later: 2026-03-19 · ChatGPT · [[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|Legacy deep research mode deprecation notice]]
+- Earlier: 2026-02-25 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-25-add-research-command-for-deep-research-with-exportable-reports|Add /research command for deep research with exportable reports]]
+- Later: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-13538-chore-add-web-search-tool-type-for-image-support-sayan-oai|♯13538 chore: add web_search_tool_type for image support @sayan-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cf521866fad579b6bf4c687d3b4d26a2ab7c1106cac20251e7f7faac138186a7
+machine_hash: 84ffdc272b62b92158667fd95a1e53809a68f8c12fea51810a9dde733b5cf514
 product: cursor
 product_name: Cursor
 record:
@@ -48,12 +48,12 @@ record:
     such…
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-10-this-nightly-build-comes-with-experimental-interface-agent-support|This
-  nightly build comes with experimental interface agent support!]]'
-- '[[Changes/Cursor/2023-07-10-the-goal-you-write-an-interface-specification-and-an-agent-writes-both-the-tests|The
-  goal: you write an interface specification, and an agent writes both the tests…]]'
-- '[[Changes/Cursor/2024-02-15-interpreter-mode-we-ve-made-some-big-improvements-to-the-backend-powering-interp|Interpreter
-  Mode: We''ve made some big improvements to the backend powering…]]'
+- '[[Changes/OpenHands/2024-07-13-3-agent-mode-changes-in-0-8-0|3 Agent Mode changes
+  in 0.8.0]]'
+- '[[Changes/OpenHands/2024-07-27-4-agent-mode-changes-in-0-8-2|4 Agent Mode changes
+  in 0.8.2]]'
+- '[[Changes/OpenHands/2024-08-01-2-agent-mode-changes-in-0-8-3|2 Agent Mode changes
+  in 0.8.3]]'
 source_release: '[[Releases/Cursor/cursor-2024-08-02-0-39-x-https-cursor-com-changelog-0-39-x-db22c405|cursor-2024-08-02-0-39-x-https-cursor-com-changelog-0-39-x-db22c405]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2024-02-15 · Cursor · [[Changes/Cursor/2024-02-15-interpreter-mode-we-ve-made-some-big-improvements-to-the-backend-powering-interp|Interpreter Mode: We've made some big improvements to the backend powering…]]
-- Later: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-agent-sees-recent-changes-the-agent-can-use-a-tool-to-see-your-recent-changes-it|Agent sees recent changes: The agent can use a tool to see your recent changes]]
+- Earlier: 2024-08-01 · OpenHands · [[Changes/OpenHands/2024-08-01-2-agent-mode-changes-in-0-8-3|2 Agent Mode changes in 0.8.3]]
+- Later: 2024-08-23 · OpenHands · [[Changes/OpenHands/2024-08-23-4-agent-mode-changes-in-0-9-0|4 Agent Mode changes in 0.9.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

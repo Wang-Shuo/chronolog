@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ff2f061e27e7859624ef5c8bbd599b969ced5a2bc20fa6a4821a4883f7cba7dc
+machine_hash: fde2df47fc32658649b954e95bd4e1881125982fcf88b9fd0062eee28f91c726
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: Added `sandbox.bwrapPath` and `sandbox.socatPath` managed settings (Linux/WSL)…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-06-fixed-permission-mode-flag-being-ignored-when-resuming-a-plan-mode-session-with|Fixed
-  --permission-mode flag being ignored when resuming a plan-mode session…]]'
 - '[[Changes/Claude Code/2026-05-06-fixed-session-title-chip-from-rename-disappearing-while-a-permission-or-other-di|Fixed
   session title chip from /rename disappearing while a permission or other…]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-06-protect-against-rce-from-malicious-bare-repositories-nested-inside-a-project-for|Protect
+  against RCE from malicious bare repositories nested inside a project…]]'
 - '[[Changes/ChatGPT/2026-05-07-over-the-coming-weeks-we-ll-be-rolling-out-trusted-contact-an-optional-safety-fe|Trusted
   contact in ChatGPT]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-07-v2-1-133-github-319164825-08653677|claude-code-2026-05-07-v2-1-133-github-319164825-08653677]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-05-07 · ChatGPT · [[Changes/ChatGPT/2026-05-07-over-the-coming-weeks-we-ll-be-rolling-out-trusted-contact-an-optional-safety-fe|Trusted contact in ChatGPT]]
-- Later: 2026-05-08 · Claude Code · [[Changes/Claude Code/2026-05-08-2-safety-and-privacy-changes-in-v2-1-136|2 Safety and Privacy changes in v2.1.136]]
+- Later: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-11-safety-and-privacy-changes-in-rust-v0-129-0|11 Safety and Privacy changes in rust-v0.129.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

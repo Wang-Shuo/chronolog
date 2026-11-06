@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3344c2018d7962c706f042fd37d3e06f00e5fc123b3fcd66405c85984a8c3713
+machine_hash: 0c764d3b8a453ba56e942d210495674e7a73099bf4bf1eaef4bfb5d85b2a3a25
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,10 @@ record:
   title: 3 Apps and Integrations changes in v2.1.302
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-7-apps-and-integrations-changes-in-v2-1-300|7
-  Apps and Integrations changes in v2.1.300]]'
-- '[[Changes/Claude Code/2026-10-14-19-apps-and-integrations-changes-in-v2-1-299|19
-  Apps and Integrations changes in v2.1.299]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-14-2-apps-and-integrations-changes-in-v1-0-98|2
+  Apps and Integrations changes in v1.0.98]]'
+- '[[Changes/Codex CLI/2026-10-15-15-apps-and-integrations-changes-in-rust-v0-163-0|15
+  Apps and Integrations changes in rust-v0.163.0]]'
 - '[[Changes/ChatGPT/2026-10-16-improved-use-of-plugins-and-tools-to-carry-out-tasks|Improved
   use of plugins and tools to carry out tasks]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-16-v2-1-302-github-415177347-763faf43|claude-code-2026-10-16-v2-1-302-github-415177347-763faf43]]'

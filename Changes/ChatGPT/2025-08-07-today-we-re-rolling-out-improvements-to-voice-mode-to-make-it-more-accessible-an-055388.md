@@ -4,20 +4,20 @@ date: '2025-08-07'
 description: 'ChatGPT · 2025-08-07 · Voice and Audio: Today we’re rolling out improvements
   to Voice Mode to make it more accessible and useful for everyone. It also now…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
-    (Beta) is now rolling out to Plus users on iOS and Android]]'
+  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
+    link) support, which allows you…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 682
+  lag_days: 727
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9d619838c50362cbbc2e8f94d22efa58b3aa2d4d2c5abf88b8331fc66fa97bc0
+machine_hash: 601d256636d6b38bffb50832d40937e93cb76af088d579d36674f7ece58af69b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -61,12 +61,11 @@ record:
   title: ChatGPT Voice updates
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-18-capture-meetings-brainstorms-or-voice-notes-launching-today-for-pro-enterprise-a|Capture
-  meetings, brainstorms, or voice notes]]'
 - '[[Changes/ChatGPT/2025-07-16-record-live-conversations-like-team-meetings-or-voice-notes-and-turn-those-into|Record
   live conversations like team meetings or voice notes, and turn those…]]'
 - '[[Changes/ChatGPT/2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat|Updates
   to Advanced Voice Mode for Free tier users]]'
+- '[[Changes/Windsurf/2025-07-17-voice|Voice]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-chatgpt-voice-updates-1159fad7|chatgpt-2025-08-07-chatgpt-voice-updates-1159fad7]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -93,14 +92,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-07-17 · ChatGPT · [[Changes/ChatGPT/2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat|Updates to Advanced Voice Mode for Free tier users]]
+- Earlier: 2025-07-17 · Windsurf · [[Changes/Windsurf/2025-07-17-voice|Voice]]
 - Later: 2025-08-07 · ChatGPT · [[Changes/ChatGPT/2025-08-07-you-can-now-set-an-accent-color-that-applies-to-elements-in-chatgpt-including-yo-865968|Accent Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
+- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

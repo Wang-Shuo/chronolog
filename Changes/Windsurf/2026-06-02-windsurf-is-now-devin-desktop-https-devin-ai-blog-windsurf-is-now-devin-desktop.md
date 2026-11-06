@@ -1,0 +1,86 @@
+---
+card_id: windsurf-2026-06-02-29419b
+date: '2026-06-02'
+description: 'Windsurf · 2026-06-02 · Mobile and Desktop: Windsurf is now [Devin Desktop](https://devin.ai/blog/windsurf-is-now-devin-desktop).'
+diffusion:
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1176
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: mobile-desktop
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: a8303d54caef3e8d3d1744a0c166cdc5d59c35d4ada69d6c3f515aa2980b3122
+product: windsurf
+product_name: Windsurf
+record:
+  card_id: windsurf-2026-06-02-29419b
+  comparison: ''
+  date: '2026-06-02'
+  description: 'Windsurf — v3.0.12: Windsurf is now [Devin Desktop](https://devin.ai/blog/windsurf-is-now-devin-desktop).'
+  evidence:
+  - quote: Windsurf is now [Devin Desktop](https://devin.ai/blog/windsurf-is-now-devin-desktop).
+    source_release: https://docs.devin.ai/desktop/changelog#v3-0-12
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: windsurf
+  product_name: Windsurf
+  slug: windsurf-is-now-devin-desktop-https-devin-ai-blog-windsurf-is-now-devin-desktop
+  source_release: windsurf-2026-06-02-v3-0-12-0c521421
+  source_type: windsurf_changelog
+  theme: mobile-desktop
+  title: Windsurf is now [Devin Desktop](https://devin.ai/blog/windsurf-is-now-devin-desktop)
+  type: change
+related_changes:
+- '[[Changes/Gemini CLI/2026-05-27-auto-detect-pnpm-global-installation-path-for-macos-and-windows-by-tisonkun-in-h|Auto
+  detect pnpm global installation path for macOS and Windows]]'
+- '[[Changes/Codex CLI/2026-05-28-5-mobile-and-desktop-changes-in-rust-v0-135-0|5
+  Mobile and Desktop changes in rust-v0.135.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-28-clipboard-correctly-copies-cjk-and-supplementary-plane-unicode-characters-on-win|Clipboard
+  correctly copies CJK and supplementary-plane Unicode characters on Windows]]'
+source_release: '[[Releases/Windsurf/windsurf-2026-06-02-v3-0-12-0c521421|windsurf-2026-06-02-v3-0-12-0c521421]]'
+source_type: windsurf_changelog
+theme: mobile-desktop
+title: Windsurf is now Devin Desktop((source link)
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Windsurf is now [Devin Desktop](https://devin.ai/blog/windsurf-is-now-devin-desktop)
+
+**Windsurf** · 2026-06-02 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://docs.devin.ai/desktop/changelog#v3-0-12) · from [[Releases/Windsurf/windsurf-2026-06-02-v3-0-12-0c521421|v3.0.12]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Windsurf is now [Devin Desktop](https://devin.ai/blog/windsurf-is-now-devin-desktop).
+>
+> Source: https://docs.devin.ai/desktop/changelog#v3-0-12
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-clipboard-correctly-copies-cjk-and-supplementary-plane-unicode-characters-on-win|Clipboard correctly copies CJK and supplementary-plane Unicode characters on Windows]]
+- Later: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-2-mobile-and-desktop-changes-in-rust-v0-137-0|2 Mobile and Desktop changes in rust-v0.137.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20windsurf-2026-06-02-29419b&body=Card%3A%20Changes%2FWindsurf%2F2026-06-02-windsurf-is-now-devin-desktop-https-devin-ai-blog-windsurf-is-now-devin-desktop.md%0ACard%20ID%3A%20windsurf-2026-06-02-29419b%0ASource%3A%20https%3A%2F%2Fdocs.devin.ai%2Fdesktop%2Fchangelog%23v3-0-12%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

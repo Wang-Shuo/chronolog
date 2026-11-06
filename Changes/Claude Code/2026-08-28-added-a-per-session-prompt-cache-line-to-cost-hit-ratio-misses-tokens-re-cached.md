@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 6bda538e0509b89253ee7bf500b9177d9de893c0a019aa7ece0d51a9ada344f2
+machine_hash: 5287d7c22f6b724dbe974e4f8fdd1a4d7f2c5d36554d68d2b5f3a07d6fc3c3f8
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,10 +53,10 @@ record:
   title: Added a per-session prompt-cache line to `/cost`…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-19-usage-now-shows-the-usage-credits-spend-row-for-team-and-enterprise-members-and|/usage
-  now shows the usage-credits spend row for Team and Enterprise members…]]'
-- '[[Changes/Claude Code/2026-08-21-persistent-retry-mode-claude-code-retry-watchdog-now-fails-immediately-on-organi|Persistent
-  retry mode (CLAUDE_CODE_RETRY_WATCHDOG) now fails immediately…]]'
+- '[[Changes/Cline/2026-08-26-cost-estimates-are-no-longer-shown-for-providers-billed-by-a-flat-rate-subscript|Cost
+  estimates are no longer shown for providers billed by a flat-rate subscription…]]'
+- '[[Changes/Codex CLI/2026-08-26-40488-export-turn-cost-as-an-otel-metric-copyberry|♯40488
+  Export turn cost as an OTEL metric @copyberry]]'
 - '[[Changes/Claude Code/2026-08-27-added-usage-credits-for-enterprise-organizations-billed-through-aws-marketplace|Added
   /usage-credits for Enterprise organizations billed through AWS Marketplace…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96|claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96]]'
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-added-usage-credits-for-enterprise-organizations-billed-through-aws-marketplace|Added /usage-credits for Enterprise organizations billed through AWS Marketplace…]]
-- Later: 2026-09-09 · ChatGPT · [[Changes/ChatGPT/2026-09-09-pro-200-month-unlimited-gpt-live-1-usage|Pro ($200/month): Unlimited GPT-Live-1 usage]]
+- Later: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-rate-limit-banners-offer-actions-for-checking-usage-managing-credits-resetting-l|Rate-limit banners offer actions for checking usage, managing credits, resetting…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

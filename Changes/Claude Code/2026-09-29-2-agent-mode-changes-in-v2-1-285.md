@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c840d1fba3ca86c6f755a22e370f1392093446cd25620e7efe00e7a95222b1be
+machine_hash: 96b644413561e61f9a86010434006f19a420f18b64436d49ce4e46a48d4b0022
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Agent Mode changes in v2.1.285
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-25-improved-startup-claude-p-and-claude-code-remote-no-longer-load-the-interactive|Improved
-  startup: claude -p and Claude Code Remote no longer load the interactive…]]'
-- '[[Changes/Claude Code/2026-09-28-added-a-yes-but-ask-again-next-time-answer-to-auto-mode-s-prompt-before-a-read-o|Added
-  a "Yes, but ask again next time" answer to auto mode''s prompt before a read…]]'
+- '[[Changes/Codex CLI/2026-09-28-11-agent-mode-changes-in-rust-v0-158-0|11 Agent
+  Mode changes in rust-v0.158.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-28-queue-exit-commands-while-an-agent-response-is-still-running|Queue
+  exit commands while an agent response is still running]]'
 - '[[Changes/ChatGPT/2026-09-29-we-re-introducing-dots-always-on-agents-in-chatgpt-that-can-take-on-ongoing-work-24bef5|ChatGPT
   introduces dots]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc|claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc]]'
@@ -97,7 +97,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.285
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-we-re-introducing-dots-always-on-agents-in-chatgpt-that-can-take-on-ongoing-work-24bef5|ChatGPT introduces dots]]
-- Later: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-6-agent-mode-changes-in-v2-1-286|6 Agent Mode changes in v2.1.286]]
+- Later: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-48190-bound-agent-message-board-sse-frames-before-parsing-jif-oai|♯48190 Bound agent message board SSE frames before parsing @jif-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

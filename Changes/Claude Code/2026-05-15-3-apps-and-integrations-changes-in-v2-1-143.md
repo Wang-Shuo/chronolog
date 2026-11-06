@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3f04685a891c69b6514af1257dfbb8cf814a05aa53d9451eb33384729f49ed2d
+machine_hash: 66afc87746c8a09f78609d04e13ce6e08c558b6e681c822a488b3b7d138d3163
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,12 +51,12 @@ record:
   title: 3 Apps and Integrations changes in v2.1.143
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-13-added-claude-code-plugin-prefer-https-to-clone-github-plugin-sources-over-https|Added
-  CLAUDE_CODE_PLUGIN_PREFER_HTTPS to clone GitHub plugin sources over HTTPS…]]'
 - '[[Changes/Cursor/2026-05-13-improved-mcp-auth-token-lifecycle-handling|Improved
   MCP auth token lifecycle handling]]'
 - '[[Changes/Claude Code/2026-05-14-3-apps-and-integrations-changes-in-v2-1-142|3
   Apps and Integrations changes in v2.1.142]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-14-auto-disable-the-built-in-github-mcp-server-in-azure-devops-only-workspaces-when|Auto-disable
+  the built-in github-mcp-server in Azure DevOps-only workspaces…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c|claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c]]'
 source_type: github_releases
 theme: apps-integrations
@@ -98,8 +98,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.143
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-14 · Claude Code · [[Changes/Claude Code/2026-05-14-3-apps-and-integrations-changes-in-v2-1-142|3 Apps and Integrations changes in v2.1.142]]
-- Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-plugin-discover-and-browse-screens-now-show-a-plugin-s-commands-agents-skills-ho|/plugin Discover and Browse screens now show a plugin's commands, agents, skills…]]
+- Earlier: 2026-05-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-14-auto-disable-the-built-in-github-mcp-server-in-azure-devops-only-workspaces-when|Auto-disable the built-in github-mcp-server in Azure DevOps-only workspaces…]]
+- Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-56-apps-and-integrations-changes-in-rust-v0-131-0|56 Apps and Integrations changes in rust-v0.131.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

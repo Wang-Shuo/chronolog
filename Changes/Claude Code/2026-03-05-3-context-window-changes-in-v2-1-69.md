@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 21496628ef89d18f002858317094dc9d42b5abf81edadb3934715cc7f0e1b965
+machine_hash: f22999aeb2c4b542bfc9dc3c4bf42f3ba756107f4f9b64665922e44b645ff34e
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Context Window changes in v2.1.69
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-25-projects-now-make-it-easy-to-build-a-living-knowledge-base-by-adding-sources-whe|Projects
-  now make it easy to build a living knowledge base by adding sources…]]'
 - '[[Changes/Cursor/2026-03-03-2-context-window-changes-in-2-6|2 Context Window changes
   in 2.6]]'
+- '[[Changes/Cline/2026-03-04-2-context-window-changes-in-v3-70-0|2 Context Window
+  changes in v3.70.0]]'
 - '[[Changes/ChatGPT/2026-03-05-gpt-5-4-brings-together-the-best-of-our-recent-advances-in-reasoning-coding-and|GPT-5.4
   Thinking in ChatGPT]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
@@ -101,7 +101,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.69
 ## Nearby in Context Window
 
 - Earlier: 2026-03-05 · ChatGPT · [[Changes/ChatGPT/2026-03-05-gpt-5-4-brings-together-the-best-of-our-recent-advances-in-reasoning-coding-and|GPT-5.4 Thinking in ChatGPT]]
-- Later: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-improved-the-remote-control-spawn-mode-selection-prompt-with-better-context|Improved the Remote Control spawn mode selection prompt with better context]]
+- Later: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-resuming-a-thread-now-preserves-its-stored-git-context-and-keeps-apps-enabled-av|Resuming a thread now preserves its stored git context and keeps apps enabled…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

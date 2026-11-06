@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9063d4a32b86061829d9db289eef63a58356c2cc290e65c8cb07b1c3a0da9fa2
+machine_hash: 03bcededdf4a64185569ad1e40db0ea26aded2f3c24c1e04a620f82023f6bdb7
 product: cursor
 product_name: Cursor
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-04-12 · Cursor · [[Changes/Cursor/2024-04-12-cursor-help-pane-beta-you-can-also-ask-cursor-about-cursor-the-cursor-help-pane|Cursor Help Pane (Beta): You can also ask Cursor about Cursor!]]
-- Later: 2024-07-23 · Cursor · [[Changes/Cursor/2024-07-23-we-ve-also-added-a-file-picker-arrow-key-navigation-and-a-model-toggle-to-compos|Cursor adds a file picker, arrow key navigation, and a model toggle to Composer]]
+- Later: 2024-05-13 · Aider · [[Changes/Aider/2024-05-13-added-restore-chat-history-to-restore-prior-chat-history-on-launch-so-you-can-co|Added --restore-chat-history to restore prior chat history on launch, so you can…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

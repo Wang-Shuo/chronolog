@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: af570d8d7581f72ccd8ec4a6de3150a0e9c2ede5ab1de711bfdcb0bedf9f7287
+machine_hash: 13ffe4ef7258ff3351c02da5b9f1772623bf1410715bd007e63612f99710fa52
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,10 +58,10 @@ record:
   title: 5 Model Support changes in Toggle thinking time in the message…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-15-we-re-making-gpt-5-s-default-personality-warmer-and-more-familiar-this-is-in-res-19a03e|GPT-5
-  Updates]]'
-- '[[Changes/Cursor/2025-08-21-2-model-support-changes-in-1-5|2 Model Support changes
-  in 1.5]]'
+- '[[Changes/Cline/2025-09-12-requesty-use-base-url-to-get-models-and-api-keys|Requesty:
+  use base URL to get models and API keys]]'
+- '[[Changes/Codex CLI/2025-09-15-16-model-support-changes-in-rust-v0-36-0|16 Model
+  Support changes in rust-v0.36.0]]'
 - '[[Changes/ChatGPT/2025-09-16-factuality-fewer-hallucinations-improving-answer-quality|Factuality:
   Fewer hallucinations, improving answer quality]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c|chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c]]'
@@ -105,7 +105,7 @@ Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle
 ## Nearby in Model Support
 
 - Earlier: 2025-09-16 · ChatGPT · [[Changes/ChatGPT/2025-09-16-factuality-fewer-hallucinations-improving-answer-quality|Factuality: Fewer hallucinations, improving answer quality]]
-- Later: 2025-09-18 · ChatGPT · [[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|Voice Updates]]
+- Later: 2025-09-17 · Cline · [[Changes/Cline/2025-09-17-updated-baseten-provider-to-fetch-models-from-server|Updated Baseten provider to fetch models from server]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

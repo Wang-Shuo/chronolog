@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b8d5aa4bf469bb9fc4ac0ab2982f6abcd6e401d57aa32984172454b6851a75f2
+machine_hash: 8d62769776a52b2c5996b87421e4726ddb4410082771356f92b296b90e6f5d34
 product: cursor
 product_name: Cursor
 record:
@@ -48,10 +48,10 @@ record:
   title: Admin controls
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-on-web-and-mobile-enterprise-and-edu-workspaces-have-a-two-week-preview-period-w|On
-  web and mobile, Enterprise and Edu workspaces have a two-week preview period]]'
 - '[[Changes/ChatGPT/2026-07-09-in-enterprise-workspaces-public-publishing-is-off-by-default-and-must-be-enabled|In
   Enterprise workspaces, public publishing is off by default and must be enabled…]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-10-long-running-sessions-refresh-enterprise-managed-settings-hourly|Long-running
+  sessions refresh enterprise managed settings hourly]]'
 - '[[Changes/Claude Code/2026-07-15-changed-usage-credits-to-ask-for-confirmation-before-sending-a-request-to-organi|Changed
   /usage-credits to ask for confirmation before sending a request…]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4|cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4]]'
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-changed-usage-credits-to-ask-for-confirmation-before-sending-a-request-to-organi|Changed /usage-credits to ask for confirmation before sending a request…]]
-- Later: 2026-08-04 · ChatGPT · [[Changes/ChatGPT/2026-08-04-starting-today-for-chatgpt-enterprise-and-education-users-long-pastes-are-handle|Starting today for ChatGPT Enterprise and Education users, long pastes are handled…]]
+- Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-2-enterprise-and-administration-changes-in-rust-v0-146-0|2 Enterprise and Administration changes in rust-v0.146.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

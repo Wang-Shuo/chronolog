@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 07882524739742deae1cac6dc6ab0c43dde4935d65787dc6f1e55746df26b5e3
+machine_hash: 27fd8e2e148a99b76bc5cf5313b74e2426174c7a2222eb46b201420cac021038
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,12 +64,12 @@ record:
   title: If you have the Google Drive plugin connected, you can now see and browse…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-01-chatgpt-can-now-help-with-more-of-the-job-search-process-from-finding-relevant-l|Find
-  live jobs and format your resume in ChatGPT]]'
-- '[[Changes/Claude Code/2026-07-17-3-search-and-browsing-changes-in-v2-1-212|3 Search
-  and Browsing changes in v2.1.212]]'
-- '[[Changes/Claude Code/2026-07-22-changed-deep-research-to-start-only-when-invoked-manually-claude-no-longer-launc|Changed
-  /deep-research to start only when invoked manually]]'
+- '[[Changes/Codex CLI/2026-07-29-2-search-and-browsing-changes-in-rust-v0-146-0|2
+  Search and Browsing changes in rust-v0.146.0]]'
+- '[[Changes/Codex CLI/2026-08-07-3-search-and-browsing-changes-in-rust-v0-147-0|3
+  Search and Browsing changes in rust-v0.147.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-10-improve-teleported-subagent-tasks-navigation-with-nested-tree-browsing-current-a|Improve
+  teleported subagent /tasks navigation with nested tree browsing, current/all…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-13-google-drive-is-now-in-library-bbf66648|chatgpt-2026-08-13-google-drive-is-now-in-library-bbf66648]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-changed-deep-research-to-start-only-when-invoked-manually-claude-no-longer-launc|Changed /deep-research to start only when invoked manually]]
+- Earlier: 2026-08-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-10-improve-teleported-subagent-tasks-navigation-with-nested-tree-browsing-current-a|Improve teleported subagent /tasks navigation with nested tree browsing, current/all…]]
 - Later: 2026-08-17 · Cursor · [[Changes/Cursor/2026-08-17-cursor-can-now-host-your-code|Cursor can now host your code]]
 <!-- chronolog:end -->
 

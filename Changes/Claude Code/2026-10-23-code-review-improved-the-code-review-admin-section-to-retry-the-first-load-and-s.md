@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2493d25602133e452590b4b9351377b4375d5158a15675568b096ca002776ce0
+machine_hash: bcea50c71a931de4ae2c3f26e15afd64b450090aeff8879a0d28e59092cc2012
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     load…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-20-2-developer-workflow-changes-in-v2-1-305|2 Developer
-  Workflow changes in v2.1.305]]'
 - '[[Changes/Claude Code/2026-10-21-2-developer-workflow-changes-in-v2-1-307|2 Developer
   Workflow changes in v2.1.307]]'
 - '[[Changes/Claude Code/2026-10-22-improved-disk-full-handling-a-bash-command-cut-off-by-a-full-disk-now-says-so-an|Improved
   disk-full handling]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-22-clicking-a-completed-response-code-block-copies-its-original-code-when-enabled|Clicking
+  a completed response code block copies its original code when enabled]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2|claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2]]'
 source_type: github_releases
 theme: developer-workflow
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-improved-disk-full-handling-a-bash-command-cut-off-by-a-full-disk-now-says-so-an|Improved disk-full handling]]
-- Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-4-developer-workflow-changes-in-v2-1-311|4 Developer Workflow changes in v2.1.311]]
+- Earlier: 2026-10-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-22-clicking-a-completed-response-code-block-copies-its-original-code-when-enabled|Clicking a completed response code block copies its original code when enabled]]
+- Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-14-developer-workflow-changes-in-rust-v0-164-0|14 Developer Workflow changes in rust-v0.164.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

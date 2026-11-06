@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 56223bb3ae457fa93cded37f1dee8974f0d48e80339d04a550117541fdd7479b
+machine_hash: 047cd9194ab78cbaa6496096786b2e848f73dc98cae21f4de957386debeeff8a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,12 +58,12 @@ record:
   title: Restaurant reservations in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-29-built-for-the-bigger-screen-98bf7a|Built for the bigger
-  screen]]'
-- '[[Changes/Cursor/2026-07-29-cursor-for-ipad-is-now-available-on-all-paid-plans-ce68be|Cursor
-  for iPad is now available on all paid plans]]'
 - '[[Changes/Claude Code/2026-08-07-3-mobile-and-desktop-changes-in-v2-1-224|3 Mobile
   and Desktop changes in v2.1.224]]'
+- '[[Changes/Codex CLI/2026-08-07-4-mobile-and-desktop-changes-in-rust-v0-147-0|4
+  Mobile and Desktop changes in rust-v0.147.0]]'
+- '[[Changes/Cline/2026-08-09-fall-back-to-the-session-cwd-or-desktop-for-mention-file-search-in-empty-windows|Fall
+  back to the session cwd or Desktop for @-mention file search in empty windows]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-10-restaurant-reservations-in-chatgpt-07c9e578|chatgpt-2026-08-10-restaurant-reservations-in-chatgpt-07c9e578]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-3-mobile-and-desktop-changes-in-v2-1-224|3 Mobile and Desktop changes in v2.1.224]]
-- Later: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-changed-self-hosted-runner-windows-startup-to-require-an-explicit-base-dir-there|Changed self-hosted runner Windows startup to require an explicit --base-dir]]
+- Earlier: 2026-08-09 · Cline · [[Changes/Cline/2026-08-09-fall-back-to-the-session-cwd-or-desktop-for-mention-file-search-in-empty-windows|Fall back to the session cwd or Desktop for @-mention file search in empty windows]]
+- Later: 2026-08-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-10-2-mobile-and-desktop-changes-in-v1-0-79|2 Mobile and Desktop changes in v1.0.79]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

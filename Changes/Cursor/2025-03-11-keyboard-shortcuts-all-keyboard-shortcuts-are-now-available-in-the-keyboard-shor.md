@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 36ddc2b4685131518a97fd314ea490b3f9bd8709695f8e68cc04b3a11a54ee39
+machine_hash: f1793603867c1358d789c39950ec88c7b166e9e0b47553a102ca192b9e90600e
 product: cursor
 product_name: Cursor
 record:
@@ -46,11 +46,11 @@ record:
   title: 'Keyboard Shortcuts: All keyboard shortcuts are now available in the Keyboard…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-11-22-sidebar-redesign-e6413a|Sidebar redesign]]'
-- '[[Changes/Cursor/2024-11-24-composer-ui-in-the-sidebar-with-inline-diffs|Composer
-  UI in the sidebar with inline diffs]]'
 - '[[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface
   Experience changes in 0.46.x]]'
+- '[[Changes/OpenHands/2025-02-19-2-interface-experience-changes-in-0-25-0|2 Interface
+  Experience changes in 0.25.0]]'
+- '[[Changes/Aider/2025-03-10-https-aider-chat-history-html|(source link)]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e|cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface Experience changes in 0.46.x]]
+- Earlier: 2025-03-10 · Aider · [[Changes/Aider/2025-03-10-https-aider-chat-history-html|(source link)]]
 - Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-added-long-press-on-your-message-to-open-menu-actions-copy-edit|Added long press on your message to open menu actions: Copy, Edit]]
 <!-- chronolog:end -->
 

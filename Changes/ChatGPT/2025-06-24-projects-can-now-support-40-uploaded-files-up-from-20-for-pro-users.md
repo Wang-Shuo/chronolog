@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6cb22948b86f60c96c836511b4f0e8f99a2a08f18a70b2477e91fecdf7058425
+machine_hash: 13b35df40f2a3ae9a16363136e67956ce331b3170323930dd2cecedc4af6351b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,11 +45,12 @@ record:
   title: Project file limit increased (Pro)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-01-15-edit-a-full-model-response-in-canvas|Edit a full model
-  response in Canvas]]'
-- '[[Changes/ChatGPT/2025-01-15-edit-a-code-block-in-canvas|Edit a code block in Canvas]]'
 - '[[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or-2f5aff|Canvas
   sharing]]'
+- '[[Changes/Cline/2025-05-28-add-support-for-uploading-various-file-types-xml-json-txt-log-md-docx-ipynb-pdf|Add
+  support for uploading various file types…]]'
+- '[[Changes/Cline/2025-06-03-add-support-for-uploading-csv-and-xlsx-files-for-data-analysis-and-processing|Add
+  support for uploading CSV and XLSX files for data analysis and processing]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-24-project-file-limit-increased-pro-a6870635|chatgpt-2025-06-24-project-file-limit-increased-pro-a6870635]]'
 source_type: chatgpt_changelog
 theme: file-data
@@ -76,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-02-06 · ChatGPT · [[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or-2f5aff|Canvas sharing]]
-- Later: 2026-02-04 · Claude Code · [[Changes/Claude Code/2026-02-04-improved-pdf-and-request-size-error-messages-to-show-actual-limits-100-pages-20m|Improved PDF and request size error messages to show actual limits (100 pages, 20MB)]]
+- Earlier: 2025-06-03 · Cline · [[Changes/Cline/2025-06-03-add-support-for-uploading-csv-and-xlsx-files-for-data-analysis-and-processing|Add support for uploading CSV and XLSX files for data analysis and processing]]
+- Later: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-document-certificate-issue-workaround-by-scidomino-in-https-github-com-google-ge|Document certificate issue workaround]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

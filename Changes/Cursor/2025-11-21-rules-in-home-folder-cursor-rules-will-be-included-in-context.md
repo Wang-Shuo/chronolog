@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4b7e52168a7f6c2ea3d631e20145ae9e4981d0830f699966ebb8080a03839762
+machine_hash: ea606cbabe5f6c1e6b3593bc292b487ae43469451fc25610806f3fa9797440d0
 product: cursor
 product_name: Cursor
 record:
@@ -41,11 +41,12 @@ record:
   title: Rules in home folder (~/.cursor/rules) will be included in context
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-21-context-usage-is-always-shown-in-the-chat-input|Context
-  usage is always shown in the chat input]]'
-- '[[Changes/Cursor/2025-09-12-cursor-automatically-summarizes-long-conversation-for-you-when-reaching-the-cont|Summarization
-  triggers]]'
-- '[[Changes/Cursor/2025-10-29-improved-prompt-ui|Improved Prompt UI]]'
+- '[[Changes/Cline/2025-11-18-feat-bedrock-add-context-window-error-detection-and-retry-handling-by-arafatkatz|feat(bedrock):
+  add context window error detection and retry handling]]'
+- '[[Changes/Codex CLI/2025-11-19-6-context-window-changes-in-rust-v0-59-0|6 Context
+  Window changes in rust-v0.59.0]]'
+- '[[Changes/Codex CLI/2025-11-20-ux-fixes-corrected-reasoning-display-preserved-review-footer-context-after-revie|UX
+  fixes: corrected reasoning display, preserved review footer context after…]]'
 source_release: '[[Releases/Cursor/cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490|cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490]]'
 source_type: cursor_changelog
 theme: context-window
@@ -80,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-improved-prompt-ui|Improved Prompt UI]]
-- Later: 2025-12-18 · Cursor · [[Changes/Cursor/2025-12-18-conversation-insights-2efafc|Conversation insights]]
+- Earlier: 2025-11-20 · Codex CLI · [[Changes/Codex CLI/2025-11-20-ux-fixes-corrected-reasoning-display-preserved-review-footer-context-after-revie|UX fixes: corrected reasoning display, preserved review footer context after…]]
+- Later: 2025-11-21 · Windsurf · [[Changes/Windsurf/2025-11-21-fast-context|Fast Context]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

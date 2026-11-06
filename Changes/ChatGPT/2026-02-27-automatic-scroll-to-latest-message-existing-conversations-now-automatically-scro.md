@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 487dfdd356407632507e7635c48abec973ada84d1f3805eb2dc94423f5a346b4
+machine_hash: 49ee87049385bde4b5ad1d47da3bd212754a994a6834d8d8b9f82aa2ae839649
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,12 +48,12 @@ record:
   title: Automatic scroll to latest message
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-18-this-release-introduces-the-ability-to-hand-off-plans-from-the-cli-to-the-cloud|Cursor
-  introduces the ability to hand off plans from the CLI to the cloud, in-line…]]'
 - '[[Changes/Claude Code/2026-02-26-improved-ordering-of-short-task-lists|Improved
   ordering of short task lists]]'
 - '[[Changes/Claude Code/2026-02-26-added-copy-command-to-show-an-interactive-picker-when-code-blocks-are-present-al|Added
   /copy command to show an interactive picker when code blocks are present…]]'
+- '[[Changes/Codex CLI/2026-02-26-improved-tui-local-file-link-rendering-to-hide-absolute-paths-while-preserving-v|Improved
+  TUI local file-link rendering to hide absolute paths while preserving…]]'
 scope: Android
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c]]'
 source_type: chatgpt_changelog
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-26 · Claude Code · [[Changes/Claude Code/2026-02-26-added-copy-command-to-show-an-interactive-picker-when-code-blocks-are-present-al|Added /copy command to show an interactive picker when code blocks are present…]]
-- Later: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-added-always-copy-full-response-option-to-the-copy-picker-when-selected-future-c|Added "Always copy full response" option to the /copy picker]]
+- Earlier: 2026-02-26 · Codex CLI · [[Changes/Codex CLI/2026-02-26-improved-tui-local-file-link-rendering-to-hide-absolute-paths-while-preserving-v|Improved TUI local file-link rendering to hide absolute paths while preserving…]]
+- Later: 2026-02-27 · Gemini CLI · [[Changes/Gemini CLI/2026-02-27-2-interface-experience-changes-in-v0-31-0|2 Interface Experience changes in v0.31.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

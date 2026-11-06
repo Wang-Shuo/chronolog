@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6cd7f328f438ee737e63fa4c8461d106b8a325141fdc53e21e67fa6eef37ff7c
+machine_hash: 543c20c175a3f4280f666e13cd9f9bc47fa08cbfda79806282c35346cfb028ee
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Improved performance in long conversations by removing redundant message…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-improved-rendering-performance-for-large-file-writes|Improved
-  rendering performance for large file writes]]'
-- '[[Changes/Cursor/2026-06-04-reliability-performance-and-platform-improvements|Reliability,
-  performance, and platform improvements]]'
 - '[[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run
   correlation: Every send() now carries a platform-generated requestId, exposed…]]'
+- '[[Changes/Codex CLI/2026-06-09-26637-codex-speed-up-external-agent-session-imports-stefanstokic-oai|♯26637
+  codex Speed up external agent session imports @stefanstokic-oai]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-09-grep-searches-in-large-monorepos-use-an-indexed-search-engine-for-significantly|Grep
+  searches in large monorepos use an indexed search engine for significantly…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c|claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c]]'
 source_type: github_releases
 theme: reliability-performance
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run correlation: Every send() now carries a platform-generated requestId, exposed…]]
+- Earlier: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-grep-searches-in-large-monorepos-use-an-indexed-search-engine-for-significantly|Grep searches in large monorepos use an indexed search engine for significantly…]]
 - Later: 2026-06-10 · Cursor · [[Changes/Cursor/2026-06-10-the-average-review-time-for-bugbot-is-now-90-seconds-down-from-5-minutes-bugbot-362593|The average review time for Bugbot is now ~90 seconds, down from ~5 minutes]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: c93cb2058b95f831bee69733afb2693c48e28b84ede547ea7ef81b9fd0d74071
+machine_hash: c3526e9f0ac80aa5309cc641307326b0320167587050ebae2a1759cdb8ca12bd
 product: cursor
 product_name: Cursor
 record:
@@ -55,8 +55,8 @@ record:
   title: Faster Background Agent startup
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-29-2-agent-mode-changes-in-1-3|2 Agent Mode changes in
-  1.3]]'
+- '[[Changes/Gemini CLI/2025-08-05-6-agent-mode-changes-in-v0-1-17|6 Agent Mode changes
+  in v0.1.17]]'
 - '[[Changes/Cursor/2025-08-06-improved-agent-tools-488891|Improved Agent tools]]'
 - '[[Changes/Cursor/2025-08-06-github-support-for-background-agents|GitHub support
   for Background Agents]]'
@@ -97,8 +97,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-2-agent-mode-changes-in-1-3|2 Agent Mode changes in 1.3]]
-- Later: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-you-can-now-start-background-agents-directly-from-linear-delegate-tasks-to-curso|Run Agents in Linear]]
+- Earlier: 2025-08-05 · Gemini CLI · [[Changes/Gemini CLI/2025-08-05-6-agent-mode-changes-in-v0-1-17|6 Agent Mode changes in v0.1.17]]
+- Later: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-6-agent-mode-changes-in-v0-1-18|6 Agent Mode changes in v0.1.18]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

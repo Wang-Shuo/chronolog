@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e1eed433b5c4ebe94425928f70a6ed815cb89394800bac41ec3a42b579b33226
+machine_hash: c4fe88cdc435fc3f6b8c155447776e5168bbc09a3eefb6f61f4a2c139a209bd6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,10 +39,10 @@ record:
   title: Sharing chats from projects
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer
-  is now default-on and available to all Pro/Business users by hitting cmd+I]]'
-- '[[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved
-  indexing performance for teams sharing codebases]]'
+- '[[Changes/Cline/2025-05-16-add-collapsible-recent-task-list-allowing-users-to-hide-their-task-history-when|Add
+  collapsible recent task list, allowing users to hide their task history…]]'
+- '[[Changes/Cline/2025-05-22-add-support-for-global-workflows-allowing-workflows-to-be-shared-across-workspac|Add
+  support for global workflows, allowing workflows to be shared across workspaces…]]'
 - '[[Changes/Cursor/2025-06-04-admin-api-for-teams-to-access-usage-metrics-and-spend-data|Admin
   API for teams to access usage metrics and spend data]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8|chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8]]'

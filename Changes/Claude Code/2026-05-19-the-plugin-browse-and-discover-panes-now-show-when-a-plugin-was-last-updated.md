@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a72574bc86fe6b75847bcd7d2bbeb1996421b85083ad20ce6c45a4ce8a99e259
+machine_hash: 3bc5be46672dda59eef1be7286a126ddda979a7dd1308e15939a2acaa0336c7c
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
   title: The `/plugin` browse and discover panes now show when a plugin was last updated
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|Shopping
-  updates in ChatGPT]]'
-- '[[Changes/Cursor/2026-04-02-past-chat-transcripts-are-now-surfaced-directly-in-at-mention-search-results|Past
-  chat transcripts are now surfaced directly in at-mention search results]]'
-- '[[Changes/ChatGPT/2026-04-08-the-outlook-email-and-calendar-apps-for-chatgpt-can-now-help-with-delegated-or-s|Outlook
-  shared mailboxes and calendars in ChatGPT]]'
+- '[[Changes/Codex CLI/2026-04-20-plugin-workflows-now-include-tabbed-browsing-inline-enable-disable-toggles-marke|Plugin
+  workflows now include tabbed browsing, inline enable/disable toggles…]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-01-research-uses-an-orchestrator-subagent-model-for-more-thorough-and-reliable-deep|/research
+  uses an orchestrator/subagent model for more thorough and reliable deep…]]'
+- '[[Changes/Codex CLI/2026-05-07-21054-rollout-store-web-search-and-mcp-tool-calls-owenlin0|♯21054
+  rollout: store web search and mcp tool calls @owenlin0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-144-github-324524751-1469637a|claude-code-2026-05-19-v2-1-144-github-324524751-1469637a]]'
 source_type: github_releases
 theme: search-browsing
@@ -96,8 +96,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-04-08 · ChatGPT · [[Changes/ChatGPT/2026-04-08-the-outlook-email-and-calendar-apps-for-chatgpt-can-now-help-with-delegated-or-s|Outlook shared mailboxes and calendars in ChatGPT]]
-- Later: 2026-06-01 · ChatGPT · [[Changes/ChatGPT/2026-06-01-chatgpt-can-now-help-with-more-of-the-job-search-process-from-finding-relevant-l|Find live jobs and format your resume in ChatGPT]]
+- Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-21054-rollout-store-web-search-and-mcp-tool-calls-owenlin0|♯21054 rollout: store web search and mcp tool calls @owenlin0]]
+- Later: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-github-mcp-web-search-tool-is-available-immediately-without-requiring-tool-searc|GitHub MCP web search tool is available immediately without requiring tool search]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

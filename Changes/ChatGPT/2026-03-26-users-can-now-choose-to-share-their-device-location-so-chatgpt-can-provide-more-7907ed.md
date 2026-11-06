@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 99c5fb91408049dc813e4b07175941404dc853fb5ce9a71a0620c6566174dad2
+machine_hash: 5909f3bdc896ce4a55bfe250a1ceff36d292b96fa53fda878025d40bebf80efb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -85,12 +85,12 @@ record:
   title: Location Sharing
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-18-2-mobile-and-desktop-changes-in-cli-improvements-and-mermaid-ascii|2
-  Mobile and Desktop changes in CLI Improvements and Mermaid ASCII…]]'
-- '[[Changes/Claude Code/2026-03-05-2-mobile-and-desktop-changes-in-v2-1-69|2 Mobile
-  and Desktop changes in v2.1.69]]'
-- '[[Changes/Claude Code/2026-03-17-vscode-when-option-click-doesn-t-trigger-native-selection-on-macos-the-footer-no|VSCode
-  When option+click doesn''t trigger native selection on macOS, the footer now…]]'
+- '[[Changes/Gemini CLI/2026-03-17-docs-add-documentation-for-notifications-experimental-macos-by-jkcinouye-in-http|Docs:
+  Add documentation for notifications (experimental)(macOS)]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-17-resolve-an-edge-case-where-auto-update-could-leave-an-incomplete-package-on-wind|Resolve
+  an edge case where auto-update could leave an incomplete package on Windows]]'
+- '[[Changes/Codex CLI/2026-03-19-14986-temporarily-disable-private-desktop-until-it-works-with-elevated-ipc-path|♯14986
+  temporarily disable private desktop until it works with elevated IPC path…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-26-location-sharing-b07f88a6|chatgpt-2026-03-26-location-sharing-b07f88a6]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -117,7 +117,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-vscode-when-option-click-doesn-t-trigger-native-selection-on-macos-the-footer-no|VSCode When option+click doesn't trigger native selection on macOS, the footer now…]]
+- Earlier: 2026-03-19 · Codex CLI · [[Changes/Codex CLI/2026-03-19-14986-temporarily-disable-private-desktop-until-it-works-with-elevated-ipc-path|♯14986 temporarily disable private desktop until it works with elevated IPC path…]]
 - Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-added-powershell-tool-for-windows-as-an-opt-in-preview-learn-more-at-https-code|Added PowerShell tool for Windows as an opt-in preview]]
 <!-- chronolog:end -->
 

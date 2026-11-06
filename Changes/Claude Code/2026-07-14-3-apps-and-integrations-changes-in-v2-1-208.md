@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 44753b76a4cb206b6d2a9c1cbdd90d3b393f37ccda785199a6d1e97f0a47ab90
+machine_hash: 93431eee4cc972ec87803576d073734bcb5681ed5491705d9fcab434c972635c
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Apps and Integrations changes in v2.1.208
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-we-re-also-replacing-the-app-directory-with-the-plugin-directory-existing-app-co|We’re
-  also replacing the App Directory with the Plugin Directory]]'
-- '[[Changes/ChatGPT/2026-07-09-enterprise-and-edu-users-can-find-skills-under-plugins-in-the-sidebar-on-the-ski|Skills
-  are now generally available]]'
+- '[[Changes/OpenHands/2026-07-09-chore-bump-sdk-packages-to-v1-34-0-by-all-hands-bot-in-https-github-com-openhand|chore:
+  bump SDK packages to v1.34.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-10-9-apps-and-integrations-changes-in-v1-0-70|9
+  Apps and Integrations changes in v1.0.70]]'
 - '[[Changes/Claude Code/2026-07-11-2-apps-and-integrations-changes-in-v2-1-207|2
   Apps and Integrations changes in v2.1.207]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-208-github-353442054-2756b984|claude-code-2026-07-14-v2-1-208-github-353442054-2756b984]]'

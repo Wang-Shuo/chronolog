@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 26657e0b2f160443a37902648f393b63ba8b61de3b1a97813c15058ffa137c82
+machine_hash: a824dacfcb9b4a0391acb8a98127cecece6dd0a44add7a857cb56916d1b5aa1d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -102,12 +102,12 @@ record:
   title: Memory sources and more personalized responses in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|Sunsetting
-  the “Nerdy” base style]]'
-- '[[Changes/Claude Code/2026-03-27-memory-filenames-in-the-saved-n-memories-notice-now-highlight-on-hover-and-open|Memory
-  filenames in the "Saved N memories" notice now highlight on hover and open on click]]'
-- '[[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|Fast
-  answers in ChatGPT]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-24-custom-instruction-files-in-gitignored-directories-e-g-github-instructions-now-l|Custom
+  instruction files in .gitignored directories (e.g., .github/instructions/)…]]'
+- '[[Changes/Gemini CLI/2026-04-28-refactor-memory-replace-memorymanageragent-with-prompt-driven-memory-editing-acr|refactor(memory):
+  replace MemoryManagerAgent with prompt-driven memory editing…]]'
+- '[[Changes/Codex CLI/2026-04-30-12-memory-and-personalization-changes-in-rust-v0-128-0|12
+  Memory and Personalization changes in rust-v0.128.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-05-memory-sources-and-more-personalized-responses-in-chatgpt-67d43ddb|chatgpt-2026-05-05-memory-sources-and-more-personalized-responses-in-chatgpt-67d43ddb]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -134,8 +134,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-04-22 · ChatGPT · [[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|Fast answers in ChatGPT]]
-- Later: 2026-06-04 · ChatGPT · [[Changes/ChatGPT/2026-06-04-we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping-9a48f3|Memory that stays more up to date]]
+- Earlier: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-12-memory-and-personalization-changes-in-rust-v0-128-0|12 Memory and Personalization changes in rust-v0.128.0]]
+- Later: 2026-05-05 · Gemini CLI · [[Changes/Gemini CLI/2026-05-05-feat-memory-persist-auto-memory-scratchpad-for-skill-extraction-by-sandytao520-i|feat(memory): persist auto-memory scratchpad for skill extraction]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

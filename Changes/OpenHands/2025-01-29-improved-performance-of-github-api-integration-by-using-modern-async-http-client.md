@@ -1,0 +1,104 @@
+---
+card_id: openhands-2025-01-29-2dcced
+date: '2025-01-29'
+description: 'OpenHands · 2025-01-29 · Apps and Integrations: Improved performance
+  of GitHub API integration by using modern async HTTP client by @tofarr in…'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 678
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: apps-integrations
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: significant
+kind: change
+machine_hash: 8358647dc1765aedb59bd0e10aed2ac1da2e6ebddd0927e10d343b2df429f782
+product: openhands
+product_name: OpenHands
+record:
+  ai_generated: true
+  card_id: openhands-2025-01-29-2dcced
+  comparison: ''
+  confidence: low
+  date: '2025-01-29'
+  description: 'OpenHands — 0.22.0 - 2025-01-29: Improved performance of GitHub API
+    integration by using modern async HTTP client by @tofarr in https://github.com/All-Hands-AI/OpenHands/pull/6325'
+  evidence:
+  - quote: Improved performance of GitHub API integration by using modern async HTTP
+      client by @tofarr in https://github.com/All-Hands-AI/OpenHands/pull/6325
+    source_release: https://github.com/OpenHands/OpenHands/releases/tag/0.22.0
+  extractor_version: fallback-v5
+  impact: significant
+  kind: change
+  product: openhands
+  product_name: OpenHands
+  slug: improved-performance-of-github-api-integration-by-using-modern-async-http-client
+  source_release: openhands-2025-01-29-0-22-0-github-197443017-47ca858b
+  source_type: github_releases
+  theme: apps-integrations
+  theme_matches:
+  - matched_terms:
+    - integration
+    score: 50
+    theme: apps-integrations
+  - matched_terms:
+    - performance
+    score: 50
+    theme: reliability-performance
+  theme_resolution: manual-semantic-rule-v1
+  title: Improved performance of GitHub API integration by using modern async HTTP
+    client
+  type: change
+related_changes:
+- '[[Changes/Cline/2024-12-12-3-apps-and-integrations-changes-in-v2-2-0|3 Apps and
+  Integrations changes in v2.2.0]]'
+- '[[Changes/Cline/2024-12-18-enable-or-disable-for-reading-files-directories-editing-files-executing-terminal|Enable
+  or disable for]]'
+- '[[Changes/Cline/2025-01-21-add-on-off-toggle-for-mcp-servers-to-disable-them-when-not-in-use-and-auto-appro|Add
+  on/off toggle for MCP servers to disable them when not in use, and auto-approve…]]'
+source_release: '[[Releases/OpenHands/openhands-2025-01-29-0-22-0-github-197443017-47ca858b|openhands-2025-01-29-0-22-0-github-197443017-47ca858b]]'
+source_type: github_releases
+theme: apps-integrations
+title: Improved performance of GitHub API integration by using modern async HTTP client
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Improved performance of GitHub API integration by using modern async HTTP client
+
+**OpenHands** · 2025-01-29 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://github.com/OpenHands/OpenHands/releases/tag/0.22.0) · from [[Releases/OpenHands/openhands-2025-01-29-0-22-0-github-197443017-47ca858b|0.22.0 - 2025-01-29]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Improved performance of GitHub API integration by using modern async HTTP client by @tofarr in https://github.com/All-Hands-AI/OpenHands/pull/6325
+>
+> Source: https://github.com/OpenHands/OpenHands/releases/tag/0.22.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/OpenHands/2025-01-29-4-other-changes-in-0-22-0|4 other changes in 0.22.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2025-01-21 · Cline · [[Changes/Cline/2025-01-21-add-on-off-toggle-for-mcp-servers-to-disable-them-when-not-in-use-and-auto-appro|Add on/off toggle for MCP servers to disable them when not in use, and auto-approve…]]
+- Later: 2025-01-30 · Cline · [[Changes/Cline/2025-01-30-add-advanced-settings-to-remove-mcp-prompts-from-requests-to-save-tokens-enable|Add Advanced Settings to remove MCP prompts from requests to save tokens…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20openhands-2025-01-29-2dcced&body=Card%3A%20Changes%2FOpenHands%2F2025-01-29-improved-performance-of-github-api-integration-by-using-modern-async-http-client.md%0ACard%20ID%3A%20openhands-2025-01-29-2dcced%0ASource%3A%20https%3A%2F%2Fgithub.com%2FOpenHands%2FOpenHands%2Freleases%2Ftag%2F0.22.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

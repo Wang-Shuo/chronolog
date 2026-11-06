@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8e2fa52a443238b448d805a234f7715bbe47f2fb18e36fcea76d8b243aeb51e0
+machine_hash: aa4d30dbcf1d6ea71871bdfe4742e76628c06aec6ce72a9c0b68c93fe951c9f0
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,12 @@ record:
   title: Removed the 200-subagent-per-session spawn cap
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and|A
-  full review surface]]'
-- '[[Changes/Cursor/2026-07-29-inbox|Inbox]]'
+- '[[Changes/OpenHands/2026-08-03-3-agent-mode-changes-in-v1-9-0|3 Agent Mode changes
+  in v1.9.0]]'
 - '[[Changes/Claude Code/2026-08-06-2-agent-mode-changes-in-v2-1-223|2 Agent Mode
   changes in v2.1.223]]'
+- '[[Changes/Gemini CLI/2026-08-06-feat-pr-generator-agent-implement-antigravity-agent-runner-and-prompt-templates|feat(pr-generator-agent):
+  implement Antigravity agent runner and prompt templates …]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c|claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c]]'
 source_type: github_releases
 theme: agent-mode
@@ -85,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-06 · Claude Code · [[Changes/Claude Code/2026-08-06-2-agent-mode-changes-in-v2-1-223|2 Agent Mode changes in v2.1.223]]
-- Later: 2026-08-11 · Claude Code · [[Changes/Claude Code/2026-08-11-removed-the-outdated-note-about-auto-mode-sessions-costing-slightly-more-from-th|Removed the outdated note about auto mode sessions costing slightly more…]]
+- Earlier: 2026-08-06 · Gemini CLI · [[Changes/Gemini CLI/2026-08-06-feat-pr-generator-agent-implement-antigravity-agent-runner-and-prompt-templates|feat(pr-generator-agent): implement Antigravity agent runner and prompt templates …]]
+- Later: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-17-agent-mode-changes-in-rust-v0-147-0|17 Agent Mode changes in rust-v0.147.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

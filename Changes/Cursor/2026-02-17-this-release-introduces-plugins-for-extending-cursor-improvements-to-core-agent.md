@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 485dc6b4b91bb3d80cb6bf6d7eeecb1fddac4e35c16ffff8e52a07196d14258c
+machine_hash: 4479ace3d0089caf63e8d890f1db65eb75b3c83f1059686bd43b3139c5c795b0
 product: cursor
 product_name: Cursor
 record:
@@ -56,8 +56,8 @@ record:
   title: Cursor introduces plugins for extending Cursor, improvements to core agent…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-12-cursor-can-now-work-autonomously-over-longer-horizons-to-complete-larger-more-co-48843c|Long-running
-  Agents in Research Preview]]'
+- '[[Changes/Codex CLI/2026-02-17-7-agent-mode-changes-in-rust-v0-102-0|7 Agent Mode
+  changes in rust-v0.102.0]]'
 - '[[Changes/Cursor/2026-02-17-async-subagents|Async subagents]]'
 - '[[Changes/Cursor/2026-02-17-6-agent-mode-changes-in-2-5|6 Agent Mode changes in
   2.5]]'
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-12 · Cursor · [[Changes/Cursor/2026-02-12-cursor-can-now-work-autonomously-over-longer-horizons-to-complete-larger-more-co-48843c|Long-running Agents in Research Preview]]
+- Earlier: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-7-agent-mode-changes-in-rust-v0-102-0|7 Agent Mode changes in rust-v0.102.0]]
 - Later: 2026-02-18 · Claude Code · [[Changes/Claude Code/2026-02-18-2-agent-mode-changes-in-v2-1-47|2 Agent Mode changes in v2.1.47]]
 <!-- chronolog:end -->
 

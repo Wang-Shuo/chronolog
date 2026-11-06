@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ecfde48bae1fd44a2bf03b47eec0194fcd7a2f49c9facaa0e21ad5d35b72d716
+machine_hash: ae1ed9f9c1e9961ed0a648724fe321589ef8ef9d21db90c01b4fa318e10a82f8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,12 +50,11 @@ record:
   title: More images in answers for Free users
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-16-windows-powershell-tool-is-progressively-rolling-out-opt-in-or-out-with-claude-c|Windows:
-  PowerShell tool is progressively rolling out]]'
-- '[[Changes/Claude Code/2026-04-17-extra-usage-now-works-from-remote-control-mobile-web-clients|/extra-usage
-  now works from Remote Control (mobile/web) clients]]'
-- '[[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The
-  agents that run in the Cursor desktop app, CLI, and web app are now accessible…]]'
+- '[[Changes/Windsurf/2026-05-06-windows-updates|Windows updates]]'
+- '[[Changes/Codex CLI/2026-05-07-3-mobile-and-desktop-changes-in-rust-v0-129-0|3
+  Mobile and Desktop changes in rust-v0.129.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-11-fall-back-to-windows-powershell-powershell-exe-when-powershell-7-pwsh-is-not-ava|Fall
+  back to Windows PowerShell (powershell.exe) when PowerShell 7+ (pwsh) is not…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-12-more-images-in-answers-for-free-users-34680cb9|chatgpt-2026-05-12-more-images-in-answers-for-free-users-34680cb9]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-04-29 · Cursor · [[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The agents that run in the Cursor desktop app, CLI, and web app are now accessible…]]
+- Earlier: 2026-05-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-11-fall-back-to-windows-powershell-powershell-exe-when-powershell-7-pwsh-is-not-ava|Fall back to Windows PowerShell (powershell.exe) when PowerShell 7+ (pwsh) is not…]]
 - Later: 2026-05-14 · ChatGPT · [[Changes/ChatGPT/2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is|Generated images will continue to appear in the Images tab]]
 <!-- chronolog:end -->
 

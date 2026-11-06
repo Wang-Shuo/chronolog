@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e5bd05f5fa2755af0d7fee305f33b8a396077e7698f4deda5fec50ff0395931a
+machine_hash: 2ed403fd8e652146b3d837ea8012ad142c5093db89ef4e369875ba5a38eaaec4
 product: cursor
 product_name: Cursor
 record:
@@ -46,11 +46,12 @@ record:
   title: 3 Developer Workflow changes in New CLI Features and Improved CLI…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-10-debug-mode|Debug Mode]]'
-- '[[Changes/Claude Code/2025-12-19-added-terminal-setup-support-for-kitty-alacritty-zed-and-warp-terminals|Added
-  /terminal-setup support for Kitty, Alacritty, Zed, and Warp terminals]]'
-- '[[Changes/Claude Code/2025-12-19-2-developer-workflow-changes-in-v2-0-74|2 Developer
-  Workflow changes in v2.0.74]]'
+- '[[Changes/Codex CLI/2026-01-06-6-developer-workflow-changes-in-rust-v0-78-0|6 Developer
+  Workflow changes in rust-v0.78.0]]'
+- '[[Changes/Codex CLI/2026-01-07-render-paths-relative-to-the-current-working-directory-before-checking-git-roots|Render
+  paths relative to the current working directory before checking git roots…]]'
+- '[[Changes/Gemini CLI/2026-01-07-4-developer-workflow-changes-in-v0-23-0|4 Developer
+  Workflow changes in v0.23.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-08-new-cli-features-and-improved-cli-performance-https-cursor-com-c-8afb8542|cursor-2026-01-08-new-cli-features-and-improved-cli-performance-https-cursor-com-c-8afb8542]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -96,7 +97,7 @@ Source: https://cursor.com/changelog/cli-jan-08-2026
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-2-developer-workflow-changes-in-v2-0-74|2 Developer Workflow changes in v2.0.74]]
+- Earlier: 2026-01-07 · Gemini CLI · [[Changes/Gemini CLI/2026-01-07-4-developer-workflow-changes-in-v0-23-0|4 Developer Workflow changes in v0.23.0]]
 - Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-improved-slash-command-suggestion-readability-by-truncating-long-descriptions-to|Improved slash command suggestion readability by truncating long descriptions to 2 lines]]
 <!-- chronolog:end -->
 

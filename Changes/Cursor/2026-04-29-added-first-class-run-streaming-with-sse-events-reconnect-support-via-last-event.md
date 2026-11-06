@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 566d8462f508a41fe85999e9a566ce6c2a201585e1eb3f5af09d685d13f28093
+machine_hash: 3896d5a1ba6ef0f57dad5832dfdd9a33cdd9cc5b24f1d3eabdf3ba0427358f70
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,12 @@ record:
   title: Added first-class run streaming with SSE events, reconnect support…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-23-wsl-on-windows-can-now-inherit-windows-side-managed-settings-via-the-wslinherits|WSL
-  on Windows can now inherit Windows-side managed settings…]]'
 - '[[Changes/Claude Code/2026-04-28-opentelemetry-added-claude-code-at-mention-log-event-for-mention-resolution|OpenTelemetry:
   added claude_code.at_mention log event for @-mention resolution]]'
 - '[[Changes/Claude Code/2026-04-28-4-developer-workflow-changes-in-v2-1-121|4 Developer
   Workflow changes in v2.1.121]]'
+- '[[Changes/Gemini CLI/2026-04-28-3-developer-workflow-changes-in-v0-40-0|3 Developer
+  Workflow changes in v0.40.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3|cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-4-developer-workflow-changes-in-v2-1-121|4 Developer Workflow changes in v2.1.121]]
-- Later: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-3-developer-workflow-changes-in-v2-1-126|3 Developer Workflow changes in v2.1.126]]
+- Earlier: 2026-04-28 · Gemini CLI · [[Changes/Gemini CLI/2026-04-28-3-developer-workflow-changes-in-v0-40-0|3 Developer Workflow changes in v0.40.0]]
+- Later: 2026-04-29 · Windsurf · [[Changes/Windsurf/2026-04-29-devin-for-terminal|Devin for Terminal]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

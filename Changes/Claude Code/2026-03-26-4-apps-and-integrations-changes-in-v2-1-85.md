@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7685d7d4cd37064a1e81fe3b72d8ae700ccb5b11fa81a4778d550ca9533a5b9c
+machine_hash: 6f2d8a9367918666709c9216be6bb745093c6bd722c938b37007976e4dc74c75
 product: claude-code
 product_name: Claude Code
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.85
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-5-apps-and-integrations-changes-in-v2-1-84|5 Apps and Integrations changes in v2.1.84]]
-- Later: 2026-03-27 · ChatGPT · [[Changes/ChatGPT/2026-03-27-we-re-rolling-out-updated-box-notion-linear-and-dropbox-apps-in-chatgpt-these-up-9f6ee9|Updated Box, Notion, Linear, and Dropbox apps]]
+- Later: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-the-app-server-backed-tui-is-now-enabled-by-default-and-the-plugin-app-rollout-f|The app-server-backed TUI is now enabled by default, and the plugin/app rollout…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c828f948fbf3b24ed82258d214f15472dc0e2a7b827969a674522e176fe185e9
+machine_hash: b1ecc9b536d0bdd783328d955c27f9f1ef56d54cc9e0231656e6f00b830768f0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,12 +46,11 @@ record:
     Site…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-21-you-can-now-track-your-credit-score-in-chatgpt-securely-connect-your-experian-cr|Credit
-  scores in Finances]]'
-- '[[Changes/Claude Code/2026-09-23-2-mobile-and-desktop-changes-in-v2-1-281|2 Mobile
-  and Desktop changes in v2.1.281]]'
 - '[[Changes/Claude Code/2026-09-24-improved-the-error-shown-on-windows-when-a-session-can-t-be-resumed-because-its|Improved
   the error shown on Windows when a session can''t be resumed because…]]'
+- '[[Changes/Windsurf/2026-09-24-devin-desktop|Devin Desktop]]'
+- '[[Changes/Codex CLI/2026-09-28-3-mobile-and-desktop-changes-in-rust-v0-158-0|3
+  Mobile and Desktop changes in rust-v0.158.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-creating-editing-and-scheduling-sites-bb025dd6|chatgpt-2026-09-29-creating-editing-and-scheduling-sites-bb025dd6]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-improved-the-error-shown-on-windows-when-a-session-can-t-be-resumed-because-its|Improved the error shown on Windows when a session can't be resumed because…]]
+- Earlier: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-3-mobile-and-desktop-changes-in-rust-v0-158-0|3 Mobile and Desktop changes in rust-v0.158.0]]
 - Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-6-mobile-and-desktop-changes-in-v2-1-285|6 Mobile and Desktop changes in v2.1.285]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 47df0f4fa1915df58f3c3897fd9c9f513b2c1427e775f4abd059ba3bf5779a37
+machine_hash: 394d5517c231e738ac28f9c7ad77b07929a1aab15cfae38fdec87b61c382649d
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: Added `maxEffortLevel` setting (top-level or per model under `modelSettings`)
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-03-2-model-support-changes-in-v2-1-260|2 Model Support
-  changes in v2.1.260]]'
-- '[[Changes/Claude Code/2026-09-04-improved-the-model-picker-and-the-vs-code-model-pill-to-show-a-model-s-name-inst|Improved
-  the /model picker and the VS Code model pill to show a model''s name…]]'
+- '[[Changes/Codex CLI/2026-09-04-3-model-support-changes-in-rust-v0-153-3|3 Model
+  Support changes in rust-v0.153.3]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-04-3-model-support-changes-in-v1-0-83|3 Model
+  Support changes in v1.0.83]]'
 - '[[Changes/ChatGPT/2026-09-09-chatgpt-voice-can-now-use-gpt-5-6-or-gpt-6-astra-when-it-needs-to-search-or-reas-848954|ChatGPT
   Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-09-v2-1-267-github-385748811-6409148e|claude-code-2026-09-09-v2-1-267-github-385748811-6409148e]]'
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-09-09 · ChatGPT · [[Changes/ChatGPT/2026-09-09-chatgpt-voice-can-now-use-gpt-5-6-or-gpt-6-astra-when-it-needs-to-search-or-reas-848954|ChatGPT Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason…]]
-- Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-2-model-support-changes-in-v2-1-268|2 Model Support changes in v2.1.268]]
+- Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-21-model-support-changes-in-rust-v0-154-0|21 Model Support changes in rust-v0.154.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f2965fa2d247f2bb3b493527eb835add8c2fcc6a51cf2c357333c0c8eea169b7
+machine_hash: 4c66098ce27fc6411def050f6ce7958ca59059ebbe7e6477e5b9c713087a254a
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: Improved visual consistency in slash command dialogs and `/login`, `/upgrade`…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-01-claude-auth-login-now-accepts-the-oauth-code-pasted-into-the-terminal-when-the-b|claude
-  auth login now accepts the OAuth code pasted into the terminal…]]'
 - '[[Changes/Claude Code/2026-05-04-channels-now-works-with-console-api-key-authentication-console-orgs-with-managed|--channels
   now works with console (API key) authentication]]'
 - '[[Changes/ChatGPT/2026-05-05-chatgpt-for-excel-and-google-sheets-is-now-available-globally-bringing-chatgpt-i|ChatGPT
   for Excel and Google Sheets]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-05-cli-starts-faster-by-rendering-the-ui-immediately-while-authentication-resolves|CLI
+  starts faster by rendering the UI immediately while authentication resolves…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664|claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664]]'
 source_type: github_releases
 theme: account-access
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-05-05 · ChatGPT · [[Changes/ChatGPT/2026-05-05-chatgpt-for-excel-and-google-sheets-is-now-available-globally-bringing-chatgpt-i|ChatGPT for Excel and Google Sheets]]
-- Later: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-bedrock-awscredentialexport-now-always-runs-when-configured-instead-of-being-ski|Bedrock: awsCredentialExport now always runs when configured instead of being…]]
+- Earlier: 2026-05-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-05-cli-starts-faster-by-rendering-the-ui-immediately-while-authentication-resolves|CLI starts faster by rendering the UI immediately while authentication resolves…]]
+- Later: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-2-account-and-access-changes-in-rust-v0-129-0|2 Account and Access changes in rust-v0.129.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

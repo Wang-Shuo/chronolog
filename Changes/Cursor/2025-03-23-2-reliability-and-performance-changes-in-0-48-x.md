@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 42c57d2d05f89fc607ae5b6687fbf08019970e126bb5330a8a1b22062f13a399
+machine_hash: 4058fd88111f3d30c0908c490824be634b0069ddb5babd42c91ef1631a48bb38
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Reliability and Performance changes in 0.48.x
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and|We
-  have been working on a variety of usability and performance improvements and bug…]]'
-- '[[Changes/ChatGPT/2025-03-18-in-line-message-error-retries-if-you-encounter-a-message-error-you-can-retry-or|In-line
-  message error retries]]'
 - '[[Changes/ChatGPT/2025-03-18-improved-display-and-faster-streaming-of-conversations-and-message-menu-actions|Improved
   display and faster streaming of conversations and message menu actions]]'
+- '[[Changes/OpenHands/2025-03-18-improve-the-stability-of-openhands-application-and-evaluation-harness-by-retry-o|Improve
+  the stability of OpenHands application and evaluation harness by retry…]]'
+- '[[Changes/Cline/2025-03-23-add-sort-underlying-provider-routing-setting-to-cline-openrouter-allowing-you-to|Add
+  ''Sort underlying provider routing'' setting to Cline/OpenRouter allowing you…]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -95,8 +95,8 @@ Source: https://cursor.com/changelog/0-48-x
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-improved-display-and-faster-streaming-of-conversations-and-message-menu-actions|Improved display and faster streaming of conversations and message menu actions]]
-- Later: 2025-05-08 · ChatGPT · [[Changes/ChatGPT/2025-05-08-outside-the-european-regions-listed-above-all-plus-and-pro-accounts-that-have-me-507581|Opt‑in reminders]]
+- Earlier: 2025-03-23 · Cline · [[Changes/Cline/2025-03-23-add-sort-underlying-provider-routing-setting-to-cline-openrouter-allowing-you-to|Add 'Sort underlying provider routing' setting to Cline/OpenRouter allowing you…]]
+- Later: 2025-04-06 · Cline · [[Changes/Cline/2025-04-06-add-improvements-to-file-mention-searching-for-faster-searching|Add improvements to file mention searching for faster searching]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

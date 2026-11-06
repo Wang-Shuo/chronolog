@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ce29271c60678a435d933e4e5848a43aa0ae5ac2386d8a3b7200b0f95bced86c
+machine_hash: 8e587be2b72d8b999ed0e37fbd8728b9b27b084df6692e98fc9448ad82686257
 product: cursor
 product_name: Cursor
 record:
@@ -64,12 +64,12 @@ record:
     first
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-2-collaboration-changes-in-3-0|2 Collaboration changes
-  in 3.0]]'
-- '[[Changes/Cursor/2026-04-08-redesigned-bugbot-settings-and-split-personal-and-team-settings-into-clearer-sec|Redesigned
-  Bugbot settings, and split personal and team settings into clearer sections]]'
-- '[[Changes/Claude Code/2026-04-10-added-team-onboarding-command-to-generate-a-teammate-ramp-up-guide-from-your-loc|Added
-  /team-onboarding command to generate a teammate ramp-up guide…]]'
+- '[[Changes/Codex CLI/2026-04-23-2-collaboration-changes-in-rust-v0-123-0|2 Collaboration
+  changes in rust-v0.123.0]]'
+- '[[Changes/Codex CLI/2026-04-24-windows-bazel-ci-now-uses-a-stable-path-and-shared-query-startup-path-for-better|Windows
+  Bazel CI now uses a stable PATH and shared query startup path for better…]]'
+- '[[Changes/Codex CLI/2026-04-30-20149-reduce-the-surface-of-collaboration-modes-pakrym-oai|♯20149
+  Reduce the surface of collaboration modes @pakrym-oai]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-01-team-marketplace-updates-https-cursor-com-changelog-05-01-26-3036cead|cursor-2026-05-01-team-marketplace-updates-https-cursor-com-changelog-05-01-26-3036cead]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -106,8 +106,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-04-10 · Claude Code · [[Changes/Claude Code/2026-04-10-added-team-onboarding-command-to-generate-a-teammate-ramp-up-guide-from-your-loc|Added /team-onboarding command to generate a teammate ramp-up guide…]]
-- Later: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is now available in Microsoft Teams]]
+- Earlier: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-20149-reduce-the-surface-of-collaboration-modes-pakrym-oai|♯20149 Reduce the surface of collaboration modes @pakrym-oai]]
+- Later: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-3-collaboration-changes-in-rust-v0-129-0|3 Collaboration changes in rust-v0.129.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

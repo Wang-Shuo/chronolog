@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 63916ff60493b89fb31f46404b6047e06386741393a871038188d0cc7a2615a0
+machine_hash: cc4127f03556e8fe918d7bc003f26c8605cebddfbfdaa28c36d363f15bbfcd7f
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: Auto-update binary downloads now stream to disk instead of buffering in memory…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-02-2-reliability-and-performance-changes-in-v2-1-199|2
-  Reliability and Performance changes in v2.1.199]]'
 - '[[Changes/Claude Code/2026-07-03-improved-the-install-script-to-explain-when-installation-is-killed-by-the-system|Improved
   the install script to explain when installation is killed by the system…]]'
 - '[[Changes/Claude Code/2026-07-07-2-reliability-and-performance-changes-in-v2-1-203|2
   Reliability and Performance changes in v2.1.203]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-07-5-reliability-and-performance-changes-in-v1-0-69|5
+  Reliability and Performance changes in v1.0.69]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba|claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba]]'
 source_type: github_releases
 theme: reliability-performance
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-2-reliability-and-performance-changes-in-v2-1-203|2 Reliability and Performance changes in v2.1.203]]
-- Later: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-3-reliability-and-performance-changes-in-v2-1-208|3 Reliability and Performance changes in v2.1.208]]
+- Earlier: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-5-reliability-and-performance-changes-in-v1-0-69|5 Reliability and Performance changes in v1.0.69]]
+- Later: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-responses-websockets-continue-using-the-low-latency-transport-while-respecting-s|Responses WebSockets continue using the low-latency transport while respecting…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

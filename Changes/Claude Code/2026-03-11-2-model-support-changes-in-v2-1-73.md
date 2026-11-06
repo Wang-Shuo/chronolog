@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e554f44999c3ea1dd92278e3fa1d90400bc1bd67ff755a1174c44b25bac5b0e3
+machine_hash: 8ce8303e64b222a0d3c7e57d97e9ef8783e8960ede88efb182f17b3b258fedad
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Model Support changes in v2.1.73
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-04-3-model-support-changes-in-v2-1-68|3 Model Support
-  changes in v2.1.68]]'
-- '[[Changes/Claude Code/2026-03-05-changed-sonnet-4-5-users-on-pro-max-team-premium-to-be-automatically-migrated-to|Changed
-  Sonnet 4.5 users on Pro/Max/Team Premium to be automatically migrated…]]'
+- '[[Changes/Codex CLI/2026-03-08-13617-update-models-json-aibrahim-oai|♯13617 Update
+  models.json @aibrahim-oai]]'
+- '[[Changes/Codex CLI/2026-03-10-14123-pass-on-save-info-to-model-ui-tweaks-won-openai|♯14123
+  pass on save info to model + ui tweaks @won-openai]]'
 - '[[Changes/ChatGPT/2026-03-11-as-of-march-11-2026-gpt-5-1-models-are-no-longer-available-in-chatgpt-this-appli|Retiring
   GPT-5.1 models]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f|claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f]]'
@@ -89,7 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.73
 ## Nearby in Model Support
 
 - Earlier: 2026-03-11 · ChatGPT · [[Changes/ChatGPT/2026-03-11-as-of-march-11-2026-gpt-5-1-models-are-no-longer-available-in-chatgpt-this-appli|Retiring GPT-5.1 models]]
-- Later: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-added-effort-slash-command-to-set-model-effort-level|Added /effort slash command to set model effort level]]
+- Later: 2026-03-11 · Codex CLI · [[Changes/Codex CLI/2026-03-11-14135-tui-only-show-fast-status-for-gpt-5-4-pash-openai|♯14135 tui: only show fast status for gpt-5.4 @pash-openai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

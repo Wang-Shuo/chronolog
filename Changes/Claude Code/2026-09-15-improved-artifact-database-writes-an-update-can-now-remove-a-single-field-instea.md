@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e4650c1d2fea50f427cafc2f41197ad85b8df8f5f192d2108eb483296daef300
+machine_hash: ca668cc2139fc23788e0371b506a1c895b237edab0a6610099e970e66c104e7e
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: Improved artifact database writes
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-07-we-ve-made-it-easier-to-bring-documents-and-saved-files-into-your-conversations|ChatGPT
-  makes it easier to bring documents and saved files into your conversations…]]'
 - '[[Changes/Claude Code/2026-09-11-vscode-improved-documents-and-messages-written-for-someone-other-than-the-user-c|VSCode
   Improved documents and messages written for someone other than the user]]'
+- '[[Changes/OpenHands/2026-09-11-2-files-and-data-changes-in-v1-18-0|2 Files and
+  Data changes in v1.18.0]]'
 - '[[Changes/Claude Code/2026-09-14-2-files-and-data-changes-in-v2-1-271|2 Files and
   Data changes in v2.1.271]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-2-files-and-data-changes-in-v2-1-271|2 Files and Data changes in v2.1.271]]
-- Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-claude-tag-removed-the-repeated-guest-attribution-note-claude-appended-to-a-slac|Claude Tag Removed the repeated guest-attribution note Claude appended to a Slack…]]
+- Later: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-feat-track-authenticated-canvas-arrivals-by-neubig-in-https-github-com-openhands|feat: track authenticated Canvas arrivals]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

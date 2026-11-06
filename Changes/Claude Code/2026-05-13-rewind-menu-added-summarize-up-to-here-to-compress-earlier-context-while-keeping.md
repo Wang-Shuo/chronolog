@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 31cb60a300dcbb8b183836118ed518ad0044582c6233bd1c9bc925b9c7616b11
+machine_hash: 1dc81f43c77119cab0ee4c24202e297b46b47404cbdfd58f8108f162f0ac141e
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,10 +53,10 @@ record:
     keeping…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-28-vscode-context-now-opens-a-native-token-usage-dialog|VSCode
-  /context now opens a native token usage dialog]]'
-- '[[Changes/Cursor/2026-05-06-you-can-now-see-a-breakdown-of-your-agent-s-context-usage-e005b2|Context
-  Usage Breakdown]]'
+- '[[Changes/Codex CLI/2026-05-07-7-context-window-changes-in-rust-v0-129-0|7 Context
+  Window changes in rust-v0.129.0]]'
+- '[[Changes/Codex CLI/2026-05-08-2-context-window-changes-in-rust-v0-130-0|2 Context
+  Window changes in rust-v0.130.0]]'
 - '[[Changes/Claude Code/2026-05-11-context-all-per-skill-token-estimates-now-account-for-the-model-s-tokenizer-and|/context
   all per-skill token estimates now account for the model''s tokenizer…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'

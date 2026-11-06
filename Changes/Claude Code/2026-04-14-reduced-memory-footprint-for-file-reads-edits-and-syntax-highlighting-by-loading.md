@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7b847d6d7206acfbe6ce5dd441d7620207e3ccf8517d0ec2aebc70a94aefca27
+machine_hash: 0a66c6ef725e354cb4d6538b187da06a8f5ee1e376a1f8a0a45c3ee3d433d8b1
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
     loading…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-10-improved-brief-mode-to-retry-once-when-claude-responds-with-plain-text-instead-o|Improved
-  brief mode to retry once when Claude responds with plain text instead…]]'
+- '[[Changes/Codex CLI/2026-04-10-2-reliability-and-performance-changes-in-rust-v0-119-0|2
+  Reliability and Performance changes in rust-v0.119.0]]'
 - '[[Changes/Claude Code/2026-04-13-improved-stalled-api-stream-handling-streams-now-abort-after-5-minutes-of-no-dat|Improved
   stalled API stream handling]]'
 - '[[Changes/Cursor/2026-04-13-closing-tabs-is-now-less-likely-to-glitch-the-file-tree-and-recovery-is-faster|Closing
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-04-13 · Cursor · [[Changes/Cursor/2026-04-13-closing-tabs-is-now-less-likely-to-glitch-the-file-tree-and-recovery-is-faster|Closing tabs is now less likely to glitch the file tree, and recovery is faster]]
-- Later: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-improved-ultrareview-faster-launch-with-parallelized-checks-diffstat-in-the-laun|Improved /ultrareview: faster launch with parallelized checks, diffstat…]]
+- Later: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-17640-fix-stability-exec-server-jif-oai|♯17640 fix: stability exec server @jif-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 15796ad5de8492f57285fb906f3f8bcfc4fea32a300443e7895382a14e3bcd19
+machine_hash: e06b1ae92d3a6a2093d796b81ab5736cab0a8503b8c9fa16ebd0d2610c5b585e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,12 +58,12 @@ record:
   title: o1 and o3-mini now offer Python-powered data analysis in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-01-23-better-codebase-understanding-we-ve-trained-a-new-model-for-codebase-understandi|Better
-  Codebase Understanding: We''ve trained a new model for Codebase Understanding]]'
-- '[[Changes/Cursor/2025-03-11-sonnet-3-7-thinking-we-ve-made-a-few-improvements-to-3-7-prompting-thinking-will|Sonnet
-  3.7 thinking: We''ve made a few improvements to 3.7 prompting]]'
 - '[[Changes/Cursor/2025-03-11-3-model-support-changes-in-0-47-x|3 Model Support changes
   in 0.47.x]]'
+- '[[Changes/Aider/2025-03-13-2-model-support-changes-in-v0-77-0|2 Model Support changes
+  in v0.77.0]]'
+- '[[Changes/Aider/2025-03-13-added-reasoning-effort-command-to-control-model-reasoning-level|Added
+  /reasoning-effort command to control model reasoning level]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255|chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -94,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-3-model-support-changes-in-0-47-x|3 Model Support changes in 0.47.x]]
-- Later: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-2-model-support-changes-in-0-48-x|2 Model Support changes in 0.48.x]]
+- Earlier: 2025-03-13 · Aider · [[Changes/Aider/2025-03-13-added-reasoning-effort-command-to-control-model-reasoning-level|Added /reasoning-effort command to control model reasoning level]]
+- Later: 2025-03-18 · OpenHands · [[Changes/OpenHands/2025-03-18-make-microagents-available-in-the-event-stream-as-recall-observations-accessible|Make microagents available in the event stream as recall observations…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

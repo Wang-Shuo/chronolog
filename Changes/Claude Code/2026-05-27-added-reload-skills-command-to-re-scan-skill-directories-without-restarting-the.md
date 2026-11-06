@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9edd734d723831da9549d3d11280ac6df2c4c9b6d95c8aaa1524290c728ffba2
+machine_hash: 40b43767e5e5a5096a98dc97066e245c93abcebff1496ac8b472485e0a096c80
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
     the session
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-21-renamed-simplify-to-code-review-with-an-optional-effort-level-e-g-code-review-hi|Renamed
-  /simplify to /code-review with an optional effort level…]]'
-- '[[Changes/Claude Code/2026-05-21-renamed-simplify-to-code-review-it-now-reports-correctness-bugs-at-a-chosen-effo|Renamed
-  /simplify to /code-review]]'
+- '[[Changes/Gemini CLI/2026-05-22-feat-evals-add-shell-command-safety-evals-by-akh64bit-in-https-github-com-google|feat(evals):
+  add shell command safety evals]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-24-bash-shell-sessions-no-longer-hang-when-ps0-or-prompt-command-is-set-in-the-envi|Bash
+  shell sessions no longer hang when PS0 or PROMPT_COMMAND is set in the environment]]'
 - '[[Changes/Claude Code/2026-05-27-2-developer-workflow-changes-in-v2-1-152|2 Developer
   Workflow changes in v2.1.152]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850|claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850]]'
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-21 · Claude Code · [[Changes/Claude Code/2026-05-21-renamed-simplify-to-code-review-it-now-reports-correctness-bugs-at-a-chosen-effo|Renamed /simplify to /code-review]]
-- Later: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-simplify-now-runs-a-cleanup-only-review-reuse-simplification-efficiency-altitude|/simplify now runs a cleanup-only review…]]
+- Earlier: 2026-05-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-24-bash-shell-sessions-no-longer-hang-when-ps0-or-prompt-command-is-set-in-the-envi|Bash shell sessions no longer hang when PS0 or PROMPT_COMMAND is set in the environment]]
+- Later: 2026-05-27 · Gemini CLI · [[Changes/Gemini CLI/2026-05-27-feat-core-expose-rag-snippets-to-local-log-file-for-debugging-by-spencer426-in-h|feat(core): expose RAG snippets to local log file for debugging]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

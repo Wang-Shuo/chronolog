@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bbab28e867f2896ae0c1e72271ec090a6e2235ab64c577efa09f7cdf072d461b
+machine_hash: 0a58549199bf31f2595fcb347b8125c2ba6dd439b31ea88305dc01431e45c2f1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -71,11 +71,12 @@ record:
   title: Computer History for macOS
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-15-changed-usage-credits-to-ask-for-confirmation-before-sending-a-request-to-organi|Changed
-  /usage-credits to ask for confirmation before sending a request…]]'
-- '[[Changes/Cursor/2026-07-22-admin-controls|Admin controls]]'
+- '[[Changes/Codex CLI/2026-07-29-2-enterprise-and-administration-changes-in-rust-v0-146-0|2
+  Enterprise and Administration changes in rust-v0.146.0]]'
 - '[[Changes/ChatGPT/2026-08-04-starting-today-for-chatgpt-enterprise-and-education-users-long-pastes-are-handle|Starting
   today for ChatGPT Enterprise and Education users, long pastes are handled…]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-10-2-enterprise-and-administration-changes-in-v1-0-79|2
+  Enterprise and Administration changes in v1.0.79]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-13-computer-history-for-macos-4b03e9a3|chatgpt-2026-08-13-computer-history-for-macos-4b03e9a3]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
@@ -102,7 +103,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-08-04 · ChatGPT · [[Changes/ChatGPT/2026-08-04-starting-today-for-chatgpt-enterprise-and-education-users-long-pastes-are-handle|Starting today for ChatGPT Enterprise and Education users, long pastes are handled…]]
+- Earlier: 2026-08-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-10-2-enterprise-and-administration-changes-in-v1-0-79|2 Enterprise and Administration changes in v1.0.79]]
 - Later: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-enterprise-policy-a-url-typed-blockedmarketplaces-entry-for-a-bare-repo-url-keep|Enterprise policy: a url-typed blockedMarketplaces entry for a bare repo URL keeps…]]
 <!-- chronolog:end -->
 

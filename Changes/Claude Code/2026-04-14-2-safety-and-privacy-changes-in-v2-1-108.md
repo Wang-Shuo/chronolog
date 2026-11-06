@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 57bebf962ed4c67d2242c46995f93b0aab8239fa842cd9d7e997f692a2cf3eda
+machine_hash: 8ceadca1f7e039b2c698fe0dd343031feb9857eb91313eaec82718f56705ed41
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Safety and Privacy changes in v2.1.108
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-09-7-safety-and-privacy-changes-in-v2-1-98|7 Safety
-  and Privacy changes in v2.1.98]]'
-- '[[Changes/Claude Code/2026-04-10-fixed-a-command-injection-vulnerability-in-the-posix-which-fallback-used-by-lsp|Fixed
-  a command injection vulnerability in the POSIX which fallback used by LSP…]]'
+- '[[Changes/Codex CLI/2026-04-10-8-safety-and-privacy-changes-in-rust-v0-119-0|8
+  Safety and Privacy changes in rust-v0.119.0]]'
+- '[[Changes/Codex CLI/2026-04-11-4-safety-and-privacy-changes-in-rust-v0-120-0|4
+  Safety and Privacy changes in rust-v0.120.0]]'
 - '[[Changes/Claude Code/2026-04-13-fixed-bash-tool-suggesting-acceptedits-permission-mode-when-exiting-plan-mode-wo|Fixed
   Bash tool suggesting acceptEdits permission mode when exiting plan mode…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-14-v2-1-108-github-309009167-35123bd5|claude-code-2026-04-14-v2-1-108-github-309009167-35123bd5]]'
@@ -87,7 +87,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.108
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-04-13 · Claude Code · [[Changes/Claude Code/2026-04-13-fixed-bash-tool-suggesting-acceptedits-permission-mode-when-exiting-plan-mode-wo|Fixed Bash tool suggesting acceptEdits permission mode when exiting plan mode…]]
-- Later: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-added-less-permission-prompts-skill-scans-transcripts-for-common-read-only-bash|Added /less-permission-prompts skill]]
+- Later: 2026-04-14 · Gemini CLI · [[Changes/Gemini CLI/2026-04-14-3-safety-and-privacy-changes-in-v0-38-0|3 Safety and Privacy changes in v0.38.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

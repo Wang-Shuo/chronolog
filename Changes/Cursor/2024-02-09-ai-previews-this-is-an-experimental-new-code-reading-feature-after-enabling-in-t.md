@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7edd99d0b8a5aedd6e7bc5720a5ad10e42cb38e6f7cc0b7325c83462369a4eb7
+machine_hash: 7bbd059c93adf046d06293affbfb6d8739054f51e31320a9fea9bba2c11cbe06
 product: cursor
 product_name: Cursor
 record:
@@ -48,8 +48,8 @@ record:
   title: 'AI Previews: this is an experimental new code reading feature'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-18-chat-lints-if-the-ai-suggests-a-code-change-in-chat-that-involves-a-made-up-code|Chat
-  lints: If the AI suggests a code change in chat that involves a made up code…]]'
+- '[[Changes/Aider/2024-01-23-3-editor-experience-changes-in-v0-22-0|3 Editor Experience
+  changes in v0.22.0]]'
 - '[[Changes/Cursor/2024-02-02-hold-down-cmd-i-over-a-selection-to-heal-the-code-with-gpt-4-useful-for-writing|Cmd-I
   to Heal]]'
 - '[[Changes/Cursor/2024-02-09-copilot-quality-of-life-improvements-show-ghost-text-more-often-toggle-on-off-on|Copilot++

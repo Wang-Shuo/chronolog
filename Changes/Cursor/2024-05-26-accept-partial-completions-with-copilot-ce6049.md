@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: edbb323e51e70c2190be17b8c04f8843de7a2ab52d54037a1ccd5baf944b9da4
+machine_hash: 43f411c18d0281cdfc2fc09e040bc251d3b021586c17e874f86d7151d6c4c186
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,10 @@ record:
   title: Accept partial completions with Copilot++
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-03-20-team-invites-we-made-it-a-bit-easier-for-you-to-invite-your-colleagues-to-your-c|Team
-  invites: We made it a bit easier for you to invite your colleagues…]]'
-- '[[Changes/Cursor/2024-04-12-copilot-ux-suggestion-previews-now-have-syntax-highlighting-which-we-find-makes|Copilot++
-  UX: Suggestion previews now have syntax highlighting, which we find makes…]]'
+- '[[Changes/Aider/2024-05-10-refactored-prompting-to-unify-some-phrasing-across-edit-formats|Refactored
+  prompting to unify some phrasing across edit formats]]'
+- '[[Changes/Aider/2024-05-13-improved-reflection-feedback-to-llms-using-the-diff-edit-format|Improved
+  reflection feedback to LLMs using the diff edit format]]'
 - '[[Changes/Cursor/2024-05-26-merges-vs-code-1-89-into-cursor-38031f|Merges VS Code
   1.89 into Cursor]]'
 source_release: '[[Releases/Cursor/cursor-2024-05-26-0-34-x-https-cursor-com-changelog-0-34-x-a468f0bc|cursor-2024-05-26-0-34-x-https-cursor-com-changelog-0-34-x-a468f0bc]]'
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-04-12 · Cursor · [[Changes/Cursor/2024-04-12-copilot-ux-suggestion-previews-now-have-syntax-highlighting-which-we-find-makes|Copilot++ UX: Suggestion previews now have syntax highlighting, which we find makes…]]
-- Later: 2024-06-08 · Cursor · [[Changes/Cursor/2024-06-08-default-on-cursor-prediction-with-a-new-ui|Default-on Cursor Prediction with a new UI]]
+- Earlier: 2024-05-13 · Aider · [[Changes/Aider/2024-05-13-improved-reflection-feedback-to-llms-using-the-diff-edit-format|Improved reflection feedback to LLMs using the diff edit format]]
+- Later: 2024-06-04 · Aider · [[Changes/Aider/2024-06-04-properly-override-git-editor-env-for-commits-if-it-is-already-set|Properly override GIT_EDITOR env for commits if it is already set]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

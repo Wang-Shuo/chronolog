@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ab392b3ab778cfa000dc0afb27b9fc180ca32e537e526af5db3eced936ae69d1
+machine_hash: 5ab1357fa09df3575b6bbc02fe9c3c4bb9fd25b5335daba5820625622f3e17f6
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.172
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-03-tools-explicitly-listing-grep-glob-now-provides-the-dedicated-search-tools-on-na|--tools:
-  explicitly listing Grep/Glob now provides the dedicated search tools…]]'
-- '[[Changes/Claude Code/2026-06-04-skills-added-escape-syntax-to-include-a-literal-before-a-digit-in-command-bodies|Skills:
-  added \$ escape syntax to include a literal $ before a digit in command bodies]]'
-- '[[Changes/Claude Code/2026-06-08-background-sessions-are-now-told-that-shared-checkout-edits-are-blocked-until-th|Background
-  sessions are now told that shared-checkout edits are blocked until they…]]'
+- '[[Changes/Codex CLI/2026-06-08-7-developer-workflow-changes-in-rust-v0-138-0|7
+  Developer Workflow changes in rust-v0.138.0]]'
+- '[[Changes/Codex CLI/2026-06-09-release-builds-once-again-publish-separate-symbol-archives-with-line-tables-impr|Release
+  builds once again publish separate symbol archives with line tables…]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-09-6-developer-workflow-changes-in-v1-0-61|6
+  Developer Workflow changes in v1.0.61]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c|claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c]]'
 source_type: github_releases
 theme: developer-workflow
@@ -90,8 +90,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.172
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-background-sessions-are-now-told-that-shared-checkout-edits-are-blocked-until-th|Background sessions are now told that shared-checkout edits are blocked until they…]]
-- Later: 2026-06-15 · Claude Code · [[Changes/Claude Code/2026-06-15-improved-doctor-with-consistent-flat-tree-layout-across-all-sections-clearer-sec|Improved /doctor with consistent flat tree layout across all sections, clearer…]]
+- Earlier: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-6-developer-workflow-changes-in-v1-0-61|6 Developer Workflow changes in v1.0.61]]
+- Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-6-developer-workflow-changes-in-v1-0-62|6 Developer Workflow changes in v1.0.62]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

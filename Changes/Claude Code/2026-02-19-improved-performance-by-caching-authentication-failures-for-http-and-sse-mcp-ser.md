@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 986cb673e65ef675807e4ed44c79b9cba9d286b3d31f2b136099efb96dcf712a
+machine_hash: 90d81f42d7141d76b93a41769ddc06077b06491fa990a986ea9b805dac33a9ca
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,10 +58,10 @@ record:
     MCP…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-03-added-pre-configured-oauth-client-credentials-for-mcp-servers-that-don-t-support|Added
-  pre-configured OAuth client credentials for MCP servers that don''t support…]]'
-- '[[Changes/Claude Code/2026-02-06-vscode-added-support-for-remote-sessions-allowing-oauth-users-to-browse-and-resu|VSCode:
-  Added support for remote sessions, allowing OAuth users to browse and resume…]]'
+- '[[Changes/Cline/2026-02-12-2-account-and-access-changes-in-v3-58-0|2 Account and
+  Access changes in v3.58.0]]'
+- '[[Changes/Codex CLI/2026-02-12-11521-test-app-server-stabilize-app-list-thread-feature-flag-test-by-using-file|♯11521
+  test(app-server): stabilize app/list thread feature-flag test by using…]]'
 - '[[Changes/Claude Code/2026-02-13-added-claude-auth-login-claude-auth-status-and-claude-auth-logout-cli-subcommand|Added
   claude auth login, claude auth status, and claude auth logout CLI subcommands]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140|claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140]]'
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-added-claude-auth-login-claude-auth-status-and-claude-auth-logout-cli-subcommand|Added claude auth login, claude auth status, and claude auth logout CLI subcommands]]
-- Later: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-added-manual-url-paste-fallback-during-mcp-oauth-authentication-if-the-automatic|Added manual URL paste fallback during MCP OAuth authentication]]
+- Later: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-3-account-and-access-changes-in-rust-v0-105-0|3 Account and Access changes in rust-v0.105.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

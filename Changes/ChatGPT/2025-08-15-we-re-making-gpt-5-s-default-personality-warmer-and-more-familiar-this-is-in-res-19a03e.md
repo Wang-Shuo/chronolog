@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 723868a163bdffcb64f140ff71e9b651cead35b7ab2ca78af93589767afd72e1
+machine_hash: 3356247d4e311aba9a055261c3b5a5d8c6c160efe08869f5d146fb8da23c56c5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -75,11 +75,12 @@ record:
   title: GPT-5 Updates
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-07-gpt-5-is-slowly-rolling-out-to-all-users-on-chatgpt-plus-pro-team-and-free-plans-64a08c|GPT-5]]'
-- '[[Changes/ChatGPT/2025-08-12-gmail-google-calendar-and-google-contacts-are-now-available-to-connect-and-use-i-9ea6d6|Gmail,
-  Google Calendar, and Google Contacts Connectors in ChatGPT (Pro)]]'
-- '[[Changes/ChatGPT/2025-08-12-you-can-now-choose-between-auto-fast-and-thinking-for-gpt-5-most-users-will-want-f4c05b|GPT-5
-  Updates]]'
+- '[[Changes/Cline/2025-08-13-4-model-support-changes-in-v3-24-0|4 Model Support changes
+  in v3.24.0]]'
+- '[[Changes/OpenHands/2025-08-13-3-model-support-changes-in-0-52-0|3 Model Support
+  changes in 0.52.0]]'
+- '[[Changes/Gemini CLI/2025-08-14-28-model-support-changes-in-v0-1-21|28 Model Support
+  changes in v0.1.21]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-15-gpt-5-updates-9aaeee46|chatgpt-2025-08-15-gpt-5-updates-9aaeee46]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -106,8 +107,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-12 · ChatGPT · [[Changes/ChatGPT/2025-08-12-you-can-now-choose-between-auto-fast-and-thinking-for-gpt-5-most-users-will-want-f4c05b|GPT-5 Updates]]
-- Later: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-2-model-support-changes-in-1-5|2 Model Support changes in 1.5]]
+- Earlier: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-28-model-support-changes-in-v0-1-21|28 Model Support changes in v0.1.21]]
+- Later: 2025-08-15 · Cline · [[Changes/Cline/2025-08-15-add-support-for-200k-context-for-claude-sonnet-4-using-openrouter-cline-by-saoud|Add support for 200k context for claude sonnet 4 using openrouter/cline]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

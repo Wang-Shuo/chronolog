@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3cffd423b167b89378184a5b66d78e813e8f7b1690a7daf3b2e14e294cdabc9e
+machine_hash: b2222842a0970a820a7fa554e23f1aa54aeb79d0e3aa4ff89139b391e57c29e8
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Files and Data changes in v2.1.299
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-claude-tag-removed-the-repeated-guest-attribution-note-claude-appended-to-a-slac|Claude
-  Tag Removed the repeated guest-attribution note Claude appended to a Slack…]]'
-- '[[Changes/Claude Code/2026-09-25-improved-prompt-audit-on-claude-code-configuration-stale-paths-stale-commands-an|Improved
-  prompt-audit on Claude Code configuration]]'
-- '[[Changes/ChatGPT/2026-10-01-it-s-now-easier-to-bring-your-notes-and-documents-into-chatgpt-on-your-phone-cap|Scan
-  notes and documents more easily with ChatGPT camera]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-05-canvas-actions-can-now-return-images-to-the-model-in-invoke-canvas-action|Canvas
+  actions can now return images to the model in invoke_canvas_action]]'
+- '[[Changes/OpenHands/2026-10-06-6-files-and-data-changes-in-v1-25-0|6 Files and
+  Data changes in v1.25.0]]'
+- '[[Changes/OpenHands/2026-10-08-2-files-and-data-changes-in-v1-26-0|2 Files and
+  Data changes in v1.26.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'
 source_type: github_releases
 theme: file-data
@@ -96,8 +96,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-10-01 · ChatGPT · [[Changes/ChatGPT/2026-10-01-it-s-now-easier-to-bring-your-notes-and-documents-into-chatgpt-on-your-phone-cap|Scan notes and documents more easily with ChatGPT camera]]
-- Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-improved-the-artifact-tool-s-choice-between-a-page-and-a-document-explainers-and|Improved the Artifact tool's choice between a page and a document]]
+- Earlier: 2026-10-08 · OpenHands · [[Changes/OpenHands/2026-10-08-2-files-and-data-changes-in-v1-26-0|2 Files and Data changes in v1.26.0]]
+- Later: 2026-10-23 · OpenHands · [[Changes/OpenHands/2026-10-23-feat-canvas-quiet-backend-logs-by-default-by-neubig-in-https-github-com-openhand|feat(canvas): quiet backend logs by default]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

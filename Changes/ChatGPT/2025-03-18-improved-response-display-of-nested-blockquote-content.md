@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 24b22469a22e0ee596559143f0d5456f6b1bb0e52628884e050b0266d267af1c
+machine_hash: 54d8e6bc6faf1fa94e3bc948d9f8c803f5fc28dec1f63c7a1b2f1305f350ccf7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-0-47-11-release-track-picker-prerelease-or-standard-fix-for-dmg-installer-not-wo|0.47.11: Release track picker (prerelease or standard), fix for dmg installer not…]]
-- Later: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-new-onboarding|New onboarding]]
+- Later: 2025-03-21 · Aider · [[Changes/Aider/2025-03-21-3-interface-experience-changes-in-v0-78-0|3 Interface Experience changes in v0.78.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

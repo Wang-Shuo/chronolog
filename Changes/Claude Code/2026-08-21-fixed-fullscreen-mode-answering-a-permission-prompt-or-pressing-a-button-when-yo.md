@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 190a961c393b62773243e34275cce5938f63fd4068a31a3c09b270cd5d7dbc45
+machine_hash: 5eaf4623a3180ed70b7400986cfd2dbf6c418a2693dd55bfe1691006e332b63f
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,12 +55,12 @@ record:
     when you…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-18-2-safety-and-privacy-changes-in-v2-1-235|2 Safety
-  and Privacy changes in v2.1.235]]'
 - '[[Changes/Claude Code/2026-08-19-2-safety-and-privacy-changes-in-v2-1-236|2 Safety
   and Privacy changes in v2.1.236]]'
 - '[[Changes/Claude Code/2026-08-20-3-safety-and-privacy-changes-in-v2-1-238|3 Safety
   and Privacy changes in v2.1.238]]'
+- '[[Changes/Codex CLI/2026-08-20-18-safety-and-privacy-changes-in-rust-v0-149-0|18
+  Safety and Privacy changes in rust-v0.149.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918|claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918]]'
 source_type: github_releases
 theme: safety-privacy
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-3-safety-and-privacy-changes-in-v2-1-238|3 Safety and Privacy changes in v2.1.238]]
+- Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-18-safety-and-privacy-changes-in-rust-v0-149-0|18 Safety and Privacy changes in rust-v0.149.0]]
 - Later: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-6-safety-and-privacy-changes-in-v2-1-246|6 Safety and Privacy changes in v2.1.246]]
 <!-- chronolog:end -->
 

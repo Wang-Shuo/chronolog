@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 637ffd5f6101a41b8588f989dd26c20812d62febb189d6ec3ff4ec1c013c60c1
+machine_hash: 27ae6a365b5a6b422d1212f39b93317cf2179826473caf1511dcb89aba9e4f4c
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,10 +51,10 @@ record:
   title: 4 Apps and Integrations changes in v2.1.154
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-22-2-apps-and-integrations-changes-in-v2-1-149|2
-  Apps and Integrations changes in v2.1.149]]'
 - '[[Changes/Claude Code/2026-05-27-4-apps-and-integrations-changes-in-v2-1-152|4
   Apps and Integrations changes in v2.1.152]]'
+- '[[Changes/Gemini CLI/2026-05-27-docs-extensions-clarify-env-var-sanitization-policy-for-mcp-and-ext-by-galz10-in|docs(extensions):
+  clarify env var sanitization policy for MCP and ext…]]'
 - '[[Changes/Claude Code/2026-05-28-2-apps-and-integrations-changes-in-v2-1-153|2
   Apps and Integrations changes in v2.1.153]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9|claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9]]'
@@ -102,7 +102,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.154
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-2-apps-and-integrations-changes-in-v2-1-153|2 Apps and Integrations changes in v2.1.153]]
-- Later: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-4-apps-and-integrations-changes-in-v2-1-157|4 Apps and Integrations changes in v2.1.157]]
+- Later: 2026-05-28 · Cline · [[Changes/Cline/2026-05-28-move-the-vs-code-extension-project-into-apps-vscode|Move the VS Code extension project into apps/vscode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

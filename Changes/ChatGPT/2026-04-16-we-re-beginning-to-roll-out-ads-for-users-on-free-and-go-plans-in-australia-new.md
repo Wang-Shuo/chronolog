@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: e2a72389c438e3b860b2f2d47eeef3991d56e4a45a2a352821bfb6a3442c421c
+machine_hash: 2fb617a0445e5247ddfae7140d81f3254928841af655ae386ba4fd9ddb1654c1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,12 +46,12 @@ record:
   title: Rolling out ads in Australia, New Zealand, and Canada
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-04-added-forceremotesettingsrefresh-policy-setting-when-set-the-cli-blocks-startup|Added
-  forceRemoteSettingsRefresh policy setting]]'
-- '[[Changes/Claude Code/2026-04-07-changed-default-effort-level-from-medium-to-high-for-api-key-bedrock-vertex-foun|Changed
-  default effort level from medium to high for API-key…]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-09-show-a-clear-message-to-contact-your-organization-administrator-when-remote-sess|Show
+  a clear message to contact your organization administrator when remote sessions…]]'
 - '[[Changes/Claude Code/2026-04-10-added-os-ca-certificate-store-trust-by-default-so-enterprise-tls-proxies-work-wi|Added
   OS CA certificate store trust by default, so enterprise TLS proxies work…]]'
+- '[[Changes/Codex CLI/2026-04-10-the-readme-now-uses-the-current-chatgpt-business-plan-name-16348|The
+  README now uses the current ChatGPT Business plan name (♯16348)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-16-rolling-out-ads-in-australia-new-zealand-and-canada-82e516b1|chatgpt-2026-04-16-rolling-out-ads-in-australia-new-zealand-and-canada-82e516b1]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-04-10 · Claude Code · [[Changes/Claude Code/2026-04-10-added-os-ca-certificate-store-trust-by-default-so-enterprise-tls-proxies-work-wi|Added OS CA certificate store trust by default, so enterprise TLS proxies work…]]
+- Earlier: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-the-readme-now-uses-the-current-chatgpt-business-plan-name-16348|The README now uses the current ChatGPT Business plan name (♯16348)]]
 - Later: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-added-disable-updates-env-var-to-completely-block-all-update-paths-including-man|Added DISABLE_UPDATES env var to completely block all update paths including…]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9bb40ab0b60fbf1c230a19144b6074a0be7552158ebaab7b872ec5d11ac3b722
+machine_hash: 7dc3ae1ca1762baaf52264cb483fcc81c1c5bcf827b224488b2a012279359464
 product: claude-code
 product_name: Claude Code
 record:
@@ -99,6 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.311
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-changed-the-axscreenreader-setting-and-claude-ax-screen-reader-in-a-settings-env|Changed the axScreenReader setting and CLAUDE_AX_SCREEN_READER in a settings…]]
+- Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-8-accessibility-and-localization-changes-in-v1-0-106|8 Accessibility and Localization changes in v1.0.106]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

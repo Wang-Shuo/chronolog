@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0adefc3b6e46790b3c7184f1ec1a37b6797a2df11a74fcbcfbb2ad8ad2778526
+machine_hash: cb1c9ba695c2ae7022f74043bee5c6eda21e02e6b1acab356902614df0981d5e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,12 +48,12 @@ record:
     Windows app
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-28-long-press-to-select-text-on-ios-and-moved-the-message-quick-actions-to-always-b-a40c3f|Long
-  press to select text on iOS and moved the message quick actions to always…]]'
-- '[[Changes/ChatGPT/2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved
-  table-copying functionality out of ChatGPT responses on iOS and macOS]]'
-- '[[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|Record
-  mode is now available to ChatGPT Plus users globally in the macOS desktop app]]'
+- '[[Changes/Codex CLI/2025-08-09-https-github-com-openai-codex-pull-2019-fixes-two-things-for-windows|(source
+  link) fixes two things for Windows]]'
+- '[[Changes/Gemini CLI/2025-08-14-2-mobile-and-desktop-changes-in-v0-1-21|2 Mobile
+  and Desktop changes in v0.1.21]]'
+- '[[Changes/Codex CLI/2025-08-20-2-mobile-and-desktop-changes-in-rust-v0-23-0|2 Mobile
+  and Desktop changes in rust-v0.23.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-22-project-only-memory-3424a221|chatgpt-2025-08-22-project-only-memory-3424a221]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-07-16 · ChatGPT · [[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|Record mode is now available to ChatGPT Plus users globally in the macOS desktop app]]
-- Later: 2025-09-17 · ChatGPT · [[Changes/ChatGPT/2025-09-17-the-thinking-time-toggle-is-live-today-on-chatgpt-com-settings-you-choose-on-the|The thinking-time toggle is live today on chatgpt.com]]
+- Earlier: 2025-08-20 · Codex CLI · [[Changes/Codex CLI/2025-08-20-2-mobile-and-desktop-changes-in-rust-v0-23-0|2 Mobile and Desktop changes in rust-v0.23.0]]
+- Later: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-2-mobile-and-desktop-changes-in-rust-v0-24-0|2 Mobile and Desktop changes in rust-v0.24.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

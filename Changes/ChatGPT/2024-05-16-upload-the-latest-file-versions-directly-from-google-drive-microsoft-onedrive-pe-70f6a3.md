@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 38c33d5b1dc1f682e13652f5e3afba94710240b9629733b2842c93c19a013d90
+machine_hash: 94834c4fad6dac4ff003a1e2b13bd1e57442dbdfcca503a80796de3a7d704f09
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2024-01-25 · Cursor · [[Changes/Cursor/2024-01-25-update-0-24-3-0-24-4-adds-ability-to-configure-openai-base-url-fixes-getcursor-c|UPDATE (0.24.3-0.24.4): Adds ability to configure OpenAI base URL, fixes…]]
-- Later: 2024-07-03 · Cursor · [[Changes/Cursor/2024-07-03-docs-management-go-to-cursor-settings-features-docs-to-re-index-your-docs|Docs management! Go to Cursor Settings  Features  Docs to re-index your docs]]
+- Later: 2024-06-04 · OpenHands · [[Changes/OpenHands/2024-06-04-2-apps-and-integrations-changes-in-0-6-1|2 Apps and Integrations changes in 0.6.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

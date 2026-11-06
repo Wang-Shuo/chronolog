@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: f867989ba9c1cca05e65d7a011dd6b0b790bc77d241446ebeae9aa2de7f95df4
+machine_hash: f657a9485dceb89eae63f44e9fadbd6d422c1d41d78a959bfdc75016f994cffc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -76,10 +76,10 @@ record:
   title: Introducing GPT-4.1 mini, replacing GPT-4o mini, in ChatGPT for all users
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories|Improvements
-  to GPT-4o]]'
-- '[[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|Updates
-  to GPT-4o]]'
+- '[[Changes/Cline/2025-05-12-update-gemini-in-openrouter-cline-providers-to-use-implicit-caching|Update
+  Gemini in OpenRouter/Cline providers to use implicit caching]]'
+- '[[Changes/OpenHands/2025-05-12-enabled-prompt-caching-for-claude-3-7-sonnet-model-through-openrouter-by-polly20|Enabled
+  prompt caching for claude-3.7-sonnet model through OpenRouter]]'
 - '[[Changes/ChatGPT/2025-05-14-since-its-launch-in-the-api-in-april-gpt-4-1-has-become-a-favorite-among-develop-286eb2|Releasing
   GPT-4.1 in ChatGPT for all paid users]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-14-introducing-gpt-4-1-mini-replacing-gpt-4o-mini-in-chatgpt-for-al-05dfeae0|chatgpt-2025-05-14-introducing-gpt-4-1-mini-replacing-gpt-4o-mini-in-chatgpt-for-al-05dfeae0]]'
@@ -109,7 +109,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-05-14 · ChatGPT · [[Changes/ChatGPT/2025-05-14-since-its-launch-in-the-api-in-april-gpt-4-1-has-become-a-favorite-among-develop-286eb2|Releasing GPT-4.1 in ChatGPT for all paid users]]
-- Later: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-max-mode-for-all-top-models|Max Mode for all top models]]
+- Later: 2025-05-14 · Cline · [[Changes/Cline/2025-05-14-2-model-support-changes-in-v3-15-4|2 Model Support changes in v3.15.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ab2093b3d1473bf871f36fe01c82180c632b517d0d4659bfca50e5d5bb419010
+machine_hash: 646857f0d3017acb20e2b00c945728cc2545f319e7f216827553f0cd3aceae6c
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Developer Workflow changes in v2.1.246
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-20-2-developer-workflow-changes-in-v2-1-238|2 Developer
-  Workflow changes in v2.1.238]]'
+- '[[Changes/Codex CLI/2026-08-20-18-developer-workflow-changes-in-rust-v0-149-0|18
+  Developer Workflow changes in rust-v0.149.0]]'
 - '[[Changes/Claude Code/2026-08-21-2-developer-workflow-changes-in-v2-1-239|2 Developer
   Workflow changes in v2.1.239]]'
 - '[[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Create
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.246
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-08-25 · ChatGPT · [[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Create webhook-triggered tasks]]
-- Later: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-changed-terminal-hyperlinks-in-rendered-markdown-link-targets-that-point-at-a-ne|Changed terminal hyperlinks in rendered markdown]]
+- Later: 2026-08-25 · Gemini CLI · [[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-24935-force-terminal-buffer-rerender-after-exiting-external|SSR Agent Issue Fix (24935)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

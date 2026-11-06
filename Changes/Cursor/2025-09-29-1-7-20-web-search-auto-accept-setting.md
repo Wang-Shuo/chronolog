@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b2f6cd7a065170e71e13fcb366d76bb33b16df104c1e55483c7092cf04bd9b03
+machine_hash: 286ae6d5e7bfb4a7aa7e93d5987f5a1df7c9c91028b483cb2da6c9bc14831fa1
 product: cursor
 product_name: Cursor
 record:
@@ -41,8 +41,8 @@ record:
   title: '1.7.20: Web search auto-accept setting'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-11-now-connect-even-more-tools-in-chatgpt-for-useful-relevant-responses-in-chat-the|Now
-  connect even more tools in ChatGPT for useful, relevant responses in chat]]'
+- '[[Changes/Codex CLI/2025-09-03-3061-show-loading-state-when-search-results-are-pending|♯3061
+  Show loading state when @ search results are pending]]'
 - '[[Changes/ChatGPT/2025-09-16-we-ve-made-further-improvements-to-search-in-chatgpt-making-results-more-accurat|ChatGPT
   makes further improvements to search, making results more accurate…]]'
 - '[[Changes/ChatGPT/2025-09-16-shopping-search-is-better-at-detecting-shopping-intent-showing-products-when-you|Shopping:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2025-09-16 · ChatGPT · [[Changes/ChatGPT/2025-09-16-shopping-search-is-better-at-detecting-shopping-intent-showing-products-when-you|Shopping: Search is better at detecting shopping intent, showing products when you…]]
-- Later: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-added-webfetch-websearch-tools-approval-options-for-granular-controls-over-web-s|Added WebFetch, WebSearch tools, & approval options for granular controls over web…]]
+- Later: 2025-10-03 · Codex CLI · [[Changes/Codex CLI/2025-10-03-4511-wire-up-web-search-item|♯4511 Wire up web search item]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

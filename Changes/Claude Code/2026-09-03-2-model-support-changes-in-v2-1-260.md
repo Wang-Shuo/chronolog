@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 21e60fac42d388362e0ca0b16047c510c5a3d29866d82862ccf5fcd5f74d73a3
+machine_hash: c0e100fb78f4ac83cbf561ac717bf69a97187aa61b35b31471cf342f222e1712
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Model Support changes in v2.1.260
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-31-site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are|Site
-  tools use WebMCP and require a supported account, model, and webpage]]'
-- '[[Changes/Claude Code/2026-09-01-6-model-support-changes-in-v2-1-257|6 Model Support
-  changes in v2.1.257]]'
+- '[[Changes/Codex CLI/2026-09-01-guardian-approval-review-now-honors-node-repl-policies-provided-through-model-me|Guardian
+  approval review now honors Node REPL policies provided through model metadata]]'
+- '[[Changes/Cline/2026-09-02-3-model-support-changes-in-v4-1-17|3 Model Support changes
+  in v4.1.17]]'
 - '[[Changes/ChatGPT/2026-09-03-today-we-re-introducing-gpt-6-astra-with-improvements-in-coding-research-compute-069f67|Introducing
   GPT-6 Astra]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.260
 ## Nearby in Model Support
 
 - Earlier: 2026-09-03 · ChatGPT · [[Changes/ChatGPT/2026-09-03-today-we-re-introducing-gpt-6-astra-with-improvements-in-coding-research-compute-069f67|Introducing GPT-6 Astra]]
-- Later: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-improved-the-model-picker-and-the-vs-code-model-pill-to-show-a-model-s-name-inst|Improved the /model picker and the VS Code model pill to show a model's name…]]
+- Later: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-2-model-support-changes-in-rust-v0-153-0|2 Model Support changes in rust-v0.153.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

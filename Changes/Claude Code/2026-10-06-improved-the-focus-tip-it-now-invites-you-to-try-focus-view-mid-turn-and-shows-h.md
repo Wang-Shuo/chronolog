@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6849aa91491fced770fc08111ae92fc0c4c13aaba4fd58240e0dba11605a5ca6
+machine_hash: 570df3ab9c1339baffa7ee1e7109022ed080a21a3d10ffaf5aa4d1bccaffe156
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Improved the /focus tip
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-29-improved-responsiveness-when-leaving-the-ctrl-o-transcript-view-in-long-sessions|Improved
-  responsiveness when leaving the ctrl+o transcript view in long sessions…]]'
-- '[[Changes/Claude Code/2026-09-30-4-interface-experience-changes-in-v2-1-286|4 Interface
-  Experience changes in v2.1.286]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-01-footer-text-selection-stays-on-the-same-visible-line-when-the-footer-grows-or-sh|Footer
+  text selection stays on the same visible line when the footer grows or shrinks]]'
 - '[[Changes/Claude Code/2026-10-02-added-ui-selection-for-mods-returns-the-text-you-last-selected-in-fullscreen-mod|Added
   $.ui.selection() for mods]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-05-add-a-pre-conversation-ctrl-e-environment-picker-to-switch-between-local-and-clo|Add
+  a pre-conversation Ctrl+E environment picker to switch between local and cloud runs]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab|claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab]]'
 source_type: github_releases
 theme: interface-experience
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-added-ui-selection-for-mods-returns-the-text-you-last-selected-in-fullscreen-mod|Added $.ui.selection() for mods]]
-- Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-2-interface-experience-changes-in-v2-1-295|2 Interface Experience changes in v2.1.295]]
+- Earlier: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-add-a-pre-conversation-ctrl-e-environment-picker-to-switch-between-local-and-clo|Add a pre-conversation Ctrl+E environment picker to switch between local and cloud runs]]
+- Later: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-feat-outline-the-back-navigation-control-on-settings-sub-pages-by-errmakov-in-ht|feat: outline the back navigation control on settings sub-pages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

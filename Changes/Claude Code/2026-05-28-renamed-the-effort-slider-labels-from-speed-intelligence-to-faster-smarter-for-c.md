@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4573f584ed4fa2c5c66daba71fcc470734cc94cae98ad8bf63c8f6bb461df398
+machine_hash: 35bdca619c5dd291c33d1a9ce92398e043c6cc6f7931556ce8b484ea0aa4b282
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,8 +42,8 @@ record:
   title: Renamed the `/effort` slider labels…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-21-3-reliability-and-performance-changes-in-v2-1-147|3
-  Reliability and Performance changes in v2.1.147]]'
+- '[[Changes/Codex CLI/2026-05-21-23578-fix-app-server-speed-up-shutdown-fcoury-oai|♯23578
+  fix(app-server): speed up shutdown @fcoury-oai]]'
 - '[[Changes/Claude Code/2026-05-27-the-usage-breakdown-now-includes-large-session-files-files-are-scanned-with-a-st|The
   /usage breakdown now includes large session files]]'
 - '[[Changes/Claude Code/2026-05-28-claude-code-now-shows-a-one-time-notice-when-your-npm-global-install-can-t-auto|Claude

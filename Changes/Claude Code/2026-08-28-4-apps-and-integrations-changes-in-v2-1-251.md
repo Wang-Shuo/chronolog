@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 29bd671752a57a6117ffa2c46fa6580b23a204d83681f44f9fdd0836b08a099f
+machine_hash: 898480b28b547869004e23bf3b52a6e9de3379003e4a549f4673135afec96773
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,10 +53,10 @@ record:
   title: 4 Apps and Integrations changes in v2.1.251
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-26-2-apps-and-integrations-changes-in-v2-1-247|2
-  Apps and Integrations changes in v2.1.247]]'
-- '[[Changes/Claude Code/2026-08-27-improved-managed-settings-client-side-timeout-mcp-startup-mode-and-stream-watchd|Improved
-  managed settings]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-27-12-apps-and-integrations-changes-in-v1-0-81|12
+  Apps and Integrations changes in v1.0.81]]'
+- '[[Changes/OpenHands/2026-08-27-feat-land-the-canvas-extensions-frontend-load-pages-sidebar-customize-by-hieptl|feat:
+  land the Canvas Extensions frontend (load pages, sidebar, customize)]]'
 - '[[Changes/ChatGPT/2026-08-28-you-can-now-connect-multiple-accounts-for-gmail-google-calendar-and-google-conta-b4c5da|Connect
   multiple Google accounts to ChatGPT]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96|claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96]]'
@@ -104,7 +104,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.251
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-28 · ChatGPT · [[Changes/ChatGPT/2026-08-28-you-can-now-connect-multiple-accounts-for-gmail-google-calendar-and-google-conta-b4c5da|Connect multiple Google accounts to ChatGPT]]
-- Later: 2026-09-01 · ChatGPT · [[Changes/ChatGPT/2026-09-01-eligible-chatgpt-for-clinicians-users-in-the-united-states-can-now-use-healthcar|Healthcare Public Data in ChatGPT for Clinicians]]
+- Later: 2026-08-29 · Codex CLI · [[Changes/Codex CLI/2026-08-29-11-apps-and-integrations-changes-in-rust-v0-151-0|11 Apps and Integrations changes in rust-v0.151.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

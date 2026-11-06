@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2d3000129df3c2cd8e14191d9cd10cd3fd7fe871ef67376c5fa622cb0d08419a
+machine_hash: c47d0a4f7f6bff248176ae5c0f9a1e989807c13b68f09300a7d8b8d1df0a5cc2
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Interface Experience changes in 2.4
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-14-added-showturnduration-setting-to-hide-turn-duration-messages-e-g-cooked-for-1m|Added
-  showTurnDuration setting to hide turn duration messages (e.g., "Cooked for 1m 6s")]]'
-- '[[Changes/Cursor/2026-01-16-2-interface-experience-changes-in-cli-agent-modes-and-cloud-handoff|2
-  Interface Experience changes in CLI Agent Modes and Cloud Handoff]]'
-- '[[Changes/Claude Code/2026-01-20-improved-backspace-to-delete-pasted-text-as-a-single-token-instead-of-one-charac|Improved
-  backspace to delete pasted text as a single token instead of one character…]]'
+- '[[Changes/Codex CLI/2026-01-21-3-interface-experience-changes-in-rust-v0-88-0|3
+  Interface Experience changes in rust-v0.88.0]]'
+- '[[Changes/Gemini CLI/2026-01-21-3-interface-experience-changes-in-v0-25-0|3 Interface
+  Experience changes in v0.25.0]]'
+- '[[Changes/Codex CLI/2026-01-22-improved-slash-command-selection-by-prioritizing-exact-and-prefix-matches-over-f|Improved
+  slash-command selection by prioritizing exact and prefix matches over fuzzy…]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -101,8 +101,8 @@ Source: https://cursor.com/changelog/2-4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-20 · Claude Code · [[Changes/Claude Code/2026-01-20-improved-backspace-to-delete-pasted-text-as-a-single-token-instead-of-one-charac|Improved backspace to delete pasted text as a single token instead of one character…]]
-- Later: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-2-interface-experience-changes-in-v2-1-20|2 Interface Experience changes in v2.1.20]]
+- Earlier: 2026-01-22 · Codex CLI · [[Changes/Codex CLI/2026-01-22-improved-slash-command-selection-by-prioritizing-exact-and-prefix-matches-over-f|Improved slash-command selection by prioritizing exact and prefix matches over fuzzy…]]
+- Later: 2026-01-25 · Codex CLI · [[Changes/Codex CLI/2026-01-25-9512-fix-resume-picker-when-user-event-appears-after-head-jdsalasca|♯9512 Fix resume picker when user event appears after head @jdsalasca]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 30ebb6fbe11435b6baf965d92f2d28a9ce81ca27471234a39f5ba6723fbef1c8
+machine_hash: f80e5e6002cc89ebfced16630ed5909bc44ae8f20020e4c21be8349151465425
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,9 +42,12 @@ record:
   title: Share photos to discuss them out loud
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-shareable-team-commands|Shareable Team Commands]]'
-- '[[Changes/Cursor/2025-10-29-audit-log|Audit Log]]'
-- '[[Changes/Cursor/2025-10-29-team-commands|Team Commands]]'
+- '[[Changes/Gemini CLI/2025-10-29-refactor-logging-centralize-all-console-messaging-to-a-shared-logger-part-1-by-a|refactor(logging):
+  Centralize all console messaging to a shared logger (part 1)]]'
+- '[[Changes/Cline/2025-11-07-share-provider-information-by-barreirot-in-https-github-com-cline-cline-pull-733|Share
+  provider information]]'
+- '[[Changes/Codex CLI/2025-11-19-promote-shared-helpers-for-suite-tests-6460-aibrahim|Promote
+  shared helpers for suite tests (♯6460) — @aibrahim]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37|chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -73,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-team-commands|Team Commands]]
-- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-added-team-and-mdm-hooks-support-to-cli-with-more-efficient-execution|Added team and MDM hooks support to CLI with more efficient execution]]
+- Earlier: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-promote-shared-helpers-for-suite-tests-6460-aibrahim|Promote shared helpers for suite tests (♯6460) — @aibrahim]]
+- Later: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-7547-use-shared-check-sandboxing-pakrym-oai|♯7547 Use shared check sandboxing @pakrym-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

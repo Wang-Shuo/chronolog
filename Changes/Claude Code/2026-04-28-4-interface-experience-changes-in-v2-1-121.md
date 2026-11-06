@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ee791b00bd7aaafd7e267e3576cb78852b16cf72b5a3d95c4b3926e72bb276da
+machine_hash: 336d18c38a7cce06f8daf595480b12ff0fbe327a5809b086517a79daf03fbcaf
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,12 +51,12 @@ record:
   title: 4 Interface Experience changes in v2.1.121
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-20-3-interface-experience-changes-in-v2-1-116|3 Interface
-  Experience changes in v2.1.116]]'
-- '[[Changes/Claude Code/2026-04-23-3-interface-experience-changes-in-v2-1-119|3 Interface
-  Experience changes in v2.1.119]]'
-- '[[Changes/Claude Code/2026-04-23-2-interface-experience-changes-in-v2-1-118|2 Interface
-  Experience changes in v2.1.118]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-23-4-interface-experience-changes-in-v1-0-35|4
+  Interface Experience changes in v1.0.35]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-24-subcommand-picker-shows-a-selection-indicator-next-to-the-highlighted-item|Subcommand
+  picker shows a selection indicator (❯) next to the highlighted item]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-27-2-interface-experience-changes-in-v1-0-37|2
+  Interface Experience changes in v1.0.37]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce|claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce]]'
 source_type: github_releases
 theme: interface-experience
@@ -100,8 +100,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.121
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-2-interface-experience-changes-in-v2-1-118|2 Interface Experience changes in v2.1.118]]
-- Later: 2026-05-04 · Claude Code · [[Changes/Claude Code/2026-05-04-bare-color-no-args-now-picks-a-random-session-color|Bare /color (no args) now picks a random session color]]
+- Earlier: 2026-04-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-27-2-interface-experience-changes-in-v1-0-37|2 Interface Experience changes in v1.0.37]]
+- Later: 2026-04-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-28-2-interface-experience-changes-in-v1-0-39|2 Interface Experience changes in v1.0.39]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

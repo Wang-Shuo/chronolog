@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: abc778f80cb7ecbfbec592a17fe5ce47936a679b38373e7337a083aaa4d45529
+machine_hash: fcf1c69865ee3dff1888d166e1d9bb645a1149a94d1f591eafa06c1e832238af
 product: cursor
 product_name: Cursor
 record:
@@ -44,10 +44,10 @@ record:
   title: Always-on cloud agents that build, test, and ship code while you keep working
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-22-changed-plan-mode-with-auto-to-no-longer-prompt-for-bash-commands-the-static-ana|Changed
-  plan mode with auto to no longer prompt for Bash commands the static…]]'
 - '[[Changes/Cursor/2026-07-22-auto-mode-is-now-powered-by-cursor-router|Auto mode
   is now powered by Cursor Router]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-23-3-agent-mode-changes-in-v1-0-74|3 Agent
+  Mode changes in v1.0.74]]'
 - '[[Changes/Claude Code/2026-07-24-4-agent-mode-changes-in-v2-1-219|4 Agent Mode
   changes in v2.1.219]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df|cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-24 · Claude Code · [[Changes/Claude Code/2026-07-24-4-agent-mode-changes-in-v2-1-219|4 Agent Mode changes in v2.1.219]]
-- Later: 2026-07-29 · Cursor · [[Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and|A full review surface]]
+- Later: 2026-07-28 · OpenHands · [[Changes/OpenHands/2026-07-28-this-release-migration-was-performed-by-an-ai-agent-openhands-on-behalf-of-the-u|This release migration was performed by an AI agent (OpenHands) on behalf of the user]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

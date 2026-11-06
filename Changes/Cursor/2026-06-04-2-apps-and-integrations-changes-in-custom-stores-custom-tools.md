@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: faff9022eb672be04c20ad96dc920d7855d5c65bcf794239dd4fb1b5d63f2a57
+machine_hash: 0701d58df46f267e13a5646dd7e90cb5767ba1344a4c846ffda2d6b8256693ca
 product: cursor
 product_name: Cursor
 record:
@@ -49,10 +49,10 @@ record:
   title: 2 Apps and Integrations changes in Custom stores, custom tools…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-04-2-apps-and-integrations-changes-in-v2-1-163|2
-  Apps and Integrations changes in v2.1.163]]'
 - '[[Changes/Claude Code/2026-06-04-added-plugin-list-command-to-list-installed-plugins-with-enabled-disabled-filter|Added
   /plugin list command to list installed plugins…]]'
+- '[[Changes/Codex CLI/2026-06-04-19-apps-and-integrations-changes-in-rust-v0-137-0|19
+  Apps and Integrations changes in rust-v0.137.0]]'
 - '[[Changes/Cursor/2026-06-04-we-ve-shipped-a-batch-of-new-functionality-across-the-typescript-and-python-sdks|We''ve
   shipped a batch of new functionality across the TypeScript and Python SDKs]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856|cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856]]'
@@ -98,8 +98,8 @@ Source: https://cursor.com/changelog/sdk-updates-jun-2026
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-added-plugin-list-command-to-list-installed-plugins-with-enabled-disabled-filter|Added /plugin list command to list installed plugins…]]
-- Later: 2026-06-06 · Claude Code · [[Changes/Claude Code/2026-06-06-added-glob-pattern-support-in-deny-rule-tool-name-position-denies-all-tools-allo|Added glob pattern support in deny rule tool-name position ("" denies all tools)]]
+- Earlier: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-19-apps-and-integrations-changes-in-rust-v0-137-0|19 Apps and Integrations changes in rust-v0.137.0]]
+- Later: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-mcp-tools-added-or-removed-by-a-server-mid-turn-are-now-available-immediately-in|MCP tools added or removed by a server mid-turn are now available immediately…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

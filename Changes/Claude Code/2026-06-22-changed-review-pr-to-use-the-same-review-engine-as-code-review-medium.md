@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: efca417f15492969fad23d1351268c2dccaf02d711dfc933fa99372dcebfe3ea
+machine_hash: cbf8dde27a9e81f21fc93fd7afd71819cfe1e8389aa79eac2f4bc7cd0b6e7749
 product: claude-code
 product_name: Claude Code
 record:
@@ -40,9 +40,9 @@ record:
   title: Changed `/review <pr>` to use the same review engine as `/code-review medium`
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-15-improved-doctor-with-consistent-flat-tree-layout-across-all-sections-clearer-sec|Improved
-  /doctor with consistent flat tree layout across all sections, clearer…]]'
 - '[[Changes/Cursor/2026-06-17-cloud-environment-setup-8a7697|Cloud environment setup]]'
+- '[[Changes/Codex CLI/2026-06-18-7-developer-workflow-changes-in-rust-v0-141-0|7
+  Developer Workflow changes in rust-v0.141.0]]'
 - '[[Changes/Claude Code/2026-06-19-removed-the-startup-setup-issues-line-under-the-logo-run-doctor-to-see-configura|Removed
   the startup "setup issues" line under the logo]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b|claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b]]'
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-06-19 · Claude Code · [[Changes/Claude Code/2026-06-19-removed-the-startup-setup-issues-line-under-the-logo-run-doctor-to-see-configura|Removed the startup "setup issues" line under the logo]]
-- Later: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-2-developer-workflow-changes-in-v2-1-196|2 Developer Workflow changes in v2.1.196]]
+- Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-4-developer-workflow-changes-in-rust-v0-142-0|4 Developer Workflow changes in rust-v0.142.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

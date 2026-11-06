@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 6ef21287caed9aeb705aa51a8b8b5495571844469458a8691d2c2fffde148e7d
+machine_hash: e54110f66fefe86f6c089153895de87362e032e24ee5755ef70da5f2f30945b3
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
   title: Improved reliability for longer-running agent sessions
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-24-cloud-agents-can-now-use-the-software-they-create-to-test-changes-and-demo-their-c922e9|Cloud
-  Agents with Computer Use]]'
-- '[[Changes/Cursor/2026-02-26-autofix-runs-cloud-agents-on-their-own-machines-to-test-changes-and-propose-fixe|Autofix
-  runs cloud agents on their own machines to test changes and propose fixes…]]'
-- '[[Changes/Claude Code/2026-02-28-added-http-hooks-which-can-post-json-to-a-url-and-receive-json-instead-of-runnin|Added
-  HTTP hooks, which can POST JSON to a URL and receive JSON instead of running…]]'
+- '[[Changes/Codex CLI/2026-03-02-you-can-now-fork-a-thread-into-sub-agents-making-it-easier-to-branch-work-withou|Fork
+  a thread into sub-agents, making it easier to branch work without leaving…]]'
+- '[[Changes/Codex CLI/2026-03-02-2-agent-mode-changes-in-rust-v0-107-0|2 Agent Mode
+  changes in rust-v0.107.0]]'
+- '[[Changes/Cline/2026-03-03-add-user-agent-header-to-requests-sent-to-the-cline-backend|Add
+  User-Agent header to requests sent to the Cline backend]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-added-http-hooks-which-can-post-json-to-a-url-and-receive-json-instead-of-runnin|Added HTTP hooks, which can POST JSON to a URL and receive JSON instead of running…]]
-- Later: 2026-03-04 · Cursor · [[Changes/Cursor/2026-03-04-cursor-is-now-available-in-intellij-idea-pycharm-webstorm-and-other-jetbrains-id-2dc9cd|Cursor is now available in IntelliJ IDEA, PyCharm, WebStorm, and other JetBrains…]]
+- Earlier: 2026-03-03 · Cline · [[Changes/Cline/2026-03-03-add-user-agent-header-to-requests-sent-to-the-cline-backend|Add User-Agent header to requests sent to the Cline backend]]
+- Later: 2026-03-03 · Gemini CLI · [[Changes/Gemini CLI/2026-03-03-3-agent-mode-changes-in-v0-32-0|3 Agent Mode changes in v0.32.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

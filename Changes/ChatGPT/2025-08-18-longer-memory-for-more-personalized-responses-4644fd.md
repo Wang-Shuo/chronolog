@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5ed614bb9d9a8fe1e4dfbf61218b2f7bfd23590eb6065ce4a3d560c67efa825b
+machine_hash: a6c0de6fa4aa047fa3d196549c57cdeb0f86397510d91134c2fbd548ad24a2f4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,12 +45,12 @@ record:
   title: Longer memory for more personalized responses
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-12-improvements-to-memory-to-reference-past-chats-in-a-project|Improvements
-  to memory to reference past chats in a project]]'
-- '[[Changes/Cursor/2025-07-03-memories-is-now-ga-since-1-0-we-ve-improved-memory-generation-quality-added-in-e|Memories
-  (now GA)]]'
-- '[[Changes/ChatGPT/2025-07-29-personalize-responses-based-on-your-past-chats-if-memory-is-on-using-examples-an|Personalize
-  responses based on your past chats if memory is on, using examples…]]'
+- '[[Changes/Gemini CLI/2025-08-06-2-memory-and-personalization-changes-in-v0-1-18|2
+  Memory and Personalization changes in v0.1.18]]'
+- '[[Changes/Gemini CLI/2025-08-12-feat-drop-load-memory-from-include-directories-option-from-cli-args-by-y-okt-in|feat:
+  drop load-memory-from-include-directories option from cli args]]'
+- '[[Changes/Gemini CLI/2025-08-14-3-memory-and-personalization-changes-in-v0-1-21|3
+  Memory and Personalization changes in v0.1.21]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a|chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-07-29 · ChatGPT · [[Changes/ChatGPT/2025-07-29-personalize-responses-based-on-your-past-chats-if-memory-is-on-using-examples-an|Personalize responses based on your past chats if memory is on, using examples…]]
+- Earlier: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-3-memory-and-personalization-changes-in-v0-1-21|3 Memory and Personalization changes in v0.1.21]]
 - Later: 2025-08-22 · ChatGPT · [[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-87f79a|An improvement to projects is now available]]
 <!-- chronolog:end -->
 

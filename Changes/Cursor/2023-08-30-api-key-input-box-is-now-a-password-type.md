@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 505b9a007c201983bdb5b681f1d1bfcc14b95acfba8b4512c3538603a1d740dc
+machine_hash: 0beee60f99ecc18ea000e27468a74806b01934693728bffe614a0a56bd71e8fb
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,10 @@ record:
   title: API Key input box is now a password type
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-  mode for opting out of storing any kind of data on our servers]]'
 - '[[Changes/Cursor/2023-06-27-cursor-is-now-based-on-version-1-79-2-of-vscodium-which-comes-with-security-upda|Cursor
   is now based on version 1.79.2 of VSCodium, which comes with security updates…]]'
+- '[[Changes/Aider/2023-07-24-encourage-gpt-to-use-language-like-add-files-to-the-chat-to-ask-users-for-permis|Encourage
+  GPT to use language like "add files to the chat" to ask users…]]'
 - '[[Changes/ChatGPT/2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security-4958cf|Introducing
   ChatGPT Enterprise]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-30-0-9-0-https-cursor-com-changelog-0-9-0-1c913df4|cursor-2023-08-30-0-9-0-https-cursor-com-changelog-0-9-0-1c913df4]]'
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2023-08-28 · ChatGPT · [[Changes/ChatGPT/2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security-4958cf|Introducing ChatGPT Enterprise]]
-- Later: 2024-09-17 · Cursor · [[Changes/Cursor/2024-09-17-this-update-fixes-the-following-security-issue-cve-2024-45599|This update fixes the following security issue: CVE-2024-45599]]
+- Later: 2024-06-04 · OpenHands · [[Changes/OpenHands/2024-06-04-2-safety-and-privacy-changes-in-0-6-1|2 Safety and Privacy changes in 0.6.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

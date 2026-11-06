@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b49babb81e25bac5f7d4c91a97111a73ec923e5b8ee8a051aa9bceaa0ac04cf2
+machine_hash: e23b0e3b5818c3f17b359fce05d8834dbe943fe85c77f10b227a46de28261969
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,12 +51,12 @@ record:
     general use'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-06-3-model-support-changes-in-v2-1-166|3 Model Support
-  changes in v2.1.166]]'
 - '[[Changes/ChatGPT/2026-06-08-long-press-send-to-choose-a-model-users-on-paid-plans-can-now-long-press-the-sen|Long-press
   send to choose a model]]'
 - '[[Changes/Claude Code/2026-06-08-added-a-disablebundledskills-setting-and-claude-code-disable-bundled-skills-envi|Added
   a disableBundledSkills setting and CLAUDE_CODE_DISABLE_BUNDLED_SKILLS…]]'
+- '[[Changes/Codex CLI/2026-06-08-6-model-support-changes-in-rust-v0-138-0|6 Model
+  Support changes in rust-v0.138.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-09-v2-1-170-github-336724522-461fd3b3|claude-code-2026-06-09-v2-1-170-github-336724522-461fd3b3]]'
 source_type: github_releases
 theme: model-support
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-added-a-disablebundledskills-setting-and-claude-code-disable-bundled-skills-envi|Added a disableBundledSkills setting and CLAUDE_CODE_DISABLE_BUNDLED_SKILLS…]]
-- Later: 2026-06-10 · ChatGPT · [[Changes/ChatGPT/2026-06-10-pro-extended-pro-plans-only|Pro Extended Pro plans only]]
+- Earlier: 2026-06-08 · Codex CLI · [[Changes/Codex CLI/2026-06-08-6-model-support-changes-in-rust-v0-138-0|6 Model Support changes in rust-v0.138.0]]
+- Later: 2026-06-09 · Cline · [[Changes/Cline/2026-06-09-2-model-support-changes-in-v3-89-0|2 Model Support changes in v3.89.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

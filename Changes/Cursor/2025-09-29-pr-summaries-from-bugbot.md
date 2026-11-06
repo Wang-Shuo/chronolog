@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: feffdb07f3e7280b0287feb3d00188340d3e2cc814d91f66ec121c47df7c2e6e
+machine_hash: 03898d4b25ee23513c86715efde59ecf4b3859c0126ba66bfc5a812e27692896
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,8 @@ record:
   title: PR summaries from Bugbot
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-12-1-6-7-enhanced-git-diff-parsing|1.6.7: Enhanced git
-  diff parsing]]'
+- '[[Changes/GitHub Copilot CLI/2025-09-26-2-editor-experience-changes-in-v0-0-328|2
+  Editor Experience changes in v0.0.328]]'
 - '[[Changes/Cursor/2025-09-29-when-writing-prompts-autocomplete-suggestions-will-appear-based-on-recent-change|Autocomplete
   for Agent]]'
 - '[[Changes/Cursor/2025-09-29-1-7-4-shift-tab-shortcut-improvements|1.7.4: Shift+Tab
@@ -98,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-1-6-7-enhanced-git-diff-parsing|1.6.7: Enhanced git diff parsing]]
-- Later: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-4-editor-experience-changes-in-2-1|4 Editor Experience changes in 2.1]]
+- Earlier: 2025-09-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-26-2-editor-experience-changes-in-v0-0-328|2 Editor Experience changes in v0.0.328]]
+- Later: 2025-09-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-29-4-editor-experience-changes-in-v0-0-329|4 Editor Experience changes in v0.0.329]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

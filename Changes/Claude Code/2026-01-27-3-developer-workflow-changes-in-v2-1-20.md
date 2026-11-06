@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a566022d469e6064e45d71e2f0406912581442ddbc297c04c4db48e9fe7b6180
+machine_hash: 779ba08a22ba6c13d83b5a676077ad7dc887f04450b0ca0285e635a9597d9046
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.20
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-22-added-new-task-management-system-including-new-capabilities-like-dependency-trac|Added
-  new task management system, including new capabilities like dependency tracking]]'
-- '[[Changes/Cursor/2026-01-22-3-developer-workflow-changes-in-2-4|3 Developer Workflow
-  changes in 2.4]]'
-- '[[Changes/Claude Code/2026-01-23-2-developer-workflow-changes-in-v2-1-19|2 Developer
-  Workflow changes in v2.1.19]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-24-2-developer-workflow-changes-in-v0-0-394|2
+  Developer Workflow changes in v0.0.394]]'
+- '[[Changes/Codex CLI/2026-01-25-2-developer-workflow-changes-in-rust-v0-90-0|2 Developer
+  Workflow changes in rust-v0.90.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-26-2-developer-workflow-changes-in-v0-0-395|2
+  Developer Workflow changes in v0.0.395]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-27-v2-1-20-github-280123443-38431f59|claude-code-2026-01-27-v2-1-20-github-280123443-38431f59]]'
 source_type: github_releases
 theme: developer-workflow
@@ -91,8 +91,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.20
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-23 · Claude Code · [[Changes/Claude Code/2026-01-23-2-developer-workflow-changes-in-v2-1-19|2 Developer Workflow changes in v2.1.19]]
-- Later: 2026-01-28 · Claude Code · [[Changes/Claude Code/2026-01-28-vscode-added-automatic-python-virtual-environment-activation-ensuring-python-and|VSCode Added automatic Python virtual environment activation, ensuring python…]]
+- Earlier: 2026-01-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-26-2-developer-workflow-changes-in-v0-0-395|2 Developer Workflow changes in v0.0.395]]
+- Later: 2026-01-27 · Codex CLI · [[Changes/Codex CLI/2026-01-27-2-developer-workflow-changes-in-rust-v0-92-0|2 Developer Workflow changes in rust-v0.92.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

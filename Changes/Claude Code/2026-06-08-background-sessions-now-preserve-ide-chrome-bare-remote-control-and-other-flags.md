@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: dbccf4d3ab43dd7691b5fab07883a2ae72823e7cc311780fc284ff35ddbc5cbe
+machine_hash: f0ce5256161937a293c2ddf902057388993b3e976a021fa0cdd0df9a4a9659d0
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: Background sessions now preserve `--ide`, `--chrome`, `--bare`, `--remote-control`…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-edit-no-longer-requires-a-separate-read-after-viewing-a-file-with-grep-single-fi|Edit
-  no longer requires a separate Read after viewing a file with grep]]'
 - '[[Changes/Claude Code/2026-06-03-renamed-windsurf-to-devin-desktop-in-the-ide-menu-terminal-setup-and-scroll-spee|Renamed
   Windsurf to Devin Desktop in the /ide menu, /terminal-setup…]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-05-3-editor-experience-changes-in-v1-0-60|3
+  Editor Experience changes in v1.0.60]]'
 - '[[Changes/ChatGPT/2026-06-08-edit-messages-with-attachments-you-can-now-edit-messages-that-include-attachment|Edit
   messages with attachments]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d|claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d]]'
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-08 · ChatGPT · [[Changes/ChatGPT/2026-06-08-edit-messages-with-attachments-you-can-now-edit-messages-that-include-attachment|Edit messages with attachments]]
-- Later: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-added-live-file-path-autocomplete-to-bash-mode|Added live file path autocomplete to bash mode (!)]]
+- Later: 2026-06-08 · Codex CLI · [[Changes/Codex CLI/2026-06-08-3-editor-experience-changes-in-rust-v0-138-0|3 Editor Experience changes in rust-v0.138.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

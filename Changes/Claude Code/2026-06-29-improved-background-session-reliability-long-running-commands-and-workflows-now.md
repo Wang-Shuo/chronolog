@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6cd759bfca2509f34e07de4bcff4cf64aa58d23508ddf8d35048192028bd826a
+machine_hash: d9c9956e5307af42395785c113ecda183500349affc92fcbd5755019a0828fe0
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,11 @@ record:
   title: Improved background session reliability
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-18-updated-composer-and-tools-menu-the-composer-in-android-now-has-inline-mentions|Updated
-  composer and tools menu]]'
-- '[[Changes/ChatGPT/2026-06-18-improved-camera-and-photo-uploads-taking-and-uploading-photos-in-chatgpt-on-ios|Improved
-  camera and photo uploads]]'
-- '[[Changes/ChatGPT/2026-06-18-chatgpt-now-has-more-ways-to-help-with-common-questions-from-pronunciation-guida|ChatGPT
-  now has more ways to help with common questions, from pronunciation guidance…]]'
+- '[[Changes/Codex CLI/2026-06-22-28791-bazel-refresh-expired-macos-sdk-pin-anp-oai|♯28791
+  bazel: refresh expired macOS SDK pin @anp-oai]]'
+- '[[Changes/Windsurf/2026-06-23-devin-desktop|Devin Desktop]]'
+- '[[Changes/Codex CLI/2026-06-25-26709-pac-4-add-macos-system-proxy-resolver-canvrno-oai|♯26709
+  PAC 4 - Add macOS system proxy resolver @canvrno-oai]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-29-v2-1-196-github-346482381-e21be272|claude-code-2026-06-29-v2-1-196-github-346482381-e21be272]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -88,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-chatgpt-now-has-more-ways-to-help-with-common-questions-from-pronunciation-guida|ChatGPT now has more ways to help with common questions, from pronunciation guidance…]]
-- Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-to-create-a-site-start-in-chatgpt-work-on-the-web-or-in-work-or-codex-in-the-cha|To create a Site, start in ChatGPT Work on the web or in Work or Codex…]]
+- Earlier: 2026-06-25 · Codex CLI · [[Changes/Codex CLI/2026-06-25-26709-pac-4-add-macos-system-proxy-resolver-canvrno-oai|♯26709 PAC 4 - Add macOS system proxy resolver @canvrno-oai]]
+- Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-2-mobile-and-desktop-changes-in-v1-0-66|2 Mobile and Desktop changes in v1.0.66]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

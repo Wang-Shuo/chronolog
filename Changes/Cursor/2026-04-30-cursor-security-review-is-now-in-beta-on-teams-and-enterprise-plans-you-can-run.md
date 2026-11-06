@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dbe5dafb5ff66891ba7e1673f09c3c692e4aa5a8aa2ab968f82e37258706f409
+machine_hash: ed7f31595319ddbc525109e762ececab5855d571be166eb2b214f7d7d30a3501
 product: cursor
 product_name: Cursor
 record:
@@ -55,12 +55,12 @@ record:
   title: Cursor Security Review is now in beta on Teams and Enterprise plans
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-20-security-sandbox-auto-allow-no-longer-bypasses-the-dangerous-path-safety-check-f|Security:
-  sandbox auto-allow no longer bypasses the dangerous-path safety check…]]'
-- '[[Changes/Claude Code/2026-04-23-fixed-mcp-step-up-authorization-silently-refreshing-instead-of-prompting-for-re|Fixed
-  MCP step-up authorization silently refreshing instead of prompting…]]'
-- '[[Changes/Claude Code/2026-04-23-4-safety-and-privacy-changes-in-v2-1-119|4 Safety
-  and Privacy changes in v2.1.119]]'
+- '[[Changes/Gemini CLI/2026-04-28-feat-sandbox-resolve-custom-seatbelt-profiles-from-home-gemini-first-by-mvanhorn|feat(sandbox):
+  resolve custom seatbelt profiles from $HOME/.gemini first]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-28-allow-acp-clients-to-toggle-allow-all-permission-mode-via-session-configuration|Allow
+  ACP clients to toggle allow-all permission mode via session configuration]]'
+- '[[Changes/Codex CLI/2026-04-30-21-safety-and-privacy-changes-in-rust-v0-128-0|21
+  Safety and Privacy changes in rust-v0.128.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-30-cursor-security-review-https-cursor-com-changelog-04-30-26-640898b1|cursor-2026-04-30-cursor-security-review-https-cursor-com-changelog-04-30-26-640898b1]]'
 source_type: cursor_changelog
 theme: safety-privacy
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-4-safety-and-privacy-changes-in-v2-1-119|4 Safety and Privacy changes in v2.1.119]]
+- Earlier: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-21-safety-and-privacy-changes-in-rust-v0-128-0|21 Safety and Privacy changes in rust-v0.128.0]]
 - Later: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-3-safety-and-privacy-changes-in-v2-1-126|3 Safety and Privacy changes in v2.1.126]]
 <!-- chronolog:end -->
 

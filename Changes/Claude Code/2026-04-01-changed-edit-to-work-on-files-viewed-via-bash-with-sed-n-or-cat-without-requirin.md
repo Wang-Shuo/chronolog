@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0cacabe8036fd18f06ab75580634c919d14bbc9eaec82f1e3baa6792c9f9e7e5
+machine_hash: aa578d05625716afa52e84eba5297104a39c8685034613436a181eee1c392a32
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     without…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-19-improved-permissions-tab-and-arrow-keys-now-switch-tabs-from-within-a-list|Improved
-  /permissions — Tab and arrow keys now switch tabs from within a list]]'
-- '[[Changes/Claude Code/2026-03-25-3-editor-experience-changes-in-v2-1-83|3 Editor
-  Experience changes in v2.1.83]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-26-diff-view-correctly-renders-all-lines-when-intra-line-highlighting-is-present|/diff
+  view correctly renders all lines when intra-line highlighting is present]]'
 - '[[Changes/Claude Code/2026-03-27-added-jj-and-sl-to-vcs-directory-exclusion-lists-so-grep-and-file-autocomplete-d|Added
   .jj and .sl to VCS directory exclusion lists so Grep and file autocomplete…]]'
+- '[[Changes/Codex CLI/2026-03-31-16021-fix-copy-regression-in-tui-app-server-turn-completion-etraut-openai|♯16021
+  Fix /copy regression in tui_app_server turn completion @etraut-openai]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-89-github-303967782-358023f0|claude-code-2026-04-01-v2-1-89-github-303967782-358023f0]]'
 source_type: github_releases
 theme: editor-experience
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-added-jj-and-sl-to-vcs-directory-exclusion-lists-so-grep-and-file-autocomplete-d|Added .jj and .sl to VCS directory exclusion lists so Grep and file autocomplete…]]
-- Later: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-2-editor-experience-changes-in-3-0|2 Editor Experience changes in 3.0]]
+- Earlier: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-16021-fix-copy-regression-in-tui-app-server-turn-completion-etraut-openai|♯16021 Fix /copy regression in tui_app_server turn completion @etraut-openai]]
+- Later: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-refactor-ide-replace-dynamic-undici-import-with-static-fetch-import-by-cocosheng|refactor(ide): replace dynamic undici import with static fetch import]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

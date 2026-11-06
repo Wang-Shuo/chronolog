@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d8f3e93e30a40694b22dbcfd357182f52056f741bd1f8086c8082fdcf640fee6
+machine_hash: ae81c1bb2b7d668c275f91ce5e29c1ed95438082b051301ca726df429d03ec99
 product: cursor
 product_name: Cursor
 record:
@@ -44,9 +44,10 @@ record:
     flows…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-14-changed-oauth-and-api-console-urls-from-console-anthropic-com-to-platform-claude|Changed
-  OAuth and API Console URLs from console.anthropic.com to platform.claude.com]]'
-- '[[Changes/Cursor/2026-01-16-one-click-mcp-authentication|One-click MCP authentication]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-16-2-account-and-access-changes-in-v0-0-384|2
+  Account and Access changes in v0.0.384]]'
+- '[[Changes/Gemini CLI/2026-01-21-feat-admin-prompt-user-to-restart-the-cli-if-they-change-auth-to-oauth-mid-sessi|feat(admin):
+  prompt user to restart the CLI if they change auth to oauth mid-session…]]'
 - '[[Changes/Claude Code/2026-01-22-vscode-added-ability-for-oauth-users-to-browse-and-resume-remote-claude-sessions|VSCode
   Added ability for OAuth users to browse and resume remote Claude sessions…]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'
@@ -95,7 +96,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-01-22 · Claude Code · [[Changes/Claude Code/2026-01-22-vscode-added-ability-for-oauth-users-to-browse-and-resume-remote-claude-sessions|VSCode Added ability for OAuth users to browse and resume remote Claude sessions…]]
-- Later: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-added-pre-configured-oauth-client-credentials-for-mcp-servers-that-don-t-support|Added pre-configured OAuth client credentials for MCP servers that don't support…]]
+- Later: 2026-01-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-22-mcp-servers-can-now-authenticate-using-oauth-2-0-with-automatic-token-management|MCP servers can now authenticate using OAuth 2.0 with automatic token management…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

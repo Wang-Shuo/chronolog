@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 06a4bb7b85f14db089636d581878ae2a6544ced162245f6d486a708eb4a7e64d
+machine_hash: a17fbbf01972dc23bfdf38c9899d8a2582f0fe4443b251b649315e3b0647fb8f
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 3 Developer Workflow changes in v2.1.97
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-01-4-developer-workflow-changes-in-v2-1-89|4 Developer
-  Workflow changes in v2.1.89]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-01-2-developer-workflow-changes-in-v1-0-15|2
+  Developer Workflow changes in v1.0.15]]'
 - '[[Changes/Cursor/2026-04-02-2-developer-workflow-changes-in-3-0|2 Developer Workflow
   changes in 3.0]]'
 - '[[Changes/Claude Code/2026-04-04-removed-tag-command|Removed /tag command]]'

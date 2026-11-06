@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6e7e5bd7ffacd4a407e5632941cece5ec6963bceda6c2e28c93ff3e00a7cc3fa
+machine_hash: 96a17a6cbe4790c2072cd649b58ca3436699a2d7b7d33b1e6815377355698379
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,10 +57,10 @@ record:
   title: Sign in to other products with ChatGPT
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-25-improved-lists-in-help-hooks-copy-chrome-memory-ide-release-notes-rewind-diff-re|Improved
-  lists in /help, /hooks, /copy, /chrome, /memory, /ide…]]'
-- '[[Changes/Claude Code/2026-09-28-improved-auto-memory-loading-invisible-characters-and-tags-that-imitate-claude-c|Improved
-  auto-memory loading]]'
+- '[[Changes/Codex CLI/2026-09-28-3-memory-and-personalization-changes-in-rust-v0-158-0|3
+  Memory and Personalization changes in rust-v0.158.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-28-add-support-for-claude-code-rule-files-in-claude-rules-as-custom-instructions|Add
+  support for Claude Code rule files in .claude/rules as custom instructions]]'
 - '[[Changes/ChatGPT/2026-09-29-pages-follow-space-s-availability-and-sharing-settings-sharing-a-page-does-not-g|Pages
   follow Space’s availability and sharing settings]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-sign-in-to-other-products-with-chatgpt-3054f3c5|chatgpt-2026-09-29-sign-in-to-other-products-with-chatgpt-3054f3c5]]'

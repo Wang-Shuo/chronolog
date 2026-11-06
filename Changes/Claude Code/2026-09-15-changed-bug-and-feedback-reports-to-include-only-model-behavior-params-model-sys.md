@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2e37c066d16992f293019730fab94b47b372b1f836eea62ff22e95048e97e0bc
+machine_hash: f652c4433851b5c71ead5adb4c2df4ba684fc7890b131c5b3e8cf82e77127b90
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-2-model-support-changes-in-v2-1-271|2 Model Support changes in v2.1.271]]
-- Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-2-model-support-changes-in-v2-1-274|2 Model Support changes in v2.1.274]]
+- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-13-model-support-changes-in-v1-0-85|13 Model Support changes in v1.0.85]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

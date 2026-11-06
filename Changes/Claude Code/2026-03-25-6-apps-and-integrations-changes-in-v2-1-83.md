@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 94b6e92407ff57693f80c6eb463091f9f663421da3795e61fb31532cd7ee0c7c
+machine_hash: ddb6fdfa63a66709df1866f9862e95ee1b50b73a92e94cdd3973bc5b8233a786
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,10 +56,10 @@ record:
   title: 6 Apps and Integrations changes in v2.1.83
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-19-4-apps-and-integrations-changes-in-v2-1-80|4 Apps
-  and Integrations changes in v2.1.80]]'
-- '[[Changes/Claude Code/2026-03-20-3-apps-and-integrations-changes-in-v2-1-81|3 Apps
-  and Integrations changes in v2.1.81]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-23-6-apps-and-integrations-changes-in-v1-0-11|6
+  Apps and Integrations changes in v1.0.11]]'
+- '[[Changes/Gemini CLI/2026-03-24-5-apps-and-integrations-changes-in-v0-35-0|5 Apps
+  and Integrations changes in v0.35.0]]'
 - '[[Changes/ChatGPT/2026-03-25-google-s-file-connectors-in-chatgpt-are-now-unified-under-google-drive-providing|Google
   Drive app unification]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317|claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317]]'

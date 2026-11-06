@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ba6cae3145d40e11e3cfb43ab9781bb2fce334d3919c0d07614ce9c6ce75dc0a
+machine_hash: 7c4b3a7576634ad5bf42bb102bce2d28d79f7ce95c8bfeda05071e8ca8ef518c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,12 +51,12 @@ record:
     directly in Space
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-22-vscode-changed-open-in-new-tab-to-open-claude-beside-the-editor-group-you-are-wo|VSCode
-  Changed "Open in New Tab" to open Claude beside the editor group you…]]'
-- '[[Changes/ChatGPT/2026-09-28-you-can-now-select-a-chart-metric-or-record-in-the-health-tab-to-get-personalize|Explore
-  your health data with personalized summaries]]'
 - '[[Changes/Claude Code/2026-09-28-changed-ultracode-into-its-own-toggle-in-effort-tab-or-effort-ultracode-on-off-i|Changed
   Ultracode into its own toggle in /effort (Tab, or /effort ultracode on / off)]]'
+- '[[Changes/Codex CLI/2026-09-28-4-editor-experience-changes-in-rust-v0-158-0|4 Editor
+  Experience changes in rust-v0.158.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-28-shell-output-no-longer-shows-trailing-command-completion-metadata|Shell
+  output no longer shows trailing command completion metadata]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-create-and-collaborate-on-pages-aae35683|chatgpt-2026-09-29-create-and-collaborate-on-pages-aae35683]]'
 source_type: chatgpt_changelog
 theme: editor-experience
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-changed-ultracode-into-its-own-toggle-in-effort-tab-or-effort-ultracode-on-off-i|Changed Ultracode into its own toggle in /effort (Tab, or /effort ultracode on / off)]]
+- Earlier: 2026-09-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-28-shell-output-no-longer-shows-trailing-command-completion-metadata|Shell output no longer shows trailing command completion metadata]]
 - Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-2-editor-experience-changes-in-v2-1-285|2 Editor Experience changes in v2.1.285]]
 <!-- chronolog:end -->
 

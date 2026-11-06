@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 8879a13d00f22ce56e30c115a20161bbf9ffb8fa0d007c06517562d7c116b463
+machine_hash: 058a801eeada71f5318f5156527129c129b32a4423b13748fcb1ae20a80274bf
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Fixed remote and scheduled sessions failing…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-26-2-safety-and-privacy-changes-in-v2-1-247|2 Safety
-  and Privacy changes in v2.1.247]]'
-- '[[Changes/Claude Code/2026-08-27-4-safety-and-privacy-changes-in-v2-1-248|4 Safety
-  and Privacy changes in v2.1.248]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-27-5-safety-and-privacy-changes-in-v1-0-81|5
+  Safety and Privacy changes in v1.0.81]]'
 - '[[Changes/Claude Code/2026-08-28-6-safety-and-privacy-changes-in-v2-1-251|6 Safety
   and Privacy changes in v2.1.251]]'
+- '[[Changes/Codex CLI/2026-08-29-5-safety-and-privacy-changes-in-rust-v0-151-0|5
+  Safety and Privacy changes in rust-v0.151.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-258-github-380858621-ccfab6d9|claude-code-2026-09-01-v2-1-258-github-380858621-ccfab6d9]]'
 source_type: github_releases
 theme: safety-privacy
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-6-safety-and-privacy-changes-in-v2-1-251|6 Safety and Privacy changes in v2.1.251]]
+- Earlier: 2026-08-29 · Codex CLI · [[Changes/Codex CLI/2026-08-29-5-safety-and-privacy-changes-in-rust-v0-151-0|5 Safety and Privacy changes in rust-v0.151.0]]
 - Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-10-safety-and-privacy-changes-in-v2-1-257|10 Safety and Privacy changes in v2.1.257]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 70785241f02d9cc77f338291f0ae262eafee45f507c6916aa85f0200b03c8cd7
+machine_hash: 861372d033df80bea8abc52b5b21efbf92c05b85c005377b472709729112ca84
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: 'VSCode: Added spinner when loading past conversations list'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-28-improved-read-search-progress-indicators-to-show-reading-while-in-progress-and-r|Improved
-  read/search progress indicators to show "Reading…" while in progress…]]'
-- '[[Changes/Claude Code/2026-01-29-3-interface-experience-changes-in-v2-1-23|3 Interface
-  Experience changes in v2.1.23]]'
-- '[[Changes/ChatGPT/2026-01-30-responses-in-chatgpt-are-now-more-visual-and-easier-to-scan-for-everyday-questio|More
-  visual responses]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-03-inserting-new-line-with-shift-enter-keybinding-in-vs-code-integrated-terminal|Inserting
+  new line with shift+enter keybinding in VS Code integrated terminal]]'
+- '[[Changes/Codex CLI/2026-02-04-10340-session-picker-shows-thread-name-if-set-pap-openai|♯10340
+  Session picker shows thread_name if set @pap-openai]]'
+- '[[Changes/Gemini CLI/2026-02-04-4-interface-experience-changes-in-v0-27-0|4 Interface
+  Experience changes in v0.27.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0]]'
 source_type: github_releases
 theme: interface-experience
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-30 · ChatGPT · [[Changes/ChatGPT/2026-01-30-responses-in-chatgpt-are-now-more-visual-and-easier-to-scan-for-everyday-questio|More visual responses]]
-- Later: 2026-02-06 · Claude Code · [[Changes/Claude Code/2026-02-06-2-interface-experience-changes-in-v2-1-33|2 Interface Experience changes in v2.1.33]]
+- Earlier: 2026-02-04 · Gemini CLI · [[Changes/Gemini CLI/2026-02-04-4-interface-experience-changes-in-v0-27-0|4 Interface Experience changes in v0.27.0]]
+- Later: 2026-02-05 · Codex CLI · [[Changes/Codex CLI/2026-02-05-2-interface-experience-changes-in-rust-v0-97-0|2 Interface Experience changes in rust-v0.97.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

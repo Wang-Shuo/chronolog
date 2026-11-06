@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 49139add3359595595b215def4c195a795c692a44e773460c0e53136d8d3ef98
+machine_hash: b0d78e14ff1bf2e37645ba33c01c8314ebb79c96b815d7780614b1da8d25a03b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,12 +56,12 @@ record:
   title: Group chats in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-22-this-feature-will-initially-only-be-available-on-the-chatgpt-website-and-windows|This
-  feature will initially only be available on the ChatGPT website and Windows app]]'
-- '[[Changes/ChatGPT/2025-09-17-the-thinking-time-toggle-is-live-today-on-chatgpt-com-settings-you-choose-on-the|The
-  thinking-time toggle is live today on chatgpt.com]]'
-- '[[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-3f946e|Starting
-  today, project sharing is available to all ChatGPT users, including…]]'
+- '[[Changes/Codex CLI/2025-11-04-6124-fix-archive-conversation-on-windows-6124|♯6124
+  Fix "archive conversation" on Windows (♯6124)]]'
+- '[[Changes/Gemini CLI/2025-11-04-2-mobile-and-desktop-changes-in-v0-12-0|2 Mobile
+  and Desktop changes in v0.12.0]]'
+- '[[Changes/GitHub Copilot CLI/2025-11-12-ensure-commands-on-windows-use-powershell-when-available-fixes-https-github-com|Ensure
+  ! commands on Windows use PowerShell when available…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-13-group-chats-in-chatgpt-8a8193ad|chatgpt-2025-11-13-group-chats-in-chatgpt-8a8193ad]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-10-23 · ChatGPT · [[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-3f946e|Starting today, project sharing is available to all ChatGPT users, including…]]
-- Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-added-support-for-windows-package-manager-winget-installations-with-automatic-de|Added support for Windows Package Manager (winget) installations with automatic…]]
+- Earlier: 2025-11-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-12-ensure-commands-on-windows-use-powershell-when-available-fixes-https-github-com|Ensure ! commands on Windows use PowerShell when available…]]
+- Later: 2025-11-13 · Codex CLI · [[Changes/Codex CLI/2025-11-13-6387-for-npm-upgrade-on-windows-go-through-cmd-exe-to-get-path-traversal-working|♯6387 — For npm upgrade on Windows, go through cmd.exe to get path traversal working…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 58e8c3d38968ab0684e6b8cbf853315c144259745b0b9562f459f1c41af910b8
+machine_hash: 3d864230be5412b8180de6b05bc173a1ad3a384d96729b8438fd7b60bf844197
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     link, model…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-07-we-re-introducing-gpt-6-with-intelligent-ui-in-chatgpt-chatgpt-can-now-combine-t|GPT-6
-  and Intelligent UI in ChatGPT]]'
-- '[[Changes/Claude Code/2026-10-07-added-claude-haiku-5-5-claude-haiku-5-5-now-the-default-haiku-model-on-the-anthr|Added
-  Claude Haiku 5.5 (claude-haiku-5-5), now the default Haiku model…]]'
-- '[[Changes/Claude Code/2026-10-08-3-model-support-changes-in-v2-1-295|3 Model Support
-  changes in v2.1.295]]'
+- '[[Changes/Codex CLI/2026-10-08-11-model-support-changes-in-rust-v0-162-0|11 Model
+  Support changes in rust-v0.162.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-08-add-claude-haiku-5-5-to-model-selection-and-model-completions|Add
+  Claude Haiku 5.5 to model selection and --model completions]]'
+- '[[Changes/OpenHands/2026-10-08-test-e2e-launch-the-same-model-profile-test-from-the-beta-profile-by-enyst-in-ht|test(e2e):
+  launch the same-model profile test from the BETA profile]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a]]'
 source_type: github_releases
 theme: model-support
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-3-model-support-changes-in-v2-1-295|3 Model Support changes in v2.1.295]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-2-model-support-changes-in-v2-1-299|2 Model Support changes in v2.1.299]]
+- Earlier: 2026-10-08 · OpenHands · [[Changes/OpenHands/2026-10-08-test-e2e-launch-the-same-model-profile-test-from-the-beta-profile-by-enyst-in-ht|test(e2e): launch the same-model profile test from the BETA profile]]
+- Later: 2026-10-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-12-2-model-support-changes-in-v1-0-96|2 Model Support changes in v1.0.96]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 650dc8777a3fa9ca96554ea9f69367d0539bef90fc371053a5407d7428d4da3d
+machine_hash: ce77e36b19029f8656ee32c7ce220fe4e546531eb1f6ba7ddb83c08b57fa211e
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.260
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-02 · Cursor · [[Changes/Cursor/2026-09-02-cursor-supports-self-hosted-machines-which-let-you-keep-tool-execution-entirely|Cursor supports self-hosted machines, which let you keep tool execution entirely…]]
-- Later: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-2-agent-mode-changes-in-v2-1-261|2 Agent Mode changes in v2.1.261]]
+- Later: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-4-agent-mode-changes-in-rust-v0-153-0|4 Agent Mode changes in rust-v0.153.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

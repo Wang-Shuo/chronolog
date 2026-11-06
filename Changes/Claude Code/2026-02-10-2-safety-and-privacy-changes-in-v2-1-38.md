@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fe450dec0df4d151d6ac869beeeec4dac33cd0f336b8e46f7ad61314f333aa55
+machine_hash: db5a750653dacefd15b460e98e1e23954710d2d0abda94cfc6d8cb56e5542044
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Safety and Privacy changes in v2.1.38
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-30-permissions-now-respect-content-level-ask-over-tool-level-allow-previously-allow|Permissions
-  now respect content-level ask over tool-level allow]]'
-- '[[Changes/Claude Code/2026-02-03-fixed-permission-dialogs-stealing-focus-while-actively-typing|Fixed
-  permission dialogs stealing focus while actively typing]]'
+- '[[Changes/Codex CLI/2026-02-05-2-safety-and-privacy-changes-in-rust-v0-97-0|2 Safety
+  and Privacy changes in rust-v0.97.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-05-2-safety-and-privacy-changes-in-v0-0-403|2
+  Safety and Privacy changes in v0.0.403]]'
 - '[[Changes/Claude Code/2026-02-06-fixed-a-bug-where-commands-excluded-from-sandboxing-via-sandbox-excludedcommands|Fixed
   a bug where commands excluded from sandboxing…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-10-v2-1-38-github-284624259-26f7a748|claude-code-2026-02-10-v2-1-38-github-284624259-26f7a748]]'
@@ -82,7 +82,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.38
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-02-06 · Claude Code · [[Changes/Claude Code/2026-02-06-fixed-a-bug-where-commands-excluded-from-sandboxing-via-sandbox-excludedcommands|Fixed a bug where commands excluded from sandboxing…]]
-- Later: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-2-safety-and-privacy-changes-in-v2-1-41|2 Safety and Privacy changes in v2.1.41]]
+- Later: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-3-safety-and-privacy-changes-in-v0-28-0|3 Safety and Privacy changes in v0.28.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

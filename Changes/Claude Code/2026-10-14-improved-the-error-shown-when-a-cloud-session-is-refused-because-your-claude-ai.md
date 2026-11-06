@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 237f03eb952802d31ca045f0ca4742657e42a5fd26b63eced88852501cd0f0e5
+machine_hash: 86504f3daf1af2d4f9d63eaa5feef23ef2d55c9c444ab87a2f19380ae662f5b5
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Improved the error shown when a cloud session is refused because your claude.ai…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-05-3-account-and-access-changes-in-v2-1-290|3 Account
-  and Access changes in v2.1.290]]'
-- '[[Changes/Claude Code/2026-10-08-added-support-for-forceloginmethod-gateway-and-forcelogingatewayurl-in-your-own|Added
-  support for forceLoginMethod: "gateway" and forceLoginGatewayUrl…]]'
-- '[[Changes/Claude Code/2026-10-09-improved-the-errors-for-a-refused-cloud-session-they-now-say-why-your-organizati|Improved
-  the errors for a refused cloud session]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-12-2-account-and-access-changes-in-v1-0-96|2
+  Account and Access changes in v1.0.96]]'
+- '[[Changes/Cline/2026-10-13-2-account-and-access-changes-in-v4-1-24|2 Account and
+  Access changes in v4.1.24]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-13-power-bi-and-bluebird-mcp-servers-accept-their-published-resource-scopes-during|Power
+  BI and Bluebird MCP servers accept their published resource scopes during sign-in]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'
 source_type: github_releases
 theme: account-access
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-improved-the-errors-for-a-refused-cloud-session-they-now-say-why-your-organizati|Improved the errors for a refused cloud session]]
-- Later: 2026-10-16 · Claude Code · [[Changes/Claude Code/2026-10-16-added-a-notice-to-design-sync-and-design-login-that-standalone-claude-design-cla|Added a notice to /design-sync and /design-login that standalone Claude Design…]]
+- Earlier: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-power-bi-and-bluebird-mcp-servers-accept-their-published-resource-scopes-during|Power BI and Bluebird MCP servers accept their published resource scopes during sign-in]]
+- Later: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-53389-use-cached-login-credentials-for-guardian-decisions-swastik-oai|♯53389 Use cached login credentials for Guardian decisions @swastik-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

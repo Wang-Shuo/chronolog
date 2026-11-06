@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0a38bb7dfc3a1fef8a4d56e7c1d79f823777d717344199e158aeb85201ebe40d
+machine_hash: a29bf94456ee78a3f05b902db8bd4dea5d33743131cb48e225d7f78a9b7aa613
 product: cursor
 product_name: Cursor
 record:
@@ -41,8 +41,8 @@ record:
   title: Composer UI in the sidebar with inline diffs
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-08-22-we-have-a-new-chat-ux-excited-for-you-to-try-it-out-and-share-your-thoughts|We
-  have a new chat UX!]]'
+- '[[Changes/Aider/2024-11-21-improved-model-settings-configuration-https-aider-chat-docs-config-adv-model-set|Improved
+  model settings…]]'
 - '[[Changes/ChatGPT/2024-11-22-the-new-chat-button-has-been-moved-to-the-left-of-the-model-picker-to-be-easier|The
   new chat button has been moved to the left of the Model Picker to be easier to access]]'
 - '[[Changes/ChatGPT/2024-11-22-sidebar-redesign-e6413a|Sidebar redesign]]'
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-11-22 · ChatGPT · [[Changes/ChatGPT/2024-11-22-sidebar-redesign-e6413a|Sidebar redesign]]
-- Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface Experience changes in 0.46.x]]
+- Later: 2024-12-01 · Aider · [[Changes/Aider/2024-12-01-added-ctrl-up-down-keyboard-shortcuts-for-per-message-history-navigation|Added Ctrl-Up/Down keyboard shortcuts for per-message history navigation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

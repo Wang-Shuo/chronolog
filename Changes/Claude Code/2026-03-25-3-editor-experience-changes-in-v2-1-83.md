@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2e807c8475b8c1fdef1108985bf33e782f180868a90821c68398971fc8e35a14
+machine_hash: dfa4b3b7b0a0b99452f2df65fb9bc710cb995fc6cd35c29499cdbbc5799a8c3a
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Editor Experience changes in v2.1.83
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-10-vscode-added-vscode-anthropic-claude-code-open-uri-handler-to-open-a-new-claude|VSCode:
-  Added vscode://anthropic.claude-code/open URI handler to open a new Claude…]]'
-- '[[Changes/Claude Code/2026-03-17-vscode-improved-plan-preview-tab-titles-to-use-the-plan-s-heading-instead-of-cla|VSCode
-  Improved plan preview tab titles to use the plan''s heading instead…]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-18-mouse-scroll-works-correctly-in-tmux-after-returning-from-an-external-editor|Mouse
+  scroll works correctly in tmux after returning from an external editor]]'
 - '[[Changes/Claude Code/2026-03-19-improved-permissions-tab-and-arrow-keys-now-switch-tabs-from-within-a-list|Improved
   /permissions — Tab and arrow keys now switch tabs from within a list]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-20-elicitation-form-shows-shift-tab-hint-for-navigating-between-fields-in-reverse|Elicitation
+  form shows Shift+Tab hint for navigating between fields in reverse]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317|claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317]]'
 source_type: github_releases
 theme: editor-experience
@@ -92,8 +92,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.83
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-03-19 · Claude Code · [[Changes/Claude Code/2026-03-19-improved-permissions-tab-and-arrow-keys-now-switch-tabs-from-within-a-list|Improved /permissions — Tab and arrow keys now switch tabs from within a list]]
-- Later: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-added-jj-and-sl-to-vcs-directory-exclusion-lists-so-grep-and-file-autocomplete-d|Added .jj and .sl to VCS directory exclusion lists so Grep and file autocomplete…]]
+- Earlier: 2026-03-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-20-elicitation-form-shows-shift-tab-hint-for-navigating-between-fields-in-reverse|Elicitation form shows Shift+Tab hint for navigating between fields in reverse]]
+- Later: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-15480-use-shift-left-to-edit-queued-messages-in-tmux-charley-oai|♯15480 Use Shift+Left to edit queued messages in tmux @charley-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

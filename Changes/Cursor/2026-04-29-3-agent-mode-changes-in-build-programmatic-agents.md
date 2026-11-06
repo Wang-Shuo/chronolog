@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 617f861517819cf5ef88b0eb54e29a5c88ab5124fe601857c551cccc6fbb3a0e
+machine_hash: f9e84f58cb00e844911d2afae22b7c0c6ee63971690fe15195131f479fa89afa
 product: cursor
 product_name: Cursor
 record:
@@ -49,12 +49,12 @@ record:
   title: 3 Agent Mode changes in Build programmatic agents…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-24-this-release-introduces-a-new-way-to-multitask-with-async-subagents-an-improved|Cursor
-  introduces a new way to multitask with async subagents, an improved worktrees…]]'
-- '[[Changes/Cursor/2026-04-24-multitask-in-agents-window-9bc7ed|Multitask in Agents
-  Window]]'
 - '[[Changes/Claude Code/2026-04-28-2-agent-mode-changes-in-v2-1-121|2 Agent Mode
   changes in v2.1.121]]'
+- '[[Changes/Gemini CLI/2026-04-28-3-agent-mode-changes-in-v0-40-0|3 Agent Mode changes
+  in v0.40.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-28-press-ctrl-x-b-to-move-the-current-running-task-or-shell-command-to-the-backgrou|Press
+  ctrl+x → b to move the current running task or shell command to the background]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3|cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -92,8 +92,8 @@ Source: https://cursor.com/changelog/sdk-release
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-2-agent-mode-changes-in-v2-1-121|2 Agent Mode changes in v2.1.121]]
-- Later: 2026-05-04 · Claude Code · [[Changes/Claude Code/2026-05-04-auto-mode-when-the-classifier-can-t-evaluate-an-action-the-error-now-includes-a|Auto mode: when the classifier can't evaluate an action, the error now includes…]]
+- Earlier: 2026-04-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-28-press-ctrl-x-b-to-move-the-current-running-task-or-shell-command-to-the-backgrou|Press ctrl+x → b to move the current running task or shell command to the background]]
+- Later: 2026-04-29 · Windsurf · [[Changes/Windsurf/2026-04-29-devin-agent-in-windsurf|Devin Agent in Windsurf]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

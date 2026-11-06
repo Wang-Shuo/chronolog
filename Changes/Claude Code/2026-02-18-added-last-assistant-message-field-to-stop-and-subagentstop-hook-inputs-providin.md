@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aa29ff011ed8b4f2d2b8b17a9f44054de447438aff4e6b467fdb416b9e32d692
+machine_hash: 71f90cf2faa66ebda45ebda6476d90a6298161bdc8bc41747b14f1ea49e4c653
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     providing…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-06-added-plugin-name-to-skill-descriptions-and-skills-menu-for-better-discoverabili|Added
-  plugin name to skill descriptions and /skills menu for better discoverability]]'
-- '[[Changes/Claude Code/2026-02-17-2-apps-and-integrations-changes-in-v2-1-45|2 Apps
-  and Integrations changes in v2.1.45]]'
+- '[[Changes/Codex CLI/2026-02-17-11706-apps-expose-more-fields-from-apps-listing-endpoints-mzeng-openai|♯11706
+  apps Expose more fields from apps listing endpoints]]'
 - '[[Changes/Cursor/2026-02-17-plugins-on-the-cursor-marketplace-0cef65|Plugins on
   the Cursor Marketplace]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-17-2-apps-and-integrations-changes-in-v0-0-411|2
+  Apps and Integrations changes in v0.0.411]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931|claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931]]'
 source_type: github_releases
 theme: apps-integrations
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-17 · Cursor · [[Changes/Cursor/2026-02-17-plugins-on-the-cursor-marketplace-0cef65|Plugins on the Cursor Marketplace]]
+- Earlier: 2026-02-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-17-2-apps-and-integrations-changes-in-v0-0-411|2 Apps and Integrations changes in v0.0.411]]
 - Later: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-3-apps-and-integrations-changes-in-cli-improvements-and-mermaid-ascii|3 Apps and Integrations changes in CLI Improvements and Mermaid ASCII…]]
 <!-- chronolog:end -->
 

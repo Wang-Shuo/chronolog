@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0a01a9acf7dd1ff06e447c09bfb4cd985bf35e0815855ef6dd192085526a54b7
+machine_hash: 1406d1b00888fbd0346992c9c14f45248907d8aa8489f6d73f3f246474661352
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,12 +51,12 @@ record:
   title: Added plugin name to skill descriptions and `/skills` menu for better discoverability
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-27-changed-the-commit-push-pr-skill-to-automatically-post-pr-urls-to-slack-channels|Changed
-  the /commit-push-pr skill to automatically post PR URLs to Slack channels…]]'
-- '[[Changes/Claude Code/2026-01-30-vscode-enabled-claude-in-chrome-integration|VSCode:
-  Enabled Claude in Chrome integration]]'
-- '[[Changes/Claude Code/2026-02-05-skills-defined-in-claude-skills-within-additional-directories-add-dir-are-now-lo|Skills
-  defined in .claude/skills/ within additional directories (--add-dir)…]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-05-plugin-and-marketplace-names-support-uppercase-letters|Plugin
+  and marketplace names support uppercase letters]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-05-2-apps-and-integrations-changes-in-v0-0-404|2
+  Apps and Integrations changes in v0.0.404]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-05-2-apps-and-integrations-changes-in-v0-0-403|2
+  Apps and Integrations changes in v0.0.403]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0|claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0]]'
 source_type: github_releases
 theme: apps-integrations
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-05 · Claude Code · [[Changes/Claude Code/2026-02-05-skills-defined-in-claude-skills-within-additional-directories-add-dir-are-now-lo|Skills defined in .claude/skills/ within additional directories (--add-dir)…]]
-- Later: 2026-02-17 · Claude Code · [[Changes/Claude Code/2026-02-17-2-apps-and-integrations-changes-in-v2-1-45|2 Apps and Integrations changes in v2.1.45]]
+- Earlier: 2026-02-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-05-2-apps-and-integrations-changes-in-v0-0-403|2 Apps and Integrations changes in v0.0.403]]
+- Later: 2026-02-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-07-4-apps-and-integrations-changes-in-v0-0-406|4 Apps and Integrations changes in v0.0.406]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

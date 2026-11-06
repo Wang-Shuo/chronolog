@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: expansion
-machine_hash: 6d7890b1fd1b5516bd241798924405bc57f9aaaecd302befb9e2f5e8d63389f7
+machine_hash: c35ea886fa5d644050911e2d774302d4fbe2c32a4fe840dc85eca27e4e6bc11e
 product: cursor
 product_name: Cursor
 record:
@@ -50,12 +50,12 @@ record:
   title: Cursor is now available in IntelliJ IDEA, PyCharm, WebStorm, and other JetBrains…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-26-autofix-runs-cloud-agents-on-their-own-machines-to-test-changes-and-propose-fixe|Autofix
-  runs cloud agents on their own machines to test changes and propose fixes…]]'
-- '[[Changes/Claude Code/2026-02-28-added-http-hooks-which-can-post-json-to-a-url-and-receive-json-instead-of-runnin|Added
-  HTTP hooks, which can POST JSON to a URL and receive JSON instead of running…]]'
-- '[[Changes/Cursor/2026-03-03-improved-reliability-for-longer-running-agent-sessions|Improved
-  reliability for longer-running agent sessions]]'
+- '[[Changes/Gemini CLI/2026-03-03-3-agent-mode-changes-in-v0-32-0|3 Agent Mode changes
+  in v0.32.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-03-shell-command-output-on-windows-no-longer-renders-as-no-changes-detected-in-the|Shell
+  command output on Windows no longer renders as "No changes detected" in the timeline]]'
+- '[[Changes/Cline/2026-03-04-subagent-stream-retry-delay-increased-to-reduce-noise-from-transient-failures|Subagent
+  stream retry delay increased to reduce noise from transient failures]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-04-cursor-in-jetbrains-ides-https-cursor-com-changelog-03-04-26-59bae4c8|cursor-2026-03-04-cursor-in-jetbrains-ides-https-cursor-com-changelog-03-04-26-59bae4c8]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-improved-reliability-for-longer-running-agent-sessions|Improved reliability for longer-running agent sessions]]
+- Earlier: 2026-03-04 · Cline · [[Changes/Cline/2026-03-04-subagent-stream-retry-delay-increased-to-reduce-noise-from-transient-failures|Subagent stream retry delay increased to reduce noise from transient failures]]
 - Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-2-agent-mode-changes-in-v2-1-69|2 Agent Mode changes in v2.1.69]]
 <!-- chronolog:end -->
 

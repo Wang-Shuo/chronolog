@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 3b1ec20635802df47f8f24af2b57b0028dce4ea72634914ff73fe2539a822d7c
+machine_hash: d71e14155e1e0193a994be9b3b9259395af0bd3eb908272f7ba381f225bee9c3
 product: cursor
 product_name: Cursor
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2023-03-27 · Cursor · [[Changes/Cursor/2023-03-27-adds-an-optional-paid-plan-if-you-d-like-to-avoid-the-server-capacity-rate-limit|Adds an optional paid plan if you'd like to avoid the server capacity rate limits]]
-- Later: 2023-11-03 · Cursor · [[Changes/Cursor/2023-11-03-pro-plan-if-you-hit-your-fast-request-limit-and-prefer-to-purchase-more-you-now|Pro++ plan: if you hit your fast request limit and prefer to purchase more, you now can]]
+- Later: 2023-06-25 · Aider · [[Changes/Aider/2023-06-25-enables-display-of-cost-info-based-on-openai-advertised-pricing|Enables display of cost info based on OpenAI advertised pricing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

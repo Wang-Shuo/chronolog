@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1cf2f7ce2114718a4ae3fcc2bf85a8271d75c6693ee54b82928f54dcc70857aa
+machine_hash: 767ed88cf8686aa07fe206bc5cf580377a8a395682faa09e974b3f6693887f36
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,12 +57,12 @@ record:
   title: Added `pluginSuggestionMarketplaces` managed setting
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-improved-the-read-tool-to-return-a-truncated-first-page-with-a-partial-view-noti|Improved
-  the Read tool to return a truncated first page with a "PARTIAL view" notice…]]'
-- '[[Changes/Claude Code/2026-05-19-the-post-survey-follow-up-hint-now-appears-after-every-non-dismiss-survey-respon|The
-  post-survey follow-up hint now appears after every non-dismiss survey response…]]'
-- '[[Changes/Claude Code/2026-05-22-improved-feedback-reports-to-include-the-conversation-that-happened-before-conte|Improved
-  /feedback reports to include the conversation that happened before…]]'
+- '[[Changes/Gemini CLI/2026-05-22-3-context-window-changes-in-v0-43-0|3 Context Window
+  changes in v0.43.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-23-4-context-window-changes-in-v1-0-52|4 Context
+  Window changes in v1.0.52]]'
+- '[[Changes/Codex CLI/2026-05-26-5-context-window-changes-in-rust-v0-134-0|5 Context
+  Window changes in rust-v0.134.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850|claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850]]'
 source_type: github_releases
 theme: context-window
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-05-22 · Claude Code · [[Changes/Claude Code/2026-05-22-improved-feedback-reports-to-include-the-conversation-that-happened-before-conte|Improved /feedback reports to include the conversation that happened before…]]
+- Earlier: 2026-05-26 · Codex CLI · [[Changes/Codex CLI/2026-05-26-5-context-window-changes-in-rust-v0-134-0|5 Context Window changes in rust-v0.134.0]]
 - Later: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-claude-now-reserves-the-multiple-choice-question-prompt-for-decisions-it-genuine|Claude now reserves the multiple-choice question prompt for decisions it genuinely…]]
 <!-- chronolog:end -->
 

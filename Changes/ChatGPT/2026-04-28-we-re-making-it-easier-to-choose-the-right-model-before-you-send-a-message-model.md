@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 79cdcc0134986bbc458273c55581d470d30d67b54983be3bb22fa7d8ea1a3c0a
+machine_hash: e62159e3c81438868e8cf1da4d294886c68455d79fe5369087d3cd19569b5e0b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,12 +63,12 @@ record:
   title: Easier model selection in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-16-3-model-support-changes-in-v2-1-111|3 Model Support
-  changes in v2.1.111]]'
-- '[[Changes/Claude Code/2026-04-16-auto-mode-is-now-available-for-max-subscribers-when-using-opus-4-7|Auto
-  mode is now available for Max subscribers when using Opus 4.7]]'
-- '[[Changes/Claude Code/2026-04-22-2-model-support-changes-in-v2-1-117|2 Model Support
-  changes in v2.1.117]]'
+- '[[Changes/Codex CLI/2026-04-24-5-model-support-changes-in-rust-v0-125-0|5 Model
+  Support changes in rust-v0.125.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-24-claude-opus-4-6-now-uses-medium-reasoning-effort-by-default|Claude
+  Opus 4.6 now uses medium reasoning effort by default]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-27-2-model-support-changes-in-v1-0-37|2 Model
+  Support changes in v1.0.37]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-28-easier-model-selection-in-chatgpt-f4badb6d|chatgpt-2026-04-28-easier-model-selection-in-chatgpt-f4badb6d]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-2-model-support-changes-in-v2-1-117|2 Model Support changes in v2.1.117]]
+- Earlier: 2026-04-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-27-2-model-support-changes-in-v1-0-37|2 Model Support changes in v1.0.37]]
 - Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-opentelemetry-added-stop-reason-gen-ai-response-finish-reasons-and-user-system-p|OpenTelemetry: added stop_reason, gen_ai.response.finish_reasons…]]
 <!-- chronolog:end -->
 

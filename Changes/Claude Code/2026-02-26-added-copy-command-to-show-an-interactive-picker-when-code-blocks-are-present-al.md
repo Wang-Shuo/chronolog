@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f329834fe85341a51d2ff60ef6593614a672c1e02e762b86709254b944ecf3db
+machine_hash: 3bb1452e571e61a571279d83251cbc374772ea05bc55e306a971136b9082a29e
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
     present…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-18-2-interface-experience-changes-in-cli-improvements-and-mermaid-ascii|2
-  Interface Experience changes in CLI Improvements and Mermaid ASCII…]]'
-- '[[Changes/Cursor/2026-02-18-this-release-introduces-the-ability-to-hand-off-plans-from-the-cli-to-the-cloud|Cursor
-  introduces the ability to hand off plans from the CLI to the cloud, in-line…]]'
+- '[[Changes/Codex CLI/2026-02-25-8-interface-experience-changes-in-rust-v0-105-0|8
+  Interface Experience changes in rust-v0.105.0]]'
+- '[[Changes/Gemini CLI/2026-02-25-perf-ui-optimize-table-rendering-by-memoizing-styled-characters-by-devr0306-in-h|perf(ui):
+  optimize table rendering by memoizing styled characters]]'
 - '[[Changes/Claude Code/2026-02-26-improved-ordering-of-short-task-lists|Improved
   ordering of short task lists]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-26-v2-1-59-github-290659389-9e2d6217|claude-code-2026-02-26-v2-1-59-github-290659389-9e2d6217]]'
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-this-release-introduces-the-ability-to-hand-off-plans-from-the-cli-to-the-cloud|Cursor introduces the ability to hand off plans from the CLI to the cloud, in-line…]]
-- Later: 2026-02-27 · ChatGPT · [[Changes/ChatGPT/2026-02-27-automatic-scroll-to-latest-message-existing-conversations-now-automatically-scro|Automatic scroll to latest message]]
+- Earlier: 2026-02-25 · Gemini CLI · [[Changes/Gemini CLI/2026-02-25-perf-ui-optimize-table-rendering-by-memoizing-styled-characters-by-devr0306-in-h|perf(ui): optimize table rendering by memoizing styled characters]]
+- Later: 2026-02-26 · Codex CLI · [[Changes/Codex CLI/2026-02-26-improved-tui-local-file-link-rendering-to-hide-absolute-paths-while-preserving-v|Improved TUI local file-link rendering to hide absolute paths while preserving…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

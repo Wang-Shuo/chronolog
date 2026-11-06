@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 602fab490f5a810362b5f7971e5e9c37e297333020a71931248a6c788854a56b
+machine_hash: a2fec1369ea1137ba8988e0bccc5830a86a642651b03eb418f53964560e3341c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,8 +64,8 @@ record:
     systems…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-05-15-refreshed-inline-edit-cmd-ctrl-k-with-agent-integration|Refreshed
-  Inline Edit (Cmd/Ctrl+K) with Agent integration]]'
+- '[[Changes/OpenHands/2025-06-01-2-apps-and-integrations-changes-in-0-40-0|2 Apps
+  and Integrations changes in 0.40.0]]'
 - '[[Changes/ChatGPT/2025-06-04-supported-connectors-google-drive-sharepoint-dropbox-box-outlook-gmail-google-ca|Supported
   connectors: Google Drive, SharePoint, Dropbox, Box, Outlook, Gmail, Google…]]'
 - '[[Changes/ChatGPT/2025-06-04-admin-published-connectors-appear-in-the-connector-list-for-all-users|Admin-published
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-06-04 · ChatGPT · [[Changes/ChatGPT/2025-06-04-supported-connectors-google-drive-sharepoint-dropbox-box-outlook-gmail-google-ca|Supported connectors: Google Drive, SharePoint, Dropbox, Box, Outlook, Gmail, Google…]]
-- Later: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-agents-understand-context-6b73fc|Agents understand context]]
+- Later: 2025-06-05 · Cline · [[Changes/Cline/2025-06-05-add-support-for-streamable-mcp-servers|Add support for streamable MCP servers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

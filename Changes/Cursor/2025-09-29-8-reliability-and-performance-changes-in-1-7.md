@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 241249ba5422a35bcf973ed1900a675dd3c794a206a48922e877fcf8d253a319
+machine_hash: 56f2f659605600ca8931f9c28daecf3c39ff17307e097e03731e30c2983b292d
 product: cursor
 product_name: Cursor
 record:
@@ -56,12 +56,12 @@ record:
   title: 8 Reliability and Performance changes in 1.7
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-21-1-5-5-general-stability-improvements-and-bug-fixes-to-enhance-overall-applicatio|1.5.5:
-  General stability improvements and bug fixes to enhance overall application…]]'
-- '[[Changes/Cursor/2025-09-12-5-reliability-and-performance-changes-in-1-6|5 Reliability
-  and Performance changes in 1.6]]'
 - '[[Changes/ChatGPT/2025-09-17-2-reliability-and-performance-changes-in-toggle-thinking-time-in-the-message|2
   Reliability and Performance changes in Toggle thinking time in the message…]]'
+- '[[Changes/Gemini CLI/2025-09-24-feat-add-cached-string-width-function-for-performance-optimization-by-jacob314-i|feat:
+  add cached string width function for performance optimization]]'
+- '[[Changes/Codex CLI/2025-09-26-stability-and-correctness-token-usage-fix-for-compaction-sse-mounting-reliabilit|Stability
+  and correctness]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -124,8 +124,8 @@ Source: https://cursor.com/changelog/1-7
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-09-17 · ChatGPT · [[Changes/ChatGPT/2025-09-17-2-reliability-and-performance-changes-in-toggle-thinking-time-in-the-message|2 Reliability and Performance changes in Toggle thinking time in the message…]]
-- Later: 2025-10-23 · ChatGPT · [[Changes/ChatGPT/2025-10-23-group-work-upload-notes-proposals-and-contracts-so-collaborators-can-draft-deliv|Group work: Upload notes, proposals, and contracts so collaborators can draft…]]
+- Earlier: 2025-09-26 · Codex CLI · [[Changes/Codex CLI/2025-09-26-stability-and-correctness-token-usage-fix-for-compaction-sse-mounting-reliabilit|Stability and correctness]]
+- Later: 2025-09-29 · Windsurf · [[Changes/Windsurf/2025-09-29-devin-features-in-windsurf-stability-improvements-and-a-brand-new-ui|Devin features in Windsurf, stability improvements, and a brand new UI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

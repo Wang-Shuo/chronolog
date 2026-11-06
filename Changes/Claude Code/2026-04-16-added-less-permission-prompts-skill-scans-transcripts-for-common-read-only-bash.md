@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 52d9a4eb117aa153cd0cf6681c67dd63c7f37b2203c96623498265ac4ae996b7
+machine_hash: d9bb052e70ee28fecc199e727ca79898004153c5d6f99fbbcbf07cc73ead60c7
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Added `/less-permission-prompts` skill
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-10-fixed-a-command-injection-vulnerability-in-the-posix-which-fallback-used-by-lsp|Fixed
-  a command injection vulnerability in the POSIX which fallback used by LSP…]]'
-- '[[Changes/Claude Code/2026-04-13-fixed-bash-tool-suggesting-acceptedits-permission-mode-when-exiting-plan-mode-wo|Fixed
-  Bash tool suggesting acceptEdits permission mode when exiting plan mode…]]'
-- '[[Changes/Claude Code/2026-04-14-2-safety-and-privacy-changes-in-v2-1-108|2 Safety
-  and Privacy changes in v2.1.108]]'
+- '[[Changes/Gemini CLI/2026-04-14-3-safety-and-privacy-changes-in-v0-38-0|3 Safety
+  and Privacy changes in v0.38.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-14-permission-prompt-notification-hook-only-fires-when-a-prompt-is-actually-shown-t|Permission
+  prompt notification hook only fires when a prompt is actually shown to the user]]'
+- '[[Changes/Codex CLI/2026-04-15-10-safety-and-privacy-changes-in-rust-v0-121-0|10
+  Safety and Privacy changes in rust-v0.121.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'
 source_type: github_releases
 theme: safety-privacy
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-04-14 · Claude Code · [[Changes/Claude Code/2026-04-14-2-safety-and-privacy-changes-in-v2-1-108|2 Safety and Privacy changes in v2.1.108]]
-- Later: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-6-safety-and-privacy-changes-in-v2-1-113|6 Safety and Privacy changes in v2.1.113]]
+- Earlier: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-10-safety-and-privacy-changes-in-rust-v0-121-0|10 Safety and Privacy changes in rust-v0.121.0]]
+- Later: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-2-safety-and-privacy-changes-in-v1-0-28|2 Safety and Privacy changes in v1.0.28]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

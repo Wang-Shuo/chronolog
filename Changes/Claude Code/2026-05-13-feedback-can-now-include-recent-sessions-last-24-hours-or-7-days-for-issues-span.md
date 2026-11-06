@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3759c80b685c7e2ad1ff6c3db1e75748dcbfb70d787e5199499abfa65c7efe7f
+machine_hash: ecf658cdebfb6f94e489aff1ad5f5639fded023bf2bfde5b4ba4902ce8748ddd
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     issues…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-14-added-n-name-name-cli-flag-to-set-a-display-name-for-the-session-at-startup|Added
-  -n / --name name CLI flag to set a display name for the session at startup]]'
-- '[[Changes/Claude Code/2026-04-07-improved-resume-to-resume-sessions-from-other-worktrees-of-the-same-repo-directl|Improved
-  --resume to resume sessions from other worktrees of the same repo…]]'
 - '[[Changes/Claude Code/2026-05-01-added-claude-project-purge-path-to-delete-all-claude-code-state-for-a-project-tr|-
   Added claude project purge path to delete all Claude Code state for a project…]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-01-session-history-file-tracking-and-the-chronicle-command-are-now-available-to-all|Session
+  history, file tracking, and the /chronicle command are now available to all users]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-01-session-resume-selector-displays-summaries-on-a-single-line-truncated-to-fit-the|Session
+  resume selector displays summaries on a single line, truncated to fit…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'
 source_type: github_releases
 theme: projects-workspaces
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-added-claude-project-purge-path-to-delete-all-claude-code-state-for-a-project-tr|- Added claude project purge path to delete all Claude Code state for a project…]]
+- Earlier: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-session-resume-selector-displays-summaries-on-a-single-line-truncated-to-fit-the|Session resume selector displays summaries on a single line, truncated to fit…]]
 - Later: 2026-05-14 · ChatGPT · [[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|Codex remote access from the ChatGPT mobile app]]
 <!-- chronolog:end -->
 

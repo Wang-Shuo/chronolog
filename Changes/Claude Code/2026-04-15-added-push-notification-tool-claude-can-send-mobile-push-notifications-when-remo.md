@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 97af59612ef8b46e4315a42044b19961797899e3324b027a5b76b8c984fa9071
+machine_hash: a857b1f3e37b834e9d7c2433801213f522a7725d55366a4346db11458513075f
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: Added push notification tool
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-01-powershell-tool-on-windows-external-command-arguments-containing-both-a-double-q|PowerShell
-  tool on Windows]]'
 - '[[Changes/ChatGPT/2026-04-02-we-re-rolling-out-chatgpt-in-carplay-giving-you-access-to-a-hands-free-chatgpt-e|ChatGPT
   in Apple CarPlay]]'
+- '[[Changes/Codex CLI/2026-04-10-6-mobile-and-desktop-changes-in-rust-v0-119-0|6
+  Mobile and Desktop changes in rust-v0.119.0]]'
 - '[[Changes/Cursor/2026-04-13-on-macos-text-is-now-rendered-with-anti-aliasing-producing-sharper-character-edg|On
   macOS, text is now rendered with anti-aliasing, producing sharper character edges]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59|claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59]]'
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-04-13 · Cursor · [[Changes/Cursor/2026-04-13-on-macos-text-is-now-rendered-with-anti-aliasing-producing-sharper-character-edg|On macOS, text is now rendered with anti-aliasing, producing sharper character edges]]
-- Later: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-windows-powershell-tool-is-progressively-rolling-out-opt-in-or-out-with-claude-c|Windows: PowerShell tool is progressively rolling out]]
+- Later: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-17414-fix-thread-list-cwd-filtering-for-windows-verbatim-paths-etraut-openai|♯17414 Fix thread/list cwd filtering for Windows verbatim paths @etraut-openai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

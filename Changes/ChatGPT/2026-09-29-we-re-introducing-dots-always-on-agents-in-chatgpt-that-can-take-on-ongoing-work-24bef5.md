@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e0d315ef4313af19e1a955f639782ff0a8799366bac7f2c326d5a877eda694d4
+machine_hash: 0c0f3cb5e8903fefc4e512582c299193c209e3c8c98654dd1a6cb07119e3bd9a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,12 +54,12 @@ record:
   title: ChatGPT introduces dots
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-24-2-agent-mode-changes-in-v2-1-282|2 Agent Mode
-  changes in v2.1.282]]'
-- '[[Changes/Claude Code/2026-09-25-improved-startup-claude-p-and-claude-code-remote-no-longer-load-the-interactive|Improved
-  startup: claude -p and Claude Code Remote no longer load the interactive…]]'
 - '[[Changes/Claude Code/2026-09-28-added-a-yes-but-ask-again-next-time-answer-to-auto-mode-s-prompt-before-a-read-o|Added
   a "Yes, but ask again next time" answer to auto mode''s prompt before a read…]]'
+- '[[Changes/Codex CLI/2026-09-28-11-agent-mode-changes-in-rust-v0-158-0|11 Agent
+  Mode changes in rust-v0.158.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-28-queue-exit-commands-while-an-agent-response-is-still-running|Queue
+  exit commands while an agent response is still running]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-meet-your-dot-8b9f914b|chatgpt-2026-09-29-meet-your-dot-8b9f914b]]'
 source_type: chatgpt_changelog
 theme: agent-mode
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-added-a-yes-but-ask-again-next-time-answer-to-auto-mode-s-prompt-before-a-read-o|Added a "Yes, but ask again next time" answer to auto mode's prompt before a read…]]
+- Earlier: 2026-09-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-28-queue-exit-commands-while-an-agent-response-is-still-running|Queue exit commands while an agent response is still running]]
 - Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-2-agent-mode-changes-in-v2-1-285|2 Agent Mode changes in v2.1.285]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 31e32e04818c3cbddff52e12cbb8daf76b79f79d4247b9178590ee6114320cb0
+machine_hash: 9b3ceb4b6a807b690381b7b3ec77bb98f3a8819848ca872b32763d30aad08153
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,10 @@ record:
   title: 3 Safety and Privacy changes in v2.1.238
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-17-8-safety-and-privacy-changes-in-v2-1-234|8 Safety
-  and Privacy changes in v2.1.234]]'
 - '[[Changes/Claude Code/2026-08-18-2-safety-and-privacy-changes-in-v2-1-235|2 Safety
   and Privacy changes in v2.1.235]]'
+- '[[Changes/Codex CLI/2026-08-18-17-safety-and-privacy-changes-in-rust-v0-148-0|17
+  Safety and Privacy changes in rust-v0.148.0]]'
 - '[[Changes/Claude Code/2026-08-19-2-safety-and-privacy-changes-in-v2-1-236|2 Safety
   and Privacy changes in v2.1.236]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2|claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2]]'
@@ -96,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.238
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-2-safety-and-privacy-changes-in-v2-1-236|2 Safety and Privacy changes in v2.1.236]]
-- Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-fixed-fullscreen-mode-answering-a-permission-prompt-or-pressing-a-button-when-yo|Fixed fullscreen mode answering a permission prompt or pressing a button when you…]]
+- Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-18-safety-and-privacy-changes-in-rust-v0-149-0|18 Safety and Privacy changes in rust-v0.149.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

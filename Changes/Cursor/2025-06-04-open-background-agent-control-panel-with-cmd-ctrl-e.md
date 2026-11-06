@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: b15b2e6941984b500be96c1acace769f00f85aff1f4c83c200f3e10800b7cb19
+machine_hash: da5f88b283f0dae4ac117652d7acaf8ac4fcf639c32874065ba49aff61cd78a5
 product: cursor
 product_name: Cursor
 record:
@@ -43,11 +43,11 @@ record:
   title: Open Background Agent control panel with Cmd/Ctrl+E
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-04-15-reviewing-agent-generated-code-is-now-easier-with-a-built-in-diff-view-at-the-en|Making
-  reviews easier]]'
 - '[[Changes/Cursor/2025-05-15-fast-edits-for-long-files-with-agent|Fast edits for
   long files with Agent]]'
 - '[[Changes/Cursor/2025-05-15-background-agent-preview|Background Agent (Preview)]]'
+- '[[Changes/OpenHands/2025-05-20-2-agent-mode-changes-in-0-39-0|2 Agent Mode changes
+  in 0.39.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-background-agent-preview|Background Agent (Preview)]]
-- Later: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-you-can-now-launch-background-agents-directly-from-slack-by-mentioning-cursor-ag|Launch Background Agents directly from Slack by mentioning @Cursor]]
+- Earlier: 2025-05-20 · OpenHands · [[Changes/OpenHands/2025-05-20-2-agent-mode-changes-in-0-39-0|2 Agent Mode changes in 0.39.0]]
+- Later: 2025-06-10 · OpenHands · [[Changes/OpenHands/2025-06-10-ensured-prs-opened-by-agent-is-properly-tracked-in-conversation-metadata-by-malh|Ensured PRs opened by agent is properly tracked in conversation metadata]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

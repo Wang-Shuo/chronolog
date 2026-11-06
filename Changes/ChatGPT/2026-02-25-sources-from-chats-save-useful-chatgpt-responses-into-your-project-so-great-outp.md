@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eb90a0f3ad1348a0782036d65579dbae302a6fb34ca4a5629b9a071840741360
+machine_hash: 4a7907b732d49702695014d5a4042fef7a21ab1778e3cc910c3cb6b2d3e75e5b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,10 +46,10 @@ record:
   title: Sources from chats
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-30-added-from-pr-flag-to-resume-sessions-linked-to-a-specific-github-pr-number-or-u|Added
-  --from-pr flag to resume sessions linked to a specific GitHub PR number or URL]]'
-- '[[Changes/Claude Code/2026-02-04-added-session-resume-hint-on-exit-showing-how-to-continue-your-conversation-late|Added
-  session resume hint on exit, showing how to continue your conversation later]]'
+- '[[Changes/Gemini CLI/2026-02-10-feat-acp-add-session-resume-support-by-bdmorgan-in-https-github-com-google-gemin|feat(acp):
+  add session resume support]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-14-exit-from-alt-screen-no-longer-replays-full-session-history|Exit
+  from alt-screen no longer replays full session history]]'
 - '[[Changes/Claude Code/2026-02-17-improved-startup-performance-by-removing-eager-loading-of-session-history-for-st|Improved
   startup performance by removing eager loading of session history for stats…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292|chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Projects and Workspaces
 
 - Earlier: 2026-02-17 · Claude Code · [[Changes/Claude Code/2026-02-17-improved-startup-performance-by-removing-eager-loading-of-session-history-for-st|Improved startup performance by removing eager loading of session history for stats…]]
-- Later: 2026-03-06 · Claude Code · [[Changes/Claude Code/2026-03-06-improved-rename-to-work-while-claude-is-processing-instead-of-being-silently-que|Improved /rename to work while Claude is processing, instead of being silently queued]]
+- Later: 2026-02-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-27-add-chronicle-command-with-standup-tips-and-improve-subcommands-powered-by-sessi|Add /chronicle command with standup, tips, and improve subcommands powered…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

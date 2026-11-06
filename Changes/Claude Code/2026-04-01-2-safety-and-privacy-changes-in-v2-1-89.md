@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6dbb1c325aeda1df6cefa5ecc622c85a711e4fa5813d2e3cd40c304b758400c6
+machine_hash: 5152960c55da9fb868e3bcf1de3e3c170debf06ec0eef6e645c98347f855fe59
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Safety and Privacy changes in v2.1.89
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-fixed-the-allow-claude-to-edit-its-own-settings-for-this-session-permission-opti|Fixed
-  the "allow Claude to edit its own settings for this session" permission option…]]'
-- '[[Changes/Claude Code/2026-03-26-2-safety-and-privacy-changes-in-v2-1-85|2 Safety
-  and Privacy changes in v2.1.85]]'
-- '[[Changes/Claude Code/2026-03-27-fixed-official-marketplace-plugin-scripts-failing-with-permission-denied-on-maco|Fixed
-  official marketplace plugin scripts failing…]]'
+- '[[Changes/OpenHands/2026-03-30-added-clear-command-for-v1-conversations-typing-clear-in-the-chat-creates-a-new|Added
+  /clear command for V1 conversations]]'
+- '[[Changes/Codex CLI/2026-03-31-7-safety-and-privacy-changes-in-rust-v0-118-0|7
+  Safety and Privacy changes in rust-v0.118.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-31-2-safety-and-privacy-changes-in-v1-0-14|2
+  Safety and Privacy changes in v1.0.14]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-89-github-303967782-358023f0|claude-code-2026-04-01-v2-1-89-github-303967782-358023f0]]'
 source_type: github_releases
 theme: safety-privacy
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.89
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-fixed-official-marketplace-plugin-scripts-failing-with-permission-denied-on-maco|Fixed official marketplace plugin scripts failing…]]
+- Earlier: 2026-03-31 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-31-2-safety-and-privacy-changes-in-v1-0-14|2 Safety and Privacy changes in v1.0.14]]
 - Later: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-4-safety-and-privacy-changes-in-v2-1-90|4 Safety and Privacy changes in v2.1.90]]
 <!-- chronolog:end -->
 

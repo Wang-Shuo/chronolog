@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 710afb03851332df5602c0bef91cd52797b9be7217d2854b655e459cb5b90b80
+machine_hash: dfe3e5ba57658a712a5b976b290a5ed5e730892fe69b8db9946e15143adff785
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,12 +50,12 @@ record:
   title: 4 Developer Workflow changes in v2.1.89
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-5-developer-workflow-changes-in-v2-1-84|5 Developer
-  Workflow changes in v2.1.84]]'
-- '[[Changes/Claude Code/2026-03-26-improved-powershell-dangerous-command-detection|Improved
-  PowerShell dangerous command detection]]'
-- '[[Changes/Claude Code/2026-03-27-added-x-claude-code-session-id-header-to-api-requests-so-proxies-can-aggregate-r|Added
-  X-Claude-Code-Session-Id header to API requests so proxies can aggregate…]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-30-2-developer-workflow-changes-in-v1-0-13|2
+  Developer Workflow changes in v1.0.13]]'
+- '[[Changes/Codex CLI/2026-03-31-3-developer-workflow-changes-in-rust-v0-118-0|3
+  Developer Workflow changes in rust-v0.118.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-31-4-developer-workflow-changes-in-v1-0-14|4
+  Developer Workflow changes in v1.0.14]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-89-github-303967782-358023f0|claude-code-2026-04-01-v2-1-89-github-303967782-358023f0]]'
 source_type: github_releases
 theme: developer-workflow
@@ -100,8 +100,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.89
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-added-x-claude-code-session-id-header-to-api-requests-so-proxies-can-aggregate-r|Added X-Claude-Code-Session-Id header to API requests so proxies can aggregate…]]
-- Later: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-2-developer-workflow-changes-in-3-0|2 Developer Workflow changes in 3.0]]
+- Earlier: 2026-03-31 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-31-4-developer-workflow-changes-in-v1-0-14|4 Developer Workflow changes in v1.0.14]]
+- Later: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-3-developer-workflow-changes-in-v0-36-0|3 Developer Workflow changes in v0.36.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

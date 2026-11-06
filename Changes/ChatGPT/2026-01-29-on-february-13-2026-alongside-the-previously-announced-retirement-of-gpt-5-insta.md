@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 2f8df7d9add3775bb53d27366748ddb1c7cfa728cac52f6e9e19dc4032783b79
+machine_hash: f2cb5e4922e2f4c8439988d8c0f2ef1cb65d343fd181260c3920329ff471cd6a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,12 +49,12 @@ record:
   title: Retiring GPT-4o and other legacy models
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|Rolling
-  out age prediction]]'
-- '[[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|5.2
-  Personality System Prompt Update]]'
-- '[[Changes/Cursor/2026-01-22-added-max-mode-on-off-to-toggle-max-mode-on-models-that-support-it-in-cli|Added
-  /max-mode on / off to toggle max mode on models that support it in CLI]]'
+- '[[Changes/Codex CLI/2026-01-27-2-model-support-changes-in-rust-v0-92-0|2 Model
+  Support changes in rust-v0.92.0]]'
+- '[[Changes/Cline/2026-01-28-2-model-support-changes-in-v3-55-0|2 Model Support changes
+  in v3.55.0]]'
+- '[[Changes/Gemini CLI/2026-01-28-4-model-support-changes-in-v0-26-0|4 Model Support
+  changes in v0.26.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-29-retiring-gpt-4o-and-other-legacy-models-71b41b16|chatgpt-2026-01-29-retiring-gpt-4o-and-other-legacy-models-71b41b16]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-added-max-mode-on-off-to-toggle-max-mode-on-models-that-support-it-in-cli|Added /max-mode on / off to toggle max mode on models that support it in CLI]]
-- Later: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-changed-model-to-execute-immediately-instead-of-being-queued|Changed /model to execute immediately instead of being queued]]
+- Earlier: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-4-model-support-changes-in-v0-26-0|4 Model Support changes in v0.26.0]]
+- Later: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models|_LiteLLM: Fixed thinking configuration not appearing for reasoning-capable models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

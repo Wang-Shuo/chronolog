@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 26ed70305266f3766d33b4350661ae12918b45fe25e40cbcc67e6dd606f19190
+machine_hash: f117507a7e66a7ff622d0a1f62a538ac40ed745741b6e778a7a903753513e01c
 product: cursor
 product_name: Cursor
 record:
@@ -46,11 +46,12 @@ record:
   title: 'New Default Model: We''ve made Claude 3.5 Sonnet the default model for users'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-05-26-gpt-4o-in-interpreter-mode|GPT-4o in Interpreter Mode]]'
-- '[[Changes/Cursor/2024-06-08-update-0-35-1-disables-copilot-partial-accepts-by-default-and-makes-the-keybindi|UPDATE
-  (0.35.1): Disables Copilot++ partial accepts by default and makes…]]'
+- '[[Changes/Aider/2024-07-18-gpt-4o-mini-scores-like-the-original-gpt-3-5-on-aider-s-code-editing-benchmark-u|GPT
+  4o mini scores like the original GPT 3.5 on aider''s code editing benchmark…]]'
 - '[[Changes/ChatGPT/2024-07-18-we-re-introducing-gpt-4o-mini-the-most-capable-and-cost-efficient-small-model-av-af297b|Introducing
   GPT-4o mini]]'
+- '[[Changes/OpenHands/2024-07-19-4-model-support-changes-in-0-8-1|4 Model Support
+  changes in 0.8.1]]'
 source_release: '[[Releases/Cursor/cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df|cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df]]'
 source_type: cursor_changelog
 theme: model-support
@@ -81,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-07-18 · ChatGPT · [[Changes/ChatGPT/2024-07-18-we-re-introducing-gpt-4o-mini-the-most-capable-and-cost-efficient-small-model-av-af297b|Introducing GPT-4o mini]]
-- Later: 2024-12-13 · ChatGPT · [[Changes/ChatGPT/2024-12-13-projects-provide-a-new-way-to-group-files-and-chats-for-personal-use-simplifying|Projects provide a new way to group files and chats for personal use, simplifying…]]
+- Earlier: 2024-07-19 · OpenHands · [[Changes/OpenHands/2024-07-19-4-model-support-changes-in-0-8-1|4 Model Support changes in 0.8.1]]
+- Later: 2024-07-29 · Aider · [[Changes/Aider/2024-07-29-fall-back-to-main-model-if-weak-model-is-unable-to-generate-a-commit-message|Fall back to main model if weak model is unable to generate a commit message]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

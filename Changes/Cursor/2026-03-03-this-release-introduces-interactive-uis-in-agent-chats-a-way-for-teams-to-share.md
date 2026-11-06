@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: a83ae7077459d02b14e4d96b2a3d2daa846d636001190975e7ad82b8bac76216
+machine_hash: e52118fb2ba632f3e6d70d46b5262d9d24f09984380b7bdfd0a2d9828029c6a4
 product: cursor
 product_name: Cursor
 record:
@@ -55,10 +55,10 @@ record:
     private…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-28-improved-model-command-to-show-the-currently-active-model-in-the-slash-command-m|Improved
-  /model command to show the currently active model in the slash command menu]]'
-- '[[Changes/Claude Code/2026-02-28-added-simplify-and-batch-bundled-slash-commands|Added
-  /simplify and /batch bundled slash commands]]'
+- '[[Changes/Codex CLI/2026-03-02-3-developer-workflow-changes-in-rust-v0-107-0|3
+  Developer Workflow changes in rust-v0.107.0]]'
+- '[[Changes/Cline/2026-03-03-retry-nested-git-restore-and-prevent-silent-git-disabled-leftovers-in-checkpoint|Retry
+  nested git restore and prevent silent .git_disabled leftovers in checkpoints]]'
 - '[[Changes/Cursor/2026-03-03-3-developer-workflow-changes-in-2-6|3 Developer Workflow
   changes in 2.6]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3]]'
@@ -101,8 +101,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-added-simplify-and-batch-bundled-slash-commands|Added /simplify and /batch bundled slash commands]]
-- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-6-developer-workflow-changes-in-v2-1-69|6 Developer Workflow changes in v2.1.69]]
+- Earlier: 2026-03-03 · Cline · [[Changes/Cline/2026-03-03-retry-nested-git-restore-and-prevent-silent-git-disabled-leftovers-in-checkpoint|Retry nested git restore and prevent silent .git_disabled leftovers in checkpoints]]
+- Later: 2026-03-03 · Gemini CLI · [[Changes/Gemini CLI/2026-03-03-2-developer-workflow-changes-in-v0-32-0|2 Developer Workflow changes in v0.32.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

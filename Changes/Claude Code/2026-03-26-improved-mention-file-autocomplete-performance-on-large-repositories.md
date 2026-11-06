@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0bc8818a74038efbecd08da4729120999f9d0125078dd3502978503dff023f44
+machine_hash: b44ee231b60d95229151f02f2d791581775783e7ec72000b16ac60d19fcbb3c6
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,8 +51,8 @@ record:
   title: Improved @-mention file autocomplete performance on large repositories
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-19-2-interface-experience-changes-in-v2-1-80|2 Interface
-  Experience changes in v2.1.80]]'
+- '[[Changes/Gemini CLI/2026-03-24-docs-cli-add-custom-keybinding-documentation-by-scidomino-in-https-github-com-go|docs(cli):
+  add custom keybinding documentation]]'
 - '[[Changes/Claude Code/2026-03-25-2-interface-experience-changes-in-v2-1-83|2 Interface
   Experience changes in v2.1.83]]'
 - '[[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|A
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-26 · ChatGPT · [[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|A simplified sidebar on mobile]]
-- Later: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed /skills menu to sort alphabetically for easier scanning]]
+- Later: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-3-interface-experience-changes-in-rust-v0-117-0|3 Interface Experience changes in rust-v0.117.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

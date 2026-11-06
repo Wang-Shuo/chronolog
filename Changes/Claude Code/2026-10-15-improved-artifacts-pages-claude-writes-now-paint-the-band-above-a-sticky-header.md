@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 589574d435e45951d4130408229f0cb6b82f374aff64ef619edf7ecc78c407d8
+machine_hash: 3bda1b9a7f34fe9b0bcb896dc768cef0ccce83024f2f7da1537aadb83e00ea66
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,10 +54,9 @@ record:
     header…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer|Keep
-  your computer awake]]'
-- '[[Changes/Claude Code/2026-10-08-changed-the-claude-apps-gateway-to-start-with-a-warning-and-serve-a-desktop-poli|Changed
-  the Claude apps gateway to start with a warning and serve a desktop policy…]]'
+- '[[Changes/Codex CLI/2026-10-08-50384-allow-opting-into-16-kib-arm64-code-pages-for-macos-signing-chess-oai|♯50384
+  Allow opting into 16 KiB ARM64 code pages for macOS signing @chess-oai]]'
+- '[[Changes/Windsurf/2026-10-12-devin-desktop|Devin Desktop]]'
 - '[[Changes/Claude Code/2026-10-14-2-mobile-and-desktop-changes-in-v2-1-300|2 Mobile
   and Desktop changes in v2.1.300]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-15-v2-1-301-github-413913133-a3fb5b4e|claude-code-2026-10-15-v2-1-301-github-413913133-a3fb5b4e]]'
@@ -94,7 +93,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-2-mobile-and-desktop-changes-in-v2-1-300|2 Mobile and Desktop changes in v2.1.300]]
-- Later: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-present-or-export-present-directly-from-chatgpt-on-the-web-export-to-powerpoint|Present or export. Present directly from ChatGPT]]
+- Later: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-3-mobile-and-desktop-changes-in-rust-v0-163-0|3 Mobile and Desktop changes in rust-v0.163.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

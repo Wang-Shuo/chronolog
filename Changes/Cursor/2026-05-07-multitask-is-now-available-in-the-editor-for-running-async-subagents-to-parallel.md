@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 05dddfda30daab455aeba03fd7be30fe75e3b36c0697fe0836186784e9dea5de
+machine_hash: 2f35035897ca18da4346d40c8556778e0113529d130fb9dc21d715d91dd573d2
 product: cursor
 product_name: Cursor
 record:
@@ -55,10 +55,10 @@ record:
     parallelize…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-01-powershell-tool-bare-e-g-git-diff-file-is-no-longer-mis-flagged-as-the-stop-pars|PowerShell
-  tool: bare -- (e.g. git diff -- file) is no longer mis-flagged…]]'
-- '[[Changes/Cursor/2026-05-04-updated-usage-analytics-tab|Updated usage analytics
-  tab]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-05-4-editor-experience-changes-in-v1-0-41|4
+  Editor Experience changes in v1.0.41]]'
+- '[[Changes/Codex CLI/2026-05-07-4-editor-experience-changes-in-rust-v0-129-0|4 Editor
+  Experience changes in rust-v0.129.0]]'
 - '[[Changes/Cursor/2026-05-07-improved-prompt-input-undo-grouping-so-undo-redo-feels-more-natural-during-edits|Improved
   prompt input undo grouping, so undo/redo feels more natural during edits]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3|cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3]]'
@@ -97,8 +97,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-04 · Cursor · [[Changes/Cursor/2026-05-04-updated-usage-analytics-tab|Updated usage analytics tab]]
-- Later: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-vscode-press-cmd-ctrl-shift-t-to-reopen-the-most-recently-closed-session-tab-con|VSCode Press Cmd/Ctrl+Shift+T to reopen the most recently closed session tab…]]
+- Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-4-editor-experience-changes-in-rust-v0-129-0|4 Editor Experience changes in rust-v0.129.0]]
+- Later: 2026-05-08 · Codex CLI · [[Changes/Codex CLI/2026-05-08-2-editor-experience-changes-in-rust-v0-130-0|2 Editor Experience changes in rust-v0.130.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

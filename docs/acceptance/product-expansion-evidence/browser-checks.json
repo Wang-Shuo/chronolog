@@ -1,0 +1,27 @@
+{
+  "tool": "Playwright CLI with Chrome",
+  "homepage_products": 10,
+  "product_navigation": "Codex CLI opened from Explorer with 179 releases",
+  "theme": "Agent Mode",
+  "filter": "tl-only-10 (Windsurf)",
+  "visible_filtered_products": [
+    "Windsurf"
+  ],
+  "desktop": {
+    "viewport_width": 1440,
+    "document_width": 1440,
+    "table_width": 1997.6328125,
+    "table_container_width": 790
+  },
+  "mobile": {
+    "viewport_width": 390,
+    "viewport_height": 844,
+    "document_width": 390,
+    "filter_choices": 11
+  },
+  "console": {
+    "errors": 0,
+    "warnings": 0
+  },
+  "scope": "Browser checks used the first complete build. The final build changes only the rendering of a protocol-less source link; its corrected URL and identical product index were checked directly, followed by the full publication audit."
+}

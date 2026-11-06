@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a37c3ec49135f902d8cbacc35684f4e9f40927d07185e2d8c5a3393927e0e923
+machine_hash: a896bae9f561d8b109d7d4377575e9b61bddba00368416ce746c9ee3282cb63f
 product: cursor
 product_name: Cursor
 record:
@@ -64,10 +64,10 @@ record:
   title: Run Bugbot before you push
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-06-hardened-cross-session-messaging-messages-relayed-via-sendmessage-from-other-cla|Hardened
-  cross-session messaging]]'
-- '[[Changes/Claude Code/2026-06-08-2-safety-and-privacy-changes-in-v2-1-169|2 Safety
-  and Privacy changes in v2.1.169]]'
+- '[[Changes/Codex CLI/2026-06-09-5-safety-and-privacy-changes-in-rust-v0-139-0|5
+  Safety and Privacy changes in rust-v0.139.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-09-pasted-images-no-longer-leak-into-the-main-prompt-after-a-permission-dialog-clos|Pasted
+  images no longer leak into the main prompt after a permission dialog closes]]'
 - '[[Changes/Claude Code/2026-06-10-2-safety-and-privacy-changes-in-v2-1-172|2 Safety
   and Privacy changes in v2.1.172]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-10-bugbot-is-now-over-3x-faster-22-cheaper-and-finds-10-more-bugs-h-c1721c78|cursor-2026-06-10-bugbot-is-now-over-3x-faster-22-cheaper-and-finds-10-more-bugs-h-c1721c78]]'
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-2-safety-and-privacy-changes-in-v2-1-172|2 Safety and Privacy changes in v2.1.172]]
-- Later: 2026-06-15 · Claude Code · [[Changes/Claude Code/2026-06-15-2-safety-and-privacy-changes-in-v2-1-178|2 Safety and Privacy changes in v2.1.178]]
+- Later: 2026-06-10 · OpenHands · [[Changes/OpenHands/2026-06-10-users-can-select-the-sandbox-grouping-strategy-by-tofarr-in-https-github-com-ope|Users can select the sandbox grouping strategy]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

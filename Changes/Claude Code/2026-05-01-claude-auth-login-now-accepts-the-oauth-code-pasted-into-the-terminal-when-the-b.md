@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c696879cb4e9bda354b0638bb3b39d8bbc068a960f524475416c41c28867f837
+machine_hash: c306217521bfbd38902f3ca93695cb0b56f242b207fce7bf5f775558a9ebbf25
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,12 +54,12 @@ record:
   title: '`claude auth login` now accepts the OAuth code pasted into the terminal…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-04-22-we-re-launching-chatgpt-for-clinicians-a-free-version-of-chatgpt-for-verified-cl|ChatGPT
-  for Clinicians]]'
-- '[[Changes/Claude Code/2026-04-28-clarified-the-mcp-message-shown-when-an-mcp-server-is-still-unauthorized-after-t|Clarified
-  the /mcp message shown when an MCP server is still unauthorized after…]]'
+- '[[Changes/Gemini CLI/2026-04-28-docs-migrate-installation-and-authentication-to-mdx-with-tabbed-layouts-by-g-sam|docs:
+  migrate installation and authentication to mdx with tabbed layouts]]'
 - '[[Changes/ChatGPT/2026-04-30-we-re-rolling-out-advanced-account-security-an-optional-setting-for-personal-cha|Advanced
   Account Security in ChatGPT]]'
+- '[[Changes/Codex CLI/2026-04-30-3-account-and-access-changes-in-rust-v0-128-0|3
+  Account and Access changes in rust-v0.128.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb|claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb]]'
 source_type: github_releases
 theme: account-access
@@ -94,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-04-30 · ChatGPT · [[Changes/ChatGPT/2026-04-30-we-re-rolling-out-advanced-account-security-an-optional-setting-for-personal-cha|Advanced Account Security in ChatGPT]]
-- Later: 2026-05-04 · Claude Code · [[Changes/Claude Code/2026-05-04-channels-now-works-with-console-api-key-authentication-console-orgs-with-managed|--channels now works with console (API key) authentication]]
+- Earlier: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-3-account-and-access-changes-in-rust-v0-128-0|3 Account and Access changes in rust-v0.128.0]]
+- Later: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-2-account-and-access-changes-in-v1-0-40|2 Account and Access changes in v1.0.40]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

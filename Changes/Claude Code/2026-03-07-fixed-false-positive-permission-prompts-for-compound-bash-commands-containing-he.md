@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 872f6509c1289295ddcfb8a0e4b6670f8770a82441040521151a5a13850084d6
+machine_hash: 34abeafea32ea2c378bf432e81bdf8a4895659a24661504e8b175ea959cf400a
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: Fixed false-positive permission prompts for compound bash commands containing…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-03-fixed-team-permission-and-access-control-inconsistencies-across-organization-set|Fixed
-  team permission and access control inconsistencies across organization setups]]'
 - '[[Changes/Claude Code/2026-03-05-5-safety-and-privacy-changes-in-v2-1-69|5 Safety
   and Privacy changes in v2.1.69]]'
+- '[[Changes/Codex CLI/2026-03-05-4-safety-and-privacy-changes-in-rust-v0-110-0|4
+  Safety and Privacy changes in rust-v0.110.0]]'
 - '[[Changes/Cursor/2026-03-05-when-invoked-the-agent-spins-up-a-cloud-sandbox-and-follows-your-instructions-us|When
   invoked, the agent spins up a cloud sandbox and follows your instructions using…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-07-v2-1-71-github-294146317-ab5a32e0|claude-code-2026-03-07-v2-1-71-github-294146317-ab5a32e0]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-03-05 · Cursor · [[Changes/Cursor/2026-03-05-when-invoked-the-agent-spins-up-a-cloud-sandbox-and-follows-your-instructions-us|When invoked, the agent spins up a cloud sandbox and follows your instructions using…]]
-- Later: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-6-safety-and-privacy-changes-in-v2-1-72|6 Safety and Privacy changes in v2.1.72]]
+- Later: 2026-03-08 · Codex CLI · [[Changes/Codex CLI/2026-03-08-6-safety-and-privacy-changes-in-rust-v0-112-0|6 Safety and Privacy changes in rust-v0.112.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

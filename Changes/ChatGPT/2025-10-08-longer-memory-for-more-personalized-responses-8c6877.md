@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dfb6f101d1ebb8db178513112beb27feff681993508ec770a0cfabcfee8e3af3
+machine_hash: d8367f48ff2554c1fb65010ef7469f13a165a7d3c44fddfc8f16f52c84b5bdcb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,8 +46,8 @@ record:
   title: Longer memory for more personalized responses
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-22-longer-memory-for-more-personalized-responses|Longer
-  memory for more personalized responses]]'
+- '[[Changes/Codex CLI/2025-09-23-new-review-commands-review-specific-commit-against-a-base-branch-or-custom-instr|New
+  /review commands…]]'
 - '[[Changes/ChatGPT/2025-09-25-we-re-launching-an-early-preview-of-chatgpt-pulse-for-pro-users-on-ios-and-andro-cf8064|Introducing
   ChatGPT Pulse for Pro users]]'
 - '[[Changes/ChatGPT/2025-09-29-turn-off-memory-so-chatgpt-won-t-save-and-use-memories-when-responding|Turn

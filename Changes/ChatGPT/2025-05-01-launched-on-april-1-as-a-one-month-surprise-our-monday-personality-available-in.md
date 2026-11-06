@@ -4,20 +4,20 @@ date: '2025-05-01'
 description: 'ChatGPT · 2025-05-01 · Voice and Audio: Launched on April 1 as a one-month
   surprise, our “Monday” personality (available in both voice and text) has now been…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
-    (Beta) is now rolling out to Plus users on iOS and Android]]'
+  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
+    link) support, which allows you…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 584
+  lag_days: 629
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 1cd2a2de16b6a120bb6739f34ed47a12f7ef926b3d462570bc3061db2b852c9d
+machine_hash: f217f222d7216c5a5609a556b011cd4f710b72f97dfff619cd4731788f712928
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,10 +57,10 @@ record:
   title: Sunsetting Monday GPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-12-12-video-and-screenshare-in-our-latest-mobile-apps-we-are-starting-to-roll-out-real|Video
-  and screenshare]]'
-- '[[Changes/ChatGPT/2024-12-12-today-we-started-rolling-out-two-updates-to-voice-mode-in-chatgpt-8ade79|Today
-  we started rolling out two updates to voice mode in ChatGPT]]'
+- '[[Changes/Aider/2024-12-13-voice-now-lets-you-edit-the-transcribed-text-before-sending|/voice
+  now lets you edit the transcribed text before sending]]'
+- '[[Changes/Aider/2025-01-10-2-voice-and-audio-changes-in-v0-71-0|2 Voice and Audio
+  changes in v0.71.0]]'
 - '[[Changes/ChatGPT/2025-02-14-whisper-chatgpt-s-voice-to-text-feature-now-shows-a-text-preview-of-dictated-tex|Whisper
   (ChatGPT''s voice-to-text feature) now shows a text preview of dictated text…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-01-sunsetting-monday-gpt-9d013d1e|chatgpt-2025-05-01-sunsetting-monday-gpt-9d013d1e]]'
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
+- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

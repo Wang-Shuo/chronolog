@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 5260b6ad2ceead091addf77ed93b77fa69d696e6a622331d75c2cc1136a320f4
+machine_hash: 4730b2103deb0f0530bacfc9bf89146758dead2c83d2df263bb260059e69a7db
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -129,12 +129,12 @@ record:
   title: Today, we’re releasing GPT-5.2, the next upgrade to the GPT-5 series
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4|GPT-5.1
-  in ChatGPT]]'
-- '[[Changes/ChatGPT/2025-11-19-today-we-re-updating-gpt-5-pro-to-gpt-5-1-pro-in-early-testing-users-consistentl-191826|GPT-5.1
-  Pro: Clearer, more capable answers for complex work]]'
-- '[[Changes/ChatGPT/2025-11-21-chatgpt-now-adds-more-inline-images-from-the-web-to-help-you-quickly-understand-83e5b8|More
-  images in answers]]'
+- '[[Changes/Gemini CLI/2025-12-09-7-model-support-changes-in-v0-20-0|7 Model Support
+  changes in v0.20.0]]'
+- '[[Changes/Codex CLI/2025-12-10-3-model-support-changes-in-rust-v0-69-0|3 Model
+  Support changes in rust-v0.69.0]]'
+- '[[Changes/GitHub Copilot CLI/2025-12-10-add-grep-tool-codex-models|Add grep tool
+  Codex models]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-seri-2d708645|chatgpt-2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-seri-2d708645]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -161,8 +161,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-21 · ChatGPT · [[Changes/ChatGPT/2025-11-21-chatgpt-now-adds-more-inline-images-from-the-web-to-help-you-quickly-understand-83e5b8|More images in answers]]
-- Later: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-use-the-new-agent-models-command-list-models-flag-or-models-slash-command-to-lis|Model list and selection]]
+- Earlier: 2025-12-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-10-add-grep-tool-codex-models|Add grep tool Codex models]]
+- Later: 2025-12-11 · Cline · [[Changes/Cline/2025-12-11-11-model-support-changes-in-v3-41-0|11 Model Support changes in v3.41.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

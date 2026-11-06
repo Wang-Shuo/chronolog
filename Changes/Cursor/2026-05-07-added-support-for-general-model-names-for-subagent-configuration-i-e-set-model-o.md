@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b6578d1cff245edf0dc1acf064fb3a410702c82d7e7ec2fd0380decd2e4701a3
+machine_hash: 52a34d7d36dfd34868592fbc8161c31cd0ffcb912736d8c0897a98b67d76d966
 product: cursor
 product_name: Cursor
 record:
@@ -59,11 +59,12 @@ record:
     model
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-04-model-access-controls-d2ba4f|Model access controls]]'
-- '[[Changes/ChatGPT/2026-05-05-we-re-rolling-out-gpt-5-5-instant-as-chatgpt-s-new-default-model-it-replaces-gpt|GPT-5.5
-  Instant in ChatGPT]]'
+- '[[Changes/Gemini CLI/2026-05-05-3-model-support-changes-in-v0-41-0|3 Model Support
+  changes in v0.41.0]]'
 - '[[Changes/Claude Code/2026-05-06-2-model-support-changes-in-v2-1-129|2 Model Support
   changes in v2.1.129]]'
+- '[[Changes/Codex CLI/2026-05-07-4-model-support-changes-in-rust-v0-129-0|4 Model
+  Support changes in rust-v0.129.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3|cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3]]'
 source_type: cursor_changelog
 theme: model-support
@@ -101,8 +102,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-2-model-support-changes-in-v2-1-129|2 Model Support changes in v2.1.129]]
-- Later: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-compaction-prompt-now-asks-the-model-to-preserve-sensitive-user-instructions|Compaction prompt now asks the model to preserve sensitive user instructions]]
+- Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-4-model-support-changes-in-rust-v0-129-0|4 Model Support changes in rust-v0.129.0]]
+- Later: 2026-05-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-08-3-model-support-changes-in-v1-0-44|3 Model Support changes in v1.0.44]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

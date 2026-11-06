@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 96c50b70684d7cb91dffafd9d0731acaa79d4812fe04add761092b04ea01f5d9
+machine_hash: 41c3953b3a55a962a45f13c339fed98a8d08c1c06fafcc9870c07c20ba6a2e83
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,12 +44,11 @@ record:
     and notify…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-10-3-apps-and-integrations-changes-in-v2-1-172|3
-  Apps and Integrations changes in v2.1.172]]'
-- '[[Changes/Claude Code/2026-06-15-2-apps-and-integrations-changes-in-v2-1-178|2
-  Apps and Integrations changes in v2.1.178]]'
-- '[[Changes/Claude Code/2026-06-16-improved-plugin-loading-performance-in-remote-sessions|Improved
-  plugin loading performance in remote sessions]]'
+- '[[Changes/Windsurf/2026-06-16-outdated-this-entry-refers-to-the-devin-plugin-command-which-has-since-been-rena|
+  Outdated: this entry refers to the devin plugin command, which has since…]]'
+- '[[Changes/Windsurf/2026-06-16-improved-handling-for-less-common-mcp-server-features|Improved
+  handling for less common MCP server features]]'
+- '[[Changes/Windsurf/2026-06-16-devin-local|Devin Local]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a|chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -83,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-16 · Claude Code · [[Changes/Claude Code/2026-06-16-improved-plugin-loading-performance-in-remote-sessions|Improved plugin loading performance in remote sessions]]
+- Earlier: 2026-06-16 · Windsurf · [[Changes/Windsurf/2026-06-16-devin-local|Devin Local]]
 - Later: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-added-config-key-value-syntax-to-set-any-setting-from-the-prompt-e-g-config-thin|Added /config key=value syntax to set any setting from the prompt…]]
 <!-- chronolog:end -->
 

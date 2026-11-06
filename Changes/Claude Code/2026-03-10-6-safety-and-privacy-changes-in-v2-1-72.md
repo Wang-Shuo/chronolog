@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2420eb845e809f73ec60d73d4b78fcb60af799c0eb1fca47db950a2fcc773ac9
+machine_hash: 61d0336ff7961a630c1ccdb980fee12b9380cd7052f55e4326e34710a0811b4a
 product: claude-code
 product_name: Claude Code
 record:
@@ -60,12 +60,12 @@ record:
   title: 6 Safety and Privacy changes in v2.1.72
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-05-5-safety-and-privacy-changes-in-v2-1-69|5 Safety
-  and Privacy changes in v2.1.69]]'
-- '[[Changes/Cursor/2026-03-05-when-invoked-the-agent-spins-up-a-cloud-sandbox-and-follows-your-instructions-us|When
-  invoked, the agent spins up a cloud sandbox and follows your instructions using…]]'
 - '[[Changes/Claude Code/2026-03-07-fixed-false-positive-permission-prompts-for-compound-bash-commands-containing-he|Fixed
   false-positive permission prompts for compound bash commands containing…]]'
+- '[[Changes/Codex CLI/2026-03-08-6-safety-and-privacy-changes-in-rust-v0-112-0|6
+  Safety and Privacy changes in rust-v0.112.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-09-reset-allowed-tools-now-fully-undoes-allow-all-and-re-triggers-the-autopilot-per|/reset-allowed-tools
+  now fully undoes /allow-all and re-triggers the autopilot…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48|claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48]]'
 source_type: github_releases
 theme: safety-privacy
@@ -114,8 +114,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.72
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-03-07 · Claude Code · [[Changes/Claude Code/2026-03-07-fixed-false-positive-permission-prompts-for-compound-bash-commands-containing-he|Fixed false-positive permission prompts for compound bash commands containing…]]
-- Later: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-fixed-freezes-and-100-cpu-loops-triggered-by-permission-prompts-for-complex-bash|Fixed freezes and 100% CPU loops triggered by permission prompts for complex bash commands]]
+- Earlier: 2026-03-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-09-reset-allowed-tools-now-fully-undoes-allow-all-and-re-triggers-the-autopilot-per|/reset-allowed-tools now fully undoes /allow-all and re-triggers the autopilot…]]
+- Later: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-10-safety-and-privacy-changes-in-rust-v0-113-0|10 Safety and Privacy changes in rust-v0.113.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 50ad2726801d97399e5a8261db4f55574a61b78c3d84d626d7d524a4aad55ff0
+machine_hash: 4127666e1e19292c5e1e15437c5ec6268b64cc42a3cb9845c078a9349466084f
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: Improved slash-command menu
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-04-vscode-added-focus-view-a-chat-menu-toggle-that-hides-tool-activity-behind-an-ex|VSCode
-  Added Focus view]]'
-- '[[Changes/Claude Code/2026-08-07-improved-fullscreen-mode-to-keep-the-full-pre-compaction-history-in-scrollback-a|Improved
-  fullscreen mode to keep the full pre-compaction history in scrollback…]]'
+- '[[Changes/Codex CLI/2026-08-07-6-interface-experience-changes-in-rust-v0-147-0|6
+  Interface Experience changes in rust-v0.147.0]]'
+- '[[Changes/OpenHands/2026-08-07-feat-reorder-customize-navigation-by-devinvinson-in-https-github-com-openhands-o|feat:
+  reorder Customize navigation]]'
 - '[[Changes/Claude Code/2026-08-08-vscode-fixed-focus-view-folding-away-the-latest-to-do-list-a-pending-question-s|VSCode
   Fixed Focus view folding away the latest to-do list, a pending question''s…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-10-v2-1-227-github-368190806-b6269cf8|claude-code-2026-08-10-v2-1-227-github-368190806-b6269cf8]]'
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-08 · Claude Code · [[Changes/Claude Code/2026-08-08-vscode-fixed-focus-view-folding-away-the-latest-to-do-list-a-pending-question-s|VSCode Fixed Focus view folding away the latest to-do list, a pending question's…]]
-- Later: 2026-08-11 · Claude Code · [[Changes/Claude Code/2026-08-11-updated-terminal-title-busy-spinner-glyphs-to-reduce-tab-bar-jitter-on-some-term|Updated terminal title busy-spinner glyphs to reduce tab-bar jitter on some terminals]]
+- Later: 2026-08-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-10-2-interface-experience-changes-in-v1-0-79|2 Interface Experience changes in v1.0.79]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

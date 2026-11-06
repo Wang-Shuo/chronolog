@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 76119662be273cfba72bb0841c8c86a835acd06676456174c4d9e7c201f696c7
+machine_hash: ec6e6efa4003a55948a73391e6f378f5cf018813c043ec2efe9148b3cfe57795
 product: claude-code
 product_name: Claude Code
 record:
@@ -59,12 +59,12 @@ record:
     server…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-added-the-signed-in-account-to-claude-apps-gateway-sign-in-when-the-gateway-name|Added
-  the signed-in account to Claude apps gateway sign-in]]'
-- '[[Changes/Claude Code/2026-09-22-claude-tag-improved-the-github-banner-in-claude-tag-admin-settings-to-say-why-gi|Claude
-  Tag Improved the GitHub banner in Claude Tag admin settings to say why…]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-22-3-account-and-access-changes-in-v1-0-88|3
+  Account and Access changes in v1.0.88]]'
 - '[[Changes/Claude Code/2026-09-23-2-account-and-access-changes-in-v2-1-281|2 Account
   and Access changes in v2.1.281]]'
+- '[[Changes/Codex CLI/2026-09-25-5-account-and-access-changes-in-rust-v0-157-0|5
+  Account and Access changes in rust-v0.157.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'
 source_type: github_releases
 theme: account-access
@@ -107,8 +107,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-2-account-and-access-changes-in-v2-1-281|2 Account and Access changes in v2.1.281]]
-- Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-changed-team-and-enterprise-sessions-and-sessions-whose-sign-in-plan-claude-code|Changed Team and Enterprise sessions, and sessions whose sign-in plan Claude Code…]]
+- Earlier: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-5-account-and-access-changes-in-rust-v0-157-0|5 Account and Access changes in rust-v0.157.0]]
+- Later: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-8-account-and-access-changes-in-rust-v0-158-0|8 Account and Access changes in rust-v0.158.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

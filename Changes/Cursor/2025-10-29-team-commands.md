@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0fc38db38e684949fbf464425e49bca2ceb24629430bf92da6bd6a56603021cd
+machine_hash: d9a4187138a6d5b80d755d23c11261a52ec28c6bd9e083a2f4f142c3c712e242
 product: cursor
 product_name: Cursor
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-10-23 · ChatGPT · [[Changes/ChatGPT/2025-10-23-content-creation-apply-project-specific-instructions-to-keep-tone-and-style-cons|Content creation: Apply project-specific instructions to keep tone and style…]]
-- Later: 2025-11-25 · ChatGPT · [[Changes/ChatGPT/2025-11-25-share-photos-to-discuss-them-out-loud|Share photos to discuss them out loud]]
+- Later: 2025-10-29 · Gemini CLI · [[Changes/Gemini CLI/2025-10-29-refactor-logging-centralize-all-console-messaging-to-a-shared-logger-part-1-by-a|refactor(logging): Centralize all console messaging to a shared logger (part 1)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

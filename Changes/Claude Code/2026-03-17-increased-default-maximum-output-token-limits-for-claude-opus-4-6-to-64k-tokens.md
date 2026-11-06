@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cc5dfc501dd288f0a64813408e506f6a55d165f275858faad64223a009116626
+machine_hash: 1334b83bc7d9340f4b6f31514135bfb7021aac68ac255303448ce87725d3b804
 product: claude-code
 product_name: Claude Code
 record:
@@ -102,7 +102,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-03-17 · ChatGPT · [[Changes/ChatGPT/2026-03-17-thinking-deeper-reasoning-for-more-complex-tasks|Thinking – deeper reasoning for more complex tasks]]
-- Later: 2026-03-18 · ChatGPT · [[Changes/ChatGPT/2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and|GPT-5.4 mini in ChatGPT]]
+- Later: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-5-model-support-changes-in-v0-34-0|5 Model Support changes in v0.34.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

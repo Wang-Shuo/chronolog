@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fac77ce24edf813425263cae4077ed26ace067a508ab310f7d24885485af3c68
+machine_hash: 90409e725554eedf71ea52b5a76e04db4dfef84e2caaceb0f6832b71776d07c5
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,12 @@ record:
   title: We have a new chat UX!
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-04-12-cursor-help-pane-beta-you-can-also-ask-cursor-about-cursor-the-cursor-help-pane|Cursor
-  Help Pane (Beta): You can also ask Cursor about Cursor!]]'
-- '[[Changes/Cursor/2024-05-03-command-k-autoselect-we-ve-also-added-automatic-selection-for-command-k-this-mea|Command-K
-  Autoselect: We''ve also added automatic selection for Command-K!]]'
+- '[[Changes/Aider/2024-06-04-repo-map-is-now-optimized-based-on-text-of-chat-history-as-well-as-files-added-t|Repo
+  map is now optimized based on text of chat history as well as files added to chat]]'
 - '[[Changes/Cursor/2024-07-23-we-ve-also-added-a-file-picker-arrow-key-navigation-and-a-model-toggle-to-compos|Cursor
   adds a file picker, arrow key navigation, and a model toggle to Composer]]'
+- '[[Changes/Aider/2024-07-31-switching-to-code-and-ask-mode-no-longer-summarizes-the-chat-history|Switching
+  to code and ask mode no longer summarizes the chat history]]'
 source_release: '[[Releases/Cursor/cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42|cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-07-23 · Cursor · [[Changes/Cursor/2024-07-23-we-ve-also-added-a-file-picker-arrow-key-navigation-and-a-model-toggle-to-compos|Cursor adds a file picker, arrow key navigation, and a model toggle to Composer]]
-- Later: 2024-11-22 · ChatGPT · [[Changes/ChatGPT/2024-11-22-the-new-chat-button-has-been-moved-to-the-left-of-the-model-picker-to-be-easier|The new chat button has been moved to the left of the Model Picker to be easier to access]]
+- Earlier: 2024-07-31 · Aider · [[Changes/Aider/2024-07-31-switching-to-code-and-ask-mode-no-longer-summarizes-the-chat-history|Switching to code and ask mode no longer summarizes the chat history]]
+- Later: 2024-08-23 · Aider · [[Changes/Aider/2024-08-23-new-reset-command-to-drop-files-and-clear-chat-history|New /reset command to /drop files and /clear chat history]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

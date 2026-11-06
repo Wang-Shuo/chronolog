@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: af4c0cf9124e4cae71224b121ab4b1a24945a478abd6b69bef1c6bd5913ec31b
+machine_hash: 3c1dc4550fd907fd3ff2c6d07ac25a31250e44e89e3c9db1b22caebd9069d576
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,12 @@ record:
   title: 3 Reliability and Performance changes in v2.1.70
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-28-improved-memory-usage-in-long-sessions-with-subagents-by-stripping-heavy-progres|Improved
-  memory usage in long sessions with subagents by stripping heavy progress…]]'
-- '[[Changes/Cursor/2026-03-03-modals-load-faster|Modals load faster]]'
-- '[[Changes/Claude Code/2026-03-05-9-reliability-and-performance-changes-in-v2-1-69|9
-  Reliability and Performance changes in v2.1.69]]'
+- '[[Changes/Codex CLI/2026-03-05-12935-speed-up-subagent-startup-daveaitel-openai|♯12935
+  Speed up subagent startup @daveaitel-openai]]'
+- '[[Changes/Codex CLI/2026-03-05-13446-tui-show-speed-in-session-header-pash-openai|♯13446
+  tui Show speed in session header @pash-openai]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-05-reduce-memory-usage-in-alt-screen-mode-for-long-sessions|Reduce
+  memory usage in alt-screen mode for long sessions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-06-v2-1-70-github-293754953-afac13c0|claude-code-2026-03-06-v2-1-70-github-293754953-afac13c0]]'
 source_type: github_releases
 theme: reliability-performance
@@ -88,8 +89,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.70
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-9-reliability-and-performance-changes-in-v2-1-69|9 Reliability and Performance changes in v2.1.69]]
-- Later: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-improved-bash-command-parsing-by-switching-to-a-native-module-faster-initializat|Improved bash command parsing by switching to a native module]]
+- Earlier: 2026-03-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-05-reduce-memory-usage-in-alt-screen-mode-for-long-sessions|Reduce memory usage in alt-screen mode for long sessions]]
+- Later: 2026-03-09 · Windsurf · [[Changes/Windsurf/2026-03-09-stability-performance|Stability & Performance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a1b3a5d5ca7f2dc42b49f4da3fc78b334632bdf374d3333a12833a062d817bdb
+machine_hash: d6c077ff041f4a3b0ed41807242ae69e8d4bdd2a5c68be13b3e8135f6b38793c
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,10 @@ record:
     selection
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-  now supports a limited selection of languages in the interface]]'
+- '[[Changes/Cline/2025-12-12-accessibility-screen-reader-support-for-slash-and-context-menus-by-mingxuanzhang|accessibility:
+  screen reader support for slash and context menus]]'
+- '[[Changes/GitHub Copilot CLI/2025-12-18-ensure-animated-or-non-animated-banner-is-displayed-based-on-banner-and-screen-r|Ensure
+  animated or non-animated banner is displayed based on banner and screen…]]'
 - '[[Changes/Claude Code/2026-01-28-added-support-for-full-width-zenkaku-number-input-from-japanese-ime-in-option-se|Added
   support for full-width (zenkaku) number input from Japanese IME in option…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1|claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1]]'
@@ -83,7 +85,7 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2026-01-28 · Claude Code · [[Changes/Claude Code/2026-01-28-added-support-for-full-width-zenkaku-number-input-from-japanese-ime-in-option-se|Added support for full-width (zenkaku) number input from Japanese IME in option…]]
-- Later: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-session-titles-are-now-generated-in-the-language-of-your-conversation-set-the-la|Session titles are now generated in the language of your conversation…]]
+- Later: 2026-02-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-12-theme-preview-appears-above-theme-list-in-screen-reader-mode|Theme preview appears above theme list in screen reader mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

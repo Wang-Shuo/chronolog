@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 625e446097e46adc2ff1fd0655f20e17d660e21448e062843d7da3290242456d
+machine_hash: c8a3e4865fd1d28b23a9d107491bdb9eb086bb7dce0d838ac9ffaff191845f2c
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: Improved auto-memory loading
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-vscode-added-viewing-editing-and-deleting-a-saved-memory-inside-the-memory-dialo|VSCode
-  Added viewing, editing and deleting a saved memory inside the Memory dialog]]'
-- '[[Changes/Claude Code/2026-09-17-vscode-added-memory-and-instructions-entries-to-the-customize-menu-memory-shows|VSCode
-  Added Memory and Instructions entries to the Customize menu]]'
+- '[[Changes/Codex CLI/2026-09-22-6-memory-and-personalization-changes-in-rust-v0-156-0|6
+  Memory and Personalization changes in rust-v0.156.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-22-resuming-large-local-sessions-keeps-transcript-memory-bounded-for-smoother-cli-p|Resuming
+  large local sessions keeps transcript memory bounded for smoother CLI performance]]'
 - '[[Changes/Claude Code/2026-09-25-improved-lists-in-help-hooks-copy-chrome-memory-ide-release-notes-rewind-diff-re|Improved
   lists in /help, /hooks, /copy, /chrome, /memory, /ide…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-improved-lists-in-help-hooks-copy-chrome-memory-ide-release-notes-rewind-diff-re|Improved lists in /help, /hooks, /copy, /chrome, /memory, /ide…]]
-- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-pages-follow-space-s-availability-and-sharing-settings-sharing-a-page-does-not-g|Pages follow Space’s availability and sharing settings]]
+- Later: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-3-memory-and-personalization-changes-in-rust-v0-158-0|3 Memory and Personalization changes in rust-v0.158.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

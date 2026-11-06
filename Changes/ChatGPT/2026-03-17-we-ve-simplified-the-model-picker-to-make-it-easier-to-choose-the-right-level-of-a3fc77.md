@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2048b22bd8f19e41748b55560e5805171d4e968c555f7349fc3609d27d744eeb
+machine_hash: a659ab17dd4497b33af3083a34e4c9b2c6cb3255c01ec77e672ff3184e55dea1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,10 +63,10 @@ record:
     of reasoning
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-03-clearer-more-consistent-team-and-enterprise-policy-and-access-controls|Clearer,
-  more consistent team and enterprise policy and access controls]]'
 - '[[Changes/Claude Code/2026-03-05-improved-macos-startup-for-claude-ai-enterprise-team-users-by-skipping-an-unnece|Improved
   macOS startup for Claude.ai enterprise/team users by skipping…]]'
+- '[[Changes/Codex CLI/2026-03-05-13388-config-enforce-enterprise-feature-requirements-bolinfest|♯13388
+  config: enforce enterprise feature requirements @bolinfest]]'
 - '[[Changes/Claude Code/2026-03-14-added-session-quality-survey-enterprise-admins-can-configure-the-sample-rate-via|Added
   session quality survey]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-17-updates-to-the-model-picker-in-chatgpt-764a9949|chatgpt-2026-03-17-updates-to-the-model-picker-in-chatgpt-764a9949]]'

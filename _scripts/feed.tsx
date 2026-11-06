@@ -3,10 +3,10 @@ import { write } from "../quartz/plugins/emitters/helpers"
 import { QuartzEmitterPlugin } from "../quartz/plugins/types"
 import { escapeHTML } from "../quartz/util/escape"
 import { FullSlug, joinSegments, simplifySlug } from "../quartz/util/path"
+import { SITE_DESCRIPTION } from "./products"
 
 const FEED_TITLE = "ChronoLog"
-const FEED_DESCRIPTION =
-  "Tracked changes in ChatGPT, Claude Code and Cursor, from official release notes"
+const FEED_DESCRIPTION = SITE_DESCRIPTION
 const FEED_LIMIT = 30
 const FEED_SECTIONS = ["Changes/", "Releases/"]
 

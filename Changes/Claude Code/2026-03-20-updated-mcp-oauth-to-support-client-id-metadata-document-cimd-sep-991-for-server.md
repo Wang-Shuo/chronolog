@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1eeae4f89e032575ad01dd5f0c4b03e8a686933d8a0bb39556ed46332ca43e77
+machine_hash: 78fc23199cda3e729366bf8613445d26ca80b49ceccd9c0afdde34eef6dc8ba7
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,12 +55,12 @@ record:
   title: Updated MCP OAuth to support Client ID Metadata Document (CIMD / SEP-991)…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-06-vscode-added-native-mcp-server-management-dialog-use-mcp-in-the-chat-panel-to-en|VSCode
-  Added native MCP server management dialog]]'
-- '[[Changes/Claude Code/2026-03-11-added-actionable-guidance-when-oauth-login-or-connectivity-checks-fail-due-to-ss|Added
-  actionable guidance when OAuth login or connectivity checks fail due to SSL…]]'
+- '[[Changes/Gemini CLI/2026-03-17-refactor-core-extract-shared-oauth-flow-primitives-from-mcpoauthprovider-by-sand|refactor(core):
+  extract shared OAuth flow primitives from MCPOAuthProvider]]'
 - '[[Changes/Claude Code/2026-03-18-added-console-flag-to-claude-auth-login-for-anthropic-console-api-billing-authen|Added
   --console flag to claude auth login for Anthropic Console (API billing)…]]'
+- '[[Changes/Codex CLI/2026-03-19-app-server-tui-now-supports-device-code-chatgpt-sign-in-during-onboarding-and-ca|App-server
+  TUI now supports device-code ChatGPT sign-in during onboarding and can…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-20-v2-1-81-github-299621655-10d2d4fe|claude-code-2026-03-20-v2-1-81-github-299621655-10d2d4fe]]'
 source_type: github_releases
 theme: account-access
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-03-18 · Claude Code · [[Changes/Claude Code/2026-03-18-added-console-flag-to-claude-auth-login-for-anthropic-console-api-billing-authen|Added --console flag to claude auth login for Anthropic Console (API billing)…]]
-- Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-mcp-oauth-now-follows-rfc-9728-protected-resource-metadata-discovery-to-find-the|MCP OAuth now follows RFC 9728 Protected Resource Metadata discovery to find…]]
+- Earlier: 2026-03-19 · Codex CLI · [[Changes/Codex CLI/2026-03-19-app-server-tui-now-supports-device-code-chatgpt-sign-in-during-onboarding-and-ca|App-server TUI now supports device-code ChatGPT sign-in during onboarding and can…]]
+- Later: 2026-03-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-20-login-device-flow-works-correctly-in-codespaces-and-remote-terminal-environments|/login device flow works correctly in Codespaces and remote terminal environments]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

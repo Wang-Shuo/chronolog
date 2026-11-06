@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c78a4a9056576435ea4e4b278c97b0b6ca1614cd939a52c8e96e421b88cc9f52
+machine_hash: 259489d41e08c2cd0734d0d62e2ec8f7c4c05db1d4da87af7fea8709144b439b
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,12 +51,12 @@ record:
   title: 4 Apps and Integrations changes in v2.1.91
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-27-reduced-startup-event-loop-stalls-when-many-claude-ai-mcp-connectors-are-configu|Reduced
-  startup event-loop stalls when many claude.ai MCP connectors are configured…]]'
-- '[[Changes/Claude Code/2026-04-01-3-apps-and-integrations-changes-in-v2-1-89|3 Apps
-  and Integrations changes in v2.1.89]]'
 - '[[Changes/Claude Code/2026-04-01-2-apps-and-integrations-changes-in-v2-1-90|2 Apps
   and Integrations changes in v2.1.90]]'
+- '[[Changes/Gemini CLI/2026-04-01-5-apps-and-integrations-changes-in-v0-36-0|5 Apps
+  and Integrations changes in v0.36.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-01-5-apps-and-integrations-changes-in-v1-0-15|5
+  Apps and Integrations changes in v1.0.15]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc|claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc]]'
 source_type: github_releases
 theme: apps-integrations
@@ -96,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.91
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-2-apps-and-integrations-changes-in-v2-1-90|2 Apps and Integrations changes in v2.1.90]]
+- Earlier: 2026-04-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-01-5-apps-and-integrations-changes-in-v1-0-15|5 Apps and Integrations changes in v1.0.15]]
 - Later: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-2-apps-and-integrations-changes-in-3-0|2 Apps and Integrations changes in 3.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 07e131ef99c242e9efd3237491787b956895a09d42dba106634674084848c9c0
+machine_hash: 5daea71a705a2aee2d16b5ef4938eaed9df4827fc5e71b3daff1f180ccdf71a0
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     number or URL
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-12-starting-a-new-project-directly-from-a-chat|Starting
-  a new project directly from a chat]]'
-- '[[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21|Branch
-  conversations on web]]'
+- '[[Changes/GitHub Copilot CLI/2025-10-03-removed-the-on-exit-usage-stats-from-the-persisted-session-history|Removed
+  the on-exit usage stats from the persisted session history]]'
 - '[[Changes/Claude Code/2025-12-19-added-support-for-custom-session-ids-when-forking-sessions-with-session-id-combi|Added
   support for custom session IDs when forking sessions with --session-id…]]'
+- '[[Changes/Gemini CLI/2026-01-28-docs-update-project-context-and-pr-creator-workflow-by-ntaylormullen-in-https-gi|docs:
+  update project context and pr-creator workflow]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-30-v2-1-27-github-281663155-d003937d|claude-code-2026-01-30-v2-1-27-github-281663155-d003937d]]'
 source_type: github_releases
 theme: projects-workspaces
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-added-support-for-custom-session-ids-when-forking-sessions-with-session-id-combi|Added support for custom session IDs when forking sessions with --session-id…]]
+- Earlier: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-docs-update-project-context-and-pr-creator-workflow-by-ntaylormullen-in-https-gi|docs: update project context and pr-creator workflow]]
 - Later: 2026-02-04 · Claude Code · [[Changes/Claude Code/2026-02-04-added-session-resume-hint-on-exit-showing-how-to-continue-your-conversation-late|Added session resume hint on exit, showing how to continue your conversation later]]
 <!-- chronolog:end -->
 

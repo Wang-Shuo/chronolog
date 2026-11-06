@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 70c322b287eaba615df5098948208964a6d779ea687f46370475635557c846b1
+machine_hash: 0a63db2994d99ae46a59f832bc5a6d4d3b77d69e7e61abb2d2bce4c92de79b80
 product: cursor
 product_name: Cursor
 record:
@@ -54,12 +54,12 @@ record:
   title: Fast edits for long files with Agent
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-agent-tool-limit-upon-reaching-the-25-tool-call-limit-you-can-press-continue-to|Agent
-  tool limit]]'
-- '[[Changes/Cursor/2025-03-23-built-in-modes-custom-modes-beta|Built-in modes & custom
-  modes (beta)]]'
-- '[[Changes/Cursor/2025-04-15-reviewing-agent-generated-code-is-now-easier-with-a-built-in-diff-view-at-the-en|Making
-  reviews easier]]'
+- '[[Changes/Cline/2025-04-24-improve-prompting-for-new-task-tool|Improve prompting
+  for new task tool]]'
+- '[[Changes/OpenHands/2025-05-01-added-support-for-agent-pause-and-resume-functionality-in-the-cli-by-pandukamudi|Added
+  support for agent pause and resume functionality in the CLI]]'
+- '[[Changes/OpenHands/2025-05-12-added-the-ability-for-the-agent-to-save-browser-screenshots-as-image-files-by-xi|Added
+  the ability for the agent to save browser screenshots as image files]]'
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -95,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-reviewing-agent-generated-code-is-now-easier-with-a-built-in-diff-view-at-the-en|Making reviews easier]]
-- Later: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-open-background-agent-control-panel-with-cmd-ctrl-e|Open Background Agent control panel with Cmd/Ctrl+E]]
+- Earlier: 2025-05-12 · OpenHands · [[Changes/OpenHands/2025-05-12-added-the-ability-for-the-agent-to-save-browser-screenshots-as-image-files-by-xi|Added the ability for the agent to save browser screenshots as image files]]
+- Later: 2025-05-20 · OpenHands · [[Changes/OpenHands/2025-05-20-2-agent-mode-changes-in-0-39-0|2 Agent Mode changes in 0.39.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

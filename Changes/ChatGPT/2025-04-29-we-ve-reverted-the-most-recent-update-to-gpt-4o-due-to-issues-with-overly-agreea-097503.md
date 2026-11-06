@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3e1c0deb5007aebd34b6152e3802c1eecaab674f035f604aa612b9a541c92a1b
+machine_hash: 99c889be4bf936ab7e20f5df6a2c54b01164cc8c4b50e7a9a597db2c1ca3708c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,11 +51,11 @@ record:
   title: Updates to GPT-4o
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-04-15-new-models|New models]]'
-- '[[Changes/ChatGPT/2025-04-16-today-we-re-releasing-openai-o3-and-o4-mini-the-latest-in-our-o-series-of-models|o3
-  and o4-mini in ChatGPT]]'
 - '[[Changes/ChatGPT/2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories|Improvements
   to GPT-4o]]'
+- '[[Changes/Cline/2025-04-25-add-prompt-caching-to-gemini-models-in-cline-openrouter-providers|Add
+  prompt caching to gemini models in cline / openrouter providers]]'
+- '[[Changes/Windsurf/2025-04-27-misc|Misc]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-04-29-updates-to-gpt-4o-3c847c95|chatgpt-2025-04-29-updates-to-gpt-4o-3c847c95]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-04-25 · ChatGPT · [[Changes/ChatGPT/2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories|Improvements to GPT-4o]]
-- Later: 2025-05-14 · ChatGPT · [[Changes/ChatGPT/2025-05-14-since-its-launch-in-the-api-in-april-gpt-4-1-has-become-a-favorite-among-develop-286eb2|Releasing GPT-4.1 in ChatGPT for all paid users]]
+- Earlier: 2025-04-27 · Windsurf · [[Changes/Windsurf/2025-04-27-misc|Misc]]
+- Later: 2025-05-03 · Cline · [[Changes/Cline/2025-05-03-5-model-support-changes-in-v3-14-0|5 Model Support changes in v3.14.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

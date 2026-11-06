@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 312e3d93996bb4e4c5953b78345951e6b86fbf32596fd04179c23f201261f299
+machine_hash: 7f3165cbe564044a732b0341333fa652fb1ebb8f5c7ee2902fa41f57831c9ea3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,8 +52,8 @@ record:
   title: Expanded Model Support for Custom GPTs
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-12-creators-can-now-choose-from-the-full-set-of-chatgpt-models-gpt-4o-o3-o4-mini-an-ad1adf|Creators
-  can now choose from the full set of ChatGPT models…]]'
+- '[[Changes/Cline/2025-06-12-4-model-support-changes-in-v3-17-13|4 Model Support
+  changes in v3.17.13]]'
 - '[[Changes/Cursor/2025-06-12-once-connected-try-it-in-any-channel-with-cursor-and-write-a-prompt-use-the-comm|Once
   connected, try it in any channel with @Cursor and write a prompt]]'
 - '[[Changes/ChatGPT/2025-06-13-in-some-cases-a-chain-of-thought-reasoning-will-show-up-unexpectedly-for-simple|In
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-06-13 · ChatGPT · [[Changes/ChatGPT/2025-06-13-in-some-cases-a-chain-of-thought-reasoning-will-show-up-unexpectedly-for-simple|In some cases, a “chain of thought” reasoning will show up unexpectedly for simple queries]]
-- Later: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-improved-embeddings-for-semantic-search|Improved embeddings for semantic search]]
+- Later: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-fixed-cli-displaying-incorrect-default-model-for-anthropic-provider-by-neubig-in|Fixed CLI displaying incorrect default model for Anthropic provider by @neubig…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

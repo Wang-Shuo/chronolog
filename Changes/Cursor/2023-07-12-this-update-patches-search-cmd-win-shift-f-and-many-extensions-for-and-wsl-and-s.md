@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b8b7e8067f64954b689b1e6d806b529771623fe1fede79d44560172df3dd41d
+machine_hash: 4c3f2ce355e22b213cc89d34ceb5a5fa9164b5f0564b228a19eb9ca7faa852b1
 product: cursor
 product_name: Cursor
 record:
@@ -42,11 +42,12 @@ record:
     WSL and SSH users
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-06-17-the-ai-linter-now-shows-diffs|Diffs in AI linter feedback]]'
-- '[[Changes/Cursor/2023-06-24-chat-was-failing-on-some-non-git-folders-that-is-now-fixed|Chat
-  was failing on some non-git folders]]'
-- '[[Changes/Cursor/2023-06-27-you-can-now-use-run-debug-in-cursor-again-the-toolbar-is-back-db8146|Use
-  Run & debug in Cursor again (the toolbar is back)]]'
+- '[[Changes/Aider/2023-07-08-ask-to-create-a-git-repo-if-none-found-to-better-track-gpt-s-code-changes|Ask
+  to create a git repo if none found, to better track GPT''s code changes]]'
+- '[[Changes/Aider/2023-07-08-ask-to-create-a-git-repo-if-none-found-to-better-track-gpt-s-code-changes-e7e81b|Ask
+  to create a git repo if none found, to better track GPT''s code changes]]'
+- '[[Changes/Aider/2023-07-12-2-developer-workflow-changes-in-v0-8-3|2 Developer Workflow
+  changes in v0.8.3]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-12-0-2-47-https-cursor-com-changelog-0-2-47-ee6b4a57|cursor-2023-07-12-0-2-47-https-cursor-com-changelog-0-2-47-ee6b4a57]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -74,8 +75,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-06-27 · Cursor · [[Changes/Cursor/2023-06-27-you-can-now-use-run-debug-in-cursor-again-the-toolbar-is-back-db8146|Use Run & debug in Cursor again (the toolbar is back)]]
-- Later: 2023-07-27 · Cursor · [[Changes/Cursor/2023-07-27-linter-is-back|Linter is back!]]
+- Earlier: 2023-07-12 · Aider · [[Changes/Aider/2023-07-12-2-developer-workflow-changes-in-v0-8-3|2 Developer Workflow changes in v0.8.3]]
+- Later: 2023-07-22 · Aider · [[Changes/Aider/2023-07-22-2-developer-workflow-changes-in-v0-10-0|2 Developer Workflow changes in v0.10.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

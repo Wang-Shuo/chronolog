@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9979514c2f4157980e5fd9f7d44d3a8687237bffe26a3fa7142e61f31a8a4f0b
+machine_hash: 07ada91216ee5209ba9b3d191350679415c13102927edbb99197f2c85437dbc5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,11 +50,12 @@ record:
   title: Memory improvements are starting to roll out to Free users
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|More
-  accessible history]]'
-- '[[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a35dd7|Mobile
-  UI (iOS/Android) changing on Free/Plus/Pro plans]]'
-- '[[Changes/Cursor/2025-05-15-duplicate-chats|Duplicate Chats]]'
+- '[[Changes/Cline/2025-05-21-add-keyboard-shortcut-cmd-to-quickly-focus-cline-from-anywhere-in-vs-code-d699eb|Add
+  keyboard shortcut (Cmd+'') to quickly focus Cline from anywhere in VS Code]]'
+- '[[Changes/Cline/2025-05-22-2-interface-experience-changes-in-v3-17-0|2 Interface
+  Experience changes in v3.17.0]]'
+- '[[Changes/Cline/2025-05-28-add-improved-onboarding-experience-for-new-users-with-guided-setup|Add
+  improved onboarding experience for new users with guided setup]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3|chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -83,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-duplicate-chats|Duplicate Chats]]
-- Later: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-new-settings-and-dashboard|New Settings and Dashboard]]
+- Earlier: 2025-05-28 · Cline · [[Changes/Cline/2025-05-28-add-improved-onboarding-experience-for-new-users-with-guided-setup|Add improved onboarding experience for new users with guided setup]]
+- Later: 2025-06-03 · Windsurf · [[Changes/Windsurf/2025-06-03-improvements-to-import-behavior-during-onboarding|Improvements to import behavior during onboarding]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

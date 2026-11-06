@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cabfe6e4473aece837ebc645478b5941723851bd3dbd51536abaa8b93161f547
+machine_hash: 1f0474a9016c6a30c3180765ee6da5c293bb78d3277e0bbd0311be3f4bde555c
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Reliability and Performance changes in v2.1.90
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-25-3-reliability-and-performance-changes-in-v2-1-83|3
-  Reliability and Performance changes in v2.1.83]]'
-- '[[Changes/Claude Code/2026-03-26-2-reliability-and-performance-changes-in-v2-1-84|2
-  Reliability and Performance changes in v2.1.84]]'
-- '[[Changes/Claude Code/2026-03-26-improved-scroll-performance-with-large-transcripts-by-replacing-wasm-yoga-layout|Improved
-  scroll performance with large transcripts by replacing WASM yoga-layout…]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-26-cli-no-longer-crashes-with-out-of-memory-errors-when-running-shell-commands-that|CLI
+  no longer crashes with out-of-memory errors when running shell commands…]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-30-2-reliability-and-performance-changes-in-v1-0-13|2
+  Reliability and Performance changes in v1.0.13]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-31-2-reliability-and-performance-changes-in-v1-0-14|2
+  Reliability and Performance changes in v1.0.14]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b|claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b]]'
 source_type: github_releases
 theme: reliability-performance
@@ -87,8 +87,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.90
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-improved-scroll-performance-with-large-transcripts-by-replacing-wasm-yoga-layout|Improved scroll performance with large transcripts by replacing WASM yoga-layout…]]
-- Later: 2026-04-02 · Claude Code · [[Changes/Claude Code/2026-04-02-improved-performance-faster-stripansi-on-bun-by-routing-through-bun-stripansi|Improved performance: faster stripAnsi on Bun by routing through Bun.stripANSI]]
+- Earlier: 2026-03-31 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-31-2-reliability-and-performance-changes-in-v1-0-14|2 Reliability and Performance changes in v1.0.14]]
+- Later: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-perf-cli-background-ide-client-to-speed-up-initialization-by-sehoon38-in-https-g|perf(cli): background IDE client to speed up initialization]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

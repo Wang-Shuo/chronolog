@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 746acef50e6bca714b8c53aa5dc2c8b0dc73eca04ae869366dcdcd8e1f42f808
+machine_hash: b91f8d8e7512865232f705a85455b836ee91beb50b064c2d9d6bd8c58d0a661d
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,13 +45,13 @@ record:
   title: 2 Safety and Privacy changes in v2.1.186
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-15-2-safety-and-privacy-changes-in-v2-1-178|2 Safety
-  and Privacy changes in v2.1.178]]'
 - '[[Changes/Claude Code/2026-06-17-added-sandbox-allowappleevents-opt-in-setting-that-lets-sandboxed-commands-send|Added
   sandbox.allowAppleEvents opt-in setting that lets sandboxed commands send…]]'
 - '[[Changes/ChatGPT/2026-06-18-app-permission-controls-you-can-now-choose-when-chatgpt-asks-before-using-connec|App
   permission controls: You can now choose when ChatGPT asks before using connected
   apps]]'
+- '[[Changes/Codex CLI/2026-06-18-7-safety-and-privacy-changes-in-rust-v0-141-0|7
+  Safety and Privacy changes in rust-v0.141.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b|claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b]]'
 source_type: github_releases
 theme: safety-privacy
@@ -90,8 +90,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.186
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-app-permission-controls-you-can-now-choose-when-chatgpt-asks-before-using-connec|App permission controls: You can now choose when ChatGPT asks before using connected apps]]
-- Later: 2026-06-23 · Claude Code · [[Changes/Claude Code/2026-06-23-2-safety-and-privacy-changes-in-v2-1-187|2 Safety and Privacy changes in v2.1.187]]
+- Earlier: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-7-safety-and-privacy-changes-in-rust-v0-141-0|7 Safety and Privacy changes in rust-v0.141.0]]
+- Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-12-safety-and-privacy-changes-in-rust-v0-142-0|12 Safety and Privacy changes in rust-v0.142.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

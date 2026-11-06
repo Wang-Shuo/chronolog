@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 97b24ca7ff8d79e192b7ab1ef50a54a4814a5d8adc2e1305ee00e190ea58993c
+machine_hash: db4c030851520600c6aeed52f732c7537225ee96c7a414833b20e32734e44ea3
 product: cursor
 product_name: Cursor
 record:
@@ -51,11 +51,12 @@ record:
   title: Clearer, more consistent team and enterprise policy and access controls
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-11-21-3-enterprise-and-administration-changes-in-2-1|3 Enterprise
-  and Administration changes in 2.1]]'
-- '[[Changes/Cursor/2025-12-18-many-of-the-largest-software-companies-in-the-world-have-adopted-cursor-for-ente|Many
-  of the largest software companies in the world have adopted Cursor for Enterprise]]'
-- '[[Changes/Cursor/2026-01-22-cursor-blame|Cursor Blame]]'
+- '[[Changes/Gemini CLI/2026-01-28-feat-admin-implement-admin-controls-polling-and-restart-prompt-by-skeshive-in-ht|feat(admin):
+  implement admin controls polling and restart prompt]]'
+- '[[Changes/Codex CLI/2026-02-11-enterprise-admin-requirements-can-now-restrict-web-search-modes-and-define-netwo|Enterprise/admin
+  requirements can now restrict web search modes and define network…]]'
+- '[[Changes/Gemini CLI/2026-02-25-feat-admin-add-admin-controls-documentation-by-skeshive-in-https-github-com-goog|feat(admin):
+  Add admin controls documentation]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3]]'
 source_type: cursor_changelog
 theme: enterprise-admin
@@ -95,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-cursor-blame|Cursor Blame]]
+- Earlier: 2026-02-25 · Gemini CLI · [[Changes/Gemini CLI/2026-02-25-feat-admin-add-admin-controls-documentation-by-skeshive-in-https-github-com-goog|feat(admin): Add admin controls documentation]]
 - Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-improved-macos-startup-for-claude-ai-enterprise-team-users-by-skipping-an-unnece|Improved macOS startup for Claude.ai enterprise/team users by skipping…]]
 <!-- chronolog:end -->
 

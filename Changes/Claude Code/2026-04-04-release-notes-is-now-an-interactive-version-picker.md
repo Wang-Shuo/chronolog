@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0debd6cb9082653b4886860901fd4efa8a3b78928271992f38efbfb8b3e71c9a
+machine_hash: 1eda0d4c16b82b3768f7d0514706ca2eb839ab88380a7f3c79ec0d649e15cd2e
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: '`/release-notes` is now an interactive version picker'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-01-added-claude-code-no-flicker-1-environment-variable-to-opt-into-flicker-free-alt|Added
-  CLAUDE_CODE_NO_FLICKER=1 environment variable to opt into flicker-free…]]'
 - '[[Changes/Claude Code/2026-04-02-feedback-now-explains-why-it-s-unavailable-instead-of-disappearing-from-the-slas|/feedback
   now explains why it''s unavailable instead of disappearing from the slash menu]]'
 - '[[Changes/Cursor/2026-04-02-deprecated-the-previous-worktree-and-best-of-n-selection-from-the-editor|Deprecated
   the previous worktree and best-of-n selection from the Editor]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-03-resume-session-picker-loads-significantly-faster-especially-with-large-session-h|/resume
+  session picker loads significantly faster, especially with large session histories]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5|claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5]]'
 source_type: github_releases
 theme: interface-experience
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-deprecated-the-previous-worktree-and-best-of-n-selection-from-the-editor|Deprecated the previous worktree and best-of-n selection from the Editor]]
-- Later: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-2-interface-experience-changes-in-v2-1-97|2 Interface Experience changes in v2.1.97]]
+- Earlier: 2026-04-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-03-resume-session-picker-loads-significantly-faster-especially-with-large-session-h|/resume session picker loads significantly faster, especially with large session histories]]
+- Later: 2026-04-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-04-session-resume-picker-correctly-groups-sessions-by-branch-and-repository-on-firs|Session resume picker correctly groups sessions by branch and repository on first use]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

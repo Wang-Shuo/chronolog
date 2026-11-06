@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b70eb184422dce622944900bd8749552eaf69714ce91b04d936711e1ccc78de5
+machine_hash: 1dfb9c1a1189d0149dd8a065d2724c0ce20f93d7e85bed47a15309b4006d4b2c
 product: claude-code
 product_name: Claude Code
 record:
@@ -59,10 +59,10 @@ record:
   title: 6 Model Support changes in v2.1.257
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-26-added-claude-api-cost-optimize-to-profile-an-existing-project-s-claude-api-spend|Added
-  /claude-api cost-optimize to profile an existing project''s Claude API spend…]]'
 - '[[Changes/Claude Code/2026-08-28-5-model-support-changes-in-v2-1-251|5 Model Support
   changes in v2.1.251]]'
+- '[[Changes/Codex CLI/2026-08-29-3-model-support-changes-in-rust-v0-151-0|3 Model
+  Support changes in rust-v0.151.0]]'
 - '[[Changes/ChatGPT/2026-08-31-site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are|Site
   tools use WebMCP and require a supported account, model, and webpage]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6|claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6]]'
@@ -116,7 +116,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.257
 ## Nearby in Model Support
 
 - Earlier: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are|Site tools use WebMCP and require a supported account, model, and webpage]]
-- Later: 2026-09-03 · ChatGPT · [[Changes/ChatGPT/2026-09-03-today-we-re-introducing-gpt-6-astra-with-improvements-in-coding-research-compute-069f67|Introducing GPT-6 Astra]]
+- Later: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-6-model-support-changes-in-rust-v0-152-0|6 Model Support changes in rust-v0.152.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

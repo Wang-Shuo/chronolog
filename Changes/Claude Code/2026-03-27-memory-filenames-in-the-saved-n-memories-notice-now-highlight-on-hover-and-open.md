@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: df0a570a2e3856fcd3758168cfb9dc9c6f04af93e4785948067d76ae2473fcae
+machine_hash: 3f912fa368e40b44da2543ce20caf87e44b69150358f449159a40e2e5ec7b82a
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     and open on click
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-28-project-configs-auto-memory-now-shared-across-git-worktrees-of-the-same-reposito|Project
-  configs & auto memory now shared across git worktrees of the same repository]]'
-- '[[Changes/Claude Code/2026-03-12-added-automemorydirectory-setting-to-configure-a-custom-directory-for-auto-memor|Added
-  autoMemoryDirectory setting to configure a custom directory for auto-memory…]]'
-- '[[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|Sunsetting
-  the “Nerdy” base style]]'
+- '[[Changes/Codex CLI/2026-03-19-4-memory-and-personalization-changes-in-rust-v0-116-0|4
+  Memory and Personalization changes in rust-v0.116.0]]'
+- '[[Changes/Gemini CLI/2026-03-24-refactor-core-align-jit-memory-placement-with-tiered-context-model-by-sandytao52|refactor(core):
+  align JIT memory placement with tiered context model]]'
+- '[[Changes/Codex CLI/2026-03-26-15175-chore-morpheus-does-not-generate-memories-jif-oai|♯15175
+  chore: morpheus does not generate memories @jif-oai]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859|claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859]]'
 source_type: github_releases
 theme: memory
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-03-17 · ChatGPT · [[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|Sunsetting the “Nerdy” base style]]
-- Later: 2026-04-22 · ChatGPT · [[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|Fast answers in ChatGPT]]
+- Earlier: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-15175-chore-morpheus-does-not-generate-memories-jif-oai|♯15175 chore: morpheus does not generate memories @jif-oai]]
+- Later: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-3-memory-and-personalization-changes-in-v0-36-0|3 Memory and Personalization changes in v0.36.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

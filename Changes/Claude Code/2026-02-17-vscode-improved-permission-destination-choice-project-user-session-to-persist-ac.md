@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9749de174458fdb1ffcb365ef8695a3844cd3bf33de64106fd4e234162070bd6
+machine_hash: b343e774e0a8178a11ba06eed123da25445344267fd333540e5a7744386d0a5e
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     persist…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-06-fixed-a-bug-where-commands-excluded-from-sandboxing-via-sandbox-excludedcommands|Fixed
-  a bug where commands excluded from sandboxing…]]'
-- '[[Changes/Claude Code/2026-02-10-2-safety-and-privacy-changes-in-v2-1-38|2 Safety
-  and Privacy changes in v2.1.38]]'
+- '[[Changes/Codex CLI/2026-02-12-5-safety-and-privacy-changes-in-rust-v0-100-0|5
+  Safety and Privacy changes in rust-v0.100.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-12-permission-prompts-with-long-diffs-are-scrollable-in-alt-screen-mode|Permission
+  prompts with long diffs are scrollable in alt-screen mode]]'
 - '[[Changes/Claude Code/2026-02-13-2-safety-and-privacy-changes-in-v2-1-41|2 Safety
   and Privacy changes in v2.1.41]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6|claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6]]'
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-2-safety-and-privacy-changes-in-v2-1-41|2 Safety and Privacy changes in v2.1.41]]
-- Later: 2026-02-17 · Cursor · [[Changes/Cursor/2026-02-17-sandbox-network-access-controls|Sandbox network access controls]]
+- Later: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-9-safety-and-privacy-changes-in-rust-v0-102-0|9 Safety and Privacy changes in rust-v0.102.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

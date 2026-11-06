@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7189f7c6d162900f276a2c7582cadba70d7da329042ff79312a318a4f3cdb315
+machine_hash: 859bdcfb238f944539f9e81f677da2a9512f260ebab2c7a8c84a54ddf4da6071
 product: cursor
 product_name: Cursor
 record:
@@ -50,10 +50,10 @@ record:
   title: Pull requests
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-21-added-emoji-shortcode-autocomplete-in-the-prompt-input-type-heart-to-insert-or-h|Added
-  emoji shortcode autocomplete in the prompt input]]'
-- '[[Changes/Claude Code/2026-08-04-changed-emoji-autocomplete-to-accept-common-alternate-shortcodes-like-thumbsup-t|Changed
-  emoji autocomplete to accept common alternate shortcodes like :thumbsup:…]]'
+- '[[Changes/Cline/2026-08-11-remove-the-stale-double-check-completion-feature-tip|Remove
+  the stale "Double-Check Completion" feature tip]]'
+- '[[Changes/Cline/2026-08-13-use-the-editor-s-foreground-color-for-diff-block-text-so-diffs-stay-legible-in-t|Use
+  the editor''s foreground color for diff block text, so diffs stay legible…]]'
 - '[[Changes/Cursor/2026-08-17-origin-repos|Origin Repos]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-17-origin-code-hosting-https-cursor-com-changelog-origin-code-hosti-ed3a9195|cursor-2026-08-17-origin-code-hosting-https-cursor-com-changelog-origin-code-hosti-ed3a9195]]'
 source_type: cursor_changelog
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-changed-emoji-autocomplete-to-accept-common-alternate-shortcodes-like-thumbsup-t|Changed emoji autocomplete to accept common alternate shortcodes like :thumbsup:…]]
-- Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-claude-in-chrome-clear-now-closes-the-session-s-chrome-tab-group-and-empty-group|Claude in Chrome]]
+- Earlier: 2026-08-13 · Cline · [[Changes/Cline/2026-08-13-use-the-editor-s-foreground-color-for-diff-block-text-so-diffs-stay-legible-in-t|Use the editor's foreground color for diff block text, so diffs stay legible…]]
+- Later: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-37828-track-running-unified-exec-processes-at-turn-completion-copyberry|♯37828 Track running unified exec processes at turn completion @copyberry]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

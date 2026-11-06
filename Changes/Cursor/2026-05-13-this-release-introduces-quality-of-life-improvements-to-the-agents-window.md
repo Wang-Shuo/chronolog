@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 46d89b1d203dfd6483e152fda2f766556ef2728b67ab89937b6d720743521f3b
+machine_hash: ed94db3187a18a1d2e51817ee24e8bc0c5e732e52e17a606e06ccc818d3cd27f
 product: cursor
 product_name: Cursor
 record:
@@ -41,8 +41,8 @@ record:
   title: Cursor introduces quality-of-life improvements to the Agents Window
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-12-2-agent-mode-changes-in-v2-1-140|2 Agent Mode
-  changes in v2.1.140]]'
+- '[[Changes/Gemini CLI/2026-05-12-2-agent-mode-changes-in-v0-42-0|2 Agent Mode changes
+  in v0.42.0]]'
 - '[[Changes/Claude Code/2026-05-13-4-agent-mode-changes-in-v2-1-141|4 Agent Mode
   changes in v2.1.141]]'
 - '[[Changes/Cursor/2026-05-13-improved-agent-led-environment-setup|Improved agent-led

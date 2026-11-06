@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b12c177af7083c2a7e613db9321e62ff43b7508274da4e06378a706df4c48ab2
+machine_hash: bcfbd1f382bcf1ef39cf3ae75470de75a8f0295ce848bf52ea719b72c29c2d63
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,9 +46,10 @@ record:
   title: Improved the refusal when Claude tries to invoke a skill with `disable-model-invocation`
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-22-optimization-modes-e62142|Optimization modes]]'
-- '[[Changes/Claude Code/2026-07-24-3-model-support-changes-in-v2-1-219|3 Model Support
-  changes in v2.1.219]]'
+- '[[Changes/Cline/2026-08-02-4-model-support-changes-in-v4-1-3|4 Model Support changes
+  in v4.1.3]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-03-the-allow-all-auto-safety-judge-model-is-no-longer-user-configurable-the-judge-m|The
+  /allow-all auto safety-judge model is no longer user-configurable]]'
 - '[[Changes/Claude Code/2026-08-04-3-model-support-changes-in-v2-1-221|3 Model Support
   changes in v2.1.221]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-222-github-365137491-9ea4d4a2|claude-code-2026-08-04-v2-1-222-github-365137491-9ea4d4a2]]'
@@ -82,7 +83,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-3-model-support-changes-in-v2-1-221|3 Model Support changes in v2.1.221]]
-- Later: 2026-08-06 · ChatGPT · [[Changes/ChatGPT/2026-08-06-plus-and-pro-users-can-now-use-an-updated-gpt-5-6-sol-in-chatgpt-with-more-relia-397840|Updates to GPT‑5.6 in ChatGPT]]
+- Later: 2026-08-05 · Cline · [[Changes/Cline/2026-08-05-5-model-support-changes-in-v4-1-4|5 Model Support changes in v4.1.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

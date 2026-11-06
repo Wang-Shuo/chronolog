@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 882fa2868e4bcc52689b689ac16c016e4d8d41a3e45dfd23a1c1c9408e34a467
+machine_hash: 1d8f8c6ff302845277829531f024b0126d87dd54c67f67aaadad0d15905311df
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Agent Mode changes in v2.1.163
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-29-auto-review-is-a-new-run-mode-that-allows-cursor-to-work-for-longer-with-fewer-a-61df08|Auto-review
-  Run Mode]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-01-canceling-a-running-shell-command-ctrl-c-on-a-command-or-aborting-an-agent-comma|Canceling
+  a running shell command (Ctrl+C on a !command, or aborting an agent command]]'
 - '[[Changes/Claude Code/2026-06-02-improved-performance-of-opening-recently-inactive-background-agent-sessions-in-c|Improved
   performance of opening recently-inactive background agent sessions…]]'
 - '[[Changes/Claude Code/2026-06-02-claude-agents-rows-now-show-done-total-before-the-detail-when-work-is-fanned-out|claude
@@ -89,7 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.163
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-claude-agents-rows-now-show-done-total-before-the-detail-when-work-is-fanned-out|claude agents rows now show done/total before the detail when work is fanned out]]
-- Later: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-added-the-ability-for-agents-to-embed-buttons-in-canvases-that-will-run-a-specif|Added the ability for agents to embed buttons in canvases that will run a specific…]]
+- Later: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-12-agent-mode-changes-in-rust-v0-137-0|12 Agent Mode changes in rust-v0.137.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

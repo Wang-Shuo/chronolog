@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6bf40bcc8cc77b6dd2806f9b65db5ca79054386362bea90b9bc8227d8ecd4a59
+machine_hash: 53d62dff3ab0b1a87573f714b899da2b0e8dd5ed65385da0a024469ffb1c46c3
 product: cursor
 product_name: Cursor
 record:
@@ -41,8 +41,8 @@ record:
   title: Background Agents have been renamed to Cloud Agents
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-image-file-support-for-agent|Image file support for
-  Agent]]'
+- '[[Changes/GitHub Copilot CLI/2025-10-28-2-agent-mode-changes-in-v0-0-353|2 Agent
+  Mode changes in v0.0.353]]'
 - '[[Changes/Cursor/2025-10-29-browser-ga-1124ce|Browser (GA)]]'
 - '[[Changes/Cursor/2025-10-29-improved-agent-harness|Improved Agent Harness]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
@@ -93,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-image-file-support-for-agent|Image file support for Agent]]
-- Later: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-instant-grep-beta|Instant Grep (Beta)]]
+- Earlier: 2025-10-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-28-2-agent-mode-changes-in-v0-0-353|2 Agent Mode changes in v0.0.353]]
+- Later: 2025-10-29 · Gemini CLI · [[Changes/Gemini CLI/2025-10-29-chore-subagents-remove-legacy-subagent-code-by-abhipatel12-in-https-github-com-g|chore(subagents): Remove legacy subagent code]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

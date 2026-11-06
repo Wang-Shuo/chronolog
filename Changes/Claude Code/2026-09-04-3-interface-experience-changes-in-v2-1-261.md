@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f753125a6db5ef797e1a646a98d565027003428571ab6de17408237f6dc364d7
+machine_hash: 329fd6a85ff44555e5d0d4ba8f56ed42a0b6bb5efe1dc1d946b4443ff5ab358f
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Interface Experience changes in v2.1.261
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-2-interface-experience-changes-in-v2-1-257|2 Interface
-  Experience changes in v2.1.257]]'
 - '[[Changes/Claude Code/2026-09-02-vscode-added-an-active-quick-filter-and-a-status-filter-menu-needs-input-working|VSCode
   Added an Active quick filter and a status filter menu…]]'
 - '[[Changes/Claude Code/2026-09-03-4-interface-experience-changes-in-v2-1-260|4 Interface
   Experience changes in v2.1.260]]'
+- '[[Changes/Codex CLI/2026-09-03-3-interface-experience-changes-in-rust-v0-153-0|3
+  Interface Experience changes in rust-v0.153.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519|claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519]]'
 source_type: github_releases
 theme: interface-experience
@@ -97,8 +97,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.261
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-4-interface-experience-changes-in-v2-1-260|4 Interface Experience changes in v2.1.260]]
-- Later: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add|Edit and comment]]
+- Earlier: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-3-interface-experience-changes-in-rust-v0-153-0|3 Interface Experience changes in rust-v0.153.0]]
+- Later: 2026-09-04 · Codex CLI · [[Changes/Codex CLI/2026-09-04-42874-0-153-hotfix-show-astra-in-bundled-model-picker-rhan-oai|♯42874 0.153 hotfix Show Astra in bundled model picker @rhan-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

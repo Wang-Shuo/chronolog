@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 94b55283882c72624d20f7b25cf67a592b52bc86df79dffa46a367c9f26e854d
+machine_hash: b3364b32d2e0802404bc5fe6d7a223c2aa7a7f4f64748f96302e3fcd8ac0e785
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.129
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-28-4-developer-workflow-changes-in-v2-1-121|4 Developer
-  Workflow changes in v2.1.121]]'
-- '[[Changes/Cursor/2026-04-29-added-first-class-run-streaming-with-sse-events-reconnect-support-via-last-event|Added
-  first-class run streaming with SSE events, reconnect support…]]'
-- '[[Changes/Claude Code/2026-05-01-3-developer-workflow-changes-in-v2-1-126|3 Developer
-  Workflow changes in v2.1.126]]'
+- '[[Changes/Cline/2026-05-01-restore-vs-code-foreground-terminal-support-and-settings|Restore
+  VS Code foreground terminal support and settings]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-01-slash-command-suggestions-rank-prefix-matches-above-fuzzy-matches|Slash
+  command suggestions rank prefix matches above fuzzy matches]]'
+- '[[Changes/Gemini CLI/2026-05-05-3-developer-workflow-changes-in-v0-41-0|3 Developer
+  Workflow changes in v0.41.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f|claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f]]'
 source_type: github_releases
 theme: developer-workflow
@@ -85,8 +85,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.129
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-3-developer-workflow-changes-in-v2-1-126|3 Developer Workflow changes in v2.1.126]]
-- Later: 2026-05-07 · Claude Code · [[Changes/Claude Code/2026-05-07-added-worktree-baseref-setting-fresh-head-to-choose-whether-worktree-enterworktr|Added worktree.baseRef setting (fresh  /  head) to choose whether --worktree…]]
+- Earlier: 2026-05-05 · Gemini CLI · [[Changes/Gemini CLI/2026-05-05-3-developer-workflow-changes-in-v0-41-0|3 Developer Workflow changes in v0.41.0]]
+- Later: 2026-05-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-06-2-developer-workflow-changes-in-v1-0-42|2 Developer Workflow changes in v1.0.42]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

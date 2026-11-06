@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 8f120e6e88259f92054953508fbf2adf1ec929ef6cb0b1f11de31feac4391d9f
+machine_hash: d24e0892a10e16430b2fbaf44fa73a2bdb7033d006c111f016792858abfac31a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -75,12 +75,12 @@ record:
   title: Introducing the app directory in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-13-we-re-rolling-out-two-new-ways-to-bring-slack-and-chatgpt-together-a-connector-t-be2213|Slack
-  connector and app]]'
-- '[[Changes/Cursor/2025-11-21-project-level-hooks-are-now-supported|Project level
-  hooks are now supported]]'
-- '[[Changes/Cursor/2025-12-10-system-notification-actions-for-terminal-and-mcp-approval-rejection|System
-  notification actions for terminal and MCP approval/rejection]]'
+- '[[Changes/Codex CLI/2025-12-15-7962-docs-update-the-docs-for-openai-codex-shell-tool-mcp|♯7962
+  docs: update the docs for @openai/codex-shell-tool-mcp]]'
+- '[[Changes/Gemini CLI/2025-12-16-9-apps-and-integrations-changes-in-v0-21-0|9 Apps
+  and Integrations changes in v0.21.0]]'
+- '[[Changes/OpenHands/2025-12-16-added-azure-devops-integration-support-by-zerofltexx-in-https-github-com-openhan|Added
+  Azure DevOps integration support]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-18-introducing-the-app-directory-in-chatgpt-c4ab90ba|chatgpt-2025-12-18-introducing-the-app-directory-in-chatgpt-c4ab90ba]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -107,8 +107,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-system-notification-actions-for-terminal-and-mcp-approval-rejection|System notification actions for terminal and MCP approval/rejection]]
-- Later: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-2-apps-and-integrations-changes-in-v2-0-73|2 Apps and Integrations changes in v2.0.73]]
+- Earlier: 2025-12-16 · OpenHands · [[Changes/OpenHands/2025-12-16-added-azure-devops-integration-support-by-zerofltexx-in-https-github-com-openhan|Added Azure DevOps integration support]]
+- Later: 2025-12-18 · Codex CLI · [[Changes/Codex CLI/2025-12-18-2-apps-and-integrations-changes-in-rust-v0-74-0|2 Apps and Integrations changes in rust-v0.74.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: de85167cc9d982bf74d40ff3cfd2abc2af84ec815ddde644d54f379969ebdd0d
+machine_hash: 43f2a4257b2b1b4379c43d2c09b5445a62794702f6b21ff312da3b520d34d931
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,12 +47,11 @@ record:
   title: To create a Site, start in ChatGPT Work on the web or in Work or Codex…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-18-improved-camera-and-photo-uploads-taking-and-uploading-photos-in-chatgpt-on-ios|Improved
-  camera and photo uploads]]'
-- '[[Changes/ChatGPT/2026-06-18-chatgpt-now-has-more-ways-to-help-with-common-questions-from-pronunciation-guida|ChatGPT
-  now has more ways to help with common questions, from pronunciation guidance…]]'
-- '[[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|Improved
-  background session reliability]]'
+- '[[Changes/Windsurf/2026-07-04-devin-desktop|Devin Desktop]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-07-3-mobile-and-desktop-changes-in-v1-0-69|3
+  Mobile and Desktop changes in v1.0.69]]'
+- '[[Changes/Codex CLI/2026-07-08-2-mobile-and-desktop-changes-in-rust-v0-143-0|2
+  Mobile and Desktop changes in rust-v0.143.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd|chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -83,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|Improved background session reliability]]
+- Earlier: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-2-mobile-and-desktop-changes-in-rust-v0-143-0|2 Mobile and Desktop changes in rust-v0.143.0]]
 - Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi|The new ChatGPT desktop app is available globally for macOS and Windows]]
 <!-- chronolog:end -->
 

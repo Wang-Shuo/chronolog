@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3587c33e8ecf26f0c61b5bfc47d0c8434e33e07128ef8e90487fb3cc92d00bef
+machine_hash: d02257fe39739660f9c5b5c470565cccc25e8ab2fecd5434b22399963b918df1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,10 +39,10 @@ record:
   title: Faster responses
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-06-improved-rendering-speed-of-long-bulleted-or-numbered-replies-they-stream-resize|Improved
-  rendering speed of long bulleted or numbered replies]]'
 - '[[Changes/Claude Code/2026-10-09-improved-transcript-toggle-ctrl-o-responsiveness-in-code-heavy-conversations-by|Improved
   transcript toggle (ctrl+o) responsiveness in code-heavy conversations…]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-13-emergency-memory-relief-in-long-sessions-can-now-bypass-its-cooldown-before-v8-a|Emergency
+  memory relief in long sessions can now bypass its cooldown before V8…]]'
 - '[[Changes/Claude Code/2026-10-14-improved-memory-and-disk-use-when-pdfs-are-mentioned-their-bytes-are-no-longer-k|Improved
   memory and disk use when PDFs are @-mentioned]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-16-updates-to-gpt-6-pro-model-in-chatgpt-6a44f64a|chatgpt-2026-10-16-updates-to-gpt-6-pro-model-in-chatgpt-6a44f64a]]'

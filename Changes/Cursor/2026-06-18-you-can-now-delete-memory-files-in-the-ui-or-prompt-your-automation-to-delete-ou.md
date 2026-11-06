@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: db4564e015798e0bd2ded271c2667818520a9b5f6c980ca4fee05c343fe7a12c
+machine_hash: 61564e7c693c1eecdfe847e962857a5a4ad1a55edb7339b73016a2146451b230
 product: cursor
 product_name: Cursor
 record:
@@ -55,12 +55,12 @@ record:
     memories…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-04-we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping-9a48f3|Memory
-  that stays more up to date]]'
-- '[[Changes/ChatGPT/2026-06-12-you-can-now-delete-the-memories-shown-on-your-memory-summary-page-and-turn-memor-f16782|Additional
-  controls for memory summary]]'
+- '[[Changes/Codex CLI/2026-06-15-27129-feat-use-provider-defaults-for-memory-models-celia-oai|♯27129
+  feat: use provider defaults for memory models @celia-oai]]'
 - '[[Changes/Claude Code/2026-06-17-changed-the-improved-n-memories-line-to-no-longer-list-individual-files-outside|Changed
   the Improved N memories line to no longer list individual files outside…]]'
+- '[[Changes/Codex CLI/2026-06-18-3-memory-and-personalization-changes-in-rust-v0-141-0|3
+  Memory and Personalization changes in rust-v0.141.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-18-3-8-https-cursor-com-changelog-06-18-26-0b493e15|cursor-2026-06-18-3-8-https-cursor-com-changelog-06-18-26-0b493e15]]'
 source_type: cursor_changelog
 theme: memory
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-changed-the-improved-n-memories-line-to-no-longer-list-individual-files-outside|Changed the Improved N memories line to no longer list individual files outside…]]
+- Earlier: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-3-memory-and-personalization-changes-in-rust-v0-141-0|3 Memory and Personalization changes in rust-v0.141.0]]
 - Later: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-improved-memory-the-agent-is-now-reminded-to-compact-its-memory-md-index-when-ne|Improved memory: the agent is now reminded to compact its MEMORY.md index…]]
 <!-- chronolog:end -->
 

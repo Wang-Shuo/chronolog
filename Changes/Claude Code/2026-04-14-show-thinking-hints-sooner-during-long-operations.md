@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bae22c98bd85a56a2b0724e6c16fba9c7442b8fb6387ba14242380e83acc37a1
+machine_hash: 1c640d7c587e3889a8aa9c25c45315d579fb47cb7dc081576d8708337b481c3a
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,9 +42,9 @@ record:
   title: Show thinking hints sooner during long operations
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-13-improved-network-error-messages-connection-errors-now-show-a-retry-message-immed|Improved
-  network error messages]]'
 - '[[Changes/Cursor/2026-04-13-diff-to-file-navigation|Diff to file navigation]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-13-2-interface-experience-changes-in-v1-0-25|2
+  Interface Experience changes in v1.0.25]]'
 - '[[Changes/Claude Code/2026-04-14-2-interface-experience-changes-in-v2-1-108|2 Interface
   Experience changes in v2.1.108]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-14-v2-1-107-github-308667350-26680a69|claude-code-2026-04-14-v2-1-107-github-308667350-26680a69]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2e1a5b24036e051879525998ecc90552cba9a96c7a0d5f8dea1dcea7898abb9e
+machine_hash: 7a0f1cc80af6a12d17c9f13ab8469b803c7550417411fab057a5e685e64abd3f
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,12 +55,12 @@ record:
     longer…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-19-claude-no-longer-runs-the-verify-and-code-review-skills-on-its-own-invoke-them-w|Claude
-  no longer runs the /verify and /code-review skills on its own]]'
-- '[[Changes/Claude Code/2026-07-20-2-developer-workflow-changes-in-v2-1-216|2 Developer
-  Workflow changes in v2.1.216]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-20-8-developer-workflow-changes-in-v1-0-72|8
+  Developer Workflow changes in v1.0.72]]'
 - '[[Changes/Claude Code/2026-07-21-improved-footer-pr-badge-links-to-be-clickable-hyperlinks-even-when-terminal-sup|Improved
   footer PR badge links to be clickable hyperlinks even when terminal support…]]'
+- '[[Changes/Codex CLI/2026-07-21-12-developer-workflow-changes-in-rust-v0-145-0|12
+  Developer Workflow changes in rust-v0.145.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4|claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4]]'
 source_type: github_releases
 theme: developer-workflow
@@ -97,8 +97,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-improved-footer-pr-badge-links-to-be-clickable-hyperlinks-even-when-terminal-sup|Improved footer PR badge links to be clickable hyperlinks even when terminal support…]]
-- Later: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-3-developer-workflow-changes-in-v2-1-221|3 Developer Workflow changes in v2.1.221]]
+- Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-12-developer-workflow-changes-in-rust-v0-145-0|12 Developer Workflow changes in rust-v0.145.0]]
+- Later: 2026-07-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-23-2-developer-workflow-changes-in-v1-0-74|2 Developer Workflow changes in v1.0.74]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ae655e3d83ae6c6ab42d58652f67d8ac8c051afa3e8d171b1b3eb98dc1af85c7
+machine_hash: ee35302a5695f5ac4e3716df563dc0e197ed6de9cd5f9047160ef96078a96363
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
   title: MCP OAuth now follows RFC 9728 Protected Resource Metadata discovery to find…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-11-added-actionable-guidance-when-oauth-login-or-connectivity-checks-fail-due-to-ss|Added
-  actionable guidance when OAuth login or connectivity checks fail due to SSL…]]'
-- '[[Changes/Claude Code/2026-03-18-added-console-flag-to-claude-auth-login-for-anthropic-console-api-billing-authen|Added
-  --console flag to claude auth login for Anthropic Console (API billing)…]]'
-- '[[Changes/Claude Code/2026-03-20-updated-mcp-oauth-to-support-client-id-metadata-document-cimd-sep-991-for-server|Updated
-  MCP OAuth to support Client ID Metadata Document (CIMD / SEP-991)…]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-20-login-device-flow-works-correctly-in-codespaces-and-remote-terminal-environments|/login
+  device flow works correctly in Codespaces and remote terminal environments]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-23-mcp-oauth-authentication-works-with-mcp-servers-like-the-atlassian-rovo-mcp-serv|MCP
+  OAuth authentication works with MCP servers like the Atlassian Rovo MCP Server…]]'
+- '[[Changes/Gemini CLI/2026-03-24-docs-core-add-authentication-guide-for-remote-subagents-by-adamfweidman-in-https|docs(core):
+  add authentication guide for remote subagents]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7|claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7]]'
 source_type: github_releases
 theme: account-access
@@ -93,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-03-20 · Claude Code · [[Changes/Claude Code/2026-03-20-updated-mcp-oauth-to-support-client-id-metadata-document-cimd-sep-991-for-server|Updated MCP OAuth to support Client ID Metadata Document (CIMD / SEP-991)…]]
-- Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-added-interactive-bedrock-setup-wizard-accessible-from-the-login-screen-when-sel|Added interactive Bedrock setup wizard accessible from the login screen…]]
+- Earlier: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-docs-core-add-authentication-guide-for-remote-subagents-by-adamfweidman-in-https|docs(core): add authentication guide for remote subagents]]
+- Later: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-4-account-and-access-changes-in-rust-v0-117-0|4 Account and Access changes in rust-v0.117.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

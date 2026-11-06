@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5aec89ee5ad7667da914ebbd6afd1a62ab91e7b05aec4da01e772793f01db451
+machine_hash: 2ebcaa9e8b247b1ae5fa431cc8bdc96edc83cbb1c629ec931648eb0f4c3e5769
 product: cursor
 product_name: Cursor
 record:
@@ -58,12 +58,12 @@ record:
   title: Faster Tab
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-04-faster-responses-with-parallel-tool-calls|Faster responses
-  with parallel tool calls]]'
-- '[[Changes/Cursor/2025-06-12-3-reliability-and-performance-changes-in-1-1|3 Reliability
-  and Performance changes in 1.1]]'
-- '[[Changes/ChatGPT/2025-06-13-improved-search-capability-and-instruction-following-594de0|Improved
-  search capability and instruction following]]'
+- '[[Changes/Cline/2025-06-26-optimized-cline-to-work-with-the-claude-4-family-of-models-resulting-in-improved|Optimized
+  Cline to work with the Claude 4 family of models, resulting in improved…]]'
+- '[[Changes/Aider/2025-06-27-3-reliability-and-performance-changes-in-v0-85-0|3 Reliability
+  and Performance changes in v0.85.0]]'
+- '[[Changes/Cline/2025-07-03-2-reliability-and-performance-changes-in-v3-18-3|2 Reliability
+  and Performance changes in v3.18.3]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -103,8 +103,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-06-13 · ChatGPT · [[Changes/ChatGPT/2025-06-13-improved-search-capability-and-instruction-following-594de0|Improved search capability and instruction following]]
-- Later: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-agent-edits-are-now-faster-by-lazy-loading-linter-errors-search-replace-edit-lat|Faster edits]]
+- Earlier: 2025-07-03 · Cline · [[Changes/Cline/2025-07-03-2-reliability-and-performance-changes-in-v3-18-3|2 Reliability and Performance changes in v3.18.3]]
+- Later: 2025-07-08 · Cline · [[Changes/Cline/2025-07-08-optimize-provider-switching-performance-with-batched-storage-operations-by-arafa|Optimize provider switching performance with batched storage operations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

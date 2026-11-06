@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e0f5603f2c5a9bd11dbcfb00f391d0ad443a53dbee8fdb07bb55a6f97458ef86
+machine_hash: 72cfea7ef9135781832517e89641b4cd969d6bae7d3e2335b507cf766d0e63c9
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
     identity…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-13-remote-control-resuming-a-conversation-whose-session-was-deleted-from-claude-ai|Remote
-  Control: resuming a conversation whose session was deleted from claude.ai…]]'
-- '[[Changes/Claude Code/2026-08-17-2-account-and-access-changes-in-v2-1-234|2 Account
-  and Access changes in v2.1.234]]'
+- '[[Changes/Codex CLI/2026-08-18-16-account-and-access-changes-in-rust-v0-148-0|16
+  Account and Access changes in rust-v0.148.0]]'
+- '[[Changes/Codex CLI/2026-08-20-8-account-and-access-changes-in-rust-v0-149-0|8
+  Account and Access changes in rust-v0.149.0]]'
 - '[[Changes/ChatGPT/2026-08-25-chatgpt-work-s-browser-on-web-and-mobile-can-also-help-you-get-tasks-done-on-som-99be54|ChatGPT
   Work can now complete tasks on signed-in websites]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0|claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0]]'

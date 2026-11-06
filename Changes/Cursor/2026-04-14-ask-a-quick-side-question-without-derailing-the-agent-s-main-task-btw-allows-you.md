@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 7e4b56dc471b459ed2a954c7ccccdcafe4963756c62ae6697cd37973b5db9ae5
+machine_hash: af1fd54eded54dc441169f2568f231792782891a38e22151e30de1dd16acf6e6
 product: cursor
 product_name: Cursor
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-04-13 · Cursor · [[Changes/Cursor/2026-04-13-3-agent-mode-changes-in-3-1|3 Agent Mode changes in 3.1]]
-- Later: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-auto-mode-no-longer-requires-enable-auto-mode|Auto mode no longer requires --enable-auto-mode]]
+- Later: 2026-04-14 · Gemini CLI · [[Changes/Gemini CLI/2026-04-14-6-agent-mode-changes-in-v0-38-0|6 Agent Mode changes in v0.38.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

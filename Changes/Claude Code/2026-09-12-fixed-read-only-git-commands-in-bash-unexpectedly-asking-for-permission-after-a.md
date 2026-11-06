@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 2b025e5fbcba2c59cb7b3fecd1870351677f46034073e1ce47877dd6f20b8557
+machine_hash: c3af71d9a63938656079fc7cffa3df907b5da79c5fd1f387257472df3a7066fc
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,9 @@ record:
   title: Fixed read-only git commands in Bash unexpectedly asking for permission after…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-09-2-safety-and-privacy-changes-in-v2-1-267|2 Safety
-  and Privacy changes in v2.1.267]]'
 - '[[Changes/Claude Code/2026-09-10-8-safety-and-privacy-changes-in-v2-1-268|8 Safety
   and Privacy changes in v2.1.268]]'
+- '[[Changes/Windsurf/2026-09-10-devin-cloud|Devin Cloud]]'
 - '[[Changes/Claude Code/2026-09-11-5-safety-and-privacy-changes-in-v2-1-269|5 Safety
   and Privacy changes in v2.1.269]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-12-v2-1-270-github-387670363-32c73094|claude-code-2026-09-12-v2-1-270-github-387670363-32c73094]]'

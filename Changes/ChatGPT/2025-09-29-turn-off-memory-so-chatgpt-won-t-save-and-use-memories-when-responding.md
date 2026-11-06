@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1de05be89568e3207e8a55ebb3acf1b6a33bce7f434df6c97b240b74e44eec81
+machine_hash: 342a6b5523abd8360c9a01b08825ffc00b896247de2fc29454a0d940f35f64d5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ record:
   title: Turn off memory, so ChatGPT won’t save and use memories when responding
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-15-personalization-no-longer-opens-in-a-separate-modal-you-can-manage-personalizati|Personalization
-  settings are now in Settings]]'
 - '[[Changes/ChatGPT/2025-09-22-longer-memory-for-more-personalized-responses|Longer
   memory for more personalized responses]]'
+- '[[Changes/Codex CLI/2025-09-23-new-review-commands-review-specific-commit-against-a-base-branch-or-custom-instr|New
+  /review commands…]]'
 - '[[Changes/ChatGPT/2025-09-25-we-re-launching-an-early-preview-of-chatgpt-pulse-for-pro-users-on-ios-and-andro-cf8064|Introducing
   ChatGPT Pulse for Pro users]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|chatgpt-2025-09-29-parental-controls-8b95b69a]]'

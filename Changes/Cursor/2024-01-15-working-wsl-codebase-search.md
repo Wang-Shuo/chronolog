@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 70b41e7c8f2b64b862e72281b87ff43713fa6d3b36e1961696c00432a8ca2713
+machine_hash: 32f328d82179cfca47ca54358d71ce21e18b7b188849e284e5a9729b56e06020
 product: cursor
 product_name: Cursor
 record:
@@ -74,7 +74,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-01-06 · Cursor · [[Changes/Cursor/2024-01-06-improves-the-stability-of-wsl|Improves the stability of WSL]]
-- Later: 2024-02-15 · Cursor · [[Changes/Cursor/2024-02-15-linter-you-can-now-turn-on-an-ai-linter-in-the-more-tab-beside-chat-it-ll-scan-y|Linter: You can now turn on an AI linter in the "More" tab beside Chat]]
+- Later: 2024-02-03 · Aider · [[Changes/Aider/2024-02-03-2-developer-workflow-changes-in-v0-23-0|2 Developer Workflow changes in v0.23.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

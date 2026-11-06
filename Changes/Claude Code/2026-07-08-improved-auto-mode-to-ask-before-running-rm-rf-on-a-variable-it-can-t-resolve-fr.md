@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6143d163f6262cacf527b876135582e4b4ad8b79ec6814b85a022e5a41cb9a31
+machine_hash: 6c5d24b1e2ef3056367c80745fffddc52ccdaa09d3136f73193d6cbf51837ffa
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
     resolve…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-22-starting-today-for-chatgpt-free-and-go-users-long-pastes-are-handled-differently|Large
-  pastes are now handled as attachments for more plans]]'
-- '[[Changes/Claude Code/2026-06-22-bash-commands-now-trigger-claude-to-respond-to-the-output-automatically-set-resp|!
-  bash commands now trigger Claude to respond to the output automatically]]'
-- '[[Changes/Claude Code/2026-07-01-subagents-and-context-compaction-now-inherit-the-session-s-extended-thinking-con|Subagents
-  and context compaction now inherit the session''s extended thinking…]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-01-2-context-window-changes-in-v1-0-68|2 Context
+  Window changes in v1.0.68]]'
+- '[[Changes/OpenHands/2026-07-06-test-pltf-1269-replace-test-should-naming-with-test-verb-noun-context-convention|test:
+  PLTF-1269 replace test_should naming with test_verb_noun_context convention]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-07-warn-when-static-context-uses-most-of-the-prompt-budget-and-block-requests-when|Warn
+  when static context uses most of the prompt budget and block requests…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba|claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba]]'
 source_type: github_releases
 theme: context-window
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-subagents-and-context-compaction-now-inherit-the-session-s-extended-thinking-con|Subagents and context compaction now inherit the session's extended thinking…]]
-- Later: 2026-07-10 · Cursor · [[Changes/Cursor/2026-07-10-side-chats|Side chats]]
+- Earlier: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-warn-when-static-context-uses-most-of-the-prompt-budget-and-block-requests-when|Warn when static context uses most of the prompt budget and block requests…]]
+- Later: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-12-context-window-changes-in-rust-v0-143-0|12 Context Window changes in rust-v0.143.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1796b481260fe6331c73dc5007839877a907955441d33a8656ac37ae66d09936
+machine_hash: b01314be3e6b493ed2571e510023c8b87cc2f40c3ede1655dbf2ecf22e6163f6
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
   title: Removes a check in the chat that slows the chat down in certain cases
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-02-09-turbo-optimized-for-speed-alpha|Turbo: optimized for
-  speed (alpha)]]'
-- '[[Changes/ChatGPT/2023-02-13-based-on-user-feedback-we-are-now-defaulting-plus-users-to-a-faster-version-of-c|Based
-  on user feedback, we are now defaulting Plus users to a faster version…]]'
-- '[[Changes/ChatGPT/2023-02-13-we-ve-updated-performance-of-the-chatgpt-model-on-our-free-plan-in-order-to-serv|ChatGPT
-  updates performance of the ChatGPT model on our free plan in order to serve…]]'
+- '[[Changes/Aider/2023-07-08-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames|More
+  robust handling of filepaths, to avoid 8.3 windows filenames]]'
+- '[[Changes/Aider/2023-07-08-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames-db5eb1|More
+  robust handling of filepaths, to avoid 8.3 windows filenames]]'
+- '[[Changes/Aider/2023-07-12-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames|More
+  robust handling of filepaths, to avoid 8.3 windows filenames]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-26-0-4-1-0-4-2-https-cursor-com-changelog-0-4-1-0-4-2-99b48b75|cursor-2023-07-26-0-4-1-0-4-2-https-cursor-com-changelog-0-4-1-0-4-2-99b48b75]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2023-02-13 · ChatGPT · [[Changes/ChatGPT/2023-02-13-we-ve-updated-performance-of-the-chatgpt-model-on-our-free-plan-in-order-to-serv|ChatGPT updates performance of the ChatGPT model on our free plan in order to serve…]]
+- Earlier: 2023-07-12 · Aider · [[Changes/Aider/2023-07-12-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames|More robust handling of filepaths, to avoid 8.3 windows filenames]]
 - Later: 2023-08-20 · Cursor · [[Changes/Cursor/2023-08-20-ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie|More robust SSH support]]
 <!-- chronolog:end -->
 

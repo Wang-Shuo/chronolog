@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 90da8f71eebd76175df0d764f3859c6b8fcfe0dc63faf92765b8b36d75d26303
+machine_hash: 9061fcdabcfdca3caf96bf45cbcefb95923d38950a14fd2003c435270e3bfabf
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Model Support changes in v2.1.290
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-30-changed-how-failed-api-requests-are-retried-one-limit-now-covers-a-whole-model-c|Changed
-  how failed API requests are retried]]'
 - '[[Changes/Claude Code/2026-10-01-4-model-support-changes-in-v2-1-287|4 Model Support
   changes in v2.1.287]]'
+- '[[Changes/Codex CLI/2026-10-01-5-model-support-changes-in-rust-v0-160-0|5 Model
+  Support changes in rust-v0.160.0]]'
 - '[[Changes/Claude Code/2026-10-02-changed-the-client-side-auto-mode-classifier-to-ignore-an-anthropic-default-sonn|Changed
   the client-side auto mode classifier to ignore…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6|claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6]]'
@@ -96,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.290
 ## Nearby in Model Support
 
 - Earlier: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-changed-the-client-side-auto-mode-classifier-to-ignore-an-anthropic-default-sonn|Changed the client-side auto mode classifier to ignore…]]
-- Later: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-added-prompt-caching-to-model-complete-for-mods-prompt-and-system-take-blocks-of|Added prompt caching to $.model.complete for mods]]
+- Later: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-2-model-support-changes-in-v1-0-92|2 Model Support changes in v1.0.92]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

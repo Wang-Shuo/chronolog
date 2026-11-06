@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d91570b1ac4ed89c9cddeaf95254cd383a827554241e4d69283bd4b2f7a1f8a3
+machine_hash: 8f09a7ebca03c048e8c93347d192168288d1189e9489d1925930616a5851775f
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     key…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-02-active-sessions-shows-sessions-known-through-session-management-including-chatgp|Active
-  sessions shows sessions known through session management, including ChatGPT…]]'
-- '[[Changes/ChatGPT/2026-06-02-log-out-of-individual-sessions-or-all-sessions-from-active-sessions|Log
-  out of individual sessions or all sessions from Active sessions]]'
 - '[[Changes/Claude Code/2026-06-02-added-a-prompt-before-writing-to-shell-startup-files-zshenv-zlogin-bash-login-an|Added
   a prompt before writing to shell startup files…]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-05-mcp-oauth-re-authentication-no-longer-fails-with-an-address-in-use-error-when-a|MCP
+  OAuth re-authentication no longer fails with an address-in-use error…]]'
+- '[[Changes/Windsurf/2026-06-06-increased-proxy-authentication-timeout|Increased
+  proxy authentication timeout]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d|claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d]]'
 source_type: github_releases
 theme: account-access
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-added-a-prompt-before-writing-to-shell-startup-files-zshenv-zlogin-bash-login-an|Added a prompt before writing to shell startup files…]]
-- Later: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-improved-the-mcp-oauth-browser-page-to-match-claude-code-s-visual-style-and-auto|Improved the MCP OAuth browser page to match Claude Code's visual style…]]
+- Earlier: 2026-06-06 · Windsurf · [[Changes/Windsurf/2026-06-06-increased-proxy-authentication-timeout|Increased proxy authentication timeout]]
+- Later: 2026-06-08 · Codex CLI · [[Changes/Codex CLI/2026-06-08-2-account-and-access-changes-in-rust-v0-138-0|2 Account and Access changes in rust-v0.138.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d061efcf189468af4acc4b785a2fe2f08daf6f41b969105b874bd21d4b4d4621
+machine_hash: 199f23b5d21c97edbee2639580e351c5865e727e5037d6247af46ccb9e1aca2c
 product: cursor
 product_name: Cursor
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-02-09 · Cursor · [[Changes/Cursor/2024-02-09-ai-previews-this-is-an-experimental-new-code-reading-feature-after-enabling-in-t|AI Previews: this is an experimental new code reading feature]]
-- Later: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-team-invites-we-made-it-a-bit-easier-for-you-to-invite-your-colleagues-to-your-c|Team invites: We made it a bit easier for you to invite your colleagues…]]
+- Later: 2024-03-04 · Aider · [[Changes/Aider/2024-03-04-show-the-user-a-faq-link-if-edits-fail-to-apply|Show the user a FAQ link if edits fail to apply]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

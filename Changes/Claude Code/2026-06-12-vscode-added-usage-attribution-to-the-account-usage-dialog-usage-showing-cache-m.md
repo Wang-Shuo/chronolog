@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 43fc0471cb31c4796d48e968c00f7d6099231fb2cb25f0228512990575490d1b
+machine_hash: a8d71a00ae975d9fc16b3b392d2dd3ce8c2c7e444140b842d4203128869c0629
 product: claude-code
 product_name: Claude Code
 record:
@@ -64,12 +64,12 @@ record:
     showing…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-context-usage-report-in-canvas-d08e2a|Context usage
-  report in canvas]]'
-- '[[Changes/Claude Code/2026-06-08-the-claude-md-is-too-long-warning-threshold-now-scales-with-the-model-s-context|The
-  "CLAUDE.md is too long" warning threshold now scales with the model''s context window]]'
 - '[[Changes/Claude Code/2026-06-08-added-cd-command-to-move-a-session-to-a-new-working-directory-without-breaking-t|Added
   /cd command to move a session to a new working directory without breaking…]]'
+- '[[Changes/Codex CLI/2026-06-08-4-context-window-changes-in-rust-v0-138-0|4 Context
+  Window changes in rust-v0.138.0]]'
+- '[[Changes/Codex CLI/2026-06-09-3-context-window-changes-in-rust-v0-139-0|3 Context
+  Window changes in rust-v0.139.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-12-v2-1-174-github-338280944-f2fd4f4d|claude-code-2026-06-12-v2-1-174-github-338280944-f2fd4f4d]]'
 source_type: github_releases
 theme: context-window
@@ -98,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-added-cd-command-to-move-a-session-to-a-new-working-directory-without-breaking-t|Added /cd command to move a session to a new working directory without breaking…]]
-- Later: 2026-06-22 · ChatGPT · [[Changes/ChatGPT/2026-06-22-starting-today-for-chatgpt-free-and-go-users-long-pastes-are-handled-differently|Large pastes are now handled as attachments for more plans]]
+- Earlier: 2026-06-09 · Codex CLI · [[Changes/Codex CLI/2026-06-09-3-context-window-changes-in-rust-v0-139-0|3 Context Window changes in rust-v0.139.0]]
+- Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-honor-max-output-tokens-for-byok-responses-providers|Honor max_output_tokens for BYOK Responses providers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

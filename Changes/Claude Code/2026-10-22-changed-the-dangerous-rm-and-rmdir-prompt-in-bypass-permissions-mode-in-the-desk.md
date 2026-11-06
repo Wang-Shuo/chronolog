@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e6374f7cd2837b90ff8f8faf67baa77f4c9c3bcb2e1d1ed8fa206f01dc03a18c
+machine_hash: c02ff88cacdafcb60d76067407d63554c732f1a7fc2a2c7c1f4b75c98c661183
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Changed the dangerous `rm` and `rmdir` prompt in bypass permissions mode…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-15-improved-artifacts-pages-claude-writes-now-paint-the-band-above-a-sticky-header|Improved
-  artifacts: pages Claude writes now paint the band above a sticky header…]]'
-- '[[Changes/ChatGPT/2026-10-16-present-or-export-present-directly-from-chatgpt-on-the-web-export-to-powerpoint|Present
-  or export. Present directly from ChatGPT]]'
 - '[[Changes/Claude Code/2026-10-19-windows-improved-git-command-start-up-with-a-standard-git-for-windows-install-by|Windows:
   Improved git command start-up with a standard Git for Windows install…]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-20-macos-sandboxed-commands-can-connect-directly-to-localhost-tcp-services-when-loc|macOS
+  sandboxed commands can connect directly to localhost TCP services when local…]]'
+- '[[Changes/OpenHands/2026-10-20-2-mobile-and-desktop-changes-in-v1-29-0|2 Mobile
+  and Desktop changes in v1.29.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99|claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-windows-improved-git-command-start-up-with-a-standard-git-for-windows-install-by|Windows: Improved git command start-up with a standard Git for Windows install…]]
-- Later: 2026-10-27 · ChatGPT · [[Changes/ChatGPT/2026-10-27-you-can-learn-more-about-how-chatgpt-uses-connected-apps-here-available-to-all-c|You can learn more about how ChatGPT uses connected apps here]]
+- Earlier: 2026-10-20 · OpenHands · [[Changes/OpenHands/2026-10-20-2-mobile-and-desktop-changes-in-v1-29-0|2 Mobile and Desktop changes in v1.29.0]]
+- Later: 2026-10-22 · OpenHands · [[Changes/OpenHands/2026-10-22-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a|The app isn't signed with an Apple Developer ID yet, so macOS may call a]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

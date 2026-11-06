@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d94db26330adef1d6cf37ab8cbd2be2b3e3b100205d5ee8acd8a513babb146f3
+machine_hash: db9c54d94beaf42062c5e571d9d3ebfa6ca8c34590d61fcadc19543edbe100c1
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     SDK…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-07-removed-the-startup-claude-command-missing-or-broken-warnings-they-now-appear-in|Removed
-  the startup "claude command missing or broken" warnings]]'
-- '[[Changes/Claude Code/2026-07-10-4-developer-workflow-changes-in-v2-1-206|4 Developer
-  Workflow changes in v2.1.206]]'
 - '[[Changes/Claude Code/2026-07-14-agent-view-ctrl-x-now-deletes-renamed-branch-worktrees-never-destroys-unpushed-c|Agent
   view: Ctrl+X now deletes renamed-branch worktrees, never destroys unpushed…]]'
+- '[[Changes/Codex CLI/2026-07-16-2-developer-workflow-changes-in-rust-v0-144-5|2
+  Developer Workflow changes in rust-v0.144.5]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-16-8-developer-workflow-changes-in-v1-0-71|8
+  Developer Workflow changes in v1.0.71]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'
 source_type: github_releases
 theme: developer-workflow
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-agent-view-ctrl-x-now-deletes-renamed-branch-worktrees-never-destroys-unpushed-c|Agent view: Ctrl+X now deletes renamed-branch worktrees, never destroys unpushed…]]
+- Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-8-developer-workflow-changes-in-v1-0-71|8 Developer Workflow changes in v1.0.71]]
 - Later: 2026-07-19 · Claude Code · [[Changes/Claude Code/2026-07-19-claude-no-longer-runs-the-verify-and-code-review-skills-on-its-own-invoke-them-w|Claude no longer runs the /verify and /code-review skills on its own]]
 <!-- chronolog:end -->
 

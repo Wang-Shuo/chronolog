@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 9ac818c0fd599a01de6bf3befbd65754601bec1ed2d020af3643404800dc1585
+machine_hash: e83e9177a128db07b2b5134200214bf51c08432b598b3a10a4c5209d71012251
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,12 @@ record:
   title: New Team Marketplaces
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-03-groups-are-a-lightweight-collection-of-users-that-can-sit-across-or-within-teams|Groups]]'
-- '[[Changes/Cursor/2026-06-03-teams|Teams]]'
+- '[[Changes/Codex CLI/2026-06-15-27245-image-add-shared-data-url-preparation-utilities-fjord-oai|♯27245
+  image: add shared data URL preparation utilities @fjord-oai]]'
 - '[[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World
   Cup updates]]'
+- '[[Changes/Codex CLI/2026-06-22-26707-pac-2-add-shared-auth-system-proxy-contract-canvrno-oai|♯26707
+  PAC 2 - Add shared auth system proxy contract @canvrno-oai]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2|cursor-2026-06-22-3-9-https-cursor-com-changelog-customize-7ff4b6b2]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -79,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World Cup updates]]
-- Later: 2026-06-30 · Cursor · [[Changes/Cursor/2026-06-30-team-mcps-in-team-marketplaces-27f9ef|Team MCPs in team marketplaces]]
+- Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-26707-pac-2-add-shared-auth-system-proxy-contract-canvrno-oai|♯26707 PAC 2 - Add shared auth system proxy contract @canvrno-oai]]
+- Later: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-preserve-markdown-blockquotes-in-share-exports|Preserve Markdown blockquotes in /share exports]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

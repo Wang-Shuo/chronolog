@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b9e89e0eb06b85065163383b2106588c812d375720e678fd2dd762f85f9de706
+machine_hash: d06b7eb7e0c1bd74310c758b0b4d8e086864eab3a3f5c8b36c19267559dafaef
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
     across…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-20-keep-pinned-chats-in-sync-pinned-chats-now-stay-in-sync-between-the-chatgpt-desk|Keep
-  pinned chats in sync]]'
 - '[[Changes/Claude Code/2026-08-20-improved-startup-bare-claude-starts-sooner-on-macos|Improved
   startup: bare claude starts sooner on macOS]]'
+- '[[Changes/Codex CLI/2026-08-20-7-mobile-and-desktop-changes-in-rust-v0-149-0|7
+  Mobile and Desktop changes in rust-v0.149.0]]'
 - '[[Changes/Claude Code/2026-08-21-remote-sessions-images-uploaded-from-mobile-now-include-their-saved-file-path-so|Remote
   sessions: images uploaded from mobile now include their saved file path…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918|claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918]]'
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-improved-startup-bare-claude-starts-sooner-on-macos|Improved startup: bare claude starts sooner on macOS]]
-- Later: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-windows-macos-fixed-headless-sessions-not-cleaning-up-stale-entries-in-claude-se|Windows/macOS: Fixed headless sessions not cleaning up stale entries…]]
+- Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-7-mobile-and-desktop-changes-in-rust-v0-149-0|7 Mobile and Desktop changes in rust-v0.149.0]]
+- Later: 2026-08-21 · Windsurf · [[Changes/Windsurf/2026-08-21-devin-desktop|Devin Desktop]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

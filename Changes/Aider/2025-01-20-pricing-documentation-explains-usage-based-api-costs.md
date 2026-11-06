@@ -11,10 +11,11 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v1
 impact: paradigm-shift
-machine_hash: be03ba61e1569cbc57db91030d3942c5a471e47b89f0dbc92008fff0a663fad1
+machine_hash: 122c6a1ef64ede2d48ba3509af52272a269062626ace76f32323aae14715ecc6
 product: aider
 product_name: Aider
 source_release: '[[Releases/Aider/2025-01-20-aider-2025-01-20-v0-72|aider-2025-01-20-v0-72]]'
+superseded: true
 theme: pricing-model
 type: change
 ---

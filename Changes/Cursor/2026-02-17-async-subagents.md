@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 2b56b0eefc8fe33bdb0930619ef3cd366eb5d035e28bd0261497b4482eaec5dd
+machine_hash: 3749510e04c2ca5699d472baf30de2eb94552016d39e043591324b40d344b8a2
 product: cursor
 product_name: Cursor
 record:
@@ -55,12 +55,12 @@ record:
   title: Async subagents
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-05-updated-resume-to-re-use-agent-value-specified-in-previous-conversation-by-defau|Updated
-  --resume to re-use --agent value specified in previous conversation by default]]'
-- '[[Changes/Claude Code/2026-02-06-2-agent-mode-changes-in-v2-1-33|2 Agent Mode changes
-  in v2.1.33]]'
 - '[[Changes/Cursor/2026-02-12-cursor-can-now-work-autonomously-over-longer-horizons-to-complete-larger-more-co-48843c|Long-running
   Agents in Research Preview]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-12-subagents-return-complete-responses|Subagents
+  return complete responses]]'
+- '[[Changes/Codex CLI/2026-02-17-7-agent-mode-changes-in-rust-v0-102-0|7 Agent Mode
+  changes in rust-v0.102.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320|cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-12 · Cursor · [[Changes/Cursor/2026-02-12-cursor-can-now-work-autonomously-over-longer-horizons-to-complete-larger-more-co-48843c|Long-running Agents in Research Preview]]
+- Earlier: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-7-agent-mode-changes-in-rust-v0-102-0|7 Agent Mode changes in rust-v0.102.0]]
 - Later: 2026-02-18 · Claude Code · [[Changes/Claude Code/2026-02-18-2-agent-mode-changes-in-v2-1-47|2 Agent Mode changes in v2.1.47]]
 <!-- chronolog:end -->
 

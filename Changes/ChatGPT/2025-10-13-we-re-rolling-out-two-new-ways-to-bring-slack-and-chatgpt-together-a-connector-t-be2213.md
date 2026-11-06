@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 344be83053b90e22c3ec150e648ad49498fb9ee03b982f7640b20c51bd59de81
+machine_hash: f0eb0b5b2768e8a114697105efbb7548c9cf6fd7ee6660fa6f3fe0efe15039db
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -102,11 +102,12 @@ record:
   title: Slack connector and app
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-12-mcp-resources-support|MCP Resources support]]'
-- '[[Changes/Cursor/2025-09-29-4-apps-and-integrations-changes-in-1-7|4 Apps and Integrations
-  changes in 1.7]]'
 - '[[Changes/ChatGPT/2025-10-09-we-re-adding-notion-and-linear-as-synced-connectors-for-pro-users-so-you-can-sec|Adding
   Notion & Linear synced connectors]]'
+- '[[Changes/Codex CLI/2025-10-09-6-apps-and-integrations-changes-in-rust-v0-46-0|6
+  Apps and Integrations changes in rust-v0.46.0]]'
+- '[[Changes/GitHub Copilot CLI/2025-10-10-improved-argument-input-to-mcp-servers-in-mcp-add-previously-users-had-to-use-co|Improved
+  argument input to MCP servers in /mcp add -- previously, users had to use…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-13-slack-connector-and-app-931a6153|chatgpt-2025-10-13-slack-connector-and-app-931a6153]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -133,8 +134,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-10-09 · ChatGPT · [[Changes/ChatGPT/2025-10-09-we-re-adding-notion-and-linear-as-synced-connectors-for-pro-users-so-you-can-sec|Adding Notion & Linear synced connectors]]
-- Later: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-project-level-hooks-are-now-supported|Project level hooks are now supported]]
+- Earlier: 2025-10-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-10-improved-argument-input-to-mcp-servers-in-mcp-add-previously-users-had-to-use-co|Improved argument input to MCP servers in /mcp add -- previously, users had to use…]]
+- Later: 2025-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-13-3-apps-and-integrations-changes-in-v0-0-340|3 Apps and Integrations changes in v0.0.340]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

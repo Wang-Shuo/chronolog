@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2f7f069f0cf43bb17a48a4f93bfa8dc441a4ea76e9d439ee1e82dc504701fcf0
+machine_hash: 8a497309fa1738a4814e5c87495c06d61d4177693b9452ac953fd4b07989f866
 product: claude-code
 product_name: Claude Code
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.293
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-10-06 · Cursor · [[Changes/Cursor/2026-10-06-for-enterprise-teams|For Enterprise teams]]
-- Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-claude-tag-changed-claude-s-notice-that-a-channel-shared-across-enterprise-grid|Claude Tag Changed Claude's notice that a channel shared across Enterprise Grid…]]
+- Later: 2026-10-07 · Codex CLI · [[Changes/Codex CLI/2026-10-07-49473-use-the-rmcp-sdk-for-enterprise-managed-token-exchanges-nicksteele-oai|♯49473 Use the rmcp SDK for enterprise-managed token exchanges @nicksteele-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

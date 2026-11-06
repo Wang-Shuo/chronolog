@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fda66cd5546d32a41b0d31c33354c39b26b803569c02183595f415e851eb495b
+machine_hash: cb37dc199bfc30a157eb47d1f72cf43d27476dcdc9e2295841327db53c04d270
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,12 +42,12 @@ record:
   title: Review code in split-screen views
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-18-the-rename-command-now-updates-the-terminal-tab-title-by-default-anthropics-clau|The
-  /rename command now updates the terminal tab title by default…]]'
 - '[[Changes/Cursor/2026-02-18-mermaid-ascii-diagrams-in-cli-8c4835|Mermaid ASCII
   diagrams in CLI]]'
 - '[[Changes/Cursor/2026-02-18-3-developer-workflow-changes-in-cli-improvements-and-mermaid-ascii|3
   Developer Workflow changes in CLI Improvements and Mermaid ASCII…]]'
+- '[[Changes/Gemini CLI/2026-02-18-7-developer-workflow-changes-in-v0-29-0|7 Developer
+  Workflow changes in v0.29.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-19-interactive-code-blocks-in-chatgpt-c2254f84|chatgpt-2026-02-19-interactive-code-blocks-in-chatgpt-c2254f84]]'
 source_type: chatgpt_changelog
 theme: developer-workflow
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-3-developer-workflow-changes-in-cli-improvements-and-mermaid-ascii|3 Developer Workflow changes in CLI Improvements and Mermaid ASCII…]]
-- Later: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-3-developer-workflow-changes-in-v2-1-50|3 Developer Workflow changes in v2.1.50]]
+- Earlier: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-7-developer-workflow-changes-in-v0-29-0|7 Developer Workflow changes in v0.29.0]]
+- Later: 2026-02-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-19-5-developer-workflow-changes-in-v0-0-412|5 Developer Workflow changes in v0.0.412]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

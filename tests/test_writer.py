@@ -1650,7 +1650,7 @@ def test_theme_page_header_sections_and_scope_callout():
     assert granularity_note(["Cursor"], {}) == ""
 
 
-def test_theme_timeline_groups_by_year_and_month_with_counts():
+def test_theme_timeline_lists_signal_first_and_folds_the_rest_in_each_year():
     cards = [
         moment("Cursor", "2026-10-06", "c00001", kind="launch"),
         moment("Claude Code", "2026-10-14", "b00001", kind="digest", title="3 Agent Mode changes in v2.1.300"),
@@ -1662,20 +1662,45 @@ def test_theme_timeline_groups_by_year_and_month_with_counts():
     _, regions = theme_regions(cards, card_targets={card["card_id"]: f"Changes/x/{card['card_id']}"
                                                     for card in cards})
 
+    def tag(index, name):
+        return f'<span class="tl-product tl-p{index}">**{name}**</span>'
+
     assert regions["timeline"] == "\n".join([
+        '<div class="timeline">',
+        "",
+        "Launches, expansions, pricing and policy changes and standalone announcements come first "
+        "in each year; fixes, digests and other changes are folded beneath them.",
+        "",
+        '<fieldset class="timeline-filter">',
+        "<legend>Show</legend>",
+        '<label><input type="radio" name="timeline-product" id="tl-only-all" checked> All</label>',
+        '<label><input type="radio" name="timeline-product" id="tl-only-1"> ChatGPT</label>',
+        '<label><input type="radio" name="timeline-product" id="tl-only-2"> Claude Code</label>',
+        '<label><input type="radio" name="timeline-product" id="tl-only-3"> Cursor</label>',
+        "</fieldset>",
+        "",
         '<details class="disclosure" open>',
         "<summary>2026 · 5 entries (ChatGPT 1 · Claude Code 2 · Cursor 2)</summary>",
         "",
         "**2026-10**",
         "",
-        "- 2026-10-14 · **Claude Code** · [[Changes/x/claude-code-2026-10-14-b00001|3 Agent Mode changes in v2.1.300]] · Digest",
-        "- 2026-10-06 · **Claude Code** · [[Changes/x/claude-code-2026-10-06-b00002|Claude Code b00002]]",
-        "- 2026-10-06 · **Cursor** · [[Changes/x/cursor-2026-10-06-c00001|Cursor c00001]] · Launch",
+        f"- 2026-10-06 · {tag(3, 'Cursor')} · [[Changes/x/cursor-2026-10-06-c00001|Cursor c00001]] · Launch",
         "",
         "**2026-09**",
         "",
-        "- 2026-09-30 · **Cursor** · [[Changes/x/cursor-2026-09-30-c00002|Cursor c00002]]",
-        "- 2026-09-29 · **ChatGPT** · [[Changes/x/chatgpt-2026-09-29-a00001|ChatGPT a00001]] · Pricing",
+        f"- 2026-09-30 · {tag(3, 'Cursor')} · [[Changes/x/cursor-2026-09-30-c00002|Cursor c00002]] · Expansion",
+        f"- 2026-09-29 · {tag(1, 'ChatGPT')} · [[Changes/x/chatgpt-2026-09-29-a00001|ChatGPT a00001]] · Pricing",
+        "",
+        '<details class="disclosure">',
+        "<summary>Fixes, digests and other changes · 2 (Claude Code 2)</summary>",
+        "",
+        "**2026-10**",
+        "",
+        f"- 2026-10-14 · {tag(2, 'Claude Code')} · "
+        "[[Changes/x/claude-code-2026-10-14-b00001|3 Agent Mode changes in v2.1.300]] · Digest",
+        f"- 2026-10-06 · {tag(2, 'Claude Code')} · [[Changes/x/claude-code-2026-10-06-b00002|Claude Code b00002]] · Fix",
+        "",
+        "</details>",
         "",
         "</details>",
         "",
@@ -1684,20 +1709,26 @@ def test_theme_timeline_groups_by_year_and_month_with_counts():
         "",
         "**2025-12**",
         "",
-        "- 2025-12-01 · **Cursor** · [[Changes/x/cursor-2025-12-01-c00003|Cursor c00003]] · Policy",
+        f"- 2025-12-01 · {tag(3, 'Cursor')} · [[Changes/x/cursor-2025-12-01-c00003|Cursor c00003]] · Policy",
         "",
         "</details>",
+        "",
+        "</div>",
     ])
 
 
-def test_theme_timeline_folds_each_year_once_the_theme_is_long():
-    from _scripts.writer import TIMELINE_OPEN_MAX
+def test_theme_timeline_folds_long_years_and_keeps_small_years_open():
+    from _scripts.writer import TIMELINE_OPEN_MAX, TIMELINE_YEAR_OPEN_MAX
     cards = [moment("Cursor", f"2026-10-{day:02d}", f"c{day:05d}")
              for day in range(1, TIMELINE_OPEN_MAX + 2)]
+    cards += [moment("Cursor", f"2025-0{month}-01", f"d{month:05d}") for month in range(1, TIMELINE_YEAR_OPEN_MAX + 1)]
     timeline = theme_regions(cards)[1]["timeline"]
-    assert timeline.startswith('<details class="disclosure">\n'
-                               f"<summary>2026 · {TIMELINE_OPEN_MAX + 1} entries (Cursor {TIMELINE_OPEN_MAX + 1})</summary>")
-    assert " open>" not in timeline
+    # One product: no filter and no product marker; only routine cards, so no inner fold.
+    assert "timeline-filter" not in timeline and "tl-product" not in timeline
+    assert f'<details class="disclosure">\n<summary>2026 · {TIMELINE_OPEN_MAX + 1} entries' in timeline
+    assert f'<details class="disclosure" open>\n<summary>2025 · {TIMELINE_YEAR_OPEN_MAX} entries' in timeline
+    assert "Fixes, digests and other changes" not in timeline
+    assert "- 2026-10-01 · **Cursor** · " in timeline and timeline.count(" · Change\n") == len(cards)
     assert "### " not in timeline and "#### " not in timeline
 
 

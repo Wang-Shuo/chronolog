@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3d8ad66ffebcb389e071e20ac7160e04db6c2b5248dddacd36943439ac52d283
+machine_hash: a85fe236fb41ba2c791b2c339df68b1a7a9daf08ed04ee6ba9930d2519c9d3c5
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,10 +51,10 @@ record:
   title: 4 Apps and Integrations changes in v2.1.221
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-29-we-re-beginning-to-roll-out-sign-in-with-chatgpt-across-select-plugins-and-partn|Sign
-  in with ChatGPT]]'
-- '[[Changes/Cursor/2026-08-03-cursor-can-now-read-write-and-act-across-your-google-workspace|Google
-  Workspace Plugins]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-03-4-apps-and-integrations-changes-in-v1-0-78|4
+  Apps and Integrations changes in v1.0.78]]'
+- '[[Changes/OpenHands/2026-08-03-chore-bump-openhands-extensions-to-0-13-0-by-hieptl-in-https-github-com-openhand|chore:
+  bump @openhands/extensions to 0.13.0]]'
 - '[[Changes/ChatGPT/2026-08-04-three-new-plugins-for-chatgpt-work-and-codex-help-students-and-educators-work-wi-e7aee9|Three
   new plugins for ChatGPT Work and Codex help students and educators work…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce|claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce]]'

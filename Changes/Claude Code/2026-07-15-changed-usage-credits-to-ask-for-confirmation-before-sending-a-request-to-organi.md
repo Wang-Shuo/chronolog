@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 54173d201088773da27bfe3e181825eb4e211c38b61a82ae5a3840f5f69bdabd
+machine_hash: 72578e757a0a118f3464a9440997669c53ce9a883b115b330ecce77a8430c35a
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: Changed `/usage-credits` to ask for confirmation before sending a request…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-business-and-enterprise-customers-already-have-access-to-sites-starting-today-th|Business
-  and Enterprise customers already have access to Sites]]'
 - '[[Changes/ChatGPT/2026-07-09-on-web-and-mobile-enterprise-and-edu-workspaces-have-a-two-week-preview-period-w|On
   web and mobile, Enterprise and Edu workspaces have a two-week preview period]]'
 - '[[Changes/ChatGPT/2026-07-09-in-enterprise-workspaces-public-publishing-is-off-by-default-and-must-be-enabled|In
   Enterprise workspaces, public publishing is off by default and must be enabled…]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-10-long-running-sessions-refresh-enterprise-managed-settings-hourly|Long-running
+  sessions refresh enterprise managed settings hourly]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57|claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-in-enterprise-workspaces-public-publishing-is-off-by-default-and-must-be-enabled|In Enterprise workspaces, public publishing is off by default and must be enabled…]]
+- Earlier: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-long-running-sessions-refresh-enterprise-managed-settings-hourly|Long-running sessions refresh enterprise managed settings hourly]]
 - Later: 2026-07-22 · Cursor · [[Changes/Cursor/2026-07-22-admin-controls|Admin controls]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f246783c8e18f9e28a255b70e43fdb7bc84bdb3fc3dee2a50255906e06e137f7
+machine_hash: 4117afd21bf9b01deb5eea2c18b181df613a9c7073d829c5e68f7ca6cb47d241
 product: cursor
 product_name: Cursor
 record:
@@ -53,11 +53,11 @@ record:
   title: 'Linter: You can now turn on an AI linter in the "More" tab beside Chat'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-06-dev-containers-are-now-supported-this-build-also|Dev
-  containers are now supported!]]'
-- '[[Changes/Cursor/2024-01-06-improves-the-stability-of-wsl|Improves the stability
-  of WSL]]'
 - '[[Changes/Cursor/2024-01-15-working-wsl-codebase-search|Working WSL codebase search]]'
+- '[[Changes/Aider/2024-02-03-2-developer-workflow-changes-in-v0-23-0|2 Developer
+  Workflow changes in v0.23.0]]'
+- '[[Changes/Aider/2024-02-10-new-web-url-command-which-scrapes-the-url-turns-it-into-fairly-clean-markdown-an|New
+  /web url command which scrapes the url, turns it into fairly clean markdown…]]'
 source_release: '[[Releases/Cursor/cursor-2024-02-15-0-27-x-https-cursor-com-changelog-0-27-x-29975100|cursor-2024-02-15-0-27-x-https-cursor-com-changelog-0-27-x-29975100]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-01-15 · Cursor · [[Changes/Cursor/2024-01-15-working-wsl-codebase-search|Working WSL codebase search]]
-- Later: 2024-06-08 · Cursor · [[Changes/Cursor/2024-06-08-remote-tunnels-are-now-supported-remote-ssh-support-is-also-more-robust-now-supp|Remote tunnels are now supported!]]
+- Earlier: 2024-02-10 · Aider · [[Changes/Aider/2024-02-10-new-web-url-command-which-scrapes-the-url-turns-it-into-fairly-clean-markdown-an|New /web url command which scrapes the url, turns it into fairly clean markdown…]]
+- Later: 2024-03-04 · Aider · [[Changes/Aider/2024-03-04-prevents-bug-where-subsequent-git-commit-of-those-files-will-fail|Prevents bug where subsequent git commit of those files will fail]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

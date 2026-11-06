@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0fe1925bc0d39202d779c483e6ee51bf63af54d7360fbdfb3fe65c9e1205859e
+machine_hash: 5b06fcba3c26cc2e52a136bf9a2d599d4f73a305a4cfc31f7fd9f9c91a7fc9a4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -65,12 +65,12 @@ record:
   title: Projects provide a new way to group files and chats for personal use, simplifying…
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-06-08-update-0-35-1-disables-copilot-partial-accepts-by-default-and-makes-the-keybindi|UPDATE
-  (0.35.1): Disables Copilot++ partial accepts by default and makes…]]'
-- '[[Changes/ChatGPT/2024-07-18-we-re-introducing-gpt-4o-mini-the-most-capable-and-cost-efficient-small-model-av-af297b|Introducing
-  GPT-4o mini]]'
-- '[[Changes/Cursor/2024-07-23-new-default-model-we-ve-made-claude-3-5-sonnet-the-default-model-for-users|New
-  Default Model: We''ve made Claude 3.5 Sonnet the default model for users]]'
+- '[[Changes/Aider/2024-12-06-support-for-new-amazon-bedrock-nova-models|Support for
+  new Amazon Bedrock Nova models]]'
+- '[[Changes/Aider/2024-12-10-4-model-support-changes-in-v0-68-0|4 Model Support changes
+  in v0.68.0]]'
+- '[[Changes/Aider/2024-12-13-2-model-support-changes-in-v0-69-0|2 Model Support changes
+  in v0.69.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-13-projects-in-chatgpt-01b98e1c|chatgpt-2024-12-13-projects-in-chatgpt-01b98e1c]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -99,8 +99,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-07-23 · Cursor · [[Changes/Cursor/2024-07-23-new-default-model-we-ve-made-claude-3-5-sonnet-the-default-model-for-users|New Default Model: We've made Claude 3.5 Sonnet the default model for users]]
-- Later: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-deepseek-models-deepseek-r1-and-deepseek-v3-are-supported-in-0-45-and-0-44-you-c|Deepseek models: Deepseek R1 and Deepseek v3 are supported in 0.45 and 0.44]]
+- Earlier: 2024-12-13 · Aider · [[Changes/Aider/2024-12-13-2-model-support-changes-in-v0-69-0|2 Model Support changes in v0.69.0]]
+- Later: 2024-12-26 · Aider · [[Changes/Aider/2024-12-26-3-model-support-changes-in-v0-70-0|3 Model Support changes in v0.70.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

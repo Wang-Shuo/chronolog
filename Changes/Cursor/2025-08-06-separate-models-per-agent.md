@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: fab6c9fa9062bf0a620389c0103872d87c975337dc9aa218beb469fcfe548f68
+machine_hash: e622e154977985fbf0d590f1e4a7ee07b8cb44ca6569ac669f094e7f6392fe3e
 product: cursor
 product_name: Cursor
 record:
@@ -56,13 +56,12 @@ record:
   title: Separate models per Agent
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-13-in-some-cases-a-chain-of-thought-reasoning-will-show-up-unexpectedly-for-simple|In
-  some cases, a “chain of thought” reasoning will show up unexpectedly for simple
-  queries]]'
-- '[[Changes/ChatGPT/2025-06-16-enterprise-and-edu-users-can-also-now-choose-from-the-full-set-of-chatgpt-models-1ea372|Expanded
-  Model Support for Custom GPTs]]'
-- '[[Changes/Cursor/2025-07-03-improved-embeddings-for-semantic-search|Improved embeddings
-  for semantic search]]'
+- '[[Changes/Gemini CLI/2025-08-05-20-model-support-changes-in-v0-1-17|20 Model Support
+  changes in v0.1.17]]'
+- '[[Changes/Cline/2025-08-06-3-model-support-changes-in-v3-20-11|3 Model Support
+  changes in v3.20.11]]'
+- '[[Changes/Cline/2025-08-06-add-prompt-caching-for-opus-4-1-by-saoudrizwan-in-https-github-com-cline-cline-p|Add
+  prompt caching for Opus 4.1]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889|cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889]]'
 source_type: cursor_changelog
 theme: model-support
@@ -100,8 +99,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-improved-embeddings-for-semantic-search|Improved embeddings for semantic search]]
-- Later: 2025-08-07 · ChatGPT · [[Changes/ChatGPT/2025-08-07-gpt-5-is-slowly-rolling-out-to-all-users-on-chatgpt-plus-pro-team-and-free-plans-64a08c|GPT-5]]
+- Earlier: 2025-08-06 · Cline · [[Changes/Cline/2025-08-06-add-prompt-caching-for-opus-4-1-by-saoudrizwan-in-https-github-com-cline-cline-p|Add prompt caching for Opus 4.1]]
+- Later: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-20-model-support-changes-in-v0-1-18|20 Model Support changes in v0.1.18]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ea295a45547b44c0cbe0eaa6c6e0ed1493e85315a8d6e827aae88a4498e7a9a4
+machine_hash: dffc2756496f46f45338cfebc688579c55d5a48d4be52aa6f640a3e3793db5fb
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     running…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-20-2-agent-mode-changes-in-v2-1-50|2 Agent Mode changes
-  in v2.1.50]]'
-- '[[Changes/Cursor/2026-02-24-cloud-agents-can-now-use-the-software-they-create-to-test-changes-and-demo-their-c922e9|Cloud
-  Agents with Computer Use]]'
 - '[[Changes/Cursor/2026-02-26-autofix-runs-cloud-agents-on-their-own-machines-to-test-changes-and-propose-fixe|Autofix
   runs cloud agents on their own machines to test changes and propose fixes…]]'
+- '[[Changes/Gemini CLI/2026-02-27-feat-browser-implement-experimental-browser-agent-by-gsquared94-in-https-github|feat(browser):
+  implement experimental browser agent]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-27-cli-spinner-stops-and-final-agent-response-is-visible-after-agent-finishes-work|CLI
+  spinner stops and final agent response is visible after agent finishes work]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c|claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c]]'
 source_type: github_releases
 theme: agent-mode
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-26 · Cursor · [[Changes/Cursor/2026-02-26-autofix-runs-cloud-agents-on-their-own-machines-to-test-changes-and-propose-fixe|Autofix runs cloud agents on their own machines to test changes and propose fixes…]]
-- Later: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-improved-reliability-for-longer-running-agent-sessions|Improved reliability for longer-running agent sessions]]
+- Earlier: 2026-02-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-27-cli-spinner-stops-and-final-agent-response-is-visible-after-agent-finishes-work|CLI spinner stops and final agent response is visible after agent finishes work]]
+- Later: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-you-can-now-fork-a-thread-into-sub-agents-making-it-easier-to-branch-work-withou|Fork a thread into sub-agents, making it easier to branch work without leaving…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

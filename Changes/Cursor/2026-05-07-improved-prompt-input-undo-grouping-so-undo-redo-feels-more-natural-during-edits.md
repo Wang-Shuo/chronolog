@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9090e6479921017c29aa388b68eecdfbb383008aea98b3840a6c4b040cb6d36f
+machine_hash: dce2a95be8541d9e26b4f6bf806e83ccbde4b62e9daa4d552df5b1a553ea1371
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,12 @@ record:
     edits
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-23-merged-cost-and-stats-into-usage-both-remain-as-typing-shortcuts-that-open-the-r|Merged
-  /cost and /stats into /usage]]'
-- '[[Changes/Claude Code/2026-05-01-powershell-tool-bare-e-g-git-diff-file-is-no-longer-mis-flagged-as-the-stop-pars|PowerShell
-  tool: bare -- (e.g. git diff -- file) is no longer mis-flagged…]]'
 - '[[Changes/Cursor/2026-05-04-updated-usage-analytics-tab|Updated usage analytics
   tab]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-05-4-editor-experience-changes-in-v1-0-41|4
+  Editor Experience changes in v1.0.41]]'
+- '[[Changes/Codex CLI/2026-05-07-4-editor-experience-changes-in-rust-v0-129-0|4 Editor
+  Experience changes in rust-v0.129.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3|cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-04 · Cursor · [[Changes/Cursor/2026-05-04-updated-usage-analytics-tab|Updated usage analytics tab]]
-- Later: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-vscode-press-cmd-ctrl-shift-t-to-reopen-the-most-recently-closed-session-tab-con|VSCode Press Cmd/Ctrl+Shift+T to reopen the most recently closed session tab…]]
+- Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-4-editor-experience-changes-in-rust-v0-129-0|4 Editor Experience changes in rust-v0.129.0]]
+- Later: 2026-05-08 · Codex CLI · [[Changes/Codex CLI/2026-05-08-2-editor-experience-changes-in-rust-v0-130-0|2 Editor Experience changes in rust-v0.130.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

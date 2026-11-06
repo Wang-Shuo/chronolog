@@ -4,20 +4,20 @@ date: '2023-11-21'
 description: 'ChatGPT · 2023-11-21 · Voice and Audio: ChatGPT with voice is now available
   to all free users. Download the app on your phone and tap the headphones icon to…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
-    (Beta) is now rolling out to Plus users on iOS and Android]]'
+  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
+    link) support, which allows you…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 57
+  lag_days: 102
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 9e6f560689415f0af4e7dd23ce4a0719b4192056ec469b3ba8c45b98fe1002c9
+machine_hash: 081657f343763d22e973fa4677b01ad75e339f5f52d8dd522e5cf804154f3bd8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,6 +43,8 @@ record:
   title: ChatGPT with voice is available to all users
   type: change
 related_changes:
+- '[[Changes/Aider/2023-08-22-2-voice-and-audio-changes-in-v0-13-0|2 Voice and Audio
+  changes in v0.13.0]]'
 - '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
   (Beta) is now rolling out to Plus users on iOS and Android]]'
 - '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
@@ -74,13 +76,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
-- Later: 2024-12-12 · ChatGPT · [[Changes/ChatGPT/2024-12-12-video-and-screenshare-in-our-latest-mobile-apps-we-are-starting-to-roll-out-real|Video and screenshare]]
+- Later: 2024-06-04 · Aider · [[Changes/Aider/2024-06-04-detect-supported-audio-sample-rates-for-voice|Detect supported audio sample rates for /voice]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
+- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

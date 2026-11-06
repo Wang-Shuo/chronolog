@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 81d445f9cb34beb24e33737d8efbbbc4d34c41f19ff801b26739ebacbc09d5b6
+machine_hash: f50c276a8092a3e210e247a792b88064e5c1124a592b450a0f80900143c3cb85
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,12 +51,12 @@ record:
   title: Removed a redundant navigation hint from the `claude agents` footer
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-26-added-claude-code-disable-mouse-clicks-to-disable-mouse-click-drag-hover-in-full|Added
-  CLAUDE_CODE_DISABLE_MOUSE_CLICKS to disable mouse click/drag/hover…]]'
-- '[[Changes/Claude Code/2026-07-01-2-interface-experience-changes-in-v2-1-198|2 Interface
-  Experience changes in v2.1.198]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-01-2-interface-experience-changes-in-v1-0-68|2
+  Interface Experience changes in v1.0.68]]'
 - '[[Changes/Claude Code/2026-07-03-changed-askuserquestion-dialogs-to-no-longer-auto-continue-by-default-opt-into-a|Changed
   AskUserQuestion dialogs to no longer auto-continue by default]]'
+- '[[Changes/OpenHands/2026-07-06-feat-jira-dc-email-mode-auto-link-targeted-repo-lookup-and-picker-mentions-by-ak|feat(jira-dc):
+  email-mode auto-link, targeted repo lookup, and picker mentions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc|claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc]]'
 source_type: github_releases
 theme: interface-experience
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-changed-askuserquestion-dialogs-to-no-longer-auto-continue-by-default-opt-into-a|Changed AskUserQuestion dialogs to no longer auto-continue by default]]
-- Later: 2026-07-10 · Cursor · [[Changes/Cursor/2026-07-10-conversation-search-454cae|Conversation search]]
+- Earlier: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-feat-jira-dc-email-mode-auto-link-targeted-repo-lookup-and-picker-mentions-by-ak|feat(jira-dc): email-mode auto-link, targeted repo lookup, and picker mentions]]
+- Later: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-5-interface-experience-changes-in-v1-0-69|5 Interface Experience changes in v1.0.69]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

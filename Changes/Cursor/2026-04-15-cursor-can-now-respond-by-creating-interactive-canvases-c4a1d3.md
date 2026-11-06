@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c4652c6f7152ee91b35af4b7bf26e0d8013dee133f3631e0ff9acfbd2c32ef2c
+machine_hash: 7c668a675e5096e1e89bcb6e4c1bf3e4558077fe8022f85896b69486180f9d23
 product: cursor
 product_name: Cursor
 record:
@@ -47,10 +47,10 @@ record:
   title: Cursor can now respond by creating interactive canvases
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-27-export-visuals-from-code-blocks-flowcharts-diagrams-and-data-visualizations-crea|Export
-  visuals from Code Blocks]]'
-- '[[Changes/Claude Code/2026-03-06-vscode-added-full-markdown-document-view-for-plans-in-vs-code-with-support-for-a|VSCode
-  Added full markdown document view for plans in VS Code, with support…]]'
+- '[[Changes/Gemini CLI/2026-03-17-docs-document-planning-workflows-with-conductor-example-by-jerop-in-https-github|docs:
+  document planning workflows with Conductor example]]'
+- '[[Changes/Gemini CLI/2026-03-24-docs-document-npm-deprecation-warnings-as-safe-to-ignore-by-h30s-in-https-github|docs:
+  document npm deprecation warnings as safe to ignore]]'
 - '[[Changes/Cursor/2026-04-13-plan-tabs-now-get-the-same-document-behaviors-as-files-support-for-reliable-load|Plan
   tabs now get the same document behaviors as files]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-15-canvases-https-cursor-com-changelog-04-15-26-cd056bf7|cursor-2026-04-15-canvases-https-cursor-com-changelog-04-15-26-cd056bf7]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-04-13 · Cursor · [[Changes/Cursor/2026-04-13-plan-tabs-now-get-the-same-document-behaviors-as-files-support-for-reliable-load|Plan tabs now get the same document behaviors as files]]
-- Later: 2026-05-14 · ChatGPT · [[Changes/ChatGPT/2026-05-14-file-library-is-expanding-to-free-and-go-users-including-to-users-in-the-europea-141640|File library is expanding to Free and Go users, including to users in the European…]]
+- Later: 2026-04-23 · Codex CLI · [[Changes/Codex CLI/2026-04-23-18423-chore-document-intentional-await-holding-cases-bolinfest|♯18423 chore: document intentional await-holding cases @bolinfest]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

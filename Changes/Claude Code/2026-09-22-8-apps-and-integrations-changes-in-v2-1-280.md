@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5fd8f1f37765b86f50894c3911b20381c0723705f9ec613b9cf556d558601f21
+machine_hash: 7fd7aea123df04bb4b949e9cf7abb4fb1542d83cc84f2e6b46f3bed8c19a5eb0
 product: claude-code
 product_name: Claude Code
 record:
@@ -67,12 +67,12 @@ record:
   title: 8 Apps and Integrations changes in v2.1.280
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-6-apps-and-integrations-changes-in-v2-1-275|6
-  Apps and Integrations changes in v2.1.275]]'
-- '[[Changes/Claude Code/2026-09-17-added-plugin-install-plugin-marketplace-source-which-offers-to-add-the-marketpla|Added
-  /plugin install plugin --marketplace source, which offers to add…]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-17-resuming-an-active-session-without-plugin-directory-discovery-or-working-directo|Resuming
+  an active session without plugin-directory, discovery, or working-directory…]]'
 - '[[Changes/Claude Code/2026-09-18-6-apps-and-integrations-changes-in-v2-1-277|6
   Apps and Integrations changes in v2.1.277]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-21-8-apps-and-integrations-changes-in-v1-0-87|8
+  Apps and Integrations changes in v1.0.87]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b]]'
 source_type: github_releases
 theme: apps-integrations
@@ -125,8 +125,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.280
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-6-apps-and-integrations-changes-in-v2-1-277|6 Apps and Integrations changes in v2.1.277]]
-- Later: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-17-apps-and-integrations-changes-in-v2-1-281|17 Apps and Integrations changes in v2.1.281]]
+- Earlier: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-8-apps-and-integrations-changes-in-v1-0-87|8 Apps and Integrations changes in v1.0.87]]
+- Later: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-42-apps-and-integrations-changes-in-rust-v0-156-0|42 Apps and Integrations changes in rust-v0.156.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

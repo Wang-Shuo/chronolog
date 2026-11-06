@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0bae56febadc7afc270ba4fb1a9172f183bad129bf1dc15827e403eb448d549c
+machine_hash: 640a88f26e36adf2f07eb16351c58f09cdde26e8d7482666a29feb68a07cdfa0
 product: cursor
 product_name: Cursor
 record:
@@ -52,10 +52,10 @@ record:
   title: The average review time for Bugbot is now ~90 seconds, down from ~5 minutes
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-reliability-performance-and-platform-improvements|Reliability,
-  performance, and platform improvements]]'
-- '[[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run
-  correlation: Every send() now carries a platform-generated requestId, exposed…]]'
+- '[[Changes/Codex CLI/2026-06-09-26637-codex-speed-up-external-agent-session-imports-stefanstokic-oai|♯26637
+  codex Speed up external agent session imports @stefanstokic-oai]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-09-grep-searches-in-large-monorepos-use-an-indexed-search-engine-for-significantly|Grep
+  searches in large monorepos use an indexed search engine for significantly…]]'
 - '[[Changes/Claude Code/2026-06-10-improved-performance-in-long-conversations-by-removing-redundant-message-normali|Improved
   performance in long conversations by removing redundant message…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-10-bugbot-is-now-over-3x-faster-22-cheaper-and-finds-10-more-bugs-h-c1721c78|cursor-2026-06-10-bugbot-is-now-over-3x-faster-22-cheaper-and-finds-10-more-bugs-h-c1721c78]]'

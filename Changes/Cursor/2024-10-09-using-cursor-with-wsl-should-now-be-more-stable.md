@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0661ffafcd990a13c87f54fc0df5b30acb6cbb525a2865343a5e0a94e88fbcdc
+machine_hash: 3a1f3beb704ee3e25b4a441303233d5bac06c44d1d4196b34eb568a7225801ca
 product: cursor
 product_name: Cursor
 record:
@@ -40,10 +40,10 @@ record:
   title: Using cursor . with WSL should now be more stable
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-07-03-when-the-chat-suggests-a-code-block-click-apply-to-instantly-see-the-change-to-t|When
-  the chat suggests a code block, click "Apply" to instantly see the change…]]'
-- '[[Changes/Cursor/2024-09-17-we-ve-added-support-for-using-cursor-on-macs-over-remote-ssh|Cursor
-  adds support for using Cursor on Macs over Remote SSH]]'
+- '[[Changes/OpenHands/2024-09-30-bash-commands-do-not-block-the-main-runtime-by-tofarr-in-https-github-com-all-ha|Bash
+  commands do not block the main runtime]]'
+- '[[Changes/Aider/2024-10-04-3-developer-workflow-changes-in-v0-59-0|3 Developer
+  Workflow changes in v0.59.0]]'
 - '[[Changes/Cursor/2024-10-09-we-have-made-slight-improvements-to-debug-with-ai-and-added-back-lint-errors-in|We
   have made slight improvements to Debug with AI and added back @Lint Errors in Chat]]'
 source_release: '[[Releases/Cursor/cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1|cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1]]'
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-09-17 · Cursor · [[Changes/Cursor/2024-09-17-we-ve-added-support-for-using-cursor-on-macs-over-remote-ssh|Cursor adds support for using Cursor on Macs over Remote SSH]]
-- Later: 2024-12-17 · Cursor · [[Changes/Cursor/2024-12-17-agent-sees-terminal-exit-codes-can-run-commands-in-the-background-and-commands-a-4f6044|Agent sees terminal exit codes, can run commands in the background, and commands…]]
+- Earlier: 2024-10-04 · Aider · [[Changes/Aider/2024-10-04-3-developer-workflow-changes-in-v0-59-0|3 Developer Workflow changes in v0.59.0]]
+- Later: 2024-10-31 · OpenHands · [[Changes/OpenHands/2024-10-31-split-bash-commands-by-the-new-line-character-by-tofarr-in-https-github-com-all|Split bash commands by the new line character]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

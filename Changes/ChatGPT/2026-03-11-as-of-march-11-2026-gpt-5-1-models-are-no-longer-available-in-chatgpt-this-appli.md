@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 912d4016a5492e48e0c30e8597af15cedfb119d22d95eea397c976f17275267a
+machine_hash: 04b21eff8f30312f165ab42998682da9b0665d3cf609957ca746e8e33b73a24a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,12 +51,12 @@ record:
   title: Retiring GPT-5.1 models
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-03-gpt-5-3-instant-delivers-more-accurate-answers-richer-and-better-contextualized|GPT-5.3
-  Instant Update]]'
-- '[[Changes/Claude Code/2026-03-04-3-model-support-changes-in-v2-1-68|3 Model Support
-  changes in v2.1.68]]'
-- '[[Changes/Claude Code/2026-03-05-changed-sonnet-4-5-users-on-pro-max-team-premium-to-be-automatically-migrated-to|Changed
-  Sonnet 4.5 users on Pro/Max/Team Premium to be automatically migrated…]]'
+- '[[Changes/Cline/2026-03-06-added-gpt-5-4-models-for-chatgpt-subscription-users|Added
+  GPT-5.4 models for ChatGPT subscription users]]'
+- '[[Changes/Codex CLI/2026-03-08-13617-update-models-json-aibrahim-oai|♯13617 Update
+  models.json @aibrahim-oai]]'
+- '[[Changes/Codex CLI/2026-03-10-14123-pass-on-save-info-to-model-ui-tweaks-won-openai|♯14123
+  pass on save info to model + ui tweaks @won-openai]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-11-retiring-gpt-5-1-models-279eddb4|chatgpt-2026-03-11-retiring-gpt-5-1-models-279eddb4]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-changed-sonnet-4-5-users-on-pro-max-team-premium-to-be-automatically-migrated-to|Changed Sonnet 4.5 users on Pro/Max/Team Premium to be automatically migrated…]]
+- Earlier: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-14123-pass-on-save-info-to-model-ui-tweaks-won-openai|♯14123 pass on save info to model + ui tweaks @won-openai]]
 - Later: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-2-model-support-changes-in-v2-1-73|2 Model Support changes in v2.1.73]]
 <!-- chronolog:end -->
 

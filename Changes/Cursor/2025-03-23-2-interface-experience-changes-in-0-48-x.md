@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 167f0b7c40620ee37f9216e34dac165e302a29642173f5fa55b3f093ea5d5071
+machine_hash: d6d5b5a686d6c81ac751ec2d8108bb78377af6b440fd48e0bbd2b136c4bae9ab
 product: cursor
 product_name: Cursor
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Interface Experience changes in 0.48.x
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-18-added-long-press-on-your-message-to-open-menu-actions-copy-edit|Added
-  long press on your message to open menu actions: Copy, Edit]]'
-- '[[Changes/ChatGPT/2025-03-18-improved-response-display-of-nested-blockquote-content|Improved
-  response display of nested blockquote content]]'
+- '[[Changes/Aider/2025-03-21-3-interface-experience-changes-in-v0-78-0|3 Interface
+  Experience changes in v0.78.0]]'
+- '[[Changes/Cline/2025-03-23-add-documentation-menu-item-to-easily-access-cline-s-docs|Add
+  ''Documentation'' menu item to easily access Cline''s docs]]'
 - '[[Changes/Cursor/2025-03-23-new-onboarding|New onboarding]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'
 source_type: cursor_changelog
@@ -95,8 +95,8 @@ Source: https://cursor.com/changelog/0-48-x
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-improved-response-display-of-nested-blockquote-content|Improved response display of nested blockquote content]]
-- Later: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|More accessible history]]
+- Earlier: 2025-03-23 · Cline · [[Changes/Cline/2025-03-23-add-documentation-menu-item-to-easily-access-cline-s-docs|Add 'Documentation' menu item to easily access Cline's docs]]
+- Later: 2025-03-31 · Aider · [[Changes/Aider/2025-03-31-2-interface-experience-changes-in-v0-80-0|2 Interface Experience changes in v0.80.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

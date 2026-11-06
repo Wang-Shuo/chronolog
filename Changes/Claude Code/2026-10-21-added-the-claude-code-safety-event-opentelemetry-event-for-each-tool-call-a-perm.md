@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d9012d41076171b6beaf5de364fdf399c7f0682da84bdbe300ebcf6784af25f9
+machine_hash: a763d9579792a2fea7da48fa778e2c16ff03e50e32e25f8863a98d956afac8de
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,12 +54,12 @@ record:
   title: Added the `claude_code.safety_event` OpenTelemetry event for each tool call…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-16-2-safety-and-privacy-changes-in-v2-1-302|2 Safety
-  and Privacy changes in v2.1.302]]'
-- '[[Changes/Claude Code/2026-10-19-added-decider-person-to-a-mod-s-tool-check-answer-only-the-permission-dialog-or|Added
-  decider: "person" to a mod''s tool.check answer: only the permission dialog…]]'
+- '[[Changes/OpenHands/2026-10-19-fix-theme-make-consent-backend-scope-readable-by-enyst-in-https-github-com-openh|fix(theme):
+  make consent backend scope readable]]'
 - '[[Changes/Claude Code/2026-10-20-3-safety-and-privacy-changes-in-v2-1-305|3 Safety
   and Privacy changes in v2.1.305]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-20-permission-approval-prompts-explain-escalation-causes-and-show-a-request-specifi|Permission
+  approval prompts explain escalation causes and show a request-specific…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d|claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d]]'
 source_type: github_releases
 theme: safety-privacy
@@ -95,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-20 · Claude Code · [[Changes/Claude Code/2026-10-20-3-safety-and-privacy-changes-in-v2-1-305|3 Safety and Privacy changes in v2.1.305]]
-- Later: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-8-safety-and-privacy-changes-in-v2-1-309|8 Safety and Privacy changes in v2.1.309]]
+- Earlier: 2026-10-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-20-permission-approval-prompts-explain-escalation-causes-and-show-a-request-specifi|Permission approval prompts explain escalation causes and show a request-specific…]]
+- Later: 2026-10-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-21-subagents-honor-custom-and-mcp-tool-approvals-avoiding-duplicate-permission-prom|Subagents honor custom and MCP tool approvals, avoiding duplicate permission prompts…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

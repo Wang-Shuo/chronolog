@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: adbd3d3b89ddadef1c43e3afd5971180cfaa929547f690407ade79a5c3cf5ca0
+machine_hash: 7a41f34873205b99c1209a4bcf935f3a57ede56111af459b315adfa44a57df18
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
     auto-update
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-21-2-reliability-and-performance-changes-in-v2-1-146|2
-  Reliability and Performance changes in v2.1.146]]'
 - '[[Changes/Claude Code/2026-05-21-3-reliability-and-performance-changes-in-v2-1-147|3
   Reliability and Performance changes in v2.1.147]]'
+- '[[Changes/Codex CLI/2026-05-21-23578-fix-app-server-speed-up-shutdown-fcoury-oai|♯23578
+  fix(app-server): speed up shutdown @fcoury-oai]]'
 - '[[Changes/Claude Code/2026-05-27-the-usage-breakdown-now-includes-large-session-files-files-are-scanned-with-a-st|The
   /usage breakdown now includes large session files]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a|claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a]]'

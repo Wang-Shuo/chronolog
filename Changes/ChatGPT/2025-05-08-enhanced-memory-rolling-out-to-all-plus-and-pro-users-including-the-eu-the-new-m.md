@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 713edcdc0e10a78876e22206bef0099750ac90051bb319dc3e221af44fef828f
+machine_hash: 47fb2e974a65ad3e6d0a1af2c68d44992c301ea6d5e58af5d6e923b9c8289442
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,8 +49,7 @@ record:
   title: Enhanced memory rolling out to all Plus and Pro users (including the EU)
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-0-46-9-memory-and-performances-fixes-composer-chat-remembers-your-last-mode-sele|0.46.9:
-  Memory and performances fixes, composer/chat remembers your last mode…]]'
+- '[[Changes/Windsurf/2025-04-02-improvements-to-memories|Improvements to Memories]]'
 - '[[Changes/ChatGPT/2025-04-16-chatgpt-can-also-use-memories-to-inform-search-queries-when-chatgpt-searches-the|Memory
   with Search]]'
 - '[[Changes/ChatGPT/2025-05-08-saved-memories-and-chat-history-are-offered-only-to-plus-and-pro-accounts-free-t|Saved

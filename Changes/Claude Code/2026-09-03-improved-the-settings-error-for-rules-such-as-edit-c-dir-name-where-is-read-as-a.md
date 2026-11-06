@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ffb1b5e79ee7484886b1e2ab8d970b79523e952f98df658de05f2b10b92ad0f7
+machine_hash: ac072e51aed44ba776f00082ed2e93ccdf8c6d54c88b5dcf50f50fade3a2a5f3
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: Improved the settings error for rules such as `Edit(C:\dir\(name)\**)`, where…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-25-added-the-turn-s-completion-time-to-the-end-of-turn-duration-line-e-g-saut-ed-fo|Added
-  the turn''s completion time to the end-of-turn duration line…]]'
 - '[[Changes/Cursor/2026-08-27-once-the-agent-s-build-is-to-your-liking-click-the-create-repo-button-to-save-yo|Turn
   it into a real repo, whenever you want]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-27-add-copilot-app-to-open-the-github-copilot-app-in-the-current-directory|Add
+  copilot app to open the GitHub Copilot app in the current directory]]'
 - '[[Changes/Claude Code/2026-09-01-2-editor-experience-changes-in-v2-1-257|2 Editor
   Experience changes in v2.1.257]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-2-editor-experience-changes-in-v2-1-257|2 Editor Experience changes in v2.1.257]]
-- Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-added-browser-tab-icons-for-published-artifacts-chosen-by-claude-to-match-each-p|Added browser-tab icons for published artifacts, chosen by Claude to match each page]]
+- Later: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-2-editor-experience-changes-in-v1-0-83|2 Editor Experience changes in v1.0.83]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

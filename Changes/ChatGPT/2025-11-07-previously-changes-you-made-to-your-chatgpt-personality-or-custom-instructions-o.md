@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3149dae4c9e0f6199def9529c9104b18511cfeb6fe4dc2eb594f412d796cb1a9
+machine_hash: eb2771f8ca3a7172ebf28d6bcd3ff8f5c1a5bfd68fd760fd870149359bdf0e72
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2025-10-30 · ChatGPT · [[Changes/ChatGPT/2025-10-30-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]]
-- Later: 2025-11-24 · ChatGPT · [[Changes/ChatGPT/2025-11-24-shopping-research-is-a-new-interactive-experience-that-helps-you-find-the-right-0a021d|Shopping research in ChatGPT]]
+- Later: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-feat-core-implement-granular-memory-loaders-for-jit-architecture-by-abhipatel12|feat(core): Implement granular memory loaders for JIT architecture]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

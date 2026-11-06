@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 79451fc39b07cbcdd892751dfb6e0be4c72398aebdc88f680bf5eb1fa3fed57a
+machine_hash: 210d14e44373a015f51605ea5aa5c62cb1cf3cc0829d418878776d8e88cd3c6d
 product: cursor
 product_name: Cursor
 record:
@@ -48,10 +48,10 @@ record:
   title: Security Reviewer
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-23-fixed-mcp-step-up-authorization-silently-refreshing-instead-of-prompting-for-re|Fixed
-  MCP step-up authorization silently refreshing instead of prompting…]]'
-- '[[Changes/Claude Code/2026-04-23-4-safety-and-privacy-changes-in-v2-1-119|4 Safety
-  and Privacy changes in v2.1.119]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-28-allow-acp-clients-to-toggle-allow-all-permission-mode-via-session-configuration|Allow
+  ACP clients to toggle allow-all permission mode via session configuration]]'
+- '[[Changes/Codex CLI/2026-04-30-21-safety-and-privacy-changes-in-rust-v0-128-0|21
+  Safety and Privacy changes in rust-v0.128.0]]'
 - '[[Changes/Cursor/2026-04-30-cursor-security-review-is-now-in-beta-on-teams-and-enterprise-plans-you-can-run|Cursor
   Security Review is now in beta on Teams and Enterprise plans]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-30-cursor-security-review-https-cursor-com-changelog-04-30-26-640898b1|cursor-2026-04-30-cursor-security-review-https-cursor-com-changelog-04-30-26-640898b1]]'
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-4-safety-and-privacy-changes-in-v2-1-119|4 Safety and Privacy changes in v2.1.119]]
+- Earlier: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-21-safety-and-privacy-changes-in-rust-v0-128-0|21 Safety and Privacy changes in rust-v0.128.0]]
 - Later: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-3-safety-and-privacy-changes-in-v2-1-126|3 Safety and Privacy changes in v2.1.126]]
 <!-- chronolog:end -->
 

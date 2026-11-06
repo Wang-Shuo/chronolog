@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4dc1a68e18e16a79af2e5693c174fedc26bd63d75f5965b1ec36c6c850d55c58
+machine_hash: 695e3f442921e7d1e30016ad390e26b951c04c8612a2fde3218889e57ff2b4d6
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,10 +53,10 @@ record:
     no…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-21-2-account-and-access-changes-in-v2-1-307|2 Account
-  and Access changes in v2.1.307]]'
-- '[[Changes/Claude Code/2026-10-26-improved-the-message-shown-when-a-pasted-sign-in-code-is-refused-it-now-says-the|Improved
-  the message shown when a pasted sign-in code is refused]]'
+- '[[Changes/Codex CLI/2026-10-27-3-account-and-access-changes-in-rust-v0-165-0|3
+  Account and Access changes in rust-v0.165.0]]'
+- '[[Changes/Codex CLI/2026-10-29-8-account-and-access-changes-in-rust-v0-166-0|8
+  Account and Access changes in rust-v0.166.0]]'
 - '[[Changes/Claude Code/2026-10-30-improved-the-cloud-session-error-shown-while-a-request-refused-for-your-claude-a|Improved
   the cloud session error shown while a request refused for your claude.ai…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9|claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9]]'
@@ -95,6 +95,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-improved-the-cloud-session-error-shown-while-a-request-refused-for-your-claude-a|Improved the cloud session error shown while a request refused for your claude.ai…]]
+- Later: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-ci-deps-bump-docker-login-action-from-4-6-0-to-4-7-0-in-the-actions-group-across|ci(deps): bump docker/login-action from 4.6.0 to 4.7.0 in the actions group across 1…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

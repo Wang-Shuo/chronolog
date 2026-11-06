@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 38100c25de9c208a5aca7b565b785feffc08fbc98cfadb17cc454591d7490be1
+machine_hash: 326e304f48862ea1d6694ea2eb7ec02768dbecfb6351458d9dce7e77f045a37b
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
     model…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-29-2-context-window-changes-in-v2-1-285|2 Context
-  Window changes in v2.1.285]]'
-- '[[Changes/Claude Code/2026-09-30-improved-the-model-fallback-notice-and-the-autocompact-thrashing-error-to-say-wh|Improved
-  the model fallback notice and the autocompact-thrashing error to say…]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-30-compaction-now-returns-a-summary-even-when-instructions-ask-for-tool-use|Compaction
+  now returns a summary even when instructions ask for tool use]]'
 - '[[Changes/Claude Code/2026-10-01-changed-opus-4-7-and-fable-to-use-a-1m-context-window-by-default-on-bedrock-vert|Changed
   Opus 4.7+ and Fable to use a 1M context window by default on Bedrock…]]'
+- '[[Changes/Codex CLI/2026-10-01-3-context-window-changes-in-rust-v0-160-0|3 Context
+  Window changes in rust-v0.160.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6|claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6]]'
 source_type: github_releases
 theme: context-window
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-changed-opus-4-7-and-fable-to-use-a-1m-context-window-by-default-on-bedrock-vert|Changed Opus 4.7+ and Fable to use a 1M context window by default on Bedrock…]]
-- Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-improved-token-counts-behind-a-claude-apps-gateway-on-amazon-bedrock-which-conte|Improved token counts behind a Claude apps gateway on Amazon Bedrock…]]
+- Earlier: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-3-context-window-changes-in-rust-v0-160-0|3 Context Window changes in rust-v0.160.0]]
+- Later: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-2-context-window-changes-in-v1-0-92|2 Context Window changes in v1.0.92]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: dc05fceb2fb6054f64419aadae4555287834f212def42aaf0fffcec0cdf37bfd
+machine_hash: 257ae280592efe8ed31e7cab5b4d7bf044741e7d7f670055fdabb0d7e58eabeb
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Added external editor support (Ctrl+G) in AskUserQuestion "Other" input field
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-08-added-rules-to-create-new-rules-and-edit-existing-rules|Added
-  /rules to create new rules and edit existing rules]]'
-- '[[Changes/Cursor/2026-01-08-afterfileedit-hook-now-correctly-provides-old-string-with-the-file-s-previous-co|afterFileEdit
-  hook now correctly provides old_string with the file''s previous…]]'
-- '[[Changes/Claude Code/2026-01-13-2-editor-experience-changes-in-v2-1-6|2 Editor
-  Experience changes in v2.1.6]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-13-send-messages-while-copilot-is-thinking-to-steer-or-queue|Send
+  messages while Copilot is thinking to steer or queue]]'
+- '[[Changes/Codex CLI/2026-01-14-2-editor-experience-changes-in-rust-v0-81-0|2 Editor
+  Experience changes in rust-v0.81.0]]'
+- '[[Changes/Gemini CLI/2026-01-14-4-editor-experience-changes-in-v0-24-0|4 Editor
+  Experience changes in v0.24.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-16-v2-1-9-github-277250534-9563859d|claude-code-2026-01-16-v2-1-9-github-277250534-9563859d]]'
 source_type: github_releases
 theme: editor-experience
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-2-editor-experience-changes-in-v2-1-6|2 Editor Experience changes in v2.1.6]]
+- Earlier: 2026-01-14 · Gemini CLI · [[Changes/Gemini CLI/2026-01-14-4-editor-experience-changes-in-v0-24-0|4 Editor Experience changes in v0.24.0]]
 - Later: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-this-release-brings-many-of-the-editor-s-most-loved-features-to-the-cursor-cli-a|Cursor brings many of the editor’s most-loved features to the Cursor CLI, along…]]
 <!-- chronolog:end -->
 

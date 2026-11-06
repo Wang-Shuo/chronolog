@@ -12,12 +12,12 @@ diffusion:
   role: first-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 63f68bd04fcad9cc50c04453df80a8fc1129eee4f5526bebc98a7c21c6ad9ba0
+machine_hash: c1511f02a2091562119781010dfc5bf0a361f8a440b4d5a130242266c5a21fd7
 product: cursor
 product_name: Cursor
 record:
@@ -75,13 +75,13 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Later: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-enhanced-visibility-of-auto-run-controls-configured-by-team-admins-clarifying-wh|Enhanced visibility of auto-run controls configured by team admins, clarifying…]]
+- Later: 2024-08-31 · Cline · [[Changes/Cline/2024-08-31-adds-support-for-reading-pdf-and-docx-files-try-turn-my-business-plan-docx-into|Adds support for reading .pdf and .docx files…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 3 tracked products.
+- Earliest same-theme entry among the 10 tracked products.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 74444c7eaa075bc9668cac8c790aa4c6b85f03babf8d98f8a7d01b6e11d5154b
+machine_hash: b2e39f880f12a29cf8b1399aaaa9b1de4b1339a0bd6c7027043abd39926a2582
 product: claude-code
 product_name: Claude Code
 record:
@@ -68,12 +68,12 @@ record:
   title: 8 Safety and Privacy changes in v2.1.234
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-12-improved-sandbox-ipv6-literals-in-network-domain-lists-are-now-bracketed-1-443-a|Improved
-  sandbox: IPv6 literals in network domain lists are now bracketed…]]'
-- '[[Changes/Claude Code/2026-08-13-9-safety-and-privacy-changes-in-v2-1-232|9 Safety
-  and Privacy changes in v2.1.232]]'
+- '[[Changes/Cline/2026-08-13-fix-the-claude-code-provider-being-unusable-for-agentic-work-it-now-runs-its-own|Fix
+  the Claude Code provider being unusable for agentic work]]'
 - '[[Changes/Claude Code/2026-08-14-3-safety-and-privacy-changes-in-v2-1-233|3 Safety
   and Privacy changes in v2.1.233]]'
+- '[[Changes/Cline/2026-08-14-reclaim-idle-plugin-sandbox-processes-instead-of-leaving-them-running-for-the-li|Reclaim
+  idle plugin sandbox processes instead of leaving them running for the life…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673|claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673]]'
 source_type: github_releases
 theme: safety-privacy
@@ -126,7 +126,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.234
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-3-safety-and-privacy-changes-in-v2-1-233|3 Safety and Privacy changes in v2.1.233]]
+- Earlier: 2026-08-14 · Cline · [[Changes/Cline/2026-08-14-reclaim-idle-plugin-sandbox-processes-instead-of-leaving-them-running-for-the-li|Reclaim idle plugin sandbox processes instead of leaving them running for the life…]]
 - Later: 2026-08-18 · Claude Code · [[Changes/Claude Code/2026-08-18-2-safety-and-privacy-changes-in-v2-1-235|2 Safety and Privacy changes in v2.1.235]]
 <!-- chronolog:end -->
 

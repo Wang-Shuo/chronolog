@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c4dbf7e883d3840a4bf6df1b9b4f24260a615b80bb697bb4b390917f326ff258
+machine_hash: 303005ac28e21db823bea14898a02290848d89b9bdbe0c55c37bf3481b5c08de
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Agent Mode changes in v2.1.121
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-24-worktrees-in-agents-window-44e81c|Worktrees in Agents
-  Window]]'
 - '[[Changes/Cursor/2026-04-24-this-release-introduces-a-new-way-to-multitask-with-async-subagents-an-improved|Cursor
   introduces a new way to multitask with async subagents, an improved worktrees…]]'
 - '[[Changes/Cursor/2026-04-24-multitask-in-agents-window-9bc7ed|Multitask in Agents
   Window]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-24-custom-agents-skills-and-commands-from-claude-are-no-longer-loaded-by-the-copilo|Custom
+  agents, skills, and commands from ~/.claude/ are no longer loaded…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce|claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce]]'
 source_type: github_releases
 theme: agent-mode
@@ -89,8 +89,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.121
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-24 · Cursor · [[Changes/Cursor/2026-04-24-multitask-in-agents-window-9bc7ed|Multitask in Agents Window]]
-- Later: 2026-04-29 · Cursor · [[Changes/Cursor/2026-04-29-3-agent-mode-changes-in-build-programmatic-agents|3 Agent Mode changes in Build programmatic agents…]]
+- Earlier: 2026-04-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-24-custom-agents-skills-and-commands-from-claude-are-no-longer-loaded-by-the-copilo|Custom agents, skills, and commands from ~/.claude/ are no longer loaded…]]
+- Later: 2026-04-28 · Gemini CLI · [[Changes/Gemini CLI/2026-04-28-3-agent-mode-changes-in-v0-40-0|3 Agent Mode changes in v0.40.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

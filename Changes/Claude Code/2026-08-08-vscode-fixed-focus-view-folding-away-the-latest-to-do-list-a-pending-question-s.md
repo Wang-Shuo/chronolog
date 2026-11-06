@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: d2895ca24fc24ddd9c6693bcb19f286353ef9d4d702126cfb1ea7cde426eb0d3
+machine_hash: d6b44e79be849c303912a5ad145226f633e1d93ec8b3501e4784455564853f29
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     question''s…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-28-existing-free-users-in-india-can-upgrade-their-plan-from-the-dashboard-new-users-aeb811|Existing
-  Free users in India can upgrade their plan from the dashboard]]'
-- '[[Changes/Claude Code/2026-08-04-vscode-added-focus-view-a-chat-menu-toggle-that-hides-tool-activity-behind-an-ex|VSCode
-  Added Focus view]]'
 - '[[Changes/Claude Code/2026-08-07-improved-fullscreen-mode-to-keep-the-full-pre-compaction-history-in-scrollback-a|Improved
   fullscreen mode to keep the full pre-compaction history in scrollback…]]'
+- '[[Changes/Codex CLI/2026-08-07-6-interface-experience-changes-in-rust-v0-147-0|6
+  Interface Experience changes in rust-v0.147.0]]'
+- '[[Changes/OpenHands/2026-08-07-feat-reorder-customize-navigation-by-devinvinson-in-https-github-com-openhands-o|feat:
+  reorder Customize navigation]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-08-v2-1-225-github-367046190-ccb40049|claude-code-2026-08-08-v2-1-225-github-367046190-ccb40049]]'
 source_type: github_releases
 theme: interface-experience
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-improved-fullscreen-mode-to-keep-the-full-pre-compaction-history-in-scrollback-a|Improved fullscreen mode to keep the full pre-compaction history in scrollback…]]
+- Earlier: 2026-08-07 · OpenHands · [[Changes/OpenHands/2026-08-07-feat-reorder-customize-navigation-by-devinvinson-in-https-github-com-openhands-o|feat: reorder Customize navigation]]
 - Later: 2026-08-10 · Claude Code · [[Changes/Claude Code/2026-08-10-improved-slash-command-menu-blue-now-marks-only-the-selected-row-matched-charact|Improved slash-command menu]]
 <!-- chronolog:end -->
 

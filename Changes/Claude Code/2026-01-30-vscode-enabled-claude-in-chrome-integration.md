@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 544fd74edc0ad66fef82278a8f9538cc78b0855d1d1de2ae6291d95553dd7e25
+machine_hash: 71d77c3d012cf2aecb612e2fe110ea3982e95be0686840377c0f3ffbe0d08f6f
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: 'VSCode: Enabled Claude in Chrome integration'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-4-apps-and-integrations-changes-in-2-4|4 Apps and Integrations
-  changes in 2.4]]'
-- '[[Changes/Claude Code/2026-01-23-2-apps-and-integrations-changes-in-v2-1-19|2 Apps
-  and Integrations changes in v2.1.19]]'
-- '[[Changes/Claude Code/2026-01-27-changed-the-commit-push-pr-skill-to-automatically-post-pr-urls-to-slack-channels|Changed
-  the /commit-push-pr skill to automatically post PR URLs to Slack channels…]]'
+- '[[Changes/Cline/2026-01-28-add-mcp-prompts-support-prompts-from-connected-mcp-servers-now-appear-in-slash-c|Add
+  MCP prompts support - prompts from connected MCP servers now appear in slash…]]'
+- '[[Changes/Gemini CLI/2026-01-28-4-apps-and-integrations-changes-in-v0-26-0|4 Apps
+  and Integrations changes in v0.26.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-28-mcp-show-server-name-displays-server-details-and-available-tools|/mcp
+  show server-name displays server details and available tools]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-30-v2-1-27-github-281663155-d003937d|claude-code-2026-01-30-v2-1-27-github-281663155-d003937d]]'
 source_type: github_releases
 theme: apps-integrations
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-changed-the-commit-push-pr-skill-to-automatically-post-pr-urls-to-slack-channels|Changed the /commit-push-pr skill to automatically post PR URLs to Slack channels…]]
-- Later: 2026-02-05 · Claude Code · [[Changes/Claude Code/2026-02-05-skills-defined-in-claude-skills-within-additional-directories-add-dir-are-now-lo|Skills defined in .claude/skills/ within additional directories (--add-dir)…]]
+- Earlier: 2026-01-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-28-mcp-show-server-name-displays-server-details-and-available-tools|/mcp show server-name displays server details and available tools]]
+- Later: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys|_Hooks: Hook scripts now run from the workspace repository root instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

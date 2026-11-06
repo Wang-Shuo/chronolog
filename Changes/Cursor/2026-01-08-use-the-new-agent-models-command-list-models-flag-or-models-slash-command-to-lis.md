@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 5c1fa1c4fdb3a7c6c0f22b516b5683b228b42b41869754aa541eb3f80070f561
+machine_hash: 8ef7ebedf34431734da6869aae141a1b1608d0010e2b668cde741ce77f2d19f0
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,12 @@ record:
   title: Model list and selection
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-19-today-we-re-updating-gpt-5-pro-to-gpt-5-1-pro-in-early-testing-users-consistentl-191826|GPT-5.1
-  Pro: Clearer, more capable answers for complex work]]'
-- '[[Changes/ChatGPT/2025-11-21-chatgpt-now-adds-more-inline-images-from-the-web-to-help-you-quickly-understand-83e5b8|More
-  images in answers]]'
-- '[[Changes/ChatGPT/2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-series-gpt-5-2-is-sm|Today,
-  we’re releasing GPT-5.2, the next upgrade to the GPT-5 series]]'
+- '[[Changes/Codex CLI/2026-01-07-3-model-support-changes-in-rust-v0-79-0|3 Model
+  Support changes in rust-v0.79.0]]'
+- '[[Changes/Gemini CLI/2026-01-07-3-model-support-changes-in-v0-23-0|3 Model Support
+  changes in v0.23.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-07-2-model-support-changes-in-v0-0-375|2 Model
+  Support changes in v0.0.375]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-08-new-cli-features-and-improved-cli-performance-https-cursor-com-c-8afb8542|cursor-2026-01-08-new-cli-features-and-improved-cli-performance-https-cursor-com-c-8afb8542]]'
 source_type: cursor_changelog
 theme: model-support
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-12-11 · ChatGPT · [[Changes/ChatGPT/2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-series-gpt-5-2-is-sm|Today, we’re releasing GPT-5.2, the next upgrade to the GPT-5 series]]
-- Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-merged-slash-commands-and-skills-simplifying-the-mental-model-with-no-change-in|Merged slash commands and skills, simplifying the mental model with no change in behavior]]
+- Earlier: 2026-01-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-07-2-model-support-changes-in-v0-0-375|2 Model Support changes in v0.0.375]]
+- Later: 2026-01-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-08-large-tool-outputs-are-written-to-disk-and-models-are-encouraged-to-use-efficien|Large tool outputs are written to disk and models are encouraged to use efficient…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

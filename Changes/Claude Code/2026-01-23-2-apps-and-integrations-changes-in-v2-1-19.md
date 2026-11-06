@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 48b100ffce6c1520ed57af7964a6c5c408b93d91c03f2172de81d87e3a486c28
+machine_hash: 46c18c9eaca078a76025216470e4b4178d54d82b9cf062708d96bade8579bac4
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Apps and Integrations changes in v2.1.19
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-20-2-apps-and-integrations-changes-in-v2-1-14|2 Apps
-  and Integrations changes in v2.1.14]]'
-- '[[Changes/Claude Code/2026-01-22-vscode-added-native-plugin-management-support|VSCode
-  Added native plugin management support]]'
-- '[[Changes/Cursor/2026-01-22-4-apps-and-integrations-changes-in-2-4|4 Apps and Integrations
-  changes in 2.4]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-22-2-apps-and-integrations-changes-in-v0-0-392|2
+  Apps and Integrations changes in v0.0.392]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-22-custom-agents-with-mcp-servers-avoid-unnecessary-restarts|Custom
+  agents with MCP servers avoid unnecessary restarts]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-22-2-apps-and-integrations-changes-in-v0-0-389|2
+  Apps and Integrations changes in v0.0.389]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640|claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640]]'
 source_type: github_releases
 theme: apps-integrations
@@ -84,8 +84,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.19
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-4-apps-and-integrations-changes-in-2-4|4 Apps and Integrations changes in 2.4]]
-- Later: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-changed-the-commit-push-pr-skill-to-automatically-post-pr-urls-to-slack-channels|Changed the /commit-push-pr skill to automatically post PR URLs to Slack channels…]]
+- Earlier: 2026-01-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-22-2-apps-and-integrations-changes-in-v0-0-389|2 Apps and Integrations changes in v0.0.389]]
+- Later: 2026-01-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-23-2-apps-and-integrations-changes-in-v0-0-393|2 Apps and Integrations changes in v0.0.393]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

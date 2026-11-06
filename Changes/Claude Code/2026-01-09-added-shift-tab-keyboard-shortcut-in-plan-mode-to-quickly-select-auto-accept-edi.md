@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f41fa6cbf7f5a6b206e6add551b85c9963a1983efcdfe67c1454a4dadb07f0a6
+machine_hash: 1944b193e8953ef2aa449c3f6e2d1c4fe430ec89d67240b036fc4e5687d3518e
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,10 +52,10 @@ record:
   title: Added Shift+Tab keyboard shortcut in plan mode to quickly select…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-22-3-interface-experience-changes-in-2-3|3 Interface Experience
-  changes in 2.3]]'
 - '[[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health
   appears as a new space in the ChatGPT sidebar]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-08-loading-remote-sessions-using-graphql-id-or-session-picker|Loading
+  remote sessions using GraphQL ID or session picker]]'
 - '[[Changes/Claude Code/2026-01-09-2-interface-experience-changes-in-v2-1-3|2 Interface
   Experience changes in v2.1.3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-2-github-275344737-27089666|claude-code-2026-01-09-v2-1-2-github-275344737-27089666]]'
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-2-interface-experience-changes-in-v2-1-3|2 Interface Experience changes in v2.1.3]]
-- Later: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-added-updates-section-to-doctor-showing-auto-update-channel-and-available-npm-ve|Added Updates section to /doctor showing auto-update channel and available npm…]]
+- Later: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-3-interface-experience-changes-in-rust-v0-80-0|3 Interface Experience changes in rust-v0.80.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

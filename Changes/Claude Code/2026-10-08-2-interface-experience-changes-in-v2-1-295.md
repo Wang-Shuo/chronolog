@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c1ec696f504e2aa190376af824af44d435b6ac67100faabb3b9e89773297c23c
+machine_hash: de903fc0d325e965b77edd9ff8ebf98edaa9e3efdcce44f92d9d44955e90952d
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Interface Experience changes in v2.1.295
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-30-4-interface-experience-changes-in-v2-1-286|4 Interface
-  Experience changes in v2.1.286]]'
-- '[[Changes/Claude Code/2026-10-02-added-ui-selection-for-mods-returns-the-text-you-last-selected-in-fullscreen-mod|Added
-  $.ui.selection() for mods]]'
 - '[[Changes/Claude Code/2026-10-06-improved-the-focus-tip-it-now-invites-you-to-try-focus-view-mid-turn-and-shows-h|Improved
   the /focus tip]]'
+- '[[Changes/OpenHands/2026-10-06-feat-outline-the-back-navigation-control-on-settings-sub-pages-by-errmakov-in-ht|feat:
+  outline the back navigation control on settings sub-pages]]'
+- '[[Changes/Codex CLI/2026-10-07-49856-support-daybreak-selection-in-codex-exec-etraut-openai|♯49856
+  Support Daybreak selection in codex exec @etraut-openai]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'
 source_type: github_releases
 theme: interface-experience
@@ -95,8 +95,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.295
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-improved-the-focus-tip-it-now-invites-you-to-try-focus-view-mid-turn-and-shows-h|Improved the /focus tip]]
-- Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-improved-fullscreen-mode-the-link-under-the-mouse-pointer-is-now-underlined-to-s|Improved fullscreen mode]]
+- Earlier: 2026-10-07 · Codex CLI · [[Changes/Codex CLI/2026-10-07-49856-support-daybreak-selection-in-codex-exec-etraut-openai|♯49856 Support Daybreak selection in codex exec @etraut-openai]]
+- Later: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-8-interface-experience-changes-in-rust-v0-162-0|8 Interface Experience changes in rust-v0.162.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

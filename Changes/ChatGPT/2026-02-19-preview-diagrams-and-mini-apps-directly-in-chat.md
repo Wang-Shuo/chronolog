@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9d5864d83de74b8b18232b791257df4e7abec79347ccbb7d65aea6452fac703f
+machine_hash: 48249f15b053856830370de5e5ad6ef4012224efede99114ad82851b7d0621bb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,12 +41,12 @@ record:
   title: Preview diagrams and mini apps directly in chat
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-17-plugins-on-the-cursor-marketplace-0cef65|Plugins on
-  the Cursor Marketplace]]'
 - '[[Changes/Claude Code/2026-02-18-added-last-assistant-message-field-to-stop-and-subagentstop-hook-inputs-providin|Added
   last_assistant_message field to Stop and SubagentStop hook inputs, providing…]]'
 - '[[Changes/Cursor/2026-02-18-3-apps-and-integrations-changes-in-cli-improvements-and-mermaid-ascii|3
   Apps and Integrations changes in CLI Improvements and Mermaid ASCII…]]'
+- '[[Changes/Gemini CLI/2026-02-18-5-apps-and-integrations-changes-in-v0-29-0|5 Apps
+  and Integrations changes in v0.29.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-19-interactive-code-blocks-in-chatgpt-c2254f84|chatgpt-2026-02-19-interactive-code-blocks-in-chatgpt-c2254f84]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-3-apps-and-integrations-changes-in-cli-improvements-and-mermaid-ascii|3 Apps and Integrations changes in CLI Improvements and Mermaid ASCII…]]
+- Earlier: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-5-apps-and-integrations-changes-in-v0-29-0|5 Apps and Integrations changes in v0.29.0]]
 - Later: 2026-02-19 · Claude Code · [[Changes/Claude Code/2026-02-19-2-apps-and-integrations-changes-in-v2-1-49|2 Apps and Integrations changes in v2.1.49]]
 <!-- chronolog:end -->
 

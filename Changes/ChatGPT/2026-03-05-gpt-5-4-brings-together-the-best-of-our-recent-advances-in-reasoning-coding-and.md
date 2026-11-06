@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0c6a75763a3718d7b60a5f83ca10a4cf820017fe23550fc29517edbde3d1e272
+machine_hash: 7163f86f2cf89870e910505a12e4f9ba9262b1dbe8f19fa7dd61ee2589e666ae
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -95,12 +95,12 @@ record:
   title: GPT-5.4 Thinking in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-25-ad-hoc-text-sources-paste-notes-briefs-or-reference-material-directly-to-capture|Ad-hoc
-  text sources]]'
-- '[[Changes/ChatGPT/2026-02-25-projects-now-make-it-easy-to-build-a-living-knowledge-base-by-adding-sources-whe|Projects
-  now make it easy to build a living knowledge base by adding sources…]]'
+- '[[Changes/Cline/2026-03-03-trigger-auto-compaction-on-openrouter-context-overflow-errors|Trigger
+  auto-compaction on OpenRouter context overflow errors]]'
 - '[[Changes/Cursor/2026-03-03-2-context-window-changes-in-2-6|2 Context Window changes
   in 2.6]]'
+- '[[Changes/Cline/2026-03-04-2-context-window-changes-in-v3-70-0|2 Context Window
+  changes in v3.70.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-05-gpt-5-4-thinking-in-chatgpt-df7dc812|chatgpt-2026-03-05-gpt-5-4-thinking-in-chatgpt-df7dc812]]'
 source_type: chatgpt_changelog
 theme: context-window
@@ -127,7 +127,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-2-context-window-changes-in-2-6|2 Context Window changes in 2.6]]
+- Earlier: 2026-03-04 · Cline · [[Changes/Cline/2026-03-04-2-context-window-changes-in-v3-70-0|2 Context Window changes in v3.70.0]]
 - Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-3-context-window-changes-in-v2-1-69|3 Context Window changes in v2.1.69]]
 <!-- chronolog:end -->
 

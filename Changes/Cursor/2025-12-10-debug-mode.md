@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6c4932e3dffde5fd07ac79372b7d004ada12cd80478916988e8c1a4dc8856d58
+machine_hash: 1c10a76ceaed098983a3aa3ea0547de0d4a8c136acbbfda78f0098e663aa9ddd
 product: cursor
 product_name: Cursor
 record:
@@ -45,9 +45,10 @@ record:
   title: Debug Mode
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-improved-code-review|Improved Code Review]]'
-- '[[Changes/Cursor/2025-10-29-3-developer-workflow-changes-in-2-0|3 Developer Workflow
-  changes in 2.0]]'
+- '[[Changes/Gemini CLI/2025-12-09-feat-core-add-configurable-inactivity-timeout-for-shell-commands-by-galz10-in-ht|feat(core):
+  Add configurable inactivity timeout for shell commands]]'
+- '[[Changes/Codex CLI/2025-12-10-3-developer-workflow-changes-in-rust-v0-69-0|3 Developer
+  Workflow changes in rust-v0.69.0]]'
 - '[[Changes/Cursor/2025-12-10-ask-mode-can-use-a-read-only-terminal-to-get-better-answers-like-checking-git-co|Ask
   Mode can use a read-only terminal to get better answers, like checking git commits]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323]]'
@@ -88,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-3-developer-workflow-changes-in-2-0|3 Developer Workflow changes in 2.0]]
-- Later: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-added-terminal-setup-support-for-kitty-alacritty-zed-and-warp-terminals|Added /terminal-setup support for Kitty, Alacritty, Zed, and Warp terminals]]
+- Earlier: 2025-12-10 · Codex CLI · [[Changes/Codex CLI/2025-12-10-3-developer-workflow-changes-in-rust-v0-69-0|3 Developer Workflow changes in rust-v0.69.0]]
+- Later: 2025-12-11 · Cline · [[Changes/Cline/2025-12-11-6-developer-workflow-changes-in-v3-41-0|6 Developer Workflow changes in v3.41.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 844f470c467d325466e0ccaa77061b837cb6d0111720c0479c3ba728e60ed65b
+machine_hash: 13542f1f4971bc845ecc204df05adf7dc86a4dcb4c89df17b5c4bb32b5469cff
 product: cursor
 product_name: Cursor
 record:
@@ -57,12 +57,12 @@ record:
     mode…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king-cfc1d5|Custom
-  instructions are now available to users in the EU & UK]]'
-- '[[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|Memory
-  and new controls for ChatGPT]]'
-- '[[Changes/ChatGPT/2024-04-29-memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w-4db29a|Memory
-  is now available to Plus users]]'
+- '[[Changes/Cline/2024-07-28-quality-of-life-improvements-like-markdown-rendering-memory-optimizations-better|Quality
+  of life improvements like markdown rendering, memory optimizations, better…]]'
+- '[[Changes/Cline/2024-08-11-adds-option-to-add-custom-instructions-to-the-end-of-the-system-prompt|Adds
+  option to add custom instructions to the end of the system prompt]]'
+- '[[Changes/OpenHands/2025-01-07-developer-mode-now-defaults-to-storing-data-on-the-filesystem-instead-of-in-memo|Developer
+  mode now defaults to storing data on the filesystem instead of in-memory…]]'
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
 source_type: cursor_changelog
 theme: memory
@@ -101,8 +101,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2024-04-29 · ChatGPT · [[Changes/ChatGPT/2024-04-29-memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w-4db29a|Memory is now available to Plus users]]
-- Later: 2025-04-16 · ChatGPT · [[Changes/ChatGPT/2025-04-16-chatgpt-can-also-use-memories-to-inform-search-queries-when-chatgpt-searches-the|Memory with Search]]
+- Earlier: 2025-01-07 · OpenHands · [[Changes/OpenHands/2025-01-07-developer-mode-now-defaults-to-storing-data-on-the-filesystem-instead-of-in-memo|Developer mode now defaults to storing data on the filesystem instead of in-memory…]]
+- Later: 2025-02-24 · OpenHands · [[Changes/OpenHands/2025-02-24-enable-memory-condensation-from-settings-page-by-csmith49-in-https-github-com-al|Enable memory condensation from settings page]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

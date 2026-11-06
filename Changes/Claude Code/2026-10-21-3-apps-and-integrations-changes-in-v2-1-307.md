@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 893ee21e4290745b0bba971415614764e8fba3131a76cf5edd2fca18a467480d
+machine_hash: 3e92e694e8b3048f4b247e174db00c01a2ccbf861a55c072a53a659ed040e5f3
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,12 @@ record:
   title: 3 Apps and Integrations changes in v2.1.307
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-16-3-apps-and-integrations-changes-in-v2-1-302|3
-  Apps and Integrations changes in v2.1.302]]'
-- '[[Changes/Claude Code/2026-10-19-8-apps-and-integrations-changes-in-v2-1-304|8
-  Apps and Integrations changes in v2.1.304]]'
 - '[[Changes/Claude Code/2026-10-20-4-apps-and-integrations-changes-in-v2-1-305|4
   Apps and Integrations changes in v2.1.305]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-20-4-apps-and-integrations-changes-in-v1-0-101|4
+  Apps and Integrations changes in v1.0.101]]'
+- '[[Changes/OpenHands/2026-10-20-2-apps-and-integrations-changes-in-v1-29-0|2 Apps
+  and Integrations changes in v1.29.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d|claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d]]'
 source_type: github_releases
 theme: apps-integrations
@@ -96,8 +96,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.307
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-20 · Claude Code · [[Changes/Claude Code/2026-10-20-4-apps-and-integrations-changes-in-v2-1-305|4 Apps and Integrations changes in v2.1.305]]
-- Later: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-2-apps-and-integrations-changes-in-v2-1-309|2 Apps and Integrations changes in v2.1.309]]
+- Earlier: 2026-10-20 · OpenHands · [[Changes/OpenHands/2026-10-20-2-apps-and-integrations-changes-in-v1-29-0|2 Apps and Integrations changes in v1.29.0]]
+- Later: 2026-10-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-21-2-apps-and-integrations-changes-in-v1-0-102|2 Apps and Integrations changes in v1.0.102]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

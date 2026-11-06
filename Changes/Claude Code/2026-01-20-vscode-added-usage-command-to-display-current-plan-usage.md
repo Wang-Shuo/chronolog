@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c1ccbea3861c774dd3d62f8877c1a9c450054f132b76d0c0f6973134ef991fa0
+machine_hash: caf1568af1fc03f524c4815d007595aeb19e1ed2e91fa3a0147d26b320772a45
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: '[VSCode] Added `/usage` command to display current plan usage'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-13-3-developer-workflow-changes-in-v2-1-6|3 Developer
-  Workflow changes in v2.1.6]]'
-- '[[Changes/Claude Code/2026-01-16-added-session-url-attribution-to-commits-and-prs-created-from-web-sessions|Added
-  session URL attribution to commits and PRs created from web sessions]]'
-- '[[Changes/Cursor/2026-01-16-2-developer-workflow-changes-in-cli-agent-modes-and-cloud-handoff|2
-  Developer Workflow changes in CLI Agent Modes and Cloud Handoff]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-16-2-developer-workflow-changes-in-v0-0-384|2
+  Developer Workflow changes in v0.0.384]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-19-2-developer-workflow-changes-in-v0-0-385|2
+  Developer Workflow changes in v0.0.385]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-19-add-resume-command-to-switch-sessions|Add
+  /resume command to switch sessions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111|claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111]]'
 source_type: github_releases
 theme: developer-workflow
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-2-developer-workflow-changes-in-cli-agent-modes-and-cloud-handoff|2 Developer Workflow changes in CLI Agent Modes and Cloud Handoff]]
-- Later: 2026-01-21 · Claude Code · [[Changes/Claude Code/2026-01-21-added-deprecation-notification-for-npm-installations-run-claude-install-or-see-h|Added deprecation notification for npm installations - run claude install or see…]]
+- Earlier: 2026-01-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-19-add-resume-command-to-switch-sessions|Add /resume command to switch sessions]]
+- Later: 2026-01-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-20-2-developer-workflow-changes-in-v0-0-388|2 Developer Workflow changes in v0.0.388]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

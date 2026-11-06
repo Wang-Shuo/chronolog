@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2c8324d229ec24a710a09f5c9e225a4063e5591b85e263b688f9a93795eb641f
+machine_hash: 751c3efdcb7cc23e2541bef8b88344406953197131eeca039828c452c190d792
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -55,10 +55,10 @@ record:
   title: Projects Now Available on ChatGPT Free Tier
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
-  users can only access stable release (no pre-release)]]'
 - '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise
   and Edu rollout coming soon]]'
+- '[[Changes/Windsurf/2025-07-17-important-for-enterprise-customers-who-use-windsurf-across-lots-of-repos-now-you|Important
+  for enterprise customers who use Windsurf across lots of repos]]'
 - '[[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow
   team admins to configure an extension allowlist]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-03-projects-now-available-on-chatgpt-free-tier-000f73ae|chatgpt-2025-09-03-projects-now-available-on-chatgpt-free-tier-000f73ae]]'
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow team admins to configure an extension allowlist]]
-- Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-cursor-for-enterprise|Cursor for Enterprise]]
+- Later: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-2-enterprise-and-administration-changes-in-v0-3-0|2 Enterprise and Administration changes in v0.3.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

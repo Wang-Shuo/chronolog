@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: e390593ef143e50d4d78510d7342a5969688e64811e640d01f855959bf998d6f
+machine_hash: c040dc33bec72dae8fe1eaf51bed55e1a2e4140f59c99a327dc81fb3aabbc223
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,8 @@ record:
   title: Agent plans are now files that can be edited with normal tools
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-11-21-2-agent-mode-changes-in-2-1|2 Agent Mode changes in
-  2.1]]'
+- '[[Changes/Gemini CLI/2025-12-09-feat-a2a-urgent-fix-process-modelinfo-agent-message-by-cocosheng-g-in-https-gith|feat(a2a):
+  Urgent fix - Process modelInfo agent message]]'
 - '[[Changes/Cursor/2025-12-10-plan-mode-now-supports-inline-mermaid-diagrams-allowing-the-agent-to-automatical|Plan
   Mode improvements]]'
 - '[[Changes/Cursor/2025-12-10-multi-agent-judging|Multi-agent judging]]'
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-2-agent-mode-changes-in-2-1|2 Agent Mode changes in 2.1]]
-- Later: 2025-12-18 · Cursor · [[Changes/Cursor/2025-12-18-shared-agent-transcripts-164030|Shared agent transcripts]]
+- Earlier: 2025-12-09 · Gemini CLI · [[Changes/Gemini CLI/2025-12-09-feat-a2a-urgent-fix-process-modelinfo-agent-message-by-cocosheng-g-in-https-gith|feat(a2a): Urgent fix - Process modelInfo agent message]]
+- Later: 2025-12-16 · OpenHands · [[Changes/OpenHands/2025-12-16-new-openhands-1-0-0-using-the-new-software-agent-sdk-https-github-com-openhands|New OpenHands 1.0.0 using the new…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

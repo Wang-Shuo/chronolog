@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: c3f958a45a02e1fe164cf7f14718d1ee862fbc872ecc68a0ec0e430d3de87a5d
+machine_hash: 9c01c11b25fe4d07cd200a1401fddf2009e2c7023650f1411f664ae3098e71d0
 product: cursor
 product_name: Cursor
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-01-16 · Claude Code · [[Changes/Claude Code/2026-01-16-added-plansdirectory-setting-to-customize-where-plan-files-are-stored|Added plansDirectory setting to customize where plan files are stored]]
-- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-skills|Skills]]
+- Later: 2026-01-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-16-2-agent-mode-changes-in-v0-0-384|2 Agent Mode changes in v0.0.384]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 36287ab54867f3155cc0065b10ae43c2ca81e0154befe57af98e5b3e86a54351
+machine_hash: d818de2a6c46a30f91e6a037a7727868041db6937ec5a8137647fa341e642c59
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,8 +56,8 @@ record:
   title: '[VSCode] Improved startup'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-improved-fullscreen-mode-the-link-under-the-mouse-pointer-is-now-underlined-to-s|Improved
-  fullscreen mode]]'
+- '[[Changes/OpenHands/2026-10-12-feat-add-compact-section-navigation-on-tablets-by-enyst-in-https-github-com-open|feat:
+  add compact section navigation on tablets]]'
 - '[[Changes/Claude Code/2026-10-14-changed-exit-to-force-kill-background-commands-still-running-1-5-seconds-after-b|Changed
   exit to force-kill background commands still running 1.5 seconds after being…]]'
 - '[[Changes/Claude Code/2026-10-14-added-effort-and-fast-in-agent-view-to-set-what-new-sessions-start-with-a-bare-m|Added

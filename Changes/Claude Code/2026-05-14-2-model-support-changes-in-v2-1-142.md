@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0ca486367fb1ed5a34bd8acf1606240555b9b7a4c01f95def654e3ff0f033f31
+machine_hash: 2846ae76b03075fd0da6ccbe355d920d71fb2f589e1bb74da67874bf127b1110
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Model Support changes in v2.1.142
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-11-compaction-prompt-now-asks-the-model-to-preserve-sensitive-user-instructions|Compaction
-  prompt now asks the model to preserve sensitive user instructions]]'
-- '[[Changes/Cursor/2026-05-11-high-bugbot-spends-more-time-reasoning-reviews-are-more-expensive-and-take-longe|High:
-  Bugbot spends more time reasoning]]'
-- '[[Changes/Cursor/2026-05-11-custom-describe-in-natural-language-when-bugbot-should-use-default-or-high-effor|Custom:
-  Describe in natural language when Bugbot should use default or high effort]]'
+- '[[Changes/Gemini CLI/2026-05-12-5-model-support-changes-in-v0-42-0|5 Model Support
+  changes in v0.42.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-12-display-a-warning-when-the-cli-version-is-deprecated-and-premium-model-access-ma|Display
+  a warning when the CLI version is deprecated and premium model access may be lost]]'
+- '[[Changes/Cline/2026-05-13-enable-openrouter-prompt-cache-control-for-qwen-models|Enable
+  OpenRouter prompt cache control for Qwen models]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f|claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f]]'
 source_type: github_releases
 theme: model-support
@@ -85,8 +85,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.142
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-custom-describe-in-natural-language-when-bugbot-should-use-default-or-high-effor|Custom: Describe in natural language when Bugbot should use default or high effort]]
-- Later: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-2-model-support-changes-in-v2-1-143|2 Model Support changes in v2.1.143]]
+- Earlier: 2026-05-13 · Cline · [[Changes/Cline/2026-05-13-enable-openrouter-prompt-cache-control-for-qwen-models|Enable OpenRouter prompt cache control for Qwen models]]
+- Later: 2026-05-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-14-2-model-support-changes-in-v1-0-48|2 Model Support changes in v1.0.48]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

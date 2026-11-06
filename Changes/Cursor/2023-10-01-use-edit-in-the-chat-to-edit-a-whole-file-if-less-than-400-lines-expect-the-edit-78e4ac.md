@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 053c21b0344ad90c7d87ffac35af5131fc9e3b345fdc91f973326f7df4089218
+machine_hash: 10755ab550d813799a94d9ccaf7dcb7ec164c5c6c65956428085de8ce909ba2b
 product: cursor
 product_name: Cursor
 record:
@@ -52,11 +52,12 @@ record:
   title: Use /edit in the chat to edit a whole file (if less than 400 lines)
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-28-long-ai-completions-8c21b2|Long AI completions]]'
-- '[[Changes/ChatGPT/2023-08-03-we-re-rolling-out-a-bunch-of-small-updates-to-improve-the-chatgpt-experience-shi|Updates
-  to ChatGPT]]'
+- '[[Changes/Aider/2023-08-11-2-model-support-changes-in-v0-12-0|2 Model Support changes
+  in v0.12.0]]'
 - '[[Changes/ChatGPT/2023-09-27-choose-browse-with-bing-in-the-selector-under-gpt-4|Choose
   Browse with Bing in the selector under GPT-4]]'
+- '[[Changes/Aider/2023-09-30-show-models-supported-by-api-key-if-requested-model-isn-t-available|Show
+  models supported by api/key if requested model isn''t available]]'
 source_release: '[[Releases/Cursor/cursor-2023-10-01-0-12-0-https-cursor-com-changelog-0-12-0-2555ff30|cursor-2023-10-01-0-12-0-https-cursor-com-changelog-0-12-0-2555ff30]]'
 source_type: cursor_changelog
 theme: model-support
@@ -88,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-09-27 · ChatGPT · [[Changes/ChatGPT/2023-09-27-choose-browse-with-bing-in-the-selector-under-gpt-4|Choose Browse with Bing in the selector under GPT-4]]
+- Earlier: 2023-09-30 · Aider · [[Changes/Aider/2023-09-30-show-models-supported-by-api-key-if-requested-model-isn-t-available|Show models supported by api/key if requested model isn't available]]
 - Later: 2023-10-16 · ChatGPT · [[Changes/ChatGPT/2023-10-16-we-ve-integrated-dall-e-3-with-chatgpt-allowing-it-to-respond-to-your-requests-w-ad3caf|DALL·E 3 is now rolling out in beta]]
 <!-- chronolog:end -->
 

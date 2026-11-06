@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 689e44f8c2b55ffa4b42b8def6e7535b3b7b7ac414db5cc4500542c03962697c
+machine_hash: 322a0d583c957da0164e64eef92afea666349bfcc16967d2e3a65fad35d9511a
 product: cursor
 product_name: Cursor
 record:
@@ -47,9 +47,10 @@ record:
   title: OS notifications from Agent
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-06-sidebar-for-all-agents|Sidebar for all Agents]]'
-- '[[Changes/Cursor/2025-08-06-sending-messages-while-cursor-is-working-now-does-a-better-job-of-steering-the-a|More
-  Agent steerability]]'
+- '[[Changes/OpenHands/2025-08-20-added-a-new-feedback-reason-the-agent-didn-t-finish-the-job-by-xingyaoww-in-http|Added
+  a new feedback reason: "The agent didn''t finish the job"]]'
+- '[[Changes/Cline/2025-08-21-adding-task-progress-param-to-the-summarize-task-tool-call-by-0xtoshii-in-https|adding
+  task_progress param to the summarize task tool call]]'
 - '[[Changes/Cursor/2025-08-21-you-can-now-start-background-agents-directly-from-linear-delegate-tasks-to-curso|Run
   Agents in Linear]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89|cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89]]'
@@ -87,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-sending-messages-while-cursor-is-working-now-does-a-better-job-of-steering-the-a|More Agent steerability]]
-- Later: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-3-agent-mode-changes-in-1-6|3 Agent Mode changes in 1.6]]
+- Earlier: 2025-08-21 · Cline · [[Changes/Cline/2025-08-21-adding-task-progress-param-to-the-summarize-task-tool-call-by-0xtoshii-in-https|adding task_progress param to the summarize task tool call]]
+- Later: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-5-agent-mode-changes-in-rust-v0-24-0|5 Agent Mode changes in rust-v0.24.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

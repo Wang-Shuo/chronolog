@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: dec700355a500917ed875d5af728bc1737ca5cdf25443d7ab1acd413681f474d
+machine_hash: d72ae40cff82b815ef08e921f7443e2877d833c8851c957dc500d7866e4a2332
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,11 +53,12 @@ record:
   title: Added research preview agent teams feature for multi-agent collaboration…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-team-commands|Team Commands]]'
-- '[[Changes/ChatGPT/2025-11-25-share-photos-to-discuss-them-out-loud|Share photos
-  to discuss them out loud]]'
-- '[[Changes/Cursor/2026-01-22-added-team-and-mdm-hooks-support-to-cli-with-more-efficient-execution|Added
-  team and MDM hooks support to CLI with more efficient execution]]'
+- '[[Changes/Codex CLI/2026-01-27-2-collaboration-changes-in-rust-v0-92-0|2 Collaboration
+  changes in rust-v0.92.0]]'
+- '[[Changes/Windsurf/2026-01-30-admins-can-now-set-a-default-model-that-applies-to-all-team-members-when-they-fi|Admins
+  can now set a default model that applies to all team members when they first…]]'
+- '[[Changes/Codex CLI/2026-02-04-10404-cleanup-collaboration-mode-variants-charley-oai|♯10404
+  Cleanup collaboration mode variants @charley-oai]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0]]'
 source_type: github_releases
 theme: collaboration
@@ -91,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-added-team-and-mdm-hooks-support-to-cli-with-more-efficient-execution|Added team and MDM hooks support to CLI with more efficient execution]]
-- Later: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-cleaner-select-all-behavior-cmd-a-cmd-a-now-selects-only-the-conversation-conten|Cleaner “Select All” behavior (Cmd+A)]]
+- Earlier: 2026-02-04 · Codex CLI · [[Changes/Codex CLI/2026-02-04-10404-cleanup-collaboration-mode-variants-charley-oai|♯10404 Cleanup collaboration mode variants @charley-oai]]
+- Later: 2026-02-05 · Codex CLI · [[Changes/Codex CLI/2026-02-05-2-collaboration-changes-in-rust-v0-98-0|2 Collaboration changes in rust-v0.98.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

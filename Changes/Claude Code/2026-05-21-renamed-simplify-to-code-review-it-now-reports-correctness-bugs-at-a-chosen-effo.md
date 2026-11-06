@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c6242630b50daa2dfe32e5b2c57130d1f53e7b8d576dfd4ba8d8b9694beee6ee
+machine_hash: f5b16ac2a372c31efb1d00046615a3ea99e59733d98ba0d425479eb803a90f1e
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: Renamed `/simplify` to `/code-review`
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-15-2-developer-workflow-changes-in-v2-1-143|2 Developer
-  Workflow changes in v2.1.143]]'
-- '[[Changes/Claude Code/2026-05-19-3-developer-workflow-changes-in-v2-1-144|3 Developer
-  Workflow changes in v2.1.144]]'
+- '[[Changes/Codex CLI/2026-05-20-3-developer-workflow-changes-in-rust-v0-132-0|3
+  Developer Workflow changes in rust-v0.132.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-20-4-developer-workflow-changes-in-v1-0-51|4
+  Developer Workflow changes in v1.0.51]]'
 - '[[Changes/Claude Code/2026-05-21-renamed-simplify-to-code-review-with-an-optional-effort-level-e-g-code-review-hi|Renamed
   /simplify to /code-review with an optional effort level…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd|claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-21 · Claude Code · [[Changes/Claude Code/2026-05-21-renamed-simplify-to-code-review-with-an-optional-effort-level-e-g-code-review-hi|Renamed /simplify to /code-review with an optional effort level…]]
-- Later: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-2-developer-workflow-changes-in-v2-1-152|2 Developer Workflow changes in v2.1.152]]
+- Later: 2026-05-21 · Codex CLI · [[Changes/Codex CLI/2026-05-21-3-developer-workflow-changes-in-rust-v0-133-0|3 Developer Workflow changes in rust-v0.133.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

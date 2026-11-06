@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 13552e762b5ce4fdc8d89537942d63b13bc67a9f83b9d400a1db8f6582be7927
+machine_hash: aa26c87f7bc65b9d7b18e701a32fd2cb2197c98bd798aa9054feb96b5abbaf46
 product: cursor
 product_name: Cursor
 record:
@@ -47,12 +47,12 @@ record:
   title: 'Bundled ripgrep: Local shell runs use the bundled platform rg binary without…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|More
-  images in answers for Free users]]'
-- '[[Changes/ChatGPT/2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is|Generated
-  images will continue to appear in the Images tab]]'
-- '[[Changes/Claude Code/2026-05-15-the-powershell-tool-is-now-enabled-by-default-on-windows-for-bedrock-vertex-and|The
-  PowerShell tool is now enabled by default on Windows for Bedrock, Vertex…]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-28-clipboard-correctly-copies-cjk-and-supplementary-plane-unicode-characters-on-win|Clipboard
+  correctly copies CJK and supplementary-plane Unicode characters on Windows]]'
+- '[[Changes/Windsurf/2026-06-02-windsurf-is-now-devin-desktop-https-devin-ai-blog-windsurf-is-now-devin-desktop|Windsurf
+  is now Devin Desktop((source link)]]'
+- '[[Changes/Codex CLI/2026-06-04-2-mobile-and-desktop-changes-in-rust-v0-137-0|2
+  Mobile and Desktop changes in rust-v0.137.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856|cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856]]'
 source_type: cursor_changelog
 theme: mobile-desktop
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-the-powershell-tool-is-now-enabled-by-default-on-windows-for-bedrock-vertex-and|The PowerShell tool is now enabled by default on Windows for Bedrock, Vertex…]]
-- Later: 2026-06-08 · ChatGPT · [[Changes/ChatGPT/2026-06-08-cleaner-edit-message-flow-android-now-makes-it-clearer-when-you-re-editing-a-pre|Cleaner edit-message flow]]
+- Earlier: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-2-mobile-and-desktop-changes-in-rust-v0-137-0|2 Mobile and Desktop changes in rust-v0.137.0]]
+- Later: 2026-06-04 · Windsurf · [[Changes/Windsurf/2026-06-04-added-a-new-command-for-devin-desktop-to-rerun-the-migration-from-windsurf-this|Added a new command for Devin Desktop to rerun the migration from Windsurf]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

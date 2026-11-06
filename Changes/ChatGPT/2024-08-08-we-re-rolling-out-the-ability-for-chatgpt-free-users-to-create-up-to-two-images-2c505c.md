@@ -13,12 +13,12 @@ diffusion:
   role: first-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b098cac55322758b4ee58a44f4e0e1e7b938ccc8d57315ea2ed8285b89713407
+machine_hash: 7a31d1edf04b2f7a7de7c728c443fb847e7b356d45e3f8bf1836d72a366f2048
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 3 tracked products.
+- Earliest same-theme entry among the 10 tracked products.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

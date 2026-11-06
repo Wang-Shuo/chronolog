@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 135fd3a4b7067023b2493c8f88f689dbdc9a2f6829f1fdfa885643c3f7d17b26
+machine_hash: ef4063b2fe16c1f1e01ed0630ef9f9a36926b63c4cf491d1aa81a35eabf07b13
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Developer Workflow changes in v2.1.267
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-03-improved-deleting-a-background-session-whose-worktree-has-unpushed-commits-the-m|Improved
-  deleting a background session whose worktree has unpushed commits]]'
 - '[[Changes/Claude Code/2026-09-04-3-developer-workflow-changes-in-v2-1-261|3 Developer
   Workflow changes in v2.1.261]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-04-detect-the-herdr-terminal-multiplexer-instead-of-mistaking-it-for-tmux-so-the-ki|Detect
+  the herdr terminal multiplexer instead of mistaking it for tmux, so the Kitty…]]'
 - '[[Changes/Claude Code/2026-09-08-2-developer-workflow-changes-in-v2-1-265|2 Developer
   Workflow changes in v2.1.265]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-09-v2-1-267-github-385748811-6409148e|claude-code-2026-09-09-v2-1-267-github-385748811-6409148e]]'
@@ -95,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.267
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-2-developer-workflow-changes-in-v2-1-265|2 Developer Workflow changes in v2.1.265]]
-- Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-code-review-added-a-note-under-the-still-open-findings-list-in-follow-up-reviews|Code Review Added a note under the still-open findings list in follow-up reviews]]
+- Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-7-developer-workflow-changes-in-rust-v0-154-0|7 Developer Workflow changes in rust-v0.154.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

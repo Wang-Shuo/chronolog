@@ -1,0 +1,92 @@
+---
+card_id: codex-cli-2025-12-15-d4376a
+date: '2025-12-15'
+description: 'Codex CLI · 2025-12-15 · Apps and Integrations: #7962 docs: update the
+  docs for @openai/codex-shell-tool-mcp'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 998
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: apps-integrations
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: c8f4781212359522255487ceee28ddc53a5a83e5a5e450f089ae9cbe5abd3bc1
+product: codex-cli
+product_name: Codex CLI
+record:
+  card_id: codex-cli-2025-12-15-d4376a
+  comparison: ''
+  date: '2025-12-15'
+  description: 'Codex CLI — 0.73.0: #7962 docs: update the docs for @openai/codex-shell-tool-mcp'
+  evidence:
+  - quote: '#7962 docs: update the docs for @openai/codex-shell-tool-mcp'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.73.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: codex-cli
+  product_name: Codex CLI
+  slug: 7962-docs-update-the-docs-for-openai-codex-shell-tool-mcp
+  source_release: codex-cli-2025-12-15-rust-v0-73-0-github-270562118-b6e8102c
+  source_type: github_releases
+  theme: apps-integrations
+  title: '#7962 docs: update the docs for @openai/codex-shell-tool-mcp'
+  type: change
+related_changes:
+- '[[Changes/Windsurf/2025-12-10-cascade-hooks-on-user-prompts|Cascade Hooks on User
+  Prompts]]'
+- '[[Changes/Cline/2025-12-11-7-apps-and-integrations-changes-in-v3-41-0|7 Apps and
+  Integrations changes in v3.41.0]]'
+- '[[Changes/Codex CLI/2025-12-13-2-apps-and-integrations-changes-in-rust-v0-72-0|2
+  Apps and Integrations changes in rust-v0.72.0]]'
+source_release: '[[Releases/Codex CLI/codex-cli-2025-12-15-rust-v0-73-0-github-270562118-b6e8102c|codex-cli-2025-12-15-rust-v0-73-0-github-270562118-b6e8102c]]'
+source_type: github_releases
+theme: apps-integrations
+title: '♯7962 docs: update the docs for @openai/codex-shell-tool-mcp'
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# #7962 docs: update the docs for @openai/codex-shell-tool-mcp
+
+**Codex CLI** · 2025-12-15 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://github.com/openai/codex/releases/tag/rust-v0.73.0) · from [[Releases/Codex CLI/codex-cli-2025-12-15-rust-v0-73-0-github-270562118-b6e8102c|0.73.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> #7962 docs: update the docs for @openai/codex-shell-tool-mcp
+>
+> Source: https://github.com/openai/codex/releases/tag/rust-v0.73.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Codex CLI/2025-12-15-8024-docs-document-enabling-experimental-skills|♯8024 docs: document enabling experimental skills]] · Files and Data
+- [[Changes/Codex CLI/2025-12-15-3-safety-and-privacy-changes-in-rust-v0-73-0|3 Safety and Privacy changes in rust-v0.73.0]] · Safety and Privacy
+- [[Changes/Codex CLI/2025-12-15-8047-chore-fix-tooltip-typos-and-align-tone|♯8047 chore: fix tooltip typos and align tone]] · Interface Experience
+- [[Changes/Codex CLI/2025-12-15-27-other-changes-in-rust-v0-73-0|27 other changes in rust-v0.73.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2025-12-13 · Codex CLI · [[Changes/Codex CLI/2025-12-13-2-apps-and-integrations-changes-in-rust-v0-72-0|2 Apps and Integrations changes in rust-v0.72.0]]
+- Later: 2025-12-16 · Gemini CLI · [[Changes/Gemini CLI/2025-12-16-9-apps-and-integrations-changes-in-v0-21-0|9 Apps and Integrations changes in v0.21.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20codex-cli-2025-12-15-d4376a&body=Card%3A%20Changes%2FCodex%20CLI%2F2025-12-15-7962-docs-update-the-docs-for-openai-codex-shell-tool-mcp.md%0ACard%20ID%3A%20codex-cli-2025-12-15-d4376a%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fopenai%2Fcodex%2Freleases%2Ftag%2Frust-v0.73.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

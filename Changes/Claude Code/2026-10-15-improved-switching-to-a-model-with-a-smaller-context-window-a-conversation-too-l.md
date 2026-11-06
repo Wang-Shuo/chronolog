@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2edde4f8bcda694e32608bab3599f249012da97def905dd1d1ebbeba53a2244f
+machine_hash: e06b27f0d21db5db3783f22e638da0893ad093eab72aa24bcd7077cc468cbc76
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-added-usage-warnings-for-max-effort-workflows-always-on-context-and-large-tool-r|Added /usage warnings for max effort, workflows, always-on context and large tool…]]
-- Later: 2026-10-16 · Claude Code · [[Changes/Claude Code/2026-10-16-2-context-window-changes-in-v2-1-302|2 Context Window changes in v2.1.302]]
+- Later: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-16-context-window-changes-in-rust-v0-163-0|16 Context Window changes in rust-v0.163.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

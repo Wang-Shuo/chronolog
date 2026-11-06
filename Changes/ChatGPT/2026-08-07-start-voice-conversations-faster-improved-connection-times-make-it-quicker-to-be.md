@@ -4,20 +4,20 @@ date: '2026-08-07'
 description: 'ChatGPT · 2026-08-07 · Voice and Audio: Start Voice conversations faster.
   Improved connection times make it quicker to begin a Voice conversation with ChatGPT.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
-    (Beta) is now rolling out to Plus users on iOS and Android]]'
+  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
+    link) support, which allows you…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1047
+  lag_days: 1092
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d339115a758767722116e8d82f94319fed7b3fa5a974bd7ba1f82830371825ca
+machine_hash: 1410c0a82b6fad2acc014b1c503498579f2fe201988af992f079677cff3c766d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,12 +53,12 @@ record:
   title: Start Voice conversations faster
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|Introducing
-  GPT-Live-1 in ChatGPT Voice]]'
-- '[[Changes/ChatGPT/2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can-f60c71|ChatGPT
-  returns to WhatsApp in the EEA]]'
+- '[[Changes/Codex CLI/2026-07-21-7-voice-and-audio-changes-in-rust-v0-145-0|7 Voice
+  and Audio changes in rust-v0.145.0]]'
 - '[[Changes/ChatGPT/2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star|ChatGPT
   Voice in Work and Codex on desktop]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-30-voice-mode-pauses-playing-media-before-recording-and-resumes-it-afterward-where|Voice
+  mode pauses playing media before recording and resumes it afterward, where…]]'
 scope: Android
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
@@ -90,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-07-23 · ChatGPT · [[Changes/ChatGPT/2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star|ChatGPT Voice in Work and Codex on desktop]]
+- Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-voice-mode-pauses-playing-media-before-recording-and-resumes-it-afterward-where|Voice mode pauses playing media before recording and resumes it afterward, where…]]
 - Later: 2026-08-07 · ChatGPT · [[Changes/ChatGPT/2026-08-07-gpt-live-in-chatgpt-voice-now-supports-file-uploads-and-projects-you-can-now-upl|Files and Projects in ChatGPT Voice]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
+- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

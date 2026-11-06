@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2dd8c90d5ffc89102e18dd692ca4194ba4eb80548abbc4e299799098a0a1bc31
+machine_hash: 5b26d54a052714491bd8dbd172f89c98a4b4c7311604f4b8cb8c498b714592bf
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,11 @@ record:
     row…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-08-cleaned-up-logged-out-mobile-web-experience-logged-out-users-now-see-a-composer|Cleaned
-  up logged-out mobile web experience]]'
-- '[[Changes/Claude Code/2026-06-08-2-interface-experience-changes-in-v2-1-169|2 Interface
-  Experience changes in v2.1.169]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-09-2-interface-experience-changes-in-v1-0-61|2
+  Interface Experience changes in v1.0.61]]'
 - '[[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed-b05795|We’re
   updating the model picker to make it easier to choose the balance of speed…]]'
+- '[[Changes/Windsurf/2026-06-10-agent-and-editor-modes|Agent and Editor modes]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-12-v2-1-176-github-338777362-91e3deb6|claude-code-2026-06-12-v2-1-176-github-338777362-91e3deb6]]'
 source_type: github_releases
 theme: interface-experience
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-10 · ChatGPT · [[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed-b05795|We’re updating the model picker to make it easier to choose the balance of speed…]]
+- Earlier: 2026-06-10 · Windsurf · [[Changes/Windsurf/2026-06-10-agent-and-editor-modes|Agent and Editor modes]]
 - Later: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-added-wheelscrollaccelerationenabled-setting-to-disable-mouse-wheel-scroll-accel|Added wheelScrollAccelerationEnabled setting to disable mouse-wheel scroll…]]
 <!-- chronolog:end -->
 

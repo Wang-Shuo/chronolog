@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 061211e170f7856d66601b51535a9244a0360ae3bcda93f856bb91e331059881
+machine_hash: 75102484d3dee9b6d555f37f25c8dbfee072712f5d609c0978642ee5e9baa46a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -72,12 +72,12 @@ record:
   title: ChatGPT rolls out parental controls globally to help families guide how ChatGPT…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-18-new-ui-for-temporary-chats-we-ve-made-accessing-and-viewing-these-private-conver|New
-  UI for Temporary Chats]]'
-- '[[Changes/Cursor/2025-06-04-team-admins-can-now-disable-privacy-mode|Team admins
-  can now disable Privacy Mode]]'
-- '[[Changes/Cursor/2025-07-29-2-safety-and-privacy-changes-in-1-3|2 Safety and Privacy
-  changes in 1.3]]'
+- '[[Changes/Gemini CLI/2025-09-24-4-safety-and-privacy-changes-in-v0-6-0|4 Safety
+  and Privacy changes in v0.6.0]]'
+- '[[Changes/Codex CLI/2025-09-26-2-safety-and-privacy-changes-in-rust-v0-42-0|2 Safety
+  and Privacy changes in rust-v0.42.0]]'
+- '[[Changes/GitHub Copilot CLI/2025-09-26-improved-the-error-message-received-when-using-a-pat-that-is-missing-the-copilot|Improved
+  the error message received when using a PAT that is missing…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|chatgpt-2025-09-29-parental-controls-8b95b69a]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
@@ -111,7 +111,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-2-safety-and-privacy-changes-in-1-3|2 Safety and Privacy changes in 1.3]]
+- Earlier: 2025-09-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-26-improved-the-error-message-received-when-using-a-pat-that-is-missing-the-copilot|Improved the error message received when using a PAT that is missing…]]
 - Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-sandboxed-terminals|Sandboxed terminals]]
 <!-- chronolog:end -->
 

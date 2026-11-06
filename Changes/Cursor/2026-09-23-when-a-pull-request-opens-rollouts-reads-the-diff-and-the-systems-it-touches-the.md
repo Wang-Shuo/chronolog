@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f4c898cfa8926e48b15dba83076b067c50cd12275c2e1509987c67731f441670
+machine_hash: 33ab2531054a1bd0b1c929b6b21af9806c03121f0bd592c7d0c10851b86ad634
 product: cursor
 product_name: Cursor
 record:
@@ -49,8 +49,8 @@ record:
   title: Monitoring plans
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-22-3-developer-workflow-changes-in-v2-1-280|3 Developer
-  Workflow changes in v2.1.280]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-22-add-optional-osc-777-terminal-notifications-for-direct-ghostty-and-wezterm-sessi|Add
+  optional OSC 777 terminal notifications for direct Ghostty and WezTerm sessions]]'
 - '[[Changes/Claude Code/2026-09-23-7-developer-workflow-changes-in-v2-1-281|7 Developer
   Workflow changes in v2.1.281]]'
 - '[[Changes/Cursor/2026-09-23-rollouts|Rollouts]]'

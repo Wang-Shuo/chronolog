@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 953de140672bb4a91b7af6a15fa83986a679ee8700652a73e9b0e682a4783602
+machine_hash: f8726f8cb4b3c253597b440cb73b6dc7928f28652cd820ce05d9b2068c99f1ad
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
     dialog…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-10-2-pricing-model-changes-in-v2-1-268|2 Pricing
-  Model changes in v2.1.268]]'
-- '[[Changes/Claude Code/2026-09-14-added-support-for-a-multiplier-above-1-up-to-10-in-the-modelpricing-managed-sett|Added
-  support for a multiplier above 1, up to 10, in the modelPricing managed…]]'
+- '[[Changes/OpenHands/2026-09-16-test-strengthen-llm-subscription-normalization-by-aivong-openhands-in-https-gith|test:
+  strengthen LLM subscription normalization]]'
 - '[[Changes/Claude Code/2026-09-17-claude-code-on-the-web-changed-a-routine-s-on-hold-notice-when-your-subscription|Claude
   Code on the web Changed a routine''s on-hold notice]]'
+- '[[Changes/Cline/2026-09-17-cline-pass-now-defaults-to-a-model-from-your-subscription-rather-than-a-free-one|Cline
+  Pass now defaults to a model from your subscription rather than a free one]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36|claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36]]'
 source_type: github_releases
 theme: pricing-model
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-claude-code-on-the-web-changed-a-routine-s-on-hold-notice-when-your-subscription|Claude Code on the web Changed a routine's on-hold notice]]
+- Earlier: 2026-09-17 · Cline · [[Changes/Cline/2026-09-17-cline-pass-now-defaults-to-a-model-from-your-subscription-rather-than-a-free-one|Cline Pass now defaults to a model from your subscription rather than a free one]]
 - Later: 2026-09-19 · Claude Code · [[Changes/Claude Code/2026-09-19-changed-auto-mode-for-claude-api-and-enterprise-users-and-on-bedrock-vertex-foun|Changed auto mode for Claude API and Enterprise users, and on Bedrock, Vertex…]]
 <!-- chronolog:end -->
 

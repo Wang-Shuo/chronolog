@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9762677ac07ce864c58ad2cbfa73158e479d8c14db2fe342a9c0f85ba282471e
+machine_hash: 8afd89cf099f4917d0ed38859b0ab3de3bd2c431e179d0b801627d2eed01e53b
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
     done`)…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-2-interface-experience-changes-in-v2-1-145|2 Interface
-  Experience changes in v2.1.145]]'
-- '[[Changes/Claude Code/2026-05-19-model-now-changes-the-model-for-the-current-session-only-press-d-in-the-model-pi|/model
-  now changes the model for the current session only]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-19-3-interface-experience-changes-in-v1-0-49|3
+  Interface Experience changes in v1.0.49]]'
+- '[[Changes/Codex CLI/2026-05-20-3-interface-experience-changes-in-rust-v0-132-0|3
+  Interface Experience changes in rust-v0.132.0]]'
 - '[[Changes/Claude Code/2026-05-21-prompt-history-no-longer-records-consecutive-duplicate-entries-recalling-a-promp|Prompt
   history no longer records consecutive duplicate entries]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f|claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-21 · Claude Code · [[Changes/Claude Code/2026-05-21-prompt-history-no-longer-records-consecutive-duplicate-entries-recalling-a-promp|Prompt history no longer records consecutive duplicate entries]]
-- Later: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-in-fullscreen-mode-the-thinking-for-ns-indicator-now-counts-up-live-while-the-mo|In fullscreen mode, the "Thinking for Ns" indicator now counts up live…]]
+- Later: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-2-interface-experience-changes-in-v0-43-0|2 Interface Experience changes in v0.43.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

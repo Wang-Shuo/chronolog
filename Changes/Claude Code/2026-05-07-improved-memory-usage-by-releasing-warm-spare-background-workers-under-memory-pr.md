@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fd42b4b3f58aeed092163fec18809ada2f0a80cdfae0d98055b47481b897fcf1
+machine_hash: f38ec164ca85ed26dee5e373c6deb764047421650ead496a1761391a272a985d
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     pressure
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-22-2-reliability-and-performance-changes-in-v2-1-117|2
-  Reliability and Performance changes in v2.1.117]]'
-- '[[Changes/Claude Code/2026-04-28-faster-startup-after-upgrading-removed-the-recent-activity-panel-from-the-releas|Faster
-  startup after upgrading]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-01-improve-cli-startup-speed-by-loading-custom-ca-certificates-asynchronously|Improve
+  CLI startup speed by loading custom CA certificates asynchronously]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-05-improve-stability-on-windows-by-working-around-a-v8-crash-in-node-24-x|Improve
+  stability on Windows by working around a V8 crash in Node 24.x]]'
 - '[[Changes/Claude Code/2026-05-06-updated-the-tui-fullscreen-startup-banner-to-describe-additional-renderer-benefi|Updated
   the /tui fullscreen startup banner to describe additional renderer…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-07-v2-1-133-github-319164825-08653677|claude-code-2026-05-07-v2-1-133-github-319164825-08653677]]'
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-updated-the-tui-fullscreen-startup-banner-to-describe-additional-renderer-benefi|Updated the /tui fullscreen startup banner to describe additional renderer…]]
-- Later: 2026-05-07 · Cursor · [[Changes/Cursor/2026-05-07-pin-skills-as-quick-actions|Pin skills as quick actions]]
+- Later: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-2-reliability-and-performance-changes-in-rust-v0-129-0|2 Reliability and Performance changes in rust-v0.129.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

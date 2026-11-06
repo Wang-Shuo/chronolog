@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b7812d09b32e38a0f2a292acc3937eb26281d92c0d986d658455a52e2afd8352
+machine_hash: 9516d0870686537268dd8b01246dc1aeb85f28f5ce116eb79e8e854e3a50af03
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Interface Experience changes in v2.1.78
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-10-added-w-key-in-copy-to-write-the-focused-selection-directly-to-a-file-bypassing|Added
-  w key in /copy to write the focused selection directly to a file…]]'
-- '[[Changes/Claude Code/2026-03-11-2-interface-experience-changes-in-v2-1-73|2 Interface
-  Experience changes in v2.1.73]]'
+- '[[Changes/Codex CLI/2026-03-16-14410-make-collab-model-metadata-accurate-on-completion-aibrahim-oai|♯14410
+  Make collab model metadata accurate on completion @aibrahim-oai]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-16-show-friendlier-error-messages-and-provide-keyboard-shortcut-to-open-event-links|Show
+  friendlier error messages and provide keyboard shortcut to open event links…]]'
 - '[[Changes/Claude Code/2026-03-17-copy-now-accepts-an-optional-index-copy-n-copies-the-nth-latest-assistant-respon|/copy
   now accepts an optional index: /copy N copies the Nth-latest assistant response]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721|claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721]]'
@@ -86,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.78
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-copy-now-accepts-an-optional-index-copy-n-copies-the-nth-latest-assistant-respon|/copy now accepts an optional index: /copy N copies the Nth-latest assistant response]]
-- Later: 2026-03-18 · Claude Code · [[Changes/Claude Code/2026-03-18-added-show-turn-duration-toggle-to-the-config-menu|Added "Show turn duration" toggle to the /config menu]]
+- Later: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-3-interface-experience-changes-in-v0-34-0|3 Interface Experience changes in v0.34.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3156d3f8578fa54b2627cf37e687996824af8e87d6ce9a494fa3d508c5c87e9e
+machine_hash: 875f087a8846bb71bff8ccb502f7b6f83d01a81a4109b0fb85ac021695d5bc38
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Apps and Integrations changes in v2.1.90
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-27-we-re-rolling-out-updated-box-notion-linear-and-dropbox-apps-in-chatgpt-these-up-9f6ee9|Updated
-  Box, Notion, Linear, and Dropbox apps]]'
-- '[[Changes/Claude Code/2026-03-27-reduced-startup-event-loop-stalls-when-many-claude-ai-mcp-connectors-are-configu|Reduced
-  startup event-loop stalls when many claude.ai MCP connectors are configured…]]'
+- '[[Changes/Codex CLI/2026-03-31-12-apps-and-integrations-changes-in-rust-v0-118-0|12
+  Apps and Integrations changes in rust-v0.118.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-31-5-apps-and-integrations-changes-in-v1-0-14|5
+  Apps and Integrations changes in v1.0.14]]'
 - '[[Changes/Claude Code/2026-04-01-3-apps-and-integrations-changes-in-v2-1-89|3 Apps
   and Integrations changes in v2.1.89]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b|claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b]]'
@@ -87,7 +87,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.90
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-3-apps-and-integrations-changes-in-v2-1-89|3 Apps and Integrations changes in v2.1.89]]
-- Later: 2026-04-02 · Claude Code · [[Changes/Claude Code/2026-04-02-4-apps-and-integrations-changes-in-v2-1-91|4 Apps and Integrations changes in v2.1.91]]
+- Later: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-5-apps-and-integrations-changes-in-v0-36-0|5 Apps and Integrations changes in v0.36.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

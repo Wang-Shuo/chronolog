@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cbd6221d4eb2e74f3f93a19ba02ec9ccb5604c459f58b901a126f9aed6e5fe53
+machine_hash: eba8e24b8f05eef77df926af260a8211516029a16212592a1669f000f0783da6
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,12 @@ record:
   title: 2 Agent Mode changes in v2.1.223
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-28-always-on-cloud-agents-that-build-test-and-ship-code-while-you-keep-working-725c7c|Always-on
-  cloud agents that build, test, and ship code while you keep working]]'
-- '[[Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and|A
-  full review surface]]'
-- '[[Changes/Cursor/2026-07-29-inbox|Inbox]]'
+- '[[Changes/OpenHands/2026-07-30-docs-refresh-agents-md-guidance-by-all-hands-bot-in-https-github-com-openhands-o|docs:
+  refresh AGENTS.md guidance]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-03-a-run-whose-prompt-is-piped-over-stdin-now-treats-its-sessionend-hook-the-same-w|A
+  run whose prompt is piped over stdin now treats its sessionEnd hook the same way…]]'
+- '[[Changes/OpenHands/2026-08-03-3-agent-mode-changes-in-v1-9-0|3 Agent Mode changes
+  in v1.9.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d|claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d]]'
 source_type: github_releases
 theme: agent-mode
@@ -85,8 +86,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.223
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-29 · Cursor · [[Changes/Cursor/2026-07-29-inbox|Inbox]]
-- Later: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-removed-the-200-subagent-per-session-spawn-cap-long-running-sessions-no-longer-r|Removed the 200-subagent-per-session spawn cap]]
+- Earlier: 2026-08-03 · OpenHands · [[Changes/OpenHands/2026-08-03-3-agent-mode-changes-in-v1-9-0|3 Agent Mode changes in v1.9.0]]
+- Later: 2026-08-06 · Gemini CLI · [[Changes/Gemini CLI/2026-08-06-feat-pr-generator-agent-implement-antigravity-agent-runner-and-prompt-templates|feat(pr-generator-agent): implement Antigravity agent runner and prompt templates …]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

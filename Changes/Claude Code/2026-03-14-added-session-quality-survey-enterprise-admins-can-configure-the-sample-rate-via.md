@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1c6b03854844008c8642bc3832f493c538cfb34c16452e3ebf6a1ee762eb9957
+machine_hash: 77257660d8dd897599778bdd088b796699e5e2ca7ec16d5344bf47948912f99f
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,11 +42,12 @@ record:
   title: Added session quality survey
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-cursor-blame|Cursor Blame]]'
 - '[[Changes/Cursor/2026-03-03-clearer-more-consistent-team-and-enterprise-policy-and-access-controls|Clearer,
   more consistent team and enterprise policy and access controls]]'
 - '[[Changes/Claude Code/2026-03-05-improved-macos-startup-for-claude-ai-enterprise-team-users-by-skipping-an-unnece|Improved
   macOS startup for Claude.ai enterprise/team users by skipping…]]'
+- '[[Changes/Codex CLI/2026-03-05-13388-config-enforce-enterprise-feature-requirements-bolinfest|♯13388
+  config: enforce enterprise feature requirements @bolinfest]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -83,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-improved-macos-startup-for-claude-ai-enterprise-team-users-by-skipping-an-unnece|Improved macOS startup for Claude.ai enterprise/team users by skipping…]]
+- Earlier: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-13388-config-enforce-enterprise-feature-requirements-bolinfest|♯13388 config: enforce enterprise feature requirements @bolinfest]]
 - Later: 2026-03-17 · ChatGPT · [[Changes/ChatGPT/2026-03-17-we-ve-simplified-the-model-picker-to-make-it-easier-to-choose-the-right-level-of-a3fc77|We’ve simplified the model picker to make it easier to choose the right level of reasoning]]
 <!-- chronolog:end -->
 

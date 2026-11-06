@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eab860458974cabe3d7a30eea82563663a5ed0fbdf0410dbdbaa8de236990ab1
+machine_hash: 64d007f08d363e5a8482a1da0696963149c661953686b89a3ca9174dc2325659
 product: cursor
 product_name: Cursor
 record:
@@ -41,11 +41,12 @@ record:
   title: Advanced context controls only show up if you have indexed your codebase
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-06-06-we-ve-improved-codebase-context|Cursor improves codebase
-  context!]]'
-- '[[Changes/Cursor/2023-06-06-codebase-context-v1-bd6ee5|Codebase Context v1]]'
-- '[[Changes/Cursor/2023-06-06-following-this-you-ll-be-able-to-see-an-improved-version-of-codebase-context-in|Following
-  this, you''ll be able to see an improved version of codebase context…]]'
+- '[[Changes/Aider/2023-06-25-graceful-handling-of-context-window-exhaustion-including-helpful-tips|Graceful
+  handling of context window exhaustion, including helpful tips]]'
+- '[[Changes/Aider/2023-06-26-graceful-handling-of-context-window-exhaustion-including-helpful-tips|Graceful
+  handling of context window exhaustion, including helpful tips]]'
+- '[[Changes/Aider/2023-06-26-graceful-handling-of-context-window-exhaustion-including-helpful-tips-d31722|Graceful
+  handling of context window exhaustion, including helpful tips]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-19-0-2-50-https-cursor-com-changelog-0-2-50-c7175ac0|cursor-2023-07-19-0-2-50-https-cursor-com-changelog-0-2-50-c7175ac0]]'
 source_type: cursor_changelog
 theme: context-window
@@ -72,7 +73,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2023-06-06 · Cursor · [[Changes/Cursor/2023-06-06-following-this-you-ll-be-able-to-see-an-improved-version-of-codebase-context-in|Following this, you'll be able to see an improved version of codebase context…]]
+- Earlier: 2023-06-26 · Aider · [[Changes/Aider/2023-06-26-graceful-handling-of-context-window-exhaustion-including-helpful-tips-d31722|Graceful handling of context window exhaustion, including helpful tips]]
 - Later: 2023-07-19 · Cursor · [[Changes/Cursor/2023-07-19-more-control-of-context-building-abilities-for-codebase-wide-chat|More control of context building abilities for codebase-wide chat]]
 <!-- chronolog:end -->
 

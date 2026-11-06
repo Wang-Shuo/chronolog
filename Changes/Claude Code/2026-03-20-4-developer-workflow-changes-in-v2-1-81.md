@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e9cef6b0277bb5b67e71a3618885d4e1200161a30383329e756db44a9a39d829
+machine_hash: 4c99ade9efc6b7d1616cc3352d4c70d5a4cd4def1ba94946fb00ed80af02e14d
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,12 +50,12 @@ record:
   title: 4 Developer Workflow changes in v2.1.81
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-14-4-developer-workflow-changes-in-v2-1-76|4 Developer
-  Workflow changes in v2.1.76]]'
-- '[[Changes/Claude Code/2026-03-17-background-bash-tasks-are-now-killed-if-output-exceeds-5gb-preventing-runaway-pr|Background
-  bash tasks are now killed if output exceeds 5GB, preventing runaway…]]'
-- '[[Changes/Claude Code/2026-03-17-terminal-notifications-iterm2-kitty-ghostty-popups-progress-bar-now-reach-the-ou|Terminal
-  notifications (iTerm2/Kitty/Ghostty popups, progress bar) now reach…]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-18-scroll-works-correctly-in-macos-terminal-app-and-other-terminals-that-don-t-supp|Scroll
+  works correctly in macOS Terminal.app and other terminals that don''t support…]]'
+- '[[Changes/Codex CLI/2026-03-19-5-developer-workflow-changes-in-rust-v0-116-0|5
+  Developer Workflow changes in rust-v0.116.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-19-2-developer-workflow-changes-in-v1-0-9|2
+  Developer Workflow changes in v1.0.9]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-20-v2-1-81-github-299621655-10d2d4fe|claude-code-2026-03-20-v2-1-81-github-299621655-10d2d4fe]]'
 source_type: github_releases
 theme: developer-workflow
@@ -95,8 +95,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.81
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-terminal-notifications-iterm2-kitty-ghostty-popups-progress-bar-now-reach-the-ou|Terminal notifications (iTerm2/Kitty/Ghostty popups, progress bar) now reach…]]
-- Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-5-developer-workflow-changes-in-v2-1-84|5 Developer Workflow changes in v2.1.84]]
+- Earlier: 2026-03-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-19-2-developer-workflow-changes-in-v1-0-9|2 Developer Workflow changes in v1.0.9]]
+- Later: 2026-03-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-20-2-developer-workflow-changes-in-v1-0-10|2 Developer Workflow changes in v1.0.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -147,7 +147,11 @@ def fetch_github_releases(
         headers["Authorization"] = f"Bearer {token}"
     releases: list[dict[str, Any]] = []
     page = 1
-    per_page = 100 if limit is None else min(limit, 100)
+    page_size = int(product.get("github_page_size", 100))
+    if not 1 <= page_size <= 100:
+        raise ValueError("github_page_size must be between 1 and 100")
+    per_page = page_size if limit is None else min(limit, page_size)
+    tag_pattern = re.compile(product["tag_pattern"]) if product.get("tag_pattern") else None
 
     while True:
         response = httpx.get(
@@ -165,6 +169,12 @@ def fetch_github_releases(
             raise ValueError(f"GitHub response for {product['name']} is not a release list")
 
         for item in items:
+            # Authenticated API calls can include drafts. A product can also scope
+            # its history to stable application tags, excluding SDKs and CI assets.
+            if item.get("draft") or (item.get("prerelease") and not product.get("include_prereleases", True)):
+                continue
+            if tag_pattern and not tag_pattern.fullmatch(item.get("tag_name") or ""):
+                continue
             published = item.get("published_at") or item.get("created_at")
             if not published:
                 raise ValueError(f"GitHub release for {product['name']} is missing a date")
@@ -192,6 +202,49 @@ def fetch_github_releases(
             break
         page += 1
     return releases
+
+
+def parse_windsurf_changelog(product: dict[str, Any], markdown: str,
+                            limit: int | None = None) -> list[dict[str, Any]]:
+    """Read the official stable desktop changelog's version/date blocks.
+
+    The Windsurf endpoint now redirects to Devin Desktop. Its official Markdown
+    export keeps the same version anchors as the reader-facing HTML page.
+    """
+    headings = list(re.finditer(r"^\*\*(v\d+\.\d+\.\d+)\*\*\s*$", markdown, re.M))
+    if not headings:
+        raise ValueError("Windsurf changelog contained no version entries")
+    releases = []
+    for index, heading in enumerate(headings):
+        end = headings[index + 1].start() if index + 1 < len(headings) else len(markdown)
+        block = markdown[heading.end():end].strip()
+        date_line, _, body = block.partition("\n")
+        try:
+            released = datetime.strptime(date_line.strip(), "%B %d, %Y").date().isoformat()
+        except ValueError as exc:
+            raise ValueError(f"Windsurf {heading[1]} is missing a valid publication date") from exc
+        # Download widgets and the hosting footer are not product changes.
+        body = re.split(r"^> \[accordion\] Download\b", body, maxsplit=1, flags=re.M)[0].strip()
+        body = re.sub(r"^This documentation is built and hosted on .*", "", body, flags=re.M).strip()
+        # The export uses bold section labels; give extraction real headings.
+        body = re.sub(r"^\*\*([^\n]+)\*\*$", r"### \1", body, flags=re.M)
+        if not body:
+            raise ValueError(f"Windsurf {heading[1]} has no release notes")
+        releases.append(normalize_release(
+            product, release_date=released, version=heading[1], title=heading[1], body=body,
+            source_url=f"{product['url']}#{heading[1].replace('.', '-')}",
+            source_type="windsurf_changelog", identity=heading[1],
+        ))
+        releases[-1]["source_summary"] = source_summary_for(
+            re.sub(r"^#{1,6}.*$", "", body, flags=re.M), heading[1])
+    releases.sort(key=lambda release: (release["date"], release["release_id"]), reverse=True)
+    return releases if limit is None else releases[:limit]
+
+
+def fetch_windsurf_releases(product: dict[str, Any], limit: int | None) -> list[dict[str, Any]]:
+    response = httpx.get(product["markdown_url"], timeout=30.0, follow_redirects=True)
+    response.raise_for_status()
+    return parse_windsurf_changelog(product, response.text, limit)
 
 
 def fetch_rss_releases(
@@ -702,6 +755,8 @@ def collect_live(
                 product_releases = fetch_rss_releases(product, limit)
             elif product["feed_type"] == "cursor_changelog":
                 product_releases = fetch_cursor_releases(product, limit)
+            elif product["feed_type"] == "windsurf_changelog":
+                product_releases = fetch_windsurf_releases(product, limit)
             elif product["feed_type"] == "chatgpt_changelog":
                 product_releases = fetch_chatgpt_releases(
                     product,
@@ -721,6 +776,8 @@ def collect_live(
             result["url"] = product.get("url") or f"https://api.github.com/repos/{product.get('repo')}/releases"
             result["acquisition"] = "http"
             result["acquired_at"] = result["collected_at"]
+            if product.get("known_gaps"):
+                result["known_gaps"] = product["known_gaps"]
             if product["name"] in snapshots:
                 snapshot = snapshots[product["name"]]
                 result["acquisition"] = "browser-snapshot"

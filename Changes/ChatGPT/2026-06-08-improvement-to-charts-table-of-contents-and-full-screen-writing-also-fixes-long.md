@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ea400bbbcc67c184f00add80e431e30b34437a36667cca313dcb3f606c709c2e
+machine_hash: e6ec762a0b5f98f9c444ff4c96e63df91e518dc6e075278464c5ed8532771638
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,12 +45,12 @@ record:
   title: Improvement to charts, table of contents and full screen writing
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-03-clicking-a-slash-command-in-the-autocomplete-menu-now-fills-it-into-your-prompt|Clicking
-  a slash command in the autocomplete menu now fills it into your prompt…]]'
-- '[[Changes/Claude Code/2026-06-04-2-interface-experience-changes-in-v2-1-163|2 Interface
-  Experience changes in v2.1.163]]'
+- '[[Changes/Codex CLI/2026-06-04-2-interface-experience-changes-in-rust-v0-137-0|2
+  Interface Experience changes in rust-v0.137.0]]'
 - '[[Changes/Cursor/2026-06-04-shared-canvases-can-now-be-opened-full-screen-in-the-browser-making-them-easier|Shared
   canvases can now be opened full-screen in the browser, making them easier…]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-05-6-interface-experience-changes-in-v1-0-60|6
+  Interface Experience changes in v1.0.60]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-shared-canvases-can-now-be-opened-full-screen-in-the-browser-making-them-easier|Shared canvases can now be opened full-screen in the browser, making them easier…]]
+- Earlier: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-6-interface-experience-changes-in-v1-0-60|6 Interface Experience changes in v1.0.60]]
 - Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-2-interface-experience-changes-in-v2-1-169|2 Interface Experience changes in v2.1.169]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 25d2b3d5c519a342937009a96ae1cbead38967cdadf775307838c080520cfd17
+machine_hash: 48a014f9761804a49153a38beb91c099e2f972ae86355e5bdd971d6173a263d1
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,10 @@ record:
   title: 3 Interface Experience changes in v2.1.129
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-28-4-interface-experience-changes-in-v2-1-121|4 Interface
-  Experience changes in v2.1.121]]'
 - '[[Changes/Claude Code/2026-05-04-bare-color-no-args-now-picks-a-random-session-color|Bare
   /color (no args) now picks a random session color]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-05-2-interface-experience-changes-in-v1-0-41|2
+  Interface Experience changes in v1.0.41]]'
 - '[[Changes/Claude Code/2026-05-06-2-interface-experience-changes-in-v2-1-132|2 Interface
   Experience changes in v2.1.132]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f|claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f]]'
@@ -93,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.129
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-2-interface-experience-changes-in-v2-1-132|2 Interface Experience changes in v2.1.132]]
-- Later: 2026-05-07 · Claude Code · [[Changes/Claude Code/2026-05-07-improved-focus-mode-behavior|Improved focus mode behavior]]
+- Later: 2026-05-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-06-2-interface-experience-changes-in-v1-0-43|2 Interface Experience changes in v1.0.43]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

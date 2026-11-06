@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8bb5b281743e3035470c7f68a4ea2d736fe1be5025771970eb187e04d8757658
+machine_hash: 4f515520c04bfe637127f6846a4add4141e4a90f421f3f33fc5ee916ddfa18fc
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,11 @@ record:
     model
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-series-gpt-5-2-is-sm|Today,
-  we’re releasing GPT-5.2, the next upgrade to the GPT-5 series]]'
-- '[[Changes/Cursor/2026-01-08-use-the-new-agent-models-command-list-models-flag-or-models-slash-command-to-lis|Model
-  list and selection]]'
-- '[[Changes/Claude Code/2026-01-09-merged-slash-commands-and-skills-simplifying-the-mental-model-with-no-change-in|Merged
-  slash commands and skills, simplifying the mental model with no change in behavior]]'
+- '[[Changes/Windsurf/2026-01-14-gpt-5-2-codex|GPT-5.2-Codex]]'
+- '[[Changes/Cline/2026-01-15-adding-openai-gpt-5-2-codex-model-to-the-model-picker|Adding
+  OpenAI gpt-5.2-codex model to the model picker]]'
+- '[[Changes/Codex CLI/2026-01-15-2-model-support-changes-in-rust-v0-85-0|2 Model
+  Support changes in rust-v0.85.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-16-v2-1-9-github-277250534-9563859d|claude-code-2026-01-16-v2-1-9-github-277250534-9563859d]]'
 source_type: github_releases
 theme: model-support
@@ -83,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-merged-slash-commands-and-skills-simplifying-the-mental-model-with-no-change-in|Merged slash commands and skills, simplifying the mental model with no change in behavior]]
-- Later: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-models-removed-use-model-to-see-all-models-or-select-a-model|/models removed. Use /model to see all models or select a model]]
+- Earlier: 2026-01-15 · Codex CLI · [[Changes/Codex CLI/2026-01-15-2-model-support-changes-in-rust-v0-85-0|2 Model Support changes in rust-v0.85.0]]
+- Later: 2026-01-16 · Codex CLI · [[Changes/Codex CLI/2026-01-16-9336-rename-model-turn-to-sampling-request-aibrahim-oai|♯9336 rename model turn to sampling request @aibrahim-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

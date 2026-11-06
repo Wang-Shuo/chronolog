@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4561c01595c36a8562401603cb6d4a6737587509ead70e4d7f6cf2e26e06af49
+machine_hash: f4df0404d667be42b0d6e4980f3f148d4642efd4d05e26c7f0d30923b8106543
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Agent Mode changes in v2.1.69
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-28-added-http-hooks-which-can-post-json-to-a-url-and-receive-json-instead-of-runnin|Added
-  HTTP hooks, which can POST JSON to a URL and receive JSON instead of running…]]'
-- '[[Changes/Cursor/2026-03-03-improved-reliability-for-longer-running-agent-sessions|Improved
-  reliability for longer-running agent sessions]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-03-shell-command-output-on-windows-no-longer-renders-as-no-changes-detected-in-the|Shell
+  command output on Windows no longer renders as "No changes detected" in the timeline]]'
+- '[[Changes/Cline/2026-03-04-subagent-stream-retry-delay-increased-to-reduce-noise-from-transient-failures|Subagent
+  stream retry delay increased to reduce noise from transient failures]]'
 - '[[Changes/Cursor/2026-03-04-cursor-is-now-available-in-intellij-idea-pycharm-webstorm-and-other-jetbrains-id-2dc9cd|Cursor
   is now available in IntelliJ IDEA, PyCharm, WebStorm, and other JetBrains…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
@@ -96,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.69
 ## Nearby in Agent Mode
 
 - Earlier: 2026-03-04 · Cursor · [[Changes/Cursor/2026-03-04-cursor-is-now-available-in-intellij-idea-pycharm-webstorm-and-other-jetbrains-id-2dc9cd|Cursor is now available in IntelliJ IDEA, PyCharm, WebStorm, and other JetBrains…]]
-- Later: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-2-agent-mode-changes-in-v2-1-72|2 Agent Mode changes in v2.1.72]]
+- Later: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-13-agent-mode-changes-in-rust-v0-110-0|13 Agent Mode changes in rust-v0.110.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,7 +11,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v1
 impact: incremental
-machine_hash: 0fd3f8d97b71c17b5b7c4bb8fbdc440210b70d2f659dcac0105700267bdec0ea
+machine_hash: 8f2a9085af6bba5dde66079025aaf90bc8b35b3d9be9affb0590c720c88f6817
 product: openhands
 product_name: OpenHands
 related_changes:
@@ -19,6 +19,7 @@ related_changes:
 - '[[Changes/Cursor/2025-03-15-context-window-expanded-to-200k-tokens|cursor-2025-03-15-00a415]]'
 - '[[Changes/Continue/2025-08-08-context-window-handling-improved-for-monorepos|continue-2025-08-08-e0effa]]'
 source_release: '[[Releases/OpenHands/2026-01-10-openhands-2026-01-10-v1-0|openhands-2026-01-10-v1-0]]'
+superseded: true
 theme: context-window
 type: change
 ---

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d382cfd0774bba8d990b1628cdcd98fa810ad2e2a6f5efbd22041ed933ad1f33
+machine_hash: c049696863dd0e6eaa58d9565c77f53933fb1e744a61794ac3baff6c454871db
 product: claude-code
 product_name: Claude Code
 record:
@@ -77,12 +77,12 @@ record:
   title: 10 Apps and Integrations changes in v2.1.274
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-14-you-can-change-your-health-permissions-anytime-in-settings-plugins-health-learn|You
-  can change your Health permissions anytime in Settings → Plugins → Health]]'
-- '[[Changes/Claude Code/2026-09-14-5-apps-and-integrations-changes-in-v2-1-271|5
-  Apps and Integrations changes in v2.1.271]]'
-- '[[Changes/Claude Code/2026-09-15-3-apps-and-integrations-changes-in-v2-1-273|3
-  Apps and Integrations changes in v2.1.273]]'
+- '[[Changes/Gemini CLI/2026-09-15-feat-extensions-harden-path-resolution-and-boundary-validation-in-extension-load|feat(extensions):
+  harden path resolution and boundary validation in extension loader]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-16-20-apps-and-integrations-changes-in-v1-0-85|20
+  Apps and Integrations changes in v1.0.85]]'
+- '[[Changes/OpenHands/2026-09-16-9-apps-and-integrations-changes-in-v1-19-0|9 Apps
+  and Integrations changes in v1.19.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d|claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d]]'
 source_type: github_releases
 theme: apps-integrations
@@ -143,7 +143,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.274
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-3-apps-and-integrations-changes-in-v2-1-273|3 Apps and Integrations changes in v2.1.273]]
+- Earlier: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-9-apps-and-integrations-changes-in-v1-19-0|9 Apps and Integrations changes in v1.19.0]]
 - Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-6-apps-and-integrations-changes-in-v2-1-275|6 Apps and Integrations changes in v2.1.275]]
 <!-- chronolog:end -->
 

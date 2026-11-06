@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 02403efb07b540f31dd51afdb9df73978401c2bc5fe509337716bbd096c83100
+machine_hash: 74b9615e6f47cfc73c202e02fc918c6e3a0dbc9bad1cd227458b44ad2690d747
 product: cursor
 product_name: Cursor
 record:
@@ -90,7 +90,7 @@ Source: https://cursor.com/changelog/2-1
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-sandboxed-terminals-admin-controls|Sandboxed Terminals: Admin Controls]]
-- Later: 2025-12-18 · Cursor · [[Changes/Cursor/2025-12-18-many-of-the-largest-software-companies-in-the-world-have-adopted-cursor-for-ente|Many of the largest software companies in the world have adopted Cursor for Enterprise]]
+- Later: 2025-11-27 · Cline · [[Changes/Cline/2025-11-27-creates-and-refactor-enterprise-docs-by-juanpflores-in-https-github-com-cline-cl|Creates and Refactor Enterprise Docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

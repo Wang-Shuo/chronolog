@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: d58a29428999f2bf472aa434b389ab6a5663336195dd39a5ee25f3ef55698e33
+machine_hash: e05323a1f8b83f66be205b728a5641fb698952192ed8a206bab532a076734bf2
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,8 @@ record:
   title: A live preview, right in the browser
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-25-improved-subagent-results-a-subagent-that-stops-at-its-maxturns-limit-now-return|Improved
-  subagent results]]'
+- '[[Changes/Codex CLI/2026-08-26-14-agent-mode-changes-in-rust-v0-150-0|14 Agent
+  Mode changes in rust-v0.150.0]]'
 - '[[Changes/Claude Code/2026-08-27-3-agent-mode-changes-in-v2-1-248|3 Agent Mode
   changes in v2.1.248]]'
 - '[[Changes/Cursor/2026-08-27-cloud-agents-no-longer-require-a-connected-github-or-other-third-party-scm-provi|Cloud
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-3-agent-mode-changes-in-v2-1-248|3 Agent Mode changes in v2.1.248]]
-- Later: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-4-agent-mode-changes-in-v2-1-251|4 Agent Mode changes in v2.1.251]]
+- Later: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-8-agent-mode-changes-in-v1-0-81|8 Agent Mode changes in v1.0.81]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

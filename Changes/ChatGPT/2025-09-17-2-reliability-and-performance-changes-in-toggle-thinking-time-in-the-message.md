@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aece081f7657837b6e0603663ab552b6a9397ff0163ad549f09856b340059399
+machine_hash: 915f01ff34449f4b48b18912e23461e3eeb68eb9fad734e1aeee1c5b83df7123
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,11 +45,12 @@ record:
   title: 2 Reliability and Performance changes in Toggle thinking time in the message…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-06-1-4-5-improved-performance|1.4.5: Improved performance]]'
-- '[[Changes/Cursor/2025-08-21-1-5-5-general-stability-improvements-and-bug-fixes-to-enhance-overall-applicatio|1.5.5:
-  General stability improvements and bug fixes to enhance overall application…]]'
+- '[[Changes/Codex CLI/2025-09-10-3323-chore-try-switching-to-cargo-nextest-to-speed-up-ci-builds|♯3323
+  chore: try switching to cargo nextest to speed up CI builds]]'
 - '[[Changes/Cursor/2025-09-12-5-reliability-and-performance-changes-in-1-6|5 Reliability
   and Performance changes in 1.6]]'
+- '[[Changes/Windsurf/2025-09-16-various-bug-fixes-and-stability-improvements|Various
+  bug fixes and stability improvements]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c|chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
@@ -84,8 +85,8 @@ Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-5-reliability-and-performance-changes-in-1-6|5 Reliability and Performance changes in 1.6]]
-- Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-8-reliability-and-performance-changes-in-1-7|8 Reliability and Performance changes in 1.7]]
+- Earlier: 2025-09-16 · Windsurf · [[Changes/Windsurf/2025-09-16-various-bug-fixes-and-stability-improvements|Various bug fixes and stability improvements]]
+- Later: 2025-09-24 · Gemini CLI · [[Changes/Gemini CLI/2025-09-24-feat-add-cached-string-width-function-for-performance-optimization-by-jacob314-i|feat: add cached string width function for performance optimization]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

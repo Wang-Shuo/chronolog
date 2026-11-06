@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6392c5bde08c50c8f0c77e4801b00159f53f651aae487352423f2a40fd0e75e4
+machine_hash: 7ace148be4f6814839f53194dc519f00f6839579e834d0f3f07b1df3bf62ecfb
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.50
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-18-mermaid-ascii-diagrams-in-cli-8c4835|Mermaid ASCII
-  diagrams in CLI]]'
-- '[[Changes/Cursor/2026-02-18-3-developer-workflow-changes-in-cli-improvements-and-mermaid-ascii|3
-  Developer Workflow changes in CLI Improvements and Mermaid ASCII…]]'
+- '[[Changes/Gemini CLI/2026-02-18-7-developer-workflow-changes-in-v0-29-0|7 Developer
+  Workflow changes in v0.29.0]]'
 - '[[Changes/ChatGPT/2026-02-19-review-code-in-split-screen-views|Review code in split-screen
   views]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-19-5-developer-workflow-changes-in-v0-0-412|5
+  Developer Workflow changes in v0.0.412]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-20-v2-1-50-github-288920711-09694b82|claude-code-2026-02-20-v2-1-50-github-288920711-09694b82]]'
 source_type: github_releases
 theme: developer-workflow
@@ -87,8 +87,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.50
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-19 · ChatGPT · [[Changes/ChatGPT/2026-02-19-review-code-in-split-screen-views|Review code in split-screen views]]
-- Later: 2026-02-24 · Claude Code · [[Changes/Claude Code/2026-02-24-bashtool-now-skips-login-shell-l-flag-by-default-when-a-shell-snapshot-is-availa|BashTool now skips login shell (-l flag) by default when a shell snapshot…]]
+- Earlier: 2026-02-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-19-5-developer-workflow-changes-in-v0-0-412|5 Developer Workflow changes in v0.0.412]]
+- Later: 2026-02-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-20-increase-lsp-request-timeout-from-30s-to-90s-to-reduce-timeout-failures|Increase LSP request timeout from 30s to 90s to reduce timeout failures]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

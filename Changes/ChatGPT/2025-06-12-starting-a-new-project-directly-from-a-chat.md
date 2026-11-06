@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: eff6ef41221308b3b174947326daf4454cab7823c185cf3814e3e4ed765f05dc
+machine_hash: 11c7bf802b5b9bc8523e123d0ca4f65ba5213fa8509b970eb7aa2e98c26a8b0b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Projects and Workspaces
 
 - Earlier: 2024-10-09 · Cursor · [[Changes/Cursor/2024-10-09-composer-history-lets-you-access-previous-composer-sessions-after-restart-you-ca|Composer history lets you access previous composer sessions after restart]]
-- Later: 2025-09-04 · ChatGPT · [[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21|Branch conversations on web]]
+- Later: 2025-08-20 · Codex CLI · [[Changes/Codex CLI/2025-08-20-2352-https-github-com-openai-codex-pull-2352-tui-skip-identical-consecutive-entr|♯2352((source link) tui: skip identical consecutive…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

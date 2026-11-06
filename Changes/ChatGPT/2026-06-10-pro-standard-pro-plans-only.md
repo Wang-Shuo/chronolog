@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aaacd245a986e175ac17a315f8e03230988610dd9136c53d12c744b6e5c8ae33
+machine_hash: b65560abb9a6d1e0321beb3202fce07b80d84349c3d7ce14dfcac3cdcf8ff7de
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,8 +42,8 @@ record:
   title: Pro Standard [Pro plans only]
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-09-introducing-claude-fable-5-a-mythos-class-model-that-we-ve-made-safe-for-general|Introducing
-  Claude Fable 5: a Mythos-class model that we’ve made safe for general use]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-09-3-model-support-changes-in-v1-0-61|3 Model
+  Support changes in v1.0.61]]'
 - '[[Changes/ChatGPT/2026-06-10-pro-extended-pro-plans-only|Pro Extended Pro plans
   only]]'
 - '[[Changes/ChatGPT/2026-06-10-extra-high-pro-plans-only|Extra High Pro plans only]]'
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-09 · Claude Code · [[Changes/Claude Code/2026-06-09-introducing-claude-fable-5-a-mythos-class-model-that-we-ve-made-safe-for-general|Introducing Claude Fable 5: a Mythos-class model that we’ve made safe for general use]]
+- Earlier: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-3-model-support-changes-in-v1-0-61|3 Model Support changes in v1.0.61]]
 - Later: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-2-model-support-changes-in-v2-1-172|2 Model Support changes in v2.1.172]]
 <!-- chronolog:end -->
 

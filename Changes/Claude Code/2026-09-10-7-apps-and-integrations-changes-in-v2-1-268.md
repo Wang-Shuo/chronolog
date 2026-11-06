@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a3a10f70c034aad50ad98b928b8d84ff3f77e1061e641a6438af71957709d390
+machine_hash: 818e87a886ec74985dd0cf9613a2136fa0103f2eaf42bfd407423e913b148ecc
 product: claude-code
 product_name: Claude Code
 record:
@@ -63,10 +63,10 @@ record:
   title: 7 Apps and Integrations changes in v2.1.268
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-08-4-apps-and-integrations-changes-in-v2-1-265|4
-  Apps and Integrations changes in v2.1.265]]'
-- '[[Changes/Claude Code/2026-09-09-claude-tag-added-a-use-a-custom-connector-link-to-the-preset-connection-forms-in|Claude
-  Tag Added a "Use a custom connector" link to the preset connection forms…]]'
+- '[[Changes/Codex CLI/2026-09-09-19-apps-and-integrations-changes-in-rust-v0-154-0|19
+  Apps and Integrations changes in rust-v0.154.0]]'
+- '[[Changes/OpenHands/2026-09-09-docs-remove-duplicate-openhands-extensions-bullet-in-development-md-by-imitater|docs:
+  remove duplicate OpenHands/extensions bullet in DEVELOPMENT.md]]'
 - '[[Changes/ChatGPT/2026-09-10-the-data-plugin-helps-you-analyze-connected-business-data-in-chatgpt-work-and-co|Data
   plugin in ChatGPT Work and Codex]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848|claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848]]'

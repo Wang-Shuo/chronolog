@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2b9ef9bcc985daa86ab76c75cfed3a9dedb48f549426c753ae4d4eb48a6bef65
+machine_hash: 10cdf44b196e888928c0c3894c58cd69d8a2efa270c3189249c07dda2e40bdce
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,12 +57,12 @@ record:
   title: The thinking-time toggle is live today on chatgpt.com
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved
-  table-copying functionality out of ChatGPT responses on iOS and macOS]]'
-- '[[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|Record
-  mode is now available to ChatGPT Plus users globally in the macOS desktop app]]'
-- '[[Changes/ChatGPT/2025-08-22-this-feature-will-initially-only-be-available-on-the-chatgpt-website-and-windows|This
-  feature will initially only be available on the ChatGPT website and Windows app]]'
+- '[[Changes/Codex CLI/2025-09-03-2-mobile-and-desktop-changes-in-rust-v0-29-0|2 Mobile
+  and Desktop changes in rust-v0.29.0]]'
+- '[[Changes/Codex CLI/2025-09-08-3211-fixes-image-pasting-from-finder-with-ctrl-v-on-macos|♯3211
+  fixes image pasting from Finder with ctrl+v on macOS]]'
+- '[[Changes/Cline/2025-09-11-deep-planning-improvements-optimized-prompts-for-windows-powershell-environments|Deep
+  Planning Improvements]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c|chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -93,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-08-22 · ChatGPT · [[Changes/ChatGPT/2025-08-22-this-feature-will-initially-only-be-available-on-the-chatgpt-website-and-windows|This feature will initially only be available on the ChatGPT website and Windows app]]
-- Later: 2025-10-23 · ChatGPT · [[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-3f946e|Starting today, project sharing is available to all ChatGPT users, including…]]
+- Earlier: 2025-09-11 · Cline · [[Changes/Cline/2025-09-11-deep-planning-improvements-optimized-prompts-for-windows-powershell-environments|Deep Planning Improvements]]
+- Later: 2025-10-01 · Cline · [[Changes/Cline/2025-10-01-2-mobile-and-desktop-changes-in-v3-32-6|2 Mobile and Desktop changes in v3.32.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

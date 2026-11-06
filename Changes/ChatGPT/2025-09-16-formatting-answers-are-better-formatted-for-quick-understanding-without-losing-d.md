@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 85a9847cb2a5d8128062ac7a4e4fedea34156b16af6d7b476cdebd6c07341653
+machine_hash: 7abc089168bb2d11e6abab581006a49ce49075aeb79372864cf622c161eadad4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,11 +45,12 @@ record:
     losing…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-04-new-settings-and-dashboard|New Settings and Dashboard]]'
-- '[[Changes/Cursor/2025-07-03-chat-rendering-bugs-resolved-toolcall-display-overflow-issues|Chat
-  rendering bugs resolved (toolcall display, overflow issues)]]'
+- '[[Changes/Cline/2025-09-11-2-interface-experience-changes-in-v3-28-0|2 Interface
+  Experience changes in v3.28.0]]'
 - '[[Changes/Cursor/2025-09-12-1-6-27-native-menu-notification-badge|1.6.27: Native
   menu notification badge]]'
+- '[[Changes/Codex CLI/2025-09-15-5-interface-experience-changes-in-rust-v0-36-0|5
+  Interface Experience changes in rust-v0.36.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690|chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -80,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-1-6-27-native-menu-notification-badge|1.6.27: Native menu notification badge]]
-- Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-1-7-45-model-picker-ux|1.7.45: Model picker UX]]
+- Earlier: 2025-09-15 · Codex CLI · [[Changes/Codex CLI/2025-09-15-5-interface-experience-changes-in-rust-v0-36-0|5 Interface Experience changes in rust-v0.36.0]]
+- Later: 2025-09-16 · Windsurf · [[Changes/Windsurf/2025-09-16-made-improvements-to-the-sign-up-onboarding-flow|Made improvements to the sign up onboarding flow]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

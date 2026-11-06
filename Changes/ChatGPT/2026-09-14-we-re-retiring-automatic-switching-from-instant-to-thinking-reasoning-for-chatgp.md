@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 0a5e3269ee21028b50546296a9cdfdde4314794cacc0b6a86da12c4c7a2d3093
+machine_hash: 5067815905bf9af72832f7519081ff725a49e350b3a01b88aa925202d611069b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -69,8 +69,8 @@ record:
   title: Changes to automatic switching to thinking in ChatGPT (Plus and Pro)
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-09-added-maxeffortlevel-setting-top-level-or-per-model-under-modelsettings-caps-the|Added
-  maxEffortLevel setting (top-level or per model under modelSettings)]]'
+- '[[Changes/OpenHands/2026-09-09-feat-enable-llm-provider-connections-on-cloud-by-juanmichelini-in-https-github-c|feat:
+  enable LLM provider connections on cloud]]'
 - '[[Changes/Claude Code/2026-09-10-2-model-support-changes-in-v2-1-268|2 Model Support
   changes in v2.1.268]]'
 - '[[Changes/Claude Code/2026-09-11-added-claude-code-gateway-model-discovery-timeout-ms-to-extend-the-llm-gateway-v|Added

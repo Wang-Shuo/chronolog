@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 84d77a6d07281ff3f0abcb4d4d645c4f7a858fc7e04e1521bc1b34e1e5e55937
+machine_hash: 5336dc30b876830d1746f5418cc05dc0c599c964ee6164e8fe3604a3d17ee6cf
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Editor Experience changes in v2.1.316
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-26-vscode-changed-the-session-list-side-bar-to-load-web-sessions-when-the-web-tab-i|VSCode
-  Changed the session list side bar to load Web sessions when the Web tab…]]'
-- '[[Changes/Claude Code/2026-10-27-cloud-sessions-added-a-bash-editor-with-colors-line-numbers-and-a-copy-button-to|Cloud
-  sessions Added a Bash editor with colors, line numbers and a Copy button…]]'
+- '[[Changes/Windsurf/2026-10-28-in-devin-local-some-tool-requests-such-as-web-fetches-and-multi-file-edits-now-c|In
+  Devin Local, some tool requests, such as web fetches and multi-file edits, now…]]'
+- '[[Changes/Codex CLI/2026-10-29-3-editor-experience-changes-in-rust-v0-166-0|3 Editor
+  Experience changes in rust-v0.166.0]]'
 - '[[Changes/Claude Code/2026-10-30-2-editor-experience-changes-in-v2-1-314|2 Editor
   Experience changes in v2.1.314]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9|claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9]]'
@@ -92,6 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.316
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-2-editor-experience-changes-in-v2-1-314|2 Editor Experience changes in v2.1.314]]
+- Later: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-feat-files-add-a-download-button-to-the-files-tab-ohe-3834-by-hieptl-in-https-gi|feat(files): add a Download button to the Files tab (OHE-3834)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bf00a15702ed3b0943d97fdaf4358ec9eb5a2c160589f32ff77ff03dcd0eebf5
+machine_hash: 97b95d987befc77c901aa0c28b0f63dac9cd6d3d30bf83db6b9fa9c142df0b84
 product: cursor
 product_name: Cursor
 record:
@@ -61,12 +61,12 @@ record:
   title: We've also trained a new Cursor Tab model that's smarter and more context-aware
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-04-01-long-context-chat-beta-this-is-a-new-experimental-feature-that-lets-you-talk-wit|Long
-  Context Chat (Beta)]]'
-- '[[Changes/Cursor/2024-04-12-cursorrules-you-can-write-down-repo-level-rules-for-the-ai-by-creating-a-cursorr|.cursorrules:
-  You can write down repo-level rules for the AI by creating…]]'
-- '[[Changes/Cursor/2024-06-08-adds-context-pills-to-chat-messages-so-you-can-see-what-will-be-was-used-a324a3|Adds
-  context pills to chat messages, so you can see what will be/was used]]'
+- '[[Changes/Cline/2024-07-30-export-tasks-to-markdown-files-useful-as-context-for-future-tasks|Export
+  tasks to markdown files (useful as context for future tasks)]]'
+- '[[Changes/Aider/2024-08-10-add-read-only-files-to-the-chat-context-with-read-and-read-including-from-outsid|Add
+  read-only files to the chat context with /read and --read, including…]]'
+- '[[Changes/Aider/2024-08-13-bug-fix-for-chat-history-size-in-tokens|Bug fix for
+  chat history size in /tokens]]'
 source_release: '[[Releases/Cursor/cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42|cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42]]'
 source_type: cursor_changelog
 theme: context-window
@@ -98,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-06-08 · Cursor · [[Changes/Cursor/2024-06-08-adds-context-pills-to-chat-messages-so-you-can-see-what-will-be-was-used-a324a3|Adds context pills to chat messages, so you can see what will be/was used]]
-- Later: 2024-10-09 · Cursor · [[Changes/Cursor/2024-10-09-composer-now-only-applies-files-that-are-in-context-to-prevent-hallucinations|Composer now only applies files that are in context to prevent hallucinations]]
+- Earlier: 2024-08-13 · Aider · [[Changes/Aider/2024-08-13-bug-fix-for-chat-history-size-in-tokens|Bug fix for chat history size in /tokens]]
+- Later: 2024-08-26 · Cline · [[Changes/Cline/2024-08-26-implement-sliding-window-context-management-to-keep-tasks-going-past-200k-tokens|Implement sliding window context management to keep tasks going past 200k tokens]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

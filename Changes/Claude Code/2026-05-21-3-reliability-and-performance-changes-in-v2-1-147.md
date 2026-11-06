@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fa3adf0262e332f01e589c621b4110394a910dcbda8ecedaabee1ed9f95f2566
+machine_hash: 8bcc28053bbd36aa84fd9919423311e159ddf35c8f988b3637ccd52fb7a8af60
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,10 @@ record:
   title: 3 Reliability and Performance changes in v2.1.147
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-11-added-scroll-speed-command-to-tune-mouse-wheel-scroll-speed-with-a-live-preview|Added
-  /scroll-speed command to tune mouse wheel scroll speed with a live preview]]'
-- '[[Changes/Cursor/2026-05-11-default-bugbot-continues-to-use-the-same-effort-level-as-it-does-today-optimized|Default:
-  Bugbot continues to use the same effort level as it does today]]'
+- '[[Changes/Cline/2026-05-13-improve-mention-file-search-performance|Improve @-mention
+  file search performance]]'
+- '[[Changes/Codex CLI/2026-05-20-windows-installs-are-more-robust-codex-doctor-now-detects-npm-managed-installs-c|Windows
+  installs are more robust]]'
 - '[[Changes/Claude Code/2026-05-21-2-reliability-and-performance-changes-in-v2-1-146|2
   Reliability and Performance changes in v2.1.146]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd|claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd]]'
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.147
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-05-21 · Claude Code · [[Changes/Claude Code/2026-05-21-2-reliability-and-performance-changes-in-v2-1-146|2 Reliability and Performance changes in v2.1.146]]
-- Later: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-the-usage-breakdown-now-includes-large-session-files-files-are-scanned-with-a-st|The /usage breakdown now includes large session files]]
+- Later: 2026-05-21 · Codex CLI · [[Changes/Codex CLI/2026-05-21-23578-fix-app-server-speed-up-shutdown-fcoury-oai|♯23578 fix(app-server): speed up shutdown @fcoury-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

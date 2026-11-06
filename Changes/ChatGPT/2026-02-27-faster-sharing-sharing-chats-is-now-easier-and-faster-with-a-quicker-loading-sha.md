@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 367dbcaac51cb7a36206e752eaf268a1a0f68485419dbd9ee7a4625ab49e2a95
+machine_hash: 571b4a1c6c79ae11da71adfedde5ed7c45fc885895d0dc69aaa8f82d985d58ca
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -59,12 +59,12 @@ record:
     share menu
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-19-2-reliability-and-performance-changes-in-v2-1-49|2
-  Reliability and Performance changes in v2.1.49]]'
-- '[[Changes/Claude Code/2026-02-20-3-reliability-and-performance-changes-in-v2-1-50|3
-  Reliability and Performance changes in v2.1.50]]'
+- '[[Changes/Gemini CLI/2026-02-25-2-reliability-and-performance-changes-in-v0-30-0|2
+  Reliability and Performance changes in v0.30.0]]'
 - '[[Changes/Claude Code/2026-02-26-improved-memory-usage-in-multi-agent-sessions-by-releasing-completed-subagent-ta|Improved
   memory usage in multi-agent sessions by releasing completed subagent task state]]'
+- '[[Changes/Codex CLI/2026-02-26-2-reliability-and-performance-changes-in-rust-v0-106-0|2
+  Reliability and Performance changes in rust-v0.106.0]]'
 scope: Web
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c]]'
 source_type: chatgpt_changelog
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-02-26 · Claude Code · [[Changes/Claude Code/2026-02-26-improved-memory-usage-in-multi-agent-sessions-by-releasing-completed-subagent-ta|Improved memory usage in multi-agent sessions by releasing completed subagent task state]]
+- Earlier: 2026-02-26 · Codex CLI · [[Changes/Codex CLI/2026-02-26-2-reliability-and-performance-changes-in-rust-v0-106-0|2 Reliability and Performance changes in rust-v0.106.0]]
 - Later: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-improved-memory-usage-in-long-sessions-with-subagents-by-stripping-heavy-progres|Improved memory usage in long sessions with subagents by stripping heavy progress…]]
 <!-- chronolog:end -->
 

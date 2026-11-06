@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a9321b878b2b34ae283b78e89d543661ed0fb88da1f963411580661968688553
+machine_hash: 2c51e2627711c92bb71d07958189e2a44b4954a46ac6c4cb5dc4e5e05816481f
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Apps and Integrations changes in v2.1.312
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-22-2-apps-and-integrations-changes-in-v2-1-309|2
-  Apps and Integrations changes in v2.1.309]]'
-- '[[Changes/Claude Code/2026-10-23-2-apps-and-integrations-changes-in-v2-1-310|2
-  Apps and Integrations changes in v2.1.310]]'
+- '[[Changes/OpenHands/2026-10-23-2-apps-and-integrations-changes-in-v1-32-0|2 Apps
+  and Integrations changes in v1.32.0]]'
+- '[[Changes/Windsurf/2026-10-23-5-apps-and-integrations-changes-in-v3-11-212|5 Apps
+  and Integrations changes in v3.11.212]]'
 - '[[Changes/Claude Code/2026-10-26-3-apps-and-integrations-changes-in-v2-1-311|3
   Apps and Integrations changes in v2.1.311]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-27-v2-1-312-github-425846009-439d063a|claude-code-2026-10-27-v2-1-312-github-425846009-439d063a]]'
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.312
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-3-apps-and-integrations-changes-in-v2-1-311|3 Apps and Integrations changes in v2.1.311]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-3-apps-and-integrations-changes-in-v2-1-314|3 Apps and Integrations changes in v2.1.314]]
+- Later: 2026-10-27 · Codex CLI · [[Changes/Codex CLI/2026-10-27-10-apps-and-integrations-changes-in-rust-v0-165-0|10 Apps and Integrations changes in rust-v0.165.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

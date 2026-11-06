@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: d7082a28e0e1434bd0d7976f34a1933f3f76375bb6171c47bed3e6a7ae81e866
+machine_hash: 37095bb7a05fec5768677df8150b0e3dc7afe82d64d907e5d8db5507b473f5ce
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,12 +46,12 @@ record:
     improve…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-16-factuality-fewer-hallucinations-improving-answer-quality|Factuality:
-  Fewer hallucinations, improving answer quality]]'
-- '[[Changes/ChatGPT/2025-09-17-5-model-support-changes-in-toggle-thinking-time-in-the-message|5
-  Model Support changes in Toggle thinking time in the message…]]'
-- '[[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|Voice
-  Updates]]'
+- '[[Changes/OpenHands/2025-09-25-set-claude-sonnet-output-token-limit|Set Claude
+  Sonnet output token limit]]'
+- '[[Changes/Codex CLI/2025-09-26-4195-send-text-parameter-for-non-gpt-5-models-4195|♯4195
+  Send text parameter for non-gpt-5 models (♯4195)]]'
+- '[[Changes/Cline/2025-09-28-2-model-support-changes-in-v3-32-1|2 Model Support changes
+  in v3.32.1]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|chatgpt-2025-09-29-parental-controls-8b95b69a]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-09-18 · ChatGPT · [[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|Voice Updates]]
-- Later: 2025-10-03 · ChatGPT · [[Changes/ChatGPT/2025-10-03-we-re-updating-gpt-5-instant-to-better-recognize-and-support-people-in-moments-o-ea32fc|Updating GPT-5]]
+- Earlier: 2025-09-28 · Cline · [[Changes/Cline/2025-09-28-2-model-support-changes-in-v3-32-1|2 Model Support changes in v3.32.1]]
+- Later: 2025-09-29 · Cline · [[Changes/Cline/2025-09-29-add-claude-sonnet-4-5-by-saoudrizwan-in-https-github-com-cline-cline-pull-6544|Add Claude Sonnet 4.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

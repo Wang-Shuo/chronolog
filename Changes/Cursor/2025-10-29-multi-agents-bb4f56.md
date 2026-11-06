@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: fc7d51376e6cf639e0ee1527fe911082d7e8f55de761ed3f4f219fa814f68fd5
+machine_hash: 954a9531b192d597b2d7240712837b1aa4976f145b18c0d4f3de1c69bb0bb6a7
 product: cursor
 product_name: Cursor
 record:
@@ -101,8 +101,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-image-file-support-for-agent|Image file support for Agent]]
-- Later: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-instant-grep-beta|Instant Grep (Beta)]]
+- Earlier: 2025-10-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-28-2-agent-mode-changes-in-v0-0-353|2 Agent Mode changes in v0.0.353]]
+- Later: 2025-10-29 · Gemini CLI · [[Changes/Gemini CLI/2025-10-29-chore-subagents-remove-legacy-subagent-code-by-abhipatel12-in-https-github-com-g|chore(subagents): Remove legacy subagent code]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

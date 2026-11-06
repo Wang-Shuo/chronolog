@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: ae398e3650ddb36918d800f8e6c93f176676b0522cf535ce289e0d137ac09189
+machine_hash: 9208cd632479bdc5da251fc5bb088dfb4024107b41328679fe03fa9769bc3b46
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: Fixed `--permission-mode` flag being ignored when resuming a plan-mode session…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-01-3-safety-and-privacy-changes-in-v2-1-126|3 Safety
-  and Privacy changes in v2.1.126]]'
-- '[[Changes/Cursor/2026-05-01-default-off-users-can-discover-and-opt-in|Default Off:
-  users can discover and opt in]]'
 - '[[Changes/Claude Code/2026-05-04-sdk-hosts-now-receive-a-persistent-localsettings-suggestion-for-bash-permission|SDK
   hosts now receive a persistent localSettings suggestion for Bash permission…]]'
+- '[[Changes/Gemini CLI/2026-05-05-feat-cli-secure-env-loading-and-enforce-workspace-trust-in-headless-mode-by-ehed|feat(cli):
+  secure .env loading and enforce workspace trust in headless mode]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-05-memory-tool-confirmation-prompt-now-shows-the-scope-repository-or-user-when-requ|Memory
+  tool confirmation prompt now shows the scope (repository or user)…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664|claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664]]'
 source_type: github_releases
 theme: safety-privacy
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-04 · Claude Code · [[Changes/Claude Code/2026-05-04-sdk-hosts-now-receive-a-persistent-localsettings-suggestion-for-bash-permission|SDK hosts now receive a persistent localSettings suggestion for Bash permission…]]
+- Earlier: 2026-05-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-05-memory-tool-confirmation-prompt-now-shows-the-scope-repository-or-user-when-requ|Memory tool confirmation prompt now shows the scope (repository or user)…]]
 - Later: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-fixed-session-title-chip-from-rename-disappearing-while-a-permission-or-other-di|Fixed session title chip from /rename disappearing while a permission or other…]]
 <!-- chronolog:end -->
 

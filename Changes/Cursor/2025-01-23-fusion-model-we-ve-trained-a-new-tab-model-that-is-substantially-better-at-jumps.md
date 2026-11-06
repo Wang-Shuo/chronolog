@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a6e28d9f8cf81072c3e8d5cc573d6f2967bb01b48e8e2dda141562fe4f8f3ceb
+machine_hash: 355fa1509de313ae5cd90ad943318904d395fce0bf9080a4c60bcccc720eadd9
 product: cursor
 product_name: Cursor
 record:
@@ -62,12 +62,12 @@ record:
     at jumps…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-08-22-we-ve-also-trained-a-new-cursor-tab-model-that-s-smarter-and-more-context-aware-56db10|We''ve
-  also trained a new Cursor Tab model that''s smarter and more context-aware]]'
-- '[[Changes/Cursor/2024-10-09-composer-now-only-applies-files-that-are-in-context-to-prevent-hallucinations|Composer
-  now only applies files that are in context to prevent hallucinations]]'
-- '[[Changes/Cursor/2024-11-24-early-version-of-an-agent-in-composer-that-can-pick-its-own-context-and-use-the-1228de|Early
-  version of an agent in composer that can pick its own context and use the terminal]]'
+- '[[Changes/Aider/2024-12-13-copy-context-instructions-now-takes-optional-instructions-when-copying-code-cont|/copy-context
+  instructions now takes optional "instructions" when copying code…]]'
+- '[[Changes/Cline/2024-12-18-you-can-now-specify-custom-instructions-for-your-project-by-adding-a-root-level|Specify
+  custom instructions for your project by adding a root-level .clinerules file]]'
+- '[[Changes/Aider/2025-01-10-increased-max-chat-history-tokens-limit-from-4k-to-8k|Increased
+  max chat history tokens limit from 4k to 8k]]'
 source_release: '[[Releases/Cursor/cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228|cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228]]'
 source_type: cursor_changelog
 theme: context-window
@@ -104,8 +104,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-11-24 · Cursor · [[Changes/Cursor/2024-11-24-early-version-of-an-agent-in-composer-that-can-pick-its-own-context-and-use-the-1228de|Early version of an agent in composer that can pick its own context and use the terminal]]
-- Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-ui-refresh-phase-one-of-a-fresh-coat-of-paint-with-new-default-cursor-themes-des|UI refresh: Phase one of a fresh coat of paint with new default Cursor themes…]]
+- Earlier: 2025-01-10 · Aider · [[Changes/Aider/2025-01-10-increased-max-chat-history-tokens-limit-from-4k-to-8k|Increased max chat history tokens limit from 4k to 8k]]
+- Later: 2025-01-30 · Cline · [[Changes/Cline/2025-01-30-new-context-window-progress-bar-in-the-task-header-to-understand-increased-cost|New Context Window progress bar in the task header to understand increased…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

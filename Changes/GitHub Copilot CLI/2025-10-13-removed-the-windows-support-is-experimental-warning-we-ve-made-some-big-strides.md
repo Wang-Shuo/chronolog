@@ -1,0 +1,101 @@
+---
+card_id: github-copilot-cli-2025-10-13-796e86
+date: '2025-10-13'
+description: 'GitHub Copilot CLI · 2025-10-13 · Mobile and Desktop: Removed the "Windows
+  support is experimental" warning -- we''ve made some big strides in improving Windows…'
+diffusion:
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 944
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: mobile-desktop
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: significant
+kind: change
+machine_hash: 8606a397174d9ba188f2e23f74205f92089afe683b67906f46cfc5d774baa4b2
+product: github-copilot-cli
+product_name: GitHub Copilot CLI
+record:
+  ai_generated: true
+  card_id: github-copilot-cli-2025-10-13-796e86
+  comparison: ''
+  confidence: low
+  date: '2025-10-13'
+  description: 'GitHub Copilot CLI — 0.0.340: Removed the "Windows support is experimental"
+    warning -- we''ve made some big strides in improving Windows support the last
+    two weeks! Please continue to report any issues/feedback'
+  evidence:
+  - quote: Removed the "Windows support is experimental" warning -- we've made some
+      big strides in improving Windows support the last two weeks! Please continue
+      to report any issues/feedback
+    source_release: https://github.com/github/copilot-cli/releases/tag/v0.0.340
+  extractor_version: fallback-v5
+  impact: significant
+  kind: change
+  product: github-copilot-cli
+  product_name: GitHub Copilot CLI
+  slug: removed-the-windows-support-is-experimental-warning-we-ve-made-some-big-strides
+  source_release: github-copilot-cli-2025-10-13-v0-0-340-github-254190325-efc0f949
+  source_type: github_releases
+  theme: mobile-desktop
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: Removed the "Windows support is experimental" warning -- we've made some
+    big strides…
+  type: change
+related_changes:
+- '[[Changes/Cline/2025-10-01-2-mobile-and-desktop-changes-in-v3-32-6|2 Mobile and
+  Desktop changes in v3.32.6]]'
+- '[[Changes/Codex CLI/2025-10-03-experimental-reduce-repetitive-approval-for-read-only-commands-on-windows-4269|(experimental)
+  Reduce repetitive approval for read-only commands on Windows (♯4269)]]'
+- '[[Changes/GitHub Copilot CLI/2025-10-07-improved-file-write-performances-especially-on-windows-by-not-relying-on-the-she|Improved
+  file write performances (especially on Windows) by not relying on the shell…]]'
+source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-13-v0-0-340-github-254190325-efc0f949|github-copilot-cli-2025-10-13-v0-0-340-github-254190325-efc0f949]]'
+source_type: github_releases
+theme: mobile-desktop
+title: Removed the "Windows support is experimental" warning -- we've made some big
+  strides…
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Removed the "Windows support is experimental" warning -- we've made some big strides…
+
+**GitHub Copilot CLI** · 2025-10-13 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://github.com/github/copilot-cli/releases/tag/v0.0.340) · from [[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-13-v0-0-340-github-254190325-efc0f949|0.0.340]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Removed the "Windows support is experimental" warning -- we've made some big strides in improving Windows support the last two weeks! Please continue to report any issues/feedback
+>
+> Source: https://github.com/github/copilot-cli/releases/tag/v0.0.340
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/GitHub Copilot CLI/2025-10-13-2-editor-experience-changes-in-v0-0-340|2 Editor Experience changes in v0.0.340]] · Editor Experience
+- [[Changes/GitHub Copilot CLI/2025-10-13-3-apps-and-integrations-changes-in-v0-0-340|3 Apps and Integrations changes in v0.0.340]] · Apps and Integrations
+- [[Changes/GitHub Copilot CLI/2025-10-13-2-other-changes-in-v0-0-340|2 other changes in v0.0.340]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2025-10-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-07-improved-file-write-performances-especially-on-windows-by-not-relying-on-the-she|Improved file write performances (especially on Windows) by not relying on the shell…]]
+- Later: 2025-10-17 · Codex CLI · [[Changes/Codex CLI/2025-10-17-3-mobile-and-desktop-changes-in-rust-v0-47-0|3 Mobile and Desktop changes in rust-v0.47.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20github-copilot-cli-2025-10-13-796e86&body=Card%3A%20Changes%2FGitHub%20Copilot%20CLI%2F2025-10-13-removed-the-windows-support-is-experimental-warning-we-ve-made-some-big-strides.md%0ACard%20ID%3A%20github-copilot-cli-2025-10-13-796e86%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fgithub%2Fcopilot-cli%2Freleases%2Ftag%2Fv0.0.340%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

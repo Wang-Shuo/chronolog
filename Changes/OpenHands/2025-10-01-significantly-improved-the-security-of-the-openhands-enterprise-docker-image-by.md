@@ -1,0 +1,95 @@
+---
+card_id: openhands-2025-10-01-c0aac1
+date: '2025-10-01'
+description: 'OpenHands · 2025-10-01 · Safety and Privacy: Significantly improved
+  the security of the OpenHands enterprise Docker image by fixing multiple critical
+  and…'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
+    mode for opting out of storing any kind of data on our servers]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 899
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: safety-privacy
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: f4656c5f51f64f9ada6518b9c8ca58449d8d0090011f06ae7af632f1bcb052e4
+product: openhands
+product_name: OpenHands
+record:
+  card_id: openhands-2025-10-01-c0aac1
+  comparison: ''
+  date: '2025-10-01'
+  description: 'OpenHands — 0.58.0 - 2025-10-01: Significantly improved the security
+    of the OpenHands enterprise Docker image by fixing multiple critical and high-severity
+    security vulnerabilities (CVEs)'
+  evidence:
+  - quote: Significantly improved the security of the OpenHands enterprise Docker
+      image by fixing multiple critical and high-severity security vulnerabilities
+      (CVEs)
+    source_release: https://github.com/OpenHands/OpenHands/releases/tag/0.58.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: openhands
+  product_name: OpenHands
+  slug: significantly-improved-the-security-of-the-openhands-enterprise-docker-image-by
+  source_release: openhands-2025-10-01-0-58-0-github-251502981-7f6d8b33
+  source_type: github_releases
+  theme: safety-privacy
+  title: Significantly improved the security of the OpenHands enterprise Docker image…
+  type: change
+related_changes:
+- '[[Changes/Cursor/2025-09-29-sandboxed-terminals|Sandboxed terminals]]'
+- '[[Changes/Gemini CLI/2025-10-01-4-safety-and-privacy-changes-in-v0-7-0|4 Safety
+  and Privacy changes in v0.7.0]]'
+- '[[Changes/GitHub Copilot CLI/2025-10-01-improved-how-we-extract-paths-from-shell-commands-for-permission-handling-might|Improved
+  how we extract paths from shell commands for permission handling…]]'
+source_release: '[[Releases/OpenHands/openhands-2025-10-01-0-58-0-github-251502981-7f6d8b33|openhands-2025-10-01-0-58-0-github-251502981-7f6d8b33]]'
+source_type: github_releases
+theme: safety-privacy
+title: Significantly improved the security of the OpenHands enterprise Docker image…
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Significantly improved the security of the OpenHands enterprise Docker image…
+
+**OpenHands** · 2025-10-01 · [[Themes/safety-privacy|Safety and Privacy]] · [Official source](https://github.com/OpenHands/OpenHands/releases/tag/0.58.0) · from [[Releases/OpenHands/openhands-2025-10-01-0-58-0-github-251502981-7f6d8b33|0.58.0 - 2025-10-01]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Significantly improved the security of the OpenHands enterprise Docker image by fixing multiple critical and high-severity security vulnerabilities (CVEs)
+>
+> Source: https://github.com/OpenHands/OpenHands/releases/tag/0.58.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/OpenHands/2025-10-01-converted-settings-to-vertical-sidebar-layout|Converted settings to vertical sidebar layout]] · Interface Experience
+- [[Changes/OpenHands/2025-10-01-added-claude-sonnet-4-5-model-support|Added claude-sonnet-4-5 model support]] · Model Support
+- [[Changes/OpenHands/2025-10-01-added-configurable-timeout-settings-for-shttp-mcp-servers-to-prevent-tool-calls|Added configurable timeout settings for SHTTP MCP servers to prevent tool calls…]] · Apps and Integrations
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Safety and Privacy
+
+- Earlier: 2025-10-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-01-improved-how-we-extract-paths-from-shell-commands-for-permission-handling-might|Improved how we extract paths from shell commands for permission handling…]]
+- Later: 2025-10-03 · Codex CLI · [[Changes/Codex CLI/2025-10-03-3-safety-and-privacy-changes-in-rust-v0-44-0|3 Safety and Privacy changes in rust-v0.44.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20openhands-2025-10-01-c0aac1&body=Card%3A%20Changes%2FOpenHands%2F2025-10-01-significantly-improved-the-security-of-the-openhands-enterprise-docker-image-by.md%0ACard%20ID%3A%20openhands-2025-10-01-c0aac1%0ASource%3A%20https%3A%2F%2Fgithub.com%2FOpenHands%2FOpenHands%2Freleases%2Ftag%2F0.58.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 630bdc507eeec9db3f69933c79a895584ca6cbc7b2683cd00cac786fdc10f23e
+machine_hash: 307d676ab1ec2305cb7bd3637a64748df0f31308faadc96662455af9445857f4
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Context Window changes in v2.1.299
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-08-improved-token-counts-behind-a-claude-apps-gateway-on-amazon-bedrock-which-conte|Improved
-  token counts behind a Claude apps gateway on Amazon Bedrock…]]'
-- '[[Changes/Claude Code/2026-10-09-2-context-window-changes-in-v2-1-296|2 Context
-  Window changes in v2.1.296]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-09-context-now-applies-to-new-and-resumed-acp-sessions-instead-of-silently-using-th|--context
+  now applies to new and resumed ACP sessions instead of silently using…]]'
+- '[[Changes/Cline/2026-10-13-2-context-window-changes-in-v4-1-24|2 Context Window
+  changes in v4.1.24]]'
 - '[[Changes/Claude Code/2026-10-14-added-cache-creation-5m-tokens-and-cache-creation-1h-tokens-to-the-opentelemetry|Added
   cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelemetry…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'

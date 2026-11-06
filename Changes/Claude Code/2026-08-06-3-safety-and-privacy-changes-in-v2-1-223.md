@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4db035fa38d75848fc55660e885f3502530e0b301e34154a053805d0302b40d3
+machine_hash: bf10d727d6d2ad45688b60ba48b7950e858d76d14645477f8c1ca6526e2900f9
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Safety and Privacy changes in v2.1.223
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-24-2-safety-and-privacy-changes-in-v2-1-219|2 Safety
-  and Privacy changes in v2.1.219]]'
 - '[[Changes/Claude Code/2026-08-04-improved-auto-mode-safety-messages-sent-to-other-agent-sessions-via-sendmessage|Improved
   auto mode safety]]'
 - '[[Changes/Claude Code/2026-08-04-7-safety-and-privacy-changes-in-v2-1-221|7 Safety
   and Privacy changes in v2.1.221]]'
+- '[[Changes/Codex CLI/2026-08-05-apply-safer-automatic-review-defaults-for-cyber-capable-models-and-explain-permi|Apply
+  safer automatic-review defaults for cyber-capable models and explain…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d|claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d]]'
 source_type: github_releases
 theme: safety-privacy
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.223
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-7-safety-and-privacy-changes-in-v2-1-221|7 Safety and Privacy changes in v2.1.221]]
+- Earlier: 2026-08-05 · Codex CLI · [[Changes/Codex CLI/2026-08-05-apply-safer-automatic-review-defaults-for-cyber-capable-models-and-explain-permi|Apply safer automatic-review defaults for cyber-capable models and explain…]]
 - Later: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-2-safety-and-privacy-changes-in-v2-1-224|2 Safety and Privacy changes in v2.1.224]]
 <!-- chronolog:end -->
 

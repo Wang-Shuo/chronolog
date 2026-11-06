@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: b59aeb9d88a6c7ea1fe140c7d16d476b188ceb6f38c60566e6e63b0b06f230b1
+machine_hash: 95592070c8d138d3fe144a359c936c8b19fc1f927547baf2c77d64dd2f17bf39
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,10 +48,10 @@ record:
   title: Pro 200 subscriptions
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-for-the-next-10-days-we-re-including-usage-credits-so-teams-can-try-rollouts-on|For
-  the next 10 days, we''re including usage credits so teams can try Rollouts…]]'
-- '[[Changes/Claude Code/2026-09-24-updated-the-claude-api-skill-pre-output-refusal-billing-now-links-to-the-how-ref|Updated
-  the claude-api skill]]'
+- '[[Changes/Codex CLI/2026-09-25-47086-format-analytics-credit-usage-with-consistent-decimal-precision-fcoury-oai|♯47086
+  Format analytics credit usage with consistent decimal precision @fcoury-oai]]'
+- '[[Changes/OpenHands/2026-09-25-feat-scope-openai-subscription-caches-by-backend-by-uczltw6-in-https-github-com|feat:
+  scope OpenAI subscription caches by backend]]'
 - '[[Changes/Claude Code/2026-09-28-2-pricing-model-changes-in-v2-1-284|2 Pricing
   Model changes in v2.1.284]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-pro-200-subscriptions-a351b7b9|chatgpt-2026-09-29-pro-200-subscriptions-a351b7b9]]'

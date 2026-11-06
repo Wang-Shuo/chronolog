@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d33a0583096e308e7396963386676880aaf6fa8783ed9f3f73b910fa787b6325
+machine_hash: 33d6ed6b178ea201c4d00e711206e1ac517b3625d7a49ef762642ef76665b09c
 product: cursor
 product_name: Cursor
 record:
@@ -48,12 +48,12 @@ record:
   title: PR indexing & search
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-04-15-automated-and-improved-rules-15afc6|Automated and improved
-  rules]]'
-- '[[Changes/Cursor/2025-04-15-project-structure-in-context-beta|Project structure
-  in context (Beta)]]'
-- '[[Changes/Cursor/2025-05-15-include-your-entire-codebase-in-context|Include your
-  entire codebase in context]]'
+- '[[Changes/Cline/2025-06-10-prioritize-active-files-open-tabs-at-the-top-of-the-file-context-menu-when-using|Prioritize
+  active files (open tabs) at the top of the file context menu when using…]]'
+- '[[Changes/OpenHands/2025-06-20-2-context-window-changes-in-0-43-0|2 Context Window
+  changes in 0.43.0]]'
+- '[[Changes/Aider/2025-06-27-enhanced-thinking-tokens-support-can-now-be-disabled-by-setting-to-0-and-improve|Enhanced
+  thinking tokens support]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d]]'
 source_type: cursor_changelog
 theme: context-window
@@ -95,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-include-your-entire-codebase-in-context|Include your entire codebase in context]]
-- Later: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-at-the-end-of-a-conversation-you-can-now-see-how-much-of-the-context-window-is-u|View context usage in Chat]]
+- Earlier: 2025-06-27 · Aider · [[Changes/Aider/2025-06-27-enhanced-thinking-tokens-support-can-now-be-disabled-by-setting-to-0-and-improve|Enhanced thinking tokens support]]
+- Later: 2025-07-17 · Windsurf · [[Changes/Windsurf/2025-07-17-mentioning-conversations|mentioning conversations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

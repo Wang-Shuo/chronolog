@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: e8a20f02793ea67daf3f5a143c425447424d6d4c435e9f41259e8dd539d38be1
+machine_hash: 80683de0b7c1d1e8d5111d149583f9692dec93a1a921e85e9282d2368d204959
 product: cursor
 product_name: Cursor
 record:
@@ -42,8 +42,8 @@ record:
   title: 'Standard: $0.50/M input, $2.50/M output tokens'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-11-customers-must-be-on-usage-based-billing-for-bugbot-to-customize-effort-levels-l|Customers
-  must be on usage-based billing for Bugbot to customize effort levels]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-14-model-picker-displays-actual-token-prices-instead-of-dot-indicators-for-token-ba|Model
+  picker displays actual token prices instead of dot indicators for token-based…]]'
 - '[[Changes/Claude Code/2026-05-15-added-projected-context-cost-per-turn-and-per-invocation-token-estimates-to-the|Added
   projected context cost (per-turn and per-invocation token estimates)…]]'
 - '[[Changes/Cursor/2026-05-18-fast-default-3-00-m-input-15-00-m-output-tokens|Fast

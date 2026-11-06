@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5ba596d8402e892ad15bf163efc19b4311e88e0d6cc9ba9822554624455f409d
+machine_hash: 17b071e6094edf8e9ba53b99a75ee5176d2a07f29ec28678fe71bfd1d5e899bc
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,10 @@ record:
   title: 'VS Code 1.91.1: Cursor is now based on VS Code 1.91.1'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-05-26-accept-partial-completions-with-copilot-ce6049|Accept
-  partial completions with Copilot++]]'
 - '[[Changes/Cursor/2024-06-08-default-on-cursor-prediction-with-a-new-ui|Default-on
   Cursor Prediction with a new UI]]'
+- '[[Changes/OpenHands/2024-06-29-3-editor-experience-changes-in-0-7-0|3 Editor Experience
+  changes in 0.7.0]]'
 - '[[Changes/Cursor/2024-07-13-this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it|Composer
   (beta)]]'
 source_release: '[[Releases/Cursor/cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df|cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df]]'
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-07-13 · Cursor · [[Changes/Cursor/2024-07-13-this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it|Composer (beta)]]
-- Later: 2024-08-02 · Cursor · [[Changes/Cursor/2024-08-02-cursor-tab-previously-called-copilot-defaults-to-chunked-streaming-this-build-al|Cursor Tab (previously called Copilot++) defaults to chunked streaming]]
+- Later: 2024-07-27 · OpenHands · [[Changes/OpenHands/2024-07-27-validate-to-replace-in-edit-file-by-replace-agentskill-by-li-boxuan-in-https-git|Validate to_replace in edit_file_by_replace AgentSkill]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

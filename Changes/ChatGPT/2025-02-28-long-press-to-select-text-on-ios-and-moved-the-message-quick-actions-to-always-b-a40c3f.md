@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 770282132cdf825ad3b22a41294415add90d812a316af9d2262ee3c3a11b9acb
+machine_hash: 116e4ec974ea9b6778b53635e0a28e9c55e135a13abc8bd60254e7e70745c6a3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-02-21 · ChatGPT · [[Changes/ChatGPT/2025-02-21-ios-widget-see-below|iOS widget (see below)]]
-- Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved table-copying functionality out of ChatGPT responses on iOS and macOS]]
+- Later: 2025-03-10 · Aider · [[Changes/Aider/2025-03-10-specify-desktop-notification-command-with-notifications-command|Specify desktop notification command with --notifications-command]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

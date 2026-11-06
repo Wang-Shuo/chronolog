@@ -4,20 +4,20 @@ date: '2026-09-23'
 description: 'ChatGPT · 2026-09-23 · Voice and Audio: Live now supports plugins on
   web, iOS, and Android. You can use the plugins and connected apps available to your…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
-    (Beta) is now rolling out to Plus users on iOS and Android]]'
+  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
+    link) support, which allows you…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1094
+  lag_days: 1139
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9503a47afde7c9648053e771a0530a3610e8d83f9d5defa85d95a02a3613bd71
+machine_hash: eac669ae34d231b91ebcb67e259ea697ad4492b87696f4746a62ce8ffa1fb7ab
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,12 +64,12 @@ record:
   title: Use plugins in Voice and get work done by speaking
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-31-content-from-a-live-voice-conversation-can-now-appear-on-your-iphone-s-lock-scre|Content
-  from a Live voice conversation can now appear on your iPhone’s Lock Screen…]]'
-- '[[Changes/ChatGPT/2026-08-31-follow-along-outside-the-app-live-activities-can-show-content-from-your-voice-co|Follow
-  along outside the app]]'
-- '[[Changes/ChatGPT/2026-08-31-to-continue-a-voice-conversation-outside-chatgpt-turn-on-background-conversation|To
-  continue a Voice conversation outside ChatGPT, turn on Background conversations…]]'
+- '[[Changes/Codex CLI/2026-09-09-20-voice-and-audio-changes-in-rust-v0-154-0|20 Voice
+  and Audio changes in rust-v0.154.0]]'
+- '[[Changes/Codex CLI/2026-09-17-20-voice-and-audio-changes-in-rust-v0-155-0|20 Voice
+  and Audio changes in rust-v0.155.0]]'
+- '[[Changes/Codex CLI/2026-09-22-17-voice-and-audio-changes-in-rust-v0-156-0|17 Voice
+  and Audio changes in rust-v0.156.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-23-use-plugins-in-voice-and-get-work-done-by-speaking-fa63def1|chatgpt-2026-09-23-use-plugins-in-voice-and-get-work-done-by-speaking-fa63def1]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -100,14 +100,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-to-continue-a-voice-conversation-outside-chatgpt-turn-on-background-conversation|To continue a Voice conversation outside ChatGPT, turn on Background conversations…]]
-- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio is deleted once your notes are ready and can’t be accessed or replayed]]
+- Earlier: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-17-voice-and-audio-changes-in-rust-v0-156-0|17 Voice and Audio changes in rust-v0.156.0]]
+- Later: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-5-voice-and-audio-changes-in-rust-v0-157-0|5 Voice and Audio changes in rust-v0.157.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
+- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 15bcb9fef063d31bacb2e486a38197f467947604b8ea51a3594ba7ce6d395726
+machine_hash: 30909b854544df07e5eba222e922e23e0e48b67757583eff8a79bf4b58eb615c
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     run…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-05-5-developer-workflow-changes-in-v2-1-290|5 Developer
-  Workflow changes in v2.1.290]]'
-- '[[Changes/Claude Code/2026-10-06-2-developer-workflow-changes-in-v2-1-292|2 Developer
-  Workflow changes in v2.1.292]]'
-- '[[Changes/Claude Code/2026-10-07-code-review-improved-code-review-s-add-a-repository-dialog-to-list-each-reposito|Code
-  Review Improved Code Review''s Add a repository dialog to list each repository…]]'
+- '[[Changes/Cline/2026-10-07-generate-commit-message-now-follows-your-clinerules-so-conventions-like-language|Generate
+  Commit Message now follows your .clinerules, so conventions like…]]'
+- '[[Changes/Codex CLI/2026-10-07-10-developer-workflow-changes-in-rust-v0-161-0|10
+  Developer Workflow changes in rust-v0.161.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-07-warmed-language-servers-stay-running-across-lsp-requests-when-sandboxing-is-disa|Warmed
+  language servers stay running across LSP requests when sandboxing is disabled]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'
 source_type: github_releases
 theme: developer-workflow
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-code-review-improved-code-review-s-add-a-repository-dialog-to-list-each-reposito|Code Review Improved Code Review's Add a repository dialog to list each repository…]]
-- Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-3-developer-workflow-changes-in-v2-1-296|3 Developer Workflow changes in v2.1.296]]
+- Earlier: 2026-10-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-07-warmed-language-servers-stay-running-across-lsp-requests-when-sandboxing-is-disa|Warmed language servers stay running across LSP requests when sandboxing is disabled]]
+- Later: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-12-developer-workflow-changes-in-rust-v0-162-0|12 Developer Workflow changes in rust-v0.162.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

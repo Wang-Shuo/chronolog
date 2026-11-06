@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 494f7c59e70c5d87542cd530227b8ee60ecbe75cfb5cde7d82c1f916da8149fd
+machine_hash: b0d55123391373497237f40a378500de8ead421f68284031acc723706f85d4dd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,8 +41,7 @@ record:
   title: 'Added long press on your message to open menu actions: Copy, Edit'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface
-  Experience changes in 0.46.x]]'
+- '[[Changes/Aider/2025-03-10-https-aider-chat-history-html|(source link)]]'
 - '[[Changes/Cursor/2025-03-11-keyboard-shortcuts-all-keyboard-shortcuts-are-now-available-in-the-keyboard-shor|Keyboard
   Shortcuts: All keyboard shortcuts are now available in the Keyboard…]]'
 - '[[Changes/Cursor/2025-03-11-0-47-11-release-track-picker-prerelease-or-standard-fix-for-dmg-installer-not-wo|0.47.11:
@@ -78,7 +77,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-0-47-11-release-track-picker-prerelease-or-standard-fix-for-dmg-installer-not-wo|0.47.11: Release track picker (prerelease or standard), fix for dmg installer not…]]
-- Later: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-new-onboarding|New onboarding]]
+- Later: 2025-03-21 · Aider · [[Changes/Aider/2025-03-21-3-interface-experience-changes-in-v0-78-0|3 Interface Experience changes in v0.78.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

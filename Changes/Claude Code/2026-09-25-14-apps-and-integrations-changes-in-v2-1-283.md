@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e7eb3749459e3d79542b829edad5432dbc2537669a3915f641a1f557e92ae0e4
+machine_hash: 2ed498ab65edc5be2da095cf85666da641aa433adf31e9000c235f65babaf488
 product: claude-code
 product_name: Claude Code
 record:
@@ -159,7 +159,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.283
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-8-apps-and-integrations-changes-in-v2-1-282|8 Apps and Integrations changes in v2.1.282]]
-- Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-8-apps-and-integrations-changes-in-v2-1-284|8 Apps and Integrations changes in v2.1.284]]
+- Later: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-9-apps-and-integrations-changes-in-rust-v0-157-0|9 Apps and Integrations changes in rust-v0.157.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2358ad75cb6d47bb8d97e97834328adc37f47d315fd629c7792d282b257bb962
+machine_hash: a3e174dd2b49873ff9a2868a15e584d1c019d8fa3cdfe31c1fb35738061d4af0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,8 +49,8 @@ record:
   title: Easier pinning and sidebar organization
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-12-added-wheelscrollaccelerationenabled-setting-to-disable-mouse-wheel-scroll-accel|Added
-  wheelScrollAccelerationEnabled setting to disable mouse-wheel scroll…]]'
+- '[[Changes/Codex CLI/2026-06-15-3-interface-experience-changes-in-rust-v0-140-0|3
+  Interface Experience changes in rust-v0.140.0]]'
 - '[[Changes/ChatGPT/2026-06-17-a-new-scheduled-page-discoverable-in-the-sidebar-gives-users-one-place-to-view-a|A
   new Scheduled page, discoverable in the sidebar, gives users one place to view…]]'
 - '[[Changes/Claude Code/2026-06-17-improved-streaming-of-long-paragraphs-text-now-appears-line-by-line-instead-of-w|Improved

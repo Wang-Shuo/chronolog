@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a5c082ba82ca727adc2a63a854abaa19eac98d2609c2be7f3688cf8aa59257d0
+machine_hash: 7615c27b231a9a6f0ca64d29b535210463247e898ad396fddf43bd563ae3442c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,12 +44,12 @@ record:
   title: Attach recent photos faster
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-18-2-reliability-and-performance-changes-in-v2-1-235|2
-  Reliability and Performance changes in v2.1.235]]'
 - '[[Changes/Claude Code/2026-08-19-improved-startup-performance-the-session-counter-is-now-written-in-the-backgroun|Improved
   startup performance: the session counter is now written in the background]]'
 - '[[Changes/Claude Code/2026-08-20-improved-startup-responsiveness-the-automatic-update-check-now-runs-about-10-sec|Improved
   startup responsiveness]]'
+- '[[Changes/Codex CLI/2026-08-20-2-reliability-and-performance-changes-in-rust-v0-149-0|2
+  Reliability and Performance changes in rust-v0.149.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-21-updates-to-chatgpt-on-ios-148662ce|chatgpt-2026-08-21-updates-to-chatgpt-on-ios-148662ce]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-improved-startup-responsiveness-the-automatic-update-check-now-runs-about-10-sec|Improved startup responsiveness]]
+- Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-2-reliability-and-performance-changes-in-rust-v0-149-0|2 Reliability and Performance changes in rust-v0.149.0]]
 - Later: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-improved-bash-tool-latency-on-bash-shells-by-replaying-snapshot-functions-withou|Improved Bash tool latency on bash shells by replaying snapshot functions without…]]
 <!-- chronolog:end -->
 

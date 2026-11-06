@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: de37762e8bbd77c489aac956d37516047bdadcdd037f9ccdb095a97bc922eff7
+machine_hash: b4458f35dd91af53bb954f0de0700350750721e1dceb7ea3f84b337d3e920e13
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,10 +52,10 @@ record:
   title: 4 Safety and Privacy changes in v2.1.119
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-18-fixed-a-crash-in-the-permission-dialog-when-an-agent-teams-teammate-requested-to|Fixed
-  a crash in the permission dialog when an agent teams teammate requested tool…]]'
 - '[[Changes/Claude Code/2026-04-20-security-sandbox-auto-allow-no-longer-bypasses-the-dangerous-path-safety-check-f|Security:
   sandbox auto-allow no longer bypasses the dangerous-path safety check…]]'
+- '[[Changes/Codex CLI/2026-04-20-9-safety-and-privacy-changes-in-rust-v0-122-0|9
+  Safety and Privacy changes in rust-v0.122.0]]'
 - '[[Changes/Claude Code/2026-04-23-fixed-mcp-step-up-authorization-silently-refreshing-instead-of-prompting-for-re|Fixed
   MCP step-up authorization silently refreshing instead of prompting…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-119-github-312949780-573724e7|claude-code-2026-04-23-v2-1-119-github-312949780-573724e7]]'
@@ -100,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.119
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-fixed-mcp-step-up-authorization-silently-refreshing-instead-of-prompting-for-re|Fixed MCP step-up authorization silently refreshing instead of prompting…]]
-- Later: 2026-04-30 · Cursor · [[Changes/Cursor/2026-04-30-cursor-security-review-is-now-in-beta-on-teams-and-enterprise-plans-you-can-run|Cursor Security Review is now in beta on Teams and Enterprise plans]]
+- Later: 2026-04-23 · Codex CLI · [[Changes/Codex CLI/2026-04-23-17-safety-and-privacy-changes-in-rust-v0-124-0|17 Safety and Privacy changes in rust-v0.124.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

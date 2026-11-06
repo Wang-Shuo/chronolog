@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d156443403805bbc56caf00581688b7b51377f8cdd5debb61a20142bb3b0843c
+machine_hash: e50d8fef0690f9bb1492ab11f71b70f4565e9f32a9a00fda1f9e4a889a584348
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Interface Experience changes in v2.1.20
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-16-2-interface-experience-changes-in-cli-agent-modes-and-cloud-handoff|2
-  Interface Experience changes in CLI Agent Modes and Cloud Handoff]]'
-- '[[Changes/Claude Code/2026-01-20-improved-backspace-to-delete-pasted-text-as-a-single-token-instead-of-one-charac|Improved
-  backspace to delete pasted text as a single token instead of one character…]]'
+- '[[Changes/Codex CLI/2026-01-22-improved-slash-command-selection-by-prioritizing-exact-and-prefix-matches-over-f|Improved
+  slash-command selection by prioritizing exact and prefix matches over fuzzy…]]'
 - '[[Changes/Cursor/2026-01-22-2-interface-experience-changes-in-2-4|2 Interface Experience
   changes in 2.4]]'
+- '[[Changes/Codex CLI/2026-01-25-9512-fix-resume-picker-when-user-event-appears-after-head-jdsalasca|♯9512
+  Fix resume picker when user event appears after head @jdsalasca]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-27-v2-1-20-github-280123443-38431f59|claude-code-2026-01-27-v2-1-20-github-280123443-38431f59]]'
 source_type: github_releases
 theme: interface-experience
@@ -89,8 +89,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.20
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-2-interface-experience-changes-in-2-4|2 Interface Experience changes in 2.4]]
-- Later: 2026-01-28 · Claude Code · [[Changes/Claude Code/2026-01-28-improved-read-search-progress-indicators-to-show-reading-while-in-progress-and-r|Improved read/search progress indicators to show "Reading…" while in progress…]]
+- Earlier: 2026-01-25 · Codex CLI · [[Changes/Codex CLI/2026-01-25-9512-fix-resume-picker-when-user-event-appears-after-head-jdsalasca|♯9512 Fix resume picker when user event appears after head @jdsalasca]]
+- Later: 2026-01-27 · Codex CLI · [[Changes/Codex CLI/2026-01-27-3-interface-experience-changes-in-rust-v0-92-0|3 Interface Experience changes in rust-v0.92.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

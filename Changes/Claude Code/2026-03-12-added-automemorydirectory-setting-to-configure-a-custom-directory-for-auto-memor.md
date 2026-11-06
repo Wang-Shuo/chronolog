@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9b7ddf6165e1df56ad9bbf977a37721c598b5ae1c8d03af6221ef75cf6373c83
+machine_hash: d8aaaa4ed62a03c11f4573626d5979a97de35c00260d0b55b3e709a9a99cfaa5
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: Added `autoMemoryDirectory` setting to configure a custom directory for auto-memory…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-09-we-re-beginning-to-roll-out-a-test-for-ads-in-chatgpt-in-the-u-s-for-logged-in-a|Testing
-  ads in ChatGPT (Free, Go)]]'
-- '[[Changes/Claude Code/2026-02-26-claude-automatically-saves-useful-context-to-auto-memory-manage-with-memory|Claude
-  automatically saves useful context to auto-memory]]'
-- '[[Changes/Claude Code/2026-02-28-project-configs-auto-memory-now-shared-across-git-worktrees-of-the-same-reposito|Project
-  configs & auto memory now shared across git worktrees of the same repository]]'
+- '[[Changes/Codex CLI/2026-03-05-5-memory-and-personalization-changes-in-rust-v0-110-0|5
+  Memory and Personalization changes in rust-v0.110.0]]'
+- '[[Changes/Codex CLI/2026-03-10-13734-feat-prune-old-memories-in-db-jif-oai|♯13734
+  feat: prune old memories in DB @jif-oai]]'
+- '[[Changes/Gemini CLI/2026-03-11-feat-implement-slash-command-handling-in-acp-for-memory-init-extensions-and-rest|feat:
+  Implement slash command handling in ACP for /memory,/init,/extensions…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae|claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae]]'
 source_type: github_releases
 theme: memory
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-project-configs-auto-memory-now-shared-across-git-worktrees-of-the-same-reposito|Project configs & auto memory now shared across git worktrees of the same repository]]
-- Later: 2026-03-17 · ChatGPT · [[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|Sunsetting the “Nerdy” base style]]
+- Earlier: 2026-03-11 · Gemini CLI · [[Changes/Gemini CLI/2026-03-11-feat-implement-slash-command-handling-in-acp-for-memory-init-extensions-and-rest|feat: Implement slash command handling in ACP for /memory,/init,/extensions…]]
+- Later: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-memory-storage-errors-now-indicate-when-repository-doesn-t-exist-or-you-lack-wri|Memory storage errors now indicate when repository doesn't exist or you lack write access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

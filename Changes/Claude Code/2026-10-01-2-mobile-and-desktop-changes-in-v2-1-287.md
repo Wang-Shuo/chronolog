@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 63167536f3219852aa647fd71529fb26989cbcf5cecad5a44fea026df883bb86
+machine_hash: e8ba13124299d71857aa7ec5a80c3db315fe3d146750712dcc1906ea7554d6b2
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,11 @@ record:
   title: 2 Mobile and Desktop changes in v2.1.287
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-24-improved-the-error-shown-on-windows-when-a-session-can-t-be-resumed-because-its|Improved
-  the error shown on Windows when a session can''t be resumed because…]]'
-- '[[Changes/ChatGPT/2026-09-29-site-owners-and-editors-on-plus-and-pro-can-select-edit-site-from-a-published-si|Site
-  owners and editors on Plus and Pro can select Edit site from a published Site…]]'
-- '[[Changes/Claude Code/2026-09-29-6-mobile-and-desktop-changes-in-v2-1-285|6 Mobile
-  and Desktop changes in v2.1.285]]'
+- '[[Changes/Codex CLI/2026-09-29-4-mobile-and-desktop-changes-in-rust-v0-159-0|4
+  Mobile and Desktop changes in rust-v0.159.0]]'
+- '[[Changes/Codex CLI/2026-09-29-suppressed-console-windows-flashing-on-windows-when-codex-launches-background-pr|Suppressed
+  console windows flashing on Windows when Codex launches background…]]'
+- '[[Changes/Windsurf/2026-09-29-devin-desktop|Devin Desktop]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -96,8 +95,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.287
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-6-mobile-and-desktop-changes-in-v2-1-285|6 Mobile and Desktop changes in v2.1.285]]
-- Later: 2026-10-02 · ChatGPT · [[Changes/ChatGPT/2026-10-02-finances-in-chatgpt-is-rolling-out-to-free-and-go-users-in-the-u-s-on-web-ios-an|Finances expands to Free and Go users]]
+- Earlier: 2026-09-29 · Windsurf · [[Changes/Windsurf/2026-09-29-devin-desktop|Devin Desktop]]
+- Later: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-49093-simplify-startup-promotions-to-platform-specific-desktop-app-tips-etraut-o|♯49093 Simplify startup promotions to platform-specific desktop app tips @etraut-openai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

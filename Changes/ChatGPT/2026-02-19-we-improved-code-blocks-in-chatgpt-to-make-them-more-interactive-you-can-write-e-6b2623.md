@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c63de298ffcb1a52c1618a1a3b28677a83c647620459141e9a75788f807c150f
+machine_hash: 5283a79abdad0224c59ac956e914a3936600b493077e70971603efa743c3e7f6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,12 +48,12 @@ record:
   title: We improved Code Blocks in ChatGPT to make them more interactive
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-27-added-external-editor-shortcut-ctrl-g-to-the-help-menu-for-better-discoverabilit|Added
-  external editor shortcut (Ctrl+G) to the help menu for better discoverability]]'
-- '[[Changes/Claude Code/2026-01-28-improved-claude-to-prefer-file-operation-tools-read-edit-write-over-bash-equival|Improved
-  Claude to prefer file operation tools (Read, Edit, Write) over bash…]]'
 - '[[Changes/Cursor/2026-02-17-manual-edits-no-longer-create-in-line-diffs|Manual
   edits no longer create in-line diffs]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-17-tab-completion-respects-the-highlighted-slash-command-selection|Tab
+  completion respects the highlighted slash command selection]]'
+- '[[Changes/Gemini CLI/2026-02-18-2-editor-experience-changes-in-v0-29-0|2 Editor
+  Experience changes in v0.29.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-19-interactive-code-blocks-in-chatgpt-c2254f84|chatgpt-2026-02-19-interactive-code-blocks-in-chatgpt-c2254f84]]'
 source_type: chatgpt_changelog
 theme: editor-experience
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-02-17 · Cursor · [[Changes/Cursor/2026-02-17-manual-edits-no-longer-create-in-line-diffs|Manual edits no longer create in-line diffs]]
+- Earlier: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-2-editor-experience-changes-in-v0-29-0|2 Editor Experience changes in v0.29.0]]
 - Later: 2026-02-19 · Claude Code · [[Changes/Claude Code/2026-02-19-simple-mode-claude-code-simple-now-includes-the-file-edit-tool-in-addition-to-th|Simple mode (CLAUDE_CODE_SIMPLE) now includes the file edit tool in addition…]]
 <!-- chronolog:end -->
 

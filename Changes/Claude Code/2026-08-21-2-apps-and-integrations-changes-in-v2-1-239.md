@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0349d1906c9892e17e3537455321d70174aed75eefc7c753cfebd3f37df39f52
+machine_hash: 771468b19288d4fa9741615cac4a9c9d9c128e57abdb7b13ec911584c90e5de7
 product: claude-code
 product_name: Claude Code
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.239
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-21 · ChatGPT · [[Changes/ChatGPT/2026-08-21-find-more-useful-plugins-rankings-now-prioritize-plugins-people-keep-using-after|Find more useful plugins]]
-- Later: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-3-apps-and-integrations-changes-in-v2-1-246|3 Apps and Integrations changes in v2.1.246]]
+- Later: 2026-08-21 · Cline · [[Changes/Cline/2026-08-21-2-apps-and-integrations-changes-in-v4-1-12|2 Apps and Integrations changes in v4.1.12]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

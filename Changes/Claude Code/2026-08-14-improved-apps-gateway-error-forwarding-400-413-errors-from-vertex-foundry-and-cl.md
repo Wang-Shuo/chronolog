@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8df59cf8abe07977a3766a9f2788f00d5e71da9e5ce3d9e170c2433a4c9dfc03
+machine_hash: 2a5ba66f3d23837700a3dcb2d525c7c6dbddc93b4a49f6c87ac37dc65b637aca
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: Improved apps gateway error forwarding
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-06-2-context-window-changes-in-v2-1-223|2 Context
-  Window changes in v2.1.223]]'
-- '[[Changes/Claude Code/2026-08-11-improved-compaction-progress-the-retry-countdown-and-stall-hint-now-appear-durin|Improved
-  compaction progress]]'
+- '[[Changes/Gemini CLI/2026-08-11-refactor-exclude-transient-ci-configuration-files-from-workspace-context-by-davi|Refactor:
+  exclude transient CI configuration files from workspace context]]'
 - '[[Changes/Claude Code/2026-08-12-improved-prompt-is-too-long-errors-to-explain-why-automatic-compaction-could-not|Improved
   "prompt is too long" errors to explain why automatic compaction could not…]]'
+- '[[Changes/OpenHands/2026-08-13-feat-context-window-usage-meter-usage-drawer-and-manual-compaction-by-georgeglar|feat:
+  context window usage meter, usage drawer, and manual compaction]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9|claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9]]'
 source_type: github_releases
 theme: context-window
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-improved-prompt-is-too-long-errors-to-explain-why-automatic-compaction-could-not|Improved "prompt is too long" errors to explain why automatic compaction could not…]]
+- Earlier: 2026-08-13 · OpenHands · [[Changes/OpenHands/2026-08-13-feat-context-window-usage-meter-usage-drawer-and-manual-compaction-by-georgeglar|feat: context window usage meter, usage drawer, and manual compaction]]
 - Later: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-2-context-window-changes-in-v2-1-234|2 Context Window changes in v2.1.234]]
 <!-- chronolog:end -->
 

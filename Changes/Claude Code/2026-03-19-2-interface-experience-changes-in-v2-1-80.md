@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d867801abe0196fe37426e81410bf5b33989da37ae855a93c2b9d6c827861d9b
+machine_hash: 7d6e7852204f004a0ef694bd458af9bde61a21ac16b7d7181d1dd027482840e2
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Interface Experience changes in v2.1.80
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-17-copy-now-accepts-an-optional-index-copy-n-copies-the-nth-latest-assistant-respon|/copy
-  now accepts an optional index: /copy N copies the Nth-latest assistant response]]'
-- '[[Changes/Claude Code/2026-03-17-2-interface-experience-changes-in-v2-1-78|2 Interface
-  Experience changes in v2.1.78]]'
+- '[[Changes/Gemini CLI/2026-03-17-3-interface-experience-changes-in-v0-34-0|3 Interface
+  Experience changes in v0.34.0]]'
 - '[[Changes/Claude Code/2026-03-18-added-show-turn-duration-toggle-to-the-config-menu|Added
   "Show turn duration" toggle to the /config menu]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-18-spinner-animation-no-longer-delays-visible-output-from-appearing-in-the-timeline|Spinner
+  animation no longer delays visible output from appearing in the timeline]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a|claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a]]'
 source_type: github_releases
 theme: interface-experience
@@ -86,8 +86,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.80
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-18 · Claude Code · [[Changes/Claude Code/2026-03-18-added-show-turn-duration-toggle-to-the-config-menu|Added "Show turn duration" toggle to the /config menu]]
-- Later: 2026-03-25 · Claude Code · [[Changes/Claude Code/2026-03-25-2-interface-experience-changes-in-v2-1-83|2 Interface Experience changes in v2.1.83]]
+- Earlier: 2026-03-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-18-spinner-animation-no-longer-delays-visible-output-from-appearing-in-the-timeline|Spinner animation no longer delays visible output from appearing in the timeline]]
+- Later: 2026-03-19 · Cline · [[Changes/Cline/2026-03-19-add-feature-tips-tooltip-during-thinking-state|Add feature tips tooltip during thinking state]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

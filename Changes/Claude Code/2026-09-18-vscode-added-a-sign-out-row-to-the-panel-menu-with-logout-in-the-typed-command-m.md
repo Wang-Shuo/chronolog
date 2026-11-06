@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 22abe1fc212cd2a7ce60dcf106d1f7630c753cad7b2bcb01227408991165704e
+machine_hash: 04ab1add2881ac825c7da8b4556f7f85fc031a29b7fec1d90ba0afbaf6b70a1d
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     command menu'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-17-chatgpt-is-now-available-in-microsoft-word-you-can-draft-from-notes-summarize-a-4c7506|ChatGPT
-  for Word]]'
-- '[[Changes/Claude Code/2026-09-17-improved-the-artifact-tool-s-publish-and-read-results-they-now-say-who-can-open|Improved
-  the Artifact tool''s publish and read results]]'
 - '[[Changes/Claude Code/2026-09-17-2-interface-experience-changes-in-v2-1-274|2 Interface
   Experience changes in v2.1.274]]'
+- '[[Changes/Cline/2026-09-17-cline-s-logo-and-icons-have-been-refreshed-throughout-the-extension-including-th|Cline''s
+  logo and icons have been refreshed throughout the extension, including…]]'
+- '[[Changes/Codex CLI/2026-09-17-43846-include-completed-commentary-in-the-copy-picker-copyberry|♯43846
+  Include completed commentary in the /copy picker @copyberry]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36|claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36]]'
 source_type: github_releases
 theme: interface-experience
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-2-interface-experience-changes-in-v2-1-274|2 Interface Experience changes in v2.1.274]]
-- Later: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-5-interface-experience-changes-in-v2-1-280|5 Interface Experience changes in v2.1.280]]
+- Earlier: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-43846-include-completed-commentary-in-the-copy-picker-copyberry|♯43846 Include completed commentary in the /copy picker @copyberry]]
+- Later: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-number-key-selection-in-the-question-dialog-works-for-choices-10-and-beyond|Number-key selection in the question dialog works for choices 10 and beyond]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

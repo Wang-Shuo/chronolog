@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0d23f0d3c7f14271f54d01123a9ea53c0cb9fc9c73ccd91085737e22a2b51fe7
+machine_hash: e46036ceaf412afb047bba13eee2804aa996e9b57ee20f0274e60ffe5d81d43e
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,12 +51,12 @@ record:
   title: Added external editor shortcut (Ctrl+G) to the help menu for better discoverability
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-16-use-ask-mode-to-explore-code-without-making-changes-just-like-in-the-editor-star|Ask
-  mode in CLI]]'
-- '[[Changes/Claude Code/2026-01-20-added-history-based-autocomplete-in-bash-mode-type-a-partial-command-and-press-t|Added
-  history-based autocomplete in bash mode (!) - type a partial command…]]'
-- '[[Changes/Cursor/2026-01-22-2-editor-experience-changes-in-2-4|2 Editor Experience
-  changes in 2.4]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-22-add-diff-command-to-review-changes-made-during-the-current-session|Add
+  /diff command to review changes made during the current session]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-24-improve-task-completion-with-clearer-detached-process-guidance|Improve
+  task completion with clearer detached process guidance]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-26-add-commenting-to-diff-mode-for-line-specific-feedback|Add
+  commenting to /diff mode for line-specific feedback]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-27-v2-1-20-github-280123443-38431f59|claude-code-2026-01-27-v2-1-20-github-280123443-38431f59]]'
 source_type: github_releases
 theme: editor-experience
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-2-editor-experience-changes-in-2-4|2 Editor Experience changes in 2.4]]
-- Later: 2026-01-28 · Claude Code · [[Changes/Claude Code/2026-01-28-improved-claude-to-prefer-file-operation-tools-read-edit-write-over-bash-equival|Improved Claude to prefer file operation tools (Read, Edit, Write) over bash…]]
+- Earlier: 2026-01-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-26-add-commenting-to-diff-mode-for-line-specific-feedback|Add commenting to /diff mode for line-specific feedback]]
+- Later: 2026-01-27 · Cline · [[Changes/Cline/2026-01-27-skip-diff-error-ui-handling-during-streaming-to-prevent-flickering-error-handlin|Skip diff error UI handling during streaming to prevent flickering]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

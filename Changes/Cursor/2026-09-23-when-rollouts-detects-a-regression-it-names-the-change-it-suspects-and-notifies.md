@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: f68fd6c036953d230a2ae3dd49d8f03f1727111abd2d943c60a33c766254ea36
+machine_hash: f271a7ee03df4104b1469d8a6e6c90dc62876e5562b718a3e5d98d01fb604493
 product: cursor
 product_name: Cursor
 record:
@@ -49,10 +49,10 @@ record:
   title: When Rollouts detects a regression, it names the change it suspects and notifies…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-19-added-an-auto-mode-server-row-to-status-showing-whether-this-session-s-auto-mode|Added
-  an Auto mode server row to /status showing whether this session''s auto…]]'
-- '[[Changes/Claude Code/2026-09-22-2-agent-mode-changes-in-v2-1-280|2 Agent Mode
-  changes in v2.1.280]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-22-2-agent-mode-changes-in-v1-0-88|2 Agent
+  Mode changes in v1.0.88]]'
+- '[[Changes/OpenHands/2026-09-22-docs-refresh-agents-md-guidance-by-all-hands-bot-in-https-github-com-openhands-o|docs:
+  refresh AGENTS.md guidance]]'
 - '[[Changes/Claude Code/2026-09-23-10-agent-mode-changes-in-v2-1-281|10 Agent Mode
   changes in v2.1.281]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb|cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb]]'

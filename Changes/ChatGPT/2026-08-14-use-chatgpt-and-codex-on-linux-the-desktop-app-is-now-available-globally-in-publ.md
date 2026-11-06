@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c127dfe6db2de4e5382520270f5260cb8b03aed6ef7428370b9f1a7ca2486d66
+machine_hash: 6997dde11fa715b1df9ad6f7a6433ea923cad3abf510ba75f0e1291e5a5357e9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,8 +46,7 @@ record:
   title: Use ChatGPT and Codex on Linux
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-13-gateway-the-desktop-overlay-now-accepts-every-released-desktop-setting-was-11-ha|Gateway:
-  the desktop: overlay now accepts every released Desktop setting…]]'
+- '[[Changes/Windsurf/2026-08-13-devin-desktop|Devin Desktop]]'
 - '[[Changes/ChatGPT/2026-08-14-work-in-the-built-in-browser-or-chrome-browser-actions-are-available-in-the-linu|Work
   in the built-in browser or Chrome]]'
 - '[[Changes/ChatGPT/2026-08-14-learning-projects-and-personalized-suggestions|Learning,
@@ -84,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-gateway-the-desktop-overlay-now-accepts-every-released-desktop-setting-was-11-ha|Gateway: the desktop: overlay now accepts every released Desktop setting…]]
-- Later: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-added-notify-when-idle-to-cross-session-sendmessage-ask-another-claude-code-sess|Added notify_when_idle to cross-session SendMessage]]
+- Earlier: 2026-08-13 · Windsurf · [[Changes/Windsurf/2026-08-13-devin-desktop|Devin Desktop]]
+- Later: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-3-mobile-and-desktop-changes-in-rust-v0-148-0|3 Mobile and Desktop changes in rust-v0.148.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

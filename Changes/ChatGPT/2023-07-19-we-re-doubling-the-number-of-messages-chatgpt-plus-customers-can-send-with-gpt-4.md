@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: b1d2afccfc3235a0f770bf551acb0f044e6c463357ea9a67c706b5ea8872a8e8
+machine_hash: 9b90c37e0010775c6c17efc89066bbf7c5306aa931c968c93413e89f53743d0a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,11 +49,12 @@ record:
   title: Higher message limits for GPT-4
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-20-upgrades-to-gpt-4-e59675|Upgrades to GPT-4]]'
-- '[[Changes/Cursor/2023-06-01-check-out-the-more-tab-to-have-gpt-3-5-or-gpt-4-review-your-code-periodically-fo|AI
-  Linting]]'
-- '[[Changes/ChatGPT/2023-06-22-browsing-plus-users-can-now-use-browsing-to-get-comprehensive-answers-and-curren|Browsing:
-  Plus users can now use Browsing to get comprehensive answers and current…]]'
+- '[[Changes/Aider/2023-07-08-3-model-support-changes-in-v0-8-2|3 Model Support changes
+  in v0.8.2]]'
+- '[[Changes/Aider/2023-07-12-3-model-support-changes-in-v0-8-3|3 Model Support changes
+  in v0.8.3]]'
+- '[[Changes/Aider/2023-07-16-support-for-the-openai-models-in-azure-https-aider-chat-docs-faq-html-azure|Support
+  for the OpenAI models in Azure((source link)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-07-19-higher-message-limits-for-gpt-4-1b971518|chatgpt-2023-07-19-higher-message-limits-for-gpt-4-1b971518]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -80,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-06-22 · ChatGPT · [[Changes/ChatGPT/2023-06-22-browsing-plus-users-can-now-use-browsing-to-get-comprehensive-answers-and-curren|Browsing: Plus users can now use Browsing to get comprehensive answers and current…]]
-- Later: 2023-07-28 · Cursor · [[Changes/Cursor/2023-07-28-long-ai-completions-8c21b2|Long AI completions]]
+- Earlier: 2023-07-16 · Aider · [[Changes/Aider/2023-07-16-support-for-the-openai-models-in-azure-https-aider-chat-docs-faq-html-azure|Support for the OpenAI models in Azure((source link)]]
+- Later: 2023-07-22 · Aider · [[Changes/Aider/2023-07-22-benchmarked-https-aider-chat-docs-benchmarks-html-at-64-7-for-gpt-4-diff-no-regr|Benchmarked((source link) at 64.7% for gpt-4/diff…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

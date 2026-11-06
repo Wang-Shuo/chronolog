@@ -1,0 +1,205 @@
+---
+card_id: codex-cli-2026-09-09-3b6304
+date: '2026-09-09'
+description: 'Codex CLI · 2026-09-09 · Safety and Privacy: 25 changes in 0.154.0 —
+  Startup avoids running workspace-controlled helpers before trust is established,
+  and the…'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
+    mode for opting out of storing any kind of data on our servers]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1242
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: safety-privacy
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: digest
+machine_hash: 049eedc3113a96e6c46c01cf40c730322a18fa4152087979ff79937a5272b431
+product: codex-cli
+product_name: Codex CLI
+record:
+  card_id: codex-cli-2026-09-09-3b6304
+  comparison: ''
+  date: '2026-09-09'
+  description: 'Codex CLI — 0.154.0: 25 Safety and Privacy changes'
+  evidence:
+  - quote: 'Startup avoids running workspace-controlled helpers before trust is established,
+      and the macOS sandbox blocks terminal input injection. (#42324, #42590)'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.154.0
+  - quote: '#42309 Separate Windows sandbox provisioning from ACL refresh @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.154.0
+  - quote: '#42314 Preserve target-native cwd in permission approval requests @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.154.0
+  - quote: '#42324 Avoid executing PATH helpers before workspace trust @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.154.0
+  - quote: '#42330 Protect Windows sandbox binaries from inherited write access @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.154.0
+  - quote: '#42334 Add a Windows sandbox provisioning protocol @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.154.0
+  - quote: '#42337 Add an authenticated Windows sandbox provisioning client @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.154.0
+  - quote: '#42341 Add Windows sandbox service lifecycle scaffolding @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.154.0
+  - quote: '#42342 Harden Windows sandbox provisioning file handling @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.154.0
+  - quote: '#42344 Prepare managed policy validation for Windows sandbox provisioning
+      @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.154.0
+  - quote: '#42348 Add Windows sandbox client authentication @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.154.0
+  - quote: '#42351 Enable authenticated Windows sandbox provisioning @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.154.0
+  - quote: '#42353 Add experimental Windows sandbox service provisioning @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.154.0
+  - quote: '#42375 Clean up Windows sandbox resources on app uninstall @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.154.0
+  - quote: '#42380 Require confirmation for safety-buffered retries @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.154.0
+  - quote: '#42453 Discover permission profiles from the app server @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.154.0
+  - quote: '#42590 Harden the macOS sandbox against terminal input injection @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.154.0
+  - quote: '#42596 Record Windows sandbox private desktop usage @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.154.0
+  - quote: '#42755 Stabilize the interactive tmux startup safety test @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.154.0
+  - quote: '#42801 Keep the Windows sandbox command runner hidden @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.154.0
+  - quote: '#42833 Preserve SystemRoot for Windows sandbox wrapper setup @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.154.0
+  - quote: '#42835 Preserve Windows managed deny reads in the sandbox CLI @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.154.0
+  - quote: '#42841 Add a native Windows MXC sandbox adapter @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.154.0
+  - quote: '#42870 Avoid redundant filesystem sandbox path resolution @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.154.0
+  - quote: '#43340 Enable remote named permission profile selection in the TUI @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.154.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: digest
+  product: codex-cli
+  product_name: Codex CLI
+  slug: 25-safety-and-privacy-changes-in-rust-v0-154-0
+  source_release: codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1
+  source_type: github_releases
+  theme: safety-privacy
+  title: 25 Safety and Privacy changes in rust-v0.154.0
+  type: change
+related_changes:
+- '[[Changes/Claude Code/2026-09-08-3-safety-and-privacy-changes-in-v2-1-265|3 Safety
+  and Privacy changes in v2.1.265]]'
+- '[[Changes/Gemini CLI/2026-09-08-fix-core-enforce-fail-closed-workspace-trust-and-filter-mcpservers-in-restricted|fix(core):
+  enforce fail-closed workspace trust and filter mcpServers in restricted mode]]'
+- '[[Changes/Claude Code/2026-09-09-2-safety-and-privacy-changes-in-v2-1-267|2 Safety
+  and Privacy changes in v2.1.267]]'
+source_release: '[[Releases/Codex CLI/codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1|codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1]]'
+source_type: github_releases
+theme: safety-privacy
+title: 25 Safety and Privacy changes in rust-v0.154.0
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 25 Safety and Privacy changes in rust-v0.154.0
+
+**Codex CLI** · 2026-09-09 · [[Themes/safety-privacy|Safety and Privacy]] · Digest · [Official source](https://github.com/openai/codex/releases/tag/rust-v0.154.0) · from [[Releases/Codex CLI/codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1|0.154.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+## Changes in this digest
+
+> Startup avoids running workspace-controlled helpers before trust is established, and the macOS sandbox blocks terminal input injection. (#42324, #42590)
+
+> #42309 Separate Windows sandbox provisioning from ACL refresh @copyberry
+
+> #42314 Preserve target-native cwd in permission approval requests @copyberry
+
+> #42324 Avoid executing PATH helpers before workspace trust @copyberry
+
+> #42330 Protect Windows sandbox binaries from inherited write access @copyberry
+
+> #42334 Add a Windows sandbox provisioning protocol @copyberry
+
+> #42337 Add an authenticated Windows sandbox provisioning client @copyberry
+
+> #42341 Add Windows sandbox service lifecycle scaffolding @copyberry
+
+> #42342 Harden Windows sandbox provisioning file handling @copyberry
+
+> #42344 Prepare managed policy validation for Windows sandbox provisioning @copyberry
+
+> #42348 Add Windows sandbox client authentication @copyberry
+
+> #42351 Enable authenticated Windows sandbox provisioning @copyberry
+
+> #42353 Add experimental Windows sandbox service provisioning @copyberry
+
+> #42375 Clean up Windows sandbox resources on app uninstall @copyberry
+
+> #42380 Require confirmation for safety-buffered retries @copyberry
+
+> #42453 Discover permission profiles from the app server @copyberry
+
+> #42590 Harden the macOS sandbox against terminal input injection @copyberry
+
+> #42596 Record Windows sandbox private desktop usage @copyberry
+
+> #42755 Stabilize the interactive tmux startup safety test @copyberry
+
+> #42801 Keep the Windows sandbox command runner hidden @copyberry
+
+> #42833 Preserve SystemRoot for Windows sandbox wrapper setup @copyberry
+
+> #42835 Preserve Windows managed deny reads in the sandbox CLI @copyberry
+
+> #42841 Add a native Windows MXC sandbox adapter @copyberry
+
+> #42870 Avoid redundant filesystem sandbox path resolution @copyberry
+
+> #43340 Enable remote named permission profile selection in the TUI @copyberry
+
+Source: https://github.com/openai/codex/releases/tag/rust-v0.154.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Codex CLI/2026-09-09-21-model-support-changes-in-rust-v0-154-0|21 Model Support changes in rust-v0.154.0]] · Model Support
+- [[Changes/Codex CLI/2026-09-09-5-account-and-access-changes-in-rust-v0-154-0|5 Account and Access changes in rust-v0.154.0]] · Account and Access
+- [[Changes/Codex CLI/2026-09-09-19-apps-and-integrations-changes-in-rust-v0-154-0|19 Apps and Integrations changes in rust-v0.154.0]] · Apps and Integrations
+- [[Changes/Codex CLI/2026-09-09-4-interface-experience-changes-in-rust-v0-154-0|4 Interface Experience changes in rust-v0.154.0]] · Interface Experience
+- [[Changes/Codex CLI/2026-09-09-17-context-window-changes-in-rust-v0-154-0|17 Context Window changes in rust-v0.154.0]] · Context Window
+- [[Changes/Codex CLI/2026-09-09-6-mobile-and-desktop-changes-in-rust-v0-154-0|6 Mobile and Desktop changes in rust-v0.154.0]] · Mobile and Desktop
+- [[Changes/Codex CLI/2026-09-09-gpt-6-astra-is-now-available-in-the-model-picker-and-amazon-bedrock-catalogs-428|GPT-6-Astra is now available in the model picker and Amazon Bedrock catalogs]] · Model Support
+- [[Changes/Codex CLI/2026-09-09-20-voice-and-audio-changes-in-rust-v0-154-0|20 Voice and Audio changes in rust-v0.154.0]] · Voice and Audio
+- [[Changes/Codex CLI/2026-09-09-2-memory-and-personalization-changes-in-rust-v0-154-0|2 Memory and Personalization changes in rust-v0.154.0]] · Memory and Personalization
+- [[Changes/Codex CLI/2026-09-09-experimental-worktree-support-lets-you-create-isolated-checkouts-for-new-or-fork|Experimental worktree support lets you create isolated checkouts for new or forked…]] · Search and Browsing
+- [[Changes/Codex CLI/2026-09-09-42746-handle-pending-network-reviews-after-process-completion-copyberry|♯42746 Handle pending network reviews after process completion @copyberry]] · Editor Experience
+- [[Changes/Codex CLI/2026-09-09-6-agent-mode-changes-in-rust-v0-154-0|6 Agent Mode changes in rust-v0.154.0]] · Agent Mode
+- [[Changes/Codex CLI/2026-09-09-42306-stabilize-the-detached-exec-server-session-resume-test-copyberry|♯42306 Stabilize the detached exec-server session resume test @copyberry]] · Projects and Workspaces
+- [[Changes/Codex CLI/2026-09-09-6-collaboration-changes-in-rust-v0-154-0|6 Collaboration changes in rust-v0.154.0]] · Collaboration
+- [[Changes/Codex CLI/2026-09-09-7-developer-workflow-changes-in-rust-v0-154-0|7 Developer Workflow changes in rust-v0.154.0]] · Developer Workflow
+- [[Changes/Codex CLI/2026-09-09-119-other-changes-in-rust-v0-154-0|119 other changes in rust-v0.154.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Safety and Privacy
+
+- Earlier: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-2-safety-and-privacy-changes-in-v2-1-267|2 Safety and Privacy changes in v2.1.267]]
+- Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-8-safety-and-privacy-changes-in-v2-1-268|8 Safety and Privacy changes in v2.1.268]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20codex-cli-2026-09-09-3b6304&body=Card%3A%20Changes%2FCodex%20CLI%2F2026-09-09-25-safety-and-privacy-changes-in-rust-v0-154-0.md%0ACard%20ID%3A%20codex-cli-2026-09-09-3b6304%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fopenai%2Fcodex%2Freleases%2Ftag%2Frust-v0.154.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

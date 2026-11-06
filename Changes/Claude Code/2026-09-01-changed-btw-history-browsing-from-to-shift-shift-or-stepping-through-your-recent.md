@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7077d930996eb594b2393db01edf8923a23ccaa0b5d2d216d4a0ebaa016a2a18
+machine_hash: 89673cf9ce09d7c4e6eecd2b4c76cf66629724c70fc306e978fa9d22fe5b5d8f
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: Changed `/btw` history browsing from `←`/`→` to `Shift+←`/`Shift+→` (or `[`/`]`)…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-22-changed-deep-research-to-start-only-when-invoked-manually-claude-no-longer-launc|Changed
-  /deep-research to start only when invoked manually]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-10-improve-teleported-subagent-tasks-navigation-with-nested-tree-browsing-current-a|Improve
+  teleported subagent /tasks navigation with nested tree browsing, current/all…]]'
 - '[[Changes/ChatGPT/2026-08-13-if-you-have-the-google-drive-plugin-connected-you-can-now-see-and-browse-your-go-97f18f|If
   you have the Google Drive plugin connected, you can now see and browse…]]'
 - '[[Changes/Cursor/2026-08-17-cursor-can-now-host-your-code|Cursor can now host your
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-08-17 · Cursor · [[Changes/Cursor/2026-08-17-cursor-can-now-host-your-code|Cursor can now host your code]]
-- Later: 2026-09-10 · ChatGPT · [[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-now-join-google-drive-in-chatgpt-library-once-connect|Box, Dropbox, and SharePoint now join Google Drive in ChatGPT Library]]
+- Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-experimental-worktree-support-lets-you-create-isolated-checkouts-for-new-or-fork|Experimental worktree support lets you create isolated checkouts for new or forked…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

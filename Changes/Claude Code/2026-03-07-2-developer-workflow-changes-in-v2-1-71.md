@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fb079e4c09994edc1b0ed3ea75ac6c6c3e8289607226bd85aec73014ab355122
+machine_hash: ea80a9aba67a4342a5c2ce4610caf836ed0f3a8fb91cd2c9629ff7db79d52400
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.71
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-03-3-developer-workflow-changes-in-2-6|3 Developer Workflow
-  changes in 2.6]]'
-- '[[Changes/Cursor/2026-03-03-this-release-introduces-interactive-uis-in-agent-chats-a-way-for-teams-to-share|Cursor
-  introduces interactive UIs in agent chats, a way for teams to share private…]]'
-- '[[Changes/Claude Code/2026-03-05-6-developer-workflow-changes-in-v2-1-69|6 Developer
-  Workflow changes in v2.1.69]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-05-3-developer-workflow-changes-in-v0-0-422|3
+  Developer Workflow changes in v0.0.422]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-06-2-developer-workflow-changes-in-v1-0-2|2
+  Developer Workflow changes in v1.0.2]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-06-users-are-prompted-for-shell-commands-with-potentially-dangerous-expansion-or-su|Users
+  are prompted for shell commands with potentially dangerous expansion…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-07-v2-1-71-github-294146317-ab5a32e0|claude-code-2026-03-07-v2-1-71-github-294146317-ab5a32e0]]'
 source_type: github_releases
 theme: developer-workflow
@@ -86,8 +86,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.71
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-6-developer-workflow-changes-in-v2-1-69|6 Developer Workflow changes in v2.1.69]]
-- Later: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-3-developer-workflow-changes-in-v2-1-72|3 Developer Workflow changes in v2.1.72]]
+- Earlier: 2026-03-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-06-users-are-prompted-for-shell-commands-with-potentially-dangerous-expansion-or-su|Users are prompted for shell commands with potentially dangerous expansion…]]
+- Later: 2026-03-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-09-5-developer-workflow-changes-in-v1-0-3|5 Developer Workflow changes in v1.0.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

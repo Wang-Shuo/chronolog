@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 99ecff57e6e230a40945d016b0202e9b8ab341e89e8caa44b9e1e611f182521c
+machine_hash: 479c5f0b039a2b88c1d43f4e8881d7d82b7178a82d3bd571ce427f722f926465
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.251
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-25-2-developer-workflow-changes-in-v2-1-246|2 Developer
-  Workflow changes in v2.1.246]]'
-- '[[Changes/Claude Code/2026-08-26-changed-terminal-hyperlinks-in-rendered-markdown-link-targets-that-point-at-a-ne|Changed
-  terminal hyperlinks in rendered markdown]]'
+- '[[Changes/Codex CLI/2026-08-26-15-developer-workflow-changes-in-rust-v0-150-0|15
+  Developer Workflow changes in rust-v0.150.0]]'
 - '[[Changes/Claude Code/2026-08-27-changed-anthropic-telemetry-export-failures-to-log-at-debug-level-as-anthropic-t|Changed
   Anthropic telemetry export failures to log at debug level…]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-27-5-developer-workflow-changes-in-v1-0-81|5
+  Developer Workflow changes in v1.0.81]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96|claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96]]'
 source_type: github_releases
 theme: developer-workflow
@@ -97,8 +97,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.251
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-changed-anthropic-telemetry-export-failures-to-log-at-debug-level-as-anthropic-t|Changed Anthropic telemetry export failures to log at debug level…]]
-- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-3-developer-workflow-changes-in-v2-1-257|3 Developer Workflow changes in v2.1.257]]
+- Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-5-developer-workflow-changes-in-v1-0-81|5 Developer Workflow changes in v1.0.81]]
+- Later: 2026-08-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-29-a-message-typed-while-worktree-or-move-is-preparing-the-worktree-no-longer-break|A message typed while /worktree or /move is preparing the worktree no longer breaks…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ae471e995685dbf4538167751c456bc714cc35520ddf44c16a38770b34605238
+machine_hash: 0414771a156c6081fa80f3c7a81ca596bb16ebbfc097cda623c57a98948dda6a
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,10 @@ record:
   title: 4 Developer Workflow changes in v2.1.121
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-23-4-developer-workflow-changes-in-v2-1-119|4 Developer
-  Workflow changes in v2.1.119]]'
-- '[[Changes/Claude Code/2026-04-23-wsl-on-windows-can-now-inherit-windows-side-managed-settings-via-the-wslinherits|WSL
-  on Windows can now inherit Windows-side managed settings…]]'
+- '[[Changes/Codex CLI/2026-04-24-2-developer-workflow-changes-in-rust-v0-125-0|2
+  Developer Workflow changes in rust-v0.125.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-24-2-developer-workflow-changes-in-v1-0-36|2
+  Developer Workflow changes in v1.0.36]]'
 - '[[Changes/Claude Code/2026-04-28-opentelemetry-added-claude-code-at-mention-log-event-for-mention-resolution|OpenTelemetry:
   added claude_code.at_mention log event for @-mention resolution]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce|claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce]]'
@@ -99,7 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.121
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-opentelemetry-added-claude-code-at-mention-log-event-for-mention-resolution|OpenTelemetry: added claude_code.at_mention log event for @-mention resolution]]
-- Later: 2026-04-29 · Cursor · [[Changes/Cursor/2026-04-29-added-first-class-run-streaming-with-sse-events-reconnect-support-via-last-event|Added first-class run streaming with SSE events, reconnect support…]]
+- Later: 2026-04-28 · Gemini CLI · [[Changes/Gemini CLI/2026-04-28-3-developer-workflow-changes-in-v0-40-0|3 Developer Workflow changes in v0.40.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e343cd3736ba3f22475c8bd15be6a509b0637971ce4a2ae5751b9603d3477f94
+machine_hash: b4618d4a699810de7c3a7ced62f70f78c66c5586fc4b0553b9f4c150859401b1
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     queued
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-04-added-session-resume-hint-on-exit-showing-how-to-continue-your-conversation-late|Added
-  session resume hint on exit, showing how to continue your conversation later]]'
 - '[[Changes/Claude Code/2026-02-17-improved-startup-performance-by-removing-eager-loading-of-session-history-for-st|Improved
   startup performance by removing eager loading of session history for stats…]]'
 - '[[Changes/ChatGPT/2026-02-25-sources-from-chats-save-useful-chatgpt-responses-into-your-project-so-great-outp|Sources
   from chats]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-27-add-chronicle-command-with-standup-tips-and-improve-subcommands-powered-by-sessi|Add
+  /chronicle command with standup, tips, and improve subcommands powered…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-06-v2-1-70-github-293754953-afac13c0|claude-code-2026-03-06-v2-1-70-github-293754953-afac13c0]]'
 source_type: github_releases
 theme: projects-workspaces
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2026-02-25 · ChatGPT · [[Changes/ChatGPT/2026-02-25-sources-from-chats-save-useful-chatgpt-responses-into-your-project-so-great-outp|Sources from chats]]
+- Earlier: 2026-02-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-27-add-chronicle-command-with-standup-tips-and-improve-subcommands-powered-by-sessi|Add /chronicle command with standup, tips, and improve subcommands powered…]]
 - Later: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-added-n-name-name-cli-flag-to-set-a-display-name-for-the-session-at-startup|Added -n / --name name CLI flag to set a display name for the session at startup]]
 <!-- chronolog:end -->
 

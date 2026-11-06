@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 07ae7d1bc5f488dad6cd8834ebb32d9305207fcf8faad24f7dd5cb8d05ad97cc
+machine_hash: ea5d5b29c5ed57432e905d5a27cd35b732a7347c3331a3675a54dca4a43c70fa
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,11 +47,12 @@ record:
   title: '[VSCode] Added Focus view'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-17-interaction-improvements-dee44a|Interaction improvements]]'
-- '[[Changes/Claude Code/2026-07-24-2-interface-experience-changes-in-v2-1-219|2 Interface
-  Experience changes in v2.1.219]]'
-- '[[Changes/Cursor/2026-07-28-existing-free-users-in-india-can-upgrade-their-plan-from-the-dashboard-new-users-aeb811|Existing
-  Free users in India can upgrade their plan from the dashboard]]'
+- '[[Changes/Codex CLI/2026-07-29-8-interface-experience-changes-in-rust-v0-146-0|8
+  Interface Experience changes in rust-v0.146.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-30-4-interface-experience-changes-in-v1-0-76|4
+  Interface Experience changes in v1.0.76]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-03-2-interface-experience-changes-in-v1-0-78|2
+  Interface Experience changes in v1.0.78]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce|claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce]]'
 source_type: github_releases
 theme: interface-experience
@@ -87,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-28 · Cursor · [[Changes/Cursor/2026-07-28-existing-free-users-in-india-can-upgrade-their-plan-from-the-dashboard-new-users-aeb811|Existing Free users in India can upgrade their plan from the dashboard]]
-- Later: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-improved-fullscreen-mode-to-keep-the-full-pre-compaction-history-in-scrollback-a|Improved fullscreen mode to keep the full pre-compaction history in scrollback…]]
+- Earlier: 2026-08-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-03-2-interface-experience-changes-in-v1-0-78|2 Interface Experience changes in v1.0.78]]
+- Later: 2026-08-05 · Cline · [[Changes/Cline/2026-08-05-3-interface-experience-changes-in-v4-1-4|3 Interface Experience changes in v4.1.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -1,0 +1,89 @@
+---
+card_id: cline-2026-02-18-a36666
+date: '2026-02-18'
+description: 'Cline · 2026-02-18 · Developer Workflow: Add /skills slash command to
+  CLI for viewing and managing installed skills'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1068
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: developer-workflow
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: 58d4e5c71e53f204e2ab5dc46d116c937d6a8e90330a3152d1eadc9acf7508ff
+product: cline
+product_name: Cline
+record:
+  card_id: cline-2026-02-18-a36666
+  comparison: ''
+  date: '2026-02-18'
+  description: 'Cline — v3.65.0: Add /skills slash command to CLI for viewing and
+    managing installed skills'
+  evidence:
+  - quote: Add /skills slash command to CLI for viewing and managing installed skills
+    source_release: https://github.com/cline/cline/releases/tag/v3.65.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: cline
+  product_name: Cline
+  slug: add-skills-slash-command-to-cli-for-viewing-and-managing-installed-skills
+  source_release: cline-2026-02-18-v3-65-0-github-287866977-22d588d3
+  source_type: github_releases
+  theme: developer-workflow
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: Add /skills slash command to CLI for viewing and managing installed skills
+  type: change
+related_changes:
+- '[[Changes/GitHub Copilot CLI/2026-02-17-2-developer-workflow-changes-in-v0-0-411|2
+  Developer Workflow changes in v0.0.411]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-17-autopilot-mode-and-fleet-command-now-available-to-all-users|Autopilot
+  mode and /fleet command now available to all users]]'
+- '[[Changes/Claude Code/2026-02-18-the-rename-command-now-updates-the-terminal-tab-title-by-default-anthropics-clau|The
+  /rename command now updates the terminal tab title by default…]]'
+source_release: '[[Releases/Cline/cline-2026-02-18-v3-65-0-github-287866977-22d588d3|cline-2026-02-18-v3-65-0-github-287866977-22d588d3]]'
+source_type: github_releases
+theme: developer-workflow
+title: Add /skills slash command to CLI for viewing and managing installed skills
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Add /skills slash command to CLI for viewing and managing installed skills
+
+**Cline** · 2026-02-18 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://github.com/cline/cline/releases/tag/v3.65.0) · from [[Releases/Cline/cline-2026-02-18-v3-65-0-github-287866977-22d588d3|v3.65.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Add /skills slash command to CLI for viewing and managing installed skills
+>
+> Source: https://github.com/cline/cline/releases/tag/v3.65.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Developer Workflow
+
+- Earlier: 2026-02-18 · Claude Code · [[Changes/Claude Code/2026-02-18-the-rename-command-now-updates-the-terminal-tab-title-by-default-anthropics-clau|The /rename command now updates the terminal tab title by default…]]
+- Later: 2026-02-18 · Codex CLI · [[Changes/Codex CLI/2026-02-18-2-developer-workflow-changes-in-rust-v0-104-0|2 Developer Workflow changes in rust-v0.104.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cline-2026-02-18-a36666&body=Card%3A%20Changes%2FCline%2F2026-02-18-add-skills-slash-command-to-cli-for-viewing-and-managing-installed-skills.md%0ACard%20ID%3A%20cline-2026-02-18-a36666%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fcline%2Fcline%2Freleases%2Ftag%2Fv3.65.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

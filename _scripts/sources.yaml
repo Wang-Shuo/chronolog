@@ -41,10 +41,13 @@ products:
     language: en
   - name: aider
     display_name: Aider
-    enabled: false
     feed_type: github_releases
     repo: Aider-AI/aider
     backfill: full
+    max_staleness_days: 2
+    include_prereleases: false
+    tag_pattern: '^v\d+\.\d+\.\d+$'
+    known_gaps: Stable versioned GitHub releases only; preview builds and unannounced changes are excluded. The latest upstream release may be older than the last successful fetch.
     themes: [agent-mode, model-support, editor-experience]
     track_silence: true
     silence_window: month
@@ -77,11 +80,90 @@ products:
     language: en
   - name: openhands
     display_name: OpenHands
-    enabled: false
     feed_type: github_releases
-    repo: All-Hands-AI/OpenHands
+    repo: OpenHands/OpenHands
     backfill: full
+    max_staleness_days: 2
+    include_prereleases: false
+    tag_pattern: '^v?\d+\.\d+\.\d+$'
+    known_gaps: Stable versioned releases of the OpenHands application available from its current repository. SDK releases, preview builds and temporary PR evidence uploads are excluded; endpoint coverage does not establish the product's launch date.
     themes: [agent-mode, model-support]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: codex-cli
+    display_name: Codex CLI
+    feed_type: github_releases
+    repo: openai/codex
+    # Binary asset metadata makes 100-item responses large enough to time out.
+    github_page_size: 20
+    backfill: full
+    max_staleness_days: 2
+    include_prereleases: false
+    tag_pattern: '^(?:rust-)?v\d+\.\d+\.\d+$'
+    known_gaps: Stable versioned Codex CLI releases only; alpha builds, SDK-only releases, the Codex app and cloud-only announcements are outside this source's scope.
+    themes: [agent-mode, model-support, context-window, developer-workflow, apps-integrations, safety-privacy, automation-scheduling]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: gemini-cli
+    display_name: Gemini CLI
+    feed_type: github_releases
+    repo: google-gemini/gemini-cli
+    backfill: full
+    max_staleness_days: 2
+    include_prereleases: false
+    tag_pattern: '^v\d+\.\d+\.\d+$'
+    known_gaps: Stable versioned Gemini CLI releases only; nightly and preview builds are excluded. This is not the Gemini consumer app or the Gemini API changelog.
+    themes: [agent-mode, model-support, context-window, developer-workflow, apps-integrations, safety-privacy]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: github-copilot-cli
+    display_name: GitHub Copilot CLI
+    feed_type: github_releases
+    repo: github/copilot-cli
+    backfill: full
+    max_staleness_days: 2
+    include_prereleases: false
+    tag_pattern: '^v\d+\.\d+\.\d+$'
+    known_gaps: Stable versioned GitHub Copilot CLI releases only; prereleases are excluded. Copilot's IDE, web and other product surfaces have separate release histories.
+    themes: [agent-mode, model-support, developer-workflow, apps-integrations, safety-privacy, enterprise-admin]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: cline
+    display_name: Cline
+    feed_type: github_releases
+    repo: cline/cline
+    backfill: full
+    max_staleness_days: 2
+    include_prereleases: false
+    tag_pattern: '^v\d+\.\d+\.\d+$'
+    known_gaps: Stable versioned Cline application releases only; separately tagged SDK and CLI packages and preview builds are excluded.
+    themes: [agent-mode, model-support, editor-experience, context-window, apps-integrations, safety-privacy]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: windsurf
+    display_name: Windsurf
+    feed_type: windsurf_changelog
+    url: https://docs.devin.ai/desktop/changelog
+    markdown_url: https://docs.devin.ai/desktop/changelog.md
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: Windsurf's official changelog now continues as Devin Desktop. Only the stable desktop changelog is tracked, from the earliest entry still on the page; Next previews, Windsurf plugins and Devin Cloud have separate histories.
+    themes: [agent-mode, model-support, editor-experience, context-window, apps-integrations, enterprise-admin, safety-privacy]
     track_silence: true
     silence_window: month
     silence_periods: 2

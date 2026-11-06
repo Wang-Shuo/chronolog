@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 8505b660e64a0e7e81bfb47fcffd73198350e6956aa283dd405b109b5fc11878
+machine_hash: 47d080a440c541f782ba4553fdfb14e5f21207d64d029720b8227857833e9e26
 product: cursor
 product_name: Cursor
 record:
@@ -54,10 +54,10 @@ record:
   title: New cloud agent hooks
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-08-3-agent-mode-changes-in-v2-1-205|3 Agent Mode
-  changes in v2.1.205]]'
-- '[[Changes/ChatGPT/2026-07-09-chatgpt-work-is-an-agent-for-longer-more-involved-tasks-it-can-research-and-anal|ChatGPT
-  Work is an agent for longer, more involved tasks]]'
+- '[[Changes/Codex CLI/2026-07-09-4-agent-mode-changes-in-rust-v0-144-0|4 Agent Mode
+  changes in rust-v0.144.0]]'
+- '[[Changes/OpenHands/2026-07-09-feat-enterprise-agent-profiles-on-the-cloud-saas-backend-15044-by-simonrosenberg|feat(enterprise):
+  Agent Profiles on the cloud/SaaS backend (♯15044)]]'
 - '[[Changes/Claude Code/2026-07-10-2-agent-mode-changes-in-v2-1-206|2 Agent Mode
   changes in v2.1.206]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d|cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d]]'
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-10 · Claude Code · [[Changes/Claude Code/2026-07-10-2-agent-mode-changes-in-v2-1-206|2 Agent Mode changes in v2.1.206]]
-- Later: 2026-07-11 · Claude Code · [[Changes/Claude Code/2026-07-11-2-agent-mode-changes-in-v2-1-207|2 Agent Mode changes in v2.1.207]]
+- Later: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-3-agent-mode-changes-in-v1-0-70|3 Agent Mode changes in v1.0.70]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

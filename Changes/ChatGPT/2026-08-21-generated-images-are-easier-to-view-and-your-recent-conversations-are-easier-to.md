@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e2428f96d7e17bf8a04f1b9a73d66bb06b0d3e4bf48aeb5f3dfd2d4f20c23b97
+machine_hash: 002e872922ba9254095aa45455dc744e390108e4fadeed23bb01cba0f2dc624b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,10 +53,10 @@ record:
     to browse
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-19-changed-the-model-picker-to-highlight-only-the-newest-model-s-name-so-the-highli|Changed
-  the /model picker to highlight only the newest model''s name…]]'
 - '[[Changes/Claude Code/2026-08-20-changed-ctrl-l-and-cmd-k-in-fullscreen-to-always-just-repaint-the-double-press-c|Changed
   Ctrl+L and Cmd+K in fullscreen to always just repaint]]'
+- '[[Changes/Codex CLI/2026-08-20-3-interface-experience-changes-in-rust-v0-149-0|3
+  Interface Experience changes in rust-v0.149.0]]'
 - '[[Changes/ChatGPT/2026-08-21-keep-recent-chats-easier-to-browse-your-sidebar-now-shows-up-to-eight-recent-con|Keep
   recent chats easier to browse]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-21-updates-to-chatgpt-on-android-8e3bdeee|chatgpt-2026-08-21-updates-to-chatgpt-on-android-8e3bdeee]]'
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-changed-ctrl-l-and-cmd-k-in-fullscreen-to-always-just-repaint-the-double-press-c|Changed Ctrl+L and Cmd+K in fullscreen to always just repaint]]
+- Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-3-interface-experience-changes-in-rust-v0-149-0|3 Interface Experience changes in rust-v0.149.0]]
 - Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-3-interface-experience-changes-in-v2-1-239|3 Interface Experience changes in v2.1.239]]
 <!-- chronolog:end -->
 

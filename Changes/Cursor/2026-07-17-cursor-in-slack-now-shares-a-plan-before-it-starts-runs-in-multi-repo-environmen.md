@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3fc15d568cff0469632da6596e8350765faf2df49240fb6cb6a475710e1627f1
+machine_hash: 8405c0cd641f39a47d475251e0aecf24e8d21766cbad847a971b16e4d69deedd
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,10 @@ record:
   title: Cursor in Slack now shares a plan before it starts, runs in multi-repo environments…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-3-apps-and-integrations-changes-in-v2-1-208|3
-  Apps and Integrations changes in v2.1.208]]'
 - '[[Changes/Claude Code/2026-07-15-2-apps-and-integrations-changes-in-v2-1-211|2
   Apps and Integrations changes in v2.1.211]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-16-16-apps-and-integrations-changes-in-v1-0-71|16
+  Apps and Integrations changes in v1.0.71]]'
 - '[[Changes/Claude Code/2026-07-17-mcp-tool-calls-running-longer-than-2-minutes-now-move-to-the-background-automati|MCP
   tool calls running longer than 2 minutes now move to the background…]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6|cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7496b54408349fa1cc8086b099ecd8e8fe8733e5f9b3e46521232143843ac4b2
+machine_hash: 903481905c7a38e9a96f51219c6e2b762b155025eceae4981e4e1959349cfdb5
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: Changed `/skills` menu to sort alphabetically for easier scanning
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-25-2-interface-experience-changes-in-v2-1-83|2 Interface
-  Experience changes in v2.1.83]]'
-- '[[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|A
-  simplified sidebar on mobile]]'
 - '[[Changes/Claude Code/2026-03-26-improved-mention-file-autocomplete-performance-on-large-repositories|Improved
   @-mention file autocomplete performance on large repositories]]'
+- '[[Changes/Codex CLI/2026-03-26-3-interface-experience-changes-in-rust-v0-117-0|3
+  Interface Experience changes in rust-v0.117.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-26-3-interface-experience-changes-in-v1-0-12|3
+  Interface Experience changes in v1.0.12]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859|claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859]]'
 source_type: github_releases
 theme: interface-experience
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-improved-mention-file-autocomplete-performance-on-large-repositories|Improved @-mention file autocomplete performance on large repositories]]
-- Later: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-changed-resume-picker-to-no-longer-show-sessions-created-by-claude-p-or-sdk-invo|Changed --resume picker to no longer show sessions created by claude -p or SDK…]]
+- Earlier: 2026-03-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-26-3-interface-experience-changes-in-v1-0-12|3 Interface Experience changes in v1.0.12]]
+- Later: 2026-03-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-30-2-interface-experience-changes-in-v1-0-13|2 Interface Experience changes in v1.0.13]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

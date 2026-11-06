@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b01d4af8225123541243a4a873afd0187f67cb8c0ddfc857e7c52e1bba6bc01c
+machine_hash: fa679ce1986471abc8aee82f289a7c2b6d61f941260aeb196dbe3a2657cfa21d
 product: cursor
 product_name: Cursor
 record:
@@ -46,10 +46,10 @@ record:
   title: Apply chat suggestions
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-21-hacky-first-version-of-cmd-k-in-the-terminal-let-us-know-what-you-think|Cmd-K
-  in the terminal!]]'
-- '[[Changes/Cursor/2023-09-27-you-can-now-use-an-early-preview-of-edit-in-the-chat-it-s-significantly-faster-a|/edit
-  in chat]]'
+- '[[Changes/Aider/2023-10-29-2-editor-experience-changes-in-v0-16-0|2 Editor Experience
+  changes in v0.16.0]]'
+- '[[Changes/Aider/2023-10-31-2-editor-experience-changes-in-v0-16-1|2 Editor Experience
+  changes in v0.16.1]]'
 - '[[Changes/Cursor/2023-11-03-cmd-k-diffs-these-now-obey-word-wrap-you-can-also-copy-from-the-red-text|Cmd-K
   diffs: these now obey word-wrap!]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-10-0-15-0-0-15-1-https-cursor-com-changelog-0-15-0-0-15-1-9dc9cadb|cursor-2023-11-10-0-15-0-0-15-1-https-cursor-com-changelog-0-15-0-0-15-1-9dc9cadb]]'

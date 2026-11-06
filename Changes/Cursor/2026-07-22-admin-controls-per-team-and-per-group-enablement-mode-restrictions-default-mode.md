@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8b111e9b19f7b95b0b21cbba035cc42acfa97faf91112f3c950c855a10cb10cd
+machine_hash: f4ca219befc93f3ed433297a67da7f9900911aa054a7e47ad6158de0a706d6ea
 product: cursor
 product_name: Cursor
 record:
@@ -54,12 +54,12 @@ record:
     mode…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-30-marketplace-access-by-organization-group-a2cf9b|Marketplace
-  access by organization group]]'
-- '[[Changes/Cursor/2026-06-30-we-ve-expanded-team-marketplaces-to-support-team-mcps-and-organization-groups|Cursor
-  expands team marketplaces to support Team MCPs and organization groups]]'
-- '[[Changes/ChatGPT/2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w|Existing
-  group chats will remain available and can continue to be used for now]]'
+- '[[Changes/Codex CLI/2026-07-09-31587-stabilize-shared-rollout-budget-test-jif-oai|♯31587
+  Stabilize shared rollout budget test @jif-oai]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-16-2-collaboration-changes-in-v1-0-71|2 Collaboration
+  changes in v1.0.71]]'
+- '[[Changes/Codex CLI/2026-07-21-4-collaboration-changes-in-rust-v0-145-0|4 Collaboration
+  changes in rust-v0.145.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4|cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -95,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w|Existing group chats will remain available and can continue to be used for now]]
-- Later: 2026-07-29 · Cursor · [[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch between teams that you belong to directly in the app]]
+- Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-4-collaboration-changes-in-rust-v0-145-0|4 Collaboration changes in rust-v0.145.0]]
+- Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-3-collaboration-changes-in-rust-v0-146-0|3 Collaboration changes in rust-v0.146.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 50dfacd93f38c182688f3b6482d2fa825f5b58728460ee7912e40928b3a4ad75
+machine_hash: 020c94cbb3af3e4d0473e223d31acf1b216fb2a9d4704326e950bf3b26aa9056
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ record:
   title: All tasks are faster and more reliable
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-10-the-average-review-time-for-bugbot-is-now-90-seconds-down-from-5-minutes-bugbot-362593|The
-  average review time for Bugbot is now ~90 seconds, down from ~5 minutes]]'
-- '[[Changes/Claude Code/2026-06-12-2-reliability-and-performance-changes-in-v2-1-176|2
-  Reliability and Performance changes in v2.1.176]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-13-speed-up-branch-and-head-detection-in-warm-sessions|Speed
+  up branch and HEAD detection in warm sessions]]'
+- '[[Changes/Codex CLI/2026-06-15-3-reliability-and-performance-changes-in-rust-v0-140-0|3
+  Reliability and Performance changes in rust-v0.140.0]]'
 - '[[Changes/ChatGPT/2026-06-17-with-scheduled-tasks-users-can-ask-chatgpt-to-send-reminders-handle-recurring-wo|With
   scheduled tasks, users can ask ChatGPT to send reminders, handle recurring…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a|chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a]]'
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-2-reliability-and-performance-changes-in-v2-1-176|2 Reliability and Performance changes in v2.1.176]]
+- Earlier: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-3-reliability-and-performance-changes-in-rust-v0-140-0|3 Reliability and Performance changes in rust-v0.140.0]]
 - Later: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-improved-auto-retry-api-connection-drops-mid-thinking-now-automatically-retry-in|Improved auto-retry: API connection drops mid-thinking now automatically retry…]]
 <!-- chronolog:end -->
 

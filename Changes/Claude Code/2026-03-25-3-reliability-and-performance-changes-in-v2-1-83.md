@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b2c3142bff84212efcfef3ce99dc0588706de646129d3ce094c6800c9f0f616b
+machine_hash: c2b607af096633446ecfa1f97145e4be281f09e9a8f5365a6e51b6b547180382
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Reliability and Performance changes in v2.1.83
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-18-2-reliability-and-performance-changes-in-v2-1-79|2
-  Reliability and Performance changes in v2.1.79]]'
-- '[[Changes/Claude Code/2026-03-19-reduced-memory-usage-on-startup-in-large-repositories-80-mb-saved-on-250k-file-r|Reduced
-  memory usage on startup in large repositories (~80 MB saved on 250k-file repos)]]'
-- '[[Changes/Cursor/2026-03-19-composer-2-is-now-available-in-cursor-frontier-level-coding-performance-with-str|Composer
-  2 is now available in Cursor]]'
+- '[[Changes/Windsurf/2026-03-19-various-bug-fixes-and-performance-improvements|Various
+  bug fixes and performance improvements]]'
+- '[[Changes/Cline/2026-03-20-latency-improvements-for-remote-workspaces|Latency improvements
+  for remote workspaces]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-20-reduced-memory-usage-when-viewing-large-files-in-their-entirety|Reduced
+  memory usage when viewing large files in their entirety]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317|claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317]]'
 source_type: github_releases
 theme: reliability-performance
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.83
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-19 · Cursor · [[Changes/Cursor/2026-03-19-composer-2-is-now-available-in-cursor-frontier-level-coding-performance-with-str|Composer 2 is now available in Cursor]]
+- Earlier: 2026-03-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-20-reduced-memory-usage-when-viewing-large-files-in-their-entirety|Reduced memory usage when viewing large files in their entirety]]
 - Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-2-reliability-and-performance-changes-in-v2-1-84|2 Reliability and Performance changes in v2.1.84]]
 <!-- chronolog:end -->
 

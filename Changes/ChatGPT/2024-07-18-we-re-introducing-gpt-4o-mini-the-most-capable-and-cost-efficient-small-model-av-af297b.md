@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 1c16aaf00b91bf9e2f914fdbe049728e355abdadaed4ba7961ffc1f3f78c8e57
+machine_hash: fa34d70bbe23c007e71ef0e76e29cb4d077d46cfaac1933f68cd52766c720583
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -77,11 +77,11 @@ record:
   title: Introducing GPT-4o mini
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-05-26-gemini-1-5-flash-is-available-in-long-context-mode|Gemini
-  1.5 Flash is available in long-context mode]]'
-- '[[Changes/Cursor/2024-05-26-gpt-4o-in-interpreter-mode|GPT-4o in Interpreter Mode]]'
-- '[[Changes/Cursor/2024-06-08-update-0-35-1-disables-copilot-partial-accepts-by-default-and-makes-the-keybindi|UPDATE
-  (0.35.1): Disables Copilot++ partial accepts by default and makes…]]'
+- '[[Changes/Aider/2024-07-07-2-model-support-changes-in-v0-43-0|2 Model Support changes
+  in v0.43.0]]'
+- '[[Changes/Aider/2024-07-16-simplified-output-of-models|Simplified output of --models]]'
+- '[[Changes/Aider/2024-07-18-gpt-4o-mini-scores-like-the-original-gpt-3-5-on-aider-s-code-editing-benchmark-u|GPT
+  4o mini scores like the original GPT 3.5 on aider''s code editing benchmark…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-07-18-introducing-gpt-4o-mini-e0bf3077|chatgpt-2024-07-18-introducing-gpt-4o-mini-e0bf3077]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -108,8 +108,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-06-08 · Cursor · [[Changes/Cursor/2024-06-08-update-0-35-1-disables-copilot-partial-accepts-by-default-and-makes-the-keybindi|UPDATE (0.35.1): Disables Copilot++ partial accepts by default and makes…]]
-- Later: 2024-07-23 · Cursor · [[Changes/Cursor/2024-07-23-new-default-model-we-ve-made-claude-3-5-sonnet-the-default-model-for-users|New Default Model: We've made Claude 3.5 Sonnet the default model for users]]
+- Earlier: 2024-07-18 · Aider · [[Changes/Aider/2024-07-18-gpt-4o-mini-scores-like-the-original-gpt-3-5-on-aider-s-code-editing-benchmark-u|GPT 4o mini scores like the original GPT 3.5 on aider's code editing benchmark…]]
+- Later: 2024-07-19 · OpenHands · [[Changes/OpenHands/2024-07-19-4-model-support-changes-in-0-8-1|4 Model Support changes in 0.8.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

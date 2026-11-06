@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6e747ed61797a984ad33a59dd7f7b3af475efde21144c05007e324abfc33ef9a
+machine_hash: 7b2d3ad94b7a459c0c9b442de9c8453fd4feea529e7d745357bf28cb6e9d2041
 product: cursor
 product_name: Cursor
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-3-developer-workflow-changes-in-v2-1-97|3 Developer Workflow changes in v2.1.97]]
-- Later: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-6-developer-workflow-changes-in-v2-1-98|6 Developer Workflow changes in v2.1.98]]
+- Later: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-3-developer-workflow-changes-in-v0-37-0|3 Developer Workflow changes in v0.37.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

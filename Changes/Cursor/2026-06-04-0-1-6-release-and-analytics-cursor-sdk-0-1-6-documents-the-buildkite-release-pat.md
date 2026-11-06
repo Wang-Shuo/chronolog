@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3c2eb2c62c54e9e107c8e633d72e5c239966b82f400bf4fd9d4171a047cd0beb
+machine_hash: 9c373419efc4fa4fc6896efd3a94ee00c89ee77da998a3e9b1709c36d36a49b0
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,8 @@ record:
   title: 0.1.6 release and analytics
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-05-15-we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user|Personal
-  finances in ChatGPT]]'
+- '[[Changes/Codex CLI/2026-06-04-25682-codex-document-out-of-line-test-module-convention-anp-oai|♯25682
+  codex document out-of-line test module convention @anp-oai]]'
 - '[[Changes/Cursor/2026-06-04-design-mode-is-now-available-in-canvases|Design Mode
   in canvases]]'
 - '[[Changes/Cursor/2026-06-04-improved-the-agent-s-ability-to-fix-canvas-type-errors|Improved

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 04645c4e8d5e6794072d33be6a3f2b90242b08ff418ef40cdd57d38dfa14e109
+machine_hash: 3633065af86f23cf5dc6d58c5cc94c99db567f29694776c2f556c76bd7b3c99f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -89,12 +89,12 @@ record:
     users…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-added-max-mode-on-off-to-toggle-max-mode-on-models-that-support-it-in-cli|Added
-  /max-mode on / off to toggle max mode on models that support it in CLI]]'
-- '[[Changes/ChatGPT/2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta|Retiring
-  GPT-4o and other legacy models]]'
+- '[[Changes/Codex CLI/2026-02-02-10373-chore-core-gpt-5-2-codex-personality-template-dylan-hurd-oai|♯10373
+  chore(core) gpt-5.2-codex personality template @dylan-hurd-oai]]'
 - '[[Changes/Claude Code/2026-02-03-changed-model-to-execute-immediately-instead-of-being-queued|Changed
   /model to execute immediately instead of being queued]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-03-improve-handling-of-chat-history-when-switching-between-model-families|Improve
+  handling of chat history when switching between model families]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-04-update-on-thinking-time-settings-for-gpt-5-2-thinking-in-chatgpt-6e7ea431|chatgpt-2026-02-04-update-on-thinking-time-settings-for-gpt-5-2-thinking-in-chatgpt-6e7ea431]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -122,7 +122,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-changed-model-to-execute-immediately-instead-of-being-queued|Changed /model to execute immediately instead of being queued]]
+- Earlier: 2026-02-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-03-improve-handling-of-chat-history-when-switching-between-model-families|Improve handling of chat history when switching between model families]]
 - Later: 2026-02-04 · Claude Code · [[Changes/Claude Code/2026-02-04-improved-system-prompts-to-more-clearly-guide-the-model-toward-using-dedicated-t|Improved system prompts to more clearly guide the model toward using dedicated tools…]]
 <!-- chronolog:end -->
 

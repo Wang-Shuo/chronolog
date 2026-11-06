@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 91d4308d92f837969adc31c6a39cb1de0c13d9413365a083e6585b681bf535c6
+machine_hash: e6b1af634d726b20a92ff2c1eaaa6d232b4b1f64dc8b273e7bf8282d1790d5dd
 product: cursor
 product_name: Cursor
 record:
@@ -96,7 +96,7 @@ Source: https://cursor.com/changelog/3-1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-10 · Claude Code · [[Changes/Claude Code/2026-04-10-ultraplan-and-other-remote-session-features-now-auto-create-a-default-cloud-envi|/ultraplan and other remote-session features now auto-create a default cloud…]]
+- Earlier: 2026-04-11 · Codex CLI · [[Changes/Codex CLI/2026-04-11-4-agent-mode-changes-in-rust-v0-120-0|4 Agent Mode changes in rust-v0.120.0]]
 - Later: 2026-04-14 · Cursor · [[Changes/Cursor/2026-04-14-ask-a-quick-side-question-without-derailing-the-agent-s-main-task-btw-allows-you|/btw support in CLI]]
 <!-- chronolog:end -->
 

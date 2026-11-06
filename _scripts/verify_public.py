@@ -19,9 +19,17 @@ def verify(base: str, commit: str, fetch) -> dict:
     index=json.loads(raw)
     if 'index' not in index or any(s.startswith(('_review/','_inputs/','docs/','tests/')) for s in index):
         raise ValueError('public index includes internal content or lacks home')
-    for name in ('Aider','Continue','Tabby','OpenHands'):
-        if any('/'+name+'/' in s or s=='Products/'+name for s in index):
-            raise ValueError('fixture entered public index')
+    declared = identity.get('product_slugs')
+    if (not isinstance(declared, list) or not declared
+            or any(not isinstance(slug, str) or not slug.startswith('Products/') for slug in declared)
+            or len(set(declared)) != len(declared)):
+        raise ValueError('deployment manifest is missing a valid product catalog')
+    products = {slug for slug in index if slug.startswith('Products/')}
+    names = {slug.removeprefix('Products/') for slug in declared}
+    if products != set(declared) or any(
+            slug.split('/')[1] not in names
+            for slug in index if slug.startswith(('Changes/', 'Releases/'))):
+        raise ValueError('public index products do not match the deployed catalog')
     items=ET.fromstring(rss).findall('./channel/item')
     if not items:raise ValueError('public RSS is empty')
     for item in items:
@@ -29,7 +37,8 @@ def verify(base: str, commit: str, fetch) -> dict:
         if not link.startswith(base+'/') or (unquote(link[len(base)+1:]).rstrip('/') or 'index') not in index:
             raise ValueError('RSS references inactive content or wrong deployment prefix')
     fetch(base+'/')
-    return {'status':'passed','commit':commit,'base_url':base,'active_pages':len(index),'rss_items':len(items)}
+    return {'status':'passed','commit':commit,'base_url':base,'active_pages':len(index),
+            'rss_items':len(items),'products':sorted(products)}
 
 
 def main():

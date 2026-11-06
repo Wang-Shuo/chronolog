@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6bcc55423ab2868154129d8a91e2da1b4f9075a6a71bdd2d2ba0bd2e60a78885
+machine_hash: faf9c2dbecbb47bc3d8830efe0d04a111575b123c3cf881f282b42090feb5b06
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,12 @@ record:
   title: More robust extension handling
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-07-improved-the-add-new-doc-experience|Improved the "@Add
-  new doc" experience]]'
 - '[[Changes/Cursor/2023-07-07-makes-it-clearer-which-docs-are-being-looked-at-by-the-ai-c07254|Makes
   it clearer which docs are being looked at by the AI]]'
 - '[[Changes/Cursor/2023-07-07-importing-vs-code-extensions-now-takes-into-account-enabled-disabled|Importing
   VS Code extensions now takes into account enabled/disabled]]'
+- '[[Changes/Aider/2023-07-12-install-docs-link-to-neovim-plugin-https-github-com-joshuavial-aider-nvim-by-jos|Install
+  docs link to NeoVim plugin((source link)]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-28-0-5-1-nightly-https-cursor-com-changelog-0-5-1-nightly-a748d118|cursor-2023-07-28-0-5-1-nightly-https-cursor-com-changelog-0-5-1-nightly-a748d118]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2023-07-07 · Cursor · [[Changes/Cursor/2023-07-07-importing-vs-code-extensions-now-takes-into-account-enabled-disabled|Importing VS Code extensions now takes into account enabled/disabled]]
+- Earlier: 2023-07-12 · Aider · [[Changes/Aider/2023-07-12-install-docs-link-to-neovim-plugin-https-github-com-joshuavial-aider-nvim-by-jos|Install docs link to NeoVim plugin((source link)]]
 - Later: 2023-09-11 · Cursor · [[Changes/Cursor/2023-09-11-we-serve-extensions-now-using-cursor-s-extension-marketplace|Cursor Marketplace]]
 <!-- chronolog:end -->
 

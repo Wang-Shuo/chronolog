@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 335f218aafbe1fcda6e1402c20c1782806412fec5f43c810459aec55eb8caa5a
+machine_hash: 3917118691d75dbaf08d641f7a4c887249665a507dcd563d3041a13d0df3c9d9
 product: cursor
 product_name: Cursor
 record:
@@ -62,11 +62,12 @@ record:
   title: New Tab model
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-11-0-47-2-cursor-tab-accepts-work-with-single-line-selections|0.47.2:
-  Cursor Tab accepts work with single-line selections]]'
-- '[[Changes/Cursor/2025-03-23-0-48-2-allows-users-to-accept-reject-file-edited-in-another-chat-tab|0.48.2
-  - Allows users to accept/reject file edited in another chat tab]]'
-- '[[Changes/Cursor/2025-03-23-chat-tabs|Chat tabs]]'
+- '[[Changes/OpenHands/2025-05-05-improved-the-display-of-the-settings-tab-by-xingyaoww-in-https-github-com-all-ha|Improved
+  the display of the settings tab]]'
+- '[[Changes/OpenHands/2025-05-07-added-helpful-tips-to-changes-tab-zero-state-by-rbren-in-https-github-com-all-ha|Added
+  helpful tips to Changes tab zero state]]'
+- '[[Changes/Aider/2025-05-09-2-editor-experience-changes-in-v0-83-0|2 Editor Experience
+  changes in v0.83.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -104,8 +105,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-chat-tabs|Chat tabs]]
-- Later: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-active-tab-in-chat|Active Tab in Chat]]
+- Earlier: 2025-05-09 · Aider · [[Changes/Aider/2025-05-09-2-editor-experience-changes-in-v0-83-0|2 Editor Experience changes in v0.83.0]]
+- Later: 2025-05-15 · Windsurf · [[Changes/Windsurf/2025-05-15-swe-1-mini|SWE-1-mini]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

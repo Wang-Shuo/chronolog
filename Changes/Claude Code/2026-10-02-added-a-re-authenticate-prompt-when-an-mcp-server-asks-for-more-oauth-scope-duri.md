@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f23b196ec6a84744008884e9b091c91e49b2b700e9bb1cf3799b8c4e46ff2cd6
+machine_hash: 77e30bd2ed1596fc3923a1f4b40623c7e2abe97c674247ced6745044fab06633
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
     during…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-28-4-account-and-access-changes-in-v2-1-284|4 Account
-  and Access changes in v2.1.284]]'
-- '[[Changes/Claude Code/2026-09-29-changed-team-and-enterprise-sessions-and-sessions-whose-sign-in-plan-claude-code|Changed
-  Team and Enterprise sessions, and sessions whose sign-in plan Claude Code…]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-30-mcp-oauth-sign-in-to-servers-such-as-datadog-reuses-a-still-valid-cached-token|MCP
+  OAuth sign-in to servers such as Datadog reuses a still-valid cached token]]'
 - '[[Changes/Claude Code/2026-10-01-added-url-prompts-from-mcp-servers-on-the-2025-11-25-protocol-for-example-to-sig|Added
   URL prompts from MCP servers on the 2025-11-25 protocol, for example to sign in]]'
+- '[[Changes/Codex CLI/2026-10-01-2-account-and-access-changes-in-rust-v0-160-0|2
+  Account and Access changes in rust-v0.160.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6|claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6]]'
 source_type: github_releases
 theme: account-access
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-added-url-prompts-from-mcp-servers-on-the-2025-11-25-protocol-for-example-to-sig|Added URL prompts from MCP servers on the 2025-11-25 protocol, for example to sign in]]
+- Earlier: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-2-account-and-access-changes-in-rust-v0-160-0|2 Account and Access changes in rust-v0.160.0]]
 - Later: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-3-account-and-access-changes-in-v2-1-290|3 Account and Access changes in v2.1.290]]
 <!-- chronolog:end -->
 

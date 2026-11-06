@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 38b3083feb500aa99382155a5c8f7f5714f3f8034da9fa1f356ce35c595a084d
+machine_hash: 1b0380eb0edc7ffb3b27616f78b75bcd74cfc2324310688d40facf18f269d22f
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Apps and Integrations changes in v2.1.81
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-17-2-apps-and-integrations-changes-in-v2-1-77|2 Apps
-  and Integrations changes in v2.1.77]]'
-- '[[Changes/Claude Code/2026-03-18-2-apps-and-integrations-changes-in-v2-1-79|2 Apps
-  and Integrations changes in v2.1.79]]'
 - '[[Changes/Claude Code/2026-03-19-4-apps-and-integrations-changes-in-v2-1-80|4 Apps
   and Integrations changes in v2.1.80]]'
+- '[[Changes/Codex CLI/2026-03-19-10-apps-and-integrations-changes-in-rust-v0-116-0|10
+  Apps and Integrations changes in rust-v0.116.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-19-marketplace-and-plugin-installs-from-shortened-urls-e-g-aka-ms-links-now-work-co|Marketplace
+  and plugin installs from shortened URLs (e.g., aka.ms links) now work…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-20-v2-1-81-github-299621655-10d2d4fe|claude-code-2026-03-20-v2-1-81-github-299621655-10d2d4fe]]'
 source_type: github_releases
 theme: apps-integrations
@@ -90,8 +90,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.81
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-19 · Claude Code · [[Changes/Claude Code/2026-03-19-4-apps-and-integrations-changes-in-v2-1-80|4 Apps and Integrations changes in v2.1.80]]
-- Later: 2026-03-25 · ChatGPT · [[Changes/ChatGPT/2026-03-25-google-s-file-connectors-in-chatgpt-are-now-unified-under-google-drive-providing|Google Drive app unification]]
+- Earlier: 2026-03-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-19-marketplace-and-plugin-installs-from-shortened-urls-e-g-aka-ms-links-now-work-co|Marketplace and plugin installs from shortened URLs (e.g., aka.ms links) now work…]]
+- Later: 2026-03-20 · Cline · [[Changes/Cline/2026-03-20-2-apps-and-integrations-changes-in-v3-75-0|2 Apps and Integrations changes in v3.75.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

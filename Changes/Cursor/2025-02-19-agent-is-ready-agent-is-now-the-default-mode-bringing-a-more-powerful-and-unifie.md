@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 607ddd4221042ba401b3290f405ff2358f9a8d0b426e0b0ced87d92421be157a
+machine_hash: 3404db2bbe234657623c3a6317bdc4fc254d2eb823e9c8cb55ba9ea43d06ca4f
 product: cursor
 product_name: Cursor
 record:
@@ -48,8 +48,8 @@ record:
     and unified…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-08-02-concurrent-composers-support-composer-control-panel-and-various-bug-fixes-such-a|Concurrent
-  composers support, composer control panel, and various bug fixes such…]]'
+- '[[Changes/OpenHands/2025-01-22-when-connecting-to-a-github-repo-the-agent-now-explicitly-knows-which-repo-was-c|When
+  connecting to a GitHub repo, the agent now explicitly knows which repo…]]'
 - '[[Changes/Cursor/2025-01-23-agent-sees-recent-changes-the-agent-can-use-a-tool-to-see-your-recent-changes-it|Agent
   sees recent changes: The agent can use a tool to see your recent changes]]'
 - '[[Changes/Cursor/2025-01-23-cursor-rules-users-can-write-several-repository-level-rules-to-disk-in-the-curso|.cursor/rules:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-cursor-rules-users-can-write-several-repository-level-rules-to-disk-in-the-curso|.cursor/rules: Users can write several repository-level rules to disk…]]
-- Later: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-built-in-modes-custom-modes-beta|Built-in modes & custom modes (beta)]]
+- Later: 2025-03-07 · OpenHands · [[Changes/OpenHands/2025-03-07-3-agent-mode-changes-in-0-28-0|3 Agent Mode changes in 0.28.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

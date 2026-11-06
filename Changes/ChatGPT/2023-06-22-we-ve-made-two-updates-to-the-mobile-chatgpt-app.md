@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 531ed63a5fc20279195cd3509775b6981a23de94d7317b620630b2bf1bba17b8
+machine_hash: e25e4a92d3a5bc162e4ee17fdf2978bec16f407f4887ecc17601e1c514694693
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-you-can-now-disable-your-chat-history-on-ios-conversations-started-on-your-devic|Disable chat history on iOS]]
-- Later: 2023-07-25 · ChatGPT · [[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|Introducing the ChatGPT app for Android]]
+- Later: 2023-07-06 · Aider · [[Changes/Aider/2023-07-06-2-mobile-and-desktop-changes-in-v0-8-0|2 Mobile and Desktop changes in v0.8.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

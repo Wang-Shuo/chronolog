@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 097b8eaade1016bb4bb586f34b477f0d2b616a774a01f7a9b4791b6cdbcc8e20
+machine_hash: ac4cd2de07d489195e2525ca9fdccdc3474d34ec29835a96319c3e7410a9bb53
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,9 +45,9 @@ record:
   title: 2 Interface Experience changes in v2.1.110
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-14-show-thinking-hints-sooner-during-long-operations|Show
-  thinking hints sooner during long operations]]'
 - '[[Changes/Cursor/2026-04-14-configuration-menu-in-cli|Configuration menu in CLI]]'
+- '[[Changes/Gemini CLI/2026-04-14-2-interface-experience-changes-in-v0-38-0|2 Interface
+  Experience changes in v0.38.0]]'
 - '[[Changes/Claude Code/2026-04-15-added-tui-command-and-tui-setting-run-tui-fullscreen-to-switch-to-flicker-free-r|Added
   /tui command and tui setting]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59|claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59]]'
@@ -89,7 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.110
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-14 · Cursor · [[Changes/Cursor/2026-04-14-configuration-menu-in-cli|Configuration menu in CLI]]
+- Earlier: 2026-04-14 · Gemini CLI · [[Changes/Gemini CLI/2026-04-14-2-interface-experience-changes-in-v0-38-0|2 Interface Experience changes in v0.38.0]]
 - Later: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-improved-the-extended-thinking-indicator-with-a-rotating-progress-hint|Improved the extended-thinking indicator with a rotating progress hint]]
 <!-- chronolog:end -->
 

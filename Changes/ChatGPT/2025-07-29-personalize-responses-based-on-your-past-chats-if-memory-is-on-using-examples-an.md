@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dac362db86d7b48839824930f3c36740004cf13b652f1caad8e095cfe83000cf
+machine_hash: 60afe3a22476cd14abba8370272394c26a39c1c58993a185c1fea9964fb4cc8b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,11 +42,12 @@ record:
   title: Personalize responses based on your past chats if memory is on, using examples…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-04-memories|Memories]]'
-- '[[Changes/ChatGPT/2025-06-12-improvements-to-memory-to-reference-past-chats-in-a-project|Improvements
-  to memory to reference past chats in a project]]'
 - '[[Changes/Cursor/2025-07-03-memories-is-now-ga-since-1-0-we-ve-improved-memory-generation-quality-added-in-e|Memories
   (now GA)]]'
+- '[[Changes/OpenHands/2025-07-16-introduced-new-memory-ui-feature-by-amanape-in-https-github-com-all-hands-ai-ope|Introduced
+  new Memory UI feature]]'
+- '[[Changes/Gemini CLI/2025-07-25-feat-memory-make-directory-search-limit-on-memory-discovery-configurable-with-se|feat(memory):
+  make directory search limit on memory discovery configurable…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-29-study-mode-ffbfbea6|chatgpt-2025-07-29-study-mode-ffbfbea6]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -75,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-memories-is-now-ga-since-1-0-we-ve-improved-memory-generation-quality-added-in-e|Memories (now GA)]]
-- Later: 2025-08-18 · ChatGPT · [[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses-4644fd|Longer memory for more personalized responses]]
+- Earlier: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-feat-memory-make-directory-search-limit-on-memory-discovery-configurable-with-se|feat(memory): make directory search limit on memory discovery configurable…]]
+- Later: 2025-07-30 · Gemini CLI · [[Changes/Gemini CLI/2025-07-30-feat-memory-make-directory-search-limit-on-memory-discovery-configurable-with-se|feat(memory): make directory search limit on memory discovery configurable…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

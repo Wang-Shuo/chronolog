@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e5392b0ab4b51f8856ec0c7303d290d73fd0a0b7b73444fd6574f529d6b07420
+machine_hash: 09eba9f3ef9621d5fe7757e1a96368a2f575a5703d6e0d7df863e195f41c2915
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -71,12 +71,12 @@ record:
   title: Introducing locked chats
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-improved-the-errors-for-a-refused-cloud-session-they-now-say-why-your-organizati|Improved
-  the errors for a refused cloud session]]'
-- '[[Changes/Claude Code/2026-10-14-improved-the-error-shown-when-a-cloud-session-is-refused-because-your-claude-ai|Improved
-  the error shown when a cloud session is refused because your claude.ai…]]'
+- '[[Changes/Codex CLI/2026-10-15-53389-use-cached-login-credentials-for-guardian-decisions-swastik-oai|♯53389
+  Use cached login credentials for Guardian decisions @swastik-oai]]'
 - '[[Changes/Claude Code/2026-10-16-added-a-notice-to-design-sync-and-design-login-that-standalone-claude-design-cla|Added
   a notice to /design-sync and /design-login that standalone Claude Design…]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-19-3-account-and-access-changes-in-v1-0-100|3
+  Account and Access changes in v1.0.100]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-20-introducing-locked-chats-4e90035d|chatgpt-2026-10-20-introducing-locked-chats-4e90035d]]'
 source_type: chatgpt_changelog
 theme: account-access
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-16 · Claude Code · [[Changes/Claude Code/2026-10-16-added-a-notice-to-design-sync-and-design-login-that-standalone-claude-design-cla|Added a notice to /design-sync and /design-login that standalone Claude Design…]]
+- Earlier: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-3-account-and-access-changes-in-v1-0-100|3 Account and Access changes in v1.0.100]]
 - Later: 2026-10-20 · Claude Code · [[Changes/Claude Code/2026-10-20-vscode-changed-the-message-shown-when-a-session-does-not-start-in-time-and-no-ho|VSCode Changed the message shown when a session does not start in time and no hook…]]
 <!-- chronolog:end -->
 

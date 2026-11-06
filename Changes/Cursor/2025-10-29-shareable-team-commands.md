@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 66b5663985c97f74b2d947719e1fd358fbdcb7b264ac31d0cdd28069b73124c4
+machine_hash: f3c8f7e4c62ffba2a6a1dc3f37f173305515cd415f4592dc26caeea0404a71fb
 product: cursor
 product_name: Cursor
 record:
@@ -42,9 +42,10 @@ record:
   title: Shareable Team Commands
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-team-rules|Team rules]]'
-- '[[Changes/Cursor/2025-09-29-1-7-24-team-deeplinks-and-hooks-improvements|1.7.24:
-  Team deeplinks and hooks improvements]]'
+- '[[Changes/Gemini CLI/2025-10-01-support-rendering-function-calls-and-responses-when-sharing-chat-to-markdown-by|Support
+  rendering function calls and responses when sharing chat to markdown]]'
+- '[[Changes/GitHub Copilot CLI/2025-10-07-significantly-reduced-token-consumption-round-trips-per-problem-and-time-to-resu|Significantly
+  reduced token consumption, round trips per problem, and time to result]]'
 - '[[Changes/ChatGPT/2025-10-23-content-creation-apply-project-specific-instructions-to-keep-tone-and-style-cons|Content
   creation: Apply project-specific instructions to keep tone and style…]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
@@ -96,7 +97,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-10-23 · ChatGPT · [[Changes/ChatGPT/2025-10-23-content-creation-apply-project-specific-instructions-to-keep-tone-and-style-cons|Content creation: Apply project-specific instructions to keep tone and style…]]
-- Later: 2025-11-25 · ChatGPT · [[Changes/ChatGPT/2025-11-25-share-photos-to-discuss-them-out-loud|Share photos to discuss them out loud]]
+- Later: 2025-10-29 · Gemini CLI · [[Changes/Gemini CLI/2025-10-29-refactor-logging-centralize-all-console-messaging-to-a-shared-logger-part-1-by-a|refactor(logging): Centralize all console messaging to a shared logger (part 1)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

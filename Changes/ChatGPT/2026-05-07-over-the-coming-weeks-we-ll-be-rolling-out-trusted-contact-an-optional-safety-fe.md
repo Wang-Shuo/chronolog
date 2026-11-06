@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5aa8607e3a244c41bea55577f656351d6743239ec699a58a0c5a26027ef687c6
+machine_hash: 7090b25b4548a83c1a0c63b2da575ebdafefe92987ae1a2086e89a647a9d0122
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,12 +63,12 @@ record:
   title: Trusted contact in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-04-sdk-hosts-now-receive-a-persistent-localsettings-suggestion-for-bash-permission|SDK
-  hosts now receive a persistent localSettings suggestion for Bash permission…]]'
 - '[[Changes/Claude Code/2026-05-06-fixed-permission-mode-flag-being-ignored-when-resuming-a-plan-mode-session-with|Fixed
   --permission-mode flag being ignored when resuming a plan-mode session…]]'
 - '[[Changes/Claude Code/2026-05-06-fixed-session-title-chip-from-rename-disappearing-while-a-permission-or-other-di|Fixed
   session title chip from /rename disappearing while a permission or other…]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-06-protect-against-rce-from-malicious-bare-repositories-nested-inside-a-project-for|Protect
+  against RCE from malicious bare repositories nested inside a project…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-07-trusted-contact-in-chatgpt-941ecbdd|chatgpt-2026-05-07-trusted-contact-in-chatgpt-941ecbdd]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-fixed-session-title-chip-from-rename-disappearing-while-a-permission-or-other-di|Fixed session title chip from /rename disappearing while a permission or other…]]
+- Earlier: 2026-05-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-06-protect-against-rce-from-malicious-bare-repositories-nested-inside-a-project-for|Protect against RCE from malicious bare repositories nested inside a project…]]
 - Later: 2026-05-07 · Claude Code · [[Changes/Claude Code/2026-05-07-added-sandbox-bwrappath-and-sandbox-socatpath-managed-settings-linux-wsl-to-spec|Added sandbox.bwrapPath and sandbox.socatPath managed settings (Linux/WSL)…]]
 <!-- chronolog:end -->
 

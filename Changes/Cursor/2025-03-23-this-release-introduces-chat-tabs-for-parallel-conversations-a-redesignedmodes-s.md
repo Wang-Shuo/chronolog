@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 58ba82e3cb861c75f0e8d2d15675da127d5bc3e63bf36b5e43c8feb232585e65
+machine_hash: 79acc1715ba1f7fbf84abc7d436ac652157bb676d06645809ac78147fec3f0df
 product: cursor
 product_name: Cursor
 record:
@@ -57,8 +57,8 @@ record:
     system…
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-03-pro-plan-if-you-hit-your-fast-request-limit-and-prefer-to-purchase-more-you-now|Pro++
-  plan: if you hit your fast request limit and prefer to purchase more, you now can]]'
+- '[[Changes/Cline/2025-03-23-2-pricing-model-changes-in-v3-8-0|2 Pricing Model changes
+  in v3.8.0]]'
 - '[[Changes/Cursor/2025-03-23-chat-will-now-display-a-notification-about-usage-based-pricing-when-approaching|Chat
   will now display a notification about usage-based pricing when approaching fast…]]'
 - '[[Changes/Cursor/2025-03-23-usage-based-cost-visibility|Usage-based cost visibility]]'
@@ -104,8 +104,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2023-11-03 · Cursor · [[Changes/Cursor/2023-11-03-pro-plan-if-you-hit-your-fast-request-limit-and-prefer-to-purchase-more-you-now|Pro++ plan: if you hit your fast request limit and prefer to purchase more, you now can]]
-- Later: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-simpler-unified-pricing-6a915c|Simpler, unified pricing]]
+- Earlier: 2025-03-23 · Cline · [[Changes/Cline/2025-03-23-2-pricing-model-changes-in-v3-8-0|2 Pricing Model changes in v3.8.0]]
+- Later: 2025-03-25 · OpenHands · [[Changes/OpenHands/2025-03-25-display-api-cost-and-token-usage-in-frontend-by-autoltx-in-https-github-com-all|Display API cost and token usage in frontend]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

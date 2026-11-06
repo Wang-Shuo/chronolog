@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1fbdb6ebd4ebd6aac384f19279a32ddbea627d5c057306741dfc04f7b8ee491f
+machine_hash: 28c25ad26f2110efd9cf00e78d12c6901be597dc69421fe5223fee99f522ff5a
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,12 @@ record:
   title: 'Added hook `args: string[]` field (exec form) that spawns the command directly…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-07-pr-review|PR review]]'
-- '[[Changes/Cursor/2026-05-07-this-release-introduces-a-new-pr-review-experience-faster-execution-on-plans-thr|Cursor
-  introduces a new PR review experience, faster execution on plans through…]]'
 - '[[Changes/Claude Code/2026-05-08-2-developer-workflow-changes-in-v2-1-136|2 Developer
   Workflow changes in v2.1.136]]'
+- '[[Changes/Codex CLI/2026-05-08-added-configurable-opentelemetry-trace-metadata-and-richer-review-feedback-analy|Added
+  configurable OpenTelemetry trace metadata and richer review/feedback analytics…]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-08-2-developer-workflow-changes-in-v1-0-44|2
+  Developer Workflow changes in v1.0.44]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'
 source_type: github_releases
 theme: developer-workflow
@@ -86,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-08 · Claude Code · [[Changes/Claude Code/2026-05-08-2-developer-workflow-changes-in-v2-1-136|2 Developer Workflow changes in v2.1.136]]
-- Later: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-added-terminalsequence-field-to-hook-json-output-so-hooks-can-emit-desktop-notif|Added terminalSequence field to hook JSON output so hooks can emit desktop…]]
+- Earlier: 2026-05-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-08-2-developer-workflow-changes-in-v1-0-44|2 Developer Workflow changes in v1.0.44]]
+- Later: 2026-05-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-11-2-developer-workflow-changes-in-v1-0-45|2 Developer Workflow changes in v1.0.45]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

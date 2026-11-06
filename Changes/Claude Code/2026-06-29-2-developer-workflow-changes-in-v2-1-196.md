@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 594342ddd6dcce0871d427b4e9cd607bd98088c2d08fd17b51ac858bb11fd862
+machine_hash: 97fb388839f3b1a4a13666547af256cb6abe09c4cc747630bfb39ca830b1fd56
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.196
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-17-cloud-environment-setup-8a7697|Cloud environment setup]]'
-- '[[Changes/Claude Code/2026-06-19-removed-the-startup-setup-issues-line-under-the-logo-run-doctor-to-see-configura|Removed
-  the startup "setup issues" line under the logo]]'
-- '[[Changes/Claude Code/2026-06-22-changed-review-pr-to-use-the-same-review-engine-as-code-review-medium|Changed
-  /review pr to use the same review engine as /code-review medium]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-24-remove-syntax-highlighting-from-shell-commands-in-the-timeline|Remove
+  syntax highlighting from shell commands in the timeline]]'
+- '[[Changes/Gemini CLI/2026-06-25-feat-add-eval-inventory-cli-command-and-reporting-logic-by-ved015-in-https-githu|feat:
+  add eval:inventory CLI command and reporting logic]]'
+- '[[Changes/Cline/2026-06-26-2-developer-workflow-changes-in-v4-0-0|2 Developer Workflow
+  changes in v4.0.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-29-v2-1-196-github-346482381-e21be272|claude-code-2026-06-29-v2-1-196-github-346482381-e21be272]]'
 source_type: github_releases
 theme: developer-workflow
@@ -88,8 +89,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.196
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-changed-review-pr-to-use-the-same-review-engine-as-code-review-medium|Changed /review pr to use the same review engine as /code-review medium]]
-- Later: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-background-agents-launched-from-claude-agents-now-commit-push-and-open-a-draft-p|Background agents launched from claude agents now commit, push, and open a draft…]]
+- Earlier: 2026-06-26 · Cline · [[Changes/Cline/2026-06-26-2-developer-workflow-changes-in-v4-0-0|2 Developer Workflow changes in v4.0.0]]
+- Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-21-developer-workflow-changes-in-v1-0-66|21 Developer Workflow changes in v1.0.66]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

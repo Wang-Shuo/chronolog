@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 821c6a494b93b4367bef7f451992ace30268e50b8abe49ef861496a41b5353a7
+machine_hash: dd69bc097101f7efce0431ced04df37a415d32902c9f2ce14fbdadb01e9d6478
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: '`/simplify` now runs a cleanup-only review…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-21-renamed-simplify-to-code-review-it-now-reports-correctness-bugs-at-a-chosen-effo|Renamed
-  /simplify to /code-review]]'
 - '[[Changes/Claude Code/2026-05-27-2-developer-workflow-changes-in-v2-1-152|2 Developer
   Workflow changes in v2.1.152]]'
 - '[[Changes/Claude Code/2026-05-27-added-reload-skills-command-to-re-scan-skill-directories-without-restarting-the|Added
   /reload-skills command to re-scan skill directories without restarting the session]]'
+- '[[Changes/Gemini CLI/2026-05-27-feat-core-expose-rag-snippets-to-local-log-file-for-debugging-by-spencer426-in-h|feat(core):
+  expose RAG snippets to local log file for debugging]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9|claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9]]'
 source_type: github_releases
 theme: developer-workflow
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-added-reload-skills-command-to-re-scan-skill-directories-without-restarting-the|Added /reload-skills command to re-scan skill directories without restarting the session]]
+- Earlier: 2026-05-27 · Gemini CLI · [[Changes/Gemini CLI/2026-05-27-feat-core-expose-rag-snippets-to-local-log-file-for-debugging-by-spencer426-in-h|feat(core): expose RAG snippets to local log file for debugging]]
 - Later: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-status-line-commands-now-receive-columns-and-lines-environment-variables-so-scri|Status line commands now receive COLUMNS and LINES environment variables…]]
 <!-- chronolog:end -->
 

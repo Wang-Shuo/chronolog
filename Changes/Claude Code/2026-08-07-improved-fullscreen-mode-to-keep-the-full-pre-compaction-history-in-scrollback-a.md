@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e39acce9d3221497f30360fd3ba04dd3de0a168f19ba1c909176db043d307ea3
+machine_hash: 5426248c035f8f6d8cc349f36975a39eda82506469c2038e46864424b8681297
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Improved fullscreen mode to keep the full pre-compaction history in scrollback…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-24-2-interface-experience-changes-in-v2-1-219|2 Interface
-  Experience changes in v2.1.219]]'
-- '[[Changes/Cursor/2026-07-28-existing-free-users-in-india-can-upgrade-their-plan-from-the-dashboard-new-users-aeb811|Existing
-  Free users in India can upgrade their plan from the dashboard]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-03-2-interface-experience-changes-in-v1-0-78|2
+  Interface Experience changes in v1.0.78]]'
 - '[[Changes/Claude Code/2026-08-04-vscode-added-focus-view-a-chat-menu-toggle-that-hides-tool-activity-behind-an-ex|VSCode
   Added Focus view]]'
+- '[[Changes/Cline/2026-08-05-3-interface-experience-changes-in-v4-1-4|3 Interface
+  Experience changes in v4.1.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c|claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c]]'
 source_type: github_releases
 theme: interface-experience
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-vscode-added-focus-view-a-chat-menu-toggle-that-hides-tool-activity-behind-an-ex|VSCode Added Focus view]]
-- Later: 2026-08-08 · Claude Code · [[Changes/Claude Code/2026-08-08-vscode-fixed-focus-view-folding-away-the-latest-to-do-list-a-pending-question-s|VSCode Fixed Focus view folding away the latest to-do list, a pending question's…]]
+- Earlier: 2026-08-05 · Cline · [[Changes/Cline/2026-08-05-3-interface-experience-changes-in-v4-1-4|3 Interface Experience changes in v4.1.4]]
+- Later: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-6-interface-experience-changes-in-rust-v0-147-0|6 Interface Experience changes in rust-v0.147.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: da075040c50077818d57690d273773ed4c9dea93a90c69d5e4e9771b50f90d3d
+machine_hash: 0ae58df8ca5729cc49a33e7b0d1a5fae34358d77788c77ab2b15fc044b6a1b11
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Interface Experience changes in v2.1.283
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-22-5-interface-experience-changes-in-v2-1-280|5 Interface
-  Experience changes in v2.1.280]]'
+- '[[Changes/Codex CLI/2026-09-22-32-interface-experience-changes-in-rust-v0-156-0|32
+  Interface Experience changes in rust-v0.156.0]]'
 - '[[Changes/Claude Code/2026-09-23-4-interface-experience-changes-in-v2-1-281|4 Interface
   Experience changes in v2.1.281]]'
 - '[[Changes/Claude Code/2026-09-24-4-interface-experience-changes-in-v2-1-282|4 Interface
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.283
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-4-interface-experience-changes-in-v2-1-282|4 Interface Experience changes in v2.1.282]]
-- Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-added-effortslider-decreaseeffort-increaseeffort-and-toggleultracode-keybinding|Added effortSlider:decreaseEffort, increaseEffort and toggleUltracode…]]
+- Later: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-9-interface-experience-changes-in-rust-v0-157-0|9 Interface Experience changes in rust-v0.157.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

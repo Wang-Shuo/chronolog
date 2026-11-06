@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aaa9d8f1ad04950c589b7fb82d9dcda58787b8380a1b1c204c752ee11b863d80
+machine_hash: 573d05c3637d4d12f1e902d924e76e193b3f63bf16fdb113fb24d7578bede59b
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Added token count, tool uses, and duration metrics to Task tool results
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-clarification-questions-from-the-agent|Clarification
-  questions from the agent]]'
-- '[[Changes/Claude Code/2026-01-23-added-env-var-claude-code-enable-tasks-set-to-false-to-keep-the-old-system-tempo|Added
-  env var CLAUDE_CODE_ENABLE_TASKS, set to false to keep the old system…]]'
-- '[[Changes/Claude Code/2026-01-27-2-agent-mode-changes-in-v2-1-20|2 Agent Mode changes
-  in v2.1.20]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-28-add-acp-flag-to-start-as-agent-client-protocol-server|Add
+  --acp flag to start as Agent Client Protocol server]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-29-2-agent-mode-changes-in-v0-0-399|2 Agent
+  Mode changes in v0.0.399]]'
+- '[[Changes/Codex CLI/2026-02-02-2-agent-mode-changes-in-rust-v0-94-0|2 Agent Mode
+  changes in rust-v0.94.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2|claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2]]'
 source_type: github_releases
 theme: agent-mode
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-2-agent-mode-changes-in-v2-1-20|2 Agent Mode changes in v2.1.20]]
-- Later: 2026-02-05 · Claude Code · [[Changes/Claude Code/2026-02-05-updated-resume-to-re-use-agent-value-specified-in-previous-conversation-by-defau|Updated --resume to re-use --agent value specified in previous conversation by default]]
+- Earlier: 2026-02-02 · Codex CLI · [[Changes/Codex CLI/2026-02-02-2-agent-mode-changes-in-rust-v0-94-0|2 Agent Mode changes in rust-v0.94.0]]
+- Later: 2026-02-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-03-4-agent-mode-changes-in-v0-0-402|4 Agent Mode changes in v0.0.402]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

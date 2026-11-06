@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f76c0cb04fe9e804e5637193ec82efb26d27928736dc2070a57f9e6003d7718e
+machine_hash: f98b9a42d9a3592fd9c92ee5fb69d21fef237b8f4e2eb0aa93da525424777c32
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -81,10 +81,10 @@ record:
   title: File Library in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-16-added-webfetch-websearch-tools-approval-options-for-granular-controls-over-web-s|Added
-  WebFetch, WebSearch tools, & approval options for granular controls over web…]]'
-- '[[Changes/ChatGPT/2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results|Open
-  search results in a new tab]]'
+- '[[Changes/Codex CLI/2026-03-11-14136-fix-core-use-dedicated-types-for-responsesapi-web-search-tool-config-owenl|♯14136
+  fix(core): use dedicated types for responsesapi web search tool config @owenlin0]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-13-changelog-supports-last-n-since-version-and-summarize-to-browse-and-summarize-mu|/changelog
+  supports last N, since version, and summarize to browse…]]'
 - '[[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|Legacy
   deep research mode deprecation notice]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-23-file-library-in-chatgpt-7107c619|chatgpt-2026-03-23-file-library-in-chatgpt-7107c619]]'

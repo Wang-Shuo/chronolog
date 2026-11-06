@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a315a75a8a80e6766bf6301eae684da422de2d918cb08e9a6c351392c274c622
+machine_hash: 61ec6b904333d1c3176b4fef22cf7a0fef1219a7fbd3cb6a9823f063a84ffe0a
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
   title: Design Mode in canvases
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-15-cursor-can-now-respond-by-creating-interactive-canvases-c4a1d3|Cursor
-  can now respond by creating interactive canvases]]'
-- '[[Changes/ChatGPT/2026-05-14-file-library-is-expanding-to-free-and-go-users-including-to-users-in-the-europea-141640|File
-  library is expanding to Free and Go users, including to users in the European…]]'
-- '[[Changes/ChatGPT/2026-05-15-we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user|Personal
-  finances in ChatGPT]]'
+- '[[Changes/Codex CLI/2026-06-01-25110-move-config-document-helpers-into-their-own-module-jif-oai|♯25110
+  Move config document helpers into their own module @jif-oai]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-01-canvas-providers-can-return-file-urls-in-open-results-for-local-file-previews|Canvas
+  providers can return file:// URLs in open results for local file previews]]'
+- '[[Changes/Codex CLI/2026-06-04-25682-codex-document-out-of-line-test-module-convention-anp-oai|♯25682
+  codex document out-of-line test module convention @anp-oai]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85|cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85]]'
 source_type: cursor_changelog
 theme: file-data
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-05-15 · ChatGPT · [[Changes/ChatGPT/2026-05-15-we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user|Personal finances in ChatGPT]]
+- Earlier: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-25682-codex-document-out-of-line-test-module-convention-anp-oai|♯25682 codex document out-of-line test module convention @anp-oai]]
 - Later: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-0-1-6-release-and-analytics-cursor-sdk-0-1-6-documents-the-buildkite-release-pat|0.1.6 release and analytics]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2142c6cfb606bf5f889eb0175f91ce0ff210af00e569f03afc90b1ced26a76b9
+machine_hash: 688b81e0d39d0ce2471ccb96cda70d5802c5dfd9eb72e4e5fe5bc3aeba3d1b65
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Agent Mode changes in v2.1.118
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-17-subagents-that-stall-mid-stream-now-fail-with-a-clear-error-after-10-minutes-ins|Subagents
-  that stall mid-stream now fail with a clear error after 10 minutes instead…]]'
-- '[[Changes/Claude Code/2026-04-20-2-agent-mode-changes-in-v2-1-116|2 Agent Mode
-  changes in v2.1.116]]'
+- '[[Changes/Codex CLI/2026-04-20-10-agent-mode-changes-in-rust-v0-122-0|10 Agent
+  Mode changes in rust-v0.122.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-20-2-agent-mode-changes-in-v1-0-33|2 Agent
+  Mode changes in v1.0.33]]'
 - '[[Changes/Claude Code/2026-04-22-2-agent-mode-changes-in-v2-1-117|2 Agent Mode
   changes in v2.1.117]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c|claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c]]'

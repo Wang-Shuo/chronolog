@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bbf5646d20d6d93fcd4ee952fff24b5f9c4da765f237d2e76fd7b10d6c07c419
+machine_hash: 8e940367b6e02b4cd250fd1f2bf896170bcbfa938f3483e2e0088401b90d4bac
 product: cursor
 product_name: Cursor
 record:
@@ -56,9 +56,9 @@ record:
     work
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-12-the-cmd-k-edits-now-support-followups-this-is-an-early-preview-please-let-us-kno|Followups
-  in edits]]'
 - '[[Changes/Cursor/2023-08-13-better-experience-for-long-files|Long-file experience]]'
+- '[[Changes/Aider/2023-08-22-only-git-commit-dirty-files-that-gpt-tries-to-edit-https-aider-chat-docs-faq-htm|Only
+  git commit dirty files that GPT tries…]]'
 - '[[Changes/Cursor/2023-08-22-codeblocks-and-code-symbols-in-with-codebase-responses-will-now-often-be-clickab|Codeblocks
   and code symbols in "with codebase" responses will now often be clickable]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-22-0-8-2-https-cursor-com-changelog-0-8-2-866d920f|cursor-2023-08-22-0-8-2-https-cursor-com-changelog-0-8-2-866d920f]]'
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-08-13 · Cursor · [[Changes/Cursor/2023-08-13-better-experience-for-long-files|Long-file experience]]
+- Earlier: 2023-08-22 · Aider · [[Changes/Aider/2023-08-22-only-git-commit-dirty-files-that-gpt-tries-to-edit-https-aider-chat-docs-faq-htm|Only git commit dirty files that GPT tries…]]
 - Later: 2023-09-05 · Cursor · [[Changes/Cursor/2023-09-05-cmd-k-will-no-longer-output-backticks-if-you-do-file|Cmd-K will no longer output backticks if you do @file]]
 <!-- chronolog:end -->
 

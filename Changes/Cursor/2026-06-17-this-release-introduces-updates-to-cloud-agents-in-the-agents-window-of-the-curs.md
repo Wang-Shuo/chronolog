@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6001df26de8d5c11f8401a521155430ca0f9d3259798dd05c1ea116b167d1deb
+machine_hash: 677d54ea949d2dd28146f73229747faa15273b82d7f00ec27b75a412f3ff0da2
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
     desktop app
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-15-2-agent-mode-changes-in-v2-1-178|2 Agent Mode
-  changes in v2.1.178]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-16-agent-mode-is-tracked-per-session-so-it-no-longer-carries-over-when-you-create-c|Agent
+  mode is tracked per session, so it no longer carries over when you create…]]'
 - '[[Changes/Claude Code/2026-06-17-improved-the-subagent-panel-idle-subagents-auto-hide-after-30s-the-list-caps-at|Improved
   the subagent panel]]'
 - '[[Changes/Cursor/2026-06-17-handoff-between-local-and-cloud|Handoff between local
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-improved-the-subagent-panel-idle-subagents-auto-hide-after-30s-the-list-caps-at|Improved the subagent panel]]
-- Later: 2026-06-19 · Claude Code · [[Changes/Claude Code/2026-06-19-improved-auto-mode-safety-destructive-git-commands-git-reset-hard-git-checkout-g|Improved auto mode safety]]
+- Later: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-5-agent-mode-changes-in-rust-v0-141-0|5 Agent Mode changes in rust-v0.141.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

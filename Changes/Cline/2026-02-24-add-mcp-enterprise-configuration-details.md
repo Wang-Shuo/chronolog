@@ -1,0 +1,93 @@
+---
+card_id: cline-2026-02-24-1852b9
+date: '2026-02-24'
+description: 'Cline · 2026-02-24 · Apps and Integrations: Add MCP enterprise configuration
+  details'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1069
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: apps-integrations
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: 81c34979d2aa3cc758c86c0e06fafc5fe2118ce3f33e51cbc4a91138b2229b7a
+product: cline
+product_name: Cline
+record:
+  card_id: cline-2026-02-24-1852b9
+  comparison: ''
+  date: '2026-02-24'
+  description: 'Cline — v3.67.0: Add MCP enterprise configuration details'
+  evidence:
+  - quote: Add MCP enterprise configuration details
+    source_release: https://github.com/cline/cline/releases/tag/v3.67.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: cline
+  product_name: Cline
+  slug: add-mcp-enterprise-configuration-details
+  source_release: cline-2026-02-24-v3-67-0-github-289672223-0705057f
+  source_type: github_releases
+  theme: apps-integrations
+  title: Add MCP enterprise configuration details
+  type: change
+related_changes:
+- '[[Changes/GitHub Copilot CLI/2026-02-21-explore-agent-can-now-use-github-mcp-tools-when-available|Explore
+  agent can now use GitHub MCP tools when available]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-23-5-apps-and-integrations-changes-in-v0-0-415|5
+  Apps and Integrations changes in v0.0.415]]'
+- '[[Changes/Claude Code/2026-02-24-4-apps-and-integrations-changes-in-v2-1-51|4 Apps
+  and Integrations changes in v2.1.51]]'
+source_release: '[[Releases/Cline/cline-2026-02-24-v3-67-0-github-289672223-0705057f|cline-2026-02-24-v3-67-0-github-289672223-0705057f]]'
+source_type: github_releases
+theme: apps-integrations
+title: Add MCP enterprise configuration details
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Add MCP enterprise configuration details
+
+**Cline** · 2026-02-24 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://github.com/cline/cline/releases/tag/v3.67.0) · from [[Releases/Cline/cline-2026-02-24-v3-67-0-github-289672223-0705057f|v3.67.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Add MCP enterprise configuration details
+>
+> Source: https://github.com/cline/cline/releases/tag/v3.67.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cline/2026-02-24-3-agent-mode-changes-in-v3-67-0|3 Agent Mode changes in v3.67.0]] · Agent Mode
+- [[Changes/Cline/2026-02-24-preconnect-websocket-to-reduce-response-latency|Preconnect websocket to reduce response latency]] · Reliability and Performance
+- [[Changes/Cline/2026-02-24-add-q-command-to-quit-cli|Add /q command to quit CLI]] · Developer Workflow
+- [[Changes/Cline/2026-02-24-3-model-support-changes-in-v3-67-0|3 Model Support changes in v3.67.0]] · Model Support
+- [[Changes/Cline/2026-02-24-3-other-changes-in-v3-67-0|3 other changes in v3.67.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-02-24 · Claude Code · [[Changes/Claude Code/2026-02-24-4-apps-and-integrations-changes-in-v2-1-51|4 Apps and Integrations changes in v2.1.51]]
+- Later: 2026-02-24 · Cline · [[Changes/Cline/2026-02-24-added-cline-sdk-api-interface-for-programmatic-access-to-cline-features-and-tool|Added Cline SDK API interface for programmatic access to Cline features and tools…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cline-2026-02-24-1852b9&body=Card%3A%20Changes%2FCline%2F2026-02-24-add-mcp-enterprise-configuration-details.md%0ACard%20ID%3A%20cline-2026-02-24-1852b9%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fcline%2Fcline%2Freleases%2Ftag%2Fv3.67.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

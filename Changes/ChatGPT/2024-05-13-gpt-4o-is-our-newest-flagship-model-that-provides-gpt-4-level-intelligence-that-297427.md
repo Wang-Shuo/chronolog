@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2ff3733e8c4a1518e9c7b7fcf90752d0061583878e9be362f2e96e6028c3f93b
+machine_hash: 991fc782dc0170a7eb8f332feb4d0ea141118ce343d38c30471ec2e805a745d3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -73,12 +73,12 @@ record:
   title: Introducing GPT-4o
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|Claude
-  Support]]'
-- '[[Changes/Cursor/2024-03-20-stable-claude-support-all-the-newest-claude-models-are-available-for-pro-and-api|Stable
-  Claude Support]]'
-- '[[Changes/Cursor/2024-04-12-new-gpt-4-model-as-of-a-couple-of-days-ago-you-can-try-out-gpt-4-turbo-2024-04-0|New
-  GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09…]]'
+- '[[Changes/Aider/2024-05-08-added-native-support-for-deepseek-models-https-aider-chat-docs-llms-html-deepsee|Added
+  native support for Deepseek…]]'
+- '[[Changes/Aider/2024-05-10-added-explicit-model-settings-for-openrouter-anthropic-claude-3-opus-gpt-3-5-tur|Added
+  explicit model settings for openrouter/anthropic/claude-3-opus, gpt-3.5-turbo]]'
+- '[[Changes/Aider/2024-05-13-3-model-support-changes-in-v0-35-0|3 Model Support changes
+  in v0.35.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-05-13-introducing-gpt-4o-0a0709f8|chatgpt-2024-05-13-introducing-gpt-4o-0a0709f8]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -105,8 +105,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-04-12 · Cursor · [[Changes/Cursor/2024-04-12-new-gpt-4-model-as-of-a-couple-of-days-ago-you-can-try-out-gpt-4-turbo-2024-04-0|New GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09…]]
-- Later: 2024-05-26 · Cursor · [[Changes/Cursor/2024-05-26-gemini-1-5-flash-is-available-in-long-context-mode|Gemini 1.5 Flash is available in long-context mode]]
+- Earlier: 2024-05-13 · Aider · [[Changes/Aider/2024-05-13-3-model-support-changes-in-v0-35-0|3 Model Support changes in v0.35.0]]
+- Later: 2024-05-22 · Aider · [[Changes/Aider/2024-05-22-aider-automatically-lints-and-fixes-after-every-llm-edit|Aider automatically lints and fixes after every LLM edit]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

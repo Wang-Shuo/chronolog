@@ -4,20 +4,20 @@ date: '2026-06-18'
 description: 'Cursor · 2026-06-18 · Automation and Scheduling: Use /automate to create
   an automation directly in your local agent session.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled
-    tasks in ChatGPT]]'
+  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
+    syntax error loop detection]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 520
+  lag_days: 652
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 98c3116106476a4d8bcff9e1e2be1290c453672dae21412577b3e8a0caafee84
+machine_hash: 7b7b44d5716b54dada1307cfdf82fb98036bcad6cb501a6e1fcc8481fd6cd004
 product: cursor
 product_name: Cursor
 record:
@@ -87,13 +87,13 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-06-17 · ChatGPT · [[Changes/ChatGPT/2026-06-17-update-on-pulse|Update on Pulse]]
-- Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-work-can-also-keep-projects-moving-through-scheduled-tasks-that-run-once-repeat-2d6910|Work can also keep projects moving through Scheduled Tasks that run once, repeat…]]
+- Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-26496-make-auto-review-on-request-prompt-more-proactive-maja-openai|♯26496 Make auto-review on-request prompt more proactive @maja-openai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-01-14 · ChatGPT · [[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled tasks in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

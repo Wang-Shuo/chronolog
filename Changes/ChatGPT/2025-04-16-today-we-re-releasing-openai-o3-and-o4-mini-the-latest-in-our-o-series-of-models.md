@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 664871d9e5f6ea4c7ba19ca6759a0f8a784ed79618fae664c4cbb1271296ca8f
+machine_hash: 84fadbf5d4ff38111b22d3189bfddeea98189765711b6b1ccd4be2fd687fa76e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -85,10 +85,10 @@ record:
   title: o3 and o4-mini in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|Enhanced
-  instruction-following and formatting accuracy]]'
-- '[[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Sunsetting
-  GPT‑4 in ChatGPT]]'
+- '[[Changes/Windsurf/2025-04-14-new-gpt-4-1-model-available-and-free-limited-time|New
+  GPT 4.1 Model available and Free (Limited Time)]]'
+- '[[Changes/Cline/2025-04-15-new-model-update-by-0xtoshii-in-https-github-com-cline-cline-pull-2892|NEW
+  model update]]'
 - '[[Changes/Cursor/2025-04-15-new-models|New models]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-04-16-o3-and-o4-mini-in-chatgpt-1fd34eaa|chatgpt-2025-04-16-o3-and-o4-mini-in-chatgpt-1fd34eaa]]'
 source_type: chatgpt_changelog
@@ -117,7 +117,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-new-models|New models]]
-- Later: 2025-04-25 · ChatGPT · [[Changes/ChatGPT/2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories|Improvements to GPT-4o]]
+- Later: 2025-04-16 · Windsurf · [[Changes/Windsurf/2025-04-16-new-o4-mini-models-available-and-free-limited-time|New o4-mini models available and Free (Limited Time)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

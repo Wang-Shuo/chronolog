@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f3a71ae76a0b41c7fe4b14fcbd268fb7578028f18c6df142d82767b2f83c143c
+machine_hash: 6f94e2686ab42e9af3c5ec4a9162003743c9a2b82d9a7fc7d489b3cb05e571ae
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,8 @@ record:
   title: Agents keep running on your computer
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-05-4-agent-mode-changes-in-v2-1-290|4 Agent Mode
-  changes in v2.1.290]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-05-5-agent-mode-changes-in-v1-0-92|5 Agent
+  Mode changes in v1.0.92]]'
 - '[[Changes/Claude Code/2026-10-06-3-agent-mode-changes-in-v2-1-292|3 Agent Mode
   changes in v2.1.292]]'
 - '[[Changes/Cursor/2026-10-06-you-can-now-see-and-reply-to-the-local-agents-running-on-your-computer-from-the|See
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-3-agent-mode-changes-in-v2-1-292|3 Agent Mode changes in v2.1.292]]
-- Later: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-2-agent-mode-changes-in-v2-1-293|2 Agent Mode changes in v2.1.293]]
+- Later: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-4-agent-mode-changes-in-v1-25-0|4 Agent Mode changes in v1.25.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

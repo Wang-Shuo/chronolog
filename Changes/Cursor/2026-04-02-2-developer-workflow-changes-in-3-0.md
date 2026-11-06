@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1b5b2f535165a5634802cc07b1ed720fac11ffcbee49d0acffeff1a594d5d281
+machine_hash: 610caad8f51abd39ed0606b44321edd68c54abb4d7bb99e004edba49caebc05f
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Developer Workflow changes in 3.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-improved-powershell-dangerous-command-detection|Improved
-  PowerShell dangerous command detection]]'
-- '[[Changes/Claude Code/2026-03-27-added-x-claude-code-session-id-header-to-api-requests-so-proxies-can-aggregate-r|Added
-  X-Claude-Code-Session-Id header to API requests so proxies can aggregate…]]'
 - '[[Changes/Claude Code/2026-04-01-4-developer-workflow-changes-in-v2-1-89|4 Developer
   Workflow changes in v2.1.89]]'
+- '[[Changes/Gemini CLI/2026-04-01-3-developer-workflow-changes-in-v0-36-0|3 Developer
+  Workflow changes in v0.36.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-01-2-developer-workflow-changes-in-v1-0-15|2
+  Developer Workflow changes in v1.0.15]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -93,7 +93,7 @@ Source: https://cursor.com/changelog/3-0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-4-developer-workflow-changes-in-v2-1-89|4 Developer Workflow changes in v2.1.89]]
+- Earlier: 2026-04-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-01-2-developer-workflow-changes-in-v1-0-15|2 Developer Workflow changes in v1.0.15]]
 - Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-removed-tag-command|Removed /tag command]]
 <!-- chronolog:end -->
 

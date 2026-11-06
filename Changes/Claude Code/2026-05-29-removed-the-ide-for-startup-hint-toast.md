@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 04ad5ee0b6aac58dcf87b845e321f12ddca541286f1f2db6470bad9011036838
+machine_hash: 7a1b347233731847032d577bd0094ec259ec75b7149d72898fb5b96ce9c0469f
 product: claude-code
 product_name: Claude Code
 record:
@@ -40,12 +40,12 @@ record:
   title: Removed the "/ide for …" startup hint toast
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-fewer-spurious-tool-errors-during-search-head-tail-file-views-now-satisfy-the-re|Fewer
-  spurious tool errors during search]]'
-- '[[Changes/Claude Code/2026-05-22-diff-detail-view-can-now-be-scrolled-with-the-keyboard-arrows-j-k-pgup-pgdn-spac|/diff
-  detail view can now be scrolled with the keyboard…]]'
 - '[[Changes/Claude Code/2026-05-28-remote-control-autocomplete-now-shows-disconnect-remote-control-when-remote-cont|/remote-control
   autocomplete now shows "Disconnect Remote Control" when Remote…]]'
+- '[[Changes/Codex CLI/2026-05-28-slash-command-completion-now-preserves-existing-draft-text-for-commands-that-acc|Slash-command
+  completion now preserves existing draft text for commands that accept…]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-28-2-editor-experience-changes-in-v1-0-55|2
+  Editor Experience changes in v1.0.55]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8|claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8]]'
 source_type: github_releases
 theme: editor-experience
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-remote-control-autocomplete-now-shows-disconnect-remote-control-when-remote-cont|/remote-control autocomplete now shows "Disconnect Remote Control" when Remote…]]
-- Later: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-edit-no-longer-requires-a-separate-read-after-viewing-a-file-with-grep-single-fi|Edit no longer requires a separate Read after viewing a file with grep]]
+- Earlier: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-2-editor-experience-changes-in-v1-0-55|2 Editor Experience changes in v1.0.55]]
+- Later: 2026-05-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-29-2-editor-experience-changes-in-v1-0-56|2 Editor Experience changes in v1.0.56]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

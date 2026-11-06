@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 73dd4560cc7b74dbc86519f8d16c6e7b8cb2d466341f00555152dcd1fd208410
+machine_hash: ba95cfd0f7922a74854173fa555ee1568d1c4f6654d9af39843bae143c9ec1c0
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
   title: Install the Cursor ACP directly in your JetBrains IDE from the ACP Registry…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-19-simple-mode-claude-code-simple-now-includes-the-file-edit-tool-in-addition-to-th|Simple
-  mode (CLAUDE_CODE_SIMPLE) now includes the file edit tool in addition…]]'
-- '[[Changes/ChatGPT/2026-02-27-edit-messages-with-images-you-can-now-edit-messages-that-include-image-attachmen|Edit
-  messages with images]]'
 - '[[Changes/Cursor/2026-03-03-agent-workflows-are-faster-and-more-predictable-for-multi-file-edits-and-pr-heav|Agent
   workflows are faster and more predictable for multi-file edits and PR-heavy tasks]]'
+- '[[Changes/Gemini CLI/2026-03-03-feat-plan-support-opening-and-modifying-plan-in-external-editor-by-adib234-in-ht|feat(plan):
+  support opening and modifying plan in external editor]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-03-2-editor-experience-changes-in-v0-0-421|2
+  Editor Experience changes in v0.0.421]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-04-cursor-in-jetbrains-ides-https-cursor-com-changelog-03-04-26-59bae4c8|cursor-2026-03-04-cursor-in-jetbrains-ides-https-cursor-com-changelog-03-04-26-59bae4c8]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-agent-workflows-are-faster-and-more-predictable-for-multi-file-edits-and-pr-heav|Agent workflows are faster and more predictable for multi-file edits and PR-heavy tasks]]
-- Later: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-vscode-added-vscode-anthropic-claude-code-open-uri-handler-to-open-a-new-claude|VSCode: Added vscode://anthropic.claude-code/open URI handler to open a new Claude…]]
+- Earlier: 2026-03-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-03-2-editor-experience-changes-in-v0-0-421|2 Editor Experience changes in v0.0.421]]
+- Later: 2026-03-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-05-6-editor-experience-changes-in-v0-0-422|6 Editor Experience changes in v0.0.422]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

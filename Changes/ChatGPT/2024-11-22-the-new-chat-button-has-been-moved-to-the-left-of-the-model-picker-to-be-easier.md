@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 13852e2260ee6e1a0d4ab7b975e139f0b815a825a0f8e1dd24fc07d0a72598f7
+machine_hash: 9c35663d49e7f692fc2c673b45a547ddaeae59918e5673493a61e3482d23fc4e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -55,12 +55,12 @@ record:
     easier to access
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-05-03-command-k-autoselect-we-ve-also-added-automatic-selection-for-command-k-this-mea|Command-K
-  Autoselect: We''ve also added automatic selection for Command-K!]]'
-- '[[Changes/Cursor/2024-07-23-we-ve-also-added-a-file-picker-arrow-key-navigation-and-a-model-toggle-to-compos|Cursor
-  adds a file picker, arrow key navigation, and a model toggle to Composer]]'
-- '[[Changes/Cursor/2024-08-22-we-have-a-new-chat-ux-excited-for-you-to-try-it-out-and-share-your-thoughts|We
-  have a new chat UX!]]'
+- '[[Changes/OpenHands/2024-09-04-codeactagent-recovers-upon-a-llm-completion-exception-by-shubhamofbce-in-https-g|CodeActAgent
+  recovers upon a llm completion exception]]'
+- '[[Changes/Aider/2024-09-29-new-settings-for-completion-menu-colors|New settings
+  for completion menu colors]]'
+- '[[Changes/Aider/2024-11-21-improved-model-settings-configuration-https-aider-chat-docs-config-adv-model-set|Improved
+  model settings…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c|chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-08-22 · Cursor · [[Changes/Cursor/2024-08-22-we-have-a-new-chat-ux-excited-for-you-to-try-it-out-and-share-your-thoughts|We have a new chat UX!]]
+- Earlier: 2024-11-21 · Aider · [[Changes/Aider/2024-11-21-improved-model-settings-configuration-https-aider-chat-docs-config-adv-model-set|Improved model settings…]]
 - Later: 2024-11-24 · Cursor · [[Changes/Cursor/2024-11-24-composer-ui-in-the-sidebar-with-inline-diffs|Composer UI in the sidebar with inline diffs]]
 <!-- chronolog:end -->
 

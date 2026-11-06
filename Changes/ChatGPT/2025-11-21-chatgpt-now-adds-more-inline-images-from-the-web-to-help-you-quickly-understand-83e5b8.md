@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 74b1301dd220fcf6c10b06f41de3fc113d8f59d5c60f3a67845fbbd671ac4e3b
+machine_hash: 4a782b8a7baf2dfbb24d005d9f8a02dbda0e3f171d1a08bc9137cf4cccb1ff08
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,12 +53,12 @@ record:
   title: More images in answers
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th-d3a253|New
-  tone and personalization controls]]'
-- '[[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4|GPT-5.1
-  in ChatGPT]]'
-- '[[Changes/ChatGPT/2025-11-19-today-we-re-updating-gpt-5-pro-to-gpt-5-1-pro-in-early-testing-users-consistentl-191826|GPT-5.1
-  Pro: Clearer, more capable answers for complex work]]'
+- '[[Changes/Codex CLI/2025-11-19-5-model-support-changes-in-rust-v0-59-0|5 Model
+  Support changes in rust-v0.59.0]]'
+- '[[Changes/Codex CLI/2025-11-20-stop-model-migration-screen-after-first-time-6954-aibrahim-oai|stop
+  model migration screen after first time]]'
+- '[[Changes/Gemini CLI/2025-11-20-3-model-support-changes-in-v0-17-0|3 Model Support
+  changes in v0.17.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-21-more-images-in-answers-f12c1477|chatgpt-2025-11-21-more-images-in-answers-f12c1477]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-19 · ChatGPT · [[Changes/ChatGPT/2025-11-19-today-we-re-updating-gpt-5-pro-to-gpt-5-1-pro-in-early-testing-users-consistentl-191826|GPT-5.1 Pro: Clearer, more capable answers for complex work]]
-- Later: 2025-12-11 · ChatGPT · [[Changes/ChatGPT/2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-series-gpt-5-2-is-sm|Today, we’re releasing GPT-5.2, the next upgrade to the GPT-5 series]]
+- Earlier: 2025-11-20 · Gemini CLI · [[Changes/Gemini CLI/2025-11-20-3-model-support-changes-in-v0-17-0|3 Model Support changes in v0.17.0]]
+- Later: 2025-11-21 · Codex CLI · [[Changes/Codex CLI/2025-11-21-chore-drop-model-max-output-tokens-by-jif-oai-in-https-github-com-openai-codex-p|chore: drop model_max_output_tokens]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

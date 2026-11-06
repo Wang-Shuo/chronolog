@@ -4,20 +4,20 @@ date: '2026-06-26'
 description: 'ChatGPT · 2026-06-26 · Voice and Audio: We’re rolling out a new speech-to-text
   model for dictation in ChatGPT across all plans. This is a behind-the-scenes…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
-    (Beta) is now rolling out to Plus users on iOS and Android]]'
+  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
+    link) support, which allows you…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1005
+  lag_days: 1050
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6b48725ad89d7b28514531fd9e32ea178e0487d7cd61c926b2a15685128126d9
+machine_hash: 44b10f37722cb9647ee8a3e105fe4f193e4cc0d60451474f3368bf08049d69c4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -73,10 +73,10 @@ record:
   title: Improved dictation in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-05-narrate-changes-through-the-design-mode-overlay-the-mic-stays-available-while-an|Voice
-  input]]'
-- '[[Changes/Cursor/2026-06-05-with-design-mode-in-the-cursor-browser-you-can-click-draw-or-describe-changes-by|With
-  Design Mode in the Cursor browser, you can click, draw, or describe changes…]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-13-voice-runtime-download-dialog-no-longer-reopens-in-a-loop-after-an-install-failu|Voice
+  runtime download dialog no longer reopens in a loop after an install failure]]'
+- '[[Changes/Codex CLI/2026-06-15-2-voice-and-audio-changes-in-rust-v0-140-0|2 Voice
+  and Audio changes in rust-v0.140.0]]'
 - '[[Changes/ChatGPT/2026-06-18-help-with-pronunciations-chatgpt-can-now-include-text-and-audio-pronunciation-gu|Help
   with pronunciations]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-26-improved-dictation-in-chatgpt-19d2c1ea|chatgpt-2026-06-26-improved-dictation-in-chatgpt-19d2c1ea]]'
@@ -112,7 +112,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
+- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

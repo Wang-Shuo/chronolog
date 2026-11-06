@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ee24a3245563da35f270fde2438c736d3199e2f3086ca4fa666b1d2fac2a1f88
+machine_hash: 3aa6ee0e7ee9144d38ac46e4de9f1b5513db779ed9a91a4978f3ff2bc485cb56
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: Added `DISABLE_UPDATES` env var to completely block all update paths including…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-07-changed-default-effort-level-from-medium-to-high-for-api-key-bedrock-vertex-foun|Changed
-  default effort level from medium to high for API-key…]]'
 - '[[Changes/Claude Code/2026-04-10-added-os-ca-certificate-store-trust-by-default-so-enterprise-tls-proxies-work-wi|Added
   OS CA certificate store trust by default, so enterprise TLS proxies work…]]'
+- '[[Changes/Codex CLI/2026-04-10-the-readme-now-uses-the-current-chatgpt-business-plan-name-16348|The
+  README now uses the current ChatGPT Business plan name (♯16348)]]'
 - '[[Changes/ChatGPT/2026-04-16-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-australia-new|Rolling
   out ads in Australia, New Zealand, and Canada]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c|claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c]]'

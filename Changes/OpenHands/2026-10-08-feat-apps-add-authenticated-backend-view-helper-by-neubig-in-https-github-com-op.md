@@ -1,0 +1,95 @@
+---
+card_id: openhands-2026-10-08-d7b8c9
+date: '2026-10-08'
+description: 'OpenHands · 2026-10-08 · Apps and Integrations: feat(apps): add authenticated
+  backend view helper by @neubig in…'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1295
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: apps-integrations
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: 5626b55eb4692b0722b01bac2257890e45c32c23cfee7cb34b80b230cee9a815
+product: openhands
+product_name: OpenHands
+record:
+  card_id: openhands-2026-10-08-d7b8c9
+  comparison: ''
+  date: '2026-10-08'
+  description: 'OpenHands — v1.26.0: feat(apps): add authenticated backend view helper
+    by @neubig in https://github.com/OpenHands/OpenHands/pull/17656'
+  evidence:
+  - quote: 'feat(apps): add authenticated backend view helper by @neubig in https://github.com/OpenHands/OpenHands/pull/17656'
+    source_release: https://github.com/OpenHands/OpenHands/releases/tag/v1.26.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: openhands
+  product_name: OpenHands
+  slug: feat-apps-add-authenticated-backend-view-helper-by-neubig-in-https-github-com-op
+  source_release: openhands-2026-10-08-v1-26-0-github-407241649-7e646875
+  source_type: github_releases
+  theme: apps-integrations
+  title: 'feat(apps): add authenticated backend view helper'
+  type: change
+related_changes:
+- '[[Changes/Claude Code/2026-10-08-14-apps-and-integrations-changes-in-v2-1-295|14
+  Apps and Integrations changes in v2.1.295]]'
+- '[[Changes/Codex CLI/2026-10-08-20-apps-and-integrations-changes-in-rust-v0-162-0|20
+  Apps and Integrations changes in rust-v0.162.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-08-2-apps-and-integrations-changes-in-v1-0-94|2
+  Apps and Integrations changes in v1.0.94]]'
+source_release: '[[Releases/OpenHands/openhands-2026-10-08-v1-26-0-github-407241649-7e646875|openhands-2026-10-08-v1-26-0-github-407241649-7e646875]]'
+source_type: github_releases
+theme: apps-integrations
+title: 'feat(apps): add authenticated backend view helper'
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# feat(apps): add authenticated backend view helper
+
+**OpenHands** · 2026-10-08 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://github.com/OpenHands/OpenHands/releases/tag/v1.26.0) · from [[Releases/OpenHands/openhands-2026-10-08-v1-26-0-github-407241649-7e646875|v1.26.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> feat(apps): add authenticated backend view helper by @neubig in https://github.com/OpenHands/OpenHands/pull/17656
+>
+> Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.26.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/OpenHands/2026-10-08-test-e2e-launch-the-same-model-profile-test-from-the-beta-profile-by-enyst-in-ht|test(e2e): launch the same-model profile test from the BETA profile]] · Model Support
+- [[Changes/OpenHands/2026-10-08-2-automation-and-scheduling-changes-in-v1-26-0|2 Automation and Scheduling changes in v1.26.0]] · Automation and Scheduling
+- [[Changes/OpenHands/2026-10-08-feat-onboarding-show-the-super-admin-setup-guide-on-enterprise-backends-by-hiept|feat(onboarding): show the Super Admin setup guide on enterprise backends]] · Enterprise and Administration
+- [[Changes/OpenHands/2026-10-08-test-e2e-open-commits-from-the-tabs-pane-s-own-menu-by-enyst-in-https-github-com|test(e2e): open Commits from the tabs pane's own menu]] · Interface Experience
+- [[Changes/OpenHands/2026-10-08-2-files-and-data-changes-in-v1-26-0|2 Files and Data changes in v1.26.0]] · Files and Data
+- [[Changes/OpenHands/2026-10-08-12-other-changes-in-v1-26-0|12 other changes in v1.26.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-10-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-08-2-apps-and-integrations-changes-in-v1-0-94|2 Apps and Integrations changes in v1.0.94]]
+- Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-3-apps-and-integrations-changes-in-v2-1-296|3 Apps and Integrations changes in v2.1.296]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20openhands-2026-10-08-d7b8c9&body=Card%3A%20Changes%2FOpenHands%2F2026-10-08-feat-apps-add-authenticated-backend-view-helper-by-neubig-in-https-github-com-op.md%0ACard%20ID%3A%20openhands-2026-10-08-d7b8c9%0ASource%3A%20https%3A%2F%2Fgithub.com%2FOpenHands%2FOpenHands%2Freleases%2Ftag%2Fv1.26.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

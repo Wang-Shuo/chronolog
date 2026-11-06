@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 441a975b3c102d063de377199014cd24e7922681efdd7762adf7620db33b033b
+machine_hash: 7f03ac552ad6ea326b4214dfbde218c6acb77d70775b8a56718b9394121936c1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,11 +54,12 @@ record:
   title: Retiring GPT-5.2 models
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-10-extra-high-pro-plans-only|Extra High Pro plans only]]'
-- '[[Changes/ChatGPT/2026-06-10-pro-standard-pro-plans-only|Pro Standard Pro plans
-  only]]'
-- '[[Changes/Claude Code/2026-06-10-2-model-support-changes-in-v2-1-172|2 Model Support
-  changes in v2.1.172]]'
+- '[[Changes/Gemini CLI/2026-06-10-transition-to-flash-ga-model-when-experiment-flag-is-present-by-davidapierce-in|Transition
+  to flash GA model when experiment flag is present]]'
+- '[[Changes/OpenHands/2026-06-10-added-llm-profiles-by-vascosch92-in-https-github-com-openhands-openhands-pull-14|Added
+  LLM profiles]]'
+- '[[Changes/Cline/2026-06-11-handle-the-deepseek-v4-reasoning-format|Handle the DeepSeek
+  V4 reasoning format]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-12-retiring-gpt-5-2-models-8b6fe7f1|chatgpt-2026-06-12-retiring-gpt-5-2-models-8b6fe7f1]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -85,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-2-model-support-changes-in-v2-1-172|2 Model Support changes in v2.1.172]]
+- Earlier: 2026-06-11 · Cline · [[Changes/Cline/2026-06-11-handle-the-deepseek-v4-reasoning-format|Handle the DeepSeek V4 reasoning format]]
 - Later: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-added-enforceavailablemodels-managed-setting-when-enabled-the-availablemodels-al|Added enforceAvailableModels managed setting]]
 <!-- chronolog:end -->
 

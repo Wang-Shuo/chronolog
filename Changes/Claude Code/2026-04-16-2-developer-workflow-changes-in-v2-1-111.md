@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0592a94770ae2b06c6600eaef61b4f9ffdef37c47891da873d03fdbd7da548ae
+machine_hash: c1a7ddbb8c6d85fa8aa6af4132da46655cf52d30f0b807b61acfe1a423418978
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.111
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-14-3-developer-workflow-changes-in-04-14-26|3 Developer
-  Workflow changes in 04.14.26]]'
-- '[[Changes/Claude Code/2026-04-15-bash-tool-now-enforces-the-documented-maximum-timeout-instead-of-accepting-arbit|Bash
-  tool now enforces the documented maximum timeout instead of accepting…]]'
+- '[[Changes/Codex CLI/2026-04-15-4-developer-workflow-changes-in-rust-v0-121-0|4
+  Developer Workflow changes in rust-v0.121.0]]'
 - '[[Changes/Cursor/2026-04-15-in-the-agents-window-canvases-are-durable-artifacts-that-live-in-the-side-panel|In
   the Agents Window, canvases are durable artifacts that live in the side panel…]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-15-2-developer-workflow-changes-in-v1-0-27|2
+  Developer Workflow changes in v1.0.27]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'
 source_type: github_releases
 theme: developer-workflow
@@ -92,8 +92,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.111
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-15 · Cursor · [[Changes/Cursor/2026-04-15-in-the-agents-window-canvases-are-durable-artifacts-that-live-in-the-side-panel|In the Agents Window, canvases are durable artifacts that live in the side panel…]]
-- Later: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-3-developer-workflow-changes-in-v2-1-113|3 Developer Workflow changes in v2.1.113]]
+- Earlier: 2026-04-15 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-15-2-developer-workflow-changes-in-v1-0-27|2 Developer Workflow changes in v1.0.27]]
+- Later: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-terminal-state-correctly-restored-after-a-crash-exit-on-windows|Terminal state correctly restored after a crash exit on Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

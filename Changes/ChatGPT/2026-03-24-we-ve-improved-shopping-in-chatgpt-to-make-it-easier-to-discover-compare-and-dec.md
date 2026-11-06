@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 434fdc5086e3c756f7e9696627dd66fc0f8e1e75654eb78004b4c605bab078fb
+machine_hash: 9ce7b4353228a744f68de9f31982b58c2463f72d62e93ee0482e39ed57615b5f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -74,8 +74,8 @@ record:
   title: Shopping updates in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results|Open
-  search results in a new tab]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-13-changelog-supports-last-n-since-version-and-summarize-to-browse-and-summarize-mu|/changelog
+  supports last N, since version, and summarize to browse…]]'
 - '[[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|Legacy
   deep research mode deprecation notice]]'
 - '[[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|File
@@ -107,7 +107,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-03-23 · ChatGPT · [[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|File Library in ChatGPT]]
-- Later: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-past-chat-transcripts-are-now-surfaced-directly-in-at-mention-search-results|Past chat transcripts are now surfaced directly in at-mention search results]]
+- Later: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-plugins-are-now-a-first-class-workflow-codex-can-sync-product-scoped-plugins-at|Plugins are now a first-class workflow]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

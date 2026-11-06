@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b5d22c4ca6de24778fbc1d46720725a1d24f1af2205520218c1b2283977dc9a2
+machine_hash: eabd915f33784142dd9691ce302eb794b48218410963ced5ccd1a72cb618407b
 product: cursor
 product_name: Cursor
 record:
@@ -42,12 +42,12 @@ record:
   title: 'Cmd-K diffs: these now obey word-wrap!'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-19-you-can-now-alternate-between-diffs-and-texts-responses-in-cmd-k-this-can-be-hel|Inline
-  Chat]]'
-- '[[Changes/Cursor/2023-09-21-hacky-first-version-of-cmd-k-in-the-terminal-let-us-know-what-you-think|Cmd-K
-  in the terminal!]]'
 - '[[Changes/Cursor/2023-09-27-you-can-now-use-an-early-preview-of-edit-in-the-chat-it-s-significantly-faster-a|/edit
   in chat]]'
+- '[[Changes/Aider/2023-10-29-2-editor-experience-changes-in-v0-16-0|2 Editor Experience
+  changes in v0.16.0]]'
+- '[[Changes/Aider/2023-10-31-2-editor-experience-changes-in-v0-16-1|2 Editor Experience
+  changes in v0.16.1]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf|cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-09-27 · Cursor · [[Changes/Cursor/2023-09-27-you-can-now-use-an-early-preview-of-edit-in-the-chat-it-s-significantly-faster-a|/edit in chat]]
+- Earlier: 2023-10-31 · Aider · [[Changes/Aider/2023-10-31-2-editor-experience-changes-in-v0-16-1|2 Editor Experience changes in v0.16.1]]
 - Later: 2023-11-10 · Cursor · [[Changes/Cursor/2023-11-10-apply-chat-suggestions-click-on-the-play-button-on-any-code-block-to-have-the-ai|Apply chat suggestions]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 99cc8b764054d3c3ae90cdd1558bda030dbdbe8d72cc79d960814eaf296eb35f
+machine_hash: 7ed24cfc8c7b3b2d187be7f260315c9cfc5bea1798573cc743fdee17aa20a9a4
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,12 +50,12 @@ record:
   title: 4 Agent Mode changes in v2.1.141
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-11-2-agent-mode-changes-in-v2-1-139|2 Agent Mode
-  changes in v2.1.139]]'
-- '[[Changes/Cursor/2026-05-11-mention-cursor-in-any-teams-channel-to-delegate-a-task-to-a-cloud-agent-or-pull-d30c31|Mention
-  @Cursor in any Teams channel to delegate a task to a cloud agent or pull…]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-11-agentstop-hook-now-fires-correctly-when-the-agent-stops-via-task-complete|agentStop
+  hook now fires correctly when the agent stops via task_complete]]'
 - '[[Changes/Claude Code/2026-05-12-2-agent-mode-changes-in-v2-1-140|2 Agent Mode
   changes in v2.1.140]]'
+- '[[Changes/Gemini CLI/2026-05-12-2-agent-mode-changes-in-v0-42-0|2 Agent Mode changes
+  in v0.42.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'
 source_type: github_releases
 theme: agent-mode
@@ -101,7 +101,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.141
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-12 · Claude Code · [[Changes/Claude Code/2026-05-12-2-agent-mode-changes-in-v2-1-140|2 Agent Mode changes in v2.1.140]]
+- Earlier: 2026-05-12 · Gemini CLI · [[Changes/Gemini CLI/2026-05-12-2-agent-mode-changes-in-v0-42-0|2 Agent Mode changes in v0.42.0]]
 - Later: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-improved-agent-led-environment-setup|Improved agent-led environment setup]]
 <!-- chronolog:end -->
 

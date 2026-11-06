@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c969f4d4e8147dcddc031906bc40ac60036062e7602bfd4e2bf2317341bfbb4d
+machine_hash: a41e14dc0eb617cd296dc8d7cb3cf3d834c107448e4e58b43a866f5aa9d4bc43
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     API spend…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-14-2-model-support-changes-in-v2-1-233|2 Model Support
-  changes in v2.1.233]]'
-- '[[Changes/Claude Code/2026-08-17-2-model-support-changes-in-v2-1-234|2 Model Support
-  changes in v2.1.234]]'
-- '[[Changes/Claude Code/2026-08-19-added-anthropic-default-model-environment-variable-sets-the-model-new-sessions-s|Added
-  ANTHROPIC_DEFAULT_MODEL environment variable]]'
+- '[[Changes/OpenHands/2026-08-21-perf-batch-streamingdeltaevents-so-the-ui-keeps-up-with-fast-models-by-vascosch9|perf:
+  batch StreamingDeltaEvents so the UI keeps up with fast models]]'
+- '[[Changes/Cline/2026-08-22-restore-tool-calling-for-custom-openai-compatible-models-whose-capability-list-w|Restore
+  tool calling for custom OpenAI-Compatible models whose capability list…]]'
+- '[[Changes/Cline/2026-08-23-refresh-the-built-in-model-catalog-new-entries-include-claude-fable-5-grok-4-6-o|Refresh
+  the built-in model catalog]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-26-v2-1-247-github-377320078-fc507178|claude-code-2026-08-26-v2-1-247-github-377320078-fc507178]]'
 source_type: github_releases
 theme: model-support
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-added-anthropic-default-model-environment-variable-sets-the-model-new-sessions-s|Added ANTHROPIC_DEFAULT_MODEL environment variable]]
-- Later: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-5-model-support-changes-in-v2-1-251|5 Model Support changes in v2.1.251]]
+- Earlier: 2026-08-23 · Cline · [[Changes/Cline/2026-08-23-refresh-the-built-in-model-catalog-new-entries-include-claude-fable-5-grok-4-6-o|Refresh the built-in model catalog]]
+- Later: 2026-08-26 · Cline · [[Changes/Cline/2026-08-26-credentials-embedded-in-git-remote-urls-are-now-redacted-from-the-workspace-info|Credentials embedded in git remote URLs are now redacted from the workspace…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

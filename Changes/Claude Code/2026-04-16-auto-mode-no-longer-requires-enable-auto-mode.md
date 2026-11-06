@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 861ab417d76239bdf735ff327f5d965c8efd150c0c21a3ba6ffb9ff6bd589374
+machine_hash: a448a222d648f0f98944c08bf67643a6bf55ff7fac1eed9e5474a876cc92522f
 product: claude-code
 product_name: Claude Code
 record:
@@ -40,12 +40,10 @@ record:
   title: Auto mode no longer requires `--enable-auto-mode`
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-13-branch-selection-in-empty-state|Branch selection in
-  empty state]]'
-- '[[Changes/Cursor/2026-04-13-3-agent-mode-changes-in-3-1|3 Agent Mode changes in
-  3.1]]'
-- '[[Changes/Cursor/2026-04-14-ask-a-quick-side-question-without-derailing-the-agent-s-main-task-btw-allows-you|/btw
-  support in CLI]]'
+- '[[Changes/Codex CLI/2026-04-15-7-agent-mode-changes-in-rust-v0-121-0|7 Agent Mode
+  changes in rust-v0.121.0]]'
+- '[[Changes/Windsurf/2026-04-15-devin-in-windsurf|Devin in Windsurf]]'
+- '[[Changes/Windsurf/2026-04-15-agent-command-center|Agent Command Center]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'
 source_type: github_releases
 theme: agent-mode
@@ -84,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-14 · Cursor · [[Changes/Cursor/2026-04-14-ask-a-quick-side-question-without-derailing-the-agent-s-main-task-btw-allows-you|/btw support in CLI]]
-- Later: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-subagents-that-stall-mid-stream-now-fail-with-a-clear-error-after-10-minutes-ins|Subagents that stall mid-stream now fail with a clear error after 10 minutes instead…]]
+- Earlier: 2026-04-15 · Windsurf · [[Changes/Windsurf/2026-04-15-agent-command-center|Agent Command Center]]
+- Later: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-background-agent-completion-notifications-are-not-sent-redundantly-when-read-age|Background agent completion notifications are not sent redundantly when read_agent…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

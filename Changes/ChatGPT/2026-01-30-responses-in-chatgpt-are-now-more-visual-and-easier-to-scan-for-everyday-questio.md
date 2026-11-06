@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8224d51813aa7f3ff51b08df29ae710ad79628ce5752577032f3fa8765edf45a
+machine_hash: ee08a3e2c33034c2829c4045664b10ccf45184baac824430f0fbeebc6199a3ab
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,10 +54,10 @@ record:
   title: More visual responses
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-27-2-interface-experience-changes-in-v2-1-20|2 Interface
-  Experience changes in v2.1.20]]'
 - '[[Changes/Claude Code/2026-01-28-improved-read-search-progress-indicators-to-show-reading-while-in-progress-and-r|Improved
   read/search progress indicators to show "Reading…" while in progress…]]'
+- '[[Changes/Gemini CLI/2026-01-28-remove-missing-sidebar-item-by-chrstnb-in-https-github-com-google-gemini-gemini|Remove
+  missing sidebar item]]'
 - '[[Changes/Claude Code/2026-01-29-3-interface-experience-changes-in-v2-1-23|3 Interface
   Experience changes in v2.1.23]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-30-more-visual-responses-d2d2073c|chatgpt-2026-01-30-more-visual-responses-d2d2073c]]'
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-01-29 · Claude Code · [[Changes/Claude Code/2026-01-29-3-interface-experience-changes-in-v2-1-23|3 Interface Experience changes in v2.1.23]]
-- Later: 2026-02-05 · Claude Code · [[Changes/Claude Code/2026-02-05-vscode-added-spinner-when-loading-past-conversations-list|VSCode: Added spinner when loading past conversations list]]
+- Later: 2026-01-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-30-4-interface-experience-changes-in-v0-0-400|4 Interface Experience changes in v0.0.400]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

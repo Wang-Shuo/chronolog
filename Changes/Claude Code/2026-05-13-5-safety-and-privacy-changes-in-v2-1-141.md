@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1739c89f2aff2caa2f656f62b9f41fe443272d806168bf4c26f0f7ab5021f5b3
+machine_hash: b6eff13bdf59d7cd585685e2acc60177be0e8832be06d675861b521d1a515914
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,12 +54,12 @@ record:
   title: 5 Safety and Privacy changes in v2.1.141
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-07-added-sandbox-bwrappath-and-sandbox-socatpath-managed-settings-linux-wsl-to-spec|Added
-  sandbox.bwrapPath and sandbox.socatPath managed settings (Linux/WSL)…]]'
-- '[[Changes/Claude Code/2026-05-08-2-safety-and-privacy-changes-in-v2-1-136|2 Safety
-  and Privacy changes in v2.1.136]]'
 - '[[Changes/Claude Code/2026-05-11-fixed-skill-name-permission-rules-the-wildcard-form-now-works-as-a-prefix-match|Fixed
   Skill(name ) permission rules]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-11-sessions-with-extension-permission-prompts-can-be-resumed-without-a-session-file|Sessions
+  with extension permission prompts can be resumed without…]]'
+- '[[Changes/Gemini CLI/2026-05-12-3-safety-and-privacy-changes-in-v0-42-0|3 Safety
+  and Privacy changes in v0.42.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'
 source_type: github_releases
 theme: safety-privacy
@@ -107,7 +107,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.141
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-fixed-skill-name-permission-rules-the-wildcard-form-now-works-as-a-prefix-match|Fixed Skill(name ) permission rules]]
+- Earlier: 2026-05-12 · Gemini CLI · [[Changes/Gemini CLI/2026-05-12-3-safety-and-privacy-changes-in-v0-42-0|3 Safety and Privacy changes in v0.42.0]]
 - Later: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-environment-governance-and-security-controls|Environment governance and security controls]]
 <!-- chronolog:end -->
 

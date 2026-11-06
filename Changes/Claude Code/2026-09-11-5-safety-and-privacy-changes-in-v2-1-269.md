@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e82b90d118d09a52f2d52b83db2d7563f792acc0fb83e9177c07665c6c318bb7
+machine_hash: db4ef67514a1821381ffa0371b1e2933b8c52d82e6b3f66c1a533dce68ac2b49
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,12 +57,11 @@ record:
   title: 5 Safety and Privacy changes in v2.1.269
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-08-3-safety-and-privacy-changes-in-v2-1-265|3 Safety
-  and Privacy changes in v2.1.265]]'
-- '[[Changes/Claude Code/2026-09-09-2-safety-and-privacy-changes-in-v2-1-267|2 Safety
-  and Privacy changes in v2.1.267]]'
+- '[[Changes/Codex CLI/2026-09-09-25-safety-and-privacy-changes-in-rust-v0-154-0|25
+  Safety and Privacy changes in rust-v0.154.0]]'
 - '[[Changes/Claude Code/2026-09-10-8-safety-and-privacy-changes-in-v2-1-268|8 Safety
   and Privacy changes in v2.1.268]]'
+- '[[Changes/Windsurf/2026-09-10-devin-cloud|Devin Cloud]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-11-v2-1-269-github-387243742-288e9189|claude-code-2026-09-11-v2-1-269-github-387243742-288e9189]]'
 source_type: github_releases
 theme: safety-privacy
@@ -111,7 +110,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.269
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-8-safety-and-privacy-changes-in-v2-1-268|8 Safety and Privacy changes in v2.1.268]]
+- Earlier: 2026-09-10 · Windsurf · [[Changes/Windsurf/2026-09-10-devin-cloud|Devin Cloud]]
 - Later: 2026-09-12 · Claude Code · [[Changes/Claude Code/2026-09-12-fixed-read-only-git-commands-in-bash-unexpectedly-asking-for-permission-after-a|Fixed read-only git commands in Bash unexpectedly asking for permission after…]]
 <!-- chronolog:end -->
 

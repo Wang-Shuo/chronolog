@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ce0096c6277ca332399b8735c5b88bd5524615b573e2a11ad4798d6fddf0dee4
+machine_hash: 35841fe467df0b4eeaad88167cadd5bbc31b3c781343d819fe7444badb30edcd
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Interface Experience changes in v2.1.312
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-20-improved-a-mod-s-image-to-draw-its-picture-in-iterm2-3-5-and-later-with-fullscre|Improved
-  a mod''s Image to draw its picture in iTerm2 3.5 and later with fullscreen…]]'
-- '[[Changes/Claude Code/2026-10-23-improved-a-mod-s-image-to-draw-inside-tmux-with-allow-passthrough-and-focus-even|Improved
-  a mod''s Image to draw inside tmux with allow-passthrough…]]'
+- '[[Changes/OpenHands/2026-10-23-refactor-sidebar-express-mobile-drawer-duration-in-css-by-enyst-in-https-github|refactor(sidebar):
+  express mobile drawer duration in CSS]]'
+- '[[Changes/Windsurf/2026-10-23-2-interface-experience-changes-in-v3-11-212|2 Interface
+  Experience changes in v3.11.212]]'
 - '[[Changes/Claude Code/2026-10-26-changed-clicks-on-scrollbar-arrows-and-bars-in-fullscreen-lists-to-act-when-the|Changed
   clicks on scrollbar arrows and bars in fullscreen lists to act…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-27-v2-1-312-github-425846009-439d063a|claude-code-2026-10-27-v2-1-312-github-425846009-439d063a]]'
@@ -89,6 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.312
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-changed-clicks-on-scrollbar-arrows-and-bars-in-fullscreen-lists-to-act-when-the|Changed clicks on scrollbar arrows and bars in fullscreen lists to act…]]
+- Later: 2026-10-27 · Codex CLI · [[Changes/Codex CLI/2026-10-27-added-a-repository-filter-to-the-session-picker-and-directory-grouping-to-the-ag|Added a repository filter to the session picker and directory grouping to the agent…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

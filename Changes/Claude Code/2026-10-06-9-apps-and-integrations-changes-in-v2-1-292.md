@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b0e2141fe5bf51d5e78128ba914954197093f9ea211c4c122049a5c836d0ca69
+machine_hash: b2637c50cea1ce41ba1370bd83e18c365dc982a05d51fc694decc0f5920e39fb
 product: claude-code
 product_name: Claude Code
 record:
@@ -72,12 +72,12 @@ record:
   title: 9 Apps and Integrations changes in v2.1.292
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-02-5-apps-and-integrations-changes-in-v2-1-288|5
-  Apps and Integrations changes in v2.1.288]]'
-- '[[Changes/Claude Code/2026-10-03-2-apps-and-integrations-changes-in-v2-1-289|2
-  Apps and Integrations changes in v2.1.289]]'
 - '[[Changes/Claude Code/2026-10-05-14-apps-and-integrations-changes-in-v2-1-290|14
   Apps and Integrations changes in v2.1.290]]'
+- '[[Changes/Codex CLI/2026-10-05-2-apps-and-integrations-changes-in-rust-v0-160-1|2
+  Apps and Integrations changes in rust-v0.160.1]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-05-5-apps-and-integrations-changes-in-v1-0-92|5
+  Apps and Integrations changes in v1.0.92]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab|claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab]]'
 source_type: github_releases
 theme: apps-integrations
@@ -132,8 +132,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.292
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-14-apps-and-integrations-changes-in-v2-1-290|14 Apps and Integrations changes in v2.1.290]]
-- Later: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-3-apps-and-integrations-changes-in-v2-1-293|3 Apps and Integrations changes in v2.1.293]]
+- Earlier: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-5-apps-and-integrations-changes-in-v1-0-92|5 Apps and Integrations changes in v1.0.92]]
+- Later: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-chore-consume-extensions-0-27-0-by-henriquehirako-in-https-github-com-openhands|chore: consume Extensions 0.27.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

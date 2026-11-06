@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c47668ba7f7dbab9b1169e3f3ca9918f7a0618cc4082e8637200421212d80ad4
+machine_hash: c22792198219a10fa490ada78fe898e3709f798cafc7ff66bff5ffe30e301513
 product: cursor
 product_name: Cursor
 record:
@@ -48,12 +48,12 @@ record:
   title: Include your entire codebase in context
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-added-input-token-count-for-chat-messages-click-the-three-dots-to-view-we-re-con|Added
-  input token count for chat messages (click the three dots to view)]]'
 - '[[Changes/Cursor/2025-04-15-automated-and-improved-rules-15afc6|Automated and improved
   rules]]'
 - '[[Changes/Cursor/2025-04-15-project-structure-in-context-beta|Project structure
   in context (Beta)]]'
+- '[[Changes/Aider/2025-05-09-2-context-window-changes-in-v0-83-0|2 Context Window
+  changes in v0.83.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'
 source_type: cursor_changelog
 theme: context-window
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-project-structure-in-context-beta|Project structure in context (Beta)]]
-- Later: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-pr-indexing-search|PR indexing & search]]
+- Earlier: 2025-05-09 · Aider · [[Changes/Aider/2025-05-09-2-context-window-changes-in-v0-83-0|2 Context Window changes in v0.83.0]]
+- Later: 2025-05-21 · Cline · [[Changes/Cline/2025-05-21-add-support-for-gemini-2-5-flash-preview-05-20-model-to-vertex-ai-provider-with|Add support for Gemini 2.5 Flash Preview 05-20 model to Vertex AI provider…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

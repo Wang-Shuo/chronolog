@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 104bbca3e69157359827b9bb1d3c8cd2bcfc16fabc0928193a244a7c94536cce
+machine_hash: 1c2eee273b18a753f5c5c368c4d180dc0f843d479cf26d8ee6e8944dbb90b6f7
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Changed `--plugin-dir` so local dev copies now override installed marketplace…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-07-3-apps-and-integrations-changes-in-v2-1-71|3 Apps
-  and Integrations changes in v2.1.71]]'
-- '[[Changes/Claude Code/2026-03-10-3-apps-and-integrations-changes-in-v2-1-72|3 Apps
-  and Integrations changes in v2.1.72]]'
 - '[[Changes/Cursor/2026-03-11-we-ve-added-more-than-30-new-plugins-from-partners-such-as-atlassian-datadog-git-901313|New
   Plugins on the Cursor Marketplace]]'
+- '[[Changes/Gemini CLI/2026-03-11-4-apps-and-integrations-changes-in-v0-33-0|4 Apps
+  and Integrations changes in v0.33.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-11-4-apps-and-integrations-changes-in-v1-0-4|4
+  Apps and Integrations changes in v1.0.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae|claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae]]'
 source_type: github_releases
 theme: apps-integrations
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-11 · Cursor · [[Changes/Cursor/2026-03-11-we-ve-added-more-than-30-new-plugins-from-partners-such-as-atlassian-datadog-git-901313|New Plugins on the Cursor Marketplace]]
-- Later: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-4-apps-and-integrations-changes-in-v2-1-76|4 Apps and Integrations changes in v2.1.76]]
+- Earlier: 2026-03-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-11-4-apps-and-integrations-changes-in-v1-0-4|4 Apps and Integrations changes in v1.0.4]]
+- Later: 2026-03-12 · Cline · [[Changes/Cline/2026-03-12-hooks-reintroduced-feature-toggle|Hooks: reintroduced feature toggle]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

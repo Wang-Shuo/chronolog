@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 62839d0e97f3b6c4fe94f29cec9de6dfcc292ab650aaa878c365058565bb762e
+machine_hash: 7d4f51b35422e5545d708e05471945a6ea032e7af0a27609f0b3e6b8dc1ad99d
 product: cursor
 product_name: Cursor
 record:
@@ -49,12 +49,12 @@ record:
   title: Composer (beta)
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-05-26-merges-vs-code-1-89-into-cursor-38031f|Merges VS Code
-  1.89 into Cursor]]'
-- '[[Changes/Cursor/2024-05-26-accept-partial-completions-with-copilot-ce6049|Accept
-  partial completions with Copilot++]]'
+- '[[Changes/Aider/2024-06-04-properly-override-git-editor-env-for-commits-if-it-is-already-set|Properly
+  override GIT_EDITOR env for commits if it is already set]]'
 - '[[Changes/Cursor/2024-06-08-default-on-cursor-prediction-with-a-new-ui|Default-on
   Cursor Prediction with a new UI]]'
+- '[[Changes/OpenHands/2024-06-29-3-editor-experience-changes-in-0-7-0|3 Editor Experience
+  changes in 0.7.0]]'
 source_release: '[[Releases/Cursor/cursor-2024-07-13-0-37-x-https-cursor-com-changelog-0-37-x-eb934a21|cursor-2024-07-13-0-37-x-https-cursor-com-changelog-0-37-x-eb934a21]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-06-08 · Cursor · [[Changes/Cursor/2024-06-08-default-on-cursor-prediction-with-a-new-ui|Default-on Cursor Prediction with a new UI]]
+- Earlier: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-3-editor-experience-changes-in-0-7-0|3 Editor Experience changes in 0.7.0]]
 - Later: 2024-07-23 · Cursor · [[Changes/Cursor/2024-07-23-vs-code-1-91-1-cursor-is-now-based-on-vs-code-1-91-1|VS Code 1.91.1: Cursor is now based on VS Code 1.91.1]]
 <!-- chronolog:end -->
 

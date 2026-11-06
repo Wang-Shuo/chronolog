@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 551e6c2730945be068d6909c41b80e9453534077d6dca4fa4320fa080a2ac3db
+machine_hash: 82f3e879224605e94aee564abd5e9ea810d3b70c554ceaf021bfd30f93ecc5cb
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     Code…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-23-2-account-and-access-changes-in-v2-1-281|2 Account
-  and Access changes in v2.1.281]]'
-- '[[Changes/Claude Code/2026-09-28-added-mcp-reconnect-all-in-the-interactive-terminal-to-retry-every-mcp-server-th|Added
-  /mcp reconnect all in the interactive terminal to retry every MCP server…]]'
 - '[[Changes/Claude Code/2026-09-28-4-account-and-access-changes-in-v2-1-284|4 Account
   and Access changes in v2.1.284]]'
+- '[[Changes/Codex CLI/2026-09-28-8-account-and-access-changes-in-rust-v0-158-0|8
+  Account and Access changes in rust-v0.158.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-28-2-account-and-access-changes-in-v1-0-89|2
+  Account and Access changes in v1.0.89]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc|claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc]]'
 source_type: github_releases
 theme: account-access
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-4-account-and-access-changes-in-v2-1-284|4 Account and Access changes in v2.1.284]]
-- Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-added-url-prompts-from-mcp-servers-on-the-2025-11-25-protocol-for-example-to-sig|Added URL prompts from MCP servers on the 2025-11-25 protocol, for example to sign in]]
+- Earlier: 2026-09-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-28-2-account-and-access-changes-in-v1-0-89|2 Account and Access changes in v1.0.89]]
+- Later: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-3-account-and-access-changes-in-rust-v0-159-0|3 Account and Access changes in rust-v0.159.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

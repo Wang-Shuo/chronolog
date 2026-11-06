@@ -12,12 +12,12 @@ diffusion:
   role: first-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c465a041485d2710a9318bdfec3cfcdc644dd524fa5ef2260c45e8e20910add7
+machine_hash: 55f52ee7f45467f43e246e80b9faf6b74d565cd9cc3ab30c9deb073379746935
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -70,13 +70,13 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Later: 2026-01-28 · Claude Code · [[Changes/Claude Code/2026-01-28-added-support-for-full-width-zenkaku-number-input-from-japanese-ime-in-option-se|Added support for full-width (zenkaku) number input from Japanese IME in option…]]
+- Later: 2025-03-04 · Aider · [[Changes/Aider/2025-03-04-added-support-for-tree-sitter-language-pack|Added support for tree-sitter language pack]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 3 tracked products.
+- Earliest same-theme entry among the 10 tracked products.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

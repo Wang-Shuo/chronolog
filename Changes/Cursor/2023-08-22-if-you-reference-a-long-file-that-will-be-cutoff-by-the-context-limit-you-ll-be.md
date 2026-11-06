@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 98127eb8dfa1743041376d70766027d081be3fac5ce6c3bd5c52bc4e387f3f1a
+machine_hash: 62c3fa98ec8709cb5e642e1ed13417f81c4ff9b0d43ec560970bb6ef492318f8
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,10 @@ record:
     you'll…
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-19-advanced-context-controls-only-show-up-if-you-have-indexed-your-codebase|Advanced
-  context controls only show up if you have indexed your codebase]]'
-- '[[Changes/Cursor/2023-07-19-more-control-of-context-building-abilities-for-codebase-wide-chat|More
-  control of context building abilities for codebase-wide chat]]'
+- '[[Changes/Aider/2023-08-02-automatically-summarize-chat-history-to-avoid-exhausting-context-window|Automatically
+  summarize chat history to avoid exhausting context window]]'
+- '[[Changes/Aider/2023-08-08-automatically-summarize-chat-history-to-avoid-exhausting-context-window|Automatically
+  summarize chat history to avoid exhausting context window]]'
 - '[[Changes/Cursor/2023-08-22-follow-up-chat-messages-to-with-codebase-will-keep-the-codebase-context|Follow-up
   chat messages to "with codebase" will keep the codebase context]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-22-0-8-2-https-cursor-com-changelog-0-8-2-866d920f|cursor-2023-08-22-0-8-2-https-cursor-com-changelog-0-8-2-866d920f]]'
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2023-07-19 · Cursor · [[Changes/Cursor/2023-07-19-more-control-of-context-building-abilities-for-codebase-wide-chat|More control of context building abilities for codebase-wide chat]]
+- Earlier: 2023-08-08 · Aider · [[Changes/Aider/2023-08-08-automatically-summarize-chat-history-to-avoid-exhausting-context-window|Automatically summarize chat history to avoid exhausting context window]]
 - Later: 2023-08-26 · Cursor · [[Changes/Cursor/2023-08-26-have-the-advanced-context-button-show-up-for-non-git-repos|Advanced Button]]
 <!-- chronolog:end -->
 

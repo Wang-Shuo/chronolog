@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ce557e9e541d57a3ac2893d8f7b61ed42541c66d0d19eb4e99e314e599a232f
+machine_hash: ec9cecf72dcd57edeff19a02f2f1d4fae396a0cb8b33f9f694b7f1928e120c06
 product: claude-code
 product_name: Claude Code
 record:
@@ -75,10 +75,10 @@ record:
   title: 10 Developer Workflow changes in v2.1.299
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-08-added-a-line-on-stderr-when-it-is-a-terminal-that-says-what-a-claude-p-run-is-wa|Added
-  a line on stderr, when it is a terminal, that says what a claude -p run…]]'
-- '[[Changes/Claude Code/2026-10-09-3-developer-workflow-changes-in-v2-1-296|3 Developer
-  Workflow changes in v2.1.296]]'
+- '[[Changes/Cline/2026-10-13-deleting-a-slash-command-from-the-input-keeps-the-spacing-of-the-text-around-it|Deleting
+  a slash command from the input keeps the spacing of the text around it]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-13-background-shell-wait-status-no-longer-animates-when-no-foreground-work-is-runni|Background-shell
+  wait status no longer animates when no foreground work is running]]'
 - '[[Changes/Claude Code/2026-10-14-added-a-dir-prop-on-a-mod-s-text-for-right-to-left-text-on-windows-and-in-vs-cod|Added
   a dir prop on a mod''s Text for right-to-left text]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'

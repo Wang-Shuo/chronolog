@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 80bf8c3b413c92a903e71cc7bc0a6cb0b1c7cf48f797758592ce726b4ac1af42
+machine_hash: f94611f8388a93a584f2372082d210d322c2f53dd36bf07c377d931c52acc0ca
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.239
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-17-remote-control-effort-picks-made-on-a-phone-or-on-claude-ai-code-now-apply-to-te|Remote
-  Control: effort picks made on a phone or on claude.ai/code now apply…]]'
 - '[[Changes/Claude Code/2026-08-19-2-developer-workflow-changes-in-v2-1-236|2 Developer
   Workflow changes in v2.1.236]]'
 - '[[Changes/Claude Code/2026-08-20-2-developer-workflow-changes-in-v2-1-238|2 Developer
   Workflow changes in v2.1.238]]'
+- '[[Changes/Codex CLI/2026-08-20-18-developer-workflow-changes-in-rust-v0-149-0|18
+  Developer Workflow changes in rust-v0.149.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918|claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918]]'
 source_type: github_releases
 theme: developer-workflow
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.239
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-2-developer-workflow-changes-in-v2-1-238|2 Developer Workflow changes in v2.1.238]]
+- Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-18-developer-workflow-changes-in-rust-v0-149-0|18 Developer Workflow changes in rust-v0.149.0]]
 - Later: 2026-08-25 · ChatGPT · [[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Create webhook-triggered tasks]]
 <!-- chronolog:end -->
 

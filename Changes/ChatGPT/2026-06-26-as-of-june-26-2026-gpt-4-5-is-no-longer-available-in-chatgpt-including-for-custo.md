@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: ac0bd545bbf91bbe8bc802857f0b5fa90fddf0ec6bbba8311102821108a88da6
+machine_hash: e86b4ca60a6988bde589caa2e5752b5521560717687967d7173b678a4323e547
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,12 +49,12 @@ record:
   title: Retiring GPT-4.5
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-19-added-a-warning-when-the-requested-model-is-deprecated-or-automatically-updated|Added
-  a warning when the requested model is deprecated or automatically updated…]]'
-- '[[Changes/ChatGPT/2026-06-24-we-re-updating-gpt-5-5-instant-our-most-used-model-in-chatgpt-to-improve-convers|GPT-5.5
-  Instant Update]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-24-2-model-support-changes-in-v1-0-65|2 Model
+  Support changes in v1.0.65]]'
 - '[[Changes/Claude Code/2026-06-25-added-claude-code-assistant-response-opentelemetry-log-event-containing-the-mode|Added
   claude_code.assistant_response OpenTelemetry log event containing…]]'
+- '[[Changes/Codex CLI/2026-06-25-4-model-support-changes-in-rust-v0-142-2|4 Model
+  Support changes in rust-v0.142.2]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-26-retiring-gpt-4-5-41879baf|chatgpt-2026-06-26-retiring-gpt-4-5-41879baf]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-added-claude-code-assistant-response-opentelemetry-log-event-containing-the-mode|Added claude_code.assistant_response OpenTelemetry log event containing…]]
-- Later: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-added-support-for-organization-default-models-admins-set-it-in-the-org-console-i|Added support for organization default models]]
+- Earlier: 2026-06-25 · Codex CLI · [[Changes/Codex CLI/2026-06-25-4-model-support-changes-in-rust-v0-142-2|4 Model Support changes in rust-v0.142.2]]
+- Later: 2026-06-26 · Cline · [[Changes/Cline/2026-06-26-2-model-support-changes-in-v4-0-0|2 Model Support changes in v4.0.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

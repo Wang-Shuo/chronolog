@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 39fd121c1651b2ae949462ed9ca80c11c1b76a5a1e04283588fefb378bce3a1a
+machine_hash: 0151fd4f35861a376a6750e0dd13562d8623cad6fb6001ef94083ab8210c0152
 product: cursor
 product_name: Cursor
 record:
@@ -48,11 +48,12 @@ record:
     Enterprise
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-hooks-cloud-distribution|Hooks: Cloud Distribution]]'
-- '[[Changes/Cursor/2025-10-29-sandboxed-terminals-admin-controls|Sandboxed Terminals:
-  Admin Controls]]'
-- '[[Changes/Cursor/2025-11-21-3-enterprise-and-administration-changes-in-2-1|3 Enterprise
-  and Administration changes in 2.1]]'
+- '[[Changes/Cline/2025-12-02-add-enterprise-to-readme-by-reneehuang1-in-https-github-com-cline-cline-pull-758|add
+  enterprise to readme]]'
+- '[[Changes/Cline/2025-12-11-enterprise-docs-by-jl-codes-in-https-github-com-cline-cline-pull-7714|Enterprise
+  docs]]'
+- '[[Changes/Gemini CLI/2025-12-16-add-new-enterprise-instructions-by-chrstnb-in-https-github-com-google-gemini-gem|Add
+  new enterprise instructions]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb|cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb]]'
 source_type: cursor_changelog
 theme: enterprise-admin
@@ -86,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-3-enterprise-and-administration-changes-in-2-1|3 Enterprise and Administration changes in 2.1]]
-- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-cursor-blame|Cursor Blame]]
+- Earlier: 2025-12-16 · Gemini CLI · [[Changes/Gemini CLI/2025-12-16-add-new-enterprise-instructions-by-chrstnb-in-https-github-com-google-gemini-gem|Add new enterprise instructions]]
+- Later: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-support-enterprise-managed-configuration-requirements-on-macos-via-an-mdm-provid|Support enterprise-managed configuration requirements on macOS via an MDM-provided…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

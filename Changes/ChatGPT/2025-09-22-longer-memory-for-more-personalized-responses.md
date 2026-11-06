@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 53289f827d214c24371e8a073095be7d6e7755fbb99778549e03849e6dc3c37f
+machine_hash: 7904cd914092f6c5b2ce5a280f5394626833af96d755bce6eba7a59b6d11fbe7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,9 @@ record:
   title: Longer memory for more personalized responses
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses-4644fd|Longer
-  memory for more personalized responses]]'
-- '[[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-87f79a|An
-  improvement to projects is now available]]'
+- '[[Changes/Windsurf/2025-08-28-memory-improvements|Memory improvements]]'
+- '[[Changes/Gemini CLI/2025-09-04-2-memory-and-personalization-changes-in-v0-3-0|2
+  Memory and Personalization changes in v0.3.0]]'
 - '[[Changes/ChatGPT/2025-09-15-personalization-no-longer-opens-in-a-separate-modal-you-can-manage-personalizati|Personalization
   settings are now in Settings]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7|chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7]]'
@@ -77,7 +76,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2025-09-15 · ChatGPT · [[Changes/ChatGPT/2025-09-15-personalization-no-longer-opens-in-a-separate-modal-you-can-manage-personalizati|Personalization settings are now in Settings]]
-- Later: 2025-09-25 · ChatGPT · [[Changes/ChatGPT/2025-09-25-we-re-launching-an-early-preview-of-chatgpt-pulse-for-pro-users-on-ios-and-andro-cf8064|Introducing ChatGPT Pulse for Pro users]]
+- Later: 2025-09-23 · Codex CLI · [[Changes/Codex CLI/2025-09-23-new-review-commands-review-specific-commit-against-a-base-branch-or-custom-instr|New /review commands…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

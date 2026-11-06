@@ -1,0 +1,109 @@
+---
+card_id: gemini-cli-2026-04-23-65c0d0
+date: '2026-04-23'
+description: 'Gemini CLI · 2026-04-23 · Reliability and Performance: 2 changes in
+  Release v0.39.0 — feat(test-utils): add memory usage integration test harness by
+  @sripasg…'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1225
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: reliability-performance
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: digest
+machine_hash: 050f734e620584fef3d2e94c5657e08ae7f5e885d0287acb7feb06c7efd62334
+product: gemini-cli
+product_name: Gemini CLI
+record:
+  card_id: gemini-cli-2026-04-23-65c0d0
+  comparison: ''
+  date: '2026-04-23'
+  description: 'Gemini CLI — Release v0.39.0: 2 Reliability and Performance changes'
+  evidence:
+  - quote: 'feat(test-utils): add memory usage integration test harness by @sripasg
+      in https://github.com/google-gemini/gemini-cli/pull/24876'
+    source_release: https://github.com/google-gemini/gemini-cli/releases/tag/v0.39.0
+  - quote: 'feat(test): add a performance test in asian language by @cynthialong0-0
+      in https://github.com/google-gemini/gemini-cli/pull/25392'
+    source_release: https://github.com/google-gemini/gemini-cli/releases/tag/v0.39.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: digest
+  product: gemini-cli
+  product_name: Gemini CLI
+  slug: 2-reliability-and-performance-changes-in-v0-39-0
+  source_release: gemini-cli-2026-04-23-v0-39-0-github-312542426-bb57739c
+  source_type: github_releases
+  theme: reliability-performance
+  title: 2 Reliability and Performance changes in v0.39.0
+  type: change
+related_changes:
+- '[[Changes/Claude Code/2026-04-20-resume-on-large-sessions-is-significantly-faster-up-to-67-on-40mb-sessions-and-h|/resume
+  on large sessions is significantly faster (up to 67% on 40MB+ sessions)…]]'
+- '[[Changes/Claude Code/2026-04-22-2-reliability-and-performance-changes-in-v2-1-117|2
+  Reliability and Performance changes in v2.1.117]]'
+- '[[Changes/Codex CLI/2026-04-23-18662-feat-add-metric-to-track-the-number-of-turns-with-memory-usage-jif-oai|♯18662
+  feat: add metric to track the number of turns with memory usage @jif-oai]]'
+source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-23-v0-39-0-github-312542426-bb57739c|gemini-cli-2026-04-23-v0-39-0-github-312542426-bb57739c]]'
+source_type: github_releases
+theme: reliability-performance
+title: 2 Reliability and Performance changes in v0.39.0
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 2 Reliability and Performance changes in v0.39.0
+
+**Gemini CLI** · 2026-04-23 · [[Themes/reliability-performance|Reliability and Performance]] · Digest · [Official source](https://github.com/google-gemini/gemini-cli/releases/tag/v0.39.0) · from [[Releases/Gemini CLI/gemini-cli-2026-04-23-v0-39-0-github-312542426-bb57739c|Release v0.39.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+## Changes in this digest
+
+> feat(test-utils): add memory usage integration test harness by @sripasg in https://github.com/google-gemini/gemini-cli/pull/24876
+
+> feat(test): add a performance test in asian language by @cynthialong0-0 in https://github.com/google-gemini/gemini-cli/pull/25392
+
+Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.39.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Gemini CLI/2026-04-23-6-safety-and-privacy-changes-in-v0-39-0|6 Safety and Privacy changes in v0.39.0]] · Safety and Privacy
+- [[Changes/Gemini CLI/2026-04-23-feat-cli-extract-quotacontext-and-resolve-infinite-render-loop-by-adib234-in-htt|feat(cli): extract QuotaContext and resolve infinite render loop]] · Automation and Scheduling
+- [[Changes/Gemini CLI/2026-04-23-3-developer-workflow-changes-in-v0-39-0|3 Developer Workflow changes in v0.39.0]] · Developer Workflow
+- [[Changes/Gemini CLI/2026-04-23-6-agent-mode-changes-in-v0-39-0|6 Agent Mode changes in v0.39.0]] · Agent Mode
+- [[Changes/Gemini CLI/2026-04-23-2-model-support-changes-in-v0-39-0|2 Model Support changes in v0.39.0]] · Model Support
+- [[Changes/Gemini CLI/2026-04-23-4-apps-and-integrations-changes-in-v0-39-0|4 Apps and Integrations changes in v0.39.0]] · Apps and Integrations
+- [[Changes/Gemini CLI/2026-04-23-use-macos-latest-large-runner-where-applicable-by-scidomino-in-https-github-com|use macos-latest-large runner where applicable]] · Mobile and Desktop
+- [[Changes/Gemini CLI/2026-04-23-docs-correct-documentation-for-enforced-authentication-type-by-cocosheng-g-in-ht|docs: correct documentation for enforced authentication type]] · Account and Access
+- [[Changes/Gemini CLI/2026-04-23-4-memory-and-personalization-changes-in-v0-39-0|4 Memory and Personalization changes in v0.39.0]] · Memory and Personalization
+- [[Changes/Gemini CLI/2026-04-23-stop-showing-scrollbar-unless-we-are-in-terminalbuffer-mode-by-jacob314-in-https|Stop showing scrollbar unless we are in terminalBuffer mode]] · Interface Experience
+- [[Changes/Gemini CLI/2026-04-23-chore-core-increase-codebase-investigator-turn-limits-to-50-by-abhipatel12-in-ht|chore(core): increase codebase investigator turn limits to 50]] · Editor Experience
+- [[Changes/Gemini CLI/2026-04-23-30-other-changes-in-v0-39-0|30 other changes in v0.39.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Reliability and Performance
+
+- Earlier: 2026-04-23 · Codex CLI · [[Changes/Codex CLI/2026-04-23-18662-feat-add-metric-to-track-the-number-of-turns-with-memory-usage-jif-oai|♯18662 feat: add metric to track the number of turns with memory usage @jif-oai]]
+- Later: 2026-04-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-23-improve-rendering-performance-when-displaying-large-amounts-of-text-in-the-timel|Improve rendering performance when displaying large amounts of text in the timeline]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20gemini-cli-2026-04-23-65c0d0&body=Card%3A%20Changes%2FGemini%20CLI%2F2026-04-23-2-reliability-and-performance-changes-in-v0-39-0.md%0ACard%20ID%3A%20gemini-cli-2026-04-23-65c0d0%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fgoogle-gemini%2Fgemini-cli%2Freleases%2Ftag%2Fv0.39.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

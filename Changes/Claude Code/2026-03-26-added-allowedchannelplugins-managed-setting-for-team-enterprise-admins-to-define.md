@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dd0c965844ab5c112dea4537f07ccbb37bc8311c1dfa072debf62d9650b85325
+machine_hash: 84462816825d4febe3abd099ac747f165ca57f9725f9dcb64d21c1d3cde21983
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,8 +53,8 @@ record:
     to define…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-05-improved-macos-startup-for-claude-ai-enterprise-team-users-by-skipping-an-unnece|Improved
-  macOS startup for Claude.ai enterprise/team users by skipping…]]'
+- '[[Changes/Codex CLI/2026-03-05-13388-config-enforce-enterprise-feature-requirements-bolinfest|♯13388
+  config: enforce enterprise feature requirements @bolinfest]]'
 - '[[Changes/Claude Code/2026-03-14-added-session-quality-survey-enterprise-admins-can-configure-the-sample-rate-via|Added
   session quality survey]]'
 - '[[Changes/ChatGPT/2026-03-17-we-ve-simplified-the-model-picker-to-make-it-easier-to-choose-the-right-level-of-a3fc77|We’ve
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-03-17 · ChatGPT · [[Changes/ChatGPT/2026-03-17-we-ve-simplified-the-model-picker-to-make-it-easier-to-choose-the-right-level-of-a3fc77|We’ve simplified the model picker to make it easier to choose the right level of reasoning]]
-- Later: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-added-an-enterprise-admin-control-for-disabling-made-with-cursor-code-attributio|Added an Enterprise Admin control for disabling "Made with Cursor" code attribution…]]
+- Later: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-15789-treat-chatgpt-hc-plan-as-enterprise-arnavdugar-openai|♯15789 Treat ChatGPT hc plan as Enterprise @arnavdugar-openai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

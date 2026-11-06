@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e86ea35e191a610e726c6882ba6f9007179775d6cb40b60398f229ef0d02ee18
+machine_hash: b3fd729d76531e5614a3659a6955774368fb79a3410b8bc98f418bab810a4c37
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.117
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-16-2-developer-workflow-changes-in-v2-1-111|2 Developer
-  Workflow changes in v2.1.111]]'
-- '[[Changes/Claude Code/2026-04-16-added-ultrareview-for-running-comprehensive-code-review-in-the-cloud-using-paral|Added
-  /ultrareview for running comprehensive code review in the cloud using…]]'
-- '[[Changes/Claude Code/2026-04-17-3-developer-workflow-changes-in-v2-1-113|3 Developer
-  Workflow changes in v2.1.113]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-17-3-developer-workflow-changes-in-v1-0-32|3
+  Developer Workflow changes in v1.0.32]]'
+- '[[Changes/Codex CLI/2026-04-20-6-developer-workflow-changes-in-rust-v0-122-0|6
+  Developer Workflow changes in rust-v0.122.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-20-2-developer-workflow-changes-in-v1-0-33|2
+  Developer Workflow changes in v1.0.33]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-22-v2-1-117-github-311984967-1d917373|claude-code-2026-04-22-v2-1-117-github-311984967-1d917373]]'
 source_type: github_releases
 theme: developer-workflow
@@ -86,8 +86,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.117
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-3-developer-workflow-changes-in-v2-1-113|3 Developer Workflow changes in v2.1.113]]
-- Later: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-4-developer-workflow-changes-in-v2-1-119|4 Developer Workflow changes in v2.1.119]]
+- Earlier: 2026-04-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-20-2-developer-workflow-changes-in-v1-0-33|2 Developer Workflow changes in v1.0.33]]
+- Later: 2026-04-22 · Cline · [[Changes/Cline/2026-04-22-remove-foreground-terminal-mode-all-task-command-execution-now-defaults-to-backg|Remove foreground terminal mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

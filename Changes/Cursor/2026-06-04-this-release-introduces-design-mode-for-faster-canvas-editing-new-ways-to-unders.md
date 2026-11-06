@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 800a15b4256c6bbba4fa5a9b9918c56c148587085cf908280545af0e23e099ed
+machine_hash: 5971da0fac2b4973768d80bb1704a54d474f60429fd796e2bece3165607166d0
 product: cursor
 product_name: Cursor
 record:
@@ -59,12 +59,12 @@ record:
   title: Cursor introduces Design Mode for faster canvas editing, new ways to understand…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-22-improved-feedback-reports-to-include-the-conversation-that-happened-before-conte|Improved
-  /feedback reports to include the conversation that happened before…]]'
-- '[[Changes/Claude Code/2026-05-27-added-pluginsuggestionmarketplaces-managed-setting-admins-can-allowlist-org-mark|Added
-  pluginSuggestionMarketplaces managed setting]]'
-- '[[Changes/Claude Code/2026-05-28-claude-now-reserves-the-multiple-choice-question-prompt-for-decisions-it-genuine|Claude
-  now reserves the multiple-choice question prompt for decisions it genuinely…]]'
+- '[[Changes/Codex CLI/2026-06-01-9-context-window-changes-in-rust-v0-136-0|9 Context
+  Window changes in rust-v0.136.0]]'
+- '[[Changes/Gemini CLI/2026-06-03-feat-context-complete-simplification-work-by-joshualitt-in-https-github-com-goog|feat(context):
+  Complete simplification work]]'
+- '[[Changes/Codex CLI/2026-06-04-3-context-window-changes-in-rust-v0-137-0|3 Context
+  Window changes in rust-v0.137.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85|cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85]]'
 source_type: cursor_changelog
 theme: context-window
@@ -99,8 +99,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-claude-now-reserves-the-multiple-choice-question-prompt-for-decisions-it-genuine|Claude now reserves the multiple-choice question prompt for decisions it genuinely…]]
-- Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-the-claude-md-is-too-long-warning-threshold-now-scales-with-the-model-s-context|The "CLAUDE.md is too long" warning threshold now scales with the model's context window]]
+- Earlier: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-3-context-window-changes-in-rust-v0-137-0|3 Context Window changes in rust-v0.137.0]]
+- Later: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-2-context-window-changes-in-v1-0-60|2 Context Window changes in v1.0.60]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

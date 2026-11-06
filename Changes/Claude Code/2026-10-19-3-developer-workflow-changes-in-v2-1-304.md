@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b033a0ecc977d420c2794499aa0a05a46c8165f428b64c784e8dd7fa2df84c84
+machine_hash: 5cea5ab45c1b9a1846f2f44c44ae55e8af21850ffb803f46eb027fe836c00514
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,12 +50,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.304
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-added-a-dir-prop-on-a-mod-s-text-for-right-to-left-text-on-windows-and-in-vs-cod|Added
-  a dir prop on a mod''s Text for right-to-left text]]'
 - '[[Changes/Claude Code/2026-10-14-10-developer-workflow-changes-in-v2-1-299|10 Developer
   Workflow changes in v2.1.299]]'
 - '[[Changes/Claude Code/2026-10-15-2-developer-workflow-changes-in-v2-1-301|2 Developer
   Workflow changes in v2.1.301]]'
+- '[[Changes/Codex CLI/2026-10-15-15-developer-workflow-changes-in-rust-v0-163-0|15
+  Developer Workflow changes in rust-v0.163.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994|claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994]]'
 source_type: github_releases
 theme: developer-workflow
@@ -99,8 +99,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.304
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-15 · Claude Code · [[Changes/Claude Code/2026-10-15-2-developer-workflow-changes-in-v2-1-301|2 Developer Workflow changes in v2.1.301]]
-- Later: 2026-10-20 · Claude Code · [[Changes/Claude Code/2026-10-20-2-developer-workflow-changes-in-v2-1-305|2 Developer Workflow changes in v2.1.305]]
+- Earlier: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-15-developer-workflow-changes-in-rust-v0-163-0|15 Developer Workflow changes in rust-v0.163.0]]
+- Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-2-developer-workflow-changes-in-v1-0-100|2 Developer Workflow changes in v1.0.100]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

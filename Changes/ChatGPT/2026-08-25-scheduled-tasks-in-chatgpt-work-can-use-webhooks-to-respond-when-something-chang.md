@@ -4,20 +4,20 @@ date: '2026-08-25'
 description: 'ChatGPT · 2026-08-25 · Automation and Scheduling: Scheduled tasks in
   ChatGPT Work can use webhooks to respond when something changes in a supported app…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled
-    tasks in ChatGPT]]'
+  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
+    syntax error loop detection]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 588
+  lag_days: 720
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cf4f015356718d3bf5656a450b22d50a6efeafbd3a45717c1c802bf8d763a7ce
+machine_hash: a9bf99ef5636e4d5ac08e9a7c7fe6e12726d951e1b2b1c511c4329ff68dbd36f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,12 +63,12 @@ record:
     changes…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-18-2-automation-and-scheduling-changes-in-06-18-26|2 Automation
-  and Scheduling changes in 06.18.26]]'
-- '[[Changes/ChatGPT/2026-07-09-work-can-also-keep-projects-moving-through-scheduled-tasks-that-run-once-repeat-2d6910|Work
-  can also keep projects moving through Scheduled Tasks that run once, repeat…]]'
-- '[[Changes/Claude Code/2026-08-13-pasted-and-clipboard-images-are-read-without-blocking-the-event-loop|Pasted
-  and clipboard images are read without blocking the event loop]]'
+- '[[Changes/Cline/2026-08-14-stop-two-cline-installations-on-different-builds-from-shutting-each-other-s-hub|Stop
+  two Cline installations on different builds from shutting each other''s Hub…]]'
+- '[[Changes/OpenHands/2026-08-17-feat-automations-add-a-git-sync-page-by-vascosch92-in-https-github-com-openhands|feat(automations):
+  add a Git Sync page]]'
+- '[[Changes/OpenHands/2026-08-21-4-automation-and-scheduling-changes-in-v1-15-0|4
+  Automation and Scheduling changes in v1.15.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4|chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4]]'
 source_type: chatgpt_changelog
 theme: automation-scheduling
@@ -100,14 +100,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-pasted-and-clipboard-images-are-read-without-blocking-the-event-loop|Pasted and clipboard images are read without blocking the event loop]]
-- Later: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-changed-loop-self-paced-dynamic-mode-and-the-no-prompt-autonomous-default-are-no|Changed /loop: self-paced dynamic mode and the no-prompt autonomous default…]]
+- Earlier: 2026-08-21 · OpenHands · [[Changes/OpenHands/2026-08-21-4-automation-and-scheduling-changes-in-v1-15-0|4 Automation and Scheduling changes in v1.15.0]]
+- Later: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-40436-add-a-managed-gate-for-in-app-local-automation-copyberry|♯40436 Add a managed gate for in-app local automation @copyberry]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-01-14 · ChatGPT · [[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled tasks in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

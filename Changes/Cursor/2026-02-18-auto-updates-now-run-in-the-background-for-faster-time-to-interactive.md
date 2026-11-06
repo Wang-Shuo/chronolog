@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 907567f9483c295e81c6460031386575d50468b1b6880bf8f4daf3166830bf2e
+machine_hash: e69d8d091ae97a733fbc6df9a8fc5c814d744b0bb705c886be752606d82b6d1c
 product: cursor
 product_name: Cursor
 record:
@@ -41,10 +41,10 @@ record:
   title: Auto-updates now run in the background for faster time-to-interactive
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-17-improved-memory-usage-for-shell-commands-that-produce-large-output-rss-no-longer|Improved
-  memory usage for shell commands that produce large output]]'
 - '[[Changes/Cursor/2026-02-17-2-reliability-and-performance-changes-in-2-5|2 Reliability
   and Performance changes in 2.5]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-17-2-reliability-and-performance-changes-in-v0-0-411|2
+  Reliability and Performance changes in v0.0.411]]'
 - '[[Changes/Claude Code/2026-02-18-5-reliability-and-performance-changes-in-v2-1-47|5
   Reliability and Performance changes in v2.1.47]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7|cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7]]'
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-02-18 · Claude Code · [[Changes/Claude Code/2026-02-18-5-reliability-and-performance-changes-in-v2-1-47|5 Reliability and Performance changes in v2.1.47]]
-- Later: 2026-02-19 · Claude Code · [[Changes/Claude Code/2026-02-19-2-reliability-and-performance-changes-in-v2-1-49|2 Reliability and Performance changes in v2.1.49]]
+- Later: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-feat-plan-add-positive-test-case-and-update-eval-stability-policy-by-jerop-in-ht|feat(plan): add positive test case and update eval stability policy]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f57890f7f146352025d77e078d2d6919ef2d6c8c8c18610b0aa9d8d2e26c82c4
+machine_hash: 3066c624821d6b555cd7e259f4144dbd9aae10013dd36e08c98a314f86e0c3c7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,12 +46,12 @@ record:
     and bug…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-21-text-selection-improvements-you-can-now-select-text-across-horizontal-rulers-3-p|Text
-  selection improvements: you can now select text across horizontal rulers]]'
 - '[[Changes/Cursor/2025-03-11-5-reliability-and-performance-changes-in-0-47-x|5 Reliability
   and Performance changes in 0.47.x]]'
 - '[[Changes/Cursor/2025-03-11-this-release-focuses-mainly-on-stability-and-performance-improvements-to-make-ex|This
   release focuses mainly on stability and performance improvements to make…]]'
+- '[[Changes/Cline/2025-03-15-improve-checkpoints-loading-performance-and-display-warning-for-large-projects-n|Improve
+  checkpoints loading performance and display warning for large projects not…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255|chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-this-release-focuses-mainly-on-stability-and-performance-improvements-to-make-ex|This release focuses mainly on stability and performance improvements to make…]]
+- Earlier: 2025-03-15 · Cline · [[Changes/Cline/2025-03-15-improve-checkpoints-loading-performance-and-display-warning-for-large-projects-n|Improve checkpoints loading performance and display warning for large projects not…]]
 - Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-improved-display-and-faster-streaming-of-conversations-and-message-menu-actions|Improved display and faster streaming of conversations and message menu actions]]
 <!-- chronolog:end -->
 

@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d4b72293ea08d0b154783852ad59fc13648d744bda6d7560546e11baaa6c613e
+machine_hash: 760595203a506dc842d5a3518c3129bad7cf6434a1f1d83b4a73d5b83f089f14
 product: claude-code
 product_name: Claude Code
 record:
@@ -40,10 +40,10 @@ record:
   title: Removed `/tag` command
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-27-added-x-claude-code-session-id-header-to-api-requests-so-proxies-can-aggregate-r|Added
-  X-Claude-Code-Session-Id header to API requests so proxies can aggregate…]]'
-- '[[Changes/Claude Code/2026-04-01-4-developer-workflow-changes-in-v2-1-89|4 Developer
-  Workflow changes in v2.1.89]]'
+- '[[Changes/Gemini CLI/2026-04-01-3-developer-workflow-changes-in-v0-36-0|3 Developer
+  Workflow changes in v0.36.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-01-2-developer-workflow-changes-in-v1-0-15|2
+  Developer Workflow changes in v1.0.15]]'
 - '[[Changes/Cursor/2026-04-02-2-developer-workflow-changes-in-3-0|2 Developer Workflow
   changes in 3.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5|claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5]]'

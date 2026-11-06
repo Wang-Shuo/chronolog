@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0f6b257661e2155346076865c39d17bd728f7202882c7c5bf587e97156770b71
+machine_hash: 4878996040bb356f061fc61b227abb90d1e2cc8e7bd8ba5a720ad3935a6ebb63
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: Improved fullscreen streaming
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-10-improved-slash-command-menu-blue-now-marks-only-the-selected-row-matched-charact|Improved
-  slash-command menu]]'
 - '[[Changes/Claude Code/2026-08-11-updated-terminal-title-busy-spinner-glyphs-to-reduce-tab-bar-jitter-on-some-term|Updated
   terminal title busy-spinner glyphs to reduce tab-bar jitter on some terminals]]'
+- '[[Changes/Cline/2026-08-11-make-the-auto-approve-menu-the-single-source-of-truth-for-unattended-runs-and-re|Make
+  the auto-approve menu the single source of truth for unattended runs and remove…]]'
 - '[[Changes/Claude Code/2026-08-12-vscode-added-session-groups-in-the-sidebar-right-click-to-create-rename-or-delet|VSCode
   Added session groups in the sidebar]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-13-v2-1-232-github-370225682-71e478db|claude-code-2026-08-13-v2-1-232-github-370225682-71e478db]]'

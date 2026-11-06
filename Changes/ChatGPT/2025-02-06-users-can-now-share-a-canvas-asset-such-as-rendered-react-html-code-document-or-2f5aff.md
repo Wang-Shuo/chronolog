@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 55726054d49c0b4a2a5dc3dc5f470e6100479d1137dadfa3343eb87bfa880f07
+machine_hash: e421f6d4df11a72701079f90084853f454df003e19d07dde6522284afc06de35
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2025-01-15 · ChatGPT · [[Changes/ChatGPT/2025-01-15-edit-a-code-block-in-canvas|Edit a code block in Canvas]]
-- Later: 2025-06-24 · ChatGPT · [[Changes/ChatGPT/2025-06-24-projects-can-now-support-40-uploaded-files-up-from-20-for-pro-users|Project file limit increased (Pro)]]
+- Later: 2025-05-28 · Cline · [[Changes/Cline/2025-05-28-add-support-for-uploading-various-file-types-xml-json-txt-log-md-docx-ipynb-pdf|Add support for uploading various file types…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

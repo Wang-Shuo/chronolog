@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3f395e954f992b35a930f9b60a6d56583b2a54bb1e0a507c5994315df8ac038e
+machine_hash: 173dacba9d0ad0a6016d9c3da6345a479b1028ccb1f8d4b757ca3d1a04afd1bc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -62,10 +62,10 @@ record:
   title: Updates to deep research
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-30-responses-in-chatgpt-are-now-more-visual-and-easier-to-scan-for-everyday-questio|More
-  visual responses]]'
-- '[[Changes/Claude Code/2026-02-05-vscode-added-spinner-when-loading-past-conversations-list|VSCode:
-  Added spinner when loading past conversations list]]'
+- '[[Changes/Codex CLI/2026-02-05-2-interface-experience-changes-in-rust-v0-97-0|2
+  Interface Experience changes in rust-v0.97.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-05-cancel-resume-session-picker-to-start-a-new-session|Cancel
+  --resume session picker to start a new session]]'
 - '[[Changes/Claude Code/2026-02-06-2-interface-experience-changes-in-v2-1-33|2 Interface
   Experience changes in v2.1.33]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-10-updates-to-deep-research-d407d051|chatgpt-2026-02-10-updates-to-deep-research-d407d051]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b38b28defe9dc35c39449fe61aa14aa9a4dda6d326e743ca584ed9c2465793ef
+machine_hash: 0d478c45a2c7c8c4751b36f4e6b1b8824d671ee67001fb98aec02f3f0e136122
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: Added `CLAUDE_CODE_NO_FLICKER=1` environment variable to opt into flicker-free…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-improved-mention-file-autocomplete-performance-on-large-repositories|Improved
-  @-mention file autocomplete performance on large repositories]]'
-- '[[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed
-  /skills menu to sort alphabetically for easier scanning]]'
+- '[[Changes/Codex CLI/2026-03-31-3-interface-experience-changes-in-rust-v0-118-0|3
+  Interface Experience changes in rust-v0.118.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-31-2-interface-experience-changes-in-v1-0-14|2
+  Interface Experience changes in v1.0.14]]'
 - '[[Changes/Claude Code/2026-04-01-changed-resume-picker-to-no-longer-show-sessions-created-by-claude-p-or-sdk-invo|Changed
   --resume picker to no longer show sessions created by claude -p or SDK…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-89-github-303967782-358023f0|claude-code-2026-04-01-v2-1-89-github-303967782-358023f0]]'
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-changed-resume-picker-to-no-longer-show-sessions-created-by-claude-p-or-sdk-invo|Changed --resume picker to no longer show sessions created by claude -p or SDK…]]
-- Later: 2026-04-02 · Claude Code · [[Changes/Claude Code/2026-04-02-feedback-now-explains-why-it-s-unavailable-instead-of-disappearing-from-the-slas|/feedback now explains why it's unavailable instead of disappearing from the slash menu]]
+- Later: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-2-interface-experience-changes-in-v0-36-0|2 Interface Experience changes in v0.36.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

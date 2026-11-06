@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 63c2de9d76d1da2316cd63eea64ebee22532ede5b719ff5768d555758d1d2cb5
+machine_hash: 1b4b4dac5d11e7c552143680bfb4bc9c6992ace51d57ffd838600d69fc63df7c
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,12 +58,12 @@ record:
   title: 6 Apps and Integrations changes in v2.1.277
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-10-apps-and-integrations-changes-in-v2-1-274|10
-  Apps and Integrations changes in v2.1.274]]'
-- '[[Changes/Claude Code/2026-09-17-6-apps-and-integrations-changes-in-v2-1-275|6
-  Apps and Integrations changes in v2.1.275]]'
-- '[[Changes/Claude Code/2026-09-17-added-plugin-install-plugin-marketplace-source-which-offers-to-add-the-marketpla|Added
-  /plugin install plugin --marketplace source, which offers to add…]]'
+- '[[Changes/Cline/2026-09-17-terminal-commands-that-succeed-without-printing-anything-git-add-a-on-a-clean-tr|Terminal
+  commands that succeed without printing anything…]]'
+- '[[Changes/Codex CLI/2026-09-17-24-apps-and-integrations-changes-in-rust-v0-155-0|24
+  Apps and Integrations changes in rust-v0.155.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-17-resuming-an-active-session-without-plugin-directory-discovery-or-working-directo|Resuming
+  an active session without plugin-directory, discovery, or working-directory…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36|claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36]]'
 source_type: github_releases
 theme: apps-integrations
@@ -114,8 +114,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.277
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-added-plugin-install-plugin-marketplace-source-which-offers-to-add-the-marketpla|Added /plugin install plugin --marketplace source, which offers to add…]]
-- Later: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-8-apps-and-integrations-changes-in-v2-1-280|8 Apps and Integrations changes in v2.1.280]]
+- Earlier: 2026-09-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-17-resuming-an-active-session-without-plugin-directory-discovery-or-working-directo|Resuming an active session without plugin-directory, discovery, or working-directory…]]
+- Later: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-8-apps-and-integrations-changes-in-v1-0-87|8 Apps and Integrations changes in v1.0.87]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

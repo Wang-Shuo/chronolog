@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c970b00cac4db657abb93a303c6ab98695cbb480aa414d48c772b2f3ebf9e577
+machine_hash: aac00a718e35898fa82f5dca2ae90dd94d3266b96316cf5ec32804e78043d26e
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,12 +54,12 @@ record:
     memory…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-07-we-re-starting-to-roll-out-health-a-dedicated-space-in-chatgpt-for-health-and-we|We’re
-  starting to roll out Health, a dedicated space in ChatGPT for health…]]'
-- '[[Changes/ChatGPT/2026-01-15-when-reference-chat-history-is-enabled-chatgpt-can-now-more-reliably-find-specif|Improved
-  memory for finding details from past chats (Plus & Pro)]]'
 - '[[Changes/Claude Code/2026-02-05-claude-now-automatically-records-and-recalls-memories-as-it-works|Claude
   now automatically records and recalls memories as it works]]'
+- '[[Changes/Codex CLI/2026-02-05-4-memory-and-personalization-changes-in-rust-v0-97-0|4
+  Memory and Personalization changes in rust-v0.97.0]]'
+- '[[Changes/Codex CLI/2026-02-05-2-memory-and-personalization-changes-in-rust-v0-98-0|2
+  Memory and Personalization changes in rust-v0.98.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0|claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0]]'
 source_type: github_releases
 theme: memory
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-02-05 · Claude Code · [[Changes/Claude Code/2026-02-05-claude-now-automatically-records-and-recalls-memories-as-it-works|Claude now automatically records and recalls memories as it works]]
+- Earlier: 2026-02-05 · Codex CLI · [[Changes/Codex CLI/2026-02-05-2-memory-and-personalization-changes-in-rust-v0-98-0|2 Memory and Personalization changes in rust-v0.98.0]]
 - Later: 2026-02-09 · ChatGPT · [[Changes/ChatGPT/2026-02-09-we-re-beginning-to-roll-out-a-test-for-ads-in-chatgpt-in-the-u-s-for-logged-in-a|Testing ads in ChatGPT (Free, Go)]]
 <!-- chronolog:end -->
 

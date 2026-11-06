@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 506f6b1eaa68e9854cdbe7453b18127f03dd6ce867e919f08f6db1188410a211
+machine_hash: 3a843f09a14a6a931f1836b403376ae1913c7c5a060fb18cddd6335393012235
 product: cursor
 product_name: Cursor
 record:
@@ -40,12 +40,12 @@ record:
   title: Better Remote Support
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-23-never-lets-your-root-directory-be-in-the-gitignore|gitignore
-  and search hotfix]]'
-- '[[Changes/Cursor/2023-10-01-ask-about-git-commits-and-prs-using-git-in-chat|Ask
-  about git commits and PRs using @git in chat!]]'
+- '[[Changes/Aider/2023-10-20-3-developer-workflow-changes-in-v0-15-0|3 Developer
+  Workflow changes in v0.15.0]]'
 - '[[Changes/Cursor/2023-10-20-also-there-s-an-experimental-bash-mode-enable-it-in-the-settings-and-let-the-cha|Also,
   there''s an experimental bash mode]]'
+- '[[Changes/Aider/2024-01-04-improved-unicode-encoding-for-run-command-output-by-ctoth|Improved
+  unicode encoding for /run command output, by @ctoth]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-06-0-21-6-nightly-https-cursor-com-changelog-0-21-6-nightly-197640be|cursor-2024-01-06-0-21-6-nightly-https-cursor-com-changelog-0-21-6-nightly-197640be]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -72,7 +72,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-10-20 · Cursor · [[Changes/Cursor/2023-10-20-also-there-s-an-experimental-bash-mode-enable-it-in-the-settings-and-let-the-cha|Also, there's an experimental bash mode]]
+- Earlier: 2024-01-04 · Aider · [[Changes/Aider/2024-01-04-improved-unicode-encoding-for-run-command-output-by-ctoth|Improved unicode encoding for /run command output, by @ctoth]]
 - Later: 2024-01-06 · Cursor · [[Changes/Cursor/2024-01-06-dev-containers-are-now-supported-this-build-also|Dev containers are now supported!]]
 <!-- chronolog:end -->
 

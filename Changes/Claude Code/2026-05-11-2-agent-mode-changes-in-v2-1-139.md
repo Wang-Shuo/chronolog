@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dbb68522f63d90a334932da4fb74d4cde637b26e50266b9dcf935d5886bcb656
+machine_hash: 6b92750897f350e1f8185baaef2120c4e8a2f33a222815b4f1539f07f7de918c
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,9 @@ record:
   title: 2 Agent Mode changes in v2.1.139
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-29-3-agent-mode-changes-in-build-programmatic-agents|3
-  Agent Mode changes in Build programmatic agents…]]'
-- '[[Changes/Claude Code/2026-05-04-auto-mode-when-the-classifier-can-t-evaluate-an-action-the-error-now-includes-a|Auto
-  mode: when the classifier can''t evaluate an action, the error now includes…]]'
+- '[[Changes/Windsurf/2026-05-06-agent-command-center|Agent Command Center]]'
+- '[[Changes/Codex CLI/2026-05-07-5-agent-mode-changes-in-rust-v0-129-0|5 Agent Mode
+  changes in rust-v0.129.0]]'
 - '[[Changes/Cursor/2026-05-07-added-the-ability-to-control-explore-subagent-behavior-from-settings-choose-a-sp|Added
   the ability to control Explore subagent behavior from settings]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 825262018b54649d7313df83e783878461bec7cb099e8559921ab275d690c1cc
+machine_hash: 3ee5a990b2848784a0b36bc96d8757bcff9b1f4705ddcfc4d7ae1951a4ae6feb
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     the prompt…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-29-2-editor-experience-changes-in-v2-1-285|2 Editor
-  Experience changes in v2.1.285]]'
-- '[[Changes/Claude Code/2026-09-30-improved-the-external-editor-ctrl-g-editors-that-take-a-line-number-now-open-on|Improved
-  the external editor (Ctrl+G)]]'
 - '[[Changes/Claude Code/2026-10-01-vscode-changed-the-claude-in-chrome-enabled-by-default-switch-to-also-connect-th|VSCode
   Changed the Claude in Chrome "Enabled by default" switch to also connect…]]'
+- '[[Changes/Codex CLI/2026-10-01-49082-skip-remote-git-discovery-for-guardian-diff-paths-jif-oai|♯49082
+  Skip remote Git discovery for Guardian diff paths @jif-oai]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-05-2-editor-experience-changes-in-v1-0-92|2
+  Editor Experience changes in v1.0.92]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab|claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab]]'
 source_type: github_releases
 theme: editor-experience
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-vscode-changed-the-claude-in-chrome-enabled-by-default-switch-to-also-connect-th|VSCode Changed the Claude in Chrome "Enabled by default" switch to also connect…]]
-- Later: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-improved-the-bash-edit-diff-note-to-say-the-listed-files-changed-while-the-comma|Improved the Bash edit diff note to say the listed files changed while the command…]]
+- Earlier: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-2-editor-experience-changes-in-v1-0-92|2 Editor Experience changes in v1.0.92]]
+- Later: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-feat-conversation-give-the-drawer-tab-strip-real-tab-semantics-by-errmakov-in-ht|feat(conversation): give the drawer tab strip real tab semantics]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

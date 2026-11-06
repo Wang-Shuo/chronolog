@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: be781ae084173edecbeb5ef9a79b39089cb0c56d12d68ce26c45451dec9b80ec
+machine_hash: 4ce2b2b4f6c1e09da17ab9218f955cde2ec979b6e3ede8b710e513c5cbc0da5a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -76,12 +76,12 @@ record:
   title: Starting today, project sharing is available to all ChatGPT users, including…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|Record
-  mode is now available to ChatGPT Plus users globally in the macOS desktop app]]'
-- '[[Changes/ChatGPT/2025-08-22-this-feature-will-initially-only-be-available-on-the-chatgpt-website-and-windows|This
-  feature will initially only be available on the ChatGPT website and Windows app]]'
-- '[[Changes/ChatGPT/2025-09-17-the-thinking-time-toggle-is-live-today-on-chatgpt-com-settings-you-choose-on-the|The
-  thinking-time toggle is live today on chatgpt.com]]'
+- '[[Changes/GitHub Copilot CLI/2025-10-07-improved-file-write-performances-especially-on-windows-by-not-relying-on-the-she|Improved
+  file write performances (especially on Windows) by not relying on the shell…]]'
+- '[[Changes/GitHub Copilot CLI/2025-10-13-removed-the-windows-support-is-experimental-warning-we-ve-made-some-big-strides|Removed
+  the "Windows support is experimental" warning -- we''ve made some big strides…]]'
+- '[[Changes/Codex CLI/2025-10-17-3-mobile-and-desktop-changes-in-rust-v0-47-0|3 Mobile
+  and Desktop changes in rust-v0.47.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-23-shared-projects-217fa07d|chatgpt-2025-10-23-shared-projects-217fa07d]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -123,8 +123,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-09-17 · ChatGPT · [[Changes/ChatGPT/2025-09-17-the-thinking-time-toggle-is-live-today-on-chatgpt-com-settings-you-choose-on-the|The thinking-time toggle is live today on chatgpt.com]]
-- Later: 2025-11-13 · ChatGPT · [[Changes/ChatGPT/2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05|Group chats in ChatGPT]]
+- Earlier: 2025-10-17 · Codex CLI · [[Changes/Codex CLI/2025-10-17-3-mobile-and-desktop-changes-in-rust-v0-47-0|3 Mobile and Desktop changes in rust-v0.47.0]]
+- Later: 2025-10-23 · Cline · [[Changes/Cline/2025-10-23-fixing-banner-to-not-show-cli-release-for-windows-users-by-arafatkatze-in-https|Fixing banner to not show CLI release for windows users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

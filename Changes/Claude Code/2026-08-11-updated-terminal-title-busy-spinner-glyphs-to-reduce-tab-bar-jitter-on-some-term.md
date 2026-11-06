@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 602fdedffac23e5e89d06a71cfc667bf8244846f47b4c537b55dccfced0279ba
+machine_hash: 3c77afcf809b6b987a40d5e0f37ab49c8ac22104a5a49d16dae5e2d312abf64c
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,11 @@ record:
     terminals
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-07-improved-fullscreen-mode-to-keep-the-full-pre-compaction-history-in-scrollback-a|Improved
-  fullscreen mode to keep the full pre-compaction history in scrollback…]]'
-- '[[Changes/Claude Code/2026-08-08-vscode-fixed-focus-view-folding-away-the-latest-to-do-list-a-pending-question-s|VSCode
-  Fixed Focus view folding away the latest to-do list, a pending question''s…]]'
 - '[[Changes/Claude Code/2026-08-10-improved-slash-command-menu-blue-now-marks-only-the-selected-row-matched-charact|Improved
   slash-command menu]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-10-2-interface-experience-changes-in-v1-0-79|2
+  Interface Experience changes in v1.0.79]]'
+- '[[Changes/Windsurf/2026-08-10-devin-local|Devin Local]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9|claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9]]'
 source_type: github_releases
 theme: interface-experience
@@ -92,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-10 · Claude Code · [[Changes/Claude Code/2026-08-10-improved-slash-command-menu-blue-now-marks-only-the-selected-row-matched-charact|Improved slash-command menu]]
-- Later: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-vscode-added-session-groups-in-the-sidebar-right-click-to-create-rename-or-delet|VSCode Added session groups in the sidebar]]
+- Earlier: 2026-08-10 · Windsurf · [[Changes/Windsurf/2026-08-10-devin-local|Devin Local]]
+- Later: 2026-08-11 · Cline · [[Changes/Cline/2026-08-11-make-the-auto-approve-menu-the-single-source-of-truth-for-unattended-runs-and-re|Make the auto-approve menu the single source of truth for unattended runs and remove…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

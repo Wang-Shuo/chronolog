@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 89f657076c1895937283ad98b05ba86edc8e2dfc5701ca3fc6a5c1927fc4a066
+machine_hash: 318513361d0040ad0b3e7b9217bbdee3f520213aed4dab47abb299d9ec9bc4bc
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: Added a prompt before writing to shell startup files…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-13-bedrock-awscredentialexport-now-always-runs-when-configured-instead-of-being-ski|Bedrock:
-  awsCredentialExport now always runs when configured instead of being…]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-01-surface-the-underlying-reason-e-g-github-api-rate-limit-when-sdk-auth-token-vali|Surface
+  the underlying reason (e.g. GitHub API rate limit) when SDK auth-token…]]'
 - '[[Changes/ChatGPT/2026-06-02-active-sessions-shows-sessions-known-through-session-management-including-chatgp|Active
   sessions shows sessions known through session management, including ChatGPT…]]'
 - '[[Changes/ChatGPT/2026-06-02-log-out-of-individual-sessions-or-all-sessions-from-active-sessions|Log
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-06-02 · ChatGPT · [[Changes/ChatGPT/2026-06-02-log-out-of-individual-sessions-or-all-sessions-from-active-sessions|Log out of individual sessions or all sessions from Active sessions]]
-- Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-improved-the-error-message-shown-when-your-organization-has-disabled-api-key-aut|Improved the error message shown when your organization has disabled API key…]]
+- Later: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-mcp-oauth-re-authentication-no-longer-fails-with-an-address-in-use-error-when-a|MCP OAuth re-authentication no longer fails with an address-in-use error…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

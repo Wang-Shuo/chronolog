@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a76229d304214dac17eb8057b678b0a8d7d6542d7b200e5846cdae44c3d1be28
+machine_hash: 8d4c8760b1532b1439d6ff0f653b44e50043c24a9f85f40ba6c3ab55e5a469d8
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.286
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-25-3-developer-workflow-changes-in-v2-1-283|3 Developer
-  Workflow changes in v2.1.283]]'
-- '[[Changes/Claude Code/2026-09-28-changed-recap-to-decline-with-a-short-notice-when-it-arrives-relayed-from-a-chat|Changed
-  /recap to decline with a short notice when it arrives relayed from a chat…]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-28-3-developer-workflow-changes-in-v1-0-89|3
+  Developer Workflow changes in v1.0.89]]'
 - '[[Changes/Claude Code/2026-09-29-3-developer-workflow-changes-in-v2-1-285|3 Developer
   Workflow changes in v2.1.285]]'
+- '[[Changes/Codex CLI/2026-09-29-5-developer-workflow-changes-in-rust-v0-159-0|5
+  Developer Workflow changes in rust-v0.159.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7|claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7]]'
 source_type: github_releases
 theme: developer-workflow
@@ -95,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.286
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-3-developer-workflow-changes-in-v2-1-285|3 Developer Workflow changes in v2.1.285]]
+- Earlier: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-5-developer-workflow-changes-in-rust-v0-159-0|5 Developer Workflow changes in rust-v0.159.0]]
 - Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-3-developer-workflow-changes-in-v2-1-287|3 Developer Workflow changes in v2.1.287]]
 <!-- chronolog:end -->
 

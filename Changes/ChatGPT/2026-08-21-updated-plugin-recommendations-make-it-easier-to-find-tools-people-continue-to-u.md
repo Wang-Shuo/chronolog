@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8a93e8461321807f1f467ac8477c44bef823015bf1d6a324c5adb529781da053
+machine_hash: 589e4b2c49d732d9f22fa09273f40b637ec57ae21a5eef671c092397da5a983f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,12 @@ record:
     to use
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-19-sigterm-in-print-sdk-mode-no-longer-records-an-interrupted-turn-or-synthetic-too|SIGTERM
-  in print/SDK mode no longer records an interrupted turn or synthetic tool…]]'
 - '[[Changes/ChatGPT/2026-08-20-use-apple-messages-from-codex-and-chatgpt-work-on-apple-silicon-macs-the-apple-m|Use
   Apple Messages from Codex and ChatGPT Work]]'
 - '[[Changes/Claude Code/2026-08-20-6-apps-and-integrations-changes-in-v2-1-238|6
   Apps and Integrations changes in v2.1.238]]'
+- '[[Changes/Codex CLI/2026-08-20-33-apps-and-integrations-changes-in-rust-v0-149-0|33
+  Apps and Integrations changes in rust-v0.149.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-21-improved-plugin-discovery-on-web-and-mobile-4a2c9c9b|chatgpt-2026-08-21-improved-plugin-discovery-on-web-and-mobile-4a2c9c9b]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-6-apps-and-integrations-changes-in-v2-1-238|6 Apps and Integrations changes in v2.1.238]]
+- Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-33-apps-and-integrations-changes-in-rust-v0-149-0|33 Apps and Integrations changes in rust-v0.149.0]]
 - Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-2-apps-and-integrations-changes-in-v2-1-239|2 Apps and Integrations changes in v2.1.239]]
 <!-- chronolog:end -->
 

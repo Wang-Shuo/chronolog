@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2d31031ba2c21cb98f0f324d3722261e9d96f8b5aee447364fcb8d459479ca12
+machine_hash: 034efc6da4abb432c4b3efeb3edc435e1d910c4ba58d563897e8f392c0e212b5
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,7 @@ record:
     that new…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-08-turn-a-sketch-into-an-image-on-mobile-type-in-the-message-box-and-select-sketch|Turn
-  a sketch into an image]]'
+- '[[Changes/Windsurf/2026-09-10-devin-desktop|Devin Desktop]]'
 - '[[Changes/Claude Code/2026-09-11-changed-skills-synced-from-claude-ai-in-cloud-sessions-to-be-named-anthropic-ski|Changed
   skills synced from claude.ai in cloud sessions to be named…]]'
 - '[[Changes/Claude Code/2026-09-14-improved-mobile-to-show-a-single-qr-code-for-claude-ai-mobile-which-opens-the-ri|Improved
@@ -94,7 +93,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-improved-mobile-to-show-a-single-qr-code-for-claude-ai-mobile-which-opens-the-ri|Improved /mobile to show a single QR code for claude.ai/mobile, which opens…]]
-- Later: 2026-09-17 · ChatGPT · [[Changes/ChatGPT/2026-09-17-you-can-now-connect-multiple-accounts-to-plugins-in-chatgpt-expanding-support-be|Connect multiple accounts to plugins in ChatGPT]]
+- Later: 2026-09-15 · Windsurf · [[Changes/Windsurf/2026-09-15-devin-desktop|Devin Desktop]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

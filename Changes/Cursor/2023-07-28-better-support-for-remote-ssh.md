@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2aa2d23caa2fc6e8c6862826e5a887bd9c6e572d860c13e8e179512d00426e42
+machine_hash: cfeb4ddb1594fda4510563fc6080012d125a7596f409332db16e2e8f3a1df532
 product: cursor
 product_name: Cursor
 record:
@@ -50,11 +50,10 @@ record:
   title: Better support for remote-ssh
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-06-27-you-can-now-use-run-debug-in-cursor-again-the-toolbar-is-back-db8146|Use
-  Run & debug in Cursor again (the toolbar is back)]]'
-- '[[Changes/Cursor/2023-07-12-this-update-patches-search-cmd-win-shift-f-and-many-extensions-for-and-wsl-and-s|This
-  update patches search (Cmd/Win+Shift+F) and many extensions for and WSL and SSH
-  users]]'
+- '[[Changes/Aider/2023-07-24-added-git-command-to-run-git-from-inside-aider-chats|Added
+  /git command to run git from inside aider chats]]'
+- '[[Changes/Aider/2023-07-24-3-developer-workflow-changes-in-v0-10-1|3 Developer
+  Workflow changes in v0.10.1]]'
 - '[[Changes/Cursor/2023-07-27-linter-is-back|Linter is back!]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991|cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991]]'
 source_type: cursor_changelog

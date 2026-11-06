@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: a9ba73bad832fe466b9e5b2058d41298dc7eaf41f8589068abc4511bd425ca82
+machine_hash: 97c24348ffb30c5df34536141cc1dae2f7c1e47b1093d46424625e02159dae33
 product: cursor
 product_name: Cursor
 record:
@@ -47,9 +47,9 @@ record:
   title: Agent in Jupyter Notebooks
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-05-15-fast-edits-for-long-files-with-agent|Fast edits for
-  long files with Agent]]'
 - '[[Changes/Cursor/2025-05-15-background-agent-preview|Background Agent (Preview)]]'
+- '[[Changes/OpenHands/2025-05-20-2-agent-mode-changes-in-0-39-0|2 Agent Mode changes
+  in 0.39.0]]'
 - '[[Changes/Cursor/2025-06-04-open-background-agent-control-panel-with-cmd-ctrl-e|Open
   Background Agent control panel with Cmd/Ctrl+E]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
@@ -95,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-background-agent-preview|Background Agent (Preview)]]
-- Later: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-you-can-now-launch-background-agents-directly-from-slack-by-mentioning-cursor-ag|Launch Background Agents directly from Slack by mentioning @Cursor]]
+- Earlier: 2025-05-20 · OpenHands · [[Changes/OpenHands/2025-05-20-2-agent-mode-changes-in-0-39-0|2 Agent Mode changes in 0.39.0]]
+- Later: 2025-06-10 · OpenHands · [[Changes/OpenHands/2025-06-10-ensured-prs-opened-by-agent-is-properly-tracked-in-conversation-metadata-by-malh|Ensured PRs opened by agent is properly tracked in conversation metadata]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

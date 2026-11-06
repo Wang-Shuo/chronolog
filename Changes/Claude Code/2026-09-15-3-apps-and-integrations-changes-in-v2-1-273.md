@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fa3934eba733394452a46726169ffada8237532a700b5a0208f3517c11eefe52
+machine_hash: 701d06525ab683a7f3bbe15125d5b1a111fbe4d054b2f2e44f119052f681f2bc
 product: claude-code
 product_name: Claude Code
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.273
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-5-apps-and-integrations-changes-in-v2-1-271|5 Apps and Integrations changes in v2.1.271]]
-- Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-10-apps-and-integrations-changes-in-v2-1-274|10 Apps and Integrations changes in v2.1.274]]
+- Later: 2026-09-15 · Gemini CLI · [[Changes/Gemini CLI/2026-09-15-feat-extensions-harden-path-resolution-and-boundary-validation-in-extension-load|feat(extensions): harden path resolution and boundary validation in extension loader]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 51130735f5821d4750c0dc89d5f7b08d317fa2fead78109b0fdf9b70db01c1a8
+machine_hash: 50ede12ed1eef3580b038876923ee733fd61d96853f69c47ae174e509cbfd30b
 product: claude-code
 product_name: Claude Code
 record:
@@ -59,12 +59,12 @@ record:
   title: Improved token counts behind a Claude apps gateway on Amazon Bedrock…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-30-improved-the-model-fallback-notice-and-the-autocompact-thrashing-error-to-say-wh|Improved
-  the model fallback notice and the autocompact-thrashing error to say…]]'
-- '[[Changes/Claude Code/2026-10-01-changed-opus-4-7-and-fable-to-use-a-1m-context-window-by-default-on-bedrock-vert|Changed
-  Opus 4.7+ and Fable to use a 1M context window by default on Bedrock…]]'
-- '[[Changes/Claude Code/2026-10-02-changed-autocompact-to-save-the-auto-compact-window-per-model-so-each-model-keep|Changed
-  /autocompact to save the auto-compact window per model, so each model…]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-05-2-context-window-changes-in-v1-0-92|2 Context
+  Window changes in v1.0.92]]'
+- '[[Changes/Codex CLI/2026-10-07-9-context-window-changes-in-rust-v0-161-0|9 Context
+  Window changes in rust-v0.161.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-07-honor-context-long-context-at-startup-and-show-accurate-context-allowance-in-con|Honor
+  --context long_context at startup and show accurate context allowance in /context]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'
 source_type: github_releases
 theme: context-window
@@ -104,8 +104,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-changed-autocompact-to-save-the-auto-compact-window-per-model-so-each-model-keep|Changed /autocompact to save the auto-compact window per model, so each model…]]
-- Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-2-context-window-changes-in-v2-1-296|2 Context Window changes in v2.1.296]]
+- Earlier: 2026-10-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-07-honor-context-long-context-at-startup-and-show-accurate-context-allowance-in-con|Honor --context long_context at startup and show accurate context allowance in /context]]
+- Later: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-10-context-window-changes-in-rust-v0-162-0|10 Context Window changes in rust-v0.162.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

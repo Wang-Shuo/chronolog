@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f3c9cabdc110a2779bfe29a1a706a90ee32183744c6b88833337441fb29375a5
+machine_hash: a245274e6a85cfd161873ee949465a38462ee0729a90cbb1522ab3478459f8ea
 product: cursor
 product_name: Cursor
 record:
@@ -55,10 +55,10 @@ record:
     your prompt first
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-01-usage-now-hides-redundant-current-week-sonnet-only-bar-for-pro-and-enterprise-pl|/usage
-  now hides redundant "Current week (Sonnet only)" bar for Pro and Enterprise plans]]'
-- '[[Changes/ChatGPT/2026-04-09-today-we-re-releasing-gpt-5-3-instant-mini-in-chatgpt-it-replaces-gpt-5-instant|GPT-5.3
-  Instant mini in ChatGPT]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-10-display-reasoning-token-usage-in-the-per-model-token-breakdown-when-nonzero|Display
+  reasoning token usage in the per-model token breakdown when nonzero]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-13-the-config-dir-flag-is-now-respected-when-selecting-the-active-model|The
+  --config-dir flag is now respected when selecting the active model]]'
 - '[[Changes/Claude Code/2026-04-14-improved-model-to-warn-before-switching-models-mid-conversation-since-the-next-r|Improved
   /model to warn before switching models mid-conversation, since the next…]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a|cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a]]'
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-04-14 · Claude Code · [[Changes/Claude Code/2026-04-14-improved-model-to-warn-before-switching-models-mid-conversation-since-the-next-r|Improved /model to warn before switching models mid-conversation, since the next…]]
-- Later: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-3-model-support-changes-in-v2-1-111|3 Model Support changes in v2.1.111]]
+- Later: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-3-model-support-changes-in-rust-v0-121-0|3 Model Support changes in rust-v0.121.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a6d6fdc3a9c32f7ed873609b482e58ee7cd5a6923b228455b927c80a9ff926d8
+machine_hash: acb2a85024a919890a6235bdd002f5ea9e3a5f52b5e93ca151413d1ca61c8b28
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,12 @@ record:
   title: 0.48.2 - Allows users to accept/reject file edited in another chat tab
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-ignore-files-cursorignore-now-blocks-files-from-being-added-in-chat-or-sent-up-f|Ignore
-  files: .cursorignore now blocks files from being added in chat or sent up…]]'
-- '[[Changes/Cursor/2025-02-19-tab-rebinding-tab-suggestions-can-now-be-rebound-to-a-different-keybinding-using|Tab
-  rebinding: Tab suggestions can now be rebound to a different keybinding using…]]'
 - '[[Changes/Cursor/2025-03-11-0-47-2-cursor-tab-accepts-work-with-single-line-selections|0.47.2:
   Cursor Tab accepts work with single-line selections]]'
+- '[[Changes/Aider/2025-03-21-added-commands-to-switch-between-model-types-editor-model-for-editor-model-and-w|Added
+  commands to switch between model types]]'
+- '[[Changes/Cline/2025-03-23-add-fix-with-cline-code-action-when-you-see-a-lightbulb-icon-in-your-editor-you|Add
+  Fix with Cline code action - when you see a lightbulb icon in your editor, you…]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-0-47-2-cursor-tab-accepts-work-with-single-line-selections|0.47.2: Cursor Tab accepts work with single-line selections]]
-- Later: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-new-tab-model|New Tab model]]
+- Earlier: 2025-03-23 · Cline · [[Changes/Cline/2025-03-23-add-fix-with-cline-code-action-when-you-see-a-lightbulb-icon-in-your-editor-you|Add Fix with Cline code action - when you see a lightbulb icon in your editor, you…]]
+- Later: 2025-03-25 · Aider · [[Changes/Aider/2025-03-25-added-edit-as-an-alias-for-the-editor-command|Added /edit as an alias for the /editor command]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

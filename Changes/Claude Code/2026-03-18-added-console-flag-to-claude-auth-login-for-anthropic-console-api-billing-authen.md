@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c058bff1a3cdcf566f2c9db8afa4479246287639d5f79babb35058c0dcd72a21
+machine_hash: 9950161d991dd07519fe2ac10ab28133061ed0b01f398ebdac6156feab8d4772
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
     billing)…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-05-2-account-and-access-changes-in-v2-1-69|2 Account
-  and Access changes in v2.1.69]]'
-- '[[Changes/Claude Code/2026-03-06-vscode-added-native-mcp-server-management-dialog-use-mcp-in-the-chat-panel-to-en|VSCode
-  Added native MCP server management dialog]]'
-- '[[Changes/Claude Code/2026-03-11-added-actionable-guidance-when-oauth-login-or-connectivity-checks-fail-due-to-ss|Added
-  actionable guidance when OAuth login or connectivity checks fail due to SSL…]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-13-2-account-and-access-changes-in-v1-0-5|2
+  Account and Access changes in v1.0.5]]'
+- '[[Changes/Codex CLI/2026-03-16-2-account-and-access-changes-in-rust-v0-115-0|2
+  Account and Access changes in rust-v0.115.0]]'
+- '[[Changes/Gemini CLI/2026-03-17-refactor-core-extract-shared-oauth-flow-primitives-from-mcpoauthprovider-by-sand|refactor(core):
+  extract shared OAuth flow primitives from MCPOAuthProvider]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd|claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd]]'
 source_type: github_releases
 theme: account-access
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-added-actionable-guidance-when-oauth-login-or-connectivity-checks-fail-due-to-ss|Added actionable guidance when OAuth login or connectivity checks fail due to SSL…]]
-- Later: 2026-03-20 · Claude Code · [[Changes/Claude Code/2026-03-20-updated-mcp-oauth-to-support-client-id-metadata-document-cimd-sep-991-for-server|Updated MCP OAuth to support Client ID Metadata Document (CIMD / SEP-991)…]]
+- Earlier: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-refactor-core-extract-shared-oauth-flow-primitives-from-mcpoauthprovider-by-sand|refactor(core): extract shared OAuth flow primitives from MCPOAuthProvider]]
+- Later: 2026-03-19 · Codex CLI · [[Changes/Codex CLI/2026-03-19-app-server-tui-now-supports-device-code-chatgpt-sign-in-during-onboarding-and-ca|App-server TUI now supports device-code ChatGPT sign-in during onboarding and can…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

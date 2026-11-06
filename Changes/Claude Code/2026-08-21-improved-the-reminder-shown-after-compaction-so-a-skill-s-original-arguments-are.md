@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 791e080f8063683a687cf9160067e983bafd24ef4d28ef8b4f24ec9ae048b1fe
+machine_hash: 142191788d070dd9e2913548dbe69f7f32be7f432804eee591f21f09a86aced8
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     are not…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-14-improved-apps-gateway-error-forwarding-400-413-errors-from-vertex-foundry-and-cl|Improved
-  apps gateway error forwarding]]'
-- '[[Changes/Claude Code/2026-08-17-2-context-window-changes-in-v2-1-234|2 Context
-  Window changes in v2.1.234]]'
 - '[[Changes/Claude Code/2026-08-18-improved-the-context-limit-error-to-say-when-auto-compact-is-off-and-point-to-co|Improved
   the context-limit error to say when auto-compact is off and point…]]'
+- '[[Changes/Codex CLI/2026-08-18-13-context-window-changes-in-rust-v0-148-0|13 Context
+  Window changes in rust-v0.148.0]]'
+- '[[Changes/Codex CLI/2026-08-20-9-context-window-changes-in-rust-v0-149-0|9 Context
+  Window changes in rust-v0.149.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918|claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918]]'
 source_type: github_releases
 theme: context-window
@@ -93,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-08-18 · Claude Code · [[Changes/Claude Code/2026-08-18-improved-the-context-limit-error-to-say-when-auto-compact-is-off-and-point-to-co|Improved the context-limit error to say when auto-compact is off and point…]]
-- Later: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-changed-sonnet-5-s-default-auto-compact-window-to-its-full-1m-context-so-session|Changed Sonnet 5's default auto-compact window to its full 1M context, so sessions…]]
+- Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-9-context-window-changes-in-rust-v0-149-0|9 Context Window changes in rust-v0.149.0]]
+- Later: 2026-08-21 · Cline · [[Changes/Cline/2026-08-21-only-treat-an-anthropic-invalid-request-error-as-a-context-overflow-when-its-mes|Only treat an Anthropic invalid_request_error as a context-overflow…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

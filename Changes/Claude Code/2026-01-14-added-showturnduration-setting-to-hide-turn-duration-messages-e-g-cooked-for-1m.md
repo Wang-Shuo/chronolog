@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c10a1489cc7cfe450e0aceb4e5536ca02562a8ebc3f47037ef842ad2edffd2b4
+machine_hash: fad4f2aef02ea8a97d7c54cd24a5b9efca082c5acf1d7b025854287941ae660d
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     for 1m 6s")
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-09-2-interface-experience-changes-in-v2-1-3|2 Interface
-  Experience changes in v2.1.3]]'
-- '[[Changes/Claude Code/2026-01-09-added-shift-tab-keyboard-shortcut-in-plan-mode-to-quickly-select-auto-accept-edi|Added
-  Shift+Tab keyboard shortcut in plan mode to quickly select…]]'
+- '[[Changes/Codex CLI/2026-01-09-3-interface-experience-changes-in-rust-v0-80-0|3
+  Interface Experience changes in rust-v0.80.0]]'
 - '[[Changes/Claude Code/2026-01-13-added-updates-section-to-doctor-showing-auto-update-channel-and-available-npm-ve|Added
   Updates section to /doctor showing auto-update channel and available npm…]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-13-shell-mode-history-navigation-now-filters-by-prefix-typing-git-and-pressing-up-a|Shell
+  mode history navigation now filters by prefix - typing !git and pressing up…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80|claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80]]'
 source_type: github_releases
 theme: interface-experience
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-added-updates-section-to-doctor-showing-auto-update-channel-and-available-npm-ve|Added Updates section to /doctor showing auto-update channel and available npm…]]
-- Later: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-2-interface-experience-changes-in-cli-agent-modes-and-cloud-handoff|2 Interface Experience changes in CLI Agent Modes and Cloud Handoff]]
+- Earlier: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-shell-mode-history-navigation-now-filters-by-prefix-typing-git-and-pressing-up-a|Shell mode history navigation now filters by prefix - typing !git and pressing up…]]
+- Later: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-2-interface-experience-changes-in-rust-v0-81-0|2 Interface Experience changes in rust-v0.81.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b87cf617d396d674c59c02980225761e6c6820f7af7de9bd9dc7cb2dda835561
+machine_hash: 1d58d9e266b4f8f493b223a9f1f7be203415362314979ddc94ddb239f657fe5e
 product: cursor
 product_name: Cursor
 record:
@@ -42,10 +42,12 @@ record:
   title: Added team and MDM hooks support to CLI with more efficient execution
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-audit-log|Audit Log]]'
-- '[[Changes/Cursor/2025-10-29-team-commands|Team Commands]]'
-- '[[Changes/ChatGPT/2025-11-25-share-photos-to-discuss-them-out-loud|Share photos
-  to discuss them out loud]]'
+- '[[Changes/Codex CLI/2026-01-16-collaboration-wait-calls-can-block-on-multiple-ids-in-one-request-simplifying-mu|Collaboration
+  wait calls can block on multiple IDs in one request, simplifying…]]'
+- '[[Changes/Codex CLI/2026-01-21-9-collaboration-changes-in-rust-v0-88-0|9 Collaboration
+  changes in rust-v0.88.0]]'
+- '[[Changes/Codex CLI/2026-01-22-9583-add-collaboration-mode-to-turncontextitem-charley-oai|♯9583
+  Add collaboration_mode to TurnContextItem @charley-oai]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -91,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-11-25 · ChatGPT · [[Changes/ChatGPT/2025-11-25-share-photos-to-discuss-them-out-loud|Share photos to discuss them out loud]]
-- Later: 2026-02-05 · Claude Code · [[Changes/Claude Code/2026-02-05-added-research-preview-agent-teams-feature-for-multi-agent-collaboration-token-i|Added research preview agent teams feature for multi-agent collaboration…]]
+- Earlier: 2026-01-22 · Codex CLI · [[Changes/Codex CLI/2026-01-22-9583-add-collaboration-mode-to-turncontextitem-charley-oai|♯9583 Add collaboration_mode to TurnContextItem @charley-oai]]
+- Later: 2026-01-25 · Codex CLI · [[Changes/Codex CLI/2026-01-25-5-collaboration-changes-in-rust-v0-90-0|5 Collaboration changes in rust-v0.90.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

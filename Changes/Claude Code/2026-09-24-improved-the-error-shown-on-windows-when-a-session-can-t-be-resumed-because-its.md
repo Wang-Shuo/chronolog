@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 30c7bb27e85226936b0f8ca56e4ab7df0cece3237e89a169b3ad1f4418ab49ae
+machine_hash: 28ea392e24aa5046db6af095101bffa64aa2e02ae0b277ca665a9c09767071bf
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: Improved the error shown on Windows when a session can't be resumed because…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-claude-code-on-the-web-changed-the-admin-claude-code-setting-labeled-web-to-clou|Claude
-  Code on the web Changed the admin Claude Code setting labeled…]]'
-- '[[Changes/ChatGPT/2026-09-21-you-can-now-track-your-credit-score-in-chatgpt-securely-connect-your-experian-cr|Credit
-  scores in Finances]]'
+- '[[Changes/Codex CLI/2026-09-22-11-mobile-and-desktop-changes-in-rust-v0-156-0|11
+  Mobile and Desktop changes in rust-v0.156.0]]'
 - '[[Changes/Claude Code/2026-09-23-2-mobile-and-desktop-changes-in-v2-1-281|2 Mobile
   and Desktop changes in v2.1.281]]'
+- '[[Changes/OpenHands/2026-09-23-feat-desktop-universal-macos-dmg-with-per-arch-bundled-runtimes-by-harsh-batheja|feat(desktop):
+  universal macOS DMG with per-arch bundled runtimes]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4|claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-2-mobile-and-desktop-changes-in-v2-1-281|2 Mobile and Desktop changes in v2.1.281]]
-- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-site-owners-and-editors-on-plus-and-pro-can-select-edit-site-from-a-published-si|Site owners and editors on Plus and Pro can select Edit site from a published Site…]]
+- Earlier: 2026-09-23 · OpenHands · [[Changes/OpenHands/2026-09-23-feat-desktop-universal-macos-dmg-with-per-arch-bundled-runtimes-by-harsh-batheja|feat(desktop): universal macOS DMG with per-arch bundled runtimes]]
+- Later: 2026-09-24 · Windsurf · [[Changes/Windsurf/2026-09-24-devin-desktop|Devin Desktop]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

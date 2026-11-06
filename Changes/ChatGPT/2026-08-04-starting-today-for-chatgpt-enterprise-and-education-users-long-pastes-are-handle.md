@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ce31c38a1cb97239d462e746b8bb105f1358e722fc9efafea7c6ee287982e030
+machine_hash: 9ee983e88b74fb4746ab15e4e5307175f69a304ac4bc6ed9b5395586123ee787
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,11 +45,11 @@ record:
     handled…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-in-enterprise-workspaces-public-publishing-is-off-by-default-and-must-be-enabled|In
-  Enterprise workspaces, public publishing is off by default and must be enabled…]]'
 - '[[Changes/Claude Code/2026-07-15-changed-usage-credits-to-ask-for-confirmation-before-sending-a-request-to-organi|Changed
   /usage-credits to ask for confirmation before sending a request…]]'
 - '[[Changes/Cursor/2026-07-22-admin-controls|Admin controls]]'
+- '[[Changes/Codex CLI/2026-07-29-2-enterprise-and-administration-changes-in-rust-v0-146-0|2
+  Enterprise and Administration changes in rust-v0.146.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-04-large-pastes-are-now-handled-as-attachments-for-all-plans-8f11f30a|chatgpt-2026-08-04-large-pastes-are-now-handled-as-attachments-for-all-plans-8f11f30a]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-07-22 · Cursor · [[Changes/Cursor/2026-07-22-admin-controls|Admin controls]]
-- Later: 2026-08-13 · ChatGPT · [[Changes/ChatGPT/2026-08-13-computer-history-is-an-optional-feature-in-the-chatgpt-macos-app-that-lets-chatg|Computer History for macOS]]
+- Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-2-enterprise-and-administration-changes-in-rust-v0-146-0|2 Enterprise and Administration changes in rust-v0.146.0]]
+- Later: 2026-08-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-10-2-enterprise-and-administration-changes-in-v1-0-79|2 Enterprise and Administration changes in v1.0.79]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

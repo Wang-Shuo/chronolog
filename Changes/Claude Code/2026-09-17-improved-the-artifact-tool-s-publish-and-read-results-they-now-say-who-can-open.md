@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 660a72259d6bbed3d5da8b1668a62179f4362451eb1866f1d417c1c164e23780
+machine_hash: e1778b986a9171704a4903e580f43b24e60ffc2ab31cc2b7eba91748c05f7df4
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: Improved the Artifact tool's publish and read results
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-3-interface-experience-changes-in-v2-1-271|3 Interface
-  Experience changes in v2.1.271]]'
-- '[[Changes/Claude Code/2026-09-15-claude-code-on-the-web-improved-the-routine-detail-page-menu-and-rename-in-the-b|Claude
-  Code on the web Improved the routine detail page]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-16-3-interface-experience-changes-in-v1-0-85|3
+  Interface Experience changes in v1.0.85]]'
+- '[[Changes/OpenHands/2026-09-16-2-interface-experience-changes-in-v1-19-0|2 Interface
+  Experience changes in v1.19.0]]'
 - '[[Changes/ChatGPT/2026-09-17-chatgpt-is-now-available-in-microsoft-word-you-can-draft-from-notes-summarize-a-4c7506|ChatGPT
   for Word]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd|claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd]]'

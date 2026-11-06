@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3a10d15efe524858639917aa0bc61dc1c7294ed706a007d3b16f341f66dc2c81
+machine_hash: 571ee7037443a553900b256342dfad1d690ac23904222ae88e2ad2858ca31d1f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,12 +63,12 @@ record:
   title: ChatGPT Work can now complete tasks on signed-in websites
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-12-updated-login-to-repeat-the-claude-code-oauth-token-override-warning-after-a-suc|Updated
-  /login to repeat the CLAUDE_CODE_OAUTH_TOKEN override warning after…]]'
-- '[[Changes/Claude Code/2026-08-13-remote-control-resuming-a-conversation-whose-session-was-deleted-from-claude-ai|Remote
-  Control: resuming a conversation whose session was deleted from claude.ai…]]'
 - '[[Changes/Claude Code/2026-08-17-2-account-and-access-changes-in-v2-1-234|2 Account
   and Access changes in v2.1.234]]'
+- '[[Changes/Codex CLI/2026-08-18-16-account-and-access-changes-in-rust-v0-148-0|16
+  Account and Access changes in rust-v0.148.0]]'
+- '[[Changes/Codex CLI/2026-08-20-8-account-and-access-changes-in-rust-v0-149-0|8
+  Account and Access changes in rust-v0.149.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-25-chatgpt-work-can-now-complete-tasks-on-signed-in-websites-d2be314c|chatgpt-2026-08-25-chatgpt-work-can-now-complete-tasks-on-signed-in-websites-d2be314c]]'
 source_type: chatgpt_changelog
 theme: account-access
@@ -109,7 +109,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-2-account-and-access-changes-in-v2-1-234|2 Account and Access changes in v2.1.234]]
+- Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-8-account-and-access-changes-in-rust-v0-149-0|8 Account and Access changes in rust-v0.149.0]]
 - Later: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-improved-attribution-of-usage-telemetry-to-your-organization-for-workload-identi|Improved attribution of usage telemetry to your organization for workload identity…]]
 <!-- chronolog:end -->
 

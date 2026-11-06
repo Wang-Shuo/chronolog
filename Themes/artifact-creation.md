@@ -2,7 +2,7 @@
 created: '2026-07-09'
 date: '2026-07-09'
 description: Cross-product timeline of Artifact Creation changes in ChatGPT.
-machine_hash: 559f1a271f3f1677591f5131e4415452911083f83dc338048d1083543527884e
+machine_hash: 4b6f3f9ee830fa6ff800e4be2c4d98589fd9eecae91f628084c97e6914d0f374
 modified: '2026-07-09'
 products_involved:
 - ChatGPT
@@ -42,12 +42,18 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 ## Timeline
 <!-- chronolog:begin region="timeline" -->
+<div class="timeline">
+
+Launches, expansions, pricing and policy changes and standalone announcements come first in each year; fixes, digests and other changes are folded beneath them.
+
 <details class="disclosure" open>
 <summary>2026 · 1 entry (ChatGPT 1)</summary>
 
 **2026-07**
 
-- 2026-07-09 · **ChatGPT** · [[Changes/ChatGPT/2026-07-09-chatgpt-sites-lets-you-turn-your-work-or-ideas-into-an-interactive-website-or-li|ChatGPT Sites lets you turn your work or ideas into an interactive website…]]
+- 2026-07-09 · **ChatGPT** · [[Changes/ChatGPT/2026-07-09-chatgpt-sites-lets-you-turn-your-work-or-ideas-into-an-interactive-website-or-li|ChatGPT Sites lets you turn your work or ideas into an interactive website…]] · Change
 
 </details>
+
+</div>
 <!-- chronolog:end -->

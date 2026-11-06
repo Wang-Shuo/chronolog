@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a3e2423f9e8724c193da500e8c39c1f6956de523ca5afc6559d77af14ae14f4b
+machine_hash: f4635b28901fd71d8b430f3494be9b6e9736259e453652446f984cd1712a6b64
 product: cursor
 product_name: Cursor
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Apps and Integrations changes in 2.3
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-10-system-notification-actions-for-terminal-and-mcp-approval-rejection|System
-  notification actions for terminal and MCP approval/rejection]]'
-- '[[Changes/ChatGPT/2025-12-18-you-can-now-browse-and-add-approved-apps-in-the-new-app-directory-apps-let-you-w|Introducing
-  the app directory in ChatGPT]]'
+- '[[Changes/Codex CLI/2025-12-18-2-apps-and-integrations-changes-in-rust-v0-74-0|2
+  Apps and Integrations changes in rust-v0.74.0]]'
+- '[[Changes/GitHub Copilot CLI/2025-12-18-2-apps-and-integrations-changes-in-v0-0-370|2
+  Apps and Integrations changes in v0.0.370]]'
 - '[[Changes/Claude Code/2025-12-19-2-apps-and-integrations-changes-in-v2-0-73|2 Apps
   and Integrations changes in v2.0.73]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465|cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465]]'
@@ -90,7 +90,7 @@ Source: https://cursor.com/changelog/2-3
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-2-apps-and-integrations-changes-in-v2-0-73|2 Apps and Integrations changes in v2.0.73]]
-- Later: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-enable-and-disable-mcp-servers-on-the-fly-with-mcp-enable-and-mcp-disable-comman|Enabling MCP servers]]
+- Later: 2025-12-22 · Gemini CLI · [[Changes/Gemini CLI/2025-12-22-3-apps-and-integrations-changes-in-v0-22-0|3 Apps and Integrations changes in v0.22.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

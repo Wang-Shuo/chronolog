@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: da46a327d6f292cac53c01aced68eb1329124e7ede76bd71fc42c067952a864a
+machine_hash: 913ff2bdbd66857f39c27733a4ddbf96cfd8fb3c921d4dbf1318f1055f445874
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Enterprise and Administration changes in v2.1.277
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-18-remote-control-claude-rc-now-applies-the-same-enterprise-gateway-availability-ch|Remote
-  Control: claude rc now applies the same enterprise-gateway availability…]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-04-enterprise-admins-can-pin-sign-in-to-approved-github-organizations-with-the-forc|Enterprise
+  admins can pin sign-in to approved GitHub organizations…]]'
 - '[[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-integrations-are-now-rolling-out-to-go-plus-pro-busin|Box,
   Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro…]]'
 - '[[Changes/Claude Code/2026-09-17-claude-tag-improved-claude-s-notices-in-enterprise-grid-channels-shared-across-w|Claude
@@ -95,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.277
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-claude-tag-improved-claude-s-notices-in-enterprise-grid-channels-shared-across-w|Claude Tag Improved Claude's notices in Enterprise Grid channels shared across…]]
-- Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-claude-tag-improved-notify-members-now-in-admin-settings-one-press-reaches-every|Claude Tag Improved "Notify members now" in admin settings]]
+- Later: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-feat-open-git-sync-to-org-admins-on-cloud-backends-by-hieptl-in-https-github-com|feat: open Git Sync to org admins on cloud backends]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

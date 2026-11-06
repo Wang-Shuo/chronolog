@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e9fc46a2cad09874e12eea4717e8083dd3e4052a767e869ca418db22716fcb10
+machine_hash: 71dfe29b6bea966297a0bb7ff4b3dd00bde597c8e8fc7046f7dab433a6c997f8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,8 +47,8 @@ record:
     Chat…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-beginning-july-9-users-on-web-ios-and-android-will-no-longer-be-able-to-create-n|Beginning
-  July 9, users on web, iOS, and Android will no longer be able to create…]]'
+- '[[Changes/Codex CLI/2026-07-09-ensured-macos-package-installs-expose-the-code-mode-host-alongside-the-codex-exe|Ensured
+  macOS package installs expose the code-mode host alongside the codex executable]]'
 - '[[Changes/ChatGPT/2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327|Search
   across chats, projects, and files is now supercharged]]'
 - '[[Changes/ChatGPT/2026-07-16-a-clearer-desktop-layout-a-global-switcher-lets-you-choose-between-chatgpt-and-c|A
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-07-14 · ChatGPT · [[Changes/ChatGPT/2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327|Search across chats, projects, and files is now supercharged]]
-- Later: 2026-07-29 · Cursor · [[Changes/Cursor/2026-07-29-built-for-the-bigger-screen-98bf7a|Built for the bigger screen]]
+- Later: 2026-07-17 · Windsurf · [[Changes/Windsurf/2026-07-17-devin-desktop|Devin Desktop]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

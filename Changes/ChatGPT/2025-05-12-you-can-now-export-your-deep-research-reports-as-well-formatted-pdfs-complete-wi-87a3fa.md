@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: caa010e3616aae6510ec794eb1d51e173a684326bcc5552cc0a8536606b4a1c8
+machine_hash: 815793d383fcfe7c676d82127245739d6d1e683d3b07f4e4df25316864d0baf4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,10 +47,10 @@ record:
   title: Export Deep Research as PDF for Plus/Pro/Team
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set
-  ChatGPT as default search engine in Safari]]'
-- '[[Changes/Cursor/2025-02-19-web-search-agent-can-now-automatically-search-the-web-for-up-to-date-information|Web
-  search: Agent can now automatically search the web for up-to-date information…]]'
+- '[[Changes/OpenHands/2025-04-02-turn-on-vision-based-browsing-by-default-and-allow-openhands-to-see-pdf-images-i|Turn
+  on vision-based browsing by default and allow OpenHands to see PDF / images…]]'
+- '[[Changes/Cline/2025-04-08-use-your-local-chrome-browser-for-session-based-browsing-enabling-debugging-and|Use
+  your local Chrome browser for session-based browsing, enabling debugging…]]'
 - '[[Changes/ChatGPT/2025-05-08-chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also-ad2e25|GitHub
   connector for deep research for Plus/Pro/Team]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-12-export-deep-research-as-pdf-for-plus-pro-team-27caae9f|chatgpt-2025-05-12-export-deep-research-as-pdf-for-plus-pro-team-27caae9f]]'

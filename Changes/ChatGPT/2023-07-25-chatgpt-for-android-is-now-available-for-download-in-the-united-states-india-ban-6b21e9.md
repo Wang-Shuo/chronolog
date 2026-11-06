@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: da7a49006f6fce100adc38971d93f849ff73950f47c72b43c60a767d5742a805
+machine_hash: 6f24fc929187754500682fd6dc08f017fe5d40b31e5863b01d89089bfab2d773
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,12 +47,12 @@ record:
   title: Introducing the ChatGPT app for Android
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f|ChatGPT
-  app for iOS in more countries]]'
-- '[[Changes/ChatGPT/2023-05-24-you-can-now-disable-your-chat-history-on-ios-conversations-started-on-your-devic|Disable
-  chat history on iOS]]'
-- '[[Changes/ChatGPT/2023-06-22-we-ve-made-two-updates-to-the-mobile-chatgpt-app|ChatGPT
-  makes two updates to the mobile ChatGPT app]]'
+- '[[Changes/Aider/2023-07-08-2-mobile-and-desktop-changes-in-v0-8-1|2 Mobile and
+  Desktop changes in v0.8.1]]'
+- '[[Changes/Aider/2023-07-08-2-mobile-and-desktop-changes-in-v0-8-2|2 Mobile and
+  Desktop changes in v0.8.2]]'
+- '[[Changes/Aider/2023-07-12-2-mobile-and-desktop-changes-in-v0-8-3|2 Mobile and
+  Desktop changes in v0.8.3]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-07-25-introducing-the-chatgpt-app-for-android-a5c30ad5|chatgpt-2023-07-25-introducing-the-chatgpt-app-for-android-a5c30ad5]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2023-06-22 · ChatGPT · [[Changes/ChatGPT/2023-06-22-we-ve-made-two-updates-to-the-mobile-chatgpt-app|ChatGPT makes two updates to the mobile ChatGPT app]]
-- Later: 2024-11-19 · ChatGPT · [[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Advanced Voice for ChatGPT Web]]
+- Earlier: 2023-07-12 · Aider · [[Changes/Aider/2023-07-12-2-mobile-and-desktop-changes-in-v0-8-3|2 Mobile and Desktop changes in v0.8.3]]
+- Later: 2024-01-04 · Aider · [[Changes/Aider/2024-01-04-prevent-false-auto-commits-on-windows-by-ctoth|Prevent false auto-commits on Windows, by @ctoth]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

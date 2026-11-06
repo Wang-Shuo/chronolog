@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b6488d448b4a10f714d14687edd4f57bf5c3c78584bfbb8b4f641fe90d009f60
+machine_hash: baf3a8079daa0d43156fd5e7b00676a0b8798330f235192e4f853f33346ad558
 product: cursor
 product_name: Cursor
 record:
@@ -51,12 +51,12 @@ record:
   title: Shared canvases
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-10-added-team-onboarding-command-to-generate-a-teammate-ramp-up-guide-from-your-loc|Added
-  /team-onboarding command to generate a teammate ramp-up guide…]]'
-- '[[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a-b1834a|Admins
-  can now create a team marketplace without connecting a repository first]]'
 - '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is
   now available in Microsoft Teams]]'
+- '[[Changes/Windsurf/2026-05-16-restored-conversation-sharing|Restored conversation
+  sharing]]'
+- '[[Changes/Codex CLI/2026-05-18-3-collaboration-changes-in-rust-v0-131-0|3 Collaboration
+  changes in rust-v0.131.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da|cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is now available in Microsoft Teams]]
+- Earlier: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-3-collaboration-changes-in-rust-v0-131-0|3 Collaboration changes in rust-v0.131.0]]
 - Later: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-otel-resource-attributes-values-are-now-included-as-labels-on-metric-datapoints|OTEL_RESOURCE_ATTRIBUTES values are now included as labels on metric datapoints…]]
 <!-- chronolog:end -->
 

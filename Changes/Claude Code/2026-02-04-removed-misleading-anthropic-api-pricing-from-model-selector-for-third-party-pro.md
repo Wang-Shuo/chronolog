@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 1805a69f766fd59b26ef6b0d9968accbe1e8b722af06cd22819bd906f468a457
+machine_hash: 06f45e98ad179a4caf88f2da514f21e6e61f1a9a3a37c63dc2a754357f3eb13c
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,10 +55,10 @@ record:
   title: Removed misleading Anthropic API pricing from model selector for third-party…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-30-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-44be9d|ChatGPT
-  Go, our low cost subscription plan, is now available in 8 additional…]]'
-- '[[Changes/ChatGPT/2025-11-03-eligible-customers-in-india-can-now-get-12-months-of-chatgpt-go-at-no-cost-new-u|ChatGPT
-  Go Promo - India]]'
+- '[[Changes/Codex CLI/2025-11-19-credits-are-now-visible-in-status|Credits are now
+  visible in /status]]'
+- '[[Changes/Codex CLI/2025-12-04-persisting-credits-if-new-snapshot-does-not-contain-credit-info-7490-zhao-oai|persisting
+  credits if new snapshot does not contain credit info ♯7490 @zhao-oai]]'
 - '[[Changes/Cursor/2025-12-18-billing-groups|Billing groups]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1|claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1]]'
 source_type: github_releases
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-12-18 · Cursor · [[Changes/Cursor/2025-12-18-billing-groups|Billing groups]]
-- Later: 2026-03-10 · ChatGPT · [[Changes/ChatGPT/2026-03-10-eligible-chatgpt-plus-and-pro-users-can-now-turn-on-auto-top-up-for-credits-used-5e9d54|Auto top-up for flexible usage credits]]
+- Later: 2026-02-04 · Codex CLI · [[Changes/Codex CLI/2026-02-04-10274-add-credits-tooltip-pakrym-oai|♯10274 Add credits tooltip @pakrym-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

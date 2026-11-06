@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fc5c7db0e4cd99e3b29719de3e1d4fee378749ccc10a2067762a8d8e923c7968
+machine_hash: 4a1b3607ca59c33d27e18f6c3472409287651f49517d979351db657680eedc6f
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Improved `prompt-audit` on Claude Code configuration
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-2-files-and-data-changes-in-v2-1-271|2 Files and
-  Data changes in v2.1.271]]'
-- '[[Changes/Claude Code/2026-09-15-improved-artifact-database-writes-an-update-can-now-remove-a-single-field-instea|Improved
-  artifact database writes]]'
-- '[[Changes/Claude Code/2026-09-17-claude-tag-removed-the-repeated-guest-attribution-note-claude-appended-to-a-slac|Claude
-  Tag Removed the repeated guest-attribution note Claude appended to a Slack…]]'
+- '[[Changes/OpenHands/2026-09-22-docs-codereview-clarify-agent-canvas-checkpoints-by-neubig-in-https-github-com-o|docs(codereview):
+  clarify Agent Canvas checkpoints]]'
+- '[[Changes/OpenHands/2026-09-22-docs-review-add-repository-and-product-scope-to-the-canvas-review-guide-by-all-h|docs(review):
+  add repository and product scope to the Canvas review guide]]'
+- '[[Changes/OpenHands/2026-09-23-feat-tag-agent-canvas-telemetry-by-deployment-kind-oss-13530-by-malhotra5-in-htt|feat:
+  tag Agent Canvas telemetry by deployment kind (OSS-13530)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8|claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8]]'
 source_type: github_releases
 theme: file-data
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-claude-tag-removed-the-repeated-guest-attribution-note-claude-appended-to-a-slac|Claude Tag Removed the repeated guest-attribution note Claude appended to a Slack…]]
-- Later: 2026-10-01 · ChatGPT · [[Changes/ChatGPT/2026-10-01-it-s-now-easier-to-bring-your-notes-and-documents-into-chatgpt-on-your-phone-cap|Scan notes and documents more easily with ChatGPT camera]]
+- Earlier: 2026-09-23 · OpenHands · [[Changes/OpenHands/2026-09-23-feat-tag-agent-canvas-telemetry-by-deployment-kind-oss-13530-by-malhotra5-in-htt|feat: tag Agent Canvas telemetry by deployment kind (OSS-13530)]]
+- Later: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-added-retries-for-transient-file-upload-failures-and-increased-the-upload-timeou|Added retries for transient file-upload failures and increased the upload timeout…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

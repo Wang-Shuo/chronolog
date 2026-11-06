@@ -1,0 +1,104 @@
+---
+card_id: openhands-2024-08-23-323f93
+date: '2024-08-23'
+description: 'OpenHands · 2024-08-23 · Safety and Privacy: 3 changes in 0.9.0 — Add
+  Security Analyzer functionality by @adrgs in…'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
+    mode for opting out of storing any kind of data on our servers]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 495
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: safety-privacy
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: digest
+machine_hash: 1e8256b314476cbefc7cef083ed91987ef51fce2f740b269c50b32e89ecf7c92
+product: openhands
+product_name: OpenHands
+record:
+  card_id: openhands-2024-08-23-323f93
+  comparison: ''
+  date: '2024-08-23'
+  description: 'OpenHands — 0.9.0: 3 Safety and Privacy changes'
+  evidence:
+  - quote: Add Security Analyzer functionality by @adrgs in https://github.com/All-Hands-AI/OpenHands/pull/3058
+    source_release: https://github.com/OpenHands/OpenHands/releases/tag/0.9.0
+  - quote: Workspace folder permission & app container cannot access client API by
+      @xingyaoww in https://github.com/All-Hands-AI/OpenHands/pull/3300
+    source_release: https://github.com/OpenHands/OpenHands/releases/tag/0.9.0
+  - quote: App docker permission issue by @xingyaoww in https://github.com/All-Hands-AI/OpenHands/pull/3427
+    source_release: https://github.com/OpenHands/OpenHands/releases/tag/0.9.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: digest
+  product: openhands
+  product_name: OpenHands
+  slug: 3-safety-and-privacy-changes-in-0-9-0
+  source_release: openhands-2024-08-23-0-9-0-github-171741467-33b5726c
+  source_type: github_releases
+  theme: safety-privacy
+  title: 3 Safety and Privacy changes in 0.9.0
+  type: change
+related_changes:
+- '[[Changes/OpenHands/2024-07-27-fix-update-swebenchsshbox-after-global-config-was-removed-from-sandbox-by-rajwor|FIX
+  Update SWEBenchSSHBox after global config was removed…]]'
+- '[[Changes/Aider/2024-07-31-resolved-permission-issues-when-using-docker-run-user-xxx|Resolved
+  permission issues when using docker run --user xxx]]'
+- '[[Changes/OpenHands/2024-08-01-2-safety-and-privacy-changes-in-0-8-3|2 Safety and
+  Privacy changes in 0.8.3]]'
+source_release: '[[Releases/OpenHands/openhands-2024-08-23-0-9-0-github-171741467-33b5726c|openhands-2024-08-23-0-9-0-github-171741467-33b5726c]]'
+source_type: github_releases
+theme: safety-privacy
+title: 3 Safety and Privacy changes in 0.9.0
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 3 Safety and Privacy changes in 0.9.0
+
+**OpenHands** · 2024-08-23 · [[Themes/safety-privacy|Safety and Privacy]] · Digest · [Official source](https://github.com/OpenHands/OpenHands/releases/tag/0.9.0) · from [[Releases/OpenHands/openhands-2024-08-23-0-9-0-github-171741467-33b5726c|0.9.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+## Changes in this digest
+
+> Add Security Analyzer functionality by @adrgs in https://github.com/All-Hands-AI/OpenHands/pull/3058
+
+> Workspace folder permission & app container cannot access client API by @xingyaoww in https://github.com/All-Hands-AI/OpenHands/pull/3300
+
+> App docker permission issue by @xingyaoww in https://github.com/All-Hands-AI/OpenHands/pull/3427
+
+Source: https://github.com/OpenHands/OpenHands/releases/tag/0.9.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/OpenHands/2024-08-23-enhance-the-llm-class-with-async-support-by-tobitege-in-https-github-com-all-han|Enhance the LLM class with async support]] · Model Support
+- [[Changes/OpenHands/2024-08-23-allow-easier-copy-paste-into-the-terminal-by-tofarr-in-https-github-com-all-hand|Allow easier copy paste into the terminal]] · Developer Workflow
+- [[Changes/OpenHands/2024-08-23-correct-list-rendering-for-chat-window-by-sb-git-cloud-in-https-github-com-all-h|Correct list rendering for chat window]] · Interface Experience
+- [[Changes/OpenHands/2024-08-23-4-agent-mode-changes-in-0-9-0|4 Agent Mode changes in 0.9.0]] · Agent Mode
+- [[Changes/OpenHands/2024-08-23-24-other-changes-in-0-9-0|24 other changes in 0.9.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Safety and Privacy
+
+- Earlier: 2024-08-01 · OpenHands · [[Changes/OpenHands/2024-08-01-2-safety-and-privacy-changes-in-0-8-3|2 Safety and Privacy changes in 0.8.3]]
+- Later: 2024-09-17 · Cursor · [[Changes/Cursor/2024-09-17-this-update-fixes-the-following-security-issue-cve-2024-45599|This update fixes the following security issue: CVE-2024-45599]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20openhands-2024-08-23-323f93&body=Card%3A%20Changes%2FOpenHands%2F2024-08-23-3-safety-and-privacy-changes-in-0-9-0.md%0ACard%20ID%3A%20openhands-2024-08-23-323f93%0ASource%3A%20https%3A%2F%2Fgithub.com%2FOpenHands%2FOpenHands%2Freleases%2Ftag%2F0.9.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

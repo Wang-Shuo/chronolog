@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: 881cfbebdc5b2858ccca360bfbf1624949132ea79602004edd3f685d2f859bdc
+machine_hash: c1f9c6a005a4fab829768ce43f608d798c51b16a39a8bd84768148e8c726907e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-10-28 · ChatGPT · [[Changes/ChatGPT/2025-10-28-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-brazil-chatgpt-go-p|ChatGPT launches ChatGPT Go, our low cost subscription plan, in Brazil]]
-- Later: 2025-11-03 · ChatGPT · [[Changes/ChatGPT/2025-11-03-eligible-customers-in-india-can-now-get-12-months-of-chatgpt-go-at-no-cost-new-u|ChatGPT Go Promo - India]]
+- Later: 2025-10-30 · Codex CLI · [[Changes/Codex CLI/2025-10-30-ability-to-buy-credits-for-more-usage-more-information-https-help-openai-com-en|Ability to buy credits for more usage]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

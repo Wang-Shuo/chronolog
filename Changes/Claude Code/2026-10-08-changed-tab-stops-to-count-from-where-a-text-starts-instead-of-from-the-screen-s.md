@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8426f97abbd6a7a4e7210642157b3f722af1d2db0e826c267feed2d2effae116
+machine_hash: c23f1af147a37bc93917371931a7c5fc63620bf970e035673ee532037a0d180e
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     left edge
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-01-vscode-changed-the-claude-in-chrome-enabled-by-default-switch-to-also-connect-th|VSCode
-  Changed the Claude in Chrome "Enabled by default" switch to also connect…]]'
-- '[[Changes/Claude Code/2026-10-06-added-prompt-autocomplete-an-event-a-mod-hooks-to-add-its-own-rows-to-the-prompt|Added
-  prompt.autocomplete, an event a mod hooks to add its own rows to the prompt…]]'
+- '[[Changes/OpenHands/2026-10-06-feat-conversation-give-the-drawer-tab-strip-real-tab-semantics-by-errmakov-in-ht|feat(conversation):
+  give the drawer tab strip real tab semantics]]'
 - '[[Changes/Claude Code/2026-10-07-improved-the-bash-edit-diff-note-to-say-the-listed-files-changed-while-the-comma|Improved
   the Bash edit diff note to say the listed files changed while the command…]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-07-read-user-settings-only-from-copilot-settings-json-user-setting-keys-in-copilot|Read
+  user settings only from ~/.copilot/settings.json]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'
 source_type: github_releases
 theme: editor-experience
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-improved-the-bash-edit-diff-note-to-say-the-listed-files-changed-while-the-comma|Improved the Bash edit diff note to say the listed files changed while the command…]]
-- Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-3-editor-experience-changes-in-v2-1-296|3 Editor Experience changes in v2.1.296]]
+- Earlier: 2026-10-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-07-read-user-settings-only-from-copilot-settings-json-user-setting-keys-in-copilot|Read user settings only from ~/.copilot/settings.json]]
+- Later: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-50216-use-the-shared-text-editor-for-command-center-task-renaming-bc-openai|♯50216 Use the shared text editor for command-center task renaming @bc-openai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -101,6 +101,12 @@ def validate_site(root: Path, vault: Path, out: Path, report: dict, base_url: st
         raise
     identity = {'commit': report.get('commit'), 'run_id': report['run_id'], 'built_at': utc_timestamp(),
                 'base_url': base_url, 'kind': 'commit-build' if report['mode'] == 'check' else 'unreviewed-candidate'}
+    # The public verifier runs with the standard library only. Carry the reviewed
+    # catalog into the build manifest instead of hard-coding retired MVP products.
+    identity['product_slugs'] = sorted(
+        'Products/' + source['display_name'].replace(' ', '-')
+        for source in load_sources(root / '_scripts/sources.yaml')
+    )
     identity['content_index_sha256'] = hashlib.sha256((out / 'site/static/contentIndex.json').read_bytes()).hexdigest()
     identity['rss_sha256'] = hashlib.sha256((out / 'site/index.xml').read_bytes()).hexdigest()
     write_json(out / 'site/deployment.json', identity)

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3936eafaa77d8a39021045fee8bb57287531791b455f1a547f1b19f273738111
+machine_hash: d67eefc86e2da7e9f8c7344ddcc072dc783295b9d59b3fdac7ee82b6ec4175ad
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.292
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-01-3-developer-workflow-changes-in-v2-1-287|3 Developer
-  Workflow changes in v2.1.287]]'
 - '[[Changes/Claude Code/2026-10-02-3-developer-workflow-changes-in-v2-1-288|3 Developer
   Workflow changes in v2.1.288]]'
 - '[[Changes/Claude Code/2026-10-05-5-developer-workflow-changes-in-v2-1-290|5 Developer
   Workflow changes in v2.1.290]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-05-4-developer-workflow-changes-in-v1-0-92|4
+  Developer Workflow changes in v1.0.92]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab|claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab]]'
 source_type: github_releases
 theme: developer-workflow
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.292
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-5-developer-workflow-changes-in-v2-1-290|5 Developer Workflow changes in v2.1.290]]
+- Earlier: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-4-developer-workflow-changes-in-v1-0-92|4 Developer Workflow changes in v1.0.92]]
 - Later: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-code-review-improved-code-review-s-add-a-repository-dialog-to-list-each-reposito|Code Review Improved Code Review's Add a repository dialog to list each repository…]]
 <!-- chronolog:end -->
 

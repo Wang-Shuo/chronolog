@@ -9,6 +9,7 @@
     "postinstall": "node _scripts/setup_quartz.mjs"
   },
   "dependencies": {
+    "js-yaml": "^4.1.1",
     "quartz": "github:jackyzha0/quartz#v4"
   },
   "devDependencies": {

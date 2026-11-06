@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 150651a155bd34f24074bfb1dea9e784517381bdc80d918eae18542035d093f1
+machine_hash: 4e71082ec9b6b5b78b830fe534b1c7767d084c2523e1cb11ef57ca69e4735082
 product: cursor
 product_name: Cursor
 record:
@@ -46,13 +46,12 @@ record:
   title: Improved embeddings for semantic search
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-12-once-connected-try-it-in-any-channel-with-cursor-and-write-a-prompt-use-the-comm|Once
-  connected, try it in any channel with @Cursor and write a prompt]]'
-- '[[Changes/ChatGPT/2025-06-13-in-some-cases-a-chain-of-thought-reasoning-will-show-up-unexpectedly-for-simple|In
-  some cases, a “chain of thought” reasoning will show up unexpectedly for simple
-  queries]]'
-- '[[Changes/ChatGPT/2025-06-16-enterprise-and-edu-users-can-also-now-choose-from-the-full-set-of-chatgpt-models-1ea372|Expanded
-  Model Support for Custom GPTs]]'
+- '[[Changes/Gemini CLI/2025-07-02-2-model-support-changes-in-v0-1-9|2 Model Support
+  changes in v0.1.9]]'
+- '[[Changes/OpenHands/2025-07-02-updating-llm-settings-are-now-applied-to-existing-conversations-after-stopping-a|Updating
+  LLM settings are now applied to existing conversations after stopping…]]'
+- '[[Changes/Cline/2025-07-03-add-support-for-claude-sonnet-4-and-opus-4-model-in-sap-ai-core-provider-thanks|Add
+  support for Claude Sonnet 4 and Opus 4 model in SAP AI Core provider…]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d]]'
 source_type: cursor_changelog
 theme: model-support
@@ -92,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-06-16 · ChatGPT · [[Changes/ChatGPT/2025-06-16-enterprise-and-edu-users-can-also-now-choose-from-the-full-set-of-chatgpt-models-1ea372|Expanded Model Support for Custom GPTs]]
-- Later: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-separate-models-per-agent|Separate models per Agent]]
+- Earlier: 2025-07-03 · Cline · [[Changes/Cline/2025-07-03-add-support-for-claude-sonnet-4-and-opus-4-model-in-sap-ai-core-provider-thanks|Add support for Claude Sonnet 4 and Opus 4 model in SAP AI Core provider…]]
+- Later: 2025-07-07 · Cline · [[Changes/Cline/2025-07-07-add-support-for-gemini-2-5-pro-and-flash-models-to-sap-ai-core-provider-by-tjand|Add support for Gemini 2.5 Pro and Flash models to SAP AI Core Provider]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

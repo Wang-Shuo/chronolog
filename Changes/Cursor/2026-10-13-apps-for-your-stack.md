@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: bf12f621ecfdba7d2d1dcba393446cf6079c443e5b1b42097d45bc5806e6371c
+machine_hash: 1f082c629f80a595ca16f41148571206771cca3e29477b2beab4a056e3270d95
 product: cursor
 product_name: Cursor
 record:
@@ -53,10 +53,10 @@ record:
   title: Apps for your stack
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-08-14-apps-and-integrations-changes-in-v2-1-295|14
-  Apps and Integrations changes in v2.1.295]]'
-- '[[Changes/Claude Code/2026-10-09-3-apps-and-integrations-changes-in-v2-1-296|3
-  Apps and Integrations changes in v2.1.296]]'
+- '[[Changes/OpenHands/2026-10-12-3-apps-and-integrations-changes-in-v1-27-0|3 Apps
+  and Integrations changes in v1.27.0]]'
+- '[[Changes/Cline/2026-10-13-an-mcp-server-or-hook-that-exits-before-reading-all-of-its-input-no-longer-crash|An
+  MCP server or hook that exits before reading all of its input no longer crashes…]]'
 - '[[Changes/Cursor/2026-10-13-2-apps-and-integrations-changes-in-origin-app-marketplace|2
   Apps and Integrations changes in Origin App Marketplace]]'
 source_release: '[[Releases/Cursor/cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c|cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c]]'
@@ -101,8 +101,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-3-apps-and-integrations-changes-in-v2-1-296|3 Apps and Integrations changes in v2.1.296]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-7-apps-and-integrations-changes-in-v2-1-300|7 Apps and Integrations changes in v2.1.300]]
+- Earlier: 2026-10-13 · Cline · [[Changes/Cline/2026-10-13-an-mcp-server-or-hook-that-exits-before-reading-all-of-its-input-no-longer-crash|An MCP server or hook that exits before reading all of its input no longer crashes…]]
+- Later: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-4-apps-and-integrations-changes-in-v1-0-97|4 Apps and Integrations changes in v1.0.97]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

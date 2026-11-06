@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ae2ce5261f1dc0120f00810212e42a5079230f8747dadc224290bd19e9d6e7a5
+machine_hash: 8da6419f92cc393d81ac9b20eeebda261dd6e5460806ab08039487b4cb7b04cc
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
   title: Improved the spinner status during long thinking
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-09-improved-prompt-cache-stability-subagents-and-sessions-started-with-system-promp|Improved
-  prompt-cache stability]]'
+- '[[Changes/Codex CLI/2026-09-09-17-context-window-changes-in-rust-v0-154-0|17 Context
+  Window changes in rust-v0.154.0]]'
 - '[[Changes/Cursor/2026-09-10-you-shouldn-t-have-to-onboard-an-agent-every-time-you-start-a-task-each-project|Shared
   context]]'
 - '[[Changes/Cursor/2026-09-10-today-we-re-launching-projects-in-cursor-projects-lets-you-take-on-larger-bodies-51d06c|Cursor

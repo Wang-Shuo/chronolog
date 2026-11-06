@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b5265a0cf7a160d0d90f21017fd901038f1f15f7b0c4e6e9993ea01f456601b
+machine_hash: ca453286aaeca9769aae24f7ad8a3de3e1c4c08cd1409006379951f640dfa32e
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: '[Claude Tag] Improved "Notify members now" in admin settings'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-integrations-are-now-rolling-out-to-go-plus-pro-busin|Box,
-  Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro…]]'
 - '[[Changes/Claude Code/2026-09-17-claude-tag-improved-claude-s-notices-in-enterprise-grid-channels-shared-across-w|Claude
   Tag Improved Claude''s notices in Enterprise Grid channels shared across…]]'
 - '[[Changes/Claude Code/2026-09-18-2-enterprise-and-administration-changes-in-v2-1-277|2
   Enterprise and Administration changes in v2.1.277]]'
+- '[[Changes/OpenHands/2026-09-22-feat-open-git-sync-to-org-admins-on-cloud-backends-by-hieptl-in-https-github-com|feat:
+  open Git Sync to org admins on cloud backends]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-2-enterprise-and-administration-changes-in-v2-1-277|2 Enterprise and Administration changes in v2.1.277]]
+- Earlier: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-feat-open-git-sync-to-org-admins-on-cloud-backends-by-hieptl-in-https-github-com|feat: open Git Sync to org admins on cloud backends]]
 - Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-for-the-next-month-dots-usage-won-t-count-toward-eligible-pro-business-and-enter|For the next month, dots usage won’t count toward eligible Pro, Business…]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2ac9eabfe041f33c3ff948c122837874d8036bf95fd7f5258cab52c996e92d7c
+machine_hash: bd3eb0bb66569d8cf418ce4ed78705b930ae5e72fbdb04b210e09186c81446d9
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: Improved disk-full handling
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-19-3-developer-workflow-changes-in-v2-1-304|3 Developer
-  Workflow changes in v2.1.304]]'
 - '[[Changes/Claude Code/2026-10-20-2-developer-workflow-changes-in-v2-1-305|2 Developer
   Workflow changes in v2.1.305]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-20-2-developer-workflow-changes-in-v1-0-101|2
+  Developer Workflow changes in v1.0.101]]'
 - '[[Changes/Claude Code/2026-10-21-2-developer-workflow-changes-in-v2-1-307|2 Developer
   Workflow changes in v2.1.307]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99|claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99]]'
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-2-developer-workflow-changes-in-v2-1-307|2 Developer Workflow changes in v2.1.307]]
-- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-code-review-improved-the-code-review-admin-section-to-retry-the-first-load-and-s|Code Review Improved the Code Review admin section to retry the first load…]]
+- Later: 2026-10-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-22-clicking-a-completed-response-code-block-copies-its-original-code-when-enabled|Clicking a completed response code block copies its original code when enabled]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

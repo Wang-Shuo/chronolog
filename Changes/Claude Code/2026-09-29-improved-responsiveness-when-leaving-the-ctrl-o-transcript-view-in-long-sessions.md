@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6d0e77141f21bda3e60020a3d175b7cdc9d7bdec02a08f7df8576e9ae84b9c5b
+machine_hash: 704f9a93568f262926dade7d81b75626f2a99322e75e81320907e2e6c7302234
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
   title: Improved responsiveness when leaving the ctrl+o transcript view in long sessions…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-25-2-interface-experience-changes-in-v2-1-283|2 Interface
-  Experience changes in v2.1.283]]'
-- '[[Changes/Claude Code/2026-09-28-added-effortslider-decreaseeffort-increaseeffort-and-toggleultracode-keybinding|Added
-  effortSlider:decreaseEffort, increaseEffort and toggleUltracode…]]'
 - '[[Changes/Claude Code/2026-09-28-added-rate-limit-options-to-help-and-the-command-menu-for-claude-ai-subscribers|Added
   /rate-limit-options to /help and the command menu for claude.ai…]]'
+- '[[Changes/Codex CLI/2026-09-28-6-interface-experience-changes-in-rust-v0-158-0|6
+  Interface Experience changes in rust-v0.158.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-28-4-interface-experience-changes-in-v1-0-89|4
+  Interface Experience changes in v1.0.89]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc|claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc]]'
 source_type: github_releases
 theme: interface-experience
@@ -99,8 +99,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-added-rate-limit-options-to-help-and-the-command-menu-for-claude-ai-subscribers|Added /rate-limit-options to /help and the command menu for claude.ai…]]
-- Later: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-4-interface-experience-changes-in-v2-1-286|4 Interface Experience changes in v2.1.286]]
+- Earlier: 2026-09-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-28-4-interface-experience-changes-in-v1-0-89|4 Interface Experience changes in v1.0.89]]
+- Later: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-4-interface-experience-changes-in-rust-v0-159-0|4 Interface Experience changes in rust-v0.159.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

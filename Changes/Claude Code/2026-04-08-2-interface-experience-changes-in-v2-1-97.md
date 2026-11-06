@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 719e5322f06e74996ce410be942eab8d3d6214c14afed36aa6e2082b763883a4
+machine_hash: 8088aff5e766ffc1b017a29f3b240bd7a607f8d1c4c6fce651a036ec0f1c18b9
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Interface Experience changes in v2.1.97
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-02-feedback-now-explains-why-it-s-unavailable-instead-of-disappearing-from-the-slas|/feedback
-  now explains why it''s unavailable instead of disappearing from the slash menu]]'
-- '[[Changes/Cursor/2026-04-02-deprecated-the-previous-worktree-and-best-of-n-selection-from-the-editor|Deprecated
-  the previous worktree and best-of-n selection from the Editor]]'
 - '[[Changes/Claude Code/2026-04-04-release-notes-is-now-an-interactive-version-picker|/release-notes
   is now an interactive version picker]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-04-session-resume-picker-correctly-groups-sessions-by-branch-and-repository-on-firs|Session
+  resume picker correctly groups sessions by branch and repository on first use]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-07-slash-command-picker-no-longer-flickers-or-shifts-the-input-while-filtering|Slash
+  command picker no longer flickers or shifts the input while filtering]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33|claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33]]'
 source_type: github_releases
 theme: interface-experience
@@ -88,8 +88,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.97
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-release-notes-is-now-an-interactive-version-picker|/release-notes is now an interactive version picker]]
-- Later: 2026-04-10 · Claude Code · [[Changes/Claude Code/2026-04-10-improved-focus-mode-claude-now-writes-more-self-contained-summaries-since-it-kno|Improved focus mode]]
+- Earlier: 2026-04-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-07-slash-command-picker-no-longer-flickers-or-shifts-the-input-while-filtering|Slash command picker no longer flickers or shifts the input while filtering]]
+- Later: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-refine-onboarding-metrics-to-log-the-duration-explicitly-and-use-the-tier-name-b|Refine onboarding metrics to log the duration explicitly and use the tier name]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 56b5fe64a5d4207abaeffd64fe12aa5d4001071f476aae11da83f4df08e6f92b
+machine_hash: 2cd23087c02e3fc342dbc20cc57d3de798d5020a4f7a5ccfa5ccd19d264e6834
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
   title: Extension marketplace supports custom URLs
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-24-pro-users-are-now-able-to-use-chat-search-connectors-in-addition-to-deep-researc-9d5a85|Chat
-  search connectors (Pro)]]'
-- '[[Changes/Cursor/2025-07-03-2-apps-and-integrations-changes-in-1-2|2 Apps and Integrations
-  changes in 1.2]]'
 - '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-utilize-chat-search-with-hubspot-and-custom-connectors-mcp-in-b9b682|Chat
   search for HubSpot and custom connectors (MCP) (Pro)]]'
+- '[[Changes/OpenHands/2025-07-24-2-apps-and-integrations-changes-in-0-50-0|2 Apps
+  and Integrations changes in 0.50.0]]'
+- '[[Changes/Gemini CLI/2025-07-25-18-apps-and-integrations-changes-in-v0-1-14|18
+  Apps and Integrations changes in v0.1.14]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-07-24 · ChatGPT · [[Changes/ChatGPT/2025-07-24-pro-users-can-now-utilize-chat-search-with-hubspot-and-custom-connectors-mcp-in-b9b682|Chat search for HubSpot and custom connectors (MCP) (Pro)]]
-- Later: 2025-08-13 · ChatGPT · [[Changes/ChatGPT/2025-08-13-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-are-now-availabl-e34de4|Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Plus)]]
+- Earlier: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-18-apps-and-integrations-changes-in-v0-1-14|18 Apps and Integrations changes in v0.1.14]]
+- Later: 2025-07-30 · Gemini CLI · [[Changes/Gemini CLI/2025-07-30-19-apps-and-integrations-changes-in-v0-1-15|19 Apps and Integrations changes in v0.1.15]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

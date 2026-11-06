@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e52f0e7425ee96447979aa3435f8ae170151f65d49f3bb10f46905954202791e
+machine_hash: 32434a16b02518ba5395a489d518163279bbd93a28e3cd592f517b893cd44635
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Developer Workflow changes in 1.3
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-01-23-update-0-45-12-13-update-infrastructure-improvements-the-f1-check-for-updates-co|UPDATE
-  (0.45.12-13): Update infrastructure improvements]]'
-- '[[Changes/Cursor/2025-04-15-improved-agent-terminal-control|Improved agent terminal
-  control]]'
-- '[[Changes/Cursor/2025-06-04-automatic-code-review-with-bugbot-19b552|Automatic
-  code review with Bugbot]]'
+- '[[Changes/Codex CLI/2025-07-24-we-now-record-some-git-state-in-the-jsonl-log-due-to-vishnu-oai-https-github-com|We
+  now record some Git state in the .jsonl log due to @vishnu-oai…]]'
+- '[[Changes/Gemini CLI/2025-07-25-16-developer-workflow-changes-in-v0-1-14|16 Developer
+  Workflow changes in v0.1.14]]'
+- '[[Changes/Cline/2025-07-26-adding-gitbash-terminal-support-and-docs-for-solving-windows-terminal-issues-by|Adding
+  gitbash terminal support and docs for solving windows terminal issues]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -90,8 +90,8 @@ Source: https://cursor.com/changelog/1-3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-automatic-code-review-with-bugbot-19b552|Automatic code review with Bugbot]]
-- Later: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-the-terminal-now-opens-on-the-left-with-a-clear-backdrop-and-border-animation-to|Improved review flow in Agent terminal]]
+- Earlier: 2025-07-26 · Cline · [[Changes/Cline/2025-07-26-adding-gitbash-terminal-support-and-docs-for-solving-windows-terminal-issues-by|Adding gitbash terminal support and docs for solving windows terminal issues]]
+- Later: 2025-07-30 · Gemini CLI · [[Changes/Gemini CLI/2025-07-30-18-developer-workflow-changes-in-v0-1-15|18 Developer Workflow changes in v0.1.15]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

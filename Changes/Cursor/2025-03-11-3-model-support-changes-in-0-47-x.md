@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a8b41a24b0399ea58c8fc33010f740189d039e2ed40d5b8652a059efafea437a
+machine_hash: ced5b5f6114db43b791f192f56a689b91653d76d6983593da58561c1a9429a42
 product: cursor
 product_name: Cursor
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Model Support changes in 0.47.x
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-01-23-deepseek-models-deepseek-r1-and-deepseek-v3-are-supported-in-0-45-and-0-44-you-c|Deepseek
-  models: Deepseek R1 and Deepseek v3 are supported in 0.45 and 0.44]]'
-- '[[Changes/Cursor/2025-01-23-better-codebase-understanding-we-ve-trained-a-new-model-for-codebase-understandi|Better
-  Codebase Understanding: We''ve trained a new model for Codebase Understanding]]'
+- '[[Changes/Aider/2025-03-10-16-model-support-changes-in-v0-76-0|16 Model Support
+  changes in v0.76.0]]'
+- '[[Changes/Cline/2025-03-10-2-model-support-changes-in-v3-6-9|2 Model Support changes
+  in v3.6.9]]'
 - '[[Changes/Cursor/2025-03-11-sonnet-3-7-thinking-we-ve-made-a-few-improvements-to-3-7-prompting-thinking-will|Sonnet
   3.7 thinking: We''ve made a few improvements to 3.7 prompting]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e|cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e]]'
@@ -93,8 +93,8 @@ Source: https://cursor.com/changelog/0-47-x
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-better-codebase-understanding-we-ve-trained-a-new-model-for-codebase-understandi|Better Codebase Understanding: We've trained a new model for Codebase Understanding]]
-- Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-ask-bfa530|o1 and o3-mini now offer Python-powered data analysis in ChatGPT]]
+- Earlier: 2025-03-10 · Cline · [[Changes/Cline/2025-03-10-2-model-support-changes-in-v3-6-9|2 Model Support changes in v3.6.9]]
+- Later: 2025-03-13 · Aider · [[Changes/Aider/2025-03-13-2-model-support-changes-in-v0-77-0|2 Model Support changes in v0.77.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

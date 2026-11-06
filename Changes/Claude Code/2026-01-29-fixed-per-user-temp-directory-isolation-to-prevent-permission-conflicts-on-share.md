@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: ff2c95e9d617ca39f110f293a0f857814d599d28a07cd6adcc53f1e60153eb2e
+machine_hash: 03cf6eaef4290e737e4d222a2e8b321b49955e8012232a03f9058c057771b9b3
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     shared systems
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-14-2-safety-and-privacy-changes-in-v2-1-7|2 Safety
-  and Privacy changes in v2.1.7]]'
-- '[[Changes/Cursor/2026-01-22-unified-cli-permissions-with-the-editor-including-run-everything-auto-run-in-san|Unified
-  CLI permissions with the editor, including Run Everything, Auto-Run…]]'
 - '[[Changes/Claude Code/2026-01-27-2-safety-and-privacy-changes-in-v2-1-20|2 Safety
   and Privacy changes in v2.1.20]]'
+- '[[Changes/Codex CLI/2026-01-27-2-safety-and-privacy-changes-in-rust-v0-92-0|2 Safety
+  and Privacy changes in rust-v0.92.0]]'
+- '[[Changes/Gemini CLI/2026-01-28-3-safety-and-privacy-changes-in-v0-26-0|3 Safety
+  and Privacy changes in v0.26.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-29-v2-1-23-github-280926274-b1e77a6a|claude-code-2026-01-29-v2-1-23-github-280926274-b1e77a6a]]'
 source_type: github_releases
 theme: safety-privacy
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-2-safety-and-privacy-changes-in-v2-1-20|2 Safety and Privacy changes in v2.1.20]]
+- Earlier: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-3-safety-and-privacy-changes-in-v0-26-0|3 Safety and Privacy changes in v0.26.0]]
 - Later: 2026-01-30 · Claude Code · [[Changes/Claude Code/2026-01-30-permissions-now-respect-content-level-ask-over-tool-level-allow-previously-allow|Permissions now respect content-level ask over tool-level allow]]
 <!-- chronolog:end -->
 

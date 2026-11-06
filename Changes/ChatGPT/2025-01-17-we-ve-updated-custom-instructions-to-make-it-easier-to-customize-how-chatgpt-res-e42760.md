@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c215dfe6e41a602876bcc662a2fe6540d9ccfdcd848a6515c2513ce26666826e
+machine_hash: f7337db36cddfe7c8198b238fe3199e657a00793616256dba3be3602183adf9d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -67,12 +67,12 @@ record:
   title: More personalization in Custom Instructions
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|Introducing
-  the ChatGPT app for Android]]'
-- '[[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Advanced
-  Voice for ChatGPT Web]]'
 - '[[Changes/ChatGPT/2024-11-22-improved-mobile-web-experience|Improved Mobile Web
   Experience]]'
+- '[[Changes/OpenHands/2024-12-12-make-layout-responsive-for-mobile-devices-by-tofarr-in-https-github-com-all-hand|Make
+  layout responsive for mobile devices]]'
+- '[[Changes/Aider/2024-12-26-improved-environment-variable-setup-messages-on-windows|Improved
+  environment variable setup messages on Windows]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-01-17-more-personalization-in-custom-instructions-bab36367|chatgpt-2025-01-17-more-personalization-in-custom-instructions-bab36367]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-11-22 · ChatGPT · [[Changes/ChatGPT/2024-11-22-improved-mobile-web-experience|Improved Mobile Web Experience]]
+- Earlier: 2024-12-26 · Aider · [[Changes/Aider/2024-12-26-improved-environment-variable-setup-messages-on-windows|Improved environment variable setup messages on Windows]]
 - Later: 2025-02-14 · ChatGPT · [[Changes/ChatGPT/2025-02-14-confirmation-dialog-for-logging-out-ios-web|Confirmation dialog for logging out (iOS, web)]]
 <!-- chronolog:end -->
 

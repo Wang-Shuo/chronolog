@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: be80ef0633a268888210cf571e9512a5f9a0ea475b9673f2c77c04070788c63c
+machine_hash: aa9114c3d20891aa472baee57ea840ef086a89147a46065927cf3ec803f0676a
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-easier-pinning-and-sidebar-organization-it-s-now-easier-to-keep-important-work-c|Easier pinning and sidebar organization]]
-- Later: 2026-06-23 · Claude Code · [[Changes/Claude Code/2026-06-23-2-interface-experience-changes-in-v2-1-187|2 Interface Experience changes in v2.1.187]]
+- Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-4-interface-experience-changes-in-rust-v0-142-0|4 Interface Experience changes in rust-v0.142.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

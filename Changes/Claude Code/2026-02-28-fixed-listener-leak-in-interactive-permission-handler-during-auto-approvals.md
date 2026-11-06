@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 8172d5e38e7d84a529a71b701c6d75d651b874b3b940282adf1c3b3b75b3aaad
+machine_hash: ade98c26340b610f9ee27fcf48030ae6b2e9b3b0913655b604da7c8643110d99
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Fixed listener leak in interactive permission handler during auto-approvals
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-18-7-safety-and-privacy-changes-in-cli-improvements-and-mermaid-ascii|7
-  Safety and Privacy changes in CLI Improvements and Mermaid ASCII…]]'
-- '[[Changes/Claude Code/2026-02-19-3-safety-and-privacy-changes-in-v2-1-49|3 Safety
-  and Privacy changes in v2.1.49]]'
-- '[[Changes/Claude Code/2026-02-24-3-safety-and-privacy-changes-in-v2-1-51|3 Safety
-  and Privacy changes in v2.1.51]]'
+- '[[Changes/Gemini CLI/2026-02-25-refactor-core-adopt-coretoolcallstatus-enum-for-type-safety-by-jerop-in-https-gi|refactor(core):
+  adopt CoreToolCallStatus enum for type safety]]'
+- '[[Changes/Codex CLI/2026-02-26-12800-fix-enforce-sandbox-envelope-for-zsh-fork-execution-bolinfest|♯12800
+  fix: enforce sandbox envelope for zsh fork execution @bolinfest]]'
+- '[[Changes/Gemini CLI/2026-02-27-6-safety-and-privacy-changes-in-v0-31-0|6 Safety
+  and Privacy changes in v0.31.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c|claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c]]'
 source_type: github_releases
 theme: safety-privacy
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-02-24 · Claude Code · [[Changes/Claude Code/2026-02-24-3-safety-and-privacy-changes-in-v2-1-51|3 Safety and Privacy changes in v2.1.51]]
-- Later: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-fixed-team-permission-and-access-control-inconsistencies-across-organization-set|Fixed team permission and access control inconsistencies across organization setups]]
+- Earlier: 2026-02-27 · Gemini CLI · [[Changes/Gemini CLI/2026-02-27-6-safety-and-privacy-changes-in-v0-31-0|6 Safety and Privacy changes in v0.31.0]]
+- Later: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-8-safety-and-privacy-changes-in-rust-v0-107-0|8 Safety and Privacy changes in rust-v0.107.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

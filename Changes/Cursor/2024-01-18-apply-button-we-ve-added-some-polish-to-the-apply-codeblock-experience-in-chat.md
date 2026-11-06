@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8a60b07a7e1bf4646a0221c77fbf6aec99106535ec750c9a39fd25522f412afb
+machine_hash: 47794411b4d76699b4087df8d54fc332d0b991082ca07324df54eb28d88ba903
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,10 @@ record:
     in chat'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-03-hold-down-command-press-and-release-shift-and-continue-holding-down-command-this|Early
-  Preview: Hold-cmd-tap-shift to Trigger AI Rewrite]]'
 - '[[Changes/Cursor/2024-01-06-upgrades-cursor-to-vs-code-1-85-which-comes-with-support-for-dragging-out-tabs-i|Upgrades
   Cursor to VS Code 1.85, which comes with support for dragging out tabs…]]'
+- '[[Changes/Aider/2024-01-08-improvements-to-unified-diff-editing-format|Improvements
+  to unified diff editing format]]'
 - '[[Changes/Cursor/2024-01-18-more-chat-symbol-links-when-the-chat-references-a-code-symbol-you-ll-often-be-ab|More
   chat symbol links]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-18-0-23-x-https-cursor-com-changelog-0-23-x-c0ec65fe|cursor-2024-01-18-0-23-x-https-cursor-com-changelog-0-23-x-c0ec65fe]]'
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-01-06 · Cursor · [[Changes/Cursor/2024-01-06-upgrades-cursor-to-vs-code-1-85-which-comes-with-support-for-dragging-out-tabs-i|Upgrades Cursor to VS Code 1.85, which comes with support for dragging out tabs…]]
-- Later: 2024-02-02 · Cursor · [[Changes/Cursor/2024-02-02-hold-down-cmd-i-over-a-selection-to-heal-the-code-with-gpt-4-useful-for-writing|Cmd-I to Heal]]
+- Earlier: 2024-01-08 · Aider · [[Changes/Aider/2024-01-08-improvements-to-unified-diff-editing-format|Improvements to unified diff editing format]]
+- Later: 2024-01-23 · Aider · [[Changes/Aider/2024-01-23-3-editor-experience-changes-in-v0-22-0|3 Editor Experience changes in v0.22.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

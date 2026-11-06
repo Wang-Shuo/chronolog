@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ebbcd12357239bed3d784b6996405e22de9452c934f25379d0144aca91371c52
+machine_hash: 9fa189275ee3a04fb0ed94740c9ef451018d62f3445e308058cfb0b343522585
 product: claude-code
 product_name: Claude Code
 record:
@@ -64,10 +64,10 @@ record:
   title: 7 Safety and Privacy changes in v2.1.221
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-23-health-is-built-with-layered-privacy-and-security-safeguards-connected-medical-r|Health
-  is built with layered privacy and security safeguards]]'
-- '[[Changes/Claude Code/2026-07-24-2-safety-and-privacy-changes-in-v2-1-219|2 Safety
-  and Privacy changes in v2.1.219]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-30-2-safety-and-privacy-changes-in-v1-0-77|2
+  Safety and Privacy changes in v1.0.77]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-03-3-safety-and-privacy-changes-in-v1-0-78|3
+  Safety and Privacy changes in v1.0.78]]'
 - '[[Changes/Claude Code/2026-08-04-improved-auto-mode-safety-messages-sent-to-other-agent-sessions-via-sendmessage|Improved
   auto mode safety]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce|claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce]]'
@@ -120,7 +120,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.221
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-improved-auto-mode-safety-messages-sent-to-other-agent-sessions-via-sendmessage|Improved auto mode safety]]
-- Later: 2026-08-06 · Claude Code · [[Changes/Claude Code/2026-08-06-3-safety-and-privacy-changes-in-v2-1-223|3 Safety and Privacy changes in v2.1.223]]
+- Later: 2026-08-05 · Codex CLI · [[Changes/Codex CLI/2026-08-05-apply-safer-automatic-review-defaults-for-cyber-capable-models-and-explain-permi|Apply safer automatic-review defaults for cyber-capable models and explain…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

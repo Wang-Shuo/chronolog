@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a0d87def234d3bad9d1e34e22f5e1cc4e00190a549b12a3f284f4b9333fb39a5
+machine_hash: 9616edb41e842522a6c48bcbd15ea581ffdda39aa7c739a33404552bcde63f6a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,11 +43,12 @@ record:
   title: Upload files and access model selector on mobile
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-05-15-max-mode-for-all-top-models|Max Mode for all top models]]'
-- '[[Changes/Cursor/2025-06-04-max-mode-is-now-available-for-gemini-2-5-flash|Max
-  mode is now available for Gemini 2.5 Flash]]'
 - '[[Changes/ChatGPT/2025-06-10-like-o1-pro-o3-pro-is-a-version-of-our-most-intelligent-model-o3-designed-to-thi-32668a|ChatGPT
   launches OpenAI o3-pro—available now for Pro users and in our API]]'
+- '[[Changes/Cline/2025-06-10-free-grok-model-available-access-grok-3-completely-free-through-the-cline-provid|Free
+  Grok Model Available! Access Grok 3 completely free through the Cline provider]]'
+- '[[Changes/OpenHands/2025-06-10-prevented-llm-settings-reset-when-page-loses-focus-during-initial-setup-by-llama|Prevented
+  LLM settings reset when page loses focus during initial setup]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8|chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -80,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-06-10 · ChatGPT · [[Changes/ChatGPT/2025-06-10-like-o1-pro-o3-pro-is-a-version-of-our-most-intelligent-model-o3-designed-to-thi-32668a|ChatGPT launches OpenAI o3-pro—available now for Pro users and in our API]]
+- Earlier: 2025-06-10 · OpenHands · [[Changes/OpenHands/2025-06-10-prevented-llm-settings-reset-when-page-loses-focus-during-initial-setup-by-llama|Prevented LLM settings reset when page loses focus during initial setup]]
 - Later: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-creators-can-now-choose-from-the-full-set-of-chatgpt-models-gpt-4o-o3-o4-mini-an-ad1adf|Creators can now choose from the full set of ChatGPT models…]]
 <!-- chronolog:end -->
 

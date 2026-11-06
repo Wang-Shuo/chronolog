@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f013bc43f31ad2fbc496930cb235f8f25496360c4c5d69a3be584a0706053bf6
+machine_hash: 0ed4bec3333f18aa2b7b7c7c6842d9b8f2997d28749f9488968dd25e27f38803
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.307
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-15-2-developer-workflow-changes-in-v2-1-301|2 Developer
-  Workflow changes in v2.1.301]]'
-- '[[Changes/Claude Code/2026-10-19-3-developer-workflow-changes-in-v2-1-304|3 Developer
-  Workflow changes in v2.1.304]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-19-2-developer-workflow-changes-in-v1-0-100|2
+  Developer Workflow changes in v1.0.100]]'
 - '[[Changes/Claude Code/2026-10-20-2-developer-workflow-changes-in-v2-1-305|2 Developer
   Workflow changes in v2.1.305]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-20-2-developer-workflow-changes-in-v1-0-101|2
+  Developer Workflow changes in v1.0.101]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d|claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d]]'
 source_type: github_releases
 theme: developer-workflow
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.307
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-20 · Claude Code · [[Changes/Claude Code/2026-10-20-2-developer-workflow-changes-in-v2-1-305|2 Developer Workflow changes in v2.1.305]]
+- Earlier: 2026-10-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-20-2-developer-workflow-changes-in-v1-0-101|2 Developer Workflow changes in v1.0.101]]
 - Later: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-improved-disk-full-handling-a-bash-command-cut-off-by-a-full-disk-now-says-so-an|Improved disk-full handling]]
 <!-- chronolog:end -->
 

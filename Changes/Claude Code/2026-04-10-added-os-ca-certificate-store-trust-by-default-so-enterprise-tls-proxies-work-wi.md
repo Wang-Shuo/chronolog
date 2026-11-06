@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ec14e7f9597df65db88fd212827e3bf0a5d56cd8637c3e8ca7af53e10b853cae
+machine_hash: 5de5b7ff4dce5b4877fdb8afbe3243f8bc885baf5322bf6696001a6bc084b4c7
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     work…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-added-an-enterprise-admin-control-for-disabling-made-with-cursor-code-attributio|Added
-  an Enterprise Admin control for disabling "Made with Cursor" code attribution…]]'
 - '[[Changes/Claude Code/2026-04-04-added-forceremotesettingsrefresh-policy-setting-when-set-the-cli-blocks-startup|Added
   forceRemoteSettingsRefresh policy setting]]'
 - '[[Changes/Claude Code/2026-04-07-changed-default-effort-level-from-medium-to-high-for-api-key-bedrock-vertex-foun|Changed
   default effort level from medium to high for API-key…]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-09-show-a-clear-message-to-contact-your-organization-administrator-when-remote-sess|Show
+  a clear message to contact your organization administrator when remote sessions…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642|claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-04-07 · Claude Code · [[Changes/Claude Code/2026-04-07-changed-default-effort-level-from-medium-to-high-for-api-key-bedrock-vertex-foun|Changed default effort level from medium to high for API-key…]]
-- Later: 2026-04-16 · ChatGPT · [[Changes/ChatGPT/2026-04-16-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-australia-new|Rolling out ads in Australia, New Zealand, and Canada]]
+- Earlier: 2026-04-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-09-show-a-clear-message-to-contact-your-organization-administrator-when-remote-sess|Show a clear message to contact your organization administrator when remote sessions…]]
+- Later: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-the-readme-now-uses-the-current-chatgpt-business-plan-name-16348|The README now uses the current ChatGPT Business plan name (♯16348)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

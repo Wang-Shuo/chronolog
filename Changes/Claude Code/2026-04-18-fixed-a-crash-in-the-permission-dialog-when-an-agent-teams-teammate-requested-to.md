@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: fix
-machine_hash: 6075186dbc21994445f1f5a6dc5420b680cf7acae0e67ce298ce8b6bc3a931d9
+machine_hash: 5cd5eaa474fabaf3abea86ac434fbc2a393a2a5a6e0725310deeb09aca8f2c8c
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
     tool…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-16-added-less-permission-prompts-skill-scans-transcripts-for-common-read-only-bash|Added
-  /less-permission-prompts skill]]'
 - '[[Changes/Claude Code/2026-04-16-2-safety-and-privacy-changes-in-v2-1-111|2 Safety
   and Privacy changes in v2.1.111]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-16-2-safety-and-privacy-changes-in-v1-0-28|2
+  Safety and Privacy changes in v1.0.28]]'
 - '[[Changes/Claude Code/2026-04-17-6-safety-and-privacy-changes-in-v2-1-113|6 Safety
   and Privacy changes in v2.1.113]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-18-v2-1-114-github-310615961-aa4049e4|claude-code-2026-04-18-v2-1-114-github-310615961-aa4049e4]]'

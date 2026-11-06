@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 87de20728003ce1aa31a484731aa8949d6f57ff15bf6c30e7a5bddfda96ce62d
+machine_hash: caff6b36555579579ac1324fae2ab118e34df02e1fbea3f0ae53bca73ac9b284
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,12 +46,11 @@ record:
   title: Cleaner “Select All” behavior (Cmd+A)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-25-share-photos-to-discuss-them-out-loud|Share photos
-  to discuss them out loud]]'
-- '[[Changes/Cursor/2026-01-22-added-team-and-mdm-hooks-support-to-cli-with-more-efficient-execution|Added
-  team and MDM hooks support to CLI with more efficient execution]]'
-- '[[Changes/Claude Code/2026-02-05-added-research-preview-agent-teams-feature-for-multi-agent-collaboration-token-i|Added
-  research preview agent teams feature for multi-agent collaboration…]]'
+- '[[Changes/Codex CLI/2026-02-11-11294-chore-put-crypto-provider-logic-in-a-shared-crate-bolinfest|♯11294
+  chore: put crypto provider logic in a shared crate @bolinfest]]'
+- '[[Changes/Cline/2026-02-12-telemetry-route-posthog-networking-through-proxy-aware-shared-fetch-and-ensure-t|Telemetry:
+  route PostHog networking through proxy-aware shared fetch and ensure…]]'
+- '[[Changes/Windsurf/2026-02-12-enterprise-team-improvements|Enterprise & Team Improvements]]'
 scope: Web
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0|chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0]]'
 source_type: chatgpt_changelog
@@ -85,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-02-05 · Claude Code · [[Changes/Claude Code/2026-02-05-added-research-preview-agent-teams-feature-for-multi-agent-collaboration-token-i|Added research preview agent teams feature for multi-agent collaboration…]]
-- Later: 2026-03-25 · Claude Code · [[Changes/Claude Code/2026-03-25-added-managed-settings-d-drop-in-directory-alongside-managed-settings-json-letti|Added managed-settings.d/ drop-in directory alongside managed-settings.json…]]
+- Earlier: 2026-02-12 · Windsurf · [[Changes/Windsurf/2026-02-12-enterprise-team-improvements|Enterprise & Team Improvements]]
+- Later: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-12028-remove-feature-flag-collaboration-modes-aibrahim-oai|♯12028 remove feature flag collaboration modes @aibrahim-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 58fa5ca0a85d556175154c9f760157448587f8430e6e3a1a471998d22f3050df
+machine_hash: 95253e57d39ecd5115ea02ec72ef65ed4a8190c162d67d09ea93c2f54fa03486
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,11 @@ record:
   title: 'Windows/macOS: Fixed headless sessions not cleaning up stale entries…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-20-improved-startup-bare-claude-starts-sooner-on-macos|Improved
-  startup: bare claude starts sooner on macOS]]'
 - '[[Changes/Claude Code/2026-08-21-remote-sessions-images-uploaded-from-mobile-now-include-their-saved-file-path-so|Remote
   sessions: images uploaded from mobile now include their saved file path…]]'
 - '[[Changes/Claude Code/2026-08-21-windows-cross-session-messaging-is-now-available-so-claude-code-sessions-across|Windows:
   cross-session messaging is now available, so Claude Code sessions across…]]'
+- '[[Changes/Windsurf/2026-08-21-devin-desktop|Devin Desktop]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0|claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -85,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-windows-cross-session-messaging-is-now-available-so-claude-code-sessions-across|Windows: cross-session messaging is now available, so Claude Code sessions across…]]
-- Later: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o|Share your stickers in messaging apps]]
+- Earlier: 2026-08-21 · Windsurf · [[Changes/Windsurf/2026-08-21-devin-desktop|Devin Desktop]]
+- Later: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-39811-restrict-macos-preference-reads-to-full-disk-policies-copyberry|♯39811 Restrict macOS preference reads to full-disk policies @copyberry]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

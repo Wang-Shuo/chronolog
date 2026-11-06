@@ -11,7 +11,7 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v1
 impact: significant
-machine_hash: dcb9a0e00368e7a14eca162e0ff559d19635f7ea379d91660570fddea7b5e018
+machine_hash: f983b95523d3ebf3b0934e2882e7674d1bc03f47b74c778757c594462e38f897
 product: openhands
 product_name: OpenHands
 related_changes:
@@ -19,6 +19,7 @@ related_changes:
 - '[[Changes/Tabby/2023-03-18-model-support-adds-new-code-specialized-model-presets|tabby-2023-03-18-b01922]]'
 - '[[Changes/Continue/2023-05-01-model-support-adds-configurable-local-llm-options|continue-2023-05-01-211175]]'
 source_release: '[[Releases/OpenHands/2023-06-21-openhands-2023-06-21-v0-7|openhands-2023-06-21-v0-7]]'
+superseded: true
 theme: model-support
 type: change
 ---

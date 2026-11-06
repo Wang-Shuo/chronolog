@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 54bf751073acdc122adca8389691d01cbc8a449c916f1e1dc69e35d341999cc4
+machine_hash: f83ce00d9ffad5f4f6622e954fe5d5678d42a02f9511f8da69efd22fe36ea462
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,11 +42,12 @@ record:
   title: 2 Agent Mode changes in v2.1.20
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-subagents|Subagents]]'
-- '[[Changes/Cursor/2026-01-22-clarification-questions-from-the-agent|Clarification
-  questions from the agent]]'
-- '[[Changes/Claude Code/2026-01-23-added-env-var-claude-code-enable-tasks-set-to-false-to-keep-the-old-system-tempo|Added
-  env var CLAUDE_CODE_ENABLE_TASKS, set to false to keep the old system…]]'
+- '[[Changes/Codex CLI/2026-01-25-2-agent-mode-changes-in-rust-v0-91-0|2 Agent Mode
+  changes in rust-v0.91.0]]'
+- '[[Changes/Codex CLI/2026-01-25-2-agent-mode-changes-in-rust-v0-90-0|2 Agent Mode
+  changes in rust-v0.90.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-26-load-local-shell-configuration-in-agent-sessions|Load
+  local shell configuration in agent sessions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-27-v2-1-20-github-280123443-38431f59|claude-code-2026-01-27-v2-1-20-github-280123443-38431f59]]'
 source_type: github_releases
 theme: agent-mode
@@ -84,8 +85,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.20
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-23 · Claude Code · [[Changes/Claude Code/2026-01-23-added-env-var-claude-code-enable-tasks-set-to-false-to-keep-the-old-system-tempo|Added env var CLAUDE_CODE_ENABLE_TASKS, set to false to keep the old system…]]
-- Later: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-added-token-count-tool-uses-and-duration-metrics-to-task-tool-results|Added token count, tool uses, and duration metrics to Task tool results]]
+- Earlier: 2026-01-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-26-load-local-shell-configuration-in-agent-sessions|Load local shell configuration in agent sessions]]
+- Later: 2026-01-27 · Codex CLI · [[Changes/Codex CLI/2026-01-27-9818-feat-rebase-multi-agent-tui-on-config-snapshot-jif-oai|♯9818 feat: rebase multi-agent tui on config_snapshot @jif-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

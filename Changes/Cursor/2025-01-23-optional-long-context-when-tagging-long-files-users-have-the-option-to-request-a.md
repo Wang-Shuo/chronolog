@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 58d5dd355eb5c88c84ab0f1199e0798ec20af44fb68376c155468d0238902c3a
+machine_hash: 73cc55cb4ba4b79a9cca6aa0a09bd9509d9a96e0c72ee2ad1cb13c9399fced1a
 product: cursor
 product_name: Cursor
 record:
@@ -56,8 +56,8 @@ record:
   title: Optional Long Context
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-11-24-early-version-of-an-agent-in-composer-that-can-pick-its-own-context-and-use-the-1228de|Early
-  version of an agent in composer that can pick its own context and use the terminal]]'
+- '[[Changes/Aider/2025-01-10-increased-max-chat-history-tokens-limit-from-4k-to-8k|Increased
+  max chat history tokens limit from 4k to 8k]]'
 - '[[Changes/Cursor/2025-01-23-fusion-model-we-ve-trained-a-new-tab-model-that-is-substantially-better-at-jumps|Fusion
   Model: We''ve trained a new Tab Model that is substantially better at jumps…]]'
 - '[[Changes/Cursor/2025-01-23-summarize-previous-composers-when-conversations-grow-too-long-you-can-start-a-ne|Summarize
@@ -97,8 +97,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-11-24 · Cursor · [[Changes/Cursor/2024-11-24-early-version-of-an-agent-in-composer-that-can-pick-its-own-context-and-use-the-1228de|Early version of an agent in composer that can pick its own context and use the terminal]]
-- Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-ui-refresh-phase-one-of-a-fresh-coat-of-paint-with-new-default-cursor-themes-des|UI refresh: Phase one of a fresh coat of paint with new default Cursor themes…]]
+- Earlier: 2025-01-10 · Aider · [[Changes/Aider/2025-01-10-increased-max-chat-history-tokens-limit-from-4k-to-8k|Increased max chat history tokens limit from 4k to 8k]]
+- Later: 2025-01-30 · Cline · [[Changes/Cline/2025-01-30-new-context-window-progress-bar-in-the-task-header-to-understand-increased-cost|New Context Window progress bar in the task header to understand increased…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: d2731d34cfda7da027cf52b4f89c316d0ca88d6a51909084fcb92ca6a4b9d8a0
+machine_hash: 021f76980cefbaa48fc4a2f33099e4fa906f3410e5669fa6506c701079f26eb2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -72,12 +72,12 @@ record:
   title: GPT-6.1 Terra
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-16-gpt-6-pro-in-the-chat-tab-now-offers|GPT-6 Pro in
-  the chat tab now offers]]'
-- '[[Changes/Claude Code/2026-10-16-improved-the-message-when-a-background-session-reopened-from-another-folder-has|Improved
-  the message when a background session reopened from another folder has no…]]'
-- '[[Changes/Claude Code/2026-10-19-2-model-support-changes-in-v2-1-304|2 Model Support
-  changes in v2.1.304]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-21-prompt-mode-now-honors-managed-auto-model-selection-for-p-and-piped-stdin-runs|Prompt
+  mode now honors managed Auto model selection for -p and piped stdin runs]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-22-3-model-support-changes-in-v1-0-103|3 Model
+  Support changes in v1.0.103]]'
+- '[[Changes/Codex CLI/2026-10-23-9-model-support-changes-in-rust-v0-164-0|9 Model
+  Support changes in rust-v0.164.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-26-gpt-6-1-terra-d321b573|chatgpt-2026-10-26-gpt-6-1-terra-d321b573]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -104,7 +104,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-2-model-support-changes-in-v2-1-304|2 Model Support changes in v2.1.304]]
+- Earlier: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-9-model-support-changes-in-rust-v0-164-0|9 Model Support changes in rust-v0.164.0]]
 - Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-5-model-support-changes-in-v2-1-311|5 Model Support changes in v2.1.311]]
 <!-- chronolog:end -->
 

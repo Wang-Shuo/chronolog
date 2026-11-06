@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2e8c84cbb10ac34c637fb3a8a1828af9c7b0dc92c00d0f9c376a6512533220b2
+machine_hash: 7f5fbb78ba6811fedd2bd212fa97ea09b113dc40e7875001df82d8934d497577
 product: cursor
 product_name: Cursor
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2023-06-24 · Cursor · [[Changes/Cursor/2023-06-24-chat-was-failing-on-some-non-git-folders-that-is-now-fixed|Chat was failing on some non-git folders]]
-- Later: 2023-07-12 · Cursor · [[Changes/Cursor/2023-07-12-this-update-patches-search-cmd-win-shift-f-and-many-extensions-for-and-wsl-and-s|This update patches search (Cmd/Win+Shift+F) and many extensions for and WSL and SSH users]]
+- Later: 2023-07-08 · Aider · [[Changes/Aider/2023-07-08-ask-to-create-a-git-repo-if-none-found-to-better-track-gpt-s-code-changes|Ask to create a git repo if none found, to better track GPT's code changes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

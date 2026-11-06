@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bdb8ae849d5930253b3396ecf596b84b7de59cd36d60665a15811c2a13121c44
+machine_hash: a0befce8009397c933bcce37973eba793d257ca3321536f528a44284b54088f2
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Improved deleting a background session whose worktree has unpushed commits
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-3-developer-workflow-changes-in-v2-1-251|3 Developer
-  Workflow changes in v2.1.251]]'
-- '[[Changes/Claude Code/2026-09-01-3-developer-workflow-changes-in-v2-1-257|3 Developer
-  Workflow changes in v2.1.257]]'
+- '[[Changes/Codex CLI/2026-09-01-6-developer-workflow-changes-in-rust-v0-152-0|6
+  Developer Workflow changes in rust-v0.152.0]]'
 - '[[Changes/Claude Code/2026-09-02-improved-terminal-resize-and-first-render-performance-for-long-responses-by-reus|Improved
   terminal resize and first-render performance for long responses by reusing…]]'
+- '[[Changes/Cline/2026-09-02-global-rules-are-now-also-read-from-cline-rules-which-is-where-the-rules-tab-wri|Global
+  rules are now also read from ~/Cline/Rules, which is where the Rules tab…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
 source_type: github_releases
 theme: developer-workflow
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-improved-terminal-resize-and-first-render-performance-for-long-responses-by-reus|Improved terminal resize and first-render performance for long responses by reusing…]]
-- Later: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-3-developer-workflow-changes-in-v2-1-261|3 Developer Workflow changes in v2.1.261]]
+- Earlier: 2026-09-02 · Cline · [[Changes/Cline/2026-09-02-global-rules-are-now-also-read-from-cline-rules-which-is-where-the-rules-tab-wri|Global rules are now also read from ~/Cline/Rules, which is where the Rules tab…]]
+- Later: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-5-developer-workflow-changes-in-rust-v0-153-0|5 Developer Workflow changes in rust-v0.153.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

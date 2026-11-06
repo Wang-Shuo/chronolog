@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1c89cb5b5a011d717e6b7111951fcf49a22e71f9c15d66600ee5dec090cc23e8
+machine_hash: d1bc365deb98a7a40521e7520cba4ab9f8cf82a9b0790220896f8ab9e7e56316
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
     5
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-we-re-deprecating-atlas-as-we-bring-browser-based-agentic-capabilities-into-chat|Retiring
-  Atlas]]'
-- '[[Changes/Claude Code/2026-07-10-gateway-login-now-supports-anthropic-operated-public-gateway-endpoints|Gateway:
-  /login now supports Anthropic-operated public gateway endpoints]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-10-2-account-and-access-changes-in-v1-0-70|2
+  Account and Access changes in v1.0.70]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-16-server-mode-reconnects-oauth-mcp-servers-from-cached-tokens|Server
+  mode reconnects OAuth MCP servers from cached tokens]]'
 - '[[Changes/Claude Code/2026-07-17-updated-the-auth-status-panel-title-from-cloud-authentication-to-authentication|Updated
   the auth status panel title from "Cloud authentication" to "Authentication"]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d|claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-updated-the-auth-status-panel-title-from-cloud-authentication-to-authentication|Updated the auth status panel title from "Cloud authentication" to "Authentication"]]
-- Later: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-changed-managed-settings-the-approval-prompt-no-longer-re-appears-after-re-login|Changed managed settings]]
+- Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-9-account-and-access-changes-in-rust-v0-145-0|9 Account and Access changes in rust-v0.145.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

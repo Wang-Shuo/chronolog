@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 56bcd5e924111bb19318eac3e5414b7f0e18dd34df977c4f3568834fecef8a62
+machine_hash: 5922e470403899db0471481488cc900d827c57eccee85875c09daa65cc271cbb
 product: cursor
 product_name: Cursor
 record:
@@ -49,11 +49,12 @@ record:
   title: 5 Reliability and Performance changes in 1.6
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-29-2-reliability-and-performance-changes-in-1-3|2 Reliability
-  and Performance changes in 1.3]]'
-- '[[Changes/Cursor/2025-08-06-1-4-5-improved-performance|1.4.5: Improved performance]]'
-- '[[Changes/Cursor/2025-08-21-1-5-5-general-stability-improvements-and-bug-fixes-to-enhance-overall-applicatio|1.5.5:
-  General stability improvements and bug fixes to enhance overall application…]]'
+- '[[Changes/Gemini CLI/2025-09-04-chore-remove-cli-flags-all-files-and-show-memory-usage-by-jackwotherspoon-in-htt|chore:
+  remove CLI flags all_files and show_memory_usage]]'
+- '[[Changes/Gemini CLI/2025-09-09-improve-performance-of-shell-commands-with-lots-of-output-by-jakemac53-in-https|improve
+  performance of shell commands with lots of output]]'
+- '[[Changes/Codex CLI/2025-09-10-3323-chore-try-switching-to-cargo-nextest-to-speed-up-ci-builds|♯3323
+  chore: try switching to cargo nextest to speed up CI builds]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea|cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -101,8 +102,8 @@ Source: https://cursor.com/changelog/1-6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-1-5-5-general-stability-improvements-and-bug-fixes-to-enhance-overall-applicatio|1.5.5: General stability improvements and bug fixes to enhance overall application…]]
-- Later: 2025-09-17 · ChatGPT · [[Changes/ChatGPT/2025-09-17-2-reliability-and-performance-changes-in-toggle-thinking-time-in-the-message|2 Reliability and Performance changes in Toggle thinking time in the message…]]
+- Earlier: 2025-09-10 · Codex CLI · [[Changes/Codex CLI/2025-09-10-3323-chore-try-switching-to-cargo-nextest-to-speed-up-ci-builds|♯3323 chore: try switching to cargo nextest to speed up CI builds]]
+- Later: 2025-09-16 · Windsurf · [[Changes/Windsurf/2025-09-16-various-bug-fixes-and-stability-improvements|Various bug fixes and stability improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

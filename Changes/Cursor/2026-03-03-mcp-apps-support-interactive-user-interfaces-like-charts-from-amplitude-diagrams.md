@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e00f90a1a9e4e229442d8a75656095f104e53c76b047a93b69810aa12f286dd8
+machine_hash: a13f5385600776ecc980887d658b69291a386904b0ccf4909eb8b8f79b96037e
 product: cursor
 product_name: Cursor
 record:
@@ -46,10 +46,10 @@ record:
   title: MCP Apps
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-25-expand-remote-control-to-more-users|Expand Remote
-  Control to more users]]'
-- '[[Changes/Claude Code/2026-02-28-added-enable-claudeai-mcp-servers-false-env-var-to-opt-out-from-making-claude-ai|Added
-  ENABLE_CLAUDEAI_MCP_SERVERS=false env var to opt out from making claude.ai…]]'
+- '[[Changes/Codex CLI/2026-03-02-3-apps-and-integrations-changes-in-rust-v0-107-0|3
+  Apps and Integrations changes in rust-v0.107.0]]'
+- '[[Changes/Cline/2026-03-03-3-apps-and-integrations-changes-in-v3-69-0|3 Apps and
+  Integrations changes in v3.69.0]]'
 - '[[Changes/Cursor/2026-03-03-3-apps-and-integrations-changes-in-2-6|3 Apps and Integrations
   changes in 2.6]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3]]'
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-added-enable-claudeai-mcp-servers-false-env-var-to-opt-out-from-making-claude-ai|Added ENABLE_CLAUDEAI_MCP_SERVERS=false env var to opt out from making claude.ai…]]
-- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-added-reload-plugins-command-to-activate-pending-plugin-changes-without-restarti|Added /reload-plugins command to activate pending plugin changes without restarting]]
+- Earlier: 2026-03-03 · Cline · [[Changes/Cline/2026-03-03-3-apps-and-integrations-changes-in-v3-69-0|3 Apps and Integrations changes in v3.69.0]]
+- Later: 2026-03-03 · Gemini CLI · [[Changes/Gemini CLI/2026-03-03-3-apps-and-integrations-changes-in-v0-32-0|3 Apps and Integrations changes in v0.32.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

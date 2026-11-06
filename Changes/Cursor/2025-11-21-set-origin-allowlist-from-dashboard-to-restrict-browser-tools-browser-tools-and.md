@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eddba7123ca35dc366711dd333d1f654fc03cc92a42700306247b5ac2a098fa7
+machine_hash: 5b2f226632aea0d09517bb0aa9e6ad31a44b9a340b7c5ba409d9a2be935fe112
 product: cursor
 product_name: Cursor
 record:
@@ -43,11 +43,12 @@ record:
   title: Set origin allowlist from dashboard to restrict browser tools
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-16-formatting-answers-are-better-formatted-for-quick-understanding-without-losing-d|Formatting:
-  Answers are better formatted for quick understanding without losing…]]'
-- '[[Changes/Cursor/2025-09-29-1-7-45-model-picker-ux|1.7.45: Model picker UX]]'
-- '[[Changes/Cursor/2025-10-29-optimized-text-parsing-for-chat-rendering|Optimized
-  text parsing for chat rendering]]'
+- '[[Changes/Gemini CLI/2025-11-14-switch-to-alternate-buffer-mode-before-rendering-ink-by-jacob314-in-https-github|Switch
+  to alternate buffer mode before rendering Ink]]'
+- '[[Changes/Codex CLI/2025-11-19-handle-don-t-trust-directory-selection-in-onboarding-4941-viniciusmotta8|Handle
+  "Don''t Trust" directory selection in onboarding (♯4941) — @viniciusmotta8]]'
+- '[[Changes/Gemini CLI/2025-11-20-bug-ui-make-it-clear-when-users-need-to-enter-selection-mode-and-fix-clear-issue|bug(ui)
+  make it clear when users need to enter selection mode and fix clear issue]]'
 source_release: '[[Releases/Cursor/cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490|cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -82,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-optimized-text-parsing-for-chat-rendering|Optimized text parsing for chat rendering]]
-- Later: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-pinned-chats|Pinned chats]]
+- Earlier: 2025-11-20 · Gemini CLI · [[Changes/Gemini CLI/2025-11-20-bug-ui-make-it-clear-when-users-need-to-enter-selection-mode-and-fix-clear-issue|bug(ui) make it clear when users need to enter selection mode and fix clear issue]]
+- Later: 2025-11-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-24-improved-timeline-rendering-of-shell-tool-names|Improved timeline rendering of shell tool names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

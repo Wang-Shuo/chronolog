@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ddd5e975c063787bcaf5f829af213b604ab671210b10b8159a027bde75154d3d
+machine_hash: 68317e0c8dc004c2343bb86318397eb37728067d07388783d6a8a7ccb8b8532f
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Bare `/color` (no args) now picks a random session color
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-23-3-interface-experience-changes-in-v2-1-119|3 Interface
-  Experience changes in v2.1.119]]'
-- '[[Changes/Claude Code/2026-04-23-2-interface-experience-changes-in-v2-1-118|2 Interface
-  Experience changes in v2.1.118]]'
-- '[[Changes/Claude Code/2026-04-28-4-interface-experience-changes-in-v2-1-121|4 Interface
-  Experience changes in v2.1.121]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-28-2-interface-experience-changes-in-v1-0-39|2
+  Interface Experience changes in v1.0.39]]'
+- '[[Changes/Codex CLI/2026-04-30-2-interface-experience-changes-in-rust-v0-128-0|2
+  Interface Experience changes in rust-v0.128.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-01-3-interface-experience-changes-in-v1-0-40|3
+  Interface Experience changes in v1.0.40]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2|claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2]]'
 source_type: github_releases
 theme: interface-experience
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-4-interface-experience-changes-in-v2-1-121|4 Interface Experience changes in v2.1.121]]
-- Later: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-2-interface-experience-changes-in-v2-1-132|2 Interface Experience changes in v2.1.132]]
+- Earlier: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-3-interface-experience-changes-in-v1-0-40|3 Interface Experience changes in v1.0.40]]
+- Later: 2026-05-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-05-2-interface-experience-changes-in-v1-0-41|2 Interface Experience changes in v1.0.41]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

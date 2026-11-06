@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 68859a821060b157db6f890e0235d6afbb9634fde6420b2614755f6dcf47f99e
+machine_hash: e39707a1e564bb80c166122d7bdc574802b4cf5f42be07a19f8f40be2c45c57a
 product: claude-code
 product_name: Claude Code
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.47
 ## Nearby in Agent Mode
 
 - Earlier: 2026-02-17 · Cursor · [[Changes/Cursor/2026-02-17-this-release-introduces-plugins-for-extending-cursor-improvements-to-core-agent|Cursor introduces plugins for extending Cursor, improvements to core agent…]]
-- Later: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-2-agent-mode-changes-in-cli-improvements-and-mermaid-ascii|2 Agent Mode changes in CLI Improvements and Mermaid ASCII…]]
+- Later: 2026-02-18 · Codex CLI · [[Changes/Codex CLI/2026-02-18-protocol-core-now-carry-distinct-approval-ids-for-command-approvals-to-support-m|Protocol/core now carry distinct approval IDs for command approvals to support…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

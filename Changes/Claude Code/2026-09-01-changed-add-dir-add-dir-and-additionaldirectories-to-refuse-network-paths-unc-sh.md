@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d6a6c0845bce49897c5750dd8dcecbc31ba9387cd7ffba37f05855374e4e9ffa
+machine_hash: 39301099f7b3fc2d576d50eacbc12545e1f626e8d28de00e08658a1895f304cd
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
     paths…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-25-windows-macos-fixed-headless-sessions-not-cleaning-up-stale-entries-in-claude-se|Windows/macOS:
-  Fixed headless sessions not cleaning up stale entries…]]'
+- '[[Changes/OpenHands/2026-08-27-feat-add-linux-desktop-installer-build-ci-deb-maintainer-fix-by-georgeglarson-in|feat:
+  add linux desktop installer build (CI + deb maintainer fix)]]'
 - '[[Changes/ChatGPT/2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o|Share
   your stickers in messaging apps]]'
 - '[[Changes/ChatGPT/2026-08-31-chatgpt-work-and-codex-can-now-use-tools-that-supported-websites-provide-directl|ChatGPT

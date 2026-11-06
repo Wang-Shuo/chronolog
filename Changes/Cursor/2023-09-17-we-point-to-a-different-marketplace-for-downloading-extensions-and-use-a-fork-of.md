@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6088f0a300c7fd7863a68c5bfa66f6e17bdb9b91507c5eec40d2a09ff8817c55
+machine_hash: a40c2e2e1f952f4a21ef407736f9f65713dd491cc31a01e10de414f29daad0fd
 product: cursor
 product_name: Cursor
 record:
@@ -48,8 +48,8 @@ record:
   title: Cursor Python and Cursor Marketplace
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-07-importing-vs-code-extensions-now-takes-into-account-enabled-disabled|Importing
-  VS Code extensions now takes into account enabled/disabled]]'
+- '[[Changes/Aider/2023-07-12-install-docs-link-to-neovim-plugin-https-github-com-joshuavial-aider-nvim-by-jos|Install
+  docs link to NeoVim plugin((source link)]]'
 - '[[Changes/Cursor/2023-07-28-more-robust-extension-handling-you-can-now-use-pre-release-extensions-again|More
   robust extension handling]]'
 - '[[Changes/Cursor/2023-09-11-we-serve-extensions-now-using-cursor-s-extension-marketplace|Cursor

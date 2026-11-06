@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4438073a65cc1badf2a708630d9bde9bef73da4fc827abd350c342ea759cbae2
+machine_hash: 97bca2dec3483bc4af2ec4dabfd9bbb8a53a763b76232594cca100f3626dfc55
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,10 @@ record:
   title: 3 Account and Access changes in v2.1.290
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-29-changed-team-and-enterprise-sessions-and-sessions-whose-sign-in-plan-claude-code|Changed
-  Team and Enterprise sessions, and sessions whose sign-in plan Claude Code…]]'
 - '[[Changes/Claude Code/2026-10-01-added-url-prompts-from-mcp-servers-on-the-2025-11-25-protocol-for-example-to-sig|Added
   URL prompts from MCP servers on the 2025-11-25 protocol, for example to sign in]]'
+- '[[Changes/Codex CLI/2026-10-01-2-account-and-access-changes-in-rust-v0-160-0|2
+  Account and Access changes in rust-v0.160.0]]'
 - '[[Changes/Claude Code/2026-10-02-added-a-re-authenticate-prompt-when-an-mcp-server-asks-for-more-oauth-scope-duri|Added
   a re-authenticate prompt when an MCP server asks for more OAuth scope during…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6|claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6]]'
@@ -101,7 +101,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.290
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-added-a-re-authenticate-prompt-when-an-mcp-server-asks-for-more-oauth-scope-duri|Added a re-authenticate prompt when an MCP server asks for more OAuth scope during…]]
-- Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-added-support-for-forceloginmethod-gateway-and-forcelogingatewayurl-in-your-own|Added support for forceLoginMethod: "gateway" and forceLoginGatewayUrl…]]
+- Later: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-3-account-and-access-changes-in-v1-0-92|3 Account and Access changes in v1.0.92]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

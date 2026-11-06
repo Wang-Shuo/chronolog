@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: c98a066d6f5281c98d678608882c6b9b9ed79bae7ec713c21078c5be77429a73
+machine_hash: 30a7c2e454f2a81576f5cab7e8899f7313676fd0d24684ae5db75d6b9cc8f64b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -78,10 +78,10 @@ record:
   title: Lockdown Mode is now available to all logged-in users
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-02-we-re-rolling-out-active-sessions-a-new-security-feature-in-chatgpt-that-helps-u-51e977|ChatGPT
-  rolls out Active sessions, a new security feature that helps users review…]]'
 - '[[Changes/Claude Code/2026-06-03-4-safety-and-privacy-changes-in-v2-1-162|4 Safety
   and Privacy changes in v2.1.162]]'
+- '[[Changes/Cline/2026-06-03-update-vs-code-extension-dependencies-to-resolve-security-issues-in-xmldom-xmldo|Update
+  VS Code extension dependencies to resolve security issues…]]'
 - '[[Changes/Cursor/2026-06-03-enterprise-customers-can-now-manage-multiple-cursor-teams-from-one-place-with-di|Enterprise
   customers can now manage multiple Cursor teams from one place…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-f7dcb357|chatgpt-2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-f7dcb357]]'

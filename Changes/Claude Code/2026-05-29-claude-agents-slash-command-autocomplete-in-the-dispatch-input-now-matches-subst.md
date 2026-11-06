@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1a25d4aec24772538dd96e87c805a29df0e002edabc2807b4561978a29dbd903
+machine_hash: 5086b39a7ceefe25df01730e84fd47565ac89517017e86099ce7202f806d9f93
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
     substrings'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-27-in-fullscreen-mode-the-thinking-for-ns-indicator-now-counts-up-live-while-the-mo|In
-  fullscreen mode, the "Thinking for Ns" indicator now counts up live…]]'
 - '[[Changes/Claude Code/2026-05-28-vscode-auto-mode-no-longer-requires-the-bypass-permissions-setting-to-appear-in|VSCode
   Auto mode no longer requires the bypass-permissions setting to appear…]]'
 - '[[Changes/Claude Code/2026-05-28-2-interface-experience-changes-in-v2-1-153|2 Interface
   Experience changes in v2.1.153]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-28-7-interface-experience-changes-in-v1-0-55|7
+  Interface Experience changes in v1.0.55]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8|claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8]]'
 source_type: github_releases
 theme: interface-experience
@@ -94,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-2-interface-experience-changes-in-v2-1-153|2 Interface Experience changes in v2.1.153]]
-- Later: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-2-interface-experience-changes-in-v2-1-161|2 Interface Experience changes in v2.1.161]]
+- Earlier: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-7-interface-experience-changes-in-v1-0-55|7 Interface Experience changes in v1.0.55]]
+- Later: 2026-05-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-29-reasoning-effort-picker-respects-model-capabilities-options-not-supported-by-the|Reasoning effort picker respects model capabilities]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

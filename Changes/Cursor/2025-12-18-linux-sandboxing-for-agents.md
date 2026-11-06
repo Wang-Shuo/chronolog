@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 59c63fa438c6c2c0c2c376b4794271238ff86b69ddc049ffa6006a0a902b4cfb
+machine_hash: 3c7d1fe9a9eb72b93f662f0410159ac5a4f91e0fb756592d18358884ded7da6e
 product: cursor
 product_name: Cursor
 record:
@@ -46,9 +46,9 @@ record:
   title: Linux sandboxing for agents
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-10-multi-agent-judging|Multi-agent judging]]'
-- '[[Changes/Cursor/2025-12-10-agent-plans-are-now-files-that-can-be-edited-with-normal-tools|Agent
-  plans are now files that can be edited with normal tools]]'
+- '[[Changes/Windsurf/2025-12-16-agents-tool-execution|Agents & Tool Execution]]'
+- '[[Changes/Codex CLI/2025-12-18-3-agent-mode-changes-in-rust-v0-74-0|3 Agent Mode
+  changes in rust-v0.74.0]]'
 - '[[Changes/Cursor/2025-12-18-shared-agent-transcripts-164030|Shared agent transcripts]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb|cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb]]'
 source_type: cursor_changelog
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-agent-plans-are-now-files-that-can-be-edited-with-normal-tools|Agent plans are now files that can be edited with normal tools]]
+- Earlier: 2025-12-18 · Codex CLI · [[Changes/Codex CLI/2025-12-18-3-agent-mode-changes-in-rust-v0-74-0|3 Agent Mode changes in rust-v0.74.0]]
 - Later: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-2-agent-mode-changes-in-2-3|2 Agent Mode changes in 2.3]]
 <!-- chronolog:end -->
 

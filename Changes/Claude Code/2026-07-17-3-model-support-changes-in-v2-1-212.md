@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1e3f23b59a8b5bb38a46ceb715289576515c9adb6c4968f6d65c6e337d3fe02c
+machine_hash: cd31f974f6ca0655a3475e0afd77b8f3cf962c2603d18196758a0d2a1339b55e
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,12 @@ record:
   title: 3 Model Support changes in v2.1.212
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-10-improved-code-review-findings-quality-on-claude-opus-4-8-across-all-effort-level|Improved
-  /code-review findings quality on claude-opus-4-8 across all effort levels]]'
-- '[[Changes/Claude Code/2026-07-11-changed-bedrock-vertex-and-claude-platform-on-aws-to-default-to-claude-opus-4-8|Changed
-  Bedrock, Vertex, and Claude Platform on AWS to default to Claude Opus 4.8]]'
 - '[[Changes/Claude Code/2026-07-14-improved-the-bash-powershell-tool-message-when-a-command-hits-its-timeout-and-is|Improved
   the Bash/PowerShell tool message when a command hits its timeout…]]'
+- '[[Changes/Cline/2026-07-16-add-gpt-5-6-chatgpt-subscription-models|Add GPT-5.6
+  ChatGPT subscription models]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-16-3-model-support-changes-in-v1-0-71|3 Model
+  Support changes in v1.0.71]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'
 source_type: github_releases
 theme: model-support
@@ -96,8 +96,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.212
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-improved-the-bash-powershell-tool-message-when-a-command-hits-its-timeout-and-is|Improved the Bash/PowerShell tool message when a command hits its timeout…]]
-- Later: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-added-an-announcement-when-fast-mode-changes-as-a-result-of-switching-models-via|Added an announcement when fast mode changes as a result of switching models…]]
+- Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-3-model-support-changes-in-v1-0-71|3 Model Support changes in v1.0.71]]
+- Later: 2026-07-18 · Codex CLI · [[Changes/Codex CLI/2026-07-18-3-model-support-changes-in-rust-v0-144-6|3 Model Support changes in rust-v0.144.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 167e5804c62c78655cb1557a3fa054adb84547f6e3f7376e42b89e6c95206bc2
+machine_hash: e617c7975807f267a65e40dbeb4dc46bdf2632dba3fda029833f9b60f21565ec
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,8 +49,8 @@ record:
   title: 3 Model Support changes in v2.1.285
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-28-6-model-support-changes-in-v2-1-284|6 Model Support
-  changes in v2.1.284]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-28-5-model-support-changes-in-v1-0-89|5 Model
+  Support changes in v1.0.89]]'
 - '[[Changes/ChatGPT/2026-09-29-gpt-6-1-sol-improves-on-gpt-6-sol-in-agentic-coding-computer-use-and-professiona-815850|GPT-6.1
   Sol in ChatGPT Work and Codex]]'
 - '[[Changes/ChatGPT/2026-09-29-eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp|Eligible
@@ -102,7 +102,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.285
 ## Nearby in Model Support
 
 - Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp|Eligible Plus and Pro users can authorize participating apps to use their ChatGPT…]]
-- Later: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-changed-how-failed-api-requests-are-retried-one-limit-now-covers-a-whole-model-c|Changed how failed API requests are retried]]
+- Later: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-3-model-support-changes-in-rust-v0-159-0|3 Model Support changes in rust-v0.159.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bf63e5135ab75c5177e9b7c1eddacec1d078efa27e8abc72532c0d3a15237926
+machine_hash: f10406963a0e94e266ab73e586da6e234ce5cbcb6b7bf94055be587190982dec
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,12 @@ record:
   title: Composer now only applies files that are in context to prevent hallucinations
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-04-12-cursorrules-you-can-write-down-repo-level-rules-for-the-ai-by-creating-a-cursorr|.cursorrules:
-  You can write down repo-level rules for the AI by creating…]]'
-- '[[Changes/Cursor/2024-06-08-adds-context-pills-to-chat-messages-so-you-can-see-what-will-be-was-used-a324a3|Adds
-  context pills to chat messages, so you can see what will be/was used]]'
-- '[[Changes/Cursor/2024-08-22-we-ve-also-trained-a-new-cursor-tab-model-that-s-smarter-and-more-context-aware-56db10|We''ve
-  also trained a new Cursor Tab model that''s smarter and more context-aware]]'
+- '[[Changes/Aider/2024-08-27-keep-your-prompt-cache-from-expiring-https-aider-chat-docs-usage-caching-html-pr|Keep
+  your prompt cache…]]'
+- '[[Changes/Cline/2024-09-19-you-can-now-use-in-the-textarea-to-add-context|Use @
+  in the textarea to add context!]]'
+- '[[Changes/Aider/2024-09-21-improvements-to-prompt-cache-chunking-strategy|Improvements
+  to prompt cache chunking strategy]]'
 source_release: '[[Releases/Cursor/cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1|cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1]]'
 source_type: cursor_changelog
 theme: context-window
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-08-22 · Cursor · [[Changes/Cursor/2024-08-22-we-ve-also-trained-a-new-cursor-tab-model-that-s-smarter-and-more-context-aware-56db10|We've also trained a new Cursor Tab model that's smarter and more context-aware]]
-- Later: 2024-11-24 · Cursor · [[Changes/Cursor/2024-11-24-early-version-of-an-agent-in-composer-that-can-pick-its-own-context-and-use-the-1228de|Early version of an agent in composer that can pick its own context and use the terminal]]
+- Earlier: 2024-09-21 · Aider · [[Changes/Aider/2024-09-21-improvements-to-prompt-cache-chunking-strategy|Improvements to prompt cache chunking strategy]]
+- Later: 2024-10-17 · OpenHands · [[Changes/OpenHands/2024-10-17-display-in-the-logs-the-prompt-cache-hit-or-miss-for-deepseek-chat-by-enyst-in-h|Display in the logs the prompt cache hit or miss for Deepseek Chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

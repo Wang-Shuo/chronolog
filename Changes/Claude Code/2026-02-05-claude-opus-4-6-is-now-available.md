@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: bd0410918046c8e90da5ef0d3a205bcb5d81a8479cfa56a335b5aa86cc037623
+machine_hash: 839d5896e7da150f8b52d1827f5bf340ac078c460692a8a05bdf2b877aa81760
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: Claude Opus 4.6 is now available!
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-03-changed-model-to-execute-immediately-instead-of-being-queued|Changed
-  /model to execute immediately instead of being queued]]'
-- '[[Changes/ChatGPT/2026-02-04-jan-10-2026-we-lowered-the-standard-and-light-thinking-time-as-we-observed-users-e93d5a|Jan
-  10, 2026: We lowered the Standard and Light thinking time as we observed users…]]'
-- '[[Changes/Claude Code/2026-02-04-improved-system-prompts-to-more-clearly-guide-the-model-toward-using-dedicated-t|Improved
-  system prompts to more clearly guide the model toward using dedicated tools…]]'
+- '[[Changes/Codex CLI/2026-02-04-added-websocket-side-rate-limit-signaling-via-a-new-codex-rate-limits-event-with|Added
+  websocket-side rate limit signaling via a new codex.rate_limits event…]]'
+- '[[Changes/Codex CLI/2026-02-04-2-model-support-changes-in-rust-v0-95-0|2 Model
+  Support changes in rust-v0.95.0]]'
+- '[[Changes/Gemini CLI/2026-02-04-6-model-support-changes-in-v0-27-0|6 Model Support
+  changes in v0.27.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0]]'
 source_type: github_releases
 theme: model-support
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-04 · Claude Code · [[Changes/Claude Code/2026-02-04-improved-system-prompts-to-more-clearly-guide-the-model-toward-using-dedicated-t|Improved system prompts to more clearly guide the model toward using dedicated tools…]]
-- Later: 2026-02-07 · Claude Code · [[Changes/Claude Code/2026-02-07-fast-mode-is-now-available-for-opus-4-6-learn-more-at-https-code-claude-com-docs|Fast mode is now available for Opus 4.6]]
+- Earlier: 2026-02-04 · Gemini CLI · [[Changes/Gemini CLI/2026-02-04-6-model-support-changes-in-v0-27-0|6 Model Support changes in v0.27.0]]
+- Later: 2026-02-05 · Cline · [[Changes/Cline/2026-02-05-anthopic-opus-4-6|Anthopic Opus 4.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

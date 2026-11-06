@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fb013e57db2ec787cdbb4005c590207d3131910d1997b0f3f33a648c81665fe7
+machine_hash: f1fe8ae22c702b8bf8b983be2fcad609bc8e660f718834561f3184d95f144bbb
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,10 +58,10 @@ record:
   title: 6 Safety and Privacy changes in v2.1.299
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-4-safety-and-privacy-changes-in-v2-1-296|4 Safety
-  and Privacy changes in v2.1.296]]'
 - '[[Changes/Cursor/2026-10-13-origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security-99509e|Origin
   now integrates with over 20 apps for deployments, CI, code review, security…]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-13-3-safety-and-privacy-changes-in-v1-0-97|3
+  Safety and Privacy changes in v1.0.97]]'
 - '[[Changes/Claude Code/2026-10-14-2-safety-and-privacy-changes-in-v2-1-300|2 Safety
   and Privacy changes in v2.1.300]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'
@@ -117,7 +117,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-2-safety-and-privacy-changes-in-v2-1-300|2 Safety and Privacy changes in v2.1.300]]
-- Later: 2026-10-15 · Claude Code · [[Changes/Claude Code/2026-10-15-5-safety-and-privacy-changes-in-v2-1-301|5 Safety and Privacy changes in v2.1.301]]
+- Later: 2026-10-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-14-resuming-a-session-now-respects-abandoned-pending-permission-work-and-continues|Resuming a session now respects abandoned pending-permission work and continues only…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

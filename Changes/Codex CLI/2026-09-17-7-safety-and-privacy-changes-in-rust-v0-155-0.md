@@ -1,0 +1,131 @@
+---
+card_id: codex-cli-2026-09-17-0e9233
+date: '2026-09-17'
+description: 'Codex CLI · 2026-09-17 · Safety and Privacy: 7 changes in 0.155.0 —
+  #43538 Move Guardian permission context into the shared section registry @copyberry'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
+    mode for opting out of storing any kind of data on our servers]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1250
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: safety-privacy
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: digest
+machine_hash: 57da0f8c130b6ed01547964f2366c3fd8c8d22659c2aad9885515d17cd4a243e
+product: codex-cli
+product_name: Codex CLI
+record:
+  card_id: codex-cli-2026-09-17-0e9233
+  comparison: ''
+  date: '2026-09-17'
+  description: 'Codex CLI — 0.155.0: 7 Safety and Privacy changes'
+  evidence:
+  - quote: '#43538 Move Guardian permission context into the shared section registry
+      @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.155.0
+  - quote: '#43853 Add canonical permission translation for MXC execution requests
+      @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.155.0
+  - quote: '#43913 Add tracing for project instructions and filesystem sandbox operations
+      @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.155.0
+  - quote: '#43930 Avoid Windows sandbox setup for irrelevant proxy port changes @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.155.0
+  - quote: '#43939 Add executor-context filesystem permission helpers @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.155.0
+  - quote: '#44259 Remove the Windows `/sandbox-add-read-dir` slash command @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.155.0
+  - quote: '#44327 Prevent filesystem-root read denies in the Windows sandbox @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.155.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: digest
+  product: codex-cli
+  product_name: Codex CLI
+  slug: 7-safety-and-privacy-changes-in-rust-v0-155-0
+  source_release: codex-cli-2026-09-17-rust-v0-155-0-github-391114314-ca085512
+  source_type: github_releases
+  theme: safety-privacy
+  title: 7 Safety and Privacy changes in rust-v0.155.0
+  type: change
+related_changes:
+- '[[Changes/OpenHands/2026-09-16-test-cover-telemetry-consent-banner-by-aivong-openhands-in-https-github-com-open|test:
+  cover telemetry consent banner]]'
+- '[[Changes/Claude Code/2026-09-17-7-safety-and-privacy-changes-in-v2-1-275|7 Safety
+  and Privacy changes in v2.1.275]]'
+- '[[Changes/Claude Code/2026-09-17-3-safety-and-privacy-changes-in-v2-1-274|3 Safety
+  and Privacy changes in v2.1.274]]'
+source_release: '[[Releases/Codex CLI/codex-cli-2026-09-17-rust-v0-155-0-github-391114314-ca085512|codex-cli-2026-09-17-rust-v0-155-0-github-391114314-ca085512]]'
+source_type: github_releases
+theme: safety-privacy
+title: 7 Safety and Privacy changes in rust-v0.155.0
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 7 Safety and Privacy changes in rust-v0.155.0
+
+**Codex CLI** · 2026-09-17 · [[Themes/safety-privacy|Safety and Privacy]] · Digest · [Official source](https://github.com/openai/codex/releases/tag/rust-v0.155.0) · from [[Releases/Codex CLI/codex-cli-2026-09-17-rust-v0-155-0-github-391114314-ca085512|0.155.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+## Changes in this digest
+
+> #43538 Move Guardian permission context into the shared section registry @copyberry
+
+> #43853 Add canonical permission translation for MXC execution requests @copyberry
+
+> #43913 Add tracing for project instructions and filesystem sandbox operations @copyberry
+
+> #43930 Avoid Windows sandbox setup for irrelevant proxy port changes @copyberry
+
+> #43939 Add executor-context filesystem permission helpers @copyberry
+
+> #44259 Remove the Windows `/sandbox-add-read-dir` slash command @copyberry
+
+> #44327 Prevent filesystem-root read denies in the Windows sandbox @copyberry
+
+Source: https://github.com/openai/codex/releases/tag/rust-v0.155.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Codex CLI/2026-09-17-43953-preserve-per-image-generation-ids-in-image-generation-analytics-copyberry|♯43953 Preserve per-image generation IDs in image generation analytics @copyberry]] · Image Generation
+- [[Changes/Codex CLI/2026-09-17-7-memory-and-personalization-changes-in-rust-v0-155-0|7 Memory and Personalization changes in rust-v0.155.0]] · Memory and Personalization
+- [[Changes/Codex CLI/2026-09-17-43846-include-completed-commentary-in-the-copy-picker-copyberry|♯43846 Include completed commentary in the /copy picker @copyberry]] · Interface Experience
+- [[Changes/Codex CLI/2026-09-17-13-model-support-changes-in-rust-v0-155-0|13 Model Support changes in rust-v0.155.0]] · Model Support
+- [[Changes/Codex CLI/2026-09-17-2-editor-experience-changes-in-rust-v0-155-0|2 Editor Experience changes in rust-v0.155.0]] · Editor Experience
+- [[Changes/Codex CLI/2026-09-17-15-developer-workflow-changes-in-rust-v0-155-0|15 Developer Workflow changes in rust-v0.155.0]] · Developer Workflow
+- [[Changes/Codex CLI/2026-09-17-20-voice-and-audio-changes-in-rust-v0-155-0|20 Voice and Audio changes in rust-v0.155.0]] · Voice and Audio
+- [[Changes/Codex CLI/2026-09-17-2-mobile-and-desktop-changes-in-rust-v0-155-0|2 Mobile and Desktop changes in rust-v0.155.0]] · Mobile and Desktop
+- [[Changes/Codex CLI/2026-09-17-20-context-window-changes-in-rust-v0-155-0|20 Context Window changes in rust-v0.155.0]] · Context Window
+- [[Changes/Codex CLI/2026-09-17-44354-extract-shared-footer-hint-wrapping-in-the-tui-copyberry|♯44354 Extract shared footer hint wrapping in the TUI @copyberry]] · Collaboration
+- [[Changes/Codex CLI/2026-09-17-9-agent-mode-changes-in-rust-v0-155-0|9 Agent Mode changes in rust-v0.155.0]] · Agent Mode
+- [[Changes/Codex CLI/2026-09-17-6-account-and-access-changes-in-rust-v0-155-0|6 Account and Access changes in rust-v0.155.0]] · Account and Access
+- [[Changes/Codex CLI/2026-09-17-24-apps-and-integrations-changes-in-rust-v0-155-0|24 Apps and Integrations changes in rust-v0.155.0]] · Apps and Integrations
+- [[Changes/Codex CLI/2026-09-17-96-other-changes-in-rust-v0-155-0|96 other changes in rust-v0.155.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Safety and Privacy
+
+- Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-3-safety-and-privacy-changes-in-v2-1-274|3 Safety and Privacy changes in v2.1.274]]
+- Later: 2026-09-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-17-sandbox-policy-now-reports-local-network-access-using-your-configured-setting|/sandbox policy now reports local-network access using your configured setting]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20codex-cli-2026-09-17-0e9233&body=Card%3A%20Changes%2FCodex%20CLI%2F2026-09-17-7-safety-and-privacy-changes-in-rust-v0-155-0.md%0ACard%20ID%3A%20codex-cli-2026-09-17-0e9233%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fopenai%2Fcodex%2Freleases%2Ftag%2Frust-v0.155.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

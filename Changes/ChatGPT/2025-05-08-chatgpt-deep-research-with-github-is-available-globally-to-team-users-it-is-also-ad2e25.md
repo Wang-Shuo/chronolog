@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 853c5cfd868c813ad7623bac554049661b3ba43ee260c9c45e6b9908df0f4ec6
+machine_hash: 6a62a6cea94d067a6621b6ebc76b997dfd7ef2053e74a6d1f70673386ccc6aed
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,12 +48,12 @@ record:
   title: GitHub connector for deep research for Plus/Pro/Team
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-25-using-web-in-chat-will-give-the-ai-the-ability-to-crawl-the-web-the-tools-it-can|Using
-  @Web in chat will give the AI the ability to crawl the web!]]'
-- '[[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set
-  ChatGPT as default search engine in Safari]]'
 - '[[Changes/Cursor/2025-02-19-web-search-agent-can-now-automatically-search-the-web-for-up-to-date-information|Web
   search: Agent can now automatically search the web for up-to-date information…]]'
+- '[[Changes/OpenHands/2025-04-02-turn-on-vision-based-browsing-by-default-and-allow-openhands-to-see-pdf-images-i|Turn
+  on vision-based browsing by default and allow OpenHands to see PDF / images…]]'
+- '[[Changes/Cline/2025-04-08-use-your-local-chrome-browser-for-session-based-browsing-enabling-debugging-and|Use
+  your local Chrome browser for session-based browsing, enabling debugging…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-08-github-connector-for-deep-research-for-plus-pro-team-498e1135|chatgpt-2025-05-08-github-connector-for-deep-research-for-plus-pro-team-498e1135]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-web-search-agent-can-now-automatically-search-the-web-for-up-to-date-information|Web search: Agent can now automatically search the web for up-to-date information…]]
+- Earlier: 2025-04-08 · Cline · [[Changes/Cline/2025-04-08-use-your-local-chrome-browser-for-session-based-browsing-enabling-debugging-and|Use your local Chrome browser for session-based browsing, enabling debugging…]]
 - Later: 2025-05-12 · ChatGPT · [[Changes/ChatGPT/2025-05-12-you-can-now-export-your-deep-research-reports-as-well-formatted-pdfs-complete-wi-87a3fa|Export Deep Research as PDF for Plus/Pro/Team]]
 <!-- chronolog:end -->
 

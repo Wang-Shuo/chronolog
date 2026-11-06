@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 238b17ea1313745b0c10199780d8e2bc602accfb76d3ed46cbe66ec627f814a0
+machine_hash: 2d2efd1d667f8c76515da3c92444c1bad4cdee8866982537ea0532e6761d0fcb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ record:
   title: Admin-published connectors appear in the connector list for all users
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-05-15-the-github-connector-is-now-available-globally-to-plus-pro-team-users-including|GitHub
-  connector for deep research]]'
-- '[[Changes/Cursor/2025-05-15-refreshed-inline-edit-cmd-ctrl-k-with-agent-integration|Refreshed
-  Inline Edit (Cmd/Ctrl+K) with Agent integration]]'
+- '[[Changes/Cline/2025-05-22-add-integration-with-nebius-ai-studio-as-a-new-provider-thanks-aktsvigun|Add
+  integration with Nebius AI Studio as a new provider (Thanks @Aktsvigun!)]]'
+- '[[Changes/OpenHands/2025-06-01-2-apps-and-integrations-changes-in-0-40-0|2 Apps
+  and Integrations changes in 0.40.0]]'
 - '[[Changes/ChatGPT/2025-06-04-supported-connectors-google-drive-sharepoint-dropbox-box-outlook-gmail-google-ca|Supported
   connectors: Google Drive, SharePoint, Dropbox, Box, Outlook, Gmail, Google…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-04-custom-connectors-via-model-context-protocol-pro-team-enterprise-a1bc36f5|chatgpt-2025-06-04-custom-connectors-via-model-context-protocol-pro-team-enterprise-a1bc36f5]]'
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-06-04 · ChatGPT · [[Changes/ChatGPT/2025-06-04-supported-connectors-google-drive-sharepoint-dropbox-box-outlook-gmail-google-ca|Supported connectors: Google Drive, SharePoint, Dropbox, Box, Outlook, Gmail, Google…]]
-- Later: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-agents-understand-context-6b73fc|Agents understand context]]
+- Later: 2025-06-05 · Cline · [[Changes/Cline/2025-06-05-add-support-for-streamable-mcp-servers|Add support for streamable MCP servers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

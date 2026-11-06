@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f8f826662b5d7003c0f9a7caad883fe26ce9e7ef0380de50c83e31226757e603
+machine_hash: 42e76ff1350004654c4f75e74484761ee061a856f1a724a38c3f81ee8e93d2eb
 product: cursor
 product_name: Cursor
 record:
@@ -47,12 +47,12 @@ record:
   title: Mermaid ASCII diagrams in CLI
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-10-improved-heredoc-delimiter-parsing-to-prevent-command-smuggling|Improved
-  heredoc delimiter parsing to prevent command smuggling]]'
-- '[[Changes/Cursor/2026-02-17-removed-auto-accept-on-commit-setting-so-pending-diffs-are-automatically-accepte|Removed
-  Auto-Accept on Commit setting so pending diffs are automatically accepted…]]'
 - '[[Changes/Claude Code/2026-02-18-the-rename-command-now-updates-the-terminal-tab-title-by-default-anthropics-clau|The
   /rename command now updates the terminal tab title by default…]]'
+- '[[Changes/Cline/2026-02-18-add-skills-slash-command-to-cli-for-viewing-and-managing-installed-skills|Add
+  /skills slash command to CLI for viewing and managing installed skills]]'
+- '[[Changes/Codex CLI/2026-02-18-2-developer-workflow-changes-in-rust-v0-104-0|2
+  Developer Workflow changes in rust-v0.104.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7|cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -94,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-18 · Claude Code · [[Changes/Claude Code/2026-02-18-the-rename-command-now-updates-the-terminal-tab-title-by-default-anthropics-clau|The /rename command now updates the terminal tab title by default…]]
-- Later: 2026-02-19 · ChatGPT · [[Changes/ChatGPT/2026-02-19-review-code-in-split-screen-views|Review code in split-screen views]]
+- Earlier: 2026-02-18 · Codex CLI · [[Changes/Codex CLI/2026-02-18-2-developer-workflow-changes-in-rust-v0-104-0|2 Developer Workflow changes in rust-v0.104.0]]
+- Later: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-7-developer-workflow-changes-in-v0-29-0|7 Developer Workflow changes in v0.29.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

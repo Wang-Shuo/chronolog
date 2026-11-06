@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 564d484cc83ae5517ce91ce7e3dbf4d884574ecd8996884a6637233e6fd788f1
+machine_hash: bfdc1c379b4e8a48c356b06c8ece4f31acbccd8f2c01fb4b612970b2f6a2923f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,12 +48,12 @@ record:
     where…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-24-added-rewind-support-for-resuming-a-conversation-from-before-clear-was-run|Added
-  /rewind support for resuming a conversation from before /clear was run]]'
-- '[[Changes/Claude Code/2026-06-26-improved-remote-session-startup-with-a-provisioning-checklist-while-the-containe|Improved
-  Remote session startup with a provisioning checklist while the container starts]]'
 - '[[Changes/Claude Code/2026-06-29-added-readable-default-names-for-sessions-at-start-making-them-easier-to-identif|Added
   readable default names for sessions at start, making them easier to identify…]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-30-recover-corrupted-session-history-on-load|Recover
+  corrupted session history on load]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-07-keep-session-resume-working-when-token-timing-includes-fractional-milliseconds|Keep
+  session resume working when token timing includes fractional milliseconds]]'
 scope: macOS and Windows
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad|chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad]]'
 source_type: chatgpt_changelog
@@ -87,7 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-added-readable-default-names-for-sessions-at-start-making-them-easier-to-identif|Added readable default names for sessions at start, making them easier to identify…]]
+- Earlier: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-keep-session-resume-working-when-token-timing-includes-fractional-milliseconds|Keep session resume working when token timing includes fractional milliseconds]]
+- Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-33201-branch-conversations-when-editing-earlier-tui-prompts-copyberry|♯33201 Branch conversations when editing earlier TUI prompts @copyberry]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

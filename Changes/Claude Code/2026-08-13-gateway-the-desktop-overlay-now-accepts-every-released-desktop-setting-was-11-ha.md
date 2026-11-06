@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c17e654dc29c9e7189387ac476c152e0ff8e2dcd0655add644d02d3e7b19512e
+machine_hash: ece30797b34a27aa20a28c521cb34a89a98ae8d18158925f6950938408b29ed1
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,9 @@ record:
   title: 'Gateway: the `desktop:` overlay now accepts every released Desktop setting…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-07-3-mobile-and-desktop-changes-in-v2-1-224|3 Mobile
-  and Desktop changes in v2.1.224]]'
-- '[[Changes/ChatGPT/2026-08-10-chatgpt-can-now-help-you-find-available-restaurant-reservations-with-opentable-r|Restaurant
-  reservations in ChatGPT]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-10-2-mobile-and-desktop-changes-in-v1-0-79|2
+  Mobile and Desktop changes in v1.0.79]]'
+- '[[Changes/Windsurf/2026-08-10-devin-desktop|Devin Desktop]]'
 - '[[Changes/Claude Code/2026-08-12-changed-self-hosted-runner-windows-startup-to-require-an-explicit-base-dir-there|Changed
   self-hosted runner Windows startup to require an explicit --base-dir]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-13-v2-1-232-github-370225682-71e478db|claude-code-2026-08-13-v2-1-232-github-370225682-71e478db]]'
@@ -91,7 +90,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-changed-self-hosted-runner-windows-startup-to-require-an-explicit-base-dir-there|Changed self-hosted runner Windows startup to require an explicit --base-dir]]
-- Later: 2026-08-14 · ChatGPT · [[Changes/ChatGPT/2026-08-14-work-in-the-built-in-browser-or-chrome-browser-actions-are-available-in-the-linu|Work in the built-in browser or Chrome]]
+- Later: 2026-08-13 · Windsurf · [[Changes/Windsurf/2026-08-13-devin-desktop|Devin Desktop]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

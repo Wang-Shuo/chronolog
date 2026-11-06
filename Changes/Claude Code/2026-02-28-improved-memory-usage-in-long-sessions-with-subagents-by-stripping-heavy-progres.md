@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d9c088eec124238b3324e3f3cfc0969857e7f98ad0da40d803c6d21199ebe4ff
+machine_hash: 535203ee1c9283564ca5db58367c77bd2e6bf1680da4806e0be0f302f469ba3d
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,10 +57,10 @@ record:
     progress…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-20-3-reliability-and-performance-changes-in-v2-1-50|3
-  Reliability and Performance changes in v2.1.50]]'
 - '[[Changes/Claude Code/2026-02-26-improved-memory-usage-in-multi-agent-sessions-by-releasing-completed-subagent-ta|Improved
   memory usage in multi-agent sessions by releasing completed subagent task state]]'
+- '[[Changes/Codex CLI/2026-02-26-2-reliability-and-performance-changes-in-rust-v0-106-0|2
+  Reliability and Performance changes in rust-v0.106.0]]'
 - '[[Changes/ChatGPT/2026-02-27-faster-sharing-sharing-chats-is-now-easier-and-faster-with-a-quicker-loading-sha|Faster
   sharing. Sharing chats is now easier and faster, with a quicker-loading share menu]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c|claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c]]'

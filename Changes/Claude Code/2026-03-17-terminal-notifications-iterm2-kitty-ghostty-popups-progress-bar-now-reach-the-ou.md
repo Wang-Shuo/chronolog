@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d19fe56240bef0cc0ad65755702031bc163abc36af9f7fa79176aecacd843217
+machine_hash: 03456fb91742c5e3a7a470c3250ffd022d25789ac9a325a9d28f7a680e1fca5d
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: Terminal notifications (iTerm2/Kitty/Ghostty popups, progress bar) now reach…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-12-vscode-improved-scroll-wheel-responsiveness-in-the-integrated-terminal-with-term|VSCode
-  Improved scroll wheel responsiveness in the integrated terminal…]]'
-- '[[Changes/Claude Code/2026-03-14-4-developer-workflow-changes-in-v2-1-76|4 Developer
-  Workflow changes in v2.1.76]]'
+- '[[Changes/Codex CLI/2026-03-16-2-developer-workflow-changes-in-rust-v0-115-0|2
+  Developer Workflow changes in rust-v0.115.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-16-4-developer-workflow-changes-in-v1-0-6|4
+  Developer Workflow changes in v1.0.6]]'
 - '[[Changes/Claude Code/2026-03-17-background-bash-tasks-are-now-killed-if-output-exceeds-5gb-preventing-runaway-pr|Background
   bash tasks are now killed if output exceeds 5GB, preventing runaway…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721|claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-background-bash-tasks-are-now-killed-if-output-exceeds-5gb-preventing-runaway-pr|Background bash tasks are now killed if output exceeds 5GB, preventing runaway…]]
-- Later: 2026-03-20 · Claude Code · [[Changes/Claude Code/2026-03-20-4-developer-workflow-changes-in-v2-1-81|4 Developer Workflow changes in v2.1.81]]
+- Later: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-9-developer-workflow-changes-in-v0-34-0|9 Developer Workflow changes in v0.34.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

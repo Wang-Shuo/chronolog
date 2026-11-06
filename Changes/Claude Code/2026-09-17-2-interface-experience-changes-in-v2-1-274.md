@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7dde0ba48818900fc7c7ad43d6896fd962b0df8e8317a9d88444ebd644d8eefc
+machine_hash: d1e6158d3814dcaf8b19a3d705b3972b60a6cd35c665682cd5f305243d357a37
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Interface Experience changes in v2.1.274
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-15-claude-code-on-the-web-improved-the-routine-detail-page-menu-and-rename-in-the-b|Claude
-  Code on the web Improved the routine detail page]]'
+- '[[Changes/OpenHands/2026-09-16-2-interface-experience-changes-in-v1-19-0|2 Interface
+  Experience changes in v1.19.0]]'
 - '[[Changes/ChatGPT/2026-09-17-chatgpt-is-now-available-in-microsoft-word-you-can-draft-from-notes-summarize-a-4c7506|ChatGPT
   for Word]]'
 - '[[Changes/Claude Code/2026-09-17-improved-the-artifact-tool-s-publish-and-read-results-they-now-say-who-can-open|Improved
@@ -97,7 +97,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.274
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-improved-the-artifact-tool-s-publish-and-read-results-they-now-say-who-can-open|Improved the Artifact tool's publish and read results]]
-- Later: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-vscode-added-a-sign-out-row-to-the-panel-menu-with-logout-in-the-typed-command-m|VSCode Added a Sign out row to the panel menu, with /logout in the typed command menu]]
+- Later: 2026-09-17 · Cline · [[Changes/Cline/2026-09-17-cline-s-logo-and-icons-have-been-refreshed-throughout-the-extension-including-th|Cline's logo and icons have been refreshed throughout the extension, including…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

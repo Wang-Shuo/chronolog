@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b8800759978bbf0af3bbddabfde4ceb48c5153b5e93596dd1b2e919f64220e38
+machine_hash: 84f6072321bcc3dca79ce3de5ec05860726233c5d18608c7b0eaf5d5303fde5b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,10 +54,10 @@ record:
   title: Credit scores in Finances
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-added-enduser-sub-the-idp-subject-to-the-telemetry-claude-desktop-and-cowork-sen|Added
-  enduser.sub, the IdP subject, to the telemetry Claude Desktop and Cowork…]]'
-- '[[Changes/Claude Code/2026-09-17-improved-the-desktop-error-when-claude-desktop-does-not-open-it-now-says-why-and|Improved
-  the /desktop error when Claude Desktop does not open]]'
+- '[[Changes/Cline/2026-09-17-on-windows-opening-a-repository-that-contains-a-file-named-rg-exe-git-exe-or-pow|On
+  Windows, opening a repository that contains a file named rg.exe, git.exe…]]'
+- '[[Changes/Codex CLI/2026-09-17-2-mobile-and-desktop-changes-in-rust-v0-155-0|2
+  Mobile and Desktop changes in rust-v0.155.0]]'
 - '[[Changes/Claude Code/2026-09-18-claude-code-on-the-web-changed-the-admin-claude-code-setting-labeled-web-to-clou|Claude
   Code on the web Changed the admin Claude Code setting labeled…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-21-credit-scores-in-finances-a66dbae8|chatgpt-2026-09-21-credit-scores-in-finances-a66dbae8]]'
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-claude-code-on-the-web-changed-the-admin-claude-code-setting-labeled-web-to-clou|Claude Code on the web Changed the admin Claude Code setting labeled…]]
-- Later: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-2-mobile-and-desktop-changes-in-v2-1-281|2 Mobile and Desktop changes in v2.1.281]]
+- Later: 2026-09-22 · Cline · [[Changes/Cline/2026-09-22-rules-are-found-and-shown-consistently-the-rules-panel-listed-only-clinerules-an|Rules are found and shown consistently]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

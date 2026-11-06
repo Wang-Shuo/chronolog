@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 15bad81a3c956a1eb2a16f507752b09e467a6aa99283168c4c3620e99dfb1c6d
+machine_hash: baa7e1312e264f6abc8573bf47402cffd910c375801ec21fea34fd288c87dc69
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Changed hook output over 50K characters to be saved to disk with a file path…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-reduced-ui-stutter-when-compaction-triggers-on-large-sessions|Reduced
-  UI stutter when compaction triggers on large sessions]]'
-- '[[Changes/Claude Code/2026-03-26-2-context-window-changes-in-v2-1-84|2 Context
-  Window changes in v2.1.84]]'
+- '[[Changes/Codex CLI/2026-03-26-5-context-window-changes-in-rust-v0-117-0|5 Context
+  Window changes in rust-v0.117.0]]'
 - '[[Changes/Claude Code/2026-03-27-3-context-window-changes-in-v2-1-86|3 Context
   Window changes in v2.1.86]]'
+- '[[Changes/Codex CLI/2026-03-31-16286-auth-generalize-external-auth-tokens-for-bearer-only-sources-bolinfest|♯16286
+  auth: generalize external auth tokens for bearer-only sources @bolinfest]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-89-github-303967782-358023f0|claude-code-2026-04-01-v2-1-89-github-303967782-358023f0]]'
 source_type: github_releases
 theme: context-window
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-3-context-window-changes-in-v2-1-86|3 Context Window changes in v2.1.86]]
-- Later: 2026-04-02 · Claude Code · [[Changes/Claude Code/2026-04-02-2-context-window-changes-in-v2-1-91|2 Context Window changes in v2.1.91]]
+- Earlier: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-16286-auth-generalize-external-auth-tokens-for-bearer-only-sources-bolinfest|♯16286 auth: generalize external auth tokens for bearer-only sources @bolinfest]]
+- Later: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-feat-core-cap-jit-context-upward-traversal-at-git-root-by-sandytao520-in-https-g|feat(core): cap JIT context upward traversal at git root]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

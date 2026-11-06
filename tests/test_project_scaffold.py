@@ -18,6 +18,7 @@ def test_project_configs_and_fixture_are_present():
         "blog_rss",
         "chatgpt_changelog",
         "cursor_changelog",
+        "windsurf_changelog",
     }
     assert {"agent-mode", "context-window", "pricing-model"} <= {
         theme["slug"] for theme in themes["themes"]

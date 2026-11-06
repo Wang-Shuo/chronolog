@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 31660dd7eaa6f19bd0eba8704d2c3c5946228ef691c12afb871191623d6ff7e5
+machine_hash: b0dc42b252e019edf44c9ee65f49db6146618d22423e19b23de6390f8baeb6ff
 product: cursor
 product_name: Cursor
 record:
@@ -46,10 +46,10 @@ record:
   title: Install the integration from Cursor integrations
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-plugin-discover-and-browse-screens-now-show-a-plugin-s-commands-agents-skills-ho|/plugin
-  Discover and Browse screens now show a plugin''s commands, agents, skills…]]'
 - '[[Changes/Claude Code/2026-05-19-3-apps-and-integrations-changes-in-v2-1-144|3
   Apps and Integrations changes in v2.1.144]]'
+- '[[Changes/Cline/2026-05-19-disable-the-mcp-restart-server-button-when-a-server-is-toggled-off|Disable
+  the MCP "Restart Server" button when a server is toggled off]]'
 - '[[Changes/Cursor/2026-05-19-cursor-is-now-available-in-jira|Cursor is now available
   in Jira]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-19-cursor-in-jira-https-cursor-com-changelog-05-19-26-4a0261e4|cursor-2026-05-19-cursor-in-jira-https-cursor-com-changelog-05-19-26-4a0261e4]]'
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-3-apps-and-integrations-changes-in-v2-1-144|3 Apps and Integrations changes in v2.1.144]]
-- Later: 2026-05-22 · Claude Code · [[Changes/Claude Code/2026-05-22-2-apps-and-integrations-changes-in-v2-1-149|2 Apps and Integrations changes in v2.1.149]]
+- Earlier: 2026-05-19 · Cline · [[Changes/Cline/2026-05-19-disable-the-mcp-restart-server-button-when-a-server-is-toggled-off|Disable the MCP "Restart Server" button when a server is toggled off]]
+- Later: 2026-05-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-19-9-apps-and-integrations-changes-in-v1-0-49|9 Apps and Integrations changes in v1.0.49]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

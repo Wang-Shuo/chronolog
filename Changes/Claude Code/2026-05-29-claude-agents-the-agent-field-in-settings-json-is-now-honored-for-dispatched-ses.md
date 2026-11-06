@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 5c82007dc9346744bf213a37b60e3cb263272361b7ad210235e74a8591844c1f
+machine_hash: f80f832994f66a220a9aad5bfdd756c970eaee3d1dd8fddb0bfdb3ec849e460d
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     dispatched…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-28-4-agent-mode-changes-in-v2-1-154|4 Agent Mode
-  changes in v2.1.154]]'
-- '[[Changes/Claude Code/2026-05-28-3-agent-mode-changes-in-v2-1-153|3 Agent Mode
-  changes in v2.1.153]]'
 - '[[Changes/Claude Code/2026-05-28-introducing-dynamic-workflows-ask-claude-to-create-a-workflow-and-it-orchestrate|Introducing
   dynamic workflows]]'
+- '[[Changes/Codex CLI/2026-05-28-24714-fix-auto-review-skip-legacy-notify-for-auto-review-threads-dylan-hurd-oai|♯24714
+  fix(auto-review) skip legacy notify for auto review threads @dylan-hurd-oai]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-28-3-agent-mode-changes-in-v1-0-55|3 Agent
+  Mode changes in v1.0.55]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8|claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8]]'
 source_type: github_releases
 theme: agent-mode
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-introducing-dynamic-workflows-ask-claude-to-create-a-workflow-and-it-orchestrate|Introducing dynamic workflows]]
+- Earlier: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-3-agent-mode-changes-in-v1-0-55|3 Agent Mode changes in v1.0.55]]
 - Later: 2026-05-29 · Cursor · [[Changes/Cursor/2026-05-29-auto-review-is-a-new-run-mode-that-allows-cursor-to-work-for-longer-with-fewer-a-61df08|Auto-review Run Mode]]
 <!-- chronolog:end -->
 

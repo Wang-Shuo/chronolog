@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8e9f29e1ffbfdf38739465a77a52081853c17bc189e4660a4beb26dfc8b5844d
+machine_hash: 53f7181a0ae919e5ca2fecd7b1a12375eae8619a4e3a0bd6dea358fd4f1726a4
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: Improved heredoc delimiter parsing to prevent command smuggling
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-03-2-developer-workflow-changes-in-v2-1-30|2 Developer
-  Workflow changes in v2.1.30]]'
-- '[[Changes/Claude Code/2026-02-03-added-debug-for-claude-to-help-troubleshoot-the-current-session|Added
-  /debug for Claude to help troubleshoot the current session]]'
-- '[[Changes/Claude Code/2026-02-04-reduced-layout-jitter-in-the-terminal-when-the-spinner-appears-and-disappears-du|Reduced
-  layout jitter in the terminal when the spinner appears and disappears during…]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-05-2-developer-workflow-changes-in-v0-0-404|2
+  Developer Workflow changes in v0.0.404]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-05-plugins-can-bundle-lsp-server-configurations|Plugins
+  can bundle LSP server configurations]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-07-add-changelog-command-to-view-release-notes|Add
+  /changelog command to view release notes]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-10-v2-1-38-github-284624259-26f7a748|claude-code-2026-02-10-v2-1-38-github-284624259-26f7a748]]'
 source_type: github_releases
 theme: developer-workflow
@@ -76,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-04 · Claude Code · [[Changes/Claude Code/2026-02-04-reduced-layout-jitter-in-the-terminal-when-the-spinner-appears-and-disappears-du|Reduced layout jitter in the terminal when the spinner appears and disappears during…]]
-- Later: 2026-02-17 · Cursor · [[Changes/Cursor/2026-02-17-removed-auto-accept-on-commit-setting-so-pending-diffs-are-automatically-accepte|Removed Auto-Accept on Commit setting so pending diffs are automatically accepted…]]
+- Earlier: 2026-02-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-07-add-changelog-command-to-view-release-notes|Add /changelog command to view release notes]]
+- Later: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-6-developer-workflow-changes-in-v0-28-0|6 Developer Workflow changes in v0.28.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

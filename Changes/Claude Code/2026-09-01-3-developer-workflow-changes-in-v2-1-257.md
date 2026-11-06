@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 804899ec1aa590ccfd4002183f1ad0838dc8fddf6f40a87e1b7b73572590de3e
+machine_hash: ef7bef0e3a8a487463a75fa79202f47e32af6b497f76e89f3ef10695834804f5
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.257
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-26-changed-terminal-hyperlinks-in-rendered-markdown-link-targets-that-point-at-a-ne|Changed
-  terminal hyperlinks in rendered markdown]]'
-- '[[Changes/Claude Code/2026-08-27-changed-anthropic-telemetry-export-failures-to-log-at-debug-level-as-anthropic-t|Changed
-  Anthropic telemetry export failures to log at debug level…]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-27-5-developer-workflow-changes-in-v1-0-81|5
+  Developer Workflow changes in v1.0.81]]'
 - '[[Changes/Claude Code/2026-08-28-3-developer-workflow-changes-in-v2-1-251|3 Developer
   Workflow changes in v2.1.251]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-29-a-message-typed-while-worktree-or-move-is-preparing-the-worktree-no-longer-break|A
+  message typed while /worktree or /move is preparing the worktree no longer breaks…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6|claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6]]'
 source_type: github_releases
 theme: developer-workflow
@@ -99,8 +99,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.257
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-3-developer-workflow-changes-in-v2-1-251|3 Developer Workflow changes in v2.1.251]]
-- Later: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-improved-terminal-resize-and-first-render-performance-for-long-responses-by-reus|Improved terminal resize and first-render performance for long responses by reusing…]]
+- Earlier: 2026-08-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-29-a-message-typed-while-worktree-or-move-is-preparing-the-worktree-no-longer-break|A message typed while /worktree or /move is preparing the worktree no longer breaks…]]
+- Later: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-6-developer-workflow-changes-in-rust-v0-152-0|6 Developer Workflow changes in rust-v0.152.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

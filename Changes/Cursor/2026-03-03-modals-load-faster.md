@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 22db5128babf57cdef9ebde435a49977ea8e4657c3ca1a9cde44bf9d64639cd7
+machine_hash: 59f1e606dc799669ffa375c88c6314e431eaefdee8491326eaecb2ac885f264c
 product: cursor
 product_name: Cursor
 record:
@@ -39,8 +39,8 @@ record:
   title: Modals load faster
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-26-improved-memory-usage-in-multi-agent-sessions-by-releasing-completed-subagent-ta|Improved
-  memory usage in multi-agent sessions by releasing completed subagent task state]]'
+- '[[Changes/Codex CLI/2026-02-26-2-reliability-and-performance-changes-in-rust-v0-106-0|2
+  Reliability and Performance changes in rust-v0.106.0]]'
 - '[[Changes/ChatGPT/2026-02-27-faster-sharing-sharing-chats-is-now-easier-and-faster-with-a-quicker-loading-sha|Faster
   sharing. Sharing chats is now easier and faster, with a quicker-loading share menu]]'
 - '[[Changes/Claude Code/2026-02-28-improved-memory-usage-in-long-sessions-with-subagents-by-stripping-heavy-progres|Improved

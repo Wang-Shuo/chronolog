@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 76c0bf93034c88aa3960ec6d27f33b48c70621e1af6d49bd475f1e90e239198c
+machine_hash: c0d1e07288e697d55bcd2d4fa05a424d1d009558712d943cd35797999242550d
 product: cursor
 product_name: Cursor
 record:
@@ -51,12 +51,12 @@ record:
   title: Faster Cursor Tab Suggestions!
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-05-03-update-0-33-1-0-33-3-fix-to-settings-toggles-fix-to-copilot-diffbox-performance|UPDATE
-  (0.33.1–0.33.3): Fix to settings toggles, fix to Copilot++ diffbox…]]'
-- '[[Changes/Cursor/2024-05-03-stability-this-build-fixes-a-connection-error-problem-that-was-consistently-affe|Stability:
-  This build fixes a connection error problem that was consistently…]]'
 - '[[Changes/Cursor/2024-07-23-copilot-now-has-chunked-streaming-currently-in-beta-it-will-surface-edits-faster|Copilot++
   now has chunked streaming (currently in Beta)!]]'
+- '[[Changes/Aider/2024-07-31-improved-performance-of-lint-on-all-dirty-files-in-repo|Improved
+  performance of --lint on all dirty files in repo]]'
+- '[[Changes/OpenHands/2024-08-01-runtime-reduce-dependency-to-speed-up-ci-and-reduce-image-size-by-xingyaoww-in-h|Runtime
+  Reduce dependency to speed up CI and reduce image size]]'
 source_release: '[[Releases/Cursor/cursor-2024-08-02-0-39-x-https-cursor-com-changelog-0-39-x-db22c405|cursor-2024-08-02-0-39-x-https-cursor-com-changelog-0-39-x-db22c405]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-07-23 · Cursor · [[Changes/Cursor/2024-07-23-copilot-now-has-chunked-streaming-currently-in-beta-it-will-surface-edits-faster|Copilot++ now has chunked streaming (currently in Beta)!]]
-- Later: 2024-09-17 · Cursor · [[Changes/Cursor/2024-09-17-cursor-tab-now-auto-imports-symbols-in-python-files-we-ve-also-significantly-imp|Cursor Tab now auto-imports symbols in Python files!]]
+- Earlier: 2024-08-01 · OpenHands · [[Changes/OpenHands/2024-08-01-runtime-reduce-dependency-to-speed-up-ci-and-reduce-image-size-by-xingyaoww-in-h|Runtime Reduce dependency to speed up CI and reduce image size]]
+- Later: 2024-08-06 · Aider · [[Changes/Aider/2024-08-06-2-reliability-and-performance-changes-in-v0-48-0|2 Reliability and Performance changes in v0.48.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

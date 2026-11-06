@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 4e9193e8ea24ffe3c3c31079f38d9bdfa4aa8f797890b121d79b56444e009bdf
+machine_hash: 01580cc37846bd0995079706a3ba1b4ed6dfd44e10fea29a5d0df9de0fa4131a
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,11 @@ record:
   title: New models
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-27-gpt-4o-has-further-improved-its-capability-to-tackle-complex-technical-and-codin|Smarter
-  problem-solving in STEM and coding]]'
-- '[[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|Enhanced
-  instruction-following and formatting accuracy]]'
-- '[[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Sunsetting
-  GPT‑4 in ChatGPT]]'
+- '[[Changes/Windsurf/2025-04-14-gpt-4-1-available|GPT 4.1 Available]]'
+- '[[Changes/Windsurf/2025-04-14-new-gpt-4-1-model-available-and-free-limited-time|New
+  GPT 4.1 Model available and Free (Limited Time)]]'
+- '[[Changes/Cline/2025-04-15-new-model-update-by-0xtoshii-in-https-github-com-cline-cline-pull-2892|NEW
+  model update]]'
 source_release: '[[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f]]'
 source_type: cursor_changelog
 theme: model-support
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-04-10 · ChatGPT · [[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Sunsetting GPT‑4 in ChatGPT]]
+- Earlier: 2025-04-15 · Cline · [[Changes/Cline/2025-04-15-new-model-update-by-0xtoshii-in-https-github-com-cline-cline-pull-2892|NEW model update]]
 - Later: 2025-04-16 · ChatGPT · [[Changes/ChatGPT/2025-04-16-today-we-re-releasing-openai-o3-and-o4-mini-the-latest-in-our-o-series-of-models|o3 and o4-mini in ChatGPT]]
 <!-- chronolog:end -->
 

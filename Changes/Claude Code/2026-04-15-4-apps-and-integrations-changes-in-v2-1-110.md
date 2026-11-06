@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e5e6a523c757cfb222c0d6084a96a4edb3d672a76a2beed82199689f3d71706e
+machine_hash: 58112fd48caff916f05be71e4d57f64af2a127e1c11b528344913837a3a02377
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
   title: 4 Apps and Integrations changes in v2.1.110
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-09-2-apps-and-integrations-changes-in-v2-1-98|2 Apps
-  and Integrations changes in v2.1.98]]'
-- '[[Changes/Claude Code/2026-04-10-4-apps-and-integrations-changes-in-v2-1-101|4
-  Apps and Integrations changes in v2.1.101]]'
-- '[[Changes/Claude Code/2026-04-13-3-apps-and-integrations-changes-in-v2-1-105|3
-  Apps and Integrations changes in v2.1.105]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-13-you-can-now-remote-control-your-cli-sessions-using-remote-or-remote|Remote
+  control your CLI sessions using --remote or /remote]]'
+- '[[Changes/Gemini CLI/2026-04-14-2-apps-and-integrations-changes-in-v0-38-0|2 Apps
+  and Integrations changes in v0.38.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-14-4-apps-and-integrations-changes-in-v1-0-26|4
+  Apps and Integrations changes in v1.0.26]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59|claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59]]'
 source_type: github_releases
 theme: apps-integrations
@@ -101,8 +101,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.110
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-13 · Claude Code · [[Changes/Claude Code/2026-04-13-3-apps-and-integrations-changes-in-v2-1-105|3 Apps and Integrations changes in v2.1.105]]
-- Later: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-2-apps-and-integrations-changes-in-v2-1-111|2 Apps and Integrations changes in v2.1.111]]
+- Earlier: 2026-04-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-14-4-apps-and-integrations-changes-in-v1-0-26|4 Apps and Integrations changes in v1.0.26]]
+- Later: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-9-apps-and-integrations-changes-in-rust-v0-121-0|9 Apps and Integrations changes in rust-v0.121.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: caf23703ac852c770acd6a9c54e4e34b34c0fc95de9530a954d38eaac108709a
+machine_hash: aebe469330cb32d328c79df2db2f651e79f54f6b0346ad783f68a2779aa05200
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
   title: /models removed. Use /model to see all models or select a model
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-08-use-the-new-agent-models-command-list-models-flag-or-models-slash-command-to-lis|Model
-  list and selection]]'
-- '[[Changes/Claude Code/2026-01-09-merged-slash-commands-and-skills-simplifying-the-mental-model-with-no-change-in|Merged
-  slash commands and skills, simplifying the mental model with no change in behavior]]'
+- '[[Changes/Codex CLI/2026-01-15-2-model-support-changes-in-rust-v0-85-0|2 Model
+  Support changes in rust-v0.85.0]]'
 - '[[Changes/Claude Code/2026-01-16-added-support-for-pretooluse-hooks-to-return-additionalcontext-to-the-model|Added
   support for PreToolUse hooks to return additionalContext to the model]]'
+- '[[Changes/Codex CLI/2026-01-16-9336-rename-model-turn-to-sampling-request-aibrahim-oai|♯9336
+  rename model turn to sampling request @aibrahim-oai]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5|cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5]]'
 source_type: cursor_changelog
 theme: model-support
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-16 · Claude Code · [[Changes/Claude Code/2026-01-16-added-support-for-pretooluse-hooks-to-return-additionalcontext-to-the-model|Added support for PreToolUse hooks to return additionalContext to the model]]
-- Later: 2026-01-20 · ChatGPT · [[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|Rolling out age prediction]]
+- Earlier: 2026-01-16 · Codex CLI · [[Changes/Codex CLI/2026-01-16-9336-rename-model-turn-to-sampling-request-aibrahim-oai|♯9336 rename model turn to sampling request @aibrahim-oai]]
+- Later: 2026-01-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-16-3-model-support-changes-in-v0-0-384|3 Model Support changes in v0.0.384]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: e7378250ce7dde61244e25a798ae8f00f15635232547d3f1a612053eac76df0e
+machine_hash: 86a9191740515a613c3c1f0a20ea9aeebaa921a46641d4c67a555820d22ac84d
 product: cursor
 product_name: Cursor
 record:
@@ -56,12 +56,12 @@ record:
   title: Context Usage Breakdown
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-14-2-context-window-changes-in-v2-1-108|2 Context
-  Window changes in v2.1.108]]'
-- '[[Changes/Claude Code/2026-04-15-added-option-to-show-claude-s-last-response-as-commented-context-in-the-ctrl-g-e|Added
-  option to show Claude''s last response as commented context in the Ctrl+G…]]'
-- '[[Changes/Claude Code/2026-04-28-vscode-context-now-opens-a-native-token-usage-dialog|VSCode
-  /context now opens a native token usage dialog]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-28-add-compact-context-usage-and-env-slash-commands-for-acp-sessions|Add
+  /compact, /context, /usage, and /env slash commands for ACP sessions]]'
+- '[[Changes/Codex CLI/2026-04-30-19805-add-multiagentv2-root-and-subagent-context-hints-jif-oai|♯19805
+  Add MultiAgentV2 root and subagent context hints @jif-oai]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-01-remote-session-statusline-shows-the-remote-working-directory-and-branch-instead|Remote
+  session statusline shows the remote working directory and branch instead…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-06-3-3-https-cursor-com-changelog-05-06-26-2cf56c40|cursor-2026-05-06-3-3-https-cursor-com-changelog-05-06-26-2cf56c40]]'
 source_type: cursor_changelog
 theme: context-window
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-vscode-context-now-opens-a-native-token-usage-dialog|VSCode /context now opens a native token usage dialog]]
-- Later: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-context-all-per-skill-token-estimates-now-account-for-the-model-s-tokenizer-and|/context all per-skill token estimates now account for the model's tokenizer…]]
+- Earlier: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-remote-session-statusline-shows-the-remote-working-directory-and-branch-instead|Remote session statusline shows the remote working directory and branch instead…]]
+- Later: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-7-context-window-changes-in-rust-v0-129-0|7 Context Window changes in rust-v0.129.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

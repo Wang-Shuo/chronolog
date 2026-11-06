@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3a1dceb730b6cd9c89ea61cd60d753b2ab962052fa3c124a62b878582f31399d
+machine_hash: ec3286a7766a049227605ec5a88ba06f28877dab161701e6d9a3614473fe6aaa
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,12 @@ record:
     20MB)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-01-15-edit-a-code-block-in-canvas|Edit a code block in Canvas]]'
-- '[[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or-2f5aff|Canvas
-  sharing]]'
-- '[[Changes/ChatGPT/2025-06-24-projects-can-now-support-40-uploaded-files-up-from-20-for-pro-users|Project
-  file limit increased (Pro)]]'
+- '[[Changes/Codex CLI/2026-01-09-app-server-readme-now-documents-skills-support-and-usage-8853|App-server
+  README now documents skills support and usage]]'
+- '[[Changes/Codex CLI/2026-01-14-9020-fix-tui-document-paste-burst-state-machine-joshka-oai|♯9020
+  fix(tui): document paste-burst state machine @joshka-oai]]'
+- '[[Changes/Codex CLI/2026-01-31-10191-chore-app-server-document-authmode-owenlin0|♯10191
+  chore(app-server): document AuthMode @owenlin0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1|claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1]]'
 source_type: github_releases
 theme: file-data
@@ -83,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-06-24 · ChatGPT · [[Changes/ChatGPT/2025-06-24-projects-can-now-support-40-uploaded-files-up-from-20-for-pro-users|Project file limit increased (Pro)]]
-- Later: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-expanded-file-type-support-we-now-support-additional-text-and-code-file-formats|Expanded file type support]]
+- Earlier: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-10191-chore-app-server-document-authmode-owenlin0|♯10191 chore(app-server): document AuthMode @owenlin0]]
+- Later: 2026-02-05 · Codex CLI · [[Changes/Codex CLI/2026-02-05-10667-chore-app-server-document-experimental-api-opt-in-owenlin0|♯10667 chore(app-server): document experimental API opt-in @owenlin0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

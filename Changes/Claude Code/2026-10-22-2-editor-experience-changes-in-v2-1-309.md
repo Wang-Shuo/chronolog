@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3c85f3d01de7de3218b45990855767f4b0e3d7cd3446c6f4027f0d8311a5722a
+machine_hash: f33c8f654c45459dbf353759cbc572d3ae5c24b7fc0518242f23e257f8b31880
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Editor Experience changes in v2.1.309
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-2-editor-experience-changes-in-v2-1-299|2 Editor
-  Experience changes in v2.1.299]]'
-- '[[Changes/ChatGPT/2026-10-16-create-and-refine-edit-text-images-shapes-and-charts-directly-or-ask-chatgpt-to|Create
-  and refine]]'
-- '[[Changes/ChatGPT/2026-10-16-work-together-invite-teammates-to-edit-the-same-deck-in-real-time-and-leave-shar|Work
-  together]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-19-keep-saved-diff-review-comments-when-reopening-an-unchanged-diff-in-the-same-ses|Keep
+  saved /diff review comments when reopening an unchanged diff in the same…]]'
+- '[[Changes/OpenHands/2026-10-19-refactor-theme-use-status-classes-for-icons-and-diff-counts-by-enyst-in-https-gi|refactor(theme):
+  use status classes for icons and diff counts]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-21-fish-shell-completion-works-when-aliases-include-option-aliases-like-effort|Fish
+  shell completion works when aliases include option aliases like --effort]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99|claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99]]'
 source_type: github_releases
 theme: editor-experience
@@ -91,8 +91,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.309
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-work-together-invite-teammates-to-edit-the-same-deck-in-real-time-and-leave-shar|Work together]]
-- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-cloud-sessions-changed-the-cloud-environment-dialog-to-open-network-access-setup|Cloud sessions Changed the cloud environment dialog to open network access, setup…]]
+- Earlier: 2026-10-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-21-fish-shell-completion-works-when-aliases-include-option-aliases-like-effort|Fish shell completion works when aliases include option aliases like --effort]]
+- Later: 2026-10-22 · OpenHands · [[Changes/OpenHands/2026-10-22-refactor-diff-express-the-markdown-preview-cap-in-css-by-enyst-in-https-github-c|refactor(diff): express the Markdown preview cap in CSS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

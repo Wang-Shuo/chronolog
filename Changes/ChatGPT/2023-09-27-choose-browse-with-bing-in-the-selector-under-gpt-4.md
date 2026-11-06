@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ce6c50f65b27813233cb7cd94c1eb1bedbf942ed409c5c24c19290b996936853
+machine_hash: 544419606ca05d113f4e79ca88491c18f5b4e8978cdd9833383bc74bf2d195e8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,11 +51,12 @@ record:
   title: Choose Browse with Bing in the selector under GPT-4
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-07-19-we-re-doubling-the-number-of-messages-chatgpt-plus-customers-can-send-with-gpt-4|Higher
-  message limits for GPT-4]]'
-- '[[Changes/Cursor/2023-07-28-long-ai-completions-8c21b2|Long AI completions]]'
 - '[[Changes/ChatGPT/2023-08-03-we-re-rolling-out-a-bunch-of-small-updates-to-improve-the-chatgpt-experience-shi|Updates
   to ChatGPT]]'
+- '[[Changes/Aider/2023-08-08-defend-against-gpt-3-5-or-non-openai-models-suggesting-filenames-surrounded-by-a|Defend
+  against GPT-3.5 or non-OpenAI models suggesting filenames surrounded by asterisks]]'
+- '[[Changes/Aider/2023-08-11-2-model-support-changes-in-v0-12-0|2 Model Support changes
+  in v0.12.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-09-27-browsing-is-rolling-back-out-to-plus-users-73e98403|chatgpt-2023-09-27-browsing-is-rolling-back-out-to-plus-users-73e98403]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -84,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-08-03 · ChatGPT · [[Changes/ChatGPT/2023-08-03-we-re-rolling-out-a-bunch-of-small-updates-to-improve-the-chatgpt-experience-shi|Updates to ChatGPT]]
-- Later: 2023-10-01 · Cursor · [[Changes/Cursor/2023-10-01-use-edit-in-the-chat-to-edit-a-whole-file-if-less-than-400-lines-expect-the-edit-78e4ac|Use /edit in the chat to edit a whole file (if less than 400 lines)]]
+- Earlier: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-2-model-support-changes-in-v0-12-0|2 Model Support changes in v0.12.0]]
+- Later: 2023-09-30 · Aider · [[Changes/Aider/2023-09-30-show-models-supported-by-api-key-if-requested-model-isn-t-available|Show models supported by api/key if requested model isn't available]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

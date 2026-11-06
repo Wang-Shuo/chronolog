@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ef4dd55b6d9f6030ca1a132a02e781bab0669930c3f7bf3826c6715c64361759
+machine_hash: 861c36fd1da7c05a6f7507e25aa6b865359be59dbea5eb77da4d50a5440a9e14
 product: cursor
 product_name: Cursor
 record:
@@ -44,10 +44,10 @@ record:
   title: Cursor for iPad is now available on all paid plans
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-16-we-ve-updated-the-chatgpt-desktop-app-to-make-it-easier-to-choose-between-chat-a|ChatGPT
-  updates the ChatGPT desktop app to make it easier to choose between Chat…]]'
-- '[[Changes/ChatGPT/2026-07-16-continue-work-across-devices-cloud-work-conversations-now-sync-across-web-mobile|Continue
-  Work across devices]]'
+- '[[Changes/Codex CLI/2026-07-21-3-mobile-and-desktop-changes-in-rust-v0-145-0|3
+  Mobile and Desktop changes in rust-v0.145.0]]'
+- '[[Changes/Codex CLI/2026-07-29-2-mobile-and-desktop-changes-in-rust-v0-146-0|2
+  Mobile and Desktop changes in rust-v0.146.0]]'
 - '[[Changes/Cursor/2026-07-29-built-for-the-bigger-screen-98bf7a|Built for the bigger
   screen]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c|cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c]]'
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-16 · ChatGPT · [[Changes/ChatGPT/2026-07-16-continue-work-across-devices-cloud-work-conversations-now-sync-across-web-mobile|Continue Work across devices]]
-- Later: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-3-mobile-and-desktop-changes-in-v2-1-224|3 Mobile and Desktop changes in v2.1.224]]
+- Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-2-mobile-and-desktop-changes-in-rust-v0-146-0|2 Mobile and Desktop changes in rust-v0.146.0]]
+- Later: 2026-07-29 · Windsurf · [[Changes/Windsurf/2026-07-29-devin-desktop|Devin Desktop]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

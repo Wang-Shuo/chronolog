@@ -4,20 +4,20 @@ date: '2025-12-11'
 description: 'ChatGPT · 2025-12-11 · Voice and Audio: We’re retiring the Voice experience
   in the ChatGPT macOS app on January 15, 2026. This change allows us to focus on…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
-    (Beta) is now rolling out to Plus users on iOS and Android]]'
+  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
+    link) support, which allows you…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 808
+  lag_days: 853
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: d45bb6aec68556eb0156f95c5735a8da0df0ca0a08e7af2536aae36e73557a9e
+machine_hash: 74891089e62d0931cf0d09510f364f12264eccefb39d56709223d9e71143eff3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,9 +46,9 @@ record:
     2026
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-29-turn-off-voice-mode-to-remove-the-option-to-use-voice-mode-in-chatgpt|Turn
-  off voice mode, to remove the option to use voice mode in ChatGPT]]'
 - '[[Changes/Cursor/2025-10-29-voice-mode|Voice Mode]]'
+- '[[Changes/Cline/2025-11-13-2-voice-and-audio-changes-in-v3-37-0|2 Voice and Audio
+  changes in v3.37.0]]'
 - '[[Changes/ChatGPT/2025-11-25-we-re-making-chatgpt-voice-a-seamless-part-of-the-chatgpt-experience-so-you-can-2bc316|We’re
   making ChatGPT Voice a seamless part of the ChatGPT experience, so you can use…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-11-voice-on-macos-desktop-app-is-retiring-effective-january-15-2026-189e8580|chatgpt-2025-12-11-voice-on-macos-desktop-app-is-retiring-effective-january-15-2026-189e8580]]'
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
+- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

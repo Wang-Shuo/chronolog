@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cc5544734f5a699fc46bab88d5b8f6cf6c7964838faa81f629a1c5f674184538
+machine_hash: 32d09be998bab5b029418c95b0dcbcb60f4a1cc99446e0d655f05c6d6791a80d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,12 +51,12 @@ record:
   title: Updated Box, Notion, Linear, and Dropbox apps
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-25-6-apps-and-integrations-changes-in-v2-1-83|6 Apps
-  and Integrations changes in v2.1.83]]'
-- '[[Changes/Claude Code/2026-03-26-5-apps-and-integrations-changes-in-v2-1-84|5 Apps
-  and Integrations changes in v2.1.84]]'
-- '[[Changes/Claude Code/2026-03-26-4-apps-and-integrations-changes-in-v2-1-85|4 Apps
-  and Integrations changes in v2.1.85]]'
+- '[[Changes/Codex CLI/2026-03-26-the-app-server-backed-tui-is-now-enabled-by-default-and-the-plugin-app-rollout-f|The
+  app-server-backed TUI is now enabled by default, and the plugin/app rollout…]]'
+- '[[Changes/Codex CLI/2026-03-26-57-apps-and-integrations-changes-in-rust-v0-117-0|57
+  Apps and Integrations changes in rust-v0.117.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-26-4-apps-and-integrations-changes-in-v1-0-12|4
+  Apps and Integrations changes in v1.0.12]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-27-updated-box-notion-linear-and-dropbox-apps-c362d055|chatgpt-2026-03-27-updated-box-notion-linear-and-dropbox-apps-c362d055]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-4-apps-and-integrations-changes-in-v2-1-85|4 Apps and Integrations changes in v2.1.85]]
+- Earlier: 2026-03-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-26-4-apps-and-integrations-changes-in-v1-0-12|4 Apps and Integrations changes in v1.0.12]]
 - Later: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-reduced-startup-event-loop-stalls-when-many-claude-ai-mcp-connectors-are-configu|Reduced startup event-loop stalls when many claude.ai MCP connectors are configured…]]
 <!-- chronolog:end -->
 

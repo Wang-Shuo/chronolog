@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 634a67b6ea2133e0e38db88ce18a8d045974ed7f4490ec170c0e8398749a2d45
+machine_hash: d83a16da4077ccf72ebda516a7cde296afe6ae9d87788a158faeb5663effde16
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,10 +60,10 @@ record:
   title: Work with interactive plugin extensions
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-25-14-apps-and-integrations-changes-in-v2-1-283|14
-  Apps and Integrations changes in v2.1.283]]'
-- '[[Changes/Claude Code/2026-09-28-8-apps-and-integrations-changes-in-v2-1-284|8
-  Apps and Integrations changes in v2.1.284]]'
+- '[[Changes/Codex CLI/2026-09-28-13-apps-and-integrations-changes-in-rust-v0-158-0|13
+  Apps and Integrations changes in rust-v0.158.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-28-4-apps-and-integrations-changes-in-v1-0-89|4
+  Apps and Integrations changes in v1.0.89]]'
 - '[[Changes/ChatGPT/2026-09-29-this-is-a-limited-preview-with-participating-integrations-using-purchased-credit|This
   is a limited preview with participating integrations]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-work-with-interactive-plugin-extensions-8f979183|chatgpt-2026-09-29-work-with-interactive-plugin-extensions-8f979183]]'

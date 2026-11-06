@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a453566756a6007ac5316400520abad0f0a48946671cd50dcff908bc180dad0e
+machine_hash: 8e5acafaee818d06001a94136bb3a88f4b91d9c8aaf9beeecb30149cd19bb759
 product: cursor
 product_name: Cursor
 record:
@@ -54,12 +54,12 @@ record:
   title: New Plugins on the Cursor Marketplace
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-06-reduced-remote-control-poll-rate-to-once-per-10-minutes-while-connected-was-1-2s|Reduced
-  Remote Control /poll rate to once per 10 minutes while connected…]]'
-- '[[Changes/Claude Code/2026-03-07-3-apps-and-integrations-changes-in-v2-1-71|3 Apps
-  and Integrations changes in v2.1.71]]'
 - '[[Changes/Claude Code/2026-03-10-3-apps-and-integrations-changes-in-v2-1-72|3 Apps
   and Integrations changes in v2.1.72]]'
+- '[[Changes/Codex CLI/2026-03-10-11-apps-and-integrations-changes-in-rust-v0-113-0|11
+  Apps and Integrations changes in rust-v0.113.0]]'
+- '[[Changes/Codex CLI/2026-03-11-8-apps-and-integrations-changes-in-rust-v0-114-0|8
+  Apps and Integrations changes in rust-v0.114.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-11-new-plugins-on-the-cursor-marketplace-https-cursor-com-changelog-f5d077c3|cursor-2026-03-11-new-plugins-on-the-cursor-marketplace-https-cursor-com-changelog-f5d077c3]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-3-apps-and-integrations-changes-in-v2-1-72|3 Apps and Integrations changes in v2.1.72]]
-- Later: 2026-03-12 · Claude Code · [[Changes/Claude Code/2026-03-12-changed-plugin-dir-so-local-dev-copies-now-override-installed-marketplace-plugin|Changed --plugin-dir so local dev copies now override installed marketplace…]]
+- Earlier: 2026-03-11 · Codex CLI · [[Changes/Codex CLI/2026-03-11-8-apps-and-integrations-changes-in-rust-v0-114-0|8 Apps and Integrations changes in rust-v0.114.0]]
+- Later: 2026-03-11 · Gemini CLI · [[Changes/Gemini CLI/2026-03-11-4-apps-and-integrations-changes-in-v0-33-0|4 Apps and Integrations changes in v0.33.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 30964bf3083977e169eb04ce5dd3e8358daeb0ed1d17d001954e08524db4c64d
+machine_hash: 9d040462dcaf443b1ec1a20b669226b4f121613a18d0c16d0d639d49ce1a8a80
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     used…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-08-3-developer-workflow-changes-in-new-cli-features-and-improved-cli|3
-  Developer Workflow changes in New CLI Features and Improved CLI…]]'
 - '[[Changes/Claude Code/2026-01-09-improved-slash-command-suggestion-readability-by-truncating-long-descriptions-to|Improved
   slash command suggestion readability by truncating long descriptions to 2 lines]]'
 - '[[Changes/Claude Code/2026-01-09-4-developer-workflow-changes-in-v2-1-2|4 Developer
   Workflow changes in v2.1.2]]'
+- '[[Changes/Codex CLI/2026-01-09-4-developer-workflow-changes-in-rust-v0-80-0|4 Developer
+  Workflow changes in rust-v0.80.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-12-v2-1-5-github-276118083-94c73a96|claude-code-2026-01-12-v2-1-5-github-276118083-94c73a96]]'
 source_type: github_releases
 theme: developer-workflow
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-4-developer-workflow-changes-in-v2-1-2|4 Developer Workflow changes in v2.1.2]]
+- Earlier: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-4-developer-workflow-changes-in-rust-v0-80-0|4 Developer Workflow changes in rust-v0.80.0]]
 - Later: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-3-developer-workflow-changes-in-v2-1-6|3 Developer Workflow changes in v2.1.6]]
 <!-- chronolog:end -->
 

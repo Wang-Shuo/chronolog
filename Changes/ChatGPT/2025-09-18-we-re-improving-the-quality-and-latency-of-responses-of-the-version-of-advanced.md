@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 299cc018143ecf7d9fb1faead2aa280b1dcf50a13fe09ded9003471c12b701c4
+machine_hash: 5a9eca86298fc22d819929272114641467f3f26ba165930261b1b2df756ce77b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,12 +56,12 @@ record:
   title: Voice Updates
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-21-2-model-support-changes-in-1-5|2 Model Support changes
-  in 1.5]]'
-- '[[Changes/ChatGPT/2025-09-16-factuality-fewer-hallucinations-improving-answer-quality|Factuality:
-  Fewer hallucinations, improving answer quality]]'
-- '[[Changes/ChatGPT/2025-09-17-5-model-support-changes-in-toggle-thinking-time-in-the-message|5
-  Model Support changes in Toggle thinking time in the message…]]'
+- '[[Changes/Cline/2025-09-17-updated-baseten-provider-to-fetch-models-from-server|Updated
+  Baseten provider to fetch models from server]]'
+- '[[Changes/Codex CLI/2025-09-17-3680-update-azure-model-provider-example-3680|♯3680
+  Update azure model provider example (♯3680)]]'
+- '[[Changes/Gemini CLI/2025-09-17-refactor-centralize-and-improve-model-fallback-handling-by-abhipatel12-in-https|refactor:
+  Centralize and improve model fallback handling]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-18-voice-updates-432d340b|chatgpt-2025-09-18-voice-updates-432d340b]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-09-17 · ChatGPT · [[Changes/ChatGPT/2025-09-17-5-model-support-changes-in-toggle-thinking-time-in-the-message|5 Model Support changes in Toggle thinking time in the message…]]
-- Later: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-opt-out-of-model-training-so-their-teen-s-conversations-won-t-be-used-to-improve|Opt out of model training, so their teen’s conversations won’t be used to improve…]]
+- Earlier: 2025-09-17 · Gemini CLI · [[Changes/Gemini CLI/2025-09-17-refactor-centralize-and-improve-model-fallback-handling-by-abhipatel12-in-https|refactor: Centralize and improve model fallback handling]]
+- Later: 2025-09-19 · Cline · [[Changes/Cline/2025-09-19-add-code-supernova-stealth-model-by-saoudrizwan-in-https-github-com-cline-cline|Add code-supernova stealth model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

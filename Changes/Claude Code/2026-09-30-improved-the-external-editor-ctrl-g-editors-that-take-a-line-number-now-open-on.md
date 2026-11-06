@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ed15022b74dae576a85d4012f487b505356a84a17e580c281200ffdfe13439c8
+machine_hash: 57a8c758f488fe68d427bd9d1ee04dc1ccc644f8426136b483ab0871ba19d5aa
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,13 +43,13 @@ record:
   title: Improved the external editor (Ctrl+G)
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-28-changed-ultracode-into-its-own-toggle-in-effort-tab-or-effort-ultracode-on-off-i|Changed
-  Ultracode into its own toggle in /effort (Tab, or /effort ultracode on / off)]]'
 - '[[Changes/ChatGPT/2026-09-29-turn-a-conversation-into-a-page-start-from-a-template-or-begin-writing-directly|Turn
   a conversation into a Page, start from a template, or begin writing directly in
   Space]]'
 - '[[Changes/Claude Code/2026-09-29-2-editor-experience-changes-in-v2-1-285|2 Editor
   Experience changes in v2.1.285]]'
+- '[[Changes/Codex CLI/2026-09-29-3-editor-experience-changes-in-rust-v0-159-0|3 Editor
+  Experience changes in rust-v0.159.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7|claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7]]'
 source_type: github_releases
 theme: editor-experience
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-2-editor-experience-changes-in-v2-1-285|2 Editor Experience changes in v2.1.285]]
+- Earlier: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-3-editor-experience-changes-in-rust-v0-159-0|3 Editor Experience changes in rust-v0.159.0]]
 - Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-vscode-changed-the-claude-in-chrome-enabled-by-default-switch-to-also-connect-th|VSCode Changed the Claude in Chrome "Enabled by default" switch to also connect…]]
 <!-- chronolog:end -->
 

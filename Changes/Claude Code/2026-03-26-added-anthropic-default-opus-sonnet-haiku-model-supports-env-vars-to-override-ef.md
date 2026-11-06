@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a26c06f4af96654d1f29b2d2313147f9dfe91b27d431c78766b6051c4b5df1de
+machine_hash: f196e9e0f164d115f4aa175d1048c61d1afd6e63f3ca6e1d2ba87004ce4a4925
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,12 +62,12 @@ record:
     override…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-17-increased-default-maximum-output-token-limits-for-claude-opus-4-6-to-64k-tokens|Increased
-  default maximum output token limits for Claude Opus 4.6 to 64k tokens…]]'
-- '[[Changes/ChatGPT/2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and|GPT-5.4
-  mini in ChatGPT]]'
-- '[[Changes/Claude Code/2026-03-19-added-effort-frontmatter-support-for-skills-and-slash-commands-to-override-the-m|Added
-  effort frontmatter support for skills and slash commands to override…]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-20-2-model-support-changes-in-v1-0-10|2 Model
+  Support changes in v1.0.10]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-23-ensure-models-appear-in-picker-correctly-display-model-names-where-possible|Ensure
+  models appear in picker correctly, display model names where possible]]'
+- '[[Changes/Gemini CLI/2026-03-24-7-model-support-changes-in-v0-35-0|7 Model Support
+  changes in v0.35.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa|claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa]]'
 source_type: github_releases
 theme: model-support
@@ -105,8 +105,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-19 · Claude Code · [[Changes/Claude Code/2026-03-19-added-effort-frontmatter-support-for-skills-and-slash-commands-to-override-the-m|Added effort frontmatter support for skills and slash commands to override…]]
-- Later: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-usage-now-hides-redundant-current-week-sonnet-only-bar-for-pro-and-enterprise-pl|/usage now hides redundant "Current week (Sonnet only)" bar for Pro and Enterprise plans]]
+- Earlier: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-7-model-support-changes-in-v0-35-0|7 Model Support changes in v0.35.0]]
+- Later: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-3-model-support-changes-in-rust-v0-117-0|3 Model Support changes in rust-v0.117.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

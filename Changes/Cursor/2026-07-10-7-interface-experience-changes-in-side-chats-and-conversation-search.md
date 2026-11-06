@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3f2775a40ecf94f0607b77f051dde6c0839cb3cb2f7ddb2bd91142033837f633
+machine_hash: 2eda40e0cf016ec9519bcf43f7990c654ad82e6d97975f53c300eefc9233db44
 product: cursor
 product_name: Cursor
 record:
@@ -61,10 +61,10 @@ record:
   title: 7 Interface Experience changes in Side Chats and Conversation Search
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-03-changed-askuserquestion-dialogs-to-no-longer-auto-continue-by-default-opt-into-a|Changed
-  AskUserQuestion dialogs to no longer auto-continue by default]]'
-- '[[Changes/Claude Code/2026-07-07-removed-a-redundant-navigation-hint-from-the-claude-agents-footer|Removed
-  a redundant navigation hint from the claude agents footer]]'
+- '[[Changes/Cline/2026-07-09-2-interface-experience-changes-in-v4-0-7|2 Interface
+  Experience changes in v4.0.7]]'
+- '[[Changes/Codex CLI/2026-07-09-3-interface-experience-changes-in-rust-v0-144-0|3
+  Interface Experience changes in rust-v0.144.0]]'
 - '[[Changes/Cursor/2026-07-10-conversation-search-454cae|Conversation search]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d|cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d]]'
 source_type: cursor_changelog
@@ -113,8 +113,8 @@ Source: https://cursor.com/changelog/side-chat
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-removed-a-redundant-navigation-hint-from-the-claude-agents-footer|Removed a redundant navigation hint from the claude agents footer]]
-- Later: 2026-07-11 · Claude Code · [[Changes/Claude Code/2026-07-11-improved-agent-view-pasting-the-same-text-again-now-expands-the-collapsed-pasted|Improved agent view]]
+- Earlier: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-3-interface-experience-changes-in-rust-v0-144-0|3 Interface Experience changes in rust-v0.144.0]]
+- Later: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-4-interface-experience-changes-in-v1-0-70|4 Interface Experience changes in v1.0.70]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2409f8f56370ba07d227627f63692fe97814fc073764322cc655b197543d092a
+machine_hash: efdd3190c07c64aa04c33bd8fdabffeeae3d1a8f919fe7a34b04736f34012ef2
 product: cursor
 product_name: Cursor
 record:
@@ -42,10 +42,10 @@ record:
   title: Dev containers are now supported!
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-10-01-ask-about-git-commits-and-prs-using-git-in-chat|Ask
-  about git commits and PRs using @git in chat!]]'
 - '[[Changes/Cursor/2023-10-20-also-there-s-an-experimental-bash-mode-enable-it-in-the-settings-and-let-the-cha|Also,
   there''s an experimental bash mode]]'
+- '[[Changes/Aider/2024-01-04-improved-unicode-encoding-for-run-command-output-by-ctoth|Improved
+  unicode encoding for /run command output, by @ctoth]]'
 - '[[Changes/Cursor/2024-01-06-wsl-and-dev-containers-should-now-work-properly|Better
   Remote Support]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-06-0-22-0-https-cursor-com-changelog-0-22-0-04c2cd2c|cursor-2024-01-06-0-22-0-https-cursor-com-changelog-0-22-0-04c2cd2c]]'

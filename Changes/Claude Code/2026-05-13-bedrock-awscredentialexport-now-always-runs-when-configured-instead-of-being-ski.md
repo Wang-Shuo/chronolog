@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 20f0afe0ead37baf6e25e595960d1706a2949af9a83a01b5d801657570978e7b
+machine_hash: f10c6b49f62da339b69008a74671ecfb6abf3f6e18ec31f41720ff70e6ed055f
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     being…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-04-channels-now-works-with-console-api-key-authentication-console-orgs-with-managed|--channels
-  now works with console (API key) authentication]]'
-- '[[Changes/ChatGPT/2026-05-05-chatgpt-for-excel-and-google-sheets-is-now-available-globally-bringing-chatgpt-i|ChatGPT
-  for Excel and Google Sheets]]'
 - '[[Changes/Claude Code/2026-05-06-improved-visual-consistency-in-slash-command-dialogs-and-login-upgrade-extra-usa|Improved
   visual consistency in slash command dialogs and /login, /upgrade…]]'
+- '[[Changes/Codex CLI/2026-05-07-2-account-and-access-changes-in-rust-v0-129-0|2
+  Account and Access changes in rust-v0.129.0]]'
+- '[[Changes/Codex CLI/2026-05-08-2-account-and-access-changes-in-rust-v0-130-0|2
+  Account and Access changes in rust-v0.130.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'
 source_type: github_releases
 theme: account-access
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-improved-visual-consistency-in-slash-command-dialogs-and-login-upgrade-extra-usa|Improved visual consistency in slash command dialogs and /login, /upgrade…]]
-- Later: 2026-06-02 · ChatGPT · [[Changes/ChatGPT/2026-06-02-active-sessions-shows-sessions-known-through-session-management-including-chatgp|Active sessions shows sessions known through session management, including ChatGPT…]]
+- Earlier: 2026-05-08 · Codex CLI · [[Changes/Codex CLI/2026-05-08-2-account-and-access-changes-in-rust-v0-130-0|2 Account and Access changes in rust-v0.130.0]]
+- Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-5-account-and-access-changes-in-rust-v0-131-0|5 Account and Access changes in rust-v0.131.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

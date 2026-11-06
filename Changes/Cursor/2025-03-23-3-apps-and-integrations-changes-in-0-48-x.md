@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1be16449ba892831ad696ef28a77412b39fb96d4e5b66dfe0ef380d55c468bd1
+machine_hash: e704c3c8c65e3010aa357ee453024076e7a9d1d087bb8c4dcb902824f9d6e9bc
 product: cursor
 product_name: Cursor
 record:
@@ -47,11 +47,12 @@ record:
   title: 3 Apps and Integrations changes in 0.48.x
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-2-apps-and-integrations-changes-in-0-46-x|2 Apps and
-  Integrations changes in 0.46.x]]'
-- '[[Changes/Cursor/2025-02-19-mcp-improvements|MCP improvements]]'
 - '[[Changes/Cursor/2025-03-11-mcp-added-global-server-configuration-with-cursor-mcp-json-and-support-for-envir|MCP:
   Added global server configuration with ~/.cursor/mcp.json and support…]]'
+- '[[Changes/Aider/2025-03-21-added-git-commit-verify-flag-default-false-to-control-whether-git-commit-hooks-a|Added
+  --git-commit-verify flag (default]]'
+- '[[Changes/Cline/2025-03-23-2-apps-and-integrations-changes-in-v3-8-0|2 Apps and
+  Integrations changes in v3.8.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -100,8 +101,8 @@ Source: https://cursor.com/changelog/0-48-x
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-mcp-added-global-server-configuration-with-cursor-mcp-json-and-support-for-envir|MCP: Added global server configuration with ~/.cursor/mcp.json and support…]]
-- Later: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-images-in-mcp|Images in MCP]]
+- Earlier: 2025-03-23 · Cline · [[Changes/Cline/2025-03-23-2-apps-and-integrations-changes-in-v3-8-0|2 Apps and Integrations changes in v3.8.0]]
+- Later: 2025-04-01 · Cline · [[Changes/Cline/2025-04-01-3-apps-and-integrations-changes-in-v3-8-5|3 Apps and Integrations changes in v3.8.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

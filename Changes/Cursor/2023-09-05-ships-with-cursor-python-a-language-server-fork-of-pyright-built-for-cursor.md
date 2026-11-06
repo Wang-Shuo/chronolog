@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a8061abc1eff54811044410cc36ab6b5cac74f66eb9ea13ca6ec9b0f34436109
+machine_hash: d1f32bfd866f32d9831d88b8e4301b17dc36ad427524fa1d958b27206e9dafa6
 product: cursor
 product_name: Cursor
 record:
@@ -40,8 +40,8 @@ record:
   title: Cursor-Python LSP
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-17-the-cursor-nightly-command-now-works-on-mac|The cursor-nightly
-  command now works on Mac]]'
+- '[[Changes/Aider/2023-08-22-improved-foo-no-foo-switch-handling-for-command-line-and-yml-config-settings|Improved
+  --foo/--no-foo switch handling for command line and yml config settings]]'
 - '[[Changes/Cursor/2023-08-22-applies-the-patch-from-github-across-all-your-wsl-windows-subsystem-for-linux-di|WSL
   Fixes]]'
 - '[[Changes/Cursor/2023-08-26-we-had-a-big-bug-for-people-on-language-packs-thank-you-to-all-who-helped-us-deb|Bug

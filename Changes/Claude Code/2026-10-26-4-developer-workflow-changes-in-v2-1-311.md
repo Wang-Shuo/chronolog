@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cacf12e3a4d3e912e4f551d3ac59cc6523856e31c8669fefdb5789248dbd7359
+machine_hash: fba275fbb0185dfd943cecbb1a309adb649e33003189c6a068bfc845eec69bcb
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
   title: 4 Developer Workflow changes in v2.1.311
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-21-2-developer-workflow-changes-in-v2-1-307|2 Developer
-  Workflow changes in v2.1.307]]'
-- '[[Changes/Claude Code/2026-10-22-improved-disk-full-handling-a-bash-command-cut-off-by-a-full-disk-now-says-so-an|Improved
-  disk-full handling]]'
-- '[[Changes/Claude Code/2026-10-23-code-review-improved-the-code-review-admin-section-to-retry-the-first-load-and-s|Code
-  Review Improved the Code Review admin section to retry the first load…]]'
+- '[[Changes/Codex CLI/2026-10-23-14-developer-workflow-changes-in-rust-v0-164-0|14
+  Developer Workflow changes in rust-v0.164.0]]'
+- '[[Changes/Windsurf/2026-10-23-4-developer-workflow-changes-in-v3-11-212|4 Developer
+  Workflow changes in v3.11.212]]'
+- '[[Changes/Windsurf/2026-10-24-2-developer-workflow-changes-in-v3-11-216|2 Developer
+  Workflow changes in v3.11.216]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-26-v2-1-311-github-424682562-151da26b|claude-code-2026-10-26-v2-1-311-github-424682562-151da26b]]'
 source_type: github_releases
 theme: developer-workflow
@@ -104,8 +104,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.311
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-code-review-improved-the-code-review-admin-section-to-retry-the-first-load-and-s|Code Review Improved the Code Review admin section to retry the first load…]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-4-developer-workflow-changes-in-v2-1-314|4 Developer Workflow changes in v2.1.314]]
+- Earlier: 2026-10-24 · Windsurf · [[Changes/Windsurf/2026-10-24-2-developer-workflow-changes-in-v3-11-216|2 Developer Workflow changes in v3.11.216]]
+- Later: 2026-10-26 · Cline · [[Changes/Cline/2026-10-26-starting-a-command-no-longer-moves-keyboard-focus-into-the-terminal-so-text-you|Starting a command no longer moves keyboard focus into the terminal, so text you're…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

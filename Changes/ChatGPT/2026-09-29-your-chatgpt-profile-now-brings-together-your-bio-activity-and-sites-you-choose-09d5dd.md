@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0f192961235e08f79536f36db45f55f1fa3b1e0c2e62079065c6cfe9bd28f03f
+machine_hash: 6705e3ceef986b88cccf9d9fe195dda5ae5f2506944606b2998763e9a6f349b1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,11 +53,12 @@ record:
   title: Share your profile and showcase your Sites
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-changed-ultrareview-in-non-interactive-sessions-to-refuse-when-the-repository-ha|Changed
-  /ultrareview in non-interactive sessions to refuse when the repository has…]]'
-- '[[Changes/Cursor/2026-09-23-team-rules|Team rules]]'
+- '[[Changes/Codex CLI/2026-09-25-47411-apply-shared-network-policy-throughout-embedded-codex-startup-acrognale-oa|♯47411
+  Apply shared network policy throughout embedded Codex startup @acrognale-oai]]'
 - '[[Changes/Claude Code/2026-09-28-2-collaboration-changes-in-v2-1-284|2 Collaboration
   changes in v2.1.284]]'
+- '[[Changes/Codex CLI/2026-09-28-2-collaboration-changes-in-rust-v0-158-0|2 Collaboration
+  changes in rust-v0.158.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-share-your-profile-and-showcase-your-sites-b1579ad3|chatgpt-2026-09-29-share-your-profile-and-showcase-your-sites-b1579ad3]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -86,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-2-collaboration-changes-in-v2-1-284|2 Collaboration changes in v2.1.284]]
+- Earlier: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-2-collaboration-changes-in-rust-v0-158-0|2 Collaboration changes in rust-v0.158.0]]
 - Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-space-brings-your-pages-files-and-related-work-together-in-chatgpt-create-a-spac|Organize your work in ChatGPT Space]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ca37c91a9da7f3dbfe2f7594a9983a614e8fdf16ae9d07ee3eec18601a50f9bf
+machine_hash: 48790b4846e557f4bf53b3d56a6a1fb78dbf7f81c008433e72f756df0d15a9ef
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     tab…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-04-updated-usage-analytics-tab|Updated usage analytics
-  tab]]'
-- '[[Changes/Cursor/2026-05-07-improved-prompt-input-undo-grouping-so-undo-redo-feels-more-natural-during-edits|Improved
-  prompt input undo grouping, so undo/redo feels more natural during edits]]'
 - '[[Changes/Cursor/2026-05-07-multitask-is-now-available-in-the-editor-for-running-async-subagents-to-parallel|/multitask
   is now available in the editor for running async subagents to parallelize…]]'
+- '[[Changes/Codex CLI/2026-05-08-2-editor-experience-changes-in-rust-v0-130-0|2 Editor
+  Experience changes in rust-v0.130.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-08-2-editor-experience-changes-in-v1-0-44|2
+  Editor Experience changes in v1.0.44]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'
 source_type: github_releases
 theme: editor-experience
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-07 · Cursor · [[Changes/Cursor/2026-05-07-multitask-is-now-available-in-the-editor-for-running-async-subagents-to-parallel|/multitask is now available in the editor for running async subagents to parallelize…]]
-- Later: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-improved-pr-tabs-by-adding-clearer-review-states-better-reviewer-thread-visibili|Improved PR tabs by adding clearer review states, better reviewer/thread visibility…]]
+- Earlier: 2026-05-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-08-2-editor-experience-changes-in-v1-0-44|2 Editor Experience changes in v1.0.44]]
+- Later: 2026-05-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-12-read-only-gh-cli-commands-list-view-status-diff-etc-are-auto-approved-without-pr|Read-only gh CLI commands (list, view, status, diff, etc.) are auto-approved without…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

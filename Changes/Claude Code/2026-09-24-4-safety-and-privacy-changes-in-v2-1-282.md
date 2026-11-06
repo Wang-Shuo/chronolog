@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: be0b413f593fe8a89188e05fe8eed70f2393a0c2a3b41335c9ca0d10a0f631e7
+machine_hash: f1b04f46cffba81e3d9e5bfebbe2a8780db52a2cae13bd250576a6e6b1c0acf0
 product: claude-code
 product_name: Claude Code
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.282
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-findings|Findings]]
-- Later: 2026-09-25 · ChatGPT · [[Changes/ChatGPT/2026-09-25-we-re-introducing-security-history-a-new-way-to-review-recent-security-activity-6f32cc|Security history in ChatGPT]]
+- Later: 2026-09-24 · Cline · [[Changes/Cline/2026-09-24-raised-the-minimum-js-yaml-version-to-4-3-2-to-pick-up-a-security-fix-in-the-par|Raised the minimum js-yaml version to 4.3.2 to pick up a security fix in the parser…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

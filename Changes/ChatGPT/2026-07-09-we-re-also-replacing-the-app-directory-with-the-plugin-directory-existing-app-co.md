@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e41dcfd76b619c5bb022a4cff1a8da83406d363b1b4ba20928ea814491d8f2b7
+machine_hash: e30e2f351879ae73812eae8bb7cedda49770eed1a3cd494559a4a64ecc82f04b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,12 +46,12 @@ record:
   title: We’re also replacing the App Directory with the Plugin Directory
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-06-improved-mcp-error-messages-clearer-error-when-a-server-config-has-url-but-no-ty|Improved
-  MCP error messages]]'
-- '[[Changes/Claude Code/2026-07-07-2-apps-and-integrations-changes-in-v2-1-203|2
-  Apps and Integrations changes in v2.1.203]]'
-- '[[Changes/Claude Code/2026-07-08-reserved-the-claude-browser-mcp-server-name-alongside-claude-preview-ahead-of-th|Reserved
-  the "Claude Browser" MCP server name (alongside "Claude Preview") ahead…]]'
+- '[[Changes/Codex CLI/2026-07-08-66-apps-and-integrations-changes-in-rust-v0-143-0|66
+  Apps and Integrations changes in rust-v0.143.0]]'
+- '[[Changes/Codex CLI/2026-07-08-remote-plugins-are-now-enabled-by-default-with-richer-catalog-rows-npm-marketpla|Remote
+  plugins are now enabled by default, with richer catalog rows, npm marketplace…]]'
+- '[[Changes/OpenHands/2026-07-08-chore-bump-sdk-packages-to-v1-33-0-by-all-hands-bot-in-https-github-com-openhand|chore:
+  bump SDK packages to v1.33.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-08 · Claude Code · [[Changes/Claude Code/2026-07-08-reserved-the-claude-browser-mcp-server-name-alongside-claude-preview-ahead-of-th|Reserved the "Claude Browser" MCP server name (alongside "Claude Preview") ahead…]]
+- Earlier: 2026-07-08 · OpenHands · [[Changes/OpenHands/2026-07-08-chore-bump-sdk-packages-to-v1-33-0-by-all-hands-bot-in-https-github-com-openhand|chore: bump SDK packages to v1.33.0]]
 - Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-enterprise-and-edu-users-can-find-skills-under-plugins-in-the-sidebar-on-the-ski|Skills are now generally available]]
 <!-- chronolog:end -->
 

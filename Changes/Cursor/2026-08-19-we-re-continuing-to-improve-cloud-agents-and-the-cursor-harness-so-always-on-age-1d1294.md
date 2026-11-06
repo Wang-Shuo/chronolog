@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f953a50d6477ad1312965c61a6d34cfee8fc1987f92669dc393f7acf933dc12c
+machine_hash: a507ab90c07a741e29c1c98f381588e9389dcb4115d979d4bd8d687b4f90ecb0
 product: cursor
 product_name: Cursor
 record:
@@ -51,7 +51,8 @@ record:
     agents…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-17-agents-in-every-repo|Agents in every repo]]'
+- '[[Changes/Codex CLI/2026-08-18-12-agent-mode-changes-in-rust-v0-148-0|12 Agent
+  Mode changes in rust-v0.148.0]]'
 - '[[Changes/Claude Code/2026-08-19-4-agent-mode-changes-in-v2-1-236|4 Agent Mode
   changes in v2.1.236]]'
 - '[[Changes/Cursor/2026-08-19-custom-modes|Custom modes]]'
@@ -91,7 +92,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-4-agent-mode-changes-in-v2-1-236|4 Agent Mode changes in v2.1.236]]
-- Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-2-agent-mode-changes-in-v2-1-239|2 Agent Mode changes in v2.1.239]]
+- Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-12-agent-mode-changes-in-rust-v0-149-0|12 Agent Mode changes in rust-v0.149.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

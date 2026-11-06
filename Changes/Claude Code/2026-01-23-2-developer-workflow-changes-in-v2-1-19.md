@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7d78326266d4d498f8ddc8bdf921f43165bec554fc39a08337b1cbd6c157df6e
+machine_hash: 2358236697fee8a94c9dca8a9312140c5fc6b9c192676782224b3f41e9cc026e
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.19
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-21-added-deprecation-notification-for-npm-installations-run-claude-install-or-see-h|Added
-  deprecation notification for npm installations - run claude install or see…]]'
-- '[[Changes/Claude Code/2026-01-22-added-new-task-management-system-including-new-capabilities-like-dependency-trac|Added
-  new task management system, including new capabilities like dependency tracking]]'
 - '[[Changes/Cursor/2026-01-22-3-developer-workflow-changes-in-2-4|3 Developer Workflow
   changes in 2.4]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-22-add-rename-command-as-alias-for-session-rename|Add
+  /rename command as alias for /session rename]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-22-improve-session-command-visual-hierarchy-and-colors|Improve
+  /session command visual hierarchy and colors]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640|claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640]]'
 source_type: github_releases
 theme: developer-workflow
@@ -84,8 +84,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.19
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-3-developer-workflow-changes-in-2-4|3 Developer Workflow changes in 2.4]]
-- Later: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-3-developer-workflow-changes-in-v2-1-20|3 Developer Workflow changes in v2.1.20]]
+- Earlier: 2026-01-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-22-improve-session-command-visual-hierarchy-and-colors|Improve /session command visual hierarchy and colors]]
+- Later: 2026-01-23 · Windsurf · [[Changes/Windsurf/2026-01-23-added-post-setup-worktree-https-docs-windsurf-com-windsurf-cascade-worktrees-set|Added…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

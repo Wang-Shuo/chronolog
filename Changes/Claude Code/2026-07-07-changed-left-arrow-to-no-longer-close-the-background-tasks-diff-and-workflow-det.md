@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9fd4664b0dde710a0bbfbcd627519abf5bcec4df33d8c9efbd7138174750c8a2
+machine_hash: 0053a95ddddddf207dfe659de96d891a8bc0a5e141a4ea23307621a7451107c2
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,11 @@ record:
   title: Changed left arrow to no longer close the background tasks, diff, and workflow…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-08-edit-messages-with-attachments-you-can-now-edit-messages-that-include-attachment|Edit
-  messages with attachments]]'
-- '[[Changes/Claude Code/2026-06-08-background-sessions-now-preserve-ide-chrome-bare-remote-control-and-other-flags|Background
-  sessions now preserve --ide, --chrome, --bare, --remote-control…]]'
-- '[[Changes/Claude Code/2026-06-25-added-live-file-path-autocomplete-to-bash-mode|Added
-  live file path autocomplete to bash mode (!)]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-30-ctrl-q-now-enqueues-the-highlighted-slash-command-argument-completion|Ctrl+Q
+  now enqueues the highlighted slash-command argument completion]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-01-2-editor-experience-changes-in-v1-0-68|2
+  Editor Experience changes in v1.0.68]]'
+- '[[Changes/Windsurf/2026-07-04-devin-local|Devin Local]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc|claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc]]'
 source_type: github_releases
 theme: editor-experience
@@ -85,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-added-live-file-path-autocomplete-to-bash-mode|Added live file path autocomplete to bash mode (!)]]
-- Later: 2026-07-10 · Claude Code · [[Changes/Claude Code/2026-07-10-added-a-doctor-check-that-proposes-trimming-checked-in-claude-md-files-by-cuttin|Added a /doctor check that proposes trimming checked-in CLAUDE.md files…]]
+- Earlier: 2026-07-04 · Windsurf · [[Changes/Windsurf/2026-07-04-devin-local|Devin Local]]
+- Later: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-2-editor-experience-changes-in-v1-0-69|2 Editor Experience changes in v1.0.69]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

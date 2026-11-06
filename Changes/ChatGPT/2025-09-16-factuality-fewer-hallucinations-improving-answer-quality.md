@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 96aaf48ff3d6f43ac93976e62718649ee34f96dd9a0e4b437821ed3ab5896199
+machine_hash: 32980dc936053063f640fc4b5aef4cab8bc5f3d8a5bb7199cfa0b852cdbcac1e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,12 @@ record:
   title: 'Factuality: Fewer hallucinations, improving answer quality'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-12-you-can-now-choose-between-auto-fast-and-thinking-for-gpt-5-most-users-will-want-f4c05b|GPT-5
-  Updates]]'
-- '[[Changes/ChatGPT/2025-08-15-we-re-making-gpt-5-s-default-personality-warmer-and-more-familiar-this-is-in-res-19a03e|GPT-5
-  Updates]]'
-- '[[Changes/Cursor/2025-08-21-2-model-support-changes-in-1-5|2 Model Support changes
-  in 1.5]]'
+- '[[Changes/Cline/2025-09-11-5-model-support-changes-in-v3-28-0|5 Model Support changes
+  in v3.28.0]]'
+- '[[Changes/Cline/2025-09-12-requesty-use-base-url-to-get-models-and-api-keys|Requesty:
+  use base URL to get models and API keys]]'
+- '[[Changes/Codex CLI/2025-09-15-16-model-support-changes-in-rust-v0-36-0|16 Model
+  Support changes in rust-v0.36.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690|chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-2-model-support-changes-in-1-5|2 Model Support changes in 1.5]]
+- Earlier: 2025-09-15 · Codex CLI · [[Changes/Codex CLI/2025-09-15-16-model-support-changes-in-rust-v0-36-0|16 Model Support changes in rust-v0.36.0]]
 - Later: 2025-09-17 · ChatGPT · [[Changes/ChatGPT/2025-09-17-5-model-support-changes-in-toggle-thinking-time-in-the-message|5 Model Support changes in Toggle thinking time in the message…]]
 <!-- chronolog:end -->
 

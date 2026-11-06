@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 41c7399819ce314746619357f80b2b5599370c74f13cfb4f0e594309ca296d64
+machine_hash: 8a8726739af2d8b8f1aa70c6a068c52a403584458db7bf206c5600ade037784c
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Safety and Privacy changes in v2.1.274
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-7-safety-and-privacy-changes-in-v2-1-271|7 Safety
-  and Privacy changes in v2.1.271]]'
-- '[[Changes/Claude Code/2026-09-15-5-safety-and-privacy-changes-in-v2-1-273|5 Safety
-  and Privacy changes in v2.1.273]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-16-17-safety-and-privacy-changes-in-v1-0-85|17
+  Safety and Privacy changes in v1.0.85]]'
+- '[[Changes/OpenHands/2026-09-16-test-cover-telemetry-consent-banner-by-aivong-openhands-in-https-github-com-open|test:
+  cover telemetry consent banner]]'
 - '[[Changes/Claude Code/2026-09-17-7-safety-and-privacy-changes-in-v2-1-275|7 Safety
   and Privacy changes in v2.1.275]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d|claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d]]'
@@ -100,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.274
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-7-safety-and-privacy-changes-in-v2-1-275|7 Safety and Privacy changes in v2.1.275]]
-- Later: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-4-safety-and-privacy-changes-in-v2-1-277|4 Safety and Privacy changes in v2.1.277]]
+- Later: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-7-safety-and-privacy-changes-in-rust-v0-155-0|7 Safety and Privacy changes in rust-v0.155.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

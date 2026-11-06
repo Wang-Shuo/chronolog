@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c4cbc78b72de20440c5f321d05f201372bcec4db14eef45bc434791e553bda7a
+machine_hash: 6c2b9ae0f1e4e7a902ba8d80f4849f0406e61b29d445ec9194ed5b156a6a7560
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,9 +49,10 @@ record:
   title: Organize your work in ChatGPT Space
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-team-rules|Team rules]]'
 - '[[Changes/Claude Code/2026-09-28-2-collaboration-changes-in-v2-1-284|2 Collaboration
   changes in v2.1.284]]'
+- '[[Changes/Codex CLI/2026-09-28-2-collaboration-changes-in-rust-v0-158-0|2 Collaboration
+  changes in rust-v0.158.0]]'
 - '[[Changes/ChatGPT/2026-09-29-your-chatgpt-profile-now-brings-together-your-bio-activity-and-sites-you-choose-09d5dd|Share
   your profile and showcase your Sites]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-organize-your-work-in-chatgpt-space-234deac3|chatgpt-2026-09-29-organize-your-work-in-chatgpt-space-234deac3]]'
@@ -81,7 +82,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-your-chatgpt-profile-now-brings-together-your-bio-activity-and-sites-you-choose-09d5dd|Share your profile and showcase your Sites]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-changed-local-session-transcripts-to-also-record-each-api-request-s-system-promp|Changed local session transcripts to also record each API request's system prompt…]]
+- Later: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-2-collaboration-changes-in-rust-v0-159-0|2 Collaboration changes in rust-v0.159.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

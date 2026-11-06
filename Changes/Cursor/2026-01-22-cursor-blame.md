@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4a010fb94ec57db66bdb52884f685fe5341500c3847057efa58f6a9497e26ee0
+machine_hash: a44bc67651d394fc6762a21441603ce23be7c78b8ba6cfc5be3082046cff6fc5
 product: cursor
 product_name: Cursor
 record:
@@ -52,12 +52,12 @@ record:
   title: Cursor Blame
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-sandboxed-terminals-admin-controls|Sandboxed Terminals:
-  Admin Controls]]'
-- '[[Changes/Cursor/2025-11-21-3-enterprise-and-administration-changes-in-2-1|3 Enterprise
-  and Administration changes in 2.1]]'
-- '[[Changes/Cursor/2025-12-18-many-of-the-largest-software-companies-in-the-world-have-adopted-cursor-for-ente|Many
-  of the largest software companies in the world have adopted Cursor for Enterprise]]'
+- '[[Changes/Codex CLI/2026-01-06-support-enterprise-managed-configuration-requirements-on-macos-via-an-mdm-provid|Support
+  enterprise-managed configuration requirements on macOS via an MDM-provided…]]'
+- '[[Changes/Windsurf/2026-01-16-admins-can-now-manage-windsurf-restrictions-via-windows-group-policy|Admins
+  can now manage Windsurf restrictions via Windows Group Policy]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-20-share-gist-shows-helpful-error-on-github-enterprise-cloud-with-data-residency|/share
+  gist shows helpful error on GitHub Enterprise Cloud with data residency]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'
 source_type: cursor_changelog
 theme: enterprise-admin
@@ -107,8 +107,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-12-18 · Cursor · [[Changes/Cursor/2025-12-18-many-of-the-largest-software-companies-in-the-world-have-adopted-cursor-for-ente|Many of the largest software companies in the world have adopted Cursor for Enterprise]]
-- Later: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-clearer-more-consistent-team-and-enterprise-policy-and-access-controls|Clearer, more consistent team and enterprise policy and access controls]]
+- Earlier: 2026-01-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-20-share-gist-shows-helpful-error-on-github-enterprise-cloud-with-data-residency|/share gist shows helpful error on GitHub Enterprise Cloud with data residency]]
+- Later: 2026-01-23 · Windsurf · [[Changes/Windsurf/2026-01-23-enterprise-features|Enterprise Features]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

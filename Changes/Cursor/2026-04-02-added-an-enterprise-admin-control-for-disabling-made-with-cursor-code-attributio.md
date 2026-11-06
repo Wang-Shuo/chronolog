@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 9ea4f2c9b2d4f54d03d0d3eef0d53617b41bd8871805df08f5293335966514ea
+machine_hash: 62dc65a46725d6d73ee3b80677e5d34513c3c145e34de05bc8a4702cf0de6171
 product: cursor
 product_name: Cursor
 record:
@@ -56,12 +56,12 @@ record:
   title: Added an Enterprise Admin control for disabling "Made with Cursor" code attribution…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-14-added-session-quality-survey-enterprise-admins-can-configure-the-sample-rate-via|Added
-  session quality survey]]'
 - '[[Changes/ChatGPT/2026-03-17-we-ve-simplified-the-model-picker-to-make-it-easier-to-choose-the-right-level-of-a3fc77|We’ve
   simplified the model picker to make it easier to choose the right level of reasoning]]'
 - '[[Changes/Claude Code/2026-03-26-added-allowedchannelplugins-managed-setting-for-team-enterprise-admins-to-define|Added
   allowedChannelPlugins managed setting for team/enterprise admins to define…]]'
+- '[[Changes/Codex CLI/2026-03-26-15789-treat-chatgpt-hc-plan-as-enterprise-arnavdugar-openai|♯15789
+  Treat ChatGPT hc plan as Enterprise @arnavdugar-openai]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'
 source_type: cursor_changelog
 theme: enterprise-admin
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-added-allowedchannelplugins-managed-setting-for-team-enterprise-admins-to-define|Added allowedChannelPlugins managed setting for team/enterprise admins to define…]]
+- Earlier: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-15789-treat-chatgpt-hc-plan-as-enterprise-arnavdugar-openai|♯15789 Treat ChatGPT hc plan as Enterprise @arnavdugar-openai]]
 - Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-added-forceremotesettingsrefresh-policy-setting-when-set-the-cli-blocks-startup|Added forceRemoteSettingsRefresh policy setting]]
 <!-- chronolog:end -->
 

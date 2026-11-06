@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6dd48eed2246ba298acb7258869cb471ac14f5e40d2e3a776abd162c479b903c
+machine_hash: ba6f817dbb95f6ab96378a54a0a8278084f3d3ca487825aa3f0eafc810d5aab0
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     was run
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-01-added-claude-project-purge-path-to-delete-all-claude-code-state-for-a-project-tr|-
-  Added claude project purge path to delete all Claude Code state for a project…]]'
-- '[[Changes/Claude Code/2026-05-13-feedback-can-now-include-recent-sessions-last-24-hours-or-7-days-for-issues-span|/feedback
-  can now include recent sessions (last 24 hours or 7 days) for issues…]]'
-- '[[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|Codex
-  remote access from the ChatGPT mobile app]]'
+- '[[Changes/Codex CLI/2026-06-04-local-session-history-is-safer-for-compressed-rollouts-renamed-titles-pathless-s|Local
+  session history is safer for compressed rollouts, renamed titles, pathless…]]'
+- '[[Changes/Gemini CLI/2026-06-18-avoid-persisting-empty-resume-sessions-by-sandytao520-in-https-github-com-google|Avoid
+  persisting empty resume sessions]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-23-4-projects-and-workspaces-changes-in-v1-0-64|4
+  Projects and Workspaces changes in v1.0.64]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27|claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27]]'
 source_type: github_releases
 theme: projects-workspaces
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2026-05-14 · ChatGPT · [[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|Codex remote access from the ChatGPT mobile app]]
+- Earlier: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-4-projects-and-workspaces-changes-in-v1-0-64|4 Projects and Workspaces changes in v1.0.64]]
 - Later: 2026-06-26 · Claude Code · [[Changes/Claude Code/2026-06-26-improved-remote-session-startup-with-a-provisioning-checklist-while-the-containe|Improved Remote session startup with a provisioning checklist while the container starts]]
 <!-- chronolog:end -->
 

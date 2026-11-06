@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c4a40c85a829e8611c8047a8583b63ddca19aff0f2ca59d4a8fccdb702c89fda
+machine_hash: 857110dec8c962c1e57b4caff4e9c067b9f574e37cd3c5f8699dcc5feaa4bb19
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Reliability and Performance changes in v2.1.49
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-17-2-reliability-and-performance-changes-in-2-5|2 Reliability
-  and Performance changes in 2.5]]'
 - '[[Changes/Claude Code/2026-02-18-5-reliability-and-performance-changes-in-v2-1-47|5
   Reliability and Performance changes in v2.1.47]]'
 - '[[Changes/Cursor/2026-02-18-auto-updates-now-run-in-the-background-for-faster-time-to-interactive|Auto-updates
   now run in the background for faster time-to-interactive]]'
+- '[[Changes/Gemini CLI/2026-02-18-feat-plan-add-positive-test-case-and-update-eval-stability-policy-by-jerop-in-ht|feat(plan):
+  add positive test case and update eval stability policy]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140|claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140]]'
 source_type: github_releases
 theme: reliability-performance
@@ -87,8 +87,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.49
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-auto-updates-now-run-in-the-background-for-faster-time-to-interactive|Auto-updates now run in the background for faster time-to-interactive]]
-- Later: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-3-reliability-and-performance-changes-in-v2-1-50|3 Reliability and Performance changes in v2.1.50]]
+- Earlier: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-feat-plan-add-positive-test-case-and-update-eval-stability-policy-by-jerop-in-ht|feat(plan): add positive test case and update eval stability policy]]
+- Later: 2026-02-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-19-2-reliability-and-performance-changes-in-v0-0-412|2 Reliability and Performance changes in v0.0.412]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

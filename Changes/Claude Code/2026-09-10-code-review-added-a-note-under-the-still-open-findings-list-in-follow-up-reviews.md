@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 984b1a266eb6eff9477cd9c9a9b54f52b03cee69a88fa65fe406ecaf0ab07dd7
+machine_hash: 29185c642ad36fef7af70b9c7a8695629dfd64ce55f1924babb1c146b94c699e
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
     reviews'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-04-3-developer-workflow-changes-in-v2-1-261|3 Developer
-  Workflow changes in v2.1.261]]'
-- '[[Changes/Claude Code/2026-09-08-2-developer-workflow-changes-in-v2-1-265|2 Developer
-  Workflow changes in v2.1.265]]'
 - '[[Changes/Claude Code/2026-09-09-3-developer-workflow-changes-in-v2-1-267|3 Developer
   Workflow changes in v2.1.267]]'
+- '[[Changes/Codex CLI/2026-09-09-7-developer-workflow-changes-in-rust-v0-154-0|7
+  Developer Workflow changes in rust-v0.154.0]]'
+- '[[Changes/OpenHands/2026-09-09-2-developer-workflow-changes-in-v1-17-0|2 Developer
+  Workflow changes in v1.17.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848|claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848]]'
 source_type: github_releases
 theme: developer-workflow
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-3-developer-workflow-changes-in-v2-1-267|3 Developer Workflow changes in v2.1.267]]
+- Earlier: 2026-09-09 · OpenHands · [[Changes/OpenHands/2026-09-09-2-developer-workflow-changes-in-v1-17-0|2 Developer Workflow changes in v1.17.0]]
 - Later: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-added-otel-metrics-include-repository-to-tag-opentelemetry-metrics-and-events-wi|Added OTEL_METRICS_INCLUDE_REPOSITORY to tag OpenTelemetry metrics and events…]]
 <!-- chronolog:end -->
 

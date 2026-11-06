@@ -1,0 +1,99 @@
+---
+card_id: gemini-cli-2026-03-11-4fcfde
+date: '2026-03-11'
+description: 'Gemini CLI · 2026-03-11 · Editor Experience: document node limitation
+  for shift+tab by @scidomino in https://github.com/google-gemini/gemini-cli/pull/20877'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1093
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: editor-experience
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: 685e27efc8b56f3c8dfd63e3741888246ee99bbe550edc5aaeac6e83b0f4eef7
+product: gemini-cli
+product_name: Gemini CLI
+record:
+  card_id: gemini-cli-2026-03-11-4fcfde
+  comparison: ''
+  date: '2026-03-11'
+  description: 'Gemini CLI — Release v0.33.0: document node limitation for shift+tab
+    by @scidomino in https://github.com/google-gemini/gemini-cli/pull/20877'
+  evidence:
+  - quote: document node limitation for shift+tab by @scidomino in https://github.com/google-gemini/gemini-cli/pull/20877
+    source_release: https://github.com/google-gemini/gemini-cli/releases/tag/v0.33.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: gemini-cli
+  product_name: Gemini CLI
+  slug: document-node-limitation-for-shift-tab-by-scidomino-in-https-github-com-google-g
+  source_release: gemini-cli-2026-03-11-v0-33-0-github-295447024-03392937
+  source_type: github_releases
+  theme: editor-experience
+  title: document node limitation for shift+tab
+  type: change
+related_changes:
+- '[[Changes/Cline/2026-03-06-hooks-added-a-notification-hook-for-attention-and-completion-boundaries|Hooks:
+  Added a Notification hook for attention and completion boundaries]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-06-to-commemorate-github-copilot-cli-reaching-general-availability-last-week-we-re|To
+  commemorate GitHub Copilot CLI reaching general availability last week, we''re…]]'
+- '[[Changes/Claude Code/2026-03-10-vscode-added-vscode-anthropic-claude-code-open-uri-handler-to-open-a-new-claude|VSCode:
+  Added vscode://anthropic.claude-code/open URI handler to open a new Claude…]]'
+source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-11-v0-33-0-github-295447024-03392937|gemini-cli-2026-03-11-v0-33-0-github-295447024-03392937]]'
+source_type: github_releases
+theme: editor-experience
+title: document node limitation for shift+tab
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# document node limitation for shift+tab
+
+**Gemini CLI** · 2026-03-11 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://github.com/google-gemini/gemini-cli/releases/tag/v0.33.0) · from [[Releases/Gemini CLI/gemini-cli-2026-03-11-v0-33-0-github-295447024-03392937|Release v0.33.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> document node limitation for shift+tab by @scidomino in https://github.com/google-gemini/gemini-cli/pull/20877
+>
+> Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.33.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Gemini CLI/2026-03-11-feat-cli-invert-context-window-display-to-show-usage-by-keithguerin-in-https-git|feat(cli): invert context window display to show usage]] · Context Window
+- [[Changes/Gemini CLI/2026-03-11-4-apps-and-integrations-changes-in-v0-33-0|4 Apps and Integrations changes in v0.33.0]] · Apps and Integrations
+- [[Changes/Gemini CLI/2026-03-11-feat-implement-slash-command-handling-in-acp-for-memory-init-extensions-and-rest|feat: Implement slash command handling in ACP for /memory,/init,/extensions…]] · Memory and Personalization
+- [[Changes/Gemini CLI/2026-03-11-code-review-fixes-as-a-pr-by-jacob314-in-https-github-com-google-gemini-gemini-c|Code review fixes as a pr]] · Developer Workflow
+- [[Changes/Gemini CLI/2026-03-11-feat-core-implement-http-authentication-support-for-a2a-remote-agents-by-sandyta|feat(core): implement HTTP authentication support for A2A remote agents]] · Account and Access
+- [[Changes/Gemini CLI/2026-03-11-feat-admin-enable-30-day-default-retention-for-chat-history-remove-warning-by-sk|feat(admin): enable 30 day default retention for chat history & remove warning]] · Interface Experience
+- [[Changes/Gemini CLI/2026-03-11-6-agent-mode-changes-in-v0-33-0|6 Agent Mode changes in v0.33.0]] · Agent Mode
+- [[Changes/Gemini CLI/2026-03-11-refactor-cli-fully-remove-react-anti-patterns-improve-type-safety-and-fix-ux-ove|refactor(cli): fully remove React anti patterns, improve type safety and fix UX…]] · Safety and Privacy
+- [[Changes/Gemini CLI/2026-03-11-3-model-support-changes-in-v0-33-0|3 Model Support changes in v0.33.0]] · Model Support
+- [[Changes/Gemini CLI/2026-03-11-24-other-changes-in-v0-33-0|24 other changes in v0.33.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Editor Experience
+
+- Earlier: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-vscode-added-vscode-anthropic-claude-code-open-uri-handler-to-open-a-new-claude|VSCode: Added vscode://anthropic.claude-code/open URI handler to open a new Claude…]]
+- Later: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-syntax-highlighting-in-diff-with-support-for-17-programming-languages|Syntax highlighting in /diff with support for 17 programming languages]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20gemini-cli-2026-03-11-4fcfde&body=Card%3A%20Changes%2FGemini%20CLI%2F2026-03-11-document-node-limitation-for-shift-tab-by-scidomino-in-https-github-com-google-g.md%0ACard%20ID%3A%20gemini-cli-2026-03-11-4fcfde%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fgoogle-gemini%2Fgemini-cli%2Freleases%2Ftag%2Fv0.33.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -11,12 +11,13 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v1
 impact: paradigm-shift
-machine_hash: 1cc025b38a0b64f2a5f9e3a6924b959f17c59ad5ed794eb54d6bee51474a1ed0
+machine_hash: 19da7900c7a6fafa5cd89008c9f23bd321ac1a00e884b4aec780e9ae4b3b6685
 product: aider
 product_name: Aider
 related_changes:
 - '[[Changes/OpenHands/2023-06-21-agent-runtime-can-execute-shell-commands-in-a-sandbox|openhands-2023-06-21-ebc797]]'
 source_release: '[[Releases/Aider/2025-01-20-aider-2025-01-20-v0-72|aider-2025-01-20-v0-72]]'
+superseded: true
 theme: agent-mode
 type: change
 ---

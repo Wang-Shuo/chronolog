@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 572aa8b1dd8380e7ad3e15217439de5c621ad6b087b192e7c770ef875a74e1e3
+machine_hash: d9ad9657c93f397c098e9bdf53e38292b75d3216033a3c53bff98160b6cf7c04
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,12 +47,12 @@ record:
   title: Expanded context window for Thinking
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-13-improved-rename-to-auto-generate-session-name-from-conversation-context-when-cal|Improved
-  /rename to auto-generate session name from conversation context…]]'
-- '[[Changes/Cursor/2026-02-17-agents-can-now-search-past-conversations-and-use-chat-history-as-context|Agents
-  can now search past conversations and use chat history as context]]'
+- '[[Changes/Codex CLI/2026-02-18-2-context-window-changes-in-rust-v0-104-0|2 Context
+  Window changes in rust-v0.104.0]]'
 - '[[Changes/Cursor/2026-02-18-cli-now-stores-conversation-transcripts-that-the-agent-can-use-as-context|CLI
   now stores conversation transcripts that the agent can use as context]]'
+- '[[Changes/Gemini CLI/2026-02-18-3-context-window-changes-in-v0-29-0|3 Context Window
+  changes in v0.29.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-20-expanded-context-window-for-thinking-31f2c4c2|chatgpt-2026-02-20-expanded-context-window-for-thinking-31f2c4c2]]'
 source_type: chatgpt_changelog
 theme: context-window
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-cli-now-stores-conversation-transcripts-that-the-agent-can-use-as-context|CLI now stores conversation transcripts that the agent can use as context]]
+- Earlier: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-3-context-window-changes-in-v0-29-0|3 Context Window changes in v0.29.0]]
 - Later: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-2-context-window-changes-in-v2-1-50|2 Context Window changes in v2.1.50]]
 <!-- chronolog:end -->
 

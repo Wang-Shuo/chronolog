@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e5ae50dde747ff4648af233abc7fbfba033828b36ab47270a0268b3ab2dc85fa
+machine_hash: 1e44c7b3b0cc8e1f2e9776cca0dc724f904cd11f532ebeb8f27181fd6df7c955
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,10 +48,9 @@ record:
     session…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-08-auto-update-binary-downloads-now-stream-to-disk-instead-of-buffering-in-memory-c|Auto-update
-  binary downloads now stream to disk instead of buffering in memory…]]'
 - '[[Changes/Claude Code/2026-07-14-3-reliability-and-performance-changes-in-v2-1-208|3
   Reliability and Performance changes in v2.1.208]]'
+- '[[Changes/Windsurf/2026-07-17-devin-cloud|Devin Cloud]]'
 - '[[Changes/Claude Code/2026-07-18-added-a-periodic-progress-heartbeat-for-long-running-tool-calls-that-previously|Added
   a periodic progress heartbeat for long-running tool calls that previously went…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d|claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d]]'
@@ -89,7 +88,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-07-18 · Claude Code · [[Changes/Claude Code/2026-07-18-added-a-periodic-progress-heartbeat-for-long-running-tool-calls-that-previously|Added a periodic progress heartbeat for long-running tool calls that previously went…]]
-- Later: 2026-08-10 · Claude Code · [[Changes/Claude Code/2026-08-10-improved-performance-fewer-event-loop-stalls-on-file-not-found-suggestions-and-a|Improved performance: fewer event-loop stalls on file-not-found suggestions…]]
+- Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-3-reliability-and-performance-changes-in-rust-v0-145-0|3 Reliability and Performance changes in rust-v0.145.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

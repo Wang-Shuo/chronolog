@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b28c859b94ef070c80f67a398df8c32f628a47abac9ea6eb4a54d59d0ebd0880
+machine_hash: 1025a0e5cc8cbecf426665a87a96305421a95c429c8c80f451e0a635eab484c7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -71,12 +71,12 @@ record:
   title: Fast answers in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-12-added-automemorydirectory-setting-to-configure-a-custom-directory-for-auto-memor|Added
-  autoMemoryDirectory setting to configure a custom directory for auto-memory…]]'
-- '[[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|Sunsetting
-  the “Nerdy” base style]]'
-- '[[Changes/Claude Code/2026-03-27-memory-filenames-in-the-saved-n-memories-notice-now-highlight-on-hover-and-open|Memory
-  filenames in the "Saved N memories" notice now highlight on hover and open on click]]'
+- '[[Changes/Codex CLI/2026-04-15-9-memory-and-personalization-changes-in-rust-v0-121-0|9
+  Memory and Personalization changes in rust-v0.121.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-16-custom-instructions-and-skills-refresh-from-disk-after-clear-or-new|Custom
+  instructions and skills refresh from disk after /clear or /new]]'
+- '[[Changes/Codex CLI/2026-04-20-4-memory-and-personalization-changes-in-rust-v0-122-0|4
+  Memory and Personalization changes in rust-v0.122.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-22-fast-answers-in-chatgpt-300ebea9|chatgpt-2026-04-22-fast-answers-in-chatgpt-300ebea9]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -103,8 +103,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-memory-filenames-in-the-saved-n-memories-notice-now-highlight-on-hover-and-open|Memory filenames in the "Saved N memories" notice now highlight on hover and open on click]]
-- Later: 2026-05-05 · ChatGPT · [[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Memory sources and more personalized responses in ChatGPT]]
+- Earlier: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-4-memory-and-personalization-changes-in-rust-v0-122-0|4 Memory and Personalization changes in rust-v0.122.0]]
+- Later: 2026-04-23 · Codex CLI · [[Changes/Codex CLI/2026-04-23-18973-chore-prep-memories-for-ab-jif-oai|♯18973 chore: prep memories for AB @jif-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

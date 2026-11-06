@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2efb687fdfe031d621a2aa5e5d6931ba7ce109924d51a012bb1bb13aa0891abb
+machine_hash: 6627d99bc3bd204f12723631ca8581465ea4e054b57bf6e571a5ae0755943ff7
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     calls/hour
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-now-join-google-drive-in-chatgpt-library-once-connect|Box,
-  Dropbox, and SharePoint now join Google Drive in ChatGPT Library]]'
-- '[[Changes/Claude Code/2026-09-23-improved-deep-research-reliability-on-long-research-briefs-by-removing-unused-re|Improved
-  /deep-research reliability on long research briefs by removing unused…]]'
+- '[[Changes/Codex CLI/2026-09-25-2-search-and-browsing-changes-in-rust-v0-157-0|2
+  Search and Browsing changes in rust-v0.157.0]]'
 - '[[Changes/Claude Code/2026-10-01-improved-sdk-sessions-so-a-message-sent-with-priority-now-no-longer-cancels-a-ru|Improved
   SDK sessions so a message sent with priority "now" no longer cancels…]]'
+- '[[Changes/Codex CLI/2026-10-01-browse-older-tasks-in-the-agent-command-center-with-a-keyboard-accessible-show-m|Browse
+  older tasks in the agent command center with a keyboard-accessible…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6|claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6]]'
 source_type: github_releases
 theme: search-browsing
@@ -91,7 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-improved-sdk-sessions-so-a-message-sent-with-priority-now-no-longer-cancels-a-ru|Improved SDK sessions so a message sent with priority "now" no longer cancels…]]
+- Earlier: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-browse-older-tasks-in-the-agent-command-center-with-a-keyboard-accessible-show-m|Browse older tasks in the agent command center with a keyboard-accessible…]]
+- Later: 2026-10-07 · Codex CLI · [[Changes/Codex CLI/2026-10-07-3-search-and-browsing-changes-in-rust-v0-161-0|3 Search and Browsing changes in rust-v0.161.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

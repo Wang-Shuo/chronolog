@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6057087653d9df2f79da951f970d720c218c42cc314d2fc3d9d53159890e1379
+machine_hash: 5b2867cb91c1fa3667cf403f977bcebc42f8eacd96ca3071f1240f31801489b4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -73,12 +73,12 @@ record:
   title: Releasing GPT-4.1 in ChatGPT for all paid users
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-04-16-today-we-re-releasing-openai-o3-and-o4-mini-the-latest-in-our-o-series-of-models|o3
-  and o4-mini in ChatGPT]]'
-- '[[Changes/ChatGPT/2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories|Improvements
-  to GPT-4o]]'
-- '[[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|Updates
-  to GPT-4o]]'
+- '[[Changes/Cline/2025-05-10-7-model-support-changes-in-v3-15-0|7 Model Support changes
+  in v3.15.0]]'
+- '[[Changes/Cline/2025-05-12-update-gemini-in-openrouter-cline-providers-to-use-implicit-caching|Update
+  Gemini in OpenRouter/Cline providers to use implicit caching]]'
+- '[[Changes/OpenHands/2025-05-12-enabled-prompt-caching-for-claude-3-7-sonnet-model-through-openrouter-by-polly20|Enabled
+  prompt caching for claude-3.7-sonnet model through OpenRouter]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-14-releasing-gpt-4-1-in-chatgpt-for-all-paid-users-ab6fd3aa|chatgpt-2025-05-14-releasing-gpt-4-1-in-chatgpt-for-all-paid-users-ab6fd3aa]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -105,7 +105,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-04-29 · ChatGPT · [[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|Updates to GPT-4o]]
+- Earlier: 2025-05-12 · OpenHands · [[Changes/OpenHands/2025-05-12-enabled-prompt-caching-for-claude-3-7-sonnet-model-through-openrouter-by-polly20|Enabled prompt caching for claude-3.7-sonnet model through OpenRouter]]
 - Later: 2025-05-14 · ChatGPT · [[Changes/ChatGPT/2025-05-14-gpt-4-1-mini-is-a-fast-capable-and-efficient-small-model-delivering-significant-722b7d|Introducing GPT-4.1 mini, replacing GPT-4o mini, in ChatGPT for all users]]
 <!-- chronolog:end -->
 

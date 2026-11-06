@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 4308d28ea316f03b711db7010bc57490ffeceb2d27391522c4e147da20e5ac64
+machine_hash: 3574560a4b2e068b8fa77596b6318dea3b7aaa9c90118158dfad3b21b8d86762
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     showed…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-13-agents-do-their-best-work-when-they-start-in-a-ready-environment-repos-cloned-de-6161c7|Agents
-  do their best work when they start in a ready environment]]'
 - '[[Changes/Cursor/2026-08-13-when-a-bad-commit-or-dependency-update-breaks-your-environment-agents-keep-using|More
   resilient agent runs]]'
+- '[[Changes/OpenHands/2026-08-13-chore-enforce-typed-openhands-typescript-client-for-agent-server-api-calls-no-ad|chore:
+  enforce typed @openhands/typescript-client for agent-server API calls…]]'
 - '[[Changes/Claude Code/2026-08-14-improved-claude-self-hosted-runner-session-start-time-the-session-branch-is-now|Improved
   claude self-hosted-runner session start time]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673|claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673]]'

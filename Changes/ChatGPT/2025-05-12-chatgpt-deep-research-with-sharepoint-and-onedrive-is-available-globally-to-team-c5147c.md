@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4c5b71bcd9ee007fc16d5d81f3a7212ad3c2eb3a3f6602df9488a2b8dd61e76e
+machine_hash: 89644cc8513e7b66e056b35eef030c65b79ca978fa5adcd5120194ed660b5124
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,8 +49,8 @@ record:
   title: Microsoft SharePoint and OneDrive connector for deep research for Plus/Pro/Team
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-web-search-agent-can-now-automatically-search-the-web-for-up-to-date-information|Web
-  search: Agent can now automatically search the web for up-to-date information…]]'
+- '[[Changes/Cline/2025-04-08-use-your-local-chrome-browser-for-session-based-browsing-enabling-debugging-and|Use
+  your local Chrome browser for session-based browsing, enabling debugging…]]'
 - '[[Changes/ChatGPT/2025-05-08-chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also-ad2e25|GitHub
   connector for deep research for Plus/Pro/Team]]'
 - '[[Changes/ChatGPT/2025-05-12-you-can-now-export-your-deep-research-reports-as-well-formatted-pdfs-complete-wi-87a3fa|Export

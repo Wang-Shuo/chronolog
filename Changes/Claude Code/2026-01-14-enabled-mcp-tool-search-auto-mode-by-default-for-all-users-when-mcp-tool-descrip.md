@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 205df10431c612c64289fa84af3dd463755613a897c636d8c41de050ba6a49b8
+machine_hash: 148d71c27e09cdac32e8b444ad224902354a83aec80355d43d23c3c47babf177
 product: claude-code
 product_name: Claude Code
 record:
@@ -63,11 +63,12 @@ record:
   title: Enabled MCP tool search auto mode by default for all users
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-18-conversation-insights-2efafc|Conversation insights]]'
-- '[[Changes/Claude Code/2025-12-19-improved-context-command-visualization-with-grouped-skills-and-agents-by-source|Improved
-  /context command visualization with grouped skills and agents by source…]]'
+- '[[Changes/Gemini CLI/2026-01-07-add-core-tool-that-adds-all-context-from-the-core-package-by-jacob314-in-https-g|Add
+  core tool that adds all context from the core package]]'
 - '[[Changes/Claude Code/2026-01-13-added-context-window-used-percentage-and-context-window-remaining-percentage-fie|Added
   context_window.used_percentage and context_window.remaining_percentage…]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-13-auto-compaction-runs-in-background-without-blocking-the-conversation|Auto-compaction
+  runs in background without blocking the conversation]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80|claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80]]'
 source_type: github_releases
 theme: context-window
@@ -100,8 +101,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-added-context-window-used-percentage-and-context-window-remaining-percentage-fie|Added context_window.used_percentage and context_window.remaining_percentage…]]
-- Later: 2026-01-16 · Claude Code · [[Changes/Claude Code/2026-01-16-added-auto-n-syntax-for-configuring-the-mcp-tool-search-auto-enable-threshold-wh|Added auto:N syntax for configuring the MCP tool search auto-enable threshold…]]
+- Earlier: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-auto-compaction-runs-in-background-without-blocking-the-conversation|Auto-compaction runs in background without blocking the conversation]]
+- Later: 2026-01-14 · Gemini CLI · [[Changes/Gemini CLI/2026-01-14-2-context-window-changes-in-v0-24-0|2 Context Window changes in v0.24.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

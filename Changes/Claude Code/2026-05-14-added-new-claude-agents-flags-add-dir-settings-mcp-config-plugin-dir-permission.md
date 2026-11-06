@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b67660d0a0721fe3fda81ad5d076db208a60be2dcd18733bc0bfb8e6b648bb2d
+machine_hash: 6dc905796ee18eed5eaeecfa3fc256b4fa1f36e0a6697d37c81e4fc59ba5183b
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,8 +62,8 @@ record:
   title: Added new `claude agents` flags
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-11-fixed-skill-name-permission-rules-the-wildcard-form-now-works-as-a-prefix-match|Fixed
-  Skill(name ) permission rules]]'
+- '[[Changes/Gemini CLI/2026-05-12-3-safety-and-privacy-changes-in-v0-42-0|3 Safety
+  and Privacy changes in v0.42.0]]'
 - '[[Changes/Claude Code/2026-05-13-5-safety-and-privacy-changes-in-v2-1-141|5 Safety
   and Privacy changes in v2.1.141]]'
 - '[[Changes/Cursor/2026-05-13-environment-governance-and-security-controls|Environment

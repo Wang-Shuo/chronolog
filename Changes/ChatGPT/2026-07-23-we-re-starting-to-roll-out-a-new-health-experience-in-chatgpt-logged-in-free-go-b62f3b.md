@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c53f179d0e7f53341a2cbc0027c63f8e31484eb693afe150a54147755e973b41
+machine_hash: 35c5d2bda27817b0bc77c9147bf22f4f83473b20e6878744e9c7172950fe4998
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,12 +60,12 @@ record:
   title: We’re starting to roll out a new health experience in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u|Personal
-  finance in ChatGPT expands to Plus users and Android]]'
-- '[[Changes/Claude Code/2026-06-29-added-clickable-file-attachments-in-chat-cmd-ctrl-click-reveals-the-file-in-find|Added
-  clickable file attachments in chat]]'
 - '[[Changes/Claude Code/2026-07-15-claude-in-chrome-hardened-file-upload-path-validation|Claude
   in Chrome: hardened file-upload path validation]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-16-add-canvas-support-in-the-cli-for-extension-driven-interactions|Add
+  canvas support in the CLI for extension-driven interactions]]'
+- '[[Changes/Codex CLI/2026-07-21-33167-document-the-windows-exec-yield-time-range-copyberry|♯33167
+  Document the Windows exec yield time range @copyberry]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6|chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6]]'
 source_type: chatgpt_changelog
 theme: file-data
@@ -96,8 +96,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-claude-in-chrome-hardened-file-upload-path-validation|Claude in Chrome: hardened file-upload path validation]]
-- Later: 2026-08-07 · ChatGPT · [[Changes/ChatGPT/2026-08-07-we-ve-made-it-easier-to-bring-documents-and-saved-files-into-your-conversations|ChatGPT makes it easier to bring documents and saved files into your conversations…]]
+- Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-33167-document-the-windows-exec-yield-time-range-copyberry|♯33167 Document the Windows exec yield time range @copyberry]]
+- Later: 2026-07-28 · OpenHands · [[Changes/OpenHands/2026-07-28-migrated-from-https-github-com-openhands-agent-canvas-releases-tag-v1-6-1-to-see|Migrated from (source link) to seed…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

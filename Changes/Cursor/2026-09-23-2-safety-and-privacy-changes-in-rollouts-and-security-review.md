@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e46426e20846c087d985683fef6a002ea454208426a921f916685295354bbd5f
+machine_hash: 50da542bc9a88431078378764a3bf38b75e71dbc8edc08f3943f2f1aab9ce82b
 product: cursor
 product_name: Cursor
 record:
@@ -48,10 +48,10 @@ record:
   title: 2 Safety and Privacy changes in Rollouts and Security Review
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-21-privacy-center-is-rolling-out-to-signed-in-chatgpt-free-go-plus-and-pro-users-it-0d2f36|Privacy
-  Center in ChatGPT]]'
-- '[[Changes/Claude Code/2026-09-22-2-safety-and-privacy-changes-in-v2-1-280|2 Safety
-  and Privacy changes in v2.1.280]]'
+- '[[Changes/Codex CLI/2026-09-22-50-safety-and-privacy-changes-in-rust-v0-156-0|50
+  Safety and Privacy changes in rust-v0.156.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-22-2-safety-and-privacy-changes-in-v1-0-88|2
+  Safety and Privacy changes in v1.0.88]]'
 - '[[Changes/Claude Code/2026-09-23-12-safety-and-privacy-changes-in-v2-1-281|12 Safety
   and Privacy changes in v2.1.281]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb|cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb]]'

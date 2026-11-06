@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a53bcf37827281f7bbdcb1b926203d19e57b26d0d5a1f4aa76fad418c4ee5542
+machine_hash: 954ef8093a68817e20c2d6816e7e8935471df2a0d44e27f2209ba9eb833c51e0
 product: claude-code
 product_name: Claude Code
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-2-interface-experience-changes-in-v2-1-210|2 Interface Experience changes in v2.1.210]]
-- Later: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-typing-resume-in-the-agent-view-now-opens-a-picker-of-past-sessions-including-se|Typing /resume in the agent view now opens a picker of past sessions]]
+- Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-5-interface-experience-changes-in-v1-0-71|5 Interface Experience changes in v1.0.71]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

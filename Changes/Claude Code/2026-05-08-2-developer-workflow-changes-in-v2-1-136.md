@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 58b93d577f303e8ea01af01f906129cf4ad95f040c8d627783ba6f49e1d711e8
+machine_hash: 15c463c8f07abb39cf269baa34d64513a1dd7b960f68019e6b7a7ba65cc7e8af
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Developer Workflow changes in v2.1.136
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-07-added-worktree-baseref-setting-fresh-head-to-choose-whether-worktree-enterworktr|Added
-  worktree.baseRef setting (fresh  /  head) to choose whether --worktree…]]'
+- '[[Changes/Codex CLI/2026-05-07-5-developer-workflow-changes-in-rust-v0-129-0|5
+  Developer Workflow changes in rust-v0.129.0]]'
 - '[[Changes/Cursor/2026-05-07-pr-review|PR review]]'
 - '[[Changes/Cursor/2026-05-07-this-release-introduces-a-new-pr-review-experience-faster-execution-on-plans-thr|Cursor
   introduces a new PR review experience, faster execution on plans through…]]'
@@ -86,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.136
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-07 · Cursor · [[Changes/Cursor/2026-05-07-this-release-introduces-a-new-pr-review-experience-faster-execution-on-plans-thr|Cursor introduces a new PR review experience, faster execution on plans through…]]
-- Later: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-added-hook-args-string-field-exec-form-that-spawns-the-command-directly-without|Added hook args: string field (exec form) that spawns the command directly…]]
+- Later: 2026-05-08 · Codex CLI · [[Changes/Codex CLI/2026-05-08-added-configurable-opentelemetry-trace-metadata-and-richer-review-feedback-analy|Added configurable OpenTelemetry trace metadata and richer review/feedback analytics…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

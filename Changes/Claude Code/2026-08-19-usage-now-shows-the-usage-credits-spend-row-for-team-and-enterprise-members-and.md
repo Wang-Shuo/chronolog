@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 8d7d86f9d6715bed76a30d05173104ce7a9cdacb95e59d963edaf422090f9236
+machine_hash: 7798736cbd276144957a1379b1e7d34c007aa464b924c8f533ef1742ecd837c6
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,11 @@ record:
   title: '`/usage` now shows the usage-credits spend row for Team and Enterprise members…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-28-we-re-introducing-cursor-start-a-new-649-monthly-plan-for-developers-in-india-ma|Cursor
-  introduces Cursor Start, a new ₹649 monthly plan for developers in India…]]'
-- '[[Changes/ChatGPT/2026-07-29-research-rarely-happens-alone-chatgpt-for-academic-researchers-gives-faculty-and|ChatGPT
-  for Academic Researchers]]'
-- '[[Changes/Claude Code/2026-08-04-changed-fast-mode-to-report-on-the-stream-when-usage-credits-run-out-mid-session|Changed
-  fast mode to report on the stream when usage credits run out mid-session…]]'
+- '[[Changes/Windsurf/2026-08-10-devin-cloud|Devin Cloud]]'
+- '[[Changes/Cline/2026-08-11-report-fable-5-cost-on-vertex-as-unknown-rather-than-applying-anthropic-s-list-p|Report
+  Fable 5 cost on Vertex as unknown rather than applying Anthropic''s list…]]'
+- '[[Changes/Codex CLI/2026-08-18-38650-canonicalize-default-namespaces-in-grpc-subscription-filters-copyberry|♯38650
+  Canonicalize default namespaces in gRPC subscription filters @copyberry]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79|claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79]]'
 source_type: github_releases
 theme: pricing-model
@@ -95,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-changed-fast-mode-to-report-on-the-stream-when-usage-credits-run-out-mid-session|Changed fast mode to report on the stream when usage credits run out mid-session…]]
-- Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-persistent-retry-mode-claude-code-retry-watchdog-now-fails-immediately-on-organi|Persistent retry mode (CLAUDE_CODE_RETRY_WATCHDOG) now fails immediately…]]
+- Earlier: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-38650-canonicalize-default-namespaces-in-grpc-subscription-filters-copyberry|♯38650 Canonicalize default namespaces in gRPC subscription filters @copyberry]]
+- Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-39006-emit-api-key-turn-cost-telemetry-from-app-server-copyberry|♯39006 Emit API-key turn cost telemetry from app-server @copyberry]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

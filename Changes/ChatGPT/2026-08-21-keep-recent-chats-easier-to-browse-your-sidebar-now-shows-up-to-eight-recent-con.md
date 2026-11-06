@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5d6ade447ab982dcbf8e8944aa94c6b6be404c592bb4cfdd37b6e6934924dcbc
+machine_hash: 1878dfaff70dd077ce006990693f15908252d04f1e3c03e0c4be69d01770a97f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,12 +52,12 @@ record:
   title: Keep recent chats easier to browse
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-17-3-interface-experience-changes-in-v2-1-234|3 Interface
-  Experience changes in v2.1.234]]'
 - '[[Changes/Claude Code/2026-08-19-changed-the-model-picker-to-highlight-only-the-newest-model-s-name-so-the-highli|Changed
   the /model picker to highlight only the newest model''s name…]]'
 - '[[Changes/Claude Code/2026-08-20-changed-ctrl-l-and-cmd-k-in-fullscreen-to-always-just-repaint-the-double-press-c|Changed
   Ctrl+L and Cmd+K in fullscreen to always just repaint]]'
+- '[[Changes/Codex CLI/2026-08-20-3-interface-experience-changes-in-rust-v0-149-0|3
+  Interface Experience changes in rust-v0.149.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-21-updates-to-chatgpt-on-android-8e3bdeee|chatgpt-2026-08-21-updates-to-chatgpt-on-android-8e3bdeee]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-changed-ctrl-l-and-cmd-k-in-fullscreen-to-always-just-repaint-the-double-press-c|Changed Ctrl+L and Cmd+K in fullscreen to always just repaint]]
+- Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-3-interface-experience-changes-in-rust-v0-149-0|3 Interface Experience changes in rust-v0.149.0]]
 - Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-3-interface-experience-changes-in-v2-1-239|3 Interface Experience changes in v2.1.239]]
 <!-- chronolog:end -->
 

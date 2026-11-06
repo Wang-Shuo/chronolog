@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 78e2cd8f452d8d252d03592cf0678b7bf4b23a5051336f186fdcc9ba9a19b34e
+machine_hash: 67b85e93e8a1c6eefefd257940c0dde8be764ae90ddff2af130a709483ba935e
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     other…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-01-default-off-users-can-discover-and-opt-in|Default Off:
-  users can discover and opt in]]'
-- '[[Changes/Claude Code/2026-05-04-sdk-hosts-now-receive-a-persistent-localsettings-suggestion-for-bash-permission|SDK
-  hosts now receive a persistent localSettings suggestion for Bash permission…]]'
+- '[[Changes/Gemini CLI/2026-05-05-feat-cli-secure-env-loading-and-enforce-workspace-trust-in-headless-mode-by-ehed|feat(cli):
+  secure .env loading and enforce workspace trust in headless mode]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-05-memory-tool-confirmation-prompt-now-shows-the-scope-repository-or-user-when-requ|Memory
+  tool confirmation prompt now shows the scope (repository or user)…]]'
 - '[[Changes/Claude Code/2026-05-06-fixed-permission-mode-flag-being-ignored-when-resuming-a-plan-mode-session-with|Fixed
   --permission-mode flag being ignored when resuming a plan-mode session…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f|claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-fixed-permission-mode-flag-being-ignored-when-resuming-a-plan-mode-session-with|Fixed --permission-mode flag being ignored when resuming a plan-mode session…]]
-- Later: 2026-05-07 · ChatGPT · [[Changes/ChatGPT/2026-05-07-over-the-coming-weeks-we-ll-be-rolling-out-trusted-contact-an-optional-safety-fe|Trusted contact in ChatGPT]]
+- Later: 2026-05-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-06-protect-against-rce-from-malicious-bare-repositories-nested-inside-a-project-for|Protect against RCE from malicious bare repositories nested inside a project…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

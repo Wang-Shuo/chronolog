@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e5ffc7158d481438479bb69163b22ad89541829e08a7de25518417bec273c95c
+machine_hash: 1aca7de3d88b2505aa4e42712ea893d07e07d35f3d1627044a2676eac1ff9c88
 product: cursor
 product_name: Cursor
 record:
@@ -47,9 +47,10 @@ record:
   title: Debug Mode in CLI
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-08-bugbot-learned-rules-9e5cac|Bugbot Learned Rules]]'
-- '[[Changes/Claude Code/2026-04-09-6-developer-workflow-changes-in-v2-1-98|6 Developer
-  Workflow changes in v2.1.98]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-10-terminal-state-alt-screen-cursor-raw-mode-is-restored-correctly-after-cli-crashe|Terminal
+  state (alt screen, cursor, raw mode) is restored correctly after CLI…]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-10-2-developer-workflow-changes-in-v1-0-23|2
+  Developer Workflow changes in v1.0.23]]'
 - '[[Changes/Claude Code/2026-04-13-2-developer-workflow-changes-in-v2-1-105|2 Developer
   Workflow changes in v2.1.105]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a|cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a]]'
@@ -87,7 +88,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-13 · Claude Code · [[Changes/Claude Code/2026-04-13-2-developer-workflow-changes-in-v2-1-105|2 Developer Workflow changes in v2.1.105]]
-- Later: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-bash-tool-now-enforces-the-documented-maximum-timeout-instead-of-accepting-arbit|Bash tool now enforces the documented maximum timeout instead of accepting…]]
+- Later: 2026-04-14 · Gemini CLI · [[Changes/Gemini CLI/2026-04-14-4-developer-workflow-changes-in-v0-38-0|4 Developer Workflow changes in v0.38.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

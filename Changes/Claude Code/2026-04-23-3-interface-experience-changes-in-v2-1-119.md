@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f3c8588cfff8693f9084182ef57d6c73d07537dcd9bdccb3788ceb2f6581b01c
+machine_hash: 7a9d8cf6417f022661c833889fb1cdce4b84f0bf080ae4f2b462e9b3fc5777f6
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Interface Experience changes in v2.1.119
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-16-3-interface-experience-changes-in-v2-1-111|3 Interface
-  Experience changes in v2.1.111]]'
-- '[[Changes/Claude Code/2026-04-17-3-interface-experience-changes-in-v2-1-113|3 Interface
-  Experience changes in v2.1.113]]'
 - '[[Changes/Claude Code/2026-04-20-3-interface-experience-changes-in-v2-1-116|3 Interface
   Experience changes in v2.1.116]]'
+- '[[Changes/Codex CLI/2026-04-20-2-interface-experience-changes-in-rust-v0-122-0|2
+  Interface Experience changes in rust-v0.122.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-20-4-interface-experience-changes-in-v1-0-33|4
+  Interface Experience changes in v1.0.33]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-119-github-312949780-573724e7|claude-code-2026-04-23-v2-1-119-github-312949780-573724e7]]'
 source_type: github_releases
 theme: interface-experience
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.119
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-20 · Claude Code · [[Changes/Claude Code/2026-04-20-3-interface-experience-changes-in-v2-1-116|3 Interface Experience changes in v2.1.116]]
+- Earlier: 2026-04-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-20-4-interface-experience-changes-in-v1-0-33|4 Interface Experience changes in v1.0.33]]
 - Later: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-2-interface-experience-changes-in-v2-1-118|2 Interface Experience changes in v2.1.118]]
 <!-- chronolog:end -->
 

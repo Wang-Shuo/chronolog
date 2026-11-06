@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 591a24a1d4056db584a5041609b5b3a655e4e49b90909aeed4182897a69afee3
+machine_hash: 7f4ae1439502ed83aad51ba7ce9bca2a58c2be2217fcdab2f4dfe4d5aee39cd8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,12 +51,12 @@ record:
   title: Personal finance in ChatGPT expands to Plus users and Android
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-0-1-6-release-and-analytics-cursor-sdk-0-1-6-documents-the-buildkite-release-pat|0.1.6
-  release and analytics]]'
-- '[[Changes/ChatGPT/2026-06-08-interactive-charts-in-answers-chatgpt-can-now-turn-some-answers-into-rich-and-in|Interactive
-  charts in answers]]'
-- '[[Changes/ChatGPT/2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo|Full-screen
-  writing blocks for longer-form work]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-16-recover-from-unreadable-native-document-attachments-by-falling-back-to-file-path|Recover
+  from unreadable native document attachments by falling back to file-path uploads]]'
+- '[[Changes/Codex CLI/2026-06-22-29086-document-raw-response-item-compatibility-jif-oai|♯29086
+  Document raw response item compatibility @jif-oai]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-23-preserve-open-canvas-instances-across-reconnects-and-restarts|Preserve
+  open canvas instances across reconnects and restarts]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-26-personal-finance-in-chatgpt-expands-to-plus-users-and-android-e1f9ce56|chatgpt-2026-06-26-personal-finance-in-chatgpt-expands-to-plus-users-and-android-e1f9ce56]]'
 source_type: chatgpt_changelog
 theme: file-data
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-06-08 · ChatGPT · [[Changes/ChatGPT/2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo|Full-screen writing blocks for longer-form work]]
+- Earlier: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-preserve-open-canvas-instances-across-reconnects-and-restarts|Preserve open canvas instances across reconnects and restarts]]
 - Later: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-added-clickable-file-attachments-in-chat-cmd-ctrl-click-reveals-the-file-in-find|Added clickable file attachments in chat]]
 <!-- chronolog:end -->
 

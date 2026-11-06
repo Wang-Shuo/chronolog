@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e59a47feb5824c1ffa9ca3b85785b0d6da20f72e78e67f494d26e3375ee15411
+machine_hash: d0ad0c7e8ecd1c629c0acb3a72a8c509b1675a89b85e1fd1d879fee1366a19d2
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,9 @@ record:
   title: Added `wheelScrollAccelerationEnabled` setting to disable mouse-wheel scroll…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-08-2-interface-experience-changes-in-v2-1-169|2 Interface
-  Experience changes in v2.1.169]]'
 - '[[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed-b05795|We’re
   updating the model picker to make it easier to choose the balance of speed…]]'
+- '[[Changes/Windsurf/2026-06-10-agent-and-editor-modes|Agent and Editor modes]]'
 - '[[Changes/Claude Code/2026-06-12-added-footerlinksregexes-setting-for-regex-matched-link-badges-in-the-footer-row|Added
   footerLinksRegexes setting for regex-matched link badges in the footer row…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-12-v2-1-174-github-338280944-f2fd4f4d|claude-code-2026-06-12-v2-1-174-github-338280944-f2fd4f4d]]'
@@ -77,7 +76,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-added-footerlinksregexes-setting-for-regex-matched-link-badges-in-the-footer-row|Added footerLinksRegexes setting for regex-matched link badges in the footer row…]]
-- Later: 2026-06-17 · ChatGPT · [[Changes/ChatGPT/2026-06-17-a-new-scheduled-page-discoverable-in-the-sidebar-gives-users-one-place-to-view-a|A new Scheduled page, discoverable in the sidebar, gives users one place to view…]]
+- Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-3-interface-experience-changes-in-v1-0-62|3 Interface Experience changes in v1.0.62]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

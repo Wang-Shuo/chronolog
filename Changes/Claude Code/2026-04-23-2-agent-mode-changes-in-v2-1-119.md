@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1ef00a9f3f72148230eaf1fffbdbc3e29e4d4f4c4bdcabfd42ce1d0151beb9f3
+machine_hash: 658b14f09a192c6ffb25181f0bacbb86db9f345d93a639a809257bf439aef9c6
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Agent Mode changes in v2.1.119
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-20-2-agent-mode-changes-in-v2-1-116|2 Agent Mode
-  changes in v2.1.116]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-20-2-agent-mode-changes-in-v1-0-33|2 Agent
+  Mode changes in v1.0.33]]'
 - '[[Changes/Claude Code/2026-04-22-2-agent-mode-changes-in-v2-1-117|2 Agent Mode
   changes in v2.1.117]]'
 - '[[Changes/Claude Code/2026-04-23-2-agent-mode-changes-in-v2-1-118|2 Agent Mode
@@ -88,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.119
 ## Nearby in Agent Mode
 
 - Earlier: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-2-agent-mode-changes-in-v2-1-118|2 Agent Mode changes in v2.1.118]]
-- Later: 2026-04-24 · Cursor · [[Changes/Cursor/2026-04-24-multi-root-workspaces-in-agents-window|Multi-root workspaces in Agents Window]]
+- Later: 2026-04-23 · Codex CLI · [[Changes/Codex CLI/2026-04-23-8-agent-mode-changes-in-rust-v0-123-0|8 Agent Mode changes in rust-v0.123.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

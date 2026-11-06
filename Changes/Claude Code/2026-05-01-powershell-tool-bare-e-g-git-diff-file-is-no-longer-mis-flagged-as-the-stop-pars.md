@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 329a493cc68387d04a47333ca913d60ae435b984c77fe63e87ec8ddbe03eb08b
+machine_hash: 514f884fdfd7b13f9a2444d3062eef9f1456e05949626afb925cd277e47f30f2
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 'PowerShell tool: bare `--` (e.g. `git diff -- file`) is no longer mis-flagged…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-20-2-editor-experience-changes-in-v2-1-116|2 Editor
-  Experience changes in v2.1.116]]'
-- '[[Changes/Claude Code/2026-04-23-config-settings-theme-editor-mode-verbose-etc-now-persist-to-claude-settings-jso|/config
-  settings (theme, editor mode, verbose, etc.) now persist…]]'
-- '[[Changes/Claude Code/2026-04-23-merged-cost-and-stats-into-usage-both-remain-as-typing-shortcuts-that-open-the-r|Merged
-  /cost and /stats into /usage]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-24-2-editor-experience-changes-in-v1-0-36|2
+  Editor Experience changes in v1.0.36]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-27-add-copilot-completion-bash-zsh-fish-subcommand-to-generate-static-shell-complet|Add
+  copilot completion bash / zsh / fish subcommand to generate static shell…]]'
+- '[[Changes/Codex CLI/2026-04-30-20045-fix-plan-mode-nudge-test-after-task-completion-signature-change-canvrno-oa|♯20045
+  Fix plan mode nudge test after task completion signature change @canvrno-oai]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb|claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb]]'
 source_type: github_releases
 theme: editor-experience
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-merged-cost-and-stats-into-usage-both-remain-as-typing-shortcuts-that-open-the-r|Merged /cost and /stats into /usage]]
+- Earlier: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-20045-fix-plan-mode-nudge-test-after-task-completion-signature-change-canvrno-oa|♯20045 Fix plan mode nudge test after task completion signature change @canvrno-oai]]
 - Later: 2026-05-04 · Cursor · [[Changes/Cursor/2026-05-04-updated-usage-analytics-tab|Updated usage analytics tab]]
 <!-- chronolog:end -->
 

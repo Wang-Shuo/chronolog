@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 067d780b9d91affb352d71a69527b92a3484363f12ce590a4590efc8bc54568d
+machine_hash: 68c7a96e1c0da9f4dc80142ebea23b90eaa16e33c14c993717469674adec2ede
 product: cursor
 product_name: Cursor
 record:
@@ -54,10 +54,10 @@ record:
   title: Agent Tabs in the Editor
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-27-added-jj-and-sl-to-vcs-directory-exclusion-lists-so-grep-and-file-autocomplete-d|Added
-  .jj and .sl to VCS directory exclusion lists so Grep and file autocomplete…]]'
-- '[[Changes/Claude Code/2026-04-01-changed-edit-to-work-on-files-viewed-via-bash-with-sed-n-or-cat-without-requirin|Changed
-  Edit to work on files viewed via Bash with sed -n or cat, without…]]'
+- '[[Changes/Gemini CLI/2026-04-01-refactor-ide-replace-dynamic-undici-import-with-static-fetch-import-by-cocosheng|refactor(ide):
+  replace dynamic undici import with static fetch import]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-01-3-editor-experience-changes-in-v1-0-15|3
+  Editor Experience changes in v1.0.15]]'
 - '[[Changes/Cursor/2026-04-02-2-editor-experience-changes-in-3-0|2 Editor Experience
   changes in 3.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-changed-edit-to-work-on-files-viewed-via-bash-with-sed-n-or-cat-without-requirin|Changed Edit to work on files viewed via Bash with sed -n or cat, without…]]
+- Earlier: 2026-04-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-01-3-editor-experience-changes-in-v1-0-15|3 Editor Experience changes in v1.0.15]]
 - Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-removed-vim-command-toggle-vim-mode-via-config-editor-mode|Removed /vim command (toggle vim mode via /config → Editor mode)]]
 <!-- chronolog:end -->
 

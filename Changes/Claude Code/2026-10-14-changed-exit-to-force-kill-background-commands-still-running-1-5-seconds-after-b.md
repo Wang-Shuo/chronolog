@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9b92ac086ac371652b286dfd0ff295ed213b665fb127b4246e0f2316520b56fb
+machine_hash: 842ce3fbdc742b88efe3d84865ba728d3dfdd3ac23eef4b48a8faab7f299a7ef
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     after being…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-06-improved-the-focus-tip-it-now-invites-you-to-try-focus-view-mid-turn-and-shows-h|Improved
-  the /focus tip]]'
-- '[[Changes/Claude Code/2026-10-08-2-interface-experience-changes-in-v2-1-295|2 Interface
-  Experience changes in v2.1.295]]'
+- '[[Changes/OpenHands/2026-10-08-test-e2e-open-commits-from-the-tabs-pane-s-own-menu-by-enyst-in-https-github-com|test(e2e):
+  open Commits from the tabs pane''s own menu]]'
 - '[[Changes/Claude Code/2026-10-09-improved-fullscreen-mode-the-link-under-the-mouse-pointer-is-now-underlined-to-s|Improved
   fullscreen mode]]'
+- '[[Changes/OpenHands/2026-10-12-feat-add-compact-section-navigation-on-tablets-by-enyst-in-https-github-com-open|feat:
+  add compact section navigation on tablets]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
 source_type: github_releases
 theme: interface-experience
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-improved-fullscreen-mode-the-link-under-the-mouse-pointer-is-now-underlined-to-s|Improved fullscreen mode]]
+- Earlier: 2026-10-12 · OpenHands · [[Changes/OpenHands/2026-10-12-feat-add-compact-section-navigation-on-tablets-by-enyst-in-https-github-com-open|feat: add compact section navigation on tablets]]
 - Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-added-effort-and-fast-in-agent-view-to-set-what-new-sessions-start-with-a-bare-m|Added /effort and /fast in agent view to set what new sessions start with]]
 <!-- chronolog:end -->
 

@@ -1,0 +1,104 @@
+---
+card_id: cline-2024-08-15-94f4df
+date: '2024-08-15'
+description: 'Cline · 2024-08-15 · Model Support: Adds support for [Prompt Caching](https://www.anthropic.com/news/prompt-caching)
+  to reduce costs by up to 90% and latency…'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 584
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: model-support
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: significant
+kind: change
+machine_hash: b26c2c2f937d71434edde106ee88135b208edb210631d17f86c5c48db8635e67
+product: cline
+product_name: Cline
+record:
+  ai_generated: true
+  card_id: cline-2024-08-15-94f4df
+  comparison: ''
+  confidence: low
+  date: '2024-08-15'
+  description: 'Cline — v1.2.0: Adds support for [Prompt Caching](https://www.anthropic.com/news/prompt-caching)
+    to reduce costs by up to 90% and latency by up to 85% (currently only available
+    through Anthropic API for Claude 3.5 Sonnet and Claude 3.0 Haiku)'
+  evidence:
+  - quote: Adds support for [Prompt Caching](https://www.anthropic.com/news/prompt-caching)
+      to reduce costs by up to 90% and latency by up to 85% (currently only available
+      through Anthropic API for Claude 3.5 Sonnet and Claude 3.0 Haiku)
+    source_release: https://github.com/cline/cline/releases/tag/v1.2.0
+  extractor_version: fallback-v5
+  impact: significant
+  kind: change
+  product: cline
+  product_name: Cline
+  slug: adds-support-for-prompt-caching-https-www-anthropic-com-news-prompt-caching-to-r
+  source_release: cline-2024-08-15-v1-2-0-github-170317303-920d4774
+  source_type: github_releases
+  theme: model-support
+  theme_matches:
+  - matched_terms:
+    - claude 3
+    - sonnet
+    score: 110
+    theme: model-support
+  - matched_terms:
+    - latency
+    score: 50
+    theme: reliability-performance
+  theme_resolution: manual-semantic-rule-v2
+  title: Adds support for [Prompt Caching](https://www.anthropic.com/news/prompt-caching)…
+  type: change
+related_changes:
+- '[[Changes/Aider/2024-08-10-5-model-support-changes-in-v0-49-0|5 Model Support changes
+  in v0.49.0]]'
+- '[[Changes/Cline/2024-08-11-adds-option-to-choose-other-claude-models-gpt-4o-deepseek-and-mistral-if-you-use|Adds
+  option to choose other Claude models…]]'
+- '[[Changes/Aider/2024-08-13-infinite-output-for-deepseek-coder-mistral-models-in-addition-to-anthropic-s-mod|Infinite
+  output for DeepSeek Coder, Mistral models in addition to Anthropic''s models]]'
+source_release: '[[Releases/Cline/cline-2024-08-15-v1-2-0-github-170317303-920d4774|cline-2024-08-15-v1-2-0-github-170317303-920d4774]]'
+source_type: github_releases
+theme: model-support
+title: Adds support for Prompt Caching((source link)
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Adds support for [Prompt Caching](https://www.anthropic.com/news/prompt-caching)…
+
+**Cline** · 2024-08-15 · [[Themes/model-support|Model Support]] · [Official source](https://github.com/cline/cline/releases/tag/v1.2.0) · from [[Releases/Cline/cline-2024-08-15-v1-2-0-github-170317303-920d4774|v1.2.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Adds support for [Prompt Caching](https://www.anthropic.com/news/prompt-caching) to reduce costs by up to 90% and latency by up to 85% (currently only available through Anthropic API for Claude 3.5 Sonnet and Claude 3.0 Haiku)
+>
+> Source: https://github.com/cline/cline/releases/tag/v1.2.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Model Support
+
+- Earlier: 2024-08-13 · Aider · [[Changes/Aider/2024-08-13-infinite-output-for-deepseek-coder-mistral-models-in-addition-to-anthropic-s-mod|Infinite output for DeepSeek Coder, Mistral models in addition to Anthropic's models]]
+- Later: 2024-08-20 · Aider · [[Changes/Aider/2024-08-20-prompt-caching-for-anthropic-models-with-cache-prompts|Prompt caching for Anthropic models with --cache-prompts]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cline-2024-08-15-94f4df&body=Card%3A%20Changes%2FCline%2F2024-08-15-adds-support-for-prompt-caching-https-www-anthropic-com-news-prompt-caching-to-r.md%0ACard%20ID%3A%20cline-2024-08-15-94f4df%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fcline%2Fcline%2Freleases%2Ftag%2Fv1.2.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

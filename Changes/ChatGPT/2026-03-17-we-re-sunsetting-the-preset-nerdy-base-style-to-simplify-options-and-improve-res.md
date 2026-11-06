@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: c119bdce9298b4ceefa43d1e154756493a31c4d8a8db1c621705c9ff463602c8
+machine_hash: fff9c3a0ce9521378d74357d604afc32b59b2f87f05fd986a41b20123e7c2371
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,12 +46,12 @@ record:
   title: Sunsetting the “Nerdy” base style
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-26-claude-automatically-saves-useful-context-to-auto-memory-manage-with-memory|Claude
-  automatically saves useful context to auto-memory]]'
-- '[[Changes/Claude Code/2026-02-28-project-configs-auto-memory-now-shared-across-git-worktrees-of-the-same-reposito|Project
-  configs & auto memory now shared across git worktrees of the same repository]]'
-- '[[Changes/Claude Code/2026-03-12-added-automemorydirectory-setting-to-configure-a-custom-directory-for-auto-memor|Added
-  autoMemoryDirectory setting to configure a custom directory for auto-memory…]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-13-memory-storage-errors-now-indicate-when-repository-doesn-t-exist-or-you-lack-wri|Memory
+  storage errors now indicate when repository doesn''t exist or you lack write access]]'
+- '[[Changes/Codex CLI/2026-03-16-14493-memories-focus-write-prompts-on-user-preferences-andi-oai|♯14493
+  memories: focus write prompts on user preferences @andi-oai]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-16-custom-instruction-file-paths-load-correctly-when-using-copilot-custom-instructi|Custom
+  instruction file paths load correctly when using COPILOT_CUSTOM_INSTRUCTIONS_DIRS]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-17-sunsetting-the-nerdy-base-style-f0e6829f|chatgpt-2026-03-17-sunsetting-the-nerdy-base-style-f0e6829f]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-03-12 · Claude Code · [[Changes/Claude Code/2026-03-12-added-automemorydirectory-setting-to-configure-a-custom-directory-for-auto-memor|Added autoMemoryDirectory setting to configure a custom directory for auto-memory…]]
-- Later: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-memory-filenames-in-the-saved-n-memories-notice-now-highlight-on-hover-and-open|Memory filenames in the "Saved N memories" notice now highlight on hover and open on click]]
+- Earlier: 2026-03-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-16-custom-instruction-file-paths-load-correctly-when-using-copilot-custom-instructi|Custom instruction file paths load correctly when using COPILOT_CUSTOM_INSTRUCTIONS_DIRS]]
+- Later: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-docs-document-tool-exclusion-from-memory-via-deny-policy-by-abhijit-2592-in-http|docs: document tool exclusion from memory via deny policy]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

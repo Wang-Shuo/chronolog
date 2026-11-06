@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f6c2d035812b9c3b3a157934b81acaabaa528315b8148f1f56a29f898852b288
+machine_hash: 78a509fdbd09b3ec053a8c3134396cb1ece04493ffae7aa733f06c47d1956656
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,11 @@ record:
     includes…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-24-multitask-in-agents-window-9bc7ed|Multitask in Agents
-  Window]]'
-- '[[Changes/Claude Code/2026-04-28-2-agent-mode-changes-in-v2-1-121|2 Agent Mode
-  changes in v2.1.121]]'
-- '[[Changes/Cursor/2026-04-29-3-agent-mode-changes-in-build-programmatic-agents|3
-  Agent Mode changes in Build programmatic agents…]]'
+- '[[Changes/Windsurf/2026-04-29-devin-agent-in-windsurf|Devin Agent in Windsurf]]'
+- '[[Changes/Codex CLI/2026-04-30-19-agent-mode-changes-in-rust-v0-128-0|19 Agent
+  Mode changes in rust-v0.128.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-01-3-agent-mode-changes-in-v1-0-40|3 Agent
+  Mode changes in v1.0.40]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2|claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2]]'
 source_type: github_releases
 theme: agent-mode
@@ -83,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-29 · Cursor · [[Changes/Cursor/2026-04-29-3-agent-mode-changes-in-build-programmatic-agents|3 Agent Mode changes in Build programmatic agents…]]
-- Later: 2026-05-07 · Cursor · [[Changes/Cursor/2026-05-07-added-the-ability-to-control-explore-subagent-behavior-from-settings-choose-a-sp|Added the ability to control Explore subagent behavior from settings]]
+- Earlier: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-3-agent-mode-changes-in-v1-0-40|3 Agent Mode changes in v1.0.40]]
+- Later: 2026-05-05 · Gemini CLI · [[Changes/Gemini CLI/2026-05-05-feat-core-enhance-shell-command-validation-and-add-core-tools-allowlist-by-galz1|feat(core): enhance shell command validation and add core tools allowlist]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

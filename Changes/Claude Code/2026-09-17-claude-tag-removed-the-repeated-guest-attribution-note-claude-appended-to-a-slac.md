@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7296dcc30f3683206078ad77f4400dedf624cb27a83dd09e9dd6d0d30123acd1
+machine_hash: 6ed0dc13c788ebb7e0767ae4467aa552803a4de9b2a7f869e0c31c0047a57230
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     to a Slack…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-vscode-improved-documents-and-messages-written-for-someone-other-than-the-user-c|VSCode
-  Improved documents and messages written for someone other than the user]]'
 - '[[Changes/Claude Code/2026-09-14-2-files-and-data-changes-in-v2-1-271|2 Files and
   Data changes in v2.1.271]]'
 - '[[Changes/Claude Code/2026-09-15-improved-artifact-database-writes-an-update-can-now-remove-a-single-field-instea|Improved
   artifact database writes]]'
+- '[[Changes/OpenHands/2026-09-16-feat-track-authenticated-canvas-arrivals-by-neubig-in-https-github-com-openhands|feat:
+  track authenticated Canvas arrivals]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d|claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d]]'
 source_type: github_releases
 theme: file-data
@@ -93,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-improved-artifact-database-writes-an-update-can-now-remove-a-single-field-instea|Improved artifact database writes]]
-- Later: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-improved-prompt-audit-on-claude-code-configuration-stale-paths-stale-commands-an|Improved prompt-audit on Claude Code configuration]]
+- Earlier: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-feat-track-authenticated-canvas-arrivals-by-neubig-in-https-github-com-openhands|feat: track authenticated Canvas arrivals]]
+- Later: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-46027-document-and-test-wildcards-in-network-proxy-domain-patterns-viyatb-oai|♯46027 Document and test ? wildcards in network proxy domain patterns @viyatb-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f7088addf2f847db99a1517b47145223a8e73669f835b91c6d08bf2e85034fe6
+machine_hash: b0653ab3f2d629c85b321086987ef683c490683efd16c59de2e7e23636a882e5
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,12 @@ record:
   title: SDK hosts now receive a persistent `localSettings` suggestion for Bash permission…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-30-vulnerability-scanner-b19b70|Vulnerability Scanner]]'
 - '[[Changes/Claude Code/2026-05-01-3-safety-and-privacy-changes-in-v2-1-126|3 Safety
   and Privacy changes in v2.1.126]]'
 - '[[Changes/Cursor/2026-05-01-default-off-users-can-discover-and-opt-in|Default Off:
   users can discover and opt in]]'
+- '[[Changes/OpenHands/2026-05-01-added-sandbox-kvm-enabled-environment-variable-to-enable-passing-dev-kvm-to-sand|Added
+  SANDBOX_KVM_ENABLED environment variable to enable passing /dev/kvm to sandbox…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2|claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2]]'
 source_type: github_releases
 theme: safety-privacy
@@ -83,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-01 · Cursor · [[Changes/Cursor/2026-05-01-default-off-users-can-discover-and-opt-in|Default Off: users can discover and opt in]]
-- Later: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-fixed-permission-mode-flag-being-ignored-when-resuming-a-plan-mode-session-with|Fixed --permission-mode flag being ignored when resuming a plan-mode session…]]
+- Earlier: 2026-05-01 · OpenHands · [[Changes/OpenHands/2026-05-01-added-sandbox-kvm-enabled-environment-variable-to-enable-passing-dev-kvm-to-sand|Added SANDBOX_KVM_ENABLED environment variable to enable passing /dev/kvm to sandbox…]]
+- Later: 2026-05-05 · Gemini CLI · [[Changes/Gemini CLI/2026-05-05-feat-cli-secure-env-loading-and-enforce-workspace-trust-in-headless-mode-by-ehed|feat(cli): secure .env loading and enforce workspace trust in headless mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

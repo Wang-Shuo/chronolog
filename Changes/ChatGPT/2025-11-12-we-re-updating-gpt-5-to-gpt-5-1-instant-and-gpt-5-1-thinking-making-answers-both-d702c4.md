@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 74148a164d73826e7a228d65d3f0469a95be3c1375d3fd06c18c513086aef175
+machine_hash: d6fdd330e21cce7cfc63fceb5d102115df69d812baa5146df4dd8f77f745c11b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,9 +64,10 @@ record:
   title: GPT-5.1 in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-plan-mode-in-background|Plan Mode in Background]]'
-- '[[Changes/ChatGPT/2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to|Interrupt
-  ChatGPT]]'
+- '[[Changes/Gemini CLI/2025-11-07-4-model-support-changes-in-v0-13-0|4 Model Support
+  changes in v0.13.0]]'
+- '[[Changes/Codex CLI/2025-11-09-6351-promote-shell-config-tool-to-model-family-config|♯6351
+  – Promote shell config tool to model family config]]'
 - '[[Changes/ChatGPT/2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th-d3a253|New
   tone and personalization controls]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-12-gpt-5-1-in-chatgpt-3b83bb2f|chatgpt-2025-11-12-gpt-5-1-in-chatgpt-3b83bb2f]]'
@@ -96,7 +97,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-11-12 · ChatGPT · [[Changes/ChatGPT/2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th-d3a253|New tone and personalization controls]]
-- Later: 2025-11-19 · ChatGPT · [[Changes/ChatGPT/2025-11-19-today-we-re-updating-gpt-5-pro-to-gpt-5-1-pro-in-early-testing-users-consistentl-191826|GPT-5.1 Pro: Clearer, more capable answers for complex work]]
+- Later: 2025-11-12 · Gemini CLI · [[Changes/Gemini CLI/2025-11-12-docs-add-model-documentation-by-jkcinouye-in-https-github-com-google-gemini-gemi|Docs: Add /model documentation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c3b12e7ef59212f3be6e0cdffe2078421e019fb1decedab14677e27cf0db93df
+machine_hash: 65073ae7900313785b2dadf31704c07135b51d9cf533a1a89a3370b6fd91dda4
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Skills defined in `.claude/skills/` within additional directories (`--add-dir`)…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-23-2-apps-and-integrations-changes-in-v2-1-19|2 Apps
-  and Integrations changes in v2.1.19]]'
-- '[[Changes/Claude Code/2026-01-27-changed-the-commit-push-pr-skill-to-automatically-post-pr-urls-to-slack-channels|Changed
-  the /commit-push-pr skill to automatically post PR URLs to Slack channels…]]'
-- '[[Changes/Claude Code/2026-01-30-vscode-enabled-claude-in-chrome-integration|VSCode:
-  Enabled Claude in Chrome integration]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-03-4-apps-and-integrations-changes-in-v0-0-402|4
+  Apps and Integrations changes in v0.0.402]]'
+- '[[Changes/Codex CLI/2026-02-04-5-apps-and-integrations-changes-in-rust-v0-95-0|5
+  Apps and Integrations changes in rust-v0.95.0]]'
+- '[[Changes/Gemini CLI/2026-02-04-14-apps-and-integrations-changes-in-v0-27-0|14
+  Apps and Integrations changes in v0.27.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0]]'
 source_type: github_releases
 theme: apps-integrations
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-30 · Claude Code · [[Changes/Claude Code/2026-01-30-vscode-enabled-claude-in-chrome-integration|VSCode: Enabled Claude in Chrome integration]]
-- Later: 2026-02-06 · Claude Code · [[Changes/Claude Code/2026-02-06-added-plugin-name-to-skill-descriptions-and-skills-menu-for-better-discoverabili|Added plugin name to skill descriptions and /skills menu for better discoverability]]
+- Earlier: 2026-02-04 · Gemini CLI · [[Changes/Gemini CLI/2026-02-04-14-apps-and-integrations-changes-in-v0-27-0|14 Apps and Integrations changes in v0.27.0]]
+- Later: 2026-02-05 · Codex CLI · [[Changes/Codex CLI/2026-02-05-6-apps-and-integrations-changes-in-rust-v0-97-0|6 Apps and Integrations changes in rust-v0.97.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

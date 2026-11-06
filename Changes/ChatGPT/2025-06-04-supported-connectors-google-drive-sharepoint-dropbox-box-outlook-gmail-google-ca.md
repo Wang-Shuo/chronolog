@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d6b2dd6fcf158eb7301edeb5aa2dac462ea9c9c4dd0d5e60d234d35c29e3f717
+machine_hash: 7d59c200763846cc480469b6f56fd760d4d73ce81f0ccdbc0e024632f457ac0e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,11 +47,12 @@ record:
     Google…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-04-15-images-in-mcp|Images in MCP]]'
-- '[[Changes/ChatGPT/2025-05-15-the-github-connector-is-now-available-globally-to-plus-pro-team-users-including|GitHub
-  connector for deep research]]'
-- '[[Changes/Cursor/2025-05-15-refreshed-inline-edit-cmd-ctrl-k-with-agent-integration|Refreshed
-  Inline Edit (Cmd/Ctrl+K) with Agent integration]]'
+- '[[Changes/Cline/2025-05-16-add-tailwind-css-intellisense-to-the-recommended-extensions-list|Add
+  Tailwind CSS IntelliSense to the recommended extensions list]]'
+- '[[Changes/Cline/2025-05-22-add-integration-with-nebius-ai-studio-as-a-new-provider-thanks-aktsvigun|Add
+  integration with Nebius AI Studio as a new provider (Thanks @Aktsvigun!)]]'
+- '[[Changes/OpenHands/2025-06-01-2-apps-and-integrations-changes-in-0-40-0|2 Apps
+  and Integrations changes in 0.40.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-04-connectors-in-beta-for-deep-research-plus-pro-team-enterprise-ed-6bb21f0f|chatgpt-2025-06-04-connectors-in-beta-for-deep-research-plus-pro-team-enterprise-ed-6bb21f0f]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -82,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-refreshed-inline-edit-cmd-ctrl-k-with-agent-integration|Refreshed Inline Edit (Cmd/Ctrl+K) with Agent integration]]
+- Earlier: 2025-06-01 · OpenHands · [[Changes/OpenHands/2025-06-01-2-apps-and-integrations-changes-in-0-40-0|2 Apps and Integrations changes in 0.40.0]]
 - Later: 2025-06-04 · ChatGPT · [[Changes/ChatGPT/2025-06-04-admin-published-connectors-appear-in-the-connector-list-for-all-users|Admin-published connectors appear in the connector list for all users]]
 <!-- chronolog:end -->
 

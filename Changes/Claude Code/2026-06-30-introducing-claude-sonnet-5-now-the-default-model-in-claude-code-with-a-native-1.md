@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: db7857d4eb775ae844de13d446bbb37b93a6112d45a2274ef534ddebfcc0d100
+machine_hash: 0e85f1e2220bd2465f21a0103d379b84ef84dc69a5b0670fc62334c80222dabf
 product: claude-code
 product_name: Claude Code
 record:
@@ -63,12 +63,12 @@ record:
   title: Introducing Claude Sonnet 5
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-25-added-claude-code-assistant-response-opentelemetry-log-event-containing-the-mode|Added
-  claude_code.assistant_response OpenTelemetry log event containing…]]'
-- '[[Changes/ChatGPT/2026-06-26-as-of-june-26-2026-gpt-4-5-is-no-longer-available-in-chatgpt-including-for-custo|Retiring
-  GPT-4.5]]'
+- '[[Changes/Cline/2026-06-26-2-model-support-changes-in-v4-0-0|2 Model Support changes
+  in v4.0.0]]'
 - '[[Changes/Claude Code/2026-06-29-added-support-for-organization-default-models-admins-set-it-in-the-org-console-i|Added
   support for organization default models]]'
+- '[[Changes/Cline/2026-06-29-4-model-support-changes-in-v4-0-2|4 Model Support changes
+  in v4.0.2]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-30-v2-1-197-github-346856026-11e4aa1f|claude-code-2026-06-30-v2-1-197-github-346856026-11e4aa1f]]'
 source_type: github_releases
 theme: model-support
@@ -95,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-added-support-for-organization-default-models-admins-set-it-in-the-org-console-i|Added support for organization default models]]
-- Later: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-2-model-support-changes-in-v2-1-198|2 Model Support changes in v2.1.198]]
+- Earlier: 2026-06-29 · Cline · [[Changes/Cline/2026-06-29-4-model-support-changes-in-v4-0-2|4 Model Support changes in v4.0.2]]
+- Later: 2026-06-30 · Cline · [[Changes/Cline/2026-06-30-add-support-for-claude-sonnet-5-across-the-anthropic-bedrock-vertex-claude-code|Add support for Claude Sonnet 5 across the Anthropic, Bedrock, Vertex, Claude Code…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

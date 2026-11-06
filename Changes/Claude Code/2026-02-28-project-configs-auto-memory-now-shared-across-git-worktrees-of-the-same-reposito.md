@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f320d4a8f7ff5bd70a0473142bdf9bae23d083175f24a64920a206a6573e6268
+machine_hash: 346ab04d97715079c67e7d4329727b1b9d724c3c8c0801d03a9c69ec9912148b
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     repository
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-06-added-memory-frontmatter-field-support-for-agents-enabling-persistent-memory-wit|Added
-  memory frontmatter field support for agents, enabling persistent memory…]]'
-- '[[Changes/ChatGPT/2026-02-09-we-re-beginning-to-roll-out-a-test-for-ads-in-chatgpt-in-the-u-s-for-logged-in-a|Testing
-  ads in ChatGPT (Free, Go)]]'
+- '[[Changes/Gemini CLI/2026-02-25-test-evals-mark-all-save-memory-evals-as-usually-passes-due-to-unreliability-by|test(evals):
+  mark all save_memory evals as USUALLY_PASSES due to unreliability]]'
 - '[[Changes/Claude Code/2026-02-26-claude-automatically-saves-useful-context-to-auto-memory-manage-with-memory|Claude
   automatically saves useful context to auto-memory]]'
+- '[[Changes/Codex CLI/2026-02-26-3-memory-and-personalization-changes-in-rust-v0-106-0|3
+  Memory and Personalization changes in rust-v0.106.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c|claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c]]'
 source_type: github_releases
 theme: memory
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-02-26 · Claude Code · [[Changes/Claude Code/2026-02-26-claude-automatically-saves-useful-context-to-auto-memory-manage-with-memory|Claude automatically saves useful context to auto-memory]]
-- Later: 2026-03-12 · Claude Code · [[Changes/Claude Code/2026-03-12-added-automemorydirectory-setting-to-configure-a-custom-directory-for-auto-memor|Added autoMemoryDirectory setting to configure a custom directory for auto-memory…]]
+- Earlier: 2026-02-26 · Codex CLI · [[Changes/Codex CLI/2026-02-26-3-memory-and-personalization-changes-in-rust-v0-106-0|3 Memory and Personalization changes in rust-v0.106.0]]
+- Later: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-6-memory-and-personalization-changes-in-rust-v0-107-0|6 Memory and Personalization changes in rust-v0.107.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

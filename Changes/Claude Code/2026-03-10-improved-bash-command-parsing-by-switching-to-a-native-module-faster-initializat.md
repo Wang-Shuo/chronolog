@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cb6a43f88ef611a948a0d9ae92c2b9fb5bb1e9b3fd63ed32a6a538553a135a91
+machine_hash: 7236884d3020601095205ad65ef2655945e8b3134aed83b7d548e10d33b99565
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,11 +53,11 @@ record:
   title: Improved bash command parsing by switching to a native module
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-03-modals-load-faster|Modals load faster]]'
-- '[[Changes/Claude Code/2026-03-05-9-reliability-and-performance-changes-in-v2-1-69|9
-  Reliability and Performance changes in v2.1.69]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-05-reduce-memory-usage-in-alt-screen-mode-for-long-sessions|Reduce
+  memory usage in alt-screen mode for long sessions]]'
 - '[[Changes/Claude Code/2026-03-06-3-reliability-and-performance-changes-in-v2-1-70|3
   Reliability and Performance changes in v2.1.70]]'
+- '[[Changes/Windsurf/2026-03-09-stability-performance|Stability & Performance]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48|claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48]]'
 source_type: github_releases
 theme: reliability-performance
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-06 · Claude Code · [[Changes/Claude Code/2026-03-06-3-reliability-and-performance-changes-in-v2-1-70|3 Reliability and Performance changes in v2.1.70]]
+- Earlier: 2026-03-09 · Windsurf · [[Changes/Windsurf/2026-03-09-stability-performance|Stability & Performance]]
 - Later: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-2-reliability-and-performance-changes-in-v2-1-73|2 Reliability and Performance changes in v2.1.73]]
 <!-- chronolog:end -->
 

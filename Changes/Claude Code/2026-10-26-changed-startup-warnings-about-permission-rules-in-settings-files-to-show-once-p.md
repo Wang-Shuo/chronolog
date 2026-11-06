@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8ce5869705d44c46e3562717ca74c76916c7bbe387cfc2e3fd4742b2db262774
+machine_hash: 904057f2b73bfc0ea5ece3b993b46d1589cedd46587427f8ef474a0ca49686ad
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     once per…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-21-added-the-claude-code-safety-event-opentelemetry-event-for-each-tool-call-a-perm|Added
-  the claude_code.safety_event OpenTelemetry event for each tool call…]]'
-- '[[Changes/Claude Code/2026-10-22-8-safety-and-privacy-changes-in-v2-1-309|8 Safety
-  and Privacy changes in v2.1.309]]'
 - '[[Changes/Claude Code/2026-10-23-4-safety-and-privacy-changes-in-v2-1-310|4 Safety
   and Privacy changes in v2.1.310]]'
+- '[[Changes/Codex CLI/2026-10-23-15-safety-and-privacy-changes-in-rust-v0-164-0|15
+  Safety and Privacy changes in rust-v0.164.0]]'
+- '[[Changes/Windsurf/2026-10-23-electron-42-11-16-and-node-js-24-22-1-for-the-remote-server-with-the-october-202|Electron
+  42.11.16 and Node.js 24.22.1 for the remote server, with the October 2026…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-26-v2-1-311-github-424682562-151da26b|claude-code-2026-10-26-v2-1-311-github-424682562-151da26b]]'
 source_type: github_releases
 theme: safety-privacy
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-4-safety-and-privacy-changes-in-v2-1-310|4 Safety and Privacy changes in v2.1.310]]
-- Later: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-changed-claude-code-to-stop-sending-the-claude-code-safety-event-opentelemetry-e|Changed Claude Code to stop sending the claude_code.safety_event OpenTelemetry event]]
+- Earlier: 2026-10-23 · Windsurf · [[Changes/Windsurf/2026-10-23-electron-42-11-16-and-node-js-24-22-1-for-the-remote-server-with-the-october-202|Electron 42.11.16 and Node.js 24.22.1 for the remote server, with the October 2026…]]
+- Later: 2026-10-26 · Cline · [[Changes/Cline/2026-10-26-starting-or-resuming-a-cloud-sandbox-shows-a-progress-card-with-the-repo-branch|Starting or resuming a cloud sandbox shows a progress card with the repo, branch…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

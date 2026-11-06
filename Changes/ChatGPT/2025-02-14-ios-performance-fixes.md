@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0322009f0bd184a476afd1dae3376f12f7bc585a3fbef4d9376ad1a79a84d259
+machine_hash: 0fb7a351b99a586673f0adbb1efce8362af229ce8a45a7d526964a9d8e8180af
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ record:
   title: iOS performance fixes
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-12-17-cheaper-and-faster-bug-finding-model|Cheaper and faster
-  Bug Finding Model]]'
 - '[[Changes/Cursor/2025-01-23-also-adds-mcp-support-team-configurable-blocklists-fixes-composer-stuck-on-gener|Also
   adds MCP support, team-configurable blocklists, fixes Composer stuck…]]'
+- '[[Changes/OpenHands/2025-02-13-optimize-memory-usage-in-fileeditobservation-by-neubig-in-https-github-com-all-h|Optimize
+  memory usage in FileEditObservation]]'
 - '[[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved
   Android conversation parsing performance]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b|chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b]]'
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-also-adds-mcp-support-team-configurable-blocklists-fixes-composer-stuck-on-gener|Also adds MCP support, team-configurable blocklists, fixes Composer stuck…]]
+- Earlier: 2025-02-13 · OpenHands · [[Changes/OpenHands/2025-02-13-optimize-memory-usage-in-fileeditobservation-by-neubig-in-https-github-com-all-h|Optimize memory usage in FileEditObservation]]
 - Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-2-reliability-and-performance-changes-in-0-46-x|2 Reliability and Performance changes in 0.46.x]]
 <!-- chronolog:end -->
 

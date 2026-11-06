@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 215f0d0d84a59d28a40363eef45c4a7bffa004ef3c97878b02365f865abd795c
+machine_hash: 749fcdcef3129d9896d48748710aa567c1f92ac16118d43b08d79d25f76b294d
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 'Remote Control: signing this computer in to a different claude.ai account…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-12-3-apps-and-integrations-changes-in-v2-1-229|3
-  Apps and Integrations changes in v2.1.229]]'
-- '[[Changes/Claude Code/2026-08-13-4-apps-and-integrations-changes-in-v2-1-232|4
-  Apps and Integrations changes in v2.1.232]]'
+- '[[Changes/Cline/2026-08-13-these-land-through-sdk-v0-0-74-and-therefore-apply-to-windows-running-the-sdk-bu|These
+  land through SDK v0.0.74 and therefore apply to windows running the SDK…]]'
 - '[[Changes/Claude Code/2026-08-14-2-apps-and-integrations-changes-in-v2-1-233|2
   Apps and Integrations changes in v2.1.233]]'
+- '[[Changes/Cline/2026-08-14-everything-in-this-release-lands-through-the-sdk-bundle-so-it-applies-to-windows|Everything
+  in this release lands through the SDK bundle, so it applies to windows…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673|claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673]]'
 source_type: github_releases
 theme: apps-integrations
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-2-apps-and-integrations-changes-in-v2-1-233|2 Apps and Integrations changes in v2.1.233]]
+- Earlier: 2026-08-14 · Cline · [[Changes/Cline/2026-08-14-everything-in-this-release-lands-through-the-sdk-bundle-so-it-applies-to-windows|Everything in this release lands through the SDK bundle, so it applies to windows…]]
 - Later: 2026-08-17 · Cursor · [[Changes/Cursor/2026-08-17-app-extensions-for-cursor-repos|App extensions for Cursor repos]]
 <!-- chronolog:end -->
 

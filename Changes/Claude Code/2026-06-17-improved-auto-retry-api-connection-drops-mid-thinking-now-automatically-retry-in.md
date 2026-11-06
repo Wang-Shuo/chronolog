@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 42d806271ee1222ab8a3319a3e63784efa50e54133d17638271c7550e2b4bf78
+machine_hash: 192a8773550d070c97b5754776767dfd9872ea7668dcd56535e3adc33752cfe2
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
     retry…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-12-2-reliability-and-performance-changes-in-v2-1-176|2
-  Reliability and Performance changes in v2.1.176]]'
+- '[[Changes/Codex CLI/2026-06-15-3-reliability-and-performance-changes-in-rust-v0-140-0|3
+  Reliability and Performance changes in rust-v0.140.0]]'
 - '[[Changes/ChatGPT/2026-06-17-with-scheduled-tasks-users-can-ask-chatgpt-to-send-reminders-handle-recurring-wo|With
   scheduled tasks, users can ask ChatGPT to send reminders, handle recurring…]]'
 - '[[Changes/ChatGPT/2026-06-17-all-tasks-are-faster-and-more-reliable|All tasks are

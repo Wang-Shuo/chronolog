@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 28366dffd52912674734afdc5130162a079510a82383bdac15510a6a41f750bd
+machine_hash: bfabfff46a950f54571917c3831dc4957e82015fc9e169df6f654a5c2c19ac48
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,12 +44,12 @@ record:
   title: ChatGPT makes further improvements to search, making results more accurate…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-13-we-ve-upgraded-chatgpt-search-for-all-users-to-provide-even-more-comprehensive-u|We’ve
-  upgraded ChatGPT search for all users to provide even more comprehensive…]]'
-- '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2|Canva
-  and Notion connectors (Pro)]]'
-- '[[Changes/ChatGPT/2025-08-11-now-connect-even-more-tools-in-chatgpt-for-useful-relevant-responses-in-chat-the|Now
-  connect even more tools in ChatGPT for useful, relevant responses in chat]]'
+- '[[Changes/Gemini CLI/2025-08-18-feat-core-migrate-web-search-write-file-and-discovered-tool-by-joshualitt-in-htt|feat(core):
+  Migrate web-search, write-file, and discovered-tool]]'
+- '[[Changes/Codex CLI/2025-08-26-2-search-and-browsing-changes-in-rust-v0-24-0|2
+  Search and Browsing changes in rust-v0.24.0]]'
+- '[[Changes/Codex CLI/2025-09-03-3061-show-loading-state-when-search-results-are-pending|♯3061
+  Show loading state when @ search results are pending]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690|chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-08-11 · ChatGPT · [[Changes/ChatGPT/2025-08-11-now-connect-even-more-tools-in-chatgpt-for-useful-relevant-responses-in-chat-the|Now connect even more tools in ChatGPT for useful, relevant responses in chat]]
+- Earlier: 2025-09-03 · Codex CLI · [[Changes/Codex CLI/2025-09-03-3061-show-loading-state-when-search-results-are-pending|♯3061 Show loading state when @ search results are pending]]
 - Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-1-7-20-web-search-auto-accept-setting|1.7.20: Web search auto-accept setting]]
 <!-- chronolog:end -->
 

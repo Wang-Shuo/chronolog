@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9012103c5cc053759579074ff8f38b6672d9e58768bdf0ced7f7b68007ec41b3
+machine_hash: d9c9a947d468a16785a4950918ad4e4ef76abd71c702d3c53578aadadd065328
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,11 @@ record:
   title: '[VSCode] Added session groups in the sidebar'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-08-vscode-fixed-focus-view-folding-away-the-latest-to-do-list-a-pending-question-s|VSCode
-  Fixed Focus view folding away the latest to-do list, a pending question''s…]]'
-- '[[Changes/Claude Code/2026-08-10-improved-slash-command-menu-blue-now-marks-only-the-selected-row-matched-charact|Improved
-  slash-command menu]]'
+- '[[Changes/Windsurf/2026-08-10-devin-local|Devin Local]]'
 - '[[Changes/Claude Code/2026-08-11-updated-terminal-title-busy-spinner-glyphs-to-reduce-tab-bar-jitter-on-some-term|Updated
   terminal title busy-spinner glyphs to reduce tab-bar jitter on some terminals]]'
+- '[[Changes/Cline/2026-08-11-make-the-auto-approve-menu-the-single-source-of-truth-for-unattended-runs-and-re|Make
+  the auto-approve menu the single source of truth for unattended runs and remove…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-12-v2-1-229-github-369475532-b063933d|claude-code-2026-08-12-v2-1-229-github-369475532-b063933d]]'
 source_type: github_releases
 theme: interface-experience
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-11 · Claude Code · [[Changes/Claude Code/2026-08-11-updated-terminal-title-busy-spinner-glyphs-to-reduce-tab-bar-jitter-on-some-term|Updated terminal title busy-spinner glyphs to reduce tab-bar jitter on some terminals]]
+- Earlier: 2026-08-11 · Cline · [[Changes/Cline/2026-08-11-make-the-auto-approve-menu-the-single-source-of-truth-for-unattended-runs-and-re|Make the auto-approve menu the single source of truth for unattended runs and remove…]]
 - Later: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-improved-fullscreen-streaming-long-sessions-stay-responsive-because-the-whole-co|Improved fullscreen streaming]]
 <!-- chronolog:end -->
 

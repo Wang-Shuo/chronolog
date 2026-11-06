@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 777d78515fbb15ae905c5c8eb887849c5274b68373d0501303707b7f39ed3c41
+machine_hash: a8e4d9bfc26e586e348d54d4e8077a2adf529416db6f510be5e8767ff4498686
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Context Window changes in v2.1.302
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-2-context-window-changes-in-v2-1-299|2 Context
-  Window changes in v2.1.299]]'
 - '[[Changes/Claude Code/2026-10-14-added-usage-warnings-for-max-effort-workflows-always-on-context-and-large-tool-r|Added
   /usage warnings for max effort, workflows, always-on context and large tool…]]'
 - '[[Changes/Claude Code/2026-10-15-improved-switching-to-a-model-with-a-smaller-context-window-a-conversation-too-l|Improved
   switching to a model with a smaller context window]]'
+- '[[Changes/Codex CLI/2026-10-15-16-context-window-changes-in-rust-v0-163-0|16 Context
+  Window changes in rust-v0.163.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-16-v2-1-302-github-415177347-763faf43|claude-code-2026-10-16-v2-1-302-github-415177347-763faf43]]'
 source_type: github_releases
 theme: context-window
@@ -89,8 +89,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.302
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-15 · Claude Code · [[Changes/Claude Code/2026-10-15-improved-switching-to-a-model-with-a-smaller-context-window-a-conversation-too-l|Improved switching to a model with a smaller context window]]
-- Later: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-3-context-window-changes-in-v2-1-304|3 Context Window changes in v2.1.304]]
+- Earlier: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-16-context-window-changes-in-rust-v0-163-0|16 Context Window changes in rust-v0.163.0]]
+- Later: 2026-10-16 · Cline · [[Changes/Cline/2026-10-16-auto-compact-and-its-strategy-setting-sit-together-again-in-feature-settings|Auto Compact and its strategy setting sit together again in Feature settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

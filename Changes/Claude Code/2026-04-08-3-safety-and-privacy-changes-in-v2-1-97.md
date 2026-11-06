@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b75aa52d3f7d65f1cc7ab4a5ea9dbd03f5a3385b0acda2ca659daed2770ea67a
+machine_hash: 2731a38d6803d16cf7d7ac4ceb263acbb7239a3d442e65476b7222a13105b933
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Safety and Privacy changes in v2.1.97
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-02-fixed-plan-mode-in-remote-sessions-losing-track-of-the-plan-file-after-a-contain|Fixed
-  plan mode in remote sessions losing track of the plan file after a container…]]'
 - '[[Changes/Claude Code/2026-04-04-linux-sandbox-now-ships-the-apply-seccomp-helper-in-both-npm-and-native-builds-r|Linux
   sandbox now ships the apply-seccomp helper in both npm and native builds…]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-04-add-notification-hook-event-that-fires-asynchronously-on-shell-completion-permis|Add
+  notification hook event that fires asynchronously on shell completion…]]'
 - '[[Changes/Claude Code/2026-04-07-vscode-added-a-warning-banner-when-settings-json-files-fail-to-parse-so-users-kn|VSCode
   Added a warning banner when settings.json files fail to parse, so users…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33|claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33]]'
@@ -93,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.97
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-04-07 · Claude Code · [[Changes/Claude Code/2026-04-07-vscode-added-a-warning-banner-when-settings-json-files-fail-to-parse-so-users-kn|VSCode Added a warning banner when settings.json files fail to parse, so users…]]
-- Later: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-7-safety-and-privacy-changes-in-v2-1-98|7 Safety and Privacy changes in v2.1.98]]
+- Later: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-16-safety-and-privacy-changes-in-v0-37-0|16 Safety and Privacy changes in v0.37.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

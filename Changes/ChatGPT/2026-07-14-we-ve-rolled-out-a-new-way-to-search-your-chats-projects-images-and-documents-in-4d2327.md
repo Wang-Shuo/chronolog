@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b6009e1144553c873878360b87244f15ec549cfc05f7d16f8f7cbb3120e211e7
+machine_hash: 5b9050ab4772a70430c2dbf71c6113d19159a570811b4726c3acb80c3fd1f1e3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -67,12 +67,12 @@ record:
   title: Search across chats, projects, and files is now supercharged
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-to-create-a-site-start-in-chatgpt-work-on-the-web-or-in-work-or-codex-in-the-cha|To
-  create a Site, start in ChatGPT Work on the web or in Work or Codex…]]'
-- '[[Changes/ChatGPT/2026-07-09-the-new-chatgpt-desktop-app-is-available-globally-for-macos-and-windows-it-combi|The
-  new ChatGPT desktop app is available globally for macOS and Windows]]'
 - '[[Changes/ChatGPT/2026-07-09-beginning-july-9-users-on-web-ios-and-android-will-no-longer-be-able-to-create-n|Beginning
   July 9, users on web, iOS, and Android will no longer be able to create…]]'
+- '[[Changes/Codex CLI/2026-07-09-31356-ci-run-v8-source-builds-on-windows-2025-anp-oai|♯31356
+  ci: run V8 source builds on Windows 2025 @anp-oai]]'
+- '[[Changes/Codex CLI/2026-07-09-ensured-macos-package-installs-expose-the-code-mode-host-alongside-the-codex-exe|Ensured
+  macOS package installs expose the code-mode host alongside the codex executable]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-14-search-across-chats-projects-and-files-is-now-supercharged-90a28571|chatgpt-2026-07-14-search-across-chats-projects-and-files-is-now-supercharged-90a28571]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-beginning-july-9-users-on-web-ios-and-android-will-no-longer-be-able-to-create-n|Beginning July 9, users on web, iOS, and Android will no longer be able to create…]]
+- Earlier: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-ensured-macos-package-installs-expose-the-code-mode-host-alongside-the-codex-exe|Ensured macOS package installs expose the code-mode host alongside the codex executable]]
 - Later: 2026-07-16 · ChatGPT · [[Changes/ChatGPT/2026-07-16-a-clearer-desktop-layout-a-global-switcher-lets-you-choose-between-chatgpt-and-c|A clearer desktop layout: A global switcher lets you choose between ChatGPT and Codex]]
 <!-- chronolog:end -->
 

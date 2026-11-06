@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8dfdec262c3eb8df08157616c09a45c8b97b68154e04c987968b62ae142f0cd3
+machine_hash: 50adfbc6cf8936935dd26f9136f74135b7d6fd60444459d3d9b64ed2fdbcf62e
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,12 +56,12 @@ record:
   title: 5 Apps and Integrations changes in v2.1.259
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-4-apps-and-integrations-changes-in-v2-1-251|4
-  Apps and Integrations changes in v2.1.251]]'
 - '[[Changes/ChatGPT/2026-09-01-eligible-chatgpt-for-clinicians-users-in-the-united-states-can-now-use-healthcar|Healthcare
   Public Data in ChatGPT for Clinicians]]'
 - '[[Changes/Claude Code/2026-09-01-2-apps-and-integrations-changes-in-v2-1-257|2
   Apps and Integrations changes in v2.1.257]]'
+- '[[Changes/Codex CLI/2026-09-01-16-apps-and-integrations-changes-in-rust-v0-152-0|16
+  Apps and Integrations changes in rust-v0.152.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f|claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f]]'
 source_type: github_releases
 theme: apps-integrations
@@ -104,8 +104,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.259
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-2-apps-and-integrations-changes-in-v2-1-257|2 Apps and Integrations changes in v2.1.257]]
-- Later: 2026-09-03 · ChatGPT · [[Changes/ChatGPT/2026-09-03-today-we-added-the-zendesk-and-onenote-plugins-in-the-plugin-directory-the-zende-012cbd|Zendesk & OneNote Plugins in ChatGPT and Codex Beta]]
+- Earlier: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-16-apps-and-integrations-changes-in-rust-v0-152-0|16 Apps and Integrations changes in rust-v0.152.0]]
+- Later: 2026-09-02 · Cline · [[Changes/Cline/2026-09-02-2-apps-and-integrations-changes-in-v4-1-17|2 Apps and Integrations changes in v4.1.17]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

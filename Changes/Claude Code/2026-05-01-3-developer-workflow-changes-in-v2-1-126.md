@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 602c5cd8a57d7a8d8cd94388f0e507a48bde13a2302d7b71d6f6732fee65e9ba
+machine_hash: 5c677d0d0e069b72d109920572804b5440b72d6ca02689abb7c2eaea6510d6ab
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,11 @@ record:
   title: 3 Developer Workflow changes in v2.1.126
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-28-opentelemetry-added-claude-code-at-mention-log-event-for-mention-resolution|OpenTelemetry:
-  added claude_code.at_mention log event for @-mention resolution]]'
-- '[[Changes/Claude Code/2026-04-28-4-developer-workflow-changes-in-v2-1-121|4 Developer
-  Workflow changes in v2.1.121]]'
 - '[[Changes/Cursor/2026-04-29-added-first-class-run-streaming-with-sse-events-reconnect-support-via-last-event|Added
   first-class run streaming with SSE events, reconnect support…]]'
+- '[[Changes/Windsurf/2026-04-29-devin-for-terminal|Devin for Terminal]]'
+- '[[Changes/Codex CLI/2026-04-30-14-developer-workflow-changes-in-rust-v0-128-0|14
+  Developer Workflow changes in rust-v0.128.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb|claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb]]'
 source_type: github_releases
 theme: developer-workflow
@@ -94,8 +93,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.126
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-29 · Cursor · [[Changes/Cursor/2026-04-29-added-first-class-run-streaming-with-sse-events-reconnect-support-via-last-event|Added first-class run streaming with SSE events, reconnect support…]]
-- Later: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-2-developer-workflow-changes-in-v2-1-129|2 Developer Workflow changes in v2.1.129]]
+- Earlier: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-14-developer-workflow-changes-in-rust-v0-128-0|14 Developer Workflow changes in rust-v0.128.0]]
+- Later: 2026-05-01 · Cline · [[Changes/Cline/2026-05-01-restore-vs-code-foreground-terminal-support-and-settings|Restore VS Code foreground terminal support and settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

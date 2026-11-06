@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 75184dc4a4fccf78ec30b0323ac67dcb5d5e8621f5c71e301be6710fff44113b
+machine_hash: a985f5e6ab8308f548178695d2b1f92ba8645a05bfe62a78a4991a09ec6adfa4
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,11 @@ record:
   title: Changed skills synced from claude.ai in cloud sessions to be named…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-changed-add-dir-add-dir-and-additionaldirectories-to-refuse-network-paths-unc-sh|Changed
-  --add-dir, /add-dir, and additionalDirectories to refuse network paths…]]'
-- '[[Changes/Claude Code/2026-09-03-3-mobile-and-desktop-changes-in-v2-1-260|3 Mobile
-  and Desktop changes in v2.1.260]]'
-- '[[Changes/ChatGPT/2026-09-08-turn-a-sketch-into-an-image-on-mobile-type-in-the-message-box-and-select-sketch|Turn
-  a sketch into an image]]'
+- '[[Changes/Codex CLI/2026-09-09-6-mobile-and-desktop-changes-in-rust-v0-154-0|6
+  Mobile and Desktop changes in rust-v0.154.0]]'
+- '[[Changes/Windsurf/2026-09-10-introducing-fusion-in-devin-desktop-and-devin-cli-https-exafunction-github-io-pu|!Introducing
+  Fusion in Devin Desktop and Devin…]]'
+- '[[Changes/Windsurf/2026-09-10-devin-desktop|Devin Desktop]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-11-v2-1-269-github-387243742-288e9189|claude-code-2026-09-11-v2-1-269-github-387243742-288e9189]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -88,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-turn-a-sketch-into-an-image-on-mobile-type-in-the-message-box-and-select-sketch|Turn a sketch into an image]]
+- Earlier: 2026-09-10 · Windsurf · [[Changes/Windsurf/2026-09-10-devin-desktop|Devin Desktop]]
 - Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-improved-mobile-to-show-a-single-qr-code-for-claude-ai-mobile-which-opens-the-ri|Improved /mobile to show a single QR code for claude.ai/mobile, which opens…]]
 <!-- chronolog:end -->
 

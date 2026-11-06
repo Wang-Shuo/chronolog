@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: fd62294dc4fa3eef5c0e865fa6b380c1ad4622177b35abd4fc924faa2526100a
+machine_hash: 440ee24756b65b876c5b9be1fba91d447f4c773a2aa4a0c320e7e011270a2e66
 product: cursor
 product_name: Cursor
 record:
@@ -52,12 +52,12 @@ record:
   title: Automated and improved rules
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-01-23-optional-long-context-when-tagging-long-files-users-have-the-option-to-request-a|Optional
-  Long Context]]'
-- '[[Changes/Cursor/2025-02-19-ui-refresh-phase-one-of-a-fresh-coat-of-paint-with-new-default-cursor-themes-des|UI
-  refresh: Phase one of a fresh coat of paint with new default Cursor themes…]]'
-- '[[Changes/Cursor/2025-03-23-added-input-token-count-for-chat-messages-click-the-three-dots-to-view-we-re-con|Added
-  input token count for chat messages (click the three dots to view)]]'
+- '[[Changes/OpenHands/2025-04-10-display-microagent-context-in-the-ui-by-xingyaoww-in-https-github-com-all-hands|Display
+  microagent context in the UI]]'
+- '[[Changes/Cline/2025-04-13-use-improved-context-management|Use improved context
+  management]]'
+- '[[Changes/Cline/2025-04-14-2-context-window-changes-in-v3-12-2|2 Context Window
+  changes in v3.12.2]]'
 source_release: '[[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f]]'
 source_type: cursor_changelog
 theme: context-window
@@ -95,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-added-input-token-count-for-chat-messages-click-the-three-dots-to-view-we-re-con|Added input token count for chat messages (click the three dots to view)]]
-- Later: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-include-your-entire-codebase-in-context|Include your entire codebase in context]]
+- Earlier: 2025-04-14 · Cline · [[Changes/Cline/2025-04-14-2-context-window-changes-in-v3-12-2|2 Context Window changes in v3.12.2]]
+- Later: 2025-05-09 · Aider · [[Changes/Aider/2025-05-09-2-context-window-changes-in-v0-83-0|2 Context Window changes in v0.83.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

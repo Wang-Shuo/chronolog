@@ -231,7 +231,14 @@ The card's core: the official source text, quoted.
 A ruled list of folds, not boxes. Used for theme timeline years, "How to read this timeline", and the product page's release archive and change list.
 - **Markup:** native `<details class="disclosure">` emitted by `writer.py`, with Markdown inside, so the summary is keyboard-operable and folded links leave the tab order. Never use Quartz callouts for collapsible content.
 - **Style:** no background or box. A Paper Rule hairline sits above each disclosure, and consecutive disclosures share their rules and close with one below the last. The summary line is Heading Ink at weight 600 with 0.65rem vertical padding, led by a small Archive Ochre chevron drawn in CSS (2px strokes). The chevron points right when closed and down when open, and turns Patina Teal on hover. It rotates over 0.2s only when the reader allows motion.
-- **Default state:** a theme with ≤ 12 entries shows its years open; longer timelines and product archives start folded.
+- **Default state:** a theme with ≤ 12 entries shows its years open, and so does any year with ≤ 5 entries; other years and product archives start folded.
+- **Nested fold:** inside a timeline year, a second disclosure holds the routine entries. Its summary is set one step down (weight 400, Carbon Ink), and its content indents 1.35rem to the summary text so the end of the fold stays visible. Never nest deeper than this.
+
+### Theme timeline
+Signal first, volume on request.
+- **Order:** a one-sentence lead, the product filter, then one disclosure per year (newest first). Inside a year, signal entries (launch, expansion, pricing, policy and standalone announcements) are listed by month, newest first. Below them, a nested fold titled `Fixes, digests and other changes · N (Product n · …)` holds everything else.
+- **Entries:** `YYYY-MM-DD · **Product** · [[card]] · Kind`. Every entry names its kind, and the product name carries a `tl-p<n>` marker for the filter.
+- **Product filter:** a native radio group (`fieldset.timeline-filter`) reading "Show: All · ChatGPT · Claude Code · Cursor". The legend is in Graphite, and the chosen option is in Heading Ink at weight 600 with an ink `accent-color`, not ochre, because it is a control rather than a citation. CSS `:has()` rules in `site_title.tsx` hide the other products' entries, along with any month, fold or year left empty, so filtering needs no script. The rules cover up to 8 products by position, so no product name is hard-coded. The filter appears only when a theme has more than one product.
 
 ### Focus
 - Every focusable element shows a 2px Patina Teal outline with a 2px offset when focused from the keyboard (`:focus-visible`): 5.3:1 on paper and 6.9:1 on carbon. The browser's default blue ring never ships.

@@ -1,0 +1,93 @@
+---
+card_id: codex-cli-2026-01-15-023a03
+date: '2026-01-15'
+description: 'Codex CLI · 2026-01-15 · Apps and Integrations: #9207 Propagate MCP
+  disabled reason @gt-oai'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1029
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: apps-integrations
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: 52c2e775f2478aa605978788892aa97b26d4a75c43de98eed5af7172b45e06c7
+product: codex-cli
+product_name: Codex CLI
+record:
+  card_id: codex-cli-2026-01-15-023a03
+  comparison: ''
+  date: '2026-01-15'
+  description: 'Codex CLI — 0.85.0: #9207 Propagate MCP disabled reason @gt-oai'
+  evidence:
+  - quote: '#9207 Propagate MCP disabled reason @gt-oai'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.85.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: codex-cli
+  product_name: Codex CLI
+  slug: 9207-propagate-mcp-disabled-reason-gt-oai
+  source_release: codex-cli-2026-01-15-rust-v0-85-0-github-277157618-2b62da73
+  source_type: github_releases
+  theme: apps-integrations
+  title: '#9207 Propagate MCP disabled reason @gt-oai'
+  type: change
+related_changes:
+- '[[Changes/Claude Code/2026-01-13-2-apps-and-integrations-changes-in-v2-1-6|2 Apps
+  and Integrations changes in v2.1.6]]'
+- '[[Changes/Codex CLI/2026-01-14-10-apps-and-integrations-changes-in-rust-v0-81-0|10
+  Apps and Integrations changes in rust-v0.81.0]]'
+- '[[Changes/Gemini CLI/2026-01-14-9-apps-and-integrations-changes-in-v0-24-0|9 Apps
+  and Integrations changes in v0.24.0]]'
+source_release: '[[Releases/Codex CLI/codex-cli-2026-01-15-rust-v0-85-0-github-277157618-2b62da73|codex-cli-2026-01-15-rust-v0-85-0-github-277157618-2b62da73]]'
+source_type: github_releases
+theme: apps-integrations
+title: ♯9207 Propagate MCP disabled reason @gt-oai
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# #9207 Propagate MCP disabled reason @gt-oai
+
+**Codex CLI** · 2026-01-15 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://github.com/openai/codex/releases/tag/rust-v0.85.0) · from [[Releases/Codex CLI/codex-cli-2026-01-15-rust-v0-85-0-github-277157618-2b62da73|0.85.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> #9207 Propagate MCP disabled reason @gt-oai
+>
+> Source: https://github.com/openai/codex/releases/tag/rust-v0.85.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Codex CLI/2026-01-15-revert-linux-sandboxing-now-falls-back-to-landlock-only-restrictions-when-user-n|revert Linux sandboxing now falls back to Landlock-only restrictions when user…]] · Safety and Privacy
+- [[Changes/Codex CLI/2026-01-15-2-collaboration-changes-in-rust-v0-85-0|2 Collaboration changes in rust-v0.85.0]] · Collaboration
+- [[Changes/Codex CLI/2026-01-15-9275-feat-add-agent-roles-to-collab-tools-jif-oai|♯9275 feat: add agent roles to collab tools @jif-oai]] · Agent Mode
+- [[Changes/Codex CLI/2026-01-15-2-model-support-changes-in-rust-v0-85-0|2 Model Support changes in rust-v0.85.0]] · Model Support
+- [[Changes/Codex CLI/2026-01-15-9-other-changes-in-rust-v0-85-0|9 other changes in rust-v0.85.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-01-14 · Gemini CLI · [[Changes/Gemini CLI/2026-01-14-9-apps-and-integrations-changes-in-v0-24-0|9 Apps and Integrations changes in v0.24.0]]
+- Later: 2026-01-16 · Codex CLI · [[Changes/Codex CLI/2026-01-16-accepting-an-mcp-elicitation-now-sends-an-empty-json-payload-instead-of-null-to|Accepting an MCP elicitation now sends an empty JSON payload instead of null…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20codex-cli-2026-01-15-023a03&body=Card%3A%20Changes%2FCodex%20CLI%2F2026-01-15-9207-propagate-mcp-disabled-reason-gt-oai.md%0ACard%20ID%3A%20codex-cli-2026-01-15-023a03%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fopenai%2Fcodex%2Freleases%2Ftag%2Frust-v0.85.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 97d5a1025994b4903284d17313542d5b512341c390f6a41153d4d0bfd2cf1380
+machine_hash: f82ed2886bdbf69499675da45e1db0c87828538e41d187ff425e82316e82b5b2
 product: cursor
 product_name: Cursor
 record:
@@ -53,8 +53,8 @@ record:
   title: Cheaper and faster Bug Finding Model
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-09-17-composer-can-now-be-added-to-the-ai-pane-this-release-also-includes-many-stabili-7b4c37|Composer
-  can now be added to the AI pane]]'
+- '[[Changes/Cline/2024-10-09-2-reliability-and-performance-changes-in-v2-0-0|2 Reliability
+  and Performance changes in v2.0.0]]'
 - '[[Changes/Cursor/2024-11-24-several-performance-improvements|Several performance
   improvements]]'
 - '[[Changes/Cursor/2024-12-17-cursor-starts-up-faster|Cursor starts up faster]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-11-24 · Cursor · [[Changes/Cursor/2024-11-24-several-performance-improvements|Several performance improvements]]
-- Later: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-also-adds-mcp-support-team-configurable-blocklists-fixes-composer-stuck-on-gener|Also adds MCP support, team-configurable blocklists, fixes Composer stuck…]]
+- Later: 2024-12-18 · Cline · [[Changes/Cline/2024-12-18-when-cline-needs-to-make-targeted-edits-to-large-files-he-now-uses-a-search-repl|When Cline needs to make targeted edits to large files, he now uses a search…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

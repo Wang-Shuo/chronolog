@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c0d703a2e7e85f7c7596d453136f0562219454481b7f7f1ecda036af576d90fd
+machine_hash: 76507ed5b9e7117894a3adf6dd269dc04089e3331d0660c2e7e43dd08db28d40
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: Reduced Remote Control `/poll` rate to once per 10 minutes while connected…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-03-on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p|Team
-  marketplaces for plugins]]'
-- '[[Changes/Claude Code/2026-03-05-added-reload-plugins-command-to-activate-pending-plugin-changes-without-restarti|Added
-  /reload-plugins command to activate pending plugin changes without restarting]]'
-- '[[Changes/Claude Code/2026-03-05-7-apps-and-integrations-changes-in-v2-1-69|7 Apps
-  and Integrations changes in v2.1.69]]'
+- '[[Changes/Codex CLI/2026-03-05-7-apps-and-integrations-changes-in-rust-v0-110-0|7
+  Apps and Integrations changes in rust-v0.110.0]]'
+- '[[Changes/Codex CLI/2026-03-05-5-apps-and-integrations-changes-in-rust-v0-111-0|5
+  Apps and Integrations changes in rust-v0.111.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-05-11-apps-and-integrations-changes-in-v0-0-422|11
+  Apps and Integrations changes in v0.0.422]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-06-v2-1-70-github-293754953-afac13c0|claude-code-2026-03-06-v2-1-70-github-293754953-afac13c0]]'
 source_type: github_releases
 theme: apps-integrations
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-7-apps-and-integrations-changes-in-v2-1-69|7 Apps and Integrations changes in v2.1.69]]
-- Later: 2026-03-07 · Claude Code · [[Changes/Claude Code/2026-03-07-3-apps-and-integrations-changes-in-v2-1-71|3 Apps and Integrations changes in v2.1.71]]
+- Earlier: 2026-03-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-05-11-apps-and-integrations-changes-in-v0-0-422|11 Apps and Integrations changes in v0.0.422]]
+- Later: 2026-03-06 · Cline · [[Changes/Cline/2026-03-06-handle-streamable-http-mcp-reconnects-more-reliably-after-disconnects|Handle streamable HTTP MCP reconnects more reliably after disconnects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

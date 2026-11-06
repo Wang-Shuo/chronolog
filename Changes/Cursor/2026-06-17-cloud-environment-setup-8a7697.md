@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 5573ea38a08a890697743b54f44b6107184772a849e05e37f397017aa43f60b9
+machine_hash: aef60c5eb276dbda485a1929e81275f04ecb9a804aeb41455d360392d9e618d1
 product: cursor
 product_name: Cursor
 record:
@@ -62,12 +62,12 @@ record:
   title: Cloud environment setup
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-08-background-sessions-are-now-told-that-shared-checkout-edits-are-blocked-until-th|Background
-  sessions are now told that shared-checkout edits are blocked until they…]]'
-- '[[Changes/Claude Code/2026-06-10-2-developer-workflow-changes-in-v2-1-172|2 Developer
-  Workflow changes in v2.1.172]]'
 - '[[Changes/Claude Code/2026-06-15-improved-doctor-with-consistent-flat-tree-layout-across-all-sections-clearer-sec|Improved
   /doctor with consistent flat tree layout across all sections, clearer…]]'
+- '[[Changes/Codex CLI/2026-06-15-6-developer-workflow-changes-in-rust-v0-140-0|6
+  Developer Workflow changes in rust-v0.140.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-16-3-developer-workflow-changes-in-v1-0-63|3
+  Developer Workflow changes in v1.0.63]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa|cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -100,8 +100,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-15 · Claude Code · [[Changes/Claude Code/2026-06-15-improved-doctor-with-consistent-flat-tree-layout-across-all-sections-clearer-sec|Improved /doctor with consistent flat tree layout across all sections, clearer…]]
-- Later: 2026-06-19 · Claude Code · [[Changes/Claude Code/2026-06-19-removed-the-startup-setup-issues-line-under-the-logo-run-doctor-to-see-configura|Removed the startup "setup issues" line under the logo]]
+- Earlier: 2026-06-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-16-3-developer-workflow-changes-in-v1-0-63|3 Developer Workflow changes in v1.0.63]]
+- Later: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-7-developer-workflow-changes-in-rust-v0-141-0|7 Developer Workflow changes in rust-v0.141.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

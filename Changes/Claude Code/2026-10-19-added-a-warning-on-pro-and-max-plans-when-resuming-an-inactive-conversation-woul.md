@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 404cde73a664d5051f5db67752619f83fb6c019eceb254747b1d26ba052e04f1
+machine_hash: 33762f892be88756a2aad7b1eadff45aa9ee59a8aabc71982901e98b21c1fbf2
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,10 +50,10 @@ record:
     would…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-space-brings-your-pages-files-and-related-work-together-in-chatgpt-create-a-spac|Organize
-  your work in ChatGPT Space]]'
 - '[[Changes/Claude Code/2026-10-14-changed-local-session-transcripts-to-also-record-each-api-request-s-system-promp|Changed
   local session transcripts to also record each API request''s system prompt…]]'
+- '[[Changes/Codex CLI/2026-10-15-4-collaboration-changes-in-rust-v0-163-0|4 Collaboration
+  changes in rust-v0.163.0]]'
 - '[[Changes/ChatGPT/2026-10-16-chatgpt-slides-lets-you-create-presentations-and-keep-working-on-them-with-your|ChatGPT
   Slides lets you create presentations and keep working on them with your team…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994|claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994]]'
@@ -95,6 +95,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-chatgpt-slides-lets-you-create-presentations-and-keep-working-on-them-with-your|ChatGPT Slides lets you create presentations and keep working on them with your team…]]
+- Later: 2026-10-19 · OpenHands · [[Changes/OpenHands/2026-10-19-feat-verify-openhands-adopt-the-shared-known-bug-contract-by-enyst-in-https-gith|feat(verify-openhands): adopt the shared known-bug contract]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

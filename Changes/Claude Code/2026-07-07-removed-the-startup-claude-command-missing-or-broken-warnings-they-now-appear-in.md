@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6ceb7f408afeed23ad94294461cf30bd7312580cd6650f9677511f463666b176
+machine_hash: 34c8d99dfd23f3be11d6ef086c2b267c9edf92e3798c416c0c342a2075540791
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Removed the startup "claude command missing or broken" warnings
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-01-background-agents-launched-from-claude-agents-now-commit-push-and-open-a-draft-p|Background
-  agents launched from claude agents now commit, push, and open a draft…]]'
 - '[[Changes/Claude Code/2026-07-02-claude-agents-session-rows-now-show-pull-request-links-as-bare-n-without-the-red|claude
   agents session rows now show pull-request links as bare ♯N without…]]'
 - '[[Changes/Claude Code/2026-07-06-changed-review-pr-back-to-a-fast-single-pass-review-use-code-review-level-pr-for|Changed
   /review pr back to a fast single-pass review]]'
+- '[[Changes/OpenHands/2026-07-06-feat-add-full-git-history-user-setting-by-malhotra5-in-https-github-com-openhand|feat:
+  Add full Git history user setting]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc|claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc]]'
 source_type: github_releases
 theme: developer-workflow
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-06 · Claude Code · [[Changes/Claude Code/2026-07-06-changed-review-pr-back-to-a-fast-single-pass-review-use-code-review-level-pr-for|Changed /review pr back to a fast single-pass review]]
-- Later: 2026-07-10 · Claude Code · [[Changes/Claude Code/2026-07-10-4-developer-workflow-changes-in-v2-1-206|4 Developer Workflow changes in v2.1.206]]
+- Earlier: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-feat-add-full-git-history-user-setting-by-malhotra5-in-https-github-com-openhand|feat: Add full Git history user setting]]
+- Later: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-7-developer-workflow-changes-in-v1-0-69|7 Developer Workflow changes in v1.0.69]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

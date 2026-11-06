@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 3b7333e3457ff051199052b350006602dd9f6feedf6780a4f196222aeae10cdb
+machine_hash: 9ee2176cc293b83a9175df81af6120380b32449237b7c6a15c397dc783fc6d0e
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
     Opus 4.8
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-05-28-we-re-updating-gpt-5-5-instant-in-chatgpt-and-the-api-to-improve-response-style|GPT-5.5
-  Instant Update]]'
-- '[[Changes/Claude Code/2026-05-28-5-model-support-changes-in-v2-1-154|5 Model Support
-  changes in v2.1.154]]'
-- '[[Changes/Claude Code/2026-05-28-model-now-saves-your-selection-as-the-default-for-new-sessions-matching-the-ide|/model
-  now saves your selection as the default for new sessions (matching the IDE)]]'
+- '[[Changes/Cline/2026-05-28-2-model-support-changes-in-v3-86-0|2 Model Support changes
+  in v3.86.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-28-3-model-support-changes-in-v1-0-55|3 Model
+  Support changes in v1.0.55]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-29-2-model-support-changes-in-v1-0-56|2 Model
+  Support changes in v1.0.56]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-30-v2-1-158-github-331845855-ec9308fc|claude-code-2026-05-30-v2-1-158-github-331845855-ec9308fc]]'
 source_type: github_releases
 theme: model-support
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-model-now-saves-your-selection-as-the-default-for-new-sessions-matching-the-ide|/model now saves your selection as the default for new sessions (matching the IDE)]]
-- Later: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-removed-claude-code-opus-4-6-fast-mode-override-the-environment-variable-is-now|Removed CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE; the environment variable is now a no-op]]
+- Earlier: 2026-05-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-29-2-model-support-changes-in-v1-0-56|2 Model Support changes in v1.0.56]]
+- Later: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-5-model-support-changes-in-rust-v0-136-0|5 Model Support changes in rust-v0.136.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

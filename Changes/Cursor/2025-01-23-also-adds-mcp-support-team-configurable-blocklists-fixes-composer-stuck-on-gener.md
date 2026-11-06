@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 275525639be1f30c5b2439e3900c0a7f1036e605d4f2e7665e0df982f273f652
+machine_hash: 6ce304f20abba3c878e0ad1d1a4ddc7c30f21437313c0e02c723527968b953ca
 product: cursor
 product_name: Cursor
 record:
@@ -57,11 +57,12 @@ record:
   title: Also adds MCP support, team-configurable blocklists, fixes Composer stuck…
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-11-24-several-performance-improvements|Several performance
-  improvements]]'
-- '[[Changes/Cursor/2024-12-17-cursor-starts-up-faster|Cursor starts up faster]]'
-- '[[Changes/Cursor/2024-12-17-cheaper-and-faster-bug-finding-model|Cheaper and faster
-  Bug Finding Model]]'
+- '[[Changes/Cline/2024-12-18-when-cline-needs-to-make-targeted-edits-to-large-files-he-now-uses-a-search-repl|When
+  Cline needs to make targeted edits to large files, he now uses a search…]]'
+- '[[Changes/OpenHands/2025-01-07-performance-improvement-of-ui-during-long-sessions-by-amanape-in-https-github-co|Performance
+  improvement of UI during long sessions]]'
+- '[[Changes/Aider/2025-01-10-2-reliability-and-performance-changes-in-v0-71-0|2 Reliability
+  and Performance changes in v0.71.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228|cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -97,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-12-17 · Cursor · [[Changes/Cursor/2024-12-17-cheaper-and-faster-bug-finding-model|Cheaper and faster Bug Finding Model]]
-- Later: 2025-02-14 · ChatGPT · [[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved Android conversation parsing performance]]
+- Earlier: 2025-01-10 · Aider · [[Changes/Aider/2025-01-10-2-reliability-and-performance-changes-in-v0-71-0|2 Reliability and Performance changes in v0.71.0]]
+- Later: 2025-02-13 · OpenHands · [[Changes/OpenHands/2025-02-13-optimize-memory-usage-in-fileeditobservation-by-neubig-in-https-github-com-all-h|Optimize memory usage in FileEditObservation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

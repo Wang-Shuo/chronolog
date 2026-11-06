@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b83e109dcd33d1836ca97c9b934b79277e1cb9d28b5fe5fe5b31a42eb5247e14
+machine_hash: 294b4800ec8afb9937654515dd37ff5cf94ad7e224bff964212561b9a6c493a7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,10 +46,10 @@ record:
     period
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-04-added-requiredminimumversion-and-requiredmaximumversion-managed-settings-claude|Added
-  requiredMinimumVersion and requiredMaximumVersion managed settings]]'
-- '[[Changes/ChatGPT/2026-06-08-send-an-email-directly-from-within-a-chat-if-you-ve-connected-gmail-or-outlook-y|Send
-  an email directly from within a chat]]'
+- '[[Changes/OpenHands/2026-07-06-3-enterprise-and-administration-changes-in-1-9-0|3
+  Enterprise and Administration changes in 1.9.0]]'
+- '[[Changes/OpenHands/2026-07-07-feat-enterprise-auth-super-admin-management-endpoint-grant-revoke-list-by-jpshac|feat(enterprise/auth):
+  super-admin management endpoint (grant/revoke/list)]]'
 - '[[Changes/ChatGPT/2026-07-09-business-and-enterprise-customers-already-have-access-to-sites-starting-today-th|Business
   and Enterprise customers already have access to Sites]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272]]'

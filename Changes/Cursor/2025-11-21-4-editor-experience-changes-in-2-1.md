@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a5bb463e72d20d089b1a2e00b671ead00259728066dd2ab8245633c59ce9f77
+machine_hash: 66773cfe3cc96200f21e6a6c9d9ecea148efaec026046b833b8d7ee9e2e86798
 product: cursor
 product_name: Cursor
 record:
@@ -48,11 +48,11 @@ record:
   title: 4 Editor Experience changes in 2.1
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-when-writing-prompts-autocomplete-suggestions-will-appear-based-on-recent-change|Autocomplete
-  for Agent]]'
-- '[[Changes/Cursor/2025-09-29-1-7-4-shift-tab-shortcut-improvements|1.7.4: Shift+Tab
-  shortcut improvements]]'
-- '[[Changes/Cursor/2025-09-29-pr-summaries-from-bugbot|PR summaries from Bugbot]]'
+- '[[Changes/Windsurf/2025-11-13-shortcuts|Shortcuts]]'
+- '[[Changes/Gemini CLI/2025-11-14-add-expected-replacements-to-smart-edit-tool-by-scidomino-in-https-github-com-go|Add
+  expected_replacements to smart-edit tool]]'
+- '[[Changes/Codex CLI/2025-11-19-use-shared-network-gating-helper-in-chat-completion-tests-6461-aibrahim|Use
+  shared network gating helper in chat completion tests (♯6461) — @aibrahim]]'
 source_release: '[[Releases/Cursor/cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490|cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -95,8 +95,8 @@ Source: https://cursor.com/changelog/2-1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-pr-summaries-from-bugbot|PR summaries from Bugbot]]
-- Later: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-browser-layout-and-style-editor-c9ae9c|Browser layout and style editor]]
+- Earlier: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-use-shared-network-gating-helper-in-chat-completion-tests-6461-aibrahim|Use shared network gating helper in chat completion tests (♯6461) — @aibrahim]]
+- Later: 2025-11-21 · Windsurf · [[Changes/Windsurf/2025-11-21-tab-completion|Tab Completion]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5519fbde3e86d29b8b243e64ed8bbc3deb25b8e0b3603a0e4bd78d70222dd457
+machine_hash: f5286b8647bf5e40e1021a819dd5be50add79398a21fd023144e6b483647a54b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -68,8 +68,8 @@ record:
   title: A new Pro plan with Astra Ultrafast
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-24-updated-the-claude-api-skill-pre-output-refusal-billing-now-links-to-the-how-ref|Updated
-  the claude-api skill]]'
+- '[[Changes/OpenHands/2026-09-25-feat-scope-openai-subscription-caches-by-backend-by-uczltw6-in-https-github-com|feat:
+  scope OpenAI subscription caches by backend]]'
 - '[[Changes/Claude Code/2026-09-28-2-pricing-model-changes-in-v2-1-284|2 Pricing
   Model changes in v2.1.284]]'
 - '[[Changes/ChatGPT/2026-09-29-pro-200-is-available-for-new-subscriptions-again-at-200-month-5ed430|Pro

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: daf6fa6154ee3443104b902b264e523e5eb410c6b1c6b608aac01345170ff280
+machine_hash: 0f5760305f1db9cde275dd89b9dc48f2477f080d6ab2a75f1d7280362f13987c
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.143
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-13-added-terminalsequence-field-to-hook-json-output-so-hooks-can-emit-desktop-notif|Added
-  terminalSequence field to hook JSON output so hooks can emit desktop…]]'
 - '[[Changes/Cursor/2026-05-13-environment-configuration-as-code-827fd1|Environment
   configuration as code]]'
 - '[[Changes/Cursor/2026-05-13-removed-noisy-in-app-terminal-notifications-and-improved-shortcut-behavior|Removed
   noisy in-app terminal notifications and improved shortcut behavior]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-14-terminal-cursor-positions-correctly-on-the-input-field-instead-of-on-decorative|Terminal
+  cursor positions correctly on the input field instead of on decorative…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c|claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c]]'
 source_type: github_releases
 theme: developer-workflow
@@ -90,8 +90,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.143
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-removed-noisy-in-app-terminal-notifications-and-improved-shortcut-behavior|Removed noisy in-app terminal notifications and improved shortcut behavior]]
-- Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-3-developer-workflow-changes-in-v2-1-144|3 Developer Workflow changes in v2.1.144]]
+- Earlier: 2026-05-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-14-terminal-cursor-positions-correctly-on-the-input-field-instead-of-on-decorative|Terminal cursor positions correctly on the input field instead of on decorative…]]
+- Later: 2026-05-16 · Windsurf · [[Changes/Windsurf/2026-05-16-2-developer-workflow-changes-in-v2-3-9|2 Developer Workflow changes in v2.3.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

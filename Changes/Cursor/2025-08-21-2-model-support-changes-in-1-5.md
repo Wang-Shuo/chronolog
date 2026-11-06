@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3baf109257fdbf2d8bad62982aa1f5b6c0c1ed2133abafbd0f704c2c10e2226d
+machine_hash: d13f167746e8a61117595d8a051fde32c9dff22f427254287f34e9f8dcc7a6d6
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Model Support changes in 1.5
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-12-gmail-google-calendar-and-google-contacts-are-now-available-to-connect-and-use-i-9ea6d6|Gmail,
-  Google Calendar, and Google Contacts Connectors in ChatGPT (Pro)]]'
-- '[[Changes/ChatGPT/2025-08-12-you-can-now-choose-between-auto-fast-and-thinking-for-gpt-5-most-users-will-want-f4c05b|GPT-5
-  Updates]]'
-- '[[Changes/ChatGPT/2025-08-15-we-re-making-gpt-5-s-default-personality-warmer-and-more-familiar-this-is-in-res-19a03e|GPT-5
-  Updates]]'
+- '[[Changes/Codex CLI/2025-08-20-4-model-support-changes-in-rust-v0-23-0|4 Model
+  Support changes in rust-v0.23.0]]'
+- '[[Changes/Cline/2025-08-21-feat-sap-provider-show-deployed-models-from-the-ai-core-service-instance-alongsi|feat:
+  sap provider - show deployed models from the ai core service instance…]]'
+- '[[Changes/Cline/2025-08-21-removing-max-tokens-from-sonic-model-by-pashpashpash-in-https-github-com-cline-c|removing
+  max tokens from sonic model]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89|cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89]]'
 source_type: cursor_changelog
 theme: model-support
@@ -89,8 +89,8 @@ Source: https://cursor.com/changelog/1-5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-15 · ChatGPT · [[Changes/ChatGPT/2025-08-15-we-re-making-gpt-5-s-default-personality-warmer-and-more-familiar-this-is-in-res-19a03e|GPT-5 Updates]]
-- Later: 2025-09-16 · ChatGPT · [[Changes/ChatGPT/2025-09-16-factuality-fewer-hallucinations-improving-answer-quality|Factuality: Fewer hallucinations, improving answer quality]]
+- Earlier: 2025-08-21 · Cline · [[Changes/Cline/2025-08-21-removing-max-tokens-from-sonic-model-by-pashpashpash-in-https-github-com-cline-c|removing max tokens from sonic model]]
+- Later: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-5-model-support-changes-in-rust-v0-24-0|5 Model Support changes in rust-v0.24.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

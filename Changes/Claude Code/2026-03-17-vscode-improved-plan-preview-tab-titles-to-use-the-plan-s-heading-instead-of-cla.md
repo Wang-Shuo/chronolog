@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 44dd02d525b73bb09d84ed3f95ade2a13c7195da1cd0418446f8730fbfca29a4
+machine_hash: 6e8d68953ca7ff728c0d16b1954a0e025beb07e2df675ecbec0d065a902d6ef7
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: '[VSCode] Improved plan preview tab titles to use the plan''s heading instead…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-03-agent-workflows-are-faster-and-more-predictable-for-multi-file-edits-and-pr-heav|Agent
-  workflows are faster and more predictable for multi-file edits and PR-heavy tasks]]'
-- '[[Changes/Cursor/2026-03-04-install-the-cursor-acp-directly-in-your-jetbrains-ide-from-the-acp-registry-and|Install
-  the Cursor ACP directly in your JetBrains IDE from the ACP Registry…]]'
-- '[[Changes/Claude Code/2026-03-10-vscode-added-vscode-anthropic-claude-code-open-uri-handler-to-open-a-new-claude|VSCode:
-  Added vscode://anthropic.claude-code/open URI handler to open a new Claude…]]'
+- '[[Changes/Gemini CLI/2026-03-11-document-node-limitation-for-shift-tab-by-scidomino-in-https-github-com-google-g|document
+  node limitation for shift+tab]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-13-syntax-highlighting-in-diff-with-support-for-17-programming-languages|Syntax
+  highlighting in /diff with support for 17 programming languages]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-16-remaining-requests-widget-no-longer-shows-inaccurate-quota-data-for-copilot-free|Remaining
+  requests widget no longer shows inaccurate quota data for Copilot Free users]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c|claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c]]'
 source_type: github_releases
 theme: editor-experience
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-vscode-added-vscode-anthropic-claude-code-open-uri-handler-to-open-a-new-claude|VSCode: Added vscode://anthropic.claude-code/open URI handler to open a new Claude…]]
-- Later: 2026-03-19 · Claude Code · [[Changes/Claude Code/2026-03-19-improved-permissions-tab-and-arrow-keys-now-switch-tabs-from-within-a-list|Improved /permissions — Tab and arrow keys now switch tabs from within a list]]
+- Earlier: 2026-03-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-16-remaining-requests-widget-no-longer-shows-inaccurate-quota-data-for-copilot-free|Remaining requests widget no longer shows inaccurate quota data for Copilot Free users]]
+- Later: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-feat-core-improve-file-autocomplete-to-prioritize-filenames-by-sehoon38-in-https|feat(core): improve @file autocomplete to prioritize filenames]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

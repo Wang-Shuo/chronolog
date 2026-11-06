@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e020a1846f624e21019a29d6226fd714f89b400171f4079ad29fdcac026af7d7
+machine_hash: a9dec7292747e1bc5127ce53c453dff4d3a7ce364dcdb51710a67bcd9777f61e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -66,11 +66,12 @@ record:
     image…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-image-generation|Image generation]]'
-- '[[Changes/ChatGPT/2026-04-21-we-re-introducing-chatgpt-images-2-0-our-new-image-generation-model-in-chatgpt-c|ChatGPT
-  Images 2.0 in ChatGPT]]'
-- '[[Changes/ChatGPT/2026-07-31-on-august-30-2026-we-re-retiring-the-official-dall-e-gpt-in-chatgpt-we-encourage|Retiring
-  the DALL·E GPT]]'
+- '[[Changes/Codex CLI/2026-08-20-39072-persist-generated-images-through-turn-executors-copyberry|♯39072
+  Persist generated images through turn executors @copyberry]]'
+- '[[Changes/Cline/2026-08-21-let-models-that-support-it-generate-images-during-a-task-generated-images-render|Let
+  models that support it generate images during a task]]'
+- '[[Changes/Codex CLI/2026-08-26-40544-include-transparent-background-in-image-generation-analytics-copyberry|♯40544
+  Include transparent background in image generation analytics @copyberry]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d|chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d]]'
 source_type: chatgpt_changelog
 theme: image-generation
@@ -108,7 +109,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-07-31 · ChatGPT · [[Changes/ChatGPT/2026-07-31-on-august-30-2026-we-re-retiring-the-official-dall-e-gpt-in-chatgpt-we-encourage|Retiring the DALL·E GPT]]
+- Earlier: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-40544-include-transparent-background-in-image-generation-analytics-copyberry|♯40544 Include transparent background in image generation analytics @copyberry]]
+- Later: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-43953-preserve-per-image-generation-ids-in-image-generation-analytics-copyberry|♯43953 Preserve per-image generation IDs in image generation analytics @copyberry]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

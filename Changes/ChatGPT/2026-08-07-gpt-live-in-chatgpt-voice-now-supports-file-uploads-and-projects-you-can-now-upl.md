@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-08-07 · Voice and Audio: GPT-Live in ChatGPT Voic
   supports file uploads and Projects. You can now upload files in a voice conversation
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
-    (Beta) is now rolling out to Plus users on iOS and Android]]'
+  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
+    link) support, which allows you…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1047
+  lag_days: 1092
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 174a9b5e20ea8bcacf805542c63c31fa1624385160e49e800c1d68388a232f6a
+machine_hash: 33bcff9afed2c97d48c87b6630bbfe75dbfcbb587bf530964ebbee89d671a29a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,8 +48,8 @@ record:
   title: Files and Projects in ChatGPT Voice
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star|ChatGPT
-  Voice in Work and Codex on desktop]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-30-voice-mode-pauses-playing-media-before-recording-and-resumes-it-afterward-where|Voice
+  mode pauses playing media before recording and resumes it afterward, where…]]'
 - '[[Changes/ChatGPT/2026-08-07-start-voice-conversations-faster-improved-connection-times-make-it-quicker-to-be|Start
   Voice conversations faster]]'
 - '[[Changes/ChatGPT/2026-08-07-safeguards-for-background-voice-conversations-on-mobile-chatgpt-can-recognize-wh|Safeguards
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
+- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

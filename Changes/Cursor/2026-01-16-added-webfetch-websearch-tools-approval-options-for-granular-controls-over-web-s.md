@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2df1500164a7bb9c18f80f034271df52e80be3e922430bfca66fba4103d8a901
+machine_hash: 1b2ba64b214005991e4405d969e4e385e60b5499d5cb0c3965f382b52e10ef46
 product: cursor
 product_name: Cursor
 record:
@@ -55,12 +55,12 @@ record:
     over web…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-16-we-ve-made-further-improvements-to-search-in-chatgpt-making-results-more-accurat|ChatGPT
-  makes further improvements to search, making results more accurate…]]'
-- '[[Changes/ChatGPT/2025-09-16-shopping-search-is-better-at-detecting-shopping-intent-showing-products-when-you|Shopping:
-  Search is better at detecting shopping intent, showing products when you…]]'
-- '[[Changes/Cursor/2025-09-29-1-7-20-web-search-auto-accept-setting|1.7.20: Web search
-  auto-accept setting]]'
+- '[[Changes/Codex CLI/2025-11-13-2-search-and-browsing-changes-in-rust-v0-58-0|2
+  Search and Browsing changes in rust-v0.58.0]]'
+- '[[Changes/Codex CLI/2026-01-07-4-search-and-browsing-changes-in-rust-v0-79-0|4
+  Search and Browsing changes in rust-v0.79.0]]'
+- '[[Changes/Codex CLI/2026-01-16-2-search-and-browsing-changes-in-rust-v0-86-0|2
+  Search and Browsing changes in rust-v0.86.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5|cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5]]'
 source_type: cursor_changelog
 theme: search-browsing
@@ -101,8 +101,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-1-7-20-web-search-auto-accept-setting|1.7.20: Web search auto-accept setting]]
-- Later: 2026-02-27 · ChatGPT · [[Changes/ChatGPT/2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results|Open search results in a new tab]]
+- Earlier: 2026-01-16 · Codex CLI · [[Changes/Codex CLI/2026-01-16-2-search-and-browsing-changes-in-rust-v0-86-0|2 Search and Browsing changes in rust-v0.86.0]]
+- Later: 2026-01-27 · Codex CLI · [[Changes/Codex CLI/2026-01-27-5-search-and-browsing-changes-in-rust-v0-92-0|5 Search and Browsing changes in rust-v0.92.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

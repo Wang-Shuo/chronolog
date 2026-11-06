@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d49e44d61fa45116435fdff33987c14719ed892c2433359bedef69d31cee026d
+machine_hash: 85f41ef804c87fa4a997487da485ee8708ef52373728b188868e5e86c533fda8
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Added Windows ARM64 (win32-arm64) native binary support
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05|Group
-  chats in ChatGPT]]'
-- '[[Changes/Claude Code/2026-01-09-added-support-for-windows-package-manager-winget-installations-with-automatic-de|Added
-  support for Windows Package Manager (winget) installations with automatic…]]'
-- '[[Changes/Cursor/2026-01-22-windows-notifications-now-have-accept-reject-buttons-like-macos|Windows
-  notifications now have accept/reject buttons like MacOS]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-05-detached-shell-processes-work-on-vanilla-macos-installations|Detached
+  shell processes work on vanilla macOS installations]]'
+- '[[Changes/Codex CLI/2026-02-11-4-mobile-and-desktop-changes-in-rust-v0-99-0|4 Mobile
+  and Desktop changes in rust-v0.99.0]]'
+- '[[Changes/Codex CLI/2026-02-12-4-mobile-and-desktop-changes-in-rust-v0-100-0|4
+  Mobile and Desktop changes in rust-v0.100.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8|claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-windows-notifications-now-have-accept-reject-buttons-like-macos|Windows notifications now have accept/reject buttons like MacOS]]
-- Later: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-2-mobile-and-desktop-changes-in-cli-improvements-and-mermaid-ascii|2 Mobile and Desktop changes in CLI Improvements and Mermaid ASCII…]]
+- Earlier: 2026-02-12 · Codex CLI · [[Changes/Codex CLI/2026-02-12-4-mobile-and-desktop-changes-in-rust-v0-100-0|4 Mobile and Desktop changes in rust-v0.100.0]]
+- Later: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-2-mobile-and-desktop-changes-in-rust-v0-102-0|2 Mobile and Desktop changes in rust-v0.102.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

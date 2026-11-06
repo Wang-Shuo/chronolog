@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: e4d16f101646e6f9ba2df40b28e23f486949216cc55e83586fc6ce9d67e00f54
+machine_hash: 660bd0f0e29f848f0b46696ce0f78217b8c7c2e75c4b00de82a00b35484dabba
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,12 +57,12 @@ record:
     unpushed…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-06-changed-review-pr-back-to-a-fast-single-pass-review-use-code-review-level-pr-for|Changed
-  /review pr back to a fast single-pass review]]'
-- '[[Changes/Claude Code/2026-07-07-removed-the-startup-claude-command-missing-or-broken-warnings-they-now-appear-in|Removed
-  the startup "claude command missing or broken" warnings]]'
 - '[[Changes/Claude Code/2026-07-10-4-developer-workflow-changes-in-v2-1-206|4 Developer
   Workflow changes in v2.1.206]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-10-3-developer-workflow-changes-in-v1-0-70|3
+  Developer Workflow changes in v1.0.70]]'
+- '[[Changes/Codex CLI/2026-07-13-published-a-version-only-release-with-no-merged-pull-request-changes-since-rust|Published
+  a version-only release with no merged pull request changes since rust-v0.144.2]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-208-github-353442054-2756b984|claude-code-2026-07-14-v2-1-208-github-353442054-2756b984]]'
 source_type: github_releases
 theme: developer-workflow
@@ -98,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-10 · Claude Code · [[Changes/Claude Code/2026-07-10-4-developer-workflow-changes-in-v2-1-206|4 Developer Workflow changes in v2.1.206]]
-- Later: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-changed-enterprise-forceloginmethod-to-be-enforced-for-vs-code-extension-sdk-set|Changed Enterprise forceLoginMethod to be enforced for VS Code extension, SDK…]]
+- Earlier: 2026-07-13 · Codex CLI · [[Changes/Codex CLI/2026-07-13-published-a-version-only-release-with-no-merged-pull-request-changes-since-rust|Published a version-only release with no merged pull request changes since rust-v0.144.2]]
+- Later: 2026-07-16 · Codex CLI · [[Changes/Codex CLI/2026-07-16-2-developer-workflow-changes-in-rust-v0-144-5|2 Developer Workflow changes in rust-v0.144.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

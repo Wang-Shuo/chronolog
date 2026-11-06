@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9fee549bd2ab1b4ba8a3ac13d90e9ede6aaab2438b03aa8fb44004516f25e2c2
+machine_hash: 9ab585cde2ba2a719346e6ffb7b7cd0e7e758b4d80350794a03bef0008214962
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Changed analytics to no longer turn off before sign-in solely because managed…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-25-chatgpt-work-s-browser-on-web-and-mobile-can-also-help-you-get-tasks-done-on-som-99be54|ChatGPT
-  Work can now complete tasks on signed-in websites]]'
-- '[[Changes/Claude Code/2026-08-25-improved-attribution-of-usage-telemetry-to-your-organization-for-workload-identi|Improved
-  attribution of usage telemetry to your organization for workload identity…]]'
 - '[[Changes/Claude Code/2026-08-26-3-account-and-access-changes-in-v2-1-247|3 Account
   and Access changes in v2.1.247]]'
+- '[[Changes/Codex CLI/2026-08-26-2-account-and-access-changes-in-rust-v0-150-0|2
+  Account and Access changes in rust-v0.150.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-27-2-account-and-access-changes-in-v1-0-81|2
+  Account and Access changes in v1.0.81]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96|claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96]]'
 source_type: github_releases
 theme: account-access
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-3-account-and-access-changes-in-v2-1-247|3 Account and Access changes in v2.1.247]]
-- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-2-account-and-access-changes-in-v2-1-257|2 Account and Access changes in v2.1.257]]
+- Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-2-account-and-access-changes-in-v1-0-81|2 Account and Access changes in v1.0.81]]
+- Later: 2026-08-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-29-show-the-specific-authentication-failure-such-as-401-bad-credentials-instead-of|Show the specific authentication failure (such as 401 Bad credentials) instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

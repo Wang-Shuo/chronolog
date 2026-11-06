@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 135e803c2dd4a2bffb5acceb8925d2a91cc3b68afdb98607cc73c474866b781a
+machine_hash: 003ac497cda815ce064524f35092322fd840b5da2788a790d6dea18c24a5345a
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: '[VSCode] `/context` now opens a native token usage dialog'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-10-improved-tool-not-available-errors-to-explain-why-and-how-to-proceed-when-the-mo|Improved
-  tool-not-available errors to explain why and how to proceed when the model…]]'
-- '[[Changes/Claude Code/2026-04-14-2-context-window-changes-in-v2-1-108|2 Context
-  Window changes in v2.1.108]]'
-- '[[Changes/Claude Code/2026-04-15-added-option-to-show-claude-s-last-response-as-commented-context-in-the-ctrl-g-e|Added
-  option to show Claude''s last response as commented context in the Ctrl+G…]]'
+- '[[Changes/Codex CLI/2026-04-23-2-context-window-changes-in-rust-v0-124-0|2 Context
+  Window changes in rust-v0.124.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-23-2-context-window-changes-in-v1-0-35|2 Context
+  Window changes in v1.0.35]]'
+- '[[Changes/Codex CLI/2026-04-24-2-context-window-changes-in-rust-v0-125-0|2 Context
+  Window changes in rust-v0.125.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce|claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce]]'
 source_type: github_releases
 theme: context-window
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-added-option-to-show-claude-s-last-response-as-commented-context-in-the-ctrl-g-e|Added option to show Claude's last response as commented context in the Ctrl+G…]]
-- Later: 2026-05-06 · Cursor · [[Changes/Cursor/2026-05-06-you-can-now-see-a-breakdown-of-your-agent-s-context-usage-e005b2|Context Usage Breakdown]]
+- Earlier: 2026-04-24 · Codex CLI · [[Changes/Codex CLI/2026-04-24-2-context-window-changes-in-rust-v0-125-0|2 Context Window changes in rust-v0.125.0]]
+- Later: 2026-04-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-28-add-compact-context-usage-and-env-slash-commands-for-acp-sessions|Add /compact, /context, /usage, and /env slash commands for ACP sessions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

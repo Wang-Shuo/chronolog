@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d9edd4f3a0ca4a13f3d910d3969527930fbf9e9095ee167802e5890819a9065e
+machine_hash: 686aa2fc9dc2272dc32abbf267e9817f0eb8b1a33c543f0dcf9b5738c88a605d
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: '`--channels` now works with console (API key) authentication'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-28-clarified-the-mcp-message-shown-when-an-mcp-server-is-still-unauthorized-after-t|Clarified
-  the /mcp message shown when an MCP server is still unauthorized after…]]'
-- '[[Changes/ChatGPT/2026-04-30-we-re-rolling-out-advanced-account-security-an-optional-setting-for-personal-cha|Advanced
-  Account Security in ChatGPT]]'
+- '[[Changes/Codex CLI/2026-04-30-3-account-and-access-changes-in-rust-v0-128-0|3
+  Account and Access changes in rust-v0.128.0]]'
 - '[[Changes/Claude Code/2026-05-01-claude-auth-login-now-accepts-the-oauth-code-pasted-into-the-terminal-when-the-b|claude
   auth login now accepts the OAuth code pasted into the terminal…]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-01-2-account-and-access-changes-in-v1-0-40|2
+  Account and Access changes in v1.0.40]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2|claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2]]'
 source_type: github_releases
 theme: account-access
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-claude-auth-login-now-accepts-the-oauth-code-pasted-into-the-terminal-when-the-b|claude auth login now accepts the OAuth code pasted into the terminal…]]
+- Earlier: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-2-account-and-access-changes-in-v1-0-40|2 Account and Access changes in v1.0.40]]
 - Later: 2026-05-05 · ChatGPT · [[Changes/ChatGPT/2026-05-05-chatgpt-for-excel-and-google-sheets-is-now-available-globally-bringing-chatgpt-i|ChatGPT for Excel and Google Sheets]]
 <!-- chronolog:end -->
 

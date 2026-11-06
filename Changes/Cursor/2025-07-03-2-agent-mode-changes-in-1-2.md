@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a03656040879a1b0274d2aa3e6b317af99aa976bb5f47339ed71e855ba82a1f7
+machine_hash: 373bfea6f3ca399e16468c175b0a801b46511a09aa6d21bdf16f17b8b9739a56
 product: cursor
 product_name: Cursor
 record:
@@ -91,8 +91,8 @@ Source: https://cursor.com/changelog/1-2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-improved-background-agent-reliability|Improved Background Agent reliability]]
-- Later: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-agents-can-now-use-your-native-terminal-a-new-terminal-will-be-created-when-need|Share terminal with Agent]]
+- Earlier: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-fixed-incorrect-tracking-for-cost-and-token-usage-for-main-agent-and-delegates-b|Fixed incorrect tracking for cost and token usage for main agent and delegates]]
+- Later: 2025-07-19 · Codex CLI · [[Changes/Codex CLI/2025-07-19-https-github-com-openai-codex-pull-1589-changes-ctrl-d-so-it-only-exits-the-tui|(source link) changes ctrl-d so it only exits the TUI…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: ce227ae284ce5398351723ff916c11dee89f969126d86d6f1ff2ee6dd2f46914
+machine_hash: d76a40012cb23664536078921c388d0bad1f89cdaa3cd8d389e37c3bb828bf5a
 product: cursor
 product_name: Cursor
 record:
@@ -49,8 +49,8 @@ record:
     or pull…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-04-auto-mode-when-the-classifier-can-t-evaluate-an-action-the-error-now-includes-a|Auto
-  mode: when the classifier can''t evaluate an action, the error now includes…]]'
+- '[[Changes/Codex CLI/2026-05-07-5-agent-mode-changes-in-rust-v0-129-0|5 Agent Mode
+  changes in rust-v0.129.0]]'
 - '[[Changes/Cursor/2026-05-07-added-the-ability-to-control-explore-subagent-behavior-from-settings-choose-a-sp|Added
   the ability to control Explore subagent behavior from settings]]'
 - '[[Changes/Claude Code/2026-05-11-2-agent-mode-changes-in-v2-1-139|2 Agent Mode
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-2-agent-mode-changes-in-v2-1-139|2 Agent Mode changes in v2.1.139]]
-- Later: 2026-05-12 · Claude Code · [[Changes/Claude Code/2026-05-12-2-agent-mode-changes-in-v2-1-140|2 Agent Mode changes in v2.1.140]]
+- Later: 2026-05-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-11-agentstop-hook-now-fires-correctly-when-the-agent-stops-via-task-complete|agentStop hook now fires correctly when the agent stops via task_complete]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

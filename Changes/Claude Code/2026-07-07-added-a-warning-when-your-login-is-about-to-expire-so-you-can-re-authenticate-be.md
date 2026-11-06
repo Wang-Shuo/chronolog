@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9c2f61bf431614c51a424ab7a75d21675cc8605526dc6ef75ee89e8fb13e9590
+machine_hash: 427913f43524c56112d6d312ccd18a329825d0d19391f1735078eb4fef1d700e
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Added a warning when your login is about to expire, so you can re-authenticate…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-25-added-a-startup-notice-when-mcp-servers-need-authentication-pointing-at-mcp|Added
-  a startup notice when MCP servers need authentication, pointing at /mcp]]'
 - '[[Changes/Claude Code/2026-07-01-login-now-opens-the-sign-in-dialog-from-the-claude-agents-view-instead-of-saying|/login
   now opens the sign-in dialog from the claude agents view instead…]]'
 - '[[Changes/ChatGPT/2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-globally-from-a-sidebar-in-mic|ChatGPT
   for PowerPoint is now generally available]]'
+- '[[Changes/OpenHands/2026-07-06-3-account-and-access-changes-in-1-9-0|3 Account
+  and Access changes in 1.9.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc|claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc]]'
 source_type: github_releases
 theme: account-access
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-07-06 · ChatGPT · [[Changes/ChatGPT/2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-globally-from-a-sidebar-in-mic|ChatGPT for PowerPoint is now generally available]]
-- Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-we-re-deprecating-atlas-as-we-bring-browser-based-agentic-capabilities-into-chat|Retiring Atlas]]
+- Earlier: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-3-account-and-access-changes-in-1-9-0|3 Account and Access changes in 1.9.0]]
+- Later: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-6-account-and-access-changes-in-v1-0-69|6 Account and Access changes in v1.0.69]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7f66c2f3d3f4b37379b8cc2b9cc14e7271c8331de906ce77161bc6e9311e8381
+machine_hash: 44ea10d36363273cc505968f9d8085bc33bb65c59e4ca772f64f2539efef3f80
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     setup…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-16-create-and-refine-edit-text-images-shapes-and-charts-directly-or-ask-chatgpt-to|Create
-  and refine]]'
-- '[[Changes/ChatGPT/2026-10-16-work-together-invite-teammates-to-edit-the-same-deck-in-real-time-and-leave-shar|Work
-  together]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-21-fish-shell-completion-works-when-aliases-include-option-aliases-like-effort|Fish
+  shell completion works when aliases include option aliases like --effort]]'
 - '[[Changes/Claude Code/2026-10-22-2-editor-experience-changes-in-v2-1-309|2 Editor
   Experience changes in v2.1.309]]'
+- '[[Changes/OpenHands/2026-10-22-refactor-diff-express-the-markdown-preview-cap-in-css-by-enyst-in-https-github-c|refactor(diff):
+  express the Markdown preview cap in CSS]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2|claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2]]'
 source_type: github_releases
 theme: editor-experience
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-2-editor-experience-changes-in-v2-1-309|2 Editor Experience changes in v2.1.309]]
-- Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-vscode-changed-the-session-list-side-bar-to-load-web-sessions-when-the-web-tab-i|VSCode Changed the session list side bar to load Web sessions when the Web tab…]]
+- Earlier: 2026-10-22 · OpenHands · [[Changes/OpenHands/2026-10-22-refactor-diff-express-the-markdown-preview-cap-in-css-by-enyst-in-https-github-c|refactor(diff): express the Markdown preview cap in CSS]]
+- Later: 2026-10-23 · OpenHands · [[Changes/OpenHands/2026-10-23-chore-verify-openhands-time-network-responses-and-order-them-by-completion-by-en|chore(verify-openhands): time network responses and order them by completion]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

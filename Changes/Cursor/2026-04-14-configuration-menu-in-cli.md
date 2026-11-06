@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2799c25eb3b9c4d0f007b6de8b98c8c10e241ea409cc4ca01c846c847a849e90
+machine_hash: 6941ff1bc7274f45848aa6dc041565738e38243a5c69131ee084f154b69ab0e9
 product: cursor
 product_name: Cursor
 record:
@@ -49,7 +49,8 @@ record:
   title: Configuration menu in CLI
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-13-diff-to-file-navigation|Diff to file navigation]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-13-2-interface-experience-changes-in-v1-0-25|2
+  Interface Experience changes in v1.0.25]]'
 - '[[Changes/Claude Code/2026-04-14-2-interface-experience-changes-in-v2-1-108|2 Interface
   Experience changes in v2.1.108]]'
 - '[[Changes/Claude Code/2026-04-14-show-thinking-hints-sooner-during-long-operations|Show
@@ -91,7 +92,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-14 · Claude Code · [[Changes/Claude Code/2026-04-14-show-thinking-hints-sooner-during-long-operations|Show thinking hints sooner during long operations]]
-- Later: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-added-tui-command-and-tui-setting-run-tui-fullscreen-to-switch-to-flicker-free-r|Added /tui command and tui setting]]
+- Later: 2026-04-14 · Gemini CLI · [[Changes/Gemini CLI/2026-04-14-2-interface-experience-changes-in-v0-38-0|2 Interface Experience changes in v0.38.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

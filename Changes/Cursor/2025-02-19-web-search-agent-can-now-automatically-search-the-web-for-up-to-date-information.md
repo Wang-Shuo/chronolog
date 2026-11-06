@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: ca7e472dd97245f7da655ad5e96fc244ff2c24900185bc44888ee9ad54f139e8
+machine_hash: 507bd7b17e0b8348c0a1aa2990a52a92bc60edef09dcde02fea77c70c79e40c0
 product: cursor
 product_name: Cursor
 record:
@@ -56,10 +56,10 @@ record:
   title: 'Web search: Agent can now automatically search the web for up-to-date information…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-27-browsing-is-rolling-out-to-all-plus-users-chatgpt-can-now-browse-the-internet-to-335b58|Browsing
-  is rolling out to all Plus users]]'
-- '[[Changes/Cursor/2024-01-25-using-web-in-chat-will-give-the-ai-the-ability-to-crawl-the-web-the-tools-it-can|Using
-  @Web in chat will give the AI the ability to crawl the web!]]'
+- '[[Changes/OpenHands/2024-12-04-added-alignment-checker-for-browsing-agent-by-s-aniruddha-in-https-github-com-al|Added
+  Alignment checker for browsing agent]]'
+- '[[Changes/Cline/2024-12-12-the-model-context-protocol-https-github-com-modelcontextprotocol-allows-agents-l|The
+  Model Context Protocol((source link) allows agents…]]'
 - '[[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set
   ChatGPT as default search engine in Safari]]'
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2025-02-14 · ChatGPT · [[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set ChatGPT as default search engine in Safari]]
-- Later: 2025-05-08 · ChatGPT · [[Changes/ChatGPT/2025-05-08-chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also-ad2e25|GitHub connector for deep research for Plus/Pro/Team]]
+- Later: 2025-04-02 · OpenHands · [[Changes/OpenHands/2025-04-02-turn-on-vision-based-browsing-by-default-and-allow-openhands-to-see-pdf-images-i|Turn on vision-based browsing by default and allow OpenHands to see PDF / images…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

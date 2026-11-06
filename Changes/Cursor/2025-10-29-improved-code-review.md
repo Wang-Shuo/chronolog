@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: b0cab3f95791314a4310c792266579c9a75290bf4e467bc0a3f39dcaabe909cc
+machine_hash: d5b2b53fe7e20e1307f46d579fda0d46c4704263ef8cb5dfe05f5db8669aff0e
 product: cursor
 product_name: Cursor
 record:
@@ -45,11 +45,12 @@ record:
   title: Improved Code Review
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-12-5-developer-workflow-changes-in-1-6|5 Developer Workflow
-  changes in 1.6]]'
-- '[[Changes/Cursor/2025-09-12-custom-slash-commands-b79c4b|Custom slash commands]]'
-- '[[Changes/Cursor/2025-09-29-7-developer-workflow-changes-in-1-7|7 Developer Workflow
-  changes in 1.7]]'
+- '[[Changes/GitHub Copilot CLI/2025-10-24-running-many-standard-bash-powershell-commands-that-are-known-to-be-readonly|Running
+  many standard bash/PowerShell commands that are known to be readonly]]'
+- '[[Changes/GitHub Copilot CLI/2025-10-24-3-developer-workflow-changes-in-v0-0-350|3
+  Developer Workflow changes in v0.0.350]]'
+- '[[Changes/Cline/2025-10-27-add-linter-check-for-proto-files-and-add-auto-formatting-by-sjf-in-https-github|Add
+  linter check for proto files and add auto-formatting]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -98,8 +99,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-7-developer-workflow-changes-in-1-7|7 Developer Workflow changes in 1.7]]
-- Later: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-ask-mode-can-use-a-read-only-terminal-to-get-better-answers-like-checking-git-co|Ask Mode can use a read-only terminal to get better answers, like checking git commits]]
+- Earlier: 2025-10-27 · Cline · [[Changes/Cline/2025-10-27-add-linter-check-for-proto-files-and-add-auto-formatting-by-sjf-in-https-github|Add linter check for proto files and add auto-formatting]]
+- Later: 2025-10-29 · Gemini CLI · [[Changes/Gemini CLI/2025-10-29-11-developer-workflow-changes-in-v0-11-0|11 Developer Workflow changes in v0.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f47e079f904158fea88eb3840e27f8632be868175910bbd7f791e488a20ccf11
+machine_hash: 079f47c3dce84bd738a2805508288cba53764d6f52b4688005f7773314d442cc
 product: cursor
 product_name: Cursor
 record:
@@ -40,12 +40,12 @@ record:
   title: '1.4.5: Improved performance'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-03-4-reliability-and-performance-changes-in-1-2|4 Reliability
-  and Performance changes in 1.2]]'
-- '[[Changes/Cursor/2025-07-29-agent-edits-are-now-faster-by-lazy-loading-linter-errors-search-replace-edit-lat|Faster
-  edits]]'
-- '[[Changes/Cursor/2025-07-29-2-reliability-and-performance-changes-in-1-3|2 Reliability
-  and Performance changes in 1.3]]'
+- '[[Changes/Gemini CLI/2025-07-30-run-model-availability-check-in-the-background-to-speed-up-startup-by-sandytao52|Run
+  model availability check in the background to speed up startup]]'
+- '[[Changes/Gemini CLI/2025-08-02-2-reliability-and-performance-changes-in-v0-1-16|2
+  Reliability and Performance changes in v0.1.16]]'
+- '[[Changes/Gemini CLI/2025-08-05-2-reliability-and-performance-changes-in-v0-1-17|2
+  Reliability and Performance changes in v0.1.17]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889|cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-2-reliability-and-performance-changes-in-1-3|2 Reliability and Performance changes in 1.3]]
-- Later: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-1-5-5-general-stability-improvements-and-bug-fixes-to-enhance-overall-applicatio|1.5.5: General stability improvements and bug fixes to enhance overall application…]]
+- Earlier: 2025-08-05 · Gemini CLI · [[Changes/Gemini CLI/2025-08-05-2-reliability-and-performance-changes-in-v0-1-17|2 Reliability and Performance changes in v0.1.17]]
+- Later: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-4-reliability-and-performance-changes-in-v0-1-18|4 Reliability and Performance changes in v0.1.18]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

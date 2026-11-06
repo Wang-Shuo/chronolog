@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 71e97a2a9b9d0ecc9077f1935dce320ec6a3da2bef4f5894cc444e9c57bb3ad9
+machine_hash: 83757a6286a76c0bfe71c0951522e4f90673fb61c7ff4401d9d035a8ab389522
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,12 @@ record:
     edges
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-added-powershell-tool-for-windows-as-an-opt-in-preview-learn-more-at-https-code|Added
-  PowerShell tool for Windows as an opt-in preview]]'
-- '[[Changes/Claude Code/2026-04-01-powershell-tool-on-windows-external-command-arguments-containing-both-a-double-q|PowerShell
-  tool on Windows]]'
+- '[[Changes/Gemini CLI/2026-04-01-feat-core-implement-strict-macos-sandboxing-using-seatbelt-allowlist-by-ehedlund|feat(core):
+  implement strict macOS sandboxing using Seatbelt allowlist]]'
 - '[[Changes/ChatGPT/2026-04-02-we-re-rolling-out-chatgpt-in-carplay-giving-you-access-to-a-hands-free-chatgpt-e|ChatGPT
   in Apple CarPlay]]'
+- '[[Changes/Codex CLI/2026-04-10-6-mobile-and-desktop-changes-in-rust-v0-119-0|6
+  Mobile and Desktop changes in rust-v0.119.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313|cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313]]'
 source_type: cursor_changelog
 theme: mobile-desktop
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-04-02 · ChatGPT · [[Changes/ChatGPT/2026-04-02-we-re-rolling-out-chatgpt-in-carplay-giving-you-access-to-a-hands-free-chatgpt-e|ChatGPT in Apple CarPlay]]
+- Earlier: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-6-mobile-and-desktop-changes-in-rust-v0-119-0|6 Mobile and Desktop changes in rust-v0.119.0]]
 - Later: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-added-push-notification-tool-claude-can-send-mobile-push-notifications-when-remo|Added push notification tool]]
 <!-- chronolog:end -->
 

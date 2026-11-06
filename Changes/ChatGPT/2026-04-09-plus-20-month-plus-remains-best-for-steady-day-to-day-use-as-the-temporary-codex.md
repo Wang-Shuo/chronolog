@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 31647388368a8227f2737dc5a13e5acc6d6da967cd1ac408c1b99411740278c4
+machine_hash: 9cd3ccda8c3d96a41c020d0684edf61af66bfd163a28315ad33a104254b354c1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,8 +51,8 @@ record:
   title: 'Plus ($20/month): Plus remains best for steady, day-to-day use'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-04-added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users|Added
-  per-model and cache-hit breakdown to /cost for subscription users]]'
+- '[[Changes/Gemini CLI/2026-04-08-docs-update-quotas-and-pricing-by-jkcinouye-in-https-github-com-google-gemini-ge|Docs:
+  Update quotas and pricing]]'
 - '[[Changes/ChatGPT/2026-04-09-pro-100-month-built-for-longer-high-intensity-codex-sessions-it-includes-unlimit|Pro
   ($100/month): Built for longer, high-intensity Codex sessions]]'
 - '[[Changes/ChatGPT/2026-04-09-we-re-introducing-a-new-100-month-pro-plan-and-updating-how-codex-usage-works-ac|We’re
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users|Added per-model and cache-hit breakdown to /cost for subscription users]]
+- Earlier: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-docs-update-quotas-and-pricing-by-jkcinouye-in-https-github-com-google-gemini-ge|Docs: Update quotas and pricing]]
 - Later: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-opentelemetry-user-prompt-events-now-include-command-name-and-command-source-for|OpenTelemetry: user_prompt events now include command_name and command_source…]]
 <!-- chronolog:end -->
 

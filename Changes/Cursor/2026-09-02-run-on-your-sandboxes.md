@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 44d35e4cb3f7457e139478b9ac137136ac54b2728ea525a3510ee6b10ddc229e
+machine_hash: 7992e98af17fc32a12dabd199e4cd8f457bf91ff76b3451f8931cf06bfa7bdcf
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
   title: Run on your sandboxes
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-4-agent-mode-changes-in-v2-1-251|4 Agent Mode
-  changes in v2.1.251]]'
-- '[[Changes/Claude Code/2026-09-01-5-agent-mode-changes-in-v2-1-257|5 Agent Mode
-  changes in v2.1.257]]'
+- '[[Changes/Codex CLI/2026-09-01-4-agent-mode-changes-in-rust-v0-152-0|4 Agent Mode
+  changes in rust-v0.152.0]]'
 - '[[Changes/Claude Code/2026-09-02-2-agent-mode-changes-in-v2-1-259|2 Agent Mode
   changes in v2.1.259]]'
+- '[[Changes/Cline/2026-09-02-aborting-a-task-now-also-cancels-the-delegated-subagents-and-teammates-it-spawne|Aborting
+  a task now also cancels the delegated subagents and teammates it spawned…]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-02-self-hosted-machines-https-cursor-com-changelog-self-hosted-mach-28f9f33e|cursor-2026-09-02-self-hosted-machines-https-cursor-com-changelog-self-hosted-mach-28f9f33e]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-2-agent-mode-changes-in-v2-1-259|2 Agent Mode changes in v2.1.259]]
+- Earlier: 2026-09-02 · Cline · [[Changes/Cline/2026-09-02-aborting-a-task-now-also-cancels-the-delegated-subagents-and-teammates-it-spawne|Aborting a task now also cancels the delegated subagents and teammates it spawned…]]
 - Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-2-agent-mode-changes-in-v2-1-260|2 Agent Mode changes in v2.1.260]]
 <!-- chronolog:end -->
 

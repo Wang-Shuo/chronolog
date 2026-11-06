@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1c2b4178697b7ee0ac3e2d871bd1cf3637772021e56f9e274de79668cb116781
+machine_hash: 0f37469b149eeb9b0e8bcb11526cc9b2d6da9cb206e6c37a268fdd50976c4ebb
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,12 +56,12 @@ record:
   title: 5 Safety and Privacy changes in v2.1.295
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-06-6-safety-and-privacy-changes-in-v2-1-292|6 Safety
-  and Privacy changes in v2.1.292]]'
-- '[[Changes/Claude Code/2026-10-06-fixed-a-regression-in-2-1-290-where-cloud-sessions-could-drop-answers-to-permiss|Fixed
-  a regression in 2.1.290 where cloud sessions could drop answers to permission…]]'
 - '[[Changes/Claude Code/2026-10-07-3-safety-and-privacy-changes-in-v2-1-293|3 Safety
   and Privacy changes in v2.1.293]]'
+- '[[Changes/Codex CLI/2026-10-07-9-safety-and-privacy-changes-in-rust-v0-161-0|9
+  Safety and Privacy changes in rust-v0.161.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-07-2-safety-and-privacy-changes-in-v1-0-93|2
+  Safety and Privacy changes in v1.0.93]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'
 source_type: github_releases
 theme: safety-privacy
@@ -111,8 +111,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.295
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-3-safety-and-privacy-changes-in-v2-1-293|3 Safety and Privacy changes in v2.1.293]]
-- Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-4-safety-and-privacy-changes-in-v2-1-296|4 Safety and Privacy changes in v2.1.296]]
+- Earlier: 2026-10-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-07-2-safety-and-privacy-changes-in-v1-0-93|2 Safety and Privacy changes in v1.0.93]]
+- Later: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-13-safety-and-privacy-changes-in-rust-v0-162-0|13 Safety and Privacy changes in rust-v0.162.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

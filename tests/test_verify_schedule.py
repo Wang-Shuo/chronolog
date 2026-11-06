@@ -7,6 +7,7 @@ import sys
 import pytest
 
 from _scripts import verify_schedule
+from _scripts.collect import load_sources
 
 
 @pytest.mark.parametrize('latest_conclusion', ['success', 'failure', 'in_progress'])
@@ -38,7 +39,7 @@ def test_selects_latest_attempt_without_mixing_old_artifacts(tmp_path, monkeypat
         (destination / 'quality.json').write_text(json.dumps({
             'input_kind': 'live', 'status': 'failed' if latest_conclusion == 'failure' else 'no-change',
             'sources': [{'product': p, 'status': 'failed' if latest_conclusion == 'failure' else 'success'}
-                        for p in ['chatgpt', 'claude-code', 'cursor']]}))
+                        for p in [s['name'] for s in load_sources(Path('_scripts/sources.yaml'))]]}))
 
     out = tmp_path / 'evidence'
     monkeypatch.setattr(sys, 'argv', ['verify_schedule', '--repo', 'owner/repo', '--output', str(out)])

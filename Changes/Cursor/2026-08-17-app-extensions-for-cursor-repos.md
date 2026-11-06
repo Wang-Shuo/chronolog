@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 61db803c97a7b3e63fd71f84c28ee6fa41a6fdb06a9c7e7a529db9ed754c4a65
+machine_hash: 887b580ff111f6b43638b41f08ec663f7ef15f3b27bff77696034eb6a7b87c04
 product: cursor
 product_name: Cursor
 record:
@@ -50,10 +50,10 @@ record:
   title: App extensions for Cursor repos
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-13-4-apps-and-integrations-changes-in-v2-1-232|4
-  Apps and Integrations changes in v2.1.232]]'
 - '[[Changes/Claude Code/2026-08-14-2-apps-and-integrations-changes-in-v2-1-233|2
   Apps and Integrations changes in v2.1.233]]'
+- '[[Changes/Cline/2026-08-14-everything-in-this-release-lands-through-the-sdk-bundle-so-it-applies-to-windows|Everything
+  in this release lands through the SDK bundle, so it applies to windows…]]'
 - '[[Changes/Claude Code/2026-08-17-remote-control-signing-this-computer-in-to-a-different-claude-ai-account-or-orga|Remote
   Control: signing this computer in to a different claude.ai account…]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-17-origin-code-hosting-https-cursor-com-changelog-origin-code-hosti-ed3a9195|cursor-2026-08-17-origin-code-hosting-https-cursor-com-changelog-origin-code-hosti-ed3a9195]]'
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-remote-control-signing-this-computer-in-to-a-different-claude-ai-account-or-orga|Remote Control: signing this computer in to a different claude.ai account…]]
-- Later: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-sigterm-in-print-sdk-mode-no-longer-records-an-interrupted-turn-or-synthetic-too|SIGTERM in print/SDK mode no longer records an interrupted turn or synthetic tool…]]
+- Later: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-57-apps-and-integrations-changes-in-rust-v0-148-0|57 Apps and Integrations changes in rust-v0.148.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

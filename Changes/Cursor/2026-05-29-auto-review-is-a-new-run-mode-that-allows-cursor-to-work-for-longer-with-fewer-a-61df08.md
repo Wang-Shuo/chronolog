@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bcb1a74e7e041a5e396e3a2946fa099c5940b95f623b1c3f39951b8395ece3d6
+machine_hash: 32017555cdca5b12ca228ce87baa274a6cd96eba4cd89bb10e629a61e00d0b17
 product: cursor
 product_name: Cursor
 record:
@@ -54,10 +54,10 @@ record:
   title: Auto-review Run Mode
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-28-3-agent-mode-changes-in-v2-1-153|3 Agent Mode
-  changes in v2.1.153]]'
-- '[[Changes/Claude Code/2026-05-28-introducing-dynamic-workflows-ask-claude-to-create-a-workflow-and-it-orchestrate|Introducing
-  dynamic workflows]]'
+- '[[Changes/Codex CLI/2026-05-28-24714-fix-auto-review-skip-legacy-notify-for-auto-review-threads-dylan-hurd-oai|♯24714
+  fix(auto-review) skip legacy notify for auto review threads @dylan-hurd-oai]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-28-3-agent-mode-changes-in-v1-0-55|3 Agent
+  Mode changes in v1.0.55]]'
 - '[[Changes/Claude Code/2026-05-29-claude-agents-the-agent-field-in-settings-json-is-now-honored-for-dispatched-ses|claude
   agents: the agent field in settings.json is now honored for dispatched…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-29-3-6-https-cursor-com-changelog-auto-review-c5d7c919|cursor-2026-05-29-3-6-https-cursor-com-changelog-auto-review-c5d7c919]]'
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-claude-agents-the-agent-field-in-settings-json-is-now-honored-for-dispatched-ses|claude agents: the agent field in settings.json is now honored for dispatched…]]
-- Later: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-improved-performance-of-opening-recently-inactive-background-agent-sessions-in-c|Improved performance of opening recently-inactive background agent sessions…]]
+- Later: 2026-05-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-29-add-builtinagents-rubberduck-setting-to-enable-or-disable-the-rubber-duck-agent|Add builtInAgents.rubberDuck setting to enable or disable the rubber duck agent…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

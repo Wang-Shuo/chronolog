@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7b4801a0d22d7e566d41a64b438601b54384f4108a5e720a637225e612764fe8
+machine_hash: fe5e4cc7d83562e7d094ed306634f7885168bfdfbd5e91f612ecef1365232ee6
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,12 +58,12 @@ record:
   title: Changed the client-side auto mode classifier to ignore…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-29-3-model-support-changes-in-v2-1-285|3 Model Support
-  changes in v2.1.285]]'
-- '[[Changes/Claude Code/2026-09-30-changed-how-failed-api-requests-are-retried-one-limit-now-covers-a-whole-model-c|Changed
-  how failed API requests are retried]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-30-2-model-support-changes-in-v1-0-90|2 Model
+  Support changes in v1.0.90]]'
 - '[[Changes/Claude Code/2026-10-01-4-model-support-changes-in-v2-1-287|4 Model Support
   changes in v2.1.287]]'
+- '[[Changes/Codex CLI/2026-10-01-5-model-support-changes-in-rust-v0-160-0|5 Model
+  Support changes in rust-v0.160.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6|claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6]]'
 source_type: github_releases
 theme: model-support
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-4-model-support-changes-in-v2-1-287|4 Model Support changes in v2.1.287]]
+- Earlier: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-5-model-support-changes-in-rust-v0-160-0|5 Model Support changes in rust-v0.160.0]]
 - Later: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-2-model-support-changes-in-v2-1-290|2 Model Support changes in v2.1.290]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 01988096d56cceffcdc16f97afbbddb4d7841dc6319ec0a2c31ddc1dd7087b73
+machine_hash: 907530d3fba5185d63b6975aab444858e32852cb22e6cfb0292c1c40808e54b0
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,10 @@ record:
   title: 3 Reliability and Performance changes in v2.1.287
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-25-2-reliability-and-performance-changes-in-v2-1-283|2
-  Reliability and Performance changes in v2.1.283]]'
 - '[[Changes/Claude Code/2026-09-28-improved-startup-time-and-memory-use-by-building-only-the-parts-of-the-settings|Improved
   startup time and memory use by building only the parts of the settings…]]'
+- '[[Changes/Codex CLI/2026-09-28-47984-add-multi-agent-spawn-latency-and-failure-metrics-owenlin0|♯47984
+  Add multi-agent spawn latency and failure metrics @owenlin0]]'
 - '[[Changes/Claude Code/2026-09-29-fixed-the-powershell-tool-s-permission-check-skipping-deny-and-ask-rules-and-cac|Fixed
   the PowerShell tool''s permission check skipping deny and ask rules…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'

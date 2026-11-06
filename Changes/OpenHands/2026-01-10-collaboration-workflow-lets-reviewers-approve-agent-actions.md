@@ -11,13 +11,14 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v1
 impact: paradigm-shift
-machine_hash: 37fb753f0f101ec179bd706c009e9129c1a58bda4cb294afb57b01fcc5e9d0f4
+machine_hash: 5860ee21cdfcb558db63b03dea277ed396c3ff99cdacd7fcc465c58833b7ca39
 product: openhands
 product_name: OpenHands
 related_changes:
 - '[[Changes/Continue/2025-08-08-team-collaboration-settings-can-share-assistant-rules|continue-2025-08-08-1b915c]]'
 - '[[Changes/Tabby/2025-10-02-collaboration-controls-add-team-level-model-policies|tabby-2025-10-02-c75d0c]]'
 source_release: '[[Releases/OpenHands/2026-01-10-openhands-2026-01-10-v1-0|openhands-2026-01-10-v1-0]]'
+superseded: true
 theme: collaboration
 type: change
 ---

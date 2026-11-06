@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 50eecb714d4ccbd05d9295e2fe6d32ca74f575b69aad785be15afec32f2eff31
+machine_hash: f39c4d5b5465ae54d523975da33551ed3bde0c46d77d10d78230b557fa81ad91
 product: cursor
 product_name: Cursor
 record:
@@ -55,10 +55,10 @@ record:
   title: Model access controls
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-28-opentelemetry-added-stop-reason-gen-ai-response-finish-reasons-and-user-system-p|OpenTelemetry:
-  added stop_reason, gen_ai.response.finish_reasons…]]'
-- '[[Changes/Claude Code/2026-05-01-2-model-support-changes-in-v2-1-126|2 Model Support
-  changes in v2.1.126]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-01-2-model-support-changes-in-v1-0-40|2 Model
+  Support changes in v1.0.40]]'
+- '[[Changes/OpenHands/2026-05-01-added-llm-model-on-conversation-cards-and-header-by-sjathin-in-https-github-com|Added
+  LLM model on conversation cards and header]]'
 - '[[Changes/Claude Code/2026-05-04-updated-model-picker-collapsed-duplicate-opus-4-7-entries-and-current-opus-now-s|Updated
   /model picker]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047|cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047]]'

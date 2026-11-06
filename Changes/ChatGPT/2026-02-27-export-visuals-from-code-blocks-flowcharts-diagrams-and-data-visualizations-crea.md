@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 28716c34e6f13981a6e4367927bc6282c048386c2685e15ac6e4dc50e71b2df1
+machine_hash: d784c35e06b826b55ac0de7a3694200775f3255261db1b1c80a447b4168f9548
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,12 +47,12 @@ record:
   title: Export visuals from Code Blocks
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-24-projects-can-now-support-40-uploaded-files-up-from-20-for-pro-users|Project
-  file limit increased (Pro)]]'
-- '[[Changes/Claude Code/2026-02-04-improved-pdf-and-request-size-error-messages-to-show-actual-limits-100-pages-20m|Improved
-  PDF and request size error messages to show actual limits (100 pages, 20MB)]]'
+- '[[Changes/Codex CLI/2026-02-05-10667-chore-app-server-document-experimental-api-opt-in-owenlin0|♯10667
+  chore(app-server): document experimental API opt-in @owenlin0]]'
 - '[[Changes/ChatGPT/2026-02-13-expanded-file-type-support-we-now-support-additional-text-and-code-file-formats|Expanded
   file type support]]'
+- '[[Changes/Gemini CLI/2026-02-25-feat-plan-document-and-validate-plan-mode-policy-overrides-by-jerop-in-https-git|feat(plan):
+  document and validate Plan Mode policy overrides]]'
 scope: Web
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c]]'
 source_type: chatgpt_changelog
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-expanded-file-type-support-we-now-support-additional-text-and-code-file-formats|Expanded file type support]]
-- Later: 2026-03-06 · Claude Code · [[Changes/Claude Code/2026-03-06-vscode-added-full-markdown-document-view-for-plans-in-vs-code-with-support-for-a|VSCode Added full markdown document view for plans in VS Code, with support…]]
+- Earlier: 2026-02-25 · Gemini CLI · [[Changes/Gemini CLI/2026-02-25-feat-plan-document-and-validate-plan-mode-policy-overrides-by-jerop-in-https-git|feat(plan): document and validate Plan Mode policy overrides]]
+- Later: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-4-files-and-data-changes-in-rust-v0-110-0|4 Files and Data changes in rust-v0.110.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

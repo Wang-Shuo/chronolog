@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2ddf95d7dbe6eeff913d8e0d6283eb8b5975c2b6b068fdebf94265f3033c935f
+machine_hash: 27e05ca5cee46c99fc1fc3107bac9d3b50099846314f3053bcec0ccf4f6634f4
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
     a project…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-06-improved-rename-to-work-while-claude-is-processing-instead-of-being-silently-que|Improved
-  /rename to work while Claude is processing, instead of being silently queued]]'
-- '[[Changes/Claude Code/2026-03-14-added-n-name-name-cli-flag-to-set-a-display-name-for-the-session-at-startup|Added
-  -n / --name name CLI flag to set a display name for the session at startup]]'
 - '[[Changes/Claude Code/2026-04-07-improved-resume-to-resume-sessions-from-other-worktrees-of-the-same-repo-directl|Improved
   --resume to resume sessions from other worktrees of the same repo…]]'
+- '[[Changes/Codex CLI/2026-04-11-sessionstart-hooks-can-distinguish-sessions-created-by-clear-from-fresh-startup|SessionStart
+  hooks can distinguish sessions created by /clear from fresh startup…]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-13-persist-resolved-model-in-session-history-and-defer-model-changes-during-active|Persist
+  resolved model in session history and defer model changes during active turns]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb|claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb]]'
 source_type: github_releases
 theme: projects-workspaces
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2026-04-07 · Claude Code · [[Changes/Claude Code/2026-04-07-improved-resume-to-resume-sessions-from-other-worktrees-of-the-same-repo-directl|Improved --resume to resume sessions from other worktrees of the same repo…]]
-- Later: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-feedback-can-now-include-recent-sessions-last-24-hours-or-7-days-for-issues-span|/feedback can now include recent sessions (last 24 hours or 7 days) for issues…]]
+- Earlier: 2026-04-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-13-persist-resolved-model-in-session-history-and-defer-model-changes-during-active|Persist resolved model in session history and defer model changes during active turns]]
+- Later: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-session-history-file-tracking-and-the-chronicle-command-are-now-available-to-all|Session history, file tracking, and the /chronicle command are now available to all users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

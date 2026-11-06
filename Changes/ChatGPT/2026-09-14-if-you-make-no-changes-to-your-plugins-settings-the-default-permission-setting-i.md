@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d4e5887dbefc652e2850b3e404be19fc30bae8c0356adb544776c5a2071a0444
+machine_hash: 3bda2794b044a64bd790cf2d9bd97d22db4c1c4413f1a6afc8f2f94d292dc664
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,8 +57,7 @@ record:
   title: If you make no changes to your Plugins settings, the default permission setting…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-10-8-safety-and-privacy-changes-in-v2-1-268|8 Safety
-  and Privacy changes in v2.1.268]]'
+- '[[Changes/Windsurf/2026-09-10-devin-cloud|Devin Cloud]]'
 - '[[Changes/Claude Code/2026-09-11-5-safety-and-privacy-changes-in-v2-1-269|5 Safety
   and Privacy changes in v2.1.269]]'
 - '[[Changes/Claude Code/2026-09-12-fixed-read-only-git-commands-in-bash-unexpectedly-asking-for-permission-after-a|Fixed

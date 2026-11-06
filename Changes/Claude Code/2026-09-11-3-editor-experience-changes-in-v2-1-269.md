@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3bcb56ee33684cb158a71eb5a6658d84d303115bea9debe529205a59a39b5c07
+machine_hash: 8e8ea63f4031f9daf0c4aa02069cf284d774302deafe5cb687dd3f91511d7d4c
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,10 @@ record:
   title: 3 Editor Experience changes in v2.1.269
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-2-editor-experience-changes-in-v2-1-257|2 Editor
-  Experience changes in v2.1.257]]'
-- '[[Changes/Claude Code/2026-09-03-improved-the-settings-error-for-rules-such-as-edit-c-dir-name-where-is-read-as-a|Improved
-  the settings error for rules such as Edit(C:\dir\(name)\), where…]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-04-2-editor-experience-changes-in-v1-0-83|2
+  Editor Experience changes in v1.0.83]]'
+- '[[Changes/Codex CLI/2026-09-09-42746-handle-pending-network-reviews-after-process-completion-copyberry|♯42746
+  Handle pending network reviews after process completion @copyberry]]'
 - '[[Changes/Claude Code/2026-09-10-added-browser-tab-icons-for-published-artifacts-chosen-by-claude-to-match-each-p|Added
   browser-tab icons for published artifacts, chosen by Claude to match each page]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-11-v2-1-269-github-387243742-288e9189|claude-code-2026-09-11-v2-1-269-github-387243742-288e9189]]'

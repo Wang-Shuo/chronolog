@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8ff8e86dfd6ca721ff0ae3483f6b2be17290e0921103ca8483860911f8911eb3
+machine_hash: f3922844317aade9d1171a01b32e937a1d5885a1d1b6425114b30b4b48875d32
 product: cursor
 product_name: Cursor
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2023-07-03 · Cursor · [[Changes/Cursor/2023-07-03-also-cursor-s-ai-will-now-use-popular-documentation-to-improve-the-answers-to-yo|Also, Cursor's AI will now use popular documentation to improve the answers…]]
-- Later: 2023-07-28 · Cursor · [[Changes/Cursor/2023-07-28-more-robust-extension-handling-you-can-now-use-pre-release-extensions-again|More robust extension handling]]
+- Later: 2023-07-12 · Aider · [[Changes/Aider/2023-07-12-install-docs-link-to-neovim-plugin-https-github-com-joshuavial-aider-nvim-by-jos|Install docs link to NeoVim plugin((source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

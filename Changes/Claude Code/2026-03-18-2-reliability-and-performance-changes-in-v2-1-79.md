@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f1f5c5acbf7ee15001cad30718fb5beb990ff4aa41ae4a01c93f72bdced7ea2c
+machine_hash: da3d4a003523a87f2992f8f5f7cbcef05e6560b1208ca9380ef79088e9096ca1
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Reliability and Performance changes in v2.1.79
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-12-added-actionable-suggestions-to-context-command-identifies-context-heavy-tools-m|Added
-  actionable suggestions to /context command]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-16-3-reliability-and-performance-changes-in-v1-0-6|3
+  Reliability and Performance changes in v1.0.6]]'
 - '[[Changes/Claude Code/2026-03-17-2-reliability-and-performance-changes-in-v2-1-77|2
   Reliability and Performance changes in v2.1.77]]'
 - '[[Changes/Claude Code/2026-03-17-improved-memory-usage-and-startup-time-when-resuming-large-sessions|Improved

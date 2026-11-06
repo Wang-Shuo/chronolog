@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b8cd56ef51478f6e05f6fe0f32d99d662500f5b33d48fa4d734105666f28e4b8
+machine_hash: 0a0e2e2c731bc9a88cce0db5ed0a697ae5e6b4ab5dcdbcb4b3e2e93f9da22814
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.280
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-7-developer-workflow-changes-in-v2-1-274|7 Developer
-  Workflow changes in v2.1.274]]'
-- '[[Changes/Claude Code/2026-09-17-2-developer-workflow-changes-in-v2-1-275|2 Developer
-  Workflow changes in v2.1.275]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-17-the-status-row-now-says-it-is-waiting-for-background-shells-instead-of-working-w|The
+  status row now says it is waiting for background shells, instead…]]'
 - '[[Changes/Claude Code/2026-09-18-improved-ultrareview-when-there-s-nothing-to-review-messages-say-which-case-you|Improved
   /ultrareview when there''s nothing to review]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-21-5-developer-workflow-changes-in-v1-0-87|5
+  Developer Workflow changes in v1.0.87]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b]]'
 source_type: github_releases
 theme: developer-workflow
@@ -96,8 +96,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.280
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-improved-ultrareview-when-there-s-nothing-to-review-messages-say-which-case-you|Improved /ultrareview when there's nothing to review]]
-- Later: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-7-developer-workflow-changes-in-v2-1-281|7 Developer Workflow changes in v2.1.281]]
+- Earlier: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-5-developer-workflow-changes-in-v1-0-87|5 Developer Workflow changes in v1.0.87]]
+- Later: 2026-09-22 · Cline · [[Changes/Cline/2026-09-22-output-from-background-commands-now-streams-into-the-command-row-while-the-comma|Output from background commands now streams into the command row while the command…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

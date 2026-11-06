@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c4d2506c492241140a2843d183495d2ec94c204241b2b08b921827234268e303
+machine_hash: f2c0ba66df6b6259303a7c773b2fa6faf7a57587f6afb5d3f2ae223f195f8784
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,10 +41,10 @@ record:
   title: Improved UI rendering performance with React Compiler
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-08-2-reliability-and-performance-changes-in-new-cli-features-and-improved-cli|2
-  Reliability and Performance changes in New CLI Features and Improved CLI…]]'
 - '[[Changes/Claude Code/2026-01-14-improved-typing-responsiveness-by-reducing-memory-allocation-overhead-in-termina|Improved
   typing responsiveness by reducing memory allocation overhead in terminal…]]'
+- '[[Changes/Windsurf/2026-01-14-2-reliability-and-performance-changes-in-v1-13-8|2
+  Reliability and Performance changes in v1.13.8]]'
 - '[[Changes/Cursor/2026-01-16-faster-message-queueing-and-ux|Faster message queueing
   and UX]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-21-v2-1-15-github-278799996-0b5b2e8b|claude-code-2026-01-21-v2-1-15-github-278799996-0b5b2e8b]]'
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-faster-message-queueing-and-ux|Faster message queueing and UX]]
-- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-4-reliability-and-performance-changes-in-2-4|4 Reliability and Performance changes in 2.4]]
+- Later: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-9543-fix-memory-leak-issue-jif-oai|♯9543 fix: memory leak issue @jif-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

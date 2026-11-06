@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cc8c0a895388a06e7832f801b9b6c45c2e462d82a8bb860df3c6fdd279d875e8
+machine_hash: f6cacacb8d222e1c197d171c2e52b7ab92c4038aef6b202b668106e0c44daffe
 product: cursor
 product_name: Cursor
 record:
@@ -40,8 +40,8 @@ record:
   title: Removed noisy in-app terminal notifications and improved shortcut behavior
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-11-added-hook-args-string-field-exec-form-that-spawns-the-command-directly-without|Added
-  hook args: string field (exec form) that spawns the command directly…]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-12-long-lines-in-diff-view-wrap-at-terminal-width-instead-of-being-truncated|Long
+  lines in diff view wrap at terminal width instead of being truncated]]'
 - '[[Changes/Claude Code/2026-05-13-added-terminalsequence-field-to-hook-json-output-so-hooks-can-emit-desktop-notif|Added
   terminalSequence field to hook JSON output so hooks can emit desktop…]]'
 - '[[Changes/Cursor/2026-05-13-environment-configuration-as-code-827fd1|Environment
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-environment-configuration-as-code-827fd1|Environment configuration as code]]
-- Later: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-2-developer-workflow-changes-in-v2-1-143|2 Developer Workflow changes in v2.1.143]]
+- Later: 2026-05-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-14-terminal-cursor-positions-correctly-on-the-input-field-instead-of-on-decorative|Terminal cursor positions correctly on the input field instead of on decorative…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

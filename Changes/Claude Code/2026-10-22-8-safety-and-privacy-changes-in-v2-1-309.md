@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dc41c940674e560c1866afc2a95925854409da44a377395bcd5e41c054ade1f9
+machine_hash: fba225089a49019fe01bcebcedeacd454eac6e62f06fc997965d99ca46f33540
 product: claude-code
 product_name: Claude Code
 record:
@@ -68,12 +68,12 @@ record:
   title: 8 Safety and Privacy changes in v2.1.309
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-19-added-decider-person-to-a-mod-s-tool-check-answer-only-the-permission-dialog-or|Added
-  decider: "person" to a mod''s tool.check answer: only the permission dialog…]]'
-- '[[Changes/Claude Code/2026-10-20-3-safety-and-privacy-changes-in-v2-1-305|3 Safety
-  and Privacy changes in v2.1.305]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-20-permission-approval-prompts-explain-escalation-causes-and-show-a-request-specifi|Permission
+  approval prompts explain escalation causes and show a request-specific…]]'
 - '[[Changes/Claude Code/2026-10-21-added-the-claude-code-safety-event-opentelemetry-event-for-each-tool-call-a-perm|Added
   the claude_code.safety_event OpenTelemetry event for each tool call…]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-21-subagents-honor-custom-and-mcp-tool-approvals-avoiding-duplicate-permission-prom|Subagents
+  honor custom and MCP tool approvals, avoiding duplicate permission prompts…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99|claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99]]'
 source_type: github_releases
 theme: safety-privacy
@@ -126,8 +126,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.309
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-added-the-claude-code-safety-event-opentelemetry-event-for-each-tool-call-a-perm|Added the claude_code.safety_event OpenTelemetry event for each tool call…]]
-- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-4-safety-and-privacy-changes-in-v2-1-310|4 Safety and Privacy changes in v2.1.310]]
+- Earlier: 2026-10-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-21-subagents-honor-custom-and-mcp-tool-approvals-avoiding-duplicate-permission-prom|Subagents honor custom and MCP tool approvals, avoiding duplicate permission prompts…]]
+- Later: 2026-10-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-22-3-safety-and-privacy-changes-in-v1-0-103|3 Safety and Privacy changes in v1.0.103]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

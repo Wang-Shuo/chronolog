@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ccd6bce4decce0ae1c56a4ba5871f9fcecdcb8a1775fd3a983f0a0072ca392da
+machine_hash: 14aefc70be00310a11c6c1896aea78b4a7a9fdd33391675d7d3d02aad96a45dc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,12 +45,12 @@ record:
   title: Sources from apps
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-19-2-apps-and-integrations-changes-in-v2-1-49|2 Apps
-  and Integrations changes in v2.1.49]]'
-- '[[Changes/Claude Code/2026-02-20-claude-code-simple-mode-now-also-disables-mcp-tools-attachments-hooks-and-claude|CLAUDE_CODE_SIMPLE
-  mode now also disables MCP tools, attachments, hooks…]]'
-- '[[Changes/Claude Code/2026-02-24-4-apps-and-integrations-changes-in-v2-1-51|4 Apps
-  and Integrations changes in v2.1.51]]'
+- '[[Changes/Cline/2026-02-24-add-mcp-enterprise-configuration-details|Add MCP enterprise
+  configuration details]]'
+- '[[Changes/Cline/2026-02-24-added-cline-sdk-api-interface-for-programmatic-access-to-cline-features-and-tool|Added
+  Cline SDK API interface for programmatic access to Cline features and tools…]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-24-block-third-party-mcp-servers-when-the-copilot-mcp-policy-does-not-allow-them|Block
+  third-party MCP servers when the Copilot MCP policy does not allow them]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292|chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-24 · Claude Code · [[Changes/Claude Code/2026-02-24-4-apps-and-integrations-changes-in-v2-1-51|4 Apps and Integrations changes in v2.1.51]]
+- Earlier: 2026-02-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-24-block-third-party-mcp-servers-when-the-copilot-mcp-policy-does-not-allow-them|Block third-party MCP servers when the Copilot MCP policy does not allow them]]
 - Later: 2026-02-25 · Claude Code · [[Changes/Claude Code/2026-02-25-expand-remote-control-to-more-users|Expand Remote Control to more users]]
 <!-- chronolog:end -->
 

@@ -1,0 +1,95 @@
+---
+card_id: windsurf-2025-06-10-c1fe59
+date: '2025-06-10'
+description: 'Windsurf · 2025-06-10 · Developer Workflow: Native terminal in Cascade
+  panel'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 815
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: developer-workflow
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: launch
+machine_hash: 23498eb338675e682b73afbf5e87eefd095b74238d46cc88b1cb7c5ed0761fb4
+product: windsurf
+product_name: Windsurf
+record:
+  card_id: windsurf-2025-06-10-c1fe59
+  comparison: ''
+  date: '2025-06-10'
+  description: 'Windsurf — v1.10.1: Native terminal in Cascade panel'
+  evidence:
+  - quote: Native terminal in Cascade panel
+    source_release: https://docs.devin.ai/desktop/changelog#v1-10-1
+  - quote: Terminal now accepts user inputs in the Cascade panel
+    source_release: https://docs.devin.ai/desktop/changelog#v1-10-1
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: launch
+  product: windsurf
+  product_name: Windsurf
+  slug: terminal-improvements
+  source_release: windsurf-2025-06-10-v1-10-1-98f62653
+  source_type: windsurf_changelog
+  theme: developer-workflow
+  title: Terminal Improvements
+  type: change
+related_changes:
+- '[[Changes/Cline/2025-06-05-add-setting-to-disable-aggressive-terminal-reuse-to-help-users-experiencing-task|Add
+  setting to disable aggressive terminal reuse to help users experiencing task…]]'
+- '[[Changes/OpenHands/2025-06-05-added-support-on-windows-without-wsl-by-neubig-in-https-github-com-all-hands-ai|Added
+  support on windows without WSL]]'
+- '[[Changes/Windsurf/2025-06-10-theme-aware-codeblocks-with-refreshed-design|Theme-aware
+  codeblocks with refreshed design]]'
+source_release: '[[Releases/Windsurf/windsurf-2025-06-10-v1-10-1-98f62653|windsurf-2025-06-10-v1-10-1-98f62653]]'
+source_type: windsurf_changelog
+theme: developer-workflow
+title: Terminal Improvements
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Terminal Improvements
+
+**Windsurf** · 2025-06-10 · [[Themes/developer-workflow|Developer Workflow]] · Launch · [Official source](https://docs.devin.ai/desktop/changelog#v1-10-1) · from [[Releases/Windsurf/windsurf-2025-06-10-v1-10-1-98f62653|v1.10.1]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Native terminal in Cascade panel
+>
+> Terminal now accepts user inputs in the Cascade panel
+>
+> Source: https://docs.devin.ai/desktop/changelog#v1-10-1
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Windsurf/2025-06-10-new-menu-to-open-previous-conversations-to-quickly-switch-conversations|New menu to open previous conversations to quickly switch conversations]] · Interface Experience
+- [[Changes/Windsurf/2025-06-10-planning-mode|Planning Mode]] · Editor Experience
+- [[Changes/Windsurf/2025-06-10-theme-aware-codeblocks-with-refreshed-design|Theme-aware codeblocks with refreshed design]] · Developer Workflow
+- [[Changes/Windsurf/2025-06-10-2-other-changes-in-v1-10-1|2 other changes in v1.10.1]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Developer Workflow
+
+- Earlier: 2025-06-05 · OpenHands · [[Changes/OpenHands/2025-06-05-added-support-on-windows-without-wsl-by-neubig-in-https-github-com-all-hands-ai|Added support on windows without WSL]]
+- Later: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-git-ownership-errors-in-containers-by-llamantino-in-https-github-com-all-hands-a|Git Ownership Errors in containers]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20windsurf-2025-06-10-c1fe59&body=Card%3A%20Changes%2FWindsurf%2F2025-06-10-terminal-improvements.md%0ACard%20ID%3A%20windsurf-2025-06-10-c1fe59%0ASource%3A%20https%3A%2F%2Fdocs.devin.ai%2Fdesktop%2Fchangelog%23v1-10-1%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

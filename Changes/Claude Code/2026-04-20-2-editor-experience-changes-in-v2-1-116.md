@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7d48395e3e5a7d078f6874cef90b8361f08542da78b2e1b51ec3794493fdfaf8
+machine_hash: 0e83416ca71640646da428de16514479da6d7b696edccf6c58b832e491856fb8
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Editor Experience changes in v2.1.116
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-15-2-editor-experience-changes-in-v2-1-110|2 Editor
-  Experience changes in v2.1.110]]'
 - '[[Changes/Claude Code/2026-04-16-transcript-view-footer-now-shows-dump-to-scrollback-and-v-open-in-editor-shortcu|Transcript
   view footer now shows  (dump to scrollback) and v (open in editor)…]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-16-a-clear-error-message-is-displayed-when-the-configured-editor-cannot-be-launched|A
+  clear error message is displayed when the configured editor cannot be launched]]'
 - '[[Changes/Claude Code/2026-04-17-remote-control-clients-can-now-query-file-autocomplete-suggestions|Remote
   Control clients can now query @-file autocomplete suggestions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e|claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e]]'

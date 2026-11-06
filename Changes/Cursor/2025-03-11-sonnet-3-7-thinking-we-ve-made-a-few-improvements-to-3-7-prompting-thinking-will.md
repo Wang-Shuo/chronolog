@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 31d0b940b9018b07aba2dcdcc9fc10192ad5b1785a111265a54ff9553c500ceb
+machine_hash: 90463ef7d6d60b4aa0d5259c92aeab231f93812e216a57ea026bfee5e3beaf18
 product: cursor
 product_name: Cursor
 record:
@@ -48,12 +48,12 @@ record:
   title: 'Sonnet 3.7 thinking: We''ve made a few improvements to 3.7 prompting'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-12-13-projects-provide-a-new-way-to-group-files-and-chats-for-personal-use-simplifying|Projects
-  provide a new way to group files and chats for personal use, simplifying…]]'
-- '[[Changes/Cursor/2025-01-23-deepseek-models-deepseek-r1-and-deepseek-v3-are-supported-in-0-45-and-0-44-you-c|Deepseek
-  models: Deepseek R1 and Deepseek v3 are supported in 0.45 and 0.44]]'
-- '[[Changes/Cursor/2025-01-23-better-codebase-understanding-we-ve-trained-a-new-model-for-codebase-understandi|Better
-  Codebase Understanding: We''ve trained a new model for Codebase Understanding]]'
+- '[[Changes/OpenHands/2025-03-07-default-version-of-claude-is-now-claude-3-7-sonnet-20250219-by-tofarr-in-https-g|Default
+  version of Claude is now claude-3-7-sonnet-20250219]]'
+- '[[Changes/Aider/2025-03-10-16-model-support-changes-in-v0-76-0|16 Model Support
+  changes in v0.76.0]]'
+- '[[Changes/Cline/2025-03-10-2-model-support-changes-in-v3-6-9|2 Model Support changes
+  in v3.6.9]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e|cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e]]'
 source_type: cursor_changelog
 theme: model-support
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-better-codebase-understanding-we-ve-trained-a-new-model-for-codebase-understandi|Better Codebase Understanding: We've trained a new model for Codebase Understanding]]
-- Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-ask-bfa530|o1 and o3-mini now offer Python-powered data analysis in ChatGPT]]
+- Earlier: 2025-03-10 · Cline · [[Changes/Cline/2025-03-10-2-model-support-changes-in-v3-6-9|2 Model Support changes in v3.6.9]]
+- Later: 2025-03-13 · Aider · [[Changes/Aider/2025-03-13-2-model-support-changes-in-v0-77-0|2 Model Support changes in v0.77.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

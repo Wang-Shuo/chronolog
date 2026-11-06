@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4b5eea45c14bb34c34b4fe9535bc9a9724db17f214a8f54bd271ff042376a8d2
+machine_hash: d16350ef61e2b82fdd313968e845fc1832a4302d29c12fc59f0ab0f0675d2e1b
 product: cursor
 product_name: Cursor
 record:
@@ -50,11 +50,12 @@ record:
   title: Improved indexing performance for teams sharing codebases
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
-- '[[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|Use
-  ChatGPT alongside your team]]'
-- '[[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer
-  is now default-on and available to all Pro/Business users by hitting cmd+I]]'
+- '[[Changes/Cline/2024-10-09-new-readme-and-got-a-cool-domain-for-the-project-https-cline-bot-wip-on-a-final|New
+  README and got a cool domain for the project (source link) (wip)]]'
+- '[[Changes/Aider/2024-11-01-anonymous-opt-in-analytics-https-aider-chat-docs-more-analytics-html-with-no-per|Anonymous,
+  opt-in analytics((source link) with no…]]'
+- '[[Changes/Aider/2024-11-26-skip-suggesting-files-that-share-names-with-files-already-in-chat|Skip
+  suggesting files that share names with files already in chat]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -97,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-08-22 · Cursor · [[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer is now default-on and available to all Pro/Business users by hitting cmd+I]]
-- Later: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-admin-api-for-teams-to-access-usage-metrics-and-spend-data|Admin API for teams to access usage metrics and spend data]]
+- Earlier: 2024-11-26 · Aider · [[Changes/Aider/2024-11-26-skip-suggesting-files-that-share-names-with-files-already-in-chat|Skip suggesting files that share names with files already in chat]]
+- Later: 2025-05-06 · Windsurf · [[Changes/Windsurf/2025-05-06-teams-knowledge|Teams: Knowledge]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

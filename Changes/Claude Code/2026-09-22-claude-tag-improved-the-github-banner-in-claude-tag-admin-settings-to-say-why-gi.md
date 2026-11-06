@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c24be4c152ff75bdece3cea90be41008e47b1399699fce057505edf7168e8a86
+machine_hash: 9567f32b32eee04eff78755a531af9e0eb0a16fdc3de3e0c2036bad8c5d0c348
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     say why…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-15-4-account-and-access-changes-in-v2-1-273|4 Account
-  and Access changes in v2.1.273]]'
-- '[[Changes/Claude Code/2026-09-17-improved-claude-apps-gateway-sign-in-rate-limit-errors-login-now-explains-the-re|Improved
-  Claude apps gateway sign-in rate limit errors]]'
 - '[[Changes/Claude Code/2026-09-17-added-the-signed-in-account-to-claude-apps-gateway-sign-in-when-the-gateway-name|Added
   the signed-in account to Claude apps gateway sign-in]]'
+- '[[Changes/Codex CLI/2026-09-17-6-account-and-access-changes-in-rust-v0-155-0|6
+  Account and Access changes in rust-v0.155.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-21-managed-plugin-commands-load-organization-marketplace-policy-with-environment-gi|Managed
+  plugin commands load organization marketplace policy with environment…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b]]'
 source_type: github_releases
 theme: account-access
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-added-the-signed-in-account-to-claude-apps-gateway-sign-in-when-the-gateway-name|Added the signed-in account to Claude apps gateway sign-in]]
-- Later: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-2-account-and-access-changes-in-v2-1-281|2 Account and Access changes in v2.1.281]]
+- Earlier: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-managed-plugin-commands-load-organization-marketplace-policy-with-environment-gi|Managed plugin commands load organization marketplace policy with environment…]]
+- Later: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-13-account-and-access-changes-in-rust-v0-156-0|13 Account and Access changes in rust-v0.156.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

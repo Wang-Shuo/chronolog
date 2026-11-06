@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c12b770b5405fb877032f27688fafdb6d569b57ca8f29f03949f5307301bfe3a
+machine_hash: b215d0e51a77098d107b2d94d9701dbbd264e66dca492ce5b550282fa61cb09a
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Agent Mode changes in v2.1.72
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-03-improved-reliability-for-longer-running-agent-sessions|Improved
-  reliability for longer-running agent sessions]]'
-- '[[Changes/Cursor/2026-03-04-cursor-is-now-available-in-intellij-idea-pycharm-webstorm-and-other-jetbrains-id-2dc9cd|Cursor
-  is now available in IntelliJ IDEA, PyCharm, WebStorm, and other JetBrains…]]'
 - '[[Changes/Claude Code/2026-03-05-2-agent-mode-changes-in-v2-1-69|2 Agent Mode changes
   in v2.1.69]]'
+- '[[Changes/Codex CLI/2026-03-05-13-agent-mode-changes-in-rust-v0-110-0|13 Agent
+  Mode changes in rust-v0.110.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-05-automatic-notifications-when-background-shell-commands-and-agents-complete|Automatic
+  notifications when background shell commands and agents complete]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48|claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48]]'
 source_type: github_releases
 theme: agent-mode
@@ -91,8 +91,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.72
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-2-agent-mode-changes-in-v2-1-69|2 Agent Mode changes in v2.1.69]]
-- Later: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-improved-background-agent-behavior-killing-a-background-agent-now-preserves-its|Improved background agent behavior]]
+- Earlier: 2026-03-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-05-automatic-notifications-when-background-shell-commands-and-agents-complete|Automatic notifications when background shell commands and agents complete]]
+- Later: 2026-03-11 · Gemini CLI · [[Changes/Gemini CLI/2026-03-11-6-agent-mode-changes-in-v0-33-0|6 Agent Mode changes in v0.33.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

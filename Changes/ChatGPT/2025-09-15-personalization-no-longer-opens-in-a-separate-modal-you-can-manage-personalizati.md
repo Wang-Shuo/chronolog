@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 834686f8d85c12d93a152c7e1aef1c27aa77f6daf4c8945cf688c88547f481aa
+machine_hash: 73f35c6a94ac0716f24e46635f34e323128e108a3c5501f50674860f0c9a554b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,12 +45,11 @@ record:
   title: Personalization settings are now in Settings
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-07-29-personalize-responses-based-on-your-past-chats-if-memory-is-on-using-examples-an|Personalize
-  responses based on your past chats if memory is on, using examples…]]'
-- '[[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses-4644fd|Longer
-  memory for more personalized responses]]'
 - '[[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-87f79a|An
   improvement to projects is now available]]'
+- '[[Changes/Windsurf/2025-08-28-memory-improvements|Memory improvements]]'
+- '[[Changes/Gemini CLI/2025-09-04-2-memory-and-personalization-changes-in-v0-3-0|2
+  Memory and Personalization changes in v0.3.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-15-personalization-settings-are-now-in-settings-bdb1bffc|chatgpt-2025-09-15-personalization-settings-are-now-in-settings-bdb1bffc]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -77,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-08-22 · ChatGPT · [[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-87f79a|An improvement to projects is now available]]
+- Earlier: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-2-memory-and-personalization-changes-in-v0-3-0|2 Memory and Personalization changes in v0.3.0]]
 - Later: 2025-09-22 · ChatGPT · [[Changes/ChatGPT/2025-09-22-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]]
 <!-- chronolog:end -->
 

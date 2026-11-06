@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 39b493dd59efe58432eefa28bc011a1980ede157ca5fea1bc22078d6e49d865b
+machine_hash: 23206ec8cf3b037ed90b03756d9c157f59e699bf94da21be8dffcbb31f2cf8c3
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,10 @@ record:
   title: The Agent SDK is generally available today
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-19-2-agent-mode-changes-in-v2-1-304|2 Agent Mode
-  changes in v2.1.304]]'
-- '[[Changes/Claude Code/2026-10-19-added-claude-api-managed-agents-secure-which-compares-a-managed-agents-agent-s-s|Added
-  /claude-api managed-agents-secure, which compares a Managed Agents agent''s…]]'
+- '[[Changes/OpenHands/2026-10-19-3-agent-mode-changes-in-v1-28-0|3 Agent Mode changes
+  in v1.28.0]]'
+- '[[Changes/OpenHands/2026-10-19-chore-bump-agent-server-to-1-56-0-by-all-hands-bot-in-https-github-com-openhands|chore:
+  bump agent-server to 1.56.0]]'
 - '[[Changes/Cursor/2026-10-20-deploy-agents-wherever-you-need-them|Deploy agents
   wherever you need them]]'
 source_release: '[[Releases/Cursor/cursor-2026-10-20-agent-sdk-https-cursor-com-changelog-agent-sdk-00fcb04c|cursor-2026-10-20-agent-sdk-https-cursor-com-changelog-agent-sdk-00fcb04c]]'
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-added-claude-api-managed-agents-secure-which-compares-a-managed-agents-agent-s-s|Added /claude-api managed-agents-secure, which compares a Managed Agents agent's…]]
-- Later: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-improved-fork-subagents-launched-together-each-is-now-told-which-launch-is-its-o|Improved fork subagents launched together]]
+- Earlier: 2026-10-19 · OpenHands · [[Changes/OpenHands/2026-10-19-chore-bump-agent-server-to-1-56-0-by-all-hands-bot-in-https-github-com-openhands|chore: bump agent-server to 1.56.0]]
+- Later: 2026-10-20 · OpenHands · [[Changes/OpenHands/2026-10-20-5-agent-mode-changes-in-v1-29-0|5 Agent Mode changes in v1.29.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

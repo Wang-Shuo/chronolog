@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2261b8e97079fe7b45e0eb60188752247ef193bb0cb2f22d875a63adbfcc10e4
+machine_hash: 07fa4a5a8bdebc5159f3d86ccf5811989fef820c6b1538a022a230a710af4e23
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,8 +63,8 @@ record:
   title: Edit memory settings for existing projects
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-18-added-an-iso-modified-timestamp-to-memory-file-frontmatter|Added
-  an ISO modified timestamp to memory file frontmatter]]'
+- '[[Changes/Codex CLI/2026-08-07-36140-wait-for-memory-consolidation-shutdown-before-finishing-jobs-copyberry|♯36140
+  Wait for memory consolidation shutdown before finishing jobs @copyberry]]'
 - '[[Changes/Claude Code/2026-08-13-cowork-sessions-no-longer-inline-external-imports-from-user-scope-memory-files|Cowork
   sessions no longer inline external @-imports from user-scope memory files]]'
 - '[[Changes/ChatGPT/2026-08-14-we-ve-made-it-easier-to-study-with-interactive-quizzes-manage-project-memory-and|ChatGPT

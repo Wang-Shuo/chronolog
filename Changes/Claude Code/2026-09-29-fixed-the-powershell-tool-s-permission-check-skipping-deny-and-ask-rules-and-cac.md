@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 1e1fa5551c678e3b58c2fe7022e9c06931e6c02cb42bd6e36c93361d382410d6
+machine_hash: 79dfe057fd09fb58c33f5cdf73d11bbaff2dda62546d4de461b0b13c56826bc5
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,11 +46,12 @@ record:
   title: Fixed the PowerShell tool's permission check skipping deny and ask rules…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-deploy-tracking|Deploy tracking]]'
 - '[[Changes/Claude Code/2026-09-25-2-reliability-and-performance-changes-in-v2-1-283|2
   Reliability and Performance changes in v2.1.283]]'
 - '[[Changes/Claude Code/2026-09-28-improved-startup-time-and-memory-use-by-building-only-the-parts-of-the-settings|Improved
   startup time and memory use by building only the parts of the settings…]]'
+- '[[Changes/Codex CLI/2026-09-28-47984-add-multi-agent-spawn-latency-and-failure-metrics-owenlin0|♯47984
+  Add multi-agent spawn latency and failure metrics @owenlin0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc|claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc]]'
 source_type: github_releases
 theme: reliability-performance
@@ -91,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-improved-startup-time-and-memory-use-by-building-only-the-parts-of-the-settings|Improved startup time and memory use by building only the parts of the settings…]]
+- Earlier: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-47984-add-multi-agent-spawn-latency-and-failure-metrics-owenlin0|♯47984 Add multi-agent spawn latency and failure metrics @owenlin0]]
 - Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-3-reliability-and-performance-changes-in-v2-1-287|3 Reliability and Performance changes in v2.1.287]]
 <!-- chronolog:end -->
 

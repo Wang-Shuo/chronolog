@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3372c30c0f8f504e3f9ee2470ad147bf257de6e2b11e5e4beafdcbd709a25de6
+machine_hash: c09dba9fb3ed6d0cf1b4736ed64c17fec401735a05a209178fc021dad8788002
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Interface Experience changes in v2.1.47
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-13-improved-narrow-terminal-layout-for-prompt-footer|Improved
-  narrow terminal layout for prompt footer]]'
-- '[[Changes/Claude Code/2026-02-17-added-spinnertipsoverride-setting-to-customize-spinner-tips-configure-tips-with|Added
-  spinnerTipsOverride setting to customize spinner tips]]'
+- '[[Changes/Codex CLI/2026-02-17-3-interface-experience-changes-in-rust-v0-102-0|3
+  Interface Experience changes in rust-v0.102.0]]'
 - '[[Changes/Cursor/2026-02-17-3-interface-experience-changes-in-2-5|3 Interface Experience
   changes in 2.5]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-17-4-interface-experience-changes-in-v0-0-411|4
+  Interface Experience changes in v0.0.411]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931|claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931]]'
 source_type: github_releases
 theme: interface-experience
@@ -93,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.47
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-17 · Cursor · [[Changes/Cursor/2026-02-17-3-interface-experience-changes-in-2-5|3 Interface Experience changes in 2.5]]
+- Earlier: 2026-02-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-17-4-interface-experience-changes-in-v0-0-411|4 Interface Experience changes in v0.0.411]]
 - Later: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-plan-mode-improvements-in-cli-9a872d|Plan mode improvements in CLI]]
 <!-- chronolog:end -->
 

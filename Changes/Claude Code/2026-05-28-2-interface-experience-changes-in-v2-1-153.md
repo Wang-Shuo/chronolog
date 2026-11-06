@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3be38e26f69fa9746e67fa46210af085056d4a8b2cc9e0b5f0f7c99532d72d87
+machine_hash: bc1fd1ac24752f393eda043f73a8095f28665abce9380b6a93fe581aaafeee6d
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Interface Experience changes in v2.1.153
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-22-markdown-output-now-renders-gfm-task-list-checkboxes-todo-x-done-instead-of-plai|Markdown
-  output now renders GFM task list checkboxes (-   todo / - x done)…]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-24-2-interface-experience-changes-in-v1-0-53|2
+  Interface Experience changes in v1.0.53]]'
 - '[[Changes/Claude Code/2026-05-27-in-fullscreen-mode-the-thinking-for-ns-indicator-now-counts-up-live-while-the-mo|In
   fullscreen mode, the "Thinking for Ns" indicator now counts up live…]]'
 - '[[Changes/Claude Code/2026-05-28-vscode-auto-mode-no-longer-requires-the-bypass-permissions-setting-to-appear-in|VSCode
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.153
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-vscode-auto-mode-no-longer-requires-the-bypass-permissions-setting-to-appear-in|VSCode Auto mode no longer requires the bypass-permissions setting to appear…]]
-- Later: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-claude-agents-slash-command-autocomplete-in-the-dispatch-input-now-matches-subst|claude agents: slash-command autocomplete in the dispatch input now matches substrings]]
+- Later: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-7-interface-experience-changes-in-v1-0-55|7 Interface Experience changes in v1.0.55]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

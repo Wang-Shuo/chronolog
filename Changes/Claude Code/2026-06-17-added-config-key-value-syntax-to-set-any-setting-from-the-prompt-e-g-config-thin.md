@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fcf78dc858acbc7ada3502891cf5e62dfa8ea4ab91c52f847411b3a5ba246807
+machine_hash: 3fa6897710ce68b975d00cca1327c6c033925d10d00991b85bc709d899b1b9dc
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,9 @@ record:
   title: Added `/config key=value` syntax to set any setting from the prompt…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-15-2-apps-and-integrations-changes-in-v2-1-178|2
-  Apps and Integrations changes in v2.1.178]]'
-- '[[Changes/Claude Code/2026-06-16-improved-plugin-loading-performance-in-remote-sessions|Improved
-  plugin loading performance in remote sessions]]'
+- '[[Changes/Windsurf/2026-06-16-improved-handling-for-less-common-mcp-server-features|Improved
+  handling for less common MCP server features]]'
+- '[[Changes/Windsurf/2026-06-16-devin-local|Devin Local]]'
 - '[[Changes/ChatGPT/2026-06-17-monitoring-tasks-can-search-the-web-and-check-connected-apps-for-changes-and-not|Monitoring
   tasks can search the web and check connected apps for changes and notify…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-17-v2-1-181-github-340975229-c771c493|claude-code-2026-06-17-v2-1-181-github-340975229-c771c493]]'
@@ -86,7 +85,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-17 · ChatGPT · [[Changes/ChatGPT/2026-06-17-monitoring-tasks-can-search-the-web-and-check-connected-apps-for-changes-and-not|Monitoring tasks can search the web and check connected apps for changes and notify…]]
-- Later: 2026-06-19 · Claude Code · [[Changes/Claude Code/2026-06-19-added-attribution-sessionurl-setting-to-omit-the-claude-ai-session-link-from-com|Added attribution.sessionUrl setting to omit the claude.ai session link…]]
+- Later: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-17-apps-and-integrations-changes-in-rust-v0-141-0|17 Apps and Integrations changes in rust-v0.141.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

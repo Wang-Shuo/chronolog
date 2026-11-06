@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1e1ed39f57a620d17b70de16fe03b824e5af46447cef24399b5285574d025f23
+machine_hash: 0156b2dd74aef01f7bd2c6e1cf64e3e7bcbb7e429949f3a9465a50fe2b0829a1
 product: cursor
 product_name: Cursor
 record:
@@ -48,10 +48,10 @@ record:
   title: 4 Reliability and Performance changes in 1.2
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-12-3-reliability-and-performance-changes-in-1-1|3 Reliability
-  and Performance changes in 1.1]]'
-- '[[Changes/ChatGPT/2025-06-13-improved-search-capability-and-instruction-following-594de0|Improved
-  search capability and instruction following]]'
+- '[[Changes/Aider/2025-06-27-3-reliability-and-performance-changes-in-v0-85-0|3 Reliability
+  and Performance changes in v0.85.0]]'
+- '[[Changes/Cline/2025-07-03-2-reliability-and-performance-changes-in-v3-18-3|2 Reliability
+  and Performance changes in v3.18.3]]'
 - '[[Changes/Cursor/2025-07-03-faster-tab|Faster Tab]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d]]'
 source_type: cursor_changelog
@@ -100,8 +100,8 @@ Source: https://cursor.com/changelog/1-2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-06-13 · ChatGPT · [[Changes/ChatGPT/2025-06-13-improved-search-capability-and-instruction-following-594de0|Improved search capability and instruction following]]
-- Later: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-agent-edits-are-now-faster-by-lazy-loading-linter-errors-search-replace-edit-lat|Faster edits]]
+- Earlier: 2025-07-03 · Cline · [[Changes/Cline/2025-07-03-2-reliability-and-performance-changes-in-v3-18-3|2 Reliability and Performance changes in v3.18.3]]
+- Later: 2025-07-08 · Cline · [[Changes/Cline/2025-07-08-optimize-provider-switching-performance-with-batched-storage-operations-by-arafa|Optimize provider switching performance with batched storage operations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 89c11fe7616cf4f99827746e1dd3798ebf473368c3aa530b28cf1c56767d59f1
+machine_hash: 8fa37b2ef993bd6332a0cdde23fc783b51e3c063a548965202e8031d83d8af65
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,8 +84,8 @@ record:
   title: 14 Apps and Integrations changes in v2.1.290
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-01-11-apps-and-integrations-changes-in-v2-1-287|11
-  Apps and Integrations changes in v2.1.287]]'
+- '[[Changes/Codex CLI/2026-10-01-4-apps-and-integrations-changes-in-rust-v0-160-0|4
+  Apps and Integrations changes in rust-v0.160.0]]'
 - '[[Changes/Claude Code/2026-10-02-5-apps-and-integrations-changes-in-v2-1-288|5
   Apps and Integrations changes in v2.1.288]]'
 - '[[Changes/Claude Code/2026-10-03-2-apps-and-integrations-changes-in-v2-1-289|2
@@ -158,7 +158,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.290
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-03 · Claude Code · [[Changes/Claude Code/2026-10-03-2-apps-and-integrations-changes-in-v2-1-289|2 Apps and Integrations changes in v2.1.289]]
-- Later: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-9-apps-and-integrations-changes-in-v2-1-292|9 Apps and Integrations changes in v2.1.292]]
+- Later: 2026-10-05 · Codex CLI · [[Changes/Codex CLI/2026-10-05-2-apps-and-integrations-changes-in-rust-v0-160-1|2 Apps and Integrations changes in rust-v0.160.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

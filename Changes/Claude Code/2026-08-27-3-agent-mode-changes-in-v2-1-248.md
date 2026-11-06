@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c4fb08a236cfc295515ff2ac0414808a359dacb67e0b993b4449048b54f95d05
+machine_hash: 72d22c5f0287dbc094f6054e7ed9fac1e96076b7bb3b96dcd2fb150faf49a801
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,11 +49,12 @@ record:
   title: 3 Agent Mode changes in v2.1.248
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-19-goal|/goal]]'
-- '[[Changes/Claude Code/2026-08-21-2-agent-mode-changes-in-v2-1-239|2 Agent Mode
-  changes in v2.1.239]]'
 - '[[Changes/Claude Code/2026-08-25-improved-subagent-results-a-subagent-that-stops-at-its-maxturns-limit-now-return|Improved
   subagent results]]'
+- '[[Changes/Gemini CLI/2026-08-25-8-agent-mode-changes-in-v0-57-0|8 Agent Mode changes
+  in v0.57.0]]'
+- '[[Changes/Codex CLI/2026-08-26-14-agent-mode-changes-in-rust-v0-150-0|14 Agent
+  Mode changes in rust-v0.150.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-27-v2-1-248-github-378106990-677106e3|claude-code-2026-08-27-v2-1-248-github-378106990-677106e3]]'
 source_type: github_releases
 theme: agent-mode
@@ -95,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.248
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-improved-subagent-results-a-subagent-that-stops-at-its-maxturns-limit-now-return|Improved subagent results]]
+- Earlier: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-14-agent-mode-changes-in-rust-v0-150-0|14 Agent Mode changes in rust-v0.150.0]]
 - Later: 2026-08-27 · Cursor · [[Changes/Cursor/2026-08-27-cloud-agents-no-longer-require-a-connected-github-or-other-third-party-scm-provi|Cloud Agents no longer require a connected GitHub or other third-party SCM provider…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9754cc0bcf9395c1dde7b3b514b467965e67de82a91cda3377e995dab62a6870
+machine_hash: 6e803c764a400b573d6a4a2cfda147de4b7a49e6a66420ab5afc77d41d055225
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     identify…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|Codex
-  remote access from the ChatGPT mobile app]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-23-4-projects-and-workspaces-changes-in-v1-0-64|4
+  Projects and Workspaces changes in v1.0.64]]'
 - '[[Changes/Claude Code/2026-06-24-added-rewind-support-for-resuming-a-conversation-from-before-clear-was-run|Added
   /rewind support for resuming a conversation from before /clear was run]]'
 - '[[Changes/Claude Code/2026-06-26-improved-remote-session-startup-with-a-provisioning-checklist-while-the-containe|Improved
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Projects and Workspaces
 
 - Earlier: 2026-06-26 · Claude Code · [[Changes/Claude Code/2026-06-26-improved-remote-session-startup-with-a-provisioning-checklist-while-the-containe|Improved Remote session startup with a provisioning checklist while the container starts]]
-- Later: 2026-07-16 · ChatGPT · [[Changes/ChatGPT/2026-07-16-unified-recents-chat-and-work-conversations-now-appear-together-in-recents-where|Unified Recents: Chat and Work conversations now appear together in Recents, where…]]
+- Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-recover-corrupted-session-history-on-load|Recover corrupted session history on load]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

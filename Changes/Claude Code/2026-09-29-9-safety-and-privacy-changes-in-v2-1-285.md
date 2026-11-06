@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3e1b5257666475c8f9efa29cb312ac99d55f8d9e38b49111f3bdab11cbfa8e5c
+machine_hash: 51cd648c4aa49168ce20a950ab0440a9df48e2300ddb01c8b009d61188bce850
 product: claude-code
 product_name: Claude Code
 record:
@@ -71,12 +71,12 @@ record:
   title: 9 Safety and Privacy changes in v2.1.285
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-25-we-re-introducing-security-history-a-new-way-to-review-recent-security-activity-6f32cc|Security
-  history in ChatGPT]]'
-- '[[Changes/Claude Code/2026-09-25-3-safety-and-privacy-changes-in-v2-1-283|3 Safety
-  and Privacy changes in v2.1.283]]'
 - '[[Changes/Claude Code/2026-09-28-4-safety-and-privacy-changes-in-v2-1-284|4 Safety
   and Privacy changes in v2.1.284]]'
+- '[[Changes/Codex CLI/2026-09-28-9-safety-and-privacy-changes-in-rust-v0-158-0|9
+  Safety and Privacy changes in rust-v0.158.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-28-2-safety-and-privacy-changes-in-v1-0-89|2
+  Safety and Privacy changes in v1.0.89]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc|claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc]]'
 source_type: github_releases
 theme: safety-privacy
@@ -135,8 +135,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.285
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-4-safety-and-privacy-changes-in-v2-1-284|4 Safety and Privacy changes in v2.1.284]]
-- Later: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-4-safety-and-privacy-changes-in-v2-1-286|4 Safety and Privacy changes in v2.1.286]]
+- Earlier: 2026-09-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-28-2-safety-and-privacy-changes-in-v1-0-89|2 Safety and Privacy changes in v1.0.89]]
+- Later: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-3-safety-and-privacy-changes-in-rust-v0-159-0|3 Safety and Privacy changes in rust-v0.159.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

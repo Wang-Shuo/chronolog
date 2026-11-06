@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1c24f55782c04d59c2d2583fc88b7c8bc16a8ee573fd664a7a83a065b3fe32d7
+machine_hash: 7cfef26e9dfefb6e3a32f767dfbe0fda0a63682f67f94266b1441e60f0cebf7e
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,11 +47,12 @@ record:
   title: 2 Safety and Privacy changes in v2.1.172
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-custom-tools-056918|Custom tools]]'
-- '[[Changes/Claude Code/2026-06-06-hardened-cross-session-messaging-messages-relayed-via-sendmessage-from-other-cla|Hardened
-  cross-session messaging]]'
-- '[[Changes/Claude Code/2026-06-08-2-safety-and-privacy-changes-in-v2-1-169|2 Safety
-  and Privacy changes in v2.1.169]]'
+- '[[Changes/Codex CLI/2026-06-08-6-safety-and-privacy-changes-in-rust-v0-138-0|6
+  Safety and Privacy changes in rust-v0.138.0]]'
+- '[[Changes/Codex CLI/2026-06-09-5-safety-and-privacy-changes-in-rust-v0-139-0|5
+  Safety and Privacy changes in rust-v0.139.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-09-pasted-images-no-longer-leak-into-the-main-prompt-after-a-permission-dialog-clos|Pasted
+  images no longer leak into the main prompt after a permission dialog closes]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c|claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c]]'
 source_type: github_releases
 theme: safety-privacy
@@ -91,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.172
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-2-safety-and-privacy-changes-in-v2-1-169|2 Safety and Privacy changes in v2.1.169]]
+- Earlier: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-pasted-images-no-longer-leak-into-the-main-prompt-after-a-permission-dialog-clos|Pasted images no longer leak into the main prompt after a permission dialog closes]]
 - Later: 2026-06-10 · Cursor · [[Changes/Cursor/2026-06-10-run-bugbot-before-you-push-3e5964|Run Bugbot before you push]]
 <!-- chronolog:end -->
 

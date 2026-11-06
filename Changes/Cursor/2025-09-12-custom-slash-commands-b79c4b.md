@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 6cd2981ed50e8423de3ed4e160a0af7f736b559f0f111c7dd103d28ebc29d133
+machine_hash: 8552383aaf28d011e1f7803c20852febc3d4acca40f17e4947aa0a04782fac35
 product: cursor
 product_name: Cursor
 record:
@@ -59,8 +59,8 @@ record:
   title: Custom slash commands
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-21-the-terminal-now-opens-on-the-left-with-a-clear-backdrop-and-border-animation-to|Improved
-  review flow in Agent terminal]]'
+- '[[Changes/Codex CLI/2025-09-10-2-developer-workflow-changes-in-rust-v0-32-0|2 Developer
+  Workflow changes in rust-v0.32.0]]'
 - '[[Changes/Cursor/2025-09-12-improved-terminal-for-agent|Improved terminal for Agent]]'
 - '[[Changes/Cursor/2025-09-12-5-developer-workflow-changes-in-1-6|5 Developer Workflow
   changes in 1.6]]'
@@ -103,8 +103,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-the-terminal-now-opens-on-the-left-with-a-clear-backdrop-and-border-animation-to|Improved review flow in Agent terminal]]
-- Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-7-developer-workflow-changes-in-1-7|7 Developer Workflow changes in 1.7]]
+- Earlier: 2025-09-10 · Codex CLI · [[Changes/Codex CLI/2025-09-10-2-developer-workflow-changes-in-rust-v0-32-0|2 Developer Workflow changes in rust-v0.32.0]]
+- Later: 2025-09-13 · Cline · [[Changes/Cline/2025-09-13-feature-to-generate-commit-message-for-staged-changes-with-unstaged-as-fallback|Feature to generate commit message for staged changes, with unstaged as fallback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7e0bf2d34c72200eff6cc072dcf9aab932d20061d247f4f0dea6c4dec1829c2f
+machine_hash: fed3bb2771f4091218a1ef8e086d1bc8b106ac2ab07e8149568c193db61785d5
 product: cursor
 product_name: Cursor
 record:
@@ -40,12 +40,12 @@ record:
   title: Switch between teams that you belong to directly in the app
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-30-we-ve-expanded-team-marketplaces-to-support-team-mcps-and-organization-groups|Cursor
-  expands team marketplaces to support Team MCPs and organization groups]]'
-- '[[Changes/ChatGPT/2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w|Existing
-  group chats will remain available and can continue to be used for now]]'
+- '[[Changes/Codex CLI/2026-07-21-4-collaboration-changes-in-rust-v0-145-0|4 Collaboration
+  changes in rust-v0.145.0]]'
 - '[[Changes/Cursor/2026-07-22-admin-controls-per-team-and-per-group-enablement-mode-restrictions-default-mode|Admin
   controls: per-team and per-group enablement, mode restrictions, default mode…]]'
+- '[[Changes/Codex CLI/2026-07-29-3-collaboration-changes-in-rust-v0-146-0|3 Collaboration
+  changes in rust-v0.146.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c|cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-07-22 · Cursor · [[Changes/Cursor/2026-07-22-admin-controls-per-team-and-per-group-enablement-mode-restrictions-default-mode|Admin controls: per-team and per-group enablement, mode restrictions, default mode…]]
-- Later: 2026-08-13 · ChatGPT · [[Changes/ChatGPT/2026-08-13-the-initial-experience-includes-my-drive-and-files-and-folders-shared-directly-w|The initial experience includes My Drive and files and folders shared directly with you]]
+- Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-3-collaboration-changes-in-rust-v0-146-0|3 Collaboration changes in rust-v0.146.0]]
+- Later: 2026-08-02 · Cline · [[Changes/Cline/2026-08-02-stop-the-two-bundles-of-the-combined-rollout-package-from-invalidating-each-othe|Stop the two bundles of the combined rollout package from invalidating each other's…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

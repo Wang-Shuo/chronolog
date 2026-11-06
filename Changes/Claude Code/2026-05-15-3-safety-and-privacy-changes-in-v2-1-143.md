@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7908acce5b607aead326c32068f1b712d7816905f9267302f733c895e64927b9
+machine_hash: 46a86575adf72c53edbdef121b6cd2439d5815aab253096dfee9ae97acffc14e
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.143
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-05-14 · Claude Code · [[Changes/Claude Code/2026-05-14-added-new-claude-agents-flags-add-dir-settings-mcp-config-plugin-dir-permission|Added new claude agents flags]]
-- Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-fixed-a-permission-prompt-bypass-where-bare-variable-assignments-to-non-allowlis|Fixed a permission-prompt bypass where bare variable assignments to non-allowlisted…]]
+- Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-17-safety-and-privacy-changes-in-rust-v0-131-0|17 Safety and Privacy changes in rust-v0.131.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

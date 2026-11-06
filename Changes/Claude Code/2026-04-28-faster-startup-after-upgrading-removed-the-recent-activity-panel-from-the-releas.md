@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0410bb047bf7c3b8a8c0e384392eb465d89aa1243727fa44af295b90155cc88e
+machine_hash: 148fb55fad1e31b9334b53f01e63f56a604289a2704b30d349edc19c7e2a0f0f
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: Faster startup after upgrading
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-17-improved-ultrareview-faster-launch-with-parallelized-checks-diffstat-in-the-laun|Improved
-  /ultrareview: faster launch with parallelized checks, diffstat…]]'
-- '[[Changes/Claude Code/2026-04-20-resume-on-large-sessions-is-significantly-faster-up-to-67-on-40mb-sessions-and-h|/resume
-  on large sessions is significantly faster (up to 67% on 40MB+ sessions)…]]'
-- '[[Changes/Claude Code/2026-04-22-2-reliability-and-performance-changes-in-v2-1-117|2
-  Reliability and Performance changes in v2.1.117]]'
+- '[[Changes/Gemini CLI/2026-04-23-2-reliability-and-performance-changes-in-v0-39-0|2
+  Reliability and Performance changes in v0.39.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-23-improve-rendering-performance-when-displaying-large-amounts-of-text-in-the-timel|Improve
+  rendering performance when displaying large amounts of text in the timeline]]'
+- '[[Changes/Cline/2026-04-24-add-periodic-memory-usage-logging|add periodic memory
+  usage logging]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce|claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce]]'
 source_type: github_releases
 theme: reliability-performance
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-2-reliability-and-performance-changes-in-v2-1-117|2 Reliability and Performance changes in v2.1.117]]
-- Later: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-updated-the-tui-fullscreen-startup-banner-to-describe-additional-renderer-benefi|Updated the /tui fullscreen startup banner to describe additional renderer…]]
+- Earlier: 2026-04-24 · Cline · [[Changes/Cline/2026-04-24-add-periodic-memory-usage-logging|add periodic memory usage logging]]
+- Later: 2026-04-28 · Gemini CLI · [[Changes/Gemini CLI/2026-04-28-2-reliability-and-performance-changes-in-v0-40-0|2 Reliability and Performance changes in v0.40.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

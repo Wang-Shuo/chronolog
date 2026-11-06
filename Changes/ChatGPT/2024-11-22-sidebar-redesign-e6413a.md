@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e7ff795100b5fbac93339931cf1c348637f28cf8b9bba25be5c45fc899312ea4
+machine_hash: ae55318121989218585295b9364af9b3d01ecf280fd476a6b81e7593359c9499
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,10 +53,10 @@ record:
   title: Sidebar redesign
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-07-23-we-ve-also-added-a-file-picker-arrow-key-navigation-and-a-model-toggle-to-compos|Cursor
-  adds a file picker, arrow key navigation, and a model toggle to Composer]]'
-- '[[Changes/Cursor/2024-08-22-we-have-a-new-chat-ux-excited-for-you-to-try-it-out-and-share-your-thoughts|We
-  have a new chat UX!]]'
+- '[[Changes/Aider/2024-09-29-new-settings-for-completion-menu-colors|New settings
+  for completion menu colors]]'
+- '[[Changes/Aider/2024-11-21-improved-model-settings-configuration-https-aider-chat-docs-config-adv-model-set|Improved
+  model settings…]]'
 - '[[Changes/ChatGPT/2024-11-22-the-new-chat-button-has-been-moved-to-the-left-of-the-model-picker-to-be-easier|The
   new chat button has been moved to the left of the Model Picker to be easier to access]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c|chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c]]'
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-08-22 · Cursor · [[Changes/Cursor/2024-08-22-we-have-a-new-chat-ux-excited-for-you-to-try-it-out-and-share-your-thoughts|We have a new chat UX!]]
+- Earlier: 2024-11-21 · Aider · [[Changes/Aider/2024-11-21-improved-model-settings-configuration-https-aider-chat-docs-config-adv-model-set|Improved model settings…]]
 - Later: 2024-11-24 · Cursor · [[Changes/Cursor/2024-11-24-composer-ui-in-the-sidebar-with-inline-diffs|Composer UI in the sidebar with inline diffs]]
 <!-- chronolog:end -->
 

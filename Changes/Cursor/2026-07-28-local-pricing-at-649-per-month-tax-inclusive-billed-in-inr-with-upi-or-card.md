@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: be95660e26b70d5e064b9b8019f5ed0899c871100ee903651068dfba853ea763
+machine_hash: dd48987aa59063cc881e69b670e088b591fe4be1e2c059a8ea4a97917ae0742c
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,8 @@ record:
     card
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-04-the-subscription-switch-suggestion-now-shows-in-the-startup-announcement-slot-in|The
-  subscription-switch suggestion now shows in the startup announcement slot…]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-16-3-pricing-model-changes-in-v1-0-71|3 Pricing
+  Model changes in v1.0.71]]'
 - '[[Changes/Claude Code/2026-07-22-changed-server-managed-settings-so-benign-feature-and-cost-toggles-no-longer-tri|Changed
   server-managed settings so benign feature and cost toggles no longer trigger…]]'
 - '[[Changes/Cursor/2026-07-22-2-pricing-model-changes-in-cursor-router|2 Pricing

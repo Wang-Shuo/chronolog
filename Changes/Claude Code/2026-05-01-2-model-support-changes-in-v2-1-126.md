@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2d997400675a5f4d0e52900ddc363f5bf7edbc96242b6c991b3acf550f997d82
+machine_hash: a769703345dd37901a802e98e86e36f8236031552815fbae6b136ff53b664a33
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Model Support changes in v2.1.126
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-22-2-model-support-changes-in-v2-1-117|2 Model Support
-  changes in v2.1.117]]'
-- '[[Changes/ChatGPT/2026-04-28-we-re-making-it-easier-to-choose-the-right-model-before-you-send-a-message-model|Easier
-  model selection in ChatGPT]]'
 - '[[Changes/Claude Code/2026-04-28-opentelemetry-added-stop-reason-gen-ai-response-finish-reasons-and-user-system-p|OpenTelemetry:
   added stop_reason, gen_ai.response.finish_reasons…]]'
+- '[[Changes/Gemini CLI/2026-04-28-2-model-support-changes-in-v0-40-0|2 Model Support
+  changes in v0.40.0]]'
+- '[[Changes/Codex CLI/2026-04-30-10-model-support-changes-in-rust-v0-128-0|10 Model
+  Support changes in rust-v0.128.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb|claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb]]'
 source_type: github_releases
 theme: model-support
@@ -88,8 +88,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.126
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-opentelemetry-added-stop-reason-gen-ai-response-finish-reasons-and-user-system-p|OpenTelemetry: added stop_reason, gen_ai.response.finish_reasons…]]
-- Later: 2026-05-04 · Claude Code · [[Changes/Claude Code/2026-05-04-updated-model-picker-collapsed-duplicate-opus-4-7-entries-and-current-opus-now-s|Updated /model picker]]
+- Earlier: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-10-model-support-changes-in-rust-v0-128-0|10 Model Support changes in rust-v0.128.0]]
+- Later: 2026-05-01 · Cline · [[Changes/Cline/2026-05-01-2-model-support-changes-in-v3-82-0|2 Model Support changes in v3.82.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

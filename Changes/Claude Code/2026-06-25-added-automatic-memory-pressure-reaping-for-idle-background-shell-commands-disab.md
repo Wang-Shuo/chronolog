@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 20f68107e1d401999249cc6d4be86f040377822859f473e76e02ef7e2b49d629
+machine_hash: b9c6eded38153ee7c6e9ee87b76bffc9a65603693f9d74833eded531e4e4406c
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: Added automatic memory-pressure reaping for idle background shell commands…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-18-easier-conversation-sharing-sharing-a-conversation-is-now-faster-with-a-one-clic|Easier
-  conversation sharing]]'
-- '[[Changes/Claude Code/2026-06-20-the-stream-stall-hint-now-reads-waiting-for-api-response-will-retry-in-instead-o|The
-  stream-stall hint now reads "Waiting for API response · will retry in …" instead…]]'
+- '[[Changes/Codex CLI/2026-06-22-2-reliability-and-performance-changes-in-rust-v0-142-0|2
+  Reliability and Performance changes in rust-v0.142.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-23-show-per-model-token-totals-in-usage-and-speed-up-large-history-scans|Show
+  per-model token totals in /usage and speed up large history scans]]'
 - '[[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced
   long-session memory growth from terminal output cache]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-25-v2-1-193-github-344922230-0655000d|claude-code-2026-06-25-v2-1-193-github-344922230-0655000d]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-06-24 · Claude Code · [[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced long-session memory growth from terminal output cache]]
-- Later: 2026-07-02 · Claude Code · [[Changes/Claude Code/2026-07-02-2-reliability-and-performance-changes-in-v2-1-199|2 Reliability and Performance changes in v2.1.199]]
+- Later: 2026-06-25 · Codex CLI · [[Changes/Codex CLI/2026-06-25-apps-can-display-richer-safety-buffering-ui-using-server-provided-visibility-and|Apps can display richer safety-buffering UI using server-provided visibility…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

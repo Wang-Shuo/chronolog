@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 655838521608db8b69f40361fb430df3b27bb412c1b35ce1b07fd5ef90895ca3
+machine_hash: a35fe83975d3acf044db6a2b9185f909ca8573689710b6bc78c319855411e956
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,11 @@ record:
   title: Memory with Search
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|Memory
-  and new controls for ChatGPT]]'
-- '[[Changes/ChatGPT/2024-04-29-memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w-4db29a|Memory
-  is now available to Plus users]]'
 - '[[Changes/Cursor/2025-02-19-0-46-9-memory-and-performances-fixes-composer-chat-remembers-your-last-mode-sele|0.46.9:
   Memory and performances fixes, composer/chat remembers your last mode…]]'
+- '[[Changes/OpenHands/2025-02-24-enable-memory-condensation-from-settings-page-by-csmith49-in-https-github-com-al|Enable
+  memory condensation from settings page]]'
+- '[[Changes/Windsurf/2025-04-02-improvements-to-memories|Improvements to Memories]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-04-16-memory-with-search-0b018fd4|chatgpt-2025-04-16-memory-with-search-0b018fd4]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -75,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-0-46-9-memory-and-performances-fixes-composer-chat-remembers-your-last-mode-sele|0.46.9: Memory and performances fixes, composer/chat remembers your last mode…]]
+- Earlier: 2025-04-02 · Windsurf · [[Changes/Windsurf/2025-04-02-improvements-to-memories|Improvements to Memories]]
 - Later: 2025-05-08 · ChatGPT · [[Changes/ChatGPT/2025-05-08-saved-memories-and-chat-history-are-offered-only-to-plus-and-pro-accounts-free-t|Saved memories and Chat history are offered only to Plus and Pro…]]
 <!-- chronolog:end -->
 

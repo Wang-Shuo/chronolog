@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 74b53f032b98b3c675fe367fa95258ce633db227971b8858cd505eb628f7d0e5
+machine_hash: f7a010aeab4fc808e1a3f7e6b65518ec6bf6b1c8bd0134aa184c25fb394d6cf3
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: Improved startup time and memory use by building only the parts of the settings…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-added-a-visible-warning-when-memory-usage-is-critical-with-steps-to-free-memory|Added
-  a visible warning when memory usage is critical, with steps to free memory…]]'
+- '[[Changes/Codex CLI/2026-09-22-45960-tag-memory-usage-telemetry-with-the-memory-version-jif-oai|♯45960
+  Tag memory usage telemetry with the memory version @jif-oai]]'
 - '[[Changes/Cursor/2026-09-23-deploy-tracking|Deploy tracking]]'
 - '[[Changes/Claude Code/2026-09-25-2-reliability-and-performance-changes-in-v2-1-283|2
   Reliability and Performance changes in v2.1.283]]'
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-2-reliability-and-performance-changes-in-v2-1-283|2 Reliability and Performance changes in v2.1.283]]
-- Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-fixed-the-powershell-tool-s-permission-check-skipping-deny-and-ask-rules-and-cac|Fixed the PowerShell tool's permission check skipping deny and ask rules…]]
+- Later: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-47984-add-multi-agent-spawn-latency-and-failure-metrics-owenlin0|♯47984 Add multi-agent spawn latency and failure metrics @owenlin0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

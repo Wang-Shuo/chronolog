@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9474ad9a7a7a3122cb3df50856ac7741d78c5dadf621330602eadec7cf1726f1
+machine_hash: c5134495ac8833438d3dcb9c80bc7962885f3de5d3dab10f6c18433666dd66cf
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,11 @@ record:
   title: 2 Reliability and Performance changes in New CLI Features and Improved CLI…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-10-2-reliability-and-performance-changes-in-2-2|2 Reliability
-  and Performance changes in 2.2]]'
-- '[[Changes/Cursor/2025-12-22-for-this-holiday-release-we-ve-focused-entirely-on-fixing-bugs-and-improving-sta|For
-  this holiday release, we''ve focused entirely on fixing bugs and improving stability]]'
-- '[[Changes/Cursor/2025-12-22-2-reliability-and-performance-changes-in-2-3|2 Reliability
-  and Performance changes in 2.3]]'
+- '[[Changes/Windsurf/2025-12-24-swe-1-5-free|SWE-1.5 Free]]'
+- '[[Changes/Windsurf/2025-12-27-various-bug-fixes-and-performance-improvements|Various
+  bug fixes and performance improvements]]'
+- '[[Changes/Codex CLI/2026-01-06-performance-tuning-for-tuis-cap-redraw-scheduling-and-reduce-unnecessary-rerende|Performance
+  tuning for TUIs]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-08-new-cli-features-and-improved-cli-performance-https-cursor-com-c-8afb8542|cursor-2026-01-08-new-cli-features-and-improved-cli-performance-https-cursor-com-c-8afb8542]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -93,8 +92,8 @@ Source: https://cursor.com/changelog/cli-jan-08-2026
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-2-reliability-and-performance-changes-in-2-3|2 Reliability and Performance changes in 2.3]]
-- Later: 2026-01-14 · Claude Code · [[Changes/Claude Code/2026-01-14-improved-typing-responsiveness-by-reducing-memory-allocation-overhead-in-termina|Improved typing responsiveness by reducing memory allocation overhead in terminal…]]
+- Earlier: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-performance-tuning-for-tuis-cap-redraw-scheduling-and-reduce-unnecessary-rerende|Performance tuning for TUIs]]
+- Later: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-codex-cli-subprocesses-again-inherit-env-vars-like-ld-library-path-dyld-library|Codex CLI subprocesses again inherit env vars like…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

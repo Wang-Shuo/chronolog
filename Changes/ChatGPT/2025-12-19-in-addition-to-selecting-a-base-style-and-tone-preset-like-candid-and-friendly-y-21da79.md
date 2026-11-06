@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d2fe981aea1ecbb832ad29438b414d03012b8717fedaaeba05b5a7f48dce1175
+machine_hash: 4d094f1decfd3b8e16e0a4ca449d329ae242617ef86a712cc7ac13d845849323
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,12 +53,12 @@ record:
   title: New detailed characteristic controls
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-30-longer-memory-for-more-personalized-responses|Longer
-  memory for more personalized responses]]'
-- '[[Changes/ChatGPT/2025-11-07-previously-changes-you-made-to-your-chatgpt-personality-or-custom-instructions-o|Personality
-  and custom instructions now apply to all chats]]'
+- '[[Changes/Gemini CLI/2025-11-07-feat-core-implement-granular-memory-loaders-for-jit-architecture-by-abhipatel12|feat(core):
+  Implement granular memory loaders for JIT architecture]]'
 - '[[Changes/ChatGPT/2025-11-24-shopping-research-is-a-new-interactive-experience-that-helps-you-find-the-right-0a021d|Shopping
   research in ChatGPT]]'
+- '[[Changes/Gemini CLI/2025-12-16-chore-tests-remove-obsolete-test-for-hierarchical-memory-by-pareshjoshij-in-http|chore(tests):
+  remove obsolete test for hierarchical memory]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-19-new-detailed-characteristic-controls-fa363df4|chatgpt-2025-12-19-new-detailed-characteristic-controls-fa363df4]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-11-24 · ChatGPT · [[Changes/ChatGPT/2025-11-24-shopping-research-is-a-new-interactive-experience-that-helps-you-find-the-right-0a021d|Shopping research in ChatGPT]]
+- Earlier: 2025-12-16 · Gemini CLI · [[Changes/Gemini CLI/2025-12-16-chore-tests-remove-obsolete-test-for-hierarchical-memory-by-pareshjoshij-in-http|chore(tests): remove obsolete test for hierarchical memory]]
 - Later: 2025-12-22 · ChatGPT · [[Changes/ChatGPT/2025-12-22-today-we-re-rolling-out-your-year-with-chatgpt-an-optional-personalized-end-of-y-740eb1|Your Year with ChatGPT]]
 <!-- chronolog:end -->
 

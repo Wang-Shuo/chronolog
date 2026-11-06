@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4a5a7ce4bf5d6cd2a4585c979a60f3aea3184af18b46c40f63a99c2ca684a02e
+machine_hash: 40396eef17b0e2a33a0e38cc09689b256fdf3575dfebdda4028a97d22db8d61a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,12 +49,12 @@ record:
   title: Edit messages with images
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-17-manual-edits-no-longer-create-in-line-diffs|Manual
-  edits no longer create in-line diffs]]'
-- '[[Changes/ChatGPT/2026-02-19-we-improved-code-blocks-in-chatgpt-to-make-them-more-interactive-you-can-write-e-6b2623|We
-  improved Code Blocks in ChatGPT to make them more interactive]]'
-- '[[Changes/Claude Code/2026-02-19-simple-mode-claude-code-simple-now-includes-the-file-edit-tool-in-addition-to-th|Simple
-  mode (CLAUDE_CODE_SIMPLE) now includes the file edit tool in addition…]]'
+- '[[Changes/Gemini CLI/2026-02-25-feat-plan-hide-plan-write-and-edit-operations-on-plans-in-plan-mode-by-jerop-in|feat(plan):
+  hide plan write and edit operations on plans in Plan Mode]]'
+- "[[Changes/GitHub Copilot CLI/2026-02-25-copilot-cli-is-now-generally-available-https-github-blog-changelog-2026-02-25-gi|\U0001F389
+  Copilot CLI is now generally…]]"
+- '[[Changes/Codex CLI/2026-02-26-12417-core-bundle-settings-diff-updates-into-one-dev-user-envelope-charley-oai|♯12417
+  core: bundle settings diff updates into one dev/user envelope @charley-oai]]'
 scope: Web
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c]]'
 source_type: chatgpt_changelog
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-02-19 · Claude Code · [[Changes/Claude Code/2026-02-19-simple-mode-claude-code-simple-now-includes-the-file-edit-tool-in-addition-to-th|Simple mode (CLAUDE_CODE_SIMPLE) now includes the file edit tool in addition…]]
-- Later: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-agent-workflows-are-faster-and-more-predictable-for-multi-file-edits-and-pr-heav|Agent workflows are faster and more predictable for multi-file edits and PR-heavy tasks]]
+- Earlier: 2026-02-26 · Codex CLI · [[Changes/Codex CLI/2026-02-26-12417-core-bundle-settings-diff-updates-into-one-dev-user-envelope-charley-oai|♯12417 core: bundle settings diff updates into one dev/user envelope @charley-oai]]
+- Later: 2026-02-27 · Gemini CLI · [[Changes/Gemini CLI/2026-02-27-feat-cli-include-dir-add-directories-in-autocomplete-suggestions-by-jasmeetsb-in|feat(cli): include /dir add directories in @ autocomplete suggestions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

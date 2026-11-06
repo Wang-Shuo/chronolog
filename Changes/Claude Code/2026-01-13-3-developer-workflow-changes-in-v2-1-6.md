@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 61b7c076afdaf363a3af7265149d19bf50587f282b1f4e7dc963451ec3bb0823
+machine_hash: 24dcc36f673e2defd1dce142a657eddfab576eac3d3a39166489e694af41ac01
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Developer Workflow changes in v2.1.6
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-09-improved-slash-command-suggestion-readability-by-truncating-long-descriptions-to|Improved
-  slash command suggestion readability by truncating long descriptions to 2 lines]]'
 - '[[Changes/Claude Code/2026-01-09-4-developer-workflow-changes-in-v2-1-2|4 Developer
   Workflow changes in v2.1.2]]'
+- '[[Changes/Codex CLI/2026-01-09-4-developer-workflow-changes-in-rust-v0-80-0|4 Developer
+  Workflow changes in rust-v0.80.0]]'
 - '[[Changes/Claude Code/2026-01-12-added-claude-code-tmpdir-environment-variable-to-override-the-temp-directory-use|Added
   CLAUDE_CODE_TMPDIR environment variable to override the temp directory used…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a|claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a]]'
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.6
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-12 · Claude Code · [[Changes/Claude Code/2026-01-12-added-claude-code-tmpdir-environment-variable-to-override-the-temp-directory-use|Added CLAUDE_CODE_TMPDIR environment variable to override the temp directory used…]]
-- Later: 2026-01-16 · Claude Code · [[Changes/Claude Code/2026-01-16-added-session-url-attribution-to-commits-and-prs-created-from-web-sessions|Added session URL attribution to commits and PRs created from web sessions]]
+- Later: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-2-developer-workflow-changes-in-v0-0-380|2 Developer Workflow changes in v0.0.380]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

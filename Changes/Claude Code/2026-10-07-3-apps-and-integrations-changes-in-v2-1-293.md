@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 266aac90bf61b21653a8836b99efa63371aa8a4a7c23c5a10e779a2479cc1df9
+machine_hash: a7f1d8a43ef1fcfa340dab1203bd463d87f072e521691231ac8e2a6c04d60b88
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Apps and Integrations changes in v2.1.293
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-03-2-apps-and-integrations-changes-in-v2-1-289|2
-  Apps and Integrations changes in v2.1.289]]'
-- '[[Changes/Claude Code/2026-10-05-14-apps-and-integrations-changes-in-v2-1-290|14
-  Apps and Integrations changes in v2.1.290]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-05-5-apps-and-integrations-changes-in-v1-0-92|5
+  Apps and Integrations changes in v1.0.92]]'
 - '[[Changes/Claude Code/2026-10-06-9-apps-and-integrations-changes-in-v2-1-292|9
   Apps and Integrations changes in v2.1.292]]'
+- '[[Changes/OpenHands/2026-10-06-chore-consume-extensions-0-27-0-by-henriquehirako-in-https-github-com-openhands|chore:
+  consume Extensions 0.27.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d|claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d]]'
 source_type: github_releases
 theme: apps-integrations
@@ -93,8 +93,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.293
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-9-apps-and-integrations-changes-in-v2-1-292|9 Apps and Integrations changes in v2.1.292]]
-- Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-improved-how-prompt-hooks-on-stop-and-subagentstop-written-as-instructions-such|Improved how prompt hooks on Stop and SubagentStop written as instructions…]]
+- Earlier: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-chore-consume-extensions-0-27-0-by-henriquehirako-in-https-github-com-openhands|chore: consume Extensions 0.27.0]]
+- Later: 2026-10-07 · Cline · [[Changes/Cline/2026-10-07-when-an-mcp-tool-returns-more-output-than-fits-in-context-cline-can-now-read-the|When an MCP tool returns more output than fits in context, Cline can now read the rest]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

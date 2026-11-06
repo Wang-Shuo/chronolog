@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0cd9aa20b213a4a351c2439b05e1114ef3091ef0fe3523be70247e6114c741b0
+machine_hash: b7fa347789cdf23a4fc89b4887a876cd2b01b97718fb812ffc28dee4c631496b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,10 +44,9 @@ record:
   title: Saved memories and Chat history are offered only to Plus and Pro…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-04-29-memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w-4db29a|Memory
-  is now available to Plus users]]'
-- '[[Changes/Cursor/2025-02-19-0-46-9-memory-and-performances-fixes-composer-chat-remembers-your-last-mode-sele|0.46.9:
-  Memory and performances fixes, composer/chat remembers your last mode…]]'
+- '[[Changes/OpenHands/2025-02-24-enable-memory-condensation-from-settings-page-by-csmith49-in-https-github-com-al|Enable
+  memory condensation from settings page]]'
+- '[[Changes/Windsurf/2025-04-02-improvements-to-memories|Improvements to Memories]]'
 - '[[Changes/ChatGPT/2025-04-16-chatgpt-can-also-use-memories-to-inform-search-queries-when-chatgpt-searches-the|Memory
   with Search]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35|chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35]]'

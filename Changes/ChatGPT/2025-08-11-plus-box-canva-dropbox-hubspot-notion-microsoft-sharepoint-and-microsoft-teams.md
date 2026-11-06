@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6abdefad4c842a0f3e7f16748f6ad6a1acede08632e51457c0c228744ff0df9b
+machine_hash: 1f6ea0f683bb54b3ac2f2dcbfff1a0c2f5a84579ad3e68d02300539390edf578
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,8 +42,8 @@ record:
     Teams'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-12-use-cursor-where-your-team-works-3e7ca8|Use Cursor
-  where your team works]]'
+- '[[Changes/Cline/2025-07-31-refactor-setup-e2e-tests-to-use-shared-mock-server-by-abeatrix-in-https-github-c|refactor:
+  setup e2e tests to use shared mock server]]'
 - '[[Changes/Cursor/2025-08-06-ai-code-tracking-api-get-commit-level-visibility-into-ai-usage-and-accepted-chan|AI
   code tracking API]]'
 - '[[Changes/ChatGPT/2025-08-11-pro-microsoft-teams-and-github|Pro: Microsoft Teams
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-ai-code-tracking-api-get-commit-level-visibility-into-ai-usage-and-accepted-chan|AI code tracking API]]
-- Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-share-prompts-with-deeplinks-beta|Share prompts with deeplinks (beta)]]
+- Later: 2025-08-16 · Cline · [[Changes/Cline/2025-08-16-focus-chain-regex-moved-to-shared-by-canvrno-in-https-github-com-cline-cline-pul|Focus Chain regex moved to /shared]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

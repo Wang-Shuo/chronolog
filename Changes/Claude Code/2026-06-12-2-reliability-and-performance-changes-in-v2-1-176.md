@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 84b4ab1be2dc70ade48cc84b7dc7b7e6d38443ddac4110d76ed8ddb90add5d3e
+machine_hash: d542a828c9f4513726caad4c7a9f229ca36a79ef563029738e802a8a4950e722
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Reliability and Performance changes in v2.1.176
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run
-  correlation: Every send() now carries a platform-generated requestId, exposed…]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-09-grep-searches-in-large-monorepos-use-an-indexed-search-engine-for-significantly|Grep
+  searches in large monorepos use an indexed search engine for significantly…]]'
 - '[[Changes/Claude Code/2026-06-10-improved-performance-in-long-conversations-by-removing-redundant-message-normali|Improved
   performance in long conversations by removing redundant message…]]'
 - '[[Changes/Cursor/2026-06-10-the-average-review-time-for-bugbot-is-now-90-seconds-down-from-5-minutes-bugbot-362593|The
@@ -86,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.176
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-06-10 · Cursor · [[Changes/Cursor/2026-06-10-the-average-review-time-for-bugbot-is-now-90-seconds-down-from-5-minutes-bugbot-362593|The average review time for Bugbot is now ~90 seconds, down from ~5 minutes]]
-- Later: 2026-06-17 · ChatGPT · [[Changes/ChatGPT/2026-06-17-with-scheduled-tasks-users-can-ask-chatgpt-to-send-reminders-handle-recurring-wo|With scheduled tasks, users can ask ChatGPT to send reminders, handle recurring…]]
+- Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-speed-up-branch-and-head-detection-in-warm-sessions|Speed up branch and HEAD detection in warm sessions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

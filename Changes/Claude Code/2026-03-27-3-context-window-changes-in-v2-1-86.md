@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 006872c2fbbcc7d98494f8643e730d1f38e7190495603edc1e6abb8a40785496
+machine_hash: 5fd879311f025d7738ed4f666b63ffd8088ea89ceaf289f166a35d0cd50cc260
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Context Window changes in v2.1.86
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-25-starting-today-for-chatgpt-plus-pro-and-business-users-long-pastes-are-handled-d|Large
-  pastes are now handled as attachments]]'
-- '[[Changes/Claude Code/2026-03-26-reduced-ui-stutter-when-compaction-triggers-on-large-sessions|Reduced
-  UI stutter when compaction triggers on large sessions]]'
 - '[[Changes/Claude Code/2026-03-26-2-context-window-changes-in-v2-1-84|2 Context
   Window changes in v2.1.84]]'
+- '[[Changes/Cline/2026-03-26-add-repeated-tool-call-loop-detection-to-prevent-infinite-loops-wasting-tokens|Add
+  repeated tool call loop detection to prevent infinite loops wasting tokens]]'
+- '[[Changes/Codex CLI/2026-03-26-5-context-window-changes-in-rust-v0-117-0|5 Context
+  Window changes in rust-v0.117.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859|claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859]]'
 source_type: github_releases
 theme: context-window
@@ -94,8 +94,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.86
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-2-context-window-changes-in-v2-1-84|2 Context Window changes in v2.1.84]]
-- Later: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-changed-hook-output-over-50k-characters-to-be-saved-to-disk-with-a-file-path-pre|Changed hook output over 50K characters to be saved to disk with a file path…]]
+- Earlier: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-5-context-window-changes-in-rust-v0-117-0|5 Context Window changes in rust-v0.117.0]]
+- Later: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-16286-auth-generalize-external-auth-tokens-for-bearer-only-sources-bolinfest|♯16286 auth: generalize external auth tokens for bearer-only sources @bolinfest]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

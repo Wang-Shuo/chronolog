@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-10-27 · Automation and Scheduling: iCloud users c
   connect Mail and Calendar to ChatGPT to find emails, catch up on your inbox, check
   your…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled
-    tasks in ChatGPT]]'
+  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
+    syntax error loop detection]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 651
+  lag_days: 783
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 90019a59389d86ccc94a8c3b9afb6ddc48915480f99d0564a01381ed73d683d4
+machine_hash: 5d17658e2f884d2065a0abb5559d9f4072a6fea6ee140bf4b08f7d8b7ec9474f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,11 +47,12 @@ record:
     catch up…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-05-changed-background-sessions-whose-scheduled-task-is-gone-they-now-move-to-comple|Changed
-  background sessions whose scheduled task is gone]]'
-- '[[Changes/Claude Code/2026-10-08-changed-ctrl-c-at-the-idle-prompt-of-an-attached-background-session-to-leave-a-p|Changed
-  Ctrl+C at the idle prompt of an attached background session to leave…]]'
-- '[[Changes/Cursor/2026-10-20-channels|Channels]]'
+- '[[Changes/OpenHands/2026-10-22-feat-automations-reflect-the-built-in-integration-s-connection-state-in-the-setu|feat(automations):
+  reflect the built-in integration''s connection state in the setup…]]'
+- '[[Changes/OpenHands/2026-10-23-3-automation-and-scheduling-changes-in-v1-32-0|3
+  Automation and Scheduling changes in v1.32.0]]'
+- '[[Changes/OpenHands/2026-10-23-2-automation-and-scheduling-changes-in-v1-33-0|2
+  Automation and Scheduling changes in v1.33.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-27-icloud-mail-and-calendar-plugins-in-chatgpt-216bf9bc|chatgpt-2026-10-27-icloud-mail-and-calendar-plugins-in-chatgpt-216bf9bc]]'
 source_type: chatgpt_changelog
 theme: automation-scheduling
@@ -81,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-10-20 · Cursor · [[Changes/Cursor/2026-10-20-channels|Channels]]
-- Later: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-2-automation-and-scheduling-changes-in-v2-1-316|2 Automation and Scheduling changes in v2.1.316]]
+- Earlier: 2026-10-23 · OpenHands · [[Changes/OpenHands/2026-10-23-2-automation-and-scheduling-changes-in-v1-33-0|2 Automation and Scheduling changes in v1.33.0]]
+- Later: 2026-10-27 · Gemini CLI · [[Changes/Gemini CLI/2026-10-27-refactor-core-cli-emit-tool-call-groups-from-the-scheduler-and-drop-the-ui-looka|refactor(core,cli): emit tool call groups from the scheduler and drop the UI lookahead]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-01-14 · ChatGPT · [[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled tasks in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

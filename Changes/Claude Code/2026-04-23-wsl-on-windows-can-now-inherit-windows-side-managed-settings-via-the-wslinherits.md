@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f5794230c7b92c5d182ca694fa549b766e2359609b252c0662879f3cf899ed66
+machine_hash: 204f0aa2e1f0e1207d9818eaa141646093820e7b87d77eaf9ef3ecbb1fd6ae0e
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,10 @@ record:
   title: WSL on Windows can now inherit Windows-side managed settings…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-17-3-developer-workflow-changes-in-v2-1-113|3 Developer
-  Workflow changes in v2.1.113]]'
 - '[[Changes/Claude Code/2026-04-22-2-developer-workflow-changes-in-v2-1-117|2 Developer
   Workflow changes in v2.1.117]]'
+- '[[Changes/Cline/2026-04-22-remove-foreground-terminal-mode-all-task-command-execution-now-defaults-to-backg|Remove
+  foreground terminal mode]]'
 - '[[Changes/Claude Code/2026-04-23-4-developer-workflow-changes-in-v2-1-119|4 Developer
   Workflow changes in v2.1.119]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c|claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-4-developer-workflow-changes-in-v2-1-119|4 Developer Workflow changes in v2.1.119]]
-- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-opentelemetry-added-claude-code-at-mention-log-event-for-mention-resolution|OpenTelemetry: added claude_code.at_mention log event for @-mention resolution]]
+- Later: 2026-04-23 · Codex CLI · [[Changes/Codex CLI/2026-04-23-2-developer-workflow-changes-in-rust-v0-124-0|2 Developer Workflow changes in rust-v0.124.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

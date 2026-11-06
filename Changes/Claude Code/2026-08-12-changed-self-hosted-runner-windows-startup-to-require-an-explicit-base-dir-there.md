@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 942b2dcca744190008958e078cf20438822045b57a264e51600f8ee3b7a53cac
+machine_hash: f6749ffd570a6a6b8a8d54b22357ae341fefbfb21404c4ad39a084ba09e5b711
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,11 @@ record:
   title: Changed self-hosted runner Windows startup to require an explicit `--base-dir`
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-29-cursor-for-ipad-is-now-available-on-all-paid-plans-ce68be|Cursor
-  for iPad is now available on all paid plans]]'
-- '[[Changes/Claude Code/2026-08-07-3-mobile-and-desktop-changes-in-v2-1-224|3 Mobile
-  and Desktop changes in v2.1.224]]'
 - '[[Changes/ChatGPT/2026-08-10-chatgpt-can-now-help-you-find-available-restaurant-reservations-with-opentable-r|Restaurant
   reservations in ChatGPT]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-10-2-mobile-and-desktop-changes-in-v1-0-79|2
+  Mobile and Desktop changes in v1.0.79]]'
+- '[[Changes/Windsurf/2026-08-10-devin-desktop|Devin Desktop]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-12-v2-1-229-github-369475532-b063933d|claude-code-2026-08-12-v2-1-229-github-369475532-b063933d]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-10 · ChatGPT · [[Changes/ChatGPT/2026-08-10-chatgpt-can-now-help-you-find-available-restaurant-reservations-with-opentable-r|Restaurant reservations in ChatGPT]]
+- Earlier: 2026-08-10 · Windsurf · [[Changes/Windsurf/2026-08-10-devin-desktop|Devin Desktop]]
 - Later: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-gateway-the-desktop-overlay-now-accepts-every-released-desktop-setting-was-11-ha|Gateway: the desktop: overlay now accepts every released Desktop setting…]]
 <!-- chronolog:end -->
 

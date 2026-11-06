@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 68352870069720da9a1fd5edc138a50372b931c48821189f7c3741e26f290f94
+machine_hash: 8704d64986c5cf468e9cdb9752b13e89a46b6541c3b02ae9603deea743d3319a
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,9 +57,10 @@ record:
   title: Improved macOS startup for Claude.ai enterprise/team users by skipping…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-18-many-of-the-largest-software-companies-in-the-world-have-adopted-cursor-for-ente|Many
-  of the largest software companies in the world have adopted Cursor for Enterprise]]'
-- '[[Changes/Cursor/2026-01-22-cursor-blame|Cursor Blame]]'
+- '[[Changes/Codex CLI/2026-02-11-enterprise-admin-requirements-can-now-restrict-web-search-modes-and-define-netwo|Enterprise/admin
+  requirements can now restrict web search modes and define network…]]'
+- '[[Changes/Gemini CLI/2026-02-25-feat-admin-add-admin-controls-documentation-by-skeshive-in-https-github-com-goog|feat(admin):
+  Add admin controls documentation]]'
 - '[[Changes/Cursor/2026-03-03-clearer-more-consistent-team-and-enterprise-policy-and-access-controls|Clearer,
   more consistent team and enterprise policy and access controls]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
@@ -103,7 +104,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-clearer-more-consistent-team-and-enterprise-policy-and-access-controls|Clearer, more consistent team and enterprise policy and access controls]]
-- Later: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-added-session-quality-survey-enterprise-admins-can-configure-the-sample-rate-via|Added session quality survey]]
+- Later: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-13388-config-enforce-enterprise-feature-requirements-bolinfest|♯13388 config: enforce enterprise feature requirements @bolinfest]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

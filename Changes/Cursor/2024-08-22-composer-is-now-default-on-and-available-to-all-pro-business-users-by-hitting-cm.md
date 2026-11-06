@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8d14661d8b4f099ac8cd1e3ca5b8c133c819d45b7e1d68fa0f0da2226a9bdcd5
+machine_hash: b27a5a02cbf896421fa14820f21b134f495d56823de260e47bc41b6e812fb477
 product: cursor
 product_name: Cursor
 record:
@@ -48,9 +48,12 @@ record:
     cmd+I
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
-- '[[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|Use
-  ChatGPT alongside your team]]'
+- '[[Changes/OpenHands/2024-07-13-refractor-move-image-agnostic-util-to-shared-runtime-util-by-xingyaoww-in-https|Refractor:
+  move image agnostic util to shared runtime util]]'
+- '[[Changes/OpenHands/2024-07-19-frontend-update-url-for-share-opendevin-trajectory-visualization-by-xingyaoww-in|frontend:
+  update url for share opendevin trajectory visualization]]'
+- '[[Changes/OpenHands/2024-07-27-2-collaboration-changes-in-0-8-2|2 Collaboration
+  changes in 0.8.2]]'
 source_release: '[[Releases/Cursor/cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42|cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -81,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|Use ChatGPT alongside your team]]
-- Later: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved indexing performance for teams sharing codebases]]
+- Earlier: 2024-07-27 · OpenHands · [[Changes/OpenHands/2024-07-27-2-collaboration-changes-in-0-8-2|2 Collaboration changes in 0.8.2]]
+- Later: 2024-10-09 · Cline · [[Changes/Cline/2024-10-09-new-readme-and-got-a-cool-domain-for-the-project-https-cline-bot-wip-on-a-final|New README and got a cool domain for the project (source link) (wip)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

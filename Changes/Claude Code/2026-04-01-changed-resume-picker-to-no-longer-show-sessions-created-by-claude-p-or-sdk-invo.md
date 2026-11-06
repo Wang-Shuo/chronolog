@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1ccdae0d211281f07018f92370aa1a408c7538913f8cce67bba27b7fc56ce41e
+machine_hash: 36aca420efcfee479ba24930a925509e8300146d71e6a4a2a717f6199e4f4f7a
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     or SDK…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|A
-  simplified sidebar on mobile]]'
-- '[[Changes/Claude Code/2026-03-26-improved-mention-file-autocomplete-performance-on-large-repositories|Improved
-  @-mention file autocomplete performance on large repositories]]'
-- '[[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed
-  /skills menu to sort alphabetically for easier scanning]]'
+- '[[Changes/OpenHands/2026-03-30-added-the-new-slash-command-to-the-slash-command-menu-by-karanjaxyz-in-https-git|Added
+  the /new slash command to the slash command menu]]'
+- '[[Changes/Codex CLI/2026-03-31-3-interface-experience-changes-in-rust-v0-118-0|3
+  Interface Experience changes in rust-v0.118.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-31-2-interface-experience-changes-in-v1-0-14|2
+  Interface Experience changes in v1.0.14]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b|claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b]]'
 source_type: github_releases
 theme: interface-experience
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed /skills menu to sort alphabetically for easier scanning]]
+- Earlier: 2026-03-31 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-31-2-interface-experience-changes-in-v1-0-14|2 Interface Experience changes in v1.0.14]]
 - Later: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-added-claude-code-no-flicker-1-environment-variable-to-opt-into-flicker-free-alt|Added CLAUDE_CODE_NO_FLICKER=1 environment variable to opt into flicker-free…]]
 <!-- chronolog:end -->
 

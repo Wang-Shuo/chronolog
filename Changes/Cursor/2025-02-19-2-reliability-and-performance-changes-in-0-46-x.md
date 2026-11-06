@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 18c96f205570d6bd628c018d044657123597d54a44a01ec89a2851253ee724f9
+machine_hash: 25bfde46bd2dc81df66928ac17dedf7e1383cb9d1ba3284de4022bbc316b922e
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Reliability and Performance changes in 0.46.x
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-01-23-also-adds-mcp-support-team-configurable-blocklists-fixes-composer-stuck-on-gener|Also
-  adds MCP support, team-configurable blocklists, fixes Composer stuck…]]'
+- '[[Changes/OpenHands/2025-02-13-optimize-memory-usage-in-fileeditobservation-by-neubig-in-https-github-com-all-h|Optimize
+  memory usage in FileEditObservation]]'
 - '[[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved
   Android conversation parsing performance]]'
 - '[[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes]]'

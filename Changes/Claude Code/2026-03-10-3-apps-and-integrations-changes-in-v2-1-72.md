@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 55506e613a39b2d7f8c22f8ceaa99ca0b4493a53f9b0df011b23a0ed68c0201a
+machine_hash: 47b2da7c19d52231531fe4d1679d006358eb9a1e81e0a5824da68bf7ac336ff9
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,11 @@ record:
   title: 3 Apps and Integrations changes in v2.1.72
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-05-7-apps-and-integrations-changes-in-v2-1-69|7 Apps
-  and Integrations changes in v2.1.69]]'
-- '[[Changes/Claude Code/2026-03-06-reduced-remote-control-poll-rate-to-once-per-10-minutes-while-connected-was-1-2s|Reduced
-  Remote Control /poll rate to once per 10 minutes while connected…]]'
-- '[[Changes/Claude Code/2026-03-07-3-apps-and-integrations-changes-in-v2-1-71|3 Apps
-  and Integrations changes in v2.1.71]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-09-extensions-are-now-available-as-an-experimental-feature-ask-copilot-to-write-cus|Extensions
+  are now available as an experimental feature]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-09-4-apps-and-integrations-changes-in-v1-0-3|4
+  Apps and Integrations changes in v1.0.3]]'
+- '[[Changes/Windsurf/2026-03-09-mcp|MCP]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48|claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48]]'
 source_type: github_releases
 theme: apps-integrations
@@ -95,8 +94,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.72
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-07 · Claude Code · [[Changes/Claude Code/2026-03-07-3-apps-and-integrations-changes-in-v2-1-71|3 Apps and Integrations changes in v2.1.71]]
-- Later: 2026-03-11 · Cursor · [[Changes/Cursor/2026-03-11-we-ve-added-more-than-30-new-plugins-from-partners-such-as-atlassian-datadog-git-901313|New Plugins on the Cursor Marketplace]]
+- Earlier: 2026-03-09 · Windsurf · [[Changes/Windsurf/2026-03-09-mcp|MCP]]
+- Later: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-11-apps-and-integrations-changes-in-rust-v0-113-0|11 Apps and Integrations changes in rust-v0.113.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

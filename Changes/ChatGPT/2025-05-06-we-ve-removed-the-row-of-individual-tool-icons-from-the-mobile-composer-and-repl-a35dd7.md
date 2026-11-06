@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4ca8c9c58b67ae01bde0c07f0717e9c18bec6721250a5d87703c4fb66bfe562c
+machine_hash: 1c7871afecde9eb82d7cc307f37cc5a819381d9c20564baf45a2c08e1b4a4984
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,11 +52,12 @@ record:
   title: Mobile UI (iOS/Android) changing on Free/Plus/Pro plans
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-new-onboarding|New onboarding]]'
-- '[[Changes/Cursor/2025-03-23-2-interface-experience-changes-in-0-48-x|2 Interface
-  Experience changes in 0.48.x]]'
-- '[[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|More
-  accessible history]]'
+- '[[Changes/Cline/2025-04-19-add-new-slash-command-menu-letting-you-type-to-do-quick-actions-like-creating-ne|Add
+  new slash command menu letting you type…]]'
+- '[[Changes/Cline/2025-04-25-add-tooltips-to-bottom-row-menu|Add tooltips to bottom
+  row menu]]'
+- '[[Changes/Cline/2025-05-03-add-support-for-latex-rendering|Add support for LaTeX
+  rendering]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-06-mobile-ui-ios-android-changing-on-free-plus-pro-plans-be1d56cb|chatgpt-2025-05-06-mobile-ui-ios-android-changing-on-free-plus-pro-plans-be1d56cb]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -85,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|More accessible history]]
-- Later: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-duplicate-chats|Duplicate Chats]]
+- Earlier: 2025-05-03 · Cline · [[Changes/Cline/2025-05-03-add-support-for-latex-rendering|Add support for LaTeX rendering]]
+- Later: 2025-05-07 · OpenHands · [[Changes/OpenHands/2025-05-07-added-branch-picker-for-repository-on-homepage-by-rbren-in-https-github-com-all|Added branch picker for repository on homepage]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b9ecd22a083ed1efe8c19143aea4db2ab1b890baa88bcf342b22106c66bf57a6
+machine_hash: 2d1a0913bf13aee5fec7f608e91799cb4646bd4cd043b4ee8dfdbd9cafe50671
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     response'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-06-vscode-added-spark-icon-in-vs-code-activity-bar-that-lists-all-claude-code-sessi|VSCode
-  Added spark icon in VS Code activity bar that lists all Claude Code…]]'
-- '[[Changes/Claude Code/2026-03-10-added-w-key-in-copy-to-write-the-focused-selection-directly-to-a-file-bypassing|Added
-  w key in /copy to write the focused selection directly to a file…]]'
-- '[[Changes/Claude Code/2026-03-11-2-interface-experience-changes-in-v2-1-73|2 Interface
-  Experience changes in v2.1.73]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-11-2-interface-experience-changes-in-v1-0-4|2
+  Interface Experience changes in v1.0.4]]'
+- '[[Changes/Codex CLI/2026-03-16-14410-make-collab-model-metadata-accurate-on-completion-aibrahim-oai|♯14410
+  Make collab model metadata accurate on completion @aibrahim-oai]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-16-show-friendlier-error-messages-and-provide-keyboard-shortcut-to-open-event-links|Show
+  friendlier error messages and provide keyboard shortcut to open event links…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c|claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c]]'
 source_type: github_releases
 theme: interface-experience
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-2-interface-experience-changes-in-v2-1-73|2 Interface Experience changes in v2.1.73]]
+- Earlier: 2026-03-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-16-show-friendlier-error-messages-and-provide-keyboard-shortcut-to-open-event-links|Show friendlier error messages and provide keyboard shortcut to open event links…]]
 - Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-2-interface-experience-changes-in-v2-1-78|2 Interface Experience changes in v2.1.78]]
 <!-- chronolog:end -->
 

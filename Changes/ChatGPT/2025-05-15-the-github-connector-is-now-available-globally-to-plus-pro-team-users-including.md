@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: de49969bc37f4f7ff3d5cded014d6141619f5dbe0110ec7eb9aabfde6a6d76eb
+machine_hash: 00e62f90514fca2c64187221b225d758c632c7ec3aa9e5357b780b6f013227fb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,11 +43,11 @@ record:
   title: GitHub connector for deep research
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-11-mcp-added-global-server-configuration-with-cursor-mcp-json-and-support-for-envir|MCP:
-  Added global server configuration with ~/.cursor/mcp.json and support…]]'
-- '[[Changes/Cursor/2025-03-23-3-apps-and-integrations-changes-in-0-48-x|3 Apps and
-  Integrations changes in 0.48.x]]'
-- '[[Changes/Cursor/2025-04-15-images-in-mcp|Images in MCP]]'
+- '[[Changes/Cline/2025-05-03-refactor-message-handling-to-not-show-the-mcp-view-of-the-server-modal|Refactor
+  message handling to not show the MCP View of the server modal]]'
+- '[[Changes/Windsurf/2025-05-07-cascade-plugins|Cascade Plugins]]'
+- '[[Changes/OpenHands/2025-05-12-2-apps-and-integrations-changes-in-0-38-0|2 Apps
+  and Integrations changes in 0.38.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-15-github-connector-for-deep-research-0808a124|chatgpt-2025-05-15-github-connector-for-deep-research-0808a124]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-images-in-mcp|Images in MCP]]
+- Earlier: 2025-05-12 · OpenHands · [[Changes/OpenHands/2025-05-12-2-apps-and-integrations-changes-in-0-38-0|2 Apps and Integrations changes in 0.38.0]]
 - Later: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-refreshed-inline-edit-cmd-ctrl-k-with-agent-integration|Refreshed Inline Edit (Cmd/Ctrl+K) with Agent integration]]
 <!-- chronolog:end -->
 

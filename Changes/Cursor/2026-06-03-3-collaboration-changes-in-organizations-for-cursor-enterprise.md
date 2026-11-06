@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 845a8e463121b59a9dc4425ba5c461293a7921564af4815190320880cc55ccba
+machine_hash: 54e4eb0e425347d0cfd36f476f9f78a001258ecfbb3566a1681dcae96f5af925
 product: cursor
 product_name: Cursor
 record:
@@ -88,7 +88,7 @@ Source: https://cursor.com/changelog/enterprise-organizations
 ## Nearby in Collaboration
 
 - Earlier: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-quieter-startup-notices-group-by-severity-and-session-info-and-announcements-sha|Quieter startup: notices group by severity, and session info and announcements share…]]
-- Later: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World Cup updates]]
+- Later: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-4-collaboration-changes-in-rust-v0-137-0|4 Collaboration changes in rust-v0.137.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ad768ded89e0466af2f708e4f448bcb1cffac51b947ae614ebeb58c97942e89b
+machine_hash: 92649f4e373770d15e64b424a6c31d0180a0ed542836bf4582fc2e19cd700589
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 'Remote Control: resuming a conversation whose session was deleted from claude.ai…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-21-changed-the-login-expiry-warning-to-appear-3-days-before-expiry-instead-of-5|Changed
-  the login-expiry warning to appear 3 days before expiry instead of 5]]'
-- '[[Changes/Claude Code/2026-08-07-changed-managed-settings-the-approval-prompt-no-longer-re-appears-after-re-login|Changed
-  managed settings]]'
+- '[[Changes/Cline/2026-08-09-2-account-and-access-changes-in-v4-1-7|2 Account and
+  Access changes in v4.1.7]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-10-login-links-are-clickable-during-web-and-device-code-sign-in|Login
+  links are clickable during web and device-code sign-in]]'
 - '[[Changes/Claude Code/2026-08-12-updated-login-to-repeat-the-claude-code-oauth-token-override-warning-after-a-suc|Updated
   /login to repeat the CLAUDE_CODE_OAUTH_TOKEN override warning after…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-13-v2-1-232-github-370225682-71e478db|claude-code-2026-08-13-v2-1-232-github-370225682-71e478db]]'
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-updated-login-to-repeat-the-claude-code-oauth-token-override-warning-after-a-suc|Updated /login to repeat the CLAUDE_CODE_OAUTH_TOKEN override warning after…]]
-- Later: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-2-account-and-access-changes-in-v2-1-234|2 Account and Access changes in v2.1.234]]
+- Later: 2026-08-13 · OpenHands · [[Changes/OpenHands/2026-08-13-ci-deps-bump-docker-login-action-from-4-5-2-to-4-6-0-in-the-actions-group-by-dep|ci(deps): bump docker/login-action from 4.5.2 to 4.6.0 in the actions group…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

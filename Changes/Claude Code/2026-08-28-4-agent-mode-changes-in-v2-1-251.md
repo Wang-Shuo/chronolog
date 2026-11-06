@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 71e86a13fe85c0da038b8dc0144d0a7ed38ae5c87a9ef0049b33961a432d713f
+machine_hash: 7e623de49f9a3f41db4d35a58ea03448e79bf8d539c94effbd735dec1889bcd0
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
   title: 4 Agent Mode changes in v2.1.251
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-27-3-agent-mode-changes-in-v2-1-248|3 Agent Mode
-  changes in v2.1.248]]'
-- '[[Changes/Cursor/2026-08-27-cloud-agents-no-longer-require-a-connected-github-or-other-third-party-scm-provi|Cloud
-  Agents no longer require a connected GitHub or other third-party SCM provider…]]'
 - '[[Changes/Cursor/2026-08-27-cursor-now-port-forwards-your-cloud-agent-s-live-environment-straight-to-your-br|A
   live preview, right in the browser]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-27-8-agent-mode-changes-in-v1-0-81|8 Agent
+  Mode changes in v1.0.81]]'
+- '[[Changes/OpenHands/2026-08-27-4-agent-mode-changes-in-v1-16-0|4 Agent Mode changes
+  in v1.16.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96|claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96]]'
 source_type: github_releases
 theme: agent-mode
@@ -103,8 +103,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.251
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-27 · Cursor · [[Changes/Cursor/2026-08-27-cursor-now-port-forwards-your-cloud-agent-s-live-environment-straight-to-your-br|A live preview, right in the browser]]
-- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-5-agent-mode-changes-in-v2-1-257|5 Agent Mode changes in v2.1.257]]
+- Earlier: 2026-08-27 · OpenHands · [[Changes/OpenHands/2026-08-27-4-agent-mode-changes-in-v1-16-0|4 Agent Mode changes in v1.16.0]]
+- Later: 2026-08-29 · Codex CLI · [[Changes/Codex CLI/2026-08-29-2-agent-mode-changes-in-rust-v0-151-0|2 Agent Mode changes in rust-v0.151.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

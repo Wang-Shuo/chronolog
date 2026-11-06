@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b7a4ad00b32e8f91a2eff52b88dc9c62073a9bdae0a9c0ba9aaf1262038abda7
+machine_hash: 0aeca7c294dd4e003b0f6375741f1f9fc44763c7a69af9fef797236538a73695
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,12 @@ record:
   title: Share your stickers in messaging apps
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-21-remote-sessions-images-uploaded-from-mobile-now-include-their-saved-file-path-so|Remote
-  sessions: images uploaded from mobile now include their saved file path…]]'
-- '[[Changes/Claude Code/2026-08-21-windows-cross-session-messaging-is-now-available-so-claude-code-sessions-across|Windows:
-  cross-session messaging is now available, so Claude Code sessions across…]]'
-- '[[Changes/Claude Code/2026-08-25-windows-macos-fixed-headless-sessions-not-cleaning-up-stale-entries-in-claude-se|Windows/macOS:
-  Fixed headless sessions not cleaning up stale entries…]]'
+- '[[Changes/Codex CLI/2026-08-26-39811-restrict-macos-preference-reads-to-full-disk-policies-copyberry|♯39811
+  Restrict macOS preference reads to full-disk policies @copyberry]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-27-sandboxed-builds-on-windows-create-their-scratch-caches-on-first-run-so-cargo-go|Sandboxed
+  builds on Windows create their scratch caches on first run, so cargo, go…]]'
+- '[[Changes/OpenHands/2026-08-27-feat-add-linux-desktop-installer-build-ci-deb-maintainer-fix-by-georgeglarson-in|feat:
+  add linux desktop installer build (CI + deb maintainer fix)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-31-create-and-share-personalized-sticker-packs-120616f6|chatgpt-2026-08-31-create-and-share-personalized-sticker-packs-120616f6]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-windows-macos-fixed-headless-sessions-not-cleaning-up-stale-entries-in-claude-se|Windows/macOS: Fixed headless sessions not cleaning up stale entries…]]
+- Earlier: 2026-08-27 · OpenHands · [[Changes/OpenHands/2026-08-27-feat-add-linux-desktop-installer-build-ci-deb-maintainer-fix-by-georgeglarson-in|feat: add linux desktop installer build (CI + deb maintainer fix)]]
 - Later: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-chatgpt-work-and-codex-can-now-use-tools-that-supported-websites-provide-directl|ChatGPT Work and Codex can now use tools that supported websites provide directly…]]
 <!-- chronolog:end -->
 

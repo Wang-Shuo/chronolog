@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e848a339b5b934ef70b4903916866c14b937e2d3a0aae3f935a04e7b2c57af65
+machine_hash: 6737cf6298c0292b109f76b2ec2c26e340059cbb1a364c328f5fa3ddb7e9e506
 product: cursor
 product_name: Cursor
 record:
@@ -47,10 +47,10 @@ record:
     in real…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-04-remote-control-session-names-now-use-your-hostname-as-the-default-prefix-e-g-myh|Remote
-  Control session names now use your hostname as the default prefix…]]'
-- '[[Changes/Claude Code/2026-04-07-5-apps-and-integrations-changes-in-v2-1-94|5 Apps
-  and Integrations changes in v2.1.94]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-07-2-apps-and-integrations-changes-in-v1-0-21|2
+  Apps and Integrations changes in v1.0.21]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-07-azure-openai-byok-defaults-to-the-ga-versionless-v1-route-when-no-api-version-is|Azure
+  OpenAI BYOK defaults to the GA versionless v1 route when no API version…]]'
 - '[[Changes/Cursor/2026-04-08-give-bugbot-access-to-mcp-servers-for-additional-context-during-code-reviews-on|Bugbot
   MCP Support]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11|cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11]]'
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-07 · Claude Code · [[Changes/Claude Code/2026-04-07-5-apps-and-integrations-changes-in-v2-1-94|5 Apps and Integrations changes in v2.1.94]]
-- Later: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-2-apps-and-integrations-changes-in-v2-1-98|2 Apps and Integrations changes in v2.1.98]]
+- Earlier: 2026-04-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-07-azure-openai-byok-defaults-to-the-ga-versionless-v1-route-when-no-api-version-is|Azure OpenAI BYOK defaults to the GA versionless v1 route when no API version…]]
+- Later: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-3-apps-and-integrations-changes-in-v0-37-0|3 Apps and Integrations changes in v0.37.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1bdaf3c1b9526b8bc470a463ac439ff573983124de8701f844c342bfe646c47b
+machine_hash: eacdb55762d4ac511bddf4991b72b30f47aae8528e2c09a887665f19b06b7eee
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,10 @@ record:
   title: 3 Apps and Integrations changes in v2.1.129
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-29-run-npm-install-cursor-sdk-to-get-started-you-can-also-use-cursor-s-native-sdk-s-76fb76|Run
-  npm install @cursor/sdk to get started]]'
 - '[[Changes/Claude Code/2026-05-04-6-apps-and-integrations-changes-in-v2-1-128|6
   Apps and Integrations changes in v2.1.128]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-05-2-apps-and-integrations-changes-in-v1-0-41|2
+  Apps and Integrations changes in v1.0.41]]'
 - '[[Changes/Claude Code/2026-05-06-added-claude-code-session-id-environment-variable-to-the-bash-tool-subprocess-en|Added
   CLAUDE_CODE_SESSION_ID environment variable to the Bash tool subprocess…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f|claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f]]'
@@ -93,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.129
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-added-claude-code-session-id-environment-variable-to-the-bash-tool-subprocess-en|Added CLAUDE_CODE_SESSION_ID environment variable to the Bash tool subprocess…]]
-- Later: 2026-05-07 · Claude Code · [[Changes/Claude Code/2026-05-07-2-apps-and-integrations-changes-in-v2-1-133|2 Apps and Integrations changes in v2.1.133]]
+- Later: 2026-05-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-06-mcp-server-child-processes-e-g-started-via-npx-or-uvx-are-now-fully-terminated-w|MCP server child processes (e.g. started via npx or uvx) are now fully terminated…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

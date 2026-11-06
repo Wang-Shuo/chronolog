@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f46e1ca6e2ff0c0485600af75f562b6da3d017ef973c23b406cd54c82515b9f
+machine_hash: 0be3e08018645ea9ba58142ddfeb44076e434341117314f34c2058dacdfdaa1a
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Apps and Integrations changes in v2.1.229
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-07-3-apps-and-integrations-changes-in-v2-1-224|3
-  Apps and Integrations changes in v2.1.224]]'
-- '[[Changes/Claude Code/2026-08-08-3-apps-and-integrations-changes-in-v2-1-225|3
-  Apps and Integrations changes in v2.1.225]]'
+- '[[Changes/Cline/2026-08-09-2-apps-and-integrations-changes-in-v4-1-7|2 Apps and
+  Integrations changes in v4.1.7]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-10-3-apps-and-integrations-changes-in-v1-0-79|3
+  Apps and Integrations changes in v1.0.79]]'
 - '[[Changes/Claude Code/2026-08-11-2-apps-and-integrations-changes-in-v2-1-228|2
   Apps and Integrations changes in v2.1.228]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-12-v2-1-229-github-369475532-b063933d|claude-code-2026-08-12-v2-1-229-github-369475532-b063933d]]'

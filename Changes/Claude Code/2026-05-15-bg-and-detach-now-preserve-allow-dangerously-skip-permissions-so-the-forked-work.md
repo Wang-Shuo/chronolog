@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a7d9506b1edd4c52501bfdc11e1b87c602ba36844aa502760a83b2e144928696
+machine_hash: 89804008c29b64b21c22065adec96b1897bdb94e7abc9b67a3f62432bc1fc49f
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,10 @@ record:
   title: '`/bg` and `←`-detach now preserve `--allow-dangerously-skip-permissions`…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-07-multitask-is-now-available-in-the-editor-for-running-async-subagents-to-parallel|/multitask
-  is now available in the editor for running async subagents to parallelize…]]'
 - '[[Changes/Claude Code/2026-05-11-vscode-press-cmd-ctrl-shift-t-to-reopen-the-most-recently-closed-session-tab-con|VSCode
   Press Cmd/Ctrl+Shift+T to reopen the most recently closed session tab…]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-12-read-only-gh-cli-commands-list-view-status-diff-etc-are-auto-approved-without-pr|Read-only
+  gh CLI commands (list, view, status, diff, etc.) are auto-approved without…]]'
 - '[[Changes/Cursor/2026-05-13-improved-pr-tabs-by-adding-clearer-review-states-better-reviewer-thread-visibili|Improved
   PR tabs by adding clearer review states, better reviewer/thread visibility…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c|claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-improved-pr-tabs-by-adding-clearer-review-states-better-reviewer-thread-visibili|Improved PR tabs by adding clearer review states, better reviewer/thread visibility…]]
-- Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-fewer-spurious-tool-errors-during-search-head-tail-file-views-now-satisfy-the-re|Fewer spurious tool errors during search]]
+- Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-21954-fix-goal-update-and-add-goal-edit-command-in-tui-etraut-openai|♯21954 Fix goal update and add /goal edit command in TUI @etraut-openai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

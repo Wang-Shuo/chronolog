@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b142b4e1eea300107ca47dffb2129e092434c77c5737d632631f35b888022890
+machine_hash: 7e7d45f7aa4af786e7e5ea7771a3ae13ba35ce239d7c89334b1e84a2f8ea81f6
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,7 +83,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.187
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-22 · Cursor · [[Changes/Cursor/2026-06-22-plugin-canvases|Plugin canvases]]
-- Later: 2026-06-24 · Claude Code · [[Changes/Claude Code/2026-06-24-2-apps-and-integrations-changes-in-v2-1-191|2 Apps and Integrations changes in v2.1.191]]
+- Later: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-8-apps-and-integrations-changes-in-v1-0-64|8 Apps and Integrations changes in v1.0.64]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

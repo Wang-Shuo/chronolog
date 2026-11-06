@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e914004a5184afdea97b56299a73b5dc26a46fab253a1480bbddcba95641a08b
+machine_hash: c61f4107a6c50116f62bc5dbeb7394bf0a950b7b17fdeae5923f3b534f859872
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,10 +50,10 @@ record:
     connected apps'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-10-run-bugbot-before-you-push-3e5964|Run Bugbot before
-  you push]]'
 - '[[Changes/Claude Code/2026-06-15-2-safety-and-privacy-changes-in-v2-1-178|2 Safety
   and Privacy changes in v2.1.178]]'
+- '[[Changes/Codex CLI/2026-06-15-27490-remove-tui-legacy-windows-sandbox-dependency-etraut-openai|♯27490
+  Remove TUI legacy Windows sandbox dependency @etraut-openai]]'
 - '[[Changes/Claude Code/2026-06-17-added-sandbox-allowappleevents-opt-in-setting-that-lets-sandboxed-commands-send|Added
   sandbox.allowAppleEvents opt-in setting that lets sandboxed commands send…]]'
 scope: Web, iOS, and Android
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-added-sandbox-allowappleevents-opt-in-setting-that-lets-sandboxed-commands-send|Added sandbox.allowAppleEvents opt-in setting that lets sandboxed commands send…]]
-- Later: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-2-safety-and-privacy-changes-in-v2-1-186|2 Safety and Privacy changes in v2.1.186]]
+- Later: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-7-safety-and-privacy-changes-in-rust-v0-141-0|7 Safety and Privacy changes in rust-v0.141.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

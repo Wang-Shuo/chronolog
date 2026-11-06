@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 632d7d257b2efac2e38e1debb70c7d27bdbca0766003ef953151da5f1c2a0e2d
+machine_hash: 1a0939b27dcccf021376042c50cafd6e6db22571b4aea6ef0afce8faab90a240
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Context Window changes in v2.1.84
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-20-changed-plan-mode-to-hide-the-clear-context-option-by-default-restore-with-showc|Changed
-  plan mode to hide the "clear context" option by default…]]'
+- '[[Changes/Gemini CLI/2026-03-24-2-context-window-changes-in-v0-35-0|2 Context Window
+  changes in v0.35.0]]'
 - '[[Changes/ChatGPT/2026-03-25-starting-today-for-chatgpt-plus-pro-and-business-users-long-pastes-are-handled-d|Large
   pastes are now handled as attachments]]'
 - '[[Changes/Claude Code/2026-03-26-reduced-ui-stutter-when-compaction-triggers-on-large-sessions|Reduced
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.84
 ## Nearby in Context Window
 
 - Earlier: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-reduced-ui-stutter-when-compaction-triggers-on-large-sessions|Reduced UI stutter when compaction triggers on large sessions]]
-- Later: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-3-context-window-changes-in-v2-1-86|3 Context Window changes in v2.1.86]]
+- Later: 2026-03-26 · Cline · [[Changes/Cline/2026-03-26-add-repeated-tool-call-loop-detection-to-prevent-infinite-loops-wasting-tokens|Add repeated tool call loop detection to prevent infinite loops wasting tokens]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9db74b1ec5631f639547e81a1d54d6b95ec0554e37601926cd1eacc8918083c7
+machine_hash: 708f147a702e44bb5b95200e754c3d29acfc81cb914cb4c5c872060bc41ca568
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,10 +56,10 @@ record:
   title: Added Claude Haiku 5.5 (`claude-haiku-5-5`), now the default Haiku model…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-05-2-model-support-changes-in-v2-1-290|2 Model Support
-  changes in v2.1.290]]'
 - '[[Changes/Claude Code/2026-10-06-added-prompt-caching-to-model-complete-for-mods-prompt-and-system-take-blocks-of|Added
   prompt caching to $.model.complete for mods]]'
+- '[[Changes/OpenHands/2026-10-06-7-model-support-changes-in-v1-25-0|7 Model Support
+  changes in v1.25.0]]'
 - '[[Changes/ChatGPT/2026-10-07-we-re-introducing-gpt-6-with-intelligent-ui-in-chatgpt-chatgpt-can-now-combine-t|GPT-6
   and Intelligent UI in ChatGPT]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d|claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d]]'
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-07 · ChatGPT · [[Changes/ChatGPT/2026-10-07-we-re-introducing-gpt-6-with-intelligent-ui-in-chatgpt-chatgpt-can-now-combine-t|GPT-6 and Intelligent UI in ChatGPT]]
-- Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-3-model-support-changes-in-v2-1-295|3 Model Support changes in v2.1.295]]
+- Later: 2026-10-07 · Cline · [[Changes/Cline/2026-10-07-3-model-support-changes-in-v4-1-23|3 Model Support changes in v4.1.23]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

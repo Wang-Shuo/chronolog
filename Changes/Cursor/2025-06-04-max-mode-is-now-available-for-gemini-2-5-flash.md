@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ced58722bcfc429d18d8262d8dcd0a4c7bffe236ad194cfe69afeed0d4ad25cc
+machine_hash: aa9f52cf4ca03cc0b0a777705153fdb82f3f0f1e9db30cf997132547a2856dde
 product: cursor
 product_name: Cursor
 record:
@@ -43,11 +43,12 @@ record:
   title: Max mode is now available for Gemini 2.5 Flash
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-05-14-since-its-launch-in-the-api-in-april-gpt-4-1-has-become-a-favorite-among-develop-286eb2|Releasing
-  GPT-4.1 in ChatGPT for all paid users]]'
-- '[[Changes/ChatGPT/2025-05-14-gpt-4-1-mini-is-a-fast-capable-and-efficient-small-model-delivering-significant-722b7d|Introducing
-  GPT-4.1 mini, replacing GPT-4o mini, in ChatGPT for all users]]'
-- '[[Changes/Cursor/2025-05-15-max-mode-for-all-top-models|Max Mode for all top models]]'
+- '[[Changes/Cline/2025-05-28-2-model-support-changes-in-v3-17-6|2 Model Support changes
+  in v3.17.6]]'
+- '[[Changes/Aider/2025-05-30-6-model-support-changes-in-v0-84-0|6 Model Support changes
+  in v0.84.0]]'
+- '[[Changes/Cline/2025-06-03-5-model-support-changes-in-v3-17-9|5 Model Support changes
+  in v3.17.9]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
 source_type: cursor_changelog
 theme: model-support
@@ -89,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-max-mode-for-all-top-models|Max Mode for all top models]]
-- Later: 2025-06-10 · ChatGPT · [[Changes/ChatGPT/2025-06-10-like-o1-pro-o3-pro-is-a-version-of-our-most-intelligent-model-o3-designed-to-thi-32668a|ChatGPT launches OpenAI o3-pro—available now for Pro users and in our API]]
+- Earlier: 2025-06-03 · Cline · [[Changes/Cline/2025-06-03-5-model-support-changes-in-v3-17-9|5 Model Support changes in v3.17.9]]
+- Later: 2025-06-05 · Cline · [[Changes/Cline/2025-06-05-3-model-support-changes-in-v3-17-10|3 Model Support changes in v3.17.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 853b2ef5c58628fccf62883065a308edfea3678e3675b626adb7e9cb075460f4
+machine_hash: 6a8e1ce98d03cc1b75c7df331b7936254a5aedc9080a9caca15c2a31ebad5d79
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,10 +53,10 @@ record:
     memory…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-15-improved-the-memory-index-over-limit-warning-to-measure-only-loaded-content-excl|Improved
-  the memory index over-limit warning to measure only loaded content…]]'
-- '[[Changes/Claude Code/2026-07-18-added-an-iso-modified-timestamp-to-memory-file-frontmatter|Added
-  an ISO modified timestamp to memory file frontmatter]]'
+- '[[Changes/Cline/2026-07-31-remove-vestigial-mcp-server-key-machinery-from-mcphub-native-mcp-tool-calls-now|Remove
+  vestigial MCP server-key machinery from McpHub]]'
+- '[[Changes/Codex CLI/2026-08-07-36140-wait-for-memory-consolidation-shutdown-before-finishing-jobs-copyberry|♯36140
+  Wait for memory consolidation shutdown before finishing jobs @copyberry]]'
 - '[[Changes/Claude Code/2026-08-13-cowork-sessions-no-longer-inline-external-imports-from-user-scope-memory-files|Cowork
   sessions no longer inline external @-imports from user-scope memory files]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5]]'

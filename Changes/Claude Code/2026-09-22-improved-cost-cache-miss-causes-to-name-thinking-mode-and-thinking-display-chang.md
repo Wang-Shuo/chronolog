@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 7dac1dd826d2a783536cd82016e2696750f275ffe8c51a788d762bc5df9a1e32
+machine_hash: 8a4f8f80619cf85fca9369abdb4fb8c70022718745c53ad514245bd2d9a87037
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     changes
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-claude-code-on-the-web-changed-a-routine-s-on-hold-notice-when-your-subscription|Claude
-  Code on the web Changed a routine''s on-hold notice]]'
+- '[[Changes/Cline/2026-09-17-cline-pass-now-defaults-to-a-model-from-your-subscription-rather-than-a-free-one|Cline
+  Pass now defaults to a model from your subscription rather than a free one]]'
 - '[[Changes/Claude Code/2026-09-18-vscode-added-the-session-s-cost-and-token-usage-to-the-account-usage-dialog-and|VSCode
   Added the session''s cost and token usage to the Account & usage dialog…]]'
 - '[[Changes/Claude Code/2026-09-19-changed-auto-mode-for-claude-api-and-enterprise-users-and-on-bedrock-vertex-foun|Changed
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-09-19 · Claude Code · [[Changes/Claude Code/2026-09-19-changed-auto-mode-for-claude-api-and-enterprise-users-and-on-bedrock-vertex-foun|Changed auto mode for Claude API and Enterprise users, and on Bedrock, Vertex…]]
-- Later: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-for-the-next-10-days-we-re-including-usage-credits-so-teams-can-try-rollouts-on|For the next 10 days, we're including usage credits so teams can try Rollouts…]]
+- Later: 2026-09-22 · Cline · [[Changes/Cline/2026-09-22-models-that-advertise-a-large-output-limit-now-get-a-bigger-default-output-budge|Models that advertise a large output limit now get a bigger default output budget]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

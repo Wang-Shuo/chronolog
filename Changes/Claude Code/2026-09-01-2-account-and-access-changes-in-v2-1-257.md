@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ae0d966537987bd0c0a046b3a769ec7b254d5d68d4e80e2d9822d077e2a3a1fa
+machine_hash: e88cd23b7c7219beab6bda6a5b37eceeacb36fcfedb1297c8ea4d6c24a6b49cd
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Account and Access changes in v2.1.257
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-25-improved-attribution-of-usage-telemetry-to-your-organization-for-workload-identi|Improved
-  attribution of usage telemetry to your organization for workload identity…]]'
-- '[[Changes/Claude Code/2026-08-26-3-account-and-access-changes-in-v2-1-247|3 Account
-  and Access changes in v2.1.247]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-27-2-account-and-access-changes-in-v1-0-81|2
+  Account and Access changes in v1.0.81]]'
 - '[[Changes/Claude Code/2026-08-28-changed-analytics-to-no-longer-turn-off-before-sign-in-solely-because-managed-se|Changed
   analytics to no longer turn off before sign-in solely because managed…]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-29-show-the-specific-authentication-failure-such-as-401-bad-credentials-instead-of|Show
+  the specific authentication failure (such as 401 Bad credentials) instead…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6|claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6]]'
 source_type: github_releases
 theme: account-access
@@ -94,8 +94,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.257
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-changed-analytics-to-no-longer-turn-off-before-sign-in-solely-because-managed-se|Changed analytics to no longer turn off before sign-in solely because managed…]]
-- Later: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-2-account-and-access-changes-in-v2-1-261|2 Account and Access changes in v2.1.261]]
+- Earlier: 2026-08-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-29-show-the-specific-authentication-failure-such-as-401-bad-credentials-instead-of|Show the specific authentication failure (such as 401 Bad credentials) instead…]]
+- Later: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-2-account-and-access-changes-in-rust-v0-152-0|2 Account and Access changes in rust-v0.152.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 172f83b1cf58b8d9b95c989781d0362c0f2a1c9436c0ada1e63c2c04f35ddac3
+machine_hash: 5eb75229180cf3bb3b14d361bdfce82a169b791b76a4df4b6a5a3256fa501ebb
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,12 +61,12 @@ record:
   title: 7 Safety and Privacy changes in v2.1.275
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-14-if-you-make-no-changes-to-your-plugins-settings-the-default-permission-setting-i|If
-  you make no changes to your Plugins settings, the default permission setting…]]'
-- '[[Changes/Claude Code/2026-09-14-7-safety-and-privacy-changes-in-v2-1-271|7 Safety
-  and Privacy changes in v2.1.271]]'
-- '[[Changes/Claude Code/2026-09-15-5-safety-and-privacy-changes-in-v2-1-273|5 Safety
-  and Privacy changes in v2.1.273]]'
+- '[[Changes/Gemini CLI/2026-09-15-2-safety-and-privacy-changes-in-v0-60-0|2 Safety
+  and Privacy changes in v0.60.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-16-17-safety-and-privacy-changes-in-v1-0-85|17
+  Safety and Privacy changes in v1.0.85]]'
+- '[[Changes/OpenHands/2026-09-16-test-cover-telemetry-consent-banner-by-aivong-openhands-in-https-github-com-open|test:
+  cover telemetry consent banner]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd|claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd]]'
 source_type: github_releases
 theme: safety-privacy
@@ -120,7 +120,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.275
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-5-safety-and-privacy-changes-in-v2-1-273|5 Safety and Privacy changes in v2.1.273]]
+- Earlier: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-test-cover-telemetry-consent-banner-by-aivong-openhands-in-https-github-com-open|test: cover telemetry consent banner]]
 - Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-3-safety-and-privacy-changes-in-v2-1-274|3 Safety and Privacy changes in v2.1.274]]
 <!-- chronolog:end -->
 

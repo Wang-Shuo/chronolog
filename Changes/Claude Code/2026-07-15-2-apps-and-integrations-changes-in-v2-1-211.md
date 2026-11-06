@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b3ed667459537eab6d5bdb88ad49a36750cc500b7cfd18bd1221c3535a6f3cca
+machine_hash: e4cd6c177b6c59c4ba8c486d8ccfae6617ae694a506cac9f8ca1025b2c7f8223
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Apps and Integrations changes in v2.1.211
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-enterprise-and-edu-users-can-find-skills-under-plugins-in-the-sidebar-on-the-ski|Skills
-  are now generally available]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-10-9-apps-and-integrations-changes-in-v1-0-70|9
+  Apps and Integrations changes in v1.0.70]]'
 - '[[Changes/Claude Code/2026-07-11-2-apps-and-integrations-changes-in-v2-1-207|2
   Apps and Integrations changes in v2.1.207]]'
 - '[[Changes/Claude Code/2026-07-14-3-apps-and-integrations-changes-in-v2-1-208|3
@@ -88,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.211
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-3-apps-and-integrations-changes-in-v2-1-208|3 Apps and Integrations changes in v2.1.208]]
-- Later: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-mcp-tool-calls-running-longer-than-2-minutes-now-move-to-the-background-automati|MCP tool calls running longer than 2 minutes now move to the background…]]
+- Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-16-apps-and-integrations-changes-in-v1-0-71|16 Apps and Integrations changes in v1.0.71]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

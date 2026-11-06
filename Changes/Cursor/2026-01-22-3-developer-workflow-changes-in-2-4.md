@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 91ccdebb4a47b670365b15d9d2161d9874b7001c42c32851231aacfc5ee899ea
+machine_hash: 8f79f05abe9fb271a84d85ba62672a12f343e34660c0ca753af3f12ff476a964
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Developer Workflow changes in 2.4
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-20-vscode-added-usage-command-to-display-current-plan-usage|VSCode
-  Added /usage command to display current plan usage]]'
-- '[[Changes/Claude Code/2026-01-21-added-deprecation-notification-for-npm-installations-run-claude-install-or-see-h|Added
-  deprecation notification for npm installations - run claude install or see…]]'
+- '[[Changes/Gemini CLI/2026-01-21-7-developer-workflow-changes-in-v0-25-0|7 Developer
+  Workflow changes in v0.25.0]]'
 - '[[Changes/Claude Code/2026-01-22-added-new-task-management-system-including-new-capabilities-like-dependency-trac|Added
   new task management system, including new capabilities like dependency tracking]]'
+- '[[Changes/Codex CLI/2026-01-22-4-developer-workflow-changes-in-rust-v0-89-0|4 Developer
+  Workflow changes in rust-v0.89.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -102,8 +102,8 @@ Source: https://cursor.com/changelog/2-4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-22 · Claude Code · [[Changes/Claude Code/2026-01-22-added-new-task-management-system-including-new-capabilities-like-dependency-trac|Added new task management system, including new capabilities like dependency tracking]]
-- Later: 2026-01-23 · Claude Code · [[Changes/Claude Code/2026-01-23-2-developer-workflow-changes-in-v2-1-19|2 Developer Workflow changes in v2.1.19]]
+- Earlier: 2026-01-22 · Codex CLI · [[Changes/Codex CLI/2026-01-22-4-developer-workflow-changes-in-rust-v0-89-0|4 Developer Workflow changes in rust-v0.89.0]]
+- Later: 2026-01-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-22-add-rename-command-as-alias-for-session-rename|Add /rename command as alias for /session rename]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

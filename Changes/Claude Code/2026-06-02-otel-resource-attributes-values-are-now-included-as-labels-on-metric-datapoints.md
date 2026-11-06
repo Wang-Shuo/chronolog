@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2262c987225211d498f59efa8b1fc6aee61b831603890b2320156bb206590d27
+machine_hash: b6ea42721a835833353cc46e127b6b8d11b6c961a873379b432841bcc24177fe
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: '`OTEL_RESOURCE_ATTRIBUTES` values are now included as labels on metric datapoints…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a-b1834a|Admins
-  can now create a team marketplace without connecting a repository first]]'
-- '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is
-  now available in Microsoft Teams]]'
+- '[[Changes/Windsurf/2026-05-16-restored-conversation-sharing|Restored conversation
+  sharing]]'
+- '[[Changes/Codex CLI/2026-05-18-3-collaboration-changes-in-rust-v0-131-0|3 Collaboration
+  changes in rust-v0.131.0]]'
 - '[[Changes/Cursor/2026-05-20-shared-canvases-a27a45|Shared canvases]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa|claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa]]'
 source_type: github_releases

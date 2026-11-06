@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 356ee2faa521558a03d7d862b320380a1794673b1e73fdf6c715d710b26d5ed3
+machine_hash: 76d12904d89a504993797e2e2bf9e02099c431ce8598af734446885d15acf819
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: Added support for custom session IDs when forking sessions with `--session-id`…
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-10-09-composer-history-lets-you-access-previous-composer-sessions-after-restart-you-ca|Composer
-  history lets you access previous composer sessions after restart]]'
-- '[[Changes/ChatGPT/2025-06-12-starting-a-new-project-directly-from-a-chat|Starting
-  a new project directly from a chat]]'
+- '[[Changes/Codex CLI/2025-08-20-2352-https-github-com-openai-codex-pull-2352-tui-skip-identical-consecutive-entr|♯2352((source
+  link) tui: skip identical consecutive…]]'
 - '[[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21|Branch
   conversations on web]]'
+- '[[Changes/GitHub Copilot CLI/2025-10-03-removed-the-on-exit-usage-stats-from-the-persisted-session-history|Removed
+  the on-exit usage stats from the persisted session history]]'
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9|claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9]]'
 source_type: github_releases
 theme: projects-workspaces
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2025-09-04 · ChatGPT · [[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21|Branch conversations on web]]
-- Later: 2026-01-30 · Claude Code · [[Changes/Claude Code/2026-01-30-added-from-pr-flag-to-resume-sessions-linked-to-a-specific-github-pr-number-or-u|Added --from-pr flag to resume sessions linked to a specific GitHub PR number or URL]]
+- Earlier: 2025-10-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-03-removed-the-on-exit-usage-stats-from-the-persisted-session-history|Removed the on-exit usage stats from the persisted session history]]
+- Later: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-docs-update-project-context-and-pr-creator-workflow-by-ntaylormullen-in-https-gi|docs: update project context and pr-creator workflow]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

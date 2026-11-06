@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3e421fcb0551800c0ef2215dc943fcc0791e22ab5645b37e98ce19fc14accabe
+machine_hash: ba13219d778a579e622ab680941ae2e4dcaffa4c345caeebc00c075aa9cfc82a
 product: cursor
 product_name: Cursor
 record:
@@ -43,11 +43,12 @@ record:
   title: View context usage in Chat
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-04-15-project-structure-in-context-beta|Project structure
-  in context (Beta)]]'
-- '[[Changes/Cursor/2025-05-15-include-your-entire-codebase-in-context|Include your
-  entire codebase in context]]'
-- '[[Changes/Cursor/2025-07-03-pr-indexing-search|PR indexing & search]]'
+- '[[Changes/Cline/2025-07-22-change-available-cerebras-models-modify-context-window-by-arafatkatze-in-https-g|Change
+  available Cerebras models + modify context window]]'
+- '[[Changes/Gemini CLI/2025-07-25-2-context-window-changes-in-v0-1-14|2 Context Window
+  changes in v0.1.14]]'
+- '[[Changes/Cline/2025-07-26-change-the-claude-code-max-output-tokens-by-barreirot-in-https-github-com-cline|Change
+  the CLAUDE_CODE_MAX_OUTPUT_TOKENS]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3]]'
 source_type: cursor_changelog
 theme: context-window
@@ -85,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-pr-indexing-search|PR indexing & search]]
-- Later: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-admin-api-for-blocklists-block-specific-files-or-directories-from-being-indexed|Admin API for blocklists]]
+- Earlier: 2025-07-26 · Cline · [[Changes/Cline/2025-07-26-change-the-claude-code-max-output-tokens-by-barreirot-in-https-github-com-cline|Change the CLAUDE_CODE_MAX_OUTPUT_TOKENS]]
+- Later: 2025-07-30 · Gemini CLI · [[Changes/Gemini CLI/2025-07-30-2-context-window-changes-in-v0-1-15|2 Context Window changes in v0.1.15]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

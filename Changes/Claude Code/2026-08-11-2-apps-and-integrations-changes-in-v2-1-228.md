@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a9e895be5d0666506b3501cb4b234f7e06db75b631bbc6a96bc9b6f876367c85
+machine_hash: b136634d136c12515aa51f4b1ca7a0550a927feb272586263fdd2c2dc38615b2
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: 2 Apps and Integrations changes in v2.1.228
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-04-2-apps-and-integrations-changes-in-v2-1-222|2
-  Apps and Integrations changes in v2.1.222]]'
-- '[[Changes/Claude Code/2026-08-07-3-apps-and-integrations-changes-in-v2-1-224|3
-  Apps and Integrations changes in v2.1.224]]'
 - '[[Changes/Claude Code/2026-08-08-3-apps-and-integrations-changes-in-v2-1-225|3
   Apps and Integrations changes in v2.1.225]]'
+- '[[Changes/Cline/2026-08-09-2-apps-and-integrations-changes-in-v4-1-7|2 Apps and
+  Integrations changes in v4.1.7]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-10-3-apps-and-integrations-changes-in-v1-0-79|3
+  Apps and Integrations changes in v1.0.79]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9|claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9]]'
 source_type: github_releases
 theme: apps-integrations
@@ -89,7 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.228
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-08 · Claude Code · [[Changes/Claude Code/2026-08-08-3-apps-and-integrations-changes-in-v2-1-225|3 Apps and Integrations changes in v2.1.225]]
+- Earlier: 2026-08-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-10-3-apps-and-integrations-changes-in-v1-0-79|3 Apps and Integrations changes in v1.0.79]]
 - Later: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-3-apps-and-integrations-changes-in-v2-1-229|3 Apps and Integrations changes in v2.1.229]]
 <!-- chronolog:end -->
 

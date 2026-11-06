@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: c3517d39900388e871c62c6f2573955660aa964d36d3c62cf1c477bb35620ea5
+machine_hash: b3ec8f6f620016935696673741ce7472bb9d6bfe641c84d150a2f2648677ca1c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -61,12 +61,12 @@ record:
   title: ChatGPT Work is an agent for longer, more involved tasks
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-06-3-agent-mode-changes-in-v2-1-202|3 Agent Mode
-  changes in v2.1.202]]'
-- '[[Changes/Claude Code/2026-07-07-2-agent-mode-changes-in-v2-1-203|2 Agent Mode
-  changes in v2.1.203]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-07-double-press-esc-now-interrupts-the-running-main-turn-flushing-queued-messages-o|Double-press
+  Esc now interrupts the running main turn (flushing queued messages)…]]'
 - '[[Changes/Claude Code/2026-07-08-3-agent-mode-changes-in-v2-1-205|3 Agent Mode
   changes in v2.1.205]]'
+- '[[Changes/Codex CLI/2026-07-08-10-agent-mode-changes-in-rust-v0-143-0|10 Agent
+  Mode changes in rust-v0.143.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272]]'
 source_type: chatgpt_changelog
 theme: agent-mode
@@ -97,8 +97,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-08 · Claude Code · [[Changes/Claude Code/2026-07-08-3-agent-mode-changes-in-v2-1-205|3 Agent Mode changes in v2.1.205]]
-- Later: 2026-07-10 · Claude Code · [[Changes/Claude Code/2026-07-10-2-agent-mode-changes-in-v2-1-206|2 Agent Mode changes in v2.1.206]]
+- Earlier: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-10-agent-mode-changes-in-rust-v0-143-0|10 Agent Mode changes in rust-v0.143.0]]
+- Later: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-4-agent-mode-changes-in-rust-v0-144-0|4 Agent Mode changes in rust-v0.144.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

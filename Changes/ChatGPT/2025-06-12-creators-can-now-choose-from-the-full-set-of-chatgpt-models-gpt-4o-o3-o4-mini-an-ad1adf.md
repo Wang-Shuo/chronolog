@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cf21abccd9d54985b10841d66dbc57371c39cb5ea46da8e84be5b5accf09b757
+machine_hash: bc69e61412472d7e9a7cca6e7ef493cf95c46e34cd0baf56589721a0b5d9c7e4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -66,10 +66,10 @@ record:
   title: Creators can now choose from the full set of ChatGPT models…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-04-max-mode-is-now-available-for-gemini-2-5-flash|Max
-  mode is now available for Gemini 2.5 Flash]]'
-- '[[Changes/ChatGPT/2025-06-10-like-o1-pro-o3-pro-is-a-version-of-our-most-intelligent-model-o3-designed-to-thi-32668a|ChatGPT
-  launches OpenAI o3-pro—available now for Pro users and in our API]]'
+- '[[Changes/Cline/2025-06-10-free-grok-model-available-access-grok-3-completely-free-through-the-cline-provid|Free
+  Grok Model Available! Access Grok 3 completely free through the Cline provider]]'
+- '[[Changes/OpenHands/2025-06-10-prevented-llm-settings-reset-when-page-loses-focus-during-initial-setup-by-llama|Prevented
+  LLM settings reset when page loses focus during initial setup]]'
 - '[[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload
   files and access model selector on mobile]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-12-expanded-model-support-for-custom-gpts-55f4555f|chatgpt-2025-06-12-expanded-model-support-for-custom-gpts-55f4555f]]'
@@ -105,7 +105,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload files and access model selector on mobile]]
-- Later: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-once-connected-try-it-in-any-channel-with-cursor-and-write-a-prompt-use-the-comm|Once connected, try it in any channel with @Cursor and write a prompt]]
+- Later: 2025-06-12 · Cline · [[Changes/Cline/2025-06-12-4-model-support-changes-in-v3-17-13|4 Model Support changes in v3.17.13]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

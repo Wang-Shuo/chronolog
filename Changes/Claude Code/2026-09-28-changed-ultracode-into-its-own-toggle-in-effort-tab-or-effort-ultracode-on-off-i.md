@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ed2364b77bce0d38fc5165e4fe32926d28aaf03a2234ecad861ad8f50fbcff88
+machine_hash: a966ce628788193ae69ca1b33418c6420fa689a31ab5807ce738e5fadc94c614
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     [on|off]`)
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-2-editor-experience-changes-in-v2-1-277|2 Editor
-  Experience changes in v2.1.277]]'
-- '[[Changes/Claude Code/2026-09-22-vscode-changed-open-in-new-tab-to-open-claude-beside-the-editor-group-you-are-wo|VSCode
-  Changed "Open in New Tab" to open Claude beside the editor group you…]]'
+- '[[Changes/Codex CLI/2026-09-22-6-editor-experience-changes-in-rust-v0-156-0|6 Editor
+  Experience changes in rust-v0.156.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-22-in-the-sessions-tab-rows-you-can-dismiss-now-take-x-then-x-again-to-confirm-a-lo|In
+  the Sessions tab, rows you can dismiss now take x then x again to confirm]]'
 - '[[Changes/ChatGPT/2026-09-28-you-can-now-select-a-chart-metric-or-record-in-the-health-tab-to-get-personalize|Explore
   your health data with personalized summaries]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-09-28 · ChatGPT · [[Changes/ChatGPT/2026-09-28-you-can-now-select-a-chart-metric-or-record-in-the-health-tab-to-get-personalize|Explore your health data with personalized summaries]]
-- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-turn-a-conversation-into-a-page-start-from-a-template-or-begin-writing-directly|Turn a conversation into a Page, start from a template, or begin writing directly in Space]]
+- Later: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-4-editor-experience-changes-in-rust-v0-158-0|4 Editor Experience changes in rust-v0.158.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f84bb63bb3701e67917399d267cf0733f3148d36692e338032970ae828a787ba
+machine_hash: 3a45bc6f128cce6d738b052c0d9d12056575142031089f45124ab8f6acf78ca6
 product: cursor
 product_name: Cursor
 record:
@@ -48,12 +48,12 @@ record:
   title: 4 Agent Mode changes in 3.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-2-agent-mode-changes-in-v2-1-84|2 Agent Mode changes
-  in v2.1.84]]'
-- '[[Changes/Claude Code/2026-03-27-auto-mode-now-shows-unavailable-for-your-plan-when-disabled-by-plan-restrictions|Auto
-  mode now shows "unavailable for your plan" when disabled by plan restrictions…]]'
 - '[[Changes/Claude Code/2026-04-01-3-agent-mode-changes-in-v2-1-89|3 Agent Mode changes
   in v2.1.89]]'
+- '[[Changes/Cline/2026-04-01-exclude-new-task-tool-from-system-prompt-in-yolo-headless-mode|Exclude
+  new_task tool from system prompt in yolo/headless mode]]'
+- '[[Changes/Gemini CLI/2026-04-01-10-agent-mode-changes-in-v0-36-0|10 Agent Mode
+  changes in v0.36.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -102,8 +102,8 @@ Source: https://cursor.com/changelog/3-0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-3-agent-mode-changes-in-v2-1-89|3 Agent Mode changes in v2.1.89]]
-- Later: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-2-agent-mode-changes-in-v2-1-97|2 Agent Mode changes in v2.1.97]]
+- Earlier: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-10-agent-mode-changes-in-v0-36-0|10 Agent Mode changes in v0.36.0]]
+- Later: 2026-04-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-03-built-in-skills-are-now-included-with-the-cli-starting-with-a-guide-for-customiz|Built-in skills are now included with the CLI, starting with a guide for customizing…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

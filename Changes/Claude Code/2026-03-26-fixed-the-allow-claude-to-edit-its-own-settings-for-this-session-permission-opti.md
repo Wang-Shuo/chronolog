@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 627dbbcea2733269c17602b60df076d8bd7f03253d9bbaf25ee3caf51b808e6c
+machine_hash: a8252e1f49554561f218042aed1570d61080c2f6f152522eed76e4db1a99bbc6
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
     option…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-18-fixed-custom-status-line-showing-nothing-when-workspace-trust-is-blocking-it|Fixed
-  custom status line showing nothing when workspace trust is blocking it]]'
 - '[[Changes/Claude Code/2026-03-20-2-safety-and-privacy-changes-in-v2-1-81|2 Safety
   and Privacy changes in v2.1.81]]'
+- '[[Changes/Gemini CLI/2026-03-24-5-safety-and-privacy-changes-in-v0-35-0|5 Safety
+  and Privacy changes in v0.35.0]]'
 - '[[Changes/Claude Code/2026-03-25-2-safety-and-privacy-changes-in-v2-1-83|2 Safety
   and Privacy changes in v2.1.83]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa|claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa]]'

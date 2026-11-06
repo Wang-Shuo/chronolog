@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: f189b262ce14a5b2bf7c8666b8d4c19802f61d10a78a0ca444785ab2117e6c32
+machine_hash: 5741ef0072c4f5eb5600f83834761dc4d0ad83aee31daf2c09e4980b20ab9092
 product: cursor
 product_name: Cursor
 record:
@@ -55,8 +55,8 @@ record:
   title: Multi-repo environment support
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-15-2-apps-and-integrations-changes-in-v2-1-211|2
-  Apps and Integrations changes in v2.1.211]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-16-16-apps-and-integrations-changes-in-v1-0-71|16
+  Apps and Integrations changes in v1.0.71]]'
 - '[[Changes/Claude Code/2026-07-17-mcp-tool-calls-running-longer-than-2-minutes-now-move-to-the-background-automati|MCP
   tool calls running longer than 2 minutes now move to the background…]]'
 - '[[Changes/Cursor/2026-07-17-cursor-in-slack-now-shares-a-plan-before-it-starts-runs-in-multi-repo-environmen|Cursor

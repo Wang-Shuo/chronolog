@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e0b26fd189cddae17c32bcf35dfad2beaa135c01a5b5fcd309990537c6edb987
+machine_hash: a6b361317a4a25fae413c8be5a1675e2feeed8c0dd278a1201157f70a18ea21f
 product: cursor
 product_name: Cursor
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Pricing Model changes in Cursor Router
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-renamed-extra-usage-to-usage-credits-across-cli-copy-extra-usage-is-now-usage-cr|Renamed
-  "extra usage" to "usage credits" across CLI copy]]'
-- '[[Changes/Claude Code/2026-06-04-the-subscription-switch-suggestion-now-shows-in-the-startup-announcement-slot-in|The
-  subscription-switch suggestion now shows in the startup announcement slot…]]'
+- '[[Changes/Codex CLI/2026-07-09-usage-limit-reset-credits-now-show-their-type-and-expiration-and-let-you-choose|Usage-limit
+  reset credits now show their type and expiration, and let you choose…]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-16-3-pricing-model-changes-in-v1-0-71|3 Pricing
+  Model changes in v1.0.71]]'
 - '[[Changes/Claude Code/2026-07-22-changed-server-managed-settings-so-benign-feature-and-cost-toggles-no-longer-tri|Changed
   server-managed settings so benign feature and cost toggles no longer trigger…]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4|cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4]]'

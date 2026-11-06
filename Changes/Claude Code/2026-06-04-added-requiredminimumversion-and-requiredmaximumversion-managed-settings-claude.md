@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 460410babb8434d675048bdab492e6cd79c1b4c786e52dc476307ffe1cbfce5f
+machine_hash: b2f356ad132e3d0a71a2cfb1685676b4ad0a3f38c56f47c9a60a61103dba9915
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-06-04 · ChatGPT · [[Changes/ChatGPT/2026-06-04-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-the-uk-plus-pr|Rolling out ads in the UK]]
-- Later: 2026-06-08 · ChatGPT · [[Changes/ChatGPT/2026-06-08-send-an-email-directly-from-within-a-chat-if-you-ve-connected-gmail-or-outlook-y|Send an email directly from within a chat]]
+- Later: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-2-enterprise-and-administration-changes-in-rust-v0-137-0|2 Enterprise and Administration changes in rust-v0.137.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

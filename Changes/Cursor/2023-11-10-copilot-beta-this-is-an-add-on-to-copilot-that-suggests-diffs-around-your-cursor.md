@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c88d17ec203e684fc0f5aae6783795e405afff47bfe3261bd70ef8080caf30bd
+machine_hash: bc950b58601eed6e5232b2c486e52ea958e64e347159ad0f146cfc02b9aaf911
 product: cursor
 product_name: Cursor
 record:
@@ -56,11 +56,11 @@ record:
   title: 'Copilot++ (beta): this is an "add-on" to Copilot that suggests diffs around…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-30-for-with-codebase-chats-you-can-now-see-the-codebase-context-that-cursor-shows-g|For
-  "with codebase" chats, you can now see the codebase context that Cursor shows GPT-4]]'
 - '[[Changes/Cursor/2023-09-08-long-files-in-chat|Long files in chat]]'
 - '[[Changes/Cursor/2023-09-10-ask-a-question-about-an-edit-that-the-model-with-option-enter-or-bring-in-contex|Quick
   question and @chat in cmd+k]]'
+- '[[Changes/Aider/2023-11-07-2-context-window-changes-in-v0-17-0|2 Context Window
+  changes in v0.17.0]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-10-0-15-0-0-15-1-https-cursor-com-changelog-0-15-0-0-15-1-9dc9cadb|cursor-2023-11-10-0-15-0-0-15-1-https-cursor-com-changelog-0-15-0-0-15-1-9dc9cadb]]'
 source_type: cursor_changelog
 theme: context-window
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2023-09-10 · Cursor · [[Changes/Cursor/2023-09-10-ask-a-question-about-an-edit-that-the-model-with-option-enter-or-bring-in-contex|Quick question and @chat in cmd+k]]
+- Earlier: 2023-11-07 · Aider · [[Changes/Aider/2023-11-07-2-context-window-changes-in-v0-17-0|2 Context Window changes in v0.17.0]]
 - Later: 2023-11-21 · Cursor · [[Changes/Cursor/2023-11-21-integrates-gpt-v-into-chat-for-the-editor-this-means-you-can-take-screenshots-im|GPT-V Support]]
 <!-- chronolog:end -->
 

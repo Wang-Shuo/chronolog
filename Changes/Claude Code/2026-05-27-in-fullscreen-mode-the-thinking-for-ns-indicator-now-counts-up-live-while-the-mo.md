@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 44931701b7919e861759a570945d59f1f66074c5253e82dba12f23f28bb83a2c
+machine_hash: d06c468c7b02ee59b3ff3a1c316f11a79f225bfe23c24974ce8bb49af89f3de4
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,12 +56,12 @@ record:
   title: In fullscreen mode, the "Thinking for Ns" indicator now counts up live…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-model-now-changes-the-model-for-the-current-session-only-press-d-in-the-model-pi|/model
-  now changes the model for the current session only]]'
-- '[[Changes/Claude Code/2026-05-21-prompt-history-no-longer-records-consecutive-duplicate-entries-recalling-a-promp|Prompt
-  history no longer records consecutive duplicate entries]]'
-- '[[Changes/Claude Code/2026-05-22-markdown-output-now-renders-gfm-task-list-checkboxes-todo-x-done-instead-of-plai|Markdown
-  output now renders GFM task list checkboxes (-   todo / - x done)…]]'
+- '[[Changes/Gemini CLI/2026-05-22-2-interface-experience-changes-in-v0-43-0|2 Interface
+  Experience changes in v0.43.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-23-6-interface-experience-changes-in-v1-0-52|6
+  Interface Experience changes in v1.0.52]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-24-2-interface-experience-changes-in-v1-0-53|2
+  Interface Experience changes in v1.0.53]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850|claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850]]'
 source_type: github_releases
 theme: interface-experience
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-22 · Claude Code · [[Changes/Claude Code/2026-05-22-markdown-output-now-renders-gfm-task-list-checkboxes-todo-x-done-instead-of-plai|Markdown output now renders GFM task list checkboxes (-   todo / - x done)…]]
+- Earlier: 2026-05-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-24-2-interface-experience-changes-in-v1-0-53|2 Interface Experience changes in v1.0.53]]
 - Later: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-vscode-auto-mode-no-longer-requires-the-bypass-permissions-setting-to-appear-in|VSCode Auto mode no longer requires the bypass-permissions setting to appear…]]
 <!-- chronolog:end -->
 

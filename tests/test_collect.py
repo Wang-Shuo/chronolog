@@ -17,6 +17,7 @@ from _scripts.collect import (
     load_sources,
     parse_chatgpt_changelog,
     parse_cursor_changelog_page,
+    parse_windsurf_changelog,
     positive_int,
 )
 
@@ -27,11 +28,19 @@ def test_load_sources_returns_enabled_products():
         "chatgpt",
         "claude-code",
         "cursor",
+        "codex-cli",
+        "gemini-cli",
+        "github-copilot-cli",
+        "windsurf",
+        "cline",
+        "aider",
+        "openhands",
     }
     assert {product["feed_type"] for product in products} == {
         "chatgpt_changelog",
         "github_releases",
         "cursor_changelog",
+        "windsurf_changelog",
     }
 
 

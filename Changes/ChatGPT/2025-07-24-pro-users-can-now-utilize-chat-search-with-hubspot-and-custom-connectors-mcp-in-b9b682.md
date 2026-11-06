@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f72894bc9b7266a0e954d715da9013830199013c78bad3bf9d515e8bcf247308
+machine_hash: 4f045007b0dfa22f7e11e4ad36712b0cc31884da3d75a57b662cebe5e43dfbc0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,12 +58,12 @@ record:
   title: Chat search for HubSpot and custom connectors (MCP) (Pro)
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-12-agents-understand-context-6b73fc|Agents understand
-  context]]'
-- '[[Changes/ChatGPT/2025-06-24-pro-users-are-now-able-to-use-chat-search-connectors-in-addition-to-deep-researc-9d5a85|Chat
-  search connectors (Pro)]]'
-- '[[Changes/Cursor/2025-07-03-2-apps-and-integrations-changes-in-1-2|2 Apps and Integrations
-  changes in 1.2]]'
+- '[[Changes/Codex CLI/2025-07-19-https-github-com-openai-codex-pull-1571-fixes-a-longstanding-issue-where-we-fail|(source
+  link) fixes a longstanding issue where we failed…]]'
+- '[[Changes/Gemini CLI/2025-07-19-12-apps-and-integrations-changes-in-v0-1-13|12
+  Apps and Integrations changes in v0.1.13]]'
+- '[[Changes/Codex CLI/2025-07-23-numerous-fixes-to-codex-mcp|Numerous fixes to codex
+  mcp]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-24-chat-search-for-hubspot-and-custom-connectors-mcp-pro-f49427a3|chatgpt-2025-07-24-chat-search-for-hubspot-and-custom-connectors-mcp-pro-f49427a3]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-2-apps-and-integrations-changes-in-1-2|2 Apps and Integrations changes in 1.2]]
-- Later: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-extension-marketplace-supports-custom-urls|Extension marketplace supports custom URLs]]
+- Earlier: 2025-07-23 · Codex CLI · [[Changes/Codex CLI/2025-07-23-numerous-fixes-to-codex-mcp|Numerous fixes to codex mcp]]
+- Later: 2025-07-24 · OpenHands · [[Changes/OpenHands/2025-07-24-2-apps-and-integrations-changes-in-0-50-0|2 Apps and Integrations changes in 0.50.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 61cd90cff3962b1631682873962f2b06884f0a30b3d3946cebb52f2846ed3081
+machine_hash: cc6bc8330088a1a57c71d7537b8566c5f03c54d3ef73930480b5ea430dd8777a
 product: cursor
 product_name: Cursor
 record:
@@ -43,11 +43,10 @@ record:
   title: 2 Interface Experience changes in 0.46.x
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-11-22-the-new-chat-button-has-been-moved-to-the-left-of-the-model-picker-to-be-easier|The
-  new chat button has been moved to the left of the Model Picker to be easier to access]]'
-- '[[Changes/ChatGPT/2024-11-22-sidebar-redesign-e6413a|Sidebar redesign]]'
-- '[[Changes/Cursor/2024-11-24-composer-ui-in-the-sidebar-with-inline-diffs|Composer
-  UI in the sidebar with inline diffs]]'
+- '[[Changes/Aider/2025-01-31-https-aider-chat-history-html|(source link)]]'
+- '[[Changes/Aider/2025-02-06-https-aider-chat-history-html|(source link)]]'
+- '[[Changes/Cline/2025-02-09-adds-keyboard-shortcut-cmd-shift-a-to-easily-switch-between-plan-act-mode|Adds
+  keyboard shortcut (CMD + Shift + A) to easily switch between Plan/Act mode]]'
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -90,8 +89,8 @@ Source: https://cursor.com/changelog/0-46-x
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-11-24 · Cursor · [[Changes/Cursor/2024-11-24-composer-ui-in-the-sidebar-with-inline-diffs|Composer UI in the sidebar with inline diffs]]
-- Later: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-keyboard-shortcuts-all-keyboard-shortcuts-are-now-available-in-the-keyboard-shor|Keyboard Shortcuts: All keyboard shortcuts are now available in the Keyboard…]]
+- Earlier: 2025-02-09 · Cline · [[Changes/Cline/2025-02-09-adds-keyboard-shortcut-cmd-shift-a-to-easily-switch-between-plan-act-mode|Adds keyboard shortcut (CMD + Shift + A) to easily switch between Plan/Act mode]]
+- Later: 2025-02-19 · OpenHands · [[Changes/OpenHands/2025-02-19-2-interface-experience-changes-in-0-25-0|2 Interface Experience changes in 0.25.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7c950d08fd5cdbf1a316c427424fde99e8aa83a56c160a8f8cd03ed9026046bd
+machine_hash: e3c97ed31a77b4b885c56793d5a2145215b9789af108f8ecbf7a37ea01e51f51
 product: cursor
 product_name: Cursor
 record:
@@ -42,9 +42,10 @@ record:
   title: 'Default: Bugbot continues to use the same effort level as it does today'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-07-pin-skills-as-quick-actions|Pin skills as quick actions]]'
-- '[[Changes/Cursor/2026-05-07-build-in-parallel-from-plans|Build in parallel from
-  plans]]'
+- '[[Changes/Codex CLI/2026-05-08-added-a-faster-cargo-profiling-build-profile-and-disabled-empty-doctest-targets|Added
+  a faster Cargo profiling build profile and disabled empty doctest targets…]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-08-faster-user-list-and-user-switch-for-multi-account-users|Faster
+  /user list and /user switch for multi-account users]]'
 - '[[Changes/Claude Code/2026-05-11-added-scroll-speed-command-to-tune-mouse-wheel-scroll-speed-with-a-live-preview|Added
   /scroll-speed command to tune mouse wheel scroll speed with a live preview]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617|cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617]]'
@@ -80,7 +81,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-added-scroll-speed-command-to-tune-mouse-wheel-scroll-speed-with-a-live-preview|Added /scroll-speed command to tune mouse wheel scroll speed with a live preview]]
-- Later: 2026-05-21 · Claude Code · [[Changes/Claude Code/2026-05-21-2-reliability-and-performance-changes-in-v2-1-146|2 Reliability and Performance changes in v2.1.146]]
+- Later: 2026-05-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-11-cli-starts-faster-on-terminals-with-limited-osc-color-query-support-shaving-up-t|CLI starts faster on terminals with limited OSC color query support, shaving up…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

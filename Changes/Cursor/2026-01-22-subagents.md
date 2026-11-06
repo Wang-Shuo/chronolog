@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 9753ae40012931ce2b829091ff53c895ccdc02f7bd19eae645cc3499a6496157
+machine_hash: b1a19c9e711781e4a9149f4ed0cafe1a6e91a67519b1628b44c9dd42b3d8228a
 product: cursor
 product_name: Cursor
 record:
@@ -113,8 +113,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-added-hooks-for-session-start-end-prompt-and-stop-for-customizing-agent-lifecycl|Added hooks for session start/end, prompt, and stop for customizing agent lifecycle events]]
-- Later: 2026-01-23 · Claude Code · [[Changes/Claude Code/2026-01-23-added-env-var-claude-code-enable-tasks-set-to-false-to-keep-the-old-system-tempo|Added env var CLAUDE_CODE_ENABLE_TASKS, set to false to keep the old system…]]
+- Earlier: 2026-01-22 · Codex CLI · [[Changes/Codex CLI/2026-01-22-9650-chore-tweak-agents-md-dylan-hurd-oai|♯9650 chore: tweak AGENTS.md @dylan-hurd-oai]]
+- Later: 2026-01-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-22-2-agent-mode-changes-in-v0-0-389|2 Agent Mode changes in v0.0.389]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

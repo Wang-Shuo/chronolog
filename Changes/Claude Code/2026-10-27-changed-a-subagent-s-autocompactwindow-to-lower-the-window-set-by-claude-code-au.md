@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e57df6656d3486ba77a286c5bebe807d37958eba9d56bd68c232b2e065c69790
+machine_hash: 1a2ff98d252d8d78ccdc5e0c8f6335fd3d3ef7c33a1ea8e7abf68f18833b7895
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Changed a subagent's `autoCompactWindow` to lower the window set…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-19-3-context-window-changes-in-v2-1-304|3 Context
-  Window changes in v2.1.304]]'
-- '[[Changes/Claude Code/2026-10-22-updated-the-claude-api-skill-service-account-keys-and-workload-identity-federati|Updated
-  the /claude-api skill]]'
+- '[[Changes/Codex CLI/2026-10-23-18-context-window-changes-in-rust-v0-164-0|18 Context
+  Window changes in rust-v0.164.0]]'
 - '[[Changes/Claude Code/2026-10-26-2-context-window-changes-in-v2-1-311|2 Context
   Window changes in v2.1.311]]'
+- '[[Changes/Cline/2026-10-26-auto-compaction-no-longer-runs-for-models-with-an-unknown-context-limit-and-it-n|Auto-compaction
+  no longer runs for models with an unknown context limit, and it no…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-27-v2-1-312-github-425846009-439d063a|claude-code-2026-10-27-v2-1-312-github-425846009-439d063a]]'
 source_type: github_releases
 theme: context-window
@@ -85,7 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-2-context-window-changes-in-v2-1-311|2 Context Window changes in v2.1.311]]
+- Earlier: 2026-10-26 · Cline · [[Changes/Cline/2026-10-26-auto-compaction-no-longer-runs-for-models-with-an-unknown-context-limit-and-it-n|Auto-compaction no longer runs for models with an unknown context limit, and it no…]]
+- Later: 2026-10-27 · Codex CLI · [[Changes/Codex CLI/2026-10-27-2-context-window-changes-in-rust-v0-165-0|2 Context Window changes in rust-v0.165.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

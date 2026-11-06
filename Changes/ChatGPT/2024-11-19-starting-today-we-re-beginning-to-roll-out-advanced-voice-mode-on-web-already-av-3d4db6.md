@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: be89cbe1758b4929f78246ba2acc55628849a9ac9174fae1adf6c73ec530c728
+machine_hash: eef4a25c8571b94fcae5940db413dca784631432d1692664ff7439a82635780b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -61,12 +61,12 @@ record:
   title: Advanced Voice for ChatGPT Web
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-05-24-you-can-now-disable-your-chat-history-on-ios-conversations-started-on-your-devic|Disable
-  chat history on iOS]]'
-- '[[Changes/ChatGPT/2023-06-22-we-ve-made-two-updates-to-the-mobile-chatgpt-app|ChatGPT
-  makes two updates to the mobile ChatGPT app]]'
-- '[[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|Introducing
-  the ChatGPT app for Android]]'
+- '[[Changes/Aider/2024-07-18-aider-is-better-at-offering-to-add-files-to-the-chat-on-windows|Aider
+  is better at offering to add files to the chat on Windows]]'
+- '[[Changes/Aider/2024-09-04-only-print-the-pip-command-when-self-updating-on-windows-without-running-it|Only
+  print the pip command when self updating on Windows, without running it]]'
+- '[[Changes/Aider/2024-09-21-on-windows-run-correctly-uses-powershell-or-cmd-exe|On
+  Windows, /run correctly uses PowerShell or cmd.exe]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-11-19-advanced-voice-for-chatgpt-web-e7868264|chatgpt-2024-11-19-advanced-voice-for-chatgpt-web-e7868264]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2023-07-25 · ChatGPT · [[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|Introducing the ChatGPT app for Android]]
+- Earlier: 2024-09-21 · Aider · [[Changes/Aider/2024-09-21-on-windows-run-correctly-uses-powershell-or-cmd-exe|On Windows, /run correctly uses PowerShell or cmd.exe]]
 - Later: 2024-11-22 · ChatGPT · [[Changes/ChatGPT/2024-11-22-improved-mobile-web-experience|Improved Mobile Web Experience]]
 <!-- chronolog:end -->
 

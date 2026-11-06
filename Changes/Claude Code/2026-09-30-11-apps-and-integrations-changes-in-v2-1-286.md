@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c8e963cc2ba6405fbab4e694ace3506d33a1a4a26c35f1ebac2a2dccf49105f5
+machine_hash: 7292485098fbfbd93163f63e98a22c162e7e7498f6c50883ab0253dd000e4a28
 product: claude-code
 product_name: Claude Code
 record:
@@ -77,12 +77,12 @@ record:
   title: 11 Apps and Integrations changes in v2.1.286
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-we-re-making-it-easier-to-bring-meeting-context-into-chatgpt-so-you-can-act-on-n|We’re
-  making it easier to bring meeting context into ChatGPT so you can act on next…]]'
-- '[[Changes/ChatGPT/2026-09-29-supported-plugins-can-use-mcp-events-to-start-an-automation-when-something-chang-d9add6|Start
-  automations from connected-app events]]'
 - '[[Changes/Claude Code/2026-09-29-14-apps-and-integrations-changes-in-v2-1-285|14
   Apps and Integrations changes in v2.1.285]]'
+- '[[Changes/Codex CLI/2026-09-29-8-apps-and-integrations-changes-in-rust-v0-159-0|8
+  Apps and Integrations changes in rust-v0.159.0]]'
+- '[[Changes/Gemini CLI/2026-09-29-2-apps-and-integrations-changes-in-v0-62-0|2 Apps
+  and Integrations changes in v0.62.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7|claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7]]'
 source_type: github_releases
 theme: apps-integrations
@@ -140,8 +140,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.286
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-14-apps-and-integrations-changes-in-v2-1-285|14 Apps and Integrations changes in v2.1.285]]
-- Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-11-apps-and-integrations-changes-in-v2-1-287|11 Apps and Integrations changes in v2.1.287]]
+- Earlier: 2026-09-29 · Gemini CLI · [[Changes/Gemini CLI/2026-09-29-2-apps-and-integrations-changes-in-v0-62-0|2 Apps and Integrations changes in v0.62.0]]
+- Later: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-3-apps-and-integrations-changes-in-v1-0-90|3 Apps and Integrations changes in v1.0.90]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

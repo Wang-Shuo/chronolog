@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: bcc915810155b7bc34e21671b54c521f8f358f00d2cbe0254a16265fe31e3bfa
+machine_hash: 57fcef9b0194736013c9244e217463374e02f545acd832b4d5db09fbce182f75
 product: cursor
 product_name: Cursor
 record:
@@ -55,12 +55,12 @@ record:
     PR-heavy tasks
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-19-we-improved-code-blocks-in-chatgpt-to-make-them-more-interactive-you-can-write-e-6b2623|We
-  improved Code Blocks in ChatGPT to make them more interactive]]'
-- '[[Changes/Claude Code/2026-02-19-simple-mode-claude-code-simple-now-includes-the-file-edit-tool-in-addition-to-th|Simple
-  mode (CLAUDE_CODE_SIMPLE) now includes the file edit tool in addition…]]'
-- '[[Changes/ChatGPT/2026-02-27-edit-messages-with-images-you-can-now-edit-messages-that-include-image-attachmen|Edit
-  messages with images]]'
+- '[[Changes/Gemini CLI/2026-02-27-feat-cli-include-dir-add-directories-in-autocomplete-suggestions-by-jasmeetsb-in|feat(cli):
+  include /dir add directories in @ autocomplete suggestions]]'
+- '[[Changes/Codex CLI/2026-03-02-3-editor-experience-changes-in-rust-v0-107-0|3 Editor
+  Experience changes in rust-v0.107.0]]'
+- '[[Changes/Cline/2026-03-03-prevent-chinese-filename-escaping-in-diff-view|Prevent
+  Chinese filename escaping in diff view]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -101,8 +101,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-02-27 · ChatGPT · [[Changes/ChatGPT/2026-02-27-edit-messages-with-images-you-can-now-edit-messages-that-include-image-attachmen|Edit messages with images]]
-- Later: 2026-03-04 · Cursor · [[Changes/Cursor/2026-03-04-install-the-cursor-acp-directly-in-your-jetbrains-ide-from-the-acp-registry-and|Install the Cursor ACP directly in your JetBrains IDE from the ACP Registry…]]
+- Earlier: 2026-03-03 · Cline · [[Changes/Cline/2026-03-03-prevent-chinese-filename-escaping-in-diff-view|Prevent Chinese filename escaping in diff view]]
+- Later: 2026-03-03 · Gemini CLI · [[Changes/Gemini CLI/2026-03-03-feat-plan-support-opening-and-modifying-plan-in-external-editor-by-adib234-in-ht|feat(plan): support opening and modifying plan in external editor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

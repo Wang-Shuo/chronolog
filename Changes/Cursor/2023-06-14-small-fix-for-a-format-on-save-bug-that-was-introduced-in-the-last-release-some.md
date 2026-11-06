@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5947ca9bd7e0794ca806d46dba75f2246af57a265eaa20389b50ac748db26d16
+machine_hash: 26d0310db1e3a3ec5d115ebbcfaf7ef6ec4f02cf963349edcdefb5aee053696a
 product: cursor
 product_name: Cursor
 record:
@@ -42,11 +42,11 @@ record:
   title: Small improvements
   type: change
 related_changes:
-- "[[Changes/Cursor/2023-04-29-working-remote-ssh-support-through-the-openremote-ssh-extension|\U0001F310
-  Working remote ssh support through the \"OpenRemote - SSH\" extension]]"
 - '[[Changes/Cursor/2023-05-17-remote-ssh-is-easier-to-use|Remote SSH is easier to
   use!]]'
 - '[[Changes/Cursor/2023-05-17-in-terminal-debugging-f140b2|In-terminal Debugging]]'
+- '[[Changes/Aider/2023-06-07-added-in-chat-command-clear-to-clear-the-conversation-history|Added
+  in-chat command /clear to clear the conversation history]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-14-0-2-32-https-cursor-com-changelog-0-2-32-fcd78291|cursor-2023-06-14-0-2-32-https-cursor-com-changelog-0-2-32-fcd78291]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -73,7 +73,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-05-17 · Cursor · [[Changes/Cursor/2023-05-17-in-terminal-debugging-f140b2|In-terminal Debugging]]
+- Earlier: 2023-06-07 · Aider · [[Changes/Aider/2023-06-07-added-in-chat-command-clear-to-clear-the-conversation-history|Added in-chat command /clear to clear the conversation history]]
 - Later: 2023-06-17 · Cursor · [[Changes/Cursor/2023-06-17-the-ai-linter-now-shows-diffs|Diffs in AI linter feedback]]
 <!-- chronolog:end -->
 

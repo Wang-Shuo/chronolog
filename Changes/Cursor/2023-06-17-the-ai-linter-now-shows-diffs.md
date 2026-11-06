@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7c30fbd438837e9ae559af0fcb288041ca8ebc8d5606e530144bf0a84b681097
+machine_hash: 143ccbf2b9f46838289c113156e2e00eab59c29c943830e02d9921665215f4d4
 product: cursor
 product_name: Cursor
 record:
@@ -38,9 +38,9 @@ record:
   title: Diffs in AI linter feedback
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-17-remote-ssh-is-easier-to-use|Remote SSH is easier to
-  use!]]'
 - '[[Changes/Cursor/2023-05-17-in-terminal-debugging-f140b2|In-terminal Debugging]]'
+- '[[Changes/Aider/2023-06-07-added-in-chat-command-clear-to-clear-the-conversation-history|Added
+  in-chat command /clear to clear the conversation history]]'
 - '[[Changes/Cursor/2023-06-14-small-fix-for-a-format-on-save-bug-that-was-introduced-in-the-last-release-some|Small
   improvements]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-17-0-2-34-nightly-https-cursor-com-changelog-0-2-34-nightly-12d24396|cursor-2023-06-17-0-2-34-nightly-https-cursor-com-changelog-0-2-34-nightly-12d24396]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f00be54ebba0ac687affc362abec29f9b4a5779d1a2534e2e94323d444d1b098
+machine_hash: 075645383529c4bc4ca16c0216be6d563af4b2b39ddc24ea33281e2d226cbbe2
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,12 @@ record:
   title: 'UPDATE (0.45.12-13): Update infrastructure improvements'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-10-09-we-have-made-slight-improvements-to-debug-with-ai-and-added-back-lint-errors-in|We
-  have made slight improvements to Debug with AI and added back @Lint Errors in Chat]]'
-- '[[Changes/Cursor/2024-10-09-using-cursor-with-wsl-should-now-be-more-stable|Using
-  cursor . with WSL should now be more stable]]'
-- '[[Changes/Cursor/2024-12-17-agent-sees-terminal-exit-codes-can-run-commands-in-the-background-and-commands-a-4f6044|Agent
-  sees terminal exit codes, can run commands in the background, and commands…]]'
+- '[[Changes/Cline/2025-01-06-under-the-hood-the-extension-uses-git-to-efficiently-track-changes-which-uses-ad|Under
+  the hood, the extension uses git to efficiently track changes, which uses…]]'
+- '[[Changes/Aider/2025-01-10-5-developer-workflow-changes-in-v0-71-0|5 Developer
+  Workflow changes in v0.71.0]]'
+- '[[Changes/OpenHands/2025-01-13-2-developer-workflow-changes-in-0-20-0|2 Developer
+  Workflow changes in 0.20.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228|cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-12-17 · Cursor · [[Changes/Cursor/2024-12-17-agent-sees-terminal-exit-codes-can-run-commands-in-the-background-and-commands-a-4f6044|Agent sees terminal exit codes, can run commands in the background, and commands…]]
-- Later: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-improved-agent-terminal-control|Improved agent terminal control]]
+- Earlier: 2025-01-13 · OpenHands · [[Changes/OpenHands/2025-01-13-2-developer-workflow-changes-in-0-20-0|2 Developer Workflow changes in 0.20.0]]
+- Later: 2025-02-13 · OpenHands · [[Changes/OpenHands/2025-02-13-limit-resource-usage-of-command-to-avoid-oom-runtime-kill-by-xingyaoww-in-https|Limit resource usage of command to avoid OOM Runtime Kill]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

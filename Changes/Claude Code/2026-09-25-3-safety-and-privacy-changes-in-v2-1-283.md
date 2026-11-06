@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b2bbf1211bfe6fba15997012b4691ae24ad38927c816ff7e182d32c983c46abe
+machine_hash: 4c60e4d1da5dc7d5e6d202255fd7cad7e330fb17db72d3121733d43313111162
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,9 +50,10 @@ record:
   title: 3 Safety and Privacy changes in v2.1.283
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-findings|Findings]]'
 - '[[Changes/Claude Code/2026-09-24-4-safety-and-privacy-changes-in-v2-1-282|4 Safety
   and Privacy changes in v2.1.282]]'
+- '[[Changes/Cline/2026-09-24-raised-the-minimum-js-yaml-version-to-4-3-2-to-pick-up-a-security-fix-in-the-par|Raised
+  the minimum js-yaml version to 4.3.2 to pick up a security fix in the parser…]]'
 - '[[Changes/ChatGPT/2026-09-25-we-re-introducing-security-history-a-new-way-to-review-recent-security-activity-6f32cc|Security
   history in ChatGPT]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8|claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8]]'
@@ -100,7 +101,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.283
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-25 · ChatGPT · [[Changes/ChatGPT/2026-09-25-we-re-introducing-security-history-a-new-way-to-review-recent-security-activity-6f32cc|Security history in ChatGPT]]
-- Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-4-safety-and-privacy-changes-in-v2-1-284|4 Safety and Privacy changes in v2.1.284]]
+- Later: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-2-safety-and-privacy-changes-in-rust-v0-157-0|2 Safety and Privacy changes in rust-v0.157.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: bb550c6c401195506e8d97dbb1f71b9b2964acd03d14cea58c4c8896651c441f
+machine_hash: 1e1fe556706719b9cd2887ca93db04d1f349190f4556c17f611936dd9e284a47
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,11 +63,12 @@ record:
   title: ChatGPT Images 2.0 in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-30-more-messages-larger-file-uploads-and-expanded-image-generation|More
-  messages, larger file uploads, and expanded image generation]]'
-- '[[Changes/ChatGPT/2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c|ChatGPT
-  Images on Web and Mobile (iOS & Android)]]'
-- '[[Changes/Cursor/2026-01-22-image-generation|Image generation]]'
+- '[[Changes/Codex CLI/2026-03-26-2-image-generation-changes-in-rust-v0-117-0|2 Image
+  Generation changes in rust-v0.117.0]]'
+- '[[Changes/Codex CLI/2026-04-20-tool-discovery-and-image-generation-are-now-enabled-by-default-with-higher-detai|Tool
+  discovery and image generation are now enabled by default, with higher-detail…]]'
+- '[[Changes/Codex CLI/2026-04-20-17153-launch-image-generation-by-default-won-openai|♯17153
+  Launch image generation by default @won-openai]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-21-chatgpt-images-2-0-in-chatgpt-7e4d6415|chatgpt-2026-04-21-chatgpt-images-2-0-in-chatgpt-7e4d6415]]'
 source_type: chatgpt_changelog
 theme: image-generation
@@ -94,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-image-generation|Image generation]]
-- Later: 2026-07-31 · ChatGPT · [[Changes/ChatGPT/2026-07-31-on-august-30-2026-we-re-retiring-the-official-dall-e-gpt-in-chatgpt-we-encourage|Retiring the DALL·E GPT]]
+- Earlier: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-17153-launch-image-generation-by-default-won-openai|♯17153 Launch image generation by default @won-openai]]
+- Later: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-19443-add-gpt-image-2-to-bundled-openai-docs-skill-kkahadze-oai|♯19443 Add gpt-image-2 to bundled OpenAI Docs skill @kkahadze-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 51a717189bf18640c055aecae8c4558f0a0dda97749540c8e6e9efed0466ad7e
+machine_hash: a243f8b2b0411fde9fe6d54e21891451619696395610f99f7c283430bc754920
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,11 +51,12 @@ record:
   title: Send an email directly from within a chat
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|Organizations]]'
 - '[[Changes/ChatGPT/2026-06-04-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-the-uk-plus-pr|Rolling
   out ads in the UK]]'
 - '[[Changes/Claude Code/2026-06-04-added-requiredminimumversion-and-requiredmaximumversion-managed-settings-claude|Added
   requiredMinimumVersion and requiredMaximumVersion managed settings]]'
+- '[[Changes/Codex CLI/2026-06-04-2-enterprise-and-administration-changes-in-rust-v0-137-0|2
+  Enterprise and Administration changes in rust-v0.137.0]]'
 scope: Web
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
@@ -93,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-added-requiredminimumversion-and-requiredmaximumversion-managed-settings-claude|Added requiredMinimumVersion and requiredMaximumVersion managed settings]]
-- Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-business-and-enterprise-customers-already-have-access-to-sites-starting-today-th|Business and Enterprise customers already have access to Sites]]
+- Earlier: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-2-enterprise-and-administration-changes-in-rust-v0-137-0|2 Enterprise and Administration changes in rust-v0.137.0]]
+- Later: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-tls-connections-now-support-p-521-certificate-signatures-commonly-used-by-enterp|TLS connections now support P-521 certificate signatures commonly used by enterprise…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

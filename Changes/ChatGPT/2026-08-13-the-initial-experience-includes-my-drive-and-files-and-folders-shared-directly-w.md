@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0be887dfe51da12b08d9942dac8ea536cf1c17243541c6823a93ba18566dec95
+machine_hash: 566a33ca36cddb9a001de3fa1639d23e12c75752aa19c44d38bd629e9b5141f7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,12 +45,12 @@ record:
     with you
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w|Existing
-  group chats will remain available and can continue to be used for now]]'
-- '[[Changes/Cursor/2026-07-22-admin-controls-per-team-and-per-group-enablement-mode-restrictions-default-mode|Admin
-  controls: per-team and per-group enablement, mode restrictions, default mode…]]'
 - '[[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch
   between teams that you belong to directly in the app]]'
+- '[[Changes/Cline/2026-08-02-stop-the-two-bundles-of-the-combined-rollout-package-from-invalidating-each-othe|Stop
+  the two bundles of the combined rollout package from invalidating each other''s…]]'
+- '[[Changes/Codex CLI/2026-08-07-10-collaboration-changes-in-rust-v0-147-0|10 Collaboration
+  changes in rust-v0.147.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-13-google-drive-is-now-in-library-bbf66648|chatgpt-2026-08-13-google-drive-is-now-in-library-bbf66648]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-07-29 · Cursor · [[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch between teams that you belong to directly in the app]]
+- Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-10-collaboration-changes-in-rust-v0-147-0|10 Collaboration changes in rust-v0.147.0]]
 - Later: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-hardened-the-auto-generated-cross-session-messaging-socket-directory-on-shared-t|Hardened the auto-generated cross-session messaging socket directory on shared /tmp]]
 <!-- chronolog:end -->
 

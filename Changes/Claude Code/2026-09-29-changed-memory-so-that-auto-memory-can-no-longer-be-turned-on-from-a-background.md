@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1143f7d5180184335ff660382ff5769d849a642e8a118c3e633c22da5b85d63f
+machine_hash: 46cb298b36b8abd7099ae0c3451e89e6660d43f8e2286448d68714f3219da61f
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: Changed /memory so that Auto-memory can no longer be turned on from a background…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-28-improved-auto-memory-loading-invisible-characters-and-tags-that-imitate-claude-c|Improved
-  auto-memory loading]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-28-add-support-for-claude-code-rule-files-in-claude-rules-as-custom-instructions|Add
+  support for Claude Code rule files in .claude/rules as custom instructions]]'
 - '[[Changes/ChatGPT/2026-09-29-pages-follow-space-s-availability-and-sharing-settings-sharing-a-page-does-not-g|Pages
   follow Space’s availability and sharing settings]]'
 - '[[Changes/ChatGPT/2026-09-29-you-can-use-your-chatgpt-account-to-sign-in-to-participating-products-without-cr|Sign

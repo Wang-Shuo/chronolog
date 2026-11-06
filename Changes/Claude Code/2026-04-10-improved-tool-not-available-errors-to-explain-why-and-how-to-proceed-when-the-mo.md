@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 77ac6c06a3236d1752ab0566a37af3b6e0a6517461fb7d0a4e5d21fb690b0706
+machine_hash: 9d9f1cdef86555322dccc9982e36241d47822a6de16409a237c6dc74ce3f8dd1
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,10 +57,10 @@ record:
     the model…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-04-pro-users-now-see-a-footer-hint-when-returning-to-a-session-after-the-prompt-cac|Pro
-  users now see a footer hint when returning to a session after the prompt cache…]]'
 - '[[Changes/Claude Code/2026-04-08-improved-context-low-warning-to-show-as-a-transient-footer-notification-instead|Improved
   context-low warning to show as a transient footer notification instead…]]'
+- '[[Changes/Gemini CLI/2026-04-08-5-context-window-changes-in-v0-37-0|5 Context Window
+  changes in v0.37.0]]'
 - '[[Changes/Claude Code/2026-04-09-added-exclude-dynamic-system-prompt-sections-flag-to-print-mode-for-improved-cro|Added
   --exclude-dynamic-system-prompt-sections flag to print mode for improved…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642|claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642]]'
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-added-exclude-dynamic-system-prompt-sections-flag-to-print-mode-for-improved-cro|Added --exclude-dynamic-system-prompt-sections flag to print mode for improved…]]
-- Later: 2026-04-14 · Claude Code · [[Changes/Claude Code/2026-04-14-2-context-window-changes-in-v2-1-108|2 Context Window changes in v2.1.108]]
+- Later: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-4-context-window-changes-in-rust-v0-119-0|4 Context Window changes in rust-v0.119.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2259ddb614706ac77bf41cee2d33af69821956f4fefe671a9b0929900ccba5a4
+machine_hash: 93e38bc9c33d389f7c1ce04ce843bf8ff1df99e1393627284053051d229fed98
 product: claude-code
 product_name: Claude Code
 record:
@@ -75,12 +75,12 @@ record:
   title: 11 Apps and Integrations changes in v2.1.287
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-supported-plugins-can-use-mcp-events-to-start-an-automation-when-something-chang-d9add6|Start
-  automations from connected-app events]]'
-- '[[Changes/Claude Code/2026-09-29-14-apps-and-integrations-changes-in-v2-1-285|14
-  Apps and Integrations changes in v2.1.285]]'
+- '[[Changes/Gemini CLI/2026-09-29-2-apps-and-integrations-changes-in-v0-62-0|2 Apps
+  and Integrations changes in v0.62.0]]'
 - '[[Changes/Claude Code/2026-09-30-11-apps-and-integrations-changes-in-v2-1-286|11
   Apps and Integrations changes in v2.1.286]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-30-3-apps-and-integrations-changes-in-v1-0-90|3
+  Apps and Integrations changes in v1.0.90]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'
 source_type: github_releases
 theme: apps-integrations
@@ -143,8 +143,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.287
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-11-apps-and-integrations-changes-in-v2-1-286|11 Apps and Integrations changes in v2.1.286]]
-- Later: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-5-apps-and-integrations-changes-in-v2-1-288|5 Apps and Integrations changes in v2.1.288]]
+- Earlier: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-3-apps-and-integrations-changes-in-v1-0-90|3 Apps and Integrations changes in v1.0.90]]
+- Later: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-4-apps-and-integrations-changes-in-rust-v0-160-0|4 Apps and Integrations changes in rust-v0.160.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

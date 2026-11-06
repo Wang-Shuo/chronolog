@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d6404a4d53d0de0805802acc978c509f2624cc23df080bc2d6ce9b441ec16152
+machine_hash: bd2bf98c3bc3838a5371560cd21f4196ceead8be44c493550ae7f9766d38e2d7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,12 +54,12 @@ record:
   title: GPT-5.3 Instant Update
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-18-2-model-support-changes-in-cli-improvements-and-mermaid-ascii|2
-  Model Support changes in CLI Improvements and Mermaid ASCII…]]'
-- '[[Changes/Claude Code/2026-02-19-2-model-support-changes-in-v2-1-49|2 Model Support
-  changes in v2.1.49]]'
-- '[[Changes/Claude Code/2026-02-24-the-model-picker-now-shows-human-readable-labels-e-g-sonnet-4-5-instead-of-raw-m|The
-  /model picker now shows human-readable labels (e.g., "Sonnet 4.5") instead…]]'
+- '[[Changes/Cline/2026-02-27-4-model-support-changes-in-v3-68-0|4 Model Support changes
+  in v3.68.0]]'
+- '[[Changes/Gemini CLI/2026-02-27-11-model-support-changes-in-v0-31-0|11 Model Support
+  changes in v0.31.0]]'
+- '[[Changes/Codex CLI/2026-03-02-4-model-support-changes-in-rust-v0-107-0|4 Model
+  Support changes in rust-v0.107.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-03-gpt-5-3-instant-update-a32de9bf|chatgpt-2026-03-03-gpt-5-3-instant-update-a32de9bf]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-24 · Claude Code · [[Changes/Claude Code/2026-02-24-the-model-picker-now-shows-human-readable-labels-e-g-sonnet-4-5-instead-of-raw-m|The /model picker now shows human-readable labels (e.g., "Sonnet 4.5") instead…]]
-- Later: 2026-03-04 · Claude Code · [[Changes/Claude Code/2026-03-04-3-model-support-changes-in-v2-1-68|3 Model Support changes in v2.1.68]]
+- Earlier: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-4-model-support-changes-in-rust-v0-107-0|4 Model Support changes in rust-v0.107.0]]
+- Later: 2026-03-03 · Cline · [[Changes/Cline/2026-03-03-restore-gpt-oss-native-file-editing-on-openai-compatible-models|Restore GPT-OSS native file editing on OpenAI-compatible models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

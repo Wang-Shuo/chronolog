@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7df59a0987645d0a4d634eb1c37cbbed825d23a0e49f6512638ae4c5be51de23
+machine_hash: a68a73b3101c9f0930ee6f76f8b6586a6c08c3ae47f75785377d8b1b8c294f91
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,10 +58,10 @@ record:
     appear…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-21-prompt-history-no-longer-records-consecutive-duplicate-entries-recalling-a-promp|Prompt
-  history no longer records consecutive duplicate entries]]'
-- '[[Changes/Claude Code/2026-05-22-markdown-output-now-renders-gfm-task-list-checkboxes-todo-x-done-instead-of-plai|Markdown
-  output now renders GFM task list checkboxes (-   todo / - x done)…]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-23-6-interface-experience-changes-in-v1-0-52|6
+  Interface Experience changes in v1.0.52]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-24-2-interface-experience-changes-in-v1-0-53|2
+  Interface Experience changes in v1.0.53]]'
 - '[[Changes/Claude Code/2026-05-27-in-fullscreen-mode-the-thinking-for-ns-indicator-now-counts-up-live-while-the-mo|In
   fullscreen mode, the "Thinking for Ns" indicator now counts up live…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9|claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9]]'

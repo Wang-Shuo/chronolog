@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 97e6d5d2e270d2f43d27b73fbea63e00d8600b1d7addd11401ae7c8c18e647be
+machine_hash: 93a7be9e20c74335fa507868a834251025ea6b426f2655f648876274e6096617
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: Improved memory usage for `--resume` (68% reduction for users with many sessions)…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-16-faster-message-queueing-and-ux|Faster message queueing
-  and UX]]'
-- '[[Changes/Claude Code/2026-01-21-improved-ui-rendering-performance-with-react-compiler|Improved
-  UI rendering performance with React Compiler]]'
-- '[[Changes/Cursor/2026-01-22-4-reliability-and-performance-changes-in-2-4|4 Reliability
-  and Performance changes in 2.4]]'
+- '[[Changes/Cline/2026-01-27-throttle-diff-view-updates-during-streaming-to-reduce-ui-flickering-and-improve|Throttle
+  diff view updates during streaming to reduce UI flickering and improve…]]'
+- '[[Changes/Windsurf/2026-01-30-various-bug-fixes-and-performance-improvements|Various
+  bug fixes and performance improvements]]'
+- '[[Changes/Codex CLI/2026-01-31-3-reliability-and-performance-changes-in-rust-v0-93-0|3
+  Reliability and Performance changes in rust-v0.93.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2|claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2]]'
 source_type: github_releases
 theme: reliability-performance
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-4-reliability-and-performance-changes-in-2-4|4 Reliability and Performance changes in 2.4]]
-- Later: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-performance-improvements-we-ve-made-multiple-performance-enhancements-to-improve|Performance improvements]]
+- Earlier: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-3-reliability-and-performance-changes-in-rust-v0-93-0|3 Reliability and Performance changes in rust-v0.93.0]]
+- Later: 2026-02-05 · Windsurf · [[Changes/Windsurf/2026-02-05-various-bug-fixes-and-performance-improvements|Various bug fixes and performance improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

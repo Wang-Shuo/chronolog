@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-31T15:51:57+00:00",
+  "generatedAt": "2026-11-03T03:49:20+00:00",
   "title": "Design System: ChronoLog",
   "extensions": {
     "colorMeta": {
@@ -304,6 +304,13 @@
       "description": "Native <details> fold for timeline years and product archives: ruled list, Heading Ink summary, ochre CSS chevron.",
       "html": "<div class=\"ds-folds\"><details class=\"ds-disclosure\" open><summary>2026 · 218 entries (ChatGPT 3 · Claude Code 126 · Cursor 89)</summary><p class=\"ds-month\">2026-10</p><ul><li>2026-10-20 · <strong>Cursor</strong> · <a href=\"#\">Agent SDK</a> · Launch</li></ul></details><details class=\"ds-disclosure\"><summary>2025 · 52 entries (ChatGPT 2 · Cursor 50)</summary><p>…</p></details></div>",
       "css": ".ds-folds { font-family: Inter, system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: var(--darkgray, #34332f); max-width: 640px; } .ds-disclosure { border-top: 1px solid var(--lightgray, #dedbd2); } .ds-disclosure:last-child { border-bottom: 1px solid var(--lightgray, #dedbd2); } .ds-disclosure > summary { display: flex; align-items: center; gap: 0.75rem; padding: 0.65rem 0; list-style: none; cursor: pointer; font-weight: 600; color: var(--dark, #171714); } .ds-disclosure > summary::-webkit-details-marker { display: none; } .ds-disclosure > summary::before { content: ''; flex: none; width: 0.45rem; height: 0.45rem; margin-left: 0.15rem; border-right: 2px solid var(--secondary, #8a5c12); border-bottom: 2px solid var(--secondary, #8a5c12); transform: rotate(-45deg); transition: transform 0.2s ease, border-color 0.2s ease; } .ds-disclosure[open] > summary::before { transform: translateY(-0.15rem) rotate(45deg); } .ds-disclosure > summary:hover::before { border-color: var(--tertiary, #3f6f6b); } .ds-disclosure > summary:focus-visible { outline: 2px solid var(--tertiary, #3f6f6b); outline-offset: 2px; border-radius: 2px; } .ds-month { font-weight: 600; color: var(--dark, #171714); margin: 0.25rem 0; } .ds-disclosure ul { margin: 0 0 1rem; line-height: 1.6; } .ds-disclosure a { color: var(--secondary, #8a5c12); font-weight: 600; text-decoration: none; background: rgba(155,106,25,0.15); padding: 0 0.1rem; border-radius: 5px; }"
+    },
+    {
+      "name": "Timeline Filter",
+      "kind": "custom",
+      "description": "Native radio group above a theme timeline; the chosen product in Heading Ink at 600.",
+      "html": "<fieldset class=\"ds-filter\"><legend>Show</legend><label><input type=\"radio\" name=\"ds-tl\" checked> All</label><label><input type=\"radio\" name=\"ds-tl\"> ChatGPT</label><label><input type=\"radio\" name=\"ds-tl\"> Claude Code</label><label><input type=\"radio\" name=\"ds-tl\"> Cursor</label></fieldset>",
+      "css": ".ds-filter { display: flex; flex-wrap: wrap; align-items: center; gap: 0.25rem 1.25rem; margin: 0; padding: 0; border: 0; font-family: Inter, system-ui, sans-serif; } .ds-filter legend { float: left; padding: 0; margin-right: 0.25rem; color: var(--gray, #6c6a63); } .ds-filter label { display: inline-flex; align-items: center; gap: 0.4rem; min-height: 2rem; cursor: pointer; color: var(--darkgray, #34332f); } .ds-filter label:has(input:checked) { color: var(--dark, #171714); font-weight: 600; } .ds-filter input { margin: 0; accent-color: var(--dark, #171714); } .ds-filter input:focus-visible { outline: 2px solid var(--tertiary, #3f6f6b); outline-offset: 2px; }"
     }
   ],
   "narrative": {

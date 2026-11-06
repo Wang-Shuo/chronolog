@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 25529f977d7a0dc390b4c564f5d7648289d1a8484b0c9c05093d3c5770657920
+machine_hash: 3f7e2dc660546ba182dcb492912355a4a5ccfb9c19e1c8c77020bb66fc161c19
 product: cursor
 product_name: Cursor
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-5-agent-mode-changes-in-custom-stores-custom-tools|5 Agent Mode changes in Custom stores, custom tools…]]
-- Later: 2026-06-06 · Claude Code · [[Changes/Claude Code/2026-06-06-claude-agents-typing-a-url-into-the-list-now-filters-to-the-session-whose-first|claude agents: typing a URL into the list now filters to the session whose first…]]
+- Later: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-2-agent-mode-changes-in-v1-0-60|2 Agent Mode changes in v1.0.60]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

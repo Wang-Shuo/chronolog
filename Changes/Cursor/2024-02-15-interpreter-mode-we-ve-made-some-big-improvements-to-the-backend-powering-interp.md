@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ce1002e4e9f7d85da5de3a9ffb95778c96ccca91bdbdb65655b24d42de5a7817
+machine_hash: 6e5081967879999a9bca31ef63ceaae658089a84484b7b028ca590a60d86b10c
 product: cursor
 product_name: Cursor
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2023-07-10 · Cursor · [[Changes/Cursor/2023-07-10-the-goal-you-write-an-interface-specification-and-an-agent-writes-both-the-tests|The goal: you write an interface specification, and an agent writes both the tests…]]
-- Later: 2024-08-02 · Cursor · [[Changes/Cursor/2024-08-02-concurrent-composers-support-composer-control-panel-and-various-bug-fixes-such-a|Concurrent composers support, composer control panel, and various bug fixes such…]]
+- Later: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-3-agent-mode-changes-in-0-7-0|3 Agent Mode changes in 0.7.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

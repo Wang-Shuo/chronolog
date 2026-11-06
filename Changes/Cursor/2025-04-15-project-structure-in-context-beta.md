@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 56be62e0554c5a7be2170e5e0f7e488ff38dd583fa4b9be1feb8376761e824ee
+machine_hash: 1839b037a8dfa8b539f4e1b3835ee4e1272d06670f6b8df6d0125ade227e5e8b
 product: cursor
 product_name: Cursor
 record:
@@ -50,10 +50,10 @@ record:
   title: Project structure in context (Beta)
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-ui-refresh-phase-one-of-a-fresh-coat-of-paint-with-new-default-cursor-themes-des|UI
-  refresh: Phase one of a fresh coat of paint with new default Cursor themes…]]'
-- '[[Changes/Cursor/2025-03-23-added-input-token-count-for-chat-messages-click-the-three-dots-to-view-we-re-con|Added
-  input token count for chat messages (click the three dots to view)]]'
+- '[[Changes/Cline/2025-04-13-use-improved-context-management|Use improved context
+  management]]'
+- '[[Changes/Cline/2025-04-14-2-context-window-changes-in-v3-12-2|2 Context Window
+  changes in v3.12.2]]'
 - '[[Changes/Cursor/2025-04-15-automated-and-improved-rules-15afc6|Automated and improved
   rules]]'
 source_release: '[[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f]]'
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-added-input-token-count-for-chat-messages-click-the-three-dots-to-view-we-re-con|Added input token count for chat messages (click the three dots to view)]]
-- Later: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-include-your-entire-codebase-in-context|Include your entire codebase in context]]
+- Earlier: 2025-04-14 · Cline · [[Changes/Cline/2025-04-14-2-context-window-changes-in-v3-12-2|2 Context Window changes in v3.12.2]]
+- Later: 2025-05-09 · Aider · [[Changes/Aider/2025-05-09-2-context-window-changes-in-v0-83-0|2 Context Window changes in v0.83.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

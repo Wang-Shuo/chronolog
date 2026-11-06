@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ae4d00664b670a769eb1fbcb6c4137dfa9044fe5677275d759720bca708b9c8c
+machine_hash: e77bc935d8b5bc4e4bcb9674a1dc87ddc3a8743f1dc91b9d8d07bef83fe95787
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,10 @@ record:
   title: Added `/simplify` and `/batch` bundled slash commands
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-26-bugbot-will-post-a-comment-on-the-original-pr-with-a-preview-of-the-autofix-chan|Bugbot
-  will post a comment on the original PR with a preview of the autofix changes…]]'
-- '[[Changes/Cursor/2026-02-26-bugbot-can-automatically-fix-issues-it-finds-in-pull-requests|Bugbot
-  can automatically fix issues it finds in pull requests]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-27-auto-theme-now-uses-the-terminal-s-actual-ansi-color-palette-for-more-accurate-c|AUTO
+  theme now uses the terminal''s actual ANSI color palette for more accurate…]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-27-type-to-reference-github-issues-pull-requests-and-discussions|Type
+  ♯ to reference GitHub issues, pull requests and discussions]]'
 - '[[Changes/Claude Code/2026-02-28-improved-model-command-to-show-the-currently-active-model-in-the-slash-command-m|Improved
   /model command to show the currently active model in the slash command menu]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c|claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c]]'
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-26 · Cursor · [[Changes/Cursor/2026-02-26-bugbot-can-automatically-fix-issues-it-finds-in-pull-requests|Bugbot can automatically fix issues it finds in pull requests]]
-- Later: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-3-developer-workflow-changes-in-2-6|3 Developer Workflow changes in 2.6]]
+- Earlier: 2026-02-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-27-type-to-reference-github-issues-pull-requests-and-discussions|Type ♯ to reference GitHub issues, pull requests and discussions]]
+- Later: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-3-developer-workflow-changes-in-rust-v0-107-0|3 Developer Workflow changes in rust-v0.107.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

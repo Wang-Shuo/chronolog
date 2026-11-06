@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: df74216740c2ff7ae8421666f970be13835155936f3aa6955bd626d06ad8a149
+machine_hash: 47be7b2c692d63c8446f17bf36c01c60135b4cfedcef5bdda0402524928b1013
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -70,12 +70,12 @@ record:
   title: Sunsetting GPT‑4 in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-27-early-testers-say-that-the-model-seems-to-better-understand-the-implied-intent-b|“Fuzzy”
-  improvements]]'
-- '[[Changes/ChatGPT/2025-03-27-gpt-4o-has-further-improved-its-capability-to-tackle-complex-technical-and-codin|Smarter
-  problem-solving in STEM and coding]]'
-- '[[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|Enhanced
-  instruction-following and formatting accuracy]]'
+- '[[Changes/Aider/2025-04-04-4-model-support-changes-in-v0-81-0|4 Model Support changes
+  in v0.81.0]]'
+- '[[Changes/Cline/2025-04-04-add-gemini-2-5-pro-preview-03-25-to-google-provider|Add
+  Gemini 2.5 Pro Preview 03-25 to Google Provider]]'
+- '[[Changes/Cline/2025-04-06-add-recommended-models-for-cline-provider|Add recommended
+  models for Cline provider]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-04-10-sunsetting-gpt-4-in-chatgpt-fe1e4ad7|chatgpt-2025-04-10-sunsetting-gpt-4-in-chatgpt-fe1e4ad7]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -102,8 +102,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-03-27 · ChatGPT · [[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|Enhanced instruction-following and formatting accuracy]]
-- Later: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-new-models|New models]]
+- Earlier: 2025-04-06 · Cline · [[Changes/Cline/2025-04-06-add-recommended-models-for-cline-provider|Add recommended models for Cline provider]]
+- Later: 2025-04-10 · Cline · [[Changes/Cline/2025-04-10-add-support-for-xai-s-provider-s-grok-3-models|Add support for xAI's provider's Grok 3 models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

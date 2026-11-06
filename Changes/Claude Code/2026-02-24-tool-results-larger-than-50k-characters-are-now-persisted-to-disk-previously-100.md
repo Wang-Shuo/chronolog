@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 940cb135b8bbcb0335f4590be8d72dc92286f55d2c34f6f492d15e0a506c70cd
+machine_hash: 32b8483d1e566af15bc4beb084d47e8f21e041b569366d20cbf92a278f19545b
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
     100K)
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-18-cli-now-stores-conversation-transcripts-that-the-agent-can-use-as-context|CLI
-  now stores conversation transcripts that the agent can use as context]]'
+- '[[Changes/Gemini CLI/2026-02-18-3-context-window-changes-in-v0-29-0|3 Context Window
+  changes in v0.29.0]]'
 - '[[Changes/ChatGPT/2026-02-20-chatgpt-now-has-a-total-context-window-length-of-256k-tokens-128k-input-and-128k|Expanded
   context window for Thinking]]'
 - '[[Changes/Claude Code/2026-02-20-2-context-window-changes-in-v2-1-50|2 Context

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8c21ac1efb1c1274950f3b8e52370f758c5c98f18a483d09b2f8ad33cb1ec109
+machine_hash: 050811dd335349cebb99e67c458b402db187518f1aaa95e41616199cd8040be9
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-added-gitlab-merge-request-url-support-to-the-worktree-flag-and-the-claude-agent|Added GitLab merge request URL support to the --worktree flag…]]
-- Later: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-2-developer-workflow-changes-in-v2-1-236|2 Developer Workflow changes in v2.1.236]]
+- Later: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-5-developer-workflow-changes-in-rust-v0-148-0|5 Developer Workflow changes in rust-v0.148.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

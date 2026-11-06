@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ed627d0a01b7c8f6a293265c21900a2f15f91c327f7736cdbf82f000171d1fb8
+machine_hash: a5c2281f4d699a574c24f7c6770c50ff1d37f776061802d79e3efc2969a656f9
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: Improved focus mode behavior
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-04-bare-color-no-args-now-picks-a-random-session-color|Bare
-  /color (no args) now picks a random session color]]'
 - '[[Changes/Claude Code/2026-05-06-2-interface-experience-changes-in-v2-1-132|2 Interface
   Experience changes in v2.1.132]]'
 - '[[Changes/Claude Code/2026-05-06-3-interface-experience-changes-in-v2-1-129|3 Interface
   Experience changes in v2.1.129]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-06-2-interface-experience-changes-in-v1-0-43|2
+  Interface Experience changes in v1.0.43]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-07-v2-1-133-github-319164825-08653677|claude-code-2026-05-07-v2-1-133-github-319164825-08653677]]'
 source_type: github_releases
 theme: interface-experience
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-3-interface-experience-changes-in-v2-1-129|3 Interface Experience changes in v2.1.129]]
-- Later: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-added-transcript-view-navigation-for-keyboard-shortcuts-to-jump-between-user-pro|Added transcript view navigation]]
+- Earlier: 2026-05-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-06-2-interface-experience-changes-in-v1-0-43|2 Interface Experience changes in v1.0.43]]
+- Later: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-20065-feat-tui-redesign-session-picker-fcoury-oai|♯20065 feat(tui): redesign session picker @fcoury-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

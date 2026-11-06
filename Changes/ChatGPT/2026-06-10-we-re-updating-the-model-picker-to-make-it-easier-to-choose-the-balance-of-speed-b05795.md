@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 330cd805450f4bcd6c9353f0f054f40817ddca47882898e27e07bbef063db53a
+machine_hash: e0d4b9812d15d5551cdca02c41f41890bb781ec4202e7b62bd1e5dacab268116
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -76,12 +76,12 @@ record:
     speed…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-08-table-of-contents-in-longer-conversations-conversations-longer-than-five-respons|Table
-  of contents in longer conversations]]'
 - '[[Changes/ChatGPT/2026-06-08-cleaned-up-logged-out-mobile-web-experience-logged-out-users-now-see-a-composer|Cleaned
   up logged-out mobile web experience]]'
 - '[[Changes/Claude Code/2026-06-08-2-interface-experience-changes-in-v2-1-169|2 Interface
   Experience changes in v2.1.169]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-09-2-interface-experience-changes-in-v1-0-61|2
+  Interface Experience changes in v1.0.61]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba|chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -119,8 +119,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-2-interface-experience-changes-in-v2-1-169|2 Interface Experience changes in v2.1.169]]
-- Later: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-added-footerlinksregexes-setting-for-regex-matched-link-badges-in-the-footer-row|Added footerLinksRegexes setting for regex-matched link badges in the footer row…]]
+- Earlier: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-2-interface-experience-changes-in-v1-0-61|2 Interface Experience changes in v1.0.61]]
+- Later: 2026-06-10 · Windsurf · [[Changes/Windsurf/2026-06-10-agent-and-editor-modes|Agent and Editor modes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

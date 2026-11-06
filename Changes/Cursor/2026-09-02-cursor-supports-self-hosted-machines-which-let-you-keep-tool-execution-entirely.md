@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5f30d29f78edf35c30997427227b21e81bd3e09356e95460daaa571c6e82ff8c
+machine_hash: ffdee9b9444c13df7059341b26f61d5b7fc80385e1504bb7b311265ed10990a0
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,8 @@ record:
   title: Cursor supports self-hosted machines, which let you keep tool execution entirely…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-02-2-agent-mode-changes-in-v2-1-259|2 Agent Mode
-  changes in v2.1.259]]'
+- '[[Changes/Cline/2026-09-02-aborting-a-task-now-also-cancels-the-delegated-subagents-and-teammates-it-spawne|Aborting
+  a task now also cancels the delegated subagents and teammates it spawned…]]'
 - '[[Changes/Cursor/2026-09-02-run-on-your-sandboxes|Run on your sandboxes]]'
 - '[[Changes/Cursor/2026-09-02-computer-use-on-linux-and-mac|Computer use on Linux
   and Mac]]'
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-2-agent-mode-changes-in-v2-1-259|2 Agent Mode changes in v2.1.259]]
+- Earlier: 2026-09-02 · Cline · [[Changes/Cline/2026-09-02-aborting-a-task-now-also-cancels-the-delegated-subagents-and-teammates-it-spawne|Aborting a task now also cancels the delegated subagents and teammates it spawned…]]
 - Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-2-agent-mode-changes-in-v2-1-260|2 Agent Mode changes in v2.1.260]]
 <!-- chronolog:end -->
 

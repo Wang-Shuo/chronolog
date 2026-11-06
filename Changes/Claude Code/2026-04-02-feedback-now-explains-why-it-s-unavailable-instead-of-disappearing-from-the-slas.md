@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2726fa049926052d5a7abc48549f74cbe0bed0db2ebec521a80fc3755b328d49
+machine_hash: 746da67c570ce446312ffa53ec8995d87c2976954651a178bfe0b87a387e007a
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     the slash menu'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed
-  /skills menu to sort alphabetically for easier scanning]]'
-- '[[Changes/Claude Code/2026-04-01-changed-resume-picker-to-no-longer-show-sessions-created-by-claude-p-or-sdk-invo|Changed
-  --resume picker to no longer show sessions created by claude -p or SDK…]]'
 - '[[Changes/Claude Code/2026-04-01-added-claude-code-no-flicker-1-environment-variable-to-opt-into-flicker-free-alt|Added
   CLAUDE_CODE_NO_FLICKER=1 environment variable to opt into flicker-free…]]'
+- '[[Changes/Gemini CLI/2026-04-01-2-interface-experience-changes-in-v0-36-0|2 Interface
+  Experience changes in v0.36.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-01-4-interface-experience-changes-in-v1-0-15|4
+  Interface Experience changes in v1.0.15]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc|claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc]]'
 source_type: github_releases
 theme: interface-experience
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-added-claude-code-no-flicker-1-environment-variable-to-opt-into-flicker-free-alt|Added CLAUDE_CODE_NO_FLICKER=1 environment variable to opt into flicker-free…]]
+- Earlier: 2026-04-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-01-4-interface-experience-changes-in-v1-0-15|4 Interface Experience changes in v1.0.15]]
 - Later: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-deprecated-the-previous-worktree-and-best-of-n-selection-from-the-editor|Deprecated the previous worktree and best-of-n selection from the Editor]]
 <!-- chronolog:end -->
 

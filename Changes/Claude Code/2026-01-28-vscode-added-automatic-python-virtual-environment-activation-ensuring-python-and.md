@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c08851c458068f48ce870d1d587e2a24337127b056fcc703ad310fe7fbdea510
+machine_hash: 991862904f622d319fa7e25b1930bf8a1c7497efbb3fee07bdba0234cb400a4c
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     `python`…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-3-developer-workflow-changes-in-2-4|3 Developer Workflow
-  changes in 2.4]]'
-- '[[Changes/Claude Code/2026-01-23-2-developer-workflow-changes-in-v2-1-19|2 Developer
-  Workflow changes in v2.1.19]]'
 - '[[Changes/Claude Code/2026-01-27-3-developer-workflow-changes-in-v2-1-20|3 Developer
   Workflow changes in v2.1.20]]'
+- '[[Changes/Codex CLI/2026-01-27-2-developer-workflow-changes-in-rust-v0-92-0|2 Developer
+  Workflow changes in rust-v0.92.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-27-2-developer-workflow-changes-in-v0-0-396|2
+  Developer Workflow changes in v0.0.396]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-28-v2-1-21-github-280523920-bba74245|claude-code-2026-01-28-v2-1-21-github-280523920-bba74245]]'
 source_type: github_releases
 theme: developer-workflow
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-3-developer-workflow-changes-in-v2-1-20|3 Developer Workflow changes in v2.1.20]]
-- Later: 2026-01-29 · Claude Code · [[Changes/Claude Code/2026-01-29-changed-bash-commands-to-show-timeout-duration-alongside-elapsed-time|Changed Bash commands to show timeout duration alongside elapsed time]]
+- Earlier: 2026-01-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-27-2-developer-workflow-changes-in-v0-0-396|2 Developer Workflow changes in v0.0.396]]
+- Later: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-8-developer-workflow-changes-in-v0-26-0|8 Developer Workflow changes in v0.26.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

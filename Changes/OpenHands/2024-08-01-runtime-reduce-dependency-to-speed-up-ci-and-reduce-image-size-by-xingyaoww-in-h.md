@@ -1,0 +1,95 @@
+---
+card_id: openhands-2024-08-01-83d8f2
+date: '2024-08-01'
+description: 'OpenHands · 2024-08-01 · Reliability and Performance: [Runtime] Reduce
+  dependency to speed up CI and reduce image size by @xingyaoww in…'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 595
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: reliability-performance
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: 7da61399ea4c54d50bf323c89fbe429eac4677875ce5abb95aa3033315070539
+product: openhands
+product_name: OpenHands
+record:
+  card_id: openhands-2024-08-01-83d8f2
+  comparison: ''
+  date: '2024-08-01'
+  description: 'OpenHands — 0.8.3: [Runtime] Reduce dependency to speed up CI and
+    reduce image size by @xingyaoww in https://github.com/OpenDevin/OpenDevin/pull/3195'
+  evidence:
+  - quote: '[Runtime] Reduce dependency to speed up CI and reduce image size by @xingyaoww
+      in https://github.com/OpenDevin/OpenDevin/pull/3195'
+    source_release: https://github.com/OpenHands/OpenHands/releases/tag/0.8.3
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: openhands
+  product_name: OpenHands
+  slug: runtime-reduce-dependency-to-speed-up-ci-and-reduce-image-size-by-xingyaoww-in-h
+  source_release: openhands-2024-08-01-0-8-3-github-168304067-dfbe22ff
+  source_type: github_releases
+  theme: reliability-performance
+  title: '[Runtime] Reduce dependency to speed up CI and reduce image size'
+  type: change
+related_changes:
+- '[[Changes/Aider/2024-07-04-3-reliability-and-performance-changes-in-v0-42-0|3 Reliability
+  and Performance changes in v0.42.0]]'
+- '[[Changes/Cursor/2024-07-23-copilot-now-has-chunked-streaming-currently-in-beta-it-will-surface-edits-faster|Copilot++
+  now has chunked streaming (currently in Beta)!]]'
+- '[[Changes/Aider/2024-07-31-improved-performance-of-lint-on-all-dirty-files-in-repo|Improved
+  performance of --lint on all dirty files in repo]]'
+source_release: '[[Releases/OpenHands/openhands-2024-08-01-0-8-3-github-168304067-dfbe22ff|openhands-2024-08-01-0-8-3-github-168304067-dfbe22ff]]'
+source_type: github_releases
+theme: reliability-performance
+title: Runtime Reduce dependency to speed up CI and reduce image size
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# [Runtime] Reduce dependency to speed up CI and reduce image size
+
+**OpenHands** · 2024-08-01 · [[Themes/reliability-performance|Reliability and Performance]] · [Official source](https://github.com/OpenHands/OpenHands/releases/tag/0.8.3) · from [[Releases/OpenHands/openhands-2024-08-01-0-8-3-github-168304067-dfbe22ff|0.8.3]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> [Runtime] Reduce dependency to speed up CI and reduce image size by @xingyaoww in https://github.com/OpenDevin/OpenDevin/pull/3195
+>
+> Source: https://github.com/OpenHands/OpenHands/releases/tag/0.8.3
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/OpenHands/2024-08-01-2-safety-and-privacy-changes-in-0-8-3|2 Safety and Privacy changes in 0.8.3]] · Safety and Privacy
+- [[Changes/OpenHands/2024-08-01-add-unit-tests-for-llm-init-function-by-neubig-in-https-github-com-opendevin-ope|Add unit tests for LLM init function]] · Model Support
+- [[Changes/OpenHands/2024-08-01-4-developer-workflow-changes-in-0-8-3|4 Developer Workflow changes in 0.8.3]] · Developer Workflow
+- [[Changes/OpenHands/2024-08-01-2-agent-mode-changes-in-0-8-3|2 Agent Mode changes in 0.8.3]] · Agent Mode
+- [[Changes/OpenHands/2024-08-01-21-other-changes-in-0-8-3|21 other changes in 0.8.3]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Reliability and Performance
+
+- Earlier: 2024-07-31 · Aider · [[Changes/Aider/2024-07-31-improved-performance-of-lint-on-all-dirty-files-in-repo|Improved performance of --lint on all dirty files in repo]]
+- Later: 2024-08-02 · Cursor · [[Changes/Cursor/2024-08-02-faster-cursor-tab-suggestions|Faster Cursor Tab Suggestions!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20openhands-2024-08-01-83d8f2&body=Card%3A%20Changes%2FOpenHands%2F2024-08-01-runtime-reduce-dependency-to-speed-up-ci-and-reduce-image-size-by-xingyaoww-in-h.md%0ACard%20ID%3A%20openhands-2024-08-01-83d8f2%0ASource%3A%20https%3A%2F%2Fgithub.com%2FOpenHands%2FOpenHands%2Freleases%2Ftag%2F0.8.3%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

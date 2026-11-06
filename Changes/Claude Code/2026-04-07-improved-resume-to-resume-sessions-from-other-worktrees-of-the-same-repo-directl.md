@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 84a2edf8b8dbd0674264d7a2cabf7b47ef197750d1800c256bd9c1db094c6cc0
+machine_hash: 0bd4eeb859169319feb1362047d911315ac716cb8691988d96dc617d80a89785
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Improved `--resume` to resume sessions from other worktrees of the same repo…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-25-sources-from-chats-save-useful-chatgpt-responses-into-your-project-so-great-outp|Sources
-  from chats]]'
-- '[[Changes/Claude Code/2026-03-06-improved-rename-to-work-while-claude-is-processing-instead-of-being-silently-que|Improved
-  /rename to work while Claude is processing, instead of being silently queued]]'
-- '[[Changes/Claude Code/2026-03-14-added-n-name-name-cli-flag-to-set-a-display-name-for-the-session-at-startup|Added
-  -n / --name name CLI flag to set a display name for the session at startup]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-17-session-resume-no-longer-fails-with-session-file-is-corrupted-for-sessions-creat|Session
+  resume no longer fails with ''Session file is corrupted'' for sessions created…]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-20-session-history-is-no-longer-lost-when-exiting-via-quit-ctrl-c-or-restart|Session
+  history is no longer lost when exiting via /quit, Ctrl+C, or restart]]'
+- '[[Changes/Codex CLI/2026-03-26-14945-feat-tui-restore-composer-history-in-app-server-tui-fcoury|♯14945
+  feat(tui): restore composer history in app-server tui @fcoury]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-07-v2-1-94-github-306300914-5622fba4|claude-code-2026-04-07-v2-1-94-github-306300914-5622fba4]]'
 source_type: github_releases
 theme: projects-workspaces
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-added-n-name-name-cli-flag-to-set-a-display-name-for-the-session-at-startup|Added -n / --name name CLI flag to set a display name for the session at startup]]
-- Later: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-added-claude-project-purge-path-to-delete-all-claude-code-state-for-a-project-tr|- Added claude project purge path to delete all Claude Code state for a project…]]
+- Earlier: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-14945-feat-tui-restore-composer-history-in-app-server-tui-fcoury|♯14945 feat(tui): restore composer history in app-server tui @fcoury]]
+- Later: 2026-04-11 · Codex CLI · [[Changes/Codex CLI/2026-04-11-sessionstart-hooks-can-distinguish-sessions-created-by-clear-from-fresh-startup|SessionStart hooks can distinguish sessions created by /clear from fresh startup…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

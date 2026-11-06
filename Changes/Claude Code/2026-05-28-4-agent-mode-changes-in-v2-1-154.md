@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e9b72f1af86adac52ac2f0936265a3de4760286e213747f8bbbe62c3b978513b
+machine_hash: f7554620bd412ef62f47b4cbee3fc7e73c976955727b80136876ef89c87a03cf
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,11 +51,11 @@ record:
   title: 4 Agent Mode changes in v2.1.154
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-20-loop-skill|/loop skill]]'
-- '[[Changes/Claude Code/2026-05-21-auto-mode-no-longer-suppresses-askuserquestion-when-the-user-or-a-skill-explicit|Auto
-  mode no longer suppresses AskUserQuestion when the user or a skill explicitly…]]'
 - '[[Changes/Claude Code/2026-05-27-2-agent-mode-changes-in-v2-1-152|2 Agent Mode
   changes in v2.1.152]]'
+- '[[Changes/Gemini CLI/2026-05-27-4-agent-mode-changes-in-v0-44-0|4 Agent Mode changes
+  in v0.44.0]]'
+- '[[Changes/Windsurf/2026-05-27-devin-local|Devin Local]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9|claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9]]'
 source_type: github_releases
 theme: agent-mode
@@ -100,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.154
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-2-agent-mode-changes-in-v2-1-152|2 Agent Mode changes in v2.1.152]]
+- Earlier: 2026-05-27 · Windsurf · [[Changes/Windsurf/2026-05-27-devin-local|Devin Local]]
 - Later: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-3-agent-mode-changes-in-v2-1-153|3 Agent Mode changes in v2.1.153]]
 <!-- chronolog:end -->
 

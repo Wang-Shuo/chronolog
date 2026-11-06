@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 7d8cdeb052b4d0a66bde442b0407b2573cf75cf379bf42de5b0649ddf0d38533
+machine_hash: e1c12ae9d5da1895fd4f86e7694872241e375443348539a1e22b052b2bdd2f7c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,11 +43,12 @@ record:
     desktop app
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-21-ios-widget-see-below|iOS widget (see below)]]'
-- '[[Changes/ChatGPT/2025-02-28-long-press-to-select-text-on-ios-and-moved-the-message-quick-actions-to-always-b-a40c3f|Long
-  press to select text on iOS and moved the message quick actions to always…]]'
-- '[[Changes/ChatGPT/2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved
-  table-copying functionality out of ChatGPT responses on iOS and macOS]]'
+- '[[Changes/OpenHands/2025-05-05-made-small-tweaks-for-mobile-styles-by-rbren-in-https-github-com-all-hands-ai-op|Made
+  small tweaks for mobile styles]]'
+- '[[Changes/Codex CLI/2025-07-10-thanks-to-pchuri-so-that-when-running-codex-installed-via-npm-process-platform-a|Thanks
+  to @pchuri so that when running Codex installed via npm…]]'
+- '[[Changes/Gemini CLI/2025-07-11-don-t-enforce-leading-slash-since-that-s-not-true-on-windows-by-scidomino-in-htt|Don''t
+  enforce leading slash since that''s not true on Windows]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1|chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -77,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved table-copying functionality out of ChatGPT responses on iOS and macOS]]
-- Later: 2025-08-22 · ChatGPT · [[Changes/ChatGPT/2025-08-22-this-feature-will-initially-only-be-available-on-the-chatgpt-website-and-windows|This feature will initially only be available on the ChatGPT website and Windows app]]
+- Earlier: 2025-07-11 · Gemini CLI · [[Changes/Gemini CLI/2025-07-11-don-t-enforce-leading-slash-since-that-s-not-true-on-windows-by-scidomino-in-htt|Don't enforce leading slash since that's not true on Windows]]
+- Later: 2025-07-19 · Codex CLI · [[Changes/Codex CLI/2025-07-19-though-https-github-com-openai-codex-pull-1590-should-make-it-so-that-on-windows|Though (source link) should make it so that, on Windows…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

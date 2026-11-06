@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b3a91601669f78e818012a4eb91926f77bc4d652e9e88d8b955544533d5d2dcf
+machine_hash: d71853b94aa220defa09cbf26b5feeb00aef9aade1cb801a54fcdf71905780cc
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Added a `dir` prop on a mod's `Text` for right-to-left text
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-07-code-review-improved-code-review-s-add-a-repository-dialog-to-list-each-reposito|Code
-  Review Improved Code Review''s Add a repository dialog to list each repository…]]'
-- '[[Changes/Claude Code/2026-10-08-added-a-line-on-stderr-when-it-is-a-terminal-that-says-what-a-claude-p-run-is-wa|Added
-  a line on stderr, when it is a terminal, that says what a claude -p run…]]'
-- '[[Changes/Claude Code/2026-10-09-3-developer-workflow-changes-in-v2-1-296|3 Developer
-  Workflow changes in v2.1.296]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-12-interactive-sessions-in-git-repositories-reach-the-input-prompt-sooner|Interactive
+  sessions in git repositories reach the input prompt sooner]]'
+- '[[Changes/Cline/2026-10-13-deleting-a-slash-command-from-the-input-keeps-the-spacing-of-the-text-around-it|Deleting
+  a slash command from the input keeps the spacing of the text around it]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-13-background-shell-wait-status-no-longer-animates-when-no-foreground-work-is-runni|Background-shell
+  wait status no longer animates when no foreground work is running]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
 source_type: github_releases
 theme: developer-workflow
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-3-developer-workflow-changes-in-v2-1-296|3 Developer Workflow changes in v2.1.296]]
+- Earlier: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-background-shell-wait-status-no-longer-animates-when-no-foreground-work-is-runni|Background-shell wait status no longer animates when no foreground work is running]]
 - Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-10-developer-workflow-changes-in-v2-1-299|10 Developer Workflow changes in v2.1.299]]
 <!-- chronolog:end -->
 
